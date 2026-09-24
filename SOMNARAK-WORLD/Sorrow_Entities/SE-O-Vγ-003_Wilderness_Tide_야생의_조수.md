@@ -50,14 +50,24 @@
 
 | Statistic | Value |
 |---|---|
-| **Risk tier** | Major |
+| **Risk tier** | Major (Vγ) |
 | **Entity role** | Object/Place — border surge |
 | **Primary pressure** | Resolve |
+| **Speed** | 1–3 (Ponderous environmental surge) |
 | **Activation threshold** | Wilderness Han surge detected at outer watchtowers |
 | **Sorrow Gauge [HP]** | 900/900 out of 1000 |
-| **Han Pressure [ATK]** | 25–60 per hit · Weight |
-| **HP** | 900/900 out of 1000 |
+| **Han Pressure [ATK]** | 25–60 per hit · Weight (Black) |
 | **Starting Sorrow Gauge** | 30–50% |
+| **Han-Energy Yield** | 24–32 per successful containment cycle |
+
+### Damage Resistances
+
+| Damage Type | Multiplier | Tactical Note |
+|---|---|---|
+| **Crimson (Grudge)** | 1.0 (Normal) | Standard kinetic damage penetration. |
+| **Deep Blue (Lament)** | 0.8 (Endured) | Resistant to acoustic weeping. |
+| **Pale White (Void)** | 1.5 (Weak) | Vulnerable to conceptual void dissolution. |
+| **Black (Weight)** | 0.5 (Immune / Endured) | Heavily resistant to gravitational shockwaves. |
 
 ### Combat Actions
 
@@ -109,7 +119,16 @@ Wilderness Tide is not born from a single sorrow or a specific event. It is the 
 
 ## Behavior
 
-Wilderness Tide is predictable only in its unpredictability. It surges, recedes, and returns — but the timing, intensity, and duration vary. The Wardens have developed sophisticated early-warning systems (the Outer Watchtowers) to detect buildup, but they cannot prevent the surge — only withstand it.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+
+| Work Type | Response | Gauge Change |
+|---|---|---|
+| **Flerehan** (Tears) | N/A — Macro-environmental wilderness surges do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — The wilderness tide cannot be physically struck through Pugnahan. | N/A |
+| **Viderehan** | Remote acoustic observation and seismic monitoring from the Outer Watchtowers. | Stable |
+| **Ferrehan** | Direct physical endurance holding the outer perimeter wall under heavy ballast anchors. | Decrease |
+
+### Tidal Surge Progression
 
 | Phase | Action | Effect |
 |---|---|---|

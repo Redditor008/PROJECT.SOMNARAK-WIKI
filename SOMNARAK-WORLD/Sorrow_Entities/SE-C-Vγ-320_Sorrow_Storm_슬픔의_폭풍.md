@@ -133,14 +133,20 @@
 
 > **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
-The Storm does not respond to Work Types in the conventional sense.
+| Work Type | Response | Gauge Change |
+|---|---|---|
+| **Flerehan** (Tears) | N/A — Atmospheric storm phenomena cannot be emotionally engaged through Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Macro-environmental storm forces cannot be physically confronted through Pugnahan. | N/A |
+| **Viderehan** | Remote acoustic observation and barometric frequency monitoring from reinforced bunkers. | Stable |
+| **Ferrehan** | Direct physical endurance inside the storm perimeter under heavy ballast anchors. | Decrease |
+
+### Storm Environmental Progression
 
 | Condition | Response | Gauge Change |
 |---|---|---|
 | **The Storm arrives** | Buildings crack and entities become agitated. | Increase |
 | **The Storm passes** | Devastation remains but ambient sorrow decreases. | Decrease |
 | **Caught in the Storm** | Personnel experience overwhelming grief and weight. | Severe |
-
 
 ### Operational Work Notes
 
