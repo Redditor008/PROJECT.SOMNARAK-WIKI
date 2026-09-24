@@ -1,20 +1,73 @@
-# PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE
+#!/usr/bin/env python3
+"""
+tools/expand_conversion_guide.py
+Generates the massively expanded, definitive P.M. Abnormality to P.S. Sorrow Entity Conversion Guide.
+Includes deep tactical systems, concrete case studies, mathematical formulas, and complete SECC integration.
+"""
+
+import os
+import sys
+sys.path.insert(0, ".")
+from tools.box_formatter import make_box
+
+def add_box(title, rows, width=74):
+    box = make_box(title, rows, width=width)
+    return f"```text\n{box}\n```\n"
+
+header_box = add_box("ARCHIVE MASTER CODEX // SYSTEM TRANSMUTATION STANDARD", [
+    "DOCUMENT: PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE",
+    "REVISION: DEFINITIVE EXPANDED MASTER EDITION // YEAR 4,238",
+    "RATIFYING BODY: SECC & ARCHIVE DIRECTORATE // RESTORATION ERA",
+    "---",
+    "SCOPE: COMPLETE METAPHYSICAL, COMBAT, WORK & EQUIPMENT TRANSMUTATION",
+    "INVIOLABLE LAWS: TWO WORK TYPES FOR INANIMATE / DUAL DURABILITY SCALE"
+])
+
+hud_matrix = add_box("10-NODE LINEAR COMBAT HUD MATRIX // SPATIAL ENGAGEMENT", [
+    "[N01]       [N02]       [N03]       [N04]       [N05]",
+    "Vanguard    Striker     Support     Buffer      Tactical Lead",
+    "------------------------------------------------------------------",
+    "[N06]       [N07]       [N08]       [N09]       [N10]",
+    "Vanguard E. Flank Guard Main Body   Reserve     Rear Anchor",
+    "---",
+    "Range Band 1: Nodes 1-2 (Point-Blank Melee / Unarmed)",
+    "Range Band 2: Nodes 3-4 (Short Blade / Trench Weapons)",
+    "Range Band 3: Nodes 5-6 (Medium Polearms / Han Carbines)",
+    "Range Band 4: Nodes 7-8 (Long Ranged / Marksman Rifles)",
+    "Range Band 5: Nodes 9-10 (Global Artillery / Sovereign Resonance)"
+])
+
+two_work_box = add_box("CANONICAL TWO-WORK-TYPE OPERATIONAL LAW // INANIMATE SEs", [
+    "CLASSIFICATION: SUBJECT ENTITIES [S]",
+    "  Allowed: Viderehan, Ferrehan, Flerehan, Pugnahan (All Four)",
+    "  Rationale: Mobile entities with sentience and tangible physical anatomy",
+    "---",
+    "CLASSIFICATION: OBJECT [O], PLACE [P], TIME [T], HAZARD [H]",
+    "  Allowed: Viderehan (Observation) & Ferrehan (Endurance) ONLY",
+    "  Prohibited: Flerehan (Catharsis) & Pugnahan (Confrontation) [N/A]",
+    "  Rationale: Static relics and zones have no emotional mind to comfort",
+    "             and no duelable biological body to clash against.",
+    "  Penalty: Attempting prohibited work triggers instant catastrophic surge"
+])
+
+checklist_box = add_box("SECC DESIGN & CONVERSION VERIFICATION CHECKLIST", [
+    "01. NAME CHECK    : Authentic Korean literary/industrial identity",
+    "02. ORIGIN CHECK  : Grounded in Somnarak 6,000-year history / Four C",
+    "03. CODE CHECK    : Standard SECC format [Origin]-[Rank]-[Potency]-...",
+    "04. DURABILITY    : 150-1000 HP for Ranks I-IV; 10000+ HP for Rank V",
+    "05. GEOGRAPHY     : Planetary landmasses classified as Geography (N/A)",
+    "06. WORK TYPES    : Inanimate SEs (O, P, T, H) restricted to TWO works",
+    "07. PROHIBITION   : Flerehan & Pugnahan strictly N/A on inanimate SEs",
+    "08. SPATIAL ENGINE: 10-Node Grid, Range Bands 1-5, AP Budget assigned",
+    "09. M.A.W. TRIAD  : Weapon, Suit, Gift assigned to 5 Weight Classes",
+    "10. RE-QUOTA CHECK: Archive maintains >= 25.0% Relic-Entity balance"
+])
+
+content = f"""# PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE
 ## Project Moon to Project Somnarak Architectural, Phenomenological & Mechanical Adaptation Codex
 ### Master Systems Rework Edition — Legacy 10,000 HP Calibration & Tactical Re-Alignment
 
-```text
-+========================================================================+
-|         ARCHIVE MASTER CODEX // SYSTEM TRANSMUTATION STANDARD          |
-+------------------------------------------------------------------------+
-| DOCUMENT: PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE          |
-| REVISION: DEFINITIVE EXPANDED MASTER EDITION // YEAR 4,238             |
-| RATIFYING BODY: SECC & ARCHIVE DIRECTORATE // RESTORATION ERA          |
-+------------------------------------------------------------------------+
-| SCOPE: COMPLETE METAPHYSICAL, COMBAT, WORK & EQUIPMENT TRANSMUTATION   |
-| INVIOLABLE LAWS: TWO WORK TYPES FOR INANIMATE / DUAL DURABILITY SCALE  |
-+========================================================================+
-```
-
+{header_box}
 
 > *"To translate an entity from the City of Project Moon into the living world of Somnarak is not a matter of changing names on a spreadsheet. It is an ontological transmutation. In Project Moon, terror is extracted from the human subconscious through Cogito—a sterile laboratory isolation of personal nightmares. In Project Somnarak, terror is the weeping of a living planet: six thousand years of tectonic friction, municipal debt slavery, mass mining drownings, and unaddressed historical grief condensing into acoustic, physical Han. Every parameter must be recalibrated from artificial containment into planetary ecology."*  
 > — Directorate Chief Architect & Master Archivist, SECC Foundation Codex
@@ -72,24 +125,7 @@ When translating an Abnormality from Project Moon into a Somnarak Sorrow Entity,
 
 Project Moon's abstracted clash slots and dice rolls are replaced by a deterministic, spatial combat engine:
 
-```text
-+========================================================================+
-|         10-NODE LINEAR COMBAT HUD MATRIX // SPATIAL ENGAGEMENT         |
-+------------------------------------------------------------------------+
-| [N01]       [N02]       [N03]       [N04]       [N05]                  |
-| Vanguard    Striker     Support     Buffer      Tactical Lead          |
-| ------------------------------------------------------------------     |
-| [N06]       [N07]       [N08]       [N09]       [N10]                  |
-| Vanguard E. Flank Guard Main Body   Reserve     Rear Anchor            |
-+------------------------------------------------------------------------+
-| Range Band 1: Nodes 1-2 (Point-Blank Melee / Unarmed)                  |
-| Range Band 2: Nodes 3-4 (Short Blade / Trench Weapons)                 |
-| Range Band 3: Nodes 5-6 (Medium Polearms / Han Carbines)               |
-| Range Band 4: Nodes 7-8 (Long Ranged / Marksman Rifles)                |
-| Range Band 5: Nodes 9-10 (Global Artillery / Sovereign Resonance)      |
-+========================================================================+
-```
-
+{hud_matrix}
 
 ### 1. Speed-to-Action Point (AP) Conversion Formula
 In Somnarak, Speed is not a roll for turn order—it directly determines an operative's Action Point budget per round:
@@ -151,25 +187,7 @@ In Project Moon, containment work revolves around four generic employee actions:
 
 ### 2. The Absolute Two-Work-Type Rule for Inanimate Entities
 
-```text
-+========================================================================+
-|        CANONICAL TWO-WORK-TYPE OPERATIONAL LAW // INANIMATE SEs        |
-+------------------------------------------------------------------------+
-| CLASSIFICATION: SUBJECT ENTITIES [S]                                   |
-|   Allowed: Viderehan, Ferrehan, Flerehan, Pugnahan (All Four)          |
-| Rationale: Mobile entities with sentience and tangible physical        |
-| anatomy                                                                |
-+------------------------------------------------------------------------+
-| CLASSIFICATION: OBJECT [O], PLACE [P], TIME [T], HAZARD [H]            |
-|   Allowed: Viderehan (Observation) & Ferrehan (Endurance) ONLY         |
-|   Prohibited: Flerehan (Catharsis) & Pugnahan (Confrontation) [N/A]    |
-|   Rationale: Static relics and zones have no emotional mind to comfort |
-|              and no duelable biological body to clash against.         |
-| Penalty: Attempting prohibited work triggers instant catastrophic      |
-| surge                                                                  |
-+========================================================================+
-```
-
+{two_work_box}
 
 #### Canonical Enforcement Rules:
 - **Object (`[O]`), Place (`[P]`), Time (`[T]`), Hazard (`[H]`):** These entities can **ONLY** receive **Viderehan** and **Ferrehan**.
@@ -294,20 +312,11 @@ Every Relic dossier must include a 4-tier progressive unlock table:
 
 ## Section XI: Institutional Compliance Checklist
 
-```text
-+========================================================================+
-|            SECC DESIGN & CONVERSION VERIFICATION CHECKLIST             |
-+------------------------------------------------------------------------+
-| 01. NAME CHECK    : Authentic Korean literary/industrial identity      |
-| 02. ORIGIN CHECK  : Grounded in Somnarak 6,000-year history / Four C   |
-| 03. CODE CHECK    : Standard SECC format [Origin]-[Rank]-[Potency]-... |
-| 04. DURABILITY    : 150-1000 HP for Ranks I-IV; 10000+ HP for Rank V   |
-| 05. GEOGRAPHY     : Planetary landmasses classified as Geography (N/A) |
-| 06. WORK TYPES    : Inanimate SEs (O, P, T, H) restricted to TWO works |
-| 07. PROHIBITION   : Flerehan & Pugnahan strictly N/A on inanimate SEs  |
-| 08. SPATIAL ENGINE: 10-Node Grid, Range Bands 1-5, AP Budget assigned  |
-| 09. M.A.W. TRIAD  : Weapon, Suit, Gift assigned to 5 Weight Classes    |
-| 10. RE-QUOTA CHECK: Archive maintains >= 25.0% Relic-Entity balance    |
-+========================================================================+
-```
+{checklist_box}
+"""
 
+target_path = "SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md"
+with open(target_path, "w", encoding="utf-8") as f:
+    f.write(content)
+
+print(f"Expanded Conversion Guide successfully authored: {target_path}")
