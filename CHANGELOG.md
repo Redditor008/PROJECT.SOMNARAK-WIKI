@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Syndicate Boss Mechanics Folio: The King of Menders (`GAME_BATTLE/BOSS_MECHANICS_KING_OF_MENDERS.md`)** —
+  - Codified the comprehensive technical boss mechanics folio for Underworld Syndicate Boss `The King of Menders` (Suseonwang) in `GAME_BATTLE/BOSS_MECHANICS_KING_OF_MENDERS.md` (SOP-GB-BOSS-003).
+  - Specified the complete quadripartite modular anatomy: Welded Flesh-Core (1,200 HP, 1.6x Fatal Void vulnerability), Piston-Needle Arm (800 HP, 1.4x Fatal Weight vulnerability), Solder Crucible Arm (700 HP, boiling slag aura), and Tethered Husk Sump (600 HP, biological graft reserve).
+  - Formulated the 3-phase graft evolution engine: Phase 1 (Master Stitcher & Multi-Node Tether Traps, 3 AP), Phase 2 (Flesh-Solder Overclock & Boiling Slag Hazards, 4 AP), and Phase 3 (Sovereign Suture Storm & Total Foreclosure, 5 AP).
+  - Documented the exhaustive AI intention deck (*Needle Warren Tether*, *Debt-Suture Flurry*, *Boiling Basalt Slag*, *Flesh-Graft Suture*, and *Grand Foreclosure*) along with decision trees and proximity-based target prioritization.
+  - Completed all 3 Boss Mechanics Folios (3/3, 100.0%) in Section 4.2 of the tactical roadmap.
+  - Codified recommended 4-operative strike squad counter-doctrines and the full Grade 5 M.A.W. synthesis registry (`MAW-W-MNDR The Sovereign Suture Maul`, `MAW-S-MNDR The Flesh-Welder's Apron`, `MAW-G-MNDR The Debt Needle`, and `The Grandmaster's Ledger`).
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Sovereign Boss Mechanics Folio: The Weeping Mirror (`GAME_BATTLE/BOSS_MECHANICS_WEEPING_MIRROR.md`)** —
   - Codified the comprehensive technical boss mechanics folio for Rank IV Sovereign `SE-C-IVδ-195 The Weeping Mirror` (The Mirror of Sorrows / Learned Your Face) in `GAME_BATTLE/BOSS_MECHANICS_WEEPING_MIRROR.md` (SOP-GB-BOSS-002).
   - Specified the complete quadripartite modular anatomy: Silvered Glass Core (900 HP, 1.8x Fatal Weight vulnerability), Gilded Iron Frame (800 HP), Liquid Silver Siphon Spout (500 HP, halts 20 Composure regeneration on rupture), and autonomous Mirrored Twin Simulacra (600 HP, inverts copied operative defense profiles).
