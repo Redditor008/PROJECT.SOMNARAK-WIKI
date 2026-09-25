@@ -293,10 +293,10 @@ The planetary biosphere of Mugenhan is cataloged across a rigorous **Tripartite 
 
 ## Dedicated Specialized Operational & Macro-Narrative Suites
 
-> **Master Macro-Chronological Canon Law:** All Three SED, UCD, and R.D. happen **BEFORE** the Dawn of Hope, and **ANYTHING ELSE** happens **AFTER** the Dawn of Hope. **UNK SE happens strictly AFTER R.D.**
-> - **Ante-Dawn Operations (Before Dawn of Hope — Sequential Triad):** `Katabagil/` (SED Subterranean Descents 1–7) -> `Katharcheok/` (UCD Underworld Pacifications 1–6) -> `The_Absolvohan/` (R.D. Facility 01 Containment Cycles 0001–1,778).
-> - **Watershed Climax:** The Dawn of Hope (Cycle 1,778 / Year 4,238) — The Hand of Hope opens and transmutes 15% of sorrow into hope.
-> - **Post-Dawn & Post-R.D. Operations (After Dawn of Hope & After R.D.):** `Unknown_Entities/` (UNK SE Anomalies, occurring strictly AFTER R.D.), `SOMNARAK_DAWN_OF_HOPE.md` (The Dawn Initiative & The Lantern), `Gieok_Jeojangso/` (Memory Archive), `Jipyeongseondae/` (Horizon Caravan), and `SOMNARAK_WOUND_WALKERS.md` (Company 4 Epilogue).
+> **Master Macro-Chronological Canon Law:** All Three SED, UCD, and R.D. happen **BEFORE** the Dawn of Hope, and **ANYTHING ELSE** happens **AFTER** the Dawn of Hope. **UNK SE happens strictly AFTER R.D.** The 1,778 Mnemonic Cycles are viewable ONLY through R.D. + The Absolvohan; no division or file outside R.D. uses or references Cycles.
+> - **Ante-Dawn Operations (Before Dawn of Hope — Sequential Triad):** `Katabagil/` (SED Subterranean Descents 1–7; calendar years) -> `Katharcheok/` (UCD Underworld Pacifications 1–6; calendar years) -> `The_Absolvohan/` (R.D. Facility 01 Containment Cycles 0001–1,778).
+> - **Watershed Climax:** The Dawn of Hope (Year 4,238 / R.D. Cycle 1,778) — The Hand of Hope opens and transmutes 15% of sorrow into hope.
+> - **Post-Dawn & Post-R.D. Operations (After Dawn of Hope & After R.D.):** `Unknown_Entities/` (UNK SE Anomalies, occurring strictly AFTER R.D.), `SOMNARAK_DAWN_OF_HOPE.md` (The Dawn Initiative & The Lantern), `Gieok_Jeojangso/` (Memory Archive), `Jipyeongseondae/` (Horizon Caravan), and `SOMNARAK_WOUND_WALKERS.md` (Company 4 Epilogue). All operate in linear calendar years.
 
 Beyond the master codices, Project Somnarak maintains complete standalone operational suites that house the full chronological sagas, tactical field manuals, and combat engines:
 

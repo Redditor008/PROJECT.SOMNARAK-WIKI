@@ -292,15 +292,22 @@ Never collapse these states into the single word "done."
 **Owner's binding rulings:**
 - **"All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE"**
 - **"UNK SE Is After R.D. Even"**
+- **"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan So no Mention Of The Cycle Outside R.D. + Absolovhan and that mean The Only Things That Used The Cycle Is R.D. + Absolovhan"**
+- **"CONTINENTAL GEOGRAPHY IS NOT AN SE"**
 
-1. **The Ante-Dawn Era (Before Dawn of Hope — Sequential Tripartite Progression):**
+1. **The Cycle Localization Rule (Strict R.D. + Absolvohan Scope):**
+   - The 1,778 Mnemonic Cycles belong strictly and exclusively to **The Reverie Directorate (R.D.) / The Absolvohan (Facility 01)**.
+   - Under no circumstances is "The Cycle" used or referenced outside R.D. + The Absolvohan.
+   - Just as the 10,000-year / 50-day loop protocol in Lobotomy Corporation exists strictly inside the L Corp facility—with The City, Library of Ruina, and Limbus Company never measuring time by L Corp loops—Project Somnarak confines the Cycle system entirely to Facility 01.
+   - SED (Subterranean Expedition Division), UCD (Underworld Cleanup Descend), the Council of Sighs, the syndicate underworld, and all Post-Dawn operations operate exclusively on linear calendar time (Mugenhan Municipal Solar Standard).
+2. **The Ante-Dawn Era (Before Dawn of Hope — Sequential Tripartite Progression):**
    - All operations, descent logs, and purge chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope in sequential progression:
-     1. **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock.
-     2. **UCD (Underworld Cleanup Descend / Katharcheok):** The six pacification purges in The Raw against the underworld syndicates.
-     3. **R.D. (The Reverie Directorate / The Absolvohan):** Containment of the 292 standard Sorrow Entities, harvesting of Liquid Han, and the 1,778-Cycle loops within Facility 01.
-2. **The Watershed Climax (The Dawn of Hope):**
-   - The Hand of Hope opens at the culmination of Cycle 1,778 in Year 4,238, transmuting the first 15% of ambient sorrow into resonant Hope Entities.
-3. **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**
+     1. **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock. Operates on calendar years and depth meters (no cycle tracking).
+     2. **UCD (Underworld Cleanup Descend / Katharcheok):** The six pacification purges in The Raw against the underworld syndicates. Operates on calendar years and tactical turns (no cycle tracking).
+     3. **R.D. (The Reverie Directorate / The Absolvohan):** Containment of the 292 standard Sorrow Entities, harvesting of Liquid Han, and the internal 1,778-Cycle loops within Facility 01. The SOLE division that uses and experiences the Cycle system.
+3. **The Watershed Climax (The Dawn of Hope):**
+   - The Hand of Hope opens at the culmination of Cycle 1,778 in Year 4,238, transmuting the first 15% of ambient sorrow into resonant Hope Entities. Primary mandates of SED, UCD, and R.D. conclude; R.D. Cycle 1,778 ends.
+4. **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**
    - **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is strictly positioned AFTER R.D.**:
      - **UNK SE (Unknown Sorrow Entities):** The anomalous dossiers in `SOMNARAK-WORLD/Unknown_Entities/` manifest strictly **AFTER R.D.**, encountering Hope Bearers (`The Extinguished`, `The Undelivered Thanks`), surviving broken loop mechanics (`The Repeated Survivor`, `Book of Regressor Log Dramaturgy`), or discovered across uncharted frontiers (`The Glass Silt Drifter`, `The Singing Needle`). Continental geography is strictly sovereign landmass and not an SE.
      - **The Dawn Initiative:** The mobile fortress *The Lantern* continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).

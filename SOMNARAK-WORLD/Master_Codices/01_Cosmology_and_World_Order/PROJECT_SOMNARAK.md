@@ -5292,10 +5292,10 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 ## Operations — Story Arcs
 
 > **Master Macro-Chronological Canon Law:**
-> *All Three SED, UCD, and R.D. happen BEFORE the Dawn of Hope. ANYTHING ELSE happens AFTER the Dawn of Hope. UNK SE happens strictly AFTER R.D.*
-> - **Ante-Dawn Era (Before Dawn of Hope — Sequential Triad):** SED (Katabagil Descents 1–7) -> UCD (Katharcheok Purges 1–6) -> R.D. (The Absolvohan Facility 01 Containment Cycles 0001–1,778).
-> - **The Watershed Turning Point:** The Dawn of Hope (Cycle 1,778 / Year 4,238) — Hand of Hope opens (15% hope transmutation).
-> - **Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):** UNK SE (Unknown Sorrow Entities, strictly AFTER R.D.), The Dawn Initiative & The Lantern, The Horizon Caravan overland crossing, The Memory Archive floor realizations, The Wound Walkers pilgrimage, and continental reconstruction.
+> *All Three SED, UCD, and R.D. happen BEFORE the Dawn of Hope. ANYTHING ELSE happens AFTER the Dawn of Hope. UNK SE happens strictly AFTER R.D. The 1,778 Mnemonic Cycles are viewable ONLY through R.D. + The Absolvohan; no division outside R.D. references Cycles.*
+> - **Ante-Dawn Era (Before Dawn of Hope — Sequential Triad):** SED (Katabagil Descents 1–7; calendar years) -> UCD (Katharcheok Purges 1–6; calendar years) -> R.D. (The Absolvohan Facility 01 Containment Cycles 0001–1,778).
+> - **The Watershed Turning Point:** The Dawn of Hope (Year 4,238 / R.D. Cycle 1,778) — Hand of Hope opens (15% hope transmutation).
+> - **Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):** UNK SE (Unknown Sorrow Entities, strictly AFTER R.D.), The Dawn Initiative & The Lantern, The Horizon Caravan overland crossing, The Memory Archive floor realizations, The Wound Walkers pilgrimage, and continental reconstruction. All operate in linear calendar years.
 
 ### SED — Somnarak Exploration Decreed
 

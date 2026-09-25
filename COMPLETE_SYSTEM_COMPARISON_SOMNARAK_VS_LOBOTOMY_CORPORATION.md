@@ -263,22 +263,26 @@ In the underworld of The Raw, five criminal organizations control illicit trades
 5. **The Debt Concourse (  부채 회랑   / *Buchae Hoirang*):** Ruthless usurers who trade in ancestral grievances, blood contracts, and karmic debts, enforcing repayment through ritualistic salt-branding.
 
 ### 13.3 Macro-Chronological Triad vs. The Dawn of Hope
-In overarching campaign lore and narrative fiction, Project Somnarak adheres strictly to the **Epochal Partition Rule**:
+In overarching campaign lore and narrative fiction, Project Somnarak adheres strictly to the **Epochal Partition Rule** and the **Cycle Localization Law**:
+- **The Cycle Localization Law (PM Structural Analogy):**
+  - In Project Moon's universe, the 10,000-year / 50-day TT2 loop protocol operated exclusively inside Lobotomy Corporation headquarters under Angela and Ayin. Outside L Corp, The City, Fixer Offices, Syndicates, Library of Ruina, and Limbus Company never tracked or measured municipal time in L Corp loops.
+  - Exactly analogously, the 1,778 Mnemonic Cycles belong **STRICTLY and EXCLUSIVELY to The Reverie Directorate (R.D.) / The Absolvohan (Facility 01)**.
+  - The Cycle is viewable ONLY through R.D. + The Absolvohan. No division, file, or narrative outside R.D. references or uses Cycles. Planetary history, municipal records, SED, UCD, and post-Dawn operations use standard Mugenhan Municipal Solar Standard (MMSS) calendar years.
 - **The Ante-Dawn Era (Before Dawn of Hope — Sequential Triad):**
-  - **1. Subterranean Expedition Division (SED / Katabagil):** The 7 descent passages beneath Somnarak into the deep bedrock.
-  - **2. Underworld Cleanup Descend (UCD / Katharcheok):** The 6 pacification operations across The Raw against syndicate cartels.
-  - **3. The Reverie Directorate (R.D. / Facility 01):** The internal 1,778-cycle containment facility under Director Majin.
+  - **1. Subterranean Expedition Division (SED / Katabagil):** The 7 descent passages beneath Somnarak into the deep bedrock. Operates in calendar years and depth meters (no cycle tracking).
+  - **2. Underworld Cleanup Descend (UCD / Katharcheok):** The 6 pacification operations across The Raw against syndicate cartels. Operates in calendar years and tactical turns (no cycle tracking).
+  - **3. The Reverie Directorate (R.D. / Facility 01):** The internal 1,778-cycle containment facility under Director Majin. The SOLE entity that tracks and views Cycles.
   *Canonical Law: All primary operations of SED, UCD, and R.D. conclude prior to the Dawn of Hope.*
 - **The Watershed Turning Point:**
-  - **The Dawn of Hope (Cycle 1,778 / Year 4,238):** The Hand of Hope opens, achieving the initial 15% sorrow-to-hope transmutation.
+  - **The Dawn of Hope (Year 4,238 / R.D. Cycle 1,778 Climax):** The Hand of Hope opens, achieving the initial 15% sorrow-to-hope transmutation. R.D. Cycle 1,778 concludes.
 - **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**
   - **ANYTHING ELSE** occurs strictly **AFTER** the Dawn of Hope, and **UNK SE occurs strictly AFTER R.D.**:
-    - **Unknown Sorrow Entities (UNK SE):** Manifest and operate strictly **AFTER R.D.** (`Unknown_Entities/`), encountering Hope Bearers and uncharted frontier biomes.
+    - **Unknown Sorrow Entities (UNK SE):** Manifest and operate strictly **AFTER R.D.** (`Unknown_Entities/`), encountering Hope Bearers and uncharted frontier biomes. (Continental geography is strictly terrain, NEVER an SE).
     - The Dawn Initiative and The Lantern's continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
     - The Horizon Caravan overland expedition to Mugeukji and Cheonbulok (`Jipyeongseondae`).
     - The Memory Archive floor realizations and retrieval of The Promise (`Gieok_Jeojangso`).
     - The Wound Walkers pilgrimage across the seven crucible stations in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`).
-    - Continental reconstruction, external diplomatic expeditions, and global recovery.
+    - Continental reconstruction, external diplomatic expeditions, and global recovery. All operate in linear calendar years.
 
 ---
 
