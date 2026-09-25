@@ -84,22 +84,22 @@ OVERALL LORE HEALTH: PASS
 
 Following Review No. 4's findings, the remaining non-canonical reference links across Master Codices, Tactical Combat Engine, and Governance documents were comprehensively harmonized:
 
-1. **`Master_Codices/PROJECT_SOMNARAK.md` (6/6 resolved):**
+1. **`SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md` (6/6 resolved):**
    - Replaced all legacy flat-directory file links with their canonical categorized subdirectories (`01_Cosmology_and_World_Order/`, `02_Institutional_Wings_and_Chronicles/`, `03_Systems_Combat_Engine_and_Physics/`, `04_Municipal_Society_and_Demographics/`, `05_Entities_Tales_and_Fractures/`).
-   - Corrected lowercase `somnarak_city_layout.svg` to root `SOMNARAK_CITY_LAYOUT.svg`.
+   - Corrected lowercase layout reference to root `SOMNARAK_CITY_LAYOUT.svg`.
    - Updated template schema references to canonical authoring schemas.
-2. **`Tactical_Combat_Engine` & `MAW_Codex_Sets/README.md` (4/4 resolved):**
-   - Linked `SOMNARAK_BATTLE_SYSTEM.md` and `SOMNARAK_BATTLE_SYSTEM_STYLES.md` to their Master Codex locations.
+2. **Tactical Combat Engine & `SOMNARAK-WORLD/MAW_Codex_Sets/README.md` (4/4 resolved):**
+   - Linked battle system files to their canonical Master Codex locations (`SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md` and `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md`).
    - Clarified JSON specification object headers for Operative and Entity schemas.
-   - Fixed `REGISTRY_MASTER_STATUS.md` and `SOMNARAK_WORKSHOPS.md` cross-references in `MAW_Codex_Sets/README.md`.
+   - Fixed `REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md` and `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md` cross-references in `SOMNARAK-WORLD/MAW_Codex_Sets/README.md`.
 3. **Governance Documents (15/15 resolved):**
-   - Resolved `SOMNARAK_DAWN_OF_HOPE.md` and `SOMNARAK_WOUND_WALKERS.md` in `RULE-TO-FOLLOW.md`.
-   - Linked canonical entity dossier `SE-C-IIIβ-014` in `DEVELOPMENT.md`.
-   - Corrected `PM_VOCAB_POLICY.md` reference to `tools/banned_strings.txt` in `GOVERNANCE.md`.
-   - Synchronized `SOMNARAK_ABSOLOVHAN.md` pointer to `SOMNARAK-WORLD/The_Absolvohan/ABSOLOVHAN_OVERVIEW.md` in `SESSION_BREAK_PRECAUTION.md`.
+   - Resolved Dawn of Hope and Wound Walkers codices in `RULE-TO-FOLLOW.md` to point to `SOMNARAK-WORLD/Master_Codices/`.
+   - Linked canonical entity dossier `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md` in `DEVELOPMENT.md`.
+   - Corrected crossover policy reference to `tools/banned_strings.txt` in `GOVERNANCE.md`.
+   - Synchronized Absolvohan overview pointer to `SOMNARAK-WORLD/The_Absolvohan/ABSOLOVHAN_OVERVIEW.md` in `SESSION_BREAK_PRECAUTION.md`.
 4. **M.A.W. Registry & Changelog References (27/27 resolved):**
-   - Resolved `Final_Registry_Formal_ID_Map.md` cross-references in `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md` and `REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md` to point to the canonical status matrices.
-   - Updated 25 living file references in `CHANGELOG.md` to their full canonical paths in `SOMNARAK-WORLD/` and `REFERENCE_SOMNARAK_WIKI/`.
+   - Resolved formal ID collision map references in `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md` and `REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md` to point directly to the canonical status matrices.
+   - Updated living file references in `CHANGELOG.md` to their full canonical paths in `SOMNARAK-WORLD/` and `REFERENCE_SOMNARAK_WIKI/`.
 
 ---
 
