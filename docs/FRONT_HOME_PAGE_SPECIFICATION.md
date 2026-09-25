@@ -1,7 +1,8 @@
-# /docs ARCHITECTURE & FRONT HOME PAGE PORTAL SPECIFICATION
-## MASTER ENTRYWAY BLUEPRINT: WIKI · STORY · GAME · GAME WIKI · COLLECTION
-### GITHUB PAGES PUBLISHING ROOT: `docs/index.html`
-*(Master Blueprint Specification for `docs/index.html` — companion to `docs/README.md`).*
+# /docs FRONT HOME PAGE UI/UX TECHNICAL SPECIFICATION
+## IMPLEMENTATION BLUEPRINT: HTML5 · CSS GRID · FIVE MASTER PILLARS
+### COMPANION SPECIFICATION TO `docs/README.md` | TARGET: `docs/index.html`
+
+> **Architectural Specification Note:** This document provides the low-level UI/UX wireframes, visual design tokens, and technical implementation specifications for `docs/index.html`. For the overarching `/docs` directory index and multi-hub routing architecture, refer to [`docs/README.md`](README.md).
 
 ```text
 +========================================================================+

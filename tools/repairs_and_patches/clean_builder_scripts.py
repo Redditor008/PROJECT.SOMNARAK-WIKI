@@ -21,8 +21,8 @@ def clean_script(path):
     content = re.sub(r'\\?\\?\\Delta\\? N\\?', r'Delta N', content)
     content = re.sub(r'\\?\\?(\\Delta\\? N\s*\\?[<>]=?\s*\d+)\\?', r'\1', content)
     content = re.sub(r'\\?\\?([A-Za-z0-9_<>=\s\+\-\*/\(\)]+)\\?', lambda m: m.group(1).replace('\\', ''), content)
-    content = content.replace('\', '')
-    content = content.replace('', '')
+    # content cleanup
+    pass
 
     # Fix any accidental variable replacements if any (there are no  variables in python)
     if content != orig:

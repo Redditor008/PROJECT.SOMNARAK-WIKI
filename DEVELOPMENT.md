@@ -32,7 +32,6 @@ The `NON-WIKI` branch is stripped of web build scripts, HTML pages, and frontend
 PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ├── README.md                               # Master archive index, canon guide & directory overview
 ├── DEVELOPMENT.md                          # This development handbook
-├── INSTALL_PERCENTAGE_REPORT.md            # Coverage audit measuring reference content in the wiki
 ├── RULE-TO-FOLLOW.md                       # Owner's binding operating rules (v2: Push-Always doctrine)
 ├── UNIVERSAL_FOLLOW_RULE.md                # Portable AI baseline operating rules
 ├── SESSION_BREAK_PRECAUTION.md             # Session break, recovery protocol & work ledger

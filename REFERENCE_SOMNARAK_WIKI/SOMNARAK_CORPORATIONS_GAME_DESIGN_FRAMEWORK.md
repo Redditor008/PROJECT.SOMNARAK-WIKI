@@ -1,6 +1,6 @@
 # SOMNARAK — The Three Corporations (Original Game Design Framework)
 
-> **Archival Note:** This document preserves the original development and comparative design framework linking Project Somnarak's three core factions to contemporary facility management and dungeon-crawler gameplay paradigms. For the in-universe institutional doctrine, refer to `SOMNARAK-WORLD/Master_Codices/SOMNARAK_CORPORATIONS.md`.
+> **Archival Note:** This document preserves the original development and comparative design framework linking Project Somnarak's three core factions to contemporary facility management and dungeon-crawler gameplay paradigms. For the in-universe institutional doctrine, refer to `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md`.
 
 ---
 

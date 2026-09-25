@@ -10,6 +10,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Repository-Wide Comprehensive Cleanup & Architectural Streamlining** —
+  - **Archival Report Relocation:** Relocated historical analysis artifact `INSTALL_PERCENTAGE_REPORT.md` (226 KB) from repository root into `REFERENCE_SOMNARAK_WIKI/INSTALL_PERCENTAGE_REPORT.md`, keeping root clean and focused on living navigation.
+  - **Root Deduplication & Gateway Clarification:** Distinctly labeled root navigational gateways (`CANON_TIMELINE.md` and `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md`) and streamlined `docs/FRONT_HOME_PAGE_SPECIFICATION.md` into a dedicated UI/UX specification companion to `docs/README.md`, eliminating byte-identical duplicate concerns.
+  - **Reference Wiki Path Remediation:** Repaired broken backtick paths in `REFERENCE_SOMNARAK_WIKI/` (`MASTER_HANDOFF_PROTOCOL.md`, `ABSOLOVHAN_REPAIR_NOTES.md`, `SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md`), resolving all codex pointers to their current locations in `SOMNARAK-WORLD/Master_Codices/`.
+  - **Toolchain Syntax & Compilation Hygiene:** Resolved Python syntax string-escape flaw in `tools/repairs_and_patches/clean_builder_scripts.py`, achieving 100% clean compilation (`python3 -m py_compile`) across all 180+ scripts in `tools/` and subdirectories.
+  - **Archival Directory Annotations:** Appended formal Archival Path Notes to `REFERENCE_SOMNARAK_WIKI/README.md` and updated `DEVELOPMENT.md` and `README.md` directory maps.
+
 - **Comprehensive Remediation of Repository Integrity & Lore Review (`INTEGRITY_AND_LORE_REVIEW.md`)** —
   - Fully audited and resolved all 14 Structural Integrity Findings and 8 Lore Consistency Observations identified in the independent review.
   - **Finding 1 (Hangul inside boxes):** Validated via `check_box_symmetry.py` and AST analysis that actual ASCII text boxes contain 0 Korean Hangul (100% Romaja and monospace symmetry); isolated the scanner's false positive to standard Markdown tables (`| Key | Value |`) containing bilingual annotations.

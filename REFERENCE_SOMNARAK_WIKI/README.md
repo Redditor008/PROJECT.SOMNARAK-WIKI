@@ -1,5 +1,7 @@
 # Somnarak Reference Archive Index (`REFERENCE_SOMNARAK_WIKI`)
 
+> **Archival Path Note:** Historical audit manifests, compliance reports, and design frameworks in this directory document the state of the repository during prior architectural phases (including the pre-migration pure reference structure and the static HTML portal). Current canonical in-universe narrative codices reside in `SOMNARAK-WORLD/`, tactical battle modules in `GAME_BATTLE/`, and active engineering tools in `tools/`.
+
 Welcome to the **Somnarak Reference Standards & Audit Directory**.
 
 Following the separation of the repository, all **100% in-universe narrative documents** (the master codices, 529 Sorrow Entity dossiers, 1,196 M.A.W. set records, Ordeals, Hope Transformations, and Echo-Core dossiers) are housed directly in **`SOMNARAK-WORLD/`**.
@@ -14,6 +16,7 @@ This directory (`REFERENCE_SOMNARAK_WIKI/`) contains the out-of-world architectu
 REFERENCE_SOMNARAK_WIKI/
 ├── README.md                           # This directory index file
 ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
+├── INSTALL_PERCENTAGE_REPORT.md        # Shingle-weighted analysis of lore coverage in public wiki
 ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
 ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
 ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line transfer audit of the 34 foundational codices

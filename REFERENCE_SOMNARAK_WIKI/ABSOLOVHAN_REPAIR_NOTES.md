@@ -22,7 +22,7 @@ Narrative anchors used:
 Was a random walk with a `100.1 tons` spike roughly every fifth day, including on Day 177
 where the narrative states the reserve is empty.
 
-**Authority:** `The_REVERIE_DIRECTORATE.md` → *R.D. Classified — The Cycle* → *Absolvohan Reserve*:
+**Authority:** `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` → *R.D. Classified — The Cycle* → *Absolvohan Reserve*:
 
 > "Ordinary working stock was **reclaimed by reset**; only secretly diverted surplus —
 > approximately **0.02 tons per iteration** — persisted."
@@ -58,7 +58,7 @@ All 45 lines now read:
 A fixed figure — the tally for the current Cycle, not a running day count.
 
 ### 3. Ordeal lines — 45 lines rewritten
-**Authority:** `SOMNARAK_ORDEALS_FRAMEWORK.md` — Ordeals are classified on **two axes**,
+**Authority:** `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md` — Ordeals are classified on **two axes**,
 **Five Colors × Four Times = 20 Ordeal Types**. The generated layer recorded only the element.
 
 - **Colour** = Han source. BLUE (Lament) · BLACK (Weight) · PALE (Void) ·
@@ -96,10 +96,10 @@ Doubled word corrected to `Cell`.
 ## Correction log
 - **"The Voice" and "The Stampede" were wrongly called generator inventions.** They are
   legitimate Ordeals — the PALE and BLACK colour entries. The error came from comparing them
-  against `The_REVERIE_DIRECTORATE.md`'s Whisper/Surge/Breach/Abyss, which is the **Watch
+  against `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`'s Whisper/Surge/Breach/Abyss, which is the **Watch
   axis**, not the colour axis. Both documents were right; they describe perpendicular axes.
 - **Second pass corrected the reserve curve.** The first repair invented a *daily*
-  accumulation (47.3 → 49.8 t climbing each day). `The_REVERIE_DIRECTORATE.md` establishes
+  accumulation (47.3 → 49.8 t climbing each day). `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` establishes
   surplus persists **per iteration**, not per day, so the reserve is flat within a Cycle.
   Tidy, but wrong physics. Now flat.
 - **First pass got 1,778 wrong.** It was treated as a day/iteration count and the registry
@@ -112,10 +112,10 @@ Doubled word corrected to `Cell`.
 - **Reserve size.** Narrative says 47.3 t; R.D. archived estimate is ~36 t. Kept 47.3 t.
 - **Zone B release.** Narrative disperses 49.8 t, which exceeds a ~36 t reserve under the
   R.D.'s own arithmetic. Left as written.
-- **Kael vs. the Drift King.** `The_REVERIE_DIRECTORATE.md` Day 355 names **Kael**;
-  `THE_DIRECTOR.md` calls the same figure *"the Drift King."* Not reconciled.
+- **Kael vs. the Drift King.** `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` Day 355 names **Kael**;
+  `THE_DIRECTOR.md` (historical draft; see `SOMNARAK-WORLD/The_Absolvohan/Part_1_Day_0_The_Director_Wakes.md`) calls the same figure *"the Drift King."* Not reconciled.
 - **Echo-Core continuity.** The R.D. grades memory per Echo-Core — only Majin, Seiyon,
-  Ayshuk and Marjuk have full knowledge. `THE_DIRECTOR.md`'s flat *"the Nine retained
+  Ayshuk and Marjuk have full knowledge. `THE_DIRECTOR.md` (historical draft; see `SOMNARAK-WORLD/The_Absolvohan/Part_1_Day_0_The_Director_Wakes.md`)'s flat *"the Nine retained
   knowledge"* is inconsistent with this and should be revised.
 
 ## Known remaining softness

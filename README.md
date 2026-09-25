@@ -53,7 +53,6 @@ The repository is structured into distinct, authoritative functional environment
 PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 ├── README.md                               # This master documentation & navigation guide
 ├── DEVELOPMENT.md                          # Handbook for working in the NON-WIKI archive
-├── INSTALL_PERCENTAGE_REPORT.md            # Shingle-weighted analysis of lore coverage in public wiki
 ├── RULE-TO-FOLLOW.md                       # Owner's binding operating rules (v2: Push-Always doctrine)
 ├── UNIVERSAL_FOLLOW_RULE.md                # Portable AI baseline operating rules
 ├── SESSION_BREAK_PRECAUTION.md             # Crash-recovery protocol & active work ledger
