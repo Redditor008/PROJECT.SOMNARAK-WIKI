@@ -2,9 +2,9 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-560` Dismissed Cry | **4/4** | Manually authored | `SE-560_Dismissed_Cry_Manual_Audit.md` |
-| `SE-565` Upwell | **4/4** | Manually authored | `SE-565_Upwell_Manual_Audit.md` |
-| `SE-585` Rootless | **4/4** | Manually authored | `SE-585_Rootless_Manual_Audit.md` |
+| `SE-560` Dismissed Cry | **4/4** | Manually authored | SE-560 Dismissed Cry Manual Audit [Archived] |
+| `SE-565` Upwell | **4/4** | Manually authored | SE-565 Upwell Manual Audit [Archived] |
+| `SE-585` Rootless | **4/4** | Manually authored | SE-585 Rootless Manual Audit [Archived] |
 
 ## Formal IDs
 

@@ -2,15 +2,15 @@
 
 ## Quality Hold
 
-This folder replaces the repeated-prose edition identified by `Codex_Repetition_Audit_200_to_233.md`. The range remains under hold until every entity below passes manual review.
+This folder replaces the repeated-prose edition identified by Codex Repetition Audit 200 to 233 [Archived]. The range remains under hold until every entity below passes manual review.
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-220` Walking Calendar | **4/4** | Manually repaired | `SE-220_Walking_Calendar_Manual_Repair_Audit.md` |
-| `SE-222` Patina | **4/4** | Manually repaired | `SE-222_Patina_Manual_Repair_Audit.md` |
-| `SE-225` Black River | **4/4** | Manually repaired | `SE-225_Black_River_Manual_Repair_Audit.md` |
-| `SE-230` Every Last Goodbye | **4/4** | Manually repaired | `SE-230_Every_Last_Goodbye_Manual_Repair_Audit.md` |
-| `SE-233` Soul the Ledgers Lost | **4/4** | Manually repaired | `SE-233_Soul_the_Ledgers_Lost_Manual_Repair_Audit.md` |
+| `SE-220` Walking Calendar | **4/4** | Manually repaired | SE-220 Walking Calendar Manual Repair Audit [Archived] |
+| `SE-222` Patina | **4/4** | Manually repaired | SE-222 Patina Manual Repair Audit [Archived] |
+| `SE-225` Black River | **4/4** | Manually repaired | SE-225 Black River Manual Repair Audit [Archived] |
+| `SE-230` Every Last Goodbye | **4/4** | Manually repaired | SE-230 Every Last Goodbye Manual Repair Audit [Archived] |
+| `SE-233` Soul the Ledgers Lost | **4/4** | Manually repaired | SE-233 Soul the Ledgers Lost Manual Repair Audit [Archived] |
 
 ## Formal-ID Decisions
 

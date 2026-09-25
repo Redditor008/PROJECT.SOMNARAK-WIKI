@@ -2,11 +2,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-456` Orchard of the Indebted | **4/4** | Manually authored | `SE-456_Orchard_of_the_Indebted_Manual_Audit.md` |
-| `SE-459` Bulwark | **4/4** | Manually authored | `SE-459_Bulwark_Manual_Audit.md` |
-| `SE-467` Memory Chain | **4/4** | Manually authored | `SE-467_Memory_Chain_Manual_Audit.md` |
-| `SE-476` Sehnsucht | **4/4** | Manually authored | `SE-476_Sehnsucht_Manual_Audit.md` |
-| `SE-488` Friendless Bridge | **4/4** | Manually authored | `SE-488_Friendless_Bridge_Manual_Audit.md` |
+| `SE-456` Orchard of the Indebted | **4/4** | Manually authored | SE-456 Orchard of the Indebted Manual Audit [Archived] |
+| `SE-459` Bulwark | **4/4** | Manually authored | SE-459 Bulwark Manual Audit [Archived] |
+| `SE-467` Memory Chain | **4/4** | Manually authored | SE-467 Memory Chain Manual Audit [Archived] |
+| `SE-476` Sehnsucht | **4/4** | Manually authored | SE-476 Sehnsucht Manual Audit [Archived] |
+| `SE-488` Friendless Bridge | **4/4** | Manually authored | SE-488 Friendless Bridge Manual Audit [Archived] |
 
 ## Formal IDs
 

@@ -2,11 +2,11 @@
 
 | Entity | Completion | Audit |
 |---|---:|---|
-| `SE-643` Vanity | **4/4** | `SE-643_Vanity_Manual_Audit.md` |
-| `SE-649` Unborn Monument | **4/4** | `SE-649_Unborn_Monument_Manual_Audit.md` |
-| `SE-651` Relic Waiting for Its Maker | **4/4** | `SE-651_Relic_Waiting_for_Its_Maker_Manual_Audit.md` |
-| `SE-668` Frozen Fury | **4/4** | `SE-668_Frozen_Fury_Manual_Audit.md` |
-| `SE-677` Tower Erased Overnight | **4/4** | `SE-677_Tower_Erased_Overnight_Manual_Audit.md` |
+| `SE-643` Vanity | **4/4** | SE-643 Vanity Manual Audit [Archived] |
+| `SE-649` Unborn Monument | **4/4** | SE-649 Unborn Monument Manual Audit [Archived] |
+| `SE-651` Relic Waiting for Its Maker | **4/4** | SE-651 Relic Waiting for Its Maker Manual Audit [Archived] |
+| `SE-668` Frozen Fury | **4/4** | SE-668 Frozen Fury Manual Audit [Archived] |
+| `SE-677` Tower Erased Overnight | **4/4** | SE-677 Tower Erased Overnight Manual Audit [Archived] |
 
 ## Canon Decisions
 

@@ -1,6 +1,7 @@
 # COMPLETE SYSTEM COMPARISON: SOMNARAK vs. Lobotomy Corporation
 ## Direct 1-to-1 Universe, Mechanics & Narrative Reference
 ### Expanded Story Edition
+*(Top-Level Gateway Copy — Canonical Archival Codex resides at `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md`).*
 
 ```text
 +========================================================================+

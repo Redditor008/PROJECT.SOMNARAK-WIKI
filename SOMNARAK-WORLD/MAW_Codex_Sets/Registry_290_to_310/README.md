@@ -4,11 +4,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-290` Compass Without North | **4/4** | Manually authored | `SE-290_Compass_Without_North_Manual_Audit.md` |
-| `SE-300` The Memory Lock | **4/4** | Manually authored | `SE-300_The_Memory_Lock_Manual_Audit.md` |
-| `SE-301` Feu Follet | **4/4** | Manually authored | `SE-301_Feu_Follet_Manual_Audit.md` |
-| `SE-308` Vault of Unspoken Spite | **4/4** | Manually authored | `SE-308_Vault_of_Unspoken_Spite_Manual_Audit.md` |
-| `SE-310` Cracked Mirror | **4/4** | Manually authored | `SE-310_Cracked_Mirror_Manual_Audit.md` |
+| `SE-290` Compass Without North | **4/4** | Manually authored | SE-290 Compass Without North Manual Audit [Archived] |
+| `SE-300` The Memory Lock | **4/4** | Manually authored | SE-300 The Memory Lock Manual Audit [Archived] |
+| `SE-301` Feu Follet | **4/4** | Manually authored | SE-301 Feu Follet Manual Audit [Archived] |
+| `SE-308` Vault of Unspoken Spite | **4/4** | Manually authored | SE-308 Vault of Unspoken Spite Manual Audit [Archived] |
+| `SE-310` Cracked Mirror | **4/4** | Manually authored | SE-310 Cracked Mirror Manual Audit [Archived] |
 
 ## Formal-ID Decisions
 

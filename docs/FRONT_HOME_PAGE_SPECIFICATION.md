@@ -1,6 +1,7 @@
 # /docs ARCHITECTURE & FRONT HOME PAGE PORTAL SPECIFICATION
 ## MASTER ENTRYWAY BLUEPRINT: WIKI · STORY · GAME · GAME WIKI · COLLECTION
 ### GITHUB PAGES PUBLISHING ROOT: `docs/index.html`
+*(Master Blueprint Specification for `docs/index.html` — companion to `docs/README.md`).*
 
 ```text
 +========================================================================+

@@ -2,11 +2,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-409` Pillar Holding Nothing | **4/4** | Manually authored | `SE-409_Pillar_Holding_Nothing_Manual_Audit.md` |
-| `SE-426` Hollowcast | **4/4** | Manually authored | `SE-426_Hollowcast_Manual_Audit.md` |
-| `SE-447` Rope Held Too Long | **4/4** | Manually authored | `SE-447_Rope_Held_Too_Long_Manual_Audit.md` |
-| `SE-448` Overflow | **4/4** | Manually authored | `SE-448_Overflow_Manual_Audit.md` |
-| `SE-453` Spoor | **4/4** | Manually authored | `SE-453_Spoor_Manual_Audit.md` |
+| `SE-409` Pillar Holding Nothing | **4/4** | Manually authored | SE-409 Pillar Holding Nothing Manual Audit [Archived] |
+| `SE-426` Hollowcast | **4/4** | Manually authored | SE-426 Hollowcast Manual Audit [Archived] |
+| `SE-447` Rope Held Too Long | **4/4** | Manually authored | SE-447 Rope Held Too Long Manual Audit [Archived] |
+| `SE-448` Overflow | **4/4** | Manually authored | SE-448 Overflow Manual Audit [Archived] |
+| `SE-453` Spoor | **4/4** | Manually authored | SE-453 Spoor Manual Audit [Archived] |
 
 ## Formal IDs
 

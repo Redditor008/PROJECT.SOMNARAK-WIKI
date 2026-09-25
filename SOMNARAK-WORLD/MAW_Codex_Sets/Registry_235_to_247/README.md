@@ -4,11 +4,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-235` Panopticon | **4/4** | Manually authored | `SE-235_Panopticon_Manual_Audit.md` |
-| `SE-236` Unwitnessed | **4/4** | Manually authored | `SE-236_Unwitnessed_Manual_Audit.md` |
-| `SE-240` Holdout | **4/4** | Manually authored | `SE-240_Holdout_Manual_Audit.md` |
-| `SE-245` Midnight Choir | **4/4** | Manually authored | `SE-245_Midnight_Choir_Manual_Audit.md` |
-| `SE-247` Unopened Bloom | **4/4** | Manually authored | `SE-247_Unopened_Bloom_Manual_Audit.md` |
+| `SE-235` Panopticon | **4/4** | Manually authored | SE-235 Panopticon Manual Audit [Archived] |
+| `SE-236` Unwitnessed | **4/4** | Manually authored | SE-236 Unwitnessed Manual Audit [Archived] |
+| `SE-240` Holdout | **4/4** | Manually authored | SE-240 Holdout Manual Audit [Archived] |
+| `SE-245` Midnight Choir | **4/4** | Manually authored | SE-245 Midnight Choir Manual Audit [Archived] |
+| `SE-247` Unopened Bloom | **4/4** | Manually authored | SE-247 Unopened Bloom Manual Audit [Archived] |
 
 ## Deliberate Formal-ID Decisions
 

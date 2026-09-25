@@ -25,8 +25,8 @@ banned_exact = [
     (". before the next assignment.", "Orphaned prepositional sentence splice"),
 ]
 
-# Regex patterns
-p_double_dot = re.compile(r'(?<!\.)\.\.(?!\.)')
+# Regex patterns (excludes valid relative filesystem paths like '../' or '../../')
+p_double_dot = re.compile(r'(?<![\./])\.\.(?![\./])')
 p_word_dot_comma = re.compile(r'\b[a-z]{2,}\.,')
 
 files = [f for f in glob.glob("SOMNARAK-WORLD/**/*.md", recursive=True) if should_audit(f)]

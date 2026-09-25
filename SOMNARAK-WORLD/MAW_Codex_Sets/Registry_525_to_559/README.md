@@ -2,10 +2,10 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-525` Cenotaph | **4/4** | Manually authored | `SE-525_Cenotaph_Manual_Audit.md` |
-| `SE-554` Fallow | **4/4** | Manually authored | `SE-554_Fallow_Manual_Audit.md` |
-| `SE-558` Emberroot | **4/4** | Manually authored | `SE-558_Emberroot_Manual_Audit.md` |
-| `SE-559` Souvenir | **4/4** | Manually authored | `SE-559_Souvenir_Manual_Audit.md` |
+| `SE-525` Cenotaph | **4/4** | Manually authored | SE-525 Cenotaph Manual Audit [Archived] |
+| `SE-554` Fallow | **4/4** | Manually authored | SE-554 Fallow Manual Audit [Archived] |
+| `SE-558` Emberroot | **4/4** | Manually authored | SE-558 Emberroot Manual Audit [Archived] |
+| `SE-559` Souvenir | **4/4** | Manually authored | SE-559 Souvenir Manual Audit [Archived] |
 
 ## Formal IDs
 

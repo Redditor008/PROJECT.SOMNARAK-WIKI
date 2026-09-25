@@ -2,11 +2,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-589` Nemo | **4/4** | Manually authored | `SE-589_Nemo_Manual_Audit.md` |
-| `SE-606` Banyan | **4/4** | Manually authored | `SE-606_Banyan_Manual_Audit.md` |
-| `SE-609` Thousand Hands | **4/4** | Manually authored | `SE-609_Thousand_Hands_Manual_Audit.md` |
-| `SE-611` Somnalith | **4/4** | Manually authored | `SE-611_Somnalith_Manual_Audit.md` |
-| `SE-617` Exiles’ Wall | **4/4** | Manually authored | `SE-617_Exiles_Wall_Manual_Audit.md` |
+| `SE-589` Nemo | **4/4** | Manually authored | SE-589 Nemo Manual Audit [Archived] |
+| `SE-606` Banyan | **4/4** | Manually authored | SE-606 Banyan Manual Audit [Archived] |
+| `SE-609` Thousand Hands | **4/4** | Manually authored | SE-609 Thousand Hands Manual Audit [Archived] |
+| `SE-611` Somnalith | **4/4** | Manually authored | SE-611 Somnalith Manual Audit [Archived] |
+| `SE-617` Exiles’ Wall | **4/4** | Manually authored | SE-617 Exiles Wall Manual Audit [Archived] |
 
 ## Formal IDs
 

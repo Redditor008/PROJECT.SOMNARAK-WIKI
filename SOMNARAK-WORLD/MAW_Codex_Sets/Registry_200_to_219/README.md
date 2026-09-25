@@ -2,17 +2,17 @@
 
 ## Quality Hold
 
-This working batch replaces the generic repeated-prose edition identified by `Codex_Repetition_Audit_200_to_233.md`. Do not rebuild or release the batch archive as final until every listed set passes manual review.
+This working batch replaces the generic repeated-prose edition identified by Codex Repetition Audit 200 to 233 [Archived]. Do not rebuild or release the batch archive as final until every listed set passes manual review.
 
 ## Set Status
 
 | Entity | Formal files | Status | Audit |
 |---|---|---|---|
 | `SE-200` Aegis | `SE-200-A` through `SE-200-D` | Manually repaired | Included handoff reference set |
-| `SE-205` Timber Maw | `SE-205-A` through `SE-205-D` | Manually repaired | `SE-205_Timber_Maw_Manual_Repair_Audit.md` |
-| `SE-210` Levity | `SE-210-A` through `SE-210-D` | Manually repaired | `SE-210_Levity_Manual_Repair_Audit.md` |
-| `SE-215` Name No One Remembers | `SE-215-A` through `SE-215-D` | Manually repaired | `SE-215_Name_No_One_Remembers_Manual_Repair_Audit.md` |
-| `SE-219` Splinter | `SE-219-A` through `SE-219-D` | Manually repaired | `SE-219_Splinter_Manual_Repair_Audit.md` |
+| `SE-205` Timber Maw | `SE-205-A` through `SE-205-D` | Manually repaired | SE-205 Timber Maw Manual Repair Audit [Archived] |
+| `SE-210` Levity | `SE-210-A` through `SE-210-D` | Manually repaired | SE-210 Levity Manual Repair Audit [Archived] |
+| `SE-215` Name No One Remembers | `SE-215-A` through `SE-215-D` | Manually repaired | SE-215 Name No One Remembers Manual Repair Audit [Archived] |
+| `SE-219` Splinter | `SE-219-A` through `SE-219-D` | Manually repaired | SE-219 Splinter Manual Repair Audit [Archived] |
 
 ## Formal-ID Decisions
 

@@ -1,5 +1,6 @@
 # PROJECT SOMNARAK // CANONICAL CHRONOLOGY & TIMELINE ANCHORS
 ## Master Single Source of Truth (SSOT) for Planetary, Municipal & R.D. Cycle Chronology
+*(Top-Level Gateway Copy — Canonical Archival Codex resides at `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md`).*
 
 ```text
 +========================================================================+

@@ -3,6 +3,8 @@
 This file records notable changes to the public Somnarak Wiki.
 
 > **Record note:** The `1.8.31` entry was reconstructed on 31 August 2026 from the tracked repository, commit `db114f8`, and a tree comparison with the preceding published snapshot (`8d58b3b`). The previous agent did not maintain a chronological changelog, so this is a verified summary rather than its original session notes.
+>
+> **Archival Path Note:** Historical entries in this changelog reference file paths as they existed at the time of commit. Master Codices have since been organized into canonical subdirectories under `SOMNARAK-WORLD/Master_Codices/`, and developer tools have been grouped into `tools/{builders,repairs_and_patches,auditors,formatters,tests}/`.
 
 ## Unreleased
 

@@ -4,12 +4,12 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-265` Sornos | **1/1** | Side Codex only — extraction prohibited | `SE-265_Sornos_Manual_Audit.md` |
-| `SE-270` Mnemosyne | **4/4** | Manually authored | `SE-270_Mnemosyne_Manual_Audit.md` |
-| `SE-275` Crucible | **4/4** | Manually authored | `SE-275_Crucible_Manual_Audit.md` |
-| `SE-280` Pall | **4/4** | Manually authored | `SE-280_Pall_Manual_Audit.md` |
-| `SE-283` Barrier of Nothing | **4/4** | Manually authored | `SE-283_Barrier_of_Nothing_Manual_Audit.md` |
-| `SE-285` Weight of Silence | **4/4** | Manually authored | `SE-285_Weight_of_Silence_Manual_Audit.md` |
+| `SE-265` Sornos | **1/1** | Side Codex only — extraction prohibited | SE-265 Sornos Manual Audit [Archived] |
+| `SE-270` Mnemosyne | **4/4** | Manually authored | SE-270 Mnemosyne Manual Audit [Archived] |
+| `SE-275` Crucible | **4/4** | Manually authored | SE-275 Crucible Manual Audit [Archived] |
+| `SE-280` Pall | **4/4** | Manually authored | SE-280 Pall Manual Audit [Archived] |
+| `SE-283` Barrier of Nothing | **4/4** | Manually authored | SE-283 Barrier of Nothing Manual Audit [Archived] |
+| `SE-285` Weight of Silence | **4/4** | Manually authored | SE-285 Weight of Silence Manual Audit [Archived] |
 
 ## Canon Exception — Sornos
 

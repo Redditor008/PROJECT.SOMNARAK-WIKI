@@ -2,11 +2,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-622` Vestige | **4/4** | Manually authored | `SE-622_Vestige_Manual_Audit.md` |
-| `SE-627` Harvest Beyond the Gate | **4/4** | Manually authored | `SE-627_Harvest_Beyond_the_Gate_Manual_Audit.md` |
-| `SE-628` Patrimoine | **4/4** | Manually authored | `SE-628_Patrimoine_Manual_Audit.md` |
-| `SE-631` Errant | **4/4** | Manually authored | `SE-631_Errant_Manual_Audit.md` |
-| `SE-641` Home to No One Who Knew Me | **4/4** | Manually authored | `SE-641_Home_to_No_One_Who_Knew_Me_Manual_Audit.md` |
+| `SE-622` Vestige | **4/4** | Manually authored | SE-622 Vestige Manual Audit [Archived] |
+| `SE-627` Harvest Beyond the Gate | **4/4** | Manually authored | SE-627 Harvest Beyond the Gate Manual Audit [Archived] |
+| `SE-628` Patrimoine | **4/4** | Manually authored | SE-628 Patrimoine Manual Audit [Archived] |
+| `SE-631` Errant | **4/4** | Manually authored | SE-631 Errant Manual Audit [Archived] |
+| `SE-641` Home to No One Who Knew Me | **4/4** | Manually authored | SE-641 Home to No One Who Knew Me Manual Audit [Archived] |
 
 ## Formal IDs
 

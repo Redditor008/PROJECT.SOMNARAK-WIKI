@@ -4,11 +4,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-315` Unsprouted Life | **4/4** | Manually authored | `SE-315_Unsprouted_Life_Manual_Audit.md` |
-| `SE-316` Tether | **4/4** | Manually authored | `SE-316_Tether_Manual_Audit.md` |
-| `SE-320` Unwept Storm | **4/4** | Manually authored | `SE-320_Unwept_Storm_Manual_Audit.md` |
-| `SE-329` Folly | **4/4** | Manually authored | `SE-329_Folly_Manual_Audit.md` |
-| `SE-330` Sitting Boundary | **4/4** | Manually authored | `SE-330_Sitting_Boundary_Manual_Audit.md` |
+| `SE-315` Unsprouted Life | **4/4** | Manually authored | SE-315 Unsprouted Life Manual Audit [Archived] |
+| `SE-316` Tether | **4/4** | Manually authored | SE-316 Tether Manual Audit [Archived] |
+| `SE-320` Unwept Storm | **4/4** | Manually authored | SE-320 Unwept Storm Manual Audit [Archived] |
+| `SE-329` Folly | **4/4** | Manually authored | SE-329 Folly Manual Audit [Archived] |
+| `SE-330` Sitting Boundary | **4/4** | Manually authored | SE-330 Sitting Boundary Manual Audit [Archived] |
 
 ## Formal-ID Decisions
 

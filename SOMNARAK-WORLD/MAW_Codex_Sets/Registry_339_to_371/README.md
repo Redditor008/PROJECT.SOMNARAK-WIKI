@@ -4,11 +4,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-339` Breach | **4/4** | Manually authored | `SE-339_Breach_Manual_Audit.md` |
-| `SE-340` Clapperless | **4/4** | Manually authored | `SE-340_Clapperless_Manual_Audit.md` |
-| `SE-357` Carrying Nothing | **4/4** | Manually authored | `SE-357_Carrying_Nothing_Manual_Audit.md` |
-| `SE-369` Susurrus | **4/4** | Manually authored | `SE-369_Susurrus_Manual_Audit.md` |
-| `SE-371` Protest No One Remembers | **4/4** | Manually authored | `SE-371_Protest_No_One_Remembers_Manual_Audit.md` |
+| `SE-339` Breach | **4/4** | Manually authored | SE-339 Breach Manual Audit [Archived] |
+| `SE-340` Clapperless | **4/4** | Manually authored | SE-340 Clapperless Manual Audit [Archived] |
+| `SE-357` Carrying Nothing | **4/4** | Manually authored | SE-357 Carrying Nothing Manual Audit [Archived] |
+| `SE-369` Susurrus | **4/4** | Manually authored | SE-369 Susurrus Manual Audit [Archived] |
+| `SE-371` Protest No One Remembers | **4/4** | Manually authored | SE-371 Protest No One Remembers Manual Audit [Archived] |
 
 ## Formal-ID Decisions
 

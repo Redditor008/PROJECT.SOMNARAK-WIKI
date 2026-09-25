@@ -2,12 +2,12 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-489` Silence We Forgot We Made | **4/4** | Manually authored | `SE-489_Silence_We_Forgot_We_Made_Manual_Audit.md` |
-| `SE-503` Hover | **4/4** | Manually authored | `SE-503_Hover_Manual_Audit.md` |
-| `SE-505` Cold Burn | **4/4** | Manually authored | `SE-505_Cold_Burn_Manual_Audit.md` |
-| `SE-517` Lachrymose | **4/4** | Manually authored | `SE-517_Lachrymose_Manual_Audit.md` |
-| `SE-518` Life Behind Glass | **4/4** | Manually authored | `SE-518_Life_Behind_Glass_Manual_Audit.md` |
-| `SE-519` Mourning a Life I Never Lived | **4/4** | Manually authored | `SE-519_Mourning_a_Life_I_Never_Lived_Manual_Audit.md` |
+| `SE-489` Silence We Forgot We Made | **4/4** | Manually authored | SE-489 Silence We Forgot We Made Manual Audit [Archived] |
+| `SE-503` Hover | **4/4** | Manually authored | SE-503 Hover Manual Audit [Archived] |
+| `SE-505` Cold Burn | **4/4** | Manually authored | SE-505 Cold Burn Manual Audit [Archived] |
+| `SE-517` Lachrymose | **4/4** | Manually authored | SE-517 Lachrymose Manual Audit [Archived] |
+| `SE-518` Life Behind Glass | **4/4** | Manually authored | SE-518 Life Behind Glass Manual Audit [Archived] |
+| `SE-519` Mourning a Life I Never Lived | **4/4** | Manually authored | SE-519 Mourning a Life I Never Lived Manual Audit [Archived] |
 
 ## Formal IDs
 

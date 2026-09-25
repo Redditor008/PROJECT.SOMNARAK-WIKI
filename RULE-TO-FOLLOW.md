@@ -318,3 +318,15 @@ Never collapse these states into the single word "done."
      - **The Memory Archive:** Floor realizations and Key Page extractions (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
      - **The Wound Walkers:** Post-Dawn spiritual pilgrimage across seven crucibles in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`).
      - All subsequent continental expeditions, diplomatic reconnections, and post-Dawn institutions.
+
+---
+
+## 10. Monospace ASCII Text Boxes vs. Rendered Markdown Tables
+
+1. **Monospace ASCII Text Boxes (Code blocks bounded by `+===+`, `+---+`, and `| ... |`):**
+   - Strictly ZERO Korean Hangul characters permitted. Only Latin Alphabet Romanization (Romaja) is allowed.
+   - Every row from border to border must maintain exact geometric character width symmetry (`width=74` in chatroom outputs).
+   - *Technical Rationale:* East Asian characters render fullwidth (2 columns wide) in monospace font rendering, destroying column alignment and causing jagged vertical pipes (`|`).
+2. **Rendered Markdown Tables (`| Key | Value |` outside code fences):**
+   - Rendered with proportional, self-adjusting cell padding by GitHub and markdown browsers.
+   - Korean Hangul is **fully permitted and encouraged** within markdown table cells for bilingual depth, provided the mandatory two-space buffer (`  [한글]  `) is maintained alongside paired English and Romanized translations.

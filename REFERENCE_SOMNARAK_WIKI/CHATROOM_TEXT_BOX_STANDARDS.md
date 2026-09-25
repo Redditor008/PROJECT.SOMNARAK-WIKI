@@ -78,3 +78,15 @@ When cell content exceeds the column's inner character limit:
 ```
 In this pattern, the right-hand cell expands across multiple sub-rows while maintaining exact monospace border alignment across the entire 74-character width.
 
+---
+
+## 5. Typography Scope: Monospace ASCII Boxes vs. Rendered Markdown Tables
+
+1. **Monospace ASCII Boxes (Inside ``` Code Fences):**
+   - **Strictly ZERO Korean Hangul characters permitted.**
+   - Use Latin Alphabet Romanization (Romaja) exclusively (e.g. *Haewon*, *Dohan*, *Naehan*, *Gieok Jeojangso*).
+   - *Technical Rationale:* East Asian Hangul glyphs render as fullwidth (2 monospace columns wide), causing severe border misalignment, line-wrapping, and crooked vertical pipes (`|`).
+2. **Rendered Markdown Tables (`| Key | Value |` Outside Code Fences):**
+   - Standard GitHub Markdown tables are rendered by the browser engine with proportional variable cell widths and dynamic padding.
+   - Korean Hangul is **fully permitted and encouraged** in markdown table cells for bilingual terminology and worldbuilding immersion, provided the mandatory two-space buffer (`  [한글]  `) is maintained alongside paired English and Romanized translations.
+

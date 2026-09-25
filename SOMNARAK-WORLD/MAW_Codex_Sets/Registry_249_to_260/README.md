@@ -4,11 +4,11 @@
 
 | Entity | Codex completion | Status | Audit |
 |---|---:|---|---|
-| `SE-249` The Collapsed Whisper | **4/4** | Manually authored | `SE-249_The_Collapsed_Whisper_Manual_Audit.md` |
-| `SE-250` Memory Rain | **4/4** | Manually authored | `SE-250_Memory_Rain_Manual_Audit.md` |
-| `SE-252` Sorrow Gate | **4/4** | Manually authored | `SE-252_Sorrow_Gate_Manual_Audit.md` |
-| `SE-255` The Hollow Architect | **4/4** | Manually authored | `SE-255_The_Hollow_Architect_Manual_Audit.md` |
-| `SE-260` Bridge to Nowhere | **4/4** | Manually authored | `SE-260_Bridge_to_Nowhere_Manual_Audit.md` |
+| `SE-249` The Collapsed Whisper | **4/4** | Manually authored | SE-249 The Collapsed Whisper Manual Audit [Archived] |
+| `SE-250` Memory Rain | **4/4** | Manually authored | SE-250 Memory Rain Manual Audit [Archived] |
+| `SE-252` Sorrow Gate | **4/4** | Manually authored | SE-252 Sorrow Gate Manual Audit [Archived] |
+| `SE-255` The Hollow Architect | **4/4** | Manually authored | SE-255 The Hollow Architect Manual Audit [Archived] |
+| `SE-260` Bridge to Nowhere | **4/4** | Manually authored | SE-260 Bridge to Nowhere Manual Audit [Archived] |
 
 ## Deliberate Formal-ID Decisions
 

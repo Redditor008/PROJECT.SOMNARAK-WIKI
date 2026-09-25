@@ -8,6 +8,8 @@
 
 Read this file at the START of every session, together with `RULE-TO-FOLLOW.md`.
 
+> **Archival Path Note:** References to file paths, audit utilities, and scripts within historical change logs and session recovery examples reflect repository file names and directory trees at the time of entry. Relocated codices now reside under categorized subdirectories in `SOMNARAK-WORLD/Master_Codices/`, and migrated tools reside under `tools/{builders,repairs_and_patches,auditors,formatters,tests}/`.
+
 ---
 
 ## 1. WHY THIS FILE EXISTS
