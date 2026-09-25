@@ -376,7 +376,7 @@ These records use the `UNK` namespace and do not alter the main `285/285` Sorrow
 
 ## Formal-ID Resolution
 
-Source-number siblings already represented by another canonical entity received unique registry IDs `SE-1001+`. Their original SECC designations remain unchanged and are documented in `Final_Registry_Formal_ID_Map.md` under the audit/report folder.
+Source-number siblings already represented by another canonical entity received unique registry IDs `SE-1001+`. Their original SECC designations remain unchanged and are documented in [`SOMNARAK-WORLD/MAW_Codex_Sets/README.md`](../SOMNARAK-WORLD/MAW_Codex_Sets/README.md) and this status matrix.
 
 `SE-044` is reserved for **Dawn of Mourning**. **The Broken Clock**, whose source SECC suffix also uses `044`, is assigned formal registry ID `SE-1002`.
 

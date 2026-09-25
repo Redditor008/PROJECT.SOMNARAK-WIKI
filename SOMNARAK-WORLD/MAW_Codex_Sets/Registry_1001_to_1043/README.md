@@ -56,4 +56,4 @@ All material is included in the continuously updated unified `Registry_Codex_Set
 
 This range contains canonical source-number siblings and the source-number-zero record that required unique formal registry IDs. Original SECC designations remain preserved above and in every Side Codex.
 
-`SE-044` remains Dawn of Mourning. The Broken Clock is deliberately assigned `SE-1002` because its source suffix `044` collides with that reserved registry identity. The complete source-number map is preserved in `Final_Registry_Formal_ID_Map.md` under the audit/report folder.
+`SE-044` remains Dawn of Mourning. The Broken Clock is deliberately assigned `SE-1002` because its source suffix `044` collides with that reserved registry identity. The complete source-number collision resolution map is documented in [`SOMNARAK-WORLD/MAW_Codex_Sets/README.md`](../README.md) and [`REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md`](../../../REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md).

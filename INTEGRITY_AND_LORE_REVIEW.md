@@ -97,6 +97,9 @@ Following Review No. 4's findings, the remaining non-canonical reference links a
    - Linked canonical entity dossier `SE-C-IIIβ-014` in `DEVELOPMENT.md`.
    - Corrected `PM_VOCAB_POLICY.md` reference to `tools/banned_strings.txt` in `GOVERNANCE.md`.
    - Synchronized `SOMNARAK_ABSOLOVHAN.md` pointer to `SOMNARAK-WORLD/The_Absolvohan/ABSOLOVHAN_OVERVIEW.md` in `SESSION_BREAK_PRECAUTION.md`.
+4. **M.A.W. Registry & Changelog References (27/27 resolved):**
+   - Resolved `Final_Registry_Formal_ID_Map.md` cross-references in `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md` and `REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md` to point to the canonical status matrices.
+   - Updated 25 living file references in `CHANGELOG.md` to their full canonical paths in `SOMNARAK-WORLD/` and `REFERENCE_SOMNARAK_WIKI/`.
 
 ---
 
