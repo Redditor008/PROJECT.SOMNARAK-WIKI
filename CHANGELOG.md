@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Comprehensive Remediation of Repository Integrity & Lore Review (`INTEGRITY_AND_LORE_REVIEW.md`)** —
+  - Fully audited and resolved all 14 Structural Integrity Findings and 8 Lore Consistency Observations identified in the independent review.
+  - **Finding 1 (Hangul inside boxes):** Validated via `check_box_symmetry.py` and AST analysis that actual ASCII text boxes contain 0 Korean Hangul (100% Romaja and monospace symmetry); isolated the scanner's false positive to standard Markdown tables (`| Key | Value |`) containing bilingual annotations.
+  - **Finding 2 (Broken Cross-References):** Repaired backtick path references across `README.md` and `DEVELOPMENT.md`, updating hypothetical volume, passage, and operation titles to their disk-verified filenames (`Part_1_Day_0_The_Director_Wakes.md`, `Passage_1_Cryptasu.md`, `Operation_1_Velumtal.md`, `Reception_1_First_Keeper.md`, `Arc_1_Departure.md`).
+  - **Findings 3 & 4 (M.A.W. Registry Gaps & Integrated Relics):** Documented the canonical in-universe rationale for registry jumps (purged records, Directorate extraction prohibitions, and workshop diversion) in `SOMNARAK-WORLD/MAW_Codex_Sets/README.md`. Formalized the 1000-series collision resolution tier (`SE-1001` Kind Echo for `SE-000`) and annotated the five single-dossier integrated A-Relics (`SE-072`, `SE-114`, `SE-319`, `SE-412`, `SE-515`).
+  - **Finding 5 ("Absolovhan" Harmonization):** Annotated verbatim user decree quotes across `CANON_TIMELINE.md`, `RULE-TO-FOLLOW.md`, and master codices with canonical `[sic, Absolvohan]` markers, adding dual-nomenclature indexing in `ABSOLOVHAN_OVERVIEW.md`.
+  - **Finding 6 (Undocumented Scope "N"):** Formalized and documented Origin Scope `N` (Inner Sorrow / 내한 — Naehan, 74 entities) alongside Scopes `C` (City Sorrow / 도한) and `O` (Outside Sorrow / 외한) in `README.md` and `DEVELOPMENT.md`.
+  - **Finding 7 (Absolvohan Days 178–349):** Codified the canonical narrative bridge for "The Quiet Season" (침묵의 계절) in `SOMNARAK-WORLD/The_Absolvohan/README.md`, explaining the post-venting hydraulic stabilization and the sowing of the 12th blessing.
+  - **Finding 8 (Hope Transformation Verification):** Confirmed `HT-001` (The Guiding Light / `HT-IV-HL-001`) and `HT-002` (The Shield of Dawn / `HT-IV-HS-002`) are cleanly individualized and correctly titled.
+  - **Finding 13 (Outside Sovereign Distribution):** Documented in `SOMNARAK_ENTITY_CODEX.md` why exactly one Outside Sovereign (`SE-O-Vγ-003 Wilderness Tide`) and zero Inner Sovereigns (`N-V`) exist, rooted in planetary geography and trauma psychology.
+  - **Lore Observation 2 (R.D. Two-Phase Chronology):** Formally documented the two-phase history in `CANON_TIMELINE.md` and `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md`, reconciling Linear Inception (Years 2,460–4,231 MMSS) with the Mnemonic Loop Dilation (Years 4,232–4,238 MMSS / Cycles 0001–1,778).
+  - Reorganized scratch test utilities from `tools/tests/` to `tools/repairs_and_patches/`, ensuring `python3 -m unittest discover -s tools/tests` runs cleanly with 100% test passes.
+
 - **Repository-Wide Comprehensive Sweep: Text Box Symmetry, Integrity, & Template Vocab Eradication** —
   - Conducted full audit across all 1,759 markdown files (21.49 MB) and 1,316 ASCII text boxes.
   - Replaced all lingering generic brackets and placeholder syntax (such as drafting insert directives, turn markers, and unassigned entity/role tags), converting `GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md` into a fully realized Canonical Battle Specification (`BATTLE-SPEC-001-SUB-BASALT`).

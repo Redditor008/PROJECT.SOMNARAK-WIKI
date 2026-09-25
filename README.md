@@ -304,19 +304,19 @@ Beyond the master codices, Project Somnarak maintains complete standalone operat
 
 1. **`SOMNARAK-WORLD/The_Absolvohan/` — The Absolvohan 366-Day Facility Chronicle:**
    - [`ABSOLOVHAN_OVERVIEW.md`](SOMNARAK-WORLD/The_Absolvohan/ABSOLOVHAN_OVERVIEW.md): Master operational summary of the 1,778th Loop.
-   - Chronological narrative volumes spanning `Part_01_Day_000_to_045.md` through `Part_09_The_Epilogue_and_Dawn.md`, chronicling the daily shift logs, suppression engagements, Echo-Core realizations, and the Hand of Hope ascension.
+   - Chronological narrative volumes spanning [`Part_1_Day_0_The_Director_Wakes.md`](SOMNARAK-WORLD/The_Absolvohan/Part_1_Day_0_The_Director_Wakes.md) through [`Part_9_Days_350_to_365.md`](SOMNARAK-WORLD/The_Absolvohan/Part_9_Days_350_to_365.md), chronicling the daily shift logs, suppression engagements, Echo-Core realizations, and the Hand of Hope ascension.
 2. **`SOMNARAK-WORLD/Katabagil/` — Somnarak Exploration Decree (SED) Subterranean Descents:**
    - [`KATABAGIL_OVERVIEW.md`](SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md): Tactical field manual, abyss pressure ratings, and surveyor cadre profiles.
-   - Seven deep descent passages (`Passage_1_The_Sunken_Aqueducts.md` to `Passage_7_The_Maw_Threshold.md`) mapping the abyssal strata beneath Somnarak.
+   - Seven deep descent passages ([`Passage_1_Cryptasu.md`](SOMNARAK-WORLD/Katabagil/Passage_1_Cryptasu.md) to [`Passage_7_Fontisaem.md`](SOMNARAK-WORLD/Katabagil/Passage_7_Fontisaem.md)) mapping the abyssal strata beneath Somnarak.
 3. **`SOMNARAK-WORLD/Katharcheok/` — Underworld Cleanup Descend (UCD) Pacification Operations:**
    - [`KATHARCHEOK_OVERVIEW.md`](SOMNARAK-WORLD/Katharcheok/KATHARCHEOK_OVERVIEW.md): Urban pacification doctrine, syndicate breach classifications, and squad armaments.
-   - Six high-risk tactical cleanup operations (`Operation_1_Rust_Veil_Liquidation.md` to `Operation_6_Crownless_Throne_Shatter.md`) reclaiming the undercity slums.
+   - Six high-risk tactical cleanup operations ([`Operation_1_Velumtal.md`](SOMNARAK-WORLD/Katharcheok/Operation_1_Velumtal.md) to [`Operation_6_Basileugung.md`](SOMNARAK-WORLD/Katharcheok/Operation_6_Basileugung.md)) reclaiming the undercity slums.
 4. **`SOMNARAK-WORLD/Gieok_Jeojangso/` — The Memory Archive Mnemonic Receptions:**
    - [`GIEOK_JEOJANGSO_OVERVIEW.md`](SOMNARAK-WORLD/Gieok_Jeojangso/GIEOK_JEOJANGSO_OVERVIEW.md): Architectural stratigraphy, Mnemonic Suture mechanics, and Floor Realization protocols.
-   - Seven stratified reception chronicles (`Reception_1_Wandering_Dust_Warden.md` to `Reception_7_The_Archivists_Resonance.md`) testing operative mental fortitude.
+   - Seven stratified reception chronicles ([`Reception_1_First_Keeper.md`](SOMNARAK-WORLD/Gieok_Jeojangso/Reception_1_First_Keeper.md) to [`Reception_7_The_Original.md`](SOMNARAK-WORLD/Gieok_Jeojangso/Reception_7_The_Original.md)) testing operative mental fortitude.
 5. **`SOMNARAK-WORLD/Jipyeongseondae/` — The Horizon Caravan Trans-Desolate Expeditions:**
    - [`JIPYEONGSEONDAE_OVERVIEW.md`](SOMNARAK-WORLD/Jipyeongseondae/JIPYEONGSEONDAE_OVERVIEW.md): Overland navigation guide, Drift Throne crawler specs, and bastion defensive tactics.
-   - Six trans-desolate overland expedition arcs (`Arc_1_The_Glass_Sands_Crossing.md` to `Arc_6_The_Desolate_Horizon_Convergence.md`) traversing the outer wastelands.
+   - Six trans-desolate overland expedition arcs ([`Arc_1_Departure.md`](SOMNARAK-WORLD/Jipyeongseondae/Arc_1_Departure.md) to [`Arc_6_The_Mugeukji_Attempt.md`](SOMNARAK-WORLD/Jipyeongseondae/Arc_6_The_Mugeukji_Attempt.md)) traversing the outer wastelands.
 6. **`SOMNARAK-WORLD/Tactical_Combat_Engine/` — 10-Node Spatial Grid Combat Engine:**
    - [`README.md`](SOMNARAK-WORLD/Tactical_Combat_Engine/README.md): Master architectural guide to the 10-node spatial engine, speed-action point scaling, and 6-turn combat phase loops.
    - [`WHAT_CAN_BE_DONE.md`](SOMNARAK-WORLD/Tactical_Combat_Engine/WHAT_CAN_BE_DONE.md): Comprehensive implementation manual for narrative combat logs and turn-based clash visualization.
@@ -399,14 +399,19 @@ All source lore across this archive adheres to four absolute pillars:
    - **Pugnahan (억제작업):** Repression, acoustic clamping, and physical force.
    - **Viderehan (관찰작업):** Remote optical surveillance and detached analysis.
 
-3. **Threat Classifications & Coherence Ranks (위협 등급 및 응집도):**
+3. **Origin Scope Taxonomy (발생 기원 체계 / SECC Scope):**
+   - **Scope C: City Sorrow (도한 / Dohan):** Born inside Somnarak's metropolitan basin from systemic oppression, bureaucratic debt ledgers, and municipal despair (e.g., `SE-C-IIIβ-014`).
+   - **Scope N: Inner Sorrow (내한 / Naehan):** Born from personal psychological wounding, private memories, intimate guilt, and individual trauma (e.g., `SE-N-IIIβ-077`).
+   - **Scope O: Outside Sorrow (외한 / Oehan):** Born from the untamed wilderness, abyssal subterranean strata, and the Desolate wastes beyond the walls (e.g., `SE-O-IVδ-515`).
+
+4. **Threat Classifications & Coherence Ranks (위협 등급 및 응집도):**
    - **Rank I: Whisper (속삭임 / Soksagim · Grade α):** Negligible threat; passive resonance; minimal containment risk.
    - **Rank II: Murmur (웅얼거림 / Ungeolgeorim · Grade β):** Low-to-moderate threat; standard suppression squads sufficient.
    - **Rank III: Fragment (파편 / Papyeon · Grade γ):** Significant threat; lethal capabilities; disciplined work required.
    - **Rank IV: Entity (존재 / Jonjae · Grade δ):** Critical threat; severe psychological degradation; catastrophic breach hazard.
    - **Rank V: Sovereign (군주 / Gunju · Grade ω):** Existential threat; facility-wide or district-wide collapse potential.
 
-4. **M.A.W. Equipment Triad (비탄의 무장):**
+5. **M.A.W. Equipment Triad (비탄의 무장):**
    - **MAW-W (Weapon):** Offense crystallized from the entity's core sorrow.
    - **MAW-S (Suit):** Armor woven from the entity's resonance, conferring elemental defenses.
    - **MAW-G (Gift):** Resonant accessory granting passive traits and cosmetic marks.

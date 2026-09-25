@@ -136,7 +136,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 1. **A0 — Push Always:** Every single file creation, edit, rename, or deletion must be committed **and pushed** to the assigned session branch in the same turn. Never end a turn with uncommitted changes or unpushed local commits.
 2. **A5 — File Safety:** Never delete or overwrite owner files or canonical reference documents without an explicit, file-named instruction from the owner.
 3. **Canon Terminology is Immutable:** Retain authentic Somnarak-native terminology across all documentation:
-   - Sorrow Entities (SE), SECC designations, Coherence Ranks (I: Whisper, II: Murmur, III: Fragment, IV: Entity, V: Sovereign), and Potency Grades (α to ω).
+   - Sorrow Entities (SE), SECC designations with Origin Scopes (C: City Sorrow / 도한, N: Inner Sorrow / 내한, O: Outside Sorrow / 외한), Coherence Ranks (I: Whisper, II: Murmur, III: Fragment, IV: Entity, V: Sovereign), and Potency Grades (α to ω).
    - M.A.W. (Materialized Armament of Woe), Weapons (W), Suits (S), Gifts (G).
    - Han energy, Liquid Han, Absolvohan, Resonant Clash.
    - Facility 01 ("The Hand of Change"), Reverie Directorate, High Council.
@@ -150,8 +150,8 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ## 4. Working with the In-World Canon Repositories (`SOMNARAK-WORLD/`)
 
 ### A. The Master Codices (`SOMNARAK-WORLD/Master_Codices/`)
-- These 39 master files organized across 6 canonical subfolders establish the cosmological, physical, municipal, and political framework of Somnarak.
-- When referencing world rules, always cite the corresponding codex (e.g., `PROJECT_SOMNARAK.md` for cosmology, `SOMNARAK_BATTLE_SYSTEM_STYLES.md` for combat mechanics, `The_REVERIE_DIRECTORATE.md` for Facility 01 floors, `SOMNARAK_GEOLOGY.md` for planetary geology, `SOMNARAK_WORKSHOPS.md` for non-M.A.W. equipment and artisan forge systems, `SOMNARAK_UNDERWORLD_SYNDICATES.md` for underworld factions and extralegal governance, `SOMNARAK_SPECIALIST_CADRES.md` for chartered contractor bureaus, `SOMNARAK_ZONE_CORPORATIONS.md` for the 25 municipal zone corporations, Haz-scorchers, Cleansers, and Giltong arbiter authority).
+- These 45 master files organized across 6 canonical subfolders establish the cosmological, physical, municipal, and political framework of Somnarak.
+- When referencing world rules, always cite the corresponding codex path (e.g., `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md` for cosmology, `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md` for combat mechanics, `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` for Facility 01 floors, `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/SOMNARAK_GEOLOGY.md` for planetary geology, `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md` for non-M.A.W. equipment and artisan forge systems, `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD_SYNDICATES.md` for underworld factions and extralegal governance, `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_SPECIALIST_CADRES.md` for chartered contractor bureaus, `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_ZONE_CORPORATIONS.md` for the 25 municipal zone corporations, Haz-scorchers, Cleansers, and Giltong arbiter authority).
 
 ### B. Sorrow Entity Files (`SOMNARAK-WORLD/Sorrow_Entities/`)
 - Filename convention: `SE-<SECC Code>_<English Name>_<Korean Name>.md` (e.g. `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`).

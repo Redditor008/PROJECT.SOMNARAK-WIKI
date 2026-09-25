@@ -1,5 +1,6 @@
 # ABSOLOVHAN OVERVIEW (해원 시설 운용 총람 / 解怨 施設 運用 總覽)
 ## The Definitive Operational Guidebook & Systemic Mechanics Codex for the 366-Day Absolvohan Facility Cycle
+*(Archival Nomenclature: Preserved under both canonical spelling Absolvohan and historical registry label Absolovhan).*
 
 ```text
 +==============================================+

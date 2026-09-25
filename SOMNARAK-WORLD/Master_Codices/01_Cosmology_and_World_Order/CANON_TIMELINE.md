@@ -66,7 +66,7 @@ Settler Landing   The Cheongula       R.D. Inception        Dawn of Hope
 
 ### The Cycle Localization Rule (Strict R.D. + Absolvohan Scope)
 By immutable Project Owner decree:
-**"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan So no Mention Of The Cycle Outside R.D. + Absolovhan and that mean The Only Things That Used The Cycle Is R.D. + Absolovhan."**
+**"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan [sic, Absolvohan] So no Mention Of The Cycle Outside R.D. + Absolovhan [sic, Absolvohan] and that mean The Only Things That Used The Cycle Is R.D. + Absolovhan [sic, Absolvohan]."**
 
 - **Canonical Analogy:** Parallel to Project Moon's architecture—where the 10,000-year / 50-day TT2 loop protocol exists exclusively inside Lobotomy Corporation's headquarters, while The City, Library of Ruina, and Limbus Company Sinners never measure municipal history by L Corp cycles—Project Somnarak confines the 1,778 Mnemonic Cycles strictly inside Facility 01.
 - **Divisional Boundaries:**
@@ -85,6 +85,17 @@ To resolve the biological discrepancy of non-augmented operatives (such as Vangu
    - When an Absolvohan cycle collapses and triggers a facility reset, active operatives bound to high-grade M.A.W. weaponry or Echo-Cores do not experience continuous linear decades.
    - Between operational cycles, personnel are placed into cryo-engrammatic salt suspension within the deep vaults, waking only during active containment watches or breach alarms.
    - Their somatic age remains anchored to the date of their initial binding oath.
+
+### The Two-Phase History of R.D. (Linear Inception vs. Mnemonic Loop Dilation)
+To resolve the apparent discrepancy between R.D.'s initial founding year (Year 2,460 MMSS) and the Absolvohan loop's base year (Year 4,232 MMSS):
+1. **Phase 1: Linear Institutional Containment (Years 2,460–4,231 MMSS):**
+   - Facility 01 was commissioned in Year 2,460 as the municipal containment wing following the early Katabagil subterranean expeditions.
+   - For over 1,770 linear calendar years, R.D. operated as a conventional containment facility under Council of Sighs oversight, without temporal looping.
+2. **Phase 2: The Mnemonic Loop Dilation (Years 4,232–4,238 MMSS / Cycles 0001–1,778):**
+   - In Year 4,232, catastrophic seismic instability along the Maw fault lines threatened total municipal collapse. Director Majin deployed the sub-Floor 1 Mnemonic Generator.
+   - The generator locked Facility 01 into an internal 365-day repeating cycle.
+   - Because time within the facility dilated relative to linear reality, the 1,778 internal cycles elapsed across approximately 6 external municipal solar years (Years 4,232–4,238 MMSS).
+   - In Year 4,238, Cycle 1,778 completed the supercritical transmutation with the Hand of Hope, terminating the loop and returning Somnarak to advancing linear time.
 
 ---
 
@@ -125,7 +136,7 @@ To maintain absolute chronological integrity across all 1,778+ files in the repo
 By direct executive decree of the Project Owner:
 1. **"All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE."**
 2. **"UNK SE Is After R.D. Even"**
-3. **"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan So no Mention Of The Cycle Outside R.D. + Absolovhan"**
+3. **"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan [sic, Absolvohan] So no Mention Of The Cycle Outside R.D. + Absolovhan [sic, Absolvohan]"**
 4. **"CONTINENTAL GEOGRAPHY IS NOT AN SE"**
 
 ```text

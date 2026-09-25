@@ -294,7 +294,7 @@ Never collapse these states into the single word "done."
 **Owner's binding rulings:**
 - **"All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE"**
 - **"UNK SE Is After R.D. Even"**
-- **"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan So no Mention Of The Cycle Outside R.D. + Absolovhan and that mean The Only Things That Used The Cycle Is R.D. + Absolovhan"**
+- **"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan [sic, Absolvohan] So no Mention Of The Cycle Outside R.D. + Absolovhan [sic, Absolvohan] and that mean The Only Things That Used The Cycle Is R.D. + Absolovhan [sic, Absolvohan]"**
 - **"CONTINENTAL GEOGRAPHY IS NOT AN SE"**
 
 1. **The Cycle Localization Rule (Strict R.D. + Absolvohan Scope):**

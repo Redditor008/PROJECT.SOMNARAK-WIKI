@@ -79,3 +79,34 @@ The 1,196 files are organized chronologically across 42 registry groupings:
 | `Registry_1001_to_1043` | Unknown Entity Package (Deferred 1000-series sets) | 43 sets |
 
 *(For master progress tracking and status notes, see `REGISTRY_MASTER_STATUS.md` in this directory.)*
+
+---
+
+## Registry Numbering Gaps & In-Universe Lore Rationale
+
+The sequential registry directory numbers intentionally feature non-contiguous ranges (e.g., jumps across 008, 056–060, 074–076, etc.). Within canonical Directorate archival doctrine, these gaps represent deliberate institutional realities:
+
+1. **Classified & Expunged Entity Husks:** Several entity records were expunged by order of the High Council following catastrophic containment breaches during early cycles (such as the Zone B Cheongula aftermath and the Great Rust Severance). Their M.A.W. extraction records remain sealed under Class-V archival locks.
+2. **Directorate Extraction Prohibitions:** Certain Sorrow Entities possess metaphysical frequencies that violently reject physical extraction or induce acute cognitive dissolution in weavers. Directorate Directive 14-C strictly prohibits the harvesting of M.A.W. triplets from these anomalies.
+3. **Alternative Workshop Routing:** Anomalies whose physical remnants cannot be woven into standard M.A.W. suites are diverted to the **Six Great Workshops** (such as the Sump-Wrench Guild, Ashlar Foundries, or Giltong Weavers) for non-standard tool, barrier, or artisan gear fabrication (see `SOMNARAK_WORKSHOPS.md`).
+
+---
+
+## Formal-ID Collision Resolution & Integrated Relics
+
+### 1. The 1000-Series Collision Resolution Range (`Registry_1001_to_1043`)
+The 43 sets housed in `Registry_1001_to_1043` do not represent orphan dossiers; rather, they serve as the Directorate's formal registry ID collision resolution tier. When entity source numbers collided with reserved registry IDs, or when cataloging zero-index entities, they were assigned formal identifiers in the 1001–1043 range:
+- **`SE-1001` (The Kind Echo):** Source SECC is `SE-C-Iα-000 [LS]`, corresponding directly to `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-000_Kind_Echo_친절한_메아리.md`.
+- **`SE-1002` (The Broken Clock):** Source SECC is `C-IIIγ-044 [WO]` (preventing collision with `SE-044 Dawn of Mourning`).
+- **`SE-1003` (The Maw):** Source SECC is `C-IVω-001 [GP]`.
+- All 43 mappings are formally preserved in `Registry_1001_to_1043/README.md` and each file's Side Codex.
+
+### 2. Single-Dossier Integrated A-Relics (SE-072, 114, 319, 412, 515)
+Five specific entities across the archive do not maintain external subfolders in `MAW_Codex_Sets/`:
+- **`SE-C-IIIβ-072` (Father's Broken Bond)**
+- **`SE-C-Iα-114` (A Letter Never Sent)**
+- **`SE-N-IIβ-319` (The Magistrate's Strike-Through)**
+- **`SE-O-IIIγ-412` (The Wedge That Held)**
+- **`SE-O-IVδ-515` (The Last Warmth of Forty-Two)**
+
+These five entities are classified under the **A-Relic (Arcanum)** framework. Their full M.A.W. Weapon, Suit, and Gift specifications are intentionally embedded and preserved directly within their primary entity dossiers in `SOMNARAK-WORLD/Sorrow_Entities/` rather than split into standalone quadripartite files. This containment protocol prevents resonance dispersion of fragile historical relics and maintains the 198 complete quadripartite sets benchmark across the core registry.
