@@ -6,11 +6,11 @@
 +=====================================================================+
 |       TACTICAL ENGAGEMENT RECORD: BATTLE-002-SMOTHERING-MOTHER      |
 +---------------------------------------------------------------------+
-| OPERATIONAL AREA  : Facility 01 Floor 2 (The Maw's Keep, Vault B-03) |
+| OPERATIONAL AREA  : Facility 01 Floor 2 (The Maw Keep, Vault B-03)  |
 | SUBTERRANEAN DEPTH: -2,200 Meters (Direct Maw Perimeter Ingress)    |
-| THREAT RATING     : Rank IV Entity (Grade Delta Potency)             |
-| SUPPRESSION SQUAD : Floor 2 Maw Keepers Cadre (Reverie Directorate)  |
-| SQUAD ROSTER      : Lead Dekan, Warden Choi, Specialist Han, Bae     |
+| THREAT RATING     : Rank IV Entity (Grade Delta Potency)            |
+| SUPPRESSION SQUAD : Floor 2 Maw Keepers Cadre (Reverie Directorate) |
+| SQUAD ROSTER      : Lead Dekan, Warden Choi, Specialist Han, Bae    |
 | PRIMARY OBJECTIVE : Modular Part Rupture, Meltdown & Vault Re-Seal  |
 +=====================================================================+
 ```

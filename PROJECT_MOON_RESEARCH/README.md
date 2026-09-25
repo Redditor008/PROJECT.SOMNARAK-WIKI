@@ -36,15 +36,15 @@ Per the research directive, this compendium is **NOT an abbreviated summary**. I
 +======================+=================================================+
 | Volume 01            | Cosmology, Geography & The Laws of The City     |
 | Volume 02            | The 26 Wings & District Singularities (A to Z)  |
-| Volume 03            | Societal Powers, Fixer Associations & The Fingers|
-| Volume 04            | Metaphysics, The Well, Cogito, E.G.O & Distortions|
-| Volume 05            | Chronicled Canonical Narratives & Main Works   |
+| Volume 03            | Societal Powers, Associations & The Fingers     |
+| Volume 04            | Metaphysics, The Well, Cogito & Distortions     |
+| Volume 05            | Chronicled Canonical Narratives & Main Works    |
 | Volume 06            | Parallel Worlds, Mirrors & Glass Technology     |
 | Volume 07            | Comprehensive Master Encyclopedic Lexicon       |
 | Volume 08            | Tactical Combat Mechanics, Math & Ordeals       |
 | Volume 09            | E.G.O Equipment, Weapons, Suits & Gifts         |
 | Volume 10            | Independent Fixer Offices & Workshop Syndicates |
-| Volume 11            | Narrative Arcs, Character Psychology & Tragedies|
+| Volume 11            | Character Psychology, Narrative Arcs & Tragedy  |
 | Volume 12            | Abnormality Master Encyclopedia & Dossiers      |
 | Volume 13            | Tool Abnormalities, Log & Method Protocols      |
 | Volume 14            | Library of Ruina Floors, Realizations & Emotion |

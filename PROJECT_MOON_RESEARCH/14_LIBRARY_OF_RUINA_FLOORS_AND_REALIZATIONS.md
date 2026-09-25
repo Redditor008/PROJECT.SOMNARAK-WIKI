@@ -6,11 +6,11 @@
 +========================================================================+
 |               LIBRARY OF RUINA ARCHITECTURAL MATRIX                    |
 +========================================================================+
-| System Architecture  | The Library (도서관) / 10 Kabbalistic Floors   |
-| Primary Liaison      | Angela (앤젤라 / Head Librarian & Hostess)      |
-| Core Mechanics       | Speed Dice, Clash Priority, Emotion Levels I-V |
+| System Architecture  | The Library (Doseogwan) / 10 Kabbalistic Floors |
+| Primary Liaison      | Angela (Head Librarian & Hostess of Library)    |
+| Core Mechanics       | Speed Dice, Clash Priority, Emotion Levels I-V  |
 | Card Architecture    | Combat Pages, Key Pages, E.G.O Pages, Passives  |
-| Pinnacle Battles     | Complete Floor Realizations (완전 개방 / 각성) |
+| Pinnacle Battles     | Complete Floor Realizations (Wanjeon Gaebang)   |
 +========================================================================+
 ```
 

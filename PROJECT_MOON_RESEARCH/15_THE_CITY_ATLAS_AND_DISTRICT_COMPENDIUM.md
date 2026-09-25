@@ -4,11 +4,11 @@
 
 ```text
 +========================================================================+
-|                 THE CITY (도시 / DOSI) MASTER ATLAS                    |
+|                 THE CITY (DOSI) REGIONAL MASTER ATLAS                  |
 +========================================================================+
-| Sovereign Entity     | The Head (머리 / A Corp, B Corp, C Corp)        |
+| Sovereign Entity     | The Head (A Corp, B Corp, C Corp Triarchy)      |
 | Municipal Structure  | 26 Districts (A to Z) / Nest vs. Backstreets    |
-| Exterior Domains     | The Outskirts (외곽), The Ruins, The Great Lake |
+| Exterior Domains     | The Outskirts, The Ruins, and The Great Lake    |
 | Primary Singularity  | Spatial, Temporal, Biological, and Mental Tech  |
 | Enforced Decrees     | The City Taboos, Night in Backstreets, Sweepers |
 +========================================================================+
@@ -24,16 +24,16 @@ The City (*Dosi* / 도시) represents the last organized human megacity on the p
 +========================================================================+
 |                     SPATIAL TOPOGRAPHY OF A DISTRICT                   |
 +========================================================================+
-| THE NEST (둥지 / Dungi)   | Controlled by the Mega-Corporation (Wing). |
-|                           | Home to corporate 'Feathers' (citizens).  |
-|                           | Clean, surveilled, sterile, heavily taxed.|
+| THE NEST (Dungi)          | Controlled by the Mega-Corporation (Wing). |
+|                           | Home to corporate 'Feathers' (citizens).   |
+|                           | Clean, surveilled, sterile, heavily taxed. |
 +---------------------------+--------------------------------------------+
-| THE BACKSTREETS (뒷골목)   | Lawless residential sprawl between Nests.  |
-|                           | Ruled by Fixers, Syndicates, and Fingers.  |
+| THE BACKSTREETS           | Lawless residential sprawl between Nests.  |
+| (Dwitgolmok)              | Ruled by Fixers, Syndicates, and Fingers.  |
 |                           | Subject to Night in the Backstreets.       |
 +---------------------------+--------------------------------------------+
 | THE WALLS & BARRIERS      | Monolithic concrete and kinetic barricades |
-|                           | separating districts and sealing edges.   |
+|                           | separating districts and sealing edges.    |
 +========================================================================+
 ```
 
@@ -69,7 +69,7 @@ Every night from **3:13 AM to 4:34 AM (exactly 1 hour and 21 minutes)**, the sta
 | 09 (I)   | I Corp          | Structural Polymers & Reinforced Concrete |
 | 10 (J)   | J Corp          | Gambling, Probability Lock & High Finance |
 | 11 (K)   | K Corp          | HP Regeneration (Tears of the Lotus / Eye)|
-| 12 (L)   | Lobotomy / L Corp| Enkephalin Extraction (Fallen / Cogito)   |
+| 12 (L)   | Lobotomy (L Corp)| Enkephalin Extraction (Fallen / Cogito)  |
 | 13 (M)   | M Corp          | Mental Stabilization Moonshine (MDM Tech) |
 | 14 (N)   | N Corp          | Nagel und Hammer, Fanatical Purity, Canned|
 | 15 (O)   | O Corp          | Optic Shrouding & Camouflage Phantasm     |

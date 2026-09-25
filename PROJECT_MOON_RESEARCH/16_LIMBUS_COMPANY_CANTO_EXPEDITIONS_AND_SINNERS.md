@@ -40,18 +40,18 @@
 +========================================================================+
 | No. | Sinner Name    | Literary Origin         | Weapon Archetype      |
 +=====+================+=========================+=======================+
-| 01  | Yi Sang (이상) | Yi Sang (*The Wings*)   | Sangdo (Dagger)       |
-| 02  | Faust (파우스트)| Goethe (*Faust*)       | Zweihänder            |
-| 03  | Don Quixote    | Cervantes (*Don Q.*)    | Lance (Cinq/Bloodfiend)|
-| 04  | Ryōshū (료슈)  | Akutagawa (*Hell Screen)| Odachi (Sheathed)     |
-| 05  | Meursault      | Camus (*The Stranger*)  | Gauntlets & Buckler   |
-| 06  | Hong Lu (홍루) | Cao Xueqin (*Red Chamb*)| Guandao / Crescent    |
-| 07  | Heathcliff     | Brontë (*Wuthering H.*) | Bat / Iron Coffin     |
-| 08  | Ishmael        | Melville (*Moby-Dick*)  | Mace & Buckler / Harpo|
-| 09  | Rodion (로디온)| Dostoevsky (*Crime & P*)| Heavy Battle Axe      |
-| 10  | Sinclair       | Hesse (*Demian*)        | Halberd               |
-| 11  | Outis (오티스) | Homer (*The Odyssey*)   | Trench Blade & Pistol |
-| 12  | Gregor         | Kafka (*Metamorphosis*) | Bio-Insectoid Arm     |
+| 01  | Yi Sang        | Yi Sang (The Wings)     | Sangdo (Dagger)       |
+| 02  | Faust          | Goethe (Faust)          | Zweihander            |
+| 03  | Don Quixote    | Cervantes (Don Quixote) | Lance / Jousting Pole |
+| 04  | Ryoshu         | Akutagawa (Hell Screen) | Odachi (Sheathed)     |
+| 05  | Meursault      | Camus (The Stranger)    | Gauntlets & Buckler   |
+| 06  | Hong Lu        | Cao Xueqin (Red Chamber)| Guandao / Crescent    |
+| 07  | Heathcliff     | Bronte (Wuthering H.)   | Bat / Iron Coffin     |
+| 08  | Ishmael        | Melville (Moby-Dick)    | Mace & Buckler / Harpo|
+| 09  | Rodion         | Dostoevsky (Crime & P.) | Heavy Battle Axe      |
+| 10  | Sinclair       | Hesse (Demian)          | Halberd               |
+| 11  | Outis          | Homer (The Odyssey)     | Trench Blade & Pistol |
+| 12  | Gregor         | Kafka (Metamorphosis)   | Bio-Insectoid Arm     |
 +========================================================================+
 ```
 
@@ -86,7 +86,7 @@ The **Golden Boughs (황금가지 / *Hwang-geumgaji*)** are the crystallized rem
 | Canto III| The Unfacing (Sincl)| District 11 (K)   | Kromer / Inquisit.|
 | Canto IV| The Unchanging (Yi S)| District 11 (K)   | Dongrang / Guinhoe|
 | Canto V| The Evil Defining (Ish)| Dist. 21 (U Lake)| Pallid Whale/Ahab |
-| Canto VI| The Heartbreaking (Hea)| Dist. 20 (T Corp)| Manor / Erlking   |
-| Canto VII| The Dream Ending (DQ)| Dist. 16 (P Corp) | La Mancha Land    |
+| Canto VI| The Heartbreak (Hea)  | Dist. 20 (T Corp)| Manor / Erlking   |
+| Canto VII| The Dream End (DQ)   | Dist. 16 (P Corp)| La Mancha Land    |
 +========================================================================+
 ```

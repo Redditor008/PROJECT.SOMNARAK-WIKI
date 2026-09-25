@@ -207,8 +207,20 @@ def audit_auxiliary_collections():
     jipyeong_parts = [f for f in os.listdir(jipyeong_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(jipyeong_dir) else []
     eco_files = [f for f in os.listdir(eco_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(eco_dir) else []
 
-    return {
-        "status": "PASS",
+    expected_aux = {
+        "ordeals_count": 60,
+        "hope_transformations_count": 14,
+        "unknown_entities_count": 12,
+        "echo_cores_count": 9,
+        "absolvohan_parts_count": 10,
+        "sed_passages_count": 8,
+        "ucd_operations_count": 7,
+        "gieok_receptions_count": 8,
+        "jipyeong_arcs_count": 7,
+        "mugenhan_ecology_count": 5,
+    }
+
+    counts = {
         "ordeals_count": len(ordeals),
         "hope_transformations_count": len(hope),
         "unknown_entities_count": len(unk),
@@ -220,6 +232,11 @@ def audit_auxiliary_collections():
         "jipyeong_arcs_count": len(jipyeong_parts),
         "mugenhan_ecology_count": len(eco_files),
     }
+
+    all_match = all(counts[k] == expected_aux[k] for k in expected_aux)
+    res = {"status": "PASS" if all_match else "FAIL"}
+    res.update(counts)
+    return res
 
 
 
@@ -296,14 +313,25 @@ def main():
     print(f"   - Mugenhan Ecology     : {aux_res['mugenhan_ecology_count']} files (Planetary Biological Compendiums)")
     print(f"   - Ordeals (5 Colors)   : {aux_res['ordeals_count']} files (Expected: 60)")
     print(f"   - Hope Transformations : {aux_res['hope_transformations_count']} files (Expected: 14)")
-    print(f"   - Unknown Anomalies    : {aux_res['unknown_entities_count']} files (Expected: 15)")
+    print(f"   - Unknown Anomalies    : {aux_res['unknown_entities_count']} files (Expected: 12)")
     print(f"   - Facility Echo-Cores  : {aux_res['echo_cores_count']} files (Expected: 9)")
     print(f"6. Text Box Symmetry     : {sym_res['status']} ({sym_res['scanned_files']} files, {sym_res['total_issues']} crooked rows)")
     print("=" * 68)
-    print(" OVERALL LORE HEALTH: PASS")
+
+    all_passed = (
+        utf8_res["status"] == "PASS" and
+        macro_res["status"] == "PASS" and
+        maw_res["status"] == "PASS" and
+        se_res["status"] == "PASS" and
+        aux_res["status"] == "PASS" and
+        sym_res["status"] == "PASS"
+    )
+
+    overall_label = "PASS" if all_passed else "FAIL"
+    print(f" OVERALL LORE HEALTH: {overall_label}")
     print("=" * 68)
 
-    return 0
+    return 0 if all_passed else 1
 
 
 if __name__ == "__main__":

@@ -6,12 +6,12 @@
 +========================================================================+
 |             TOOL ABNORMALITY RESEARCH & EXTRACTION MATRIX              |
 +========================================================================+
-| Category             | Tool Abnormalities (도구형 환상체)              |
-| Source Repository    | Lobotomy Corporation Wiki / Cogitopedia Database|
+| Category             | Tool Abnormalities (Doguhyeong Hwansangche)     |
+| Source Archive       | Lobotomy Corporation Wiki / Cogitopedia DB      |
 | Operational Scope    | Facility Extraction, Buffs, Hazards, Instadeath |
 | Structural Tiers     | Single-Use, Equippable, Continuous (Channeled)  |
-| Capability Badges    | Instadeath, Employee Alteration, Facility Benefit|
-| Documentation Model  | Log and Method (기록 및 사용법) Tiered Archives|
+| Capability Badges    | Instadeath, Employee Alteration, Facility Buff  |
+| Documentation Model  | Log and Method (Girok mit Sayongbeop) Archives  |
 +========================================================================+
 ```
 

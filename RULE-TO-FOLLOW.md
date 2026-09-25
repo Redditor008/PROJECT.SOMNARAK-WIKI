@@ -297,9 +297,10 @@ Never collapse these states into the single word "done."
 
 1. **The Cycle Localization Rule (Strict R.D. + Absolvohan Scope):**
    - The 1,778 Mnemonic Cycles belong strictly and exclusively to **The Reverie Directorate (R.D.) / The Absolvohan (Facility 01)**.
-   - Under no circumstances is "The Cycle" used or referenced outside R.D. + The Absolvohan.
+   - Under no circumstances is "The Cycle" used or referenced outside R.D. + The Absolvohan as an external calendar standard.
    - Just as the 10,000-year / 50-day loop protocol in Lobotomy Corporation exists strictly inside the L Corp facility—with The City, Library of Ruina, and Limbus Company never measuring time by L Corp loops—Project Somnarak confines the Cycle system entirely to Facility 01.
    - SED (Subterranean Expedition Division), UCD (Underworld Cleanup Descend), the Council of Sighs, the syndicate underworld, and all Post-Dawn operations operate exclusively on linear calendar time (Mugenhan Municipal Solar Standard).
+   - **Reference vs. Measurement Exception Ruling:** Temporal *measurement* and active *calendaring* by Cycles are strictly prohibited outside R.D. + The Absolvohan (external entities, municipal authorities, and post-Dawn wings do not measure calendar time by Cycles). However, retrospective narrative, historical, and testimonial *references* to the R.D. Cycles are canonical and valid when documenting loop aftermath, facility origin records, or post-loop survivor memories (e.g., *The Repeated Survivor* bearing trauma from 1,778 resets, the *Regressor Log Book*, or Seiyon's synthesis in Cycle 0002). This directly mirrors how Lobotomy Corporation's 10,000-year loop is retrospectively discussed in Library of Ruina and Limbus Company without The City tracking municipal time by it.
 2. **The Ante-Dawn Era (Before Dawn of Hope — Sequential Tripartite Progression):**
    - All operations, descent logs, and purge chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope in sequential progression:
      1. **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock. Operates on calendar years and depth meters (no cycle tracking).

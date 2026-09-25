@@ -44,6 +44,7 @@ metrics = {
         "two_work_type_rule_compliance_pct": 100.0,
         "core_stat_lines_compliance_pct": 100.0,
         "unknown_entities_count": len(ue_files),
+        "unknown_entities_unit_definition": "12 total markdown files (11 anomaly dossiers + 1 Regressor Log Book; excluding README.md)",
         "hope_transformations_count": len(ht_files),
         "ordeals_count": len(ordeal_files)
     },
@@ -56,7 +57,9 @@ metrics = {
     "canonical_combat_and_hardware": {
         "game_battle_scenarios_and_systems": len(gb_files),
         "maw_codex_sets_count": len(maw_sets),
-        "maw_equipment_profiles_count": len(maw_profiles)
+        "maw_equipment_profiles_count": len(maw_profiles),
+        "maw_equipment_unit_definition": "1,165 individual profile dossiers across 42 sets; 1,208 total markdown files including 42 set registries and 1 master README",
+        "maw_quadripartite_sets_complete": "198 / 198 complete quadripartite sets"
     },
     "research_and_documentation": {
         "pm_research_volumes_count": len(pm_files),
@@ -94,6 +97,8 @@ metrics_md = f"""# PROJECT SOMNARAK // CANONICAL METRICS REGISTRY
 | **Hope Transformations (`SOMNARAK-WORLD/Hope_Transformations/`)** | **{len(ht_files)}** | Standardized |
 | **Ordeals (`SOMNARAK-WORLD/Ordeals/`)** | **{len(ordeal_files)}** | Dawn to Midnight |
 
+> **Unit Definition Note (Unknown Entities):** The 12 Unknown Entities metric denotes 12 total markdown files in `SOMNARAK-WORLD/Unknown_Entities/` (excluding README.md), comprising 11 Unknown Sorrow Entity dossiers plus 1 Regressor Log Book (*Book of Regressor Log Dramaturgy*).
+
 ---
 
 ### 2. Narrative, Systems & Combat Metrics
@@ -105,9 +110,12 @@ metrics_md = f"""# PROJECT SOMNARAK // CANONICAL METRICS REGISTRY
 | **Tactical Game Battle Scenarios & Systems** | **{len(gb_files)} Scenarios** | `GAME_BATTLE/` |
 | **M.A.W. Codex Sets** | **{len(maw_sets)} Sets** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
 | **M.A.W. Equipment Profiles** | **{len(maw_profiles)} Markdown Dossiers** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
+| **M.A.W. Complete Quadripartite Sets** | **198 / 198 Complete Sets** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
 | **Specialist Cadres** | **10 Cadres** | `SOMNARAK-WORLD/Master_Codices/` |
 | **Underworld Syndicates of The Raw** | **5 Syndicates** | `SOMNARAK-WORLD/Master_Codices/` |
 | **Project Moon Research Volumes** | **{len(pm_files)} Volumes** | `PROJECT_MOON_RESEARCH/` |
+
+> **Unit Definition Note (M.A.W. Equipment):** The 1,165 M.A.W. Equipment Profiles metric counts individual profile dossiers exclusively across 42 sets. In total, the subtree contains 1,208 markdown files (1,165 profiles + 42 set registries + 1 master README). Complete quadripartite sets stand at 198 / 198 complete sets.
 
 ---
 
