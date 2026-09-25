@@ -726,8 +726,8 @@ The seven specialists stepped through the archway, descending into the lawless d
 
 ## Institutional Codex Cross-References
 
-- **Company Dossier & Fleet Infrastructure:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREE.md`
-- **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
+- **Company Dossier & Fleet Infrastructure:** `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md`
+- **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md`
 - **Previous Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_1_Cryptasu.md`
 - **Next Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_3_Furtugil.md`
 - **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md`

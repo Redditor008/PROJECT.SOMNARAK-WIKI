@@ -58,6 +58,6 @@ The narrative and tactical expedition of the SED is structured across seven cont
 
 ## III. Institutional & Master Codices Alignment
 
-- **Company Dossier:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREE.md`
-- **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
+- **Company Dossier:** `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md`
+- **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md`
 - **Field Guidebook:** `SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md`

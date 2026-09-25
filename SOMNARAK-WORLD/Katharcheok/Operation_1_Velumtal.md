@@ -670,5 +670,5 @@ Twenty minutes later, the squad climbed the stone stairs to the street level. As
 
 With the Veil Merchants' primary manufacturing foundries dismantled, intelligence extracted from Gwangseok's hard drives points directly to the drainage canals connecting Zone B and Zone C. There, the second and most terrifying syndicate operates: **The Memory Washers Fray**, commanded by Chief Chemist Sura.
 
-- **Next Chapter:** `Operation_2_The_Memory_Washers.md` (Lethepyo / 표백원)
+- **Next Chapter:** `Operation_2_Lethepyo.md` (Lethepyo / 표백원)
 - **Sector Target:** Zones B & C — The Bleached Wards

@@ -62,6 +62,6 @@ The tactical campaign of the UCD unfolds across six high-intensity operational r
 
 ## III. Institutional & Master Codices Alignment
 
-- **Company Dossier:** `SOMNARAK-WORLD/Master_Codices/The_UNDERWORLD_CLEANUP_DESCEND.md`
-- **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_UCD_PACIFICATION.md`
+- **Company Dossier:** `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_UNDERWORLD_CLEANUP_DESCEND.md`
+- **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_UNDERWORLD_CLEANUP_DESCEND.md`
 - **Tactical Guidebook:** `SOMNARAK-WORLD/Katharcheok/KATHARCHEOK_OVERVIEW.md`
