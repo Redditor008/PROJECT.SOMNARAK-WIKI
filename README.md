@@ -2,6 +2,8 @@
 
 Welcome to the **Canonical Lore & Reference Source Archive** for **Project Somnarak** (소마나락), maintained on the `NON-WIKI` branch.
 
+> **Canonical Governance Gateway:** See [`GOVERNANCE.md`](GOVERNANCE.md) for the single entry point governing repository rules, developer handbooks, and operational protocols.
+
 This repository serves as the authoritative, durable database and narrative foundation for the Somnarak universe (~3.42 million words). It houses the pure markdown source corpus for all cosmological frameworks, entity dossiers, equipment registries, specialized operational suites, planetary ecological archives, and departmental records.
 
 ---

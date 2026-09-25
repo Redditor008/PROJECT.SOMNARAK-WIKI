@@ -1,5 +1,7 @@
 # DEVELOPMENT.md — Somnarak Non-Wiki Archive Development Handbook
 
+> **Repository Governance Gateway:** For the top-level index connecting all repository governance files, see [`GOVERNANCE.md`](GOVERNANCE.md).
+
 > **Read this file first.** It is the standing handoff for AI/developer sessions
 > working on the `NON-WIKI` branch of `PROJECT.SOMNARAK-WIKI`: repository architecture,
 > canon source standards, file structures, verification methods, and operating rules.

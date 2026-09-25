@@ -1,0 +1,53 @@
+name: Project Somnarak Canon & Code Quality CI
+
+on:
+  push:
+    branches:
+      - main
+      - NON-WIKI
+      - 'arena/**'
+  pull_request:
+    branches:
+      - main
+      - NON-WIKI
+      - 'arena/**'
+
+jobs:
+  audit-and-lint:
+    name: Lore Integrity & Linters Suite
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Verify Text Box Symmetry & 74-Column Standard
+        run: |
+          python3 tools/check_box_symmetry.py
+
+      - name: Audit Macro-Lore & Canonical Health
+        run: |
+          python3 tools/audit_lore_archive.py
+
+      - name: Run Macro-Chronology & Timeline Linter
+        run: |
+          python3 tools/timeline_lint.py
+
+      - name: Run Semantic Seam & PM Vocabulary Policy Linter
+        run: |
+          python3 tools/seam_lint.py
+
+      - name: Run Linter Unit Test Suite
+        run: |
+          python3 -m unittest tools/tests/test_linters.py
+
+      - name: Verify Canonical Metrics SSOT Parity
+        run: |
+          python3 tools/generate_canonical_metrics_registry.py
+          python3 tools/sync_readme_metrics.py
+          git diff --exit-code CANONICAL_METRICS.json CANONICAL_METRICS.md README.md || (echo "Canonical metrics or README are out of sync with disk state. Run tools/generate_canonical_metrics_registry.py and tools/sync_readme_metrics.py" && exit 1)

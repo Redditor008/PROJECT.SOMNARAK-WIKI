@@ -1,5 +1,7 @@
 # RULE TO FOLLOW — v2 (SUPER DETAILED)
 
+> **Repository Governance Gateway:** For a single-page overview connecting all specialized rulebooks and engineering handbooks, refer to [`GOVERNANCE.md`](GOVERNANCE.md).
+
 **Authority:** Direct project-owner instruction (last updated 2026-09-01)
 **Status:** Mandatory for every AI, coding session, pull request, and deployment
 **Repository:** `Redditor008/PROJECT.SOMNARAK-WIKI`

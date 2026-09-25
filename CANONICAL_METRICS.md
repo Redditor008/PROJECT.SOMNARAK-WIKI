@@ -46,7 +46,7 @@
 | :--- | :--- |
 | **`SOMNARAK-WORLD/` Subtree** | **1706 files** |
 | **`docs/` Publishing Subtree** | **4 files** |
-| **Total Non-Git Repository Files** | **1975 files** |
+| **Total Non-Git Repository Files** | **1978 files** |
 
 ---
 
