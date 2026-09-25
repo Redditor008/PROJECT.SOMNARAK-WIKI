@@ -19,7 +19,7 @@
 
 ## 1. Executive Summary & Implementation Vision
 
-The foundational design of the Somnarak Grid Battle System (GBS) has been fully codified in `SOMNARAK_BATTLE_SYSTEM.md` and `SOMNARAK_BATTLE_SYSTEM_STYLES.md`. This document establishes the concrete, actionable engineering roadmap for transforming those mathematical and spatial rules into a **fully playable, executable tactical combat game**.
+The foundational design of the Somnarak Grid Battle System (GBS) has been fully codified in `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md` and `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md`. This document establishes the concrete, actionable engineering roadmap for transforming those mathematical and spatial rules into a **fully playable, executable tactical combat game**.
 
 The core philosophy of this implementation is **strict decoupling between the simulation logic and the presentation layer**. The combat engine will exist as an autonomous, deterministic state machine that can be executed as a command-line simulator, embedded inside a web-based interactive wiki page, or linked into a high-performance 2D/3D game engine such as Godot 4.
 
@@ -119,7 +119,7 @@ A skill can only be queued if `Distance` falls within the weapon's calibrated Ra
 
 ## 4. Concrete Data Schemas (JSON Specification)
 
-### 4.1 Operative Profile Schema (`operative.json`)
+### 4.1 Operative Profile Schema (Specification Object)
 ```json
 {
   "id": "OP-001",
@@ -146,7 +146,7 @@ A skill can only be queued if `Distance` falls within the weapon's calibrated Ra
 }
 ```
 
-### 4.2 Modular Sorrow Entity Schema (`entity.json`)
+### 4.2 Modular Sorrow Entity Schema (Specification Object)
 ```json
 {
   "secc_code": "SE-C-Vδ-002",
@@ -215,7 +215,7 @@ A skill can only be queued if `Distance` falls within the weapon's calibrated Ra
   * Implements the 10-node array with visual ASCII battle line.
   * Turn loop: Initiative calculation -> AP allocation -> Clash roll -> Stagger check.
   * Runs automated headless combat simulations (e.g., 1,000 battles) to mathematically verify balance between M.A.W. Wear Grades and Entity Ranks.
-- **Deliverable:** `tools/combat_simulator.py` or `engine/cli_combat.ts`.
+- **Deliverable:** Planned Headless Combat CLI Engine (Python / TypeScript).
 
 ### Milestone 02: Interactive Browser Canvas / Web UI Prototype
 - **Scope:** Client-side HTML5 Canvas or Vue.js / React micro-app embedded in the documentation.

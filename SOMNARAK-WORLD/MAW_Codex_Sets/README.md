@@ -78,7 +78,7 @@ The 1,196 files are organized chronologically across 42 registry groupings:
 | `Registery_UNK_247_to_903` | UNK Special Series (UNK-247 through UNK-903) | 6 sets |
 | `Registry_1001_to_1043` | Unknown Entity Package (Deferred 1000-series sets) | 43 sets |
 
-*(For master progress tracking and status notes, see `REGISTRY_MASTER_STATUS.md` in this directory.)*
+*(For master progress tracking and status notes, see [`REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md`](../../REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md)).*
 
 ---
 
@@ -88,7 +88,7 @@ The sequential registry directory numbers intentionally feature non-contiguous r
 
 1. **Classified & Expunged Entity Husks:** Several entity records were expunged by order of the High Council following catastrophic containment breaches during early cycles (such as the Zone B Cheongula aftermath and the Great Rust Severance). Their M.A.W. extraction records remain sealed under Class-V archival locks.
 2. **Directorate Extraction Prohibitions:** Certain Sorrow Entities possess metaphysical frequencies that violently reject physical extraction or induce acute cognitive dissolution in weavers. Directorate Directive 14-C strictly prohibits the harvesting of M.A.W. triplets from these anomalies.
-3. **Alternative Workshop Routing:** Anomalies whose physical remnants cannot be woven into standard M.A.W. suites are diverted to the **Six Great Workshops** (such as the Sump-Wrench Guild, Ashlar Foundries, or Giltong Weavers) for non-standard tool, barrier, or artisan gear fabrication (see `SOMNARAK_WORKSHOPS.md`).
+3. **Alternative Workshop Routing:** Anomalies whose physical remnants cannot be woven into standard M.A.W. suites are diverted to the **Six Great Workshops** (such as the Sump-Wrench Guild, Ashlar Foundries, or Giltong Weavers) for non-standard tool, barrier, or artisan gear fabrication (see [`SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md`](../Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md)).
 
 ---
 

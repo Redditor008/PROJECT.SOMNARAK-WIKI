@@ -670,7 +670,7 @@ WEST ────┼────────────┼───────
 
 **Overall Shape:** A massive, bounded hexagon. Its internal districts are constructed as jagged, interlocking geometric shapes — a city of angles, not curves.
 
-**Visual Reference:** `somnarak_city_layout.svg`
+**Visual Reference:** `SOMNARAK_CITY_LAYOUT.svg`
 
 **Zone Areas (Total: 86 km²):**
 
@@ -3612,7 +3612,7 @@ Echo-Cores use M.A.W. more than anyone — and they are at the highest risk of C
 | **The Outsider** | Android — M.A.W. compatible | Stage 1 — whispers noted |
 | **The Exile** | Desolate-changed | **Unknown — the Desolate is changing them** |
 
-**Full details:** `The_REVERIE_DIRECTORATE.md`
+**Full details:** `../02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`
 
 ---
 
@@ -4189,7 +4189,7 @@ Not everyone sleeps at night. Some activities are **night-only:**
 
 ### Daily Life in Somnarak
 
-**Full details:** `SOMNARAK_DAILY_LIFE.md`
+**Full details:** `../04_Municipal_Society_and_Demographics/SOMNARAK_DAILY_LIFE.md`
 
 **What it is:** What it feels like to live in Somnarak — the rhythms, the food, the festivals, the sounds, the colors, the Vigil.
 
@@ -4205,7 +4205,7 @@ Not everyone sleeps at night. Some activities are **night-only:**
 
 ### Taboos (금지 — Geumji)
 
-**Full details:** `SOMNARAK_TABOO_RESONANCE.md`
+**Full details:** `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_TABOO_RESONANCE.md`
 
 Seven absolute prohibitions enforced by the city itself — not by any faction. Breaking a Taboo triggers consequences from the city's Han structure.
 
@@ -4223,7 +4223,7 @@ Seven absolute prohibitions enforced by the city itself — not by any faction. 
 
 ### Resonances (공명 — Gongmyeong)
 
-**Full details:** `SOMNARAK_TABOO_RESONANCE.md`
+**Full details:** `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_TABOO_RESONANCE.md`
 
 Each faction has a unique ability — a way of interacting with Han that defines their role.
 
@@ -4241,7 +4241,7 @@ Each faction has a unique ability — a way of interacting with Han that defines
 
 ### Common Technology
 
-**Full details:** `PROJECT_SOMNARAK.md` (full section above) and `SOMNARAK_FACTION_TECH.md`
+**Full details:** `PROJECT_SOMNARAK.md` (full section above) and `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_FACTION_TECH.md`
 
 Somnarak has modern technology — built from Han-crystal, Echoes, and sorrow-forged materials.
 
@@ -4257,7 +4257,7 @@ Somnarak has modern technology — built from Han-crystal, Echoes, and sorrow-fo
 
 ### Faction-Specific Technology
 
-**Full details:** `SOMNARAK_FACTION_TECH.md`
+**Full details:** `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_FACTION_TECH.md`
 
 Each faction has unique technology reflecting their role and Resonance.
 
@@ -4276,7 +4276,7 @@ Each faction has unique technology reflecting their role and Resonance.
 
 ### The Underworld — Menders & Frays
 
-**Full details:** `SOMNARAK_UNDERWORLD.md`
+**Full details:** `../04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD.md`
 
 #### Menders (수선자) — Independent Operators
 
@@ -4302,7 +4302,7 @@ The loose, chaotic threads of Somnarak — operating in the lawless lower wards.
 
 ### Entity Groups & Chains
 
-**Full details:** `SOMNARAK_ENTITIES.md`
+**Full details:** `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md`
 
 | Type | Examples | Mechanic |
 |------|----------|----------|
@@ -4318,7 +4318,7 @@ The loose, chaotic threads of Somnarak — operating in the lawless lower wards.
 
 ## Known People of Somnarak
 
-**Full details:** `SOMNARAK_CAST.md`
+**Full details:** `../04_Municipal_Society_and_Demographics/SOMNARAK_CAST.md`
 
 **What they are:** Names that at least 25% of the population has heard — not heroes or villains, but *fixtures* of the city.
 
@@ -4356,12 +4356,12 @@ The loose, chaotic threads of Somnarak — operating in the lawless lower wards.
 
 ## Entity Codex
 
-**Full details:** `SOMNARAK_ENTITY_CODEX.md`
+**Full details:** `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md`
 
 
 ## Entity Tales
 
-**Full details:** `SOMNARAK_ENTITY_TALES.md`
+**Full details:** `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md`
 
 **What they are:** Narrative stories for Sorrow Entities — told as fairy tales, survivor testimonies, and archival records.
 
@@ -4594,7 +4594,7 @@ These fragments are the **Sorrow Seeds** — crystallized moments of the thousan
 
 **Named Fractures** are Fractured beings who have become **permanent fixtures** in Somnarak — entities that were once human, now transformed, their stories preserved in the Archive. Unlike Sorrow Entities (which form from collective grief), Named Fractures were **individuals** who broke under the weight of their own sorrow.
 
-**The complete roster:** The eight permanent transformations catalogued below (Fractures 11–18 in the R.D. Fracture Registry) are part of the full **eighteen-entry** Named Fractures roster, now unified in `SOMNARAK_NAMED_FRACTURES.md`. That file also records ten further Fractures documented in living memory — citizens who broke, some of whom survived as partial or chronic Fractures and still walk the city. Together, the two ledgers describe the same phenomenon from opposite ends: the person who broke, and the thing they became.
+**The complete roster:** The eight permanent transformations catalogued below (Fractures 11–18 in the R.D. Fracture Registry) are part of the full **eighteen-entry** Named Fractures roster, now unified in `../05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md`. That file also records ten further Fractures documented in living memory — citizens who broke, some of whom survived as partial or chronic Fractures and still walk the city. Together, the two ledgers describe the same phenomenon from opposite ends: the person who broke, and the thing they became.
 
 ---
 
@@ -5299,7 +5299,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ### SED — Somnarak Exploration Decreed
 
-**Full details:** `The_SOMNARAK_EXPLORATION_DECREE.md` and dedicated collection in `SOMNARAK-WORLD/Katabagil/`
+**Full details:** `../02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md` and dedicated collection in `SOMNARAK-WORLD/Katabagil/`
 
 **What it is:** An official decree authorizing organized exploration of Somnarak's unmapped, unknown, and dangerous areas.
 
@@ -5321,7 +5321,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ### UCD — Underworld Cleanup Descend
 
-**Full details:** `The_UNDERWORLD_CLEANUP_DESCEND.md` and dedicated collection in `SOMNARAK-WORLD/Katharcheok/`
+**Full details:** `../02_Institutional_Wings_and_Chronicles/The_UNDERWORLD_CLEANUP_DESCEND.md` and dedicated collection in `SOMNARAK-WORLD/Katharcheok/`
 
 **What it is:** A joint operation to dismantle the Frays' power structure and restore order to the Raw.
 
@@ -5342,7 +5342,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ### R.D. — The Reverie Directorate
 
-**Full details:** `The_REVERIE_DIRECTORATE.md`
+**Full details:** `../02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`
 
 **What it is:** The facility that contains Sorrow Entities and extracts M.A.W. — and manages the city's relationship with sorrow.
 
@@ -5363,7 +5363,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ## Battle System
 
-**Full details:** `SOMNARAK_BATTLE_SYSTEM.md`
+**Full details:** `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md`
 
 **Overview:** Narrative combat framework — 15 sections covering combat flow, entity behavior, personnel actions, consequences, formations, attack patterns, injuries, entity capture, Work Type combat, M.A.W. combat, and retreat mechanics.
 
@@ -5378,7 +5378,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ## Enemy List
 
-**Full details:** `SOMNARAK_ENEMY_LIST.md`
+**Full details:** `../05_Entities_Tales_and_Fractures/SOMNARAK_ENEMY_LIST.md`
 
 **Overview:** Complete enemy codex organized by operation — SED enemies, UCD enemies, R.D. enemies, and Ordeals.
 
@@ -5399,28 +5399,28 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 ### Characters
 
 1. **Who is the protagonist Architect?** What is their personal sorrow? *(Not yet written — each operation has its own protagonist)*
-2. **Who are the key antagonists?** What are their justifications? *(Search `SOMNARAK_FACTION_RELATIONS.md`)*
-3. **Who leads each faction?** *(Search `SOMNARAK_CAST.md` — the Five Heads and Sector Heads)*
-4. **What is the "ideal ending" for the world?** *(Search `The_REVERIE_DIRECTORATE.md`)*
+2. **Who are the key antagonists?** What are their justifications? *(Search `../04_Municipal_Society_and_Demographics/SOMNARAK_FACTION_RELATIONS.md`)*
+3. **Who leads each faction?** *(Search `../04_Municipal_Society_and_Demographics/SOMNARAK_CAST.md` — the Five Heads and Sector Heads)*
+4. **What is the "ideal ending" for the world?** *(Search `../02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`)*
 
 ### World
 
 5. **What other cities exist in the wilderness?** *(Search `SOMNARAK_UNKNOWN_CITIES.md`)*
-6. **What is the geopolitical landscape?** *(Search `SOMNARAK_FACTION_RELATIONS.md`)*
+6. **What is the geopolitical landscape?** *(Search `../04_Municipal_Society_and_Demographics/SOMNARAK_FACTION_RELATIONS.md`)*
 7. **What exists beyond the Desolate?** *(Search `SOMNARAK_THE_WEEPING.md`)*
 
 ### The Cheongula
 
 8. **What really happened during the Cheongula?** *(Search `SOMNARAK_CHEONGULA.md`)*
 9. **Why did the thousand die?** *(Search `SOMNARAK_CHEONGULA.md`)*
-10. **Is the city built on people?** *(Search `SOMNARAK_ENTITY_CODEX.md` for Entity 008)*
+10. **Is the city built on people?** *(Search `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` for Entity 008)*
 
 ### The R.D.
 
-11. **Who runs the R.D.?** *(Search `The_REVERIE_DIRECTORATE.md`)*
-12. **How many Sorrow Entities are contained?** *(Search `SOMNARAK_ENTITY_CODEX.md`)*
-13. **What is the Director hiding?** *(Search `The_REVERIE_DIRECTORATE.md`)*
-14. **What happened at the Graveyard of Attempts?** *(Search `The_REVERIE_DIRECTORATE.md`)*
+11. **Who runs the R.D.?** *(Search `../02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`)*
+12. **How many Sorrow Entities are contained?** *(Search `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md`)*
+13. **What is the Director hiding?** *(Search `../02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`)*
+14. **What happened at the Graveyard of Attempts?** *(Search `../02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`)*
 
 ### The Dream
 
@@ -5436,28 +5436,28 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ### The Relics
 
-21. **What are the Seven Great Relics?** *(Search `SOMNARAK_HAN_RELICS.md`)*
-22. **What happens when all relics are gathered?** *(Search `SOMNARAK_HAN_RELICS.md`)*
-23. **Where is the Architect's Compass?** *(Search `SOMNARAK_HAN_RELICS.md`)*
+21. **What are the Seven Great Relics?** *(Search `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_HAN_RELICS.md`)*
+22. **What happens when all relics are gathered?** *(Search `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_HAN_RELICS.md`)*
+23. **Where is the Architect's Compass?** *(Search `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_HAN_RELICS.md`)*
 
 ### The Fractures
 
-24. **Who are the Named Fractures?** *(Search `SOMNARAK_NAMED_FRACTURES.md`)*
-25. **Can Fracture be reversed?** *(Search `SOMNARAK_NAMED_FRACTURES.md`)*
-26. **What happens to the families of the Fractured?** *(Search `SOMNARAK_NAMED_FRACTURES.md`)*
+24. **Who are the Named Fractures?** *(Search `../05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md`)*
+25. **Can Fracture be reversed?** *(Search `../05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md`)*
+26. **What happens to the families of the Fractured?** *(Search `../05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md`)*
 
 ### The Council
 
 27. **What is the Council hiding?** *(Search `SOMNARAK_CHEONGULA.md` and `SOMNARAK_UNKNOWN_CITIES.md`)*
-28. **Who are the Five Heads?** *(Search `SOMNARAK_CAST.md`)*
+28. **Who are the Five Heads?** *(Search `../04_Municipal_Society_and_Demographics/SOMNARAK_CAST.md`)*
 29. **What happened to the other cities?** *(Search `SOMNARAK_UNKNOWN_CITIES.md`)*
 
 ### Story Hooks
 
-30. **The Maw is growing — what happens?** *(Search `SOMNARAK_ENTITY_CODEX.md`)*
+30. **The Maw is growing — what happens?** *(Search `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md`)*
 31. **The thousand are whispering — what do they say?** *(Search `SOMNARAK_CHEONGULA.md`)*
 32. **A new Sorrow Entity forms in the Desolate** *(A story waiting to be told)*
-33. **A debt that shouldn't exist — who incurred it?** *(Search `SOMNARAK_FACTION_RELATIONS.md`)*
+33. **A debt that shouldn't exist — who incurred it?** *(Search `../04_Municipal_Society_and_Demographics/SOMNARAK_FACTION_RELATIONS.md`)*
 34. **Cheonbulok's Furnace is cracking** *(Search `SOMNARAK_UNKNOWN_CITIES.md`)*
 35. **Mugeukji's Vaults are leaking** *(Search `SOMNARAK_UNKNOWN_CITIES.md`)*
 36. **The Exile's proof** *(Search `SOMNARAK_THE_WEEPING.md` and `SOMNARAK_UNKNOWN_CITIES.md`)*
@@ -5470,44 +5470,44 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 | File | Content |
 |------|---------|
-| `The_REVERIE_DIRECTORATE.md` | R.D. — Echo-Cores, Hand of Change, rooms, stats, ordeals, equipment |
-| `The_SOMNARAK_EXPLORATION_DECREE.md` | SED corporate dossier, deep strata doctrine & Bore Fleet |
-| `The_UNDERWORLD_CLEANUP_DESCEND.md` | UCD corporate dossier, 6 strike divisions & pacification doctrine |
-| `SOMNARAK_BATTLE_SYSTEM.md` | Battle system — 15 sections |
-| `SOMNARAK_ENEMY_LIST.md` | Enemy codex by operation |
-| `SOMNARAK_ENTITIES.md` | Entity Groups & Chains |
-| `SOMNARAK_ENTITY_CODEX.md` | 246 unique entity profiles (20 with depth sections) |
-| `SOMNARAK_MAW_CODEX.md` | M.A.W. registry — Materialized Agony Wear catalogued from all Sorrow Entities |
-| `SOMNARAK_ENTITY_TALES.md` | 100 unique entity tales with 이/증/기 structure |
-| `SOMNARAK_CAST.md` | 25 Known People of Somnarak |
-| `SOMNARAK_UNDERWORLD.md` | Menders, Frays |
-| `SOMNARAK_TABOO_RESONANCE.md` | Taboos & Resonances |
-| `SOMNARAK_FACTION_TECH.md` | Faction-specific technology |
+| `../02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` | R.D. — Echo-Cores, Hand of Change, rooms, stats, ordeals, equipment |
+| `../02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md` | SED corporate dossier, deep strata doctrine & Bore Fleet |
+| `../02_Institutional_Wings_and_Chronicles/The_UNDERWORLD_CLEANUP_DESCEND.md` | UCD corporate dossier, 6 strike divisions & pacification doctrine |
+| `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md` | Battle system — 15 sections |
+| `../05_Entities_Tales_and_Fractures/SOMNARAK_ENEMY_LIST.md` | Enemy codex by operation |
+| `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md` | Entity Groups & Chains |
+| `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` | 246 unique entity profiles (20 with depth sections) |
+| `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` | M.A.W. registry — Materialized Agony Wear catalogued from all Sorrow Entities |
+| `../05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md` | 100 unique entity tales with 이/증/기 structure |
+| `../04_Municipal_Society_and_Demographics/SOMNARAK_CAST.md` | 25 Known People of Somnarak |
+| `../04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD.md` | Menders, Frays |
+| `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_TABOO_RESONANCE.md` | Taboos & Resonances |
+| `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_FACTION_TECH.md` | Faction-specific technology |
 | `SOMNARAK_UNKNOWN_CITIES.md` | Corners 2 & 3 — Cheonbulok & Mugeukji + characters, factions, entities |
-| `SOMNARAK_DAILY_LIFE.md` | Daily life, food, fashion, celebrations, sounds, colors |
+| `../04_Municipal_Society_and_Demographics/SOMNARAK_DAILY_LIFE.md` | Daily life, food, fashion, celebrations, sounds, colors |
 | `SOMNARAK_CHEONGULA.md` | The First Sorrow — full narrative |
-| `SOMNARAK_FACTION_RELATIONS.md` | Faction relationship matrix — alliances, rivalries, debts, betrayals |
-| `SOMNARAK_HAN_RELICS.md` | Han Relics — quest artifacts from the Before-Time |
+| `../04_Municipal_Society_and_Demographics/SOMNARAK_FACTION_RELATIONS.md` | Faction relationship matrix — alliances, rivalries, debts, betrayals |
+| `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_HAN_RELICS.md` | Han Relics — quest artifacts from the Before-Time |
 | `SOMNARAK_DREAM_REALM.md` | The Dream Realm — Dream-Diving, Weavers, Dream Entities |
 | `SOMNARAK_THE_WEEPING.md` | The Weeping — river of liquid Han, source of all entities |
-| `SOMNARAK_NAMED_FRACTURES.md` | Named Fractures — citizens who broke, their stories |
+| `../05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md` | Named Fractures — citizens who broke, their stories |
 | `SOMNARAK_THE_DESOLATE.md` | The Desolate — nomads, Han-storms, the Scar, Kael's kingdom |
 | `The_Absolvohan/` | The Absolvohan Narrative — 366-day facility saga (Parts 1–9) |
-| `SOMNARAK_DAWN_OF_HOPE.md` | Dawn of Hope — Year 4238, The New Path |
-| `SOMNARAK_MEMORY_ARCHIVE.md` | Memory Archive — Year 4233, Seiyon story |
-| `SOMNARAK_HORIZON_CARAVAN.md` | Horizon Caravan — Year 4238, Kael's journey |
-| `SOMNARAK_WOUND_WALKERS.md` | Wound Walkers — Year 4250+, eternal healing |
-| `SOMNARAK_ENTITY_TEMPLATE_SUBJECT_0.4.md` | Subject Entity Template — Subject entities (v0.4 canonical) |
-| `SOMNARAK_ENTITY_TEMPLATE_OBJECT_0.4.md` | Object/Place Entity Template — Object/Place entities (v0.4 canonical; supersedes v0.3) |
-| `SOMNARAK_CORPORATIONS.md` | The Three Corporations — game framework |
-| `SOMNARAK_NAME_REGISTRY.md` | Name Registry — 195+ names, mixed naming rules, 15 documentation authors |
-| `SOMNARAK_DOCUMENT_RULES.md` | Document Classification Rules — ID format, dates, authors, classifications |
-| `SOMNARAK_ORDEALS_FRAMEWORK.md` | Ordeal system framework — 5 Colors × 4 Watches, threat tiers, suppression |
+| `../04_Municipal_Society_and_Demographics/SOMNARAK_DAWN_OF_HOPE.md` | Dawn of Hope — Year 4238, The New Path |
+| `../02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md` | Memory Archive — Year 4233, Seiyon story |
+| `../02_Institutional_Wings_and_Chronicles/The_HORIZON_CARAVAN.md` | Horizon Caravan — Year 4238, Kael's journey |
+| `../05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md` | Wound Walkers — Year 4250+, eternal healing |
+| Entity Template (Subject) | Subject Entity Template — Subject entities (canonical authoring schema) |
+| Entity Template (Object) | Object/Place Entity Template — Object/Place entities (canonical authoring schema) |
+| `../04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md` | The Three Corporations — game framework |
+| `../../../REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md` | Name Registry — 195+ names, mixed naming rules, 15 documentation authors |
+| `../../../REFERENCE_SOMNARAK_WIKI/SOMNARAK_DOCUMENT_RULES.md` | Document Classification Rules — ID format, dates, authors, classifications |
+| `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md` | Ordeal system framework — 5 Colors × 4 Watches, threat tiers, suppression |
 | `SOMNARAK_GEOLOGY.md` | Planetary Geology — Four Corners, macro-terrains, and natural landmarks |
 | `Mugenhan_Ecology/` | Planetary Biosphere — 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 MSF |
 | `Katabagil/` | SED Seven Descents — Subterranean expeditionary passages 1–7 |
 | `Katharcheok/` | UCD Six Pacifications — Underworld syndicate purges 1–6 |
 | `Gieok_Jeojangso/` | Memory Archive — Seven floor receptions and mnemonic combat |
 | `Jipyeongseondae/` | Horizon Caravan — Six trans-desolate overland expedition arcs |
-| `somnarak_city_layout.svg` | City layout diagram |
+| `SOMNARAK_CITY_LAYOUT.svg` | City layout diagram |
 

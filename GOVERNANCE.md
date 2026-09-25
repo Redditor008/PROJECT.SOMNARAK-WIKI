@@ -40,7 +40,7 @@ Instead of navigating multiple full-length rulebooks with overlapping concepts, 
 | **Timeline, dates, or cycle references** | `CANON_TIMELINE.md` (SSOT) | `RULE-TO-FOLLOW.md` (Section 9) |
 | **Recovering from an Arena crash / break** | `SESSION_BREAK_PRECAUTION.md` | `DEVELOPMENT.md` (Section 2) |
 | **Running linters and verification tools** | `tools/README.md` | `DEVELOPMENT.md` (Section 7) |
-| **Crossover lore vs Project Moon canon** | `PM_VOCAB_POLICY.md` | `DEVELOPMENT.md` (Section 3) |
+| **Crossover lore vs Project Moon canon** | `tools/banned_strings.txt` | `DEVELOPMENT.md` (Section 3) |
 
 ---
 

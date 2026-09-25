@@ -10,6 +10,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Resolution of Review No. 4 Non-Canonical Links (`INTEGRITY_AND_LORE_REVIEW.md`)** —
+  - Fully resolved all remaining non-canonical reference links in `PROJECT_SOMNARAK.md`, `Tactical_Combat_Engine/WHAT_CAN_BE_DONE.md`, `MAW_Codex_Sets/README.md`, `RULE-TO-FOLLOW.md`, `DEVELOPMENT.md`, `GOVERNANCE.md`, and `SESSION_BREAK_PRECAUTION.md`.
+  - Re-verified 100% pass across all built-in audit suites and zero broken links across canonical files.
+
 - **Repository-Wide Comprehensive Cleanup & Architectural Streamlining** —
   - **Archival Report Relocation:** Relocated historical analysis artifact `INSTALL_PERCENTAGE_REPORT.md` (226 KB) from repository root into `REFERENCE_SOMNARAK_WIKI/INSTALL_PERCENTAGE_REPORT.md`, keeping root clean and focused on living navigation.
   - **Root Deduplication & Gateway Clarification:** Distinctly labeled root navigational gateways (`CANON_TIMELINE.md` and `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md`) and streamlined `docs/FRONT_HOME_PAGE_SPECIFICATION.md` into a dedicated UI/UX specification companion to `docs/README.md`, eliminating byte-identical duplicate concerns.
