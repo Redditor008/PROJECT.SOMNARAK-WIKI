@@ -12,6 +12,8 @@ The `Master_Codices/` archive contains the foundational canonical source texts o
 
 Every Sorrow Entity dossier, M.A.W. equipment entry, dialogue script, and district narrative derives directly from the rules established in these foundational files.
 
+> 🌟 **Foundational Reading Notice:** The primary root document for the entire Project Somnarak universe is **[`01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`](01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md)**. All readers must begin there to achieve 100% full context before reading any subsequent codices. See also [`../README_FIRST.md`](../README_FIRST.md).
+
 Following the universal canonical organization, all master codices are structured into six dedicated thematic subfolders, completely de-duplicated and linked directly to their respective operational suites.
 
 ---

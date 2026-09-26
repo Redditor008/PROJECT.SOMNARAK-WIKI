@@ -7,6 +7,12 @@
 
 ---
 
+> ⚠️ **MANDATORY READING DIRECTIVE — READ FIRST:**  
+> Before reading any other file, dossier, or codex in `SOMNARAK-WORLD/`, you **MUST** read **[`Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`](Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md)** to achieve 100% full context of the world's cosmology, core metaphors, and societal laws!  
+> For the complete 5-stage reading roadmap and contextual guide, see **[`README_FIRST.md`](README_FIRST.md)**.
+
+---
+
 ## Welcome to the World of Somnarak (소마나락)
 
 This directory is the dedicated, **100% in-universe archive** for the world of Somnarak. Every file and subfolder within `SOMNARAK-WORLD/` is written from within the reality of Somnarak — as official containment dossiers, tactical logs, operational codices, field surveys, and psychological evaluations.
