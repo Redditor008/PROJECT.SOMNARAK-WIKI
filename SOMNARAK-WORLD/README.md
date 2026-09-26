@@ -33,21 +33,21 @@ Somnarak is a towering subterranean and surface metropolis of 1.29 billion souls
 SOMNARAK-WORLD/
 ├── README.md                           # This sovereign dispatch and archival guide
 │
-├── Master_Codices/                     # 32 Macro-Canon Codices across 6 Subfolders
+├── Master_Codices/                     # 44 Macro-Canon Codices across 6 Subfolders
 │   ├── README.md                       # Master classification & reading roadmap
-│   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech
-│   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Absolvohan
-│   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, MAW Codex, Relics
-│   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Factions, Tech
-│   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Tales, Named Fractures
-│   └── 06_Integrity_Audits_and_Comparative_Studies/ # Comparative Integrity Audit
+│   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech (7 codices)
+│   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Absolvohan, Caravan (6 codices)
+│   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, MAW Codex, Workshops, Ordeals (7 codices)
+│   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (9 codices)
+│   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Tales, Named Fractures, Enemies (5 codices)
+│   └── 06_Integrity_Audits_and_Comparative_Studies/ # Comparative Integrity & System Audits (4 codices)
 │
-├── Sorrow_Entities/                    # 529 Active Containment Dossiers & Origin Tales
+├── Sorrow_Entities/                    # 292 Unique Canonical Containment Dossiers & Origin Tales
 │   ├── README.md                       # SECC classification guide & work affinities
-│   ├── SE-C-IVδ-001_The_Orphaned_Bell_Goa-ui_Jong.md
-│   ├── SE-C-Vδ-002_The_Grieving_Colossus_Bitanhaneun_Geosang.md
-│   ├── SE-C-IIIβ-014_The_Debt_Eater_Bijeul_Meongneun_Ja.md
-│   └── ...                             # (Dossiers representing 285 unique entities)
+│   ├── SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md
+│   ├── SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md
+│   ├── SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md
+│   └── ...                             # (292 bespoke dossiers: 159 City, 61 Outside, 72 Inner)
 │
 ├── Echo_Cores/                         # The Nine Departmental Directors of Facility 01
 │   ├── README.md                       # Facility 01 hierarchy and departmental roles
@@ -61,11 +61,31 @@ SOMNARAK-WORLD/
 │   ├── THE_OUTSIDER.md                 # Echo-Core 8: Ishall (Floor 7 — Shadow Operations)
 │   └── THE_EXILE.md                    # Echo-Core 9: Xyan (Floor 8 — The Final Gate)
 │
-├── MAW_Codex_Sets/                     # 1,196 Equipment Codices across 42 Range Registries
+├── The_Absolvohan/                     # Chronological Shift Logs (Days 0–365) & Facility Saga
+│   ├── README.md                       # 366-day operational chronicle & The Quiet Season
+│   ├── ABSOLOVHAN_OVERVIEW.md          # Monolithic overview and technical specifications
+│   ├── Part_1_Day_0_The_Director_Wakes.md through Part_9_Days_350_to_365.md
+│
+├── Katabagil/                          # Subterranean Expedition Division (SED) Seven Descents
+│   ├── README.md                       # Subterranean exploration doctrine (-200m to -7,200m)
+│   └── Passage_1_Cryptasu.md through Passage_7_Fontisaem.md
+│
+├── Katharcheok/                        # Underworld Cleanup Descend (UCD) Six Pacification Sweeps
+│   ├── README.md                       # Underworld pacification doctrine in The Raw
+│   └── Operation_1_Velumtal.md through Operation_6_Thanatong.md
+│
+├── Gieok_Jeojangso/                    # The Memory Archive Seven Strata Receptions
+│   ├── README.md                       # Post-Dawn strata realizations and combat encounters
+│   └── Reception_1_First_Keeper.md through Reception_7_Silent_Curator.md
+│
+├── Jipyeongseondae/                    # The Horizon Caravan Six Trans-Desolate Expedition Arcs
+│   ├── README.md                       # Post-Dawn overland exploration across The Desolate
+│   └── Arc_1_Departure.md through Arc_6_Horizon_Edge.md
+│
+├── MAW_Codex_Sets/                     # 1,208 Equipment Files across 42 Range Registries
 │   ├── README.md                       # Extraction parameters, stat matrices, and suit traits
-│   ├── Registry_001_to_007/            # Low-index entities (The Orphaned Bell, Colossus, etc.)
-│   ├── ...                             # (42 range directories covering all entities)
-│   └── Registry_993_to_997/            # High-index entities (Survivor's Span, Drowned Roots)
+│   ├── Registry_001_to_007/            # 198 complete quadripartite sets (A-Codex, Weapon, Suit, Gift)
+│   └── ...                             # 291 sets / 873 item pages with source-led Appearance sections
 │
 ├── Ordeals/                            # 60 Cyclical Facility Defense Logs
 │   ├── README.md                       # Tactical guide for 5 Colors × 4 Watches
@@ -98,7 +118,11 @@ SOMNARAK-WORLD/
 │   ├── CANTO_05_SUTURE_OF_LOST_PAGES_SEIYON.md # Canto V: Secretary Seiyon (The Memory Weaver)
 │   └── CANTO_06_THE_SLUM_BREACHER_KANG.md     # Canto VI: Breacher Kang (The Void Maul)
 │
-└── Unknown_Entities/                   # 8 Unclassified Maw Anomalies & Loop Chronicles
+├── Tactical_Combat_Engine/             # Grid Battle System Playable Implementation Specs
+│   ├── README.md                       # GBS decoupled state machine & data schema primer
+│   └── WHAT_CAN_BE_DONE.md             # Playable roadmap, formulas, and JSON specifications
+│
+└── Unknown_Entities/                   # 12 Post-R.D. Anomalies & Loop Chronicles
     ├── README.md                       # Deep Maw anomalous file directory
     ├── Book_of_Regressor_Log_Dramaturgy.md # The Loop chronicler's margin logs
     └── SE-* (Unclassified)             # Deep abyss and non-standard resonance entities
