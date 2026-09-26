@@ -1,10 +1,12 @@
 # RULE TO FOLLOW — v2 (SUPER DETAILED)
 
+> **Repository Governance Gateway:** For a single-page overview connecting all specialized rulebooks and engineering handbooks, refer to [`GOVERNANCE.md`](GOVERNANCE.md).
+
 **Authority:** Direct project-owner instruction (last updated 2026-09-01)
 **Status:** Mandatory for every AI, coding session, pull request, and deployment
 **Repository:** `Redditor008/PROJECT.SOMNARAK-WIKI`
-**Integration branch:** `main`
-**Public acceptance URL:** <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/>
+**Integration branches:** `main` (for public web wiki) / `NON-WIKI` (for standalone reference archive)
+**Public acceptance URL:** <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/> (for `main`)
 **Supersedes:** `RULE-TO-FOLLOW.md` (v1). Where any older file or instruction conflicts with this file, **this file wins**.
 
 Read this file before changing anything. These rules are not optional. Content, canon, placement, and visual-quality rules in the referenced standards remain binding.
@@ -131,16 +133,17 @@ Read this file before changing anything. These rules are not optional. Content, 
 
 ---
 
-## 1. Use `main` as the permanent integration branch
+## 1. Permanent integration branches (`main` and `NON-WIKI`)
 
-1. `main` receives completed work.
-2. Do not rename a temporary branch to `main`, replace or delete `main`, create extra branches, use branch chains, or force-push.
-3. Arena may create and lock a session branch. When it does:
-   - stay on that branch,
+1. `main` receives completed work for the public web wiki (`docs/`).
+2. `NON-WIKI` receives completed work for the pure canon lore & reference repository (`REFERENCE_SOMNARAK_WIKI/`).
+3. Do not rename a temporary branch, replace or delete integration branches, create extra branches, use branch chains, or force-push.
+4. Arena may create and lock a session branch. When working on `NON-WIKI`:
+   - stay on that assigned branch,
    - create no other branch,
    - commit and push only that branch,
-   - open one PR from it into `main`.
-4. Direction: `main ← assigned branch`. Never reverse.
+   - open PR targeting `base: NON-WIKI` (never `main`, keeping the web wiki and reference repository cleanly decoupled).
+5. Direction: target integration branch ← assigned branch. Never reverse.
 
 ---
 
@@ -237,6 +240,15 @@ Standards live in:
 
 ## 7. Required checks before merge
 
+### For `NON-WIKI` branch (Canon Lore & Reference Archive):
+From the repository root:
+```bash
+python3 tools/audit_lore_archive.py
+git diff --check
+```
+All checks must output `PASS` and `git diff --check` must be completely clean.
+
+### For `main` branch (Web Wiki Frontend):
 From the repository root:
 ```bash
 python3 tools/audit_page_word_floor.py
@@ -250,7 +262,7 @@ node --check docs/assets/js/wiki.js
 git diff --check
 ```
 
-For website-wide chrome changes, also serve `docs/` locally and confirm all 197 HTML routes return HTTP 200, and visually review desktop + mobile widths when browser tooling is available.
+For website-wide chrome changes on `main`, also serve `docs/` locally and confirm all 197 HTML routes return HTTP 200, and visually review desktop + mobile widths when browser tooling is available.
 
 Do not merge known failures. Do not hide failed checks. Do not report local validation as live-site verification.
 
@@ -264,13 +276,61 @@ Active branch: <name>
 Commit: <full or short SHA>
 Push: <pushed / NOT PUSHED (state exact blocker)>
 Pull request: <none / URL / CLOSED-NOT-MERGED>
-Merged into main: <yes / no>
-Pages source: <branch:/path or unverified>
-Live verification URL: <URL or not verified>
-Distinctive live marker: <marker or not verified>
+Merged into target branch: <yes / no>
+Pages source: <branch:/path or not applicable for NON-WIKI>
+Live verification URL: <URL or not applicable for NON-WIKI>
+Distinctive live marker: <marker or not applicable for NON-WIKI>
 Temporary branch deleted: <yes / no>
 Working tree clean: <yes / no>
 Checks: <passed checks and any failures>
 ```
 
 Never collapse these states into the single word "done."
+
+---
+
+## 9. Master Macro-Chronological Rule (The Three Wings & Post-Dawn Law)
+
+**Owner's binding rulings:**
+- **"All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE"**
+- **"UNK SE Is After R.D. Even"**
+- **"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan [sic, Absolvohan] So no Mention Of The Cycle Outside R.D. + Absolovhan [sic, Absolvohan] and that mean The Only Things That Used The Cycle Is R.D. + Absolovhan [sic, Absolvohan]"**
+- **"CONTINENTAL GEOGRAPHY IS NOT AN SE"**
+
+1. **The Cycle Localization Rule (Strict R.D. + Absolvohan Scope):**
+   - The 1,778 Mnemonic Cycles belong strictly and exclusively to **The Reverie Directorate (R.D.) / The Absolvohan (Facility 01)**.
+   - Under no circumstances is "The Cycle" used or referenced outside R.D. + The Absolvohan as an external calendar standard.
+   - Just as the 10,000-year / 50-day loop protocol in Lobotomy Corporation exists strictly inside the L Corp facility—with The City, Library of Ruina, and Limbus Company never measuring time by L Corp loops—Project Somnarak confines the Cycle system entirely to Facility 01.
+   - SED (Subterranean Expedition Division), UCD (Underworld Cleanup Descend), the Council of Sighs, the syndicate underworld, and all Post-Dawn operations operate exclusively on linear calendar time (Mugenhan Municipal Solar Standard).
+   - **Reference vs. Measurement Exception Ruling:** Temporal *measurement* and active *calendaring* by Cycles are strictly prohibited outside R.D. + The Absolvohan (external entities, municipal authorities, and post-Dawn wings do not measure calendar time by Cycles). However, retrospective narrative, historical, and testimonial *references* to the R.D. Cycles are canonical and valid when documenting loop aftermath, facility origin records, or post-loop survivor memories (e.g., *The Repeated Survivor* bearing trauma from 1,778 resets, the *Regressor Log Book*, or Seiyon's synthesis in Cycle 0002). This directly mirrors how Lobotomy Corporation's 10,000-year loop is retrospectively discussed in Library of Ruina and Limbus Company without The City tracking municipal time by it.
+2. **The Ante-Dawn Era (Before Dawn of Hope — Sequential Tripartite Progression):**
+   - All operations, descent logs, and purge chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope in sequential progression:
+     1. **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock. Operates on calendar years and depth meters (no cycle tracking).
+     2. **UCD (Underworld Cleanup Descend / Katharcheok):** The six pacification purges in The Raw against the underworld syndicates. Operates on calendar years and tactical turns (no cycle tracking).
+     3. **R.D. (The Reverie Directorate / The Absolvohan):** Containment of the 292 standard Sorrow Entities, harvesting of Liquid Han, and the internal 1,778-Cycle loops within Facility 01. The SOLE division that uses and experiences the Cycle system.
+3. **The Watershed Climax (The Dawn of Hope):**
+   - The Hand of Hope opens at the culmination of Cycle 1,778 in Year 4,238, transmuting the first 15% of ambient sorrow into resonant Hope Entities. Primary mandates of SED, UCD, and R.D. conclude; R.D. Cycle 1,778 ends.
+4. **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**
+   - **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is strictly positioned AFTER R.D.**:
+     - **UNK SE (Unknown Sorrow Entities):** The anomalous dossiers in `SOMNARAK-WORLD/Unknown_Entities/` manifest strictly **AFTER R.D.**, encountering Hope Bearers (`The Extinguished`, `The Undelivered Thanks`), surviving broken loop mechanics (`The Repeated Survivor`, `Book of Regressor Log Dramaturgy`), or discovered across uncharted frontiers (`The Glass Silt Drifter`, `The Singing Needle`). Continental geography is strictly sovereign landmass and not an SE.
+     - **The Dawn Initiative:** The mobile fortress *The Lantern* continental journey (`SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_DAWN_OF_HOPE.md`).
+     - **The Horizon Caravan:** The trans-desolate overland wasteland expedition (`SOMNARAK-WORLD/Jipyeongseondae/`).
+     - **The Memory Archive:** Floor realizations and Key Page extractions (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
+     - **The Wound Walkers:** Post-Dawn spiritual pilgrimage across seven crucibles in Year 4,250+ (`SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md`).
+     - All subsequent continental expeditions, diplomatic reconnections, and post-Dawn institutions.
+
+---
+
+## 10. Monospace ASCII Text Boxes vs. Rendered Markdown Tables
+
+1. **Monospace ASCII Text Boxes (Code blocks bounded by `+===+`, `+---+`, and `| ... |`):**
+   - Strictly ZERO Korean Hangul characters permitted. Only Latin Alphabet Romanization (Romaja) is allowed.
+   - Every row from border to border must maintain exact geometric character width symmetry (`width=74` in chatroom outputs).
+   - *Technical Rationale:* East Asian characters render fullwidth (2 columns wide) in monospace font rendering, destroying column alignment and causing jagged vertical pipes (`|`).
+2. **Rendered Markdown Tables (`| Key | Value |` outside code fences):**
+   - Rendered with proportional, self-adjusting cell padding by GitHub and markdown browsers.
+   - Korean Hangul is **fully permitted and encouraged** within markdown table cells for bilingual depth, provided the mandatory two-space buffer (`  [한글]  `) is maintained alongside paired English and Romanized translations.
+3. **Multi-Line Cell Wrapping & Vertical Growth Standard:**
+   - Inside text boxes, a logical row can grow vertically up to **5 visual sub-rows** so that words are NEVER truncated, sliced, or cut off.
+   - Cap vertical row growth at **5 visual sub-rows maximum** to prevent visual clutter and keep presentation clean.
+   - Every sub-row must maintain exact horizontal monospace padding and border alignment (`+` and `|`).

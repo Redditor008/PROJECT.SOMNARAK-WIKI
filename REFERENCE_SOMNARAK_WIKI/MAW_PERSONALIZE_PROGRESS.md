@@ -153,7 +153,7 @@ Status: **done**. The registry order does not use every integer (sets 128, 133, 
 - These records use a **different schema** from batches 1–4: `## ITEM IDENTITY`, `## EXTRACTION & BINDING` / `## ACQUISITION & BINDING`, `## CORE STATISTICS` / `## PROTECTION STATISTICS` / `## GIFT STATISTICS`, and `## COMBAT FILE` / `## PROTECTIVE FILE` / `## EFFECT FILE`.
 - Inserted `## Appearance` (top-level `##`, matching the record's own structure) before the first statistics header in each `.md` (36/36). Word counts: **157–205** (floor 150 met; a few slightly exceed 200, which the directive permits).
 - Synced into the matching `docs/maw/maw-*-NNN-01-*.html` page (36/36 inserted after Overview, before Extraction or Bestowal). md↔html parity: **36 / 36** after normalizing `&#x27;`/`&amp;`.
-- Gotcha hit and fixed in this batch: the insertion helper that removed the `## ` prefix from the following statistics header (e.g. `## CORE STATISTICS` → ` CORE STATISTICS`), which inflated the measured word count and broke the appearance/extraction boundary. Fix = regex restore `(?m)^ (PROTECTION STATISTICS|CORE STATISTICS|GIFT STATISTICS)$` → `## \1` on all 36, then re-sync the `.html` paragraphs.
+- Gotcha hit and fixed in this batch: the insertion helper that removed the `## ` prefix from the following statistics header (e.g. `## CORE STATISTICS` → ` CORE STATISTICS`), which inflated the measured word count and broke the appearance/extraction boundary. Fix = regex restore `(?m)^ (PROTECTION STATISTICS|CORE STATISTICS|GIFT STATISTICS)\Z` → `## \1` on all 36, then re-sync the `.html` paragraphs.
 - No SVGs touched.
 
 ### File paths touched (Batch 5)

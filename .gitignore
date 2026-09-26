@@ -1,5 +1,9 @@
 .DS_Store
 __pycache__/
 *.pyc
-docs/downloads/
-node_modules/
+*.pyo
+*.tmp
+*.bak
+.obsidian/
+.vscode/
+.idea/

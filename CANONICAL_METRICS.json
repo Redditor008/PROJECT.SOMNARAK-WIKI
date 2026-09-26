@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "timestamp_date": "2026-09-24",
+  "canonical_entities": {
+    "sorrow_entities_count": 292,
+    "relic_entities_count": 88,
+    "relic_entity_quota_percentage": 30.14,
+    "two_work_type_compliant_entities": 283,
+    "two_work_type_rule_compliance_pct": 100.0,
+    "core_stat_lines_compliance_pct": 100.0,
+    "unknown_entities_count": 12,
+    "unknown_entities_unit_definition": "12 total markdown files (11 anomaly dossiers + 1 Regressor Log Book; excluding README.md)",
+    "hope_transformations_count": 14,
+    "ordeals_count": 60
+  },
+  "canonical_narrative_and_lore": {
+    "story_cantos_count": 6,
+    "mnemonic_cycles_canonical_total": 1778,
+    "specialist_cadres_count": 10,
+    "underworld_syndicates_count": 5
+  },
+  "canonical_combat_and_hardware": {
+    "game_battle_scenarios_and_systems": 16,
+    "maw_codex_sets_count": 42,
+    "maw_equipment_profiles_count": 1165,
+    "maw_equipment_unit_definition": "1,165 individual profile dossiers across 42 sets; 1,208 total markdown files including 42 set registries and 1 master README",
+    "maw_quadripartite_sets_complete": "198 / 198 complete quadripartite sets"
+  },
+  "research_and_documentation": {
+    "pm_research_volumes_count": 16,
+    "docs_portal_files_count": 4,
+    "docs_master_pillars_count": 5
+  },
+  "file_system_totals": {
+    "somnarak_world_files_total": 1707,
+    "repository_files_total_ex_git": 1981
+  }
+}

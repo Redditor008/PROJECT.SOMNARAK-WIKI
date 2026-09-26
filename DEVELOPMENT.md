@@ -1,241 +1,219 @@
-# DEVELOPMENT.md — Somnarak Wiki Development Handbook
+# DEVELOPMENT.md — Somnarak Non-Wiki Archive Development Handbook
+
+> **Repository Governance Gateway:** For the top-level index connecting all repository governance files, see [`GOVERNANCE.md`](GOVERNANCE.md).
 
 > **Read this file first.** It is the standing handoff for AI/developer sessions
-> working on this repository: what the project is, the binding rules, how the
-> site is built, how to verify work, what has been shipped, and what is pending.
+> working on the `NON-WIKI` branch of `PROJECT.SOMNARAK-WIKI`: repository architecture,
+> canon source standards, file structures, verification methods, and operating rules.
 > Keep it current: when a future session changes any standing convention, update
 > the relevant section in the same commit.
 
-## 1. What this is
+---
 
-A static public lore wiki for **Somnarak**, a fictional city in a
-Project-Moon-style setting (Han, Sorrow Entities, Facility 01, the Reverie
-Directorate). No build step, no framework — plain HTML + one CSS + one JS.
+## 1. Architecture of Project Somnarak
 
-- **Live site:** https://redditor008.github.io/PROJECT.SOMNARAK-WIKI (GitHub Pages serves the session branch tip directly; ~1–2 min rebuild after push)
-- **Owner:** Redditor008. Work happens on the Arena session branch
-  (e.g. `arena/…`), committed and pushed directly. **Never open a PR** (owner instruction).
-- **Canon sources** live in `REFERENCE_SOMNARAK_WIKI/` (read-only input).
+Project Somnarak is maintained across two primary branches in `Redditor008/PROJECT.SOMNARAK-WIKI`:
 
-## 2. Repository layout
+| Branch | Identity | Contents | Role |
+|---|---|---|---|
+| **`main`** | Web Wiki Frontend | `docs/`, static HTML/CSS/JS, vector art, web search | Serves the public encyclopedia via GitHub Pages (1,040+ pages) |
+| **`NON-WIKI`** (This Branch) | Canon Lore & Reference Archive | `SOMNARAK-WORLD/`, `REFERENCE_SOMNARAK_WIKI/`, master codices, registries | The pure, authoritative markdown source library (~3.5M words) |
 
-| Path | Contents |
-|---|---|
-| `docs/` | The public site (root = `index.html`). `assets/{css,js,art,icons,layout,avatars}`, `data/search.json`, one folder per archive (`characters/`, `lore/`, `locations/`, `factions/`, `departments/`, `entities/`, `maw/`, `mechanics/`, `atlas/`, `project/`) |
-| `assets/icons/somnarak_icon.svg` | **The site emblem is the real city map** (five-zone layout, not a generic seal) — owner-verified 2026-09-03. Canonical city geometry lives in `assets/layout/city/blueprints/SOMNARAK_CITY_LAYOUT.svg` (polygon coords in a 1800×1100 space, map center 620,550). Rebuild the emblem/banner by scaling those polygons — never invent new shapes. |
-| `tools/` | All gate/sync/generation scripts. **Standard library only.** See §5–§7 |
-| `REFERENCE_SOMNARAK_WIKI/` | Canon source tree. M.A.W. item registry: `LORE or REFERANCE/M.A.W. Codex_Set Registry/` (note the misspelled folder name — it is canonical). SE sources: `LORE or REFERANCE/01_Sorrow_Entities/` |
-| `CHANGELOG.md` | Round-by-round history. Add an entry every commit batch |
-| `RULE-TO-FOLLOW.md`, `UNIVERSAL_FOLLOW_RULE.md` | Owner's binding rules |
-| `BUILD_RECORDS/` | Historical audit artifacts (manifests, QA json) |
-| `01_Somnarak_Wiki.zip` / root `index.html` | Owner artifacts — **do not touch** |
+The `NON-WIKI` branch is stripped of web build scripts, HTML pages, and frontend bundles. It serves as the durable database and narrative foundation for the Somnarak universe.
 
-## 3. Standing owner rules (binding — do not reverse without the owner)
+- **Owner:** Redditor008.
+- **Assigned Session Branch:** Arena sessions operate on their assigned session branch (`arena/<id>-project-somnarak-wiki`), committed and pushed directly.
 
-1. **A0:** Every change is committed **and** pushed in the same turn.
-2. **Never open a PR.** Commit + push directly to the session branch.
-3. **A5:** Never delete or overwrite owner files without explicit instruction.
-   The Google Search Console verification file `docs/google56d75ed58478c406.html`
-   must stay **byte-identical** (53 bytes) — every tool skips it via `VERIFY_RE`.
-4. **Desktop-only** site. No mobile styling needed (owner policy 2026-09-01).
-5. **Source-led content:** page text comes from `REFERENCE_SOMNARAK_WIKI/` or the
-   site's own established template language. Missing fields are omitted, never invented.
-6. **References/Sources sections: NEVER** (owner rejected; do not propose again).
-   Tabs UI and gallery = deferred (may be requested later).
-7. Keep Somnarak-native canon terms (Han, SECC, Absolvohan, Echo-Cores, …).
-8. **Do not rename HTML files.** URLs are permanent once published (links,
-   sitemap, Google index depend on them). New pages use kebab-case slugs
-   (`maw-w-016-01-the-lost-lens.html`, `se-001-the-orphaned-bell.html`).
+---
 
-## 4. Page anatomy & chrome
+## 2. Repository Layout on `NON-WIKI`
 
-- **Global chrome** = top bar (`header.utility`), left rail (`aside.left-rail`),
-  bottom footer (`footer.wiki-footer`). **Never hand-edit chrome** — the three
-  sync scripts hold the canonical copy and validate every page.
-- `ASSET_VERSION` lives at `tools/sync_global_top_bar.py:18` (format `2026MMDDx`,
-  suffix advances x→y→z→aa→ab…). **Bump it whenever `wiki.css`/`wiki.js` change**,
-  then re-run the three chrome syncs.
-- Per-page SEO meta (description/canonical/OG) is enforced by
-  `tools/sync_seo_meta.py` — it derives the description from the first long
-  `<p>` inside `<div id="content">`, so give every page a real lead paragraph.
-- M.A.W. item page structure (see `docs/maw/maw-w-001-01-*.html`):
-  fast-jump pills → tactical directive box → breadcrumbs → `section.item-hero`
-  (portrait + h1 + donor line) → optional `blockquote.entity-quote` →
-  `section.item-mechanic` (FUNCTION/PRICE) → `div.item-columns` with
-  `article.article-body` (overview / appearance / extraction / rejection rule /
-  operational statistics / combat|resistance|gift record / signature ability /
-  cost / corrosion / maintenance / shutdown / history of use / set resonance /
-  source relationship) + `aside.item-infobox` (right) → `nav.article-nav` →
-  triad box → cross-reference section.
-- SE (entity) pages: infobox is a **sibling** of `.entity-article` (not inside
-  it), on the right at all widths. Category tag strips (`.entity-tags`) sit
-  above the h1.
-
-## 5. Publication gates (all must PASS before commit)
-
-```bash
-python tools/audit_page_word_floor.py    # ≥200 editorial words/page, chrome excluded
-python tools/audit_site_structure.py     # routes, ids, fragments, search 1:1, chrome on every page
-python tools/audit_svg_compositions.py   # SVG XML valid; unique compositions; page visual coverage
+```
+PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
+├── README.md                               # Master archive index, canon guide & directory overview
+├── DEVELOPMENT.md                          # This development handbook
+├── RULE-TO-FOLLOW.md                       # Owner's binding operating rules (v2: Push-Always doctrine)
+├── UNIVERSAL_FOLLOW_RULE.md                # Portable AI baseline operating rules
+├── SESSION_BREAK_PRECAUTION.md             # Session break, recovery protocol & work ledger
+├── CHANGELOG.md                            # Release notes & batch modification history
+├── SOMNARAK_CITY_LAYOUT.svg                # Master cartographic blueprint: Somnarak Metropolitan Grid
+├── THE_HAND_DR_LAYOUT.svg                  # Master architectural blueprint: Facility 01 Cross-Section
+├── TEST_TEXT_BOX_WIDTHS.md                 # Ergonomic text box width & visual calibration standard (127-128 chars)
+│
+├── GAME_BATTLE/                            # Tactical Combat Operations & Scenario Simulation Vault
+│   ├── README.md                           # Master index, GBS mechanics primer & document roadmap
+│   ├── INTRODUCTION_AND_GUIDE.md           # Authoring guide & SOP for all future battle .md files
+│   ├── BATTLE_SCENARIO_TEMPLATE.md         # Production-ready markdown template for combat encounters
+│   ├── CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md # Full 6-turn canonical combat scenario demonstration
+│   ├── SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md # Full 6-turn containment breach suppression on Floor 2
+│   ├── SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md # Full 6-turn UCD undercity sweep vs Fray construct
+│   ├── SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md # Full 6-turn SED deep-karst descent vs Drowned Guardian
+│   ├── SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md # Full 6-turn Drift Throne defense vs Glass Burrower
+│   ├── SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md # Full 6-turn Floor 04 Realization vs Weeping Statue
+│   ├── BOSS_MECHANICS_GRIEVING_COLOSSUS.md # Sovereign Boss Mechanics Folio for SE-C-Vδ-002
+│   ├── BOSS_MECHANICS_WEEPING_MIRROR.md    # Sovereign Boss Mechanics Folio for SE-C-IVδ-195
+│   ├── BOSS_MECHANICS_KING_OF_MENDERS.md   # Syndicate Boss Mechanics Folio for King of Menders
+│   ├── SQUAD_ARCHETYPE_REVERIE_CONTAINMENT.md # 4-Warden Facility 01 Containment Cadre Manual
+│   ├── SQUAD_ARCHETYPE_UCD_PACIFICATION.md    # 4-Breacher UCD Close-Quarters Pacification Cadre Manual
+│   ├── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
+│   └── ECHO_CORE_REALIZATION_SYSTEM.md      # 4-phase departmental trauma battles & resonant catharsis engine
+│
+├── tools/                                  # Non-wiki developer verification tools & formatters
+│   ├── audit_lore_archive.py               # Standalone Python auditor (UTF-8, codices, M.A.W., entities)
+│   ├── check_box_symmetry.py               # Strict text box symmetry & border alignment auditor
+│   ├── text_box_double_checker.py          # Dual-engine independent text box & wide-format validator
+│   ├── box_formatter.py                    # Ergonomic ASCII text box generation utility
+│   └── format_rst_box.py                   # ReStructuredText and markdown box alignment formatter
+│
+├── PROJECT_MOON_RESEARCH/                  # Encyclopedic Project Moon Research Compendium (12 Volumes)
+│   ├── 01_COSMOLOGY_GEOGRAPHY_AND_LAWS.md  # The City, Head, Arbiters, Outskirts, Taboos
+│   ├── 02_THE_TWENTY_SIX_WINGS_AND_SINGULARITIES.md # Wings A–Z, Singularities, Smoke War
+│   ├── 03_SOCIETAL_POWERS_AND_FACTIONS.md  # Fingers, Associations, Syndicates, Workshops
+│   ├── 04_METAPHYSICS_COGNITION_AND_PHENOMENOLOGY.md # The Light, Distortions, E.G.O, Peccatula
+│   ├── 05_CHRONICLED_NARRATIVES_AND_CANON_WORKS.md # LC, LoR, Limbus, Distortion Detective, Leviathan
+│   ├── 06_PARALLEL_WORLDS_AND_MIRROR_TECHNOLOGY.md # Mirror Worlds, Identities, Glass Windows
+│   ├── 07_COMPREHENSIVE_ENCYCLOPEDIC_LEXICON.md # Master terminology & technical concepts
+│   ├── 08_TACTICAL_MECHANICS_AND_ORDEALS.md # Combat systems, clashes, affinities, Ordeals
+│   ├── 09_EGO_EQUIPMENT_WEAPONS_SUITS_AND_GIFTS.md # E.G.O equipment, extraction, risk tiers
+│   ├── 10_FIXER_OFFICES_AND_SPECIALIZED_SYNDICATES.md # Section breakdowns, Colors, Hana, Liu, Shi
+│   ├── 11_LORE_AND_NARRATIVE_DEEP_DIVE.md  # Deep character studies, Carmen, Ayin, Angela, Roland
+│   ├── 12_ABNORMALITY_ENCYCLOPEDIA.md      # Comprehensive abnormality entries (ZAYIN to ALEPH)
+│   └── README.md                           # Research master index & comparative overview
+│
+├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,706 files)
+│   ├── README.md                           # In-world archive guide & recommended reading order
+│   ├── Master_Codices/                     # 39 Macro-Canon Master Codices across 6 canonical subfolders
+│   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
+│   │   ├── 02_Institutional_Wings_and_Chronicles/ # 5 Codices: Reverie Directorate, SED, UCD, Archive, Caravan
+│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
+│   │   ├── 04_Municipal_Society_and_Demographics/ # 10 Codices: Daily life, Council, Collectors, corporations, syndicates, cadres
+│   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
+│   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
+│   │   └── README.md                       # Master codices catalog & thematic index
+│   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
+│   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
+│   ├── Katharcheok/                        # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
+│   ├── Gieok_Jeojangso/                    # 7 Mnemonic Receptions & Mnemonic Combat Suite (Memory Archive)
+│   ├── Jipyeongseondae/                    # 6 Trans-Desolate Overland Arcs & Bastion Suite (Horizon Caravan)
+│   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
+│   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
+│   ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Novellas)
+│   ├── Sorrow_Entities/                    # 287 Unique Entity dossiers across Ranks I to V and Grades α to ω
+│   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
+│   ├── MAW_Codex_Sets/                     # 1,196 files: 198 complete quadripartite sets across 42 folders
+│   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
+│   ├── Hope_Transformations/               # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
+│   └── Unknown_Entities/                   # 15 Unknown Entity files: UNK-248 to UNK-903 & Regressor chronicles
+│
+└── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
+    ├── README.md                           # Overview of the reference standards folder
+    ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
+    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
+    ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
+    ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the foundational codices
+    ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all reference files
+    ├── CATEGORY_AND_PAGE_PLAN.md           # Information architecture & structural classification
+    ├── CONTENT_AND_VISUAL_STANDARDS.md     # Editorial standards & authentic Somnarak terminology
+    ├── LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md# Branch continuity and deployment policies
+    ├── MASTER_HANDOFF_PROTOCOL.md          # AI session continuity & handoff guidelines
+    ├── MAW_PERSONALIZE_PROGRESS.md         # Detailed M.A.W. equipment visual progress ledger
+    ├── MAW_WEAPON_ARCHETYPES.md            # Comprehensive weapon taxonomy & silhouette archetypes
+    ├── OPERATING_RULES.md                  # Canon integrity & directory rules
+    ├── PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md # Structural comparative research
+    ├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance audit
+    ├── REGISTRY_MASTER_STATUS.md           # M.A.W. Registry completion and archive tracking
+    ├── SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md # Original design document for the sovereign corporations
+    ├── SOMNARAK_DOCUMENT_RULES.md          # Archival classification & authoring rules for entity files
+    ├── SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md # Authoritative list of 55 immutable core entities
+    └── SOMNARAK_NAME_REGISTRY.md           # Authoritative nomenclature & character naming lexicon
 ```
 
-After content or chrome changes, also run:
+---
+
+## 3. Standing Owner Rules (Binding on All Sessions)
+
+1. **A0 — Push Always:** Every single file creation, edit, rename, or deletion must be committed **and pushed** to the assigned session branch in the same turn. Never end a turn with uncommitted changes or unpushed local commits.
+2. **A5 — File Safety:** Never delete or overwrite owner files or canonical reference documents without an explicit, file-named instruction from the owner.
+3. **Canon Terminology is Immutable:** Retain authentic Somnarak-native terminology across all documentation:
+   - Sorrow Entities (SE), SECC designations with Origin Scopes (C: City Sorrow / 도한, N: Inner Sorrow / 내한, O: Outside Sorrow / 외한), Coherence Ranks (I: Whisper, II: Murmur, III: Fragment, IV: Entity, V: Sovereign), and Potency Grades (α to ω).
+   - M.A.W. (Materialized Armament of Woe), Weapons (W), Suits (S), Gifts (G).
+   - Han energy, Liquid Han, Absolvohan, Resonant Clash.
+   - Facility 01 ("The Hand of Change"), Reverie Directorate, High Council.
+   - Four damage elements: Grudge (원한), Lament (비탄), Void (공허), Weight (비중).
+4. **Source-Led Integrity:** Content in markdown files derives strictly from the canonical texts in `SOMNARAK-WORLD/` or established Somnarak lore. Never inject generic placeholder filler.
+5. **Folder Distinction:** All in-world lore files belong in `SOMNARAK-WORLD/`. Out-of-world meta documents, audits, and handoffs belong in `REFERENCE_SOMNARAK_WIKI/`.
+6. **Master Macro-Chronological Partition & Cycle Localization:** All Three SED (Katabagil), UCD (Katharcheok), and R.D. (The Absolvohan Facility 01) occur strictly **BEFORE** the Dawn of Hope in sequential progression (SED -> UCD -> R.D.). **ANYTHING ELSE** (The Dawn Initiative & The Lantern, The Horizon Caravan, The Memory Archive realizations, The Wound Walkers, continental expansion) occurs strictly **AFTER** the Dawn of Hope. **UNK SE is positioned strictly AFTER R.D.** (manifesting in the Post-R.D. / Post-Dawn era). The 1,778 Mnemonic Cycles belong strictly and exclusively to R.D. + The Absolvohan (Facility 01); outside entities and post-Dawn wings do not measure calendar time by Cycles, though retrospective historical/aftermath references to the R.D. loop (e.g., survivor memories, regressor records) are canonical and permitted. Continental geography is strictly terrain and not an SE.
+
+---
+
+## 4. Working with the In-World Canon Repositories (`SOMNARAK-WORLD/`)
+
+### A. The Master Codices (`SOMNARAK-WORLD/Master_Codices/`)
+- These 45 master files organized across 6 canonical subfolders establish the cosmological, physical, municipal, and political framework of Somnarak.
+- When referencing world rules, always cite the corresponding codex path (e.g., `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md` for cosmology, `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md` for combat mechanics, `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` for Facility 01 floors, `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/SOMNARAK_GEOLOGY.md` for planetary geology, `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md` for non-M.A.W. equipment and artisan forge systems, `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD_SYNDICATES.md` for underworld factions and extralegal governance, `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_SPECIALIST_CADRES.md` for chartered contractor bureaus, `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_ZONE_CORPORATIONS.md` for the 25 municipal zone corporations, Haz-scorchers, Cleansers, and Giltong arbiter authority).
+
+### B. Sorrow Entity Files (`SOMNARAK-WORLD/Sorrow_Entities/`)
+- Filename convention: `SE-<SECC Code>_<English Name>_<Korean Name>.md` (e.g., [`SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md)).
+- Entities carry containment procedures, work affinities (Ferrehan, Flerehan, Pugnahan, Viderehan), breach behaviors, and narrative tales.
+
+### C. M.A.W. Codex Sets (`SOMNARAK-WORLD/MAW_Codex_Sets/`)
+- Each set folder is organized under a registry range (e.g. `Registry_001_to_007/001_The_Orphaned_Bell/`).
+- Every complete set contains four files:
+  - `SE-<ID>-A__SIDE_CODEX_<Name>.md`: The donor entity's lore and extraction parameters.
+  - `SE-<ID>-B__MAW-W_<Weapon>.md`: Weapon specs (damage element, range/speed band, special moves).
+  - `SE-<ID>-C__MAW-S_<Suit>.md`: Suit defenses, elemental resistances, and passive traits.
+  - `SE-<ID>-D__MAW-G_<Gift>.md`: Gift slot, resonance triggers, and appearance.
+
+### D. Five-Color Ordeals (`SOMNARAK-WORLD/Ordeals/`)
+- Ordeals are organized by color: `BLACK` (Weight), `BLUE` (Lament), `GREY` (Grudge), `PALE` (Void), and `PURPLE` (Mixed).
+- Each color contains entities for four watches: `First_Watch`, `Second_Watch`, `Third_Watch`, and `Tide_Watch`.
+
+### E. Facility 01 Echo-Cores (`SOMNARAK-WORLD/Echo_Cores/`)
+- Contains detailed dossiers on the 9 Echo-Cores: Director Majin (Floor 1), Secretary Seiyon, Dekan (Floor 2), Zyrak (Floor 3), Mellda (Floor 5), Marjuk (Floor 6), Ayshuk (Floor 4), Ishall (Floor 7), and Xyan (Floor 8).
+
+---
+
+## 5. Verification & Inspection Recipes
+
+Use standard Python 3 and bash tools to inspect, verify, and audit the markdown files:
 
 ```bash
-python tools/sync_global_top_bar.py --write
-python tools/sync_global_bottom_bar.py --write
-python tools/sync_global_left_sidebar.py --write
-python tools/build_search_index.py       # search.json 1:1 with pages (keeps existing entries, adds missing)
-python tools/build_sitemap.py            # sitemap.xml + robots.txt from the tree
-python tools/sync_seo_meta.py --write
+# 1. Run the master archive audit (UTF-8, codices, M.A.W. sets, entity counts)
+python3 tools/audit_lore_archive.py
+
+# 2. Verbose audit listing incomplete or exception sets
+python3 tools/audit_lore_archive.py --verbose
+
+# 3. Export structured audit data as JSON
+python3 tools/audit_lore_archive.py --json
+
+# 4. Search for references to a specific entity or concept across all files
+grep -rn "SE-001" "SOMNARAK-WORLD/"
 ```
 
-The chrome sync scripts also carry the public counters (page counts, word
-corpus, SVG count, release number) — update those constants **before** running
-the syncs when totals change (they live in `sync_global_bottom_bar.py` and
-`sync_global_left_sidebar.py`).
+---
 
-## 6. Asset rules (SVG audit is strict)
+## 6. Git Workflow & Turn Discipline
 
-- `docs/assets/art/**` is the **curated page-art** tree. The audit computes a
-  *structural signature* (geometry, element order, transforms, text **placement**
-  — paint, labels, IDs, and metadata are ignored). Two art files with the same
-  composition but different subjects **fail** the audit; recolor-only variants
-  are not allowed.
-- Per-item art is therefore **generated with seeded geometry** (see
-  `tools/generate_maw_items.py::make_svg`) — verify uniqueness by running the
-  audit, not by eyeballing.
-- Every HTML page must reference ≥1 local SVG used by ≤20 pages (or have inline
-  SVG) — chrome-wide assets (icons, layout) don't count.
-- CSS/JS are referenced with `?v=ASSET_VERSION`.
-- Floor art exists at `assets/art/departments/f{1..8}-banner.svg` +
-  `f{1..8}-icon.svg`; core avatars at `assets/avatars/avatar_core_*.svg`.
-- The home right sidebar is the **FACILITY 01 console** (`aside.floor-rail` on
-  `docs/index.html`): one CSS block at the end of `wiki.css` owns it
-  ("HOME RIGHT RAIL — FACILITY 01 CONSOLE"). Older stacked blocks above it are
-  legacy — the last block wins; don't re-activate them.
-
-## 7. M.A.W. pipeline (item pages)
-
-- **Registry:** `REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/M.A.W. Codex_Set Registry/`
-  — 287 donors × 3 items (W/S/G) = **861 item records**, all published as of
-  release 1.9.0. Record filename: `<DONOR>-<SLOT>__MAW-<W|S|G>_<Name>.md`.
-- **Two record formats** (parser handles both):
-  - Format A: `## ITEM IDENTITY` table + `### Ability — X` section +
-    `### Incident Record`.
-  - Format B: `## CANONICAL SOURCE STAT BLOCK` table + `**Incident — Name:**`
-    inline + `**Corrosion:**` / `**Maintenance:**` / `**Shutdown:**`.
-- **Generator:** `python tools/generate_maw_items.py` (idempotent — skips
-  existing pages; `--dry-run`, `--limit N`, `--version`). Writes the page and
-  its seeded SVG; keeps previously published filenames when the slug was
-  extended earlier (e.g. `maw-g-014-01-the-debt-scale-gift.html`).
-- **Retracted stubs:** SE-003/004/006/008 have **no** registry records — the 12
-  stub pages stay as retractions (old URLs must keep resolving). The hub keeps
-  their rows at the bottom of each registry table.
-- Element colors used on item pages: Lament `#3e8bd5`, Grudge `#d64a4a`,
-  Void `#8a8f98`, Weight `#c9a86a`, Mixed `#777777`.
-- Grade labels (site-established): α — Minor, β — Moderate, γ — Major, δ — Critical.
-
-## 8. Environment quirks (learned the hard way)
-
-- **Shallow clone.** The sandbox can reset the local branch to the old base
-  (`11ca85c`) between turns, and the owner can push files mid-turn (e.g. the
-  GSC verification file). Before `git add -A`: `git fetch` and diff
-  `FETCH_HEAD`; restore owner files your tree lacks. Before push: verify local
-  HEAD vs `git ls-remote` (plain push — `--force-with-lease` is stale in a
-  shallow clone).
-- **`/tmp` is wiped between turns.** Rebuild the jsdom sandbox:
-  `mkdir -p /tmp/jsdom-test && cd /tmp/jsdom-test && npm i jsdom@30.0.1`.
-- **No headless browser.** jsdom is the DOM check (no layout). **jsdom OOMs
-  past ~150 pages per process** — chunk validation loops (~150 pages/process,
-  null the DOM each iteration).
-- `fetch_page` fails on most external URLs (`SignatureDoesNotMatch`). For a
-  live self-check, read the branch tip via
-  `https://raw.githubusercontent.com/Redditor008/PROJECT.SOMNARAK-WIKI/<branch>/<path>`.
-- Commit messages: **no backticks** (they execute) — use single quotes.
-- Registry filenames: use `os.walk` + string matching; `fnmatch` is unreliable
-  here.
-- `grep -c` counts lines, not occurrences.
-- The canonical source folder is spelled `LORE or REFERANCE` (owner's spelling —
-  do not "fix" it).
-
-## 9. Verification recipes
-
-```bash
-# DOM: no duplicate ids, all local links + assets resolve, word floor
-# (run chunked; see /tmp/jsdom-test/chunk.js pattern from release 1.9.0)
-node --max-old-space-size=2048 chunk.js <offset> <count>
-
-# gates + syncs
-python tools/audit_page_word_floor.py && python tools/audit_site_structure.py && python tools/audit_svg_compositions.py
-```
-
-jsdom gotchas: `Element.indexOf` doesn't exist (use
-`compareDocumentPosition(a,b) & 4` for DOM order); `runScripts:'outside-only'`
-needs assertions after `setTimeout`; `file://` localStorage throws.
-
-## 10. Progress & open items
-
-**Shipped (release 1.9.0, 2026-09-03):**
-- **Entity Tales full anthology:** all 246 tales from
-  `SOMNARAK_ENTITY_TALES.md` published on `lore/entity-tales.html`
-  (155,711 editorial words on the page), generated by
-  `tools/generate_entity_tales.py`.
-- M.A.W. full arsenal: all **861 registry items** (287 donors × W/S/G)
-  published — 27 pre-existing sheets + 834 generated (pages, seeded source-led
-  SVG art, set-diagram/triad cross-links, fast-jump, prev/next, infoboxes).
-- M.A.W. hub: three full registry tables (287 rows each + 4 retracted rows),
-  coverage text/bar updated.
-- New tools: `tools/generate_maw_items.py`, `tools/build_search_index.py`,
-  `tools/generate_entity_tales.py`.
-- Site totals: 1,041 chrome pages, 1,040 search routes + sitemap URLs,
-  892,953 editorial words, 1,282 SVGs.
-- Prior rounds: SE field-record subpages, SE category tag strips, M.A.W.
-  chapter publication (combat/resistance/gift records), Google indexing
-  (sitemap/robots/SEO meta + GSC verification), home right sidebar rebuilt as
-  the FACILITY 01 console, float-TOC, infobox/grid geometry fixes.
-  Full history: `CHANGELOG.md`.
-
-**Queued (round 26, 2026-09-02 — owner-ordered sequence):**
-1. Reverie Directorate full record — **done** (this round, see CHANGELOG).
-2. Nine Echo-Core character page expansions — **done** (round 26, same day):
-   all nine `characters/the-*.html` rebuilt in full from `CHARACTER_WIKI/`
-   (6.6k–16.3k words each; Director's Story sealed; core cross-links;
-   Related Records nav; static + float TOCs regenerated).
-3. Faction tech / relations / dream realm / memory archive / corporations —
-   **done** (round 26, same day): all five records published in full —
-   faction-technology 4,316 words, the-dream-realm 2,640,
-   the-library-of-stolen-pasts 2,188, the-founding-corporations 1,498,
-   factions hub +3,435-word Web of Power record (power structure,
-   relationship matrices, hidden alliances, rivalries, tensions, hooks).
-4. `SOMNARAK_ENTITY_TALES.md` publication — **done** (this round, see CHANGELOG):
-   `lore/entity-tales.html` rebuilt from the canonical source with all
-   **246 tales** (155,711 counted editorial words on the page), parsed from
-   the tales file and named by the `SOMNARAK_ENTITY_CODEX.md` canonical SECC
-   table. Each tale carries the full Narratio / Testimonium / Registrum and
-   links the ten existing SECC dossiers where available; `tools/generate_entity_tales.py`
-   is the idempotent rebuild pipeline. Owner-gate verification before the build:
-   246/246 tales match a real entity file by Korean name; SECC codes present in
-   all 246 stems; all 55 main-protected entities covered (file = 55 main + 190
-   non-main); 88 tales use narrative names differing from the entity-file
-   codenames (Korean is authority — publish under codename, keep tale epithet
-   as alias); 242/246 tale entities are M.A.W. donors; 81 donor IDs
-   (SE-1001+ series) have no tale. Editorial corpus 739,550 → 892,953 counted
-   words; global footer counters re-synced across all 1,041 pages.
-
-**Deferred (owner decisions, not forgotten):**
-- Tabs UI on item pages (later). Gallery (later). References: **never**.
-- Entity pages for donors beyond the 10 published (SE-016…SE-997, UNK-247…903)
-  have no dedicated pages yet; item pages link them to `entities/list.html`
-  where needed.
-
-## 11. Working loop for a session
-
-1. Read this file + `CHANGELOG.md` (latest entries) + the owner's message.
-2. Check branch state: `git status`, `git rev-parse HEAD`, `git ls-remote`.
-3. Make the change. If CSS/JS changed → bump `ASSET_VERSION`. If totals
-   changed → update chrome counters in the sync scripts.
-4. Run syncs → gates → jsdom spot check (§9).
-5. Add a `CHANGELOG.md` entry.
-6. Commit (single quotes, no backticks) and push to the session branch.
-7. Report to the owner: what shipped, what was deferred, any decision needed.
+1. **Check branch state at turn start:**
+   ```bash
+   git branch --show-current
+   git status --short
+   ```
+2. **Make required modifications.** Validate file structure and encoding.
+3. **Run pre-commit gate:**
+   ```bash
+   python3 tools/audit_lore_archive.py
+   git diff --check
+   ```
+4. **Commit with clean messages:** Use plain single quotes; do not use backticks.
+5. **Push immediately:**
+   ```bash
+   git push origin <assigned-branch>
+   ```
+6. **Verify push:**
+   ```bash
+   git rev-parse HEAD
+   git rev-parse origin/<assigned-branch>
+   ```
+   Both hashes must match before ending the turn.

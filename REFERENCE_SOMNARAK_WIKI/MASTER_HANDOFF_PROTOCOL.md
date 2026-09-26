@@ -13,7 +13,7 @@ This document is the **definitive, non-negotiable master onboarding protocol** f
 
 ### 1.2 Core Philosophy: Pure Encyclopedia (Not Invention)
 > **CRITICAL RULE:** *You are an archivist and encyclopedia builder, NOT an author creating from scratch.*
-All foundational lore, characters, entity tales, damage matrices, facility floors, and municipal zones are **already established** in `/home/user/lore/The_REVERIE_DIRECTORATE.md` and `/home/user/lore/PROJECT_SOMNARAK.md`.
+All foundational lore, characters, entity tales, damage matrices, facility floors, and municipal zones are **already established** in `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` and `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`.
 - **Never reinvent or rename concepts that already exist in source.**
 - **Never import Project Moon / Lobotomy Corporation / Library of Ruina terminology.**
 - **Never fabricate character backstories or M.A.W. equipment when canonical entries exist.**
@@ -57,44 +57,44 @@ The Project Somnarak universe possesses a distinct, proprietary lexicon. Under n
 
 ### 2.2 The Canonical Reverie Directorate Four Attributes
 **NEVER use Lobotomy Corporation stats (Fortitude, Prudence, Temperance, Justice).**  
-All R.D. personnel and Echo-Cores are measured on the **Four Canonical Attributes** specified in `The_REVERIE_DIRECTORATE.md`:
+All R.D. personnel and Echo-Cores are measured on the **Four Canonical Attributes** specified in `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`:
 
-```
+``
 ┌─────────────────────────┬──────────┬──────────────┬────────────────────────────────────────────────────────┐
 │ ATTRIBUTE               │ SYMBOL   │ COLOR        │ IN-UNIVERSE MEASURE & MECHANICAL EFFECT                │
 ├─────────────────────────┼──────────┼──────────────┼────────────────────────────────────────────────────────┤
-│ 1. Resilience (탄력)    │ ♦        │ Deep Blue    │ Physical endurance, Max HP, M.A.W. load-bearing limit  │
-│ 2. Clarity (명료)       │ ♠        │ Pale White   │ Mental stability, Max SP, Void & Dream resistance      │
-│ 3. Composure (침착)     │ ♣        │ Crimson      │ Emotional control, Work efficiency, extraction accuracy│
-│ 4. Resolve (결의)       │ ★        │ Black / Gold │ Willpower, Attack interval speed, panic suppression    │
+│ 1. Resilience (Tanryeok) │ ♦        │ Deep Blue    │ Physical endurance, Max HP, M.A.W. load-bearing limit  │
+│ 2. Clarity (Myeongryo)  │ ♠        │ Pale White   │ Mental stability, Max SP, Void & Dream resistance      │
+│ 3. Composure (Chimchak) │ ♣        │ Crimson      │ Emotional control, Work efficiency, extraction accuracy│
+│ 4. Resolve (Gyeorui)    │ ★        │ Black / Gold │ Willpower, Attack interval speed, panic suppression    │
 └─────────────────────────┴──────────┴──────────────┴────────────────────────────────────────────────────────┘
-```
+``
 
 ---
 
 ### 2.3 The Canonical 4-Way Han Damage & Element Matrix
 Every attack, weapon, armor resistance, and entity hazard operates under the 4 primary Han aspects, plus Mixed and Hope:
 
-```
+``
 ┌─────────────────────┬──────────────┬──────────────┬────────────────────────────────────────────────────────┐
 │ DAMAGE TYPE         │ KR NAME      │ COLOR CODE   │ DAMAGE MECHANIC & SYSTEMIC EFFECT                      │
 ├─────────────────────┼──────────────┼──────────────┼────────────────────────────────────────────────────────┤
-│ Grudge              │ 원한         │ #ef5b55      │ Direct Physical Trauma (Reduces HP directly).          │
-│ Lament              │ 비탄         │ #38bdf8      │ Psychic / Mental Erosion (Reduces SP; causes Panic).   │
-│ Void                │ 공허         │ #e2e8f0      │ Existential Decay (% Max HP soul corrosion).           │
-│ Weight              │ 중압         │ #64748b      │ Crushing Gravity Trauma (Inflicts both HP + SP damage).│
-│ Mixed               │ 혼합         │ Multi/Rainbow│ Multi-spectral sorrow wave (Calculated against all).   │
-│ Hope (Absolvohan)   │ 희망         │ #f1df76      │ Restoration flux (Purifies corruption and heals HP/SP).│
+│ Grudge              │ Wonhan       │ #ef5b55      │ Direct Physical Trauma (Reduces HP directly).          │
+│ Lament              │ Bitan        │ #38bdf8      │ Psychic / Mental Erosion (Reduces SP; causes Panic).   │
+│ Void                │ Gongheo      │ #e2e8f0      │ Existential Decay (% Max HP soul corrosion).           │
+│ Weight              │ Jung-ap      │ #64748b      │ Crushing Gravity Trauma (Inflicts both HP + SP damage).│
+│ Mixed               │ Honhap       │ Multi/Rainbow│ Multi-spectral sorrow wave (Calculated against all).   │
+│ Hope (Absolvohan)   │ Huimang      │ #f1df76      │ Restoration flux (Purifies corruption and heals HP/SP).│
 └─────────────────────┴──────────────┴──────────────┴────────────────────────────────────────────────────────┘
-```
+``
 
 ---
 
 ## 3. THE NINE ECHO-CORE LEADS & CANONICAL ROSTER
 
-Every Echo-Core dossier in `01_Somnarak_Wiki/characters/` has been formatted with the exact canonical parameters from `The_REVERIE_DIRECTORATE.md`:
+Every Echo-Core dossier in `01_Somnarak_Wiki/characters/` has been formatted with the exact canonical parameters from `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`:
 
-```
+``
 ┌────┬──────────────────────┬────────┬──────────────────────────┬─────────────────────────────┬──────────────────────────────┬─────────────────────────────────────────────────────────┐
 │ #  │ CORE TITLE           │ GENDER │ STATION / FLOOR          │ CANONICAL TRUE LOOK         │ CANONICAL ATTRIBUTES         │ SIGNATURE EQUIPMENT / M.A.W. STATUS                     │
 ├────┼──────────────────────┼────────┼──────────────────────────┼─────────────────────────────┼──────────────────────────────┼─────────────────────────────────────────────────────────┤
@@ -108,7 +108,7 @@ Every Echo-Core dossier in `01_Somnarak_Wiki/characters/` has been formatted wit
 │ 08 │ The Outsider Ishall  │ Woman  │ Floor 7 / Shadow Corps   │ Android (Repurposed frame)  │ Res 80 / Cla 75 / Com 85 / 95│ Unanswered (δ-Critical paired remote artifact hands)    │
 │ 09 │ The Exile Xyan       │ Man    │ Floor 8 / Gate Watch     │ Cyborg (Desolate-crystal)   │ Res 85 / Cla 65 / Com 70 / 90│ No personal M.A.W.; Wields The Returning Way Route      │
 └────┴──────────────────────┴────────┴──────────────────────────┴─────────────────────────────┴──────────────────────────────┴─────────────────────────────────────────────────────────┘
-```
+``
 
 ### Secondary Field Operatives & Factions
 - **Commander Taeho (`UCD-01`)**: Strike leader of the 6 Underworld Cleanup Descend arcs. Wields Heavy Breach Shotgun & Carapace Armor.
@@ -128,25 +128,25 @@ Every Echo-Core dossier in `01_Somnarak_Wiki/characters/` has been formatted wit
 
 All entity designations, risk classifications, M.A.W. equipment serials, and tales must maintain **100% synchronized fidelity**:
 
-```
+``
 ┌────────┬────────────────────────────────┬──────┬────────────┬─────────────────────────────┬─────────────────────────────┬─────────────────────────────┐
 │ CODE   │ ENTITY NAME (KR / EN)          │ RISK │ SIGNATURE  │ M.A.W. WEAPON (MAW-W)       │ M.A.W. SUIT (MAW-S)         │ M.A.W. GIFT (MAW-G)         │
 ├────────┼────────────────────────────────┼──────┼────────────┼─────────────────────────────┼─────────────────────────────┼─────────────────────────────┤
-│ SE-001 │ 고아의 종 / The Orphaned Bell  │ III  │ Lament     │ MAW-W-001-01 Bell Striker   │ MAW-S-001-01 Resonance Vest │ MAW-G-001-01 Clapper Charm  │
-│ SE-002 │ 슬퍼하는 거상 / Grieving Colossus│ IV │ Grudge     │ MAW-W-002-01 Colossus Cleaver│ MAW-S-002-01 Colossal Plate│ MAW-G-002-01 Colossus Shard │
-│ SE-003 │ 기억의 실 / Thread of Memory   │ II   │ Void       │ MAW-W-003-01 Memory Blade   │ MAW-S-003-01 Tide Cloak     │ MAW-G-003-01 Needle Brooch  │
-│ SE-004 │ 녹을 흘리는 보초 / Rust Sentry │ III  │ Grudge     │ MAW-W-004-01 Rust Halberd   │ MAW-S-004-01 Iron Plate     │ MAW-G-004-01 Corrosion Visor│
-│ SE-005 │ 숨 막히는 어머니 / Smother Mother│ IV │ Weight     │ MAW-W-005-01 Cradle Lance   │ MAW-S-005-01 Cradle Harness │ MAW-G-005-01 Maternal Clasp │
-│ SE-006 │ 착취하는 거머리 / Siphon Leech │ III  │ Grudge     │ MAW-W-006-01 Siphon Cannula │ MAW-S-006-01 Membrane Suit  │ MAW-G-006-01 Effluent Gland │
-│ SE-007 │ 박무 · 필경사 / Brume Scribe   │ II   │ Void       │ MAW-W-007-01 Ashen Slate    │ MAW-S-007-01 Ashen Shroud   │ MAW-G-007-01 Brume Incense  │
-│ SE-008 │ 후회의 철처녀 / Iron Maiden    │ IV   │ Grudge     │ MAW-W-008-01 Thorn Impaler  │ MAW-S-008-01 Sarcophagus    │ MAW-G-008-01 Spike Crown    │
-│ SE-009 │ 기억의 방직자 / Memory Weaver  │ III  │ Lament     │ MAW-W-009-01 Drowned Trident│ MAW-S-009-01 Drowned Mail   │ MAW-G-009-01 Pendulum Charm │
-│ SE-010 │ 수렴 · 절대 판결 / Convergence│ V    │ Mixed      │ MAW-W-010-01 Convergence    │ MAW-S-010-01 Aegis Armor    │ MAW-G-010-01 Singularity Eye│
-│ SE-011 │ 속삭이는 벽 / Whispering Walls │ II   │ Lament     │ MAW-W-011-01 Whisper Flail  │ MAW-S-011-01 Barrier Mail   │ MAW-G-011-01 Earring Charm  │
-│ SE-014 │ 부채를 먹는 자 / Debt Eater    │ III  │ Weight     │ MAW-W-014-01 Debt Blade     │ MAW-S-014-01 Null Greatcoat │ MAW-G-014-01 Ledger Coin    │
-│ SE-015 │ 부채의 저울 / Debt Scale       │ IV   │ Weight     │ MAW-W-015-01 Balance Blade  │ MAW-S-015-01 Sovereign Scale│ MAW-G-015-01 Fulcrum Pin    │
+│ SE-001 │ Goa-ui Jong / The Orphaned Bell│ III  │ Lament     │ MAW-W-001-01 Bell Striker   │ MAW-S-001-01 Resonance Vest │ MAW-G-001-01 Clapper Charm  │
+│ SE-002 │ Seulpeohaneun Geosang / Colossus│ IV │ Grudge     │ MAW-W-002-01 Colossus Cleaver│ MAW-S-002-01 Colossal Plate│ MAW-G-002-01 Colossus Shard │
+│ SE-003 │ Gieok-ui Sil / Memory Thread   │ II   │ Void       │ MAW-W-003-01 Memory Blade   │ MAW-S-003-01 Tide Cloak     │ MAW-G-003-01 Needle Brooch  │
+│ SE-004 │ Nogeul Heullineun Bocho / Sentry│ III  │ Grudge     │ MAW-W-004-01 Rust Halberd   │ MAW-S-004-01 Iron Plate     │ MAW-G-004-01 Corrosion Visor│
+│ SE-005 │ Sum Makhineun Eomeoni / Mother │ IV │ Weight     │ MAW-W-005-01 Cradle Lance   │ MAW-S-005-01 Cradle Harness │ MAW-G-005-01 Maternal Clasp │
+│ SE-006 │ Chakchwi Geomeori / Siphon Leech│ III  │ Grudge     │ MAW-W-006-01 Siphon Cannula │ MAW-S-006-01 Membrane Suit  │ MAW-G-006-01 Effluent Gland │
+│ SE-007 │ Bakmu Pilgyeongsa / Brume Scribe│ II   │ Void       │ MAW-W-007-01 Ashen Slate    │ MAW-S-007-01 Ashen Shroud   │ MAW-G-007-01 Brume Incense  │
+│ SE-008 │ Huhoe Cheolcheonyeo / Iron Maiden│ IV   │ Grudge     │ MAW-W-008-01 Thorn Impaler  │ MAW-S-008-01 Sarcophagus    │ MAW-G-008-01 Spike Crown    │
+│ SE-009 │ Gieok-ui Bangjikja / Weaver    │ III  │ Lament     │ MAW-W-009-01 Drowned Trident│ MAW-S-009-01 Drowned Mail   │ MAW-G-009-01 Pendulum Charm │
+│ SE-010 │ Suryeom Pan-gyeol / Convergence│ V    │ Mixed      │ MAW-W-010-01 Convergence    │ MAW-S-010-01 Aegis Armor    │ MAW-G-010-01 Singularity Eye│
+│ SE-011 │ Soksagineun Byeok / Walls      │ II   │ Lament     │ MAW-W-011-01 Whisper Flail  │ MAW-S-011-01 Barrier Mail   │ MAW-G-011-01 Earring Charm  │
+│ SE-014 │ Buchae Meongneun Ja / Debt Eater│ III  │ Weight     │ MAW-W-014-01 Debt Blade     │ MAW-S-014-01 Null Greatcoat │ MAW-G-014-01 Ledger Coin    │
+│ SE-015 │ Buchae-ui Jeoul / Debt Scale   │ IV   │ Weight     │ MAW-W-015-01 Balance Blade  │ MAW-S-015-01 Sovereign Scale│ MAW-G-015-01 Fulcrum Pin    │
 └────────┴────────────────────────────────┴──────┴────────────┴─────────────────────────────┴─────────────────────────────┴─────────────────────────────┘
-```
+``
 
 ### Tripartite Korean Tale Structure
 Every Entity Tale in `lore/entity-tales.html` and individual entity dossiers must strictly follow the tripartite canonical format:
@@ -160,9 +160,9 @@ Every Entity Tale in `lore/entity-tales.html` and individual entity dossiers mus
 
 The wiki currently contains 185 fully functioning HTML articles. To ensure transparency, the transfer metrics against the master canonical source files are logged as follows:
 
-- **Total Sorrow Entities in Source**: 246 canonical entities (`SOMNARAK_ENTITY_CODEX.md`).
+- **Total Sorrow Entities in Source**: 246 canonical entities (`SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md`).
   - **Entities Fully Built into Wiki**: 13 dossiers (`SE-001` to `SE-011`, `SE-014`, `SE-015`) = **5.28% of total codex**.
-- **Total M.A.W. Equipment Items in Source**: 106 catalogued items (`SOMNARAK_MAW_CODEX.md`).
+- **Total M.A.W. Equipment Items in Source**: 106 catalogued items (`SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md`).
   - **M.A.W. Items Fully Built into Wiki**: 39 items = **36.79% of registry**.
 - **Echo-Core Leads Built**: 9 of 9 = **100.0% Complete**.
 - **Facility Floors Built**: 8 of 8 = **100.0% Complete**.
@@ -176,7 +176,7 @@ The wiki currently contains 185 fully functioning HTML articles. To ensure trans
 ### 6.1 The 2-Column Article Grid Layout
 All character and entity dossier pages utilize a strict 2-column CSS Grid layout that isolates the main reading body from the sticky side table infobox, preventing any text overflow or wrapping anomalies:
 
-```html
+``html
 <!-- Table of Contents (Closed prior to article grid) -->
 <div class="toc" id="toc">
   <div class="toc-title">Contents</div>
@@ -204,14 +204,14 @@ All character and entity dossier pages utilize a strict 2-column CSS Grid layout
     </dl>
     <h3>R.D. Core Attributes</h3>
     <table class="infobox-stat-table">
-      <tr><th style="color:#38bdf8;">RESILIENCE (탄력)</th><td>95</td></tr>
-      <tr><th style="color:#f8fafc;">CLARITY (명료)</th><td>80</td></tr>
-      <tr><th style="color:#ef5b55;">COMPOSURE (침착)</th><td>70</td></tr>
-      <tr><th style="color:#f1df76;">RESOLVE (결의)</th><td>99</td></tr>
+      <tr><th style="color:#38bdf8;">RESILIENCE (Tanryeok)</th><td>95</td></tr>
+      <tr><th style="color:#f8fafc;">CLARITY (Myeongryo)</th><td>80</td></tr>
+      <tr><th style="color:#ef5b55;">COMPOSURE (Chimchak)</th><td>70</td></tr>
+      <tr><th style="color:#f1df76;">RESOLVE (Gyeorui)</th><td>99</td></tr>
     </table>
   </aside>
 </div>
-```
+``
 
 ### 6.2 Key CSS Specifications in `01_Somnarak_Wiki/assets/css/wiki.css`
 - **Article Grid**: `display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 32px; box-sizing: border-box;`
@@ -235,7 +235,7 @@ The wiki features an instant client-side search engine powered by `01_Somnarak_W
 
 ## 8. COMPLETE WORKSPACE FILE MANIFEST
 
-```
+``
 /home/user/
 ├── 01_Somnarak_Wiki/                  # MASTER WIKI STATIC ROOT (185 HTML Articles)
 │   ├── index.html                     # Encyclopedic Hub Portal (Incident Bulletins, Floor Summary, Directory)
@@ -270,7 +270,7 @@ The wiki features an instant client-side search engine powered by `01_Somnarak_W
 ├── HANDOFF_MASTER_AUDIT.md            # Lore Transfer Audit vs Master Reference Documentation
 ├── MASTER_HANDOFF_PROTOCOL.md         # THIS COMPREHENSIVE ONBOARDING SPECIFICATION
 └── README.md                          # Quickstart User Guide
-```
+``
 
 ---
 
@@ -279,26 +279,68 @@ The wiki features an instant client-side search engine powered by `01_Somnarak_W
 When a new AI or agent begins a new turn or session in this repository, execute the following protocol:
 
 1. **Step 1 — Verify Link Integrity**:
-   ```bash
+   ``bash
    python3 /home/user/tools/audit_wiki_links.py
-   ```
+   ``
    *Ensure output reports 0 broken links and 0 broken images.*
 
 2. **Step 2 — Enforce Content, Visual, Grid & Attribute Standards**:
    - Run the public-page word-floor audit. Every page must contain at least 200 meaningful editorial words after shared chrome is excluded.
-   - If adding a character: Use the exact 4 R.D. attributes (`Resilience`, `Clarity`, `Composure`, `Resolve`). Check `The_REVERIE_DIRECTORATE.md` first.
+   - If adding a character: Use the exact 4 R.D. attributes (`Resilience`, `Clarity`, `Composure`, `Resolve`). Check `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` first.
    - If adding an entity: Begin with the required `ICON`, `BANNER`, and `PROFILE`, then add any background, silhouette, equipment drawing, containment diagram, or other visual form demanded by the page. Synchronize canonical `MAW-W`, `MAW-S`, and `MAW-G` equipment and preserve the tripartite story structure.
    - Read the entire article and source before drawing. No title-only symbol, generic template, or recolored duplicate qualifies as a completed SVG.
 
 3. **Step 3 — Rebuild Search Index**:
-   ```bash
+   ``bash
    python3 /home/user/tools/rebuild_search_index.py
-   ```
+   ``
 
 4. **Step 4 — Update Distribution Packages**:
-   ```bash
+   ``bash
    cd /home/user && zip -9 -r archives/SOMNARAK_ALL_IN_ONE_MASTER_PACKAGE.zip . -x "archives/*"
-   ```
+   ``
+
+---
+
+## 10. ACTIVE EXPANSION ROADMAP & BINDING OWNER RULINGS (2026-09-24)
+
+### 10.1 Five Approved Systems for Native Somnarak Adaptation
+On 2026-09-24, the project owner reviewed and approved five major worldbuilding and tactical combat systems adapted from Project Moon comparative research into 100% native Somnarak equivalents:
+
+1. **System 1: Mnemonic Cycle Engrams (주기 각인 / Cycle Engrams):**
+   - *Equivalence:* Somnarak's native equivalent to Mirror World Identities.
+   - *Mechanic:* Operatives attune to the 1,778 previous historical reset cycles stored in the Memory Wells of Floor 06 (`SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md`) and the Memory Archive (`SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md`). Engrams alter an operative's Speed Band, Action Slot distribution, and P1 Passives.
+   - *Destination:* `GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`.
+
+2. **System 2: The Six Great Basalt & Resonance Workshops (육대 공방):**
+   - *Equivalence:* Somnarak's native artisan weapon and armor ateliers forging non-M.A.W. military equipment from Tier 2 Beast carapaces, vitrified glass, and acoustic alloys.
+   - *Existing Canonical Precedents:* Master Wright Gwan's workshop (`SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CAST.md`), Doll Maker's Workshop (`SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_DAWN_OF_HOPE.md`), and Zone C/D workshop smiths processing Dune-Crusher carapaces (`SOMNARAK-WORLD/Mugenhan_Ecology/MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`).
+   - *Binding Owner Rulings on Equipment Grades & Workplace Acquisition:*
+     * **Grading Scale:** Scales strictly from **Grade 1 up to Grade 5**.
+     * **Grade 5 Pinnacle Stat:** Attains **Legendary Stat** (최고 전설 등급 능력치).
+     * **Workplace Requirement:** To even qualify to obtain or craft these armaments, an operative or citizen **must be actively employed or affiliated with a certified industrial workplace, guild, or sovereign workshop**.
+     * **Exact Acquisition Percentage Curve:**
+       - **Grade 5 (Legendary Stat):** Exactly **0.5%** acquisition / crafting rate.
+       - **Grade 4 (Masterwork):** Exactly **1.0%** acquisition / crafting rate.
+       - **Grade 3 (Superior):** Exactly **5.0%** acquisition / crafting rate.
+       - (Grades 1 and 2: Standard industrial guild issue for working personnel).
+   - *The Six Workshops:* Yeoul (Rapid Flow / Harpoons), Cheol-Gyeong (Iron Mirror / Basalt Shields), Chim-Mok (Absolute Silence / Dampeners), Hwa-Seok (Vitrified Ember / Thermal Lances), Baek-Gwang (White Luster / Void Optics), Sim-Yeon (Deep Marrow / Abyss Winches).
+   - *Destination:* `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md`.
+
+3. **System 3: The Five Syndicates of The Raw (오대 지하 조직):**
+   - *Equivalence:* Somnarak's native equivalent to the Five Fingers, ruling the subterranean slums of Zone B/C/D ("The Raw").
+   - *The Five Syndicates:* The Menders Guild (Flesh-to-stone stitchers), The Rust Frays (Acoustic discord scrap-plate), The Veil Merchants (Illicit liquid Han & tears), The Memory Washers (Illicit cognitive erasure), The Debt Concourse (Karma & soul usury).
+   - *Destination:* `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD_SYNDICATES.md`.
+
+4. **System 4: The Ten Specialist Cadres & Contractor Bureaus (십대 전문 기단):**
+   - *Equivalence:* Somnarak's native equivalent to the 12 Fixer Associations and specialized offices, licensed by the Council of Sighs.
+   - *The Ten Cadres:* Cadre 01 Giltong (Taboo/Acoustics), Cadre 02 Su-Ho (Defense/Convoy), Cadre 03 Tam-Sa (Survey), Cadre 04 Sim-Pan (Arbitration/Debt), Cadre 05 Il-Gwang (Second Watch Ordeals), Cadre 06 Hwa-Yong (Decontamination), Cadre 07 Jeong-Bo (Intel/Surveillance), Cadre 08 Un-Song (Pneumatic Rail Transit), Cadre 09 Ui-Ryo (Emergency Triage / Wound Walkers secular wing), Cadre 10 Gyeo-Tu (Judicial Dueling).
+   - *Destination:* `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_SPECIALIST_CADRES.md`.
+
+5. **System 5: Echo-Core Resonant Realization Wars (반향핵 공명 각성전):**
+   - *Equivalence:* Somnarak's native equivalent to Floor Realizations.
+   - *Mechanic:* 4-Phase Boss Engagements where Facility 01 Echo-Core leads undergo emotional crisis, temporarily manifesting the full resonant power of all entities on their floor across 4 distinct phases, ending in emotional catharsis and resonant awakening.
+   - *Destination:* `GAME_BATTLE/SCENARIO_REALIZATION_*.md`.
 
 ---
 *END OF MASTER HANDOFF PROTOCOL — REVERIE DIRECTORATE YEAR 4,238 DAWN INITIATIVE*

@@ -59,6 +59,21 @@ For each task, prefer one working branch and one direct integration pull request
 
 After a pull request is merged and live verification succeeds, no successor should reuse the merged branch for unrelated work merely because it exists. Remote branch deletion is a repository-maintenance action and must only be performed when the active platform allows it and the owner authorizes it; never delete the branch currently required by GitHub Pages.
 
+## Rule 5 — Dual-Branch Architecture: main (Web Wiki) vs NON-WIKI (Reference Archive)
+
+The repository operates on a clear two-branch model established by the owner:
+
+1. **`main` Branch (Web Wiki Frontend):**
+   - Configured GitHub Pages deployment branch serving `/docs`.
+   - Contains all static HTML files, CSS, JS, SVG assets, search indexes, and frontend build tools.
+   - Acceptance surface: Live website at <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/>.
+
+2. **`NON-WIKI` Branch (Canon Lore & Reference Backend):**
+   - Pure markdown source repository containing all 1,863 reference codices, entity dossiers, and M.A.W. registries.
+   - Free of web build scripts, HTML frontend pages, and Pages assets.
+   - Acceptance surface: `python3 tools/audit_lore_archive.py` (UTF-8, 34 master codices, M.A.W. set integrity, entity distributions) and `git diff --check`.
+   - **Crucial PR Target Rule:** Pull requests originating from work on `NON-WIKI` must target `base: NON-WIKI` (never `main`), ensuring the web wiki and the standalone reference library remain cleanly decoupled.
+
 ## Required completion language
 
 Use an explicit state report:
