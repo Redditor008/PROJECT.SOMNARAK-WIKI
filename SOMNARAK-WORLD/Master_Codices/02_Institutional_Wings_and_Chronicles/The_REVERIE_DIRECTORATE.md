@@ -2904,72 +2904,54 @@ The Exile's warning is simple: *"Something is making the sorrow. Something is fe
 
 ---
 
-## R.D. Timeline — Three Phases
+## R.D. Timeline — Historical Phases & The Mnemonic Loop
 
-The R.D. has a long history — the Cycle is only the most recent chapter.
+The R.D. possesses a layered history spanning linear civic operation followed by the internal Mnemonic Loop dilation:
 
-### Phase 1: The Founding Era (Year 4202 — 4232)
+### Phase 1: The Founding & Linear Era (Years 4202 — 4232 MMSS)
 
-**Duration:** 30 years
+**Duration:** 30 years (The Current Era)
 
-The R.D. is established after the SED's discoveries reveal the need for organized Sorrow Entity containment. The first Echo-Cores are created. The facility is built beneath the Alpha Tree. The Lament Well is constructed. The Mnemonic Generator is activated.
+The Reverie Directorate is publicly established beneath the Alpha Tree in Zone A following the Council of Sighs' Year ~4,200 exploration decree (SED). The facility begins structured entity containment, the first Echo-Cores are cast into effigies, the Lament Well is constructed, and standard containment protocols are formalized.
 
 **Key events:**
-- First Sorrow Entity contained
-- First M.A.W. extracted
+- Formal charter of Facility 01 beneath the Alpha Tree under Council oversight
+- First Sorrow Entity contained (`SE-C-Iα-000`) and initial M.A.W. extraction protocols established
 - First Echo-Core Cast Effigy constructed
-- The facility expands — SECTOR-B, C, D, E established
-- The Branch facilities built (Branch DE, Branch BE)
-- The Council grants the R.D. autonomy
+- Facility expansion — SECTOR-B, C, D, and E established; Branch outposts deployed
+- Thirty years of continuous linear containment and public utility without temporal looping
 
-**The tone:** Hopeful, experimental, dangerous. The R.D. is new — everyone is learning.
+**The tone:** Hopeful, experimental, institutional. The R.D. becomes the recognized foundation of municipal stability.
 
-### Phase 2: The Operational Era (Year 4202 — 4232+1778)
+### Phase 2: The Mnemonic Loop Dilation (Years 4,232 — 4,238 MMSS / Cycles 0001–1,778)
 
-**Duration:** ~1,800 years of subjective operation — 30 true years and 1,778 iterated ones
+**Duration:** 1,778 internal cycles dilated across ~6 external municipal solar years
 
-The R.D. operates as designed — containing entities, extracting M.A.W., studying Han. The Echo-Cores develop their personalities, their sorrows, their arcs. The Absolvohan is conceived. The Director begins collecting Han-crystal.
-
-**Key events:**
-- Major breaches (The Maw expansion, The Grieving Colossus transformation)
-- The Cheongula's truth discovered by the Archive Lead
-- The Absolvohan plan formulated by the Director
-- The Secretary's true nature discovered (but hidden)
-- The Outsider's failed mission
-- The Exile's departure
-- Core Suppressions performed
-- Centuries of daily operations — containment, extraction, research
-
-**The tone:** Grind, repetition, weight. The R.D. becomes an institution — reliable, heavy, enduring.
-
-### Phase 3: The Cycle Era (Year 4232+1 — ongoing)
-
-**Duration:** 1,778 iterations and counting — the R.D. knows the count exactly
-
-The Mnemonic Generator's stabilization field creates an unintended temporal echo. The R.D. facility — and possibly the city — begins to Cycle. One year, repeating indefinitely.
+In Year 4,232 MMSS, catastrophic seismic fracturing along the Maw fault lines threatened total municipal collapse. Director Majin secretly deployed the sub-Floor 1 Mnemonic Generator. The stabilization field locked Facility 01 into an internal 365-day repeating cycle. Time within the containment strata dilated relative to linear reality: while linear external time advanced from Year 4,232 to Year 4,238 MMSS, 1,778 internal cycles elapsed within Facility 01 to amass the supercritical Han reserves required for the Absolvohan device.
 
 **Key events:**
-- The Cycle begins — Echo-Cores notice, citizens do not
-- The Director realizes the Cycle serves the Absolvohan — each iteration collects more Han-crystal
-- The Secretary endures — watching the same year repeat
-- The other Echo-Cores adapt (or don't)
-- The Cycle continues — iteration after iteration
+- Activation of the Mnemonic Generator (Year 4,232 MMSS / Cycle 0001)
+- The Cycle begins — Echo-Cores notice, ordinary citizens remain unaware
+- Director Majin uses the repeating iterations to amass 0.02 tons of diverted Han-crystal per reset
+- Secretary Seiyon endures all 1,778 iterations as the sole continuous memory anchor
+- Core Suppressions and Realizations occur across the departmental floors
+- Cycles 1,512 (Great Rust Severance) and 1,580 (Great Collapse)
 
-**The tone:** Existential, repetitive, heavy. The R.D. is trapped in a cycle — but the Director allows it because each iteration brings the Absolvohan closer.
+**The tone:** Heavy, cyclical, resolute. The facility endures an eternity of repetition to forge the path to the Dawn.
 
-### Phase 4: The Breaking (Future — Story)
+### Phase 3: The Watershed Climax — The Dawn of Hope (Year 4,238 MMSS / Cycle 1,778)
 
-**Duration:** To be determined
+**Duration:** Culmination of Cycle 1,778
 
-The Cycle must eventually break — through the Absolvohan's completion, the Mnemonic Generator's failure, or some external force. What happens when the Cycle ends?
+At the completion of the 1,778th iteration in Year 4,238 MMSS, the Absolvohan achieves supercritical transmutation. The Hand of Hope opens, transmuting the first 15% of ambient sorrow into resonant Hope Entities. The loop terminates permanently, returning Somnarak to advancing linear time.
 
-**Possible outcomes:**
-- The Absolvohan succeeds — the city is cleansed (and destroyed)
-- The Cycle breaks prematurely — the city awakens to centuries of accumulated change
-- The  Cycle is discovered — the truth reveals the R.D.'s secret
-- Something else entirely
+**Key events:**
+- The Hand of Hope opens; 15% sorrow transmuted into Hope Entities (HT-001 through HT-014)
+- Termination of the Mnemonic Generator loop; Cycle 1,778 concludes
+- Primary ante-Dawn mandates of SED, UCD, and R.D. complete
+- Transition to post-Dawn continental reconnection (Dawn Initiative, Horizon Caravan, Memory Archive)
 
-**The tone:** Climax, revelation, consequence. The weight of centuries finally lands.
+**The tone:** Cathartic, transcendent, watershed. The weight of centuries yields to the first genuine dawn.
 
 ---
 

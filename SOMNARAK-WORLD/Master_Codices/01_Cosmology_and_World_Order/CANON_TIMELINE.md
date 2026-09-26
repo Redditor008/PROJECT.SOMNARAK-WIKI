@@ -31,9 +31,9 @@ The Mnemonic Cycle system (Cycles 0001 through 1,778) is strictly the internal t
   - *Permitted (Retrospective Reference & Aftermath):* Retrospective narrative, historical, and testimonial *references* to the R.D. Cycles are fully canonical and valid when documenting loop aftermath, facility origin records, or post-loop survivor memories (e.g., *The Repeated Survivor* bearing trauma from 1,778 resets, the *Regressor Log Book*, or Seiyon's synthesis in Cycle 0002). This mirrors how Lobotomy Corporation's 10,000-year loop is retrospectively referenced throughout Library of Ruina and Limbus Company without The City tracking civic calendar time by it.
 
 ```text
-[ Year 0 ] ------ [ Year 200 ] ------ [ Year 2,460 ] ------ [ Year 4,238 ]
-Settler Landing   The Cheongula       R.D. Inception        Dawn of Hope  
-(Planetary Era)   (First Sorrow)      (Cycle 0001 Begins)   (Watershed)   
+[ Year 0 ] ------ [ Year 200 ] ------ [ Year 4,202 ] ------ [ Year 4,238 ]
+Settler Landing   The Cheongula       R.D. Public Founding  Dawn of Hope  
+(Planetary Era)   (First Sorrow)      (30-Year Current Era) (Watershed)   
 ```
 
 ---
@@ -45,13 +45,16 @@ Settler Landing   The Cheongula       R.D. Inception        Dawn of Hope
 | **Year 0** | Planetary History | **The Settlement Arrival:** Refugee pioneers land on Mugenhan and establish the Somnarak valley settlement. | `SOMNARAK_CHEONGULA` |
 | **Year 195** | Municipal History | **The Menders' Warning:** Early artisan guilds identify volatile subterranean Han accumulation beneath Zone B. | `SOMNARAK_CHEONGULA` |
 | **Year 200** | Planetary History | **The Cheongula (The First Sorrow):** 1,000 citizens in Zone B consumed by raw Han; the First Sorrow and the Maw's inception. | `SOMNARAK_CHEONGULA` |
-| **Years 201–2,459** | Municipal History | **The Era of Syndicates:** Proliferation of corporate cartels, illicit trades, and debt frays across The Raw. | `SOMNARAK_CAST` |
+| **Years 201–4,199** | Municipal History | **The Long Era & Era of Syndicates:** Proliferation of corporate cartels, illicit trades, and debt frays across The Raw; municipal expansion around the Alpha Tree. | `SOMNARAK_CAST` |
 | **Years 2,460–3,970** | SED (Katabagil) | **Ante-Dawn Phase 1 — Subterranean Expeditions:** Descents 1–7 explore bedrock (-2,000m to -3,500m), mapping aquifers and Cheongula origins. *(SED operates in calendar years; no cycle tracking).* | `SOMNARAK-WORLD/Katabagil/` |
-| **Year 2,460** | R.D. / The Absolvohan | **Facility 01 Inception (R.D. Cycle 0001):** Director Majin establishes the internal containment loop. *(Cycle tracking begins strictly inside R.D.).* | `The_ABSOLVOHAN` |
-| **Year 3,972** | The Raw / Underworld | **The Great Rust Severance:** Syndicate rebellion in The Raw; massive extraction disruption. *(Known internally to R.D. as Cycle 1,512).* | `CANTO_02`, `SED_03` |
+| **Year 3,972** | The Raw / Underworld | **The Great Rust Severance:** Syndicate rebellion in The Raw; massive extraction disruption. *(Known in retrospective facility archive as Cycle 1,512).* | `CANTO_02`, `SED_03` |
 | **Years 3,973–4,039** | UCD (Katharcheok) | **Ante-Dawn Phase 2 — Underworld Pacifications:** Six purges through The Raw dismantling the Five Syndicates. *(UCD operates in calendar years and tactical turns; no cycle tracking).* | `SOMNARAK-WORLD/Katharcheok/` |
-| **Year 4,040** | Municipal History | **The Great Collapse:** Severe acoustic containment breach in Zone C; death of Yoon's sister (~200 years ago). *(Known internally to R.D. as Cycle 1,580).* | `CANTO_02` (B1 Fix) |
-| **Years 4,041–4,238** | R.D. / The Absolvohan | **Ante-Dawn Phase 3 — Active Containment Cycles:** Facility 01 containment of 292 standard Sorrow Entities across Floors 1–8; Echo-Core Realizations. *(Cycles 1,581 to 1,778 viewable strictly inside R.D.).* | `SOMNARAK-WORLD/The_Absolvohan/` |
+| **Year 4,040** | Municipal History | **The Great Collapse:** Severe acoustic containment breach in Zone C; death of Yoon's sister (~200 years ago). *(Known in retrospective facility archive as Cycle 1,580).* | `CANTO_02` |
+| **Year ~4,200** | Municipal History | **Somnarak Exploration Decreed (SED):** Council of Sighs formalizes organized planetary exploration after 4,200 years of municipal history. | `PROJECT_SOMNARAK` |
+| **Year 4,202** | R.D. Municipal History | **The Public Founding of the Reverie Directorate:** Council of Sighs charters Facility 01 beneath the Alpha Tree; 30 years of public linear containment begin (The Current Era). | `PROJECT_SOMNARAK`, `The_REVERIE_DIRECTORATE` |
+| **Years 4,202–4,232** | R.D. Linear Era | **The 30-Year Current Era:** Standard municipal containment, research, and M.A.W. extraction under Council oversight without temporal dilation. | `The_REVERIE_DIRECTORATE` |
+| **Year 4,232** | R.D. / The Absolvohan | **Deployment of the Mnemonic Generator:** Following catastrophic Maw fault instability, Director Majin secretly deploys the sub-Floor 1 Mnemonic Generator, locking Facility 01 into an internal 365-day repeating cycle. | `The_ABSOLVOHAN` |
+| **Years 4,232–4,238** | R.D. Internal Cycles | **Ante-Dawn Phase 3 — Active Mnemonic Containment:** 1,778 internal facility cycles repeat within Facility 01, dilating subjective containment time across ~6 external municipal solar years to harvest supercritical Han-crystal. *(Cycles 0001–1,778 viewable strictly inside R.D. + The Absolvohan).* | `SOMNARAK-WORLD/The_Absolvohan/` |
 | **Year 4,238** | Planetary Watershed | **THE WATERSHED EVENT — THE DAWN OF HOPE:** Hand of Hope opens; 15% sorrow-to-hope transmutation. Primary mandates of SED, UCD, and R.D. conclude; R.D. Cycle 1,778 ends. | `SOMNARAK_DAWN_OF_HOPE.md` |
 | **Year 4,238+** | Deep Vault / Post-R.D. | **UNK SE Manifestation (Strictly After R.D.):** 12 authentic anomaly dossiers emerge in the deep vault and post-loop aftermath. | `SOMNARAK-WORLD/Unknown_Entities/` |
 | **Years 4,238–4,247** | Post-Dawn Phase 1 | **The Dawn Initiative:** The 12 Hope Bearers operate mobile fortress *The Lantern*, expanding hope from 15% toward 45%. | `SOMNARAK_DAWN_OF_HOPE.md` |
@@ -86,16 +89,22 @@ To resolve the biological discrepancy of non-augmented operatives (such as Vangu
    - Between operational cycles, personnel are placed into cryo-engrammatic salt suspension within the deep vaults, waking only during active containment watches or breach alarms.
    - Their somatic age remains anchored to the date of their initial binding oath.
 
-### The Two-Phase History of R.D. (Linear Inception vs. Mnemonic Loop Dilation)
-To resolve the apparent discrepancy between R.D.'s initial founding year (Year 2,460 MMSS) and the Absolvohan loop's base year (Year 4,232 MMSS):
-1. **Phase 1: Linear Institutional Containment (Years 2,460–4,231 MMSS):**
-   - Facility 01 was commissioned in Year 2,460 as the municipal containment wing following the early Katabagil subterranean expeditions.
-   - For over 1,770 linear calendar years, R.D. operated as a conventional containment facility under Council of Sighs oversight, without temporal looping.
-2. **Phase 2: The Mnemonic Loop Dilation (Years 4,232–4,238 MMSS / Cycles 0001–1,778):**
-   - In Year 4,232, catastrophic seismic instability along the Maw fault lines threatened total municipal collapse. Director Majin deployed the sub-Floor 1 Mnemonic Generator.
-   - The generator locked Facility 01 into an internal 365-day repeating cycle.
-   - Because time within the facility dilated relative to linear reality, the 1,778 internal cycles elapsed across approximately 6 external municipal solar years (Years 4,232–4,238 MMSS).
-   - In Year 4,238, Cycle 1,778 completed the supercritical transmutation with the Hand of Hope, terminating the loop and returning Somnarak to advancing linear time.
+### Public Civic Knowledge vs. Facility 01 Mnemonic Dilation
+
+The chronological architecture of the Reverie Directorate operates on two distinct canonical registers:
+
+1. **Public Civic Register (Known to Citizens, Council, and Municipal Archives):**
+   - Somnarak's civic history is measured strictly in linear Mugenhan Municipal Solar Standard (MMSS) calendar years.
+   - Following centuries of passive wall-building and the Council of Sighs' Year ~4,200 exploration decree (SED), the Reverie Directorate was publicly chartered in **Year 4202** beneath the Alpha Tree in Zone A.
+   - For thirty linear calendar years (**Years 4202–4232 MMSS**, officially designated "The Current Era"), the R.D. operated as a conventional public municipal utility, supplying M.A.W. weaponry and suits to the Architects and Wardens in exchange for municipal resources and dream support.
+   - The wider city, Council of Sighs, and civic archives operate exclusively on linear time and possess zero knowledge or perception of temporal cycles.
+
+2. **Internal Facility Dilation (Strictly R.D. + The Absolvohan):**
+   - In Year 4,232 MMSS, catastrophic seismic fracturing along the Maw fault lines threatened total municipal collapse. Director Majin secretly deployed the sub-Floor 1 Mnemonic Generator.
+   - The stabilization field locked Facility 01 into an internal 365-day repeating cycle.
+   - Because time within the facility's containment strata dilated relative to external reality, **1,778 internal cycles** elapsed inside Facility 01 while approximately **6 external municipal solar years** (Years 4,232–4,238 MMSS) passed in the outside city.
+   - Across these 1,778 iterations, the facility gathered 0.02 tons of diverted Han-crystal per reset for the Absolvohan in total secrecy from the Council of Sighs.
+   - In Year 4,238 MMSS, Cycle 1,778 achieved supercritical resonance with the Hand of Hope, transmuting the initial 15% sorrow into hope, terminating the loop, and releasing Somnarak into forward-advancing post-Dawn linear time.
 
 ---
 

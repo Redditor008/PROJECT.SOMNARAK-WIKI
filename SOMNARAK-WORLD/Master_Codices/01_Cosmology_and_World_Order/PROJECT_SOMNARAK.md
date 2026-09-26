@@ -4993,6 +4993,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | **~4200** | **SED (Somnarak Exploration Decreed)** — City is 4,200 years old. Council decrees organized exploration. | All |
 | **4202** | **The Reverie Directorate founded** — Sorrow Entity containment begins | A |
 | **~4232** | **Present day** — City is approximately 4,232 years old | All |
+| **4238** | **The Dawn of Hope** — Hand of Hope opens; Cycle 1,778 ends; 15% sorrow transmuted | All |
 
 **Key durations:**
 - **Before-Time:** ~202 years
