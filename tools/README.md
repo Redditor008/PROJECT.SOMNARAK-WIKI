@@ -13,7 +13,7 @@ tools/
 ├── check_box_symmetry.py                     # Text box width and border symmetry checker
 ├── timeline_lint.py                          # Pan-repo canon timeline & chronological validator
 ├── seam_lint.py                              # Semantic seam, editing-splice, and PM term linter
-├── box_formatter.py                          # Dynamic 74-col and 71-col ASCII text box generator
+├── box_formatter.py                          # TablesGenerator-based 74-col grid table and ASCII box generator
 ├── text_box_double_checker.py                # Secondary text box symmetry validator
 ├── generate_canonical_metrics_registry.py    # SSOT metrics engine (updates CANONICAL_METRICS)
 ├── sync_readme_metrics.py                    # Propagates SSOT badges to README.md
@@ -37,7 +37,7 @@ tools/
 | **`seam_lint.py`** | Detects revision splices, punctuation collisions (`.,`), and un-whitelisted PM terminology. | `python3 tools/seam_lint.py` |
 | **`generate_canonical_metrics_registry.py`** | Inspects filesystem on disk to regenerate authoritative `CANONICAL_METRICS.json` and `CANONICAL_METRICS.md`. | `python3 tools/generate_canonical_metrics_registry.py` |
 | **`sync_readme_metrics.py`** | Synchronizes badges in `README.md` from `CANONICAL_METRICS.json`. | `python3 tools/sync_readme_metrics.py` |
-| **`box_formatter.py`** | Programmatically creates aligned 74-column or 71-column ASCII boxes adhering to the standard. | `python3 tools/box_formatter.py` |
+| **`box_formatter.py`** | TablesGenerator reference engine (`https://www.tablesgenerator.com/text_tables`): creates perfectly aligned 74-column chatroom and wide-format ASCII grid tables and boxes with zero crooked rows and 5-row vertical growth cell wrapping. | `python3 tools/box_formatter.py` |
 | **`tests/test_linters.py`** | Unit test suite verifying that linters catch known defects and accept valid fixtures. | `python3 -m unittest tools/tests/test_linters.py` |
 
 ---

@@ -70,15 +70,15 @@ A single logical row or table cell can and should **grow vertically up to 5 visu
 
 ### Example: Multi-Line Wrapped Row (Exact 74-Column Standard)
 ```text
-+==========================+=============================================+
-| STANDARD COMPONENT       | OPERATIONAL EXECUTION DETAIL                |
 +--------------------------+---------------------------------------------+
+| STANDARD COMPONENT       | OPERATIONAL EXECUTION DETAIL                |
++==========================+=============================================+
 | Automated Vertical       | A single logical row expands cleanly up to  |
 | Growth Standard          | five visual sub-rows vertically without     |
 | (1 to 5 Rows Capped)     | cutting or truncating any words, ensuring   |
 |                          | complete information density and pristine   |
 |                          | geometric symmetry across every boundary.   |
-+==========================+=============================================+
++--------------------------+---------------------------------------------+
 ```
 In this pattern, the right-hand cell expands cleanly across multiple sub-rows while maintaining exact monospace border alignment across the entire 74-character width.
 
