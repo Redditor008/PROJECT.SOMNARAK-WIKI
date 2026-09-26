@@ -10,11 +10,15 @@ Enforces strict compliance with Project Somnarak and Arena.ai Chatroom standards
    - Inner content width: 70 columns (| + space + 68 chars + space + |).
    - Matches the Arena.ai chatroom 74-character auto-wrap limit.
    - Strict assertion on every line: guaranteed 100% geometric symmetry.
-2. Enclosed ASCII Boxes in Markdown Files:
+2. Vertical Growth Standard (Up to 5 Visual Sub-Rows):
+   - A single logical row can grow vertically up to 5 visual sub-rows.
+   - Zero word truncation: wrap text cleanly at word boundaries.
+   - Capped at 5 rows maximum for pristine visual cleanliness.
+3. Enclosed ASCII Boxes in Markdown Files:
    - Width: 71 to 74 columns (standard compact format).
    - Long lines wrap into visual sub-rows at word boundaries without truncation.
    - Fully CJK / East Asian Width aware (proper display width padding).
-3. Borderless Banners:
+4. Borderless Banners:
    - Width: Exactly 74 characters long ("=" * 74 and "-" * 74).
 """
 

@@ -330,3 +330,7 @@ Never collapse these states into the single word "done."
 2. **Rendered Markdown Tables (`| Key | Value |` outside code fences):**
    - Rendered with proportional, self-adjusting cell padding by GitHub and markdown browsers.
    - Korean Hangul is **fully permitted and encouraged** within markdown table cells for bilingual depth, provided the mandatory two-space buffer (`  [한글]  `) is maintained alongside paired English and Romanized translations.
+3. **Multi-Line Cell Wrapping & Vertical Growth Standard:**
+   - Inside text boxes, a logical row can grow vertically up to **5 visual sub-rows** so that words are NEVER truncated, sliced, or cut off.
+   - Cap vertical row growth at **5 visual sub-rows maximum** to prevent visual clutter and keep presentation clean.
+   - Every sub-row must maintain exact horizontal monospace padding and border alignment (`+` and `|`).

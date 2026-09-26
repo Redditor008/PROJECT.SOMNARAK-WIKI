@@ -30,9 +30,14 @@ A fundamental architectural distinction governs typography and ASCII formatting 
    - **Target Width:** **127 At Least, Maximum 128 Characters** (`len(line) in [127, 128]`).
    - **Domain:** Persistent repository codices, operational shift logs, 366-day macro-chronology ledgers, and multi-column tables saved to disk.
 2. **Chatroom Interface Standard (Interactive Agent Chat):**
-   - **Strict Maximum Width:** **71 Letters / Characters** (`len(line) <= 71`).
+   - **Target Width:** **Strictly 74 Columns** (`len(line) == 74` exact).
    - **Domain:** All live messages, interactive terminal readouts, and preview text boxes rendered directly inside the chatroom bubble.
-   - **Reasoning:** In modern chat interfaces, lines exceeding 71 characters trigger unwanted character wrapping, disjointed borders, and severe table misalignment.
+   - **Reasoning:** In modern chat interfaces, lines exceeding 74 characters trigger unwanted character wrapping, disjointed borders, and severe table misalignment.
+3. **The 5-Row Vertical Growth Rule (User Directive):**
+   - **Zero Word Truncation:** Never cut off words, truncate tokens, or use artificial string slicing.
+   - **Vertical Expansion (1 to 5 Rows):** A single logical entry or table cell can and should grow vertically up to **5 visual sub-rows** to accommodate rich descriptions, stats, and lore cleanly.
+   - **The 5-Row Cleanliness Cap:** Cap vertical cell growth at **5 visual sub-rows maximum** per logical entry. Text exceeding 5 rows becomes visually cluttered; distill content cleanly within 1 to 5 rows.
+   - **Monospace Alignment:** Every sub-row preserves exact horizontal padding and border alignment (`+` and `|`).
 
 ### 0.1 Chatroom Visual Alignment Ruler (Columns 001 to 071)
 ```text

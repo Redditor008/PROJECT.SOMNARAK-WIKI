@@ -55,28 +55,32 @@ NEVER output raw text boxes or tables without ``` code fences!
 
 ---
 
-## 4. Multi-Line Cell Wrapping Rule (No Truncation)
+## 4. Multi-Line Cell Wrapping & Vertical Growth Standard (No Truncation)
 
 ```
 NEVER slice, truncate, or cut words with ellipsis or string cuts!
 ```
 
-When cell content exceeds the column's inner character limit:
-1. Wrap the text across multiple lines (two or more rows) within that table row.
-2. Ensure every word remains complete and intact.
-3. Pad empty space on shorter sibling cells with spaces so column vertical borders (`|`) remain perfectly aligned.
+### The 5-Row Vertical Growth Rule (User Directive)
+A single logical row or table cell can and should **grow vertically up to 5 visual sub-rows** to accommodate rich descriptions, stats, or narrative context:
+1. **Zero Truncation:** Never cut off words, truncate tokens, or use artificial string slicing.
+2. **Clean Word Wrapping:** Wrap text naturally at word boundaries into visual sub-rows.
+3. **The 5-Row Cleanliness Cap:** Cap vertical cell growth at **5 visual sub-rows** per logical entry. Text exceeding 5 rows becomes visually cluttered and unclean; distill content to fit within 1 to 5 rows.
+4. **Symmetrical Padding:** Every wrapped sub-row must be padded to the exact target monospace display width so all outer borders (`|`) and internal dividers remain 100% vertically aligned.
 
 ### Example: Multi-Line Wrapped Row (Exact 74-Column Standard)
 ```text
 +==========================+=============================================+
 | STANDARD COMPONENT       | OPERATIONAL EXECUTION DETAIL                |
 +--------------------------+---------------------------------------------+
-| Automated Cell Wrapping  | Text exceeding the inner column boundary    |
-| Architecture             | wraps cleanly into a visual sub-row without |
-|                          | truncating or slicing any individual token. |
+| Automated Vertical       | A single logical row expands cleanly up to  |
+| Growth Standard          | five visual sub-rows vertically without     |
+| (1 to 5 Rows Capped)     | cutting or truncating any words, ensuring   |
+|                          | complete information density and pristine   |
+|                          | geometric symmetry across every boundary.   |
 +==========================+=============================================+
 ```
-In this pattern, the right-hand cell expands across multiple sub-rows while maintaining exact monospace border alignment across the entire 74-character width.
+In this pattern, the right-hand cell expands cleanly across multiple sub-rows while maintaining exact monospace border alignment across the entire 74-character width.
 
 ---
 
