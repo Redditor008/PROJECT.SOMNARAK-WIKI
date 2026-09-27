@@ -40,6 +40,13 @@ Each Zone's corporate cluster forms an interdependent operational ecosystem:
 - **Zone D (The Echo Forge):** Heavy metallurgical casting, acoustic instrumentation, biological cybernetics, and resonance pigment labs.
 - **Zone E (The Bastion Ring):** Subterranean drilling, trans-Desolate transit crawlers, perimeter artillery, and frontier quarantine.
 
+### 1.1 Macro Hierarchy: The 10 Primary Companies & Somnarak Outsider Factories
+
+At the macro-civic level, the city's commercial and industrial landscape is governed by the **10 Primary Companies** (5 Main Sovereign Wings + 5 Sub Infrastructure Trusts, as codified in `SOMNARAK_CORPORATIONS.md`).
+
+All other manufacturing entities, ad-hoc fabrication plants, unchartered salvage mills, and rogue workshops beyond these ten chartered Primary Companies are formally classified as:
+- **Somnarak Outsider Factory (솜나락 외곽 공장 / Somnarak Oegwak Gongjang):** The "non-known" industrial sector operating without Council licenses in the deep sumps of Zone B, the peripheral fringes of Zone E, and the scorched Outskirts.
+
 ```text
 +=====================================================================+
 |               ZONE CORPORATE MATRIX (5 CORPS PER ZONE)              |

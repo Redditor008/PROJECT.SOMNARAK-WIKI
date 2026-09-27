@@ -214,64 +214,89 @@ The six trans-desolate crossings of the Horizon Caravan—culminating in the res
 
 ---
 
-## Section III: Municipal Corporate Conglomerates & Industrial Guilds
+## Section III: Municipal Corporate Conglomerates, The 10 Primary Companies & Somnarak Outsider Factories
 
-Beneath the overarching aegis of the Five Sovereign Institutions, Somnarak's daily industrial economy is driven by private and semi-civic corporate trusts. These commercial conglomerates supply the raw materials, refined energy conduits, armor fabrics, and heavy armaments required to keep the city alive.
+Beneath the overarching aegis of the municipal order, Somnarak's industrial production is structured upon the **Decagonal Corporate Doctrine (10대 기업 체계 / 十大 企業 體系)**: exactly **ten Primary Companies**—comprising **five Main Companies** and **five Sub Companies**—hold official sovereign and civic charters. Any and all manufacturing facilities outside these ten are formally designated as **Somnarak Outsider Factories (솜나락 외곽 공장)**.
 
-### 3.1 The Sovereign Siphon Guilds (착취 길드 / Chakhwi Gildeu)
+### 3.0 The 10 Primary Companies Matrix (5 Main & 5 Sub)
 
-The Siphon Guilds hold the municipal monopoly over energy extraction, drawing liquid sorrow from the deep underground and refining it into usable electrical, acoustic, and thermal currents:
+```text
++=====================================================================+
+|        THE 10 PRIMARY COMPANIES OF SOMNARAK (5 MAIN & 5 SUB)        |
++---------------------------------------------------------------------+
+| THE 5 MAIN COMPANIES (SOVEREIGN CORE WINGS):                        |
+| 1. Reverie Directorate (R.D. / Monghwanguk) : Containment & Forge   |
+| 2. Subterranean Expedition (SED / Tamsadae) : Abyssal Cartography   |
+| 3. Underworld Cleanup (UCD / Jeonghwadan) : Urban Purge & Curfew    |
+| 4. The Memory Archive (Gieok Jeojangso) : Mnemonic Strata & Key     |
+| 5. The Horizon Caravan (Jipyeongseondae) : Trans-Desolate Transit   |
++---------------------------------------------------------------------+
+| THE 5 SUB COMPANIES (CHARTERED INFRASTRUCTURE TRUSTS):              |
+| 1. Chakhwi Siphon Energy Trust (Chakhwigongsa) : Liquid Han & Power |
+| 2. Jikjo Veil-Works Guild (Jikjogong-eop) : Acoustic Veils & Armor  |
+| 3. Urim Heavy Manufactory (Ullimgong-eop) : Kinetic Heavy Artillery |
+| 4. Cheongsan Clearing House (Cheongsangeum-yung): Debt Ledgers      |
+| 5. Hwayeom Reclamation Corps (Hwayeomjeonghwa) : Thermal Scorchers  |
++---------------------------------------------------------------------+
+| UNCHARTERED SECTOR (THE NON-KNOWN INDUSTRIAL FRINGE):               |
+| - Somnarak Outsider Factory (Oegwak Gongjang) : All non-10 plants   |
++=====================================================================+
+```
 
-1. **Giltong Power & Extraction Trust (길통 동력 추출 공사):**
-   - Operates the monumental basalt pipeline arrays connecting Zone A to the subterranean Weeping.
-   - Refines raw Liquid Han into stable **Han-Batteries** that illuminate Somnarak's streetlamps and charge Warden shock weapons.
+### 3.1 The 5 Sub Companies (Chartered Infrastructure Trusts)
+
+The five Sub Companies maintain the municipal lifelines that feed the Five Main Companies and sustain urban survival:
+
+1. **Chakhwi Siphon Energy Trust (착취 추출 공사 / Chakhwi Siphon Trust):**
+   - Holds the municipal extraction charter, siphoning liquid sorrow from the deep underground and refining it into stable **Han-Batteries**.
+   - Operates the monumental basalt pipeline network connecting Zone A to the subterranean Weeping, providing grid electricity and warden charge currents.
    - Employs over twelve thousand high-risk siphon divers who wear heavy rubberized suits to repair cracked conduits beneath the city floor.
 
-2. **Alpha Hydrological Consortium (알파 수문 연합):**
-   - Manages the city's closed-loop water treatment, atmospheric condenser towers, and cryogenic brine circuits.
-   - Maintains the emergency quenching systems that prevent industrial furnaces in Zone C from undergoing catastrophic thermal meltdowns.
+2. **Jikjo Veil-Works Industrial Guild (직조 방벽 공업 / Jikjo Veil Guild):**
+   - Weaves acoustic-dampening textiles and personal hazard attire worn by over two million citizens to soften ambient entity whispers.
+   - Manufactures contract-grade **Veil Fabrics (베일 직조물)** and works with the Reverie Directorate to weave specialized M.A.W. suit linings countering Grudge, Lament, Void, and Weight.
 
-3. **Basalt & Adamantine Smelting Guild (현무암 제련 길드):**
-   - Controls the heavy blast foundries located along the border of Zone C and Zone D.
-   - Smelts volcanic basalt with refined iron slag to produce the dense, impact-absorbing armor plates used in blast doors, caterpillar tracks, and Warden fortress shields.
+3. **Urim Heavy Resonance Manufactory (울림 중공업 / Urim Heavy Industries):**
+   - Specializes in casting monolithic bronze and steel tuning forks, anti-distortion resonance pylons, and heavy kinetic artillery.
+   - Manufactures tracked land-cruiser chassis, hydraulic bore drills, and heavy winches for the Horizon Caravan and SED.
 
-### 3.2 The Weavers' Syndicates (직조 연합 / Jikjo Yeonhap)
+4. **Cheongsan Mnemonic Clearing House (청산 결제 금융 / Cheongsan Clearing House):**
+   - Administers the **Municipal Debt Ledger**, bond underwriting, and mnemonic credit currency circulation across Zone C and municipal markets.
+   - Reclaims distressed assets, audits commercial contracts, and manages the municipal exchange of crystallized Han-dust.
 
-In a city where sound can trigger psychological corrosion and despair, fabric is not mere clothing—it is armor:
+5. **Hwayeom Thermal Reclamation Corps (화염 열원 정화단 / Hwayeom Reclamation):**
+   - Operates deep-sump thermal incinerators and chemical slurry scrubbers along the lower perimeters of Zone B.
+   - Deploys **Haz-Scorchers** during curfew sweeps to burn biological sludge, dissolve necrotic residues, and incinerate bio-slag before grief can crystallize.
 
-1. **The Silk of Oblivion Manufactory (망각의 비단 공방):**
-   - Produces the standard **Veil Fabrics (베일 직조물)** worn by over two million citizens to dampen the ambient howling of Sorrow Entities.
-   - Crafts specialized sound-canceling cowls, acoustic ear-seals, and memory-suppression bandages.
+### 3.2 Somnarak Outsider Factory Architecture (솜나락 외곽 공장)
 
-2. **Woven Armament Works (직조 병기 제작소):**
-   - Works under contract with the Reverie Directorate to weave M.A.W. suit linings.
-   - Combines synthetic aramid fibers with crystallized sorrow threads to provide defense against the four elemental affinities: Grudge, Lament, Void, and Weight.
+Outside the ten chartered Primary Companies (the 5 Main and 5 Sub), all remaining manufacturing facilities, freelance workshops, and fringe plants are collectively designated **Somnarak Outsider Factories (솜나락 외곽 공장 / Somnarak Oegwak Gongjang)**:
 
-### 3.3 Acoustic Defense Manufactories (음향 방어 공방)
+```text
++=====================================================================+
+|       SOMNARAK OUTSIDER FACTORY SPECIFICATION (THE NON-KNOWN)       |
++---------------------------------------------------------------------+
+| TAXONOMY CODE : CORP-OUTSIDER-FACTORY-NONKNOWN                      |
+| LEGAL STATUS : Unchartered / Extralegal Fringe Manufacturing        |
+| GEOGRAPHIC ZONE : Zone B Deep Sumps, Zone E Outer Edge & Desolate   |
+| OPERATIONAL ROLE: Non-standardized component forging, salvage       |
+| refining, and black-market equipment assembly.                      |
++---------------------------------------------------------------------+
+| CANON LAW: Other than the 10 Primary Companies is the non-known     |
+| one. All unchartered facilities operate under this classification.  |
++=====================================================================+
+```
 
-1. **The Iron Bell Forge (철종 공방):**
-   - Specializes in casting monolithic bronze and steel tuning forks ranging from handheld 440 Hz clappers to thirty-foot municipal resonance towers.
-   - When an Ordeal approaches the city walls, Iron Bell harmonic towers strike in synchronized counter-frequencies, repelling low-tier sorrow manifestations.
-
-2. **Gwan Heavy Industries (관 중공업):**
-   - Master Wright Gwan's family workshop, responsible for manufacturing pneumatic pile-drivers, tracked land-cruiser chassis, and heavy harpoon winches.
-   - Primary contractor for the Horizon Caravan's Drift Throne maintenance.
-
-### 3.4 Underworld Commercial Frays & Shadow Syndicates
-
-In the unregulated underbelly of Zone B, illicit commercial enterprises thrive outside municipal law:
-
-1. **The Debt Brokerage Houses of Zone B (채무 중개 조합):**
-   - Predatory syndicates that buy municipal citizen debts from the Council of Sighs at steep discounts, employing brute-force debt collectors to extract unpaid labor.
-   - Operates clandestine bone-saw clinics where indebted citizens sell biological organs or traumatic memories to pay interest.
-
-2. **The Siphon Smugglers' Union (착취 밀수 연맹):**
-   - Criminal networks that tap illegally into Giltong pipelines to siphon unrefined Liquid Han into lead flasks for the black market.
-   - Supplies illegal sorrow-stills that brew 'Black Water'—a potent, highly addictive narcotic that numbs physical pain while accelerating mental corrosion.
-
-3. **The Flesh-Chirurgeon Frays (육체 외과 프레이):**
-   - Rogue biomedical workshops that install black-market cyborg prosthetics, crude mechanical limbs, and weaponized piston arms.
-   - Responsible for creating rogue cyborg outlaws and combat gladiators for underground pit fights.
+1. **The Non-Known Status:**
+   - Because they lack official registration with the Council of Sighs, these facilities operate anonymously under changing names, shifting locations, or sheer isolation. In municipal ledgers, they are categorized under the single universal moniker: **Somnarak Outsider Factory**.
+2. **Operational Scope:**
+   - **Sump Scavenger Mills:** Unlicensed mills in Zone B that dredge crude Han-tar from overflow culverts to smelt makeshift plating.
+   - **Fray Scrap-Forges:** Rogue syndicate workshops producing untracked firearms, pneumatic claws, and crude shock batons.
+   - **Desolate Edge Workshops:** Frontier camps situated along the outer perimeter walls of Zone E, modifying tracked buggies and salvaging scrap from caravan wreckage.
+   - **Counterfeit Veil Stills:** Clandestine labs distilling degraded acoustic-masking oils and fake Veil-Stones for undocumented laborers.
+3. **Institutional Relationship:**
+   - The UCD periodically raids these outsider factories when their pollution or unlicensed grief extraction threatens to spark an urban breach.
+   - Conversely, the lower guilds and independent operators quietly purchase salvage and raw structural materials from Outsider Factories when Primary Company quotas are restricted.
 
 ---
 

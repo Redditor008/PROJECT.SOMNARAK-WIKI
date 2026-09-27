@@ -34,6 +34,8 @@
 | **M.A.W. Complete Quadripartite Sets** | **198 / 198 Complete Sets** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
 | **Specialist Cadres** | **10 Cadres** | `SOMNARAK-WORLD/Master_Codices/` |
 | **Underworld Syndicates of The Raw** | **5 Syndicates** | `SOMNARAK-WORLD/Master_Codices/` |
+| **Primary Companies** | **10 Companies (5 Main + 5 Sub)** | `SOMNARAK-WORLD/Master_Codices/` |
+| **Unchartered Industrial Fringe** | **Somnarak Outsider Factory (Non-Known)** | `SOMNARAK-WORLD/Master_Codices/` |
 | **Project Moon Research Volumes** | **16 Volumes** | `PROJECT_MOON_RESEARCH/` |
 
 > **Unit Definition Note (M.A.W. Equipment):** The 1,165 M.A.W. Equipment Profiles metric counts individual profile dossiers exclusively across 42 sets. In total, the subtree contains 1,208 markdown files (1,165 profiles + 42 set registries + 1 master README). Complete quadripartite sets stand at 198 / 198 complete sets.

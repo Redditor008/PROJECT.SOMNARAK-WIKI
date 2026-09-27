@@ -334,3 +334,25 @@ Never collapse these states into the single word "done."
    - Inside text boxes, a logical row can grow vertically up to **5 visual sub-rows** so that words are NEVER truncated, sliced, or cut off.
    - Cap vertical row growth at **5 visual sub-rows maximum** to prevent visual clutter and keep presentation clean.
    - Every sub-row must maintain exact horizontal monospace padding and border alignment (`+` and `|`).
+
+---
+
+## 11. Corporate Taxonomy Law (The 10 Primary Companies & Somnarak Outsider Factories)
+
+1. **The 10 Primary Companies (5 Main & 5 Sub):**
+   - Somnarak officially recognizes exactly **ten Primary Companies** holding sovereign and civic municipal charters:
+     - **The 5 Main Companies (Sovereign Core Wings):**
+       1. *The Reverie Directorate (R.D. / 몽환국)* — Facility 01 Containment, Sorrow Harvesting, M.A.W. Forge.
+       2. *Subterranean Expedition Division (SED / 심연 탐사대)* — Deep Maw Abyssal Cartography & Void Bore Fleet.
+       3. *Underworld Cleanup Descend (UCD / 지하 정화단)* — Tactical Urban Purge, Anti-Fray pacification.
+       4. *The Memory Archive (Gieok Jeojangso / 기억 저장소)* — Sub-Alpha Mnemonic Strata & Key Page Extraction.
+       5. *The Horizon Caravan (Jipyeongseondae / 지평선대)* — Trans-Desolate Overland Transit & Armored Fleet.
+     - **The 5 Sub Companies (Chartered Infrastructure Trusts):**
+       1. *Chakhwi Siphon Energy Trust (착취 추출 공사)* — Liquid Han siphoning, geothermal conduits, grid power.
+       2. *Jikjo Veil-Works Industrial Guild (직조 방벽 공업)* — Acoustic Veil weaving, hazard armor fabrics.
+       3. *Urim Heavy Resonance Manufactory (울림 중공업)* — Heavy acoustic artillery, anti-distortion pylons.
+       4. *Cheongsan Mnemonic Clearing House (청산 결제 금융)* — Municipal debt ledger, bond underwriting, credit currency.
+       5. *Hwayeom Thermal Reclamation Corps (화염 열원 정화단)* — Deep-sump incinerators, chemical slurry scrubbers, bio-slag curfew disposal.
+2. **Somnarak Outsider Factory Architecture (솜나락 외곽 공장 — The Non-Known Sector):**
+   - **Universal Rule:** Any and all industrial, manufacturing, refining, or fabrication facilities **other than the 10 Primary Companies** are designated **Somnarak Outsider Factory** (or plural: *Somnarak Outsider Factories*).
+   - "Other than the 10 is the non-known one": They represent the unchartered, unregistered, off-grid fringe operating in the deep sumps of Zone B, the outer perimeter of Zone E, and the Desolate outskirts without Council of Sighs licensing.

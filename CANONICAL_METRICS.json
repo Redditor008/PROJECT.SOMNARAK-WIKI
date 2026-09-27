@@ -17,7 +17,11 @@
     "story_cantos_count": 6,
     "mnemonic_cycles_canonical_total": 1778,
     "specialist_cadres_count": 10,
-    "underworld_syndicates_count": 5
+    "underworld_syndicates_count": 5,
+    "primary_companies_total": 10,
+    "primary_companies_main": 5,
+    "primary_companies_sub": 5,
+    "outsider_factories_classification": "Somnarak Outsider Factory (All non-10 unchartered facilities)"
   },
   "canonical_combat_and_hardware": {
     "game_battle_scenarios_and_systems": 16,

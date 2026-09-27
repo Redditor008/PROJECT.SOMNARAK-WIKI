@@ -302,4 +302,25 @@ The Hand of Hope has opened.
 
 ---
 
-*"Somnarak has one city, three Corporations, and a thousand sorrows. The Corporations are how the city survives. The sorrows are why it needs to."*
+## Expanded Corporate Taxonomy: The 10 Primary Companies & Somnarak Outsider Factories
+
+In the expanded worldbuilding of Year 4,238, Somnarak's corporate landscape is codified into:
+- **10 Primary Companies:**
+  - **5 Main Companies (Sovereign Core Wings):**
+    1. The Reverie Directorate (R.D.) — Facility 01 Containment & M.A.W. Forge
+    2. Subterranean Expedition Division (SED) — Deep Maw Abyssal Cartography
+    3. Underworld Cleanup Descend (UCD) — Tactical Urban Purge & Anti-Fray
+    4. The Memory Archive (Gieok Jeojangso) — Sub-Alpha Mnemonic Strata & Pages
+    5. The Horizon Caravan (Jipyeongseondae) — Trans-Desolate Overland Transit
+  - **5 Sub Companies (Chartered Infrastructure Trusts):**
+    1. Chakhwi Siphon Energy Trust — Liquid Han Mining & Power Grid
+    2. Jikjo Veil-Works Industrial Guild — Acoustic Veil Weaving & Armor Fabrics
+    3. Urim Heavy Resonance Manufactory — Heavy Kinetic Artillery & Pylons
+    4. Cheongsan Mnemonic Clearing House — Debt Ledgers & Credit Currency
+    5. Hwayeom Thermal Reclamation Corps — Thermal Curfew Scorchers & Slurry Scrubbers
+- **Somnarak Outsider Factory (솜나락 외곽 공장):**
+  - Universal classification for all other manufacturing, salvage, or production facilities outside the 10 Primary Companies ("other than the 10 is the non-known one"). Operating in the sumps, fringes, and Outskirts without Council charters.
+
+---
+
+*"Somnarak has one city, ten Primary Companies, and thousands of sorrows. The Companies are how the city survives. The sorrows are why it needs to."*
