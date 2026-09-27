@@ -345,7 +345,7 @@ Never collapse these states into the single word "done."
        1. *The Reverie Directorate (R.D. / 몽환국)* — Facility 01 Containment, Sorrow Harvesting, M.A.W. Forge.
        2. *Subterranean Expedition Division (SED / 심연 탐사대)* — Deep Maw Abyssal Cartography & Void Bore Fleet.
        3. *Underworld Cleanup Descend (UCD / 지하 정화단)* — Tactical Urban Purge, Anti-Fray pacification.
-       4. *The Memory Archive (Gieok Jeojangso / 기억 저장소)* — Sub-Alpha Mnemonic Strata & Key Page Extraction.
+       4. *Won-Hyeong Biologics (Won-Hyeong Saengche Bok-won Gongsa / 원형 생체 복원 제약 공사)* — Sovereign Pharmacopoeia, Composure Chemistry, Flesh-Suture & Cellular Reset (`The_WONHYEONG_BIOLOGICS.md`).
        5. *The Horizon Caravan (Jipyeongseondae / 지평선대)* — Trans-Desolate Overland Transit & Armored Fleet.
      - **The 5 Sub Companies (Chartered Infrastructure Trusts):**
        1. *Chakhwi Siphon Energy Trust (착취 추출 공사)* — Liquid Han siphoning, geothermal conduits, grid power.
@@ -353,6 +353,8 @@ Never collapse these states into the single word "done."
        3. *Urim Heavy Resonance Manufactory (울림 중공업)* — Heavy acoustic artillery, anti-distortion pylons.
        4. *Cheongsan Mnemonic Clearing House (청산 결제 금융)* — Municipal debt ledger, bond underwriting, credit currency.
        5. *Hwayeom Thermal Reclamation Corps (화염 열원 정화단)* — Deep-sump incinerators, chemical slurry scrubbers, bio-slag curfew disposal.
+   - **Institutional Distinction (Memory Archive):** The Memory Archive (*Gieok Jeojangso* / 기억 저장소) is an Institutional Sanctuary & Mnemonic Library (carved within the sub-Alpha root strata for soul preservation and Key Page extraction), NOT a commercial company.
+   - **Corporate Canon Mandate (PM Wing Analogy):** Paralleling Project Moon where prominent City Wings (e.g., T Corp, W Corp, K Corp, R Corp) possess brim-full lore, history, technologies, and dark secrets without each requiring a standalone titular game, Somnarak companies exist as complete worldbuilding pillars regardless of whether an interactive game campaign is centered upon them.
 2. **Somnarak Outsider Factory Architecture (솜나락 외곽 공장 — The Non-Known Sector):**
    - **Universal Rule:** Any and all industrial, manufacturing, refining, or fabrication facilities **other than the 10 Primary Companies** are designated **Somnarak Outsider Factory** (or plural: *Somnarak Outsider Factories*).
    - "Other than the 10 is the non-known one": They represent the unchartered, unregistered, off-grid fringe operating in the deep sumps of Zone B, the outer perimeter of Zone E, and the Desolate outskirts without Council of Sighs licensing.

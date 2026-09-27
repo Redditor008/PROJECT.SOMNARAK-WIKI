@@ -310,8 +310,9 @@ In the expanded worldbuilding of Year 4,238, Somnarak's corporate landscape is c
     1. The Reverie Directorate (R.D.) — Facility 01 Containment & M.A.W. Forge
     2. Subterranean Expedition Division (SED) — Deep Maw Abyssal Cartography
     3. Underworld Cleanup Descend (UCD) — Tactical Urban Purge & Anti-Fray
-    4. The Memory Archive (Gieok Jeojangso) — Sub-Alpha Mnemonic Strata & Pages
+    4. Won-Hyeong Biologics (Won-Hyeong) — Sovereign Pharmacopoeia, Composure Chemistry & Flesh-Suture
     5. The Horizon Caravan (Jipyeongseondae) — Trans-Desolate Overland Transit
+  - *(Institutional Note: The Memory Archive [Gieok Jeojangso] is classified as an Institutional Sanctuary & Mnemonic Library, not a commercial company. Paralleling Project Moon where prominent Wings [e.g. T Corp, W Corp, K Corp] have brim-full lore without dedicated games, Somnarak companies exist as complete lore pillars.)*
   - **5 Sub Companies (Chartered Infrastructure Trusts):**
     1. Chakhwi Siphon Energy Trust — Liquid Han Mining & Power Grid
     2. Jikjo Veil-Works Industrial Guild — Acoustic Veil Weaving & Armor Fabrics

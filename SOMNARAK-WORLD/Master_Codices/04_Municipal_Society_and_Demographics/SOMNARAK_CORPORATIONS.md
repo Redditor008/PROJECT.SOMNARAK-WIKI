@@ -13,23 +13,27 @@
 | Frontiers                                                           |
 | EPOCH            : Year 4,238 (The Dawn of Hope Restoration)        |
 +---------------------------------------------------------------------+
-| THE FIVE AUTONOMOUS INSTITUTIONAL WINGS:                            |
+| THE FIVE MAIN COMPANIES (SOVEREIGN CORE WINGS):                     |
 | 1. Reverie Directorate (R.D.) : Facility 01 Containment & M.A.W.    |
 | Forge                                                               |
 | 2. Exploration Decreed (SED) : Subterranean Cartography & Abyss     |
 | Fleet                                                               |
 | 3. Cleanup Descend (UCD) : Tactical Urban Purge & Anti-Fray Force   |
-| 4. The Memory Archive (Gieok) : Sub-Alpha Spire & Key Page          |
-| Extraction                                                          |
-| 5. The Horizon Caravan (Jipyeong): Trans-Desolate Transit &         |
-| Inter-City Road                                                     |
+| 4. Won-Hyeong Biologics (WHB) : Composure Chemistry & Flesh-Suture  |
+| 5. The Horizon Caravan (Jipyeong): Trans-Desolate Overland Transit  |
 +---------------------------------------------------------------------+
-| CIVIC INFRASTRUCTURE CONGLOMERATES & INDUSTRIAL TRUSTS:             |
-| - Siphon Guilds (Chakhwi) : Liquid Han Mining & Geothermal Power    |
-| - Weavers' Syndicates (Jikjo) : Acoustic Veil Weaving & Defense     |
-|   Fabrics                                                           |
-| - Acoustic Manufactories : Heavy Kinetic Artillery & Sonic Pylons   |
-| - Municipal Underworld Frays : Black-Market Cartels & Usury Houses  |
+| THE FIVE SUB COMPANIES (CHARTERED INFRASTRUCTURE TRUSTS):           |
+| 1. Chakhwi Siphon Energy Trust : Liquid Han & Geothermal Power Grid |
+| 2. Jikjo Veil-Works Guild      : Acoustic Veil & Resonance Armor    |
+| 3. Urim Heavy Manufactory      : Heavy Kinetic Artillery & Pylons   |
+| 4. Cheongsan Clearing House    : Debt Ledgers & Mnemonic Currency   |
+| 5. Hwayeom Reclamation Corps   : Thermal Deep-Sump Incinerators     |
++---------------------------------------------------------------------+
+| UNCHARTERED SECTOR (THE NON-KNOWN INDUSTRIAL FRINGE):               |
+| - Somnarak Outsider Factory    : All Non-10 Unchartered Facilities  |
++---------------------------------------------------------------------+
+| INSTITUTIONAL SANCTUARY (NOT A COMMERCIAL COMPANY):                 |
+| - The Memory Archive (Gieok)   : Mnemonic Library & Spire Strata    |
 +=====================================================================+
 ```
 
@@ -45,19 +49,32 @@ The survival of human civilization upon the post-cataclysmic world of **Mugenhan
 Each of the Five Sovereign Institutions possesses total jurisdictional extraterritoriality within its assigned operational theater:
 
 ```text
-+=====================================================================+
-|                THE PENTAGONAL JURISDICTIONAL MANDATE                |
 +---------------------------------------------------------------------+
-| INSTITUTION           | OPERATIONAL DOMAIN      | STRATEGIC MANDATE |
-| ----------------------+-------------------------+------------------ |
-| Reverie Directorate                                                 |
-|   | Subterranean Facility 01| Containment & M.A.W.                  |
-| Exploration Decreed   | Deep Abyssal Strata     | Maw Cartography   |
-| Cleanup Descend       | Municipal Underworld    | Anti-Fray Purge   |
-| The Memory Archive                                                  |
-|   | Sub-Alpha Roots (-3.2km)| Mnemonic Key Pages                    |
-| The Horizon Caravan   | The Desolate (Overland) | Inter-City Bridge |
-+=====================================================================+
+|                THE PENTAGONAL JURISDICTIONAL MANDATE                |
++======================+======================+=======================+
+| INSTITUTION & WING   | OPERATIONAL DOMAIN   | STRATEGIC MANDATE     |
++======================+======================+=======================+
+| Reverie Directorate  | Subterranean         | Containment & M.A.W.  |
+| (R.D. / Facility 01) | Facility 01          | Extraction            |
+|                      | (Beneath Alpha Tree) |                       |
++----------------------+----------------------+-----------------------+
+| Exploration Decreed  | Deep Abyssal Strata  | Abyssal Maw           |
+| (SED / Bore Fleet)   | (-50m to Nadir)      | Cartography &         |
+|                      |                      | Drilling              |
++----------------------+----------------------+-----------------------+
+| Cleanup Descend      | Municipal Underworld | Tactical Anti-Fray    |
+| (UCD / Strike Force) | (The Raw / Zones     | Urban Purge           |
+|                      | B-D)                 |                       |
++----------------------+----------------------+-----------------------+
+| Won-Hyeong Biologics | Pan-Municipal        | Composure Ampules &   |
+| (WHB / Jade Spire)   | Medical              | Flesh-Suture          |
+|                      | Grid & Sub-Vault 04  |                       |
++----------------------+----------------------+-----------------------+
+| The Horizon Caravan  | The Desolate         | Inter-City            |
+| (Drift Throne)       | Overland             | Reconnection & Trade  |
+|                      | (Wasteland           |                       |
+|                      | Corridors)           |                       |
++----------------------+----------------------+-----------------------+
 ```
 
 Under the **Treaty of the Five Spikes (오침조약 / 五針條約)** signed following the great fracture of Year 3,850, no single institution—including the High Council—may usurp the internal chains of command, proprietary technologies, or field armories of another. If the Reverie Directorate locks its blast gates, the Council cannot enter. If the Horizon Caravan launches the Drift Throne into the wastes, no municipal warrant may arrest its treads.
@@ -151,37 +168,45 @@ The **UCD Task Force** functions as Somnarak's tactical urban pacification and a
 
 The UCD's six major campaigns—documenting the takedown of the Veil Smugglers, Memory Laundering Dens, and the Underworld King—are recorded in **Katharcheok (카타르체옥 — The Six Pacifications)**.
 
-### 2.4 The Memory Archive (기억 저장소 — Gieok Jeojangso)
+### 2.4 Won-Hyeong Biologics (  원형 생체 복원 제약 공사   — Won-Hyeong Saengche Bok-won Gongsa)
 
-Carved directly inside the sub-Alpha root strata between -2,350m and -3,250m, the **Memory Archive** is the sovereign sanctuary of human consciousness. Here, memories deemed too traumatic, destabilizing, or corrosive for surface life are surgically extracted, cataloged into living books, and transmuted into sovereign **Key Pages (핵심 책장)**.
+Operating from the monumental **Jade Spire (  옥빛 첨탑  )** at the border of Zone A and Zone D, **Won-Hyeong Biologics** is the sovereign pharmaceutical, flesh-suture, and composure restoration conglomerate of Somnarak. Established under Council Sovereign Charter 104 following the Great Calcification Crisis of Year 3,892, Won-Hyeong commands an absolute monopoly over the chemical and biological technologies that preserve human sanity and physiological integrity against ambient sorrow.
 
-- **Sovereign Headquarters:** The Spire of Living Pages, Deep Sub-Alpha Roots (-3,250m).
-- **Primary Operational Mandate:** Reception and pacification of destabilized human souls, archival codification of planetary history prior to the Great Fracture, and synthesis of mnemonic armaments.
-- **Insignia & Colors:** The Open Book with an Iris of Silver Light; starlight silver and parchment cream.
+- **Sovereign Headquarters:** The Jade Spire & Crucible Bio-Labs (Zone D / A Frontier).
+- **Primary Operational Mandate:** Pan-municipal synthesis of Composure Ampules (Grades I–V), cultivation of Living Suture Mesh scaffolds, manufacture of anti-calcification dialysis filters, and emergency medical restoration for containment forces.
+- **Insignia & Colors:** The Jade Ouroboros enclosing an Ascending Tuning Fork; pale celadon green, surgical ivory, and amber.
 
 ```text
-+=====================================================================+
-|             THE MEMORY ARCHIVE: SEVEN STRATA RECEPTIONS             |
 +---------------------------------------------------------------------+
-| FLOOR & STRATUM       | KEEPING ARCHIVIST                           |
-|   | PSYCHIC TRAUMA KEY                                              |
-| ----------------------+-------------------------+------------------ |
-| Floor 1: Ash Strata   | Keeper Vaelen           | Lost Origins      |
-| Floor 2: Salt Strata  | Keeper Miran                                |
-|   | Famine & Bitter Han                                             |
-| Floor 3: Iron Strata  | Keeper Brand                                |
-|   | Industrial Mutilation                                           |
-| Floor 4: Rust Strata  | Keeper Sula                                 |
-|   | Decay & Abandonment                                             |
-| Floor 5: Silence Strat| Keeper Kaelen                               |
-|   | Acoustic Censorship                                             |
-| Floor 6: Lamentation  | Keeper Elyra            | The First Weeping |
-| Floor 7: The Original | The Original Archivist                      |
-|   | Planetary Awakening                                             |
-+=====================================================================+
+|        WON-HYEONG BIOLOGICS: FIVE OPERATIONAL DIRECTORATES          |
++======================+======================+=======================+
+| DIRECTORATE & WING   | CORE DOMAIN          | PRIMARY OUTPUT        |
++======================+======================+=======================+
+| Directorate 01       | Composure chemistry  | Composure Ampules     |
+| Pyeongjeong-guk      | & anti-distortion    | (Grades I-V) &        |
+|                      | research             | Neuro-Salves          |
++----------------------+----------------------+-----------------------+
+| Directorate 02       | Living cellular      | Living Suture Mesh    |
+| Saengche Bonghapguk  | flesh-weaving & limb | Gauze & Jade-Bone     |
+|                      | prosthetics          | Limbs                 |
++----------------------+----------------------+-----------------------+
+| Directorate 03       | Forensic medical     | Defaulted Patient     |
+| Imsang Chaemuguk     | debt audit &         | Organ & Donor         |
+|                      | biological liens     | Requisition           |
++----------------------+----------------------+-----------------------+
+| Directorate 04       | Deep-vat catalytic   | Stabilized Archetype  |
+| Simcheung Baeyangguk | synthesis (Sub-Vault | Catalyst Solution     |
+|                      | 04)                  |                       |
++----------------------+----------------------+-----------------------+
+| Directorate 05       | Paramilitary         | Cryogenic             |
+| Changbaekhan         | intelligence &       | Suture-Lances &       |
+| Jiphaeng             | patent protection    | Counterfeit Purge     |
++----------------------+----------------------+-----------------------+
 ```
 
-Led by the synthesized consciousness of **Secretary Seiyon**, the Archive executes Receptions using dialectic inquests and 10-node combat chambers, transmuting centuries of human agony into enduring crystalline strength.
+Headed by **High Director Baek Eun-Woo (  백은우  )**, Won-Hyeong synthesizes the proprietary **Archetype Catalyst (  원형 촉매  )**. While the public believes this miracle restorer is forged from mineral salts, the conglomerate secretly maintains three hundred and twenty living donors in **Sub-Vault 04: The Sanctuary of Perpetual Weeping (  영구 평정 성소  )**, continuously harvesting their tear secretions to stabilize the city's composure medicine supply.
+
+*(Institutional Note: The Memory Archive [  기억 저장소   — Gieok Jeojangso] carved within the sub-Alpha root strata is the city's solemn Mnemonic Repository and Spire Library for soul preservation and Key Page extraction, not a commercial enterprise or chartered corporation. See `The_MEMORY_ARCHIVE.md`.)*
 
 ### 2.5 The Horizon Caravan (지평선대 — Jipyeongseon Dae)
 
@@ -228,7 +253,7 @@ Beneath the overarching aegis of the municipal order, Somnarak's industrial prod
 | 1. Reverie Directorate (R.D. / Monghwanguk) : Containment & Forge   |
 | 2. Subterranean Expedition (SED / Tamsadae) : Abyssal Cartography   |
 | 3. Underworld Cleanup (UCD / Jeonghwadan) : Urban Purge & Curfew    |
-| 4. The Memory Archive (Gieok Jeojangso) : Mnemonic Strata & Key     |
+| 4. Won-Hyeong Biologics (WHB / Wonhyeong) : Composure & Flesh Suture|
 | 5. The Horizon Caravan (Jipyeongseondae) : Trans-Desolate Transit   |
 +---------------------------------------------------------------------+
 | THE 5 SUB COMPANIES (CHARTERED INFRASTRUCTURE TRUSTS):              |
@@ -302,27 +327,34 @@ Outside the ten chartered Primary Companies (the 5 Main and 5 Sub), all remainin
 
 ## Section IV: Inter-Institutional Jurisdictions & Resource Pipeline
 
-The Five Institutions depend upon an intricate, closed-loop resource circulation network. No single wing can survive in isolation:
+The Five Sovereign Institutions depend upon an intricate, closed-loop resource circulation network. No single wing can survive in isolation:
 
 ```text
-+=====================================================================+
-|           SOMNARAK STRATEGIC RESOURCE CIRCULATION PIPELINE          |
 +---------------------------------------------------------------------+
-| ORIGINATING INSTITUTION | DELIVERED RESOURCE       | RECIPIENT WING |
-| ------------------------+--------------------------+--------------- |
-| Reverie Directorate     | Extracted M.A.W. Weapons                  |
-|   | UCD & SED Shock Teams                                           |
-| SED Abyssal Bore Fleet  | Pre-Calamity Relic Ores                   |
-|   | R.D. Floor 3 Forge                                              |
-| UCD Strike Force        | Confiscated Sorrow Casks                  |
-|   | R.D. Containment Cells                                          |
-| Memory Archive          | Transmuted Key Pages                      |
-|   | All 5 Command Staff                                             |
-| Horizon Caravan         | Cheonbulok Rage-Crystals                  |
-|   | Giltong Energy Grid                                             |
-| Horizon Caravan         | Rescued Skilled Refugees                  |
-|   | SED & UCD Engineering                                           |
-+=====================================================================+
+|          SOMNARAK STRATEGIC RESOURCE CIRCULATION PIPELINE           |
++======================+======================+=======================+
+| ORIGINATING WING     | DELIVERED RESOURCE   | RECIPIENT INSTITUTION |
++======================+======================+=======================+
+| Reverie Directorate  | Extracted M.A.W.     | UCD Shock Teams, SED  |
+| (Facility 01)        | Weapons & Stabilized | Bore Fleet &          |
+|                      | Sorrow-Bile          | Won-Hyeong Vats       |
++----------------------+----------------------+-----------------------+
+| SED Abyssal Fleet    | Pre-Calamity Relic   | R.D. Floor 3 Forge &  |
+| (Deep Bore Fleet)    | Ores & Volcanic      | Won-Hyeong Dialysis   |
+|                      | Minerals             | Labs                  |
++----------------------+----------------------+-----------------------+
+| Underworld Cleanup   | Confiscated Sorrow   | R.D. Containment      |
+| (UCD Strike Force)   | Casks & Illegal      | Cells & Municipal     |
+|                      | Contraband           | Re-Smelters           |
++----------------------+----------------------+-----------------------+
+| Won-Hyeong Biologics | Composure Ampules,   | R.D. Containment      |
+| (The Jade Spire)     | Living Suture &      | Crews, UCD Breachers  |
+|                      | Dialysis Kits        | & SED Fleets          |
++----------------------+----------------------+-----------------------+
+| The Horizon Caravan  | Cheonbulok           | Council Energy Grid,  |
+| (The Drift Throne)   | Rage-Crystals &      | Won-Hyeong & SED      |
+|                      | Desert Mineral Salts | Workshops             |
++----------------------+----------------------+-----------------------+
 ```
 
 When a **Category-5 Ordeal** or **Sovereign Fracture Event** breaches municipal containment, protocol dictates the immediate activation of the **Red Accord (적색 협정)**:
@@ -331,7 +363,7 @@ When a **Category-5 Ordeal** or **Sovereign Fracture Event** breaches municipal 
 2. **Stage 2 (Street Sweep):** UCD seals Zone B and C escape avenues with non-lethal acoustic gas and leaded blast gates.
 3. **Stage 3 (Abyssal Venting):** SED diverts excess liquid sorrow down borehole release shafts to prevent urban flooding.
 4. **Stage 4 (Direct Suppression):** Reverie Directorate Floor 7 Shadow Corps and Floor 1 Command deploy with Grade Omega M.A.W. gear to terminate the sovereign core.
-5. **Stage 5 (Mnemonic Recovery):** Memory Archive dispatches projection lenses to gather dissipated soul fragments, preventing residual haunting.
+5. **Stage 5 (Medical Resuscitation & Soul Preservation):** Won-Hyeong Biologics deploys Pale Bailiff triage transports with Grade V Composure Ampules to resuscitate surviving breachers, while the Memory Archive records dissipated soul traces to prevent residual haunting.
 
 ---
 
