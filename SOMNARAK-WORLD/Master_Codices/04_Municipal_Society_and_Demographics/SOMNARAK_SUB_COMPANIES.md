@@ -108,7 +108,7 @@ When crystallized sorrow-tar calcifies inside high-pressure steam conduits, auto
 
 ### 3.2 Core Technology: Harmonic Resonance Weaving
 The survival of every citizen outside their home depends on the fabrics woven by Jikjo. Operating three hundred monumental **Harmonic Looms (  공명 직기  )** that span four city blocks:
-- **Acoustic Cowls & Veil-Cloaks:** Woven from basalt-threaded silk and leaded polymer yarns calibrated to vibrate at 432 Hz, actively dampening ambient sorrow frequencies and protecting wearers from acoustic brain-bleed.
+- **Acoustic Cowls & Veil-Cloaks:** Woven from basalt-threaded silk and leaded polymer yarns calibrated through harmonic tuning forks, actively dampening ambient sorrow frequencies and protecting wearers from acoustic brain-bleed.
 - **Hazard Uniform Fabrics:** Specialized textiles resistant to the four sorrow elements: flame-retardant asbestos cloth countering Grudge, hydrophobic wax-linings countering Lament, non-conductive void-mesh countering Void, and high-density lead-woven vests countering Weight.
 - **Blast Curtains:** Enormous acoustic tapestries dropped across subway tunnels and residential streets during breaches to contain shockwaves.
 

@@ -228,7 +228,7 @@ The **Horizon Caravan** is Somnarak's trans-continental overland expeditionary a
 |   | Sea of Glass Drift                                              |
 | Wright Gwan (Engineer)| Ley-Siphon Drive Engine                     |
 |   | Slag Pit Arena Duel                                             |
-| Sora (Chief Ley-Seer) | 528 Hz Acoustic Sonar   | Magma Core Quench |
+| Sora (Chief Ley-Seer) | Resonant Ley-Sonar      | Magma Core Quench |
 | Heavy Dredger Corps   | Class IV Exo-Armors                         |
 |   | Corsair Defile Rout                                             |
 | Dune Scout Outriders  | Supersonic Sand-Skimmers| Mugeukji Boundary |

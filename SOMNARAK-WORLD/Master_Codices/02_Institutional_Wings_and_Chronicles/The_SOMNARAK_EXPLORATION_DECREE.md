@@ -247,7 +247,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 
 ### 7.4 Dreamer Sora (소라 / 昭羅)
 - **Specialization:** Psychic Weaver & Mnemonic Sanity Repose.
-- **Combat Style:** Wields the **528 Hz Resonant Damping Cowl**, emitting harmonic soundwaves that restore operative Composure and quench feral entity rage.
+- **Combat Style:** Wields the **Silver Resonant Damping Cowl**, emitting harmonic soundwaves that restore operative Composure and quench feral entity rage.
 - **Key Passive:** `[Acoustic Repose]` — Winning a clash restores +15 Composure (SP) to the entire squad.
 
 ### 7.5 Senior Archivist Minjae (민재 / 珉載)
@@ -316,7 +316,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 | - Composure Gauge (0-50 SP): Measures sanity against depth terror.  |
 | - Depth Claustrophobia (< 15 SP): Operative suffers panic, -2       |
 |   Clash.                                                            |
-| - Harmonic Repose: Sora's 528 Hz cowl restores +15 SP squad-wide.   |
+| - Harmonic Repose: Sora's Silver cowl restores +15 SP squad-wide.   |
 | ------------------------------------------------------------------- |
 | P3: PARRY / PROTECTION (KINETIC BULWARK & HARMONIC REPOSE)          |
 | - Bastion Kinetic Lock: Harin reflects physical impact back as      |
