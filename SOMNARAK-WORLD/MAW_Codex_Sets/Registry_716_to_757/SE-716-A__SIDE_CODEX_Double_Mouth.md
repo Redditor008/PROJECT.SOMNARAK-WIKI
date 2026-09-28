@@ -26,7 +26,7 @@ Double Mouth formed from a witness whose true report was dismissed until memory 
 | The Twofold Plate | 1.0/0.4/1.8/1.2; max 4; 20 Echoes | `SE-716-C__MAW-S_The_Twofold_Plate.md` |
 | The Twofold Voice | Tail; 5%; +1 Resilience | `SE-716-D__MAW-G_The_Twofold_Voice.md` |
 
-**Full-set resonance:** Contradiction Held Together lets the operator witness the source wound without repeating its coercion. Weapon removes the immediate harmful compulsion, Suit preserves the bearer, and Gift identifies the source condition. Misuse reverses protection and reenacts the originating wound.
+**Full-set resonance — The Dual Cadence:** *Contradiction Held Together* resonates when conflicting statements threaten cognitive rupture. The blade severs enforced silence without invalidating either truth; the Plate anchors the operator's thoracic cavity against acoustic shearing; and the Borrowed Voice translates antagonistic grief into simultaneous dual frequencies. Misuse—attempting to force one statement to silence the other—causes both mouths to shriek inward, fracturing the bearer's eardrums and locking the vocal cords in perpetual paralysis.
 
 **Recorded incidents:** the Harmonized Testimony, where the blade cut a censorship order instead of either voice; the Shouting Plate incident, where armor locked until grief and accusation were recorded separately; the Borrowed Voice bestowal, where the Gift made its bearer speak both accounts without choosing a winner.
 

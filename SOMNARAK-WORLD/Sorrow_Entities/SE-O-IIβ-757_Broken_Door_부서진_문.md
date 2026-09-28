@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- If resistance fails, the entity's pressure transfers to the worker's composure and the gauge reflects the exchange. **Resilience** and may increase the Sorrow Gauge.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle increases the probability of Fracture, identity drift, or environmental destabilisation. the entity’s documented emotional, physical, identity, or environmental effect.
-- The equipment section lists what the M.A.W. takes. The field confirms it. There is no free extraction. recorded in the equipment section.
-- If the condition is not met, the entity reverts to its activation behavior — the sorrow, denied its resolution, seeks its own; the entity follows its breach, activation, or expansion behavior.
+- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
+- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
+- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
+- If the resolution condition is not fulfilled, the entity reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
 **Physical Form:** A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire.

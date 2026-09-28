@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- When a worker breaks under the entity's pressure, the gauge climbs and the worker Fractures — two failures for the price of one. **Clarity** and may increase the Sorrow Gauge.
-- Sustained proximity activates the entity's secondary effects — the ones the short-cycle file warns about but the field rarely sees until too late. the entity’s documented emotional, physical, identity, or environmental effect.
-- Wielding a M.A.W. means accepting the toll: the entity's sorrow flows backward through the equipment into the user. recorded in the equipment section.
-- When resolution fails, the entity's containment story continues on its own terms — through breach, expansion, or the documented escalation; the entity follows its breach, activation, or expansion behavior.
+- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Clarity** shatters into a psychological Fracture—a catastrophic dual failure.
+- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
+- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
+- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through containment breach, territorial expansion, and rapid escalation.
 
 ## Appearance
 **Physical Form:** A well whose rim spreads across the ground in thin channels of blue sorrow. Its water reaches places far from the opening.

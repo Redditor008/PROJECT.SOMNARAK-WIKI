@@ -26,7 +26,7 @@ Door to No One formed from a family home divided before goodbye, leaving a door 
 | The Broken Plate | 1.0/0.4/1.8/1.2; max 4; 20 Echoes | `SE-757-C__MAW-S_The_Broken_Plate.md` |
 | The Broken Hinge | Tail; 5%; +1 Resilience | `SE-757-D__MAW-G_The_Broken_Hinge.md` |
 
-**Full-set resonance:** Threshold Without Reunion lets the operator witness the source wound without repeating its coercion. Weapon removes the immediate harmful compulsion, Suit preserves the bearer, and Gift identifies the source condition. Misuse reverses protection and reenacts the originating wound.
+**Full-set resonance — The Open Sill:** *Threshold Without Reunion* sanctifies the courage of leaving an entryway unlatched without succumbing to delusional expectation. The Fang severs coercive spatial anomalies and false apparitions; the Plate shields the bearer against hypothermic mountain drafts blowing across the sill; and the Broken Hinge registers genuine footsteps while acknowledging absolute absence. Misuse—forcing a closed boundary open or trying to compel a lost presence to manifest—causes the doorframe to slam shut across the bearer's shadow, pinning them to the threshold under freezing Void pressure.
 
 **Recorded incidents:** the False Reopening, when Fang cut a coercive seal rather than the empty doorway; the Mid-Threshold Plate vigil, where the wearer stepped aside for separate choices; the Broken Hinge bestowal, which sensed movement without promising anyone waited beyond.
 

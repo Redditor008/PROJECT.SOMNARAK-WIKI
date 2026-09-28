@@ -26,7 +26,7 @@ The Vanished Rope formed from one traveler holding the invisible end after a Han
 | The Severed Shroud | 0.4/1.0/1.6/0.8; max 5; 10 Echoes | `SE-723-C__MAW-S_The_Severed_Shroud.md` |
 | The Severed Knot | Tail; 5%; +1 Clarity | `SE-723-D__MAW-G_The_Severed_Knot.md` |
 
-**Full-set resonance:** The End That Cannot Be Pulled lets the operator witness the source wound without repeating its coercion. Weapon removes the immediate harmful compulsion, Suit preserves the bearer, and Gift identifies the source condition. Misuse reverses protection and reenacts the originating wound.
+**Full-set resonance — The Severed Tether:** *The End That Cannot Be Pulled* manifests the phantom tension of a lifeline whose opposite anchor has ceased to exist. The Requiem severs false compulsive tethers without desecrating the memory of the fallen; the Shroud bears the phantom kinetic drag of bottomless chasms; and the Last Knot marks structural stress along extraction routes. Misuse—using the set to force an unwilling bond or pretend a lost partner still holds the other end—redirects the chasm's deadweight into the bearer's spine, dragging them toward the nearest structural fissure.
 
 **Recorded incidents:** the Reverse Haul, when Requiem cut a compulsive pull rather than the bond; the Empty Tension vigil, when Shroud bore weight from an invisible rope; the Last Knot bestowal, which marked connection without pretending the missing end remained occupied.
 

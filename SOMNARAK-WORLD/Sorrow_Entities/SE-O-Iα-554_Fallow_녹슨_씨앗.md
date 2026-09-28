@@ -91,10 +91,10 @@
 
 ### Consequences
 
-- Resistance failure channels the entity's sorrow directly into the worker, damaging stability and feeding the gauge. **Clarity** and may increase the Sorrow Gauge.
-- The longer the exposure, the deeper the effect: the entity's sorrow seeps past protocol and into the worker's own psychology. the entity’s documented emotional, physical, identity, or environmental effect.
-- The M.A.W. is not free. Its cost — physical, psychological, or temporal — is documented but unavoidable. recorded in the equipment section.
-- Failure to resolve means the entity follows its breach protocol: the gauge climbs, the protocols engage, and the sorrow acts; the entity follows its breach, activation, or expansion behavior.
+- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
+- The longer the exposure, the deeper the wound: the entity’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
+- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
+- Failure to achieve resolution triggers the entity’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
 **Physical Form:** A corroded seed cracked into a bristling creature of rusted root-spines and orange creepers. **Movement:** It rolls and crawls across the Desolate on its spines.

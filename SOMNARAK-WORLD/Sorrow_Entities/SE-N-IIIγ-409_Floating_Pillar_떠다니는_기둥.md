@@ -91,10 +91,10 @@
 
 ### Consequences
 
-- A worker who cannot hold against the entity's sorrow becomes a conduit — pressure flows through them and back into the gauge. **Composure** and may increase the Sorrow Gauge.
-- The entity's documented effects intensify with duration. What is manageable in a five-minute cycle becomes dangerous in fifteen. the entity’s documented emotional, physical, identity, or environmental effect.
-- Each M.A.W. use debits the wielder — in composure, in memory, in something the grade does not measure. recorded in the equipment section.
-- Without resolution the sorrow does not dissipate; it breaches. The entity follows the escalation recorded in its file; the entity follows its breach, activation, or expansion behavior.
+- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
+- The entity’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
+- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
+- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in its dossier.
 
 ## Appearance
 **Primary Form:** An ethereal voice surrounding a pillar-shaped absence. The voice speaks from above and below at once.

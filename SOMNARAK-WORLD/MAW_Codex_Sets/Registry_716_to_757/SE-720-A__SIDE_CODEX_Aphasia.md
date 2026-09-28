@@ -26,7 +26,7 @@ Aphasia formed from a witness interrupted until an accusation melted into incomp
 | The Melted Plate | 1.0/0.4/1.8/1.2; max 5; 10 Echoes | `SE-720-C__MAW-S_The_Melted_Plate.md` |
 | The Melted Word | Tail; 5%; +1 Resilience | `SE-720-D__MAW-G_The_Melted_Word.md` |
 
-**Full-set resonance:** Words Left Unfinished lets the operator witness the source wound without repeating its coercion. Weapon removes the immediate harmful compulsion, Suit preserves the bearer, and Gift identifies the source condition. Misuse reverses protection and reenacts the originating wound.
+**Full-set resonance — The Unspoken Indictment:** *Words Left Unfinished* crystallizes the agony of testimony violently choked off at the threshold of speech. The Melted Fang pierces through cognitive suppression seals without inventing false closure; the Melted Plate disperses acoustic suppression shocks across the breastplate; and the Melted Word preserves fragmentary syllables without forcing completion. If the bearer presumes to speak a fabricated ending or suppress a difficult fragment, the set's armor contracts against the trachea, drowning the wielder in their own unvoiced syllables.
 
 **Recorded incidents:** the Inserted Name error, when Fang attacked the person an operator guessed; the Sentence Brace event, when Plate released after the wearer admitted a missing verb; the Melted Word gift, which preserved a fragment while refusing a convenient completion.
 

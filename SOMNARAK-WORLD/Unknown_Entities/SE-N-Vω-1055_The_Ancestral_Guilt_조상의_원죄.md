@@ -58,6 +58,16 @@
 | **Coherence modifier** | V — Total archival omniscience |
 | **Potency modifier** | ω — Capable of crushing an entire sector beneath civic weight |
 
+### Combat Actions
+
+| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
+|---|---|---|---|---|
+| { *Ink-Stained Summons* [**Debuff**] } | "A sheet of yellowed parchment wraps around the operative's shins." | [Transcribes an ancient contract upon the target's armor and boots.] | *Reduces target movement speed by 50%; inflicts 15 Weight damage.* **[15 Black DMG]** | At engagement initiation. |
+| { *Blood-Stamp Indenture* [**Attack**] } | "A thumbprint of dried crimson presses down upon the operative's chest." | [Drives a colossal seal of hardened ink into the target's sternum.] | *Deals 28-42 crushing Black Weight damage; drains 20 Composure.* **[28-42 Black DMG]** | When target attempts a melee strike. |
+| { *Generational Foreclosure* [**Debuff**] } | "The names of three generations of debtors are read aloud in unison." | [Thirty ink-blackened hands point directly at the target squad.] | *All targets suffer -30% attack power and cumulative Posture erosion.* **[AoE Debuff]** | At engagement round 3. |
+| { *The Crushing Scroll* [**AoE**] } | "Tons of archival paper cascade from the ceiling like a basalt avalanche." | [Unrolls a massive ledger cylinder across the central containment floor.] | *Deals 35-50 Weight damage to all ground personnel; pins targets.* **[35-50 Black DMG]** | When Sorrow Gauge reaches 60%. |
+| { *Ledger of the Unforgiven* [**Ultimate**] } | "The crypt walls turn to solid ink; every breath tastes of ancient copper debts." | [Summons the full weight of four centuries of unredeemed municipal debt.] | *Deals 60-85 Black Weight damage across entire sector; triggers instant Fracture.* **[60-85 Black DMG]** | When Sorrow Gauge reaches 90%. |
+
 ## Observation Levels
 
 ### Level 1 — Minimal Observation
@@ -79,3 +89,15 @@ Interviews with affected personnel reveal that the entity does not demand money;
 1. **Genealogical Sanitization:** Operatives assigned to the Deep Vault must have their family ledgers reviewed and cleared by Chief of Staff Yeong prior to descent.
 2. **Ink Repellent:** Keepers must wear lead-aproned protective suits treated with paraffin oil to prevent the entity's phantom ink from soaking into skin.
 3. **No Contract Severing:** Do not attempt to burn or shred the entity's scrolls with fire; each destroyed document doubles the entity's kinetic mass.
+
+## Eyewitness Testimony
+
+> *"My family didn't own land. We owned two hand-drills and a debt ledger dating back to the third cycle of the First Consolihan War. When that thing stood up in the crypt, thirty feet tall and smelling of wet lampblack, I didn't see a monster. I saw every tax notice my father ever hid under his mattress. It looked down at me and spoke with his voice: 'You haven't paid either, have you?'"*  
+> — Auditor Jin-Soo, Collector Bureau  [수거국]  , Year 4,236
+
+---
+
+**Document ID:** `SE-N-Vω-1055`  
+**Classification:** Inner Sorrow Sovereign Dossier  
+**Author:** R.D. Sovereign Containment Bureau  
+**Date:** Year 4,238 — Dawn Initiative

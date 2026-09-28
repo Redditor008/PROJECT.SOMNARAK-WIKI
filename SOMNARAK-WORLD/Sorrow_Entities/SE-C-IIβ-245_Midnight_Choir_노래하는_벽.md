@@ -91,10 +91,10 @@
 
 ### Consequences
 
-- Personnel who fail to resist the entity's pressure take damage to their composure and identity — and the gauge rises in response. **Clarity** and may increase the Sorrow Gauge.
-- Extended contact risks the entity's full documented effect — emotional erosion, physical damage, identity dissolution, or environmental corruption. the entity’s documented emotional, physical, identity, or environmental effect.
-- Every M.A.W. activation extracts a price from the wielder — memories, sensation, years — listed in the equipment section but felt in the field. recorded in the equipment section.
-- Without resolution, the entity defaults to its documented breach, activation, or expansion behavior — the sorrow finds its own outlet; the entity follows its breach, activation, or expansion behavior.
+- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
+- Extended contact risks the entity’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- Without timely resolution, the entity defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
 **Physical Form:** A sequence of old frescoes — wall-paintings of the city's dead — that sing at midnight. **Movement:** Stationary — an artwork; the pigment does not move, only the painted mouths breathe and sing.

@@ -91,10 +91,10 @@
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker takes the sorrow's full weight, and the entity absorbs their destabilisation. **Resolve** and may increase the Sorrow Gauge.
-- Time is the entity's ally. Prolonged exposure allows the sorrow to accumulate in the worker, producing the effects the classification was written to prevent. the entity’s documented emotional, physical, identity, or environmental effect.
-- M.A.W. activation is an exchange: power for price. The cost is recorded; the payment is personal. recorded in the equipment section.
-- An unresolved encounter does not end; it transforms. The entity follows its breach pattern, and the sorrow finds the exit the work could not provide; the entity follows its breach, activation, or expansion behavior.
+- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resolve**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- Time is the entity’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
+- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
+- An unresolved encounter never simply ends; it transforms. The entity executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Primary Form:** A twenty-meter humanoid of dark Han-crystal. It walks slowly, avoiding buildings and people.
