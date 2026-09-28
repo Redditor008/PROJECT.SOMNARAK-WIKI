@@ -11,6 +11,8 @@
 > Before reading any other file, dossier, or codex in `SOMNARAK-WORLD/`, you **MUST** read **[`Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`](Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md)** to achieve 100% full context of the world's cosmology, core metaphors, and societal laws!  
 > For the complete 5-stage reading roadmap and contextual guide, see **[`README_FIRST.md`](README_FIRST.md)**.
 
+> **Whole-Universe Wiki Part (Out-of-Universe, Cleaner Overview):** For a **Description + Information + Explanation** distillation of this entire archive — matching the `Abnormalities` page clarity (Overview / Behavior / Origin / Enkephalin / E.G.O / Related Entities / Gameplay / Tool / Classification / Codex / Trivia / Navigation) but **natively for our universe** — see `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — citable as [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] · [[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)] companion.
+
 ---
 
 ## Welcome to the World of Somnarak (소마나락)

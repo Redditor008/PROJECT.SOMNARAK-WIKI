@@ -4,7 +4,8 @@
 **Authority:** Project Moon Wiki.gg + Fandom Mirror — Lobotomy Corporation Canon  
 **Purpose:** Canonical wiki-part index for the two requested Abnormalities subsections, preserved across both mirror domains as “something” citable by future research volumes, templates, and comparative codices.  
 **Source Page:** `Abnormalities` — Lobotomy Corporation Wiki  
-**Whole-Page Companion:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` — whole-page citable with `[[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)]` · `[[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)]` and full TOC Description + Information + Explanation (P.S. mapping)
+**Whole-Page Companion:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` — whole-page citable with `[[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)]` · `[[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)]` and full TOC Description + Information + Explanation (P.S. mapping)  
+**P.S. Whole-Universe Companion:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — native `[[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]` with Description + Information + Explanation for *our* universe
 
 ---
 

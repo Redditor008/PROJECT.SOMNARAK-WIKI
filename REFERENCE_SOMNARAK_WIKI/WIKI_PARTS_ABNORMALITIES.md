@@ -3,7 +3,8 @@
 **Archive Sector:** `REFERENCE_SOMNARAK_WIKI/` — Out-of-Universe Research Index  
 **Authority:** Project Moon Wiki.gg + Fandom Mirror — Lobotomy Corporation Canon  
 **Purpose:** Canonical wiki-part index for the **entire `Abnormalities` page** as citable “something” — preserved verbatim in `[[URL](URL)]` form across both mirror domains, and mapped for **P.S. (Project Somnarak)** so Description + Information + Explanation become 1:1 clear. Use this file when you need to cite the page itself; use `WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` when you need §8 or §9 anchors only.  
-**Source Page:** `Abnormalities` — Lobotomy Corporation Wiki — **Whole Page**
+**Source Page:** `Abnormalities` — Lobotomy Corporation Wiki — **Whole Page**  
+**P.S. Whole-Universe Companion:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — the native `[[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]` whole-universe index with Description + Information + Explanation (native counterpart to this page)
 
 ---
 
