@@ -29,11 +29,11 @@ Relic Entities obey the **Two-Work-Type Rule** — the single most violated prot
 
 ```text
 +========================================================================+
-|                     THE TWO-WORK-TYPE RULE (RELIC)                     |
+| THE TWO-WORK-TYPE RULE (RELIC)                                         |
 +------------------------------------------------------------------------+
 | Relic Entities (Object / Place / Time) permit ONLY:                    |
-|   • Viderehan — Observation Work                                       |
-|   • Ferrehan — Endurance Work                                          |
+| • Viderehan — Observation Work                                         |
+| • Ferrehan — Endurance Work                                            |
 | Flerehan and Pugnahan are strictly N/A                                 |
 | Violation = immediate Gauge surge + activation / expansion             |
 +========================================================================+

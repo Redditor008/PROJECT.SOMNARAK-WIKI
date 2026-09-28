@@ -1,65 +1,53 @@
-# Archival Codex — The Bound Records
+# Archival Codex
 
-**Page ID:** `Pages/10_Archival_Codex`  
-**Archive Path:** `SOMNARAK-WORLD/Pages/10_Archival_Codex.md`  
-**Parent Archive:** [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]  
-**Backing Codices:** `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` + `Master_Codices/01–06/` (44 codices) + `SOMNARAK_ENTITIES.md`
+> *“Each entity is a story. To contain them is to hold grief in your hands.”*
+
+**Archival Codex** is the standard that binds every dossier into one shape.
 
 ```text
 +========================================================================+
 | ARCHIVAL CODEX — BOUND RECORDS                                         |
 +------------------------------------------------------------------------+
-| Record Standard | Subject Template v0.4 — ~18 sections                 |
-| Authoritative Codex | SOMNARAK_ENTITY_CODEX.md (5,000+ lines)          |
-| Entity Groups | SOMNARAK_ENTITIES.md — Birds, Sisters, etc.            |
-| Codices Total | 44 across 6 wings (01–06)                              |
-| Dissolution Doctrine | Sorrow unmaking via Hope Transformation         |
+| Standard | Subject Template v0.4 — ~18 sections                        |
+| Authoritative Codex | SOMNARAK_ENTITY_CODEX.md                         |
+| Groups | SOMNARAK_ENTITIES.md                                          |
+| Codices Total | 44 across 6 wings                                      |
 +========================================================================+
 ```
 
-## Summary
+## Contents
 
-The **Archival Codex** is the standard that binds every Sorrow Entity record into one archival shape — so any reader opening any of the 292 dossiers knows where to look for gauge, breach, tale, or gift. The 44 Master Codices are the Codex writ large for the city, institutions, systems, and tales.
+- 1 Standard
+- 2 Groups
+- 3 Codices
 
-## Description — Dossier Standard
+## Standard
 
-Every Sorrow Entity dossier follows `SOMNARAK_ENTITY_CODEX.md`'s ~18-section template (not all fields appear for Relic manifestations):
+Every dossier follows `SOMNARAK_ENTITY_CODEX.md`:
 
-1. SECC Classification → Operational Parameters → Combat Record → Appearance → Origin → Behavior → Breach Behavior → M.A.W. → Observation Log → Story Log → Final Observation → Flavor Text → Interactions → Tale (이야기) → Testimony (증언) → Record (기록) → Trivia.
+SECC → Parameters → Combat → Appearance → Origin → Behavior → Breach → M.A.W. → Observation → Story → Final Observation → Flavor → Interactions → Tale → Testimony → Record → Trivia.
 
-See `SOMNARAK_ENTITY_CODEX.md` §How to Read an Entity Entry for the layered reading (cold classification → observed behavior → narrative truth).
+## Groups
 
-### Entity Groups
+Some sorrows are connected. See `SOMNARAK_ENTITIES.md`:
 
-Some sorrows are **connected** — see `SOMNARAK_ENTITIES.md`:
+- Three Birds of the Forgotten Forest
+- Three Sisters of the Echo Gardens
 
-- **The Three Birds of the Forgotten Forest** — Observing Bird / Weighting Bird / Guarding Bird → risk of merging into the Convergence (`V-δ-010`, Weight Black).
-- **The Three Sisters of the Echo Gardens** — Grieving / Angry / Silent Maiden — shared containment, whispered communication.
+Groups risk Sovereign fusion if breached together and must be stored apart.
 
-Groups obey anti-colocation doctrine — store far apart or split across branch facilities.
+## Codices
 
-## Information — The 44 Master Codices
+44 Master Codices across 6 wings:
 
-| Wing | Codices | Domain |
-|---|---|---|
-| **01 Cosmology and World Order** | 9 | PROJECT_SOMNARAK, Weeping, Dream Realm, Geology, Desolate, Doorspeech, Cheongula, Unknown Cities, Canon Timeline |
-| **02 Institutional Wings and Chronicles** | 6 | Reverie Directorate, Exploration Decree, Underworld Descend, Memory Archive, Horizon Caravan, Wonhyeong |
-| **03 Systems, Combat, and Physics** | 8 | Battle System, Styles, Faction Tech, Han Relics, M.A.W. Codex, Ordeals Framework, Taboo Resonance, Workshops — plus **LUMEN** (new real part) |
-| **04 Municipal Society** | 9 | Daily Life, Cast, Corporations, Council of Sighs, Sub-Companies, Outsider Factories, Specialist Cadres, Collectors, Syndicates |
-| **05 Tales and Fractures** | 6 | Entity Codex, Entities (Groups), Tales, Named Fractures, Wound Walkers, Enemy List — plus **RELIC ENTITIES** (new real part) |
-| **06 Integrity and Audits** | 6 | Comparative codices + Vocab Policy (no dissolution page — see below) |
+- **01** Cosmology (9) — PROJECT_SOMNARAK, Weeping, Geology, Desolate, Cheongula
+- **02** Chronicles (6) — Reverie Directorate, Katabagil, Katharcheok, Memory Archive, Horizon Caravan
+- **03** Systems (8) — Battle System, M.A.W., Ordeals, Workshops, Lumen
+- **04** Society (9) — Daily life, Council, Corporations
+- **05** Tales (6) — Entity Codex, Entities, Relic Entities, Named Fractures
+- **06** Audits (6) — comparative integrity
 
-Full index: `Master_Codices/README.md`.
+## See also
 
-### Dissolution Doctrine (Sorrow Unmaking)
-
-Sorrow Entities are **immortal as sorrow** — they do not dissolve by suppression. Dissolution in Somnarak is **transformation**, not destruction — documented as **Hope Transformation** (see `Pages/11_Cantos.md` + `Hope_Transformations/` — 14 ascension records). The only archival “dissolution” is the Hope path (e.g., `SOMNARAK_NAMED_FRACTURES.md` traces Fractured paths; Hope Transformations trace the Dawn path).
-
-## Related Pages
-
-- `09_Classification_Code.md` — how SECC structures the Codex header.
-- `11_Cantos.md` — Hope as dissolution-into-transcendence.
-- `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` — full dossier standard (real part).
-
----
-*Backing is a real codex — not Pages-only. Dissolution is Hope Transformation (14 records), not entity deletion.*
+- `09_Classification_Code.md`
+- `11_Cantos.md`

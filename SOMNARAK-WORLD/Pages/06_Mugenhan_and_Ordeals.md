@@ -1,70 +1,52 @@
-# Related Phenomena — Mugenhan & Ordeals
+# Mugenhan and Ordeals
 
-**Page ID:** `Pages/06_Mugenhan_and_Ordeals`  
-**Archive Path:** `SOMNARAK-WORLD/Pages/06_Mugenhan_and_Ordeals.md`  
-**Parent Archive:** [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]  
-**Backing Codices:** `Master_Codices/05_Entities_Tales_and_Fractures/` + `Mugenhan_Ecology/` + `Ordeals/` + `Unknown_Entities/`
+> *“Not all sorrow becomes an entity. Some becomes a world.”*
+
+**Mugenhan and Ordeals** describes phenomena related to but distinct from Sorrow Entities.
 
 ```text
 +========================================================================+
-| RELATED PHENOMENA — MUGENHAN & ORDEALS                                 |
+| MUGENHAN & ORDEALS — RELATED PHENOMENA                                 |
 +------------------------------------------------------------------------+
-| Mugenhan Ecology | Tier 1 Mundane (15) / Tier 2 Infused (6) /          |
-| | Tier 3 Mortal Sorrow Creatures (6)                                   |
-| Ordeals | 5 Colors × 4 Watches = 60 logs                               |
-| Unknown Entities | 12 post-R.D. anomalies + Regressor Log              |
-| Containment Doctrine | Suppression + quarantine — not entity Work      |
+| Mugenhan | Tier 1 Mundane · Tier 2 Infused · Tier 3                    |
+| Ordeals | 5 Colors × 4 Watches — 60 logs                               |
+| Unknown | 12 anomalies · Regressor Log                                 |
 +========================================================================+
 ```
 
-## Summary
+## Contents
 
-Not all sorrow crystallizes as Sorrow Entities. **Mugenhan** (the planet's living lattice) breeds **mundane fauna**, **sorrow-infused organisms**, and **mortal sorrow creatures**; the facility itself suffers cyclical **Ordeals** — uncontainable, wave-born sorrow that surges during Watch Meltdowns; and the deep Maw births **Unknown Entities** that appear only after the Reverie Directorate's cycles.
+- 1 Mugenhan
+- 2 Ordeals
+- 3 Unknown
 
-## Description
+## Mugenhan
 
-### Mugenhan Ecology — The Three Tiers
+Mugenhan is the planetary lattice. Three tiers are cataloged in `Mugenhan_Ecology/`:
 
-Documented in `Mugenhan_Ecology/` (5 files, plus `SOMNARAK_GEOLOGY.md` for macro-terrain):
+- **Tier 1 Mundane (15)** — natural fauna/flora without Han.
+- **Tier 2 Infused (6)** — species altered by ambient Han.
+- **Tier 3 Mortal (6)** — mortal creatures born of concentrated Han.
 
-- **Tier 1 — Mundane (15):** Natural planetary fauna/flora without Han saturation — see `MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md`.
-- **Tier 2 — Sorrow-Infused Organisms (6):** Natural species altered by ambient Han — see `MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`.
-- **Tier 3 — Mortal Sorrow Creatures (MSF, 6):** Mortal creatures born of concentrated Han but killable — see `MUGENHAN_SORROW_CREATURES.md`.
-- **Compendium:** `MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md` — encyclopedic fauna/flora.
+See `MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md`, `MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`, `MUGENHAN_SORROW_CREATURES.md`. Macro-terrain is in `SOMNARAK_GEOLOGY.md`.
 
-Planetary macro-features (UnWiHan, Untouched Ocean) are **terrain** in `SOMNARAK_GEOLOGY.md` — never Sorrow Entities.
+## Ordeals
 
-### Ordeals — The Five Colors
+Ordeals are uncontainable, wave-born sorrows that surge during Watch Meltdowns. Five Colors:
 
-Documented in `Ordeals/` (60 logs) and `Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md`:
+- **BLUE** — Lament, despair swarms.
+- **BLACK** — Weight, gravitational trauma.
+- **GREY** — Grudge, coordinated incursions.
+- **PALE** — Void, identity erasure.
+- **PURPLE** — Raw Han, reality warp.
 
-| Color | Spectrum | Pressure |
-|---|---|---|
-| **BLUE** | Lament | Emotional despair swarms |
-| **BLACK** | Weight | Crushing gravitational trauma |
-| **GREY** | Grudge | Coordinated humanoid incursions |
-| **PALE** | Void | Absolute identity erasure |
-| **PURPLE** | Raw Han | Reality-warping corruption |
+Each Color has four Watches (I–IV). Full logs are in `Ordeals/` and `Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md`. Ordeals are suppressed, not Worked.
 
-Each Color has 4 Watches (I–IV) — 5×4 = 20 archetypes × 3 logs? Canonical 60 logs indexed in `Ordeals/README.md`.
+## Unknown
 
-Ordeals are **not worked** like entities — they are **suppressed** via Border Lead doctrine (see `Master_Codices/02`).
+Twelve anomalies are cataloged in `Unknown_Entities/` (11 dossiers + `Book_of_Regressor_Log_Dramaturgy.md`). They appear only after the Reverie Directorate's cycles.
 
-### Unknown Entities — Post-R.D. Anomalies
+## See also
 
-12 anomalies documented in `Unknown_Entities/` (11 dossiers + `Book_of_Regressor_Log_Dramaturgy.md`). They manifest strictly **after** R.D. facility cycles (see `Pages/02_Behavior.md` Cycle Localization law — 1,778 cycles exist ONLY in R.D./Absolvohan).
-
-## Information — Where to Read
-
-- `Mugenhan_Ecology/README.md` — tripartite taxonomy and strata guide.
-- `Ordeals/README.md` — 5 Colors × 4 Watches tactical guide.
-- `Unknown_Entities/README.md` — deep Maw anomalous directory.
-- `SOMNARAK_ORDEALS_FRAMEWORK.md` — framework codex (real part, not Pages invention).
-
-## Related Pages
-
-- `05_MAW.md` — extraction vs suppression distinction.
-- `07_Tactical_Engine.md` — how Ordeals are fought on the grid.
-
----
-*Teams index:* `Mugenhan_Ecology/` · `Ordeals/` · `Unknown_Entities/` · `SOMNARAK_ORDEALS_FRAMEWORK.md`
+- `07_Tactical_Engine.md`
+- `Mugenhan_Ecology/README.md`
