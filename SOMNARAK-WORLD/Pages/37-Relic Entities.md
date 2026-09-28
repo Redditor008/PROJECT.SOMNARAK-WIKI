@@ -15,12 +15,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 Triad
-- 2 Rule
-- 3 Registry
-
 ## Triad
 
 | Type | Example |
@@ -44,9 +38,9 @@ Relics do not escape. They activate or expand. Response is quarantine — seal s
 
 ## Registry
 
-Places yield mantles of corridor air, Time yields sands and hour-needles. See `05_MAW.md`.
+Places yield mantles of corridor air, Time yields sands and hour-needles. See `34-M.A.W. Equipment.md`.
 
 ## See also
 
-- `02_Behavior.md`
-- `09_Classification_Code.md`
+- `31-Behavior.md`
+- `38-Classification Code.md`

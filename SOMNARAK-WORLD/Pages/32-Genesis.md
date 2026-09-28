@@ -15,12 +15,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 The Weeping
-- 2 The Maw
-- 3 The Cycle
-
 ## The Weeping
 
 The Weeping is liquid Han flowing beneath Somnarak, older than settlement. It is cold, silent, and murmurs. It flows toward grief and toward the Alpha Tree. Its course and access points (Abyssal Well, Deep Vault, Central Plaza, Echo Gardens) are detailed in `Master_Codices/01_Cosmology_and_World_Order/SOMNARAK_THE_WEEPING.md`.
@@ -42,6 +36,6 @@ This cycle is the municipal paradox — the city needs its grief to endure, and 
 
 ## See also
 
-- `01_Overview.md`
-- `04_Lumen.md`
+- `30-Overview.md`
+- `33-Lumen.md`
 - `SOMNARAK_THE_WEEPING.md`

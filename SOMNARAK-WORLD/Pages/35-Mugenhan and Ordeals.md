@@ -14,12 +14,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 Mugenhan
-- 2 Ordeals
-- 3 Unknown
-
 ## Mugenhan
 
 Mugenhan is the planetary lattice. Three tiers are cataloged in `Mugenhan_Ecology/`:
@@ -48,5 +42,5 @@ Twelve anomalies are cataloged in `Unknown_Entities/` (11 dossiers + `Book_of_Re
 
 ## See also
 
-- `07_Tactical_Engine.md`
+- `36-Tactical Engine.md`
 - `Mugenhan_Ecology/README.md`

@@ -15,12 +15,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 Standard
-- 2 Groups
-- 3 Codices
-
 ## Standard
 
 Every dossier follows `SOMNARAK_ENTITY_CODEX.md`:
@@ -49,5 +43,5 @@ Groups risk Sovereign fusion if breached together and must be stored apart.
 
 ## See also
 
-- `09_Classification_Code.md`
-- `11_Cantos.md`
+- `38-Classification Code.md`
+- `40-Cantos.md`

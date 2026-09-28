@@ -17,11 +17,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 Directors
-- 2 Wings
-
 ## Directors
 
 Nine Echo-Cores govern Facility 01. See `Echo_Cores/`:
@@ -42,5 +37,5 @@ See `CANON_TIMELINE.md`.
 
 ## See also
 
-- `01_Overview.md`
-- `03_Genesis.md`
+- `30-Overview.md`
+- `32-Genesis.md`

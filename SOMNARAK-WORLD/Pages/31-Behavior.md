@@ -15,12 +15,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 Work Types
-- 2 Bonds
-- 3 Notes
-
 ## Work Types
 
 Four Works are sanctioned:
@@ -32,7 +26,7 @@ Four Works are sanctioned:
 
 Every dossier in `Sorrow_Entities/` lists a Behavior table with the four Works and the Sorrow Gauge response. For example, `SE-C-IIIβ-014` (The Debt Eater) responds to Viderehan and Ferrehan.
 
-Relic Entities — Object, Place, Time — permit only Viderehan and Ferrehan. See `08_Relic_Entities.md`.
+Relic Entities — Object, Place, Time — permit only Viderehan and Ferrehan. See `37-Relic Entities.md`.
 
 ## Bonds
 
@@ -45,6 +39,6 @@ Groups are indexed in `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_E
 
 ## See also
 
-- `08_Relic_Entities.md`
-- `09_Classification_Code.md`
+- `37-Relic Entities.md`
+- `38-Classification Code.md`
 - `Sorrow_Entities/README.md`

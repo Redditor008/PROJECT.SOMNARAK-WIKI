@@ -14,11 +14,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 Phases
-- 2 System
-
 ## Phases
 
 - **Tension** — identify threat, assess Gauge and SECC, position.
@@ -35,6 +30,6 @@ Relic Entities expand rather than breach — quarantine, do not pursue.
 
 ## See also
 
-- `02_Behavior.md`
-- `05_MAW.md`
+- `31-Behavior.md`
+- `34-M.A.W. Equipment.md`
 - `Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md`

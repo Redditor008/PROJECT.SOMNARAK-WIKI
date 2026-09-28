@@ -15,11 +15,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 Cantos
-- 2 Hope
-
 ## Cantos
 
 | Canto | Specialist |
@@ -41,5 +36,5 @@ See `Hope_Transformations/README.md`.
 
 ## See also
 
-- `10_Archival_Codex.md`
+- `39-Archival Codex.md`
 - `Story_Cantos/README.md`

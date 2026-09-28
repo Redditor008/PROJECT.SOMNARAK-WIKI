@@ -15,12 +15,6 @@
 +========================================================================+
 ```
 
-## Contents
-
-- 1 Nature
-- 2 Storage
-- 3 Hazards
-
 ## Nature
 
 Lumen is fluid to semi-crystalline, held in sealed vats and vein-like conduits beneath Facility 01. Pale and clear when stable, it darkens when Han density surges. It is silent, with a faint murmur when flowing.
@@ -47,5 +41,5 @@ Full doctrine is in `Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARA
 
 ## See also
 
-- `03_Genesis.md`
-- `05_MAW.md`
+- `32-Genesis.md`
+- `34-M.A.W. Equipment.md`
