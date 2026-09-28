@@ -2,7 +2,7 @@
 
 > *Every name is a day someone did not return.*
 
-**Sorrow List** indexes the 292 Sorrow Entities.
+**Sorrow List** indexes the 292 Sorrow Entities. It is the Somnarak equivalent of List of Abnormalities on wiki.gg.
 
 ```text
 +========================================================================+
@@ -14,7 +14,15 @@
 +========================================================================+
 ```
 
-Entries are filed by Catalog Number, Echo-Core, and SECC. Relic Entities (37) are listed separately at [37-Relic Entities](37-Relic%20Entities.md).
+## Overview
+
+The List is ordered by Catalog Number, but it can be re-sorted by Echo-Core, Risk, Origin, Type, or Pressure. Each line shows SECC, common name, and Floor. Example: `SE-C-IIIβ-014 The Debt Eater`  [빚을 먹는 자]  (Biteul Meokneun Ja — Debt Eater) sits on its Floor with Viderehan/Ferrehan only, because it is a Place.
+
+The List is not a bestiary for hunting. It is a work roster. Wardens assign Work from it, and the Watch is tallied from it.
+
+## Relic Entities
+
+Relic Entities (37) are not in this List. They are cataloged separately at [37-Relic Entities](37-Relic%20Entities.md) because their M.A.W. follows a different fracture.
 
 ## See also
 

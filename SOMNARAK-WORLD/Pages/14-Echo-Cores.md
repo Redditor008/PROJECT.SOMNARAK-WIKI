@@ -2,7 +2,7 @@
 
 > *Nine voices. One House.*
 
-**Echo-Cores** are the nine directors who govern Facility 01.
+**Echo-Cores** are the nine directors who govern Facility 01. This page is the Somnarak equivalent of Departments on wiki.gg.
 
 ```text
 +========================================================================+
@@ -14,7 +14,15 @@
 +========================================================================+
 ```
 
-Each Core holds a Floor, an armband, and a Watch. For territory layout see [41-Frontiers](41-Frontiers.md) and `Master_Codices/02_Facility_Structure/`. Challenge Mode is filed at [20-Challenge Mode](20-Challenge%20Mode.md).
+## Overview
+
+Each Core holds a Floor, an armband, and a Watch. The armband is not decoration; it is the Veil made wearable. When the Veil thins, the armband strains, and the Floor's Reverberation begins.
+
+The nine are not Sephirah, but they occupy the same municipal position: they translate the city's grief into assignable Work. Their character shapes their Missions and their Research.
+
+## Territory
+
+Floors are mapped in `Master_Codices/02_Facility_Structure/` and summarized at [41-Frontiers](41-Frontiers.md). Challenge Mode is filed at [20-Challenge Mode](20-Challenge%20Mode.md).
 
 ## See also
 
