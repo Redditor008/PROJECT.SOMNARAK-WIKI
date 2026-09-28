@@ -2,6 +2,19 @@
 ## CANONICAL RESEARCH DOSSIER // PROJECT MOON UNIVERSE
 ### ARCHIVAL SOURCE: LOBOTOMY CORPORATION WIKI & COGITOPEDIA DATABASE
 
+> **Wiki Part Reference — Abnormalities §§ 8 & 9:** This volume covers §8 in full. For direct wiki-part anchors across both mirrors, see `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` — [[8 Tool Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities#Tool_Abnormalities)] · [[9 Classification Code](https://lobotomycorporation.wiki.gg/wiki/Abnormalities#Classification_Code)] · Mirrors: [[8 Tool Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities#Tool_Abnormalities)] · [[9 Classification Code](https://lobotomycorp.fandom.com/wiki/Abnormalities#Classification_Code)].
+
+```text
++========================================================================+
+|              WIKI PART ANCHORS — ABNORMALITIES §§ 8 & 9                |
++------------------------------------------------------------------------+
+| §8 Tool Abnormalities  | wiki.gg: Abnormalities#Tool_Abnormalities     |
+|                        | fandom.com: Abnormalities#Tool_Abnormalities  |
+| §9 Classification Code | wiki.gg: Abnormalities#Classification_Code    |
+|                        | fandom.com: Abnormalities#Classification_Code |
++========================================================================+
+```
+
 ```text
 +========================================================================+
 |             TOOL ABNORMALITY RESEARCH & EXTRACTION MATRIX              |
