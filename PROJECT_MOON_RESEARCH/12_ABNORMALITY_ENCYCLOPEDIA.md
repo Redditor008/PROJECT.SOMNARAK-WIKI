@@ -1,5 +1,21 @@
 # VOLUME 12: ABNORMALITY ENCYCLOPEDIA AND OBSERVATION DOSSIERS
 ## CANONICAL RESEARCH DOSSIER // PROJECT MOON UNIVERSE
+### ARCHIVAL SOURCE: LOBOTOMY CORPORATION WIKI & COGITOPEDIA DATABASE
+
+> **Wiki Part Reference — Abnormalities (Whole Page):** This volume covers the full `Abnormalities` page (TOC §§1–13). **Whole page:** [[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)] · [[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)] — see `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` (Description + Information + Explanation, P.S. Sorrow Entity mapping). **Sections:** §§8–9 via `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` — [[8 Tool Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities#Tool_Abnormalities)] · [[9 Classification Code](https://lobotomycorporation.wiki.gg/wiki/Abnormalities#Classification_Code)].
+
+```text
++========================================================================+
+|                WIKI PART ANCHORS — ABNORMALITIES (WHOLE PAGE)          |
++------------------------------------------------------------------------+
+| Whole Page | wiki.gg: Abnormalities                                    |
+|            | fandom.com: Abnormalities                                 |
+| §8         | wiki.gg: Abnormalities#Tool_Abnormalities                 |
+|            | fandom.com: Abnormalities#Tool_Abnormalities              |
+| §9         | wiki.gg: Abnormalities#Classification_Code                |
+|            | fandom.com: Abnormalities#Classification_Code             |
++========================================================================+
+```
 
 ---
 

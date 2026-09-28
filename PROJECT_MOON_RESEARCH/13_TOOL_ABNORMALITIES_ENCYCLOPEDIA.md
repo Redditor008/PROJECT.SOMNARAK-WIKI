@@ -2,7 +2,7 @@
 ## CANONICAL RESEARCH DOSSIER // PROJECT MOON UNIVERSE
 ### ARCHIVAL SOURCE: LOBOTOMY CORPORATION WIKI & COGITOPEDIA DATABASE
 
-> **Wiki Part Reference — Abnormalities §§ 8 & 9:** This volume covers §8 in full. For direct wiki-part anchors across both mirrors, see `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` — [[8 Tool Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities#Tool_Abnormalities)] · [[9 Classification Code](https://lobotomycorporation.wiki.gg/wiki/Abnormalities#Classification_Code)] · Mirrors: [[8 Tool Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities#Tool_Abnormalities)] · [[9 Classification Code](https://lobotomycorp.fandom.com/wiki/Abnormalities#Classification_Code)].
+> **Wiki Part Reference — Abnormalities (Whole Page + §§ 8 & 9):** This volume covers §8 in full. **Whole page:** [[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)] · [[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)] — see `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` (TOC §§1–13, P.S. mapping). **Sections:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` — [[8 Tool Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities#Tool_Abnormalities)] · [[9 Classification Code](https://lobotomycorporation.wiki.gg/wiki/Abnormalities#Classification_Code)] · Mirrors: [[8 Tool Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities#Tool_Abnormalities)] · [[9 Classification Code](https://lobotomycorp.fandom.com/wiki/Abnormalities#Classification_Code)].
 
 ```text
 +========================================================================+

@@ -3,7 +3,19 @@
 **Archive Sector:** `REFERENCE_SOMNARAK_WIKI/` — Out-of-Universe Research Index  
 **Authority:** Project Moon Wiki.gg + Fandom Mirror — Lobotomy Corporation Canon  
 **Purpose:** Canonical wiki-part index for the two requested Abnormalities subsections, preserved across both mirror domains as “something” citable by future research volumes, templates, and comparative codices.  
-**Source Page:** `Abnormalities` — Lobotomy Corporation Wiki
+**Source Page:** `Abnormalities` — Lobotomy Corporation Wiki  
+**Whole-Page Companion:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` — whole-page citable with `[[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)]` · `[[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)]` and full TOC Description + Information + Explanation (P.S. mapping)
+
+---
+
+## WHOLE-PAGE LINKS (For P.S. Comparative Clarity)
+
+Use the **whole-page** companions when citing the page itself (no `#` anchor) — exact verbatim form requested for P.S. wiring:
+
+- [[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)]
+- [[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)]
+
+> Full page context lives in `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` (TOC §§1–13, Description + Information + Explanation, P.S. Sorrow Entity mapping). This file remains the **section-level** index (§§8–9); the companion is the **whole-page** index.
 
 ---
 
@@ -85,11 +97,12 @@ The user-requested wiki parts are preserved verbatim as four citable links — t
 
 ## ADDED AS SOMETHING — HOW THIS INDEX IS WIRED
 
-This index is now wired as citable “something” in three places:
+This index is now wired as citable “something” in four places:
 
-1. **This file** — `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` (you are here) — the canonical out-of-universe wiki-part index.
-2. **Research volume header** — `PROJECT_MOON_RESEARCH/13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` now opens with a **Wiki Part Reference** box listing all four links and pointing here.
-3. **Template** — `TEMPLATES/24_WIKI_PART_ABNORMALITY_REFERENCE_TEMPLATE.md` — deep-knowledge-first template for citing any future `Abnormalities#` wiki part across both mirrors with 74-col box law and banned-string discipline.
+1. **This file** — `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` (you are here) — the canonical out-of-universe **section-level** wiki-part index.
+2. **Whole-page companion** — `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` — the **whole-page** SSOT with `[[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)]` · `[[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)]` + full TOC Description + Information + Explanation + P.S. Sorrow Entity mapping — this file links there for page-level context.
+3. **Research volume header** — `PROJECT_MOON_RESEARCH/13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` now opens with a **Wiki Part Reference** box listing all four links and pointing here (and to the whole-page companion).
+4. **Template** — `TEMPLATES/24_WIKI_PART_ABNORMALITY_REFERENCE_TEMPLATE.md` — deep-knowledge-first template for citing any future `Abnormalities#` wiki part across both mirrors with 74-col box law and banned-string discipline.
 
 ---
 
