@@ -146,7 +146,7 @@ The expedition secured the staging ground atop an elevated maintenance platform.
 ================================================================================
 ```
 
-Jisoo unpacked the field cauldrons, boiling emergency grain rations infused with low-grade grief-dampening lotus root. Sora unhooked her acoustic silver cowl, adjusting the tuning forks along its rim to 528 Hz. The gentle harmonic hum reverberated off the cavern walls, neutralizing the harsh hydraulic pressure that had been pressing against their eardrums.
+Jisoo unpacked the field cauldrons, boiling emergency grain rations infused with low-grade grief-dampening lotus root. Sora unhooked her acoustic silver cowl, adjusting the tuning forks along its rim to pure harmonic resonance. The gentle harmonic hum reverberated off the cavern walls, neutralizing the harsh hydraulic pressure that had been pressing against their eardrums.
 
 "The air is getting thinner," Yeonhwa observed, looking over the edge of the platform into the dark abyss beneath. "The monorail tracks descend at a twelve-degree grade. In another two kilometers, we enter the Central Concourse. Whatever is generating that high-frequency vibration down there has three distinct harmonic signatures."
 
@@ -525,7 +525,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 |   Boilers)                                                          |
 | - Node 06: Doha (Planting Hydraulic Track Jacks Under Switch)       |
 | - Node 07: The Silent One (Charging Burden Cleaver Void Overdrive)  |
-| - Node 09: Sora (Harmonizing 528 Hz Acoustic Repose Across Squad)   |
+| - Node 09: Sora (Harmonizing Silver Acoustic Repose Across Squad)   |
 +---------------------------------------------------------------------+
 | - Harin       : Spd 8 -> 4 AP [OVERDRIVE] | HP 4,200/4,200          |
 |   | SP 50/50 [VOW ACTIVE]                                           |
@@ -546,7 +546,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * Harin (Speed 8 -> 4 AP [Overdrive]): Stands alone in the center of the double rails at Node 04, locking her shield with both hands.
   * Doha (Speed 5 -> 3 AP): Plants hydraulic track jacks under the switch rails at Node 06.
   * The Silent One (Speed 7 -> 4 AP): Prepares `[Burden Cleaver: Void Overdrive Execution]` at Node 07.
-  * Sora (Speed 7 -> 4 AP): Harmonizes 528 Hz acoustic repose across the squad, stabilizing all SP at 50/50.
+  * Sora (Speed 7 -> 4 AP): Harmonizes Silver acoustic repose across the squad, stabilizing all SP at 50/50.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 04 to 05)**: SECC-041 unleashes `[All-Stations Overdrive Screech]` (Base 20 + 3 Coins = 30 Power, Area Pale/Sonic).
     * Harin clashes with `[VOW OF THE LOW BULWARK — MAXIMUM]` (Base 26 + 3 Coins Heads = 44 Power, Supreme Kinetic Shield).
@@ -648,7 +648,7 @@ The seven specialists boarded the rail car. The pneumatic doors sealed. With a s
 | **Warden Harin** | Confronted the ghost of her annihilated squad; unlocked *Vow of the Low Bulwark* Overdrive. |
 | **Architect Doha** | Mastered Pre-Structuring hydraulic locks using *The Second Sluice Key*. |
 | **The Silent One** | Absorbed the sorrow of Recon Unit Seven into *The Burden of Year Zero*. |
-| **Dreamer Sora** | Harmonized 528 Hz acoustic repose, preventing squad-wide acoustic panic in high-speed conduits. |
+| **Dreamer Sora** | Harmonized Silver acoustic repose, preventing squad-wide acoustic panic in high-speed conduits. |
 | **Archivist Minjae** | Restored erased historical records of Recon Unit Seven into the Directorate Master Codex. |
 | **Cartographer Yeonhwa**| Mapped the complete subterranean rail route connecting District 1 through District 23. |
 | **Debt Assessor Jisoo** | Quantified 4,200 years of accumulated transit sorrow; recovered the *Year Zero Transit Seal*. |

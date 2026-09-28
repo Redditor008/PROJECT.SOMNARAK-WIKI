@@ -292,7 +292,7 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 | - Node 05: The Mirror of Truth (Immobilized / Central Prism Leaking |
 |   Light)                                                            |
 | - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)       |
-| - Node 07: Resonant Lens (Directing 528 Hz Clarity Wave)            |
+| - Node 07: Resonant Lens (Directing Harmonic Clarity Wave)          |
 +---------------------------------------------------------------------+
 | - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
 |   | SP 50/50                                                        |
@@ -311,7 +311,7 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Four-Fold Prismatic Stiletto Flurry]`. Spends 2 AP on `[Mnemonic Drive]`.
   * Mnemonic Drone: Delivers `[Pneumatic Sapper Ground Shockwave]` (3 AP).
-  * Resonant Lens: Directs `[528 Hz Clarity Wave]` (2 AP).
+  * Resonant Lens: Directs `[Harmonic Clarity Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Four-Fold Stiletto Flurry]`: Drives through the prism heart for **980 Void damage** (Fatal 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Rips through the remaining gilded frame for **450 Pierce damage**!

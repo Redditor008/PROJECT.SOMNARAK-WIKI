@@ -86,7 +86,7 @@ That last property is why only Marjuk has ever studied it at length. A Cryogen w
 The Doorspeech does not follow normal semiotic or linguistic principles. Modern human speech is *descriptive* — it represents objects and actions through symbolic convention. The Before-Time phonemes spoken by the Door are **performatively ontological** (존재론적 수행어):
 
 - **Ontological Instantiation:** In the Before-Time dialect, the word does not symbolize the phenomenon; it *causes* and *substantiates* the phenomenon. Speaking an Echo-Core's true Doorspeech fragment reorganizes the local quantum and Han-density fields of the room.
-- **Infrasonic Carrier Frequencies:** The Doorspeech resonates at an ultra-low sub-audible carrier frequency (approximately 7.83 Hz, matching the core vibrational pulse of Mugenhan). It bypasses standard acoustic membrane mechanics, transmitting vibrations directly into biological bone marrow, neural synapses, and Han-relic circuits.
+- **Infrasonic Carrier Frequencies:** The Doorspeech resonates at an ultra-low sub-audible carrier frequency of deep subterranean infrasound, matching the core vibrational pulse of Mugenhan. It bypasses standard acoustic membrane mechanics, transmitting vibrations directly into biological bone marrow, neural synapses, and Han-relic circuits.
 - **Temporal Non-Linearity:** Because the words predate the Consolihan, they possess temporal inertia. They are not memories of what was said; they are permanent acoustic anchors holding the facility's baseline reality in suspension.
 
 ---
@@ -389,7 +389,7 @@ The decision is his alone. It has never been reviewed, because reporting it woul
 Because the Doorspeech acts as an ontological disruptor, containing its acoustic bleed is Facility 01's highest classified defensive directive, coordinated directly by **Archive Lead Marjuk** in **Floor 6 (The Deep Vault)** and reinforced by **Floor 5 (Mellda's Border Watch)** and **Floor 7 (Ishall's Shadow Corps)**:
 
 - **Triple-Layer Acoustic Baffles:** Floor 6's Abyssal Seal Chamber is encased in three concentric rings of reinforced basalt baffles interleaved with high-density leaded dampening foam.
-- **Anti-Vibrational Void Gel Dampeners:** Hydraulic bulkheads separating Floor 6 from the upper sectors are pressurized with specialized non-conductive Void gel. This fluid absorbs the 7.83 Hz carrier wave, preventing sympathetic acoustic resonance from vibrating the Alpha Tree's structural pylons.
+- **Anti-Vibrational Void Gel Dampeners:** Hydraulic bulkheads separating Floor 6 from the upper sectors are pressurized with specialized non-conductive Void gel. This fluid absorbs the deep infrasonic carrier wave, preventing sympathetic acoustic resonance from vibrating the Alpha Tree's structural pylons.
 - **Crystalline Null-Resonance Shields:** Floor 6 ceiling arrays feature inverted Han-frequency emitters. If the Final Door begins an unprovoked whisper during an Abyss Ordeal, the shields project an immediate counter-harmonic cancellation field, containing the vocal vibration strictly within the lowest vault.
 - **The Catastrophic Bleed Scenario:** If the Doorspeech were ever to leak into civilian sectors, the unshielded population would experience instantaneous psychic sympathetic awakening, collapsing the collective Veil and triggering mass-Fracture across entire residential blocks.
 

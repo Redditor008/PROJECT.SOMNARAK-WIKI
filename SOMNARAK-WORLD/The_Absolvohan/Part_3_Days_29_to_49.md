@@ -1663,7 +1663,7 @@ Agent Bae equips the *Iron Aegis Plate* and *Meteoric Bracer*, turning her into 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 At 02:00, the seismic sensors record a massive subterranean shockwave traveling along the fault line from Cheonbulok. Mellda stands on the southern parapet, gazing out over the mist-covered plains:
 
-> _"Day 41. The earth is vibrating at 12 Hz. It matches the heartbeat of the colossus entombed in the mountain. Hydraulic ballast stands at 49.62 tons. In eight days, we will cross 50.0 tons—halfway to the 100-ton threshold needed to fire the Absolvohan. For 1,777 cycles, we never broke 48 tons. We are writing new history with every tick."_
+> _"Day 41. The earth is vibrating with a low infrasonic pulse. It matches the heartbeat of the colossus entombed in the mountain. Hydraulic ballast stands at 49.62 tons. In eight days, we will cross 50.0 tons—halfway to the 100-ton threshold needed to fire the Absolvohan. For 1,777 cycles, we never broke 48 tons. We are writing new history with every tick."_
 
 ---
 

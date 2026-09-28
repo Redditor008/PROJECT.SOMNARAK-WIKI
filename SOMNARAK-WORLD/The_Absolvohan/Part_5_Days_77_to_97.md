@@ -27,7 +27,7 @@ Through rigorous multi-floor coordination, the Reverie Directorate sustains unpr
 
 > **Majin:** _"...The Founder's journal?"_
 
-> **Marjuk:** _"Buried in the deepest vault. Pre-Consolihan. The Founder's personal writings. Unredacted. Sealed with biological DNA that matches your lineage."_
+> **Marjuk:** _"Buried in the deepest vault. Pre-Consolihan. The Founder's personal writings. Unredacted. Sealed with an ancestral bloodline resonance seal keyed to your lineage."_
 
 > **Majin:** _"What does the first entry say?"_
 

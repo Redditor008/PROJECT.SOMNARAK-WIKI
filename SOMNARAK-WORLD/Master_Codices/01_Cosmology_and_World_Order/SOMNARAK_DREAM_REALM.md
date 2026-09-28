@@ -226,7 +226,7 @@ Operating a Dream Loom cannot be done while fully awake or fully asleep:
 - **Weaving Action:** The shuttle catches loose grief, regret, or traumatic memory loops, braiding them into dense, coherent patterns that neutralize their chaotic volatility.
 
 #### 3. Woven Deliverables & Masterworks
-- **Tapestries of Solace (위로의 태피스트리):** Resonant wall-hangings installed in medical wards and convalescent chambers. These tapestries emit a gentle 432 Hz harmonizing hum that soothes agitated minds and dramatically reduces civilian Fracture rates.
+- **Tapestries of Solace (위로의 태피스트리):** Resonant wall-hangings installed in medical wards and convalescent chambers. These tapestries emit a gentle harmonic resonance that soothes agitated minds and dramatically reduces civilian Fracture rates.
 - **Memory Anchors (기억의 닻):** Braided cords containing crystallized core memories. Reverie Directorate operatives and Dream-Divers carry these cords into high-risk zones as somatic grounding tethers against cognitive corruption.
 
 ---

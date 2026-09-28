@@ -58,7 +58,7 @@ The fundamental law enforced by the Collector Bureau recognizes four distinct, c
 ### 2.2 Currency 02: Karma Debt (업보 부채 — Eopbo Buchae)
 - **Nature:** Trans-generational and ethical liability. When an individual commits murder, commits betrayal, or causes another citizen to suffer irreversible Fracture, the resulting grief stains the spiritual fabric of their family lineage.
 - **Hereditary Transmission:** Karma Debt cannot be discharged by death. If a debtor dies with unatoned guilt, the liability automatically transfers to their children, grandchildren, and living kin.
-- **Physical Manifestation:** High Karma Debt produces physical symptoms: localized temperature drops, chronic heaviness in the limbs, and an acoustic aura of 380 Hz that attracts roaming Sorrow Entities.
+- **Physical Manifestation:** High Karma Debt produces physical symptoms: localized temperature drops, chronic heaviness in the limbs, and an acoustic aura of high-pitched resonance that attracts roaming Sorrow Entities.
 - **Extraction Protocol:** Paid through high-risk civic sacrifice—such as volunteering for hazardous perimeter defense in Zone E, serving on deep subterranean dredging crews, or submitting to the cleansing rites of the Katharcheok operations.
 
 ### 2.3 Currency 03: Soul Debt (영혼 부채 — Yeonghon Buchae)
@@ -80,7 +80,7 @@ The most insidious and pervasive form of liability in Somnarak, divided into thr
 The primary judicial instrument utilized by the Bureau is the **Collector Scale (수심의 저울 — Susim-ui Jeoul)**. 
 
 ### Mechanical & Resonant Operation
-- **Construction:** Forged from cold-cast basalt and hung with pans of unrefined silver-Han alloy. The balance beam is calibrated to resonate at exactly 432 Hz.
+- **Construction:** Forged from cold-cast basalt and hung with pans of unrefined silver-Han alloy. The balance beam is calibrated to resonate in pure harmonic equilibrium.
 - **Weighing Procedure:** The debtor places their right hand upon the left pan while reciting their full civil registry lineage. Upon the right pan, the Collector Scribe places calibrated lead counter-weights representing material marks, blood marks, and broken contracts.
 - **The Telemetric Verdict:**
   * **Level Balance:** The citizen is in civic equilibrium; no immediate foreclosure is authorized.

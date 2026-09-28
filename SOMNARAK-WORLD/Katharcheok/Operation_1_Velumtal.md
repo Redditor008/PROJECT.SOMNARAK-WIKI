@@ -115,7 +115,7 @@ At the far end of the room, three syndicate enforcers clad in reinforced leather
 
 "Phalanx lock!" Taeho commanded. He stepped forward, planting his shield into the flagstones. The burst of steel nails ricocheted harmlessly off his ballistic carapace. Taeho leveled his acoustic riot pike, pulling the trigger.
 
-A directed, 22 kHz acoustic shockwave erupted from the pike's muzzle. The high-frequency sonic pulse slammed through the lead guard's chest, instantly paralyzing his neuromuscular junctions. The guard dropped his weapon, collapsing to his knees in stunned, breathless paralysis.
+A directed, ultrasonic acoustic shockwave erupted from the pike's muzzle. The high-frequency sonic pulse slammed through the lead guard's chest, instantly paralyzing his neuromuscular junctions. The guard dropped his weapon, collapsing to his knees in stunned, breathless paralysis.
 
 Behind Taeho, Echo blurred across the room like a shadow, their stiletto striking the second guard's wrist with surgical precision, disarming him before sweeping his legs from beneath him. Joon rushed the third guard, slamming his magnetic barrier shield forward and pinning the enforcer against the brick wall.
 

@@ -14,7 +14,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight (Black) |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, battery acid, and stagnant sump water. |
+| **Physical Form** | Non-Organic — A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, corrosive vitriol, and stagnant sump water. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |
 | **R.D. Observation Level** | 2 — Basic |
@@ -95,7 +95,7 @@ Failure to vent burden pressure causes the tablet to sink into the containment p
 
 ## Appearance
 
-**Physical Form:** A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, battery acid, and stagnant sump water.
+**Physical Form:** A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, corrosive vitriol, and stagnant sump water.
 
 **Notable Features:**
 - The brass surface is marked with forty distinct tally-notches, representing forty years of compounding debt.
@@ -305,7 +305,7 @@ Directorate Synthesis: The Concourse designed these tallies to be indestructible
 
 ## 감각 묘사 (Flavor Text)
 
-The air around the table smells of old tarnished brass, damp diving wool, and the sour chemical bite of sulfurous battery acid. When you place your hand on the tablet, it feels unnervingly cold and impossibly dense, like trying to pick up a solid cube of lead that has rooted itself through the floor.
+The air around the table smells of old tarnished brass, damp diving wool, and the sour chemical bite of sulfurous vitriol. When you place your hand on the tablet, it feels unnervingly cold and impossibly dense, like trying to pick up a solid cube of lead that has rooted itself through the floor.
 
 **At first contact:** Your fingers strain against the weight. The notched centerline feels sharp and jagged beneath your thumb.
 

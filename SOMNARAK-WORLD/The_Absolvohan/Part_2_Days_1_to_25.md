@@ -443,7 +443,7 @@ Agent Lee receives the *Guardian Veil* suit and *Guardian Lens*, vastly upgradin
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 23:45, the facility transitions to minimal lighting. The hydraulic valves between Floors 1 and 2 hum at 440 Hz. Majin sits at his desk, staring at the telemetry monitor of SE-C-Iα-008 (*The Maw*).
+At 23:45, the facility transitions to minimal lighting. The hydraulic valves between Floors 1 and 2 hum with a low, continuous vibration. Majin sits at his desk, staring at the telemetry monitor of SE-C-Iα-008 (*The Maw*).
 
 The acoustic transcript of the midnight whisper displays six precise syllables—the name Majin carried before the Before-Time tore his mortal life away.
 

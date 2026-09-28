@@ -11,7 +11,7 @@
 | Metric Dimension | Programmatic Count | Status / Benchmark |
 | :--- | :--- | :--- |
 | **Total Sorrow Entities (`SOMNARAK-WORLD/Sorrow_Entities/`)** | **292** | 100% Individualized & Audited |
-| **Relic-Entities (Tool Abnormalities)** | **88** | 30.14% (Quota >= 25.0% PASS) |
+| **Relic-Entities (Object/Place/Time Work Entities)** | **88** | 30.14% (Quota >= 25.0% PASS) |
 | **Two-Work-Type Rule Compliance (Non-Subject Entities)** | **283 / 283** | **100.0% Compliant** |
 | **Core Stat Line Compliance (Speed, Gauges, Resistances)** | **292 / 292** | **100.0% Compliant** |
 | **Unknown Entities (`SOMNARAK-WORLD/Unknown_Entities/`)** | **12** | Standardized |

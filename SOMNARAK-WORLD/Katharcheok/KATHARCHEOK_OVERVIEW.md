@@ -308,7 +308,7 @@ Urban pacification within civilian residential zones strictly limits the use of 
 +==============================================+
 | ARMAMENT             | OPERATIONAL UTILITY   |
 +======================+=======================+
-| Acoustic Riot Pike   | 22 kHz neural shock   |
+| Acoustic Riot Pike   | Sonic neural shock    |
 |                      | disable without death |
 +----------------------+-----------------------+
 | Veil EMP Disruptor   | Overloads cloaking    |
@@ -322,7 +322,7 @@ Urban pacification within civilian residential zones strictly limits the use of 
 +======================+=======================+
 ```
 
-1. **Acoustic Riot Pikes**: High-voltage carbon-composite staves that discharge localized, frequency-modulated 22 kHz sound blasts. Penetrates civilian walls to disrupt human neuromuscular junctions, causing immediate, non-lethal collapse without inflicting permanent organ trauma.
+1. **Acoustic Riot Pikes**: High-voltage carbon-composite staves that discharge localized, frequency-modulated ultrasonic sound blasts. Penetrates civilian walls to disrupt human neuromuscular junctions, causing immediate, non-lethal collapse without inflicting permanent organ trauma.
 2. **Counterfeit Veil EMP Disruptors**: Portable micro-wave frequency emitters that specifically resonate with the unstable crystalline matrix of counterfeit Veil stones. When activated, the device overloads counterfeit stones, causing them to shatter into harmless inert dust and exposing concealed smuggling depots.
 3. **Quarantine Vacuum Casks (Classes I through IV)**: Triple-walled cylinders forged from flexible lead sheeting and basalt ceramic tiles. Features internal cryo-stabilizers and hermetic vacuum seals that safely isolate captured Sorrow Entities, preventing emotional radiation from leaking into civilian neighborhoods.
 4. **Magnetic Barricade Deployers**: Pneumatic steel canisters fired into doorway frames. Upon impact, expanding magnetic alloy struts lock into masonry, establishing a reinforced ballistic barrier within 8 seconds to seal off syndicate reinforcement corridors.

@@ -20,7 +20,7 @@
 ## 1. Tactical Overview & Operational Parameters
 
 - **Topological Coordinate:** Facility 01 Subterranean Sector 2, Vault B-03 Threshold (Depth -2,200m).
-- **Ambient Han Saturation:** 45% Inner Sorrow Density (Continuous rhythmic thrum at 380 Hz).
+- **Ambient Han Saturation:** 45% Inner Sorrow Density (Continuous rhythmic subterranean thrum).
 - **Environmental Hazard Modifiers:**
   * **Suffocating Humidity:** Ambient moisture from the entity reduces all explosive burn damage by 20%.
   * **Slippery Basalt Flagstones:** Nodes `[N05]` and `[N06]` require +1 AP to enter unless entering from an adjacent cover node.

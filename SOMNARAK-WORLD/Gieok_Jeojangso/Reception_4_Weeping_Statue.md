@@ -290,7 +290,7 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 | - Node 05: The Weeping Statue (Immobilized / White Alabaster        |
 |   Weeping Tears)                                                    |
 | - Node 06: Mnemonic Drone (Pneumatic Ram Shattering Altar Base)     |
-| - Node 07: Resonant Lens (Directing 528 Hz Memory Solace Wave)      |
+| - Node 07: Resonant Lens (Directing Consoling Resonance Wave )      |
 +---------------------------------------------------------------------+
 | - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
 |   | SP 50/50                                                        |
@@ -309,7 +309,7 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Prismatic Needle Void Execution Flurry]`. Spends 2 AP on `[Mnemonic Drive]`.
   * Mnemonic Drone: Delivers `[Pneumatic Ram Shattering Altar Base]` (3 AP).
-  * Resonant Lens: Directs `[528 Hz Memory Solace Wave]` (2 AP).
+  * Resonant Lens: Directs `[Consoling Resonance Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Void Execution Flurry]`: Rips through the sorrow heart for **880 Void damage** (Fatal 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining censer fragments for **410 Pierce damage**!

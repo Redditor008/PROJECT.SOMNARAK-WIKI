@@ -229,7 +229,7 @@ Catalogued under field code **SECC-E11 "The Petrification Cradle"**, the entity 
    * Inflicts severe Weight damage and applies [Creeping Stone] debuff to squad!
  - Sora activates [Silver Slumber Cowl: Resonance Inversion]:
    * Sora rolls Base 8 + Beat 1 (Resonant +4) + Beat 2 (Resonant +4) = 16!
-   * CLASH WIN! Sora tunes the silver needles to counter-frequency 432 Hz!
+   * CLASH WIN! Sora tunes the silver needles to inverted harmonic counter-phase!
    * The high-pitched lullaby is shattered! [Creeping Stone] debuff negated for entire squad!
    * Entity takes 88 Lament resonance damage from acoustic backlash.
 

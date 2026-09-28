@@ -109,7 +109,7 @@ Failure to maintain stasis allows the wax to fracture prematurely, venting local
 | **Envelope Medium** | Coarse municipal pulp paper, high lignin content, charred along lateral creases. |
 | **Seal Compound** | Deep indigo mineral wax mixed with 12% powdered Han-glass crystals. |
 | **Thermal Delta** | Surface temperature remains stable at -3.2°C regardless of ambient heat. |
-| **Acoustic Signature** | 14 Hz rhythmic hum matching steam-piston transit locomotives. |
+| **Acoustic Signature** | Low rhythmic hum matching steam-piston transit locomotives. |
 
 ## Origin
 

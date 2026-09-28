@@ -168,7 +168,7 @@ The rank hierarchy of the UCD blends military discipline with civil judicial aut
 ### 5.1 Tactical Breaching Equipment
 The UCD relies on specialized engineered tools designed for rapid entry into fortified criminal bastions:
 - **The Eight-Second Magnetic Ram:** A hydraulic pneumatic piston delivering eighty thousand foot-pounds of localized kinetic force. Capable of shearing through three-inch blast-hardened steel doors in under eight seconds without causing structural ceiling collapse.
-- **Acoustic Riot Pikes:** Long-range polearms equipped with piezoelectric vibrators tuned to 40 Hz. When thrust against an opponent's shield or armor, the weapon sends high-frequency vibrations through the metal, inducing instantaneous muscular paralysis and vomiting without inflicting permanent internal bleeding.
+- **Acoustic Riot Pikes:** Long-range polearms equipped with piezoelectric vibrators tuned to concussive dissonance. When thrust against an opponent's shield or armor, the weapon sends high-frequency vibrations through the metal, inducing instantaneous muscular paralysis and vomiting without inflicting permanent internal bleeding.
 - **Cryo-Brine Grenades:** Non-lethal crowd-control canisters that disperse sub-zero saline mist upon detonation, instantly extinguishing fire hazards, freezing slick grease floors, and temporarily blinding hostile enforcers.
 
 ---

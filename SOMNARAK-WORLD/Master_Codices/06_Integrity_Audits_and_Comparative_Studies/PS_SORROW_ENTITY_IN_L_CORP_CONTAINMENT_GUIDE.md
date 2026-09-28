@@ -30,7 +30,7 @@ However, when subterranean extraction drills breach below critical operational d
 
 ### 2. Physical & Environmental Characteristics in Containment
 When a Sorrow Entity is manifested inside a containment unit:
-- **Chamber Environment:** The sterile white lighting of the unit dims into an indigo-and-crimson twilight. Acoustic monitoring channels pick up a constant 528 Hz or 432 Hz subsonic hum.
+- **Chamber Environment:** The sterile white lighting of the unit dims into an indigo-and-crimson twilight. Acoustic monitoring channels pick up a constant harmonic subsonic hum.
 - **Han Brine Contamination:** Instead of clean Enkephalin vapors, the chamber floor accumulates a dark, salt-encrusted brine. The Sanitation Department must cycle thermal incinerators after every work turn to prevent structural corrosion.
 - **Enkephalin Transmutation:** Energy extracted from a Sorrow Entity produces standard PE-Boxes (Positive Enkephalin), but carries a 15% to 25% "Heavy Han Density". This dense energy yields higher power output per box but increases the global Qliphoth Meltdown rate across the facility.
 
@@ -149,7 +149,7 @@ When an agent extracts equipment from a Sorrow Entity in the Extraction Departme
 ### 1. Unique E.G.O Trait: Composure Load
 Unlike standard E.G.O suits that only have static agent level requirements (e.g., Fortitude III, Prudence II), Sorrow E.G.O imposes **Active Composure Load**:
 - While an agent is wearing a Sorrow E.G.O Suit or wielding a Sorrow Weapon, their maximum SP is reduced by a fixed amount (e.g., -15 SP for WAW, -30 SP for ALEPH).
-- In exchange, the gear grants **Acoustic Shockwaves**: every 4th strike releases a 528 Hz pulse that staggers all hostiles in the corridor.
+- In exchange, the gear grants **Acoustic Shockwaves**: every 4th strike releases a resonant pulse that staggers all hostiles in the corridor.
 
 ### 2. Acoustic Meltdown (Corrosion Dynamic)
 If an agent's SP hits 0 while equipped with Sorrow E.G.O:

@@ -58,7 +58,7 @@ Kael leaned over the starboard wing of the bridge, binoculars pressed to his eye
 
 ## Chapter II: Warlord Garek & The Iron Dust War-Rig
 
-Leading the ambush was **Sand-Corsair Warlord Garek**, the terror of the outer trade routes. His flagship war-rig—a monstrous thirty-meter battle crawler constructed from scavenged municipal girders and plated with welded railway iron—roared down from the eastern ridge. Mounted atop its cupola was a twin 50mm **Rotary Autocannon Battery** that spewed thousands of depleted uranium rounds per minute, chewing up the sandstone walls in blinding showers of stone splinters.
+Leading the ambush was **Sand-Corsair Warlord Garek**, the terror of the outer trade routes. His flagship war-rig—a monstrous thirty-meter battle crawler constructed from scavenged municipal girders and plated with welded railway iron—roared down from the eastern ridge. Mounted atop its cupola was a twin 50mm **Rotary Autocannon Battery** that spewed thousands of cold-cast basalt armor-piercing slugs per minute, chewing up the sandstone walls in blinding showers of stone splinters.
 
 At the rig's prow jutted a massive **Spiked Harpoon Ram**, studded with hardened tungsten teeth designed to peel open armored trailers like tin cans. Behind Garek's rig, two dozen dune-skimmers swarmed like hornets, firing kinetic harpoons into the rear refugee carriages.
 

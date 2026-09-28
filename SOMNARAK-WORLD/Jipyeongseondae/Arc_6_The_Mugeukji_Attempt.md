@@ -156,7 +156,7 @@ The Archon of the Void could not be harmed by conventional kinetic weapons; its 
 
 ### Turn 01 Action Resolution Log (Intercepting the Sensory Erasure Wave)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Acoustic Resonance Ward]`: Han-glass arm vibrates at 528 Hz, projecting an audible sound-bubble granting +4 Protection.
+  * Kael initializes `[Acoustic Resonance Ward]`: Han-glass arm vibrates in harmonic resonance, projecting an audible sound-bubble granting +4 Protection.
   * Sora powers up the Drift Throne's heavy acoustic horns at Node 10: Broadcasting the Anthem of the Nomad.
   * The Archon pulses with `[Aura of Absolute Non-Existence]`: All physical kinetic attacks deal 0 damage unless accompanied by sonic resonance.
 - **Step 2: Spatial Movement & Action Point Allocation**:

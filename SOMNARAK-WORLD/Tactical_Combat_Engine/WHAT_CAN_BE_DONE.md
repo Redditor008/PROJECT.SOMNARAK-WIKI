@@ -237,7 +237,7 @@ A skill can only be queued if `Distance` falls within the weapon's calibrated Ra
 - **Features:**
   * 2D pixel-art or stylized vector sprites on the 10-node battlefield.
   * Dynamic camera zooms during high-stakes clashes and Part Ruptures.
-  * Sound design featuring 432 Hz mantle hums and authentic Han acoustic effects.
+  * Sound design featuring mantle resonance hums and authentic Han acoustic effects.
   * Cross-platform release: WebAssembly (browser), Windows, Linux, and macOS.
 
 ### Milestone 05: Wiki & Encyclopedia Synchronization

@@ -289,7 +289,7 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
 | - Node 05: The Kind Healer (Immobilized / White Fog Venting         |
 |   Rapidly)                                                          |
 | - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)       |
-| - Node 07: Resonant Lens (Directing 528 Hz Memory Solace Wave)      |
+| - Node 07: Resonant Lens (Directing Consoling Resonance Wave )      |
 +---------------------------------------------------------------------+
 | - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
 |   | SP 50/50                                                        |
@@ -308,7 +308,7 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Four-Fold Stiletto Void Flurry]`. Spends 2 AP on `[Mnemonic Drive]`.
   * Mnemonic Drone: Delivers `[Pneumatic Sapper Ground Shockwave]` (3 AP).
-  * Resonant Lens: Directs `[528 Hz Memory Solace Wave]` (2 AP).
+  * Resonant Lens: Directs `[Consoling Resonance Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the Mercy Engine for **1,060 Void damage** (Fatal 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining bandages for **480 Pierce damage**!

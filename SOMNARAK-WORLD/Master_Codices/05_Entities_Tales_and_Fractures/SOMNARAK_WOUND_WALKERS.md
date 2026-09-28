@@ -47,7 +47,7 @@ While the Reverie Directorate enforces absolute containment and the Dawn Initiat
 The Wound Walkers bear physical marks of their pilgrimage directly upon their flesh:
 - **Ritual Absorption:** Through careful ritual incisions along the forearms, collarbone, and spine, Walkers allow small amounts of ambient Outside Han to merge with their bloodstream.
 - **The Mourning Brands (애도인 — Aedoin):** The Han nucleates under the skin, forming iridescent indigo and obsidian crystalline scar tissue.
-- **Organic Resonant Dampening:** These petrified scars act as biological emotional insulators, preventing the Walker's central nervous system from undergoing psychic Fracture even in high-density sorrow rifts. When tectonic Sorrow Tides rise, the scars radiate mild heat and hum at 14 Hz, serving as internal navigational compasses.
+- **Organic Resonant Dampening:** These petrified scars act as biological emotional insulators, preventing the Walker's central nervous system from undergoing psychic Fracture even in high-density sorrow rifts. When tectonic Sorrow Tides rise, the scars radiate mild heat and hum with low infrasound, serving as internal navigational compasses.
 
 ### Historic Encounters with Floor 8: The Gate Watch (Xyan)
 

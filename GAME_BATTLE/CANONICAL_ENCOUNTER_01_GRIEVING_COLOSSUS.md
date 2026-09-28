@@ -16,7 +16,7 @@
 ## 1. Tactical Overview & Operational Parameters
 
 - **Topological Coordinate:** Zone B Old District, Maw Perimeter Bulwark (Depth -450m).
-- **Ambient Han Saturation:** 40% Ambient Weeping Density (Continuous acoustic tremor at 432 Hz).
+- **Ambient Han Saturation:** 40% Ambient Weeping Density (Continuous deep acoustic tremor).
 - **Environmental Hazard Modifiers:**
   * **Acoustic Feedback:** Unprotected operatives in Nodes `[N06]` to `[N10]` take 5 Lament strain per turn.
   * **Shattered Basalt Field:** Nodes `[N04]` and `[N05]` require +1 Movement AP to enter without Agility passives.

@@ -119,7 +119,7 @@ Subterranean thermodynamics dictate that ambient emotional entropy intensifies w
 ## III. The Spire Path System & Subterranean Topology Mechanics
 
 ### 3.1 Node-Based Subterranean Navigation
-Because standard radio, GPS, and optical line-of-sight are impossible thousands of meters beneath solid rock, the Somnarak Exploration Decree utilizes the **Spire Path Navigation System**. Every descent through a stratum is mapped as a directed tactical topology composed of six distinct node classifications:
+Because atmospheric radio, surface magnetic reference, and optical line-of-sight are impossible thousands of meters beneath solid rock, the Somnarak Exploration Decree utilizes the **Spire Path Navigation System**. Every descent through a stratum is mapped as a directed tactical topology composed of six distinct node classifications:
 
 ```text
 +==============================================+
@@ -202,7 +202,7 @@ Every encounter throughout the seven subterranean descents operates under the **
 | P1: PASSIVES (MOMENTUM SURGE & SONAR TARGET LOCK)                   |
 | - Momentum Surge: Winning clashes awards +2 Speed on the next turn. |
 | - Sonar Target Lock: Yeonhwa tags part seams, giving +25% Stagger D |
-| - Primordial Resonator: Sora 528 Hz aura nullifies psychic miasma.  |
+| - Primordial Resonator: Sora Silver Chime nullifies psychic miasma. |
 +---------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (DEPTH CLAUSTROPHOBIA & SANITY ANCHOR)        |
 | - Composure (SP): Operative sanity against depth terror (0 to 50 SP |
@@ -224,7 +224,7 @@ Every encounter throughout the seven subterranean descents operates under the **
 ### 3.4 Subterranean Tectonic Pressure & Decibel Acoustic Sonar
 Operating at depths between -150m and -2,800m imposes unique environmental mechanics:
 1. **Depth Tectonic Pressure**: Bedrock compression strain inflicts continuous passive posture stress on all combatants unless counterbalanced by Warden Harin's ground anchors and Master Doha's hydraulic shoring.
-2. **Decibel Acoustic Sonar Management**: High-impact kinetic detonations echo across subterranean caverns. Excessive acoustic noise (>90 dB) risks triggering rockfalls or alerting dormant abyssal swarms, requiring Weaver Sora's 528 Hz damping cowls and Cartographer Yeonhwa's theodolite null-fields.
+2. **Decibel Acoustic Sonar Management**: High-impact kinetic detonations echo across subterranean caverns. Excessive acoustic noise (>90 dB) risks triggering rockfalls or alerting dormant abyssal swarms, requiring Weaver Sora's Silver damping cowls and Cartographer Yeonhwa's theodolite null-fields.
 
 ### 3.5 Targeted Part Dismantling & Non-Lethal Communion Protocols
 Apex guardians of the Before-Time are not malicious monsters; they are the petrified mourners and automated gatekeepers of ancient humanity. SED doctrine strictly enforces **Targeted Part Dismantling**:
@@ -381,7 +381,7 @@ Subterranean exploration requires multi-layered pressurized diving rigs engineer
 ### 5.2 Tactical Scientific Instruments
 - **The Horizon Lens**: An optical quartz visor mounted to the navigator's helmet. By refracting ambient light through a droplet of pure subterranean sorrow brine, the lens renders acoustic sound waves, entity emotional heat-signatures, and tectonic stress fractures visible in glowing azure patterns.
 - **The Basalt Pneumatic Anchor**: A heavy piston launcher loaded with expanding carbide-alloy pitons. Fired into sheer rock walls, it deploys four-barbed anchors capable of supporting a 20-ton tracked crawler, allowing the vanguard to descend sheer vertical rift cliffs.
-- **Resonance Flares**: Chemical-acoustic magnesium flares that ignite with an intense 5,000-lumen cyan flame while emitting a continuous 22 kHz high-frequency pitch. Blinds light-sensitive subterranean entities while creating an acoustic safety perimeter that deters wandering swarms.
+- **Resonance Flares**: Chemical-acoustic magnesium flares that ignite with an intense 5,000-lumen cyan flame while emitting a continuous ultrasonic high-frequency pitch. Blinds light-sensitive subterranean entities while creating an acoustic safety perimeter that deters wandering swarms.
 - **The Void-Barometer**: A hermetically sealed brass instrument containing a suspended droplet of pale sorrow fluid. Because raw sorrow expands in volume when an entity approaches or when tectonic collapse is imminent, the barometer provides advance warning of seismic shifts and entity ambushes.
 - **The Cranial Silver Tether**: A braided silver-wire neural shunt inserted into the base of each specialist's neck collar, connecting them to the crawler's central life-support console. If a specialist suffers a sudden psychic trauma or panic meltdown, the tether transmits a harmonic stabilizing frequency that shocks the central nervous system back into lucidity.
 

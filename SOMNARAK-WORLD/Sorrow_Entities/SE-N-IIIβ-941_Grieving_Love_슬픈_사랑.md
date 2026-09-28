@@ -107,7 +107,7 @@
 
 **Face, Limbs, or Core:** Her features are soft and unfinished, the way a face looks through tear-water: you can tell she is grieving before you can tell who she is. Her eyes are closed more often than open. At her centre, deep in the slime of her chest, something brighter pulses — the last of the cure, still trying to work.
 
-**Visible Effects:** The air near her smells faintly of the apothecary — bruised herbs and clean water — and grows cold. Lights dim around her; she drinks warmth from a room the way grief drinks warmth from a house. Standing near her, personnel report an involuntary ache in the chest and the urge to phone someone they love.
+**Visible Effects:** The air near her smells faintly of the apothecary — bruised herbs and clean water — and grows cold. Lights dim around her; she drinks warmth from a room the way grief drinks warmth from a house. Standing near her, personnel report an involuntary ache in the chest and the urge to speak the name of someone they love.
 
 **Distinctive Markers:**
 - The continuous weeping that never reaches the floor.

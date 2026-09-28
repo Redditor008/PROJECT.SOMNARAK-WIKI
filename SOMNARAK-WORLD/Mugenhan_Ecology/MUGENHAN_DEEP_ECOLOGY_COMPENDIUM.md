@@ -133,7 +133,7 @@ These organisms represent true living beings whose anatomy has naturally integra
 - **Biological Archetype**: Chelonian Reptile (80% Living Beast, 20% Lament M.A.W. Traits)
 - **Habitat**: Strata 3 & 4 subterranean lakes and silt basins (-500m to -1,100m)
 - **Physical Anatomy**: A gargantuan, slow-moving reptile spanning 4.5 meters in shell diameter, weighing upwards of eight tons. Its carapace is composed of hexagonal basalt slabs fused with deep-blue crystallized Lament apatite, creating a natural **M.A.W. Riot Bulwark** capable of withstanding heavy artillery and explosive detonations.
-- **Behavior & Diet**: Herbivorous silt-sifter feeding on subterranean reed kelp and mineral moss. Possesses an extraordinary lifespan of over five hundred years. Emits low-frequency acoustic groans (8 to 14 Hz) that calm turbulent water currents around its body.
+- **Behavior & Diet**: Herbivorous silt-sifter feeding on subterranean reed kelp and mineral moss. Possesses an extraordinary lifespan of over five hundred years. Emits low-frequency acoustic infrasonic groans that calm turbulent water currents around its body.
 - **Harvesting Yield**:
   * *Carapace Hex-Plates*: Yields Grade-β heavy defensive riot mantlets and vanguard shields.
   * *Lament Bile Fluid*: Refined into commercial sedative compounds and cryogenic hydraulic fluid.
@@ -152,7 +152,7 @@ These organisms represent true living beings whose anatomy has naturally integra
 - **Scientific Classification**: *Vermissilurus tectonicus*
 - **Biological Archetype**: Annelid/Vertebrate Hybrid (80% Living Beast, 20% Kinetic M.A.W. Traits)
 - **Habitat**: Strata 4 & 5 deep fault zones and tectonic friction cracks (-1,000m to -2,000m)
-- **Physical Anatomy**: A massive, segmented subterranean creature reaching thirty meters in length and two meters in diameter. Its head is capped by a singular, spiral-fluted horn forged from hyper-dense sorrow-titanium composite. The horn vibrates continuously at 22 kHz, pulverizing solid granite into fine sand as it burrows.
+- **Physical Anatomy**: A massive, segmented subterranean creature reaching thirty meters in length and two meters in diameter. Its head is capped by a singular, spiral-fluted horn forged from hyper-dense sorrow-titanium composite. The horn vibrates continuously with ultrasonic resonance, pulverizing solid granite into fine sand as it burrows.
 - **Behavior & Diet**: Geophagous filter feeder that consumes crushed stone, extracting trace Han-dust and metallic ores. Creates the cyclopean underground tunnels utilized as major subterranean transit highways.
 - **Harvesting Yield**:
   * *Sonic Resonance Horn*: The premier raw component used by the Architects Guild to forge heavy pneumatic breaching rams.
@@ -216,7 +216,7 @@ These organisms represent true living beings whose anatomy has naturally integra
 - **Scientific Classification**: *Bambusa sonans*
 - **Biological Archetype**: Arborescent Grass (80% Living Plant, 20% Acoustic M.A.W. Traits)
 - **Habitat**: Strata 2 & 3 seismic fault chasms and wind-tunnel caverns (-200m to -800m)
-- **Vegetative Structure**: Tall, hollow stalks of metallic purple bamboo that grow in dense groves. Subterranean air currents passing through internal nodal perforations produce a perpetual, harmonious acoustic chord (tuned to 432 Hz).
+- **Vegetative Structure**: Tall, hollow stalks of metallic purple bamboo that grow in dense groves. Subterranean air currents passing through internal nodal perforations produce a perpetual, harmonious acoustic chord tuned to natural harmonic resonance.
 - **Ecological Function**: The acoustic vibration deters predatory Sorrow Beasts and stabilizes tectonic micro-fractures in the cavern walls.
 - **Artisan Harvesting**: Cut and cured into resonance flutes and acoustic dampening panels for Directorate containment cells.
 

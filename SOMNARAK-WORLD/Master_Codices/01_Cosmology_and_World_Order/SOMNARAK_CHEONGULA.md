@@ -136,7 +136,7 @@ The Council had bigger concerns.
 | Day 12 (Log 1,145)                                                  |
 |   | Blue steam vents erupt inside tenement floors                   |
 | Day 21 (Log 1,189)                                                  |
-|   | Water wells turn bitter; liquid glows at 432 Hz                 |
+|   | Water wells turn bitter; liquid glows with Han                  |
 | Day 30 (Log 1,215)                                                  |
 |   | 400 miners refuse entry; Wardens enforce quotas                 |
 | Day 39 (Log 1,260)                                                  |

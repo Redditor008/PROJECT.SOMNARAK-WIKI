@@ -22,7 +22,7 @@
 ## 1. Tactical Overview & Operational Parameters
 
 - **Topological Coordinate:** Subterranean Containment Amphitheater, Floor 02: The Maw's Keep (  심연의 요새  / Simyeon-ui Yosae [The Maw's Keep]), Facility 01 (-1,200m Sub-Basalt Strata).
-- **Ambient Han Saturation:** 340 to 380 mMb (Pressurized Liquid Sorrow-Vapor at 14.8 Hz).
+- **Ambient Han Saturation:** 340 to 380 mMb (Pressurized Liquid Sorrow-Vapor at infrasonic resonance).
 - **Environmental Hazard Modifiers:**
   * **Seismic Hydraulic Backpressure:** Floor 02 houses the primary containment hydraulic dampeners for the Raw. At Phase-End of each combat phase, all active combatants must spend 1 Movement AP to brace against subterranean shockwaves or suffer 15 Weight (  무게  / Muge [Weight]) damage.
   * **Acoustic Vault Echo:** Containment bulkheads amplify low-frequency groans. Units failing a clash suffer +10% Composure strain for two combat turns.

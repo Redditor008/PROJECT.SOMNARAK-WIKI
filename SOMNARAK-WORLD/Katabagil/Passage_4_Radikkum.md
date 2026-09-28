@@ -62,7 +62,7 @@ Hanging from the cavernous ceiling hundreds of meters above were colossal, twist
 
 "The air is saturated with concentrated sorrow," Jisoo reported, tapping her pressure scale. "Ambient mnemonic density is registering 480 mHb. If our cognitive filters slip even three percent, the resonance from these amber roots will overwrite our own memories with the grief of strangers who died three centuries ago."
 
-Sora adjusted the silver cowl draped over her shoulders. The delicate tuning bells stitched along the hem vibrated in sympathetic harmony with the hanging grove. "Stay close to my frequency," she instructed softly. "As long as the bells ring at 432 Hz, your thoughts belong to you. If the pitch drops below 400, close your eyes and call out my name."
+Sora adjusted the silver cowl draped over her shoulders. The delicate tuning bells stitched along the hem vibrated in sympathetic harmony with the hanging grove. "Stay close to my frequency," she instructed softly. "As long as the bells ring in pure harmonic pitch, your thoughts belong to you. If the pitch sours into dissonance, close your eyes and call out my name."
 
 ---
 
@@ -144,7 +144,7 @@ At depth -1,220m, the expedition established a fortified rest redoubt inside the
 
 Inside the hollow amber pillar, the air was warm and smelled of dried honey and frankincense. Jisoo boiled field tea using dehydrated tea leaves and melted condensation from the amber walls, which possessed mild cognitive-soothing properties.
 
-Sora sat in the center of the camp, cross-legged, striking a series of silver acoustic tuning rods against the amber floor. The 432 Hz reverberation resonated through the hollow chamber, purging all traces of foreign psychic residue from the specialists' minds.
+Sora sat in the center of the camp, cross-legged, striking a series of silver acoustic tuning rods against the amber floor. The pure harmonic reverberation resonated through the hollow chamber, purging all traces of foreign psychic residue from the specialists' minds.
 
 "The resonance ahead is changing," Yeonhwa observed, studying the topological sonar readouts on her theodolite. "In another kilometer, the root systems converge into a single central organism. It spans nearly three hundred meters in diameter. Its heartwood pulsates with over three thousand metric tons of ancient, unreleased grief."
 
@@ -167,7 +167,7 @@ The blossom's petals were formed from crystalline human skulls, and its pollen w
  BOSS ATTRIBUTES:
  - Health (HP): 2,100 | Speed Dice: 2–6 (2 Action Slots)
  - Weaknesses: Grudge (Fatal 2.0x — Thermite fire incinerates pollen)
- - Primary Hazard: [Amnestic Pollen Wave] — Drains 15 SP per turn if unshielded
+ - Primary Hazard: [Oblivion Pollen Wave] — Drains 15 SP per turn if unshielded
 ================================================================================
 ```
 
@@ -321,7 +321,7 @@ A deafening acoustic wail shook the cavern walls.
 
 ###### Turn 01 Action Resolution Log (Canopy Roots & Spore Entanglement)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Sora initializes `[Harmonic Bell Resonator]`: Calibrates Silver Cowl acoustic chime to 432 Hz, creating an atmospheric counter-wave against airborne spore miasmas.
+  * Sora initializes `[Harmonic Bell Resonator]`: Calibrates Silver Cowl acoustic chime to harmonic pitch, creating an atmospheric counter-wave against airborne spore miasmas.
   * Harin activates `[Bulwark Intercept]`: Positioned at Node 02, intercepts projectile thorn showers targeting rear specialists.
   * Yeonhwa casts `[Sonar Spore Lock]`: Identifies fungal spore nodules along the canopy root joints.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -334,7 +334,7 @@ A deafening acoustic wail shook the cavern walls.
   * **Clash 1 (Node 04 to 05)**: SECC-056 unleashes `[Grave-Spore Cloud]` (Base 16 + 2 Coins = 24 Power, Area Amnesia/Lament).
     * Sora counters with `[Harmonic Bell Resonator]` (Base 19 + 2 Coins = 31 Power, Acoustic Repose).
     * **Clash Outcome**: Sora WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
-    * The radiant 432 Hz acoustic pulse strikes the expanding spore cloud, dispersing the toxic amnesia mist back into the root branches!
+    * The radiant silver acoustic pulse strikes the expanding spore cloud, dispersing the toxic amnesia mist back into the root branches!
     * Canopy Tendrils take **210 Lament damage** from the reflected acoustic shockwave, inflicting +46 Posture Strain!
   * **Clash 2 (Node 02 to 05)**: Arbor thrashes with `[Thorn Shower Volley]` (Power 22, Pierce).
     * Harin's `[Bulwark Intercept]` absorbs the entire salvo (`[P3: Parry/Protection]`). The two-meter tower shield deflects every petrified quill; zero team damage taken.
@@ -547,7 +547,7 @@ A deafening acoustic wail shook the cavern walls.
   * **Clash 1 (Node 05 to 05)**: SECC-056 unleashes `[Tide of Unremembered Tears]` (Base 20 + 3 Coins = 32 Power, Area Pale/Acoustic).
     * Sora clashes with `[REQUIEM OF THE LIVING SLUMBER]` (Base 26 + 3 Coins Heads = 45 Power, Supreme Mnemonic Ward).
     * **Clash Outcome**: SORA OVERWHELMING RELIC CLASH WIN (45 vs 32)!
-    * A radiant 528 Hz bell chime envelops the team in a shimmering protective silver dome (`[P3: Parry/Protection]`).
+    * A radiant silver bell chime envelops the team in a shimmering protective silver dome (`[P3: Parry/Protection]`).
     * The tidal wave of weeping spirits parts cleanly around the harmonic wave! Zero squad damage taken!
     * Sora speaks softly to the weeping idol: *"Your sorrow is recorded. You may sleep."*
     * The Arbor's psychic backlash collapses into stillness!
@@ -644,7 +644,7 @@ The seven specialists adjusted their gear, secured their relics, and began the l
 
 | Specialist | Narrative & Tactical Milestone |
 |---|---|
-| **Dreamer Sora** | Overcame her childhood nursery trauma; mastered 432 Hz/528 Hz mnemonic shielding. |
+| **Dreamer Sora** | Overcame her childhood nursery trauma; mastered harmonic silver mnemonic shielding. |
 | **Warden Harin** | Fortified frontline defense against three-ton root sweeps with zero team casualties. |
 | **Architect Doha** | Utilized incendiary sapper flare techniques to exploit Grudge vulnerabilities. |
 | **The Silent One** | Liberated Cohort 12's dream anchors into *The Burden of Year Zero*. |

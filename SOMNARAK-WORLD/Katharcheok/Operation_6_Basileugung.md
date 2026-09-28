@@ -143,7 +143,7 @@ Taeho stepped to the point of the wedge, locking his Obsidian Bastion into posit
 
 "Yuna, fire the acoustic disruptor!" Taeho ordered.
 
-Auditor Yuna activated the high-frequency acoustic emitter on her cipher slate. A powerful 24 kHz concussive wave rippled down the colonnade, resonating with the praetorians' helmets. The shock guards dropped their weapons, clutching their ears in agony as the disorienting acoustic frequency stripped their balance.
+Auditor Yuna activated the high-frequency acoustic emitter on her cipher slate. A powerful ultrasonic concussive wave rippled down the colonnade, resonating with the praetorians' helmets. The shock guards dropped their weapons, clutching their ears in agony as the disorienting acoustic frequency stripped their balance.
 
 Echo and Minho darted past the fallen shields, deploying non-lethal sedative darts and kinetic stun batons. Within three minutes, the entire two-hundred-man vanguard was disarmed and subdued. Not a single shot of lethal ordnance was fired by the UCD.
 

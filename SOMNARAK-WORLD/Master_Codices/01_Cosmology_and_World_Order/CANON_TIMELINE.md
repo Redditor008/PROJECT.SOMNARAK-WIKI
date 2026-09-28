@@ -83,7 +83,7 @@ By immutable Project Owner decree:
 To resolve the biological discrepancy of non-augmented operatives (such as Vanguard Min-Jae, Specialist Seol-A, and Striker Taeho) serving across 266+ cycles within R.D. without mortal senility, the following canonical physics apply:
 
 1. **Han-Saturation Cellular Stasis (  한 포화 세포 정체  , *Han Pohwa Sepo Jeongche*):**
-   - High-density ambient Han in lower containment strata drastically reduces cellular oxidation and biological telomere decay.
+   - High-density ambient Han in lower containment strata drastically reduces cellular oxidation and somatic decay.
 2. **Mnemonic Cycle Dilation (  기억 주기 지연  , *Gieok Jugi Jiyeon*):**
    - When an Absolvohan cycle collapses and triggers a facility reset, active operatives bound to high-grade M.A.W. weaponry or Echo-Cores do not experience continuous linear decades.
    - Between operational cycles, personnel are placed into cryo-engrammatic salt suspension within the deep vaults, waking only during active containment watches or breach alarms.

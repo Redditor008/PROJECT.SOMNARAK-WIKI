@@ -12,7 +12,7 @@
 | Target Celestial  : Planet Mugenhan (Boundless Sorrow)              |
 | Total Surface Area: 510,000,000 square kilometers                   |
 | Crustal Thickness : 35 to 80 kilometers (Silicate & Han Strata)     |
-| Acoustic Frequency: 432 Hz Planetary Mantle Resonant Frequency      |
+| Acoustic Frequency: Mantle Planetary Harmonic Resonance Frequency   |
 | Security Tier     : Sovereign Council Archive - Class I             |
 +---------------------------------------------------------------------+
 ```
@@ -24,7 +24,7 @@ Planet Mugenhan (무한 / Boundless Sorrow) spans a total surface area of approx
 
 The planet's internal structure consists of:
 - **The Solid Silicate Crust (35–80 km):** A dense foundation of granite, basalt, and mineralized Han-crystal strata.
-- **The Hydraulic Mantle (80–2,900 km):** A high-pressure convective layer where fluid Han circulates through vast tectonic subterranean channels (the Flerehan veins), maintaining a global acoustic hum of 432 Hz.
+- **The Hydraulic Mantle (80–2,900 km):** A high-pressure convective layer where fluid Han circulates through vast tectonic subterranean channels (the Flerehan veins), maintaining a global acoustic hum of deep planetary resonance.
 - **The Metallic-Crystalline Core (2,900–6,371 km):** A dense sphere of nickel-iron and petrified primordial Han, acting as the magnetic and metaphysical anchor of planetary coherence.
 
 ---
@@ -48,7 +48,7 @@ The planetary landmass is traditionally categorized across Four Sovereign Quadra
 | Domain 01 [ConHeAn]: Consoling Untouched Ocean (Primordial Basin)   |
 | Domain 02 [NuRoZen]: Numbing Frozen Tundra (Polar Cryo-Cap)         |
 | Domain 03 [UnWiHan]: Untouched Wild Land (Primordial Wilderness)    |
-| Tectonic Equilibrium: Global 432 Hz to 528 Hz Acoustic Veins        |
+| Tectonic Equilibrium: Global Harmonic Deep-Resonance Acoustic Veins |
 | Sovereign Status   : Planetary Sanctuaries & Non-Interference Zones |
 +---------------------------------------------------------------------+
 ```
@@ -62,7 +62,7 @@ The Consoling Untouched Ocean, designated in sovereign cartography as `[ConHeAn]
 
 #### Physical Characteristics
 - **Water Composition:** Pure, pristine fluid Han in total laminar equilibrium. The water is completely devoid of industrial contaminants, heavy metals, or toxic particulate matter. It radiates a soft indigo-bioluminescent glow visible from high-altitude survey balloons.
-- **Acoustic Signature:** Rather than crashing with violent wave breaks, the oceanic swells resonate at an infrasonic harmonic frequency of 528 Hz. This continuous, low-frequency hum acts as a planetary acoustic blanket.
+- **Acoustic Signature:** Rather than crashing with violent wave breaks, the oceanic swells resonate in pure harmonic equilibrium. This continuous, low-frequency hum acts as a planetary acoustic blanket.
 - **Living Flora & Megafauna:** Unlike the dead Sorrow Lake, `[ConHeAn]` supports thriving elemental marine life. Towering blue glass kelp beds grow hundreds of meters tall, sheltering schools of translucent ribbon-fish and massive, gentle abyssal leviathans that filter raw ambient sorrow out of the ocean floor.
 
 #### Metaphysical & Psychological Influence
@@ -84,7 +84,7 @@ The Numbing Frozen Tundra, cataloged as `[NuRoZen]`, covers the northern third o
 #### Metaphysical & Field Hazards
 - **Emotional Anaesthesia:** The cold of `[NuRoZen]` does not merely freeze flesh; it numbs consciousness. Operatives operating within the tundra gradually lose the ability to feel distress, fear, grief, or personal attachment. While this prevents Panic states and Composure breaks, it creates a deadly psychological indifference to mortal danger.
 - **Marble Stasis:** Personnel remaining stationary for more than twenty minutes risk irreversible crystallization. The blood and neural pathways freeze into translucent white Han jade, leaving the individual standing as a perfectly preserved, peaceful marble statue.
-- **Survival Protocols:** Expeditions traversing `[NuRoZen]` rely on heavy tracked crawler rigs equipped with Grudge-burning thermal hearths and 432 Hz acoustic de-icing coils to maintain mental vitality.
+- **Survival Protocols:** Expeditions traversing `[NuRoZen]` rely on heavy tracked crawler rigs equipped with Grudge-burning thermal hearths and resonant acoustic de-icing coils to maintain mental vitality.
 
 ---
 
@@ -131,7 +131,7 @@ Located in the southwestern tectonic depression between Somnarak's outer perimet
 ### 4.2 The Crystal Peaks (크리스탈 봉우리 — Keuriseutal Bongwuri)
 The northern alpine boundary separating Corner 1 from Corner 3:
 - **Tectonic Genesis:** Formed during ancient tectonic uplifts when supersonic Han veins broke the crust, freezing into diamond-hard crystalline monoliths with summits exceeding 7,200 meters.
-- **The Singing Needles:** Thousands of faceted acoustic spires shear northern winds into high-pitched harmonic soprano whistles between 8,000 Hz and 14,000 Hz.
+- **The Singing Needles:** Thousands of faceted acoustic spires shear northern winds into high-pitched harmonic soprano whistles across crystalline soprano registers.
 - **Alpine Thermal Shield:** Prevents the hyper-cryogenic winds of `[NuRoZen]` from freezing Somnarak's agricultural river valleys.
 
 ### 4.3 The Sea of Glass (유리의 바다 — Yuri-ui Bada)
@@ -156,7 +156,7 @@ The fertile alluvial river valleys surrounding Somnarak's agricultural basin:
 | **Stratum 03: Crystalline Han Veins** | 500 to 2,500 m | Faceted Han crystal clusters, copper veins | Primary conduit network; mined for M.A.W. resonance and fuel cells. |
 | **Stratum 04: The Flerehan Aquifer** | 2,500 to 6,000 m | Pressurized liquid Han aquifers, porous pumice | High-pressure hydraulic channels supplying municipal energy refineries. |
 | **Stratum 05: The Cheongula Faults** | 6,000 to 15,000 m | Black tectonic slag, ancient foundation stone | Site of the First Sorrow; highly unstable tectonic fracture zones. |
-| **Stratum 06: Deep Mantle Roots** | 15,000 m+ | Hyper-dense fluid mantle, Alpha Tree roots | Deep vault layer; anchors planetary acoustic resonance at 432 Hz. |
+| **Stratum 06: Deep Mantle Roots** | 15,000 m+ | Hyper-dense fluid mantle, Alpha Tree roots | Deep vault layer; anchors planetary acoustic resonance in deep harmonic equilibrium. |
 
 ---
 
@@ -164,7 +164,7 @@ The fertile alluvial river valleys surrounding Somnarak's agricultural basin:
 
 | Geographic Zone | Category | Dominant Han Element | Key Hazards & Geological Features |
 |---|---|---|---|
-| **The Consoling Untouched Ocean [ConHeAn]** | Sovereign Domain 01 | Lament (Blue) | 528 Hz harmonic swell, glass kelp, peaceful surrender drift. |
+| **The Consoling Untouched Ocean [ConHeAn]** | Sovereign Domain 01 | Lament (Blue) | deep harmonic swell, glass kelp, peaceful surrender drift. |
 | **Numbing Frozen Tundra [NuRoZen]** | Sovereign Domain 02 | Weight / Void | -75°C polar freeze, Marble Stasis risk, emotional anaesthesia. |
 | **The Untouched Wild Land [UnWiHan]** | Sovereign Domain 03 | Weight / Grudge | 127.5M km² primeval forest, elemental megafauna, wilderness surge. |
 | **The Sorrow Lake** | Natural Landmark | Concentrated Lament | 340 km endorheic basin, decade-rising watermark, 0 organic life. |

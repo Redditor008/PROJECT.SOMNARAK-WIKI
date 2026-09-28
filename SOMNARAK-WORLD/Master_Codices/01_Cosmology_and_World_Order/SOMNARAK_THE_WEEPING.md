@@ -137,7 +137,7 @@ Liquid Han is not mundane subterranean water; it is a dense, non-Newtonian emoti
 | **Viscosity & Rheology** | Non-Newtonian Shear-Thickening | Flows like chilled oil at rest; instantly solidifies into brittle crystal when struck kinetically |
 | **Thermodynamics** | Thermal Inversion Phenomenon | Physically radiates mild warmth (32°C), yet drains spiritual calories, inducing hypothermia |
 | **Luminosity & Spectra** | Cerulean-Indigo Bioluminescence | Ceaseless 450nm deep Lament glow; shifts to crimson-violet during high-agitation tides |
-| **Acoustic Frequency** | Sub-Vocal Murmur (14–18 Hz) | Emits an infrasonic weeping drone that vibrates biological marrow and destabilizes sanity |
+| **Acoustic Frequency** | Sub-Vocal Murmur (Infrasonic) | Emits an infrasonic weeping drone that vibrates biological marrow and destabilizes sanity |
 | **Density & Buoyancy** | Hyper-Dense (1.42 g/cm³) | Metallic tools float on the surface; human bodies are slowly pulled under by karmic weight |
 | **Crystallization Threshold** | Critical Resonance Saturation | Rapidly nucleates into solid Han-crystal when exposed to extreme grief or extraction lasers |
 

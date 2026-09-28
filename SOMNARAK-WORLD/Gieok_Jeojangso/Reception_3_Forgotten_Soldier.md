@@ -292,7 +292,7 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 | - Node 05: The Forgotten Soldier (Immobilized / Gears Grinding      |
 |   Steam)                                                            |
 | - Node 06: Mnemonic Drone (Hydraulic Ram Smashing Knee Brackets)    |
-| - Node 07: Resonant Lens (Focusing 528 Hz Harmonic Resonance)       |
+| - Node 07: Resonant Lens (Focusing Harmonic Ley-Resonance   )       |
 +---------------------------------------------------------------------+
 | - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
 |   | SP 50/50                                                        |
@@ -311,12 +311,12 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Prismatic Stiletto Void Execution Flurry]`. Spends 2 AP on `[Mnemonic Drive]`.
   * Mnemonic Drone: Delivers `[Hydraulic Ram Smashing Knee Brackets]` (3 AP).
-  * Resonant Lens: Focuses `[528 Hz Harmonic Resonance]` (2 AP).
+  * Resonant Lens: Focuses `[Harmonic Ley-Resonance]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Void Execution Flurry]`: Plunges through the clockwork core for **820 Void damage** (Fatal 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining shield fragments for **380 Pierce damage**!
   * Drone's `[Hydraulic Ram]`: Crushes the armor knee struts for **210 Blunt damage**!
-  * Lens's `[528 Hz Harmonic Resonance]`: Vibrates the exposed cogs for **140 Void damage**!
+  * Lens's `[Harmonic Ley-Resonance]`: Vibrates the exposed cogs for **140 Void damage**!
   * **TOTAL BURST DAMAGE: 1,550 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (1,600 HP) COMPLETELY SKIPPED!**:
   * Boss HP plunges from 2,030 down to **480/4,000 HP**! Tower Aegis completely destroyed (0/1,300 HP)!

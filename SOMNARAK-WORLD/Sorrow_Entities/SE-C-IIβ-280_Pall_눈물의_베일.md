@@ -234,7 +234,7 @@ The three-edged blade is etched with micro-capillary fullers that siphon condens
 **Category:** BLADES (Mirror-Polished Square Cleaver)
 **Grade:** β | **Element:** Lament
 
-Appearance : A broad rectangular surgical cleaver made from rustless hospital-grade steel, boasting a razor-honed flat cutting edge, rounded spine, and an ebony scales handle secured by brass rivets.
+Appearance : A broad rectangular surgical cleaver made from rustless hospice-grade steel, boasting a razor-honed flat cutting edge, rounded spine, and an ebony scales handle secured by brass rivets.
 
 The mirror-polished blade reflects no ambient distortion, remaining clinically sterile even after multiple strikes. It severs dense fibrous tissue and cartilage with effortless precision.
 

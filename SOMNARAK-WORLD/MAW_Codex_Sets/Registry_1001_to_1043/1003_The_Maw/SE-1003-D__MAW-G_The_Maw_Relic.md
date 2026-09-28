@@ -10,7 +10,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A heavy iron torque worn around the neck, set with a rough-hewn fragment of Cheongula foundation stone that vibrates at 432 Hz.
+A heavy iron torque worn around the neck, set with a rough-hewn fragment of Cheongula foundation stone that vibrates with a low mourning hum.
 
 ## CANONICAL SOURCE STAT BLOCK
 

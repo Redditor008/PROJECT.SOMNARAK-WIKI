@@ -295,7 +295,7 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 | - Node 05: The First Keeper (Immobilized / Central Heart Weeping    |
 |   Ink)                                                              |
 | - Node 06: Mnemonic Drone (Pneumatic Anchor Driving into Lectern)   |
-| - Node 07: Resonant Lens (Broadcasting 528 Hz Memory Solace Wave)   |
+| - Node 07: Resonant Lens (Broadcasting Consoling Resonance Wave )   |
 +---------------------------------------------------------------------+
 | - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
 |   | SP 50/50                                                        |
@@ -314,12 +314,12 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Mnemonic Resonance Execution]`. Spends 2 AP on `[Four-Fold Stiletto Flurry]`.
   * Mnemonic Drone (Speed 5 -> 3 AP): Moves to Node 06. Spends 3 AP on `[Pneumatic Anchor Sapper]`.
-  * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 07. Spends 2 AP on `[528 Hz Solace Wave]`.
+  * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 07. Spends 2 AP on `[Consoling Resonance Wave]`.
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Mnemonic Resonance Execution]`: Drives into the core for **620 Void damage** (Fatal 2.0x proc!)!
   * Seiyon's `[Four-Fold Stiletto Flurry]`: Rips through the remaining codex for **340 Pierce damage**!
   * Drone's `[Pneumatic Anchor]`: Crushes the lectern base for **160 Weight damage**!
-  * Lens's `[528 Hz Solace Wave]`: Channels resonance for **120 Void damage**!
+  * Lens's `[Consoling Resonance Wave]`: Channels resonance for **120 Void damage**!
   * **TOTAL BURST DAMAGE: 1,240 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (1,280 HP) COMPLETELY SKIPPED!**:
   * Boss HP plunges from 1,620 down to **380/3,200 HP**! Archival Codex completely destroyed (0/1,000 HP)!

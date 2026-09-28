@@ -70,7 +70,7 @@ A fundamental architectural distinction governs typography and ASCII formatting 
 | 14:22:08 - Majin: Deploy cryogenic veil mist across Corridor Alpha. |
 | 14:22:12 - Dekan: Junior Agent Kang is pinned under fallen girder!  |
 | 14:22:16 - Dekan: Scaled Maw-Flesh Arm drives deep into the beast!  |
-| 14:22:20 - Warning: Dekan vital frequency decoupling at 0.0 Hz!     |
+| 14:22:20 - Warning: Dekan vital frequency decoupling at null!       |
 | 14:22:24 - Majin: Emergency abort! Trigger Mk. IX Chrono-Anchor!    |
 +=====================================================================+
 ```
@@ -140,7 +140,7 @@ A fundamental architectural distinction governs typography and ASCII formatting 
 | 14:22:07 - Director Majin: Deploy cryogenic veil mist immediately. Do not permit thermal expansion into Sector 2.           |
 | 14:22:11 - Lead Dekan: Negative, Director! Junior Agent Kang is pinned under a collapsed structural support girder!         |
 | 14:22:15 - Lead Dekan engages: Scaled Maw-Flesh Arm drives deep into incandescent beast, crushing its heat conduit.         |
-| 14:22:19 - Warning: Dekan vital frequency decoupling. Reality ballast dropping toward critical threshold 0.0 Hz.            |
+| 14:22:19 - Warning: Dekan vital frequency decoupling. Reality ballast dropping toward critical threshold null.              |
 | 14:22:23 - Director Majin: Chronal rewind authorized. Seiyon, activate the Mk. IX Chrono-Anchor immediately!                |
 +=============================================================================================================================+
 ```

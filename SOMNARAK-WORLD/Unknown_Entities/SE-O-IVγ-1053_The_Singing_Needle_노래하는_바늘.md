@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void (Pale) / Lament (Blue) |
 | **Manifestation** | Subject-Acoustic / Crystal Shear |
-| **Physical Form** | Slender Crystalline Spire — A twelve-meter column of faceted blue-white crystal that moves by shearing through bedrock. Around its apex hover dozens of floating acoustic needles that rotate at thousands of revolutions per minute, producing an ear-piercing whistle between 8,000 Hz and 14,000 Hz. |
+| **Physical Form** | Slender Crystalline Spire — A twelve-meter column of faceted blue-white crystal that moves by shearing through bedrock. Around its apex hover dozens of floating acoustic needles that rotate at thousands of revolutions per minute, producing an ear-piercing whistle across piercing crystalline registers. |
 | **Movement** | Hovering / Sub-Bedrock Boring (1.8 m/s). |
 | **Location** | The Crystal Peaks (Northern Ridge Border) |
 | **R.D. Observation Level** | 3 — Mountain Pass Telemetry |

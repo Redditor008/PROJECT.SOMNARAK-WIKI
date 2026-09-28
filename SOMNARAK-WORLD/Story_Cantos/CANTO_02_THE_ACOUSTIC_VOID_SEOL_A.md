@@ -36,7 +36,7 @@
 | TIMESTAMP    : Third Watch (14:15 Afternoon / Shift Sweep)          |
 | PERSONNEL    : Specialist Seol-A, Warden Min-Jae, Vanguard Taeho    |
 | STATUS       : Baseline Composure 120/120                           |
-|   | Ambient Resonance 440 Hz                                        |
+|   | Ambient Resonance Pitch A                                       |
 +=====================================================================+
 ```
 
@@ -61,7 +61,7 @@ A deep, grinding voice echoed down the access corridor. Min-Jae stepped through 
 
 "It keeps the needle from drifting," Seol-A replied without looking up. She held a small brass tuning fork between two fingers, flicked it with her thumb, and pressed the vibrating stem against the mastoid bone behind her left ear. The physical vibration momentarily cancelled the phantom frequency, granting her three seconds of clean, hollow numbness. "Taeho is still stomping his boots in the decontamination wash?"
 
-"He's scraping slag off his knee-guards," Min-Jae said, extending a steaming mug toward her. "He claimed the coolant spray tasted like battery acid. I told him he shouldn't open his mouth while running through chemical mist."
+"He's scraping slag off his knee-guards," Min-Jae said, extending a steaming mug toward her. "He claimed the coolant spray tasted like sulfuric vitriol. I told him he shouldn't open his mouth while running through chemical mist."
 
 Seol-A took the mug. Steam rose in pale ribbons, carrying the sharp, earthy scent of roasted chicory root and powdered barley grown in the hydroponic cisterns of Zone C. She took a slow sip. The heat cut through the cold ache in her throat.
 
@@ -161,7 +161,7 @@ Then, the stage began to sing.
 +---------------------------------------------------------------------+
 | ENTITY       : SE-C-IIIg-021 (The Hollow Choir / Rank III Fragment) |
 | ACTIVE CHORUS: 144 Ethereal Harmonic Vocal Nodes                    |
-| SOUND OUTPUT : 138.4 dB at 220 Hz Fundamental / 14.2 kHz Overtone   |
+| SOUND OUTPUT : 138.4 dB at Low Fundamental / High Overtone          |
 | MENTAL LOAD  : Severe Auditory Despair / Composure Drain -18 / Turn |
 | LETHAL THRESH: Harmonic Cavitation of Brain Stem within 180 Seconds |
 +=====================================================================+

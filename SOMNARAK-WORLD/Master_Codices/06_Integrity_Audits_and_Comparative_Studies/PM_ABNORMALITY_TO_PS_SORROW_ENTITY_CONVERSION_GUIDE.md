@@ -30,7 +30,7 @@ Before altering any numerical statistics, the designer must understand the funda
 | **Primary Substance** | **Cogito (Enkephalin)** — Extracted from the collective human unconscious. | **Han (  한   / Fluid & Acoustic Sorrow)** — Planetary weeping condensed into physical matter. | Replace psychological dream concepts with environmental, acoustic, and geological grief. |
 | **Origin Source** | Fairy tales, personal guilt, urban legends, individual sins. | Historical mining disasters, corporate debt, forgotten treaties, colonial neglect. | Root entity origins in the 6,000-year history of Somnarak and the Four Corners. |
 | **Physical Manifestation** | Biological or conceptual monsters held inside glass cells. | Five physical types: **Subject (`[S]`)**, **Object (`[O]`)**, **Place (`[P]`)**, **Time (`[T]`)**, **Hazard (`[H]`)**. | Assign strict manifestation codes. Inanimate types immediately lock into the Two-Work-Type Rule. |
-| **Salvation Dynamic** | **E.G.O** — Individual assertion of personal ego and willpower. | **Hope Transformation (HT)** — Communal reconciliation, 528 Hz healing resonance. | Convert personal triumph into communal restoration and grief alleviation. |
+| **Salvation Dynamic** | **E.G.O** — Individual assertion of personal ego and willpower. | **Hope Transformation (HT)** — Communal reconciliation, communal healing resonance. | Convert personal triumph into communal restoration and grief alleviation. |
 
 ---
 
@@ -221,7 +221,7 @@ Every standard Subject entity extracts into three pieces:
 |---|---|---|---|---|
 | **Primal Marrow** |   골수형   (*Golsu-hyeong*) | Bio-organic bone, hardened sinew, ossified tar. | High Grudge (Crimson) defense. | Inflicts Bleed on targets; drains wielder physical HP on heavy swings. |
 | **Tempered Brass**|   단조황동   (*Danjo Hwangdong*)| Heavy industrial boiler-iron, hydraulic plates. | High Weight (Black) defense. | Reduces operative Speed by -1; grants complete knockback immunity. |
-| **Resonant Alloy**|   공명합금   (*Gongmyeong Hapgeum*)| Acoustically tuned silver-blue crystal. | High Lament (Deep Blue) defense. | Boosts operative Clarity; releases 528 Hz pulses on parry. |
+| **Resonant Alloy**|   공명합금   (*Gongmyeong Hapgeum*)| Acoustically tuned silver-blue crystal. | High Lament (Deep Blue) defense. | Boosts operative Clarity; releases resonant shockwave pulses on parry. |
 | **Woven Thread**  |   직조사   (*Jikjosa*) | Light silk, mourner veils, fine spider-chiffon. | High Void (Pale White) defense. | Grants +1 Speed and +15% Evasion; vulnerable to kinetic Grudge damage. |
 | **Void Glass**    |   공허유리   (*Gongheo Yuri*) | Brittle, transparent black-and-white crystals. | True Void armor. | Strikes inflict fixed percentage trauma; shatters if physical armor fails. |
 

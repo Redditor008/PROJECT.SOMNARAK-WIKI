@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - The Unbroken Pledge targets surviving veterans, retirees, and disgraced wardens who outlived their sworn partners.
-- When an operative acts honorably in accordance with their old pledge, the entity emits a soothing 528 Hz hum, increasing the operative's Posture recovery by 15%.
+- When an operative acts honorably in accordance with their old pledge, the entity emits a soothing harmonic hum, increasing the operative's Posture recovery by 15%.
 - If the operative attempts to desert, violate protocol, or deny their companion's sacrifice, the entity constricts the windpipe, inflicting heavy Lament damage and rapid asphyxiation.
 
 ## Combat Record

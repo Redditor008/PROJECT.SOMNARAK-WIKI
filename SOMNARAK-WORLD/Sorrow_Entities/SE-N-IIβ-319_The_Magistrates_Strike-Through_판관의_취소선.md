@@ -283,7 +283,7 @@ M.A.W. drawn from this entity embodies bureaucratic erasure. It protects by maki
 Recovered from the High Magistrate's private chambers on Floor 6, sealed within a cedar box marked with the wax crest of the Cancelled Registry. The mineral exhibits zero radiometric decay and actively absorbs ambient acoustic waves.
 
 **Entry 2 — <Excerpt from Field Log>**
-"When the chalk is held between the thumb and forefinger, the handler's vocal cords contract involuntarily. Audio recordings in the observation booth capture faint, raspy whispers at 14 Hz: 'Cancelled... struck through... absent from this court...'"
+"When the chalk is held between the thumb and forefinger, the handler's vocal cords contract involuntarily. Audio recordings in the observation booth capture faint, raspy infrasonic whispers: 'Cancelled... struck through... absent from this court...'"
 
 **Entry 3 — <Excerpt from Lead Analyst Notes>**
 "Operative Seol-A inspected the registry ledger preserved beside the plinth. Every single entry across forty folio pages has been obliterated by an aggressive horizontal lime stroke. The ink underneath cannot be recovered even with multispectral imaging; the paper itself has forgotten who was written there."

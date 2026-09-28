@@ -76,7 +76,7 @@ Rising from the center of the subterranean sea, three kilometers from shore, was
 
 Advancing along the quartz shoreline toward the natural causeway at -3,050 meters, the shallow waters began to churn with phosphorescent ripples.
 
-Crawling from the luminous tide were three colossal crustaceans forged from translucent turquoise crystal and hardened coral—**SECC-UR-VIIβ-033 "The Mugenhan Tide Crawlers"** (Grade-β Potency). Their shells resonated with the deep acoustic drone of the subterranean ocean, brandishing crushing pincers that hummed at 20 kHz.
+Crawling from the luminous tide were three colossal crustaceans forged from translucent turquoise crystal and hardened coral—**SECC-UR-VIIβ-033 "The Mugenhan Tide Crawlers"** (Grade-β Potency). Their shells resonated with the deep acoustic drone of the subterranean ocean, brandishing crushing pincers that hummed with a piercing ultrasonic drone.
 
 ```text
 ================================================================================
@@ -94,7 +94,7 @@ Crawling from the luminous tide were three colossal crustaceans forged from tran
 #### Turn 1: Absorbing the Oceanic Impact
 - **Clash 1:** Tide Crawler A lunges with `[Oceanic Pincer Crush]` (`Base 9 + 2 Harmonic Beats = 13`). Harin meets the impact head-on with `[Bulwark Intercept]` (`Base 11 + 3 Harmonic Beats = 17`). Harin wins decisively; her tower shield repels the pincer with a resonant chime, causing micro-fractures across the beast's coral joint (180 kinetic impact damage).
 - **Clash 2:** Tide Crawler B charges toward Minjae. The Silent One intercepts with `[Severing Crescent]` (`Base 13 + 3 Harmonic Beats = 19` vs `11`). The relic blade shears cleanly through the left coral carapace, dealing 280 Void damage.
-- **Harmonic Resonance:** Sora activates her Silver Cowl at 528 Hz, harmonizing with the aquatic frequency of the tide. The turquoise water around Tide Crawler C stills instantly, freezing the entity's appendages in acoustic suspension (-4 Defense).
+- **Harmonic Resonance:** Sora activates her Silver Cowl in harmonic resonance, harmonizing with the aquatic frequency of the tide. The turquoise water around Tide Crawler C stills instantly, freezing the entity's appendages in acoustic suspension (-4 Defense).
 
 #### Turn 2: Controlled Dispersal
 - Doha fires a pressurized pneumatic sapper anchor into Tide Crawler C's central dorsal plate, shattering the resonant coral shell into harmless quartz sand.
@@ -177,7 +177,7 @@ Yeonhwa laid her finished cartographic parchment across a flat crystal slab. The
 
 Crossing the natural crystal bridge to the central island at depth -3,550 meters, the path was barred by the primordial sentinel of the wellspring: **SECC-E50 "The Sovereign Resonator"** (Grade-β Potency).
 
-Standing five meters tall, its body was formed from a lattice of interlocking tuning forks cast from Before-Time white alloy, vibrating with a continuous, piercing 432 Hz tone that caused the air to shiver like heat mirages.
+Standing five meters tall, its body was formed from a lattice of interlocking tuning forks cast from Before-Time white alloy, vibrating with a continuous, piercing discordant chime that caused the air to shiver like heat mirages.
 
 ```text
 ================================================================================
@@ -192,7 +192,7 @@ Standing five meters tall, its body was formed from a lattice of interlocking tu
 
 ### Tactical Encounter Highlights
 - **Turn 1 (Sonic Interception):** The Resonator strikes its massive chest-prongs, releasing an acoustic shockwave. Harin interposes her tower shield with `[Vow of the Low Bulwark]`, redirecting the vibrational energy harmlessly into the bedrock.
-- **Turn 2 (Harmonic Counter-Chime):** Sora rings her Silver Cowl at exactly 432 Hz in inverted phase, creating perfect destructive interference. The Resonator's acoustic shield shatters with an ear-splitting crystal fracture (-480 Lament damage).
+- **Turn 2 (Harmonic Counter-Chime):** Sora rings her Silver Cowl in inverted harmonic phase, creating perfect destructive interference. The Resonator's acoustic shield shatters with an ear-splitting crystal fracture (-480 Lament damage).
 - **Turn 3 (The Silence Strike):** The Silent One leaps forward, their relic cleaver sheathed in pale Void energy. With a single silent sweep, the blade severs the central tuning node. Doha drives a sapper wedge into the base, collapsing the guardian into singing silver fragments.
 - **Rewards:** `[The Resonator's Silver Tuning Fork]` recovered; the pathway into the First Wellspring opens.
 
@@ -302,7 +302,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 |   Shield)                                                           |
 | - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Anchor    |
 |   Ram)                                                              |
-| - Node 04: Sora (Lead Resonator Band 2 / Silver Cowl 528 Hz         |
+| - Node 04: Sora (Lead Resonator Band 2 / Silver Cowl Chime)         |
 |   Harmonics)                                                        |
 | - Node 05: SECC-UR-VIIω-001 First Mourner (Aura of Grief & Tear     |
 |   Halo)                                                             |
@@ -366,7 +366,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 +=====================================================================+
 |           TACTICAL STAGE HUD: PASSAGE 07 — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — AURA OF GRIEF SHATTERED & 528 HZ CHIME]     |
+| [STAGE NODES 01 TO 10 — AURA OF GRIEF SHATTERED & SILVER CHIME]     |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [RIG]            [HARIN] [DOHA]  [MOURN]                            |
 | [SORA]  [YEON]  [MINJAE][JISOO] [SILENT]                            |
@@ -403,7 +403,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
   * **Clash 1 (Node 06 to 05)**: SECC-UR-VIIω-001 fires `[Petrified Tear Barrage]` (Base 18 + 2 Coins = 26 Power, Piercing Lament).
     * Sora clashes with `[Silver Cowl: Harmonic Damping Wave]` (Base 23 + 3 Coins Heads = 41 Power, Lament Harmony).
     * **Clash Outcome**: Sora WINS THE CLASH OVERWHELMINGLY (41 vs 26)!
-    * The Silver Cowl resonates at pure 528 Hz; the harmonic wave completely shatters the surging tidal barrier!
+    * The Silver Cowl resonates with pure clarity; the harmonic wave completely shatters the surging tidal barrier!
     * Deals **580 Lament damage** (Fatal 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Aura of Primordial Grief collapses completely, exposing the entity's inner sanctum (**Aura HP: 0/1,200**)!
     * **EFFECT**: Boss loses tidal barrier shielding; boss permanently loses 1 Speed Slot!

@@ -27,7 +27,7 @@
 - **Lore Profile & Macro-Canon Significance:**
   The Grieving Colossus is an eighteen-meter petrified titan composed of ancient volcanic basalt, compressed slate, and an internal reservoir of weeping Han-brine. Historical records from the First Cycle indicate the Colossus originated during the Great Weeping, condensing from the collective unmourned sorrow of forty thousand subterranean laborers who perished during the initial foundation digging of Zone D.
 
-  Unlike predatory anomalies or feral Void-spawn, the Colossus harbors zero active malice toward humanity. It wanders the abandoned subterranean aqueducts of Zone D slowly, weeping continuously. Where its crystalline tears strike the earth, petrified buildings and basalt monoliths sprout spontaneously from the bedrock. However, its immense physical mass, tectonic tread tremors, and constant acoustic frequency (resonating at 432 Hz) present an existential containment threat to Somnarak's metropolitan power infrastructure. When its sorrow density spikes, the Reverie Directorate scrambles elite Grade-4 and Grade-5 Strike Teams to neutralize its movement, dismantle its weight-bearing limbs, and harvest its condensed core via forced Composure Meltdown.
+  Unlike predatory anomalies or feral Void-spawn, the Colossus harbors zero active malice toward humanity. It wanders the abandoned subterranean aqueducts of Zone D slowly, weeping continuously. Where its crystalline tears strike the earth, petrified buildings and basalt monoliths sprout spontaneously from the bedrock. However, its immense physical mass, tectonic tread tremors, and constant acoustic frequency (resonating with deep mantle vibrations) present an existential containment threat to Somnarak's metropolitan power infrastructure. When its sorrow density spikes, the Reverie Directorate scrambles elite Grade-4 and Grade-5 Strike Teams to neutralize its movement, dismantle its weight-bearing limbs, and harvest its condensed core via forced Composure Meltdown.
 
 ---
 
@@ -173,7 +173,7 @@ The encounter progresses through three distinct, escalating tactical phases tied
 
 ### 5.3 Skill 3: Acoustic Lament Wave
 - **Cost:** 1 AP • **Range Band:** Band 1-4 Area • **Damage Type:** Lament • **Base Clash Value:** 20
-- **Damage Profile:** Emits a low-frequency mourning hum (432 Hz). Deals 20 Lament damage and drains 20 Composure from all units across 3 contiguous nodes.
+- **Damage Profile:** Emits a low-frequency mourning hum. Deals 20 Lament damage and drains 20 Composure from all units across 3 contiguous nodes.
 - **Disabled By:** Rupturing the Basalt Crown (Head).
 
 ### 5.4 Skill 4: Tectonic Rupture (Phase 2 & 3 Mass Attack)

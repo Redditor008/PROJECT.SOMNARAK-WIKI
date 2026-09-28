@@ -33,7 +33,7 @@
 | LOCATION  : Sub-Level 2 Warden Armory & Sector 4 Mess Hall          |
 | TIMESTAMP : First Watch (06:45 Morning / Shift Rotation)            |
 | PERSONNEL : Warden Min-Jae, Specialist Seol-A, Vanguard Taeho       |
-| STATUS    : Baseline Composure 115/115 | Ambient Han 14.2 Hz        |
+| STATUS    : Baseline Composure 115/115 | Ambient Han Stable         |
 +=====================================================================+
 ```
 

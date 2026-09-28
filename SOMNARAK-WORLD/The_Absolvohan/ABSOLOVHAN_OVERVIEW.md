@@ -984,7 +984,7 @@ Each ending represents an ontological divergence point governed by strict facili
 Ending A triggers unconditionally whenever **any of the eight Echo-Core Attendants suffers fatal vessel destruction, core rupture, or irreversible spiritual de-synchronization** during an active operational shift on any calendar day (Days 1 through 365).
 
 The Echo-Cores are not mechanical processors; they are the living human souls of the Reverie Directorate's founding anchors. Their localized consciousness maintains the facility's reality anchor against the crushing weight of the Desolate. When an attendant vessel falls in combat against a breached Sorrow Entity or Ordeal:
-1. The attendant's individual harmonic frequency drops to 0.0 Hz.
+1. The attendant's individual harmonic frequency drops to harmonic null.
 2. The local reality bubble surrounding the facility destabilizes, threatening to plunge the entire subterranean complex into the primordial River.
 3. To prevent permanent, irreversible soul dissolution into the River, Director Majin must execute an immediate **Mnemonic Emergency Abort**.
 
@@ -996,7 +996,7 @@ The Echo-Cores are not mechanical processors; they are the living human souls of
 +----------------------+-----------------------+
 | Trigger Event        | Echo-Core Fatality    |
 +----------------------+-----------------------+
-| Soul Frequency       | 0.00 Hz (Dissolving)  |
+| Soul Frequency       | Null (Dissolving)     |
 +----------------------+-----------------------+
 | Reality Moorings     | Shearing at 92.4%     |
 +----------------------+-----------------------+

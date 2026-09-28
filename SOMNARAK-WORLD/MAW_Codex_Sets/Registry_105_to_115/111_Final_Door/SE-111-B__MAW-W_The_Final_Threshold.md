@@ -10,7 +10,7 @@
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 
-A slender needle-glaive forged from black petrified boundary crystal, vibrating silently at 0 Hz.
+A slender needle-glaive forged from black petrified boundary crystal, resting in absolute vibrationless stasis.
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|

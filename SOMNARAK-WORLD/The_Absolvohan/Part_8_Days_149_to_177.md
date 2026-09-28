@@ -203,7 +203,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ###### Turn 01 Action Resolution Log (Floor 1 Retrofit Vault)
 - **Step 1: Floor 1 Echo-Core Resonance (Director Majin & Secretary Seiyon)**:
-  * Seiyon deploys *The Acoustic Matrix*, tuning Floor 1's resonance dampers to match the fireflies' gentle 432Hz frequency.
+  * Seiyon deploys *The Acoustic Matrix*, tuning Floor 1's resonance dampers to match the fireflies' gentle resonance frequency.
 - **Step 2: Movement & Action Point Spending**:
   * Secretary Seiyon (Speed 5 -> 3 AP) operates from Node 5 (Mid-Field Range Band 3). Spends 2 AP to execute `[Flerehan Acoustic Synchronization]`. Remaining 1 AP in Guard.
   * Agent Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
@@ -223,7 +223,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [FIREFLIES] [PARK] [SEIYON] [MAJIN]                                 |
 +---------------------------------------------------------------------+
-| - Node 01: Swarm of Twilight Fireflies (Agitation 52/120 / 432Hz)   |
+| - Node 01: Swarm of Twilight Fireflies (Agitation 52/120 / Chime)   |
 | - Node 03: Agent Park (Range Band 2 / Flerehan Acoustic Staff)      |
 | - Node 05: Secretary Seiyon (Range Band 3 / Tuning Conduit Valves)  |
 | - Node 08: Director Majin (Command Console / Manifold Monitoring)   |
@@ -237,7 +237,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ###### Turn 02 Action Resolution Log (Conduit Tuning & Harmonic Stagger)
 - **Acoustic Alignment & Stagger Induction**:
-  * Secretary Seiyon tunes the Floor 1 acoustic bypass to resonate at exactly 432.18 Hz.
+  * Secretary Seiyon tunes the Floor 1 acoustic bypass to resonate in harmonic equilibrium.
   * Agent Park channels a gentle Flerehan wave from Node 03:
     * Deals **0 Physical Harm**, delivering **38 Harmonic Pacification Points**!
     * Agitation drops to **52/120**, crossing the **60% Stagger Threshold (72 Points)**!
@@ -383,7 +383,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ###### Turn 01 Action Resolution Log (Floor 1 Retrofit Vault)
 - **Step 1: Floor 1 Echo-Core Resonance (Director Majin & Secretary Seiyon)**:
-  * Seiyon deploys *The Acoustic Matrix*, tuning Floor 1's resonance dampers to match the fireflies' gentle 432Hz frequency.
+  * Seiyon deploys *The Acoustic Matrix*, tuning Floor 1's resonance dampers to match the fireflies' gentle resonance frequency.
 - **Step 2: Movement & Action Point Spending**:
   * Secretary Seiyon (Speed 5 -> 3 AP) operates from Node 5 (Mid-Field Range Band 3). Spends 2 AP to execute `[Flerehan Acoustic Synchronization]`. Remaining 1 AP in Guard.
   * Agent Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.

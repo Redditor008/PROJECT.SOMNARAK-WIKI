@@ -282,7 +282,7 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 | - Node 04: Seiyon (Four-Fold Stiletto Void Flurry on Exposed Core)  |
 | - Node 05: The Memory Thief (Immobilized / Shadow Smoke Leaking)    |
 | - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)       |
-| - Node 07: Resonant Lens (Broadcasting 528 Hz Clarity Wave)         |
+| - Node 07: Resonant Lens (Broadcasting Harmonic Clarity Wave)       |
 +---------------------------------------------------------------------+
 | - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
 |   | SP 50/50                                                        |
@@ -301,7 +301,7 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Four-Fold Stiletto Void Flurry]`. Spends 2 AP on `[Mnemonic Drive]`.
   * Mnemonic Drone: Delivers `[Pneumatic Sapper Ground Shockwave]` (3 AP).
-  * Resonant Lens: Broadcasts `[528 Hz Clarity Wave]` (2 AP).
+  * Resonant Lens: Broadcasts `[Harmonic Clarity Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the shadow core for **740 Void damage** (Fatal 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining mask fragments for **360 Pierce damage**!

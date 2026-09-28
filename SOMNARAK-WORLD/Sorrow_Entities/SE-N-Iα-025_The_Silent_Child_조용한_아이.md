@@ -182,7 +182,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 Appearance : A nine-inch needle stiletto crafted from dull blackened steel, fitted with a disc guard and an ergonomic hilt completely wrapped in thick vulcanized rubber sheeting.
 
-The rubberized grip absorbs all vibration, ensuring silent deployment from concealed sheaths. The ultra-fine tip penetrates between kevlar layers and joint gaps without catching or dragging.
+The rubberized grip absorbs all vibration, ensuring silent deployment from concealed sheaths. The ultra-fine tip penetrates between armored weave layers and joint gaps without catching or dragging.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)

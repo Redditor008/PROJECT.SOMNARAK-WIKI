@@ -290,7 +290,7 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 | - Node 05: The Original (Immobilized / White Porcelain Weeping      |
 |   Light)                                                            |
 | - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)       |
-| - Node 07: Resonant Lens (Directing 528 Hz Memory Solace Wave)      |
+| - Node 07: Resonant Lens (Directing Consoling Resonance Wave )      |
 +---------------------------------------------------------------------+
 | - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
 |   | SP 50/50                                                        |
@@ -309,7 +309,7 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Four-Fold Stiletto Void Flurry]`. Spends 2 AP on `[Mnemonic Drive]`.
   * Mnemonic Drone: Delivers `[Pneumatic Sapper Ground Shockwave]` (3 AP).
-  * Resonant Lens: Directs `[528 Hz Memory Solace Wave]` (2 AP).
+  * Resonant Lens: Directs `[Consoling Resonance Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the genesis core for **1,240 Void damage** (Fatal 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining crown fragments for **540 Pierce damage**!

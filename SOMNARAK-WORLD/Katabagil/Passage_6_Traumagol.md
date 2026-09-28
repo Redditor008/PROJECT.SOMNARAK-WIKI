@@ -90,7 +90,7 @@ Suddenly, the cracks in the volcanic glass flared with blinding crimson fire. Er
 #### Turn 1: Quelling the Embers
 - **Clash 1:** Wrath Flame Alpha unleashes `[Scorching Cleave]` (`Base 8 + 2 Harmonic Beats = 12`). Harin plants her shield into the glass floor with `[Bulwark Intercept]` (`Base 11 + 2 Harmonic Beats = 17`). Harin wins decisively; the tower shield smashes into the fire titan's chest, releasing a flurry of white sparks and dealing 160 kinetic impact damage.
 - **Clash 2:** Wrath Flame Beta leaps toward Jisoo. The Silent One intercepts with `[Severing Crescent]` (`Base 12 + 3 Harmonic Beats = 18` vs `10`). The heavy relic blade cleaves through the burning torso, dealing 240 Void damage and snuffing half its thermal core.
-- **Acoustic Water Surge:** Sora rings her Silver Cowl at 432 Hz, channeling a deluge of pressurized Lament water that floods the volcanic fissure. The thermal shock fractures the brittle stone chassis of Wrath Flame Gamma, reducing its defense by -6.
+- **Acoustic Water Surge:** Sora rings her Silver Cowl in harmonic phase, channeling a deluge of pressurized Lament water that floods the volcanic fissure. The thermal shock fractures the brittle stone chassis of Wrath Flame Gamma, reducing its defense by -6.
 
 #### Turn 2: Extinction & Sapping
 - Doha drives a pneumatic sapper spike into the ground beneath Wrath Flame Gamma, detonating a liquid-nitrogen charge that flash-freezes the entity into smoking black charcoal.
@@ -192,7 +192,7 @@ Towering four meters in height, its armor was assembled from interlocking iron g
 
 ### Tactical Encounter Highlights
 - **Turn 1 (Halberd Interception):** The Standard-Bearer sweeps its massive iron halberd in a devastating arc. Harin braces her tower shield with `[Vow of the Low Bulwark]`, locking her kinetic anchors into the basalt floor. The titanic blow sends shockwaves through her exo-frame, but the line holds firm.
-- **Turn 2 (Acoustic Cleansing):** Sora rings the Silver Cowl, releasing a wave of tranquil 528 Hz harmonics that neutralizes the mournful psychic wailing emitted by the black banner (-380 Lament damage).
+- **Turn 2 (Acoustic Cleansing):** Sora rings the Silver Cowl, releasing a wave of tranquil silver harmonics that neutralizes the mournful psychic wailing emitted by the black banner (-380 Lament damage).
 - **Turn 3 (Standard Decapitation):** The Silent One vaults off Harin's shoulder, their relic cleaver humming with blinding pale Void energy. With a single diagonal strike, the cleaver shears the halberd in two and severs the central grave-marker collar. Doha drives a pneumatic sapper bolt into the torso, shattering the specter into harmless black gravel.
 - **Rewards:** `[The Standard's Obsidian Spearhead]` recovered; path to the Fracture Sluice unsealed.
 
@@ -340,7 +340,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 ###### Turn 01 Action Resolution Log (Intercepting the Fury Glaive)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Harin activates `[Bastion Kinetic Lock]`: Drives the tower shield into the obsidian ridge; gains +3 Protection and intercepts the Walker's sweeping glaive arc.
-  * Sora initializes `[Silver Requiem Chime]`: Emits 528 Hz harmonics to calm the howling wails of the ancient war dead.
+  * Sora initializes `[Silver Requiem Chime]`: Emits silver harmonics to calm the howling wails of the ancient war dead.
   * Yeonhwa casts `[Acoustic Fault Lock]`: Focuses sensor arrays on the Solidified Fury Glaive's central balance fulcrum.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Bastion Kinetic Lock: Obsidian Ground]`.
@@ -668,7 +668,7 @@ The seven specialists adjusted their gear, looked back at the pacified rift one 
 | **Warden Harin** | Tanked sweeping fury strikes from the Solidified Fury Glaive with zero breach. |
 | **Architect Doha** | Fractured the ancient Occlusihan Cuirass using pneumatic tungsten sapper wedges. |
 | **The Silent One** | Severed the glaive and delivered the final peaceful touch of *The Burden*. |
-| **Dreamer Sora** | Quieted the four-century psychic wail of the First War with 528 Hz harmonics. |
+| **Dreamer Sora** | Quieted the four-century psychic wail of the First War with silver harmonics. |
 | **Archivist Minjae** | Transcribed all thirty copper casualty ledgers into the official Expedition Codex. |
 | **Cartographer Yeonhwa**| Charted the terminal fault line of the Occlusihan Rift connecting to Strata 7. |
 
