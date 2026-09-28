@@ -1,49 +1,57 @@
-# Project Somnarak — Battle System Styles (전투 체계 양식록)
-## The Six Canonical Tactical Branches of Combat & Tactical Physics
-### Authorized by the Reverie Directorate, SED Frontier Command, and UCD High Command
+# Project Somnarak — Battle System Styles (  전투 체계 양식록  )
+## The Seven Canonical Tactical Branches of Combat & Tactical Physics
+### Authorized by the Council of Sighs, Reverie Directorate, SED, UCD, Won-Hyeong Biologics, and Caravan Command
 
-> *"A warden defending a high-security containment cell does not fight like a riot breacher clearing a sunken drug foundry, and an abyssal explorer suspended over a three-kilometer chasm does not fight like either. The sorrow of this world is infinite, but the methods we forge to withstand it are precise, disciplined, and uniquely adapted to where we stand."*  
-> — Supreme Tactical Doctrine, Reverie Directorate General Staff
+> *"A warden defending a high-security containment cell does not fight like a riot breacher clearing a sunken drug foundry, an abyssal explorer suspended over a three-kilometer chasm does not fight like either, and a clinical surgeon operating under biological quarantine adheres to a doctrine of absolute cellular precision. The sorrow of this world is infinite, but the methods we forge to withstand it are precise, disciplined, and uniquely adapted to where we stand."*  
+> — Supreme Tactical Doctrine, Reverie Directorate & Won-Hyeong Joint General Staff
 
 ---
 
 ## I. Executive Architectural Overview
 
-The combat physics of Project Somnarak are unified by a single foundational engine—**The Generic P.S. Combat Core**—while branching into three highly specialized operational styles corresponding to the three major institutions of the city:
+The combat physics of Project Somnarak are unified by a single foundational engine—**The Generic P.S. Combat Core**—while branching into seven specialized operational styles corresponding to the sovereign institutions, corporate wings, and expeditionary fleets of the city:
 
 ```text
 +=====================================================================+
-|       PROJECT SOMNARAK: HEXA-STYLE BATTLE SYSTEM ARCHITECTURE       |
+|      PROJECT SOMNARAK: HEPTA-STYLE BATTLE SYSTEM ARCHITECTURE       |
 +---------------------------------------------------------------------+
 | 1. GENERIC P.S. CORE FOUNDATION (Universal Combat Engine)           |
 |    - 10-Node Room Stage Grid (Node 1 to Node 10 spatial positions). |
 |    - Speed-to-AP Action Economy (Initiative, Movement, Clashes).    |
 |    - Macro Phase Structure (6 Battle Turns = 1 Combat Phase).       |
 |    - Dual-Resource Pool: Sorrow Gauge (0-100%) and Composure (SP).  |
-| - Dual-Threshold Stagger Engine (Stagger 1 at 60%, Terminal 25%).   |
+|    - Dual-Threshold Stagger Engine (Stagger 1 at 60%, Terminal 25%).|
 |    - M.A.W. Quadripartite Armaments & 4 Sorrow Elements.            |
 +---------------------------------------------------------------------+
 | 2. REVERIE DIRECTORATE (R.D.) STYLE — Facility Oversight & Contain  |
-| - Operational Domain : Subterranean Facility 01 (Hand of Change).   |
-|    - Spatial Topology   : 10-Node Containment Vault & Console Grid. |
-| - Core Mechanic : Echo-Core Floor Resonance (Floors 1 to 8).        |
-|    - Tactical Focus     : Mid-combat Work Cycles (Flere/Pugna/etc), |
-| containment meltdowns, and colored Ordeals.                         |
+|    - Domain: Facility 01 Subterranean Vaults beneath Zone A.        |
+|    - Core Mechanic: Echo-Core Floor Resonance (Floors 1 to 8).      |
+|    - Tactical Focus: In-combat Work Cycles, meltdowns, and Ordeals. |
 +---------------------------------------------------------------------+
 | 3. UNDERWORLD CLEANUP DESCEND (UCD) STYLE — Urban CQB & Interdict   |
-|    - Operational Domain : Undercity slums, drainage kilns, vaults.  |
-|    - Spatial Topology   : 10-Node Ingress Grid (Cordon to Sanctum). |
-| - Core Mechanic : Targeted Part Dismantling (Modular Parts).        |
-| - Tactical Focus : In-combat forensic hacking, civilian cover,      |
-| and municipal collateral threshold defense.                         |
+|    - Domain: Undercity slums, drainage kilns, The Raw (Zones B-D).  |
+|    - Core Mechanic: Targeted Part Dismantling (Modular Boss Parts). |
+|    - Tactical Focus: In-combat forensic hacking & civilian cordons. |
 +---------------------------------------------------------------------+
 | 4. SOMNARAK EXPLORATION DECREE (SED) STYLE — Abyssal Descents       |
-|    - Operational Domain : Unmapped karst caverns (-50m to -3,500m). |
-|    - Spatial Topology   : 10-Node Vertical Karst & Chasm Grid.      |
-| - Core Mechanic : Strata Depth Atmospheric Pressure per Phase.      |
-| - Tactical Focus : Acoustic stealth / decibel sonar management,     |
-| survival attrition timers, seismic pitons,                          |
-|                           and pre-cataclysm relic field excavation. |
+|    - Domain: Unmapped karst caverns (-50m to -3,500m Primordial).   |
+|    - Core Mechanic: Strata Depth Atmospheric Pressure per Phase.    |
+|    - Tactical Focus: Decibel acoustic stealth & seismic pitons.     |
++---------------------------------------------------------------------+
+| 5. WON-HYEONG BIOLOGICS (WHB) STYLE — Clinical Triage & Suture      |
+|    - Domain: Quarantine basins, deep suture vats & bio-labs.        |
+|    - Core Mechanic: Composure Dialysis (+SP) & Living Suture Knit.  |
+|    - Tactical Focus: Biological Debt Liens & Cryo-Stun Restraints.  |
++---------------------------------------------------------------------+
+| 6. THE MEMORY ARCHIVE (GIEOK) STYLE — Mnemonic Reception Protocol   |
+|    - Domain: Sub-Alpha root strata (-2,350m to -3,250m).            |
+|    - Core Mechanic: Modular Memory Anchor Dismantling & Realization.|
+|    - Tactical Focus: Inquest clashes, trauma sharing & Key Pages.   |
++---------------------------------------------------------------------+
+| 7. THE HORIZON CARAVAN (JIPYEONG) STYLE — Trans-Desolate Navigation |
+|    - Domain: Overland Desolate, Sea of Glass & desert frontiers.    |
+|    - Core Mechanic: Drift Throne Vehicular Broadside & Ley-Drive.   |
+|    - Tactical Focus: Sand skimmer flanking & planetary overdrives.  |
 +=====================================================================+
 ```
 
@@ -578,7 +586,65 @@ SED specialists deploy unique expedition tools on the grid:
 
 ---
 
-## IX. Branch 5: The Memory Archive (Gieok Jeojangso) Style
+## IX. Branch 5: Won-Hyeong Biologics (WHB) Style
+
+**Operational Focus**: Clinical Quarantine Basins, Subterranean Suture Vats, Zone D Bio-Labs, Biological Debt Reclamation Chambers.  
+**Tactical Philosophy**: Absolute cellular precision, physiological triage, Composure (SP) threshold manipulation, living suture flesh-knitting, biological debt liens, and cryogenic containment.
+
+```text
++=====================================================================+
+|        WON-HYEONG BIOLOGICS (WHB) CLINICAL QUARANTINE GRID          |
++---------------------------------------------------------------------+
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| |--AIRLOCK---| |--BAILIFFS---| |--MUTANT APEX--| |--VAT RELIC--|    |
++---------------------------------------------------------------------+
+| N01     : Decontamination Airlock & Trauma Triage Vestibule         |
+| N02     : Pale Bailiff Vanguard (Cryo-Lances & Jade Pavises)        |
+| N03     : Pneumatic Suture Injector Array (Living Mesh Sprayers)    |
+| N04     : Contaminated Patient Zone / Chem-Hulk Frontline           |
+| N05     : Sovereign Biological Apex (Distorted Mutation Boss)       |
+| N06     : Resonant Dialysis Pylon (SP Restoration Transceiver)      |
+| N07     : Archetype Catalyst Reservoir (Grade V Healing Mists)      |
+| N08-N09 : Cryogenic Sump Chasm / Petrofaction Waste Flue            |
+| N10     : Master Bio-Suture Console & Jade Throne Dais              |
++=====================================================================+
+```
+
+### 9.1 Spatial 10-Node Clinical Quarantine & Suture Basin Topology
+
+In Won-Hyeong Biologics tactical engagements, operations occur within pressurized bio-containment suites and submerged catalytic vat basins:
+- **Node 01 (Decontamination Airlock)**: Ingress threshold equipped with high-pressure acoustic neutralizing mists. Operatives entering or standing on Node 01 are immune to ambient Sorrow-Burn and atmospheric contagion.
+- **Node 02 (Pale Bailiff Vanguard)**: The front defensive cordon where Pale Bailiffs deploy heavy jade-glass pavises and cryogenic suture-lances. Grants +3 Protection to adjacent allies.
+- **Node 03 (Pneumatic Suture Injector Array)**: Mid-support lane equipped with automated collagen sprayers. Operatives on Node 03 can apply Living Suture dressings across Range Bands 1–3 at -1 AP cost.
+- **Node 04 (Contaminated Frontline)**: Intermediary engagement corridor occupied by distorted chem-mutants, rogue bio-dredgers, or infected Fray bruisers.
+- **Node 05 (Sovereign Biological Apex)**: The central chamber node occupied by massive somatic distortions, petrified crucible golems, or rogue biological prototypes.
+- **Node 06 (Resonant Dialysis Pylon)**: Acoustic frequency tower that broadcasts cellular stabilizing pulses, cleansing 1 negative mental status effect per turn from all allies within 2 nodes.
+- **Node 07 (Archetype Catalyst Reservoir)**: Sealed chemical storage vats venting aerosolized Grade V Archetype mists. Allies occupying Node 07 regenerate +15 HP and +10 SP per combat turn.
+- **Nodes 08–09 (Cryogenic Sump Chasm)**: Deep drainage trenches venting sub-zero chemical slurry. Moving through Nodes 08–09 inflicts 2 stacks of Frostbite and reduces Speed by -2.
+- **Node 10 (Master Bio-Suture Console & Dais)**: The master computer terminal commanding the chamber's containment bulkheads and automated sedation gas injectors.
+
+### 9.2 Composure Dialysis & Panic Threshold Reset
+Unlike standard combat units that simply endure psychological trauma, Won-Hyeong field physicians actively manipulate emotional neurotransmitters:
+- **Active Dialysis Injection (2 AP)**: An operative standing within Range Band 2 of an ally experiencing Panic or Mental Corrosion administers a direct carotid neuro-ampule. The target's Panic state is immediately terminated, and their Composure (SP) is set to +15.
+- **Aerosolized Sedative Cloud (3 AP, 1 per Phase)**: Floods Nodes 3 through 6 with tranquilizing vapor. All combatants on affected nodes have their maximum Speed reduced to 4, but incoming Void and Grudge damage is reduced by 30% for 1 Battle Turn.
+
+### 9.3 Living Suture Flesh-Knit & Hemorrhagic Sealing
+Won-Hyeong tactical physicians carry high-pressure pneumatic suture canisters:
+- Applying **Living Suture Mesh (1 AP)** immediately cleanses all stacks of Bleed, Rust, and Sorrow-Burn from the target operative while restoring 35 HP.
+- **Flesh-Anchor Graft (2 AP)**: Attaches a temporary collagen scaffold to a shattered limb, allowing a staggered or posture-broken ally to immediately recover from Stagger 1 without losing their next turn's action slots.
+
+### 9.4 Biological Debt Foreclosure (Lien Execution)
+Operating under the legal authority of Council Sovereign Charter 104, Won-Hyeong operatives can enforce court-mandated biological liens against debt-defaulted adversaries:
+- **Serve Biological Lien (2 AP)**: Target enemy marked with the *Biological Debt* status (reducing their natural Posture resistance by 25%).
+- **Lien Foreclosure**: When a marked enemy is reduced to Stagger 2 or 0 HP, Won-Hyeong operatives harvest biological catalyst fluids, generating 1 free Grade V Composure Ampule for the squad's inventory.
+
+### 9.5 Pale Bailiff Cryo-Stun Protocols
+The Pale Bailiffs specialize in non-lethal immobilization of high-threat subjects:
+- **Cryo-Lance Strike (2 AP, Range Band 1-2)**: High-speed thrust delivering 18-24 Kinetic Blunt damage. On Clash Win, inflicts *Cryo-Arrest* (locks 1 of the target's Action Point slots for the subsequent Battle Turn).
+
+---
+
+## X. Branch 6: The Memory Archive (Gieok Jeojangso) Style
 
 **Operational Focus**: Deep Strata Sub-Alpha Roots (-2,350m to -3,250m), 7-Floor Mnemonic Reception Chambers.  
 **Tactical Philosophy**: The Library Reception Protocol, subjugation through comprehension, modular memory anchor dismantling, and the transmutation of suffering into Key Pages.
@@ -602,7 +668,7 @@ SED specialists deploy unique expedition tools on the grid:
 +=====================================================================+
 ```
 
-### 9.1 Spatial 10-Node Mnemonic Reception Topology
+### 10.1 Spatial 10-Node Mnemonic Reception Topology
 
 In Memory Archive receptions, combat takes place within cyclopean subterranean vaults carved into the roots of the Alpha Tree:
 - **Node 01 (Threshold Sluice)**: Ingress archway where Seiyon's synthetic holographic projection enters the floor.
@@ -615,19 +681,19 @@ In Memory Archive receptions, combat takes place within cyclopean subterranean v
 - **Nodes 08–09 (Suppressed Trauma Sump & Chasm)**: Deep subterranean rifts that vent unexpressed tears or void feedback.
 - **Node 10 (Key Page Dais)**: The master reliquary where crystallized memories condense into equipable Key Pages upon Floor Realization.
 
-### 9.2 Modular Memory Anchor Dismantling
+### 10.2 Modular Memory Anchor Dismantling
 Adversaries in the Memory Archive possess discrete targetable memory anchors:
 - Each anchor represents a physical manifestation of repressed trauma (e.g., Weeping Siphon Veil, Gilded Frame of Lies, Zero-Chrono Lance).
 - Reducing an anchor to 0 HP permanently disables signature boss attacks, deducts 1 enemy Action Point, and triggers **Stagger 1**.
 
-### 9.3 Floor Realization & Key Page Transmutation
+### 10.3 Floor Realization & Key Page Transmutation
 When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
 - Hostile intent drops to zero as Seiyon shares the emotional weight of the construct's forgotten trauma.
 - The construct dissolves into crystalline light, condensing into a permanent **Key Page** that unlocks passive combat arts and elemental affinities for subsequent floors.
 
 ---
 
-## X. Branch 6: The Horizon Caravan (Jipyeongseondae) Style
+## XI. Branch 7: The Horizon Caravan (Jipyeongseondae) Style
 
 **Operational Focus**: The Desolate Overland Corridors, Sea of Glass, Cheonbulok Volcanic Caldera, Mugeukji Polar Tundra.  
 **Tactical Philosophy**: Open-field vehicular combat, high-speed sand maneuvers, planetary ley-frequency tuning, and heavy kinetic artillery.
@@ -652,7 +718,7 @@ When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
 +=====================================================================+
 ```
 
-### 10.1 Spatial 10-Node Overland Expedition Topology
+### 11.1 Spatial 10-Node Overland Expedition Topology
 
 In Horizon Caravan operations, battle unfolds across vast desert plains anchored by the mobile sand fortress **The Drift Throne**:
 - **Node 01 (Crawler Ramps)**: Debarkation gangway of the Drift Throne. Grants +2 Protection to allied defenders.
@@ -666,16 +732,17 @@ In Horizon Caravan operations, battle unfolds across vast desert plains anchored
 - **Node 09 (Geothermal Ley-Vent)**: Planetary fracture venting boiling Han-brine or volatile steam every 3 turns.
 - **Node 10 (Command Bridge & Siege Railgun)**: The central helm of the Drift Throne housing Kael's command seat and the spinal kinetic railgun.
 
-### 10.2 Planetary Ley-Drive & Seismic Acoustics
+### 11.2 Planetary Ley-Drive & Seismic Acoustics
 - The Drift Throne siphons acoustic vibrations from deep subterranean Han-flow lines.
 - Kael uses his vitrified Han-glass arm to channel seismic shockwaves, stabilizing shifting sands, flipping enemy war-rigs, and grounding volcanic firestorms.
 
-### 10.3 Vehicular Part Severance & Planetary Relic Overdrives
+### 11.3 Vehicular Part Severance & Planetary Relic Overdrives
 - Targetable vehicular components (crawler treads, rotary autocannons, sand mandibles) can be dismantled through targeted kinetic fire.
 - High-intensity climax turns (Turn 05) feature supreme **Relic Overdrives** (3 AP, 30 SP) such as *Song of the Buried Earth* and *Oath of the Unchained Horizon* that parry cataclysmic environmental attacks and lead to peaceful resolution.
 
+---
 
-## XI. Complete Combat Visualization Template & Step-by-Step Scenario
+## XII. Complete Combat Visualization Template & Step-by-Step Scenario
 
 Below is the definitive, canonical combat visualization template designed for direct adaptation into narrative story chapters.
 
@@ -744,7 +811,7 @@ Below is the definitive, canonical combat visualization template designed for di
 
 ---
 
-## XII. Story Combat Adaptation Guidelines
+## XIII. Story Combat Adaptation Guidelines
 
 When writing or revising battle sequences across canonical chronicles (`Katabagil`, `Katharcheok`, and `The_Absolvohan`):
 
