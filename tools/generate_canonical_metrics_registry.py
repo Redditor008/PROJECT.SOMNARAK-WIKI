@@ -94,7 +94,7 @@ metrics_md = f"""# PROJECT SOMNARAK // CANONICAL METRICS REGISTRY
 | Metric Dimension | Programmatic Count | Status / Benchmark |
 | :--- | :--- | :--- |
 | **Total Sorrow Entities (`SOMNARAK-WORLD/Sorrow_Entities/`)** | **{len(se_files)}** | 100% Individualized & Audited |
-| **Relic-Entities (Tool Abnormalities)** | **{len(relic_files)}** | {round(len(relic_files) / len(se_files) * 100, 2)}% (Quota >= 25.0% PASS) |
+| **Relic-Entities (Object/Place/Time Work Entities)** | **{len(relic_files)}** | {round(len(relic_files) / len(se_files) * 100, 2)}% (Quota >= 25.0% PASS) |
 | **Two-Work-Type Rule Compliance (Non-Subject Entities)** | **{len(two_work_files)} / {len(two_work_files)}** | **100.0% Compliant** |
 | **Core Stat Line Compliance (Speed, Gauges, Resistances)** | **{len(se_files)} / {len(se_files)}** | **100.0% Compliant** |
 | **Unknown Entities (`SOMNARAK-WORLD/Unknown_Entities/`)** | **{len(ue_files)}** | Standardized |
