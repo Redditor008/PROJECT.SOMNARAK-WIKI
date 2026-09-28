@@ -4,10 +4,19 @@ import json
 import re
 
 def count_files(pattern):
-    return len([f for f in glob.glob(pattern, recursive=True) if os.path.isfile(f)])
+    return len([f for f in glob.glob(pattern, recursive=True) if os.path.isfile(f) and '__pycache__' not in f and not f.endswith('.pyc') and not f.endswith('.pyo')])
 
 def get_files_no_readme(pattern):
-    return [f for f in glob.glob(pattern, recursive=True) if os.path.isfile(f) and not f.endswith("README.md")]
+    return [f for f in glob.glob(pattern, recursive=True) if os.path.isfile(f) and not f.endswith("README.md") and '__pycache__' not in f and not f.endswith('.pyc') and not f.endswith('.pyo')]
+
+def get_all_repo_files():
+    repo_files = []
+    for root, dirs, files in os.walk('.'):
+        dirs[:] = [d for d in dirs if d != '.git' and d != '__pycache__']
+        for f in files:
+            if not f.endswith('.pyc') and not f.endswith('.pyo'):
+                repo_files.append(os.path.normpath(os.path.join(root, f)))
+    return repo_files
 
 se_files = get_files_no_readme("SOMNARAK-WORLD/Sorrow_Entities/*.md")
 ue_files = get_files_no_readme("SOMNARAK-WORLD/Unknown_Entities/*.md")
@@ -21,7 +30,7 @@ maw_profiles = get_files_no_readme("SOMNARAK-WORLD/MAW_Codex_Sets/**/*.md")
 somnarak_world_total = count_files("SOMNARAK-WORLD/**/*")
 docs_total = count_files("docs/**/*")
 tools_total = count_files("tools/**/*")
-repo_total_ex_git = len([f for f in glob.glob("**/*", recursive=True) if os.path.isfile(f) and not f.startswith(".git/")])
+repo_total_ex_git = len(get_all_repo_files())
 
 relic_files = []
 two_work_files = []

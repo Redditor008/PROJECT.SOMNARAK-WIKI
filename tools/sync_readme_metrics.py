@@ -29,7 +29,7 @@ with open(README_PATH, "r", encoding="utf-8") as f:
 # Replace metrics in README
 # 1. Word count and file totals at glance
 readme = re.sub(
-    r'- \*\*Over \d+[\d,]* curated canonical markdown files in SOMNARAK-WORLD \(\d+\+ total files\)\*\*',
+    r'- \*\*Over [\d,]+ curated canonical markdown files in SOMNARAK-WORLD \([\d,]+\+ total files\)\*\*',
     f'- **Over {sw_files:,} curated canonical markdown files in SOMNARAK-WORLD ({repo_files:,}+ total files)**',
     readme
 )
