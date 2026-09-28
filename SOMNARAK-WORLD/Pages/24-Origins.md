@@ -19,9 +19,15 @@ Veiled Tale is a sorrow that arrived already told — a fairy tale that forgot i
 
 Origin is not aesthetics. It predicts Behavior: Veiled Tales repeat, Scarred Memories react, Dream Born invent.
 
-## Examples
+## Counts and Examples
 
-`SE-C-IIα-021 Moonlit Hanbok` is Veiled Tale; `SE-C-IVγ-089 The Crowd That Watches` is Scarred Memory; `SE-O-Vω-292 The Absolvohan` is Dream Born. Each maps to a Han fracture described in [32-Genesis](32-Genesis.md).
+| Origin | Count | Korean | Example |
+|---|---|---|---|
+| Veiled Tale | ~140 | — | `SE-C-IIIγ-021 The Hollow Choir` (Fairy Tale) |
+| Scarred Memory | ~90 | — | `SE-C-IIIγ-088 The Sorrow Fountain` (Trauma) |
+| Dream Born | ~62 | — | `SE-O-Vγ-003 Wilderness Tide` (Original, Outside Sovereign) |
+
+City 159 / Inner 72 / Outside 61 is Origin by geography; Veiled/Scarred/Dream is Origin by tale. Both axes are needed. See [38-Classification Code](38-Classification%20Code.md) and [32-Genesis](32-Genesis.md) for how the Weeping first told each tale.
 
 ## See also
 

@@ -16,13 +16,26 @@
 
 ## Overview
 
-The eight are: Veilborne  [막을 입은]  (Mageul Ibeun — Veilborne), Beastborne  [짐승을 입은]  (Jimseungeul Ibeun — Beastborne), Hallowed  [거룩한]  (Georukan — Hallowed), Relic  [유물]  (Yumul — Relic), Gearborne  [기어를 입은]  (Gieoreul Ibeun — Gearborne), Unshaped  [형태 없는]  (Hyeongtae Eomneun — Unshaped), Tool  [도구]  (Dogu — Tool), Patron  [후원자]  (Huwonja — Patron). Each maps to a fracture mode of Han, not to biology.
+The eight are: Veilborne  [막을 입은]  (Mageul Ibeun — Veilborne, Humanoid), Beastborne  [짐승을 입은]  (Jimseungeul Ibeun — Beastborne, Animal), Hallowed  [거룩한]  (Georukan — Hallowed, Religious), Relic  [유물]  (Yumul — Relic, Inanimate), Gearborne  [기어를 입은]  (Gieoreul Ibeun — Gearborne, Machine), Unshaped  [형태 없는]  (Hyeongtae Eomneun — Unshaped, Abstraction), Tool  [도구]  (Dogu — Tool), Patron  [후원자]  (Huwonja — Patron, Backers). Each maps to a fracture mode of Han, not to biology.
 
-The eight mirror the older Humanoid→Backers set, but Somnarak names them for what the Veil had to wear to hold them.
+Manifestation in SECC is S Subject, O Object, P Place, T Time, H Hazard. Object/Place/Time/Hazard use only Viderehan/Ferrehan; Subject uses all four.
 
-## Distribution
+## Distribution and Examples
 
 Tool and Patron are rare because the city rarely lets a sorrow remain useful or sponsored for long. Veilborne and Beastborne are common because the city most often grieves what had a face.
+
+| Type | Example SECC | Name |
+|---|---|---|
+| Veilborne | SE-C-IIIγ-031 | The Observing Bird  [지켜보는 새] |
+| Beastborne | SE-C-IIIγ-032 | Weighting Bird  [재는 새] |
+| Hallowed | SE-C-IIIγ-081 | The Hollow Saint  [빈 성자] |
+| Relic | SE-C-IIIβ-014 | The Debt Eater (Place) |
+| Gearborne | SE-C-IIIβ-036 | The Cracked Hourglass |
+| Unshaped | SE-C-IIIγ-916 | Allhallow |
+| Tool | SE-C-IIIβ-015 | The Debt Scale |
+| Patron | SE-O-IIIδ-011 | Scar Walker |
+
+See also `SOMNARAK_ENTITY_CODEX.md` Physical Types table.
 
 ## See also
 

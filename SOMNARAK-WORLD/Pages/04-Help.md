@@ -16,9 +16,15 @@
 
 ## How to Read a Dossier
 
-Sorrow Entities are cataloged under `Sorrow_Entities/` with SECC (Somnarak Sorrow Entity Classification Code, e.g., `SE-C-IIIβ-014`). The code tells Origin (City/Inner/Outside), Rank (Whisper→Starless), Potency, and Number. Work-Types are Viderehan  [비데레한]  (Biderehan — to see), Ferrehan  [페레한]  (Perehan — to carry), Mugenhan  [무겐한]  (Mugenhan — to gaze beyond). Object/Place/Time use only the first two.
+Sorrow Entities are cataloged under `Sorrow_Entities/` with SECC (Somnarak Sorrow Entity Classification Code, e.g., `SE-C-IIIβ-014`). The code tells Origin (City/Inner/Outside), Coherence (I Residue → V Sovereign), Potency (α Minor → ω Catastrophic), Number, Element (Lament/Grudge/Void/Weight), and Manifestation (Subject/Object/Place/Time/Hazard).
 
-M.A.W. is timeless memory, not workshop craft. It crystallizes from the entity's emotional core as Weapon/Suit/Gift spanning Year 0000–9999+. Lumen is boxed Han, the currency that keeps the Watch running.
+Real example `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`: City, Fragment, Moderate, 014, Void, Place → Work-Types Viderehan  [비데레한]  (Biderehan — to see) and Ferrehan  [페레한]  (Perehan — to carry) only. Object/Place/Time/Hazard never use Pugnahan or Flerehan.
+
+Work-Types are four: Ferrehan (Endurance, Resilience), Flerehan (Lamentation, Composure), Pugnahan (Confrontation, Resolve), Viderehan (Observation, Clarity). Two-Work-Type rule is 100.0% compliant across 283 entities.
+
+## M.A.W. and Lumen
+
+M.A.W. is timeless memory, not workshop craft. It crystallizes from the entity's emotional core as Weapon/Suit/Gift spanning all eras from Year 0000 through far future beyond Year 4,238 (Guns, Fantasy blades, Katanas, Chakrams, Astral Prisms, Culverins) — 42 sets, 1,165 profiles, 1,208 files including registries. Lumen is boxed Han, the currency that keeps the Watch running (0.02 tons per R.D. cycle, 1,778 cycles → supercritical).
 
 ## Navigation
 

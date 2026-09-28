@@ -8,7 +8,7 @@
 +========================================================================+
 |                   SOMNARAK — RANDOM DOSSIER                            |
 +------------------------------------------------------------------------+
-| Pool                     | 292 Sorrow Entities + 37 Relic Entities     |
+| Pool                     | 292 Sorrow Entities + 88 Relic Entities     |
 | Draw                     | Viderehan / Ferrehan / Mugenhan             |
 | Access                   | SOMNARAK-WORLD / Sorrow_Entities            |
 +========================================================================+
@@ -16,15 +16,25 @@
 
 ## Overview
 
-The drawer contains every sorrow Somnarak has learned to name. Pulling at random is not a game; it is how record-keepers keep from favoring the loudest sorrows. A Whisper  [속삭임]  (Soksagim — Whisper) and a Starless entity have equal chance to be drawn here, even though their containment costs are not equal.
+The drawer contains every sorrow Somnarak has learned to name. Pulling at random is not a game; it is how record-keepers keep from favoring the loudest sorrows. A Whisper  [속삭임]  (Soksagim — Whisper, 46 entities) and a Starless-equivalent Sovereign (10 entities) have equal chance to be drawn here, even though their containment costs are not equal.
 
-Each dossier carries SECC, Echo-Core, Risk, Origin, Type, Pressure, and M.A.W. manifest. Object, Place, and Time entities use only Viderehan and Ferrehan.
+The pool is 292 Sorrow Entities (529 files for 285 unique SECC codes due to paired `The_` variants) plus 88 Relic Entities. Relic M.A.W. follows a different fracture and is drawn only on request.
 
 ## How It Is Used
 
-Training cadres use Random Dossier for watch drills: draw, read the Behavior and Mugenhan sections, then assign Work. Field teams use it to test whether a new specialist can read a dossier without being read by it. The full index for deliberate choice is at [08-Sorrow List](08-Sorrow%20List.md) or directly under `Sorrow_Entities/` numbered 000–292.
+Training cadres use Random Dossier for watch drills: draw, read the Behavior and Mugenhan sections, then assign Work. Field teams use it to test whether a new specialist can read a dossier without being read by it.
 
-Relic Entities (37) are listed separately at [37-Relic Entities](37-Relic%20Entities.md) and are not drawn here unless requested.
+Three example draws from the current pool:
+
+- `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md` — City, Fragment-β, Place, Viderehan/Ferrehan only
+- `SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md` — City, Fragment-γ, Subject
+- `SE-O-Vγ-003_Wilderness_Tide_야생의_파도.md` — Outside, Sovereign-γ, the sole Outside Sovereign (planetary geography otherwise in `SOMNARAK_GEOLOGY.md`)
+
+The full index for deliberate choice is at [08-Sorrow List](08-Sorrow%20List.md) or directly under `Sorrow_Entities/` numbered 000–292. Relic Entities are listed separately at [37-Relic Entities](37-Relic%20Entities.md).
+
+## Distribution
+
+Origin split: City  [도한]  (Dohan) 159, Inner  [내한]  (Naehan) 72, Outside  [외한]  (Oehan) 61. Type split includes Subject (4 Work Types) vs Object/Place/Time/Hazard (Viderehan/Ferrehan only). Pressure split is Grudge/Lament/Void/Weight. See [38-Classification Code](38-Classification%20Code.md).
 
 ## See also
 

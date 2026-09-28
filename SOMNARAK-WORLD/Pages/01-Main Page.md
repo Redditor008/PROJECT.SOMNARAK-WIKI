@@ -1,6 +1,6 @@
 # Somnarak Wiki
 
-> *We are currently maintaining 292 Sorrow Entities, 198 M.A.W. sets, and 44 Codices. Please contribute by expanding existing records.*
+> *We are currently maintaining 292 Sorrow Entities (529 files, 285 unique SECC), 42 M.A.W. sets (1,165 profiles), 60 Ordeals, and 44 Codices. Please contribute by expanding existing records.*
 
 **Somnarak Wiki** is the encyclopedia for [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] — the vertical city built atop the Weeping  [비탄의 강]  (Bitan-ui Gang — River of Lament). The city holds 1.29 billion souls, nine Echo-Cores, and hundreds of contained sorrows beneath the Hand of Change.
 
@@ -11,7 +11,7 @@ Somnarak is not a city you visit. It is a city that happens to you. Facility 01 
 |                     SOMNARAK WIKI — MAIN INDEX                         |
 +------------------------------------------------------------------------+
 | Archive                  | SOMNARAK-WORLD / Pages (wiki look)          |
-| Entries Maintained       | 292 Entities · 198 M.A.W. sets · 44 Codices |
+| Entries Maintained       | 292 SE · 42 M.A.W. sets · 60 Ordeals · 44   |
 | Time                     | Year 4,238 · Dawn Initiative                |
 +========================================================================+
 ```
@@ -36,9 +36,9 @@ Chronicle is the long memory. It runs from Year 0000 through the ante-Dawn exped
 ## Containment
 
 - [08-Sorrow List](08-Sorrow%20List.md) — indexed roster, 000–292
-- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — Weapon · Suit · Gift, timeless
-- [10-Ordeals](10-Ordeals.md) — 5 Colors × 4 Watches, Maw incursions
-- [11-Reverberations](11-Reverberations.md) — Echo-Core meltdowns
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — 42 sets, 1,165 profiles, timeless
+- [10-Ordeals](10-Ordeals.md) — 60 Ordeals, BLACK/BLUE/GREY, 4 Watches
+- [11-Reverberations](11-Reverberations.md) — 9 Echo-Cores, meltdowns
 - [12-Specialists](12-Specialists.md) — field operatives, hiring, aptitudes
 - [13-Operations](13-Operations.md) — daily missions per Floor
 - [14-Echo-Cores](14-Echo-Cores.md) — nine directors, Floors 1–8
@@ -66,7 +66,7 @@ Wiki Contents is the citable wrapper. Game Mechanics binds the systems. Departme
 
 **Sorrow Entities** — 292 dossiers, each with SECC, Risk, Origin, Type, Pressure, Work-Type, and M.A.W. Start at [07-Sorrow Entities](07-Sorrow%20Entities.md) then open [08-Sorrow List](08-Sorrow%20List.md).
 
-**M.A.W. Equipment** — 198 sets, each a memory made edge. See [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) and the detailed engine at [34-M.A.W. Equipment](34-M.A.W.%20Equipment.md).
+**M.A.W. Equipment** — 42 sets (1,165 profiles, 1,208 files), each a memory made edge. Example: SE-014 Debt Prism, SE-031 Observing Bird. See [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) and the detailed engine at [34-M.A.W. Equipment](34-M.A.W.%20Equipment.md).
 
 **Ordeals and Reverberations** — the Maw's Ordeals and the House's Reverberations. See [10-Ordeals](10-Ordeals.md) and [11-Reverberations](11-Reverberations.md).
 
