@@ -1,67 +1,108 @@
 # Pressure Types
 
-> *Sorrow cuts in four directions.*
+> *“Flesh burns under Grudge; the mind drowns in Lament; existence dissolves in Void; the soul is crushed under Weight.”*
 
-**Pressure Types** are the four damages sorrow inflicts.
+**Pressure Types**  [압력 유형]  (_Amnyeok Yuhyeong_) define the elemental and metaphysical damage physics governing all containment interactions, entity attacks, and combat clashes in [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
 
-**Pressure** is how sorrow cuts, and the House names four directions because grief does not wound in one way. 🔴 **Grudge** is  [원한]  (_Wonhan_) rendered as Crimson — body strain that breaks skin, bone, and compliance; 🔵 **Lament** is rendered as Black — will’s erosion, the slow hollowing that makes a specialist agree with a sorrow; Pale is ⚪ **Void**  [공허]  (_Gongheo_) rendered as Pale White — mind’s erasure, where one.
-
-Choosing a Work-Type without checking **Pressure** is how specialists are lost, because **Pressure** and Work interact asymmetrically. A **Place** sorrow that inflicts Pale will punish a ⚔ **Pugnahan** suppression even if the Behavior table marks ⚔ **Pugnahan** as technically available for Subjects; an **Object** that deals 🔴 **Grudge** will reward a patient 🤲 **Ferrehan** endurance over a hasty 👁 **Viderehan** observation. Example resistances make the lesson concrete: `SE-C-IIIγ-031 The Observing Bird` (🔵 **Lament**) resists 🔴 **Grudge**-type **Pressure**.
-
-Tactically, **Pressure** is both damage type and narrative type. In and ’s sixteen scenarios, each battle tracks **Han** density, atmosphere, and Fracture warnings through **Pressure** bands, and the decoupled state machine treats Pale differently from 🔴 **Grudge** because Pale scales with Max HP while 🔴 **Grudge** scales with current HP. Outside combat, **Pressure** is encodeable: [38-Classification Code](38-Classification%20Code.md) carries Element as a trailing field, so `SE-C-IIIβ-014` declares ⚪ **Void** without opening the dossier, and the House can sort its watchlist by which **Pressure** the next **Watch** can afford to meet. To train this sorting, [36-Tactical Engine](36-Tactical%20Engine.md) pairs **Pressure** interaction with Work resolution and **Watch** accounting, making **Pressure** not an afterthought but the first filter before any assignment.
-
-**Pressure** is also code, not just damage, and the city keeps it encodable so that a **Warden** can sort the watchlist before dawn without opening a narrative.[38-Classification Code](38-Classification%20Code.md) carries Element as a trailing field, so `SE-C-IIIβ-014` declares ⚪ **Void**  [공허]  (_Gongheo_) without opening the dossier, and `SE-C-IIIγ-031 Observing Bird`  [지켜보는 새]  (_Jikyeoboneun Sae_) (🔵 **Lament**) declares its **Pressure** alongside its Manifestation (**Subject**, stationary 04 **Object**, active 05 Machine, etc.) and its Type (Veilborne humanoid, Beastborne animal, Hallowed religious, Relic inanimate, Gearborne machinic, Unshaped abstraction, Tool useful, Patron sponsored) and its Rank (I **Whisper** **46** → V **Sovereign** **10** plus five unfixed) and its Origin (City **159** / Inner **72** / Outside **61**), the same five axes that and keep sortable for watch planning across sixteen systems and forty-four Codices. Example resistances make the code enforceable without story: `031 Observing Bird` (🔵 **Lament**) resists 🔴 **Grudge**, so a 🔴 **Grudge**-aligned **M.A.W.** set is safer; `916 Allhallow`  [유령의 시간]  (_Yuryeong-ui Sigan_) (⚪ **Void**) resists 🔵 **Lament**, weak to 🔴 **Grudge**, so a 🔵 **Lament**-leaning cadre will be punished; the Codex therefore teaches that dossier, **Pressure**, and **M.A.W.** must be read as a triple, not as a pair, and the House keeps that triple filed per entity in and per system in at 735 pieces, where the House keeps the same filing without cutting, and the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new **Pressure** is felt it is filed as a variant of one of the four, not as a fifth, so the four remain four and the watch remains sortable.
-
-Outside combat **Pressure** is narrative type and inside combat it is arithmetic, and the city keeps both as one accounting so that a lost day can be retried while a lost **Veil** cannot. In and ’s sixteen scenarios each battle tracks **Han** density, atmosphere, and Fracture warnings through **Pressure** bands, with the decoupled state machine treating Pale differently from 🔴 **Grudge** because Pale at one percent equals five percent of Max HP as conceptual damage that bypasses armor logic while 🔴 **Grudge** scales with current HP and 🔵 **Lament** erodes will and ⚫ **Weight** mixes burden, and with ten-node grid and Range Bands that price which Pressures can be dealt that Turn and which **M.A.W.** resistances must be checked before the Turn is legal, a pricing that makes the dose of each Turn falsifiable rather than theatrical, as priced in and where the same four Pressures are taught as damage elements and as narrative elements, so that a **Warden** who learns [Pressure Types](17-Pressure%20Types.md) learns Tactical and a **Warden** who learns Tactical learns [Daily Cycle](16-Daily%20Cycle.md), as [36-Tactical Engine](36-Tactical%20Engine.md) synthesizes at Short **10** / Medium 16 / Long 20+ turn bands. The city never cuts — when a new **Pressure** interaction is felt it is filed as a variant of one of the four-by-four (four Pressures × four Work-Types, with Two-Work-Type rule 100.0 percent across 283 **Object**/**Place**/**Time**/**Hazard**), not as a new **Pressure**, keeping the four as a budget the Watches can afford.
-
-**Pressure** is also code, not just damage, so that the House can sort the watchlist before dawn without opening a narrative. The House keeps **Pressure** encodable and sortable, where dossier, **Pressure**, and **M.A.W.** must be read as a triple, not as a pair, and where Pale at one percent equals five percent of Max HP as conceptual damage that bypasses armor logic. Outside combat **Pressure** is narrative type and inside combat it is arithmetic, and the city keeps both as one accounting so that a lost day can be retried while a lost **Veil** cannot.
-
-The [Pressure Types](17-Pressure%20Types.md) page also teaches that outside combat **Pressure** is narrative type and inside combat it is arithmetic, and the city keeps both as one accounting so that a lost day can be retried while a lost **Veil** cannot. **Pressure** is also code, not just damage, so that the House can sort the watchlist before dawn without opening a narrative. The House keeps **Pressure** encodable and sortable, where dossier, **Pressure**, and **M.A.W.** must be read as a triple, not as a pair, and where Pale at one percent equals five percent of Max HP as conceptual damage that bypasses armor logic, and the city never cuts when a new **Pressure** is felt.
-
-The [Pressure Types](17-Pressure%20Types.md) page also files **Pressure** as code, not just damage, so that the House can sort the watchlist before dawn without opening a narrative, where the House keeps **Pressure** encodable and sortable, where dossier, **Pressure**, and **M.A.W.** must be read as a triple, not as a pair. and the city never cuts when a new dossier is filed as a variant, not a 293rd, and the ledger remains accountable, and the House keeps the same filing without cutting, and the city never cuts when a new dossier is filed as a variant, not a 293rd, and the ledger remains accountable, and the House keeps the same filing without cutting, and the city never cuts when a new dossier is filed as a variant, not a 293rd, and the ledger remains accountable.
+Rather than relying on generic physical injury, damage in Somnarak is classified into **Four Fundamental Pressures**: 🔴 **Grudge**, 🔵 **Lament**, ⚪ **Void**, and ⚫ **Weight**. Each pressure targets a different physiological or psychological layer of the human body, demanding precise defensive preparation.
 
 ```text
 +========================================================================+
-| SOMNARAK — PRESSURE TYPES                                              |
+| SOMNARAK - PRESSURE AND DAMAGE PHYSICS                                 |
 +------------------------------------------------------------------------+
-| Types | Grudge · Lament · Void · Weight                                |
-| Elements | Grudge · Lament · Void · Weight                             |
-| Archive | Sorrow Entities · Systems                                    |
+| Fundamental Pressures  | Grudge (Red) - Lament (Blue) - Void - Weight  |
+| Targeted Vital Gauges  | Health (HP) - Sanity (SP) - Max Vitality      |
+| Multiplier Bands       | Ineffective (<0.5) - Endured - Normal - Fatal |
+| Special Mechanics      | Pale Conceptual Scaling (1% Void = 5% Max HP) |
+| Mixed Pressure Rule    | Weight damages both HP and SP simultaneously  |
 +========================================================================+
 ```
 
-## Four Pressures
+## Contents
 
-| **Pressure** | Element | Target | Note |
-| --- | --- | --- | --- |
-| 🔴 **Grudge** | 🔴 **Grudge**  [원한]  (_Wonhan_) | Body — Crimson | Physical strain |
-| 🔵 **Lament** | 🔵 **Lament** | Will — Black | Erosion of composure |
-| Pale | ⚪ **Void**  [공허]  (_Gongheo_) | Mind — Pale White | 1 percent = 5 percent Max HP |
-| ⚫ **Weight** | ⚫ **Weight** | All — Mixed | Combined burden |
+- [1 The Four Elemental Pressures](#1-the-four-elemental-pressures)
+  - [1.1 Grudge (🔴 Red Pressure)](#11-grudge--red-pressure)
+  - [1.2 Lament (🔵 Blue Pressure)](#12-lament--blue-pressure)
+  - [1.3 Void (⚪ Pale White Pressure)](#13-void--pale-white-pressure)
+  - [1.4 Weight (⚫ Black Pressure)](#14-weight--black-pressure)
+- [2 Resistance Multipliers and Defense Formula](#2-resistance-multipliers-and-defense-formula)
+- [3 Pale Conceptual Scaling: The 1% = 5% Axiom](#3-pale-conceptual-scaling-the-1--5-axiom)
+- [4 Mixed Damage and Dual-Gauge Depletion](#4-mixed-damage-and-dual-gauge-depletion)
+- [5 Gallery](#5-gallery)
+- [6 See also](#6-see-also)
 
-Per README 🔴 **Grudge**, 🔵 **Lament**, ⚪ **Void**, ⚫ **Weight** are the four canonical Elements.
+## 1 The Four Elemental Pressures
 
-## Tactics
+Every attack dealt by a [Sorrow Entity](07-Sorrow%20Entities.md), [Ordeal](10-Ordeals.md), or [M.A.W. Weapon](09-M.A.W.%20Equipment.md) belongs to one of four elemental pressures:
 
-Choosing a Work-Type without checking **Pressure** is how specialists are lost.
+### 1.1 Grudge (🔴 Red Pressure)
+- **Korean Term:** 원한 (  원한  , *Wonhan*)
+- **Target Gauge:** Directly depletes the operative's **Health Points (HP)**.
+- **Physical Manifestation:** Kinetic trauma, thermal burns, lacerations, and crushing impact. If an operative's HP drops to zero, they suffer physical death.
+- **Primary Sources:** Melee beasts, slashing blades, thermal furnaces (such as [29-The Crucible](29-The%20Crucible.md)), and GREY Ordeals.
 
-Example: `SE-C-IIIγ-031 Observing Bird` (🔵 **Lament**) resists 🔴 **Grudge**-type **Pressure** but is vulnerable to ⚪ **Void**. `SE-O-IIIγ-916 Allhallow` (⚪ **Void**) resists 🔵 **Lament**, weak to 🔴 **Grudge**.
+### 1.2 Lament (🔵 Blue Pressure)
+- **Korean Term:** 비탄 (  비탄  , *Bitan*)
+- **Target Gauge:** Directly depletes the operative's **Sanity Points (SP)**.
+- **Psychological Manifestation:** Auditory hallucinations, depressive weeping, existential despair, and sensory distortion. If SP reaches zero, the operative suffers a [Panic State](12-Specialists.md).
+- **Primary Sources:** Acoustic instruments, wailing phantoms, and BLUE Ordeals.
 
-See [38-Classification Code](38-Classification%20Code.md) for how **Pressure** is encoded per entity (Element field).
+### 1.3 Void (⚪ Pale White Pressure)
+- **Korean Term:** 공허 (  공허  , *Gongheo*)
+- **Target Gauge:** Scales conceptually against **Maximum Vital Health (Max HP)**.
+- **Metaphysical Manifestation:** Erasure of historical memory, spiritual detachment, and structural unraveling.
+- **Primary Sources:** Sovereign horrors, pale executioners, PALE Ordeals, and [27-The Debt Eater](27-The%20Debt%20Eater.md).
 
+### 1.4 Weight (⚫ Black Pressure)
+- **Korean Term:** 비중 (  비중  , *Bijung*)
+- **Target Gauge:** Simultaneously damages **both HP and SP** in equal measure.
+- **Gravitational Manifestation:** Crushing mass, suffocating gravity, and structural collapse. A single strike dealing 10 Weight damage subtracts 10 HP and 10 SP at once.
+- **Primary Sources:** Colossal stone monoliths, tectonic ruptures, and BLACK Ordeals.
 
+## 2 Resistance Multipliers and Defense Formula
 
+The amount of damage an operative suffers when struck is determined by the **Resistance Multiplier** of their equipped M.A.W. Suit:
 
-## Gallery
+The standard damage formula applies:
+`Damage Taken = Base Damage × Suit Resistance Multiplier`
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+### Standard Multiplier Bands
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+| Multiplier Value | Defense Classification | Practical Field Meaning |
+|---|---|---|
+| **0.0 to 0.4** | **Ineffective (Resistant)** | Exceptional protection. Attacks deal scratch damage. |
+| **0.5 to 0.7** | **Endured** | Solid defensive rating. Recommended for frontline suppressors. |
+| **0.8 to 1.2** | **Normal** | Standard baseline. Prolonged exposure causes gradual attrition. |
+| **1.3 to 1.5** | **Vulnerable** | High hazard. Incoming damage is amplified by up to 50%. |
+| **1.6 to 2.0+** | **Fatal** | Lethal vulnerability. Operative can suffer instant death from critical hits. |
+
+## 3 Pale Conceptual Scaling: The 1% = 5% Axiom
+
+The most dangerous mechanic in Somnarak combat physics is **Pale Conceptual Scaling**:
+- Unlike 🔴 **Grudge** or 🔵 **Lament**, which subtract flat numerical values, ⚪ **Void** damage calculates percentage-based erosion.
+- **The Axiom:** Every 1 point of raw ⚪ **Void** damage inflicts **5% of the target's total Maximum HP**.
+- Therefore, a strike dealing 20 points of unmitigated ⚪ **Void** damage strips exactly 100% of an operative's health, resulting in instantaneous death regardless of whether the operative has 50 HP or 500 HP.
+- Consequently, high-tier specialists are just as vulnerable to ⚪ **Void** attacks as novice recruits unless equipped with specialized suits (such as *Debt Shroud* from [27-The Debt Eater](27-The%20Debt%20Eater.md)) or equippable protective wards (such as [30-The Debt Scale](30-The%20Debt%20Scale.md)).
+
+## 4 Mixed Damage and Dual-Gauge Depletion
+
+⚫ **Weight** (Black Pressure) represents a composite threat:
+- Because it drains both vital health and psychological sanity simultaneously, operatives facing ⚫ **Weight** entities face twin collapse vectors.
+- An operative with high physical HP but low mental Clarity will panic from ⚫ **Weight** attacks long before their physical armor fails.
+- Effective suppression of ⚫ **Weight** threats requires equipping gear with balanced dual-resistance across both physical and mental spectra.
+
+## 5 Gallery
+
+![Pressure Elements Graphic](https://via.placeholder.com/320x180?text=Four+Pressure+Elements)
+![Damage Calculation Visual](https://via.placeholder.com/320x180?text=Damage+Calculations)
+![Pale Void Resistance Ward](https://via.placeholder.com/320x180?text=Void+Resistance+Ward)
+
+*Left: icons of the four fundamental pressures; Center: resistance multiplier formula; Right: Void protective warding.*
 ---
 
-## See also
+## 6 See also
 
--[36-Tactical Engine](36-Tactical%20Engine.md)
--[38-Classification Code](38-Classification%20Code.md)
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — weapon damage values and suit resistance tables
+- [12-Specialists](12-Specialists.md) — specialist stats, health pools, and panic states
+- [10-Ordeals](10-Ordeals.md) — elemental incursion threats across the five colors
+- [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen dossier: Void pressure specialist

@@ -1,61 +1,124 @@
 # Operations
 
-> *Every operation is a promise written in **Lumen**.*
+> *“A mission is not an order to survive; it is a blueprint to expand what the facility can endure.”*
 
-**Operations** are the daily missions assigned by [Echo-Cores](14-Echo-Cores.md).
+**Operations**  [작전 지령]  (_Jakjeon Jiryeong_), also designated as **Missions**, are progressive tactical assignments issued by the nine sovereign [Echo-Cores](14-Echo-Cores.md) governing Facility 01.
 
-An Operation is a promise written in **Lumen**. Each **Watch**, an **Echo-Core** issues a request that the House must either fulfill or pay for in Fracture: complete X Work on a dossier, hold **Containment** at a threshold, appraise a **M.A.W.** set from the forty-two, or resolve a **Reverberation** before the bell advances. The cycle is daily — Watches 1 through 4 — and the issuer is always one of the.[Operations](13-Operations.md) differ by era without changing form. Ante-Dawn [Operations](13-Operations.md) under Katabagil and Katharcheok were tactical turns in calendar years, measured in meters of bedrock (-2,000 to -7,200) and syndicate wards purged, never in Cycles. Post-Dawn [Operations](13-Operations.md) — Dawn Initiative aboard The Lantern to lift transmutation from 15 percent toward 45 percent under twelve Hope Bearers, Horizon Caravan’s six Arcs to Cheonbulok and Mugeukji, Memory Archive’s seven Receptions to build Key.
-
-Reports are filed per **Watch** and are the municipal literature of the House. Examples filed in current dossiers include **Floor** 2 Dekan: Maintain **Maw**’s Keep at Level 2 through **Watch** 2 without 🌀 **Mugenhan** spill; **Floor** 4 Ayshuk: [Research](15-Research.md) three dossiers to unlock a Codex wing; **Floor** 5 Mellda: Survive Border **Watch** without a Tide **Ordeal** when **Containment** is already Strained. Each report closes with a line drawn to [39-Archival Codex](39-Archival%20Codex.md) for where the [Research](15-Research.md) will be bound and to [36-Tactical Engine](36-Tactical%20Engine.md) for how the Work will be executed, ensuring that [Operations](13-Operations.md) never float free of the systems that price them.[Operations](13-Operations.md) are priced in **Lumen** and Fracture together because the promise that fails is not merely a missed yield but a thinned **Veil**, and the city keeps that pricing visible so that it never cuts like.gg cuts when a paragraph is unfinished. Each **Watch** an **Echo-Core** issues a request that the House must either fulfill or pay for — complete X Work on a dossier (e.g., `SE-C-IIIβ-014` with 👁 **Viderehan** for 8 LU on **Whisper**, more for higher **Risk**), hold **Containment** at a threshold (maintain **Floor** 2 **Maw**’s Keep at Level 2 through **Watch** 2 without 🌀 **Mugenhan** spill), appraise a **M.A.W.** set from the forty-two at **1,165** profiles, or resolve a **Reverberation** (nine Floors 1–8 plus Central, one per **Echo-Core**) before the **Watch** ends — and the yield is **Lumen** plus [Research](15-Research.md) toward forty-four Codices while the cost is Fracture plus **Containment** Level (Tranquil→Rupture) plus the risk of gating an **Ordeal** that **Watch** (sixty across First→Tide, five Colors).
-
-Reports are the municipal literature of [Operations](13-Operations.md), and the city keeps them as **Watch**-priced literature so that a lost day can be retried from the last accounting while a lost **Veil** cannot. **Floor** 2 Dekan: Maintain **Maw**’s Keep at Level 2 through **Watch** 2 without 🌀 **Mugenhan** spill, stabilizing **Lumen** at 5,000 LU per floor and 40,000 LU primary rather than chasing the wave; **Floor** 4 Ayshuk: [Research](15-Research.md) three dossiers to unlock a Codex wing among the forty-four across six wings (nine Cosmology, six Chronicles, eight Systems, nine Society, six Tales, six Audits); **Floor** 5 Mellda: Survive Border **Watch** without a Tide **Ordeal** (Mountain, Mother Flood, Sinking Continent, Final Ton) when **Containment** is already Strained, accepting that the day may be lost and trading **Lumen** for survival because a lost **Veil** cannot be retried. Each report closes with a line drawn to [39-Archival Codex](39-Archival%20Codex.md) for where [Research](15-Research.md) will be bound (eighteen-section **Subject** Template v0.4: SECC, Parameters, Combat, Appearance, Origin, Behavior, Breach, **M.A.W.**, Observation, Story, Final Observation, Flavor, Interactions, Tale, Testimony, Record, Trivia) and to [36-Tactical Engine](36-Tactical%20Engine.md) for how Work will be executed (Tension→Clash→Resolution across Short **10**/Medium 16/Long 20+ turn bands, ten-node grid, Range Bands, Pale 1% = 5% Max HP), ensuring [Operations](13-Operations.md) never float free of the systems that price them, and ensuring the city never cuts — when a new Operation is felt to be needed it is filed as a variant of one of the sixteen systems, not as a seventeenth, and when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, as audited by `seam_lint.py` at 74 columns exact.
-
-An Operation is a promise written in **Lumen**. Each **Watch** an **Echo-Core** issues a request that the House must either fulfill or pay for in Fracture. The cycle is daily — four Watches — and the issuer is always one of the nine. Yield is **Lumen** and [Research](15-Research.md); cost is **Veil**. The same promise structure governs both ante-Dawn tactical turns and post-Dawn expeditionary wings, which is why the House learns one [Operations](13-Operations.md) grammar for both municipal and overland work, and why reports are filed per **Watch** as municipal literature that draws a line to where [Research](15-Research.md) will be bound and how Work will be executed.
-
-The [Operations](13-Operations.md) page also teaches that yield is **Lumen** and [Research](15-Research.md); cost is **Veil**. The same promise structure governs both ante-Dawn tactical turns and post-Dawn expeditionary wings, which is why the House learns one [Operations](13-Operations.md) grammar for both municipal and overland work, and why reports are filed per **Watch** as municipal literature that draws a line to where [Research](15-Research.md) will be bound and how Work will be executed. An Operation is a promise written in **Lumen**, where each **Watch** an **Echo-Core** issues a request that the House must either fulfill or pay for in Fracture, and the city never cuts when a new Operation is felt, and the House keeps the same filing without cutting.
-
-The [Operations](13-Operations.md) page also files yield as **Lumen** and [Research](15-Research.md) and cost as **Veil**, where the same promise structure governs both ante-Dawn tactical turns and post-Dawn expeditionary wings, which is why the House learns one [Operations](13-Operations.md) grammar for both municipal and overland work, and why reports are filed per **Watch** as municipal literature that draws a line to where [Research](15-Research.md) will be bound and how Work will be executed. An Operation is a promise written in **Lumen**, where each **Watch** an **Echo-Core** issues a request that the House must either fulfill or pay for in Fracture, and the city never cuts when a new Operation is felt, and the House keeps the same filing without cutting, and the ledger remains accountable.
+Completing missions is the primary mechanism for unlocking facility capabilities: every cleared directive permanently unlocks a research upgrade from [15-Research](15-Research.md), expands specialist recruitment thresholds, and ultimately unlocks access to the climatic [Floor Realization](11-Reverberations.md) trials.
 
 ```text
 +========================================================================+
-| SOMNARAK — OPERATIONS                                                  |
+| SOMNARAK - OPERATIONAL MISSIONS                                        |
 +------------------------------------------------------------------------+
-| Cycle | Daily Watches 1 to 4                                           |
-| Issuer | 9 Echo-Cores                                                  |
-| Archive | Watch Cycle                                                  |
+| Mission Directory      | 36 Progressive Departmental Directives        |
+| Issuing Authority      | 9 Sovereign Echo-Cores (Floors 1-8 + Central) |
+| Tier Structure         | Tier 1 (Routine) to Tier 4 (Mastery)          |
+| Operational Goal       | Floor Realization Clearance & Research Perks  |
+| Failure Condition      | Shift Reset & Directorial Meltdown Stagnation |
 +========================================================================+
 ```
 
-## Daily [Operations](13-Operations.md)
+## Contents
 
-Each **Watch**, a **Floor** issues a request: complete X Work, hold **Containment** at a threshold, appraise a **M.A.W.** set, or resolve a **Reverberation**. Yield is **Lumen** and [Research](15-Research.md); cost is Fracture if failed.
+- [1 Mission Architecture and Tier Progression](#1-mission-architecture-and-tier-progression)
+- [2 Complete Missions Directory across the Nine Departments](#2-complete-missions-directory-across-the-nine-departments)
+  - [2.1 Spires Missions (Director Majin)](#21-spires-missions-director-majin)
+  - [2.2 Central Administration Missions (Secretary Seiyon)](#22-central-administration-missions-secretary-seiyon)
+  - [2.3 Maw's Keep Missions (Lead Dekan)](#23-maws-keep-missions-lead-dekan)
+  - [2.4 Extraction Hall Missions (Lead Zyrak)](#24-extraction-hall-missions-lead-zyrak)
+  - [2.5 Insight Forge Missions (Lead Ayshuk)](#25-insight-forge-missions-lead-ayshuk)
+  - [2.6 Border Watch Missions (Lead Mellda)](#26-border-watch-missions-lead-mellda)
+  - [2.7 Deep Vault Missions (Lead Marjuk)](#27-deep-vault-missions-lead-marjuk)
+  - [2.8 Shadow Corps Missions (Lead Ishall)](#28-shadow-corps-missions-lead-ishall)
+  - [2.9 Gate Watch Missions (Lead Xyan)](#29-gate-watch-missions-lead-xyan)
+- [3 Tactical Preparation and Shift Planning](#3-tactical-preparation-and-shift-planning)
+- [4 Gallery](#4-gallery)
+- [5 See also](#5-see-also)
 
-Post-Dawn examples include Dawn Initiative (Lantern 15 to 45 percent), Horizon Caravan 6 expeditions, Gieok 7 strata, and Company 4's 7 Crucible Stations.
+## 1 Mission Architecture and Tier Progression
 
-## Reporting
+Each Echo-Core issues four progressive tiers of missions:
+- **Tier 1 (Operational Foundation):** Focuses on standard work execution and basic containment discipline within the department.
+- **Tier 2 (Work Diversity):** Demands executing containment across all four canonical protocols (👁 **Viderehan**, 🤲 **Ferrehan**, 💧 **Flerehan**, ⚔ **Pugnahan**).
+- **Tier 3 (Combat Suppression):** Requires neutralizing active entity breaches or surviving designated [Ordeal](10-Ordeals.md) incursions using departmental squads.
+- **Tier 4 (Mastery and Zero-Casualty):** Demands completing an entire operational shift without a single specialist death or panic breakdown while reaching maximum daily energy quotas.
 
-Reports are filed per **Watch**. Examples:
+Completing all four tiers for a department permanently unlocks that director's **Core Suppression** at [11-Reverberations.md](11-Reverberations.md).
 
-- **Floor** 2 Dekan — Maintain **Maw** Keep at Level 2 through **Watch** 2
-- **Floor** 4 Ayshuk —[Research](15-Research.md) 3 dossiers to unlock Codex
-- **Floor** 5 Mellda — Survive Border **Watch** without Tide **Ordeal**
+## 2 Complete Missions Directory across the Nine Departments
 
-**Risk** is checked between Watches. See [18-**Containment** Levels](18-Containment%20Levels.md).
+### 2.1 Spires Missions (Director Majin)
+1. *Threshold Sentry:* Execute 3 standard work sessions in the Spires department. (Reward: Movement Speed +5%).
+2. *Tactical Verification:* Achieve 5 Good work outcomes with Rank II Murmur entities. (Reward: Enhanced Starting Uniforms).
+3. *Iron Suppression:* Suppress a First Watch (Dawn) Ordeal incursion. (Reward: Tactical Pistol Buff).
+4. *Sovereign Threshold:* Complete a shift at Meltdown Level VI with zero casualties. (Reward: Unlocks Majin Core Suppression).
 
+### 2.2 Central Administration Missions (Secretary Seiyon)
+1. *Ledger Auditing:* Complete 5 work sessions with positive Han-Energy yields. (Reward: Work Success +5%).
+2. *Cross-Floor Balancing:* Execute at least 2 work sessions in four different departments. (Reward: Energy Quota +5%).
+3. *The Record Intact:* Suppress a Second Watch (Noon) Ordeal without clerk casualties. (Reward: Archival Visualization).
+4. *Unbroken Continuity:* Achieve daily quota with zero panic events facility-wide. (Reward: Unlocks Seiyon Core Suppression).
 
+### 2.3 Maw's Keep Missions (Lead Dekan)
+1. *Barricade Inspection:* Perform 4 🤲 **Ferrehan** (Endurance) work sessions. (Reward: Max HP +10).
+2. *Heavy Clamping:* Suppress a breaching Rank III Fragment entity. (Reward: Hydraulic Clamps).
+3. *The Lip Holds:* Defeat a GREY Ordeal incursion in the lower corridors. (Reward: Physical Armor Weaving).
+4. *Unshakable Fortress:* Complete shift with no containment airlocks broken. (Reward: Unlocks Dekan Core Suppression).
 
+### 2.4 Extraction Hall Missions (Lead Zyrak)
+1. *Well Inspection:* Harvest 40 units of raw Han-Energy from Mnemonic Wells. (Reward: Max SP +10).
+2. *High-Yield Distillation:* Successfully extract 3 M.A.W. Weapons from containment cores. (Reward: Energy Refinement +10%).
+3. *Resonance Dampening:* Suppress a PURPLE Ordeal monolith. (Reward: Acoustic Shielding).
+4. *Overcharge Protocol:* Complete shift collecting 130% of daily energy quota. (Reward: Unlocks Zyrak Core Suppression).
 
-## Gallery
+### 2.5 Insight Forge Missions (Lead Ayshuk)
+1. *Sensor Calibration:* Perform 4 👁 **Viderehan** (Observation) work sessions. (Reward: Work Speed +10%).
+2. *Cognitive Decoding:* Fully unlock all four Observation Levels for three entities. (Reward: E-Box Visualization).
+3. *Anomalous Behavioral Study:* Successfully work with a high-threat Rank IV Entity. (Reward: Mental Shield Buff).
+4. *Total Synthesis:* Complete shift with all departmental entities researched. (Reward: Unlocks Ayshuk Core Suppression).
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+### 2.6 Border Watch Missions (Lead Mellda)
+1. *Perimeter Patrol:* Station four specialists in Border Watch corridors for 5 minutes. (Reward: All-Pressure Defense +0.1).
+2. *Quarantine Execution:* Intercept and suppress two breaching entities simultaneously. (Reward: Arm-Blade Fabrication).
+3. *The Dusk Line:* Suppress a Third Watch (Dusk) Ordeal incursion. (Reward: Heavy Tactical Plate).
+4. *Frontier Lockdown:* Clear shift with zero border breaches recorded. (Reward: Unlocks Mellda Core Suppression).
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+### 2.7 Deep Vault Missions (Lead Marjuk)
+1. *Relic Curation:* Perform 3 successful interactions with Relic entities. (Reward: Relic Strain -25%).
+2. *Temporal Calibration:* Channel work for 20 seconds inside [29-The Crucible](29-The%20Crucible.md). (Reward: Stasis Shielding).
+3. *Vault Sentry:* Suppress a BLACK Ordeal incursion using only relic-equipped staff. (Reward: Memory Lens Upgrade).
+4. *Deep Preservation:* Complete shift with all vault relics stabilized. (Reward: Unlocks Marjuk Core Suppression).
+
+### 2.8 Shadow Corps Missions (Lead Ishall)
+1. *Covert Dispatch:* Execute 5 rapid suppression orders within 30 seconds of breach. (Reward: Evade Rate +10%).
+2. *Silent Strike:* Suppress a breaching entity without it entering any Main Room. (Reward: Critical Chance +5%).
+3. *Night Sweep:* Subdue an Ordeal incursion using only two assigned specialists. (Reward: Shadow Cloak Weaving).
+4. *Invisible Hand:* Clear shift with zero alert sirens sounding across the floor. (Reward: Unlocks Ishall Core Suppression).
+
+### 2.9 Gate Watch Missions (Lead Xyan)
+1. *Abyss Watch:* Maintain specialists stationed at the Gate Watch blast doors for 10 minutes. (Reward: Panic Threshold +20 SP).
+2. *Void Endurance:* Complete 5 work sessions with entities dealing ⚪ **Void** damage. (Reward: Pale Inversion Mantle).
+3. *The Midnight Stand:* Suppress a Tide Watch (Midnight) Ordeal incursion. (Reward: Neural Spine Fabrication).
+4. *The Final Gate:* Complete shift at Meltdown Level X with all Gate Watch staff alive. (Reward: Unlocks Xyan Core Suppression).
+
+## 3 Tactical Preparation and Shift Planning
+
+- **Mission Stacking:** The Warden may advance multiple departmental missions simultaneously during a single shift.
+- **Ordeal Synchronization:** Coordinate suppression missions with scheduled Ordeal alerts to clear incursion requirements efficiently.
+- **Failure Non-Penalty:** Failing a mission condition does not cause game over; the Warden simply retries the objective during the subsequent shift.
+
+## 4 Gallery
+
+![Mission Briefing Console](https://via.placeholder.com/320x180?text=Mission+Briefing+Console)
+![Departmental Tier Progression](https://via.placeholder.com/320x180?text=Departmental+Progression)
+![Floor Realization Gate](https://via.placeholder.com/320x180?text=Floor+Realization+Gate)
+
+*Left: tactical mission dispatch console; Center: departmental tier progress; Right: Floor Realization trial gateway.*
 ---
 
-## See also
+## 5 See also
 
--[15-Research](15-Research.md)
--[36-Tactical Engine](36-Tactical%20Engine.md)
--[39-Archival Codex](39-Archival%20Codex.md)
+- [06-Personnel](06-Personnel.md) — director profiles and voice transcripts
+- [14-Echo-Cores](14-Echo-Cores.md) — individual director dossiers and mechanics
+- [11-Reverberations](11-Reverberations.md) — department meltdowns and floor realizations
+- [15-Research](15-Research.md) — research perks unlocked by completed operations
