@@ -18,22 +18,34 @@ Within this municipal order, the **Hand of Change** (Facility 01) descends eight
 +========================================================================+
 ```
 
-## Primary Portals
+## Contents
+
+- [1 Primary Portals](#1-primary-portals)
+  - [1.1 The 3 Main Ways](#11-the-3-main-ways)
+  - [1.2 The 2 Sub Ways](#12-the-2-sub-ways)
+- [2 Individual Entity Showcases](#2-individual-entity-showcases)
+- [3 Facility 01 Departments and Echo-Cores](#3-facility-01-departments-and-echo-cores)
+- [4 Gameplay and Tactical Systems](#4-gameplay-and-tactical-systems)
+- [5 Navigation Tools](#5-navigation-tools)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
+
+## 1 Primary Portals
 
 The Somnarak archive is organized across **Three Main Hubs** and **Two Sub Portals**, supported by individual specimen dossiers:
 
-### The 3 Main Ways
+### 1.1 The 3 Main Ways
 
 - **[07-Sorrow Entities](07-Sorrow%20Entities.md)**: The Master Bestiary hub. Contains all thirteen canonical sections documenting the nature, behavior, origins, Lumen extraction, M.A.W. gear, and classification of all 292 crystallized sorrows.
 - **[05-Chronicle](05-Chronicle.md)**: The Story and Lore hub. Documents the master historical timeline spanning Ante-Dawn expeditions, the 1,778 cycles of the Reverie Directorate, the Dawn of Hope (Year 4,238), and the six Story Cantos.
 - **[01-Main Page](01-Main%20Page.md)**: The Central Grand Portal and directory navigation index.
 
-### The 2 Sub Ways
+### 1.2 The 2 Sub Ways
 
 - **[06-Personnel](06-Personnel.md)**: The Character hub. Profiles the nine sovereign [Echo-Cores](14-Echo-Cores.md), their departmental armbands and signature weapons, ten Specialist Cadres, and the ten Primary Companies.
 - **[22-Departments](22-Departments.md)**: The Department hub. Details Facility 01's spatial architecture, departmental team bonuses, Main Room healing generators (6 HP/SP), containment chambers, and progressive research unlocks.
 
-## Individual Entity Showcases
+## 2 Individual Entity Showcases
 
 To illustrate the diverse containment archetypes cataloged by the Directorate, four primary specimen articles demonstrate the distinction between breaching non-tool subjects and the three functional classes of tool relics:
 
@@ -44,7 +56,7 @@ To illustrate the diverse containment archetypes cataloged by the Directorate, f
 | **[29-The Crucible](29-The%20Crucible.md)** | `SE-C-IIIβ-275` | **Tool: Channeled Use** | Continuous endurance refining Han-Energy; unlocked by Time; fatal past 30 seconds. |
 | **[30-The Debt Scale](30-The%20Debt%20Scale.md)** | `SE-C-IIIβ-015` | **Tool: Equippable** | Wearable passive talisman; restores SP and inverts Void defense; paired with Debt Eater. |
 
-## Facility 01 Departments and Echo-Cores
+## 3 Facility 01 Departments and Echo-Cores
 
 Somnarak fields nine operational departments across eight descending levels plus Central Administration:
 
@@ -60,7 +72,7 @@ Somnarak fields nine operational departments across eight descending levels plus
 | **Floor 7** | Shadow Corps | Ishall  [이샬] | Shadowed Cowl | Covert intervention (co-monitored by Zyrak and Seiyon) |
 | **Floor 8 (Lowest)** | Gate Watch | Xyan  [시안] | Neural Spine Wire | Final gatekeeper against subterranean Maw incursions |
 
-## Gameplay and Tactical Systems
+## 4 Gameplay and Tactical Systems
 
 - **[08-Sorrow List](08-Sorrow%20List.md)** — complete catalog of all 285 unique SECC codes
 - **[09-M.A.W. Equipment](09-M.A.W.%20Equipment.md)** — weapon, suit, and gift armory (42 sets, 1,165 profiles)
@@ -78,14 +90,14 @@ Somnarak fields nine operational departments across eight descending levels plus
 - **[37-Relic Entities](37-Relic%20Entities.md)** — complete taxonomy of the 88 relic and tool specimens
 - **[38-Classification Code](38-Classification%20Code.md)** — SECC nomenclature and decoding manual
 
-## Navigation Tools
+## 5 Navigation Tools
 
 - [02-Recent Echoes](02-Recent%20Echoes.md) — recent changes, patchnotes, and field logs
 - [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 292 containment records
 - [04-Help](04-Help.md) — reading guide for novices and containment safety standards
 - [42-Navigation](01-Main%20Page.md) — complete directory index
 
-## Gallery
+## 6 Gallery
 
 ![Alpha Tree Spire](https://via.placeholder.com/320x180?text=Alpha+Tree+Spire)
 ![Facility 01 Floor Overview](https://via.placeholder.com/320x180?text=Facility+01+Floors)
@@ -94,7 +106,7 @@ Somnarak fields nine operational departments across eight descending levels plus
 *Left: the Alpha Tree over Facility 01; Center: cross-section of the nine operational floors; Right: departmental armbands.*
 ---
 
-## See also
+## 7 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master entity bestiary
 - [05-Chronicle](05-Chronicle.md) — master history and story cantos
