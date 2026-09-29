@@ -20,7 +20,7 @@ Emberroot is a humanoid knot of ember-branches whose planted feet travel through
 |---|---|
 | Type / Manifestation | Subject / Subject-Grudge |
 | Coherence / Potency | III / γ |
-| Element | Weight (Black) |
+| Element | Weight |
 | Location | Zone C, Collector’s Row |
 | Gauge / Pressure | 673/673; starts 45–65% / 16–36 Weight |
 | Movement / Resistance | 1.95 m/s / 35% Weight, 25% other |

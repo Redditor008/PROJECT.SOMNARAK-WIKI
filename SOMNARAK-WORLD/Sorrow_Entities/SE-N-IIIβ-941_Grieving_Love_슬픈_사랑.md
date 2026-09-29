@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Reaches for the comfort she could never give |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한 — Naehan) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A 1.3 m figure whose upper body is a smooth, translucent blue humanoid torso with the soft, unfinished features of a grieving woman, resolving at the waist into a gelatinous, trembling mass of concentrated Han slime. Her surface is cool to the touch and faintly luminous, as though sorrow were lit from inside her. She has no legs; the slime below is her. |
 | **Movement** | Mobile — she drifts and glides on her slime lower body, slow and wobbling, like a mourner wading through her own grief. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reaching Hand* [**Debuff**] } | "A small, trembling hand of slime lifts toward you — palm up, the way you'd ask someone to stay." | [She extends a translucent blue hand, seeking to be held; the grief in it is contagious.] | *The target is washed in a sorrow that is not theirs — the borrowed loneliness of someone left behind.* **[8 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters her reach. |
-| { *The Murmur of His Name* [**Debuff**] } | "She whispers a name over and over, a name no one alive answers to anymore." | [Her lips shape a beloved's name; the sound carries the weight of all the times it went unheard.] | *Targets within earshot feel an aching love for someone they have not yet lost, and the dread of losing them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Sorrow Gauge passes 60%. |
-| { *The Undertow* [**Attack**] } | "The slime at her base surges forward like a slow, sad tide — not to drown you, but to keep you close." | [Her lower mass extends in a pulling current, drawing the target toward her body.] | *The target is dragged inward; composure drains as the grief-slime laps at their skin.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the target tries to leave. |
-| { *The Keeping* [**Attack (heavy)**] } | "She folds the target into herself completely — and for one held breath, they are warm, and held, and gone." | [She envelops the target in her mass, trying to hold them the way she could not hold him.] | *Full envelopment; the target's identity softens at the edges as the cure-that-failed tries to preserve them forever.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When comfort is offered, then refused. |
-| { *The Unfinished Cure* [**Ultimate**] } | "The concoction that made her erupts from her chest — a flood of luminous blue grief filling every corner of the room." | [The original failed cure pours out of her body, saturating the containment zone in concentrated, sorrow-laden Han.] | *All in range are steeped in grieving Han for three turns; they weep for people they still have.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| { *The Reaching Hand* [**Debuff**] } | "A small, trembling hand of slime lifts toward you — palm up, the way you'd ask someone to stay." | [She extends a translucent blue hand, seeking to be held; the grief in it is contagious.] | *The target is washed in a sorrow that is not theirs — the borrowed loneliness of someone left behind.* **[8 Lament DMG [Lament]]** | When the target enters her reach. |
+| { *The Murmur of His Name* [**Debuff**] } | "She whispers a name over and over, a name no one alive answers to anymore." | [Her lips shape a beloved's name; the sound carries the weight of all the times it went unheard.] | *Targets within earshot feel an aching love for someone they have not yet lost, and the dread of losing them.* **[10 Lament DMG [Lament]]** | When the Sorrow Gauge passes 60%. |
+| { *The Undertow* [**Attack**] } | "The slime at her base surges forward like a slow, sad tide — not to drown you, but to keep you close." | [Her lower mass extends in a pulling current, drawing the target toward her body.] | *The target is dragged inward; composure drains as the grief-slime laps at their skin.* **[14-22 Lament DMG [Lament]]** | When the target tries to leave. |
+| { *The Keeping* [**Attack (heavy)**] } | "She folds the target into herself completely — and for one held breath, they are warm, and held, and gone." | [She envelops the target in her mass, trying to hold them the way she could not hold him.] | *Full envelopment; the target's identity softens at the edges as the cure-that-failed tries to preserve them forever.* **[24-36 Lament DMG [Lament]]** | When comfort is offered, then refused. |
+| { *The Unfinished Cure* [**Ultimate**] } | "The concoction that made her erupts from her chest — a flood of luminous blue grief filling every corner of the room." | [The original failed cure pours out of her body, saturating the containment zone in concentrated, sorrow-laden Han.] | *All in range are steeped in grieving Han for three turns; they weep for people they still have.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -120,7 +120,7 @@
 - **Manifestation:** Subject-Body
 - **Primary marker:** A 1.3 m blue slime woman, upper body a grieving humanoid, lower body a gelatinous mass.
 - **Position / movement:** Drifts toward warmth on her slime base; arms folded or one hand extended.
-- **Element signature:** Lament (Deep Blue) — the room cools and dims around her.
+- **Element signature:** Lament — the room cools and dims around her.
 - **Registered location:** SECTOR-D-03, Zone D — the Drowned Apothecary
 
 ### Detailed Appearance Profile
@@ -129,7 +129,7 @@
 |---|---|
 | **Form** | 1.3 m humanoid upper torso of translucent blue slime resolving into a gelatinous lower mass; no legs. |
 | **Position / movement** | Slow drifting glide toward warmth; palms often extended; posture of active grief. |
-| **Material / signature** | Concentrated Han in slime form; Lament (Deep Blue); faint herbal scent and a cold, dimming field. |
+| **Material / signature** | Concentrated Han in slime form; Lament; faint herbal scent and a cold, dimming field. |
 | **Distinctive markers** | Continuous tearless weeping; the open pleading hand; the slow blue chest-pulse of the unfinished cure. |
 | **Identification** | Distinguish from other slime or Lament entities by her fixed grieving posture, her small stature, and the persistent extended palm — she is the only entity that asks to be held. |
 
@@ -154,7 +154,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Grieving Love is recorded as a Subject with Subject-Body manifestation and Lament (Deep Blue) elemental expression. The current record places her at SECTOR-D-03, Zone D; personnel should not transfer assumptions from another entity with a similar appearance. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to contagious grief, intrusive longing, and the urge to remain beside her.
+The gauge response is only meaningful in context. Grieving Love is recorded as a Subject with Subject-Body manifestation and Lament elemental expression. The current record places her at SECTOR-D-03, Zone D; personnel should not transfer assumptions from another entity with a similar appearance. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to contagious grief, intrusive longing, and the urge to remain beside her.
 
 **Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has given her real comfort — the rarest thing in her existence. An increase means the work read as rejection, which to her is the original wound reopened. Any embrace that is begun and then broken off must be logged at once; these are the single most dangerous moments in her containment.
 
@@ -185,7 +185,7 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a coiled whip of deep-blue Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a coiled whip of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
 
 **Damage:** Lament 5-10
 **Speed:** 2 (Normal)
@@ -201,13 +201,13 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a thin membrane of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a thin membrane of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
-- Grudge (Crimson): 1.2 (Weak)
-- Lament (Deep Blue): 0.3 (Resistant)
-- Weight (Black): 1.1 (Weak)
-- Void (Pale White): 1.0 (Normal)
+- Grudge: 1.2 (Weak)
+- Lament: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
+- Void: 1.0 (Normal)
 **Max Amount:** 3
 **Cost:** 20 Sorrow Echoes
 
@@ -219,7 +219,7 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a pendant of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a pendant of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Neck
 **Acquisition Probability:** 5%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Grieving Love (N-IIIβ-941 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The entity formed when an apothecary, Sooah, fell into a vat of concentrated Han she was distilling as a cure for her dying beloved. Held at the Drowned Apothecary, SECTOR-D-03, Zone D. She drifts, weeps without wetting the floor, and reaches for any offered warmth.
+Grieving Love (N-IIIβ-941 [LS]) is logged as a Subject-Body manifestation expressing Lament. The entity formed when an apothecary, Sooah, fell into a vat of concentrated Han she was distilling as a cure for her dying beloved. Held at the Drowned Apothecary, SECTOR-D-03, Zone D. She drifts, weeps without wetting the floor, and reaches for any offered warmth.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, Handler Soojin reports the room dropped several degrees and the lamps dimmed. The entity did not approach until Soojin knelt and stayed still; she then pressed her forehead to Soojin's chest and was silent for eleven minutes. The Handler's composure readings dipped but stabilised. No envelopment occurred. Note: the danger is not that she attacks. The danger is that it feels like kindness.
@@ -357,7 +357,7 @@ She did not reach it. She reached, instead, for the next warm thing, and the nex
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-941 [LS]` · Inner origin · Fragment (III) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-941 [LS]` · Inner origin · Fragment (III) coherence · Moderate (β) potency · Lament · Subject-Body manifestation
 **Common Name:** Grieving Love (슬픈 사랑)
 **Containment Status:** Contained — the Drowned Apothecary, SECTOR-D-03, Zone D
 **Comprehension Level:** 2 — Basic
@@ -389,7 +389,7 @@ She did not reach it. She reached, instead, for the next warm thing, and the nex
 ### Registry Trivia
 
 - **Classification detail:** Grieving Love is a Subject with Fragment (III) coherence and Moderate (β) potency.
-- **Field detail:** Her defining element is Lament (Deep Blue), and her registered location is the Drowned Apothecary, SECTOR-D-03, Zone D.
+- **Field detail:** Her defining element is Lament, and her registered location is the Drowned Apothecary, SECTOR-D-03, Zone D.
 - **Recognition detail:** Personnel should identify her by her 1.3 m blue slime form, her continuous weeping, and the ever-open pleading hand — before relying on the cold, dimming grief-field.
 - **Record detail:** Among Subject-Body Lament entities, she is distinguished by intent: she is the only recorded entity whose every hostile act is an attempt to give comfort.
 - **Containment detail:** Contained does not mean quiet. Her influence reaches past the Apothecary walls through the grief-field; personnel nearby report unexplained longing. The seal is a comfort, not a cure.

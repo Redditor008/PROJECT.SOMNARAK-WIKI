@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats showing reflections |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A cracked ancient mirror of dark Han-crystal in a corroded frame, its surface shattered into facets that reflect not the present but a memory the viewer has forgotten or suppressed. The glass is bloodless-cold and gives back no warmth; near it, the flat smell of ash. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Crack* [**Debuff**] } | "A crack splits your reflection — and you feel the split in yourself." | [The Mirror fractures the target's self-image; they feel divided.] | *Target suffers a Void mark; they are no longer whole.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target sees the Mirror. |
-| { *The Fragmented Self* [**Debuff**] } | "Your reflection is in a hundred pieces — and each piece shows a different you." | [The Mirror shatters the target's identity into fragments.] | *Target loses clarity; they cannot tell which self is real.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares at the cracks. |
-| { *The Flying Glass* [**Attack**] } | "A shard breaks free — and where it cuts, a piece of you goes with it." | [A mirror-shard flies, carrying away part of the target's identity.] | *Inflicts Void damage; a fragment of self is severed.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Hundred Selves* [**Attack**] } | "Every shard shows a different you — and every one of them is angry." | [The reflections in the shards separate and attack independently.] | *A heavy Void assault; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |
-| { *The Shatter* [**Ultimate**] } | "The mirror explodes — and now everyone is in pieces." | [The Mirror detonates, shattering every sense of self in the field.] | *All in range suffer Pale White erosion for three turns among the shards.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Crack* [**Debuff**] } | "A crack splits your reflection — and you feel the split in yourself." | [The Mirror fractures the target's self-image; they feel divided.] | *Target suffers a Void mark; they are no longer whole.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target sees the Mirror. |
+| { *The Fragmented Self* [**Debuff**] } | "Your reflection is in a hundred pieces — and each piece shows a different you." | [The Mirror shatters the target's identity into fragments.] | *Target loses clarity; they cannot tell which self is real.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares at the cracks. |
+| { *The Flying Glass* [**Attack**] } | "A shard breaks free — and where it cuts, a piece of you goes with it." | [A mirror-shard flies, carrying away part of the target's identity.] | *Inflicts Void damage; a fragment of self is severed.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
+| { *The Hundred Selves* [**Attack**] } | "Every shard shows a different you — and every one of them is angry." | [The reflections in the shards separate and attack independently.] | *A heavy Void assault; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |
+| { *The Shatter* [**Ultimate**] } | "The mirror explodes — and now everyone is in pieces." | [The Mirror detonates, shattering every sense of self in the field.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -189,12 +189,12 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|---|
 | 10 Seconds | Broken Mirror rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Broken Mirror activates its primary resonance: Projects a suppressed memory in complete emotional and sensory detail. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from denial—the grief of truths too painful to preserve and too persistent to destroy; the bearer begins perceiving echoes of sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the mirror. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Mirror begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Broken Mirror begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Broken Mirror too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Identity crisis, emotional distress, and possible Fracture from prolonged exposure. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Mirror: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, Alpha Tree Archive — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Mirror: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, Alpha Tree Archive — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -218,7 +218,7 @@ The escalation pattern is specific to Broken Mirror: it is not a generic breach 
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)
@@ -234,7 +234,7 @@ The escalation pattern is specific to Broken Mirror: it is not a generic breach 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -252,7 +252,7 @@ The escalation pattern is specific to Broken Mirror: it is not a generic breach 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a shard-tile of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a shard-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -309,7 +309,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Mirror (C-IIα-081 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mirror formed from memories that citizens asked the Keepers to seal away. Held at SECTOR-A-01, Alpha Tree Archive — contained. The Mirror's Han-signature resonates with the Archive's sealed memory vaults.
+Broken Mirror (C-IIα-081 [VO]) is logged as a Object-Void manifestation expressing Void. The Mirror formed from memories that citizens asked the Keepers to seal away. Held at SECTOR-A-01, Alpha Tree Archive — contained. The Mirror's Han-signature resonates with the Archive's sealed memory vaults.
 
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 Touch produces emotional weight but no physical injury.
@@ -394,7 +394,7 @@ Some sorrows are about what happened. Broken Mirror is about what was refused �
 > *“The fragments are sharp. The fragments are true.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIα-081 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIα-081 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void · Object-Void manifestation
 **Common Name:** Broken Mirror
 **Containment Status:** Contained — Alpha Tree
 **Comprehension Level:** 1 — Initial

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dancing Plate |
 | Set | Unbound Step |
-| Type / grade / element | Suit / γ — Major / Grudge — Crimson |
+| Type / grade / element | Suit / γ — Major / Grudge |
 | Status | Active; external stop-cue partner required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Durivel Cho |
@@ -56,7 +56,7 @@ The Plate was formed from a crimson shed echo after a temporary Chains binding w
 
 ### Appearance
 
-The Dancing Plate is a fitted harness of crimson Han-iron plates covering the spine, shoulders, and knees, joined by narrow black links that flex with each stride. A single spine line runs down the back and opens only when a release partner contacts it, and a small circular mark rests at each knee. The plate absorbs direct Grudge pressure while a wearer follows a declared finite movement route. When the release partner gives the cue and touches the spine line, the plates brace the wearer through one final impact while the bearer disengages, then reduce mobility to a safe walking pace. If the wearer runs from the partner, the plates tighten at the joints and make movement increasingly painful. Between uses the plate is laid flat, walked in opposite directions, and met at the centre by both people. The wearer and release partner walk one route in opposite directions and meet at the centre to say the stop cue before the plate is laid flat for storage.
+The Dancing Plate is a fitted harness of Grudge Han-iron plates covering the spine, shoulders, and knees, joined by narrow black links that flex with each stride. A single spine line runs down the back and opens only when a release partner contacts it, and a small circular mark rests at each knee. The plate absorbs direct Grudge pressure while a wearer follows a declared finite movement route. When the release partner gives the cue and touches the spine line, the plates brace the wearer through one final impact while the bearer disengages, then reduce mobility to a safe walking pace. If the wearer runs from the partner, the plates tighten at the joints and make movement increasingly painful. Between uses the plate is laid flat, walked in opposite directions, and met at the centre by both people. The wearer and release partner walk one route in opposite directions and meet at the centre to say the stop cue before the plate is laid flat for storage.
 
 ### Passive effect— *Moving Guard*
 

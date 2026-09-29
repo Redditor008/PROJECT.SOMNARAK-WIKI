@@ -15,7 +15,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A slender deep-blue Han-crystal blade with a wet luminous edge. It sings in the pitch of the last memory allowed to evaporate beside Splinter. Authentic Requiem droplets run from point to hilt and vanish before reaching the hand.
+A slender Lament Han-crystal blade with a wet luminous edge. It sings in the pitch of the last memory allowed to evaporate beside Splinter. Authentic Requiem droplets run from point to hilt and vanish before reaching the hand.
 
 The blade forms from a dry residue line after a complete O-Relic channel. It binds to a wielder who can name a grief they have postponed without claiming it is resolved. A bearer who calls suppression “recovery” finds the grip filling with warm water.
 
@@ -23,7 +23,7 @@ The blade forms from a dry residue line after a complete O-Relic channel. It bin
 
 ## Appearance
 
-Splinter Requiem is a slender deep-blue Han-crystal blade with a wet, luminous edge — authentic droplets run from point to hilt and vanish before they reach the hand. The blade sings when drawn, and the pitch is exact: it is the pitch of the last memory allowed to evaporate beside Splinter. It forms from a dry residue line after a complete O-Relic channel, and it binds only to a wielder who can name a grief they have postponed without claiming it is resolved; a bearer who calls suppression “recovery” finds the grip filling with warm water. In action a thrust carries one released grief along the wet edge and through up to three targets, cutting at emotional stability rather than flesh — though if the channel is held too long the blade can no longer distinguish the wielder’s tears from Splinter’s. The bearer weeps involuntarily during use, and later tears may carry memories that belong to the shard rather than to them. It is maintained point-down over a shallow witness basin outside Splinter’s drip line, and cleared only when its song ends. For shutdown it is sheathed wet, laid horizontal so runoff can exit both ends.
+Splinter Requiem is a slender Lament Han-crystal blade with a wet, luminous edge — authentic droplets run from point to hilt and vanish before they reach the hand. The blade sings when drawn, and the pitch is exact: it is the pitch of the last memory allowed to evaporate beside Splinter. It forms from a dry residue line after a complete O-Relic channel, and it binds only to a wielder who can name a grief they have postponed without claiming it is resolved; a bearer who calls suppression “recovery” finds the grip filling with warm water. In action a thrust carries one released grief along the wet edge and through up to three targets, cutting at emotional stability rather than flesh — though if the channel is held too long the blade can no longer distinguish the wielder’s tears from Splinter’s. The bearer weeps involuntarily during use, and later tears may carry memories that belong to the shard rather than to them. It is maintained point-down over a shallow witness basin outside Splinter’s drip line, and cleared only when its song ends. For shutdown it is sheathed wet, laid horizontal so runoff can exit both ends.
 
 ## STATISTICS & FUNCTION
 

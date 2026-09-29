@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid figure whose body flows like a bridge over moving water — its torso a span, its arms reaching to shelter people who are already gone. Fever-cold, it smells of char; it carries the lost across a river that is not there. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Liquid Span* [**Debuff**] } | "The bridge is not solid — it flows, like a river pretending to be a road — and your footing is never sure." | [The Bridge's liquid form destabilizes the target; they cannot find purchase.] | *Target suffers -10 Resilience; the ground is moving.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target steps on the Bridge. |
-| { *The Current* [**Debuff**] } | "The bridge-flow speeds up — carrying you toward the far side, or the far drop." | [The Bridge's current accelerates; the target is being carried.] | *Target loses 10 Resilience; they cannot stop moving.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target is mid-crossing. |
-| { *The Wave-Span* [**Attack**] } | "The liquid bridge surges — a wave rising from the path itself." | [A bridge-wave crests and crashes.] | *Inflicts Crimson pressure and one wound of liquid impact.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Bridge is overloaded. |
-| { *The Full Rush* [**Attack**] } | "The bridge becomes a river — and the river is a torrent — and the torrent is aimed at you." | [The Bridge's complete liquefaction releases its full flow.] | *A heavy Crimson torrent; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Bridge is dammed. |
-| { *The Flooded Crossing* [**Ultimate**] } | "Every bridge in the field liquefies — and the combined flow drowns every crossing." | [The Bridge extends its flow across the whole area.] | *All in range suffer Crimson pressure for three turns of liquid bridges.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Liquid Span* [**Debuff**] } | "The bridge is not solid — it flows, like a river pretending to be a road — and your footing is never sure." | [The Bridge's liquid form destabilizes the target; they cannot find purchase.] | *Target suffers -10 Resilience; the ground is moving.* **[10 Grudge DMG [Grudge]]** | When the target steps on the Bridge. |
+| { *The Current* [**Debuff**] } | "The bridge-flow speeds up — carrying you toward the far side, or the far drop." | [The Bridge's current accelerates; the target is being carried.] | *Target loses 10 Resilience; they cannot stop moving.* **[10 Grudge DMG [Grudge]]** | When the target is mid-crossing. |
+| { *The Wave-Span* [**Attack**] } | "The liquid bridge surges — a wave rising from the path itself." | [A bridge-wave crests and crashes.] | *Inflicts Grudge pressure and one wound of liquid impact.* **[14-22 Grudge DMG [Grudge]]** | When the Bridge is overloaded. |
+| { *The Full Rush* [**Attack**] } | "The bridge becomes a river — and the river is a torrent — and the torrent is aimed at you." | [The Bridge's complete liquefaction releases its full flow.] | *A heavy Crimson torrent; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Bridge is dammed. |
+| { *The Flooded Crossing* [**Ultimate**] } | "Every bridge in the field liquefies — and the combined flow drowns every crossing." | [The Bridge extends its flow across the whole area.] | *All in range suffer Grudge pressure for three turns of liquid bridges.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -158,7 +158,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Breach Type** | Escape |
 | **Movement** | Cenotaph breaks free and stalks the corridors on foot. It collapses under anyone who crosses. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -199,7 +199,7 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -217,7 +217,7 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a ring of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a ring of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cenotaph (N-IVδ-525 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Bridge formed from a promise to protect someone who had already been lost. Held at Zone D, Echo Gardens. Its form changes with the movement of nearby sorrow.
+Cenotaph (N-IVδ-525 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Bridge formed from a promise to protect someone who had already been lost. Held at Zone D, Echo Gardens. Its form changes with the movement of nearby sorrow.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flows through paths and memory-crossings in the Gardens. Personnel feel paralyzing fear of failing to protect others. It protects empty paths and absent people.
@@ -352,7 +352,7 @@ Some sorrows are about loss. Cenotaph is about the failed protection — the pro
 > *“A promise to protect someone who had already been lost.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-525 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IVδ-525 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Body manifestation
 **Common Name:** Cenotaph
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic

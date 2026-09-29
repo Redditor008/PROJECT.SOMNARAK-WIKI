@@ -20,7 +20,7 @@
 | Type | Weapon |
 | Grade | γ |
 | Element | Void |
-| Appearance | A slender tuning-fork blade of pale Han-crystal that hums a single note when drawn — the note the lullaby resolves on but never reaches. |
+| Appearance | A slender tuning-fork blade of Void Han-crystal that hums a single note when drawn — the note the lullaby resolves on but never reaches. |
 | Damage | Void 7–12 |
 | Speed | 3 (Fast) |
 | Range | 4 (Long) |

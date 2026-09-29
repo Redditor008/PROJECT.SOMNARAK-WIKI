@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Saint’s Charm |
 | Set | Held Together |
-| Type / grade / element | Stigma, cracked stone charm / γ — Major / Weight — Black |
+| Type / grade / element | Stigma, cracked stone charm / γ — Major / Weight |
 | Slot | Head |
 | Status | Bearer-bound; handoff plan required |
 | Known bearer | Specialist Sooah Park |

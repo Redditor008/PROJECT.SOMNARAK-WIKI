@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron fang with two unjoined edges. It forms after mutual acknowledgment or honest withdrawal.
+A Grudge Han-iron fang with two unjoined edges. It forms after mutual acknowledgment or honest withdrawal.
 
 Durivel severed a one-sided emotional span from a debtor who had crossed alone for years. Old wounds bruised; neither absent family member was blamed.
 

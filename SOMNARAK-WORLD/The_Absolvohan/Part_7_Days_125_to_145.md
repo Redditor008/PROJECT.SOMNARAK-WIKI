@@ -588,7 +588,7 @@ Tactical response execution:
 4. Specialist Bae secures Chamber 897 (*The Haven Wall*).
 5. Specialist Kang locks Chamber 762 (*The Burning Bridge*). All six cells stabilized.
 
-##### Tactical Engagement / Ordeal Suppression: The Crimson Siphon (Crimson Third Watch)
+##### Tactical Engagement / Ordeal Suppression: The Rust Siphon (Rust Third Watch)
 
 At 15:40, two colossal bleeding conduits manifest in Floor 7's Main Atrium:
 
@@ -2325,7 +2325,7 @@ At 17:15, a radiant, shimmering gateway manifests in Floor 3's Archive Rotunda:
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE HORIZON OF HOPE                                   |
-| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 3 ARCHIVE ROTUNDA                           |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |

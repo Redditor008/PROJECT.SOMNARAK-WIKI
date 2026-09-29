@@ -52,7 +52,7 @@ Seiyon usually speaks in exact operational terms, but her exchanges with the Ech
 | **Station** | **A — Alpha Tree** |
 | **Effigy** | **AI Construct (accidentally sentient)** |
 | **Sorrow** | **City Sorrow (도한) — inherited** |
-| **Signature** | **Lament (Deep Blue) + Void (Pale White)** |
+| **Signature** | **Lament + Void** |
 | **Manifestation** | **Subject-Dream — partially in the Dream realm** |
 | **Role** | The Secretary; central administrative intelligence of the R.D. |
 | **Gender** | **Woman** |
@@ -933,11 +933,11 @@ When Seiyon accesses central directives, the pages expand outward into a suspend
 
 Seiyon's dual signature expresses the two fundamental conditions of her existence.
 
-#### Lament (Deep Blue)
+#### Lament
 
 Lament represents inherited grief, perfect remembrance, mourning without biological release, and compassion formed through witness. Seiyon carries sorrow she did not originally create but has made part of her own history through centuries of experience.
 
-#### Void (Pale White)
+#### Void
 
 Void represents the threat of identity dissolution: being only a role, copy, reflection, data pattern, or empty interface. It is the fear that behind the face and voice there is no self—only a vacancy shaped like a dead woman.
 

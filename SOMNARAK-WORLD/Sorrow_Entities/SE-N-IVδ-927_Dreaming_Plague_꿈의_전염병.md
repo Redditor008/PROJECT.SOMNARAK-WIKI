@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Hazard-Dream |
 | **Physical Form** | Organic — A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's dream pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void / Pale White]]** | When the entity first fixes on a target. |
-| { *The Dream Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void dream sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void / Pale White]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[24 Void DMG [Void / Pale White]]** | When the entity is cornered or starved. |
-| { *The Dream Collapse* [**Ultimate**] } | "The dream breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void / Pale White] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's dream pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
+| { *The Dream Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void dream sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[24 Void DMG [Void]]** | When the entity is cornered or starved. |
+| { *The Dream Collapse* [**Ultimate**] } | "The dream breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
 
 **Notable Features:**
-- Expresses Void (Pale White) pressure in a dream register.
+- Expresses Void pressure in a dream register.
 - The hazard form is unmistakable — this is a dream entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a single-edged blade of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
 
 **Damage:** Void 11–20
 **Speed:** 2 (Normal)
@@ -189,7 +189,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -207,7 +207,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -297,7 +297,7 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-927 [VH]` · Inner Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Hazard-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-927 [VH]` · Inner Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Void · Hazard-Dream manifestation
 
 **Common Name:** Dreaming Plague
 
@@ -312,7 +312,7 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the dream register specifically — it is the primary channel of contact.
 
-**Cross-References:** Inner Sorrow (내한) · Void (Pale White) · Hazard-Dream · Manifestation Classification
+**Cross-References:** Inner Sorrow (내한) · Void · Hazard-Dream · Manifestation Classification
 
 ### Registry Addendum
 

@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Weapon — short singing blade |
 | **Grade** | α — Minor |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Maximum Amount** | 5 — Abundant |
 | **Echo Cost** | 15 Sorrow Echoes |
 

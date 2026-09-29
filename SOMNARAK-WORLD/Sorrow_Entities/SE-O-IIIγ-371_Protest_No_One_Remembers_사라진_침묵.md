@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — A voice-shaped absence that moves through the Commons, making all sound vanish in a widening radius. Bloodless-cold, it smells of ash; no body — only the spreading quiet, and the pressure of unsaid things. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Rushing* [**Debuff**] } | "The silence is gone — and what replaces it is worse. It is the sound of absence." | [Protest No One Remembers fills the space with the noise of nothing.] | *Target suffers a Void mark; the anti-sound is maddening.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the space. |
-| { *The Deafening Nothing* [**Debuff**] } | "The sound of silence being absent is louder than any scream." | [The anti-silence builds; the target cannot hear anything else.] | *Target loses clarity; the void-noise drowns all thought.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains. |
-| { *The Sonic Void* [**Attack**] } | "The absence of silence solidifies — and strikes like a wall of negative sound." | [A blast of anti-silence hits the target.] | *Inflicts Void damage; the void-sound erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the absence is disturbed. |
-| { *The Total Noise* [**Attack**] } | "Every silence that was ever stolen — returned as one deafening crash of nothing." | [The accumulated absence of silence erupts.] | *A heavy Void detonation; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the absence is forced. |
-| { *No Silence Left* [**Ultimate**] } | "Silence is impossible now — and without it, no one can rest, think, or be still." | [Protest No One Remembers removes all quiet from the entire field.] | *All in range suffer Pale White erosion for three turns in the endless noise.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Rushing* [**Debuff**] } | "The silence is gone — and what replaces it is worse. It is the sound of absence." | [Protest No One Remembers fills the space with the noise of nothing.] | *Target suffers a Void mark; the anti-sound is maddening.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the space. |
+| { *The Deafening Nothing* [**Debuff**] } | "The sound of silence being absent is louder than any scream." | [The anti-silence builds; the target cannot hear anything else.] | *Target loses clarity; the void-noise drowns all thought.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |
+| { *The Sonic Void* [**Attack**] } | "The absence of silence solidifies — and strikes like a wall of negative sound." | [A blast of anti-silence hits the target.] | *Inflicts Void damage; the void-sound erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the absence is disturbed. |
+| { *The Total Noise* [**Attack**] } | "Every silence that was ever stolen — returned as one deafening crash of nothing." | [The accumulated absence of silence erupts.] | *A heavy Void detonation; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the absence is forced. |
+| { *No Silence Left* [**Ultimate**] } | "Silence is impossible now — and without it, no one can rest, think, or be still." | [Protest No One Remembers removes all quiet from the entire field.] | *All in range suffer Void erosion for three turns in the endless noise.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a word-tile of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a word-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Protest No One Remembers (O-IIIγ-371 [VS]) is logged as a Subject-Spirit manifestation expressing Void (Pale White). The Silence formed from an absence that was erased so completely no one remembered it had existed. Held at Zone D, Mantle Commons. It cannot be recorded through sound.
+Protest No One Remembers (O-IIIγ-371 [VS]) is logged as a Subject-Spirit manifestation expressing Void. The Silence formed from an absence that was erased so completely no one remembered it had existed. Held at Zone D, Mantle Commons. It cannot be recorded through sound.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Moves through voices, rooms, and public conversations. Personnel lose access to words they were about to say. It appears more clearly when people search for suppressed history.
@@ -348,7 +348,7 @@ Some sorrows are about silence. Protest No One Remembers is about the erasure of
 > *“The protest dissolved so thoroughly that the very absence of the protest is forgotten.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-371 [VS]` · Void (Pale White) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-371 [VS]` · Void · Subject-Spirit manifestation
 **Common Name:** Protest No One Remembers
 **Containment Status:** Contained — Zone D, Mantle Commons
 **Comprehension Level:** 2 — Basic

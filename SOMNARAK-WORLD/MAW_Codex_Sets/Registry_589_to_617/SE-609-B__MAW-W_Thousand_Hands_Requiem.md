@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A singing blade of deep-blue Han-crystal with overlapping palm lines visible beneath its surface. When readied, the edge glows from hilt to point in the order of the relic’s owners rather than the direction of attack. Extraction succeeded after a Ferrehan bearer returned a projected history without assigning a false name.
+A singing blade of Lament Han-crystal with overlapping palm lines visible beneath its surface. When readied, the edge glows from hilt to point in the order of the relic’s owners rather than the direction of attack. Extraction succeeded after a Ferrehan bearer returned a projected history without assigning a false name.
 
 Binding requires the wielder to state one memory that is theirs and one testimony they only witnessed. Rejection makes both statements sound equally autobiographical.
 

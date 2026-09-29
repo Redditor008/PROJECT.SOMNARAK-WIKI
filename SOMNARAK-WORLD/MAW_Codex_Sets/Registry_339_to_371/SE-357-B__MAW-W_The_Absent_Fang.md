@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron fang with an invisible section along its edge. It forms after an unknown loss is recorded without replacement narrative.
+A Grudge Han-iron fang with an invisible section along its edge. It forms after an unknown loss is recorded without replacement narrative.
 
 Durivel used it to sever a false Archive explanation attached to a displaced burden. The absence remained, and his old injuries bruised under the pressure of not knowing.
 

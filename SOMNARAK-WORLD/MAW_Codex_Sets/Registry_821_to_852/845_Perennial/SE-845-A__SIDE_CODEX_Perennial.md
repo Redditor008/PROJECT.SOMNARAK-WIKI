@@ -21,7 +21,7 @@ The Flower formed from a place that was repeatedly abandoned. The burden of retu
 | Source designation | N-IIβ-845 [WP] |
 | Type / Manifestation | Subject — Can breach; mobile growth / Place-Void |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Weight (Black) / The Desolate — mobile |
+| Element / Location | Weight / The Desolate — mobile |
 | Gauge / Pressure | 361/361; starts 35–50% / 8–20 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground. |
@@ -52,7 +52,7 @@ During the The Perennial Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Perennial's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Acknowledge the place's history and do not claim it as unchanged The set cannot heal the originating event. Misuse routes Perennial's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Perennial's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stays only the immediate manifestation that violates this rule: Acknowledge the place's history and do not claim it as unchanged The set cannot heal the originating event. Misuse routes Perennial's wound through the operator and triggers the recorded escalation.
 
 ---
 

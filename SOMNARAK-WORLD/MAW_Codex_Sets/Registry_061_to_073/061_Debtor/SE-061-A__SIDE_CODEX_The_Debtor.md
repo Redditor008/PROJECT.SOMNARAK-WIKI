@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence | III — Fragment |
 | Potency | γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | Bent elder bearing 7.3 tons of invisible burden |
 | Location | SECTOR-C-01, Debt Triplets containment |
 | Comprehension Level | 3 — Understood |

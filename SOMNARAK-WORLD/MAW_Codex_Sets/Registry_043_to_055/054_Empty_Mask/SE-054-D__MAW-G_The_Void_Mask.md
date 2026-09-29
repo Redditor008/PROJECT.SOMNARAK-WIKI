@@ -16,7 +16,7 @@
 |---|---|
 | Type | Accessory (Stigma) — blank mask charm |
 | Grade | β — Moderate |
-| Element | Weight — Black |
+| Element | Weight |
 | Slot | Head |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Empty Mask source record |

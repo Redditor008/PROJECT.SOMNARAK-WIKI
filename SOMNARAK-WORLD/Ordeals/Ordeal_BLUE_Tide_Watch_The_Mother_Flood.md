@@ -49,7 +49,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 35–60 per hit · Lament |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[35–60 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[35–60 Lament DMG [Lament]]**
 
 ### The Tear-Sea (Non-Crystal, Tide-Spawn-grade)
 
@@ -73,7 +73,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 45–70 per hit · Lament |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[45–70 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[45–70 Lament DMG [Lament]]**
 
 
 ### The Sorrow-Singer (Humanoid, Tide-Spawn-grade)
@@ -86,7 +86,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 30–44 per hit · Lament |
 | **Spawn Count** | 1 |
 
-**Ability:** The note swells, and a hall worth of minds drowns in the sound at once. **[30–44 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** The note swells, and a hall worth of minds drowns in the sound at once. **[30–44 Lament DMG [Lament]]**
 
 ### The Tear-Ocean (Amorphous, Tide-Spawn-grade)
 
@@ -98,7 +98,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 28–42 per hit · Lament |
 | **Spawn Count** | 1 |
 
-**Ability:** It rises, and the ocean of grief dissolves the will of all it covers. **[28–42 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It rises, and the ocean of grief dissolves the will of all it covers. **[28–42 Lament DMG [Lament]]**
 
 ### The Rain (Swarm, Tide-Spawn-grade)
 
@@ -110,7 +110,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 7–11 per hit · Lament |
 | **Spawn Count** | facility-wide |
 
-**Ability:** The rain soaks through, and the accumulated sorrow seeps into everyone exposed. **[7–11 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** The rain soaks through, and the accumulated sorrow seeps into everyone exposed. **[7–11 Lament DMG [Lament]]**
 
 
 ## Trivia

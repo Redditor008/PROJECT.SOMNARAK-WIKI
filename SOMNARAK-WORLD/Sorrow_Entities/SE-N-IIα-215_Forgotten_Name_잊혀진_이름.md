@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats fading |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A fading voice and partial silhouette that appears only when someone tries to remember a name on the tip of their tongue. Bloodless-cold, it smells of ash; catch it and the name is gone — the shape of a name that will not be recalled. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unnaming* [**Debuff**] } | "You try to say your own name — and the word is gone. The name exists, but you cannot reach it." | [The Name's erasure affects the target; their identity becomes inaccessible.] | *Target suffers a Void mark; they are becoming unnamed.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Name's domain. |
-| { *The Spreading Blank* [**Debuff**] } | "First the name goes — then the face, then the voice — and soon, the proof you existed at all." | [The Name's erasure extends; the target's existence is fading.] | *Target loses clarity; they are being forgotten in real-time.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Erasure Strike* [**Attack**] } | "The forgotten name solidifies into a weapon — a blade made of nothing, cutting what is left of identity." | [A void-blade of erased identity strikes.] | *Inflicts Void damage; the strike removes a piece of self.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Name is disturbed. |
-| { *The Total Unnaming* [**Attack**] } | "Every trace of the name — every record, every memory of it — erased at once." | [The Name's complete erasure removes all evidence of existence.] | *A heavy Void of non-existence; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Name is forced. |
-| { *Everyone Is Forgotten* [**Ultimate**] } | "Now no one can remember their own name — and without names, people become voids." | [The Name extends its erasure across the whole field.] | *All in range suffer Pale White erosion for three turns of being unnamed.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unnaming* [**Debuff**] } | "You try to say your own name — and the word is gone. The name exists, but you cannot reach it." | [The Name's erasure affects the target; their identity becomes inaccessible.] | *Target suffers a Void mark; they are becoming unnamed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Name's domain. |
+| { *The Spreading Blank* [**Debuff**] } | "First the name goes — then the face, then the voice — and soon, the proof you existed at all." | [The Name's erasure extends; the target's existence is fading.] | *Target loses clarity; they are being forgotten in real-time.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Erasure Strike* [**Attack**] } | "The forgotten name solidifies into a weapon — a blade made of nothing, cutting what is left of identity." | [A void-blade of erased identity strikes.] | *Inflicts Void damage; the strike removes a piece of self.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Name is disturbed. |
+| { *The Total Unnaming* [**Attack**] } | "Every trace of the name — every record, every memory of it — erased at once." | [The Name's complete erasure removes all evidence of existence.] | *A heavy Void of non-existence; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Name is forced. |
+| { *Everyone Is Forgotten* [**Ultimate**] } | "Now no one can remember their own name — and without names, people become voids." | [The Name extends its erasure across the whole field.] | *All in range suffer Void erosion for three turns of being unnamed.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -208,7 +208,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a thread-band of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a thread-band of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Name (N-IIα-215 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The entity formed from a person's name forgotten by everyone who knew it. Held at Zone B, Old Lament — ambient. The Name fades when spoken by only one person.
+Forgotten Name (N-IIα-215 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The entity formed from a person's name forgotten by everyone who knew it. Held at Zone B, Old Lament — ambient. The Name fades when spoken by only one person.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Appears in conversations, records, and dreams throughout Old Lament. Personnel forget names they have just spoken. Written records make it temporarily stable.
@@ -344,7 +344,7 @@ Some sorrows mourn the dead. Forgotten Name mourns the unnamed — the citizen w
 > *“The existential dread of a death unrecorded, a name unspoken, a life unconfirmed.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIα-215 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIα-215 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void · Subject-Phantasmal manifestation
 **Common Name:** Forgotten Name
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 1 — Initial

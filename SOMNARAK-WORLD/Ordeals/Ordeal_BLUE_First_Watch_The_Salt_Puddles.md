@@ -49,7 +49,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 8–18 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[8–18 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[8–18 Lament DMG [Lament]]**
 
 ### The Weeping Sac (Non-Crystal, Fragment-grade)
 
@@ -73,7 +73,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 18–28 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[18–28 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[18–28 Lament DMG [Lament]]**
 
 
 ### The Sobbing (Humanoid, Fragment-grade)
@@ -86,7 +86,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 12–20 per hit · Lament |
 | **Spawn Count** | 2 |
 
-**Ability:** Its weeping reaches a target, and the grief frays at the edges of the mind. **[12–20 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** Its weeping reaches a target, and the grief frays at the edges of the mind. **[12–20 Lament DMG [Lament]]**
 
 ### The Puddle (Amorphous, Fragment-grade)
 
@@ -98,7 +98,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 10–16 per hit · Lament |
 | **Spawn Count** | 1 |
 
-**Ability:** It swallows a foot, and the cold grief seeps up through the body. **[10–16 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It swallows a foot, and the cold grief seeps up through the body. **[10–16 Lament DMG [Lament]]**
 
 ### Tear-Mites (Swarm, Fragment-grade)
 
@@ -110,7 +110,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 5–8 per hit · Lament |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They swarm, and the collective tiny grief of thousands eats at composure. **[5–8 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** They swarm, and the collective tiny grief of thousands eats at composure. **[5–8 Lament DMG [Lament]]**
 
 
 ## Trivia

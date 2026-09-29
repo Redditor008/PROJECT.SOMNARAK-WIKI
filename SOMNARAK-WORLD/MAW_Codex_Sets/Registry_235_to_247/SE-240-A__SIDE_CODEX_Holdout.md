@@ -22,7 +22,7 @@
 | Entity | Holdout — 사라진 잔해 |
 | Type / Manifestation | Object/Place — Place-Weight |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | Broken gray walls, dead timber, and bone-flecked mortar that resolve only when someone remembers the destroyed tenement. |
 | Gauge / Pressure | 35–50% / Grudge 10–23 |
 | Observation | 2 — Basic |

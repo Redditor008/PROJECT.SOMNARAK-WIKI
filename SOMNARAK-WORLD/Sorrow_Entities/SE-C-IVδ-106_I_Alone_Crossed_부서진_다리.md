@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — Not a structure but a bridge-shaped consciousness — a pressure in the mind more than a thing in the world, felt as the weight of a broken promise and a violent crossing. Those near it sense a span beneath their feet that isn't there. Salt-damp, it smells of cold rain. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Span* [**Debuff**] } | "Where the bridge should be — nothing. Just the gap, and the wind through it." | [The Bridge's absence creates a void the target must cross.] | *Target suffers -10 Composure; the gap is terrifying.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target reaches the break. |
-| { *The Hanging Cable* [**Debuff**] } | "A cable dangles from the broken edge — swaying, singing in the wind, tempting you to grab it." | [The Bridge's remnant offers false hope; the target is drawn toward the edge.] | *Target loses 10 Composure; the temptation of the dangling cable is strong.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands at the edge. |
-| { *The Falling Debris* [**Attack**] } | "A piece of the broken bridge shakes loose — and it is aimed at whoever is standing beneath." | [A chunk of collapsed bridge-fall strikes.] | *Inflicts Deep Blue pressure and one crushing, structural wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the break is disturbed. |
-| { *The Full Rupture* [**Attack**] } | "The last support gives way — and the entire remaining structure drops into the chasm." | [The Bridge's complete failure releases all its stored grief.] | *A heavy Deep Blue collapse; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the break is forced wider. |
-| { *Every Bridge Falls* [**Ultimate**] } | "The break spreads — to every bridge, every crossing, every connection in the field." | [The Bridge extends its failure across the whole area.] | *All in range suffer Deep Blue pressure for three turns of broken crossings.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Missing Span* [**Debuff**] } | "Where the bridge should be — nothing. Just the gap, and the wind through it." | [The Bridge's absence creates a void the target must cross.] | *Target suffers -10 Composure; the gap is terrifying.* **[10 Lament DMG [Lament]]** | When the target reaches the break. |
+| { *The Hanging Cable* [**Debuff**] } | "A cable dangles from the broken edge — swaying, singing in the wind, tempting you to grab it." | [The Bridge's remnant offers false hope; the target is drawn toward the edge.] | *Target loses 10 Composure; the temptation of the dangling cable is strong.* **[10 Lament DMG [Lament]]** | When the target stands at the edge. |
+| { *The Falling Debris* [**Attack**] } | "A piece of the broken bridge shakes loose — and it is aimed at whoever is standing beneath." | [A chunk of collapsed bridge-fall strikes.] | *Inflicts Lament pressure and one crushing, structural wound.* **[14-22 Lament DMG [Lament]]** | When the break is disturbed. |
+| { *The Full Rupture* [**Attack**] } | "The last support gives way — and the entire remaining structure drops into the chasm." | [The Bridge's complete failure releases all its stored grief.] | *A heavy Deep Blue collapse; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the break is forced wider. |
+| { *Every Bridge Falls* [**Ultimate**] } | "The break spreads — to every bridge, every crossing, every connection in the field." | [The Bridge extends its failure across the whole area.] | *All in range suffer Lament pressure for three turns of broken crossings.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Category:** MELEE (Zweihander / Segmented Span-Blade) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** A massive, jagged two-handed greatsword forged from a sheared suspension girder of deep-blue Han-crystal and rusted structural steel. Three severed high-tensile bridge cables trail from the ricasso, whipping with sorrowful resonance as the blade moves. The cutting edge is fractured along its midpoint, resembling a collapsed roadway span that bridges together only when swinging with lethal momentum. When swung, it produces the hollow screech of buckling suspension iron, cleaving across the frontal quadrant in a wide panoramic arc.
+**Appearance:** A massive, jagged two-handed greatsword forged from a sheared suspension girder of Lament Han-crystal and rusted structural steel. Three severed high-tensile bridge cables trail from the ricasso, whipping with sorrowful resonance as the blade moves. The cutting edge is fractured along its midpoint, resembling a collapsed roadway span that bridges together only when swinging with lethal momentum. When swung, it produces the hollow screech of buckling suspension iron, cleaving across the frontal quadrant in a wide panoramic arc.
 
 **Damage:** Lament 14–22
 **Speed:** 2 (Slow)
@@ -193,7 +193,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -211,7 +211,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a tiny lantern of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-I Alone Crossed (C-IVδ-106 [O]) is logged as a Subject-Mind manifestation expressing Lament (Deep Blue). The Bridge formed from a crossing that became a personal failure. Held at The Desolate, near The Scar. It manifests mentally around The Scar.
+I Alone Crossed (C-IVδ-106 [O]) is logged as a Subject-Mind manifestation expressing Lament. The Bridge formed from a crossing that became a personal failure. Held at The Desolate, near The Scar. It manifests mentally around The Scar.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the consciousness of people near The Scar. Personnel feel paralyzing fear of failing others. It mirrors the worker's own fear of failure.
@@ -350,7 +350,7 @@ Some sorrows mourn the dead. I Alone Crossed mourns the living — the guide who
 > *“The bridge broke because of me. That is what he believes. It is not true. He believes it anyway.”* — Former Survey Corps
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-106 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `C-IVδ-106 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Mind manifestation
 **Common Name:** I Alone Crossed
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 3 — Advanced

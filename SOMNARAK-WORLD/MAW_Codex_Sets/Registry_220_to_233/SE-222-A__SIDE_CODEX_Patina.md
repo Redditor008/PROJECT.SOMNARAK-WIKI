@@ -23,7 +23,7 @@
 | Sorrow Category | Outside Sorrow |
 | Type / Manifestation | Object/Place — Place-Weight |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | A rusted iron weight sunk into border ground, bleeding orange corrosion and tethered to a distant point by an invisible chain. |
 | Gauge / Pressure | 60–80% / Grudge 29–64 |
 | Observation | 2 — Basic |

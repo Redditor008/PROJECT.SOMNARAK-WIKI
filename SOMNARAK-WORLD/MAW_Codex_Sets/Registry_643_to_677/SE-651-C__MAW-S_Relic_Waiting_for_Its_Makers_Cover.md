@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A breathing plate of pale Han-glass that conceals the wearer from attentive observers. It binds only with a named external monitor.
+A breathing plate of Void Han-glass that conceals the wearer from attentive observers. It binds only with a named external monitor.
 
 ## Appearance
 

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Performer's Silk Robe & Ghostly Stole |
 | Set | Borrowed Motion |
-| Type / grade / element | Protective Attire (Ceremonial Silk Robe & Stole) / β — Moderate / Grudge — Crimson |
+| Type / grade / element | Protective Attire (Ceremonial Silk Robe & Stole) / β — Moderate / Grudge |
 | Status | Active; scheduled rest checks required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Kkotlom Lee |

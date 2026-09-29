@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A crimson Han-iron fang with an empty knot at the guard and no line extending from it. It forms from slack Tether residue after conscious release.
+A Grudge Han-iron fang with an empty knot at the guard and no line extending from it. It forms from slack Tether residue after conscious release.
 
 Binding requires the wielder to name the expectation being released and forbid judgment of the absent person. During a recurring-return dream, Durivel cut the loop keeping an agent at an unused Gate marker. The waiting ended; the relationship memory did not.
 

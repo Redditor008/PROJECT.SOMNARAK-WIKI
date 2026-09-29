@@ -22,8 +22,8 @@
 | Entity | Sorrow Gate — 슬픔의 문 |
 | Type / Manifestation | Object/Place — Object-Void; O-Relic |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Void — Pale White |
-| Form | A massive black Han-crystal slab with no handle, lock, or hinges, found already sealed beneath the Alpha Tree. |
+| Element | Void |
+| Form | A massive Weight Han-crystal slab with no handle, lock, or hinges, found already sealed beneath the Alpha Tree. |
 | Gauge / Pressure | 60–80% / Void 29–64 |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Closed Threshold |

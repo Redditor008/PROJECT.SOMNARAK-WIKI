@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | N-IIβ-919 [WT] |
 | Type / Manifestation | Time — Can breach via Transform / Time-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Weight (Black) / SECTOR-N-919, contained |
+| Element / Location | Weight / SECTOR-N-919, contained |
 | Gauge / Pressure | 495/495; starts 35–50% / 14–20 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Passing Bell Source-Trace, the field team preserved this source f
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Passing Bell's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Passing Bell's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Passing Bell's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Passing Bell's wound through the operator and triggers the recorded escalation.
 
 ---
 

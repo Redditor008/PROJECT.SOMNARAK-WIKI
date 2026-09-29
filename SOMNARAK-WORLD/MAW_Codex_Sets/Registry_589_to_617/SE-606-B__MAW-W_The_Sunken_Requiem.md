@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A slender deep-blue Han-crystal blade whose luminous edge appears below its physical edge in every reflection. Water beads upward along the grip when concealed sorrow is nearby. It was extracted after a journal owner opened her own buried record and refused the Market’s offer to purchase it.
+A slender Lament Han-crystal blade whose luminous edge appears below its physical edge in every reflection. Water beads upward along the grip when concealed sorrow is nearby. It was extracted after a journal owner opened her own buried record and refused the Market’s offer to purchase it.
 
 Binding accepts a user who can distinguish suppression from privacy. A bearer who believes all hidden pain must be exposed sees the reflected edge turn toward nearby people.
 

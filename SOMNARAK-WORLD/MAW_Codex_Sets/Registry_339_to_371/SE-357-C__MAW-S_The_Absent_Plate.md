@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron harness with an empty load frame behind the shoulders. Binding requires an explicit unknown-loss record.
+A Grudge Han-iron harness with an empty load frame behind the shoulders. Binding requires an explicit unknown-loss record.
 
 Iseulfros wore it while phantom mass returned around a vault team. The Plate distributed pressure but dulled reflexes whenever she tried to reach for an object that was not there.
 

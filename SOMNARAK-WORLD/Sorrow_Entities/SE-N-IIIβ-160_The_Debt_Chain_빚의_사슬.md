@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A massive chain forged of crystallized debts — each link a distinct obligation, cold and heavy, inscribed with a name. Lead-cold, it smells of wet stone; it lengthens with every new debt recorded, dragging the ground behind whoever bears it. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First IOU* [**Debuff**] } | "A link of chain forms around your wrist — and etched on it is a debt you did not know you owed." | [The Chain's first link binds the target with a discovered obligation.] | *Target suffers -10 Resolve; the chain has found an unpaid debt.* **[10 Black DMG [Black / Weight]]** | When the Chain is activated. |
-| { *The Compounding Links* [**Debuff**] } | "More links form — each one heavier, each one engraved with a deeper debt — and the chain is dragging you down." | [The Chain grows; each new link adds the weight of accumulated obligation.] | *Target loses 10 Resolve; the debt-chain is sinking them.* **[10 Black DMG [Black / Weight]]** | When the target struggles. |
-| { *The Iron Yank* [**Attack**] } | "The chain pulls taut — and the yank comes from the direction of everything you owe." | [A sudden, violent pull from the debt-chain.] | *Inflicts Black pressure and one wound of sudden, financial impact.* **[14-22 Black DMG [Black / Weight]]** | When the Chain is struck. |
-| { *The Full Foreclosure* [**Attack**] } | "Every link activates simultaneously — every debt, called in at once — and the weight is catastrophic." | [The Chain's complete activation calls all debts.] | *A heavy Black seizure; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Chain is overloaded. |
-| { *The Debtors' Prison* [**Ultimate**] } | "Chains erupt around everyone — every person's debts manifesting as iron — until the whole field is a prison of what is owed." | [The Chain extends across the whole area.] | *All in range suffer Black pressure for three turns of universal debt.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First IOU* [**Debuff**] } | "A link of chain forms around your wrist — and etched on it is a debt you did not know you owed." | [The Chain's first link binds the target with a discovered obligation.] | *Target suffers -10 Resolve; the chain has found an unpaid debt.* **[10 Weight DMG [Weight]]** | When the Chain is activated. |
+| { *The Compounding Links* [**Debuff**] } | "More links form — each one heavier, each one engraved with a deeper debt — and the chain is dragging you down." | [The Chain grows; each new link adds the weight of accumulated obligation.] | *Target loses 10 Resolve; the debt-chain is sinking them.* **[10 Weight DMG [Weight]]** | When the target struggles. |
+| { *The Iron Yank* [**Attack**] } | "The chain pulls taut — and the yank comes from the direction of everything you owe." | [A sudden, violent pull from the debt-chain.] | *Inflicts Weight pressure and one wound of sudden, financial impact.* **[14-22 Weight DMG [Weight]]** | When the Chain is struck. |
+| { *The Full Foreclosure* [**Attack**] } | "Every link activates simultaneously — every debt, called in at once — and the weight is catastrophic." | [The Chain's complete activation calls all debts.] | *A heavy Black seizure; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Chain is overloaded. |
+| { *The Debtors' Prison* [**Ultimate**] } | "Chains erupt around everyone — every person's debts manifesting as iron — until the whole field is a prison of what is owed." | [The Chain extends across the whole area.] | *All in range suffer Weight pressure for three turns of universal debt.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | The Debt Chain rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Debt Chain activates its primary resonance: Reveals the obligation's history and connections. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of owing something that cannot be paid; the bearer begins perceiving echoes of collector ledgers became too numerous to store; every obligation crystallized into a connected link. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within The Debt Chain begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within The Debt Chain begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear The Debt Chain too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may inherit the emotional weight of the debt. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Debt Chain: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Debt Chain: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to The Debt Chain: it is not a generic breach
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -231,7 +231,7 @@ The escalation pattern is specific to The Debt Chain: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -249,7 +249,7 @@ The escalation pattern is specific to The Debt Chain: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a chain of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a chain of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Debt Chain (N-IIIβ-160 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Chain formed from the weight of obligation. Held at SECTOR-C-01, Collector's Row. The Chain grows continuously.
+The Debt Chain (N-IIIβ-160 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Chain formed from the weight of obligation. Held at SECTOR-C-01, Collector's Row. The Chain grows continuously.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Old links are heavier than new ones.
@@ -386,7 +386,7 @@ Some sorrows are about what is owed. The Debt Chain is about what cannot be paid
 > *“The unpayable remainder, crystallized into iron, pressing on the foundations.”* — Former Collector
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-160 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-160 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** The Debt Chain
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

@@ -22,7 +22,7 @@
 | Entity | Cracked Mirror — 금이 간 거울 |
 | Type / Manifestation | Object/Place — Object-Void; I-Relic |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | An ash-cold ancient mirror cracked across every reflection, showing truths the viewer did not ask to see. |
 | Gauge / Pressure | 35–50% / Void 10–24 |
 | Observation | 2 — Basic |

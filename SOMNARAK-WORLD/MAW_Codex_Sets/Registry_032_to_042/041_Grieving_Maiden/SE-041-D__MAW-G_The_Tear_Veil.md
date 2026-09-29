@@ -16,7 +16,7 @@
 |---|---|
 | Type | Accessory (Stigma) — tear clasp |
 | Grade | β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Slot | Tail |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Grieving Maiden source record |

@@ -21,7 +21,7 @@ The Whisper formed from burdens discarded by the city. The grief of people and r
 | Source designation | N-IIβ-270 [WP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Weight (Black) / Zone B, Old Lament |
+| Element / Location | Weight / Zone B, Old Lament |
 | Gauge / Pressure | 357/357; starts 35–50% / 10–23 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening. |
@@ -52,7 +52,7 @@ During the The Neglect Learned to Listen Source-Trace, the field team preserved 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Neglect Learned to Listen's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Preserve and acknowledge what was discarded; do not simply remove the rust The set cannot heal the originating event. Misuse routes Neglect Learned to Listen's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Neglect Learned to Listen's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon contains only the immediate manifestation that violates this rule: Preserve and acknowledge what was discarded; do not simply remove the rust The set cannot heal the originating event. Misuse routes Neglect Learned to Listen's wound through the operator and triggers the recorded escalation.
 
 ---
 

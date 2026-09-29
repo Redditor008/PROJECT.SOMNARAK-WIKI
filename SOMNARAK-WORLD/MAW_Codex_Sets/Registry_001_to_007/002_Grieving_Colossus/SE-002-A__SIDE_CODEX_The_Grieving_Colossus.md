@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Body |
 | **Coherence** | V — Sovereign |
 | **Potency** | δ — Critical |
-| **Element** | Weight — Black |
+| **Element** | Weight |
 | **Scale** | Approximately 30 meters tall |
 | **Location** | Zone D migration corridor |
 | **Comprehension Level** | 2 — Basic |

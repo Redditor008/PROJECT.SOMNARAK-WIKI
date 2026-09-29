@@ -12,7 +12,7 @@
 | **Coherence** | II — Echo (repeats a single lullaby without variation, forever) |
 | **Potency** | γ — Major |
 | **Sorrow Category** | Inner Sorrow (내한) — personal agony, self-vanishing |
-| **Element** | Void (Pale White) — the emptying of the self; a Lament surface (the crying figurine) |
+| **Element** | Void — the emptying of the self; a Lament surface (the crying figurine) |
 | **Manifestation** | Object-Void — a music box |
 | **Physical Form** | Non-Organic — A small music box, 25 by 15 centimeters — black top, white bottom, a pink interior lining — of ordinary craftsmanship, the kind a child might own. Bloodless-cold, it smells of ash; wind its key and it plays a lullaby that empties the listener by degrees. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -45,11 +45,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Note* [**Debuff**] } | "The music box winds itself — and the first note is a frequency of pain that bypasses the ears entirely." | [The Music Box's opening note resonates with the target's pain receptors.] | *Target suffers a Void mark; pain is becoming audible.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Music Box winds. |
-| { *The Building Crescendo* [**Debuff**] } | "The melody builds — each note a different kind of agony — and the composition is meticulously cruel." | [The Music Box's ascending scale maps to increasing pain; the target is its instrument.] | *Target loses clarity; their body is being played.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains in range. |
-| { *The Discordant Strike* [**Attack**] } | "The music box hits a wrong note — and the wrongness is a spike of pure, unstructured agony." | [ A discordant note strikes.] | *Inflicts Void damage; the pain-sound erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Music Box is disturbed. |
-| { *The Full Symphony* [**Attack**] } | "The music box reaches its final movement — every note of agony, played simultaneously." | [The Music Box's complete performance releases all its stored pain.] | *A heavy Void crescendo; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Music Box is silenced. |
-| { *The Orchestra of Agony* [**Ultimate**] } | "Every surface becomes a speaker — the melody of agony fills the field — and everyone is played." | [The Music Box extends its melody across the whole area.] | *All in range suffer Pale White erosion for three turns of agonizing music.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Note* [**Debuff**] } | "The music box winds itself — and the first note is a frequency of pain that bypasses the ears entirely." | [The Music Box's opening note resonates with the target's pain receptors.] | *Target suffers a Void mark; pain is becoming audible.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Music Box winds. |
+| { *The Building Crescendo* [**Debuff**] } | "The melody builds — each note a different kind of agony — and the composition is meticulously cruel." | [The Music Box's ascending scale maps to increasing pain; the target is its instrument.] | *Target loses clarity; their body is being played.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains in range. |
+| { *The Discordant Strike* [**Attack**] } | "The music box hits a wrong note — and the wrongness is a spike of pure, unstructured agony." | [ A discordant note strikes.] | *Inflicts Void damage; the pain-sound erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Music Box is disturbed. |
+| { *The Full Symphony* [**Attack**] } | "The music box reaches its final movement — every note of agony, played simultaneously." | [The Music Box's complete performance releases all its stored pain.] | *A heavy Void crescendo; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Music Box is silenced. |
+| { *The Orchestra of Agony* [**Ultimate**] } | "Every surface becomes a speaker — the melody of agony fills the field — and everyone is played." | [The Music Box extends its melody across the whole area.] | *All in range suffer Void erosion for three turns of agonizing music.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -84,7 +84,7 @@
 |---|---|
 | **Form** | 25 × 15 cm music box; pink lining, black top, white bottom; small crying figurine atop. |
 | **Boundary / movement** | Fixed; audible range ~10 m, muffled by the acoustic-isolation vault. |
-| **Material / signature** | Void (Pale White) presentation — the sound empties rather than fills; faint Lament (the figurine's weeping). |
+| **Material / signature** | Void presentation — the sound empties rather than fills; faint Lament (the figurine's weeping). |
 | **Distinctive markers** | Endless play; weeping figurine; a lullaby sung in an impossible voice. |
 | **Identification** | Confirm the impossible duration and the unchanged lyrics before any sustained listening. |
 
@@ -134,7 +134,7 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 ### M.A.W. Weapon — The Agony Chord
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
-**Appearance:** A slender tuning-fork blade of pale Han-crystal that hums a single note when drawn — the note the lullaby resolves on but never reaches.
+**Appearance:** A slender tuning-fork blade of Void Han-crystal that hums a single note when drawn — the note the lullaby resolves on but never reaches.
 
 **Ability:** Deals Void damage (attacks the Soul — identity and memory). The chord "completes" the song in a target for an instant, and the target briefly forgets who they are.
 **Cost:** The wielder begins to hear the lullaby even when the box is sealed; prolonged use leaves them unable to recall a name they once knew.
@@ -348,7 +348,7 @@ If I opened up my eyes there'd be no more going back
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIγ-903 [VO]` · Inner (내한) origin · Echo (II) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IIγ-903 [VO]` · Inner (내한) origin · Echo (II) coherence · Major (γ) potency · Void · Object-Void manifestation
 **Common Name:** The Music Box of Agony (고통의 오르골)
 **Containment Status:** Contained — SECTOR-D-02 acoustic-isolation vault; lid sealed between observations
 **Comprehension Level:** 3 — Elevated

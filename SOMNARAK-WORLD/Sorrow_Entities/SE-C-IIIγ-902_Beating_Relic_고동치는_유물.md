@@ -12,9 +12,9 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Body |
-| **Physical Form** | Organic — A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried crimson Han-crystal. It beats like a heart when held — faster when held by someone who is angry. |
+| **Physical Form** | Organic — A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-902, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's body pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge / Crimson]]** | When the entity first fixes on a target. |
-| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge body sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[21 Grudge DMG [Grudge / Crimson]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge / Crimson]]** | When the entity is cornered or starved. |
-| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[23 Grudge DMG [Grudge / Crimson] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's body pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
+| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge body sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[21 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
+| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[23 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -98,10 +98,10 @@
 
 ## Appearance
 
-**Primary Form:** A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried crimson Han-crystal. It beats like a heart when held — faster when held by someone who is angry.
+**Primary Form:** A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry.
 
 **Notable Features:**
-- Expresses Grudge (Crimson) pressure in a body register.
+- Expresses Grudge pressure in a body register.
 - The object form is unmistakable — this is a body entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried crimson Han-crystal. It beats like a heart when held — faster  |
+| **Form** | A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster  |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Object-Body manifestation is the primary identifying feature. Grudge pressure is present and measurable. |
@@ -174,12 +174,12 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 |---|---|---|
 | 10 Seconds | Beating Relic rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Beating Relic activates its primary resonance: Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Beating Relic begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Beating Relic begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Beating Relic too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Beating Relic: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Body form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at SECTOR-C-902, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Beating Relic: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Body form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-C-902, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -203,7 +203,7 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a single-edged blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
 
 **Damage:** Grudge 14–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels grudge body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
@@ -213,7 +213,7 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a flowing veil of crimson Han-cloth, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -223,7 +223,7 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a coin-token of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -311,7 +311,7 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-902 [GO]` · City Sorrow origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-902 [GO]` · City Sorrow origin · Fragment (III) coherence · Major (γ) potency · Grudge · Object-Body manifestation
 
 **Common Name:** Beating Relic
 
@@ -326,7 +326,7 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the body register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Grudge (Crimson) · Object-Body · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Grudge · Object-Body · Manifestation Classification
 
 ### Registry Addendum
 

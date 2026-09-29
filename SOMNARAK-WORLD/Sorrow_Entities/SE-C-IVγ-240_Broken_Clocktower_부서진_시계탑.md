@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) — Self-aware, time-obsessed |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A broken tower crowned by a clock frozen forever at 3:47, its gears turning and turning without ever moving the hands. Cold stone and corroded metal, lead-heavy, smelling of wet stone; time moves inside it but never on its face. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Stuck Hand* [**Debuff**] } | "The clocktower's hand freezes — and so does everything beneath its shadow." | [The Clocktower stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve; the suspended instant is heavy.* **[10 Black DMG [Black / Weight]]** | When the target enters the shadow. |
-| { *The Wrong Chime* [**Debuff**] } | "The tower chimes thirteen — and the wrong number makes time itself dizzy." | [The Clocktower deranges the target's sense of duration.] | *Target loses 10 Resolve; seconds stretch and compress.* **[10 Black DMG [Black / Weight]]** | When the target hears the chime. |
-| { *The Falling Gear* [**Attack**] } | "A gear the size of a cart-wheel breaks free and rolls down." | [A massive clockwork component crashes down.] | *Inflicts Black pressure and one heavy, grinding wound.* **[14-22 Black DMG [Black / Weight]]** | When the Clocktower is struck. |
-| { *The Midnight Cascade* [**Attack**] } | "Every bell in the tower rings at once — a deafening, temporal assault." | [The Clocktower unleashes all its chimes simultaneously.] | *A heavy Black cacophony; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Clocktower is overloaded. |
-| { *Time Stops for Everyone* [**Ultimate**] } | "The tower seizes completely — and beneath it, time refuses to move for anyone." | [The Clocktower freezes the entire field in one impossible hour.] | *All personnel suffer Black pressure for three turns in stopped time.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Stuck Hand* [**Debuff**] } | "The clocktower's hand freezes — and so does everything beneath its shadow." | [The Clocktower stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve; the suspended instant is heavy.* **[10 Weight DMG [Weight]]** | When the target enters the shadow. |
+| { *The Wrong Chime* [**Debuff**] } | "The tower chimes thirteen — and the wrong number makes time itself dizzy." | [The Clocktower deranges the target's sense of duration.] | *Target loses 10 Resolve; seconds stretch and compress.* **[10 Weight DMG [Weight]]** | When the target hears the chime. |
+| { *The Falling Gear* [**Attack**] } | "A gear the size of a cart-wheel breaks free and rolls down." | [A massive clockwork component crashes down.] | *Inflicts Weight pressure and one heavy, grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clocktower is struck. |
+| { *The Midnight Cascade* [**Attack**] } | "Every bell in the tower rings at once — a deafening, temporal assault." | [The Clocktower unleashes all its chimes simultaneously.] | *A heavy Black cacophony; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Clocktower is overloaded. |
+| { *Time Stops for Everyone* [**Ultimate**] } | "The tower seizes completely — and beneath it, time refuses to move for anyone." | [The Clocktower freezes the entire field in one impossible hour.] | *All personnel suffer Weight pressure for three turns in stopped time.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Clocktower: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at Zone C, near Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Clocktower: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at Zone C, near Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -228,7 +228,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -246,7 +246,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a minute-token of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a minute-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Clocktower (C-IVγ-240 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Clocktower formed from a moment that could not end. Held at Zone C, near Collector's Row. The distortion field changes with emotional pressure.
+Broken Clocktower (C-IVγ-240 [WP]) is logged as a Place-Weight manifestation expressing Weight. The Clocktower formed from a moment that could not end. Held at Zone C, near Collector's Row. The distortion field changes with emotional pressure.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 All clocks within the tower eventually show 3:47.
@@ -384,7 +384,7 @@ Some sorrows are about loss. Broken Clocktower is about a moment that would not 
 > *“A catastrophe frozen mid-unfolding. The conclusion never arrived.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-240 [WP]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-IVγ-240 [WP]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Place-Weight manifestation
 **Common Name:** Broken Clocktower
 **Containment Status:** Contained — Old Lament (site)
 **Comprehension Level:** 3 — Advanced

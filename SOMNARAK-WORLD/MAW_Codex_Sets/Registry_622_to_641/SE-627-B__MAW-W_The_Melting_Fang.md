@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A crimson Han-iron fang whose inner light liquefies along the edge without dripping. It formed beside an untouched fruit after the holder named the desired home and refused a return promise.
+A Grudge Han-iron fang whose inner light liquefies along the edge without dripping. It formed beside an untouched fruit after the holder named the desired home and refused a return promise.
 
 Binding requires a current destination unrelated to the lost orchard. A user who intends to preserve fruit feels old wounds reopen in the shape of seed cuts.
 

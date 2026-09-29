@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Hazard-Lament |
 | **Physical Form** | Non-Organic — A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's lament pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament / Deep Blue]]** | When the entity first fixes on a target. |
-| { *The Lament Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament lament sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[18 Lament DMG [Lament / Deep Blue]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[24 Lament DMG [Lament / Deep Blue]]** | When the entity is cornered or starved. |
-| { *The Lament Collapse* [**Ultimate**] } | "The lament breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament / Deep Blue] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's lament pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
+| { *The Lament Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament lament sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[18 Lament DMG [Lament]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[24 Lament DMG [Lament]]** | When the entity is cornered or starved. |
+| { *The Lament Collapse* [**Ultimate**] } | "The lament breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs.
 
 **Notable Features:**
-- Expresses Lament (Deep Blue) pressure in a lament register.
+- Expresses Lament pressure in a lament register.
 - The hazard form is unmistakable — this is a lament entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -191,7 +191,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a flowing veil of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.3 (Resistant)
@@ -209,7 +209,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -299,7 +299,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-922 [LH]` · City Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Hazard-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-922 [LH]` · City Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Lament · Hazard-Lament manifestation
 
 **Common Name:** Miasma
 
@@ -314,7 +314,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the lament register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Lament (Deep Blue) · Hazard-Lament · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Lament · Hazard-Lament · Manifestation Classification
 
 ### Registry Addendum
 

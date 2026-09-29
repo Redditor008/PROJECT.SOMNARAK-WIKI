@@ -52,7 +52,7 @@ Dekan is calm, direct, and accustomed to treating small changes as serious warni
 | **Station** | **B — The Maw perimeter** |
 | **Effigy** | **Cyborg (partially Maw-merged)** |
 | **Sorrow** | **City Sorrow (도한)** |
-| **Signature** | **Grudge (Crimson)** |
+| **Signature** | **Grudge** |
 | **Manifestation** | **Place-Tale — connected to the Maw's story** |
 | **Role** | The Containment Lead; commander of Floor 2 and keeper of the Maw |
 | **Gender** | **Man** |
@@ -851,7 +851,7 @@ Likewise, M.A.W. items extracted from the Maw or other entities are registry pro
 
 ### Signature Clarification
 
-Dekan's personal signature is **Grudge (Crimson)**. The Maw begins in Grudge, shifts to **Lament**, and eventually registers no active signature after the thousand leave.
+Dekan's personal signature is **Grudge**. The Maw begins in Grudge, shifts to **Lament**, and eventually registers no active signature after the thousand leave.
 
 The Maw's changing state does not automatically rewrite Dekan's registered personal signature.
 
@@ -1341,7 +1341,7 @@ Dekan knows the count by the final Cycle and senses resets through the Maw. He i
 
 ### Personal Signature and Maw Progression
 
-Dekan's registered signature remains **Grudge (Crimson)**. The Maw's signature changes:
+Dekan's registered signature remains **Grudge**. The Maw's signature changes:
 
 1. Grudge;
 2. Lament on Day 125;

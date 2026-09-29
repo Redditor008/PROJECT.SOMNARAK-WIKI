@@ -18,11 +18,11 @@
 |---|---|
 | Official name | The Memory Flask |
 | Set | Unremembered Lives |
-| Type / grade / element | Stigma, pale glass flask / γ — Major / Void — Pale White |
+| Type / grade / element | Stigma, pale glass flask / γ — Major / Void |
 | Slot | Head |
 | Status | Bearer-bound; consent and replay ledger required |
 | Known bearer | Chronicler Minseo |
-| Resting form | A small pale Han-glass flask that holds a depth of moving light rather than liquid. |
+| Resting form | A small Void Han-glass flask that holds a depth of moving light rather than liquid. |
 | Active form | One stored memory appears in the glass as an incomplete reflection while the bearer replays it. |
 | Recognition rule | The Flask remains empty if a memory is offered without the living owner’s consent or Archive custody authority. |
 

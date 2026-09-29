@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place — Place-Void |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | SECTOR-A-01, beneath the Grand Archive |
 | Form | A deep, worn stone well filled with viscous liquid memory that reflects a viewer’s past instead of their face. |
 | Gauge / pressure | 45–65% / Void 18–41 |

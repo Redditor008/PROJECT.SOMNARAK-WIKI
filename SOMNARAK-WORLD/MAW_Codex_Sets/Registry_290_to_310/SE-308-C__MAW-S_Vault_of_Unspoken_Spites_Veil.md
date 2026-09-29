@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A warm crimson Han-cloth veil with one dark pocket moving across its surface. It condenses after responsible anger release. Binding requires a named witness and discharge plan.
+A warm Grudge Han-cloth veil with one dark pocket moving across its surface. It condenses after responsible anger release. Binding requires a named witness and discharge plan.
 
 Iseulfros wore it when a Vault surge returned a supervisor’s resentment. The Veil absorbed the first attack, preserving the team, but she carried the anger afterward and distrusted workers who had never participated in the original dispute.
 

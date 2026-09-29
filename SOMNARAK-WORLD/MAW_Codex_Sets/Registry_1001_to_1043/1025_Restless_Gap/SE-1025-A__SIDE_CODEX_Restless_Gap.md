@@ -21,7 +21,7 @@ The Trace formed from a life broken into disconnected pieces. The weight of surv
 | Source designation | C-IVδ-250 [WS] |
 | Type / Manifestation | Subject — Can breach / Subject-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Weight (Black) / Zone D, Mantle Commons |
+| Element / Location | Weight / Zone D, Mantle Commons |
 | Gauge / Pressure | 846/846; starts 60–80% / 29–64 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence. |
@@ -52,7 +52,7 @@ During the The Restless Gap Source-Trace, the field team preserved this source f
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Restless Gap's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Use memory anchors and reconstruct the person's history without inventing missing pieces The set cannot heal the originating event. Misuse routes Restless Gap's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Restless Gap's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stays only the immediate manifestation that violates this rule: Use memory anchors and reconstruct the person's history without inventing missing pieces The set cannot heal the originating event. Misuse routes Restless Gap's wound through the operator and triggers the recorded escalation.
 
 ---
 

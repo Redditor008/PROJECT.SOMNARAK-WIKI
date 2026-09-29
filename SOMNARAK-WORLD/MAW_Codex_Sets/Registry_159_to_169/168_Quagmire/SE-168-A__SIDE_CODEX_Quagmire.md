@@ -23,7 +23,7 @@
 | Sorrow Category | Outside Sorrow |
 | Type / Manifestation | Object/Place, I-Relic — Object-Weight |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | The Desolate, near the Scar |
 | Form | A broken line of heavy crystal dragged across the ground: a collapsed route frozen mid-stride with the names of missing travelers held in its trace. |
 | Gauge / pressure | 60–80% / Lament 29–62 |

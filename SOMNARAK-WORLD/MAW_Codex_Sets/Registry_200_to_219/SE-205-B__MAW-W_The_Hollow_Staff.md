@@ -18,7 +18,7 @@
 
 ## ITEM IDENTITY & VISUAL RECORD
 
-The Ravenous Timber-Jaw is a straight length of matte black Han-steel whose surface resembles bark stripped against the grain. It is lead-cold before use and becomes lighter in the hand as it drinks ambient Han. A dim light can be seen inside its central seam, but that light illuminates no surrounding surface. When the intake opens, nearby footsteps lose their echo.
+The Ravenous Timber-Jaw is a straight length of matte Weight Han-steel whose surface resembles bark stripped against the grain. It is lead-cold before use and becomes lighter in the hand as it drinks ambient Han. A dim light can be seen inside its central seam, but that light illuminates no surrounding surface. When the intake opens, nearby footsteps lose their echo.
 
 **Recognition rule:** Tap the lower third once against bare stone. An authentic Staff returns no impact sound, while its shadow briefly takes the shape of exposed roots.
 
@@ -54,7 +54,7 @@ A bearer who draws it to “make emptiness useful” feels the intake turn inwar
 | Field | Record |
 |---|---|
 | Type | Weapon — Han-absorption staff |
-| Grade / element | γ — Major / Weight — Black |
+| Grade / element | γ — Major / Weight |
 | Damage | 7–12 Weight |
 | Speed | 3 — Fast |
 | Range | 3 — Medium |

@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A heavy crimson Han-iron hammer pulsing like Crucible’s heart. It forms from cooled slag after the Forge produces a named nonviolent tool.
+A heavy Grudge Han-iron hammer pulsing like Crucible’s heart. It forms from cooled slag after the Forge produces a named nonviolent tool.
 
 Binding requires the wielder to state the anger entering the work and the object’s protective purpose. Durivel used it to shape an emergency brace while a breach hammered the opposite door. The brace held, but he hated every correction the metal required.
 

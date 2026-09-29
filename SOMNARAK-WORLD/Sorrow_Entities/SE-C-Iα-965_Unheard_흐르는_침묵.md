@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — A pressure with no visible body that flows through the Collector's Row like a current of silence — a hush that moves, swallowing sound as it passes. There is nothing to see; only the quiet and the weight. Fever-cold, it smells of char. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Stream* [**Debuff**] } | "Silence flows across the floor like water — and where it pools around your ankles, your voice disappears." | [The Silence's liquid form rises; the target's voice is submerged.] | *Target suffers -10 Resilience; they are being silenced.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target steps into the flow. |
-| { *The Rising Quiet* [**Debuff**] } | "The silence climbs — knee-deep, waist-deep — and the deeper it gets, the more you forget how to speak." | [The Silence deepens; the target is drowning in quiet.] | *Target loses 10 Resilience; they have forgotten what sound is.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target is submerged. |
-| { *The Silent Wave* [**Attack**] } | "A wave of liquid silence crashes — and where it hits, not even thought can survive." | [A crashing wave of soundless pressure.] | *Inflicts Crimson pressure and one wound of absolute muteness.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Silence is disturbed. |
-| { *The Full Flood* [**Attack**] } | "The silence overflows its banks — a tsunami of perfect, crushing, liquid quiet." | [The Silence's complete release floods everything.] | *A heavy Crimson deluge of soundlessness; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Silence is broken. |
-| { *The Drowned World* [**Ultimate**] } | "The silence covers everything — and beneath its surface, no one can scream, and no one can hear, and no one can be heard." | [The Silence extends its flood across the whole field.] | *All in range suffer Crimson pressure for three turns of liquid silence.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Stream* [**Debuff**] } | "Silence flows across the floor like water — and where it pools around your ankles, your voice disappears." | [The Silence's liquid form rises; the target's voice is submerged.] | *Target suffers -10 Resilience; they are being silenced.* **[10 Grudge DMG [Grudge]]** | When the target steps into the flow. |
+| { *The Rising Quiet* [**Debuff**] } | "The silence climbs — knee-deep, waist-deep — and the deeper it gets, the more you forget how to speak." | [The Silence deepens; the target is drowning in quiet.] | *Target loses 10 Resilience; they have forgotten what sound is.* **[10 Grudge DMG [Grudge]]** | When the target is submerged. |
+| { *The Silent Wave* [**Attack**] } | "A wave of liquid silence crashes — and where it hits, not even thought can survive." | [A crashing wave of soundless pressure.] | *Inflicts Grudge pressure and one wound of absolute muteness.* **[14-22 Grudge DMG [Grudge]]** | When the Silence is disturbed. |
+| { *The Full Flood* [**Attack**] } | "The silence overflows its banks — a tsunami of perfect, crushing, liquid quiet." | [The Silence's complete release floods everything.] | *A heavy Crimson deluge of soundlessness; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Silence is broken. |
+| { *The Drowned World* [**Ultimate**] } | "The silence covers everything — and beneath its surface, no one can scream, and no one can hear, and no one can be heard." | [The Silence extends its flood across the whole field.] | *All in range suffer Grudge pressure for three turns of liquid silence.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -188,7 +188,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -206,7 +206,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a tiny lantern of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a tiny lantern of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Unheard (C-Iα-965 [N]) is logged as a Subject-Weight manifestation expressing Grudge (Crimson). The entity formed from a city that stopped listening to its own final words. Held at Zone C, Collector's Row. The entity is the final entry in the Codex's current sequence.
+Unheard (C-Iα-965 [N]) is logged as a Subject-Weight manifestation expressing Grudge. The entity formed from a city that stopped listening to its own final words. Held at Zone C, Collector's Row. The entity is the final entry in the Codex's current sequence.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flows through Collector's Row and connected records. Personnel feel the weight of endings and cannot hear ordinary speech. Its silence is absolute but emotionally aggressive.
@@ -351,7 +351,7 @@ Some sorrows are about being silenced. Unheard is about the absorption — the p
 > *“The silence flows with the dissolved words of every truth the system swallowed.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-965 [N]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-965 [N]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Weight manifestation
 **Common Name:** Unheard
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

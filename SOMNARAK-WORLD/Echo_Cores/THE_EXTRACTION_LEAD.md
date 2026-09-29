@@ -52,7 +52,7 @@ Zyrak works through measurements, controlled procedures, and exact probabilities
 | **Station** | **C — The Collector's Row** |
 | **Effigy** | **Android (reconstructed former Collector)** |
 | **Sorrow** | **Inner Sorrow (내한)** |
-| **Signature** | **Grudge (Crimson) + Void (Pale White)** |
+| **Signature** | **Grudge + Void** |
 | **Manifestation** | **Subject-Body — hands marked by extracted sorrow** |
 | **Role** | The Extraction Lead; commander of Floor 3 and senior M.A.W. extraction authority |
 | **Gender** | **Woman** |
@@ -884,7 +884,7 @@ The Directorate risk matrix describes her Android body as M.A.W.-compatible and 
 
 ### Signature Clarification
 
-Zyrak's personal signature is **Grudge (Crimson) + Void (Pale White)**.
+Zyrak's personal signature is **Grudge + Void**.
 
 - **Grudge** reflects unresolved injustice, the violence of debt enforcement, and sorrow held rather than released.
 - **Void** reflects removal, lost identity, memory extraction, and the absence left by taking.
@@ -1462,7 +1462,7 @@ Her personal category should not be silently replaced by the district's category
 
 ### Grudge and Void
 
-Zyrak's registered personal signature is **Grudge (Crimson) + Void (Pale White)**. This does not mean:
+Zyrak's registered personal signature is **Grudge + Void**. This does not mean:
 
 - every extracted M.A.W. has both elements;
 - the Three Birds share her signature;

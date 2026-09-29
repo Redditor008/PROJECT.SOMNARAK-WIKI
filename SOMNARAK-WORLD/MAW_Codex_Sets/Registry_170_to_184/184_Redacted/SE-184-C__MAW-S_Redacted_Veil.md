@@ -18,7 +18,7 @@
 |---|---|
 | Official name | Redacted Veil |
 | Set | Absent History |
-| Type / grade / element | Suit / γ — Major / Void — Pale White |
+| Type / grade / element | Suit / γ — Major / Void |
 | Maximum amount | 3 — Standard |
 | Recognition rule | An Archive witness must still read the wearer’s name through the veil. |
 

@@ -53,10 +53,10 @@ A specialist's effectiveness is governed by four core attributes, each trained t
 
 | Attribute | Korean Name | Vital Function | Trained Protocol |
 |---|---|---|---|
-| **Resilience** | 탄력 (Fortitude) | Increases maximum **Health Points (HP)**, determining physical endurance. | 🤲 **Ferrehan** (Endurance) |
-| **Clarity** | 명료 (Prudence) | Increases maximum **Sanity Points (SP)**, determining mental fortitude. | 👁 **Viderehan** (Observation) |
-| **Composure** | 침착 (Temperance) | Increases work execution speed and positive resonance probability. | 💧 **Flerehan** (Lamentation) |
-| **Resolve** | 결의 (Justice) | Increases weapon attack speed and corridor sprint velocity. | ⚔ **Pugnahan** (Confrontation) |
+| **Resilience** | 탄력 (Elasticity) | Increases maximum **Health Points (HP)**, determining physical endurance. | 🤲 **Ferrehan** (Endurance) |
+| **Clarity** | 명료 (Lucidity) | Increases maximum **Sanity Points (SP)**, determining mental fortitude. | 👁 **Viderehan** (Observation) |
+| **Composure** | 침착 (Calm) | Increases work execution speed and positive resonance probability. | 💧 **Flerehan** (Lamentation) |
+| **Resolve** | 결의 (Determination) | Increases weapon attack speed and corridor sprint velocity. | ⚔ **Pugnahan** (Confrontation) |
 
 Attributes progress from **Level I** (Novice) up to **Level V** (Master), with veteran operatives achieving elite **EX-Rank** status through prolonged service.
 

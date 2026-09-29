@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Burning and creative |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A squat, soot-blackened stone forge built around a fire that is not fire but a core of slow-pulsing crimson beating like an exposed heart. The anvil and tongs are crusted with dark, clawed metal that has grown rather than been forged, branching like bone. Heat rolls off it in waves that feel less like temperature and more like held breath before a shout. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Banked Coals* [**Debuff**] } | "The coals glow brighter the longer you stand here — feeding on what you will not admit." | [The Forge heats the target's resentment; old anger begins to smolder.] | *Target suffers -10 Resilience as their own rage is stoked.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the Forge. |
-| { *The Bellows* [**Debuff**] } | "The bellows pump, and your anger rises with the flame." | [The Forge fans the target's temper; control slips.] | *Target loses 10 Resilience; small slights become unbearable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers in the heat. |
-| { *The Hammer* [**Attack**] } | "The hammer comes down on the anvil of your resentment." | [A forged-rage strike — the Hammer shapes raw anger into a weapon and brings it down.] | *Inflicts Crimson pressure and one searing wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the target confronts the Forge. |
-| { *The Quench* [**Attack**] } | "Red-hot rage, quenched in your skin." | [The Forge tempers a bolt of fury and hurls it, steaming, at the target.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Forge is attacked or overloaded. |
-| { *The Eruption* [**Ultimate**] } | "The Forge blows — and everything it held bursts out at once." | [The Forge erupts, spraying molten resentment across the entire area.] | *All personnel suffer Crimson pressure for three turns in the heat.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Banked Coals* [**Debuff**] } | "The coals glow brighter the longer you stand here — feeding on what you will not admit." | [The Forge heats the target's resentment; old anger begins to smolder.] | *Target suffers -10 Resilience as their own rage is stoked.* **[10 Grudge DMG [Grudge]]** | When the target enters the Forge. |
+| { *The Bellows* [**Debuff**] } | "The bellows pump, and your anger rises with the flame." | [The Forge fans the target's temper; control slips.] | *Target loses 10 Resilience; small slights become unbearable.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the heat. |
+| { *The Hammer* [**Attack**] } | "The hammer comes down on the anvil of your resentment." | [A forged-rage strike — the Hammer shapes raw anger into a weapon and brings it down.] | *Inflicts Grudge pressure and one searing wound.* **[14-22 Grudge DMG [Grudge]]** | When the target confronts the Forge. |
+| { *The Quench* [**Attack**] } | "Red-hot rage, quenched in your skin." | [The Forge tempers a bolt of fury and hurls it, steaming, at the target.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Forge is attacked or overloaded. |
+| { *The Eruption* [**Ultimate**] } | "The Forge blows — and everything it held bursts out at once." | [The Forge erupts, spraying molten resentment across the entire area.] | *All personnel suffer Grudge pressure for three turns in the heat.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Crucible: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone D, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Crucible: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone D, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Crucible: it is not a generic breach event
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a heavy hammer of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a heavy hammer of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Crucible: it is not a generic breach event
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Crucible: it is not a generic breach event
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Crucible (C-IIIβ-275 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Forge formed from anger used to create rather than destroy. Held at Zone D, Forge District. The Forge creates objects without a visible worker.
+Crucible (C-IIIβ-275 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Forge formed from anger used to create rather than destroy. Held at Zone D, Forge District. The Forge creates objects without a visible worker.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its heat responds to emotional intent.
@@ -388,7 +388,7 @@ Crucible is that awareness. It still burns. It still shapes metal. But those who
 > *“The Forge remembers every blow. It knows us by our fury.”* — Keeper, Archive
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-275 [GP]` · City origin · Fragment (III) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-275 [GP]` · City origin · Fragment (III) coherence · Moderate (β) potency · Grudge · Place-Grudge manifestation
 **Common Name:** Crucible
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 2 — Basic

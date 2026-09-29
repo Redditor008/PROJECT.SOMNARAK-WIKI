@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Endlessly sad |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A broad, low basin of worn grey stone, ringed with moss that should be dead but is alive, weeping a slow dark liquid thicker than water — closer to tears, or to lymph. The pool has no visible bottom and reflects no face; its surface moves with the grief of whoever stands nearest. The liquid is warm, faintly saline, and smells of rain on old cloth. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Welling* [**Debuff**] } | "The water rises without a source — every grief in the district feeding it." | [The Fountain's basin fills; sorrow pools around the target's feet.] | *Target suffers -10 Composure as the grief seeps in.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Fountain is approached. |
-| { *The First Overflow* [**Debuff**] } | "The basin tips, and the sorrow spills outward in every direction." | [The Fountain overflows; the spreading water carries old lament.] | *Target loses 10 Composure; their footing slips in the grief.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers at the basin. |
-| { *The Bitter Spray* [**Attack**] } | "The spray rises — each droplet a remembered loss, and they sting." | [A spray of sorrow-water lashes out, sharp as needles.] | *Inflicts Deep Blue pressure and one stinging wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Fountain is disturbed. |
-| { *The Drowning* [**Attack**] } | "The fountain floods the whole square — and grief is heavier than water." | [The Fountain unleashes a surge that threatens to drown everything in sorrow.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Fountain is struck or overwhelmed. |
-| { *The Flood of All Grief* [**Ultimate**] } | "Every tear ever shed here rises at once." | [The Fountain erupts, flooding the entire area with accumulated lament.] | *All in range suffer Deep Blue pressure for three turns.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Welling* [**Debuff**] } | "The water rises without a source — every grief in the district feeding it." | [The Fountain's basin fills; sorrow pools around the target's feet.] | *Target suffers -10 Composure as the grief seeps in.* **[10 Lament DMG [Lament]]** | When the Fountain is approached. |
+| { *The First Overflow* [**Debuff**] } | "The basin tips, and the sorrow spills outward in every direction." | [The Fountain overflows; the spreading water carries old lament.] | *Target loses 10 Composure; their footing slips in the grief.* **[10 Lament DMG [Lament]]** | When the target lingers at the basin. |
+| { *The Bitter Spray* [**Attack**] } | "The spray rises — each droplet a remembered loss, and they sting." | [A spray of sorrow-water lashes out, sharp as needles.] | *Inflicts Lament pressure and one stinging wound.* **[14-22 Lament DMG [Lament]]** | When the Fountain is disturbed. |
+| { *The Drowning* [**Attack**] } | "The fountain floods the whole square — and grief is heavier than water." | [The Fountain unleashes a surge that threatens to drown everything in sorrow.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Fountain is struck or overwhelmed. |
+| { *The Flood of All Grief* [**Ultimate**] } | "Every tear ever shed here rises at once." | [The Fountain erupts, flooding the entire area with accumulated lament.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Sorrow Fountain: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-D-02, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Sorrow Fountain: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -311,7 +311,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Sorrow Fountain (C-IIIγ-088 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Fountain formed from grief that needed a place to flow. Held at SECTOR-D-02, Echo Gardens. The Fountain grows during memorial seasons.
+The Sorrow Fountain (C-IIIγ-088 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Fountain formed from grief that needed a place to flow. Held at SECTOR-D-02, Echo Gardens. The Fountain grows during memorial seasons.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It contains no ordinary water.
@@ -395,7 +395,7 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 > *“I wept less beside it. Not because my sorrow was smaller, but because the Fountain carried so much already.”* — Citizen, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-088 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-088 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** The Sorrow Fountain
 **Containment Status:** Contained — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic

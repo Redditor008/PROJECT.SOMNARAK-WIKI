@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A dark crimson Han-iron fang whose wet edge outlines absent masonry when raised. It forms from overlap between two corroborated survivor maps. Binding requires the wielder to distinguish surviving evidence from reconstruction.
+A dark Grudge Han-iron fang whose wet edge outlines absent masonry when raised. It forms from overlap between two corroborated survivor maps. Binding requires the wielder to distinguish surviving evidence from reconstruction.
 
 During the *East Stair That Wasn’t There*, Fang removed a modern brace blocking a phantom evacuation route. Durivel refused to cut a remembered wall when the maps disagreed. The brace fell; his old shoulder wound bruised in the exact shape of the tenement’s missing banister.
 

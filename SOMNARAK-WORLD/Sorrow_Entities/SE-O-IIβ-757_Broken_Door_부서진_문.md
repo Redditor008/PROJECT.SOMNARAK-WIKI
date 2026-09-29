@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A broken door standing alone in the Echo Gardens, its charred frame burning with a small fire that never goes out and never spreads. Fever-warm, it smells of cold rain and char; a way out that broke, and keeps trying to open. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Splintered Frame* [**Debuff**] } | "The door is in pieces — and every splinter still carries the shape of the threshold it was." | [The Door's fragments retain their threshold-nature; the target senses a passage that does not work.] | *Target suffers -10 Resilience; the broken passage is frustrating.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target approaches the Door. |
-| { *The Sealed Opening* [**Debuff**] } | "The broken door has sealed itself with its own wreckage — and the seal is angry, intentional." | [The Door's self-sealing barricade blocks the target; the wreckage is hostile.] | *Target loses 10 Resilience; the door does not want to be passed.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target tries to cross. |
-| { *The Flying Splinter* [**Attack**] } | "A shard of broken door launches — sharp, wooden, carrying the anger of being the barrier AND the breach." | [A splinter-projectile strikes.] | *Inflicts Crimson pressure and one jagged, wooden wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Door is disturbed. |
-| { *The Full Collapse* [**Attack**] } | "Every remaining piece of the door gives way — and the collapse is a barricade becoming a weapon." | [The Door's total failure releases its structural resentment.] | *A heavy Crimson collapse; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Door is forced. |
-| { *Every Door Breaks* [**Ultimate**] } | "Every door in the field shatters — and the combined wreckage seals every passage simultaneously." | [The Door extends its breaking across the whole area.] | *All in range suffer Crimson pressure for three turns of broken doors.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Splintered Frame* [**Debuff**] } | "The door is in pieces — and every splinter still carries the shape of the threshold it was." | [The Door's fragments retain their threshold-nature; the target senses a passage that does not work.] | *Target suffers -10 Resilience; the broken passage is frustrating.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Door. |
+| { *The Sealed Opening* [**Debuff**] } | "The broken door has sealed itself with its own wreckage — and the seal is angry, intentional." | [The Door's self-sealing barricade blocks the target; the wreckage is hostile.] | *Target loses 10 Resilience; the door does not want to be passed.* **[10 Grudge DMG [Grudge]]** | When the target tries to cross. |
+| { *The Flying Splinter* [**Attack**] } | "A shard of broken door launches — sharp, wooden, carrying the anger of being the barrier AND the breach." | [A splinter-projectile strikes.] | *Inflicts Grudge pressure and one jagged, wooden wound.* **[14-22 Grudge DMG [Grudge]]** | When the Door is disturbed. |
+| { *The Full Collapse* [**Attack**] } | "Every remaining piece of the door gives way — and the collapse is a barricade becoming a weapon." | [The Door's total failure releases its structural resentment.] | *A heavy Crimson collapse; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Door is forced. |
+| { *Every Door Breaks* [**Ultimate**] } | "Every door in the field shatters — and the combined wreckage seals every passage simultaneously." | [The Door extends its breaking across the whole area.] | *All in range suffer Grudge pressure for three turns of broken doors.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -159,7 +159,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Duration:** Continuous while the door leaf is held ajar.
 
-**Risk:** Looking back through the threshold causes profound vertigo and 10 Pale White Void damage.
+**Risk:** Looking back through the threshold causes profound vertigo and 10 Void damage.
 
 ### Tool Use Profile — O-Relic
 
@@ -171,7 +171,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Primary Effect** | Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes. |
 | **Duration** | Continuous while the door leaf is held ajar. |
 | **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Grudge resonance across the sector. |
-| **Risk** | Looking back through the threshold causes profound vertigo and 10 Pale White Void damage. |
+| **Risk** | Looking back through the threshold causes profound vertigo and 10 Void damage. |
 
 **Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
@@ -182,11 +182,11 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | 10 Seconds | Broken Door begins thrumming as the channel opens; a palpable wave of grudge sorrow sweeps across the containment chamber. | Opening the channel activates Broken Door: Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the anger of being forced to leave before goodbye or explanation. forged during a family home was divided during an echo incident; the door survived while the family did not remain together. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
 | 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Broken Door's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Grudge shockwave: Looking back through the threshold causes profound vertigo and 10 Pale White Void damage. all personnel in the sector take heavy damage. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Grudge shockwave: Looking back through the threshold causes profound vertigo and 10 Void damage. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Door: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Door: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -198,7 +198,7 @@ The escalation pattern is specific to Broken Door: it is not a generic breach ev
 | **Manifestation** | Place-Grudge |
 | **Primary effect** | Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes. |
 | **Duration / rate** | Continuous while the door leaf is held ajar. |
-| **Risk** | Moderate (β) Place-Grudge producing Grudge pressure; Looking back through the threshold causes profound vertigo and 10 Pale White Void damage. |
+| **Risk** | Moderate (β) Place-Grudge producing Grudge pressure; Looking back through the threshold causes profound vertigo and 10 Void damage. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
@@ -228,7 +228,7 @@ Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -246,7 +246,7 @@ Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a hinge-clasp of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a hinge-clasp of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Door (O-IIβ-757 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Door formed from a home broken apart by separation. Held at Zone D, Echo Gardens. It opens only onto memories, never physical rooms.
+Broken Door (O-IIβ-757 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Door formed from a home broken apart by separation. Held at Zone D, Echo Gardens. It opens only onto memories, never physical rooms.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its flame grows when visitors attempt to force reunion.
@@ -382,7 +382,7 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 > *“The last piece of the shared home, standing as the boundary of a division no one chose.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-757 [GP]` · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIβ-757 [GP]` · Grudge · Place-Grudge manifestation
 **Common Name:** Broken Door
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic

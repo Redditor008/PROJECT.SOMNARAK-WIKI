@@ -21,7 +21,7 @@ The Chain formed from memories passed through families and communities. The weig
 | Source designation | N-IIIβ-200 [WO] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Fragment (III) — Binding and connecting / Moderate (β) |
-| Element / Location | Weight (Black) / SECTOR-C-01, Collector's Row |
+| Element / Location | Weight / SECTOR-C-01, Collector's Row |
 | Gauge / Pressure | 484/484; starts 35–50% / 8–19 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Families traded memories to preserve history after records were destroyed; the memories crystallized into links. |
@@ -52,7 +52,7 @@ During the The Chain of Memories Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.
 
 ---
 

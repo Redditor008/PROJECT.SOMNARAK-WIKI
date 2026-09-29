@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Fierce and protective |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A core of dark crimson fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. It never fully stops moving. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Kindling* [**Debuff**] } | "A small flame licks up — and you feel your own anger catch with it." | [The Flame ignites nearby resentment; the target's temper flares.] | *Target suffers -10 Resilience; their anger is being stoked.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target comes near the Flame. |
-| { *The Spreading Fire* [**Debuff**] } | "The flame leaps to the next thing — and the next — hungering." | [The Flame spreads; the target is ringed by catching rage.] | *Target loses 10 Resilience; the fire is closing in.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers in the heat. |
-| { *The Lash of Flame* [**Attack**] } | "A tongue of fire whips out — fast, bright, and furious." | [A fiery lash strikes across the target.] | *Inflicts Crimson pressure and one searing wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Flame is provoked. |
-| { *The Backdraft* [**Attack**] } | "The fire draws breath — and then it exhales, all at once." | [A sudden eruption of accumulated wrath bursts outward.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Flame is starved or struck. |
-| { *The Wildfire* [**Ultimate**] } | "The fire stops being a flame and becomes a wildfire — and it wants everything." | [The Flame engulfs the entire field in uncontained rage.] | *All personnel suffer Crimson pressure for three turns in the blaze.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Kindling* [**Debuff**] } | "A small flame licks up — and you feel your own anger catch with it." | [The Flame ignites nearby resentment; the target's temper flares.] | *Target suffers -10 Resilience; their anger is being stoked.* **[10 Grudge DMG [Grudge]]** | When the target comes near the Flame. |
+| { *The Spreading Fire* [**Debuff**] } | "The flame leaps to the next thing — and the next — hungering." | [The Flame spreads; the target is ringed by catching rage.] | *Target loses 10 Resilience; the fire is closing in.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the heat. |
+| { *The Lash of Flame* [**Attack**] } | "A tongue of fire whips out — fast, bright, and furious." | [A fiery lash strikes across the target.] | *Inflicts Grudge pressure and one searing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Flame is provoked. |
+| { *The Backdraft* [**Attack**] } | "The fire draws breath — and then it exhales, all at once." | [A sudden eruption of accumulated wrath bursts outward.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Flame is starved or struck. |
+| { *The Wildfire* [**Ultimate**] } | "The fire stops being a flame and becomes a wildfire — and it wants everything." | [The Flame engulfs the entire field in uncontained rage.] | *All personnel suffer Grudge pressure for three turns in the blaze.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Breach Type** | Corrupt |
 | **Movement** | The Wrath Flame intensifies in place, warping the containment zone outward. It ignites personnel with sorrow-fire. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -195,7 +195,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** an ember-charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Wrath Flame (O-IIIβ-120 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Flame formed from the rage of the six factions that fought in the Occlusihan. Held at The Desolate, near The Scar. It has never attacked a respectful visitor.
+The Wrath Flame (O-IIIβ-120 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Flame formed from the rage of the six factions that fought in the Occlusihan. Held at The Desolate, near The Scar. It has never attacked a respectful visitor.
 
 **Entry 2 — <Excerpt from Field Log, Year 4230>**
 Patrols beyond The Scar and along the Desolate border. Disrespectful personnel experience the rage of the Occlusihan. The Flame patrols the same rift repeatedly.
@@ -350,7 +350,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 > *“The flame has burned for six thousand years because the dead have never been mourned.”* — Elder, The Scar
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Grudge · Subject-Body manifestation
 **Common Name:** The Wrath Flame
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic

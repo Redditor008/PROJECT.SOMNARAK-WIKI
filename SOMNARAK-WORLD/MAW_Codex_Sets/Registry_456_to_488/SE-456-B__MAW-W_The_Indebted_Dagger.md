@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron dagger showing grief stains beneath surfaces. It forms after desire is acknowledged without promise.
+A Grudge Han-iron dagger showing grief stains beneath surfaces. It forms after desire is acknowledged without promise.
 
 Durivel exposed grief hidden in a confiscated household tool without claiming the tool’s return could be guaranteed. During use, genuine emotion became inaccessible to him.
 

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, cyclical, eternal |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A core of dark crimson fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. Its weight shifts when unobserved. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Spark* [**Debuff**] } | "An ember ignites — barely, weakly — and from it, wings unfold, made of dying fire and old fury." | [The Phoenix's rebirth from near-extinction radiates desperate energy.] | *Target suffers -10 Resilience; the fury of not-quite-dead is palpable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Phoenix ignites. |
-| { *The Burning Wings* [**Debuff**] } | "The phoenix's wings spread — embers falling like rain — and each ember carries a resentment that refuses to die." | [The Phoenix's ember-fall contaminates the area; the target is scorched by old anger.] | *Target loses 10 Resilience; the fire is fueled by grudge.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stands in the ember-fall. |
-| { *The Talon Strike* [**Attack**] } | "The phoenix dives — talons of dying fire, aimed at the heart of whoever tried to put it out." | [A burning raptor-strike from the ember Phoenix.] | *Inflicts Crimson pressure and one searing, furious wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Phoenix is challenged. |
-| { *The Full Rebirth* [**Attack**] } | "The phoenix erupts from its own ashes — every death it ever experienced, fuel for one blazing return." | [The Phoenix's complete rebirth releases all its accumulated fiery rage.] | *A heavy Crimson conflagration; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Phoenix is extinguished. |
-| { *The Eternal Return* [**Ultimate**] } | "The phoenix dies and is reborn — dies and is reborn — faster and faster — until the whole field is an inferno of endless, furious resurrection." | [The Phoenix extends its cycle across the whole area.] | *All in range suffer Crimson pressure for three turns of burning rebirth.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Spark* [**Debuff**] } | "An ember ignites — barely, weakly — and from it, wings unfold, made of dying fire and old fury." | [The Phoenix's rebirth from near-extinction radiates desperate energy.] | *Target suffers -10 Resilience; the fury of not-quite-dead is palpable.* **[10 Grudge DMG [Grudge]]** | When the Phoenix ignites. |
+| { *The Burning Wings* [**Debuff**] } | "The phoenix's wings spread — embers falling like rain — and each ember carries a resentment that refuses to die." | [The Phoenix's ember-fall contaminates the area; the target is scorched by old anger.] | *Target loses 10 Resilience; the fire is fueled by grudge.* **[10 Grudge DMG [Grudge]]** | When the target stands in the ember-fall. |
+| { *The Talon Strike* [**Attack**] } | "The phoenix dives — talons of dying fire, aimed at the heart of whoever tried to put it out." | [A burning raptor-strike from the ember Phoenix.] | *Inflicts Grudge pressure and one searing, furious wound.* **[14-22 Grudge DMG [Grudge]]** | When the Phoenix is challenged. |
+| { *The Full Rebirth* [**Attack**] } | "The phoenix erupts from its own ashes — every death it ever experienced, fuel for one blazing return." | [The Phoenix's complete rebirth releases all its accumulated fiery rage.] | *A heavy Crimson conflagration; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Phoenix is extinguished. |
+| { *The Eternal Return* [**Ultimate**] } | "The phoenix dies and is reborn — dies and is reborn — faster and faster — until the whole field is an inferno of endless, furious resurrection." | [The Phoenix extends its cycle across the whole area.] | *All in range suffer Grudge pressure for three turns of burning rebirth.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Breach Type** | Escape |
 | **Movement** | Ember Phoenix breaks loose and charges, thrashing. It ignites everything. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
 | **Escalation** | Each turn free, Resilience drain +5 until suppressed. |
 
@@ -190,7 +190,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -208,7 +208,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** an ember-charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Ember Phoenix (O-IVδ-190 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Phoenix formed from survival that became another kind of death. Held at The Desolate — mobile. The Phoenix's cycle has no recorded first death.
+Ember Phoenix (O-IVδ-190 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Phoenix formed from survival that became another kind of death. Held at The Desolate — mobile. The Phoenix's cycle has no recorded first death.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flies through the Desolate, leaving fire and ash. Nearby entities become agitated and personnel relive repeated loss. Its flame burns memory as readily as matter.
@@ -344,7 +344,7 @@ Some sorrows mourn the dead. Ember Phoenix mourns the surviving — the compulso
 > *“The rage of a survivor who was never given the option to stay down.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-190 [GS]` · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `O-IVδ-190 [GS]` · Grudge · Subject-Body manifestation
 **Common Name:** Ember Phoenix
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic

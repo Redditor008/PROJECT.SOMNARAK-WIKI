@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence | IV — Entity |
 | Potency | β — Moderate |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | Fire-bodied young woman, banked fury |
 | Location | SECTOR-D-02, Three Sisters containment |
 | Comprehension Level | 3 — Understood |

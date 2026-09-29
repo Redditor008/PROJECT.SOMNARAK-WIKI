@@ -221,7 +221,7 @@ Catalogued under field code **SECC-E11 "The Petrification Cradle"**, the entity 
 ================================================================================
  ELITE ANOMALY COMBAT: SECC-E11 "THE PETRIFICATION CRADLE" (Grade-β Potency)
 ================================================================================
- ENTITY PROFILE: HP: 1,100 | Stagger Threshold: 440 HP | Element: Weight (Black)
+ ENTITY PROFILE: HP: 1,100 | Stagger Threshold: 440 HP | Element: Weight
  RESISTANCES: Grudge (Normal 1.0x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Endured 0.5x)
 
  TURN 1:
@@ -306,10 +306,10 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
  - Stagger Thresholds: 1,960 HP (70%) | 1,120 HP (40%) | 280 HP (10%)
  - Base Defense: 45 | Speed Dice: 2–5 (3 Attack Slots)
  - Resistances:
-   * Grudge (Crimson) : 1.0x (Normal — Absorbs heat through stone mass)
-   * Lament (Deep Blue): 2.0x (Exposed Weakness — Water dissolves calcified mortar!)
-   * Void (Pale White) : 1.0x (Normal — Susceptible to soul disruption)
-   * Weight (Black)    : 0.5x (Endured — Massive monolithic basalt composition)
+   * Grudge : 1.0x (Normal — Absorbs heat through stone mass)
+   * Lament: 2.0x (Exposed Weakness — Water dissolves calcified mortar!)
+   * Void : 1.0x (Normal — Susceptible to soul disruption)
+   * Weight    : 0.5x (Endured — Massive monolithic basalt composition)
 
  TARGETABLE COMPONENT PARTS:
  1. Left Basalt Siege Hammer  (HP: 700 | Stagger: 250) — Overhead crushing smashes

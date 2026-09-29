@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — An ethereal trace that wanders through the Commons — a thin red line of heat drawn in the air, a faint disembodied voice travelling along it. Fever-cold, it smells of char; the path of someone still walking, long after they are gone. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Moving Stain* [**Debuff**] } | "A mark appears on your hand — then moves up your arm — it is alive, and it is migrating." | [The Trace's mobility allows it to spread across the target; the mark is exploring them.] | *Target suffers -10 Resilience; the stain is colonizing their body.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Trace touches the target. |
-| { *The Spreading Trail* [**Debuff**] } | "The trace leaves a trail wherever it goes — and the trail is also alive, and also spreading." | [The Trace's trail creates a network of contamination; the target is the terrain.] | *Target loses 10 Resilience; they are becoming the map of the trace's journey.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target moves. |
-| { *The Snap-Back* [**Attack**] } | "The wandering trace whips back — from wherever it roamed — and strikes like a returning projectile." | [ A returning trace-strike.] | *Inflicts Crimson pressure and one wound of delivered marks.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Trace is caught. |
-| { *The Full Migration* [**Attack**] } | "Every trace that ever wandered returns simultaneously — a swarm of returning marks." | [The Trace's complete migration-cycle releases all its stored resentment.] | *A heavy Crimson swarm; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Trace is trapped. |
-| { *The Traced World* [**Ultimate**] } | "Traces erupt across every surface in the field — all of them moving, all of them spreading, all of them marking." | [The Trace extends its wandering across the whole area.] | *All in range suffer Crimson pressure for three turns of roaming marks.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Moving Stain* [**Debuff**] } | "A mark appears on your hand — then moves up your arm — it is alive, and it is migrating." | [The Trace's mobility allows it to spread across the target; the mark is exploring them.] | *Target suffers -10 Resilience; the stain is colonizing their body.* **[10 Grudge DMG [Grudge]]** | When the Trace touches the target. |
+| { *The Spreading Trail* [**Debuff**] } | "The trace leaves a trail wherever it goes — and the trail is also alive, and also spreading." | [The Trace's trail creates a network of contamination; the target is the terrain.] | *Target loses 10 Resilience; they are becoming the map of the trace's journey.* **[10 Grudge DMG [Grudge]]** | When the target moves. |
+| { *The Snap-Back* [**Attack**] } | "The wandering trace whips back — from wherever it roamed — and strikes like a returning projectile." | [ A returning trace-strike.] | *Inflicts Grudge pressure and one wound of delivered marks.* **[14-22 Grudge DMG [Grudge]]** | When the Trace is caught. |
+| { *The Full Migration* [**Attack**] } | "Every trace that ever wandered returns simultaneously — a swarm of returning marks." | [The Trace's complete migration-cycle releases all its stored resentment.] | *A heavy Crimson swarm; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Trace is trapped. |
+| { *The Traced World* [**Ultimate**] } | "Traces erupt across every surface in the field — all of them moving, all of them spreading, all of them marking." | [The Trace extends its wandering across the whole area.] | *All in range suffer Grudge pressure for three turns of roaming marks.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Breach Type** | Transform |
 | **Movement** | Animus expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -195,7 +195,7 @@ The knives respond instantly to telekinetic hand gestures, flying through the ai
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ The knives respond instantly to telekinetic hand gestures, flying through the ai
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** an ember-charm of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Animus (O-Iα-108 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge (Crimson). The Trace formed from rage that outlived its original reason. Held at Zone D, Mantle Commons. The Trace's fury is older than any identified witness.
+Animus (O-Iα-108 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge. The Trace formed from rage that outlived its original reason. Held at Zone D, Mantle Commons. The Trace's fury is older than any identified witness.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through Mantle Commons and adjacent corridors. Personnel feel ancient anger without knowing its source. It produces weight without a stable physical body.
@@ -348,7 +348,7 @@ Some sorrows mourn a grievance. Animus mourns the lost cause — the anger carri
 > *“The fury, unresolvable, has nowhere to go. It drifts through the descendants.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-108 [GS]` · Grudge (Crimson) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-Iα-108 [GS]` · Grudge · Subject-Spirit manifestation
 **Common Name:** Animus
 **Containment Status:** Contained — Zone D, Mantle Commons
 **Comprehension Level:** 1 — Initial

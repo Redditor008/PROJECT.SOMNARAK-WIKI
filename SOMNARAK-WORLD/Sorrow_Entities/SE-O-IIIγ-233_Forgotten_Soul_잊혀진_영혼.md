@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A translucent figure, half-light and half-flesh, that weeps as it walks without pause — its face changing whenever someone tries to remember it. Salt-damp and faintly warm, it smells of cold rain; a soul no one can keep in mind. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unremembered* [**Debuff**] } | "The soul is here — present, aware, aching — and no one, anywhere, remembers it existed." | [The Soul's forgotten-ness infects the target; they feel the horror of being unknown.] | *Target suffers -10 Composure; they are beginning to be forgotten too.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target encounters the Soul. |
-| { *The Erased Life* [**Debuff**] } | "Every trace of the soul has been removed — and the removal itself left a wound in the world." | [The Soul's erasure creates a void that pulls at the target's own identity.] | *Target loses 10 Composure; they are being erased by proximity.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Phantom Touch* [**Attack**] } | "The forgotten soul reaches — and its touch is the feeling of being completely unknown." | [A spectral strike carrying the devastation of non-existence.] | *Inflicts Deep Blue pressure and one wound of total anonymity.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul is addressed. |
-| { *The Full Remembrance* [**Attack**] } | "The soul forces itself into memory — all of it, every forgotten moment — and the return is overwhelming." | [The Soul's complete recollection is devastating.] | *A heavy Deep Blue flood of returned existence; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul is forced to be remembered. |
-| { *Everyone Forgets* [**Ultimate**] } | "The forgotten soul's erasure spreads — until no one in the field remembers who they are." | [The Soul extends its forgotten-ness across the whole area.] | *All in range suffer Deep Blue pressure for three turns of being forgotten.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unremembered* [**Debuff**] } | "The soul is here — present, aware, aching — and no one, anywhere, remembers it existed." | [The Soul's forgotten-ness infects the target; they feel the horror of being unknown.] | *Target suffers -10 Composure; they are beginning to be forgotten too.* **[10 Lament DMG [Lament]]** | When the target encounters the Soul. |
+| { *The Erased Life* [**Debuff**] } | "Every trace of the soul has been removed — and the removal itself left a wound in the world." | [The Soul's erasure creates a void that pulls at the target's own identity.] | *Target loses 10 Composure; they are being erased by proximity.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Phantom Touch* [**Attack**] } | "The forgotten soul reaches — and its touch is the feeling of being completely unknown." | [A spectral strike carrying the devastation of non-existence.] | *Inflicts Lament pressure and one wound of total anonymity.* **[14-22 Lament DMG [Lament]]** | When the Soul is addressed. |
+| { *The Full Remembrance* [**Attack**] } | "The soul forces itself into memory — all of it, every forgotten moment — and the return is overwhelming." | [The Soul's complete recollection is devastating.] | *A heavy Lament flood of returned existence; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is forced to be remembered. |
+| { *Everyone Forgets* [**Ultimate**] } | "The forgotten soul's erasure spreads — until no one in the field remembers who they are." | [The Soul extends its forgotten-ness across the whole area.] | *All in range suffer Lament pressure for three turns of being forgotten.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a thread-band of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a thread-band of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Soul (O-IIIγ-233 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Soul formed from a person forgotten before their death was fully mourned. Held at Zone B, Old Lament. The face changes when a false name is offered.
+Forgotten Soul (O-IIIγ-233 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Soul formed from a person forgotten before their death was fully mourned. Held at Zone B, Old Lament. The face changes when a false name is offered.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Walks endlessly through Old Lament corridors. Personnel feel grief for a person they cannot identify. It becomes calmer when uncertainty is honestly acknowledged.
@@ -344,7 +344,7 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 > *“Present, unregistered, existing without the proof of existence.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-233 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-233 [LS]` · Lament · Subject-Lament manifestation
 **Common Name:** Forgotten Soul
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic

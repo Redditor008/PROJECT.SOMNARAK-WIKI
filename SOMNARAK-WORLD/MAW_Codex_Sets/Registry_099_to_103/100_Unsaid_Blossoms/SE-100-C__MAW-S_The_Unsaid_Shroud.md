@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Unsaid Shroud |
 | Set | Last Sentences |
-| Type / grade / element | Suit / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Suit / β — Moderate / Lament |
 | Status | Active; monitored for joy-numbing saturation |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Haneulash Yoon |

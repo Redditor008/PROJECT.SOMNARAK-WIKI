@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass lens with a sleeping wall line. It forms from exterior warmth after nonintrusive presence.
+A Void Han-glass lens with a sleeping wall line. It forms from exterior warmth after nonintrusive presence.
 
 Durivel severed a forced-contact field pressing on Bulwark while leaving the wall sealed. One nameless memory of being welcomed disappeared with the strike.
 

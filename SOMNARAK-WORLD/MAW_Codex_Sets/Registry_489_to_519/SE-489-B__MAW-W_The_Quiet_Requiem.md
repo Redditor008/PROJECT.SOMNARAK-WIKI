@@ -12,7 +12,7 @@
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 
-A deep-blue Han-crystal blade with a silent edge and luminous grievance lines. It forms after voluntary truth naming.
+A Lament Han-crystal blade with a silent edge and luminous grievance lines. It forms after voluntary truth naming.
 
 Durivel severed three coercive suppression paths from a dream field while leaving individual silence untouched. He wept for words no one remembered withholding.
 

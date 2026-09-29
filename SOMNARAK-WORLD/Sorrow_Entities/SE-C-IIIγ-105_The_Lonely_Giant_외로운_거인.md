@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Gentle and sad |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A twenty-meter humanoid of true flesh gone dense and dark — thickened, leaden tissue knotted with Han-crystal growths, warm and impossibly heavy. It walks slowly and with care, stepping around buildings and people as if afraid to break them. Its footfalls shake the ground; it smells of wet stone. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Long Reach* [**Debuff**] } | "Its arm comes from impossibly far away — loneliness has made it desperate to touch someone." | [The Giant reaches across the distance; its enormous hand closes near the target.] | *Target suffers -10 Resolve; the reach is inescapable.* **[10 Black DMG [Black / Weight]]** | When the Giant notices the target. |
-| { *The Empty Hand* [**Debuff**] } | "The hand closes on nothing — and the nothing is the worst part." | [The Giant grasps and finds no one; the rejection deepens its sorrow.] | *Target loses 10 Resolve under the weight of that loneliness.* **[10 Black DMG [Black / Weight]]** | When the target avoids the hand. |
-| { *The Heavy Step* [**Attack**] } | "One footstep, and the ground buckles for a hundred meters." | [The Giant treads forward; the impact alone is a blow.] | *Inflicts Black pressure and one tremor-wound.* **[14-22 Black DMG [Black / Weight]]** | When the Giant moves. |
-| { *The Solitary Howl* [**Attack**] } | "It howls for company — and the sound is heavy enough to break." | [A bellow of pure loneliness, dense with sorrow, crashes outward.] | *A heavy Black wave; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Giant is wounded or ignored. |
-| { *The Alone* [**Ultimate**] } | "It does not want to hurt you. It just cannot bear to be alone — and it will make you understand." | [The Giant spreads its loneliness across the field, pressing everyone into isolation.] | *All personnel suffer Black pressure for three turns under the weight of solitude.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Long Reach* [**Debuff**] } | "Its arm comes from impossibly far away — loneliness has made it desperate to touch someone." | [The Giant reaches across the distance; its enormous hand closes near the target.] | *Target suffers -10 Resolve; the reach is inescapable.* **[10 Weight DMG [Weight]]** | When the Giant notices the target. |
+| { *The Empty Hand* [**Debuff**] } | "The hand closes on nothing — and the nothing is the worst part." | [The Giant grasps and finds no one; the rejection deepens its sorrow.] | *Target loses 10 Resolve under the weight of that loneliness.* **[10 Weight DMG [Weight]]** | When the target avoids the hand. |
+| { *The Heavy Step* [**Attack**] } | "One footstep, and the ground buckles for a hundred meters." | [The Giant treads forward; the impact alone is a blow.] | *Inflicts Weight pressure and one tremor-wound.* **[14-22 Weight DMG [Weight]]** | When the Giant moves. |
+| { *The Solitary Howl* [**Attack**] } | "It howls for company — and the sound is heavy enough to break." | [A bellow of pure loneliness, dense with sorrow, crashes outward.] | *A heavy Black wave; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Giant is wounded or ignored. |
+| { *The Alone* [**Ultimate**] } | "It does not want to hurt you. It just cannot bear to be alone — and it will make you understand." | [The Giant spreads its loneliness across the field, pressing everyone into isolation.] | *All personnel suffer Weight pressure for three turns under the weight of solitude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -180,7 +180,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that pulses with the source sorrow when drawn.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that pulses with the source sorrow when drawn.
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -201,7 +201,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -219,7 +219,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a ring of black Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a ring of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Lonely Giant (C-IIIγ-105 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Giant formed from the sorrow of people who felt too large, too different, or too much for the world. Held at Zone D — wanders, semi-contained. The Giant has never intentionally harmed anyone.
+The Lonely Giant (C-IIIγ-105 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Giant formed from the sorrow of people who felt too large, too different, or too much for the world. Held at Zone D — wanders, semi-contained. The Giant has never intentionally harmed anyone.
 
 **Entry 2 — <Excerpt from Field Log, Year 4211>**
 Wanders through Zone D, carefully selecting routes. Personnel feel the weight of isolation; ground tremors may damage structures. It avoids structures even when doing so increases its own isolation.
@@ -360,7 +360,7 @@ Some sorrows are about belonging lost. The Lonely Giant's sorrow is about belong
 > *“Some people are too much for the world. The Giant is what too-much becomes.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-105 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-105 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Lonely Giant
 **Containment Status:** Semi-contained — Zone D, wanders
 **Comprehension Level:** 3 — Advanced

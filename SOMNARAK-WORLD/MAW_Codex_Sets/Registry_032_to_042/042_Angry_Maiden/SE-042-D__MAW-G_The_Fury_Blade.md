@@ -16,7 +16,7 @@
 |---|---|
 | Type | Accessory (Stigma) — blade pendant |
 | Grade | β — Moderate |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Slot | Tail |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Angry Maiden source record |

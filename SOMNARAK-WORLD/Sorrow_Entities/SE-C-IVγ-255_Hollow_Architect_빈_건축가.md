@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, building, never finishing |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A hollow humanoid architect — a body shaped around an empty interior, like a statue with nothing inside — carrying rolled plans of dark crystal. It builds without rest, but every structure it raises stays unfinished. Lead-cold and damp, it smells of wet stone and old dust. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Blueprint* [**Debuff**] } | "The architect unrolls a blueprint — and the building it shows has no interior. Only walls." | [The Architect's designs impose emptiness; the target feels their own interior hollowing.] | *Target suffers -10 Resolve; they are being redesigned from the inside.* **[10 Black DMG [Black / Weight]]** | When the target enters the Architect's space. |
-| { *The Load-Bearing Nothing* [**Debuff**] } | "Every structure the architect builds is supported by void — and the void is load-bearing." | [The Architect's hollow construction bears down on the target.] | *Target loses 10 Resolve; the emptiness is structural.* **[10 Black DMG [Black / Weight]]** | When the target lingers in the construction. |
-| { *The Falling Gargoyle* [**Attack**] } | "A stone face breaks free from the facade — designed to fall, designed to crush." | [A designed piece of architecture detaches and strikes.] | *Inflicts Black pressure and one heavy, intentional wound.* **[14-22 Black DMG [Black / Weight]]** | When the Architect is disturbed. |
-| { *The Full Demolition* [**Attack**] } | "The architect gives the order — and every hollow building comes down at once." | [The Architect commands total structural collapse.] | *A heavy Black demolition; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Architect is challenged. |
-| { *The City of Hollow Towers* [**Ultimate**] } | "Blueprints spread across the ground — and everywhere they reach, hollow towers rise." | [The Architect extends its design across the whole field.] | *All in range suffer Black pressure for three turns of rising hollow towers.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Blueprint* [**Debuff**] } | "The architect unrolls a blueprint — and the building it shows has no interior. Only walls." | [The Architect's designs impose emptiness; the target feels their own interior hollowing.] | *Target suffers -10 Resolve; they are being redesigned from the inside.* **[10 Weight DMG [Weight]]** | When the target enters the Architect's space. |
+| { *The Load-Bearing Nothing* [**Debuff**] } | "Every structure the architect builds is supported by void — and the void is load-bearing." | [The Architect's hollow construction bears down on the target.] | *Target loses 10 Resolve; the emptiness is structural.* **[10 Weight DMG [Weight]]** | When the target lingers in the construction. |
+| { *The Falling Gargoyle* [**Attack**] } | "A stone face breaks free from the facade — designed to fall, designed to crush." | [A designed piece of architecture detaches and strikes.] | *Inflicts Weight pressure and one heavy, intentional wound.* **[14-22 Weight DMG [Weight]]** | When the Architect is disturbed. |
+| { *The Full Demolition* [**Attack**] } | "The architect gives the order — and every hollow building comes down at once." | [The Architect commands total structural collapse.] | *A heavy Black demolition; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Architect is challenged. |
+| { *The City of Hollow Towers* [**Ultimate**] } | "Blueprints spread across the ground — and everywhere they reach, hollow towers rise." | [The Architect extends its design across the whole field.] | *All in range suffer Weight pressure for three turns of rising hollow towers.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that flickers with inner light.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -188,7 +188,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -206,7 +206,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a compass-charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a compass-charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollow Architect (C-IVγ-255 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Architect formed from the sorrow of building for a future that never came. Held at Zone B, Old Lament. Every structure lacks one essential element.
+Hollow Architect (C-IVγ-255 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Architect formed from the sorrow of building for a future that never came. Held at Zone B, Old Lament. Every structure lacks one essential element.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Old Lament, building as it moves. Unfinished rooms and structures appear around personnel. The Architect never enters a completed room.
@@ -344,7 +344,7 @@ Some sorrows mourn what was destroyed. Hollow Architect mourns what was never oc
 > *“Doorways drawn for people who disappeared. Windows placed for light no one will wake to.”* — Elder, Architects' Order
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** Hollow Architect
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 3 — Advanced

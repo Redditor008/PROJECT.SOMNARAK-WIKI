@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats reflecting anger |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A mirror that rises from the ground during surges of concentrated rage, its surface reflecting no face — only the anger itself, given form. Fever-cold, it smells of char; look in and you see your fury, not yourself. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Wet Reflection* [**Debuff**] } | "Your reflection in the water smiles when you do not." | [The Mirror shows the target a version of themselves warped by old grudge.] | *Target suffers -10 Resilience; the reflection knows their anger.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target looks into the Mirror. |
-| { *The Dripping Face* [**Debuff**] } | "The face in the water weeps — and the tears are yours, not its." | [The reflection's sorrow seeps outward; the target absorbs it.] | *Target loses 10 Resilience; grief that is not theirs weighs on them.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers at the surface. |
-| { *The Shattered Surface* [**Attack**] } | "The water breaks — and the hand that reaches up is your own." | [A hand erupts from the mirror-surface, dragging at the target.] | *Inflicts Crimson pressure and one grasping wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Mirror is disturbed. |
-| { *The Drowned Self* [**Attack**] } | "It pulls you under — to meet the version of you that sank here long ago." | [The Mirror drags the target toward their own angry reflection.] | *A heavy Crimson pull; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Mirror is struck. |
-| { *A Thousand Wet Faces* [**Ultimate**] } | "Every surface becomes a mirror — and every reflection wants out." | [The Mirror multiplies across every wet surface, reflections clawing free.] | *All in range suffer Crimson pressure for three turns among the drowned selves.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Wet Reflection* [**Debuff**] } | "Your reflection in the water smiles when you do not." | [The Mirror shows the target a version of themselves warped by old grudge.] | *Target suffers -10 Resilience; the reflection knows their anger.* **[10 Grudge DMG [Grudge]]** | When the target looks into the Mirror. |
+| { *The Dripping Face* [**Debuff**] } | "The face in the water weeps — and the tears are yours, not its." | [The reflection's sorrow seeps outward; the target absorbs it.] | *Target loses 10 Resilience; grief that is not theirs weighs on them.* **[10 Grudge DMG [Grudge]]** | When the target lingers at the surface. |
+| { *The Shattered Surface* [**Attack**] } | "The water breaks — and the hand that reaches up is your own." | [A hand erupts from the mirror-surface, dragging at the target.] | *Inflicts Grudge pressure and one grasping wound.* **[14-22 Grudge DMG [Grudge]]** | When the Mirror is disturbed. |
+| { *The Drowned Self* [**Attack**] } | "It pulls you under — to meet the version of you that sank here long ago." | [The Mirror drags the target toward their own angry reflection.] | *A heavy Crimson pull; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Mirror is struck. |
+| { *A Thousand Wet Faces* [**Ultimate**] } | "Every surface becomes a mirror — and every reflection wants out." | [The Mirror multiplies across every wet surface, reflections clawing free.] | *All in range suffer Grudge pressure for three turns among the drowned selves.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|---|
 | 10 Seconds | Mirror of Soaking rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Mirror of Soaking activates its primary resonance: Displays hidden anger and its original injustice. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of injustice left unnamed and anger treated as unacceptable; the bearer begins perceiving echoes of citizens swallowed rage under debt and order until suppressed anger became a reflective object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Mirror of Soaking begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Mirror of Soaking begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Mirror of Soaking too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Emotional escalation and projection of rage onto nearby people. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Mirror of Soaking: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Mirror of Soaking: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -251,7 +251,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a lens-pendant of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a lens-pendant of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Mirror of Soaking (N-IIβ-801 [GO]) is logged as a Object-Void manifestation expressing Grudge (Crimson). The Mirror formed from rage that could not be spoken safely. Held at Zone C, Collector's Row. Appears in Collector's Row where suppressed debt anger is concentrated.
+Mirror of Soaking (N-IIβ-801 [GO]) is logged as a Object-Void manifestation expressing Grudge. The Mirror formed from rage that could not be spoken safely. Held at Zone C, Collector's Row. Appears in Collector's Row where suppressed debt anger is concentrated.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The surface shows no physical reflection.
@@ -386,7 +386,7 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 > *“I looked and saw the full extent of the fury I had been trained to hold inside.”* — Citizen, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-801 [GO]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-801 [GO]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Object-Void manifestation
 **Common Name:** Mirror of Soaking
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 2 — Basic

@@ -12,9 +12,9 @@
 | **Coherence** | Entity (IV) — Self-aware, ancient, sealed |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A massive gate of black Han-crystal with no handle, lock, or hinges — a single unopening slab that predates the facility, found already sealed beneath the Alpha Tree. Bloodless-cold, it smells of ash; no one knows what it opens onto. |
+| **Physical Form** | Non-Organic — A massive gate of Weight Han-crystal with no handle, lock, or hinges — a single unopening slab that predates the facility, found already sealed beneath the Alpha Tree. Bloodless-cold, it smells of ash; no one knows what it opens onto. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Threshold* [**Debuff**] } | "You stand at the gate — and the gate knows you mean to pass." | [The Gate marks the target; the threshold remembers them.] | *Target suffers a Void mark; the gate is aware of their intent.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Gate. |
-| { *The Pull Through* [**Debuff**] } | "Something beyond the gate is calling — and the calling gets harder to refuse." | [The void beyond the Gate tugs at the target; the pull toward what waits.] | *Target loses clarity; they drift toward the threshold.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers at the Gate. |
-| { *The Iron Bar* [**Attack**] } | "The gate slams shut on whoever lingers too long in the frame." | [A heavy bar drops — the Gate punishes the hesitant.] | *Inflicts Void damage; a portion of the target is sheared away.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target blocks the threshold. |
-| { *What Waits Beyond* [**Attack**] } | "The gate opens a crack — and what is beyond reaches through." | [The void behind the Gate spills through in a focused rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Gate is forced or struck. |
-| { *The Gate Opens Wide* [**Ultimate**] } | "The gate swings open — and the void pours through unchecked." | [The Gate opens fully, flooding the area with what lies beyond.] | *All in range suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Threshold* [**Debuff**] } | "You stand at the gate — and the gate knows you mean to pass." | [The Gate marks the target; the threshold remembers them.] | *Target suffers a Void mark; the gate is aware of their intent.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Gate. |
+| { *The Pull Through* [**Debuff**] } | "Something beyond the gate is calling — and the calling gets harder to refuse." | [The void beyond the Gate tugs at the target; the pull toward what waits.] | *Target loses clarity; they drift toward the threshold.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers at the Gate. |
+| { *The Iron Bar* [**Attack**] } | "The gate slams shut on whoever lingers too long in the frame." | [A heavy bar drops — the Gate punishes the hesitant.] | *Inflicts Void damage; a portion of the target is sheared away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target blocks the threshold. |
+| { *What Waits Beyond* [**Attack**] } | "The gate opens a crack — and what is beyond reaches through." | [The void behind the Gate spills through in a focused rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Gate is forced or struck. |
+| { *The Gate Opens Wide* [**Ultimate**] } | "The gate swings open — and the void pours through unchecked." | [The Gate opens fully, flooding the area with what lies beyond.] | *All in range suffer Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -98,7 +98,7 @@
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in its dossier.
 
 ## Appearance
-**Physical Form:** A massive black Han-crystal gate without handle, lock, or hinges. It predates the facility.
+**Physical Form:** A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility.
 
 **Notable Features:** It is cold outside and warm within, whispers in an unknown language, and has never opened.
 
@@ -106,7 +106,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A massive black Han-crystal gate without handle, lock, or hinges. It predates the facility.
+- **Primary marker:** A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility.
 - **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree deep vault — sealed
@@ -115,7 +115,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive black Han-crystal gate without handle, lock, or hinges. It predates the facility. |
+| **Form** | A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
@@ -186,7 +186,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Sorrow Gate: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Sorrow Gate: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Sorrow Gate: it is not a generic breach ev
 
 **Type:** Weapon | **Grade:** δ (Critical) | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Sorrow Gate's void signature in the strike.
 
@@ -220,7 +220,7 @@ The escalation pattern is specific to Sorrow Gate: it is not a generic breach ev
 
 **Type:** Armor (Suit) | **Grade:** δ (Critical) | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Sorrow Gate's kind of pressure.
 
@@ -230,7 +230,7 @@ The escalation pattern is specific to Sorrow Gate: it is not a generic breach ev
 
 **Type:** Accessory (Stigma) | **Grade:** δ (Critical) | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Ability:** Grants a minor boon tied to Sorrow Gate's sorrow; the effect mirrors the entity's nature.
 
@@ -280,7 +280,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sorrow Gate (C-IVδ-252 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). Unknown. The Gate formed around a promise no one remembers making. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. It predates all current records.
+Sorrow Gate (C-IVδ-252 [VO]) is logged as a Object-Void manifestation expressing Void. Unknown. The Gate formed around a promise no one remembers making. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. It predates all current records.
 
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 Something warm and apparently alive exists beyond it.
@@ -309,7 +309,7 @@ The vault becomes older as you approach. The Gate is black, smooth, and without 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A massive black Han-crystal gate without handle, lock, or hinges. It predates the facility. Notable Features: It is cold outside and warm within, whispers in an unknown language, and has never opened. Identification Profile: The record. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
+**At first contact:** The first identifiable detail is Physical Form: A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility. Notable Features: It is cold outside and warm within, whispers in an unknown language, and has never opened. Identification Profile: The record. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Void pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
@@ -364,7 +364,7 @@ Some sorrows are about what was done. Sorrow Gate is about what was prevented �
 > *“The Gate does not invite opening. It warns against it by the completeness of its sealing.”* — Warden, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-252` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-252` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Object-Void manifestation
 **Common Name:** Sorrow Gate
 **Containment Status:** Contained — beneath Alpha Tree (sealed)
 **Comprehension Level:** 4 — Mastered

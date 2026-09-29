@@ -97,7 +97,7 @@ The six major operations of the Katharcheok campaign target six critical nodes o
 
 ### 2.3 Operation 3: Messischwi (착취구 / 抽出搾取, Zone B — The Low Sinks)
 - **Sector Topology:** A subterranean industrial slaughterhouse complex located in the deepest flood basins of Zone B, where the runoff from surface tanneries and chemical plants gathers in boiling, toxic pools.
-- **The Criminal Enterprise:** The Harvesters Fray, commanded by Warlord Boknam ("The Meat Hook"). Operating a human cattle-pen network, the Harvesters kidnap outer-slum refugees, strap them into pneumatic extraction chairs, and chemically induce terror and grief. By harvesting the resulting concentrated sorrow fluids (*Crimson Han-Brine*), the cartel manufactures illicit combat stimulants and black-market fuel canisters that bypass municipal taxation.
+- **The Criminal Enterprise:** The Harvesters Fray, commanded by Warlord Boknam ("The Meat Hook"). Operating a human cattle-pen network, the Harvesters kidnap outer-slum refugees, strap them into pneumatic extraction chairs, and chemically induce terror and grief. By harvesting the resulting concentrated sorrow fluids (*Grudge Han-Brine*), the cartel manufactures illicit combat stimulants and black-market fuel canisters that bypass municipal taxation.
 - **Tactical Breaching Objectives:**
   1. Infiltrate the lower floodway culverts using lead-lined rubber wading suits.
   2. Neutralize the perimeter sentry turrets without triggering the hydraulic sluice gates that would drown the prison pens.

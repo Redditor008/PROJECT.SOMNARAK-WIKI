@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A Tail-mounted mirror tile of crimson Han-iron. Vanity bestows it after successful work at a 5% probability.
+A Tail-mounted mirror tile of Grudge Han-iron. Vanity bestows it after successful work at a 5% probability.
 
 ## Appearance
 

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Returning Veil |
 | Set | Return Without Reclaiming |
-| Type / grade / element | Suit / δ — Critical / Void — Pale White |
+| Type / grade / element | Suit / δ — Critical / Void |
 | Status | Emergency return-loop issue only |
 | Maximum amount | 2 — Limited |
 | Current bearer | Chronicler Minseo |

@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Location | SECTOR-E-01, Gate approach |
 | Form | An ancient armored sentinel, nearly hidden inside scarred Han-crystal plate; its weapon remains lowered until a passage is threatened. |
 | Gauge / pressure | 60–80% / Grudge 29–62 |

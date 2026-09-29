@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place, I-Relic — Object-Void |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | SECTOR-A-01, near the Orphaned Bell |
 | Form | A pale silent bell shaped like the Orphaned Bell, absorbing sound instead of making it—the Bell’s hushed twin. |
 | Gauge / pressure | 35–50% / Void 8–20 |

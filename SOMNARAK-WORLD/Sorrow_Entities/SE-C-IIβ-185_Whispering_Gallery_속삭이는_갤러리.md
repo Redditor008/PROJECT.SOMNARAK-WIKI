@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats whispering |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Non-Organic — A long gallery of old oil portraits — faceless paintings lining the walls, their blank oval faces humming with overlapping whispers. The paint is cracked and salt-damp; the portraits lean forward as if to speak. It smells of cold rain and old canvas. |
 | **Movement** | Stationary — an artwork. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Whisper* [**Debuff**] } | "A voice you almost recognize breathes a secret you never told anyone." | [A whisper surfaces in the Gallery; the target hears their own secret spoken back.] | *Target suffers -10 Composure; something private has been exposed.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the Gallery. |
-| { *The Echo Chamber* [**Debuff**] } | "The whisper repeats — and multiplies — until the walls are full of it." | [The whisper echoes and breeds; the secret grows louder.] | *Target loses 10 Composure; the walls will not stop talking.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains in the Gallery. |
-| { *The Spoken Truth* [**Attack**] } | "The gallery says aloud the one thing you never wanted heard — and it cuts." | [A revealed truth strikes like a blade.] | *Inflicts Deep Blue pressure and one wound of exposure.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Gallery is provoked. |
-| { *The Chorus of Lies* [**Attack**] } | "Every voice in the gallery speaks at once — and none of them agree." | [A wall of contradictory whispers overwhelms the target.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Gallery is commanded or struck. |
-| { *Every Secret Told* [**Ultimate**] } | "The gallery gives up every secret it ever collected — all at once." | [The Gallery unleashes every whispered confidence it holds.] | *All in range suffer Deep Blue pressure for three turns in the cacophony.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Whisper* [**Debuff**] } | "A voice you almost recognize breathes a secret you never told anyone." | [A whisper surfaces in the Gallery; the target hears their own secret spoken back.] | *Target suffers -10 Composure; something private has been exposed.* **[10 Lament DMG [Lament]]** | When the target enters the Gallery. |
+| { *The Echo Chamber* [**Debuff**] } | "The whisper repeats — and multiplies — until the walls are full of it." | [The whisper echoes and breeds; the secret grows louder.] | *Target loses 10 Composure; the walls will not stop talking.* **[10 Lament DMG [Lament]]** | When the target remains in the Gallery. |
+| { *The Spoken Truth* [**Attack**] } | "The gallery says aloud the one thing you never wanted heard — and it cuts." | [A revealed truth strikes like a blade.] | *Inflicts Lament pressure and one wound of exposure.* **[14-22 Lament DMG [Lament]]** | When the Gallery is provoked. |
+| { *The Chorus of Lies* [**Attack**] } | "Every voice in the gallery speaks at once — and none of them agree." | [A wall of contradictory whispers overwhelms the target.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Gallery is commanded or struck. |
+| { *Every Secret Told* [**Ultimate**] } | "The gallery gives up every secret it ever collected — all at once." | [The Gallery unleashes every whispered confidence it holds.] | *All in range suffer Lament pressure for three turns in the cacophony.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic br
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)
@@ -200,7 +200,7 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic br
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -218,7 +218,7 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic br
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small stone of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Whispering Gallery (C-IIβ-185 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Gallery formed from lives displayed without being remembered. Held at SECTOR-B-01, Zone B. Portraits change when a forgotten name is restored.
+Whispering Gallery (C-IIβ-185 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Gallery formed from lives displayed without being remembered. Held at SECTOR-B-01, Zone B. Portraits change when a forgotten name is restored.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 The floor hums near older memories.
@@ -356,7 +356,7 @@ Some sorrows mourn the forgotten. Whispering Gallery mourns the half-remembered 
 > *“Beautiful portraits, unnamed, asking every visitor: do you know me?”* — Mender, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-185 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-185 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** Whispering Gallery
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

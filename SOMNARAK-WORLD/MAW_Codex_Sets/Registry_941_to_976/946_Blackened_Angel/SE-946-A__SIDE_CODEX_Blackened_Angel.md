@@ -21,7 +21,7 @@ Blackened Angel was once a pure golden wishing-angel in a city alcove — a smal
 | Source designation | C-IVγ-946 [WO] |
 | Type / Manifestation | Object — Can breach via Transform/activation / Object-Tale |
 | Coherence / Potency | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt / Major (γ) |
-| Element / Location | Weight (Black) / The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site) |
+| Element / Location | Weight / The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site) |
 | Gauge / Pressure | 640/640; starts 55–75% (it begins each cycle already heavy with old wishes) / 12–26 per hit · Weight |
 | Observation | 3 — Monitored |
 | Formation event | A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear. |
@@ -52,7 +52,7 @@ During the The Blackened Angel Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Blackened Angel's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand The set cannot heal the originating event. Misuse routes Blackened Angel's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Blackened Angel's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand The set cannot heal the originating event. Misuse routes Blackened Angel's wound through the operator and triggers the recorded escalation.
 
 ---
 

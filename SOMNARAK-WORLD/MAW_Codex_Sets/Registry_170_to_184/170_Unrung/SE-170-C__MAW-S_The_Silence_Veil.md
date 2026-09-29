@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Soundless Velvet Cassock |
 | Set | Heard Warning |
-| Type / grade / element | Suit / β — Moderate / Void — Pale White |
+| Type / grade / element | Suit / β — Moderate / Void |
 | Status | Active; external alert chain required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Hanul Grey |

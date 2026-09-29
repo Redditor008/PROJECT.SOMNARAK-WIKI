@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A small humanoid of melting crimson wax, speaking in a whisper that dissolves into nothing before it can be heard. Fever-warm, it smells of char and tallow; a confession that melts before it finishes. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slurred Word* [**Debuff**] } | "A whisper reaches you — but the words run together, losing their shape." | [The Whisper's words melt mid-air; the target catches half-formed meaning.] | *Target suffers -10 Resilience; their own thoughts begin to blur.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Whisper is heard. |
-| { *The Dripping Secret* [**Debuff**] } | "The whisper drips — each drop a syllable that loses its edge before it lands." | [The melting words pool at the target's feet; meaning dissolves.] | *Target loses 10 Resilience; they cannot hold a thought.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target listens. |
-| { *The Hot Breath* [**Attack**] } | "The whisper heats — and now it is not words but molten sound." | [A blast of superheated whisper-stuff strikes the target.] | *Inflicts Crimson pressure and one burning, formless wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Whisper is disturbed. |
-| { *The Slag Word* [**Attack**] } | "Every word the whisper ever said runs together into one molten mass — and it is flung." | [The accumulated melted speech solidifies into a projectile.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Whisper is silenced. |
-| { *The Babble* [**Ultimate**] } | "Every melted word in the place runs together — a flood of molten, meaningless sound." | [The Whisper releases its entire molten vocabulary at once.] | *All personnel suffer Crimson pressure for three turns in the slag-flood.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slurred Word* [**Debuff**] } | "A whisper reaches you — but the words run together, losing their shape." | [The Whisper's words melt mid-air; the target catches half-formed meaning.] | *Target suffers -10 Resilience; their own thoughts begin to blur.* **[10 Grudge DMG [Grudge]]** | When the Whisper is heard. |
+| { *The Dripping Secret* [**Debuff**] } | "The whisper drips — each drop a syllable that loses its edge before it lands." | [The melting words pool at the target's feet; meaning dissolves.] | *Target loses 10 Resilience; they cannot hold a thought.* **[10 Grudge DMG [Grudge]]** | When the target listens. |
+| { *The Hot Breath* [**Attack**] } | "The whisper heats — and now it is not words but molten sound." | [A blast of superheated whisper-stuff strikes the target.] | *Inflicts Grudge pressure and one burning, formless wound.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is disturbed. |
+| { *The Slag Word* [**Attack**] } | "Every word the whisper ever said runs together into one molten mass — and it is flung." | [The accumulated melted speech solidifies into a projectile.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is silenced. |
+| { *The Babble* [**Ultimate**] } | "Every melted word in the place runs together — a flood of molten, meaningless sound." | [The Whisper releases its entire molten vocabulary at once.] | *All personnel suffer Grudge pressure for three turns in the slag-flood.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -199,7 +199,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -217,7 +217,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a word-tile of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a word-tile of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Aphasia (O-Iα-720 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Whisper formed from anger that could no longer hold a complete sentence. Held at Zone B, Old Lament — ambient. Its form changes according to the words being spoken.
+Aphasia (O-Iα-720 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Whisper formed from anger that could no longer hold a complete sentence. Held at Zone B, Old Lament — ambient. Its form changes according to the words being spoken.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drifts through Old Lament corridors as a melting shadow. Personnel hear fragments of accusations and supply their own causes. It reforms when its final fragment is repeated.
@@ -352,7 +352,7 @@ Some sorrows are about silence. Aphasia is about the interrupted — the report 
 > *“The testimony prevented from completing.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-720 [GS]` · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `O-Iα-720 [GS]` · Grudge · Subject-Body manifestation
 **Common Name:** Aphasia
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 1 — Initial

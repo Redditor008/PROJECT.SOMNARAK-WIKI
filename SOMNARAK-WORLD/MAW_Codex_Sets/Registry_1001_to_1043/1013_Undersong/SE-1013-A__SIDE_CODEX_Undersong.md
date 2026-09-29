@@ -21,7 +21,7 @@ The Echo formed from calls for help that went unanswered. The despair of asking 
 | Source designation | N-IIα-125 [VS] |
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats calling out / Minor (α) — Low danger |
-| Element / Location | Void (Pale White) / Zone D, Echo Gardens — ambient |
+| Element / Location | Void / Zone D, Echo Gardens — ambient |
 | Gauge / Pressure | 201/201; starts 25–40% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored. |
@@ -52,7 +52,7 @@ During the The Undersong Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Undersong's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Answer: “I hear you.” Never promise help you cannot provide The set cannot heal the originating event. Misuse routes Undersong's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Undersong's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stays only the immediate manifestation that violates this rule: Answer: “I hear you.” Never promise help you cannot provide The set cannot heal the originating event. Misuse routes Undersong's wound through the operator and triggers the recorded escalation.
 
 ---
 

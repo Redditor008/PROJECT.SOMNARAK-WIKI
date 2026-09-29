@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place, I-Relic — Object-Grudge |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Location | SECTOR-B-01, Zone B |
 | Form | Two links of grown, vertebra-ridged crimson chain that bind a wearer and compel relentless dance-like movement. |
 | Gauge / pressure | 45–65% / Grudge 18–41 |

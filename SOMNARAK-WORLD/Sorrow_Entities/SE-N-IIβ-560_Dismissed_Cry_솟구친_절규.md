@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A crystallized scream floating in the air — a red object the size of a fist, with a torn mouth-like opening exhaling silent heat. Fever-hot, it smells of char; a shout made solid, pressing the chest. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Wet Cry* [**Debuff**] } | "A scream — but wet, waterlogged, heavy with old tears — and each syllable drips with accumulated grief." | [The Scream's sorrow-saturated sound lands on the target; they feel the weight.] | *Target suffers -10 Resilience; the scream is heavier than sound should be.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target hears the Scream. |
-| { *The Rising Flood* [**Debuff**] } | "The scream does not stop — and the sorrow-water it generates rises, ankle-deep, knee-deep, climbing." | [The Scream's runoff accumulates; the target is wading in grief.] | *Target loses 10 Resilience; the scream is generating a flood.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target remains. |
-| { *The Sonic Splash* [**Attack**] } | "The scream sharpens — and the concentrated sorrow-water becomes a blade of wet sound." | [A focused scream-strike, liquid and sharp.] | *Inflicts Crimson pressure and one wound of waterlogged rage.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Scream is interrupted. |
-| { *The Full Deluge* [**Attack**] } | "Every scream the entity ever held — released at once — a waterfall of sorrow-saturated sound." | [The Scream's total release is a flood of grief and rage.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Scream is silenced. |
-| { *The Drowning Din* [**Ultimate**] } | "The sorrow-water from every scream fills the field — and the screaming does not stop, and the water does not recede." | [The Scream extends its soaking across the whole area.] | *All in range suffer Crimson pressure for three turns of drowning screams.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Wet Cry* [**Debuff**] } | "A scream — but wet, waterlogged, heavy with old tears — and each syllable drips with accumulated grief." | [The Scream's sorrow-saturated sound lands on the target; they feel the weight.] | *Target suffers -10 Resilience; the scream is heavier than sound should be.* **[10 Grudge DMG [Grudge]]** | When the target hears the Scream. |
+| { *The Rising Flood* [**Debuff**] } | "The scream does not stop — and the sorrow-water it generates rises, ankle-deep, knee-deep, climbing." | [The Scream's runoff accumulates; the target is wading in grief.] | *Target loses 10 Resilience; the scream is generating a flood.* **[10 Grudge DMG [Grudge]]** | When the target remains. |
+| { *The Sonic Splash* [**Attack**] } | "The scream sharpens — and the concentrated sorrow-water becomes a blade of wet sound." | [A focused scream-strike, liquid and sharp.] | *Inflicts Grudge pressure and one wound of waterlogged rage.* **[14-22 Grudge DMG [Grudge]]** | When the Scream is interrupted. |
+| { *The Full Deluge* [**Attack**] } | "Every scream the entity ever held — released at once — a waterfall of sorrow-saturated sound." | [The Scream's total release is a flood of grief and rage.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Scream is silenced. |
+| { *The Drowning Din* [**Ultimate**] } | "The sorrow-water from every scream fills the field — and the screaming does not stop, and the water does not recede." | [The Scream extends its soaking across the whole area.] | *All in range suffer Grudge pressure for three turns of drowning screams.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|---|
 | 10 Seconds | Dismissed Cry rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Dismissed Cry activates its primary resonance: Releases the emotional force of the original protest. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of a person whose protest was converted into noise by everyone who heard it; the bearer begins perceiving echoes of a witness screamed against an injustice in the desolate; the cry crystallized after being ignored. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Dismissed Cry begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Dismissed Cry begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Dismissed Cry too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may speak the scream through their own body. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Dismissed Cry: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Dismissed Cry: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The interior contains the preserved breath and final unuttered declarations of c
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -251,7 +251,7 @@ The interior contains the preserved breath and final unuttered declarations of c
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Dismissed Cry (N-IIβ-560 [D]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Scream formed from anger that had no safe voice. Held at The Desolate, near The Scar. It produces pressure rather than sound.
+Dismissed Cry (N-IIβ-560 [D]) is logged as a Object-Grudge manifestation expressing Grudge. The Scream formed from anger that had no safe voice. Held at The Desolate, near The Scar. It produces pressure rather than sound.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Tears reduce its density.
@@ -386,7 +386,7 @@ Some sorrows are about silence. Dismissed Cry is about the hearing that is not r
 > *“The listener processed volume and discarded meaning. The scream carries the meaning no one received.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-560 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-560 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Object-Grudge manifestation
 **Common Name:** Dismissed Cry
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic

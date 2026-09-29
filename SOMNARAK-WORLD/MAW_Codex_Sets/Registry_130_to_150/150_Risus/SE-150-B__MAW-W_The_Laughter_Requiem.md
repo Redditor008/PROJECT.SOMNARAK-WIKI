@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Laughter Requiem |
 | Set | Joy After |
-| Type / grade / element | Weapon / α — Minor / Lament — Deep Blue |
+| Type / grade / element | Weapon / α — Minor / Lament |
 | Status | Active; joy-and-loss witness required |
 | Maximum amount | 5 — Standard |
 | Current bearer | Chronicler Minseo |

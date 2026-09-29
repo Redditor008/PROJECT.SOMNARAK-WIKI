@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning humanoid clad in fragments of a shattered wall — stone shards fused to a body of fire and flesh, dragging itself along border lines. Fever-hot, it smells of char; a wall that fell, got up, and now walks the edge. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Loose Stone* [**Debuff**] } | "A stone falls from the wall — and the gap it leaves is exactly the shape of your weakest defense." | [The Wall crumbles; the target's defenses crack in sympathy.] | *Target suffers -10 Resilience; their own walls are failing.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target leans on the Wall. |
-| { *The Spreading Crack* [**Debuff**] } | "The crack widens — through the wall, through you, through everything you thought was solid." | [The Wall's fracture propagates; the target's composure splinters.] | *Target loses 10 Resilience; nothing holds.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stays near the break. |
-| { *The Falling Masonry* [**Attack**] } | "A section of wall gives way — heavy, final, aimed." | [A mass of broken wall collapses on the target.] | *Inflicts Crimson pressure and one crushing, structural wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Wall is struck. |
-| { *The Full Breach* [**Attack**] } | "The whole wall comes down — and everything it was holding back floods through." | [The Wall collapses entirely; the held-back fury is released.] | *A heavy Crimson breach; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Wall is demolished. |
-| { *Every Wall Falls* [**Ultimate**] } | "The wall is contagious — now every barrier in the place is crumbling." | [The Wall's failure spreads to every surface.] | *All personnel suffer Crimson pressure for three turns as everything collapses.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Loose Stone* [**Debuff**] } | "A stone falls from the wall — and the gap it leaves is exactly the shape of your weakest defense." | [The Wall crumbles; the target's defenses crack in sympathy.] | *Target suffers -10 Resilience; their own walls are failing.* **[10 Grudge DMG [Grudge]]** | When the target leans on the Wall. |
+| { *The Spreading Crack* [**Debuff**] } | "The crack widens — through the wall, through you, through everything you thought was solid." | [The Wall's fracture propagates; the target's composure splinters.] | *Target loses 10 Resilience; nothing holds.* **[10 Grudge DMG [Grudge]]** | When the target stays near the break. |
+| { *The Falling Masonry* [**Attack**] } | "A section of wall gives way — heavy, final, aimed." | [A mass of broken wall collapses on the target.] | *Inflicts Grudge pressure and one crushing, structural wound.* **[14-22 Grudge DMG [Grudge]]** | When the Wall is struck. |
+| { *The Full Breach* [**Attack**] } | "The whole wall comes down — and everything it was holding back floods through." | [The Wall collapses entirely; the held-back fury is released.] | *A heavy Crimson breach; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Wall is demolished. |
+| { *Every Wall Falls* [**Ultimate**] } | "The wall is contagious — now every barrier in the place is crumbling." | [The Wall's failure spreads to every surface.] | *All personnel suffer Grudge pressure for three turns as everything collapses.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Breach Type** | Escape |
 | **Movement** | Welcome Haven tears loose and pursues personnel with deliberate steps. It expands, crushing corridors shut. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -195,7 +195,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a barrier-plate of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a barrier-plate of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Welcome Haven (O-IVδ-897 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge (Crimson). The entity formed from a wall that failed to protect the people behind it. Held at Zone E, Border region. It patrols former wall lines.
+Welcome Haven (O-IVδ-897 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The entity formed from a wall that failed to protect the people behind it. Held at Zone E, Border region. It patrols former wall lines.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves along the Zone E border and watchtowers. Personnel feel betrayal by institutions meant to protect them. It attacks representations of false security more than individuals.
@@ -348,7 +348,7 @@ Some sorrows mourn a collapse. Welcome Haven mourns the broken promise — the w
 > *“The specific, permanent anger of people promised safety and given exposure.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Grudge (Crimson) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Grudge · Subject-Grudge manifestation
 **Common Name:** Welcome Haven
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic

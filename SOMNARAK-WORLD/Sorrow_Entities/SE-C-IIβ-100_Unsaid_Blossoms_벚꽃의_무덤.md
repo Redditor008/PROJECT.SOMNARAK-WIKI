@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats blooming |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A grave beneath a cherry tree of true living wood whose blossoms are pale crystal, blooming out of season and falling without any wind. The petals are salt-cold and never rot; the gravestone is damp. It smells of cold rain and old flowers. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Falling Petals* [**Debuff**] } | "Cherry blossoms drift down — and each petal carries the memory of someone who is gone." | [The Grave's blossoms carry old grief; each one that touches the target plants a sorrow.] | *Target suffers -10 Composure; the petals are graves in miniature.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands beneath the tree. |
-| { *The Rooted Sorrow* [**Debuff**] } | "The tree grows from the grave — and the roots are made of the grief beneath it." | [The Grave's root-network carries concentrated mourning upward.] | *Target loses 10 Composure; the beauty is a veil over death.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers among the blossoms. |
-| { *The Petal Blade* [**Attack**] } | "A blossom hardens mid-fall — becoming a sharp, pink blade." | [A petal transforms and slashes.] | *Inflicts Deep Blue pressure and one beautiful, stinging cut.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Grave is disturbed. |
-| { *The Full Bloom and Fall* [**Attack**] } | "Every blossom opens at once — and then every blossom falls, and the falling is a funeral." | [The Grave's complete bloom-and-fall cycle releases all its accumulated grief.] | *A heavy Deep Blue cascade; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the tree is struck. |
-| { *The Eternal Spring* [**Ultimate**] } | "The blossoms never stop falling — and beneath them, everyone is grieving, forever." | [The Grave extends its beautiful mourning across the whole field.] | *All in range suffer Deep Blue pressure for three turns of endless blossoms.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Falling Petals* [**Debuff**] } | "Cherry blossoms drift down — and each petal carries the memory of someone who is gone." | [The Grave's blossoms carry old grief; each one that touches the target plants a sorrow.] | *Target suffers -10 Composure; the petals are graves in miniature.* **[10 Lament DMG [Lament]]** | When the target stands beneath the tree. |
+| { *The Rooted Sorrow* [**Debuff**] } | "The tree grows from the grave — and the roots are made of the grief beneath it." | [The Grave's root-network carries concentrated mourning upward.] | *Target loses 10 Composure; the beauty is a veil over death.* **[10 Lament DMG [Lament]]** | When the target lingers among the blossoms. |
+| { *The Petal Blade* [**Attack**] } | "A blossom hardens mid-fall — becoming a sharp, pink blade." | [A petal transforms and slashes.] | *Inflicts Lament pressure and one beautiful, stinging cut.* **[14-22 Lament DMG [Lament]]** | When the Grave is disturbed. |
+| { *The Full Bloom and Fall* [**Attack**] } | "Every blossom opens at once — and then every blossom falls, and the falling is a funeral." | [The Grave's complete bloom-and-fall cycle releases all its accumulated grief.] | *A heavy Deep Blue cascade; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the tree is struck. |
+| { *The Eternal Spring* [**Ultimate**] } | "The blossoms never stop falling — and beneath them, everyone is grieving, forever." | [The Grave extends its beautiful mourning across the whole field.] | *All in range suffer Lament pressure for three turns of endless blossoms.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Unsaid Blossoms: it is not a generic breac
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that hums faintly when gripped.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Unsaid Blossoms: it is not a generic breac
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Unsaid Blossoms: it is not a generic breac
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a petal-tile of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a petal-tile of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Unsaid Blossoms (C-IIβ-100 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Grave formed from words never spoken to the dead. Held at SECTOR-D-02, Echo Gardens. Blossoms bloom more heavily during the Sorrow Tide.
+Unsaid Blossoms (C-IIβ-100 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Grave formed from words never spoken to the dead. Held at SECTOR-D-02, Echo Gardens. Blossoms bloom more heavily during the Sorrow Tide.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 No physical body has been recovered beneath the grave.
@@ -360,7 +360,7 @@ Some sorrows mourn what was lost. The Grave mourns what was never said — and f
 > *“The cherry tree flowers with everything we should have said.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-100 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-100 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** Unsaid Blossoms
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

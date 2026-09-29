@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Spirit |
 | **Physical Form** | Organic — A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void / Pale White]]** | When the entity first fixes on a target. |
-| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void spirit sorrow.] | *Void damage strikes the target; the gauge spikes.* **[15 Void DMG [Void / Pale White]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void / Pale White]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[17 Void DMG [Void / Pale White] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
+| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void spirit sorrow.] | *Void damage strikes the target; the gauge spikes.* **[15 Void DMG [Void]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void]]** | When the entity is cornered or starved. |
+| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[17 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -101,7 +101,7 @@
 **Primary Form:** A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within.
 
 **Notable Features:**
-- Expresses Void (Pale White) pressure in a spirit register.
+- Expresses Void pressure in a spirit register.
 - The object form is unmistakable — this is a spirit entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -197,12 +197,12 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 |---|---|---|
 | 10 Seconds | Lacrima rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Lacrima activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged void; the bearer begins perceiving echoes of a crisis in the city where void went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Lacrima begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Lacrima begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Lacrima too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Prolonged contact causes cognitive and emotional fatigue. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Lacrima: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-N-905, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Lacrima: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-N-905, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -226,7 +226,7 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a single-edged blade of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
 
 **Damage:** Void 8–16
 **Speed:** 2 (Normal)
@@ -247,7 +247,7 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -265,7 +265,7 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -357,7 +357,7 @@ The entity does not rage. It does not weep. It persists — spirit and void, pat
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-905 [VO]` · Inner Sorrow origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Object-Spirit manifestation
+**Classification:** Sorrow Entity — `N-Iα-905 [VO]` · Inner Sorrow origin · Residue (I) coherence · Minor (α) potency · Void · Object-Spirit manifestation
 
 **Common Name:** Lacrima
 
@@ -372,7 +372,7 @@ The entity does not rage. It does not weep. It persists — spirit and void, pat
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the spirit register specifically — it is the primary channel of contact.
 
-**Cross-References:** Inner Sorrow (내한) · Void (Pale White) · Object-Spirit · Manifestation Classification
+**Cross-References:** Inner Sorrow (내한) · Void · Object-Spirit · Manifestation Classification
 
 ### Registry Addendum
 

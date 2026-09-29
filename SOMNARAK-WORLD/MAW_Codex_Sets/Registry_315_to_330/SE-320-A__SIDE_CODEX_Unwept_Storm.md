@@ -22,7 +22,7 @@
 | Entity | Unwept Storm — 슬픔의 폭풍 |
 | Type / Manifestation | Object/Place — Place-Weight |
 | Coherence / Potency | V — Sovereign / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | City-wide black Han clouds, dark crystal rain, and pressure that bends structures out of true. |
 | Gauge / Pressure | 45–65% / Weight 13–30 |
 | Observation | 2 — Basic |

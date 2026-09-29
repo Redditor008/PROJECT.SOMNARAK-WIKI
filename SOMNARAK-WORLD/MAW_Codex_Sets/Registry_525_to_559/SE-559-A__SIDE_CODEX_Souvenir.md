@@ -20,7 +20,7 @@ Souvenir walks the Mask Market as a weeping figure assembled from stone, dust, s
 |---|---|
 | Type / Manifestation | Subject / Subject-Lament |
 | Coherence / Potency | III / γ |
-| Element | Lament (Deep Blue) |
+| Element | Lament |
 | Location | Zone C, Mask Market |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 Lament |
 | Movement / Resistance | 1.95 m/s / 35% Lament, 25% other |

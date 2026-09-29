@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A person-shaped emptiness split open like a torn fruit — no body inside, only the hollow, with crimson light leaking from the opening. Fever-cold, it smells of char; the split shows nothing but the glow of what should have been within. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Split Skin* [**Debuff**] } | "The fruit splits — and the inside is not sweet. It is old, fermented rage." | [The Fruit tears open; the target catches the scent of corrupted anger.] | *Target suffers -10 Resilience; the fermented rage is pungent.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target approaches the Fruit. |
-| { *The Sour Juice* [**Debuff**] } | "The juice runs — and where it touches, the skin reddens with old resentment." | [The Fruit's bitter sap burns; the target's own anger ferments in response.] | *Target loses 10 Resilience; they feel their own bitterness rising.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target is splashed. |
-| { *The Pitted Seed* [**Attack**] } | "A seed, hard as iron, fires from the split fruit — aimed at your teeth." | [A hardened seed-pit launches at the target.] | *Inflicts Crimson pressure and one hard, stinging impact.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Harvest* [**Attack**] } | "Every torn fruit on the branch bursts at once — a rain of fermented fury." | [The Fruit detonates, releasing all its accumulated rage.] | *A heavy Crimson eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Fruit is struck. |
-| { *The Blighted Orchard* [**Ultimate**] } | "Every tree, every fruit — torn open, pouring rage across the whole field." | [The Fruit spreads its blight across the entire area.] | *All in range suffer Crimson pressure for three turns in the ruined orchard.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Split Skin* [**Debuff**] } | "The fruit splits — and the inside is not sweet. It is old, fermented rage." | [The Fruit tears open; the target catches the scent of corrupted anger.] | *Target suffers -10 Resilience; the fermented rage is pungent.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Fruit. |
+| { *The Sour Juice* [**Debuff**] } | "The juice runs — and where it touches, the skin reddens with old resentment." | [The Fruit's bitter sap burns; the target's own anger ferments in response.] | *Target loses 10 Resilience; they feel their own bitterness rising.* **[10 Grudge DMG [Grudge]]** | When the target is splashed. |
+| { *The Pitted Seed* [**Attack**] } | "A seed, hard as iron, fires from the split fruit — aimed at your teeth." | [A hardened seed-pit launches at the target.] | *Inflicts Grudge pressure and one hard, stinging impact.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
+| { *The Full Harvest* [**Attack**] } | "Every torn fruit on the branch bursts at once — a rain of fermented fury." | [The Fruit detonates, releasing all its accumulated rage.] | *A heavy Crimson eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Fruit is struck. |
+| { *The Blighted Orchard* [**Ultimate**] } | "Every tree, every fruit — torn open, pouring rage across the whole field." | [The Fruit spreads its blight across the entire area.] | *All in range suffer Grudge pressure for three turns in the ruined orchard.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Breach Type** | Transform |
 | **Movement** | Hollowcast expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a bracelet of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a bracelet of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollowcast (N-IIβ-426 [D]) is logged as a Subject-Void manifestation expressing Grudge (Crimson). The Fruit formed from a mind erased by its own pain. Held at Zone D, Forge District. It communicates through emotion rather than language.
+Hollowcast (N-IIβ-426 [D]) is logged as a Subject-Void manifestation expressing Grudge. The Fruit formed from a mind erased by its own pain. Held at Zone D, Forge District. It communicates through emotion rather than language.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Forge District consciousness. Personnel feel consuming rage without a complete self behind it. It watches personnel with curiosity.
@@ -346,7 +346,7 @@ Some sorrows are about losing memory. Hollowcast is about losing the self while 
 > *“A mind erased by its own pain, leaving an empty outline with fury inside it.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-426 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-426 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Void manifestation
 **Common Name:** Hollowcast
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 2 — Basic

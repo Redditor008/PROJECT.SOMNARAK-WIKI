@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Cold Heart |
 | Set | Warmth at Risk |
-| Type / grade / element | Stigma, heart-charm / δ — Critical / Void — Pale White |
+| Type / grade / element | Stigma, heart-charm / δ — Critical / Void |
 | Slot | Head |
 | Status | Sealed; no standing field bearer |
 | Maximum amount | One active Heart per bearer; source bestowal chance 4% |

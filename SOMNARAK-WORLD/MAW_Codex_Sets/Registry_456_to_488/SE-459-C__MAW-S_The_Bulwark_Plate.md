@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass harness with closed outer plates and a warm inner sleeping line.
+A Void Han-glass harness with closed outer plates and a warm inner sleeping line.
 
 Iseulfros wore it while screening intrusive grief. The Plate protected identity but made her difficult for teammates to reach emotionally.
 

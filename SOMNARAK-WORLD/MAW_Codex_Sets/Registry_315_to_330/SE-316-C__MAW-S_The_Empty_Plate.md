@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A crimson Han-iron harness with an open plate where a second grip would have been. It condenses after Tether loosens.
+A Grudge Han-iron harness with an open plate where a second grip would have been. It condenses after Tether loosens.
 
 Binding requires a release witness who makes no replacement promise. Hanul wore it beside a worker ending years of Gate waiting. The armor resisted the Grudge surge, but reflexes dulled whenever he reached to hold the rope for them.
 

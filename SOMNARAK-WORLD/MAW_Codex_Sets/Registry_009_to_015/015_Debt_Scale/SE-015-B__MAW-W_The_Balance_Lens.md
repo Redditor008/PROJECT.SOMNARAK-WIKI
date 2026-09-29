@@ -21,7 +21,7 @@
 | **Type** | Weapon — balance projector crossbow |
 | **Category** | RANGE (Balance Crossbow / Counterweight Culverin) |
 | **Grade** | β — Moderate |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Maximum Amount** | 4 — Stocked |
 | **Echo Cost** | 25 Sorrow Echoes |
 

@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A faint ghostly figure shaped like a single tear that has begun to burn — translucent, flickering, trailing heat. It appears and disappears around the Forge District without warning. Fever-cold, it smells of char; to see it is to feel a grief you cannot place. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dry Eye* [**Debuff**] } | "You want to cry — but the tear is gone, taken before it could fall. The grief has nowhere to go." | [The Tear's theft leaves the target unable to release sorrow.] | *Target suffers -10 Resilience; the uncried tear builds pressure.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target tries to weep. |
-| { *The Pressurized Grief* [**Debuff**] } | "Without the tear, the grief has nowhere to go but inward — and it is building." | [The blocked tear turns inward; the pressure mounts.] | *Target loses 10 Resilience; the internal pressure is enormous.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target holds it back. |
-| { *The Stolen Drop* [**Attack**] } | "It throws your own tear back at you — compressed, hardened, sharp." | [The stolen tear is returned as a projectile.] | *Inflicts Crimson pressure and one small, bitter impact.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Tear is provoked. |
-| { *The Full Return* [**Attack**] } | "Every tear it ever stole — returned at once, a wall of uncried grief." | [The accumulated stolen tears are released in a flood.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Tear is cornered. |
-| { *No One Can Cry* [**Ultimate**] } | "Every tear in the field is stolen — and the pressure of uncried grief crushes everyone." | [The Tear extends its theft across the whole field.] | *All in range suffer Crimson pressure for three turns of uncried tears.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dry Eye* [**Debuff**] } | "You want to cry — but the tear is gone, taken before it could fall. The grief has nowhere to go." | [The Tear's theft leaves the target unable to release sorrow.] | *Target suffers -10 Resilience; the uncried tear builds pressure.* **[10 Grudge DMG [Grudge]]** | When the target tries to weep. |
+| { *The Pressurized Grief* [**Debuff**] } | "Without the tear, the grief has nowhere to go but inward — and it is building." | [The blocked tear turns inward; the pressure mounts.] | *Target loses 10 Resilience; the internal pressure is enormous.* **[10 Grudge DMG [Grudge]]** | When the target holds it back. |
+| { *The Stolen Drop* [**Attack**] } | "It throws your own tear back at you — compressed, hardened, sharp." | [The stolen tear is returned as a projectile.] | *Inflicts Grudge pressure and one small, bitter impact.* **[14-22 Grudge DMG [Grudge]]** | When the Tear is provoked. |
+| { *The Full Return* [**Attack**] } | "Every tear it ever stole — returned at once, a wall of uncried grief." | [The accumulated stolen tears are released in a flood.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Tear is cornered. |
+| { *No One Can Cry* [**Ultimate**] } | "Every tear in the field is stolen — and the pressure of uncried grief crushes everyone." | [The Tear extends its theft across the whole field.] | *All in range suffer Grudge pressure for three turns of uncried tears.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
 
 **Damage:** Grudge 3–6
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** an ember-charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Swallowed Fury (C-Iα-683 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The entity formed from a tear that was erased before it could fall. Held at Zone D, Forge District. It appears near workers who suppress visible emotion.
+Swallowed Fury (C-Iα-683 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The entity formed from a tear that was erased before it could fall. Held at Zone D, Forge District. It appears near workers who suppress visible emotion.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drifts through Forge District corridors and vents. Personnel experience anger beneath suppressed grief. It glows during the Sorrow Tide.
@@ -348,7 +348,7 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 > *“A person ordered not to feel, whose feeling turned to fury in the obeying.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-683 [GS]` · City origin · Residue (I) coherence · Minor (α) potency · Grudge (Crimson) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-Iα-683 [GS]` · City origin · Residue (I) coherence · Minor (α) potency · Grudge · Subject-Phantasmal manifestation
 **Common Name:** Swallowed Fury
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

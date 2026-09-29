@@ -11,7 +11,7 @@
 | **Coherence** | I — Residue (barely formed; a faint, kind emotional imprint) |
 | **Potency** | α — Minor |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A small, softly rounded figure the size of a curled child, warm to the touch like living skin rather than cold stone. Beneath a thin, pliant surface — faintly translucent, the color of pale dawn — a gentle blue luminescence pulses like a heartbeat. It is not carved or crystalline; it feels, unsettlingly, like holding something alive that has chosen to be still. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *A Kind Word* [**Debuff**] } | "It barely speaks — a single kind word you almost missed." | [The Echo offers the faintest gesture of comfort; the target feels briefly, strangely seen.] | *Target suffers -10 Composure; the kindness lingers oddly.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When first approached. |
-| { *The Almost-Memory* [**Debuff**] } | "It reminds you of something you can't quite place — a face, a feeling, almost." | [The Echo stirs a half-memory; the target is caught between recognition and loss.] | *Target loses 10 Composure; their thoughts drift.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers near it. |
-| { *The Soft Echo* [**Attack**] } | "It does not mean to hurt anyone — but even kindness, here, carries sorrow." | [The Echo sends out a faint sorrowful pulse — gentle, but it still aches.] | *Inflicts light Deep Blue pressure; a wound of bittersweet feeling.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the entity is disturbed or a Work Type fails. |
-| { *The Held Note* [**Attack**] } | "It holds one long, kind, unbearably sad note — the sound of something that wanted to help and couldn't." | [The Echo sustains its sorrow into a single aching tone that weighs on the target's chest.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the entity is overwhelmed or hurt. |
-| { *The Fading Out* [**Ultimate**] } | "It begins to fade — and as it does, a quiet sorrow spreads through everyone who ever felt it." | [The Echo thins toward nothing, its gentle grief diffusing through the containment zone.] | *All in range suffer Deep Blue pressure for three turns — soft, persistent, and sad.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *A Kind Word* [**Debuff**] } | "It barely speaks — a single kind word you almost missed." | [The Echo offers the faintest gesture of comfort; the target feels briefly, strangely seen.] | *Target suffers -10 Composure; the kindness lingers oddly.* **[10 Lament DMG [Lament]]** | When first approached. |
+| { *The Almost-Memory* [**Debuff**] } | "It reminds you of something you can't quite place — a face, a feeling, almost." | [The Echo stirs a half-memory; the target is caught between recognition and loss.] | *Target loses 10 Composure; their thoughts drift.* **[10 Lament DMG [Lament]]** | When the target lingers near it. |
+| { *The Soft Echo* [**Attack**] } | "It does not mean to hurt anyone — but even kindness, here, carries sorrow." | [The Echo sends out a faint sorrowful pulse — gentle, but it still aches.] | *Inflicts light Lament pressure; a wound of bittersweet feeling.* **[14-22 Lament DMG [Lament]]** | When the entity is disturbed or a Work Type fails. |
+| { *The Held Note* [**Attack**] } | "It holds one long, kind, unbearably sad note — the sound of something that wanted to help and couldn't." | [The Echo sustains its sorrow into a single aching tone that weighs on the target's chest.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the entity is overwhelmed or hurt. |
+| { *The Fading Out* [**Ultimate**] } | "It begins to fade — and as it does, a quiet sorrow spreads through everyone who ever felt it." | [The Echo thins toward nothing, its gentle grief diffusing through the containment zone.] | *All in range suffer Lament pressure for three turns — soft, persistent, and sad.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -116,7 +116,7 @@
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A 60 cm warm blue glow that drifts toward personnel.
 - **Position / movement:** Stationary or barely drifting; does not chase, flee, or attack.
-- **Element signature:** Lament (Deep Blue) — but gentle, not oppressive.
+- **Element signature:** Lament — but gentle, not oppressive.
 - **Registered location:** SECTOR-D-01 — Training Containment Unit.
 
 ### Detailed Appearance Profile
@@ -364,7 +364,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-000 [LS]` · City (도한) origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-000 [LS]` · City (도한) origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Lament manifestation
 **Common Name:** Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Comprehension Level:** 4 — Mastered
@@ -404,7 +404,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 ### Registry Trivia
 
 - **Classification detail:** Residue (I) coherence, Minor (α) potency — the lowest-rated entity in the registry (Threat Score 2).
-- **Field detail:** Lament (Deep Blue); permanently contained in SECTOR-D-01 Training Unit.
+- **Field detail:** Lament; permanently contained in SECTOR-D-01 Training Unit.
 - **Recognition detail:** A 60 cm warm blue glow that hums and leans toward personnel.
 - **Record detail:** Designation 000 — the first entity ever contained; the training standard for 6,000 years.
 

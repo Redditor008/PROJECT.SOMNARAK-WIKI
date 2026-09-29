@@ -49,7 +49,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 35–60 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[35–60 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[35–60 Grudge DMG [Grudge]]**
 
 ### The Flesh-Tribunal (Non-Crystal, Tide-Spawn-grade)
 
@@ -73,7 +73,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 45–70 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[45–70 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[45–70 Grudge DMG [Grudge]]**
 
 
 ### The Executioner (Humanoid, Tide-Spawn-grade)
@@ -86,7 +86,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 32–46 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It brings the blade down, and the sentence lands as a single annihilating stroke. **[32–46 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It brings the blade down, and the sentence lands as a single annihilating stroke. **[32–46 Grudge DMG [Grudge]]**
 
 ### The Sentence (Amorphous, Tide-Spawn-grade)
 
@@ -98,7 +98,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 30–44 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It wraps a group, and the barbed wire tightens with the weight of every condemnation. **[30–44 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It wraps a group, and the barbed wire tightens with the weight of every condemnation. **[30–44 Grudge DMG [Grudge]]**
 
 ### The Gallows-Flies (Swarm, Tide-Spawn-grade)
 
@@ -110,7 +110,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 7–11 per hit · Grudge |
 | **Spawn Count** | facility-wide |
 
-**Ability:** They cloud a target, and a thousand small cuts bleed them dry. **[7–11 Crimson DMG [Crimson / Grudge]]**
+**Ability:** They cloud a target, and a thousand small cuts bleed them dry. **[7–11 Grudge DMG [Grudge]]**
 
 
 ## Trivia

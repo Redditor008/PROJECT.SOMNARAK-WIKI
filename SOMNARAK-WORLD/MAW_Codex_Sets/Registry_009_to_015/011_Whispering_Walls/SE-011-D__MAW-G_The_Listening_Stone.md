@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Accessory (Stigma) — listening stone |
 | **Grade** | α — Minor |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Slot** | Tail |
 | **Acquisition Probability** | 5% |
 | **Stat Effect** | +1 when working the Whispering Walls source record |

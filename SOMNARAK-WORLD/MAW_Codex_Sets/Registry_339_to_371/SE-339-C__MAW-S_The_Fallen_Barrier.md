@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A deep-blue Han-crystal barrier plate with one visible crack before use. Binding requires a named escape route and explicit protection limit.
+A Lament Han-crystal barrier plate with one visible crack before use. Binding requires a named escape route and explicit protection limit.
 
 Hanul wore it during a mental-wall collapse. The Barrier absorbed the first impact and opened its crack through his memory of every room he had once considered perfectly safe.
 

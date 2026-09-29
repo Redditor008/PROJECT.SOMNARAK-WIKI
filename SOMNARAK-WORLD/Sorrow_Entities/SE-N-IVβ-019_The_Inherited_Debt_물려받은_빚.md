@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, communicates through debt visualization |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — It has no stable body of its own. The heavily indebted perceive it as a shadow clinging to their back, a whisper at the ear, a crushing pressure against the chest — a presence that rides bloodlines rather than standing in any one place. There is nothing to strike; only the weight, and the smell of wet stone and iron. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Ancestral Bill* [**Debuff**] } | "You did not borrow this — your grandfather did — but the debt has found you, and it remembers every generation." | [The Debt's generational weight settles on the target; they bear centuries of obligation.] | *Target suffers -10 Resolve; they owe for things they never did.* **[10 Black DMG [Black / Weight]]** | When the Debt finds them. |
-| { *The Compounding Generations* [**Debuff**] } | "Each generation added interest — and the interest had children — and now the debt is a family of its own." | [The Debt's exponential growth through generations presses down.] | *Target loses 10 Resolve; the inherited obligation is a living thing.* **[10 Black DMG [Black / Weight]]** | When the target tries to refuse. |
-| { *The Foreclosure of Blood* [**Attack**] } | "The debt collects — not from your purse, but from your blood, your years, your children's years." | [The Debt extracts payment from the target's very lineage.] | *Inflicts Black pressure and one wound of generational extraction.* **[14-22 Black DMG [Black / Weight]]** | When the Debt is challenged. |
-| { *The Total Inheritance* [**Attack**] } | "Every debt every ancestor ever left — every generation's unpaid bill — called in at once." | [The Debt's complete generational reckoning.] | *A heavy Black demand; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Debt is cornered. |
-| { *The Family Ruin* [**Ultimate**] } | "The inherited debt spreads to everyone — every family's ancestral obligation activated simultaneously." | [The Debt extends across the whole field.] | *All in range suffer Black pressure for three turns of universal inheritance.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Ancestral Bill* [**Debuff**] } | "You did not borrow this — your grandfather did — but the debt has found you, and it remembers every generation." | [The Debt's generational weight settles on the target; they bear centuries of obligation.] | *Target suffers -10 Resolve; they owe for things they never did.* **[10 Weight DMG [Weight]]** | When the Debt finds them. |
+| { *The Compounding Generations* [**Debuff**] } | "Each generation added interest — and the interest had children — and now the debt is a family of its own." | [The Debt's exponential growth through generations presses down.] | *Target loses 10 Resolve; the inherited obligation is a living thing.* **[10 Weight DMG [Weight]]** | When the target tries to refuse. |
+| { *The Foreclosure of Blood* [**Attack**] } | "The debt collects — not from your purse, but from your blood, your years, your children's years." | [The Debt extracts payment from the target's very lineage.] | *Inflicts Weight pressure and one wound of generational extraction.* **[14-22 Weight DMG [Weight]]** | When the Debt is challenged. |
+| { *The Total Inheritance* [**Attack**] } | "Every debt every ancestor ever left — every generation's unpaid bill — called in at once." | [The Debt's complete generational reckoning.] | *A heavy Black demand; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Debt is cornered. |
+| { *The Family Ruin* [**Ultimate**] } | "The inherited debt spreads to everyone — every family's ancestral obligation activated simultaneously." | [The Debt extends across the whole field.] | *All in range suffer Weight pressure for three turns of universal inheritance.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -209,7 +209,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Category:** Protective Attire (Heavy Monastic Cassock & Iron Links)
 **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -228,7 +228,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Category:** Stigma (Hand / Wrist Tally Scar)
 **Grade:** β | **Element:** Weight
 
-**Appearance:** a chain of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a chain of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -284,7 +284,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Inherited Debt (N-IVβ-019 [WS]) is logged as a Subject-Mind manifestation expressing Weight (Black). The Inherited Debt formed from families burdened by obligations they never created. Held at SECTOR-C-01, Collector's Row — contained. The entity has never physically breached containment; its influence has.
+The Inherited Debt (N-IVβ-019 [WS]) is logged as a Subject-Mind manifestation expressing Weight. The Inherited Debt formed from families burdened by obligations they never created. Held at SECTOR-C-01, Collector's Row — contained. The entity has never physically breached containment; its influence has.
 
 **Entry 2 — <Excerpt from Field Log, Year 4219>**
 Spreads through personnel as a shared mental burden. Personnel feel obligations they never incurred as physical weight on their shoulders. It cannot be separated from a person by ordinary extraction.
@@ -366,7 +366,7 @@ Some sorrows are about debt. The Inherited Debt is about the debt that became th
 > *“The helpless weight of hereditary obligation. The debt that consumed the debtor.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVβ-019 [WS]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IVβ-019 [WS]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Subject-Mind manifestation
 **Common Name:** The Inherited Debt
 **Containment Status:** Contained — SECTOR-C-01, Collector's Row — contained
 **Comprehension Level:** 3 — Advanced

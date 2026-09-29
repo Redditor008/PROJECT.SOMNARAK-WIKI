@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron harness with shared load channels. Iseulfros wore it across a liquid span; the Plate resisted Grudge but slowed reflexes whenever she tried to carry all casualties alone.
+A Grudge Han-iron harness with shared load channels. Iseulfros wore it across a liquid span; the Plate resisted Grudge but slowed reflexes whenever she tried to carry all casualties alone.
 
 ## Appearance
 

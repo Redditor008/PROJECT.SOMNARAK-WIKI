@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass Head charm warming near patient, consented company. Bulwark granted it after a visitor waited and left without entry demand. Bestowal chance is 5%.
+A Void Han-glass Head charm warming near patient, consented company. Bulwark granted it after a visitor waited and left without entry demand. Bestowal chance is 5%.
 
 ## Appearance
 

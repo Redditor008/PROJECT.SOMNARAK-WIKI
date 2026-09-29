@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Resentful and angry |
 | **Potency** | Major (γ) — High danger as group entity |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A muscular, middle-aged man of true flesh and bone, fists clenched at his sides, his face locked between anger and exhaustion. His skin is flushed dark, heat radiating from him; tendons stand out in his neck and forearms. He is fever-hot, and the air carries the smell of char and old smoke. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Birthright* [**Debuff**] } | "You did not earn this sorrow — it was left to you. But it is yours now." | [The Inheritor passes down a legacy of grief; the target receives it.] | *Target suffers -10 Resilience; they have inherited a wound.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Inheritor regards them. |
-| { *The Family Debt* [**Debuff**] } | "Generations of anger, passed parent to child — and now the bill comes to you." | [The inherited resentment deepens; the target carries their lineage's weight.] | *Target loses 10 Resilience; the family sorrow is immense.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target accepts the legacy. |
-| { *The Legacy* [**Attack**] } | "Everything your line suffered — here, condensed into one blow." | [The inherited grief strikes as a concentrated attack.] | *Inflicts Crimson pressure and one wound of ancestral pain.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Inheritor is provoked. |
-| { *The Bloodline* [**Attack**] } | "The full rage of every generation before you — delivered at once." | [The Inheritor channels the entire inherited fury.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Inheritor is confronted. |
-| { *The Whole Inheritance* [**Ultimate**] } | "Everyone receives what their line left them — and no one's legacy is kind." | [The Inheritor passes down sorrow to everyone in the field.] | *All in range suffer Crimson pressure for three turns of inherited grief.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Birthright* [**Debuff**] } | "You did not earn this sorrow — it was left to you. But it is yours now." | [The Inheritor passes down a legacy of grief; the target receives it.] | *Target suffers -10 Resilience; they have inherited a wound.* **[10 Grudge DMG [Grudge]]** | When the Inheritor regards them. |
+| { *The Family Debt* [**Debuff**] } | "Generations of anger, passed parent to child — and now the bill comes to you." | [The inherited resentment deepens; the target carries their lineage's weight.] | *Target loses 10 Resilience; the family sorrow is immense.* **[10 Grudge DMG [Grudge]]** | When the target accepts the legacy. |
+| { *The Legacy* [**Attack**] } | "Everything your line suffered — here, condensed into one blow." | [The inherited grief strikes as a concentrated attack.] | *Inflicts Grudge pressure and one wound of ancestral pain.* **[14-22 Grudge DMG [Grudge]]** | When the Inheritor is provoked. |
+| { *The Bloodline* [**Attack**] } | "The full rage of every generation before you — delivered at once." | [The Inheritor channels the entire inherited fury.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Inheritor is confronted. |
+| { *The Whole Inheritance* [**Ultimate**] } | "Everyone receives what their line left them — and no one's legacy is kind." | [The Inheritor passes down sorrow to everyone in the field.] | *All in range suffer Grudge pressure for three turns of inherited grief.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -175,7 +175,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Category:** MIXED (Chain-Sickle / Transforming Falx) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** A vicious, inwardly-curved falx blade of dark crimson Han-iron, connected to an internal spool of barbed spinal cable within the hilt. In locked configuration, it strikes as a heavy, hooked cleaver for devastating Short-range chopping strikes. When the hilt latch is released, the blade launches forward on five paces of segmented tension-wire, transforming into a sweeping chain-scythe that hooks targets at Medium range and reels them back toward the wielder while weeping a thin, caustic film of burning crimson Han.
+**Appearance:** A vicious, inwardly-curved falx blade of dark Grudge Han-iron, connected to an internal spool of barbed spinal cable within the hilt. In locked configuration, it strikes as a heavy, hooked cleaver for devastating Short-range chopping strikes. When the hilt latch is released, the blade launches forward on five paces of segmented tension-wire, transforming into a sweeping chain-scythe that hooks targets at Medium range and reels them back toward the wielder while weeping a thin, caustic film of burning crimson Han.
 
 **Damage:** Grudge 9–15
 **Speed:** 3 (Normal)
@@ -196,7 +196,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -214,7 +214,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Inheritor (C-IIIγ-062 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Inheritor formed from a father's resentment at being forced to pay his parent's debt. Held at SECTOR-C-01, contained with the Debt Triplets. The Inheritor cannot be separated from the Debt Triplets permanently.
+The Inheritor (C-IIIγ-062 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Inheritor formed from a father's resentment at being forced to pay his parent's debt. Held at SECTOR-C-01, contained with the Debt Triplets. The Inheritor cannot be separated from the Debt Triplets permanently.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rages quickly through the facility with fists clenched. Personnel feel resentment over debts forced upon them. Flerehan calms him; Pugnahan reinforces his inherited anger.
@@ -358,7 +358,7 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 > *“Inherited obligation done without thanks — that is the burn.”* — Former Collector
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-062 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-062 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Inheritor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 2 — Basic

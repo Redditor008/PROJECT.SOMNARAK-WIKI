@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A black Han-steel maul shaped from post-Storm hail, with rain grooves that point toward the last evacuation route. It binds only after casualties and shelter needs are logged.
+A Weight Han-steel maul shaped from post-Storm hail, with rain grooves that point toward the last evacuation route. It binds only after casualties and shelter needs are logged.
 
 During the *North Commons Blackfall*, Durivel drove three fallen Weight masses away from an evacuation line. He did not target the cloud layer. Each strike aged his hands and increased the pull in his shoulders.
 

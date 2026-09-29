@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Trace Requiem |
 | Set | Witnessed Route |
-| Type / grade / element | Weapon / α — Minor / Lament — Deep Blue |
+| Type / grade / element | Weapon / α — Minor / Lament |
 | Status | Active; return-line issue required |
 | Maximum amount | 5 — Standard |
 | Current bearer | Cartographer Yeonhwa |

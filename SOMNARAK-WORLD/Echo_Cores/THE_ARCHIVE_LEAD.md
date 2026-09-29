@@ -52,7 +52,7 @@ Marjuk is patient, formal, and difficult to rush. He serves as the Directorate's
 | **Station** | **A (Deep) — The Grand Archive and Deep Vault** |
 | **Effigy** | **Cryogen — preserved brain, left eye, and nervous system in Han-stasis within an approximately 80% Android chassis** |
 | **Sorrow** | **City Sorrow (도한)** |
-| **Signature** | **Void (Pale White) + Weight (Black)** |
+| **Signature** | **Void + Weight** |
 | **Manifestation** | **Place-Lament — the Deep Vault itself weeps under the pressure of preserved truth** |
 | **Role** | The Archive Lead; commander of Floor 6, custodian of classified records, memory vaults, dangerous knowledge, and Before-Time evidence |
 | **Gender** | **Man** |
@@ -93,7 +93,7 @@ His face is narrow and mature, with a straight nose, high cheek line, and an exp
 
 Marjuk's hair is artificial, smoky slate-grey, and brushed back from the forehead in orderly layers. It reaches the base of his neck without covering the ports behind either ear. A narrow Pale White streak begins above the synthetic eye and continues toward the crown. The grey is an intentional part of his current design rather than natural aging. Cold air leaves a fine line of condensation along the hair near the nape when he disconnects from a warm archive interface.
 
-A dark metal collar protects the junction between skull, preserved spinal tissue, and artificial torso. Beneath it, a narrow smoked-glass panel runs from the upper sternum to the base of the throat. Pale Han-stasis light moves slowly behind the glass, showing that the organic core remains active without displaying it as an exposed specimen. The panel is reinforced and normally covered by his inner coat. Black conduits follow the spine beneath the rear armor and branch into the shoulders, hands, and lower body.
+A dark metal collar protects the junction between skull, preserved spinal tissue, and artificial torso. Beneath it, a narrow smoked-glass panel runs from the upper sternum to the base of the throat. Void Han-stasis light moves slowly behind the glass, showing that the organic core remains active without displaying it as an exposed specimen. The panel is reinforced and normally covered by his inner coat. Black conduits follow the spine beneath the rear armor and branch into the shoulders, hands, and lower body.
 
 His hands are fully artificial and built for archival work rather than combat. The fingers are long, dark-jointed, and capped with golden-brown contact pads that can handle paper, Echoes, Han-crystal tablets, and fragile memory casings without crushing them. Thin Black registration lines appear across the palms when he interfaces with the Whispering Catalog. They are data and Weight channels, not cracks or signs of Corrosion. He can write, turn pages, operate locks, carry boxes, and perform ordinary physical work without assistance.
 
@@ -861,8 +861,8 @@ Marjuk has **no named or implied personal M.A.W.** The Archive Lead's Directorat
 
 His signature combines:
 
-- **Void — Pale White**, representing erased history, identity risk, and absence in the record;
-- **Weight — Black**, representing accumulated truth, preserved sorrow, and the pressure of knowledge carried through time.
+- **Void**, representing erased history, identity risk, and absence in the record;
+- **Weight**, representing accumulated truth, preserved sorrow, and the pressure of knowledge carried through time.
 
 The colors appear in his synthetic eye, hair streak, coat seams, hand interfaces, and Place-Lament. They do not make every archive object part of his body.
 
@@ -1483,7 +1483,7 @@ Records give approximately thirty-four as the age associated with his preserved 
 - His Composure score is 60.
 - His Resolve score is 80.
 - His Sorrow is City Sorrow.
-- His signature combines Void (Pale White) and Weight (Black).
+- His signature combines Void and Weight.
 - His Manifestation is Place-Lament.
 - His True Look is a Cryogen body, not an intact frozen human body.
 - His preserved organic material includes the brain, left eye, and nervous system.

@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Impenetrable and heavy |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A massive wall of dark, dense crystallized debt blocking a thoroughfare, its blocks cold and lead-heavy. New blocks bud whenever a fresh obligation is recorded, so the wall is always growing. It smells of wet stone and iron; pressed to it, you can hear ledgers being turned. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unpaid Invoice* [**Debuff**] } | "A brick slides into place — and written on it is a debt you did not know you owed." | [The Wall grows; each brick is an unpaid debt pressing on the target.] | *Target suffers -10 Resolve; the wall of debt is rising.* **[10 Black DMG [Black / Weight]]** | When the target approaches the Wall. |
-| { *The Compounding Interest* [**Debuff**] } | "The wall grows taller — new bricks appearing faster than you can count — each one heavier than the last." | [The Wall accrues debt-bricks; the weight compounds exponentially.] | *Target loses 10 Resolve; the burden is accelerating.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Foreclosure* [**Attack**] } | "A section of the wall breaks free — and the debt it holds lands on you, all at once." | [A block of debt-masonry collapses onto the target.] | *Inflicts Black pressure and one crushing, financial wound.* **[14-22 Black DMG [Black / Weight]]** | When the Wall is struck. |
-| { *The Total Default* [**Attack**] } | "The entire wall gives way — every debt, every IOU, every unpaid promise — crashing down." | [The Wall collapses in a cascade of defaulted obligations.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Wall is demolished. |
-| { *Everyone Owes Everything* [**Ultimate**] } | "The wall spreads — debt-bricks appearing around every person — until the whole field is buried in what is owed." | [The Wall extends its debt across the entire area.] | *All personnel suffer Black pressure for three turns of universal debt.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unpaid Invoice* [**Debuff**] } | "A brick slides into place — and written on it is a debt you did not know you owed." | [The Wall grows; each brick is an unpaid debt pressing on the target.] | *Target suffers -10 Resolve; the wall of debt is rising.* **[10 Weight DMG [Weight]]** | When the target approaches the Wall. |
+| { *The Compounding Interest* [**Debuff**] } | "The wall grows taller — new bricks appearing faster than you can count — each one heavier than the last." | [The Wall accrues debt-bricks; the weight compounds exponentially.] | *Target loses 10 Resolve; the burden is accelerating.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Foreclosure* [**Attack**] } | "A section of the wall breaks free — and the debt it holds lands on you, all at once." | [A block of debt-masonry collapses onto the target.] | *Inflicts Weight pressure and one crushing, financial wound.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck. |
+| { *The Total Default* [**Attack**] } | "The entire wall gives way — every debt, every IOU, every unpaid promise — crashing down." | [The Wall collapses in a cascade of defaulted obligations.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Wall is demolished. |
+| { *Everyone Owes Everything* [**Ultimate**] } | "The wall spreads — debt-bricks appearing around every person — until the whole field is buried in what is owed." | [The Wall extends its debt across the entire area.] | *All personnel suffer Weight pressure for three turns of universal debt.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -213,7 +213,7 @@ The escalation pattern is specific to Owed: it is not a generic breach event. Pe
 **Category:** Protective Attire (Stone-Padded Hauberk & Lead Greaves)
 **Grade:** γ | **Element:** Weight
 
-**Appearance:** a shield-backed harness of black Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a shield-backed harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -232,7 +232,7 @@ The escalation pattern is specific to Owed: it is not a generic breach event. Pe
 **Category:** Stigma (Stone Relic Shard)
 **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Owed (C-IIIγ-180 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Wall formed from unpaid obligations accumulated across Somnarak. Held at SECTOR-C-01, Collector's Row. The Wall grows with city-wide debt accumulation.
+Owed (C-IIIγ-180 [WP]) is logged as a Place-Weight manifestation expressing Weight. The Wall formed from unpaid obligations accumulated across Somnarak. Held at SECTOR-C-01, Collector's Row. The Wall grows with city-wide debt accumulation.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its blocks contain individual obligations and promises.
@@ -369,7 +369,7 @@ Some sorrows are carried. Owed is a sorrow that, carried too long by too many, s
 > *“Taking it down would require paying what is owed. What is owed is more than the city has ever had.”* — Former Collector
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-180 [WP]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-180 [WP]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Place-Weight manifestation
 **Common Name:** Owed
 **Containment Status:** Uncontained — Collector’s Row, Zone C
 **Comprehension Level:** 2 — Basic

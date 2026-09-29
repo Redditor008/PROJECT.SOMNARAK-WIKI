@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Object/Place — Place-Lament |
 | **Coherence** | I — Residue |
 | **Potency** | α — Minor |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Form** | Faded settlement murals and connected Old Lament walls |
 | **Location** | Zone B, Old Lament |
 | **Comprehension Level** | 1 — Initial |

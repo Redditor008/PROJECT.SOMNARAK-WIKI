@@ -21,7 +21,7 @@ The Mirror formed from memories that citizens asked the Keepers to seal away. De
 | Source designation | C-IIα-081 [VO] |
 | Type / Manifestation | Object/Place — Can breach via Transform; activation possible / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats showing reflections / Minor (α) — Low danger |
-| Element / Location | Void (Pale White) / SECTOR-A-01, Alpha Tree Archive — contained |
+| Element / Location | Void / SECTOR-A-01, Alpha Tree Archive — contained |
 | Gauge / Pressure | 226/226; starts 25–40% / 3–10 per hit · Void |
 | Observation | 4 — Mastered |
 | Formation event | Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror. |
@@ -52,7 +52,7 @@ During the The Honest Reflection Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Honest Reflection's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon severs only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Honest Reflection's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Honest Reflection's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Honest Reflection's wound through the operator and triggers the recorded escalation.
 
 ---
 

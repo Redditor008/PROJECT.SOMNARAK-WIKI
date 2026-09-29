@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-Scream Plate is a crimson Han-iron harness with a sealed throat guard and ribs shaped around an absent mouth. It warms before Grudge pressure arrives. Binding accepts a wearer who agrees not to speak during initial reception; a wearer preparing a rebuttal finds the throat guard tightening immediately.
+Scream Plate is a Grudge Han-iron harness with a sealed throat guard and ribs shaped around an absent mouth. It warms before Grudge pressure arrives. Binding accepts a wearer who agrees not to speak during initial reception; a wearer preparing a rebuttal finds the throat guard tightening immediately.
 
 The suit condensed around Handler Soojin while she remained inside Dismissed Cry’s silent pressure and refused to repeat its anger through her own voice.
 

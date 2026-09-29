@@ -16,7 +16,7 @@
 |---|---|
 | Type | Accessory (Stigma) — tear earring |
 | Grade | β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Slot | Tail |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Weeping Statue source record |

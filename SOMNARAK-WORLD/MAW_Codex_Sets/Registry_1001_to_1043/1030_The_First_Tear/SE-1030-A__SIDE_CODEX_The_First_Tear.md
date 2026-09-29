@@ -21,7 +21,7 @@ The Tear is believed to be the first sorrow ever felt on Mugenhan. The original 
 | Source designation | C-Vδ-290 [LO] |
 | Type / Manifestation | Object/Place — Can breach via Transform; sealed / Object-Lament |
 | Coherence / Potency | Sovereign (V) — Autonomous, ancient, singular / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / SECTOR-A-01, Alpha Tree deep vault — sealed |
+| Element / Location | Lament / SECTOR-A-01, Alpha Tree deep vault — sealed |
 | Gauge / Pressure | 999/999; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 5 — Sovereign |
 | Formation event | Unknown. It occurred before Han became structural and before Somnarak existed. |
@@ -52,7 +52,7 @@ During the The The First Tear Source-Trace, the field team preserved this source
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The First Tear's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The First Tear's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The First Tear's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The First Tear's wound through the operator and triggers the recorded escalation.
 
 ---
 

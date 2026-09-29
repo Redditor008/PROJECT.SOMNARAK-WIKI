@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A warm pale Han-glass Head pendant showing hairline fractures across deceptive statements. Cracked Mirror granted it after Euncris acknowledged an unflattering truth and looked away without demanding completion. Bestowal chance is 5%.
+A warm Void Han-glass Head pendant showing hairline fractures across deceptive statements. Cracked Mirror granted it after Euncris acknowledged an unflattering truth and looked away without demanding completion. Bestowal chance is 5%.
 
 ## Appearance
 

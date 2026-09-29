@@ -21,7 +21,7 @@ The Seed formed from concentrated grief waiting for a form. Potential sorrow—t
 | Source designation | C-Iα-300 [D] |
 | Type / Manifestation | Subject — Can breach / Object-Weight |
 | Coherence / Potency | Residue (I) — Barely formed, dormant / Minor (α) |
-| Element / Location | Weight (Black) / Zone D, Echo Gardens |
+| Element / Location | Weight / Zone D, Echo Gardens |
 | Gauge / Pressure | 174/174; starts 25–40% / 2–7 per hit · Weight |
 | Observation | 1 — Initial |
 | Formation event | A grief fragment crystallized in the Echo Gardens and entered dormancy. |
@@ -52,7 +52,7 @@ During the The The Sorrow Seed Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.
 
 ---
 

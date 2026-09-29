@@ -21,7 +21,7 @@ The Flower formed from sorrow preserved as weight. The burden of carrying grief 
 | Source designation | C-IIIγ-916 [N] |
 | Type / Manifestation | Subject — Can breach / Object-Weight |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Weight (Black) / Zone B, deep tunnels |
+| Element / Location | Weight / Zone B, deep tunnels |
 | Gauge / Pressure | 607/607; starts 45–65% / 18–41 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading. |
@@ -52,7 +52,7 @@ During the The Devouring Bloom Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Devouring Bloom's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Witness the memories and prevent unauthorized petal collection The set cannot heal the originating event. Misuse routes Devouring Bloom's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Devouring Bloom's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Witness the memories and prevent unauthorized petal collection The set cannot heal the originating event. Misuse routes Devouring Bloom's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A cool crimson Han-iron Tail ring appearing after grief receives a safe place. Bestowal chance is 4%.
+A cool Grudge Han-iron Tail ring appearing after grief receives a safe place. Bestowal chance is 4%.
 
 ## Appearance
 

@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Beautiful but painful |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A predatory thicket of mobile thorned vines that crawls and lashes like a nest of serpents — a hunting creature of braided crimson creeper that grips and drags. Warm where it bleeds sap, it smells of char and crushed green. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Prick* [**Debuff**] } | "A thorn finds the soft of your hand — and the garden has marked you as its own." | [A single thorn pierces; the Garden takes note of the target.] | *Target suffers -10 Resilience; the Garden has tasted them.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the Garden. |
-| { *The Tangled Vines* [**Debuff**] } | "The thorns grow toward you — slow, patient, certain of the harvest." | [Vines creep and twine; the thorns close in around the target.] | *Target loses 10 Resilience; they cannot move without being cut.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stays in the Garden. |
-| { *The Cutting Edge* [**Attack**] } | "A branch whips across — and every thorn on it is a recorded resentment." | [A thorned lash strikes, each point a stored grievance.] | *Inflicts Crimson pressure and many small, stinging wounds.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Garden is disturbed. |
-| { *The Deep Root* [**Attack**] } | "The garden's heart, underground, sends up one massive thorned stalk." | [The Garden's root-core erupts in a single huge, piercing growth.] | *A heavy Crimson impalement; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Garden is struck or burned. |
-| { *The Overgrowth* [**Ultimate**] } | "The thorns consume everything — wall, floor, and person alike." | [The Garden bursts its bounds, thorns swallowing the whole field.] | *All personnel suffer Crimson pressure for three turns as it grows.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Prick* [**Debuff**] } | "A thorn finds the soft of your hand — and the garden has marked you as its own." | [A single thorn pierces; the Garden takes note of the target.] | *Target suffers -10 Resilience; the Garden has tasted them.* **[10 Grudge DMG [Grudge]]** | When the target enters the Garden. |
+| { *The Tangled Vines* [**Debuff**] } | "The thorns grow toward you — slow, patient, certain of the harvest." | [Vines creep and twine; the thorns close in around the target.] | *Target loses 10 Resilience; they cannot move without being cut.* **[10 Grudge DMG [Grudge]]** | When the target stays in the Garden. |
+| { *The Cutting Edge* [**Attack**] } | "A branch whips across — and every thorn on it is a recorded resentment." | [A thorned lash strikes, each point a stored grievance.] | *Inflicts Grudge pressure and many small, stinging wounds.* **[14-22 Grudge DMG [Grudge]]** | When the Garden is disturbed. |
+| { *The Deep Root* [**Attack**] } | "The garden's heart, underground, sends up one massive thorned stalk." | [The Garden's root-core erupts in a single huge, piercing growth.] | *A heavy Crimson impalement; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Garden is struck or burned. |
+| { *The Overgrowth* [**Ultimate**] } | "The thorns consume everything — wall, floor, and person alike." | [The Garden bursts its bounds, thorns swallowing the whole field.] | *All personnel suffer Grudge pressure for three turns as it grows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Briar (C-IIIγ-145 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Garden formed from grief that learned to defend itself as anger. Held at SECTOR-D-02, near Echo Gardens. The Garden watches visitors through flowers that turn toward them.
+Briar (C-IIIγ-145 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Garden formed from grief that learned to defend itself as anger. Held at SECTOR-D-02, near Echo Gardens. The Garden watches visitors through flowers that turn toward them.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Thorns respond to anger more than movement.
@@ -388,7 +388,7 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 > *“Some sorrows must grow thorns, because the gentle ones get picked.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-145 [GP]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-145 [GP]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Place-Grudge manifestation
 **Common Name:** Briar
 **Containment Status:** Contained — near Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic

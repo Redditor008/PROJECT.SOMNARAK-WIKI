@@ -21,7 +21,7 @@ The entity formed from the grief of a relic erased from history. The pain of los
 | Source designation | N-IVδ-967 [WS] |
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Entity (IV) — Self-aware / Critical (δ) |
-| Element / Location | Weight (Black) / The Desolate — mobile |
+| Element / Location | Weight / The Desolate — mobile |
 | Gauge / Pressure | 999/999; starts 60–80% / 27–58 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A treasured artifact disappeared during a Desolate expedition; records of it were later removed. |
@@ -52,7 +52,7 @@ During the The Pandora s Jar Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Pandora's Jar's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Bear the heat and name what was lost The set cannot heal the originating event. Misuse routes Pandora's Jar's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Pandora's Jar's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Bear the heat and name what was lost The set cannot heal the originating event. Misuse routes Pandora's Jar's wound through the operator and triggers the recorded escalation.
 
 ---
 

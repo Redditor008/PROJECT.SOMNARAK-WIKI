@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Crown of Shroud |
 | Set | Unanswered Court |
-| Type / grade / element | Suit / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Suit / γ — Major / Lament |
 | Status | Active; relief plan required for every issue |
 | Maximum amount | 3 — Standard |
 | Current bearer | Handler Soojin |

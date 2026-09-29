@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Subject — Subject-Phantasmal |
 | Coherence / Potency | III — Fragment / β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A small, quick shadow with no stable face; it is easiest to notice by the gap it leaves in a thought. |
 | Gauge / pressure | 35–50% / Void 8–20 |

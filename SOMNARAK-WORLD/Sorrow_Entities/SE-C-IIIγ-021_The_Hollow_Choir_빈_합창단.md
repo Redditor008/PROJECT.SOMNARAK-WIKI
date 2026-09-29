@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Personality and response shaped by music |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — It has no body of its own: it manifests as one hundred forty-four ethereal voices filling a built amphitheater, with no singers on the empty stage. The stage, walls, ceiling, and floor themselves seem to voice the sound, vibrating like a living throat. There is nothing to touch — only the song, and the cold-rain smell of grief it carries. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Voice* [**Debuff**] } | "One voice begins — thin, unfinished, the sound of someone who never got to end their song." | [A single mournful voice rises from the Choir; the target hears a grief that is not theirs.] | *Target suffers -10 Composure; the note lodges in them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Choir begins to sing. |
-| { *The Swelling Chorus* [**Debuff**] } | "More voices join — and none of them are whole." | [The Choir's numbers swell; the unfinished voices layer into a pressure.] | *Target loses 10 Composure; the harmony presses in from all sides.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stays within earshot. |
-| { *The Broken Harmony* [**Attack**] } | "The chord splits apart and cuts." | [A discordant strike — the Choir's harmony fractures into a jagged wave.] | *Inflicts Deep Blue pressure and one wound of wrong notes.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Choir is interrupted. |
-| { *The Anthem* [**Attack**] } | "They sing the whole tragic song at last — every voice, every loss." | [The Choir performs its full anthem; the completed grief is overwhelming.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Choir is moved or commanded. |
-| { *The Requiem* [**Ultimate**] } | "Everyone sings — the dead, the lost, the ones who never finished." | [The Choir opens to every unfinished voice at once, filling the field with requiem.] | *All in range suffer Deep Blue pressure for three turns.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Voice* [**Debuff**] } | "One voice begins — thin, unfinished, the sound of someone who never got to end their song." | [A single mournful voice rises from the Choir; the target hears a grief that is not theirs.] | *Target suffers -10 Composure; the note lodges in them.* **[10 Lament DMG [Lament]]** | When the Choir begins to sing. |
+| { *The Swelling Chorus* [**Debuff**] } | "More voices join — and none of them are whole." | [The Choir's numbers swell; the unfinished voices layer into a pressure.] | *Target loses 10 Composure; the harmony presses in from all sides.* **[10 Lament DMG [Lament]]** | When the target stays within earshot. |
+| { *The Broken Harmony* [**Attack**] } | "The chord splits apart and cuts." | [A discordant strike — the Choir's harmony fractures into a jagged wave.] | *Inflicts Lament pressure and one wound of wrong notes.* **[14-22 Lament DMG [Lament]]** | When the Choir is interrupted. |
+| { *The Anthem* [**Attack**] } | "They sing the whole tragic song at last — every voice, every loss." | [The Choir performs its full anthem; the completed grief is overwhelming.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Choir is moved or commanded. |
+| { *The Requiem* [**Ultimate**] } | "Everyone sings — the dead, the lost, the ones who never finished." | [The Choir opens to every unfinished voice at once, filling the field with requiem.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -180,7 +180,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
 
 **Damage:** Lament 7–12
 **Speed:** 3 (Fast)
@@ -201,7 +201,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -219,7 +219,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a tiny lyre of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a tiny lyre of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Hollow Choir (C-IIIγ-021 [LS]) is logged as a Subject-Spirit manifestation expressing Lament (Deep Blue). The Hollow Choir formed from citizens silenced by oppression in early Zone C. Held at SECTOR-C-01, amphitheater in Zone C; contained. The Choir contains exactly 144 voices.
+The Hollow Choir (C-IIIγ-021 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Hollow Choir formed from citizens silenced by oppression in early Zone C. Held at SECTOR-C-01, amphitheater in Zone C; contained. The Choir contains exactly 144 voices.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 The voices spread beyond the amphitheater and fill the facility. All personnel hear the songs and experience the grief of the silenced. Mass distress and possible Fracture may follow. Groups of twelve correspond to distinct historical eras.
@@ -364,7 +364,7 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 > *“The songs are trying to end. They cannot.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-021 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-021 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Subject-Spirit manifestation
 **Common Name:** The Hollow Choir
 **Containment Status:** Contained — Zone C amphitheater
 **Comprehension Level:** 3 — Advanced

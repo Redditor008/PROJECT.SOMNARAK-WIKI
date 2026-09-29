@@ -21,7 +21,7 @@ The Chain formed from bonds that became imprisonment. The grief of being held by
 | Source designation | C-IVδ-976 [O] |
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Void (Pale White) / Zone B, Old Lament — ambient |
+| Element / Location | Void / Zone B, Old Lament — ambient |
 | Gauge / Pressure | 855/855; starts 60–80% / 24–53 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A district was bound by debt and duty until the obligations became a living chain. |
@@ -52,7 +52,7 @@ During the The Willing Chains Source-Trace, the field team preserved this source
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Willing Chains's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not cut blindly; identify what each chain represents The set cannot heal the originating event. Misuse routes Willing Chains's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Willing Chains's source condition, the Suit lets a witness bear its Void pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not cut blindly; identify what each chain represents The set cannot heal the originating event. Misuse routes Willing Chains's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -10,7 +10,7 @@
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
 | **Primary Opponent** | The Kind Healer (상냥한 치유사 — Palliative Sovereign) |
 | **Stagger Profile** | 60% Posture Strain (Needle Break) / 0% Posture (Transmutation) |
-| **Memory Leaf Yield** | `[Memory Leaf: The Merciful]` (Compassion Healing & Scar Fortitude) |
+| **Memory Leaf Yield** | `[Memory Leaf: The Merciful]` (Compassion Healing & Scar Endurance) |
 
 ```text
 +========================================================================+

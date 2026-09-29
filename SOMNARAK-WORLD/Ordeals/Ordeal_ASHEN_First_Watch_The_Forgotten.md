@@ -1,4 +1,4 @@
-# PALE First Watch — The Forgotten
+# ASHEN First Watch — The Forgotten
 
 > *""I turned the corner and saw five figures. When I blinked, there were four. I could not remember what the fifth looked like.""*
 
@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| **Color** | PALE |
+| **Color** | ASHEN |
 | **Time** | First Watch |
 | **Threat Level** | Minor |
 | **Han Source** | Void |
@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 8–12 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 3–10 per hit · Void (Pale White) |
+| **Han Pressure [ATK]** | 3–10 per hit · Void |
 | **HP** | 50/50 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -50,7 +50,7 @@ Alert Level 1. Standard team with ranged M.A.W. Do NOT approach within 3 meters.
 
 ## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary PALE First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary ASHEN First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Fragment-grade)
 
@@ -62,7 +62,7 @@ Alert Level 1. Standard team with ranged M.A.W. Do NOT approach within 3 meters.
 | **Han Pressure [ATK]** | 8–18 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Erasure Projector (Machine, Fragment-grade)
 
@@ -74,7 +74,7 @@ Alert Level 1. Standard team with ranged M.A.W. Do NOT approach within 3 meters.
 | **Han Pressure [ATK]** | 13–23 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Geometric Void (Non-Humanoid, Fragment-grade)
 
@@ -86,7 +86,7 @@ Alert Level 1. Standard team with ranged M.A.W. Do NOT approach within 3 meters.
 | **Han Pressure [ATK]** | 18–28 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It simply is, and what it touches, isn't. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[1 Void DMG [Void] (5% Max HP)]**
 
 
 ## Trivia
@@ -98,7 +98,7 @@ Alert Level 1. Standard team with ranged M.A.W. Do NOT approach within 3 meters.
 
 ## Document Information
 
-**Document ID:** `ORDEAL-PALE-First-Watch`
+**Document ID:** `ORDEAL-ASHEN-First-Watch`
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 

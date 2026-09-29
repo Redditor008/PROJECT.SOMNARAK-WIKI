@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A sleeping figure curled around a large shard of pale crystal, weeping in its unconsciousness, its body slowly changing shape as it dreams. Bloodless-cold, it smells of ash; it has never woken, and no one knows what it dreams. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slow Breath* [**Debuff**] } | "The shard breathes — in, out — so slowly you almost miss it. But it is alive, and it is sleeping." | [The Shard's dormant life radiates; the target senses a sleeping danger.] | *Target suffers a Void mark; the slumbering thing is aware of them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
-| { *The Twitch* [**Debuff**] } | "The shard shifts in its sleep — a micro-movement — and the movement sends a ripple of void through everything nearby." | [The Shard's dream-twitch releases void-ripples; the target is caught in the wake.] | *Target loses clarity; the sleeping thing stirs.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Reflex* [**Attack**] } | "The sleeping shard twitches violently — a reflex-strike from a dormant edge." | [An involuntary strike from the sleeping Shard.] | *Inflicts Void damage; the reflex cut is deep and unexpected.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is touched. |
-| { *The Waking* [**Attack**] } | "The shard's eyes open — if shards had eyes — and the waking is violent, disorienting, and sharp." | [The Shard's awakening releases its full dormant potential.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shard is forced awake. |
-| { *The Waking Field* [**Ultimate**] } | "Every dormant shard in the field wakes — and they are all sharp, and they are all hungry, and they are all awake." | [The Shard extends its waking across the whole area.] | *All in range suffer Pale White erosion for three turns of waking edges.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slow Breath* [**Debuff**] } | "The shard breathes — in, out — so slowly you almost miss it. But it is alive, and it is sleeping." | [The Shard's dormant life radiates; the target senses a sleeping danger.] | *Target suffers a Void mark; the slumbering thing is aware of them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
+| { *The Twitch* [**Debuff**] } | "The shard shifts in its sleep — a micro-movement — and the movement sends a ripple of void through everything nearby." | [The Shard's dream-twitch releases void-ripples; the target is caught in the wake.] | *Target loses clarity; the sleeping thing stirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Reflex* [**Attack**] } | "The sleeping shard twitches violently — a reflex-strike from a dormant edge." | [An involuntary strike from the sleeping Shard.] | *Inflicts Void damage; the reflex cut is deep and unexpected.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is touched. |
+| { *The Waking* [**Attack**] } | "The shard's eyes open — if shards had eyes — and the waking is violent, disorienting, and sharp." | [The Shard's awakening releases its full dormant potential.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is forced awake. |
+| { *The Waking Field* [**Ultimate**] } | "Every dormant shard in the field wakes — and they are all sharp, and they are all hungry, and they are all awake." | [The Shard extends its waking across the whole area.] | *All in range suffer Void erosion for three turns of waking edges.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -208,7 +208,7 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small vial of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a small vial of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sleeping Shard (N-IVδ-611 [N]) is logged as a Subject-Lament manifestation expressing Void (Pale White). The Shard formed from grief deliberately placed into sleep. Held at Zone E, Exile's Gate vicinity. It has never fully awakened.
+Sleeping Shard (N-IVδ-611 [N]) is logged as a Subject-Lament manifestation expressing Void. The Shard formed from grief deliberately placed into sleep. Held at Zone E, Exile's Gate vicinity. It has never fully awakened.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams near the Exile's Gate. Personnel experience sleeping grief and emotional paralysis. Its dreams are visible to personnel near the Gate.
@@ -344,7 +344,7 @@ Some sorrows are about feeling. Sleeping Shard is about the refusal to feel — 
 > *“The choice that seemed like mercy and became a prison.”* — Mender, Dream Gates
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-611 [N]` · Void (Pale White) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `N-IVδ-611 [N]` · Void · Subject-Lament manifestation
 **Common Name:** Sleeping Shard
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic

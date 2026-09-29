@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A sleeping humanoid built from the ruins of an Outside Sorrow settlement — broken timber, collapsed stone, and ash fused into the shape of a resting person. Salt-damp, it smells of cold rain; it weeps without waking, beneath its own rubble. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Ancient Breath* [**Debuff**] } | "The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages." | [The Ruin's dormant exhalation settles on the target; they feel aeons of accumulated sleep.] | *Target suffers -10 Composure; the ancient slumber is heavy.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the Ruin. |
-| { *The Dreaming Stone* [**Debuff**] } | "In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture." | [The Ruin's dream-structures flicker around the target; ghost-walls and phantom arches.] | *Target loses 10 Composure; the dreaming ruin is rebuilding itself in sleep.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Falling Capital* [**Attack**] } | "A carved capital — the top of a column — shakes loose in the ruin's sleep and drops." | [ An ancient stone ornament falls.] | *Inflicts Deep Blue pressure and one heavy, ancient wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Ruin is touched. |
-| { *The Full Awakening* [**Attack**] } | "The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating." | [The Ruin's complete recollection releases its entire stored history.] | *A heavy Deep Blue flood of returned time; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Ruin is excavated. |
-| { *The Waking City* [**Ultimate**] } | "Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything." | [The Ruin extends its waking across the whole area.] | *All in range suffer Deep Blue pressure for three turns of waking ruins.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Ancient Breath* [**Debuff**] } | "The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages." | [The Ruin's dormant exhalation settles on the target; they feel aeons of accumulated sleep.] | *Target suffers -10 Composure; the ancient slumber is heavy.* **[10 Lament DMG [Lament]]** | When the target enters the Ruin. |
+| { *The Dreaming Stone* [**Debuff**] } | "In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture." | [The Ruin's dream-structures flicker around the target; ghost-walls and phantom arches.] | *Target loses 10 Composure; the dreaming ruin is rebuilding itself in sleep.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Falling Capital* [**Attack**] } | "A carved capital — the top of a column — shakes loose in the ruin's sleep and drops." | [ An ancient stone ornament falls.] | *Inflicts Lament pressure and one heavy, ancient wound.* **[14-22 Lament DMG [Lament]]** | When the Ruin is touched. |
+| { *The Full Awakening* [**Attack**] } | "The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating." | [The Ruin's complete recollection releases its entire stored history.] | *A heavy Lament flood of returned time; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Ruin is excavated. |
+| { *The Waking City* [**Ultimate**] } | "Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything." | [The Ruin extends its waking across the whole area.] | *All in range suffer Lament pressure for three turns of waking ruins.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a padded mantle of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a padded mantle of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Repose (O-IVδ-844 [N]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Ruin formed from a settlement that died while its survivors continued mourning. Held at Zone B, Old Lament — ambient. It has never fully awakened.
+Repose (O-IVδ-844 [N]) is logged as a Subject-Lament manifestation expressing Lament. The Ruin formed from a settlement that died while its survivors continued mourning. Held at Zone B, Old Lament — ambient. It has never fully awakened.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its dreams spread through Old Lament and nearby ruins. Personnel relive collapse and feel the ground becoming unsafe. Its dreams alter nearby architecture.
@@ -350,7 +350,7 @@ Some sorrows mourn a place. Repose mourns the inability to stop — the grief so
 > *“The exhaustion of unresolvable grief. Waking was no longer possible.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-844 [N]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IVδ-844 [N]` · Lament · Subject-Lament manifestation
 **Common Name:** Repose
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic

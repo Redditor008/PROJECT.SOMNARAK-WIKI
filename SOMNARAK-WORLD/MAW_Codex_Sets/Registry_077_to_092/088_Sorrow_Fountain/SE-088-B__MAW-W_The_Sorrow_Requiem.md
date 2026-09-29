@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Weeping Basin-Aspergillum |
 | Set | Shared Current |
-| Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Weapon / γ — Major / Lament |
 | Status | Active; issued with a post-use witness requirement |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Kkotlom Lee |

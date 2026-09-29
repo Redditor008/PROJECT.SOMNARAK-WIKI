@@ -22,7 +22,7 @@
 | Entity | Walking Calendar — 세월의 무게 |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | An ancient figure fused with stone slabs, worn calendars, and erased city records; every step adds another year. |
 | Gauge / Pressure | 60–80% / Weight 25–54 |
 | Observation | 3 — Advanced |

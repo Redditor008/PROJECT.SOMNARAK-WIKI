@@ -185,7 +185,7 @@ These organisms represent true living beings whose anatomy has naturally integra
 - **Scientific Classification**: *Rubus rubens*
 - **Biological Archetype**: Ligneous Shrub (80% Living Plant, 20% Grudge M.A.W. Traits)
 - **Habitat**: Strata 1 through 3 damp trenches, tannery runoffs, and abattoir floors (-50m to -700m)
-- **Vegetative Structure**: Dense, tangled thickets of iron-hard brambles armed with curved, blood-red thorns. The vascular system carries a thick, viscous sap (*Crimson Han-Brine*) that boils when exposed to air, burning with hot red sorrow flames.
+- **Vegetative Structure**: Dense, tangled thickets of iron-hard brambles armed with curved, blood-red thorns. The vascular system carries a thick, viscous sap (*Grudge Han-Brine*) that boils when exposed to air, burning with hot red sorrow flames.
 - **Ecological Function**: Traps small animals in its thorny cages, absorbing the sorrow fluids released during their struggles through root-nodules.
 - **Industrial Harvesting**: Tapped like rubber trees by industrial cartels to produce black-market turbine fuels and combat stimulants.
 

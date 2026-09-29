@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A warm crimson Han-iron Tail thread carrying one pulse of sound through static. It never holds a complete sentence. The source granted it after Sora preserved a danger-direction fragment and openly marked the absent words. Bestowal probability is 4%.
+A warm Grudge Han-iron Tail thread carrying one pulse of sound through static. It never holds a complete sentence. The source granted it after Sora preserved a danger-direction fragment and openly marked the absent words. Bestowal probability is 4%.
 
 ## Appearance
 

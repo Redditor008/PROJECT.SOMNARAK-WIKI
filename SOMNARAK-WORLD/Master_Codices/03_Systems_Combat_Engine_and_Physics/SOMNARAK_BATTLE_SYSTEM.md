@@ -325,10 +325,10 @@ Each Sorrow Entity has a **combat behavior** based on its Coherence level, Eleme
 
 | Element | Combat Style | Defensive Counter / Weakness |
 |---|---|---|
-| **Lament (Deep Blue)** | Emotional attacks — grief waves, sorrow overwhelming, mental breakdown | Clarity (mental resistance & perception) |
-| **Grudge (Crimson)** | Physical attacks — rage strikes, relentless kinetic assault, hemorrhaging | Resilience (physical endurance & armor) |
-| **Void (Pale White)** | Identity attacks — memory theft, reality warping, area negation | Composure (emotional control & sanity) |
-| **Weight (Black)** | Pressure attacks — debt accumulation, crushing sorrow, kinetic shockwaves | Resolve (willpower & moral grounding) |
+| **Lament** | Emotional attacks — grief waves, sorrow overwhelming, mental breakdown | Clarity (mental resistance & perception) |
+| **Grudge** | Physical attacks — rage strikes, relentless kinetic assault, hemorrhaging | Resilience (physical endurance & armor) |
+| **Void** | Identity attacks — memory theft, reality warping, area negation | Composure (emotional control & sanity) |
+| **Weight** | Pressure attacks — debt accumulation, crushing sorrow, kinetic shockwaves | Resolve (willpower & moral grounding) |
 
 ---
 

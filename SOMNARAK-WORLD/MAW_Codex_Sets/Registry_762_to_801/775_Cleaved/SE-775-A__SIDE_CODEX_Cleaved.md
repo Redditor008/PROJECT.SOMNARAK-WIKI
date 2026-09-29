@@ -21,7 +21,7 @@ The Tower formed from a structure that was never completed. The grief of a futur
 | Source designation | C-IIβ-775 [VS] |
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Void (Pale White) / Zone B, Old Lament |
+| Element / Location | Void / Zone B, Old Lament |
 | Gauge / Pressure | 373/373; starts 35–50% / 8–18 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan. |
@@ -52,7 +52,7 @@ During the The Cleaved Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Cleaved's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Do not complete the structure; document what was intended and lost The set cannot heal the originating event. Misuse routes Cleaved's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Cleaved's source condition, the Suit lets a witness bear its Void pressure, and the Weapon opens only the immediate manifestation that violates this rule: Do not complete the structure; document what was intended and lost The set cannot heal the originating event. Misuse routes Cleaved's wound through the operator and triggers the recorded escalation.
 
 ---
 

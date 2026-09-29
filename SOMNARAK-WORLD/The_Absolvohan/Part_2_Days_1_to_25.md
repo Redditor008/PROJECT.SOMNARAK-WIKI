@@ -482,7 +482,7 @@ The acoustic transcript of the midnight whisper displays six precise syllables�
 
 Day 5 brings high tactical tension. In Floor 4's research labs, **SE-C-IIIβ-015** (*The Kind Healer*) has reached nine blessings. In Directorate tactical terms, this is our apocalyptic catalyst: if twelve personnel receive its baptismal mark, it triggers the Transformation Chain, converting into the apocalyptic sovereign entity *The Dawn of Mourning*.
 
-Our managerial rule for today: **DO NOT ENTER CHAMBER 015 WITH HUMAN PERSONNEL UNDER ANY CIRCUMSTANCES.** All interaction with the Healer will be conducted via remote telemetry drones.
+Our rule for today: **DO NOT ENTER CHAMBER 015 WITH HUMAN PERSONNEL UNDER ANY CIRCUMSTANCES.** All interaction with the Healer will be conducted via remote telemetry drones.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
@@ -1681,7 +1681,7 @@ He opens the private register of the Absolvohan project. The target is 100 tons.
 
 Day 17 concludes Batch 1 with our first full-scale **Tide Watch Ordeal**. Floor 7 (Outsider Relations) is active under Lead Ishall.
 
-Our managerial objective is reaching the 0.050-ton quota while preparing our best combat squads for a multi-floor clash against a Pale-damage monstrosity.
+Our operational objective is reaching the 0.050-ton quota while preparing our best combat squads for a multi-floor clash against a Pale-damage monstrosity.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
@@ -1760,7 +1760,7 @@ At 16:30, the facility lights turn pitch black, replaced by an eerie, pulsing cy
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE ECHO OF CHEONBULOK                                |
-| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : SUBTERRANEAN VENT CORE                            |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -2029,7 +2029,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-032 (*The Weighting
 +---------------------------------------------------------------------+
 | Hollow Halo Stigma     | Head: +8 SP, Aura Pan                      |
 | Hollow Shroud Suit   | Suit: 0.7 / 0.6 / 0.9                        |
-| Hollow Requiem       | Weapon: 5-8 Lament (White Resonance)         |
+| Hollow Requiem       | Weapon: 5-8 Lament (Clear Resonance)         |
 +---------------------------------------------------------------------+
 | ALLOCATION: BESTOWED UPON SPECIALIST HONG                           |
 +=====================================================================+
@@ -2145,7 +2145,7 @@ Energy climbs to `0.046 / 0.080 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Second Watch (Crimson) Suppression
+#### 3. Ordeal Manifestation: Second Watch (Rust) Suppression
 
 At 14:15, the facility alarms sound a rhythmic, brassy toll. Crimson mist vents from the Floor 4 air ducts:
 
@@ -2158,7 +2158,7 @@ At 14:15, the facility alarms sound a rhythmic, brassy toll. Crimson mist vents 
 | INTRUSION POINT : FLOOR 4 RESEARCH FORGE CORRIDOR (NODE 03)         |
 | HOSTILE PARAMETERS : HP 180/180 | Posture 90/90 | Speed 5 (3 AP)    |
 | ATTACK AFFINITY : Grudge (Physical Cleave / Red Tremor)             |
-| AFFINITY VULNERABILITY: Lament (White Resonance: 1.5x Multiplier)   |
+| AFFINITY VULNERABILITY: Lament (Clear Resonance: 1.5x Multiplier)   |
 | SPECIAL THREAT : Blade Flurry hits 2 adjacent nodes simultan        |
 | TACTICAL ORDERS : INTERCEPT AT NODE 02; CRUSH WITH LAMENT FIR       |
 +=====================================================================+
@@ -2537,7 +2537,7 @@ Specialist Kang enters Chamber 145 for Pugnahan combat calibration:
 - **Work Tick 01–03:** 3 Successes. Kang cleaves overgrown briars with his shock maul.
 - **Work Tick 04:** Failure! A razor vine whips across Kang's chest plate; 4 Red (Grudge) damage sustained. Kang's *Thorn Reflect* passive sparks, sending kinetic recoil back into the bush!
 - **Work Tick 05–08:** 4 Successes.
-- **Work Tick 09:** Failure! 4 Crimson damage sustained (HP: 46/54).
+- **Work Tick 09:** Failure! 4 Grudge damage sustained (HP: 46/54).
 - **Work Tick 10:** Success! Kang severs the central resonant blossom.
 - **Work Result:** **8/10 Positive Han Crystals (NORMAL WORK RESULT).**
 - Yield: **+0.026 tons** of refined Han lubricant extracted.
@@ -2558,7 +2558,7 @@ At 15:30, seismic sensors on Floor 2 detect violent drilling beneath the contain
 | CLASSIFICATION : AMBER (WEIGHT) SECOND WATCH CARAPACE HOSTIL        |
 | INTRUSION POINT : FLOOR 2 CONTAINMENT TRENCH (NODE 02 INGRESS)      |
 | HOSTILE PARAMETERS : HP 220/220 | Posture 110/110 | Speed 4 (2 AP)  |
-| ATTACK AFFINITY : Weight (Kinetic Tremor / Black Rupture)           |
+| ATTACK AFFINITY : Weight (Kinetic Tremor / Obsidian Rupture)           |
 | AFFINITY VULNERABILITY: Void (Pierce / Energy Dissolution: 1.5x)    |
 | SPECIAL THREAT : Subterranean burrow cancels ranged targetin        |
 | TACTICAL ORDERS : PIN AT NODE 02; BREAK CARAPACE WITH HEAVY C       |

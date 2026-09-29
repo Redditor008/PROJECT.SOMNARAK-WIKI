@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid figure in the shape of a tower, half-submerged in the ground as though it sank while still standing, its body ringed with empty windows looking out on nothing. Bloodless-cold, it smells of ash; from its buried floors a faint light still climbs. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Sinking* [**Debuff**] } | "The floor dips — and you realize the whole tower is going down, and you with it." | [The Tower settles; the target feels the slow, inexorable drop.] | *Target suffers a Void mark; the descent has begun.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
-| { *The Drowned Bell* [**Debuff**] } | "From somewhere far below, a bell tolls — muffled, as if through water." | [A sound rises from the Tower's depths; the target hears what sank long ago.] | *Target loses clarity; the deep calls to them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target descends. |
-| { *The Pull Down* [**Attack**] } | "The tower's foundation reaches up and takes hold of your ankle." | [The Tower drags the target downward into its mass.] | *Inflicts Void damage; a part of the target is pulled under.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target resists the descent. |
-| { *The Foundations* [**Attack**] } | "The base of the tower — all the grief it was built to hold — comes up at once." | [The Tower's buried foundation erupts upward.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tower is struck or undermined. |
-| { *The Deep* [**Ultimate**] } | "The tower finishes sinking — and takes everything with it." | [The Tower completes its descent, dragging the whole field down.] | *All in range suffer Pale White erosion for three turns as all goes under.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Sinking* [**Debuff**] } | "The floor dips — and you realize the whole tower is going down, and you with it." | [The Tower settles; the target feels the slow, inexorable drop.] | *Target suffers a Void mark; the descent has begun.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
+| { *The Drowned Bell* [**Debuff**] } | "From somewhere far below, a bell tolls — muffled, as if through water." | [A sound rises from the Tower's depths; the target hears what sank long ago.] | *Target loses clarity; the deep calls to them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target descends. |
+| { *The Pull Down* [**Attack**] } | "The tower's foundation reaches up and takes hold of your ankle." | [The Tower drags the target downward into its mass.] | *Inflicts Void damage; a part of the target is pulled under.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target resists the descent. |
+| { *The Foundations* [**Attack**] } | "The base of the tower — all the grief it was built to hold — comes up at once." | [The Tower's buried foundation erupts upward.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tower is struck or undermined. |
+| { *The Deep* [**Ultimate**] } | "The tower finishes sinking — and takes everything with it." | [The Tower completes its descent, dragging the whole field down.] | *All in range suffer Void erosion for three turns as all goes under.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a window-tile of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a window-tile of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Absent Landmark (C-Iα-863 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Tower formed from a structure that became a person only after it was lost. Held at Zone B, Old Lament. It sinks when threatened.
+Absent Landmark (C-Iα-863 [VS]) is logged as a Subject-Body manifestation expressing Void. The Tower formed from a structure that became a person only after it was lost. Held at Zone B, Old Lament. It sinks when threatened.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Sinks and rises along the Old Lament skyline. Personnel feel the loss of familiar places. Its windows show no present interior.
@@ -350,7 +350,7 @@ Some sorrows mourn a building. Absent Landmark mourns the orientation — the ha
 > *“The district reaches, without thinking, for the tower that sank into its reflex.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-863 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Iα-863 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Body manifestation
 **Common Name:** Absent Landmark
 **Containment Status:** Contained — Old Lament
 **Comprehension Level:** 2 — Basic

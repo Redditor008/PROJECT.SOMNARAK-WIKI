@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IVδ-923 [GH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Grudge (Crimson) / SECTOR-C-923, contained |
+| Element / Location | Grudge / SECTOR-C-923, contained |
 | Gauge / Pressure | 482/482; starts 35–50% / 14–26 per hit · Grudge |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Hatred Above Source-Trace, the field team preserved this source f
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Hatred Above's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Hatred Above's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Hatred Above's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Hatred Above's wound through the operator and triggers the recorded escalation.
 
 ---
 

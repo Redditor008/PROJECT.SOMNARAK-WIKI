@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A deep-blue Han-crystal blade melting at the tip and reforming near the guard. It forms after conscious dream release.
+A Lament Han-crystal blade melting at the tip and reforming near the guard. It forms after conscious dream release.
 
 Durivel severed three route-drag lines pulling a dreamer toward a dead traveler. Shared memories remained; he wept for the connection’s asymmetry.
 

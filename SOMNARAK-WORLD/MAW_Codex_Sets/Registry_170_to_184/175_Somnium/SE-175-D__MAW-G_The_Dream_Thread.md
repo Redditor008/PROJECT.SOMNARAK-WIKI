@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dream Thread |
 | Set | Unlived Thread |
-| Type / grade / element | Stigma, blue thread-band / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue thread-band / γ — Major / Lament |
 | Slot | Tail |
 | Acquisition probability | 4% |
 | Current bearer | Dreamer Sora |

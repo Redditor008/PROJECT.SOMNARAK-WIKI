@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | O-IIβ-914 [VT] |
 | Type / Manifestation | Time — Can breach via Transform / Time-Void |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Void (Pale White) / SECTOR-O-914, contained |
+| Element / Location | Void / SECTOR-O-914, contained |
 | Gauge / Pressure | 496/496; starts 35–50% / 14–26 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Amnesia Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Amnesia's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Amnesia's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Amnesia's source condition, the Suit lets a witness bear its Void pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Amnesia's wound through the operator and triggers the recorded escalation.
 
 ---
 

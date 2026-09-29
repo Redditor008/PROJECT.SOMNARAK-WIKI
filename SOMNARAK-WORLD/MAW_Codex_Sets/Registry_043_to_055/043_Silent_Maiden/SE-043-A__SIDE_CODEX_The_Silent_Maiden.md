@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence | IV — Entity |
 | Potency | β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | Nearly invisible young woman of crystallized silence |
 | Location | SECTOR-D-02, Three Sisters containment |
 | Comprehension Level | 4 — Mastered |

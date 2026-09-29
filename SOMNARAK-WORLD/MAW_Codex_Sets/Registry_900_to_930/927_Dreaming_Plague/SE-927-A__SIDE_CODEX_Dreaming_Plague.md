@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | N-IVδ-927 [VH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Dream |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Void (Pale White) / SECTOR-N-927, contained |
+| Element / Location | Void / SECTOR-N-927, contained |
 | Gauge / Pressure | 502/502; starts 35–50% / 14–24 per hit · Void |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Dreaming Plague Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Dreaming Plague's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dreaming Plague's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dreaming Plague's source condition, the Suit lets a witness bear its Void pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dreaming Plague's wound through the operator and triggers the recorded escalation.
 
 ---
 

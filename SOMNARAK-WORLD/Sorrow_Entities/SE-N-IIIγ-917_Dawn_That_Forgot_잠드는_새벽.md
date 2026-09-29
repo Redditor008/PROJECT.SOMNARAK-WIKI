@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Time-Dream |
 | **Physical Form** | Organic — A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's dream pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void / Pale White]]** | When the entity first fixes on a target. |
-| { *The Dream Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void dream sorrow.] | *Void damage strikes the target; the gauge spikes.* **[21 Void DMG [Void / Pale White]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[29 Void DMG [Void / Pale White]]** | When the entity is cornered or starved. |
-| { *The Dream Collapse* [**Ultimate**] } | "The dream breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[23 Void DMG [Void / Pale White] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's dream pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
+| { *The Dream Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void dream sorrow.] | *Void damage strikes the target; the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[29 Void DMG [Void]]** | When the entity is cornered or starved. |
+| { *The Dream Collapse* [**Ultimate**] } | "The dream breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes.
 
 **Notable Features:**
-- Expresses Void (Pale White) pressure in a dream register.
+- Expresses Void pressure in a dream register.
 - The time form is unmistakable — this is a dream entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a single-edged blade of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
 
 **Damage:** Void 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
@@ -178,7 +178,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,7 +188,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -274,7 +274,7 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-917 [VT]` · Inner Sorrow origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Time-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-917 [VT]` · Inner Sorrow origin · Fragment (III) coherence · Major (γ) potency · Void · Time-Dream manifestation
 
 **Common Name:** Dawn That Forgot
 
@@ -289,7 +289,7 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the dream register specifically — it is the primary channel of contact.
 
-**Cross-References:** Inner Sorrow (내한) · Void (Pale White) · Time-Dream · Manifestation Classification
+**Cross-References:** Inner Sorrow (내한) · Void · Time-Dream · Manifestation Classification
 
 ### Registry Addendum
 

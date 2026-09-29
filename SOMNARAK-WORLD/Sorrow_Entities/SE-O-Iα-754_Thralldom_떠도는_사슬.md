@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A serpent-creature of interlocked chain-links that crawls and burns through corridors, no head and no tail, dragging itself with a predator's patience. Fever-hot, it smells of char; a steel worm hunting the dark. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Drag* [**Debuff**] } | "You hear chain-link dragging on stone — and it is getting closer." | [The Chain drags itself toward the target; the sound alone grates.] | *Target suffers -10 Resilience; the dragging is relentless.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Chain approaches. |
-| { *The Rattle* [**Debuff**] } | "The chain finds you — and wraps once, loosely, the way a leash does." | [The Chain settles on the target; the first loop is deceptively gentle.] | *Target loses 10 Resilience; the chain has marked its walker.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Chain reaches the target. |
-| { *The Swing* [**Attack**] } | "The chain whips — fast, wild, and glad to be moving." | [The mobile chain lashes in a wide arc.] | *Inflicts Crimson pressure and one biting, iron cut.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Chain is provoked. |
-| { *The Yank* [**Attack**] } | "The chain pulls — and whatever is on the other end is stronger than you." | [The Chain hauls the target off their feet.] | *A heavy Crimson jerk; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Chain is grabbed. |
-| { *The Roaming Iron* [**Ultimate**] } | "The chain is everywhere now — dragging through every corridor, finding every ankle." | [The Chain multiplies and wanders through the whole field.] | *All personnel suffer Crimson pressure for three turns of roaming iron.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Drag* [**Debuff**] } | "You hear chain-link dragging on stone — and it is getting closer." | [The Chain drags itself toward the target; the sound alone grates.] | *Target suffers -10 Resilience; the dragging is relentless.* **[10 Grudge DMG [Grudge]]** | When the Chain approaches. |
+| { *The Rattle* [**Debuff**] } | "The chain finds you — and wraps once, loosely, the way a leash does." | [The Chain settles on the target; the first loop is deceptively gentle.] | *Target loses 10 Resilience; the chain has marked its walker.* **[10 Grudge DMG [Grudge]]** | When the Chain reaches the target. |
+| { *The Swing* [**Attack**] } | "The chain whips — fast, wild, and glad to be moving." | [The mobile chain lashes in a wide arc.] | *Inflicts Grudge pressure and one biting, iron cut.* **[14-22 Grudge DMG [Grudge]]** | When the Chain is provoked. |
+| { *The Yank* [**Attack**] } | "The chain pulls — and whatever is on the other end is stronger than you." | [The Chain hauls the target off their feet.] | *A heavy Crimson jerk; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Chain is grabbed. |
+| { *The Roaming Iron* [**Ultimate**] } | "The chain is everywhere now — dragging through every corridor, finding every ankle." | [The Chain multiplies and wanders through the whole field.] | *All personnel suffer Grudge pressure for three turns of roaming iron.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a chain-link of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a chain-link of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Thralldom (O-Iα-754 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge (Crimson). The Chain formed from a bond that became imprisonment. Held at Zone B, Old Lament — ambient. It crawls without a body to pull it.
+Thralldom (O-Iα-754 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Chain formed from a bond that became imprisonment. Held at Zone B, Old Lament — ambient. It crawls without a body to pull it.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Crawls through Old Lament seeking a new attachment. Personnel feel compelled to remain in harmful relationships or duties. It becomes calmer when no one tries to possess it.
@@ -350,7 +350,7 @@ Some sorrows are about loss. Thralldom is about the holding that outlasted the l
 > *“The chain seeks the holding — the function it was given and that the Fracture rendered purposeless.”* — Mender, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-754 [GS]` · Grudge (Crimson) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-754 [GS]` · Grudge · Subject-Grudge manifestation
 **Common Name:** Thralldom
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 1 — Initial

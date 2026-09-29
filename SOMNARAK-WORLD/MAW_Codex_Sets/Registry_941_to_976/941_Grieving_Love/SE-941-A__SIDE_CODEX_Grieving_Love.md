@@ -21,7 +21,7 @@ Grieving Love formed when a living woman fell into a vat of concentrated Han she
 | Source designation | N-IIIβ-941 [LS] |
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Fragment (III) — Reaches for the comfort she could never give / Moderate (β) |
-| Element / Location | Lament (Deep Blue) / SECTOR-D-03, Zone D — the Drowned Apothecary |
+| Element / Location | Lament / SECTOR-D-03, Zone D — the Drowned Apothecary |
 | Gauge / Pressure | 540/540; starts 50–70% / 9–20 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh. |
@@ -52,7 +52,7 @@ During the The Grieving Love Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Grieving Love's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not flee her embrace — sit with her grief until she lets go of her own accord The set cannot heal the originating event. Misuse routes Grieving Love's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Grieving Love's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not flee her embrace — sit with her grief until she lets go of her own accord The set cannot heal the originating event. Misuse routes Grieving Love's wound through the operator and triggers the recorded escalation.
 
 ---
 

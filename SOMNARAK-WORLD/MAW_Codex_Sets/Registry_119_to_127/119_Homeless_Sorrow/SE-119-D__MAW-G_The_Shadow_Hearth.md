@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Hearth |
 | Set | Witnessed Shelter |
-| Type / grade / element | Stigma, hearth-charm / β — Moderate / Void — Pale White |
+| Type / grade / element | Stigma, hearth-charm / β — Moderate / Void |
 | Slot | Head |
 | Status | Bearer-bound; post-use grief transfer protocol required |
 | Known bearer | Specialist Sooah Park |

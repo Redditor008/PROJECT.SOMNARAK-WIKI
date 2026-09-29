@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, empty, hollow |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, utterly still and silent — skin bloodless and pale, eyes open and seeing nothing, neither weeping nor raging. She is cold to the touch, alive yet absent; near her, the flat smell of ash, and a hush that swallows sound. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Closed Lips* [**Debuff**] } | "She stands silent — and the silence around her is heavier than any speech." | [The Maiden's suppressed voice creates a void of unspoken words.] | *Target suffers a Void mark; the unspoken things press on them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Maiden. |
-| { *The Swallowed Words* [**Debuff**] } | "You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you." | [The Maiden's suppressed speech transfers to the target; they carry her unspoken burden.] | *Target loses clarity; they are full of someone else's silence.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target waits for her to speak. |
-| { *The Silent Decree* [**Attack**] } | "She mouths a word — no sound — and the word strikes you anyway." | [A silent command hits the target with full force despite making no noise.] | *Inflicts Void damage; the voiceless decree erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Maiden is commanded. |
-| { *The Released Voice* [**Attack**] } | "She speaks — one word, the first in centuries — and the word is devastating." | [The Maiden releases one suppressed word with all its accumulated power.] | *A heavy Void utterance; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Maiden is forced to speak. |
-| { *The Eternal Silence* [**Ultimate**] } | "She falls silent again — and this time, she takes everyone's voice with her." | [The Maiden extends her silence across the entire field.] | *All in range suffer Pale White erosion for three turns of absolute quiet.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Closed Lips* [**Debuff**] } | "She stands silent — and the silence around her is heavier than any speech." | [The Maiden's suppressed voice creates a void of unspoken words.] | *Target suffers a Void mark; the unspoken things press on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Maiden. |
+| { *The Swallowed Words* [**Debuff**] } | "You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you." | [The Maiden's suppressed speech transfers to the target; they carry her unspoken burden.] | *Target loses clarity; they are full of someone else's silence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for her to speak. |
+| { *The Silent Decree* [**Attack**] } | "She mouths a word — no sound — and the word strikes you anyway." | [A silent command hits the target with full force despite making no noise.] | *Inflicts Void damage; the voiceless decree erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Maiden is commanded. |
+| { *The Released Voice* [**Attack**] } | "She speaks — one word, the first in centuries — and the word is devastating." | [The Maiden releases one suppressed word with all its accumulated power.] | *A heavy Void utterance; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Maiden is forced to speak. |
+| { *The Eternal Silence* [**Ultimate**] } | "She falls silent again — and this time, she takes everyone's voice with her." | [The Maiden extends her silence across the entire field.] | *All in range suffer Void erosion for three turns of absolute quiet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -201,7 +201,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -219,7 +219,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a cloak-clasp of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a cloak-clasp of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Silent Maiden (C-IVβ-043 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Maiden formed from a child who died of neglect. Held at SECTOR-D-02, contained with the Three Sisters. No physical attack has ever affected the Maiden.
+The Silent Maiden (C-IVβ-043 [VS]) is logged as a Subject-Body manifestation expressing Void. The Maiden formed from a child who died of neglect. Held at SECTOR-D-02, contained with the Three Sisters. No physical attack has ever affected the Maiden.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves silently through the facility, often unseen. Personnel feel the weight of absence and may lose their voice. She becomes more present when someone sits beside her.
@@ -362,7 +362,7 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 > *“Neglect erases as thoroughly as a knife. The Silent Maiden is the proof.”* — Mender, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVβ-043` · City origin · Entity (IV) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVβ-043` · City origin · Entity (IV) coherence · Moderate (β) potency · Void · Subject-Body manifestation
 **Common Name:** The Silent Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
 **Comprehension Level:** 3 — Advanced

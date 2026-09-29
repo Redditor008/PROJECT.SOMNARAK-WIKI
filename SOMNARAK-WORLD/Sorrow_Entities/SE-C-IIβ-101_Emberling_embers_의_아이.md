@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats wandering and seeking warmth |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A small child, perhaps five years old, its body woven from true living tissue and slow-glowing embers — warm ash-skin, ember-veins, a heart of coal. It cradles a single ember that never dies. Fever-warm and faintly smoking, it smells of cold rain on dying coals. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Flicker* [**Debuff**] } | "The child glows — faintly, fadingly — and the warmth it gives is almost gone." | [Emberling's dying warmth touches the target; they feel the impending dark.] | *Target suffers -10 Composure; the cold is coming.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target holds the Child. |
-| { *The Cooling* [**Debuff**] } | "The glow dims — and with it, your hope dims too, and you cannot tell which is fading faster." | [The Child's fading heat drains the target's warmth of spirit.] | *Target loses 10 Composure; they are going cold inside.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stays close. |
-| { *The Spark* [**Attack**] } | "One last flare — bright, hot, desperate." | [A final ember-flash burns outward.] | *Inflicts Deep Blue pressure and one small, hot wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Child is disturbed. |
-| { *The Final Dark* [**Attack**] } | "The ember goes out — and the dark that follows is absolute." | [The Child's death-flash releases all its stored warmth as cold grief.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Child is extinguished. |
-| { *The Cold World* [**Ultimate**] } | "Every ember in the field goes dark — and the cold is permanent." | [The Child's cooling spreads to every source of warmth.] | *All in range suffer Deep Blue pressure for three turns in the cold dark.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Flicker* [**Debuff**] } | "The child glows — faintly, fadingly — and the warmth it gives is almost gone." | [Emberling's dying warmth touches the target; they feel the impending dark.] | *Target suffers -10 Composure; the cold is coming.* **[10 Lament DMG [Lament]]** | When the target holds the Child. |
+| { *The Cooling* [**Debuff**] } | "The glow dims — and with it, your hope dims too, and you cannot tell which is fading faster." | [The Child's fading heat drains the target's warmth of spirit.] | *Target loses 10 Composure; they are going cold inside.* **[10 Lament DMG [Lament]]** | When the target stays close. |
+| { *The Spark* [**Attack**] } | "One last flare — bright, hot, desperate." | [A final ember-flash burns outward.] | *Inflicts Lament pressure and one small, hot wound.* **[14-22 Lament DMG [Lament]]** | When the Child is disturbed. |
+| { *The Final Dark* [**Attack**] } | "The ember goes out — and the dark that follows is absolute." | [The Child's death-flash releases all its stored warmth as cold grief.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Child is extinguished. |
+| { *The Cold World* [**Ultimate**] } | "Every ember in the field goes dark — and the cold is permanent." | [The Child's cooling spreads to every source of warmth.] | *All in range suffer Lament pressure for three turns in the cold dark.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Emberling (C-IIβ-101 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Child formed from a forgotten fairy tale about a girl carrying embers through the cold while searching for warmth no one could give. Held at SECTOR-D-02, Echo Gardens — contained. The Child has never attempted to harm personnel.
+Emberling (C-IIβ-101 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Child formed from a forgotten fairy tale about a girl carrying embers through the cold while searching for warmth no one could give. Held at SECTOR-D-02, Echo Gardens — contained. The Child has never attempted to harm personnel.
 
 **Entry 2 — <Excerpt from Field Log, Year 4226>**
 Wanders slowly through the facility, holding its ember. Personnel nearby feel increasing cold and the emotional absence of comfort. Flerehan and Ferrehan are consistently effective.
@@ -368,7 +368,7 @@ Some sorrows are about cruelty. Emberling is about absence — the simple absenc
 > *“A story the city forgot. The forgetting did not undo the cold.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-101 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-101 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Body manifestation
 **Common Name:** Emberling
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic

@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence | III — Fragment |
 | Potency | γ — Major |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | Weightless young man with empty eyes and defiant posture |
 | Location | SECTOR-C-01, Debt Triplets containment |
 | Comprehension Level | 2 — Studied |

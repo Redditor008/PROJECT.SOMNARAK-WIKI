@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Snapped indenture |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, corrosive vitriol, and stagnant sump water. |
 | **Movement** | Stationary — a discrete object. |
@@ -99,7 +99,7 @@ Failure to vent burden pressure causes the tablet to sink into the containment p
 
 **Notable Features:**
 - The brass surface is marked with forty distinct tally-notches, representing forty years of compounding debt.
-- A deep score runs across the exact centerline, exposing crystalline black Han-metal within the core.
+- A deep score runs across the exact centerline, exposing crystalline Weight Han-metal within the core.
 - The center score weeps a slow, oily black fluid that tarnishes any silver touching it within seconds.
 
 ### Detailed Appearance Profile
@@ -172,7 +172,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 
 ### Escalation Notes
 
-The escalation pattern is specific to Father's Broken Bond: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-03, Collector's Vault — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Father's Broken Bond: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-03, Collector's Vault — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -347,7 +347,7 @@ As the acid dissolved the paper ledgers and the brass broke, every record of his
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-072 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-072 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** Father's Broken Bond
 **Containment Status:** Contained — Sector-C-03 Indenture Vault
 **Comprehension Level:** 2 — Basic

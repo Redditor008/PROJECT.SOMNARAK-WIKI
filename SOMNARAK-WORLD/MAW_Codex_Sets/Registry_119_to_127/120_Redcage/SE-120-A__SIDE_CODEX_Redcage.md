@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place, I-Relic — Object-Grudge |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Location | SECTOR-B-01, Zone B |
 | Form | An empty cage with crimson bars grown from fused metal, calcified sinew, and clenched-finger bone; there is no door and no prisoner. |
 | Gauge / pressure | 45–65% / Grudge 18–41 |

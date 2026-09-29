@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A broken line of heavy crystal dragged across the Desolate ground — the collapsed record of a movement that did not finish, frozen mid-stride. Salt-cold, it smells of cold rain; a footprint that fell over and could not rise. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fading Mark* [**Debuff**] } | "The traces on the floor are disappearing — and with them, proof that anyone was ever here." | [The Trace's collapse erases evidence; the target feels themselves becoming unproven.] | *Target suffers -10 Composure; they are becoming a trace that is fading.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target steps on the traces. |
-| { *The Smudged History* [**Debuff**] } | "Everything recorded here is blurring — names, dates, sorrows — all smudging into nothing." | [The Trace's breakdown corrupts the record; the target's own history smudges.] | *Target loses 10 Composure; they cannot remember clearly.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target reads the traces. |
-| { *The Static Burst* [**Attack**] } | "The traces flare once — a final, bright moment of evidence — and then they are gone." | [The Trace's death-flash strikes the target.] | *Inflicts Deep Blue pressure and one wound of erased certainty.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Trace is touched. |
-| { *The Total Erasure* [**Attack**] } | "Every trace, every mark, every record — all collapsed, all erased, at once." | [The Trace fully disintegrates, taking all evidence with it.] | *A heavy Deep Blue void-of-record; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Trace is scraped away. |
-| { *The Unmarked Field* [**Ultimate**] } | "Now there is no evidence of anything — no traces, no marks, no proof that any of this happened." | [The Trace spreads its erasure across the entire field.] | *All in range suffer Deep Blue pressure for three turns of total unmarking.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fading Mark* [**Debuff**] } | "The traces on the floor are disappearing — and with them, proof that anyone was ever here." | [The Trace's collapse erases evidence; the target feels themselves becoming unproven.] | *Target suffers -10 Composure; they are becoming a trace that is fading.* **[10 Lament DMG [Lament]]** | When the target steps on the traces. |
+| { *The Smudged History* [**Debuff**] } | "Everything recorded here is blurring — names, dates, sorrows — all smudging into nothing." | [The Trace's breakdown corrupts the record; the target's own history smudges.] | *Target loses 10 Composure; they cannot remember clearly.* **[10 Lament DMG [Lament]]** | When the target reads the traces. |
+| { *The Static Burst* [**Attack**] } | "The traces flare once — a final, bright moment of evidence — and then they are gone." | [The Trace's death-flash strikes the target.] | *Inflicts Lament pressure and one wound of erased certainty.* **[14-22 Lament DMG [Lament]]** | When the Trace is touched. |
+| { *The Total Erasure* [**Attack**] } | "Every trace, every mark, every record — all collapsed, all erased, at once." | [The Trace fully disintegrates, taking all evidence with it.] | *A heavy Deep Blue void-of-record; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Trace is scraped away. |
+| { *The Unmarked Field* [**Ultimate**] } | "Now there is no evidence of anything — no traces, no marks, no proof that any of this happened." | [The Trace spreads its erasure across the entire field.] | *All in range suffer Lament pressure for three turns of total unmarking.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|---|
 | 10 Seconds | Quagmire rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Quagmire activates its primary resonance: Projects concentrated Lament sorrow resonance across the immediate perimeter. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of a journey ending without arrival; the bearer begins perceiving echoes of a desolate path collapsed under han, carrying the tracks and names of everyone who had used it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Quagmire begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Quagmire begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Quagmire too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Quagmire: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Quagmire: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's sanity f
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's sanity f
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a tiny lantern of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Quagmire (O-IVδ-168 [O]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Trace formed from a route destroyed before its travelers reached safety. Held at The Desolate, near The Scar. It follows collapsed paths rather than current geography.
+Quagmire (O-IVδ-168 [O]) is logged as a Object-Weight manifestation expressing Lament. The Trace formed from a route destroyed before its travelers reached safety. Held at The Desolate, near The Scar. It follows collapsed paths rather than current geography.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its weight increases after Han-storms.
@@ -386,7 +386,7 @@ Some sorrows mourn a destination. Quagmire mourns the journey — the path colla
 > *“Journeys interrupted, arrivals denied, preserved in the traces of a collapsed route.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-168 [O]` · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IVδ-168 [O]` · Lament · Object-Weight manifestation
 **Common Name:** Quagmire
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic

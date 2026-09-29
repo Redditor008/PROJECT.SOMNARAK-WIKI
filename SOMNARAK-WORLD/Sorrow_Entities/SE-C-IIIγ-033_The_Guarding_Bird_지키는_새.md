@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Protective and fierce |
 | **Potency** | Major (γ) — High danger as group entity |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A pale, bone-white bird of true flesh and feather — almost translucent, its plumage colourless, its eyes hollow and absorbing. It dives from above and shields what it has chosen to guard, marking the protected. It is bloodless and cold to the touch; near it, the flat smell of ash, and a silence that thickens. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Guarded Perimeter* [**Debuff**] } | "You crossed a line it drew long before you arrived." | [The Bird marks the intruder; the boundary they crossed now clings to them.] | *Target suffers a hollow mark; the Void notices them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When a target enters the Bird's territory. |
-| { *The Hollow Roost* [**Debuff**] } | "It nests in an absence — and the absence spreads to you." | [The Bird's roost-drain seeps outward; colour and certainty leach from the target.] | *Target loses identity and clarity near the roost.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stays within the perimeter. |
-| { *The Talon* [**Attack**] } | "One talon, driven in, to remind you what it guards." | [A precise defensive strike — the Bird punishes the trespasser.] | *Inflicts Void damage, carving a percentage of the target away.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target threatens what the Bird guards. |
-| { *None Shall Pass* [**Attack**] } | "It spreads its wings across the path, and the path simply ends." | [The Bird blocks and breaks whatever tries to force the line.] | *A heavy Void blow; the target's essence erodes.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the target forces the boundary. |
-| { *The Empty Aerie* [**Ultimate**] } | "It opens its roost, and the hollow swallows the whole space." | [The Bird unleashes the Void of its aerie, draining everything within reach.] | *All in range suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Guarded Perimeter* [**Debuff**] } | "You crossed a line it drew long before you arrived." | [The Bird marks the intruder; the boundary they crossed now clings to them.] | *Target suffers a hollow mark; the Void notices them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a target enters the Bird's territory. |
+| { *The Hollow Roost* [**Debuff**] } | "It nests in an absence — and the absence spreads to you." | [The Bird's roost-drain seeps outward; colour and certainty leach from the target.] | *Target loses identity and clarity near the roost.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stays within the perimeter. |
+| { *The Talon* [**Attack**] } | "One talon, driven in, to remind you what it guards." | [A precise defensive strike — the Bird punishes the trespasser.] | *Inflicts Void damage, carving a percentage of the target away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target threatens what the Bird guards. |
+| { *None Shall Pass* [**Attack**] } | "It spreads its wings across the path, and the path simply ends." | [The Bird blocks and breaks whatever tries to force the line.] | *A heavy Void blow; the target's essence erodes.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the target forces the boundary. |
+| { *The Empty Aerie* [**Ultimate**] } | "It opens its roost, and the hollow swallows the whole space." | [The Bird unleashes the Void of its aerie, draining everything within reach.] | *All in range suffer Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -175,7 +175,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
 
 **Damage:** Void 7–12
 **Speed:** 3 (Fast)
@@ -196,7 +196,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -214,7 +214,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a wing-charm of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a wing-charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Guarding Bird (C-IIIγ-033 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Bird formed from the sorrow of protecting what could not be saved. Held at SECTOR-B-01, contained with the Three Birds. It grows more active during the Sorrow Tide.
+The Guarding Bird (C-IIIγ-033 [VS]) is logged as a Subject-Body manifestation expressing Void. The Bird formed from the sorrow of protecting what could not be saved. Held at SECTOR-B-01, contained with the Three Birds. It grows more active during the Sorrow Tide.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Flies through the facility protecting everything it identifies as vulnerable. Personnel feel protected but trapped by its guardianship. It has never abandoned a post, even when the protected object no longer exists.
@@ -356,7 +356,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 > *“Loyalty without purpose. That is the The Guarding Bird.”* — Elder, Forgotten Market District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-033 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-033 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Body manifestation
 **Common Name:** The Guarding Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
 **Comprehension Level:** 3 — Advanced

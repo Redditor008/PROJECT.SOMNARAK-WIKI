@@ -49,7 +49,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 25–45 per hit · Mixed |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[25–45 Crimson (HP) -> 25 Lament (Sanity) -> 25 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[25–45 Grudge (HP) -> 25 Lament (Sanity) -> 25 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Cord-Parasite (Non-Crystal, Elite-grade)
 
@@ -61,7 +61,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 30–50 per hit · Mixed |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It burrows, and once embedded it turns the host's own body against them. **[30–50 Crimson (HP) -> 30 Lament (Sanity) -> 30 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It burrows, and once embedded it turns the host's own body against them. **[30–50 Grudge (HP) -> 30 Lament (Sanity) -> 30 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Elite-grade)
 
@@ -73,7 +73,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 35–55 per hit · Mixed |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[35–55 Crimson (HP) -> 35 Lament (Sanity) -> 35 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[35–55 Grudge (HP) -> 35 Lament (Sanity) -> 35 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ### The Nest-Body (Humanoid, Elite-grade)
@@ -86,7 +86,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 22–34 per hit · Mixed |
 | **Spawn Count** | 2 |
 
-**Ability:** It splits open, and a wave of parasitic young pours toward the nearest warmth. **[22–34 Crimson (HP) -> 22–34 Lament (Sanity) -> 22–34 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It splits open, and a wave of parasitic young pours toward the nearest warmth. **[22–34 Grudge (HP) -> 22–34 Lament (Sanity) -> 22–34 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Mycelium (Amorphous, Elite-grade)
 
@@ -98,7 +98,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 20–32 per hit · Mixed |
 | **Spawn Count** | 1 |
 
-**Ability:** It fruits, and the spore-storm seeds everyone in the hall. **[20–32 Crimson (HP) -> 20–32 Lament (Sanity) -> 20–32 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It fruits, and the spore-storm seeds everyone in the hall. **[20–32 Grudge (HP) -> 20–32 Lament (Sanity) -> 20–32 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Burrowers (Swarm, Elite-grade)
 
@@ -110,7 +110,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 9–14 per hit · Mixed |
 | **Spawn Count** | 10–14 |
 
-**Ability:** They erupt underfoot, and a wave of burrowing bodies floods the legs of the formation. **[9–14 Crimson (HP) -> 9–14 Lament (Sanity) -> 9–14 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** They erupt underfoot, and a wave of burrowing bodies floods the legs of the formation. **[9–14 Grudge (HP) -> 9–14 Lament (Sanity) -> 9–14 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia

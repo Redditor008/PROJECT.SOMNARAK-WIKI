@@ -232,10 +232,10 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
  - Stagger Thresholds: 4,200 HP (70%) | 2,400 HP (40%) | 600 HP (10%)
  - Base Defense: 70 | Speed Dice: 2–6 (3 Attack Slots, 5 in Phase 2)
  - Resistances:
-   * Grudge (Crimson) : 1.0x (Normal — Forged from humanity's first anguish)
-   * Lament (Deep Blue): 0.5x (Endured — Saturated in four millennia of tears)
-   * Void (Pale White) : 2.0x (Exposed Weakness — Transcendent truth and silence)
-   * Weight (Black)    : 0.5x (Endured — Cyclopean bedrock and oceanic ballast)
+   * Grudge : 1.0x (Normal — Forged from humanity's first anguish)
+   * Lament: 0.5x (Endured — Saturated in four millennia of tears)
+   * Void : 2.0x (Exposed Weakness — Transcendent truth and silence)
+   * Weight    : 0.5x (Endured — Cyclopean bedrock and oceanic ballast)
 
  TARGETABLE COMPONENT PARTS:
  1. Aura of Primordial Grief  (HP: 1,200 | Stagger: 500) — Surging tidal barrier

@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass lens with a burning empty center. It forms after fragments are preserved without completion.
+A Void Han-glass lens with a burning empty center. It forms after fragments are preserved without completion.
 
 Zyrak severed three active deletion paths around a child-memory gap. The place remained unknown; several nameless personal memories left with the strikes.
 

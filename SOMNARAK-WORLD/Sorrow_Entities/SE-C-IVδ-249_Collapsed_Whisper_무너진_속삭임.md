@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Non-Organic — A dream-figure formed from a whisper crushed beneath layers of static and red light — half-formed, watching from the edge of sleep, never fully arriving. Little body to it; only the pressure of a silenced warning. Fever-cold, it smells of char and dead signals. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fallen Phrase* [**Debuff**] } | "A whisper tries to form — but the words collapse before they reach you, and the debris of meaning stings." | [The Whisper falls apart mid-air; the fragments carry resentment.] | *Target suffers -10 Resilience; the failed communication carries anger.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target tries to listen. |
-| { *The Echo of Collapse* [**Debuff**] } | "The sound of the whisper breaking repeats — a loop of failed communication." | [The Whisper's structural failure echoes; the target hears the collapse.] | *Target loses 10 Resilience; the sound of things breaking down is constant.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target remains. |
-| { *The Sharp Fragment* [**Attack**] } | "A word-fragment, hardened by anger, flies free — and it cuts." | [A shard of collapsed whisper launches at the target.] | *Inflicts Crimson pressure and one thin, ringing cut.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Whisper is pressured. |
-| { *The Total Breakdown* [**Attack**] } | "The entire whisper gives way — every word, every letter, collapsing at once." | [The Whisper fully disintegrates; the collapse is a shockwave.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Whisper is forced. |
-| { *Every Voice Falls Apart* [**Ultimate**] } | "No one can finish a sentence — every word collapses before it arrives — and the silence is full of debris." | [The Whisper spreads its collapse to every voice in the field.] | *All in range suffer Crimson pressure for three turns of broken speech.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fallen Phrase* [**Debuff**] } | "A whisper tries to form — but the words collapse before they reach you, and the debris of meaning stings." | [The Whisper falls apart mid-air; the fragments carry resentment.] | *Target suffers -10 Resilience; the failed communication carries anger.* **[10 Grudge DMG [Grudge]]** | When the target tries to listen. |
+| { *The Echo of Collapse* [**Debuff**] } | "The sound of the whisper breaking repeats — a loop of failed communication." | [The Whisper's structural failure echoes; the target hears the collapse.] | *Target loses 10 Resilience; the sound of things breaking down is constant.* **[10 Grudge DMG [Grudge]]** | When the target remains. |
+| { *The Sharp Fragment* [**Attack**] } | "A word-fragment, hardened by anger, flies free — and it cuts." | [A shard of collapsed whisper launches at the target.] | *Inflicts Grudge pressure and one thin, ringing cut.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is pressured. |
+| { *The Total Breakdown* [**Attack**] } | "The entire whisper gives way — every word, every letter, collapsing at once." | [The Whisper fully disintegrates; the collapse is a shockwave.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is forced. |
+| { *Every Voice Falls Apart* [**Ultimate**] } | "No one can finish a sentence — every word collapses before it arrives — and the silence is full of debris." | [The Whisper spreads its collapse to every voice in the field.] | *All in range suffer Grudge pressure for three turns of broken speech.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Breach Type** | Transform |
 | **Movement** | Collapsed Whisper expands beyond containment like a spreading tide. It drives personnel mad with half-heard secrets. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)
@@ -188,7 +188,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -206,7 +206,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a thread-band of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a thread-band of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Collapsed Whisper (C-IVδ-249 [GS]) is logged as a Subject-Dream manifestation expressing Grudge (Crimson). The Whisper formed from a warning that collapsed before reaching anyone. Held at The Desolate — mobile. It sings through dream distortion.
+Collapsed Whisper (C-IVδ-249 [GS]) is logged as a Subject-Dream manifestation expressing Grudge. The Whisper formed from a warning that collapsed before reaching anyone. Held at The Desolate — mobile. It sings through dream distortion.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams of personnel near the Desolate. Subjects hear warnings that cannot be completed. Its warnings are fragments, not prophecies.
@@ -344,7 +344,7 @@ Some sorrows are about the danger. Collapsed Whisper is about the warning — th
 > *“A warning collapsed before it reached the people who needed it.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-249 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVδ-249 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Dream manifestation
 **Common Name:** Collapsed Whisper
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 3 — Advanced

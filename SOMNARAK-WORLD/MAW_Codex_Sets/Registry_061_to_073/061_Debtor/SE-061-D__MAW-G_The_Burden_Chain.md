@@ -16,7 +16,7 @@
 |---|---|
 | Type | Accessory (Stigma) — black chain |
 | Grade | γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Slot | Head |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Debtor source record |

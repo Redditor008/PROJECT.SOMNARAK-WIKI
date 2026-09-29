@@ -21,7 +21,7 @@
 | **Type** | Weapon — singing blade |
 | **Category** | MELEE (Resonating Greatsword) |
 | **Grade** | δ — Critical |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Maximum Amount** | 2 — Limited |
 | **Echo Cost** | 50 Sorrow Echoes |
 | **Bearer Requirement** | Must complete a Bell vigil without leaving the tower boundary |

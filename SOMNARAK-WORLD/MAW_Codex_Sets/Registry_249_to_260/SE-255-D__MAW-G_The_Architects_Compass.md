@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A black Han-steel Head compass with no cardinal marks. Its needle follows intended circulation—door, stair, gathering place, light—not geographic direction.
+A Weight Han-steel Head compass with no cardinal marks. Its needle follows intended circulation—door, stair, gathering place, light—not geographic direction.
 
 The Architect granted it after Yeonhwa mapped an unfinished structure by purpose without adding the missing room. Bestowal chance is 4%.
 

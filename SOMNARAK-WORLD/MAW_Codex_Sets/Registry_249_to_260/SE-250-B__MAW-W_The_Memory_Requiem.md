@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A short singing blade of deep-blue Han-crystal with a clear raindrop suspended above the guard. It forms from a catalogued drop that crystallized without entering a collector.
+A short singing blade of Lament Han-crystal with a clear raindrop suspended above the guard. It forms from a catalogued drop that crystallized without entering a collector.
 
 Binding requires two current identity anchors. During the *Borrowed Wedding Incident*, Durivel separated an unknown ceremony from a patrol agent who had begun answering to the groom’s name. The memory survived as a crystal; Durivel wept through vows he had never heard.
 

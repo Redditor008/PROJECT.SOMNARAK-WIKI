@@ -21,7 +21,7 @@
 | **Type** | Protective Attire — louvered breastplate and pane harness |
 | **Category** | SUIT (Reinforced Glass Louver Cuirass) |
 | **Grade** | β — Moderate |
-| **Element** | Weight — Black |
+| **Element** | Weight |
 | **Maximum Amount** | 4 — Standard Cadre |
 | **Echo Cost** | 20 Sorrow Echoes |
 | **Bearer Requirement** | Must wear alongside an accompaniment partner and record current endpoint |
@@ -39,9 +39,9 @@ Intricate frost fern patterns shift across the central glass pane in response to
 
 | Defense Field | Rating / Resistance Parameter |
 |---|---|
-| **Lament (Deep Blue)** | 1.0 — Standard Neutral |
-| **Grudge (Crimson)** | 1.0 — Standard Neutral |
-| **Void (Pale White)** | 1.5 — Vulnerable (Subject to direct cognitive erosion) |
+| **Lament** | 1.0 — Standard Neutral |
+| **Grudge** | 1.0 — Standard Neutral |
+| **Void** | 1.5 — Vulnerable (Subject to direct cognitive erosion) |
 | **Weight (Deep Black)** | 0.5 — Heavy Resistance (Dampens kinetic & gravity load) |
 | **Armor Class** | Medium-Heavy Composite |
 | **Mobility Modifier** | -5% Sprint, +15% Posture Stability against forced pushback |

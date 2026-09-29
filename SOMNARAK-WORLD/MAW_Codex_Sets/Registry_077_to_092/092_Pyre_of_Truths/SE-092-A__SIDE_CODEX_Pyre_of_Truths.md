@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Place — Place-Grudge |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Location | SECTOR-B-02, Zone B |
 | Form | A vast wooden library burning in crimson fire; books turn their own pages and survive until their truth is read. |
 | Gauge / pressure | 60–80% / Grudge 29–62 |
@@ -86,7 +86,7 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
 | Weapon | The Burning Fang | δ | Grudge | Piercing response to active suppression and structural threat | `SE-092-B__MAW-W_The_Burning_Fang.md` |
-| Suit | The Burning Plate | δ | Grudge | Body protection against Crimson pressure and heat | `SE-092-C__MAW-S_The_Burning_Plate.md` |
+| Suit | The Burning Plate | δ | Grudge | Body protection against Grudge pressure and heat | `SE-092-C__MAW-S_The_Burning_Plate.md` |
 | Stigma | The Burning Page | δ | Grudge | One irreversible reading of a hidden civic truth | `SE-092-D__MAW-G_The_Burning_Page.md` |
 
 ---

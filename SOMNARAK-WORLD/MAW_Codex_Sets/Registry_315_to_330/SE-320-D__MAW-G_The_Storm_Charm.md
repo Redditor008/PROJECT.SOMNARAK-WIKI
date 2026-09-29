@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A matte black Han-steel Head charm containing a tiny moving storm line. It appears only after a survivor completes Ferrehan shelter work and the Storm passes. Bestowal chance is 4%.
+A matte Weight Han-steel Head charm containing a tiny moving storm line. It appears only after a survivor completes Ferrehan shelter work and the Storm passes. Bestowal chance is 4%.
 
 ## Appearance
 

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A drowned tree-beast dragging itself beneath the Mask Market floor, branch-arms and a weeping face pressing up through the crystal — a submerged creature of waterlogged wood. Salt-damp, it smells of cold rain and depth. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Drowned Roots* [**Debuff**] } | "The tree is underwater — roots splayed, bark dark with decades of grief." | [The Tree's submerged sorrow seeps into the target.] | *Target suffers -10 Composure; they feel the depth of the drowning.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target wades near the Tree. |
-| { *The Rising Sap* [**Debuff**] } | "Sorrow-sap weeps from the bark — thick, dark, and tasting of old grief." | [The Tree's grief bleeds outward; the water thickens.] | *Target loses 10 Composure; the sorrow is saturating everything.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers in the water. |
-| { *The Drowned Branch* [**Attack**] } | "A branch, soft with rot and sorrow, swings through the water at you." | [A waterlogged branch strikes the target.] | *Inflicts Deep Blue pressure and one sodden, heavy wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Tree is disturbed. |
-| { *The Full Descent* [**Attack**] } | "The tree finishes sinking — and it pulls the water, and you, down with it." | [The Tree's final descent drags everything under.] | *A heavy Deep Blue pull; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Tree is struck. |
-| { *The Drowned Grove* [**Ultimate**] } | "The water does not stop rising — and the whole grove goes under, roots and all." | [The Tree floods the entire field with its sorrow-water.] | *All in range suffer Deep Blue pressure for three turns in the drowned grove.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Drowned Roots* [**Debuff**] } | "The tree is underwater — roots splayed, bark dark with decades of grief." | [The Tree's submerged sorrow seeps into the target.] | *Target suffers -10 Composure; they feel the depth of the drowning.* **[10 Lament DMG [Lament]]** | When the target wades near the Tree. |
+| { *The Rising Sap* [**Debuff**] } | "Sorrow-sap weeps from the bark — thick, dark, and tasting of old grief." | [The Tree's grief bleeds outward; the water thickens.] | *Target loses 10 Composure; the sorrow is saturating everything.* **[10 Lament DMG [Lament]]** | When the target lingers in the water. |
+| { *The Drowned Branch* [**Attack**] } | "A branch, soft with rot and sorrow, swings through the water at you." | [A waterlogged branch strikes the target.] | *Inflicts Lament pressure and one sodden, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed. |
+| { *The Full Descent* [**Attack**] } | "The tree finishes sinking — and it pulls the water, and you, down with it." | [The Tree's final descent drags everything under.] | *A heavy Deep Blue pull; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tree is struck. |
+| { *The Drowned Grove* [**Ultimate**] } | "The water does not stop rising — and the whole grove goes under, roots and all." | [The Tree floods the entire field with its sorrow-water.] | *All in range suffer Lament pressure for three turns in the drowned grove.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -225,7 +225,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -243,7 +243,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a root-charm of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a root-charm of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -296,7 +296,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Banyan (N-IVδ-606 [LP]) is logged as a Place-Grudge manifestation expressing Lament (Deep Blue). The Tree formed from sorrow deliberately buried beneath performance and masks. Held at Zone C, Mask Market. The Tree is visible only through reflections and transparent floors.
+Banyan (N-IVδ-606 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Tree formed from sorrow deliberately buried beneath performance and masks. Held at Zone C, Mask Market. The Tree is visible only through reflections and transparent floors.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows during the Sorrow Tide.
@@ -380,7 +380,7 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 > *“A community that hid its pain so thoroughly the pain grew into a tree in the dark.”* — Elder, Mask Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-606 [LP]` · Lament (Deep Blue) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-606 [LP]` · Lament · Place-Grudge manifestation
 **Common Name:** Banyan
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic

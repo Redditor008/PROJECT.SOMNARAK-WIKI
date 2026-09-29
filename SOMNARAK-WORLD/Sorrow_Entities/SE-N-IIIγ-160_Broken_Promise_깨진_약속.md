@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Bitter and betrayed |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A shattered contract of red Han-crystal, its broken pieces hovering and rearranging endlessly into signatures that never complete. Fever-cold, it smells of char; a promise broken so thoroughly it cannot stop breaking. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Oath's Remains* [**Debuff**] } | "The promise is broken — and the shards of the vow lodge in your chest, sharp with old betrayal." | [The Promise's fragments embed in the target; the betrayal is internal.] | *Target suffers -10 Resilience; they carry someone else's broken word.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the Promise's domain. |
-| { *The Broken Word* [**Debuff**] } | "The sound of the promise breaking echoes — a snap, a tear — and every time it echoes, you feel it in your own trust." | [The Promise's breaking reverberates; the target's own faith cracks.] | *Target loses 10 Resilience; they cannot trust anything.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target hears the echo. |
-| { *The Shard-Strike* [**Attack**] } | "A fragment of the broken promise flies — sharp, jagged, carrying the full force of the betrayal." | [ A shard of shattered vow launches.] | *Inflicts Crimson pressure and one wound of broken trust.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Promise is disturbed. |
-| { *The Full Fracture* [**Attack**] } | "Every promise that was ever broken — every shattered vow — converges and detonates." | [The Promise's total collapse releases all stored betrayal.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Promise is confronted. |
-| { *Every Promise Breaks* [**Ultimate**] } | "Now every vow in the field shatters — every commitment, every oath — and no one can trust anyone anymore." | [The Promise extends its breaking across the whole area.] | *All in range suffer Crimson pressure for three turns of universal betrayal.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Oath's Remains* [**Debuff**] } | "The promise is broken — and the shards of the vow lodge in your chest, sharp with old betrayal." | [The Promise's fragments embed in the target; the betrayal is internal.] | *Target suffers -10 Resilience; they carry someone else's broken word.* **[10 Grudge DMG [Grudge]]** | When the target enters the Promise's domain. |
+| { *The Broken Word* [**Debuff**] } | "The sound of the promise breaking echoes — a snap, a tear — and every time it echoes, you feel it in your own trust." | [The Promise's breaking reverberates; the target's own faith cracks.] | *Target loses 10 Resilience; they cannot trust anything.* **[10 Grudge DMG [Grudge]]** | When the target hears the echo. |
+| { *The Shard-Strike* [**Attack**] } | "A fragment of the broken promise flies — sharp, jagged, carrying the full force of the betrayal." | [ A shard of shattered vow launches.] | *Inflicts Grudge pressure and one wound of broken trust.* **[14-22 Grudge DMG [Grudge]]** | When the Promise is disturbed. |
+| { *The Full Fracture* [**Attack**] } | "Every promise that was ever broken — every shattered vow — converges and detonates." | [The Promise's total collapse releases all stored betrayal.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Promise is confronted. |
+| { *Every Promise Breaks* [**Ultimate**] } | "Now every vow in the field shatters — every commitment, every oath — and no one can trust anyone anymore." | [The Promise extends its breaking across the whole area.] | *All in range suffer Grudge pressure for three turns of universal betrayal.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The behavior table is a snapshot, not a system. The classification and origin co
 |---|---|---|
 | 10 Seconds | Broken Promise rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Broken Promise activates its primary resonance: Binds the speaker to the promise emotionally and physically. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from betrayal—the grief of believing words and discovering that they were never intended to hold; the bearer begins perceiving echoes of a collector promised debt relief, then used the promise to secure another obligation. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Promise begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Broken Promise begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Broken Promise too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers A broken promise causes the object's shards to appear around the speaker. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Promise: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Promise: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Broken Promise: it is not a generic breach
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
 
 **Damage:** Grudge 7-12
 **Speed:** 3 (Fast)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Broken Promise: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Broken Promise: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a shard-tile of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a shard-tile of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Promise (N-IIIγ-160 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The object formed from a promise that was used as a weapon. Held at SECTOR-C-01, Collector's Row. It moves when promises are spoken near it.
+Broken Promise (N-IIIγ-160 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The object formed from a promise that was used as a weapon. Held at SECTOR-C-01, Collector's Row. It moves when promises are spoken near it.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It distinguishes inability from deliberate betrayal.
@@ -380,7 +380,7 @@ Some sorrows are about debt. Broken Promise is about the betrayal — the promis
 > *“The city’s promise of mercy, always a mechanism, always a hook.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-160 [GO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-160 [GO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge · Object-Grudge manifestation
 **Common Name:** Broken Promise
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

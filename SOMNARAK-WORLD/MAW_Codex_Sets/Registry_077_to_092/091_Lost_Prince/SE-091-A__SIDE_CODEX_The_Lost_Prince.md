@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | IV — Entity / γ — Major |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A translucent child-like figure in a crown of crystallized tears, flickering as he asks where the absent person went. |
 | Gauge / pressure | 45–65% / Lament 15–35 |

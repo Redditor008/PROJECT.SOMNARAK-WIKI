@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) — Barely formed, dormant |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — A seed cracked and sending out a thick pulsing tendril — a small mobile root-creature, warm and beating like a heart, dragging itself toward soil. Lead-warm, it smells of wet stone. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Planting* [**Debuff**] } | "Something takes root in the soft tissue of your chest — small, heavy, alive." | [The Seed plants itself in the target; sorrow begins to grow.] | *Target suffers -10 Resolve; something is germinating inside.* **[10 Black DMG [Black / Weight]]** | When the Seed is received. |
-| { *The First Sprout* [**Debuff**] } | "You feel it grow — a tender shoot of pure weight, pushing outward from within." | [The Seed sprouts; the sorrow-weight increases.] | *Target loses 10 Resolve; the growth is relentless.* **[10 Black DMG [Black / Weight]]** | When the target does not uproot it. |
-| { *The Throwing* [**Attack**] } | "The seed is flung — and where it lands, it takes root immediately." | [A volley of sorrow-seeds strikes the target.] | *Inflicts Black pressure; each seed plants a growing weight.* **[14-22 Black DMG [Black / Weight]]** | When the Seed is thrown. |
-| { *The Full Bloom* [**Attack**] } | "The seed bursts into full flower — and the flower is made entirely of accumulated grief." | [The Seed matures instantly, releasing its full grown sorrow.] | *A heavy Black eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Seed is forced to bloom. |
-| { *The Sorrow Garden* [**Ultimate**] } | "Seeds rain down everywhere — and the whole field blooms with heavy, weeping flowers." | [The Seed scatters across the entire area, all of it taking root.] | *All personnel suffer Black pressure for three turns in the sorrow garden.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Planting* [**Debuff**] } | "Something takes root in the soft tissue of your chest — small, heavy, alive." | [The Seed plants itself in the target; sorrow begins to grow.] | *Target suffers -10 Resolve; something is germinating inside.* **[10 Weight DMG [Weight]]** | When the Seed is received. |
+| { *The First Sprout* [**Debuff**] } | "You feel it grow — a tender shoot of pure weight, pushing outward from within." | [The Seed sprouts; the sorrow-weight increases.] | *Target loses 10 Resolve; the growth is relentless.* **[10 Weight DMG [Weight]]** | When the target does not uproot it. |
+| { *The Throwing* [**Attack**] } | "The seed is flung — and where it lands, it takes root immediately." | [A volley of sorrow-seeds strikes the target.] | *Inflicts Weight pressure; each seed plants a growing weight.* **[14-22 Weight DMG [Weight]]** | When the Seed is thrown. |
+| { *The Full Bloom* [**Attack**] } | "The seed bursts into full flower — and the flower is made entirely of accumulated grief." | [The Seed matures instantly, releasing its full grown sorrow.] | *A heavy Black eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Seed is forced to bloom. |
+| { *The Sorrow Garden* [**Ultimate**] } | "Seeds rain down everywhere — and the whole field blooms with heavy, weeping flowers." | [The Seed scatters across the entire area, all of it taking root.] | *All personnel suffer Weight pressure for three turns in the sorrow garden.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -225,7 +225,7 @@ The escalation pattern is specific to Sorrow Seed: it is not a generic breach ev
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 3-6
 **Speed:** 2 (Normal)
@@ -241,7 +241,7 @@ The escalation pattern is specific to Sorrow Seed: it is not a generic breach ev
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -259,7 +259,7 @@ The escalation pattern is specific to Sorrow Seed: it is not a generic breach ev
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a seed-charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a seed-charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -313,7 +313,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sorrow Seed (C-Iα-300 [D]) is logged as a Object-Weight manifestation expressing Weight (Black). The Seed formed from concentrated grief waiting for a form. Held at Zone D, Echo Gardens. It is dormant but not inert.
+Sorrow Seed (C-Iα-300 [D]) is logged as a Object-Weight manifestation expressing Weight. The Seed formed from concentrated grief waiting for a form. Held at Zone D, Echo Gardens. It is dormant but not inert.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 It responds to nearby grief.
@@ -397,7 +397,7 @@ Some sorrows are about what happened. Sorrow Seed is about what has not happened
 > *“The seed is patient. The Gardens are the kind of place where dormant grief might, one day, find its conditions.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-300 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-300 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Object-Weight manifestation
 **Common Name:** Sorrow Seed
 **Containment Status:** Contained — Echo Gardens (dormant)
 **Comprehension Level:** 4 — Mastered

@@ -11,9 +11,9 @@
 | **Coherence** | V — Sovereign (a force rather than a being) |
 | **Potency** | γ — Major |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — Not a creature but a moving wall of raw, unstructured wilderness Han — a tidal surge of black Han-pressure that rises from beyond the Desolate and crashes against Zone E. It has no body to strike; only the wave, the pressure, and the grinding erosion of the border. Lead-cold and immense, it smells of wet stone and iron on a scale that fills the lungs. |
+| **Physical Form** | Non-Organic — Not a creature but a moving wall of raw, unstructured wilderness Han — a tidal surge of Weight Han-pressure that rises from beyond the Desolate and crashes against Zone E. It has no body to strike; only the wave, the pressure, and the grinding erosion of the border. Lead-cold and immense, it smells of wet stone and iron on a scale that fills the lungs. |
 | **Movement** | Mobile — flows and surges in waves against the Zone E perimeter. |
 | **Location** | Zone E border / the outer Desolate — surges from the wilderness |
 | **R.D. Comprehension Level** | 5 — Maximum (constant border monitoring) |
@@ -56,7 +56,7 @@
 | **Speed** | 1–3 (Ponderous environmental surge) |
 | **Activation threshold** | Wilderness Han surge detected at outer watchtowers |
 | **Sorrow Gauge [HP]** | 900/900 |
-| **Han Pressure [ATK]** | 25–60 per hit · Weight (Black) |
+| **Han Pressure [ATK]** | 25–60 per hit · Weight |
 | **Starting Sorrow Gauge** | 30–50% |
 | **Han-Energy Yield** | 24–32 per successful containment cycle |
 
@@ -73,11 +73,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Rising Green* [**Debuff**] } | "Vines creep across the floor — and they are faster than they look." | [The Tide's wild growth encroaches; green swallows the ground.] | *Target suffers -10 Resolve as nature advances.* **[10 Black DMG [Black / Weight]]** | When the target stands in the Tide's path. |
-| { *The Wild Pressure* [**Debuff**] } | "The wilderness presses inward — patient, inevitable, and stronger than the walls." | [The Tide's raw pressure builds; the target feels the wild at their back.] | *Target loses 10 Resolve; the city is losing ground.* **[10 Black DMG [Black / Weight]]** | When the target lingers at the edge. |
-| { *The Undertow* [**Attack**] } | "The green drags you under — into the wild, where the city ends." | [A wave of wild growth seizes and pulls the target.] | *Inflicts Black pressure and one entangling wound.* **[14-22 Black DMG [Black / Weight]]** | When the Tide is resisted. |
-| { *The Storm Surge* [**Attack**] } | "The tide crests — and when it breaks, it brings the whole wilderness with it." | [A massive surge of raw, weighted nature crashes.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Tide is dammed. |
-| { *The Drowned City* [**Ultimate**] } | "The wilderness wins. It always wins, eventually — and today is eventually." | [The Tide engulfs the entire field in reclaiming growth.] | *All personnel suffer Black pressure for three turns as the wild takes all.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Rising Green* [**Debuff**] } | "Vines creep across the floor — and they are faster than they look." | [The Tide's wild growth encroaches; green swallows the ground.] | *Target suffers -10 Resolve as nature advances.* **[10 Weight DMG [Weight]]** | When the target stands in the Tide's path. |
+| { *The Wild Pressure* [**Debuff**] } | "The wilderness presses inward — patient, inevitable, and stronger than the walls." | [The Tide's raw pressure builds; the target feels the wild at their back.] | *Target loses 10 Resolve; the city is losing ground.* **[10 Weight DMG [Weight]]** | When the target lingers at the edge. |
+| { *The Undertow* [**Attack**] } | "The green drags you under — into the wild, where the city ends." | [A wave of wild growth seizes and pulls the target.] | *Inflicts Weight pressure and one entangling wound.* **[14-22 Weight DMG [Weight]]** | When the Tide is resisted. |
+| { *The Storm Surge* [**Attack**] } | "The tide crests — and when it breaks, it brings the whole wilderness with it." | [A massive surge of raw, weighted nature crashes.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tide is dammed. |
+| { *The Drowned City* [**Ultimate**] } | "The wilderness wins. It always wins, eventually — and today is eventually." | [The Tide engulfs the entire field in reclaiming growth.] | *All personnel suffer Weight pressure for three turns as the wild takes all.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -93,7 +93,7 @@
 
 ## Appearance
 
-**Physical Form:** A moving wall of raw, unstructured wilderness Han — a tidal surge of black Han-pressure rising from beyond the Desolate and crashing against Zone E's outer wall. It has no shape, no body, no face — only the wave, the pressure, and the grinding weight. The air tastes of iron and wet stone; the ground shakes before it arrives.
+**Physical Form:** A moving wall of raw, unstructured wilderness Han — a tidal surge of Weight Han-pressure rising from beyond the Desolate and crashing against Zone E's outer wall. It has no shape, no body, no face — only the wave, the pressure, and the grinding weight. The air tastes of iron and wet stone; the ground shakes before it arrives.
 
 **Notable Features:**
 - The Tide varies in height (3–15 meters) and intensity with each surge.
@@ -257,7 +257,7 @@ It can wait.
 | **Origin** | Outside Sorrow — raw wilderness Han |
 | **Coherence** | V — Sovereign (force, not being) |
 | **Potency** | γ — Major |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **First Recorded** | Year 4150 (first documented major surge) |
 | **Containment Status** | Active border threat — repelled, not contained |

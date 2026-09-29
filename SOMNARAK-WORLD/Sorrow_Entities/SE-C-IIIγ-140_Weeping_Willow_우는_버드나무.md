@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Ancient and sorrowful |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A massive, ancient willow of true living wood — bark furrowed and damp, limbs heavy and sweeping the ground — yet its leaves are not leaves but long, slow-falling tears of pale crystal that shatter silently on contact. Dark sap runs warm and salt-bitter from cracks in the trunk. The tree is unmistakably alive: it breathes, and shudders in wind no one else feels. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dripping Branches* [**Debuff**] } | "The willow weeps onto your shoulders — and the water is older than the tree." | [Sorrow-laden branches drape over the target; tears soak through.] | *Target suffers -10 Composure; the willow's grief is contagious.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands beneath the Willow. |
-| { *The Rooted Sorrow* [**Debuff**] } | "The roots are deep — and they connect to every grief this ground has ever held." | [The Willow's root-system channels old sorrow upward.] | *Target loses 10 Composure; the earth itself is weeping.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers in the root-shadow. |
-| { *The Whipping Branch* [**Attack**] } | "A branch lashes down — heavy with water, heavy with years." | [A sodden branch strikes like a flail.] | *Inflicts Deep Blue pressure and one soaking, heavy wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Willow is disturbed. |
-| { *The Full Weeping* [**Attack**] } | "The tree gives up its grief entirely — every leaf becomes a tear, and they fall like rain." | [The Willow releases its accumulated sorrow in a deluge.] | *A heavy Deep Blue downpour; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Willow is cut or struck. |
-| { *The Drowned Grove* [**Ultimate**] } | "The willow's roots spread — and everywhere they reach, the ground weeps." | [The Willow extends its sorrow across the whole field.] | *All in range suffer Deep Blue pressure for three turns in the weeping grove.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dripping Branches* [**Debuff**] } | "The willow weeps onto your shoulders — and the water is older than the tree." | [Sorrow-laden branches drape over the target; tears soak through.] | *Target suffers -10 Composure; the willow's grief is contagious.* **[10 Lament DMG [Lament]]** | When the target stands beneath the Willow. |
+| { *The Rooted Sorrow* [**Debuff**] } | "The roots are deep — and they connect to every grief this ground has ever held." | [The Willow's root-system channels old sorrow upward.] | *Target loses 10 Composure; the earth itself is weeping.* **[10 Lament DMG [Lament]]** | When the target lingers in the root-shadow. |
+| { *The Whipping Branch* [**Attack**] } | "A branch lashes down — heavy with water, heavy with years." | [A sodden branch strikes like a flail.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Willow is disturbed. |
+| { *The Full Weeping* [**Attack**] } | "The tree gives up its grief entirely — every leaf becomes a tear, and they fall like rain." | [The Willow releases its accumulated sorrow in a deluge.] | *A heavy Deep Blue downpour; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Willow is cut or struck. |
+| { *The Drowned Grove* [**Ultimate**] } | "The willow's roots spread — and everywhere they reach, the ground weeps." | [The Willow extends its sorrow across the whole field.] | *All in range suffer Lament pressure for three turns in the weeping grove.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Weeping Willow: it is not a generic breach
 
 **Category:** MELEE (War-Scythe / Flexible Branch-Blade) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** A sweeping polearm scythe whose long shaft is grown from petrified willow heartwood wrapped in pale-blue prayer silk. The crescent head curves in a graceful willow-leaf arc forged of deep-blue Han-crystal, draped with delicate tendrils of flexible crystal foliage that weep cold, luminous blue tears when swung. As it sweeps through the air, the weapon leaves a falling curtain of weeping dew and soundless farewells, reaping through hostile emotional resolve across Medium reach.
+**Appearance:** A sweeping polearm scythe whose long shaft is grown from petrified willow heartwood wrapped in pale-blue prayer silk. The crescent head curves in a graceful willow-leaf arc forged of Lament Han-crystal, draped with delicate tendrils of flexible crystal foliage that weep cold, luminous blue tears when swung. As it sweeps through the air, the weapon leaves a falling curtain of weeping dew and soundless farewells, reaping through hostile emotional resolve across Medium reach.
 
 **Damage:** Lament 9–15
 **Speed:** 3 (Normal)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Weeping Willow: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a billowing cloak of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a billowing cloak of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Weeping Willow: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Weeping Willow (C-IIIγ-140 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Willow formed from the sorrow of endings. Held at SECTOR-D-02, Echo Gardens. Its leaves fall even without wind.
+Weeping Willow (C-IIIγ-140 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Willow formed from the sorrow of endings. Held at SECTOR-D-02, Echo Gardens. Its leaves fall even without wind.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It is most active around funerals and departures.
@@ -361,7 +361,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 > *“I brought my daughter here on her wedding day. We both cried. The tree cried with us.”* — Citizen, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-140 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-140 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** Weeping Willow
 **Containment Status:** Contained — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic

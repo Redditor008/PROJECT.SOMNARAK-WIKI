@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Frozen Charm |
 | Set | Released Breath |
-| Type / grade / element | Stigma, crimson frost-charm / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Stigma, crimson frost-charm / δ — Critical / Grudge |
 | Slot | Tail |
 | Status | Bearer-bound; fatigue escalation review required |
 | Known bearer | Specialist Sooah Park |

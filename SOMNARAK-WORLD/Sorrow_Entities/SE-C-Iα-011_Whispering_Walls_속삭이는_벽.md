@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Non-Organic — Faded murals — old paintings of the first settlers covering the stone — that murmur overlapping whispers in the dark, replaying grief across centuries. The paint is salt-damp, smelling of cold rain; the painted faces murmur to the living. |
 | **Movement** | Stationary — an artwork. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Breath Behind the Plaster* [**Debuff**] } | "The wall exhales — and the breath carries words you almost understand." | [The Walls breathe out whispered fragments; the target catches them.] | *Target suffers -10 Composure; the walls are speaking to them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target leans close. |
-| { *The Spread of Secrets* [**Debuff**] } | "The whispers multiply — wall to wall, room to room — and they are all about you." | [The whispers propagate; the target hears themselves discussed.] | *Target loses 10 Composure; privacy is impossible here.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Deafening Hush* [**Attack**] } | "The whispers stop — and the silence that follows is louder than any scream." | [A wall of oppressive silence strikes the target.] | *Inflicts Deep Blue pressure and one wound of absolute quiet.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Walls are commanded to stop. |
-| { *The Spoken Aloud* [**Attack**] } | "The walls say the one thing you never wanted anyone to hear — clearly, at volume." | [The Walls broadcast the target's deepest secret.] | *A heavy Deep Blue exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Walls are struck. |
-| { *Every Wall Speaks* [**Ultimate**] } | "Now every surface in the building is whispering — and none of them are kind." | [The Walls spread their whispers across the entire field.] | *All in range suffer Deep Blue pressure for three turns of relentless murmuring.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Breath Behind the Plaster* [**Debuff**] } | "The wall exhales — and the breath carries words you almost understand." | [The Walls breathe out whispered fragments; the target catches them.] | *Target suffers -10 Composure; the walls are speaking to them.* **[10 Lament DMG [Lament]]** | When the target leans close. |
+| { *The Spread of Secrets* [**Debuff**] } | "The whispers multiply — wall to wall, room to room — and they are all about you." | [The whispers propagate; the target hears themselves discussed.] | *Target loses 10 Composure; privacy is impossible here.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Deafening Hush* [**Attack**] } | "The whispers stop — and the silence that follows is louder than any scream." | [A wall of oppressive silence strikes the target.] | *Inflicts Lament pressure and one wound of absolute quiet.* **[14-22 Lament DMG [Lament]]** | When the Walls are commanded to stop. |
+| { *The Spoken Aloud* [**Attack**] } | "The walls say the one thing you never wanted anyone to hear — clearly, at volume." | [The Walls broadcast the target's deepest secret.] | *A heavy Deep Blue exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Walls are struck. |
+| { *Every Wall Speaks* [**Ultimate**] } | "Now every surface in the building is whispering — and none of them are kind." | [The Walls spread their whispers across the entire field.] | *All in range suffer Lament pressure for three turns of relentless murmuring.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -210,7 +210,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -228,7 +228,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a small stone of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -284,7 +284,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Whispering Walls (C-Iα-011 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The phenomenon formed from the whispers of the first settlers. Held at Zone B, Old Lament — ambient, not contained. Voices are faint, ancient, and sometimes spoken in unknown languages.
+Whispering Walls (C-Iα-011 [LP]) is logged as a Place-Lament manifestation expressing Lament. The phenomenon formed from the whispers of the first settlers. Held at Zone B, Old Lament — ambient, not contained. Voices are faint, ancient, and sometimes spoken in unknown languages.
 
 **Entry 2 — <Excerpt from Field Log, Year 4224>**
 The Han-signature predates the city and the Consolihan.
@@ -368,7 +368,7 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 > *“The walls still whisper because the Han is still listening.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** Whispering Walls
 **Containment Status:** Ambient — Old Lament
 **Comprehension Level:** 3 — Advanced

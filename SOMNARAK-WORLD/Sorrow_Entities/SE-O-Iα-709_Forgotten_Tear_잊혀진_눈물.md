@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A single dark tear crystallized around a small ember of anger — warm and heavy for its size, glowing faint crimson at the core. Fever-warm, it smells of char; grief forgotten by all except the anger at its heart. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Overlooked* [**Debuff**] } | "You feel unseen — and the feeling is not new. It has been waiting a long time." | [The Tear marks the target with neglect; they feel invisible.] | *Target suffers -10 Resilience; they have been overlooked.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target disregards the Tear. |
-| { *The Dry Stain* [**Debuff**] } | "Where a tear dried, years ago, with no one to see it — the stain still aches." | [The old dried-tear mark resonates with the target's own unacknowledged grief.] | *Target loses 10 Resilience; old, unseen wounds reopen.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stays near the stain. |
-| { *The Salt Cut* [**Attack**] } | "The salt of an old, forgotten tear — crystallized, sharp, and angry at being ignored." | [A crust of old tear-salt lashes out, cutting like glass.] | *Inflicts Crimson pressure and one stinging, bitter cut.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Tear is disturbed. |
-| { *The Resentment* [**Attack**] } | "For being forgotten. For no one seeing. For drying alone. Here is all of it, at once." | [The accumulated resentment of being overlooked erupts.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Tear is confronted. |
-| { *Every Forgotten Tear* [**Ultimate**] } | "Every tear that ever fell without a witness rises now." | [The Tear calls forth every overlooked grief in the field.] | *All in range suffer Crimson pressure for three turns of accumulated neglect.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Overlooked* [**Debuff**] } | "You feel unseen — and the feeling is not new. It has been waiting a long time." | [The Tear marks the target with neglect; they feel invisible.] | *Target suffers -10 Resilience; they have been overlooked.* **[10 Grudge DMG [Grudge]]** | When the target disregards the Tear. |
+| { *The Dry Stain* [**Debuff**] } | "Where a tear dried, years ago, with no one to see it — the stain still aches." | [The old dried-tear mark resonates with the target's own unacknowledged grief.] | *Target loses 10 Resilience; old, unseen wounds reopen.* **[10 Grudge DMG [Grudge]]** | When the target stays near the stain. |
+| { *The Salt Cut* [**Attack**] } | "The salt of an old, forgotten tear — crystallized, sharp, and angry at being ignored." | [A crust of old tear-salt lashes out, cutting like glass.] | *Inflicts Grudge pressure and one stinging, bitter cut.* **[14-22 Grudge DMG [Grudge]]** | When the Tear is disturbed. |
+| { *The Resentment* [**Attack**] } | "For being forgotten. For no one seeing. For drying alone. Here is all of it, at once." | [The accumulated resentment of being overlooked erupts.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Tear is confronted. |
+| { *Every Forgotten Tear* [**Ultimate**] } | "Every tear that ever fell without a witness rises now." | [The Tear calls forth every overlooked grief in the field.] | *All in range suffer Grudge pressure for three turns of accumulated neglect.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | Forgotten Tear rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Forgotten Tear activates its primary resonance: Transfers the forgotten grievance into the holder's awareness. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the anger of a person whose loss was dismissed by everyone around them; the bearer begins perceiving echoes of a death was treated as insignificant; the unacknowledged tear became a red crystal. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Forgotten Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Forgotten Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Forgotten Tear too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The holder may mistake the old anger for a current injustice. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Forgotten Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Forgotten Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -228,7 +228,7 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -246,7 +246,7 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a shard-tile of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a shard-tile of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Tear (O-Iα-709 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Tear formed from grief that was forgotten before it could be expressed. Held at Zone A, Alpha Tree vault. It becomes heavier when ignored.
+Forgotten Tear (O-Iα-709 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Tear formed from grief that was forgotten before it could be expressed. Held at Zone A, Alpha Tree vault. It becomes heavier when ignored.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It warms when grief is acknowledged.
@@ -384,7 +384,7 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 > *“The rage of a person whose loss was dismissed by everyone around them.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-709 [GO]` · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-709 [GO]` · Grudge · Object-Grudge manifestation
 **Common Name:** Forgotten Tear
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 1 — Initial

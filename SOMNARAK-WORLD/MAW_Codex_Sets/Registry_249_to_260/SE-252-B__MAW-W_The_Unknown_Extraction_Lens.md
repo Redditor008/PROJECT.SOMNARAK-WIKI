@@ -15,7 +15,7 @@
 
 ## IDENTITY & BINDING
 
-A pale Han-glass disc held in a long black frame. Its surface remains blank until a Gate whisper enters the room, then fractures the fragment into center, inner, and outer dissipation zones.
+A Void Han-glass disc held in a long black frame. Its surface remains blank until a Gate whisper enters the room, then fractures the fragment into center, inner, and outer dissipation zones.
 
 The unit predates current extraction rules. Binding requires the wielder to stand with back to the Gate and name the sealed field receiving the discharge. During the only authorized modern test, Zyrak dispersed residual Void from an empty monitoring chamber and lost the memory of why one childhood word had mattered.
 

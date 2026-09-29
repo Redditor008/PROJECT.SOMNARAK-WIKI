@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-Vω-925 [WH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Weight |
 | Coherence / Potency | Sovereign (V) / Catastrophic (ω) |
-| Element / Location | Weight (Black) / SECTOR-C-925, UNCONTAINED |
+| Element / Location | Weight / SECTOR-C-925, UNCONTAINED |
 | Gauge / Pressure | 521/521; starts 35–50% / 11–20 per hit · Weight |
 | Observation | 5 — Sovereign |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Sorrow Mass Source-Trace, the field team preserved this source fa
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Sorrow Mass's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Sorrow Mass's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Sorrow Mass's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Sorrow Mass's wound through the operator and triggers the recorded escalation.
 
 ---
 

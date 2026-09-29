@@ -21,7 +21,7 @@ The Tide is the natural rhythm of a city built on sorrow. The city's collective 
 | Source designation | C-Vγ-260 [WP] |
 | Type / Manifestation | Object/Place — Can breach via Transform; cyclical phenomenon / Place-Weight |
 | Coherence / Potency | Sovereign (V) — Autonomous and cyclical / Major (γ) |
-| Element / Location | Weight (Black) / All zones — periodic phenomenon |
+| Element / Location | Weight / All zones — periodic phenomenon |
 | Gauge / Pressure | 709/709; starts 45–65% / 14–31 per hit · Weight |
 | Observation | 4 — Mastered |
 | Formation event | Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak. |
@@ -52,7 +52,7 @@ During the The The Sorrow Tide Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Sorrow Tide's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Impossible; use Tide shelters and shared mourning protocols The set cannot heal the originating event. Misuse routes The Sorrow Tide's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Sorrow Tide's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Impossible; use Tide shelters and shared mourning protocols The set cannot heal the originating event. Misuse routes The Sorrow Tide's wound through the operator and triggers the recorded escalation.
 
 ---
 

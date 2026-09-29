@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A walking tree of true living wood that travels on a knot of root-legs, branches reaching and gripping like hands — a wandering plant-creature. Warm, it smells of cold rain and home. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Sprout* [**Debuff**] } | "A sapling appears where you just cleared — and it is already taller than the stump you removed." | [The Tree returns; the target feels the futility of their effort.] | *Target suffers -10 Composure; it will not stay gone.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target cuts the Tree. |
-| { *The Accelerating Return* [**Debuff**] } | "Each time it comes back faster — sprout to sapling to full tree in seconds — and each time, angrier." | [The Tree's return cycle accelerates; the target cannot keep up.] | *Target loses 10 Composure; the Tree is winning.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target cuts it again. |
-| { *The Whipping Branch* [**Attack**] } | "The returning tree grows a branch in the time it takes to blink — and the branch is aimed at your face." | [A newly grown branch strikes before the target can react.] | *Inflicts Deep Blue pressure and one fast, woody wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Tree is disturbed mid-return. |
-| { *The Infinite Canopy* [**Attack**] } | "The tree returns — and returns again, and again, until there is a forest where one tree was." | [The Tree's exponential returns create an overwhelming mass.] | *A heavy Deep Blue overgrowth; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the return cycle is interrupted. |
-| { *The Endless Orchard* [**Ultimate**] } | "Every cut tree in the field returns at once — and they are all angry, and they are all growing." | [The Tree extends its returns across the whole area.] | *All in range suffer Deep Blue pressure for three turns of returning forest.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Sprout* [**Debuff**] } | "A sapling appears where you just cleared — and it is already taller than the stump you removed." | [The Tree returns; the target feels the futility of their effort.] | *Target suffers -10 Composure; it will not stay gone.* **[10 Lament DMG [Lament]]** | When the target cuts the Tree. |
+| { *The Accelerating Return* [**Debuff**] } | "Each time it comes back faster — sprout to sapling to full tree in seconds — and each time, angrier." | [The Tree's return cycle accelerates; the target cannot keep up.] | *Target loses 10 Composure; the Tree is winning.* **[10 Lament DMG [Lament]]** | When the target cuts it again. |
+| { *The Whipping Branch* [**Attack**] } | "The returning tree grows a branch in the time it takes to blink — and the branch is aimed at your face." | [A newly grown branch strikes before the target can react.] | *Inflicts Lament pressure and one fast, woody wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed mid-return. |
+| { *The Infinite Canopy* [**Attack**] } | "The tree returns — and returns again, and again, until there is a forest where one tree was." | [The Tree's exponential returns create an overwhelming mass.] | *A heavy Deep Blue overgrowth; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the return cycle is interrupted. |
+| { *The Endless Orchard* [**Ultimate**] } | "Every cut tree in the field returns at once — and they are all angry, and they are all growing." | [The Tree extends its returns across the whole area.] | *All in range suffer Lament pressure for three turns of returning forest.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -202,7 +202,7 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -241,7 +241,7 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a leaf-charm of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a leaf-charm of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Homecoming Tree (C-Iα-869 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Tree formed from the grief of returning to a place that no longer recognized you. Held at Zone E, Border region. The Tree appears only after significant return or rediscovery.
+Homecoming Tree (C-Iα-869 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Tree formed from the grief of returning to a place that no longer recognized you. Held at Zone E, Border region. The Tree appears only after significant return or rediscovery.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its roots follow memories rather than water.
@@ -380,7 +380,7 @@ Some sorrows mourn exile. Homecoming Tree mourns the return — the home not des
 > *“Not exile, but the return — the homecoming to a world that moved on.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-869 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-869 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** Homecoming Tree
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

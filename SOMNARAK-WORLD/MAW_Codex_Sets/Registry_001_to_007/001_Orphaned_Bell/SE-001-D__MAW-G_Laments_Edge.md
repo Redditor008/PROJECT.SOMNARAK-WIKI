@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Accessory (Stigma) |
 | **Grade** | δ — Critical |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Slot** | Tail |
 | **Acquisition Probability** | 4% |
 | **Set Function** | Memory anchor for the Bell’s named grief |

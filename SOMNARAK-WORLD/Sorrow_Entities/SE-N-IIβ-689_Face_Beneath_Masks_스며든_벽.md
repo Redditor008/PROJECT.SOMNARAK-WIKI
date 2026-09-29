@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A wall-shaped presence inside consciousness rather than the world — felt, not seen, spreading inward whenever a person tries to hide an emotional boundary. Bloodless-cold, it smells of ash; nothing to strike, only the wall growing behind one's own eyes. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The New Brick* [**Debuff**] } | "A brick appears where there was air a moment ago — and it is followed by another." | [The Wall extends; new masonry grows toward the target.] | *Target suffers a Void mark; the wall is closing in.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the space. |
-| { *The Shrinking Room* [**Debuff**] } | "The walls move inward — slow enough to doubt, fast enough to trap." | [The Wall constricts the space; the target feels the bounds tightening.] | *Target loses clarity; there is less room every moment.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Falling Block* [**Attack**] } | "A brick tears free and flies — heavy, precise, aimed." | [A block of spreading wall launches at the target.] | *Inflicts Void damage; a chunk of enclosure sheared off.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Wall is attacked. |
-| { *The Total Enclosure* [**Attack**] } | "The walls meet — and now you are inside, and the inside is very small." | [The Wall seals completely around the target.] | *A heavy Void crush; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Wall is forced inward. |
-| { *Walls Within Walls* [**Ultimate**] } | "The walls do not stop at one room — they divide, and divide, until everyone is alone in a cell." | [The Wall subdivides the entire field into tiny sealed spaces.] | *All in range suffer Pale White erosion for three turns in the shrinking cells.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The New Brick* [**Debuff**] } | "A brick appears where there was air a moment ago — and it is followed by another." | [The Wall extends; new masonry grows toward the target.] | *Target suffers a Void mark; the wall is closing in.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the space. |
+| { *The Shrinking Room* [**Debuff**] } | "The walls move inward — slow enough to doubt, fast enough to trap." | [The Wall constricts the space; the target feels the bounds tightening.] | *Target loses clarity; there is less room every moment.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Falling Block* [**Attack**] } | "A brick tears free and flies — heavy, precise, aimed." | [A block of spreading wall launches at the target.] | *Inflicts Void damage; a chunk of enclosure sheared off.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Wall is attacked. |
+| { *The Total Enclosure* [**Attack**] } | "The walls meet — and now you are inside, and the inside is very small." | [The Wall seals completely around the target.] | *A heavy Void crush; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Wall is forced inward. |
+| { *Walls Within Walls* [**Ultimate**] } | "The walls do not stop at one room — they divide, and divide, until everyone is alone in a cell." | [The Wall subdivides the entire field into tiny sealed spaces.] | *All in range suffer Void erosion for three turns in the shrinking cells.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a shard-tile of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a shard-tile of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Face Beneath Masks (N-IIβ-689 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Wall formed from a person's need to hide from everyone, including the self. Held at Zone C, Mask Market. It spreads through shared identity anxiety.
+Face Beneath Masks (N-IIβ-689 [VS]) is logged as a Subject-Mind manifestation expressing Void. The Wall formed from a person's need to hide from everyone, including the self. Held at Zone C, Mask Market. It spreads through shared identity anxiety.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the consciousness of nearby personnel. Workers lose access to memories behind the mental wall. Direct confrontation makes it thicker.
@@ -350,7 +350,7 @@ Some sorrows are about hiding. Face Beneath Masks is about the hiding that becom
 > *“The wall of social surfaces, built for survival, that consumed the self it was meant to protect.”* — Elder, Mask Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-689 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IIβ-689 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Mind manifestation
 **Common Name:** Face Beneath Masks
 **Containment Status:** Contained — Mask Market
 **Comprehension Level:** 2 — Basic

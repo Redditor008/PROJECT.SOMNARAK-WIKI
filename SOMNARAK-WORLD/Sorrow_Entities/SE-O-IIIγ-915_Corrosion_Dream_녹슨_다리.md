@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike figure built from rusted bridge plates and dark water — corroded span and slow current fused into a wandering form. Bloodless-cold, it smells of ash and wet iron; it sings, but only those who have lost a crossing can hear it. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Corroded Span* [**Debuff**] } | "The bridge is rusted through — more oxide than iron — and each step sends flakes of decay raining into the chasm." | [The Bridge's corrosion infects the target; their own supports feel fragile.] | *Target suffers a Void mark; they are rusting from within.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target steps on the Bridge. |
-| { *The Sagging Cable* [**Debuff**] } | "The support cables are rusted to threads — and they sing, in the wind, a thin, corroded note." | [The Bridge's decayed supports radiate instability; the target cannot trust the structure.] | *Target loses clarity; everything is about to give way.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target crosses. |
-| { *The Falling Flake* [**Attack**] } | "A sheet of rust breaks from the bridge — heavy, oxidized, sharp — and falls." | [A massive rust-flake drops onto the target.] | *Inflicts Void damage; the corrosion carries void-weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bridge is shaken. |
-| { *The Full Corrosion* [**Attack**] } | "The entire bridge rusts away — from solid to powder in seconds — and the crossing ceases to exist." | [The Bridge's complete oxidation removes the passage entirely.] | *A heavy Void dissolution; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Bridge is struck. |
-| { *The Rusted Field* [**Ultimate**] } | "Every bridge in the field corrodes — and without crossings, every side is cut off from every other." | [The Bridge extends its corrosion across the whole area.] | *All in range suffer Pale White erosion for three turns of rusted crossings.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Corroded Span* [**Debuff**] } | "The bridge is rusted through — more oxide than iron — and each step sends flakes of decay raining into the chasm." | [The Bridge's corrosion infects the target; their own supports feel fragile.] | *Target suffers a Void mark; they are rusting from within.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target steps on the Bridge. |
+| { *The Sagging Cable* [**Debuff**] } | "The support cables are rusted to threads — and they sing, in the wind, a thin, corroded note." | [The Bridge's decayed supports radiate instability; the target cannot trust the structure.] | *Target loses clarity; everything is about to give way.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target crosses. |
+| { *The Falling Flake* [**Attack**] } | "A sheet of rust breaks from the bridge — heavy, oxidized, sharp — and falls." | [A massive rust-flake drops onto the target.] | *Inflicts Void damage; the corrosion carries void-weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bridge is shaken. |
+| { *The Full Corrosion* [**Attack**] } | "The entire bridge rusts away — from solid to powder in seconds — and the crossing ceases to exist." | [The Bridge's complete oxidation removes the passage entirely.] | *A heavy Void dissolution; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bridge is struck. |
+| { *The Rusted Field* [**Ultimate**] } | "Every bridge in the field corrodes — and without crossings, every side is cut off from every other." | [The Bridge extends its corrosion across the whole area.] | *All in range suffer Void erosion for three turns of rusted crossings.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a spanning plate of pale Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a spanning plate of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -208,7 +208,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Corrosion Dream (O-IIIγ-915 [VS]) is logged as a Subject-Dream manifestation expressing Void (Pale White). The Bridge formed from the dream of a connection that could not be repaired. Held at Zone D, Forge District. Its song is strongest near damaged bridges and gates.
+Corrosion Dream (O-IIIγ-915 [VS]) is logged as a Subject-Dream manifestation expressing Void. The Bridge formed from the dream of a connection that could not be repaired. Held at Zone D, Forge District. Its song is strongest near damaged bridges and gates.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Appears through dreams and Forge District corridors. Personnel feel abandoned after every attempted connection. Dream-layer observation shows a complete bridge; waking observation shows only fragments.
@@ -344,7 +344,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 > *“Desire, however sustained, cannot substitute for the actual building.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-915 [VS]` · Void (Pale White) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-915 [VS]` · Void · Subject-Dream manifestation
 **Common Name:** Corrosion Dream
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 2 — Basic

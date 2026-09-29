@@ -12,7 +12,7 @@
 | **Coherence** | Sovereign (V) — Autonomous, ancient, singular |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A single crystallized tear, smaller than a raindrop, suspended motionless above a sealed pedestal and glowing faint blue. It does not fall; it has never fallen. Salt-cold, it smells of cold rain — the first grief the city ever wept, frozen before it could land. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Original Drop* [**Debuff**] } | "This is the first tear ever shed — the prototype of all grief — and it has not dried in six thousand years." | [The Tear's ancient sorrow is so concentrated it radiates like heat.] | *Target suffers -10 Composure; the weight of all grief's origin is immense.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target sees the Tear. |
-| { *The Echoing First* [**Debuff**] } | "Every tear ever shed is an echo of this one — and being near the original makes you feel all of them." | [The Tear's primordial nature resonates with every sorrow the target has ever felt.] | *Target loses 10 Composure; they are feeling every grief simultaneously.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Salt Blade* [**Attack**] } | "The first tear hardens — crystallized by six millennia — and it is sharper than anything forged since." | [An ancient, crystallized tear-salt blade strikes.] | *Inflicts Deep Blue pressure and one wound of primordial grief.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Tear is touched. |
-| { *The Full Release* [**Attack**] } | "The first tear finally falls — completing a journey six thousand years overdue." | [The Tear's delayed completion releases its entire accumulated grief.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Tear is forced to fall. |
-| { *The Ocean of the First* [**Ultimate**] } | "The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow." | [The Tear's landing creates a universal flood of original grief.] | *All in range suffer Deep Blue pressure for three turns in the first ocean.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Original Drop* [**Debuff**] } | "This is the first tear ever shed — the prototype of all grief — and it has not dried in six thousand years." | [The Tear's ancient sorrow is so concentrated it radiates like heat.] | *Target suffers -10 Composure; the weight of all grief's origin is immense.* **[10 Lament DMG [Lament]]** | When the target sees the Tear. |
+| { *The Echoing First* [**Debuff**] } | "Every tear ever shed is an echo of this one — and being near the original makes you feel all of them." | [The Tear's primordial nature resonates with every sorrow the target has ever felt.] | *Target loses 10 Composure; they are feeling every grief simultaneously.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Salt Blade* [**Attack**] } | "The first tear hardens — crystallized by six millennia — and it is sharper than anything forged since." | [An ancient, crystallized tear-salt blade strikes.] | *Inflicts Lament pressure and one wound of primordial grief.* **[14-22 Lament DMG [Lament]]** | When the Tear is touched. |
+| { *The Full Release* [**Attack**] } | "The first tear finally falls — completing a journey six thousand years overdue." | [The Tear's delayed completion releases its entire accumulated grief.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tear is forced to fall. |
+| { *The Ocean of the First* [**Ultimate**] } | "The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow." | [The Tear's landing creates a universal flood of original grief.] | *All in range suffer Lament pressure for three turns in the first ocean.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -183,12 +183,12 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|---|
 | 10 Seconds | First Tear rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping First Tear activates its primary resonance: Unknown. Proximity produces a complete emotional history of sorrow. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the original moment when someone lost something they loved; the bearer begins perceiving echoes of unknown. it occurred before han became structural and before somnarak existed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within First Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within First Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear First Tear too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Immediate emotional overload and possible Fracture. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to First Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to First Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -224,7 +224,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Type:** Armor (Suit) | **Grade:** δ (Critical) | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against First Tear's kind of pressure.
 
@@ -234,7 +234,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Type:** Accessory (Stigma) | **Grade:** δ (Critical) | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Ability:** Grants a minor boon tied to First Tear's sorrow; the effect mirrors the entity's nature.
 
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-First Tear (C-Vδ-290 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Tear is believed to be the first sorrow ever felt on Mugenhan. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. The Tear is smaller than any other known entity.
+First Tear (C-Vδ-290 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Tear is believed to be the first sorrow ever felt on Mugenhan. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. The Tear is smaller than any other known entity.
 
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 Its Han-signature predates the city and all known records.
@@ -370,7 +370,7 @@ Some sorrows are about specific losses. First Tear is about loss itself — the 
 > *“The original moment when feeling became form and the planet’s emotional life began.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vδ-290 [LO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-Vδ-290 [LO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Lament · Object-Lament manifestation
 **Common Name:** First Tear
 **Containment Status:** Sealed — Deep Vault, beneath the Alpha Tree
 **Comprehension Level:** 5 — Sovereign

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Cage Charm |
 | Set | Acknowledged Bars |
-| Type / grade / element | Stigma, crimson bar-charm / γ — Major / Grudge — Crimson |
+| Type / grade / element | Stigma, crimson bar-charm / γ — Major / Grudge |
 | Slot | Tail |
 | Status | Bearer-bound; oversight-linked use only |
 | Known bearer | Specialist Sooah Park |

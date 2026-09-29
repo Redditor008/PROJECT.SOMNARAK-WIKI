@@ -49,7 +49,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 25–45 per hit · Lament |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[25–45 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[25–45 Lament DMG [Lament]]**
 
 ### The Waterlogged (Non-Crystal, Elite-grade)
 
@@ -73,7 +73,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 35–55 per hit · Lament |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[35–55 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[35–55 Lament DMG [Lament]]**
 
 
 ### The Treader (Humanoid, Elite-grade)
@@ -86,7 +86,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 22–34 per hit · Lament |
 | **Spawn Count** | 2 |
 
-**Ability:** Its wet grip settles, and the cold weight of borrowed grief drags the mind under. **[22–34 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** Its wet grip settles, and the cold weight of borrowed grief drags the mind under. **[22–34 Lament DMG [Lament]]**
 
 ### The Bilge (Amorphous, Elite-grade)
 
@@ -98,7 +98,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 20–32 per hit · Lament |
 | **Spawn Count** | 1 |
 
-**Ability:** It floods the hall, and the stagnant sorrow soaks into everyone present. **[20–32 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It floods the hall, and the stagnant sorrow soaks into everyone present. **[20–32 Lament DMG [Lament]]**
 
 ### The Floaters (Swarm, Elite-grade)
 
@@ -110,7 +110,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 9–14 per hit · Lament |
 | **Spawn Count** | 10–14 |
 
-**Ability:** They drift against the legs, and the touch carries a fragment of drowning grief. **[9–14 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** They drift against the legs, and the touch carries a fragment of drowning grief. **[9–14 Lament DMG [Lament]]**
 
 
 ## Trivia

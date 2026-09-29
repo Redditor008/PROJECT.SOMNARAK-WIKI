@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A colossal creeping tree-monster whose trunk is a slow multi-limbed body, a vast plant-creature with roots like legs and branches like grasping claws. Fever-cold, it smells of char; it grips as it grows. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fast Seed* [**Debuff**] } | "A seed lands at your feet — and before you can step away, it is already a sapling, already reaching for your ankle." | [The Tree's accelerated growth rate is terrifying; the target cannot outrun it.] | *Target suffers -10 Resilience; the growth is too fast.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stands near the Tree. |
-| { *The Root Network* [**Debuff**] } | "Roots spread underground — faster than walking — and they are heading for the foundations of everything." | [The Tree's subterranean expansion undermines all structures.] | *Target loses 10 Resilience; the ground itself is being colonized.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Whipping Branch* [**Attack**] } | "A branch grows toward you in real-time — extending, reaching, and whipping." | [ A rapidly-grown branch lashes out.] | *Inflicts Crimson pressure and one fast, woody strike.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Tree is cut. |
-| { *The Full Bloom* [**Attack**] } | "The tree reaches full size in seconds — canopy, trunk, root system — and the sudden mass is staggering." | [The Tree's complete instantaneous growth releases enormous biological energy.] | *A heavy Crimson biomass-explosion; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Tree is uprooted. |
-| { *The Instant Forest* [**Ultimate**] } | "Trees erupt across the entire field — each one growing to full size in seconds — and the forest consumes everything." | [The Tree extends its spreading across the whole area.] | *All in range suffer Crimson pressure for three turns of instant forest.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fast Seed* [**Debuff**] } | "A seed lands at your feet — and before you can step away, it is already a sapling, already reaching for your ankle." | [The Tree's accelerated growth rate is terrifying; the target cannot outrun it.] | *Target suffers -10 Resilience; the growth is too fast.* **[10 Grudge DMG [Grudge]]** | When the target stands near the Tree. |
+| { *The Root Network* [**Debuff**] } | "Roots spread underground — faster than walking — and they are heading for the foundations of everything." | [The Tree's subterranean expansion undermines all structures.] | *Target loses 10 Resilience; the ground itself is being colonized.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Whipping Branch* [**Attack**] } | "A branch grows toward you in real-time — extending, reaching, and whipping." | [ A rapidly-grown branch lashes out.] | *Inflicts Grudge pressure and one fast, woody strike.* **[14-22 Grudge DMG [Grudge]]** | When the Tree is cut. |
+| { *The Full Bloom* [**Attack**] } | "The tree reaches full size in seconds — canopy, trunk, root system — and the sudden mass is staggering." | [The Tree's complete instantaneous growth releases enormous biological energy.] | *A heavy Crimson biomass-explosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Tree is uprooted. |
+| { *The Instant Forest* [**Ultimate**] } | "Trees erupt across the entire field — each one growing to full size in seconds — and the forest consumes everything." | [The Tree extends its spreading across the whole area.] | *All in range suffer Grudge pressure for three turns of instant forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 | **Breach Type** | Escape |
 | **Movement** | Border Tree bursts free and crawls or slithers in search of prey. It extends roots through the floor, entangling personnel. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -225,7 +225,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -243,7 +243,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -296,7 +296,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Border Tree (O-IVδ-151 [GP]) is logged as a Place-Lament manifestation expressing Grudge (Crimson). The Tree formed from the grief of borders that never stopped moving. Held at Zone E, Border region. The Tree grows through political and emotional boundaries rather than soil alone.
+Border Tree (O-IVδ-151 [GP]) is logged as a Place-Lament manifestation expressing Grudge. The Tree formed from the grief of borders that never stopped moving. Held at Zone E, Border region. The Tree grows through political and emotional boundaries rather than soil alone.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its leaves fall during border negotiations.
@@ -378,7 +378,7 @@ Some sorrows mourn a home. Border Tree mourns the lines — the borders that mov
 > *“The grief of borders that never stopped moving.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-151 [GP]` · Grudge (Crimson) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `O-IVδ-151 [GP]` · Grudge · Place-Lament manifestation
 **Common Name:** Border Tree
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic

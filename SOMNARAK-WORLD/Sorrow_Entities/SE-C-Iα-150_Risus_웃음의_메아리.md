@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Non-Organic — Not a body but a sound — distant laughter that arrives warm and bright, then thins until it is quietly, unbearably sad. Nothing to see; only the laughter and its slow turning to grief. Salt-damp, it smells of cold rain. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Distant Chuckle* [**Debuff**] } | "Laughter echoes — from very far away, from very long ago — and the joy in it has been hollow for centuries." | [The Echo's laughter carries old, empty happiness; the target absorbs it.] | *Target suffers -10 Composure; the hollow joy is worse than sorrow.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target hears the Echo. |
-| { *The Wrong Humor* [**Debuff**] } | "The laughter is wrong — too loud, too bright, too long — like a mask glued to a scream." | [The Echo's distorted mirth unsettles; the target cannot distinguish joy from grief.] | *Target loses 10 Composure; every smile feels like a wound.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains. |
-| { *The Sonic Grin* [**Attack**] } | "The echo sharpens — and the concentrated laughter becomes a cutting wave." | [A focused blast of hollow laughter.] | *Inflicts Deep Blue pressure and one wound of shattered composure.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Echo is disturbed. |
-| { *The Full Crescendo* [**Attack**] } | "Every laugh the echo ever held — released at once — a cacophony of empty, ringing joy." | [The Echo's complete release is overwhelming.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Echo is silenced. |
-| { *The Laughing Chorus* [**Ultimate**] } | "Everyone hears it now — the hollow, ancient laughter — and no one can tell if they are laughing or weeping." | [The Echo extends its hollow joy across the whole field.] | *All in range suffer Deep Blue pressure for three turns of echoing laughter.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Distant Chuckle* [**Debuff**] } | "Laughter echoes — from very far away, from very long ago — and the joy in it has been hollow for centuries." | [The Echo's laughter carries old, empty happiness; the target absorbs it.] | *Target suffers -10 Composure; the hollow joy is worse than sorrow.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
+| { *The Wrong Humor* [**Debuff**] } | "The laughter is wrong — too loud, too bright, too long — like a mask glued to a scream." | [The Echo's distorted mirth unsettles; the target cannot distinguish joy from grief.] | *Target loses 10 Composure; every smile feels like a wound.* **[10 Lament DMG [Lament]]** | When the target remains. |
+| { *The Sonic Grin* [**Attack**] } | "The echo sharpens — and the concentrated laughter becomes a cutting wave." | [A focused blast of hollow laughter.] | *Inflicts Lament pressure and one wound of shattered composure.* **[14-22 Lament DMG [Lament]]** | When the Echo is disturbed. |
+| { *The Full Crescendo* [**Attack**] } | "Every laugh the echo ever held — released at once — a cacophony of empty, ringing joy." | [The Echo's complete release is overwhelming.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is silenced. |
+| { *The Laughing Chorus* [**Ultimate**] } | "Everyone hears it now — the hollow, ancient laughter — and no one can tell if they are laughing or weeping." | [The Echo extends its hollow joy across the whole field.] | *All in range suffer Lament pressure for three turns of echoing laughter.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a tiny bell of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a tiny bell of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Risus (C-Iα-150 [LO]) is logged as a Lament manifestation expressing Lament (Deep Blue). The Echo formed from laughter preserved after happiness had ended. Held at Zone D, Mantle Commons — ambient. The sound is strongest in Mantle Commons at dusk.
+Risus (C-Iα-150 [LO]) is logged as a Lament manifestation expressing Lament. The Echo formed from laughter preserved after happiness had ended. Held at Zone D, Mantle Commons — ambient. The sound is strongest in Mantle Commons at dusk.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It carries no physical vibration detectable by instruments.
@@ -360,7 +360,7 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 > *“I heard it and wept. Not from sadness. From the knowledge that the happiness was real and is over.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-150 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-150 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** Risus
 **Containment Status:** Ambient — Zone D, Mantle Commons
 **Comprehension Level:** 3 — Advanced

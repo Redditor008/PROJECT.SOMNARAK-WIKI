@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Sarcophagus Wall-Ram |
 | Set | Measured Burden |
-| Type / grade / element | Weapon / γ — Major / Weight — Black |
+| Type / grade / element | Weapon / γ — Major / Weight |
 | Maximum amount | 3 — Standard |
 | Recognition rule | Its head rises only after a custodian identifies a route beyond the pressure block. |
 

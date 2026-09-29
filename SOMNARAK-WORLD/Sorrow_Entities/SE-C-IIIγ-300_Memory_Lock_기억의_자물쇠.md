@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Protective and secretive |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A massive lock of dark memory-crystal sealing a vault with no public entrance — its keyhole sealed, its mechanism fused and still. The crystal is clouded with trapped recollections turning slowly inside. It smells of ash; touching it, you half-remember a door you never opened. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Sealed Door* [**Debuff**] } | "A door closes in your mind — and you cannot recall what was behind it." | [The Lock seals a memory away; the target feels the absence.] | *Target suffers a Void mark; something has been taken from recall.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Lock is set. |
-| { *The Lost Key* [**Debuff**] } | "You know there is something behind the door — but the key is gone, and the shape of what is missing haunts you." | [The sealed absence gnaws; the target cannot stop reaching for the gap.] | *Target loses clarity; the forgotten thing presses at the edges.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target senses the gap. |
-| { *The Bolt* [**Attack**] } | "The lock slams home — and whatever is behind it slams with it." | [The Lock drives a bolt of sealed-away grief into the target.] | *Inflicts Void damage; the impact of a suddenly-closed door.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Lock is forced. |
-| { *What Was Hidden* [**Attack**] } | "The lock breaks — and what you sealed away comes flooding out." | [The sealed memory breaks free in its full, terrible clarity.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Lock is shattered or picked. |
-| { *The Vault Empties* [**Ultimate**] } | "Every door opens. Every sealed memory walks free." | [The Lock releases everything it ever held, all at once.] | *All in range suffer Pale White erosion for three turns as the past unseals.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Sealed Door* [**Debuff**] } | "A door closes in your mind — and you cannot recall what was behind it." | [The Lock seals a memory away; the target feels the absence.] | *Target suffers a Void mark; something has been taken from recall.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Lock is set. |
+| { *The Lost Key* [**Debuff**] } | "You know there is something behind the door — but the key is gone, and the shape of what is missing haunts you." | [The sealed absence gnaws; the target cannot stop reaching for the gap.] | *Target loses clarity; the forgotten thing presses at the edges.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target senses the gap. |
+| { *The Bolt* [**Attack**] } | "The lock slams home — and whatever is behind it slams with it." | [The Lock drives a bolt of sealed-away grief into the target.] | *Inflicts Void damage; the impact of a suddenly-closed door.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Lock is forced. |
+| { *What Was Hidden* [**Attack**] } | "The lock breaks — and what you sealed away comes flooding out." | [The sealed memory breaks free in its full, terrible clarity.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Lock is shattered or picked. |
+| { *The Vault Empties* [**Ultimate**] } | "Every door opens. Every sealed memory walks free." | [The Lock releases everything it ever held, all at once.] | *All in range suffer Void erosion for three turns as the past unseals.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-The escalation pattern is specific to Memory Lock: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, Alpha Tree deep vault, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Memory Lock: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, Alpha Tree deep vault, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Memory Lock: it is not a generic breach ev
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Memory Lock: it is not a generic breach ev
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Memory Lock: it is not a generic breach ev
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a key-charm of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a key-charm of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Memory Lock (C-IIIγ-300 [D]) is logged as a Object-Void manifestation expressing Void (Pale White). The Lock formed from memories sealed by the Keepers. Held at SECTOR-A-01, Alpha Tree deep vault. It seals memories rather than physical objects alone.
+Memory Lock (C-IIIγ-300 [D]) is logged as a Object-Void manifestation expressing Void. The Lock formed from memories sealed by the Keepers. Held at SECTOR-A-01, Alpha Tree deep vault. It seals memories rather than physical objects alone.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Aggression strengthens its purpose.
@@ -382,7 +382,7 @@ Some sorrows mourn what was lost. Memory Lock mourns what is known and kept — 
 > *“Some secrets are locked to protect the ones who locked them.”* — Former Keeper
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-300 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-300 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Object-Void manifestation
 **Common Name:** Memory Lock
 **Containment Status:** Contained — Alpha Tree deep vault
 **Comprehension Level:** 2 — Basic

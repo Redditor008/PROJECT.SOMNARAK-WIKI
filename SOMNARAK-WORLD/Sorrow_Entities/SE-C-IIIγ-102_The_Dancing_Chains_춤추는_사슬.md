@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Personality compelled to dance |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A pair of dark chains of crystallized rage, their links fused and grown rather than forged, cold and ridged like clenched vertebrae. Bound to a person they move on their own, forcing the wearer to dance until collapse. They are fever-hot where they grip, and smell of char. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Link* [**Debuff**] } | "One link finds your wrist — and it is warm, almost eager." | [A single chain loops the target; the iron hums with old resentment.] | *Target suffers -10 Resilience; the chain has chosen them.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Chains begin to move. |
-| { *The Rattling* [**Debuff**] } | "More links join the first — and the rattling is the sound of every grudge that ever bound someone." | [The Chains multiply; the binding tightens with accumulated anger.] | *Target loses 10 Resilience; the weight of old resentment pins them.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target struggles. |
-| { *The Whip* [**Attack**] } | "One chain snaps taut and lashes — fast, and glad to." | [A chain whips across the target, biting deep.] | *Inflicts Crimson pressure and one biting wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the target resists the Chains. |
-| { *The Binding* [**Attack**] } | "The chains wrap tight — and every link is a promise that you will not leave." | [The Chains constrict, binding the target in furious iron.] | *A heavy Crimson crush; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Chains are commanded or enraged. |
-| { *The Whole Coil* [**Ultimate**] } | "Every chain in the place comes alive at once — and they want everyone." | [The Chains uncoil across the entire field, binding all within reach.] | *All personnel suffer Crimson pressure for three turns in the iron.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Link* [**Debuff**] } | "One link finds your wrist — and it is warm, almost eager." | [A single chain loops the target; the iron hums with old resentment.] | *Target suffers -10 Resilience; the chain has chosen them.* **[10 Grudge DMG [Grudge]]** | When the Chains begin to move. |
+| { *The Rattling* [**Debuff**] } | "More links join the first — and the rattling is the sound of every grudge that ever bound someone." | [The Chains multiply; the binding tightens with accumulated anger.] | *Target loses 10 Resilience; the weight of old resentment pins them.* **[10 Grudge DMG [Grudge]]** | When the target struggles. |
+| { *The Whip* [**Attack**] } | "One chain snaps taut and lashes — fast, and glad to." | [A chain whips across the target, biting deep.] | *Inflicts Grudge pressure and one biting wound.* **[14-22 Grudge DMG [Grudge]]** | When the target resists the Chains. |
+| { *The Binding* [**Attack**] } | "The chains wrap tight — and every link is a promise that you will not leave." | [The Chains constrict, binding the target in furious iron.] | *A heavy Crimson crush; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Chains are commanded or enraged. |
+| { *The Whole Coil* [**Ultimate**] } | "Every chain in the place comes alive at once — and they want everyone." | [The Chains uncoil across the entire field, binding all within reach.] | *All personnel suffer Grudge pressure for three turns in the iron.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -189,12 +189,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | The Dancing Chains rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping The Dancing Chains activates its primary resonance: The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from exhaustion, loss of agency, and the grief of being unable to stop moving; the bearer begins perceiving echoes of the story's curse was forgotten, but its compulsion remained and crystallized into the chains. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within The Dancing Chains begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within The Dancing Chains begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear The Dancing Chains too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may lose the ability to remain still and dance until physical collapse. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Dancing Chains: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at SECTOR-B-01, Zone B — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Dancing Chains: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-B-01, Zone B — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -218,7 +218,7 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that flickers with inner light.
 
 **Damage:** Grudge 7–12
 **Speed:** 3 (Fast)
@@ -239,7 +239,7 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -257,7 +257,7 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a pair of shoes of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a pair of shoes of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -313,7 +313,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Dancing Chains (C-IIIγ-102 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Chains formed from a fairy tale about cursed shoes and the terror of being compelled to continue. Held at SECTOR-B-01, Zone B — contained. Han-signature resonates at a frequency matching the Weeping.
+The Dancing Chains (C-IIIγ-102 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Chains formed from a fairy tale about cursed shoes and the terror of being compelled to continue. Held at SECTOR-B-01, Zone B — contained. Han-signature resonates at a frequency matching the Weeping.
 
 **Entry 2 — <Excerpt from Field Log, Year 4203>**
 The object has never moved from its containment zone without a bound wearer.
@@ -397,7 +397,7 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 > *“In Somnarak, the story and the curse are the same thing.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-102 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-102 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Object-Grudge manifestation
 **Common Name:** The Dancing Chains
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic

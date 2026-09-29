@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Dream |
 | **Coherence** | IV — Entity |
 | **Potency** | γ — Major |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Form** | Spider-like body woven from crystallized memories |
 | **Location** | SECTOR-B-02, Zone B archive annex |
 | **Comprehension Level** | 3 — Understood |

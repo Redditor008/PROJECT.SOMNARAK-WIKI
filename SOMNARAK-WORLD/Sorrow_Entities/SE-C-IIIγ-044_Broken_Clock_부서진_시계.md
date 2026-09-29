@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Personality obsessed with time |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A three-meter clock of crystallized time, its face dark, two hands (and fragments of others) moving forward, backward, or stopping with no pattern. The casing is cold, lead-heavy metal gone green with corrosion; it ticks, but never on any rhythm you can count, and smells of wet stone. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Stopped Hand* [**Debuff**] } | "The hand freezes mid-tick — and for a moment, so does everything else." | [The Clock stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve in the suspended instant.* **[10 Black DMG [Black / Weight]]** | When the Clock is consulted. |
-| { *The Wrong Hour* [**Debuff**] } | "The hands spin to an hour that does not exist — and your sense of time breaks with them." | [The Clock deranges time around the target.] | *Target loses 10 Resolve; past and future bleed together.* **[10 Black DMG [Black / Weight]]** | When the target lingers near the Clock. |
-| { *The Falling Gear* [**Attack**] } | "A gear breaks loose and flies — heavy, jagged, and exactly on time." | [A broken mechanism launches a part at the target.] | *Inflicts Black pressure and one grinding wound.* **[14-22 Black DMG [Black / Weight]]** | When the Clock is struck. |
-| { *The Midnight Strike* [**Attack**] } | "It tolls an hour it has no right to — and the wrong hour is the worst one." | [The Clock sounds an impossible hour; the wrongness is a blow.] | *A heavy Black toll; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Clock is wound or forced. |
-| { *Time Broken* [**Ultimate**] } | "Every clock stops — and time, finally, refuses to move." | [The Clock breaks time across the whole field, freezing all in wrong hours.] | *All personnel suffer Black pressure for three turns in stopped time.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Stopped Hand* [**Debuff**] } | "The hand freezes mid-tick — and for a moment, so does everything else." | [The Clock stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve in the suspended instant.* **[10 Weight DMG [Weight]]** | When the Clock is consulted. |
+| { *The Wrong Hour* [**Debuff**] } | "The hands spin to an hour that does not exist — and your sense of time breaks with them." | [The Clock deranges time around the target.] | *Target loses 10 Resolve; past and future bleed together.* **[10 Weight DMG [Weight]]** | When the target lingers near the Clock. |
+| { *The Falling Gear* [**Attack**] } | "A gear breaks loose and flies — heavy, jagged, and exactly on time." | [A broken mechanism launches a part at the target.] | *Inflicts Weight pressure and one grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clock is struck. |
+| { *The Midnight Strike* [**Attack**] } | "It tolls an hour it has no right to — and the wrong hour is the worst one." | [The Clock sounds an impossible hour; the wrongness is a blow.] | *A heavy Black toll; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Clock is wound or forced. |
+| { *Time Broken* [**Ultimate**] } | "Every clock stops — and time, finally, refuses to move." | [The Clock breaks time across the whole field, freezing all in wrong hours.] | *All personnel suffer Weight pressure for three turns in stopped time.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -189,12 +189,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | Broken Clock rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Broken Clock activates its primary resonance: The clock's distortion field expands to seven meters; perception and biological time may desynchronize. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of promises trapped in repetition and time that cannot progress; the bearer begins perceiving echoes of the loop made citizens experience events again and again without resolution. their temporal exhaustion crystallized into the clock. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Clock begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Broken Clock begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Broken Clock too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Rapid aging, disorientation, and loss of temporal sequence. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Clock: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-A-01, Alpha Tree deep storage — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Clock: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-A-01, Alpha Tree deep storage — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -319,7 +319,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Clock (C-IIIγ-044 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223. Held at SECTOR-A-01, Alpha Tree deep storage — contained. The distortion field extends exactly seven meters.
+Broken Clock (C-IIIγ-044 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223. Held at SECTOR-A-01, Alpha Tree deep storage — contained. The distortion field extends exactly seven meters.
 
 **Entry 2 — <Excerpt from Field Log, Year 4231>**
 Hands move forward, backward, or stop for unexplained intervals.
@@ -405,7 +405,7 @@ Some sorrows mourn the past. Broken Clock mourns the future that would not come 
 > *“Promises trapped in repetition — that is the sorrow the Clock holds.”* — Keeper, Archive
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-044 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-044 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Object-Weight manifestation
 **Common Name:** Broken Clock
 **Containment Status:** Contained — Alpha Tree deep storage
 **Comprehension Level:** 3 — Advanced

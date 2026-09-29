@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — fusion Subject-Body |
 | **Coherence** | V — Sovereign |
 | **Potency** | δ — Critical |
-| **Element** | Weight — Black; braided Lament/Grudge/Void residue present |
+| **Element** | Weight; braided Lament/Grudge/Void residue present |
 | **Formation Condition** | Simultaneous breach of Entities 031, 032, and 033 |
 | **Observation Status** | Historical formation archive; no current live manifestation |
 | **M.A.W. Set** | Absolute Set — sealed contingency registry |

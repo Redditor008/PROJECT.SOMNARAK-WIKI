@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | N-IIIγ-908 [LP] |
 | Type / Manifestation | Place — Can breach via Transform / Place-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Lament (Deep Blue) / SECTOR-N-908, contained |
+| Element / Location | Lament / SECTOR-N-908, contained |
 | Gauge / Pressure | 468/468; starts 35–50% / 17–23 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Unwaking Block Source-Trace, the field team preserved this source
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Unwaking Block's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Unwaking Block's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Unwaking Block's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon contains only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Unwaking Block's wound through the operator and triggers the recorded escalation.
 
 ---
 

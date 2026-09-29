@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A pale Han-gossamer veil with imagined roots outside one present identity line.
+A Void Han-gossamer veil with imagined roots outside one present identity line.
 
 Iseulfros wore it through a Void-garden expansion. The Veil preserved current life but left her faintly absent beside its imagined alternatives.
 

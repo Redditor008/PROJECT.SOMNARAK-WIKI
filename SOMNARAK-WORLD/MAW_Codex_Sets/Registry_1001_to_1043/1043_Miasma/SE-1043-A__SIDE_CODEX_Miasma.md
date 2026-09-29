@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IVδ-922 [LH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / SECTOR-C-922, contained |
+| Element / Location | Lament / SECTOR-C-922, contained |
 | Gauge / Pressure | 474/474; starts 35–50% / 14–24 per hit · Lament |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Miasma Source-Trace, the field team preserved this source fact: N
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Miasma's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Miasma's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Miasma's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Miasma's wound through the operator and triggers the recorded escalation.
 
 ---
 

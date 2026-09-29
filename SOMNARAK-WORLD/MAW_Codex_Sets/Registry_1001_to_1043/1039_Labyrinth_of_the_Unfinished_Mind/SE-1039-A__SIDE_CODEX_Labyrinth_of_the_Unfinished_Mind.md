@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IVδ-909 [VP] |
 | Type / Manifestation | Place — Can breach via Transform / Place-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Void (Pale White) / SECTOR-C-909, contained |
+| Element / Location | Void / SECTOR-C-909, contained |
 | Gauge / Pressure | 481/481; starts 35–50% / 14–20 per hit · Void |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Labyrinth of the Unfinished Mind Source-Trace, the field team pre
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Labyrinth of the Unfinished Mind's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Labyrinth of the Unfinished Mind's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Labyrinth of the Unfinished Mind's source condition, the Suit lets a witness bear its Void pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Labyrinth of the Unfinished Mind's wound through the operator and triggers the recorded escalation.
 
 ---
 

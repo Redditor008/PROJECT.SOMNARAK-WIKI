@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Phantasmal |
 | **Physical Form** | Non-Organic — A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's phantasmal pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void / Pale White]]** | When the entity first fixes on a target. |
-| { *The Phantasmal Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void phantasmal sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void / Pale White]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[23 Void DMG [Void / Pale White]]** | When the entity is cornered or starved. |
-| { *The Phantasmal Collapse* [**Ultimate**] } | "The phantasmal breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void / Pale White] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's phantasmal pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
+| { *The Phantasmal Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void phantasmal sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[23 Void DMG [Void]]** | When the entity is cornered or starved. |
+| { *The Phantasmal Collapse* [**Ultimate**] } | "The phantasmal breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -101,7 +101,7 @@
 **Primary Form:** A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured.
 
 **Notable Features:**
-- Expresses Void (Pale White) pressure in a phantasmal register.
+- Expresses Void pressure in a phantasmal register.
 - The object form is unmistakable — this is a phantasmal entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -200,7 +200,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Glass Elsewhere: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Phantasmal form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-N-903, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Glass Elsewhere: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Phantasmal form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-N-903, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -224,7 +224,7 @@ The escalation pattern is specific to Glass Elsewhere: it is not a generic breac
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a single-edged blade of pale Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
 
 **Damage:** Void 11–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels void phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
@@ -234,7 +234,7 @@ The escalation pattern is specific to Glass Elsewhere: it is not a generic breac
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -244,7 +244,7 @@ The escalation pattern is specific to Glass Elsewhere: it is not a generic breac
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -330,7 +330,7 @@ The entity does not rage. It does not weep. It persists — phantasmal and void,
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-903 [VO]` · Inner Sorrow origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIβ-903 [VO]` · Inner Sorrow origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Phantasmal manifestation
 
 **Common Name:** Glass Elsewhere
 
@@ -345,7 +345,7 @@ The entity does not rage. It does not weep. It persists — phantasmal and void,
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the phantasmal register specifically — it is the primary channel of contact.
 
-**Cross-References:** Inner Sorrow (내한) · Void (Pale White) · Object-Phantasmal · Manifestation Classification
+**Cross-References:** Inner Sorrow (내한) · Void · Object-Phantasmal · Manifestation Classification
 
 ### Registry Addendum
 

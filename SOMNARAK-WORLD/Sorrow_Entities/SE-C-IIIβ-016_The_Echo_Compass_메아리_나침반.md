@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Restless and seeking |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Mixed — A palm-sized compass of tarnished brass, its face bare of any marking, its needle a thin sliver of yellowed bone that twitches and drags like a living thing seeking something it cannot name. The casing is etched with letters that rearrange when unobserved. Held in hand, the bone-needle grows warm and presses against the glass toward the nearest grief. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lost Bearing* [**Debuff**] } | "The needle swings toward your grief, and suddenly you cannot tell which way is forward." | [The Compass orients to the target's sorrow; the disorientation is immediate.] | *Target loses clarity and direction; the Compass has found them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Compass is held or addressed. |
-| { *The Spinning Needle* [**Debuff**] } | "The needle will not settle — and neither can you." | [The Compass's needle spins; the target's sense of direction unravels.] | *Target loses composure as every way becomes the wrong way.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers near the Compass. |
-| { *The Pointing* [**Attack**] } | "It points at you — and all the sorrow it was aimed at comes your way." | [The Compass directs a pulse of accumulated lost-thing sorrow at the target.] | *Inflicts Void damage; a piece of what was lost strikes home.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target is named or targeted. |
-| { *The Wrong Way* [**Attack**] } | "It leads you where the lost things are — and they are not glad to be found." | [The Compass misdirects the target into the gathered sorrow it tracks.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Compass is shaken or mistrusted. |
-| { *Every Loss at Once* [**Ultimate**] } | "The needle points everywhere — to every grief, every gone thing, all at once." | [The Compass opens to every loss it has tracked, flooding the field.] | *All in range suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lost Bearing* [**Debuff**] } | "The needle swings toward your grief, and suddenly you cannot tell which way is forward." | [The Compass orients to the target's sorrow; the disorientation is immediate.] | *Target loses clarity and direction; the Compass has found them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Compass is held or addressed. |
+| { *The Spinning Needle* [**Debuff**] } | "The needle will not settle — and neither can you." | [The Compass's needle spins; the target's sense of direction unravels.] | *Target loses composure as every way becomes the wrong way.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers near the Compass. |
+| { *The Pointing* [**Attack**] } | "It points at you — and all the sorrow it was aimed at comes your way." | [The Compass directs a pulse of accumulated lost-thing sorrow at the target.] | *Inflicts Void damage; a piece of what was lost strikes home.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target is named or targeted. |
+| { *The Wrong Way* [**Attack**] } | "It leads you where the lost things are — and they are not glad to be found." | [The Compass misdirects the target into the gathered sorrow it tracks.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Compass is shaken or mistrusted. |
+| { *Every Loss at Once* [**Ultimate**] } | "The needle points everywhere — to every grief, every gone thing, all at once." | [The Compass opens to every loss it has tracked, flooding the field.] | *All in range suffer Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Echo Compass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Echo Compass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -231,7 +231,7 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -249,7 +249,7 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a compass-charm of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a compass-charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Echo Compass (C-IIIβ-016 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Compass formed from the need to find what the city hid. Held at SECTOR-D-01, Forge District. The needle spins continuously in Somnarak.
+The Echo Compass (C-IIIβ-016 [VO]) is logged as a Object-Void manifestation expressing Void. The Compass formed from the need to find what the city hid. Held at SECTOR-D-01, Forge District. The needle spins continuously in Somnarak.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 It points faster near concentrated sorrow.
@@ -390,7 +390,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 > *“The youngest Keeper understood. He has not spoken since.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-016 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-016 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Echo Compass
 **Containment Status:** Contained — Archive deep room
 **Comprehension Level:** 2 — Basic

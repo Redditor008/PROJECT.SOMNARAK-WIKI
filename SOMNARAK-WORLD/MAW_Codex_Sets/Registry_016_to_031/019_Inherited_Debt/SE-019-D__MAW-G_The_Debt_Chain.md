@@ -18,7 +18,7 @@
 |---|---|
 | Type | Accessory (Stigma) — black chain |
 | Grade | β — Moderate |
-| Element | Weight — Black |
+| Element | Weight |
 | Slot | Head |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Inherited Debt source record |

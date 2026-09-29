@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A singing deep-blue Han-crystal blade with a split seed-shaped guard and no point aimed inward. It forms from cooled tears outside growth medium.
+A singing Lament Han-crystal blade with a split seed-shaped guard and no point aimed inward. It forms from cooled tears outside growth medium.
 
 Binding requires a living host anchor and an explicit source-shell exclusion. During a containment breach, Durivel severed three root-limbs from an agent without touching the seed body. He wept for futures the roots displayed and did not record them as predictions.
 

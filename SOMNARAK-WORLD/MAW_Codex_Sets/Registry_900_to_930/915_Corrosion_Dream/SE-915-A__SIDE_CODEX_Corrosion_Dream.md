@@ -21,7 +21,7 @@ The Bridge formed from the dream of a connection that could not be repaired. The
 | Source designation | O-IIIγ-915 [VS] |
 | Type / Manifestation | Subject — Can breach / Subject-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Void (Pale White) / Zone D, Forge District |
+| Element / Location | Void / Zone D, Forge District |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion. |
@@ -52,7 +52,7 @@ During the The Corrosion Dream Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Corrosion Dream's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Do not promise reunion; name both the crossing and the loss The set cannot heal the originating event. Misuse routes Corrosion Dream's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Corrosion Dream's source condition, the Suit lets a witness bear its Void pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Do not promise reunion; name both the crossing and the loss The set cannot heal the originating event. Misuse routes Corrosion Dream's wound through the operator and triggers the recorded escalation.
 
 ---
 

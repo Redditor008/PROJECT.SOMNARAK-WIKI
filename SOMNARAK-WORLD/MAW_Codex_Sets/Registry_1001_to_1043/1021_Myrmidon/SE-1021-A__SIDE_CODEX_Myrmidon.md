@@ -21,7 +21,7 @@ The Soul formed from a person divided by betrayal. The grief of loving someone o
 | Source designation | O-IIβ-235 [GS] |
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Grudge (Crimson) / Zone A, Alpha Tree |
+| Element / Location | Grudge / Zone A, Alpha Tree |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart. |
@@ -52,7 +52,7 @@ During the The Myrmidon Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Myrmidon's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Separate the person from the institution they represent; do not defend the institution The set cannot heal the originating event. Misuse routes Myrmidon's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Myrmidon's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon severs only the immediate manifestation that violates this rule: Separate the person from the institution they represent; do not defend the institution The set cannot heal the originating event. Misuse routes Myrmidon's wound through the operator and triggers the recorded escalation.
 
 ---
 

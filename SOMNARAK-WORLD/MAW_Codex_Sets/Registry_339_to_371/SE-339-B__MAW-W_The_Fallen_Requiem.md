@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A deep-blue Han-crystal blade patterned with wall cracks. It forms after a failed safeguard is documented without promises of replacement certainty.
+A Lament Han-crystal blade patterned with wall cracks. It forms after a failed safeguard is documented without promises of replacement certainty.
 
 During an Echo Gardens anchor failure, Durivel severed three spreading collapse lines from a current evacuation marker. The marker held long enough for movement; nobody called it safe.
 

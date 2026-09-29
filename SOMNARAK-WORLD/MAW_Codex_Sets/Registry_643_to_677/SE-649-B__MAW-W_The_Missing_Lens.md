@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass disc whose edge appears around unsupported memory claims. Binding requires one true memory and one unrealized hope stated separately.
+A Void Han-glass disc whose edge appears around unsupported memory claims. Binding requires one true memory and one unrealized hope stated separately.
 
 ## Appearance
 

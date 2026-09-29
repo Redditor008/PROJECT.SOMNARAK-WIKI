@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — Not a body but a floating, crystallized scream: a heavy, dark shard of solidified sound that drifts on sorrow-currents, visible as a jagged weight of compressed air. It is lead-cold and smells of wet stone; where it passes, the silenced shout presses against the chest. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Cry* [**Debuff**] } | "Someone screams — and the scream has weight, and it lands on you." | [A scream begins; its pressure settles on the target.] | *Target suffers -10 Resolve; the cry is heavy.* **[10 Black DMG [Black / Weight]]** | When the Scream begins. |
-| { *The Echoing Panic* [**Debuff**] } | "The scream spreads — and every voice that takes it up makes it heavier." | [The scream propagates; more voices join, more weight accrues.] | *Target loses 10 Resolve; the panic is contagious.* **[10 Black DMG [Black / Weight]]** | When the target hears the Scream. |
-| { *The Sonic Weight* [**Attack**] } | "The sound becomes solid — a wall of screaming that you cannot shout down." | [The accumulated scream crushes outward as physical force.] | *Inflicts Black pressure and one battering wound.* **[14-22 Black DMG [Black / Weight]]** | When the Scream is provoked. |
-| { *The Crescendo* [**Attack**] } | "The scream builds to a peak — and at the peak, it breaks something." | [The Scream reaches its crescendo and ruptures outward.] | *A heavy Black blast; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Scream is silenced or struck. |
-| { *The Deafening* [**Ultimate**] } | "Everyone is screaming now — and no one can hear anything else, ever again." | [The Scream fills every throat in the field.] | *All personnel suffer Black pressure for three turns of unending scream.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Cry* [**Debuff**] } | "Someone screams — and the scream has weight, and it lands on you." | [A scream begins; its pressure settles on the target.] | *Target suffers -10 Resolve; the cry is heavy.* **[10 Weight DMG [Weight]]** | When the Scream begins. |
+| { *The Echoing Panic* [**Debuff**] } | "The scream spreads — and every voice that takes it up makes it heavier." | [The scream propagates; more voices join, more weight accrues.] | *Target loses 10 Resolve; the panic is contagious.* **[10 Weight DMG [Weight]]** | When the target hears the Scream. |
+| { *The Sonic Weight* [**Attack**] } | "The sound becomes solid — a wall of screaming that you cannot shout down." | [The accumulated scream crushes outward as physical force.] | *Inflicts Weight pressure and one battering wound.* **[14-22 Weight DMG [Weight]]** | When the Scream is provoked. |
+| { *The Crescendo* [**Attack**] } | "The scream builds to a peak — and at the peak, it breaks something." | [The Scream reaches its crescendo and ruptures outward.] | *A heavy Black blast; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Scream is silenced or struck. |
+| { *The Deafening* [**Ultimate**] } | "Everyone is screaming now — and no one can hear anything else, ever again." | [The Scream fills every throat in the field.] | *All personnel suffer Weight pressure for three turns of unending scream.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|---|
 | 10 Seconds | Screaming Masonry rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Screaming Masonry activates its primary resonance: +3 stat bonus when working the source entity Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the pressure of promises and duties accumulating until the body could no longer carry them; the bearer begins perceiving echoes of residents of old lament failed one another through generations, leaving their unfulfilled duties in the walls. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Screaming Masonry begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Screaming Masonry begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Screaming Masonry too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Screaming Masonry: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Screaming Masonry: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Screaming Masonry: it is not a generic bre
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that quivers when raised.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that quivers when raised.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Screaming Masonry: it is not a generic bre
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Screaming Masonry: it is not a generic bre
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a ring of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a ring of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Screaming Masonry (C-IIIγ-891 [D]) is logged as a Object-Lament manifestation expressing Weight (Black). The Scream formed from obligations that were never fulfilled. Held at Zone B, Old Lament — ambient. The Scream is felt more than heard.
+Screaming Masonry (C-IIIγ-891 [D]) is logged as a Object-Lament manifestation expressing Weight. The Scream formed from obligations that were never fulfilled. Held at Zone B, Old Lament — ambient. The Scream is felt more than heard.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It spreads through walls and old contracts.
@@ -386,7 +386,7 @@ Some sorrows are about what was done to you. Screaming Masonry is about what you
 > *“Old Lament is built on broken promises. The Scream is the masonry’s complaint.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-891 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-891 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Object-Lament manifestation
 **Common Name:** Screaming Masonry
 **Containment Status:** Ambient — Old Lament, Zone B
 **Comprehension Level:** 2 — Basic

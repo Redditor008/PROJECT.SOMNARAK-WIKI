@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Body |
 | **Coherence** | III — Fragment |
 | **Potency** | γ — Major |
-| **Element** | Grudge — Crimson |
+| **Element** | Grudge |
 | **Form** | Heavy crimson bird with scale-like eyes |
 | **Location** | SECTOR-B-01, Three Birds containment |
 | **Comprehension Level** | 2 — Studied |

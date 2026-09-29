@@ -22,7 +22,7 @@
 | Entity | Vault of Unspoken Spite — 솟구친 그림자 |
 | Type / Manifestation | Object/Place — Object-Grudge; I-Relic |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | A fever-hot ownerless shadow drenched in burning crimson liquid, dripping light that scorches the vault floor. |
 | Gauge / Pressure | 45–65% / Grudge 14–33 |
 | Observation | 2 — Basic |
@@ -51,7 +51,7 @@ The shadow smells of char, grows darker near repeated arguments, and has no orig
 
 **Activation:** Touch or project anger. The I-Relic stores hostility until acknowledged and released.  
 **Resolution:** Name the stored grievance, assign responsibility for its release, and lower Gauge below 25%.  
-**Escalation:** At 75% Gauge every shadow becomes wet with pooled resentment and Crimson pressure floods the vault.
+**Escalation:** At 75% Gauge every shadow becomes wet with pooled resentment and Grudge pressure floods the vault.
 
 ---
 

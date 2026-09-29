@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A wall-shaped absence in the Old Lament — not a wall, but the place where one should be, felt as pressure and seen as a faint vertical distortion in the air. Lead-cold, it smells of wet stone; you walk around it though nothing is there. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Barrier* [**Debuff**] } | "The wall is gone — and the space where it was aches with the weight of everything it held back." | [The Wall's absence presses on the target; they feel exposed.] | *Target suffers -10 Resolve; they are unprotected where they should be safe.* **[10 Black DMG [Black / Weight]]** | When the target crosses where the Wall was. |
-| { *The Phantom Barrier* [**Debuff**] } | "You still feel it — solid, cold, pressing — but it is not there." | [The ghost-weight of the vanished Wall settles on the target.] | *Target loses 10 Resolve; they brace against nothing.* **[10 Black DMG [Black / Weight]]** | When the target leans on the absence. |
-| { *The Returned Slam* [**Attack**] } | "The wall comes back for one instant — and slams into you with all its missing mass." | [The Wall briefly manifests at full weight, then vanishes.] | *Inflicts Black pressure and one crushing, ghostly wound.* **[14-22 Black DMG [Black / Weight]]** | When the absence is probed. |
-| { *The Held-Back Flood* [**Attack**] } | "Everything the wall was holding back — all of it, at once, through the gap." | [The Wall's absence releases everything it contained.] | *A heavy Black flood; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the gap is forced wider. |
-| { *Every Wall Gone* [**Ultimate**] } | "Now there are no walls — anywhere — and everything rushes in from every direction." | [The Wall's absence spreads; all barriers vanish.] | *All personnel suffer Black pressure for three turns with no walls at all.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Missing Barrier* [**Debuff**] } | "The wall is gone — and the space where it was aches with the weight of everything it held back." | [The Wall's absence presses on the target; they feel exposed.] | *Target suffers -10 Resolve; they are unprotected where they should be safe.* **[10 Weight DMG [Weight]]** | When the target crosses where the Wall was. |
+| { *The Phantom Barrier* [**Debuff**] } | "You still feel it — solid, cold, pressing — but it is not there." | [The ghost-weight of the vanished Wall settles on the target.] | *Target loses 10 Resolve; they brace against nothing.* **[10 Weight DMG [Weight]]** | When the target leans on the absence. |
+| { *The Returned Slam* [**Attack**] } | "The wall comes back for one instant — and slams into you with all its missing mass." | [The Wall briefly manifests at full weight, then vanishes.] | *Inflicts Weight pressure and one crushing, ghostly wound.* **[14-22 Weight DMG [Weight]]** | When the absence is probed. |
+| { *The Held-Back Flood* [**Attack**] } | "Everything the wall was holding back — all of it, at once, through the gap." | [The Wall's absence releases everything it contained.] | *A heavy Black flood; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the gap is forced wider. |
+| { *Every Wall Gone* [**Ultimate**] } | "Now there are no walls — anywhere — and everything rushes in from every direction." | [The Wall's absence spreads; all barriers vanish.] | *All personnel suffer Weight pressure for three turns with no walls at all.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Rift: it is not a generic breach event. Pe
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Rift: it is not a generic breach event. Pe
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a gossamer absence-veil of black Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a gossamer absence-veil of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Rift: it is not a generic breach event. Pe
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Rift (C-IVδ-193 [WP]) is logged as a Place-Grudge manifestation expressing Weight (Black). The Wall formed from a boundary removed without healing the separation it caused. Held at Zone B, Old Lament — ambient. The Wall has no physical material.
+Rift (C-IVδ-193 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Wall formed from a boundary removed without healing the separation it caused. Held at Zone B, Old Lament — ambient. The Wall has no physical material.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Its pressure increases when people deny the district's history.
@@ -360,7 +360,7 @@ Some sorrows are about barriers built. Rift is about a barrier removed — the w
 > *“Some walls, demolished, simply move inside.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-193 [WP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-193 [WP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Place-Grudge manifestation
 **Common Name:** Rift
 **Containment Status:** Uncontained — Zone C
 **Comprehension Level:** 3 — Advanced

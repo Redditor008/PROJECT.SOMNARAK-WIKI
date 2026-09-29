@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Trace Lantern |
 | Set | Witnessed Route |
-| Type / grade / element | Stigma, small blue route lantern / α — Minor / Lament — Deep Blue |
+| Type / grade / element | Stigma, small blue route lantern / α — Minor / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; named-route custody required |
 | Known bearer | Cartographer Yeonhwa |

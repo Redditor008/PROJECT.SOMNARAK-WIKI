@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats screaming in silence |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A translucent figure, half-flesh and half-light, its mouth open in a scream that produces no sound at all — the loudest silence there is. Bloodless-cold, it smells of ash; the shape of a voice never allowed to be heard. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Open Mouth* [**Debuff**] } | "It opens its mouth to scream — and nothing comes out. But you hear it anyway." | [The Scream's silence marks the target; the unheard cry is a void.] | *Target suffers a Void mark; the suppressed scream presses on them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Scream begins. |
-| { *The Throat Closes* [**Debuff**] } | "You feel your own throat tighten — the scream is contagious, even in silence." | [The Scream infects the target; their voice catches.] | *Target loses clarity; they feel the scream building with no release.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target witnesses the Scream. |
-| { *The Soundless Impact* [**Attack**] } | "The scream hits you — and you feel every decibel of a sound that does not exist." | [A silent sonic impact; the damage is real, the sound is not.] | *Inflicts Void damage; the unheard cry tears at identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Scream is directed. |
-| { *The Suppressed Eruption* [**Attack**] } | "Every scream it ever held back — released at once, in absolute, crushing silence." | [The Scream unleashes its accumulated suppression.] | *A heavy Void blast of perfect quiet; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Scream is silenced or struck. |
-| { *A Thousand Silent Screams* [**Ultimate**] } | "Everyone is screaming — and no one can hear anyone else, and the silence is endless." | [The Scream spreads its voiceless agony across the whole field.] | *All in range suffer Pale White erosion for three turns of silent screaming.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Open Mouth* [**Debuff**] } | "It opens its mouth to scream — and nothing comes out. But you hear it anyway." | [The Scream's silence marks the target; the unheard cry is a void.] | *Target suffers a Void mark; the suppressed scream presses on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Scream begins. |
+| { *The Throat Closes* [**Debuff**] } | "You feel your own throat tighten — the scream is contagious, even in silence." | [The Scream infects the target; their voice catches.] | *Target loses clarity; they feel the scream building with no release.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target witnesses the Scream. |
+| { *The Soundless Impact* [**Attack**] } | "The scream hits you — and you feel every decibel of a sound that does not exist." | [A silent sonic impact; the damage is real, the sound is not.] | *Inflicts Void damage; the unheard cry tears at identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Scream is directed. |
+| { *The Suppressed Eruption* [**Attack**] } | "Every scream it ever held back — released at once, in absolute, crushing silence." | [The Scream unleashes its accumulated suppression.] | *A heavy Void blast of perfect quiet; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Scream is silenced or struck. |
+| { *A Thousand Silent Screams* [**Ultimate**] } | "Everyone is screaming — and no one can hear anyone else, and the silence is endless." | [The Scream spreads its voiceless agony across the whole field.] | *All in range suffer Void erosion for three turns of silent screaming.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a small amplifier of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a small amplifier of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Aphonia (N-IIβ-170 [VS]) is logged as a Subject-Void manifestation expressing Void (Pale White). The Scream formed from pleas for help that no one heard. Held at Zone B, Old Lament — ambient. It produces no measurable sound.
+Aphonia (N-IIβ-170 [VS]) is logged as a Subject-Void manifestation expressing Void. The Scream formed from pleas for help that no one heard. Held at Zone B, Old Lament — ambient. It produces no measurable sound.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through Old Lament corridors. Personnel feel unheard panic and lose the ability to call out. It reacts strongly to direct acknowledgment.
@@ -349,7 +349,7 @@ Some sorrows are about being heard. Aphonia is about not being heard — the scr
 > *“The pleas carried no ear. The silence carries every voice that called for help and found no answer.”* — Warden, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-170 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-170 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Void manifestation
 **Common Name:** Aphonia
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic

@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A compact black Han-steel maul with an empty mouth-shaped recess in the head. It forms after safe voluntary speech or accepted silence.
+A compact Weight Han-steel maul with an empty mouth-shaped recess in the head. It forms after safe voluntary speech or accepted silence.
 
 Binding requires the wielder to receive one freely offered word without requesting context. During a Mantle Commons pressure lock, the word “door” entered the head and one strike released the jammed exit. Durivel asked nothing else and carried the remaining heaviness himself.
 

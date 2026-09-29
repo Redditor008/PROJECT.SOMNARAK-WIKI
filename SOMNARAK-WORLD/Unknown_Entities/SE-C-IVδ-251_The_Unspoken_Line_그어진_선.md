@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — Not a creature but an ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts — that looks entirely normal yet is the entity: a social divide made a place. Bloodless-cold, it smells of ash; stand at its center and you feel the line no one will cross. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Step Over* [**Debuff**] } | "You crossed a line — one no one ever told you about, but you crossed it all the same." | [The Line marks the transgressor; the boundary asserts itself.] | *Target suffers a Void mark; they have trespassed.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target crosses the Line. |
-| { *The Unspoken Rule* [**Debuff**] } | "The rules were never written down — and that makes the punishment worse." | [The Line's invisible rules tighten; the target feels the weight of taboo.] | *Target loses clarity; they do not know what they did wrong.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers on the wrong side. |
-| { *The Redraw* [**Attack**] } | "The line redraws itself — through you." | [The boundary manifests as a cutting edge through the target.] | *Inflicts Void damage; the line divides them.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Line is challenged. |
-| { *The Taboo* [**Attack**] } | "The punishment for crossing — and it was always going to find you." | [The accumulated weight of every transgression strikes.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Line is forced or erased. |
-| { *Every Line at Once* [**Ultimate**] } | "Now there are lines everywhere — and you cannot move without crossing one." | [The Line multiplies across the whole field, trapping everyone in taboo.] | *All in range suffer Pale White erosion for three turns among the lines.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Step Over* [**Debuff**] } | "You crossed a line — one no one ever told you about, but you crossed it all the same." | [The Line marks the transgressor; the boundary asserts itself.] | *Target suffers a Void mark; they have trespassed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target crosses the Line. |
+| { *The Unspoken Rule* [**Debuff**] } | "The rules were never written down — and that makes the punishment worse." | [The Line's invisible rules tighten; the target feels the weight of taboo.] | *Target loses clarity; they do not know what they did wrong.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers on the wrong side. |
+| { *The Redraw* [**Attack**] } | "The line redraws itself — through you." | [The boundary manifests as a cutting edge through the target.] | *Inflicts Void damage; the line divides them.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Line is challenged. |
+| { *The Taboo* [**Attack**] } | "The punishment for crossing — and it was always going to find you." | [The accumulated weight of every transgression strikes.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Line is forced or erased. |
+| { *Every Line at Once* [**Ultimate**] } | "Now there are lines everywhere — and you cannot move without crossing one." | [The Line multiplies across the whole field, trapping everyone in taboo.] | *All in range suffer Void erosion for three turns among the lines.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -168,7 +168,7 @@ The escalation pattern is specific to The Unspoken Line: it is not a generic bre
 | Detailed Expansion Record field | R.D. operational detail |
 |---|---|
 | **Trigger** | Expansion is initiated when the entity's recorded agitation, Gauge threshold, or containment condition is reached. Personnel must log the exact event that preceded the expansion. |
-| **Manifestation** | Object / Place — A junction that became an entity; can breach via Transform, only widen · Void (Pale White). The entity expresses its expansion through the behavior recorded below rather than through a generic attack pattern. |
+| **Manifestation** | Object / Place — A junction that became an entity; can breach via Transform, only widen · Void. The entity expresses its expansion through the behavior recorded below rather than through a generic attack pattern. |
 | **Movement / spread** | The line widens block by block when both groups are present and silent. |
 | **Primary effect** | Clarity loss; forgetfulness of neighbors and shared histories; on bad days, district-wide estrangement. |
 | **Escalation** | Exposure continues for: Until a cross-line conversation occurs or both groups withdraw. Each additional turn or work cycle must record personnel position, Sorrow Gauge change, and environmental damage. |
@@ -324,7 +324,7 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 > *"We did not divide the city. Hope did not divide the city. The city divided itself, slowly, because uneven mercy is harder to bear than shared suffering."* — Director Majin (마진), Year 4238
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-251 [VP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-251 [VP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Place-Void manifestation
 **Common Name:** The Unspoken Line
 **Containment Status:** Open / Managed — a live junction under Ferrehan supervision; healing generational
 **Comprehension Level:** 3 — Elevated

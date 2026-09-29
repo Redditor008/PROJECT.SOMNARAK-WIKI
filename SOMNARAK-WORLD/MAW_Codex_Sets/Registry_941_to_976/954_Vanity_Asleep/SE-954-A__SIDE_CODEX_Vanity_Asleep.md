@@ -21,7 +21,7 @@ The Mirror formed from self-knowledge that people were too exhausted to face. Th
 | Source designation | N-IIIγ-954 [VS] |
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Void (Pale White) / Zone A, Alpha Tree |
+| Element / Location | Void / Zone A, Alpha Tree |
 | Gauge / Pressure | 739/739; starts 45–65% / 17–39 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence. |
@@ -52,7 +52,7 @@ During the The Vanity Asleep Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Vanity Asleep's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not wake it by force; look at the reflected self without turning away The set cannot heal the originating event. Misuse routes Vanity Asleep's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Vanity Asleep's source condition, the Suit lets a witness bear its Void pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not wake it by force; look at the reflected self without turning away The set cannot heal the originating event. Misuse routes Vanity Asleep's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IIIγ-902 [GO] |
 | Type / Manifestation | Object — Can breach via Transform / Object-Body |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Grudge (Crimson) / SECTOR-C-902, contained |
+| Element / Location | Grudge / SECTOR-C-902, contained |
 | Gauge / Pressure | 427/427; starts 35–50% / 17–26 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Goru s Fist Source-Trace, the field team preserved this source fa
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Goru's Fist's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Goru's Fist's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Goru's Fist's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Goru's Fist's wound through the operator and triggers the recorded escalation.
 
 ---
 

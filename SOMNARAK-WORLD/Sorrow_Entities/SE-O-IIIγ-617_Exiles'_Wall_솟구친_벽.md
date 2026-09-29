@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A wall of dark wet crystal standing near the Exile's Gate, its surface burning with red light and leaking sorrow like sweat. Fever-hot and damp, it smells of char; it weeps even as it burns. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Weeping Mortar* [**Debuff**] } | "The wall is sweating — not water, but old, angry tears — and the mortar is dissolving." | [The Wall's sorrow-sweat undermines its own structure; the target senses the decay.] | *Target suffers -10 Resilience; the wall is dissolving in its own grief.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stands near the Wall. |
-| { *The Spreading Damp* [**Debuff**] } | "The wet spreads — along the floor, up your legs — and wherever it reaches, the surface turns soft with resentment." | [The Wall's moisture carries rage; the target is contaminated.] | *Target loses 10 Resilience; the anger in the water is palpable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target wades through. |
-| { *The Sodden Blow* [**Attack**] } | "A chunk of waterlogged wall breaks free — heavy, saturated, and furious." | [A soaking wall-section collapses.] | *Inflicts Crimson pressure and one drenching, crushing wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Wall is struck. |
-| { *The Full Dissolve* [**Attack**] } | "The entire wall gives way — not from force, but from being too wet with sorrow to hold." | [The Wall's total saturation causes structural liquefaction.] | *A heavy Crimson mudslide; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Wall is overloaded. |
-| { *The Sorrow Swamp* [**Ultimate**] } | "Every wall in the field dissolves — and the combined runoff turns the area into a swamp of liquid resentment." | [The Wall extends its soaking across the whole area.] | *All in range suffer Crimson pressure for three turns in the sorrow-swamp.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Weeping Mortar* [**Debuff**] } | "The wall is sweating — not water, but old, angry tears — and the mortar is dissolving." | [The Wall's sorrow-sweat undermines its own structure; the target senses the decay.] | *Target suffers -10 Resilience; the wall is dissolving in its own grief.* **[10 Grudge DMG [Grudge]]** | When the target stands near the Wall. |
+| { *The Spreading Damp* [**Debuff**] } | "The wet spreads — along the floor, up your legs — and wherever it reaches, the surface turns soft with resentment." | [The Wall's moisture carries rage; the target is contaminated.] | *Target loses 10 Resilience; the anger in the water is palpable.* **[10 Grudge DMG [Grudge]]** | When the target wades through. |
+| { *The Sodden Blow* [**Attack**] } | "A chunk of waterlogged wall breaks free — heavy, saturated, and furious." | [A soaking wall-section collapses.] | *Inflicts Grudge pressure and one drenching, crushing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Wall is struck. |
+| { *The Full Dissolve* [**Attack**] } | "The entire wall gives way — not from force, but from being too wet with sorrow to hold." | [The Wall's total saturation causes structural liquefaction.] | *A heavy Crimson mudslide; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Wall is overloaded. |
+| { *The Sorrow Swamp* [**Ultimate**] } | "Every wall in the field dissolves — and the combined runoff turns the area into a swamp of liquid resentment." | [The Wall extends its soaking across the whole area.] | *All in range suffer Grudge pressure for three turns in the sorrow-swamp.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ Carried into containment zones, the stele radiates the collective endurance of t
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ Carried into containment zones, the stele radiates the collective endurance of t
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a ring of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a ring of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Exiles' Wall (O-IIIγ-617 [O]) is logged as a Place-Lament manifestation expressing Grudge (Crimson). The Wall formed from mourning at the border. Held at Zone E, Exile's Gate vicinity. It grows near new exile routes.
+Exiles' Wall (O-IIIγ-617 [O]) is logged as a Place-Lament manifestation expressing Grudge. The Wall formed from mourning at the border. Held at Zone E, Exile's Gate vicinity. It grows near new exile routes.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its red heat is emotional rather than thermal.
@@ -360,7 +360,7 @@ Some sorrows mourn exile. Exiles' Wall mourns the building — the shelters star
 > *“The wall soaks the accumulated grief of exiles who tried to rebuild and could not finish.”* — Elder, Gate District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-617 [O]` · Grudge (Crimson) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-617 [O]` · Grudge · Place-Lament manifestation
 **Common Name:** Exiles' Wall
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic

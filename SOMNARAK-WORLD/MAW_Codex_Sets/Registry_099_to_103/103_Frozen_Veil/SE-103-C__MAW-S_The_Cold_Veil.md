@@ -18,11 +18,11 @@
 |---|---|
 | Official name | The Cold Veil |
 | Set | Warmth at Risk |
-| Type / grade / element | Suit / δ — Critical / Void — Pale White |
+| Type / grade / element | Suit / δ — Critical / Void |
 | Status | Emergency Void-response issue only |
 | Maximum amount | 2 — Limited |
 | Current bearer | Unassigned; retained under paired-key custody |
-| Resting form | Pale Han-gossamer that appears ordinary until a hand passes beneath it and loses the urge to close into a fist. |
+| Resting form | Void Han-gossamer that appears ordinary until a hand passes beneath it and loses the urge to close into a fist. |
 | Active form | A still white veil isolates the wearer from surrounding emotional pressure; its fabric does not move with air. |
 | Recognition rule | A stitched inner mark becomes visible only when the wearer responds emotionally to their named anchor. |
 

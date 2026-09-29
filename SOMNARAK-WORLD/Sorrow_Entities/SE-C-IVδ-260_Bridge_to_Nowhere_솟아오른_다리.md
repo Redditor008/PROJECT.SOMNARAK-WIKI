@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A bridge rising from the Echo Gardens, built of dark memory-crystal and worn old path-stones, leading across a gap that is not physically there. Salt-cold and damp, it smells of cold rain; walking it, you cross something other than distance. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lift* [**Debuff**] } | "The bridge begins to rise — tilting upward — and you are still on it." | [The Bridge's impossible ascent catches the target; the ground falls away.] | *Target suffers -10 Composure; they are rising with no way down.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands on the Bridge. |
-| { *The Inverted View* [**Debuff**] } | "The higher it goes, the smaller everything looks — and the grief looks different from up here: total." | [The Bridge's height distorts perspective; the target sees the whole sorrow at once.] | *Target loses 10 Composure; the view is devastating.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target looks down. |
-| { *The Falling Plank* [**Attack**] } | "A plank shakes loose — and the fall from here is very, very long." | [A plank drops from the rising Bridge.] | *Inflicts Deep Blue pressure and one wound of vertigo and impact.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Bridge is shaken. |
-| { *The Apex* [**Attack**] } | "The bridge reaches its peak — and at the peak, there is nowhere left to go but down." | [The Bridge's summit triggers a catastrophic descent.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Bridge is overloaded. |
-| { *The Sky-Bridge* [**Ultimate**] } | "Every bridge in the field rises — and everyone is lifted, and there is no ground anymore." | [The Bridge extends its ascent across the whole area.] | *All in range suffer Deep Blue pressure for three turns of impossible height.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lift* [**Debuff**] } | "The bridge begins to rise — tilting upward — and you are still on it." | [The Bridge's impossible ascent catches the target; the ground falls away.] | *Target suffers -10 Composure; they are rising with no way down.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |
+| { *The Inverted View* [**Debuff**] } | "The higher it goes, the smaller everything looks — and the grief looks different from up here: total." | [The Bridge's height distorts perspective; the target sees the whole sorrow at once.] | *Target loses 10 Composure; the view is devastating.* **[10 Lament DMG [Lament]]** | When the target looks down. |
+| { *The Falling Plank* [**Attack**] } | "A plank shakes loose — and the fall from here is very, very long." | [A plank drops from the rising Bridge.] | *Inflicts Lament pressure and one wound of vertigo and impact.* **[14-22 Lament DMG [Lament]]** | When the Bridge is shaken. |
+| { *The Apex* [**Attack**] } | "The bridge reaches its peak — and at the peak, there is nowhere left to go but down." | [The Bridge's summit triggers a catastrophic descent.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bridge is overloaded. |
+| { *The Sky-Bridge* [**Ultimate**] } | "Every bridge in the field rises — and everyone is lifted, and there is no ground anymore." | [The Bridge extends its ascent across the whole area.] | *All in range suffer Lament pressure for three turns of impossible height.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Bridge to Nowhere: it is not a generic bre
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Bridge to Nowhere: it is not a generic bre
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Bridge to Nowhere: it is not a generic bre
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Bridge to Nowhere (C-IVδ-260 [LP]) is logged as a Place-Grudge manifestation expressing Lament (Deep Blue). The Bridge formed from a remembered crossing. Held at Zone D, Echo Gardens. The Bridge sings during formation.
+Bridge to Nowhere (C-IVδ-260 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Bridge formed from a remembered crossing. Held at Zone D, Echo Gardens. The Bridge sings during formation.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It may appear over flat ground.
@@ -360,7 +360,7 @@ Some sorrows mourn a place. Bridge to Nowhere mourns a transit — the daily cro
 > *“The daily crossing, remembered so many times it became real again.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-260 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-260 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Grudge manifestation
 **Common Name:** Bridge to Nowhere
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 3 — Advanced

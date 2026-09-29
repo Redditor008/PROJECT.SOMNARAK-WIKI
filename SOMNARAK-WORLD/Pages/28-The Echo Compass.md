@@ -23,7 +23,7 @@ Discovered in the abandoned subterranean observation posts of the early Sorrow E
 - [1 General Information](#1-general-information)
 - [2 Tool Relic Classification: Single-Use Mechanics](#2-tool-relic-classification-single-use-mechanics)
 - [3 Operational Protocols: The Two-Work-Type Rule](#3-operational-protocols-the-two-work-type-rule)
-- [4 Managerial Guidelines and Tactical Utility](#4-managerial-guidelines-and-tactical-utility)
+- [4 Warden Guidelines and Tactical Utility](#4-warden-guidelines-and-tactical-utility)
 - [5 Log and Method Archival Unlock Progression](#5-log-and-method-archival-unlock-progression)
 - [6 Observation Logs and Field Transcripts](#6-observation-logs-and-field-transcripts)
 - [7 Metaphysical Origin and Story](#7-metaphysical-origin-and-story)
@@ -59,12 +59,12 @@ In accordance with Directorate safety doctrine for inanimate artifacts, 💧 **F
 | 💧 **Flerehan** (Lamentation) | **PROHIBITED** | Inanimate artifact possesses no emotional psyche to receive empathetic communion. | Interface command disabled; attempted communion causes cognitive void. |
 | ⚔ **Pugnahan** (Confrontation) | **PROHIBITED** | Physical assault on calibrated brass dials causes permanent structural misfire. | Interface command disabled; violent contact fractures acoustic core. |
 
-## 4 Managerial Guidelines and Tactical Utility
+## 4 Warden Guidelines and Tactical Utility
 
-1. **Managerial Tip 1:** When a specialist completes work on The Echo Compass, an acoustic chime resonates across the department. For the next 45 seconds, all specialists in that department gain a +10% bonus to work success rates and corridor movement speed.
-2. **Managerial Tip 2:** The Echo Compass requires at least 30 seconds of cooldown between activations. If an operative is sent to activate the compass while the brass needle is still vibrating from a previous pulse, the apparatus emits a dissonant screech, inflicting 15–20 🔵 **Lament** damage to the operative.
-3. **Managerial Tip 3:** During [Ordeal](10-Ordeals.md) incursions, activating The Echo Compass reveals the exact movement vectors and ambush coordinates of approaching Ordeal horrors across the floor HUD.
-4. **Managerial Tip 4:** Novice operatives with Clarity below Level II should not activate the compass repeatedly, as prolonged exposure to its high-frequency hum induces persistent auditory hallucinations.
+1. **Warden Tip 1:** When a specialist completes work on The Echo Compass, an acoustic chime resonates across the department. For the next 45 seconds, all specialists in that department gain a +10% bonus to work success rates and corridor movement speed.
+2. **Warden Tip 2:** The Echo Compass requires at least 30 seconds of cooldown between activations. If an operative is sent to activate the compass while the brass needle is still vibrating from a previous pulse, the apparatus emits a dissonant screech, inflicting 15–20 🔵 **Lament** damage to the operative.
+3. **Warden Tip 3:** During [Ordeal](10-Ordeals.md) incursions, activating The Echo Compass reveals the exact movement vectors and ambush coordinates of approaching Ordeal horrors across the floor HUD.
+4. **Warden Tip 4:** Novice operatives with Clarity below Level II should not activate the compass repeatedly, as prolonged exposure to its high-frequency hum induces persistent auditory hallucinations.
 
 | Deployment Situation | Sonar Benefit | Activation Priority |
 |---|---|---|
@@ -80,8 +80,8 @@ Unlike Subject entities whose codices unlock via raw energy box count, Tool Reli
 | Unlock Tier | Required Uses | Archival Information Unlocked |
 |---|---|---|
 | **Level 1** | 1 Successful Use | Basic identification, SECC code, and single-use operational definition. |
-| **Level 2** | 3 Successful Uses | Managerial Tips 1 and 2, cooldown rules, and Lament backlash warnings. |
-| **Level 3** | 6 Successful Uses | Managerial Tips 3 and 4, Ordeal detection mechanics, and department buff timers. |
+| **Level 2** | 3 Successful Uses | Warden Tips 1 and 2, cooldown rules, and Lament backlash warnings. |
+| **Level 3** | 6 Successful Uses | Warden Tips 3 and 4, Ordeal detection mechanics, and department buff timers. |
 | **Level 4** | 10 Successful Uses | Complete metaphysical origin story, field debrief transcript, and flavor text. |
 
 ## 6 Observation Logs and Field Transcripts

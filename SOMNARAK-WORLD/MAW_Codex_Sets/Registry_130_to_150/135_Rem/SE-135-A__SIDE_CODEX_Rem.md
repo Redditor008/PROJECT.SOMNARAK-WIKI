@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place — Subject-Dream |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | SECTOR-A-01, near Dream Gates |
 | Form | A flickering Dream shard shifting between a room, a face, and one warm tear that cannot settle into waking form. |
 | Gauge / pressure | 35–50% / Lament 8–20 |

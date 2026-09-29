@@ -21,7 +21,7 @@ The Pillar formed from responsibility that became a permanent mental structure. 
 | Source designation | N-IVδ-909 [N] |
 | Type / Manifestation | Subject — Can breach / Subject-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Void (Pale White) / Zone E, Border region |
+| Element / Location | Void / Zone E, Border region |
 | Gauge / Pressure | 999/999; starts 60–80% / 28–60 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A border worker carried family and community obligations until the mind became a sleeping pillar. |
@@ -52,7 +52,7 @@ During the The Dormant Monolith Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Dormant Monolith's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Ground the worker and establish a rotation of duty The set cannot heal the originating event. Misuse routes Dormant Monolith's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dormant Monolith's source condition, the Suit lets a witness bear its Void pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Ground the worker and establish a rotation of duty The set cannot heal the originating event. Misuse routes Dormant Monolith's wound through the operator and triggers the recorded escalation.
 
 ---
 

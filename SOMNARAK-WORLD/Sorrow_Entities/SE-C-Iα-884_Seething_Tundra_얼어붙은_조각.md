@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A clear-white shard of crystallized rage, palm-sized, cold to the touch and shot through with tiny trapped tears frozen mid-fall. Bloodless-cold, it smells of ash; held, it hums with a held-in shout. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Cold Core* [**Debuff**] } | "The shard is perfectly preserved — frozen so completely that time itself has stopped inside it." | [The Shard's timeless cold emanates; the target feels the stoppage.] | *Target suffers a Void mark; time is slowing around them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
-| { *The Suspended Moment* [**Debuff**] } | "Inside the ice, you can see the instant the shard was frozen — a single, eternal, grief-filled frame." | [The Shard's preserved moment radiates; the target is caught in stillness.] | *Target loses clarity; the frozen moment is pulling them in.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares into the ice. |
-| { *The Ice Spear* [**Attack**] } | "The frozen shard launches — trailing permafrost, carrying the cold of an eternal instant." | [An ice-locked shard strikes the target.] | *Inflicts Void damage; the eternal cold preserves and erodes.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is struck. |
-| { *The Full Shatter* [**Attack**] } | "The ice around the shard cracks — and the moment it held, released, hits like a stopped clock starting again." | [The Shard's temporal prison breaks; the stored moment detonates.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shard is broken. |
-| { *The Frozen Instant* [**Ultimate**] } | "Every shard in the field freezes — and time, around every one of them, simply stops." | [The Shard extends its temporal freeze across the whole area.] | *All in range suffer Pale White erosion for three turns of stopped time.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Cold Core* [**Debuff**] } | "The shard is perfectly preserved — frozen so completely that time itself has stopped inside it." | [The Shard's timeless cold emanates; the target feels the stoppage.] | *Target suffers a Void mark; time is slowing around them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
+| { *The Suspended Moment* [**Debuff**] } | "Inside the ice, you can see the instant the shard was frozen — a single, eternal, grief-filled frame." | [The Shard's preserved moment radiates; the target is caught in stillness.] | *Target loses clarity; the frozen moment is pulling them in.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares into the ice. |
+| { *The Ice Spear* [**Attack**] } | "The frozen shard launches — trailing permafrost, carrying the cold of an eternal instant." | [An ice-locked shard strikes the target.] | *Inflicts Void damage; the eternal cold preserves and erodes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is struck. |
+| { *The Full Shatter* [**Attack**] } | "The ice around the shard cracks — and the moment it held, released, hits like a stopped clock starting again." | [The Shard's temporal prison breaks; the stored moment detonates.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is broken. |
+| { *The Frozen Instant* [**Ultimate**] } | "Every shard in the field freezes — and time, around every one of them, simply stops." | [The Shard extends its temporal freeze across the whole area.] | *All in range suffer Void erosion for three turns of stopped time.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-The escalation pattern is specific to Seething Tundra: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Seething Tundra: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -251,7 +251,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Seething Tundra (C-Iα-884 [VO]) is logged as a Object-Grudge manifestation expressing Void (Pale White). The Shard formed from sorrow that was shaped into an object rather than spoken. Held at Zone D, Echo Gardens. The Shard remains stationary in the Echo Gardens.
+Seething Tundra (C-Iα-884 [VO]) is logged as a Object-Grudge manifestation expressing Void. The Shard formed from sorrow that was shaped into an object rather than spoken. Held at Zone D, Echo Gardens. The Shard remains stationary in the Echo Gardens.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It pulses during the Sorrow Tide.
@@ -388,7 +388,7 @@ Some sorrows are preserved. Seething Tundra is a sorrow preserved too well — t
 > *“The preservation was too thorough. She sealed what she did not mean to seal.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-884 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-Iα-884 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Grudge manifestation
 **Common Name:** Seething Tundra
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic

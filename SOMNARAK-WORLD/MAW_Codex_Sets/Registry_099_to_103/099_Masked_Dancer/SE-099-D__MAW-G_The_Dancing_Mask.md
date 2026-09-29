@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Hollow Porcelain Shard |
 | Set | Borrowed Motion |
-| Type / grade / element | Stigma, facial mask fragment / β — Moderate / Grudge — Crimson |
+| Type / grade / element | Stigma, facial mask fragment / β — Moderate / Grudge |
 | Slot | Head / Face |
 | Status | Bearer-bound; not approved for unsupervised patrols |
 | Known bearer | Specialist Nari Kwon |

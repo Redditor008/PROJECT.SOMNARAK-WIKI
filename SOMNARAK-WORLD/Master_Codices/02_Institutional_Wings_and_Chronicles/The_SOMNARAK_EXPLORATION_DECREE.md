@@ -131,7 +131,7 @@ The rank structure of the Somnarak Exploration Decree reflects its dual nature a
 | **Rank 1: Surface Apprentice** | 지상 수습원 | Induction | Surface logistics, tool maintenance, sonar data entry | Resilience 25+, Agility 20+ |
 | **Rank 2: Field Scout** | 현장 수색원 | 2 Years | Strata 1–2 drilling, acoustic markers, basic vehicle repairs | Resilience 40+, Agility 35+ |
 | **Rank 3: Senior Cartographer** | 선임 측량사 | 5 Years | Strata 3–4 sonar interpretation, squad defense, abort authority | Resilience 55+, Clarity 50+ |
-| **Rank 4: Bore Captain** | 천공 함장 | 10 Years | Heavy crawler command, deep multi-week sorties, combat clearance | Resilience 70+, Fortitude 65+ |
+| **Rank 4: Bore Captain** | 천공 함장 | 10 Years | Heavy crawler command, deep multi-week sorties, combat clearance | Resilience 70+, Vigor 65+ |
 | **Rank 5: Expedition Marshal** | 원정 제독 | 15 Years | Sector fleet command, Base Camp Alpha direction, inter-agency policy| Resilience 85+, Wisdom 75+ |
 | **Executive: High Commissioner**| 탐사 총감 | Council Seat | Corporate supreme leadership, Council Mandate 042 enforcement | Executive Council Mandate |
 

@@ -13,7 +13,7 @@
 | **Coherence** | IV — Entity (paradoxical: loop-awareness grants retention no other entity possesses, yet that retention has dissolved the self it retained) |
 | **Potency** | δ — Critical |
 | **Sorrow Category** | Inner Sorrow (내한), born of the Cycle |
-| **Element** | Void (Pale White) — the emptying of a self that remembered too much; Weight and Grudge undertones |
+| **Element** | Void — the emptying of a self that remembered too much; Weight and Grudge undertones |
 | **Manifestation** | Subject-Body — a body that performs; nobody left inside it |
 | **Physical Form** | Mixed — An R.D. field agent in every visible detail — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing wrong with the body; it is a person-shaped loop, remembering every cycle. Bloodless-cold, it smells of ash; it looks exactly like someone you know. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -80,11 +80,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Tenth Death* [**Debuff**] } | "It has died nine times — and here it is again, and each death has made it more hollow, more determined, less real." | [The Survivor's repeated deaths have hollowed it; the target senses the void of relentless persistence.] | *Target suffers a Void mark; the thing that will not die is not entirely alive.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target encounters the Survivor. |
-| { *The Accumulated Endings* [**Debuff**] } | "Every death left a scar — and the scars are voids, and the voids are deep, and the Survivor wears them all." | [The Survivor's death-scars radiate; the target feels the weight of multiple endings.] | *Target loses clarity; they are surrounded by the echoes of nine deaths.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains. |
-| { *The Revenant Strike* [**Attack**] } | "The survivor attacks — with the desperation of someone who has nothing left to lose, because they have already lost it, nine times." | [ A strike fueled by nine deaths of experience.] | *Inflicts Void damage; the hollowed survivor erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Survivor is challenged. |
-| { *The Tenth Return* [**Attack**] } | "It dies again — and returns again — and the return is faster, emptier, and more devastating than the last." | [The Survivor's tenth death-and-return releases its accumulated void.] | *A heavy Void cycle of death and rebirth; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Survivor is killed. |
-| { *The Eternal Survivor* [**Ultimate**] } | "Now everyone cannot die — and cannot live — stuck in an endless loop of returning, hollower each time." | [The Survivor extends its relentless persistence across the whole field.] | *All in range suffer Pale White erosion for three turns of endless, hollow survival.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Tenth Death* [**Debuff**] } | "It has died nine times — and here it is again, and each death has made it more hollow, more determined, less real." | [The Survivor's repeated deaths have hollowed it; the target senses the void of relentless persistence.] | *Target suffers a Void mark; the thing that will not die is not entirely alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target encounters the Survivor. |
+| { *The Accumulated Endings* [**Debuff**] } | "Every death left a scar — and the scars are voids, and the voids are deep, and the Survivor wears them all." | [The Survivor's death-scars radiate; the target feels the weight of multiple endings.] | *Target loses clarity; they are surrounded by the echoes of nine deaths.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |
+| { *The Revenant Strike* [**Attack**] } | "The survivor attacks — with the desperation of someone who has nothing left to lose, because they have already lost it, nine times." | [ A strike fueled by nine deaths of experience.] | *Inflicts Void damage; the hollowed survivor erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Survivor is challenged. |
+| { *The Tenth Return* [**Attack**] } | "It dies again — and returns again — and the return is faster, emptier, and more devastating than the last." | [The Survivor's tenth death-and-return releases its accumulated void.] | *A heavy Void cycle of death and rebirth; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Survivor is killed. |
+| { *The Eternal Survivor* [**Ultimate**] } | "Now everyone cannot die — and cannot live — stuck in an endless loop of returning, hollower each time." | [The Survivor extends its relentless persistence across the whole field.] | *All in range suffer Void erosion for three turns of endless, hollow survival.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,7 +181,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 ### M.A.W. Weapon — The Final Act
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
-**Appearance:** A stage blade of pale Han-crystal that flickers like a spotlight's edge; it always seems to have already struck.
+**Appearance:** A stage blade of Void Han-crystal that flickers like a spotlight's edge; it always seems to have already struck.
 
 **Ability:** Deals Void damage (attacks the Soul — identity and memory). The blade "strikes its mark" with rehearsed certainty: once a target is assigned a role, the strike finds them across distance.
 **Cost:** The wielder begins to perceive their own life as a script already written; prolonged use erodes their sense of agency.
@@ -346,7 +346,7 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-902 [VS]` · Inner (내한) origin, born of the Cycle · Entity (IV) coherence (paradoxical) · Critical (δ) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IVδ-902 [VS]` · Inner (내한) origin, born of the Cycle · Entity (IV) coherence (paradoxical) · Critical (δ) potency · Void · Subject-Body manifestation
 **Common Name:** The Repeated Survivor (되풀이의 생존자)
 **Containment Status:** Uncontained / Recurrent — appears every loop iteration; cannot be ended within a single cycle
 **Comprehension Level:** 5 — Sovereign-grade monitoring (loop-anomaly)

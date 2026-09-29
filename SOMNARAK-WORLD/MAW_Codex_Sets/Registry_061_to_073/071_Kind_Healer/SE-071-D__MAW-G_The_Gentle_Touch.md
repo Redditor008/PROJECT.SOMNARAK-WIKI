@@ -16,7 +16,7 @@
 |---|---|
 | Type | Accessory (Stigma) — touch token |
 | Grade | α — Minor |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Slot | Tail |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Kind Healer source record |

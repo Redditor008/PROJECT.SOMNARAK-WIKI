@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IIIγ-913 [GT] |
 | Type / Manifestation | Time — Can breach via Transform / Time-Grudge |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Grudge (Crimson) / SECTOR-C-913, contained |
+| Element / Location | Grudge / SECTOR-C-913, contained |
 | Gauge / Pressure | 478/478; starts 35–50% / 17–25 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Backward Hour Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Backward Hour's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Backward Hour's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Backward Hour's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Backward Hour's wound through the operator and triggers the recorded escalation.
 
 ---
 

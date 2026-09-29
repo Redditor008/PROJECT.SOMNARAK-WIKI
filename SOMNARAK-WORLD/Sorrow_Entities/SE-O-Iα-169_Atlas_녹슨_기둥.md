@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A rusted iron pillar embedded in the Forge District, supporting nothing — corroded, bleeding orange, warm and rough to the touch. Lead-cold beneath the rust, it smells of wet iron; it stands where no building needs it. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Flake* [**Debuff**] } | "Rust falls from the pillar like red snow — and where it lands, things corrode." | [Rust flakes drift down; decay spreads to the target.] | *Target suffers -10 Resolve as corrosion sets in.* **[10 Black DMG [Black / Weight]]** | When the target stands under the Pillar. |
-| { *The Weakened Beam* [**Debuff**] } | "The pillar groans — and you hear every century of neglect in the sound." | [The Pillar's structural decay radiates; the target feels fragile.] | *Target loses 10 Resolve; they feel ready to crumble.* **[10 Black DMG [Black / Weight]]** | When the target relies on the structure. |
-| { *The Collapse* [**Attack**] } | "The pillar gives way — and everything it held comes down." | [The Pillar buckles; the collapse is a blow.] | *Inflicts Black pressure and one crushing wound of falling mass.* **[14-22 Black DMG [Black / Weight]]** | When the Pillar is struck. |
-| { *The Iron Rain* [**Attack**] } | "Rust flakes harden and fall like blades — sharp, oxidized, final." | [A volley of hardened rust-shards rains down.] | *A heavy Black volley; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Pillar is undermined. |
-| { *The Whole Structure* [**Ultimate**] } | "Every rusted thing in the place gives way at once — and it all comes down." | [The corrosion spreads to every surface; total structural failure.] | *All personnel suffer Black pressure for three turns in the collapse.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Flake* [**Debuff**] } | "Rust falls from the pillar like red snow — and where it lands, things corrode." | [Rust flakes drift down; decay spreads to the target.] | *Target suffers -10 Resolve as corrosion sets in.* **[10 Weight DMG [Weight]]** | When the target stands under the Pillar. |
+| { *The Weakened Beam* [**Debuff**] } | "The pillar groans — and you hear every century of neglect in the sound." | [The Pillar's structural decay radiates; the target feels fragile.] | *Target loses 10 Resolve; they feel ready to crumble.* **[10 Weight DMG [Weight]]** | When the target relies on the structure. |
+| { *The Collapse* [**Attack**] } | "The pillar gives way — and everything it held comes down." | [The Pillar buckles; the collapse is a blow.] | *Inflicts Weight pressure and one crushing wound of falling mass.* **[14-22 Weight DMG [Weight]]** | When the Pillar is struck. |
+| { *The Iron Rain* [**Attack**] } | "Rust flakes harden and fall like blades — sharp, oxidized, final." | [A volley of hardened rust-shards rains down.] | *A heavy Black volley; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Pillar is undermined. |
+| { *The Whole Structure* [**Ultimate**] } | "Every rusted thing in the place gives way at once — and it all comes down." | [The corrosion spreads to every surface; total structural failure.] | *All personnel suffer Weight pressure for three turns in the collapse.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ The thick spine allows for heavy chopping and prying without risking blade fract
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a braced harness of black Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a braced harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ The thick spine allows for heavy chopping and prying without risking blade fract
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Atlas (O-Iα-169 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Pillar formed from support that became an identity. Held at Zone D, Forge District. It supports no visible structure yet never falls.
+Atlas (O-Iα-169 [WP]) is logged as a Place-Weight manifestation expressing Weight. The Pillar formed from support that became an identity. Held at Zone D, Forge District. It supports no visible structure yet never falls.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rust appears after unshared labor.
@@ -362,7 +362,7 @@ Some sorrows are about sacrifice. Atlas is about the sacrifice that became the s
 > *“Sacrifice that became the sacrificer. The worker who held and was held.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-169 [WP]` · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `O-Iα-169 [WP]` · Weight · Place-Weight manifestation
 **Common Name:** Atlas
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 1 — Initial

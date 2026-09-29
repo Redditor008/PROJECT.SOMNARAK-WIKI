@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A seed sprouted into a creeping net of dark root-tendrils — a low spreading creature that flows across floors like a starfish of root. Bloodless-cold, it smells of ash. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Scattered Seed* [**Debuff**] } | "Tiny seeds drift on a wind that is not there — and where they land, things begin to disappear." | [The Seeds scatter; void potential germinates.] | *Target suffers a Void mark; absence is taking root.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Seeds are released. |
-| { *The Sprouting Nothing* [**Debuff**] } | "Where the seeds landed, the floor is simply... gone." | [The Seeds sprout into patches of void; the target's footing disappears.] | *Target loses clarity; the ground is becoming absent.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Seeds germinate. |
-| { *The Seed Volley* [**Attack**] } | "A burst of seeds — each one a tiny void, each one seeking soil." | [A volley of void-seeds strikes the target.] | *Inflicts Void damage; each seed erases a small portion.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Seeds are thrown. |
-| { *The Void Bloom* [**Attack**] } | "One seed blooms fully — and the flower is a hole in the world." | [A single Seed matures into a full void-bloom.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When a Seed is forced to bloom. |
-| { *The Void Garden* [**Ultimate**] } | "The seeds cover everything — and where they bloom, the world is simply not there anymore." | [The Seeds blanket the entire field in void-blooms.] | *All in range suffer Pale White erosion for three turns in the void garden.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Scattered Seed* [**Debuff**] } | "Tiny seeds drift on a wind that is not there — and where they land, things begin to disappear." | [The Seeds scatter; void potential germinates.] | *Target suffers a Void mark; absence is taking root.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Seeds are released. |
+| { *The Sprouting Nothing* [**Debuff**] } | "Where the seeds landed, the floor is simply... gone." | [The Seeds sprout into patches of void; the target's footing disappears.] | *Target loses clarity; the ground is becoming absent.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Seeds germinate. |
+| { *The Seed Volley* [**Attack**] } | "A burst of seeds — each one a tiny void, each one seeking soil." | [A volley of void-seeds strikes the target.] | *Inflicts Void damage; each seed erases a small portion.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Seeds are thrown. |
+| { *The Void Bloom* [**Attack**] } | "One seed blooms fully — and the flower is a hole in the world." | [A single Seed matures into a full void-bloom.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a Seed is forced to bloom. |
+| { *The Void Garden* [**Ultimate**] } | "The seeds cover everything — and where they bloom, the world is simply not there anymore." | [The Seeds blanket the entire field in void-blooms.] | *All in range suffer Void erosion for three turns in the void garden.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -225,7 +225,7 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -243,7 +243,7 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a seed-charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a seed-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -296,7 +296,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Mourning a Life I Never Lived (N-Iα-519 [VP]) is logged as a Place-Grudge manifestation expressing Void (Pale White). The Seed formed from potential that was removed before it could exist. Held at Zone A, Alpha Tree vault. It has never grown into a physical plant.
+Mourning a Life I Never Lived (N-Iα-519 [VP]) is logged as a Place-Grudge manifestation expressing Void. The Seed formed from potential that was removed before it could exist. Held at Zone A, Alpha Tree vault. It has never grown into a physical plant.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Its roots spread through ideas and memory.
@@ -381,7 +381,7 @@ Some sorrows mourn what was lost. Mourning a Life I Never Lived mourns what neve
 > *“The horror: the grief was entirely real, though its object was not.”* — Mender, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-519 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-Iα-519 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Place-Grudge manifestation
 **Common Name:** Mourning a Life I Never Lived
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

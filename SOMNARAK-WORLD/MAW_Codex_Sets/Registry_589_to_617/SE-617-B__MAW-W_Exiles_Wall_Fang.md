@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A fang-curved crimson Han-iron blade that pulses when drawn near a forced crossing. Wet red light follows the inner curve but gives no heat. Extraction occurred after Gate Watch removed a completed lintel from the source instead of cutting through its body.
+A fang-curved Grudge Han-iron blade that pulses when drawn near a forced crossing. Wet red light follows the inner curve but gives no heat. Extraction occurred after Gate Watch removed a completed lintel from the source instead of cutting through its body.
 
 Binding requires a named traveler, an acknowledged departure, and a destination selected by that traveler. Rejection makes the wielder’s old injuries ache until every direction feels punitive.
 

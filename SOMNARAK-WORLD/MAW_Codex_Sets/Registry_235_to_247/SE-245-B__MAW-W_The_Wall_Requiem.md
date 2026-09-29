@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A short deep-blue Han-crystal blade whose edge hums only after an interrupted phrase. It forms from resonance fallen at the break point; no fresco pigment is removed.
+A short Lament Han-crystal blade whose edge hums only after an interrupted phrase. It forms from resonance fallen at the break point; no fresco pigment is removed.
 
 Binding requires the wielder to repeat the last confirmed lyric and then keep silence where the verse was lost.
 

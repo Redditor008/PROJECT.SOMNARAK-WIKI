@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Mixed — A patch of dark flowers that uproot and walk on thin stem-legs — a swarming bloom-creature that returns no matter how often crushed, petals like tiny mouths. Lead-cold, they smell of wet stone. |
 | **Movement** | Mobile — moves as a creature. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Stubborn Bloom* [**Debuff**] } | "You cut the flower — and it grows back before the blade is away from the stem. Heavier this time." | [The Flower's relentless return weighs on the target; they feel the futility of effort.] | *Target suffers -10 Resolve; nothing they do will last.* **[10 Black DMG [Black / Weight]]** | When the target cuts the Flower. |
-| { *The Compounding Weight* [**Debuff**] } | "Each return adds mass — the flower heavier, denser — and the ground beneath it is sinking." | [The Flower's accumulated returns create gravitational pull.] | *Target loses 10 Resolve; the repeated growth is generating real weight.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Heavy Petal* [**Attack**] } | "A petal falls — and it weighs more than a stone, aimed at your head." | [ A weighted petal drops with impossible mass.] | *Inflicts Black pressure and one crushing, botanical impact.* **[14-22 Black DMG [Black / Weight]]** | When the Flower is shaken. |
-| { *The Full Bloom* [**Attack**] } | "Every flower that was ever cut returns at once — a mountain of heavy, persistent growth." | [The Flower's complete return is a botanical avalanche.] | *A heavy Black overgrowth; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Flower is uprooted. |
-| { *The Eternal Garden* [**Ultimate**] } | "Every flower in the field returns — and keeps returning — until the weight of infinite growth crushes everything." | [The Flower extends its returns across the whole area.] | *All in range suffer Black pressure for three turns of relentless growth.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Stubborn Bloom* [**Debuff**] } | "You cut the flower — and it grows back before the blade is away from the stem. Heavier this time." | [The Flower's relentless return weighs on the target; they feel the futility of effort.] | *Target suffers -10 Resolve; nothing they do will last.* **[10 Weight DMG [Weight]]** | When the target cuts the Flower. |
+| { *The Compounding Weight* [**Debuff**] } | "Each return adds mass — the flower heavier, denser — and the ground beneath it is sinking." | [The Flower's accumulated returns create gravitational pull.] | *Target loses 10 Resolve; the repeated growth is generating real weight.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Heavy Petal* [**Attack**] } | "A petal falls — and it weighs more than a stone, aimed at your head." | [ A weighted petal drops with impossible mass.] | *Inflicts Weight pressure and one crushing, botanical impact.* **[14-22 Weight DMG [Weight]]** | When the Flower is shaken. |
+| { *The Full Bloom* [**Attack**] } | "Every flower that was ever cut returns at once — a mountain of heavy, persistent growth." | [The Flower's complete return is a botanical avalanche.] | *A heavy Black overgrowth; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Flower is uprooted. |
+| { *The Eternal Garden* [**Ultimate**] } | "Every flower in the field returns — and keeps returning — until the weight of infinite growth crushes everything." | [The Flower extends its returns across the whole area.] | *All in range suffer Weight pressure for three turns of relentless growth.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -202,7 +202,7 @@ The escalation pattern is specific to Perennial: it is not a generic breach even
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Perennial: it is not a generic breach even
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -241,7 +241,7 @@ The escalation pattern is specific to Perennial: it is not a generic breach even
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a petal-tile of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a petal-tile of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Perennial (N-IIβ-845 [WP]) is logged as a Place-Void manifestation expressing Weight (Black). The Flower formed from a place that was repeatedly abandoned. Held at The Desolate — mobile. The flowers sing faintly during the Sorrow Tide.
+Perennial (N-IIβ-845 [WP]) is logged as a Place-Void manifestation expressing Weight. The Flower formed from a place that was repeatedly abandoned. Held at The Desolate — mobile. The flowers sing faintly during the Sorrow Tide.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Removing them causes them to return elsewhere along the same route.
@@ -378,7 +378,7 @@ Some sorrows mourn a home. Perennial mourns the pattern — the settlement found
 > *“Each cycle heavier than the last. The ground growing saturated with the sorrow of repeated abandonment.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-845 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-845 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Place-Void manifestation
 **Common Name:** Perennial
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic

@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A black Han-weave mantle whose draped seams move like roots carrying liquid beneath cloth. It breathes with the wearer and remains unnaturally heavy. Binding requires a route marker at entry and a nonliving discharge site at exit.
+A Weight Han-weave mantle whose draped seams move like roots carrying liquid beneath cloth. It breathes with the wearer and remains unnaturally heavy. Binding requires a route marker at entry and a nonliving discharge site at exit.
 
 The Mantle formed while Iseulfros endured Patrimoine’s pressure without sealing it into her body. An unmarked exit makes the hem close around both ankles.
 

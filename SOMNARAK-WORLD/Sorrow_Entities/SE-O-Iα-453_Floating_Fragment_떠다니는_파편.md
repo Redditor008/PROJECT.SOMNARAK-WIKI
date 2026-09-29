@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A small burning fragment that floats at shoulder height, flickering between a coal and the outline of a crying figure. Fever-warm, it smells of cold rain and char; a piece of someone, still warm, drifting. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Drift* [**Debuff**] } | "A piece of something broken floats past — and you recognize it as part of yourself." | [The Fragment drifts near the target; resonance identifies a shared break.] | *Target suffers -10 Composure; they see their own fracture.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Fragment approaches. |
-| { *The Orbit* [**Debuff**] } | "The fragment circles you — slow, patient, reflecting your grief with each pass." | [The Fragment orbits the target; the reflection is relentless.] | *Target loses 10 Composure; they cannot look away from the break.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains still. |
-| { *The Sharp Edge* [**Attack**] } | "The fragment turns — and its broken edge is aimed at you." | [The Fragment's jagged edge lashes out.] | *Inflicts Deep Blue pressure and one clean, cutting wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Fragment is disturbed. |
-| { *The Full Impact* [**Attack**] } | "The fragment accelerates — every orphaned piece drawn together, crashing." | [The Fragment gathers its dispersed mass and collides.] | *A heavy Deep Blue impact; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Fragment is caught. |
-| { *A Thousand Fragments* [**Ultimate**] } | "Everything breaks into pieces — and every piece floats free, and every piece is sharp." | [The Fragment shatters into countless floating shards across the field.] | *All in range suffer Deep Blue pressure for three turns among the drift.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Drift* [**Debuff**] } | "A piece of something broken floats past — and you recognize it as part of yourself." | [The Fragment drifts near the target; resonance identifies a shared break.] | *Target suffers -10 Composure; they see their own fracture.* **[10 Lament DMG [Lament]]** | When the Fragment approaches. |
+| { *The Orbit* [**Debuff**] } | "The fragment circles you — slow, patient, reflecting your grief with each pass." | [The Fragment orbits the target; the reflection is relentless.] | *Target loses 10 Composure; they cannot look away from the break.* **[10 Lament DMG [Lament]]** | When the target remains still. |
+| { *The Sharp Edge* [**Attack**] } | "The fragment turns — and its broken edge is aimed at you." | [The Fragment's jagged edge lashes out.] | *Inflicts Lament pressure and one clean, cutting wound.* **[14-22 Lament DMG [Lament]]** | When the Fragment is disturbed. |
+| { *The Full Impact* [**Attack**] } | "The fragment accelerates — every orphaned piece drawn together, crashing." | [The Fragment gathers its dispersed mass and collides.] | *A heavy Deep Blue impact; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Fragment is caught. |
+| { *A Thousand Fragments* [**Ultimate**] } | "Everything breaks into pieces — and every piece floats free, and every piece is sharp." | [The Fragment shatters into countless floating shards across the field.] | *All in range suffer Lament pressure for three turns among the drift.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -204,7 +204,7 @@ The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** an ember-charm of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** an ember-charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Fragment (O-Iα-453 [LS]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The Fragment formed from a cry that ended while its sorrow continued. Held at Zone C, Collector's Row. The sound is older than the current Collector's Row.
+Floating Fragment (O-Iα-453 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Fragment formed from a cry that ended while its sorrow continued. Held at Zone C, Collector's Row. The sound is older than the current Collector's Row.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through Collector's Row and connected corridors. Personnel hear old crying and feel grief with no identifiable source. It produces wonder before the emotional impact arrives.
@@ -340,7 +340,7 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 > *“The grief begun and prevented from ending.”* — Mender, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-453 [LS]` · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-453 [LS]` · Lament · Subject-Grudge manifestation
 **Common Name:** Floating Fragment
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 1 — Initial

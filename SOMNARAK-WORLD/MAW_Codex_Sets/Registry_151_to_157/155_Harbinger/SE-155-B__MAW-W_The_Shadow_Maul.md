@@ -18,11 +18,11 @@
 |---|---|
 | Official name | The Shadow Maul |
 | Set | Known Balance |
-| Type / grade / element | Weapon / β — Moderate / Weight — Black |
+| Type / grade / element | Weapon / β — Moderate / Weight |
 | Status | Active; verified-balance issue required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Minho Ashford |
-| Resting form | A compact black Han-steel maul whose head casts a shadow in the wrong direction. |
+| Resting form | A compact Weight Han-steel maul whose head casts a shadow in the wrong direction. |
 | Active form | The shadow lengthens from the maul toward the current Weight pressure it is targeting. |
 | Recognition rule | It will not rise unless the bearer has a verified balance and a marked uncertainty. |
 
@@ -41,7 +41,7 @@
 
 ## Appearance
 
-The Shadow Maul is a compact black Han-steel maul with a broad, unpolished head that casts a shadow in the wrong direction even in a lit room. In rest the shadow lies short and still beneath the metal; when the bearer has a verified balance and a marked uncertainty, the shadow lengthens toward the current Weight pressure it is targeting and darkens as the pressure grows. The haft is short and wrapped in black grip, and the weapon feels heavier as its shadow reaches. It knocks one dread-driven Weight surge away from an affected person, enough for a verified plan or appeal action to be seen, without paying the debt or erasing a valid consequence. The bearer becomes progressively heavier and prolonged use causes slight aging. It is never kept beside a debt collection order without an appeal field. A bearer who uses it to intimidate a debtor feels the shadow press into their own chest, and the reviewer covers the shadow with an opaque sleeve and says the affected person's name during shutdown.
+The Shadow Maul is a compact Weight Han-steel maul with a broad, unpolished head that casts a shadow in the wrong direction even in a lit room. In rest the shadow lies short and still beneath the metal; when the bearer has a verified balance and a marked uncertainty, the shadow lengthens toward the current Weight pressure it is targeting and darkens as the pressure grows. The haft is short and wrapped in black grip, and the weapon feels heavier as its shadow reaches. It knocks one dread-driven Weight surge away from an affected person, enough for a verified plan or appeal action to be seen, without paying the debt or erasing a valid consequence. The bearer becomes progressively heavier and prolonged use causes slight aging. It is never kept beside a debt collection order without an appeal field. A bearer who uses it to intimidate a debtor feels the shadow press into their own chest, and the reviewer covers the shadow with an opaque sleeve and says the affected person's name during shutdown.
 
 ## CORE STATISTICS
 

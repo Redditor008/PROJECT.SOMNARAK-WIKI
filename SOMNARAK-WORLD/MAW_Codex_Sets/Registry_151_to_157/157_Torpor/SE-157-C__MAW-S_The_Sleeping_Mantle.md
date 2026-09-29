@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Sleeping Mantle |
 | Set | Guarded Rest |
-| Type / grade / element | Suit / δ — Critical / Weight — Black |
+| Type / grade / element | Suit / δ — Critical / Weight |
 | Status | Restricted rest-transition issue |
 | Maximum amount | 2 — Limited |
 | Current bearer | Specialist Hanul Grey |

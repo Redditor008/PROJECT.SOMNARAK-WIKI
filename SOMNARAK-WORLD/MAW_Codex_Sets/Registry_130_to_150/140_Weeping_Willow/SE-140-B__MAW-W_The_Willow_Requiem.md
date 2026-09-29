@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Weeping Willow War-Scythe |
 | Set | Gentle Endings |
-| Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Weapon / γ — Major / Lament |
 | Category | MELEE (War-Scythe / Flexible Branch-Blade) |
 | Status | Active; farewell-witness issue |
 | Maximum amount | 3 — Standard |
@@ -42,7 +42,7 @@
 
 ## Appearance
 
-The Weeping Willow War-Scythe is a sweeping polearm scythe whose long shaft is grown from petrified willow heartwood wrapped in pale-blue prayer silk. The crescent head curves in a graceful willow-leaf arc forged of deep-blue Han-crystal, draped with delicate tendrils of flexible crystal foliage that weep cold, luminous blue tears when swung. As it sweeps through the air, the weapon leaves a falling curtain of weeping dew and soundless farewells, reaping through hostile emotional resolve across Medium reach.
+The Weeping Willow War-Scythe is a sweeping polearm scythe whose long shaft is grown from petrified willow heartwood wrapped in pale-blue prayer silk. The crescent head curves in a graceful willow-leaf arc forged of Lament Han-crystal, draped with delicate tendrils of flexible crystal foliage that weep cold, luminous blue tears when swung. As it sweeps through the air, the weapon leaves a falling curtain of weeping dew and soundless farewells, reaping through hostile emotional resolve across Medium reach.
 
 ## CORE STATISTICS
 

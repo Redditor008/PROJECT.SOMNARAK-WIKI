@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike figure formed from luminous silence — an outline that glows faintly, with no face that memory can hold. Salt-damp, it smells of cold rain; the quiet of a person the world forgot, made briefly visible. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Absent Quiet* [**Debuff**] } | "The silence has been forgotten — and without anyone remembering it was quiet, the noise is unbearable." | [The Silence's forgotten-ness removes all capacity for peace.] | *Target suffers -10 Composure; they cannot find stillness.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the space. |
-| { *The Noise of Forgetting* [**Debuff**] } | "The act of forgetting silence creates its own sound — a buzzing, constant, maddening drone." | [The Silence's erasure generates anti-quiet; the target is drowning in noise.] | *Target loses 10 Composure; they cannot hear themselves think.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Remembered Hush* [**Attack**] } | "A fragment of the forgotten silence returns — brief, sharp, and devastating in its contrast." | [A flash of true silence strikes like a shockwave.] | *Inflicts Deep Blue pressure and one wound of sudden, absolute quiet.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Silence is probed. |
-| { *The Full Recall* [**Attack**] } | "Every forgotten silence, remembered at once — and the return of all that quiet is overwhelming." | [The Silence's total recollection floods everything with peace that hurts.] | *A heavy Deep Blue wave of returned silence; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Silence is forced. |
-| { *The Eternal Noise* [**Ultimate**] } | "Every silence in the field is forgotten — and without quiet, no one can rest, think, or endure." | [The Silence extends its forgotten-ness across the whole area.] | *All in range suffer Deep Blue pressure for three turns of endless noise.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Absent Quiet* [**Debuff**] } | "The silence has been forgotten — and without anyone remembering it was quiet, the noise is unbearable." | [The Silence's forgotten-ness removes all capacity for peace.] | *Target suffers -10 Composure; they cannot find stillness.* **[10 Lament DMG [Lament]]** | When the target enters the space. |
+| { *The Noise of Forgetting* [**Debuff**] } | "The act of forgetting silence creates its own sound — a buzzing, constant, maddening drone." | [The Silence's erasure generates anti-quiet; the target is drowning in noise.] | *Target loses 10 Composure; they cannot hear themselves think.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Remembered Hush* [**Attack**] } | "A fragment of the forgotten silence returns — brief, sharp, and devastating in its contrast." | [A flash of true silence strikes like a shockwave.] | *Inflicts Lament pressure and one wound of sudden, absolute quiet.* **[14-22 Lament DMG [Lament]]** | When the Silence is probed. |
+| { *The Full Recall* [**Attack**] } | "Every forgotten silence, remembered at once — and the return of all that quiet is overwhelming." | [The Silence's total recollection floods everything with peace that hurts.] | *A heavy Deep Blue wave of returned silence; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Silence is forced. |
+| { *The Eternal Noise* [**Ultimate**] } | "Every silence in the field is forgotten — and without quiet, no one can rest, think, or endure." | [The Silence extends its forgotten-ness across the whole area.] | *All in range suffer Lament pressure for three turns of endless noise.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a lens-pendant of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a lens-pendant of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Silence (N-IVδ-489 [LS]) is logged as a Subject-Dream manifestation expressing Lament (Deep Blue). The entity formed from silence that was forgotten even by those who created it. Held at Zone C, Mask Market. The entity glows during the Sorrow Tide.
+Forgotten Silence (N-IVδ-489 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The entity formed from silence that was forgotten even by those who created it. Held at Zone C, Mask Market. The entity glows during the Sorrow Tide.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Appears in dreams, reflective surfaces, and the Mask Market. Personnel lose access to words they were about to speak. It cannot be recorded reliably by audio equipment.
@@ -344,7 +344,7 @@ Some sorrows are about truth suppressed. Forgotten Silence is about suppression 
 > *“A people who have been quiet so long they no longer know they are quiet.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-489 [LS]` · Lament (Deep Blue) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-489 [LS]` · Lament · Subject-Dream manifestation
 **Common Name:** Forgotten Silence
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic

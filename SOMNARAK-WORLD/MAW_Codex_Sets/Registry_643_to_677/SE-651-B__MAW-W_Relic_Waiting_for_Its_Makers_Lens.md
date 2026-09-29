@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A quivering pale Han-glass disc extracted from a wall-reflection, never from the unseen relic. Binding requires one command the wielder accepts responsibility for stopping.
+A quivering Void Han-glass disc extracted from a wall-reflection, never from the unseen relic. Binding requires one command the wielder accepts responsibility for stopping.
 
 ## Appearance
 

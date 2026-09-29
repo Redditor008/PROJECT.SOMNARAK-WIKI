@@ -44,7 +44,7 @@ Some sorrows mourn what was taken. The Debt Eater mourns what was never agreed t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-014 [VS]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-014 [VS]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void · Subject-Body manifestation
 **Common Name:** The Debt Eater
 **Containment Status:** Contained — Zone C, Collector district
 **Comprehension Level:** 2 — Basic
@@ -103,7 +103,7 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-015 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-015 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Debt Scale
 **Containment Status:** In use — Collector courts, Zone C
 **Comprehension Level:** 2 — Basic
@@ -164,7 +164,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-016 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-016 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Echo Compass
 **Containment Status:** Contained — Archive deep room
 **Comprehension Level:** 2 — Basic
@@ -221,7 +221,7 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-036 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-036 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** The Cracked Hourglass
 **Containment Status:** Contained — Alpha Tree deep vault
 **Comprehension Level:** 4 — Mastered
@@ -280,7 +280,7 @@ The Rage Forge is that awareness. It still burns. It still shapes metal. But tho
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-275 [GP]` · City origin · Fragment (III) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-275 [GP]` · City origin · Fragment (III) coherence · Moderate (β) potency · Grudge · Place-Grudge manifestation
 **Common Name:** The Rage Forge
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 2 — Basic
@@ -339,7 +339,7 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-021 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-021 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Subject-Spirit manifestation
 **Common Name:** The Hollow Choir
 **Containment Status:** Contained — Zone C amphitheater
 **Comprehension Level:** 3 — Advanced
@@ -396,7 +396,7 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-031 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-031 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Subject-Body manifestation
 **Common Name:** The Observing Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
 **Comprehension Level:** 3 — Advanced
@@ -453,7 +453,7 @@ Some sorrows are suffered. The Weighting Bird's sorrow is inflicted — gently, 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-032 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-032 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Weighting Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
 **Comprehension Level:** 2 — Basic
@@ -510,7 +510,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-033 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-033 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Body manifestation
 **Common Name:** The Guarding Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
 **Comprehension Level:** 3 — Advanced
@@ -567,7 +567,7 @@ Some sorrows mourn the past. The Broken Clock mourns the future that would not c
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-044 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-044 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Object-Weight manifestation
 **Common Name:** The Broken Clock
 **Containment Status:** Contained — Alpha Tree deep storage
 **Comprehension Level:** 3 — Advanced
@@ -626,7 +626,7 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-061 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-061 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Debtor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 3 — Advanced
@@ -685,7 +685,7 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-062 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-062 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Inheritor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 2 — Basic
@@ -744,7 +744,7 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-063 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-063 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Body manifestation
 **Common Name:** The Rejector
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 2 — Basic
@@ -801,7 +801,7 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-081 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-081 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Void manifestation
 **Common Name:** The Hollow Saint
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
@@ -858,7 +858,7 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-088 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-088 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** The Sorrow Fountain
 **Containment Status:** Contained — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic
@@ -915,7 +915,7 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-102 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-102 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Object-Grudge manifestation
 **Common Name:** The Dancing Chains
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
@@ -972,7 +972,7 @@ Some sorrows are about belonging lost. The Lonely Giant's sorrow is about belong
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-105 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-105 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Lonely Giant
 **Containment Status:** Semi-contained — Zone D, wanders
 **Comprehension Level:** 3 — Advanced
@@ -1029,7 +1029,7 @@ Some sorrows mourn the dead. The Memory Well mourns the unremembered — the liv
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-115 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-115 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Place-Void manifestation
 **Common Name:** The Memory Well
 **Containment Status:** Contained — beneath the Grand Archive
 **Comprehension Level:** 3 — Advanced
@@ -1086,7 +1086,7 @@ Some sorrows mourn freedom lost. The Rage Cage mourns the particular freedom of 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-120 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-120 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Object-Grudge manifestation
 **Common Name:** The Rage Cage
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
@@ -1143,7 +1143,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-140 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-140 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** The Weeping Willow
 **Containment Status:** Contained — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic
@@ -1202,7 +1202,7 @@ Some sorrows stay soft. The Garden of Thorns is what sorrow becomes when softnes
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-145 [GP]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-145 [GP]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Place-Grudge manifestation
 **Common Name:** The Garden of Thorns
 **Containment Status:** Contained — near Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic
@@ -1259,7 +1259,7 @@ Some sorrows are carried. The Debt Wall is a sorrow that, carried too long by to
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-180 [WP]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-180 [WP]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Place-Weight manifestation
 **Common Name:** The Debt Wall
 **Containment Status:** Uncontained — Collector’s Row, Zone C
 **Comprehension Level:** 2 — Basic
@@ -1320,7 +1320,7 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-190 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-190 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Grudge manifestation
 **Common Name:** The Rage Statue
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
@@ -1377,7 +1377,7 @@ Some sorrows are about loss. The Mirror of Sorrows is about the loneliness of be
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-195 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-195 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Object-Void manifestation
 **Common Name:** The Mirror of Sorrows
 **Containment Status:** Contained — Alpha Tree, Zone A
 **Comprehension Level:** 2 — Basic
@@ -1434,7 +1434,7 @@ Some sorrows mourn what was lost. The Memory Lock mourns what is known and kept 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-300 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-300 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Object-Void manifestation
 **Common Name:** The Memory Lock
 **Containment Status:** Contained — Alpha Tree deep vault
 **Comprehension Level:** 2 — Basic
@@ -1491,7 +1491,7 @@ Some sorrows sink. The Spreading Well is a sorrow that refused to — because it
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-373 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-373 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** The Spreading Well
 **Containment Status:** Uncontained — the Desolate
 **Comprehension Level:** 2 — Basic
@@ -1548,7 +1548,7 @@ Some sorrows find a home. The Floating Well is a sorrow that could not — and s
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-448 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-448 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Weight manifestation
 **Common Name:** The Floating Well
 **Containment Status:** Contained — Zone D, Forge District (aerial)
 **Comprehension Level:** 2 — Basic
@@ -1607,7 +1607,7 @@ Some sorrows are about what was taken. The Burning Root is about what was kept t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-558 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-558 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Grudge manifestation
 **Common Name:** The Burning Root
 **Containment Status:** Contained — Zone C, Collector’s Row
 **Comprehension Level:** 2 — Basic
@@ -1662,7 +1662,7 @@ Some sorrows are owned. The Frozen Echo is a sorrow that lost its owner — or r
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-609 [LW]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-609 [LW]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Object-Weight manifestation
 **Common Name:** The Frozen Echo
 **Containment Status:** Contained — the Desolate, near the Scar
 **Comprehension Level:** 2 — Basic
@@ -1719,7 +1719,7 @@ Some sorrows mourn the past. The Sunken Pillar mourns the future — the unbuilt
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-649 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-649 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Place-Void manifestation
 **Common Name:** The Sunken Pillar
 **Containment Status:** Mobile — the Desolate
 **Comprehension Level:** 2 — Basic
@@ -1776,7 +1776,7 @@ Some sorrows are about what was done to you. The Spreading Scream is about what 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-891 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-891 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Object-Lament manifestation
 **Common Name:** The Spreading Scream
 **Containment Status:** Ambient — Old Lament, Zone B
 **Comprehension Level:** 2 — Basic
@@ -1833,7 +1833,7 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-916 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-916 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Object-Weight manifestation
 **Common Name:** Devouring Bloom
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic
@@ -1890,7 +1890,7 @@ Some sorrows mourn the extraordinary. The Forgotten Market Stall mourns the ordi
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIα-062 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIα-062 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void · Object-Void manifestation
 **Common Name:** The Forgotten Market Stall
 **Containment Status:** Contained — Forgotten Market site
 **Comprehension Level:** 1 — Initial
@@ -1946,7 +1946,7 @@ Some sorrows are about what happened. The Broken Mirror is about what was refuse
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIα-081 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIα-081 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void · Object-Void manifestation
 **Common Name:** The Broken Mirror
 **Containment Status:** Contained — Alpha Tree
 **Comprehension Level:** 1 — Initial
@@ -2002,7 +2002,7 @@ Some sorrows mourn the dead. The Singing Stone mourns their songs — the unfini
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-048 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-048 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Object-Lament manifestation
 **Common Name:** The Singing Stone
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -2056,7 +2056,7 @@ Some sorrows are about loss. The Happy Mask is about performance — the lifelon
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-051 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-051 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Happy Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic
@@ -2110,7 +2110,7 @@ Some sorrows mourn what was taken. The Empty Mask is what is left when the takin
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-054 [WO]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIβ-054 [WO]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** The Empty Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic
@@ -2166,7 +2166,7 @@ Some sorrows are released. The Weeping Statue is a sorrow that was forbidden to 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-055 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-055 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Lament manifestation
 **Common Name:** The Weeping Statue
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -2222,7 +2222,7 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-099 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-099 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Masked Dancer
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic
@@ -2278,7 +2278,7 @@ Some sorrows mourn what was lost. The Grave mourns what was never said — and f
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-100 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-100 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** The Grave of Cherry Blossoms
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -2334,7 +2334,7 @@ Some sorrows are about cruelty. The Ember Child is about absence — the simple 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-101 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-101 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Body manifestation
 **Common Name:** The Ember Child
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -2392,7 +2392,7 @@ Some sorrows are too deep for tears. The Frozen Tear is what they become instead
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-102 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-102 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Object-Lament manifestation
 **Common Name:** The Frozen Tear
 **Containment Status:** Open memorial display — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic
@@ -2451,7 +2451,7 @@ Some sorrows mourn what was. The Dream Fragment mourns what was imagined — the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-135 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Dream manifestation
+**Classification:** Sorrow Entity — `C-IIβ-135 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Dream manifestation
 **Common Name:** The Dream Fragment
 **Containment Status:** Contained — Dream Gates
 **Comprehension Level:** 2 — Basic
@@ -2509,7 +2509,7 @@ Some sorrows mourn cruelty. The Silent Bell mourns a failure — the warning tha
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-170 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-170 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Silent Bell
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -2565,7 +2565,7 @@ Some sorrows mourn the forgotten. The Whispering Gallery mourns the half-remembe
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-185 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-185 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** The Whispering Gallery
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -2621,7 +2621,7 @@ Some sorrows weep. The Laughing Mask laughs — and the laughing is the sorrow, 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-210 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-210 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Laughing Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic
@@ -2677,7 +2677,7 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-235 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IIβ-235 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Phantasmal manifestation
 **Common Name:** The Watcher in the Walls
 **Containment Status:** Ambient — Zone D (mobile through infrastructure)
 **Comprehension Level:** 2 — Basic
@@ -2737,7 +2737,7 @@ The Vanished Ruin is that memory. It lives in the vault — a building made of n
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-240 [GP]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIβ-240 [GP]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Place-Weight manifestation
 **Common Name:** The Vanished Ruin
 **Containment Status:** Contained — Alpha Tree vault, Zone A
 **Comprehension Level:** 2 — Basic
@@ -2794,7 +2794,7 @@ Some sorrows are about endings. The Singing Walls are about the endings that nev
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-245 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-245 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** The Singing Walls
 **Containment Status:** Ambient — Old Lament
 **Comprehension Level:** 2 — Basic
@@ -2854,7 +2854,7 @@ Some sorrows are held inside. The Memory Rain is what the city looks like when i
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-250 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-250 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** The Memory Rain
 **Containment Status:** Periodic — Zone D, above Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -2915,7 +2915,7 @@ The city built a Veil to keep feeling down. The citizens built a veil to let it 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-280 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-280 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Object-Lament manifestation
 **Common Name:** The Veil of Tears
 **Containment Status:** Contained — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic
@@ -2972,7 +2972,7 @@ Some sorrows are about losing a place. The Broken Compass is about losing direct
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-290 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-290 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Broken Compass
 **Containment Status:** Contained — Archive
 **Comprehension Level:** 2 — Basic
@@ -3028,7 +3028,7 @@ Some sorrows are about lies told to others. The Cracked Mirror is about lies tol
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-310 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-310 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Cracked Mirror
 **Containment Status:** Contained — Mask Market
 **Comprehension Level:** 2 — Basic
@@ -3084,7 +3084,7 @@ Some sorrows accept. The Frozen Window does not — it waits, and waits, and wil
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-330 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIβ-330 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Grudge manifestation
 **Common Name:** The Frozen Window
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -3140,7 +3140,7 @@ Some sorrows are about cruelty. The Hollow Bell is about the gap between form an
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-340 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-340 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Hollow Bell
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -3198,7 +3198,7 @@ Some sorrows are heavy. The Vanished Weight is the opposite — the sorrow of a 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-357 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIβ-357 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Grudge manifestation
 **Common Name:** The Vanished Weight
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 2 — Basic
@@ -3254,7 +3254,7 @@ Some sorrows mourn the lost. The Broken Well mourns the searching — the endles
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-565` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IIβ-565` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Phantasmal manifestation
 **Common Name:** The Broken Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
@@ -3312,7 +3312,7 @@ Those who hear the Whisper feel, briefly, the particular agony of knowing someth
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-716 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `C-IIβ-716 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Spirit manifestation
 **Common Name:** The Torn Whisper
 **Containment Status:** Contained — Zone D, Mantle Commons
 **Comprehension Level:** 2 — Basic
@@ -3369,7 +3369,7 @@ Some sorrows mourn what was destroyed. The Torn Tower mourns what was never fini
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-775` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIβ-775` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Grudge manifestation
 **Common Name:** The Torn Tower
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 2 — Basic
@@ -3425,7 +3425,7 @@ Some sorrows are about what was taken. The Burning Fruit is about what was wante
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-777` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-777` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Burning Fruit
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
@@ -3483,7 +3483,7 @@ Some sorrows are about being forgotten. The Fading Relic is about being remember
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-782` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIβ-782` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Weight manifestation
 **Common Name:** The Fading Relic
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -3539,7 +3539,7 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-997` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IIβ-997` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** Drowned Roots
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
@@ -3595,7 +3595,7 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVβ-041` · City origin · Entity (IV) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVβ-041` · City origin · Entity (IV) coherence · Moderate (β) potency · Lament · Subject-Body manifestation
 **Common Name:** The Grieving Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
 **Comprehension Level:** 3 — Advanced
@@ -3654,7 +3654,7 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVβ-042` · City origin · Entity (IV) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVβ-042` · City origin · Entity (IV) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Angry Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
 **Comprehension Level:** 3 — Advanced
@@ -3713,7 +3713,7 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVβ-043` · City origin · Entity (IV) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVβ-043` · City origin · Entity (IV) coherence · Moderate (β) potency · Void · Subject-Body manifestation
 **Common Name:** The Silent Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
 **Comprehension Level:** 3 — Advanced
@@ -3770,7 +3770,7 @@ Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the cit
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-009` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVγ-009` · City origin · Entity (IV) coherence · Major (γ) potency · Void · Subject-Dream manifestation
 **Common Name:** The Memory Weaver
 **Containment Status:** Contained — Archive
 **Comprehension Level:** 3 — Advanced
@@ -3826,7 +3826,7 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-073` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-073` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Hollow Knight
 **Containment Status:** Contained — border district
 **Comprehension Level:** 3 — Advanced
@@ -3882,7 +3882,7 @@ Some sorrows mourn a loss. The Lost Prince mourns an absence of explanation — 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-091` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-091` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Subject-Body manifestation
 **Common Name:** The Lost Prince
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 3 — Advanced
@@ -3940,7 +3940,7 @@ Some sorrows are about weakness. The Crumbling Saint is about strength — the s
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-130` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-130` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Crumbling Saint
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 3 — Advanced
@@ -3996,7 +3996,7 @@ Some sorrows mourn what was. The Weaver of Dreams mourns what might have been �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-175` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVγ-175` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Subject-Dream manifestation
 **Common Name:** The Weaver of Dreams
 **Containment Status:** Contained — Dream Gates
 **Comprehension Level:** 3 — Advanced
@@ -4054,7 +4054,7 @@ Some sorrows mourn what was lost. The Dream Weaver's Loom mourns what was dreame
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation
 **Common Name:** The Dream Weaver’s Loom
 **Containment Status:** Contained — Dream Gates
 **Comprehension Level:** 3 — Advanced
@@ -4110,7 +4110,7 @@ Some sorrows mourn forgetting. The Memory Maze mourns the opposite — rememberi
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-180` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IVγ-180` · City origin · Entity (IV) coherence · Major (γ) potency · Void · Place-Void manifestation
 **Common Name:** The Memory Maze
 **Containment Status:** Contained — beneath Old Lament
 **Comprehension Level:** 3 — Advanced
@@ -4166,7 +4166,7 @@ Some sorrows mourn what was lost. The Hollow Tree mourns what never filled it �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-205 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-205 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Hollow Tree
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 3 — Advanced
@@ -4221,7 +4221,7 @@ Some sorrows are about loss. The Broken Clocktower is about a moment that would 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-240 [WP]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-IVγ-240 [WP]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Place-Weight manifestation
 **Common Name:** The Broken Clocktower
 **Containment Status:** Contained — Old Lament (site)
 **Comprehension Level:** 3 — Advanced
@@ -4278,7 +4278,7 @@ Some sorrows mourn what was destroyed. The Hollow Architect mourns what was neve
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Hollow Architect
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 3 — Advanced
@@ -4334,7 +4334,7 @@ Some sorrows mourn the forgotten. The Memory Lake mourns the remembered too well
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-270` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVγ-270` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** The Memory Lake
 **Containment Status:** Contained — beneath Echo Gardens
 **Comprehension Level:** 3 — Advanced
@@ -4392,7 +4392,7 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-001 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-001 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Object-Lament manifestation
 **Common Name:** The Orphaned Bell
 **Containment Status:** Open display — Zone B
 **Comprehension Level:** 3 — Advanced
@@ -4448,7 +4448,7 @@ Some sorrows are about loss. The Burning Library is about suppression — the tr
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-092 [GP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-092 [GP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Place-Grudge manifestation
 **Common Name:** The Burning Library
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 3 — Advanced
@@ -4505,7 +4505,7 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-103 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-103 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Void manifestation
 **Common Name:** The Frozen Veil
 **Containment Status:** Semi-contained — Zone D (drifts)
 **Comprehension Level:** 3 — Advanced
@@ -4563,7 +4563,7 @@ Some sorrows mourn the dead. The Broken Bridge mourns the living — the guide w
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-106 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `C-IVδ-106 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Mind manifestation
 **Common Name:** The Broken Bridge
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 3 — Advanced
@@ -4619,7 +4619,7 @@ Some sorrows mourn what was lost. The Returning Fruit mourns the return — the 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-125 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `C-IVδ-125 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Mind manifestation
 **Common Name:** The Returning Fruit
 **Containment Status:** Contained — Alpha Tree
 **Comprehension Level:** 3 — Advanced
@@ -4675,7 +4675,7 @@ Some sorrows are about cruelty. The Iron Judge is about indifference — the imp
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-140 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVδ-140 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Iron Judge
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 3 — Advanced
@@ -4731,7 +4731,7 @@ Some sorrows grieve the present. The Melting Saint grieves the future — every 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-165 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-165 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Lament manifestation
 **Common Name:** The Melting Saint
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
@@ -4787,7 +4787,7 @@ Some sorrows are about barriers built. The Vanished Wall is about a barrier remo
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-193 [WP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-193 [WP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Place-Grudge manifestation
 **Common Name:** The Vanished Wall
 **Containment Status:** Uncontained — Zone C
 **Comprehension Level:** 3 — Advanced
@@ -4842,7 +4842,7 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-200` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVδ-200` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Guardian of the Gate
 **Containment Status:** Contained — the Gate
 **Comprehension Level:** 3 — Advanced
@@ -4898,7 +4898,7 @@ Some sorrows are about open wounds. The Soaking Shard is about a wound that was 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-219 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-219 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Object-Void manifestation
 **Common Name:** The Soaking Shard
 **Containment Status:** Contained — Alpha Tree vault
 **Comprehension Level:** 3 — Advanced
@@ -4953,7 +4953,7 @@ Some sorrows are personal. The Weight of Years is historical — the accumulated
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-220 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVδ-220 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Weight of Years
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 3 — Advanced
@@ -5009,7 +5009,7 @@ Some sorrows are about a wound. The Rusted Weight is about a wound whose weapon 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-222` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-IVδ-222` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Place-Weight manifestation
 **Common Name:** The Rusted Weight
 **Containment Status:** Uncontained — border district
 **Comprehension Level:** 3 — Advanced
@@ -5064,7 +5064,7 @@ Some sorrows mourn the dead. The Last Memory mourns the moment of dying — the 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-230 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-230 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Void manifestation
 **Common Name:** The Last Memory
 **Containment Status:** Contained — Old Lament
 **Comprehension Level:** 3 — Advanced
@@ -5120,7 +5120,7 @@ Some sorrows are about the danger. The Collapsed Whisper is about the warning �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-249 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVδ-249 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Dream manifestation
 **Common Name:** The Collapsed Whisper
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 3 — Advanced
@@ -5173,7 +5173,7 @@ Some sorrows are about losing memory. The Torn Trace is about losing continuity 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-250 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-250 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Subject-Void manifestation
 **Common Name:** The Torn Trace
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
@@ -5229,7 +5229,7 @@ Some sorrows are about what was done. The Sorrow Gate is about what was prevente
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-252` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-252` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Object-Void manifestation
 **Common Name:** The Sorrow Gate
 **Containment Status:** Contained — beneath Alpha Tree (sealed)
 **Comprehension Level:** 4 — Mastered
@@ -5284,7 +5284,7 @@ Some sorrows mourn a loss. The Rising Wall mourns an asymmetry — the love that
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-255 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-IVδ-255 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Weight manifestation
 **Common Name:** The Rising Wall
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 3 — Advanced
@@ -5339,7 +5339,7 @@ Some sorrows mourn a place. The Rising Bridge mourns a transit — the daily cro
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-260 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-260 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Grudge manifestation
 **Common Name:** The Rising Bridge
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 3 — Advanced
@@ -5396,7 +5396,7 @@ Some sorrows are about sacrifice. The Sleeping Weight is about unrecognized sacr
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-357 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-357 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Lament manifestation
 **Common Name:** The Sleeping Weight
 **Containment Status:** Contained — Zone D (tunnels)
 **Comprehension Level:** 3 — Advanced
@@ -5453,7 +5453,7 @@ Some sorrows are about suffering. The Floating Shard is about witnessing — the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-503 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IVδ-503 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** The Floating Shard
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 3 — Advanced
@@ -5508,7 +5508,7 @@ Some sorrows are about loss. The Frozen Shadow is about persistence — the guar
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-505 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-505 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Grudge manifestation
 **Common Name:** The Frozen Shadow
 **Containment Status:** Contained — Mask Market
 **Comprehension Level:** 3 — Advanced
@@ -5564,7 +5564,7 @@ Some sorrows mourn destruction. The Frozen Ruin mourns the injustice heaped on t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-668 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-668 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Object-Grudge manifestation
 **Common Name:** The Frozen Ruin
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
@@ -5619,7 +5619,7 @@ Some sorrows mourn the dead. The Vanished Flame mourns the unfinished — the vi
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-763 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-763 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Void manifestation
 **Common Name:** The Vanished Flame
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 3 — Advanced
@@ -5673,7 +5673,7 @@ Some sorrows are personal. The Fading Shadow is a sorrow that lost its owner —
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-767` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-767` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Grudge manifestation
 **Common Name:** The Fading Shadow
 **Containment Status:** Contained — beneath Alpha Tree
 **Comprehension Level:** 3 — Advanced
@@ -5729,7 +5729,7 @@ Some sorrows mourn arrival. The Sunken Bridge mourns the in-between — the cros
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-823 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-823 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Lament manifestation
 **Common Name:** The Sunken Bridge
 **Containment Status:** Contained — Zone D (tunnels)
 **Comprehension Level:** 3 — Advanced
@@ -5784,7 +5784,7 @@ Some sorrows are about the original wound. The Rising Well is about the inherita
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-869 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `C-IVδ-869 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Mind manifestation
 **Common Name:** The Rising Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
@@ -5838,7 +5838,7 @@ Some sorrows are about freedom lost. Chainwreathed is about protection perverted
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-976 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-976 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Grudge manifestation
 **Common Name:** Chainwreathed
 **Containment Status:** Semi-contained — Zone C
 **Comprehension Level:** 3 — Advanced
@@ -5898,7 +5898,7 @@ This is the first sorrow. This is the wound. This is the thousand, beneath the c
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVω-001 [GP]` · City origin · Entity (IV) coherence · Catastrophic (ω) potency · Grudge (Crimson) · Place-Tale manifestation
+**Classification:** Sorrow Entity — `C-IVω-001 [GP]` · City origin · Entity (IV) coherence · Catastrophic (ω) potency · Grudge · Place-Tale manifestation
 **Common Name:** The Maw
 **Containment Status:** Uncontained — the consumed district (containment IS the district)
 **Comprehension Level:** 5 — Sovereign
@@ -5962,7 +5962,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-000 [LS]` · City (도한) origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-000 [LS]` · City (도한) origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Lament manifestation
 **Common Name:** The Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Comprehension Level:** 4 — Mastered
@@ -6024,7 +6024,7 @@ Some sorrows are about silence. The Whispering Walls are about the whisper — t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** The Whispering Walls
 **Containment Status:** Ambient — Old Lament
 **Comprehension Level:** 3 — Advanced
@@ -6080,7 +6080,7 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-071 [LS]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Iα-071 [LS]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Subject-Body manifestation
 **Common Name:** The Kind Healer
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
@@ -6136,7 +6136,7 @@ Some sorrows mourn the dead. The Echo of Laughter mourns the happy — the commu
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-150 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-150 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** The Echo of Laughter
 **Containment Status:** Ambient — Zone D, Mantle Commons
 **Comprehension Level:** 3 — Advanced
@@ -6191,7 +6191,7 @@ Some sorrows are about a wound. The Spreading Trace is about the scar the wound 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-175 [GP]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-Iα-175 [GP]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Place-Grudge manifestation
 **Common Name:** The Spreading Trace
 **Containment Status:** Uncontained — Mantle Commons
 **Comprehension Level:** 2 — Basic
@@ -6250,7 +6250,7 @@ Some sorrows mourn what died. The Vanished Seed mourns what never got the chance
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-236 [LW]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-236 [LW]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Object-Weight manifestation
 **Common Name:** The Vanished Seed
 **Containment Status:** Uncontained — Desolate, near the Scar
 **Comprehension Level:** 1 — Initial
@@ -6309,7 +6309,7 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-240 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-240 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Lament manifestation
 **Common Name:** The Echo of Kindness
 **Containment Status:** Ambient — Zone D, Mantle Commons
 **Comprehension Level:** 1 — Initial
@@ -6368,7 +6368,7 @@ Some sorrows mourn a loss. The Torn Flower mourns a near-miss — the bloom that
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-247 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-247 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Lament manifestation
 **Common Name:** The Torn Flower
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -6423,7 +6423,7 @@ Some sorrows are about what happened. The Sorrow Seed is about what has not happ
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-300 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-300 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Object-Weight manifestation
 **Common Name:** The Sorrow Seed
 **Containment Status:** Contained — Echo Gardens (dormant)
 **Comprehension Level:** 4 — Mastered
@@ -6478,7 +6478,7 @@ Some sorrows mourn what was built and destroyed. The Melting Tower mourns what w
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-329 [VO]` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-Iα-329 [VO]` · City origin · Entity (IV) coherence · Major (γ) potency · Void · Object-Grudge manifestation
 **Common Name:** The Melting Tower
 **Containment Status:** Contained — border district
 **Comprehension Level:** 2 — Basic
@@ -6533,7 +6533,7 @@ Some sorrows mourn a loss. The Sorrow Flower mourns the hiding — the grief the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-330 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-330 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Lament manifestation
 **Common Name:** The Sorrow Flower
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -6588,7 +6588,7 @@ Some sorrows mourn a person. The Rising Mirror mourns a community — the distri
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-392 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `C-Iα-392 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Dream manifestation
 **Common Name:** The Rising Mirror
 **Containment Status:** Contained — Mask Market
 **Comprehension Level:** 2 — Basic
@@ -6641,7 +6641,7 @@ Some sorrows mourn what was destroyed. The Vanished Tree mourns what was denied 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-622 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-622 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Lament manifestation
 **Common Name:** The Vanished Tree
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 2 — Basic
@@ -6696,7 +6696,7 @@ Some sorrows weep. The Vanished Tear rages — for the tear ordered away and the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-683 [GS]` · City origin · Residue (I) coherence · Minor (α) potency · Grudge (Crimson) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-Iα-683 [GS]` · City origin · Residue (I) coherence · Minor (α) potency · Grudge · Subject-Phantasmal manifestation
 **Common Name:** The Vanished Tear
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -6753,7 +6753,7 @@ Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tet
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-723 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-Iα-723 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Grudge manifestation
 **Common Name:** The Vanished Rope
 **Containment Status:** Contained — the Desolate (near Gate)
 **Comprehension Level:** 2 — Basic
@@ -6808,7 +6808,7 @@ Some sorrows mourn destruction. The Torn Relic mourns incompletion — the artif
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-779 [GO]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-779 [GO]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Object-Weight manifestation
 **Common Name:** The Torn Relic
 **Containment Status:** Contained — Forge District
 **Comprehension Level:** 2 — Basic
@@ -6863,7 +6863,7 @@ Some sorrows mourn a building. The Sunken Tower mourns the orientation — the h
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-863 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Iα-863 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Body manifestation
 **Common Name:** The Sunken Tower
 **Containment Status:** Contained — Old Lament
 **Comprehension Level:** 2 — Basic
@@ -6920,7 +6920,7 @@ Some sorrows mourn exile. The Returning Tree mourns the return — the home not 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-869 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-869 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** The Returning Tree
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -6975,7 +6975,7 @@ Some sorrows are preserved. The Frozen Shard is a sorrow preserved too well — 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-884 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-Iα-884 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Grudge manifestation
 **Common Name:** The Frozen Shard
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -7032,7 +7032,7 @@ Some sorrows are about being silenced. Unheard is about the absorption — the p
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-965 [N]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-965 [N]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Weight manifestation
 **Common Name:** Unheard
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -7087,7 +7087,7 @@ Some sorrows are about human loss. The Sorrow River is about loss itself — the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-225 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-225 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
 **Common Name:** The Sorrow River
 **Containment Status:** Uncontained — beneath the entire city
 **Comprehension Level:** 5 — Sovereign
@@ -7142,7 +7142,7 @@ Some sorrows are events. The Sorrow Tide is a rhythm — the city's grief, suppr
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-260 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-260 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
 **Common Name:** The Sorrow Tide
 **Containment Status:** Uncontained — citywide (natural rhythm)
 **Comprehension Level:** 5 — Sovereign
@@ -7198,7 +7198,7 @@ Some sorrows are gradual. The Sorrow Storm is sudden — the accumulated suppres
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-320 [D]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-320 [D]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
 **Common Name:** The Sorrow Storm
 **Containment Status:** Uncontained — citywide (periodic catastrophe)
 **Comprehension Level:** 5 — Sovereign
@@ -7254,7 +7254,7 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vδ-002 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Vδ-002 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Grieving Colossus
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 4 — Mastered
@@ -7312,7 +7312,7 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vδ-010 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Vδ-010 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Convergence
 **Containment Status:** Prevented — Three Birds containment maintained
 **Comprehension Level:** 5 — Sovereign
@@ -7367,7 +7367,7 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vδ-111 [VO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-Vδ-111 [VO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Void · Object-Void manifestation
 **Common Name:** The Final Door
 **Containment Status:** Sealed — beneath the Alpha Tree
 **Comprehension Level:** 5 — Sovereign
@@ -7480,7 +7480,7 @@ Some sorrows are about specific losses. The First Tear is about loss itself — 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vδ-290 [LO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-Vδ-290 [LO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Lament · Object-Lament manifestation
 **Common Name:** The First Tear
 **Containment Status:** Sealed — Deep Vault, beneath the Alpha Tree
 **Comprehension Level:** 5 — Sovereign
@@ -7596,7 +7596,7 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-077 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-077 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Phantasmal manifestation
 **Common Name:** The Memory Thief
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 2 — Basic
@@ -7648,7 +7648,7 @@ Some sorrows are about the debt. The Debt Collector's Shadow is about the dread 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-155 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-155 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Phantasmal manifestation
 **Common Name:** The Debt Collector’s Shadow
 **Containment Status:** Semi-contained — Zone C (follows debtors)
 **Comprehension Level:** 2 — Basic
@@ -7703,7 +7703,7 @@ Some sorrows are about the debt. The Debt Clock is about the waiting — the cou
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-156 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-156 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** The Debt Clock
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -7758,7 +7758,7 @@ Some sorrows are about what is owed. The Debt Chain is about what cannot be paid
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-160 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-160 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** The Debt Chain
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -7811,7 +7811,7 @@ Some sorrows are about forgetting. The Chain of Memories is about remembering to
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-200 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-200 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** The Chain of Memories
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -7864,7 +7864,7 @@ Some sorrows mourn a home. The Broken Mirror mourns a self — the identity shat
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-127 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-127 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Dream manifestation
 **Common Name:** The Broken Mirror
 **Containment Status:** Contained — the Desolate (near Gate)
 **Comprehension Level:** 2 — Basic
@@ -7917,7 +7917,7 @@ Some sorrows are about debt. The Broken Promise is about the betrayal — the pr
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-160 [GO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-160 [GO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge · Object-Grudge manifestation
 **Common Name:** The Broken Promise
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -7970,7 +7970,7 @@ Some sorrows mourn the forgotten. The Forgotten Tree is the forgetting itself �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-184 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-184 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Subject-Body manifestation
 **Common Name:** The Forgotten Tree
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -8023,7 +8023,7 @@ Some sorrows are about exclusion. The Rusted Wall is about the exclusion that ou
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight (Black) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight · Subject-Dream manifestation
 **Common Name:** The Rusted Wall
 **Containment Status:** Contained — Gate District
 **Comprehension Level:** 2 — Basic
@@ -8076,7 +8076,7 @@ Some sorrows are about feeling anger. The Soaking Shadow is about absorbing it �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-308 [GO]` · Inner origin · Residue (I) coherence · Minor (α) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-308 [GO]` · Inner origin · Residue (I) coherence · Minor (α) potency · Grudge · Object-Grudge manifestation
 **Common Name:** The Soaking Shadow
 **Containment Status:** Contained — Alpha Tree vault
 **Comprehension Level:** 2 — Basic
@@ -8128,7 +8128,7 @@ Some sorrows are about losing memory. The Fading Whisper is about the place the 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-407 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-407 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Subject-Grudge manifestation
 **Common Name:** The Fading Whisper
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -8183,7 +8183,7 @@ Some sorrows are about losing support. The Floating Pillar is about the support 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-409 [O]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-409 [O]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Subject-Spirit manifestation
 **Common Name:** The Floating Pillar
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -8238,7 +8238,7 @@ Some sorrows are about separation. The Melting Rope is about the connection that
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-447 [LS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-447 [LS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Dream manifestation
 **Common Name:** The Melting Rope
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 2 — Basic
@@ -8293,7 +8293,7 @@ Some sorrows mourn a place. The Returning Ruin mourns the persistence of the pla
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-505 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-505 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Dream manifestation
 **Common Name:** The Returning Ruin
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -8348,7 +8348,7 @@ Some sorrows mourn a home. The Floating Tree mourns the rooting — the place th
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-585 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-585 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Weight manifestation
 **Common Name:** The Floating Tree
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -8401,7 +8401,7 @@ Some sorrows mourn exile. The Returning Soul mourns the return — the homecomin
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-589 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-589 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Lament manifestation
 **Common Name:** The Returning Soul
 **Containment Status:** Contained — Old Lament
 **Comprehension Level:** 2 — Basic
@@ -8454,7 +8454,7 @@ Some sorrows settle. The Flowing Seed does not — the unacknowledged rage, the 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-628 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight (Black) · Place-Void manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-628 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight · Place-Void manifestation
 **Common Name:** The Flowing Seed
 **Containment Status:** Contained — Zone B (mobile)
 **Comprehension Level:** 2 — Basic
@@ -8507,7 +8507,7 @@ Some sorrows are about what was lost. The Frozen Bridge is about what was never 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-874 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-874 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Object-Weight manifestation
 **Common Name:** The Frozen Bridge
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -8560,7 +8560,7 @@ Some sorrows are about what was lost. Vanity Asleep is about what is avoided —
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-954 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-954 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void · Subject-Phantasmal manifestation
 **Common Name:** Vanity Asleep
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
@@ -8614,7 +8614,7 @@ Some sorrows are about being trapped. The Hollow Echo is about being unheard —
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIα-125 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIα-125 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void · Subject-Phantasmal manifestation
 **Common Name:** The Hollow Echo
 **Containment Status:** Contained — Zone D, Echo Gardens — ambient
 **Comprehension Level:** 1 — Initial
@@ -8668,7 +8668,7 @@ Some sorrows mourn the dead. The Forgotten Name mourns the unnamed — the citiz
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIα-215 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIα-215 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void · Subject-Phantasmal manifestation
 **Common Name:** The Forgotten Name
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 1 — Initial
@@ -8722,7 +8722,7 @@ Some sorrows are about speaking. The Weight of Silence is about not speaking —
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIα-285 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIα-285 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Weight manifestation
 **Common Name:** The Weight of Silence
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
@@ -8775,7 +8775,7 @@ Some sorrows mourn the fallen. The Forgotten Soldier mourns the edited — the s
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-033 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIβ-033 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Phantasmal manifestation
 **Common Name:** The Forgotten Soldier
 **Containment Status:** Contained — SECTOR-B-02, Zone B — contained corridor 7-C
 **Comprehension Level:** 4 — Mastered
@@ -8829,7 +8829,7 @@ Some sorrows mourn a home. The Wandering Door mourns the leaving — the door to
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-152 [LS]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-152 [LS]` · Per classification origin · Per classification coherence · Per classification potency · Lament · Subject-Grudge manifestation
 **Common Name:** The Wandering Door
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
@@ -8883,7 +8883,7 @@ Some sorrows are about being heard. The Silent Scream is about not being heard �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-170 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-170 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Void manifestation
 **Common Name:** The Silent Scream
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
@@ -8936,7 +8936,7 @@ Some sorrows are about debt. The Debt Collector's Lantern is about the collectin
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-250 [WO]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIβ-250 [WO]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Object-Weight manifestation
 **Common Name:** The Debt Collector's Lantern
 **Containment Status:** Contained — Zone C, Collector's Row — ambient
 **Comprehension Level:** 2 — Basic
@@ -8990,7 +8990,7 @@ Some sorrows are about loss. The Rusted Whisper is about discard — the things 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-270 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-270 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Place-Grudge manifestation
 **Common Name:** The Rusted Whisper
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
@@ -9046,7 +9046,7 @@ Some sorrows mourn the healer. The Kind Healer's Shadow mourns the continuation 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-280 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIβ-280 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** The Kind Healer’s Shadow
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
@@ -9099,7 +9099,7 @@ Some sorrows are about losing memory. The Torn Fruit is about losing the self wh
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-426 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-426 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Void manifestation
 **Common Name:** The Torn Fruit
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 2 — Basic
@@ -9155,7 +9155,7 @@ Some sorrows mourn the dead. The Forgotten Shadow mourns the living-unrecorded �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-453 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIβ-453 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Weight manifestation
 **Common Name:** The Forgotten Shadow
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 2 — Basic
@@ -9210,7 +9210,7 @@ Some sorrows are about hunger. The Fading Fruit is about the system that produce
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-456 [N]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-456 [N]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Place-Grudge manifestation
 **Common Name:** The Fading Fruit
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 2 — Basic
@@ -9264,7 +9264,7 @@ Some sorrows are about separation. The Spreading Bridge is about the promised re
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-488 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-488 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Object-Void manifestation
 **Common Name:** The Spreading Bridge
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 2 — Basic
@@ -9318,7 +9318,7 @@ Some sorrows are about silence. The Soaking Scream is about the hearing that is 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-560 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-560 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Object-Grudge manifestation
 **Common Name:** The Soaking Scream
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic
@@ -9372,7 +9372,7 @@ Some sorrows mourn a home. The Melting Fruit mourns the replanting — the exile
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-627 [GP]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-627 [GP]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge · Place-Grudge manifestation
 **Common Name:** The Melting Fruit
 **Containment Status:** Contained — Gate District
 **Comprehension Level:** 2 — Basic
@@ -9427,7 +9427,7 @@ Some sorrows are about hiding. The Spreading Wall is about the hiding that becom
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-689 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IIβ-689 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Mind manifestation
 **Common Name:** The Spreading Wall
 **Containment Status:** Contained — Mask Market
 **Comprehension Level:** 2 — Basic
@@ -9480,7 +9480,7 @@ Some sorrows are about loss. The Soaking Well is about the unspoken — the mour
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-778 [LP]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `N-IIβ-778 [LP]` · Per classification origin · Per classification coherence · Per classification potency · Lament · Place-Lament manifestation
 **Common Name:** The Soaking Well
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
@@ -9534,7 +9534,7 @@ Some sorrows are about grief. The Soaking Mirror is about rage — the anger swa
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-801 [GO]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-801 [GO]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Object-Void manifestation
 **Common Name:** The Soaking Mirror
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 2 — Basic
@@ -9590,7 +9590,7 @@ Some sorrows mourn a home. The Returning Flower mourns the pattern — the settl
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-845 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-845 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Place-Void manifestation
 **Common Name:** The Returning Flower
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic
@@ -9646,7 +9646,7 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-993 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `N-IIβ-993 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Lament manifestation
 **Common Name:** Survivor's Span
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -9699,7 +9699,7 @@ Some sorrows are about debt. The Inherited Debt is about the debt that became th
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVβ-019 [WS]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IVβ-019 [WS]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Subject-Mind manifestation
 **Common Name:** The Inherited Debt
 **Containment Status:** Contained — SECTOR-C-01, Collector's Row — contained
 **Comprehension Level:** 3 — Advanced
@@ -9753,7 +9753,7 @@ Some sorrows mourn a child. The Smothering Mother mourns the inability to protec
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-005 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IVδ-005 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Body manifestation
 **Common Name:** The Smothering Mother
 **Containment Status:** Contained — SECTOR-D-01, Zone D — contained
 **Comprehension Level:** 4 — Mastered
@@ -9807,7 +9807,7 @@ Some sorrows are about danger. The Sleeping Sigh is about the weariness of watch
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-157 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-157 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Place-Grudge manifestation
 **Common Name:** The Sleeping Sigh
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 3 — Advanced
@@ -9861,7 +9861,7 @@ Some sorrows are about death. The Frozen Sigh is about the denial of death — t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-159 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-159 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Dream manifestation
 **Common Name:** The Frozen Sigh
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
@@ -9915,7 +9915,7 @@ Some sorrows mourn what existed. The Collapsed Seed mourns what almost existed �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-315 [LO]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-315 [LO]` · Per classification origin · Per classification coherence · Per classification potency · Lament · Object-Grudge manifestation
 **Common Name:** The Collapsed Seed
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
@@ -9969,7 +9969,7 @@ Some sorrows are about the danger. The Collapsed Wall is about the failed protec
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-339 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IVδ-339 [LS]` · Lament · Subject-Mind manifestation
 **Common Name:** The Collapsed Wall
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -10025,7 +10025,7 @@ Some sorrows are about truth suppressed. The Forgotten Silence is about suppress
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-489 [LS]` · Lament (Deep Blue) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-489 [LS]` · Lament · Subject-Dream manifestation
 **Common Name:** The Forgotten Silence
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
@@ -10081,7 +10081,7 @@ Some sorrows mourn a loss. The Broken Tear mourns the mourning itself — the gr
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-517 [LS]` · Lament (Deep Blue) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-517 [LS]` · Lament · Subject-Dream manifestation
 **Common Name:** The Broken Tear
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
@@ -10137,7 +10137,7 @@ Some sorrows are about loss. The Flowing Bridge is about the failed protection �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-525 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IVδ-525 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Body manifestation
 **Common Name:** The Flowing Bridge
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -10193,7 +10193,7 @@ Some sorrows are about hiding. The Sunken Tree is about the hidden that grew —
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-606 [LP]` · Lament (Deep Blue) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-606 [LP]` · Lament · Place-Grudge manifestation
 **Common Name:** The Sunken Tree
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
@@ -10249,7 +10249,7 @@ Some sorrows are about feeling. The Sleeping Shard is about the refusal to feel 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-611 [N]` · Void (Pale White) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `N-IVδ-611 [N]` · Void · Subject-Lament manifestation
 **Common Name:** The Sleeping Shard
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
@@ -10305,7 +10305,7 @@ Some sorrows mourn a home. The Returning Relic mourns the return — the artifac
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-641 [GO]` · Grudge (Crimson) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IVδ-641 [GO]` · Grudge · Object-Void manifestation
 **Common Name:** The Returning Relic
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
@@ -10361,7 +10361,7 @@ Some sorrows are about exhaustion. The Vanished Sigh is about the denial of exha
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-821 [D]` · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-821 [D]` · Grudge · Place-Grudge manifestation
 **Common Name:** The Vanished Sigh
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
@@ -10419,7 +10419,7 @@ Some sorrows are about neglect. The Forgotten Ruin is about devotion — the lov
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-852 [N]` · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-852 [N]` · Grudge · Object-Grudge manifestation
 **Common Name:** The Forgotten Ruin
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
@@ -10477,7 +10477,7 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-909 [N]` · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IVδ-909 [N]` · Void · Subject-Mind manifestation
 **Common Name:** Dormant Monolith
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
@@ -10535,7 +10535,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-967 [WS]` · Weight (Black) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-967 [WS]` · Weight · Subject-Grudge manifestation
 **Common Name:** Pandora's Jar
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic
@@ -10593,7 +10593,7 @@ Some sorrows mourn neglect. The Silent Child is made of it — the accumulated o
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-025 [VS]` · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-Iα-025 [VS]` · Void · Subject-Body manifestation
 **Common Name:** The Silent Child
 **Containment Status:** Contained — SECTOR-D-02, Echo Gardens — contained
 **Comprehension Level:** 1 — Initial
@@ -10651,7 +10651,7 @@ Some sorrows mourn a parent. The Soaking Rope mourns the waiting — the child's
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-316 [D]` · Grudge (Crimson) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `N-Iα-316 [D]` · Grudge · Subject-Void manifestation
 **Common Name:** The Soaking Rope
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 1 — Initial
@@ -10707,7 +10707,7 @@ Some sorrows are about rejection. The Sleeping Wall is about the failure to ask 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-459 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `N-Iα-459 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Place-Lament manifestation
 **Common Name:** The Sleeping Wall
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -10762,7 +10762,7 @@ Some sorrows are about being trapped. The Soaking Window is about the trap of ob
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-518 [D]` · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-Iα-518 [D]` · Lament · Object-Weight manifestation
 **Common Name:** The Soaking Window
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial
@@ -10820,7 +10820,7 @@ Some sorrows mourn what was lost. The Spreading Seed mourns what never was — t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-519 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-Iα-519 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Place-Grudge manifestation
 **Common Name:** The Spreading Seed
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
@@ -10873,7 +10873,7 @@ Some sorrows are about a view. The Torn Window is about the departures layered o
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-686 [N]` · Grudge (Crimson) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `N-Iα-686 [N]` · Grudge · Object-Lament manifestation
 **Common Name:** The Torn Window
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial
@@ -10931,7 +10931,7 @@ Some sorrows are grand. The Collapsed Tear is about the small — the quiet grie
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-785 [O]` · Lament (Deep Blue) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-Iα-785 [O]` · Lament · Object-Void manifestation
 **Common Name:** The Collapsed Tear
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 1 — Initial
@@ -10989,7 +10989,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Grudge · Subject-Body manifestation
 **Common Name:** The Wrath Flame
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic
@@ -11045,7 +11045,7 @@ Some sorrows mourn the dead. The Forgotten Soul mourns the living-erased — the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-233 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-233 [LS]` · Lament · Subject-Lament manifestation
 **Common Name:** The Forgotten Soul
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
@@ -11101,7 +11101,7 @@ Some sorrows mourn the dead. The Broken Whisper mourns their last words — the 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-369 [LO]` · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-369 [LO]` · Lament · Object-Weight manifestation
 **Common Name:** The Broken Whisper
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic
@@ -11157,7 +11157,7 @@ Some sorrows are about silence. The Vanished Silence is about the erasure of sou
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-371 [VS]` · Void (Pale White) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-371 [VS]` · Void · Subject-Spirit manifestation
 **Common Name:** The Vanished Silence
 **Containment Status:** Contained — Zone D, Mantle Commons
 **Comprehension Level:** 2 — Basic
@@ -11213,7 +11213,7 @@ Some sorrows mourn a companion. The Sleeping Tree mourns the shared growth — t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-374 [N]` · Grudge (Crimson) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-374 [N]` · Grudge · Object-Weight manifestation
 **Common Name:** The Sleeping Tree
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
@@ -11269,7 +11269,7 @@ Some sorrows are about hiding grief. The Sunken Tear is about hiding it too well
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-476 [WO]` · Weight (Black) · Object-Void manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-476 [WO]` · Weight · Object-Void manifestation
 **Common Name:** The Sunken Tear
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic
@@ -11325,7 +11325,7 @@ Some sorrows mourn a place. The Broken Ruin mourns the carrying — the disaster
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-559 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-559 [LS]` · Lament · Subject-Lament manifestation
 **Common Name:** The Broken Ruin
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
@@ -11381,7 +11381,7 @@ Some sorrows mourn exile. The Soaking Wall mourns the building — the shelters 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-617 [O]` · Grudge (Crimson) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-617 [O]` · Grudge · Place-Lament manifestation
 **Common Name:** The Soaking Wall
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
@@ -11437,7 +11437,7 @@ Some sorrows mourn a maker. The Sleeping Relic mourns the making — the object 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-651 [VP]` · Void (Pale White) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-651 [VP]` · Void · Place-Grudge manifestation
 **Common Name:** The Sleeping Relic
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
@@ -11493,7 +11493,7 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-914 [N]` · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-914 [N]` · Lament · Object-Lament manifestation
 **Common Name:** Driftglass
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
@@ -11549,7 +11549,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-915 [VS]` · Void (Pale White) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-915 [VS]` · Void · Subject-Dream manifestation
 **Common Name:** Corrosion Dream
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 2 — Basic
@@ -11605,7 +11605,7 @@ Some sorrows mourn a home. Graveweed mourns the rooting — the attempt to belon
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-959 [D]` · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-959 [D]` · Lament · Subject-Grudge manifestation
 **Common Name:** Graveweed
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic
@@ -11661,7 +11661,7 @@ Some sorrows mourn the war dead. The Scar Walker is their guardian — the rage 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIδ-011 [GS]` · Grudge (Crimson) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IIIδ-011 [GS]` · Grudge · Subject-Phantasmal manifestation
 **Common Name:** The Scar Walker
 **Containment Status:** Contained — The Desolate — patrols The Scar
 **Comprehension Level:** 1 — Initial
@@ -11717,7 +11717,7 @@ Some sorrows mourn a place. The Wandering Shadow mourns the having-no-place — 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-119 [VP]` · Void (Pale White) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIβ-119 [VP]` · Void · Place-Grudge manifestation
 **Common Name:** The Wandering Shadow
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
@@ -11773,7 +11773,7 @@ Some sorrows are about betrayal. The Torn Soul is about the betrayal that divide
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-235 [GS]` · Grudge (Crimson) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIβ-235 [GS]` · Grudge · Subject-Lament manifestation
 **Common Name:** The Torn Soul
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
@@ -11829,7 +11829,7 @@ Some sorrows mourn comfort lost. The Melting Flame mourns comfort dissolving —
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-301 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `O-IIβ-301 [LS]` · Lament · Subject-Mind manifestation
 **Common Name:** The Melting Flame
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
@@ -11885,7 +11885,7 @@ Some sorrows mourn the drowned. The Drowned Echo mourns the calling — the voic
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-378 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `O-IIβ-378 [LS]` · Lament · Subject-Mind manifestation
 **Common Name:** The Drowned Echo
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic
@@ -11941,7 +11941,7 @@ Some sorrows mourn separation. The Soaking Chain mourns the memory-bond — the 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-467 [LS]` · Lament (Deep Blue) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IIβ-467 [LS]` · Lament · Subject-Spirit manifestation
 **Common Name:** The Soaking Chain
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -11997,7 +11997,7 @@ Some sorrows mourn demolition. The Vanished Tower mourns the erasure — the bui
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-677 [GP]` · Grudge (Crimson) · Place-Void manifestation
+**Classification:** Sorrow Entity — `O-IIβ-677 [GP]` · Grudge · Place-Void manifestation
 **Common Name:** The Vanished Tower
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
@@ -12053,7 +12053,7 @@ Some sorrows mourn a home. The Broken Door mourns the separation — the door be
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-757 [GP]` · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIβ-757 [GP]` · Grudge · Place-Grudge manifestation
 **Common Name:** The Broken Door
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic
@@ -12111,7 +12111,7 @@ Some sorrows mourn a community. The Soaking Tower mourns the calling — the tow
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-796 [LS]` · Lament (Deep Blue) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IIβ-796 [LS]` · Lament · Subject-Spirit manifestation
 **Common Name:** The Soaking Tower
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
@@ -12167,7 +12167,7 @@ Some sorrows mourn a departure. The Rusted Soul mourns the silence after — the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-833 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIβ-833 [LS]` · Lament · Subject-Lament manifestation
 **Common Name:** The Rusted Soul
 **Containment Status:** Contained — Zone B, Old Lament — contained/ambient
 **Comprehension Level:** 3 — Advanced
@@ -12223,7 +12223,7 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-922 [O]` · Grudge (Crimson) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IIβ-922 [O]` · Grudge · Object-Weight manifestation
 **Common Name:** Door to Nowhere
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
@@ -12281,7 +12281,7 @@ Some sorrows mourn a home. The Drift Fog mourns the destination — the nomads w
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIγ-007 [VP]` · Void (Pale White) · Place-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IIγ-007 [VP]` · Void · Place-Phantasmal manifestation
 **Common Name:** The Drift Fog
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
@@ -12337,7 +12337,7 @@ Some sorrows mourn a monument. The Broken Fragment mourns the debt it commemorat
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-115 [WO]` · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IVδ-115 [WO]` · Weight · Object-Weight manifestation
 **Common Name:** The Broken Fragment
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
@@ -12393,7 +12393,7 @@ Some sorrows mourn a home. The Spreading Tree mourns the lines — the borders t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-151 [GP]` · Grudge (Crimson) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `O-IVδ-151 [GP]` · Grudge · Place-Lament manifestation
 **Common Name:** The Spreading Tree
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
@@ -12449,7 +12449,7 @@ Some sorrows mourn a destination. The Collapsed Trace mourns the journey — the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-168 [O]` · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IVδ-168 [O]` · Lament · Object-Weight manifestation
 **Common Name:** The Collapsed Trace
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic
@@ -12505,7 +12505,7 @@ Some sorrows mourn the dead. The Ember Phoenix mourns the surviving — the comp
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-190 [GS]` · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `O-IVδ-190 [GS]` · Grudge · Subject-Body manifestation
 **Common Name:** The Ember Phoenix
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic
@@ -12561,7 +12561,7 @@ Some sorrows are about grief. The Spreading Root is about buried grief — the s
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-693 [WS]` · Weight (Black) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IVδ-693 [WS]` · Weight · Subject-Phantasmal manifestation
 **Common Name:** The Spreading Root
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
@@ -12617,7 +12617,7 @@ Some sorrows mourn the dead. The Burning Bridge mourns the reaching — the call
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-762 [O]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IVδ-762 [O]` · Lament · Subject-Lament manifestation
 **Common Name:** The Burning Bridge
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic
@@ -12673,7 +12673,7 @@ Some sorrows mourn an owner. The Flowing Relic mourns the having-none — the ob
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-792 [O]` · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IVδ-792 [O]` · Lament · Subject-Phantasmal manifestation
 **Common Name:** The Flowing Relic
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
@@ -12731,7 +12731,7 @@ Some sorrows mourn a place. The Sleeping Ruin mourns the inability to stop — t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-844 [N]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IVδ-844 [N]` · Lament · Subject-Lament manifestation
 **Common Name:** The Sleeping Ruin
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
@@ -12787,7 +12787,7 @@ Some sorrows mourn a loss. The Broken Shard mourns the trust — the promise tha
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-851 [LO]` · Lament (Deep Blue) · Object-Void manifestation
+**Classification:** Sorrow Entity — `O-IVδ-851 [LO]` · Lament · Object-Void manifestation
 **Common Name:** The Broken Shard
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
@@ -12843,7 +12843,7 @@ Some sorrows are about specific losses. The Wandering Sigh is about the conditio
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-895 [VS]` · Void (Pale White) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IVδ-895 [VS]` · Void · Subject-Spirit manifestation
 **Common Name:** The Wandering Sigh
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
@@ -12899,7 +12899,7 @@ Some sorrows mourn a collapse. The Broken Wall mourns the broken promise — the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Grudge (Crimson) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Grudge · Subject-Grudge manifestation
 **Common Name:** The Broken Wall
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
@@ -12955,7 +12955,7 @@ Some sorrows mourn a wrong. Reverberant mourns the forgetting of the wrong — t
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-909 [GP]` · Grudge (Crimson) · Place-Void manifestation
+**Classification:** Sorrow Entity — `O-IVδ-909 [GP]` · Grudge · Place-Void manifestation
 **Common Name:** Reverberant
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
@@ -13011,7 +13011,7 @@ Some sorrows mourn a grievance. The Wandering Trace mourns the lost cause — th
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-108 [GS]` · Grudge (Crimson) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-Iα-108 [GS]` · Grudge · Subject-Spirit manifestation
 **Common Name:** The Wandering Trace
 **Containment Status:** Contained — Zone D, Mantle Commons
 **Comprehension Level:** 1 — Initial
@@ -13067,7 +13067,7 @@ Some sorrows are about losing a home. The Melting Shard is about losing a self �
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-126 [VS]` · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `O-Iα-126 [VS]` · Void · Subject-Mind manifestation
 **Common Name:** The Melting Shard
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 1 — Initial
@@ -13125,7 +13125,7 @@ Some sorrows are about sacrifice. The Rusted Pillar is about the sacrifice that 
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-169 [WP]` · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `O-Iα-169 [WP]` · Weight · Place-Weight manifestation
 **Common Name:** The Rusted Pillar
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 1 — Initial
@@ -13181,7 +13181,7 @@ Some sorrows mourn destruction. The Fading Ruin mourns the forgetting — the pl
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-189 [LS]` · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-189 [LS]` · Lament · Subject-Grudge manifestation
 **Common Name:** The Fading Ruin
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
@@ -13237,7 +13237,7 @@ Some sorrows mourn a carrier. The Frozen Relic mourns the unexplained — the ob
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-340 [VP]` · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `O-Iα-340 [VP]` · Void · Place-Void manifestation
 **Common Name:** The Frozen Relic
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
@@ -13293,7 +13293,7 @@ Some sorrows mourn a loss. The Floating Fragment mourns the interruption — the
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-453 [LS]` · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-453 [LS]` · Lament · Subject-Grudge manifestation
 **Common Name:** The Floating Fragment
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 1 — Initial
@@ -13351,7 +13351,7 @@ Some sorrows mourn barren ground. The Rusted Seed mourns the planting — the se
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-554 [LO]` · Lament (Deep Blue) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-554 [LO]` · Lament · Object-Grudge manifestation
 **Common Name:** The Rusted Seed
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
@@ -13407,7 +13407,7 @@ Some sorrows mourn a home. The Vanished Root mourns the un-rooting — the belon
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-631 [WS]` · Weight (Black) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-Iα-631 [WS]` · Weight · Subject-Phantasmal manifestation
 **Common Name:** The Vanished Root
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 1 — Initial
@@ -13463,7 +13463,7 @@ Some sorrows mourn a face. The Frozen Mirror mourns the recognition — the face
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-643 [GO]` · Grudge (Crimson) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `O-Iα-643 [GO]` · Grudge · Object-Lament manifestation
 **Common Name:** The Frozen Mirror
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
@@ -13521,7 +13521,7 @@ Some sorrows are about death. The Forgotten Tear is about the dismissal of death
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-709 [GO]` · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-709 [GO]` · Grudge · Object-Grudge manifestation
 **Common Name:** The Forgotten Tear
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 1 — Initial
@@ -13577,7 +13577,7 @@ Some sorrows are about silence. The Melting Whisper is about the interrupted —
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-720 [GS]` · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `O-Iα-720 [GS]` · Grudge · Subject-Body manifestation
 **Common Name:** The Melting Whisper
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 1 — Initial
@@ -13635,7 +13635,7 @@ Some sorrows are about loss. The Wandering Chain is about the holding that outla
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-754 [GS]` · Grudge (Crimson) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-754 [GS]` · Grudge · Subject-Grudge manifestation
 **Common Name:** The Wandering Chain
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 1 — Initial
@@ -13691,7 +13691,7 @@ Some sorrows mourn a collapse. The Collapsed Door mourns the threshold — the p
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-794 [LO]` · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-Iα-794 [LO]` · Lament · Object-Weight manifestation
 **Common Name:** The Collapsed Door
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial
@@ -13747,7 +13747,7 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 
 ### 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-973 [VS]` · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `O-Iα-973 [VS]` · Void · Subject-Mind manifestation
 **Common Name:** Yggdrasil Wound
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial
@@ -13813,7 +13813,7 @@ It can wait.
 | **Origin** | Outside Sorrow — raw wilderness Han |
 | **Coherence** | V — Sovereign (force, not being) |
 | **Potency** | γ — Major |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **First Recorded** | Year 4150 (first documented major surge) |
 | **Containment Status** | Active border threat — repelled, not contained |

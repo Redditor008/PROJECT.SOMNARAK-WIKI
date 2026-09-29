@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A figure made from one enormous cracked tear — in dreams appearing as a person whose face cannot stay whole, always about to run. Salt-damp, it smells of cold rain; a single grief too large to hold its shape. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Crack* [**Debuff**] } | "The tear has fractured — split into pieces — and each piece reflects a different facet of the same grief." | [The Tear's fragmentation multiplies the target's sorrow into many sharp-edged versions.] | *Target suffers -10 Composure; their grief is splintered.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target sees the broken Tear. |
-| { *The Sharp Edges* [**Debuff**] } | "Every fragment of the broken tear is sharp — and picking up one cuts you, and picking up another cuts deeper." | [The Tear's fragments wound with each contact; the target cannot gather their grief without bleeding.] | *Target loses 10 Composure; their sorrow is dangerous to hold.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target tries to collect the pieces. |
-| { *The Flying Shard* [**Attack**] } | "A fragment of the broken tear launches — crystallized grief, aimed like a needle." | [ A tear-shard projectile strikes.] | *Inflicts Deep Blue pressure and one thin, deep, salty cut.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the fragments are disturbed. |
-| { *The Full Shatter* [**Attack**] } | "Every fragment detonates — the broken tear becoming a grenade of crystallized sorrow." | [The Tear's total fragmentation releases all its stored grief.] | *A heavy Deep Blue shatter-burst; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the fragments are crushed. |
-| { *The Sea of Shards* [**Ultimate**] } | "Every tear in the field shatters — and the fragments fill the air, sharp and sorrowful and everywhere." | [The Tear extends its breaking across the whole area.] | *All in range suffer Deep Blue pressure for three turns of shrapnel-grief.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Crack* [**Debuff**] } | "The tear has fractured — split into pieces — and each piece reflects a different facet of the same grief." | [The Tear's fragmentation multiplies the target's sorrow into many sharp-edged versions.] | *Target suffers -10 Composure; their grief is splintered.* **[10 Lament DMG [Lament]]** | When the target sees the broken Tear. |
+| { *The Sharp Edges* [**Debuff**] } | "Every fragment of the broken tear is sharp — and picking up one cuts you, and picking up another cuts deeper." | [The Tear's fragments wound with each contact; the target cannot gather their grief without bleeding.] | *Target loses 10 Composure; their sorrow is dangerous to hold.* **[10 Lament DMG [Lament]]** | When the target tries to collect the pieces. |
+| { *The Flying Shard* [**Attack**] } | "A fragment of the broken tear launches — crystallized grief, aimed like a needle." | [ A tear-shard projectile strikes.] | *Inflicts Lament pressure and one thin, deep, salty cut.* **[14-22 Lament DMG [Lament]]** | When the fragments are disturbed. |
+| { *The Full Shatter* [**Attack**] } | "Every fragment detonates — the broken tear becoming a grenade of crystallized sorrow." | [The Tear's total fragmentation releases all its stored grief.] | *A heavy Deep Blue shatter-burst; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the fragments are crushed. |
+| { *The Sea of Shards* [**Ultimate**] } | "Every tear in the field shatters — and the fragments fill the air, sharp and sorrowful and everywhere." | [The Tear extends its breaking across the whole area.] | *All in range suffer Lament pressure for three turns of shrapnel-grief.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a shard-tile of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Tear (N-IVδ-517 [LS]) is logged as a Subject-Dream manifestation expressing Lament (Deep Blue). The Tear formed from grief interrupted before it could complete its release. Held at Zone A, Alpha Tree vault. The crying has no measurable acoustic source.
+Broken Tear (N-IVδ-517 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Tear formed from grief interrupted before it could complete its release. Held at Zone A, Alpha Tree vault. The crying has no measurable acoustic source.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Appears in dreams and Alpha Tree reflections. Personnel hear crying and experience another person's loss. The figure fractures when exposed to false comfort.
@@ -344,7 +344,7 @@ Some sorrows mourn a loss. Broken Tear mourns the mourning itself — the grief 
 > *“A grief that consumed the mourner and continued alone.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-517 [LS]` · Lament (Deep Blue) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-517 [LS]` · Lament · Subject-Dream manifestation
 **Common Name:** Broken Tear
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic

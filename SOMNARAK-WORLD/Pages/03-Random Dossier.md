@@ -56,7 +56,7 @@ The randomizer uses a calibrated probability curve:
 ### 3.1 Featured Subject Specimen: The Debt Eater
 - **SECC Code:** `SE-C-IIIβ-014`
 - **Classification:** Rank III Fragment Subject
-- **Damage Pressure:** ⚪ Void (Pale White)
+- **Damage Pressure:** ⚪ Void
 - **Core Guideline:** Highly prefers ⚔ **Pugnahan** (Discipline). Never send recruits with low Resolve; Void strikes execute low-health specialists instantly.
 - **Full Article:** [27-The Debt Eater](27-The%20Debt%20Eater.md).
 

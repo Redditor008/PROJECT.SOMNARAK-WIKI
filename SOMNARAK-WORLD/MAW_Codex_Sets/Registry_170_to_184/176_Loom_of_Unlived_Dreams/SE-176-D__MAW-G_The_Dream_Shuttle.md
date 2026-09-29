@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dream Shuttle |
 | Set | Woven Possibility |
-| Type / grade / element | Stigma, blue shuttle-charm / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue shuttle-charm / γ — Major / Lament |
 | Slot | Tail |
 | Acquisition probability | 4% |
 | Recognition rule | It remains still until the bearer voluntarily identifies a personal memory they are willing to contribute. |

@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Accepting and weary |
 | **Potency** | Major (γ) — High danger as group entity |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — An old, bent man of true flesh and bone, stooped under a weight no one else can see — measured by Han-scales at roughly 7.3 tons, though his body shows only the shape of it. His skin is grey, his joints swollen, his breath laboured; he is lead-cold and damp with effort, and the air smells of wet stone and iron. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Tally* [**Debuff**] } | "It counts what you owe — and the number is higher than you thought." | [The Debtor tallies the target's debts; the total is a weight.] | *Target suffers -10 Resolve; they owe more than they knew.* **[10 Black DMG [Black / Weight]]** | When the Debtor assesses them. |
-| { *The Increasing Interest* [**Debuff**] } | "The debt grows while you stand here — it always grows." | [The debt accrues; the target feels it mounting by the second.] | *Target loses 10 Resolve; the interest is crushing.* **[10 Black DMG [Black / Weight]]** | When the target fails to pay. |
-| { *The Collection* [**Attack**] } | "Payment is due — and the Debtor collects in flesh and years." | [The Debtor extracts what it is owed by force.] | *Inflicts Black pressure and one wound of extracted debt.* **[14-22 Black DMG [Black / Weight]]** | When the Debtor is denied. |
-| { *The Foreclosure* [**Attack**] } | "Everything you have — taken, all at once, to cover what you owe." | [The Debtor forecloses on the target entirely.] | *A heavy Black seizure; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Debtor is cornered. |
-| { *Bankrupt* [**Ultimate**] } | "Everyone owes. Everyone pays. Now." | [The Debtor extends the debt across the whole field.] | *All personnel suffer Black pressure for three turns of universal collection.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Tally* [**Debuff**] } | "It counts what you owe — and the number is higher than you thought." | [The Debtor tallies the target's debts; the total is a weight.] | *Target suffers -10 Resolve; they owe more than they knew.* **[10 Weight DMG [Weight]]** | When the Debtor assesses them. |
+| { *The Increasing Interest* [**Debuff**] } | "The debt grows while you stand here — it always grows." | [The debt accrues; the target feels it mounting by the second.] | *Target loses 10 Resolve; the interest is crushing.* **[10 Weight DMG [Weight]]** | When the target fails to pay. |
+| { *The Collection* [**Attack**] } | "Payment is due — and the Debtor collects in flesh and years." | [The Debtor extracts what it is owed by force.] | *Inflicts Weight pressure and one wound of extracted debt.* **[14-22 Weight DMG [Weight]]** | When the Debtor is denied. |
+| { *The Foreclosure* [**Attack**] } | "Everything you have — taken, all at once, to cover what you owe." | [The Debtor forecloses on the target entirely.] | *A heavy Black seizure; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Debtor is cornered. |
+| { *Bankrupt* [**Ultimate**] } | "Everyone owes. Everyone pays. Now." | [The Debtor extends the debt across the whole field.] | *All personnel suffer Weight pressure for three turns of universal collection.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,7 +181,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -197,7 +197,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -215,7 +215,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a chain of black Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a chain of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Debtor (C-IIIγ-061 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt. Held at SECTOR-C-01, contained with the Debt Triplets. The invisible burden measures 7.3 tons on Han-scales.
+The Debtor (C-IIIγ-061 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt. Held at SECTOR-C-01, contained with the Debt Triplets. The invisible burden measures 7.3 tons on Han-scales.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks slowly through the facility carrying the burden. Personnel feel obligations they never incurred. The Debtor accepts blame willingly, even when the debt has changed over generations.
@@ -360,7 +360,7 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 > *“To see him is to feel every honest obligation you have ever carried.”* — Citizen, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-061 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-061 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Debtor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 3 — Advanced

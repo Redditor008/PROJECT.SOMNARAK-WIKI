@@ -18,7 +18,7 @@
 
 ## ITEM IDENTITY & BESTOWAL
 
-The Laughter Facade is a small curve of pale Han-glass fixed at the bearer’s temple. It is nearly transparent when no one is watching. Under social attention, light spreads from it across the face and produces a convincing smile supported by the bearer’s own preferred laugh. The dark reflection of two wet eyeholes remains visible only from behind.
+The Laughter Facade is a small curve of Void Han-glass fixed at the bearer’s temple. It is nearly transparent when no one is watching. Under social attention, light spreads from it across the face and produces a convincing smile supported by the bearer’s own preferred laugh. The dark reflection of two wet eyeholes remains visible only from behind.
 
 A genuine Facade has no painted features. Asked to perform on command, it repeats the requester’s laugh rather than the bearer’s.
 
@@ -35,7 +35,7 @@ The Facade binds only when a second person agrees to remove it. It gives no resp
 | Field | Record |
 |---|---|
 | Type | Accessory — bearer-bound Stigma |
-| Grade / element | β — Moderate / Void — Pale White |
+| Grade / element | β — Moderate / Void |
 | Slot | Head |
 | Acquisition probability | 5% after successful source work |
 | Bonus | +1 Composure during work with Levity |

@@ -1,15 +1,15 @@
-# PALE Tide Watch — The Final Blank
+# ASHEN Tide Watch — The Final Blank
 
-> *A secondary PALE Tide Watch Ordeal — a distinct manifestation of void sorrow at catastrophic severity.*
+> *A secondary ASHEN Tide Watch Ordeal — a distinct manifestation of void sorrow at catastrophic severity.*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | PALE |
+| **Color** | ASHEN |
 | **Time** | Tide Watch |
 | **Risk** | Catastrophic |
-| **Form** | PALE Tide Watch (secondary) |
+| **Form** | ASHEN Tide Watch (secondary) |
 
 ## Formation
 
@@ -29,7 +29,7 @@ Engage with catastrophic-appropriate teams. Void-element M.A.W. recommended. Sup
 
 ## Facility Impact
 
-A catastrophic-severity PALE encounter: widespread structural and personnel threat. Contain before the void pressure cascades.
+A catastrophic-severity ASHEN encounter: widespread structural and personnel threat. Contain before the void pressure cascades.
 
 ## R.D. Response Protocol
 
@@ -37,7 +37,7 @@ Echo-Core teams only.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PALE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary ASHEN Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Tide-Spawn-grade)
 
@@ -49,7 +49,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 35–60 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[2 Void DMG [Void] (5% Max HP)]**
 
 ### The Hollow (Non-Crystal, Tide-Spawn-grade)
 
@@ -73,7 +73,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 45–70 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It simply is, and what it touches, isn't. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[3 Void DMG [Void] (5% Max HP)]**
 
 
 ### The Erased King (Humanoid, Tide-Spawn-grade)
@@ -86,7 +86,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 3 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** Its shadow falls, and a portion of whoever it crosses simply stops existing. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** Its shadow falls, and a portion of whoever it crosses simply stops existing. **[3 Void DMG [Void] (5% Max HP)]**
 
 ### The Null (Amorphous, Tide-Spawn-grade)
 
@@ -98,7 +98,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 3 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** It drifts through a crowd, and those it touches are gone, wholly, quietly. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It drifts through a crowd, and those it touches are gone, wholly, quietly. **[3 Void DMG [Void] (5% Max HP)]**
 
 ### The Undoing (Swarm, Tide-Spawn-grade)
 
@@ -110,16 +110,16 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | facility-wide |
 
-**Ability:** They settle, and whatever they cover is steadily, silently unmade. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** They settle, and whatever they cover is steadily, silently unmade. **[1 Void DMG [Void] (5% Max HP)]**
 
 
 ## Trivia
 
-- A lesser-documented sibling encounter to the primary PALE Tide Watch Ordeal; same color and severity, different manifestation.
+- A lesser-documented sibling encounter to the primary ASHEN Tide Watch Ordeal; same color and severity, different manifestation.
 
 ## Document Information
 
-- **Document ID:** ORDEAL-PALE-Tide-II
+- **Document ID:** ORDEAL-ASHEN-Tide-II
 - **Author:** R.D. Field Records
 - **Date:** Year 4238
 - **Classification:** Restricted

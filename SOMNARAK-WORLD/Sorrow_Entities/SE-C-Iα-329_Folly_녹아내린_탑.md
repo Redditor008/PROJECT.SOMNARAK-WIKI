@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A tower-shaped crystal structure that melts slowly upward — its mass dissolving toward the sky without ever leaving rubble, as though being un-built from the ground. Bloodless-cold, it smells of ash; the melt never finishes. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Softening* [**Debuff**] } | "The stone goes soft — like wax, like grief given form and left in the sun." | [The Tower's structure loses cohesion; the target feels their own solidity failing.] | *Target suffers a Void mark; definition is dissolving.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
-| { *The Sagging* [**Debuff**] } | "The tower leans — not from wind, but from its own weight becoming too much to hold a shape." | [The Tower deforms; the target senses the instability spreading.] | *Target loses clarity; they cannot rely on anything solid.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target climbs the Tower. |
-| { *The Drip* [**Attack**] } | "A glob of melted tower-stone falls — heavy, hot, formless." | [A mass of semi-liquid structure drops onto the target.] | *Inflicts Void damage; the impact dissolves a portion of defense.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tower is struck. |
-| { *The Full Melt* [**Attack**] } | "The entire tower loses its shape at once — a waterfall of liquid stone." | [The Tower liquefies completely, cascading down.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tower is undermined. |
-| { *The Puddle City* [**Ultimate**] } | "Every building softens, sags, and melts — and the city becomes a puddle." | [The Tower's melt spreads to every structure in the field.] | *All in range suffer Pale White erosion for three turns in the molten city.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Softening* [**Debuff**] } | "The stone goes soft — like wax, like grief given form and left in the sun." | [The Tower's structure loses cohesion; the target feels their own solidity failing.] | *Target suffers a Void mark; definition is dissolving.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
+| { *The Sagging* [**Debuff**] } | "The tower leans — not from wind, but from its own weight becoming too much to hold a shape." | [The Tower deforms; the target senses the instability spreading.] | *Target loses clarity; they cannot rely on anything solid.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target climbs the Tower. |
+| { *The Drip* [**Attack**] } | "A glob of melted tower-stone falls — heavy, hot, formless." | [A mass of semi-liquid structure drops onto the target.] | *Inflicts Void damage; the impact dissolves a portion of defense.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower is struck. |
+| { *The Full Melt* [**Attack**] } | "The entire tower loses its shape at once — a waterfall of liquid stone." | [The Tower liquefies completely, cascading down.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tower is undermined. |
+| { *The Puddle City* [**Ultimate**] } | "Every building softens, sags, and melts — and the city becomes a puddle." | [The Tower's melt spreads to every structure in the field.] | *All in range suffer Void erosion for three turns in the molten city.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 |---|---|---|
 | 10 Seconds | Folly rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Folly activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of a future designed but never inhabited; the bearer begins perceiving echoes of a border tower was planned, funded, and abandoned before construction finished. its possibility crystallized. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Folly begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Folly begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Folly too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Folly: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Folly: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a brick-tile of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a brick-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Folly (C-Iα-329 [VO]) is logged as a Object-Grudge manifestation expressing Void (Pale White). The Tower formed from potential that never became architecture. Held at Zone E, Border region. It melts without heat.
+Folly (C-Iα-329 [VO]) is logged as a Object-Grudge manifestation expressing Void. The Tower formed from potential that never became architecture. Held at Zone E, Border region. It melts without heat.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 No material accumulates beneath it.
@@ -384,7 +384,7 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 > *“The shape of a future that will never arrive, losing even the form it held in the planning.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-329 [VO]` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-Iα-329 [VO]` · City origin · Entity (IV) coherence · Major (γ) potency · Void · Object-Grudge manifestation
 **Common Name:** Folly
 **Containment Status:** Contained — border district
 **Comprehension Level:** 2 — Basic

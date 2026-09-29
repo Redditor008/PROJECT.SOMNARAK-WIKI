@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dream Shroud |
 | Set | Unlived Thread |
-| Type / grade / element | Suit / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Suit / γ — Major / Lament |
 | Maximum amount | 3 — Standard |
 | Current bearer | Dreamer Sora |
 | Recognition rule | A waking-anchor thread at the collar must remain visible outside the Dream. |

@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Precise and impartial |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Mixed — A balance-scale on a frame of yellowed, articulating bone — clearly once living, now dead and smoothly jointed — from which hang two shallow dishes of cloudy crystal. It moves on its own, the bone frame creaking faintly, tilting with a patience that feels almost judicial. The bone is dry, light, and unnervingly warm to the touch. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reading* [**Debuff**] } | "It weighs you — and the needle drops, and you are found heavy with what you owe." | [The Scale measures the target; the reading brands them with their debt.] | *Target suffers a Void mark; their debt is now visible to all.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Scale is consulted or approached. |
-| { *The Tipping Balance* [**Debuff**] } | "The scale tips against you, and the tilt does not stop." | [The balance leans harder; the target feels the debt pressing down.] | *Target loses clarity as the weight of owed things settles on them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains on the Scale. |
-| { *The Weight of Owed* [**Attack**] } | "Your debt, made into a stone, dropped on you." | [The Scale converts what the target owes into a single crushing force.] | *Inflicts Void damage proportional to the debt.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target is judged wanting. |
-| { *The Overdraft* [**Attack**] } | "You owe more than you have. The Scale takes the difference from you." | [The Scale calls the overdraft due, extracting what the target cannot pay.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Scale is struck or overloaded. |
-| { *The Bankruptcy* [**Ultimate**] } | "The Scale weighs everyone at once — and everyone comes up short." | [The Scale extends its judgment across the field; all debts are measured simultaneously.] | *All in range suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Reading* [**Debuff**] } | "It weighs you — and the needle drops, and you are found heavy with what you owe." | [The Scale measures the target; the reading brands them with their debt.] | *Target suffers a Void mark; their debt is now visible to all.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Scale is consulted or approached. |
+| { *The Tipping Balance* [**Debuff**] } | "The scale tips against you, and the tilt does not stop." | [The balance leans harder; the target feels the debt pressing down.] | *Target loses clarity as the weight of owed things settles on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains on the Scale. |
+| { *The Weight of Owed* [**Attack**] } | "Your debt, made into a stone, dropped on you." | [The Scale converts what the target owes into a single crushing force.] | *Inflicts Void damage proportional to the debt.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target is judged wanting. |
+| { *The Overdraft* [**Attack**] } | "You owe more than you have. The Scale takes the difference from you." | [The Scale calls the overdraft due, extracting what the target cannot pay.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Scale is struck or overloaded. |
+| { *The Bankruptcy* [**Ultimate**] } | "The Scale weighs everyone at once — and everyone comes up short." | [The Scale extends its judgment across the field; all debts are measured simultaneously.] | *All in range suffer Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | The Debt Scale rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping The Debt Scale activates its primary resonance: Displays the user's karmic debt as weight and feeling. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of people judged by corrupt systems and the fear of an impartial measure that might reveal too much; the bearer begins perceiving echoes of citizens demanded that debt be measured fairly rather than assigned by collector preference. the demand became a scale. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within The Debt Scale begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within The Debt Scale begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear The Debt Scale too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The measured burden may remain emotionally after the Scale resets. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Debt Scale: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-C-01, used by Collectors, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Debt Scale: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-C-01, used by Collectors, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -231,7 +231,7 @@ The escalation pattern is specific to The Debt Scale: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -249,7 +249,7 @@ The escalation pattern is specific to The Debt Scale: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a pendant of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a pendant of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Debt Scale (C-IIIβ-015 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
+The Debt Scale (C-IIIβ-015 [VO]) is logged as a Object-Void manifestation expressing Void. The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It does not distinguish inherited debt from personal debt unless asked.
@@ -388,7 +388,7 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 > *“Fairness, in Somnarak, is not mercy. It is precision.”* — Keeper, Archive
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-015 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-015 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Debt Scale
 **Containment Status:** In use — Collector courts, Zone C
 **Comprehension Level:** 2 — Basic

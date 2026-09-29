@@ -18,7 +18,7 @@
 
 ## ITEM IDENTITY & VISUAL RECORD
 
-The Laughter Lens is a palm-wide disc of ground pale Han-glass, almost colorless until a voice crosses it. A narrow handle joins the disc at an angle suited to pointing rather than swinging. Inner light flickers in time with nearby laughter. Seen through the glass, a mouth appears a fraction ahead of the rest of the face whenever its expression is performed.
+The Laughter Lens is a palm-wide disc of ground Void Han-glass, almost colorless until a voice crosses it. A narrow handle joins the disc at an angle suited to pointing rather than swinging. Inner light flickers in time with nearby laughter. Seen through the glass, a mouth appears a fraction ahead of the rest of the face whenever its expression is performed.
 
 **Recognition rule:** An authentic Lens shows the holder’s closed mouth while returning the last laugh heard behind them. A replica merely reflects.
 
@@ -54,7 +54,7 @@ A person who claims to have no protected memory sees their own face disappear fr
 | Field | Record |
 |---|---|
 | Type | Weapon — lens focus |
-| Grade / element | β — Moderate / Void — Pale White |
+| Grade / element | β — Moderate / Void |
 | Damage | 5–9 Void |
 | Speed | 2 — Normal |
 | Range | 2 — Short |

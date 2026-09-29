@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, ancient, watchful |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A massive armored figure standing eternal guard before the Exile's Gate, its body all but hidden inside ancient Han-crystal plate scarred by centuries. Its weapon stays lowered — held, never swung. The armor is fever-hot and smells of char; nothing living is visible within it. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Blocking Arm* [**Debuff**] } | "The guardian extends one arm across the gateway — and the arm is wider than the passage." | [The Guardian blocks the target; the denial of passage is absolute.] | *Target suffers -10 Resilience; they are not getting through.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target approaches the Gate. |
-| { *The Warning Growl* [**Debuff**] } | "A sound — not quite a voice, not quite a roar — that says, more clearly than words: turn back." | [The Guardian's threat presses on the target; their resolve weakens.] | *Target loses 10 Resilience; the warning is not a suggestion.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target does not retreat. |
-| { *The Shield-Bash* [**Attack**] } | "The guardian lowers its shield and charges — and the charge does not slow down." | [A massive shield-slam from the immovable Guardian.] | *Inflicts Crimson pressure and one crushing, defensive wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the target challenges the Guardian. |
-| { *The Sealed Gate* [**Attack**] } | "The gate slams shut behind you — and now you are on this side, and the guardian is between you and the way out." | [The Guardian seals the exit and turns on the trapped target.] | *A heavy Crimson entrapment; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Guardian is attacked. |
-| { *The Eternal Watch* [**Ultimate**] } | "Every gate in the field acquires a guardian — and every guardian says the same thing: no one passes." | [The Guardian extends its vigil to every opening.] | *All in range suffer Crimson pressure for three turns of blocked gates.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Blocking Arm* [**Debuff**] } | "The guardian extends one arm across the gateway — and the arm is wider than the passage." | [The Guardian blocks the target; the denial of passage is absolute.] | *Target suffers -10 Resilience; they are not getting through.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Gate. |
+| { *The Warning Growl* [**Debuff**] } | "A sound — not quite a voice, not quite a roar — that says, more clearly than words: turn back." | [The Guardian's threat presses on the target; their resolve weakens.] | *Target loses 10 Resilience; the warning is not a suggestion.* **[10 Grudge DMG [Grudge]]** | When the target does not retreat. |
+| { *The Shield-Bash* [**Attack**] } | "The guardian lowers its shield and charges — and the charge does not slow down." | [A massive shield-slam from the immovable Guardian.] | *Inflicts Grudge pressure and one crushing, defensive wound.* **[14-22 Grudge DMG [Grudge]]** | When the target challenges the Guardian. |
+| { *The Sealed Gate* [**Attack**] } | "The gate slams shut behind you — and now you are on this side, and the guardian is between you and the way out." | [The Guardian seals the exit and turns on the trapped target.] | *A heavy Crimson entrapment; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Guardian is attacked. |
+| { *The Eternal Watch* [**Ultimate**] } | "Every gate in the field acquires a guardian — and every guardian says the same thing: no one passes." | [The Guardian extends its vigil to every opening.] | *All in range suffer Grudge pressure for three turns of blocked gates.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Breach Type** | Corrupt |
 | **Movement** | Aegis intensifies in place, warping the containment zone outward. It patrols and attacks intruders. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a long blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** a long blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Aegis (C-IVδ-200 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Guardian formed from a warrior's vow to protect the Gate until the city no longer needed it. Held at SECTOR-E-01, Zone E — guards the Exile's Gate. It has guarded the Gate for longer than current records.
+Aegis (C-IVδ-200 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Guardian formed from a warrior's vow to protect the Gate until the city no longer needed it. Held at SECTOR-E-01, Zone E — guards the Exile's Gate. It has guarded the Gate for longer than current records.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Leaves the Gate to pursue those attempting to return. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles.
@@ -348,7 +348,7 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 > *“Thousands have left. None have returned. The Guardian counts them all.”* — Elder, Gate District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-200` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVδ-200` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Body manifestation
 **Common Name:** Aegis
 **Containment Status:** Contained — the Gate
 **Comprehension Level:** 3 — Advanced

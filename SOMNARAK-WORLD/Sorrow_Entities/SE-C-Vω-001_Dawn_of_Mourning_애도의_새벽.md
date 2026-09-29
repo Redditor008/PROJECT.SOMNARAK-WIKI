@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Four Sorrows* [**Debuff**] } | "It opens with everything at once — grief, rage, weight, and the hollow — and you cannot tell which is worst." | [The Dawn radiates all four sorrows; the target is marked by whichever finds them first.] | *Target suffers the full Mixed cycle; the four sorrows take their turns.* **[8 Crimson (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the Dawn manifests or contact begins. |
-| { *The Seeping* [**Debuff**] } | "It does not enter — it seeps, through the walls, the floors, the air itself." | [The Dawn flows through every surface; the target is steeped in sorrow from all directions.] | *The cycle settles deeper; the four sorrows take hold.* **[8 Crimson (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the target cannot escape the seeping. |
-| { *The Mourning Light* [**Attack**] } | "The light of it is the color of dawn — and it burns like a grief that finally has a shape." | [A beam of mourning-dawn light strikes the target, carrying all four sorrows in one ray.] | *Inflicts the full Mixed cycle in a focused hit.* **[12-18 Crimson (HP) -> 12-18 Lament (Sanity) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the Dawn is confronted. |
-| { *The Transformation Reversed* [**Attack**] } | "It is what the Hope-Bearers were meant to prevent — and here, the transformation runs the other way." | [The Dawn channels the reversed transformation, forcing sorrow back into the target at once.] | *A devastating Mixed surge; the target's Sorrow Gauge climbs 15%.* **[20-30 Crimson (HP) -> 20-30 Lament (Sanity) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) | 8s, 2s per type]** | When the Dawn is attacked or a Hope-Bearer is present. |
-| { *The Mourning of All Things* [**Ultimate**] } | "The dawn breaks — and with it, everything that ever sorrowed grieves at once." | [The Dawn unfolds to its full scope, flooding the entire facility with all four sorrows.] | *All personnel endure the full Mixed cycle for three turns.* **[10-16 Crimson (HP) -> 10-16 Lament (Sanity) -> 10-16 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Four Sorrows* [**Debuff**] } | "It opens with everything at once — grief, rage, weight, and the hollow — and you cannot tell which is worst." | [The Dawn radiates all four sorrows; the target is marked by whichever finds them first.] | *Target suffers the full Mixed cycle; the four sorrows take their turns.* **[8 Grudge (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the Dawn manifests or contact begins. |
+| { *The Seeping* [**Debuff**] } | "It does not enter — it seeps, through the walls, the floors, the air itself." | [The Dawn flows through every surface; the target is steeped in sorrow from all directions.] | *The cycle settles deeper; the four sorrows take hold.* **[8 Grudge (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the target cannot escape the seeping. |
+| { *The Mourning Light* [**Attack**] } | "The light of it is the color of dawn — and it burns like a grief that finally has a shape." | [A beam of mourning-dawn light strikes the target, carrying all four sorrows in one ray.] | *Inflicts the full Mixed cycle in a focused hit.* **[12-18 Grudge (HP) -> 12-18 Lament (Sanity) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the Dawn is confronted. |
+| { *The Transformation Reversed* [**Attack**] } | "It is what the Hope-Bearers were meant to prevent — and here, the transformation runs the other way." | [The Dawn channels the reversed transformation, forcing sorrow back into the target at once.] | *A devastating Mixed surge; the target's Sorrow Gauge climbs 15%.* **[20-30 Grudge (HP) -> 20-30 Lament (Sanity) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) | 8s, 2s per type]** | When the Dawn is attacked or a Hope-Bearer is present. |
+| { *The Mourning of All Things* [**Ultimate**] } | "The dawn breaks — and with it, everything that ever sorrowed grieves at once." | [The Dawn unfolds to its full scope, flooding the entire facility with all four sorrows.] | *All personnel endure the full Mixed cycle for three turns.* **[10-16 Grudge (HP) -> 10-16 Lament (Sanity) -> 10-16 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -200,7 +200,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Type:** Armor (Suit) | **Grade:** ω | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -218,7 +218,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Type:** Accessory (Stigma) | **Grade:** ω | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 3%

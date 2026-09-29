@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats melting, never melting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A single tear frozen into dark blue crystal the size of a fist, suspended and still. Against all sense it is warm, not cold. Salt-damp, it smells of cold rain on old cloth; held too long, it begins to weep real tears. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Suspended Drop* [**Debuff**] } | "A tear hangs in the air — frozen mid-fall, never reaching the ground, never finishing its grief." | [The Tear's suspended sorrow presses on the target; they feel the incomplete release.] | *Target suffers -10 Composure; the grief cannot finish.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target sees the Tear. |
-| { *The Crystal Memory* [**Debuff**] } | "Inside the frozen tear, you can see a memory — preserved, perfect, and absolutely cold." | [The Tear's interior shows the target a frozen grief; they absorb it.] | *Target loses 10 Composure; the preserved sorrow is theirs now.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target looks into the Tear. |
-| { *The Ice Needle* [**Attack**] } | "The tear sharpens to a point — and the point is aimed at your heart." | [The frozen tear becomes a projectile.] | *Inflicts Deep Blue pressure and one cold, precise piercing.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Tear is struck. |
-| { *The Thaw* [**Attack**] } | "The tear melts at last — and the grief it held, released all at once, is a flood." | [The Tear's sudden thaw releases centuries of preserved sorrow.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Tear is warmed. |
-| { *The Frozen Rain* [**Ultimate**] } | "A thousand frozen tears fill the sky — and then they all thaw at once." | [The Tear multiplies and thaws across the entire field.] | *All in range suffer Deep Blue pressure for three turns of frozen rain.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Suspended Drop* [**Debuff**] } | "A tear hangs in the air — frozen mid-fall, never reaching the ground, never finishing its grief." | [The Tear's suspended sorrow presses on the target; they feel the incomplete release.] | *Target suffers -10 Composure; the grief cannot finish.* **[10 Lament DMG [Lament]]** | When the target sees the Tear. |
+| { *The Crystal Memory* [**Debuff**] } | "Inside the frozen tear, you can see a memory — preserved, perfect, and absolutely cold." | [The Tear's interior shows the target a frozen grief; they absorb it.] | *Target loses 10 Composure; the preserved sorrow is theirs now.* **[10 Lament DMG [Lament]]** | When the target looks into the Tear. |
+| { *The Ice Needle* [**Attack**] } | "The tear sharpens to a point — and the point is aimed at your heart." | [The frozen tear becomes a projectile.] | *Inflicts Lament pressure and one cold, precise piercing.* **[14-22 Lament DMG [Lament]]** | When the Tear is struck. |
+| { *The Thaw* [**Attack**] } | "The tear melts at last — and the grief it held, released all at once, is a flood." | [The Tear's sudden thaw releases centuries of preserved sorrow.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tear is warmed. |
+| { *The Frozen Rain* [**Ultimate**] } | "A thousand frozen tears fill the sky — and then they all thaw at once." | [The Tear multiplies and thaws across the entire field.] | *All in range suffer Lament pressure for three turns of frozen rain.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Frozen Tear rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Frozen Tear activates its primary resonance: Creates a quiet field where emotional distress can be acknowledged. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of someone unable to cry despite having lost everything; the bearer begins perceiving echoes of a mourner's first and only tear froze before it could fall. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Frozen Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Frozen Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Frozen Tear too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Direct touch may overwhelm the visitor with the original grief. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Frozen Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-D-02, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Frozen Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Tear (C-IIβ-102 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Tear formed from sorrow too deep to flow. Held at SECTOR-D-02, Echo Gardens. It is one of the most visited minor entities in the Gardens.
+Frozen Tear (C-IIβ-102 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Tear formed from sorrow too deep to flow. Held at SECTOR-D-02, Echo Gardens. It is one of the most visited minor entities in the Gardens.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 No authorized worker has touched it.
@@ -387,7 +387,7 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 > *“It glows brightest on the Consolihan. Even the dead mourn with us.”* — Citizen, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-102 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-102 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Object-Lament manifestation
 **Common Name:** Frozen Tear
 **Containment Status:** Open memorial display — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic

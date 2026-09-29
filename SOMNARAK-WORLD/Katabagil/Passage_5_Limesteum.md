@@ -232,10 +232,10 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
  - Stagger Thresholds: 2,800 HP (70%) | 1,600 HP (40%) | 400 HP (10%)
  - Base Defense: 60 | Speed Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
-   * Grudge (Crimson) : 0.5x (Endured — Forged in subterranean volcanic heat)
-   * Lament (Deep Blue): 2.0x (Exposed Weakness — Glacial water quenches magma core)
-   * Void (Pale White) : 1.5x (Weakness — Disrupts the martyr soul lattice)
-   * Weight (Black)    : 0.5x (Endured — Cyclopean basalt and slag chassis)
+   * Grudge : 0.5x (Endured — Forged in subterranean volcanic heat)
+   * Lament: 2.0x (Exposed Weakness — Glacial water quenches magma core)
+   * Void : 1.5x (Weakness — Disrupts the martyr soul lattice)
+   * Weight    : 0.5x (Endured — Cyclopean basalt and slag chassis)
 
  TARGETABLE COMPONENT PARTS:
  1. Calcinated Magma Cleaver (HP: 1,050 | Stagger: 400) — Sweeping molten blade

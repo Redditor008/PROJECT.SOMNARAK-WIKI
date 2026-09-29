@@ -18,7 +18,7 @@
 |---|---|
 | Official name | I Alone Crossed Shroud |
 | Set | Far Shore |
-| Type / grade / element | Suit / δ — Critical / Lament — Deep Blue |
+| Type / grade / element | Suit / δ — Critical / Lament |
 | Status | Restricted border route issue |
 | Maximum amount | 2 — Limited |
 | Current bearer | Cartographer Yeonhwa |

@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Mixed — A tree-beast split crown-to-root, each half a lurching creature of pale wood dragging itself on half a root-system, the tear between them glowing. Bloodless-warm, it smells of ash; two halves of one creature, crawling. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Exposed Root* [**Debuff**] } | "The tree is half-uprooted — and the roots that show are black with void." | [The Tree's exposed roots radiate void; the target feels the pull of the hollow beneath.] | *Target suffers a Void mark; the ground is not trustworthy.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Tree. |
-| { *The Leaning* [**Debuff**] } | "The tree tilts — torn half from the earth, suspended between standing and falling." | [The Tree's instability spreads; the target feels caught between states.] | *Target loses clarity; they are between rooted and unrooted.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Falling Branch* [**Attack**] } | "A branch, dead and void-blackened, snaps and falls — heavy, jagged, final." | [A void-corrupted branch crashes down.] | *Inflicts Void damage; the dead wood carries absence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tree is shaken. |
-| { *The Full Uprooting* [**Attack**] } | "The tree tears free entirely — and the void beneath its roots is exposed." | [The Tree is fully uprooted; the hollow below erupts.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tree is felled. |
-| { *The Dead Forest* [**Ultimate**] } | "Every tree tears free — and beneath them all, the same void waits." | [The Tree's failure spreads; the whole field is uprooted.] | *All in range suffer Pale White erosion for three turns in the dead forest.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Exposed Root* [**Debuff**] } | "The tree is half-uprooted — and the roots that show are black with void." | [The Tree's exposed roots radiate void; the target feels the pull of the hollow beneath.] | *Target suffers a Void mark; the ground is not trustworthy.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Tree. |
+| { *The Leaning* [**Debuff**] } | "The tree tilts — torn half from the earth, suspended between standing and falling." | [The Tree's instability spreads; the target feels caught between states.] | *Target loses clarity; they are between rooted and unrooted.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Falling Branch* [**Attack**] } | "A branch, dead and void-blackened, snaps and falls — heavy, jagged, final." | [A void-corrupted branch crashes down.] | *Inflicts Void damage; the dead wood carries absence.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tree is shaken. |
+| { *The Full Uprooting* [**Attack**] } | "The tree tears free entirely — and the void beneath its roots is exposed." | [The Tree is fully uprooted; the hollow below erupts.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tree is felled. |
+| { *The Dead Forest* [**Ultimate**] } | "Every tree tears free — and beneath them all, the same void waits." | [The Tree's failure spreads; the whole field is uprooted.] | *All in range suffer Void erosion for three turns in the dead forest.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -208,7 +208,7 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a root-charm of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a root-charm of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Yggdrasil Wound (O-Iα-973 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Tree formed from a mind divided by loss. Held at Zone B, deep tunnels. The Tree is perceived mentally rather than physically.
+Yggdrasil Wound (O-Iα-973 [VS]) is logged as a Subject-Mind manifestation expressing Void. The Tree formed from a mind divided by loss. Held at Zone B, deep tunnels. The Tree is perceived mentally rather than physically.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through consciousness and tunnel memories. Personnel experience divided identity and warmth inside emptiness. Its warmth increases when a memory is denied.
@@ -344,7 +344,7 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 > *“The tree of absence grows from the wound. The tearing does not heal.”* — Mender, Tunnels
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-973 [VS]` · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `O-Iα-973 [VS]` · Void · Subject-Mind manifestation
 **Common Name:** Yggdrasil Wound
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial

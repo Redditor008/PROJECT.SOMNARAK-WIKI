@@ -18,12 +18,12 @@
 |---|---|
 | Official name | The Giant’s Maul |
 | Set | Room to Stand |
-| Type / grade / element | Weapon / γ — Major / Weight — Black |
+| Type / grade / element | Weapon / γ — Major / Weight |
 | Status | Active; two-person set-down procedure required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Sentinel Harin |
 | Resting form | A matte black two-handed Han-steel maul whose head appears too dense for the shaft holding it. |
-| Active form | Black pressure rings spread from the head into the ground or obstacle the bearer has chosen. |
+| Active form | Weight pressure rings spread from the head into the ground or obstacle the bearer has chosen. |
 | Recognition rule | The grip refuses to warm until the bearer names both the burden being moved and the point where it will be set down. |
 
 ## EXTRACTION & BINDING
@@ -56,7 +56,7 @@
 
 ### Appearance
 
-The Giants Maul is a heavy black two-hand maul of dense Han iron, its head broad and rounded and its face unpolished, with a faint grey line where a load limit is marked. The haft is long and ribbed, wrapped in black Han-grip, and ends in an open grip cuff that can be released from behind by a supporting partner. The maul sends a black Weight line through a selected obstruction, bracing point, or hostile force, making the obstacle carry the pressure it has been placing on others. When a bearer and a second person name how the load will be divided, it distributes a high strike across prepared ground and up to three aligned pressure points. If the bearer strikes without a set-down plan, the head becomes immovable. It rests on a marked floor cradle, never hung on a wall. The maul is rested on a marked floor cradle where the bearer names what was moved and what remained unmoved, and it is never hung on a wall or stored upright.
+The Giants Maul is a heavy black two-hand maul of dense Han iron, its head broad and rounded and its face unpolished, with a faint grey line where a load limit is marked. The haft is long and ribbed, wrapped in Weight Han-grip, and ends in an open grip cuff that can be released from behind by a supporting partner. The maul sends a black Weight line through a selected obstruction, bracing point, or hostile force, making the obstacle carry the pressure it has been placing on others. When a bearer and a second person name how the load will be divided, it distributes a high strike across prepared ground and up to three aligned pressure points. If the bearer strikes without a set-down plan, the head becomes immovable. It rests on a marked floor cradle, never hung on a wall. The maul is rested on a marked floor cradle where the bearer names what was moved and what remained unmoved, and it is never hung on a wall or stored upright.
 
 ### Basic attack— *Make Room*
 

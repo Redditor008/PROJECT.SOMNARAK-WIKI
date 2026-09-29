@@ -22,7 +22,7 @@
 | Entity | Panopticon — 벽 속의 감시자 |
 | Type / Manifestation | Subject — Subject-Phantasmal |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | Unblinking eyes embedded in walls, ceilings, and doorframes; a translucent watcher appears only when an observer accepts being seen. |
 | Gauge / Pressure | 35–50% / Void 7–17 |
 | Observation | 2 — Basic |

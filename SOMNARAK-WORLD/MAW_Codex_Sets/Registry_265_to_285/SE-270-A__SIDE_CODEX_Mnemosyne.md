@@ -22,7 +22,7 @@
 | Entity | Mnemosyne — 기억의 호수 |
 | Type / Manifestation | Object/Place — Place-Lament |
 | Coherence / Potency | IV — Entity / γ — Major |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | A shoreless subterranean lake of viscous liquid memory reflecting the viewer’s whole life rather than their face. |
 | Gauge / Pressure | 45–65% / Lament 18–41 |
 | Observation | 3 — Advanced |

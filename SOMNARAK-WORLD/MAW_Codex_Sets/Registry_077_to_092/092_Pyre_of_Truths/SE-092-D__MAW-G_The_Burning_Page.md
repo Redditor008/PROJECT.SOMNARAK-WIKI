@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Burning Page |
 | Set | Cindered Testament |
-| Type / grade / element | Stigma, page-tile / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Stigma, page-tile / δ — Critical / Grudge |
 | Slot | Tail |
 | Status | Sealed-page custody; no standing bearer after a completed reading |
 | Maximum amount | One unread page per authorized event; source chance remains 4% |

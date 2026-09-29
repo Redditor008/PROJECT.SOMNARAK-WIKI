@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Hazard-Tale |
 | **Physical Form** | Non-Organic — A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's tale pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament / Deep Blue]]** | When the entity first fixes on a target. |
-| { *The Tale Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament tale sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[18 Lament DMG [Lament / Deep Blue]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[22 Lament DMG [Lament / Deep Blue]]** | When the entity is cornered or starved. |
-| { *The Tale Collapse* [**Ultimate**] } | "The tale breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament / Deep Blue] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's tale pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
+| { *The Tale Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament tale sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[18 Lament DMG [Lament]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[22 Lament DMG [Lament]]** | When the entity is cornered or starved. |
+| { *The Tale Collapse* [**Ultimate**] } | "The tale breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil.
 
 **Notable Features:**
-- Expresses Lament (Deep Blue) pressure in a tale register.
+- Expresses Lament pressure in a tale register.
 - The hazard form is unmistakable — this is a tale entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a single-edged blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
 
 **Damage:** Lament 11–18 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
@@ -178,7 +178,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a flowing veil of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,7 +188,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -274,7 +274,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-930 [LH]` · Outside Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Hazard-Tale manifestation
+**Classification:** Sorrow Entity — `O-IVδ-930 [LH]` · Outside Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Lament · Hazard-Tale manifestation
 
 **Common Name:** Once Told
 
@@ -289,7 +289,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the tale register specifically — it is the primary channel of contact.
 
-**Cross-References:** Outside Sorrow (외한) · Lament (Deep Blue) · Hazard-Tale · Manifestation Classification
+**Cross-References:** Outside Sorrow (외한) · Lament · Hazard-Tale · Manifestation Classification
 
 ### Registry Addendum
 

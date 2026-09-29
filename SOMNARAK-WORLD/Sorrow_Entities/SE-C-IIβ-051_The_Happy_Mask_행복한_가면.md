@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats smiling |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A beautiful lacquered mask with a fixed gentle smile, smooth and warm, sized to a face. Its interior is dark and wrong, absorbing the wearer's true expression so only the painted smile shows. Bloodless-cold against the skin, it smells of ash. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Painted Smile* [**Debuff**] } | "The mask grins — and the grin is so wide, so bright, that your own smile rises to meet it, and neither is real." | [The Mask imposes false happiness; the target's genuine emotions are suppressed.] | *Target suffers a Void mark; their real feelings are being buried.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target sees the Mask. |
-| { *The Hiding Place* [**Debuff**] } | "Behind the smile, there is nothing — and the nothing is hungry." | [The Mask's hollow interior draws the target inward; they feel the void behind the joy.] | *Target loses clarity; the false happiness is consuming them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target wears the Mask. |
-| { *The Beaming Strike* [**Attack**] } | "The mask flashes its brightest smile — and the brightness burns." | [A burst of false joy strikes the target like light.] | *Inflicts Void damage; the artificial happiness erodes real identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mask is struck. |
-| { *The Shattered Smile* [**Attack**] } | "The mask cracks — and behind it, the void that was hiding as joy is revealed." | [The Mask breaks, exposing the hollow behind it.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mask is damaged. |
-| { *Everyone Is Happy Now* [**Ultimate**] } | "The mask's smile spreads to every face — and behind every smile, the same void waits." | [The Mask extends its false joy across the whole field.] | *All in range suffer Pale White erosion for three turns of hollow happiness.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Painted Smile* [**Debuff**] } | "The mask grins — and the grin is so wide, so bright, that your own smile rises to meet it, and neither is real." | [The Mask imposes false happiness; the target's genuine emotions are suppressed.] | *Target suffers a Void mark; their real feelings are being buried.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target sees the Mask. |
+| { *The Hiding Place* [**Debuff**] } | "Behind the smile, there is nothing — and the nothing is hungry." | [The Mask's hollow interior draws the target inward; they feel the void behind the joy.] | *Target loses clarity; the false happiness is consuming them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target wears the Mask. |
+| { *The Beaming Strike* [**Attack**] } | "The mask flashes its brightest smile — and the brightness burns." | [A burst of false joy strikes the target like light.] | *Inflicts Void damage; the artificial happiness erodes real identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mask is struck. |
+| { *The Shattered Smile* [**Attack**] } | "The mask cracks — and behind it, the void that was hiding as joy is revealed." | [The Mask breaks, exposing the hollow behind it.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mask is damaged. |
+| { *Everyone Is Happy Now* [**Ultimate**] } | "The mask's smile spreads to every face — and behind every smile, the same void waits." | [The Mask extends its false joy across the whole field.] | *All in range suffer Void erosion for three turns of hollow happiness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -189,12 +189,12 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|---|
 | 10 Seconds | The Happy Mask rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping The Happy Mask activates its primary resonance: Makes the wearer appear happy regardless of their true state. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of smiling for others while wanting to cry; the bearer begins perceiving echoes of citizens learned to perform happiness to survive social and institutional demands. the false smile became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within The Happy Mask begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within The Happy Mask begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear The Happy Mask too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The wearer cannot express genuine sadness while it is worn. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Happy Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-C-01, contained with the Masked Troupe, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Happy Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-C-01, contained with the Masked Troupe, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -218,7 +218,7 @@ The escalation pattern is specific to The Happy Mask: it is not a generic breach
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -239,7 +239,7 @@ The escalation pattern is specific to The Happy Mask: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -257,7 +257,7 @@ The escalation pattern is specific to The Happy Mask: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a mask-charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a mask-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -313,7 +313,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Happy Mask (C-IIβ-051 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mask formed from the sorrow of pretending to be happy. Held at SECTOR-C-01, contained with the Masked Troupe. The mask has never moved without a wearer.
+The Happy Mask (C-IIβ-051 [VO]) is logged as a Object-Void manifestation expressing Void. The Mask formed from the sorrow of pretending to be happy. Held at SECTOR-C-01, contained with the Masked Troupe. The mask has never moved without a wearer.
 
 **Entry 2 — <Excerpt from Field Log, Year 4228>**
 It resonates with the Weeping despite its apparent happiness.
@@ -396,7 +396,7 @@ Some sorrows are about loss. The Happy Mask is about performance — the lifelon
 > *“The gentlest and the saddest of the Troupe.”* — Elder, Mask Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-051 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-051 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Happy Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic

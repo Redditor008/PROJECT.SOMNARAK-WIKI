@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Weapon — lens-blade |
 | **Grade** | γ — Major |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Maximum Amount** | 3 — Standard |
 | **Echo Cost** | 40 Sorrow Echoes |
 | **Bearer Requirement** | Must name a destination before drawing the Lens |

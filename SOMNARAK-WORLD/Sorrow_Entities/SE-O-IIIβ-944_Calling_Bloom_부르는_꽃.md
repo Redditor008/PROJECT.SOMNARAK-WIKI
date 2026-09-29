@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Wanders the wood, calling a name that was used to lure her there |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한 — Oehan) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Tale |
 | **Physical Form** | Mixed — The small body of a child, no taller than a wheat-sheaf, with the too-still, stark look of a figure from an old woodcut: barefoot, in a tattered scavenger's dress faded to grey. From the crown of her head grows a single bloom the size of a fist, pale petals ringed around one wet, watching eye that blinks out of sync with her own. Pale roots trail behind her, faint and never quite touching the earth. |
 | **Movement** | Mobile — she wanders without rest, drawn toward any voice, always deeper into the wood or back toward its edge, never arriving. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *A Familiar Voice* [**Debuff**] } | "Somewhere among the trees, a voice you love calls your name — clear, close, and a little afraid." | [The bloom shapes a loved one's voice out of the leaves, the way the wolf shaped a grandmother's voice at the door.] | *The target hears a voice that cannot be there; composure frays as longing and dread arrive together.* **[8 Deep Blue DMG [Deep Blue / Lament]]** | When the target first enters the wood. |
-| { *The Eye That Watches* [**Debuff**] } | "The bloom turns. Its single eye opens and finds you — and you feel, horribly, that it has always known your name." | [The eye fixes on the target and reads the shape of the one they miss most, the way an old wood knows which name to steal.] | *The target is seen to the core; the bloom learns the exact voice it will use next.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers or looks at the bloom. |
-| { *The Wandering Feet* [**Attack**] } | "Your boots begin to move on their own — toward the voice, of course. Toward the voice is always the way the feet go." | [The target's feet carry them inward; the wood rearranges so every step leads deeper, as the path in the old tales leads always deeper.] | *The target is drawn toward the bloom; composure drains with each involuntary step toward the clearing.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the target tries to leave. |
-| { *Deeper and Deeper* [**Attack (heavy)**] } | "The trees lean in. The path is gone. You are very deep, and the voice is very close, and the light is going." | [The wood folds around the target, isolating them; the mimicked voice is now beside them, as the wolf is beside the child before the child knows.] | *The target loses their bearings entirely; the bloom's gauge surges as it nears its meal — three steps too far, and no steps back.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the target answers the voice. |
-| { *One With the Bloom* [**Ultimate**] } | "She holds out the flower, eye up, petals wide — 'Touch it,' the voice says, in the exact warm tone of the one you lost. 'It's me. I'm right here.'" | [The bloom offers itself; to touch it is to be read in fully and folded into the flower, root and all — the curse at the heart of the wood.] | *All in range are gripped by the compulsion to reach the bloom for three turns — and to touch it is to vanish, as she did.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| { *A Familiar Voice* [**Debuff**] } | "Somewhere among the trees, a voice you love calls your name — clear, close, and a little afraid." | [The bloom shapes a loved one's voice out of the leaves, the way the wolf shaped a grandmother's voice at the door.] | *The target hears a voice that cannot be there; composure frays as longing and dread arrive together.* **[8 Lament DMG [Lament]]** | When the target first enters the wood. |
+| { *The Eye That Watches* [**Debuff**] } | "The bloom turns. Its single eye opens and finds you — and you feel, horribly, that it has always known your name." | [The eye fixes on the target and reads the shape of the one they miss most, the way an old wood knows which name to steal.] | *The target is seen to the core; the bloom learns the exact voice it will use next.* **[10 Lament DMG [Lament]]** | When the target lingers or looks at the bloom. |
+| { *The Wandering Feet* [**Attack**] } | "Your boots begin to move on their own — toward the voice, of course. Toward the voice is always the way the feet go." | [The target's feet carry them inward; the wood rearranges so every step leads deeper, as the path in the old tales leads always deeper.] | *The target is drawn toward the bloom; composure drains with each involuntary step toward the clearing.* **[14-22 Lament DMG [Lament]]** | When the target tries to leave. |
+| { *Deeper and Deeper* [**Attack (heavy)**] } | "The trees lean in. The path is gone. You are very deep, and the voice is very close, and the light is going." | [The wood folds around the target, isolating them; the mimicked voice is now beside them, as the wolf is beside the child before the child knows.] | *The target loses their bearings entirely; the bloom's gauge surges as it nears its meal — three steps too far, and no steps back.* **[24-36 Lament DMG [Lament]]** | When the target answers the voice. |
+| { *One With the Bloom* [**Ultimate**] } | "She holds out the flower, eye up, petals wide — 'Touch it,' the voice says, in the exact warm tone of the one you lost. 'It's me. I'm right here.'" | [The bloom offers itself; to touch it is to be read in fully and folded into the flower, root and all — the curse at the heart of the wood.] | *All in range are gripped by the compulsion to reach the bloom for three turns — and to touch it is to vanish, as she did.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -120,7 +120,7 @@
 - **Manifestation:** Subject-Tale
 - **Primary marker:** A small barefoot child with a single blue-eyed bloom growing from her crown.
 - **Position / movement:** Wanders without rest, pausing to call a name; glides on trailing roots.
-- **Element signature:** Lament (Deep Blue) — the wood hushes and mist pools where she walks.
+- **Element signature:** Lament — the wood hushes and mist pools where she walks.
 - **Registered location:** The Muttering Wood, beyond SECTOR-E-02
 
 ### Detailed Appearance Profile
@@ -129,7 +129,7 @@
 |---|---|
 | **Form** | Wheat-sheaf-height child in an oversized grey dress; a fist-sized blue bloom with one eye crowns her head. |
 | **Position / movement** | Endless wandering toward voices; glides on roots that do not touch the ground; pauses to call. |
-| **Material / signature** | Birch-grey skin, rotted cloth, one living luminescent bloom; Lament (Deep Blue); an unnatural wood-silence and pooling mist. |
+| **Material / signature** | Birch-grey skin, rotted cloth, one living luminescent bloom; Lament; an unnatural wood-silence and pooling mist. |
 | **Distinctive markers** | The watching eye in the bloom; the voice that comes from the trees, not the child; the never-grounded roots. |
 | **Identification** | Distinguish from other forest or Lament entities by the crown-bloom with its single eye and the tell-tale mimicked voice that calls from everywhere at once — she is the only entity that speaks in a voice she has stolen. |
 
@@ -154,7 +154,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Calling Bloom is recorded as a Subject with Subject-Tale manifestation and Lament (Deep Blue) elemental expression. The current record places her in the Muttering Wood, beyond SECTOR-E-02; personnel should not transfer assumptions from another forest or flower entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the mimicked voice, intrusive longing, and the slow compulsion to walk toward it.
+The gauge response is only meaningful in context. Calling Bloom is recorded as a Subject with Subject-Tale manifestation and Lament elemental expression. The current record places her in the Muttering Wood, beyond SECTOR-E-02; personnel should not transfer assumptions from another forest or flower entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the mimicked voice, intrusive longing, and the slow compulsion to walk toward it.
 
 **Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the child has been recognised as herself — called by her own name, not the brother's — and that is the rarest mercy in her existence, the closest thing to a kindness the wood ever allows. An increase means the work read as the brother's rejection, which is the wound the bloom first used on her. Any voice that answers the bloom's call must be logged at once; an answered call is the single most dangerous moment in her containment.
 
@@ -202,10 +202,10 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Appearance:** A mantle of layered blue petals that fastens at the throat with a single small eye-petal; it is cool and faintly luminous, and rustles softly when the wearer moves.
 **Resistances:**
-- Grudge (Crimson): 1.1 (Weak)
-- Lament (Deep Blue): 0.3 (Resistant)
-- Weight (Black): 1.2 (Weak)
-- Void (Pale White): 1.0 (Normal)
+- Grudge: 1.1 (Weak)
+- Lament: 0.3 (Resistant)
+- Weight: 1.2 (Weak)
+- Void: 1.0 (Normal)
 **Max Amount:** 3
 **Cost:** 20 Sorrow Echoes
 
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Calling Bloom (O-IIIβ-944 [LS]) is logged as a Subject-Tale manifestation expressing Lament (Deep Blue). The entity formed when a wilderness child, Nari, touched a watching flower at the heart of the Muttering Wood while searching for her brother. Held/managed in the Muttering Wood, beyond SECTOR-E-02. She wanders, calls stolen names, and bears a single watching bloom upon her crown.
+Calling Bloom (O-IIIβ-944 [LS]) is logged as a Subject-Tale manifestation expressing Lament. The entity formed when a wilderness child, Nari, touched a watching flower at the heart of the Muttering Wood while searching for her brother. Held/managed in the Muttering Wood, beyond SECTOR-E-02. She wanders, calls stolen names, and bears a single watching bloom upon her crown.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, the patrol reports total wood-silence followed by a perfect imitation of Specialist Hanul Grey's late mother. Specialist Hanul Grey was restrained before reaching the source. The child was located at the clearing's edge — wheat-sheaf height, grey dress, a blue bloom with one eye. When addressed as "Nari," the bloom's eye half-closed and the voice stopped. Note: the danger is not the child. The danger is that the voice is always exactly right.
@@ -371,7 +371,7 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIβ-944 [LS]` · Outside origin · Fragment (III) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Tale manifestation
+**Classification:** Sorrow Entity — `O-IIIβ-944 [LS]` · Outside origin · Fragment (III) coherence · Moderate (β) potency · Lament · Subject-Tale manifestation
 **Common Name:** Calling Bloom (부르는 꽃)
 **Containment Status:** Uncontained / Managed — the Muttering Wood, beyond SECTOR-E-02
 **Comprehension Level:** 2 — Basic
@@ -403,7 +403,7 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 ### Registry Trivia
 
 - **Classification detail:** Calling Bloom is a Subject with Fragment (III) coherence and Moderate (β) potency.
-- **Field detail:** Her defining element is Lament (Deep Blue), and her registered location is the Muttering Wood, beyond SECTOR-E-02.
+- **Field detail:** Her defining element is Lament, and her registered location is the Muttering Wood, beyond SECTOR-E-02.
 - **Recognition detail:** Personnel should identify her by the crown bloom with its single watching eye and the tell-tale mimicked voice that calls from the trees — before trusting any familiar voice heard in the wood.
 - **Record detail:** Among Subject-Tale entities, she is distinguished by her mechanism: she is the only recorded entity whose lure is a stolen voice, and whose sorrow is to be forever caught by the very call she went to answer.
 - **Containment detail:** Managed does not mean harmless. Her influence reaches past the wood's edge through the mimicked voice; personnel on perimeter report hearing loved ones who are not there. The warning signs are a comfort, not a seal.

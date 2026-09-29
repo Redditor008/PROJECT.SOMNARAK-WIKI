@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A quivering fang of crimson Han-iron, dark until an erased feature attempts to reappear. Its inner curve reflects missing roads rather than the surrounding ground. Extraction succeeded after an active map-scrub seal was disabled without striking Vestige.
+A quivering fang of Grudge Han-iron, dark until an erased feature attempts to reappear. Its inner curve reflects missing roads rather than the surrounding ground. Extraction succeeded after an active map-scrub seal was disabled without striking Vestige.
 
 Binding requires the wielder to distinguish a continuing act of erasure from completed loss. Rejection makes old scars ache wherever the user wishes history could be restored by force.
 

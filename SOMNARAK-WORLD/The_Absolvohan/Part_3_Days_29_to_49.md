@@ -552,7 +552,7 @@ This is an existential emergency! If both bird chambers overload simultaneously,
 
 Both specialists clear the overloads with 9 seconds remaining! The resonance frequency collapses back into safe baseline ranges. The three birds cease their unison chirp.
 
-##### Ordeal Manifestation: Crimson Second Watch Ordeal — The Sanguine Larvae
+##### Ordeal Manifestation: Rust Second Watch Ordeal — The Sanguine Larvae
 At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt across Floor 2 and Floor 3, spawning scuttling Sorrow Larvae that seek out containment doors to cause instant breaches!
 
 ```text
@@ -780,7 +780,7 @@ Director Majin establishes split-team GBS sector commands:
 | Meltdowns Cleared   | 4 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Crimson Second Watch                        |
+| Ordeals Suppressed  | 1 Rust Second Watch                        |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -1774,7 +1774,7 @@ At 14:40, the space outside Gate 05 shatters like crystalline glass:
 | INTRUSION POINT : FLOOR 5 BORDER OBSERVATION GATE (NODE 02)         |
 | HOSTILE PARAMETERS : HP 240/240 | Posture 120/120 | Speed 5 (3 AP)  |
 | ATTACK AFFINITY : Violet (Pure Disruption / Prismatic Decay)        |
-| AFFINITY VULNERABILITY: Void (Pierce: 1.5x) & Lament (White: 1.25x) |
+| AFFINITY VULNERABILITY: Void (Pierce: 1.5x) & Lament (Clear: 1.25x) |
 | SPECIAL THREAT : Dimensional reach allows attacks across 4 n        |
 | TACTICAL ORDERS : ANCHOR AT NODE 02; BREAK FINGERS WITH SCALP       |
 +=====================================================================+
@@ -2052,7 +2052,7 @@ Deep within Floor 6, the hydraulic ballast meters register **49.100 tons** of st
 
 Seiyon's holographic form materializes beside him: *"Forty-nine point one tons, Majin. We are less than one ton away from Day 160."*
 
-Majin gazes into the dark dunes beyond Gate 05: *"Four days until the Pale Third Watch. Alert Marjuk on Floor 6. When the shadow falls, we hold the line."*
+Majin gazes into the dark dunes beyond Gate 05: *"Four days until the Ashen Third Watch. Alert Marjuk on Floor 6. When the shadow falls, we hold the line."*
 
 ### Day 49
 ### Story — Dialogue

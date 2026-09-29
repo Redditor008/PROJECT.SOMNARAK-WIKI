@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Pyre Grimoire & Ash Lance |
 | Set | Cindered Testament |
-| Type / grade / element | Weapon / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Weapon / δ — Critical / Grudge |
 | Category | MAGIC (Grimoire-Catalyst / Flame Lance) |
 | Status | Active; archive-purpose authorization required |
 | Maximum amount | 2 — Limited |

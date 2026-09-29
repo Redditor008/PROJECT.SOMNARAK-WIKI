@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A crimson Han-iron Tail charm that heats when anger is deposited without provenance, review, or release duty. The Vault granted it after Haneulash returned one grievance to accountable care. Bestowal chance is 4%.
+A Grudge Han-iron Tail charm that heats when anger is deposited without provenance, review, or release duty. The Vault granted it after Haneulash returned one grievance to accountable care. Bestowal chance is 4%.
 
 ## Appearance
 

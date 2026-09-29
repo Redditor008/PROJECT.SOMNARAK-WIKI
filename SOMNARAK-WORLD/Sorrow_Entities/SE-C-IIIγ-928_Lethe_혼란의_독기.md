@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Hazard-Mind |
 | **Physical Form** | Organic — An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void / Pale White]]** | When the entity first fixes on a target. |
-| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[21 Void DMG [Void / Pale White]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[26 Void DMG [Void / Pale White]]** | When the entity is cornered or starved. |
-| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[23 Void DMG [Void / Pale White] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
+| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[26 Void DMG [Void]]** | When the entity is cornered or starved. |
+| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination.
 
 **Notable Features:**
-- Expresses Void (Pale White) pressure in a mind register.
+- Expresses Void pressure in a mind register.
 - The hazard form is unmistakable — this is a mind entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -170,7 +170,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a single-edged blade of pale Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
 
 **Damage:** Void 14–22
 **Speed:** 2 (Normal)
@@ -191,7 +191,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -209,7 +209,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -301,7 +301,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-928 [VH]` · City Sorrow origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Hazard-Mind manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-928 [VH]` · City Sorrow origin · Fragment (III) coherence · Major (γ) potency · Void · Hazard-Mind manifestation
 
 **Common Name:** Lethe
 
@@ -316,7 +316,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the mind register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Void (Pale White) · Hazard-Mind · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Void · Hazard-Mind · Manifestation Classification
 
 ### Registry Addendum
 

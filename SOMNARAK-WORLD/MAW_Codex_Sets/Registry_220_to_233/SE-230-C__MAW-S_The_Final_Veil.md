@@ -15,7 +15,7 @@
 
 ## IDENTITY & BINDING
 
-A flowing suit of pale Han-gossamer that shifts like breath after breathing has stopped. Thousands of indistinct faces cross the outer cloth; the inner surface shows only the wearer’s living pulse.
+A flowing suit of Void Han-gossamer that shifts like breath after breathing has stopped. Thousands of indistinct faces cross the outer cloth; the inner surface shows only the wearer’s living pulse.
 
 The Veil condenses from a final memory’s receding edge. It binds when the wearer names one unfinished living obligation and appoints a partner to confirm it after exposure.
 
@@ -23,7 +23,7 @@ Iseulfros wore the first Veil during a corrupt breach. She carried two witnesses
 
 ## Appearance
 
-The Final Veil is a flowing suit of pale Han-gossamer that shifts like breath after breathing has stopped. Thousands of indistinct faces cross its outer cloth — the final moments it has received — while the inner surface shows only one thing: the wearer’s own living pulse, kept visible like a lamp in a corridor. It condenses from a final memory’s receding edge, and it binds when the wearer names one unfinished living obligation and appoints a partner to confirm it after exposure. In the field it separates that ongoing pulse from incoming final moments, letting Void pass over the outer faces without ending the wearer’s personal continuity. The cost is a haunting one — the wearer becomes faintly absent and may feel already dead, remembered, and no longer responsible for present choice. A wearer speaking of current events in past tense is the first warning, one ending adhering to the inner surface the second. It is maintained hung beside an active clock and an open task, cleared only when the inner pulse resumes before the outer faces. The partner states the obligation and waits for a present-tense answer before removal.
+The Final Veil is a flowing suit of Void Han-gossamer that shifts like breath after breathing has stopped. Thousands of indistinct faces cross its outer cloth — the final moments it has received — while the inner surface shows only one thing: the wearer’s own living pulse, kept visible like a lamp in a corridor. It condenses from a final memory’s receding edge, and it binds when the wearer names one unfinished living obligation and appoints a partner to confirm it after exposure. In the field it separates that ongoing pulse from incoming final moments, letting Void pass over the outer faces without ending the wearer’s personal continuity. The cost is a haunting one — the wearer becomes faintly absent and may feel already dead, remembered, and no longer responsible for present choice. A wearer speaking of current events in past tense is the first warning, one ending adhering to the inner surface the second. It is maintained hung beside an active clock and an open task, cleared only when the inner pulse resumes before the outer faces. The partner states the obligation and waits for a present-tense answer before removal.
 
 ## PROTECTION FILE
 

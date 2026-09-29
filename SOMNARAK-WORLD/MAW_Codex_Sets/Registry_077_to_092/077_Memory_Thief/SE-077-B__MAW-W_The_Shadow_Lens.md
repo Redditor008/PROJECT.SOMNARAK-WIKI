@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Lens |
 | Set | Borrowed Absence |
-| Type / grade / element | Weapon / β — Moderate / Void — Pale White |
+| Type / grade / element | Weapon / β — Moderate / Void |
 | Status | Active; issue only with a paired identity-verification partner |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Nari Kwon |

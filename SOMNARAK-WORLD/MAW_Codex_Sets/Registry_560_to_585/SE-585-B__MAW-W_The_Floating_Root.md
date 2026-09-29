@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A deep-blue Han-crystal club grown around a pale root grip. It remains a finger-width above any surface unless forced downward; active grain points toward places that still hold the target’s emotional ties. Extraction occurred beneath Rootless’s moving shadow after three temporary route markers were removed in order.
+A Lament Han-crystal club grown around a pale root grip. It remains a finger-width above any surface unless forced downward; active grain points toward places that still hold the target’s emotional ties. Extraction occurred beneath Rootless’s moving shadow after three temporary route markers were removed in order.
 
 Binding requires the wielder to name a lost place and one living relationship that does not depend on returning there. A bearer who names only geography feels every unreachable place pull on the weapon at once.
 

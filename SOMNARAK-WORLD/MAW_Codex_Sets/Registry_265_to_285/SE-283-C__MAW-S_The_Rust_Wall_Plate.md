@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A black Han-steel harness assembled from rusted boundary plates. It condenses after a stable dream crossing. Binding requires a named passage partner from the opposite side.
+A Weight Han-steel harness assembled from rusted boundary plates. It condenses after a stable dream crossing. Binding requires a named passage partner from the opposite side.
 
 Iseulfros wore it during corridor compression and could not be forced from the route. Afterward, personnel unconsciously addressed everyone except her during arrival review; the armor had made resistance to movement look like refusal to belong.
 

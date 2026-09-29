@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A black Han-steel hammer whose reflection rises before the head. It forms after missing identity is documented without substitution.
+A Weight Han-steel hammer whose reflection rises before the head. It forms after missing identity is documented without substitution.
 
 Durivel moved through a reflective wall to strike an active Archive deletion. The borrowed district-face remained untouched; erased-name rage settled into his hands.
 

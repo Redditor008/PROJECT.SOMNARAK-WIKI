@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A bell identical to the Orphaned Bell but silent, its surface hollowed and pale, as though the sorrow that should ring inside was scooped out. The metal is bloodless-cold and light for its size; it absorbs sound, and smells of ash — the Orphaned Bell's emptied twin. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Toll* [**Debuff**] } | "The bell swings — and the sound it makes is the sound of nothing hitting nothing." | [The Bell's hollow toll creates a void of anti-sound.] | *Target suffers a Void mark; the hollow noise drains meaning.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target hears the Bell. |
-| { *The Echoing Emptiness* [**Debuff**] } | "The toll echoes — and each echo is smaller, thinner, until only the void where sound should be remains." | [The Bell's diminishing echoes create a void that pulls at the target.] | *Target loses clarity; the silence behind the sound is consuming.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains within earshot. |
-| { *The Void Peal* [**Attack**] } | "The bell's hollow fills with anti-sound — and then bursts outward." | [A blast of concentrated nothing strikes.] | *Inflicts Void damage; the toll erases a portion of presence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bell is struck. |
-| { *The Full Hollow* [**Attack**] } | "The bell reveals what is inside it — and inside, there is nothing, and the nothing is vast." | [The Bell exposes its interior void.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Bell is cracked. |
-| { *The Silent Tower* [**Ultimate**] } | "Every bell in the field goes hollow — and their combined emptiness is absolute, and deafening." | [The Bell extends its hollowness across the whole field.] | *All in range suffer Pale White erosion for three turns of hollow bells.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Empty Toll* [**Debuff**] } | "The bell swings — and the sound it makes is the sound of nothing hitting nothing." | [The Bell's hollow toll creates a void of anti-sound.] | *Target suffers a Void mark; the hollow noise drains meaning.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target hears the Bell. |
+| { *The Echoing Emptiness* [**Debuff**] } | "The toll echoes — and each echo is smaller, thinner, until only the void where sound should be remains." | [The Bell's diminishing echoes create a void that pulls at the target.] | *Target loses clarity; the silence behind the sound is consuming.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains within earshot. |
+| { *The Void Peal* [**Attack**] } | "The bell's hollow fills with anti-sound — and then bursts outward." | [A blast of concentrated nothing strikes.] | *Inflicts Void damage; the toll erases a portion of presence.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bell is struck. |
+| { *The Full Hollow* [**Attack**] } | "The bell reveals what is inside it — and inside, there is nothing, and the nothing is vast." | [The Bell exposes its interior void.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bell is cracked. |
+| { *The Silent Tower* [**Ultimate**] } | "Every bell in the field goes hollow — and their combined emptiness is absolute, and deafening." | [The Bell extends its hollowness across the whole field.] | *All in range suffer Void erosion for three turns of hollow bells.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The behavior table is a snapshot, not a system. The classification and origin co
 |---|---|---|
 | 10 Seconds | Clapperless rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Clapperless activates its primary resonance: Reveals one sealed warning or opens one sealed passage. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of knowing a danger was present but no one heard it; the bearer begins perceiving echoes of a warning bell failed before a han overflow, leaving the affected district without notice. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Clapperless begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Clapperless begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Clapperless too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user carries the weight of every ignored warning. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Clapperless: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, near the Orphaned Bell, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Clapperless: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, near the Orphaned Bell, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Clapperless (C-IIβ-340 [D]) is logged as a Object-Void manifestation expressing Void (Pale White). The Bell formed from warnings that never sounded. Held at SECTOR-A-01, near the Orphaned Bell. It never rings through ordinary force.
+Clapperless (C-IIβ-340 [D]) is logged as a Object-Void manifestation expressing Void. The Bell formed from warnings that never sounded. Held at SECTOR-A-01, near the Orphaned Bell. It never rings through ordinary force.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Its vibration is felt through the hand.
@@ -390,7 +390,7 @@ Some sorrows are about cruelty. Clapperless is about the gap between form and fu
 > *“The bell that was a bell in every way except the one that mattered.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-340 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-340 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** Clapperless
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

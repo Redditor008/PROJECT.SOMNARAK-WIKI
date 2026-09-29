@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A narrow crimson Han-iron sword whose flat resembles an unopened petal and whose edge follows one permanent split. It forms from residue shed when the Bloom closes around grief without being touched.
+A narrow Grudge Han-iron sword whose flat resembles an unopened petal and whose edge follows one permanent split. It forms from residue shed when the Bloom closes around grief without being touched.
 
 Binding requires the wielder to identify someone they love and accept a no-contact order for the deployment. During the *Memorial Step Incident*, Durivel used the flat to close a patrol agent’s thorn cuts, then stopped before greeting the agent’s partner; heat along the edge had already made affectionate touch harmful.
 

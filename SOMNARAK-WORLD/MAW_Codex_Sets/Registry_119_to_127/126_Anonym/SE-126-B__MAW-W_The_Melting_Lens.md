@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Melting Lens |
 | Set | Held Shape |
-| Type / grade / element | Weapon / α — Minor / Void — Pale White |
+| Type / grade / element | Weapon / α — Minor / Void |
 | Status | Active; chosen-name witness required |
 | Maximum amount | 5 — Standard |
 | Current bearer | Specialist Nari Kwon |

@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A mirror of red-black ice that drifts with the Desolate's cold currents, its surface reflecting grief back as frozen anger. Fever-cold, it smells of char; look in and your sorrow comes out hard and still. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Frost Face* [**Debuff**] } | "Your reflection appears in the ice — frozen mid-expression, and the expression is fear." | [The Mirror freezes the target's self-image; the reflection is trapped.] | *Target suffers -10 Resilience; they see their own fear locked in ice.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target looks into the Mirror. |
-| { *The Deepening Frost* [**Debuff**] } | "The ice thickens — and so does the distance between you and your reflection." | [The Mirror's frost builds; the target's connection to their image fades.] | *Target loses 10 Resilience; they feel increasingly detached.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stares. |
-| { *The Ice Blade* [**Attack**] } | "A shard of frozen mirror breaks free — and the cold edge cuts clean." | [A frozen mirror-shard launches at the target.] | *Inflicts Crimson pressure and one cold, precise cut.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Mirror is struck. |
-| { *The Shatter Freeze* [**Attack**] } | "The mirror cracks — and every crackline carries frost into whatever it touches." | [The Mirror fractures, sending frost-rifts through the target.] | *A heavy Crimson frost-rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Mirror is pressured. |
-| { *The Permafrost* [**Ultimate**] } | "The cold does not stop — every surface freezes, every reflection locks, and nothing moves." | [The Mirror extends its permafrost across the entire field.] | *All in range suffer Crimson pressure for three turns in the frozen silence.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Frost Face* [**Debuff**] } | "Your reflection appears in the ice — frozen mid-expression, and the expression is fear." | [The Mirror freezes the target's self-image; the reflection is trapped.] | *Target suffers -10 Resilience; they see their own fear locked in ice.* **[10 Grudge DMG [Grudge]]** | When the target looks into the Mirror. |
+| { *The Deepening Frost* [**Debuff**] } | "The ice thickens — and so does the distance between you and your reflection." | [The Mirror's frost builds; the target's connection to their image fades.] | *Target loses 10 Resilience; they feel increasingly detached.* **[10 Grudge DMG [Grudge]]** | When the target stares. |
+| { *The Ice Blade* [**Attack**] } | "A shard of frozen mirror breaks free — and the cold edge cuts clean." | [A frozen mirror-shard launches at the target.] | *Inflicts Grudge pressure and one cold, precise cut.* **[14-22 Grudge DMG [Grudge]]** | When the Mirror is struck. |
+| { *The Shatter Freeze* [**Attack**] } | "The mirror cracks — and every crackline carries frost into whatever it touches." | [The Mirror fractures, sending frost-rifts through the target.] | *A heavy Crimson frost-rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Mirror is pressured. |
+| { *The Permafrost* [**Ultimate**] } | "The cold does not stop — every surface freezes, every reflection locks, and nothing moves." | [The Mirror extends its permafrost across the entire field.] | *All in range suffer Grudge pressure for three turns in the frozen silence.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | Frozen Mirror rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Frozen Mirror activates its primary resonance: Reflects suppressed grief as frozen anger. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of being unable to recognize oneself in one's own pain; the bearer begins perceiving echoes of a traveler carried a mirror through the desolate and watched every familiar face disappear from its surface. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Frozen Mirror begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Frozen Mirror begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Frozen Mirror too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may mistake reflected rage for personal intent. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Frozen Mirror: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at The Desolate — mobile, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Frozen Mirror: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at The Desolate — mobile, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -228,7 +228,7 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -246,7 +246,7 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a mirror-tile of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a mirror-tile of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Mirror (O-Iα-643 [GO]) is logged as a Object-Lament manifestation expressing Grudge (Crimson). The Mirror formed from sorrow that hardened into anger after being denied reflection. Held at The Desolate — mobile. It sings in the Desolate without producing sound.
+Frozen Mirror (O-Iα-643 [GO]) is logged as a Object-Lament manifestation expressing Grudge. The Mirror formed from sorrow that hardened into anger after being denied reflection. Held at The Desolate — mobile. It sings in the Desolate without producing sound.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its cracks respond to suppressed rage.
@@ -382,7 +382,7 @@ Some sorrows mourn a face. Frozen Mirror mourns the recognition — the faces er
 > *“The self made strange by contamination.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-643 [GO]` · Grudge (Crimson) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `O-Iα-643 [GO]` · Grudge · Object-Lament manifestation
 **Common Name:** Frozen Mirror
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial

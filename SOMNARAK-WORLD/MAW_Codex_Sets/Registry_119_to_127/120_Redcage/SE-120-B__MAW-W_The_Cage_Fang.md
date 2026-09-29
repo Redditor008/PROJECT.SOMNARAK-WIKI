@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Cage Fang |
 | Set | Acknowledged Bars |
-| Type / grade / element | Weapon / γ — Major / Grudge — Crimson |
+| Type / grade / element | Weapon / γ — Major / Grudge |
 | Status | Active; release-route and oversight requirement |
 | Maximum amount | 3 — Standard |
 | Current bearer | Sentinel Harin |

@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A crimson Han-iron fang with dark liquid moving away from the tip. It forms from dried runoff after one grievance leaves the Vault through acknowledgment rather than retaliation.
+A Grudge Han-iron fang with dark liquid moving away from the tip. It forms from dried runoff after one grievance leaves the Vault through acknowledgment rather than retaliation.
 
 Binding requires a provenance record and a non-person release target. During the *Third Deposit Return*, Durivel severed a decades-old labor grievance from the floor shadow and grounded it into a sealed review vessel. His old hand injuries bruised with the anger’s original strikes.
 

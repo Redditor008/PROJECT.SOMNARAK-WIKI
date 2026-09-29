@@ -55,9 +55,9 @@ Each Ordeal Color represents a type of Han manifestation, paralleling Somnarak's
 
 | Color | Han Source | Somnarak Element | Theme | Phenomenological Manifestation |
 |---|---|---|---|---|
-| **BLUE** | Lament (Deep Blue) | Lament | Weeping, emotional assault, Composure drain, memory flood | Amorphous weeping surges |
-| **BLACK** | Weight (Black) | Weight | Crushing force, physical damage, structural destruction | Dense gravitational swarms |
-| **PALE** | Void (Pale White) | Void | Erasure, identity theft, Clarity drain, absence | Cold absolute zero erasure |
+| **BLUE** | Lament | Lament | Weeping, emotional assault, Composure drain, memory flood | Amorphous weeping surges |
+| **OBSIDIAN** | Weight | Weight | Crushing force, physical damage, structural destruction | Dense gravitational swarms |
+| **ASHEN** | Void | Void | Erasure, identity theft, Clarity drain, absence | Cold absolute zero erasure |
 | **GREY** | Grudge (desaturated Crimson) | Grudge | Hostility, aggression, violence, Resilience damage | Humanoid coordinated fury |
 | **PURPLE** | Raw Han / corruption | Mixed / the Han itself | Chaos, infection, parasitic transformation, unpredictable | Parasitic bio-resonant infection |
 
@@ -105,8 +105,8 @@ Each Color × Time combination is a unique Ordeal with its own name, appearance,
 | | **First Watch** | **Second Watch** | **Third Watch** | **Tide Watch** |
 |---|---|---|---|---|
 | **BLUE** | Blue First Watch | Blue Second Watch | Blue Third Watch | Blue Tide Watch |
-| **BLACK** | Black First Watch | Black Second Watch | Black Third Watch | Black Tide Watch |
-| **PALE** | Pale First Watch | Pale Second Watch | Pale Third Watch | Pale Tide Watch |
+| **OBSIDIAN** | Obsidian First Watch | Obsidian Second Watch | Obsidian Third Watch | Obsidian Tide Watch |
+| **ASHEN** | Ashen First Watch | Ashen Second Watch | Ashen Third Watch | Pale Tide Watch |
 | **GREY** | Grey First Watch | Grey Second Watch | Grey Third Watch | Grey Tide Watch |
 | **PURPLE** | Purple First Watch | Purple Second Watch | Purple Third Watch | Purple Tide Watch |
 
@@ -221,7 +221,7 @@ Unlike Sorrow Entity work (which yields Han-Energy and M.A.W. extraction), Ordea
 **Suppression:** Physical force (any damage type). Very low HP (individuals die in 1–2 hits). The danger is the swarm — too many wails at once can incapacitate a team emotionally before they finish clearing the corridor.
 **If Unsuppressed:** They wander for 60 seconds, then burrow into the walls and reappear on another floor.
 
-### Black First Watch — "The Rolling Weight"
+### Obsidian First Watch — "The Rolling Weight"
 
 > *"The floor cracked before we saw what was pressing down on it."*
 
@@ -231,7 +231,7 @@ Unlike Sorrow Entity work (which yields Han-Energy and M.A.W. extraction), Ordea
 **Suppression:** Physical force (Pugnahan/M.A.W. weapons). Moderate HP. Speed is key — they cannot turn quickly, so flanking is effective.
 **If Unsuppressed:** They continue rolling until they hit a wall, then reverse direction. Over time, they crack corridors and damage containment infrastructure.
 
-### Pale First Watch — "The Forgotten"
+### Ashen First Watch — "The Forgotten"
 
 > *"I turned the corner and saw five figures standing there. When I blinked, there were four. I couldn't remember what the fifth had looked like."*
 
@@ -288,7 +288,7 @@ SOMNARAK-WORLD/Ordeals/
 Named by Color + Time:
 ```text
 Ordeal_BLUE_First_Watch_The_Weeping_Cluster.md
-Ordeal_BLACK_Tide_Watch_The_Drowned_Choir.md
+Ordeal_OBSIDIAN_Tide_Watch_The_Drowned_Choir.md
 Ordeal_PURPLE_Third_Watch_The_Violent_Surge.md
 ```
 

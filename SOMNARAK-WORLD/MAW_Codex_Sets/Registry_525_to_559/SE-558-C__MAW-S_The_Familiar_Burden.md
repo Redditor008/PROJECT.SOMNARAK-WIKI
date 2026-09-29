@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-The Familiar Burden is a black Han-weave mantle with weighted hems and warm root-stitching across the back. When active, its cloth settles as if generations of hands are pulling downward. Only a wearer who arrives without a family ledger may bind it; a written debt record causes the collar to close before deployment.
+The Familiar Burden is a Weight Han-weave mantle with weighted hems and warm root-stitching across the back. When active, its cloth settles as if generations of hands are pulling downward. Only a wearer who arrives without a family ledger may bind it; a written debt record causes the collar to close before deployment.
 
 It formed beside Emberroot after Iseulfros endured the creature’s underground fire without claiming that endurance made the suffering meaningful. Rejected wearers feel immediate nostalgia for duties they never carried.
 

@@ -21,7 +21,7 @@ The Weight formed from responsibility carried unconsciously. The grief of doing 
 | Source designation | C-IVδ-357 [WS] |
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Weight (Black) / Zone B, deep tunnels |
+| Element / Location | Weight / Zone B, deep tunnels |
 | Gauge / Pressure | 809/809; starts 60–80% / 29–63 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility. |
@@ -52,7 +52,7 @@ During the The Unreleased Beam Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Unreleased Beam's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Do not wake it; distribute the burden among a team The set cannot heal the originating event. Misuse routes Unreleased Beam's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Unreleased Beam's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Do not wake it; distribute the burden among a team The set cannot heal the originating event. Misuse routes Unreleased Beam's wound through the operator and triggers the recorded escalation.
 
 ---
 

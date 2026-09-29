@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | IV — Entity / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | SECTOR-D-02, Echo Gardens |
 | Primary Form | A massive dead tree walking on knotted root-legs, with a trunk hollow large enough for several people. |
 | Gauge / Han Pressure | 45–65% starting range / Weight 13–29 per hit |
@@ -43,10 +43,10 @@ Stripped bark hangs from a broad, lead-cold trunk. Bare limbs spread above expos
 
 | Element | Status | Visible or sensory sign |
 |---|---|---|
-| Lament — Deep Blue | None recorded | No stable readout |
-| Grudge — Crimson | None recorded | Root tension during Pugnahan is not a Grudge signature |
-| Void — Pale White | None recorded | The hollow resembles absence, but the measured pressure remains Weight |
-| Weight — Black | Primary | Lead-cold bark, heavy breath, bowing walls and floor during escalation |
+| Lament | None recorded | No stable readout |
+| Grudge | None recorded | Root tension during Pugnahan is not a Grudge signature |
+| Void | None recorded | The hollow resembles absence, but the measured pressure remains Weight |
+| Weight | Primary | Lead-cold bark, heavy breath, bowing walls and floor during escalation |
 
 > *“It did not ask me to make the hollow useful. It made room for me to admit that something never arrived.”* — Specialist Haneulash Yoon
 
@@ -98,7 +98,7 @@ The three pieces do not fill Timber Maw’s absence. They make personnel capable
 |---|---|---|---|
 | Weight 7–12 | 3 — Fast / 3 — Medium | Pierce; up to 3 targets; 100% → 70% → 50% | 3 / 40 |
 
-A matte black Han-steel staff absorbs excess Han-energy from its surroundings. Its bearer feels the emptiness of every place entered and risks draining significance, not merely pressure, from an occupied refuge.
+A matte Weight Han-steel staff absorbs excess Han-energy from its surroundings. Its bearer feels the emptiness of every place entered and risks draining significance, not merely pressure, from an occupied refuge.
 
 ---
 
@@ -110,7 +110,7 @@ A matte black Han-steel staff absorbs excess Han-energy from its surroundings. I
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 |
 
-The breathing black Han-weave yields around Weight pressure instead of bracing solidly against it. Protection is purchased with continuous fatigue, and the empty folds are dangerously receptive to Void.
+The breathing Weight Han-weave yields around Weight pressure instead of bracing solidly against it. Protection is purchased with continuous fatigue, and the empty folds are dangerously receptive to Void.
 
 ---
 
@@ -118,7 +118,7 @@ The breathing black Han-weave yields around Weight pressure instead of bracing s
 
 ### M.A.W. Stigma — The Hollow Charm
 
-**Type / Slot:** Black Han-steel accessory / Head
+**Type / Slot:** Weight Han-steel accessory / Head
 **Grade / Element:** γ / Weight
 **Acquisition:** 4% after successful source-entity work; never manufactured
 **Bonus:** +2 Resolve during work with Timber Maw

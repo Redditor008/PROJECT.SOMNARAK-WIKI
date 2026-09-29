@@ -49,7 +49,7 @@ The Debt Eater's primary containment hazard is governed by its **Sorrow Gauge** 
 
 If an operative completes work with a **Bad** result or if the specialist possesses lower than Level II Composure, the Sorrow Gauge increases sharply. When the Sorrow Gauge reaches 60% or higher, The Debt Eater breaches its containment cell and enters the department corridors.
 
-Upon breaching, the entity walks upright at a measured speed of 1.80 m/s. It is drawn to personnel bearing personal debt tokens or those exhibiting mental fatigue, delivering rapid strikes of ⚪ **Void** (Pale White) damage (8–19 damage per strike). Because ⚪ **Void** damage scales against total health (where 1% Void inflicts 5% of maximum vital endurance), unprotected specialists can undergo rapid collapse. Suppression teams must intercept the entity with 🔴 **Grudge** or ⚫ **Weight** weaponry before it reaches the departmental main room.
+Upon breaching, the entity walks upright at a measured speed of 1.80 m/s. It is drawn to personnel bearing personal debt tokens or those exhibiting mental fatigue, delivering rapid strikes of ⚪ **Void** damage (8–19 damage per strike). Because ⚪ **Void** damage scales against total health (where 1% Void inflicts 5% of maximum vital endurance), unprotected specialists can undergo rapid collapse. Suppression teams must intercept the entity with 🔴 **Grudge** or ⚫ **Weight** weaponry before it reaches the departmental main room.
 
 The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](30-The%20Debt%20Scale.md) (`SE-C-IIIβ-015`). If an operative wearing the scale enters The Debt Eater's unit during high agitation, the entity immediately breaches regardless of its current gauge.
 

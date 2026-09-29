@@ -21,7 +21,7 @@ The entity formed from a wall that failed to protect the people behind it. The f
 | Source designation | O-IVδ-897 [GS] |
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Grudge (Crimson) / Zone E, Border region |
+| Element / Location | Grudge / Zone E, Border region |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A border wall collapsed during an Outside Sorrow surge, leaving residents exposed. |
@@ -52,7 +52,7 @@ During the The Welcome Haven Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Welcome Haven's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Admit the wall failed; do not promise perfect protection The set cannot heal the originating event. Misuse routes Welcome Haven's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Welcome Haven's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Admit the wall failed; do not promise perfect protection The set cannot heal the originating event. Misuse routes Welcome Haven's wound through the operator and triggers the recorded escalation.
 
 ---
 

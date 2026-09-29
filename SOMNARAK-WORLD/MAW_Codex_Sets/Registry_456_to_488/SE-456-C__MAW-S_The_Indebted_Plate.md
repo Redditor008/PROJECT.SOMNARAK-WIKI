@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron harness patterned with fading fruit. Binding requires a desire record and no fulfillment promise.
+A Grudge Han-iron harness patterned with fading fruit. Binding requires a desire record and no fulfillment promise.
 
 Iseulfros wore it during orchard expansion. The Plate resisted Grudge while fruit vanished around debtors, but reflexes dulled whenever she tried to solve systemic denial through immediate force.
 

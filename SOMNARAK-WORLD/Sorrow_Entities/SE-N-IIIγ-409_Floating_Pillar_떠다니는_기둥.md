@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — An ethereal voice surrounding a pillar-shaped absence — a column of empty air where a pillar should stand, the voice speaking from above and below at once. Bloodless-cold, it smells of ash; no body — only the held space and the words. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hover* [**Debuff**] } | "The pillar floats — and beneath it, the void it replaced the ground with presses up." | [The Pillar's absence of foundation sends void-energy downward.] | *Target suffers a Void mark; the ground beneath them is uncertain.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stands under the Pillar. |
-| { *The Unstable Arch* [**Debuff**] } | "The pillar wobbles — and everything it was supposed to support wobbles with it." | [The Pillar's instability spreads; structures creak and shift.] | *Target loses clarity; nothing is reliable anymore.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Dropped Pillar* [**Attack**] } | "The pillar falls — straight down, enormous, and the void beneath rushes up to meet it." | [The Pillar descends onto the target with full mass.] | *Inflicts Void damage; the impact erodes a vast portion.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
-| { *The Foundation Void* [**Attack**] } | "The void beneath the pillar opens wide — and the ground simply is not there anymore." | [The Pillar's void-base expands, swallowing the floor.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
-| { *Everything Floats* [**Ultimate**] } | "Every pillar lifts — every foundation vanishes — and the whole field goes weightless, and void." | [The Pillar spreads its hover to every support.] | *All in range suffer Pale White erosion for three turns in the void-suspended ruin.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Hover* [**Debuff**] } | "The pillar floats — and beneath it, the void it replaced the ground with presses up." | [The Pillar's absence of foundation sends void-energy downward.] | *Target suffers a Void mark; the ground beneath them is uncertain.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands under the Pillar. |
+| { *The Unstable Arch* [**Debuff**] } | "The pillar wobbles — and everything it was supposed to support wobbles with it." | [The Pillar's instability spreads; structures creak and shift.] | *Target loses clarity; nothing is reliable anymore.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Dropped Pillar* [**Attack**] } | "The pillar falls — straight down, enormous, and the void beneath rushes up to meet it." | [The Pillar descends onto the target with full mass.] | *Inflicts Void damage; the impact erodes a vast portion.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
+| { *The Foundation Void* [**Attack**] } | "The void beneath the pillar opens wide — and the ground simply is not there anymore." | [The Pillar's void-base expands, swallowing the floor.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
+| { *Everything Floats* [**Ultimate**] } | "Every pillar lifts — every foundation vanishes — and the whole field goes weightless, and void." | [The Pillar spreads its hover to every support.] | *All in range suffer Void erosion for three turns in the void-suspended ruin.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -208,7 +208,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a pillar-charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a pillar-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Pillar (N-IIIγ-409 [O]) is logged as a Subject-Spirit manifestation expressing Void (Pale White). The Pillar formed from an absence made visible through memory. Held at Zone C, Mask Market. The voice has no measurable source.
+Floating Pillar (N-IIIγ-409 [O]) is logged as a Subject-Spirit manifestation expressing Void. The Pillar formed from an absence made visible through memory. Held at Zone C, Mask Market. The voice has no measurable source.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through reflective spaces in the Mask Market. Personnel feel emptiness where they expected protection. It is strongest near masks and false identities.
@@ -346,7 +346,7 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 > *“She reached for support and found air. The support was never stone. It was desperation.”* — Mender, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-409 [O]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-409 [O]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Subject-Spirit manifestation
 **Common Name:** Floating Pillar
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

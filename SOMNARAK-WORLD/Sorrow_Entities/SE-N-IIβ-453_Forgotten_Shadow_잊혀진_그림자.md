@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — A humanoid shadow with no face, drifting through the Desolate and singing softly — a low wandering song. It understands anyone who watches it, though it cannot be understood in turn. Salt-damp, it smells of cold rain; the shade of someone the world forgot. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unseen* [**Debuff**] } | "The shadow stretches behind you — and no one looks at it, ever, and the not-looking is its power." | [The Shadow's invisibility infects the target; they feel unseen.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Shadow attaches. |
-| { *The Growing Dark* [**Debuff**] } | "The shadow grows — fed by neglect — until it is larger than you, and darker, and no one notices that either." | [The Shadow's overlooked growth makes it enormous; the target is dwarfed.] | *Target loses 10 Composure; they are nothing next to their shadow.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target ignores it. |
-| { *The Sudden Notice* [**Attack**] } | "The shadow strikes — and the blow comes from the direction no one was watching." | [An unseen shadow-blow lands.] | *Inflicts Deep Blue pressure and one wound from an angle that should not exist.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Shadow is finally looked at. |
-| { *The Full Visibility* [**Attack**] } | "The shadow makes itself seen — all of it, at once — and the reveal is devastating." | [The Shadow's sudden visibility is overwhelming.] | *A heavy Deep Blue manifestation; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Shadow is forced into the light. |
-| { *Every Shadow Sees* [**Ultimate**] } | "Every forgotten shadow in the field rises — and they are all enormous, and they are all angry at being ignored." | [The Shadow extends its forgotten-ness across the whole area.] | *All in range suffer Deep Blue pressure for three turns of rising shadows.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unseen* [**Debuff**] } | "The shadow stretches behind you — and no one looks at it, ever, and the not-looking is its power." | [The Shadow's invisibility infects the target; they feel unseen.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Lament DMG [Lament]]** | When the Shadow attaches. |
+| { *The Growing Dark* [**Debuff**] } | "The shadow grows — fed by neglect — until it is larger than you, and darker, and no one notices that either." | [The Shadow's overlooked growth makes it enormous; the target is dwarfed.] | *Target loses 10 Composure; they are nothing next to their shadow.* **[10 Lament DMG [Lament]]** | When the target ignores it. |
+| { *The Sudden Notice* [**Attack**] } | "The shadow strikes — and the blow comes from the direction no one was watching." | [An unseen shadow-blow lands.] | *Inflicts Lament pressure and one wound from an angle that should not exist.* **[14-22 Lament DMG [Lament]]** | When the Shadow is finally looked at. |
+| { *The Full Visibility* [**Attack**] } | "The shadow makes itself seen — all of it, at once — and the reveal is devastating." | [The Shadow's sudden visibility is overwhelming.] | *A heavy Deep Blue manifestation; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is forced into the light. |
+| { *Every Shadow Sees* [**Ultimate**] } | "Every forgotten shadow in the field rises — and they are all enormous, and they are all angry at being ignored." | [The Shadow extends its forgotten-ness across the whole area.] | *All in range suffer Lament pressure for three turns of rising shadows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -204,7 +204,7 @@ The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a song-charm of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a song-charm of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Shadow (N-IIβ-453 [LS]) is logged as a Subject-Weight manifestation expressing Lament (Deep Blue). The Shadow formed from a person forgotten while still alive. Held at The Desolate — mobile. Its song cannot be recorded by ordinary equipment.
+Forgotten Shadow (N-IIβ-453 [LS]) is logged as a Subject-Weight manifestation expressing Lament. The Shadow formed from a person forgotten while still alive. Held at The Desolate — mobile. Its song cannot be recorded by ordinary equipment.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through the Desolate along abandoned routes. Personnel feel the weight of being forgotten. It becomes clearer when someone admits they do not know its name.
@@ -342,7 +342,7 @@ Some sorrows mourn the dead. Forgotten Shadow mourns the living-unrecorded — t
 > *“If no record says you are here, are you here? Forgotten Shadow walks, answering: yes.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-453 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIβ-453 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Weight manifestation
 **Common Name:** Forgotten Shadow
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 2 — Basic

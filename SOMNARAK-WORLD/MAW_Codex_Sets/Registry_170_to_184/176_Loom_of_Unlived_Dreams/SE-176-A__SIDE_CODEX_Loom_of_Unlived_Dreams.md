@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place, O-Relic — Object-Dream |
 | Coherence / Potency | IV — Entity / γ — Major |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | SECTOR-A-01, near Dream Gates |
 | Form | A massive pale Dream-stuff loom whose shuttle moves without hands, weaving visions, nightmares, and half-remembered rooms. |
 | Gauge / pressure | 45–65% / Lament 18–41 |

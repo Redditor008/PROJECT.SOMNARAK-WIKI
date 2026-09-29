@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Cistern-Keeper's Chiton & Mantle |
 | Set | Shared Current |
-| Type / grade / element | Suit / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Suit / γ — Major / Lament |
 | Status | Active; monitored for joy-numbing saturation |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Iseulfros Kim |

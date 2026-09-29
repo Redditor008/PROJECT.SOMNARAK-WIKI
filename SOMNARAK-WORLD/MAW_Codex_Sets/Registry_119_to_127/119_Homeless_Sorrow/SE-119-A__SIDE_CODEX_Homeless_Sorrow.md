@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Object/Place — Place-Grudge; appears as a mobile shadow-beast |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | Zone B, Old Lament |
 | Form | A cold, dense shadow without fixed shape—sometimes four-legged, sometimes many-limbed—moving as though it hunts for somewhere to settle. |
 | Gauge / pressure | 35–50% / Void 8–20 |

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Crown of Requiem |
 | Set | Unanswered Court |
-| Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Weapon / γ — Major / Lament |
 | Status | Active; relief plan mandatory before draw |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Haneulash Yoon |

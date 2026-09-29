@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron fang with dormant root grain. It forms from dream residue after nonparticipating witness.
+A Grudge Han-iron fang with dormant root grain. It forms from dream residue after nonparticipating witness.
 
 Durivel severed three roots entering a monitoring floor while leaving the source root-clench untouched. Old wounds bruised with the absent traveler’s broken promise.
 

@@ -21,7 +21,7 @@ The Echo formed from anger repeated until it no longer belonged to anyone. The e
 | Source designation | O-IVδ-909 [GP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Grudge (Crimson) / Zone A, Alpha Tree vault |
+| Element / Location | Grudge / Zone A, Alpha Tree vault |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A grievance was repeated through generations until the words became an empty fire. |
@@ -52,7 +52,7 @@ During the The Heirloom Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Heirloom's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Stop repetition and identify the original voice The set cannot heal the originating event. Misuse routes Heirloom's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Heirloom's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon marks only the immediate manifestation that violates this rule: Stop repetition and identify the original voice The set cannot heal the originating event. Misuse routes Heirloom's wound through the operator and triggers the recorded escalation.
 
 ---
 

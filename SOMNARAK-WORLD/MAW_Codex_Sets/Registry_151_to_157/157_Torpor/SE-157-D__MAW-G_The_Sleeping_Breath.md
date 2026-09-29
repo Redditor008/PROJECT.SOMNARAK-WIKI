@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Sleeping Breath |
 | Set | Guarded Rest |
-| Type / grade / element | Stigma, black breath-token / δ — Critical / Weight — Black |
+| Type / grade / element | Stigma, black breath-token / δ — Critical / Weight |
 | Slot | Head |
 | Status | Bearer-bound; camp fatigue review required |
 | Known bearer | Specialist Sooah Park |

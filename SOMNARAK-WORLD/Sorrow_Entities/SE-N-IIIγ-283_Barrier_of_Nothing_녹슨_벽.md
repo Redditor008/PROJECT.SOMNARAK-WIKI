@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike humanoid formed from rusted wall plates fused together — corroded, bleeding orange, standing beside the Exile's Gate though it blocks no passage. Lead-cold, it smells of wet iron and char; a wall that learned to walk. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Flake* [**Debuff**] } | "Rust flakes from the wall in sheets — and each flake, where it lands, begins to corrode what it touches." | [The Wall's corrosion spreads to the target's defenses.] | *Target suffers -10 Resolve; their own walls are rusting.* **[10 Black DMG [Black / Weight]]** | When the target stands near the Wall. |
-| { *The Structural Failure* [**Debuff**] } | "The wall groans — a deep, metallic sound — and you can see through it now, the rust has eaten so much." | [The Wall's integrity fails; the target senses the collapse coming.] | *Target loses 10 Resolve; everything is about to give way.* **[10 Black DMG [Black / Weight]]** | When the target leans on the Wall. |
-| { *The Iron Rain* [**Attack**] } | "A section of rusted wall breaks free — and the rust-hardened shards fall like blades." | [A volley of corroded metal strikes.] | *Inflicts Black pressure and many thin, oxidized cuts.* **[14-22 Black DMG [Black / Weight]]** | When the Wall is struck. |
-| { *The Full Collapse* [**Attack**] } | "The entire wall gives way — not from force, but from decay — and the rust-cloud that rises is choking." | [The Wall's total failure releases a cloud of corrosion.] | *A heavy Black implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Wall is demolished. |
-| { *The Rusted City* [**Ultimate**] } | "The rust spreads to every wall in the field — and the corrosion is contagious, and total." | [The Wall extends its decay across the whole area.] | *All in range suffer Black pressure for three turns of universal rust.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Flake* [**Debuff**] } | "Rust flakes from the wall in sheets — and each flake, where it lands, begins to corrode what it touches." | [The Wall's corrosion spreads to the target's defenses.] | *Target suffers -10 Resolve; their own walls are rusting.* **[10 Weight DMG [Weight]]** | When the target stands near the Wall. |
+| { *The Structural Failure* [**Debuff**] } | "The wall groans — a deep, metallic sound — and you can see through it now, the rust has eaten so much." | [The Wall's integrity fails; the target senses the collapse coming.] | *Target loses 10 Resolve; everything is about to give way.* **[10 Weight DMG [Weight]]** | When the target leans on the Wall. |
+| { *The Iron Rain* [**Attack**] } | "A section of rusted wall breaks free — and the rust-hardened shards fall like blades." | [A volley of corroded metal strikes.] | *Inflicts Weight pressure and many thin, oxidized cuts.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck. |
+| { *The Full Collapse* [**Attack**] } | "The entire wall gives way — not from force, but from decay — and the rust-cloud that rises is choking." | [The Wall's total failure releases a cloud of corrosion.] | *A heavy Black implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Wall is demolished. |
+| { *The Rusted City* [**Ultimate**] } | "The rust spreads to every wall in the field — and the corrosion is contagious, and total." | [The Wall extends its decay across the whole area.] | *All in range suffer Weight pressure for three turns of universal rust.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a plated harness of black Han-steel, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a plated harness of Weight Han-steel, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Barrier of Nothing (N-IIIγ-283 [WS]) is logged as a Subject-Dream manifestation expressing Weight (Black). The Wall formed from the sorrow of people who were separated by exclusion. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
+Barrier of Nothing (N-IIIγ-283 [WS]) is logged as a Subject-Dream manifestation expressing Weight. The Wall formed from the sorrow of people who were separated by exclusion. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Appears in dreams of personnel near the Gate. Personnel feel trapped between belonging and exile. It does not physically obstruct passage.
@@ -348,7 +348,7 @@ Some sorrows are about exclusion. Barrier of Nothing is about the exclusion that
 > *“The exclusion outlived the excluded. The wall stands, faithful to a separation no one enforces.”* — Elder, Gate District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight (Black) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight · Subject-Dream manifestation
 **Common Name:** Barrier of Nothing
 **Containment Status:** Contained — Gate District
 **Comprehension Level:** 2 — Basic

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Veil |
 | Set | Witnessed Shelter |
-| Type / grade / element | Suit / β — Moderate / Void — Pale White |
+| Type / grade / element | Suit / β — Moderate / Void |
 | Status | Active; threshold witness required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Hanul Grey |

@@ -56,7 +56,7 @@ The first Veil formed from pale fibers left across two coats after their owners 
 | Field | Record |
 |---|---|
 | Type | Armor — identity veil |
-| Grade / element | α — Minor / Void — Pale White |
+| Grade / element | α — Minor / Void |
 | Maximum amount | 5 — regular qualified allocation |
 | Echo cost | 10 Sorrow Echoes |
 | Operational cost | Increasing self-absence as witness-lines fail |

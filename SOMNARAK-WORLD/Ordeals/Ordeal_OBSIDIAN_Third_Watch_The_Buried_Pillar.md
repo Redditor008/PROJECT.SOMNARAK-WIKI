@@ -1,15 +1,15 @@
-# BLACK Third Watch — The Buried Pillar
+# OBSIDIAN Third Watch — The Buried Pillar
 
-> *A secondary BLACK Third Watch Ordeal — a distinct manifestation of weight sorrow at major severity.*
+> *A secondary OBSIDIAN Third Watch Ordeal — a distinct manifestation of weight sorrow at major severity.*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | BLACK |
+| **Color** | OBSIDIAN |
 | **Time** | Third Watch |
 | **Risk** | Major |
-| **Form** | BLACK Third Watch (secondary) |
+| **Form** | OBSIDIAN Third Watch (secondary) |
 
 ## Formation
 
@@ -29,7 +29,7 @@ Engage with major-appropriate teams. Weight-element M.A.W. recommended. Suppress
 
 ## Facility Impact
 
-A major-severity BLACK encounter: widespread structural and personnel threat. Contain before the weight pressure cascades.
+A major-severity OBSIDIAN encounter: widespread structural and personnel threat. Contain before the weight pressure cascades.
 
 ## R.D. Response Protocol
 
@@ -37,7 +37,7 @@ Level 4+, Containment Lead oversight.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary BLACK Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary OBSIDIAN Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Elite-grade)
 
@@ -49,7 +49,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 25–45 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[25–45 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[25–45 Weight DMG [Weight]]**
 
 ### The Ribcage Arch (Non-Crystal, Elite-grade)
 
@@ -73,7 +73,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 35–55 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[35–55 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[35–55 Weight DMG [Weight]]**
 
 
 ### The Anvil-Bearer (Humanoid, Elite-grade)
@@ -86,7 +86,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 24–36 per hit · Weight |
 | **Spawn Count** | 2 |
 
-**Ability:** It brings the anvil down, and the carried weight of years lands at once. **[24–36 Black DMG [Black / Weight]]**
+**Ability:** It brings the anvil down, and the carried weight of years lands at once. **[24–36 Weight DMG [Weight]]**
 
 ### The Gravid Mass (Amorphous, Elite-grade)
 
@@ -98,7 +98,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 22–34 per hit · Weight |
 | **Spawn Count** | 1 |
 
-**Ability:** It rolls over a line, and the sheer tonnage flattens everything in its path. **[22–34 Black DMG [Black / Weight]]**
+**Ability:** It rolls over a line, and the sheer tonnage flattens everything in its path. **[22–34 Weight DMG [Weight]]**
 
 ### Maul-Grubs (Swarm, Elite-grade)
 
@@ -110,16 +110,16 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 10–16 per hit · Weight |
 | **Spawn Count** | 10–14 |
 
-**Ability:** They bore in from below, dozens of heavy jaws grinding in unison. **[10–16 Black DMG [Black / Weight]]**
+**Ability:** They bore in from below, dozens of heavy jaws grinding in unison. **[10–16 Weight DMG [Weight]]**
 
 
 ## Trivia
 
-- A lesser-documented sibling encounter to the primary BLACK Third Watch Ordeal; same color and severity, different manifestation.
+- A lesser-documented sibling encounter to the primary OBSIDIAN Third Watch Ordeal; same color and severity, different manifestation.
 
 ## Document Information
 
-- **Document ID:** ORDEAL-BLACK-Third-II
+- **Document ID:** ORDEAL-OBSIDIAN-Third-II
 - **Author:** R.D. Field Records
 - **Date:** Year 4238
 - **Classification:** Restricted

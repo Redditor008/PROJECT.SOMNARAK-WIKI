@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Hollow Chalice |
 | Set | Hollow Benediction |
-| Type / grade / element | Stigma, forehead-cup / γ — Major / Void — Pale White |
+| Type / grade / element | Stigma, forehead-cup / γ — Major / Void |
 | Slot | Head |
 | Status | Bearer-bound; wellness review required after every activation |
 | Known bearer | Specialist Haneulash Yoon |

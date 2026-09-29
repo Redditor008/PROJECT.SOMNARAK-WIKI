@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A dark tear-shaped object half-buried in the Desolate soil, that sinks deeper whenever someone reaches for it. Lead-cold and damp, it smells of wet stone; a grief that will not be picked up. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Deep Drop* [**Debuff**] } | "A tear falls — and keeps falling, far past the floor, into somewhere vast and dark." | [The Tear's descent pulls the target's attention downward.] | *Target suffers -10 Resolve; they are being drawn into the deep.* **[10 Black DMG [Black / Weight]]** | When the Tear falls. |
-| { *The Pressure Depth* [**Debuff**] } | "The further down it goes, the heavier it gets — and you are going down with it." | [The Tear's accumulated weight presses on the target from below.] | *Target loses 10 Resolve; the depth is crushing.* **[10 Black DMG [Black / Weight]]** | When the target follows the Tear. |
-| { *The Impact* [**Attack**] } | "The tear hits bottom — and the impact travels back up like a shockwave." | [The Tear's landing sends a wave of pressure upward.] | *Inflicts Black pressure and one deep, resonant wound.* **[14-22 Black DMG [Black / Weight]]** | When the Tear is disturbed mid-fall. |
-| { *The Ocean of One Tear* [**Attack**] } | "One tear, at the bottom, becomes an ocean — and the ocean is heavy beyond measure." | [The Tear reveals its full, abyssal weight.] | *A crushing Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Tear reaches the bottom. |
-| { *Everyone Goes Under* [**Ultimate**] } | "The tear-ocean rises — and there is no surface anymore." | [The Tear floods the entire field from below.] | *All personnel suffer Black pressure for three turns in the tear-sea.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Deep Drop* [**Debuff**] } | "A tear falls — and keeps falling, far past the floor, into somewhere vast and dark." | [The Tear's descent pulls the target's attention downward.] | *Target suffers -10 Resolve; they are being drawn into the deep.* **[10 Weight DMG [Weight]]** | When the Tear falls. |
+| { *The Pressure Depth* [**Debuff**] } | "The further down it goes, the heavier it gets — and you are going down with it." | [The Tear's accumulated weight presses on the target from below.] | *Target loses 10 Resolve; the depth is crushing.* **[10 Weight DMG [Weight]]** | When the target follows the Tear. |
+| { *The Impact* [**Attack**] } | "The tear hits bottom — and the impact travels back up like a shockwave." | [The Tear's landing sends a wave of pressure upward.] | *Inflicts Weight pressure and one deep, resonant wound.* **[14-22 Weight DMG [Weight]]** | When the Tear is disturbed mid-fall. |
+| { *The Ocean of One Tear* [**Attack**] } | "One tear, at the bottom, becomes an ocean — and the ocean is heavy beyond measure." | [The Tear reveals its full, abyssal weight.] | *A crushing Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tear reaches the bottom. |
+| { *Everyone Goes Under* [**Ultimate**] } | "The tear-ocean rises — and there is no surface anymore." | [The Tear floods the entire field from below.] | *All personnel suffer Weight pressure for three turns in the tear-sea.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 |---|---|---|
 | 10 Seconds | Sehnsucht rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Sehnsucht activates its primary resonance: Releases a memory of the sorrow into the worker. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of grief hidden so deeply that even the person who felt it forgot its source; the bearer begins perceiving echoes of a traveler buried a final tear near the scar rather than allow anyone to see it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Sehnsucht begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Sehnsucht begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Sehnsucht too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become unable to leave the site. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Sehnsucht: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Sehnsucht: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -251,7 +251,7 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a shard-tile of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a shard-tile of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sehnsucht (O-IIIγ-476 [WO]) is logged as a Object-Void manifestation expressing Weight (Black). The Tear formed from sorrow deliberately buried. Held at The Desolate, near The Scar. It sinks when approached with force.
+Sehnsucht (O-IIIγ-476 [WO]) is logged as a Object-Void manifestation expressing Weight. The Tear formed from sorrow deliberately buried. Held at The Desolate, near The Scar. It sinks when approached with force.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It rises during honest mourning.
@@ -386,7 +386,7 @@ Some sorrows are about hiding grief. Sehnsucht is about hiding it too well — t
 > *“The tear sank so far into the earth that the one who shed it cannot remember why.”* — Elder, The Scar
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-476 [WO]` · Weight (Black) · Object-Void manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-476 [WO]` · Weight · Object-Void manifestation
 **Common Name:** Sehnsucht
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic

@@ -21,7 +21,7 @@ The Walker formed from the collective rage of the six factions that fought in th
 | Source designation | O-IIIδ-011 [GS] |
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Fragment (III) — Territorial and responsive / Critical (δ) — Dangerous |
-| Element / Location | Grudge (Crimson) / The Desolate — patrols The Scar |
+| Element / Location | Grudge / The Desolate — patrols The Scar |
 | Gauge / Pressure | 871/871; starts 60–80% / 29–64 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate. |
@@ -52,7 +52,7 @@ During the The The Scar Walker Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Scar Walker's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Show respect, salute its duty, and acknowledge its sacrifice The set cannot heal the originating event. Misuse routes The Scar Walker's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Scar Walker's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon contains only the immediate manifestation that violates this rule: Show respect, salute its duty, and acknowledge its sacrifice The set cannot heal the originating event. Misuse routes The Scar Walker's wound through the operator and triggers the recorded escalation.
 
 ---
 

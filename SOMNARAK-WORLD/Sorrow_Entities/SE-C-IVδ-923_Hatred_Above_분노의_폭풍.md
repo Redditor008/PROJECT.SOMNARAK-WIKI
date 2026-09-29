@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Hazard-Grudge |
 | **Physical Form** | Non-Organic — A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's grudge pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge / Crimson]]** | When the entity first fixes on a target. |
-| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge grudge sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[18 Grudge DMG [Grudge / Crimson]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge / Crimson]]** | When the entity is cornered or starved. |
-| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[20 Grudge DMG [Grudge / Crimson] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's grudge pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
+| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge grudge sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[18 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
+| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person.
 
 **Notable Features:**
-- Expresses Grudge (Crimson) pressure in a grudge register.
+- Expresses Grudge pressure in a grudge register.
 - The hazard form is unmistakable — this is a grudge entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a single-edged blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
 
 **Damage:** Grudge 11–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels grudge grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
@@ -178,7 +178,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a flowing veil of crimson Han-cloth, dark and faintly warm, that tightens near its source element.
+**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that tightens near its source element.
 
 **Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,7 +188,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a coin-token of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -274,7 +274,7 @@ The entity does not rage. It does not weep. It persists — grudge and grudge, p
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-923 [GH]` · City Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Hazard-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-923 [GH]` · City Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Hazard-Grudge manifestation
 
 **Common Name:** Hatred Above
 
@@ -289,7 +289,7 @@ The entity does not rage. It does not weep. It persists — grudge and grudge, p
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the grudge register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Grudge (Crimson) · Hazard-Grudge · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Grudge · Hazard-Grudge · Manifestation Classification
 
 ### Registry Addendum
 

@@ -22,7 +22,7 @@
 | Entity | Tether — 솟구친 밧줄 |
 | Type / Manifestation | Subject — Subject-Void |
 | Coherence / Potency | I — Residue / α — Minor |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | A fever-cold empty rope figure with no second end, hanging from no visible hand and watching from the edge of consciousness. |
 | Gauge / Pressure | 25–40% / Grudge 3–9 |
 | Observation | 1 — Initial |

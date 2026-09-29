@@ -79,7 +79,7 @@ They are classified as **80% Living Biological Organism and 20% Sorrow / M.A.W. 
 - **Sorrow Flora (비한목 / 悲恨木 & 비한초 / 悲恨草 — Han-Infused Vegetation)**:
   * Living trees, vines, shrubs, and macro-fungi whose root systems tap directly into subterranean sorrow aquifers.
   * They grow through normal cellular division and photosynthesis/chemosynthesis, but their lignin incorporates crystallized sorrow-glass.
-  * They exhibit M.A.W.-like vegetative traits: petrified iron bark that deflects rifle bullets, crystalline thorns that discharge kinetic tremor pulses when brushed, and resin that boils like combustible Crimson Han-Brine.
+  * They exhibit M.A.W.-like vegetative traits: petrified iron bark that deflects rifle bullets, crystalline thorns that discharge kinetic tremor pulses when brushed, and resin that boils like combustible Grudge Han-Brine.
 
 ---
 

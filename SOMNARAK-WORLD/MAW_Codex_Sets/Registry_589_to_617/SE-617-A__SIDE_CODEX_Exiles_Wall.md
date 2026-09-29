@@ -20,7 +20,7 @@ Exiles’ Wall is a stationary barrier of dark wet crystal beside the Exile’s 
 |---|---|
 | Type / Manifestation | Object/Place / Place-Lament |
 | Coherence / Potency | III / γ |
-| Element | Grudge (Crimson) |
+| Element | Grudge |
 | Location | Zone E, Exile’s Gate vicinity |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 Grudge |
 | Movement / Resistance | Fixed / 35% Grudge, 25% other |

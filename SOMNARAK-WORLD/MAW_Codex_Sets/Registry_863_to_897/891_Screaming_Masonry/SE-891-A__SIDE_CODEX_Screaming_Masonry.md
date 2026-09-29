@@ -21,7 +21,7 @@ The Scream formed from obligations that were never fulfilled. The pressure of pr
 | Source designation | C-IIIγ-891 [D] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Weight (Black) / Zone B, Old Lament — ambient |
+| Element / Location | Weight / Zone B, Old Lament — ambient |
 | Gauge / Pressure | 607/607; starts 45–65% / 14–33 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls. |
@@ -52,7 +52,7 @@ During the The Screaming Masonry Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Screaming Masonry's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Acknowledge duties without accepting impossible blame The set cannot heal the originating event. Misuse routes Screaming Masonry's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Screaming Masonry's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Acknowledge duties without accepting impossible blame The set cannot heal the originating event. Misuse routes Screaming Masonry's wound through the operator and triggers the recorded escalation.
 
 ---
 

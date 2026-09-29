@@ -16,7 +16,7 @@
 |---|---|
 | Type | Accessory (Stigma) — crimson gauntlet charm |
 | Grade | γ — Major |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Slot | Tail |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Inheritor source record |

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Trace Plate |
 | Set | Lost Cause |
-| Type / grade / element | Suit / α — Minor / Grudge — Crimson |
+| Type / grade / element | Suit / α — Minor / Grudge |
 | Status | Active; low-grade residue-response issue |
 | Maximum amount | 5 — Standard |
 | Current bearer | Specialist Minho Ashford |

@@ -235,7 +235,7 @@ Kim enters Chamber 005. The temperature inside drops to near freezing. In the ce
 - **Work Tick 02:** Failure! The woolen shroud tightens violently, constricting Kim's ribs. Kim sustains 4 Red (Grudge) physical damage. HP drops to 34/38.
 - **Work Tick 03:** Success! Kim leans into the crushing weight, grounding the kinetic force through his shock maul. +1 Han crystal.
 - **Work Tick 04:** Success! +1 Positive Han crystal generated.
-- **Work Tick 05:** Failure! Compressive surge ruptures an armor clasp; 4 Crimson damage sustained. HP drops to 30/38.
+- **Work Tick 05:** Failure! Compressive surge ruptures an armor clasp; 4 Grudge damage sustained. HP drops to 30/38.
 - **Work Tick 06 through 10:** 4 Successes, 1 Failure. Kim absorbs another 4 Grudge damage, holding the line until the containment cycle terminates.
 - **Work Result:** **7/10 Positive Han Crystals (NORMAL WORK RESULT).**
 
@@ -287,7 +287,7 @@ Before the floor sirens can quiet down, the primary illumination shifts to an ee
 | CLASSIFICATION        : PALE (CYAN) FIRST WATCH SPECTRAL ENTITY     |
 | INTRUSION COORDINATES : FLOOR 1 CORRIDOR WEST (NODE 03 ENTRY)       |
 | HOSTILE PARAMETERS    : HP 140/140 | Posture 80/80 | Speed 4 (2 AP) |
-| ATTACK AFFINITY       : Pale (% Max HP Decay / Cognitive Vibration) |
+| ATTACK AFFINITY : Void (% Max HP Decay / Cognitive Vibration) |
 | VULNERABILITY : Lament (Acoustic Echo / Empathetic Disruption)      |
 | SPECIAL THREAT        : Emits 15m Catatonia Aura upon manifestation |
 | CIVILIAN STATUS       : 1x Level I Auxiliary Panicked at Node 04    |
@@ -618,7 +618,7 @@ Observation points accumulated from Chamber 001's resonance sessions are transfe
 +---------------------------------------------------------------------+
 | FORGE SPECIFICATION    | SLOT / PROPERTIES / PARAMETERS             |
 | -----------------------+------------------------------------------- |
-| Lament Requiem         | Weapon: 4-7 Lament (White / Medium Weight) |
+| Lament Requiem         | Weapon: 4-7 Lament (Clear / Medium Weight) |
 |                        | Speed Delta 0 | 1 AP | Range Band 1-2      |
 | Lament Shroud          | Suit: Light Armor (Speed Delta +1)         |
 |                        | Resist: 0.8 Grudge / 0.7 Lament / 1.2 Void |

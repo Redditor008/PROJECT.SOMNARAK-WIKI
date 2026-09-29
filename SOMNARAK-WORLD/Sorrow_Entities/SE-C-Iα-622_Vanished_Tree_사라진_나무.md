@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs — a ghost-creature of pale wood. Fever-cold, it smells of char. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Phantom Canopy* [**Debuff**] } | "The tree is gone — but the shadow it cast is still on the ground, still shaped like branches." | [The Tree's phantom shadow marks the target; they feel the absence.] | *Target suffers -10 Resilience; the missing tree is heavy with what it took.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the shadow. |
-| { *The Hollow Ring* [**Debuff**] } | "Where the trunk was, a circle in the dirt — and the circle is deeper than it should be." | [The Tree's stump-absence pulls at the target; they sense the severed roots.] | *Target loses 10 Resilience; the ground is unstable where the tree was.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stands in the ring. |
-| { *The Phantom Branch* [**Attack**] } | "A branch that is not there sweeps down — and despite not existing, it connects." | [The vanished Tree's ghost-limb strikes.] | *Inflicts Crimson pressure and one wound from a branch that is not real.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the shadow is disturbed. |
-| { *The Full Return* [**Attack**] } | "The tree comes back — violent, furious, desperate to exist — and the return is crushing." | [The Tree reconstitutes with the rage of having been erased.] | *A heavy Crimson rematerialization; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the absence is forced. |
-| { *The Vanished Forest* [**Ultimate**] } | "Every tree in the field disappears — and the phantom shadows cover everything, and nothing grows." | [The Tree extends its vanishing across the whole area.] | *All in range suffer Crimson pressure for three turns of phantom forest.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Phantom Canopy* [**Debuff**] } | "The tree is gone — but the shadow it cast is still on the ground, still shaped like branches." | [The Tree's phantom shadow marks the target; they feel the absence.] | *Target suffers -10 Resilience; the missing tree is heavy with what it took.* **[10 Grudge DMG [Grudge]]** | When the target enters the shadow. |
+| { *The Hollow Ring* [**Debuff**] } | "Where the trunk was, a circle in the dirt — and the circle is deeper than it should be." | [The Tree's stump-absence pulls at the target; they sense the severed roots.] | *Target loses 10 Resilience; the ground is unstable where the tree was.* **[10 Grudge DMG [Grudge]]** | When the target stands in the ring. |
+| { *The Phantom Branch* [**Attack**] } | "A branch that is not there sweeps down — and despite not existing, it connects." | [The vanished Tree's ghost-limb strikes.] | *Inflicts Grudge pressure and one wound from a branch that is not real.* **[14-22 Grudge DMG [Grudge]]** | When the shadow is disturbed. |
+| { *The Full Return* [**Attack**] } | "The tree comes back — violent, furious, desperate to exist — and the return is crushing." | [The Tree reconstitutes with the rage of having been erased.] | *A heavy Crimson rematerialization; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the absence is forced. |
+| { *The Vanished Forest* [**Ultimate**] } | "Every tree in the field disappears — and the phantom shadows cover everything, and nothing grows." | [The Tree extends its vanishing across the whole area.] | *All in range suffer Grudge pressure for three turns of phantom forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Breach Type** | Escape |
 | **Movement** | Vanished Tree bursts free and crawls or slithers in search of prey. It extends roots through the floor, entangling personnel. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -188,7 +188,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -206,7 +206,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a pendant of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a pendant of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Vanished Tree (C-Iα-622 [D]) is logged as a Subject-Lament manifestation expressing Grudge (Crimson). The Tree formed from a place erased by the city's expansion. Held at Zone E, Border region. It fades when no one is looking.
+Vanished Tree (C-Iα-622 [D]) is logged as a Subject-Lament manifestation expressing Grudge. The Tree formed from a place erased by the city's expansion. Held at Zone E, Border region. It fades when no one is looking.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders along the Border and old settlement paths. Personnel feel rage at deliberate forgetting. It becomes clearer near old maps.
@@ -342,7 +342,7 @@ Some sorrows mourn what was destroyed. Vanished Tree mourns what was denied — 
 > *“Soon the witness will be gone, and the denial will be complete.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-622 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-622 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Lament manifestation
 **Common Name:** Vanished Tree
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 2 — Basic

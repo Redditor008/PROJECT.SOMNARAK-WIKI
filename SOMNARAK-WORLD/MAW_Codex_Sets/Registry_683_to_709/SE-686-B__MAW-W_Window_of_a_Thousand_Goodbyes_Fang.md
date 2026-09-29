@@ -9,7 +9,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-Crimson Han-iron Fang: **α Grudge; 3–6; Speed/Range 2/2; Single; max5; 15 Echoes.** It cuts a phantom hand after attribution; old wounds ache.
+Grudge Han-iron Fang: **α Grudge; 3–6; Speed/Range 2/2; Single; max5; 15 Echoes.** It cuts a phantom hand after attribution; old wounds ache.
 
 ## Appearance
 

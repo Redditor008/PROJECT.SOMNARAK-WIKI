@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — A frozen patch of Desolate ground holding the outline of an unknown relic — frost forming around the empty space where the relic should be, not on anything solid. Bloodless-cold, it smells of ash; felt by the cold it leaves, not by its presence. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Frost Spread* [**Debuff**] } | "Ice creeps from the relic across the floor — and it is reaching for your feet." | [The Relic radiates cold; frost extends toward the target.] | *Target suffers a Void mark; the cold is alive and hungry.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |
-| { *The Frozen Memory* [**Debuff**] } | "You touch the relic — and a memory flashes, perfect, preserved, and absolutely cold." | [The Relic imparts a frozen memory; the target feels it crystalize.] | *Target loses clarity; the preserved grief is too clear.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target touches the Relic. |
-| { *The Ice Shard* [**Attack**] } | "A shard of the relic's ice breaks free — sharp, ancient, and aimed." | [A frozen splinter launches from the Relic.] | *Inflicts Void damage; the cold carries away warmth and identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Relic is struck. |
-| { *The Deep Freeze* [**Attack**] } | "The relic unleashes its stored cold — everything within reach goes solid." | [The Relic flash-freezes the area around the target.] | *A heavy Void freeze; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Relic is shattered. |
-| { *The Glacier* [**Ultimate**] } | "The relic's cold does not stop — it freezes the whole field, and the frost is permanent." | [The Relic extends its permafrost across the entire area.] | *All in range suffer Pale White erosion for three turns in the deep freeze.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Frost Spread* [**Debuff**] } | "Ice creeps from the relic across the floor — and it is reaching for your feet." | [The Relic radiates cold; frost extends toward the target.] | *Target suffers a Void mark; the cold is alive and hungry.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |
+| { *The Frozen Memory* [**Debuff**] } | "You touch the relic — and a memory flashes, perfect, preserved, and absolutely cold." | [The Relic imparts a frozen memory; the target feels it crystalize.] | *Target loses clarity; the preserved grief is too clear.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Relic. |
+| { *The Ice Shard* [**Attack**] } | "A shard of the relic's ice breaks free — sharp, ancient, and aimed." | [A frozen splinter launches from the Relic.] | *Inflicts Void damage; the cold carries away warmth and identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Relic is struck. |
+| { *The Deep Freeze* [**Attack**] } | "The relic unleashes its stored cold — everything within reach goes solid." | [The Relic flash-freezes the area around the target.] | *A heavy Void freeze; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Relic is shattered. |
+| { *The Glacier* [**Ultimate**] } | "The relic's cold does not stop — it freezes the whole field, and the frost is permanent." | [The Relic extends its permafrost across the entire area.] | *All in range suffer Void erosion for three turns in the deep freeze.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-The escalation pattern is specific to Apocrypha: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at The Desolate — mobile, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Apocrypha: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at The Desolate — mobile, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -251,7 +251,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a shard-tile of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a shard-tile of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Apocrypha (O-Iα-340 [VP]) is logged as a Place-Void manifestation expressing Void (Pale White). The Relic formed from an object lost before its owner could say farewell. Held at The Desolate — mobile. The Relic has no confirmed physical core.
+Apocrypha (O-Iα-340 [VP]) is logged as a Place-Void manifestation expressing Void. The Relic formed from an object lost before its owner could say farewell. Held at The Desolate — mobile. The Relic has no confirmed physical core.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It moves along abandoned routes.
@@ -386,7 +386,7 @@ Some sorrows mourn a carrier. Apocrypha mourns the unexplained — the object wh
 > *“The relic, frozen with the traveler, holds a significance sealed in a dead mind.”* — Scavenger, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-340 [VP]` · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `O-Iα-340 [VP]` · Void · Place-Void manifestation
 **Common Name:** Apocrypha
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial

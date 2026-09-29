@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats dancing |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A graceful humanoid of true flesh and bone, dancing without pause in precise, tireless steps, face hidden behind a beautiful smiling mask fused to the skin. The body beneath is fever-hot and fluid; the real face is unknown. It smells of char and old smoke. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Step* [**Debuff**] } | "The dancer moves — graceful, precise — and each step lands on a wound you did not know you had." | [The Dancer's choreography targets the target's hidden injuries.] | *Target suffers -10 Resilience; the dance finds their weak points.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Dancer begins. |
-| { *The Accelerando* [**Debuff**] } | "The pace increases — and the grace becomes fury, the beauty becomes violence." | [The Dancer accelerates; the movements turn aggressive.] | *Target loses 10 Resilience; the rhythm is relentless.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target tries to keep up. |
-| { *The Pirouette Strike* [**Attack**] } | "A spin — blindingly fast — and the mask's edge slashes on the turn." | [A spinning slash from the masked Dancer.] | *Inflicts Crimson pressure and one precise, cutting wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Dancer is interrupted. |
-| { *The Grand Finale* [**Attack**] } | "The dance reaches its climax — every step a strike, every gesture a blow." | [The Dancer performs the full routine as one devastating combo.] | *A heavy Crimson flurry; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Dancer is cornered. |
-| { *The Endless Performance* [**Ultimate**] } | "The music does not stop — the dancer does not stop — and neither can you, until the dance kills you." | [The Dancer extends the performance across the whole field.] | *All in range suffer Crimson pressure for three turns of endless dancing.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Step* [**Debuff**] } | "The dancer moves — graceful, precise — and each step lands on a wound you did not know you had." | [The Dancer's choreography targets the target's hidden injuries.] | *Target suffers -10 Resilience; the dance finds their weak points.* **[10 Grudge DMG [Grudge]]** | When the Dancer begins. |
+| { *The Accelerando* [**Debuff**] } | "The pace increases — and the grace becomes fury, the beauty becomes violence." | [The Dancer accelerates; the movements turn aggressive.] | *Target loses 10 Resilience; the rhythm is relentless.* **[10 Grudge DMG [Grudge]]** | When the target tries to keep up. |
+| { *The Pirouette Strike* [**Attack**] } | "A spin — blindingly fast — and the mask's edge slashes on the turn." | [A spinning slash from the masked Dancer.] | *Inflicts Grudge pressure and one precise, cutting wound.* **[14-22 Grudge DMG [Grudge]]** | When the Dancer is interrupted. |
+| { *The Grand Finale* [**Attack**] } | "The dance reaches its climax — every step a strike, every gesture a blow." | [The Dancer performs the full routine as one devastating combo.] | *A heavy Crimson flurry; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Dancer is cornered. |
+| { *The Endless Performance* [**Ultimate**] } | "The music does not stop — the dancer does not stop — and neither can you, until the dance kills you." | [The Dancer extends the performance across the whole field.] | *All in range suffer Grudge pressure for three turns of endless dancing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -162,7 +162,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Breach Type** | Escape |
 | **Movement** | The Masked Dancer shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -209,7 +209,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Category:** Protective Attire (Ceremonial Silk Robe & Flowing Ribbon Stole)
 **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -228,7 +228,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Category:** Stigma (Facial Mask Fragment)
 **Grade:** β | **Element:** Grudge
 
-**Appearance:** a mask-charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a mask-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -284,7 +284,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Masked Dancer (C-IIβ-099 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Dancer formed from those who wanted to dance but could not. Held at SECTOR-C-01, Mask Market — contained. The Dancer has never breached without invitation or an audience.
+The Masked Dancer (C-IIβ-099 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Dancer formed from those who wanted to dance but could not. Held at SECTOR-C-01, Mask Market — contained. The Dancer has never breached without invitation or an audience.
 
 **Entry 2 — <Excerpt from Field Log, Year 4213>**
 Dances through corridors and public areas. Anyone who watches feels compelled to dance. Its movement is graceful, precise, and physically tireless.
@@ -369,7 +369,7 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 > *“The most mournful of the masks. Its joy is borrowed entirely from sorrow.”* — Elder, Mask Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-099 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-099 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Masked Dancer
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic

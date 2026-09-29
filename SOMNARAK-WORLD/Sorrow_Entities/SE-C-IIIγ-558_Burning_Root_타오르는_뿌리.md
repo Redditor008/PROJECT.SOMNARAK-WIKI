@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A creature of burning roots that drags itself on fiery root-legs, its body a thrashing knot of ember-branches — a walking pyre-creature planted in motion. Fever-warm, it smells of char and wet earth. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Smolder* [**Debuff**] } | "The ground is warm — too warm — and the heat is climbing." | [The Root smolders beneath the target; the deep-seated burn rises.] | *Target suffers -10 Resolve as the heat builds underfoot.* **[10 Black DMG [Black / Weight]]** | When the target stands over the Root. |
-| { *The Spreading Tendril* [**Debuff**] } | "A root, glowing cherry-red, cracks the floor and reaches for your ankle." | [Burning tendrils creep outward; the fire spreads underground.] | *Target loses 10 Resolve; the network of heat widens.* **[10 Black DMG [Black / Weight]]** | When the target lingers in the heat. |
-| { *The Charred Grip* [**Attack**] } | "A root seizes your leg — and where it touches, it chars." | [A burning root whips up and clamps the target.] | *Inflicts Black pressure and one searing, crushing wound.* **[14-22 Black DMG [Black / Weight]]** | When the Root is trodden on. |
-| { *The Underground Fire* [**Attack**] } | "The whole root system ignites at once — and the floor becomes the fire." | [The deep network erupts, turning the ground itself to furnace.] | *A heavy Black conflagration; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Root is exposed or attacked. |
-| { *The Whole Root System* [**Ultimate**] } | "Every root, in every wall and floor, blazes at once." | [The full underground network ignites, burning through the entire area.] | *All personnel suffer Black pressure for three turns as the earth burns.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Smolder* [**Debuff**] } | "The ground is warm — too warm — and the heat is climbing." | [The Root smolders beneath the target; the deep-seated burn rises.] | *Target suffers -10 Resolve as the heat builds underfoot.* **[10 Weight DMG [Weight]]** | When the target stands over the Root. |
+| { *The Spreading Tendril* [**Debuff**] } | "A root, glowing cherry-red, cracks the floor and reaches for your ankle." | [Burning tendrils creep outward; the fire spreads underground.] | *Target loses 10 Resolve; the network of heat widens.* **[10 Weight DMG [Weight]]** | When the target lingers in the heat. |
+| { *The Charred Grip* [**Attack**] } | "A root seizes your leg — and where it touches, it chars." | [A burning root whips up and clamps the target.] | *Inflicts Weight pressure and one searing, crushing wound.* **[14-22 Weight DMG [Weight]]** | When the Root is trodden on. |
+| { *The Underground Fire* [**Attack**] } | "The whole root system ignites at once — and the floor becomes the fire." | [The deep network erupts, turning the ground itself to furnace.] | *A heavy Black conflagration; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Root is exposed or attacked. |
+| { *The Whole Root System* [**Ultimate**] } | "Every root, in every wall and floor, blazes at once." | [The full underground network ignites, burning through the entire area.] | *All personnel suffer Weight pressure for three turns as the earth burns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -188,7 +188,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a weighted mantle of black Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a weighted mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -206,7 +206,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Burning Root (C-IIIγ-558 [WS]) is logged as a Subject-Grudge manifestation expressing Weight (Black). The Root formed from obligations carried so long that they became familiar rather than heavy. Held at Zone C, Collector's Row. It follows debt records and family names.
+Burning Root (C-IIIγ-558 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The Root formed from obligations carried so long that they became familiar rather than heavy. Held at Zone C, Collector's Row. It follows debt records and family names.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves along floors and ledgers through Collector's Row. Personnel feel familiar burdens as warmth and then pain. Its fire warms before it burns.
@@ -346,7 +346,7 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 > *“A burden so old it stopped feeling heavy and started feeling like self.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-558 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-558 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Grudge manifestation
 **Common Name:** Burning Root
 **Containment Status:** Contained — Zone C, Collector’s Row
 **Comprehension Level:** 2 — Basic

@@ -94,7 +94,7 @@ Auditor Yuna activated the secondary data feed. A complex web of shipping manife
 
 "What are they producing?" Taeho asked, his arms folded across the reinforced chest plate of his riot armor.
 
-"Crimson Han-Brine," Yuna answered coldly. "When a human subject is subjected to prolonged physical torment while trapped in absolute helplessness, their inner sorrow transforms into pure Crimson Grudge. Boknam boils this extracted sorrow fluid into high-potency combat narcotics and black-market turbine fuel. A single barrel of refined Crimson Brine fetches three thousand Echoes on the illicit munitions market. Our informants confirm Boknam has eighty pressurized tankers ready for export—and fifty living citizens trapped in the slaughter pens right now."
+"Grudge Han-Brine," Yuna answered coldly. "When a human subject is subjected to prolonged physical torment while trapped in absolute helplessness, their inner sorrow transforms into pure Crimson Grudge. Boknam boils this extracted sorrow fluid into high-potency combat narcotics and black-market turbine fuel. A single barrel of refined Crimson Brine fetches three thousand Echoes on the illicit munitions market. Our informants confirm Boknam has eighty pressurized tankers ready for export—and fifty living citizens trapped in the slaughter pens right now."
 
 Infiltrator Echo stepped forward from the shadows of the vault, resting a gloved hand on the tactical holotank.
 
@@ -498,7 +498,7 @@ The kiln exploded into combat.
 | - Node 07: Auditor Yuna & Minho (Purging High-Pressure Steam        |
 |   Conduits)                                                         |
 | - Node 08: 24 Civilian Captives (Cognitive Shields Holding Intact)  |
-| - Node 10: SE-C-IIIγ-120 'Rage Cage' (BERSERK STATE / Crimson Fury  |
+| - Node 10: SE-C-IIIγ-120 'Rage Cage' (BERSERK STATE / Grudge Fury  |
 |   Surge)                                                            |
 +---------------------------------------------------------------------+
 | - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50   |
@@ -522,7 +522,7 @@ The kiln exploded into combat.
   * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive sanity.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the captive cell latch pins (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-120 unleashes `[Crimson Fury Deluge: Scalding Blood]` (Base 22 + 2 Lots = 32 Power, Area Fire/Grudge).
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-120 unleashes `[Grudge Fury Deluge: Scalding Blood]` (Base 22 + 2 Lots = 32 Power, Area Fire/Grudge).
     * Handler Soojin deploys `[Leaded Barrier Ward]` (Base 25 + 2 Lots = 35 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (35 vs 32)!
     * The lead-lined vacuum sphere fully absorbs the scalding blood-steam (`[P3: Parry/Protection]`).
@@ -650,7 +650,7 @@ The kiln exploded into combat.
 | Item ID | Description | Quantity | Disposition |
 |---|---|---|---|
 | **EVD-UCD-03-A** | SE-C-IIIγ-120 "Rage Cage" Containment Shell | 1 Unit | Transferred to R.D. Maw's Keep Vaults |
-| **EVD-UCD-03-B** | Pressurized Crimson Han-Brine Tankers | 80 Units | Impounded by Directorate Energy Reserves |
+| **EVD-UCD-03-B** | Pressurized Grudge Han-Brine Tankers | 80 Units | Impounded by Directorate Energy Reserves |
 | **EVD-UCD-03-C** | Warlord Boknam Augmented Steam Rig | 1 Chassis | Sapped & Impounded for Engineering Study |
 | **EVD-UCD-03-D** | Shattered Harvest Hook Weapon Slag | 1 Weapon | Scuttled & Melted In Situ by Joon |
 | **EVD-UCD-03-E** | Cartel Munitions & Supply Ledger Disks | 18 Slates | Delivered to Directorate High Prosecution |

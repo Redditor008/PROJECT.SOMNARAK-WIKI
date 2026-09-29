@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty chamber that echoes with burning voices — no speakers, only sound — the room growing a little larger each time the echo repeats. Fever-hot, it smells of char; no body, only the widening burning room. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Bounce* [**Debuff**] } | "A sound you made echoes back — wrong, louder, and carrying something you did not say." | [The Echo reflects the target's words, distorted and amplified.] | *Target suffers -10 Resilience; their own voice is weaponized.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target speaks near the Echo. |
-| { *The Cascade* [**Debuff**] } | "The echo bounces wall to wall — each bounce adding anger you did not put there." | [The Echo multiplies; the target's words breed resentment.] | *Target loses 10 Resilience; they cannot take back what the echo has changed.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Sonic Blade* [**Attack**] } | "The echo sharpens to a single cutting frequency — your voice, weaponized." | [A focused echo-strike hits the target with their own sound.] | *Inflicts Crimson pressure and one wound of amplified anger.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Echo is provoked. |
-| { *The Full Resonance* [**Attack**] } | "Every echo the space ever held — all at once, all aimed at you." | [The Echo releases its full accumulated distortion.] | *A heavy Crimson wave; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Echo is silenced. |
-| { *The Cacophony* [**Ultimate**] } | "Every surface echoes — and every echo says something different, and all of them are angry." | [The Echo fills every surface with multiplying sound.] | *All in range suffer Crimson pressure for three turns in the cacophony.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Bounce* [**Debuff**] } | "A sound you made echoes back — wrong, louder, and carrying something you did not say." | [The Echo reflects the target's words, distorted and amplified.] | *Target suffers -10 Resilience; their own voice is weaponized.* **[10 Grudge DMG [Grudge]]** | When the target speaks near the Echo. |
+| { *The Cascade* [**Debuff**] } | "The echo bounces wall to wall — each bounce adding anger you did not put there." | [The Echo multiplies; the target's words breed resentment.] | *Target loses 10 Resilience; they cannot take back what the echo has changed.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Sonic Blade* [**Attack**] } | "The echo sharpens to a single cutting frequency — your voice, weaponized." | [A focused echo-strike hits the target with their own sound.] | *Inflicts Grudge pressure and one wound of amplified anger.* **[14-22 Grudge DMG [Grudge]]** | When the Echo is provoked. |
+| { *The Full Resonance* [**Attack**] } | "Every echo the space ever held — all at once, all aimed at you." | [The Echo releases its full accumulated distortion.] | *A heavy Crimson wave; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Echo is silenced. |
+| { *The Cacophony* [**Ultimate**] } | "Every surface echoes — and every echo says something different, and all of them are angry." | [The Echo fills every surface with multiplying sound.] | *All in range suffer Grudge pressure for three turns in the cacophony.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -221,7 +221,7 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a flame-charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a flame-charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Heirloom (O-IVδ-909 [GP]) is logged as a Place-Void manifestation expressing Grudge (Crimson). The Echo formed from anger repeated until it no longer belonged to anyone. Held at Zone A, Alpha Tree vault. The chamber expands when the Echo is repeated.
+Heirloom (O-IVδ-909 [GP]) is logged as a Place-Void manifestation expressing Grudge. The Echo formed from anger repeated until it no longer belonged to anyone. Held at Zone A, Alpha Tree vault. The chamber expands when the Echo is repeated.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It burns itself as it spreads.
@@ -356,7 +356,7 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 > *“Anger repeated until it no longer belonged to anyone.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-909 [GP]` · Grudge (Crimson) · Place-Void manifestation
+**Classification:** Sorrow Entity — `O-IVδ-909 [GP]` · Grudge · Place-Void manifestation
 **Common Name:** Heirloom
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic

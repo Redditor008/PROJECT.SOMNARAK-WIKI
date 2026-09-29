@@ -23,7 +23,7 @@
 
 ### Appearance
 
-The Guardian Lens is a broad, pale Han-glass disc braced in a heavy black frame with a short cross-grip set behind it, built to be held with both hands at the centre of a threshold. Its face is almost clear in daylight and turns faintly grey when a boundary is defined. Around the rim, a narrow band of pale metal carries four shallow notches, one for each direction the bearer has guarded. When a crossing target is struck, the disc throws a short line of white light along the protected threshold, and the crossing target loses momentum, route certainty, and part of the identity tied to the intrusion. The Lens does not judge whether a boundary is fair; it protects a cruel line and a necessary one with equal care. The frame stays cold, the grip is dark and ridged, and the glass never scratches or clouds, even after repeated use.
+The Guardian Lens is a broad, Void Han-glass disc braced in a heavy black frame with a short cross-grip set behind it, built to be held with both hands at the centre of a threshold. Its face is almost clear in daylight and turns faintly grey when a boundary is defined. Around the rim, a narrow band of pale metal carries four shallow notches, one for each direction the bearer has guarded. When a crossing target is struck, the disc throws a short line of white light along the protected threshold, and the crossing target loses momentum, route certainty, and part of the identity tied to the intrusion. The Lens does not judge whether a boundary is fair; it protects a cruel line and a necessary one with equal care. The frame stays cold, the grip is dark and ridged, and the glass never scratches or clouds, even after repeated use.
 
 ### Ability— Hold the Line
 

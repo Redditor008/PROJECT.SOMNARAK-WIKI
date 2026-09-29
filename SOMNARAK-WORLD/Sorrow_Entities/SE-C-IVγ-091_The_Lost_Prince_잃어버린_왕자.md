@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, wandering, seeking |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A translucent child-like figure, half-flesh and half-light, wearing a small crown of crystallized tears. He flickers as he wanders, asking where the person who lost him has gone. Salt-damp and faintly warm, he smells of cold rain; his hand passes halfway through yours. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Search* [**Debuff**] } | "You feel compelled to look for him — but every direction leads further from where he is." | [The Prince's lost-ness infects the target; they feel directionless.] | *Target suffers -10 Composure; they are searching for something that cannot be found.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the Prince's domain. |
-| { *The Wrong Crown* [**Debuff**] } | "He wears a crown — but it does not fit, and the not-fitting is the source of everything." | [The Prince's illegitimacy unsettles the target; they question their own place.] | *Target loses 10 Composure; nothing fits the way it should.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target approaches the Prince. |
-| { *The Lost Sword* [**Attack**] } | "He swings — but the sword is the wrong one, the kingdom is the wrong one, and the blow lands anyway." | [A desperate, misplaced strike from a prince who cannot find his throne.] | *Inflicts Deep Blue pressure and one wound of misplaced authority.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Prince is challenged. |
-| { *The Abdication* [**Attack**] } | "He gives up — stops searching, stops pretending — and the surrender is devastating." | [The Prince's complete collapse releases the weight of his search.] | *A heavy Deep Blue capitulation; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Prince is cornered. |
-| { *Everyone Is Lost* [**Ultimate**] } | "Now no one can find their way home — no one can find their throne — and the lost-ness is permanent." | [The Prince extends his lost-ness across the whole field.] | *All in range suffer Deep Blue pressure for three turns of being permanently lost.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Search* [**Debuff**] } | "You feel compelled to look for him — but every direction leads further from where he is." | [The Prince's lost-ness infects the target; they feel directionless.] | *Target suffers -10 Composure; they are searching for something that cannot be found.* **[10 Lament DMG [Lament]]** | When the target enters the Prince's domain. |
+| { *The Wrong Crown* [**Debuff**] } | "He wears a crown — but it does not fit, and the not-fitting is the source of everything." | [The Prince's illegitimacy unsettles the target; they question their own place.] | *Target loses 10 Composure; nothing fits the way it should.* **[10 Lament DMG [Lament]]** | When the target approaches the Prince. |
+| { *The Lost Sword* [**Attack**] } | "He swings — but the sword is the wrong one, the kingdom is the wrong one, and the blow lands anyway." | [A desperate, misplaced strike from a prince who cannot find his throne.] | *Inflicts Lament pressure and one wound of misplaced authority.* **[14-22 Lament DMG [Lament]]** | When the Prince is challenged. |
+| { *The Abdication* [**Attack**] } | "He gives up — stops searching, stops pretending — and the surrender is devastating." | [The Prince's complete collapse releases the weight of his search.] | *A heavy Deep Blue capitulation; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Prince is cornered. |
+| { *Everyone Is Lost* [**Ultimate**] } | "Now no one can find their way home — no one can find their throne — and the lost-ness is permanent." | [The Prince extends his lost-ness across the whole field.] | *All in range suffer Lament pressure for three turns of being permanently lost.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -180,7 +180,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that hums faintly when gripped.
 
 **Damage:** Lament 7–12
 **Speed:** 3 (Fast)
@@ -201,7 +201,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -219,7 +219,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a tear-drop charm of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a tear-drop charm of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Lost Prince (C-IVγ-091 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Prince formed from abandonment. Held at SECTOR-D-02, Echo Gardens — contained. The Prince asks the same questions to every visitor.
+The Lost Prince (C-IVγ-091 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Prince formed from abandonment. Held at SECTOR-D-02, Echo Gardens — contained. The Prince asks the same questions to every visitor.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Influence radiates through nearby personnel as the Prince searches. Personnel feel intense attachment, abandonment, and longing. It has never attacked without first being frightened.
@@ -361,7 +361,7 @@ Some sorrows mourn a loss. The Lost Prince mourns an absence of explanation — 
 > *“He cannot stop asking. To stop would mean accepting the answer never comes.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-091` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-091` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Subject-Body manifestation
 **Common Name:** The Lost Prince
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 3 — Advanced

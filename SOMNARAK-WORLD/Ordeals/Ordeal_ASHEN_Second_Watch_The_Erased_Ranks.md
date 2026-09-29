@@ -1,15 +1,15 @@
-# PALE Second Watch — The Erased Ranks
+# ASHEN Second Watch — The Erased Ranks
 
-> *A secondary PALE Second Watch Ordeal — a distinct manifestation of void sorrow at moderate severity.*
+> *A secondary ASHEN Second Watch Ordeal — a distinct manifestation of void sorrow at moderate severity.*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | PALE |
+| **Color** | ASHEN |
 | **Time** | Second Watch |
 | **Risk** | Moderate |
-| **Form** | PALE Second Watch (secondary) |
+| **Form** | ASHEN Second Watch (secondary) |
 
 ## Formation
 
@@ -29,7 +29,7 @@ Engage with moderate-appropriate teams. Void-element M.A.W. recommended. Suppres
 
 ## Facility Impact
 
-A moderate-severity PALE encounter: localized damage. Contain before the void pressure cascades.
+A moderate-severity ASHEN encounter: localized damage. Contain before the void pressure cascades.
 
 ## R.D. Response Protocol
 
@@ -37,7 +37,7 @@ Level 3+ with M.A.W.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PALE Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary ASHEN Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Greater-grade)
 
@@ -49,7 +49,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 15–30 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Smoothed (Non-Crystal, Greater-grade)
 
@@ -73,7 +73,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 25–40 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It simply is, and what it touches, isn't. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[1 Void DMG [Void] (5% Max HP)]**
 
 
 ### The Nameless Soldier (Humanoid, Greater-grade)
@@ -86,7 +86,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 3 |
 
-**Ability:** Its blank gaze falls, and the touched feel their own identity beginning to smooth. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** Its blank gaze falls, and the touched feel their own identity beginning to smooth. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Bleach (Amorphous, Greater-grade)
 
@@ -98,7 +98,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** It spreads over a target, and detail bleeds out of them one layer at a time. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It spreads over a target, and detail bleeds out of them one layer at a time. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### Chalk-Worms (Swarm, Greater-grade)
 
@@ -110,16 +110,16 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They burrow, and each one carries away a thread of who the host was. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** They burrow, and each one carries away a thread of who the host was. **[1 Void DMG [Void] (5% Max HP)]**
 
 
 ## Trivia
 
-- A lesser-documented sibling encounter to the primary PALE Second Watch Ordeal; same color and severity, different manifestation.
+- A lesser-documented sibling encounter to the primary ASHEN Second Watch Ordeal; same color and severity, different manifestation.
 
 ## Document Information
 
-- **Document ID:** ORDEAL-PALE-Second-II
+- **Document ID:** ORDEAL-ASHEN-Second-II
 - **Author:** R.D. Field Records
 - **Date:** Year 4238
 - **Classification:** Restricted

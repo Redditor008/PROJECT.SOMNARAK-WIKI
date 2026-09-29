@@ -21,7 +21,7 @@ The Bridge formed from a crossing destroyed while people were still on it. The g
 | Source designation | O-IVδ-762 [O] |
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / The Desolate, near The Scar |
+| Element / Location | Lament / The Desolate, near The Scar |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure. |
@@ -52,7 +52,7 @@ During the The Grasp Source-Trace, the field team preserved this source fact: A 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Grasp's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not promise rescue; acknowledge the limits of one person The set cannot heal the originating event. Misuse routes Grasp's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Grasp's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not promise rescue; acknowledge the limits of one person The set cannot heal the originating event. Misuse routes Grasp's wound through the operator and triggers the recorded escalation.
 
 ---
 

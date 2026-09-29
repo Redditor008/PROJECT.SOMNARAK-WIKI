@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats watching |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — Not a body but eyes — embedded in walls, ceilings, and doorframes, watching, blinking. A translucent watcher-figure may coalesce only once the observer accepts being seen. The walls are bloodless-cold and smell of ash; the eyes never look away. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Eyes Open* [**Debuff**] } | "You realize the walls have been watching the whole time." | [Eyes open across the walls; the target feels observed from every surface.] | *Target suffers a Void mark; the Watcher has noticed them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Watcher's space. |
-| { *The Whispered Name* [**Debuff**] } | "The walls whisper your name — and you cannot find the mouth that said it." | [The walls murmur the target's secrets; paranoia sets in.] | *Target loses clarity; they distrust every shadow.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers under surveillance. |
-| { *The Reach* [**Attack**] } | "A hand unfolds from the plaster, slow and certain." | [A limb extends from the wall and seizes the target.] | *Inflicts Void damage; the wall takes a piece of them.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target turns their back. |
-| { *The Swallowed* [**Attack**] } | "The wall opens — and you understand, too late, that it was never solid." | [The Watcher pulls the target partway into the wall's void.] | *A heavy Void strike; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Watcher is cornered or attacked. |
-| { *The Walls Have Ears* [**Ultimate**] } | "Every wall, every surface, every shadow — watching, all at once." | [The Watcher extends through every surface, filling the field with eyes.] | *All in range suffer Pale White erosion for three turns under the gaze.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Eyes Open* [**Debuff**] } | "You realize the walls have been watching the whole time." | [Eyes open across the walls; the target feels observed from every surface.] | *Target suffers a Void mark; the Watcher has noticed them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Watcher's space. |
+| { *The Whispered Name* [**Debuff**] } | "The walls whisper your name — and you cannot find the mouth that said it." | [The walls murmur the target's secrets; paranoia sets in.] | *Target loses clarity; they distrust every shadow.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers under surveillance. |
+| { *The Reach* [**Attack**] } | "A hand unfolds from the plaster, slow and certain." | [A limb extends from the wall and seizes the target.] | *Inflicts Void damage; the wall takes a piece of them.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target turns their back. |
+| { *The Swallowed* [**Attack**] } | "The wall opens — and you understand, too late, that it was never solid." | [The Watcher pulls the target partway into the wall's void.] | *A heavy Void strike; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Watcher is cornered or attacked. |
+| { *The Walls Have Ears* [**Ultimate**] } | "Every wall, every surface, every shadow — watching, all at once." | [The Watcher extends through every surface, filling the field with eyes.] | *All in range suffer Void erosion for three turns under the gaze.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-pendant of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a lens-pendant of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Panopticon (C-IIβ-235 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The Watcher formed from surveillance without intervention. Held at Zone B, Old Lament — ambient. The eyes do not blink or sleep.
+Panopticon (C-IIβ-235 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Watcher formed from surveillance without intervention. Held at Zone B, Old Lament — ambient. The eyes do not blink or sleep.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Eyes appear throughout connected structures. Personnel feel exposed and unable to keep secrets. They record actions but do not produce verdicts.
@@ -350,7 +350,7 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 > *“Perfect observation, total inaction. That is the city’s design.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-235 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IIβ-235 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Phantasmal manifestation
 **Common Name:** Panopticon
 **Containment Status:** Ambient — Zone D (mobile through infrastructure)
 **Comprehension Level:** 2 — Basic

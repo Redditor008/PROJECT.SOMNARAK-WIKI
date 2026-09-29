@@ -21,7 +21,7 @@ The Phoenix formed from survival that became another kind of death. The burden o
 | Source designation | O-IVδ-190 [GS] |
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Entity (IV) — Self-aware, cyclical, eternal / Critical (δ) |
-| Element / Location | Grudge (Crimson) / The Desolate — mobile |
+| Element / Location | Grudge / The Desolate — mobile |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire. |
@@ -52,7 +52,7 @@ During the The Ember Phoenix Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Ember Phoenix's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Allow the cycle to finish; forced extinguishing causes violent rebirth The set cannot heal the originating event. Misuse routes Ember Phoenix's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Ember Phoenix's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Allow the cycle to finish; forced extinguishing causes violent rebirth The set cannot heal the originating event. Misuse routes Ember Phoenix's wound through the operator and triggers the recorded escalation.
 
 ---
 

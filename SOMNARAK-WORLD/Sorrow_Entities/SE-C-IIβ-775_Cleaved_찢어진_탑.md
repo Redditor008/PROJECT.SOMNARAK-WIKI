@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A tall figure whose body resembles a tower split cleanly down the middle, burning at the seam, its upper half leaning toward a skyline that is not there. Stone-flesh and live fire braided together; bloodless-cold and fever-hot. It smells of ash and char. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Crack Spreads* [**Debuff**] } | "A crack opens in the wall — and it is shaped exactly like the wound you hide." | [The Tower's fracture resonates with the target's hidden damage.] | *Target suffers a Void mark; their own cracks are exposed.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
-| { *The Leaning* [**Debuff**] } | "The whole structure tilts — and you tilt with it, and cannot right yourself." | [The Tower's instability infects the target; balance fails.] | *Target loses clarity; they cannot tell which way is up.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers inside. |
-| { *The Falling Masonry* [**Attack**] } | "A block tears free from the wall and falls — heavy, jagged, aimed." | [A chunk of torn tower strikes the target.] | *Inflicts Void damage; a piece of structure tears away.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tower is shaken. |
-| { *The Split* [**Attack**] } | "The tower tears down the middle — and the void inside it shows its face." | [The Tower rips apart, revealing the hollow at its core.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tower is struck. |
-| { *Total Collapse* [**Ultimate**] } | "The tower comes down — and takes everything around it into the void." | [The Tower collapses entirely, pulling the field into its hollow.] | *All in range suffer Pale White erosion for three turns in the rubble.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Crack Spreads* [**Debuff**] } | "A crack opens in the wall — and it is shaped exactly like the wound you hide." | [The Tower's fracture resonates with the target's hidden damage.] | *Target suffers a Void mark; their own cracks are exposed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
+| { *The Leaning* [**Debuff**] } | "The whole structure tilts — and you tilt with it, and cannot right yourself." | [The Tower's instability infects the target; balance fails.] | *Target loses clarity; they cannot tell which way is up.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers inside. |
+| { *The Falling Masonry* [**Attack**] } | "A block tears free from the wall and falls — heavy, jagged, aimed." | [A chunk of torn tower strikes the target.] | *Inflicts Void damage; a piece of structure tears away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower is shaken. |
+| { *The Split* [**Attack**] } | "The tower tears down the middle — and the void inside it shows its face." | [The Tower rips apart, revealing the hollow at its core.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tower is struck. |
+| { *Total Collapse* [**Ultimate**] } | "The tower comes down — and takes everything around it into the void." | [The Tower collapses entirely, pulling the field into its hollow.] | *All in range suffer Void erosion for three turns in the rubble.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -211,7 +211,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a keystone of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a keystone of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cleaved (C-IIβ-775 [VS]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Tower formed from a structure that was never completed. Held at Zone B, Old Lament. It moves along the footprint of the abandoned tower.
+Cleaved (C-IIβ-775 [VS]) is logged as a Subject-Grudge manifestation expressing Void. The Tower formed from a structure that was never completed. Held at Zone B, Old Lament. It moves along the footprint of the abandoned tower.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the Old Lament as a walking vertical shadow. Personnel see futures that were never built and feel their loss. Its flames are emotional rather than physical.
@@ -348,7 +348,7 @@ Some sorrows mourn what was destroyed. Cleaved mourns what was never finished �
 > *“The city lives inside the unbuilt thing without knowing it.”* — Elder, Zone A
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-775` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIβ-775` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Grudge manifestation
 **Common Name:** Cleaved
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 2 — Basic

@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A weeping figure shaped like a collapsed bridge — a body of cracked stone and twisted span draped across its shoulders, weeping as it walks under the weight. Lead-cold, it smells of wet stone; it carries a crossing that failed, and cannot set it down. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Sagging Span* [**Debuff**] } | "The bridge groans — lower than it should be, bowing under a weight no one can see." | [The Bridge sags; the target feels the invisible burden pressing.] | *Target suffers -10 Resolve; the weight is transmitted through the structure.* **[10 Black DMG [Black / Weight]]** | When the target steps onto the Bridge. |
-| { *The Crumbling Edge* [**Debuff**] } | "The railings are gone — crumbled — and the edge keeps getting closer." | [The Bridge's edges fail; the safe walking surface narrows.] | *Target loses 10 Resolve; the gap between safe and falling shrinks.* **[10 Black DMG [Black / Weight]]** | When the target crosses. |
-| { *The Falling Section* [**Attack**] } | "A whole span drops away — and you drop with it." | [A section of Bridge collapses under the target.] | *Inflicts Black pressure and one wound of sudden, structural failure.* **[14-22 Black DMG [Black / Weight]]** | When the Bridge is overloaded. |
-| { *The Full Collapse* [**Attack**] } | "The entire bridge comes down — cables, pylons, road — all of it, at once." | [The Bridge fails completely in a catastrophic collapse.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Bridge is struck. |
-| { *Every Bridge Falls* [**Ultimate**] } | "The collapse spreads — every crossing, every span, every connection — all of it falling." | [The Bridge's failure propagates to every structure in the field.] | *All personnel suffer Black pressure for three turns of universal collapse.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Sagging Span* [**Debuff**] } | "The bridge groans — lower than it should be, bowing under a weight no one can see." | [The Bridge sags; the target feels the invisible burden pressing.] | *Target suffers -10 Resolve; the weight is transmitted through the structure.* **[10 Weight DMG [Weight]]** | When the target steps onto the Bridge. |
+| { *The Crumbling Edge* [**Debuff**] } | "The railings are gone — crumbled — and the edge keeps getting closer." | [The Bridge's edges fail; the safe walking surface narrows.] | *Target loses 10 Resolve; the gap between safe and falling shrinks.* **[10 Weight DMG [Weight]]** | When the target crosses. |
+| { *The Falling Section* [**Attack**] } | "A whole span drops away — and you drop with it." | [A section of Bridge collapses under the target.] | *Inflicts Weight pressure and one wound of sudden, structural failure.* **[14-22 Weight DMG [Weight]]** | When the Bridge is overloaded. |
+| { *The Full Collapse* [**Attack**] } | "The entire bridge comes down — cables, pylons, road — all of it, at once." | [The Bridge fails completely in a catastrophic collapse.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Bridge is struck. |
+| { *Every Bridge Falls* [**Ultimate**] } | "The collapse spreads — every crossing, every span, every connection — all of it falling." | [The Bridge's failure propagates to every structure in the field.] | *All personnel suffer Weight pressure for three turns of universal collapse.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a braced harness of black Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a braced harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Survivor's Span (N-IIβ-993 [WS]) is logged as a Subject-Lament manifestation expressing Weight (Black). The entity formed from a bridge collapse remembered by one survivor. Held at Zone B, deep tunnels. It waits beneath the same tunnel network.
+Survivor's Span (N-IIβ-993 [WS]) is logged as a Subject-Lament manifestation expressing Weight. The entity formed from a bridge collapse remembered by one survivor. Held at Zone B, deep tunnels. It waits beneath the same tunnel network.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through deep tunnels carrying its collapsed span. Personnel feel responsible for losses they could not prevent. Its tears gather but never flood the tracks.
@@ -346,7 +346,7 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 > *“If he deserved to live, they deserved to live. If they died, his living is unjust.”* — Former Tunnel Worker
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-993 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `N-IIβ-993 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Lament manifestation
 **Common Name:** Survivor's Span
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

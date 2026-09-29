@@ -12,9 +12,9 @@
 | **Coherence** | Sovereign (V) — Autonomous, mysterious |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A massive ancient door of black Han-crystal — no handle, no lock, no hinges, a sealed slab that has never been opened. Bloodless-cold, it smells of ash; it stands at the end of every corridor that leads nowhere, and no one knows what waits behind it. |
+| **Physical Form** | Non-Organic — A massive ancient door of Weight Han-crystal — no handle, no lock, no hinges, a sealed slab that has never been opened. Bloodless-cold, it smells of ash; it stands at the end of every corridor that leads nowhere, and no one knows what waits behind it. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
 | **R.D. Comprehension Level** | 1 — Minimal |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Last Threshold* [**Debuff**] } | "This is the final door — there are no more after this — and what lies beyond is the end of doors." | [The Door's finality presses on the target; they feel the weight of the last choice.] | *Target suffers a Void mark; the finality is absolute.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target faces the Door. |
-| { *The No-Return* [**Debuff**] } | "Once you open this door, you cannot come back — and the door knows this, and it is patient." | [The Door's permanence bears down; the target feels trapped by the choice.] | *Target loses clarity; every option leads through the Door.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target hesitates. |
-| { *The Iron Frame* [**Attack**] } | "The door's frame hardens — and the threshold itself strikes." | [The Door's frame becomes a weapon.] | *Inflicts Void damage; the passage costs identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Door is touched. |
-| { *The Full Opening* [**Attack**] } | "The door swings wide — and what is behind it is vast, and final, and hungry." | [The Door opens completely; the void beyond pours through.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Door is forced. |
-| { *Every Door Is the Last* [**Ultimate**] } | "Now every door in the field is the final door — and behind every one, the same endless void waits." | [The Door extends its finality to every opening.] | *All in range suffer Pale White erosion for three turns of final doors.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Last Threshold* [**Debuff**] } | "This is the final door — there are no more after this — and what lies beyond is the end of doors." | [The Door's finality presses on the target; they feel the weight of the last choice.] | *Target suffers a Void mark; the finality is absolute.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target faces the Door. |
+| { *The No-Return* [**Debuff**] } | "Once you open this door, you cannot come back — and the door knows this, and it is patient." | [The Door's permanence bears down; the target feels trapped by the choice.] | *Target loses clarity; every option leads through the Door.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target hesitates. |
+| { *The Iron Frame* [**Attack**] } | "The door's frame hardens — and the threshold itself strikes." | [The Door's frame becomes a weapon.] | *Inflicts Void damage; the passage costs identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Door is touched. |
+| { *The Full Opening* [**Attack**] } | "The door swings wide — and what is behind it is vast, and final, and hungry." | [The Door opens completely; the void beyond pours through.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Door is forced. |
+| { *Every Door Is the Last* [**Ultimate**] } | "Now every door in the field is the final door — and behind every one, the same endless void waits." | [The Door extends its finality to every opening.] | *All in range suffer Void erosion for three turns of final doors.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -98,7 +98,7 @@
 - When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through containment breach, territorial expansion, and rapid escalation.
 
 ## Appearance
-**Physical Form:** A massive, ancient door of black Han-crystal. It has no handle, lock, or visible hinges.
+**Physical Form:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.
 
 **Notable Features:**
 - Predates the facility, city, and known history.
@@ -109,7 +109,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A massive, ancient door of black Han-crystal. It has no handle, lock, or visible hinges.
+- **Primary marker:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.
 - **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, deepest Alpha Tree vault — sealed
@@ -118,7 +118,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive, ancient door of black Han-crystal. It has no handle, lock, or visible hinges. |
+| **Form** | A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Predates the facility, city, and known history. Cold on the outside and warm when touched. Whispers in a language no one has identified. |
@@ -196,7 +196,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Final Door: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, deepest Alpha Tree vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Final Door: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, deepest Alpha Tree vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -243,7 +243,7 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -261,7 +261,7 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -318,7 +318,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Final Door (C-Vδ-111 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). Unknown. The Door represents the sorrow of the unknown and the fear of what cannot be understood. Held at SECTOR-A-01, deepest Alpha Tree vault — sealed. The Door predates the facility, city, and all known records.
+The Final Door (C-Vδ-111 [VO]) is logged as a Object-Void manifestation expressing Void. Unknown. The Door represents the sorrow of the unknown and the fear of what cannot be understood. Held at SECTOR-A-01, deepest Alpha Tree vault — sealed. The Door predates the facility, city, and all known records.
 
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 May reveal a buried truth. Something warm and alive exists on the opposite side.
@@ -347,7 +347,7 @@ The air grows older as you descend. The walls narrow, the lamps flicker, and the
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A massive, ancient door of black Han-crystal. It has no handle, lock, or visible hinges. Notable Features: - Predates the facility, city, and known history. - Cold on the outside and warm when touched. - Whispers. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
+**At first contact:** The first identifiable detail is Physical Form: A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges. Notable Features: - Predates the facility, city, and known history. - Cold on the outside and warm when touched. - Whispers. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Void; it is this entity's Void — shaped by its origin, its wound, its particular grief.
 
@@ -403,7 +403,7 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 > *“The Door does not invite opening. It warns against it, silently, by the completeness of its sealing.”* — Warden, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vδ-111 [VO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-Vδ-111 [VO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Void · Object-Void manifestation
 **Common Name:** The Final Door
 **Containment Status:** Sealed — beneath the Alpha Tree
 **Comprehension Level:** 5 — Sovereign

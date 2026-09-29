@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 8–12 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 3–9 per hit · Grudge (Crimson) |
+| **Han Pressure [ATK]** | 3–9 per hit · Grudge |
 | **HP** | 50/50 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -62,7 +62,7 @@ Alert Level 1. Standard combat team with M.A.W. weapons.
 | **Han Pressure [ATK]** | 8–18 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[8–18 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[8–18 Grudge DMG [Grudge]]**
 
 ### The Iron Sentinel (Machine, Fragment-grade)
 
@@ -74,7 +74,7 @@ Alert Level 1. Standard combat team with M.A.W. weapons.
 | **Han Pressure [ATK]** | 13–23 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop. **[13–23 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop. **[13–23 Grudge DMG [Grudge]]**
 
 ### The Blade Storm (Non-Humanoid, Fragment-grade)
 
@@ -86,7 +86,7 @@ Alert Level 1. Standard combat team with M.A.W. weapons.
 | **Han Pressure [ATK]** | 18–28 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[18–28 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[18–28 Grudge DMG [Grudge]]**
 
 
 ## Trivia

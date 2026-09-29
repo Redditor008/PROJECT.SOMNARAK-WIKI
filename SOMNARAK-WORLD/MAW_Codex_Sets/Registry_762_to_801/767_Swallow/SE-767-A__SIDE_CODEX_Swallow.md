@@ -21,7 +21,7 @@ The Shadow formed from grief that outlived the person who first carried it. The 
 | Source designation | C-IVδ-767 [LP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree |
+| Element / Location | Lament / Zone A, Alpha Tree |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence. |
@@ -52,7 +52,7 @@ During the The Swallow Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Swallow's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Name the source of the grief and return emotional ownership The set cannot heal the originating event. Misuse routes Swallow's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Swallow's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Name the source of the grief and return emotional ownership The set cannot heal the originating event. Misuse routes Swallow's wound through the operator and triggers the recorded escalation.
 
 ---
 

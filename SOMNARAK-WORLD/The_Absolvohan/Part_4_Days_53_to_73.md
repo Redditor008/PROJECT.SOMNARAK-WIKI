@@ -557,7 +557,7 @@ Director Majin triggers the central command console:
 
 All five sectors stabilized with 11 seconds remaining! Zero breaches.
 
-##### Ordeal Manifestation: Crimson Third Watch Ordeal — The Blood-Tide Shrouds
+##### Ordeal Manifestation: Rust Third Watch Ordeal — The Blood-Tide Shrouds
 
 At 0.210 tons collected, crimson fluid seeps through Floor 7's outer walls. Three colossal shroud apparitions materialize:
 
@@ -789,7 +789,7 @@ All three spectral weaves shatter in 24 seconds! Zero casualties, +28 RHR reagen
 | Meltdowns Cleared   | 8 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Crimson Third Watch                         |
+| Ordeals Suppressed  | 1 Rust Third Watch                         |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -1812,7 +1812,7 @@ At 15:50, the vent floorplates of Floor 7 rupture in a geyser of magma:
 | INTRUSION POINT : FLOOR 7 SUBTERRANEAN VENT CORE (NODE 02)          |
 | HOSTILE PARAMETERS : HP 360/360 | Posture 180/180 | Speed 4 (2 AP)  |
 | ATTACK AFFINITY : Weight / Tremor (High Kinetic Ground Shock)       |
-| AFFINITY VULNERABILITY: Void (Pierce: 1.5x) & Lament (White: 1.25x) |
+| AFFINITY VULNERABILITY: Void (Pierce: 1.5x) & Lament (Clear: 1.25x) |
 | SPECIAL THREAT : Burrowing sub-floor charge disrupts all nod        |
 | TACTICAL ORDERS : INTERCEPT AT NODE 02; EXPLOIT VOID VULNERAB       |
 +=====================================================================+

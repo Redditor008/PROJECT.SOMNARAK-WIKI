@@ -1,15 +1,15 @@
-# PALE Third Watch — The Pale Hush
+# ASHEN Third Watch — The Pale Hush
 
-> *A secondary PALE Third Watch Ordeal — a distinct manifestation of void sorrow at major severity.*
+> *A secondary ASHEN Third Watch Ordeal — a distinct manifestation of void sorrow at major severity.*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | PALE |
+| **Color** | ASHEN |
 | **Time** | Third Watch |
 | **Risk** | Major |
-| **Form** | PALE Third Watch (secondary) |
+| **Form** | ASHEN Third Watch (secondary) |
 
 ## Formation
 
@@ -29,7 +29,7 @@ Engage with major-appropriate teams. Void-element M.A.W. recommended. Suppress t
 
 ## Facility Impact
 
-A major-severity PALE encounter: widespread structural and personnel threat. Contain before the void pressure cascades.
+A major-severity ASHEN encounter: widespread structural and personnel threat. Contain before the void pressure cascades.
 
 ## R.D. Response Protocol
 
@@ -37,7 +37,7 @@ Level 4+, Containment Lead oversight.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PALE Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary ASHEN Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Elite-grade)
 
@@ -49,7 +49,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 25–45 per hit · Void |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Skin-Blizzard (Non-Crystal, Elite-grade)
 
@@ -73,7 +73,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 35–55 per hit · Void |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It simply is, and what it touches, isn't. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[2 Void DMG [Void] (5% Max HP)]**
 
 
 ### The Void-Walker (Humanoid, Elite-grade)
@@ -86,7 +86,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 2 unit per hit · Void |
 | **Spawn Count** | 2 |
 
-**Ability:** It passes through, and the void it carries unmakes a portion of the self. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It passes through, and the void it carries unmakes a portion of the self. **[2 Void DMG [Void] (5% Max HP)]**
 
 ### The Whiteout (Amorphous, Elite-grade)
 
@@ -98,7 +98,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 2 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** It envelops, and everything inside loses its edges, its names, its form. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It envelops, and everything inside loses its edges, its names, its form. **[2 Void DMG [Void] (5% Max HP)]**
 
 ### The Erasure-Motes (Swarm, Elite-grade)
 
@@ -110,16 +110,16 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 10–14 |
 
-**Ability:** They swarm, and the touched feel themselves thinning toward transparency. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** They swarm, and the touched feel themselves thinning toward transparency. **[1 Void DMG [Void] (5% Max HP)]**
 
 
 ## Trivia
 
-- A lesser-documented sibling encounter to the primary PALE Third Watch Ordeal; same color and severity, different manifestation.
+- A lesser-documented sibling encounter to the primary ASHEN Third Watch Ordeal; same color and severity, different manifestation.
 
 ## Document Information
 
-- **Document ID:** ORDEAL-PALE-Third-II
+- **Document ID:** ORDEAL-ASHEN-Third-II
 - **Author:** R.D. Field Records
 - **Date:** Year 4238
 - **Classification:** Restricted

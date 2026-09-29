@@ -72,8 +72,8 @@ Ordeals manifest according to the facility's shift clock:
 | **GREY** | *Doubtful Cog* (Solo Red) | *Clockwork Sentry* (Squad Red) | *Automaton Colossus* (Kiting) | *World Machine* (Floor Focus) |
 | **RED** | *Crawling Grief* (Rapid Slash) | *Devouring Pack* (Choke Trap) | *Crimson Maw* (Shield Rotate) | *Beast of the Abyss* (Vanguard) |
 | **VIOLET** | *Wailing Needle* (Mental Ward) | *Hollow Obelisk* (Melee Swarm) | *Acoustic Shroud* (White Beam) | *Chorus of Emptiness* (Stagger) |
-| **BLACK** | *Heavy Pebble* (Dual Defense) | *Gravity Monolith* (Spread Out) | *Tectonic Crusher* (Dual Ranged) | *The Fallen Spire* (Total Mobilize) |
-| **PALE** | *Faint Phantom* (Void Mantle) | *Pale Reaper* (Void Sniper) | *Threshold Judge* (Scale Invert) | *The Final Sentence* (Absolute) |
+| **OBSIDIAN** | *Heavy Pebble* (Dual Defense) | *Gravity Monolith* (Spread Out) | *Tectonic Crusher* (Dual Ranged) | *The Fallen Spire* (Total Mobilize) |
+| **ASHEN** | *Faint Phantom* (Void Mantle) | *Pale Reaper* (Void Sniper) | *Threshold Judge* (Scale Invert) | *The Final Sentence* (Absolute) |
 
 ## 6 Tactical Suppression Doctrines for Complex Incursions
 

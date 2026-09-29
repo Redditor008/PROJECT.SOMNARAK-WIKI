@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-Ruin Requiem is a slender deep-blue Han-crystal blade. Dust runs backward along its edge when drawn, and each swing sounds like a roof settling far away. It formed after a survivor’s full account was heard without any fragment being fitted to another.
+Ruin Requiem is a slender Lament Han-crystal blade. Dust runs backward along its edge when drawn, and each swing sounds like a roof settling far away. It formed after a survivor’s full account was heard without any fragment being fitted to another.
 
 Binding requires a wielder to identify a place they cannot return to and refuse the promise that the blade can restore it. Rejection fills the user’s vision with intact rooms until they walk into present walls.
 

@@ -22,7 +22,7 @@
 | Entity | Unsprouted Life — 무너진 씨앗 |
 | Type / Manifestation | Subject / I-Relic — Object-Grudge manifestation |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | A split dark seed hauling itself on wet root-limbs, leaking warm blue tears while an unknowable partial life presses outward. |
 | Gauge / Pressure | 60–80% / Lament 27–58 |
 | Observation | 2 — Basic |

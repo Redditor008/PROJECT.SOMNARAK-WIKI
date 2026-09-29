@@ -22,7 +22,7 @@
 | Entity | Barrier of Nothing — 녹슨 벽 |
 | Type / Manifestation | Subject — Subject-Dream |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | A walking humanoid assembled from rusted wall plates, bleeding orange corrosion beside a Gate passage it does not physically block. |
 | Gauge / Pressure | 45–65% / Weight 13–29 |
 | Movement | 1.95 m/s in dream or breach |

@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats emptiness |
 | **Potency** | Moderate (β) — Manageable but dangerous |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A blank, featureless mask of dense black material — no eyes, mouth, or expression, a smooth face-shaped void. Its interior is impossibly deep. Lead-cold and heavy, it smells of wet stone. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hollow Face* [**Debuff**] } | "The mask stares — and behind the eye-holes, there is nothing. No face. No soul. Just weight." | [The Mask's emptiness presses on the target; they feel the void behind the surface.] | *Target suffers -10 Resolve; the absence is heavy.* **[10 Black DMG [Black / Weight]]** | When the target regards the Mask. |
-| { *The Gravity of Nothing* [**Debuff**] } | "The emptiness behind the mask pulls at you — and nothing has never been this heavy." | [The Mask's void-interior generates gravitational pull; the target is drawn in.] | *Target loses 10 Resolve; the nothing is dragging them.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Face-Blow* [**Attack**] } | "The mask lunges — and where a face should be, there is only crushing absence." | [The empty mask strikes with the weight of nothing behind it.] | *Inflicts Black pressure and one wound of hollow impact.* **[14-22 Black DMG [Black / Weight]]** | When the Mask is touched. |
-| { *The Full Vacuum* [**Attack**] } | "The mask opens wide — and the void inside inhales everything nearby." | [The Mask's interior void expands, sucking in the target.] | *A heavy Black void-pull; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Mask is broken. |
-| { *The Sea of Masks* [**Ultimate**] } | "Empty masks appear everywhere — on every wall, every face — and behind all of them, the same crushing nothing." | [The Mask multiplies across the entire field.] | *All in range suffer Black pressure for three turns of universal emptiness.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Hollow Face* [**Debuff**] } | "The mask stares — and behind the eye-holes, there is nothing. No face. No soul. Just weight." | [The Mask's emptiness presses on the target; they feel the void behind the surface.] | *Target suffers -10 Resolve; the absence is heavy.* **[10 Weight DMG [Weight]]** | When the target regards the Mask. |
+| { *The Gravity of Nothing* [**Debuff**] } | "The emptiness behind the mask pulls at you — and nothing has never been this heavy." | [The Mask's void-interior generates gravitational pull; the target is drawn in.] | *Target loses 10 Resolve; the nothing is dragging them.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Face-Blow* [**Attack**] } | "The mask lunges — and where a face should be, there is only crushing absence." | [The empty mask strikes with the weight of nothing behind it.] | *Inflicts Weight pressure and one wound of hollow impact.* **[14-22 Weight DMG [Weight]]** | When the Mask is touched. |
+| { *The Full Vacuum* [**Attack**] } | "The mask opens wide — and the void inside inhales everything nearby." | [The Mask's interior void expands, sucking in the target.] | *A heavy Black void-pull; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Mask is broken. |
+| { *The Sea of Masks* [**Ultimate**] } | "Empty masks appear everywhere — on every wall, every face — and behind all of them, the same crushing nothing." | [The Mask multiplies across the entire field.] | *All in range suffer Weight pressure for three turns of universal emptiness.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -189,12 +189,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | The Empty Mask rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Empty Mask activates its primary resonance: Makes the wearer unrecognizable to others. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of becoming nothing to oneself and to everyone else; the bearer begins perceiving echoes of citizens erased names, faces, and histories to survive. the accumulated absence crystallized into a mask with no face. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within The Empty Mask begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within The Empty Mask begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear The Empty Mask too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Progressive identity loss and inability to recognize oneself. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Empty Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-01, contained with the Masked Troupe, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Empty Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-01, contained with the Masked Troupe, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -218,7 +218,7 @@ The escalation pattern is specific to The Empty Mask: it is not a generic breach
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -239,7 +239,7 @@ The escalation pattern is specific to The Empty Mask: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -257,7 +257,7 @@ The escalation pattern is specific to The Empty Mask: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a mask-charm of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a mask-charm of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -313,7 +313,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Empty Mask (C-IIβ-054 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Mask formed from the sorrow of having no identity. Held at SECTOR-C-01, contained with the Masked Troupe. The Mask pulses near strong emotion but never develops a face.
+The Empty Mask (C-IIβ-054 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Mask formed from the sorrow of having no identity. Held at SECTOR-C-01, contained with the Masked Troupe. The Mask pulses near strong emotion but never develops a face.
 
 **Entry 2 — <Excerpt from Field Log, Year 4205>**
 Unsupervised exposure creates identity confusion within minutes.
@@ -396,7 +396,7 @@ Some sorrows mourn what was taken. The Empty Mask is what is left when the takin
 > *“Names, faces, histories stripped away. The Mask is what remains.”* — Researcher, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-054 [WO]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIβ-054 [WO]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** The Empty Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic

@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Non-Organic — It has no body at all; what manifests is a voice — low, unhurried, speaking two or three words of comfort — that arrives from just behind the listener's shoulder where no one stands. Sometimes a faint warmth like exhaled breath accompanies the words; that is the closest it comes to a form. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Warm Whisper* [**Debuff**] } | "A voice says something kind — from very far away, from very long ago — and the warmth of it aches." | [The Echo's fading kindness touches the target; they miss what was lost.] | *Target suffers -10 Composure; the kindness is almost gone.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target hears the Echo. |
-| { *The Cooling* [**Debuff**] } | "The warmth fades with each repetition — and soon, only the shape of the kind word will remain, empty." | [The Echo's diminishing warmth leaves the target cold.] | *Target loses 10 Composure; the kindness is draining away.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target listens. |
-| { *The Gentle Cut* [**Attack**] } | "The echo sharpens — and the kindness, compressed, becomes a blade of pure intention." | [A focused echo of kindness strikes.] | *Inflicts Deep Blue pressure and one wound of bittersweet pain.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Echo is disturbed. |
-| { *The Final Repetition* [**Attack**] } | "The echo repeats one last time — the kindest word ever spoken, at full force — and then goes silent forever." | [The Echo's last and strongest repetition.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Echo is silenced. |
-| { *The Silent Kindness* [**Ultimate**] } | "Every kind echo in the field fades — and the silence where warmth used to be is the coldest thing of all." | [The Echo extends its fading across the whole area.] | *All in range suffer Deep Blue pressure for three turns of cooling kindness.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Warm Whisper* [**Debuff**] } | "A voice says something kind — from very far away, from very long ago — and the warmth of it aches." | [The Echo's fading kindness touches the target; they miss what was lost.] | *Target suffers -10 Composure; the kindness is almost gone.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
+| { *The Cooling* [**Debuff**] } | "The warmth fades with each repetition — and soon, only the shape of the kind word will remain, empty." | [The Echo's diminishing warmth leaves the target cold.] | *Target loses 10 Composure; the kindness is draining away.* **[10 Lament DMG [Lament]]** | When the target listens. |
+| { *The Gentle Cut* [**Attack**] } | "The echo sharpens — and the kindness, compressed, becomes a blade of pure intention." | [A focused echo of kindness strikes.] | *Inflicts Lament pressure and one wound of bittersweet pain.* **[14-22 Lament DMG [Lament]]** | When the Echo is disturbed. |
+| { *The Final Repetition* [**Attack**] } | "The echo repeats one last time — the kindest word ever spoken, at full force — and then goes silent forever." | [The Echo's last and strongest repetition.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is silenced. |
+| { *The Silent Kindness* [**Ultimate**] } | "Every kind echo in the field fades — and the silence where warmth used to be is the coldest thing of all." | [The Echo extends its fading across the whole area.] | *All in range suffer Lament pressure for three turns of cooling kindness.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -202,7 +202,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -220,7 +220,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a small stone of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Echo of Kindness (C-Iα-240 [LO]) is logged as a Lament manifestation expressing Lament (Deep Blue). The Echo formed from kindness that became rare enough to crystallize. Held at Zone D, Mantle Commons — ambient. It appears after kindness rather than grief alone.
+Echo of Kindness (C-Iα-240 [LO]) is logged as a Lament manifestation expressing Lament. The Echo formed from kindness that became rare enough to crystallize. Held at Zone D, Mantle Commons — ambient. It appears after kindness rather than grief alone.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its words are short and direct.
@@ -360,7 +360,7 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 > *“The Echo does not comfort. It reminds us that comfort was once ordinary.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-240 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-240 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Lament manifestation
 **Common Name:** Echo of Kindness
 **Containment Status:** Ambient — Zone D, Mantle Commons
 **Comprehension Level:** 1 — Initial

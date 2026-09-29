@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place — Subject-Lament ambient sound |
 | Coherence / Potency | I — Residue / α — Minor |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | Zone D, Mantle Commons |
 | Form | Distant warm laughter with no body or physical vibration, thinning slowly until it becomes unbearable sadness. |
 | Gauge / pressure | 25–40% / Lament 3–10 |

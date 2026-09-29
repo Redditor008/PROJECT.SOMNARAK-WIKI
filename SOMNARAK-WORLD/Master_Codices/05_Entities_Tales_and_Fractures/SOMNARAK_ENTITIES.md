@@ -22,9 +22,9 @@
 
 | Entity | Designation | Element | What It Represents |
 |--------|-------------|---------|-------------------|
-| **The Observing Bird** | `III-γ-031` | Lament (Deep Blue) | The sorrow of witnessing without acting |
-| **The Weighting Bird** | `III-γ-032` | Grudge (Crimson) | The sorrow of measuring guilt — weighing sorrow against sorrow |
-| **The Guarding Bird** | `III-γ-033` | Void (Pale White) | The sorrow of protecting what cannot be saved |
+| **The Observing Bird** | `III-γ-031` | Lament | The sorrow of witnessing without acting |
+| **The Weighting Bird** | `III-γ-032` | Grudge | The sorrow of measuring guilt — weighing sorrow against sorrow |
+| **The Guarding Bird** | `III-γ-033` | Void | The sorrow of protecting what cannot be saved |
 
 **Group Behavior:**
 - If two Birds are worked with in the same day, the third becomes **agitated** — gauge fills faster
@@ -36,7 +36,7 @@ If all three Birds breach simultaneously and converge in the same location, they
 
 | Entity | Designation | Element | What It Is |
 |--------|-------------|---------|------------|
-| **The Convergence** | `V-δ-010` | Weight (Black) | The culmination of all three sorrows — a being of absolute judgment |
+| **The Convergence** | `V-δ-010` | Weight | The culmination of all three sorrows — a being of absolute judgment |
 
 **The Convergence** is one of the most dangerous entities in Somnarak. It judges everything it sees — and its judgment is always **guilty**. It does not attack directly — it **sentences**. Those sentenced feel the full weight of their accumulated sorrow at once. Most Fracture immediately.
 
@@ -48,9 +48,9 @@ If all three Birds breach simultaneously and converge in the same location, they
 
 | Entity | Designation | Element | What It Represents |
 |--------|-------------|---------|-------------------|
-| **The Grieving Maiden** | `IV-β-041` | Lament (Deep Blue) | The child who died of illness — sorrow of helplessness |
-| **The Angry Maiden** | `IV-β-042` | Grudge (Crimson) | The child who died of violence — sorrow of injustice |
-| **The Silent Maiden** | `IV-β-043` | Void (Pale White) | The child who died of neglect — sorrow of absence |
+| **The Grieving Maiden** | `IV-β-041` | Lament | The child who died of illness — sorrow of helplessness |
+| **The Angry Maiden** | `IV-β-042` | Grudge | The child who died of violence — sorrow of injustice |
+| **The Silent Maiden** | `IV-β-043` | Void | The child who died of neglect — sorrow of absence |
 
 **Group Behavior:**
 - The three Sisters are **always together** — they share a containment zone
@@ -69,10 +69,10 @@ The mother who lost them is still alive — it lives in the Echo Gardens, visiti
 
 | Entity | Designation | Element | What It Represents |
 |--------|-------------|---------|-------------------|
-| **The Happy Mask** | `II-β-051` | Void (Pale White) | The sorrow of pretending to be happy |
-| **The Angry Mask** | `II-β-052` | Grudge (Crimson) | The sorrow of performing rage you don't feel |
-| **The Sad Mask** | `II-β-053` | Lament (Deep Blue) | The sorrow of displaying grief to gain sympathy |
-| **The Empty Mask** | `II-β-054` | Weight (Black) | The sorrow of having no identity at all |
+| **The Happy Mask** | `II-β-051` | Void | The sorrow of pretending to be happy |
+| **The Angry Mask** | `II-β-052` | Grudge | The sorrow of performing rage you don't feel |
+| **The Sad Mask** | `II-β-053` | Lament | The sorrow of displaying grief to gain sympathy |
+| **The Empty Mask** | `II-β-054` | Weight | The sorrow of having no identity at all |
 
 **Group Behavior:**
 - The Troupe **wanders** — they move between containment zones, never staying in one place
@@ -90,9 +90,9 @@ The mother who lost them is still alive — it lives in the Echo Gardens, visiti
 
 | Entity | Designation | Element | What It Represents |
 |--------|-------------|---------|-------------------|
-| **The Debtor (Grandfather)** | `III-γ-061` | Weight (Black) | The sorrow of incurring the original debt |
-| **The Inheritor (Father)** | `III-γ-062` | Grudge (Crimson) | The sorrow of being forced to pay someone else's debt |
-| **The Rejector (Child)** | `III-γ-063` | Void (Pale White) | The sorrow of refusing to accept the debt — and being puniitd for it |
+| **The Debtor (Grandfather)** | `III-γ-061` | Weight | The sorrow of incurring the original debt |
+| **The Inheritor (Father)** | `III-γ-062` | Grudge | The sorrow of being forced to pay someone else's debt |
+| **The Rejector (Child)** | `III-γ-063` | Void | The sorrow of refusing to accept the debt — and being puniitd for it |
 
 **Group Behavior:**
 - The Triplets **argue** — they constantly debate who is responsible for the debt

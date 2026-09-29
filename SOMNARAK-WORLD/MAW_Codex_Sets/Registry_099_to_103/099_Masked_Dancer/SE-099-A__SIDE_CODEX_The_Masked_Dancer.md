@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Location | SECTOR-C-01, Mask Market |
 | Form | A tireless humanoid dancer of living flesh and bone, fever-hot beneath a smiling mask fused to the skin. |
 | Gauge / pressure | 35–50% / Grudge 8–20 |
@@ -118,7 +118,7 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 | Maximum Amount / Echo Cost | 4 — Limited / 20 Sorrow Echoes |
 | Primary Cost | Retreat and rest feel increasingly like failure. |
 
-**Quick effect:** The Plate protects a moving wearer from Crimson pressure but weakens when it has no planned stop.
+**Quick effect:** The Plate protects a moving wearer from Grudge pressure but weakens when it has no planned stop.
 
 ---
 

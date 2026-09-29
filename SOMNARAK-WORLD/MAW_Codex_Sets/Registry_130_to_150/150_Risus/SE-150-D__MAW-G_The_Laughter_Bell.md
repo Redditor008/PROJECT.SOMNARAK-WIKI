@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Laughter Bell |
 | Set | Joy After |
-| Type / grade / element | Stigma, tiny blue bell / α — Minor / Lament — Deep Blue |
+| Type / grade / element | Stigma, tiny blue bell / α — Minor / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; relief-and-memory witness required |
 | Known bearer | Specialist Kkotlom Lee |

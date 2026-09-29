@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A wall lying flat across an empty Forge lot — ordinary stone at a glance, but its surface bears the low relief of a sleeping figure, eyes closed, breathing in the grain of the rock. Bloodless-cold, it smells of ash; a wall that once was, or still is, a person. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Snore* [**Debuff**] } | "The wall vibrates — a deep, structural hum — the sound of stone dreaming." | [The Wall's dormant resonance permeates the target; they feel sleepy.] | *Target suffers a Void mark; the wall's sleep is contagious.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target leans on the Wall. |
-| { *The Settling* [**Debuff**] } | "The wall sinks a fraction — in its sleep — and the settling cracks the floor." | [The Wall's dream-settling creates instability.] | *Target loses clarity; the ground is shifting.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Sleep-Twitch* [**Attack**] } | "The wall spasms — a crack racing through the mortar — involuntary, violent." | [An involuntary structural convulsion.] | *Inflicts Void damage; the crack warps space.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Wall is touched. |
-| { *The Full Awakening* [**Attack**] } | "The wall wakes — and the first thing a barrier does when it wakes is decide what to keep out." | [The Wall's awakening activates its full defensive void.] | *A heavy Void activation; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Wall is struck. |
-| { *Every Wall Wakes* [**Ultimate**] } | "Every wall in the field stirs — and they are all deciding, simultaneously, who belongs inside." | [The Wall extends its waking across the whole area.] | *All in range suffer Pale White erosion for three turns of waking barriers.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Snore* [**Debuff**] } | "The wall vibrates — a deep, structural hum — the sound of stone dreaming." | [The Wall's dormant resonance permeates the target; they feel sleepy.] | *Target suffers a Void mark; the wall's sleep is contagious.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target leans on the Wall. |
+| { *The Settling* [**Debuff**] } | "The wall sinks a fraction — in its sleep — and the settling cracks the floor." | [The Wall's dream-settling creates instability.] | *Target loses clarity; the ground is shifting.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Sleep-Twitch* [**Attack**] } | "The wall spasms — a crack racing through the mortar — involuntary, violent." | [An involuntary structural convulsion.] | *Inflicts Void damage; the crack warps space.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Wall is touched. |
+| { *The Full Awakening* [**Attack**] } | "The wall wakes — and the first thing a barrier does when it wakes is decide what to keep out." | [The Wall's awakening activates its full defensive void.] | *A heavy Void activation; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Wall is struck. |
+| { *Every Wall Wakes* [**Ultimate**] } | "Every wall in the field stirs — and they are all deciding, simultaneously, who belongs inside." | [The Wall extends its waking across the whole area.] | *All in range suffer Void erosion for three turns of waking barriers.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a plated harness of pale Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -225,7 +225,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Bulwark (N-Iα-459 [VP]) is logged as a Place-Lament manifestation expressing Void (Pale White). The Wall formed from grief that withdrew into sleep. Held at Zone D, Forge District. It absorbs ordinary sound but not emotional presence.
+Bulwark (N-Iα-459 [VP]) is logged as a Place-Lament manifestation expressing Void. The Wall formed from grief that withdrew into sleep. Held at Zone D, Forge District. It absorbs ordinary sound but not emotional presence.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It warms near patient visitors.
@@ -361,7 +361,7 @@ Some sorrows are about rejection. Bulwark is about the failure to ask — the co
 > *“He walled himself in. He sealed the boundary. He slept. The wall and the worker, dormant together.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-459 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `N-Iα-459 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Place-Lament manifestation
 **Common Name:** Bulwark
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

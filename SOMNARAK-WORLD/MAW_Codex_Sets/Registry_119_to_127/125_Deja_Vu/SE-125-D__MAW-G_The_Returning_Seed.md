@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Returning Seed |
 | Set | Return Without Reclaiming |
-| Type / grade / element | Stigma, pale seed-charm / δ — Critical / Void — Pale White |
+| Type / grade / element | Stigma, pale seed-charm / δ — Critical / Void |
 | Slot | Head |
 | Status | Bearer-bound; equal-weight exchange review mandatory |
 | Known bearer | Researcher Euncris Park |

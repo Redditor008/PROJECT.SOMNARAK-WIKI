@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Dream |
 | Coherence / Potency | IV — Entity / γ — Major |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | SECTOR-A-01, near Dream Gates |
 | Form | A translucent humanoid woven from luminous dream threads, with a face that rearranges to match whoever dreams of it. |
 | Gauge / pressure | 45–65% / Lament 18–41 |

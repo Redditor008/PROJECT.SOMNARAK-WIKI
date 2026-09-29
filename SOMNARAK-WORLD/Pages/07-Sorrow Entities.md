@@ -15,7 +15,7 @@ Before the **Hand** learned to refine liquid **Han** into **Lumen**, sorrows wer
 | Total Tracked SE       | 292 entities (529 files, 285 unique SECC)     |
 | Risk Classifications   | Whisper - Murmur - Fragment - Entity - Starles|
 | Standard Work-Types    | Viderehan - Ferrehan - Flerehan - Pugnahan    |
-| Damage Pressures       | Grudge (Red) - Lament (Blue) - Void - Weight  |
+| Damage Pressures       | Grudge - Lament - Void - Weight               |
 | Tool Relic Types       | Single Use - Channeled Use - Equippable (88)  |
 +========================================================================+
 ```

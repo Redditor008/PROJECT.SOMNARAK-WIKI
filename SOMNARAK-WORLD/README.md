@@ -98,9 +98,9 @@ SOMNARAK-WORLD/
 ├── Ordeals/                            # 60 Cyclical Facility Defense Logs
 │   ├── README.md                       # Tactical guide for 5 Colors × 4 Watches
 │   ├── Ordeal_BLUE_*                   # Lament spectrum (emotional despair swarms)
-│   ├── Ordeal_BLACK_*                  # Weight spectrum (crushing gravitational trauma)
+│   ├── Ordeal_OBSIDIAN_*                  # Weight spectrum (crushing gravitational trauma)
 │   ├── Ordeal_GREY_*                   # Grudge spectrum (humanoid coordinated incursions)
-│   ├── Ordeal_PALE_*                   # Void spectrum (absolute identity erasure)
+│   ├── Ordeal_ASHEN_*                   # Void spectrum (absolute identity erasure)
 │   └── Ordeal_PURPLE_*                 # Raw Han corruption & reality-warping breaches
 │
 ├── Hope_Transformations/               # 14 Golden Dawn Ascension Records
@@ -147,13 +147,13 @@ SOMNARAK-WORLD/
 2. **Four Work Protocols:**
    - **Ferrehan (인내작업):** Physical endurance and barrier maintenance.
    - **Flerehan (공감작업):** Insight, weeping resonance, and active listening.
-   - **Pugnahan (억제작업):** Repression, acoustic clamping, and physical force.
+   - **Pugnahan (억제작업):** Suppression, acoustic clamping, and physical force.
    - **Viderehan (관찰작업):** Remote optical surveillance and detached analysis.
 3. **Four Han Damage Elements:**
-   - **Grudge (원한 / Crimson):** Physical and structural kinetic damage.
-   - **Lament (비탄 / Blue):** Composure drain, psychological erosion, despair.
-   - **Void (공허 / Pale White):** Soul damage, existential erasure, identity loss.
-   - **Weight (비중 / Black):** Gravitational collapse, percentage-based damage.
+   - **Grudge (원한):** Physical and structural kinetic damage.
+   - **Lament (비탄):** Composure drain, psychological erosion, despair.
+   - **Void (공허):** Soul damage, existential erasure, identity loss.
+   - **Weight (비중):** Gravitational collapse, percentage-based damage.
 4. **M.A.W. Equipment Architecture:**
    - **Codex-A (Side Codex):** Donor entity lore, resonant extraction conditions.
    - **Codex-B (Weapon - MAW-W):** Damage element, range band, special moves.

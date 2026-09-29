@@ -19,7 +19,7 @@
 | Entity | Learned Your Face — 슬픔의 거울 |
 | Type / Manifestation | Object/Place — Object-Void |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element / Location | Void — Pale White / SECTOR-A-01, Alpha Tree |
+| Element / Location | Void / SECTOR-A-01, Alpha Tree |
 | Form | A mirror that reflects sorrow instead of appearance, returning private grief exactly but without companionship. |
 | M.A.W. Set | Shared Face |
 

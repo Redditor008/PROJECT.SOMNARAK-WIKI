@@ -22,7 +22,7 @@
 | Entity | Compass Without North — 부서진 나침반 |
 | Type / Manifestation | Object/Place — Object-Void; A-Relic |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | A cracked tarnished-brass compass with no markings, clouded glass, and a needle that spins toward concentrated sorrow rather than direction. |
 | Gauge / Pressure | 35–50% / Void 9–23 |
 | Observation | 2 — Basic |

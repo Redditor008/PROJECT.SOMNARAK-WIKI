@@ -15,7 +15,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A warm crimson Han-iron Tail charm shaped like one split petal. It glows at the original wound and changes color around later damage, concealment, or attempted replacement.
+A warm Grudge Han-iron Tail charm shaped like one split petal. It glows at the original wound and changes color around later damage, concealment, or attempted replacement.
 
 Unopened Bloom granted it after Kkotlom remained beside the torn form without picking a fallen petal. Bestowal probability is 5%; the Stigma cannot be manufactured.
 

@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Tale |
 | **Physical Form** | Non-Organic — A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin but vellum. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's tale pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament / Deep Blue]]** | When the entity first fixes on a target. |
-| { *The Tale Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament tale sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[15 Lament DMG [Lament / Deep Blue]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[23 Lament DMG [Lament / Deep Blue]]** | When the entity is cornered or starved. |
-| { *The Tale Collapse* [**Ultimate**] } | "The tale breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[17 Lament DMG [Lament / Deep Blue] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's tale pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
+| { *The Tale Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament tale sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[15 Lament DMG [Lament]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[23 Lament DMG [Lament]]** | When the entity is cornered or starved. |
+| { *The Tale Collapse* [**Ultimate**] } | "The tale breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[17 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin but vellum.
 
 **Notable Features:**
-- Expresses Lament (Deep Blue) pressure in a tale register.
+- Expresses Lament pressure in a tale register.
 - The subject form is unmistakable — this is a tale entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a single-edged blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
 
 **Damage:** Lament 8–19
 **Speed:** 2 (Normal)
@@ -189,7 +189,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a flowing veil of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 0.3 (Resistant)
@@ -207,7 +207,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -297,7 +297,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-900 [LS]` · City Sorrow origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Tale manifestation
+**Classification:** Sorrow Entity — `C-Iα-900 [LS]` · City Sorrow origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Tale manifestation
 
 **Common Name:** Vellum Man
 
@@ -312,7 +312,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 - Flerehan and Pugnahan are also available.
 - Monitor the tale register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Lament (Deep Blue) · Subject-Tale · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Lament · Subject-Tale · Manifestation Classification
 
 ### Registry Addendum
 

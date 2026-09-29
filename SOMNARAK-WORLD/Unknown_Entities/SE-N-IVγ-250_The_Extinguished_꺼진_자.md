@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, its edges still faintly gold, its core gone cold and crimson where the hope burned out. Fever-cold, it smells of char; a light that failed, walking. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Last Light* [**Debuff**] } | "Every light dims — and then goes out — and the dark that follows is not empty. It is full of what was put out." | [The Extinguished's darkness presses on the target; they feel the weight of ended things.] | *Target suffers -10 Resilience; the dark is heavy with extinguished lives.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the dark. |
-| { *The Absolute Black* [**Debuff**] } | "The darkness is total — and in total darkness, you cannot tell if your eyes are open or closed." | [The Extinguished's void-like dark removes all reference; the target is disoriented.] | *Target loses 10 Resilience; they are blind in every sense.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target remains in the dark. |
-| { *The Cold Ash* [**Attack**] } | "Ash from the extinguished — cold, grey, final — blows across you." | [A blast of cold ash from what was put out.] | *Inflicts Crimson pressure and one wound of ended fire.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the dark is disturbed. |
-| { *The Full Extinction* [**Attack**] } | "Everything the entity ever extinguished — every light, every warmth, every hope — released as a wave of absolute, crushing dark." | [The Extinguished's total release is a wave of universal ending.] | *A heavy Crimson extinction-wave; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the dark is challenged. |
-| { *The Eternal Night* [**Ultimate**] } | "Every light in the field goes out — permanently — and the combined dark is an ending for everyone." | [The Extinguished extends its darkness across the whole area.] | *All in range suffer Crimson pressure for three turns of eternal night.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Last Light* [**Debuff**] } | "Every light dims — and then goes out — and the dark that follows is not empty. It is full of what was put out." | [The Extinguished's darkness presses on the target; they feel the weight of ended things.] | *Target suffers -10 Resilience; the dark is heavy with extinguished lives.* **[10 Grudge DMG [Grudge]]** | When the target enters the dark. |
+| { *The Absolute Black* [**Debuff**] } | "The darkness is total — and in total darkness, you cannot tell if your eyes are open or closed." | [The Extinguished's void-like dark removes all reference; the target is disoriented.] | *Target loses 10 Resilience; they are blind in every sense.* **[10 Grudge DMG [Grudge]]** | When the target remains in the dark. |
+| { *The Cold Ash* [**Attack**] } | "Ash from the extinguished — cold, grey, final — blows across you." | [A blast of cold ash from what was put out.] | *Inflicts Grudge pressure and one wound of ended fire.* **[14-22 Grudge DMG [Grudge]]** | When the dark is disturbed. |
+| { *The Full Extinction* [**Attack**] } | "Everything the entity ever extinguished — every light, every warmth, every hope — released as a wave of absolute, crushing dark." | [The Extinguished's total release is a wave of universal ending.] | *A heavy Crimson extinction-wave; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the dark is challenged. |
+| { *The Eternal Night* [**Ultimate**] } | "Every light in the field goes out — permanently — and the combined dark is an ending for everyone." | [The Extinguished extends its darkness across the whole area.] | *All in range suffer Grudge pressure for three turns of eternal night.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -156,7 +156,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Breach Type** | Escape |
 | **Movement** | The Extinguished shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -319,7 +319,7 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 > *"We sealed the Bearer's name. Not to protect her. To protect the entity. If it heard her name, it might remember being her — and we do not know what a sorrow does when it remembers it was once a person who hoped."* — Director Majin (마진), Year 4238
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVγ-250 [GS]` · Inner origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IVγ-250 [GS]` · Inner origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Extinguished
 **Containment Status:** Uncontained / Wandering — drifts its old district; pursues Hope signatures
 **Comprehension Level:** 3 — Elevated

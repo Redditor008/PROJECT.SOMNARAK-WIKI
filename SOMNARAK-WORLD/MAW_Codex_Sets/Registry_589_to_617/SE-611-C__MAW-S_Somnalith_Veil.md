@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A pale Han-gossamer veil that flows without air and tightens near Void pressure. The wearer’s outline becomes incomplete in reflections, but their name remains visible on the inner hem. Binding requires three identity anchors recorded outside the Dream layer.
+A Void Han-gossamer veil that flows without air and tightens near Void pressure. The wearer’s outline becomes incomplete in reflections, but their name remains visible on the inner hem. Binding requires three identity anchors recorded outside the Dream layer.
 
 The Veil formed when Sora remained beside Somnalith without entering the visible dream. A wearer seeking escape rather than observation fades at the fingertips before the cloth closes.
 

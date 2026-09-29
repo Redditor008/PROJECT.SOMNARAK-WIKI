@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Binding Maul |
 | Set | Named Obligation |
-| Type / grade / element | Weapon / β — Moderate / Weight — Black |
+| Type / grade / element | Weapon / β — Moderate / Weight |
 | Status | Active; debt-custody issue only |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Minho Ashford |

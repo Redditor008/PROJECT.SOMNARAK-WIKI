@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Accessory (Stigma) — verdict charm |
 | **Grade** | δ — Critical |
-| **Element** | Weight — Black |
+| **Element** | Weight |
 | **Slot** | Head |
 | **Acquisition Probability** | 4% under historical formation conditions |
 | **Status** | Sealed; no routine issuance |

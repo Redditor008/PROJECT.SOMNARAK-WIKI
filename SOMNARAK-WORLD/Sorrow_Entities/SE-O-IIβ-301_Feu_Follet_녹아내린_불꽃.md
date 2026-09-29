@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Mixed — A core of pale blue fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. It is heavier than it looks. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Softening Fire* [**Debuff**] } | "The flame is going liquid — wax, tears, grief — losing its edges, losing its heat, losing its will to burn." | [The Flame's dissolution radiates; the target feels their own warmth fading.] | *Target suffers -10 Composure; the fire is dying and so are they.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target sees the Flame. |
-| { *The Cooling* [**Debuff**] } | "The melting flame gives off cold instead of heat — and the cold is the grief of a fire that forgot how to burn." | [The Flame's reversed thermal output chills the target to the bone.] | *Target loses 10 Composure; they are going cold with a dying fire.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Wax Whip* [**Attack**] } | "A stream of liquid fire-whip lashes — hot and cold simultaneously, confusing every nerve." | [A molten flame-strike that burns and freezes.] | *Inflicts Deep Blue pressure and one wound of paradoxical temperature.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Flame is struck. |
-| { *The Full Melt* [**Attack**] } | "The flame collapses entirely — a puddle of liquid light on the floor — and the collapse releases every sorrow it ever burned away." | [The Flame's total dissolution releases its accumulated grief.] | *A heavy Deep Blue extinguishing; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Flame is put out. |
-| { *The Cold Hearth* [**Ultimate**] } | "Every flame in the field melts — and the combined puddle of dead fire drowns everything in cold grief." | [The Flame extends its melting across the whole area.] | *All in range suffer Deep Blue pressure for three turns of melting fires.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Softening Fire* [**Debuff**] } | "The flame is going liquid — wax, tears, grief — losing its edges, losing its heat, losing its will to burn." | [The Flame's dissolution radiates; the target feels their own warmth fading.] | *Target suffers -10 Composure; the fire is dying and so are they.* **[10 Lament DMG [Lament]]** | When the target sees the Flame. |
+| { *The Cooling* [**Debuff**] } | "The melting flame gives off cold instead of heat — and the cold is the grief of a fire that forgot how to burn." | [The Flame's reversed thermal output chills the target to the bone.] | *Target loses 10 Composure; they are going cold with a dying fire.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Wax Whip* [**Attack**] } | "A stream of liquid fire-whip lashes — hot and cold simultaneously, confusing every nerve." | [A molten flame-strike that burns and freezes.] | *Inflicts Lament pressure and one wound of paradoxical temperature.* **[14-22 Lament DMG [Lament]]** | When the Flame is struck. |
+| { *The Full Melt* [**Attack**] } | "The flame collapses entirely — a puddle of liquid light on the floor — and the collapse releases every sorrow it ever burned away." | [The Flame's total dissolution releases its accumulated grief.] | *A heavy Deep Blue extinguishing; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Flame is put out. |
+| { *The Cold Hearth* [**Ultimate**] } | "Every flame in the field melts — and the combined puddle of dead fire drowns everything in cold grief." | [The Flame extends its melting across the whole area.] | *All in range suffer Lament pressure for three turns of melting fires.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** an ember-charm of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** an ember-charm of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Feu Follet (O-IIβ-301 [LS]) is logged as a Subject-Mind manifestation expressing Lament (Deep Blue). The Flame formed from a Desolate survivor's memory of warmth after everyone else was gone. Held at Zone C, Mask Market. It manifests in the minds of people wearing masks.
+Feu Follet (O-IIβ-301 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Flame formed from a Desolate survivor's memory of warmth after everyone else was gone. Held at Zone C, Mask Market. It manifests in the minds of people wearing masks.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through masks, reflections, and consciousness. Personnel confuse remembered comfort with present safety. It is calmer when its source is accepted as imperfect.
@@ -348,7 +348,7 @@ Some sorrows mourn comfort lost. Feu Follet mourns comfort dissolving — the me
 > *“The memory decays. The flame, fed by the decay, burns with the fear of its own disappearance.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-301 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `O-IIβ-301 [LS]` · Lament · Subject-Mind manifestation
 **Common Name:** Feu Follet
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic

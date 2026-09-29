@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Border Charm |
 | Set | Shared Ground |
-| Type / grade / element | Stigma, root-marker charm / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Stigma, root-marker charm / δ — Critical / Grudge |
 | Slot | Tail |
 | Status | Bearer-bound; counterpart consultation required |
 | Known bearer | Specialist Sooah Park |

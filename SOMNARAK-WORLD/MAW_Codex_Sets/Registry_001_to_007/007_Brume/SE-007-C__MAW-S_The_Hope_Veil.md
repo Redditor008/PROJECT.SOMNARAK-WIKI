@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Armor — pale Veil |
 | **Grade** | γ — Major |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Maximum Amount** | 3 — Standard |
 | **Echo Cost** | 35 Sorrow Echoes |
 

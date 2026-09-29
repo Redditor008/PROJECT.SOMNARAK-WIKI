@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, reflective, deep |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A subterranean lake of liquid memory beneath the Echo Gardens — not water but a slow, dark, viscous surface that reflects the viewer's whole life rather than their face. The shore is cold stone; the liquid is salt-damp and smells of cold rain. A dropped stone sinks into a year. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Still Surface* [**Debuff**] } | "The lake is perfectly calm — and in the reflection, you see yourself as you were twenty years ago." | [The Lake's surface shows old memories; the target sees their past.] | *Target suffers -10 Composure; the reflected past pulls at them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target looks into the Lake. |
-| { *The Deep Current* [**Debuff**] } | "Beneath the surface, memories move — thousands of them, drifting, waiting to surface." | [The Lake's depths stir; the target senses the submerged recollections.] | *Target loses 10 Composure; the weight of submerged memory presses.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target wades in. |
-| { *The Rising Memory* [**Attack**] } | "A memory surges from the deep — given form, given weight, aimed at you." | [A congealed memory-mass erupts from the Lake.] | *Inflicts Deep Blue pressure and one wound of direct recollection.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Lake is disturbed. |
-| { *The Full Depth* [**Attack**] } | "The lake empties — every memory it ever held, surfacing at once." | [The Lake disgorges its complete accumulated depth.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Lake is drained. |
-| { *The Drowned World* [**Ultimate**] } | "The lake overflows — and the water carries every memory into every mind in the field." | [The Lake extends its memory-water across the whole area.] | *All in range suffer Deep Blue pressure for three turns of submerged memory.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Still Surface* [**Debuff**] } | "The lake is perfectly calm — and in the reflection, you see yourself as you were twenty years ago." | [The Lake's surface shows old memories; the target sees their past.] | *Target suffers -10 Composure; the reflected past pulls at them.* **[10 Lament DMG [Lament]]** | When the target looks into the Lake. |
+| { *The Deep Current* [**Debuff**] } | "Beneath the surface, memories move — thousands of them, drifting, waiting to surface." | [The Lake's depths stir; the target senses the submerged recollections.] | *Target loses 10 Composure; the weight of submerged memory presses.* **[10 Lament DMG [Lament]]** | When the target wades in. |
+| { *The Rising Memory* [**Attack**] } | "A memory surges from the deep — given form, given weight, aimed at you." | [A congealed memory-mass erupts from the Lake.] | *Inflicts Lament pressure and one wound of direct recollection.* **[14-22 Lament DMG [Lament]]** | When the Lake is disturbed. |
+| { *The Full Depth* [**Attack**] } | "The lake empties — every memory it ever held, surfacing at once." | [The Lake disgorges its complete accumulated depth.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Lake is drained. |
+| { *The Drowned World* [**Ultimate**] } | "The lake overflows — and the water carries every memory into every mind in the field." | [The Lake extends its memory-water across the whole area.] | *All in range suffer Lament pressure for three turns of submerged memory.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -202,7 +202,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -220,7 +220,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small flask of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small flask of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Memory Lake (C-IVγ-270 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Lake formed from memories released by the city's dead. Held at SECTOR-D-02, beneath the Echo Gardens. The Lake contains memories without known owners.
+Memory Lake (C-IVγ-270 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Lake formed from memories released by the city's dead. Held at SECTOR-D-02, beneath the Echo Gardens. The Lake contains memories without known owners.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its surface reflects emotional history, not physical form.
@@ -358,7 +358,7 @@ Some sorrows mourn the forgotten. Memory Lake mourns the remembered too well —
 > *“The Lake is the only thing in Somnarak that remembers everyone.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-270` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVγ-270` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** Memory Lake
 **Containment Status:** Contained — beneath Echo Gardens
 **Comprehension Level:** 3 — Advanced

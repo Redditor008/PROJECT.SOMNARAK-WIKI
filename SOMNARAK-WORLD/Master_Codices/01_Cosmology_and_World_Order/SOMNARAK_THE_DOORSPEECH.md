@@ -230,7 +230,7 @@ The Council denied it had ever sent her. Under their accounting she performed no
 
 Seiyon gave her the name **Ishall** in the corridor where the mission failed. The Door had already assigned her a fragment meaning *the name belonging to no one* — which is either the cruellest entry in the sequence or the only one that was ever on her side.
 
-> **Signature note.** Zyrak and Ishall are the only two of the Nine with identical registered signatures: **Grudge (Crimson) + Void (Pale White)**. Their fragments are the only two that resonate to each other when read consecutively.
+> **Signature note.** Zyrak and Ishall are the only two of the Nine with identical registered signatures: **Grudge + Void**. Their fragments are the only two that resonate to each other when read consecutively.
 
 ---
 

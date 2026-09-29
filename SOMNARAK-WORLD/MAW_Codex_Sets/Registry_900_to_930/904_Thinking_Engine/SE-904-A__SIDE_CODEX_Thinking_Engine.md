@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IIIγ-904 [LO] |
 | Type / Manifestation | Object — Can breach via Transform / Object-Mind |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Lament (Deep Blue) / SECTOR-C-904, contained |
+| Element / Location | Lament / SECTOR-C-904, contained |
 | Gauge / Pressure | 404/404; starts 35–50% / 17–23 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Thinking Engine Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Thinking Engine's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Thinking Engine's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Thinking Engine's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Thinking Engine's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -21,7 +21,7 @@ The Fragment formed from a monument broken by accumulated obligation. The burden
 | Source designation | O-IVδ-115 [WO] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Weight (Black) / Zone E, Border region |
+| Element / Location | Weight / Zone E, Border region |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A border monument commemorating generations of debt was shattered during an uprising; one fragment remained. |
@@ -52,7 +52,7 @@ During the The Weight of All Owed Source-Trace, the field team preserved this so
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.
 
 ---
 

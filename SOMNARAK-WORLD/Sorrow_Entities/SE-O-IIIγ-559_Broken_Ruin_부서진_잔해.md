@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A weeping figure assembled from pieces of a ruined Desolate structure — stone, dust, and splintered timber shifting between materials, never settling. Salt-damp, it smells of cold rain; a collapsed building that learned to walk and weep. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Second Break* [**Debuff**] } | "The ruin was already broken — and now it is breaking again, in new ways, along fault lines no one knew existed." | [The Ruin's ongoing decay generates fresh fractures; the target senses instability everywhere.] | *Target suffers -10 Composure; everything is crumbling further.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the Ruin. |
-| { *The Compounding Collapse* [**Debuff**] } | "Each new break makes the next break easier — and the easier breaks come faster, and faster." | [The Ruin's decay accelerates exponentially; the target is surrounded by ongoing destruction.] | *Target loses 10 Composure; they cannot find anything stable.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Flying Fragment* [**Attack**] } | "A piece of the breaking ruin flies free — sharp, uncertain of its shape, still crumbling mid-flight." | [ A fragment of actively-decaying ruin strikes.] | *Inflicts Deep Blue pressure and one wound of ongoing collapse.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Ruin is struck. |
-| { *The Total Subsidence* [**Attack**] } | "The ruin gives up — every remaining support failing at once — settling into dust." | [The Ruin's complete collapse releases all its stored decay-energy.] | *A heavy Deep Blue settling; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Ruin is undermined. |
-| { *The Dust Field* [**Ultimate**] } | "Every ruin in the field finishes breaking — and the dust of total collapse fills the air." | [The Ruin extends its decay across the whole area.] | *All in range suffer Deep Blue pressure for three turns of universal collapse.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Second Break* [**Debuff**] } | "The ruin was already broken — and now it is breaking again, in new ways, along fault lines no one knew existed." | [The Ruin's ongoing decay generates fresh fractures; the target senses instability everywhere.] | *Target suffers -10 Composure; everything is crumbling further.* **[10 Lament DMG [Lament]]** | When the target enters the Ruin. |
+| { *The Compounding Collapse* [**Debuff**] } | "Each new break makes the next break easier — and the easier breaks come faster, and faster." | [The Ruin's decay accelerates exponentially; the target is surrounded by ongoing destruction.] | *Target loses 10 Composure; they cannot find anything stable.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Flying Fragment* [**Attack**] } | "A piece of the breaking ruin flies free — sharp, uncertain of its shape, still crumbling mid-flight." | [ A fragment of actively-decaying ruin strikes.] | *Inflicts Lament pressure and one wound of ongoing collapse.* **[14-22 Lament DMG [Lament]]** | When the Ruin is struck. |
+| { *The Total Subsidence* [**Attack**] } | "The ruin gives up — every remaining support failing at once — settling into dust." | [The Ruin's complete collapse releases all its stored decay-energy.] | *A heavy Deep Blue settling; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Ruin is undermined. |
+| { *The Dust Field* [**Ultimate**] } | "Every ruin in the field finishes breaking — and the dust of total collapse fills the air." | [The Ruin extends its decay across the whole area.] | *All in range suffer Lament pressure for three turns of universal collapse.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Ruin (O-IIIγ-559 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Ruin formed from a structure destroyed outside the city and remembered by survivors. Held at Zone C, Mask Market. It reacts to survivors and Desolate travelers.
+Broken Ruin (O-IIIγ-559 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Ruin formed from a structure destroyed outside the city and remembered by survivors. Held at Zone C, Mask Market. It reacts to survivors and Desolate travelers.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Mask Market while carrying pieces of the ruin. Personnel feel grief from an outside disaster as their own. The fragments never form a stable building.
@@ -344,7 +344,7 @@ Some sorrows mourn a place. Broken Ruin mourns the carrying — the disaster bro
 > *“The catastrophe, in the pieces the survivors carried, sits in the city now.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-559 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-559 [LS]` · Lament · Subject-Lament manifestation
 **Common Name:** Broken Ruin
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic

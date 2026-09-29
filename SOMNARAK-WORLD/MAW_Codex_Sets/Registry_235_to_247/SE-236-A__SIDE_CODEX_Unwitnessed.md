@@ -22,7 +22,7 @@
 | Entity | Unwitnessed — 사라진 씨앗 |
 | Type / Manifestation | Object/Place — Object-Weight; O-Relic |
 | Coherence / Potency | I — Residue / α — Minor |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | A seed-shaped hollow in lifeless soil, ringed by dead black roots; visible only when rain or Han crosses it. |
 | Gauge / Pressure | 25–40% / Lament 3–10 |
 | Observation | 1 — Initial |

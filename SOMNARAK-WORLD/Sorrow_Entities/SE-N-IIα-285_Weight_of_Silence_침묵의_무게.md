@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats pressing |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — An invisible pressure with no body of its own, seen only as a dark outline bleeding out from people who have stopped speaking. Lead-cold, it smells of wet stone; nothing to strike — only the quiet, growing heavier around the silent. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unspoken* [**Debuff**] } | "Everything you never said gathers in your chest — and it weighs more than you do." | [The silence accrues; unspoken words become physical mass.] | *Target suffers -10 Resolve; the unsaid things are crushing.* **[10 Black DMG [Black / Weight]]** | When the target holds their tongue. |
-| { *The Loaded Pause* [**Debuff**] } | "The silence stretches — and with every second, it gets heavier." | [The silence compounds; each moment adds weight.] | *Target loses 10 Resolve; the pause is an anvil.* **[10 Black DMG [Black / Weight]]** | When the target fails to break the silence. |
-| { *The Dropped Word* [**Attack**] } | "One word, finally spoken — and it hits like a stone dropped from a height." | [A released word strikes with all its accumulated mass.] | *Inflicts Black pressure and one heavy, blunt wound.* **[14-22 Black DMG [Black / Weight]]** | When the silence is broken. |
-| { *The Full Confession* [**Attack**] } | "Everything you ever held back — spoken at once, at full weight." | [The entire accumulated silence is released as a crushing wave.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the silence is forced. |
-| { *The Silent Mountain* [**Ultimate**] } | "The silence becomes a mountain — and it sits on everyone at once." | [The Weight extends its silence across the whole field.] | *All personnel suffer Black pressure for three turns under the unsaid.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unspoken* [**Debuff**] } | "Everything you never said gathers in your chest — and it weighs more than you do." | [The silence accrues; unspoken words become physical mass.] | *Target suffers -10 Resolve; the unsaid things are crushing.* **[10 Weight DMG [Weight]]** | When the target holds their tongue. |
+| { *The Loaded Pause* [**Debuff**] } | "The silence stretches — and with every second, it gets heavier." | [The silence compounds; each moment adds weight.] | *Target loses 10 Resolve; the pause is an anvil.* **[10 Weight DMG [Weight]]** | When the target fails to break the silence. |
+| { *The Dropped Word* [**Attack**] } | "One word, finally spoken — and it hits like a stone dropped from a height." | [A released word strikes with all its accumulated mass.] | *Inflicts Weight pressure and one heavy, blunt wound.* **[14-22 Weight DMG [Weight]]** | When the silence is broken. |
+| { *The Full Confession* [**Attack**] } | "Everything you ever held back — spoken at once, at full weight." | [The entire accumulated silence is released as a crushing wave.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the silence is forced. |
+| { *The Silent Mountain* [**Ultimate**] } | "The silence becomes a mountain — and it sits on everyone at once." | [The Weight extends its silence across the whole field.] | *All personnel suffer Weight pressure for three turns under the unsaid.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a weight-token of black Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a weight-token of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Weight of Silence (N-IIα-285 [WS]) is logged as a Subject-Weight manifestation expressing Weight (Black). The Weight formed from silence held as responsibility. Held at Zone D, Mantle Commons — ambient. It appears around people who have stopped speaking about a shared event.
+Weight of Silence (N-IIα-285 [WS]) is logged as a Subject-Weight manifestation expressing Weight. The Weight formed from silence held as responsibility. Held at Zone D, Mantle Commons — ambient. It appears around people who have stopped speaking about a shared event.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Attaches to personnel and follows them through the Commons. Speech becomes physically difficult and thoughts feel heavy. It glows when someone attempts to leave without speaking.
@@ -345,7 +345,7 @@ Some sorrows are about speaking. Weight of Silence is about not speaking — the
 > *“Speaking would have shared the grief. Silence ensured each carried it alone.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIα-285 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIα-285 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Weight manifestation
 **Common Name:** Weight of Silence
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

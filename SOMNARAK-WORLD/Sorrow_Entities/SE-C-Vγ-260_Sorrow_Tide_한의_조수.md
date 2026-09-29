@@ -11,7 +11,7 @@
 | **Coherence** | Sovereign (V) — Autonomous and cyclical |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — Not a creature but the city-wide Sorrow Tide — a wave of concentrated Han that rises after sunset and recedes at dawn, felt as weight before it is seen. It presses every chest and fills every Sorrow Gauge; lead-heavy, it smells of wet stone. No body — only the tide. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slack Tide* [**Debuff**] } | "The sorrow pulls back — gathering, building — and you can feel the weight of what is coming." | [The Tide draws back; the target senses the building pressure.] | *Target suffers -10 Resolve; the calm before is worse than the wave.* **[10 Black DMG [Black / Weight]]** | When the Tide begins to pull. |
-| { *The Rising* [**Debuff**] } | "The sorrow swells — dark, heavy, inevitable — and the horizon of it is endless." | [The Tide's mass builds; the target sees the wave forming.] | *Target loses 10 Resolve; the wave is enormous.* **[10 Black DMG [Black / Weight]]** | When the Tide approaches. |
-| { *The Break* [**Attack**] } | "The wave breaks — a wall of sorrow-weight crashing down." | [The Tide crests and strikes.] | *Inflicts Black pressure and one crushing, tidal wound.* **[14-22 Black DMG [Black / Weight]]** | When the Tide is provoked. |
-| { *The Spring Tide* [**Attack**] } | "Every sorrow in the field converges — one massive, coordinated, crushing wave." | [The Tide's maximum amplification.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Tide is at its peak. |
-| { *The Flood* [**Ultimate**] } | "The sorrow-tide does not recede — it keeps rising — and the whole field goes under." | [The Tide floods the entire area permanently.] | *All in range suffer Black pressure for three turns in the sorrow sea.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slack Tide* [**Debuff**] } | "The sorrow pulls back — gathering, building — and you can feel the weight of what is coming." | [The Tide draws back; the target senses the building pressure.] | *Target suffers -10 Resolve; the calm before is worse than the wave.* **[10 Weight DMG [Weight]]** | When the Tide begins to pull. |
+| { *The Rising* [**Debuff**] } | "The sorrow swells — dark, heavy, inevitable — and the horizon of it is endless." | [The Tide's mass builds; the target sees the wave forming.] | *Target loses 10 Resolve; the wave is enormous.* **[10 Weight DMG [Weight]]** | When the Tide approaches. |
+| { *The Break* [**Attack**] } | "The wave breaks — a wall of sorrow-weight crashing down." | [The Tide crests and strikes.] | *Inflicts Weight pressure and one crushing, tidal wound.* **[14-22 Weight DMG [Weight]]** | When the Tide is provoked. |
+| { *The Spring Tide* [**Attack**] } | "Every sorrow in the field converges — one massive, coordinated, crushing wave." | [The Tide's maximum amplification.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tide is at its peak. |
+| { *The Flood* [**Ultimate**] } | "The sorrow-tide does not recede — it keeps rising — and the whole field goes under." | [The Tide floods the entire area permanently.] | *All in range suffer Weight pressure for three turns in the sorrow sea.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ The escalation pattern is specific to Sorrow Tide: it is not a generic breach ev
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -202,7 +202,7 @@ The escalation pattern is specific to Sorrow Tide: it is not a generic breach ev
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -220,7 +220,7 @@ The escalation pattern is specific to Sorrow Tide: it is not a generic breach ev
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small stone of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small stone of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sorrow Tide (C-Vγ-260 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Tide is the natural rhythm of a city built on sorrow. Held at All zones — periodic phenomenon. The Tide rises at night and falls at dawn.
+Sorrow Tide (C-Vγ-260 [WP]) is logged as a Place-Weight manifestation expressing Weight. The Tide is the natural rhythm of a city built on sorrow. Held at All zones — periodic phenomenon. The Tide rises at night and falls at dawn.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It affects every known Sorrow Entity.
@@ -358,7 +358,7 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 > *“The oldest cycle in Somnarak. The breath of a place built on sorrow.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-260 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-260 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
 **Common Name:** Sorrow Tide
 **Containment Status:** Uncontained — citywide (natural rhythm)
 **Comprehension Level:** 5 — Sovereign

@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IVδ-907 [WP] |
 | Type / Manifestation | Place — Can breach via Transform / Place-Body |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Weight (Black) / SECTOR-C-907, contained |
+| Element / Location | Weight / SECTOR-C-907, contained |
 | Gauge / Pressure | 429/429; starts 35–50% / 14–25 per hit · Weight |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Breathing Stone Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Breathing Stone's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Breathing Stone's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Breathing Stone's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Breathing Stone's wound through the operator and triggers the recorded escalation.
 
 ---
 

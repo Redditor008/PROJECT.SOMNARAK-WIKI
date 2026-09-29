@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A sleeping, mirror-like figure lying still, its surface showing the viewer's face only after the viewer has looked away — never while watched. Bloodless-cold, it smells of ash; glance back and the reflection is already gone. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Drowsy Surface* [**Debuff**] } | "The mirror's surface ripples — slowly, like a sleeping breath — and in the ripple, you see a dream." | [The Mirror's dream-state leaks; the target sees a sleeping reflection.] | *Target suffers a Void mark; the dream-reflection pulls at them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
-| { *The Lucid Dream* [**Debuff**] } | "The mirror's dream deepens — and now you cannot tell if you are awake, or inside the mirror's sleep." | [The Mirror's dreaming intensifies; the target's reality blurs.] | *Target loses clarity; dream and waking are indistinguishable.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares. |
-| { *The Dream Shard* [**Attack**] } | "A fragment of the sleeping mirror breaks free — carrying a piece of its dream, sharp and surreal." | [ A dream-splinter launches from the Mirror.] | *Inflicts Void damage; the surreal shard warps identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Waking* [**Attack**] } | "The mirror begins to wake — and the transition from dream to reality is violent, disorienting, and devastating." | [The Mirror's awakening releases all its dream-energy.] | *A heavy Void rupture of dream-logic; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mirror is forced awake. |
-| { *The Shared Dream* [**Ultimate**] } | "Every mirror in the field falls asleep — and everyone is pulled into the same dream, and no one can wake." | [The Mirror extends its dreaming across the whole area.] | *All in range suffer Pale White erosion for three turns of shared sleep.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Drowsy Surface* [**Debuff**] } | "The mirror's surface ripples — slowly, like a sleeping breath — and in the ripple, you see a dream." | [The Mirror's dream-state leaks; the target sees a sleeping reflection.] | *Target suffers a Void mark; the dream-reflection pulls at them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
+| { *The Lucid Dream* [**Debuff**] } | "The mirror's dream deepens — and now you cannot tell if you are awake, or inside the mirror's sleep." | [The Mirror's dreaming intensifies; the target's reality blurs.] | *Target loses clarity; dream and waking are indistinguishable.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares. |
+| { *The Dream Shard* [**Attack**] } | "A fragment of the sleeping mirror breaks free — carrying a piece of its dream, sharp and surreal." | [ A dream-splinter launches from the Mirror.] | *Inflicts Void damage; the surreal shard warps identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
+| { *The Waking* [**Attack**] } | "The mirror begins to wake — and the transition from dream to reality is violent, disorienting, and devastating." | [The Mirror's awakening releases all its dream-energy.] | *A heavy Void rupture of dream-logic; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is forced awake. |
+| { *The Shared Dream* [**Ultimate**] } | "Every mirror in the field falls asleep — and everyone is pulled into the same dream, and no one can wake." | [The Mirror extends its dreaming across the whole area.] | *All in range suffer Void erosion for three turns of shared sleep.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -208,7 +208,7 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a mirror-tile of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a mirror-tile of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Vanity Asleep (N-IIIγ-954 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The Mirror formed from self-knowledge that people were too exhausted to face. Held at Zone A, Alpha Tree. It remains dormant under ordinary observation.
+Vanity Asleep (N-IIIγ-954 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Mirror formed from self-knowledge that people were too exhausted to face. Held at Zone A, Alpha Tree. It remains dormant under ordinary observation.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Appears in reflective surfaces across Zone A. Personnel see themselves as the city sees them: damaged, tired, and pitied. It wakes when someone denies a reflection they have already seen.
@@ -344,7 +344,7 @@ Some sorrows are about what was lost. Vanity Asleep is about what is avoided —
 > *“The mirror sleeps because the selves are not ready to be seen.”* — Mender, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-954 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-954 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void · Subject-Phantasmal manifestation
 **Common Name:** Vanity Asleep
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic

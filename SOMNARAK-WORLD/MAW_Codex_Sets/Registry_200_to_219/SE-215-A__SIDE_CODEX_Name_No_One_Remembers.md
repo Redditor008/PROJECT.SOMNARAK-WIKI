@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Subject — Subject-Phantasmal |
 | Coherence / Potency | II — Echo / α — Minor |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | Zone B, Old Lament — ambient |
 | Primary Form | A fading voice and incomplete silhouette appearing at the instant someone almost remembers a name. |
 | Gauge / Han Pressure | 25–40% starting range / Void 2–8 per hit |
@@ -45,10 +45,10 @@ Writing stabilizes the trace for moments. One speaker cannot hold it. When separ
 
 | Element | Status | Visible or sensory sign |
 |---|---|---|
-| Lament — Deep Blue | None measured | Grief can clarify the subject, but the pressure is not Lament. |
-| Grudge — Crimson | None measured | Forced confrontation makes the trace retreat rather than retaliate. |
-| Void — Pale White | Primary | Names, faces, voices, and evidence become inaccessible in that order. |
-| Weight — Black | None measured | No stable Black signature. |
+| Lament | None measured | Grief can clarify the subject, but the pressure is not Lament. |
+| Grudge | None measured | Forced confrontation makes the trace retreat rather than retaliate. |
+| Void | Primary | Names, faces, voices, and evidence become inaccessible in that order. |
+| Weight | None measured | No stable Black signature. |
 
 > *“The file has a place where the name should be. A blank field is not proof that no person stood behind it.”* — Archive Lead Marjuk
 
@@ -102,7 +102,7 @@ The set does not discover the forgotten citizen’s name. It keeps other names f
 |---|---|---|---|
 | Void 3–6 | 2 — Normal / 2 — Short | Single; one attested target at 100% | 5 / 15 |
 
-The pale Han-glass disc focuses on the difference between a witnessed identity and the Void trying to erase it. Each shot removes a small unindexed memory from the wielder. A forced or guessed designation turns the strike back through the witness line.
+The Void Han-glass disc focuses on the difference between a witnessed identity and the Void trying to erase it. Each shot removes a small unindexed memory from the wielder. A forced or guessed designation turns the strike back through the witness line.
 
 ---
 
@@ -114,7 +114,7 @@ The pale Han-glass disc focuses on the difference between a witnessed identity a
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 5 / 10 |
 
-Cold pale Han-gossamer carries independently written names through its lining. It resists identity erasure while at least one witness-thread remains valid, but the protected wearer feels increasingly like a label other people are maintaining.
+Cold Void Han-gossamer carries independently written names through its lining. It resists identity erasure while at least one witness-thread remains valid, but the protected wearer feels increasingly like a label other people are maintaining.
 
 ---
 
@@ -122,7 +122,7 @@ Cold pale Han-gossamer carries independently written names through its lining. I
 
 ### M.A.W. Stigma — The Name Thread
 
-**Type / Slot:** Warm thread-band of pale Han-glass / Head  
+**Type / Slot:** Warm thread-band of Void Han-glass / Head  
 **Grade / Element:** α / Void  
 **Acquisition:** 5% after successful source work; entity-bestowed only  
 **Bonus:** +1 Composure during work with Name No One Remembers  

@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron harness split around an empty identity space. Binding requires present body, name, consent, and objective anchors.
+A Grudge Han-iron harness split around an empty identity space. Binding requires present body, name, consent, and objective anchors.
 
 Iseulfros wore it while Hollowcast rage surged. The Plate preserved physical continuity, but reflexes dulled whenever others tried to comfort through invented memories.
 

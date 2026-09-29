@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) — Self-aware, communicates through tolling |
 | **Potency** | Critical (δ) — Facility-threatening if breached |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A single massive bell, three meters tall, of dark Han-crystal veined with faint blue light, hung fixed within its tower and tolling with no hand to swing it. Its surface is cold and beaded like sweat, and the corroded metal has warped into the likeness of small, reaching hands. It is cast sorrow, not living tissue — and it rings for the children lost to the city's westward expansion, who will never grow old. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Toll* [**Debuff**] } | "The bell tolls once — and the sound passes through walls, floors, and bones alike." | [A single toll propagates through the structure; everyone within hearing feels a loss they cannot name.] | *Target suffers -10 Composure; the toll marks them with grief.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | At midnight, the anniversary, or when grief concentrates. |
-| { *The Echoing Loss* [**Debuff**] } | "The ringing will not stop — and with it, small pieces of who you were slip away." | [The toll sustains into a long resonance; prolonged exposure erodes memory and composure.] | *Target loses 10 Composure; faces and names begin to blur.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains within the bell's range. |
-| { *The Mourning Blade* [**Attack**] } | "The bell's grief sharpens into a single cutting note aimed at the heart." | [The toll condenses into a focused wave of lament that cuts through the target before fading.] | *Inflicts Deep Blue pressure and one wound of sorrow.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the bell is provoked or a marked target is in range. |
-| { *The Chorus of the Missing* [**Attack**] } | "Every child the bell mourns speaks at once — a chorus that breaks the steady heart." | [The bell gathers the grief of every missing child into one overwhelming peal.] | *A crushing Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the bell is struck or grief overflows. |
-| { *The Unanswered Vigil* [**Ultimate**] } | "The bell rings and rings for children who will never come home — and the whole tower weeps with it." | [The bell tolls without cease, flooding the area with unrelenting lament.] | *All in range suffer Deep Blue pressure for three turns.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Toll* [**Debuff**] } | "The bell tolls once — and the sound passes through walls, floors, and bones alike." | [A single toll propagates through the structure; everyone within hearing feels a loss they cannot name.] | *Target suffers -10 Composure; the toll marks them with grief.* **[10 Lament DMG [Lament]]** | At midnight, the anniversary, or when grief concentrates. |
+| { *The Echoing Loss* [**Debuff**] } | "The ringing will not stop — and with it, small pieces of who you were slip away." | [The toll sustains into a long resonance; prolonged exposure erodes memory and composure.] | *Target loses 10 Composure; faces and names begin to blur.* **[10 Lament DMG [Lament]]** | When the target remains within the bell's range. |
+| { *The Mourning Blade* [**Attack**] } | "The bell's grief sharpens into a single cutting note aimed at the heart." | [The toll condenses into a focused wave of lament that cuts through the target before fading.] | *Inflicts Lament pressure and one wound of sorrow.* **[14-22 Lament DMG [Lament]]** | When the bell is provoked or a marked target is in range. |
+| { *The Chorus of the Missing* [**Attack**] } | "Every child the bell mourns speaks at once — a chorus that breaks the steady heart." | [The bell gathers the grief of every missing child into one overwhelming peal.] | *A crushing Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the bell is struck or grief overflows. |
+| { *The Unanswered Vigil* [**Ultimate**] } | "The bell rings and rings for children who will never come home — and the whole tower weeps with it." | [The bell tolls without cease, flooding the area with unrelenting lament.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -256,7 +256,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Orphaned Bell: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-B-01 — special tower in Zone B; contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Orphaned Bell: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-B-01 — special tower in Zone B; contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -303,7 +303,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -321,7 +321,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -377,7 +377,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Orphaned Bell (C-IVδ-001 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The bell formed during the westward expansion of Zone B. Hundreds of children were displaced: some were lost, some forgotten, and some vanished in the chaos. The collective grief of parents who never found them crystallized into the bell. Held at SECTOR-B-01 — special tower in Zone B; contained. First Sorrow Entity formally classified by the R.D. as IV-δ-001.
+The Orphaned Bell (C-IVδ-001 [LO]) is logged as a Object-Lament manifestation expressing Lament. The bell formed during the westward expansion of Zone B. Hundreds of children were displaced: some were lost, some forgotten, and some vanished in the chaos. The collective grief of parents who never found them crystallized into the bell. Held at SECTOR-B-01 — special tower in Zone B; contained. First Sorrow Entity formally classified by the R.D. as IV-δ-001.
 
 **Entry 2 — <Excerpt from Field Log, Year 4209>**
 The tower contained 2,347 faces at one survey; the next survey recorded four additional faces.
@@ -465,7 +465,7 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 > *“It has tolled at midnight for as long as anyone can remember. It will toll when the last parent is forgotten.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-001 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-001 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Object-Lament manifestation
 **Common Name:** The Orphaned Bell
 **Containment Status:** Open display — Zone B
 **Comprehension Level:** 3 — Advanced

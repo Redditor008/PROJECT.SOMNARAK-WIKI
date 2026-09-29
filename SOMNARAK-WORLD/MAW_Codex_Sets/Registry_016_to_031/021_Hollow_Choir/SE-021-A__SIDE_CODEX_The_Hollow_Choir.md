@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Spirit |
 | **Coherence** | III — Fragment |
 | **Potency** | γ — Major |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Form** | 144 voices occupying an empty amphitheater |
 | **Location** | SECTOR-C-01, Zone C amphitheater |
 | **Comprehension Level** | 3 — Understood |

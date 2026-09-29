@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A pressure-shaped humanoid that rises from the ground like a standing wall of invisible grief — felt before seen, bending the air into the outline of a person. It remembers things the city has erased. Salt-damp, it smells of cold rain; pass through it and a lost memory surfaces. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Brick* [**Debuff**] } | "A brick appears at your feet — then another on top of it — the wall is building itself around you." | [The Wall begins rising; the target is being enclosed.] | *Target suffers -10 Composure; the wall is climbing.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands still. |
-| { *The Rising Horizon* [**Debuff**] } | "The wall grows past your head — and the sky is disappearing behind it." | [The Wall's growth obscures the target's view; the world shrinks.] | *Target loses 10 Composure; the wall is higher than they can see.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target fails to climb. |
-| { *The Toppling Brick* [**Attack**] } | "A brick from the top of the rising wall shakes loose — and the fall is a long one." | [ A brick drops from the growing Wall.] | *Inflicts Deep Blue pressure and one heavy, falling wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Wall is shaken. |
-| { *The Full Ascent* [**Attack**] } | "The wall reaches its full height — and then curves inward, closing like a fist." | [The Wall completes its growth and seals over the target.] | *A heavy Deep Blue enclosure; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Wall is overloaded. |
-| { *The Walled City* [**Ultimate**] } | "Walls rise everywhere — around every person — until the whole field is divided into sealed cells." | [The Wall extends its growth across the entire area.] | *All in range suffer Deep Blue pressure for three turns of rising walls.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Brick* [**Debuff**] } | "A brick appears at your feet — then another on top of it — the wall is building itself around you." | [The Wall begins rising; the target is being enclosed.] | *Target suffers -10 Composure; the wall is climbing.* **[10 Lament DMG [Lament]]** | When the target stands still. |
+| { *The Rising Horizon* [**Debuff**] } | "The wall grows past your head — and the sky is disappearing behind it." | [The Wall's growth obscures the target's view; the world shrinks.] | *Target loses 10 Composure; the wall is higher than they can see.* **[10 Lament DMG [Lament]]** | When the target fails to climb. |
+| { *The Toppling Brick* [**Attack**] } | "A brick from the top of the rising wall shakes loose — and the fall is a long one." | [ A brick drops from the growing Wall.] | *Inflicts Lament pressure and one heavy, falling wound.* **[14-22 Lament DMG [Lament]]** | When the Wall is shaken. |
+| { *The Full Ascent* [**Attack**] } | "The wall reaches its full height — and then curves inward, closing like a fist." | [The Wall completes its growth and seals over the target.] | *A heavy Deep Blue enclosure; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Wall is overloaded. |
+| { *The Walled City* [**Ultimate**] } | "Walls rise everywhere — around every person — until the whole field is divided into sealed cells." | [The Wall extends its growth across the entire area.] | *All in range suffer Lament pressure for three turns of rising walls.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)
@@ -188,7 +188,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -206,7 +206,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a pendant of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a pendant of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Rising Wall (C-IVδ-255 [N]) is logged as a Subject-Weight manifestation expressing Lament (Deep Blue). The Wall formed from love that was never returned. Held at Zone D, Mantle Commons. Its pressure rises during collective mourning.
+Rising Wall (C-IVδ-255 [N]) is logged as a Subject-Weight manifestation expressing Lament. The Wall formed from love that was never returned. Held at Zone D, Mantle Commons. Its pressure rises during collective mourning.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Grows through Mantle Commons and adjacent streets. Personnel feel overwhelming sorrow and unreturned attachment. It responds to patience rather than force.
@@ -342,7 +342,7 @@ Some sorrows mourn a loss. Rising Wall mourns an asymmetry — the love that one
 > *“The asymmetry of memory: one remembers, one forgets, and the difference becomes a wall.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-255 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-IVδ-255 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Weight manifestation
 **Common Name:** Rising Wall
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 3 — Advanced

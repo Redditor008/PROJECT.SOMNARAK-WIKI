@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A cold black Han-steel Head shard that rises only after mourning without touch. Bestowal chance is 4%.
+A cold Weight Han-steel Head shard that rises only after mourning without touch. Bestowal chance is 4%.
 
 ## Appearance
 

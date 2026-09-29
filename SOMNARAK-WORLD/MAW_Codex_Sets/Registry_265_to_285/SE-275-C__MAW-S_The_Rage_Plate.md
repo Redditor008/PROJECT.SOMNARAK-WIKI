@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A dark crimson Han-iron harness warm at every joint and cold against the skin. It condenses from controlled-work slag. Binding requires a named anger, shift limit, and external supervisor.
+A dark Grudge Han-iron harness warm at every joint and cold against the skin. It condenses from controlled-work slag. Binding requires a named anger, shift limit, and external supervisor.
 
 Iseulfros wore it while Crucible shaped an evacuation brace. The Plate resisted the furnace’s Grudge field, but her reflexes slowed each time she treated the Forge as an adversary rather than a worksite.
 

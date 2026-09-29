@@ -21,7 +21,7 @@ The Ruin formed from a settlement that died while its survivors continued mourni
 | Source designation | O-IVδ-844 [N] |
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / Zone B, Old Lament — ambient |
+| Element / Location | Lament / Zone B, Old Lament — ambient             |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent. |
@@ -52,7 +52,7 @@ During the The Repose Source-Trace, the field team preserved this source fact: A
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Repose's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not wake it; reduce noise and acknowledge the dead The set cannot heal the originating event. Misuse routes Repose's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Repose's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not wake it; reduce noise and acknowledge the dead The set cannot heal the originating event. Misuse routes Repose's wound through the operator and triggers the recorded escalation.
 
 ---
 

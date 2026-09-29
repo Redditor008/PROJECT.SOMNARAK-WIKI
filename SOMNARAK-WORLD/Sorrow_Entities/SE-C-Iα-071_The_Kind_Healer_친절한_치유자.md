@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) — Barely formed, passive |
 | **Potency** | Minor (α) — Low danger; transformation risk catastrophic |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A gentle humanoid of soft, glowing Han-crystal — not cold but comfort-warm, its surface pliant like skin held over light, its hands warm and faintly luminous. It radiates kindness; the air is salt-damp, smelling of cold rain on old cloth. (Twelve blessings turn it into the Dawn of Mourning.) |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gentle Hand* [**Debuff**] } | "It reaches out to heal you — and the healing is real, and warm, and carries more sorrow than any wound." | [The Healer's touch mends and burdens simultaneously.] | *Target suffers -10 Composure; they are healed and heartbroken at once.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target accepts healing. |
-| { *The Cost of Care* [**Debuff**] } | "Every wound the healer closes opens a grief somewhere else — and that grief is yours." | [The Healer's balance demands payment; the target absorbs displaced sorrow.] | *Target loses 10 Composure; the price of healing is grief.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target is healed again. |
-| { *The Bitter Medicine* [**Attack**] } | "The healer's hand turns rough — the kindness curdling into something that hurts because it cares too much." | [A healing-turned-harmful strike.] | *Inflicts Deep Blue pressure and one wound of overwhelming compassion.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Healer is rejected. |
-| { *The Full Cure* [**Attack**] } | "The healer tries to fix everything at once — and the concentrated care is devastating." | [The Healer's total effort overwhelms the target.] | *A heavy Deep Blue flood of healing that becomes drowning; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Healer is cornered. |
-| { *The Sanatorium* [**Ultimate**] } | "The healer extends its care to everyone — and the combined cost of universal healing crushes everyone under accumulated grief." | [The Healer extends its burden across the whole field.] | *All in range suffer Deep Blue pressure for three turns of overwhelming care.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Gentle Hand* [**Debuff**] } | "It reaches out to heal you — and the healing is real, and warm, and carries more sorrow than any wound." | [The Healer's touch mends and burdens simultaneously.] | *Target suffers -10 Composure; they are healed and heartbroken at once.* **[10 Lament DMG [Lament]]** | When the target accepts healing. |
+| { *The Cost of Care* [**Debuff**] } | "Every wound the healer closes opens a grief somewhere else — and that grief is yours." | [The Healer's balance demands payment; the target absorbs displaced sorrow.] | *Target loses 10 Composure; the price of healing is grief.* **[10 Lament DMG [Lament]]** | When the target is healed again. |
+| { *The Bitter Medicine* [**Attack**] } | "The healer's hand turns rough — the kindness curdling into something that hurts because it cares too much." | [A healing-turned-harmful strike.] | *Inflicts Lament pressure and one wound of overwhelming compassion.* **[14-22 Lament DMG [Lament]]** | When the Healer is rejected. |
+| { *The Full Cure* [**Attack**] } | "The healer tries to fix everything at once — and the concentrated care is devastating." | [The Healer's total effort overwhelms the target.] | *A heavy Lament flood of healing that becomes drowning; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Healer is cornered. |
+| { *The Sanatorium* [**Ultimate**] } | "The healer extends its care to everyone — and the combined cost of universal healing crushes everyone under accumulated grief." | [The Healer extends its burden across the whole field.] | *All in range suffer Lament pressure for three turns of overwhelming care.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -191,7 +191,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)
@@ -212,7 +212,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -230,7 +230,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a touch-token of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a touch-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -286,7 +286,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Kind Healer (C-Iα-071 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Healer formed from the compassion of a woman who walked Zone B tending the wounded, sick, and Fractured. Held at SECTOR-B-02, Zone B — contained. The Healer has completed twelve blessings in the current cycle and transformed into The Hand of Hope.
+The Kind Healer (C-Iα-071 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Healer formed from the compassion of a woman who walked Zone B tending the wounded, sick, and Fractured. Held at SECTOR-B-02, Zone B — contained. The Healer has completed twelve blessings in the current cycle and transformed into The Hand of Hope.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Moves gently through the facility seeking wounded personnel. Heals personnel while absorbing their pain; each blessing advances transformation. Healing is genuine, but the entity visibly shudders as it absorbs each pain.
@@ -372,7 +372,7 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 > *“The holiest life can end in a radiant and perfect hollow.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-071 [LS]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Iα-071 [LS]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Subject-Body manifestation
 **Common Name:** The Kind Healer
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced

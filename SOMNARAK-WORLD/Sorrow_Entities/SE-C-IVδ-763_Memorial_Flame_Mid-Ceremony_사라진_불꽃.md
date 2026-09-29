@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty vault holding the absence of a flame — the room warm around a dark shape where fire should be, but no fire, only the heat and the negative space of it. Salt-warm, it smells of cold rain and old smoke; the missing flame is felt, not seen. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Last Ember* [**Debuff**] } | "You remember warmth — and the remembering is colder than the cold." | [The Flame shows the memory of its warmth; the absence aches.] | *Target suffers -10 Composure; the lost heat is felt as cold.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target approaches the dark. |
-| { *The Cold Draft* [**Debuff**] } | "A draft moves through — and it carries away whatever warmth you had left." | [The Flame's absence draws the target's warmth out.] | *Target loses 10 Composure; the chill settles into them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers in the dark. |
-| { *The Soot Fall* [**Attack**] } | "Ash, where the flame once was, rises and falls like black snow." | [A fall of cold soot scourges the area.] | *Inflicts Deep Blue pressure and one gritting, cold wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Flame is disturbed. |
-| { *Where It Burned* [**Attack**] } | "The place the flame left behind opens — and the absence is a wound." | [The void the Flame left becomes a focused cold that strikes.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Flame is invoked or struck. |
-| { *The Eternal Dark* [**Ultimate**] } | "The last light goes out — for everyone — and will not come back." | [The Flame extinguishes the final warmth across the whole field.] | *All personnel suffer Deep Blue pressure for three turns in the lightless dark.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Last Ember* [**Debuff**] } | "You remember warmth — and the remembering is colder than the cold." | [The Flame shows the memory of its warmth; the absence aches.] | *Target suffers -10 Composure; the lost heat is felt as cold.* **[10 Lament DMG [Lament]]** | When the target approaches the dark. |
+| { *The Cold Draft* [**Debuff**] } | "A draft moves through — and it carries away whatever warmth you had left." | [The Flame's absence draws the target's warmth out.] | *Target loses 10 Composure; the chill settles into them.* **[10 Lament DMG [Lament]]** | When the target lingers in the dark. |
+| { *The Soot Fall* [**Attack**] } | "Ash, where the flame once was, rises and falls like black snow." | [A fall of cold soot scourges the area.] | *Inflicts Lament pressure and one gritting, cold wound.* **[14-22 Lament DMG [Lament]]** | When the Flame is disturbed. |
+| { *Where It Burned* [**Attack**] } | "The place the flame left behind opens — and the absence is a wound." | [The void the Flame left becomes a focused cold that strikes.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Flame is invoked or struck. |
+| { *The Eternal Dark* [**Ultimate**] } | "The last light goes out — for everyone — and will not come back." | [The Flame extinguishes the final warmth across the whole field.] | *All personnel suffer Lament pressure for three turns in the lightless dark.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Memorial Flame Mid-Ceremony (C-IVδ-763 [LP]) is logged as a Place-Void manifestation expressing Lament (Deep Blue). The Flame formed from a fire extinguished before its owner could grieve. Held at Zone A, Alpha Tree vault. The vault's temperature changes despite no measurable flame.
+Memorial Flame Mid-Ceremony (C-IVδ-763 [LP]) is logged as a Place-Void manifestation expressing Lament. The Flame formed from a fire extinguished before its owner could grieve. Held at Zone A, Alpha Tree vault. The vault's temperature changes despite no measurable flame.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Personnel experience emptiness before grief.
@@ -360,7 +360,7 @@ Some sorrows mourn the dead. Memorial Flame Mid-Ceremony mourns the unfinished �
 > *“Looking for the mourner who will, at last, sit with it and let it burn down.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-763 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-763 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Void manifestation
 **Common Name:** Memorial Flame Mid-Ceremony
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 3 — Advanced

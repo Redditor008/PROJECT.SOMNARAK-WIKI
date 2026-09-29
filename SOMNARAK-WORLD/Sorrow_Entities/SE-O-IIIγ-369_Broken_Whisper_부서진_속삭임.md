@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A fractured crystal object that emits broken fragments of whispers — half-words, cut-off names — drifting without purpose. Salt-cold, it smells of cold rain; a sentence that shattered before it finished. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Collapsed Word* [**Debuff**] } | "The whisper tried to form — and collapsed — and the rubble of the failed word stings." | [The Whisper's structural failure scatters meaning-fragments at the target.] | *Target suffers -10 Composure; the broken words cut.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target tries to listen. |
-| { *The Debris of Speech* [**Debuff**] } | "Each fragment carries a piece of the intended message — and none of them fit together." | [The Whisper's fragments are irreconcilable; the target cannot assemble meaning.] | *Target loses 10 Composure; the puzzle is impossible.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target gathers fragments. |
-| { *The Sharp Fragment* [**Attack**] } | "A shard of broken whisper, hardened by collapse, flies free." | [A word-shard launches.] | *Inflicts Deep Blue pressure and one thin, ringing cut.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the fragments are disturbed. |
-| { *The Full Collapse* [**Attack**] } | "The entire whisper gives way — every letter, every syllable — an avalanche of language." | [The Whisper's total failure releases its linguistic mass.] | *A heavy Deep Blue avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Whisper is forced. |
-| { *Every Word Falls Apart* [**Ultimate**] } | "Every whisper in the field collapses — and the combined debris of language buries everything." | [The Whisper extends its collapse across the whole area.] | *All in range suffer Deep Blue pressure for three turns of broken speech.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Collapsed Word* [**Debuff**] } | "The whisper tried to form — and collapsed — and the rubble of the failed word stings." | [The Whisper's structural failure scatters meaning-fragments at the target.] | *Target suffers -10 Composure; the broken words cut.* **[10 Lament DMG [Lament]]** | When the target tries to listen. |
+| { *The Debris of Speech* [**Debuff**] } | "Each fragment carries a piece of the intended message — and none of them fit together." | [The Whisper's fragments are irreconcilable; the target cannot assemble meaning.] | *Target loses 10 Composure; the puzzle is impossible.* **[10 Lament DMG [Lament]]** | When the target gathers fragments. |
+| { *The Sharp Fragment* [**Attack**] } | "A shard of broken whisper, hardened by collapse, flies free." | [A word-shard launches.] | *Inflicts Lament pressure and one thin, ringing cut.* **[14-22 Lament DMG [Lament]]** | When the fragments are disturbed. |
+| { *The Full Collapse* [**Attack**] } | "The entire whisper gives way — every letter, every syllable — an avalanche of language." | [The Whisper's total failure releases its linguistic mass.] | *A heavy Deep Blue avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Whisper is forced. |
+| { *Every Word Falls Apart* [**Ultimate**] } | "Every whisper in the field collapses — and the combined debris of language buries everything." | [The Whisper extends its collapse across the whole area.] | *All in range suffer Lament pressure for three turns of broken speech.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Broken Whisper rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Broken Whisper activates its primary resonance: Returns one broken whisper as a complete emotional message. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of unfinished pleas and voices broken by fear; the bearer begins perceiving echoes of messages from the deep tunnels were silenced by collapse and han pressure. their fragments crystallized into the object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Whisper begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Broken Whisper begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Broken Whisper too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The listener may mistake another person's final words for their own memory. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Whisper: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Whisper: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -228,7 +228,7 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -246,7 +246,7 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a tiny bell of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a tiny bell of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Whisper (O-IIIγ-369 [LO]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The object formed from words interrupted before they could be heard. Held at Zone B, deep tunnels. The object floats along underground sorrow currents.
+Broken Whisper (O-IIIγ-369 [LO]) is logged as a Object-Weight manifestation expressing Lament. The object formed from words interrupted before they could be heard. Held at Zone B, deep tunnels. The object floats along underground sorrow currents.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 No complete message has been recovered without human interpretation.
@@ -382,7 +382,7 @@ Some sorrows mourn the dead. Broken Whisper mourns their last words — the mess
 > *“The last words of workers who died in the dark, preserved as fragments.”* — Elder, Tunnels
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-369 [LO]` · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-369 [LO]` · Lament · Object-Weight manifestation
 **Common Name:** Broken Whisper
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic

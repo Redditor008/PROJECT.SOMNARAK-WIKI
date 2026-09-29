@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | N-IIβ-910 [WP] |
 | Type / Manifestation | Place — Can breach via Transform / Place-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Weight (Black) / SECTOR-N-910, contained |
+| Element / Location | Weight / SECTOR-N-910, contained |
 | Gauge / Pressure | 410/410; starts 35–50% / 14–21 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Moktak Source-Trace, the field team preserved this source fact: N
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Moktak's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Moktak's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Moktak's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Moktak's wound through the operator and triggers the recorded escalation.
 
 ---
 

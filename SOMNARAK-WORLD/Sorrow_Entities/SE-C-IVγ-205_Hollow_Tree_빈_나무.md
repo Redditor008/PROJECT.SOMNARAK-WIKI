@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, ancient, patient |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A massive dead tree that has uprooted to walk on knotted root-legs, its hollow trunk a gaping mouth that drags in whatever passes — a lumbering plant-creature of stripped bark. Lead-cold, it smells of wet stone. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Echoing Trunk* [**Debuff**] } | "You knock on the trunk — and it echoes, hollow, enormous inside. There is more nothing in there than there is tree." | [The Tree's interior void resonates; the target senses the emptiness.] | *Target suffers -10 Resolve; the hollowness is vast.* **[10 Black DMG [Black / Weight]]** | When the target touches the Tree. |
-| { *The Leaning* [**Debuff**] } | "The tree sways — too easily, too far — because there is nothing inside to hold it rigid." | [The Tree's structural void makes it unstable; the target feels precarious.] | *Target loses 10 Resolve; everything is hollow and about to fall.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Split* [**Attack**] } | "The trunk cracks open — and the void inside expands outward." | [The Tree's shell breaks, releasing the hollow.] | *Inflicts Black pressure and one wound of expanding emptiness.* **[14-22 Black DMG [Black / Weight]]** | When the Tree is struck. |
-| { *The Full Topple* [**Attack**] } | "The hollow tree falls — and where it lands, the void it contained spreads." | [The Tree collapses; its interior void is released.] | *A heavy Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Tree is felled. |
-| { *The Hollow Forest* [**Ultimate**] } | "Every tree in the field splits open — and every one is hollow, and the nothing is everywhere." | [The Tree spreads its hollowness across the entire field.] | *All in range suffer Black pressure for three turns of universal emptiness.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Echoing Trunk* [**Debuff**] } | "You knock on the trunk — and it echoes, hollow, enormous inside. There is more nothing in there than there is tree." | [The Tree's interior void resonates; the target senses the emptiness.] | *Target suffers -10 Resolve; the hollowness is vast.* **[10 Weight DMG [Weight]]** | When the target touches the Tree. |
+| { *The Leaning* [**Debuff**] } | "The tree sways — too easily, too far — because there is nothing inside to hold it rigid." | [The Tree's structural void makes it unstable; the target feels precarious.] | *Target loses 10 Resolve; everything is hollow and about to fall.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Split* [**Attack**] } | "The trunk cracks open — and the void inside expands outward." | [The Tree's shell breaks, releasing the hollow.] | *Inflicts Weight pressure and one wound of expanding emptiness.* **[14-22 Weight DMG [Weight]]** | When the Tree is struck. |
+| { *The Full Topple* [**Attack**] } | "The hollow tree falls — and where it lands, the void it contained spreads." | [The Tree collapses; its interior void is released.] | *A heavy Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tree is felled. |
+| { *The Hollow Forest* [**Ultimate**] } | "Every tree in the field splits open — and every one is hollow, and the nothing is everywhere." | [The Tree spreads its hollowness across the entire field.] | *All in range suffer Weight pressure for three turns of universal emptiness.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -196,7 +196,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Category:** Protective Attire (Petrified Bark Plates & Hollow Rib-Armor)
 **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -215,7 +215,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Category:** Stigma (Throat Relic Mark)
 **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollow Tree (C-IVγ-205 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Tree formed from a life lived without being filled by purpose or love. Held at SECTOR-D-02, Echo Gardens. The Tree is passive but emotionally hazardous.
+Hollow Tree (C-IVγ-205 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Tree formed from a life lived without being filled by purpose or love. Held at SECTOR-D-02, Echo Gardens. The Tree is passive but emotionally hazardous.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Roots spread through the Echo Gardens. Personnel feel emotional emptiness and loss of purpose. Its hollow interior produces no echo.
@@ -353,7 +353,7 @@ Some sorrows mourn what was lost. Hollow Tree mourns what never filled it — th
 > *“The fruit never came. The shade fell on empty ground.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-205 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-205 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** Hollow Tree
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 3 — Advanced

@@ -11,7 +11,7 @@
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body — fusion of the Three Birds |
 | **Physical Form** | Mixed — A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies merged into one Sovereign form, wings layered over wings, the three beaks closed into a single mask, markings braided blue-crimson-white. It radiates all three sorrows at once; lead-heavy and cold, it smells of cold rain, char, and ash together. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gathering Point* [**Debuff**] } | "Everything is being pulled here — every sorrow, every grief, every weight — toward a single, unbearable point." | [The Convergence draws all nearby sorrow toward the target.] | *Target suffers -10 Resolve; they are becoming the center of all grief.* **[10 Black DMG [Black / Weight]]** | When the target enters the Convergence. |
-| { *The Compression* [**Debuff**] } | "The sorrow compresses — denser, heavier — until the weight of a city's grief fits in the space of one heart." | [The Convergence's pressure intensifies exponentially.] | *Target loses 10 Resolve; the concentrated grief is staggering.* **[10 Black DMG [Black / Weight]]** | When the target remains at the center. |
-| { *The Gravitational Pull* [**Attack**] } | "The convergence pulls — hard — dragging everything and everyone toward the singularity of sorrow." | [A massive inward pull seizes the target.] | *Inflicts Black pressure and one wound of crushing convergence.* **[14-22 Black DMG [Black / Weight]]** | When the Convergence is disturbed. |
-| { *The Singularity* [**Attack**] } | "All sorrow meets at one point — and the point cannot hold — and it detonates." | [The Convergence's critical mass triggers a catastrophic release.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Convergence is overloaded. |
-| { *The Collapsed World* [**Ultimate**] } | "The convergence extends — until everything in the field is pulled to one point, and the point is all there is." | [The Convergence claims the entire field.] | *All in range suffer Black pressure for three turns of universal collapse.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Gathering Point* [**Debuff**] } | "Everything is being pulled here — every sorrow, every grief, every weight — toward a single, unbearable point." | [The Convergence draws all nearby sorrow toward the target.] | *Target suffers -10 Resolve; they are becoming the center of all grief.* **[10 Weight DMG [Weight]]** | When the target enters the Convergence. |
+| { *The Compression* [**Debuff**] } | "The sorrow compresses — denser, heavier — until the weight of a city's grief fits in the space of one heart." | [The Convergence's pressure intensifies exponentially.] | *Target loses 10 Resolve; the concentrated grief is staggering.* **[10 Weight DMG [Weight]]** | When the target remains at the center. |
+| { *The Gravitational Pull* [**Attack**] } | "The convergence pulls — hard — dragging everything and everyone toward the singularity of sorrow." | [A massive inward pull seizes the target.] | *Inflicts Weight pressure and one wound of crushing convergence.* **[14-22 Weight DMG [Weight]]** | When the Convergence is disturbed. |
+| { *The Singularity* [**Attack**] } | "All sorrow meets at one point — and the point cannot hold — and it detonates." | [The Convergence's critical mass triggers a catastrophic release.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Convergence is overloaded. |
+| { *The Collapsed World* [**Ultimate**] } | "The convergence extends — until everything in the field is pulled to one point, and the point is all there is." | [The Convergence claims the entire field.] | *All in range suffer Weight pressure for three turns of universal collapse.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -203,7 +203,7 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -221,7 +221,7 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Convergence (C-Vδ-010 [WS]) is logged as a Subject-Body — fusion of the Three Birds manifestation expressing Weight (Black). The Convergence is not born from one sorrow. It is the completed shape of witnessing, judgment, and protection without mercy. Held at Forms only when Entities 031–033 breach simultaneously. Formed exactly seven times in recorded history before the current cycle.
+The Convergence (C-Vδ-010 [WS]) is logged as a Subject-Body — fusion of the Three Birds manifestation expressing Weight. The Convergence is not born from one sorrow. It is the completed shape of witnessing, judgment, and protection without mercy. Held at Forms only when Entities 031–033 breach simultaneously. Formed exactly seven times in recorded history before the current cycle.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Floats through the facility, judging and sentencing. Personnel experience the full weight of their accumulated sorrow and karmic debt. Each formation caused catastrophic facility losses.
@@ -368,7 +368,7 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 > *“Three Birds merged into one. No blind spot. No mercy. No end.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vδ-010 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Vδ-010 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Convergence
 **Containment Status:** Prevented — Three Birds containment maintained
 **Comprehension Level:** 5 — Sovereign

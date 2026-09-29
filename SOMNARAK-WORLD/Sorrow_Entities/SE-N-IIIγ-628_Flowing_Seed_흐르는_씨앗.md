@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Mixed — A burst seed whose sprout is a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han, dragging itself forward. Lead-cold, it smells of wet stone. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Current* [**Debuff**] } | "The seed rides a current of sorrow-water — heading for you, heading for the soft ground of your chest." | [The Seed's liquid vehicle seeks the target; it is being planted in them.] | *Target suffers -10 Resolve; the seed is coming for their heart.* **[10 Black DMG [Black / Weight]]** | When the current touches the target. |
-| { *The Taking Root* [**Debuff**] } | "The seed lands — and immediately begins to grow, heavy and fast, in whatever it touches." | [The Seed germinates on contact; its sorrow-weight anchors fast.] | *Target loses 10 Resolve; something is growing in them.* **[10 Black DMG [Black / Weight]]** | When the Seed makes contact. |
-| { *The Seed-Burst* [**Attack**] } | "The flowing seed detonates on impact — a splash of potential and weight." | [An exploding seed-projectile strikes.] | *Inflicts Black pressure and one wound of planted sorrow.* **[14-22 Black DMG [Black / Weight]]** | When the Seed is intercepted. |
-| { *The Full Bloom* [**Attack**] } | "Every seed in the current blooms at once — a river of heavy, sorrow-laden flowers." | [The Seed's entire payload matures simultaneously.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the current is dammed. |
-| { *The Sorrow River* [**Ultimate**] } | "The current overflows its banks — and seeds spread across the whole field, each one taking root." | [The Seed extends its flow across the whole area.] | *All in range suffer Black pressure for three turns of flowing seeds.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Current* [**Debuff**] } | "The seed rides a current of sorrow-water — heading for you, heading for the soft ground of your chest." | [The Seed's liquid vehicle seeks the target; it is being planted in them.] | *Target suffers -10 Resolve; the seed is coming for their heart.* **[10 Weight DMG [Weight]]** | When the current touches the target. |
+| { *The Taking Root* [**Debuff**] } | "The seed lands — and immediately begins to grow, heavy and fast, in whatever it touches." | [The Seed germinates on contact; its sorrow-weight anchors fast.] | *Target loses 10 Resolve; something is growing in them.* **[10 Weight DMG [Weight]]** | When the Seed makes contact. |
+| { *The Seed-Burst* [**Attack**] } | "The flowing seed detonates on impact — a splash of potential and weight." | [An exploding seed-projectile strikes.] | *Inflicts Weight pressure and one wound of planted sorrow.* **[14-22 Weight DMG [Weight]]** | When the Seed is intercepted. |
+| { *The Full Bloom* [**Attack**] } | "Every seed in the current blooms at once — a river of heavy, sorrow-laden flowers." | [The Seed's entire payload matures simultaneously.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the current is dammed. |
+| { *The Sorrow River* [**Ultimate**] } | "The current overflows its banks — and seeds spread across the whole field, each one taking root." | [The Seed extends its flow across the whole area.] | *All in range suffer Weight pressure for three turns of flowing seeds.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -220,7 +220,7 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -238,7 +238,7 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a small vial of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a small vial of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -292,7 +292,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Flowing Seed (N-IIIγ-628 [D]) is logged as a Place-Void manifestation expressing Weight (Black). The Seed formed from sorrow that could not remain still. Held at Zone A, Alpha Tree vault. It flows through roots rather than water channels.
+Flowing Seed (N-IIIγ-628 [D]) is logged as a Place-Void manifestation expressing Weight. The Seed formed from sorrow that could not remain still. Held at Zone A, Alpha Tree vault. It flows through roots rather than water channels.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It responds to the Sorrow Tide.
@@ -374,7 +374,7 @@ Some sorrows settle. Flowing Seed does not — the unacknowledged rage, the dorm
 > *“The seed does not grow. It flows. The flowing is the sorrow.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-628 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight (Black) · Place-Void manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-628 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight · Place-Void manifestation
 **Common Name:** Flowing Seed
 **Containment Status:** Contained — Zone B (mobile)
 **Comprehension Level:** 2 — Basic

@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A window-shaped object fixed inside a tunnel wall, its pane displaying only falling sorrow — endless dark rain behind the glass. Warm and wet, it smells of cold rain; it cannot be opened, only watched. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Running Pane* [**Debuff**] } | "The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief." | [The Window's sorrow-water distorts the target's perception; they see the world through someone's tears.] | *Target suffers -10 Composure; their vision is grief-colored.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target looks through the Window. |
-| { *The Rising Damp* [**Debuff**] } | "The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps." | [The Window's moisture spreads; the target is surrounded by weeping walls.] | *Target loses 10 Composure; everything is soaked in sorrow.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains near. |
-| { *The Cold Pane* [**Attack**] } | "The wet window slams — and the impact sprays sorrow-water across the target." | [A window-slam with a splash of accumulated grief.] | *Inflicts Deep Blue pressure and one wound of cold, wet impact.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Window is forced. |
-| { *The Full Deluge* [**Attack**] } | "The window gives way — and every tear it ever held pours through the frame." | [The Window's structural failure releases its complete tear-reservoir.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Window is broken. |
-| { *The Weeping Building* [**Ultimate**] } | "Every window in the field runs with tears — and the combined weeping drowns every view." | [The Window extends its soaking across the whole area.] | *All in range suffer Deep Blue pressure for three turns of weeping windows.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Running Pane* [**Debuff**] } | "The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief." | [The Window's sorrow-water distorts the target's perception; they see the world through someone's tears.] | *Target suffers -10 Composure; their vision is grief-colored.* **[10 Lament DMG [Lament]]** | When the target looks through the Window. |
+| { *The Rising Damp* [**Debuff**] } | "The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps." | [The Window's moisture spreads; the target is surrounded by weeping walls.] | *Target loses 10 Composure; everything is soaked in sorrow.* **[10 Lament DMG [Lament]]** | When the target remains near. |
+| { *The Cold Pane* [**Attack**] } | "The wet window slams — and the impact sprays sorrow-water across the target." | [A window-slam with a splash of accumulated grief.] | *Inflicts Lament pressure and one wound of cold, wet impact.* **[14-22 Lament DMG [Lament]]** | When the Window is forced. |
+| { *The Full Deluge* [**Attack**] } | "The window gives way — and every tear it ever held pours through the frame." | [The Window's structural failure releases its complete tear-reservoir.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Window is broken. |
+| { *The Weeping Building* [**Ultimate**] } | "Every window in the field runs with tears — and the combined weeping drowns every view." | [The Window extends its soaking across the whole area.] | *All in range suffer Lament pressure for three turns of weeping windows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|---|
 | 10 Seconds | Life Behind Glass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Life Behind Glass activates its primary resonance: Shows a memory of a life beyond the tunnel. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it; the bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Life Behind Glass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Life Behind Glass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may become unable to return to present work. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Life Behind Glass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Life Behind Glass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a shard-tile of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Life Behind Glass (N-Iα-518 [D]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Window formed from a view that was never taken. Held at Zone B, deep tunnels. It has no view of physical surroundings.
+Life Behind Glass (N-Iα-518 [D]) is logged as a Object-Weight manifestation expressing Lament. The Window formed from a view that was never taken. Held at Zone B, deep tunnels. It has no view of physical surroundings.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The rain on its surface is emotional rather than liquid.
@@ -388,7 +388,7 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 > *“The distance, the separation, the glass between watcher and watched.”* — Tunnel Worker
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-518 [D]` · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-Iα-518 [D]` · Lament · Object-Weight manifestation
 **Common Name:** Life Behind Glass
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial

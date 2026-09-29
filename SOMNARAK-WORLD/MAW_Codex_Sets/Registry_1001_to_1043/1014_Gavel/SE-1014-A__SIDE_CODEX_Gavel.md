@@ -21,7 +21,7 @@ The Judge formed from the sorrow of people subjected to impartial systems that w
 | Source designation | C-IVδ-140 [GS] |
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Entity (IV) — Rigid and absolute / Critical (δ) |
-| Element / Location | Grudge (Crimson) / SECTOR-C-01, Collector's Row |
+| Element / Location | Grudge / SECTOR-C-01, Collector's Row |
 | Gauge / Pressure | 999/999; starts 60–80% / 23–51 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person. |
@@ -52,7 +52,7 @@ During the The Gavel Source-Trace, the field team preserved this source fact: Co
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Gavel's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Present context and evidence; do not appeal with status or force The set cannot heal the originating event. Misuse routes Gavel's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Gavel's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon marks only the immediate manifestation that violates this rule: Present context and evidence; do not appeal with status or force The set cannot heal the originating event. Misuse routes Gavel's wound through the operator and triggers the recorded escalation.
 
 ---
 

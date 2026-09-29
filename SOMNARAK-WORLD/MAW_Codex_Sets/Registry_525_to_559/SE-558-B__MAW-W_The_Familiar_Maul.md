@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A matte black Han-steel maul, too heavy for its measured mass. Inactive, root grain circles the head like a family tree; active, one branch glows for every obligation the target believes is part of them.
+A matte Weight Han-steel maul, too heavy for its measured mass. Inactive, root grain circles the head like a family tree; active, one branch glows for every obligation the target believes is part of them.
 
 Durivel extracted it in Collector’s Row after a Ferrehan cycle in which the originating debt was spoken but no descendant was reduced to a ledger entry. Binding accepts a wielder who can name one duty they chose and one they merely inherited. A wielder who cannot make that distinction feels the haft root into both palms.
 

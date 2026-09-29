@@ -69,7 +69,7 @@ The highest tier of artifacts in Somnarak consists of singular instruments that 
 | Category Rating      | Class IV / Critical-δ |
 | Current Bearer       | Echo-Core 8 (Ishall)  |
 | Operating Reach      | Range Band 4 & 5      |
-| Elemental Signature  | Void (Pale White) & Grudge  |
+| Elemental Signature  | Void & Grudge  |
 | Physical Connection  | None (Free Levitating)|
 +==============================================+
 ```
@@ -121,7 +121,7 @@ The remaining Great Relics govern municipal legitimacy, historical truth, econom
 
 **Classification:** Class III — Legacy Relic
 
-**What it is:** A massive signet crafted from black Han-crystal, bearing the deep relief crest of the city's founding administration. The seal authorized the original Consolihan accords that established Somnarak.
+**What it is:** A massive signet crafted from Weight Han-crystal, bearing the deep relief crest of the city's founding administration. The seal authorized the original Consolihan accords that established Somnarak.
 
 **Properties:**
 - Resonates with absolute executive authority; commands instinctive compliance even among hostile factions.

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, dissolving, compassionate |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A saint-like figure made of melting wax threaded with crystallized tears, its features running and resetting to mirror a future grief it has already perceived. Warm and soft, it drips wax that never quite pools; salt-damp, it smells of cold rain and tallow. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Weeping Stone* [**Debuff**] } | "The saint's face runs — stone becoming liquid, detail becoming blur — and the melting is grief made visible." | [The Saint's dissolution releases sorrow; the target absorbs the runoff.] | *Target suffers -10 Composure; the holy figure's grief is contagious.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target approaches the Saint. |
-| { *The Pooling Halo* [**Debuff**] } | "The halo melts — pooling at the saint's feet — and the liquid faith burns where it touches." | [The Saint's dissolved divinity spreads; the target is splashed.] | *Target loses 10 Composure; the liquid faith is corrosive to certainty.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target steps in the pool. |
-| { *The Melting Hand* [**Attack**] } | "A stone hand, half-liquid, swings — heavy, formless, grieving." | [A dissolving limb strikes the target.] | *Inflicts Deep Blue pressure and one wound of molten devotion.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Saint is touched. |
-| { *The Full Dissolution* [**Attack**] } | "The entire saint gives way — stone, faith, and centuries — collapsing into a pool of liquid grief." | [The Saint's total melt releases everything it held.] | *A heavy Deep Blue liquefaction; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Saint is shattered. |
-| { *The Sea of Faith* [**Ultimate**] } | "Every statue melts — every saint, every monument — and the liquid pools until the field is drowned." | [The Saint extends its melting across the whole area.] | *All in range suffer Deep Blue pressure for three turns in the sea of dissolved faith.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Weeping Stone* [**Debuff**] } | "The saint's face runs — stone becoming liquid, detail becoming blur — and the melting is grief made visible." | [The Saint's dissolution releases sorrow; the target absorbs the runoff.] | *Target suffers -10 Composure; the holy figure's grief is contagious.* **[10 Lament DMG [Lament]]** | When the target approaches the Saint. |
+| { *The Pooling Halo* [**Debuff**] } | "The halo melts — pooling at the saint's feet — and the liquid faith burns where it touches." | [The Saint's dissolved divinity spreads; the target is splashed.] | *Target loses 10 Composure; the liquid faith is corrosive to certainty.* **[10 Lament DMG [Lament]]** | When the target steps in the pool. |
+| { *The Melting Hand* [**Attack**] } | "A stone hand, half-liquid, swings — heavy, formless, grieving." | [A dissolving limb strikes the target.] | *Inflicts Lament pressure and one wound of molten devotion.* **[14-22 Lament DMG [Lament]]** | When the Saint is touched. |
+| { *The Full Dissolution* [**Attack**] } | "The entire saint gives way — stone, faith, and centuries — collapsing into a pool of liquid grief." | [The Saint's total melt releases everything it held.] | *A heavy Deep Blue liquefaction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Saint is shattered. |
+| { *The Sea of Faith* [**Ultimate**] } | "Every statue melts — every saint, every monument — and the liquid pools until the field is drowned." | [The Saint extends its melting across the whole area.] | *All in range suffer Lament pressure for three turns in the sea of dissolved faith.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -211,7 +211,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a halo-circlet of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a halo-circlet of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Candela (C-IVδ-165 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Saint formed from compassion overwhelmed by anticipation. Held at SECTOR-B-02, Zone B. The Saint loses material continuously but never disappears.
+Candela (C-IVδ-165 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Saint formed from compassion overwhelmed by anticipation. Held at SECTOR-B-02, Zone B. The Saint loses material continuously but never disappears.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the facility while leaving melting residue. Personnel experience grief for future events as if they already occurred. Its visions are possible futures, not fixed predictions.
@@ -348,7 +348,7 @@ Some sorrows grieve the present. Candela grieves the future — every loss that 
 > *“Every loss that has not yet occurred, felt in advance by a compassion that could not bear to wait.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-165 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-165 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Lament manifestation
 **Common Name:** Candela
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced

@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Accessory (Stigma) — miniature lantern |
 | **Grade** | γ — Major |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Slot** | Head |
 | **Acquisition Probability** | 4% |
 | **Stat Effect** | +2 when working the Brume source record |

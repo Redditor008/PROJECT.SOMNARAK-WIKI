@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A large shard of pale crystal with a clean break splitting it to the center, humming low when touched. Salt-cold, it smells of cold rain; the break never finishes separating, and never heals. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Jagged Edge* [**Debuff**] } | "You run your finger along the shard — and the edge finds every old wound." | [The Shard resonates with the target's existing cuts.] | *Target suffers -10 Composure; old wounds reopen.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target touches the Shard. |
-| { *The Embedded Splinter* [**Debuff**] } | "The shard works its way deeper — and the deeper it goes, the more it remembers." | [The Shard burrows; its sorrow leaches inward.] | *Target loses 10 Composure; the foreign grief is inside them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Flying Splinter* [**Attack**] } | "The shard launches — spinning, sharp, and carrying the anger of being broken." | [A spinning shard strikes the target.] | *Inflicts Deep Blue pressure and one thin, deep cut.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Shard is struck. |
-| { *The Shatterpoint* [**Attack**] } | "The shard finds the flaw in your armor — the exact point where you are already broken." | [The Shard targets the target's weakest point with precision.] | *A heavy Deep Blue strike; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Shard is pressured. |
-| { *The Shard Storm* [**Ultimate**] } | "One shard becomes a thousand — and they all know where you are broken." | [The Shard multiplies, filling the field with seeking splinters.] | *All in range suffer Deep Blue pressure for three turns in the shard storm.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Jagged Edge* [**Debuff**] } | "You run your finger along the shard — and the edge finds every old wound." | [The Shard resonates with the target's existing cuts.] | *Target suffers -10 Composure; old wounds reopen.* **[10 Lament DMG [Lament]]** | When the target touches the Shard. |
+| { *The Embedded Splinter* [**Debuff**] } | "The shard works its way deeper — and the deeper it goes, the more it remembers." | [The Shard burrows; its sorrow leaches inward.] | *Target loses 10 Composure; the foreign grief is inside them.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Flying Splinter* [**Attack**] } | "The shard launches — spinning, sharp, and carrying the anger of being broken." | [A spinning shard strikes the target.] | *Inflicts Lament pressure and one thin, deep cut.* **[14-22 Lament DMG [Lament]]** | When the Shard is struck. |
+| { *The Shatterpoint* [**Attack**] } | "The shard finds the flaw in your armor — the exact point where you are already broken." | [The Shard targets the target's weakest point with precision.] | *A heavy Deep Blue strike; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shard is pressured. |
+| { *The Shard Storm* [**Ultimate**] } | "One shard becomes a thousand — and they all know where you are broken." | [The Shard multiplies, filling the field with seeking splinters.] | *All in range suffer Lament pressure for three turns in the shard storm.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | Shard of a Broken Promise rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Shard of a Broken Promise activates its primary resonance: Creates a brief protective field. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the pain of trusting words more than circumstances; the bearer begins perceiving echoes of an artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Shard of a Broken Promise begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Shard of a Broken Promise begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Shard of a Broken Promise too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers A false repetition causes the Shard to fracture further. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Shard of a Broken Promise: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Shard of a Broken Promise: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a shard-tile of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Shard of a Broken Promise (O-IVδ-851 [LO]) is logged as a Object-Void manifestation expressing Lament (Deep Blue). The Shard formed from a promise broken while the promised object remained intact. Held at Zone A, Alpha Tree vault. It hums even in an empty room.
+Shard of a Broken Promise (O-IVδ-851 [LO]) is logged as a Object-Void manifestation expressing Lament. The Shard formed from a promise broken while the promised object remained intact. Held at Zone A, Alpha Tree vault. It hums even in an empty room.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The break is not physical damage that can be repaired.
@@ -386,7 +386,7 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 > *“A promise broken while the promised object remained intact.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-851 [LO]` · Lament (Deep Blue) · Object-Void manifestation
+**Classification:** Sorrow Entity — `O-IVδ-851 [LO]` · Lament · Object-Void manifestation
 **Common Name:** Shard of a Broken Promise
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic

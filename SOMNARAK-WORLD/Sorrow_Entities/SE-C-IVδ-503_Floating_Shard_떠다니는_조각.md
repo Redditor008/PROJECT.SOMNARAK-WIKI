@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A large floating shard of pale crystal containing the faint outline of a ghostly figure, drifting above the Forge without touching anything. Salt-cold and damp, it smells of cold rain; the figure inside turns as the shard turns. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lazy Drift* [**Debuff**] } | "A shard drifts past — slow, spinning, catching the light — and you cannot look away from the break." | [The Shard mesmerizes the target; the edge reflects their own fractures.] | *Target suffers -10 Composure; they see themselves in the break.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Shard drifts near. |
-| { *The Gathering* [**Debuff**] } | "More shards appear — orbiting you slowly, a constellation of sharp edges." | [The Shard multiplies; the target is ringed by drifting glass.] | *Target loses 10 Composure; every direction has an edge.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains still. |
-| { *The Sudden Spin* [**Attack**] } | "The shard stops drifting — and accelerates, straight at your face." | [A shard shoots from its orbit at the target.] | *Inflicts Deep Blue pressure and one clean, glassy cut.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Shard is disturbed. |
-| { *The Full Cluster* [**Attack**] } | "Every shard converges at once — from every direction, at full speed." | [The Shard-cloud collapses inward on the target.] | *A heavy Deep Blue convergence; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Shard is caught. |
-| { *The Shard Constellation* [**Ultimate**] } | "The shards fill the sky — and then they all fall, like a rain of broken glass." | [The Shard-scatter blankets the entire field.] | *All in range suffer Deep Blue pressure for three turns in the glass rain.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lazy Drift* [**Debuff**] } | "A shard drifts past — slow, spinning, catching the light — and you cannot look away from the break." | [The Shard mesmerizes the target; the edge reflects their own fractures.] | *Target suffers -10 Composure; they see themselves in the break.* **[10 Lament DMG [Lament]]** | When the Shard drifts near. |
+| { *The Gathering* [**Debuff**] } | "More shards appear — orbiting you slowly, a constellation of sharp edges." | [The Shard multiplies; the target is ringed by drifting glass.] | *Target loses 10 Composure; every direction has an edge.* **[10 Lament DMG [Lament]]** | When the target remains still. |
+| { *The Sudden Spin* [**Attack**] } | "The shard stops drifting — and accelerates, straight at your face." | [A shard shoots from its orbit at the target.] | *Inflicts Lament pressure and one clean, glassy cut.* **[14-22 Lament DMG [Lament]]** | When the Shard is disturbed. |
+| { *The Full Cluster* [**Attack**] } | "Every shard converges at once — from every direction, at full speed." | [The Shard-cloud collapses inward on the target.] | *A heavy Deep Blue convergence; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shard is caught. |
+| { *The Shard Constellation* [**Ultimate**] } | "The shards fill the sky — and then they all fall, like a rain of broken glass." | [The Shard-scatter blankets the entire field.] | *All in range suffer Lament pressure for three turns in the glass rain.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
 
 **Damage:** Lament 3-6
 **Speed:** 2 (Normal)
@@ -188,7 +188,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -206,7 +206,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a tiny lantern of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Shard (C-IVδ-503 [N]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Shard formed from compassion for people broken by the city. Held at Zone D, Forge District. It becomes brighter near injured personnel.
+Floating Shard (C-IVδ-503 [N]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Shard formed from compassion for people broken by the city. Held at Zone D, Forge District. It becomes brighter near injured personnel.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through Forge District and adjacent facilities. Personnel feel consuming pity and rage at suffering. Its fragments dissolve after an entity or person is acknowledged.
@@ -346,7 +346,7 @@ Some sorrows are about suffering. Floating Shard is about witnessing — the hel
 > *“The city made her a witness and never gave her the power to be anything else.”* — Elder, Forge District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-503 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IVδ-503 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** Floating Shard
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 3 — Advanced

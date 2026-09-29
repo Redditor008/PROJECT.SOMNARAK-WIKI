@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A well rising from the border ground, filled with liquid sorrow that climbs the shaft rather than falling, so nearby walls lean toward it as if drinking. Salt-cold and damp, it smells of cold rain; it draws grief upward. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Rising Water* [**Debuff**] } | "Water seeps up through the stones — cold, patient, and rising." | [The Well's water climbs; the target feels it at their ankles.] | *Target suffers -10 Composure; the cold is creeping upward.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands near the Well. |
-| { *The Sodden* [**Debuff**] } | "Soaked through — and the wet is heavier than water should be." | [The water soaks into the target; every movement is weighted with it.] | *Target loses 10 Composure; they move as though wading.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the water reaches the target's knees. |
-| { *The Cold Splash* [**Attack**] } | "A wave breaks from the well's mouth — older and colder than any rain." | [A surge of well-water strikes, carrying old grief.] | *Inflicts Deep Blue pressure and one soaking, cold wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Well is disturbed. |
-| { *The Overflow* [**Attack**] } | "The well gives up everything it ever held — and it has held a great deal." | [The Well disgorges its full depth in one rush.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Well is struck or overfilled. |
-| { *The Drowned Yard* [**Ultimate**] } | "The water does not stop — and the yard, the street, the district all go under." | [The Well floods the entire field, submerging everything.] | *All personnel suffer Deep Blue pressure for three turns under the water.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Rising Water* [**Debuff**] } | "Water seeps up through the stones — cold, patient, and rising." | [The Well's water climbs; the target feels it at their ankles.] | *Target suffers -10 Composure; the cold is creeping upward.* **[10 Lament DMG [Lament]]** | When the target stands near the Well. |
+| { *The Sodden* [**Debuff**] } | "Soaked through — and the wet is heavier than water should be." | [The water soaks into the target; every movement is weighted with it.] | *Target loses 10 Composure; they move as though wading.* **[10 Lament DMG [Lament]]** | When the water reaches the target's knees. |
+| { *The Cold Splash* [**Attack**] } | "A wave breaks from the well's mouth — older and colder than any rain." | [A surge of well-water strikes, carrying old grief.] | *Inflicts Lament pressure and one soaking, cold wound.* **[14-22 Lament DMG [Lament]]** | When the Well is disturbed. |
+| { *The Overflow* [**Attack**] } | "The well gives up everything it ever held — and it has held a great deal." | [The Well disgorges its full depth in one rush.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is struck or overfilled. |
+| { *The Drowned Yard* [**Ultimate**] } | "The water does not stop — and the yard, the street, the district all go under." | [The Well floods the entire field, submerging everything.] | *All personnel suffer Lament pressure for three turns under the water.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-The escalation pattern is specific to Well of Unfinished Words: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Well of Unfinished Words: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small vial of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small vial of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Well of Unfinished Words (N-IIβ-778 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Well formed from mourning that had no witness. Held at Zone E, Border region. It is most active at border funerals and departures.
+Well of Unfinished Words (N-IIβ-778 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from mourning that had no witness. Held at Zone E, Border region. It is most active at border funerals and departures.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 The liquid rises toward speakers.
@@ -386,7 +386,7 @@ Some sorrows are about loss. Well of Unfinished Words is about the unspoken — 
 > *“The well holds the unfinished mourning. It waits for the listener the Wardens prevented.”* — Mender, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-778 [LP]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `N-IIβ-778 [LP]` · Per classification origin · Per classification coherence · Per classification potency · Lament · Place-Lament manifestation
 **Common Name:** Well of Unfinished Words
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic

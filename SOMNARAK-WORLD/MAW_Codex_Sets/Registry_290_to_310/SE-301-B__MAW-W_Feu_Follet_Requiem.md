@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A short deep-blue Han-crystal blade whose edge alternates cold liquid light and remembered flame. It forms after a worker anchors in present sensation.
+A short Lament Han-crystal blade whose edge alternates cold liquid light and remembered flame. It forms after a worker anchors in present sensation.
 
 Binding requires one current warmth source and one admitted memory imperfection. During a Mask Market event, Durivel separated a survivor’s remembered campfire from a cold room without erasing that the fire once saved them. He wept when the old warmth stopped feeling immediate.
 

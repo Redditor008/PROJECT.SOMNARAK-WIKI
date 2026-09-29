@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) — Collective frozen farewell |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A slender cylindrical vial of hand-blown leaded quartz glass, sealed at the collar with melted lead solder and wrapped in fraying orange surveyor's emergency webbing. Inside, a swirling vapor of pale blue condensation moves in perpetual circular suspension without settling into frost or liquid. Despite ambient sub-zero temperatures, the quartz remains warm to human touch (36.5°C), vibrating with a quiet, multi-voiced whisper that sounds like dozens of people talking softly around a campfire. |
 | **Movement** | Stationary — a discrete object. |
@@ -172,7 +172,7 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Last Warmth of Forty-Two: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-O-09, Frozen Depths Cache — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Last Warmth of Forty-Two: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-O-09, Frozen Depths Cache — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -347,7 +347,7 @@ Forty-two men and women breathed their final warm exhalations into the bottle be
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-515 [LO]` · Outside origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `O-IVδ-515 [LO]` · Outside origin · Entity (IV) coherence · Critical (δ) potency · Lament · Object-Lament manifestation
 **Common Name:** The Last Warmth of Forty-Two
 **Containment Status:** Contained — Sector-O-09 Frozen Depths Cache
 **Comprehension Level:** 4 — Mastered

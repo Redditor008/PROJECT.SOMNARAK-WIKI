@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Object/Place, O-Relic — Object-Weight |
 | Coherence / Potency | III — Fragment / β — Moderate |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A battered clock with a cracked face whose hands count personal debt deadlines rather than ordinary time. |
 | Gauge / pressure | 35–50% / Weight 8–20 |

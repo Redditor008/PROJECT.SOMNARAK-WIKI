@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | Zone D; wandering, semi-contained |
 | Form | A twenty-meter dark, dense humanoid grown through with Han-crystal, stepping around structures as though afraid to break them. |
 | Gauge / pressure | 45–65% / Weight 18–41 |

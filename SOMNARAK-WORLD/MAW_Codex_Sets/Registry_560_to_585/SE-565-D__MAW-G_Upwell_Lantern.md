@@ -14,7 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
-A tiny crimson Han-iron lantern hangs at the Tail slot. It has no flame; confirmed hidden spaces glow as clean interior contours, while remembered failed rescues appear as wavering figures. Upwell grants it after successful work at a 5% probability.
+A tiny Grudge Han-iron lantern hangs at the Tail slot. It has no flame; confirmed hidden spaces glow as clean interior contours, while remembered failed rescues appear as wavering figures. Upwell grants it after successful work at a 5% probability.
 
 | Field | Record |
 |---|---|

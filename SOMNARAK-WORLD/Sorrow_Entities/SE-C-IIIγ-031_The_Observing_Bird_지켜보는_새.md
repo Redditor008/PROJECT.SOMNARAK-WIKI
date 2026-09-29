@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Watchful and silent |
 | **Potency** | Major (γ) — High danger as group entity |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A lean bird of true flesh and feather gone wrong — plumage the color of deep water, eyes too bright and unblinking, its body warm and disturbingly alive. It dives from above with wings spread and fixes its gaze on a target, marking them. Its feathers are damp, as though it has been weeping in flight; near it, the cold-rain smell of grief. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unblinking Stare* [**Debuff**] } | "It fixes you with one pale eye and does not blink — and you feel everything you have done rise up to meet it." | [The Bird locks its gaze on the target; the weight of being truly seen settles on them.] | *Target suffers -10 Composure; they cannot hide while the eye holds them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Bird singles out a target. |
-| { *The Counted Steps* [**Debuff**] } | "It counts every step you take, every breath — and waits for the number that condemns you." | [The Bird tallies the target's movements; the count itself becomes a pressure.] | *Target loses 10 Composure and moves as though watched from every angle.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers in its sight. |
-| { *The Sudden Wing* [**Attack**] } | "Move wrong, and the wing comes down faster than thought." | [A wing sweeps low — a flat, heavy strike at whoever broke the pattern.] | *Inflicts Deep Blue pressure and one wound of cold scrutiny.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the target moves too fast or tries to flee. |
-| { *What It Saw* [**Attack**] } | "It shows you what it witnessed — the moment you failed someone, perfectly recalled." | [The Bird forces a memory into the target's mind: the worst thing it ever observed them do.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Bird is provoked or a marked target confronts it. |
-| { *The Long Vigil* [**Ultimate**] } | "It has watched the city for six thousand years. Now it watches all of you at once." | [The Bird opens its full attention across the field; nothing moves without being recorded.] | *All personnel suffer Deep Blue pressure for three turns under the perfect gaze.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unblinking Stare* [**Debuff**] } | "It fixes you with one pale eye and does not blink — and you feel everything you have done rise up to meet it." | [The Bird locks its gaze on the target; the weight of being truly seen settles on them.] | *Target suffers -10 Composure; they cannot hide while the eye holds them.* **[10 Lament DMG [Lament]]** | When the Bird singles out a target. |
+| { *The Counted Steps* [**Debuff**] } | "It counts every step you take, every breath — and waits for the number that condemns you." | [The Bird tallies the target's movements; the count itself becomes a pressure.] | *Target loses 10 Composure and moves as though watched from every angle.* **[10 Lament DMG [Lament]]** | When the target lingers in its sight. |
+| { *The Sudden Wing* [**Attack**] } | "Move wrong, and the wing comes down faster than thought." | [A wing sweeps low — a flat, heavy strike at whoever broke the pattern.] | *Inflicts Lament pressure and one wound of cold scrutiny.* **[14-22 Lament DMG [Lament]]** | When the target moves too fast or tries to flee. |
+| { *What It Saw* [**Attack**] } | "It shows you what it witnessed — the moment you failed someone, perfectly recalled." | [The Bird forces a memory into the target's mind: the worst thing it ever observed them do.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bird is provoked or a marked target confronts it. |
+| { *The Long Vigil* [**Ultimate**] } | "It has watched the city for six thousand years. Now it watches all of you at once." | [The Bird opens its full attention across the field; nothing moves without being recorded.] | *All personnel suffer Lament pressure for three turns under the perfect gaze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Category:** Protective Attire (Weeping Feather Mantle & Eye-Tile Shroud)
 **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -214,7 +214,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Category:** Stigma (Ocular Relic Mark)
 **Grade:** γ | **Element:** Lament
 
-**Appearance:** an eye-tile of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** an eye-tile of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Observing Bird (C-IIIγ-031 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Bird formed from the sorrow of witnessing injustice without being able to intervene. Held at SECTOR-B-01, contained with the Three Birds. Exactly 144 eyes record distinct aspects of reality.
+The Observing Bird (C-IIIγ-031 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Bird formed from the sorrow of witnessing injustice without being able to intervene. Held at SECTOR-B-01, contained with the Three Birds. Exactly 144 eyes record distinct aspects of reality.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Flies through the facility, observing and recording. Personnel feel every action, secret, and thought exposed. It does not blink, sleep, or forget.
@@ -356,7 +356,7 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 > *“The market burned. The Bird watched. It has not stopped watching.”* — Elder, Forgotten Market District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-031 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-031 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Subject-Body manifestation
 **Common Name:** The Observing Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
 **Comprehension Level:** 3 — Advanced

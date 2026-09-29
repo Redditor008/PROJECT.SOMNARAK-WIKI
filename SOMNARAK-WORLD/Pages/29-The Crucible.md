@@ -24,7 +24,7 @@ Manufactured during the height of the Unified Containment Directorate (UCD) as a
 - [2 Tool Relic Classification: Channeled Use Mechanics](#2-tool-relic-classification-channeled-use-mechanics)
 - [3 Operational Protocols: The Two-Work-Type Rule](#3-operational-protocols-the-two-work-type-rule)
 - [4 The 30-Second Thermal Ceiling and Damage Scaling](#4-the-30-second-thermal-ceiling-and-damage-scaling)
-- [5 Managerial Guidelines and Emergency Extraction](#5-managerial-guidelines-and-emergency-extraction)
+- [5 Warden Guidelines and Emergency Extraction](#5-warden-guidelines-and-emergency-extraction)
 - [6 Log and Method Archival Unlock Progression](#6-log-and-method-archival-unlock-progression)
 - [7 Metaphysical Origin and Story](#7-metaphysical-origin-and-story)
 - [8 Gallery](#8-gallery)
@@ -72,12 +72,12 @@ Channeling inside The Crucible is governed by an unyielding mathematical curve:
 | **26 – 29 seconds** | 801°C – 1,199°C | Suffers 12 🔴 Grudge damage per second. | +16 LU; Pod flashes crimson alert. |
 | **30.0+ seconds** | **1,200°C (Critical)** | **Instant Combustion**. Operative reduced to ash. | **Catastrophic Failure**: 25 LU drained. |
 
-## 5 Managerial Guidelines and Emergency Extraction
+## 5 Warden Guidelines and Emergency Extraction
 
-1. **Managerial Tip 1:** Specialists performing 🤲 **Ferrehan** channeling inside The Crucible produce 2 Lumen Units every 5 seconds. Operatives with high **Resilience** (Fortitude) and fire-resistant M.A.W. Suits can endure the thermal escalation longer.
-2. **Managerial Tip 2:** The Warden must manually click the containment chamber to recall the specialist. There is no automated safety ejector; if the operative remains inside for 30 consecutive seconds, the furnace incinerates them instantly, destroying all equipped gear.
-3. **Managerial Tip 3:** If an operative is extracted between 20 and 29 seconds, they emerge with the *Tempered Core* buff, granting +15 Max HP and +0.1 physical defense for the remainder of the shift.
-4. **Managerial Tip 4:** After an operative exits, The Crucible requires a 40-second cool-down cycle. Sending another specialist into the pod while steam is still venting doubles the heat accumulation rate.
+1. **Warden Tip 1:** Specialists performing 🤲 **Ferrehan** channeling inside The Crucible produce 2 Lumen Units every 5 seconds. Operatives with high **Resilience** (Elasticity) and fire-resistant M.A.W. Suits can endure the thermal escalation longer.
+2. **Warden Tip 2:** The Warden must manually click the containment chamber to recall the specialist. There is no automated safety ejector; if the operative remains inside for 30 consecutive seconds, the furnace incinerates them instantly, destroying all equipped gear.
+3. **Warden Tip 3:** If an operative is extracted between 20 and 29 seconds, they emerge with the *Tempered Core* buff, granting +15 Max HP and +0.1 physical defense for the remainder of the shift.
+4. **Warden Tip 4:** After an operative exits, The Crucible requires a 40-second cool-down cycle. Sending another specialist into the pod while steam is still venting doubles the heat accumulation rate.
 
 | Extraction Doctrine | Exit Window | Yield vs Risk |
 |---|---|---|
@@ -92,8 +92,8 @@ Observation logs for Channeled Relics unlock based on cumulative **Time of Use**
 | Unlock Tier | Required Time | Archival Information Unlocked |
 |---|---|---|
 | **Level 1** | 10 Seconds Cumulative | Basic identification, SECC code, and channeled use mechanics. |
-| **Level 2** | 30 Seconds Cumulative | Managerial Tips 1 and 2, temperature curve, and 30-second fatality limit. |
-| **Level 3** | 60 Seconds Cumulative | Managerial Tips 3 and 4, Tempered Core buff, and cooldown timings. |
+| **Level 2** | 30 Seconds Cumulative | Warden Tips 1 and 2, temperature curve, and 30-second fatality limit. |
+| **Level 3** | 60 Seconds Cumulative | Warden Tips 3 and 4, Tempered Core buff, and cooldown timings. |
 | **Level 4** | 120 Seconds Cumulative | Complete historical engineering logs, UCD factory origin, and trivia. |
 
 ## 7 Metaphysical Origin and Story

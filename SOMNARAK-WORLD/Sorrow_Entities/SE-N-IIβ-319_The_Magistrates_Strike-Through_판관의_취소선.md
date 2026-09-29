@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Silent erasing trace |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A four-inch octagonal stick of dense, chalky white mineral excavated from the sealed archive tribunal vaults beneath Floor 6. Powdery and bone-cold, it leaves an indelible lime-white streak that cannot be removed by solvents, flame, or scraping. Smelling faintly of dry lime, vinegar, and damp judicial calfskin, the mineral remains strangely heavy in the hand, as though each millimeter of chalk holds the gravity of eighty-two severed sentences. |
 | **Movement** | Stationary — a discrete object. |
@@ -172,7 +172,7 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Magistrate's Strike-Through: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-N-06, Deep Tribunal Archive — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Magistrate's Strike-Through: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-N-06, Deep Tribunal Archive — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -347,7 +347,7 @@ He drew lines until the chalk wore down to a bloody stump between his fingers, t
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-319 [VO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-319 [VO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Magistrate's Strike-Through
 **Containment Status:** Contained — Sector-N-06 Deep Tribunal Vault
 **Comprehension Level:** 2 — Basic

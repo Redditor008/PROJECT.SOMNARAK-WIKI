@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A pale Han-glass disc showing one contradiction across a fracture line. It forms from crack-light after bounded Ferrehan.
+A Void Han-glass disc showing one contradiction across a fracture line. It forms from crack-light after bounded Ferrehan.
 
 Binding requires the wielder to distinguish harmful deception from privacy, uncertainty, courtesy, and protective presentation. During a Mask Market fraud incident, Durivel targeted a forged safety claim rather than the frightened seller repeating it. The lie collapsed; one nameless memory of market trust disappeared with the shot.
 

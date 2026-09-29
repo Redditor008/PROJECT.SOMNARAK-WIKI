@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A heavy fragment of black crystal, broken clean from some unknown monument, resting on the ground yet pressing through the surface as though still part of something larger. Lead-cold, it smells of wet stone; a piece of a thing no one can name. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Heavy Edge* [**Debuff**] } | "The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones." | [The Fragment's impossible density presses on the target.] | *Target suffers -10 Resolve; the broken piece weighs more than it should.* **[10 Black DMG [Black / Weight]]** | When the target holds the Fragment. |
-| { *The Sharp Crack* [**Debuff**] } | "The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight." | [The Fragment's ongoing breakage releases energy; the target is bombarded.] | *Target loses 10 Resolve; the fragment is getting worse.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Shrapnel* [**Attack**] } | "A piece of the breaking fragment flies free — heavy, jagged, and still cracking." | [ A shard of actively-fragmenting material strikes.] | *Inflicts Black pressure and one wound of ongoing destruction.* **[14-22 Black DMG [Black / Weight]]** | When the Fragment is struck. |
-| { *The Full Shatter* [**Attack**] } | "The fragment completes its break — every crack reaching critical point — and the detonation is a cascade of heavy shrapnel." | [The Fragment's total failure releases all its stored mass-energy.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Fragment is crushed. |
-| { *The Shrapnel Field* [**Ultimate**] } | "Every fragment in the field reaches critical breakage — and the combined detonation is an avalanche of heavy shards." | [The Fragment extends its breaking across the whole area.] | *All in range suffer Black pressure for three turns of universal shattering.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Heavy Edge* [**Debuff**] } | "The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones." | [The Fragment's impossible density presses on the target.] | *Target suffers -10 Resolve; the broken piece weighs more than it should.* **[10 Weight DMG [Weight]]** | When the target holds the Fragment. |
+| { *The Sharp Crack* [**Debuff**] } | "The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight." | [The Fragment's ongoing breakage releases energy; the target is bombarded.] | *Target loses 10 Resolve; the fragment is getting worse.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Shrapnel* [**Attack**] } | "A piece of the breaking fragment flies free — heavy, jagged, and still cracking." | [ A shard of actively-fragmenting material strikes.] | *Inflicts Weight pressure and one wound of ongoing destruction.* **[14-22 Weight DMG [Weight]]** | When the Fragment is struck. |
+| { *The Full Shatter* [**Attack**] } | "The fragment completes its break — every crack reaching critical point — and the detonation is a cascade of heavy shrapnel." | [The Fragment's total failure releases all its stored mass-energy.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Fragment is crushed. |
+| { *The Shrapnel Field* [**Ultimate**] } | "Every fragment in the field reaches critical breakage — and the combined detonation is an avalanche of heavy shards." | [The Fragment extends its breaking across the whole area.] | *All in range suffer Weight pressure for three turns of universal shattering.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|---|
 | 10 Seconds | Broken Fragment rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Broken Fragment activates its primary resonance: Displays the burden carried by the monument's former community. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of history condensed into one piece too heavy to move; the bearer begins perceiving echoes of a border monument commemorating generations of debt was shattered during an uprising; one fragment remained. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Fragment begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Broken Fragment begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Broken Fragment too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become unable to move under inherited weight. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Fragment: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Fragment: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -228,7 +228,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a plated harness of black Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a plated harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -246,7 +246,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Fragment (O-IVδ-115 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Fragment formed from a monument broken by accumulated obligation. Held at Zone E, Border region. It cannot be lifted by mechanical or Han force.
+Broken Fragment (O-IVδ-115 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Fragment formed from a monument broken by accumulated obligation. Held at Zone E, Border region. It cannot be lifted by mechanical or Han force.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The inscriptions appear only to people who acknowledge inherited debt.
@@ -383,7 +383,7 @@ Some sorrows mourn a monument. Broken Fragment mourns the debt it commemorated �
 > *“History condensed into one piece too heavy to move.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-115 [WO]` · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IVδ-115 [WO]` · Weight · Object-Weight manifestation
 **Common Name:** Broken Fragment
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic

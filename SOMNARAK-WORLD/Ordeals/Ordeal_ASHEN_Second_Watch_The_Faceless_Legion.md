@@ -1,4 +1,4 @@
-# PALE Second Watch — The Faceless Legion
+# ASHEN Second Watch — The Faceless Legion
 
 > *""They moved in formation. They had no faces. They did not need them.""*
 
@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| **Color** | PALE |
+| **Color** | ASHEN |
 | **Time** | Second Watch |
 | **Threat Level** | Moderate |
 | **Han Source** | Void |
@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 5–8 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 9–21 per hit · Void (Pale White) |
+| **Han Pressure [ATK]** | 9–21 per hit · Void |
 | **HP** | 150/150 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -50,7 +50,7 @@ Alert Level 2. Level 3+ team with ranged M.A.W. Flerehan support recommended for
 
 ## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary PALE Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary ASHEN Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Greater-grade)
 
@@ -62,7 +62,7 @@ Alert Level 2. Level 3+ team with ranged M.A.W. Flerehan support recommended for
 | **Han Pressure [ATK]** | 15–30 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Erasure Projector (Machine, Greater-grade)
 
@@ -74,7 +74,7 @@ Alert Level 2. Level 3+ team with ranged M.A.W. Flerehan support recommended for
 | **Han Pressure [ATK]** | 20–35 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Geometric Void (Non-Humanoid, Greater-grade)
 
@@ -86,7 +86,7 @@ Alert Level 2. Level 3+ team with ranged M.A.W. Flerehan support recommended for
 | **Han Pressure [ATK]** | 25–40 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It simply is, and what it touches, isn't. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[1 Void DMG [Void] (5% Max HP)]**
 
 
 ## Trivia
@@ -98,7 +98,7 @@ Alert Level 2. Level 3+ team with ranged M.A.W. Flerehan support recommended for
 
 ## Document Information
 
-**Document ID:** `ORDEAL-PALE-Second-Watch`
+**Document ID:** `ORDEAL-ASHEN-Second-Watch`
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 

@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) — Self-aware, creative, manipulative |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Dream |
 | **Physical Form** | Non-Organic — A massive loom of crystallized Dream-stuff, its frame pale and cold, its threads weaving on their own with no visible operator — knotting visions, nightmares, and half-remembered rooms. Salt-damp, it smells of cold rain; the shuttle moves to no hand. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Thread* [**Debuff**] } | "A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there." | [The Loom's dream-threads alter the target's perception.] | *Target suffers -10 Composure; waking and dreaming blur.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target approaches the Loom. |
-| { *The Tightening Weave* [**Debuff**] } | "The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind." | [The Loom's output envelops the target; they cannot distinguish their thoughts.] | *Target loses 10 Composure; the dream-fabric is inside them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Cut Thread* [**Attack**] } | "A thread snaps — and the severed end whips out, sharp as a blade." | [A broken dream-thread lashes the target.] | *Inflicts Deep Blue pressure and one surreal, cutting wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Loom is interrupted. |
-| { *The Full Tapestry* [**Attack**] } | "The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything." | [The Loom's entire output is released at once.] | *A heavy Deep Blue cascade; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Loom is forced to stop. |
-| { *The Woven World* [**Ultimate**] } | "The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream." | [The Loom extends its weaving across the entire area.] | *All in range suffer Deep Blue pressure for three turns inside the woven dream.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Thread* [**Debuff**] } | "A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there." | [The Loom's dream-threads alter the target's perception.] | *Target suffers -10 Composure; waking and dreaming blur.* **[10 Lament DMG [Lament]]** | When the target approaches the Loom. |
+| { *The Tightening Weave* [**Debuff**] } | "The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind." | [The Loom's output envelops the target; they cannot distinguish their thoughts.] | *Target loses 10 Composure; the dream-fabric is inside them.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Cut Thread* [**Attack**] } | "A thread snaps — and the severed end whips out, sharp as a blade." | [A broken dream-thread lashes the target.] | *Inflicts Lament pressure and one surreal, cutting wound.* **[14-22 Lament DMG [Lament]]** | When the Loom is interrupted. |
+| { *The Full Tapestry* [**Attack**] } | "The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything." | [The Loom's entire output is released at once.] | *A heavy Deep Blue cascade; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Loom is forced to stop. |
+| { *The Woven World* [**Ultimate**] } | "The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream." | [The Loom extends its weaving across the entire area.] | *All in range suffer Lament pressure for three turns inside the woven dream.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Loom of Unlived Dreams: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Dream form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-A-01, near Dream Gates, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Loom of Unlived Dreams: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Dream form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-01, near Dream Gates, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Loom of Unlived Dreams: it is not a generi
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
 
 **Damage:** Lament 7–12
 **Speed:** 3 (Fast)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Loom of Unlived Dreams: it is not a generi
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Loom of Unlived Dreams: it is not a generi
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a shuttle-charm of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a shuttle-charm of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Loom of Unlived Dreams (C-IVγ-176 [LO]) is logged as a Object-Dream manifestation expressing Lament (Deep Blue). The Loom formed from dreams abandoned before they could become lives. Held at SECTOR-A-01, near Dream Gates. The Loom responds to desire more than touch.
+Loom of Unlived Dreams (C-IVγ-176 [LO]) is logged as a Object-Dream manifestation expressing Lament. The Loom formed from dreams abandoned before they could become lives. Held at SECTOR-A-01, near Dream Gates. The Loom responds to desire more than touch.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Dreams produced by it can affect physical rooms.
@@ -388,7 +388,7 @@ Some sorrows mourn what was lost. Loom of Unlived Dreams mourns what was dreamed
 > *“The loom does not stop. The dreams keep arriving.”* — Mender, Dream Gates
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation
 **Common Name:** The Dream Weaver’s Loom
 **Containment Status:** Contained — Dream Gates
 **Comprehension Level:** 3 — Advanced

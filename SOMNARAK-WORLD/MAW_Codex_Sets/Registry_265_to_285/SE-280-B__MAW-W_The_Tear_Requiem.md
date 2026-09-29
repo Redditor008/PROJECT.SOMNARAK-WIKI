@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A short singing deep-blue Han-crystal blade whose edge beads with tears from the nearest emotional attack. It forms from salt residue after safe external Pall removal.
+A short singing Lament Han-crystal blade whose edge beads with tears from the nearest emotional attack. It forms from salt residue after safe external Pall removal.
 
 Binding requires the wielder to name their own grief before touching another’s. During the *Garden Whiteout*, Durivel separated a panic wave from one wearer without stopping the person’s crying. He wept through every prior face Pall remembered.
 

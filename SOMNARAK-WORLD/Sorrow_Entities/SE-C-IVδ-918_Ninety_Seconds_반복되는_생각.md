@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Time-Mind |
 | **Physical Form** | Organic — A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void / Pale White]]** | When the entity first fixes on a target. |
-| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void / Pale White]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void / Pale White]]** | When the entity is cornered or starved. |
-| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void / Pale White] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
+| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void]]** | When the entity is cornered or starved. |
+| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last.
 
 **Notable Features:**
-- Expresses Void (Pale White) pressure in a mind register.
+- Expresses Void pressure in a mind register.
 - The time form is unmistakable — this is a mind entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a single-edged blade of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
 
 **Damage:** Void 11–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
@@ -178,7 +178,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,7 +188,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -274,7 +274,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-918 [VT]` · City Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Time-Mind manifestation
+**Classification:** Sorrow Entity — `C-IVδ-918 [VT]` · City Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Void · Time-Mind manifestation
 
 **Common Name:** Ninety Seconds
 
@@ -289,7 +289,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the mind register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Void (Pale White) · Time-Mind · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Void · Time-Mind · Manifestation Classification
 
 ### Registry Addendum
 

@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils, fire along its length. Fever-warm, it smells of cold rain and char. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Upward Reach* [**Debuff**] } | "Roots push UP through the floor — defying gravity, defying nature — heading for the sky." | [The Root's impossible direction unsettles the target; their own foundations feel inverted.] | *Target suffers -10 Composure; the wrong direction is maddening.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target sees the Root. |
-| { *The Inverted Network* [**Debuff**] } | "The roots spread upward — branching across the ceiling like an upside-down forest." | [The Root's network inverts the space; the target feels upside-down.] | *Target loses 10 Composure; up and down have traded places.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains. |
-| { *The Rising Strike* [**Attack**] } | "A root surges upward — thick, gnarled, heading for your chin." | [ An upward root-thrust strikes.] | *Inflicts Deep Blue pressure and one wound of impossible, inverted growth.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Root is disturbed. |
-| { *The Full Canopy* [**Attack**] } | "The roots reach the ceiling — and then burst through it — and the sky beyond is full of sorrow." | [The Root's complete ascent tears through the building.] | *A heavy Deep Blue rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Root is cut. |
-| { *The Inverted Forest* [**Ultimate**] } | "Every root in the field rises — and the whole space becomes an upside-down forest, roots in the sky." | [The Root extends its rising across the whole area.] | *All in range suffer Deep Blue pressure for three turns of ascending roots.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Upward Reach* [**Debuff**] } | "Roots push UP through the floor — defying gravity, defying nature — heading for the sky." | [The Root's impossible direction unsettles the target; their own foundations feel inverted.] | *Target suffers -10 Composure; the wrong direction is maddening.* **[10 Lament DMG [Lament]]** | When the target sees the Root. |
+| { *The Inverted Network* [**Debuff**] } | "The roots spread upward — branching across the ceiling like an upside-down forest." | [The Root's network inverts the space; the target feels upside-down.] | *Target loses 10 Composure; up and down have traded places.* **[10 Lament DMG [Lament]]** | When the target remains. |
+| { *The Rising Strike* [**Attack**] } | "A root surges upward — thick, gnarled, heading for your chin." | [ An upward root-thrust strikes.] | *Inflicts Lament pressure and one wound of impossible, inverted growth.* **[14-22 Lament DMG [Lament]]** | When the Root is disturbed. |
+| { *The Full Canopy* [**Attack**] } | "The roots reach the ceiling — and then burst through it — and the sky beyond is full of sorrow." | [The Root's complete ascent tears through the building.] | *A heavy Deep Blue rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Root is cut. |
+| { *The Inverted Forest* [**Ultimate**] } | "Every root in the field rises — and the whole space becomes an upside-down forest, roots in the sky." | [The Root extends its rising across the whole area.] | *All in range suffer Lament pressure for three turns of ascending roots.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a shield-backed harness of deep-blue Han-crystal, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a shield-backed harness of Lament Han-crystal, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Uprooted (O-IIIγ-959 [D]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The Root formed from a life forced to grow in hostile ground. Held at The Desolate — mobile. It follows abandoned foundations.
+Uprooted (O-IIIγ-959 [D]) is logged as a Subject-Grudge manifestation expressing Lament. The Root formed from a life forced to grow in hostile ground. Held at The Desolate — mobile. It follows abandoned foundations.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Desolate soil and abandoned foundations. Personnel feel consuming rage and displaced belonging. Its fire is emotional and does not consume wood.
@@ -348,7 +348,7 @@ Some sorrows mourn a home. Uprooted mourns the rooting — the attempt to belong
 > *“The accumulated longing for permanence, risen from every abandoned ground.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-959 [D]` · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-959 [D]` · Lament · Subject-Grudge manifestation
 **Common Name:** Uprooted
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic

@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A ruin-shaped mass of red-black crystal preserving the exact outline of a place once loved and now gone — its walls true to memory, its rooms empty. Fever-cold, it smells of char; a beloved place, crystallized in its own ending. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unremembered* [**Debuff**] } | "The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell." | [The Ruin's forgotten history presses on the target; they feel the weight of unknown purpose.] | *Target suffers -10 Resilience; the meaninglessness is heavy.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the Ruin. |
-| { *The Buried Purpose* [**Debuff**] } | "The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier." | [The Ruin's lost purpose generates resentment; the target absorbs the aimless rage.] | *Target loses 10 Resilience; they feel the fury of purposelessness.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target explores. |
-| { *The Falling Stone* [**Attack**] } | "A stone detaches from the forgotten ruin — and no one remembers it was there until it hits." | [A block of unknown ruin strikes from above.] | *Inflicts Crimson pressure and one wound of unremembered collapse.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Ruin is disturbed. |
-| { *The Full Uncovering* [**Attack**] } | "The ruin's forgotten history is forced into memory — all at once — and the return of purpose is devastating." | [The Ruin's complete remembrance releases its stored rage at being forgotten.] | *A heavy Crimson revelation; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Ruin is excavated. |
-| { *The City of Forgetting* [**Ultimate**] } | "Every ruin in the field becomes forgotten — and the combined weight of purposeless destruction crushes everything." | [The Ruin extends its forgotten-ness across the whole area.] | *All in range suffer Crimson pressure for three turns of forgotten ruins.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unremembered* [**Debuff**] } | "The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell." | [The Ruin's forgotten history presses on the target; they feel the weight of unknown purpose.] | *Target suffers -10 Resilience; the meaninglessness is heavy.* **[10 Grudge DMG [Grudge]]** | When the target enters the Ruin. |
+| { *The Buried Purpose* [**Debuff**] } | "The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier." | [The Ruin's lost purpose generates resentment; the target absorbs the aimless rage.] | *Target loses 10 Resilience; they feel the fury of purposelessness.* **[10 Grudge DMG [Grudge]]** | When the target explores. |
+| { *The Falling Stone* [**Attack**] } | "A stone detaches from the forgotten ruin — and no one remembers it was there until it hits." | [A block of unknown ruin strikes from above.] | *Inflicts Grudge pressure and one wound of unremembered collapse.* **[14-22 Grudge DMG [Grudge]]** | When the Ruin is disturbed. |
+| { *The Full Uncovering* [**Attack**] } | "The ruin's forgotten history is forced into memory — all at once — and the return of purpose is devastating." | [The Ruin's complete remembrance releases its stored rage at being forgotten.] | *A heavy Crimson revelation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Ruin is excavated. |
+| { *The City of Forgetting* [**Ultimate**] } | "Every ruin in the field becomes forgotten — and the combined weight of purposeless destruction crushes everything." | [The Ruin extends its forgotten-ness across the whole area.] | *All in range suffer Grudge pressure for three turns of forgotten ruins.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|---|
 | 10 Seconds | Conservatory rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Conservatory activates its primary resonance: Rebuilds one room for a short time. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of loving a place so fiercely that preservation became destruction; the bearer begins perceiving echoes of a caretaker overloaded a han structure to save a home; the structure collapsed and crystallized. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Conservatory begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Conservatory begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Conservatory too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The reconstructed room may consume the observer's present identity. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Conservatory: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Conservatory: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -251,7 +251,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a bracelet of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a bracelet of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Conservatory (N-IVδ-852 [N]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Ruin formed from a place destroyed by someone trying to preserve it. Held at Zone C, Mask Market. It responds to love more than anger.
+Conservatory (N-IVδ-852 [N]) is logged as a Object-Grudge manifestation expressing Grudge. The Ruin formed from a place destroyed by someone trying to preserve it. Held at Zone C, Mask Market. It responds to love more than anger.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 False reconstruction causes violent collapse.
@@ -388,7 +388,7 @@ Some sorrows are about neglect. Conservatory is about devotion — the love so f
 > *“The caretaker overloaded the structure to save it. The saving killed it.”* — Mender, Zone A
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-852 [N]` · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-852 [N]` · Grudge · Object-Grudge manifestation
 **Common Name:** Conservatory
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic

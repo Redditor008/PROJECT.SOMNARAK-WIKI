@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A rusted iron mass embedded in the border ground, shaped like a weight at the end of an invisible chain — corroded, bleeding orange rust, sunk halfway into the earth. Fever-cold and lead-heavy, it smells of char and wet iron; the unseen chain pulls toward something distant. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Flaking Mass* [**Debuff**] } | "The weight sits on your shoulders — and with every breath, a little more of it flakes away as rust. But it never gets lighter." | [The Weight's corrosion spreads to the target; their own burden oxidizes.] | *Target suffers -10 Resilience; the rust is eating at them.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Weight settles. |
-| { *The Orange Stain* [**Debuff**] } | "Where the rust touches, it stains — and the stain does not come out, and it spreads." | [The Weight's corrosion contaminates the target; everything they carry begins to rust.] | *Target loses 10 Resilience; their defenses are corroding.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target bears the Weight. |
-| { *The Rust Blade* [**Attack**] } | "A flake of rust hardens — and it is sharper than any polished edge." | [A corroded shard strikes the target.] | *Inflicts Crimson pressure and one jagged, oxidized wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Weight is struck. |
-| { *The Structural Failure* [**Attack**] } | "The weight gives way — not from force, but from rust. The inside was eaten hollow." | [The Weight's internal corrosion causes total collapse.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Weight is dropped. |
-| { *Everything Corrodes* [**Ultimate**] } | "The rust spreads to everything — every surface, every defense — until the whole field is flaking orange." | [The Weight extends its corrosion across the whole area.] | *All in range suffer Crimson pressure for three turns of universal rust.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Flaking Mass* [**Debuff**] } | "The weight sits on your shoulders — and with every breath, a little more of it flakes away as rust. But it never gets lighter." | [The Weight's corrosion spreads to the target; their own burden oxidizes.] | *Target suffers -10 Resilience; the rust is eating at them.* **[10 Grudge DMG [Grudge]]** | When the Weight settles. |
+| { *The Orange Stain* [**Debuff**] } | "Where the rust touches, it stains — and the stain does not come out, and it spreads." | [The Weight's corrosion contaminates the target; everything they carry begins to rust.] | *Target loses 10 Resilience; their defenses are corroding.* **[10 Grudge DMG [Grudge]]** | When the target bears the Weight. |
+| { *The Rust Blade* [**Attack**] } | "A flake of rust hardens — and it is sharper than any polished edge." | [A corroded shard strikes the target.] | *Inflicts Grudge pressure and one jagged, oxidized wound.* **[14-22 Grudge DMG [Grudge]]** | When the Weight is struck. |
+| { *The Structural Failure* [**Attack**] } | "The weight gives way — not from force, but from rust. The inside was eaten hollow." | [The Weight's internal corrosion causes total collapse.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is dropped. |
+| { *Everything Corrodes* [**Ultimate**] } | "The rust spreads to everything — every surface, every defense — until the whole field is flaking orange." | [The Weight extends its corrosion across the whole area.] | *All in range suffer Grudge pressure for three turns of universal rust.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 |---|---|---|
 | 10 Seconds | Patina rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Patina activates its primary resonance: Radiates an intense gravitational field of Weight, anchoring all grounded constructs and preventing knockback. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the anger of inheriting a conflict no living person began; the bearer begins perceiving echoes of a border dispute continued long after its original cause vanished; its resentment rusted into the ground. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Patina begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Patina begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Patina too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The crushing weight increases exponentially; prolonged contact causes severe musculoskeletal strain. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Patina: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Patina: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Patina: it is not a generic breach event. 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Patina: it is not a generic breach event. 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Patina: it is not a generic breach event. 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Patina (C-IVδ-222 [GP]) is logged as a Place-Weight manifestation expressing Grudge (Crimson). The Weight formed from resentment passed through generations of border families. Held at Zone E, Border region. Its weight changes with border disputes.
+Patina (C-IVδ-222 [GP]) is logged as a Place-Weight manifestation expressing Grudge. The Weight formed from resentment passed through generations of border families. Held at Zone E, Border region. Its weight changes with border disputes.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rust spreads through markers rather than metal alone.
@@ -386,7 +386,7 @@ Some sorrows are about a wound. Patina is about a wound whose weapon was lost �
 > *“They hate because their ancestors hated. They do not know why.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-222` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-IVδ-222` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Place-Weight manifestation
 **Common Name:** Patina
 **Containment Status:** Uncontained — border district
 **Comprehension Level:** 3 — Advanced

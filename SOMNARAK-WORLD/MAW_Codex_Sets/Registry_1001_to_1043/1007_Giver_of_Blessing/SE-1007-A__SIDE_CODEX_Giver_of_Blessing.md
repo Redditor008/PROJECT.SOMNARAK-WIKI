@@ -21,7 +21,7 @@ Giver of Blessing is the second stage of the Kind Healer transformation chain. W
 | Source designation | C-Iβ-071b [LS] |
 | Type / Manifestation | Subject — Mid-transformation entity / Subject-Lament |
 | Coherence / Potency | I — Residue (the healer's original self is fading) / β — Moderate (escalating from α) |
-| Element / Location | Lament (Deep Blue) with emerging Hope / SECTOR-D-01, The Forge District — Training Containment Unit |
+| Element / Location | Lament with emerging Hope / SECTOR-D-01, The Forge District — Training Containment Unit |
 | Gauge / Pressure | 450/450; starts 40–60% / 8–18 per hit · Lament |
 | Observation | 2 — Escalating |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Giver of Blessing Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Giver of Blessing's source condition, the Suit lets a witness bear its Lament (Deep Blue) with emerging Hope pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Lower the Sorrow Gauge below 25% while following the recorded Work responses. The set cannot heal the originating event. Misuse routes Giver of Blessing's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Giver of Blessing's source condition, the Suit lets a witness bear its Lament with emerging Hope pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Lower the Sorrow Gauge below 25% while following the recorded Work responses. The set cannot heal the originating event. Misuse routes Giver of Blessing's wound through the operator and triggers the recorded escalation.
 
 ---
 

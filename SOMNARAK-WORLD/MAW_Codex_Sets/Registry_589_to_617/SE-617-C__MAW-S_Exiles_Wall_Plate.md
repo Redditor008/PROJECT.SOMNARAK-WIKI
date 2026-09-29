@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A dark crimson Han-iron harness whose plates overlap like unfinished masonry. It tightens near Grudge and leaves a deliberate open seam down the center. Binding requires an escort who is not authorized to choose the traveler’s destination.
+A dark Grudge Han-iron harness whose plates overlap like unfinished masonry. It tightens near Grudge and leaves a deliberate open seam down the center. Binding requires an escort who is not authorized to choose the traveler’s destination.
 
 The Plate formed during a Ferrehan stand at Half-Room Twelve while Xyan held the midpoint and refused both the city order to return the exiles and the Wall’s invitation to remain.
 

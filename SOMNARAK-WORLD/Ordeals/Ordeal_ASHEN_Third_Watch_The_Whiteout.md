@@ -1,4 +1,4 @@
-# PALE Third Watch — The Whiteout
+# ASHEN Third Watch — The Whiteout
 
 > *""The corridor turned white. Not bright — empty. As if someone had erased the color and forgotten to put anything back.""*
 
@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| **Color** | PALE |
+| **Color** | ASHEN |
 | **Time** | Third Watch |
 | **Threat Level** | Major |
 | **Han Source** | Void |
@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 3–5 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 18–35 per hit · Void (Pale White) |
+| **Han Pressure [ATK]** | 18–35 per hit · Void |
 | **HP** | 375/375 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -51,7 +51,7 @@ Alert Level 3. Level 4+ team. Ranged M.A.W. essential. Volunteer for zone entry 
 
 ## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary PALE Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary ASHEN Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Elite-grade)
 
@@ -63,7 +63,7 @@ Alert Level 3. Level 4+ team. Ranged M.A.W. essential. Volunteer for zone entry 
 | **Han Pressure [ATK]** | 25–45 per hit · Void |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Erasure Projector (Machine, Elite-grade)
 
@@ -75,7 +75,7 @@ Alert Level 3. Level 4+ team. Ranged M.A.W. essential. Volunteer for zone entry 
 | **Han Pressure [ATK]** | 30–50 per hit · Void |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[2 Void DMG [Void] (5% Max HP)]**
 
 ### The Geometric Void (Non-Humanoid, Elite-grade)
 
@@ -87,7 +87,7 @@ Alert Level 3. Level 4+ team. Ranged M.A.W. essential. Volunteer for zone entry 
 | **Han Pressure [ATK]** | 35–55 per hit · Void |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It simply is, and what it touches, isn't. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[2 Void DMG [Void] (5% Max HP)]**
 
 
 ## Trivia
@@ -99,7 +99,7 @@ Alert Level 3. Level 4+ team. Ranged M.A.W. essential. Volunteer for zone entry 
 
 ## Document Information
 
-**Document ID:** `ORDEAL-PALE-Third-Watch`
+**Document ID:** `ORDEAL-ASHEN-Third-Watch`
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 

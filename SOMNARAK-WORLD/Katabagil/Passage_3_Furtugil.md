@@ -217,10 +217,10 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
  - Stagger Thresholds: 2,240 HP (70%) | 1,280 HP (40%) | 320 HP (10%)
  - Base Defense: 50 | Speed Dice: 3–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
-   * Grudge (Crimson) : 0.5x (Endured — Tempered in volcanic brake-friction)
-   * Lament (Deep Blue): 1.5x (Weakness — Rusts locomotive gears and joints)
-   * Void (Pale White) : 2.0x (Exposed Weakness — Directly disrupts the guilt core)
-   * Weight (Black)    : 1.0x (Normal — Solid kinetic impact)
+   * Grudge : 0.5x (Endured — Tempered in volcanic brake-friction)
+   * Lament: 1.5x (Weakness — Rusts locomotive gears and joints)
+   * Void : 2.0x (Exposed Weakness — Directly disrupts the guilt core)
+   * Weight    : 1.0x (Normal — Solid kinetic impact)
 
  TARGETABLE COMPONENT PARTS:
  1. Armored Rail Mandibles    (HP: 850 | Stagger: 300) — High-velocity crushing bites

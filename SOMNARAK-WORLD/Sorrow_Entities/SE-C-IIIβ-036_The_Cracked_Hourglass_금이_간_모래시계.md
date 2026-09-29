@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Anxious about time |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — An ancient hourglass of crystallized time, its frame dark and worn, one bulb cracked so that the sand — which is not sand but ground sorrow — leaks without end. The glass is cold and lead-heavy; the falling grains tick like a slowed heartbeat. It smells of wet stone and iron. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slipping Sand* [**Debuff**] } | "The sand slips faster — and you feel the years going with it." | [The Hourglass accelerates; the target feels time bleeding away.] | *Target suffers -10 Resolve as moments are stolen from them.* **[10 Black DMG [Black / Weight]]** | When the Hourglass is turned or watched. |
-| { *The Crack Widens* [**Debuff**] } | "The glass fractures a little more, and time runs crooked through the gap." | [A new crack distorts time around the target; seconds stretch and collapse.] | *Target loses 10 Resolve; their timing falls apart.* **[10 Black DMG [Black / Weight]]** | When the target remains near the Hourglass. |
-| { *The Falling Glass* [**Attack**] } | "The weight of all the time you wasted, dropped on you at once." | [The accumulated sand slams down — the burden of misspent time made solid.] | *Inflicts Black pressure and one crushing wound.* **[14-22 Black DMG [Black / Weight]]** | When the target provokes the Hourglass. |
-| { *The Last Grains* [**Attack**] } | "Almost empty now — and the last grains are the heaviest." | [The final sand falls; the pressure of time nearly gone bears down.] | *A heavy Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Hourglass is nearly run out or struck. |
-| { *Out of Time* [**Ultimate**] } | "The last grain falls. For everyone." | [The Hourglass empties across the whole field; time runs out everywhere at once.] | *All personnel suffer Black pressure for three turns as time collapses.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slipping Sand* [**Debuff**] } | "The sand slips faster — and you feel the years going with it." | [The Hourglass accelerates; the target feels time bleeding away.] | *Target suffers -10 Resolve as moments are stolen from them.* **[10 Weight DMG [Weight]]** | When the Hourglass is turned or watched. |
+| { *The Crack Widens* [**Debuff**] } | "The glass fractures a little more, and time runs crooked through the gap." | [A new crack distorts time around the target; seconds stretch and collapse.] | *Target loses 10 Resolve; their timing falls apart.* **[10 Weight DMG [Weight]]** | When the target remains near the Hourglass. |
+| { *The Falling Glass* [**Attack**] } | "The weight of all the time you wasted, dropped on you at once." | [The accumulated sand slams down — the burden of misspent time made solid.] | *Inflicts Weight pressure and one crushing wound.* **[14-22 Weight DMG [Weight]]** | When the target provokes the Hourglass. |
+| { *The Last Grains* [**Attack**] } | "Almost empty now — and the last grains are the heaviest." | [The final sand falls; the pressure of time nearly gone bears down.] | *A heavy Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Hourglass is nearly run out or struck. |
+| { *Out of Time* [**Ultimate**] } | "The last grain falls. For everyone." | [The Hourglass empties across the whole field; time runs out everywhere at once.] | *All personnel suffer Weight pressure for three turns as time collapses.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -189,12 +189,12 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 |---|---|---|
 | 10 Seconds | The Cracked Hourglass rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Cracked Hourglass activates its primary resonance: Briefly slows time in the surrounding area. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from fear of mortality, deadlines, wasted moments, and unrecoverable choices; the bearer begins perceiving echoes of the city's constant pressure to hurry and the knowledge that time cannot be reclaimed crystallized into leaking sand. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within The Cracked Hourglass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within The Cracked Hourglass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear The Cracked Hourglass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user's own lifespan is shortened by each use. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Cracked Hourglass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-A-01, Alpha Tree vault — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Cracked Hourglass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-A-01, Alpha Tree vault — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -321,7 +321,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Cracked Hourglass (C-IIIβ-036 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Hourglass formed from anxiety about running out of time. Held at SECTOR-A-01, Alpha Tree vault — contained. Sand leaks constantly but regenerates.
+The Cracked Hourglass (C-IIIβ-036 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Hourglass formed from anxiety about running out of time. Held at SECTOR-A-01, Alpha Tree vault — contained. Sand leaks constantly but regenerates.
 
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 The object resonates with the Weeping and pulses near strong emotion.
@@ -406,7 +406,7 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent �
 > *“Every grain that slips through is a moment gone forever.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-036 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-036 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** The Cracked Hourglass
 **Containment Status:** Contained — Alpha Tree deep vault
 **Comprehension Level:** 4 — Mastered

@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A black relic that appears in the Old Lament after long absences, glowing with crimson inner fire and shifting shape when unobserved. Fever-hot, it smells of char; it always comes back — a thing that should be lost but will not stay gone. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reappearance* [**Debuff**] } | "You buried the relic — deep, sealed, gone — and here it is, in your hand, heavier than before." | [The Relic's return is inevitable; the target feels the futility of disposal.] | *Target suffers -10 Resilience; they cannot get rid of it.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target discards the Relic. |
-| { *The Growing Return* [**Debuff**] } | "Each time it comes back, it is larger — heavier — more insistent on being held." | [The Relic's returns compound; the burden grows.] | *Target loses 10 Resilience; the relic is winning.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target tries to refuse. |
-| { *The Heavy Hand* [**Attack**] } | "The returning relic strikes — of its own accord — angry at being thrown away." | [The Relic attacks autonomously.] | *Inflicts Crimson pressure and one wound of returned weight.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Relic is rejected. |
-| { *The Full Return* [**Attack**] } | "Every version of the relic that was ever discarded returns at once — a multitude of angry objects." | [The Relic's complete return cycle releases all its copies.] | *A heavy Crimson barrage; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the return cycle is broken. |
-| { *The Reliquary* [**Ultimate**] } | "Relics appear in every hand in the field — each one returned, each one heavy, each one angry." | [The Relic extends its returns across the whole area.] | *All in range suffer Crimson pressure for three turns of returning objects.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Reappearance* [**Debuff**] } | "You buried the relic — deep, sealed, gone — and here it is, in your hand, heavier than before." | [The Relic's return is inevitable; the target feels the futility of disposal.] | *Target suffers -10 Resilience; they cannot get rid of it.* **[10 Grudge DMG [Grudge]]** | When the target discards the Relic. |
+| { *The Growing Return* [**Debuff**] } | "Each time it comes back, it is larger — heavier — more insistent on being held." | [The Relic's returns compound; the burden grows.] | *Target loses 10 Resilience; the relic is winning.* **[10 Grudge DMG [Grudge]]** | When the target tries to refuse. |
+| { *The Heavy Hand* [**Attack**] } | "The returning relic strikes — of its own accord — angry at being thrown away." | [The Relic attacks autonomously.] | *Inflicts Grudge pressure and one wound of returned weight.* **[14-22 Grudge DMG [Grudge]]** | When the Relic is rejected. |
+| { *The Full Return* [**Attack**] } | "Every version of the relic that was ever discarded returns at once — a multitude of angry objects." | [The Relic's complete return cycle releases all its copies.] | *A heavy Crimson barrage; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the return cycle is broken. |
+| { *The Reliquary* [**Ultimate**] } | "Relics appear in every hand in the field — each one returned, each one heavy, each one angry." | [The Relic extends its returns across the whole area.] | *All in range suffer Grudge pressure for three turns of returning objects.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Home to No One Who Knew Me rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Home to No One Who Knew Me activates its primary resonance: Returns a lost object or memory to its previous location briefly. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the instability of belonging—returning home only to find home has forgotten you; the bearer begins perceiving echoes of an artifact left the city, was destroyed or hidden, and later returned to a district that had changed beyond recognition. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Home to No One Who Knew Me begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Home to No One Who Knew Me begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Home to No One Who Knew Me too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may confuse return with restoration and lose present memories. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Home to No One Who Knew Me: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Home to No One Who Knew Me: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** an ember-charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -303,7 +303,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Home to No One Who Knew Me (N-IVδ-641 [GO]) is logged as a Object-Void manifestation expressing Grudge (Crimson). The Relic formed from the grief of an object repeatedly lost and rediscovered. Held at Zone B, Old Lament — ambient. The Relic appears without a consistent schedule.
+Home to No One Who Knew Me (N-IVδ-641 [GO]) is logged as a Object-Void manifestation expressing Grudge. The Relic formed from the grief of an object repeatedly lost and rediscovered. Held at Zone B, Old Lament — ambient. The Relic appears without a consistent schedule.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It glows during the Sorrow Tide.
@@ -385,7 +385,7 @@ Some sorrows mourn a home. Home to No One Who Knew Me mourns the return — the 
 > *“The artifact belongs, now, nowhere. The place it belonged to became a different place.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-641 [GO]` · Grudge (Crimson) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IVδ-641 [GO]` · Grudge · Object-Void manifestation
 **Common Name:** Home to No One Who Knew Me
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic

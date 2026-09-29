@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Deadline Mantle |
 | Set | Time to Act |
-| Type / grade / element | Suit / β — Moderate / Weight — Black |
+| Type / grade / element | Suit / β — Moderate / Weight |
 | Status | Active; deadline-support and rest plan required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Hanul Grey |

@@ -18,11 +18,11 @@
 |---|---|
 | Official name | The Muffled Resonance-Bell |
 | Set | Heard Warning |
-| Type / grade / element | Weapon / β — Moderate / Void — Pale White |
+| Type / grade / element | Weapon / β — Moderate / Void |
 | Status | Active; alert-partner issue required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Sentinel Harin |
-| Resting form | A pale Han-glass hammer with a bell-shaped hollow inside the head and no audible movement. |
+| Resting form | A Void Han-glass hammer with a bell-shaped hollow inside the head and no audible movement. |
 | Active form | A single pale impact circle spreads outward, swallowing nearby sound within a defined space. |
 | Recognition rule | It will not lift until an outside alert partner is assigned to hear what the bearer cannot. |
 

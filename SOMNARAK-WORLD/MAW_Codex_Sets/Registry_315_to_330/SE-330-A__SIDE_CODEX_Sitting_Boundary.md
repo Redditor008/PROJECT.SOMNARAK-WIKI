@@ -22,7 +22,7 @@
 | Entity | Sitting Boundary — 얼어붙은 창 |
 | Type / Manifestation | Subject — Subject-Grudge |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | A humanoid of black ice with burning seams, circling the Commons while frozen surfaces replay final departures. |
 | Gauge / Pressure | 35–50% / Weight 8–20 |
 | Observation | 2 — Basic |

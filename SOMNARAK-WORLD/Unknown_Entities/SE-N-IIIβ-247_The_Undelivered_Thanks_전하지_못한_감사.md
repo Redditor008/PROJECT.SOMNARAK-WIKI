@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Organic — A translucent human figure, slight and perpetually mid-bow, wearing the faded coat of a Zone D commoner — half-flesh, half-light, frozen in a gratitude it never managed to speak. Lead-cold, it smells of wet stone; it bows to everyone, and the thanks never arrives. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unsent Letter* [**Debuff**] } | "A thank-you, written but never sent — and the not-sending has grown heavy over the years." | [The weight of undelivered gratitude settles on the target.] | *Target suffers -10 Resolve; they owe thanks they never gave.* **[10 Black DMG [Black / Weight]]** | When the target approaches. |
-| { *The Heavy Heart* [**Debuff**] } | "The gratitude you never expressed has become a stone in your chest." | [The unspoken thanks accrue mass; the target carries every one.] | *Target loses 10 Resolve; the accumulated gratitude is crushing.* **[10 Black DMG [Black / Weight]]** | When the target remains. |
-| { *The Returned Stigma* [**Attack**] } | "The kindness you never acknowledged comes back — heavier, and sharper." | [Every unthanked kindness returns as a weighted blow.] | *Inflicts Black pressure and one wound of unacknowledged debt.* **[14-22 Black DMG [Black / Weight]]** | When the Thanks is stirred. |
-| { *The Guilt* [**Attack**] } | "The guilt of every thank-you left unsaid — all at once, all its full weight." | [The accumulated guilt of ingratitude crashes down.] | *A heavy Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Thanks is confronted. |
-| { *All Unsaid Things* [**Ultimate**] } | "Everything you meant to say and never did — it all arrives now, at once." | [The Thanks releases every unspoken word across the field.] | *All personnel suffer Black pressure for three turns of unsaid weight.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unsent Letter* [**Debuff**] } | "A thank-you, written but never sent — and the not-sending has grown heavy over the years." | [The weight of undelivered gratitude settles on the target.] | *Target suffers -10 Resolve; they owe thanks they never gave.* **[10 Weight DMG [Weight]]** | When the target approaches. |
+| { *The Heavy Heart* [**Debuff**] } | "The gratitude you never expressed has become a stone in your chest." | [The unspoken thanks accrue mass; the target carries every one.] | *Target loses 10 Resolve; the accumulated gratitude is crushing.* **[10 Weight DMG [Weight]]** | When the target remains. |
+| { *The Returned Stigma* [**Attack**] } | "The kindness you never acknowledged comes back — heavier, and sharper." | [Every unthanked kindness returns as a weighted blow.] | *Inflicts Weight pressure and one wound of unacknowledged debt.* **[14-22 Weight DMG [Weight]]** | When the Thanks is stirred. |
+| { *The Guilt* [**Attack**] } | "The guilt of every thank-you left unsaid — all at once, all its full weight." | [The accumulated guilt of ingratitude crashes down.] | *A heavy Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Thanks is confronted. |
+| { *All Unsaid Things* [**Ultimate**] } | "Everything you meant to say and never did — it all arrives now, at once." | [The Thanks releases every unspoken word across the field.] | *All personnel suffer Weight pressure for three turns of unsaid weight.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -313,7 +313,7 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 > *"We considered whether the Hand of Hope could dissolve it. It cannot. This entity is the proof that even hope leaves something behind."* — Director Majin (마진), Year 4238
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-247 [WS]` · Inner origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-247 [WS]` · Inner origin · Fragment (III) coherence · Moderate (β) potency · Weight · Subject-Phantasmal manifestation
 **Common Name:** The Undelivered Thanks
 **Containment Status:** Uncontained / Wandering — drifts the old Dawn routes; not suppressible by force
 **Comprehension Level:** 2 — Basic

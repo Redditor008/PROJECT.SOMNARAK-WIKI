@@ -21,7 +21,7 @@ The Soul formed from the grief of a friend who was abandoned. The confusion of b
 | Source designation | O-IIβ-833 [LS] |
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Echo (II) — Repeats waiting for acknowledgment / Moderate (β) — Manageable |
-| Element / Location | Lament (Deep Blue) / Zone B, Old Lament — contained/ambient |
+| Element / Location | Lament / Zone B, Old Lament — contained/ambient |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized. |
@@ -52,7 +52,7 @@ During the The Neverlast Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Neverlast's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Remain with it and acknowledge the abandonment; do not promise a return The set cannot heal the originating event. Misuse routes Neverlast's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Neverlast's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Remain with it and acknowledge the abandonment; do not promise a return The set cannot heal the originating event. Misuse routes Neverlast's wound through the operator and triggers the recorded escalation.
 
 ---
 

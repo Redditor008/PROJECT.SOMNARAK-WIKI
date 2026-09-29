@@ -22,7 +22,7 @@
 | Entity | Bridge to Nowhere — 솟아오른 다리 |
 | Type / Manifestation | Object/Place — Place-Grudge |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | A memory-crystal bridge of worn route stones rising over no physical gap and connecting shores that no longer exist. |
 | Gauge / Pressure | 60–80% / Lament 22–48 |
 | Observation | 2 — Basic |

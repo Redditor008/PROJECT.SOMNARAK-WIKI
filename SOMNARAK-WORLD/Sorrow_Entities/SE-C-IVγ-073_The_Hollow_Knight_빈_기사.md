@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, driven by duty |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Non-Organic — A suit of ancient plate armor standing upright with nothing inside it — no body, no bones; the armor itself is the entity. It patrols continuously, weapon and shield raised, joints clanking with no flesh to move them. The metal is fever-hot and smells of char. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Visor* [**Debuff**] } | "The visor is up — and inside, there is nothing. No face. No eyes. Just the shape of a man who is not there." | [The Knight's emptiness unsettles the target; they sense the void within the armor.] | *Target suffers -10 Resilience; the absence inside the armor is wrong.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target faces the Knight. |
-| { *The Heavy Step* [**Debuff**] } | "The armor moves — and each step is heavier than it should be, as though the nothing inside weighs more than any man." | [The Knight's movement carries phantom weight; the emptiness is massive.] | *Target loses 10 Resilience; the void inside the armor is pulling.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Knight approaches. |
-| { *The Hollow Blow* [**Attack**] } | "The sword swings — and behind it, there is no arm, no body, just the weight of the armor and the void inside." | [A strike from a sword wielded by nothing.] | *Inflicts Crimson pressure and one cold, heavy wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Knight is challenged. |
-| { *The Full Reveal* [**Attack**] } | "The armor opens — and the nothing inside expands, pouring out through every joint." | [The Knight's armor splits, releasing the void within.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Knight's armor is breached. |
-| { *The Empty Army* [**Ultimate**] } | "Every suit of armor in the field stands up — and inside every one, the same hollow, the same nothing." | [The Knight multiplies its emptiness across every armored shape.] | *All in range suffer Crimson pressure for three turns of empty knights.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Empty Visor* [**Debuff**] } | "The visor is up — and inside, there is nothing. No face. No eyes. Just the shape of a man who is not there." | [The Knight's emptiness unsettles the target; they sense the void within the armor.] | *Target suffers -10 Resilience; the absence inside the armor is wrong.* **[10 Grudge DMG [Grudge]]** | When the target faces the Knight. |
+| { *The Heavy Step* [**Debuff**] } | "The armor moves — and each step is heavier than it should be, as though the nothing inside weighs more than any man." | [The Knight's movement carries phantom weight; the emptiness is massive.] | *Target loses 10 Resilience; the void inside the armor is pulling.* **[10 Grudge DMG [Grudge]]** | When the Knight approaches. |
+| { *The Hollow Blow* [**Attack**] } | "The sword swings — and behind it, there is no arm, no body, just the weight of the armor and the void inside." | [A strike from a sword wielded by nothing.] | *Inflicts Grudge pressure and one cold, heavy wound.* **[14-22 Grudge DMG [Grudge]]** | When the Knight is challenged. |
+| { *The Full Reveal* [**Attack**] } | "The armor opens — and the nothing inside expands, pouring out through every joint." | [The Knight's armor splits, releasing the void within.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Knight's armor is breached. |
+| { *The Empty Army* [**Ultimate**] } | "Every suit of armor in the field stands up — and inside every one, the same hollow, the same nothing." | [The Knight multiplies its emptiness across every armored shape.] | *All in range suffer Grudge pressure for three turns of empty knights.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -180,7 +180,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that hums faintly when gripped.
 
 **Damage:** Grudge 7–12
 **Speed:** 3 (Fast)
@@ -201,7 +201,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -219,7 +219,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a shield-pendant of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a shield-pendant of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Hollow Knight (C-IVγ-073 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Knight formed from duty without purpose. Held at SECTOR-B-01, Zone B — contained. The armor is empty; no organic body exists inside.
+The Hollow Knight (C-IVγ-073 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Knight formed from duty without purpose. Held at SECTOR-B-01, Zone B — contained. The armor is empty; no organic body exists inside.
 
 **Entry 2 — <Excerpt from Field Log, Year 4222>**
 Patrols facility corridors, seeking threats that no longer exist. Personnel feel compelled to stand guard and abandon other duties. It patrols sixteen hours per day and never retreats.
@@ -361,7 +361,7 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 > *“No one remembers what the knight protects. The knight does not stop protecting it.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-073` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-073` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Hollow Knight
 **Containment Status:** Contained — border district
 **Comprehension Level:** 3 — Advanced

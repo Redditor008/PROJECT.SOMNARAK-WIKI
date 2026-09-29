@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Subject — Subject-Phantasmal |
 | Coherence / Potency | III — Fragment / β — Moderate |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | Zone C, Collector’s Row — ambient |
 | Form | A human-shaped shadow cast by nothing, seen only from the corner of the eye or in reflection, always behind the debtor who turns to face it. |
 | Gauge / pressure | 35–50% / Weight 8–20 |

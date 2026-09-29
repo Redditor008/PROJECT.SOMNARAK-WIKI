@@ -20,7 +20,7 @@ Upwell is a half-flesh, half-mist mother-figure rising from a broken dry well in
 |---|---|
 | Type / Manifestation | Subject / Subject-Phantasmal |
 | Coherence / Potency | II / β |
-| Element | Grudge (Crimson) |
+| Element | Grudge |
 | Location | Zone B, Old Lament |
 | Gauge / Pressure | 390/390; starts 35–50% / 8–19 Grudge |
 | Movement / Resistance | 1.45 m/s manifestation / 25% Grudge, 15% other |

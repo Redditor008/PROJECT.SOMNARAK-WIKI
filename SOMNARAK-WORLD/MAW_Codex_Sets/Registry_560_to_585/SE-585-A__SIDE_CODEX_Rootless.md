@@ -20,7 +20,7 @@ Rootless is a pale tree-beast drifting root-first above the Desolate, its hangin
 |---|---|
 | Type / Manifestation | Subject / Place-Weight |
 | Coherence / Potency | III / γ |
-| Element | Lament (Deep Blue) |
+| Element | Lament |
 | Location | The Desolate, near the Scar |
 | Gauge / Pressure | 758/758; starts 45–65% / 16–37 Lament |
 | Movement / Resistance | Drifts on Han currents / 35% Lament, 25% other |

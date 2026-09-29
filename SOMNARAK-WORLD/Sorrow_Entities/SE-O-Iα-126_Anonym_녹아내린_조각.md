@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A melting shard perceived inside consciousness rather than space — a figure assembled from pale fragments that watches without eyes. Bloodless-cold, it smells of ash; the fragments dissolve and reform as you try to focus on them. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Soft Edge* [**Debuff**] } | "Your outline goes blurry at the edges — and you cannot tell where you stop and the air begins." | [The Shard melts the target's boundaries; definition fails.] | *Target suffers a Void mark; they are less solid than they were.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Shard is approached. |
-| { *The Run* [**Debuff**] } | "Something drips — and you realize with horror that it is you." | [The target begins to lose cohesion; identity runs.] | *Target loses clarity; they cannot hold their shape together.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers in the melt. |
-| { *The Pool* [**Attack**] } | "A splash of what used to be someone lands on you." | [A glob of melted self strikes the target.] | *Inflicts Void damage; a portion of identity transferred.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is disturbed. |
-| { *The Dissolve* [**Attack**] } | "The melting accelerates — and everything you were comes apart at once." | [The Shard dissolves the target's coherence in a rapid rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shard is struck. |
-| { *The Puddle* [**Ultimate**] } | "Everyone loses their edges — and the floor is awash with what used to be people." | [The Shard spreads its melt across the whole field.] | *All in range suffer Pale White erosion for three turns as shapes fail.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Soft Edge* [**Debuff**] } | "Your outline goes blurry at the edges — and you cannot tell where you stop and the air begins." | [The Shard melts the target's boundaries; definition fails.] | *Target suffers a Void mark; they are less solid than they were.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shard is approached. |
+| { *The Run* [**Debuff**] } | "Something drips — and you realize with horror that it is you." | [The target begins to lose cohesion; identity runs.] | *Target loses clarity; they cannot hold their shape together.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers in the melt. |
+| { *The Pool* [**Attack**] } | "A splash of what used to be someone lands on you." | [A glob of melted self strikes the target.] | *Inflicts Void damage; a portion of identity transferred.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is disturbed. |
+| { *The Dissolve* [**Attack**] } | "The melting accelerates — and everything you were comes apart at once." | [The Shard dissolves the target's coherence in a rapid rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is struck. |
+| { *The Puddle* [**Ultimate**] } | "Everyone loses their edges — and the floor is awash with what used to be people." | [The Shard spreads its melt across the whole field.] | *All in range suffer Void erosion for three turns as shapes fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a mirror-tile of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a mirror-tile of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Anonym (O-Iα-126 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Shard formed from self-image eroded by repeated rejection. Held at Zone E, Border region. It is perceived mentally rather than physically.
+Anonym (O-Iα-126 [VS]) is logged as a Subject-Mind manifestation expressing Void. The Shard formed from self-image eroded by repeated rejection. Held at Zone E, Border region. It is perceived mentally rather than physically.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the consciousness of border personnel. Subjects lose confidence in their own identity. It melts under direct certainty and reforms under patient observation.
@@ -348,7 +348,7 @@ Some sorrows are about losing a home. Anonym is about losing a self — the iden
 > *“A self-image eroded by rejection, crystallized, and melting because the erosion continues.”* — Mender, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-126 [VS]` · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `O-Iα-126 [VS]` · Void · Subject-Mind manifestation
 **Common Name:** Anonym
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 1 — Initial

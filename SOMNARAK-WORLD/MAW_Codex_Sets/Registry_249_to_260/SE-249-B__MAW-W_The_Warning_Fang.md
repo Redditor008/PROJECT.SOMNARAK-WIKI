@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A fang-curved crimson Han-iron blade vibrating with interrupted syllables. It forms from the overlap of two independent dream reports. Blank sections remain as gaps along the edge.
+A fang-curved Grudge Han-iron blade vibrating with interrupted syllables. It forms from the overlap of two independent dream reports. Blank sections remain as gaps along the edge.
 
 Binding requires the wielder to state one confirmed danger vector and one unknown. During the *Three-Syllable Storm*, Fang cut a path through red static toward rising Han pressure without naming the storm type. Durivel’s old leg injury bruised with every corrected direction.
 

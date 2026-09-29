@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Armor — draped Weight mantle |
 | **Grade** | δ — Critical |
-| **Element** | Weight — Black |
+| **Element** | Weight |
 | **Maximum Amount** | 2 — Limited |
 | **Echo Cost** | 45 Sorrow Echoes |
 

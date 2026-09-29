@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A well-shaped presence that rises inside a consciousness rather than the ground — felt as a circle of crimson light widening in the mind, a shaft with no bottom. Fever-cold, it smells of char; no body, only the descending light. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lift* [**Debuff**] } | "The well rises from the earth — grinding upward, stone and water defying gravity — and the sorrow in it is going up, not down." | [The Well ascends; its reversed gravity pulls the target upward.] | *Target suffers -10 Resilience; the wrong direction is disorienting.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stands over the Well. |
-| { *The Inverted Draw* [**Debuff**] } | "Water falls upward from the rising well — and it pulls you with it, away from the ground." | [The Well's anti-gravity intensifies; the target loses footing.] | *Target loses 10 Resilience; they are being lifted.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Upward Geyser* [**Attack**] } | "A column of sorrow-water blasts straight up — through the floor, through you." | [A reversed geyser strikes from below.] | *Inflicts Crimson pressure and one wound of upward impact.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Well is struck. |
-| { *The Full Ascent* [**Attack**] } | "The well completes its rise — and at the apex, the sorrow it held is released in every direction." | [The Well's summit triggers omnidirectional release.] | *A heavy Crimson explosion; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Well reaches the ceiling. |
-| { *The Floating Sea* [**Ultimate**] } | "Every well in the field rises — and the sorrow-water fills the air, and there is no ground, and no down." | [The Well extends its ascent across the whole area.] | *All in range suffer Crimson pressure for three turns in the floating sea.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lift* [**Debuff**] } | "The well rises from the earth — grinding upward, stone and water defying gravity — and the sorrow in it is going up, not down." | [The Well ascends; its reversed gravity pulls the target upward.] | *Target suffers -10 Resilience; the wrong direction is disorienting.* **[10 Grudge DMG [Grudge]]** | When the target stands over the Well. |
+| { *The Inverted Draw* [**Debuff**] } | "Water falls upward from the rising well — and it pulls you with it, away from the ground." | [The Well's anti-gravity intensifies; the target loses footing.] | *Target loses 10 Resilience; they are being lifted.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Upward Geyser* [**Attack**] } | "A column of sorrow-water blasts straight up — through the floor, through you." | [A reversed geyser strikes from below.] | *Inflicts Grudge pressure and one wound of upward impact.* **[14-22 Grudge DMG [Grudge]]** | When the Well is struck. |
+| { *The Full Ascent* [**Attack**] } | "The well completes its rise — and at the apex, the sorrow it held is released in every direction." | [The Well's summit triggers omnidirectional release.] | *A heavy Crimson explosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well reaches the ceiling. |
+| { *The Floating Sea* [**Ultimate**] } | "Every well in the field rises — and the sorrow-water fills the air, and there is no ground, and no down." | [The Well extends its ascent across the whole area.] | *All in range suffer Grudge pressure for three turns in the floating sea.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)
@@ -188,7 +188,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -206,7 +206,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small stone of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a small stone of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Rising Well (C-IVδ-869 [GS]) is logged as a Subject-Mind manifestation expressing Grudge (Crimson). The Well formed from rage buried so deeply that it became an inner landscape. Held at The Desolate — mobile. The Well is mobile because it manifests through consciousness.
+Rising Well (C-IVδ-869 [GS]) is logged as a Subject-Mind manifestation expressing Grudge. The Well formed from rage buried so deeply that it became an inner landscape. Held at The Desolate — mobile. The Well is mobile because it manifests through consciousness.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in the minds of personnel and spreads through shared memory. Personnel experience fury without a clear object. It sings rather than speaks.
@@ -344,7 +344,7 @@ Some sorrows are about the original wound. Rising Well is about the inheritance 
 > *“Anger without a remembered cause, rising like water in the blood.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-869 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `C-IVδ-869 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Mind manifestation
 **Common Name:** Rising Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced

@@ -21,7 +21,7 @@ The Relic formed from an object carried through many exiles. The grief of surviv
 | Source designation | O-IVδ-792 [O] |
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / Zone E, Exile's Gate vicinity |
+| Element / Location | Lament / Zone E, Exile's Gate vicinity |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A relic passed from one exile to another until its history became a wandering figure. |
@@ -52,7 +52,7 @@ During the The Relic of a Thousand Owners Source-Trace, the field team preserved
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Relic of a Thousand Owners's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not claim ownership; document its owners The set cannot heal the originating event. Misuse routes Relic of a Thousand Owners's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Relic of a Thousand Owners's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not claim ownership; document its owners The set cannot heal the originating event. Misuse routes Relic of a Thousand Owners's wound through the operator and triggers the recorded escalation.
 
 ---
 

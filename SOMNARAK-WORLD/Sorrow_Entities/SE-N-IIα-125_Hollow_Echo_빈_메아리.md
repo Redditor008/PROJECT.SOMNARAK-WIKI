@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats calling out |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A voice with no stable body — at times a faint translucent outline, but mostly just sound, present everywhere at once. Bloodless-cold, it smells of ash; nothing to see, only the echo repeating a grief with no source. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Ring* [**Debuff**] } | "A sound echoes — but the sound has no source, and the echo has no original, and both are hollow." | [The Echo's void-resonance fills the target with absence.] | *Target suffers a Void mark; they are full of nothing.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Echo's range. |
-| { *The Amplifying Silence* [**Debuff**] } | "The echo grows louder — but louder means emptier — and the emptiness is deafening." | [The Echo's amplification increases the void-quotient.] | *Target loses clarity; the nothing is consuming everything.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains. |
-| { *The Sonic Void* [**Attack**] } | "The echo collapses inward — becoming a point of pure, concentrated absence." | [A void-point strikes the target.] | *Inflicts Void damage; the absence erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Echo is disturbed. |
-| { *The Full Hollow* [**Attack**] } | "Every echo the entity ever held — all of them hollow — resonate at once." | [The Echo's complete resonance is a wall of nothing.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Echo is silenced. |
-| { *The Hollow World* [**Ultimate**] } | "Every sound in the field becomes a hollow echo — and beneath every echo, the same void." | [The Echo extends its hollowness across the whole area.] | *All in range suffer Pale White erosion for three turns of hollow resonance.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Empty Ring* [**Debuff**] } | "A sound echoes — but the sound has no source, and the echo has no original, and both are hollow." | [The Echo's void-resonance fills the target with absence.] | *Target suffers a Void mark; they are full of nothing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Echo's range. |
+| { *The Amplifying Silence* [**Debuff**] } | "The echo grows louder — but louder means emptier — and the emptiness is deafening." | [The Echo's amplification increases the void-quotient.] | *Target loses clarity; the nothing is consuming everything.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |
+| { *The Sonic Void* [**Attack**] } | "The echo collapses inward — becoming a point of pure, concentrated absence." | [A void-point strikes the target.] | *Inflicts Void damage; the absence erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Echo is disturbed. |
+| { *The Full Hollow* [**Attack**] } | "Every echo the entity ever held — all of them hollow — resonate at once." | [The Echo's complete resonance is a wall of nothing.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Echo is silenced. |
+| { *The Hollow World* [**Ultimate**] } | "Every sound in the field becomes a hollow echo — and beneath every echo, the same void." | [The Echo extends its hollowness across the whole area.] | *All in range suffer Void erosion for three turns of hollow resonance.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -208,7 +208,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small stone of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a small stone of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollow Echo (N-IIα-125 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The Echo formed from calls for help that went unanswered. Held at Zone D, Echo Gardens — ambient. The Echo is ambient and has no confirmed physical body.
+Hollow Echo (N-IIα-125 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Echo formed from calls for help that went unanswered. Held at Zone D, Echo Gardens — ambient. The Echo is ambient and has no confirmed physical body.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Voice travels through gardens, walls, and open air. Personnel feel the patient despair of an unanswered plea. It responds to acknowledgment but continues calling afterward.
@@ -344,7 +344,7 @@ Some sorrows are about being trapped. Hollow Echo is about being unheard — the
 > *“The silence where the response should have been is the hollow that gives the Echo its nature.”* — Warden, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIα-125 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIα-125 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void · Subject-Phantasmal manifestation
 **Common Name:** Hollow Echo
 **Containment Status:** Contained — Zone D, Echo Gardens — ambient
 **Comprehension Level:** 1 — Initial

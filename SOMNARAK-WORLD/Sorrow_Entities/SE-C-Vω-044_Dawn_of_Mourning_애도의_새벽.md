@@ -57,7 +57,7 @@
 | **Resistance** | 80% against all four sorrow types; immune to Hope pressure |
 | **Activation threshold** | Corrupted chain completion |
 | **Sorrow Gauge [HP]** | 12,000/12,000 — sovereign-tier |
-| **Han Pressure [ATK]** | All Four simultaneously — cycling Crimson / Deep Blue / Black / Pale White |
+| **Han Pressure [ATK]** | All Four simultaneously — cycling Grudge / Lament / Weight / Void |
 | **Coherence modifier** | V — divine-level intelligence and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
 
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Dawn of Mourning — Mourning Light* [**Debuff**] } | "Mourning Light drapes a film of raw over the target's senses. | [Dawn of Mourning exhales its nature across the target, clouding them in raw.] | *Target loses 10 Resolve and their presence dims to onlookers.* **[10 Deep Blue DMG [Deep Blue / All]]** | When the entity first fixes on a target. |
-| { *Dawn of Mourning — Mourner's Call* [**Debuff**] } | "Mourner's Call hums beneath the target's ribs — a raw drone that will not stop. | [Dawn of Mourning deepens the mark already set, pressing harder into the raw.] | *Target loses 10 Resolve and their movements grow sluggish.* **[10 Deep Blue DMG [Deep Blue / All]]** | When the marked target fails to break away. |
-| { *Dawn of Mourning — Crown of Sorrows* [**Attack**] } | "Dawn of Mourning's Crown of Sorrows arrives without warning — a raw blow from a direction no one watched. | [Dawn of Mourning strikes from the angle of its origin sorrow, then is gone.] | *Deals raw damage; the target turns, searching for the source.* **[14-22 Deep Blue DMG [Deep Blue / All]]** | When the entity is provoked or a target exposes a flank. |
-| { *Dawn of Mourning — The Failed Chain* [**Attack**] } | "Dawn of Mourning's The Failed Chain folds the raw into one unbearable point and lets it go. | [Dawn of Mourning compresses its sorrow to a singularity and hurls it.] | *One massive hit; the Sorrow Gauge climbs 15%.* **[24-36 Deep Blue DMG [Deep Blue / All]]** | When the entity is hurt or frustrated. |
-| { *Dawn of Mourning — The Eternal Wake* [**Ultimate**] } | "Dawn of Mourning's The Eternal Wake tears open the wound that birthed it. | [Dawn of Mourning reopens the sorrow that gave it form, letting it spread across the field.] | *All personnel in range suffer primary Resolve pressure for three turns.* **[12-20 Deep Blue DMG [Deep Blue / All] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *Dawn of Mourning — Mourning Light* [**Debuff**] } | "Mourning Light drapes a film of raw over the target's senses. | [Dawn of Mourning exhales its nature across the target, clouding them in raw.] | *Target loses 10 Resolve and their presence dims to onlookers.* **[10 Lament DMG [Lament / All]]** | When the entity first fixes on a target. |
+| { *Dawn of Mourning — Mourner's Call* [**Debuff**] } | "Mourner's Call hums beneath the target's ribs — a raw drone that will not stop. | [Dawn of Mourning deepens the mark already set, pressing harder into the raw.] | *Target loses 10 Resolve and their movements grow sluggish.* **[10 Lament DMG [Lament / All]]** | When the marked target fails to break away. |
+| { *Dawn of Mourning — Crown of Sorrows* [**Attack**] } | "Dawn of Mourning's Crown of Sorrows arrives without warning — a raw blow from a direction no one watched. | [Dawn of Mourning strikes from the angle of its origin sorrow, then is gone.] | *Deals raw damage; the target turns, searching for the source.* **[14-22 Lament DMG [Lament / All]]** | When the entity is provoked or a target exposes a flank. |
+| { *Dawn of Mourning — The Failed Chain* [**Attack**] } | "Dawn of Mourning's The Failed Chain folds the raw into one unbearable point and lets it go. | [Dawn of Mourning compresses its sorrow to a singularity and hurls it.] | *One massive hit; the Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament / All]]** | When the entity is hurt or frustrated. |
+| { *Dawn of Mourning — The Eternal Wake* [**Ultimate**] } | "Dawn of Mourning's The Eternal Wake tears open the wound that birthed it. | [Dawn of Mourning reopens the sorrow that gave it form, letting it spread across the field.] | *All personnel in range suffer primary Resolve pressure for three turns.* **[12-20 Lament DMG [Lament / All] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -193,9 +193,9 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Dual Element Normal + Tick:**
-- **Normal / Primary:** 7–25 Void (Pale White) direct.
-- **Tick / Secondary:** 3 Lament (Deep Blue) per second for 10 seconds.
-- **Interval:** 0.5 second(s) — 1.5 per tick, 30 total Lament (Deep Blue).
+- **Normal / Primary:** 7–25 Void direct.
+- **Tick / Secondary:** 3 Lament per second for 10 seconds.
+- **Interval:** 0.5 second(s) — 1.5 per tick, 30 total Lament.
 - **Assignment note:** Mourning Light is direct Void with lingering Lament grief.
 
 **Ability:** Channels all four sorrows simultaneously; the wearer can project Mourning Light, create temporary Fracture Zones, and sense the location of every sorrow-bearing entity within range.

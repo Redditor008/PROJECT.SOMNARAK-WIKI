@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A tear-shaped object crushed flat against the soil, still wet despite being crystal — pressed down so hard it cannot fall or dry. Salt-cold and damp, it smells of cold rain; a grief that hit the ground and could not get up. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Spilled Drop* [**Debuff**] } | "A tear falls — and shatters on the floor, and the pieces each carry the full weight of the original." | [The Tear breaks on impact; each fragment holds complete grief.] | *Target suffers -10 Composure; they are splashed with broken sorrow.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target is near the shatter. |
-| { *The Spreading Pool* [**Debuff**] } | "The tear-fragments melt together — forming a pool that reflects a face that is not yours." | [The collapsed Tear's fragments merge; the pool is grief-colored.] | *Target loses 10 Composure; the reflected grief is theirs and not theirs.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target looks into the pool. |
-| { *The Glass Shard* [**Attack**] } | "A fragment of the collapsed tear, hardened and sharp, flies upward." | [ A crystallized tear-fragment launches at the target.] | *Inflicts Deep Blue pressure and one small, crystalline cut.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the pool is disturbed. |
-| { *The Full Shatter* [**Attack**] } | "Every tear that ever fell and broke — all of it, reassembled and then shattered again, at once." | [The collapsed Tear reconstitutes and detonates.] | *A heavy Deep Blue shatter; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Tear is forced. |
-| { *The Sea of Broken Tears* [**Ultimate**] } | "Every tear in the field shatters — and the fragments cover everything, sharp and sorrowful." | [The collapsed Tear spreads its breaking across the whole area.] | *All in range suffer Deep Blue pressure for three turns in the shard-sea.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Spilled Drop* [**Debuff**] } | "A tear falls — and shatters on the floor, and the pieces each carry the full weight of the original." | [The Tear breaks on impact; each fragment holds complete grief.] | *Target suffers -10 Composure; they are splashed with broken sorrow.* **[10 Lament DMG [Lament]]** | When the target is near the shatter. |
+| { *The Spreading Pool* [**Debuff**] } | "The tear-fragments melt together — forming a pool that reflects a face that is not yours." | [The collapsed Tear's fragments merge; the pool is grief-colored.] | *Target loses 10 Composure; the reflected grief is theirs and not theirs.* **[10 Lament DMG [Lament]]** | When the target looks into the pool. |
+| { *The Glass Shard* [**Attack**] } | "A fragment of the collapsed tear, hardened and sharp, flies upward." | [ A crystallized tear-fragment launches at the target.] | *Inflicts Lament pressure and one small, crystalline cut.* **[14-22 Lament DMG [Lament]]** | When the pool is disturbed. |
+| { *The Full Shatter* [**Attack**] } | "Every tear that ever fell and broke — all of it, reassembled and then shattered again, at once." | [The collapsed Tear reconstitutes and detonates.] | *A heavy Deep Blue shatter; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tear is forced. |
+| { *The Sea of Broken Tears* [**Ultimate**] } | "Every tear in the field shatters — and the fragments cover everything, sharp and sorrowful." | [The collapsed Tear spreads its breaking across the whole area.] | *All in range suffer Lament pressure for three turns in the shard-sea.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | Tear Too Small to Honor rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Tear Too Small to Honor activates its primary resonance: Transfers the feeling of the original grief. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the pain of wanting to cry but believing the grief is too small or embarrassing to deserve release; the bearer begins perceiving echoes of a visitor hid a single tear beneath a garden stone; the grief flattened into a collapsed object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Tear Too Small to Honor begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Tear Too Small to Honor begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Tear Too Small to Honor too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may carry shame for mourning. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Tear Too Small to Honor: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Tear Too Small to Honor: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a ring of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a ring of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Tear Too Small to Honor (N-Iα-785 [O]) is logged as a Object-Void manifestation expressing Lament (Deep Blue). The Tear formed from sorrow collapsed beneath shame. Held at Zone D, Echo Gardens. It is most active around visitors who hide their tears.
+Tear Too Small to Honor (N-Iα-785 [O]) is logged as a Object-Void manifestation expressing Lament. The Tear formed from sorrow collapsed beneath shame. Held at Zone D, Echo Gardens. It is most active around visitors who hide their tears.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has never been lifted without emotional distress.
@@ -388,7 +388,7 @@ Some sorrows are grand. Tear Too Small to Honor is about the small — the quiet
 > *“The grief collapsed not because it was insignificant but because it was made to believe it was.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-785 [O]` · Lament (Deep Blue) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-Iα-785 [O]` · Lament · Object-Void manifestation
 **Common Name:** Tear Too Small to Honor
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 1 — Initial

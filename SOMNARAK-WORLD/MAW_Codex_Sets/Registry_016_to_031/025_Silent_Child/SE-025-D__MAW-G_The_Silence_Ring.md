@@ -18,7 +18,7 @@
 |---|---|
 | Type | Accessory (Stigma) — pale glass ring |
 | Grade | α — Minor |
-| Element | Void — Pale White |
+| Element | Void |
 | Slot | Head |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Silent Child source record |

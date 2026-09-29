@@ -21,7 +21,7 @@ The Sigh formed from exhaustion that could not become rest. The grief of survivi
 | Source designation | O-IVδ-895 [VS] |
 | Type / Manifestation | Subject — Can breach / Subject-Spirit |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Void (Pale White) / Zone B, Old Lament |
+| Element / Location | Void / Zone B, Old Lament |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Citizens sighed after repeated crises until the collective breath became a wandering presence. |
@@ -52,7 +52,7 @@ During the The Survivors Breath Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Survivors' Breath's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Permit rest; do not force personnel to continue working through it The set cannot heal the originating event. Misuse routes Survivors' Breath's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Survivors' Breath's source condition, the Suit lets a witness bear its Void pressure, and the Weapon opens only the immediate manifestation that violates this rule: Permit rest; do not force personnel to continue working through it The set cannot heal the originating event. Misuse routes Survivors' Breath's wound through the operator and triggers the recorded escalation.
 
 ---
 

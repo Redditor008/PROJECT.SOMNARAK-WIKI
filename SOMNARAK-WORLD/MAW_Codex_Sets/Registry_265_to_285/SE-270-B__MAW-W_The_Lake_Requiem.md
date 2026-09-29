@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A singing deep-blue Han-crystal blade whose edge holds a perfectly still liquid line. It forms from a witnessed memory that voluntarily surfaces and returns.
+A singing Lament Han-crystal blade whose edge holds a perfectly still liquid line. It forms from a witnessed memory that voluntarily surfaces and returns.
 
 Binding requires two current identity anchors. During the *Rising Childhood*, Requiem separated one stranger’s early life from three workers without cutting the memory into fragments. Durivel wept for a family whose names were absent from every file.
 

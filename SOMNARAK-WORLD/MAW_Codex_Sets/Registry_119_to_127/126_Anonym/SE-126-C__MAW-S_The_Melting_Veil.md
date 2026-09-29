@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Melting Veil |
 | Set | Held Shape |
-| Type / grade / element | Suit / α — Minor / Void — Pale White |
+| Type / grade / element | Suit / α — Minor / Void |
 | Status | Active; chosen-name witness deployment only |
 | Maximum amount | 5 — Standard |
 | Current bearer | Specialist Hanul Grey |

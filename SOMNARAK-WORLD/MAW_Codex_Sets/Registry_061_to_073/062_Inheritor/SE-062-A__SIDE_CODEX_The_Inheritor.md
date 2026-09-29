@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence | III — Fragment |
 | Potency | γ — Major |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | Middle-aged, fever-hot man with clenched fists |
 | Location | SECTOR-C-01, Debt Triplets containment |
 | Comprehension Level | 2 — Studied |

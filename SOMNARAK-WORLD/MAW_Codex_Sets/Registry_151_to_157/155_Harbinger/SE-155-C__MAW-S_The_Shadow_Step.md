@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Step |
 | Set | Known Balance |
-| Type / grade / element | Suit, greave-plate / β — Moderate / Weight — Black |
+| Type / grade / element | Suit, greave-plate / β — Moderate / Weight |
 | Status | Active; return-call partner required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Hanul Grey |

@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A pale Han-glass Head key with no teeth and a clouded memory moving inside its shaft. The Lock granted it after a worker heard one whisper and chose not to open the vault. Bestowal chance is 4%.
+A Void Han-glass Head key with no teeth and a clouded memory moving inside its shaft. The Lock granted it after a worker heard one whisper and chose not to open the vault. Bestowal chance is 4%.
 
 ## Appearance
 

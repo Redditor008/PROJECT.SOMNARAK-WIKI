@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Rusted Charm |
 | Set | Shared Support |
-| Type / grade / element | Stigma, rusted support-charm / α — Minor / Weight — Black |
+| Type / grade / element | Stigma, rusted support-charm / α — Minor / Weight |
 | Slot | Head |
 | Status | Bearer-bound; relief-plan reading required |
 | Known bearer | Specialist Sooah Park |

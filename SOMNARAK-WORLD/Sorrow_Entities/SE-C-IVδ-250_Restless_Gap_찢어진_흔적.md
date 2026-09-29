@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Non-Organic — An emptiness shaped like a person, split clean by a jagged vertical tear — no visible material, only a bent-space silhouette that warps the air around it. Lead-cold, it smells of wet stone; you see it most in what it distorts behind it. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Shredded Record* [**Debuff**] } | "The traces have been torn to pieces — and each fragment carries the weight of the whole." | [The Trace's destruction presses on the target; they bear what was ruined.] | *Target suffers -10 Resolve; the shredded evidence is heavy.* **[10 Black DMG [Black / Weight]]** | When the target touches the fragments. |
-| { *The Missing Page* [**Debuff**] } | "The most important part of the trace is gone — torn away — and the absence weighs more than what remains." | [The Trace's absence presses; the target feels what was removed.] | *Target loses 10 Resolve; the void in the record is crushing.* **[10 Black DMG [Black / Weight]]** | When the target reads the fragments. |
-| { *The Paper Cut* [**Attack**] } | "A fragment of torn trace, edge sharp, flies at you — carrying the anger of being destroyed." | [A shard of torn record launches.] | *Inflicts Black pressure and one thin, heavy cut.* **[14-22 Black DMG [Black / Weight]]** | When the fragments are scattered. |
-| { *The Full Reconstruction* [**Attack**] } | "Every torn fragment flies back together — and for one instant, the trace is whole, and then it detonates." | [The Trace reassembles and immediately explodes.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the fragments are forced together. |
-| { *Everything Is Torn* [**Ultimate**] } | "Every record in the field shreds — and the weight of destroyed evidence crushes everyone." | [The Trace spreads its tearing across the whole field.] | *All in range suffer Black pressure for three turns of shredded records.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Shredded Record* [**Debuff**] } | "The traces have been torn to pieces — and each fragment carries the weight of the whole." | [The Trace's destruction presses on the target; they bear what was ruined.] | *Target suffers -10 Resolve; the shredded evidence is heavy.* **[10 Weight DMG [Weight]]** | When the target touches the fragments. |
+| { *The Missing Page* [**Debuff**] } | "The most important part of the trace is gone — torn away — and the absence weighs more than what remains." | [The Trace's absence presses; the target feels what was removed.] | *Target loses 10 Resolve; the void in the record is crushing.* **[10 Weight DMG [Weight]]** | When the target reads the fragments. |
+| { *The Paper Cut* [**Attack**] } | "A fragment of torn trace, edge sharp, flies at you — carrying the anger of being destroyed." | [A shard of torn record launches.] | *Inflicts Weight pressure and one thin, heavy cut.* **[14-22 Weight DMG [Weight]]** | When the fragments are scattered. |
+| { *The Full Reconstruction* [**Attack**] } | "Every torn fragment flies back together — and for one instant, the trace is whole, and then it detonates." | [The Trace reassembles and immediately explodes.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the fragments are forced together. |
+| { *Everything Is Torn* [**Ultimate**] } | "Every record in the field shreds — and the weight of destroyed evidence crushes everyone." | [The Trace spreads its tearing across the whole field.] | *All in range suffer Weight pressure for three turns of shredded records.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** an anchor-charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** an anchor-charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight (Black). The Trace formed from a life broken into disconnected pieces. Held at Zone D, Mantle Commons. The entity creates discontinuity rather than ordinary destruction.
+Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight. The Trace formed from a life broken into disconnected pieces. Held at Zone D, Mantle Commons. The entity creates discontinuity rather than ordinary destruction.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Moves through Mantle Commons, leaving gaps in memory. Personnel lose continuity between thoughts, places, and identities. Personnel report longing for memories they cannot identify.
@@ -348,7 +348,7 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 > *“The connective tissue of a life, dissolved by exposure, leaving fragments that remember individually but not collectively.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-250 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-250 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Subject-Void manifestation
 **Common Name:** Restless Gap
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced

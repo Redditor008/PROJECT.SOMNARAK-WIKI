@@ -18,11 +18,11 @@
 |---|---|
 | Official name | The Burning Plate |
 | Set | Cindered Testament |
-| Type / grade / element | Suit / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Suit / δ — Critical / Grudge |
 | Status | Secured; field issue requires a preservation observer |
 | Maximum amount | 2 — Limited |
 | Current bearer | Unassigned; one Plate is reserved for sanctioned archive protection |
-| Resting form | Crimson Han-iron plates over a dark underlayer, faintly warm at old scar lines and cold at the joints. |
+| Resting form | Grudge Han-iron plates over a dark underlayer, faintly warm at old scar lines and cold at the joints. |
 | Active form | Script-like fire runs between the plates while the wearer stands between a threat and a named record. |
 | Recognition rule | The shoulder plates remain dark until the wearer can name both what they defend and the person they will not harm to defend it. |
 

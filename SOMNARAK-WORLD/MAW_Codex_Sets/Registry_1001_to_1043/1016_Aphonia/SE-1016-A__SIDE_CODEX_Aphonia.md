@@ -21,7 +21,7 @@ The Scream formed from pleas for help that no one heard. The despair of screamin
 | Source designation | N-IIβ-170 [VS] |
 | Type / Manifestation | Subject — Can breach / Subject-Void |
 | Coherence / Potency | Echo (II) — Repeats screaming in silence / Moderate (β) |
-| Element / Location | Void (Pale White) / Zone B, Old Lament — ambient |
+| Element / Location | Void / Zone B, Old Lament — ambient |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed. |
@@ -52,7 +52,7 @@ During the The Aphonia Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Aphonia's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Say, “I hear you,” and remain present The set cannot heal the originating event. Misuse routes Aphonia's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Aphonia's source condition, the Suit lets a witness bear its Void pressure, and the Weapon contains only the immediate manifestation that violates this rule: Say, “I hear you,” and remain present The set cannot heal the originating event. Misuse routes Aphonia's wound through the operator and triggers the recorded escalation.
 
 ---
 

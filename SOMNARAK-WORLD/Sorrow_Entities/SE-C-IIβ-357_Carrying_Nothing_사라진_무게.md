@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A humanoid wreathed in slow fire, carrying nothing, yet the air behind its back bends and sags under an invisible weight no one can see. Motionless until approached, then it turns. Fever-hot, it smells of char and old smoke; the unseen burden presses on anyone near. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lightness* [**Debuff**] } | "The weight is gone — and the lightness is unbearable. You did not realize how much you needed it." | [The target's burden vanishes; the sudden relief is disorienting.] | *Target suffers -10 Resilience; the absence of weight is its own kind of falling.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Weight lifts. |
-| { *The Free Fall* [**Debuff**] } | "Without the weight, you have no anchor — and you are drifting, and the drifting is terrifying." | [The target, unburdened, loses all sense of grounding.] | *Target loses 10 Resilience; they cannot find their footing.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target remains weightless. |
-| { *The Phantom Mass* [**Attack**] } | "The weight comes back — for one instant — at twice what it was." | [The vanished Weight returns briefly at doubled intensity.] | *Inflicts Crimson pressure and one crushing, sudden wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the absence is challenged. |
-| { *The Full Return* [**Attack**] } | "Every vanished weight, every lifted burden — all returned at once, all at once." | [The Weight reconstitutes entirely and drops.] | *A heavy Crimson avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Weight is summoned back. |
-| { *No Weight At All* [**Ultimate**] } | "Now nothing has weight — and without weight, nothing matters, and nothing holds." | [The Weight removes all gravity from the entire field.] | *All in range suffer Crimson pressure for three turns in the weightless void.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lightness* [**Debuff**] } | "The weight is gone — and the lightness is unbearable. You did not realize how much you needed it." | [The target's burden vanishes; the sudden relief is disorienting.] | *Target suffers -10 Resilience; the absence of weight is its own kind of falling.* **[10 Grudge DMG [Grudge]]** | When the Weight lifts. |
+| { *The Free Fall* [**Debuff**] } | "Without the weight, you have no anchor — and you are drifting, and the drifting is terrifying." | [The target, unburdened, loses all sense of grounding.] | *Target loses 10 Resilience; they cannot find their footing.* **[10 Grudge DMG [Grudge]]** | When the target remains weightless. |
+| { *The Phantom Mass* [**Attack**] } | "The weight comes back — for one instant — at twice what it was." | [The vanished Weight returns briefly at doubled intensity.] | *Inflicts Grudge pressure and one crushing, sudden wound.* **[14-22 Grudge DMG [Grudge]]** | When the absence is challenged. |
+| { *The Full Return* [**Attack**] } | "Every vanished weight, every lifted burden — all returned at once, all at once." | [The Weight reconstitutes entirely and drops.] | *A heavy Crimson avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is summoned back. |
+| { *No Weight At All* [**Ultimate**] } | "Now nothing has weight — and without weight, nothing matters, and nothing holds." | [The Weight removes all gravity from the entire field.] | *All in range suffer Grudge pressure for three turns in the weightless void.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Breach Type** | Escape |
 | **Movement** | Carrying Nothing shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Carrying Nothing (C-IIβ-357 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge (Crimson). The entity formed from a burden that was removed without being resolved. Held at Zone A, Alpha Tree vault. It stands near sealed archives and forgotten vaults.
+Carrying Nothing (C-IIβ-357 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The entity formed from a burden that was removed without being resolved. Held at Zone A, Alpha Tree vault. It stands near sealed archives and forgotten vaults.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Walks through the Alpha Tree vaults, waiting beside sealed records. Personnel feel a burden they cannot identify. The fire brightens when personnel claim nothing was lost.
@@ -350,7 +350,7 @@ Some sorrows are heavy. Carrying Nothing is the opposite — the sorrow of a lig
 > *“Lighter, and emptier, and unable to say what was lost.”* — Citizen, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-357 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIβ-357 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Grudge manifestation
 **Common Name:** Carrying Nothing
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 2 — Basic

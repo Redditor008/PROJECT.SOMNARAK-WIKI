@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike figure built from the pieces of a ruined room — broken plaster, splintered wood, a shattered window held in the shape of a person. It rebuilds itself whenever someone remembers it. Bloodless-cold, it smells of ash; forgotten, it falls back to dust. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Brick* [**Debuff**] } | "A brick appears where the ruin was — then another — the structure is rebuilding itself." | [The Ruin's reconstruction begins; the target senses the impossible renewal.] | *Target suffers a Void mark; what was destroyed is returning.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |
-| { *The Accelerating Build* [**Debuff**] } | "The ruin rebuilds faster and faster — wall rising, arch forming — but the new walls are wrong, angrier." | [The Ruin's reconstruction accelerates; the new structure carries rage.] | *Target loses clarity; the rebuilt ruin is not the same as before.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Falling Stone* [**Attack**] } | "A stone from the rebuilding structure breaks free — heavier than the original, sharper." | [A piece of reconstructed ruin strikes.] | *Inflicts Void damage; the rebuilt material carries void-weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Ruin is disturbed. |
-| { *The Full Cycle* [**Attack**] } | "The ruin completes rebuilding — and immediately begins collapsing again — the cycle releasing all its energy." | [The Ruin's build-and-destroy cycle reaches its peak.] | *A heavy Void detonation of cyclic destruction; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Ruin is interrupted. |
-| { *The Eternal Cycle* [**Ultimate**] } | "Every ruin in the field rebuilds and collapses simultaneously — an endless loop of creation and destruction." | [The Ruin extends its cycle across the whole area.] | *All in range suffer Pale White erosion for three turns of endless ruin.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Brick* [**Debuff**] } | "A brick appears where the ruin was — then another — the structure is rebuilding itself." | [The Ruin's reconstruction begins; the target senses the impossible renewal.] | *Target suffers a Void mark; what was destroyed is returning.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |
+| { *The Accelerating Build* [**Debuff**] } | "The ruin rebuilds faster and faster — wall rising, arch forming — but the new walls are wrong, angrier." | [The Ruin's reconstruction accelerates; the new structure carries rage.] | *Target loses clarity; the rebuilt ruin is not the same as before.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Falling Stone* [**Attack**] } | "A stone from the rebuilding structure breaks free — heavier than the original, sharper." | [A piece of reconstructed ruin strikes.] | *Inflicts Void damage; the rebuilt material carries void-weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Ruin is disturbed. |
+| { *The Full Cycle* [**Attack**] } | "The ruin completes rebuilding — and immediately begins collapsing again — the cycle releasing all its energy." | [The Ruin's build-and-destroy cycle reaches its peak.] | *A heavy Void detonation of cyclic destruction; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Ruin is interrupted. |
+| { *The Eternal Cycle* [**Ultimate**] } | "Every ruin in the field rebuilds and collapses simultaneously — an endless loop of creation and destruction." | [The Ruin extends its cycle across the whole area.] | *All in range suffer Void erosion for three turns of endless ruin.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a shard-tile of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a shard-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Dreaming Ruin (N-IIIγ-505 [VS]) is logged as a Subject-Dream manifestation expressing Void (Pale White). The Ruin formed from a home remembered after it was destroyed. Held at Zone C, Mask Market. It is more stable when a memory is shared by multiple people.
+Dreaming Ruin (N-IIIγ-505 [VS]) is logged as a Subject-Dream manifestation expressing Void. The Ruin formed from a home remembered after it was destroyed. Held at Zone C, Mask Market. It is more stable when a memory is shared by multiple people.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams and Mask Market reflections. Personnel become trapped reconstructing lost places. Its architecture changes with each observer.
@@ -350,7 +350,7 @@ Some sorrows mourn a place. Dreaming Ruin mourns the persistence of the place �
 > *“A ruin that exists only in the dreaming of the people who lost it.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-505 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-505 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Dream manifestation
 **Common Name:** Dreaming Ruin
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

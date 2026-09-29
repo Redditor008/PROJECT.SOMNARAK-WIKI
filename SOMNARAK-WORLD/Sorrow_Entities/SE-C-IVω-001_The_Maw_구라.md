@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Potency** | Catastrophic (ω) — City-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Tale |
 | **Physical Form** | Non-Organic — Not a creature but a district: a wound in Zone B where the buildings lean inward as if to listen, the walls curve toward every voice, and the ground stays soft, as though the black tar that consumed the thousand never fully solidified. The concrete is stained dark and whispers; there is no single body — the place itself is the entity, and it hungers. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Whispering Walls* [**Debuff**] } | "The walls lean inward, and a thousand voices settle on you at once — each one knowing your name." | [The district itself turns toward the target; the walls darken, curve, and begin to whisper their regrets.] | *Target suffers -10 Resilience and is marked; the Maw always knows where they stand.* **[10 Crimson DMG [Crimson / Grudge]]** | When a target enters the district or the city's sorrow rises. |
-| { *The Soft Ground* [**Debuff**] } | "The concrete softens to black tar beneath your feet — the thousand, reaching up." | [The ground liquefies to dark Han-tar; the target sinks and is dragged toward the wound at the district's heart.] | *Target loses 10 Resilience and cannot easily break free of the district.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers in the Maw's territory. |
-| { *The Leaning Buildings* [**Attack**] } | "The buildings lurch inward, merging into one another to close the street around you." | [Adjacent structures fuse and tilt, crushing the corridor where the target stands.] | *Inflicts Crimson pressure and one crushing wound as the architecture itself strikes.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the target is cornered or the district is provoked. |
-| { *The First Wound* [**Attack**] } | "The Maw opens the wound that built the city — the thousand, consumed all at once, again." | [The district re-enacts the Cheongula: a surge of old grudge that threatens to absorb everything in reach.] | *A devastating Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the collective sorrow spikes or the Maw is attacked. |
-| { *The Confession Refused* [**Ultimate**] } | "The thousand speak as one: 'say what you did.' The district expands to swallow the answer that never comes." | [The Maw spreads outward, perimeter markers falling, the wound widening to engulf the entire zone.] | *All personnel in range suffer Crimson pressure for three turns as the district grows.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% or the city refuses to confess. |
+| { *The Whispering Walls* [**Debuff**] } | "The walls lean inward, and a thousand voices settle on you at once — each one knowing your name." | [The district itself turns toward the target; the walls darken, curve, and begin to whisper their regrets.] | *Target suffers -10 Resilience and is marked; the Maw always knows where they stand.* **[10 Grudge DMG [Grudge]]** | When a target enters the district or the city's sorrow rises. |
+| { *The Soft Ground* [**Debuff**] } | "The concrete softens to black tar beneath your feet — the thousand, reaching up." | [The ground liquefies to dark Han-tar; the target sinks and is dragged toward the wound at the district's heart.] | *Target loses 10 Resilience and cannot easily break free of the district.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the Maw's territory. |
+| { *The Leaning Buildings* [**Attack**] } | "The buildings lurch inward, merging into one another to close the street around you." | [Adjacent structures fuse and tilt, crushing the corridor where the target stands.] | *Inflicts Grudge pressure and one crushing wound as the architecture itself strikes.* **[14-22 Grudge DMG [Grudge]]** | When the target is cornered or the district is provoked. |
+| { *The First Wound* [**Attack**] } | "The Maw opens the wound that built the city — the thousand, consumed all at once, again." | [The district re-enacts the Cheongula: a surge of old grudge that threatens to absorb everything in reach.] | *A devastating Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the collective sorrow spikes or the Maw is attacked. |
+| { *The Confession Refused* [**Ultimate**] } | "The thousand speak as one: 'say what you did.' The district expands to swallow the answer that never comes." | [The Maw spreads outward, perimeter markers falling, the wound widening to engulf the entire zone.] | *All personnel in range suffer Grudge pressure for three turns as the district grows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% or the city refuses to confess. |
 
 ### Battle Phases
 
@@ -224,7 +224,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Type:** Armor (Suit) | **Grade:** ω | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -242,7 +242,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Type:** Accessory (Stigma) | **Grade:** ω | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 3%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Maw (C-IVω-001 [GP]) is logged as a Place-Tale manifestation expressing Grudge (Crimson). The Maw is the site of the Cheongula, the First Sorrow. Held at Zone B district — UNCONTAINED. The Maw expands at 2.3 centimeters per year.
+The Maw (C-IVω-001 [GP]) is logged as a Place-Tale manifestation expressing Grudge. The Maw is the site of the Cheongula, the First Sorrow. Held at Zone B district — UNCONTAINED. The Maw expands at 2.3 centimeters per year.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Warm tar beneath the district remains at approximately body temperature.
@@ -390,7 +390,7 @@ This is the first sorrow. This is the wound. This is the thousand, beneath the c
 > *“The city mourns a natural disaster every Consolihan. It was not natural. It was not a disaster. It was a choice.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVω-001 [GP]` · City origin · Entity (IV) coherence · Catastrophic (ω) potency · Grudge (Crimson) · Place-Tale manifestation
+**Classification:** Sorrow Entity — `C-IVω-001 [GP]` · City origin · Entity (IV) coherence · Catastrophic (ω) potency · Grudge · Place-Tale manifestation
 **Common Name:** The Maw
 **Containment Status:** Uncontained — the consumed district (containment IS the district)
 **Comprehension Level:** 5 — Sovereign

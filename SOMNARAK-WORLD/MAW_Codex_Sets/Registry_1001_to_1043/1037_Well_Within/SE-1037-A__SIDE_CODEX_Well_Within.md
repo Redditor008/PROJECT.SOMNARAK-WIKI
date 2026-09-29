@@ -21,7 +21,7 @@ The Well formed from rage buried so deeply that it became an inner landscape. An
 | Source designation | C-IVδ-869 [GS] |
 | Type / Manifestation | Subject — Can breach / Subject-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Grudge (Crimson) / The Desolate — mobile |
+| Element / Location | Grudge / The Desolate — mobile |
 | Gauge / Pressure | 800/800; starts 60–80% / 27–59 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants. |
@@ -52,7 +52,7 @@ During the The Well Within Source-Trace, the field team preserved this source fa
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Well Within's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not invent a cause; document the fragments and ground the subject The set cannot heal the originating event. Misuse routes Well Within's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Well Within's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not invent a cause; document the fragments and ground the subject The set cannot heal the originating event. Misuse routes Well Within's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | O-IIIγ-926 [LH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Lament (Deep Blue) / SECTOR-O-926, contained |
+| Element / Location | Lament / SECTOR-O-926, contained |
 | Gauge / Pressure | 498/498; starts 35–50% / 17–28 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Sky of Borrowed Faces Source-Trace, the field team preserved this
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Sky of Borrowed Faces's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Sky of Borrowed Faces's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Sky of Borrowed Faces's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Sky of Borrowed Faces's wound through the operator and triggers the recorded escalation.
 
 ---
 

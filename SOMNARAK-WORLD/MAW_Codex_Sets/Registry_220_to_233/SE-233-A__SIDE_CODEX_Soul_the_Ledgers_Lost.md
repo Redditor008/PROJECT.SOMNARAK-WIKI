@@ -22,7 +22,7 @@
 | Entity | Soul the Ledgers Lost — 잊혀진 영혼 |
 | Type / Manifestation | Subject — Subject-Lament |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | A warm, salt-damp translucent figure that weeps while walking; its face changes whenever anyone tries to remember it. |
 | Gauge / Pressure | 45–65% / Lament 18–41 |
 | Movement | 1.95 m/s along the Old Lament route |

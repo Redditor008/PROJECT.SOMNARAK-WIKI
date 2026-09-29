@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats a single pattern: seeking acknowledgment |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A translucent, flickering warrior in armor from an unidentified ancient era — half-solid flesh and half-phased light, never quite resolving, as though the Archive's erasure of his name left his body only half-remembered. He stands perfectly at attention, weaponless until provoked, his real face gone from record and from his own features alike. Cold radiates off him, with the smell of old smoke. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Phantom March* [**Debuff**] } | "Boots on stone — a regiment that no one remembers — and the soldier is at the head, still fighting a war no one recalls." | [The Soldier's forgotten duty radiates; the target feels the weight of purposeless service.] | *Target suffers -10 Resilience; they are fighting for nothing.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target encounters the Soldier. |
-| { *The Lost Medal* [**Debuff**] } | "The soldier's chest is full of commendations — every one from a war that has been erased from history." | [The Soldier's unacknowledged service presses; the target feels their own efforts going unnoticed.] | *Target loses 10 Resilience; nothing they do will be remembered.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Bayonet* [**Attack**] } | "The soldier charges — bayonet fixed — still fighting the enemy that no longer exists." | [A desperate, purposeless bayonet-thrust.] | *Inflicts Crimson pressure and one wound of forgotten valor.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Soldier is challenged. |
-| { *The Last Stand* [**Attack**] } | "The soldier makes a final stand — for a cause that no one living can name — and the stand is devastating." | [The Soldier's complete dedication, released in one last effort.] | *A heavy Crimson assault; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Soldier is cornered. |
-| { *The Forgotten Army* [**Ultimate**] } | "Every forgotten soldier in history rises — all of them still fighting — and the field becomes a war no one remembers." | [The Soldier extends its forgotten war across the whole area.] | *All in range suffer Crimson pressure for three turns of endless, forgotten battle.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Phantom March* [**Debuff**] } | "Boots on stone — a regiment that no one remembers — and the soldier is at the head, still fighting a war no one recalls." | [The Soldier's forgotten duty radiates; the target feels the weight of purposeless service.] | *Target suffers -10 Resilience; they are fighting for nothing.* **[10 Grudge DMG [Grudge]]** | When the target encounters the Soldier. |
+| { *The Lost Medal* [**Debuff**] } | "The soldier's chest is full of commendations — every one from a war that has been erased from history." | [The Soldier's unacknowledged service presses; the target feels their own efforts going unnoticed.] | *Target loses 10 Resilience; nothing they do will be remembered.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Bayonet* [**Attack**] } | "The soldier charges — bayonet fixed — still fighting the enemy that no longer exists." | [A desperate, purposeless bayonet-thrust.] | *Inflicts Grudge pressure and one wound of forgotten valor.* **[14-22 Grudge DMG [Grudge]]** | When the Soldier is challenged. |
+| { *The Last Stand* [**Attack**] } | "The soldier makes a final stand — for a cause that no one living can name — and the stand is devastating." | [The Soldier's complete dedication, released in one last effort.] | *A heavy Crimson assault; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soldier is cornered. |
+| { *The Forgotten Army* [**Ultimate**] } | "Every forgotten soldier in history rises — all of them still fighting — and the field becomes a war no one remembers." | [The Soldier extends its forgotten war across the whole area.] | *All in range suffer Grudge pressure for three turns of endless, forgotten battle.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -162,7 +162,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Breach Type** | Escape |
 | **Movement** | Forgotten Soldier shatters containment and hunts through the facility. It attacks anyone who violates its sense of duty. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
 | **Escalation** | Each turn free, Resilience drain +5 until suppressed. |
 
@@ -180,7 +180,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that hums faintly when gripped.
 
 **Damage:** Grudge 5-9
 **Speed:** 2 (Normal)
@@ -196,7 +196,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -214,7 +214,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a blade-pendant of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a blade-pendant of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The Soldier formed from a border soldier — real name erased from the Archive — who served the Zone E perimeter for twenty years without incident. Held at SECTOR-B-02, Zone B — contained corridor 7-C. The Soldier patrols a fixed route and never abandons his post.
+Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The Soldier formed from a border soldier — real name erased from the Archive — who served the Zone E perimeter for twenty years without incident. Held at SECTOR-B-02, Zone B — contained corridor 7-C. The Soldier patrols a fixed route and never abandons his post.
 
 **Entry 2 — <Excerpt from Field Log, Year 4221>**
 Walks through the facility, approaching personnel and standing before them. Those who acknowledge him feel duty and purpose; those who ignore him feel crushing guilt. He salutes only when the words “I remember you” are spoken.
@@ -355,7 +355,7 @@ Some sorrows mourn the fallen. Forgotten Soldier mourns the edited — the sacri
 > *“The sacrifice erased because remembering it would mean remembering what he died for.”* — Elder, The Scar
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-033 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIβ-033 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Phantasmal manifestation
 **Common Name:** Forgotten Soldier
 **Containment Status:** Contained — SECTOR-B-02, Zone B — contained corridor 7-C
 **Comprehension Level:** 4 — Mastered

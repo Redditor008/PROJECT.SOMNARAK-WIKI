@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, crumbling, accepting |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A saint-like humanoid of cracking stone sheathed in dark Han-crystal; pieces crumble constantly from its body but dissolve before reaching the floor, so it is forever falling apart and forever whole. Lead-cold and heavy, it smells of wet stone. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Loose Finger* [**Debuff**] } | "A piece falls from the saint's hand — stone, old, carved — and where it lands, the ground sags." | [The Saint's decay spreads outward; the target feels the structural failure.] | *Target suffers -10 Resolve; things are falling apart around them.* **[10 Black DMG [Black / Weight]]** | When the target stands near the Saint. |
-| { *The Eroding Halo* [**Debuff**] } | "The halo above the saint's head is crumbling — and each falling fragment is heavier than faith should be." | [The Saint's deterioration accelerates; the fragments press down.] | *Target loses 10 Resolve; the weight of failing faith is immense.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Falling Hand* [**Attack**] } | "The saint's stone hand breaks free — and drops, massive, final." | [A colossal stone limb crashes down.] | *Inflicts Black pressure and one crushing wound of collapsed devotion.* **[14-22 Black DMG [Black / Weight]]** | When the Saint is struck. |
-| { *The Full Collapse* [**Attack**] } | "The entire saint gives way — a cascade of stone, faith, and centuries of weight." | [The Saint's total structural failure releases everything it held.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Saint is undermined. |
-| { *Every Saint Falls* [**Ultimate**] } | "The crumbling spreads — every statue, every monument, every sacred thing — all of it coming apart." | [The Saint extends its decay across the whole field.] | *All in range suffer Black pressure for three turns of crumbling faith.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Loose Finger* [**Debuff**] } | "A piece falls from the saint's hand — stone, old, carved — and where it lands, the ground sags." | [The Saint's decay spreads outward; the target feels the structural failure.] | *Target suffers -10 Resolve; things are falling apart around them.* **[10 Weight DMG [Weight]]** | When the target stands near the Saint. |
+| { *The Eroding Halo* [**Debuff**] } | "The halo above the saint's head is crumbling — and each falling fragment is heavier than faith should be." | [The Saint's deterioration accelerates; the fragments press down.] | *Target loses 10 Resolve; the weight of failing faith is immense.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Falling Hand* [**Attack**] } | "The saint's stone hand breaks free — and drops, massive, final." | [A colossal stone limb crashes down.] | *Inflicts Weight pressure and one crushing wound of collapsed devotion.* **[14-22 Weight DMG [Weight]]** | When the Saint is struck. |
+| { *The Full Collapse* [**Attack**] } | "The entire saint gives way — a cascade of stone, faith, and centuries of weight." | [The Saint's total structural failure releases everything it held.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Saint is undermined. |
+| { *Every Saint Falls* [**Ultimate**] } | "The crumbling spreads — every statue, every monument, every sacred thing — all of it coming apart." | [The Saint extends its decay across the whole field.] | *All in range suffer Weight pressure for three turns of crumbling faith.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a fragment-plate of black Han-steel, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a fragment-plate of Weight Han-steel, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Deteriorata (C-IVγ-130 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Saint formed from the grief of a person who spent a lifetime holding others together while slowly falling apart. Held at SECTOR-B-02, Zone B. The Saint's fragments vanish before touching the ground.
+Deteriorata (C-IVγ-130 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Saint formed from the grief of a person who spent a lifetime holding others together while slowly falling apart. Held at SECTOR-B-02, Zone B. The Saint's fragments vanish before touching the ground.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks slowly through Zone B while shedding stone. Personnel feel the weight of every responsibility they have accepted. It becomes more active during the Sorrow Tide.
@@ -350,7 +350,7 @@ Some sorrows are about weakness. Deteriorata is about strength — the strength 
 > *“The strong one’s sorrow: consumed by the very praise that called her strong.”* — Mender, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-130` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-130` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** Deteriorata
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 3 — Advanced

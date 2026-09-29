@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A shadow-shaped form soaked in crimson light, like a silhouette drenched in burning liquid that never evaporates. Fever-hot and dark, it smells of char; it drips light that scorches where it lands. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Wet Dark* [**Debuff**] } | "Your shadow is dripping — wet with old grief — and each drip carries a resentment you cannot name." | [The Shadow's sorrow-water seeps outward from the target's own shade.] | *Target suffers -10 Resilience; their shadow is saturated with anger.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target's shadow touches the ground. |
-| { *The Spreading Stain* [**Debuff**] } | "The wet shadow spreads — darkening the floor around you — and the stain is sticky with old grievances." | [The Shadow's runoff contaminates the area; resentment pools.] | *Target loses 10 Resilience; the anger is everywhere underfoot.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target moves. |
-| { *The Dripping Strike* [**Attack**] } | "The shadow flings a glob of sorrow-water — dark, heavy, and burning with old rage." | [A splatter of wet shadow-stuff strikes.] | *Inflicts Crimson pressure and one burning, resentful wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Shadow is disturbed. |
-| { *The Full Deluge* [**Attack**] } | "The soaking shadow gives up every drop it ever absorbed — a flood of liquid resentment." | [The Shadow's complete release of stored sorrow-water.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Shadow is struck. |
-| { *The Sorrow-Sea of Shadows* [**Ultimate**] } | "Every shadow in the field goes wet — and the combined runoff drowns the room in liquid grief." | [The Shadow extends its soaking across the whole area.] | *All in range suffer Crimson pressure for three turns of soaking shadows.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Wet Dark* [**Debuff**] } | "Your shadow is dripping — wet with old grief — and each drip carries a resentment you cannot name." | [The Shadow's sorrow-water seeps outward from the target's own shade.] | *Target suffers -10 Resilience; their shadow is saturated with anger.* **[10 Grudge DMG [Grudge]]** | When the target's shadow touches the ground. |
+| { *The Spreading Stain* [**Debuff**] } | "The wet shadow spreads — darkening the floor around you — and the stain is sticky with old grievances." | [The Shadow's runoff contaminates the area; resentment pools.] | *Target loses 10 Resilience; the anger is everywhere underfoot.* **[10 Grudge DMG [Grudge]]** | When the target moves. |
+| { *The Dripping Strike* [**Attack**] } | "The shadow flings a glob of sorrow-water — dark, heavy, and burning with old rage." | [A splatter of wet shadow-stuff strikes.] | *Inflicts Grudge pressure and one burning, resentful wound.* **[14-22 Grudge DMG [Grudge]]** | When the Shadow is disturbed. |
+| { *The Full Deluge* [**Attack**] } | "The soaking shadow gives up every drop it ever absorbed — a flood of liquid resentment." | [The Shadow's complete release of stored sorrow-water.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Shadow is struck. |
+| { *The Sorrow-Sea of Shadows* [**Ultimate**] } | "Every shadow in the field goes wet — and the combined runoff drowns the room in liquid grief." | [The Shadow extends its soaking across the whole area.] | *All in range suffer Grudge pressure for three turns of soaking shadows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Soaking Shadow rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Soaking Shadow activates its primary resonance: Absorbs and stores hostile emotion. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the exhaustion of becoming a container for other people's anger; the bearer begins perceiving echoes of an alpha tree vault was used to hide grievances until the accumulated resentment took the shape of a shadow. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Soaking Shadow begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Soaking Shadow begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Soaking Shadow too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The shadow may return stored resentment to the user all at once. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Soaking Shadow: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Soaking Shadow: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Soaking Shadow: it is not a generic breach
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
 
 **Damage:** Grudge 7-12
 **Speed:** 3 (Fast)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Soaking Shadow: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a flowing veil of crimson Han-cloth, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Soaking Shadow: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Soaking Shadow (N-IIIγ-308 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Shadow formed from rage repeatedly absorbed by a place. Held at Zone A, Alpha Tree vault. It grows darker near repeated arguments.
+Soaking Shadow (N-IIIγ-308 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Shadow formed from rage repeatedly absorbed by a place. Held at Zone A, Alpha Tree vault. It grows darker near repeated arguments.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has no identifiable original owner.
@@ -380,7 +380,7 @@ Some sorrows are about feeling anger. Soaking Shadow is about absorbing it — t
 > *“The vault absorbed rage. The rage, denied expression, accumulated into a presence.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-308 [GO]` · Inner origin · Residue (I) coherence · Minor (α) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-308 [GO]` · Inner origin · Residue (I) coherence · Minor (α) potency · Grudge · Object-Grudge manifestation
 **Common Name:** Soaking Shadow
 **Containment Status:** Contained — Alpha Tree vault
 **Comprehension Level:** 2 — Basic

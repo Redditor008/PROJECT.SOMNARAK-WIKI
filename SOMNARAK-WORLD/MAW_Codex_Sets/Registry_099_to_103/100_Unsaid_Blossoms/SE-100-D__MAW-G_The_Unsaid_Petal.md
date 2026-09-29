@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Unsaid Petal |
 | Set | Last Sentences |
-| Type / grade / element | Stigma, crystal petal / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Stigma, crystal petal / β — Moderate / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; one-sentence use requires a welfare witness |
 | Known bearer | Specialist Sooah Park |

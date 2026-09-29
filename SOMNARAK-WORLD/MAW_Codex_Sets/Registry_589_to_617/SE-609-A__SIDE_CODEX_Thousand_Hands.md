@@ -20,7 +20,7 @@ Thousand Hands is an unshaped mass of pale-blue Han-crystal crowded with fossil-
 |---|---|
 | Type / Manifestation | Object/Place; I-Relic (Indumentum) / Object-Weight |
 | Coherence / Potency | III / γ |
-| Element | Lament (Deep Blue) |
+| Element | Lament |
 | Location | The Desolate, near the Scar |
 | Gauge / Pressure | 561/561; starts 45–65% / 14–33 Lament |
 | Movement / Resistance | Fixed / 35% Lament, 25% other |

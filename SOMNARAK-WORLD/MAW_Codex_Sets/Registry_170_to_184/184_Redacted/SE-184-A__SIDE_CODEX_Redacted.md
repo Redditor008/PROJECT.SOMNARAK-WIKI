@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | Zone E, Border region |
 | Form | A dark crystal humanoid tree with a face pressed into its trunk and bare branches shaped by the memories that should hang there but do not. |
 | Gauge / pressure | 45–65% / Void 18–41 |

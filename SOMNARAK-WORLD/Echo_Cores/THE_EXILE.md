@@ -52,7 +52,7 @@ Xyan is patient, weathered, and difficult to frighten. He reads Han-flows, follo
 | **Station** | **E (Outside) — the Exile's Gate; Floor 8: the Gate Watch after his return** |
 | **Effigy** | **True Look: Cyborg — Desolate-changed; roughly 40–55% original flesh integrated with a Neural Spine and stable artificial systems. This construction class is independent of his Subject-Phantasmal Manifestation.** |
 | **Sorrow** | **Outside Sorrow (외한)** |
-| **Signature** | **Lament (Deep Blue) + Weight (Black)** |
+| **Signature** | **Lament + Weight** |
 | **Manifestation** | **Subject-Phantasmal — a controlled route-and-wind overlap produced by his bond with the Desolate** |
 | **Role** | The Exile; external observer, Han-flow reader, long-range warning source, return-route guide, and post-Cycle commander of Floor 8 |
 | **Gender** | **Man** |
@@ -89,7 +89,7 @@ Xyan is patient, weathered, and difficult to frighten. He reads Han-flows, follo
 
 Xyan is a 187-centimeter-tall man with a rangy, strong-shouldered Cyborg body that appears approximately fifty-two years old. He retains a human-looking face, most of his torso, his right arm, and portions of both upper legs as living tissue. A Neural Spine integrates the remaining flesh with a complete artificial left arm, both lower legs, internal rib supports, a synthetic left eye, and reinforcement through the pelvis and back. The overall balance remains within the governing Cyborg range of roughly 40–55% original flesh.
 
-His living skin is deep umber with cool undertones, weathered by wind, dust, and long exposure beyond the Veil. Fine lines cross his forehead and the corners of his eyes. They make him look mature rather than physically ruined. A narrow band of pale Han-crystal lies beneath the skin from the left temple to the cheekbone, while smaller lines follow the collarbone and the junction between living ribs and artificial support. The crystal is stable, smooth, and integrated. It does not spread continuously or turn him into a statue.
+His living skin is deep umber with cool undertones, weathered by wind, dust, and long exposure beyond the Veil. Fine lines cross his forehead and the corners of his eyes. They make him look mature rather than physically ruined. A narrow band of Void Han-crystal lies beneath the skin from the left temple to the cheekbone, while smaller lines follow the collarbone and the junction between living ribs and artificial support. The crystal is stable, smooth, and integrated. It does not spread continuously or turn him into a statue.
 
 His right eye is living and burnished amber-brown. His left eye is a Deep Blue synthetic optic seated in a matte-black orbital frame. The artificial iris resembles several offset rings that rotate independently when he measures distance or follows a Han-flow. In ordinary light, the two eyes create deliberate asymmetry: one warm and human, one cold and analytical. During Weight use, a thin Black line appears around both pupils without obscuring his sight.
 
@@ -884,7 +884,7 @@ Access does not make the Gate part of his body or grant unilateral power to reve
 
 ### Signature and Color
 
-**Lament (Deep Blue)** appears in:
+**Lament** appears in:
 
 - the synthetic left optic;
 - Neural Spine lines;
@@ -893,7 +893,7 @@ Access does not make the Gate part of his body or grant unilateral power to reve
 - route visualization;
 - signal alignment.
 
-**Weight (Black)** appears in:
+**Weight** appears in:
 
 - artificial armor;
 - ground bands;
@@ -1543,7 +1543,7 @@ No Archival Encounter, Engram Page, Stratum Realization, Merge effect, or hidden
 - His artificial systems include the left arm, both lower legs, left optic, and internal supports.
 - A Neural Spine integrates the body.
 - His Sorrow category is Outside Sorrow.
-- His signature is Lament (Deep Blue) and Weight (Black).
+- His signature is Lament and Weight.
 - His Manifestation is Subject-Phantasmal.
 - His active Echo-Core look is called **The Returning Way**.
 - The active state creates a delayed second silhouette, Deep Blue rain-lines, and Black route bands.

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Broken Mantle |
 | Set | Whole Fragments |
-| Type / grade / element | Suit / γ — Major / Weight — Black |
+| Type / grade / element | Suit / γ — Major / Weight |
 | Status | Active; Gate Watch grounding partner required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Sooah Park |

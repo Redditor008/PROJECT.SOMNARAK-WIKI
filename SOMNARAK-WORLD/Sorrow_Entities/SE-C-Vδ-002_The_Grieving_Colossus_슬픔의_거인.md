@@ -11,7 +11,7 @@
 | **Coherence** | Sovereign (V) — Autonomous, unpredictable, reality-bending |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A thirty-meter humanoid of solidified grief, dark and dense, pulsing inward like a thousand slow hearts beneath skin that is half-flesh, half-stone. Its eyes weep without cease, and where the tears fall, Han-crystal buildings bloom from the ground. Each footstep cracks the earth and leaves a crater of sorrow; it is warm, and impossibly heavy. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Weight of Grief* [**Debuff**] } | "Just being near it feels heavier — as though grief itself has mass." | [The Colossus exudes its sorrow as physical gravity; the air thickens around the target.] | *Target suffers -10 Resolve; the world presses down on them.* **[10 Black DMG [Black / Weight]]** | When the target enters the Colossus's shadow. |
-| { *The Slow Steps* [**Debuff**] } | "Each of its steps lands like a funeral — and the ground remembers." | [The Colossus's tread sends waves of pressure outward; the target staggers under the rhythm.] | *Target loses 10 Resolve and moves as though wading through stone.* **[10 Black DMG [Black / Weight]]** | When the Colossus closes the distance. |
-| { *The Open Hand* [**Attack**] } | "It does not strike so much as lower one enormous hand, and let the weight do the rest." | [A colossal palm descends; the target is driven into the ground by sheer mass.] | *Inflicts Black pressure and one crushing wound.* **[14-22 Black DMG [Black / Weight]]** | When the target is within reach. |
-| { *The Collapsing Mass* [**Attack**] } | "It stops holding itself up, and lets all of its grief fall at once." | [The Colossus drops its entire mass onto one point — a cataclysm of accumulated sorrow.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Colossus is hurt or cornered. |
-| { *The Mountain of Sorrow* [**Ultimate**] } | "It kneels and becomes the mountain it always was — grief too vast to move, pressing on everything." | [The Colossus settles into the earth, its sorrow radiating outward as crushing pressure.] | *All in range suffer Black pressure for three turns as the ground itself bows.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Weight of Grief* [**Debuff**] } | "Just being near it feels heavier — as though grief itself has mass." | [The Colossus exudes its sorrow as physical gravity; the air thickens around the target.] | *Target suffers -10 Resolve; the world presses down on them.* **[10 Weight DMG [Weight]]** | When the target enters the Colossus's shadow. |
+| { *The Slow Steps* [**Debuff**] } | "Each of its steps lands like a funeral — and the ground remembers." | [The Colossus's tread sends waves of pressure outward; the target staggers under the rhythm.] | *Target loses 10 Resolve and moves as though wading through stone.* **[10 Weight DMG [Weight]]** | When the Colossus closes the distance. |
+| { *The Open Hand* [**Attack**] } | "It does not strike so much as lower one enormous hand, and let the weight do the rest." | [A colossal palm descends; the target is driven into the ground by sheer mass.] | *Inflicts Weight pressure and one crushing wound.* **[14-22 Weight DMG [Weight]]** | When the target is within reach. |
+| { *The Collapsing Mass* [**Attack**] } | "It stops holding itself up, and lets all of its grief fall at once." | [The Colossus drops its entire mass onto one point — a cataclysm of accumulated sorrow.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Colossus is hurt or cornered. |
+| { *The Mountain of Sorrow* [**Ultimate**] } | "It kneels and becomes the mountain it always was — grief too vast to move, pressing on everything." | [The Colossus settles into the earth, its sorrow radiating outward as crushing pressure.] | *All in range suffer Weight pressure for three turns as the ground itself bows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -203,7 +203,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -221,7 +221,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a shell-charm of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a shell-charm of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Grieving Colossus (C-Vδ-002 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Colossus formed from the unmourned dead of early Zone D—workers, settlers, and dreamers who died without anyone to remember them. Held at Zone D — wanders freely; uncontained landmark. The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
+The Grieving Colossus (C-Vδ-002 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Colossus formed from the unmourned dead of early Zone D—workers, settlers, and dreamers who died without anyone to remember them. Held at Zone D — wanders freely; uncontained landmark. The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Slow migration through Zone D; the R.D. tracks and redirects construction around its path. Tears expand Zone D and create new structures; witnesses experience involuntary mourning. Buildings formed from its tears are beautiful, stable, and emotionally heavy.
@@ -363,7 +363,7 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 > *“The earth cracked beneath their ungrieved weight. The cracking gave the forgotten dead a shape.”* — Former Worker, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vδ-002 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Vδ-002 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Grieving Colossus
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 4 — Mastered

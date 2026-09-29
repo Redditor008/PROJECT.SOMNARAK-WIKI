@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A bell identical in shape to the Orphaned Bell but utterly silent, its surface absorbing sound rather than making any, so the world goes muffled near it. The metal is bloodless-cold and pale; it smells of ash — the Orphaned Bell's hushed twin. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Held Breath* [**Debuff**] } | "The bell should be ringing — but it is not, and the silence is worse than any sound." | [The Bell's silence presses on the target; the absence of sound is a void.] | *Target suffers a Void mark; the silence is deafening.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target waits for the Bell. |
-| { *The Swallowed Sound* [**Debuff**] } | "You try to speak — and the bell eats your words before they leave your mouth." | [The Bell absorbs sound; the target's voice is taken.] | *Target loses clarity; they cannot communicate.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target tries to speak near the Bell. |
-| { *The Silent Toll* [**Attack**] } | "The bell swings — and makes no sound — but the impact is still there, felt in the bones." | [A soundless strike; the damage is real even if the noise is gone.] | *Inflicts Void damage; the silent impact carries a void weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bell is rung. |
-| { *The Absent Peal* [**Attack**] } | "Every sound the bell should have made, delivered at once — in absolute silence." | [The Bell unleashes its accumulated silence as crushing absence.] | *A heavy Void void; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Bell is struck. |
-| { *The Eternal Silence* [**Ultimate**] } | "The bell stops every sound in the field — and the silence becomes its own kind of death." | [The Bell extends its silence across everything.] | *All in range suffer Pale White erosion for three turns in the perfect silence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Held Breath* [**Debuff**] } | "The bell should be ringing — but it is not, and the silence is worse than any sound." | [The Bell's silence presses on the target; the absence of sound is a void.] | *Target suffers a Void mark; the silence is deafening.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for the Bell. |
+| { *The Swallowed Sound* [**Debuff**] } | "You try to speak — and the bell eats your words before they leave your mouth." | [The Bell absorbs sound; the target's voice is taken.] | *Target loses clarity; they cannot communicate.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to speak near the Bell. |
+| { *The Silent Toll* [**Attack**] } | "The bell swings — and makes no sound — but the impact is still there, felt in the bones." | [A soundless strike; the damage is real even if the noise is gone.] | *Inflicts Void damage; the silent impact carries a void weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bell is rung. |
+| { *The Absent Peal* [**Attack**] } | "Every sound the bell should have made, delivered at once — in absolute silence." | [The Bell unleashes its accumulated silence as crushing absence.] | *A heavy Void void; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bell is struck. |
+| { *The Eternal Silence* [**Ultimate**] } | "The bell stops every sound in the field — and the silence becomes its own kind of death." | [The Bell extends its silence across everything.] | *All in range suffer Void erosion for three turns in the perfect silence.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Unrung rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Unrung activates its primary resonance: Opens one sealed door or reveals one suppressed warning. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of knowing a warning existed but no one heard it in time; the bearer begins perceiving echoes of a bell was meant to signal catastrophe, but the signal never sounded. the unspoken warning became a silent object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Unrung begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Unrung begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Unrung too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user carries the weight of every warning they can no longer ignore. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Unrung: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, near the Orphaned Bell, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Unrung: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, near the Orphaned Bell, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Unrung (C-IIβ-170 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Bell formed from warnings that were ignored. Held at SECTOR-A-01, near the Orphaned Bell. It vibrates near honest listeners but never produces ordinary sound.
+Unrung (C-IIβ-170 [VO]) is logged as a Object-Void manifestation expressing Void. The Bell formed from warnings that were ignored. Held at SECTOR-A-01, near the Orphaned Bell. It vibrates near honest listeners but never produces ordinary sound.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It resonates with the Orphaned Bell without becoming audible.
@@ -392,7 +392,7 @@ Some sorrows mourn cruelty. Unrung mourns a failure — the warning that stayed 
 > *“A warning that existed in form but not in function.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-170 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-170 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** Unrung
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

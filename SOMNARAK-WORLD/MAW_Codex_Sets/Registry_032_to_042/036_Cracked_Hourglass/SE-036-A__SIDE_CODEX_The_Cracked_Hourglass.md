@@ -24,7 +24,7 @@
 | Type / Manifestation | Object/Place — Object-Weight |
 | Coherence | III — Fragment |
 | Potency | β — Moderate |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | Leaking crystallized-time hourglass |
 | Location | SECTOR-A-01, Alpha Tree vault |
 | Comprehension Level | 4 — Mastered |

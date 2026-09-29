@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats waiting for acknowledgment |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A motionless figure that appears rusted and worn, its body dark tear-crystal gone orange with corrosion, weeping as it waits. Salt-damp, it smells of cold rain and wet iron; a soul that rusted in place, still waiting for what never came. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Oxidized Aura* [**Debuff**] } | "The soul is rusted — orange-brown patches on its spiritual surface — and the corrosion is spreading to you." | [The Soul's corrosion transfers to the target's own spirit; they feel oxidized.] | *Target suffers -10 Composure; their soul is rusting.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target encounters the Soul. |
-| { *The Flaking Spirit* [**Debuff**] } | "Pieces of the rusted soul flake away — and each piece carries a corroded memory." | [The Soul's decay sheds contaminated fragments; the target absorbs them.] | *Target loses 10 Composure; the rusted memories are toxic.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Rust-Shard* [**Attack**] } | "A flake of corroded soul, hardened and sharp, detaches and flies." | [ A rust-spirit shard launches.] | *Inflicts Deep Blue pressure and one wound of spiritual oxidation.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul is touched. |
-| { *The Full Corrosion* [**Attack**] } | "The entire soul rusts away — from spirit to powder — and the release is a cloud of oxidized grief." | [The Soul's complete corrosion releases its spiritual mass.] | *A heavy Deep Blue cloud; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul is confronted. |
-| { *The Rusted Afterlife* [**Ultimate**] } | "Every soul in the field begins to corrode — and the combined rust-cloud fills the spiritual air." | [The Soul extends its corrosion across the whole area.] | *All in range suffer Deep Blue pressure for three turns of rusting spirits.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Oxidized Aura* [**Debuff**] } | "The soul is rusted — orange-brown patches on its spiritual surface — and the corrosion is spreading to you." | [The Soul's corrosion transfers to the target's own spirit; they feel oxidized.] | *Target suffers -10 Composure; their soul is rusting.* **[10 Lament DMG [Lament]]** | When the target encounters the Soul. |
+| { *The Flaking Spirit* [**Debuff**] } | "Pieces of the rusted soul flake away — and each piece carries a corroded memory." | [The Soul's decay sheds contaminated fragments; the target absorbs them.] | *Target loses 10 Composure; the rusted memories are toxic.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Rust-Shard* [**Attack**] } | "A flake of corroded soul, hardened and sharp, detaches and flies." | [ A rust-spirit shard launches.] | *Inflicts Lament pressure and one wound of spiritual oxidation.* **[14-22 Lament DMG [Lament]]** | When the Soul is touched. |
+| { *The Full Corrosion* [**Attack**] } | "The entire soul rusts away — from spirit to powder — and the release is a cloud of oxidized grief." | [The Soul's complete corrosion releases its spiritual mass.] | *A heavy Deep Blue cloud; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is confronted. |
+| { *The Rusted Afterlife* [**Ultimate**] } | "Every soul in the field begins to corrode — and the combined rust-cloud fills the spiritual air." | [The Soul extends its corrosion across the whole area.] | *All in range suffer Lament pressure for three turns of rusting spirits.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -198,7 +198,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -216,7 +216,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a circlet of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a circlet of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Neverlast (O-IIβ-833 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Soul formed from the grief of a friend who was abandoned. Held at Zone B, Old Lament — contained/ambient. The Soul has never intentionally breached containment.
+Neverlast (O-IIβ-833 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Soul formed from the grief of a friend who was abandoned. Held at Zone B, Old Lament — contained/ambient. The Soul has never intentionally breached containment.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the facility searching for someone who will understand. Personnel experience overwhelming sorrow and abandoned attachment. It becomes more active during the Sorrow Tide.
@@ -355,7 +355,7 @@ Some sorrows mourn a departure. Neverlast mourns the silence after — the frien
 > *“The maddening ache of the unexplained departure.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-833 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIβ-833 [LS]` · Lament · Subject-Lament manifestation
 **Common Name:** Neverlast
 **Containment Status:** Contained — Zone B, Old Lament — contained/ambient
 **Comprehension Level:** 3 — Advanced

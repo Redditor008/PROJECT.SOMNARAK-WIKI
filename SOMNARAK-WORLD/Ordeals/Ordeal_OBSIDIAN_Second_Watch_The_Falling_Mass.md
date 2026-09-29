@@ -1,27 +1,27 @@
-# BLACK Second Watch — The Sinking Floor
+# OBSIDIAN Second Watch — The Falling Mass
 
-> *A secondary BLACK Second Watch Ordeal — a distinct manifestation of weight sorrow at moderate severity.*
+> *A secondary OBSIDIAN Second Watch Ordeal — a distinct manifestation of weight sorrow at moderate severity.*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | BLACK |
+| **Color** | OBSIDIAN |
 | **Time** | Second Watch |
 | **Risk** | Moderate |
-| **Form** | BLACK Second Watch (secondary) |
+| **Form** | OBSIDIAN Second Watch (secondary) |
 
 ## Formation
 
-Formed where the weight of unpaid labor soaked so deep into the ground that the ground itself grew heavy.
+When a structure collapsed and the city rebuilt over the dead without clearing them, the compressed grief became a thing that falls.
 
 ## Appearance
 
-A section of floor that visibly sags, darkening and growing denser, dragging down whatever stands on it.
+A huge irregular mass of fused matter suspended overhead, dropping without warning and reforming somewhere new.
 
 ## Behavior
 
-It sinks under whatever crosses it, pulling them down by the accumulated weight of years.
+It falls, and the impact is total; then it gathers itself and climbs to fall again elsewhere.
 
 ## Suppression Protocol
 
@@ -29,7 +29,7 @@ Engage with moderate-appropriate teams. Weight-element M.A.W. recommended. Suppr
 
 ## Facility Impact
 
-A moderate-severity BLACK encounter: localized damage. Contain before the weight pressure cascades.
+A moderate-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades.
 
 ## R.D. Response Protocol
 
@@ -37,7 +37,7 @@ Level 3+ with M.A.W.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary BLACK Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary OBSIDIAN Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Greater-grade)
 
@@ -49,7 +49,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 15–30 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[15–30 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[15–30 Weight DMG [Weight]]**
 
 ### The Stacked Spine (Non-Crystal, Greater-grade)
 
@@ -73,7 +73,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 25–40 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[25–40 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[25–40 Weight DMG [Weight]]**
 
 
 ### The Ledger-Man (Humanoid, Greater-grade)
@@ -86,7 +86,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 18–30 per hit · Weight |
 | **Spawn Count** | 2 |
 
-**Ability:** It bears down on a target, and the stacked weight of old debts pins them. **[18–30 Black DMG [Black / Weight]]**
+**Ability:** It bears down on a target, and the stacked weight of old debts pins them. **[18–30 Weight DMG [Weight]]**
 
 ### The Tar-Pit (Amorphous, Greater-grade)
 
@@ -98,7 +98,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 16–26 per hit · Weight |
 | **Spawn Count** | 1 |
 
-**Ability:** Whatever steps in is caught; the living tar drags them down by sheer mass. **[16–26 Black DMG [Black / Weight]]**
+**Ability:** Whatever steps in is caught; the living tar drags them down by sheer mass. **[16–26 Weight DMG [Weight]]**
 
 ### The Weight-Leeches (Swarm, Greater-grade)
 
@@ -110,16 +110,16 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 8–12 per hit · Weight |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They latch on, and the accumulated weight drags the bearer to the ground. **[8–12 Black DMG [Black / Weight]]**
+**Ability:** They latch on, and the accumulated weight drags the bearer to the ground. **[8–12 Weight DMG [Weight]]**
 
 
 ## Trivia
 
-- A lesser-documented sibling encounter to the primary BLACK Second Watch Ordeal; same color and severity, different manifestation.
+- A lesser-documented sibling encounter to the primary OBSIDIAN Second Watch Ordeal; same color and severity, different manifestation.
 
 ## Document Information
 
-- **Document ID:** ORDEAL-BLACK-Second-II
+- **Document ID:** ORDEAL-OBSIDIAN-Second-II
 - **Author:** R.D. Field Records
 - **Date:** Year 4238
 - **Classification:** Restricted

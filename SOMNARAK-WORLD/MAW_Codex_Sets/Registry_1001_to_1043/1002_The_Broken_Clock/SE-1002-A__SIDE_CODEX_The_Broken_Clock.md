@@ -21,7 +21,7 @@ The Clock formed from the city's frustration with the repeating time loop of Yea
 | Source designation | C-IIIγ-044 [WO] |
 | Type / Manifestation | Object/Place — Can breach via Transform; temporal activation / Object-Weight |
 | Coherence / Potency | Fragment (III) — Personality obsessed with time / Major (γ) — High danger |
-| Element / Location | Weight (Black) / SECTOR-A-01, Alpha Tree deep storage — contained |
+| Element / Location | Weight / SECTOR-A-01, Alpha Tree deep storage — contained |
 | Gauge / Pressure | 739/739; starts 45–65% / 13–31 per hit · Weight |
 | Observation | 3 — Advanced |
 | Formation event | The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock. |
@@ -52,7 +52,7 @@ During the The The Broken Clock Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Broken Clock's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Broken Clock's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Broken Clock's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Broken Clock's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Object/Place — Place-Grudge |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | Zone E, Border region |
 | Form | A quiet border place where sound softens into one sleeping breath and the heavy ground urges the world to sleep. |
 | Gauge / pressure | 60–80% / Weight 29–62 |

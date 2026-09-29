@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A black Han-steel maul built from overlapping rusted faces with a passable seam through the head. It forms from dream-rust released after both sides are named.
+A Weight Han-steel maul built from overlapping rusted faces with a passable seam through the head. It forms from dream-rust released after both sides are named.
 
 Binding requires the wielder to identify the current closure and the historic boundary separately. During a Gate corridor compression, Durivel broke three newly hardened plates while leaving the departure names visible. His arms gained the felt age of the abandoned wall.
 

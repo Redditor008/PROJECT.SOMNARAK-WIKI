@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place — Place-Lament |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A damp grave under a living cherry tree; pale crystal blossoms fall in windless air and never rot. |
 | Gauge / pressure | 35–50% / Lament 8–20 |

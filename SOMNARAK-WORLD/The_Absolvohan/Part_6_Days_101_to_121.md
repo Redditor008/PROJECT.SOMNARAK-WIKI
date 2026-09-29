@@ -1482,7 +1482,7 @@ At 16:30, a blinding cyan core manifests in the Floor 4 Sub-Central Hall:
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE DAWN SPARK                                        |
-| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 4 SUB-CENTRAL HALL                          |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1876,7 +1876,7 @@ At 16:10, boiling river silt floods the Floor 2 siphon vault:
 | INTRUSION POINT : FLOOR 2 BASALT SIPHON VAULT (NODE 02)             |
 | HOSTILE PARAMETERS : HP 400/400 | Posture 200/200 | Speed 4 (2 AP)  |
 | ATTACK AFFINITY : Weight / Tremor (Compressive Silt Shock)          |
-| AFFINITY VULNERABILITY: Grudge (Physical: 1.5x) & Lament (White:    |
+| AFFINITY VULNERABILITY: Grudge (Physical: 1.5x) & Lament (Clear:    |
 | 1.5x Multiplier)                                                    |
 | SPECIAL THREAT : Mudslide eruption drags operatives 2 nodes         |
 | TACTICAL ORDERS : ANCHOR AT NODE 02; CRUSH SEDIMENT CARAPACE        |

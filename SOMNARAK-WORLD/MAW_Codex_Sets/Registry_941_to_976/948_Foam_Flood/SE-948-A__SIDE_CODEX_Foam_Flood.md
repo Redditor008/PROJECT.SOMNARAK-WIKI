@@ -21,7 +21,7 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 | Source designation | C-IIIγ-948 [LO] |
 | Type / Manifestation | Object — Can breach via Transform/activation / Object-Spirit |
 | Coherence / Potency | Fragment (III) — Feels everything, and cannot lift from the earth / Major (γ) |
-| Element / Location | Lament (Deep Blue) / The Dry Riverbed Vault, SECTOR-C-07, Zone C |
+| Element / Location | Lament / The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | Gauge / Pressure | 600/600; starts 50–70% / 12–24 per hit · Lament |
 | Observation | 3 — Monitored |
 | Formation event | Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. |
@@ -52,7 +52,7 @@ During the The Foam Flood Source-Trace, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Foam Flood's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim The set cannot heal the originating event. Misuse routes Foam Flood's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Foam Flood's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim The set cannot heal the originating event. Misuse routes Foam Flood's wound through the operator and triggers the recorded escalation.
 
 ---
 

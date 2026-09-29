@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Deadline Maul |
 | Set | Time to Act |
-| Type / grade / element | Weapon / β — Moderate / Weight — Black |
+| Type / grade / element | Weapon / β — Moderate / Weight |
 | Status | Active; verified plan and support partner required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Minho Ashford |
@@ -41,7 +41,7 @@
 
 ## Appearance
 
-The Deadline Maul is a black Han-steel maul with a cracked clock-face inset in the head, its hands not pointing to ordinary time. In rest the metal is cold and the hands stay still; once a verified deadline and one action after it are recorded, the hands move along a short Weight line toward the immediate action field. The haft is long and wrapped in black grip, and a narrow case card sits under the head with the due date, action, and protected rest interval written on it. It disperses one imminent Weight surge long enough for a team to complete the next verified action, without cancelling the debt or moving the deadline by force. The bearer grows heavier and prolonged use causes slight aging. The maul is never wound, set, or adjusted by hand. A bearer who calls the deadline the only thing that matters finds the head freeze and their time sense narrow to the next tick. The verifier covers the clock inset and states the next action after the deadline during shutdown.
+The Deadline Maul is a Weight Han-steel maul with a cracked clock-face inset in the head, its hands not pointing to ordinary time. In rest the metal is cold and the hands stay still; once a verified deadline and one action after it are recorded, the hands move along a short Weight line toward the immediate action field. The haft is long and wrapped in black grip, and a narrow case card sits under the head with the due date, action, and protected rest interval written on it. It disperses one imminent Weight surge long enough for a team to complete the next verified action, without cancelling the debt or moving the deadline by force. The bearer grows heavier and prolonged use causes slight aging. The maul is never wound, set, or adjusted by hand. A bearer who calls the deadline the only thing that matters finds the head freeze and their time sense narrow to the next tick. The verifier covers the clock inset and states the next action after the deadline during shutdown.
 
 ## CORE STATISTICS
 

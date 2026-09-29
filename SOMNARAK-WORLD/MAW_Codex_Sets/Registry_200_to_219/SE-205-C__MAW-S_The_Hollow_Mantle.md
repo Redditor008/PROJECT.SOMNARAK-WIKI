@@ -18,7 +18,7 @@
 
 ## ITEM IDENTITY & BINDING
 
-The Bark-Carapace is a draped shell of petrified bark plates and matte black Han-weave. It has no fixed lining: between armor and wearer is a hand-width of lead-cold space that persists even when the plating is pressed inward. The shoulders rise and fall like slow breathing. In motion, the hem resembles a ring of roots deciding where to take hold.
+The Bark-Carapace is a draped shell of petrified bark plates and matte Weight Han-weave. It has no fixed lining: between armor and wearer is a hand-width of lead-cold space that persists even when the plating is pressed inward. The shoulders rise and fall like slow breathing. In motion, the hem resembles a ring of roots deciding where to take hold.
 
 An authentic Mantle does not copy the wearer’s outline while hung. It keeps one shoulder empty and casts the silhouette of someone who has not arrived.
 
@@ -54,7 +54,7 @@ A stable Mantle condenses from the burden left on a Ferrehan worker’s shoulder
 | Field | Record |
 |---|---|
 | Type | Armor — mantle |
-| Grade / element | γ — Major / Weight — Black |
+| Grade / element | γ — Major / Weight |
 | Maximum amount | 3 — controlled operational issue |
 | Echo cost | 35 Sorrow Echoes |
 | Operational cost | Constant low fatigue while sealed |
@@ -118,7 +118,7 @@ When Timber Maw sees the Mantle worn by a seated worker, its nearest roots settl
 |---|---|---|---|
 | Fold collapse | Objects or a second body are forced into the inner gap | Stored Weight returns through the wearer’s spine; movement stops. | Remove external cargo, seat the wearer, and reopen the empty shoulder. |
 | Rooted hem | Attempted standing removal or prolonged immobility | The garment anchors into cracks and pulls the wearer downward. | Clear the floor around the hem and begin seated release with a partner. |
-| Void ingress | Continued exposure to Pale White pressure | The vacancy expands past the garment and the wearer loses bodily boundary awareness. | Withdraw from Void range; do not close the Mantle tighter. |
+| Void ingress | Continued exposure to Void pressure | The vacancy expands past the garment and the wearer loses bodily boundary awareness. | Withdraw from Void range; do not close the Mantle tighter. |
 
 **Maintenance procedure:** Lay the Mantle open on bare ground beside Timber Maw with the collar facing away from the trunk. No frame, stuffing, or wearer may occupy it. Brush soil from the hem by hand while one approved worker sits nearby. The armor is cleared only when the empty shoulder falls flat and its breathing stops on its own.
 

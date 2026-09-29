@@ -11,7 +11,7 @@
 | **Coherence** | Sovereign (V) — Autonomous, flowing, eternal |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Mixed — A vast underground river of black liquid sorrow flowing beneath the city like blood through veins — slow, dense, cold, with no visible banks. The liquid is lead-cold and smells of wet stone; it is the city's grief gathered and moving always toward the Weeping. |
 | **Movement** | Mobile — flows or falls. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slow Current* [**Debuff**] } | "The current takes hold gently — and you do not notice how far it has pulled you." | [The River's pull begins; the target drifts toward the deep.] | *Target suffers -10 Resolve; the current has them.* **[10 Black DMG [Black / Weight]]** | When the target enters the water. |
-| { *The Undertow* [**Debuff**] } | "The undertow finds your ankles — and the river wants you under." | [The hidden current drags downward; the target is pulled beneath the surface.] | *Target loses 10 Resolve and cannot surface easily.* **[10 Black DMG [Black / Weight]]** | When the target wades deeper. |
-| { *The Heavy Wave* [**Attack**] } | "A wave of weighted grief rolls over you." | [A slow, crushing wave of sorrow-thickened water strikes.] | *Inflicts Black pressure and one drowning wound.* **[14-22 Black DMG [Black / Weight]]** | When the River is provoked. |
-| { *The Burst Banks* [**Attack**] } | "The river spills its banks — and everything it carried comes with it." | [The River overflows in a surge of accumulated weight.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the River is dammed or struck. |
-| { *The Sea of Sorrow* [**Ultimate**] } | "The river meets the sea — and the sea is all sorrow." | [The River expands into a sea, submerging the whole field.] | *All personnel suffer Black pressure for three turns as the waters rise.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slow Current* [**Debuff**] } | "The current takes hold gently — and you do not notice how far it has pulled you." | [The River's pull begins; the target drifts toward the deep.] | *Target suffers -10 Resolve; the current has them.* **[10 Weight DMG [Weight]]** | When the target enters the water. |
+| { *The Undertow* [**Debuff**] } | "The undertow finds your ankles — and the river wants you under." | [The hidden current drags downward; the target is pulled beneath the surface.] | *Target loses 10 Resolve and cannot surface easily.* **[10 Weight DMG [Weight]]** | When the target wades deeper. |
+| { *The Heavy Wave* [**Attack**] } | "A wave of weighted grief rolls over you." | [A slow, crushing wave of sorrow-thickened water strikes.] | *Inflicts Weight pressure and one drowning wound.* **[14-22 Weight DMG [Weight]]** | When the River is provoked. |
+| { *The Burst Banks* [**Attack**] } | "The river spills its banks — and everything it carried comes with it." | [The River overflows in a surge of accumulated weight.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the River is dammed or struck. |
+| { *The Sea of Sorrow* [**Ultimate**] } | "The river meets the sea — and the sea is all sorrow." | [The River expands into a sea, submerging the whole field.] | *All personnel suffer Weight pressure for three turns as the waters rise.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that quivers when raised.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that quivers when raised.
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -207,7 +207,7 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small stone of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a small stone of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The River is considered the source of Han and the origin of all Sorrow Entities. Held at SECTOR-A-01, beneath the Alpha Tree — The Weeping. The River is the suspected source of all Han.
+Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight. The River is considered the source of Han and the origin of all Sorrow Entities. Held at SECTOR-A-01, beneath the Alpha Tree — The Weeping. The River is the suspected source of all Han.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its sound is felt through bone rather than heard.
@@ -363,7 +363,7 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 > *“The city draws on it. The city fears it. The city cannot escape it. The River flows beneath everything.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-225 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-225 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
 **Common Name:** Black River
 **Containment Status:** Uncontained — beneath the entire city
 **Comprehension Level:** 5 — Sovereign

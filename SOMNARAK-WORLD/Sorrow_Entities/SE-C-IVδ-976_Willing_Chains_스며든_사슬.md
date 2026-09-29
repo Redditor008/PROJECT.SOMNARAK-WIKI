@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A figure wreathed in slow fire, covered head to foot in black chains that spread across walls and floors on their own while the body stays perfectly still. Fever-hot and bloodless-cold at once, it smells of char and ash; the chains rattle without wind. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Link Spreads* [**Debuff**] } | "One link becomes two, becomes four — and each one knows where you are." | [The Chain self-replicates; new links seek the target.] | *Target suffers a Void mark; the chain is learning their shape.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Chain is activated. |
-| { *The Multiplying* [**Debuff**] } | "The links breed faster than you can count — and every new one is tighter." | [The Chain's network grows; the target is increasingly enmeshed.] | *Target loses clarity; the links close every gap.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target struggles. |
-| { *The Whip-Link* [**Attack**] } | "One link snaps free and lashes — and where it hits, two more grow." | [A chain-link whips out, seeding new links on impact.] | *Inflicts Void damage; the wound itself sprouts iron.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Chain is struck. |
-| { *The Infinite Length* [**Attack**] } | "The chain has no end — it never had an end — and now it is all around you." | [The Chain reveals its true, unending extent.] | *A heavy Void constriction; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Chain is pulled taut. |
-| { *The Iron Sea* [**Ultimate**] } | "The chain fills the room — the building — the district — link after link after link." | [The Chain multiplies until it fills the entire field with iron.] | *All in range suffer Pale White erosion for three turns in the infinite links.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Link Spreads* [**Debuff**] } | "One link becomes two, becomes four — and each one knows where you are." | [The Chain self-replicates; new links seek the target.] | *Target suffers a Void mark; the chain is learning their shape.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Chain is activated. |
+| { *The Multiplying* [**Debuff**] } | "The links breed faster than you can count — and every new one is tighter." | [The Chain's network grows; the target is increasingly enmeshed.] | *Target loses clarity; the links close every gap.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target struggles. |
+| { *The Whip-Link* [**Attack**] } | "One link snaps free and lashes — and where it hits, two more grow." | [A chain-link whips out, seeding new links on impact.] | *Inflicts Void damage; the wound itself sprouts iron.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Chain is struck. |
+| { *The Infinite Length* [**Attack**] } | "The chain has no end — it never had an end — and now it is all around you." | [The Chain reveals its true, unending extent.] | *A heavy Void constriction; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Chain is pulled taut. |
+| { *The Iron Sea* [**Ultimate**] } | "The chain fills the room — the building — the district — link after link after link." | [The Chain multiplies until it fills the entire field with iron.] | *All in range suffer Void erosion for three turns in the infinite links.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -211,7 +211,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a tiny lantern of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a tiny lantern of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Willing Chains (C-IVδ-976 [O]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Chain formed from bonds that became imprisonment. Held at Zone B, Old Lament — ambient. It spreads through contracts and emotional commitments.
+Willing Chains (C-IVδ-976 [O]) is logged as a Subject-Grudge manifestation expressing Void. The Chain formed from bonds that became imprisonment. Held at Zone B, Old Lament — ambient. It spreads through contracts and emotional commitments.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through Old Lament structures and contracts. Personnel feel trapped by obligations they cannot identify. Chains become warm near people who call imprisonment protection.
@@ -346,7 +346,7 @@ Some sorrows are about freedom lost. Willing Chains is about protection perverte
 > *“Protection perverted: the mercy the city could not leave uncorrupted.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-976 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-976 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Grudge manifestation
 **Common Name:** Willing Chains
 **Containment Status:** Semi-contained — Zone C
 **Comprehension Level:** 3 — Advanced

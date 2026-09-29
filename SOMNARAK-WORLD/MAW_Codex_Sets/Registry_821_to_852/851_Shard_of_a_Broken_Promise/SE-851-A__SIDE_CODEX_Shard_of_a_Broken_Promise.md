@@ -21,7 +21,7 @@ The Shard formed from a promise broken while the promised object remained intact
 | Source designation | O-IVδ-851 [LO] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree vault |
+| Element / Location | Lament / Zone A, Alpha Tree vault |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. |
@@ -52,7 +52,7 @@ During the The Shard of a Broken Promise Source-Trace, the field team preserved 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Shard of a Broken Promise's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Shard of a Broken Promise's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Shard of a Broken Promise's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Shard of a Broken Promise's wound through the operator and triggers the recorded escalation.
 
 ---
 

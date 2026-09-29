@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Mind |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | The Desolate, near the Scar |
 | Form | A bridge-shaped consciousness perceived as an impossible span beneath the feet and a violent crossing replayed in the mind. |
 | Gauge / pressure | 60–80% / Lament 29–62 |

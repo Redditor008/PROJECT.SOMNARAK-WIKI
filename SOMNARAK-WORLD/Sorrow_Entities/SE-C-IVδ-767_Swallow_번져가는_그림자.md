@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — Less a body than a place of dimming light — a large shadow that spreads across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, it smells of cold rain; there is nothing to strike, only the spreading dark. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Thinning* [**Debuff**] } | "Your shadow is fading — going transparent — and with it, something essential about you is leaving." | [The Shadow's dissolution removes a part of the target; they feel incomplete.] | *Target suffers -10 Composure; without their shadow, they are less than whole.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target notices the fading. |
-| { *The Transparent Self* [**Debuff**] } | "You can see through your own hand now — and the world behind it is clearer than the hand itself." | [The Shadow's fading spreads to the target; they are becoming see-through.] | *Target loses 10 Composure; they are disappearing.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the fading continues. |
-| { *The Last Edge* [**Attack**] } | "The fading shadow sharpens its final edge — one last, desperate cut before it goes." | [The nearly-gone Shadow strikes with everything it has left.] | *Inflicts Deep Blue pressure and one wound of final darkness.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Shadow is challenged. |
-| { *The Full Dissolve* [**Attack**] } | "The shadow gives up — and its dissolution releases every secret it ever held." | [The Shadow's complete vanishing releases stored darkness.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Shadow is forced to vanish. |
-| { *The Shadowless World* [**Ultimate**] } | "Now no one has a shadow — and without shadows, no one has depth, or weight, or substance." | [The Shadow extends its fading across the whole field.] | *All in range suffer Deep Blue pressure for three turns of being shadowless.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Thinning* [**Debuff**] } | "Your shadow is fading — going transparent — and with it, something essential about you is leaving." | [The Shadow's dissolution removes a part of the target; they feel incomplete.] | *Target suffers -10 Composure; without their shadow, they are less than whole.* **[10 Lament DMG [Lament]]** | When the target notices the fading. |
+| { *The Transparent Self* [**Debuff**] } | "You can see through your own hand now — and the world behind it is clearer than the hand itself." | [The Shadow's fading spreads to the target; they are becoming see-through.] | *Target loses 10 Composure; they are disappearing.* **[10 Lament DMG [Lament]]** | When the fading continues. |
+| { *The Last Edge* [**Attack**] } | "The fading shadow sharpens its final edge — one last, desperate cut before it goes." | [The nearly-gone Shadow strikes with everything it has left.] | *Inflicts Lament pressure and one wound of final darkness.* **[14-22 Lament DMG [Lament]]** | When the Shadow is challenged. |
+| { *The Full Dissolve* [**Attack**] } | "The shadow gives up — and its dissolution releases every secret it ever held." | [The Shadow's complete vanishing releases stored darkness.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is forced to vanish. |
+| { *The Shadowless World* [**Ultimate**] } | "Now no one has a shadow — and without shadows, no one has depth, or weight, or substance." | [The Shadow extends its fading across the whole field.] | *All in range suffer Lament pressure for three turns of being shadowless.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Swallow: it is not a generic breach event.
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Swallow: it is not a generic breach event.
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a flowing veil of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Swallow: it is not a generic breach event.
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Swallow (C-IVδ-767 [LP]) is logged as a Place-Grudge manifestation expressing Lament (Deep Blue). The Shadow formed from grief that outlived the person who first carried it. Held at Zone A, Alpha Tree. It is strongest near memorials and old records.
+Swallow (C-IVδ-767 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Shadow formed from grief that outlived the person who first carried it. Held at Zone A, Alpha Tree. It is strongest near memorials and old records.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It fades when grief is named by its original source.
@@ -358,7 +358,7 @@ Some sorrows are personal. Swallow is a sorrow that lost its owner — or rather
 > *“The accumulated borrowed grief of every visitor, layered into a spreading darkness.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-767` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-767` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Grudge manifestation
 **Common Name:** Swallow
 **Containment Status:** Contained — beneath Alpha Tree
 **Comprehension Level:** 3 — Advanced

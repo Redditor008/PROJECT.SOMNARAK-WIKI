@@ -15,7 +15,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A fang-curved crimson Han-iron blade, dark, warm, and edged with orange flakes sharper than polished metal. It quivers toward the oldest active boundary marker, not the nearest enemy.
+A fang-curved Grudge Han-iron blade, dark, warm, and edged with orange flakes sharper than polished metal. It quivers toward the oldest active boundary marker, not the nearest enemy.
 
 Fang forms from rust shed when current representatives name the same original loss. It binds to a wielder who can state the grievance without naming a living heir as its rightful target.
 

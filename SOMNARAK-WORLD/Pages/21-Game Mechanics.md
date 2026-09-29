@@ -12,7 +12,7 @@ As the Warden of Facility 01, the player oversees a complex management simulatio
 +------------------------------------------------------------------------+
 | Core Systems Hub       | Shift Management - Containment - Combat - Grow|
 | Work Protocols         | Viderehan - Ferrehan - Flerehan - Pugnahan    |
-| Damage Pressures       | Grudge (Red) - Lament (Blue) - Void - Weight  |
+| Damage Pressures       | Grudge - Lament - Void - Weight               |
 | Vital Gauges           | Health Points (HP) - Sanity Points (SP)       |
 | Failure States         | Specialist Death - Panic States - Facility Col|
 +========================================================================+

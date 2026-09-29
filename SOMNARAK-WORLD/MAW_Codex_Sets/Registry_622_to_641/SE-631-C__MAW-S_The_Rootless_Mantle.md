@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A cold black Han-weave mantle with pale root threads stopping before the hem touches ground. It shifts with the wearer and grows heavier whenever someone names the shelter as destiny. Binding requires a current anchor defined by people, task, and duration.
+A cold Weight Han-weave mantle with pale root threads stopping before the hem touches ground. It shifts with the wearer and grows heavier whenever someone names the shelter as destiny. Binding requires a current anchor defined by people, task, and duration.
 
 The Mantle formed around a resident who stayed in the opened stall by choice while others departed.
 

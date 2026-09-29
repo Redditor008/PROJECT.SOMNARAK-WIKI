@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, gentle, sad |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, weeping without cease — skin pale and damp, hair plastered, dress soaked as though she has stood in the rain for years. She is warm, alive, and unbearably sad; tears track her cheeks, and the air smells of cold rain on old cloth. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Sob* [**Debuff**] } | "She begins to weep — and the sound is so pure, so complete, that your own grief answers." | [The Maiden's mourning resonates with the target's buried sorrow.] | *Target suffers -10 Composure; their grief is stirred.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target hears the Maiden. |
-| { *The Deepening Sorrow* [**Debuff**] } | "Her weeping grows — and with it, yours, until you cannot tell whose tears are whose." | [The Maiden's grief deepens; the target's and hers merge.] | *Target loses 10 Composure; the boundaries of grief dissolve.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains near. |
-| { *The Tear-Strike* [**Attack**] } | "One of her tears falls — and where it lands, the sorrow is concentrated into a wound." | [A grief-saturated tear strikes the target.] | *Inflicts Deep Blue pressure and one wound of shared anguish.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Maiden is addressed. |
-| { *The Full Lament* [**Attack**] } | "She gives voice to her entire grief — a wail that carries centuries of mourning." | [The Maiden releases her complete accumulated sorrow.] | *A heavy Deep Blue wail; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Maiden is confronted. |
-| { *The Universal Mourning* [**Ultimate**] } | "Now everyone is weeping — and no one can stop, and no one can remember why they started." | [The Maiden extends her grief across the whole field.] | *All in range suffer Deep Blue pressure for three turns of universal weeping.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Sob* [**Debuff**] } | "She begins to weep — and the sound is so pure, so complete, that your own grief answers." | [The Maiden's mourning resonates with the target's buried sorrow.] | *Target suffers -10 Composure; their grief is stirred.* **[10 Lament DMG [Lament]]** | When the target hears the Maiden. |
+| { *The Deepening Sorrow* [**Debuff**] } | "Her weeping grows — and with it, yours, until you cannot tell whose tears are whose." | [The Maiden's grief deepens; the target's and hers merge.] | *Target loses 10 Composure; the boundaries of grief dissolve.* **[10 Lament DMG [Lament]]** | When the target remains near. |
+| { *The Tear-Strike* [**Attack**] } | "One of her tears falls — and where it lands, the sorrow is concentrated into a wound." | [A grief-saturated tear strikes the target.] | *Inflicts Lament pressure and one wound of shared anguish.* **[14-22 Lament DMG [Lament]]** | When the Maiden is addressed. |
+| { *The Full Lament* [**Attack**] } | "She gives voice to her entire grief — a wail that carries centuries of mourning." | [The Maiden releases her complete accumulated sorrow.] | *A heavy Deep Blue wail; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Maiden is confronted. |
+| { *The Universal Mourning* [**Ultimate**] } | "Now everyone is weeping — and no one can stop, and no one can remember why they started." | [The Maiden extends her grief across the whole field.] | *All in range suffer Lament pressure for three turns of universal weeping.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -179,7 +179,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that hums faintly when gripped.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -200,7 +200,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -218,7 +218,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a veil-clasp of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a veil-clasp of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Grieving Maiden (C-IVβ-041 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Maiden formed from a parent whose child died of illness. Held at SECTOR-D-02, contained with the Three Sisters. Separation from the Three Sisters causes rapid distress.
+The Grieving Maiden (C-IVβ-041 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Maiden formed from a parent whose child died of illness. Held at SECTOR-D-02, contained with the Three Sisters. Separation from the Three Sisters causes rapid distress.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks slowly through the facility while weeping. Personnel experience the overwhelming grief of losing a child. Activity increases during the Sorrow Tide.
@@ -360,7 +360,7 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 > *“Love could not save the child. The tears are what love becomes when it cannot save.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVβ-041` · City origin · Entity (IV) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVβ-041` · City origin · Entity (IV) coherence · Moderate (β) potency · Lament · Subject-Body manifestation
 **Common Name:** The Grieving Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
 **Comprehension Level:** 3 — Advanced

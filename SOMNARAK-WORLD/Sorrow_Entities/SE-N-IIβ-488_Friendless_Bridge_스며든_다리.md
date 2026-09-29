@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A bridge-shaped object of empty crystal that spreads across ledgers and floors without ever connecting two physical points — a span to nowhere. Fever-cold, it smells of char; it crosses nothing, yet cannot be walked off. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Extended Span* [**Debuff**] } | "The bridge grows toward you — plank by plank, hungry for the other shore." | [The Bridge extends; new planks crawl toward the target.] | *Target suffers -10 Resilience; the bridge will not stop reaching.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stands at the edge. |
-| { *The Sway* [**Debuff**] } | "The whole span sways — and your balance goes with it." | [The Bridge undulates; the target cannot find solid footing.] | *Target loses 10 Resilience; the ground is not trustworthy.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target steps onto the Bridge. |
-| { *The Splinter Plank* [**Attack**] } | "A plank breaks loose and swings up like a bat." | [A section of bridge lashes upward at the target.] | *Inflicts Crimson pressure and one heavy, wooden wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Bridge is trodden wrong. |
-| { *The Collapse* [**Attack**] } | "The bridge gives way — and the fall is a long one." | [The Bridge drops the target into the chasm beneath.] | *A heavy Crimson plummet; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Bridge is overloaded. |
-| { *Bridges Panopticon* [**Ultimate**] } | "The bridge does not stop — it spans the whole field, wall to wall, and then keeps going." | [The Bridge engulfs the entire area in its hungry extension.] | *All personnel suffer Crimson pressure for three turns under the spreading span.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Extended Span* [**Debuff**] } | "The bridge grows toward you — plank by plank, hungry for the other shore." | [The Bridge extends; new planks crawl toward the target.] | *Target suffers -10 Resilience; the bridge will not stop reaching.* **[10 Grudge DMG [Grudge]]** | When the target stands at the edge. |
+| { *The Sway* [**Debuff**] } | "The whole span sways — and your balance goes with it." | [The Bridge undulates; the target cannot find solid footing.] | *Target loses 10 Resilience; the ground is not trustworthy.* **[10 Grudge DMG [Grudge]]** | When the target steps onto the Bridge. |
+| { *The Splinter Plank* [**Attack**] } | "A plank breaks loose and swings up like a bat." | [A section of bridge lashes upward at the target.] | *Inflicts Grudge pressure and one heavy, wooden wound.* **[14-22 Grudge DMG [Grudge]]** | When the Bridge is trodden wrong. |
+| { *The Collapse* [**Attack**] } | "The bridge gives way — and the fall is a long one." | [The Bridge drops the target into the chasm beneath.] | *A heavy Crimson plummet; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Bridge is overloaded. |
+| { *Bridges Panopticon* [**Ultimate**] } | "The bridge does not stop — it spans the whole field, wall to wall, and then keeps going." | [The Bridge engulfs the entire area in its hungry extension.] | *All personnel suffer Grudge pressure for three turns under the spreading span.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Friendless Bridge rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Friendless Bridge activates its primary resonance: Creates a temporary emotional connection. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of waiting for a relationship to become mutual; the bearer begins perceiving echoes of a family promised to meet across collector's row but debt and duty kept separating them. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Friendless Bridge begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Friendless Bridge begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Friendless Bridge too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers One person may carry the entire relationship. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Friendless Bridge: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Friendless Bridge: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Friendless Bridge: it is not a generic bre
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that hums faintly when gripped.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Friendless Bridge: it is not a generic bre
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Friendless Bridge: it is not a generic bre
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a bracelet of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a bracelet of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expressing Grudge (Crimson). The Bridge formed from a connection that was promised but never built. Held at Zone C, Collector's Row. It has no stable endpoints.
+Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expressing Grudge. The Bridge formed from a connection that was promised but never built. Held at Zone C, Collector's Row. It has no stable endpoints.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It spreads through ledgers and family records.
@@ -384,7 +384,7 @@ Some sorrows are about separation. Friendless Bridge is about the promised reuni
 > *“The bridge that grows from accumulated failed meetings, spanning a divide the debt maintains.”* — Elder, Collector’s Row
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-488 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IIβ-488 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Object-Void manifestation
 **Common Name:** Friendless Bridge
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 2 — Basic

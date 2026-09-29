@@ -21,7 +21,7 @@ The Root formed from a life forced to grow in hostile ground. The grief of belon
 | Source designation | O-IIIγ-959 [D] |
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Lament (Deep Blue) / The Desolate — mobile |
+| Element / Location | Lament / The Desolate — mobile |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Desolate settlement moved repeatedly, leaving its roots and structures behind each time. |
@@ -52,7 +52,7 @@ During the The Uprooted Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Uprooted's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not burn the roots; map and witness their route The set cannot heal the originating event. Misuse routes Uprooted's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Uprooted's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not burn the roots; map and witness their route The set cannot heal the originating event. Misuse routes Uprooted's wound through the operator and triggers the recorded escalation.
 
 ---
 

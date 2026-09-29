@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A wall-shaped presence inside consciousness — cracked, leaning, a collapsing boundary between two feelings that should be kept apart. Salt-damp, it smells of cold rain; nothing to strike, only the inward collapse. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Rubble* [**Debuff**] } | "Where the wall stood, rubble — and every stone carries the grief of being separated from the whole." | [The Wall's rubble presses on the target; each fragment mourns its lost structure.] | *Target suffers -10 Composure; the ruins are grieving.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the rubble. |
-| { *The Load-Bearing Grief* [**Debuff**] } | "You feel the weight the wall was holding — now that it is gone, the weight is on you." | [The collapsed Wall transfers its load to the target.] | *Target loses 10 Composure; they bear what the wall once bore.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers in the gap. |
-| { *The Falling Brick* [**Attack**] } | "A brick detaches from the rubble — slow, heavy, inevitable." | [A section of collapsed wall falls on the target.] | *Inflicts Deep Blue pressure and one crushing, dusty wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the rubble is disturbed. |
-| { *The Full Slide* [**Attack**] } | "The entire pile gives way — an avalanche of stone and old sorrow." | [The rubble collapses fully, burying the target.] | *A heavy Deep Blue burial; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the rubble is undermined. |
-| { *Every Wall Falls* [**Ultimate**] } | "The collapse spreads — wall after wall, barrier after barrier, all of it coming down." | [The Wall's ruin propagates to every structure in the field.] | *All in range suffer Deep Blue pressure for three turns in the universal collapse.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Rubble* [**Debuff**] } | "Where the wall stood, rubble — and every stone carries the grief of being separated from the whole." | [The Wall's rubble presses on the target; each fragment mourns its lost structure.] | *Target suffers -10 Composure; the ruins are grieving.* **[10 Lament DMG [Lament]]** | When the target enters the rubble. |
+| { *The Load-Bearing Grief* [**Debuff**] } | "You feel the weight the wall was holding — now that it is gone, the weight is on you." | [The collapsed Wall transfers its load to the target.] | *Target loses 10 Composure; they bear what the wall once bore.* **[10 Lament DMG [Lament]]** | When the target lingers in the gap. |
+| { *The Falling Brick* [**Attack**] } | "A brick detaches from the rubble — slow, heavy, inevitable." | [A section of collapsed wall falls on the target.] | *Inflicts Lament pressure and one crushing, dusty wound.* **[14-22 Lament DMG [Lament]]** | When the rubble is disturbed. |
+| { *The Full Slide* [**Attack**] } | "The entire pile gives way — an avalanche of stone and old sorrow." | [The rubble collapses fully, burying the target.] | *A heavy Deep Blue burial; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the rubble is undermined. |
+| { *Every Wall Falls* [**Ultimate**] } | "The collapse spreads — wall after wall, barrier after barrier, all of it coming down." | [The Wall's ruin propagates to every structure in the field.] | *All in range suffer Lament pressure for three turns in the universal collapse.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a barrier-plate of deep-blue Han-crystal, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a barrier-plate of Lament Han-crystal, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Breach (N-IVδ-339 [LS]) is logged as a Subject-Mind manifestation expressing Lament (Deep Blue). The Wall formed from protection that failed. Held at Zone D, Echo Gardens. It watches personnel through their sense of security.
+Breach (N-IVδ-339 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Wall formed from protection that failed. Held at Zone D, Echo Gardens. It watches personnel through their sense of security.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through consciousness as collapsing boundaries. Personnel lose trust in rooms, doors, and protective procedures. It is more active after containment failures.
@@ -348,7 +348,7 @@ Some sorrows are about the danger. Breach is about the failed protection — the
 > *“The specific grief of believing a barrier would hold and discovering the danger was already within.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-339 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IVδ-339 [LS]` · Lament · Subject-Mind manifestation
 **Common Name:** Breach
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic

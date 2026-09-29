@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Mind |
 | **Physical Form** | Organic — An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void / Pale White]]** | When the entity first fixes on a target. |
-| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void / Pale White]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void / Pale White]]** | When the entity is cornered or starved. |
-| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void / Pale White] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
+| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void]]** | When the entity is cornered or starved. |
+| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back.
 
 **Notable Features:**
-- Expresses Void (Pale White) pressure in a mind register.
+- Expresses Void pressure in a mind register.
 - The place form is unmistakable — this is a mind entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -190,7 +190,7 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -276,7 +276,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-909 [VP]` · City Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Place-Mind manifestation
+**Classification:** Sorrow Entity — `C-IVδ-909 [VP]` · City Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Void · Place-Mind manifestation
 
 **Common Name:** Labyrinth of the Unfinished Mind
 
@@ -291,7 +291,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the mind register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Void (Pale White) · Place-Mind · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Void · Place-Mind · Manifestation Classification
 
 ### Registry Addendum
 

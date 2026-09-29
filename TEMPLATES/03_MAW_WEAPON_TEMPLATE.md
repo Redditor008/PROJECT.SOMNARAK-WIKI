@@ -47,7 +47,7 @@ Registry Code: `MAW-W-{{NUM}}-01`
 | **Type** | Weapon — {{singing blade / maul / lens / fang / culverin / prism / etc.}} |
 | **Category** | {{MELEE / RANGED / PIERCE / LINE RESONANCE}} |
 | **Grade** | {{α / β / γ / δ / ω}} |
-| **Element** | {{Grudge — Crimson / Lament — Deep Blue / Void — Pale White / Weight — Black}} |
+| **Element** | {{Grudge / Lament / Void / Weight}} |
 | **Maximum Amount** | {{1–4 — Limited}} |
 | **Echo Cost** | {{20–80 Sorrow Echoes}} |
 | **Bearer Requirement** | {{Vigil/weight/memory condition — must echo Side Codex}} |

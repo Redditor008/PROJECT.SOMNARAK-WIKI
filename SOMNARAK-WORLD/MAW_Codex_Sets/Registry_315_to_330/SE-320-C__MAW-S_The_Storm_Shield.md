@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A black Han-steel shield-backed harness with a canopy ridge that grows heavier as it absorbs Storm sorrow. It forms from post-passage hail.
+A Weight Han-steel shield-backed harness with a canopy ridge that grows heavier as it absorbs Storm sorrow. It forms from post-passage hail.
 
 Binding requires a moving evacuation plan and a second load monitor. Iseulfros carried the Shield through Blackfall; the corridor held, but the harness nearly pinned her when three late evacuees entered and no one recalculated capacity.
 

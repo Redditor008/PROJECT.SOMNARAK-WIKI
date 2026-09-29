@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Mind |
 | **Physical Form** | Organic — A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's mind pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament / Deep Blue]]** | When the entity first fixes on a target. |
-| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament mind sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament / Deep Blue]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[23 Lament DMG [Lament / Deep Blue]]** | When the entity is cornered or starved. |
-| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament / Deep Blue] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's mind pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
+| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament mind sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[23 Lament DMG [Lament]]** | When the entity is cornered or starved. |
+| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -101,7 +101,7 @@
 **Primary Form:** A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it.
 
 **Notable Features:**
-- Expresses Lament (Deep Blue) pressure in a mind register.
+- Expresses Lament pressure in a mind register.
 - The object form is unmistakable — this is a mind entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -196,7 +196,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 ### Escalation Notes
 
-The escalation pattern is specific to Thinking Engine: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Mind form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-C-904, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Thinking Engine: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Mind form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-C-904, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -220,7 +220,7 @@ The escalation pattern is specific to Thinking Engine: it is not a generic breac
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a single-edged blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
 
 **Damage:** Lament 14–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels lament mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
@@ -230,7 +230,7 @@ The escalation pattern is specific to Thinking Engine: it is not a generic breac
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a flowing veil of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -240,7 +240,7 @@ The escalation pattern is specific to Thinking Engine: it is not a generic breac
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -328,7 +328,7 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-904 [LO]` · City Sorrow origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Mind manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-904 [LO]` · City Sorrow origin · Fragment (III) coherence · Major (γ) potency · Lament · Object-Mind manifestation
 
 **Common Name:** Thinking Engine
 
@@ -343,7 +343,7 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the mind register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Lament (Deep Blue) · Object-Mind · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Lament · Object-Mind · Manifestation Classification
 
 ### Registry Addendum
 

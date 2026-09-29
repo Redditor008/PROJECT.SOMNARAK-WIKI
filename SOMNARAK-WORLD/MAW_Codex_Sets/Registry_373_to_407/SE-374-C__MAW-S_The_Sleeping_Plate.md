@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron harness with root gaps shaped for an absent caretaker. Binding requires explicit refusal to complete the original vow.
+A Grudge Han-iron harness with root gaps shaped for an absent caretaker. Binding requires explicit refusal to complete the original vow.
 
 Iseulfros wore it while dream branches pressed into the vault. The Plate resisted Grudge but slowed every reflex aimed at tending the Tree.
 

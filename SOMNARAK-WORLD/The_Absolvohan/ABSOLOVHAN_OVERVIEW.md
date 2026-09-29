@@ -156,7 +156,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
   - *The Observing Bird* (SE-C-IIIγ-031) on Floor 2.
   - *The Weighting Bird* (SE-C-IIIγ-032) on Floor 3.
   - *The Guarding Bird* (SE-C-IIIγ-033) on Floor 3.
-- **Ordeal Incursions:** Emergence of **Second Watch** incursions (*Violet Second Watch*, *Amber Second Watch*, *Crimson Second Watch*, *Green Second Watch*).
+- **Ordeal Incursions:** Emergence of **Second Watch** incursions (*Violet Second Watch*, *Amber Second Watch*, *Rust Second Watch*, *Green Second Watch*).
 - **Specialist Cadre:** Promotion of core cadre to Grade 3. High Composure specialists assigned to acoustic dampening.
 
 ### Phase 3: Days 51 to 100 — Heavy Containment, Memory Archives & Ballast Forge
@@ -166,7 +166,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 - **Deep Facility Environmental Hazards:**
   - *Archive Sediment Fog:* Passive mental SP bleed in Floor 5 corridors requiring periodic Veil Mist ventilation.
   - *Crucible Heat Dissipation:* Extreme thermal radiation in Floor 6 corridors during high-intensity Ferrehan containment.
-- **Ordeal Incursions:** Emergence of **Third Watch** incursions (*Amber Third Watch*, *Crimson Third Watch*, *Violet Third Watch*, *Green Third Watch*). Coordinated multi-department suppression teams required.
+- **Ordeal Incursions:** Emergence of **Third Watch** incursions (*Amber Third Watch*, *Rust Third Watch*, *Violet Third Watch*, *Green Third Watch*). Coordinated multi-department suppression teams required.
 - **Specialist Cadre:** Emergence of Grade 4 Senior Containment Specialists. Equipping specialized Class III M.A.W. Stigma sets.
 
 ```text
@@ -766,25 +766,25 @@ Every containment agent possesses four canonical attributes governing their surv
 +==============================================+
 | ATTRIBUTE  | HAN COLOR | PRIMARY INFLUENCE   |
 +============+===========+=====================+
-| Resilience | Deep Blue | Max HP, Weight Cap  |
+| Resilience | Ochre     | Max HP, Weight Cap  |
 +------------+-----------+---------------------+
-| Clarity    | Pale White| Max SP, Void Resist |
+| Clarity    | Silver    | Max SP, Void Resist |
 +------------+-----------+---------------------+
-| Composure  | Crimson   | Work Success & Rate |
+| Composure  | Bronze    | Work Success & Rate |
 +------------+-----------+---------------------+
-| Resolve    | Gold/Black| Attack Speed, Clash |
+| Resolve    | Gold/Iron | Attack Speed, Clash |
 +========================+=====================+
 ```
 
-1. **Resilience (탄력 / ♦ Deep Blue):**
+1. **Resilience (탄력 / ♦):**
    - Determines the agent's **Maximum HP**.
    - Governs survivability against physical Grudge impacts and environmental debris.
    - Determines the weight-bearing threshold for heavy Class III and Class IV M.A.W. armor.
-2. **Clarity (명료 / ♠ Pale White):**
+2. **Clarity (명료 / ♠):**
    - Determines the agent's **Maximum SP** (Sanity Points).
    - Governs resistance to psychic Lament erosion and existential Void corrosion.
    - High Clarity prevents panic cascades during multi-floor Ordeal breaches.
-3. **Composure (침착 / ♣ Crimson):**
+3. **Composure (침착 / ♣):**
    - Directly scales the agent's **Work Success Probability** and extraction accuracy.
    - Shortens the duration required to complete containment protocols inside chambers.
    - Mitigates panic severity in adjacent allies.

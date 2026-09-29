@@ -59,7 +59,7 @@ To prevent catastrophic multi-wing breaches, entities are allocated across verti
 
 Interacting with an entity unlocks its archival dossier across four progressive tiers:
 - **Comprehension Level 1 (Basic Parameters):** Unlocks entity name, SECC code, risk level, damage pressure, and base energy capacity.
-- **Comprehension Level 2 (Managerial Tips):** Unlocks specific behavioral guidelines, agitation triggers, and escape conditions.
+- **Comprehension Level 2 (Warden Tips):** Unlocks specific behavioral guidelines, agitation triggers, and escape conditions.
 - **Comprehension Level 3 (Work Preference Matrix):** Displays the exact percentage affinity for all four containment protocols across specialist ranks I to V.
 - **Comprehension Level 4 (M.A.W. Extraction & Story):** Unlocks the ability to fabricate M.A.W. Weapons and Suits, alongside the entity's complete psychological backstory and municipal origin.
 

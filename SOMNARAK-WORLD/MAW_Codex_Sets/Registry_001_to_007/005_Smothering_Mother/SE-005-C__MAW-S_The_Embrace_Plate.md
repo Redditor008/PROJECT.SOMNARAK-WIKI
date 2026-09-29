@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Armor — plated harness |
 | **Grade** | δ — Critical |
-| **Element** | Grudge — Crimson |
+| **Element** | Grudge |
 | **Maximum Amount** | 2 — Limited |
 | **Echo Cost** | 45 Sorrow Echoes |
 

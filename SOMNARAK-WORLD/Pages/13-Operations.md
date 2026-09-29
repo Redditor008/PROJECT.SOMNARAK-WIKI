@@ -97,7 +97,7 @@ Completing all four tiers for a department permanently unlocks that director's *
 
 ### 2.9 Gate Watch Missions (Lead Xyan)
 1. *Abyss Watch:* Maintain specialists stationed at the Gate Watch blast doors for 10 minutes. (Reward: Panic Threshold +20 SP).
-2. *Void Endurance:* Complete 5 work sessions with entities dealing ⚪ **Void** damage. (Reward: Pale Inversion Mantle).
+2. *Void Endurance:* Complete 5 work sessions with entities dealing ⚪ **Void** damage. (Reward: Void Inversion Mantle).
 3. *The Tide Stand:* Suppress a Tide Watch Ordeal incursion. (Reward: Neural Spine Fabrication).
 4. *The Final Gate:* Complete shift at Meltdown Level X with all Gate Watch staff alive. (Reward: Unlocks Xyan Core Realization).
 

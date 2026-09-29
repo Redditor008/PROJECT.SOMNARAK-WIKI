@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A creature of braided black roots in the rough shape of a beast, threading into floors and walls as it drags onward — half root-system, half animal. Lead-cold, it smells of wet stone. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Creeping Tendril* [**Debuff**] } | "Something moves under the floor — slow, heavy, and heading for your feet." | [A root-tendril spreads beneath the target; the floor buckles.] | *Target suffers -10 Resolve; the ground is not safe.* **[10 Black DMG [Black / Weight]]** | When the target stands still too long. |
-| { *The Felt Network* [**Debuff**] } | "You can feel the whole root-system beneath you — vast, patient, alive." | [The underground network presses upward; the target senses its full extent.] | *Target loses 10 Resolve; the enormity beneath is crushing.* **[10 Black DMG [Black / Weight]]** | When the target feels the roots. |
-| { *The Eruption* [**Attack**] } | "A root bursts through the floor — thick, gnarled, and aimed at your chest." | [A massive root tears upward and strikes.] | *Inflicts Black pressure and one heavy, earthy wound.* **[14-22 Black DMG [Black / Weight]]** | When the roots are trodden on. |
-| { *The Full System* [**Attack**] } | "Every root in the network surges at once — and the earth itself turns against you." | [The entire root-network erupts in a coordinated assault.] | *A heavy Black upheaval; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the roots are cut or burned. |
-| { *The Living Floor* [**Ultimate**] } | "The roots have been here longer than the building — and now they want it back." | [The root-network consumes the entire field from below.] | *All personnel suffer Black pressure for three turns as the floor comes alive.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Creeping Tendril* [**Debuff**] } | "Something moves under the floor — slow, heavy, and heading for your feet." | [A root-tendril spreads beneath the target; the floor buckles.] | *Target suffers -10 Resolve; the ground is not safe.* **[10 Weight DMG [Weight]]** | When the target stands still too long. |
+| { *The Felt Network* [**Debuff**] } | "You can feel the whole root-system beneath you — vast, patient, alive." | [The underground network presses upward; the target senses its full extent.] | *Target loses 10 Resolve; the enormity beneath is crushing.* **[10 Weight DMG [Weight]]** | When the target feels the roots. |
+| { *The Eruption* [**Attack**] } | "A root bursts through the floor — thick, gnarled, and aimed at your chest." | [A massive root tears upward and strikes.] | *Inflicts Weight pressure and one heavy, earthy wound.* **[14-22 Weight DMG [Weight]]** | When the roots are trodden on. |
+| { *The Full System* [**Attack**] } | "Every root in the network surges at once — and the earth itself turns against you." | [The entire root-network erupts in a coordinated assault.] | *A heavy Black upheaval; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the roots are cut or burned. |
+| { *The Living Floor* [**Ultimate**] } | "The roots have been here longer than the building — and now they want it back." | [The root-network consumes the entire field from below.] | *All personnel suffer Weight pressure for three turns as the floor comes alive.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Planted into the ground, the spurs burrow deep into structural foundations to de
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ Planted into the ground, the spurs burrow deep into structural foundations to de
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a staff-charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a staff-charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Spreading Root (O-IVδ-693 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight (Black). The Root formed from sorrow that was buried rather than resolved. Held at Zone B, Old Lament. The entity's roots spread through existing cracks rather than solid material.
+Spreading Root (O-IVδ-693 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Root formed from sorrow that was buried rather than resolved. Held at Zone B, Old Lament. The entity's roots spread through existing cracks rather than solid material.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through walls and floors by extending roots. Personnel feel buried sorrow and physical pressure. It grows during the Sorrow Tide.
@@ -344,7 +344,7 @@ Some sorrows are about grief. Spreading Root is about buried grief — the sorro
 > *“The unresolved sadness, pressing upward, because hiding is not healing.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-693 [WS]` · Weight (Black) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IVδ-693 [WS]` · Weight · Subject-Phantasmal manifestation
 **Common Name:** Spreading Root
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic

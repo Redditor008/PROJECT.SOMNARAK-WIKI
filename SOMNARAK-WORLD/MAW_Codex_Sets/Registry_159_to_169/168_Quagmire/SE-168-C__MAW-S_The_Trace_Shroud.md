@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Trace Shroud |
 | Set | Witnessed Route |
-| Type / grade / element | Suit / α — Minor / Lament — Deep Blue |
+| Type / grade / element | Suit / α — Minor / Lament |
 | Status | Active; map-custodian and return-line issue |
 | Maximum amount | 5 — Standard |
 | Current bearer | Cartographer Yeonhwa |

@@ -35,7 +35,7 @@ The bearer chooses one name in the presence of a second witness. If the person i
 | Field | Record |
 |---|---|
 | Type | Accessory — bearer-bound Stigma |
-| Grade / element | α — Minor / Void — Pale White |
+| Grade / element | α — Minor / Void |
 | Slot | Head |
 | Acquisition probability | 5% after successful work |
 | Bonus | +1 Composure during work with Name No One Remembers |

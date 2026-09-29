@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Trace Ember |
 | Set | Lost Cause |
-| Type / grade / element | Stigma, ember-charm / α — Minor / Grudge — Crimson |
+| Type / grade / element | Stigma, ember-charm / α — Minor / Grudge |
 | Slot | Tail |
 | Status | Bearer-bound; context partner required for readouts |
 | Known bearer | Specialist Sooah Park |

@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass lens showing structural stress around a pillar-shaped blank. It forms after real support replaces projection honestly.
+A Void Han-glass lens showing structural stress around a pillar-shaped blank. It forms after real support replaces projection honestly.
 
 Zyrak severed three instability paths from a worker whose imagined protector had collapsed. The worker remained untouched; nameless memories left Zyrak with each cut.
 

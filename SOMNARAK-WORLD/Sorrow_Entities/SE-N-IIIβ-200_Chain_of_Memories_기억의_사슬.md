@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A long chain whose links are carved of memory-crystal, each holding a captured face, place, or moment frozen inside. Lead-cold, it smells of wet stone; it lengthens with every memory taken, dragging the past behind it. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Link* [**Debuff**] } | "A memory surfaces — and attached to it, another, and another — a chain pulling upward from the deep." | [The Chain lifts memories from the target's past; each one is connected to the next.] | *Target suffers -10 Resolve; the connected memories are heavy.* **[10 Black DMG [Black / Weight]]** | When the target touches the Chain. |
-| { *The Tangled Past* [**Debuff**] } | "The memories link and cross-link — until your entire past is one knotted, heavy chain." | [The Chain's interconnections grow; the target's history is a burden.] | *Target loses 10 Resolve; every memory drags on every other.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Memory Whip* [**Attack**] } | "The chain lashes — and every memory on it strikes at once, each one a separate grief." | [A chain of connected memories strikes as one.] | *Inflicts Black pressure and one wound of layered recollection.* **[14-22 Black DMG [Black / Weight]]** | When the Chain is pulled. |
-| { *The Full Unraveling* [**Attack**] } | "Every memory-link breaks at once — and the release of a lifetime's connected grief is staggering." | [The Chain's total failure releases every linked memory.] | *A heavy Black cascade; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Chain is cut. |
-| { *The Chain of Everyone* [**Ultimate**] } | "Memory-chains erupt from every person — linking their pasts together — until everyone's history is one massive burden." | [The Chain extends its connections across the whole field.] | *All in range suffer Black pressure for three turns of linked memory.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Link* [**Debuff**] } | "A memory surfaces — and attached to it, another, and another — a chain pulling upward from the deep." | [The Chain lifts memories from the target's past; each one is connected to the next.] | *Target suffers -10 Resolve; the connected memories are heavy.* **[10 Weight DMG [Weight]]** | When the target touches the Chain. |
+| { *The Tangled Past* [**Debuff**] } | "The memories link and cross-link — until your entire past is one knotted, heavy chain." | [The Chain's interconnections grow; the target's history is a burden.] | *Target loses 10 Resolve; every memory drags on every other.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Memory Whip* [**Attack**] } | "The chain lashes — and every memory on it strikes at once, each one a separate grief." | [A chain of connected memories strikes as one.] | *Inflicts Weight pressure and one wound of layered recollection.* **[14-22 Weight DMG [Weight]]** | When the Chain is pulled. |
+| { *The Full Unraveling* [**Attack**] } | "Every memory-link breaks at once — and the release of a lifetime's connected grief is staggering." | [The Chain's total failure releases every linked memory.] | *A heavy Black cascade; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Chain is cut. |
+| { *The Chain of Everyone* [**Ultimate**] } | "Memory-chains erupt from every person — linking their pasts together — until everyone's history is one massive burden." | [The Chain extends its connections across the whole field.] | *All in range suffer Weight pressure for three turns of linked memory.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|---|
 | 10 Seconds | Chain of Memories rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Chain of Memories activates its primary resonance: Connects the user's memory to the memory contained in the link. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of remembering for people who cannot or will not remember themselves; the bearer begins perceiving echoes of families traded memories to preserve history after records were destroyed; the memories crystallized into links. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Chain of Memories begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Chain of Memories begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Chain of Memories too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user's identity may become tangled with another person's past. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Chain of Memories: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Chain of Memories: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Chain of Memories: it is not a generic bre
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 5-9
 **Speed:** 2 (Normal)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Chain of Memories: it is not a generic bre
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Chain of Memories: it is not a generic bre
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a chain-link of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a chain-link of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Chain of Memories (N-IIIβ-200 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Chain formed from memories passed through families and communities. Held at SECTOR-C-01, Collector's Row. The Chain grows when a memory is deliberately preserved.
+Chain of Memories (N-IIIβ-200 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Chain formed from memories passed through families and communities. Held at SECTOR-C-01, Collector's Row. The Chain grows when a memory is deliberately preserved.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 It becomes heavier when someone denies a link's owner.
@@ -380,7 +380,7 @@ Some sorrows are about forgetting. Chain of Memories is about remembering too mu
 > *“The history passed through families when records failed. The chain is the preservation.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-200 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-200 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** Chain of Memories
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

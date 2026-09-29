@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass lens showing duty as frozen shadow-link. It forms after symbolic closure.
+A Void Han-glass lens showing duty as frozen shadow-link. It forms after symbolic closure.
 
 Zyrak severed an empty-vault watch order from a shadow fragment while preserving the caretaker’s service record. Nameless memories left with the shot.
 

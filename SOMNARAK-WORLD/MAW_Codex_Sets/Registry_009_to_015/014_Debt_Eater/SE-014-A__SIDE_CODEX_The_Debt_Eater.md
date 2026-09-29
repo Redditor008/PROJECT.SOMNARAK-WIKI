@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Body |
 | **Coherence** | III — Fragment |
 | **Potency** | β — Moderate |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Form** | One-meter, mouthless ledger-pale humanoid |
 | **Location** | SECTOR-C-01, Collector use |
 | **Comprehension Level** | 2 — Studied |

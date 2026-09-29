@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fourfold Tide* [**Debuff**] } | "The air around the dragon turns — red with heat, blue with grief, black with weight, white with cold — and cannot settle on any one." | [The Sovereign radiates all four elements in a slow, cycling field; no single defence applies for long.] | *All in range are swept through every sorrow in turn — body, mind, both, and soul, each for a moment.* **[8 Crimson (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the Sovereign manifests. |
-| { *The Hundred-Year Rain* [**Attack**] } | "It lifts its head, and the sky opens, and the rain that once fell for a century begins to fall again." | [The dragon calls the rain; the field floods, and the water carries every element at once.] | *The cycling pressure deepens; targets are soaked in all four sorrows as the rain drives them down.* **[12 Crimson (HP) -> 12 Lament (Sanity) -> 12 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the Sorrow Gauge passes 60%. |
-| { *The Sky and the River* [**Attack (heavy)**] } | "Half the dragon rises into the clouds; half dives into the flood — and the two halves strike at once from above and below." | [The white half descends as a wall of sky-light; the black half rises as a wall of deep water; they close on the field together.] | *A pincer of sky and river; the cycling pressure peaks, and the ground between simply ceases to be safe.* **[18 Crimson (HP) -> 18 Lament (Sanity) -> 18 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the Sovereign is opposed directly. |
-| { *The Imperfect Form* [**Ultimate**] } | "For one terrible instant the dragon is whole, and perfect, and the master of all four sorrows — and then it remembers it was a fish, and the perfection cracks." | [The Sovereign flares to its fullest, all four elements at once — and the instability of its imperfect form makes the flare uncontrollable.] | *All in range suffer the full cycle for three turns at peak — and the Sovereign itself begins, already, to come apart.* **[14 Crimson (HP) -> 14 Lament (Sanity) -> 14 Weight (Both) -> 3 Void (15% Max HP) \| 8s, 2s per type, x3 turns]** | When the Sorrow Gauge reaches 90%. |
+| { *The Fourfold Tide* [**Debuff**] } | "The air around the dragon turns — red with heat, blue with grief, black with weight, white with cold — and cannot settle on any one." | [The Sovereign radiates all four elements in a slow, cycling field; no single defence applies for long.] | *All in range are swept through every sorrow in turn — body, mind, both, and soul, each for a moment.* **[8 Grudge (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the Sovereign manifests. |
+| { *The Hundred-Year Rain* [**Attack**] } | "It lifts its head, and the sky opens, and the rain that once fell for a century begins to fall again." | [The dragon calls the rain; the field floods, and the water carries every element at once.] | *The cycling pressure deepens; targets are soaked in all four sorrows as the rain drives them down.* **[12 Grudge (HP) -> 12 Lament (Sanity) -> 12 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the Sorrow Gauge passes 60%. |
+| { *The Sky and the River* [**Attack (heavy)**] } | "Half the dragon rises into the clouds; half dives into the flood — and the two halves strike at once from above and below." | [The white half descends as a wall of sky-light; the black half rises as a wall of deep water; they close on the field together.] | *A pincer of sky and river; the cycling pressure peaks, and the ground between simply ceases to be safe.* **[18 Grudge (HP) -> 18 Lament (Sanity) -> 18 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the Sovereign is opposed directly. |
+| { *The Imperfect Form* [**Ultimate**] } | "For one terrible instant the dragon is whole, and perfect, and the master of all four sorrows — and then it remembers it was a fish, and the perfection cracks." | [The Sovereign flares to its fullest, all four elements at once — and the instability of its imperfect form makes the flare uncontrollable.] | *All in range suffer the full cycle for three turns at peak — and the Sovereign itself begins, already, to come apart.* **[14 Grudge (HP) -> 14 Lament (Sanity) -> 14 Weight (Both) -> 3 Void (15% Max HP) \| 8s, 2s per type, x3 turns]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -192,10 +192,10 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 **Appearance:** A mantle split down the centre — one panel black as deep water, one white as pale stone — that shifts which side faces outward as the wearer moves.
 **Resistances:**
-- Grudge (Crimson): 0.8 (Warded)
-- Lament (Deep Blue): 0.8 (Warded)
-- Weight (Black): 0.8 (Warded)
-- Void (Pale White): 0.8 (Warded)
+- Grudge: 0.8 (Warded)
+- Lament: 0.8 (Warded)
+- Weight: 0.8 (Warded)
+- Void: 0.8 (Warded)
 **Max Amount:** 2
 **Cost:** 44 Sorrow Echoes
 

@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Place-Grudge |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Location | SECTOR-D-02, near Echo Gardens |
 | Form | A mobile thicket of warm, bleeding-sap thorn vines that crawls, grips, and lashes around memorial soil. |
 | Gauge / pressure | 45–65% / Grudge 18–41 |

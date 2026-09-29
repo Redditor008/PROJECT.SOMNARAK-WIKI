@@ -155,7 +155,7 @@ It manifested as a colossal, translucent curtain of weeping ice—a towering fem
 |                CONTAINMENT BREACH: CRYOGENIC PROFILE                |
 +---------------------------------------------------------------------+
 | ENTITY       : SE-C-IVd-103 (The Frozen Veil / Rank IV Entity)      |
-| POTENCY      : Critical Potency d / Element: Void (Pale White)      |
+| POTENCY      : Critical Potency d / Element: Void      |
 | THERMAL LOSS : Ambient -68.4C / Frostbite Strain -22 Posture/Turn   |
 | VOID PULL    : Absolute Emotional Numbness / Memory Erasure Hazard  |
 | LETHAL THRESH: Complete Cryogenic Vitrification of Core Personnel   |

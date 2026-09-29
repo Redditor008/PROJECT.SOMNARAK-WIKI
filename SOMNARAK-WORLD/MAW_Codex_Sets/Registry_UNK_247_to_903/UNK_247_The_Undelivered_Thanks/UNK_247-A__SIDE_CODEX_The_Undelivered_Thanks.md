@@ -46,7 +46,7 @@ A translucent commoner remains perpetually mid-bow along the old Dawn routes, ca
 | Entity Type | **Subject** — Drifts the old Dawn routes; can breach via Transform, only bow and wander |
 | Coherence | Fragment (III) |
 | Potency | Moderate (β) |
-| Element | Weight (Black) |
+| Element | Weight |
 | Manifestation | Subject-Phantasmal |
 | Location | Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D |
 | R.D. Comprehension Level | 2 — Basic |

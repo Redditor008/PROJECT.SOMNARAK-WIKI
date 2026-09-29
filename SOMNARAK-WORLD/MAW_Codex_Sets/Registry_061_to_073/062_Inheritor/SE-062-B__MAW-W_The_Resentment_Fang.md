@@ -24,7 +24,7 @@
 
 ### Appearance
 
-The Resentment Talon-Blade is a broad, inwardly-curved falx blade of dark crimson Han-iron, connected to an internal spool of barbed spinal cable within the hilt. In locked configuration, it strikes as a heavy, hooked cleaver for devastating Short-range chopping strikes. When the hilt latch is released, the blade launches forward on five paces of segmented tension-wire, transforming into a sweeping chain-scythe that hooks targets at Medium range and reels them back toward the wielder while weeping a thin, caustic film of burning crimson Han. The pommel warms noticeably as the weapon locks onto structures or specialists enforcing imposed debt.
+The Resentment Talon-Blade is a broad, inwardly-curved falx blade of dark Grudge Han-iron, connected to an internal spool of barbed spinal cable within the hilt. In locked configuration, it strikes as a heavy, hooked cleaver for devastating Short-range chopping strikes. When the hilt latch is released, the blade launches forward on five paces of segmented tension-wire, transforming into a sweeping chain-scythe that hooks targets at Medium range and reels them back toward the wielder while weeping a thin, caustic film of burning crimson Han. The pommel warms noticeably as the weapon locks onto structures or specialists enforcing imposed debt.
 
 ### Ability— Unpaid Anger
 

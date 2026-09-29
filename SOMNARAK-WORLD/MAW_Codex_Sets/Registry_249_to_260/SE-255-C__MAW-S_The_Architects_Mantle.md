@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A matte black Han-weave mantle with open seams where walls, doors, and supports are missing from the source plan. It condenses from construction dust after Ferrehan.
+A matte Weight Han-weave mantle with open seams where walls, doors, and supports are missing from the source plan. It condenses from construction dust after Ferrehan.
 
 Binding requires the wearer to enter without supplying the missing element. Iseulfros crossed a hollow tower to retrieve a trapped observer; the Mantle carried the Weight of unfinished spans but left her exhausted as if she had worked an entire construction shift for occupants who never arrived.
 

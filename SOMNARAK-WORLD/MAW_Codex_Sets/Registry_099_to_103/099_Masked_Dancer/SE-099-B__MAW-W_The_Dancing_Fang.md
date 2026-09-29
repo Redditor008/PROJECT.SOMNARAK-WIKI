@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Phantom Dancer's Tri-Daggers |
 | Set | Borrowed Motion |
-| Type / grade / element | Weapon (FANTASY — Spectral Glove & 3 Daggers) / β — Moderate / Grudge — Crimson |
+| Type / grade / element | Weapon (FANTASY — Spectral Glove & 3 Daggers) / β — Moderate / Grudge |
 | Status | Active; issued only with a declared endpoint and rest partner |
 | Maximum amount | 4 — Limited |
 | Current bearer | Sentinel Harin |

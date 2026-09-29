@@ -18,7 +18,7 @@
 
 ## ITEM IDENTITY & VISUAL RECORD
 
-The Name Lens is a small disc of near-translucent pale Han-glass held in a two-handed wire frame. Its center is blank until two people independently identify the same target. Their written forms then appear around opposite edges, and a thin line joins only the letters on which both records agree.
+The Name Lens is a small disc of near-translucent Void Han-glass held in a two-handed wire frame. Its center is blank until two people independently identify the same target. Their written forms then appear around opposite edges, and a thin line joins only the letters on which both records agree.
 
 When active, the Lens flickers like a word being remembered one character at a time. Its glass is bloodless-cold around uncertain letters and briefly warm where a living person answers.
 
@@ -56,7 +56,7 @@ A bearer binds by naming one personal memory that will not be entered into the o
 | Field | Record |
 |---|---|
 | Type | Weapon — framed lens |
-| Grade / element | α — Minor / Void — Pale White |
+| Grade / element | α — Minor / Void |
 | Damage | 3–6 Void |
 | Speed | 2 — Normal |
 | Range | 2 — Short |

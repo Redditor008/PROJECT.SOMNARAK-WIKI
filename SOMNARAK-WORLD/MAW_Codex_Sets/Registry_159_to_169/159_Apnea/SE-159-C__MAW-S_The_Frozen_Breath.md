@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Frozen Breath |
 | Set | Released Breath |
-| Type / grade / element | Suit, breath-veil / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Suit, breath-veil / δ — Critical / Grudge |
 | Status | Relief-observer issue only |
 | Maximum amount | 2 — Limited |
 | Current bearer | Specialist Hanul Grey |

@@ -21,7 +21,7 @@ The Well formed from mourning that had no witness. The need to tell a loss and f
 | Source designation | N-IIβ-778 [LP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Lament (Deep Blue) / Zone E, Border region |
+| Element / Location | Lament / Zone E, Border region |
 | Gauge / Pressure | 436/436; starts 35–50% / 8–19 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground. |
@@ -52,7 +52,7 @@ During the The Well of Unfinished Words Source-Trace, the field team preserved t
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Well of Unfinished Words's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Allow testimony to finish; do not drain the Well The set cannot heal the originating event. Misuse routes Well of Unfinished Words's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Well of Unfinished Words's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Allow testimony to finish; do not drain the Well The set cannot heal the originating event. Misuse routes Well of Unfinished Words's wound through the operator and triggers the recorded escalation.
 
 ---
 

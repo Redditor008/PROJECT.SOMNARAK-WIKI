@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — A vast dormant tree-beast coiled beneath the Alpha Tree, trunk a curled body, roots clenched around a broken promise — unmistakably a sleeping creature, not a plant. Fever-cold, it smells of char; were it to wake, it would walk. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slow Creak* [**Debuff**] } | "The tree creaks in its sleep — a deep, wooden groan — and the sound carries the weight of dormant seasons." | [The Tree's sleeping creak radiates; the target feels the compressed growth.] | *Target suffers -10 Resilience; the dormant energy is immense.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stands near the Tree. |
-| { *The Dreaming Canopy* [**Debuff**] } | "In its dreams, the tree is enormous — canopy covering the sky — and the dream is leaking into reality." | [The Tree's dream-growth manifests partially; the target is shadowed by phantom branches.] | *Target loses 10 Resilience; the sleeping tree is bigger than it looks.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Falling Branch* [**Attack**] } | "A branch drops — shed in sleep — heavy, unconscious, and aimed by a dreaming tree." | [ An involuntary branch-fall strikes.] | *Inflicts Crimson pressure and one heavy, woody wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Tree is touched. |
-| { *The Waking* [**Attack**] } | "The tree wakes — and a tree that has been sleeping is furious, enormous, and growing in real-time." | [The Tree's awakening releases its full dormant growth-energy.] | *A heavy Crimson eruption of rapid growth; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Tree is struck. |
-| { *The Waking Forest* [**Ultimate**] } | "Every tree in the field wakes — and they are all bigger than they should be, and all of them are growing." | [The Tree extends its waking across the whole area.] | *All in range suffer Crimson pressure for three turns of waking forest.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slow Creak* [**Debuff**] } | "The tree creaks in its sleep — a deep, wooden groan — and the sound carries the weight of dormant seasons." | [The Tree's sleeping creak radiates; the target feels the compressed growth.] | *Target suffers -10 Resilience; the dormant energy is immense.* **[10 Grudge DMG [Grudge]]** | When the target stands near the Tree. |
+| { *The Dreaming Canopy* [**Debuff**] } | "In its dreams, the tree is enormous — canopy covering the sky — and the dream is leaking into reality." | [The Tree's dream-growth manifests partially; the target is shadowed by phantom branches.] | *Target loses 10 Resilience; the sleeping tree is bigger than it looks.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Falling Branch* [**Attack**] } | "A branch drops — shed in sleep — heavy, unconscious, and aimed by a dreaming tree." | [ An involuntary branch-fall strikes.] | *Inflicts Grudge pressure and one heavy, woody wound.* **[14-22 Grudge DMG [Grudge]]** | When the Tree is touched. |
+| { *The Waking* [**Attack**] } | "The tree wakes — and a tree that has been sleeping is furious, enormous, and growing in real-time." | [The Tree's awakening releases its full dormant growth-energy.] | *A heavy Crimson eruption of rapid growth; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Tree is struck. |
+| { *The Waking Forest* [**Ultimate**] } | "Every tree in the field wakes — and they are all bigger than they should be, and all of them are growing." | [The Tree extends its waking across the whole area.] | *All in range suffer Grudge pressure for three turns of waking forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ The escalation pattern is specific to Sleeping Tree: it is not a generic breach 
 | **Breach Type** | Escape |
 | **Movement** | Sleeping Tree breaks loose and charges, thrashing. It extends roots through the floor, entangling personnel. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -243,7 +243,7 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -261,7 +261,7 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a bracelet of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a bracelet of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -315,7 +315,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sleeping Tree (O-IIIγ-374 [N]) is logged as a Object-Weight manifestation expressing Grudge (Crimson). The Tree formed from a promise made in the wilderness and broken by return. Held at Zone A, Alpha Tree. The Tree grows only while asleep.
+Sleeping Tree (O-IIIγ-374 [N]) is logged as a Object-Weight manifestation expressing Grudge. The Tree formed from a promise made in the wilderness and broken by return. Held at Zone A, Alpha Tree. The Tree grows only while asleep.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has never produced fruit.
@@ -397,7 +397,7 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 > *“The promise of shared growth, severed by absence.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-374 [N]` · Grudge (Crimson) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-374 [N]` · Grudge · Object-Weight manifestation
 **Common Name:** Sleeping Tree
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic

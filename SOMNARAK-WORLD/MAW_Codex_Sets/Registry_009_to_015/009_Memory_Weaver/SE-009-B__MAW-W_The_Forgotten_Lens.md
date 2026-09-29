@@ -21,7 +21,7 @@
 | **Type** | Weapon — memory shuttle awl |
 | **Category** | UNIQUE (Awl & Memory Spool / Piercing Shuttle) |
 | **Grade** | γ — Major |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Maximum Amount** | 3 — Standard |
 | **Echo Cost** | 40 Sorrow Echoes |
 | **Bearer Requirement** | A documented personal memory anchor before deployment |

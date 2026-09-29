@@ -21,7 +21,7 @@ The Door formed from a passage closed before someone could leave. The burden of 
 | Source designation | O-Iα-794 [LO] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Lament (Deep Blue) / Zone B, deep tunnels |
+| Element / Location | Lament / Zone B, deep tunnels |
 | Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A tunnel collapse sealed a door while people were still on both sides of it. |
@@ -52,7 +52,7 @@ During the The Portcullis Source-Trace, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Portcullis's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Portcullis's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Portcullis's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Portcullis's wound through the operator and triggers the recorded escalation.
 
 ---
 

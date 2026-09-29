@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — An ethereal breath moving through the Old Lament as a voice with no body — visible only as a pale trail hanging in cold air. Bloodless-cold, it smells of ash; a sigh that left its speaker and never stopped wandering. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Distant Sound* [**Debuff**] } | "A sigh, from very far away — and somehow it lands directly on your chest." | [The Sigh drifts in; its weight settles on the target.] | *Target suffers a Void mark; the sigh has found a home in them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Sigh is heard. |
-| { *The Accumulated Weight* [**Debuff**] } | "The sigh does not leave — it just settles deeper, like sediment." | [The Sigh deposits its grief; layers accrue.] | *Target loses clarity; the weight of one sigh is surprisingly vast.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target does not exhale in return. |
-| { *The Exhaled Cut* [**Attack**] } | "The sigh sharpens into a breath — and the breath is a blade." | [A concentrated exhale strikes the target like a gust of glass.] | *Inflicts Void damage; the carried grief cuts.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Sigh is disturbed. |
-| { *The Whole Breath* [**Attack**] } | "Every sigh the wanderer ever carried, exhaled at once." | [The Sigh releases its full accumulated payload.] | *A heavy Void blast; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Sigh is silenced. |
-| { *The Endless Exhale* [**Ultimate**] } | "Everyone sighs at once — and the sound does not stop, and the weight does not lift." | [The Sigh spreads until every breath in the field is a sigh.] | *All in range suffer Pale White erosion for three turns of endless exhaling.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Distant Sound* [**Debuff**] } | "A sigh, from very far away — and somehow it lands directly on your chest." | [The Sigh drifts in; its weight settles on the target.] | *Target suffers a Void mark; the sigh has found a home in them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Sigh is heard. |
+| { *The Accumulated Weight* [**Debuff**] } | "The sigh does not leave — it just settles deeper, like sediment." | [The Sigh deposits its grief; layers accrue.] | *Target loses clarity; the weight of one sigh is surprisingly vast.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target does not exhale in return. |
+| { *The Exhaled Cut* [**Attack**] } | "The sigh sharpens into a breath — and the breath is a blade." | [A concentrated exhale strikes the target like a gust of glass.] | *Inflicts Void damage; the carried grief cuts.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Sigh is disturbed. |
+| { *The Whole Breath* [**Attack**] } | "Every sigh the wanderer ever carried, exhaled at once." | [The Sigh releases its full accumulated payload.] | *A heavy Void blast; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Sigh is silenced. |
+| { *The Endless Exhale* [**Ultimate**] } | "Everyone sighs at once — and the sound does not stop, and the weight does not lift." | [The Sigh spreads until every breath in the field is a sigh.] | *All in range suffer Void erosion for three turns of endless exhaling.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a breath-token of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a breath-token of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Survivors' Breath (O-IVδ-895 [VS]) is logged as a Subject-Spirit manifestation expressing Void (Pale White). The Sigh formed from exhaustion that could not become rest. Held at Zone B, Old Lament. It is strongest after breaches and long patrols.
+Survivors' Breath (O-IVδ-895 [VS]) is logged as a Subject-Spirit manifestation expressing Void. The Sigh formed from exhaustion that could not become rest. Held at Zone B, Old Lament. It is strongest after breaches and long patrols.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flows through Old Lament walls and personnel breath. Personnel feel exhaustion, relief, and sudden emptiness. It moves through breath but is not contagious physically.
@@ -348,7 +348,7 @@ Some sorrows are about specific losses. Survivors' Breath is about the condition
 > *“Exhaustion that could not become rest. The sigh wanders because the surviving does not end.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-895 [VS]` · Void (Pale White) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IVδ-895 [VS]` · Void · Subject-Spirit manifestation
 **Common Name:** Survivors' Breath
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic

@@ -22,7 +22,7 @@
 | Entity | Crucible — 분노의 용광로 |
 | Type / Manifestation | Object/Place — Place-Grudge |
 | Coherence / Potency | III — Fragment / β — Moderate |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | A soot-black stone forge built around a slow crimson heart-flame, with bone-branching tools grown from generations of rage. |
 | Gauge / Pressure | 35–50% / Grudge 10–23 |
 | Observation | 2 — Basic |
@@ -64,7 +64,7 @@ An echo forms only when Crucible creates a useful non-weapon tool after the cont
 | Piece | Name | Grade | Purpose | Individual Codex |
 |---|---|---:|---|---|
 | Weapon | The Rage Hammer | β | Shapes Han quickly against a present hostile force. | `SE-275-B__MAW-W_The_Rage_Hammer.md` |
-| Suit | The Rage Plate | β | Resists Crimson pressure during controlled Forge work. | `SE-275-C__MAW-S_The_Rage_Plate.md` |
+| Suit | The Rage Plate | β | Resists Grudge pressure during controlled Forge work. | `SE-275-C__MAW-S_The_Rage_Plate.md` |
 | Stigma | The Rage Charm | β | Distinguishes named anger from hidden fuel entering the Forge. | `SE-275-D__MAW-G_The_Rage_Charm.md` |
 
 **Set cost:** The wielder resents every object altered, the wearer’s reflexes dull, and the Stigma bearer’s temper shortens. Unnamed anger becomes weapon output.

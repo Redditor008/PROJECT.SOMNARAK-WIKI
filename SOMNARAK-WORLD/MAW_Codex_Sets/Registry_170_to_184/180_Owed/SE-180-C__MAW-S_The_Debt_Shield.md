@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Mason's Mortar-Crusted Hauberk |
 | Set | Measured Burden |
-| Type / grade / element | Suit, shield-backed harness / γ — Major / Weight — Black |
+| Type / grade / element | Suit, shield-backed harness / γ — Major / Weight |
 | Maximum amount | 3 — Standard |
 | Recognition rule | The backplate displays stored impact as ledger marks that must be discharged through review. |
 

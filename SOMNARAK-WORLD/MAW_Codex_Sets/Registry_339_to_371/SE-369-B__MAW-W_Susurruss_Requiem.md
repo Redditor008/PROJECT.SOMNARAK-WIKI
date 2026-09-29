@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A wet-edged deep-blue Han-crystal blade formed after matching emotional fragments are witnessed without sentence reconstruction.
+A wet-edged Lament Han-crystal blade formed after matching emotional fragments are witnessed without sentence reconstruction.
 
 Durivel used it to separate sharp word-debris from an evacuation route while the underlying plea remained intact as grief and urgency. He wept in voices he could not quote.
 

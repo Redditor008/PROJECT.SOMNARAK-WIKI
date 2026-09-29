@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | N-IIIγ-917 [VT] |
 | Type / Manifestation | Time — Can breach via Transform / Time-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Void (Pale White) / SECTOR-N-917, contained |
+| Element / Location | Void / SECTOR-N-917, contained |
 | Gauge / Pressure | 464/464; starts 35–50% / 17–29 per hit · Void |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Dawn That Forgot Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Dawn That Forgot's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dawn That Forgot's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dawn That Forgot's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dawn That Forgot's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Frozen Fang |
 | Set | Released Breath |
-| Type / grade / element | Weapon / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Weapon / δ — Critical / Grudge |
 | Status | Restricted relief-required issue |
 | Maximum amount | 2 — Limited |
 | Current bearer | Sentinel Harin |

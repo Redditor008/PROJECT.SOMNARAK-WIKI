@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats glowing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — An old lantern of tarnished metal that glows brighter the heavier the nearby debt, burning with pale cold light rather than flame. Lead-cold, it smells of wet stone; carried by no one, yet it always finds the indebted. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Searching Light* [**Debuff**] } | "The lantern swings — and where its light falls, your debts become visible, written on your skin." | [The Lantern's beam exposes the target's obligations; they are laid bare.] | *Target suffers -10 Resolve; everything they owe is illuminated.* **[10 Black DMG [Black / Weight]]** | When the Lantern's light touches them. |
-| { *The揭露* [**Debuff**] } | "The light lingers — and the longer it stays on you, the more debts it finds, and the deeper they go." | [The Lantern's scrutiny deepens; the target's hidden debts surface.] | *Target loses 10 Resolve; the debts are older and larger than they knew.* **[10 Black DMG [Black / Weight]]** | When the target stays in the light. |
-| { *The Burning Beam* [**Attack**] } | "The lantern flares — and the concentrated light of exposed debt burns." | [A focused lantern-beam strikes.] | *Inflicts Black pressure and one wound of illuminated obligation.* **[14-22 Black DMG [Black / Weight]]** | When the Lantern is raised. |
-| { *The Full Reveal* [**Attack**] } | "The lantern shines at full power — every debt, every obligation, every unpaid thing, exposed at once." | [The Lantern's total illumination is overwhelming.] | *A heavy Black exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Lantern is smashed. |
-| { *The Spotlight* [**Ultimate**] } | "The lantern's light fills the field — and beneath it, everyone's debts are visible, and everyone owes, and everyone pays." | [The Lantern extends its illumination across the whole area.] | *All in range suffer Black pressure for three turns under the debt-light.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Searching Light* [**Debuff**] } | "The lantern swings — and where its light falls, your debts become visible, written on your skin." | [The Lantern's beam exposes the target's obligations; they are laid bare.] | *Target suffers -10 Resolve; everything they owe is illuminated.* **[10 Weight DMG [Weight]]** | When the Lantern's light touches them. |
+| { *The揭露* [**Debuff**] } | "The light lingers — and the longer it stays on you, the more debts it finds, and the deeper they go." | [The Lantern's scrutiny deepens; the target's hidden debts surface.] | *Target loses 10 Resolve; the debts are older and larger than they knew.* **[10 Weight DMG [Weight]]** | When the target stays in the light. |
+| { *The Burning Beam* [**Attack**] } | "The lantern flares — and the concentrated light of exposed debt burns." | [A focused lantern-beam strikes.] | *Inflicts Weight pressure and one wound of illuminated obligation.* **[14-22 Weight DMG [Weight]]** | When the Lantern is raised. |
+| { *The Full Reveal* [**Attack**] } | "The lantern shines at full power — every debt, every obligation, every unpaid thing, exposed at once." | [The Lantern's total illumination is overwhelming.] | *A heavy Black exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Lantern is smashed. |
+| { *The Spotlight* [**Ultimate**] } | "The lantern's light fills the field — and beneath it, everyone's debts are visible, and everyone owes, and everyone pays." | [The Lantern extends its illumination across the whole area.] | *All in range suffer Weight pressure for three turns under the debt-light.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-The escalation pattern is specific to Debt-Collector's-Lantern: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at Zone C, Collector's Row — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Debt-Collector's-Lantern: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at Zone C, Collector's Row — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Debt-Collector's-Lantern (N-IIβ-250 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Lantern formed from the sorrow of collecting from others. Held at Zone C, Collector's Row — ambient. It glows near debtors and Collectors alike.
+Debt-Collector's-Lantern (N-IIβ-250 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Lantern formed from the sorrow of collecting from others. Held at Zone C, Collector's Row — ambient. It glows near debtors and Collectors alike.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its light is brighter for inherited obligations.
@@ -384,7 +384,7 @@ Some sorrows are about debt. Debt-Collector's-Lantern is about the collecting �
 > *“The sorrow of collecting: knowing the debts are real and the debtors are suffering.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-250 [WO]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIβ-250 [WO]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Object-Weight manifestation
 **Common Name:** Debt-Collector's-Lantern
 **Containment Status:** Contained — Zone C, Collector's Row — ambient
 **Comprehension Level:** 2 — Basic

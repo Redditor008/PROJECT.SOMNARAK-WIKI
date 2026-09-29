@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly root-creature built of pale trailing roots, lower half fading, upper reaching with root-fingers — a grasping beast of root. Lead-cold, it smells of wet stone. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dry Channel* [**Debuff**] } | "The root is gone — but the channel it carved still hungers for what flowed through it." | [The absent root's channel pulls at the target; something is being drained.] | *Target suffers -10 Resolve; their connection to the source is failing.* **[10 Black DMG [Black / Weight]]** | When the target stands over the channel. |
-| { *The Severed End* [**Debuff**] } | "Where the root was cut, the wound never healed — and now it bleeds into you." | [The stump of the vanished root leaks its stored weight.] | *Target loses 10 Resolve; they are absorbing a severed thing's grief.* **[10 Black DMG [Black / Weight]]** | When the target lingers at the cut. |
-| { *The Phantom Grip* [**Attack**] } | "A root that is not there anymore closes around your ankle." | [The absent root's ghost-memory seizes the target.] | *Inflicts Black pressure and one phantom crushing wound.* **[14-22 Black DMG [Black / Weight]]** | When the channel is disturbed. |
-| { *The Uprooting in Reverse* [**Attack**] } | "The root comes back — violent, heavy, desperate to reconnect." | [The vanished root erupts back into being with immense force.] | *A heavy Black eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the root is summoned. |
-| { *The Dead Network* [**Ultimate**] } | "Every vanished root in the earth surges back at once — and the ground tears itself apart." | [The full severed root-network erupts across the field.] | *All personnel suffer Black pressure for three turns as the earth heaves.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dry Channel* [**Debuff**] } | "The root is gone — but the channel it carved still hungers for what flowed through it." | [The absent root's channel pulls at the target; something is being drained.] | *Target suffers -10 Resolve; their connection to the source is failing.* **[10 Weight DMG [Weight]]** | When the target stands over the channel. |
+| { *The Severed End* [**Debuff**] } | "Where the root was cut, the wound never healed — and now it bleeds into you." | [The stump of the vanished root leaks its stored weight.] | *Target loses 10 Resolve; they are absorbing a severed thing's grief.* **[10 Weight DMG [Weight]]** | When the target lingers at the cut. |
+| { *The Phantom Grip* [**Attack**] } | "A root that is not there anymore closes around your ankle." | [The absent root's ghost-memory seizes the target.] | *Inflicts Weight pressure and one phantom crushing wound.* **[14-22 Weight DMG [Weight]]** | When the channel is disturbed. |
+| { *The Uprooting in Reverse* [**Attack**] } | "The root comes back — violent, heavy, desperate to reconnect." | [The vanished root erupts back into being with immense force.] | *A heavy Black eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the root is summoned. |
+| { *The Dead Network* [**Ultimate**] } | "Every vanished root in the earth surges back at once — and the ground tears itself apart." | [The full severed root-network erupts across the field.] | *All personnel suffer Weight pressure for three turns as the earth heaves.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Errant (O-Iα-631 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight (Black). The Root formed from belonging severed before it could take hold. Held at Zone C, Mask Market. It appears beneath masks and false identities.
+Errant (O-Iα-631 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Root formed from belonging severed before it could take hold. Held at Zone C, Mask Market. It appears beneath masks and false identities.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Drifts through Mask Market floors and reflective surfaces. Personnel feel ungrounded and lose their sense of origin. It waits longer than it moves.
@@ -348,7 +348,7 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 > *“Belonging severed before it could root.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-631 [WS]` · Weight (Black) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-Iα-631 [WS]` · Weight · Subject-Phantasmal manifestation
 **Common Name:** Errant
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 1 — Initial

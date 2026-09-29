@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A black Han-weave mantle containing an empty communal silhouette outside one living body line.
+A Weight Han-weave mantle containing an empty communal silhouette outside one living body line.
 
 Iseulfros wore it while the Mirror projected district identity across observers. The Mantle resisted Weight without letting the projection become her biography; constant fatigue remained.
 

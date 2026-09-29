@@ -22,7 +22,7 @@
 | Entity | The Hollow Architect — 빈 건축가 |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | IV — Entity / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | A hollow humanoid carrying dark-crystal blueprints and building unfinished structures for people who never arrived. |
 | Gauge / Pressure | 45–65% / Weight 14–32 |
 | Movement | 2.30 m/s while building or breaching |

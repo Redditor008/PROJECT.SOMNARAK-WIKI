@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Territorial and responsive |
 | **Potency** | Critical (δ) — Dangerous |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A tall phantom warrior clad in armor grown from crystallized rage — dark-crimson plates fused to a body that is half-flesh, half-cooled fury, never fully solid. It carries a weapon of solidified anger and patrols the rift called the Scar without rest. Heat and the smell of old char roll off it; where it passes, the ground scorches faintly. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Open Wound* [**Debuff**] } | "The scar walker steps into your oldest wound — the one that never healed right — and makes itself at home." | [The Walker inhabits the target's existing damage; the old wound reopens.] | *Target suffers -10 Resilience; their healed scars are being entered.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target has old wounds. |
-| { *The Walking Damage* [**Debuff**] } | "The walker moves through your body via the scar-tissue network — each step a new old pain." | [The Walker traverses the target's injury-map; every old wound reactivates.] | *Target loses 10 Resilience; every healed thing is hurting again.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Walker settles in. |
-| { *The Scar-Step* [**Attack**] } | "The walker stomps — inside the wound — and the internal impact is staggering." | [A stomp from within the target's own scar tissue.] | *Inflicts Crimson pressure and one wound of reopened damage.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Walker is probed. |
-| { *The Full Traverse* [**Attack**] } | "The walker runs through every scar simultaneously — a sprint through the target's entire history of pain." | [The Walker's complete traversal reactivates all wounds at once.] | *A heavy Crimson sprint; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Walker is forced out. |
-| { *The Scarred Field* [**Ultimate**] } | "The walker enters everyone's wounds — every person's old damage reopened at once." | [The Walker extends its inhabiting across the whole area.] | *All in range suffer Crimson pressure for three turns of walked wounds.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Open Wound* [**Debuff**] } | "The scar walker steps into your oldest wound — the one that never healed right — and makes itself at home." | [The Walker inhabits the target's existing damage; the old wound reopens.] | *Target suffers -10 Resilience; their healed scars are being entered.* **[10 Grudge DMG [Grudge]]** | When the target has old wounds. |
+| { *The Walking Damage* [**Debuff**] } | "The walker moves through your body via the scar-tissue network — each step a new old pain." | [The Walker traverses the target's injury-map; every old wound reactivates.] | *Target loses 10 Resilience; every healed thing is hurting again.* **[10 Grudge DMG [Grudge]]** | When the Walker settles in. |
+| { *The Scar-Step* [**Attack**] } | "The walker stomps — inside the wound — and the internal impact is staggering." | [A stomp from within the target's own scar tissue.] | *Inflicts Grudge pressure and one wound of reopened damage.* **[14-22 Grudge DMG [Grudge]]** | When the Walker is probed. |
+| { *The Full Traverse* [**Attack**] } | "The walker runs through every scar simultaneously — a sprint through the target's entire history of pain." | [The Walker's complete traversal reactivates all wounds at once.] | *A heavy Crimson sprint; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Walker is forced out. |
+| { *The Scarred Field* [**Ultimate**] } | "The walker enters everyone's wounds — every person's old damage reopened at once." | [The Walker extends its inhabiting across the whole area.] | *All in range suffer Grudge pressure for three turns of walked wounds.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -164,7 +164,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Breach Type** | Escape |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel. |
 | **Escalation** | Each turn free, Resilience drain +5. |
 
@@ -200,7 +200,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -218,7 +218,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a blade-pendant of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a blade-pendant of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Scar Walker (O-IIIδ-011 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The Walker formed from the collective rage of the six factions that fought in the Occlusihan. Held at The Desolate — patrols The Scar. The Walker has never breached containment because The Scar is its territory, not a cell.
+Scar Walker (O-IIIδ-011 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The Walker formed from the collective rage of the six factions that fought in the Occlusihan. Held at The Desolate — patrols The Scar. The Walker has never breached containment because The Scar is its territory, not a cell.
 
 **Entry 2 — <Excerpt from Field Log, Year 4205>**
 Leaves The Scar and patrols the facility perimeter in search of intruders. Disrespectful personnel experience the Occlusihan's rage and may be physically attacked. It responds to respect more reliably than to any suppression measure.
@@ -357,7 +357,7 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 > *“The guardian of un-mourned soldiers, enforcing the reverence the city refused to give.”* — Elder, The Scar
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIδ-011 [GS]` · Grudge (Crimson) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IIIδ-011 [GS]` · Grudge · Subject-Phantasmal manifestation
 **Common Name:** Scar Walker
 **Containment Status:** Contained — The Desolate — patrols The Scar
 **Comprehension Level:** 1 — Initial

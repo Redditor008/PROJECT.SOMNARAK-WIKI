@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Lens |
 | Set | Witnessed Shelter |
-| Type / grade / element | Weapon / β — Moderate / Void — Pale White |
+| Type / grade / element | Weapon / β — Moderate / Void |
 | Status | Active; location witness required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Nari Kwon |

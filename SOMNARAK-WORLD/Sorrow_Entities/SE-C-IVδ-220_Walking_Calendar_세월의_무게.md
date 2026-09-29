@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Ancient and weary |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — An ancient figure draped in layer upon layer — stone slabs, old calendars, worn city records — all fused to its body, each step adding another year to its frame. Lead-heavy and slow, it smells of wet stone and dust; to stand near it is to feel your own years press down. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Gray* [**Debuff**] } | "A strand of your hair goes gray — and the years begin to show all at once." | [The Years press; the target ages visibly in moments.] | *Target suffers -10 Resolve as time bears down.* **[10 Black DMG [Black / Weight]]** | When the Years settle on the target. |
-| { *The Long Memory* [**Debuff**] } | "Decades settle on your shoulders — and you remember things that have not happened to you yet." | [The accumulated years weigh heavier; the target feels old beyond their life.] | *Target loses 10 Resolve; the weight of time is immense.* **[10 Black DMG [Black / Weight]]** | When the target remains under the Years. |
-| { *The Aching Joint* [**Attack**] } | "Age, made into pain, strikes all at once." | [The Years convert time directly into bodily ache.] | *Inflicts Black pressure and one wound of sudden age.* **[14-22 Black DMG [Black / Weight]]** | When the Years are roused. |
-| { *The Lifetime* [**Attack**] } | "It gives you a whole life's weight in a single instant." | [The Years drop an entire lifetime of heaviness onto the target.] | *A crushing Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Years are confronted. |
-| { *The Century* [**Ultimate**] } | "A hundred years, for everyone, now." | [The Years spread across the field, aging all within reach.] | *All personnel suffer Black pressure for three turns under the century.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Gray* [**Debuff**] } | "A strand of your hair goes gray — and the years begin to show all at once." | [The Years press; the target ages visibly in moments.] | *Target suffers -10 Resolve as time bears down.* **[10 Weight DMG [Weight]]** | When the Years settle on the target. |
+| { *The Long Memory* [**Debuff**] } | "Decades settle on your shoulders — and you remember things that have not happened to you yet." | [The accumulated years weigh heavier; the target feels old beyond their life.] | *Target loses 10 Resolve; the weight of time is immense.* **[10 Weight DMG [Weight]]** | When the target remains under the Years. |
+| { *The Aching Joint* [**Attack**] } | "Age, made into pain, strikes all at once." | [The Years convert time directly into bodily ache.] | *Inflicts Weight pressure and one wound of sudden age.* **[14-22 Weight DMG [Weight]]** | When the Years are roused. |
+| { *The Lifetime* [**Attack**] } | "It gives you a whole life's weight in a single instant." | [The Years drop an entire lifetime of heaviness onto the target.] | *A crushing Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Years are confronted. |
+| { *The Century* [**Ultimate**] } | "A hundred years, for everyone, now." | [The Years spread across the field, aging all within reach.] | *All personnel suffer Weight pressure for three turns under the century.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The entity formed from the accumulated years of unacknowledged history. Held at SECTOR-A-01, Alpha Tree deep storage. The entity's weight increases during anniversaries of historical tragedies.
+Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation expressing Weight. The entity formed from the accumulated years of unacknowledged history. Held at SECTOR-A-01, Alpha Tree deep storage. The entity's weight increases during anniversaries of historical tragedies.
 
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 Walks through Alpha Tree storage and historical districts. Personnel feel centuries of shame and responsibility at once. Its singing is composed of dates rather than melodies.
@@ -348,7 +348,7 @@ Some sorrows are personal. Walking Calendar is historical — the accumulated gu
 > *“Every citizen carries this. Most do not know they carry it.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-220 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVδ-220 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** Walking Calendar
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 3 — Advanced

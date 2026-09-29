@@ -14,7 +14,7 @@
 
 ## HISTORY & BINDING
 
-A pale Han-gossamer veil with upward-flowing seams and one current-body outline. It condenses after Folly releases a stable melt. Binding requires a present-location anchor.
+A Void Han-gossamer veil with upward-flowing seams and one current-body outline. It condenses after Folly releases a stable melt. Binding requires a present-location anchor.
 
 Iseulfros wore it while three imagined floors softened around a survey team. The Veil preserved bodies and exit perception, but made her feel absent from every warm room the tower might have held.
 

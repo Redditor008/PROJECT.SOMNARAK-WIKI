@@ -55,7 +55,7 @@ Registry Code: `MAW-S-{{NUM}}-01`
 
 ### Appearance
 
-{{2–3 sentences woven imagery. E.g., “A flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer. Threads tighten when Void pressure nears.” Material, movement, light.}}
+{{2–3 sentences woven imagery. E.g., “A flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer. Threads tighten when Void pressure nears.” Material, movement, light.}}
 
 ## EXTRACTION HISTORY
 

@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Furious and trapped |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — An empty cage of vertical bars that are not uniform metal: dark crimson, ridged, fused in places with what looks like calcified sinew and clenched-finger bone. The bars pulse together in a slow, angered rhythm. There is no door and no prisoner; the cage itself is what is furious. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Closed Door* [**Debuff**] } | "The bars fall into place — and you understand, slowly, that you are inside." | [The Cage seals around the target; the contained fury presses in.] | *Target suffers -10 Resilience; the cage has closed.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the Cage. |
-| { *The Confined Fury* [**Debuff**] } | "The rage inside the bars has nowhere to go but through you." | [The Cage's trapped anger radiates; the target basks in stifled wrath.] | *Target loses 10 Resilience; the pressure of caged fury builds.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target remains caged. |
-| { *The Barred Wall* [**Attack**] } | "The bars themselves strike — the cage does not like being touched." | [The Cage's bars lash outward, punishing the confined.] | *Inflicts Crimson pressure and one bruising wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Cage is shaken. |
-| { *The Breaking Out* [**Attack**] } | "Something inside the cage breaks free — and it is furious at having been held." | [The contained rage erupts outward in a blast of released fury.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Cage is struck or overloaded. |
-| { *The Prison Falls* [**Ultimate**] } | "The cage collapses inward — and the bars become the weapon." | [The Cage implodes, dragging everyone into its fury.] | *All personnel suffer Crimson pressure for three turns as the prison falls.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Closed Door* [**Debuff**] } | "The bars fall into place — and you understand, slowly, that you are inside." | [The Cage seals around the target; the contained fury presses in.] | *Target suffers -10 Resilience; the cage has closed.* **[10 Grudge DMG [Grudge]]** | When the target enters the Cage. |
+| { *The Confined Fury* [**Debuff**] } | "The rage inside the bars has nowhere to go but through you." | [The Cage's trapped anger radiates; the target basks in stifled wrath.] | *Target loses 10 Resilience; the pressure of caged fury builds.* **[10 Grudge DMG [Grudge]]** | When the target remains caged. |
+| { *The Barred Wall* [**Attack**] } | "The bars themselves strike — the cage does not like being touched." | [The Cage's bars lash outward, punishing the confined.] | *Inflicts Grudge pressure and one bruising wound.* **[14-22 Grudge DMG [Grudge]]** | When the Cage is shaken. |
+| { *The Breaking Out* [**Attack**] } | "Something inside the cage breaks free — and it is furious at having been held." | [The contained rage erupts outward in a blast of released fury.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Cage is struck or overloaded. |
+| { *The Prison Falls* [**Ultimate**] } | "The cage collapses inward — and the bars become the weapon." | [The Cage implodes, dragging everyone into its fury.] | *All personnel suffer Grudge pressure for three turns as the prison falls.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Redcage rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Redcage activates its primary resonance: Releases a wave of anger and memories of unjust imprisonment. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the fury of being trapped by a system that refuses to admit error; the bearer begins perceiving echoes of citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Redcage begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Redcage begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Redcage too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may become convinced they are imprisoned even in open space. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Redcage: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at SECTOR-B-01, Zone B, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Redcage: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-B-01, Zone B, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a shield-backed harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a shield-backed harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -251,7 +251,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Redcage (C-IIIγ-120 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Cage formed from people imprisoned without cause. Held at SECTOR-B-01, Zone B. The Cage is empty but never silent.
+Redcage (C-IIIγ-120 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Cage formed from people imprisoned without cause. Held at SECTOR-B-01, Zone B. The Cage is empty but never silent.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 New injustice adds a bar.
@@ -388,7 +388,7 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 > *“I stood inside and felt every unjust imprisonment the city has ever committed.”* — Warden, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-120 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-120 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Object-Grudge manifestation
 **Common Name:** Redcage
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic

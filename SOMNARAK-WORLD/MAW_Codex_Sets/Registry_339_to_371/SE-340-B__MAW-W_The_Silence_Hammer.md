@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass hammer holding anti-sound in its head. It forms from vibration left after a warning produces real verification.
+A Void Han-glass hammer holding anti-sound in its head. It forms from vibration left after a warning produces real verification.
 
 Durivel deployed it around a suspect alarm relay, removing ambient noise while engineers tested function. The field also removed shouted updates; visual signals prevented the silence from becoming a new failure.
 

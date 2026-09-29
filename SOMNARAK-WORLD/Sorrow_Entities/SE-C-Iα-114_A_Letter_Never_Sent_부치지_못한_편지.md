@@ -12,9 +12,9 @@
 | **Coherence** | Residue (I) — Unread, preserved plea |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the fold lines by flash-fire soot and sealed with dark indigo wax bearing the seal of the Sector-A-04 Line Archive Bureau. A faint rime of deep-blue Han-frost coats the surface, dropping local temperature by three degrees. The envelope trembles faintly whenever an operative carrying an unvoiced apology enters the chamber. |
+| **Physical Form** | Non-Organic — A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the fold lines by flash-fire soot and sealed with dark indigo wax bearing the seal of the Sector-A-04 Line Archive Bureau. A faint rime of Lament Han-frost coats the surface, dropping local temperature by three degrees. The envelope trembles faintly whenever an operative carrying an unvoiced apology enters the chamber. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-04, Archive Vault 12 — contained |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -95,7 +95,7 @@ Failure to maintain stasis allows the wax to fracture prematurely, venting local
 
 ## Appearance
 
-**Physical Form:** A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the fold lines by flash-fire soot and sealed with dark indigo wax bearing the seal of the Sector-A-04 Line Archive Bureau. A faint rime of deep-blue Han-frost coats the surface, dropping local temperature by three degrees. The envelope trembles faintly whenever an operative carrying an unvoiced apology enters the chamber.
+**Physical Form:** A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the fold lines by flash-fire soot and sealed with dark indigo wax bearing the seal of the Sector-A-04 Line Archive Bureau. A faint rime of Lament Han-frost coats the surface, dropping local temperature by three degrees. The envelope trembles faintly whenever an operative carrying an unvoiced apology enters the chamber.
 
 **Notable Features:**
 - The wax seal bears the embossed twin-rail crest of the collapsed Sector-A-04 Line.
@@ -172,7 +172,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 
 ### Escalation Notes
 
-The escalation pattern is specific to A Letter Never Sent: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-A-04, Archive Vault 12 — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to A Letter Never Sent: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-04, Archive Vault 12 — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -349,7 +349,7 @@ Decades later, when dredge teams broke through the petrified silt of the collaps
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-114 [LO]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-114 [LO]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Object-Lament manifestation
 **Common Name:** A Letter Never Sent
 **Containment Status:** Contained — Sector-A-04 Archive Vault
 **Comprehension Level:** 1 — Initial

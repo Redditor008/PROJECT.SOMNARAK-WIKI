@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Furious and frozen |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A colossal figure frozen mid-strike, fist raised and jaw locked; its outer skin is grey pitted stone cracked in long fissures through which something dark and organic pulses, as if flesh were trying to break out of the rock. The stone is warm. Stare long enough and the raised fist seems to tremble — a blow held for centuries. |
 | **Movement** | Stationary — an artwork. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Stony Scowl* [**Debuff**] } | "Its face is fixed in fury — and looking at it long enough makes your own anger rise." | [The Statue radiates petrified wrath; the target's temper kindles in answer.] | *Target suffers -10 Resilience as reflected anger stirs.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target regards the Statue. |
-| { *The Cracking Calm* [**Debuff**] } | "Hairline cracks spread across the stone — the fury beneath is straining to get out." | [The Statue trembles; suppressed rage leaks through the fractures.] | *Target loses 10 Resilience; the tension is unbearable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers near. |
-| { *The Stone Fist* [**Attack**] } | "A fist of frozen anger comes down — slow, inevitable, furious." | [A massive blow from a hand locked in rage for centuries.] | *Inflicts Crimson pressure and one shattering wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Statue is provoked. |
-| { *The Bursting Forth* [**Attack**] } | "The stone can no longer hold it — the statue erupts into living fury." | [The Statue breaks its stone shell and unleashes the wrath within.] | *A heavy Crimson eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Statue is damaged or denied. |
-| { *The Rage Statue to Wrath* [**Ultimate**] } | "It plants itself as a monument — and the wrath becomes permanent, radiating forever." | [The Statue settles into eternal anger, flooding the area with rage.] | *All in range suffer Crimson pressure for three turns under the monument.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Stony Scowl* [**Debuff**] } | "Its face is fixed in fury — and looking at it long enough makes your own anger rise." | [The Statue radiates petrified wrath; the target's temper kindles in answer.] | *Target suffers -10 Resilience as reflected anger stirs.* **[10 Grudge DMG [Grudge]]** | When the target regards the Statue. |
+| { *The Cracking Calm* [**Debuff**] } | "Hairline cracks spread across the stone — the fury beneath is straining to get out." | [The Statue trembles; suppressed rage leaks through the fractures.] | *Target loses 10 Resilience; the tension is unbearable.* **[10 Grudge DMG [Grudge]]** | When the target lingers near. |
+| { *The Stone Fist* [**Attack**] } | "A fist of frozen anger comes down — slow, inevitable, furious." | [A massive blow from a hand locked in rage for centuries.] | *Inflicts Grudge pressure and one shattering wound.* **[14-22 Grudge DMG [Grudge]]** | When the Statue is provoked. |
+| { *The Bursting Forth* [**Attack**] } | "The stone can no longer hold it — the statue erupts into living fury." | [The Statue breaks its stone shell and unleashes the wrath within.] | *A heavy Crimson eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Statue is damaged or denied. |
+| { *The Rage Statue to Wrath* [**Ultimate**] } | "It plants itself as a monument — and the wrath becomes permanent, radiating forever." | [The Statue settles into eternal anger, flooding the area with rage.] | *All in range suffer Grudge pressure for three turns under the monument.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Breach Type** | Corrupt |
 | **Movement** | The Rage Statue intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Rage Statue (C-IIIγ-190 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge (Crimson). The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.
+The Rage Statue (C-IIIγ-190 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The Statue remains fixed while its rage spreads through nearby personnel. Personnel feel anger belonging to someone unable to fight back. Its rage affects personnel who stand before it.
@@ -361,7 +361,7 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 > *“One day the city will let it fall. One day.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-190 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-190 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Grudge manifestation
 **Common Name:** The Rage Statue
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic

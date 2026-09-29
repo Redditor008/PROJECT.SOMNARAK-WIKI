@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A warm crimson Han-iron Tail charm with an invisible weight suspended below it. Carrying Nothing granted it after Haneulash acknowledged a loss without naming it. Bestowal chance is 5%.
+A warm Grudge Han-iron Tail charm with an invisible weight suspended below it. Carrying Nothing granted it after Haneulash acknowledged a loss without naming it. Bestowal chance is 5%.
 
 ## Appearance
 

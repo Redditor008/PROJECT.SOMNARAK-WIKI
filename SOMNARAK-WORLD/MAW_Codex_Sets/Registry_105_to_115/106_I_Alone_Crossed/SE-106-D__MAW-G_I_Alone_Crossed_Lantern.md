@@ -18,7 +18,7 @@
 |---|---|
 | Official name | I Alone Crossed Lantern |
 | Set | Far Shore |
-| Type / grade / element | Stigma, blue route lantern / δ — Critical / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue route lantern / δ — Critical / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; incident review required after all use |
 | Known bearer | Cartographer Yeonhwa |

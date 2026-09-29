@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Unsaid Requiem |
 | Set | Last Sentences |
-| Type / grade / element | Weapon / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Weapon / β — Moderate / Lament |
 | Status | Active; disclosure-purpose review required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Sooah Park |

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Deadline Watch |
 | Set | Time to Act |
-| Type / grade / element | Stigma, black watch-charm / β — Moderate / Weight — Black |
+| Type / grade / element | Stigma, black watch-charm / β — Moderate / Weight |
 | Slot | Head |
 | Status | Bearer-bound; support-plan use only |
 | Known bearer | Specialist Sooah Park |

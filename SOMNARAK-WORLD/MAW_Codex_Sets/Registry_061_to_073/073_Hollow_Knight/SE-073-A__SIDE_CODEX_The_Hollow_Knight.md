@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence | IV — Entity |
 | Potency | γ — Major |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | Empty ancient armor with weapon and shield |
 | Location | SECTOR-B-01, duty-continuity chamber |
 | Comprehension Level | 3 — Understood |

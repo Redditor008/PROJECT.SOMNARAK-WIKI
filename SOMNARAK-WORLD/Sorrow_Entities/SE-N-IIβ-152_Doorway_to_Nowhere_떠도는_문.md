@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning door-shaped figure that walks on a threshold with no wall around it — a frame of charred wood and live fire, its handle opening onto a different memory each time. Fever-warm, it smells of cold rain and char; a door that comes to you. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Knock* [**Debuff**] } | "A door appears in a wall that had no door — and then it knocks." | [The Door manifests; the knock is a question the target must answer.] | *Target suffers -10 Composure; the door wants to be opened.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Door appears. |
-| { *The Wrong Room* [**Debuff**] } | "You open it — and the room behind it is one you left years ago, and never wanted to see again." | [The Door opens onto old grief; the target is pulled toward the threshold.] | *Target loses 10 Composure; the room behind the door calls.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target opens the Door. |
-| { *The Slam* [**Attack**] } | "The door swings shut on you — hard, final, and from the wrong side." | [The Door strikes as it closes.] | *Inflicts Deep Blue pressure and one heavy, wooden blow.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Door is resisted. |
-| { *The Locked Out* [**Attack**] } | "The door locks behind you — and now you are on the side you did not choose." | [The Door seals the target on the wrong side of the threshold.] | *A heavy Deep Blue exile; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Door is forced. |
-| { *A Thousand Doors* [**Ultimate**] } | "Doors appear in every wall — and behind every one, a grief you have to face." | [The Door multiplies across every surface, all of them knocking.] | *All in range suffer Deep Blue pressure for three turns among the open doors.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Knock* [**Debuff**] } | "A door appears in a wall that had no door — and then it knocks." | [The Door manifests; the knock is a question the target must answer.] | *Target suffers -10 Composure; the door wants to be opened.* **[10 Lament DMG [Lament]]** | When the Door appears. |
+| { *The Wrong Room* [**Debuff**] } | "You open it — and the room behind it is one you left years ago, and never wanted to see again." | [The Door opens onto old grief; the target is pulled toward the threshold.] | *Target loses 10 Composure; the room behind the door calls.* **[10 Lament DMG [Lament]]** | When the target opens the Door. |
+| { *The Slam* [**Attack**] } | "The door swings shut on you — hard, final, and from the wrong side." | [The Door strikes as it closes.] | *Inflicts Lament pressure and one heavy, wooden blow.* **[14-22 Lament DMG [Lament]]** | When the Door is resisted. |
+| { *The Locked Out* [**Attack**] } | "The door locks behind you — and now you are on the side you did not choose." | [The Door seals the target on the wrong side of the threshold.] | *A heavy Deep Blue exile; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Door is forced. |
+| { *A Thousand Doors* [**Ultimate**] } | "Doors appear in every wall — and behind every one, a grief you have to face." | [The Door multiplies across every surface, all of them knocking.] | *All in range suffer Lament pressure for three turns among the open doors.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a key-charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a key-charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Doorway to Nowhere (N-IIβ-152 [LS]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The Door formed from people who left home without knowing whether they could return. Held at Zone A, Alpha Tree. It appears near old thresholds and sealed rooms.
+Doorway to Nowhere (N-IIβ-152 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Door formed from people who left home without knowing whether they could return. Held at Zone A, Alpha Tree. It appears near old thresholds and sealed rooms.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through Alpha Tree corridors seeking thresholds. Personnel feel rage toward every home they cannot return to. Its flame is emotional rather than physical.
@@ -348,7 +348,7 @@ Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door to
 > *“Doors that lead to homes that no longer exist, held by families who left not knowing whether they could return.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-152 [LS]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-152 [LS]` · Per classification origin · Per classification coherence · Per classification potency · Lament · Subject-Grudge manifestation
 **Common Name:** Doorway to Nowhere
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic

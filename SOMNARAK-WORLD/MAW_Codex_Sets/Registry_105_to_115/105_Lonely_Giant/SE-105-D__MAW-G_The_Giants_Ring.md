@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Giant’s Ring |
 | Set | Room to Stand |
-| Type / grade / element | Stigma, black Han-steel ring / γ — Major / Weight — Black |
+| Type / grade / element | Stigma, Weight Han-steel ring / γ — Major / Weight |
 | Slot | Head |
 | Status | Bearer-bound; handling and empathy review required |
 | Known bearer | Specialist Nari Kwon |

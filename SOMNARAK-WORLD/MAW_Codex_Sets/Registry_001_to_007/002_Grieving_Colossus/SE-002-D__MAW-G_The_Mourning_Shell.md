@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Accessory (Stigma) |
 | **Grade** | δ — Critical |
-| **Element** | Weight — Black |
+| **Element** | Weight |
 | **Slot** | Head |
 | **Acquisition Probability** | 4% |
 | **Stat Effect** | +3 when working the Grieving Colossus source record |

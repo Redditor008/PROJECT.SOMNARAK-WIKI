@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A lens-ground disc of pale Han-glass, almost colorless, with an edge visible only when it crosses a memory boundary. It pulses in time with Somnalith’s slow breath. Extraction was performed from a dream echo after the source remained undisturbed for a complete rest cycle.
+A lens-ground disc of Void Han-glass, almost colorless, with an edge visible only when it crosses a memory boundary. It pulses in time with Somnalith’s slow breath. Extraction was performed from a dream echo after the source remained undisturbed for a complete rest cycle.
 
 A binder must name an external stimulus to remove and one internal memory they will not pursue. Rejection deletes the second statement before the weapon activates.
 

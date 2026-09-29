@@ -21,7 +21,7 @@ The Flame formed from a fire extinguished before its owner could grieve. The pai
 | Source designation | C-IVδ-763 [LP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree vault |
+| Element / Location | Lament / Zone A, Alpha Tree vault |
 | Gauge / Pressure | 993/993; starts 60–80% / 27–60 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony. |
@@ -52,7 +52,7 @@ During the The Memorial Flame Mid Ceremony Source-Trace, the field team preserve
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Memorial Flame Mid-Ceremony's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Complete the memorial without attempting to recreate the original flame The set cannot heal the originating event. Misuse routes Memorial Flame Mid-Ceremony's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Memorial Flame Mid-Ceremony's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon opens only the immediate manifestation that violates this rule: Complete the memorial without attempting to recreate the original flame The set cannot heal the originating event. Misuse routes Memorial Flame Mid-Ceremony's wound through the operator and triggers the recorded escalation.
 
 ---
 

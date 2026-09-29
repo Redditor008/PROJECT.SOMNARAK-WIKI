@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | IV — Entity / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | SECTOR-B-02, Zone B |
 | Form | A saint-shaped humanoid of cracking stone and dark Han-crystal, forever crumbling without ever reaching the floor. |
 | Gauge / pressure | 45–65% / Weight 18–41 |

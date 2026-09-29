@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — Not a body but a chamber in the Mask Market: an unnamed relic asleep beneath walls that bend inward toward it, as if listening. Bloodless-cold, it smells of ash; the relic has never been identified, and never wakes. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dormant Pulse* [**Debuff**] } | "The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and the deep brain." | [The Relic's dormant energy field permeates the target; they feel ancient potential.] | *Target suffers a Void mark; the sleeping artifact is aware of them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |
-| { *The Dream-Glow* [**Debuff**] } | "The relic glows faintly — dreaming of the power it used to hold — and the glow pulls at your own stored energy." | [The Relic's dream-state drains the target subtly.] | *Target loses clarity; their energy is being siphoned by a dream.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Sleep-Reflex* [**Attack**] } | "The relic twitches — an involuntary discharge of dormant power." | [An accidental burst from the sleeping Relic.] | *Inflicts Void damage; the reflex-discharge erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Relic is touched. |
-| { *The Full Awakening* [**Attack**] } | "The relic wakes — and for one instant, it is as powerful as it ever was — and the power is staggering." | [The Relic's brief awakening releases its complete stored potential.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Relic is forced awake. |
-| { *The Waking Vault* [**Ultimate**] } | "Every dormant relic in the field awakens — and the combined discharge of ancient power overwhelms everything." | [The Relic extends its waking across the whole area.] | *All in range suffer Pale White erosion for three turns of waking artifacts.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dormant Pulse* [**Debuff**] } | "The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and the deep brain." | [The Relic's dormant energy field permeates the target; they feel ancient potential.] | *Target suffers a Void mark; the sleeping artifact is aware of them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |
+| { *The Dream-Glow* [**Debuff**] } | "The relic glows faintly — dreaming of the power it used to hold — and the glow pulls at your own stored energy." | [The Relic's dream-state drains the target subtly.] | *Target loses clarity; their energy is being siphoned by a dream.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Sleep-Reflex* [**Attack**] } | "The relic twitches — an involuntary discharge of dormant power." | [An accidental burst from the sleeping Relic.] | *Inflicts Void damage; the reflex-discharge erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Relic is touched. |
+| { *The Full Awakening* [**Attack**] } | "The relic wakes — and for one instant, it is as powerful as it ever was — and the power is staggering." | [The Relic's brief awakening releases its complete stored potential.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Relic is forced awake. |
+| { *The Waking Vault* [**Ultimate**] } | "Every dormant relic in the field awakens — and the combined discharge of ancient power overwhelms everything." | [The Relic extends its waking across the whole area.] | *All in range suffer Void erosion for three turns of waking artifacts.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Relic Waiting for Its Maker: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Relic Waiting for Its Maker: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a cover-plate of pale Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a cover-plate of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -251,7 +251,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Relic Waiting for Its Maker (O-IIIγ-651 [VP]) is logged as a Place-Grudge manifestation expressing Void (Pale White). The place formed around a relic whose owner never woke to reclaim it. Held at Zone C, Mask Market. The relic itself has never been fully observed.
+Relic Waiting for Its Maker (O-IIIγ-651 [VP]) is logged as a Place-Grudge manifestation expressing Void. The place formed around a relic whose owner never woke to reclaim it. Held at Zone C, Mask Market. The relic itself has never been fully observed.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Walls move subtly in response to speech.
@@ -386,7 +386,7 @@ Some sorrows mourn a maker. Relic Waiting for Its Maker mourns the making — th
 > *“A purpose sealed in sleep beside the one who gave it.”* — Mender, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-651 [VP]` · Void (Pale White) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-651 [VP]` · Void · Place-Grudge manifestation
 **Common Name:** Relic Waiting for Its Maker
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic

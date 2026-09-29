@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IVδ-918 [VT] |
 | Type / Manifestation | Time — Can breach via Transform / Time-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Void (Pale White) / SECTOR-C-918, contained |
+| Element / Location | Void / SECTOR-C-918, contained |
 | Gauge / Pressure | 513/513; starts 35–50% / 14–20 per hit · Void |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Ninety Seconds Source-Trace, the field team preserved this source
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Ninety Seconds's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Ninety Seconds's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Ninety Seconds's source condition, the Suit lets a witness bear its Void pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Ninety Seconds's wound through the operator and triggers the recorded escalation.
 
 ---
 

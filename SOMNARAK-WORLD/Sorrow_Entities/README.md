@@ -57,10 +57,10 @@ Every entity file documents the entity's response (Positive, Neutral, Negative) 
 ## The Four Han Damage Affinities
 
 Combat and containment interactions involve four fundamental elements:
-- **Grudge (원한 / Crimson)**: Direct physical and structural trauma.
-- **Lament (비탄 / Blue)**: Psychological breakdown, despair, and weeping erosion.
-- **Void (공허 / Pale White)**: Existential erasure targeting the soul and memory.
-- **Weight (비중 / Black)**: Irreversible gravitational and percentage-based collapse.
+- **Grudge (원한)**: Direct physical and structural trauma.
+- **Lament (비탄)**: Psychological breakdown, despair, and weeping erosion.
+- **Void (공허)**: Existential erasure targeting the soul and memory.
+- **Weight (비중)**: Irreversible gravitational and percentage-based collapse.
 
 ---
 

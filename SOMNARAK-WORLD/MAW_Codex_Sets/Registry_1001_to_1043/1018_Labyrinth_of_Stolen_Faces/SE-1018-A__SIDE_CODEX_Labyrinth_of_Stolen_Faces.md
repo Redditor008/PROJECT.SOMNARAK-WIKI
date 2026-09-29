@@ -21,7 +21,7 @@ The Maze formed from confusion between memory, dream, and reality. The fear of n
 | Source designation | C-IVγ-180 [VP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
 | Coherence / Potency | Entity (IV) — Self-aware, labyrinthine, trapping / Major (γ) |
-| Element / Location | Void (Pale White) / SECTOR-B-02, beneath Old Lament |
+| Element / Location | Void / SECTOR-B-02, beneath Old Lament |
 | Gauge / Pressure | 683/683; starts 45–65% / 18–41 per hit · Void |
 | Observation | 3 — Advanced |
 | Formation event | Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place. |
@@ -52,7 +52,7 @@ During the The Labyrinth of Stolen Faces Source-Trace, the field team preserved 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Labyrinth of Stolen Faces's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Maintain a memory anchor and limit exploration time The set cannot heal the originating event. Misuse routes Labyrinth of Stolen Faces's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Labyrinth of Stolen Faces's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Maintain a memory anchor and limit exploration time The set cannot heal the originating event. Misuse routes Labyrinth of Stolen Faces's wound through the operator and triggers the recorded escalation.
 
 ---
 

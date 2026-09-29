@@ -21,7 +21,7 @@ The Trace formed from a grievance carried through places rather than people. The
 | Source designation | C-Iα-175 [GP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Grudge (Crimson) / Zone D, Mantle Commons |
+| Element / Location | Grudge / Zone D, Mantle Commons |
 | Gauge / Pressure | 225/225; starts 25–40% / 2–8 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | A route through Mantle Commons held years of conflict; the repeated anger marked the ground. |
@@ -52,7 +52,7 @@ During the The Anger Underfoot Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Anger Underfoot's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Map the trace and stop repeating the grievance The set cannot heal the originating event. Misuse routes Anger Underfoot's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Anger Underfoot's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Map the trace and stop repeating the grievance The set cannot heal the originating event. Misuse routes Anger Underfoot's wound through the operator and triggers the recorded escalation.
 
 ---
 

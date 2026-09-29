@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A sleeping humanoid carved of black weight-crystal, lying beneath the tunnels, eyes closed, weeping quietly in its sleep. Lead-heavy and cold, it smells of wet stone; it has never woken, and no one is sure it can. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Restless Turn* [**Debuff**] } | "It stirs in its sleep, and the whole floor shifts under you." | [The Weight turns over in slumber; the ground lurches and the pressure redistributes.] | *Target suffers -10 Resolve from the sudden shift of mass.* **[10 Black DMG [Black / Weight]]** | When the Weight is disturbed in its sleep. |
-| { *The Dreaming Pressure* [**Debuff**] } | "Its dreams press outward — and you are inside one now." | [The Weight's dreams seep into the waking space; the target moves through someone else's sleep.] | *Target loses 10 Resolve; reality feels half-dissolved.* **[10 Black DMG [Black / Weight]]** | When the target lingers near the sleeper. |
-| { *The Sighing Blow* [**Attack**] } | "Even its sigh, in sleep, is enough to buckle a wall." | [A sleeping sigh becomes a wave of crushing weight rolling outward.] | *Inflicts Black pressure and one heavy wound.* **[14-22 Black DMG [Black / Weight]]** | When the Weight is touched or startled. |
-| { *The Waking Fit* [**Attack**] } | "It nearly wakes — and the almost-waking is worse than sleep." | [A convulsion of near-waking; the Weight lashes out blindly with immense force.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Weight is hurt or shaken. |
-| { *If It Wakes* [**Ultimate**] } | "Do not let it wake. If it wakes, the weight of it will be on all of you." | [The Weight surges toward full waking; the threat of its complete mass bears down on everything.] | *All personnel suffer Black pressure for three turns as it stirs.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Restless Turn* [**Debuff**] } | "It stirs in its sleep, and the whole floor shifts under you." | [The Weight turns over in slumber; the ground lurches and the pressure redistributes.] | *Target suffers -10 Resolve from the sudden shift of mass.* **[10 Weight DMG [Weight]]** | When the Weight is disturbed in its sleep. |
+| { *The Dreaming Pressure* [**Debuff**] } | "Its dreams press outward — and you are inside one now." | [The Weight's dreams seep into the waking space; the target moves through someone else's sleep.] | *Target loses 10 Resolve; reality feels half-dissolved.* **[10 Weight DMG [Weight]]** | When the target lingers near the sleeper. |
+| { *The Sighing Blow* [**Attack**] } | "Even its sigh, in sleep, is enough to buckle a wall." | [A sleeping sigh becomes a wave of crushing weight rolling outward.] | *Inflicts Weight pressure and one heavy wound.* **[14-22 Weight DMG [Weight]]** | When the Weight is touched or startled. |
+| { *The Waking Fit* [**Attack**] } | "It nearly wakes — and the almost-waking is worse than sleep." | [A convulsion of near-waking; the Weight lashes out blindly with immense force.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Weight is hurt or shaken. |
+| { *If It Wakes* [**Ultimate**] } | "Do not let it wake. If it wakes, the weight of it will be on all of you." | [The Weight surges toward full waking; the threat of its complete mass bears down on everything.] | *All personnel suffer Weight pressure for three turns as it stirs.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 10-15
 **Speed:** 3 (Fast)
@@ -188,7 +188,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a weighted mantle of black Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a weighted mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -206,7 +206,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sleeping Weight (C-IVδ-357 [WS]) is logged as a Subject-Lament manifestation expressing Weight (Black). The Weight formed from responsibility carried unconsciously. Held at Zone B, deep tunnels. It has never fully awakened.
+Sleeping Weight (C-IVδ-357 [WS]) is logged as a Subject-Lament manifestation expressing Weight. The Weight formed from responsibility carried unconsciously. Held at Zone B, deep tunnels. It has never fully awakened.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Its influence rises through the deep tunnels. Personnel feel every duty they have accepted as physical weight. Its dreams alter local gravity.
@@ -346,7 +346,7 @@ Some sorrows are about sacrifice. Sleeping Weight is about unrecognized sacrific
 > *“He never received the news that the others were safe. He could have let go. He did not know.”* — Elder, Tunnels
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-357 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-357 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Lament manifestation
 **Common Name:** Sleeping Weight
 **Containment Status:** Contained — Zone D (tunnels)
 **Comprehension Level:** 3 — Advanced

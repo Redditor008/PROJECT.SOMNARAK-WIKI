@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, final, absolute |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A translucent figure woven from the final moments of everyone who has ever died in Somnarak — its form flickering between thousands of faces and last thoughts, never settling on one. Bloodless-cold and light, it smells of ash; to look at it is to glimpse a death. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fading Image* [**Debuff**] } | "A memory appears — the last one. After this, there is nothing else to remember." | [Every Last Goodbye presents itself; the target feels the finality.] | *Target suffers a Void mark; what comes after memory is void.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target witnesses the Memory. |
-| { *The Edge of Recall* [**Debuff**] } | "You are at the end of remembering — and beyond this memory, there is only blank." | [Every Last Goodbye shows the target the edge of their own past.] | *Target loses clarity; the void after the last memory is vast.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target touches the Memory. |
-| { *The Final Frame* [**Attack**] } | "The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut." | [The Memory hardens and strikes.] | *Inflicts Void damage; the final recollection erases what comes after.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Memory is disturbed. |
-| { *The Full Recall* [**Attack**] } | "The last memory releases everything it held — a lifetime, compressed into one final, devastating burst." | [The Memory detonates its complete contents.] | *A heavy Void explosion; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Memory is forced. |
-| { *The Blank After* [**Ultimate**] } | "The last memory fades — and now everyone has reached the end of remembering, and beyond is only void." | [The Memory extends its finality across the whole field.] | *All in range suffer Pale White erosion for three turns of total blankness.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fading Image* [**Debuff**] } | "A memory appears — the last one. After this, there is nothing else to remember." | [Every Last Goodbye presents itself; the target feels the finality.] | *Target suffers a Void mark; what comes after memory is void.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target witnesses the Memory. |
+| { *The Edge of Recall* [**Debuff**] } | "You are at the end of remembering — and beyond this memory, there is only blank." | [Every Last Goodbye shows the target the edge of their own past.] | *Target loses clarity; the void after the last memory is vast.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Memory. |
+| { *The Final Frame* [**Attack**] } | "The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut." | [The Memory hardens and strikes.] | *Inflicts Void damage; the final recollection erases what comes after.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Memory is disturbed. |
+| { *The Full Recall* [**Attack**] } | "The last memory releases everything it held — a lifetime, compressed into one final, devastating burst." | [The Memory detonates its complete contents.] | *A heavy Void explosion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Memory is forced. |
+| { *The Blank After* [**Ultimate**] } | "The last memory fades — and now everyone has reached the end of remembering, and beyond is only void." | [The Memory extends its finality across the whole field.] | *All in range suffer Void erosion for three turns of total blankness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -211,7 +211,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** an hour-token of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** an hour-token of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void (Pale White). The entity formed from final moments that had no witness. Held at SECTOR-A-01, Alpha Tree deep vault. It holds every recorded death and many unrecorded ones.
+Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void. The entity formed from final moments that had no witness. Held at SECTOR-A-01, Alpha Tree deep vault. It holds every recorded death and many unrecorded ones.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Its memories spread through the Alpha Tree vault. Personnel experience the final moments of the dead and glimpse their own. It communicates through feeling rather than speech.
@@ -349,7 +349,7 @@ Some sorrows mourn the dead. Every Last Goodbye mourns the moment of dying — t
 > *“Someone, at least, is witnessing them. That is the mercy.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-230 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-230 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Void manifestation
 **Common Name:** Every Last Goodbye
 **Containment Status:** Contained — Old Lament
 **Comprehension Level:** 3 — Advanced

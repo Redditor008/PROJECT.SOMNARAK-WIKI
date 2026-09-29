@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike figure assembled from broken mirror shards fused with black weight-crystal, each shard reflecting a different self — a body made of every person the viewer has been. Lead-cold and sharp, it smells of wet stone; never the same shape twice. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Heavy Shard* [**Debuff**] } | "A shard of the broken mirror presses on your chest — heavier than glass should be." | [The Mirror's fragments carry weight; the target is burdened by their reflection.] | *Target suffers -10 Resolve; the self-image is physically heavy.* **[10 Black DMG [Black / Weight]]** | When the target picks up a shard. |
-| { *The Distorted Mass* [**Debuff**] } | "The broken pieces show a body that is not yours — heavier, older, sadder." | [The Mirror's shattered images distort the target's self-perception gravitationally.] | *Target loses 10 Resolve; they feel heavier just by looking.* **[10 Black DMG [Black / Weight]]** | When the target gathers the shards. |
-| { *The Crushing Reflection* [**Attack**] } | "A shard slams into you — and the weight of the broken self it carries is enormous." | [A weighted shard impacts the target.] | *Inflicts Black pressure and one heavy, reflective wound.* **[14-22 Black DMG [Black / Weight]]** | When the Mirror is disturbed. |
-| { *The Full Reassembly* [**Attack**] } | "The shards fly together — briefly, the mirror is whole — and then it detonates." | [The Mirror reconstitutes and immediately shatters again.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Mirror is forced together. |
-| { *The Shard Avalanche* [**Ultimate**] } | "Every shard in the field becomes heavy — impossibly heavy — and they all fall at once." | [The Mirror's weight spreads to every fragment.] | *All in range suffer Black pressure for three turns in the avalanche of shards.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Heavy Shard* [**Debuff**] } | "A shard of the broken mirror presses on your chest — heavier than glass should be." | [The Mirror's fragments carry weight; the target is burdened by their reflection.] | *Target suffers -10 Resolve; the self-image is physically heavy.* **[10 Weight DMG [Weight]]** | When the target picks up a shard. |
+| { *The Distorted Mass* [**Debuff**] } | "The broken pieces show a body that is not yours — heavier, older, sadder." | [The Mirror's shattered images distort the target's self-perception gravitationally.] | *Target loses 10 Resolve; they feel heavier just by looking.* **[10 Weight DMG [Weight]]** | When the target gathers the shards. |
+| { *The Crushing Reflection* [**Attack**] } | "A shard slams into you — and the weight of the broken self it carries is enormous." | [A weighted shard impacts the target.] | *Inflicts Weight pressure and one heavy, reflective wound.* **[14-22 Weight DMG [Weight]]** | When the Mirror is disturbed. |
+| { *The Full Reassembly* [**Attack**] } | "The shards fly together — briefly, the mirror is whole — and then it detonates." | [The Mirror reconstitutes and immediately shatters again.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Mirror is forced together. |
+| { *The Shard Avalanche* [**Ultimate**] } | "Every shard in the field becomes heavy — impossibly heavy — and they all fall at once." | [The Mirror's weight spreads to every fragment.] | *All in range suffer Weight pressure for three turns in the avalanche of shards.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a mirror-tile of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a mirror-tile of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Mirror of Broken (N-IIIγ-127 [WS]) is logged as a Subject-Dream manifestation expressing Weight (Black). The entity formed from a self divided by leaving home. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
+Mirror of Broken (N-IIIγ-127 [WS]) is logged as a Subject-Dream manifestation expressing Weight. The entity formed from a self divided by leaving home. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams and Gate reflections. Personnel feel divided between city-self and exile-self. Its reflections are dreams, not ordinary images.
@@ -348,7 +348,7 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 > *“Crossing the Gate is a change of identity, not just location. The Gate showed him the change.”* — Elder, Gate District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-127 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-127 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Dream manifestation
 **Common Name:** Mirror of Broken
 **Containment Status:** Contained — the Desolate (near Gate)
 **Comprehension Level:** 2 — Basic

@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron fang with an empty central channel. It forms after current identity anchors stabilize without memory invention.
+A Grudge Han-iron fang with an empty central channel. It forms after current identity anchors stabilize without memory invention.
 
 Durivel cut a manipulative false biography from Hollowcast’s field. The outline remained angry and unknown; his old wounds bruised under the displaced rage.
 

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, cold, distant |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A humanoid figure made of frozen emotion rather than frozen water — beautiful, translucent, its body a shell of still, cold feeling. It radiates an emotional cold that numbs before it chills; bloodless-pale, it smells of ash. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Ice Curtain* [**Debuff**] } | "The veil forms — a wall of translucent ice between you and everything you were reaching for." | [The Veil's barrier cuts the target off; isolation sets in.] | *Target suffers a Void mark; they are sealed away.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Veil descends. |
-| { *The Frost Spread* [**Debuff**] } | "The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute." | [The Veil's permafrost extends; the target's space shrinks.] | *Target loses clarity; the cold is consuming thought.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains behind the Veil. |
-| { *The Ice Spear* [**Attack**] } | "A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get through." | [An ice-lance launches from the Veil.] | *Inflicts Void damage; the cold pierces through identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Veil is probed. |
-| { *The Full Shatter* [**Attack**] } | "The entire veil detonates — and the cold behind it floods through." | [The Veil's barrier explodes, releasing the cold it held back.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Veil is broken. |
-| { *The Permafrost* [**Ultimate**] } | "The ice does not stop — every surface freezes, every opening seals — and the world becomes a sealed, frozen void." | [The Veil extends its permafrost across the whole field.] | *All in range suffer Pale White erosion for three turns behind the eternal ice.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Ice Curtain* [**Debuff**] } | "The veil forms — a wall of translucent ice between you and everything you were reaching for." | [The Veil's barrier cuts the target off; isolation sets in.] | *Target suffers a Void mark; they are sealed away.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Veil descends. |
+| { *The Frost Spread* [**Debuff**] } | "The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute." | [The Veil's permafrost extends; the target's space shrinks.] | *Target loses clarity; the cold is consuming thought.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains behind the Veil. |
+| { *The Ice Spear* [**Attack**] } | "A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get through." | [An ice-lance launches from the Veil.] | *Inflicts Void damage; the cold pierces through identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Veil is probed. |
+| { *The Full Shatter* [**Attack**] } | "The entire veil detonates — and the cold behind it floods through." | [The Veil's barrier explodes, releasing the cold it held back.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Veil is broken. |
+| { *The Permafrost* [**Ultimate**] } | "The ice does not stop — every surface freezes, every opening seals — and the world becomes a sealed, frozen void." | [The Veil extends its permafrost across the whole field.] | *All in range suffer Void erosion for three turns behind the eternal ice.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)
@@ -201,7 +201,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -219,7 +219,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a heart-charm of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a heart-charm of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Frozen Veil (C-IVδ-103 [VS]) is logged as a Subject-Void manifestation expressing Void (Pale White). The Veil crystallized from the city's collective emotional distance. Held at SECTOR-A-01, Alpha Tree deep storage — contained. Thermometers register normal temperature despite personnel reporting -40°C cold.
+The Frozen Veil (C-IVδ-103 [VS]) is logged as a Subject-Void manifestation expressing Void. The Veil crystallized from the city's collective emotional distance. Held at SECTOR-A-01, Alpha Tree deep storage — contained. Thermometers register normal temperature despite personnel reporting -40°C cold.
 
 **Entry 2 — <Excerpt from Field Log, Year 4210>**
 Its cold radiates outward through corridors and adjacent rooms. Joy, sorrow, anger, and love fade from affected personnel. The Veil's effect is emotional, not physical.
@@ -361,7 +361,7 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 > *“The city taught its citizens not to feel. The Frozen Veil is what the teaching became.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-103 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-103 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Void manifestation
 **Common Name:** The Frozen Veil
 **Containment Status:** Semi-contained — Zone D (drifts)
 **Comprehension Level:** 3 — Advanced

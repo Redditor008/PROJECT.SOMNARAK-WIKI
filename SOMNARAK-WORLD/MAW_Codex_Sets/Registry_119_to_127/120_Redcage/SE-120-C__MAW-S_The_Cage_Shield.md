@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Cage Shield |
 | Set | Acknowledged Bars |
-| Type / grade / element | Suit, shield-backed harness / γ — Major / Grudge — Crimson |
+| Type / grade / element | Suit, shield-backed harness / γ — Major / Grudge |
 | Status | Active; confinement-impact review required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Minho Ashford |

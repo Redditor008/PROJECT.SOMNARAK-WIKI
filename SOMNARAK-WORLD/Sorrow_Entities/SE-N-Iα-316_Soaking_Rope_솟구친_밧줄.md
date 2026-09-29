@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Non-Organic — An empty rope-shaped figure that watches from the edge of consciousness — a loop of fibre with no visible hands or face, hanging as though from a neck that isn't there. Fever-cold, it smells of char; the shape of something tied and never untied. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slipknot* [**Debuff**] } | "A wet rope finds your throat — gentle, almost, the way a noose is gentle." | [The Rope settles around the target; the wet fibers cling.] | *Target suffers -10 Resilience; the rope has found its hold.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Rope is thrown. |
-| { *The Tightening* [**Debuff**] } | "Wet rope shrinks as it dries — and it is drying fast." | [The Rope constricts; wet hemp tightens with every breath.] | *Target loses 10 Resilience; each breath is harder than the last.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target fails to slip free. |
-| { *The Fray* [**Attack**] } | "The rope frays into wet lashes — and each strand bites." | [Frayed rope-ends whip at the target like switches.] | *Inflicts Crimson pressure and many thin, stinging cuts.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Rope is resisted. |
-| { *The Hanging* [**Attack**] } | "The rope lifts — and the sorrow in it is the sorrow of everyone who ever hung from one." | [The Rope hauls the target upward with accumulated agony.] | *A heavy Crimson strain; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Rope is pulled taut. |
-| { *Every Knot Undone* [**Ultimate**] } | "The rope unravels into a thousand wet strands — and each one finds a throat." | [The Rope spreads into a web of soaking cords across the field.] | *All personnel suffer Crimson pressure for three turns among the strands.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slipknot* [**Debuff**] } | "A wet rope finds your throat — gentle, almost, the way a noose is gentle." | [The Rope settles around the target; the wet fibers cling.] | *Target suffers -10 Resilience; the rope has found its hold.* **[10 Grudge DMG [Grudge]]** | When the Rope is thrown. |
+| { *The Tightening* [**Debuff**] } | "Wet rope shrinks as it dries — and it is drying fast." | [The Rope constricts; wet hemp tightens with every breath.] | *Target loses 10 Resilience; each breath is harder than the last.* **[10 Grudge DMG [Grudge]]** | When the target fails to slip free. |
+| { *The Fray* [**Attack**] } | "The rope frays into wet lashes — and each strand bites." | [Frayed rope-ends whip at the target like switches.] | *Inflicts Grudge pressure and many thin, stinging cuts.* **[14-22 Grudge DMG [Grudge]]** | When the Rope is resisted. |
+| { *The Hanging* [**Attack**] } | "The rope lifts — and the sorrow in it is the sorrow of everyone who ever hung from one." | [The Rope hauls the target upward with accumulated agony.] | *A heavy Crimson strain; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Rope is pulled taut. |
+| { *Every Knot Undone* [**Ultimate**] } | "The rope unravels into a thousand wet strands — and each one finds a throat." | [The Rope spreads into a web of soaking cords across the field.] | *All personnel suffer Grudge pressure for three turns among the strands.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Breach Type** | Corrupt |
 | **Movement** | Soaking Rope intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -190,7 +190,7 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -208,7 +208,7 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a knot-charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a knot-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Soaking Rope (N-Iα-316 [D]) is logged as a Subject-Void manifestation expressing Grudge (Crimson). The Rope formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.
+Soaking Rope (N-Iα-316 [D]) is logged as a Subject-Void manifestation expressing Grudge. The Rope formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through consciousness and abandoned memories. Personnel feel attached to someone who is absent. It binds emotionally but never physically.
@@ -346,7 +346,7 @@ Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's fai
 > *“The rope learned to hold on alone. The parent never came. The rope still holds.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-316 [D]` · Grudge (Crimson) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `N-Iα-316 [D]` · Grudge · Subject-Void manifestation
 **Common Name:** Soaking Rope
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 1 — Initial

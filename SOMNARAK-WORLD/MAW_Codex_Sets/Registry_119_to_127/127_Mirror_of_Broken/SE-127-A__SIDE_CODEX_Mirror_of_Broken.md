@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Subject — Subject-Dream |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | Zone E, Exile’s Gate vicinity |
 | Form | A dreamlike figure of broken mirror shards fused with black weight-crystal, each shard reflecting a different surviving self. |
 | Gauge / pressure | 45–65% / Weight 18–41 |

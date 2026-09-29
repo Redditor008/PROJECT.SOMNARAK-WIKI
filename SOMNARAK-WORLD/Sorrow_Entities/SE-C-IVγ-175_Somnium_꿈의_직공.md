@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, creative, manipulative |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A humanoid figure woven from thousands of luminous dream-threads rather than flesh — translucent, shifting, its face rearranging to match whoever dreams of it. Weightless and salt-warm, it smells of cold rain and sleep; the threads hum faintly. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Thread* [**Debuff**] } | "A single gossamer strand brushes your skin — and it is softer than it should be." | [The Weaver trails one dream-thread across the target; it clings.] | *Target suffers -10 Composure; sleep tugs at them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Weaver begins to work. |
-| { *The Loom Tightens* [**Debuff**] } | "The thread becomes a web, and the web becomes a cage of gossamer." | [More threads bind the target; the weave closes around them.] | *Target loses 10 Composure; they cannot move without tangling.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stays in the Weaver's reach. |
-| { *The Snare* [**Attack**] } | "The threads pull taut — and dream-stuff cuts sharper than wire." | [The woven threads snap tight, slicing through the target.] | *Inflicts Deep Blue pressure and one slicing wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the target struggles against the weave. |
-| { *The Waking Nightmare* [**Attack**] } | "The Weaver shows you what it has woven from your own dreams." | [A horror spun from the target's sleeping mind takes shape and strikes.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Weaver is disturbed or commanded. |
-| { *The Whole Tapestry* [**Ultimate**] } | "Every thread connects to every dreamer — and the Weaver pulls them all." | [The Weaver draws the full tapestry tight, tangling everyone in the weave.] | *All personnel suffer Deep Blue pressure for three turns in the web.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Thread* [**Debuff**] } | "A single gossamer strand brushes your skin — and it is softer than it should be." | [The Weaver trails one dream-thread across the target; it clings.] | *Target suffers -10 Composure; sleep tugs at them.* **[10 Lament DMG [Lament]]** | When the Weaver begins to work. |
+| { *The Loom Tightens* [**Debuff**] } | "The thread becomes a web, and the web becomes a cage of gossamer." | [More threads bind the target; the weave closes around them.] | *Target loses 10 Composure; they cannot move without tangling.* **[10 Lament DMG [Lament]]** | When the target stays in the Weaver's reach. |
+| { *The Snare* [**Attack**] } | "The threads pull taut — and dream-stuff cuts sharper than wire." | [The woven threads snap tight, slicing through the target.] | *Inflicts Lament pressure and one slicing wound.* **[14-22 Lament DMG [Lament]]** | When the target struggles against the weave. |
+| { *The Waking Nightmare* [**Attack**] } | "The Weaver shows you what it has woven from your own dreams." | [A horror spun from the target's sleeping mind takes shape and strikes.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Weaver is disturbed or commanded. |
+| { *The Whole Tapestry* [**Ultimate**] } | "Every thread connects to every dreamer — and the Weaver pulls them all." | [The Weaver draws the full tapestry tight, tangling everyone in the weave.] | *All personnel suffer Lament pressure for three turns in the web.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
 
 **Damage:** Lament 7–12
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -211,7 +211,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a thread-band of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a thread-band of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Somnium (C-IVγ-175 [LS]) is logged as a Subject-Dream manifestation expressing Lament (Deep Blue). The Weaver formed from dreams abandoned before they could be lived. Held at SECTOR-A-01, near Dream Gates. It is visible only partially outside the Dream layer.
+Somnium (C-IVγ-175 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Weaver formed from dreams abandoned before they could be lived. Held at SECTOR-A-01, near Dream Gates. It is visible only partially outside the Dream layer.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Spreads through sleeping personnel and Dream-layer corridors. Personnel confuse desire, memory, and present reality. Its dreams can be beautiful enough to overcome the will to wake.
@@ -348,7 +348,7 @@ Some sorrows mourn what was. Somnium mourns what might have been — the futures
 > *“Beautiful, and unbearable. Each thread is a life that was dreamed and not lived.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-175` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVγ-175` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Subject-Dream manifestation
 **Common Name:** Somnium
 **Containment Status:** Contained — Dream Gates
 **Comprehension Level:** 3 — Advanced

@@ -18,11 +18,11 @@
 |---|---|
 | Official name | The Memory Veil |
 | Set | Unremembered Lives |
-| Type / grade / element | Suit / γ — Major / Void — Pale White |
+| Type / grade / element | Suit / γ — Major / Void |
 | Status | Active; name-witness deployment only |
 | Maximum amount | 3 — Standard |
 | Current bearer | Chronicler Minseo |
-| Resting form | Pale Han-gossamer with a dark water sheen along the inner lining and no reflected face on the outer surface. |
+| Resting form | Void Han-gossamer with a dark water sheen along the inner lining and no reflected face on the outer surface. |
 | Active form | The Veil settles around the wearer’s outline while moving memories slide across it like distant reflections. |
 | Recognition rule | A name written in the collar remains visible only when a second person speaks it. |
 

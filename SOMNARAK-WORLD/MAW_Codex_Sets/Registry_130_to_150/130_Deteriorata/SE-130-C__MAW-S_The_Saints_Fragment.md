@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Saint’s Fragment |
 | Set | Held Together |
-| Type / grade / element | Suit, fragment-plate / γ — Major / Weight — Black |
+| Type / grade / element | Suit, fragment-plate / γ — Major / Weight |
 | Status | Active; responsibility-release checks required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Minho Ashford |

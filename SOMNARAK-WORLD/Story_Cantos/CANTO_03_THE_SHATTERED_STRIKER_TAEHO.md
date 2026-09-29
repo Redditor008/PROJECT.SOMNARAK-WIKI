@@ -143,7 +143,6 @@ As the squad entered, the entity's hollow chest opened.
 +---------------------------------------------------------------------+
 | ENTITY       : SE-N-IVb-019 (The Inherited Debt / Rank IV Entity)   |
 | CLASSIFICATN : Inner Sorrow (Subject-Mind) / Element: Weight        |
-| (Black)                                                             |
 | BURDEN FIELD : 4.8x Standard Gravity / Area Posture Drain -15/Turn  |
 | PSYCHIC LOAD : Ancestral Guilt Projection / Composure Strain        |
 | Critical                                                            |

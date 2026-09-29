@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Laughter Shroud |
 | Set | Joy After |
-| Type / grade / element | Suit / α — Minor / Lament — Deep Blue |
+| Type / grade / element | Suit / α — Minor / Lament |
 | Status | Active; communal-witness issue |
 | Maximum amount | 5 — Standard |
 | Current bearer | Specialist Kkotlom Lee |

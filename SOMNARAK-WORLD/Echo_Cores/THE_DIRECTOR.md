@@ -50,7 +50,7 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 | **Role** | Supreme authority of the Reverie Directorate |
 | **True Look** | Living Human altered by irreversible Ω-grade M.A.W. fusion; not a Cast Effigy |
 | **Sorrow** | City Sorrow (도한) |
-| **Signature** | Weight (Black) |
+| **Signature** | Weight |
 | **Manifestation** | Subject-Body — Reaper Hungered manifests through the fused left-arm mark |
 | **M.A.W.** | Reaper Hungered — Ω-grade, singular |
 | **Age** | 126 during the final Cycle; continues to age |
@@ -65,10 +65,10 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 
 | Attribute | Score | Band |
 |---|---:|---|
-| **Resilience** ♦ Deep Blue | **95** | Exceptional |
-| **Clarity** ♠ Pale White | **80** | Veteran |
-| **Composure** ♣ Crimson | **70** | Veteran |
-| **Resolve** ♦ Black | **99** | Exceptional |
+| **Resilience** ♦ | **95** | Exceptional |
+| **Clarity** ♠ | **80** | Veteran |
+| **Composure** ♣ | **70** | Veteran |
+| **Resolve** ♦ | **99** | Exceptional |
 
 Majin's Composure is the lowest of his four scores and sits below the Exceptional band. Echo-Core designation does not require every score to exceed 80.
 
@@ -417,7 +417,7 @@ The long curved staff measures two meters, cast from semi-translucent dark reson
 ##### Phantom Reptile Beast (Singular Ω-Release)
 - **Activation Stance:** Raises his left arm, exposing the searing forearm brand while fixing his optical gaze upon a single designated entity.
 - **Trajectory & Energy:** The colossal ancestral jaw-silhouette of the Maw erupts directly from the scythe's lattice, descending in a catastrophic closing arc.
-- **Reach & Impact:** Range 3 (Medium), single target, delivering 999 direct Weight (Black) damage that obliterates baseline defenses.
+- **Reach & Impact:** Range 3 (Medium), single target, delivering 999 direct Weight damage that obliterates baseline defenses.
 - **Hit Consequence & Aura:** Unleashes a room-spanning Slowness aura for 5 seconds; leaves Majin in an exhausted, defenseless collapse (consumes 90% HP and 90% SP).
 
 | Field | Registry Entry |
@@ -425,8 +425,8 @@ The long curved staff measures two meters, cast from semi-translucent dark reson
 | **Type** | Weapon — fused signature M.A.W. |
 | **Grade** | Ω — Singular |
 | **Bearer** | Majin only |
-| **Element** | Grudge (Crimson) + Lament (Deep Blue) |
-| **Bearer signature** | Weight (Black) |
+| **Element** | Grudge + Lament |
+| **Bearer signature** | Weight |
 | **Damage** | 10–20 Grudge direct |
 | **Secondary damage** | 3 Lament per second for 10 seconds |
 | **Tick interval** | 0.5 seconds — 1.5 Lament per Tick |
@@ -451,7 +451,7 @@ The long curved staff measures two meters, cast from semi-translucent dark reson
 | Field | Registry Entry |
 |---|---|
 | **Attack** | Single-target phantom bite |
-| **Damage** | 999 Weight (Black) |
+| **Damage** | 999 Weight |
 | **Secondary effect** | Room-sized Slowness aura |
 | **Aura duration** | 5 seconds |
 | **Activation cost** | 90% of Majin's HP + 90% of his SP |
@@ -459,7 +459,7 @@ The long curved staff measures two meters, cast from semi-translucent dark reson
 
 The bite targets one subject and does not use the scythe's Pierce falloff. One activation leaves him effectively defenseless for the remainder of an engagement; R.D. doctrine treats it as a last-resort authorization rather than a combat option.
 
-**Signature clarification:** Majin's personal sorrow signature is Weight (Black). Reaper Hungered's normal cut inflicts Grudge, and its aftertone inflicts Lament. The phantom beast separately inflicts Weight. Bearer signature, weapon element, and named-ability damage are distinct fields.
+**Signature clarification:** Majin's personal sorrow signature is Weight. Reaper Hungered's normal cut inflicts Grudge, and its aftertone inflicts Lament. The phantom beast separately inflicts Weight. Bearer signature, weapon element, and named-ability damage are distinct fields.
 
 ---
 

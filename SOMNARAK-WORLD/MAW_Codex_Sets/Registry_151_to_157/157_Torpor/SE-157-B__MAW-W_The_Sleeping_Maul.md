@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Sleeping Maul |
 | Set | Guarded Rest |
-| Type / grade / element | Weapon / δ — Critical / Weight — Black |
+| Type / grade / element | Weapon / δ — Critical / Weight |
 | Status | Restricted border issue; guarded-rest plan mandatory |
 | Maximum amount | 2 — Limited |
 | Current bearer | Sentinel Harin |

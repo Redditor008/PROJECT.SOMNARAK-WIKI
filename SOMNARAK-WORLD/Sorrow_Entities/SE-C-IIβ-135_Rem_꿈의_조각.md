@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats flickering |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Non-Organic — A flickering shard of the Dream realm that will not settle — shifting between the shape of a room, a face, and a single warm tear hung in the air. Never quite solid, never quite not; salt-damp, it smells of cold rain and something just below waking. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lucid Edge* [**Debuff**] } | "The fragment pulses — and for a moment, you cannot tell if you are awake or inside someone's broken dream." | [The Fragment destabilizes the target's sense of reality.] | *Target suffers -10 Composure; dream and waking bleed together.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target touches the Fragment. |
-| { *The Recurring Loop* [**Debuff**] } | "The same moment repeats — a fragment of a dream, looping — and you cannot wake from it." | [The Fragment traps the target in a dream-loop.] | *Target loses 10 Composure; they cannot distinguish repetition from reality.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Nightmare Shard* [**Attack**] } | "The fragment turns dark — and the dream becomes a nightmare, and the nightmare has teeth." | [The Fragment's dark side manifests as a striking horror.] | *Inflicts Deep Blue pressure and one surreal, dream-logic wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Fragment is disturbed. |
-| { *The Full Dream* [**Attack**] } | "The fragment expands — trying to reconstitute the whole dream — and the dream was terrible." | [The Fragment attempts completion, releasing its full stored narrative.] | *A heavy Deep Blue surge; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Fragment is forced whole. |
-| { *Everyone Dreams the Same Dream* [**Ultimate**] } | "The fragment multiplies — and everyone falls into the same broken dream at once." | [The Fragment spreads its dream-state across the whole field.] | *All in range suffer Deep Blue pressure for three turns of shared nightmare.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lucid Edge* [**Debuff**] } | "The fragment pulses — and for a moment, you cannot tell if you are awake or inside someone's broken dream." | [The Fragment destabilizes the target's sense of reality.] | *Target suffers -10 Composure; dream and waking bleed together.* **[10 Lament DMG [Lament]]** | When the target touches the Fragment. |
+| { *The Recurring Loop* [**Debuff**] } | "The same moment repeats — a fragment of a dream, looping — and you cannot wake from it." | [The Fragment traps the target in a dream-loop.] | *Target loses 10 Composure; they cannot distinguish repetition from reality.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Nightmare Shard* [**Attack**] } | "The fragment turns dark — and the dream becomes a nightmare, and the nightmare has teeth." | [The Fragment's dark side manifests as a striking horror.] | *Inflicts Lament pressure and one surreal, dream-logic wound.* **[14-22 Lament DMG [Lament]]** | When the Fragment is disturbed. |
+| { *The Full Dream* [**Attack**] } | "The fragment expands — trying to reconstitute the whole dream — and the dream was terrible." | [The Fragment attempts completion, releasing its full stored narrative.] | *A heavy Deep Blue surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Fragment is forced whole. |
+| { *Everyone Dreams the Same Dream* [**Ultimate**] } | "The fragment multiplies — and everyone falls into the same broken dream at once." | [The Fragment spreads its dream-state across the whole field.] | *All in range suffer Lament pressure for three turns of shared nightmare.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | Rem rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Rem activates its primary resonance: Induces a restorative lucid reverie, purging cognitive confusion and restoring +20 Composure. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the loss of an imagined life that felt more real than the waking one; the bearer begins perceiving echoes of a dreamer died before completing a cherished dream; its emotional residue broke loose near the dream gates. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Rem begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Rem begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Rem too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The dream is difficult to abandon; removing the shard induces drowsiness and -2 Movement Speed. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Rem: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Subject-Dream form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-A-01, near Dream Gates, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Rem: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Subject-Dream form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-01, near Dream Gates, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -310,7 +310,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Rem (C-IIβ-135 [LO]) is logged as a Dream manifestation expressing Lament (Deep Blue). The Fragment formed from a dream that was abandoned before waking. Held at SECTOR-A-01, near Dream Gates. It glows near sleeping personnel.
+Rem (C-IIβ-135 [LO]) is logged as a Dream manifestation expressing Lament. The Fragment formed from a dream that was abandoned before waking. Held at SECTOR-A-01, near Dream Gates. It glows near sleeping personnel.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Each observer sees a different fragment.
@@ -394,7 +394,7 @@ Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, 
 > *“The loneliest sorrow: a possibility, not a loss.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-135 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Dream manifestation
+**Classification:** Sorrow Entity — `C-IIβ-135 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Dream manifestation
 **Common Name:** Rem
 **Containment Status:** Contained — Dream Gates
 **Comprehension Level:** 2 — Basic

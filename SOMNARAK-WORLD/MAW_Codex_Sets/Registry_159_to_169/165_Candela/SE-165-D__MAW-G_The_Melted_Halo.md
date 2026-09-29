@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Melted Halo |
 | Set | Present Mercy |
-| Type / grade / element | Stigma, blue halo-circlet / δ — Critical / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue halo-circlet / δ — Critical / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; possible-risk disclosure requirement |
 | Known bearer | Specialist Sooah Park |

@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) — Barely formed, passive |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Mixed — A flower whose stem has become a sinuous stalk-body, roots coiling like legs, petals opening into a luminous maw — a small creeping predator-creature. Salt-damp, it smells of cold rain. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Opening Bud* [**Debuff**] } | "The flower opens — and the scent is every grief you have ever put aside, blooming at once." | [The Flower blooms; its sorrow-scent overwhelms the target.] | *Target suffers -10 Composure; old grief resurfaces in the fragrance.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target smells the Flower. |
-| { *The Wilting Petal* [**Debuff**] } | "A petal falls — and where it lands, the sorrow saturates the ground." | [The Flower sheds petals; each one carries concentrated grief.] | *Target loses 10 Composure; the ground is becoming sorrow-soaked.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers near the Flower. |
-| { *The Pollen Strike* [**Attack**] } | "The flower releases its pollen — and each grain is a tiny, sharp grief." | [A cloud of sorrow-pollen assaults the target.] | *Inflicts Deep Blue pressure and many small, stinging wounds.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Flower is shaken. |
-| { *The Full Bloom* [**Attack**] } | "The flower opens as wide as it can — and the sorrow it holds is vaster than its petals." | [The Flower releases its complete accumulated grief.] | *A heavy Deep Blue burst; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Flower is picked. |
-| { *The Sorrow Meadow* [**Ultimate**] } | "The whole field blooms — every flower a different grief, all of them open." | [The Flower spreads its bloom across the entire area.] | *All in range suffer Deep Blue pressure for three turns in the meadow of grief.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Opening Bud* [**Debuff**] } | "The flower opens — and the scent is every grief you have ever put aside, blooming at once." | [The Flower blooms; its sorrow-scent overwhelms the target.] | *Target suffers -10 Composure; old grief resurfaces in the fragrance.* **[10 Lament DMG [Lament]]** | When the target smells the Flower. |
+| { *The Wilting Petal* [**Debuff**] } | "A petal falls — and where it lands, the sorrow saturates the ground." | [The Flower sheds petals; each one carries concentrated grief.] | *Target loses 10 Composure; the ground is becoming sorrow-soaked.* **[10 Lament DMG [Lament]]** | When the target lingers near the Flower. |
+| { *The Pollen Strike* [**Attack**] } | "The flower releases its pollen — and each grain is a tiny, sharp grief." | [A cloud of sorrow-pollen assaults the target.] | *Inflicts Lament pressure and many small, stinging wounds.* **[14-22 Lament DMG [Lament]]** | When the Flower is shaken. |
+| { *The Full Bloom* [**Attack**] } | "The flower opens as wide as it can — and the sorrow it holds is vaster than its petals." | [The Flower releases its complete accumulated grief.] | *A heavy Deep Blue burst; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Flower is picked. |
+| { *The Sorrow Meadow* [**Ultimate**] } | "The whole field blooms — every flower a different grief, all of them open." | [The Flower spreads its bloom across the entire area.] | *All in range suffer Lament pressure for three turns in the meadow of grief.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -248,7 +248,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -266,7 +266,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a petal-tile of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a petal-tile of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -319,7 +319,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Mourner's Bloom (C-Iα-330 [D]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Flower formed from one honest moment of mourning. Held at Zone D, Echo Gardens. Flowers bloom in response to nearby sorrow.
+Mourner's Bloom (C-Iα-330 [D]) is logged as a Object-Lament manifestation expressing Lament. The Flower formed from one honest moment of mourning. Held at Zone D, Echo Gardens. Flowers bloom in response to nearby sorrow.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 They wilt when joy is forced rather than felt.
@@ -403,7 +403,7 @@ Some sorrows mourn a loss. Mourner's Bloom mourns the hiding — the grief the c
 > *“In the Gardens, the weeping grows into something beautiful. That is the mercy.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-330 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-330 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Lament manifestation
 **Common Name:** Mourner's Bloom
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic

@@ -22,7 +22,7 @@
 | Entity | Every Last Goodbye — 마지막 기억 |
 | Type / Manifestation | Subject — Subject-Void |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | A translucent figure woven from thousands of final faces, thoughts, fears, regrets, loves, and moments of peace. |
 | Gauge / Pressure | 60–80% / Void 22–48 |
 | Observation | 4 — Mastered |

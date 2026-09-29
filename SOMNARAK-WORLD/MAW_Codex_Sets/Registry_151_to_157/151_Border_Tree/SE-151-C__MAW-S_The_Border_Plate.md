@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Border Plate |
 | Set | Shared Ground |
-| Type / grade / element | Suit / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Suit / δ — Critical / Grudge |
 | Status | Boundary-defense issue with external passage review |
 | Maximum amount | 2 — Limited |
 | Current bearer | Specialist Minho Ashford |

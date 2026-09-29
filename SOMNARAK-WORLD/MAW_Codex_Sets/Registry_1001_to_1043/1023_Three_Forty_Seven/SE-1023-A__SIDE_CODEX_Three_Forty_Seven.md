@@ -21,7 +21,7 @@ The Clocktower formed from a moment that could not end. The weight of waiting in
 | Source designation | C-IVγ-240 [WP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Weight |
 | Coherence / Potency | Entity (IV) — Self-aware, time-obsessed / Major (γ) |
-| Element / Location | Weight (Black) / Zone C, near Collector's Row |
+| Element / Location | Weight / Zone C, near Collector's Row |
 | Gauge / Pressure | 772/772; starts 45–65% / 14–31 per hit · Weight |
 | Observation | 3 — Advanced |
 | Formation event | An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. |
@@ -52,7 +52,7 @@ During the The Three Forty Seven Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Three Forty-Seven's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Accept that the moment cannot be changed; limit exposure The set cannot heal the originating event. Misuse routes Three Forty-Seven's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Three Forty-Seven's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Accept that the moment cannot be changed; limit exposure The set cannot heal the originating event. Misuse routes Three Forty-Seven's wound through the operator and triggers the recorded escalation.
 
 ---
 

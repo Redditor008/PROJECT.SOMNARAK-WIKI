@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — A tower-shaped voice rising through consciousness rather than the world — heard as warm rain drumming against crystal, with no visible source. Salt-warm, it smells of cold rain; no tower, only the sound of one, falling. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Heavy Lean* [**Debuff**] } | "The tower leans — waterlogged, saturated — and the lean is getting worse with every drop it absorbs." | [The Tower's saturation transmits weight; the target feels waterlogged.] | *Target suffers -10 Composure; they are soaked with structural grief.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the Tower. |
-| { *The Weeping Stones* [**Debuff**] } | "Water runs from every crack, every joint — the tower is crying from the inside out." | [The Tower's internal sorrow-bleed saturates the air; the target is wading.] | *Target loses 10 Composure; the tears are structural.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target climbs. |
-| { *The Falling Slab* [**Attack**] } | "A waterlogged slab breaks free — heavy, saturated, falling like a wet stone." | [A soaked structural piece drops.] | *Inflicts Deep Blue pressure and one crushing, sodden wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Tower is struck. |
-| { *The Full Saturation* [**Attack**] } | "The tower gives up — every stone too saturated to hold — and it pours itself out in a flood." | [The Tower's total liquefaction releases its entire water-content.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Tower is undermined. |
-| { *The Drowned Skyline* [**Ultimate**] } | "Every tower in the field saturates and collapses — and the combined flood reshapes the whole area." | [The Tower extends its soaking across the whole area.] | *All in range suffer Deep Blue pressure for three turns of drowning towers.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Heavy Lean* [**Debuff**] } | "The tower leans — waterlogged, saturated — and the lean is getting worse with every drop it absorbs." | [The Tower's saturation transmits weight; the target feels waterlogged.] | *Target suffers -10 Composure; they are soaked with structural grief.* **[10 Lament DMG [Lament]]** | When the target enters the Tower. |
+| { *The Weeping Stones* [**Debuff**] } | "Water runs from every crack, every joint — the tower is crying from the inside out." | [The Tower's internal sorrow-bleed saturates the air; the target is wading.] | *Target loses 10 Composure; the tears are structural.* **[10 Lament DMG [Lament]]** | When the target climbs. |
+| { *The Falling Slab* [**Attack**] } | "A waterlogged slab breaks free — heavy, saturated, falling like a wet stone." | [A soaked structural piece drops.] | *Inflicts Lament pressure and one crushing, sodden wound.* **[14-22 Lament DMG [Lament]]** | When the Tower is struck. |
+| { *The Full Saturation* [**Attack**] } | "The tower gives up — every stone too saturated to hold — and it pours itself out in a flood." | [The Tower's total liquefaction releases its entire water-content.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tower is undermined. |
+| { *The Drowned Skyline* [**Ultimate**] } | "Every tower in the field saturates and collapses — and the combined flood reshapes the whole area." | [The Tower extends its soaking across the whole area.] | *All in range suffer Lament pressure for three turns of drowning towers.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a tear-drop charm of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a tear-drop charm of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Spire of Unanswered Prayer (O-IIβ-796 [LS]) is logged as a Subject-Spirit manifestation expressing Lament (Deep Blue). The Tower formed from an Outside Sorrow settlement that never stopped mourning its dead. Held at Zone A, Alpha Tree vault. Its song is warm but produces grief.
+Spire of Unanswered Prayer (O-IIβ-796 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Tower formed from an Outside Sorrow settlement that never stopped mourning its dead. Held at Zone A, Alpha Tree vault. Its song is warm but produces grief.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through dreams and Alpha Tree vaults. Personnel feel grief descending from above. The tower appears only in consciousness.
@@ -350,7 +350,7 @@ Some sorrows mourn a community. Spire of Unanswered Prayer mourns the calling �
 > *“A community that vanished and whose last act was to call, upward, for a salvation that never descended.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-796 [LS]` · Lament (Deep Blue) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IIβ-796 [LS]` · Lament · Subject-Spirit manifestation
 **Common Name:** Spire of Unanswered Prayer
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic

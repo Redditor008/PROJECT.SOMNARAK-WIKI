@@ -18,15 +18,15 @@ Each Echo-Core represents a fundamental aspect of human will, endurance, and sor
 
 | File Name | Name & Designation | Floor / Sector | True Look Effigy | Armament Classification | Signature Equipment / Weapon | Element Signature |
 |---|---|---|---|---|---|---|
-| `THE_DIRECTOR.md` | **Majin (마진)** | Floor 1 (Spires) | Human (Ω-Fusion) | Fused Singular M.A.W. | **Reaper Hungered** (Ω Scythe) | Weight (Black) / Grudge + Lament |
-| `THE_SECRETARY.md` | **Seiyon (세이연)** | Floor 1 (Central Admin) | Android Effigy | Administrative Interface | **The Promise** (Archive Engram Pages) | Lament (Deep Blue) + Void (Pale White) |
-| `THE_CONTAINMENT_LEAD.md` | **Dekan (데칸)** | Floor 2 (Maw's Keep) | Cyborg (Maw-Merged) | Living Biological Body Graft | **The Scaled Maw-Flesh Arm** | Grudge (Crimson) |
-| `THE_EXTRACTION_LEAD.md` | **Zyrak (지락)** | Floor 3 (Extraction Hall) | Android | Specialized Android Forge Gear | **Mechanical Hands & Extraction Rig** | Grudge (Crimson) + Void (Pale White) |
-| `THE_RESEARCH_LEAD.md` | **Ayshuk (아이숙)** | Floor 4 (Insight Forge) | Android | Specialized Cognitive Ledger | **Subject-Mind Research Ledger** | Void (Pale White) |
-| `THE_BORDER_LEAD.md` | **Mellda (멜다)** | Floor 5 (Border Watch) | Cyborg (Warden) | Specialize Manufactured Weapon | **Threshold Vow** (Arm-Blade / Shockwave) | Weight (Black) + Grudge (Crimson) |
-| `THE_ARCHIVE_LEAD.md` | **Marjuk (마주크)** | Floor 6 (Deep Vault) | Cryogen | Specialized Keeper Optical Relic | **Memory Lens & Whispering Catalog** | Void (Pale White) + Weight (Black) |
-| `THE_OUTSIDER.md` | **Ishall (이샬)** | Floor 7 (Shadow Corps) | Android (Enemy Chassis) | Specialize Before-Time Artifact | **Unanswered** (Paired Relic Gloves) | Grudge (Crimson) + Void (Pale White) |
-| `THE_EXILE.md` | **Xyan (시안)** | Floor 8 (Gate Watch) | Cyborg (Desolate-Changed) | Specialized Boundary Interface | **Neural Spine & Survival Route Gear** | Lament (Deep Blue) + Weight (Black) |
+| `THE_DIRECTOR.md` | **Majin (마진)** | Floor 1 (Spires) | Human (Ω-Fusion) | Fused Singular M.A.W. | **Reaper Hungered** (Ω Scythe) | Weight / Grudge + Lament |
+| `THE_SECRETARY.md` | **Seiyon (세이연)** | Floor 1 (Central Admin) | Android Effigy | Administrative Interface | **The Promise** (Archive Engram Pages) | Lament + Void |
+| `THE_CONTAINMENT_LEAD.md` | **Dekan (데칸)** | Floor 2 (Maw's Keep) | Cyborg (Maw-Merged) | Living Biological Body Graft | **The Scaled Maw-Flesh Arm** | Grudge |
+| `THE_EXTRACTION_LEAD.md` | **Zyrak (지락)** | Floor 3 (Extraction Hall) | Android | Specialized Android Forge Gear | **Mechanical Hands & Extraction Rig** | Grudge + Void |
+| `THE_RESEARCH_LEAD.md` | **Ayshuk (아이숙)** | Floor 4 (Insight Forge) | Android | Specialized Cognitive Ledger | **Subject-Mind Research Ledger** | Void |
+| `THE_BORDER_LEAD.md` | **Mellda (멜다)** | Floor 5 (Border Watch) | Cyborg (Warden) | Specialize Manufactured Weapon | **Threshold Vow** (Arm-Blade / Shockwave) | Weight + Grudge |
+| `THE_ARCHIVE_LEAD.md` | **Marjuk (마주크)** | Floor 6 (Deep Vault) | Cryogen | Specialized Keeper Optical Relic | **Memory Lens & Whispering Catalog** | Void + Weight |
+| `THE_OUTSIDER.md` | **Ishall (이샬)** | Floor 7 (Shadow Corps) | Android (Enemy Chassis) | Specialize Before-Time Artifact | **Unanswered** (Paired Relic Gloves) | Grudge + Void |
+| `THE_EXILE.md` | **Xyan (시안)** | Floor 8 (Gate Watch) | Cyborg (Desolate-Changed) | Specialized Boundary Interface | **Neural Spine & Survival Route Gear** | Lament + Weight |
 
 *(Note: Floor 7 is administered as the Shadow Corps operational sector, co-monitored by Zyrak and Seiyon.)*
 

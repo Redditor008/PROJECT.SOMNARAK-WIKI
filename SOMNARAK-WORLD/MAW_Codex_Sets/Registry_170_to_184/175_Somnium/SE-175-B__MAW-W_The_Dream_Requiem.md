@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dream Requiem |
 | Set | Unlived Thread |
-| Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Weapon / γ — Major / Lament |
 | Status | Dream-anchor issue only |
 | Maximum amount | 3 — Standard |
 | Current bearer | Dreamer Sora |

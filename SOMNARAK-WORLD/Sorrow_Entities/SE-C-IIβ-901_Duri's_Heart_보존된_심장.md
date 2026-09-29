@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Body |
 | **Physical Form** | Organic — A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's body pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight / Black]]** | When the entity first fixes on a target. |
-| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight body sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[18 Weight DMG [Weight / Black]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[26 Weight DMG [Weight / Black]]** | When the entity is cornered or starved. |
-| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[20 Weight DMG [Weight / Black] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's body pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
+| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight body sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[18 Weight DMG [Weight]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[26 Weight DMG [Weight]]** | When the entity is cornered or starved. |
+| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -101,7 +101,7 @@
 **Primary Form:** A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within.
 
 **Notable Features:**
-- Expresses Weight (Black) pressure in a body register.
+- Expresses Weight pressure in a body register.
 - The object form is unmistakable — this is a body entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -191,12 +191,12 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 |---|---|---|
 | 10 Seconds | Duri's Heart rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Duri's Heart activates its primary resonance: Projects concentrated Weight sorrow resonance across the immediate perimeter. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged weight; the bearer begins perceiving echoes of a crisis in the city where weight went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Duri's Heart begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Duri's Heart begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Duri's Heart too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Prolonged contact causes cognitive and emotional fatigue. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Duri's Heart: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Body form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-901, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Duri's Heart: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Body form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-901, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -220,7 +220,7 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a single-edged blade of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
 
 **Damage:** Weight 11–22
 **Speed:** 2 (Normal)
@@ -241,7 +241,7 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a flowing veil of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -259,7 +259,7 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a coin-token of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -353,7 +353,7 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-901 [WO]` · City Sorrow origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-901 [WO]` · City Sorrow origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Body manifestation
 
 **Common Name:** Duri's Heart
 
@@ -368,7 +368,7 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the body register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Weight (Black) · Object-Body · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Weight · Object-Body · Manifestation Classification
 
 ### Registry Addendum
 

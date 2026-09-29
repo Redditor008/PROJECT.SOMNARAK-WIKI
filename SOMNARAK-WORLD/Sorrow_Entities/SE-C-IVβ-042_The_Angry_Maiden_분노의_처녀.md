@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, fierce, burning |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, rigid with held fury — skin flushed dark, fists clenched, jaw set, heat radiating from her like a banked fire. She is warm, alive, and coiled to strike; the air around her carries the smell of char and old smoke. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Clenched Fist* [**Debuff**] } | "She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling." | [The Maiden's fury infects the target; their own anger rises unbidden.] | *Target suffers -10 Resilience; they are becoming angry without cause.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target approaches. |
-| { *The Rising Bile* [**Debuff**] } | "Her fury has no target — it is pure, undirected, and enormous. Just being near it makes you furious at everything." | [The Maiden's formless rage envelops the target.] | *Target loses 10 Resilience; everything becomes infuriating.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target remains near. |
-| { *The Slap* [**Attack**] } | "She strikes — hard, fast, and with the full force of a fury that has been building for centuries." | [A single devastating blow from a fist that has never unclenched.] | *Inflicts Crimson pressure and one heavy, ringing wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Maiden is provoked. |
-| { *The Full Eruption* [**Attack**] } | "Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow." | [The Maiden detonates with all her accumulated rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Maiden is cornered. |
-| { *Everyone Is Furious* [**Ultimate**] } | "Now everyone is as angry as she is — and no one knows why, and no one can stop." | [The Maiden extends her fury across the whole field.] | *All in range suffer Crimson pressure for three turns of universal rage.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Clenched Fist* [**Debuff**] } | "She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling." | [The Maiden's fury infects the target; their own anger rises unbidden.] | *Target suffers -10 Resilience; they are becoming angry without cause.* **[10 Grudge DMG [Grudge]]** | When the target approaches. |
+| { *The Rising Bile* [**Debuff**] } | "Her fury has no target — it is pure, undirected, and enormous. Just being near it makes you furious at everything." | [The Maiden's formless rage envelops the target.] | *Target loses 10 Resilience; everything becomes infuriating.* **[10 Grudge DMG [Grudge]]** | When the target remains near. |
+| { *The Slap* [**Attack**] } | "She strikes — hard, fast, and with the full force of a fury that has been building for centuries." | [A single devastating blow from a fist that has never unclenched.] | *Inflicts Grudge pressure and one heavy, ringing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Maiden is provoked. |
+| { *The Full Eruption* [**Attack**] } | "Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow." | [The Maiden detonates with all her accumulated rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Maiden is cornered. |
+| { *Everyone Is Furious* [**Ultimate**] } | "Now everyone is as angry as she is — and no one knows why, and no one can stop." | [The Maiden extends her fury across the whole field.] | *All in range suffer Grudge pressure for three turns of universal rage.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -180,7 +180,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that flickers with inner light.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -201,7 +201,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -219,7 +219,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a blade-pendant of crimson Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a blade-pendant of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Angry Maiden (C-IVβ-042 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Maiden formed from the grief of a child killed by violence. Held at SECTOR-D-02, contained with the Three Sisters. The Maiden has never breached, but containment depends on sister-group stability.
+The Angry Maiden (C-IVβ-042 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Maiden formed from the grief of a child killed by violence. Held at SECTOR-D-02, contained with the Three Sisters. The Maiden has never breached, but containment depends on sister-group stability.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Burns rapidly through facility corridors. Personnel experience overwhelming rage and the fury of injustice. Flerehan dims her flames; Pugnahan causes rapid escalation.
@@ -362,7 +362,7 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 > *“The fire that the mother was not allowed to wield, the Maiden carries.”* — Elder, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVβ-042` · City origin · Entity (IV) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVβ-042` · City origin · Entity (IV) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Angry Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
 **Comprehension Level:** 3 — Advanced

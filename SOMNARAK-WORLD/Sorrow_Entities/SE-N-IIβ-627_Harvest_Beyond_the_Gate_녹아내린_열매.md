@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — Not one body but a place: dark fruit growing in heavy clusters and melting as it ripens, pooling into crimson ground that never dries. The air is sweet and burned at once; fever-hot, it smells of char and overripe sugar. The fruit reforms as fast as it melts. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Drip* [**Debuff**] } | "The fruit in your hand is melting — juice running between your fingers — and the juice is hot with old fury." | [The Fruit's dissolution releases liquid anger; the target is splashed.] | *Target suffers -10 Resilience; the dripping rage burns.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target holds the Fruit. |
-| { *The Losing Form* [**Debuff**] } | "The fruit cannot hold its shape — collapsing inward — and the collapse carries the anger of impermanence." | [The Fruit's formlessness spreads; the target's own solidity wavers.] | *Target loses 10 Resilience; they feel themselves softening.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Scalding Splash* [**Attack**] } | "A glob of molten fruit flies — burning, sticky, and furious." | [A splatter of superheated fruit-matter strikes.] | *Inflicts Crimson pressure and one searing, clinging wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Liquefaction* [**Attack**] } | "The fruit melts entirely — becoming a pool of liquid, concentrated rage." | [The Fruit's total dissolution releases its complete fury.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Fruit is crushed. |
-| { *The Molten Orchard* [**Ultimate**] } | "Every fruit in the field melts — and the combined liquid rage floods everything." | [The Fruit extends its melting across the whole area.] | *All in range suffer Crimson pressure for three turns of molten harvest.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Drip* [**Debuff**] } | "The fruit in your hand is melting — juice running between your fingers — and the juice is hot with old fury." | [The Fruit's dissolution releases liquid anger; the target is splashed.] | *Target suffers -10 Resilience; the dripping rage burns.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |
+| { *The Losing Form* [**Debuff**] } | "The fruit cannot hold its shape — collapsing inward — and the collapse carries the anger of impermanence." | [The Fruit's formlessness spreads; the target's own solidity wavers.] | *Target loses 10 Resilience; they feel themselves softening.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Scalding Splash* [**Attack**] } | "A glob of molten fruit flies — burning, sticky, and furious." | [A splatter of superheated fruit-matter strikes.] | *Inflicts Grudge pressure and one searing, clinging wound.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
+| { *The Full Liquefaction* [**Attack**] } | "The fruit melts entirely — becoming a pool of liquid, concentrated rage." | [The Fruit's total dissolution releases its complete fury.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Fruit is crushed. |
+| { *The Molten Orchard* [**Ultimate**] } | "Every fruit in the field melts — and the combined liquid rage floods everything." | [The Fruit extends its melting across the whole area.] | *All in range suffer Grudge pressure for three turns of molten harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ The congealed tallow insulates the blade against electrical discharge while soft
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ The congealed tallow insulates the blade against electrical discharge while soft
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a seed-charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a seed-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Harvest Beyond the Gate (N-IIβ-627 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Fruit formed from longing that became resentment. Held at Zone E, Exile's Gate vicinity. Fruit melts without heat.
+Harvest Beyond the Gate (N-IIβ-627 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Fruit formed from longing that became resentment. Held at Zone E, Exile's Gate vicinity. Fruit melts without heat.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows after new exiles pass the Gate.
@@ -360,7 +360,7 @@ Some sorrows mourn a home. Harvest Beyond the Gate mourns the replanting — the
 > *“They planted in dead soil, dreaming of homes they could not rebuild.”* — Elder, Gate District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-627 [GP]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-627 [GP]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge · Place-Grudge manifestation
 **Common Name:** Harvest Beyond the Gate
 **Containment Status:** Contained — Gate District
 **Comprehension Level:** 2 — Basic

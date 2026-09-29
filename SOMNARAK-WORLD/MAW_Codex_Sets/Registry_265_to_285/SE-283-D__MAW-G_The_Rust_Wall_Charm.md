@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A matte black Han-steel Head charm with two rusted faces and a clear seam. The Subject granted it after Xyan named city, exile, departure, and return without choosing one as the universal viewpoint. Bestowal chance is 4%.
+A matte Weight Han-steel Head charm with two rusted faces and a clear seam. The Subject granted it after Xyan named city, exile, departure, and return without choosing one as the universal viewpoint. Bestowal chance is 4%.
 
 ## Appearance
 

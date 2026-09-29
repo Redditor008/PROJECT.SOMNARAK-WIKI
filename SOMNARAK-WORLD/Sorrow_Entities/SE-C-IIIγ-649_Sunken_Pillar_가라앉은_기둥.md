@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — A pale stone pillar sunk halfway into the Desolate ground, only its upper portion visible; where carvings should be, its surface shows only empty spaces, as though the inscriptions were erased. Bloodless-cold, it smells of ash; the buried half is felt as a pressure more than seen. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Settling* [**Debuff**] } | "The floor dips — and you realize the pillar beneath you has been sinking for a long time." | [The Pillar descends; the target feels the slow drop.] | *Target suffers a Void mark; the support is failing.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stands over the Pillar. |
-| { *The Submerged Base* [**Debuff**] } | "The pillar's foundation is gone — swallowed — and now the rest follows." | [The Pillar's base is lost; the target feels the instability above.] | *Target loses clarity; nothing below is solid.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Toppling* [**Attack**] } | "The pillar falls — slowly, massively, inevitably." | [The Pillar collapses onto the target.] | *Inflicts Void damage; a massive portion erodes.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
-| { *The Void Below* [**Attack**] } | "The floor opens — and the void that swallowed the foundation reaches for you." | [The Pillar's sunken void surges upward.] | *A heavy Void pull; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
-| { *Everything Sinks* [**Ultimate**] } | "Every pillar, every support — gone. The whole field drops into the void." | [The Pillar's failure spreads; everything loses its foundation.] | *All in range suffer Pale White erosion for three turns as all descends.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Settling* [**Debuff**] } | "The floor dips — and you realize the pillar beneath you has been sinking for a long time." | [The Pillar descends; the target feels the slow drop.] | *Target suffers a Void mark; the support is failing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands over the Pillar. |
+| { *The Submerged Base* [**Debuff**] } | "The pillar's foundation is gone — swallowed — and now the rest follows." | [The Pillar's base is lost; the target feels the instability above.] | *Target loses clarity; nothing below is solid.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Toppling* [**Attack**] } | "The pillar falls — slowly, massively, inevitably." | [The Pillar collapses onto the target.] | *Inflicts Void damage; a massive portion erodes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
+| { *The Void Below* [**Attack**] } | "The floor opens — and the void that swallowed the foundation reaches for you." | [The Pillar's sunken void surges upward.] | *A heavy Void pull; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
+| { *Everything Sinks* [**Ultimate**] } | "Every pillar, every support — gone. The whole field drops into the void." | [The Pillar's failure spreads; everything loses its foundation.] | *All in range suffer Void erosion for three turns as all descends.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Sunken Pillar: it is not a generic breach 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)
@@ -200,7 +200,7 @@ The escalation pattern is specific to Sunken Pillar: it is not a generic breach 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a columnar plate of pale Han-glass, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a columnar plate of Void Han-glass, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -218,7 +218,7 @@ The escalation pattern is specific to Sunken Pillar: it is not a generic breach 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sunken Pillar (C-IIIγ-649 [VP]) is logged as a Place-Void manifestation expressing Void (Pale White). The Pillar formed from a monument to things that never existed. Held at The Desolate — mobile. It sinks deeper when attacked.
+Sunken Pillar (C-IIIγ-649 [VP]) is logged as a Place-Void manifestation expressing Void. The Pillar formed from a monument to things that never existed. Held at The Desolate — mobile. It sinks deeper when attacked.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its empty carvings respond to mourning.
@@ -356,7 +356,7 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 > *“The saddest monument: one built for people who were never born.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-649 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-649 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Place-Void manifestation
 **Common Name:** Sunken Pillar
 **Containment Status:** Mobile — the Desolate
 **Comprehension Level:** 2 — Basic

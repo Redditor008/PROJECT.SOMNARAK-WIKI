@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A dark crimson Han-iron harness arranged like overlapping split petals. It smells of char and crushed flowers. The Plate condenses after a no-touch Ferrehan cycle and binds to a wearer who records damage before attempting repair.
+A dark Grudge Han-iron harness arranged like overlapping split petals. It smells of char and crushed flowers. The Plate condenses after a no-touch Ferrehan cycle and binds to a wearer who records damage before attempting repair.
 
 Iseulfros wore it during a spore breach near a broken memorial. The armor resisted the Crimson field long enough to clear civilians, but dulled her reflexes whenever she reached toward the Bloom itself.
 

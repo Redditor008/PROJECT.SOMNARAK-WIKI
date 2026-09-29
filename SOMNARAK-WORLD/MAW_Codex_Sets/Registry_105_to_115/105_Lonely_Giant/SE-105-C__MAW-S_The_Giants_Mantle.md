@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Giant’s Mantle |
 | Set | Room to Stand |
-| Type / grade / element | Suit / γ — Major / Weight — Black |
+| Type / grade / element | Suit / γ — Major / Weight |
 | Status | Active; fatigue-monitoring issue |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Minho Ashford |

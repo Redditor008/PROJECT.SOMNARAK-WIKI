@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A pale Han-gossamer veil with one current identity line beside a place-shaped blank.
+A Void Han-gossamer veil with one current identity line beside a place-shaped blank.
 
 Iseulfros wore it during fragment exposure. The Veil preserved current self while the absent place pressed for completion; she felt faintly removed from her own present location.
 

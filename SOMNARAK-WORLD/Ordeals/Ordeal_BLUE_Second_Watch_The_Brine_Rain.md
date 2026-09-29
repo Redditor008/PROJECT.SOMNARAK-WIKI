@@ -49,7 +49,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 15–30 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[15–30 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[15–30 Lament DMG [Lament]]**
 
 ### The Throat-Knot (Non-Crystal, Greater-grade)
 
@@ -73,7 +73,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 25–40 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[25–40 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[25–40 Lament DMG [Lament]]**
 
 
 ### The Mourner (Humanoid, Greater-grade)
@@ -86,7 +86,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 16–26 per hit · Lament |
 | **Spawn Count** | 2 |
 
-**Ability:** The dirge deepens, and unfinished mourning grinds the listener down. **[16–26 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** The dirge deepens, and unfinished mourning grinds the listener down. **[16–26 Lament DMG [Lament]]**
 
 ### The Salt-Bloom (Amorphous, Greater-grade)
 
@@ -98,7 +98,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 14–22 per hit · Lament |
 | **Spawn Count** | 1 |
 
-**Ability:** Its brine-spray stings the eyes, and the sorrow-burn settles into the mind. **[14–22 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** Its brine-spray stings the eyes, and the sorrow-burn settles into the mind. **[14–22 Lament DMG [Lament]]**
 
 ### Grief-Leeches (Swarm, Greater-grade)
 
@@ -110,7 +110,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 7–10 per hit · Lament |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They latch, and each one drains a little more of the will to keep going. **[7–10 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** They latch, and each one drains a little more of the will to keep going. **[7–10 Lament DMG [Lament]]**
 
 
 ## Trivia

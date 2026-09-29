@@ -18,7 +18,7 @@ The Plate is a scarred crimson armor echo that becomes warm only around a curren
 
 ## Appearance
 
-The Gatekeeper’s Plate is scarred crimson armor — an echo given weight, its chest piece carrying an old diagonal scar that no polish removes. The metal stays cold in ordinary wear and becomes warm only around a current Gate threat, which makes the Plate its own threat gauge: a warm collar means the danger is real and present, a cold scar means the danger being described is remembered or invented. The collar will not seal until a passage observer is named, and the armor rejects use during any unreviewed exclusion. Its central mechanic is worn openly — the Plate holds a defensive line against Crimson impact only while the assigned non-hostile route remains open, and if that route is closed simply to avoid an arrival, the Grudge resistance drains out of the metal at once. The wearer’s reflexes dull as resentment hardens around the body, the recorded cost of long carries. Closed-route marks, not impact damage, are its corrosion warning. It is maintained by reviewing threat, passage, and return rule with Gate Watch; the passage observer unfastens the collar after incident closure, and cutting it makes a rigid Gate-shaped field.
+The Gatekeeper’s Plate is scarred crimson armor — an echo given weight, its chest piece carrying an old diagonal scar that no polish removes. The metal stays cold in ordinary wear and becomes warm only around a current Gate threat, which makes the Plate its own threat gauge: a warm collar means the danger is real and present, a cold scar means the danger being described is remembered or invented. The collar will not seal until a passage observer is named, and the armor rejects use during any unreviewed exclusion. Its central mechanic is worn openly — the Plate holds a defensive line against Grudge impact only while the assigned non-hostile route remains open, and if that route is closed simply to avoid an arrival, the Grudge resistance drains out of the metal at once. The wearer’s reflexes dull as resentment hardens around the body, the recorded cost of long carries. Closed-route marks, not impact damage, are its corrosion warning. It is maintained by reviewing threat, passage, and return rule with Gate Watch; the passage observer unfastens the collar after incident closure, and cutting it makes a rigid Gate-shaped field.
 
 ## PROTECTION STATISTICS
 
@@ -30,7 +30,7 @@ The Gatekeeper’s Plate is scarred crimson armor — an echo given weight, its 
 
 ## SOURCE-SPECIFIC MECHANIC
 
-**Open Guard:** The Plate holds a defensive line against Crimson impact only while the assigned non-hostile route remains open. If the route is closed to avoid an arrival, the armor loses its Grudge resistance.
+**Open Guard:** The Plate holds a defensive line against Grudge impact only while the assigned non-hostile route remains open. If the route is closed to avoid an arrival, the armor loses its Grudge resistance.
 
 ## HISTORY & CORROSION
 

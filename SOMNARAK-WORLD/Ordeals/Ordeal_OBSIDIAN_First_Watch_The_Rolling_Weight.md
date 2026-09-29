@@ -1,4 +1,4 @@
-# BLACK First Watch — The Rolling Weight
+# OBSIDIAN First Watch — The Rolling Weight
 
 > *""The floor cracked before we saw what was pressing down on it.""*
 
@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| **Color** | BLACK |
+| **Color** | OBSIDIAN |
 | **Time** | First Watch |
 | **Threat Level** | Minor |
 | **Han Source** | Weight |
@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 8–12 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 2–8 per hit · Weight (Black) |
+| **Han Pressure [ATK]** | 2–8 per hit · Weight |
 | **HP** | 50/50 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -50,7 +50,7 @@ Alert Level 1. Standard team. Structural repair crew on standby.
 
 ## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary BLACK First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary OBSIDIAN First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Fragment-grade)
 
@@ -62,7 +62,7 @@ Alert Level 1. Standard team. Structural repair crew on standby.
 | **Han Pressure [ATK]** | 8–18 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[8–18 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[8–18 Weight DMG [Weight]]**
 
 ### The Clockwork Press (Machine, Fragment-grade)
 
@@ -74,7 +74,7 @@ Alert Level 1. Standard team. Structural repair crew on standby.
 | **Han Pressure [ATK]** | 13–23 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[13–23 Black DMG [Black / Weight]]**
+**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[13–23 Weight DMG [Weight]]**
 
 ### The Living Avalanche (Non-Humanoid, Fragment-grade)
 
@@ -86,7 +86,7 @@ Alert Level 1. Standard team. Structural repair crew on standby.
 | **Han Pressure [ATK]** | 18–28 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[18–28 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[18–28 Weight DMG [Weight]]**
 
 
 ## Trivia
@@ -98,7 +98,7 @@ Alert Level 1. Standard team. Structural repair crew on standby.
 
 ## Document Information
 
-**Document ID:** `ORDEAL-BLACK-First-Watch`
+**Document ID:** `ORDEAL-OBSIDIAN-First-Watch`
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 

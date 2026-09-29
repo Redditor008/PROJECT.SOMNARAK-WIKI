@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A pale Han-glass Head compass with a needle that points away from one unsafe direction. The source granted it after Yeonhwa put the active A-Relic down rather than follow it. Bestowal chance is 5%.
+A Void Han-glass Head compass with a needle that points away from one unsafe direction. The source granted it after Yeonhwa put the active A-Relic down rather than follow it. Bestowal chance is 5%.
 
 ## Appearance
 

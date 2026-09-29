@@ -14,7 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
-A Tail charm of crimson Han-iron contains a black ember that grows hot near remembered loss. Random bestowal belongs to the source alone; acquisition probability is 4%.
+A Tail charm of Grudge Han-iron contains a black ember that grows hot near remembered loss. Random bestowal belongs to the source alone; acquisition probability is 4%.
 
 | Field | Record |
 |---|---|

@@ -11,7 +11,7 @@
 | **Coherence** | Sovereign (V) |
 | **Potency** | Sovereign (ω) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Ancestral / Karmic Ledger Construct |
 | **Physical Form** | Colossal Scribe Entity — A towering twelve-meter phantom composed of thousands of overlapping, yellowed municipal tax ledgers, debt contracts, and blood-stamped fingerprints. It has thirty pairs of ink-stained hands that continuously transcribe unpaid obligations onto the floor, walls, and the skin of anyone within its presence. |
 | **Movement** | Creeping Sub-Vault Manifestation (0.5 m/s). |
@@ -62,11 +62,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Ink-Stained Summons* [**Debuff**] } | "A sheet of yellowed parchment wraps around the operative's shins." | [Transcribes an ancient contract upon the target's armor and boots.] | *Reduces target movement speed by 50%; inflicts 15 Weight damage.* **[15 Black DMG]** | At engagement initiation. |
-| { *Blood-Stamp Indenture* [**Attack**] } | "A thumbprint of dried crimson presses down upon the operative's chest." | [Drives a colossal seal of hardened ink into the target's sternum.] | *Deals 28-42 crushing Black Weight damage; drains 20 Composure.* **[28-42 Black DMG]** | When target attempts a melee strike. |
+| { *Ink-Stained Summons* [**Debuff**] } | "A sheet of yellowed parchment wraps around the operative's shins." | [Transcribes an ancient contract upon the target's armor and boots.] | *Reduces target movement speed by 50%; inflicts 15 Weight damage.* **[15 Weight DMG]** | At engagement initiation. |
+| { *Blood-Stamp Indenture* [**Attack**] } | "A thumbprint of dried crimson presses down upon the operative's chest." | [Drives a colossal seal of hardened ink into the target's sternum.] | *Deals 28-42 crushing Black Weight damage; drains 20 Composure.* **[28-42 Weight DMG]** | When target attempts a melee strike. |
 | { *Generational Foreclosure* [**Debuff**] } | "The names of three generations of debtors are read aloud in unison." | [Thirty ink-blackened hands point directly at the target squad.] | *All targets suffer -30% attack power and cumulative Posture erosion.* **[AoE Debuff]** | At engagement round 3. |
-| { *The Crushing Scroll* [**AoE**] } | "Tons of archival paper cascade from the ceiling like a basalt avalanche." | [Unrolls a massive ledger cylinder across the central containment floor.] | *Deals 35-50 Weight damage to all ground personnel; pins targets.* **[35-50 Black DMG]** | When Sorrow Gauge reaches 60%. |
-| { *Ledger of the Unforgiven* [**Ultimate**] } | "The crypt walls turn to solid ink; every breath tastes of ancient copper debts." | [Summons the full weight of four centuries of unredeemed municipal debt.] | *Deals 60-85 Black Weight damage across entire sector; triggers instant Fracture.* **[60-85 Black DMG]** | When Sorrow Gauge reaches 90%. |
+| { *The Crushing Scroll* [**AoE**] } | "Tons of archival paper cascade from the ceiling like a basalt avalanche." | [Unrolls a massive ledger cylinder across the central containment floor.] | *Deals 35-50 Weight damage to all ground personnel; pins targets.* **[35-50 Weight DMG]** | When Sorrow Gauge reaches 60%. |
+| { *Ledger of the Unforgiven* [**Ultimate**] } | "The crypt walls turn to solid ink; every breath tastes of ancient copper debts." | [Summons the full weight of four centuries of unredeemed municipal debt.] | *Deals 60-85 Black Weight damage across entire sector; triggers instant Fracture.* **[60-85 Weight DMG]** | When Sorrow Gauge reaches 90%. |
 
 ## Comprehension Levels
 

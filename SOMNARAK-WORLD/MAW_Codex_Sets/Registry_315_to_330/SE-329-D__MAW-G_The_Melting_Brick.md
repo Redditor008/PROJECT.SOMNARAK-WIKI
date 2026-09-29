@@ -14,7 +14,7 @@
 
 ## IDENTITY & FUNCTION
 
-A warm pale Han-glass Head tile that displays intended use and occupant flow, never a completed image. Folly granted it after Yeonhwa mapped the outline without construction. Bestowal chance is 5%.
+A warm Void Han-glass Head tile that displays intended use and occupant flow, never a completed image. Folly granted it after Yeonhwa mapped the outline without construction. Bestowal chance is 5%.
 
 **Grade / Element:** α / Void  
 **Bonus:** +1 Composure during source work  

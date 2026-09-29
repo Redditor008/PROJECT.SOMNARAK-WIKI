@@ -12,7 +12,7 @@
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 
-A warm pale Han-glass Head tile holding one word attested outside the erased record. The entity granted it after Marjuk preserved absence without reconstruction. Bestowal chance is 4%.
+A warm Void Han-glass Head tile holding one word attested outside the erased record. The entity granted it after Marjuk preserved absence without reconstruction. Bestowal chance is 4%.
 
 ## Appearance
 

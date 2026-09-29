@@ -20,7 +20,7 @@
 | Type | Weapon |
 | Grade | δ |
 | Element | Void |
-| Appearance | A stage blade of pale Han-crystal that flickers like a spotlight's edge; it always seems to have already struck. |
+| Appearance | A stage blade of Void Han-crystal that flickers like a spotlight's edge; it always seems to have already struck. |
 | Damage | Void 10–15 |
 | Speed | 5 (Instant) |
 | Range | 4 (Long) |

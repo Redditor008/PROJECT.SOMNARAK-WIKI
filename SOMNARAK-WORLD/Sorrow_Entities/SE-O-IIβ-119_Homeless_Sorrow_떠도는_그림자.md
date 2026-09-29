@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A beast of cold dense shadow with no fixed shape — sometimes a stalking quadruped, sometimes many-limbed — moving with predatory intent. Bloodless-cold, it smells of ash; a hunter made of dark. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Following* [**Debuff**] } | "Your shadow moves when you do not — just a little, just enough to notice." | [The Shadow detaches and follows the target independently.] | *Target suffers a Void mark; their shadow is no longer theirs.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Shadow separates. |
-| { *The Lengthening* [**Debuff**] } | "The shadow stretches — longer than any light could cast it — reaching for things you have not reached yet." | [The Shadow extends; it reaches where the target has not yet gone.] | *Target loses clarity; their shadow knows things they do not.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target tries to outrun it. |
-| { *The Cold Touch* [**Attack**] } | "The shadow touches your shadow — and where they overlap, you go cold." | [The Shadow merges briefly with the target's, draining warmth.] | *Inflicts Void damage; a portion of the target's presence stolen.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shadow catches up. |
-| { *The Swallowed Shadow* [**Attack**] } | "Your shadow is gone — eaten — and without it, you are less than whole." | [The Shadow devours the target's own shadow entirely.] | *A heavy Void theft; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shadow is confronted. |
-| { *Shadowless* [**Ultimate**] } | "Now no one has a shadow — and without shadows, people are not quite people anymore." | [The Shadow consumes every shadow in the field.] | *All in range suffer Pale White erosion for three turns as they lose their shadows.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Following* [**Debuff**] } | "Your shadow moves when you do not — just a little, just enough to notice." | [The Shadow detaches and follows the target independently.] | *Target suffers a Void mark; their shadow is no longer theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shadow separates. |
+| { *The Lengthening* [**Debuff**] } | "The shadow stretches — longer than any light could cast it — reaching for things you have not reached yet." | [The Shadow extends; it reaches where the target has not yet gone.] | *Target loses clarity; their shadow knows things they do not.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to outrun it. |
+| { *The Cold Touch* [**Attack**] } | "The shadow touches your shadow — and where they overlap, you go cold." | [The Shadow merges briefly with the target's, draining warmth.] | *Inflicts Void damage; a portion of the target's presence stolen.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shadow catches up. |
+| { *The Swallowed Shadow* [**Attack**] } | "Your shadow is gone — eaten — and without it, you are less than whole." | [The Shadow devours the target's own shadow entirely.] | *A heavy Void theft; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shadow is confronted. |
+| { *Shadowless* [**Ultimate**] } | "Now no one has a shadow — and without shadows, people are not quite people anymore." | [The Shadow consumes every shadow in the field.] | *All in range suffer Void erosion for three turns as they lose their shadows.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -225,7 +225,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -243,7 +243,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a hearth-charm of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a hearth-charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -296,7 +296,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Homeless Sorrow (O-IIβ-119 [VP]) is logged as a Place-Grudge manifestation expressing Void (Pale White). The Shadow formed from sorrow that had nowhere to settle. Held at Zone B, Old Lament. The Shadow is strongest in abandoned rooms.
+Homeless Sorrow (O-IIβ-119 [VP]) is logged as a Place-Grudge manifestation expressing Void. The Shadow formed from sorrow that had nowhere to settle. Held at Zone B, Old Lament. The Shadow is strongest in abandoned rooms.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It is not extinguished by light; it retreats from acknowledgment.
@@ -378,7 +378,7 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 > *“The accumulated grief of the displaced, given form as a presence that drifts.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-119 [VP]` · Void (Pale White) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIβ-119 [VP]` · Void · Place-Grudge manifestation
 **Common Name:** Homeless Sorrow
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic

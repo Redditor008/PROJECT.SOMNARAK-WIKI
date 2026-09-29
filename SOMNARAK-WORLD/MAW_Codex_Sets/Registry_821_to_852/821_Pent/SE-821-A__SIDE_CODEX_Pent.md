@@ -21,7 +21,7 @@ The Sigh formed from a breath erased before it could be released. The grief of e
 | Source designation | N-IVδ-821 [D] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Grudge (Crimson) / Zone B, Old Lament — ambient |
+| Element / Location | Grudge / Zone B, Old Lament — ambient |
 | Gauge / Pressure | 818/818; starts 60–80% / 22–48 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness. |
@@ -52,7 +52,7 @@ During the The Pent Source-Trace, the field team preserved this source fact: A w
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Pent's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Permit rest and acknowledge exhaustion as real The set cannot heal the originating event. Misuse routes Pent's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Pent's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stays only the immediate manifestation that violates this rule: Permit rest and acknowledge exhaustion as real The set cannot heal the originating event. Misuse routes Pent's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A humanoid whose body arches like a burning bridge of crystal, weeping warm tears that fall across the Desolate as it stands. Fever-warm, it smells of cold rain and char; a crossing on fire, shaped like a person. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Flame* [**Debuff**] } | "The bridge catches fire — at the far end — and the flames are heading toward you, and there is water below." | [The Bridge's fire traps the target between flame and depth.] | *Target suffers -10 Composure; the crossing is being destroyed.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target is mid-bridge. |
-| { *The Spreading Blaze* [**Debuff**] } | "The fire runs the span — plank to plank — and the bridge you are standing on is getting shorter." | [The Bridge's fire consumes the path; the target's footing shrinks.] | *Target loses 10 Composure; the safe ground is disappearing.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the fire approaches. |
-| { *The Falling Plank* [**Attack**] } | "A burning plank drops away — and the gap it leaves is full of fire and falling." | [ A burning section collapses under the target.] | *Inflicts Deep Blue pressure and one searing, plunging wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Bridge is overloaded. |
-| { *The Full Conflagration* [**Attack**] } | "The entire bridge goes up — every plank, every cable — a river of fire above a river of grief." | [The Bridge's complete immolation releases its stored sorrow as heat.] | *A heavy Deep Blue inferno; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Bridge is struck. |
-| { *The Burning Crossing* [**Ultimate**] } | "Every bridge in the field ignites — and every crossing becomes a wall of flame and falling." | [The Bridge extends its burning across the whole area.] | *All in range suffer Deep Blue pressure for three turns of burning bridges.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Flame* [**Debuff**] } | "The bridge catches fire — at the far end — and the flames are heading toward you, and there is water below." | [The Bridge's fire traps the target between flame and depth.] | *Target suffers -10 Composure; the crossing is being destroyed.* **[10 Lament DMG [Lament]]** | When the target is mid-bridge. |
+| { *The Spreading Blaze* [**Debuff**] } | "The fire runs the span — plank to plank — and the bridge you are standing on is getting shorter." | [The Bridge's fire consumes the path; the target's footing shrinks.] | *Target loses 10 Composure; the safe ground is disappearing.* **[10 Lament DMG [Lament]]** | When the fire approaches. |
+| { *The Falling Plank* [**Attack**] } | "A burning plank drops away — and the gap it leaves is full of fire and falling." | [ A burning section collapses under the target.] | *Inflicts Lament pressure and one searing, plunging wound.* **[14-22 Lament DMG [Lament]]** | When the Bridge is overloaded. |
+| { *The Full Conflagration* [**Attack**] } | "The entire bridge goes up — every plank, every cable — a river of fire above a river of grief." | [The Bridge's complete immolation releases its stored sorrow as heat.] | *A heavy Deep Blue inferno; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bridge is struck. |
+| { *The Burning Crossing* [**Ultimate**] } | "Every bridge in the field ignites — and every crossing becomes a wall of flame and falling." | [The Bridge extends its burning across the whole area.] | *All in range suffer Lament pressure for three turns of burning bridges.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
 
 **Damage:** Lament 7–12
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -211,7 +211,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a circlet of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a circlet of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Grasp (O-IVδ-762 [O]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Bridge formed from a crossing destroyed while people were still on it. Held at The Desolate, near The Scar. Its tears are warm and emotionally painful.
+Grasp (O-IVδ-762 [O]) is logged as a Subject-Lament manifestation expressing Lament. The Bridge formed from a crossing destroyed while people were still on it. Held at The Desolate, near The Scar. Its tears are warm and emotionally painful.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Desolate paths and broken crossings. Personnel feel rage at people they could not save. It is strongest near The Scar.
@@ -346,7 +346,7 @@ Some sorrows mourn the dead. Grasp mourns the reaching — the calls across the 
 > *“A crossing destroyed while the rescuer was still trying to save.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-762 [O]` · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IVδ-762 [O]` · Lament · Subject-Lament manifestation
 **Common Name:** Grasp
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic

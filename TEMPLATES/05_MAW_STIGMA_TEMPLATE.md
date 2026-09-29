@@ -54,7 +54,7 @@ Registry Code: `MAW-G-{{NUM}}-01`
 
 ### Appearance
 
-{{2 sentences intimate object. E.g., “A scale-pendant of pale Han-glass, near-translucent and almost colourless, warm to the touch. Catches light only when debt is near.” Must be small, wearable, resonant.}}
+{{2 sentences intimate object. E.g., “A scale-pendant of Void Han-glass, near-translucent and almost colourless, warm to the touch. Catches light only when debt is near.” Must be small, wearable, resonant.}}
 
 ## BESTOWAL HISTORY
 

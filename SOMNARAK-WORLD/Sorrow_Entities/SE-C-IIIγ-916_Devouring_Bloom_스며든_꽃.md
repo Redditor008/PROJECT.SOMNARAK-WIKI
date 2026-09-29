@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — A giant carnivorous bloom the size of a cart, petals of dense black crystal that snap like a mouth — a mobile plant-beast dragging itself on thick root-legs toward prey. Lead-heavy, it smells of wet stone and rot. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Bloom* [**Debuff**] } | "A flower pushes through the floor — heavy, thick-petaled, and growing toward you." | [The Flower takes root; its sorrow-weight begins to anchor.] | *Target suffers -10 Resolve; something is growing under them.* **[10 Black DMG [Black / Weight]]** | When the target steps near the Flower. |
-| { *The Creeping Vine* [**Debuff**] } | "Vines spread from the flower — thick, slow, and heavier than they look." | [The Flower extends tendrils; the growth presses on the target.] | *Target loses 10 Resolve; the vines are bearing down.* **[10 Black DMG [Black / Weight]]** | When the target stays still. |
-| { *The Heavy Petal* [**Attack**] } | "A petal falls — and it weighs more than it should, more than stone." | [A weighted petal drops onto the target.] | *Inflicts Black pressure and one crushing, botanical wound.* **[14-22 Black DMG [Black / Weight]]** | When the Flower is touched. |
-| { *The Full Garden* [**Attack**] } | "The flower blooms completely — and the bloom is enormous, and the weight of it is staggering." | [The Flower reaches full size; its mass becomes overwhelming.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Flower is cut. |
-| { *The Overgrown Field* [**Ultimate**] } | "The flowers do not stop — they cover everything, and the weight of the garden is crushing." | [The Flower spreads across the entire field.] | *All personnel suffer Black pressure for three turns in the overgrowth.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Bloom* [**Debuff**] } | "A flower pushes through the floor — heavy, thick-petaled, and growing toward you." | [The Flower takes root; its sorrow-weight begins to anchor.] | *Target suffers -10 Resolve; something is growing under them.* **[10 Weight DMG [Weight]]** | When the target steps near the Flower. |
+| { *The Creeping Vine* [**Debuff**] } | "Vines spread from the flower — thick, slow, and heavier than they look." | [The Flower extends tendrils; the growth presses on the target.] | *Target loses 10 Resolve; the vines are bearing down.* **[10 Weight DMG [Weight]]** | When the target stays still. |
+| { *The Heavy Petal* [**Attack**] } | "A petal falls — and it weighs more than it should, more than stone." | [A weighted petal drops onto the target.] | *Inflicts Weight pressure and one crushing, botanical wound.* **[14-22 Weight DMG [Weight]]** | When the Flower is touched. |
+| { *The Full Garden* [**Attack**] } | "The flower blooms completely — and the bloom is enormous, and the weight of it is staggering." | [The Flower reaches full size; its mass becomes overwhelming.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Flower is cut. |
+| { *The Overgrown Field* [**Ultimate**] } | "The flowers do not stop — they cover everything, and the weight of the garden is crushing." | [The Flower spreads across the entire field.] | *All personnel suffer Weight pressure for three turns in the overgrowth.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -224,7 +224,7 @@ The escalation pattern is specific to Devouring Bloom: it is not a generic breac
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
 
 **Damage:** Weight 10-15
 **Speed:** 3 (Fast)
@@ -240,7 +240,7 @@ The escalation pattern is specific to Devouring Bloom: it is not a generic breac
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -258,7 +258,7 @@ The escalation pattern is specific to Devouring Bloom: it is not a generic breac
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a key-charm of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a key-charm of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -312,7 +312,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Devouring Bloom (C-IIIγ-916 [N]) is logged as a Object-Weight manifestation expressing Weight (Black). The Flower formed from sorrow preserved as weight. Held at Zone B, deep tunnels. Its petals grow toward memorial objects.
+Devouring Bloom (C-IIIγ-916 [N]) is logged as a Object-Weight manifestation expressing Weight. The Flower formed from sorrow preserved as weight. Held at Zone B, deep tunnels. Its petals grow toward memorial objects.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes heavier after tunnel deaths.
@@ -396,7 +396,7 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 > *“To cut it would be to destroy the dead a second time.”* — Elder, Tunnels
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-916 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-916 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Object-Weight manifestation
 **Common Name:** Devouring Bloom
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic

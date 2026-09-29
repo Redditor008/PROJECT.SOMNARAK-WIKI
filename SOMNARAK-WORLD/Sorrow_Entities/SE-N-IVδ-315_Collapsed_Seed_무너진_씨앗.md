@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A great split seed erupting a tangle of thick wet shoots — a bulky plant-beast hauling itself on pulsing root-limbs. Salt-cold, it smells of cold rain; it moves though it should be dead. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hollow Shell* [**Debuff**] } | "The seed is caved in — hollow — and the echo of what it could have been aches." | [The Seed's collapsed shell resonates with the target's own failed potential.] | *Target suffers -10 Composure; they feel every unlived possibility.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target holds the Seed. |
-| { *The Withered Core* [**Debuff**] } | "Inside the collapsed shell, the core is dry and dead — and it is worse than empty." | [The Seed's dead interior emanates grief for what never grew.] | *Target loses 10 Composure; the dead potential is contagious.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Shell Shard* [**Attack**] } | "A piece of the collapsed shell breaks free — dry, sharp, and carrying the bitterness of failure." | [A shard of collapsed seed-husk launches.] | *Inflicts Deep Blue pressure and one small, bitter wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Seed is squeezed. |
-| { *The Full Implosion* [**Attack**] } | "The seed finishes collapsing — every remaining wall of the shell caving inward at once." | [The Seed's total structural failure releases its stored grief.] | *A heavy Deep Blue implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Seed is crushed. |
-| { *The Failed Harvest* [**Ultimate**] } | "Every seed in the field collapses — every possibility, ended, before it could begin." | [The Seed spreads its failure across the entire area.] | *All in range suffer Deep Blue pressure for three turns of ended potential.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Hollow Shell* [**Debuff**] } | "The seed is caved in — hollow — and the echo of what it could have been aches." | [The Seed's collapsed shell resonates with the target's own failed potential.] | *Target suffers -10 Composure; they feel every unlived possibility.* **[10 Lament DMG [Lament]]** | When the target holds the Seed. |
+| { *The Withered Core* [**Debuff**] } | "Inside the collapsed shell, the core is dry and dead — and it is worse than empty." | [The Seed's dead interior emanates grief for what never grew.] | *Target loses 10 Composure; the dead potential is contagious.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Shell Shard* [**Attack**] } | "A piece of the collapsed shell breaks free — dry, sharp, and carrying the bitterness of failure." | [A shard of collapsed seed-husk launches.] | *Inflicts Lament pressure and one small, bitter wound.* **[14-22 Lament DMG [Lament]]** | When the Seed is squeezed. |
+| { *The Full Implosion* [**Attack**] } | "The seed finishes collapsing — every remaining wall of the shell caving inward at once." | [The Seed's total structural failure releases its stored grief.] | *A heavy Deep Blue implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Seed is crushed. |
+| { *The Failed Harvest* [**Ultimate**] } | "Every seed in the field collapses — every possibility, ended, before it could begin." | [The Seed spreads its failure across the entire area.] | *All in range suffer Lament pressure for three turns of ended potential.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -243,7 +243,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -261,7 +261,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a core-stone of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a core-stone of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -315,7 +315,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Collapsed Seed (N-IVδ-315 [LO]) is logged as a Object-Grudge manifestation expressing Lament (Deep Blue). The Seed formed from life that never reached its intended form. Held at Zone C, Mask Market. The Seed is not dormant; it is waiting inside a collapsed form.
+Collapsed Seed (N-IVδ-315 [LO]) is logged as a Object-Grudge manifestation expressing Lament. The Seed formed from life that never reached its intended form. Held at Zone C, Mask Market. The Seed is not dormant; it is waiting inside a collapsed form.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its tears never stop.
@@ -397,7 +397,7 @@ Some sorrows mourn what existed. Collapsed Seed mourns what almost existed — t
 > *“The seed was seconds from emergence. The crushing denied it. The denial is the sorrow.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-315 [LO]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-315 [LO]` · Per classification origin · Per classification coherence · Per classification potency · Lament · Object-Grudge manifestation
 **Common Name:** Collapsed Seed
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic

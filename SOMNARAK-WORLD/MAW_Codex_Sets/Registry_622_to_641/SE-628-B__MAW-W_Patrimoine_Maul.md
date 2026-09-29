@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A matte black Han-steel maul whose head pulses with a slow current when drawn. Root channels cross its faces but never meet at the center. The first stable extraction followed acknowledgment of the soldier and the later people through whom his unrest moved.
+A matte Weight Han-steel maul whose head pulses with a slow current when drawn. Root channels cross its faces but never meet at the center. The first stable extraction followed acknowledgment of the soldier and the later people through whom his unrest moved.
 
 Binding requires the wielder to name a nonliving destination for released Weight. Without one, each swing adds the current to the user’s body.
 

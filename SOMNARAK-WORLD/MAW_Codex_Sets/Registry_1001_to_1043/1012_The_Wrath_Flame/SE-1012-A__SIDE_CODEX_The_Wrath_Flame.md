@@ -21,7 +21,7 @@ The Flame formed from the rage of the six factions that fought in the Occlusihan
 | Source designation | O-IIIβ-120 [GS] |
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Fragment (III) — Fierce and protective / Moderate (β) — Manageable |
-| Element / Location | Grudge (Crimson) / The Desolate, near The Scar |
+| Element / Location | Grudge / The Desolate, near The Scar |
 | Gauge / Pressure | 435/435; starts 35–50% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire. |
@@ -52,7 +52,7 @@ During the The The Wrath Flame Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Wrath Flame's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Bow or salute; acknowledge the war and the dead The set cannot heal the originating event. Misuse routes The Wrath Flame's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Wrath Flame's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Bow or salute; acknowledge the war and the dead The set cannot heal the originating event. Misuse routes The Wrath Flame's wound through the operator and triggers the recorded escalation.
 
 ---
 

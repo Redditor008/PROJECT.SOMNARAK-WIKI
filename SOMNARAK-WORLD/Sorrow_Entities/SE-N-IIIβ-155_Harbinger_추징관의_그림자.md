@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Relentless and patient |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A human-shaped shadow, cast by nothing, that follows debtors without speaking — visible only from the corner of the eye or in reflections. Lead-cold, it smells of wet stone; turn to face it and it is already behind you again. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Following Dark* [**Debuff**] } | "Your shadow has changed — it is taller now, wearing a coat it did not wear this morning." | [The Collector's shadow attaches to the target; it follows them.] | *Target suffers -10 Resolve; their own shadow has been replaced.* **[10 Black DMG [Black / Weight]]** | When the target owes a debt. |
-| { *The Lengthening Bill* [**Debuff**] } | "The shadow grows taller with every passing minute — and the taller it gets, the more you owe." | [The Collector's shadow accrues debt-interest in real-time.] | *Target loses 10 Resolve; the debt is compounding with every breath.* **[10 Black DMG [Black / Weight]]** | When the target tries to ignore it. |
-| { *The Shadow Hand* [**Attack**] } | "The collector's shadow reaches from your own — and its hand closes on your throat." | [The attached shadow strikes from within the target's own silhouette.] | *Inflicts Black pressure and one wound of internal debt-collection.* **[14-22 Black DMG [Black / Weight]]** | When the target resists payment. |
-| { *The Full Audit* [**Attack**] } | "The collector's shadow reveals its full ledger — every debt, every interest charge — and it all comes due at once." | [The Collector's complete assessment is weaponized.] | *A heavy Black demand; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the shadow is challenged. |
-| { *Everyone Has a Shadow* [**Ultimate**] } | "The collector's shadow spreads — to every person — until every shadow wears the same coat, and every shadow carries the same ledger." | [The Collector extends its shadow across the whole field.] | *All in range suffer Black pressure for three turns of debt-collector shadows.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Following Dark* [**Debuff**] } | "Your shadow has changed — it is taller now, wearing a coat it did not wear this morning." | [The Collector's shadow attaches to the target; it follows them.] | *Target suffers -10 Resolve; their own shadow has been replaced.* **[10 Weight DMG [Weight]]** | When the target owes a debt. |
+| { *The Lengthening Bill* [**Debuff**] } | "The shadow grows taller with every passing minute — and the taller it gets, the more you owe." | [The Collector's shadow accrues debt-interest in real-time.] | *Target loses 10 Resolve; the debt is compounding with every breath.* **[10 Weight DMG [Weight]]** | When the target tries to ignore it. |
+| { *The Shadow Hand* [**Attack**] } | "The collector's shadow reaches from your own — and its hand closes on your throat." | [The attached shadow strikes from within the target's own silhouette.] | *Inflicts Weight pressure and one wound of internal debt-collection.* **[14-22 Weight DMG [Weight]]** | When the target resists payment. |
+| { *The Full Audit* [**Attack**] } | "The collector's shadow reveals its full ledger — every debt, every interest charge — and it all comes due at once." | [The Collector's complete assessment is weaponized.] | *A heavy Black demand; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the shadow is challenged. |
+| { *Everyone Has a Shadow* [**Ultimate**] } | "The collector's shadow spreads — to every person — until every shadow wears the same coat, and every shadow carries the same ledger." | [The Collector extends its shadow across the whole field.] | *All in range suffer Weight pressure for three turns of debt-collector shadows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a greave-plate of black Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a greave-plate of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Harbinger (N-IIIβ-155 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight (Black). The Shadow formed from fear of collection. Held at Zone C, Collector's Row — ambient. It follows debtors throughout Collector's Row.
+Harbinger (N-IIIβ-155 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Shadow formed from fear of collection. Held at Zone C, Collector's Row — ambient. It follows debtors throughout Collector's Row.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Spreads by attaching to personnel with heavy debt. Subjects feel watched and carry constant anxiety. It is not physically hostile.
@@ -346,7 +346,7 @@ Some sorrows are about the debt. Harbinger is about the dread of the debt — th
 > *“The dread detached from any specific collection, walking with every citizen who owes.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-155 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-155 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Phantasmal manifestation
 **Common Name:** The Debt Collector’s Shadow
 **Containment Status:** Semi-contained — Zone C (follows debtors)
 **Comprehension Level:** 2 — Basic

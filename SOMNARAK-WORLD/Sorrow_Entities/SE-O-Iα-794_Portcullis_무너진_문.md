@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A collapsed door beneath layers of tunnel stone, its frame still upright while the door has fallen inward — a threshold broken from the inside. Salt-cold, it smells of cold rain; something fell through it long ago, and it never closed. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Splintered Frame* [**Debuff**] } | "The door is gone — but the frame remains, and the frame remembers everyone who passed through." | [The Door's ruins resonate with the target's own broken thresholds.] | *Target suffers -10 Composure; a passage they needed is closed forever.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target approaches the ruin. |
-| { *The Blocked Path* [**Debuff**] } | "You need to get through — and you cannot. The collapse is absolute." | [The Door's wreckage blocks the target; frustration and grief build.] | *Target loses 10 Composure; the way is truly gone.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target tries to pass. |
-| { *The Falling Debris* [**Attack**] } | "The frame gives way further — and the splinters are sharp." | [A shower of collapsed door-fragments strikes.] | *Inflicts Deep Blue pressure and one jagged, splintering wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the ruin is disturbed. |
-| { *The Crushed Threshold* [**Attack**] } | "The entire frame comes down — and with it, every hope of crossing." | [The Door's full collapse buries the target.] | *A heavy Deep Blue burial; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the ruin is forced. |
-| { *Every Door Falls* [**Ultimate**] } | "Every threshold in the building collapses — and there is no way through anywhere." | [The Door's ruin spreads to every passage in the field.] | *All in range suffer Deep Blue pressure for three turns with no way through.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Splintered Frame* [**Debuff**] } | "The door is gone — but the frame remains, and the frame remembers everyone who passed through." | [The Door's ruins resonate with the target's own broken thresholds.] | *Target suffers -10 Composure; a passage they needed is closed forever.* **[10 Lament DMG [Lament]]** | When the target approaches the ruin. |
+| { *The Blocked Path* [**Debuff**] } | "You need to get through — and you cannot. The collapse is absolute." | [The Door's wreckage blocks the target; frustration and grief build.] | *Target loses 10 Composure; the way is truly gone.* **[10 Lament DMG [Lament]]** | When the target tries to pass. |
+| { *The Falling Debris* [**Attack**] } | "The frame gives way further — and the splinters are sharp." | [A shower of collapsed door-fragments strikes.] | *Inflicts Lament pressure and one jagged, splintering wound.* **[14-22 Lament DMG [Lament]]** | When the ruin is disturbed. |
+| { *The Crushed Threshold* [**Attack**] } | "The entire frame comes down — and with it, every hope of crossing." | [The Door's full collapse buries the target.] | *A heavy Deep Blue burial; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the ruin is forced. |
+| { *Every Door Falls* [**Ultimate**] } | "Every threshold in the building collapses — and there is no way through anywhere." | [The Door's ruin spreads to every passage in the field.] | *All in range suffer Lament pressure for three turns with no way through.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Portcullis rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Portcullis activates its primary resonance: Opens a brief emotional passage to the destination's memory. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of being trapped at the moment of departure; the bearer begins perceiving echoes of a tunnel collapse sealed a door while people were still on both sides of it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Portcullis begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Portcullis begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Portcullis too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may remain psychologically trapped at the threshold. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Portcullis: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Portcullis: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a key-charm of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a key-charm of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Portcullis (O-Iα-794 [LO]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Door formed from a passage closed before someone could leave. Held at Zone B, deep tunnels. It has never opened physically.
+Portcullis (O-Iα-794 [LO]) is logged as a Object-Weight manifestation expressing Lament. The Door formed from a passage closed before someone could leave. Held at Zone B, deep tunnels. It has never opened physically.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its light appears when someone names a destination.
@@ -386,7 +386,7 @@ Some sorrows mourn a collapse. Portcullis mourns the threshold — the passage s
 > *“A passage closed before the passage could be completed.”* — Elder, Tunnels
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-794 [LO]` · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-Iα-794 [LO]` · Lament · Object-Weight manifestation
 **Common Name:** Portcullis
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial

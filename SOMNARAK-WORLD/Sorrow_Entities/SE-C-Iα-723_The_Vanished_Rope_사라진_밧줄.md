@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning humanoid whose limbs are woven from rope — true fibre gone to ember — fading in and out of visibility, the rope severed at both ends so it leads to and from nothing. Fever-warm, it smells of cold rain on burning hemp; it reaches as though asking to be tied. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Knot* [**Debuff**] } | "The rope is gone — but the groove it left in your wrists is still there, still burning." | [The Rope's phantom mark aches; the target feels the absence of the binding.] | *Target suffers -10 Composure; they miss what bound them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target reaches for the Rope. |
-| { *The Severed End* [**Debuff**] } | "The rope was cut — and both ends are still reaching for each other, through you." | [The severed Rope's halves pull at the target; they feel the torn connection.] | *Target loses 10 Composure; they are caught between two missing halves.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target holds the cut end. |
-| { *The Phantom Noose* [**Attack**] } | "The rope is not there — but something closes around your throat anyway." | [The vanished Rope's ghost-memory constricts.] | *Inflicts Deep Blue pressure and one phantom strangling wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Rope's absence is probed. |
-| { *The Full Return* [**Attack**] } | "The rope comes back — whole, taut, and furious at having been cut." | [The Rope reconstitutes and lashes out.] | *A heavy Deep Blue strike; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Rope is summoned. |
-| { *Every Rope Vanishes* [**Ultimate**] } | "Every connection, every bond, every tie — all of them gone, and everyone is adrift." | [The Rope spreads its severing across the whole field.] | *All in range suffer Deep Blue pressure for three turns with no connections left.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Missing Knot* [**Debuff**] } | "The rope is gone — but the groove it left in your wrists is still there, still burning." | [The Rope's phantom mark aches; the target feels the absence of the binding.] | *Target suffers -10 Composure; they miss what bound them.* **[10 Lament DMG [Lament]]** | When the target reaches for the Rope. |
+| { *The Severed End* [**Debuff**] } | "The rope was cut — and both ends are still reaching for each other, through you." | [The severed Rope's halves pull at the target; they feel the torn connection.] | *Target loses 10 Composure; they are caught between two missing halves.* **[10 Lament DMG [Lament]]** | When the target holds the cut end. |
+| { *The Phantom Noose* [**Attack**] } | "The rope is not there — but something closes around your throat anyway." | [The vanished Rope's ghost-memory constricts.] | *Inflicts Lament pressure and one phantom strangling wound.* **[14-22 Lament DMG [Lament]]** | When the Rope's absence is probed. |
+| { *The Full Return* [**Attack**] } | "The rope comes back — whole, taut, and furious at having been cut." | [The Rope reconstitutes and lashes out.] | *A heavy Deep Blue strike; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Rope is summoned. |
+| { *Every Rope Vanishes* [**Ultimate**] } | "Every connection, every bond, every tie — all of them gone, and everyone is adrift." | [The Rope spreads its severing across the whole field.] | *All in range suffer Lament pressure for three turns with no connections left.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a knot-charm of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a knot-charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Vanished Rope (C-Iα-723 [LS]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The entity formed from the grief of a severed connection. Held at The Desolate — mobile. Mobile, non-territorial, and more active during the Sorrow Tide.
+The Vanished Rope (C-Iα-723 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The entity formed from the grief of a severed connection. Held at The Desolate — mobile. Mobile, non-territorial, and more active during the Sorrow Tide.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders the Desolate along old travel routes. Personnel feel the pull of an absent relationship. Fire dims when a worker acknowledges abandonment.
@@ -352,7 +352,7 @@ Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tet
 > *“He survived. He carries the rope. He is still tied to the companion who is gone.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-723 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-Iα-723 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Grudge manifestation
 **Common Name:** The Vanished Rope
 **Containment Status:** Contained — the Desolate (near Gate)
 **Comprehension Level:** 2 — Basic

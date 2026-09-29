@@ -22,7 +22,7 @@
 | Entity | Folly — 녹아내린 탑 |
 | Type / Manifestation | Object/Place — Object-Grudge; I-Relic |
 | Coherence / Potency | I — Residue / α — Minor |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | A tower-shaped crystal possibility melting upward into the sky, leaving warm empty rooms and no rubble. |
 | Gauge / Pressure | 25–40% / Void 3–10 |
 | Observation | 1 — Initial |

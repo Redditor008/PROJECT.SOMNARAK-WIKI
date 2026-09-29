@@ -21,7 +21,7 @@ The Tear formed from sorrow too deep to flow. The grief of someone unable to cry
 | Source designation | C-IIβ-102 [LO] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
 | Coherence / Potency | Echo (II) — Repeats melting, never melting / Moderate (β) |
-| Element / Location | Lament (Deep Blue) / SECTOR-D-02, Echo Gardens |
+| Element / Location | Lament / SECTOR-D-02, Echo Gardens |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A mourner's first and only tear froze before it could fall. |
@@ -52,7 +52,7 @@ During the The Icedrop Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Icedrop's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Icedrop's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Icedrop's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Icedrop's wound through the operator and triggers the recorded escalation.
 
 ---
 

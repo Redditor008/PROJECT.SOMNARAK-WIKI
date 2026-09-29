@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | N-IIβ-903 [VO] |
 | Type / Manifestation | Object — Can breach via Transform / Object-Phantasmal |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Void (Pale White) / SECTOR-N-903, contained |
+| Element / Location | Void / SECTOR-N-903, contained |
 | Gauge / Pressure | 426/426; starts 35–50% / 14–23 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Glass Elsewhere Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Glass Elsewhere's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Glass Elsewhere's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Glass Elsewhere's source condition, the Suit lets a witness bear its Void pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Glass Elsewhere's wound through the operator and triggers the recorded escalation.
 
 ---
 

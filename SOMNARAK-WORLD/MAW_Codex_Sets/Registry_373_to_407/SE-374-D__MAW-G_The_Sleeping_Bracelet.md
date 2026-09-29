@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A warm crimson Han-iron Tail bracelet carrying sleeping bark grain. The Tree granted it after a witness let the dream end without entering the promise. Bestowal chance is 5%.
+A warm Grudge Han-iron Tail bracelet carrying sleeping bark grain. The Tree granted it after a witness let the dream end without entering the promise. Bestowal chance is 5%.
 
 ## Appearance
 

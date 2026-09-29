@@ -21,7 +21,7 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 | Source designation | N-Iα-785 [O] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Lament (Deep Blue) / Zone D, Echo Gardens |
+| Element / Location | Lament / Zone D, Echo Gardens |
 | Gauge / Pressure | 227/227; starts 25–40% / 3–9 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object. |
@@ -52,7 +52,7 @@ During the The Tear Too Small to Honor Source-Trace, the field team preserved th
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.
 
 ---
 

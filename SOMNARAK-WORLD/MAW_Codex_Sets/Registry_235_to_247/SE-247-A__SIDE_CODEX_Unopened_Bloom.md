@@ -22,7 +22,7 @@
 | Entity | Unopened Bloom — 찢어진 꽃 |
 | Type / Manifestation | Subject — Subject-Lament |
 | Coherence / Potency | I — Residue / α — Minor |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | An upright torn flower-figure with warm flesh-soft petals, a fever-cold split, and weeping edges that smell of char and crushed bloom. |
 | Gauge / Pressure | 25–40% / Grudge 2–7 |
 | Movement | 0.95 m/s when pursuing |
@@ -51,7 +51,7 @@ Unopened Bloom grows from cracks near damaged memorials. It reaches toward passe
 | Ferrehan | Tests remaining without picking it up. | Down | Keep hands outside petal reach. |
 
 **Resolution:** Do not repair or pick it; witness the torn form.  
-**Breach:** At 45% Gauge the Bloom uproots, pursues personnel, and releases infesting spores while Crimson pressure damages Resilience.  
+**Breach:** At 45% Gauge the Bloom uproots, pursues personnel, and releases infesting spores while Grudge pressure damages Resilience.  
 **Response:** Clear touch range, keep the route open, and return it through calm accompaniment—not forced picking.
 
 ---
@@ -65,7 +65,7 @@ An echo forms only after the source closes its petals during Flerehan or Ferreha
 | Piece | Name | Grade | Purpose | Individual Codex |
 |---|---|---:|---|---|
 | Weapon | Unopened Bloom Sword | α | Heals one minor wound through flat contact while making loving touch dangerous. | `SE-247-B__MAW-W_Unopened_Bloom_Sword.md` |
-| Suit | Unopened Bloom Plate | α | Resists Crimson pressure around damaged memorials. | `SE-247-C__MAW-S_Unopened_Bloom_Plate.md` |
+| Suit | Unopened Bloom Plate | α | Resists Grudge pressure around damaged memorials. | `SE-247-C__MAW-S_Unopened_Bloom_Plate.md` |
 | Stigma | Unopened Bloom Charm | α | Distinguishes the original tear from later damage or attempted repair. | `SE-247-D__MAW-G_Unopened_Bloom_Charm.md` |
 
 **Set cost:** Reflexes dull, temper shortens, and the Sword makes the wielder’s touch harmful to loved ones. Repairing the source tear activates the full cost at once.

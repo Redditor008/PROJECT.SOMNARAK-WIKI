@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 3–5 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 18–36 per hit · Grudge (Crimson) |
+| **Han Pressure [ATK]** | 18–36 per hit · Grudge |
 | **HP** | 389/389 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -63,7 +63,7 @@ Alert Level 3. Level 4+ team with area-effect M.A.W. Structural teams on standby
 | **Han Pressure [ATK]** | 25–45 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[25–45 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[25–45 Grudge DMG [Grudge]]**
 
 ### The Iron Sentinel (Machine, Elite-grade)
 
@@ -75,7 +75,7 @@ Alert Level 3. Level 4+ team with area-effect M.A.W. Structural teams on standby
 | **Han Pressure [ATK]** | 30–50 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop. **[30–50 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop. **[30–50 Grudge DMG [Grudge]]**
 
 ### The Blade Storm (Non-Humanoid, Elite-grade)
 
@@ -87,7 +87,7 @@ Alert Level 3. Level 4+ team with area-effect M.A.W. Structural teams on standby
 | **Han Pressure [ATK]** | 35–55 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[35–55 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[35–55 Grudge DMG [Grudge]]**
 
 
 ## Trivia

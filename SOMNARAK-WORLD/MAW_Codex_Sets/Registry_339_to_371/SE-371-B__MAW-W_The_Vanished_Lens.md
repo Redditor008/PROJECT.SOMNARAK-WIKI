@@ -12,7 +12,7 @@
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass lens with an empty center and active erasure visible around its rim. It forms after honest absence documentation.
+A Void Han-glass lens with an empty center and active erasure visible around its rim. It forms after honest absence documentation.
 
 Zyrak used it to sever three Void edits spreading through a Commons incident log. The original protest content remained unknown; the fact of deletion survived.
 

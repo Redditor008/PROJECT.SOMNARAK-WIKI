@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Survivor's Span-Cleaver |
 | Set | Far Shore |
-| Type / grade / element | Weapon / δ — Critical / Lament — Deep Blue |
+| Type / grade / element | Weapon / δ — Critical / Lament |
 | Category | MELEE (Zweihander / Segmented Span-Blade) |
 | Status | Restricted border issue; shared-debrief requirement |
 | Maximum amount | 2 — Limited |
@@ -57,7 +57,7 @@
 
 ### Appearance
 
-The Survivor's Span-Cleaver is a massive, two-handed slab greatsword forged from a sheared suspension girder of deep-blue Han-crystal and rusted bridge steel. Three severed high-tensile bridge cables trail from the ricasso, whipping with sorrowful resonance as the blade moves. The cutting edge is fractured along its midpoint, resembling a collapsed roadway span that bridges together only when swinging with lethal momentum. When swung, it produces the hollow screech of buckling suspension iron, cleaving across the frontal quadrant in a wide panoramic arc.
+The Survivor's Span-Cleaver is a massive, two-handed slab greatsword forged from a sheared suspension girder of Lament Han-crystal and rusted bridge steel. Three severed high-tensile bridge cables trail from the ricasso, whipping with sorrowful resonance as the blade moves. The cutting edge is fractured along its midpoint, resembling a collapsed roadway span that bridges together only when swinging with lethal momentum. When swung, it produces the hollow screech of buckling suspension iron, cleaving across the frontal quadrant in a wide panoramic arc.
 
 ### Basic attack— *Far-Side Line*
 

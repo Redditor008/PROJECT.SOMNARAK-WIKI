@@ -22,7 +22,7 @@
 | Entity | The Collapsed Whisper — 무너진 속삭임 |
 | Type / Manifestation | Subject — Subject-Dream |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Form | A half-arriving dream figure made from a warning crushed beneath red static, char scent, and dead signal pressure. |
 | Gauge / Pressure | 60–80% / Grudge 24–52 |
 | Movement | Up to 2.45 m/s through dream-space |
@@ -51,7 +51,7 @@ The figure watches from the edge of sleep without stable eyes. Its voice collaps
 | Ferrehan | Tests listening through distortion. | Down | Keep an awake recorder outside the dream. |
 
 **Resolution:** Capture fragments without inventing the missing message.  
-**Breach:** At 90% Gauge, dream-space spreads and half-heard secrets drive personnel into panic while Crimson pressure attacks Resilience.  
+**Breach:** At 90% Gauge, dream-space spreads and half-heard secrets drive personnel into panic while Grudge pressure attacks Resilience.  
 **Response:** Stabilize waking anchors, preserve fragments independently, and refuse assembled certainty.
 
 ---

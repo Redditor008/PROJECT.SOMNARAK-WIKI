@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A bridge of pale crystal frozen suspended above the ground with no river beneath it, its far end lost in frost. Bloodless-cold, it smells of ash; it leads somewhere, but the frost hides where. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Iced Span* [**Debuff**] } | "The bridge is sealed in permafrost — every plank, every cable, frozen solid and impossible to cross." | [The Bridge's ice-lock denies passage; the target is trapped on one side.] | *Target suffers a Void mark; the crossing is impossible.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Bridge. |
-| { *The Deepening Cold* [**Debuff**] } | "The ice thickens — and the cold extends outward, freezing the air itself." | [The Bridge's permafrost spreads; the target is being sealed in.] | *Target loses clarity; the cold is everywhere.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Ice-Lance* [**Attack**] } | "A shard of the frozen bridge breaks free — ancient, sharp, and colder than anything natural." | [An ice-splinter from the Bridge strikes.] | *Inflicts Void damage; the ancient cold erodes warmth.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bridge is struck. |
-| { *The Full Shatter* [**Attack**] } | "The entire frozen bridge detonates — ice and wood and void, in every direction." | [The Bridge's permafrost fails catastrophically.] | *A heavy Void ice-burst; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Bridge is broken. |
-| { *The Frozen Crossing* [**Ultimate**] } | "The ice spreads to every bridge in the field — and without crossings, every side is cut off." | [The Bridge extends its freeze across the whole area.] | *All in range suffer Pale White erosion for three turns of frozen crossings.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Iced Span* [**Debuff**] } | "The bridge is sealed in permafrost — every plank, every cable, frozen solid and impossible to cross." | [The Bridge's ice-lock denies passage; the target is trapped on one side.] | *Target suffers a Void mark; the crossing is impossible.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Bridge. |
+| { *The Deepening Cold* [**Debuff**] } | "The ice thickens — and the cold extends outward, freezing the air itself." | [The Bridge's permafrost spreads; the target is being sealed in.] | *Target loses clarity; the cold is everywhere.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Ice-Lance* [**Attack**] } | "A shard of the frozen bridge breaks free — ancient, sharp, and colder than anything natural." | [An ice-splinter from the Bridge strikes.] | *Inflicts Void damage; the ancient cold erodes warmth.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bridge is struck. |
+| { *The Full Shatter* [**Attack**] } | "The entire frozen bridge detonates — ice and wood and void, in every direction." | [The Bridge's permafrost fails catastrophically.] | *A heavy Void ice-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bridge is broken. |
+| { *The Frozen Crossing* [**Ultimate**] } | "The ice spreads to every bridge in the field — and without crossings, every side is cut off." | [The Bridge extends its freeze across the whole area.] | *All in range suffer Void erosion for three turns of frozen crossings.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|---|
 | 10 Seconds | Bridge of the Unchosen rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Bridge of the Unchosen activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of what could have been if someone had chosen differently; the bearer begins perceiving echoes of a person abandoned a crossing at the last moment; the path froze around the decision. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Bridge of the Unchosen begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Bridge of the Unchosen begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Bridge of the Unchosen too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Bridge of the Unchosen: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Bridge of the Unchosen: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a shield-backed harness of pale Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a shield-backed harness of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -251,7 +251,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Bridge of the Unchosen (N-IIIγ-874 [D]) is logged as a Object-Weight manifestation expressing Void (Pale White). The Bridge formed from a crossing that was never taken. Held at Zone D, Echo Gardens. Frost never melts through temperature.
+Bridge of the Unchosen (N-IIIγ-874 [D]) is logged as a Object-Weight manifestation expressing Void. The Bridge formed from a crossing that was never taken. Held at Zone D, Echo Gardens. Frost never melts through temperature.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The destination changes according to the observer's regret.
@@ -386,7 +386,7 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 > *“The grief of what could have been if someone had chosen differently.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-874 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-874 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Object-Weight manifestation
 **Common Name:** Bridge of the Unchosen
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A matte black Han-weave mantle that breathes without sound and leaves the wearer’s mouth uncovered. It condenses after a pressure field recedes without forced disclosure.
+A matte Weight Han-weave mantle that breathes without sound and leaves the wearer’s mouth uncovered. It condenses after a pressure field recedes without forced disclosure.
 
 Binding requires a listener, a private exit, and permission for the wearer to say nothing. Hanul used it beside a silent family group; the Mantle reduced crushing Weight while nobody spoke. Relief began before the first voluntary word.
 

@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Body |
 | **Coherence** | III — Fragment |
 | **Potency** | γ — Major |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Form** | Pale shield-winged bird guarding an absent object |
 | **Location** | SECTOR-B-01, Three Birds containment |
 | **Comprehension Level** | 3 — Understood |

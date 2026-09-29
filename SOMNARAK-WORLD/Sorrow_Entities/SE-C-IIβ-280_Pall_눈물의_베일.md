@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A long woven tapestry of crystallized tears — not cloth but a textile of grief, always damp, clinging to the hands like wet silk. Where it drapes it leaves salt traces and the smell of a fresh wound. Lifted to light, the woven drops shiver as though still falling. |
 | **Movement** | Stationary — an artwork. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dampening* [**Debuff**] } | "The veil falls over your eyes — soft, wet, and impossible to wipe clear." | [The Veil settles over the target; sight dims behind a film of tears.] | *Target suffers -10 Composure; the world goes blurry.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Veil is drawn. |
-| { *The Blurred Sight* [**Debuff**] } | "You cannot tell what is grief and what is real anymore." | [The Veil thickens; the target cannot distinguish sorrow from surrounding.] | *Target loses 10 Composure; they move uncertainly.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target wears the Veil. |
-| { *The Wet Weight* [**Attack**] } | "The veil clings and drags — suffocating, sodden with old weeping." | [The Veil wraps tighter, pressing wet sorrow over the target's face.] | *Inflicts Deep Blue pressure and one suffocating wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Veil is provoked. |
-| { *The Unseen Blow* [**Attack**] } | "You cannot see it coming — and that is the veil's whole purpose." | [A strike lands from behind the obscuring veil.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the target is blinded by the Veil. |
-| { *The Shroud* [**Ultimate**] } | "The veil spreads until it covers everyone — and no one can see anyone else." | [The Veil expands to shroud the whole field in blinding tears.] | *All personnel suffer Deep Blue pressure for three turns in the whiteout.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dampening* [**Debuff**] } | "The veil falls over your eyes — soft, wet, and impossible to wipe clear." | [The Veil settles over the target; sight dims behind a film of tears.] | *Target suffers -10 Composure; the world goes blurry.* **[10 Lament DMG [Lament]]** | When the Veil is drawn. |
+| { *The Blurred Sight* [**Debuff**] } | "You cannot tell what is grief and what is real anymore." | [The Veil thickens; the target cannot distinguish sorrow from surrounding.] | *Target loses 10 Composure; they move uncertainly.* **[10 Lament DMG [Lament]]** | When the target wears the Veil. |
+| { *The Wet Weight* [**Attack**] } | "The veil clings and drags — suffocating, sodden with old weeping." | [The Veil wraps tighter, pressing wet sorrow over the target's face.] | *Inflicts Lament pressure and one suffocating wound.* **[14-22 Lament DMG [Lament]]** | When the Veil is provoked. |
+| { *The Unseen Blow* [**Attack**] } | "You cannot see it coming — and that is the veil's whole purpose." | [A strike lands from behind the obscuring veil.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the target is blinded by the Veil. |
+| { *The Shroud* [**Ultimate**] } | "The veil spreads until it covers everyone — and no one can see anyone else." | [The Veil expands to shroud the whole field in blinding tears.] | *All personnel suffer Lament pressure for three turns in the whiteout.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|---|
 | 10 Seconds | Pall rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Pall activates its primary resonance: Conceals identity and allows the wearer to feel nearby grief. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of mourning privately while appearing composed in public; the bearer begins perceiving echoes of visitors to the echo gardens collected tears to make a veil of shared mourning; the veil became aware of every wearer. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Pall begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Pall begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Pall too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The wearer cannot stop crying while the Veil is active. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Pall: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Pall: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Pall (C-IIβ-280 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Veil formed from sorrow people used to hide their tears. Held at Zone D, Echo Gardens. It becomes heavier near unexpressed grief.
+Pall (C-IIβ-280 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Veil formed from sorrow people used to hide their tears. Held at Zone D, Echo Gardens. It becomes heavier near unexpressed grief.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its tears contain no individual memories unless directly observed.
@@ -390,7 +390,7 @@ The city built a Veil to keep feeling down. The citizens built a veil to let it 
 > *“The city built a Veil to keep feeling down. The citizens built a veil to let it back out.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-280 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-280 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Object-Lament manifestation
 **Common Name:** Pall
 **Containment Status:** Contained — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, protective of knowledge |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A vast library of true wood shelves and paper books, perpetually wrapped in fire that illuminates the pages without ever consuming them — the flames alive, flickering crimson, heating without burning. Fever-hot, it smells of char and old paper; the books turn themselves. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Spark* [**Debuff**] } | "A book ignites — and the smoke carries the knowledge it held, now unreachable, now angry." | [The Library's burning releases resentment of forgotten knowledge.] | *Target suffers -10 Resilience; the lost knowledge weighs on them.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the Library. |
-| { *The Spreading Fire* [**Debuff**] } | "The flames jump shelf to shelf — and each burning book screams as its contents are lost forever." | [The Library's fire spreads; the target hears every page dying.] | *Target loses 10 Resilience; the destruction of knowledge is unbearable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Burning Page* [**Attack**] } | "A page, aflame, flies free — sharp, hot, and carrying the last words it will ever hold." | [A burning page strikes the target.] | *Inflicts Crimson pressure and one searing wound of lost words.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Library is disturbed. |
-| { *The Full Inferno* [**Attack**] } | "The entire library erupts — every book, every scroll, every recorded memory — all burning at once." | [The Library's total conflagration releases all its accumulated rage.] | *A heavy Crimson firestorm; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Library is attacked. |
-| { *The Ashes of Everything* [**Ultimate**] } | "The fire spreads beyond the library — to every record, every archive, every word ever written — and the world goes dark with ignorance." | [The Library extends its burning across the whole field.] | *All in range suffer Crimson pressure for three turns of burning knowledge.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Spark* [**Debuff**] } | "A book ignites — and the smoke carries the knowledge it held, now unreachable, now angry." | [The Library's burning releases resentment of forgotten knowledge.] | *Target suffers -10 Resilience; the lost knowledge weighs on them.* **[10 Grudge DMG [Grudge]]** | When the target enters the Library. |
+| { *The Spreading Fire* [**Debuff**] } | "The flames jump shelf to shelf — and each burning book screams as its contents are lost forever." | [The Library's fire spreads; the target hears every page dying.] | *Target loses 10 Resilience; the destruction of knowledge is unbearable.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Burning Page* [**Attack**] } | "A page, aflame, flies free — sharp, hot, and carrying the last words it will ever hold." | [A burning page strikes the target.] | *Inflicts Grudge pressure and one searing wound of lost words.* **[14-22 Grudge DMG [Grudge]]** | When the Library is disturbed. |
+| { *The Full Inferno* [**Attack**] } | "The entire library erupts — every book, every scroll, every recorded memory — all burning at once." | [The Library's total conflagration releases all its accumulated rage.] | *A heavy Crimson firestorm; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Library is attacked. |
+| { *The Ashes of Everything* [**Ultimate**] } | "The fire spreads beyond the library — to every record, every archive, every word ever written — and the world goes dark with ignorance." | [The Library extends its burning across the whole field.] | *All in range suffer Grudge pressure for three turns of burning knowledge.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -213,7 +213,7 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a page-tile of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a page-tile of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -287,7 +287,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Pyre of Truths (C-IVδ-092 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Library formed from knowledge that was censored, forbidden, or erased. Held at SECTOR-B-02, Zone B — contained. The Library contains pre-Consolihan records not found elsewhere.
+Pyre of Truths (C-IVδ-092 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Library formed from knowledge that was censored, forbidden, or erased. Held at SECTOR-B-02, Zone B — contained. The Library contains pre-Consolihan records not found elsewhere.
 
 **Entry 2 — <Excerpt from Field Log, Year 4204>**
 Flame temperature changes according to intent rather than physics.
@@ -373,7 +373,7 @@ Some sorrows are about loss. Pyre of Truths is about suppression — the truths 
 > *“A perpetual fire made of everything Somnarak tried to make its citizens forget.”* — Elder, Zone A
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-092 [GP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-092 [GP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Place-Grudge manifestation
 **Common Name:** Pyre of Truths
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 3 — Advanced

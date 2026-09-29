@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A crimson Han-iron Tail charm shaped like a small cooled coal. It warms around acknowledged anger and burns around emotion being treated as free fuel. Crucible granted it after a worker named resentment before making a repair tool. Bestowal rate is 5%.
+A Grudge Han-iron Tail charm shaped like a small cooled coal. It warms around acknowledged anger and burns around emotion being treated as free fuel. Crucible granted it after a worker named resentment before making a repair tool. Bestowal rate is 5%.
 
 ## Appearance
 

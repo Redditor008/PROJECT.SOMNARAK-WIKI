@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A cool deep-blue Han-crystal Tail core containing root-light but no seed. Unsprouted Life granted it after a worker completed Ferrehan without planting or watering. Bestowal chance is 4%.
+A cool Lament Han-crystal Tail core containing root-light but no seed. Unsprouted Life granted it after a worker completed Ferrehan without planting or watering. Bestowal chance is 4%.
 
 ## Appearance
 

@@ -20,7 +20,7 @@ Nemo is a translucent figure of flesh and light that reforms whenever one of its
 |---|---|
 | Type / Manifestation | Subject / Subject-Lament |
 | Coherence / Potency | III / γ |
-| Element | Lament (Deep Blue) |
+| Element | Lament |
 | Location | Zone A, Alpha Tree |
 | Gauge / Pressure | 673/673; starts 45–65% / 18–41 Lament |
 | Movement / Resistance | 1.95 m/s / 35% Lament, 25% other |

@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Mind |
 | **Coherence** | IV — Entity |
 | **Potency** | β — Moderate |
-| **Element** | Weight — Black |
+| **Element** | Weight |
 | **Form** | Shadow, chest pressure, and ledger-whisper perceived by heavily indebted people |
 | **Location** | SECTOR-C-01 / Collector’s Row |
 | **Comprehension Level** | 3 — Understood |

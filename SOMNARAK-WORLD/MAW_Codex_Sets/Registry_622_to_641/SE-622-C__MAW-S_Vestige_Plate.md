@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A crimson Han-iron harness of plates that flicker out one at a time and return in a different order. It tightens against Grudge but never covers the wearer’s feet, preserving awareness that phantom ground cannot bear weight.
+A Grudge Han-iron harness of plates that flicker out one at a time and return in a different order. It tightens against Grudge but never covers the wearer’s feet, preserving awareness that phantom ground cannot bear weight.
 
 The Plate formed around Yeonhwa while she completed Ferrehan beside Vestige’s fading trunk. It binds only to someone carrying a record medium, not a containment stake.
 

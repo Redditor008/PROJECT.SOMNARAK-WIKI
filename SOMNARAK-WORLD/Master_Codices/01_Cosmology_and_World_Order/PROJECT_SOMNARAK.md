@@ -516,12 +516,12 @@ Every Sorrow Entity is assigned a **Classification Code** — a unique identifie
 
 ### Element Codes
 
-| Code | Element | Color |
+| Code | Element | Symbol |
 |------|---------|-------|
-| **L** | Lament | Deep Blue |
-| **G** | Grudge | Crimson |
-| **V** | Void | Pale White |
-| **W** | Weight | Black |
+| **L** | Lament | ◆ |
+| **G** | Grudge | ◈ |
+| **V** | Void | ◇ |
+| **W** | Weight | ■ |
 | **M** | Mixed | Multiple elements |
 
 ---
@@ -907,7 +907,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Inner Zone B, closest to Zone A |
 | **Sub-Governor** | Elder Council — the oldest residents. They don't enforce rules; they *remember* them. |
-| **Han Signature** | Lament (Deep Blue) — expressed grief, ambient weeping |
+| **Han Signature** | Lament — expressed grief, ambient weeping |
 | **Sorrow Category** | City Sorrow (도한) — the city's oldest institutional grief |
 | **Manifestation** | Place-Lament — the district itself weeps |
 | **Veil/Raw** | 10% Veil / 90% Raw — the Veil cannot suppress sorrow this old |
@@ -955,7 +955,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Mid Zone B, deep and cramped |
 | **Sub-Governor** | Senior Collector — the highest-ranking Collector in Zone B |
-| **Han Signature** | Weight (Black) + Grudge (Crimson) — accumulated debt and resentment |
+| **Han Signature** | Weight + Grudge — accumulated debt and resentment |
 | **Sorrow Category** | Inner Sorrow (내한) — personal debt, inherited obligation |
 | **Manifestation** | Subject-Mind — debt exists in consciousness, not physical space |
 | **Veil/Raw** | 5% Veil / 95% Raw — the Veil is meaningless here; debt IS the sorrow |
@@ -1003,7 +1003,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Outer Zone B, near Zone D |
 | **Sub-Governor** | None, officially. In practice, the remaining merchants form an informal council. |
-| **Han Signature** | Void (Pale White) — the sorrow of being forgotten, erased |
+| **Han Signature** | Void — the sorrow of being forgotten, erased |
 | **Sorrow Category** | City Sorrow (도한) — the city's abandoned commerce |
 | **Manifestation** | Place-Phantasmal — ghostly stalls, echoes of old transactions |
 | **Veil/Raw** | 0% Veil / 100% Raw — no faction maintains the Veil here |
@@ -1051,7 +1051,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Deep Zone B — the site of the Cheongula |
 | **Sub-Governor** | None. The Wardens patrol the perimeter — but no one governs the Maw. |
-| **Han Signature** | Grudge (Crimson) — the resentment of 1,000 consumed citizens |
+| **Han Signature** | Grudge — the resentment of 1,000 consumed citizens |
 | **Sorrow Category** | City Sorrow (도한) — the First Sorrow, the city's original sin |
 | **Manifestation** | Place-Tale — a location that is the Cheongula's story made physical |
 | **Veil/Raw** | 0% Veil / 100% Raw — **the Veil cannot exist here** |
@@ -1126,7 +1126,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Inner Zone C, closest to Zone A |
 | **Sub-Governor** | Zone Commander — the highest-ranking Warden in Zone C |
-| **Han Signature** | Weight (Black) — the pressure of maintaining order |
+| **Han Signature** | Weight — the pressure of maintaining order         |
 | **Sorrow Category** | City Sorrow (도한) — institutional duty, the burden of enforcement |
 | **Manifestation** | Subject-Body — Wardens bear the weight physically |
 | **Veil/Raw** | 90% Veil / 10% Raw — the most controlled district in the city |
@@ -1174,7 +1174,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Mid Zone C |
 | **Sub-Governor** | Senior Collector — the highest-ranking Collector in Zone C |
-| **Han Signature** | Grudge (Crimson) + Weight (Black) — debt enforcement, karmic pressure |
+| **Han Signature** | Grudge + Weight — debt enforcement, karmic pressure |
 | **Sorrow Category** | City Sorrow (도한) — institutional debt, the system's weight |
 | **Manifestation** | Object-Weight — the Debt Registry, the Scales, the Ledger |
 | **Veil/Raw** | 80% Veil / 20% Raw — the Veil is strong, but debt seeps through |
@@ -1222,7 +1222,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Outer Zone C, near Zone D |
 | **Sub-Governor** | Merchant Council — elected by the market's traders |
-| **Han Signature** | Void (Pale White) — the sorrow of lost identity, the desire to be someone else |
+| **Han Signature** | Void — the sorrow of lost identity, the desire to be someone else |
 | **Sorrow Category** | Inner Sorrow (내한) — personal identity crisis, self-denial |
 | **Manifestation** | Object-Void — masks that erase the wearer's true self |
 | **Veil/Raw** | 40% Veil / 60% Raw — the market resists too much control |
@@ -1284,7 +1284,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Inner Zone D |
 | **Sub-Governor** | Neighborhood Councils — elected by residents |
-| **Han Signature** | Lament (Deep Blue) + Grudge (Crimson) — expressed grief and held resentment, balanced |
+| **Han Signature** | Lament + Grudge — expressed grief and held resentment, balanced |
 | **Sorrow Category** | Mixed — City, Outside, and Inner Sorrow coexist |
 | **Manifestation** | Subject-Body — the people themselves are the district's manifestation |
 | **Veil/Raw** | 50% Veil / 50% Raw — the balance point of the city |
@@ -1332,7 +1332,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Mid Zone D |
 | **Sub-Governor** | The Keepers — they maintain the gardens, but don't control what grows |
-| **Han Signature** | Lament (Deep Blue) — expressed grief, crystallized memory |
+| **Han Signature** | Lament — expressed grief, crystallized memory |
 | **Sorrow Category** | City Sorrow (도한) — the city's accumulated mourning |
 | **Manifestation** | Place-Lament — a location of crystallized grief-flowers |
 | **Veil/Raw** | 60% Veil / 40% Raw — the Keepers maintain a gentle Veil |
@@ -1380,7 +1380,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Outer Zone D |
 | **Sub-Governor** | Architect Guildhall — the local chapter of the Architect's order |
-| **Han Signature** | Weight (Black) — the pressure of shaping sorrow into structure |
+| **Han Signature** | Weight — the pressure of shaping sorrow into structure |
 | **Sorrow Category** | City Sorrow (도한) — the city's industrial labor |
 | **Manifestation** | Object-Weight — the forges themselves, the tools, the shaped Han |
 | **Veil/Raw** | 30% Veil / 70% Raw — the Architects need to feel the Han to shape it |
@@ -1442,7 +1442,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Inner Zone E |
 | **Sub-Governor** | Warden Garrison — the primary military presence |
-| **Han Signature** | Void (Pale White) + Weight (Black) — the emptiness of the edge, the pressure of the border |
+| **Han Signature** | Void + Weight — the emptiness of the edge, the pressure of the border |
 | **Sorrow Category** | Outside Sorrow (외한) — the wilderness presses in |
 | **Manifestation** | Place-Phantasmal — the district itself feels unreal, thin |
 | **Veil/Raw** | 20% Veil / 80% Raw — the Veil is thin at the edge |
@@ -1510,7 +1510,7 @@ Each district within a zone has:
 |-------|--------|
 | **Location** | Zone E — one specific point on the border |
 | **Sub-Governor** | None — the Gate is self-governing. The Council decrees exile; the Wardens enforce it. |
-| **Han Signature** | Void (Pale White) — the sorrow of being forgotten, erased from the city |
+| **Han Signature** | Void — the sorrow of being forgotten, erased from the city |
 | **Sorrow Category** | Inner Sorrow (내한) — the personal grief of exile |
 | **Manifestation** | Object-Void — the Gate itself, a physical erasure |
 | **Veil/Raw** | 0% Veil / 100% Raw — the Gate is beyond the Veil's reach |
@@ -2976,16 +2976,16 @@ Sorrow itself has **four elemental aspects** — each affecting the world differ
 
 #### The Four Elements
 
-| Element | Korean | Symbol | Color | Nature | What It Attacks |
-|---------|--------|--------|-------|--------|-----------------|
-| **Lament** | 탄식 (Tansik) | ◆ | Deep Blue | Sorrow expressed — grief that weeps, mourns, releases | **Mind** — emotional stability, willpower |
-| **Grudge** | 원한 (Wonhan) | ◈ | Crimson | Sorrow held — resentment, bitterness, unresolved injustice | **Body** — physical form, structural integrity |
-| **Void** | 공허 (Gongheo) | ◇ | Pale White | Sorrow lost — emptiness, numbness, absence of feeling | **Soul** — identity, memory, sense of self |
-| **Weight** | 무게 (Muge) | ■ | Black | Sorrow accumulated — the crushing pressure of Han | **Han** — the person's own sorrow reserves, karmic debt |
+| Element | Korean | Symbol | Nature | What It Attacks |
+|---------|--------|--------|--------|-----------------|
+| **Lament** | 탄식 (Tansik) | ◆ | Sorrow expressed — grief that weeps, mourns, releases | **Mind** — emotional stability, willpower |
+| **Grudge** | 원한 (Wonhan) | ◈ | Sorrow held — resentment, bitterness, unresolved injustice | **Body** — physical form, structural integrity |
+| **Void** | 공허 (Gongheo) | ◇ | Sorrow lost — emptiness, numbness, absence of feeling | **Soul** — identity, memory, sense of self |
+| **Weight** | 무게 (Muge) | ■ | Sorrow accumulated — the crushing pressure of Han | **Han** — the person's own sorrow reserves, karmic debt |
 
 ---
 
-#### Lament (탄식) — Deep Blue
+#### Lament (탄식)
 
 > *"The tears that fall are the sorrow that speaks."*
 
@@ -3013,7 +3013,7 @@ Sorrow itself has **four elemental aspects** — each affecting the world differ
 
 ---
 
-#### Grudge (원한) — Crimson
+#### Grudge (원한)
 
 > *"The sorrow that will not forgive has teeth."*
 
@@ -3041,7 +3041,7 @@ Sorrow itself has **four elemental aspects** — each affecting the world differ
 
 ---
 
-#### Void (공허) — Pale White
+#### Void (공허)
 
 > *"The worst sorrow is the one you cannot feel."*
 
@@ -3069,7 +3069,7 @@ Sorrow itself has **four elemental aspects** — each affecting the world differ
 
 ---
 
-#### Weight (무게) — Black
+#### Weight (무게)
 
 > *"The sorrow that accumulates does not need to touch you. It only needs to be near."*
 
@@ -3104,7 +3104,7 @@ Sorrow itself has **four elemental aspects** — each affecting the world differ
         /             \
        /               \
       /                 \
-GRUDGE (Red) -------- VOID (White)
+GRUDGE -------- VOID
       \                 /
        \               /
         \             /
@@ -3140,10 +3140,10 @@ Each M.A.W. has an **elemental affinity** — determined by the source entity's 
 
 | M.A.W. Element | Source Entity Type | Effect |
 |----------------|-------------------|--------|
-| **Lament (Deep Blue)** | Grief-entities, mourning-entities | Attacks emotional stability, causes weeping |
-| **Grudge (Crimson)** | Rage-entities, injustice-entities | Attacks physical form, causes wounds |
-| **Void (Pale White)** | Erasure-entities, numbness-entities | Attacks identity, causes memory loss |
-| **Weight (Black)** | Accumulation-entities, structural-entities | Attacks Han reserves, accelerates debt |
+| **Lament** | Grief-entities, mourning-entities | Attacks emotional stability, causes weeping |
+| **Grudge** | Rage-entities, injustice-entities | Attacks physical form, causes wounds |
+| **Void** | Erasure-entities, numbness-entities | Attacks identity, causes memory loss |
+| **Weight** | Accumulation-entities, structural-entities | Attacks Han reserves, accelerates debt |
 
 **Dual-element M.A.W.:** Some entities carry two elements — e.g., The Smothering Mother is **Grudge + Lament** (unresolved grief that physically suffocates).
 
@@ -3332,7 +3332,7 @@ When interacting with Sorrow Entities, R.D. personnel use **four Work Types** �
 
 ### Flerehan (플레레한) — The Work of Tears
 
-**Axis:** Physical + Lament (Deep Blue)
+**Axis:** Physical + Lament
 
 **What it is:** The worker approaches the Sorrow Entity with **empathy** — weeping alongside it, sharing its grief, releasing sorrow together. This is the most emotionally demanding Work Type — the worker must *feel* what the entity feels.
 
@@ -3361,7 +3361,7 @@ When interacting with Sorrow Entities, R.D. personnel use **four Work Types** �
 
 ### Pugnahan (푸그나한) — The Work of Confrontation
 
-**Axis:** Physical + Grudge (Crimson)
+**Axis:** Physical + Grudge
 
 **What it is:** The worker approaches the Sorrow Entity with **resolve** — facing its anger, resisting its aggression, standing firm against its hostility. This is the most physically demanding Work Type — the worker must *endure* what the entity throws at them.
 
@@ -3390,7 +3390,7 @@ When interacting with Sorrow Entities, R.D. personnel use **four Work Types** �
 
 ### Viderehan (비데레한) — The Work of Observation
 
-**Axis:** Mental + Void (Pale White)
+**Axis:** Mental + Void
 
 **What it is:** The worker approaches the Sorrow Entity with **detachment** — studying it from a distance, observing its patterns, understanding its nature without emotional engagement. This is the most mentally demanding Work Type — the worker must *think* without *feeling*.
 
@@ -3419,7 +3419,7 @@ When interacting with Sorrow Entities, R.D. personnel use **four Work Types** �
 
 ### Ferrehan (페레한) — The Work of Endurance
 
-**Axis:** Mental + Weight (Black)
+**Axis:** Mental + Weight
 
 **What it is:** The worker approaches the Sorrow Entity with **patience** — bearing its weight, enduring its presence, containing it through sheer willpower. This is the most sustained Work Type — the worker must *hold* without *breaking*.
 
@@ -3450,10 +3450,10 @@ When interacting with Sorrow Entities, R.D. personnel use **four Work Types** �
 
 | Work Type | Physical | Mental | Best Element | Best Category |
 |-----------|----------|--------|--------------|---------------|
-| **Flerehan** | ✓ | | Lament (Deep Blue) | City Sorrow |
-| **Pugnahan** | ✓ | | Grudge (Crimson) | Inner Sorrow |
-| **Viderehan** | | ✓ | Void (Pale White) | Outside Sorrow |
-| **Ferrehan** | | ✓ | Weight (Black) | City Sorrow |
+| **Flerehan** | ✓ | | Lament | City Sorrow |
+| **Pugnahan** | ✓ | | Grudge | Inner Sorrow |
+| **Viderehan** | | ✓ | Void | Outside Sorrow |
+| **Ferrehan** | | ✓ | Weight | City Sorrow |
 
 ### Work Type Effectiveness
 
@@ -5511,4 +5511,6 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | `Gieok_Jeojangso/` | Memory Archive — Seven floor readings and mnemonic combat |
 | `Jipyeongseondae/` | Horizon Caravan — Six trans-desolate overland expedition arcs |
 | `SOMNARAK_CITY_LAYOUT.svg` | City layout diagram |
+
+ram |
 

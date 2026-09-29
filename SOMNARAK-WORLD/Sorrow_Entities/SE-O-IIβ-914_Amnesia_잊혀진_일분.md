@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Time-Void |
 | **Physical Form** | Non-Organic — A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's void pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void / Pale White]]** | When the entity first fixes on a target. |
-| { *The Void Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void void sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void / Pale White]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[26 Void DMG [Void / Pale White]]** | When the entity is cornered or starved. |
-| { *The Void Collapse* [**Ultimate**] } | "The void breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void / Pale White] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's void pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
+| { *The Void Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void void sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[26 Void DMG [Void]]** | When the entity is cornered or starved. |
+| { *The Void Collapse* [**Ultimate**] } | "The void breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are.
 
 **Notable Features:**
-- Expresses Void (Pale White) pressure in a void register.
+- Expresses Void pressure in a void register.
 - The time form is unmistakable — this is a void entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -180,7 +180,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -190,7 +190,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -276,7 +276,7 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-914 [VT]` · Outside Sorrow origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Time-Void manifestation
+**Classification:** Sorrow Entity — `O-IIβ-914 [VT]` · Outside Sorrow origin · Echo (II) coherence · Moderate (β) potency · Void · Time-Void manifestation
 
 **Common Name:** Amnesia
 
@@ -291,7 +291,7 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the void register specifically — it is the primary channel of contact.
 
-**Cross-References:** Outside Sorrow (외한) · Void (Pale White) · Time-Void · Manifestation Classification
+**Cross-References:** Outside Sorrow (외한) · Void · Time-Void · Manifestation Classification
 
 ### Registry Addendum
 

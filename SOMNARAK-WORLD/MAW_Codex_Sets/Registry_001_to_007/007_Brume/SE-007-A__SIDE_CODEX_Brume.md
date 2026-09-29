@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Object/Place — Place-Phantasmal |
 | **Coherence** | II — Echo |
 | **Potency** | γ — Major |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Form** | Mobile bank of bone-white sorrow mist |
 | **Location** | The Desolate, follows Han-flow lines |
 | **Comprehension Level** | 1 — Initial |

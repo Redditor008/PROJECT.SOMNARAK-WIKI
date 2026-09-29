@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Saint’s Maul |
 | Set | Held Together |
-| Type / grade / element | Weapon / γ — Major / Weight — Black |
+| Type / grade / element | Weapon / γ — Major / Weight |
 | Status | Active; relief-bearer plan required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Sentinel Harin |

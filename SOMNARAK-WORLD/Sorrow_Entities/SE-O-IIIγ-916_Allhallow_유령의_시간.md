@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Time-Phantasmal |
 | **Physical Form** | Non-Organic — An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's phantasmal pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament / Deep Blue]]** | When the entity first fixes on a target. |
-| { *The Phantasmal Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament phantasmal sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament / Deep Blue]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[27 Lament DMG [Lament / Deep Blue]]** | When the entity is cornered or starved. |
-| { *The Phantasmal Collapse* [**Ultimate**] } | "The phantasmal breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament / Deep Blue] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's phantasmal pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
+| { *The Phantasmal Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament phantasmal sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[27 Lament DMG [Lament]]** | When the entity is cornered or starved. |
+| { *The Phantasmal Collapse* [**Ultimate**] } | "The phantasmal breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish.
 
 **Notable Features:**
-- Expresses Lament (Deep Blue) pressure in a phantasmal register.
+- Expresses Lament pressure in a phantasmal register.
 - The time form is unmistakable — this is a phantasmal entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a single-edged blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
 
 **Damage:** Lament 14–23 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
@@ -178,7 +178,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a flowing veil of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,7 +188,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -274,7 +274,7 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-916 [LT]` · Outside Sorrow origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Time-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-916 [LT]` · Outside Sorrow origin · Fragment (III) coherence · Major (γ) potency · Lament · Time-Phantasmal manifestation
 
 **Common Name:** Allhallow
 
@@ -289,7 +289,7 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the phantasmal register specifically — it is the primary channel of contact.
 
-**Cross-References:** Outside Sorrow (외한) · Lament (Deep Blue) · Time-Phantasmal · Manifestation Classification
+**Cross-References:** Outside Sorrow (외한) · Lament · Time-Phantasmal · Manifestation Classification
 
 ### Registry Addendum
 

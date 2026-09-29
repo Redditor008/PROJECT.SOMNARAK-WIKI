@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Memory Lens |
 | Set | Unremembered Lives |
-| Type / grade / element | Weapon / γ — Major / Void — Pale White |
+| Type / grade / element | Weapon / γ — Major / Void |
 | Status | Active; custody and identity-witness issue |
 | Maximum amount | 3 — Standard |
 | Current bearer | Researcher Euncris Park |

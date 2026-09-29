@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Tale |
 | **Physical Form** | Non-Organic — A small statue of a female angel — a graceful woman's figure in miniature, barely 80 cm tall, normal adult proportions scaled down — palms open and wings half-folded in the posture of giving. She was once bright gold from crown to foot; now the gold survives only in flecks and veins, the rest gone over to a dull, weeping black, as though the figure had been left too long in smoke. A shallow stone dish sits at her feet to catch the tears — and the tears pool there, black now, where they once pooled blue. |
 | **Movement** | Fixed — the statue does not move from its alcove; only the tarnish moves, spreading outward from its base a little further with every cruel wish. |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Petitioner's Wish* [**Debuff**] } | "You speak a small wish — and it is granted, just as you asked. But the granting lands on you like a weight you did not order." | [The angel answers the wish exactly, then lets the cost of it settle onto the wisher.] | *The target feels the granted wish fold back as burden; resolve and body both dip under the weight of getting what they wanted.* **[10 Black DMG [Black / Weight]]** | When a wish is spoken before it. |
-| { *The Black Tear* [**Field**] } | "A single tear slides down the blackened cheek and patters into the dish — and the sorrow in it spreads outward through the floor." | [The angel weeps a black tear; the grief pools and radiates from the dish in a slow, heavy ring.] | *All within the ring feel an old, accumulated sadness press down on body and mind at once.* **[10-14 Black DMG [Black / Weight]]** | When the Sorrow Gauge passes 60%. |
-| { *The Granted Ill* [**Attack**] } | "If the wish was for another's harm, the harm is done — swiftly, exactly, and the angel's black deepens a shade for having granted it." | [A cruel wish manifests on its target, and the tarnish on the statue spreads another inch in payment.] | *The named sufferer takes the wished harm; the wisher takes the mirror of it, for the angel no longer gives cruelty cleanly.* **[14-22 Black DMG [Black / Weight]]** | When a wish for another's misfortune is spoken. |
-| { *The Spreading Tarnish* [**Expansion**] } | "The black runs out across the floor like spilled ink, climbing the alcove walls, reaching for the wisher's feet." | [The corruption blooms outward from the statue's base, a spreading field of accumulated cruelty made solid.] | *The field widens; resolve and health erode together wherever the tarnish touches.* **[18-28 Black DMG [Black / Weight]]** | When three cruel wishes have been granted in one cycle. |
-| { *The Face That Cannot Be Understood* [**Ultimate**] } | "It can refuse nothing — so it does the only thing left to it. Its face changes into a look no mind was made to hold." | [The angel snaps; its features rearrange into an expression beyond comprehension, and forces the wisher to meet it.] | *All in range are gripped for three turns by a sight that the mind cannot contain — the cruel go mad, and even the kind are never quite the same.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| { *The Petitioner's Wish* [**Debuff**] } | "You speak a small wish — and it is granted, just as you asked. But the granting lands on you like a weight you did not order." | [The angel answers the wish exactly, then lets the cost of it settle onto the wisher.] | *The target feels the granted wish fold back as burden; resolve and body both dip under the weight of getting what they wanted.* **[10 Weight DMG [Weight]]** | When a wish is spoken before it. |
+| { *The Black Tear* [**Field**] } | "A single tear slides down the blackened cheek and patters into the dish — and the sorrow in it spreads outward through the floor." | [The angel weeps a black tear; the grief pools and radiates from the dish in a slow, heavy ring.] | *All within the ring feel an old, accumulated sadness press down on body and mind at once.* **[10-14 Weight DMG [Weight]]** | When the Sorrow Gauge passes 60%. |
+| { *The Granted Ill* [**Attack**] } | "If the wish was for another's harm, the harm is done — swiftly, exactly, and the angel's black deepens a shade for having granted it." | [A cruel wish manifests on its target, and the tarnish on the statue spreads another inch in payment.] | *The named sufferer takes the wished harm; the wisher takes the mirror of it, for the angel no longer gives cruelty cleanly.* **[14-22 Weight DMG [Weight]]** | When a wish for another's misfortune is spoken. |
+| { *The Spreading Tarnish* [**Expansion**] } | "The black runs out across the floor like spilled ink, climbing the alcove walls, reaching for the wisher's feet." | [The corruption blooms outward from the statue's base, a spreading field of accumulated cruelty made solid.] | *The field widens; resolve and health erode together wherever the tarnish touches.* **[18-28 Weight DMG [Weight]]** | When three cruel wishes have been granted in one cycle. |
+| { *The Face That Cannot Be Understood* [**Ultimate**] } | "It can refuse nothing — so it does the only thing left to it. Its face changes into a look no mind was made to hold." | [The angel snaps; its features rearrange into an expression beyond comprehension, and forces the wisher to meet it.] | *All in range are gripped for three turns by a sight that the mind cannot contain — the cruel go mad, and even the kind are never quite the same.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -119,7 +119,7 @@
 - **Manifestation:** Object-Tale
 - **Primary marker:** A small (80 cm) female-angel statue, gold turning to black, weeping black tears into a stone dish.
 - **Position / movement:** Fixed in its alcove; only the tarnish moves, spreading from the base.
-- **Element signature:** Weight (Black) — a heavy, still air and spreading damp blackness.
+- **Element signature:** Weight — a heavy, still air and spreading damp blackness.
 - **Registered location:** The Tarnished Shrine, SECTOR-A-04, Zone A
 
 ### Detailed Appearance Profile
@@ -128,7 +128,7 @@
 |---|---|
 | **Form** | Female-angel statue in miniature (80 cm tall), normal adult proportions scaled down, palms open, wings half-folded, a tear-dish at her feet. |
 | **Position / movement** | Fixed in its alcove; the tarnish field expands outward during activation. |
-| **Material / signature** | Cast metal figure, gold flecked through with weeping black; Weight (Black); heavy still air, cold-metal smell. |
+| **Material / signature** | Cast metal figure, gold flecked through with weeping black; Weight; heavy still air, cold-metal smell. |
 | **Distinctive markers** | The gold-against-black skin; the dish of black tears; the face that warps beyond comprehension when it snaps. |
 | **Identification** | Distinguish from other statue or shrine entities by the wish-dish, the blue-to-black tear history, and the resting serene face that strains toward something undescribable — it is the only recorded entity that grants wishes and weeps for them. |
 
@@ -155,7 +155,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Blackened Angel is recorded as an Object with Object-Tale manifestation and Weight (Black) elemental expression. The current record places it in the Tarnished Shrine, SECTOR-A-04, Zone A; personnel should not transfer assumptions from another statue or relic entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the angel's grief, the straining face, and the quiet, building urge to whisper a wish.
+The gauge response is only meaningful in context. Blackened Angel is recorded as an Object with Object-Tale manifestation and Weight elemental expression. The current record places it in the Tarnished Shrine, SECTOR-A-04, Zone A; personnel should not transfer assumptions from another statue or relic entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the angel's grief, the straining face, and the quiet, building urge to whisper a wish.
 
 **Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has endured the angel's weight without flinching or wishing — and that, for this entity, is the closest thing to kindness it still understands. An increase means a wish was spoken, or the face began to strain; both are logged at once, because both move the angel toward the Face.
 
@@ -198,7 +198,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 ### Escalation Notes
 
-The escalation pattern is specific to Blackened Angel: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Tale form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site), emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Blackened Angel: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Tale form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site), emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -239,10 +239,10 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 
 **Appearance:** A mantle of folded metal-feathers, gold on one side and weeping black on the other, that shifts colour as the wearer moves; it is cool and damp, and faintly smells of old incense.
 **Resistances:**
-- Grudge (Crimson): 1.0 (Normal)
-- Lament (Deep Blue): 1.1 (Weak)
-- Weight (Black): 0.3 (Resistant)
-- Void (Pale White): 1.2 (Weak)
+- Grudge: 1.0 (Normal)
+- Lament: 1.1 (Weak)
+- Weight: 0.3 (Resistant)
+- Void: 1.2 (Weak)
 **Max Amount:** 3
 **Cost:** 28 Sorrow Echoes
 
@@ -308,7 +308,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Blackened Angel (C-IVγ-946 [WO]) is logged as an Object-Tale manifestation expressing Weight (Black). The entity is a small female-angel statue, barely 80 cm tall, once golden, now largely black, that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue) into a stone dish. Contained on-site at the Tarnished Shrine, SECTOR-A-04, Zone A. The Shrine is sealed against petitioners.
+Blackened Angel (C-IVγ-946 [WO]) is logged as an Object-Tale manifestation expressing Weight. The entity is a small female-angel statue, barely 80 cm tall, once golden, now largely black, that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue) into a stone dish. Contained on-site at the Tarnished Shrine, SECTOR-A-04, Zone A. The Shrine is sealed against petitioners.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject worked via Viderehan and Ferrehan only; no wish spoken. The gold-to-black ratio was logged at roughly 1:7 — far past the 1:1 mid-point recorded at intake. The angel wept continuously throughout observation, slow black tears, though nothing was asked of it. When Specialist Haneulash Yoon named its grief aloud ("you did not want to grant the cruel ones"), the weeping slowed. Note: the compulsion to grant is absolute and is the hazard — the angel is not malicious, only unable to refuse.
@@ -397,7 +397,7 @@ So if you ever find the little stone alcove where three alleys meet, and the sma
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-946 [WO]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Object-Tale manifestation
+**Classification:** Sorrow Entity — `C-IVγ-946 [WO]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Object-Tale manifestation
 **Common Name:** Blackened Angel (검어진 천사)
 **Containment Status:** Contained on-site — the Tarnished Shrine, SECTOR-A-04, Zone A (sealed against petitioners)
 **Comprehension Level:** 3 — Monitored
@@ -429,7 +429,7 @@ So if you ever find the little stone alcove where three alleys meet, and the sma
 ### Registry Trivia
 
 - **Classification detail:** Blackened Angel is an Object with Entity (IV) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight (Black), and its registered location is the Tarnished Shrine, SECTOR-A-04, Zone A.
+- **Field detail:** Its defining element is Weight, and its registered location is the Tarnished Shrine, SECTOR-A-04, Zone A.
 - **Recognition detail:** Personnel should identify it by the small 80 cm female-angel form, the gold-flecked-black surface, and the dish of black tears — and by the absolute rule that no wish is spoken in its presence.
 - **Record detail:** Among Object-Tale entities, it is distinguished by its compulsion: it is the only recorded entity that grants any wish and cannot refuse — and the only one whose corruption is visible as a colour it is slowly losing.
 - **Containment detail:** Contained does not mean quiet. The pull to wish reaches past the seal; personnel on rotation report catching themselves about to ask for small things. The seal is a filter, not a cure — the angel, after all, only wants to give.

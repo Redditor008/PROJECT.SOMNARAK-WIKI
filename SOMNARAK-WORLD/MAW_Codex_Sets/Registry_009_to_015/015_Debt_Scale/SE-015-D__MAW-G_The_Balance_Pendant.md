@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Accessory (Stigma) — pendant |
 | **Grade** | β — Moderate |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Slot** | Head |
 | **Acquisition Probability** | 5% |
 | **Stat Effect** | +1 when working the Debt Scale source record |

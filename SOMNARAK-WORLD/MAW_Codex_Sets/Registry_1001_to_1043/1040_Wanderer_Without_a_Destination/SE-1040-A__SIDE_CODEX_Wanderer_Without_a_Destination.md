@@ -21,7 +21,7 @@ The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 | Source designation | O-IIIγ-914 [N] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree |
+| Element / Location | Lament / Zone A, Alpha Tree |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. |
@@ -52,7 +52,7 @@ During the The Wanderer Without a Destination Source-Trace, the field team prese
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Wanderer Without a Destination's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Provide a memory anchor; do not force a destination The set cannot heal the originating event. Misuse routes Wanderer Without a Destination's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Wanderer Without a Destination's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon contains only the immediate manifestation that violates this rule: Provide a memory anchor; do not force a destination The set cannot heal the originating event. Misuse routes Wanderer Without a Destination's wound through the operator and triggers the recorded escalation.
 
 ---
 

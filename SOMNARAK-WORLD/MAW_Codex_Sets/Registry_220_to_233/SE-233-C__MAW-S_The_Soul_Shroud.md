@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A wrapping shroud of cool deep-blue Han-silk smelling faintly of rain. Its folds never retain a face; they preserve only the distance between wearer and the person being accompanied.
+A wrapping shroud of cool Lament Han-silk smelling faintly of rain. Its folds never retain a face; they preserve only the distance between wearer and the person being accompanied.
 
 It condenses from route mist after an honest Ferrehan walk. Binding requires the wearer to say, “I do not remember you, and I will remain,” without adding a name or promise of recovery.
 
@@ -22,7 +22,7 @@ Hanul wore it when the Soul’s corridor began erasing escort badges. He matched
 
 ## Appearance
 
-The Soul Shroud is a wrapping suit of cool deep-blue Han-silk that smells faintly of rain. Its folds never retain a face — by nature, not by cleaning — and what they preserve instead is a distance: the measured space between the wearer and the person being accompanied. It condenses from route mist after an honest Ferrehan walk, and its binding words are fixed: the wearer must say “I do not remember you, and I will remain,” adding no name and no promise of recovery. Worn beside the fading figure, the cloth distributes Lament across that measured space so the wearer accompanies grief rather than absorbing it; falling behind or trying to lead collapses the protection entirely. The cost is joy — minor pleasures go numb, and prolonged wear makes accompaniment feel like the only morally permitted life. A lead fold means the wearer has stepped ahead and begun inventing a destination; a trailing seal means grief has become an object of study. It is maintained by walking the empty route once at ordinary pace with a living partner, speaking no source theory. The partner walks level and loosens the side fold for removal; pulling from ahead or behind tears the measured distance.
+The Soul Shroud is a wrapping suit of cool Lament Han-silk that smells faintly of rain. Its folds never retain a face — by nature, not by cleaning — and what they preserve instead is a distance: the measured space between the wearer and the person being accompanied. It condenses from route mist after an honest Ferrehan walk, and its binding words are fixed: the wearer must say “I do not remember you, and I will remain,” adding no name and no promise of recovery. Worn beside the fading figure, the cloth distributes Lament across that measured space so the wearer accompanies grief rather than absorbing it; falling behind or trying to lead collapses the protection entirely. The cost is joy — minor pleasures go numb, and prolonged wear makes accompaniment feel like the only morally permitted life. A lead fold means the wearer has stepped ahead and begun inventing a destination; a trailing seal means grief has become an object of study. It is maintained by walking the empty route once at ordinary pace with a living partner, speaking no source theory. The partner walks level and loosens the side fold for removal; pulling from ahead or behind tears the measured distance.
 
 ## PROTECTION FILE
 

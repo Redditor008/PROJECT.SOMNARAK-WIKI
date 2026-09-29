@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place — Object-Void; I-Relic (Indumentum) |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | SECTOR-C-01, Mask Market |
 | Primary Form | A bright painted mask with a fixed wide smile, dark wet eyeholes, and continuous laughter. |
 | Gauge / Han Pressure | 35–50% starting range / Void 7–17 per hit |
@@ -43,10 +43,10 @@ Levity’s lacquer is bright, bloodless-cold, and faintly scented with ash. Its 
 
 | Element | Status | Visible or sensory sign |
 |---|---|---|
-| Lament — Deep Blue | None recorded | Tears are visible, but the measured effect is not Lament. |
-| Grudge — Crimson | None recorded | No stable Crimson output. |
-| Void — Pale White | Primary | A convincing voice without a present self; memory and identity erode beneath the laughter. |
-| Weight — Black | None recorded | No stable Black output. |
+| Lament | None recorded | Tears are visible, but the measured effect is not Lament. |
+| Grudge | None recorded | No stable Crimson output. |
+| Void | Primary | A convincing voice without a present self; memory and identity erode beneath the laughter. |
+| Weight | None recorded | No stable Black output. |
 
 **Reliable distinction:** Genuine, unscripted laughter makes Levity briefly silent. Deliberate amusement, nervous laughter, and imitation can trigger or strengthen it.
 
@@ -115,7 +115,7 @@ A near-colorless disc of lens-ground Han-glass focuses Levity’s Void signature
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 4 / 20 |
 
-The pale Han-gossamer lets a hostile social voice move across its surface without immediately replacing the wearer’s identity. The exchange is self-absence: the wearer survives the chorus while feeling less certain that the protected person is them.
+The Void Han-gossamer lets a hostile social voice move across its surface without immediately replacing the wearer’s identity. The exchange is self-absence: the wearer survives the chorus while feeling less certain that the protected person is them.
 
 ---
 
@@ -123,7 +123,7 @@ The pale Han-gossamer lets a hostile social voice move across its surface withou
 
 ### M.A.W. Stigma — The Laughter Facade
 
-**Type / Slot:** Pale Han-glass mask-charm / Head  
+**Type / Slot:** Void Han-glass mask-charm / Head  
 **Grade / Element:** β / Void  
 **Acquisition:** 5% after successful source work; cannot be manufactured  
 **Bonus:** +1 Composure during work with Levity  

@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats spinning |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A broken compass of tarnished brass, its needle spinning without ever settling, its casing cracked and — oddly — warm to the touch. The face bears no markings, the glass is clouded. Bloodless-cold metal, warm at the crack; it smells of ash. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Spinning Needle* [**Debuff**] } | "The compass needle spins wildly — and watching it, your sense of direction comes apart." | [The Compass deranges orientation; the target cannot find north.] | *Target suffers a Void mark; they are lost in their own space.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target holds the Compass. |
-| { *The Wrong Way* [**Debuff**] } | "It points — but at nothing, at the void between directions — and following it leads nowhere." | [The Compass points toward absence; the target drifts.] | *Target loses clarity; every direction is the wrong one.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target follows the needle. |
-| { *The Needle-Strike* [**Attack**] } | "The needle snaps free — spinning, sharp, and aimed at you." | [A detached compass-needle launches at the target.] | *Inflicts Void damage; the strike of being directionless.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Compass is struck. |
-| { *The Full Disorientation* [**Attack**] } | "Every direction becomes the wrong one simultaneously — and the wrongness is a void." | [The Compass releases its complete directional chaos.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Compass is shattered. |
-| { *No One Knows Where They Are* [**Ultimate**] } | "Every compass in the field breaks — and without direction, everyone is simply lost." | [The Compass extends its directional collapse.] | *All in range suffer Pale White erosion for three turns of being lost.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Spinning Needle* [**Debuff**] } | "The compass needle spins wildly — and watching it, your sense of direction comes apart." | [The Compass deranges orientation; the target cannot find north.] | *Target suffers a Void mark; they are lost in their own space.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target holds the Compass. |
+| { *The Wrong Way* [**Debuff**] } | "It points — but at nothing, at the void between directions — and following it leads nowhere." | [The Compass points toward absence; the target drifts.] | *Target loses clarity; every direction is the wrong one.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target follows the needle. |
+| { *The Needle-Strike* [**Attack**] } | "The needle snaps free — spinning, sharp, and aimed at you." | [A detached compass-needle launches at the target.] | *Inflicts Void damage; the strike of being directionless.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Compass is struck. |
+| { *The Full Disorientation* [**Attack**] } | "Every direction becomes the wrong one simultaneously — and the wrongness is a void." | [The Compass releases its complete directional chaos.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Compass is shattered. |
+| { *No One Knows Where They Are* [**Ultimate**] } | "Every compass in the field breaks — and without direction, everyone is simply lost." | [The Compass extends its directional collapse.] | *All in range suffer Void erosion for three turns of being lost.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Compass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Compass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -228,7 +228,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -246,7 +246,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a compass-charm of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a compass-charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Compass (C-IIβ-290 [D]) is logged as a Object-Void manifestation expressing Void (Pale White). The Compass formed from the sorrow of being lost. Held at SECTOR-D-01, Forge District. The needle never stops in Somnarak.
+Broken Compass (C-IIβ-290 [D]) is logged as a Object-Void manifestation expressing Void. The Compass formed from the sorrow of being lost. Held at SECTOR-D-01, Forge District. The needle never stops in Somnarak.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It is unreliable near dense Han flows.
@@ -384,7 +384,7 @@ Some sorrows are about losing a place. Broken Compass is about losing direction 
 > *“The cartographer’s dread: that the map does not match the ground.”* — Elder, Forge District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-290 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-290 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** Broken Compass
 **Containment Status:** Contained — Archive
 **Comprehension Level:** 2 — Basic

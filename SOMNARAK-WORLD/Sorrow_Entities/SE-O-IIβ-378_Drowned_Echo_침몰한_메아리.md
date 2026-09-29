@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A submerged presence inside consciousness — perceived as a voice beneath dark water, calling from far below. Salt-cold, it smells of cold rain; no body, only the slow muffled cry rising from the deep. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Muffled Call* [**Debuff**] } | "A voice, from underwater — distorted, slow, barely human — and the water is rising around your ankles." | [The Echo's submerged nature drags the target down; they feel the pull of the deep.] | *Target suffers -10 Composure; they are being pulled under.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target hears the Echo. |
-| { *The Deep Pressure* [**Debuff**] } | "The echo comes from deeper — and the deeper it is, the more pressure it exerts on your chest." | [The Echo's depth creates water-pressure; the target's breathing is compressed.] | *Target loses 10 Composure; the pressure is enormous.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target follows the sound. |
-| { *The Sonic Depth* [**Attack**] } | "The echo surges upward — a column of sound and water — breaking the surface directly beneath you." | [An underwater echo-eruption strikes from below.] | *Inflicts Deep Blue pressure and one wound of drowning sound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Echo is disturbed. |
-| { *The Full Resurface* [**Attack**] } | "Every drowned echo in the deep rises at once — a chorus of underwater voices breaking the surface simultaneously." | [The Echo's complete surfacing releases all its submerged grief.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the water is disturbed. |
-| { *The Sunken Chorus* [**Ultimate**] } | "Every echo in the field goes underwater — and the combined submerged sound drowns everything." | [The Echo extends its submerging across the whole area.] | *All in range suffer Deep Blue pressure for three turns of drowned sound.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Muffled Call* [**Debuff**] } | "A voice, from underwater — distorted, slow, barely human — and the water is rising around your ankles." | [The Echo's submerged nature drags the target down; they feel the pull of the deep.] | *Target suffers -10 Composure; they are being pulled under.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
+| { *The Deep Pressure* [**Debuff**] } | "The echo comes from deeper — and the deeper it is, the more pressure it exerts on your chest." | [The Echo's depth creates water-pressure; the target's breathing is compressed.] | *Target loses 10 Composure; the pressure is enormous.* **[10 Lament DMG [Lament]]** | When the target follows the sound. |
+| { *The Sonic Depth* [**Attack**] } | "The echo surges upward — a column of sound and water — breaking the surface directly beneath you." | [An underwater echo-eruption strikes from below.] | *Inflicts Lament pressure and one wound of drowning sound.* **[14-22 Lament DMG [Lament]]** | When the Echo is disturbed. |
+| { *The Full Resurface* [**Attack**] } | "Every drowned echo in the deep rises at once — a chorus of underwater voices breaking the surface simultaneously." | [The Echo's complete surfacing releases all its submerged grief.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the water is disturbed. |
+| { *The Sunken Chorus* [**Ultimate**] } | "Every echo in the field goes underwater — and the combined submerged sound drowns everything." | [The Echo extends its submerging across the whole area.] | *All in range suffer Lament pressure for three turns of drowned sound.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a tiny bell of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a tiny bell of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Drowned Echo (O-IIβ-378 [LS]) is logged as a Subject-Mind manifestation expressing Lament (Deep Blue). The Echo formed from voices lost beneath Han floods. Held at Zone B, deep tunnels. The Echo is strongest in deep tunnels and flooded chambers.
+Drowned Echo (O-IIβ-378 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Echo formed from voices lost beneath Han floods. Held at Zone B, deep tunnels. The Echo is strongest in deep tunnels and flooded chambers.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the minds of personnel near deep water. Subjects feel submerged and cannot speak clearly. Instruments record pressure but not speech.
@@ -344,7 +344,7 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 > *“The Han absorbed the sound the way water absorbs sound.”* — Tunnel Worker
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-378 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `O-IIβ-378 [LS]` · Lament · Subject-Mind manifestation
 **Common Name:** Drowned Echo
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic

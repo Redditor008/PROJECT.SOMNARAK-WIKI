@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — A heavy door that rises up out of Old Lament floors with no wall around it, its frame burning with a slow red pressure. Fever-hot, it smells of char; a door that climbs toward you, offering a way through to somewhere unwanted. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lift* [**Debuff**] } | "The door rises — hinges creaking — pulling away from its frame, heading for the ceiling." | [The Door's ascent defies architecture; the target feels the wrongness.] | *Target suffers -10 Resilience; the rules are broken.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target sees the Door rise. |
-| { *The Floating Threshold* [**Debuff**] } | "The door hovers — and you could walk through it, if you could fly — and the temptation to try is maddening." | [The Door's hovering creates an inaccessible passage; the target is drawn to it.] | *Target loses 10 Resilience; they want to pass through.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target stares at the floating Door. |
-| { *The Falling Hinge* [**Attack**] } | "A hinge tears free from the rising door — heavy, iron, falling." | [ A metal hinge drops from the ascending Door.] | *Inflicts Crimson pressure and one heavy, metallic wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Door is struck. |
-| { *The Full Ascent* [**Attack**] } | "The door reaches the ceiling — and passes through it — and the breach it leaves is a wound in reality." | [The Door's impossible passage tears at space.] | *A heavy Crimson reality-wound; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Door is caught. |
-| { *The Ascending House* [**Ultimate**] } | "Every door in the field rises — and with them, every threshold — until the whole space has no ground-level passages." | [The Door extends its ascent across the whole area.] | *All in range suffer Crimson pressure for three turns of rising doors.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lift* [**Debuff**] } | "The door rises — hinges creaking — pulling away from its frame, heading for the ceiling." | [The Door's ascent defies architecture; the target feels the wrongness.] | *Target suffers -10 Resilience; the rules are broken.* **[10 Grudge DMG [Grudge]]** | When the target sees the Door rise. |
+| { *The Floating Threshold* [**Debuff**] } | "The door hovers — and you could walk through it, if you could fly — and the temptation to try is maddening." | [The Door's hovering creates an inaccessible passage; the target is drawn to it.] | *Target loses 10 Resilience; they want to pass through.* **[10 Grudge DMG [Grudge]]** | When the target stares at the floating Door. |
+| { *The Falling Hinge* [**Attack**] } | "A hinge tears free from the rising door — heavy, iron, falling." | [ A metal hinge drops from the ascending Door.] | *Inflicts Grudge pressure and one heavy, metallic wound.* **[14-22 Grudge DMG [Grudge]]** | When the Door is struck. |
+| { *The Full Ascent* [**Attack**] } | "The door reaches the ceiling — and passes through it — and the breach it leaves is a wound in reality." | [The Door's impossible passage tears at space.] | *A heavy Crimson reality-wound; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Door is caught. |
+| { *The Ascending House* [**Ultimate**] } | "Every door in the field rises — and with them, every threshold — until the whole space has no ground-level passages." | [The Door extends its ascent across the whole area.] | *All in range suffer Grudge pressure for three turns of rising doors.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The behavior table is a snapshot, not a system. The classification and origin co
 |---|---|---|
 | 10 Seconds | Door to Nowhere rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Door to Nowhere activates its primary resonance: Displays the path that choice might have opened. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of a threshold that existed but could not be crossed; the bearer begins perceiving echoes of a resident was trapped during a district lockdown, watching a door rise beyond reach. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Door to Nowhere begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Door to Nowhere begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Door to Nowhere too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may abandon the present for an imagined escape. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Door to Nowhere: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Door to Nowhere: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -228,7 +228,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a shield-backed harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a shield-backed harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -246,7 +246,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Door to Nowhere (O-IIβ-922 [O]) is logged as a Object-Weight manifestation expressing Grudge (Crimson). The Door formed from the anger of being denied an exit. Held at Zone B, Old Lament — ambient. It rises from floors without damaging them.
+Door to Nowhere (O-IIβ-922 [O]) is logged as a Object-Weight manifestation expressing Grudge. The Door formed from the anger of being denied an exit. Held at Zone B, Old Lament — ambient. It rises from floors without damaging them.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It appears near old lockdown sites.
@@ -382,7 +382,7 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 > *“Freedom, visible through a threshold that rises the harder you reach.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-922 [O]` · Grudge (Crimson) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IIβ-922 [O]` · Grudge · Object-Weight manifestation
 **Common Name:** Door to Nowhere
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic

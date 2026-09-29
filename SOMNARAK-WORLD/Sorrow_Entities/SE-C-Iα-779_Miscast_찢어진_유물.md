@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A broken relic split into several floating metal fragments that drift around the space they once filled, pulling toward one another but never reconnecting. Corroded and fever-cold, it smells of char; the gap between the pieces is the wound. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Broken Edge* [**Debuff**] } | "You touch the relic — and a shard breaks off in your hand, sharp with old rage." | [A splinter from the Relic embeds in the target; the anger inside it transfers.] | *Target suffers -10 Resilience; the shard carries inherited fury.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target handles the Relic. |
-| { *The Missing Piece* [**Debuff**] } | "You can feel the shape of what is gone — and the absence aches worse than the break." | [The Relic's incompleteness gnaws at the target; they feel what is missing.] | *Target loses 10 Resilience; the void where the piece was is unbearable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target studies the Relic. |
-| { *The Flying Shard* [**Attack**] } | "A shard flies free — guided by the anger of being torn apart." | [A sharp fragment launches at the target.] | *Inflicts Crimson pressure and one jagged, hot cut.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Relic is struck. |
-| { *The Reassembled Fury* [**Attack**] } | "The pieces fly back together — and for one instant, the relic is whole, and furious." | [The Relic briefly reconstitutes and erupts with stored rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Relic is forced together. |
-| { *A Thousand Shards* [**Ultimate**] } | "The relic explodes — and every shard seeks a heart." | [The Relic detonates into a storm of sharp, angry fragments.] | *All in range suffer Crimson pressure for three turns among the shrapnel.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Broken Edge* [**Debuff**] } | "You touch the relic — and a shard breaks off in your hand, sharp with old rage." | [A splinter from the Relic embeds in the target; the anger inside it transfers.] | *Target suffers -10 Resilience; the shard carries inherited fury.* **[10 Grudge DMG [Grudge]]** | When the target handles the Relic. |
+| { *The Missing Piece* [**Debuff**] } | "You can feel the shape of what is gone — and the absence aches worse than the break." | [The Relic's incompleteness gnaws at the target; they feel what is missing.] | *Target loses 10 Resilience; the void where the piece was is unbearable.* **[10 Grudge DMG [Grudge]]** | When the target studies the Relic. |
+| { *The Flying Shard* [**Attack**] } | "A shard flies free — guided by the anger of being torn apart." | [A sharp fragment launches at the target.] | *Inflicts Grudge pressure and one jagged, hot cut.* **[14-22 Grudge DMG [Grudge]]** | When the Relic is struck. |
+| { *The Reassembled Fury* [**Attack**] } | "The pieces fly back together — and for one instant, the relic is whole, and furious." | [The Relic briefly reconstitutes and erupts with stored rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Relic is forced together. |
+| { *A Thousand Shards* [**Ultimate**] } | "The relic explodes — and every shard seeks a heart." | [The Relic detonates into a storm of sharp, angry fragments.] | *All in range suffer Grudge pressure for three turns among the shrapnel.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The behavior table is a snapshot, not a system. The classification and origin co
 |---|---|---|
 | 10 Seconds | Miscast rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Miscast activates its primary resonance: Recreates the Relic's incomplete function for a short time. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of being made for a purpose and broken before fulfilling it; the bearer begins perceiving echoes of a forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Miscast begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Miscast begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Miscast too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user inherits the frustration of the failed purpose. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Miscast: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone D, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Miscast: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone D, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -251,7 +251,7 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Miscast (C-Iα-779 [GO]) is logged as a Object-Weight manifestation expressing Grudge (Crimson). The Relic formed from an object destroyed before its work was complete. Held at Zone D, Forge District. The pieces move along Forge District Han-currents.
+Miscast (C-Iα-779 [GO]) is logged as a Object-Weight manifestation expressing Grudge. The Relic formed from an object destroyed before its work was complete. Held at Zone D, Forge District. The pieces move along Forge District Han-currents.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes more active near broken tools.
@@ -388,7 +388,7 @@ Some sorrows mourn destruction. Miscast mourns incompletion — the artifact for
 > *“The rage of incompletion — purpose unfulfilled, function never performed.”* — Elder, Forge District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-779 [GO]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-779 [GO]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Object-Weight manifestation
 **Common Name:** Miscast
 **Containment Status:** Contained — Forge District
 **Comprehension Level:** 2 — Basic

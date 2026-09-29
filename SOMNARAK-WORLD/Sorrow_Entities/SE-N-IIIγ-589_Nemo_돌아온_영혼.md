@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A translucent figure, half-flesh and half-light, that returns whenever its tears fall — each tear carrying a name. Salt-damp and faintly warm, it smells of cold rain; it weeps the lost back into being, one name at a time. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reappearance* [**Debuff**] } | "It is back — the soul that was laid to rest — and it will not rest again." | [The Soul's return unsettles the target; the dead thing is walking.] | *Target suffers -10 Composure; the returned soul is wrong.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul reappears. |
-| { *The Accumulated Deaths* [**Debuff**] } | "Each time it returns, it carries the weight of every death it has already experienced." | [The Soul's repeated deaths compound; the target feels each one.] | *Target loses 10 Composure; the weight of many deaths is crushing.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target witnesses the return. |
-| { *The Cold Hand* [**Attack**] } | "The returning soul reaches — and its touch carries the cold of the grave it just left." | [A spectral strike from the returned Soul.] | *Inflicts Deep Blue pressure and one wound of deathly cold.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul is challenged. |
-| { *The Full Revenant* [**Attack**] } | "The soul fully materializes — every death, every return, every refusal to stay gone — condensed into one form." | [The Soul's complete return releases all its accumulated deaths.] | *A heavy Deep Blue revenance; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul is banished. |
-| { *The Army of Returns* [**Ultimate**] } | "Every soul that was ever laid to rest returns — and the weight of every death crushes the field." | [The Soul extends its returning across the whole area.] | *All in range suffer Deep Blue pressure for three turns of returning dead.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Reappearance* [**Debuff**] } | "It is back — the soul that was laid to rest — and it will not rest again." | [The Soul's return unsettles the target; the dead thing is walking.] | *Target suffers -10 Composure; the returned soul is wrong.* **[10 Lament DMG [Lament]]** | When the Soul reappears. |
+| { *The Accumulated Deaths* [**Debuff**] } | "Each time it returns, it carries the weight of every death it has already experienced." | [The Soul's repeated deaths compound; the target feels each one.] | *Target loses 10 Composure; the weight of many deaths is crushing.* **[10 Lament DMG [Lament]]** | When the target witnesses the return. |
+| { *The Cold Hand* [**Attack**] } | "The returning soul reaches — and its touch carries the cold of the grave it just left." | [A spectral strike from the returned Soul.] | *Inflicts Lament pressure and one wound of deathly cold.* **[14-22 Lament DMG [Lament]]** | When the Soul is challenged. |
+| { *The Full Revenant* [**Attack**] } | "The soul fully materializes — every death, every return, every refusal to stay gone — condensed into one form." | [The Soul's complete return releases all its accumulated deaths.] | *A heavy Deep Blue revenance; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is banished. |
+| { *The Army of Returns* [**Ultimate**] } | "Every soul that was ever laid to rest returns — and the weight of every death crushes the field." | [The Soul extends its returning across the whole area.] | *All in range suffer Lament pressure for three turns of returning dead.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a long blade of deep-blue Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a long blade of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -211,7 +211,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Nemo (N-IIIγ-589 [D]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Soul formed from someone who returned after everyone had forgotten them. Held at Zone A, Alpha Tree. It returns after every apparent disappearance.
+Nemo (N-IIIγ-589 [D]) is logged as a Subject-Lament manifestation expressing Lament. The Soul formed from someone who returned after everyone had forgotten them. Held at Zone A, Alpha Tree. It returns after every apparent disappearance.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Appears at thresholds and returns to old rooms. Personnel feel forgotten by people they love. Its tears carry individual names.
@@ -346,7 +346,7 @@ Some sorrows mourn exile. Nemo mourns the return — the homecoming to a world t
 > *“Homecoming to a world that moved on. The name no one remembers. The records that do not exist.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-589 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-589 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Lament manifestation
 **Common Name:** Nemo
 **Containment Status:** Contained — Old Lament
 **Comprehension Level:** 2 — Basic

@@ -14,7 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
-A thumb-sized black Han-steel seal settles at the Head slot, warm near sorrow and stamped with a root that stops before forming a surname. Emberroot grants it at random after successful work; it cannot be manufactured, demanded, or extracted by force.
+A thumb-sized Weight Han-steel seal settles at the Head slot, warm near sorrow and stamped with a root that stops before forming a surname. Emberroot grants it at random after successful work; it cannot be manufactured, demanded, or extracted by force.
 
 | Field | Record |
 |---|---|

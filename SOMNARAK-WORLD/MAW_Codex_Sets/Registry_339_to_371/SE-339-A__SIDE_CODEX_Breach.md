@@ -20,7 +20,7 @@ Breach is a wall-shaped presence inside consciousness: cracked, leaning, and col
 |---|---|
 | Type / Manifestation | Subject — Subject-Mind |
 | Coherence / Potency | IV / δ |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Gauge / Pressure | 60–80% / 28–62 |
 | Observation | 2 — Basic |
 | Set | The Honest Safeguard |

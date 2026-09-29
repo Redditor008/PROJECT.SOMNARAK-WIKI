@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Body |
 | **Coherence** | IV — Entity |
 | **Potency** | δ — Critical |
-| **Element** | Grudge — Crimson |
+| **Element** | Grudge |
 | **Scale** | Ten-meter maternal figure; arms span the containment room |
 | **Location** | SECTOR-D-01, Zone D |
 | **Comprehension Level** | 4 — Mastered |

@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A small child with ash-warm skin, ember-veins, a coal heart, and one ember cradled in both hands. |
 | Gauge / pressure | 35–50% / Lament 8–20 |

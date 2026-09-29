@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron fang formed after shared rescue review. Durivel used it to sever a guardian’s self-punishing loop while preserving current duty.
+A Grudge Han-iron fang formed after shared rescue review. Durivel used it to sever a guardian’s self-punishing loop while preserving current duty.
 
 ## Appearance
 

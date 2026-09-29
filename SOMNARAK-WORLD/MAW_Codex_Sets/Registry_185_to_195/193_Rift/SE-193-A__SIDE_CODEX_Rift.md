@@ -19,7 +19,7 @@
 | Entity | Rift — 사라진 벽 |
 | Type / Manifestation | Object/Place — Place-Grudge |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element / Location | Weight — Black / Zone B, Old Lament |
+| Element / Location | Weight / Zone B, Old Lament |
 | Form | An invisible wall absence where a demolished boundary remains emotionally impassable. |
 | M.A.W. Set | After the Wall |
 

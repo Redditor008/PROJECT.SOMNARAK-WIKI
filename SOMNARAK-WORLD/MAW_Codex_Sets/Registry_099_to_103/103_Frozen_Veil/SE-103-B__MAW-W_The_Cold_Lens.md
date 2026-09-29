@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Cold Lens |
 | Set | Warmth at Risk |
-| Type / grade / element | Weapon / δ — Critical / Void — Pale White |
+| Type / grade / element | Weapon / δ — Critical / Void |
 | Status | Restricted active issue; relationship-anchor verification required |
 | Maximum amount | 2 — Limited |
 | Current bearer | Specialist Hanul Grey |

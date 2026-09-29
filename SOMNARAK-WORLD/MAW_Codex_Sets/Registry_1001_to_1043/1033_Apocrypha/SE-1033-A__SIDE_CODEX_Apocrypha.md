@@ -21,7 +21,7 @@ The Relic formed from an object lost before its owner could say farewell. The em
 | Source designation | O-Iα-340 [VP] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Void (Pale White) / The Desolate — mobile |
+| Element / Location | Void / The Desolate — mobile |
 | Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | A traveler froze in the Desolate while carrying a relic no one else could identify. |
@@ -52,7 +52,7 @@ During the The Apocrypha Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Apocrypha's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Mark the site and speak the farewell that was missed The set cannot heal the originating event. Misuse routes Apocrypha's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Apocrypha's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: Mark the site and speak the farewell that was missed The set cannot heal the originating event. Misuse routes Apocrypha's wound through the operator and triggers the recorded escalation.
 
 ---
 

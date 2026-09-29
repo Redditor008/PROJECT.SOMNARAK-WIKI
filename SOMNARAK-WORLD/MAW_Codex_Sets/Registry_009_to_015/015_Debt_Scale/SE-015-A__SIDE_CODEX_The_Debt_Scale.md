@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Object/Place — Object-Void |
 | **Coherence** | III — Fragment |
 | **Potency** | β — Moderate |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Form** | Articulated bone frame with two cloudy crystal dishes |
 | **Location** | SECTOR-C-01, Collector use |
 | **Comprehension Level** | 2 — Studied |

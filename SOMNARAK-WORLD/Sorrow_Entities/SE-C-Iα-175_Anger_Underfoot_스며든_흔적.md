@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A thin crimson trace spreading slowly across floors, walls, and empty surfaces — the shape of a footprint with no walker making it. Fever-cold, it smells of char; follow it and it leads to no one. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Mark* [**Debuff**] } | "A stain appears on your hand — and it is shaped like a grudge you have been holding." | [The Trace marks the target; the stain is their own resentment.] | *Target suffers -10 Resilience; the mark is from within.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target is touched by the Trace. |
-| { *The Bleed* [**Debuff**] } | "The mark spreads — from hand to arm to chest — and it does not wash off." | [The Trace extends across the target; the resentment grows.] | *Target loses 10 Resilience; the stain covers more of them.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target fails to clean the mark. |
-| { *The Branding* [**Attack**] } | "The trace burns — the mark sears deeper, becoming permanent." | [The Trace burns itself into the target.] | *Inflicts Crimson pressure and one burning, indelible wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Trace is heated. |
-| { *The Full Contamination* [**Attack**] } | "The mark covers you entirely — and now you are the grudge you were holding." | [The Trace consumes the target; the resentment becomes them.] | *A heavy Crimson takeover; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Trace is fully developed. |
-| { *The Contagion* [**Ultimate**] } | "The trace jumps — from person to person, wall to wall — until everything is marked." | [The Trace spreads to every surface and person in the field.] | *All in range suffer Crimson pressure for three turns of spreading marks.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Mark* [**Debuff**] } | "A stain appears on your hand — and it is shaped like a grudge you have been holding." | [The Trace marks the target; the stain is their own resentment.] | *Target suffers -10 Resilience; the mark is from within.* **[10 Grudge DMG [Grudge]]** | When the target is touched by the Trace. |
+| { *The Bleed* [**Debuff**] } | "The mark spreads — from hand to arm to chest — and it does not wash off." | [The Trace extends across the target; the resentment grows.] | *Target loses 10 Resilience; the stain covers more of them.* **[10 Grudge DMG [Grudge]]** | When the target fails to clean the mark. |
+| { *The Branding* [**Attack**] } | "The trace burns — the mark sears deeper, becoming permanent." | [The Trace burns itself into the target.] | *Inflicts Grudge pressure and one burning, indelible wound.* **[14-22 Grudge DMG [Grudge]]** | When the Trace is heated. |
+| { *The Full Contamination* [**Attack**] } | "The mark covers you entirely — and now you are the grudge you were holding." | [The Trace consumes the target; the resentment becomes them.] | *A heavy Crimson takeover; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Trace is fully developed. |
+| { *The Contagion* [**Ultimate**] } | "The trace jumps — from person to person, wall to wall — until everything is marked." | [The Trace spreads to every surface and person in the field.] | *All in range suffer Grudge pressure for three turns of spreading marks.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Anger Underfoot: it is not a generic breac
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
 
 **Damage:** Grudge 3–6
 **Speed:** 2 (Normal)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Anger Underfoot: it is not a generic breac
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Anger Underfoot: it is not a generic breac
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a marked token of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a marked token of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Anger Underfoot (C-Iα-175 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Trace formed from a grievance carried through places rather than people. Held at Zone D, Mantle Commons. It spreads along repeated paths rather than physical cracks.
+Anger Underfoot (C-Iα-175 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Trace formed from a grievance carried through places rather than people. Held at Zone D, Mantle Commons. It spreads along repeated paths rather than physical cracks.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its origin has not been identified.
@@ -360,7 +360,7 @@ Some sorrows are about a wound. Anger Underfoot is about the scar the wound left
 > *“Fury without a referent. Rage that survived the people who felt it.”* — Elder, Mantle Commons
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-175 [GP]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-Iα-175 [GP]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Place-Grudge manifestation
 **Common Name:** Anger Underfoot
 **Containment Status:** Uncontained — Mantle Commons
 **Comprehension Level:** 2 — Basic

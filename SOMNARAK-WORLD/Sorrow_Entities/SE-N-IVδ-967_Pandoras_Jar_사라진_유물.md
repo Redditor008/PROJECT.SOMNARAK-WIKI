@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning humanoid carrying fragments of an object that no longer exists — its fire crimson-black, its hands cupped around something already gone. Fever-hot and lead-cold, it smells of char and wet stone; it guards what cannot be recovered. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Pedestal* [**Debuff**] } | "The relic is gone — but the place where it sat still aches with what was here." | [The absence of the Relic presses on the target; they feel the void it left.] | *Target suffers -10 Resolve; something important is missing.* **[10 Black DMG [Black / Weight]]** | When the target approaches the pedestal. |
-| { *The Phantom Weight* [**Debuff**] } | "You still feel it in your hands — the weight of a thing that is no longer there." | [The ghost-weight of the vanished Relic settles on the target.] | *Target loses 10 Resolve; they carry something that does not exist.* **[10 Black DMG [Black / Weight]]** | When the target reaches for it. |
-| { *The Hollow Grab* [**Attack**] } | "The absence reaches back — and where there was nothing, now there is a grip." | [The void where the Relic was seizes the target.] | *Inflicts Black pressure and one wound of crushing absence.* **[14-22 Black DMG [Black / Weight]]** | When the Relic's absence is probed. |
-| { *The Returned Nothing* [**Attack**] } | "The relic comes back — briefly, impossibly — and it is heavier than it ever was." | [The Relic manifests for an instant at terrible weight, then vanishes.] | *A heavy Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the absence is forced. |
-| { *Everything Vanishes* [**Ultimate**] } | "Now the floor is gone. Now the walls. Now you feel yourself beginning to go." | [The Relic's absence spreads, erasing everything around it.] | *All personnel suffer Black pressure for three turns as things disappear.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Empty Pedestal* [**Debuff**] } | "The relic is gone — but the place where it sat still aches with what was here." | [The absence of the Relic presses on the target; they feel the void it left.] | *Target suffers -10 Resolve; something important is missing.* **[10 Weight DMG [Weight]]** | When the target approaches the pedestal. |
+| { *The Phantom Weight* [**Debuff**] } | "You still feel it in your hands — the weight of a thing that is no longer there." | [The ghost-weight of the vanished Relic settles on the target.] | *Target loses 10 Resolve; they carry something that does not exist.* **[10 Weight DMG [Weight]]** | When the target reaches for it. |
+| { *The Hollow Grab* [**Attack**] } | "The absence reaches back — and where there was nothing, now there is a grip." | [The void where the Relic was seizes the target.] | *Inflicts Weight pressure and one wound of crushing absence.* **[14-22 Weight DMG [Weight]]** | When the Relic's absence is probed. |
+| { *The Returned Nothing* [**Attack**] } | "The relic comes back — briefly, impossibly — and it is heavier than it ever was." | [The Relic manifests for an instant at terrible weight, then vanishes.] | *A heavy Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the absence is forced. |
+| { *Everything Vanishes* [**Ultimate**] } | "Now the floor is gone. Now the walls. Now you feel yourself beginning to go." | [The Relic's absence spreads, erasing everything around it.] | *All personnel suffer Weight pressure for three turns as things disappear.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a weighted mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a weighted mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Pandora's Jar (N-IVδ-967 [WS]) is logged as a Subject-Grudge manifestation expressing Weight (Black). The entity formed from the grief of a relic erased from history. Held at The Desolate — mobile. The entity is mobile and has no fixed containment route.
+Pandora's Jar (N-IVδ-967 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the grief of a relic erased from history. Held at The Desolate — mobile. The entity is mobile and has no fixed containment route.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Moves through the Desolate following traces of the vanished object. Personnel feel the weight of lost history and burning resentment. It reacts violently to claims that the relic never existed.
@@ -346,7 +346,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 > *“The relic was physically lost and historically erased. The entity mourns its own non-existence.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-967 [WS]` · Weight (Black) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-967 [WS]` · Weight · Subject-Grudge manifestation
 **Common Name:** Pandora's Jar
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic

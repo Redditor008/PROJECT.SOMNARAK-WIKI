@@ -1,15 +1,15 @@
-# PALE First Watch — The Pale Tracks
+# ASHEN First Watch — The Pale Tracks
 
-> *A secondary PALE First Watch Ordeal — a distinct manifestation of void sorrow at minor severity.*
+> *A secondary ASHEN First Watch Ordeal — a distinct manifestation of void sorrow at minor severity.*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | PALE |
+| **Color** | ASHEN |
 | **Time** | First Watch |
 | **Risk** | Minor |
-| **Form** | PALE First Watch (secondary) |
+| **Form** | ASHEN First Watch (secondary) |
 
 ## Formation
 
@@ -29,7 +29,7 @@ Engage with minor-appropriate teams. Void-element M.A.W. recommended. Suppress t
 
 ## Facility Impact
 
-A minor-severity PALE encounter: localized damage. Contain before the void pressure cascades.
+A minor-severity ASHEN encounter: localized damage. Contain before the void pressure cascades.
 
 ## R.D. Response Protocol
 
@@ -37,7 +37,7 @@ Standard response team, Level 2+ personnel.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PALE First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary ASHEN First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Fragment-grade)
 
@@ -49,7 +49,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 8–18 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Ash-Walker (Non-Crystal, Fragment-grade)
 
@@ -73,7 +73,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 18–28 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It simply is, and what it touches, isn't. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[1 Void DMG [Void] (5% Max HP)]**
 
 
 ### The Faded (Humanoid, Fragment-grade)
@@ -86,7 +86,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 2 |
 
-**Ability:** It touches, and a little of who you are smudges away. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It touches, and a little of who you are smudges away. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### The Dust-Drift (Amorphous, Fragment-grade)
 
@@ -98,7 +98,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** It passes through, and a layer of what was there simply ceases to be. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It passes through, and a layer of what was there simply ceases to be. **[1 Void DMG [Void] (5% Max HP)]**
 
 ### Ash-Moths (Swarm, Fragment-grade)
 
@@ -110,16 +110,16 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They land, and where each one crumbles a small piece of the self goes with it. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** They land, and where each one crumbles a small piece of the self goes with it. **[1 Void DMG [Void] (5% Max HP)]**
 
 
 ## Trivia
 
-- A lesser-documented sibling encounter to the primary PALE First Watch Ordeal; same color and severity, different manifestation.
+- A lesser-documented sibling encounter to the primary ASHEN First Watch Ordeal; same color and severity, different manifestation.
 
 ## Document Information
 
-- **Document ID:** ORDEAL-PALE-First-II
+- **Document ID:** ORDEAL-ASHEN-First-II
 - **Author:** R.D. Field Records
 - **Date:** Year 4238
 - **Classification:** Restricted

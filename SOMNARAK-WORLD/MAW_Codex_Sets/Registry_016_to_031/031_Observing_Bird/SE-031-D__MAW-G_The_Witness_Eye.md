@@ -18,7 +18,7 @@
 |---|---|
 | Type | Stigma (Ocular Relic Mark) — forehead crystalline third eye |
 | Grade | γ — Major |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Slot | Head / Eye |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Observing Bird source record, +4 Clarity |

@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A deep-blue Han-crystal blade sounding like a voice beneath water. It forms after calm acknowledgment reaches Fathom.
+A Lament Han-crystal blade sounding like a voice beneath water. It forms after calm acknowledgment reaches Fathom.
 
 Durivel separated a pressure column from an anchored tunnel call without changing the voice. He wept for workers whose location could no longer support rescue.
 

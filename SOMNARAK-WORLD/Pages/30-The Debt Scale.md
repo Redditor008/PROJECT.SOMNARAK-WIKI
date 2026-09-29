@@ -25,7 +25,7 @@ Recovered from the municipal vaults of the Old Commercial Syndicate, The Debt Sc
 - [3 Operational Protocols: The Two-Work-Type Rule](#3-operational-protocols-the-two-work-type-rule)
 - [4 The Inversion Aura and Defensive Trade-Offs](#4-the-inversion-aura-and-defensive-trade-offs)
 - [5 Resonance Pairing with The Debt Eater](#5-resonance-pairing-with-the-debt-eater)
-- [6 Managerial Guidelines and Retrieval Rules](#6-managerial-guidelines-and-retrieval-rules)
+- [6 Warden Guidelines and Retrieval Rules](#6-warden-guidelines-and-retrieval-rules)
 - [7 Log and Method Archival Unlock Progression](#7-log-and-method-archival-unlock-progression)
 - [8 Metaphysical Origin and Story](#8-metaphysical-origin-and-story)
 - [9 Gallery](#9-gallery)
@@ -72,12 +72,12 @@ The Debt Scale shares a direct metaphysical resonance with [27-The Debt Eater](2
 - **Synergy:** When an operative carrying The Debt Scale enters The Debt Eater's containment chamber to execute ⚔ **Pugnahan** work, all Void damage dealt by The Debt Eater is reduced to 0.
 - **Bonus Yield:** Completing work under this pairing yields an additional +4 Lumen Units and grants the bearer the temporary *Absolved Debtor* combat buff.
 
-## 6 Managerial Guidelines and Retrieval Rules
+## 6 Warden Guidelines and Retrieval Rules
 
-1. **Managerial Tip 1:** An operative carrying The Debt Scale emits an aura that heals 5 SP to nearby allies every 3 seconds, making them invaluable for escorting panicked squadmates to safety.
-2. **Managerial Tip 2:** The bearer takes 80% increased damage from 🔴 **Grudge** attacks. Never position the scale-bearer in front of brute beasts or GREY Ordeal incursions.
-3. **Managerial Tip 3:** The scale must be returned to its chamber before the Warden concludes the daily shift. If the shift ends while an operative is still carrying the scale, the scale claims its debt, draining 50% of the operative's maximum HP permanently.
-4. **Managerial Tip 4:** If the bearer perishes while holding the scale, the relic remains on the corridor floor. Any adjacent specialist can pick it up. Bearer doctrine for corridor deployment:
+1. **Warden Tip 1:** An operative carrying The Debt Scale emits an aura that heals 5 SP to nearby allies every 3 seconds, making them invaluable for escorting panicked squadmates to safety.
+2. **Warden Tip 2:** The bearer takes 80% increased damage from 🔴 **Grudge** attacks. Never position the scale-bearer in front of brute beasts or GREY Ordeal incursions.
+3. **Warden Tip 3:** The scale must be returned to its chamber before the Warden concludes the daily shift. If the shift ends while an operative is still carrying the scale, the scale claims its debt, draining 50% of the operative's maximum HP permanently.
+4. **Warden Tip 4:** If the bearer perishes while holding the scale, the relic remains on the corridor floor. Any adjacent specialist can pick it up. Bearer doctrine for corridor deployment:
 
 | Doctrine | Bearer Loadout Rule | Reason |
 |---|---|---|
@@ -95,8 +95,8 @@ Observation logs for Equippable Relics unlock based on cumulative **Equipped Dur
 | Unlock Tier | Required Duration | Archival Information Unlocked |
 |---|---|---|
 | **Level 1** | 30 Seconds Equipped | Basic identification, SECC code, and equippable mechanic rules. |
-| **Level 2** | 60 Seconds Equipped | Managerial Tips 1 and 2, Void inversion defense, and Grudge vulnerability. |
-| **Level 3** | 120 Seconds Equipped | Managerial Tips 3 and 4, return rules, and Debt Eater resonance synergy. |
+| **Level 2** | 60 Seconds Equipped | Warden Tips 1 and 2, Void inversion defense, and Grudge vulnerability. |
+| **Level 3** | 120 Seconds Equipped | Warden Tips 3 and 4, return rules, and Debt Eater resonance synergy. |
 | **Level 4** | 300 Seconds Equipped | Complete commercial syndicate lore, archival debrief, and flavor text. |
 
 ## 8 Metaphysical Origin and Story

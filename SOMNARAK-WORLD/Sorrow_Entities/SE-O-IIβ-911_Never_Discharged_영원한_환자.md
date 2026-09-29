@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Time-Body |
 | **Physical Form** | Organic — A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's body pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight / Black]]** | When the entity first fixes on a target. |
-| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight body sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[18 Weight DMG [Weight / Black]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[21 Weight DMG [Weight / Black]]** | When the entity is cornered or starved. |
-| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[20 Weight DMG [Weight / Black] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's body pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
+| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight body sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[18 Weight DMG [Weight]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[21 Weight DMG [Weight]]** | When the entity is cornered or starved. |
+| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own.
 
 **Notable Features:**
-- Expresses Weight (Black) pressure in a body register.
+- Expresses Weight pressure in a body register.
 - The time form is unmistakable — this is a body entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a single-edged blade of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
 
 **Damage:** Weight 11–17 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
@@ -178,7 +178,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a flowing veil of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,7 +188,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a coin-token of black Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -274,7 +274,7 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-911 [WT]` · Outside Sorrow origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Time-Body manifestation
+**Classification:** Sorrow Entity — `O-IIβ-911 [WT]` · Outside Sorrow origin · Echo (II) coherence · Moderate (β) potency · Weight · Time-Body manifestation
 
 **Common Name:** Never Discharged
 
@@ -289,7 +289,7 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the body register specifically — it is the primary channel of contact.
 
-**Cross-References:** Outside Sorrow (외한) · Weight (Black) · Time-Body · Manifestation Classification
+**Cross-References:** Outside Sorrow (외한) · Weight · Time-Body · Manifestation Classification
 
 ### Registry Addendum
 

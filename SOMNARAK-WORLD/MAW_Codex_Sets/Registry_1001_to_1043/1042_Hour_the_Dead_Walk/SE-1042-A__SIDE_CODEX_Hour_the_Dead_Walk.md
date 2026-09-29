@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | O-IIIγ-916 [LT] |
 | Type / Manifestation | Time — Can breach via Transform / Time-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Lament (Deep Blue) / SECTOR-O-916, contained |
+| Element / Location | Lament / SECTOR-O-916, contained |
 | Gauge / Pressure | 449/449; starts 35–50% / 17–27 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Hour the Dead Walk Source-Trace, the field team preserved this so
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Hour the Dead Walk's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Hour the Dead Walk's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Hour the Dead Walk's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Hour the Dead Walk's wound through the operator and triggers the recorded escalation.
 
 ---
 

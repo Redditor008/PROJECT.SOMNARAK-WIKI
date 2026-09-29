@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly tree-beast whose trunk has split into a body and four moving root-limbs, a howling face in its bark, branches thrashing like arms — a burning, weeping creature. Warm and mobile, it smells of cold rain and char. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Heavy Branch* [**Debuff**] } | "The tree's branches sag — waterlogged, heavy with a grief that has been raining for centuries." | [The Tree's saturated sorrow drips onto the target.] | *Target suffers -10 Composure; the weight of old tears soaks in.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands beneath the Tree. |
-| { *The Rising Damp* [**Debuff**] } | "The water climbs — root to trunk to branch — and the climbing does not stop at the canopy." | [The Tree's grief-water permeates upward; the target feels the dampness spreading.] | *Target loses 10 Composure; the saturation is everywhere.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Soaking Sweep* [**Attack**] } | "A branch, heavy with sorrow-water, swings down — and the weight of it is staggering." | [A sodden branch-lash strikes the target.] | *Inflicts Deep Blue pressure and one drenching, heavy wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Tree is disturbed. |
-| { *The Full Deluge* [**Attack**] } | "The tree gives up its water — every drop it ever absorbed — in one catastrophic release." | [The Tree disgorges its complete sorrow-mass.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Tree is cut. |
-| { *The Drowned Forest* [**Ultimate**] } | "The water does not stop — and the whole grove goes under, roots and all." | [The Tree extends its soaking across the entire field.] | *All in range suffer Deep Blue pressure for three turns in the drowned forest.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Heavy Branch* [**Debuff**] } | "The tree's branches sag — waterlogged, heavy with a grief that has been raining for centuries." | [The Tree's saturated sorrow drips onto the target.] | *Target suffers -10 Composure; the weight of old tears soaks in.* **[10 Lament DMG [Lament]]** | When the target stands beneath the Tree. |
+| { *The Rising Damp* [**Debuff**] } | "The water climbs — root to trunk to branch — and the climbing does not stop at the canopy." | [The Tree's grief-water permeates upward; the target feels the dampness spreading.] | *Target loses 10 Composure; the saturation is everywhere.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Soaking Sweep* [**Attack**] } | "A branch, heavy with sorrow-water, swings down — and the weight of it is staggering." | [A sodden branch-lash strikes the target.] | *Inflicts Lament pressure and one drenching, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed. |
+| { *The Full Deluge* [**Attack**] } | "The tree gives up its water — every drop it ever absorbed — in one catastrophic release." | [The Tree disgorges its complete sorrow-mass.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tree is cut. |
+| { *The Drowned Forest* [**Ultimate**] } | "The water does not stop — and the whole grove goes under, roots and all." | [The Tree extends its soaking across the entire field.] | *All in range suffer Lament pressure for three turns in the drowned forest.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)
@@ -188,7 +188,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -206,7 +206,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a tiny lantern of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Drowned Roots (C-IIβ-997 [D]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Tree formed from the rage of a soldier never honored. Held at Zone C, Mask Market. It appears most clearly near military masks.
+Drowned Roots (C-IIβ-997 [D]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Tree formed from the rage of a soldier never honored. Held at Zone C, Mask Market. It appears most clearly near military masks.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears through the Mask Market's structures. Personnel feel pressure to honor duties they did not choose. Its branches do not cast ordinary shadows.
@@ -344,7 +344,7 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 > *“He died for the city. The city edited him from history. The tree remembers.”* — Former Soldier
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-997` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IIβ-997` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** Drowned Roots
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic

@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IIIγ-928 [VH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Mind |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Void (Pale White) / SECTOR-C-928, contained |
+| Element / Location | Void / SECTOR-C-928, contained |
 | Gauge / Pressure | 458/458; starts 35–50% / 17–26 per hit · Void |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Lethe Source-Trace, the field team preserved this source fact: No
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Lethe's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Lethe's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Lethe's source condition, the Suit lets a witness bear its Void pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Lethe's wound through the operator and triggers the recorded escalation.
 
 ---
 

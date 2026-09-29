@@ -20,7 +20,7 @@ A black shape-shifting relic appears ambiently in Old Lament after long absences
 |---|---|
 | Type / Manifestation | Object/Place; I-Relic (Indumentum) / Object-Void |
 | Coherence / Potency | IV / δ |
-| Element | Grudge (Crimson) |
+| Element | Grudge |
 | Location | Zone B, Old Lament — ambient |
 | Gauge / Pressure | 809/809; starts 60–80% / 28–60 Grudge |
 | Movement / Resistance | Fixed-returning object / 45% Grudge, 35% other |

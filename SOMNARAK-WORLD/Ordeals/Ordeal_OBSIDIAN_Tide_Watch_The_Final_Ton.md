@@ -1,27 +1,27 @@
-# BLACK Tide Watch — The Sinking Continent
+# BLACK Tide Watch — The Final Ton
 
-> *A secondary BLACK Tide Watch Ordeal — a distinct manifestation of weight sorrow at catastrophic severity.*
+> *A secondary OBSIDIAN Tide Watch Ordeal — a distinct manifestation of weight sorrow at catastrophic severity.*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | BLACK |
+| **Color** | OBSIDIAN |
 | **Time** | Tide Watch |
 | **Risk** | Catastrophic |
-| **Form** | BLACK Tide Watch (secondary) |
+| **Form** | OBSIDIAN Tide Watch (secondary) |
 
 ## Formation
 
-When an entire burdened district finally gave way, the landmass itself became a slow, crushing walker.
+The last unbearable measure of weight, when the city heap of obligation reached the point of collapse.
 
 ## Appearance
 
-A tract of ground the size of a block, heaving forward on buried supports, dragging everything down into its mass.
+An invisible but palpable pressure that descends over a whole zone, bending structure and body alike.
 
 ## Behavior
 
-It advances across the facility, and the weight of a drowned district settles over all it covers.
+It settles, and everything beneath simply gives way under the accumulated tonnage of every debt ever owed.
 
 ## Suppression Protocol
 
@@ -29,7 +29,7 @@ Engage with catastrophic-appropriate teams. Weight-element M.A.W. recommended. S
 
 ## Facility Impact
 
-A catastrophic-severity BLACK encounter: widespread structural and personnel threat. Contain before the weight pressure cascades.
+A catastrophic-severity OBSIDIAN encounter: widespread structural and personnel threat. Contain before the weight pressure cascades.
 
 ## R.D. Response Protocol
 
@@ -37,7 +37,7 @@ Echo-Core teams only.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary BLACK Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary OBSIDIAN Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Tide-Spawn-grade)
 
@@ -49,7 +49,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 35–60 per hit · Weight |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[35–60 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[35–60 Weight DMG [Weight]]**
 
 ### The Carrion-Mount (Non-Crystal, Tide-Spawn-grade)
 
@@ -73,7 +73,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 45–70 per hit · Weight |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[45–70 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[45–70 Weight DMG [Weight]]**
 
 
 ### The Weight-King (Humanoid, Tide-Spawn-grade)
@@ -86,7 +86,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 32–46 per hit · Weight |
 | **Spawn Count** | 1 |
 
-**Ability:** It settles over a hall, and the combined weight of a kingdom of flesh buries everything. **[32–46 Black DMG [Black / Weight]]**
+**Ability:** It settles over a hall, and the combined weight of a kingdom of flesh buries everything. **[32–46 Weight DMG [Weight]]**
 
 ### The Quagmire-Flesh (Amorphous, Tide-Spawn-grade)
 
@@ -98,7 +98,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 30–44 per hit · Weight |
 | **Spawn Count** | 1 |
 
-**Ability:** It floods, and the weight of the living lake drowns all who enter. **[30–44 Black DMG [Black / Weight]]**
+**Ability:** It floods, and the weight of the living lake drowns all who enter. **[30–44 Weight DMG [Weight]]**
 
 ### The Suffocating Carpet (Swarm, Tide-Spawn-grade)
 
@@ -110,16 +110,16 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 8–12 per hit · Weight |
 | **Spawn Count** | facility-wide |
 
-**Ability:** They cover the floor, and the sheer mass of millions of small bodies suffocates. **[8–12 Black DMG [Black / Weight]]**
+**Ability:** They cover the floor, and the sheer mass of millions of small bodies suffocates. **[8–12 Weight DMG [Weight]]**
 
 
 ## Trivia
 
-- A lesser-documented sibling encounter to the primary BLACK Tide Watch Ordeal; same color and severity, different manifestation.
+- A lesser-documented sibling encounter to the primary OBSIDIAN Tide Watch Ordeal; same color and severity, different manifestation.
 
 ## Document Information
 
-- **Document ID:** ORDEAL-BLACK-Tide-II
+- **Document ID:** ORDEAL-OBSIDIAN-Tide-II
 - **Author:** R.D. Field Records
 - **Date:** Year 4238
 - **Classification:** Restricted

@@ -46,7 +46,7 @@ Every breaching entity is regulated by an **Escape Counter** displayed above its
 
 ## 3 The Ten Primary Agitation Triggers
 
-The escape counter drops under specific conditions detailed in the entity's managerial tips:
+The escape counter drops under specific conditions detailed in the entity's warden tips:
 1. **Bad Work Outcome:** Generating mostly Fracture boxes during a work session.
 2. **Protocol Dislike:** Assigning a work protocol the entity abhors (e.g., ⚔ **Pugnahan** on a gentle grieving entity).
 3. **Meltdown Timeout:** Allowing a 60-second cell overload timer to expire without dispatching staff.

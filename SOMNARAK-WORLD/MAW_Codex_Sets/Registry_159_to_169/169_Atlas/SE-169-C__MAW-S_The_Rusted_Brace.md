@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Rusted Brace |
 | Set | Shared Support |
-| Type / grade / element | Suit, braced harness / α — Minor / Weight — Black |
+| Type / grade / element | Suit, braced harness / α — Minor / Weight |
 | Status | Active; Forge rotation issue |
 | Maximum amount | 5 — Standard |
 | Current bearer | Specialist Hanul Grey |

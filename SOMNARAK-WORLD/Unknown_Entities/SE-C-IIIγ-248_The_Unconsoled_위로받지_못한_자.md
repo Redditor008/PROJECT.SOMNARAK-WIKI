@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Organic — A translucent elder, sexless with age, in the rough Han-woven robes of the city's earliest settlers — half-flesh, half-light, slow-moving or seated, the face permanently wet with weeping. Salt-damp and faintly warm, it smells of cold rain on old cloth; no comfort has ever reached it. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Open Wound* [**Debuff**] } | "It shows you its grief, laid open — and yours answers it." | [The Unconsoled bares its sorrow; the target's own grief stirs in sympathy.] | *Target suffers -10 Composure; the wound is mirrored.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target approaches. |
-| { *The Rejected Comfort* [**Debuff**] } | "You try to help — and it will not be helped. Nothing reaches it. Nothing ever will." | [Every offered comfort slides off; the target feels the futility.] | *Target loses 10 Composure; the helplessness is its own wound.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target attempts Flerehan. |
-| { *The Keening* [**Attack**] } | "It opens its mouth and the sound that comes out is the sound of grief that has no floor." | [A wail rises — pure, bottomless sorrow given voice.] | *Inflicts Deep Blue pressure and one wound of heard anguish.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Unconsoled is moved. |
-| { *The Bottomless Grief* [**Attack**] } | "It shows you how deep the sorrow goes — and there is no bottom." | [The Unconsoled pours the full depth of its grief into the target.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Unconsoled is confronted. |
-| { *The Unending Weep* [**Ultimate**] } | "It weeps — and now everyone remembers a grief that will not be comforted." | [The Unconsoled extends its sorrow across the field, making all grief bottomless.] | *All in range suffer Deep Blue pressure for three turns of unending weeping.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Open Wound* [**Debuff**] } | "It shows you its grief, laid open — and yours answers it." | [The Unconsoled bares its sorrow; the target's own grief stirs in sympathy.] | *Target suffers -10 Composure; the wound is mirrored.* **[10 Lament DMG [Lament]]** | When the target approaches. |
+| { *The Rejected Comfort* [**Debuff**] } | "You try to help — and it will not be helped. Nothing reaches it. Nothing ever will." | [Every offered comfort slides off; the target feels the futility.] | *Target loses 10 Composure; the helplessness is its own wound.* **[10 Lament DMG [Lament]]** | When the target attempts Flerehan. |
+| { *The Keening* [**Attack**] } | "It opens its mouth and the sound that comes out is the sound of grief that has no floor." | [A wail rises — pure, bottomless sorrow given voice.] | *Inflicts Lament pressure and one wound of heard anguish.* **[14-22 Lament DMG [Lament]]** | When the Unconsoled is moved. |
+| { *The Bottomless Grief* [**Attack**] } | "It shows you how deep the sorrow goes — and there is no bottom." | [The Unconsoled pours the full depth of its grief into the target.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Unconsoled is confronted. |
+| { *The Unending Weep* [**Ultimate**] } | "It weeps — and now everyone remembers a grief that will not be comforted." | [The Unconsoled extends its sorrow across the field, making all grief bottomless.] | *All in range suffer Lament pressure for three turns of unending weeping.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -315,7 +315,7 @@ Changwook understood, watching the translucent figure rise from the foundation a
 > *"It is not that hope was not strong enough. It is that this grief is holding the building up. Lighten it and we all fall."* — Director Majin (마진), Year 4238
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-248 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-248 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** The Unconsoled
 **Containment Status:** Uncontained / Foundational — cannot be moved without destabilizing the city's base
 **Comprehension Level:** 3 — Elevated

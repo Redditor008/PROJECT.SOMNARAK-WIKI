@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A columnar plate of pale Han-glass with a deliberately hollow base. It binds only above surveyed current ground.
+A columnar plate of Void Han-glass with a deliberately hollow base. It binds only above surveyed current ground.
 
 ## Appearance
 

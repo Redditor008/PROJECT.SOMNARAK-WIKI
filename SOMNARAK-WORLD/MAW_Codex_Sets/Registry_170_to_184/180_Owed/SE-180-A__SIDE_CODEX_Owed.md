@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place — Place-Weight |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A massive wall of dense crystallized debt blocking a thoroughfare; new blocks bud when fresh obligations are recorded. |
 | Gauge / pressure | 45–65% / Weight 18–41 |

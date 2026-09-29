@@ -18,7 +18,7 @@
 |---|---|
 | Official name | Redacted Lens |
 | Set | Absent History |
-| Type / grade / element | Weapon / γ — Major / Void — Pale White |
+| Type / grade / element | Weapon / γ — Major / Void |
 | Maximum amount | 3 — Standard |
 | Recognition rule | It opens only after bearer states known, unknown, and inferred separately. |
 

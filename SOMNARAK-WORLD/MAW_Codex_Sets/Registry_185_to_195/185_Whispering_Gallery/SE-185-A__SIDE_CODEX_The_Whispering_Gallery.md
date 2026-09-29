@@ -19,7 +19,7 @@
 | Entity | The Whispering Gallery — 속삭이는 갤러리 |
 | Type / Manifestation | Object/Place — Place-Lament |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element / Location | Lament — Deep Blue / SECTOR-B-01, Zone B |
+| Element / Location | Lament / SECTOR-B-01, Zone B |
 | Form | Faceless oil portraits whose cracked paint hums with overlapping names and half-histories. |
 | M.A.W. Set | Named Portraits |
 

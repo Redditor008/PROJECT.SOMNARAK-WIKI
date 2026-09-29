@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Subject — Subject-Dream |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Location | Zone E, Border region |
 | Form | A dream figure shaped from one frozen breath, with crimson cracks across face and chest like a sigh held past the body’s limit. |
 | Gauge / pressure | 60–80% / Grudge 29–62 |

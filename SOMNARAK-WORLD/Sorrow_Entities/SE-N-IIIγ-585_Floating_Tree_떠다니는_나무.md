@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Mixed — A tree-beast drifting root-first through the air, hanging roots lashing like tentacles — a floating creature of pale wood shedding broken memories. Salt-damp, it smells of cold rain. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hanging Roots* [**Debuff**] } | "The tree floats, roots trailing — disconnected from the earth, dying slowly in the air." | [The Tree's disconnection resonates with the target; they feel uprooted.] | *Target suffers -10 Composure; they have lost their ground.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target sees the Tree. |
-| { *The Drifting Leaves* [**Debuff**] } | "Leaves fall upward — and each one is a connection the tree lost when it was torn free." | [The Tree sheds its last connections; the target catches them.] | *Target loses 10 Composure; they feel every severed bond.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers below. |
-| { *The Root Whip* [**Attack**] } | "A trailing root whips down — still strong, still reaching for earth it cannot find." | [A hanging root lashes the target.] | *Inflicts Deep Blue pressure and one reaching, tearing wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Tree is disturbed. |
-| { *The Full Descent* [**Attack**] } | "The tree gives up — drops from the sky like a falling star of grief." | [The Tree plummets to earth, carrying all its suspended sorrow.] | *A heavy Deep Blue impact; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Tree is struck mid-air. |
-| { *The Uprooted Forest* [**Ultimate**] } | "Every tree in the field lifts free — roots trailing, connections severed, all of them floating." | [The Tree spreads its uprooting to every rooted thing.] | *All in range suffer Deep Blue pressure for three turns in the floating forest.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Hanging Roots* [**Debuff**] } | "The tree floats, roots trailing — disconnected from the earth, dying slowly in the air." | [The Tree's disconnection resonates with the target; they feel uprooted.] | *Target suffers -10 Composure; they have lost their ground.* **[10 Lament DMG [Lament]]** | When the target sees the Tree. |
+| { *The Drifting Leaves* [**Debuff**] } | "Leaves fall upward — and each one is a connection the tree lost when it was torn free." | [The Tree sheds its last connections; the target catches them.] | *Target loses 10 Composure; they feel every severed bond.* **[10 Lament DMG [Lament]]** | When the target lingers below. |
+| { *The Root Whip* [**Attack**] } | "A trailing root whips down — still strong, still reaching for earth it cannot find." | [A hanging root lashes the target.] | *Inflicts Lament pressure and one reaching, tearing wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed. |
+| { *The Full Descent* [**Attack**] } | "The tree gives up — drops from the sky like a falling star of grief." | [The Tree plummets to earth, carrying all its suspended sorrow.] | *A heavy Deep Blue impact; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tree is struck mid-air. |
+| { *The Uprooted Forest* [**Ultimate**] } | "Every tree in the field lifts free — roots trailing, connections severed, all of them floating." | [The Tree spreads its uprooting to every rooted thing.] | *All in range suffer Lament pressure for three turns in the floating forest.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -220,7 +220,7 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -238,7 +238,7 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -292,7 +292,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Tree (N-IIIγ-585 [N]) is logged as a Place-Weight manifestation expressing Lament (Deep Blue). The Tree formed from lives separated from their roots. Held at The Desolate, near The Scar. It moves with Outside Sorrow currents.
+Floating Tree (N-IIIγ-585 [N]) is logged as a Place-Weight manifestation expressing Lament. The Tree formed from lives separated from their roots. Held at The Desolate, near The Scar. It moves with Outside Sorrow currents.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its roots never touch the ground.
@@ -376,7 +376,7 @@ Some sorrows mourn a home. Floating Tree mourns the rooting — the place that h
 > *“A tree with no roots, hovering, the physical shape of a community that lost its ground.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-585 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-585 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Weight manifestation
 **Common Name:** Floating Tree
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

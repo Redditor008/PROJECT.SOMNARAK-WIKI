@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Calculating and precise |
 | **Potency** | Major (γ) — High danger as group entity |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A heavy, dark-crimson bird of true flesh and feather — plumage the red of old anger, talons overgrown, its body radiating a dry, feverish heat. It dives from above and presses its mark into the target. The air around it carries the smell of char and old smoke; it is unmistakably alive, and unmistakably furious. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Tilted Scale* [**Debuff**] } | "It tilts its head, weighing you — and the scale tips, and you are found wanting." | [The Bird judges the target; the verdict lands as a physical mark of insufficiency.] | *Target suffers -10 Resilience; the Bird has decided they owe.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Bird first assesses a target. |
-| { *The Heavy Verdict* [**Debuff**] } | "The verdict hangs on you like a stone tied to the neck." | [The judgment deepens; the target carries the weight of being measured and found short.] | *Target loses 10 Resilience and cannot shake the sense of debt.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target remains under judgment. |
-| { *The Beak of Judgment* [**Attack**] } | "The beak comes down like a gavel." | [A sharp downward strike — the Bird pronounces sentence with its beak.] | *Inflicts Crimson pressure and one wound of pronounced guilt.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the target resists the verdict. |
-| { *The Reckoning* [**Attack**] } | "It calls every owed thing due at once." | [The Bird gathers all the target's debts — real and imagined — and demands payment now.] | *A heavy Crimson hit; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Bird is wounded or its judgment is challenged. |
-| { *The Final Tally* [**Ultimate**] } | "The books close. Everything is weighed. Nothing balances." | [The Bird extends its judgment across the whole field; everyone is measured at once.] | *All personnel suffer Crimson pressure for three turns as the reckoning spreads.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Tilted Scale* [**Debuff**] } | "It tilts its head, weighing you — and the scale tips, and you are found wanting." | [The Bird judges the target; the verdict lands as a physical mark of insufficiency.] | *Target suffers -10 Resilience; the Bird has decided they owe.* **[10 Grudge DMG [Grudge]]** | When the Bird first assesses a target. |
+| { *The Heavy Verdict* [**Debuff**] } | "The verdict hangs on you like a stone tied to the neck." | [The judgment deepens; the target carries the weight of being measured and found short.] | *Target loses 10 Resilience and cannot shake the sense of debt.* **[10 Grudge DMG [Grudge]]** | When the target remains under judgment. |
+| { *The Beak of Judgment* [**Attack**] } | "The beak comes down like a gavel." | [A sharp downward strike — the Bird pronounces sentence with its beak.] | *Inflicts Grudge pressure and one wound of pronounced guilt.* **[14-22 Grudge DMG [Grudge]]** | When the target resists the verdict. |
+| { *The Reckoning* [**Attack**] } | "It calls every owed thing due at once." | [The Bird gathers all the target's debts — real and imagined — and demands payment now.] | *A heavy Crimson hit; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Bird is wounded or its judgment is challenged. |
+| { *The Final Tally* [**Ultimate**] } | "The books close. Everything is weighed. Nothing balances." | [The Bird extends its judgment across the whole field; everyone is measured at once.] | *All personnel suffer Grudge pressure for three turns as the reckoning spreads.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Weighting Bird (C-IIIγ-032 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Bird formed from the sorrow of those forced to measure guilt and judge others. Held at SECTOR-B-01, contained with the Three Birds. It calculates guilt rather than morality.
+Weighting Bird (C-IIIγ-032 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Bird formed from the sorrow of those forced to measure guilt and judge others. Held at SECTOR-B-01, contained with the Three Birds. It calculates guilt rather than morality.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Flies through the facility measuring guilt and sorrow. Personnel feel their guilt physically measured. Personnel exposed for long periods report increased empathy and reduced detachment.
@@ -361,7 +361,7 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 > *“Graver than its siblings. Slower. Bent under accumulated verdicts.”* — Warden, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-032 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-032 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** Weighting Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
 **Comprehension Level:** 2 — Basic

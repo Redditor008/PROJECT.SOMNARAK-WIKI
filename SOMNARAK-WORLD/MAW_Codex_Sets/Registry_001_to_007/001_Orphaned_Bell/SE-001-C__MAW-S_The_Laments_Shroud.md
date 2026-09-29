@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Armor — Lament shroud |
 | **Grade** | δ — Critical |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Maximum Amount** | 2 — Limited |
 | **Echo Cost** | 45 Sorrow Echoes |
 | **Status** | Active, vigil-restricted issue |

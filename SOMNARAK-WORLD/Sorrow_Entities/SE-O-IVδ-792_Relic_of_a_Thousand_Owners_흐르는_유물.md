@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly figure carrying a relic that flows like liquid crystal in its hands, its own body shifting between person and object, never settling. Salt-damp, it smells of cold rain; a treasure and its keeper blended into one. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dripping Surface* [**Debuff**] } | "The relic is sweating — beads of liquid sorrow forming on its surface — and each bead carries the relic's stored power." | [The Relic's liquefaction releases its power in liquid form; the target is splashed.] | *Target suffers -10 Composure; the liquid relic is potent and spreading.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target holds the Relic. |
-| { *The Pool* [**Debuff**] } | "The relic has formed a pool at its base — and the pool is growing, and it glows with old power." | [The Relic's runoff accumulates; the target wades in liquid divinity.] | *Target loses 10 Composure; the pooled power is overwhelming.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target wades. |
-| { *The Liquid Strike* [**Attack**] } | "A glob of the flowing relic lifts and flies — carrying concentrated, liquid power." | [ A projectile of liquefied relic-matter strikes.] | *Inflicts Deep Blue pressure and one wound of liquid, ancient force.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Relic is disturbed. |
-| { *The Full Melt* [**Attack**] } | "The relic liquefies completely — a pool of pure, liquid, ancient sorrow — and it floods outward." | [The Relic's total dissolution releases its complete stored power.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Relic is shattered. |
-| { *The Liquid Archive* [**Ultimate**] } | "Every relic in the field begins to flow — and the combined pool of liquid artifacts drowns everything in ancient power." | [The Relic extends its flowing across the whole area.] | *All in range suffer Deep Blue pressure for three turns of liquid relics.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dripping Surface* [**Debuff**] } | "The relic is sweating — beads of liquid sorrow forming on its surface — and each bead carries the relic's stored power." | [The Relic's liquefaction releases its power in liquid form; the target is splashed.] | *Target suffers -10 Composure; the liquid relic is potent and spreading.* **[10 Lament DMG [Lament]]** | When the target holds the Relic. |
+| { *The Pool* [**Debuff**] } | "The relic has formed a pool at its base — and the pool is growing, and it glows with old power." | [The Relic's runoff accumulates; the target wades in liquid divinity.] | *Target loses 10 Composure; the pooled power is overwhelming.* **[10 Lament DMG [Lament]]** | When the target wades. |
+| { *The Liquid Strike* [**Attack**] } | "A glob of the flowing relic lifts and flies — carrying concentrated, liquid power." | [ A projectile of liquefied relic-matter strikes.] | *Inflicts Lament pressure and one wound of liquid, ancient force.* **[14-22 Lament DMG [Lament]]** | When the Relic is disturbed. |
+| { *The Full Melt* [**Attack**] } | "The relic liquefies completely — a pool of pure, liquid, ancient sorrow — and it floods outward." | [The Relic's total dissolution releases its complete stored power.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Relic is shattered. |
+| { *The Liquid Archive* [**Ultimate**] } | "Every relic in the field begins to flow — and the combined pool of liquid artifacts drowns everything in ancient power." | [The Relic extends its flowing across the whole area.] | *All in range suffer Lament pressure for three turns of liquid relics.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -265,7 +265,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Relic of a Thousand Owners (O-IVδ-792 [O]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Relic formed from an object carried through many exiles. Held at Zone E, Exile's Gate vicinity. The Relic changes form near the Exile's Gate.
+Relic of a Thousand Owners (O-IVδ-792 [O]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Relic formed from an object carried through many exiles. Held at Zone E, Exile's Gate vicinity. The Relic changes form near the Exile's Gate.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves around the Gate and through exile memories. Personnel feel every farewell attached to the relic. It is more active when someone leaves the city.
@@ -356,7 +356,7 @@ Some sorrows mourn an owner. Relic of a Thousand Owners mourns the having-none �
 > *“Heavy with the borrowed sorrow of every exile who held it and moved on.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-792 [O]` · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IVδ-792 [O]` · Lament · Subject-Phantasmal manifestation
 **Common Name:** Relic of a Thousand Owners
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic

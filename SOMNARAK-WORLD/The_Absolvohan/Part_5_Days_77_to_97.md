@@ -1032,7 +1032,7 @@ Tactical response execution:
 4. Specialist Kang secures Chamber 032 with 14.8 seconds remaining.
 5. Specialist Shin clears Chamber 081 (*The Hollow Saint*). Triad rupture averted.
 
-##### Tactical Engagement / Ordeal Suppression: The Carmine Claw (Crimson Second Watch)
+##### Tactical Engagement / Ordeal Suppression: The Carmine Claw (Rust Second Watch)
 
 At 15:40, an Ordeal vanguard breaches the central ventilation junction of Floor 2:
 

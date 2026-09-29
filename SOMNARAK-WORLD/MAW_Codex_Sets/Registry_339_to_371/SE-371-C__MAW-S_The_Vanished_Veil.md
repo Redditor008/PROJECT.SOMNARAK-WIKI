@@ -12,7 +12,7 @@
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 
-A pale Han-gossamer veil with one witness outline and a silent empty field. Binding requires an external written identity anchor.
+A Void Han-gossamer veil with one witness outline and a silent empty field. Binding requires an external written identity anchor.
 
 Iseulfros wore it while anti-sound spread through the Commons. The Veil preserved her as observer while current speech vanished; she recorded the boundary without attributing content.
 

@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Accessory (Stigma) — mask charm |
 | **Grade** | γ — Major |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Slot** | Head |
 | **Acquisition Probability** | 4% |
 | **Stat Effect** | +2 when working the Memory Weaver source record |

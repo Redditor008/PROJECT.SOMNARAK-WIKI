@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron fang with liquid light traveling from point to guard. It forms after the Well descends voluntarily.
+A Grudge Han-iron fang with liquid light traveling from point to guard. It forms after the Well descends voluntarily.
 
 Durivel severed three inverted flood lines from a workers’ memorial room while leaving grief anchored there. Old wounds bruised with stored resentment.
 

@@ -49,7 +49,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 15–30 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[15–30 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[15–30 Grudge DMG [Grudge]]**
 
 ### The Sinew-Bruiser (Non-Crystal, Greater-grade)
 
@@ -73,7 +73,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 25–40 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[25–40 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[25–40 Grudge DMG [Grudge]]**
 
 
 ### The Piked (Humanoid, Greater-grade)
@@ -86,7 +86,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 18–30 per hit · Grudge |
 | **Spawn Count** | 3 |
 
-**Ability:** It thrusts, and the bone-pike drives through with practiced fury. **[18–30 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It thrusts, and the bone-pike drives through with practiced fury. **[18–30 Grudge DMG [Grudge]]**
 
 ### The Blade-Haze (Amorphous, Greater-grade)
 
@@ -98,7 +98,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 16–26 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It swirls over a group, and a thousand tiny cuts open at once. **[16–26 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It swirls over a group, and a thousand tiny cuts open at once. **[16–26 Grudge DMG [Grudge]]**
 
 ### The Iron-Rats (Swarm, Greater-grade)
 
@@ -110,7 +110,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 8–12 per hit · Grudge |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They overwhelm, and coordinated gnawing brings down even armored targets. **[8–12 Crimson DMG [Crimson / Grudge]]**
+**Ability:** They overwhelm, and coordinated gnawing brings down even armored targets. **[8–12 Grudge DMG [Grudge]]**
 
 
 ## Trivia

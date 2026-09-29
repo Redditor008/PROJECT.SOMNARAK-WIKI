@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Veil |
 | Set | Borrowed Absence |
-| Type / grade / element | Suit / β — Moderate / Void — Pale White |
+| Type / grade / element | Suit / β — Moderate / Void |
 | Status | Active; paired deployment only |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Hanul Grey |

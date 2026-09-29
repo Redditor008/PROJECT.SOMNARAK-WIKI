@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence | IV — Entity |
 | Potency | β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | Tear-bodied young woman |
 | Location | SECTOR-D-02, Three Sisters containment |
 | Comprehension Level | 1 — Initial |

@@ -20,7 +20,7 @@ Somnalith is a sleeping figure curled around a large pale crystal shard, weeping
 |---|---|
 | Type / Manifestation | Subject / Subject-Lament |
 | Coherence / Potency | IV / δ |
-| Element | Void (Pale White) |
+| Element | Void |
 | Location | Zone E, Exile’s Gate vicinity |
 | Gauge / Pressure | 846/846; starts 60–80% / 27–59 Void |
 | Movement / Resistance | 2.45 m/s if stirred / 45% Void, 35% other |

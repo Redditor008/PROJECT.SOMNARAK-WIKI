@@ -19,7 +19,7 @@
 | Entity | The Rage Statue — 분노의 조각상 |
 | Type / Manifestation | Subject — Subject-Grudge |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element / Location | Grudge — Crimson / SECTOR-B-01, Zone B |
+| Element / Location | Grudge / SECTOR-B-01, Zone B |
 | Form | A colossal stone figure frozen mid-strike, with dark organic pressure pulsing through its fissures. |
 | M.A.W. Set | Unthrown Blow |
 

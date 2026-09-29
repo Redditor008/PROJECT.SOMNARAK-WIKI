@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Hazard-Spirit |
 | **Physical Form** | Organic — A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight / Black]]** | When the entity first fixes on a target. |
-| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight spirit sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[21 Weight DMG [Weight / Black]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[29 Weight DMG [Weight / Black]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight / Black] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
+| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight spirit sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[21 Weight DMG [Weight]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
+| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
 
 **Notable Features:**
-- Expresses Weight (Black) pressure in a spirit register.
+- Expresses Weight pressure in a spirit register.
 - The hazard form is unmistakable — this is a spirit entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a single-edged blade of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
@@ -178,7 +178,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a flowing veil of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
 **Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,7 +188,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a coin-token of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -274,7 +274,7 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-929 [WH]` · Inner Sorrow origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Hazard-Spirit manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-929 [WH]` · Inner Sorrow origin · Fragment (III) coherence · Major (γ) potency · Weight · Hazard-Spirit manifestation
 
 **Common Name:** Dead Air
 
@@ -289,7 +289,7 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the spirit register specifically — it is the primary channel of contact.
 
-**Cross-References:** Inner Sorrow (내한) · Weight (Black) · Hazard-Spirit · Manifestation Classification
+**Cross-References:** Inner Sorrow (내한) · Weight · Hazard-Spirit · Manifestation Classification
 
 ### Registry Addendum
 

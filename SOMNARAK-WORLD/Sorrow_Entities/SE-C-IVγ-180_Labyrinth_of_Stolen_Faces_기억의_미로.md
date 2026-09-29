@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, labyrinthine, trapping |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — A shifting labyrinth whose walls are built from crystallized memories rather than stone — translucent, flickering with faces and half-scenes. The walls rearrange whenever a visitor remembers or forgets. Bloodless-cold, it smells of ash; there is no body — the maze is the entity. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Wrong Turn* [**Debuff**] } | "The corridor shifts — and you are in a memory that is not yours, and the memory does not want you to leave." | [The Maze rearranges around the target; they are lost in someone else's past.] | *Target suffers a Void mark; their own memories are being overwritten.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Maze. |
-| { *The Dead End* [**Debuff**] } | "The path ends — at a wall made entirely of your earliest, most protected memory." | [The Maze confronts the target with their most guarded recollection.] | *Target loses clarity; the protected memory is exposed and vulnerable.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target reaches a dead end. |
-| { *The Shifting Wall* [**Attack**] } | "The wall moves — grinding, rearranging — and it pushes you into the memory behind it." | [The Maze's structure shifts, crushing the target into a stored recollection.] | *Inflicts Void damage; the pushed memory overwrites a portion of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Maze is disturbed. |
-| { *The Center* [**Attack**] } | "The maze has a center — and at the center, every memory the maze ever collected waits." | [The Maze's core releases its full accumulated memory-mass.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Maze is solved or broken. |
-| { *Everyone Is Lost in Memory* [**Ultimate**] } | "The maze grows — until every person is inside it — and no one can find their own past anymore." | [The Maze expands to encompass the entire field.] | *All in range suffer Pale White erosion for three turns of being lost in memory.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Wrong Turn* [**Debuff**] } | "The corridor shifts — and you are in a memory that is not yours, and the memory does not want you to leave." | [The Maze rearranges around the target; they are lost in someone else's past.] | *Target suffers a Void mark; their own memories are being overwritten.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Maze. |
+| { *The Dead End* [**Debuff**] } | "The path ends — at a wall made entirely of your earliest, most protected memory." | [The Maze confronts the target with their most guarded recollection.] | *Target loses clarity; the protected memory is exposed and vulnerable.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target reaches a dead end. |
+| { *The Shifting Wall* [**Attack**] } | "The wall moves — grinding, rearranging — and it pushes you into the memory behind it." | [The Maze's structure shifts, crushing the target into a stored recollection.] | *Inflicts Void damage; the pushed memory overwrites a portion of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Maze is disturbed. |
+| { *The Center* [**Attack**] } | "The maze has a center — and at the center, every memory the maze ever collected waits." | [The Maze's core releases its full accumulated memory-mass.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Maze is solved or broken. |
+| { *Everyone Is Lost in Memory* [**Ultimate**] } | "The maze grows — until every person is inside it — and no one can find their own past anymore." | [The Maze expands to encompass the entire field.] | *All in range suffer Void erosion for three turns of being lost in memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
 
 **Damage:** Void 7–12
 **Speed:** 3 (Fast)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a key-charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a key-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Labyrinth of Stolen Faces (C-IVγ-180 [VP]) is logged as a Place-Void manifestation expressing Void (Pale White). The Maze formed from confusion between memory, dream, and reality. Held at SECTOR-B-02, beneath Old Lament. Walls are made from memories rather than stone.
+Labyrinth of Stolen Faces (C-IVγ-180 [VP]) is logged as a Place-Void manifestation expressing Void. The Maze formed from confusion between memory, dream, and reality. Held at SECTOR-B-02, beneath Old Lament. Walls are made from memories rather than stone.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 No two routes remain identical.
@@ -360,7 +360,7 @@ Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite —
 > *“Your past, your grandmother’s past, a stranger’s dream — all tangled, all indistinguishable.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-180` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IVγ-180` · City origin · Entity (IV) coherence · Major (γ) potency · Void · Place-Void manifestation
 **Common Name:** Labyrinth of Stolen Faces
 **Containment Status:** Contained — beneath Old Lament
 **Comprehension Level:** 3 — Advanced

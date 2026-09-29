@@ -21,7 +21,7 @@ The Bridge formed from crossings interrupted by catastrophe. The grief of journe
 | Source designation | C-IVδ-823 [LS] |
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / Zone B, deep tunnels |
+| Element / Location | Lament / Zone B, deep tunnels |
 | Gauge / Pressure | 809/809; starts 60–80% / 25–53 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return. |
@@ -52,7 +52,7 @@ During the The Stranded Between Two Shores Source-Trace, the field team preserve
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Stranded Between Two Shores's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Listen between the sobs and name both shores The set cannot heal the originating event. Misuse routes Stranded Between Two Shores's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Stranded Between Two Shores's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon opens only the immediate manifestation that violates this rule: Listen between the sobs and name both shores The set cannot heal the originating event. Misuse routes Stranded Between Two Shores's wound through the operator and triggers the recorded escalation.
 
 ---
 

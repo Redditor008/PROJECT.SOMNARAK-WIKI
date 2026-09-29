@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Body |
 | **Coherence** | I — Residue |
 | **Potency** | α — Minor |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Form** | Small translucent child, usually at the edge of sight |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Comprehension Level** | 1 — Initial |

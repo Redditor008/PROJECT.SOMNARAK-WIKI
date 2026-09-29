@@ -21,7 +21,7 @@ The Wall formed from love that was never returned. The burden of remembering som
 | Source designation | C-IVδ-255 [N] |
 | Type / Manifestation | Subject — Can breach / Subject-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / Zone D, Mantle Commons |
+| Element / Location | Lament / Zone D, Mantle Commons |
 | Gauge / Pressure | 919/919; starts 60–80% / 23–50 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A citizen waited for a love that never answered; the waiting became a rising wall. |
@@ -52,7 +52,7 @@ During the The The Rising Wall Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Rising Wall's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Patient endurance and honest acknowledgment The set cannot heal the originating event. Misuse routes The Rising Wall's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Rising Wall's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon marks only the immediate manifestation that violates this rule: Patient endurance and honest acknowledgment The set cannot heal the originating event. Misuse routes The Rising Wall's wound through the operator and triggers the recorded escalation.
 
 ---
 

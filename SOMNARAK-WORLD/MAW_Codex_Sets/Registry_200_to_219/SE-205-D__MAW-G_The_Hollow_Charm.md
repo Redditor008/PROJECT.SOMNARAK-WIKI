@@ -18,7 +18,7 @@
 
 ## ITEM IDENTITY & BESTOWAL
 
-The Splintered Gullet is a thumb-length piece of matte black Han-steel with the grain of old bark. It rests at the crown beneath the bearer’s hair as if suspended from an unseen branch. The piece is far heavier than its size predicts; when it turns, the bearer’s head follows a fraction of a second later.
+The Splintered Gullet is a thumb-length piece of matte Weight Han-steel with the grain of old bark. It rests at the crown beneath the bearer’s hair as if suspended from an unseen branch. The piece is far heavier than its size predicts; when it turns, the bearer’s head follows a fraction of a second later.
 
 A genuine Charm casts the shadow of a leafless fruit stem. It gives no reflection and makes no sound when struck.
 
@@ -35,7 +35,7 @@ A bearer must recognize absence without treating it as an instruction. Someone w
 | Field | Record |
 |---|---|
 | Type | Accessory — bearer-bound Stigma |
-| Grade / element | γ — Major / Weight — Black |
+| Grade / element | γ — Major / Weight |
 | Slot | Head |
 | Acquisition probability | 4% after successful source work |
 | Bonus | +2 Resolve during work with Timber Maw |

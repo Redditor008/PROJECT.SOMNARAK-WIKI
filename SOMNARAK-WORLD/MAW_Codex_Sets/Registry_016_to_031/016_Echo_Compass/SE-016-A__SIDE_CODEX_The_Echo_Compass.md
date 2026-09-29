@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Object/Place — Object-Void |
 | **Coherence** | III — Fragment |
 | **Potency** | β — Moderate |
-| **Element** | Void — Pale White |
+| **Element** | Void |
 | **Form** | Brass compass with bone needle and no cardinal marks |
 | **Location** | SECTOR-D-01, Forge District |
 | **Comprehension Level** | 2 — Studied |

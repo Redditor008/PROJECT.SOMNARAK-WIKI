@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Empty and seeking |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A humanoid in the shape of a saint, but its body is built around an absence — a hollow at the core where a heart should be, the flesh curving inward to frame the nothing. Its hands reach toward nearby people, searching for something to fill the hole. It is bloodless, cold, and smells of ash. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Blessing* [**Debuff**] } | "It blesses you — and the blessing takes more than it gives." | [The Saint offers a hollow benediction; something is taken.] | *Target suffers a Void mark; the blessing has a cost.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target seeks the Saint's favor. |
-| { *The False Halo* [**Debuff**] } | "The light around its head is beautiful — and it is drinking the light from yours." | [The Saint's halo drains the target's warmth and certainty.] | *Target loses clarity; the holy light is hollow.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target basks in the halo. |
-| { *The Judging Eye* [**Attack**] } | "It looks at you the way only a saint can — and the judgment is absolute." | [A gaze of pure condemnation strikes the target.] | *Inflicts Void damage; a portion condemned away.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Saint is questioned. |
-| { *The Reliquary* [**Attack**] } | "It opens the hollow space inside itself — and the void within is vaster than any heaven." | [The Saint reveals the emptiness behind its holiness.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Saint's fraud is exposed. |
-| { *The Empty Heaven* [**Ultimate**] } | "It ascends — and the heaven it rises to is nothing, and it wants company." | [The Saint opens its hollow paradise across the whole field.] | *All in range suffer Pale White erosion for three turns in the void-paradise.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Empty Blessing* [**Debuff**] } | "It blesses you — and the blessing takes more than it gives." | [The Saint offers a hollow benediction; something is taken.] | *Target suffers a Void mark; the blessing has a cost.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target seeks the Saint's favor. |
+| { *The False Halo* [**Debuff**] } | "The light around its head is beautiful — and it is drinking the light from yours." | [The Saint's halo drains the target's warmth and certainty.] | *Target loses clarity; the holy light is hollow.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target basks in the halo. |
+| { *The Judging Eye* [**Attack**] } | "It looks at you the way only a saint can — and the judgment is absolute." | [A gaze of pure condemnation strikes the target.] | *Inflicts Void damage; a portion condemned away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Saint is questioned. |
+| { *The Reliquary* [**Attack**] } | "It opens the hollow space inside itself — and the void within is vaster than any heaven." | [The Saint reveals the emptiness behind its holiness.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Saint's fraud is exposed. |
+| { *The Empty Heaven* [**Ultimate**] } | "It ascends — and the heaven it rises to is nothing, and it wants company." | [The Saint opens its hollow paradise across the whole field.] | *All in range suffer Void erosion for three turns in the void-paradise.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -193,7 +193,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -211,7 +211,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a tiny chalice of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a tiny chalice of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Hollow Saint (C-IIIγ-081 [VS]) is logged as a Subject-Void manifestation expressing Void (Pale White). The Saint formed from a healer who absorbed the pain of others until nothing remained of the self. Held at SECTOR-B-02, Zone B. It was once a healer but can no longer heal itself.
+The Hollow Saint (C-IIIγ-081 [VS]) is logged as a Subject-Void manifestation expressing Void. The Saint formed from a healer who absorbed the pain of others until nothing remained of the self. Held at SECTOR-B-02, Zone B. It was once a healer but can no longer heal itself.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through the facility seeking sorrow to absorb. Personnel become emotionally numb and lose parts of their identity. Exposure produces temporary relief followed by emotional numbness.
@@ -348,7 +348,7 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 > *“The holiest life can end in a radiant and perfect hollow.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-081 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-081 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Void manifestation
 **Common Name:** The Hollow Saint
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced

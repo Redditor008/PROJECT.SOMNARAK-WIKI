@@ -132,7 +132,7 @@ The mask had no features—only a deep, sucking void of pure black stone that se
 +---------------------------------------------------------------------+
 | ENTITY       : SE-C-IIβ-054 (The Empty Mask / Indumentum Relic)     |
 | HOST         : Underboss Jin-Woo (Affiliation: The Rust Frays)      |
-| ELEMENT      : Weight (Black) / Category: City Sorrow               |
+| ELEMENT      : Weight / Category: City Sorrow               |
 | VOID THREAT  : Identity Erasure 40m / Progressive Composure Drain   |
 | LETHAL LIMIT : Complete Identity Dissolution into Indumentum Shell  |
 +=====================================================================+

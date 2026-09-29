@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike rope-shaped figure that melts at one end while reforming at the other — never whole, never gone, an endless knot tying and untying itself. Salt-damp, it smells of cold rain; it appears in travelers' dreams, binding them to a road. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Soft Fiber* [**Debuff**] } | "The rope in your hands is going soft — the fibers losing their grip — and with them, everything the rope was holding." | [The Rope's dissolution weakens the target's connections; things are slipping.] | *Target suffers -10 Composure; their bonds are failing.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target holds the Rope. |
-| { *The Sagging Line* [**Debuff**] } | "The rope sags — melting, stretching — and the weight it bears transfers to you." | [The Rope's failing transfers the burden to the target.] | *Target loses 10 Composure; they are bearing what the rope cannot.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target relies on the Rope. |
-| { *The Snap* [**Attack**] } | "The rope gives way — and the release of tension is a whip-crack of pure grief." | [The Rope's structural failure lashes out.] | *Inflicts Deep Blue pressure and one wound of severed connection.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Rope is overloaded. |
-| { *The Full Dissolve* [**Attack**] } | "The rope melts completely — becoming liquid — and the liquid is every bond it ever held, released at once." | [The Rope's total liquefaction releases all its stored connections.] | *A heavy Deep Blue flood of dissolved bonds; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Rope is cut. |
-| { *Every Rope Melts* [**Ultimate**] } | "Every rope, every bond, every tie in the field dissolves — and without connections, everyone drifts." | [The Rope extends its melting across the whole area.] | *All in range suffer Deep Blue pressure for three turns of dissolving bonds.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Soft Fiber* [**Debuff**] } | "The rope in your hands is going soft — the fibers losing their grip — and with them, everything the rope was holding." | [The Rope's dissolution weakens the target's connections; things are slipping.] | *Target suffers -10 Composure; their bonds are failing.* **[10 Lament DMG [Lament]]** | When the target holds the Rope. |
+| { *The Sagging Line* [**Debuff**] } | "The rope sags — melting, stretching — and the weight it bears transfers to you." | [The Rope's failing transfers the burden to the target.] | *Target loses 10 Composure; they are bearing what the rope cannot.* **[10 Lament DMG [Lament]]** | When the target relies on the Rope. |
+| { *The Snap* [**Attack**] } | "The rope gives way — and the release of tension is a whip-crack of pure grief." | [The Rope's structural failure lashes out.] | *Inflicts Lament pressure and one wound of severed connection.* **[14-22 Lament DMG [Lament]]** | When the Rope is overloaded. |
+| { *The Full Dissolve* [**Attack**] } | "The rope melts completely — becoming liquid — and the liquid is every bond it ever held, released at once." | [The Rope's total liquefaction releases all its stored connections.] | *A heavy Lament flood of dissolved bonds; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Rope is cut. |
+| { *Every Rope Melts* [**Ultimate**] } | "Every rope, every bond, every tie in the field dissolves — and without connections, everyone drifts." | [The Rope extends its melting across the whole area.] | *All in range suffer Lament pressure for three turns of dissolving bonds.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,7 +208,7 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a knot-charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a knot-charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Melting Rope (N-IIIγ-447 [LS]) is logged as a Subject-Dream manifestation expressing Lament (Deep Blue). The Rope formed from a journey held together only by memory. Held at The Desolate — mobile. It exists primarily in dreams.
+Melting Rope (N-IIIγ-447 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Rope formed from a journey held together only by memory. Held at The Desolate — mobile. It exists primarily in dreams.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through Desolate dreams and remembered paths. Personnel follow routes toward people who are no longer there. Its routes change when the dreamer remembers more.
@@ -346,7 +346,7 @@ Some sorrows are about separation. Melting Rope is about the connection that out
 > *“An asymmetric tether: one bound by memory, the other by habit, the rope dissolving between them.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-447 [LS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-447 [LS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Dream manifestation
 **Common Name:** Melting Rope
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 2 — Basic

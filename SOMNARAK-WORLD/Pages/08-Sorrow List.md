@@ -13,7 +13,7 @@ Every entity cataloged in this archive is cataloged under the Somnarak Entity Cl
 | Registered Archive     | 292 Entities (285 SECC Master Codices)        |
 | Risk Tier Scale        | Whisper (I) to Sovereign (V) + Relics         |
 | Containment Protocols  | Viderehan - Ferrehan - Flerehan - Pugnahan    |
-| Pressure Types         | Grudge (Red) - Lament (Blue) - Void - Weight  |
+| Pressure Types         | Grudge - Lament - Void - Weight               |
 | Municipal Archive      | Reverie Directorate - Facility 01 Depository  |
 +========================================================================+
 ```

@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A fragment of frozen ruin — black crystal shaped like a slice of a broken building, its edges burning with a silent crimson rage that gives no heat. Bloodless-cold, it smells of ash; a piece of a place that no longer exists. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Cold Archaeology* [**Debuff**] } | "The ruins are perfectly preserved in ice — every detail sharp, every grief intact, and the cold is absolute." | [The Ruin's permafrost radiates; the target feels the preserved sorrow.] | *Target suffers a Void mark; the ancient grief is still alive.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |
-| { *The Frozen Inhabitant* [**Debuff**] } | "Inside the ice, you can see the people who lived here — frozen mid-gesture, mid-scream." | [The Ruin's preserved inhabitants stare through the ice; the target feels watched.] | *Target loses clarity; the frozen dead see everything.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the ice. |
-| { *The Ice Slab* [**Attack**] } | "A sheet of permafrost breaks free — heavy, sharp, ancient." | [A block of frozen ruin detaches and strikes.] | *Inflicts Void damage; the ancient cold erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Ruin is struck. |
-| { *The Full Thaw* [**Attack**] } | "The ice gives way — and every preserved inhabitant, every stored grief, is released." | [The Ruin's permafrost fails; the ancient sorrow floods out.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Ruin is melted. |
-| { *The Glacier* [**Ultimate**] } | "The permafrost spreads — freezing every ruin, every ruin's inhabitant, until the whole field is an icy graveyard." | [The Ruin extends its permafrost across the whole area.] | *All in range suffer Pale White erosion for three turns in the frozen city.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Cold Archaeology* [**Debuff**] } | "The ruins are perfectly preserved in ice — every detail sharp, every grief intact, and the cold is absolute." | [The Ruin's permafrost radiates; the target feels the preserved sorrow.] | *Target suffers a Void mark; the ancient grief is still alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |
+| { *The Frozen Inhabitant* [**Debuff**] } | "Inside the ice, you can see the people who lived here — frozen mid-gesture, mid-scream." | [The Ruin's preserved inhabitants stare through the ice; the target feels watched.] | *Target loses clarity; the frozen dead see everything.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the ice. |
+| { *The Ice Slab* [**Attack**] } | "A sheet of permafrost breaks free — heavy, sharp, ancient." | [A block of frozen ruin detaches and strikes.] | *Inflicts Void damage; the ancient cold erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Ruin is struck. |
+| { *The Full Thaw* [**Attack**] } | "The ice gives way — and every preserved inhabitant, every stored grief, is released." | [The Ruin's permafrost fails; the ancient sorrow floods out.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Ruin is melted. |
+| { *The Glacier* [**Ultimate**] } | "The permafrost spreads — freezing every ruin, every ruin's inhabitant, until the whole field is an icy graveyard." | [The Ruin extends its permafrost across the whole area.] | *All in range suffer Void erosion for three turns in the frozen city.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The behavior table is a snapshot, not a system. The classification and origin co
 |---|---|---|
 | 10 Seconds | Frozen Fury rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Frozen Fury activates its primary resonance: Displays the lives and injustice attached to the structure. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss; the bearer begins perceiving echoes of a collector-controlled district was cleared and frozen in memory after its residents disappeared. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Frozen Fury begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Frozen Fury begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Frozen Fury too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become emotionally fixed in the ruin's final moment. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Frozen Fury: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Frozen Fury: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a bracelet of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a bracelet of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Fury (C-IVδ-668 [O]) is logged as a Object-Grudge manifestation expressing Void (Pale White). The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable.
+Frozen Fury (C-IVδ-668 [O]) is logged as a Object-Grudge manifestation expressing Void. The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It responds strongly to Collector activity.
@@ -386,7 +386,7 @@ Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the d
 > *“Cleared by institutional violence. Blamed by institutional record. The Ruin is what remains.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-668 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-668 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Object-Grudge manifestation
 **Common Name:** Frozen Fury
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced

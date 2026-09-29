@@ -21,7 +21,7 @@ The Shadow formed from compassion left behind by healers who died. The grief of 
 | Source designation | N-IIβ-280 [LS] |
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats healing / Moderate (β) |
-| Element / Location | Lament (Deep Blue) / Zone D, Mantle Commons — ambient |
+| Element / Location | Lament / Zone D, Mantle Commons — ambient |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded. |
@@ -52,7 +52,7 @@ During the The The Kind Healer s Shadow Source-Trace, the field team preserved t
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Kind Healer's Shadow's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Accept its help and acknowledge the healer it carries The set cannot heal the originating event. Misuse routes The Kind Healer's Shadow's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Kind Healer's Shadow's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Accept its help and acknowledge the healer it carries The set cannot heal the originating event. Misuse routes The Kind Healer's Shadow's wound through the operator and triggers the recorded escalation.
 
 ---
 

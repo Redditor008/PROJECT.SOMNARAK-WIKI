@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A warm black Han-steel Head token that makes external sound recede while unspoken burden appears as pressure, never content. The entity granted it after a worker offered safe listening without demanding response. Bestowal chance is 5%.
+A warm Weight Han-steel Head token that makes external sound recede while unspoken burden appears as pressure, never content. The entity granted it after a worker offered safe listening without demanding response. Bestowal chance is 5%.
 
 ## Appearance
 

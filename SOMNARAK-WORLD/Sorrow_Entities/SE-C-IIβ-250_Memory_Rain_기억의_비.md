@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats falling |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A slow fall of droplets that are not water: each a glassy bead the size of a tear, suspending inside it a fragment of a face, a lock of hair, a strip of skin, a voice made visible. They drift rather than drop, and on contact dissolve, releasing the memory into whoever they touch. The beads are cool and faintly sweet-smelling, like rain on old flowers. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Drop* [**Debuff**] } | "A drop of rain lands on you — and inside it, a memory you had forgotten." | [The Rain begins; each drop carries a recollection.] | *Target suffers -10 Composure; old memories surface unbidden.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Rain begins to fall. |
-| { *The Downpour* [**Debuff**] } | "The rain thickens — and every drop is a different grief, a different loss." | [The Rain intensifies; the target is saturated with memories.] | *Target loses 10 Composure; the flood of recollection is overwhelming.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands in the Rain. |
-| { *The Sharp Drop* [**Attack**] } | "A raindrop hardens mid-fall — becoming a needle of condensed memory." | [A crystallized memory-drop strikes.] | *Inflicts Deep Blue pressure and one small, precise wound of recalled pain.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Rain is disturbed. |
-| { *The Full Deluge* [**Attack**] } | "Every memory the rain ever held — released at once, a waterfall of pure recollection." | [The Rain disgorges its entire accumulated memory-mass.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Rain is struck. |
-| { *The Flooded Mind* [**Ultimate**] } | "Everyone is caught in the rain now — and no one can tell whose memories are whose." | [The Rain extends its recollection across the whole field.] | *All in range suffer Deep Blue pressure for three turns of memory rain.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Drop* [**Debuff**] } | "A drop of rain lands on you — and inside it, a memory you had forgotten." | [The Rain begins; each drop carries a recollection.] | *Target suffers -10 Composure; old memories surface unbidden.* **[10 Lament DMG [Lament]]** | When the Rain begins to fall. |
+| { *The Downpour* [**Debuff**] } | "The rain thickens — and every drop is a different grief, a different loss." | [The Rain intensifies; the target is saturated with memories.] | *Target loses 10 Composure; the flood of recollection is overwhelming.* **[10 Lament DMG [Lament]]** | When the target stands in the Rain. |
+| { *The Sharp Drop* [**Attack**] } | "A raindrop hardens mid-fall — becoming a needle of condensed memory." | [A crystallized memory-drop strikes.] | *Inflicts Lament pressure and one small, precise wound of recalled pain.* **[14-22 Lament DMG [Lament]]** | When the Rain is disturbed. |
+| { *The Full Deluge* [**Attack**] } | "Every memory the rain ever held — released at once, a waterfall of pure recollection." | [The Rain disgorges its entire accumulated memory-mass.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Rain is struck. |
+| { *The Flooded Mind* [**Ultimate**] } | "Everyone is caught in the rain now — and no one can tell whose memories are whose." | [The Rain extends its recollection across the whole field.] | *All in range suffer Lament pressure for three turns of memory rain.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -202,7 +202,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a canopy-veil of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a canopy-veil of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -220,7 +220,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Memory Rain (C-IIβ-250 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Rain formed from memories too numerous for the city to hold. Held at Zone D, Echo Gardens — periodic. Rain intensity increases during the Sorrow Tide.
+Memory Rain (C-IIβ-250 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Rain formed from memories too numerous for the city to hold. Held at Zone D, Echo Gardens — periodic. Rain intensity increases during the Sorrow Tide.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drops become crystals after landing.
@@ -362,7 +362,7 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 > *“The sky releases what the city cannot hold.”* — Keeper, Archive
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-250 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-250 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** Memory Rain
 **Containment Status:** Periodic — Zone D, above Echo Gardens
 **Comprehension Level:** 2 — Basic

@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject record with Place-Lament operational behavior |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Grudge — Crimson |
+| Element | Grudge |
 | Location | Zone E, Border region |
 | Form | A colossal creeping tree-monster with root-legs and branch-claws, growing along lines that divide homes from the people who can no longer reach them. |
 | Gauge / pressure | 60–80% / Grudge 29–62 |

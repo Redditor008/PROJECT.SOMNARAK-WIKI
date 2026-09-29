@@ -6,15 +6,15 @@
 
 | Field | Value |
 |---|---|
-| **Color** | BLACK |
+| **Color** | OBSIDIAN |
 | **Time** | Tide Watch |
 | **Threat Level** | Catastrophic |
 | **Han Source** | Weight |
-| **Physical Form** | Non-Organic — A single entity 8–10 meters tall, shaped like a rough asymmetrical mountain of black Han-crystal, filling an entire corridor cross-section. It advances inexorably, crushing everything; floor buckles and walls bow inward beneath it. |
+| **Physical Form** | Non-Organic — A single entity 8–10 meters tall, shaped like a rough asymmetrical mountain of Weight Han-crystal, filling an entire corridor cross-section. It advances inexorably, crushing everything; floor buckles and walls bow inward beneath it. |
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 1–3 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 36–102 per hit · Weight (Black) |
+| **Han Pressure [ATK]** | 36–102 per hit · Weight |
 | **HP** | 650/650 per entity |
 | **Instant Fracture** | Yes — on critical hits / special abilities |
 | **Facility Zone** | All floors of the Hand of Change |
@@ -22,18 +22,18 @@
 
 ## Formation
 
-The Black Tide Watch Ordeal. Only spawns during the Sorrow Tide. A single, immense manifestation of pure Weight Han — the accumulated crushing pressure of the entire facility given form.
+The Obsidian Tide Watch Ordeal. Only spawns during the Sorrow Tide. A single, immense manifestation of pure Weight Han — the accumulated crushing pressure of the entire facility given form.
 
 ## Appearance
 
-A single entity, 8–10 meters tall, shaped like a rough, asymmetrical mountain of black Han-crystal. It fills an entire corridor cross-section and moves by slowly, inexorably advancing — crushing everything in its path. The floor cracks and buckles beneath it. The walls bow inward.
+A single entity, 8–10 meters tall, shaped like a rough, asymmetrical mountain of Weight Han-crystal. It fills an entire corridor cross-section and moves by slowly, inexorably advancing — crushing everything in its path. The floor cracks and buckles beneath it. The walls bow inward.
 
 ## Behavior
 
 | Phase | Action | Effect |
 |---|---|---|
 | **Advance** | The Mountain moves forward at 0.5 m/s, crushing everything in its path. | Anything in the path — personnel, infrastructure, containment walls — takes 40–60 Resilience damage per turn. Containment walls may breach. |
-| **Eruption** | Cracks in the Mountain's surface vent bursts of Weight Han. | Area damage — 20–30 Resilience to all within 5 meters. The vented Han may spawn minor Black First Watch fragments. |
+| **Eruption** | Cracks in the Mountain's surface vent bursts of Weight Han. | Area damage — 20–30 Resilience to all within 5 meters. The vented Han may spawn minor Obsidian First Watch fragments. |
 | **The Summit** | The Mountain's peak (its highest point) is its core. | The core is only reachable by climbing the entity — a dangerous ascent across cracking crystal that deals 10 Resilience per turn to the climber. |
 
 ## Suppression Protocol
@@ -52,7 +52,7 @@ Alert Level 5. All available combat personnel. Echo-Core direct command. Full fa
 
 ## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary BLACK Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary OBSIDIAN Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Tide-Spawn-grade)
 
@@ -64,7 +64,7 @@ Alert Level 5. All available combat personnel. Echo-Core direct command. Full fa
 | **Han Pressure [ATK]** | 35–60 per hit · Weight |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[35–60 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[35–60 Weight DMG [Weight]]**
 
 ### The Clockwork Press (Machine, Tide-Spawn-grade)
 
@@ -76,7 +76,7 @@ Alert Level 5. All available combat personnel. Echo-Core direct command. Full fa
 | **Han Pressure [ATK]** | 40–65 per hit · Weight |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[40–65 Black DMG [Black / Weight]]**
+**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[40–65 Weight DMG [Weight]]**
 
 ### The Living Avalanche (Non-Humanoid, Tide-Spawn-grade)
 
@@ -88,7 +88,7 @@ Alert Level 5. All available combat personnel. Echo-Core direct command. Full fa
 | **Han Pressure [ATK]** | 45–70 per hit · Weight |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[45–70 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[45–70 Weight DMG [Weight]]**
 
 
 ## Trivia
@@ -100,7 +100,7 @@ Alert Level 5. All available combat personnel. Echo-Core direct command. Full fa
 
 ## Document Information
 
-**Document ID:** `ORDEAL-BLACK-Tide-Watch`
+**Document ID:** `ORDEAL-OBSIDIAN-Tide-Watch`
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 

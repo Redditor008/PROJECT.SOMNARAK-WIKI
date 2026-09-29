@@ -164,7 +164,7 @@ The fertile alluvial river valleys surrounding Somnarak's agricultural basin:
 
 | Geographic Zone | Category | Dominant Han Element | Key Hazards & Geological Features |
 |---|---|---|---|
-| **The Consoling Untouched Ocean [ConHeAn]** | Sovereign Domain 01 | Lament (Blue) | deep harmonic swell, glass kelp, peaceful surrender drift. |
+| **The Consoling Untouched Ocean [ConHeAn]** | Sovereign Domain 01 | Lament | deep harmonic swell, glass kelp, peaceful surrender drift. |
 | **Numbing Frozen Tundra [NuRoZen]** | Sovereign Domain 02 | Weight / Void | -75°C polar freeze, Marble Stasis risk, emotional anaesthesia. |
 | **The Untouched Wild Land [UnWiHan]** | Sovereign Domain 03 | Weight / Grudge | 127.5M km² primeval forest, elemental megafauna, wilderness surge. |
 | **The Sorrow Lake** | Natural Landmark | Concentrated Lament | 340 km endorheic basin, decade-rising watermark, 0 organic life. |

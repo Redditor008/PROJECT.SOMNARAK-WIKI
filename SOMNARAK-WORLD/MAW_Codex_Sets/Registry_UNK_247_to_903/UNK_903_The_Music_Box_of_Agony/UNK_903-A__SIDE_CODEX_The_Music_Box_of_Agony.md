@@ -35,7 +35,7 @@ A black-and-white music box with pink lining loops the same comfort song until l
 | Tool Type | O-Relic · Channeled Use |
 | Coherence | II — Echo (repeats a single lullaby without variation, forever) |
 | Potency | γ — Major |
-| Element | Void (Pale White) — the emptying of the self; a Lament surface (the crying figurine) |
+| Element | Void — the emptying of the self; a Lament surface (the crying figurine) |
 | Manifestation | Object-Void — a music box |
 | Location | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
 | R.D. Comprehension Level | 3 — Elevated |

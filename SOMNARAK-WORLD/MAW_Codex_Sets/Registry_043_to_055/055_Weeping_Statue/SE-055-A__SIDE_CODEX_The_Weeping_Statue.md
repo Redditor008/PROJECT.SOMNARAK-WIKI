@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Lament |
 | Coherence | II — Echo |
 | Potency | β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | Bowed dark stone statue with crystallizing tears |
 | Location | SECTOR-D-02, Echo Gardens |
 | Comprehension Level | 1 — Initial |

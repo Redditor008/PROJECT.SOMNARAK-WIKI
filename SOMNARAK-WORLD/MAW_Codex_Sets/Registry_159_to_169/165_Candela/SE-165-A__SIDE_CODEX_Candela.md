@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Lament |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | SECTOR-B-02, Zone B |
 | Form | A saint-shaped figure of melting wax and crystallized tears, resetting its features to mirror a future grief it has already perceived. |
 | Gauge / pressure | 60–80% / Lament 29–62 |

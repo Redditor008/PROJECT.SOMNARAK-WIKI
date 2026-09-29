@@ -1355,7 +1355,7 @@ The Council of Sighs is governed by **Five Heads** — each one representing a d
 | Seat | Title | Name | Status |
 |------|-------|------|--------|
 | **First Head** | The Voice of the Veil | **Dohee** (도희) | **Known** — the public face of the Council. Speaks at every Consolihan. Her face is on every decree. The citizens know her. The factions tolerate her. She believes in the system. |
-| **Second Head** | The Hand of Debt | [REDACTED] | **Unknown** — the Head who controls the Collector's system. No one has seen their face. No one knows their name. Decrees arrive sealed with black Han-crystal wax. The Collectors obey without question. |
+| **Second Head** | The Hand of Debt | [REDACTED] | **Unknown** — the Head who controls the Collector's system. No one has seen their face. No one knows their name. Decrees arrive sealed with Weight Han-crystal wax. The Collectors obey without question. |
 | **Third Head** | The Eye of the Archive | **Gwanhee** (관희) | **Known** — a former Keeper who rose to the Council through decades of service. Ancient, frail, sharp. He sees everything the Archive sees. He forgets nothing. He forgives less. |
 | **Fourth Head** | The Blade of Order | [REDACTED] | **Unknown** — the Head who commands the Wardens and the Judexhan. Their identity is classified — even from the other Heads. Orders arrive through encrypted Han-channels. The Wardens follow. They do not ask. |
 | **Fifth Head** | The Heart of the City | [REDACTED] | **Unknown** — the most mysterious Head. No one knows what they do. No one knows what they control. No one knows if they are alive. Some say the Fifth Head is a Sorrow Entity. Some say the Fifth Head is the city itself. |

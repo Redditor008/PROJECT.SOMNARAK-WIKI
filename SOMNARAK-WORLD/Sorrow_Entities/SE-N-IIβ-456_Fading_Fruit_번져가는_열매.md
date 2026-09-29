@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — Not one body but a place: dark fruit trees whose fruit shrivels and fades the moment before it can be eaten, the ground beneath warm and bitter. Fever-hot, it smells of char and overripe sweetness; nothing here is ever ripe. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Withering* [**Debuff**] } | "The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist." | [The Fruit's fading transfers to the target; they feel themselves becoming less real.] | *Target suffers -10 Resilience; they are fading like the fruit.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target holds the Fruit. |
-| { *The Losing Shape* [**Debuff**] } | "The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails." | [The Fruit's dissolution is contagious; the target's boundaries weaken.] | *Target loses 10 Resilience; they are losing their outline.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Final Juice* [**Attack**] } | "The fading fruit gives up its last drop — concentrated, bitter, and burning with the rage of going out." | [A final burst of the Fruit's essence.] | *Inflicts Crimson pressure and one wound of concentrated ending.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Fruit is squeezed. |
-| { *The Total Fade* [**Attack**] } | "The fruit vanishes completely — and the space it occupied collapses inward with a pop of negative pressure." | [The Fruit's complete disappearance creates a void-implosion.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Fruit is destroyed. |
-| { *The Empty Harvest* [**Ultimate**] } | "Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger." | [The Fruit extends its fading across the whole area.] | *All in range suffer Crimson pressure for three turns of vanishing harvest.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Withering* [**Debuff**] } | "The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist." | [The Fruit's fading transfers to the target; they feel themselves becoming less real.] | *Target suffers -10 Resilience; they are fading like the fruit.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |
+| { *The Losing Shape* [**Debuff**] } | "The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails." | [The Fruit's dissolution is contagious; the target's boundaries weaken.] | *Target loses 10 Resilience; they are losing their outline.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Final Juice* [**Attack**] } | "The fading fruit gives up its last drop — concentrated, bitter, and burning with the rage of going out." | [A final burst of the Fruit's essence.] | *Inflicts Grudge pressure and one wound of concentrated ending.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
+| { *The Total Fade* [**Attack**] } | "The fruit vanishes completely — and the space it occupied collapses inward with a pop of negative pressure." | [The Fruit's complete disappearance creates a void-implosion.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Fruit is destroyed. |
+| { *The Empty Harvest* [**Ultimate**] } | "Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger." | [The Fruit extends its fading across the whole area.] | *All in range suffer Grudge pressure for three turns of vanishing harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Fading Fruit: it is not a generic breach e
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a slender dagger of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a slender dagger of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -200,7 +200,7 @@ The escalation pattern is specific to Fading Fruit: it is not a generic breach e
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -218,7 +218,7 @@ The escalation pattern is specific to Fading Fruit: it is not a generic breach e
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Fading Fruit (N-IIβ-456 [N]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Fruit formed from desire made impossible by debt. Held at Zone C, Collector's Row. Fruit fades before reaching maturity.
+Fading Fruit (N-IIβ-456 [N]) is logged as a Place-Grudge manifestation expressing Grudge. The Fruit formed from desire made impossible by debt. Held at Zone C, Collector's Row. Fruit fades before reaching maturity.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows near debt disputes.
@@ -356,7 +356,7 @@ Some sorrows are about hunger. Fading Fruit is about the system that produces hu
 > *“Desire made impossible by systemic foreclosure on satisfaction.”* — Elder, Collector’s Row
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-456 [N]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-456 [N]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Place-Grudge manifestation
 **Common Name:** Fading Fruit
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 2 — Basic

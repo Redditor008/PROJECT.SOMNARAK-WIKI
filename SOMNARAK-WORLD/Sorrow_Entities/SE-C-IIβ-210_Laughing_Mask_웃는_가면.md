@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats laughing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A bright painted mask that laughs without pause, its wide fixed smile and dark wet eyeholes weeping even as it laughs. The lacquer is bloodless-cold; the sound is too full, too wrong. It smells of ash. |
 | **Movement** | Stationary — an artwork. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Chuckle* [**Debuff**] } | "The mask laughs — and the laugh is wrong, hollow, the sound of joy with nothing behind it." | [The Mask's laughter unsettles the target; the void behind the joy shows.] | *Target suffers a Void mark; the laughter is hollow.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target hears the Mask. |
-| { *The Endless Giggle* [**Debuff**] } | "The laughing does not stop — and the longer it goes, the less funny it becomes, and the more frightening." | [The Mask's laughter compounds; it becomes oppressive.] | *Target loses clarity; the laughter is filling every thought.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains. |
-| { *The Grin-Strike* [**Attack**] } | "The mask's grin widens beyond anatomy — and the grin itself is the weapon." | [A distorted, too-wide smile becomes a cutting edge.] | *Inflicts Void damage; the mocking joy erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mask is addressed. |
-| { *The Hysterical Peak* [**Attack**] } | "The laughter reaches a fever pitch — and at the peak, it becomes a scream of void." | [The Mask's laughter transforms into a void-shriek.] | *A heavy Void burst; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mask is struck. |
-| { *The Laughing Chorus* [**Ultimate**] } | "Every surface sprouts a laughing mask — and the laughter fills the world, and there is nothing behind any of it." | [The Mask multiplies its hollow laughter across the field.] | *All in range suffer Pale White erosion for three turns of endless, empty laughter.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Chuckle* [**Debuff**] } | "The mask laughs — and the laugh is wrong, hollow, the sound of joy with nothing behind it." | [The Mask's laughter unsettles the target; the void behind the joy shows.] | *Target suffers a Void mark; the laughter is hollow.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target hears the Mask. |
+| { *The Endless Giggle* [**Debuff**] } | "The laughing does not stop — and the longer it goes, the less funny it becomes, and the more frightening." | [The Mask's laughter compounds; it becomes oppressive.] | *Target loses clarity; the laughter is filling every thought.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |
+| { *The Grin-Strike* [**Attack**] } | "The mask's grin widens beyond anatomy — and the grin itself is the weapon." | [A distorted, too-wide smile becomes a cutting edge.] | *Inflicts Void damage; the mocking joy erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mask is addressed. |
+| { *The Hysterical Peak* [**Attack**] } | "The laughter reaches a fever pitch — and at the peak, it becomes a scream of void." | [The Mask's laughter transforms into a void-shriek.] | *A heavy Void burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mask is struck. |
+| { *The Laughing Chorus* [**Ultimate**] } | "Every surface sprouts a laughing mask — and the laughter fills the world, and there is nothing behind any of it." | [The Mask multiplies its hollow laughter across the field.] | *All in range suffer Void erosion for three turns of endless, empty laughter.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Laughing Mask rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Laughing Mask activates its primary resonance: Produces an appearance of effortless happiness. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of laughing so others would not know you were hurting; the bearer begins perceiving echoes of a performer continued entertaining the mask market after losing everyone they loved. the laughter became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Laughing Mask begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Laughing Mask begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Laughing Mask too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The wearer cannot stop laughing to express grief. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Laughing Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-C-01, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Laughing Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-C-01, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Laughing Mask: it is not a generic breach 
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
 
 **Damage:** Void 5-9
 **Speed:** 2 (Normal)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Laughing Mask: it is not a generic breach 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Laughing Mask: it is not a generic breach 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a mask-charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a mask-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Laughing Mask (C-IIβ-210 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mask formed from happiness performed after joy had disappeared. Held at SECTOR-C-01, Mask Market. It imitates the laughter of people nearby.
+Laughing Mask (C-IIβ-210 [VO]) is logged as a Object-Void manifestation expressing Void. The Mask formed from happiness performed after joy had disappeared. Held at SECTOR-C-01, Mask Market. It imitates the laughter of people nearby.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Genuine laughter makes it briefly quiet.
@@ -382,7 +382,7 @@ Some sorrows weep. Laughing Mask laughs — and the laughing is the sorrow, pres
 > *“A performer’s laugh, separated from the performer, grinning at an audience of the dead.”* — Elder, Mask Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-210 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-210 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** Laughing Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic

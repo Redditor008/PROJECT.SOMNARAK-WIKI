@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Mixed — A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults — half-light, half-shard, weeping softly as it goes. Salt-damp, it smells of cold rain; a grief that took a body and forgot how to stop moving. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Drift* [**Debuff**] } | "It passes through you on its way to nowhere — and a little of you goes with it." | [The Soul drifts through the target; something is carried off.] | *Target suffers -10 Composure; they feel suddenly elsewhere.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul passes nearby. |
-| { *The Wrong Turn* [**Debuff**] } | "It has been lost so long it has forgotten the way — and now neither do you." | [The Soul's directionlessness infects the target.] | *Target loses 10 Composure; every way looks like the wrong one.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target follows the Soul. |
-| { *The Cold Passage* [**Attack**] } | "It walks through you — and the cold it brings stays where it passed." | [The Soul passes directly through, leaving frost behind.] | *Inflicts Deep Blue pressure and one chill that reaches the bone.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul is addressed. |
-| { *The Lost Way* [**Attack**] } | "It leaves you in a place even it does not recognize." | [The Soul abandons the target in disorienting grief.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Soul is bound or blocked. |
-| { *The Endless Wandering* [**Ultimate**] } | "Now everyone is lost — and the wandering will never end." | [The Soul spreads its homelessness across the whole field.] | *All in range suffer Deep Blue pressure for three turns of endless drift.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Drift* [**Debuff**] } | "It passes through you on its way to nowhere — and a little of you goes with it." | [The Soul drifts through the target; something is carried off.] | *Target suffers -10 Composure; they feel suddenly elsewhere.* **[10 Lament DMG [Lament]]** | When the Soul passes nearby. |
+| { *The Wrong Turn* [**Debuff**] } | "It has been lost so long it has forgotten the way — and now neither do you." | [The Soul's directionlessness infects the target.] | *Target loses 10 Composure; every way looks like the wrong one.* **[10 Lament DMG [Lament]]** | When the target follows the Soul. |
+| { *The Cold Passage* [**Attack**] } | "It walks through you — and the cold it brings stays where it passed." | [The Soul passes directly through, leaving frost behind.] | *Inflicts Lament pressure and one chill that reaches the bone.* **[14-22 Lament DMG [Lament]]** | When the Soul is addressed. |
+| { *The Lost Way* [**Attack**] } | "It leaves you in a place even it does not recognize." | [The Soul abandons the target in disorienting grief.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is bound or blocked. |
+| { *The Endless Wandering* [**Ultimate**] } | "Now everyone is lost — and the wandering will never end." | [The Soul spreads its homelessness across the whole field.] | *All in range suffer Lament pressure for three turns of endless drift.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -234,12 +234,12 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 |---|---|---|
 | 10 Seconds | Driftglass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Driftglass activates its primary resonance: Personnel feel loss of direction and belonging. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of wandering after every destination has become unfamiliar; the bearer begins perceiving echoes of a desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Driftglass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Driftglass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Driftglass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Driftglass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone A, Alpha Tree, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Driftglass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone A, Alpha Tree, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -281,7 +281,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -299,7 +299,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a tiny lantern of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -353,7 +353,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Driftglass (O-IIIγ-914 [N]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Soul formed from an Outside Sorrow traveler who never found a place to rest. Held at Zone A, Alpha Tree. It follows no physical map.
+Driftglass (O-IIIγ-914 [N]) is logged as a Object-Lament manifestation expressing Lament. The Soul formed from an Outside Sorrow traveler who never found a place to rest. Held at Zone A, Alpha Tree. It follows no physical map.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through Alpha Tree corridors and vaults. Personnel feel loss of direction and belonging. It is stronger near Alpha Tree roots.
@@ -435,7 +435,7 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 > *“The accumulated sorrow of a life in which every place was temporary.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-914 [N]` · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-914 [N]` · Lament · Object-Lament manifestation
 **Common Name:** Driftglass
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic

@@ -21,7 +21,7 @@ The Echo formed from kindness that became rare enough to crystallize. The grief 
 | Source designation | C-Iα-240 [LO] |
 | Type / Manifestation | Object/Place — Can spread / Subject-Lament |
 | Coherence / Potency | Residue (I) — Barely formed, ambient / Minor (α) |
-| Element / Location | Lament (Deep Blue) / Zone D, Mantle Commons — ambient |
+| Element / Location | Lament / Zone D, Mantle Commons — ambient |
 | Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | Countless small acts—food shared, doors held, wounds tended—gathered into a voice. |
@@ -52,7 +52,7 @@ During the The Solace Source-Trace, the field team preserved this source fact: C
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Solace's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: No containment required; preserve the conditions that form it The set cannot heal the originating event. Misuse routes Solace's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Solace's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: No containment required; preserve the conditions that form it The set cannot heal the originating event. Misuse routes Solace's wound through the operator and triggers the recorded escalation.
 
 ---
 

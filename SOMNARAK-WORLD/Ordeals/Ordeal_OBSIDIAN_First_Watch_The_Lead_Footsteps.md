@@ -1,15 +1,15 @@
-# BLACK First Watch — The Lead Footsteps
+# OBSIDIAN First Watch — The Lead Footsteps
 
-> *A secondary BLACK First Watch Ordeal — a distinct manifestation of weight sorrow at minor severity.*
+> *A secondary OBSIDIAN First Watch Ordeal — a distinct manifestation of weight sorrow at minor severity.*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | BLACK |
+| **Color** | OBSIDIAN |
 | **Time** | First Watch |
 | **Risk** | Minor |
-| **Form** | BLACK First Watch (secondary) |
+| **Form** | OBSIDIAN First Watch (secondary) |
 
 ## Formation
 
@@ -29,7 +29,7 @@ Engage with minor-appropriate teams. Weight-element M.A.W. recommended. Suppress
 
 ## Facility Impact
 
-A minor-severity BLACK encounter: localized damage. Contain before the weight pressure cascades.
+A minor-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades.
 
 ## R.D. Response Protocol
 
@@ -37,7 +37,7 @@ Standard response team, Level 2+ personnel.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary BLACK First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary OBSIDIAN First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Fragment-grade)
 
@@ -49,7 +49,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 8–18 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[8–18 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[8–18 Weight DMG [Weight]]**
 
 ### The Flesh-Boulder (Non-Crystal, Fragment-grade)
 
@@ -73,7 +73,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 18–28 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[18–28 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[18–28 Weight DMG [Weight]]**
 
 
 ### The Press (Humanoid, Fragment-grade)
@@ -86,7 +86,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 14–22 per hit · Weight |
 | **Spawn Count** | 1–2 |
 
-**Ability:** It drops its full weight onto a pinned target, flattening them under dense flesh. **[14–22 Black DMG [Black / Weight]]**
+**Ability:** It drops its full weight onto a pinned target, flattening them under dense flesh. **[14–22 Weight DMG [Weight]]**
 
 ### The Slump (Amorphous, Fragment-grade)
 
@@ -98,7 +98,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 12–18 per hit · Weight |
 | **Spawn Count** | 1 |
 
-**Ability:** It oozes over the floor, smothering and crushing whatever it settles on. **[12–18 Black DMG [Black / Weight]]**
+**Ability:** It oozes over the floor, smothering and crushing whatever it settles on. **[12–18 Weight DMG [Weight]]**
 
 ### Cinder-Beetles (Swarm, Fragment-grade)
 
@@ -110,16 +110,16 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 6–10 per hit · Weight |
 | **Spawn Count** | 8–10 |
 
-**Ability:** They pile onto a single target, dozens of heavy bodies adding their weight. **[6–10 Black DMG [Black / Weight]]**
+**Ability:** They pile onto a single target, dozens of heavy bodies adding their weight. **[6–10 Weight DMG [Weight]]**
 
 
 ## Trivia
 
-- A lesser-documented sibling encounter to the primary BLACK First Watch Ordeal; same color and severity, different manifestation.
+- A lesser-documented sibling encounter to the primary OBSIDIAN First Watch Ordeal; same color and severity, different manifestation.
 
 ## Document Information
 
-- **Document ID:** ORDEAL-BLACK-First-II
+- **Document ID:** ORDEAL-OBSIDIAN-First-II
 - **Author:** R.D. Field Records
 - **Date:** Year 4238
 - **Classification:** Restricted

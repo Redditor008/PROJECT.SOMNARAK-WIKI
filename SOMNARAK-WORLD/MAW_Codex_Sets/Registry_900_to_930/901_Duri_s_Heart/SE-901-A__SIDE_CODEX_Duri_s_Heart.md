@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IIβ-901 [WO] |
 | Type / Manifestation | Object — Can breach via Transform / Object-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Weight (Black) / SECTOR-C-901, contained |
+| Element / Location | Weight / SECTOR-C-901, contained |
 | Gauge / Pressure | 448/448; starts 35–50% / 14–26 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Duri s Heart Source-Trace, the field team preserved this source f
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Duri's Heart's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Duri's Heart's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Duri's Heart's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Duri's Heart's wound through the operator and triggers the recorded escalation.
 
 ---
 

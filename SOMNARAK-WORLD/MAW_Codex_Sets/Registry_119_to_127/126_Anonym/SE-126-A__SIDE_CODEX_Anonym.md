@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Subject — Subject-Mind |
 | Coherence / Potency | I — Residue / α — Minor |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | Zone E, Border region |
 | Form | A pale melting shard in consciousness, assembling a watching figure from fragments that dissolve when focused on. |
 | Gauge / pressure | 25–40% / Void 3–10 |

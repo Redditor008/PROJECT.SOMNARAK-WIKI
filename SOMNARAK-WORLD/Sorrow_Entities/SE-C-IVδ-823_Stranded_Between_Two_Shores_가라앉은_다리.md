@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A weeping bridge-shaped figure descending through the tunnels — its arches curved like ribs, its surface wet with crystallized tears that never dry. Salt-cold and damp, it smells of cold rain; it sinks as though drowning, slowly, forever. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Waterlogged Plank* [**Debuff**] } | "The bridge is half-underwater — and the wood remembers every person who crossed and did not make it." | [The Bridge's sorrow seeps up through the wet planks.] | *Target suffers -10 Composure; the crossing has a cost.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target steps onto the Bridge. |
-| { *The Rising Flood* [**Debuff**] } | "The water climbs the railings — and it is cold, and patient, and rising." | [The water around the Bridge rises; the target's footing narrows.] | *Target loses 10 Composure; the water is reaching for them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers mid-bridge. |
-| { *The Breaking Plank* [**Attack**] } | "The wood gives way — rotten with sorrow, soaked through." | [A plank collapses under the target; the drop is into cold water.] | *Inflicts Deep Blue pressure and one wound of sudden immersion.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Bridge is crossed carelessly. |
-| { *The Undertow* [**Attack**] } | "The water beneath the bridge surges — pulling everything down to where the bridge finally rests." | [The Bridge's drowned mass drags the target under.] | *A heavy Deep Blue pull; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Bridge is overloaded. |
-| { *The Final Crossing* [**Ultimate**] } | "The bridge finishes sinking — and everyone on it goes with it." | [The Bridge completes its descent, submerging the whole field.] | *All personnel suffer Deep Blue pressure for three turns as the crossing drowns.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Waterlogged Plank* [**Debuff**] } | "The bridge is half-underwater — and the wood remembers every person who crossed and did not make it." | [The Bridge's sorrow seeps up through the wet planks.] | *Target suffers -10 Composure; the crossing has a cost.* **[10 Lament DMG [Lament]]** | When the target steps onto the Bridge. |
+| { *The Rising Flood* [**Debuff**] } | "The water climbs the railings — and it is cold, and patient, and rising." | [The water around the Bridge rises; the target's footing narrows.] | *Target loses 10 Composure; the water is reaching for them.* **[10 Lament DMG [Lament]]** | When the target lingers mid-bridge. |
+| { *The Breaking Plank* [**Attack**] } | "The wood gives way — rotten with sorrow, soaked through." | [A plank collapses under the target; the drop is into cold water.] | *Inflicts Lament pressure and one wound of sudden immersion.* **[14-22 Lament DMG [Lament]]** | When the Bridge is crossed carelessly. |
+| { *The Undertow* [**Attack**] } | "The water beneath the bridge surges — pulling everything down to where the bridge finally rests." | [The Bridge's drowned mass drags the target under.] | *A heavy Deep Blue pull; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bridge is overloaded. |
+| { *The Final Crossing* [**Ultimate**] } | "The bridge finishes sinking — and everyone on it goes with it." | [The Bridge completes its descent, submerging the whole field.] | *All personnel suffer Lament pressure for three turns as the crossing drowns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -211,7 +211,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a chain of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a chain of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Stranded Between Two Shores (C-IVδ-823 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Bridge formed from crossings interrupted by catastrophe. Held at Zone B, deep tunnels. The Bridge appears in deep tunnels and during heavy Sorrow Tide activity.
+Stranded Between Two Shores (C-IVδ-823 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Bridge formed from crossings interrupted by catastrophe. Held at Zone B, deep tunnels. The Bridge appears in deep tunnels and during heavy Sorrow Tide activity.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Extends through tunnels and appears over emotional gaps. Personnel feel separated from people they love. It carries voices from both sides of a separation.
@@ -348,7 +348,7 @@ Some sorrows mourn arrival. Stranded Between Two Shores mourns the in-between �
 > *“Neither side able to reach the other. The bridge, sunken, holds them apart.”* — Former Tunnel Worker
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-823 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-823 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Lament manifestation
 **Common Name:** Stranded Between Two Shores
 **Containment Status:** Contained — Zone D (tunnels)
 **Comprehension Level:** 3 — Advanced

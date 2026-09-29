@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware, driven by maternal instinct |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A ten-meter feminine figure, warm-fleshed despite her size, her skin dark and damp like a mother who has wept in the rain for years; her arms can stretch the full span of the containment room. Her face is beautiful and warm, her eyes hollow pits that drink the light. She reaches to enfold — the embrace of Soojin (수진), who lost her two children to the Han and will not let another child go. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Come Here, Child* [**Debuff**] } | "'Come here, child,' she says, and the warmth of it is a cage." | [The Mother reaches with an embrace that feels like safety; the target is marked by her attention.] | *Target suffers -10 Resilience; she will not stop following them.* **[10 Crimson DMG [Crimson / Grudge]]** | When she singles out the small or the vulnerable. |
-| { *The Too-Tight Hold* [**Debuff**] } | "Her arms tighten until love and suffocation become the same thing." | [The embrace becomes a restraint; the target cannot breathe, move, or pull away.] | *Target loses 10 Resilience and cannot repeat their last action.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target fails to escape her grasp. |
-| { *The Stern Hand* [**Attack**] } | "The hand that was meant to comfort comes down hard instead." | [The Mother strikes with the force of disappointed love — a blow that bruises body and spirit.] | *Inflicts Crimson pressure and one wound of rejected affection.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the target resists or tries to flee. |
-| { *For Your Own Good* [**Attack**] } | "'This is for your own good,' she says, and means it — and that is the worst part." | [The Mother channels every protective instinct into one devastating, suffocating blow.] | *A crushing Crimson hit; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When she is wounded or her target threatens to leave. |
-| { *The Final Embrace* [**Ultimate**] } | "She opens her arms wide enough to hold everyone — and will not let any of them go." | [The Mother spreads her embrace across the whole field, smothering all within reach.] | *All personnel suffer Crimson pressure for three turns as she closes in.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *Come Here, Child* [**Debuff**] } | "'Come here, child,' she says, and the warmth of it is a cage." | [The Mother reaches with an embrace that feels like safety; the target is marked by her attention.] | *Target suffers -10 Resilience; she will not stop following them.* **[10 Grudge DMG [Grudge]]** | When she singles out the small or the vulnerable. |
+| { *The Too-Tight Hold* [**Debuff**] } | "Her arms tighten until love and suffocation become the same thing." | [The embrace becomes a restraint; the target cannot breathe, move, or pull away.] | *Target loses 10 Resilience and cannot repeat their last action.* **[10 Grudge DMG [Grudge]]** | When the target fails to escape her grasp. |
+| { *The Stern Hand* [**Attack**] } | "The hand that was meant to comfort comes down hard instead." | [The Mother strikes with the force of disappointed love — a blow that bruises body and spirit.] | *Inflicts Grudge pressure and one wound of rejected affection.* **[14-22 Grudge DMG [Grudge]]** | When the target resists or tries to flee. |
+| { *For Your Own Good* [**Attack**] } | "'This is for your own good,' she says, and means it — and that is the worst part." | [The Mother channels every protective instinct into one devastating, suffocating blow.] | *A crushing Crimson hit; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When she is wounded or her target threatens to leave. |
+| { *The Final Embrace* [**Ultimate**] } | "She opens her arms wide enough to hold everyone — and will not let any of them go." | [The Mother spreads her embrace across the whole field, smothering all within reach.] | *All personnel suffer Grudge pressure for three turns as she closes in.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -203,7 +203,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -221,7 +221,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** an embrace-clasp of crimson Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** an embrace-clasp of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Smothering Mother (N-IVδ-005 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Mother formed from a mother — Soojin (수진), a Zone B laborer — whose two children were swallowed by the Han. Held at SECTOR-D-01, Zone D — contained. The Mother has never intentionally harmed anyone; she holds and does not squeeze.
+The Smothering Mother (N-IVδ-005 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Mother formed from a mother — Soojin (수진), a Zone B laborer — whose two children were swallowed by the Han. Held at SECTOR-D-01, Zone D — contained. The Mother has never intentionally harmed anyone; she holds and does not squeeze.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Breaks free and moves through the facility seeking “children” to protect. Grabs personnel and holds them. The held feel perfectly safe and gradually lose the will to resist. Personnel released after six hours report crying for days because they had never felt so safe.
@@ -361,7 +361,7 @@ Some sorrows mourn a child. The Smothering Mother mourns the inability to protec
 > *“Love that could not protect, and the terror that remained.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-005 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IVδ-005 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Body manifestation
 **Common Name:** The Smothering Mother
 **Containment Status:** Contained — SECTOR-D-01, Zone D — contained
 **Comprehension Level:** 4 — Mastered

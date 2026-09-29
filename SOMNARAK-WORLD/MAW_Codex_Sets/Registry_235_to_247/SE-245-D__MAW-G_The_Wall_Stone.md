@@ -15,7 +15,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A small deep-blue Han-crystal Tail stone. It vibrates with one confirmed fragment of an unfinished song and becomes silent exactly where the fresco does.
+A small Lament Han-crystal Tail stone. It vibrates with one confirmed fragment of an unfinished song and becomes silent exactly where the fresco does.
 
 Midnight Choir bestowed it after a listener catalogued a lullaby without composing its goodnight. The registered bestowal rate is 5%; no R.D. process can manufacture one.
 

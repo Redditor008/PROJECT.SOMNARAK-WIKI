@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IIIγ-912 [LT] |
 | Type / Manifestation | Time — Can breach via Transform / Time-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Lament (Deep Blue) / SECTOR-C-912, contained |
+| Element / Location | Lament / SECTOR-C-912, contained |
 | Gauge / Pressure | 465/465; starts 35–50% / 17–29 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Eleven Fifty Nine Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Eleven Fifty-Nine's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Eleven Fifty-Nine's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Eleven Fifty-Nine's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Eleven Fifty-Nine's wound through the operator and triggers the recorded escalation.
 
 ---
 

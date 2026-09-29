@@ -21,7 +21,7 @@ The Kind Echo formed from the collective comfort the city's first settlers gave 
 | Source designation | C-Iα-000 [LS] |
 | Type / Manifestation | Subject — Can breach; will not attack / Subject-Lament |
 | Coherence / Potency | I — Residue (barely formed; a faint, kind emotional imprint) / α — Minor |
-| Element / Location | Lament (Deep Blue) / SECTOR-D-01, The Forge District — Training Containment Unit |
+| Element / Location | Lament / SECTOR-D-01, The Forge District — Training Containment Unit |
 | Gauge / Pressure | 50/50; starts 10–20% / 2–5 per hit · Lament |
 | Observation | 4 — Mastered (training entity; fully understood) |
 | Formation event | The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit. |
@@ -52,7 +52,7 @@ During the The The Kind Echo Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Kind Echo's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Complete one full Work Type cycle. Any work type succeeds. The set cannot heal the originating event. Misuse routes The Kind Echo's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Kind Echo's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Complete one full Work Type cycle. Any work type succeeds. The set cannot heal the originating event. Misuse routes The Kind Echo's wound through the operator and triggers the recorded escalation.
 
 ---
 

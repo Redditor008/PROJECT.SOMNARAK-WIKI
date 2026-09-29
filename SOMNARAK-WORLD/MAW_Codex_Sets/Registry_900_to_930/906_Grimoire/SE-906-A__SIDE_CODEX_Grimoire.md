@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-IIβ-906 [GO] |
 | Type / Manifestation | Object — Can breach via Transform / Object-Tale |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Grudge (Crimson) / SECTOR-C-906, contained |
+| Element / Location | Grudge / SECTOR-C-906, contained |
 | Gauge / Pressure | 479/479; starts 35–50% / 14–20 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Grimoire Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Grimoire's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Grimoire's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Grimoire's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Grimoire's wound through the operator and triggers the recorded escalation.
 
 ---
 

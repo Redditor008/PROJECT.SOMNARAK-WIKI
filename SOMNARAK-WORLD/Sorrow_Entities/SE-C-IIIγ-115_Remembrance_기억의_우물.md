@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Deep and patient |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Mixed — A deep stone well, its rim worn and dark, filled not with water but with liquid memory — a slow, viscous surface that reflects the viewer's own past rather than their face. The stone is cold; the liquid is numb and faintly sweet with the smell of ash. A dropped stone rings with a forgotten voice. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Surface Ripple* [**Debuff**] } | "Something stirs in the water — a face you had put out of your mind years ago." | [A memory rises to the surface of the Well; the target sees it whether they want to or not.] | *Target suffers a Void mark; a buried memory has surfaced.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the Well. |
-| { *The Long Ago* [**Debuff**] } | "The past reaches up — and it is colder than the water." | [The Well pulls at the target's memories; old griefs resurface unbidden.] | *Target loses clarity; they cannot tell past from present.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers at the edge. |
-| { *The Drowned Face* [**Attack**] } | "A face surfaces — and it is not glad to be remembered." | [A memory given form rises and strikes.] | *Inflicts Void damage; a forgotten wound reopens.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Well is disturbed. |
-| { *The Bottom of the Well* [**Attack**] } | "The deepest memory — the one you built the well over — comes up at last." | [The Well yields its oldest, worst memory in a crushing rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Well is emptied or struck. |
-| { *Every Memory at Once* [**Ultimate**] } | "The well overflows — and every memory it ever held spills out together." | [The Well erupts, flooding the area with the accumulated past.] | *All in range suffer Pale White erosion for three turns in the deluge of memory.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Surface Ripple* [**Debuff**] } | "Something stirs in the water — a face you had put out of your mind years ago." | [A memory rises to the surface of the Well; the target sees it whether they want to or not.] | *Target suffers a Void mark; a buried memory has surfaced.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Well. |
+| { *The Long Ago* [**Debuff**] } | "The past reaches up — and it is colder than the water." | [The Well pulls at the target's memories; old griefs resurface unbidden.] | *Target loses clarity; they cannot tell past from present.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers at the edge. |
+| { *The Drowned Face* [**Attack**] } | "A face surfaces — and it is not glad to be remembered." | [A memory given form rises and strikes.] | *Inflicts Void damage; a forgotten wound reopens.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Well is disturbed. |
+| { *The Bottom of the Well* [**Attack**] } | "The deepest memory — the one you built the well over — comes up at last." | [The Well yields its oldest, worst memory in a crushing rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Well is emptied or struck. |
+| { *Every Memory at Once* [**Ultimate**] } | "The well overflows — and every memory it ever held spills out together." | [The Well erupts, flooding the area with the accumulated past.] | *All in range suffer Void erosion for three turns in the deluge of memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-The escalation pattern is specific to Remembrance: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, beneath the Grand Archive, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Remembrance: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, beneath the Grand Archive, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -251,7 +251,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a small flask of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a small flask of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Remembrance (C-IIIγ-115 [VP]) is logged as a Place-Void manifestation expressing Void (Pale White). The Well formed from memories flowing downward through Somnarak's foundations. Held at SECTOR-A-01, beneath the Grand Archive. The Well contains liquid memory from every period of Somnarak.
+Remembrance (C-IIIγ-115 [VP]) is logged as a Place-Void manifestation expressing Void. The Well formed from memories flowing downward through Somnarak's foundations. Held at SECTOR-A-01, beneath the Grand Archive. The Well contains liquid memory from every period of Somnarak.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 It does not judge what it shows.
@@ -388,7 +388,7 @@ Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives t
 > *“Beneath the Archive runs a well of lives, each one whole, held by the dark alone.”* — Researcher, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-115 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-115 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Place-Void manifestation
 **Common Name:** Remembrance
 **Containment Status:** Contained — beneath the Grand Archive
 **Comprehension Level:** 3 — Advanced

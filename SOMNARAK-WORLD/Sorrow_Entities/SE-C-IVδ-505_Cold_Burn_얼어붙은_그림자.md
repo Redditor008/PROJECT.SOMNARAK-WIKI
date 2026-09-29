@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A figure made from frozen shadow — dark, still, cold — whose edges burn crimson the instant no one looks directly at it. Bloodless-cold, it smells of ash; you only ever see it still out of the corner of your eye. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Still Pursuer* [**Debuff**] } | "Your shadow has frozen — locked to the ground — and no matter where you go, it stays, watching." | [The Shadow freezes in place; the target's own shadow becomes an anchor.] | *Target suffers a Void mark; their shadow is pinned and watching.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Shadow freezes. |
-| { *The Cold Trail* [**Debuff**] } | "Where the frozen shadow was, frost remains — and the frost follows you, spreading." | [The Shadow's cold spreads; wherever the target steps, ice forms.] | *Target loses clarity; the cold is tracking them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target moves away. |
-| { *The Ice Spike* [**Attack**] } | "The frozen shadow extends one sharp, dark spike toward your ankle." | [An ice-shadow spike launches.] | *Inflicts Void damage; the cold strike severs a shadow-link.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shadow is probed. |
-| { *The Full Freeze* [**Attack**] } | "The frozen shadow expands — covering the ground, the walls, and everything between you and escape." | [The Shadow's permafrost erupts in all directions.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shadow is shattered. |
-| { *The Shadowless Field* [**Ultimate**] } | "Every shadow freezes — and without moving shadows, the light itself goes cold and permanent." | [The Shadow extends its freeze across the whole field.] | *All in range suffer Pale White erosion for three turns of frozen shadows.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Still Pursuer* [**Debuff**] } | "Your shadow has frozen — locked to the ground — and no matter where you go, it stays, watching." | [The Shadow freezes in place; the target's own shadow becomes an anchor.] | *Target suffers a Void mark; their shadow is pinned and watching.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shadow freezes. |
+| { *The Cold Trail* [**Debuff**] } | "Where the frozen shadow was, frost remains — and the frost follows you, spreading." | [The Shadow's cold spreads; wherever the target steps, ice forms.] | *Target loses clarity; the cold is tracking them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target moves away. |
+| { *The Ice Spike* [**Attack**] } | "The frozen shadow extends one sharp, dark spike toward your ankle." | [An ice-shadow spike launches.] | *Inflicts Void damage; the cold strike severs a shadow-link.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shadow is probed. |
+| { *The Full Freeze* [**Attack**] } | "The frozen shadow expands — covering the ground, the walls, and everything between you and escape." | [The Shadow's permafrost erupts in all directions.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shadow is shattered. |
+| { *The Shadowless Field* [**Ultimate**] } | "Every shadow freezes — and without moving shadows, the light itself goes cold and permanent." | [The Shadow extends its freeze across the whole field.] | *All in range suffer Void erosion for three turns of frozen shadows.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a ring of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a ring of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cold Burn (C-IVδ-505 [N]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Shadow formed from duties preserved after their owners disappeared. Held at Zone C, Mask Market. It watches without visible eyes.
+Cold Burn (C-IVδ-505 [N]) is logged as a Subject-Grudge manifestation expressing Void. The Shadow formed from duties preserved after their owners disappeared. Held at Zone C, Mask Market. It watches without visible eyes.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Mask Market as a frozen outline. Personnel feel crushing responsibility for abandoned duties. It becomes more active near unfinished tasks.
@@ -350,7 +350,7 @@ Some sorrows are about loss. Cold Burn is about persistence — the guarding tha
 > *“Protection continuing after the person who required it is gone. That is the Cold Burn.”* — Warden, Mask Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-505 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-505 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Grudge manifestation
 **Common Name:** Cold Burn
 **Containment Status:** Contained — Mask Market
 **Comprehension Level:** 3 — Advanced

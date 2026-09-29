@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Mixed — A stand of broken walls that should not be there: rough grey stone fused with the blackened grain of long-dead timber and, here and there, the calcium gleam of old bone set into the mortar. The walls resolve only when someone actively remembers the building that once stood; forgotten, they haze back into dust. The stone is cold, but the dead wood still seems to bleed a sap that is not sap. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Rubble* [**Debuff**] } | "The ruin is gone — but the shape of what it was still presses on the air." | [The Ruin's phantom presence marks the target with what was here.] | *Target suffers -10 Resilience; they feel the weight of a ruin that is not there.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters where the Ruin was. |
-| { *The Perfect Foundation* [**Debuff**] } | "Without the ruin, the foundation is exposed — smooth, old, and angry at being built on." | [The Ruin's absence reveals the foundation's old resentment.] | *Target loses 10 Resilience; the base layer is furious.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target probes the absence. |
-| { *The Ghost Collapse* [**Attack**] } | "The ruin comes back for one instant — falling, all of it, onto you." | [The Ruin briefly manifests and collapses.] | *Inflicts Crimson pressure and one crushing, phantom wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the absence is challenged. |
-| { *The Full Return* [**Attack**] } | "Every vanished stone returns — all at once, at full weight, crashing." | [The Ruin reconstitutes entirely in a violent cascade.] | *A heavy Crimson avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Ruin is summoned. |
-| { *Every Ruin Returns* [**Ultimate**] } | "Now every ruin in the field comes back — every fallen wall, every collapsed tower — and they all fall again." | [The Ruin spreads its return across the whole field.] | *All in range suffer Crimson pressure for three turns of returning ruin.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Missing Rubble* [**Debuff**] } | "The ruin is gone — but the shape of what it was still presses on the air." | [The Ruin's phantom presence marks the target with what was here.] | *Target suffers -10 Resilience; they feel the weight of a ruin that is not there.* **[10 Grudge DMG [Grudge]]** | When the target enters where the Ruin was. |
+| { *The Perfect Foundation* [**Debuff**] } | "Without the ruin, the foundation is exposed — smooth, old, and angry at being built on." | [The Ruin's absence reveals the foundation's old resentment.] | *Target loses 10 Resilience; the base layer is furious.* **[10 Grudge DMG [Grudge]]** | When the target probes the absence. |
+| { *The Ghost Collapse* [**Attack**] } | "The ruin comes back for one instant — falling, all of it, onto you." | [The Ruin briefly manifests and collapses.] | *Inflicts Grudge pressure and one crushing, phantom wound.* **[14-22 Grudge DMG [Grudge]]** | When the absence is challenged. |
+| { *The Full Return* [**Attack**] } | "Every vanished stone returns — all at once, at full weight, crashing." | [The Ruin reconstitutes entirely in a violent cascade.] | *A heavy Crimson avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Ruin is summoned. |
+| { *Every Ruin Returns* [**Ultimate**] } | "Now every ruin in the field comes back — every fallen wall, every collapsed tower — and they all fall again." | [The Ruin spreads its return across the whole field.] | *All in range suffer Grudge pressure for three turns of returning ruin.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Holdout (C-IIβ-240 [GP]) is logged as a Place-Weight manifestation expressing Grudge (Crimson). The Ruin formed from a place destroyed while someone still believed it could be saved. Held at Zone A, Alpha Tree vault. It appears only when someone remembers the destroyed site.
+Holdout (C-IIβ-240 [GP]) is logged as a Place-Weight manifestation expressing Grudge. The Ruin formed from a place destroyed while someone still believed it could be saved. Held at Zone A, Alpha Tree vault. It appears only when someone remembers the destroyed site.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its pressure is stronger around Architects.
@@ -366,7 +366,7 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 > *“Necessary, the report said. The report did not include anyone who lived there.”* — Researcher, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-240 [GP]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIβ-240 [GP]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Place-Weight manifestation
 **Common Name:** Holdout
 **Containment Status:** Contained — Alpha Tree vault, Zone A
 **Comprehension Level:** 2 — Basic

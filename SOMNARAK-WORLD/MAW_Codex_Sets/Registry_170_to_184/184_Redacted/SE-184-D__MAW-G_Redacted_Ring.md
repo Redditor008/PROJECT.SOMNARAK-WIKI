@@ -18,7 +18,7 @@
 |---|---|
 | Official name | Redacted Ring |
 | Set | Absent History |
-| Type / grade / element | Stigma, pale glass ring / γ — Major / Void — Pale White |
+| Type / grade / element | Stigma, pale glass ring / γ — Major / Void |
 | Slot | Head |
 | Acquisition probability | 4% |
 | Recognition rule | It reveals a missing element but never supplies the missing person’s whole story. |

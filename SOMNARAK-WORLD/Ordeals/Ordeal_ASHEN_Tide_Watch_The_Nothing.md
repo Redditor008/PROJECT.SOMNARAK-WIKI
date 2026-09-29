@@ -1,4 +1,4 @@
-# PALE Tide Watch — The Nothing
+# ASHEN Tide Watch — The Nothing
 
 > *""It was not darkness. Darkness is something. This was the absence of something.""*
 
@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| **Color** | PALE |
+| **Color** | ASHEN |
 | **Time** | Tide Watch |
 | **Threat Level** | Catastrophic |
 | **Han Source** | Void |
@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 1–3 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 37–104 per hit · Void (Pale White) |
+| **Han Pressure [ATK]** | 37–104 per hit · Void |
 | **HP** | 650/650 per entity |
 | **Instant Fracture** | Yes — on critical hits / special abilities |
 | **Facility Zone** | All floors of the Hand of Change |
@@ -34,7 +34,7 @@ A shape that is difficult to perceive — not invisible, but rather 'not-there.'
 |---|---|---|
 | **Erasure Aura** | All reality within 5 meters of The Nothing begins to fade. | Personnel in range lose 20–30 Clarity per turn. Equipment ceases to function. The corridor itself becomes less defined — walls soften, floors lose texture, sounds dampen. |
 | **The Touch of Nothing** | The Nothing reaches for a target and touches them. | The target does not die. They are erased. Their body remains, functional, breathing — but the person inside is gone. An empty shell. This is the Somnarak equivalent of Instant Death: Instant Erasure. |
-| **Propagation** | Every 3 turns, The Nothing spawns a Pale First Watch fragment. | The fragments spread the erasure zone, forcing the suppression team to split between The Nothing and its spawn. |
+| **Propagation** | Every 3 turns, The Nothing spawns a Ashen First Watch fragment. | The fragments spread the erasure zone, forcing the suppression team to split between The Nothing and its spawn. |
 
 ## Suppression Protocol
 
@@ -52,7 +52,7 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 
 ## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary PALE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary ASHEN Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Tide-Spawn-grade)
 
@@ -64,7 +64,7 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 | **Han Pressure [ATK]** | 35–60 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[2 Void DMG [Void] (5% Max HP)]**
 
 ### The Erasure Projector (Machine, Tide-Spawn-grade)
 
@@ -76,7 +76,7 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 | **Han Pressure [ATK]** | 40–65 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[2 Void DMG [Void] (5% Max HP)]**
 
 ### The Geometric Void (Non-Humanoid, Tide-Spawn-grade)
 
@@ -88,7 +88,7 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 | **Han Pressure [ATK]** | 45–70 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It simply is, and what it touches, isn't. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[3 Void DMG [Void] (5% Max HP)]**
 
 
 ## Trivia
@@ -100,7 +100,7 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 
 ## Document Information
 
-**Document ID:** `ORDEAL-PALE-Tide-Watch`
+**Document ID:** `ORDEAL-ASHEN-Tide-Watch`
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 

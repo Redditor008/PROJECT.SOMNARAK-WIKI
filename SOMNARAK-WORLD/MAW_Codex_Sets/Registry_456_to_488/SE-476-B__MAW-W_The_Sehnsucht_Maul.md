@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A black Han-steel maul whose head points parallel to the soil. It forms after noncontact mourning.
+A Weight Han-steel maul whose head points parallel to the soil. It forms after noncontact mourning.
 
 Durivel broke three pressure ridges trapping a worker near The Scar without striking the buried Tear. His body grew heavy and visibly older at the hands.
 

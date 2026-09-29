@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | O-IIIγ-924 [VH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Void |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Void (Pale White) / SECTOR-O-924, contained |
+| Element / Location | Void / SECTOR-O-924, contained |
 | Gauge / Pressure | 438/438; starts 35–50% / 17–24 per hit · Void |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Weighted Silence Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Weighted Silence's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Weighted Silence's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Weighted Silence's source condition, the Suit lets a witness bear its Void pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Weighted Silence's wound through the operator and triggers the recorded escalation.
 
 ---
 

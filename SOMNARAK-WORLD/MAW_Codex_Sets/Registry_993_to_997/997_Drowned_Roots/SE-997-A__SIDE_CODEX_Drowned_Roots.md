@@ -21,7 +21,7 @@ The Tree formed from the rage of a soldier never honored. The grief of sacrifice
 | Source designation | C-IIβ-997 [D] |
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Lament (Deep Blue) / Zone C, Mask Market |
+| Element / Location | Lament / Zone C, Mask Market |
 | Gauge / Pressure | 390/390; starts 35–50% / 7–16 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter. |
@@ -52,7 +52,7 @@ During the The Drowned Roots Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Drowned Roots's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Speak the soldier's duty without forcing a false name The set cannot heal the originating event. Misuse routes Drowned Roots's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Drowned Roots's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon severs only the immediate manifestation that violates this rule: Speak the soldier's duty without forcing a false name The set cannot heal the originating event. Misuse routes Drowned Roots's wound through the operator and triggers the recorded escalation.
 
 ---
 

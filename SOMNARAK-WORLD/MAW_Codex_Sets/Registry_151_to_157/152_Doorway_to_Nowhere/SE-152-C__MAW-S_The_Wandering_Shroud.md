@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Wandering Shroud |
 | Set | Carried Threshold |
-| Type / grade / element | Suit / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Suit / β — Moderate / Lament |
 | Status | Active; return-partner issue only |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Hanul Grey |

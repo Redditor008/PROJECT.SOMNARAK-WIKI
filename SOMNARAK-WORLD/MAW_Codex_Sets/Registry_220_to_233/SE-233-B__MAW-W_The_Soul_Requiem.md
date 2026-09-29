@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A deep-blue Han-crystal blade that sings in a voice no listener can remember after the note ends. A thin film of warm Lament beads along the edge whenever an erased record blocks the bearer’s route.
+A Lament Han-crystal blade that sings in a voice no listener can remember after the note ends. A thin film of warm Lament beads along the edge whenever an erased record blocks the bearer’s route.
 
 Requiem forms from tears left outside the Soul’s walking line after two witnesses finish Ferrehan without proposing a name. It binds to a wielder willing to protect an unknown person without converting protection into ownership.
 
@@ -22,7 +22,7 @@ During the *Closed Stair Record*, Durivel cut through three archive seals that n
 
 ## Appearance
 
-The Soul Requiem is a deep-blue Han-crystal blade that sings in a voice no listener can remember after the note ends — witnesses agree it sang, and cannot say how. A thin film of warm Lament beads along the edge whenever an erased record blocks the bearer’s route, the blade weeping at administrative denial the way other steel rusts at rain. It forms from tears left outside the Soul’s walking line after two witnesses finish Ferrehan without proposing a name, and it binds only to a wielder willing to protect an unknown person without converting protection into ownership. A thrust carries Lament through up to three barriers that deny an observed person’s presence — archive seals, closed stairs, doors that no longer recognize a person-shaped figure; against a living target, authorization requires present conduct, because missing records are not hostility. The wielder feels the Soul’s unwept grief, weeps involuntarily with extended use, and may lose certainty about which remembered sorrow is personal. It is maintained laid parallel to the Soul’s route after it has passed, two witnesses reading only observed incident facts, the edge left to weep until no letters remain in the liquid. Shutdown is the point lowered, the path opened, the naming stopped.
+The Soul Requiem is a Lament Han-crystal blade that sings in a voice no listener can remember after the note ends — witnesses agree it sang, and cannot say how. A thin film of warm Lament beads along the edge whenever an erased record blocks the bearer’s route, the blade weeping at administrative denial the way other steel rusts at rain. It forms from tears left outside the Soul’s walking line after two witnesses finish Ferrehan without proposing a name, and it binds only to a wielder willing to protect an unknown person without converting protection into ownership. A thrust carries Lament through up to three barriers that deny an observed person’s presence — archive seals, closed stairs, doors that no longer recognize a person-shaped figure; against a living target, authorization requires present conduct, because missing records are not hostility. The wielder feels the Soul’s unwept grief, weeps involuntarily with extended use, and may lose certainty about which remembered sorrow is personal. It is maintained laid parallel to the Soul’s route after it has passed, two witnesses reading only observed incident facts, the edge left to weep until no letters remain in the liquid. Shutdown is the point lowered, the path opened, the naming stopped.
 
 ## STATISTICS & FUNCTION
 

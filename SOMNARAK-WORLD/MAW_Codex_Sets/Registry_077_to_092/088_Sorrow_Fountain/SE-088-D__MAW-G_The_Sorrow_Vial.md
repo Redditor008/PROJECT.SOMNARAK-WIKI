@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Weeping Gargoyle Brooch |
 | Set | Shared Current |
-| Type / grade / element | Stigma, sealed blue vial / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, sealed blue vial / γ — Major / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; empty vials are inactive, not defective |
 | Known bearer | Specialist Haneulash Yoon |

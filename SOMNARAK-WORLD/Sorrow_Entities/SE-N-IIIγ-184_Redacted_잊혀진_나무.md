@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid tree of dark crystal with a face pressed into its trunk and bare branches where memories should hang but do not. Bloodless-cold, it smells of ash; the empty branches are the shape of everything it has forgotten. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unnamed* [**Debuff**] } | "The tree is here — enormous, ancient — but no one remembers planting it, or naming it, or why it grows." | [The Tree's forgotten nature unsettles the target; they sense something vast and unnamed.] | *Target suffers a Void mark; the forgotten thing presses on them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target notices the Tree. |
-| { *The Memory Gap* [**Debuff**] } | "You know this tree — or you should — but the memory of it is simply... not there." | [The Tree's erased history creates a void in the target's recall.] | *Target loses clarity; the gap where the memory should be is wrong.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target tries to remember. |
-| { *The Unnamed Branch* [**Attack**] } | "A branch from the forgotten tree swings — and where it strikes, you forget what hit you." | [A blow that erases the memory of being struck.] | *Inflicts Void damage; the impact removes a recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tree is disturbed. |
-| { *The Full Remembrance* [**Attack**] } | "The tree remembers everything — including why it was forgotten — and the memory is devastating." | [The Tree's complete recollection is released.] | *A heavy Void flood of returned memory; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tree is forced to remember. |
-| { *The Forgotten Forest* [**Ultimate**] } | "Every tree in the field becomes forgotten — and without memory of what grew here, the void claims everything." | [The Tree extends its forgotten-ness across the whole area.] | *All in range suffer Pale White erosion for three turns of universal forgetting.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unnamed* [**Debuff**] } | "The tree is here — enormous, ancient — but no one remembers planting it, or naming it, or why it grows." | [The Tree's forgotten nature unsettles the target; they sense something vast and unnamed.] | *Target suffers a Void mark; the forgotten thing presses on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target notices the Tree. |
+| { *The Memory Gap* [**Debuff**] } | "You know this tree — or you should — but the memory of it is simply... not there." | [The Tree's erased history creates a void in the target's recall.] | *Target loses clarity; the gap where the memory should be is wrong.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to remember. |
+| { *The Unnamed Branch* [**Attack**] } | "A branch from the forgotten tree swings — and where it strikes, you forget what hit you." | [A blow that erases the memory of being struck.] | *Inflicts Void damage; the impact removes a recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tree is disturbed. |
+| { *The Full Remembrance* [**Attack**] } | "The tree remembers everything — including why it was forgotten — and the memory is devastating." | [The Tree's complete recollection is released.] | *A heavy Void flood of returned memory; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tree is forced to remember. |
+| { *The Forgotten Forest* [**Ultimate**] } | "Every tree in the field becomes forgotten — and without memory of what grew here, the void claims everything." | [The Tree extends its forgotten-ness across the whole area.] | *All in range suffer Void erosion for three turns of universal forgetting.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a ring of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a ring of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Redacted (N-IIIγ-184 [N]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Tree formed from a life erased while still being lived. Held at Zone E, Border region. It grows around incomplete records and forgotten names.
+Redacted (N-IIIγ-184 [N]) is logged as a Subject-Body manifestation expressing Void. The Tree formed from a life erased while still being lived. Held at Zone E, Border region. It grows around incomplete records and forgotten names.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Border region while leaving roots behind. Personnel feel the absence of an unknown person or event. It never shows a complete face.
@@ -348,7 +348,7 @@ Some sorrows mourn the forgotten. Redacted is the forgetting itself — the eras
 > *“The erasure so complete that only the absence remains, grown into a tree that does not know what it is the absence of.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-184 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-184 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Subject-Body manifestation
 **Common Name:** Redacted
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

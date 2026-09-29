@@ -14,7 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
-A crimson Han-iron pendant hangs at the Tail slot, much heavier than its size and blank until an erased route crosses the bearer’s view. Bestowal may follow an accepted work cycle; observed rate is 5%.
+A Grudge Han-iron pendant hangs at the Tail slot, much heavier than its size and blank until an erased route crosses the bearer’s view. Bestowal may follow an accepted work cycle; observed rate is 5%.
 
 | Field | Record |
 |---|---|

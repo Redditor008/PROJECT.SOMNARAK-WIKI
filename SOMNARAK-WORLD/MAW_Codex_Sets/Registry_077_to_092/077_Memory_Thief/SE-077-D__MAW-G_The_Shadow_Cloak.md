@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Cloak |
 | Set | Borrowed Absence |
-| Type / grade / element | Stigma, hood-clasp / β — Moderate / Void — Pale White |
+| Type / grade / element | Stigma, hood-clasp / β — Moderate / Void |
 | Slot | Head |
 | Status | Bearer-bound; cannot be issued as ordinary inventory |
 | Known bearer | Specialist Nari Kwon |

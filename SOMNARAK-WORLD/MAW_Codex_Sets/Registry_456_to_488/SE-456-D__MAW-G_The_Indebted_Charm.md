@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron Tail fruit charm that remains whole only while desire is recorded without promise. Bestowal chance is 5%.
+A Grudge Han-iron Tail fruit charm that remains whole only while desire is recorded without promise. Bestowal chance is 5%.
 
 ## Appearance
 

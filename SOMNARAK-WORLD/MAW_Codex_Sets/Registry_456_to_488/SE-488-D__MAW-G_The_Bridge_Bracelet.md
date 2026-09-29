@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A warm crimson Han-iron Tail bracelet with two lights that activate independently. Bestowal chance is 5%.
+A warm Grudge Han-iron Tail bracelet with two lights that activate independently. Bestowal chance is 5%.
 
 ## Appearance
 

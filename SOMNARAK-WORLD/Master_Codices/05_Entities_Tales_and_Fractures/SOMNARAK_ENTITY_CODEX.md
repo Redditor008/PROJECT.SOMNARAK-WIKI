@@ -213,10 +213,10 @@ Categories: **Debuff**, **Attack**, **Heavy**, **Ultimate**. Each move's damage 
 
 Damage is typed by element and shown in color-coded stat blocks:
 
-- **Deep Blue / Lament** — sanity-type pressure
-- **Crimson / Grudge** — HP-type pressure
-- **Pale White / Void** — percentage pressure (`1 = 5% Max HP`)
-- **Black / Weight** — applies to both HP and sanity
+- **Lament** — sanity-type pressure
+- **Grudge** — HP-type pressure
+- **Void** — percentage pressure (`1 = 5% Max HP`)
+- **Weight** — applies to both HP and sanity
 - **Mixed** — cycles all four types in order (HP → Sanity → Both → %) over 8 seconds, 2 seconds per type
 
 ### Battle Phases & Consequences
@@ -608,7 +608,7 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `O-Iα-754 [GS]` | [The Wandering Chain](../../Sorrow_Entities/SE-O-Iα-754_Thralldom_떠도는_사슬.md) (떠도는 사슬) | Grudge | Per entity classification. See SECC Classification table and Combat Record for threat details. |
 | `O-Iα-794 [LO]` | [The Collapsed Door](../../Sorrow_Entities/SE-O-Iα-794_Portcullis_무너진_문.md) (무너진 문) | Lament | Per entity classification. See SECC Classification table and Combat Record for threat details. |
 | `O-Iα-973 [VS]` | [Yggdrasil Wound](../../Sorrow_Entities/SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무.md) (찢어진 나무) | Void | Per entity classification. See SECC Classification table and Combat Record for threat details. |
-| `O-Vγ-003 [WP]` | [The Wilderness Tide](../../Sorrow_Entities/SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md) (야생의 조수) | Weight | Not a creature but a moving wall of raw, unstructured wilderness Han — a tidal surge of black Han-pressure that rises from beyond the Desolate and crashes against Zone E. It has no body to strike; only the wave, the pressure, a... |
+| `O-Vγ-003 [WP]` | [The Wilderness Tide](../../Sorrow_Entities/SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md) (야생의 조수) | Weight | Not a creature but a moving wall of raw, unstructured wilderness Han — a tidal surge of Weight Han-pressure that rises from beyond the Desolate and crashes against Zone E. It has no body to strike; only the wave, the pressure, a... |
 
 ### Hope Transformations (14)
 

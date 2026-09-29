@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — There is no body, only a seed-shaped hollow pressed into dark, lifeless soil, ringed by the black threads of dead roots reaching toward a center that is not there. The earth inside is ash-cold and grows nothing. Touch the absence and your fingertips come away damp, as though the ground itself weeps for what was never allowed to be. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Furrow* [**Debuff**] } | "The seed is gone — but the furrow where it was planted still waits for something to grow." | [The absence of the Seed aches; the target feels potential that was never realized.] | *Target suffers -10 Composure; they mourn a thing that never was.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target regards the furrow. |
-| { *The Dead Sprout* [**Debuff**] } | "Something almost grew here — and the almost is worse than the nothing." | [The ghost of the vanished Seed's potential presses on the target.] | *Target loses 10 Composure; they feel every unlived life.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers at the furrow. |
-| { *The Husk* [**Attack**] } | "The empty seed-husk, blown by a wind that is not there, strikes like a bullet." | [The dried husk of what the Seed was fires at the target.] | *Inflicts Deep Blue pressure and one small, sharp wound of lost potential.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the furrow is disturbed. |
-| { *The Might-Have-Been* [**Attack**] } | "The seed shows you what it would have become — a whole tree of grief, in one instant." | [The vanished Seed's full potential manifests as overwhelming sorrow.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Seed is invoked. |
-| { *The Field of Nothing* [**Ultimate**] } | "Every seed that never grew rises now — a phantom harvest of grief." | [The Seed calls forth every unrealized potential across the field.] | *All in range suffer Deep Blue pressure for three turns of phantom growth.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Empty Furrow* [**Debuff**] } | "The seed is gone — but the furrow where it was planted still waits for something to grow." | [The absence of the Seed aches; the target feels potential that was never realized.] | *Target suffers -10 Composure; they mourn a thing that never was.* **[10 Lament DMG [Lament]]** | When the target regards the furrow. |
+| { *The Dead Sprout* [**Debuff**] } | "Something almost grew here — and the almost is worse than the nothing." | [The ghost of the vanished Seed's potential presses on the target.] | *Target loses 10 Composure; they feel every unlived life.* **[10 Lament DMG [Lament]]** | When the target lingers at the furrow. |
+| { *The Husk* [**Attack**] } | "The empty seed-husk, blown by a wind that is not there, strikes like a bullet." | [The dried husk of what the Seed was fires at the target.] | *Inflicts Lament pressure and one small, sharp wound of lost potential.* **[14-22 Lament DMG [Lament]]** | When the furrow is disturbed. |
+| { *The Might-Have-Been* [**Attack**] } | "The seed shows you what it would have become — a whole tree of grief, in one instant." | [The vanished Seed's full potential manifests as overwhelming sorrow.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Seed is invoked. |
+| { *The Field of Nothing* [**Ultimate**] } | "Every seed that never grew rises now — a phantom harvest of grief." | [The Seed calls forth every unrealized potential across the field.] | *All in range suffer Lament pressure for three turns of phantom growth.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-The escalation pattern is specific to Unwitnessed: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Unwitnessed: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -233,7 +233,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a pod-charm of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a pod-charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Unwitnessed (C-Iα-236 [LO]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Seed formed from potential lost before planting. Held at The Desolate, near The Scar. It cannot be physically collected.
+Unwitnessed (C-Iα-236 [LO]) is logged as a Object-Weight manifestation expressing Lament. The Seed formed from potential lost before planting. Held at The Desolate, near The Scar. It cannot be physically collected.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The heartbeat appears during rain.
@@ -392,7 +392,7 @@ Some sorrows mourn what died. Unwitnessed mourns what never got the chance.
 > *“It holds the weight of every beginning that ended before it began.”* — Researcher, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-236 [LW]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-236 [LW]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Object-Weight manifestation
 **Common Name:** Unwitnessed
 **Containment Status:** Uncontained — Desolate, near the Scar
 **Comprehension Level:** 1 — Initial

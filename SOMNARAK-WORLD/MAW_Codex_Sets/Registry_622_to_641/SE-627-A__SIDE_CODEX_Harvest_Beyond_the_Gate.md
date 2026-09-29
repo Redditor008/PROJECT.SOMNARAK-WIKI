@@ -20,7 +20,7 @@ Beyond the Exile’s Gate, dark fruit ripens in heavy clusters and melts into cr
 |---|---|
 | Type / Manifestation | Object/Place / Place-Grudge |
 | Coherence / Potency | II / β |
-| Element | Grudge (Crimson) |
+| Element | Grudge |
 | Location | Zone E, Exile’s Gate vicinity |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 Grudge |
 | Movement / Resistance | Fixed spreading place / 25% Grudge, 15% other |

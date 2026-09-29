@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Binding Mantle |
 | Set | Named Obligation |
-| Type / grade / element | Suit / β — Moderate / Weight — Black |
+| Type / grade / element | Suit / β — Moderate / Weight |
 | Status | Active; custody-partner issue |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Hanul Grey |

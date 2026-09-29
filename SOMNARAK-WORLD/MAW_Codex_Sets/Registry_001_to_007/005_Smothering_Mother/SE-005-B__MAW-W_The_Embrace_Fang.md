@@ -21,7 +21,7 @@
 | **Type** | Weapon — bone claw gauntlet |
 | **Category** | PRIMAL (Rending Bone-Claw / Tendon Gauntlet) |
 | **Grade** | δ — Critical |
-| **Element** | Grudge — Crimson |
+| **Element** | Grudge |
 | **Maximum Amount** | 2 — Limited |
 | **Echo Cost** | 50 Sorrow Echoes |
 | **Bearer Requirement** | Must pass a Mother hold-response evaluation without using force |

@@ -22,7 +22,7 @@
 | Entity | The Memory Lock — 기억의 자물쇠 |
 | Type / Manifestation | Object/Place — Object-Void; O-Relic |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | A massive fused memory-crystal lock sealing a vault with no public entrance, clouded by recollections turning inside. |
 | Gauge / Pressure | 45–65% / Void 14–31 |
 | Observation | 2 — Basic |

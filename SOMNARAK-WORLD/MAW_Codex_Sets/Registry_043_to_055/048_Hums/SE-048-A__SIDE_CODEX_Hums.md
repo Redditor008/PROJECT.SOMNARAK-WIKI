@@ -24,7 +24,7 @@
 | Type / Manifestation | Object/Place — Object-Lament |
 | Coherence | II — Echo |
 | Potency | β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | Warm palm-sized stone holding songs of the dead |
 | Location | SECTOR-D-02, Echo Gardens |
 | Comprehension Level | 3 — Understood |

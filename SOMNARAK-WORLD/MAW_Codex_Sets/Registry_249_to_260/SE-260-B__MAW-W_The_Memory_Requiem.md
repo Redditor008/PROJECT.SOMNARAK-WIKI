@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A singing deep-blue Han-crystal blade whose fuller resembles a worn path. It forms from residue after the Bridge settles. Binding requires the wielder to state current location and admit the old route cannot be restored.
+A singing Lament Han-crystal blade whose fuller resembles a worn path. It forms from residue after the Bridge settles. Binding requires the wielder to state current location and admit the old route cannot be restored.
 
 During the *Apex Without Water*, Durivel cut three rising memory supports before the Bridge lifted a patrol above the Gardens. He left the route image intact and wept with the final departure of a traveler he never knew.
 

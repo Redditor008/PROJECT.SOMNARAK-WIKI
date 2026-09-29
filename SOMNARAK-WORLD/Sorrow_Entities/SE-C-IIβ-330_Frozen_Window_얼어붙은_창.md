@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A humanoid figure of black ice veined with burning edges — frozen flesh laced with live heat, never still, circling the Commons without rest. Where it steps, frost and scorch mark the ground together. Lead-cold and fever-hot at once, it smells of wet stone and char. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Frost Spread* [**Debuff**] } | "Ice crawls across the window — thickening, sealing — and through the frost, a shape watches." | [The Window's ice spreads; the target sees something behind it.] | *Target suffers -10 Resolve; the sealed window hides a watcher.* **[10 Black DMG [Black / Weight]]** | When the target looks at the Window. |
-| { *The Sealed View* [**Debuff**] } | "The ice thickens until nothing is visible — but you can still hear breathing on the other side." | [The Window seals completely; the target is locked in with whatever is outside.] | *Target loses 10 Resolve; they are trapped behind the ice.* **[10 Black DMG [Black / Weight]]** | When the target tries to open the Window. |
-| { *The Ice Shard* [**Attack**] } | "A shard of the frozen window breaks free — and it is sharp enough to cut through steel." | [A jagged ice-shard launches from the Window.] | *Inflicts Black pressure and one deep, freezing cut.* **[14-22 Black DMG [Black / Weight]]** | When the Window is struck. |
-| { *The Full Shatter* [**Attack**] } | "The entire window gives way — and through the gap, the cold outside pours in." | [The Window's ice-shield detonates, releasing the cold behind it.] | *A heavy Black freeze; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Window is broken. |
-| { *Every Window Freezes* [**Ultimate**] } | "The frost spreads to every window — every opening — until the whole field is sealed in ice." | [The Window extends its permafrost across every opening.] | *All in range suffer Black pressure for three turns behind frozen glass.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Frost Spread* [**Debuff**] } | "Ice crawls across the window — thickening, sealing — and through the frost, a shape watches." | [The Window's ice spreads; the target sees something behind it.] | *Target suffers -10 Resolve; the sealed window hides a watcher.* **[10 Weight DMG [Weight]]** | When the target looks at the Window. |
+| { *The Sealed View* [**Debuff**] } | "The ice thickens until nothing is visible — but you can still hear breathing on the other side." | [The Window seals completely; the target is locked in with whatever is outside.] | *Target loses 10 Resolve; they are trapped behind the ice.* **[10 Weight DMG [Weight]]** | When the target tries to open the Window. |
+| { *The Ice Shard* [**Attack**] } | "A shard of the frozen window breaks free — and it is sharp enough to cut through steel." | [A jagged ice-shard launches from the Window.] | *Inflicts Weight pressure and one deep, freezing cut.* **[14-22 Weight DMG [Weight]]** | When the Window is struck. |
+| { *The Full Shatter* [**Attack**] } | "The entire window gives way — and through the gap, the cold outside pours in." | [The Window's ice-shield detonates, releasing the cold behind it.] | *A heavy Black freeze; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Window is broken. |
+| { *Every Window Freezes* [**Ultimate**] } | "The frost spreads to every window — every opening — until the whole field is sealed in ice." | [The Window extends its permafrost across every opening.] | *All in range suffer Weight pressure for three turns behind frozen glass.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Window (C-IIβ-330 [WS]) is logged as a Subject-Grudge manifestation expressing Weight (Black). The entity formed from the refusal to accept a final view. Held at Zone D, Mantle Commons. The entity moves continuously; forced stillness causes escalation.
+Frozen Window (C-IIβ-330 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the refusal to accept a final view. Held at Zone D, Mantle Commons. The entity moves continuously; forced stillness causes escalation.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through Mantle Commons and adjacent halls. Personnel feel the weight of an ending they refuse to accept. It glows during the Sorrow Tide.
@@ -353,7 +353,7 @@ Some sorrows accept. Frozen Window does not — it waits, and waits, and will no
 > *“Grief that has not accepted the loss. The window is its shape.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-330 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IIβ-330 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Grudge manifestation
 **Common Name:** Frozen Window
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

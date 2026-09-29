@@ -52,7 +52,7 @@ Ayshuk values visible evidence over comforting assumptions and carefully separat
 | **Station** | **D — The Forge District** |
 | **Effigy** | **Android (hollow; no organic components)** |
 | **Sorrow** | **None — Void; his nascent Inner Sorrow was taken in childhood** |
-| **Signature** | **Void (Pale White)** |
+| **Signature** | **Void** |
 | **Manifestation** | **Subject-Mind — the absence exists in consciousness, not physical space** |
 | **Role** | The Research Lead; commander of Floor 4 and senior authority on Han, entities, and the Three Sorrows |
 | **Gender** | **Man** |
@@ -1304,7 +1304,7 @@ Subject-Mind means the defining absence exists in consciousness. It does not cre
 
 ### Sorrow Category
 
-His listed category is **None—Void**. He once had nascent Inner Sorrow, but it was removed. Void (Pale White) is his recorded signature.
+His listed category is **None—Void**. He once had nascent Inner Sorrow, but it was removed. Void is his recorded signature.
 
 The record does not silently reclassify him as ordinary Inner Sorrow because of the childhood origin.
 

@@ -18,7 +18,7 @@ Ordeals are divided into **Five Color Spectrums** (matching metaphysical sorrow 
 
 | Spectrum | Elemental Affinity | Core Threat Dynamic | Primary Damage |
 |---|---|---|---|
-| **BLACK (검은 시련)** | Weight (비중 / 悲重) | Gravitational compaction, collapsing pillars, density surges | Heavy Black / Weight DMG |
+| **BLACK (검은 시련)** | Weight (비중 / 悲重) | Gravitational compaction, collapsing pillars, density surges | Heavy Weight DMG |
 | **BLUE (푸른 시련)** | Lament (비탄 / 悲歎) | Brine floods, weeping processions, acoustic grief waves | Heavy Blue / Lament DMG |
 | **GREY (잿빛 시련)** | Grudge (원한 / 怨恨) | Armed battalions, mechanical blade walls, furious assaults | Heavy Red / Grudge DMG |
 | **PALE (창백한 시련)** | Void (공허 / 空虛) | Conceptual erasures, vacuum mouths, existential severance | Heavy Pale / Void DMG |

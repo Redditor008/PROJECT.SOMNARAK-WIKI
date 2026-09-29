@@ -21,7 +21,7 @@ The Tower formed from an Outside Sorrow settlement that never stopped mourning i
 | Source designation | O-IIβ-796 [LS] |
 | Type / Manifestation | Subject — Can breach / Subject-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree vault |
+| Element / Location | Lament / Zone A, Alpha Tree vault |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city. |
@@ -52,7 +52,7 @@ During the The Spire of Unanswered Prayer Source-Trace, the field team preserved
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Spire of Unanswered Prayer's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Listen to the song; do not silence it The set cannot heal the originating event. Misuse routes Spire of Unanswered Prayer's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Spire of Unanswered Prayer's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Listen to the song; do not silence it The set cannot heal the originating event. Misuse routes Spire of Unanswered Prayer's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Subject — Subject-Mind |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | Zone A, Alpha Tree |
 | Form | A fruit-shaped presence in consciousness: a familiar object returning to a place where it cannot possibly still exist. |
 | Gauge / pressure | 60–80% / Void 29–62 |

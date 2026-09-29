@@ -323,7 +323,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 | - Antithesis: Blind obedience to dead masters is cowardice.         |
 | - Synthesis: True honor knows when the watch has ended.             |
 | ------------------------------------------------------------------- |
-| REALIZATION 04 : Weeping & Ice (Grief vs Repression)                |
+| REALIZATION 04 : Weeping & Ice (Grief vs Suppression)                |
 | - Thesis: A leader must never show tears or the ranks will break.   |
 | - Antithesis: Suppressed tears freeze the soul into murderous ice.  |
 | - Synthesis: Tears are not weakness; they grow hope.                |

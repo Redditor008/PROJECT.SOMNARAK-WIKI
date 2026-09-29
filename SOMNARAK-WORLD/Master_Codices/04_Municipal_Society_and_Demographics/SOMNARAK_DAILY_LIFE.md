@@ -227,13 +227,13 @@ Somnarak is not a silent city. It is a city of sounds — constant, overlapping,
 
 ## The Colors of Somnarak
 
-**Lament (Deep Blue):** The color of sorrow — seen in the Veil's glow, in the Echo Gardens' flowers, in the Orphaned Bell's light. Blue is the city's color. Blue is everywhere.
+**Lament:** The color of sorrow — seen in the Veil's glow, in the Echo Gardens' flowers, in the Orphaned Bell's light. Blue is the city's color. Blue is everywhere.
 
-**Grudge (Crimson):** The color of rage — seen in the Raw's warning lights, in the Wardens' armor, in the Maw's pulsing walls. Crimson is the color of danger. Crimson is the color of survival.
+**Grudge:** The color of rage — seen in the Raw's warning lights, in the Wardens' armor, in the Maw's pulsing walls. Crimson is the color of danger. Crimson is the color of survival.
 
-**Void (Pale White):** The color of emptiness — seen in the Collector's Row's ledgers, in the Frozen Veil's crystal, in the Memory Thief's cloak. White is the color of absence. White is the color of forgetting.
+**Void:** The color of emptiness — seen in the Collector's Row's ledgers, in the Frozen Veil's crystal, in the Memory Thief's cloak. White is the color of absence. White is the color of forgetting.
 
-**Weight (Black):** The color of obligation — seen in the debt system's records, in the Grieving Colossus's tears, in the Broken Clock's hands. Black is the color of burden. Black is the color of the city's foundation.
+**Weight:** The color of obligation — seen in the debt system's records, in the Grieving Colossus's tears, in the Broken Clock's hands. Black is the color of burden. Black is the color of the city's foundation.
 
 ---
 

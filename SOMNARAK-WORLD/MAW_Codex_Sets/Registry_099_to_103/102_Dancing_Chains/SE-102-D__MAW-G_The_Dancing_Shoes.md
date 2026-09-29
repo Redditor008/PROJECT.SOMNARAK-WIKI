@@ -18,11 +18,11 @@
 |---|---|
 | Official name | The Dancing Shoes |
 | Set | Unbound Step |
-| Type / grade / element | Stigma, paired shoes / γ — Major / Grudge — Crimson |
+| Type / grade / element | Stigma, paired shoes / γ — Major / Grudge |
 | Slot | Tail |
 | Status | Bearer-bound; two-person removal rule in force |
 | Known bearer | Specialist Nari Kwon |
-| Resting form | A pair of compact crimson Han-iron shoes with flexible dark soles and no visible laces. |
+| Resting form | A pair of compact Grudge Han-iron shoes with flexible dark soles and no visible laces. |
 | Active form | The soles leave a faint red cadence on the floor and answer hazards before the wearer consciously shifts weight. |
 | Recognition rule | Each shoe contains one open chain-link mark; both must be open for the wearer to stand still. |
 

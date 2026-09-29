@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Object/Place, I-Relic — Object-Weight |
 | Coherence / Potency | III — Fragment / β — Moderate |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A massive chain of crystallized debts, each cold heavy link inscribed with a name and dragging across the ground behind whoever bears it. |
 | Gauge / pressure | 35–50% / Weight 8–20 |

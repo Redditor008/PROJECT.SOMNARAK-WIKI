@@ -1050,7 +1050,7 @@ Specialist Han performed *Viderehan* observation inside Chamber 031 (*The Observ
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE CHORAL HARMONY                                    |
-| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 2 BIRD ROTUNDA                              |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1503,7 +1503,7 @@ Specialist Yoon entered Chamber 15, kneeling before the towering, glowing form o
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE DAWN CORONA                                       |
-| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 4 RESEARCH HUB                              |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1571,7 +1571,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 +---------------------------------------------------------------------+
 | - Ayshuk : Spd 6 -> 3 AP | HP 135/135 | SP +40 | Posture 75/75      |
 | - Apostles : Spd 5 -> 3 AP | HP 150/150 | SP +40 | Posture 80/80    |
-| - Corona : Spd 4 -> 2 AP | Pale 56/150 [60% STAGGER TRIGGERED]      |
+| - Corona : Spd 4 -> 2 AP | Void 56/150 [60% STAGGER TRIGGERED]      |
 +=====================================================================+
 ```
 
@@ -1599,7 +1599,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 +---------------------------------------------------------------------+
 | - Ayshuk : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +40 | Postu      |
 | - Apostles : Spd 5 -> 3 AP | HP 150/150 | SP +40 | Posture 80/80    |
-| - Corona : Spd 3 -> 1 AP | Pale 28/150 | Transmuting to Hope        |
+| - Corona : Spd 3 -> 1 AP | Void 28/150 | Transmuting to Hope        |
 +=====================================================================+
 ```
 
@@ -1625,7 +1625,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 | - Node 05: Apostles (Forming Circular Communion Ring)               |
 +---------------------------------------------------------------------+
 | - Ayshuk : Spd 8 -> 4 AP | HP 135/135 | SP +40 | Posture 75/75      |
-| - Corona : Spd 2 -> 1 AP | Pale 12/150 | Field Equilibrium          |
+| - Corona : Spd 2 -> 1 AP | Void 12/150 | Field Equilibrium          |
 +=====================================================================+
 ```
 
@@ -1650,7 +1650,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 |   RELEASED)                                                         |
 | - Node 04: Research Lead Ayshuk & Apostles (Communion Complete)     |
 +---------------------------------------------------------------------+
-| - Corona : Spd 0 -> 0 AP | Pale 0/150 | Transmutation: 100%         |
+| - Corona : Spd 0 -> 0 AP | Void 0/150 | Transmutation: 100%         |
 +=====================================================================+
 ```
 
@@ -1948,7 +1948,7 @@ Specialist Shin performed the final scheduled *Flerehan* harvest from the Maw. T
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE GATHERING DAWN                                    |
-| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 1 RETROFIT VAULT                            |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |

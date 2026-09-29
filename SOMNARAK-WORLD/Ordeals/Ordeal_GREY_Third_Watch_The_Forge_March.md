@@ -49,7 +49,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 25–45 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[25–45 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[25–45 Grudge DMG [Grudge]]**
 
 ### The Bone-Legion (Non-Crystal, Elite-grade)
 
@@ -73,7 +73,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 35–55 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[35–55 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[35–55 Grudge DMG [Grudge]]**
 
 
 ### The Veteran (Humanoid, Elite-grade)
@@ -86,7 +86,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 24–36 per hit · Grudge |
 | **Spawn Count** | 2 |
 
-**Ability:** It wades in, and every fused weapon strikes at once in one sweeping assault. **[24–36 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It wades in, and every fused weapon strikes at once in one sweeping assault. **[24–36 Grudge DMG [Grudge]]**
 
 ### The War-Smog (Amorphous, Elite-grade)
 
@@ -98,7 +98,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 22–34 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It blankets a hall, and the grit of a thousand old battles scourges everyone within. **[22–34 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It blankets a hall, and the grit of a thousand old battles scourges everyone within. **[22–34 Grudge DMG [Grudge]]**
 
 ### The Saw-Larvae (Swarm, Elite-grade)
 
@@ -110,7 +110,7 @@ Level 4+, Containment Lead oversight.
 | **Han Pressure [ATK]** | 10–16 per hit · Grudge |
 | **Spawn Count** | 10–14 |
 
-**Ability:** They bore, and the spinning teeth grind through whatever they reach. **[10–16 Crimson DMG [Crimson / Grudge]]**
+**Ability:** They bore, and the spinning teeth grind through whatever they reach. **[10–16 Grudge DMG [Grudge]]**
 
 
 ## Trivia

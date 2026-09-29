@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid shaped from a single burning fruit — a bright red core at its center, a skin that chars and chars but is never consumed. Embers drift from it; the flesh is warm and gives slightly, like fruit. Fever-hot, it smells of char and overripe sweetness. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Bite* [**Debuff**] } | "The fruit hangs there — blackened, split, and smelling of something that should never have grown." | [The Fruit's corrupted presence marks the target; their hunger stirs.] | *Target suffers -10 Resilience; they want to taste it despite themselves.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target sees the Fruit. |
-| { *The Charred Seed* [**Debuff**] } | "The fruit is full of seeds — each one a burning coal of old rage." | [The Fruit's interior radiates heat; the target feels the contained fury.] | *Target loses 10 Resilience; the anger inside the fruit is palpable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Burning Burst* [**Attack**] } | "The fruit detonates — and the juice inside is liquid fire." | [An exploding fruit-impact sprays the target with burning rage.] | *Inflicts Crimson pressure and one searing, splattering wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Harvest* [**Attack**] } | "Every fruit on the tree ignites at once — a rain of fire and old fury." | [The entire tree's harvest erupts simultaneously.] | *A heavy Crimson conflagration; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the tree is struck. |
-| { *The Burning Orchard* [**Ultimate**] } | "Every tree in the field bursts into fruit — and every fruit is burning — and the orchard is an inferno." | [The Fruit spreads its burning across the entire field.] | *All in range suffer Crimson pressure for three turns in the burning orchard.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Bite* [**Debuff**] } | "The fruit hangs there — blackened, split, and smelling of something that should never have grown." | [The Fruit's corrupted presence marks the target; their hunger stirs.] | *Target suffers -10 Resilience; they want to taste it despite themselves.* **[10 Grudge DMG [Grudge]]** | When the target sees the Fruit. |
+| { *The Charred Seed* [**Debuff**] } | "The fruit is full of seeds — each one a burning coal of old rage." | [The Fruit's interior radiates heat; the target feels the contained fury.] | *Target loses 10 Resilience; the anger inside the fruit is palpable.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Burning Burst* [**Attack**] } | "The fruit detonates — and the juice inside is liquid fire." | [An exploding fruit-impact sprays the target with burning rage.] | *Inflicts Grudge pressure and one searing, splattering wound.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
+| { *The Full Harvest* [**Attack**] } | "Every fruit on the tree ignites at once — a rain of fire and old fury." | [The entire tree's harvest erupts simultaneously.] | *A heavy Crimson conflagration; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the tree is struck. |
+| { *The Burning Orchard* [**Ultimate**] } | "Every tree in the field bursts into fruit — and every fruit is burning — and the orchard is an inferno." | [The Fruit spreads its burning across the entire field.] | *All in range suffer Grudge pressure for three turns in the burning orchard.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -158,7 +158,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Breach Type** | Escape |
 | **Movement** | Last Fruit shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -176,7 +176,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -197,7 +197,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -215,7 +215,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a seed-charm of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a seed-charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Last Fruit (C-IIβ-777 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The entity formed from desire denied until it became anger. Held at Zone C, Mask Market. It glows near concealed wants.
+Last Fruit (C-IIβ-777 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The entity formed from desire denied until it became anger. Held at Zone C, Mask Market. It glows near concealed wants.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through the Mask Market seeking someone who will accept it. Personnel feel intense desire turning into resentment. Sparks become seeds that vanish before touching the ground.
@@ -352,7 +352,7 @@ Some sorrows are about what was taken. Last Fruit is about what was wanted and f
 > *“A child was told his hunger was a crime. The hunger became the Last Fruit.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-777` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-777` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** Last Fruit
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic

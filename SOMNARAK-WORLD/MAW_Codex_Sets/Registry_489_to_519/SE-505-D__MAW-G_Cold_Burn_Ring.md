@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A warm pale Han-glass Head ring enabling silent movement and concealment. Bestowal follows honest duty relief. Chance: 5%.
+A warm Void Han-glass Head ring enabling silent movement and concealment. Bestowal follows honest duty relief. Chance: 5%.
 
 ## Appearance
 

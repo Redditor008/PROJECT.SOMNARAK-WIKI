@@ -23,7 +23,7 @@
 | Sorrow Category | Inner Sorrow |
 | Type / Manifestation | Object/Place — Place-Weight |
 | Coherence / Potency | I — Residue / α — Minor |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | Zone D, Forge District |
 | Form | A rusted support pillar that once was a worker holding a collapsing structure, now fused into the foundation and still carrying what no one asks it to release. |
 | Gauge / pressure | 25–40% / Weight 3–10 |

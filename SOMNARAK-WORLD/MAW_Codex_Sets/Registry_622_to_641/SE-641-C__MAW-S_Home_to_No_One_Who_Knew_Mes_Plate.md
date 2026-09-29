@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A breathing crimson Han-iron harness whose plate shapes change when no one watches. One current-name strip remains fixed over the sternum. Binding requires a receiver who accepts protection without claiming former ownership.
+A breathing Grudge Han-iron harness whose plate shapes change when no one watches. One current-name strip remains fixed over the sternum. Binding requires a receiver who accepts protection without claiming former ownership.
 
 The Plate formed around the Old Lament resident who chose to receive the relic in its changed state after the ceremonial title was removed.
 

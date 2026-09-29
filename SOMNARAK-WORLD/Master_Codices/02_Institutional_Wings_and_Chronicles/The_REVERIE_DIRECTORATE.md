@@ -13,15 +13,15 @@ The Reverie Directorate (R.D.) is organized into **Nine Echo-Cores** — five op
 
 | Floor / Sector | Designation & Name | True Look Effigy | Signature Equipment & Armament | Primary Han Element |
 |---|---|---|---|---|
-| **Floor 1 (Spires)** | **The Director (Majin / 마진)** | Living Human (Ω-Fusion) | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) | Weight (Black) / Grudge + Lament |
-| **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Memory Leaves) | Lament (Deep Blue) + Void (Pale White) |
-| **Floor 2 (Maw's Keep)** | **The Containment Lead (Dekan / 데칸)** | Biomechanical Cyborg (~50%) | Living Biological Graft *The Scaled Maw-Flesh Arm* | Grudge (Crimson) |
-| **Floor 3 (Extraction Hall)** | **The Extraction Lead (Zyrak / 지락)** | Android Cast Effigy (0% Flesh) | Specialized Forge Gear *Mechanical Hands & Rig* | Grudge (Crimson) + Void (Pale White) |
-| **Floor 4 (Insight Forge)** | **The Research Lead (Ayshuk / 아이숙)** | Android Platform (0% Flesh) | Specialized Cognitive *Subject-Mind Research Ledger*| Void (Pale White) |
-| **Floor 5 (Border Watch)** | **The Border Lead (Mellda / 멜다)** | Biomechanical Cyborg (~45%) | Manufactured Weapon *Threshold Vow* (Arm-Blade) | Weight (Black) + Grudge (Crimson) |
-| **Floor 6 (Deep Vault)** | **The Archive Lead (Marjuk / 마주크)** | Cryogen Matrix (~20% Flesh) | Specialized Optical Relic *Memory Lens & Index* | Void (Pale White) + Weight (Black)|
-| **Floor 7 (Shadow Corps)** | **The Outsider (Ishall / 이샬)** | Android Effigy (0% Flesh) | Paired Before-Time Relic *Unanswered* (Gloves) | Grudge (Crimson) + Void (Pale White) |
-| **Floor 8 (Gate Watch)** | **The Exile (Xyan / 시안)** | Frontier Cyborg (~55% Flesh) | Specialized Boundary *Neural Spine & Route Gear* | Lament (Deep Blue) + Weight (Black)|
+| **Floor 1 (Spires)** | **The Director (Majin / 마진)** | Living Human (Ω-Fusion) | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) | Weight / Grudge + Lament |
+| **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Memory Leaves) | Lament + Void |
+| **Floor 2 (Maw's Keep)** | **The Containment Lead (Dekan / 데칸)** | Biomechanical Cyborg (~50%) | Living Biological Graft *The Scaled Maw-Flesh Arm* | Grudge |
+| **Floor 3 (Extraction Hall)** | **The Extraction Lead (Zyrak / 지락)** | Android Cast Effigy (0% Flesh) | Specialized Forge Gear *Mechanical Hands & Rig* | Grudge + Void |
+| **Floor 4 (Insight Forge)** | **The Research Lead (Ayshuk / 아이숙)** | Android Platform (0% Flesh) | Specialized Cognitive *Subject-Mind Research Ledger*| Void |
+| **Floor 5 (Border Watch)** | **The Border Lead (Mellda / 멜다)** | Biomechanical Cyborg (~45%) | Manufactured Weapon *Threshold Vow* (Arm-Blade) | Weight + Grudge |
+| **Floor 6 (Deep Vault)** | **The Archive Lead (Marjuk / 마주크)** | Cryogen Matrix (~20% Flesh) | Specialized Optical Relic *Memory Lens & Index* | Void + Weight|
+| **Floor 7 (Shadow Corps)** | **The Outsider (Ishall / 이샬)** | Android Effigy (0% Flesh) | Paired Before-Time Relic *Unanswered* (Gloves) | Grudge + Void |
+| **Floor 8 (Gate Watch)** | **The Exile (Xyan / 시안)** | Frontier Cyborg (~55% Flesh) | Specialized Boundary *Neural Spine & Route Gear* | Lament + Weight|
 
 ---
 
@@ -406,7 +406,7 @@ Every R.D. personnel member is assessed on **four core attributes** — measurin
 
 ---
 
-#### Resilience (♦ Deep Blue)
+#### Resilience (♦)
 
 **What it measures:** Physical endurance — how much Han-weight a person can bear before breaking.
 
@@ -427,7 +427,7 @@ Every R.D. personnel member is assessed on **four core attributes** — measurin
 
 ---
 
-#### Clarity (♠ Pale White)
+#### Clarity (♠)
 
 **What it measures:** Mental stability — how well a person resists emotional manipulation, memory loss, and Dream interference.
 
@@ -448,7 +448,7 @@ Every R.D. personnel member is assessed on **four core attributes** — measurin
 
 ---
 
-#### Composure (♣ Crimson)
+#### Composure (♣)
 
 **What it measures:** Emotional control — how well a person maintains focus under emotional stress.
 
@@ -469,7 +469,7 @@ Every R.D. personnel member is assessed on **four core attributes** — measurin
 
 ---
 
-#### Resolve (♦ Black)
+#### Resolve (♦ Weight)
 
 **What it measures:** Willpower — how determined a person is to act despite the weight of sorrow.
 
@@ -610,7 +610,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 
 **Type:** Weapon (Staff)
 **Grade:** α (Minor)
-**Element:** Weight (Black)
+**Element:** Weight
 
 **Appearance:** A staff, 1.2 meters long, made of reinforced Han-crystal. Dark, warm to the touch, faintly humming.
 
@@ -630,7 +630,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 
 **Type:** Armor (Vest)
 **Grade:** α (Minor)
-**Element:** Void (Pale White)
+**Element:** Void
 
 **Appearance:** A lightweight vest of Han-woven fabric — dark grey, slightly warm, with faint crystalline patterns.
 
@@ -650,7 +650,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 
 **Type:** Tool (Handheld)
 **Grade:** α (Minor)
-**Element:** Void (Pale White)
+**Element:** Void
 
 **Appearance:** A small, palm-sized device of dark Han-crystal — a needle that points toward Han-flow lines.
 
@@ -670,7 +670,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 
 **Type:** Tool (Wrist-mounted)
 **Grade:** α (Minor)
-**Element:** Weight (Black)
+**Element:** Weight
 
 **Appearance:** A small, wrist-mounted display — dark crystal face, warm to the touch.
 
@@ -690,7 +690,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 
 **Type:** Accessory (Pendant)
 **Grade:** α (Minor)
-**Element:** Lament (Deep Blue)
+**Element:** Lament
 
 **Appearance:** A small pendant of crystallized memory — warm, faintly glowing, worn around the neck.
 
@@ -710,7 +710,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 
 **Type:** Tool (Small instrument)
 **Grade:** α (Minor)
-**Element:** Grudge (Crimson)
+**Element:** Grudge
 
 **Appearance:** A small, dark crystal whistle — warm, slightly vibrating.
 
@@ -768,7 +768,7 @@ When a personnel member is promoted or assigned to a specific role, they may rec
 
 Sorrow itself manifests across **four elemental aspects** — each attacking a different dimension of the human person and requiring specific defenses:
 
-| Element | Korean | Symbol | Color | Nature | What It Attacks |
+| Element | Korean | Symbol | Nature | What It Attacks |
 |---|---|---|---|---|---|
 | **Lament** | 탄식 (Tansik) | ◆ | Deep Blue | Expressed grief that weeps, mourns, releases | **Mind** — emotional stability, willpower, composure |
 | **Grudge** | 원한 (Wonhan) | ◈ | Crimson | Suppressed resentment, bitterness, unresolved rage | **Body** — physical form, structural integrity, flesh |
@@ -783,13 +783,13 @@ Sorrow itself manifests across **four elemental aspects** — each attacking a d
 +==============+=======+=======+=======+=======+
 | Attack\Guard | Mind  | Body  | Soul  |  Han  |
 +==============+=======+=======+=======+=======+
-|Lament (Blue) |Resist | Part  |Strong | Weak  |
+|Lament |Resist | Part  |Strong | Weak  |
 +--------------+-------+-------+-------+-------+
-|Grudge (Red)  | Part  |Resist | Weak  |Strong |
+|Grudge  | Part  |Resist | Weak  |Strong |
 +--------------+-------+-------+-------+-------+
-|Void (Pale White)   |Strong | Weak  |Resist | Part  |
+|Void   |Strong | Weak  |Resist | Part  |
 +--------------+-------+-------+-------+-------+
-|Weight (Black)| Weak  |Strong | Part  |Resist |
+|Weight| Weak  |Strong | Part  |Resist |
 +==============+=======+=======+=======+=======+
 ```
 
@@ -1242,10 +1242,10 @@ Every Sorrow Entity contained within the Reverie Directorate is designated by it
    - **ω (Catastrophic):** City-threatening; near-impossible to contain physically.
 
 4. **Element (Pressure Signature & Damage Frequency):**
-   - **Lament (Deep Blue):** Sanity, composure, and emotional weeping pressure.
-   - **Grudge (Crimson):** Physical body laceration, kinetic impact, and burning fury.
-   - **Void (Pale White):** Percentage-based existential erasure (1 unit = 5% Max HP/Soul).
-   - **Weight (Black):** Crushing gravitational burden affecting both physical HP and mental composure.
+   - **Lament:** Sanity, composure, and emotional weeping pressure.
+   - **Grudge:** Physical body laceration, kinetic impact, and burning fury.
+   - **Void:** Percentage-based existential erasure (1 unit = 5% Max HP/Soul).
+   - **Weight:** Crushing gravitational burden affecting both physical HP and mental composure.
 
 5. **Physical Types & Form Descriptors:**
    - **Physical Types:** Subject (`S`), Object (`O`), Place (`P`), Time (`T`), Hazard (`H`).
@@ -2431,7 +2431,7 @@ Long ago, the Director was bonded with a Ω-grade M.A.W. — the only successful
 | **Effigy Type** | Living Human (Ω-Fusion) — not a Cast Effigy |
 | **Armament** | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Han Signature** | Weight (Black) / Grudge + Lament |
+| **Han Signature** | Weight / Grudge + Lament |
 | **Manifestation** | Subject-Body — living human, fused with Ω-grade M.A.W. |
 | **Veil/Raw** | Exists in both — moves between Veil and Raw freely |
 | **Secret** | Chosen by the Alpha Tree. Hides Seiyon's nature & Absolvohan Reserve Tap |
@@ -2502,7 +2502,7 @@ If the Absolvohan succeeds, the city would be **cleansed** — but also **destro
 | **Effigy Type** | Android Effigy (0% biological, awakened by human memories) |
 | **Armament** | Administrative Interface *The Promise* (Orbiting Engram Pages) |
 | **Sorrow Category** | City Sorrow (도한) — inherited from Director's lost human companion |
-| **Han Signature** | Lament (Deep Blue) + Void (Pale White) |
+| **Han Signature** | Lament + Void |
 | **Manifestation** | Subject-Dream — partially exists in the Dream realm |
 | **Veil/Raw** | Exists in the Veil — but witnesses everything in the Raw |
 | **Secret** | Accidental memory-awakened effigy wearing lost companion's face |
@@ -2552,7 +2552,7 @@ The Secretary only knows that they feel — and that feeling is both a gift and 
 | **Effigy Type** | Biomechanical Cyborg (~50% flesh, Maw-fused) |
 | **Armament** | Living Biological Body Graft *The Scaled Maw-Flesh Arm* |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Han Signature** | Grudge (Crimson) |
+| **Han Signature** | Grudge |
 | **Manifestation** | Place-Tale — connected to the living tectonic Maw |
 | **Veil/Raw** | Exists entirely in the Raw — the Veil cannot reach the Maw |
 | **Secret** | Communicates with the 1,000 drowned citizens inside the living stone |
@@ -2600,7 +2600,7 @@ The R.D. assigned them to containment because they are the only person who can c
 | **Effigy Type** | Android Cast Effigy (0% flesh, authentic living human soul) |
 | **Armament** | Specialized Android Forge Gear *Mechanical Hands & Extraction Rig* |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Han Signature** | Grudge (Crimson) + Void (Pale White) |
+| **Han Signature** | Grudge + Void |
 | **Manifestation** | Subject-Body — hands calibrated to crystallize M.A.W. |
 | **Veil/Raw** | Exists in the Veil — operates in the Raw |
 | **Secret** | Extracts Before-Time memories from entities alongside M.A.W. |
@@ -2648,7 +2648,7 @@ The Extraction Lead now extracts M.A.W. from Sorrow Entities — a different kin
 | **Effigy Type** | Analytical Android Platform (0% flesh, human soul devoid of grief)|
 | **Armament** | Specialized Cognitive Ledger *Subject-Mind Research Ledger* |
 | **Sorrow Category** | None — Pure Void |
-| **Han Signature** | Void (Pale White) |
+| **Han Signature** | Void |
 | **Manifestation** | Subject-Mind — analytical null-space |
 | **Veil/Raw** | Exists in both — immune to environmental emotional distortion |
 | **Secret** | Inner Sorrow devoured by a Void entity in childhood; cannot Fracture |
@@ -2698,7 +2698,7 @@ The Research Lead sometimes wonders: if they found the entity that took their so
 | **Effigy Type** | Biomechanical Cyborg (~45% flesh, Warden veteran) |
 | **Armament** | Specialize Manufactured Weapon *Threshold Vow* (Forearm Blade) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Han Signature** | Weight (Black) + Grudge (Crimson) |
+| **Han Signature** | Weight + Grudge |
 | **Manifestation** | Subject-Phantasmal — phase-shifting host |
 | **Veil/Raw** | Exists in the Raw — guards the perimeter against outside Oehan |
 | **Secret** | Carries a benign Outside Sorrow entity sealed within her cyborg flesh |
@@ -2750,7 +2750,7 @@ But the R.D. needs them — because the Border Lead is the only person who has s
 | **Effigy Type** | Cryogen Stasis Matrix (~20% flesh, living human brain & eye) |
 | **Armament** | Specialized Optical Relic *Memory Lens & Whispering Catalog* |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Han Signature** | Void (Pale White) + Weight (Black) |
+| **Han Signature** | Void + Weight |
 | **Manifestation** | Place-Lament — cryo-stasis vault network |
 | **Veil/Raw** | Subterranean stasis beneath both Veil and Raw |
 | **Secret** | Possesses uncensored codices of the Cheongula mass sacrifice |
@@ -2798,7 +2798,7 @@ The Archive Lead sometimes wonders: if the city knew the truth, would it change 
 |-------|--------|
 | **Effigy Type** | Android (Human soul fused into a repurposed enemy mechanical chassis; 0% biological) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Han Signature** | Grudge (Crimson) + Void (Pale White) |
+| **Han Signature** | Grudge + Void |
 | **Manifestation** | Subject-Body — physical, dangerous, marked |
 | **Armament** | Specialize Relic: Unanswered (Paired Floating Artifact Hands / Relic Gloves) |
 | **Core Realization** | Dual Realization: Stage 1 (Infiltrator Chassis) + Stage 2 (Unanswered Void Relic) |
@@ -2854,7 +2854,7 @@ The Outsider only knows that they were made to destroy — and that they have no
 | **Effigy Type** | Frontier Cyborg (~55% flesh, Desolate-adapted) |
 | **Armament** | Specialized Boundary Interface *Neural Spine & Survival Gear* |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Han Signature** | Lament (Deep Blue) + Weight (Black) |
+| **Han Signature** | Lament + Weight |
 | **Manifestation** | Subject-Phantasmal — boundary sentinel |
 | **Veil/Raw** | Exists at the absolute frontier threshold |
 | **Secret** | Transmits seismic warnings of the Furnace of Cheonbulok |
@@ -3402,9 +3402,9 @@ When an agent's Composure hits 0, they do not instantly undergo irreversible phy
 +----------------------+-----------------------+
 | Clarity (♠ Void)     | Void Catatonia(Suicide|
 +----------------------+-----------------------+
-| Composure (♣ Crimson)| Lament Weeping (Echo) |
+| Composure (♣)| Lament Weeping (Echo) |
 +----------------------+-----------------------+
-| Resolve (♦ Black)    | Weight Sabotage(Unlock|
+| Resolve (♦ Weight)    | Weight Sabotage(Unlock|
 +======================+=======================+
 ```
 
@@ -3415,7 +3415,7 @@ When an agent's Composure hits 0, they do not instantly undergo irreversible phy
 
 #### Sanity Restoration Protocol (제정신 회복 의정서)
 - Panicked operatives can be saved before they permanently Fracture.
-- Colleagues must intercept the panicked agent and strike them using **Lament (Blue) or Void (Pale White)** M.A.W. weapons.
+- Colleagues must intercept the panicked agent and strike them using **Lament or Void** M.A.W. weapons.
 - Inflicting mental damage equal to the target agent's maximum Composure purges the unvented Han buildup, restoring the agent to full sanity and stabilizing their mental gauge!
 
 ---

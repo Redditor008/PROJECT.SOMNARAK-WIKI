@@ -53,7 +53,7 @@ Dream leakage reaches the city as prayer and nightmare. The Burning Library cont
 
 **Resolution:** Do not wake, address, or attempt extraction. Maintain the sealed vault.  
 **Activation threshold:** Gauge at or above 90%.  
-**Catastrophic condition:** Reawakening cycles through Crimson, Deep Blue, Black, and Pale White pressure. Any visible eye opening or coordinated hand movement triggers full deep-vault evacuation.
+**Catastrophic condition:** Reawakening cycles through Grudge, Lament, Weight, and Void pressure. Any visible eye opening or coordinated hand movement triggers full deep-vault evacuation.
 
 ---
 

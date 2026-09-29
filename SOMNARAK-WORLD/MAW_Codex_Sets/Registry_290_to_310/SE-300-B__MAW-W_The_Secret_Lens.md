@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A pale Han-glass lens in a dark frame whose center stays clouded like the source crystal. It forms from channel residue after a whisper returns to the Lock.
+A Void Han-glass lens in a dark frame whose center stays clouded like the source crystal. It forms from channel residue after a whisper returns to the Lock.
 
 Binding requires one secret the wielder is authorized to protect and one oversight authority. Zyrak used the Lens when a listener’s obsession became a visible Void tether to the vault. One line cut the tether without touching the whisper; Zyrak lost why a familiar archive phrase once comforted her.
 

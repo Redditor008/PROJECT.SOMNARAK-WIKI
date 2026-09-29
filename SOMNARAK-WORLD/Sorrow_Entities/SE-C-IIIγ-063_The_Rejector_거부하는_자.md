@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Defiant and stubborn |
 | **Potency** | Major (γ) — High danger as group entity |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A thin young man of true flesh and bone, defiant in posture but almost weightless — lighter than he should be, as though something has been taken from him. His eyes are empty, his skin bloodless and pale. He is cold to the touch, and near him, the flat smell of ash. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Pushed Hand* [**Debuff**] } | "It raises a hand — palm out — and the gesture erases you from the world's attention." | [The Rejector denies the target's existence; reality begins to forget them.] | *Target suffers a Void mark; they are being rejected by existence.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches. |
-| { *The Denied Name* [**Debuff**] } | "It refuses to say your name — and the refusal makes the name start to fade from your own memory." | [The Rejector's denial erodes the target's identity.] | *Target loses clarity; they are becoming unnamed.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target introduces themselves. |
-| { *The Rejected Blow* [**Attack**] } | "It bats your attack aside — not with force, but with refusal. The attack was never real." | [The Rejector negates then strikes; the target's own rejected force rebounds.] | *Inflicts Void damage; the rejected portion is erased.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target attacks. |
-| { *The Total Denial* [**Attack**] } | "It denies everything you are — and the denial is so complete that parts of you simply stop existing." | [The Rejector unleashes full existential rejection.] | *A heavy Void negation; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Rejector is cornered. |
-| { *Everything Rejected* [**Ultimate**] } | "Now it rejects everything — the room, the people, the air — and the rejection leaves only void." | [The Rejector extends its denial across the whole field.] | *All in range suffer Pale White erosion for three turns of total rejection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Pushed Hand* [**Debuff**] } | "It raises a hand — palm out — and the gesture erases you from the world's attention." | [The Rejector denies the target's existence; reality begins to forget them.] | *Target suffers a Void mark; they are being rejected by existence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches. |
+| { *The Denied Name* [**Debuff**] } | "It refuses to say your name — and the refusal makes the name start to fade from your own memory." | [The Rejector's denial erodes the target's identity.] | *Target loses clarity; they are becoming unnamed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target introduces themselves. |
+| { *The Rejected Blow* [**Attack**] } | "It bats your attack aside — not with force, but with refusal. The attack was never real." | [The Rejector negates then strikes; the target's own rejected force rebounds.] | *Inflicts Void damage; the rejected portion is erased.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target attacks. |
+| { *The Total Denial* [**Attack**] } | "It denies everything you are — and the denial is so complete that parts of you simply stop existing." | [The Rejector unleashes full existential rejection.] | *A heavy Void negation; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Rejector is cornered. |
+| { *Everything Rejected* [**Ultimate**] } | "Now it rejects everything — the room, the people, the air — and the rejection leaves only void." | [The Rejector extends its denial across the whole field.] | *All in range suffer Void erosion for three turns of total rejection.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -175,7 +175,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)
@@ -191,7 +191,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -209,7 +209,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a shield-pendant of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a shield-pendant of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -265,7 +265,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Rejector (C-IIIγ-063 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Rejector formed from the son's refusal to accept a debt he did not create. Held at SECTOR-C-01, contained with the Debt Triplets. The Rejector's refusal is not anger; it is emotional vacancy.
+The Rejector (C-IIIγ-063 [VS]) is logged as a Subject-Body manifestation expressing Void. The Rejector formed from the son's refusal to accept a debt he did not create. Held at SECTOR-C-01, contained with the Debt Triplets. The Rejector's refusal is not anger; it is emotional vacancy.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks slowly through the facility, empty-eyed and defiant. Personnel feel the weight of denial and refusal. Exposure produces empathy in observers even when the entity resists connection.
@@ -353,7 +353,7 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 > *“The Rejector chose freedom. Freedom, in this city, is indistinguishable from exile.”* — Keeper, Archive
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-063 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-063 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Body manifestation
 **Common Name:** The Rejector
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 2 — Basic

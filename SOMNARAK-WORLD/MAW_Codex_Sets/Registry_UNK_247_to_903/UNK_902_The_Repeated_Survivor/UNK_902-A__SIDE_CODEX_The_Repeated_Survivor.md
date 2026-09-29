@@ -36,7 +36,7 @@ Viderehan retrieves loop fragments. Ferrehan outlasts the scene without taking a
 | Entity Type | **Subject** — Can breach; cannot be permanently ended within a single cycle |
 | Coherence | IV — Entity (paradoxical: loop-awareness grants retention no other entity possesses, yet that retention has dissolved the self it retained) |
 | Potency | δ — Critical |
-| Element | Void (Pale White) — the emptying of a self that remembered too much; Weight and Grudge undertones |
+| Element | Void — the emptying of a self that remembered too much; Weight and Grudge undertones |
 | Manifestation | Subject-Body — a body that performs; nobody left inside it |
 | Location | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
 | R.D. Comprehension Level | 5 — Sovereign-grade monitoring (loop-anomaly) |

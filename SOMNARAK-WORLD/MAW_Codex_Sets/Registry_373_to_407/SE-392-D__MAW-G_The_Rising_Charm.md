@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A black Han-steel Head charm showing one verified district fragment in reflected script. Bestowal followed honest incomplete naming. Chance: 5%.
+A Weight Han-steel Head charm showing one verified district fragment in reflected script. Bestowal followed honest incomplete naming. Chance: 5%.
 
 ## Appearance
 

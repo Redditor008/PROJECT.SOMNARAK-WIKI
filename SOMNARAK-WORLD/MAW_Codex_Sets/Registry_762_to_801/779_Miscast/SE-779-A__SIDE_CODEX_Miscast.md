@@ -21,7 +21,7 @@ The Relic formed from an object destroyed before its work was complete. The grie
 | Source designation | C-Iα-779 [GO] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Grudge (Crimson) / Zone D, Forge District |
+| Element / Location | Grudge / Zone D, Forge District |
 | Gauge / Pressure | 181/181; starts 25–40% / 3–10 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. |
@@ -52,7 +52,7 @@ During the The Miscast Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Miscast's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Miscast's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Miscast's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Miscast's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A pillar-shaped presence sleeping inside consciousness rather than the world — its surface pale, its shadow reaching down into things forgotten. Bloodless-cold, it smells of ash; nothing to strike, only the dreaming column in the mind. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Settling* [**Debuff**] } | "The pillar sinks — slowly, in its sleep — and the structure above groans and shifts." | [The Pillar's settling destabilizes everything above; the target feels the structural failure.] | *Target suffers a Void mark; the supports are failing in their dreams.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stands near the Pillar. |
-| { *The Dreaming Foundation* [**Debuff**] } | "The pillar dreams of bearing impossible weight — and the dream is so vivid the weight becomes real." | [The Pillar's dream-weight presses on the target; phantom mass from a sleeping mind.] | *Target loses clarity; the sleeping support is generating real gravity.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Sleep-Twitch* [**Attack**] } | "The pillar spasms in its sleep — a violent, involuntary shift that cracks the floor." | [An involuntary structural convulsion strikes.] | *Inflicts Void damage; the dream-spasm warps space.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Pillar is touched. |
-| { *The Full Awakening* [**Attack**] } | "The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is." | [The Pillar's awakening releases its complete dormant stress.] | *A heavy Void convulsion; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Pillar is forced awake. |
-| { *The Waking Structure* [**Ultimate**] } | "Every pillar in the field wakes — and the combined realization of structural burden collapses everything." | [The Pillar extends its waking across the whole area.] | *All in range suffer Pale White erosion for three turns of waking supports.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Settling* [**Debuff**] } | "The pillar sinks — slowly, in its sleep — and the structure above groans and shifts." | [The Pillar's settling destabilizes everything above; the target feels the structural failure.] | *Target suffers a Void mark; the supports are failing in their dreams.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands near the Pillar. |
+| { *The Dreaming Foundation* [**Debuff**] } | "The pillar dreams of bearing impossible weight — and the dream is so vivid the weight becomes real." | [The Pillar's dream-weight presses on the target; phantom mass from a sleeping mind.] | *Target loses clarity; the sleeping support is generating real gravity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Sleep-Twitch* [**Attack**] } | "The pillar spasms in its sleep — a violent, involuntary shift that cracks the floor." | [An involuntary structural convulsion strikes.] | *Inflicts Void damage; the dream-spasm warps space.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is touched. |
+| { *The Full Awakening* [**Attack**] } | "The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is." | [The Pillar's awakening releases its complete dormant stress.] | *A heavy Void convulsion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is forced awake. |
+| { *The Waking Structure* [**Ultimate**] } | "Every pillar in the field wakes — and the combined realization of structural burden collapses everything." | [The Pillar extends its waking across the whole area.] | *All in range suffer Void erosion for three turns of waking supports.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -204,7 +204,7 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Dormant Monolith (N-IVδ-909 [N]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.
+Dormant Monolith (N-IVδ-909 [N]) is logged as a Subject-Mind manifestation expressing Void. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the minds of personnel near the Border. Personnel feel emptiness and the inability to leave duty. Its shadow grows when the worker refuses rest.
@@ -342,7 +342,7 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 > *“Obligation that consumed the oblige-bearer. The mind became a load-bearing structure.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-909 [N]` · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IVδ-909 [N]` · Void · Subject-Mind manifestation
 **Common Name:** Dormant Monolith
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic

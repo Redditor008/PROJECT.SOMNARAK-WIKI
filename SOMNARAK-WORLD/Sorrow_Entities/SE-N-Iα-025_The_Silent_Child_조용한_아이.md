@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) — Barely formed, passive |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A small, translucent child barely visible at the edge of sight, who makes no sound at all and sits in corners watching. Half-flesh and half-light, bloodless-cold, it smells of ash; the child who called for help and was never heard. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Open Mouth* [**Debuff**] } | "The child opens its mouth to cry — and nothing comes out. The silence is the worst sound." | [The Child's silenced cry creates a void that pulls at the target.] | *Target suffers a Void mark; they hear the cry that is not there.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Child. |
-| { *The Stolen Voice* [**Debuff**] } | "The child's silence is contagious — you feel your own voice fading." | [The Child's voicelessness spreads; the target's words thin.] | *Target loses clarity; they are becoming silent too.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers near. |
-| { *The Soundless Wail* [**Attack**] } | "The child screams — silently — and the silent scream hits harder than sound ever could." | [A void-wail strikes the target without making any noise.] | *Inflicts Void damage; the unheard cry tears at identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Child is frightened. |
-| { *The Accumulated Silence* [**Attack**] } | "Every cry the child ever held back — released at once, in crushing, perfect quiet." | [The Child unleashes its lifetime of suppressed crying.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Child is hurt. |
-| { *No One Can Speak* [**Ultimate**] } | "The child's silence spreads to everyone — and no one can make a sound, ever again." | [The Child extends its voicelessness across the whole field.] | *All in range suffer Pale White erosion for three turns of perfect silence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Open Mouth* [**Debuff**] } | "The child opens its mouth to cry — and nothing comes out. The silence is the worst sound." | [The Child's silenced cry creates a void that pulls at the target.] | *Target suffers a Void mark; they hear the cry that is not there.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Child. |
+| { *The Stolen Voice* [**Debuff**] } | "The child's silence is contagious — you feel your own voice fading." | [The Child's voicelessness spreads; the target's words thin.] | *Target loses clarity; they are becoming silent too.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers near. |
+| { *The Soundless Wail* [**Attack**] } | "The child screams — silently — and the silent scream hits harder than sound ever could." | [A void-wail strikes the target without making any noise.] | *Inflicts Void damage; the unheard cry tears at identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Child is frightened. |
+| { *The Accumulated Silence* [**Attack**] } | "Every cry the child ever held back — released at once, in crushing, perfect quiet." | [The Child unleashes its lifetime of suppressed crying.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Child is hurt. |
+| { *No One Can Speak* [**Ultimate**] } | "The child's silence spreads to everyone — and no one can make a sound, ever again." | [The Child extends its voicelessness across the whole field.] | *All in range suffer Void erosion for three turns of perfect silence.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -203,7 +203,7 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -221,7 +221,7 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a ring of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a ring of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Silent Child (N-Iα-025 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Child formed from children whose voices were never heard. Held at SECTOR-D-02, Echo Gardens — contained. The Child has never attacked personnel.
+The Silent Child (N-Iα-025 [VS]) is logged as a Subject-Body manifestation expressing Void. The Child formed from children whose voices were never heard. Held at SECTOR-D-02, Echo Gardens — contained. The Child has never attacked personnel.
 
 **Entry 2 — <Excerpt from Field Log, Year 4227>**
 Wanders silently, choosing corners, doorways, and unoccupied seats. Nearby personnel feel the weight of being unheard and may lose the ability to speak above a whisper. It becomes more present during the Sorrow Tide.
@@ -363,7 +363,7 @@ Some sorrows mourn neglect. The Silent Child is made of it — the accumulated o
 > *“The accumulated neglect of countless children, crystallized into a presence.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-025 [VS]` · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-Iα-025 [VS]` · Void · Subject-Body manifestation
 **Common Name:** The Silent Child
 **Containment Status:** Contained — SECTOR-D-02, Echo Gardens — contained
 **Comprehension Level:** 1 — Initial

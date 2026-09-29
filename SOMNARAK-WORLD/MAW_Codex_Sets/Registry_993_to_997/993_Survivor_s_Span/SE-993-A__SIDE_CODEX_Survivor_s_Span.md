@@ -21,7 +21,7 @@ The entity formed from a bridge collapse remembered by one survivor. The burden 
 | Source designation | N-IIβ-993 [WS] |
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Weight (Black) / Zone B, deep tunnels |
+| Element / Location | Weight / Zone B, deep tunnels |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear. |
@@ -52,7 +52,7 @@ During the The Survivor s Span Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Survivor's Span's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Do not blame the worker; share the names of those lost The set cannot heal the originating event. Misuse routes Survivor's Span's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Survivor's Span's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Do not blame the worker; share the names of those lost The set cannot heal the originating event. Misuse routes Survivor's Span's wound through the operator and triggers the recorded escalation.
 
 ---
 

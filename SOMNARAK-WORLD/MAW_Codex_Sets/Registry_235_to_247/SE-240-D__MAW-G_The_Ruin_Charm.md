@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A warm crimson Han-iron Tail charm shaped like a broken door hinge. Near Holdout, it points toward one boundary appearing in at least two independent memories. It remains inert around a single polished reconstruction.
+A warm Grudge Han-iron Tail charm shaped like a broken door hinge. Near Holdout, it points toward one boundary appearing in at least two independent memories. It remains inert around a single polished reconstruction.
 
 The Stigma appeared after former residents named the same stair landing without consulting the Council plan. It occurs in roughly 5% of successful source-work outcomes; fabrication has never succeeded.
 

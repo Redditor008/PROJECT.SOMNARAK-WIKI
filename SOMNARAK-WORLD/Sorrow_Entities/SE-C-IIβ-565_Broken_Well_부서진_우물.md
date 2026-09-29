@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly figure, half-flesh and half-mist, rising from the broken mouth of a dry well, weeping for losses no one alive remembers. Its lower body dissolves into the well's dark; its tears fall back as dust. Fever-cold, it smells of char and forgotten rain. |
 | **Movement** | Stationary — a structure or location. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Tainted Water* [**Debuff**] } | "The well is cracked — and what seeps from the break is not water. It is old, thick, and angry." | [The Well's corrupted output contaminates the ground; the target steps in it.] | *Target suffers -10 Resilience; the corruption is spreading.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target approaches the Well. |
-| { *The Poisoned Source* [**Debuff**] } | "Everything that drew from this well is tainted now — including you, just by being near it." | [The Well's broken source radiates resentment; everything nearby is spoiled.] | *Target loses 10 Resilience; they feel tainted by proximity.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers. |
-| { *The Corrupted Geyser* [**Attack**] } | "A geyser of black, bitter water erupts from the crack." | [A blast of tainted well-water strikes.] | *Inflicts Crimson pressure and one stinging, contaminated wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Well is struck. |
-| { *The Full Break* [**Attack**] } | "The entire well gives way — and everything it ever held, corrupted, pours out." | [The Well's complete structural failure releases all its tainted mass.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Well is demolished. |
-| { *Every Well Breaks* [**Ultimate**] } | "The corruption spreads — every well, every source — until nothing is clean anymore." | [The Well extends its breakage to every source in the field.] | *All in range suffer Crimson pressure for three turns of tainted water.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Tainted Water* [**Debuff**] } | "The well is cracked — and what seeps from the break is not water. It is old, thick, and angry." | [The Well's corrupted output contaminates the ground; the target steps in it.] | *Target suffers -10 Resilience; the corruption is spreading.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |
+| { *The Poisoned Source* [**Debuff**] } | "Everything that drew from this well is tainted now — including you, just by being near it." | [The Well's broken source radiates resentment; everything nearby is spoiled.] | *Target loses 10 Resilience; they feel tainted by proximity.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Corrupted Geyser* [**Attack**] } | "A geyser of black, bitter water erupts from the crack." | [A blast of tainted well-water strikes.] | *Inflicts Grudge pressure and one stinging, contaminated wound.* **[14-22 Grudge DMG [Grudge]]** | When the Well is struck. |
+| { *The Full Break* [**Attack**] } | "The entire well gives way — and everything it ever held, corrupted, pours out." | [The Well's complete structural failure releases all its tainted mass.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is demolished. |
+| { *Every Well Breaks* [**Ultimate**] } | "The corruption spreads — every well, every source — until nothing is clean anymore." | [The Well extends its breakage to every source in the field.] | *All in range suffer Grudge pressure for three turns of tainted water.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Breach Type** | Transform |
 | **Movement** | Broken Well expands beyond containment like a spreading tide. It draws personnel toward its depths. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -188,7 +188,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -206,7 +206,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a tiny lantern of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a tiny lantern of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Well (C-IIβ-565 [D]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The Well formed from a mother's grief after failing to protect her child. Held at Zone B, Old Lament. It appears around broken wells and collapsed foundations.
+Broken Well (C-IIβ-565 [D]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The Well formed from a mother's grief after failing to protect her child. Held at Zone B, Old Lament. It appears around broken wells and collapsed foundations.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears beside wells and waterless openings in Old Lament. Personnel feel the grief of searching without an answer. It communicates through reflected emotion.
@@ -344,7 +344,7 @@ Some sorrows mourn the lost. Broken Well mourns the searching — the endless, u
 > *“Searching where there is nothing to find. That is the grief.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-565` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IIβ-565` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Phantasmal manifestation
 **Common Name:** Broken Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic

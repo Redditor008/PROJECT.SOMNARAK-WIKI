@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A torn translucent figure, half-flesh and half-light, weeping from a clean split down its chest — its outline flickering as two selves try and fail to separate. Fever-cold, it smells of char; one grief torn into two, still trying to be whole. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Frayed Edge* [**Debuff**] } | "You feel a pulling — like something is trying to peel your soul away from your body." | [The Soul tears at the target's spiritual cohesion; the bond loosens.] | *Target suffers -10 Resilience; body and spirit are separating.* **[10 Crimson DMG [Crimson / Grudge]]** | When the Soul reaches for them. |
-| { *The Thin Spot* [**Debuff**] } | "The place where your soul is thinnest — it found it, and it is pulling." | [The Soul finds the target's spiritual weak point and widens it.] | *Target loses 10 Resilience; the tear is spreading.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target resists. |
-| { *The Rip* [**Attack**] } | "It pulls — hard — and you feel the soul stretch and tear." | [A violent spiritual yank; the target's soul is wrenched.] | *Inflicts Crimson pressure and one wound of spiritual separation.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Soul is provoked. |
-| { *The Severing* [**Attack**] } | "One more pull — and the soul comes free." | [The Soul attempts full separation; the target hangs by a thread.] | *A heavy Crimson rend; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Soul is cornered. |
-| { *The Torn Host* [**Ultimate**] } | "Everyone's soul is pulled at once — and the tearing is everywhere." | [The Soul extends its pull across the whole field.] | *All personnel suffer Crimson pressure for three turns of mass severing.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Frayed Edge* [**Debuff**] } | "You feel a pulling — like something is trying to peel your soul away from your body." | [The Soul tears at the target's spiritual cohesion; the bond loosens.] | *Target suffers -10 Resilience; body and spirit are separating.* **[10 Grudge DMG [Grudge]]** | When the Soul reaches for them. |
+| { *The Thin Spot* [**Debuff**] } | "The place where your soul is thinnest — it found it, and it is pulling." | [The Soul finds the target's spiritual weak point and widens it.] | *Target loses 10 Resilience; the tear is spreading.* **[10 Grudge DMG [Grudge]]** | When the target resists. |
+| { *The Rip* [**Attack**] } | "It pulls — hard — and you feel the soul stretch and tear." | [A violent spiritual yank; the target's soul is wrenched.] | *Inflicts Grudge pressure and one wound of spiritual separation.* **[14-22 Grudge DMG [Grudge]]** | When the Soul is provoked. |
+| { *The Severing* [**Attack**] } | "One more pull — and the soul comes free." | [The Soul attempts full separation; the target hangs by a thread.] | *A heavy Crimson rend; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soul is cornered. |
+| { *The Torn Host* [**Ultimate**] } | "Everyone's soul is pulled at once — and the tearing is everywhere." | [The Soul extends its pull across the whole field.] | *All personnel suffer Grudge pressure for three turns of mass severing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a pendant of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a pendant of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Myrmidon (O-IIβ-235 [GS]) is logged as a Subject-Lament manifestation expressing Grudge (Crimson). The Soul formed from a person divided by betrayal. Held at Zone A, Alpha Tree. The entity is more reactive to uniforms and official seals than to individuals.
+Myrmidon (O-IIβ-235 [GS]) is logged as a Subject-Lament manifestation expressing Grudge. The Soul formed from a person divided by betrayal. Held at Zone A, Alpha Tree. The entity is more reactive to uniforms and official seals than to individuals.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Alpha Tree corridors seeking institutional symbols. Personnel feel divided loyalty, grief, and rage toward authority. It calms when a worker acknowledges institutional harm.
@@ -348,7 +348,7 @@ Some sorrows are about betrayal. Myrmidon is about the betrayal that divides —
 > *“The self, divided by betrayal, cannot hold.”* — Mender, Zone A
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-235 [GS]` · Grudge (Crimson) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IIβ-235 [GS]` · Grudge · Subject-Lament manifestation
 **Common Name:** Myrmidon
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic

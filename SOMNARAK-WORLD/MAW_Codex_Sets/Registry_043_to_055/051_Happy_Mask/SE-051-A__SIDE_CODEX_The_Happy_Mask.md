@@ -24,7 +24,7 @@
 | Type / Manifestation | Object/Place — Object-Void |
 | Coherence | II — Echo |
 | Potency | β — Moderate |
-| Element | Void — Pale White |
+| Element | Void |
 | Form | Lacquered smiling mask with dark absorbing interior |
 | Location | SECTOR-C-01, Masked Troupe |
 | Comprehension Level | 4 — Mastered |

@@ -12,7 +12,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A large shard of blue crystal rising from the floor, jagged and bright, perpetually wet with liquid memory that beads and runs down its faces. Salt-cold and damp, it smells of cold rain; touch it and a memory that isn't yours surfaces. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Wet Edge* [**Debuff**] } | "The shard is slick with old tears — and the edge slips through armor like it is not there." | [The Shard's sorrow-water lubricates its cut; defense slides off.] | *Target suffers -10 Composure; the wet edge finds every gap.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target is near the Shard. |
-| { *The Drip* [**Debuff**] } | "Each drip from the shard carries a memory — and the memories pool at your feet." | [The Shard's runoff accumulates; the target stands in collected grief.] | *Target loses 10 Composure; the pool is rising.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Slick Cut* [**Attack**] } | "The shard whips through the air — trailing water, trailing sorrow, cutting clean." | [A water-slicked shard-strike.] | *Inflicts Deep Blue pressure and one clean, soaking wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Shard is struck. |
-| { *The Full Soak* [**Attack**] } | "The shard releases every drop it ever held — a blade that becomes a wave." | [The Shard disgorges its accumulated sorrow-water as a flood.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Shard is shattered. |
-| { *The Drowned Edge* [**Ultimate**] } | "Every shard in the field goes slick — and the air itself becomes wet with grief." | [The Shard extends its soaking across the whole area.] | *All in range suffer Deep Blue pressure for three turns of wet edges.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Wet Edge* [**Debuff**] } | "The shard is slick with old tears — and the edge slips through armor like it is not there." | [The Shard's sorrow-water lubricates its cut; defense slides off.] | *Target suffers -10 Composure; the wet edge finds every gap.* **[10 Lament DMG [Lament]]** | When the target is near the Shard. |
+| { *The Drip* [**Debuff**] } | "Each drip from the shard carries a memory — and the memories pool at your feet." | [The Shard's runoff accumulates; the target stands in collected grief.] | *Target loses 10 Composure; the pool is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Slick Cut* [**Attack**] } | "The shard whips through the air — trailing water, trailing sorrow, cutting clean." | [A water-slicked shard-strike.] | *Inflicts Lament pressure and one clean, soaking wound.* **[14-22 Lament DMG [Lament]]** | When the Shard is struck. |
+| { *The Full Soak* [**Attack**] } | "The shard releases every drop it ever held — a blade that becomes a wave." | [The Shard disgorges its accumulated sorrow-water as a flood.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shard is shattered. |
+| { *The Drowned Edge* [**Ultimate**] } | "Every shard in the field goes slick — and the air itself becomes wet with grief." | [The Shard extends its soaking across the whole area.] | *All in range suffer Lament pressure for three turns of wet edges.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-The escalation pattern is specific to Soaking Shard: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Soaking Shard: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Soaking Shard: it is not a generic breach 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Soaking Shard: it is not a generic breach 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Soaking Shard: it is not a generic breach 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a pendant of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a pendant of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Soaking Shard (C-IVδ-219 [LO]) is logged as a Object-Void manifestation expressing Lament (Deep Blue). The Shard formed when crystallized sorrow broke open and began flowing again. Held at Zone A, Alpha Tree vault. The Shard's tears are warm despite its crystal body.
+Soaking Shard (C-IVδ-219 [LO]) is logged as a Object-Void manifestation expressing Lament. The Shard formed when crystallized sorrow broke open and began flowing again. Held at Zone A, Alpha Tree vault. The Shard's tears are warm despite its crystal body.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 It grows more active during the Sorrow Tide.
@@ -382,7 +382,7 @@ Some sorrows are about open wounds. Soaking Shard is about a wound that was clos
 > *“The closing was never a healing. It was a delay.”* — Mender, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-219 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IVδ-219 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Object-Void manifestation
 **Common Name:** Soaking Shard
 **Containment Status:** Contained — Alpha Tree vault
 **Comprehension Level:** 3 — Advanced

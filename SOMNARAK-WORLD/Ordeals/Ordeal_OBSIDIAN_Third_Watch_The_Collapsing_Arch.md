@@ -1,4 +1,4 @@
-# BLACK Third Watch — The Collapsing Arch
+# OBSIDIAN Third Watch — The Collapsing Arch
 
 > *""It looked like a doorway. Then it fell, and the corridor came with it.""*
 
@@ -6,15 +6,15 @@
 
 | Field | Value |
 |---|---|
-| **Color** | BLACK |
+| **Color** | OBSIDIAN |
 | **Time** | Third Watch |
 | **Threat Level** | Major |
 | **Han Source** | Weight |
-| **Physical Form** | Non-Organic — Five-meter entities shaped like fallen architecture — arches, lintels, collapsed doorways of dense black Han-crystal. They do not walk; they topple forward, crash, reform, and topple again, each impact devastating. |
+| **Physical Form** | Non-Organic — Five-meter entities shaped like fallen architecture — arches, lintels, collapsed doorways of dense Weight Han-crystal. They do not walk; they topple forward, crash, reform, and topple again, each impact devastating. |
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 3–5 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 18–34 per hit · Weight (Black) |
+| **Han Pressure [ATK]** | 18–34 per hit · Weight |
 | **HP** | 354/354 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -25,7 +25,7 @@ Forms when Weight Han reaches Third Watch density. The columns merge further int
 
 ## Appearance
 
-5-meter-wide entities shaped like fallen architecture — arches, lintels, collapsed doorways made of dense black Han-crystal. They do not walk; they topple forward, crash, reform, and topple again. Each impact is devastating.
+5-meter-wide entities shaped like fallen architecture — arches, lintels, collapsed doorways made of dense Weight Han-crystal. They do not walk; they topple forward, crash, reform, and topple again. Each impact is devastating.
 
 ## Behavior
 
@@ -51,7 +51,7 @@ Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deploy
 
 ## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary BLACK Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary OBSIDIAN Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Elite-grade)
 
@@ -63,7 +63,7 @@ Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deploy
 | **Han Pressure [ATK]** | 25–45 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[25–45 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[25–45 Weight DMG [Weight]]**
 
 ### The Clockwork Press (Machine, Elite-grade)
 
@@ -75,7 +75,7 @@ Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deploy
 | **Han Pressure [ATK]** | 30–50 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[30–50 Black DMG [Black / Weight]]**
+**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[30–50 Weight DMG [Weight]]**
 
 ### The Living Avalanche (Non-Humanoid, Elite-grade)
 
@@ -87,7 +87,7 @@ Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deploy
 | **Han Pressure [ATK]** | 35–55 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[35–55 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[35–55 Weight DMG [Weight]]**
 
 
 ## Trivia
@@ -99,7 +99,7 @@ Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deploy
 
 ## Document Information
 
-**Document ID:** `ORDEAL-BLACK-Third-Watch`
+**Document ID:** `ORDEAL-OBSIDIAN-Third-Watch`
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 

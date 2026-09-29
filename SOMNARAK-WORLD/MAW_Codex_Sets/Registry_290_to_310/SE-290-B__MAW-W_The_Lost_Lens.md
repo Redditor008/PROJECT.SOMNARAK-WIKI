@@ -14,7 +14,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-A pale Han-glass disc whose surface rejects one direction at a time. It forms from an A-Relic husk after safe route termination.
+A Void Han-glass disc whose surface rejects one direction at a time. It forms from an A-Relic husk after safe route termination.
 
 Binding requires the wielder to name present location and admit no known correct path. During a Forge District shift, Durivel used the Lens to collapse one false return route identified by matching hazard records. He lost the memory of a harmless shortcut, not the capacity to navigate.
 

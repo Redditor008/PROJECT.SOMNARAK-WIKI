@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Rigid and absolute |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Non-Organic — A humanoid judge forged entire from black iron — featureless, its face a sealed smooth plate, a crimson scale embedded in its chest where a heart would be. The metal is fever-hot and smells of char; it moves with the weight of a verdict. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gavel* [**Debuff**] } | "The judge raises the gavel — iron, enormous — and the weight of its intention alone crushes you." | [The Judge's authority presses on the target; they feel judged.] | *Target suffers -10 Resilience; the verdict is already decided.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target faces the Judge. |
-| { *The Immutable Law* [**Debuff**] } | "The law is iron — literal iron — and it does not bend, does not yield, does not listen to reason." | [The Judge's rigid code bears down; the target cannot argue.] | *Target loses 10 Resilience; there is no appeal.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target tries to defend. |
-| { *The Iron Fist* [**Attack**] } | "The gavel comes down — and it is the weight of every sentence ever passed, condensed into one blow." | [A devastating gavel-strike.] | *Inflicts Crimson pressure and one crushing wound of judgment.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the target is found guilty. |
-| { *The Maximum Sentence* [**Attack**] } | "The judge delivers the harshest verdict possible — and the verdict is a weapon." | [The Judge's ultimate condemnation strikes.] | *A heavy Crimson sentence; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Judge is challenged. |
-| { *The Court of Iron* [**Ultimate**] } | "The judge extends jurisdiction — until everyone is on trial, and the gavel never stops falling." | [The Judge extends its judgment across the whole field.] | *All in range suffer Crimson pressure for three turns under the iron gavel.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Gavel* [**Debuff**] } | "The judge raises the gavel — iron, enormous — and the weight of its intention alone crushes you." | [The Judge's authority presses on the target; they feel judged.] | *Target suffers -10 Resilience; the verdict is already decided.* **[10 Grudge DMG [Grudge]]** | When the target faces the Judge. |
+| { *The Immutable Law* [**Debuff**] } | "The law is iron — literal iron — and it does not bend, does not yield, does not listen to reason." | [The Judge's rigid code bears down; the target cannot argue.] | *Target loses 10 Resilience; there is no appeal.* **[10 Grudge DMG [Grudge]]** | When the target tries to defend. |
+| { *The Iron Fist* [**Attack**] } | "The gavel comes down — and it is the weight of every sentence ever passed, condensed into one blow." | [A devastating gavel-strike.] | *Inflicts Grudge pressure and one crushing wound of judgment.* **[14-22 Grudge DMG [Grudge]]** | When the target is found guilty. |
+| { *The Maximum Sentence* [**Attack**] } | "The judge delivers the harshest verdict possible — and the verdict is a weapon." | [The Judge's ultimate condemnation strikes.] | *A heavy Crimson sentence; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Judge is challenged. |
+| { *The Court of Iron* [**Ultimate**] } | "The judge extends jurisdiction — until everyone is on trial, and the gavel never stops falling." | [The Judge extends its judgment across the whole field.] | *All in range suffer Grudge pressure for three turns under the iron gavel.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a slender, singing blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+**Appearance:** a slender, singing blade of Grudge Han-iron, dark and faintly warm, that flickers with inner light.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -193,7 +193,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Gavel (C-IVδ-140 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Judge formed from the sorrow of people subjected to impartial systems that were never truly fair. Held at SECTOR-C-01, Collector's Row. It watches without visible eyes.
+Gavel (C-IVδ-140 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Judge formed from the sorrow of people subjected to impartial systems that were never truly fair. Held at SECTOR-C-01, Collector's Row. It watches without visible eyes.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Collector's Row issuing silent judgments. Personnel feel guilty for actions they have not yet taken. Collector records become legible when it is near.
@@ -348,7 +348,7 @@ Some sorrows are about cruelty. Gavel is about indifference — the impartial sy
 > *“Gavel is the rigidity of a system that decided circumstances do not matter.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-140 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVδ-140 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Body manifestation
 **Common Name:** Gavel
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 3 — Advanced

@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A black Han-weave mantle with one horizontal departure line. Binding requires a named exit and no excavation tools.
+A Weight Han-weave mantle with one horizontal departure line. Binding requires a named exit and no excavation tools.
 
 Iseulfros wore it through a memory release. The Mantle resisted Weight but left constant fatigue and a pull toward remaining at the site.
 

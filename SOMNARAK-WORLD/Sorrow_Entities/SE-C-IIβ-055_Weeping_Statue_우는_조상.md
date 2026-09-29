@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Non-Organic — A weeping statue carved of dark stone, robed and bowed, true tears solidifying as they fall and piling at its feet. The carved stone is warm where tears run, salt-damp, smelling of cold rain; a sculpted grief that will not stop. |
 | **Movement** | Stationary — an artwork. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Stone Tears* [**Debuff**] } | "Tears of grey stone run down its face — and they do not stop." | [The Statue weeps; the slow stone-tears pool at the target's feet.] | *Target suffers -10 Composure; the grief is heavy and still.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Statue is regarded. |
-| { *The Frozen Mourning* [**Debuff**] } | "Its sorrow is so old it has turned to stone — and now yours begins to harden too." | [The Statue's petrified grief spreads; the target feels themselves slowing.] | *Target loses 10 Composure; their movements stiffen.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands too long in its shadow. |
-| { *The Heavy Hand* [**Attack**] } | "A stone hand, raised in eternal grief, comes down." | [A slow, massive blow from a fist that has mourned for centuries.] | *Inflicts Deep Blue pressure and one crushing, cold wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Statue is provoked. |
-| { *The Cracking* [**Attack**] } | "The statue cracks — and the grief held inside for so long bursts out." | [The Statue fractures, releasing the centuries of sorrow within.] | *A heavy Deep Blue rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Statue is struck or damaged. |
-| { *The Monument* [**Ultimate**] } | "It plants itself and becomes a monument to grief that will never be moved." | [The Statue settles into permanence, radiating petrified sorrow outward.] | *All in range suffer Deep Blue pressure for three turns as grief hardens.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Stone Tears* [**Debuff**] } | "Tears of grey stone run down its face — and they do not stop." | [The Statue weeps; the slow stone-tears pool at the target's feet.] | *Target suffers -10 Composure; the grief is heavy and still.* **[10 Lament DMG [Lament]]** | When the Statue is regarded. |
+| { *The Frozen Mourning* [**Debuff**] } | "Its sorrow is so old it has turned to stone — and now yours begins to harden too." | [The Statue's petrified grief spreads; the target feels themselves slowing.] | *Target loses 10 Composure; their movements stiffen.* **[10 Lament DMG [Lament]]** | When the target stands too long in its shadow. |
+| { *The Heavy Hand* [**Attack**] } | "A stone hand, raised in eternal grief, comes down." | [A slow, massive blow from a fist that has mourned for centuries.] | *Inflicts Lament pressure and one crushing, cold wound.* **[14-22 Lament DMG [Lament]]** | When the Statue is provoked. |
+| { *The Cracking* [**Attack**] } | "The statue cracks — and the grief held inside for so long bursts out." | [The Statue fractures, releasing the centuries of sorrow within.] | *A heavy Deep Blue rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Statue is struck or damaged. |
+| { *The Monument* [**Ultimate**] } | "It plants itself and becomes a monument to grief that will never be moved." | [The Statue settles into permanence, radiating petrified sorrow outward.] | *All in range suffer Lament pressure for three turns as grief hardens.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -280,7 +280,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Weeping Statue (C-IIβ-055 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to breach; only its tears expand.
+Weeping Statue (C-IIβ-055 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to breach; only its tears expand.
 
 **Entry 2 — <Excerpt from Field Log, Year 4208>**
 The Statue remains fixed; its tears overflow through the containment zone. Personnel standing in the tears experience amplified personal grief. Every tear carries a distinct emotional signature.
@@ -364,7 +364,7 @@ Some sorrows are released. Weeping Statue is a sorrow that was forbidden to rele
 > *“The tears pour from stone eyes, continuously, for everyone who held it in.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-055 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-055 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Lament manifestation
 **Common Name:** Weeping Statue
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

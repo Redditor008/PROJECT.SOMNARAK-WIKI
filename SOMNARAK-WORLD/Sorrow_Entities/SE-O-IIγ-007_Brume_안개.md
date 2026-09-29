@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats a single pattern: blanketing areas |
 | **Potency** | Major (γ) — High danger in the Desolate |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Place-Phantasmal |
 | **Physical Form** | Non-Organic — Not a creature but a drifting bank of bone-white sorrow-mist that rolls across the Desolate — cold, damp, faintly sweet with the smell of old flowers. Those caught in it lose direction and memory; there is no body to strike, only the fog, and the muffled weeping inside it. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Wisp* [**Debuff**] } | "A tendril of fog drifts in — not water-vapor, but something thinner, colder, less real — and it passes through your skin." | [The Fog's void-nature permeates the target; they feel less substantial.] | *Target suffers a Void mark; the fog is eroding their solidity.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Fog. |
-| { *The Thickening* [**Debuff**] } | "The fog densifies — and the thicker it gets, the less of you there seems to be." | [The Fog's accumulation reduces the target's presence; they are fading.] | *Target loses clarity; they are becoming translucent.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains in the Fog. |
-| { *The Cold Current* [**Attack**] } | "The fog surges — a wall of void-mist, driven by a wind that does not exist." | [ A fog-bank strikes with cold, eroding force.] | *Inflicts Void damage; the mist dissolves identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Fog is disturbed. |
-| { *The Total Obscuration* [**Attack**] } | "The fog becomes absolute — a wall of grey nothing — and everything beyond it ceases to be perceivable." | [The Fog's complete opacity removes all reference points.] | *A heavy Void wall of nothing; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Fog is forced to clear. |
-| { *The Fog World* [**Ultimate**] } | "The fog covers everything — and inside the fog, nothing is real, nothing is solid, nothing persists." | [The Fog extends its drift across the whole area.] | *All in range suffer Pale White erosion for three turns of drifting void.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Wisp* [**Debuff**] } | "A tendril of fog drifts in — not water-vapor, but something thinner, colder, less real — and it passes through your skin." | [The Fog's void-nature permeates the target; they feel less substantial.] | *Target suffers a Void mark; the fog is eroding their solidity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Fog. |
+| { *The Thickening* [**Debuff**] } | "The fog densifies — and the thicker it gets, the less of you there seems to be." | [The Fog's accumulation reduces the target's presence; they are fading.] | *Target loses clarity; they are becoming translucent.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains in the Fog. |
+| { *The Cold Current* [**Attack**] } | "The fog surges — a wall of void-mist, driven by a wind that does not exist." | [ A fog-bank strikes with cold, eroding force.] | *Inflicts Void damage; the mist dissolves identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Fog is disturbed. |
+| { *The Total Obscuration* [**Attack**] } | "The fog becomes absolute — a wall of grey nothing — and everything beyond it ceases to be perceivable." | [The Fog's complete opacity removes all reference points.] | *A heavy Void wall of nothing; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Fog is forced to clear. |
+| { *The Fog World* [**Ultimate**] } | "The fog covers everything — and inside the fog, nothing is real, nothing is solid, nothing persists." | [The Fog extends its drift across the whole area.] | *All in range suffer Void erosion for three turns of drifting void.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -217,7 +217,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -235,7 +235,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a tiny lantern of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a tiny lantern of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -291,7 +291,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Brume (O-IIγ-007 [VP]) is logged as a Place-Phantasmal manifestation expressing Void (Pale White). Brume crystallized from the collective despair of Desolate nomads. Held at The Desolate — mobile. The Fog is mobile and follows existing Han-flow lines.
+Brume (O-IIγ-007 [VP]) is logged as a Place-Phantasmal manifestation expressing Void. Brume crystallized from the collective despair of Desolate nomads. Held at The Desolate — mobile. The Fog is mobile and follows existing Han-flow lines.
 
 **Entry 2 — <Excerpt from Field Log, Year 4212>**
 It has not expanded beyond the region associated with the Desolate, but mapped perimeter markers shift.
@@ -376,7 +376,7 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 > *“The fog carries the accumulated despair of everyone who lost the belief that the wandering could end.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIγ-007 [VP]` · Void (Pale White) · Place-Phantasmal manifestation
+**Classification:** Sorrow Entity — `O-IIγ-007 [VP]` · Void · Place-Phantasmal manifestation
 **Common Name:** Brume
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial

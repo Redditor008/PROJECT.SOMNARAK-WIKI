@@ -70,7 +70,7 @@ At the rear of the squad, Dreamer Sora stood motionless, her slender frame envel
 
 "It smells of drowned bronze," Sora whispered, her gaze unfocused. "And old paper. Someone drowned down there with a ledger in their arms, praying for the water to stop. The water never stopped."
 
-Doha nodded once. He set the diamond-pointed chisel of the pneumatic ram against the center of the drainage slab, grasped the dual throttles, and engaged the compressed carbon-dioxide piston. A sharp, deafening impact cracked through the cobblestones. The stone did not shatter into jagged fragments; instead, the ancient calcified mortar dissolved into thick, black Han-tar that hissed and pooled around their boots.
+Doha nodded once. He set the diamond-pointed chisel of the pneumatic ram against the center of the drainage slab, grasped the dual throttles, and engaged the compressed carbon-dioxide piston. A sharp, deafening impact cracked through the cobblestones. The stone did not shatter into jagged fragments; instead, the ancient calcified mortar dissolved into thick, Weight Han-tar that hissed and pooled around their boots.
 
 The slab dropped into the void, followed by a rushing blast of damp, freezing subterranean air that smelled of mineral salt, copper, and ancient earth. A vertical karst chimney descended into absolute blackness.
 
@@ -225,7 +225,7 @@ The entity, catalogued under field code **SECC-E04 "The Sump Matron"**, was a te
 ================================================================================
  ELITE ANOMALY COMBAT: SECC-E04 "THE SUMP MATRON" (Grade-β Potency)
 ================================================================================
- BOSS ATTRIBUTES: HP: 950 | Stagger: 380 | Element: Grudge (Crimson)
+ BOSS ATTRIBUTES: HP: 950 | Stagger: 380 | Element: Grudge
  RESISTANCES: Grudge (Endured 0.5x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Normal 1.0x)
 
  TURN 1:
@@ -306,10 +306,10 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
  - Stagger Thresholds: 1,680 HP (70%) | 960 HP (40%) | 240 HP (10%)
  - Base Defense: 35 | Speed Dice: 2–6 (3 Attack Slots)
  - Resistances:
-   * Grudge (Crimson) : 2.0x (Exposed Weakness — Heat & Kinetic Friction)
-   * Lament (Deep Blue): 0.5x (Endured — Saturated in Weeping Brine)
-   * Void (Pale White) : 1.0x (Normal — Susceptible to Direct Soul Severing)
-   * Weight (Black)    : 0.75x (Ineffective — Heavy Basalt Construction)
+   * Grudge : 2.0x (Exposed Weakness — Heat & Kinetic Friction)
+   * Lament: 0.5x (Endured — Saturated in Weeping Brine)
+   * Void : 1.0x (Normal — Susceptible to Direct Soul Severing)
+   * Weight    : 0.75x (Ineffective — Heavy Basalt Construction)
 
  TARGETABLE COMPONENT PARTS:
  1. Left Hydraulic Siphon Arm (HP: 600 | Stagger: 200) — Siphons water, charges AoE

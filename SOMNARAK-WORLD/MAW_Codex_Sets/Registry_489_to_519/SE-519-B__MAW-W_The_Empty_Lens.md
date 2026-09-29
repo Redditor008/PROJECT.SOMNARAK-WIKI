@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass lens containing an empty future outline. It forms after possibility and memory are distinguished.
+A Void Han-glass lens containing an empty future outline. It forms after possibility and memory are distinguished.
 
 Zyrak severed a false childhood memory from a mourned future while preserving the person’s real grief. One nameless personal possibility disappeared.
 

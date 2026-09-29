@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A quiet border place where every sound, however sharp, softens into a single sleeping breath; the ground is soft, the air presses down. Lead-heavy, it smells of wet stone; no body — only the hush that puts the world to sleep. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slow Exhale* [**Debuff**] } | "A sigh — barely audible, barely a breath — escapes from something vast and dormant." | [The Sigh's sleeping exhalation carries enormous weight; the target is pressed by it.] | *Target suffers -10 Resolve; the sleeping breath is heavy.* **[10 Black DMG [Black / Weight]]** | When the target feels the Sigh. |
-| { *The Stirring* [**Debuff**] } | "The sleeper shifts — the sigh deepens — and the exhaled air thickens into something you can lean against." | [The Sigh's exhalation becomes physical; the target is pushed by dormant breath.] | *Target loses 10 Resolve; the sleeping thing is stirring.* **[10 Black DMG [Black / Weight]]** | When the target remains in the path. |
-| { *The Sudden Breath* [**Attack**] } | "The sleeper exhales sharply — a gust of concentrated, dormant weight." | [A sudden exhalation-strike.] | *Inflicts Black pressure and one wound of heavy breath.* **[14-22 Black DMG [Black / Weight]]** | When the Sigh is disturbed. |
-| { *The Full Awakening* [**Attack**] } | "The sleeper's eyes open — for one second — and the full weight of their attention is devastating." | [The Sigh's brief waking releases its complete dormant mass.] | *A heavy Black surge; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Sigh is forced awake. |
-| { *The Waking Giant* [**Ultimate**] } | "Every sleeping sigh in the field stirs — and the combined exhalation of dormant giants fills the room." | [The Sigh extends its stirring across the whole area.] | *All in range suffer Black pressure for three turns of awakening breath.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slow Exhale* [**Debuff**] } | "A sigh — barely audible, barely a breath — escapes from something vast and dormant." | [The Sigh's sleeping exhalation carries enormous weight; the target is pressed by it.] | *Target suffers -10 Resolve; the sleeping breath is heavy.* **[10 Weight DMG [Weight]]** | When the target feels the Sigh. |
+| { *The Stirring* [**Debuff**] } | "The sleeper shifts — the sigh deepens — and the exhaled air thickens into something you can lean against." | [The Sigh's exhalation becomes physical; the target is pushed by dormant breath.] | *Target loses 10 Resolve; the sleeping thing is stirring.* **[10 Weight DMG [Weight]]** | When the target remains in the path. |
+| { *The Sudden Breath* [**Attack**] } | "The sleeper exhales sharply — a gust of concentrated, dormant weight." | [A sudden exhalation-strike.] | *Inflicts Weight pressure and one wound of heavy breath.* **[14-22 Weight DMG [Weight]]** | When the Sigh is disturbed. |
+| { *The Full Awakening* [**Attack**] } | "The sleeper's eyes open — for one second — and the full weight of their attention is devastating." | [The Sigh's brief waking releases its complete dormant mass.] | *A heavy Black surge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Sigh is forced awake. |
+| { *The Waking Giant* [**Ultimate**] } | "Every sleeping sigh in the field stirs — and the combined exhalation of dormant giants fills the room." | [The Sigh extends its stirring across the whole area.] | *All in range suffer Weight pressure for three turns of awakening breath.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a breath-token of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a breath-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Torpor (N-IVδ-157 [WP]) is logged as a Place-Grudge manifestation expressing Weight (Black). The Sigh formed from exhaustion that had no safe place to rest. Held at Zone E, Border region. It is most dangerous when personnel refuse to rest.
+Torpor (N-IVδ-157 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Sigh formed from exhaustion that had no safe place to rest. Held at Zone E, Border region. It is most dangerous when personnel refuse to rest.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The place watches through the silence of sleeping camps.
@@ -360,7 +360,7 @@ Some sorrows are about danger. Torpor is about the weariness of watching for dan
 > *“The weariness that gave up on bodies and sought rest in the earth.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-157 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-157 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Place-Grudge manifestation
 **Common Name:** Torpor
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 3 — Advanced

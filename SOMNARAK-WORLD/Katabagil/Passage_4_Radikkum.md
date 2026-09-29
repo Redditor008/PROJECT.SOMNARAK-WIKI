@@ -219,10 +219,10 @@ A deafening acoustic wail shook the cavern walls.
  - Stagger Thresholds: 2,520 HP (70%) | 1,440 HP (40%) | 360 HP (10%)
  - Base Defense: 55 | Speed Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
-   * Grudge (Crimson) : 2.0x (Exposed Weakness — Fire incinerates dry petrified sap)
-   * Lament (Deep Blue): 0.5x (Endured — Saturated in four thousand years of tears)
-   * Void (Pale White) : 1.5x (Weakness — Severing root cords disrupts memory net)
-   * Weight (Black)    : 1.0x (Normal — Solid kinetic sapping)
+   * Grudge : 2.0x (Exposed Weakness — Fire incinerates dry petrified sap)
+   * Lament: 0.5x (Endured — Saturated in four thousand years of tears)
+   * Void : 1.5x (Weakness — Severing root cords disrupts memory net)
+   * Weight    : 1.0x (Normal — Solid kinetic sapping)
 
  TARGETABLE COMPONENT PARTS:
  1. Canopy Root Tendrils      (HP: 950 | Stagger: 350) — Overhead sweeping strikes

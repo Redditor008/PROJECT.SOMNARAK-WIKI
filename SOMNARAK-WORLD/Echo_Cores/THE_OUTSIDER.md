@@ -53,7 +53,7 @@ Ishall is controlled, perceptive, and difficult to intimidate. Her humanoid Andr
 | **Station** | **Mobile — between zones; Floor 7: the Shadow Corps beneath the Alpha Tree** |
 | **Effigy** | **Android — 0% organic humanoid body of Han-crystal and sorrow-forged metal, with her soul fused into a repurposed enemy chassis** |
 | **Sorrow** | **Inner Sorrow (내한)** |
-| **Signature** | **Grudge (Crimson) + Void (Pale White)** |
+| **Signature** | **Grudge + Void** |
 | **Manifestation** | **Subject-Body — physical, dangerous, and marked** |
 | **Role** | The Outsider; commander of Floor 7, field operations leader, intelligence receiver, infiltrator, and counter-intelligence officer |
 | **Gender** | **Woman** |
@@ -614,7 +614,7 @@ This does not guarantee safe interaction with every Sorrow Entity. Work compatib
 
 ### Grudge and Void Signature
 
-Ishall bears **Grudge (Crimson)** and **Void (Pale White)**.
+Ishall bears **Grudge** and **Void**.
 
 - **Grudge** supports force, pressure, and the retained anger of being used and denied.
 - **Void** supports absence, suppression, distance, and the empty space left by erased identity.
@@ -802,7 +802,7 @@ The pair shows surface wear older than any R.D. deployment record, but no legibl
 |---|---|
 | **Type** | Artifact Hands — Paired Remote Weapon |
 | **Grade / Power Tier** | **δ — Critical** |
-| **Element** | **Grudge (Crimson) + Void (Pale White)** |
+| **Element** | **Grudge + Void** |
 | **Damage** | **10–15 Grudge** direct, followed by **1.5 Void per second for 6 seconds** |
 | **Tick Interval** | **1 second** — 1.5 Void per Tick, 6 Ticks, 9 total Void before falloff |
 | **Speed** | **3 — Fast** |
@@ -828,7 +828,7 @@ The falloff applies to each component separately. The Void total is not reduced 
 
 #### Attack Sequence
 
-For **Converging Refusal**, the artifacts take opposed positions above or beside the chosen field section. Their fingers curl inward without making physical contact. Grudge force strikes the area immediately, followed by a Pale White pressure residue that persists for six seconds.
+For **Converging Refusal**, the artifacts take opposed positions above or beside the chosen field section. Their fingers curl inward without making physical contact. Grudge force strikes the area immediately, followed by a Void pressure residue that persists for six seconds.
 
 The center receives the greatest pressure. Inner and outer zones remain dangerous but weaker. Physical cover, sufficient resistance, leaving the residue field, disrupting the hands, or enduring the damage can reduce the attack's effect.
 
@@ -857,7 +857,7 @@ The center receives the greatest pressure. Inner and outer zones remain dangerou
 | Field | Record |
 |---|---|
 | **Mode** | **Closed Ground — Area-Denial Field** |
-| **Element** | **Void — Pale White** |
+| **Element** | **Void** |
 | **Damage** | **2 Void per second for 10 seconds** in the center zone |
 | **Tick Interval** | **1 second** — 10 Ticks |
 | **Speed** | **2 — Normal** to establish |
@@ -952,7 +952,7 @@ Unlike standard Echo-Core crises that resolve through a single harmonic realizat
 Under prolonged cycle exhaustion, the Directorate's administrative overrides collapse. Ishall’s repurposed enemy Android chassis reverts to its original factory directives: execute black-ops sabotage, eliminate Directorate command personnel, and permanently dismantle Facility 01 from within.
 
 #### Encounter Mechanics
-- **Element Signature:** **Grudge (Crimson)** direct kinetic ballistics and stealth minefields.
+- **Element Signature:** **Grudge** direct kinetic ballistics and stealth minefields.
 - **Active Camouflage:** Ishall deploys full optical refraction, vanishing from standard sensors and striking from concealed vantage points across Floor 7.
 - **Crossfire Saturation:** High-speed sniper rounds and razor-wire ambushes that inflict heavy Grudge direct damage on moving specialists.
 - **Suppression Objective:** Specialists cannot reason with the hostile military firmware while it overrides the chassis. They must deploy electronic jamming, bypass tactical kill-zones, and physically breach the chassis's cranial housing to shatter the foreign command loop, awakening Ishall's true human soul and consciousness.
@@ -965,7 +965,7 @@ Under prolonged cycle exhaustion, the Directorate's administrative overrides col
 Neutralizing the enemy chassis shatters her motor controls, severing the delicate neural link holding *Unanswered*. With their bearer incapacitated, the paired Before-Time Artifact Hands detach into an autonomous primordial state, awakening their closed ancient Han lattice.
 
 #### Encounter Mechanics
-- **Element Signature:** Pure **Void (Pale White)** area-denial and spatial disruption.
+- **Element Signature:** Pure **Void** area-denial and spatial disruption.
 - **Omnidirectional Closed Ground:** The two oversized relic hands fly to opposite structural weight-bearing columns of Floor 7, turning their Pale White palms inward. The entire encounter floor becomes an active *Closed Ground* field:
   - All Han-assisted movement and remote Han-wave communications are completely suppressed.
   - Ambient gravity inverts intermittently; specialists suffer continuous Void erosion ticks across all zones.
@@ -1570,7 +1570,7 @@ No direct participation, Archival Encounter, Engram Page, Stratum Realization, o
 - The Council denied sending her after the mission failed.
 - Her current chassis was repurposed from enemy use.
 - Her Sorrow category is Inner Sorrow.
-- Her signature is Grudge (Crimson) and Void (Pale White).
+- Her signature is Grudge and Void.
 - Her Manifestation is Subject-Body.
 - Her preferred Work Type is Pugnahan.
 - Her Resilience is 80.

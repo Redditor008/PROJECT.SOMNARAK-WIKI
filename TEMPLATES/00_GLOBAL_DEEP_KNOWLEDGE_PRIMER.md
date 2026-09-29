@@ -65,7 +65,7 @@ The following are **strictly banned** in `SOMNARAK-WORLD/` and `GAME_BATTLE/` ca
 
 ### LAW 8 — Timeless Weapon Authenticity + Elemental Canon
 
-- **Four Damage Elements:** Grudge (원한 / Crimson, physical), Lament (비탄 / Blue, psychological), Void (공허 / Pale White, soul/memory), Weight (비중 / Black, gravitational collapse).
+- **Four Damage Elements:** Grudge (원한, physical), Lament (비탄, psychological), Void (공허, soul/memory), Weight (비중, gravitational collapse).
 - **Four Work Types:** Ferrehan (인내 — Endurance), Flerehan (공감 — Empathy), Pugnahan (억제 — Suppression), Viderehan (관찰 — Observation).
 - **Risk Ranks:** I Whisper (α) → II Murmur (β) → III Fragment (γ) → IV Entity (δ) → V Sovereign (ω).
 - **Origins:** C City Sorrow (도한), N Inner Sorrow (내한), O Outside Sorrow (외한).

@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — An invisible chain heard as a voice moving from link to link through the air — when it shows itself, a chain of pale wet crystal, each link voicing a different word. Salt-damp, it smells of cold rain; it speaks only in the order of its links. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Wet Links* [**Debuff**] } | "The chain is slick with sorrow-water — and it slides tighter the wetter it gets." | [A waterlogged chain loops the target; the rust bites.] | *Target suffers -10 Composure; the wet iron is cold and tightening.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Chain is cast. |
-| { *The Rust Bite* [**Debuff**] } | "Where the wet links touch, rust blooms on your skin." | [Corrosion spreads from the chain into the target.] | *Target loses 10 Composure; the rust is eating at them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target struggles against the Chain. |
-| { *The Snap* [**Attack**] } | "The chain whips — spraying water and rust in a wide arc." | [A soaking chain-lash strikes across the target.] | *Inflicts Deep Blue pressure and one rusted, stinging wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Chain is provoked. |
-| { *The Drowning Weight* [**Attack**] } | "The chain drags you down — waterlogged, rusted, and heavier than iron." | [The soaked chain constricts, dragging the target under.] | *A heavy Deep Blue crush; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Chain is commanded. |
-| { *The Rusted Coil* [**Ultimate**] } | "Every chain in the place rusts through and breaks — and the rust spreads like floodwater." | [The Chain disintegrates into a tide of corrosive sorrow-water.] | *All personnel suffer Deep Blue pressure for three turns in the rust-flood.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Wet Links* [**Debuff**] } | "The chain is slick with sorrow-water — and it slides tighter the wetter it gets." | [A waterlogged chain loops the target; the rust bites.] | *Target suffers -10 Composure; the wet iron is cold and tightening.* **[10 Lament DMG [Lament]]** | When the Chain is cast. |
+| { *The Rust Bite* [**Debuff**] } | "Where the wet links touch, rust blooms on your skin." | [Corrosion spreads from the chain into the target.] | *Target loses 10 Composure; the rust is eating at them.* **[10 Lament DMG [Lament]]** | When the target struggles against the Chain. |
+| { *The Snap* [**Attack**] } | "The chain whips — spraying water and rust in a wide arc." | [A soaking chain-lash strikes across the target.] | *Inflicts Lament pressure and one rusted, stinging wound.* **[14-22 Lament DMG [Lament]]** | When the Chain is provoked. |
+| { *The Drowning Weight* [**Attack**] } | "The chain drags you down — waterlogged, rusted, and heavier than iron." | [The soaked chain constricts, dragging the target under.] | *A heavy Deep Blue crush; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Chain is commanded. |
+| { *The Rusted Coil* [**Ultimate**] } | "Every chain in the place rusts through and breaks — and the rust spreads like floodwater." | [The Chain disintegrates into a tide of corrosive sorrow-water.] | *All personnel suffer Lament pressure for three turns in the rust-flood.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a chain-link of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a chain-link of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Memory Chain (O-IIβ-467 [LS]) is logged as a Subject-Spirit manifestation expressing Lament (Deep Blue). The Chain formed from connections preserved through memory after physical bonds were lost. Held at Zone D, Echo Gardens. It is heard more often than seen.
+Memory Chain (O-IIβ-467 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Chain formed from connections preserved through memory after physical bonds were lost. Held at Zone D, Echo Gardens. It is heard more often than seen.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Travels through voices and memories in the Echo Gardens. Personnel become linked to memories that are not theirs. Its voice moves through connected memories.
@@ -348,7 +348,7 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 > *“Connections preserved through memory after physical bonds were lost.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-467 [LS]` · Lament (Deep Blue) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IIβ-467 [LS]` · Lament · Subject-Spirit manifestation
 **Common Name:** Memory Chain
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic

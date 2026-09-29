@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Mixed — A figure only half-present: a smear of cold smoke and grey ash vaguely shaped like a hooded torso, legless, its face two mouths pulling in opposite directions — one whispering, one burning. Where it passes, the air tastes of char and old apologies, and the smoke clings to the skin like a damp handprint. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Broken Word* [**Debuff**] } | "A whisper reaches you — but it is cut in half, and the missing half is the worst part." | [The Whisper delivers a fragmented message; the target hears half a secret.] | *Target suffers -10 Resilience; the incomplete sentence is maddening.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target hears the Whisper. |
-| { *The Repeating* [**Debuff**] } | "The torn fragment loops — the same half-sentence, over and over, wearing a groove in your mind." | [The Whisper repeats its broken phrase; the target cannot stop hearing it.] | *Target loses 10 Resilience; the incomplete word is consuming.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target fails to block it out. |
-| { *The Cutting Edge* [**Attack**] } | "The torn edge of the whisper is sharp — and it slices where it is heard." | [The fragmented whisper strikes as a sonic blade.] | *Inflicts Crimson pressure and one thin, ringing cut.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Whisper is interrupted. |
-| { *The Full Sentence* [**Attack**] } | "The missing half arrives — all at once — and the completed sentence is devastating." | [The Whisper completes itself; the full truth strikes.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Whisper is forced whole. |
-| { *A Thousand Half-Whispers* [**Ultimate**] } | "Every torn whisper in the place speaks at once — and none of them are complete." | [The Whisper multiplies into a chorus of fragments across the field.] | *All in range suffer Crimson pressure for three turns of incomplete words.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Broken Word* [**Debuff**] } | "A whisper reaches you — but it is cut in half, and the missing half is the worst part." | [The Whisper delivers a fragmented message; the target hears half a secret.] | *Target suffers -10 Resilience; the incomplete sentence is maddening.* **[10 Grudge DMG [Grudge]]** | When the target hears the Whisper. |
+| { *The Repeating* [**Debuff**] } | "The torn fragment loops — the same half-sentence, over and over, wearing a groove in your mind." | [The Whisper repeats its broken phrase; the target cannot stop hearing it.] | *Target loses 10 Resilience; the incomplete word is consuming.* **[10 Grudge DMG [Grudge]]** | When the target fails to block it out. |
+| { *The Cutting Edge* [**Attack**] } | "The torn edge of the whisper is sharp — and it slices where it is heard." | [The fragmented whisper strikes as a sonic blade.] | *Inflicts Grudge pressure and one thin, ringing cut.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is interrupted. |
+| { *The Full Sentence* [**Attack**] } | "The missing half arrives — all at once — and the completed sentence is devastating." | [The Whisper completes itself; the full truth strikes.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is forced whole. |
+| { *A Thousand Half-Whispers* [**Ultimate**] } | "Every torn whisper in the place speaks at once — and none of them are complete." | [The Whisper multiplies into a chorus of fragments across the field.] | *All in range suffer Grudge pressure for three turns of incomplete words.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Breach Type** | Transform |
 | **Movement** | Double Mouth expands beyond containment like a spreading tide. It drives personnel mad with half-heard secrets. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a voice-charm of crimson Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a voice-charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Double Mouth (C-IIβ-716 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge (Crimson). The Whisper formed from a memory split between truth and denial. Held at Zone D, Mantle Commons. One tone remembers; the other accuses.
+Double Mouth (C-IIβ-716 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge. The Whisper formed from a memory split between truth and denial. Held at Zone D, Mantle Commons. One tone remembers; the other accuses.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through voices and conversations in the Commons. Personnel remember arguments and events differently. It grows when witnesses are dismissed.
@@ -350,7 +350,7 @@ Those who hear the Whisper feel, briefly, the particular agony of knowing someth
 > *“Being right would not restore anyone. But the Whisper will not let us forget we were right.”* — Citizen, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-716 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `C-IIβ-716 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Spirit manifestation
 **Common Name:** Double Mouth
 **Containment Status:** Contained — Zone D, Mantle Commons
 **Comprehension Level:** 2 — Basic

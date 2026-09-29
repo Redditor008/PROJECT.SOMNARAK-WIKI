@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dream-figure rising out of a mirror's surface — its reflection arriving first, the body pulling up after, as though it climbs out of its own image. Lead-cold, it smells of wet stone; the mirror stays behind, empty. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Float* [**Debuff**] } | "The mirror lifts off the ground — and your reflection in it rises with it, looking down at you." | [The Mirror's ascent inverts the reflection; the target sees themselves from above.] | *Target suffers -10 Resolve; their perspective is wrong.* **[10 Black DMG [Black / Weight]]** | When the target sees the Mirror rise. |
-| { *The Inverted Self* [**Debuff**] } | "In the floating mirror, you are upside down — and the upside-down you looks more real than you." | [The Mirror's elevated position shows the target an alternative self.] | *Target loses 10 Resolve; they doubt which version is true.* **[10 Black DMG [Black / Weight]]** | When the target stares upward. |
-| { *The Falling Glass* [**Attack**] } | "A shard breaks free from the rising mirror — and falls with the full weight of reversed gravity." | [A mirror-shard drops with impossible mass.] | *Inflicts Black pressure and one heavy, reality-warping wound.* **[14-22 Black DMG [Black / Weight]]** | When the Mirror is struck. |
-| { *The Full Ascent* [**Attack**] } | "The mirror reaches the ceiling — and then keeps going, through it, pulling reality up after it." | [The Mirror's impossible ascent tears at the fabric of space.] | *A heavy Black rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Mirror is caught. |
-| { *The Inverted World* [**Ultimate**] } | "Every mirror in the field rises — and with them, every reflection — until up and down lose all meaning." | [The Mirror extends its ascent across the whole area.] | *All in range suffer Black pressure for three turns of inverted reality.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Float* [**Debuff**] } | "The mirror lifts off the ground — and your reflection in it rises with it, looking down at you." | [The Mirror's ascent inverts the reflection; the target sees themselves from above.] | *Target suffers -10 Resolve; their perspective is wrong.* **[10 Weight DMG [Weight]]** | When the target sees the Mirror rise. |
+| { *The Inverted Self* [**Debuff**] } | "In the floating mirror, you are upside down — and the upside-down you looks more real than you." | [The Mirror's elevated position shows the target an alternative self.] | *Target loses 10 Resolve; they doubt which version is true.* **[10 Weight DMG [Weight]]** | When the target stares upward. |
+| { *The Falling Glass* [**Attack**] } | "A shard breaks free from the rising mirror — and falls with the full weight of reversed gravity." | [A mirror-shard drops with impossible mass.] | *Inflicts Weight pressure and one heavy, reality-warping wound.* **[14-22 Weight DMG [Weight]]** | When the Mirror is struck. |
+| { *The Full Ascent* [**Attack**] } | "The mirror reaches the ceiling — and then keeps going, through it, pulling reality up after it." | [The Mirror's impossible ascent tears at the fabric of space.] | *A heavy Black rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Mirror is caught. |
+| { *The Inverted World* [**Ultimate**] } | "Every mirror in the field rises — and with them, every reflection — until up and down lose all meaning." | [The Mirror extends its ascent across the whole area.] | *All in range suffer Weight pressure for three turns of inverted reality.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -172,7 +172,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy hammer of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy hammer of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Mirror of Rising (C-Iα-392 [O]) is logged as a Subject-Dream manifestation expressing Weight (Black). The Mirror formed from a city forgetting its own name. Held at Zone C, Mask Market. Its reflection rises before its figure.
+Mirror of Rising (C-Iα-392 [O]) is logged as a Subject-Dream manifestation expressing Weight. The Mirror formed from a city forgetting its own name. Held at Zone C, Mask Market. Its reflection rises before its figure.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears through reflective surfaces in the Mask Market. Personnel forget the names of places and people. It is strongest around old Market records.
@@ -348,7 +348,7 @@ Some sorrows mourn a person. Mirror of Rising mourns a community — the distric
 > *“A name with no face, rising, looking for someone who recognizes it.”* — Elder, Mask Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-392 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `C-Iα-392 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Dream manifestation
 **Common Name:** Mirror of Rising
 **Containment Status:** Contained — Mask Market
 **Comprehension Level:** 2 — Basic

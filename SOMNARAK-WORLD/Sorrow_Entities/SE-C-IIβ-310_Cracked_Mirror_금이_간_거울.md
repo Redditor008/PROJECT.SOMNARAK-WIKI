@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats reflecting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — An ancient mirror cracked across its whole surface, its frame corroded, showing not a reflection but some truth the viewer did not ask to see. The glass is bloodless-cold and gives back no warmth; near it, the flat smell of ash, and a silence that judges. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Distorted Face* [**Debuff**] } | "Your reflection in the cracked glass is wrong — the features are shifted, older, angrier." | [The Mirror distorts the target's self-image through its fractures.] | *Target suffers a Void mark; they do not recognize themselves.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
-| { *The Fractured Self* [**Debuff**] } | "Each crack shows a different version of you — and none of them agree on who you are." | [The Mirror's cracks multiply the target's identity.] | *Target loses clarity; they cannot find the real self among the reflections.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares at the cracks. |
-| { *The Sharp Edge* [**Attack**] } | "A crack widens into a blade of glass — and it cuts where you are most divided." | [A fracture-blade extends from the Mirror.] | *Inflicts Void damage; the cut severs a fragment of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Shattering Point* [**Attack**] } | "The crack reaches the center — and the whole mirror threatens to come apart." | [The Mirror's structural failure sends a wave of fractured reflection.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mirror is pressured. |
-| { *Total Fracture* [**Ultimate**] } | "The mirror breaks completely — and every shard carries a different screaming face." | [The Mirror explodes, scattering fractured selves across the field.] | *All in range suffer Pale White erosion for three turns among the shards.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Distorted Face* [**Debuff**] } | "Your reflection in the cracked glass is wrong — the features are shifted, older, angrier." | [The Mirror distorts the target's self-image through its fractures.] | *Target suffers a Void mark; they do not recognize themselves.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
+| { *The Fractured Self* [**Debuff**] } | "Each crack shows a different version of you — and none of them agree on who you are." | [The Mirror's cracks multiply the target's identity.] | *Target loses clarity; they cannot find the real self among the reflections.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares at the cracks. |
+| { *The Sharp Edge* [**Attack**] } | "A crack widens into a blade of glass — and it cuts where you are most divided." | [A fracture-blade extends from the Mirror.] | *Inflicts Void damage; the cut severs a fragment of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
+| { *The Shattering Point* [**Attack**] } | "The crack reaches the center — and the whole mirror threatens to come apart." | [The Mirror's structural failure sends a wave of fractured reflection.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is pressured. |
+| { *Total Fracture* [**Ultimate**] } | "The mirror breaks completely — and every shard carries a different screaming face." | [The Mirror explodes, scattering fractured selves across the field.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|---|
 | 10 Seconds | Cracked Mirror rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Cracked Mirror activates its primary resonance: Shows the viewer's true self without social masks. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of people unable to face their own truth; the bearer begins perceiving echoes of mask market citizens sought mirrors that would flatter them; one mirror refused and cracked under the burden. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Cracked Mirror begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Cracked Mirror begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Cracked Mirror too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Identity crisis and emotional overload. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Cracked Mirror: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-C-01, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Cracked Mirror: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-C-01, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic breach
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
 
 **Damage:** Void 5-9
 **Speed:** 2 (Normal)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-pendant of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a lens-pendant of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cracked Mirror (C-IIβ-310 [D]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mirror formed from the sorrow of dishonesty. Held at SECTOR-C-01, Mask Market. Its cracks correspond to truths someone could not bear.
+Cracked Mirror (C-IIβ-310 [D]) is logged as a Object-Void manifestation expressing Void. The Mirror formed from the sorrow of dishonesty. Held at SECTOR-C-01, Mask Market. Its cracks correspond to truths someone could not bear.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 It becomes clearer near masks and disguises.
@@ -382,7 +382,7 @@ Some sorrows are about lies told to others. Cracked Mirror is about lies told to
 > *“The truth, in broken glass, sharper for the cracking.”* — Elder, Mask Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-310 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIβ-310 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** Cracked Mirror
 **Containment Status:** Contained — Mask Market
 **Comprehension Level:** 2 — Basic

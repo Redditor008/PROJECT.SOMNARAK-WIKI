@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dream Requiem |
 | Set | Woven Possibility |
-| Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Weapon / γ — Major / Lament |
 | Maximum amount | 3 — Standard |
 | Status | O-Relic channel and double-anchor issue |
 | Recognition rule | A released thread is marked with both Dream and waking anchors before the blade can draw. |

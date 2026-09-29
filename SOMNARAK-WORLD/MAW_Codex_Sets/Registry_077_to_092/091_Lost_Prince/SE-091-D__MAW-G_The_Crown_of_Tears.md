@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Crown of Tears |
 | Set | Unanswered Court |
-| Type / grade / element | Stigma, tear-drop charm / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, tear-drop charm / γ — Major / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; relationship observation use only |
 | Known bearer | Specialist Haneulash Yoon |

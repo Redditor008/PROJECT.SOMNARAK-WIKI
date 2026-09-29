@@ -23,7 +23,7 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place — Place-Lament |
 | Coherence / Potency | III — Fragment / γ — Major |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A massive living willow whose long branches carry pale crystal tear-leaves that shatter silently when they fall. |
 | Gauge / pressure | 45–65% / Lament 18–41 |

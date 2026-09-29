@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Melted Requiem |
 | Set | Present Mercy |
-| Type / grade / element | Weapon / δ — Critical / Lament — Deep Blue |
+| Type / grade / element | Weapon / δ — Critical / Lament |
 | Status | Restricted possible-future protocol |
 | Maximum amount | 2 — Limited |
 | Current bearer | Researcher Euncris Park |

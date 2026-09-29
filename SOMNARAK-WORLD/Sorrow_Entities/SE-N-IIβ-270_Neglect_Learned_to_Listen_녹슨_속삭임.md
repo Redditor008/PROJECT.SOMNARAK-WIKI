@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A rust-colored patch of the Old Lament where whispers cling to walls, pipes, and abandoned metal, the corrosion itself the residue of old words. Lead-cold, it smells of wet iron; no body — only the rusting sound. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Corroded Word* [**Debuff**] } | "The whisper is old — so old it has rusted — and the rust flakes off into your ears as it speaks." | [The Whisper's corrosion transfers to the target; their own thoughts oxidize.] | *Target suffers -10 Resolve; their mind is rusting.* **[10 Black DMG [Black / Weight]]** | When the target hears the Whisper. |
-| { *The Flaking Voice* [**Debuff**] } | "Each word loses another layer — and beneath the rust, the original meaning is sharp and furious." | [The Whisper's decay reveals its angry core.] | *Target loses 10 Resolve; the original intent is violent.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Rust-Cough* [**Attack**] } | "The whisper coughs — a spray of corroded words, sharp as filings." | [A burst of rust-word shrapnel.] | *Inflicts Black pressure and one wound of inhaled corrosion.* **[14-22 Black DMG [Black / Weight]]** | When the Whisper is disturbed. |
-| { *The Full Corrosion* [**Attack**] } | "Every rusted word, cleaned of decay at once — and the original fury beneath is staggering." | [The Whisper's complete de-rusting reveals its full ancient anger.] | *A heavy Black revelation; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Whisper is scraped clean. |
-| { *The Rusted Chorus* [**Ultimate**] } | "Every whisper in the field corrodes — and beneath all the rust, the same ancient fury." | [The Whisper extends its corrosion across the whole area.] | *All in range suffer Black pressure for three turns of rusting words.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Corroded Word* [**Debuff**] } | "The whisper is old — so old it has rusted — and the rust flakes off into your ears as it speaks." | [The Whisper's corrosion transfers to the target; their own thoughts oxidize.] | *Target suffers -10 Resolve; their mind is rusting.* **[10 Weight DMG [Weight]]** | When the target hears the Whisper. |
+| { *The Flaking Voice* [**Debuff**] } | "Each word loses another layer — and beneath the rust, the original meaning is sharp and furious." | [The Whisper's decay reveals its angry core.] | *Target loses 10 Resolve; the original intent is violent.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Rust-Cough* [**Attack**] } | "The whisper coughs — a spray of corroded words, sharp as filings." | [A burst of rust-word shrapnel.] | *Inflicts Weight pressure and one wound of inhaled corrosion.* **[14-22 Weight DMG [Weight]]** | When the Whisper is disturbed. |
+| { *The Full Corrosion* [**Attack**] } | "Every rusted word, cleaned of decay at once — and the original fury beneath is staggering." | [The Whisper's complete de-rusting reveals its full ancient anger.] | *A heavy Black revelation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Whisper is scraped clean. |
+| { *The Rusted Chorus* [**Ultimate**] } | "Every whisper in the field corrodes — and beneath all the rust, the same ancient fury." | [The Whisper extends its corrosion across the whole area.] | *All in range suffer Weight pressure for three turns of rusting words.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a tiny bell of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a tiny bell of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Neglect Learned to Listen (N-IIβ-270 [WP]) is logged as a Place-Grudge manifestation expressing Weight (Black). The Whisper formed from burdens discarded by the city. Held at Zone B, Old Lament. The place watches through corroded surfaces.
+Neglect Learned to Listen (N-IIβ-270 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Whisper formed from burdens discarded by the city. Held at Zone B, Old Lament. The place watches through corroded surfaces.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rust contains fragments of abandoned testimony.
@@ -360,7 +360,7 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 > *“The city throws away its burdens. The burdens, piled deeply enough, learn to listen.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-270 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-270 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Place-Grudge manifestation
 **Common Name:** Neglect Learned to Listen
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic

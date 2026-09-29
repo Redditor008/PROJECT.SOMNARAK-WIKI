@@ -21,7 +21,7 @@ The Fragment formed from a cry that ended while its sorrow continued. The persis
 | Source designation | O-Iα-453 [LS] |
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Lament (Deep Blue) / Zone C, Collector's Row |
+| Element / Location | Lament / Zone C, Collector's Row |
 | Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared. |
@@ -52,7 +52,7 @@ During the The Keen Source-Trace, the field team preserved this source fact: A m
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Keen's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Listen without attempting to identify or silence the cry The set cannot heal the originating event. Misuse routes Keen's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Keen's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Listen without attempting to identify or silence the cry The set cannot heal the originating event. Misuse routes Keen's wound through the operator and triggers the recorded escalation.
 
 ---
 

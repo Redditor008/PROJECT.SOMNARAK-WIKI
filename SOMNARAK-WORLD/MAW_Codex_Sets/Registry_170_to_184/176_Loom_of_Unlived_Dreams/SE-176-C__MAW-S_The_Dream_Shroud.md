@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dream Shroud |
 | Set | Woven Possibility |
-| Type / grade / element | Suit / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Suit / γ — Major / Lament |
 | Maximum amount | 3 — Standard |
 | Recognition rule | Two anchor knots at the collar must be held by separate waking and Dream witnesses. |
 

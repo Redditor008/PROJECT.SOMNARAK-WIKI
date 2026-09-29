@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Rusted Maul |
 | Set | Shared Support |
-| Type / grade / element | Weapon / α — Minor / Weight — Black |
+| Type / grade / element | Weapon / α — Minor / Weight |
 | Status | Active; repair-and-relief plan required |
 | Maximum amount | 5 — Standard |
 | Current bearer | Specialist Minho Ashford |

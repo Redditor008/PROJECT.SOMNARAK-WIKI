@@ -20,7 +20,7 @@ A fist-sized crimson crystal hangs near the Scar, torn open like a mouth and rad
 |---|---|
 | Type / Manifestation | Object/Place; I-Relic (Indumentum) / Object-Grudge |
 | Coherence / Potency | II / β |
-| Element | Grudge (Crimson) |
+| Element | Grudge |
 | Location | The Desolate, near the Scar |
 | Gauge / Pressure | 407/407; starts 35–50% / 9–21 Grudge |
 | Movement / Resistance | Fixed / 25% Grudge, 15% other |

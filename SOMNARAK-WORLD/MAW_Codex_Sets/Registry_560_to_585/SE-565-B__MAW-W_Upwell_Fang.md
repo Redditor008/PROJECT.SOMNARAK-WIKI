@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A fang-curved crimson Han-iron blade that weeps a thin film of Han when swung. Its inner curve reflects openings below the wielder even on solid ground. Extraction succeeded only after the team completed Ferrehan from the rim and refused every answering voice from the shaft.
+A fang-curved Grudge Han-iron blade that weeps a thin film of Han when swung. Its inner curve reflects openings below the wielder even on solid ground. Extraction succeeded only after the team completed Ferrehan from the rim and refused every answering voice from the shaft.
 
 Binding requires a confirmed rescue target and a surface route. Without both, the Fang causes old wounds to ache before leaving faint well-rim bruises around the user’s joints.
 

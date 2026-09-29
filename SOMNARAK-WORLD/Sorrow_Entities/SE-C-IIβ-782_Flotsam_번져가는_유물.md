@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — Less a body than a burning pressure, shaped like a relic carried just beneath the skin — visible only as a red outline flaring around objects fading from memory. Nothing solid to grasp; only heat and glow. Fever-hot, it smells of char and old smoke. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dimming* [**Debuff**] } | "The relic flickers — once bright, now failing — and the failing carries the anger of being forgotten." | [The Relic's power wanes; the fading itself radiates resentment.] | *Target suffers -10 Resilience; the dying relic infects them with obsolescence.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target holds the Relic. |
-| { *The Last Gasp* [**Debuff**] } | "It tries one more time to be what it was — and the effort nearly kills it, and the grief is enormous." | [The Relic's final efforts release despair at its own decline.] | *Target loses 10 Resilience; they feel the sorrow of a thing losing purpose.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target pushes the Relic. |
-| { *The Dying Flash* [**Attack**] } | "One last burst of old power — desperate, bright, and angry at going out." | [A final flare of the Relic's stored strength.] | *Inflicts Crimson pressure and one wound of dying light.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Relic is struck. |
-| { *The Full Extinguish* [**Attack**] } | "The relic goes dark — completely, finally — and the darkness it leaves is heavier than its light ever was." | [The Relic's death releases all its remaining power as grief.] | *A heavy Crimson extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Relic is destroyed. |
-| { *Everything Fades* [**Ultimate**] } | "Now every relic in the field dims — every source of old power — and the dark is total." | [The Relic spreads its fading across every source of meaning.] | *All in range suffer Crimson pressure for three turns of universal dimming.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dimming* [**Debuff**] } | "The relic flickers — once bright, now failing — and the failing carries the anger of being forgotten." | [The Relic's power wanes; the fading itself radiates resentment.] | *Target suffers -10 Resilience; the dying relic infects them with obsolescence.* **[10 Grudge DMG [Grudge]]** | When the target holds the Relic. |
+| { *The Last Gasp* [**Debuff**] } | "It tries one more time to be what it was — and the effort nearly kills it, and the grief is enormous." | [The Relic's final efforts release despair at its own decline.] | *Target loses 10 Resilience; they feel the sorrow of a thing losing purpose.* **[10 Grudge DMG [Grudge]]** | When the target pushes the Relic. |
+| { *The Dying Flash* [**Attack**] } | "One last burst of old power — desperate, bright, and angry at going out." | [A final flare of the Relic's stored strength.] | *Inflicts Grudge pressure and one wound of dying light.* **[14-22 Grudge DMG [Grudge]]** | When the Relic is struck. |
+| { *The Full Extinguish* [**Attack**] } | "The relic goes dark — completely, finally — and the darkness it leaves is heavier than its light ever was." | [The Relic's death releases all its remaining power as grief.] | *A heavy Crimson extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Relic is destroyed. |
+| { *Everything Fades* [**Ultimate**] } | "Now every relic in the field dims — every source of old power — and the dark is total." | [The Relic spreads its fading across every source of meaning.] | *All in range suffer Grudge pressure for three turns of universal dimming.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Breach Type** | Transform |
 | **Movement** | Flotsam expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -193,7 +193,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -211,7 +211,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** an ember-charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Flotsam (C-IIβ-782 [GS]) is logged as a Subject-Weight manifestation expressing Grudge (Crimson). The Relic formed from a treasured object becoming meaningless over time. Held at Zone B, Old Lament. It spreads from object to object through emotional association.
+Flotsam (C-IIβ-782 [GS]) is logged as a Subject-Weight manifestation expressing Grudge. The Relic formed from a treasured object becoming meaningless over time. Held at Zone B, Old Lament. It spreads from object to object through emotional association.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Spreads through old objects and household memories. Personnel feel objects becoming emotionally meaningless. It burns without damaging material.
@@ -350,7 +350,7 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 > *“The fading is slow. The fading is the sorrow.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-782` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIβ-782` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Weight manifestation
 **Common Name:** Flotsam
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

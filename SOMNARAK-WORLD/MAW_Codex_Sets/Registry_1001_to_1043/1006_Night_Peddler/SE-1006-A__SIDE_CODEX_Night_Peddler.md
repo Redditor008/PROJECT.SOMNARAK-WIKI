@@ -21,7 +21,7 @@ The Stall formed from the grief of merchants whose livelihoods vanished as the c
 | Source designation | C-IIα-062 [VO] |
 | Type / Manifestation | Object/Place — Can breach via Transform; appears and disappears / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats appearing overnight / Minor (α) — Low danger |
-| Element / Location | Void (Pale White) / Zone B, Forgotten Market — mobile manifestation |
+| Element / Location | Void / Zone B, Forgotten Market — mobile manifestation |
 | Gauge / Pressure | 184/184; starts 25–40% / 2–8 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost. |
@@ -52,7 +52,7 @@ During the The Night Peddler Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Night Peddler's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Night Peddler's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Night Peddler's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Night Peddler's wound through the operator and triggers the recorded escalation.
 
 ---
 

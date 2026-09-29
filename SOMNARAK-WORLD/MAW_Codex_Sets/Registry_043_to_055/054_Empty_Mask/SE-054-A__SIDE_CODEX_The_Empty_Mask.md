@@ -24,7 +24,7 @@
 | Type / Manifestation | Object/Place — Object-Weight |
 | Coherence | II — Echo |
 | Potency | β — Moderate |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | Blank dense-black mask with impossible interior depth |
 | Location | SECTOR-C-01, Masked Troupe |
 | Comprehension Level | 3 — Advanced |

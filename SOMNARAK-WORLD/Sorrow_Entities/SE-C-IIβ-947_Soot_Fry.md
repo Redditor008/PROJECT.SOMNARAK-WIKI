@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Hunts the way it always has, remembering nothing of why |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Non-Organic — A fish of featureless white Han-crystal fully 2.2 m in length, smooth and blank as poured wax, with one vast, deep-black eye that holds no reflection. Smaller than it looks: in the water it folds itself down to a 20 cm black silhouette, a dim shape slipping across the puddle's floor; only when prey reaches for it does the true body uncoil to its full size. |
 | **Movement** | Mobile within water — bound to its Han puddle (90 cm–1 m across); it cannot leave the water, but anything it pulls in cannot leave either. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Small Shadow* [**Debuff**] } | "A little dark shape, no bigger than a hand, drifts across the puddle's floor — easy, slow, almost inviting." | [The fish compresses to its 20 cm silhouette, drawing the eye and the reaching hand downward.] | *The target feels an urge to scoop the small thing up; resolve dips as curiosity outweighs caution.* **[10 Black DMG [Black / Weight]]** | When the target looks into the puddle. |
-| { *The Still Water* [**Debuff**] } | "The puddle goes glassy and black, and the silence of it presses on the chest like a held breath." | [The water stills to a dark mirror; the weight of the deep, though the puddle is shallow, settles on all nearby.] | *Resolve and breath tighten; the air above the puddle feels heavy as water.* **[10 Black DMG [Black / Weight]]** | When the target lingers at the edge. |
-| { *The Lunge* [**Attack**] } | "The shadow uncoils — and the puddle is suddenly full of a vast white body and one black eye, surging upward." | [The true 2.2 m form erupts from the small water, jaws open, seizing whatever entered.] | *A heavy bite and a dragging pull toward the deep; the target is hauled off their feet.* **[14-22 Black DMG [Black / Weight]]** | When a hand or line enters the water. |
-| { *The Undertow* [**Attack (heavy)**] } | "The puddle should be knee-deep. It is not. It is pulling you down into a dark that has no bottom." | [The water inverts — the puddle becomes a shaft — and drags the seized target under, body and resolve both.] | *Full submersion; the target's resolve and health both crush under a weight that should not fit in a metre of water.* **[24-36 Black DMG [Black / Weight]]** | When the target struggles against the pull. |
-| { *The Empty Belly* [**Ultimate**] } | "It swallows what it took — and the puddle goes still again, and small, and innocent, and the silhouette drifts back as if nothing happened." | [The fish consumes the target whole, then folds back to its 20 cm shape, the hunger no less for the feeding.] | *All in range feel the awful, bottomless appetite that drives it — a hunger that eating only deepens, for three turns.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| { *The Small Shadow* [**Debuff**] } | "A little dark shape, no bigger than a hand, drifts across the puddle's floor — easy, slow, almost inviting." | [The fish compresses to its 20 cm silhouette, drawing the eye and the reaching hand downward.] | *The target feels an urge to scoop the small thing up; resolve dips as curiosity outweighs caution.* **[10 Weight DMG [Weight]]** | When the target looks into the puddle. |
+| { *The Still Water* [**Debuff**] } | "The puddle goes glassy and black, and the silence of it presses on the chest like a held breath." | [The water stills to a dark mirror; the weight of the deep, though the puddle is shallow, settles on all nearby.] | *Resolve and breath tighten; the air above the puddle feels heavy as water.* **[10 Weight DMG [Weight]]** | When the target lingers at the edge. |
+| { *The Lunge* [**Attack**] } | "The shadow uncoils — and the puddle is suddenly full of a vast white body and one black eye, surging upward." | [The true 2.2 m form erupts from the small water, jaws open, seizing whatever entered.] | *A heavy bite and a dragging pull toward the deep; the target is hauled off their feet.* **[14-22 Weight DMG [Weight]]** | When a hand or line enters the water. |
+| { *The Undertow* [**Attack (heavy)**] } | "The puddle should be knee-deep. It is not. It is pulling you down into a dark that has no bottom." | [The water inverts — the puddle becomes a shaft — and drags the seized target under, body and resolve both.] | *Full submersion; the target's resolve and health both crush under a weight that should not fit in a metre of water.* **[24-36 Weight DMG [Weight]]** | When the target struggles against the pull. |
+| { *The Empty Belly* [**Ultimate**] } | "It swallows what it took — and the puddle goes still again, and small, and innocent, and the silhouette drifts back as if nothing happened." | [The fish consumes the target whole, then folds back to its 20 cm shape, the hunger no less for the feeding.] | *All in range feel the awful, bottomless appetite that drives it — a hunger that eating only deepens, for three turns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -120,7 +120,7 @@
 - **Manifestation:** Subject-Body
 - **Primary marker:** A 20 cm black fish-silhouette drifting in a small, unnaturally still pale puddle.
 - **Position / movement:** Drifts at the puddle's centre; erupts to 2.2 m only when prey enters the water.
-- **Element signature:** Weight (Black) — heavy, still air and a puddle that feels far deeper than it looks.
+- **Element signature:** Weight — heavy, still air and a puddle that feels far deeper than it looks.
 - **Registered location:** The Pale Puddle, SECTOR-B-09, Zone B
 
 ### Detailed Appearance Profile
@@ -129,7 +129,7 @@
 |---|---|
 | **Form** | 2.2 m featureless white Han-crystal fish; compresses to a 20 cm black silhouette at rest. |
 | **Position / movement** | Drifts vertically mid-puddle; explosive lunge to full size on contact, then re-folds. |
-| **Material / signature** | White Han-crystal, one depthless black eye; Weight (Black); unnaturally still pale water. |
+| **Material / signature** | White Han-crystal, one depthless black eye; Weight; unnaturally still pale water. |
 | **Distinctive markers** | The single black eye; the size-mismatch (huge fish, tiny puddle); the bottomless feel of a shallow pool. |
 | **Identification** | Distinguish from any ordinary puddle-creature by the stillness, the pale water, the lone black silhouette — and by the rule that its water has no floor during an activation. |
 
@@ -156,7 +156,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. The Soot Fry is recorded as a Subject with Subject-Body manifestation and Weight (Black) elemental expression. The current record places it at the Pale Puddle, SECTOR-B-09, Zone B; personnel should not transfer assumptions from any other water entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the heavy, drowning air and the slow, pulling urge to reach a hand into the small, still water.
+The gauge response is only meaningful in context. The Soot Fry is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at the Pale Puddle, SECTOR-B-09, Zone B; personnel should not transfer assumptions from any other water entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the heavy, drowning air and the slow, pulling urge to reach a hand into the small, still water.
 
 **Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has endured the weight of the bank without giving the fish a hand — and that, for this entity, is the rarest mercy. An increase means the work read as food, or as the name the fish can no longer reach. Any limb that enters the puddle must be logged at once; an entry is the single most dangerous moment in the fish's containment.
 
@@ -204,10 +204,10 @@ The gauge response is only meaningful in context. The Soot Fry is recorded as a 
 
 **Appearance:** A close vest of overlapping white Han-crystal scales, each bearing a faint black eye-mark; it is slick and cool, and beads with damp.
 **Resistances:**
-- Grudge (Crimson): 1.0 (Normal)
-- Lament (Deep Blue): 1.2 (Weak)
-- Weight (Black): 0.3 (Resistant)
-- Void (Pale White): 1.1 (Weak)
+- Grudge: 1.0 (Normal)
+- Lament: 1.2 (Weak)
+- Weight: 0.3 (Resistant)
+- Void: 1.1 (Weak)
 **Max Amount:** 3
 **Cost:** 20 Sorrow Echoes
 
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Soot Fry (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
+The Soot Fry (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight. The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was logged at 20 cm; a probe-line triggered a full lunge — the body measured 2.2 m, the puddle's measured depth during the lunge returned null on sonar (no floor). When Sentinel Harin spoke the word "fly" near the bank, the fish went motionless for three seconds and the eye oriented upward. Note: the word appears to resonate with a sealed memory. Do not repeat it casually.
@@ -364,7 +364,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-947 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-947 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Body manifestation
 **Common Name:** The Soot Fry (음어)
 **Containment Status:** Contained on-site — the Pale Puddle, SECTOR-B-09, Zone B
 **Comprehension Level:** 2 — Basic
@@ -396,7 +396,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 ### Registry Trivia
 
 - **Classification detail:** The Soot Fry is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Weight (Black), and its registered location is the Pale Puddle, SECTOR-B-09, Zone B.
+- **Field detail:** Its defining element is Weight, and its registered location is the Pale Puddle, SECTOR-B-09, Zone B.
 - **Recognition detail:** Personnel should identify it by the lone black silhouette drifting in a pale, unnaturally still puddle — and by the absolute rule that nothing living enters the water.
 - **Record detail:** Among Subject-Body entities, it is distinguished by a sealed-memory profile and an endless hunger with no discoverable source — and by the standing WARNING that it must never be reunited with SE-C-IIIγ-948 (see SE-C-Vδ-949).
 - **Containment detail:** Contained does not mean sated. The fish's hunger reaches past the puddle's edge through the heavy air; personnel on the bank report the urge to reach in. The warning signs are a kindness; the puddle, during an activation, is not a puddle.

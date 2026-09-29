@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Melting Reflection |
 | Set | Held Shape |
-| Type / grade / element | Stigma, pale mirror-tile / α — Minor / Void — Pale White |
+| Type / grade / element | Stigma, pale mirror-tile / α — Minor / Void |
 | Slot | Head |
 | Status | Bearer-bound; observation support item |
 | Known bearer | Specialist Sooah Park |

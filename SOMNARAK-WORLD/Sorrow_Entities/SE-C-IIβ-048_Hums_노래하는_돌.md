@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats singing |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A small, smooth, dark stone, warm to the touch — not crystal-cold but comfort-warm, river-worn and palm-sized. Under the right conditions it sings, a low mourning tone that seems to come from inside it. It is salt-damp and smells of cold rain on old cloth. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Note* [**Debuff**] } | "The stone begins to hum — low, old, felt more in the chest than the ears." | [The Stone resonates; the target vibrates in sympathy.] | *Target suffers -10 Composure; the note is inside them now.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Stone is struck or approached. |
-| { *The Resonance* [**Debuff**] } | "The hum finds your frequency — and now you cannot stop singing along." | [The Stone locks onto the target; the resonance deepens.] | *Target loses 10 Composure; they cannot quiet the inner sound.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stays within range. |
-| { *The Sharp Chord* [**Attack**] } | "The note sharpens to a point — and the point is aimed at you." | [A piercing chord lances out from the Stone.] | *Inflicts Deep Blue pressure and one ringing wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Stone is disturbed. |
-| { *The Deep Tone* [**Attack**] } | "The stone drops to a register lower than hearing — and the weight of it is crushing." | [A subsonic tone bears down on the target.] | *A heavy Deep Blue pressure; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Stone is overloaded. |
-| { *The Full Symphony* [**Ultimate**] } | "The stone sings every song it ever absorbed — a whole symphony of grief." | [The Stone releases its entire accumulated song.] | *All in range suffer Deep Blue pressure for three turns in the symphony.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Note* [**Debuff**] } | "The stone begins to hum — low, old, felt more in the chest than the ears." | [The Stone resonates; the target vibrates in sympathy.] | *Target suffers -10 Composure; the note is inside them now.* **[10 Lament DMG [Lament]]** | When the Stone is struck or approached. |
+| { *The Resonance* [**Debuff**] } | "The hum finds your frequency — and now you cannot stop singing along." | [The Stone locks onto the target; the resonance deepens.] | *Target loses 10 Composure; they cannot quiet the inner sound.* **[10 Lament DMG [Lament]]** | When the target stays within range. |
+| { *The Sharp Chord* [**Attack**] } | "The note sharpens to a point — and the point is aimed at you." | [A piercing chord lances out from the Stone.] | *Inflicts Lament pressure and one ringing wound.* **[14-22 Lament DMG [Lament]]** | When the Stone is disturbed. |
+| { *The Deep Tone* [**Attack**] } | "The stone drops to a register lower than hearing — and the weight of it is crushing." | [A subsonic tone bears down on the target.] | *A heavy Lament pressure; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Stone is overloaded. |
+| { *The Full Symphony* [**Ultimate**] } | "The stone sings every song it ever absorbed — a whole symphony of grief." | [The Stone releases its entire accumulated song.] | *All in range suffer Lament pressure for three turns in the symphony.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -194,7 +194,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Hums: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-D-02, Echo Gardens — contained/open display, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Hums: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens — contained/open display, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -218,7 +218,7 @@ The escalation pattern is specific to Hums: it is not a generic breach event. Pe
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -239,7 +239,7 @@ The escalation pattern is specific to Hums: it is not a generic breach event. Pe
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -257,7 +257,7 @@ The escalation pattern is specific to Hums: it is not a generic breach event. Pe
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a pebble of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a pebble of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -313,7 +313,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hums (C-IIβ-048 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Stone formed from songs of the dead that no living person continued. Held at SECTOR-D-02, Echo Gardens — contained/open display. The Stone's Han-signature resonates with the Weeping.
+Hums (C-IIβ-048 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Stone formed from songs of the dead that no living person continued. Held at SECTOR-D-02, Echo Gardens — contained/open display. The Stone's Han-signature resonates with the Weeping.
 
 **Entry 2 — <Excerpt from Field Log, Year 4225>**
 Plays a song personally connected to the listener. Songs function as records of lives absent from the Archive.
@@ -398,7 +398,7 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 > *“A warm stone, humming with every melody Somnarak has ever lost.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-048 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-048 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Object-Lament manifestation
 **Common Name:** Hums
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic

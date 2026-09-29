@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A place where a sigh should be heard but is not — the air burns with the pressure of exhaustion withheld, never released. Fever-hot, it smells of char; no body, only the held breath of a weary city. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Breath* [**Debuff**] } | "You try to sigh — and the sigh is gone before it leaves you. Something took it." | [The Sigh steals the target's exhalation; relief is impossible.] | *Target suffers -10 Resilience; they cannot release tension.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target sighs near it. |
-| { *The Held Chest* [**Debuff**] } | "Without the sigh, the pressure builds — and builds — and there is no release valve." | [The accumulated unexpressed grief presses outward.] | *Target loses 10 Resilience; the pressure is enormous.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target fails to exhale. |
-| { *The Stolen Exhale* [**Attack**] } | "It throws your own sigh back at you — compressed, weaponized, sharp." | [The stolen sigh is returned as a focused blast.] | *Inflicts Crimson pressure and one wound of returned breath.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Sigh is provoked. |
-| { *The Full Exhalation* [**Attack**] } | "Every sigh it ever stole — released at once, in one enormous, devastating breath." | [The Sigh unleashes its collected breaths.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Sigh is cornered. |
-| { *The Breathless Field* [**Ultimate**] } | "No one can sigh — and the pressure in everyone's chest becomes unbearable." | [The Sigh extends its theft across the whole field.] | *All in range suffer Crimson pressure for three turns of held breath.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Missing Breath* [**Debuff**] } | "You try to sigh — and the sigh is gone before it leaves you. Something took it." | [The Sigh steals the target's exhalation; relief is impossible.] | *Target suffers -10 Resilience; they cannot release tension.* **[10 Grudge DMG [Grudge]]** | When the target sighs near it. |
+| { *The Held Chest* [**Debuff**] } | "Without the sigh, the pressure builds — and builds — and there is no release valve." | [The accumulated unexpressed grief presses outward.] | *Target loses 10 Resilience; the pressure is enormous.* **[10 Grudge DMG [Grudge]]** | When the target fails to exhale. |
+| { *The Stolen Exhale* [**Attack**] } | "It throws your own sigh back at you — compressed, weaponized, sharp." | [The stolen sigh is returned as a focused blast.] | *Inflicts Grudge pressure and one wound of returned breath.* **[14-22 Grudge DMG [Grudge]]** | When the Sigh is provoked. |
+| { *The Full Exhalation* [**Attack**] } | "Every sigh it ever stole — released at once, in one enormous, devastating breath." | [The Sigh unleashes its collected breaths.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Sigh is cornered. |
+| { *The Breathless Field* [**Ultimate**] } | "No one can sigh — and the pressure in everyone's chest becomes unbearable." | [The Sigh extends its theft across the whole field.] | *All in range suffer Grudge pressure for three turns of held breath.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a breath-token of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a breath-token of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Pent (N-IVδ-821 [D]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Sigh formed from a breath erased before it could be released. Held at Zone B, Old Lament — ambient. It is strongest after long shifts.
+Pent (N-IVδ-821 [D]) is logged as a Place-Grudge manifestation expressing Grudge. The Sigh formed from a breath erased before it could be released. Held at Zone B, Old Lament — ambient. It is strongest after long shifts.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has no ordinary sound source.
@@ -360,7 +360,7 @@ Some sorrows are about exhaustion. Pent is about the denial of exhaustion — th
 > *“The city taught him that sighing was weakness. The teaching killed the sigh. The killing became a place.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-821 [D]` · Grudge (Crimson) · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-821 [D]` · Grudge · Place-Grudge manifestation
 **Common Name:** Pent
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic

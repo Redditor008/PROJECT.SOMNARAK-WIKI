@@ -14,7 +14,7 @@
 
 ## HISTORY & BINDING
 
-A pale Han-glass disc whose edge softens false architectural certainty. It forms from upward melt after accepted incompletion. Binding requires a plan, a present-site record, and explicit separation between them.
+A Void Han-glass disc whose edge softens false architectural certainty. It forms from upward melt after accepted incompletion. Binding requires a plan, a present-site record, and explicit separation between them.
 
 Durivel used it to dissolve a ceremonial facade built over Folly’s footprint. The source outline remained visible; he lost the memory of why one unrealized public square had felt personally hopeful.
 

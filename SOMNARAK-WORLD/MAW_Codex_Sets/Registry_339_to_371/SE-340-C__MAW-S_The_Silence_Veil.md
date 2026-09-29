@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A pale Han-gossamer veil carrying one visible vibration line. It condenses after a warning is heard and tested. Binding requires an external verifier and non-audio communication plan.
+A Void Han-gossamer veil carrying one visible vibration line. It condenses after a warning is heard and tested. Binding requires an external verifier and non-audio communication plan.
 
 Iseulfros wore it during a sealed-passage warning. The Veil kept anti-sound from erasing her identity, but she felt absent whenever the visible line stopped moving.
 

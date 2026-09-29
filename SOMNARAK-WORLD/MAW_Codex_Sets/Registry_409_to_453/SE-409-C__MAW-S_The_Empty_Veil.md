@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A pale Han-gossamer veil containing an empty vertical seam and one living body line.
+A Void Han-gossamer veil containing an empty vertical seam and one living body line.
 
 Iseulfros wore it during support-collapse exposure. The Veil preserved identity while the pillar vanished, though she felt absent from the care offered afterward.
 

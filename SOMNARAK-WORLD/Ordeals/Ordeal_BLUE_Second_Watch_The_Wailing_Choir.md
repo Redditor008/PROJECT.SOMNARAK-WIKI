@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 5–8 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 8–19 per hit · Lament (Deep Blue) |
+| **Han Pressure [ATK]** | 8–19 per hit · Lament |
 | **HP** | 162/162 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -62,7 +62,7 @@ Alert Level 2. Level 3+ team with audio-shielded M.A.W. recommended. Containment
 | **Han Pressure [ATK]** | 15–30 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[15–30 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[15–30 Lament DMG [Lament]]**
 
 ### The Dirge Engine (Machine, Greater-grade)
 
@@ -74,7 +74,7 @@ Alert Level 2. Level 3+ team with audio-shielded M.A.W. recommended. Containment
 | **Han Pressure [ATK]** | 20–35 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It emits a rhythmic acoustic thrum from exposed iron bellows, rattling chest cavities and forcing brine to seep from ocular ducts. **[20–35 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It emits a rhythmic acoustic thrum from exposed iron bellows, rattling chest cavities and forcing brine to seep from ocular ducts. **[20–35 Lament DMG [Lament]]**
 
 ### The Sorrow Fog (Non-Humanoid, Greater-grade)
 
@@ -86,7 +86,7 @@ Alert Level 2. Level 3+ team with audio-shielded M.A.W. recommended. Containment
 | **Han Pressure [ATK]** | 25–40 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[25–40 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[25–40 Lament DMG [Lament]]**
 
 
 ## Trivia

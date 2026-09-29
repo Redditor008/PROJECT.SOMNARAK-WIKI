@@ -18,11 +18,11 @@
 |---|---|
 | Official name | The Border Root |
 | Set | Shared Ground |
-| Type / grade / element | Weapon / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Weapon / δ — Critical / Grudge |
 | Status | Restricted boundary-defense issue |
 | Maximum amount | 2 — Limited |
 | Current bearer | Sentinel Harin |
-| Resting form | A root-gripped crimson Han-iron club with one living-looking root strand wrapped around the handle. |
+| Resting form | A root-gripped Grudge Han-iron club with one living-looking root strand wrapped around the handle. |
 | Active form | The strand enters the ground and raises a red root line along the selected boundary. |
 | Recognition rule | The club cannot root until both a hostile direction and a non-hostile passage are named. |
 

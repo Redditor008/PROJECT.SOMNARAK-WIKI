@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Willow Charm |
 | Set | Gentle Endings |
-| Type / grade / element | Stigma, tear-leaf charm / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, tear-leaf charm / γ — Major / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; closing ritual must be voluntary |
 | Known bearer | Specialist Sooah Park |

@@ -21,7 +21,7 @@ The Relic formed from a treasured object becoming meaningless over time. The gri
 | Source designation | C-IIβ-782 [GS] |
 | Type / Manifestation | Subject — Can breach / Subject-Weight |
 | Coherence / Potency | Echo (II) / Moderate (β) |
-| Element / Location | Grudge (Crimson) / Zone B, Old Lament |
+| Element / Location | Grudge / Zone B, Old Lament |
 | Gauge / Pressure | 462/462; starts 35–50% / 7–17 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A household relic passed through generations until no one remembered its purpose; its history began to burn away. |
@@ -52,7 +52,7 @@ During the The Flotsam Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Flotsam's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Name the owners and purpose; do not force preservation The set cannot heal the originating event. Misuse routes Flotsam's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Flotsam's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Name the owners and purpose; do not force preservation The set cannot heal the originating event. Misuse routes Flotsam's wound through the operator and triggers the recorded escalation.
 
 ---
 

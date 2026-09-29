@@ -23,7 +23,7 @@
 | Sorrow Category | Outside Sorrow |
 | Type / Manifestation | Subject — Subject-Grudge |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Location | Zone A, Alpha Tree |
 | Form | A burning, wall-less door frame of charred wood and live emotional fire; its handle opens onto a different memory each time. |
 | Gauge / pressure | 35–50% / Lament 8–20 |

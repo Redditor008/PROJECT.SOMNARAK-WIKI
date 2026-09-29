@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A corroded seed cracked into a bristling creature of rusted root-spines and orange creepers, rolling and crawling across the Desolate. Fever-cold, it smells of char and wet iron. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Oxidized Shell* [**Debuff**] } | "The seed is rusted shut — its potential locked behind a wall of corrosion — and the rust is spreading to your hands." | [The Seed's corrosion transfers to the target; their own potential feels locked.] | *Target suffers -10 Composure; they are being rusted closed.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target holds the Seed. |
-| { *The Corroded Core* [**Debuff**] } | "Inside the rust, the seed is still alive — barely — and its desperate, trapped growth presses outward." | [The Seed's imprisoned vitality radiates; the target feels trapped potential.] | *Target loses 10 Composure; the thing inside wants out.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Rust-Spike* [**Attack**] } | "A spine of corroded shell breaks free — sharp, oxidized, carrying trapped growth-energy." | [ A rust-spine launches.] | *Inflicts Deep Blue pressure and one wound of imprisoned potential.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Seed is squeezed. |
-| { *The Full Germination* [**Attack**] } | "The seed bursts through its rust — finally, violently — and the growth that was trapped for years explodes outward." | [The Seed's complete breakthrough releases its imprisoned life.] | *A heavy Deep Blue eruption of freed growth; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Seed is cracked. |
-| { *The Rusted Orchard* [**Ultimate**] } | "Every rusted seed in the field breaks free — and the combined explosion of trapped growth reshapes everything." | [The Seed extends its germination across the whole area.] | *All in range suffer Deep Blue pressure for three turns of rusting growth.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Oxidized Shell* [**Debuff**] } | "The seed is rusted shut — its potential locked behind a wall of corrosion — and the rust is spreading to your hands." | [The Seed's corrosion transfers to the target; their own potential feels locked.] | *Target suffers -10 Composure; they are being rusted closed.* **[10 Lament DMG [Lament]]** | When the target holds the Seed. |
+| { *The Corroded Core* [**Debuff**] } | "Inside the rust, the seed is still alive — barely — and its desperate, trapped growth presses outward." | [The Seed's imprisoned vitality radiates; the target feels trapped potential.] | *Target loses 10 Composure; the thing inside wants out.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Rust-Spike* [**Attack**] } | "A spine of corroded shell breaks free — sharp, oxidized, carrying trapped growth-energy." | [ A rust-spine launches.] | *Inflicts Lament pressure and one wound of imprisoned potential.* **[14-22 Lament DMG [Lament]]** | When the Seed is squeezed. |
+| { *The Full Germination* [**Attack**] } | "The seed bursts through its rust — finally, violently — and the growth that was trapped for years explodes outward." | [The Seed's complete breakthrough releases its imprisoned life.] | *A heavy Deep Blue eruption of freed growth; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Seed is cracked. |
+| { *The Rusted Orchard* [**Ultimate**] } | "Every rusted seed in the field breaks free — and the combined explosion of trapped growth reshapes everything." | [The Seed extends its germination across the whole area.] | *All in range suffer Lament pressure for three turns of rusting growth.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -248,7 +248,7 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -266,7 +266,7 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a core-stone of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a core-stone of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -319,7 +319,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Fallow (O-Iα-554 [LO]) is logged as a Object-Grudge manifestation expressing Lament (Deep Blue). The Seed formed from an Outside Sorrow that was planted and forgotten. Held at The Desolate — mobile. The Seed rolls with Han-wind and never follows a straight route.
+Fallow (O-Iα-554 [LO]) is logged as a Object-Grudge manifestation expressing Lament. The Seed formed from an Outside Sorrow that was planted and forgotten. Held at The Desolate — mobile. The Seed rolls with Han-wind and never follows a straight route.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It rusts metal but not living tissue.
@@ -403,7 +403,7 @@ Some sorrows mourn barren ground. Fallow mourns the planting — the seed placed
 > *“Expecting growth in a place that cannot support life. The corrosion of the unfulfilled.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-554 [LO]` · Lament (Deep Blue) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-554 [LO]` · Lament · Object-Grudge manifestation
 **Common Name:** Fallow
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dream-figure shaped from a single frozen breath — translucent, still, crimson cracks webbing its face and chest where the cold broke it. Fever-cold, it smells of char; a sigh held so long it turned to ice. |
 | **Movement** | Mobile — drifts or flows through the area. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Held Breath* [**Debuff**] } | "The sigh is frozen mid-exhale — crystallized, visible, permanent — and looking at it makes your own chest tighten." | [The Sigh's frozen state transmits arrested release; the target cannot exhale.] | *Target suffers -10 Resilience; their breath is caught.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target sees the frozen Sigh. |
-| { *The Ice-Lung* [**Debuff**] } | "The frozen sigh radiates cold — a cold that settles in your lungs and turns each breath to frost." | [The Sigh's permafrost spreads internally; the target's breathing crystallizes.] | *Target loses 10 Resilience; every breath is an effort.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target remains near. |
-| { *The Ice-Shard* [**Attack**] } | "A splinter of the frozen sigh breaks free — carrying the exact shape of an unspoken word." | [An ice-splinter strikes the target.] | *Inflicts Crimson pressure and one wound of frozen breath.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Sigh is struck. |
-| { *The Full Thaw* [**Attack**] } | "The frozen sigh melts — and the released exhale carries six years of held, frozen grief." | [The Sigh's sudden thaw releases its complete payload.] | *A heavy Crimson exhale; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Sigh is warmed. |
-| { *The Frozen Field* [**Ultimate**] } | "Every sigh in the field freezes — and the combined held breath of everyone creates a permafrost of unspoken grief." | [The Sigh extends its freezing across the whole area.] | *All in range suffer Crimson pressure for three turns of frozen breath.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Held Breath* [**Debuff**] } | "The sigh is frozen mid-exhale — crystallized, visible, permanent — and looking at it makes your own chest tighten." | [The Sigh's frozen state transmits arrested release; the target cannot exhale.] | *Target suffers -10 Resilience; their breath is caught.* **[10 Grudge DMG [Grudge]]** | When the target sees the frozen Sigh. |
+| { *The Ice-Lung* [**Debuff**] } | "The frozen sigh radiates cold — a cold that settles in your lungs and turns each breath to frost." | [The Sigh's permafrost spreads internally; the target's breathing crystallizes.] | *Target loses 10 Resilience; every breath is an effort.* **[10 Grudge DMG [Grudge]]** | When the target remains near. |
+| { *The Ice-Shard* [**Attack**] } | "A splinter of the frozen sigh breaks free — carrying the exact shape of an unspoken word." | [An ice-splinter strikes the target.] | *Inflicts Grudge pressure and one wound of frozen breath.* **[14-22 Grudge DMG [Grudge]]** | When the Sigh is struck. |
+| { *The Full Thaw* [**Attack**] } | "The frozen sigh melts — and the released exhale carries six years of held, frozen grief." | [The Sigh's sudden thaw releases its complete payload.] | *A heavy Crimson exhale; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Sigh is warmed. |
+| { *The Frozen Field* [**Ultimate**] } | "Every sigh in the field freezes — and the combined held breath of everyone creates a permafrost of unspoken grief." | [The Sigh extends its freezing across the whole area.] | *All in range suffer Grudge pressure for three turns of frozen breath.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Breach Type** | Escape |
 | **Movement** | Apnea tears loose and pursues personnel with deliberate steps. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
 | **Escalation** | Each turn free, Resilience drain +5 until suppressed. |
 
@@ -195,7 +195,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a gossamer breath-veil of crimson Han-cloth, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a gossamer breath-veil of Grudge Han-cloth, dark and faintly warm, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Apnea (N-IVδ-159 [O]) is logged as a Subject-Dream manifestation expressing Grudge (Crimson). The Sigh formed from exhaustion that was never allowed to escape. Held at Zone E, Border region. It is strongest at the border during long watches.
+Apnea (N-IVδ-159 [O]) is logged as a Subject-Dream manifestation expressing Grudge. The Sigh formed from exhaustion that was never allowed to escape. Held at Zone E, Border region. It is strongest at the border during long watches.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in dreams of border personnel. Personnel feel frozen rage and cannot complete a breath. It manifests through dreams rather than physical cold.
@@ -348,7 +348,7 @@ Some sorrows are about death. Apnea is about the denial of death — the duty th
 > *“A breath held past death, frozen, carrying the weight of continuation compelled past capacity.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-159 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-159 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Dream manifestation
 **Common Name:** Apnea
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic

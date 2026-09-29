@@ -34,7 +34,7 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 | Entity Type | **Object / Place** — A junction that became an entity; can breach via Transform, only widen |
 | Coherence | Entity (IV) |
 | Potency | Critical (δ) |
-| Element | Void (Pale White) |
+| Element | Void |
 | Manifestation | Place-Void |
 | Location | A four-way junction in the Mantle Commons, Zone D |
 | R.D. Comprehension Level | 3 — Elevated |

@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning figure that whispers without pause while its edges fade to nothing — half-fire, half-absence, clearer the less you recall it. Fever-cold, it smells of char and ash; its voice weakens whenever someone remembers it, as memory starves it. |
 | **Movement** | Stationary — a discrete object. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Last Syllable* [**Debuff**] } | "A whisper reaches you — but only the final syllable — and the fragment is worse than the whole would have been." | [The Whisper's fading leaves only fragments; the incomplete meaning gnaws.] | *Target suffers a Void mark; the unfinished word haunts them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target hears the Whisper. |
-| { *The Silence After* [**Debuff**] } | "The whisper fades entirely — and the silence it leaves is heavier than the words ever were." | [The Whisper's complete dissolution creates a void of unsaid things.] | *Target loses clarity; the silence is deafening.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target waits for more. |
-| { *The Sharp Fragment* [**Attack**] } | "A shard of the fading whisper, hardened by its own disappearance, flies free." | [ A crystallized word-fragment launches.] | *Inflicts Void damage; the fading word erases a recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Whisper is disturbed. |
-| { *The Full Silence* [**Attack**] } | "Every whisper the entity ever held — faded, all at once — a void of everything unsaid." | [The Whisper's total fade releases a wave of absolute quiet.] | *A heavy Void of unspoken words; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Whisper is silenced. |
-| { *The Silent Field* [**Ultimate**] } | "Every whisper in the field fades — and the combined silence is a weapon of its own." | [The Whisper extends its fading across the whole area.] | *All in range suffer Pale White erosion for three turns of total silence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Last Syllable* [**Debuff**] } | "A whisper reaches you — but only the final syllable — and the fragment is worse than the whole would have been." | [The Whisper's fading leaves only fragments; the incomplete meaning gnaws.] | *Target suffers a Void mark; the unfinished word haunts them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target hears the Whisper. |
+| { *The Silence After* [**Debuff**] } | "The whisper fades entirely — and the silence it leaves is heavier than the words ever were." | [The Whisper's complete dissolution creates a void of unsaid things.] | *Target loses clarity; the silence is deafening.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for more. |
+| { *The Sharp Fragment* [**Attack**] } | "A shard of the fading whisper, hardened by its own disappearance, flies free." | [ A crystallized word-fragment launches.] | *Inflicts Void damage; the fading word erases a recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Whisper is disturbed. |
+| { *The Full Silence* [**Attack**] } | "Every whisper the entity ever held — faded, all at once — a void of everything unsaid." | [The Whisper's total fade releases a wave of absolute quiet.] | *A heavy Void of unspoken words; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Whisper is silenced. |
+| { *The Silent Field* [**Ultimate**] } | "Every whisper in the field fades — and the combined silence is a weapon of its own." | [The Whisper extends its fading across the whole area.] | *All in range suffer Void erosion for three turns of total silence.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -190,7 +190,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -208,7 +208,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a key-charm of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a key-charm of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Fading Whisper (N-IIIγ-407 [N]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Whisper formed from a place erased from one person's memory. Held at Zone A, Alpha Tree. The figure fades after every completed sentence.
+Fading Whisper (N-IIIγ-407 [N]) is logged as a Subject-Grudge manifestation expressing Void. The Whisper formed from a place erased from one person's memory. Held at Zone A, Alpha Tree. The figure fades after every completed sentence.
 
 **Entry 2 — <Excerpt from Field Log, Year 4233>**
 Moves through Alpha Tree corridors and memory spaces. Personnel feel longing for places they cannot identify. It becomes stronger when someone denies the missing place.
@@ -344,7 +344,7 @@ Some sorrows are about losing memory. Fading Whisper is about the place the memo
 > *“A place that exists in the world but not in the mind, lingering, fading.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-407 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-407 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Subject-Grudge manifestation
 **Common Name:** Fading Whisper
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic

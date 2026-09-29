@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron fang with frozen light beneath its edge. Extraction required a complete direct-gaze cycle followed by deliberate nonviolence. Binding accepts a wielder who names anger, owner, and confirmed target separately.
+A Grudge Han-iron fang with frozen light beneath its edge. Extraction required a complete direct-gaze cycle followed by deliberate nonviolence. Binding accepts a wielder who names anger, owner, and confirmed target separately.
 
 ## Appearance
 

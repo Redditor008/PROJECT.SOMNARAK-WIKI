@@ -22,7 +22,7 @@
 | Entity | Memory Rain — 기억의 비 |
 | Type / Manifestation | Object/Place — Place-Lament |
 | Coherence / Potency | II — Echo / β — Moderate |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | Slow glassy tear-drops containing faces, hair, skin, visible voices, places, and feelings that dissolve into memory on contact. |
 | Gauge / Pressure | 35–50% / Lament 10–23 |
 | Observation | 2 — Basic |

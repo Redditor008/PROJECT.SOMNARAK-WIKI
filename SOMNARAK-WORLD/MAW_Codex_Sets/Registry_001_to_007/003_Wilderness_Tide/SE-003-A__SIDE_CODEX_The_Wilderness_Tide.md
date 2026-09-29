@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Object/Place — Place-Weight |
 | **Coherence** | V — Sovereign |
 | **Potency** | γ — Major |
-| **Element** | Weight — Black |
+| **Element** | Weight |
 | **Form** | Raw wilderness Han surge, 3–15 meters in observed height |
 | **Location** | Zone E border / outer Desolate |
 | **Comprehension Level** | 5 — constant border monitoring |

@@ -21,7 +21,7 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 | Source designation | N-IVδ-852 [N] |
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Grudge (Crimson) / Zone C, Mask Market |
+| Element / Location | Grudge / Zone C, Mask Market |
 | Gauge / Pressure | 873/873; starts 60–80% / 30–65 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized. |
@@ -52,7 +52,7 @@ During the The Conservatory Source-Trace, the field team preserved this source f
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Conservatory's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Conservatory's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Conservatory's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Conservatory's wound through the operator and triggers the recorded escalation.
 
 ---
 

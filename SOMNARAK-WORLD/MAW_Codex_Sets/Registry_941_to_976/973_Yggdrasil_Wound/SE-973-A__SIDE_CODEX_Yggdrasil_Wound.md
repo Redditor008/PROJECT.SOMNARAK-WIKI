@@ -21,7 +21,7 @@ The Tree formed from a mind divided by loss. The grief of a person whose identit
 | Source designation | O-Iα-973 [VS] |
 | Type / Manifestation | Subject — Can breach / Subject-Mind |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Void (Pale White) / Zone B, deep tunnels |
+| Element / Location | Void / Zone B, deep tunnels |
 | Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence. |
@@ -52,7 +52,7 @@ During the The Yggdrasil Wound Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Yggdrasil Wound's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Ground the worker and permit both memories to remain The set cannot heal the originating event. Misuse routes Yggdrasil Wound's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Yggdrasil Wound's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: Ground the worker and permit both memories to remain The set cannot heal the originating event. Misuse routes Yggdrasil Wound's wound through the operator and triggers the recorded escalation.
 
 ---
 

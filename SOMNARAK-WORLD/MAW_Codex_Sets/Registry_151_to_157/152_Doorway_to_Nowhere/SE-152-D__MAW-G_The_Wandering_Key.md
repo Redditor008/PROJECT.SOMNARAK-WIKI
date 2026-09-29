@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Wandering Key |
 | Set | Carried Threshold |
-| Type / grade / element | Stigma, blue key-charm / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue key-charm / β — Moderate / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; paired passage use |
 | Known bearer | Specialist Sooah Park |

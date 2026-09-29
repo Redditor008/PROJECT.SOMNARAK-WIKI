@@ -12,7 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
-A pale Han-glass Head seed with no viable core. Bestowal follows honest distinction between memory and plan. Chance: 5%.
+A Void Han-glass Head seed with no viable core. Bestowal follows honest distinction between memory and plan. Chance: 5%.
 
 ## Appearance
 

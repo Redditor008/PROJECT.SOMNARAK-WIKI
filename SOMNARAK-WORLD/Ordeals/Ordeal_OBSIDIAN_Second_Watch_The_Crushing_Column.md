@@ -1,4 +1,4 @@
-# BLACK Second Watch — The Crushing Column
+# OBSIDIAN Second Watch — The Crushing Column
 
 > *""It walked like a pillar that had learned to hate the floor.""*
 
@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| **Color** | BLACK |
+| **Color** | OBSIDIAN |
 | **Time** | Second Watch |
 | **Threat Level** | Moderate |
 | **Han Source** | Weight |
@@ -14,7 +14,7 @@
 | **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
 | **Spawn Count** | 5–8 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Han Pressure [ATK]** | 8–19 per hit · Weight (Black) |
+| **Han Pressure [ATK]** | 8–19 per hit · Weight |
 | **HP** | 155/155 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -50,7 +50,7 @@ Alert Level 2. Level 3+ team. Structural repair crew on standby. Wide corridors 
 
 ## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary BLACK Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary OBSIDIAN Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Greater-grade)
 
@@ -62,7 +62,7 @@ Alert Level 2. Level 3+ team. Structural repair crew on standby. Wide corridors 
 | **Han Pressure [ATK]** | 15–30 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[15–30 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[15–30 Weight DMG [Weight]]**
 
 ### The Clockwork Press (Machine, Greater-grade)
 
@@ -74,7 +74,7 @@ Alert Level 2. Level 3+ team. Structural repair crew on standby. Wide corridors 
 | **Han Pressure [ATK]** | 20–35 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[20–35 Black DMG [Black / Weight]]**
+**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[20–35 Weight DMG [Weight]]**
 
 ### The Living Avalanche (Non-Humanoid, Greater-grade)
 
@@ -86,7 +86,7 @@ Alert Level 2. Level 3+ team. Structural repair crew on standby. Wide corridors 
 | **Han Pressure [ATK]** | 25–40 per hit · Weight |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[25–40 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[25–40 Weight DMG [Weight]]**
 
 
 ## Trivia
@@ -98,7 +98,7 @@ Alert Level 2. Level 3+ team. Structural repair crew on standby. Wide corridors 
 
 ## Document Information
 
-**Document ID:** `ORDEAL-BLACK-Second-Watch`
+**Document ID:** `ORDEAL-OBSIDIAN-Second-Watch`
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 

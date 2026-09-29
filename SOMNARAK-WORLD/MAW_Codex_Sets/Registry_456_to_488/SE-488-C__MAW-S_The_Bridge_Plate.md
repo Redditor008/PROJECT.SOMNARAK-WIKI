@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A crimson Han-iron harness with two separate shoulder anchors. Binding requires separate consent checks.
+A Grudge Han-iron harness with two separate shoulder anchors. Binding requires separate consent checks.
 
 Iseulfros wore it during I-Relic activation. The Plate resisted Grudge but dulled reflexes whenever she tried to complete the other person’s side.
 

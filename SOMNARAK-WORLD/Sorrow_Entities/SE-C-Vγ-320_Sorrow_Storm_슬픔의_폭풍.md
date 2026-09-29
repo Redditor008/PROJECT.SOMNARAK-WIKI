@@ -11,7 +11,7 @@
 | **Coherence** | Sovereign (V) — Autonomous and destructive |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A city-wide storm of concentrated Han — black clouds that are not weather, a rain of dark crystal, a pressure that bends walls out of true. Lead-heavy, it smells of wet stone; there is no body, only the storm, and the slow structural groan beneath it. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gathering Clouds* [**Debuff**] } | "The pressure drops — and you feel every sorrow in the city pressing down with it." | [The Storm gathers overhead; the air thickens with weight.] | *Target suffers -10 Resolve under the falling pressure.* **[10 Black DMG [Black / Weight]]** | When the Storm forms. |
-| { *The First Gust* [**Debuff**] } | "The wind comes — and it carries old grief like grit." | [A gust of sorrow-laden wind buffets the target.] | *Target loses 10 Resolve; the wind will not let them stand straight.* **[10 Black DMG [Black / Weight]]** | When the target stands in the open. |
-| { *The Hail* [**Attack**] } | "The hail falls — each stone a condensed, heavy sorrow." | [Weighted hail hammers down across the area.] | *Inflicts Black pressure and one bruising wound.* **[14-22 Black DMG [Black / Weight]]** | When the Storm is roused. |
-| { *The Eye* [**Attack**] } | "The eye passes over you — and in the stillness, the full weight of the storm is revealed." | [The Storm's core descends on the target with crushing force.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Storm is confronted. |
-| { *The Full Tempest* [**Ultimate**] } | "The whole storm breaks at once — there is no shelter from it." | [The Storm unleashes its full fury across the entire field.] | *All personnel suffer Black pressure for three turns in the gale.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Gathering Clouds* [**Debuff**] } | "The pressure drops — and you feel every sorrow in the city pressing down with it." | [The Storm gathers overhead; the air thickens with weight.] | *Target suffers -10 Resolve under the falling pressure.* **[10 Weight DMG [Weight]]** | When the Storm forms. |
+| { *The First Gust* [**Debuff**] } | "The wind comes — and it carries old grief like grit." | [A gust of sorrow-laden wind buffets the target.] | *Target loses 10 Resolve; the wind will not let them stand straight.* **[10 Weight DMG [Weight]]** | When the target stands in the open. |
+| { *The Hail* [**Attack**] } | "The hail falls — each stone a condensed, heavy sorrow." | [Weighted hail hammers down across the area.] | *Inflicts Weight pressure and one bruising wound.* **[14-22 Weight DMG [Weight]]** | When the Storm is roused. |
+| { *The Eye* [**Attack**] } | "The eye passes over you — and in the stillness, the full weight of the storm is revealed." | [The Storm's core descends on the target with crushing force.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Storm is confronted. |
+| { *The Full Tempest* [**Ultimate**] } | "The whole storm breaks at once — there is no shelter from it." | [The Storm unleashes its full fury across the entire field.] | *All personnel suffer Weight pressure for three turns in the gale.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -191,7 +191,7 @@ The escalation pattern is specific to Sorrow Storm: it is not a generic breach e
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -207,7 +207,7 @@ The escalation pattern is specific to Sorrow Storm: it is not a generic breach e
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a shield-backed harness of black Han-steel, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a shield-backed harness of Weight Han-steel, matte and unnaturally heavy, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -225,7 +225,7 @@ The escalation pattern is specific to Sorrow Storm: it is not a generic breach e
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sorrow Storm (C-Vγ-320 [D]) is logged as a Place-Weight manifestation expressing Weight (Black). The Storm formed from sorrow accumulating beyond the city's ability to release it. Held at All zones — periodic phenomenon. The Storm follows major city-wide grief events.
+Sorrow Storm (C-Vγ-320 [D]) is logged as a Place-Weight manifestation expressing Weight. The Storm formed from sorrow accumulating beyond the city's ability to release it. Held at All zones — periodic phenomenon. The Storm follows major city-wide grief events.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It can cross the Veil temporarily.
@@ -364,7 +364,7 @@ Some sorrows are gradual. Sorrow Storm is sudden — the accumulated suppressed 
 > *“The catastrophic release of what the Veil kept down.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-320 [D]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-320 [D]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
 **Common Name:** Sorrow Storm
 **Containment Status:** Uncontained — citywide (periodic catastrophe)
 **Comprehension Level:** 5 — Sovereign

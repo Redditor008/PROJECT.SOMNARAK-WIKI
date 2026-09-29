@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Broken Reflection |
 | Set | Whole Fragments |
-| Type / grade / element | Stigma, mirror-tile / γ — Major / Weight — Black |
+| Type / grade / element | Stigma, mirror-tile / γ — Major / Weight |
 | Slot | Head |
 | Status | Bearer-bound; identity-debrief issue |
 | Known bearer | Specialist Haneulash Yoon |

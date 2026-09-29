@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Charm |
 | Set | Known Balance |
-| Type / grade / element | Stigma, black ledger-charm / β — Moderate / Weight — Black |
+| Type / grade / element | Stigma, black ledger-charm / β — Moderate / Weight |
 | Slot | Head |
 | Status | Bearer-bound; external-review use only |
 | Known bearer | Specialist Sooah Park |

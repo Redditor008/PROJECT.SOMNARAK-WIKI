@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A jagged crimson Han-iron blade with a wet sheen of Han along its edge. It makes no audible sound, but an active swing shapes the wielder’s anger into a visible pressure wake. The Shard was extracted only after Dismissed Cry’s pulse sequence was transcribed without editorial reduction.
+A jagged Grudge Han-iron blade with a wet sheen of Han along its edge. It makes no audible sound, but an active swing shapes the wielder’s anger into a visible pressure wake. The Shard was extracted only after Dismissed Cry’s pulse sequence was transcribed without editorial reduction.
 
 Binding requires the user to state who must receive the protest and what obstruction, not person, will be struck. Rejection externalizes the user’s anger as a voice behind them until they turn and attack it.
 

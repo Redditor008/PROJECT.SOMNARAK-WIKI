@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Subject — Subject-Body |
 | **Coherence** | III — Fragment |
 | **Potency** | γ — Major |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Form** | Eagle-sized bird with 144 unblinking eyes |
 | **Location** | SECTOR-B-01, Three Birds containment |
 | **Comprehension Level** | 3 — Understood |

@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | N-IIIγ-929 [WH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Spirit |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Weight (Black) / SECTOR-N-929, contained |
+| Element / Location | Weight / SECTOR-N-929, contained |
 | Gauge / Pressure | 458/458; starts 35–50% / 17–29 per hit · Weight |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Dead Air Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Dead Air's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dead Air's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dead Air's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dead Air's wound through the operator and triggers the recorded escalation.
 
 ---
 

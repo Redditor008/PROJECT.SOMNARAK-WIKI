@@ -12,7 +12,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A cracked window of red-black crystal in a tunnel wall, its broken pane reflecting hands rather than faces — reaching hands pressed from the other side. Fever-cold, it smells of char; something on the far side wants through. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Broken View* [**Debuff**] } | "Through the torn window, you see something that is not there — and it sees you back." | [The Window's tear shows the target an impossible view; their perception warps.] | *Target suffers -10 Resilience; they cannot trust their eyes.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target looks through the Window. |
-| { *The Draft* [**Debuff**] } | "Cold air, and old anger, blow through the tear." | [The torn gap channels resentment; the target is buffeted by carried rage.] | *Target loses 10 Resilience; the anger in the draft is palpable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers near the gap. |
-| { *The Glass Tooth* [**Attack**] } | "A shard of the torn window juts out — and the window bites." | [A jagged fragment of broken window slashes.] | *Inflicts Crimson pressure and one sharp, cutting wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Window is touched. |
-| { *The Full Smash* [**Attack**] } | "The rest of the window gives way — and every shard is aimed inward." | [The Window explodes inward, shards flying.] | *A heavy Crimson volley; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Window is struck. |
-| { *Every Window Breaks* [**Ultimate**] } | "The tear spreads to every window in the building — and through every one, something watches." | [The Window's tear propagates across every opening.] | *All in range suffer Crimson pressure for three turns through the broken windows.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Broken View* [**Debuff**] } | "Through the torn window, you see something that is not there — and it sees you back." | [The Window's tear shows the target an impossible view; their perception warps.] | *Target suffers -10 Resilience; they cannot trust their eyes.* **[10 Grudge DMG [Grudge]]** | When the target looks through the Window. |
+| { *The Draft* [**Debuff**] } | "Cold air, and old anger, blow through the tear." | [The torn gap channels resentment; the target is buffeted by carried rage.] | *Target loses 10 Resilience; the anger in the draft is palpable.* **[10 Grudge DMG [Grudge]]** | When the target lingers near the gap. |
+| { *The Glass Tooth* [**Attack**] } | "A shard of the torn window juts out — and the window bites." | [A jagged fragment of broken window slashes.] | *Inflicts Grudge pressure and one sharp, cutting wound.* **[14-22 Grudge DMG [Grudge]]** | When the Window is touched. |
+| { *The Full Smash* [**Attack**] } | "The rest of the window gives way — and every shard is aimed inward." | [The Window explodes inward, shards flying.] | *A heavy Crimson volley; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Window is struck. |
+| { *Every Window Breaks* [**Ultimate**] } | "The tear spreads to every window in the building — and through every one, something watches." | [The Window's tear propagates across every opening.] | *All in range suffer Grudge pressure for three turns through the broken windows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 |---|---|---|
 | 10 Seconds | Torn Window rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Torn Window activates its primary resonance: Shows one former occupant's memory of the window. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of seeing the same place through too many losses; the bearer begins perceiving echoes of a tunnel window was touched by generations of workers until each person's departure remained in the glass. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Torn Window begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Torn Window begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Torn Window too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may mistake a borrowed room for personal history. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Torn Window: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Torn Window: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -228,7 +228,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -246,7 +246,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a shard-tile of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a shard-tile of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Torn Window (N-Iα-686 [N]) is logged as a Object-Lament manifestation expressing Grudge (Crimson). The Window formed from a view destroyed by repeated hands and memories. Held at Zone B, deep tunnels. It reflects hands rather than faces.
+Torn Window (N-Iα-686 [N]) is logged as a Object-Lament manifestation expressing Grudge. The Window formed from a view destroyed by repeated hands and memories. Held at Zone B, deep tunnels. It reflects hands rather than faces.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The cracks never close.
@@ -382,7 +382,7 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 > *“The view destroyed by too many losses. The glass holds departures, not the city.”* — Elder, Tunnels
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-686 [N]` · Grudge (Crimson) · Object-Lament manifestation
+**Classification:** Sorrow Entity — `N-Iα-686 [N]` · Grudge · Object-Lament manifestation
 **Common Name:** Torn Window
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial

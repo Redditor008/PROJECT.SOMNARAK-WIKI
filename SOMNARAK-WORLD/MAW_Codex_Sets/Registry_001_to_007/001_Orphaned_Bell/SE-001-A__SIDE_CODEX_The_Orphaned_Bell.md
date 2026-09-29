@@ -24,7 +24,7 @@
 | **Type / Manifestation** | Object/Place — Object-Lament |
 | **Coherence** | IV — Entity |
 | **Potency** | δ — Critical |
-| **Element** | Lament — Deep Blue |
+| **Element** | Lament |
 | **Form** | Three-meter Han-crystal bell fixed in its tower |
 | **Location** | SECTOR-B-01, Zone B |
 | **Comprehension Level** | 4 — Mastered |

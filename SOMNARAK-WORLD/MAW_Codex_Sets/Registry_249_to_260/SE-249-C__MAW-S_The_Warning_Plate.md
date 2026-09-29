@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A crimson Han-iron harness whose plates flicker between sleeping body and red-static silhouette. It forms after a dream fragment is captured without reconstruction.
+A Grudge Han-iron harness whose plates flicker between sleeping body and red-static silhouette. It forms after a dream fragment is captured without reconstruction.
 
 Binding requires an external waking recorder. Iseulfros wore it during a mobile Desolate sleep-watch; the Plate kept her body intact while the dream floor collapsed, but dulled her reflexes so severely that her recorder—not she—initiated the evacuation.
 

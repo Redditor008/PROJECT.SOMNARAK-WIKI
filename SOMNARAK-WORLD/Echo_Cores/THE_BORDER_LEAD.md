@@ -52,7 +52,7 @@ Mellda leads through direct reports and measured responses. She tracks Han-storm
 | **Station** | **E — The Threshold** |
 | **Effigy** | **Cyborg (Desolate-altered; Effloresced entity inside)** |
 | **Sorrow** | **Outside Sorrow (외한)** |
-| **Signature** | **Weight (Black) + Grudge (Crimson)** |
+| **Signature** | **Weight + Grudge** |
 | **Manifestation** | **Subject-Phantasmal — the entity bond produces controlled phase-shifts** |
 | **Role** | The Border Lead; commander of Floor 5 and first line of defense against the wilderness, Desolate incursions, and Outside Sorrow |
 | **Gender** | **Woman** |
@@ -653,7 +653,7 @@ The sources do not quantify lifting strength, running speed, armor rating, or re
 
 **Threshold Vow** is the specialized weapons system built into Mellda's designated left Cyborg forearm. In ordinary use it remains a fully articulated hand and reinforced limb. When activated, the hand retracts and the forearm reconfigures into a one-meter Han-infused Sacred Blade.
 
-The blade carries both elements of her signature. Its direct strike deals **6–16 Weight (Black)** damage. A successful hit also applies **2 Grudge (Crimson) Tick damage per second for 10 seconds**. A Crimson shine runs along the cutting edge while Black smoke surrounds it.
+The blade carries both elements of her signature. Its direct strike deals **6–16 Weight** damage. A successful hit also applies **2 Grudge Tick damage per second for 10 seconds**. A Crimson shine runs along the cutting edge while Black smoke surrounds it.
 
 Its normal attack uses a **Pierce** pattern at **Speed 1 — Slow** and **Range 5 — Room**. The attack follows one line and can affect no more than three targets total:
 
@@ -663,7 +663,7 @@ Its normal attack uses a **Pierce** pattern at **Speed 1 — Slow** and **Range 
 
 The listed multiplier is applied to the direct Weight damage and to each Crimson Tick separately. The system does not combine the two components before calculating falloff.
 
-Threshold Vow can also produce a large singular wave of concentrated Weight (Black) along one line. The wave deals **25 Weight damage** and requires **15 seconds of recharge** before Mellda can release it again. It uses the same three-target line coverage and 100% → 70% → 50% falloff unless a separate ability rule supersedes the standard weapon pattern.
+Threshold Vow can also produce a large singular wave of concentrated Weight along one line. The wave deals **25 Weight damage** and requires **15 seconds of recharge** before Mellda can release it again. It uses the same three-target line coverage and 100% → 70% → 50% falloff unless a separate ability rule supersedes the standard weapon pattern.
 
 Its measured combat output matches the **Critical (δ)** M.A.W. tier. This is an equivalence rating, not a statement that the arm was extracted from an entity.
 
@@ -946,7 +946,7 @@ The elongated blade forms a single monolithic span of sorrow-forged alloy, taper
 
 ##### Singular Weight Wave (Shock Wave)
 - **Activation Stance:** Locks both mechanical foot anchors into the deck, sweeping the extended Sacred Blade horizontally across her chest before snapping it forward.
-- **Trajectory & Energy:** Compresses ambient Han into a singular high-density shockwave of pure Weight (Black) that erupts outward along a directional line.
+- **Trajectory & Energy:** Compresses ambient Han into a singular high-density shockwave of pure Weight that erupts outward along a directional line.
 - **Reach & Falloff:** Penetrates up to 3 targets along the shockwave line (Primary 25 → First Pierced 17.5 → Second Pierced 12.5 Weight damage).
 - **Hit Impact & Consequence:** Colossal concussive blast that batters and displaces targets backward without applying Grudge ticks.
 - **Recoil & Recovery:** Imposes a mandatory 15-second mechanical and thermal recharge before another wave can be released.
@@ -954,8 +954,8 @@ The elongated blade forms a single monolithic span of sorrow-forged alloy, taper
 #### Functional Properties
 
 - Transforms between a working artificial hand and one Sacred Blade.
-- Uses **Weight (Black)** for direct damage.
-- Applies **Grudge (Crimson)** as damage over time.
+- Uses **Weight** for direct damage.
+- Applies **Grudge** as damage over time.
 - Attacks with a slow piercing line pattern at Room range.
 - Can strike up to three targets along that line.
 - Can release one concentrated Weight wave, followed by a mandatory 15-second recharge.
@@ -968,8 +968,8 @@ The elongated blade forms a single monolithic span of sorrow-forged alloy, taper
 |---|---|
 | **Type** | Integrated Cyborg weapon |
 | **Output rating** | **Critical (δ)-equivalent**; not an actual M.A.W. grade |
-| **Element** | **Weight (Black) + Grudge (Crimson)** |
-| **Damage** | **6–16 Weight (Black)** direct + **2 Grudge (Crimson) per second for 10 seconds** |
+| **Element** | **Weight + Grudge** |
+| **Damage** | **6–16 Weight** direct + **2 Grudge per second for 10 seconds** |
 | **Speed** | **1 — Slow** |
 | **Range** | **5 — Room** |
 | **Attack pattern** | **Pierce** |
@@ -983,7 +983,7 @@ The elongated blade forms a single monolithic span of sorrow-forged alloy, taper
 
 A normal hit resolves the two damage components separately. The selected target receives 100% of the **6–16 Black direct damage** and each **2 Crimson Tick**. If the thrust pierces a second target, that target receives 70% of each component. A third and final target receives 50% of each component. The direct strike and ten-second Tick sequence are not added together before falloff.
 
-| Target | Multiplier | Direct Weight (Black) | Grudge (Crimson) Tick |
+| Target | Multiplier | Direct Weight | Grudge Tick |
 |---|---:|---:|---:|
 | **Primary** | **100%** | **6–16** | **2 per second for 10 seconds** |
 | **First pierced** | **70%** | **4.2–11.2** | **1.4 per second for 10 seconds** |
@@ -993,11 +993,11 @@ No rounding rule is recorded. The weapon specification therefore preserves the e
 
 #### Active Ability — Singular Weight Wave
 
-Threshold Vow can create a large singular wave made from concentrated **Weight (Black)** and send it along one line.
+Threshold Vow can create a large singular wave made from concentrated **Weight** and send it along one line.
 
 | Field | Entry |
 |---|---|
-| **Wave damage** | **25 Weight (Black)** |
+| **Wave damage** | **25 Weight** |
 | **Pattern** | Single line |
 | **Target coverage** | Up to 3 targets under the standard Threshold Vow line rule |
 | **Falloff** | Primary **100%** → first pierced target **70%** → second pierced target **50%** |
@@ -1051,8 +1051,8 @@ Threshold Vow does not change that status. It is a manufactured Cyborg arm with 
 
 Her personal signature combines:
 
-- **Weight — Black**;
-- **Grudge — Crimson**.
+- **Weight**;
+- **Grudge**.
 
 These colors inform the entity mark and controlled visual accents. They do not mean every piece of clothing, metal, or phase-shift must glow continuously.
 
@@ -1484,7 +1484,7 @@ The entity is companion, sensor, source of transformation, second soul, and poss
 
 ### Black and Crimson
 
-Weight (Black) and Grudge (Crimson) express endurance and controlled anger. Black holds the line. Crimson refuses the injustice that made the line necessary.
+Weight and Grudge express endurance and controlled anger. Black holds the line. Crimson refuses the injustice that made the line necessary.
 
 The signature belongs to Mellda's own balance of endurance and controlled anger.
 
@@ -1661,7 +1661,7 @@ The general system says an Effloresced person can manifest a unique personal M.A
 
 Threshold Vow is direct character canon added to Mellda's current Cyborg equipment. It is the designated **left arm**, not both arms. Its Sacred Blade is one meter long, Han-infused, Crimson-lit, and surrounded by Black smoke.
 
-Its normal attack deals **6–16 Weight (Black)** direct damage and **2 Grudge (Crimson) Tick damage per second for 10 seconds**. It has Speed 1 — Slow, Range 5 — Room, and a Pierce pattern covering one line with up to three targets. Its 100% → 70% → 50% falloff applies to direct and Tick damage separately.
+Its normal attack deals **6–16 Weight** direct damage and **2 Grudge Tick damage per second for 10 seconds**. It has Speed 1 — Slow, Range 5 — Room, and a Pierce pattern covering one line with up to three targets. Its 100% → 70% → 50% falloff applies to direct and Tick damage separately.
 
 Its active singular Weight wave deals **25 Weight damage** along one line and requires **15 seconds** of recharge. The standard line coverage and falloff apply to the wave.
 
@@ -1751,7 +1751,7 @@ No Archive progression is recorded.
 - The passenger does not speak or control her.
 - It sees through her eyes and feels through her heart.
 - Her body phase-shifts between solid and partially translucent states.
-- Her signature combines Weight (Black) and Grudge (Crimson).
+- Her signature combines Weight and Grudge.
 - Her Manifestation is Subject-Phantasmal.
 - Her current apparent age is approximately forty.
 - She is Effloresced rather than Corroded.
@@ -1760,8 +1760,8 @@ No Archive progression is recorded.
 - Threshold Vow forms a one-meter Han-infused Sacred Blade.
 - Its blade edge shines Crimson and is surrounded by Black smoke.
 - Its output is rated equivalent to a Critical (δ) M.A.W., but the arm is manufactured Cyborg equipment rather than M.A.W.
-- Threshold Vow deals 6–16 Weight (Black) direct damage.
-- It applies 2 Grudge (Crimson) Tick damage per second for 10 seconds.
+- Threshold Vow deals 6–16 Weight direct damage.
+- It applies 2 Grudge Tick damage per second for 10 seconds.
 - Its normal attack is Speed 1 — Slow, Range 5 — Room, and Pierce.
 - Its line can cover up to three targets with 100% → 70% → 50% falloff.
 - Direct damage and each Tick use the falloff multiplier separately.

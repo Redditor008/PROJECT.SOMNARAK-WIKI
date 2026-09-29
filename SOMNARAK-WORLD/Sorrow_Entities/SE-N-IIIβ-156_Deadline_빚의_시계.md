@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Anxious and counting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A battered clock with a cracked face, its hands counting down not hours but the deadlines of personal debts. Lead-cold and corroded, it smells of wet stone; it ticks faster as a debt comes due, and stops the moment it is paid. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Ticking* [**Debuff**] } | "The clock ticks — and each tick adds to your debt. Time itself is the interest rate." | [The Clock's ticking accrues debt; every second costs.] | *Target suffers -10 Resolve; time is literally money.* **[10 Black DMG [Black / Weight]]** | When the target hears the Clock. |
-| { *The Accelerating Tick* [**Debuff**] } | "The ticking speeds up — faster, faster — and the debt compounds faster than you can think." | [The Clock's rate increases; the target cannot keep up with the mounting debt.] | *Target loses 10 Resolve; the debt is exponential.* **[10 Black DMG [Black / Weight]]** | When the target lingers. |
-| { *The Striking Hour* [**Attack**] } | "The clock strikes — and the chime is the sound of a massive debt coming due." | [A toll of accumulated debt strikes the target.] | *Inflicts Black pressure and one wound of financial impact.* **[14-22 Black DMG [Black / Weight]]** | When the Clock is wound. |
-| { *The Midnight Default* [**Attack**] } | "The clock reaches midnight — and at midnight, every unpaid debt is called in simultaneously." | [The Clock's total reckoning releases all stored obligation.] | *A heavy Black toll; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Clock is struck. |
-| { *Time Runs Out for Everyone* [**Ultimate**] } | "Every clock in the field strikes midnight — and the accumulated debt of every person crushes the room." | [The Clock extends its reckoning across the whole area.] | *All in range suffer Black pressure for three turns of universal default.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Ticking* [**Debuff**] } | "The clock ticks — and each tick adds to your debt. Time itself is the interest rate." | [The Clock's ticking accrues debt; every second costs.] | *Target suffers -10 Resolve; time is literally money.* **[10 Weight DMG [Weight]]** | When the target hears the Clock. |
+| { *The Accelerating Tick* [**Debuff**] } | "The ticking speeds up — faster, faster — and the debt compounds faster than you can think." | [The Clock's rate increases; the target cannot keep up with the mounting debt.] | *Target loses 10 Resolve; the debt is exponential.* **[10 Weight DMG [Weight]]** | When the target lingers. |
+| { *The Striking Hour* [**Attack**] } | "The clock strikes — and the chime is the sound of a massive debt coming due." | [A toll of accumulated debt strikes the target.] | *Inflicts Weight pressure and one wound of financial impact.* **[14-22 Weight DMG [Weight]]** | When the Clock is wound. |
+| { *The Midnight Default* [**Attack**] } | "The clock reaches midnight — and at midnight, every unpaid debt is called in simultaneously." | [The Clock's total reckoning releases all stored obligation.] | *A heavy Black toll; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Clock is struck. |
+| { *Time Runs Out for Everyone* [**Ultimate**] } | "Every clock in the field strikes midnight — and the accumulated debt of every person crushes the room." | [The Clock extends its reckoning across the whole area.] | *All in range suffer Weight pressure for three turns of universal default.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Deadline: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Deadline: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Deadline: it is not a generic breach event
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that flickers with inner light.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Deadline: it is not a generic breach event
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Deadline: it is not a generic breach event
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a watch-charm of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a watch-charm of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Deadline (N-IIIβ-156 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Clock formed from anxiety over debt deadlines. Held at SECTOR-C-01, Collector's Row. It never displays ordinary time.
+Deadline (N-IIIβ-156 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Clock formed from anxiety over debt deadlines. Held at SECTOR-C-01, Collector's Row. It never displays ordinary time.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its hands stop briefly when a debt is acknowledged.
@@ -386,7 +386,7 @@ Some sorrows are about the debt. Deadline is about the waiting — the countdown
 > *“Every hour between collections: a tick toward the inevitable. The dread is the sorrow.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-156 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-156 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation
 **Common Name:** Deadline
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic

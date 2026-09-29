@@ -22,7 +22,7 @@
 | Entity | Black River — 슬픔의 강 |
 | Type / Manifestation | Object/Place — Place-Weight |
 | Coherence / Potency | V — Sovereign / γ — Major |
-| Element | Weight — Black |
+| Element | Weight |
 | Location | SECTOR-A-01, beneath the Alpha Tree — The Weeping |
 | Form | A vast bankless underground current of black liquid sorrow, lead-cold and sensed through bone rather than ordinary sound. |
 | Gauge / Pressure | 45–65% / Weight 17–39 |

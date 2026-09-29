@@ -20,7 +20,7 @@
 |---|---|
 | **Type** | Accessory (Stigma) — clasp charm |
 | **Grade** | δ — Critical |
-| **Element** | Grudge — Crimson |
+| **Element** | Grudge |
 | **Slot** | Tail |
 | **Acquisition Probability** | 4% |
 | **Stat Effect** | +3 when working the Smothering Mother source record |

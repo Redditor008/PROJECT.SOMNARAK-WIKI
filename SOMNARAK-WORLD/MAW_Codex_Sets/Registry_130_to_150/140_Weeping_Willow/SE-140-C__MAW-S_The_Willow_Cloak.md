@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Willow Cloak |
 | Set | Gentle Endings |
-| Type / grade / element | Suit, billowing cloak / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Suit, billowing cloak / γ — Major / Lament |
 | Status | Active; grief-return check required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Kkotlom Lee |

@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A stone well whose rim will not stay put: it spreads across the ground in thin branching channels of blue sorrow, its water seeping far from the opening to places it should not reach. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Seep* [**Debuff**] } | "Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward." | [The Well's sorrow-water permeates the ground; the target's feet are wet.] | *Target suffers -10 Composure; the grief is in the ground itself.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target stands near the Well. |
-| { *The Rising Pool* [**Debuff**] } | "The water spreads — a widening pool, ankle-deep, then knee-deep, and always cold." | [The Well's sorrow expands; the pool grows toward the target.] | *Target loses 10 Composure; the water is rising.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers. |
-| { *The Geyser* [**Attack**] } | "The well erupts — a column of sorrow-water, straight up, then raining down." | [A geyser of well-water blasts upward and cascades.] | *Inflicts Deep Blue pressure and one soaking, heavy wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Well is struck. |
-| { *The Full Disgorgement* [**Attack**] } | "The well empties entirely — every drop it ever held, released at once." | [The Well disgorges its complete depth in one rush.] | *A heavy Deep Blue flood; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Well is overloaded. |
-| { *The Sorrow Sea* [**Ultimate**] } | "The water does not stop — the well fills the whole field, and the field becomes a sea." | [The Well floods the entire area with its spreading sorrow.] | *All in range suffer Deep Blue pressure for three turns in the sorrow sea.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Seep* [**Debuff**] } | "Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward." | [The Well's sorrow-water permeates the ground; the target's feet are wet.] | *Target suffers -10 Composure; the grief is in the ground itself.* **[10 Lament DMG [Lament]]** | When the target stands near the Well. |
+| { *The Rising Pool* [**Debuff**] } | "The water spreads — a widening pool, ankle-deep, then knee-deep, and always cold." | [The Well's sorrow expands; the pool grows toward the target.] | *Target loses 10 Composure; the water is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Geyser* [**Attack**] } | "The well erupts — a column of sorrow-water, straight up, then raining down." | [A geyser of well-water blasts upward and cascades.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Well is struck. |
+| { *The Full Disgorgement* [**Attack**] } | "The well empties entirely — every drop it ever held, released at once." | [The Well disgorges its complete depth in one rush.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is overloaded. |
+| { *The Sorrow Sea* [**Ultimate**] } | "The water does not stop — the well fills the whole field, and the field becomes a sea." | [The Well floods the entire area with its spreading sorrow.] | *All in range suffer Lament pressure for three turns in the sorrow sea.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-The escalation pattern is specific to Spreading Well: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Spreading Well: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Spreading Well: it is not a generic breach
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Spreading Well: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Spreading Well: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small vial of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small vial of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Spreading Well (C-IIIγ-373 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Well formed from sorrow that refused to remain in one place. Held at The Desolate, near The Scar. Channels follow Han currents and old mourning paths.
+Spreading Well (C-IIIγ-373 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from sorrow that refused to remain in one place. Held at The Desolate, near The Scar. Channels follow Han currents and old mourning paths.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The Well sings beneath the ground.
@@ -382,7 +382,7 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 > *“The loneliest mourning, poured into the earth, was flowing toward someone who understood.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-373 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-373 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Place-Lament manifestation
 **Common Name:** Spreading Well
 **Containment Status:** Uncontained — the Desolate
 **Comprehension Level:** 2 — Basic

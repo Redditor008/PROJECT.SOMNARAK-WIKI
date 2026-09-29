@@ -35,7 +35,7 @@ Honest Flerehan may remain stable; false comfort escalates. Pugnahan feeds its f
 | Entity Type | **Subject** — Can manifest and move; hostile only to abandoned Hope-signatures |
 | Coherence | Entity (IV) |
 | Potency | Major (γ) |
-| Element | Grudge (Crimson) |
+| Element | Grudge |
 | Manifestation | Subject-Body |
 | Location | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
 | R.D. Comprehension Level | 3 — Elevated |

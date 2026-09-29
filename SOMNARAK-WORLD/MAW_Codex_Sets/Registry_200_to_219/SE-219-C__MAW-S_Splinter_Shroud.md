@@ -15,7 +15,7 @@
 
 ## IDENTITY, EXTRACTION & BINDING
 
-Splinter Shroud is wrapping deep-blue Han-silk, cool and faintly luminous. Water moves between its layers but never drips from the hem. A genuine Shroud shows the wearer’s current expression on its outer fold and an older grief on the inner one.
+Splinter Shroud is wrapping Lament Han-silk, cool and faintly luminous. Water moves between its layers but never drips from the hem. A genuine Shroud shows the wearer’s current expression on its outer fold and an older grief on the inner one.
 
 It condenses from mist above a memory vision that evaporates with witnesses present. Binding requires the wearer to remain through another person’s grief without turning the account into their own. It rejects anyone seeking numbness as the objective.
 
@@ -23,7 +23,7 @@ Iseulfros first wore it during a vault runoff surge. She stayed beside a technic
 
 ## Appearance
 
-Splinter Shroud is a wrapping suit of deep-blue Han-silk, cool and faintly luminous, in which water moves visibly between the layers but never drips from the hem. A genuine Shroud shows two faces at once: the wearer’s current expression on the outer fold and an older grief on the inner one. It condenses from mist above a memory vision that evaporates with witnesses present, and it binds only to a wearer who can remain through another person’s grief without turning the account into their own — it rejects anyone seeking numbness as the objective. Worn in a Lament surge, the wrapping lets grief pass between its layers and leave as moisture instead of accumulating in the wearer’s mind. The cost arrives afterward: minor joys go numb, food keeps its taste but not its pleasure, and a successful rescue may feel emotionally flat. Dry inner fabric under a wet outer layer is the first corrosion sign, and a crystal seam over the sternum is the last. It is maintained by unwrapping every layer over open grating in the Alpha Tree vault, each fold drying at its own rate; a partner loosens the outermost wet fold for removal.
+Splinter Shroud is a wrapping suit of Lament Han-silk, cool and faintly luminous, in which water moves visibly between the layers but never drips from the hem. A genuine Shroud shows two faces at once: the wearer’s current expression on the outer fold and an older grief on the inner one. It condenses from mist above a memory vision that evaporates with witnesses present, and it binds only to a wearer who can remain through another person’s grief without turning the account into their own — it rejects anyone seeking numbness as the objective. Worn in a Lament surge, the wrapping lets grief pass between its layers and leave as moisture instead of accumulating in the wearer’s mind. The cost arrives afterward: minor joys go numb, food keeps its taste but not its pleasure, and a successful rescue may feel emotionally flat. Dry inner fabric under a wet outer layer is the first corrosion sign, and a crystal seam over the sternum is the last. It is maintained by unwrapping every layer over open grating in the Alpha Tree vault, each fold drying at its own rate; a partner loosens the outermost wet fold for removal.
 
 ## PROTECTION FILE
 

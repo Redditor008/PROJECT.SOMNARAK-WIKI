@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A deep-blue Han-crystal blade whose wet edge shows linked voices. It forms after consensual memory return.
+A Lament Han-crystal blade whose wet edge shows linked voices. It forms after consensual memory return.
 
 Durivel severed a stolen memory-link added by the Memory Weaver while preserving the group’s original recollection. He wept with all participants’ grief.
 

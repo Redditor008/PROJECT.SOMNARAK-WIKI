@@ -12,9 +12,9 @@
 | **Coherence** | Fragment (III) — Jagged, furious resolve |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Crimson Han-veins throb within the metal like boiling arteries. |
+| **Physical Form** | Non-Organic — A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Grudge Han-veins throb within the metal like boiling arteries. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -78,10 +78,10 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | {{ *Scorched Hem* [**Debuff**] }} | "The hemp wrapping blackens further, shedding hot sparks." | [Nearby personnel feel the dry heat of an open foundry furnace.] | *Target suffers -8 Resolve.* | When approached without thermal shielding. |
-| {{ *Tectonic Pulse* [**Debuff**] }} | "The iron shaft twitches as if struck by an invisible hammer." | [A sharp kinetic vibration travels through stone flooring.] | *Target takes 12 Crimson damage.* | When handled roughly. |
-| {{ *Anvil Resentment* [**Attack**] }} | "The spike emits a high-pitched metallic shriek of overstressed iron." | [The sound echoes the screaming basalt of a collapsing mine.] | *Inflicts 16 Crimson damage across Range Band 1.* | When subjected to kinetic stress. |
-| {{ *Magma Weep* [**Attack**] }} | "Boiling crimson Han-sap beads along the tapered tip." | [The liquid burns through floor tiles, leaving smoking furrows.] | *Target loses 15% armor durability.* | When containment seals loosen. |
-| {{ *Fault-Line Fury* [**Ultimate**] }} | "The entire spike glows cherry-red, threatening premature detonation." | [A localized earthquake shakes the containment plinth.] | *All units in sector take 24 Crimson damage.* | When Sorrow Gauge reaches 65%. |
+| {{ *Tectonic Pulse* [**Debuff**] }} | "The iron shaft twitches as if struck by an invisible hammer." | [A sharp kinetic vibration travels through stone flooring.] | *Target takes 12 Grudge damage.* | When handled roughly. |
+| {{ *Anvil Resentment* [**Attack**] }} | "The spike emits a high-pitched metallic shriek of overstressed iron." | [The sound echoes the screaming basalt of a collapsing mine.] | *Inflicts 16 Grudge damage across Range Band 1.* | When subjected to kinetic stress. |
+| {{ *Magma Weep* [**Attack**] }} | "Boiling Grudge Han-sap beads along the tapered tip." | [The liquid burns through floor tiles, leaving smoking furrows.] | *Target loses 15% armor durability.* | When containment seals loosen. |
+| {{ *Fault-Line Fury* [**Ultimate**] }} | "The entire spike glows cherry-red, threatening premature detonation." | [A localized earthquake shakes the containment plinth.] | *All units in sector take 24 Grudge damage.* | When Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -95,7 +95,7 @@ Premature detonation vents an uncontained magma shockwave across the armory, des
 
 ## Appearance
 
-**Physical Form:** A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Crimson Han-veins throb within the metal like boiling arteries.
+**Physical Form:** A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Grudge Han-veins throb within the metal like boiling arteries.
 
 **Notable Features:**
 - The iron head is mushroomed and scarred from repeated sledgehammer impacts.
@@ -141,7 +141,7 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 
 **Activation Trigger:** Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).
 
-**Effect:** Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag.
+**Effect:** Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag.
 
 **Duration:** Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter.
 
@@ -154,7 +154,7 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 | **Tool Class** | **A-Relic** |
 | **Use Mode** | **Single-use / consumable discharge** |
 | **Activation** | Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram). |
-| **Primary Effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
+| **Primary Effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
 | **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
 | **Risk** | The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
@@ -166,13 +166,13 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. All hostile entities in range suffer devastating disruption and elemental debuffs. |
 | 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
 | 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Wedge That Held: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at SECTOR-O-04, Outer Bastion Arsenal — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Wedge That Held: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-O-04, Outer Bastion Arsenal — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -182,7 +182,7 @@ The escalation pattern is specific to The Wedge That Held: it is not a generic b
 |---|---|
 | **Trigger** | Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram). |
 | **Manifestation** | Object-Grudge |
-| **Primary effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
+| **Primary effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration / rate** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
@@ -347,7 +347,7 @@ The apprentices escaped through the secondary exhaust duct. When relief teams du
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-412 [GP]` · Outside origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-412 [GP]` · Outside origin · Fragment (III) coherence · Major (γ) potency · Grudge · Object-Grudge manifestation
 **Common Name:** The Wedge That Held
 **Containment Status:** Contained — Sector-O-04 Heavy Armory
 **Comprehension Level:** 3 — Advanced

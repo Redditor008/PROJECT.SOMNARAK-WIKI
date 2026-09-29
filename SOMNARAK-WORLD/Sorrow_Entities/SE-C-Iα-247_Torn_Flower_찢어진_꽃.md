@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A figure shaped like a torn flower — true soft petals split down the center, weeping from the tear, growing in the cracks between old buildings. Its petals are warm and give like flesh; fever-cold at the split, it smells of char and crushed bloom. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Torn Petal* [**Debuff**] } | "A single petal falls — torn, not dropped — and the flower has noticed you noticed." | [A torn petal drifts to the target; the wound in it marks them.] | *Target suffers -10 Resilience; the flower's hurt is contagious.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target regards the Flower. |
-| { *The Broken Stem* [**Debuff**] } | "The stem is snapped half-through — and the break is where the anger lives." | [The visible wound weeps; the target feels the Flower's pain sharpen.] | *Target loses 10 Resilience; they flinch at every edge.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers near. |
-| { *The Thorn* [**Attack**] } | "For all its softness, it still has thorns — and it knows how to use them." | [A hidden thorn rakes across the target.] | *Inflicts Crimson pressure and one thin, stinging cut.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Flower is touched. |
-| { *The Uprooting* [**Attack**] } | "It is torn from the earth — and it tears back." | [The Flower rips itself free, lashing out with root and stem.] | *A heavy Crimson rend; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Flower is pulled or struck. |
-| { *The Whole Bouquet* [**Ultimate**] } | "Every torn flower in the place opens at once — and every one of them is angry." | [The field blooms with wounded flowers, all of them lashing out.] | *All personnel suffer Crimson pressure for three turns among the petals.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Torn Petal* [**Debuff**] } | "A single petal falls — torn, not dropped — and the flower has noticed you noticed." | [A torn petal drifts to the target; the wound in it marks them.] | *Target suffers -10 Resilience; the flower's hurt is contagious.* **[10 Grudge DMG [Grudge]]** | When the target regards the Flower. |
+| { *The Broken Stem* [**Debuff**] } | "The stem is snapped half-through — and the break is where the anger lives." | [The visible wound weeps; the target feels the Flower's pain sharpen.] | *Target loses 10 Resilience; they flinch at every edge.* **[10 Grudge DMG [Grudge]]** | When the target lingers near. |
+| { *The Thorn* [**Attack**] } | "For all its softness, it still has thorns — and it knows how to use them." | [A hidden thorn rakes across the target.] | *Inflicts Grudge pressure and one thin, stinging cut.* **[14-22 Grudge DMG [Grudge]]** | When the Flower is touched. |
+| { *The Uprooting* [**Attack**] } | "It is torn from the earth — and it tears back." | [The Flower rips itself free, lashing out with root and stem.] | *A heavy Crimson rend; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Flower is pulled or struck. |
+| { *The Whole Bouquet* [**Ultimate**] } | "Every torn flower in the place opens at once — and every one of them is angry." | [The field blooms with wounded flowers, all of them lashing out.] | *All personnel suffer Grudge pressure for three turns among the petals.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Breach Type** | Escape |
 | **Movement** | Torn Flower shatters containment and hunts through the facility. It releases spores that infest personnel. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a narrow sword of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a narrow sword of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -188,7 +188,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -206,7 +206,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Torn Flower (C-Iα-247 [O]) is logged as a Subject-Lament manifestation expressing Grudge (Crimson). The Flower formed from a promise broken while someone was still waiting. Held at Zone B, Old Lament — ambient. It appears in damaged memorials.
+Torn Flower (C-Iα-247 [O]) is logged as a Subject-Lament manifestation expressing Grudge. The Flower formed from a promise broken while someone was still waiting. Held at Zone B, Old Lament — ambient. It appears in damaged memorials.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through cracks and old gardens in Zone B. Personnel feel the sorrow of damaged beauty and broken promises. It becomes calmer when someone remains nearby.
@@ -346,7 +346,7 @@ Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that ope
 > *“The near-miss: the thing that was almost complete, destroyed before the completion.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-247 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-247 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Lament manifestation
 **Common Name:** Torn Flower
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic

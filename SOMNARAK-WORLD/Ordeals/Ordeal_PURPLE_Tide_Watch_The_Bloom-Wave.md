@@ -49,7 +49,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 35–60 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[35–60 Crimson (HP) -> 35 Lament (Sanity) -> 35 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[35–60 Grudge (HP) -> 35 Lament (Sanity) -> 35 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Rot-Tide (Non-Crystal, Tide-Spawn-grade)
 
@@ -61,7 +61,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 40–65 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It washes over, and the corrupt matter seeps into and begins to transform whatever it covers. **[40–65 Crimson (HP) -> 40 Lament (Sanity) -> 40 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It washes over, and the corrupt matter seeps into and begins to transform whatever it covers. **[40–65 Grudge (HP) -> 40 Lament (Sanity) -> 40 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Tide-Spawn-grade)
 
@@ -73,7 +73,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 45–70 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[45–70 Crimson (HP) -> 45 Lament (Sanity) -> 45 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[45–70 Grudge (HP) -> 45 Lament (Sanity) -> 45 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ### The Corrupted (Humanoid, Tide-Spawn-grade)
@@ -86,7 +86,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 30–44 per hit · Mixed |
 | **Spawn Count** | 1 |
 
-**Ability:** It spreads its arms, and a cloud of transformative spore washes the hall. **[30–44 Crimson (HP) -> 30–44 Lament (Sanity) -> 30–44 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It spreads its arms, and a cloud of transformative spore washes the hall. **[30–44 Grudge (HP) -> 30–44 Lament (Sanity) -> 30–44 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Spore-Storm (Amorphous, Tide-Spawn-grade)
 
@@ -98,7 +98,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 28–42 per hit · Mixed |
 | **Spawn Count** | 1 |
 
-**Ability:** It rains, and everything beneath begins to bloom and change against its will. **[28–42 Crimson (HP) -> 28–42 Lament (Sanity) -> 28–42 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It rains, and everything beneath begins to bloom and change against its will. **[28–42 Grudge (HP) -> 28–42 Lament (Sanity) -> 28–42 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Plague-Vermin (Swarm, Tide-Spawn-grade)
 
@@ -110,7 +110,7 @@ Echo-Core teams only.
 | **Han Pressure [ATK]** | 7–11 per hit · Mixed |
 | **Spawn Count** | facility-wide |
 
-**Ability:** They scatter through the facility, seeding corruption wherever they run. **[7–11 Crimson (HP) -> 7–11 Lament (Sanity) -> 7–11 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** They scatter through the facility, seeding corruption wherever they run. **[7–11 Grudge (HP) -> 7–11 Lament (Sanity) -> 7–11 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia

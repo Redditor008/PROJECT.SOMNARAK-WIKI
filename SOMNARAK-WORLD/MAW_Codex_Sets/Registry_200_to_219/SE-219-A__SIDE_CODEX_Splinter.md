@@ -22,7 +22,7 @@
 | Entity | Splinter — 솟구친 조각 |
 | Type / Manifestation | Object/Place — Object-Void; O-Relic (Offertorium) |
 | Coherence / Potency | IV — Entity / δ — Critical |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | A jagged blue memorial crystal rising from the vault floor, wet with warm liquid memories that travel upward against gravity. |
 | Gauge / Pressure | 60–80% / Lament 30–66 |
 | Observation | 2 — Basic |

@@ -16,7 +16,7 @@
 |---|---|
 | Type | Accessory (Stigma) — wing charm |
 | Grade | γ — Major |
-| Element | Void — Pale White |
+| Element | Void |
 | Slot | Head |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Guarding Bird source record |

@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Reflective and honest |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A tall mirror of pale-black crystal in a cold, dark frame, whose surface reflects not the viewer but only their sorrow — a face twisted by whatever grief they carry. The glass is bloodless-cold and gives back no warmth; near it, the flat smell of ash and a thickening silence. |
 | **Movement** | Stationary — a discrete object. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reflection* [**Debuff**] } | "It shows you yourself — but the you in the glass is grieving in ways you have not admitted." | [The Mirror reflects the target's hidden sorrow back at them.] | *Target suffers a Void mark; the Mirror has seen their true grief.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
-| { *The Cracked Image* [**Debuff**] } | "The reflection fractures — and so does your sense of which one is real." | [The Mirror distorts; the target's self-image splinters.] | *Target loses clarity; they doubt which self is theirs.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares too long. |
-| { *The Glass Shard* [**Attack**] } | "A sliver of the mirror breaks free — and it cuts where it reflects." | [A jagged shard flies from the frame, sharp as a held secret.] | *Inflicts Void damage; it cuts away a piece of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Doppelganger* [**Attack**] } | "The you in the mirror steps out — and it is angrier than you remember." | [The reflection separates and attacks, made of the target's own sorrow.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |
-| { *A Thousand You* [**Ultimate**] } | "The mirror shatters into a thousand pieces — and every piece shows a different grieving you." | [The Mirror explodes into fragments, each reflecting sorrow outward.] | *All in range suffer Pale White erosion for three turns among the shards.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Reflection* [**Debuff**] } | "It shows you yourself — but the you in the glass is grieving in ways you have not admitted." | [The Mirror reflects the target's hidden sorrow back at them.] | *Target suffers a Void mark; the Mirror has seen their true grief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
+| { *The Cracked Image* [**Debuff**] } | "The reflection fractures — and so does your sense of which one is real." | [The Mirror distorts; the target's self-image splinters.] | *Target loses clarity; they doubt which self is theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares too long. |
+| { *The Glass Shard* [**Attack**] } | "A sliver of the mirror breaks free — and it cuts where it reflects." | [A jagged shard flies from the frame, sharp as a held secret.] | *Inflicts Void damage; it cuts away a piece of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
+| { *The Doppelganger* [**Attack**] } | "The you in the mirror steps out — and it is angrier than you remember." | [The reflection separates and attacks, made of the target's own sorrow.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |
+| { *A Thousand You* [**Ultimate**] } | "The mirror shatters into a thousand pieces — and every piece shows a different grieving you." | [The Mirror explodes into fragments, each reflecting sorrow outward.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -186,7 +186,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Learned Your Face: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, Alpha Tree, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Learned Your Face: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, Alpha Tree, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Learned Your Face: it is not a generic bre
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
 
 **Damage:** Void 7–12
 **Speed:** 3 (Fast)
@@ -231,7 +231,7 @@ The escalation pattern is specific to Learned Your Face: it is not a generic bre
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -249,7 +249,7 @@ The escalation pattern is specific to Learned Your Face: it is not a generic bre
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-pendant of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a lens-pendant of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Learned Your Face (C-IIIγ-195 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mirror formed from sorrow that people concealed from one another. Held at SECTOR-A-01, Alpha Tree. It reflects sorrow, not appearance.
+Learned Your Face (C-IIIγ-195 [VO]) is logged as a Object-Void manifestation expressing Void. The Mirror formed from sorrow that people concealed from one another. Held at SECTOR-A-01, Alpha Tree. It reflects sorrow, not appearance.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The Mirror is warmer near genuine tears.
@@ -386,7 +386,7 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 > *“It does not lie. It only reflects. The reflection is the wound.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-195 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-195 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Object-Void manifestation
 **Common Name:** Learned Your Face
 **Containment Status:** Contained — Alpha Tree, Zone A
 **Comprehension Level:** 2 — Basic

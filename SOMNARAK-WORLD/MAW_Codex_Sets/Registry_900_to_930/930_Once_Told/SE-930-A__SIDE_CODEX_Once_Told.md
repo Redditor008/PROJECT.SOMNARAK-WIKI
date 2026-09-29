@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | O-IVδ-930 [LH] |
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Tale |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
-| Element / Location | Lament (Deep Blue) / SECTOR-O-930, contained |
+| Element / Location | Lament / SECTOR-O-930, contained |
 | Gauge / Pressure | 500/500; starts 35–50% / 14–22 per hit · Lament |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Once Told Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Once Told's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Once Told's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Once Told's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Once Told's wound through the operator and triggers the recorded escalation.
 
 ---
 

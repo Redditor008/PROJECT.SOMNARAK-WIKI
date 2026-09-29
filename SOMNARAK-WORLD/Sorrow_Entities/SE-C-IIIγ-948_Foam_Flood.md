@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) — Feels everything, and cannot lift from the earth |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Spirit |
 | **Physical Form** | Non-Organic — A carving of a coiling dragon, a metre tall, cut from a single block of unknown white stone. The carved form reads black against the pale stone, and its two eyes are set with a stone that glows a steady, soft white. It is the shape of a thing made to fly, fixed forever in the moment before flight — wings spreading, body rising — and it has never risen. |
 | **Movement** | Fixed — the carving does not move; only its longing moves, radiating outward as a field. |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Pull of the Sky* [**Debuff**] } | "You look up, and the blue above the vault seems, suddenly, very close — and very much where you belong." | [The carving's longing radiates; the target feels the urge to rise, to leave the ground, to fly.] | *Composure thins as the wish to fly settles in; the target forgets, briefly, that they cannot.* **[8 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the field. |
-| { *The Glowing Eyes* [**Field**] } | "The dragon's white eyes brighten, and the light of them is the light of an open sky — cold, blue, and impossibly far." | [The eyes cast a soft sky-light; all in the field are bathed in the longing the carving has held for as long as it has stood.] | *All within feel the ache of a grounded thing made for flight; composure drains with every glance upward.* **[8-12 Deep Blue DMG [Deep Blue / Lament]]** | When the Sorrow Gauge passes 60%. |
-| { *The Rising* [**Attack**] } | "Your feet leave the floor — not much, a handspan — and for one held breath you are flying, you are finally flying." | [The field lifts the target a fraction off the ground in a brief, glorious, stolen flight — then drops them.] | *The brief flight costs the target's composure; the fall, when it ends, costs more.* **[12-18 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers in the field. |
-| { *The Longing Made Wide* [**Expansion**] } | "The wish pours out across the vault floor like a wind that is not there, and everything it touches wants to rise." | [The longing-field blooms outward; loose objects drift, and personnel strain toward the ceiling, held only by weight.] | *The field widens; composure erodes across the room as the shared ache of grounded wings spreads.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the carving is touched with bare skin. |
-| { *The Shape That Should Have Flown* [**Ultimate**] } | "The stone dragon's wings spread to their fullest — and you feel, all at once, the whole of its grief: the long, long ache of rising that never rose." | [The carving pours its entire sealed longing into the field; the grief of a flight that never happened floods all present.] | *All in range are gripped for three turns by a sorrow so vast it aches to fly — the carving's whole history of grounded wanting.* **[10-16 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| { *The Pull of the Sky* [**Debuff**] } | "You look up, and the blue above the vault seems, suddenly, very close — and very much where you belong." | [The carving's longing radiates; the target feels the urge to rise, to leave the ground, to fly.] | *Composure thins as the wish to fly settles in; the target forgets, briefly, that they cannot.* **[8 Lament DMG [Lament]]** | When the target enters the field. |
+| { *The Glowing Eyes* [**Field**] } | "The dragon's white eyes brighten, and the light of them is the light of an open sky — cold, blue, and impossibly far." | [The eyes cast a soft sky-light; all in the field are bathed in the longing the carving has held for as long as it has stood.] | *All within feel the ache of a grounded thing made for flight; composure drains with every glance upward.* **[8-12 Lament DMG [Lament]]** | When the Sorrow Gauge passes 60%. |
+| { *The Rising* [**Attack**] } | "Your feet leave the floor — not much, a handspan — and for one held breath you are flying, you are finally flying." | [The field lifts the target a fraction off the ground in a brief, glorious, stolen flight — then drops them.] | *The brief flight costs the target's composure; the fall, when it ends, costs more.* **[12-18 Lament DMG [Lament]]** | When the target lingers in the field. |
+| { *The Longing Made Wide* [**Expansion**] } | "The wish pours out across the vault floor like a wind that is not there, and everything it touches wants to rise." | [The longing-field blooms outward; loose objects drift, and personnel strain toward the ceiling, held only by weight.] | *The field widens; composure erodes across the room as the shared ache of grounded wings spreads.* **[14-22 Lament DMG [Lament]]** | When the carving is touched with bare skin. |
+| { *The Shape That Should Have Flown* [**Ultimate**] } | "The stone dragon's wings spread to their fullest — and you feel, all at once, the whole of its grief: the long, long ache of rising that never rose." | [The carving pours its entire sealed longing into the field; the grief of a flight that never happened floods all present.] | *All in range are gripped for three turns by a sorrow so vast it aches to fly — the carving's whole history of grounded wanting.* **[10-16 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -119,7 +119,7 @@
 - **Manifestation:** Object-Spirit
 - **Primary marker:** A metre-tall white-stone carving of a black dragon with glowing white eyes, head tilted forever upward.
 - **Position / movement** | Fixed in the Vault; the longing-field expands during activation. |
-| **Material / signature** | Unknown white stone, black dragon-form, glowing eyes; Lament (Deep Blue); buoyant still air, the pull of the sky. |
+| **Material / signature** | Unknown white stone, black dragon-form, glowing eyes; Lament; buoyant still air, the pull of the sky. |
 | **Distinctive markers** | The silhouette-dragon in pale stone; the soft glowing eyes; the eternal upward tilt. |
 | **Identification** | Distinguish from other statue or relic entities by the glowing eyes, the silhouette-form, and the field's pull — it is the only recorded relic that makes those near it want to leave the ground. |
 
@@ -148,7 +148,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. The Foam Flood is recorded as an Object with Object-Spirit manifestation and Lament (Deep Blue) elemental expression. The current record places it in the Dry Riverbed Vault, SECTOR-C-07, Zone C; personnel should not transfer assumptions from any other statue or relic. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the pull of the sky and the slow, aching urge to rise.
+The gauge response is only meaningful in context. The Foam Flood is recorded as an Object with Object-Spirit manifestation and Lament elemental expression. The current record places it in the Dry Riverbed Vault, SECTOR-C-07, Zone C; personnel should not transfer assumptions from any other statue or relic. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the pull of the sky and the slow, aching urge to rise.
 
 **Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has endured the longing without trying to fly — and that, for this entity, is the closest thing to kindness it understands. An increase means the carving was touched, or the eyes brightened; both move it toward the field's full spread.
 
@@ -191,7 +191,7 @@ The gauge response is only meaningful in context. The Foam Flood is recorded as 
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Foam Flood: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Dry Riverbed Vault, SECTOR-C-07, Zone C, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Foam Flood: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at The Dry Riverbed Vault, SECTOR-C-07, Zone C, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -232,10 +232,10 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 
 **Appearance:** A mantle of layered pale stone-feathers, dark on one face and light on the other, that lifts faintly at the shoulders as if in an updraft no one else can feel.
 **Resistances:**
-- Grudge (Crimson): 1.1 (Weak)
-- Lament (Deep Blue): 0.3 (Resistant)
-- Weight (Black): 1.2 (Weak)
-- Void (Pale White): 1.0 (Normal)
+- Grudge: 1.1 (Weak)
+- Lament: 0.3 (Resistant)
+- Weight: 1.2 (Weak)
+- Void: 1.0 (Normal)
 **Max Amount:** 3
 **Cost:** 28 Sorrow Echoes
 
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Foam Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament (Deep Blue). The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
+The Foam Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament. The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan only; one sanctioned 90-second gloved channel by Cartographer Yeonhwa for terrain mapping. The petitioner reported a complete, euphoric vision of flight, followed by acute sky-grief on return to the ground; composure readings dipped but stabilised within the hour. The carving's eyes brightened during the channel and have not fully dimmed since. Note: the relic cannot refuse the sharing of its longing — the core hazard — and the Vault remains sealed against unsanctioned contact.
@@ -388,7 +388,7 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-948 [LO]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Spirit manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-948 [LO]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Object-Spirit manifestation
 **Common Name:** The Foam Flood (양룡)
 **Containment Status:** Contained on-site — the Dry Riverbed Vault, SECTOR-C-07, Zone C (sealed against unsanctioned channeling)
 **Comprehension Level:** 3 — Monitored
@@ -421,7 +421,7 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 ### Registry Trivia
 
 - **Classification detail:** The Foam Flood is an Object with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Lament (Deep Blue), and its registered location is the Dry Riverbed Vault, SECTOR-C-07, Zone C.
+- **Field detail:** Its defining element is Lament, and its registered location is the Dry Riverbed Vault, SECTOR-C-07, Zone C.
 - **Recognition detail:** Personnel should identify it by the pale-stone/black-dragon form, the glowing eyes, and the upward tilt — and by the absolute rule of gloved, sub-90-second contact only.
 - **Record detail:** Among Object-Spirit entities, it is distinguished by a sealed longing and a grief that deepens with every sharing — and by the standing WARNING that it must never be reunited with SE-C-IIβ-947 (see SE-C-Vδ-949).
 - **Containment detail:** Contained does not mean at rest. The longing reaches past the Vault walls through the buoyant air; personnel on rotation report looking up too often. The seal is a kindness; the stone, during a channel, is the sky.

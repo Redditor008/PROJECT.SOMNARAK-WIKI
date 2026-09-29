@@ -12,7 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-A pale Han-gossamer veil with a cold duty outline outside one living identity seam.
+A Void Han-gossamer veil with a cold duty outline outside one living identity seam.
 
 Iseulfros wore it through duty-release review. The Veil kept the watcher distinct from the role but left her faintly absent afterward.
 

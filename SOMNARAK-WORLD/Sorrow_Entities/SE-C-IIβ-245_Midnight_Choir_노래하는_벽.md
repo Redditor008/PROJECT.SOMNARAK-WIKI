@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats singing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Non-Organic — A sequence of old frescoes — wall-paintings of the city's dead — that sing at midnight: lullabies, work songs, funeral hymns rising from the painted mouths. The pigment is salt-damp, smelling of cold rain; the painted figures breathe as they sing. |
 | **Movement** | Stationary — an artwork. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Low Hum* [**Debuff**] } | "The walls begin to vibrate — a low hum that you feel in your teeth more than hear." | [The Walls resonate; the target vibrates in sympathy.] | *Target suffers -10 Composure; the hum is inside their bones.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Walls begin to sing. |
-| { *The Harmony* [**Debuff**] } | "The hum finds your frequency — and now the walls and you are singing the same note." | [The Walls lock onto the target; the resonance deepens.] | *Target loses 10 Composure; they cannot stop the inner vibration.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains in range. |
-| { *The High Note* [**Attack**] } | "The hum sharpens past hearing — and the inaudible note cuts like a blade." | [A piercing ultrasonic strike from the Walls.] | *Inflicts Deep Blue pressure and one wound of internal vibration.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Walls are disturbed. |
-| { *The Bass Drop* [**Attack**] } | "The note drops to a register that shakes foundations — and it shakes you apart." | [A subsonic pressure wave emanates from the Walls.] | *A heavy Deep Blue quake; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Walls are overloaded. |
-| { *The Full Chorus* [**Ultimate**] } | "Every wall sings at once — a chorus of grief that fills the building to bursting." | [The Walls unleash their complete resonant sorrow.] | *All in range suffer Deep Blue pressure for three turns in the full chorus.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Low Hum* [**Debuff**] } | "The walls begin to vibrate — a low hum that you feel in your teeth more than hear." | [The Walls resonate; the target vibrates in sympathy.] | *Target suffers -10 Composure; the hum is inside their bones.* **[10 Lament DMG [Lament]]** | When the Walls begin to sing. |
+| { *The Harmony* [**Debuff**] } | "The hum finds your frequency — and now the walls and you are singing the same note." | [The Walls lock onto the target; the resonance deepens.] | *Target loses 10 Composure; they cannot stop the inner vibration.* **[10 Lament DMG [Lament]]** | When the target remains in range. |
+| { *The High Note* [**Attack**] } | "The hum sharpens past hearing — and the inaudible note cuts like a blade." | [A piercing ultrasonic strike from the Walls.] | *Inflicts Lament pressure and one wound of internal vibration.* **[14-22 Lament DMG [Lament]]** | When the Walls are disturbed. |
+| { *The Bass Drop* [**Attack**] } | "The note drops to a register that shakes foundations — and it shakes you apart." | [A subsonic pressure wave emanates from the Walls.] | *A heavy Deep Blue quake; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Walls are overloaded. |
+| { *The Full Chorus* [**Ultimate**] } | "Every wall sings at once — a chorus of grief that fills the building to bursting." | [The Walls unleash their complete resonant sorrow.] | *All in range suffer Lament pressure for three turns in the full chorus.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Midnight Choir: it is not a generic breach
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -205,7 +205,7 @@ The escalation pattern is specific to Midnight Choir: it is not a generic breach
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -223,7 +223,7 @@ The escalation pattern is specific to Midnight Choir: it is not a generic breach
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small stone of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Midnight Choir (C-IIβ-245 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Walls formed from songs interrupted before their final verse. Held at Zone B, Old Lament — ambient. Singing begins most reliably at midnight.
+Midnight Choir (C-IIβ-245 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Walls formed from songs interrupted before their final verse. Held at Zone B, Old Lament — ambient. Singing begins most reliably at midnight.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Songs contain history absent from the Archive.
@@ -360,7 +360,7 @@ Some sorrows are about endings. Midnight Choir are about the endings that never 
 > *“The archive of interruption — songs stopped, lives cut mid-phrase.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-245 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-245 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** Midnight Choir
 **Containment Status:** Ambient — Old Lament
 **Comprehension Level:** 2 — Basic

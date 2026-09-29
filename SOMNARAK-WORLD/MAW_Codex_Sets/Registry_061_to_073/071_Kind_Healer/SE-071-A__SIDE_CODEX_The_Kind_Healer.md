@@ -24,7 +24,7 @@
 | Type / Manifestation | Subject — Subject-Body |
 | Coherence | I — Residue |
 | Potency | α — Minor; transformation risk catastrophic |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Form | Warm healer figure with luminous hands |
 | Original Location | SECTOR-B-02, Zone B |
 | Comprehension Level | 4 — Mastered |

@@ -62,7 +62,7 @@ Alert Level 1. Standard team. Ferrehan support for film cleanup. Do NOT touch th
 | **Han Pressure [ATK]** | 8–18 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[8–18 Crimson (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[8–18 Grudge (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Spore Loom (Machine, Fragment-grade)
 
@@ -74,7 +74,7 @@ Alert Level 1. Standard team. Ferrehan support for film cleanup. Do NOT touch th
 | **Han Pressure [ATK]** | 13–23 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It weaves a dense aerial web of infectious mycelial filaments that entangles movement and infects armor seals with encroaching decay. **[13–23 Crimson (HP) -> 13 Lament (Sanity) -> 13 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It weaves a dense aerial web of infectious mycelial filaments that entangles movement and infects armor seals with encroaching decay. **[13–23 Grudge (HP) -> 13 Lament (Sanity) -> 13 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Fragment-grade)
 
@@ -86,7 +86,7 @@ Alert Level 1. Standard team. Ferrehan support for film cleanup. Do NOT touch th
 | **Han Pressure [ATK]** | 18–28 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[18–28 Crimson (HP) -> 18 Lament (Sanity) -> 18 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[18–28 Grudge (HP) -> 18 Lament (Sanity) -> 18 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia

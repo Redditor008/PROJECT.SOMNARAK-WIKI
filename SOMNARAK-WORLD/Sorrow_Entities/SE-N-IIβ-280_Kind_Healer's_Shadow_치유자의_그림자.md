@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) — Repeats healing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A gentle human-shaped shadow with no face, cast by nothing, that follows the wounded and rests beside them. It radiates warmth though it is only dark; salt-damp, it smells of cold rain. It cannot heal — only stay, so the hurt are not alone. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Cost* [**Debuff**] } | "The healer's shadow falls on you — and where it touches, the price of every healing you ever received comes due." | [The Shadow's presence demands payment for past care.] | *Target suffers -10 Composure; they owe for every kindness.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the Shadow falls on them. |
-| { *The Accumulated Debt* [**Debuff**] } | "Every wound the healer closed, every grief they soothed — the shadow remembers, and the bill is enormous." | [The Shadow's tally of healing-debt grows; the target is buried in gratitude they cannot repay.] | *Target loses 10 Composure; the debt of kindness is crushing.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target lingers in shadow. |
-| { *The Dark Hand* [**Attack**] } | "The healer's shadow reaches — and its touch is the opposite of healing: concentrated, surgical harm." | [A shadow-strike that undoes what healing built.] | *Inflicts Deep Blue pressure and one wound of reversed care.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Shadow is provoked. |
-| { *The Full Reversal* [**Attack**] } | "Every healing the shadow's light ever performed — reversed, at once — every wound reopened." | [The Shadow's total reversal releases all stored healing-debt.] | *A heavy Deep Blue un-healing; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Shadow is confronted. |
-| { *The Cost of Care* [**Ultimate**] } | "The healer's shadow extends over everyone — and the accumulated cost of all healing crushes the field." | [The Shadow spreads its debt across the whole area.] | *All in range suffer Deep Blue pressure for three turns of healing's price.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Cost* [**Debuff**] } | "The healer's shadow falls on you — and where it touches, the price of every healing you ever received comes due." | [The Shadow's presence demands payment for past care.] | *Target suffers -10 Composure; they owe for every kindness.* **[10 Lament DMG [Lament]]** | When the Shadow falls on them. |
+| { *The Accumulated Debt* [**Debuff**] } | "Every wound the healer closed, every grief they soothed — the shadow remembers, and the bill is enormous." | [The Shadow's tally of healing-debt grows; the target is buried in gratitude they cannot repay.] | *Target loses 10 Composure; the debt of kindness is crushing.* **[10 Lament DMG [Lament]]** | When the target lingers in shadow. |
+| { *The Dark Hand* [**Attack**] } | "The healer's shadow reaches — and its touch is the opposite of healing: concentrated, surgical harm." | [A shadow-strike that undoes what healing built.] | *Inflicts Lament pressure and one wound of reversed care.* **[14-22 Lament DMG [Lament]]** | When the Shadow is provoked. |
+| { *The Full Reversal* [**Attack**] } | "Every healing the shadow's light ever performed — reversed, at once — every wound reopened." | [The Shadow's total reversal releases all stored healing-debt.] | *A heavy Deep Blue un-healing; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is confronted. |
+| { *The Cost of Care* [**Ultimate**] } | "The healer's shadow extends over everyone — and the accumulated cost of all healing crushes the field." | [The Shadow spreads its debt across the whole area.] | *All in range suffer Lament pressure for three turns of healing's price.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -204,7 +204,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** an echo-charm of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** an echo-charm of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Kind Healer's Shadow (N-IIβ-280 [LS]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Shadow formed from compassion left behind by healers who died. Held at Zone D, Mantle Commons — ambient. It follows the most emotionally wounded person, not always the most visibly injured.
+Kind Healer's Shadow (N-IIβ-280 [LS]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Shadow formed from compassion left behind by healers who died. Held at Zone D, Mantle Commons — ambient. It follows the most emotionally wounded person, not always the most visibly injured.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the facility by following wounded personnel. Personnel feel ancient mourning while their wounds close. It becomes more active during breaches.
@@ -342,7 +342,7 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 > *“The work does not end when the worker dies. The shadow tends without touch.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-280 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIβ-280 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** The Kind Healer’s Shadow
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic

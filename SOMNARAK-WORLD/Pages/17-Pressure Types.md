@@ -10,10 +10,10 @@ Rather than relying on generic physical injury, damage in Somnarak is classified
 +========================================================================+
 | SOMNARAK - PRESSURE AND DAMAGE PHYSICS                                 |
 +------------------------------------------------------------------------+
-| Fundamental Pressures  | Grudge (Red) - Lament (Blue) - Void - Weight  |
+| Fundamental Pressures  | Grudge - Lament - Void - Weight               |
 | Targeted Vital Gauges  | Health (HP) - Sanity (SP) - Max Vitality      |
 | Multiplier Bands       | Ineffective (<0.5) - Endured - Normal - Fatal |
-| Special Mechanics      | Pale Conceptual Scaling (1% Void = 5% Max HP) |
+| Special Mechanics      | Void Conceptual Scaling (1% Void = 5% Max HP) |
 | Mixed Pressure Rule    | Weight damages both HP and SP simultaneously  |
 +========================================================================+
 ```
@@ -26,7 +26,7 @@ Rather than relying on generic physical injury, damage in Somnarak is classified
   - [1.3 Void (Pale White Pressure)](#13-void-pale-white-pressure)
   - [1.4 Weight (Black Pressure)](#14-weight-black-pressure)
 - [2 Resistance Multipliers and Defense Formula](#2-resistance-multipliers-and-defense-formula)
-- [3 Pale Conceptual Scaling: The One Percent Axiom](#3-pale-conceptual-scaling-the-one-percent-axiom)
+- [3 Void Conceptual Scaling: The One Percent Axiom](#3-pale-conceptual-scaling-the-one-percent-axiom)
 - [4 Mixed Damage and Dual-Gauge Depletion](#4-mixed-damage-and-dual-gauge-depletion)
 - [5 Gallery](#5-gallery)
 - [6 See also](#6-see-also)
@@ -76,9 +76,9 @@ The standard damage formula applies:
 | **1.3 to 1.5** | **Vulnerable** | High hazard. Incoming damage is amplified by up to 50%. |
 | **1.6 to 2.0+** | **Exposed** | Lethal vulnerability. Operative can suffer instant death from critical hits. |
 
-## 3 Pale Conceptual Scaling: The One Percent Axiom
+## 3 Void Conceptual Scaling: The One Percent Axiom
 
-The most dangerous mechanic in Somnarak combat physics is **Pale Conceptual Scaling**:
+The most dangerous mechanic in Somnarak combat physics is **Void Conceptual Scaling**:
 - Unlike 🔴 **Grudge** or 🔵 **Lament**, which subtract flat numerical values, ⚪ **Void** damage calculates percentage-based erosion.
 - **The Axiom:** Every 1 point of raw ⚪ **Void** damage inflicts **5% of the target's total Maximum HP**.
 - Therefore, a strike dealing 20 points of unmitigated ⚪ **Void** damage strips exactly 100% of an operative's health, resulting in instantaneous death regardless of whether the operative has 50 HP or 500 HP.

@@ -11,7 +11,7 @@
 | **Coherence** | Sovereign (V) |
 | **Potency** | Catastrophic (ω) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Weight (Black) |
+| **Element** | Weight |
 | **Manifestation** | Hazard-Weight |
 | **Physical Form** | Non-Organic — A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's weight pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight / Black]]** | When the entity first fixes on a target. |
-| { *The Weight Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight weight sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[15 Weight DMG [Weight / Black]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[20 Weight DMG [Weight / Black]]** | When the entity is cornered or starved. |
-| { *The Weight Collapse* [**Ultimate**] } | "The weight breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[17 Weight DMG [Weight / Black] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's weight pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
+| { *The Weight Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight weight sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[15 Weight DMG [Weight]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[20 Weight DMG [Weight]]** | When the entity is cornered or starved. |
+| { *The Weight Collapse* [**Ultimate**] } | "The weight breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -100,7 +100,7 @@
 **Primary Form:** A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
 
 **Notable Features:**
-- Expresses Weight (Black) pressure in a weight register.
+- Expresses Weight pressure in a weight register.
 - The hazard form is unmistakable — this is a weight entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -168,7 +168,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Weapon | **Grade:** ω | **Element:** Weight
 
-**Appearance:** a single-edged blade of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
 
 **Damage:** Weight 8–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels weight weight sorrow in each strike — the weapon does not cut flesh so much as cut at the weight register of the target's grief.
@@ -178,7 +178,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Armor (Suit) | **Grade:** ω | **Element:** Weight
 
-**Appearance:** a flowing veil of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
 **Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,7 +188,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Accessory (Stigma) | **Grade:** ω | **Element:** Weight
 
-**Appearance:** a coin-token of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
@@ -274,7 +274,7 @@ The entity does not rage. It does not weep. It persists — weight and weight, p
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vω-925 [WH]` · City Sorrow origin · Sovereign (V) coherence · Catastrophic (ω) potency · Weight (Black) · Hazard-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vω-925 [WH]` · City Sorrow origin · Sovereign (V) coherence · Catastrophic (ω) potency · Weight · Hazard-Weight manifestation
 
 **Common Name:** Sorrow Mass
 
@@ -289,7 +289,7 @@ The entity does not rage. It does not weep. It persists — weight and weight, p
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the weight register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Weight (Black) · Hazard-Weight · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Weight · Hazard-Weight · Manifestation Classification
 
 ### Registry Addendum
 

@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) — Self-aware and intelligent |
 | **Potency** | Major (γ) — High danger if containment fails |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A massive spider-like being whose body is woven from crystallized memories rather than flesh — translucent, flickering with the stolen faces and voices caught inside it. Eight legs of braided memory-thread; its many eyes are Han-crystal sockets in which thousands of tiny recollections turn endlessly. It is cold, dry, almost weightless, yet drips a thin numb damp wherever a memory dissolves. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Thread* [**Debuff**] } | "It draws a strand from your temple — thin, silver, shimmering — and it is made of a memory you have not thought of in years." | [The Weaver extracts a memory-thread from the target; the recollection is taken.] | *Target suffers a Void mark; a piece of their past is being removed.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Weaver begins to work. |
-| { *The Tapestry of Stolen Pasts* [**Debuff**] } | "Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them." | [The Weaver incorporates the target's thread into its growing tapestry.] | *Target loses clarity; their past is becoming part of someone else's design.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Memory Blade* [**Attack**] } | "It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember." | [A woven memory-thread strikes like a whip.] | *Inflicts Void damage; the cut severs a piece of recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Weaver is disturbed. |
-| { *The Unraveling* [**Attack**] } | "It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once." | [The Weaver releases its complete accumulated tapestry.] | *A heavy Void flood of stolen memories; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Weaver is confronted. |
-| { *The World Tapestry* [**Ultimate**] } | "Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design." | [The Weaver extends its extraction across the whole field.] | *All in range suffer Pale White erosion for three turns of stolen memory.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Thread* [**Debuff**] } | "It draws a strand from your temple — thin, silver, shimmering — and it is made of a memory you have not thought of in years." | [The Weaver extracts a memory-thread from the target; the recollection is taken.] | *Target suffers a Void mark; a piece of their past is being removed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Weaver begins to work. |
+| { *The Tapestry of Stolen Pasts* [**Debuff**] } | "Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them." | [The Weaver incorporates the target's thread into its growing tapestry.] | *Target loses clarity; their past is becoming part of someone else's design.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Memory Blade* [**Attack**] } | "It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember." | [A woven memory-thread strikes like a whip.] | *Inflicts Void damage; the cut severs a piece of recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Weaver is disturbed. |
+| { *The Unraveling* [**Attack**] } | "It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once." | [The Weaver releases its complete accumulated tapestry.] | *A heavy Void flood of stolen memories; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Weaver is confronted. |
+| { *The World Tapestry* [**Ultimate**] } | "Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design." | [The Weaver extends its extraction across the whole field.] | *All in range suffer Void erosion for three turns of stolen memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -201,7 +201,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -219,7 +219,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a mask-charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a mask-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Memory Weaver (C-IVγ-009 [VS]) is logged as a Subject-Dream manifestation expressing Void (Pale White). The Weaver was born from histories erased from the city's record—the sorrow of people removed from collective memory. Held at SECTOR-B-02, Zone B — library of stolen pasts; contained. Standard observation tools miss the Weaver's Dream-layer webs.
+The Memory Weaver (C-IVγ-009 [VS]) is logged as a Subject-Dream manifestation expressing Void. The Weaver was born from histories erased from the city's record—the sorrow of people removed from collective memory. Held at SECTOR-B-02, Zone B — library of stolen pasts; contained. Standard observation tools miss the Weaver's Dream-layer webs.
 
 **Entry 2 — <Excerpt from Field Log, Year 4223>**
 Webs spread through the facility, converting rooms into memory zones. Reality is replaced by the past; personnel cannot distinguish memory from present. The same memory loop may persist for hours with no clear distinction between past and present.
@@ -361,7 +361,7 @@ Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the cit
 > *“The weaver of erased histories, preserving what the city tried to destroy.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-009` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVγ-009` · City origin · Entity (IV) coherence · Major (γ) potency · Void · Subject-Dream manifestation
 **Common Name:** The Memory Weaver
 **Containment Status:** Contained — Archive
 **Comprehension Level:** 3 — Advanced

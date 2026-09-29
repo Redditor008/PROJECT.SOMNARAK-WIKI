@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Wandering Requiem |
 | Set | Carried Threshold |
-| Type / grade / element | Weapon / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Weapon / β — Moderate / Lament |
 | Status | Active; physical return partner required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Specialist Nari Kwon |

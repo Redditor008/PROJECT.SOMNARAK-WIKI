@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A compact two-handed maul of matte black Han-steel whose head hovers a hair above ground. Pale root patterns move toward any person being forced from a chosen place. It formed after the Borrowed Stall was opened rather than assigned as home.
+A compact two-handed maul of matte Weight Han-steel whose head hovers a hair above ground. Pale root patterns move toward any person being forced from a chosen place. It formed after the Borrowed Stall was opened rather than assigned as home.
 
 Binding requires a current anchor and the anchored person’s consent. Without both, the Maul grows heavy enough to age the wielder before the first blow.
 

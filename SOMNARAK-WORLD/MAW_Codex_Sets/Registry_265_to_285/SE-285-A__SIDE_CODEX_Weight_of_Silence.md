@@ -22,7 +22,7 @@
 | Entity | Weight of Silence — 침묵의 무게 |
 | Type / Manifestation | Subject — Subject-Weight |
 | Coherence / Potency | II — Echo / α — Minor |
-| Element | Weight — Black |
+| Element | Weight |
 | Form | An invisible pressure visible as a dark outline bleeding from people who have stopped speaking about a shared event. |
 | Gauge / Pressure | 25–40% / Weight 3–10 |
 | Movement | Drifts at approximately 1.30 m/s through affected groups |
@@ -60,7 +60,7 @@ The entity is lead-cold and wet-stone scented. It attaches to groups whose silen
 
 ### *The Unforced Word*
 
-An echo forms after one affected person speaks voluntarily—or chooses not to—and the team accepts both outcomes without penalty. Black pressure residue may be shaped after the outline recedes.
+An echo forms after one affected person speaks voluntarily—or chooses not to—and the team accepts both outcomes without penalty. Weight pressure residue may be shaped after the outline recedes.
 
 | Piece | Name | Grade | Purpose | Individual Codex |
 |---|---|---:|---|---|

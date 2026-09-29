@@ -11,7 +11,7 @@
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A fruit-shaped presence that exists in consciousness rather than space — perceived as a familiar object returning to a place it could not possibly be. There is no true body; only the felt shape, the impossible return. Bloodless-cold, it smells of ash. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Return* [**Debuff**] } | "You threw the fruit away — and here it is again, in your hand, heavier than before." | [The Fruit returns to the target; the cycle begins anew.] | *Target suffers a Void mark; they cannot get rid of it.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target discards the Fruit. |
-| { *The Compounding Harvest* [**Debuff**] } | "Each time it returns, there are more — two, then four, then eight — and each one is riper." | [The Fruit multiplies with each return; the burden grows.] | *Target loses clarity; the returns are accelerating.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target tries to refuse. |
-| { *The Rotting Return* [**Attack**] } | "The fruit comes back — but this time, it is rotten, and the rot is contagious." | [A decayed returning fruit bursts on impact.] | *Inflicts Void damage; the rot spreads through identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Fruit is crushed. |
-| { *The Infinite Yield* [**Attack**] } | "Every fruit the tree ever produced — returned at once, a mountain of rotting produce." | [The Fruit's complete cycle of returns culminates.] | *A heavy Void avalanche; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the cycle is broken. |
-| { *The Endless Orchard* [**Ultimate**] } | "Fruit appears everywhere — on every surface, in every hand — and none of it can be thrown away." | [The Fruit extends its returns across the whole field.] | *All in range suffer Pale White erosion for three turns of returning fruit.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Return* [**Debuff**] } | "You threw the fruit away — and here it is again, in your hand, heavier than before." | [The Fruit returns to the target; the cycle begins anew.] | *Target suffers a Void mark; they cannot get rid of it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target discards the Fruit. |
+| { *The Compounding Harvest* [**Debuff**] } | "Each time it returns, there are more — two, then four, then eight — and each one is riper." | [The Fruit multiplies with each return; the burden grows.] | *Target loses clarity; the returns are accelerating.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to refuse. |
+| { *The Rotting Return* [**Attack**] } | "The fruit comes back — but this time, it is rotten, and the rot is contagious." | [A decayed returning fruit bursts on impact.] | *Inflicts Void damage; the rot spreads through identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Fruit is crushed. |
+| { *The Infinite Yield* [**Attack**] } | "Every fruit the tree ever produced — returned at once, a mountain of rotting produce." | [The Fruit's complete cycle of returns culminates.] | *A heavy Void avalanche; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the cycle is broken. |
+| { *The Endless Orchard* [**Ultimate**] } | "Fruit appears everywhere — on every surface, in every hand — and none of it can be thrown away." | [The Fruit extends its returns across the whole field.] | *All in range suffer Void erosion for three turns of returning fruit.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a seed-charm of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a seed-charm of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Déjà Vu (C-IVδ-125 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The entity formed from something lost and recovered too late. Held at Zone A, Alpha Tree. The entity sings in consciousness rather than through air.
+Déjà Vu (C-IVδ-125 [VS]) is logged as a Subject-Mind manifestation expressing Void. The entity formed from something lost and recovered too late. Held at Zone A, Alpha Tree. The entity sings in consciousness rather than through air.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through consciousness and shared memory. Personnel feel an absent person or place returning inside them. It is most active near old memories and the Alpha Tree.
@@ -350,7 +350,7 @@ Some sorrows mourn what was lost. Déjà Vu mourns the return — the recovered 
 > *“The fruit carries the mind of the one who remembered it. She got back what she wanted. It was not enough.”* — Mender, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-125 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `C-IVδ-125 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Mind manifestation
 **Common Name:** Déjà Vu
 **Containment Status:** Contained — Alpha Tree
 **Comprehension Level:** 3 — Advanced

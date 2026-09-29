@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) — Personality shaped by origin |
 | **Potency** | Moderate (β) — Manageable with standard precautions |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A hunched humanoid scarcely a meter tall, wrapped in skin so thin and dry it is nearly translucent — the color of old, damp-stained paper — through which the dull white gleam of its bones shows. It has no mouth; its hands are oversized, soft, cold, and faintly sticky, like something that has been handling wet clay. It smells of dust and old ledgers. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *A Taste of What You Owe* [**Debuff**] } | "It takes a small bite of your debt — and a small bite of you with it." | [The Eater samples the target's debts; the taste lingers as a mark.] | *Target suffers a Void nibble; the Eater now knows what they owe.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Eater first fixes on a target. |
-| { *The Swallowing* [**Debuff**] } | "It swallows what you owe — and you feel the absence where it used to be." | [The Eater consumes a portion of the target's debt, leaving a hollow where the weight was.] | *Target loses identity and clarity as part of them is eaten away.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lets the Eater feed. |
-| { *The Hungry Lunge* [**Attack**] } | "It is always hungrier than it looks." | [A sudden lunge — the Eater bites to take what it is owed by force.] | *Inflicts Void damage; a chunk of the target is consumed.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Eater is denied or provoked. |
-| { *The Settling* [**Attack**] } | "All debts, settled in full, now." | [The Eater calls the entire debt due and devours it in one motion.] | *A devastating Void strike; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Eater is cornered or starved. |
-| { *The Devoured Ledger* [**Ultimate**] } | "It opens wide and eats every debt in the room at once." | [The Eater consumes the debts of everyone present, leaving them hollowed.] | *All personnel suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *A Taste of What You Owe* [**Debuff**] } | "It takes a small bite of your debt — and a small bite of you with it." | [The Eater samples the target's debts; the taste lingers as a mark.] | *Target suffers a Void nibble; the Eater now knows what they owe.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Eater first fixes on a target. |
+| { *The Swallowing* [**Debuff**] } | "It swallows what you owe — and you feel the absence where it used to be." | [The Eater consumes a portion of the target's debt, leaving a hollow where the weight was.] | *Target loses identity and clarity as part of them is eaten away.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lets the Eater feed. |
+| { *The Hungry Lunge* [**Attack**] } | "It is always hungrier than it looks." | [A sudden lunge — the Eater bites to take what it is owed by force.] | *Inflicts Void damage; a chunk of the target is consumed.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Eater is denied or provoked. |
+| { *The Settling* [**Attack**] } | "All debts, settled in full, now." | [The Eater calls the entire debt due and devours it in one motion.] | *A devastating Void strike; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Eater is cornered or starved. |
+| { *The Devoured Ledger* [**Ultimate**] } | "It opens wide and eats every debt in the room at once." | [The Eater consumes the debts of everyone present, leaving them hollowed.] | *All personnel suffer Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -201,7 +201,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -219,7 +219,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a scale-pendant of pale Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a scale-pendant of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Debt Eater (C-IIIβ-014 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Debt Eater crystallized from the collective refusal of early Zone B citizens to pay debts imposed by the Collectors. Held at SECTOR-C-01, Zone C — Collector use; contained. Flerehan calms no part of its function, but Viderehan and Ferrehan reduce its gauge.
+The Debt Eater (C-IIIβ-014 [VS]) is logged as a Subject-Body manifestation expressing Void. The Debt Eater crystallized from the collective refusal of early Zone B citizens to pay debts imposed by the Collectors. Held at SECTOR-C-01, Zone C — Collector use; contained. Flerehan calms no part of its function, but Viderehan and Ferrehan reduce its gauge.
 
 **Entry 2 — <Excerpt from Field Log, Year 4216>**
 The creature remains in place; white debt fog fills the containment zone. Personnel feel compelled to surrender Echoes, memories, or years of life. Those with nothing to offer collapse beneath imagined debt. Subjects treated by the Eater report increased empathy and reduced detachment, followed by emotional numbness.
@@ -362,7 +362,7 @@ Some sorrows mourn what was taken. The Debt Eater mourns what was never agreed t
 > *“It does not free anyone. But it persists.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIβ-014 [VS]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIIβ-014 [VS]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void · Subject-Body manifestation
 **Common Name:** The Debt Eater
 **Containment Status:** Contained — Zone C, Collector district
 **Comprehension Level:** 2 — Basic

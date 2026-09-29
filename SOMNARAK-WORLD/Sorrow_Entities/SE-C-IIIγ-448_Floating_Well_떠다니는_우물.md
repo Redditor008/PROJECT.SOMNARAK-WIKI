@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A well-shaped pressure that floats above the Forge floor rather than sitting on the ground, its rim dark crystal, its shaft opening not into earth but into consciousness itself. There is no water — only a descending weight. The air around it is fever-hot and smells of char. |
 | **Movement** | Stationary — a device (internal parts may move). |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hover* [**Debuff**] } | "The well has risen — it floats above the ground, and the water inside defies gravity, climbing." | [The Well lifts; its sorrow-water inverts, raining upward onto the target.] | *Target suffers -10 Resilience; the wrongness of it unsettles.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target approaches the Well. |
-| { *The Upturned Flood* [**Debuff**] } | "The water pours upward — and you are drowning in a flood that falls from below." | [The Well's water reverses; the target is soaked from beneath.] | *Target loses 10 Resilience; they cannot find solid ground.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target lingers beneath the Well. |
-| { *The Whirlpool* [**Attack**] } | "The floating water spirals — and the spiral is aimed at pulling you up into it." | [A vortex of floating sorrow-water seizes the target.] | *Inflicts Crimson pressure and one drowning, spinning wound.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the Well is disturbed. |
-| { *The Inverted Deluge* [**Attack**] } | "The well empties — upward, outward, everywhere at once." | [The Well releases its entire mass in an omnidirectional flood.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the Well is struck. |
-| { *The Sky-Sea* [**Ultimate**] } | "The water reaches the ceiling — and now the whole room is underwater, upside down." | [The Well floods the entire field from above.] | *All personnel suffer Crimson pressure for three turns in the inverted sea.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Hover* [**Debuff**] } | "The well has risen — it floats above the ground, and the water inside defies gravity, climbing." | [The Well lifts; its sorrow-water inverts, raining upward onto the target.] | *Target suffers -10 Resilience; the wrongness of it unsettles.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |
+| { *The Upturned Flood* [**Debuff**] } | "The water pours upward — and you are drowning in a flood that falls from below." | [The Well's water reverses; the target is soaked from beneath.] | *Target loses 10 Resilience; they cannot find solid ground.* **[10 Grudge DMG [Grudge]]** | When the target lingers beneath the Well. |
+| { *The Whirlpool* [**Attack**] } | "The floating water spirals — and the spiral is aimed at pulling you up into it." | [A vortex of floating sorrow-water seizes the target.] | *Inflicts Grudge pressure and one drowning, spinning wound.* **[14-22 Grudge DMG [Grudge]]** | When the Well is disturbed. |
+| { *The Inverted Deluge* [**Attack**] } | "The well empties — upward, outward, everywhere at once." | [The Well releases its entire mass in an omnidirectional flood.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is struck. |
+| { *The Sky-Sea* [**Ultimate**] } | "The water reaches the ceiling — and now the whole room is underwater, upside down." | [The Well floods the entire field from above.] | *All personnel suffer Grudge pressure for three turns in the inverted sea.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -154,7 +154,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Breach Type** | Transform |
 | **Movement** | Floating Well expands beyond containment like a spreading tide. It draws personnel toward its depths. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A crimson fury that burns through containment barriers. |
+| **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -172,7 +172,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that flickers with inner light.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)
@@ -188,7 +188,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -206,7 +206,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a ring of crimson Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a ring of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Well (C-IIIγ-448 [O]) is logged as a Subject-Weight manifestation expressing Grudge (Crimson). The Well formed from sorrow that could not be grounded. Held at Zone D, Forge District. It floats because its sorrow has no ground.
+Floating Well (C-IIIγ-448 [O]) is logged as a Subject-Weight manifestation expressing Grudge. The Well formed from sorrow that could not be grounded. Held at Zone D, Forge District. It floats because its sorrow has no ground.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through the Forge District and follows Han currents. Personnel feel pressure and anger without physical source. It grows heavier around displaced workers.
@@ -344,7 +344,7 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 > *“The Well floats because it is too full to settle.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-448 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-448 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Weight manifestation
 **Common Name:** Floating Well
 **Containment Status:** Contained — Zone D, Forge District (aerial)
 **Comprehension Level:** 2 — Basic

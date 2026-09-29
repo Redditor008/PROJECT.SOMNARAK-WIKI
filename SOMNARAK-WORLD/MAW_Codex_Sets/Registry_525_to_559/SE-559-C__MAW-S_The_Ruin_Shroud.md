@@ -14,7 +14,7 @@
 
 ## IDENTITY & BINDING
 
-A cool deep-blue Han-silk wrapping whose seams resemble cracks in plaster. When Lament strikes, remembered doors move across the cloth without opening. It binds to a listener who can repeat a survivor’s account without replacing first-person words with official language.
+A cool Lament Han-silk wrapping whose seams resemble cracks in plaster. When Lament strikes, remembered doors move across the cloth without opening. It binds to a listener who can repeat a survivor’s account without replacing first-person words with official language.
 
 The Shroud emerged while Haneulash sat beside Souvenir through a complete Flerehan cycle. A bearer who seeks numbness is rejected: the cloth becomes transparent and offers no protection.
 
@@ -32,7 +32,7 @@ The Shroud emerged while Haneulash sat beside Souvenir through a complete Flereh
 
 ## Appearance
 
-The Ruin Shroud is a cool wrapping of deep-blue Han-silk whose seams resemble cracks in plaster — and when Lament strikes, remembered doors move across the cloth without opening. It binds to a listener who can repeat a survivor’s account without replacing first-person words with official language; a bearer seeking numbness is rejected, the cloth turning transparent. In the field its Witness Shelter spreads Lament pressure through the garment as narrated rooms, letting the wearer remain present without claiming the grief — and if the wearer names which details belong to the witness, the Shroud can endure one collapse wave without knockdown. Minor joys lose color while it is active, and residual grief lingers after the figure departs. At three contradictory versions the seam-lines intersect, and the cloth chooses the most emotionally charged account rather than the most accurate and wraps the wearer inside it. In its recorded case a blue cupboard appeared on the Shroud that belonged to neither the survivor’s kitchen nor the wearer’s childhood room — the wearer stopped speaking, had every object corrected, and cut the foreign seam with bare fingers. That cupboard remains the suit’s earliest corrosion marker, appearing whenever a bearer quietly inserts their own nostalgia into testimony.
+The Ruin Shroud is a cool wrapping of Lament Han-silk whose seams resemble cracks in plaster — and when Lament strikes, remembered doors move across the cloth without opening. It binds to a listener who can repeat a survivor’s account without replacing first-person words with official language; a bearer seeking numbness is rejected, the cloth turning transparent. In the field its Witness Shelter spreads Lament pressure through the garment as narrated rooms, letting the wearer remain present without claiming the grief — and if the wearer names which details belong to the witness, the Shroud can endure one collapse wave without knockdown. Minor joys lose color while it is active, and residual grief lingers after the figure departs. At three contradictory versions the seam-lines intersect, and the cloth chooses the most emotionally charged account rather than the most accurate and wraps the wearer inside it. In its recorded case a blue cupboard appeared on the Shroud that belonged to neither the survivor’s kitchen nor the wearer’s childhood room — the wearer stopped speaking, had every object corrected, and cut the foreign seam with bare fingers. That cupboard remains the suit’s earliest corrosion marker, appearing whenever a bearer quietly inserts their own nostalgia into testimony.
 
 ## PROTECTIVE FUNCTION
 

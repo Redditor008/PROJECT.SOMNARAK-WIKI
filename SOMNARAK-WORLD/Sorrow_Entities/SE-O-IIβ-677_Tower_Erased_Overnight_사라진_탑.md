@@ -11,7 +11,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty vertical space where a tower once stood — nothing there, but the air is dense and the skyline bends around the absence as if the tower refuses to leave. Fever-cold, it smells of char; a tower's ghost, made of the hole it left. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Spire* [**Debuff**] } | "The tower is gone — but its shadow, cast on the ground, is still there — enormous, dark, and pointed at you." | [The Tower's phantom shadow marks the target; they feel the absent structure pressing.] | *Target suffers -10 Resilience; the vanished tower is heavy despite not existing.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target enters the shadow. |
-| { *The Void Foundation* [**Debuff**] } | "Where the tower stood, a pit — deep, square, perfectly tower-shaped — and the pit pulls at everything nearby." | [The Tower's absence creates a void that draws things in.] | *Target loses 10 Resilience; the ground is unstable.* **[10 Crimson DMG [Crimson / Grudge]]** | When the target approaches the pit. |
-| { *The Phantom Stone* [**Attack**] } | "A stone from the vanished tower materializes mid-air and falls — from a structure that is not there." | [ A block of ghost-tower drops from above.] | *Inflicts Crimson pressure and one crushing wound from a stone that should not exist.* **[14-22 Crimson DMG [Crimson / Grudge]]** | When the shadow is disturbed. |
-| { *The Full Return* [**Attack**] } | "The tower comes back — all of it, at once, at full height — and the rematerialization is violent." | [The Tower's complete rematerialization releases its stored absence.] | *A heavy Crimson reappearance; the target's Sorrow Gauge surges 15%.* **[24-36 Crimson DMG [Crimson / Grudge]]** | When the absence is forced. |
-| { *The Vanished City* [**Ultimate**] } | "Every tower in the field disappears — and the combined void of absent structures collapses the space." | [The Tower extends its vanishing across the whole area.] | *All in range suffer Crimson pressure for three turns of phantom towers.* **[12-20 Crimson DMG [Crimson / Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Missing Spire* [**Debuff**] } | "The tower is gone — but its shadow, cast on the ground, is still there — enormous, dark, and pointed at you." | [The Tower's phantom shadow marks the target; they feel the absent structure pressing.] | *Target suffers -10 Resilience; the vanished tower is heavy despite not existing.* **[10 Grudge DMG [Grudge]]** | When the target enters the shadow. |
+| { *The Void Foundation* [**Debuff**] } | "Where the tower stood, a pit — deep, square, perfectly tower-shaped — and the pit pulls at everything nearby." | [The Tower's absence creates a void that draws things in.] | *Target loses 10 Resilience; the ground is unstable.* **[10 Grudge DMG [Grudge]]** | When the target approaches the pit. |
+| { *The Phantom Stone* [**Attack**] } | "A stone from the vanished tower materializes mid-air and falls — from a structure that is not there." | [ A block of ghost-tower drops from above.] | *Inflicts Grudge pressure and one crushing wound from a stone that should not exist.* **[14-22 Grudge DMG [Grudge]]** | When the shadow is disturbed. |
+| { *The Full Return* [**Attack**] } | "The tower comes back — all of it, at once, at full height — and the rematerialization is violent." | [The Tower's complete rematerialization releases its stored absence.] | *A heavy Crimson reappearance; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the absence is forced. |
+| { *The Vanished City* [**Ultimate**] } | "Every tower in the field disappears — and the combined void of absent structures collapses the space." | [The Tower extends its vanishing across the whole area.] | *All in range suffer Grudge pressure for three turns of phantom towers.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -207,7 +207,7 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -225,7 +225,7 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a floor-tile of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a floor-tile of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Tower Erased Overnight (O-IIβ-677 [GP]) is logged as a Place-Void manifestation expressing Grudge (Crimson). The Tower formed from a building removed before anyone could say goodbye. Held at Zone B, Old Lament — ambient. The Tower has no physical structure but casts a shadow.
+Tower Erased Overnight (O-IIβ-677 [GP]) is logged as a Place-Void manifestation expressing Grudge. The Tower formed from a building removed before anyone could say goodbye. Held at Zone B, Old Lament — ambient. The Tower has no physical structure but casts a shadow.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 The air becomes thick with unsaid words nearby.
@@ -360,7 +360,7 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 > *“The absence of everything the city took and did not allow the living to grieve.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIβ-677 [GP]` · Grudge (Crimson) · Place-Void manifestation
+**Classification:** Sorrow Entity — `O-IIβ-677 [GP]` · Grudge · Place-Void manifestation
 **Common Name:** Tower Erased Overnight
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic

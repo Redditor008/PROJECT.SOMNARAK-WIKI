@@ -14,7 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
-A warm crimson Han-iron Tail knot with one loop and no second line. Tether granted it after Haneulash helped a worker end waiting without offering a substitute return. Bestowal chance is 5%.
+A warm Grudge Han-iron Tail knot with one loop and no second line. Tether granted it after Haneulash helped a worker end waiting without offering a substitute return. Bestowal chance is 5%.
 
 ## Appearance
 

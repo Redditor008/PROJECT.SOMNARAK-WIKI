@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Binding Chain |
 | Set | Named Obligation |
-| Type / grade / element | Stigma, black link charm / β — Moderate / Weight — Black |
+| Type / grade / element | Stigma, black link charm / β — Moderate / Weight |
 | Slot | Head |
 | Status | Bearer-bound; group-consent use only |
 | Known bearer | Specialist Sooah Park |

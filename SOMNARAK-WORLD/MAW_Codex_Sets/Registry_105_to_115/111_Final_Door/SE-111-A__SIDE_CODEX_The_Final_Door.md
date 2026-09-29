@@ -23,9 +23,9 @@
 | Sorrow Category | City Sorrow |
 | Type / Manifestation | Object/Place, O-Relic — Object-Void |
 | Coherence / Potency | V — Sovereign / δ — Critical |
-| Element | Void — Pale White |
+| Element | Void |
 | Location | SECTOR-A-01, deepest Alpha Tree vault |
-| Form | A massive black Han-crystal slab with no handle, lock, or hinge, sealed before all surviving record. |
+| Form | A massive Weight Han-crystal slab with no handle, lock, or hinge, sealed before all surviving record. |
 | Comprehension Level | 1 — Minimal |
 | M.A.W. Status | No extraction authorized |
 

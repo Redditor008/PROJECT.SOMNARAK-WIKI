@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) — Repeats appearing overnight |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Void (Pale White) |
+| **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A market stall that appears overnight in the abandoned commerce district — wood, cloth, and rusted iron, ordinary-looking, except its shape and inventory change with each appearance and no one is ever tending it. It is bloodless-cold; the goods feel half-remembered, and the air smells of ash. |
 | **Movement** | Stationary — a structure or location. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Stall* [**Debuff**] } | "The stall is still open — but everything in it has been forgotten, including who was selling." | [The Stall radiates abandonment; the target feels the weight of things left behind.] | *Target suffers a Void mark; they are becoming forgotten.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Stall. |
-| { *The Worthless Goods* [**Debuff**] } | "The wares are still here — and they are all the things no one ever wanted to buy." | [The Stall displays unwanted sorrows; the target is compelled to browse.] | *Target loses clarity; the unwanted things call to them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target browses. |
-| { *The Dust Burst* [**Attack**] } | "Years of accumulated neglect, blown into your face." | [A cloud of Stall-dust engulfs the target.] | *Inflicts Void damage; the dust erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Stall is disturbed. |
-| { *The Fire Sale* [**Attack**] } | "Everything must go — and it goes, all at once, straight through you." | [The Stall empties its entire forgotten inventory at the target.] | *A heavy Void avalanche; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Stall is demolished. |
-| { *The Abandoned Market* [**Ultimate**] } | "Every stall in the district is empty — every transaction unfinished, every good unwanted." | [The Stall spreads its abandonment across the field.] | *All in range suffer Pale White erosion for three turns in the empty market.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Empty Stall* [**Debuff**] } | "The stall is still open — but everything in it has been forgotten, including who was selling." | [The Stall radiates abandonment; the target feels the weight of things left behind.] | *Target suffers a Void mark; they are becoming forgotten.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Stall. |
+| { *The Worthless Goods* [**Debuff**] } | "The wares are still here — and they are all the things no one ever wanted to buy." | [The Stall displays unwanted sorrows; the target is compelled to browse.] | *Target loses clarity; the unwanted things call to them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target browses. |
+| { *The Dust Burst* [**Attack**] } | "Years of accumulated neglect, blown into your face." | [A cloud of Stall-dust engulfs the target.] | *Inflicts Void damage; the dust erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Stall is disturbed. |
+| { *The Fire Sale* [**Attack**] } | "Everything must go — and it goes, all at once, straight through you." | [The Stall empties its entire forgotten inventory at the target.] | *A heavy Void avalanche; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Stall is demolished. |
+| { *The Abandoned Market* [**Ultimate**] } | "Every stall in the district is empty — every transaction unfinished, every good unwanted." | [The Stall spreads its abandonment across the field.] | *All in range suffer Void erosion for three turns in the empty market.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -189,12 +189,12 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|---|
 | 10 Seconds | Forgotten Market Stall rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Forgotten Market Stall activates its primary resonance: The Stall manifests and offers impossible goods. Purchased memories may be experienced as if personally lived. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the loss of commerce, community, and the ordinary exchanges that made a life feel real; the bearer begins perceiving echoes of the forgotten market emptied as districts shifted. the merchants' abandoned hopes crystallized into a stall that sells what was lost. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Forgotten Market Stall begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Forgotten Market Stall begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Forgotten Market Stall too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The buyer may acquire a memory that never belonged to them or lose a small personal memory as payment. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Forgotten Market Stall: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone B, Forgotten Market — mobile manifestation, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Forgotten Market Stall: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone B, Forgotten Market — mobile manifestation, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -218,7 +218,7 @@ The escalation pattern is specific to Forgotten Market Stall: it is not a generi
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)
@@ -234,7 +234,7 @@ The escalation pattern is specific to Forgotten Market Stall: it is not a generi
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -252,7 +252,7 @@ The escalation pattern is specific to Forgotten Market Stall: it is not a generi
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small purse of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a small purse of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -309,7 +309,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Market Stall (C-IIα-062 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Stall formed from the grief of merchants whose livelihoods vanished as the city expanded. Held at Zone B, Forgotten Market — mobile manifestation. The Stall cannot be forced to remain after dawn.
+Forgotten Market Stall (C-IIα-062 [VO]) is logged as a Object-Void manifestation expressing Void. The Stall formed from the grief of merchants whose livelihoods vanished as the city expanded. Held at Zone B, Forgotten Market — mobile manifestation. The Stall cannot be forced to remain after dawn.
 
 **Entry 2 — <Excerpt from Field Log, Year 4215>**
 Goods are genuine crystallized memories or Echoes.
@@ -393,7 +393,7 @@ Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary
 > *“The market emptied. The stall remembers what was sold.”* — Elder, Forgotten Market
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIα-062 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void (Pale White) · Object-Void manifestation
+**Classification:** Sorrow Entity — `C-IIα-062 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void · Object-Void manifestation
 **Common Name:** Forgotten Market Stall
 **Containment Status:** Contained — Forgotten Market site
 **Comprehension Level:** 1 — Initial

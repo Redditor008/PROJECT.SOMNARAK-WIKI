@@ -21,14 +21,14 @@
 | **Type** | Weapon — reliquary war sledge |
 | **Category** | UNIQUE (Reliquary Sledge / Memorial Pillar) |
 | **Grade** | δ — Critical |
-| **Element** | Weight — Black |
+| **Element** | Weight |
 | **Maximum Amount** | 2 — Limited |
 | **Echo Cost** | 50 Sorrow Echoes |
 | **Extraction Source** | Authorized tear-crystal, not direct Colossus suppression |
 
 ### Appearance
 
-The Mourning Monument is a massive rectangular war sledge carved from petrified grey tear-crystal and banded in matte black Han-steel. Its head seems too broad for the shaft beneath it, as if the stone remembered the scale of the fallen giant and refused to be downscaled. Its flat, unpolished striking faces are inscribed with thousands of microscopic names of dead construction workers and citizens from collapsed city sectors. A fine, grey memorial ash constantly sheds from the head whenever the weapon is hoisted into combat readiness. Placed on mundane architecture, it crushes floor tiles under its own dormant density; resting upon Colossus tear-formations, it lies weightless. When brought down upon the earth, it produces no metallic impact, but releases a catastrophic seismic tremor that shakes the entire room, forcing enemies to the ground under the unbearable gravitational pull of unacknowledged mourning.
+The Mourning Monument is a massive rectangular war sledge carved from petrified grey tear-crystal and banded in matte Weight Han-steel. Its head seems too broad for the shaft beneath it, as if the stone remembered the scale of the fallen giant and refused to be downscaled. Its flat, unpolished striking faces are inscribed with thousands of microscopic names of dead construction workers and citizens from collapsed city sectors. A fine, grey memorial ash constantly sheds from the head whenever the weapon is hoisted into combat readiness. Placed on mundane architecture, it crushes floor tiles under its own dormant density; resting upon Colossus tear-formations, it lies weightless. When brought down upon the earth, it produces no metallic impact, but releases a catastrophic seismic tremor that shakes the entire room, forcing enemies to the ground under the unbearable gravitational pull of unacknowledged mourning.
 
 ---
 

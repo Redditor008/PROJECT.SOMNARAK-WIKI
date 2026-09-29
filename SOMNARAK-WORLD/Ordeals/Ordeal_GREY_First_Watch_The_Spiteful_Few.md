@@ -49,7 +49,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 8–18 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[8–18 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[8–18 Grudge DMG [Grudge]]**
 
 ### The Scar-Golem (Non-Crystal, Fragment-grade)
 
@@ -73,7 +73,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 18–28 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[18–28 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[18–28 Grudge DMG [Grudge]]**
 
 
 ### The Knuckle-Boxer (Humanoid, Fragment-grade)
@@ -86,7 +86,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 14–22 per hit · Grudge |
 | **Spawn Count** | 3 |
 
-**Ability:** It swings, and scar-hardened knuckles land with old grudge behind them. **[14–22 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It swings, and scar-hardened knuckles land with old grudge behind them. **[14–22 Grudge DMG [Grudge]]**
 
 ### The Blood-Pool (Amorphous, Fragment-grade)
 
@@ -98,7 +98,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 12–18 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It whips a tendril, and the old dried rage lands a wet, heavy blow. **[12–18 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It whips a tendril, and the old dried rage lands a wet, heavy blow. **[12–18 Grudge DMG [Grudge]]**
 
 ### Razor-Vermin (Swarm, Fragment-grade)
 
@@ -110,7 +110,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 6–10 per hit · Grudge |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They swarm, and dozens of small barbed bodies rake a single target. **[6–10 Crimson DMG [Crimson / Grudge]]**
+**Ability:** They swarm, and dozens of small barbed bodies rake a single target. **[6–10 Grudge DMG [Grudge]]**
 
 
 ## Trivia

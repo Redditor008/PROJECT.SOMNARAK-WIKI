@@ -12,7 +12,7 @@
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Grudge (Crimson) |
+| **Element** | Grudge |
 | **Manifestation** | Object-Tale |
 | **Physical Form** | Non-Organic — A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's tale pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge / Crimson]]** | When the entity first fixes on a target. |
-| { *The Tale Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge tale sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[18 Grudge DMG [Grudge / Crimson]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[20 Grudge DMG [Grudge / Crimson]]** | When the entity is cornered or starved. |
-| { *The Tale Collapse* [**Ultimate**] } | "The tale breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[20 Grudge DMG [Grudge / Crimson] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's tale pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
+| { *The Tale Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge tale sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[18 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[20 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
+| { *The Tale Collapse* [**Ultimate**] } | "The tale breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -101,7 +101,7 @@
 **Primary Form:** A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it.
 
 **Notable Features:**
-- Expresses Grudge (Crimson) pressure in a tale register.
+- Expresses Grudge pressure in a tale register.
 - The object form is unmistakable — this is a tale entity, not a general one.
 - Personnel should identify it by these markers before Work or contact.
 
@@ -195,12 +195,12 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 |---|---|---|
 | 10 Seconds | Grimoire rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Grimoire activates its primary resonance: Projects concentrated Grudge sorrow resonance across the immediate perimeter. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Grimoire begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Grimoire begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Grimoire too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Prolonged contact causes cognitive and emotional fatigue. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Grimoire: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Tale form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at SECTOR-C-906, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Grimoire: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Tale form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-C-906, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -224,7 +224,7 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a single-edged blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
 
 **Damage:** Grudge 11–16
 **Speed:** 2 (Normal)
@@ -245,7 +245,7 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a flowing veil of crimson Han-cloth, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -263,7 +263,7 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a coin-token of crimson Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -353,7 +353,7 @@ The entity does not rage. It does not weep. It persists — tale and grudge, pat
 
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-906 [GO]` · City Sorrow origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Object-Tale manifestation
+**Classification:** Sorrow Entity — `C-IIβ-906 [GO]` · City Sorrow origin · Echo (II) coherence · Moderate (β) potency · Grudge · Object-Tale manifestation
 
 **Common Name:** Grimoire
 
@@ -368,7 +368,7 @@ The entity does not rage. It does not weep. It persists — tale and grudge, pat
 - Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the tale register specifically — it is the primary channel of contact.
 
-**Cross-References:** City Sorrow (도한) · Grudge (Crimson) · Object-Tale · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Grudge · Object-Tale · Manifestation Classification
 
 ### Registry Addendum
 

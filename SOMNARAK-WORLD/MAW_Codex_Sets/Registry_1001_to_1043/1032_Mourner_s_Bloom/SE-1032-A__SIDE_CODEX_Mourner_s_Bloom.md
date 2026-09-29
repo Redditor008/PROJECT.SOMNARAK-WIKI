@@ -21,7 +21,7 @@ The Flower formed from one honest moment of mourning. The need for grief to be v
 | Source designation | C-Iα-330 [D] |
 | Type / Manifestation | Subject — Can breach / Object-Lament |
 | Coherence / Potency | Residue (I) — Barely formed, passive / Minor (α) |
-| Element / Location | Lament (Deep Blue) / Zone D, Echo Gardens |
+| Element / Location | Lament / Zone D, Echo Gardens |
 | Gauge / Pressure | 176/176; starts 25–40% / 2–8 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A gardener cried over a lost parent, and a flower grew from the tears. |
@@ -52,7 +52,7 @@ During the The Mourner s Bloom Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Mourner's Bloom's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mourner's Bloom's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Mourner's Bloom's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mourner's Bloom's wound through the operator and triggers the recorded escalation.
 
 ---
 

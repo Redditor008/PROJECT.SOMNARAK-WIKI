@@ -20,7 +20,7 @@ Patrimoine appears as a burst seed whose dark root-tendrils drag a moving hollow
 |---|---|
 | Type / Manifestation | Subject / Place-Void; Object/Place work protocol |
 | Coherence / Potency | III / γ |
-| Element | Weight (Black) |
+| Element | Weight |
 | Location | Zone A, Alpha Tree vault |
 | Gauge / Pressure | 567/567; starts 45–65% / 18–41 Weight |
 | Movement / Resistance | Root-current output; combat speed N/A / 35% Weight, 25% other |

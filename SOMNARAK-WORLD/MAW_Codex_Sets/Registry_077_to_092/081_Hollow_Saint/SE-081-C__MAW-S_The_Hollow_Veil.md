@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Hollow Veil |
 | Set | Hollow Benediction |
-| Type / grade / element | Suit / γ — Major / Void — Pale White |
+| Type / grade / element | Suit / γ — Major / Void |
 | Status | Active; supervised for identity-sensitive work |
 | Maximum amount | 3 — Standard |
 | Current bearer | Handler Soojin |

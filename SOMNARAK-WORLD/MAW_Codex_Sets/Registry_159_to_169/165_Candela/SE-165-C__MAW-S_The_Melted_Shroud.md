@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Melted Shroud |
 | Set | Present Mercy |
-| Type / grade / element | Suit / δ — Critical / Lament — Deep Blue |
+| Type / grade / element | Suit / δ — Critical / Lament |
 | Status | Future-risk oversight issue |
 | Maximum amount | 2 — Limited |
 | Current bearer | Specialist Hanul Grey |

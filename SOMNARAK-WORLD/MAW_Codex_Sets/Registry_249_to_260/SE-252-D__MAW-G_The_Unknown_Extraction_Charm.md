@@ -15,7 +15,7 @@
 
 ## IDENTITY & ORIGIN
 
-A pale Han-glass Neck charm with thirteen blank notches. The sole registered Stigma appeared after an undocumented pre-rule whisper event; the Gate has not bestowed another. Source probability is recorded as 4%, but current contact is forbidden.
+A Void Han-glass Neck charm with thirteen blank notches. The sole registered Stigma appeared after an undocumented pre-rule whisper event; the Gate has not bestowed another. Source probability is recorded as 4%, but current contact is forbidden.
 
 ## Appearance
 

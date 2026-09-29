@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dancing Fang |
 | Set | Unbound Step |
-| Type / grade / element | Weapon / γ — Major / Grudge — Crimson |
+| Type / grade / element | Weapon / γ — Major / Grudge |
 | Status | Active; external-release partner mandatory |
 | Maximum amount | 3 — Standard |
 | Current bearer | Specialist Minho Ashford |

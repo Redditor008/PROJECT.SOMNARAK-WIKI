@@ -11,7 +11,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Grudge (Crimson) / Weight (Black) |
+| **Element** | Grudge / Weight |
 | **Manifestation** | Subject-Wanderer / Silica-Bound |
 | **Physical Form** | Vitrified Bipedal Construct — A towering, emaciated figure made of fused volcanic glass, obsidian flakes, and molten copper slag. Its chest cavity holds a spinning turbine of superheated red sand that emits high-pitched grinding shrieks whenever it faces oncoming storms. |
 | **Movement** | Mobile — Glides across smooth glass sheets at variable speeds (up to 4.5 m/s). |
@@ -62,11 +62,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Sandstorm Flensing* [**Debuff**] } | "A cloud of molten silica blinds the vanguard line." | [The Drifter vents a swirling blast of superheated red glass silt.] | *All targets suffer -20% accuracy and 8 Grudge thermal burn damage.* **[8 Crimson DMG]** | At engagement initiation. |
-| { *Obsidian Caltrops* [**Trap**] } | "The ground turns into an ocean of black razors." | [Sheds razor-sharp vitrified shards across the combat lane.] | *Immobilizes ground units for 1 turn; inflicts 12 Weight damage upon movement.* **[12 Black DMG]** | When target attempts a flanking sprint. |
-| { *Vitrified Ramming* [**Attack**] } | "A streak of fused obsidian strikes the crawler hull like an artillery slug." | [Accelerates across the smooth glass sheet, ramming target directly.] | *Deals heavy kinetic blunt damage and knocks target back 5 meters.* **[18-26 Crimson / Black DMG]** | When distance exceeds 15 meters. |
+| { *Sandstorm Flensing* [**Debuff**] } | "A cloud of molten silica blinds the vanguard line." | [The Drifter vents a swirling blast of superheated red glass silt.] | *All targets suffer -20% accuracy and 8 Grudge thermal burn damage.* **[8 Grudge DMG]** | At engagement initiation. |
+| { *Obsidian Caltrops* [**Trap**] } | "The ground turns into an ocean of black razors." | [Sheds razor-sharp vitrified shards across the combat lane.] | *Immobilizes ground units for 1 turn; inflicts 12 Weight damage upon movement.* **[12 Weight DMG]** | When target attempts a flanking sprint. |
+| { *Vitrified Ramming* [**Attack**] } | "A streak of fused obsidian strikes the crawler hull like an artillery slug." | [Accelerates across the smooth glass sheet, ramming target directly.] | *Deals heavy kinetic blunt damage and knocks target back 5 meters.* **[18-26 Grudge / Weight DMG]** | When distance exceeds 15 meters. |
 | { *Turbine Screech* [**AoE**] } | "The spinning chest core howls with the agony of buried messengers." | [Releases an ultrasonic shockwave of grinding silica sand.] | *All personnel within 10 meters suffer 14 Void Composure erosion.* **[14 Pale DMG]** | When Sorrow Gauge reaches 50%. |
-| { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies; direct strikes deal 24-34 Crimson damage.* **[24-34 Crimson DMG]** | When Sorrow Gauge reaches 80%. |
+| { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies; direct strikes deal 24-34 Grudge damage.* **[24-34 Grudge DMG]** | When Sorrow Gauge reaches 80%. |
 
 ## Comprehension Levels
 

@@ -21,7 +21,7 @@ Not recorded Not recorded
 | Source designation | C-Iα-900 [LS] |
 | Type / Manifestation | Subject — Can breach via Transform / Subject-Tale |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Lament (Deep Blue) / SECTOR-C-900, contained |
+| Element / Location | Lament / SECTOR-C-900, contained |
 | Gauge / Pressure | 406/406; starts 35–50% / 11–23 per hit · Lament |
 | Observation | 1 — Trace |
 | Formation event | Not recorded |
@@ -52,7 +52,7 @@ During the The Vellum Man Source-Trace, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Vellum Man's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Vellum Man's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Vellum Man's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Vellum Man's wound through the operator and triggers the recorded escalation.
 
 ---
 

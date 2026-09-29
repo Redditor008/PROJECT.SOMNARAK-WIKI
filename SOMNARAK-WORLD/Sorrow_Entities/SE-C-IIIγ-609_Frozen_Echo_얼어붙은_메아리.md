@@ -12,7 +12,7 @@
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A heavy, cold crystal object — not shaped into anything familiar, just a dense mass of pale-blue Han-crystal — holding, frozen inside it, an echo of every hand that has touched it, each imprint visible like a fossil. It is salt-damp and smells of cold rain; the echoes stir faintly when approached. |
 | **Movement** | Stationary — a body or drop of liquid. |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Still Air* [**Debuff**] } | "The air goes still — and cold — and you can hear your own grief, preserved in the ice." | [The Echo freezes the air; the target's sorrow is caught mid-feeling.] | *Target suffers -10 Composure; their grief is suspended, aching.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the cold. |
-| { *The Frostbitten Note* [**Debuff**] } | "A sound, half-frozen, reaches you — and the cold travels with it into your chest." | [A preserved echo carries the cold inward; the target chills from within.] | *Target loses 10 Composure; feeling itself begins to numb.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target hears the Echo. |
-| { *The Ice Shard* [**Attack**] } | "A shard of frozen sound breaks off — and it cuts where it is heard." | [A splinter of the frozen echo flies, sharp as crystal.] | *Inflicts Deep Blue pressure and one cold, clean cut.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Echo is struck. |
-| { *The Glacier* [**Attack**] } | "The cold advances — a wall of frozen grief, slow and unstoppable." | [The preserved sorrow advances as a mass of ice-cold lament.] | *A heavy Deep Blue advance; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Echo is thawed or disturbed. |
-| { *The Deep Freeze* [**Ultimate**] } | "Everything goes still — and cold — and nothing will ever move or feel again." | [The Echo freezes the entire field, suspending all grief in ice.] | *All personnel suffer Deep Blue pressure for three turns in the deep freeze.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Still Air* [**Debuff**] } | "The air goes still — and cold — and you can hear your own grief, preserved in the ice." | [The Echo freezes the air; the target's sorrow is caught mid-feeling.] | *Target suffers -10 Composure; their grief is suspended, aching.* **[10 Lament DMG [Lament]]** | When the target enters the cold. |
+| { *The Frostbitten Note* [**Debuff**] } | "A sound, half-frozen, reaches you — and the cold travels with it into your chest." | [A preserved echo carries the cold inward; the target chills from within.] | *Target loses 10 Composure; feeling itself begins to numb.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
+| { *The Ice Shard* [**Attack**] } | "A shard of frozen sound breaks off — and it cuts where it is heard." | [A splinter of the frozen echo flies, sharp as crystal.] | *Inflicts Lament pressure and one cold, clean cut.* **[14-22 Lament DMG [Lament]]** | When the Echo is struck. |
+| { *The Glacier* [**Attack**] } | "The cold advances — a wall of frozen grief, slow and unstoppable." | [The preserved sorrow advances as a mass of ice-cold lament.] | *A heavy Deep Blue advance; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is thawed or disturbed. |
+| { *The Deep Freeze* [**Ultimate**] } | "Everything goes still — and cold — and nothing will ever move or feel again." | [The Echo freezes the entire field, suspending all grief in ice.] | *All personnel suffer Lament pressure for three turns in the deep freeze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -181,12 +181,12 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|---|
 | 10 Seconds | Frozen Echo rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Frozen Echo activates its primary resonance: Projects the emotional history of one former owner. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of carrying everyone else's history without retaining a single owner; the bearer begins perceiving echoes of a relic circulated through refugees and scavengers until their memories froze inside its surface. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Frozen Echo begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The sorrow within Frozen Echo begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Frozen Echo too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may confuse another life with their own. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Frozen Echo: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Frozen Echo: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Frozen Echo: it is not a generic breach ev
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)
@@ -226,7 +226,7 @@ The escalation pattern is specific to Frozen Echo: it is not a generic breach ev
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a shield-backed harness of deep-blue Han-crystal, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a shield-backed harness of Lament Han-crystal, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -244,7 +244,7 @@ The escalation pattern is specific to Frozen Echo: it is not a generic breach ev
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Echo (C-IIIγ-609 [D]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Echo formed from an object passed between too many grieving people. Held at The Desolate, near The Scar. It grows heavier with each new witness.
+Frozen Echo (C-IIIγ-609 [D]) is logged as a Object-Weight manifestation expressing Lament. The Echo formed from an object passed between too many grieving people. Held at The Desolate, near The Scar. It grows heavier with each new witness.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It is cold physically and emotionally.
@@ -380,7 +380,7 @@ Some sorrows are owned. Frozen Echo is a sorrow that lost its owner — or rathe
 > *“It has been everyone’s briefly and no one’s for long.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-609 [LW]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-609 [LW]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Object-Weight manifestation
 **Common Name:** Frozen Echo
 **Containment Status:** Contained — the Desolate, near the Scar
 **Comprehension Level:** 2 — Basic

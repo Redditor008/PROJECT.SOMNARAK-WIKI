@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Returning Lens |
 | Set | Return Without Reclaiming |
-| Type / grade / element | Weapon / δ — Critical / Void — Pale White |
+| Type / grade / element | Weapon / δ — Critical / Void |
 | Status | Restricted current-time anchor issue |
 | Maximum amount | 2 — Limited |
 | Current bearer | Researcher Euncris Park |

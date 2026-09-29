@@ -14,7 +14,7 @@
 
 ## IDENTITY & EXTRACTION
 
-A fast crimson Han-iron fang that quivers between several historical shapes. The current blade appears only after the wielder states where and when they stand. It was extracted after the source relic was received without reinstalling its former civic role.
+A fast Grudge Han-iron fang that quivers between several historical shapes. The current blade appears only after the wielder states where and when they stand. It was extracted after the source relic was received without reinstalling its former civic role.
 
 Binding requires one acknowledged original and a list of active return-copies. A bearer seeking the “truest” historical version feels every old wound reopen.
 

@@ -21,7 +21,7 @@ The Tree formed from the grief of returning to a place that no longer recognized
 | Source designation | C-Iα-869 [LP] |
 | Type / Manifestation | Subject — Can breach / Place-Lament |
 | Coherence / Potency | Residue (I) / Minor (α) |
-| Element / Location | Lament (Deep Blue) / Zone E, Border region |
+| Element / Location | Lament / Zone E, Border region |
 | Gauge / Pressure | 174/174; starts 25–40% / 3–9 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A displaced community returned to its original border settlement and found it transformed beyond recognition. |
@@ -52,7 +52,7 @@ During the The Homecoming Tree Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Homecoming Tree's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Mark the place as changed; do not attempt to restore a false past The set cannot heal the originating event. Misuse routes Homecoming Tree's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Homecoming Tree's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Mark the place as changed; do not attempt to restore a false past The set cannot heal the originating event. Misuse routes Homecoming Tree's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Hollow Sceptre |
 | Set | Hollow Benediction |
-| Type / grade / element | Weapon / γ — Major / Void — Pale White |
+| Type / grade / element | Weapon / γ — Major / Void |
 | Category | MAGIC (Choral Staff / Resonant Sceptre) |
 | Status | Active under identity-boundary supervision |
 | Maximum amount | 3 — Standard |

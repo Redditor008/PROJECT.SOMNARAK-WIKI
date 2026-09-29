@@ -18,7 +18,7 @@
 |---|---|
 | Type | Accessory (Stigma) — miniature lyre |
 | Grade | γ — Major |
-| Element | Lament — Deep Blue |
+| Element | Lament |
 | Slot | Tail |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Hollow Choir source record |

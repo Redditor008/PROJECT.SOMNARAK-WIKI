@@ -19,7 +19,7 @@
 | Entity | Ephemera — 번져가는 잔해 |
 | Type / Manifestation | Subject — Subject-Grudge |
 | Coherence / Potency | I — Residue / α — Minor |
-| Element / Location | Lament — Deep Blue / Desolate, mobile |
+| Element / Location | Lament / Desolate, mobile |
 | Form | A fading humanoid ruin of dust, broken stone, and memories of a settlement losing its last witnesses. |
 | M.A.W. Set | Last Witness |
 

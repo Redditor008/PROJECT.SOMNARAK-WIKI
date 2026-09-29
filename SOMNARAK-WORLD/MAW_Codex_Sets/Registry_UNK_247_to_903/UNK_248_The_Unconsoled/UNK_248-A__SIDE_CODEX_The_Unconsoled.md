@@ -35,7 +35,7 @@ Flerehan synchronizes grief and lowers pressure; Pugnahan forces the Founder’s
 | Entity Type | **Subject** — Drifts the oldest districts; can breach via Transform, only weep |
 | Coherence | Fragment (III) |
 | Potency | Major (γ) |
-| Element | Lament (Deep Blue) |
+| Element | Lament |
 | Manifestation | Subject-Phantasmal |
 | Location | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
 | R.D. Comprehension Level | 3 — Elevated |

@@ -54,7 +54,7 @@ The first Veil condensed on acoustic baffling after a Ferrehan team endured Levi
 | Field | Record |
 |---|---|
 | Type | Armor — veil suit |
-| Grade / element | β — Moderate / Void — Pale White |
+| Grade / element | β — Moderate / Void |
 | Maximum amount | 4 — stocked for qualified removal teams |
 | Echo cost | 20 Sorrow Echoes |
 | Operational cost | Progressive self-absence while enclosed |

@@ -11,7 +11,7 @@
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
-| **Element** | Lament (Deep Blue) |
+| **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A faint humanoid made from dust, broken stone, and fading memories of a ruined Desolate settlement — barely holding its shape, always about to blow away. Salt-damp, it smells of cold rain; a place that died, walking. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Translucence* [**Debuff**] } | "You can see through your own hand — and the Ruin knows the feeling well." | [The Ruin's entropy touches the target; they begin to thin.] | *Target suffers -10 Composure; they are becoming less present.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target enters the Ruin. |
-| { *The Last Outline* [**Debuff**] } | "Barely there — a sketch of a person where a person used to be." | [The fading deepens; the target is a ghost of themselves.] | *Target loses 10 Composure; reality forgets them.* **[10 Deep Blue DMG [Deep Blue / Lament]]** | When the target remains in the Ruin. |
-| { *The Ghost Blow* [**Attack**] } | "A hand you can almost see through strikes — and the almost is enough." | [A half-present blow from the fading Ruin.] | *Inflicts Deep Blue pressure and one cold, uncertain wound.* **[14-22 Deep Blue DMG [Deep Blue / Lament]]** | When the Ruin is addressed. |
-| { *The Final Fade* [**Attack**] } | "The ruin shows you its last moment — the instant before it was gone for good." | [The Ruin nearly vanishes, pulling the target toward the same edge.] | *A heavy Deep Blue drain; the target's Sorrow Gauge surges 15%.* **[24-36 Deep Blue DMG [Deep Blue / Lament]]** | When the Ruin is struck. |
-| { *Vanished* [**Ultimate**] } | "Now no one is here. Now everyone is the ruin." | [The Ruin spreads its fading across the entire field.] | *All in range suffer Deep Blue pressure for three turns as they thin.* **[12-20 Deep Blue DMG [Deep Blue / Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Translucence* [**Debuff**] } | "You can see through your own hand — and the Ruin knows the feeling well." | [The Ruin's entropy touches the target; they begin to thin.] | *Target suffers -10 Composure; they are becoming less present.* **[10 Lament DMG [Lament]]** | When the target enters the Ruin. |
+| { *The Last Outline* [**Debuff**] } | "Barely there — a sketch of a person where a person used to be." | [The fading deepens; the target is a ghost of themselves.] | *Target loses 10 Composure; reality forgets them.* **[10 Lament DMG [Lament]]** | When the target remains in the Ruin. |
+| { *The Ghost Blow* [**Attack**] } | "A hand you can almost see through strikes — and the almost is enough." | [A half-present blow from the fading Ruin.] | *Inflicts Lament pressure and one cold, uncertain wound.* **[14-22 Lament DMG [Lament]]** | When the Ruin is addressed. |
+| { *The Final Fade* [**Attack**] } | "The ruin shows you its last moment — the instant before it was gone for good." | [The Ruin nearly vanishes, pulling the target toward the same edge.] | *A heavy Deep Blue drain; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Ruin is struck. |
+| { *Vanished* [**Ultimate**] } | "Now no one is here. Now everyone is the ruin." | [The Ruin spreads its fading across the entire field.] | *All in range suffer Lament pressure for three turns as they thin.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -195,7 +195,7 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,7 +213,7 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a brick-tile of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a brick-tile of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Ephemera (O-Iα-189 [LS]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The Ruin formed from a settlement remembered by fewer people each year. Held at The Desolate — mobile. It fades in strong daylight and reforms after dusk.
+Ephemera (O-Iα-189 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Ruin formed from a settlement remembered by fewer people each year. Held at The Desolate — mobile. It fades in strong daylight and reforms after dusk.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through the Desolate following old settlement routes. Personnel feel a place disappearing beneath memory. It is clearer to survivors than to outsiders.
@@ -348,7 +348,7 @@ Some sorrows mourn destruction. Ephemera mourns the forgetting — the place tha
 > *“The place disappearing not because it was demolished but because the last minds holding it are dying.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-Iα-189 [LS]` · Lament (Deep Blue) · Subject-Grudge manifestation
+**Classification:** Sorrow Entity — `O-Iα-189 [LS]` · Lament · Subject-Grudge manifestation
 **Common Name:** Ephemera
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial

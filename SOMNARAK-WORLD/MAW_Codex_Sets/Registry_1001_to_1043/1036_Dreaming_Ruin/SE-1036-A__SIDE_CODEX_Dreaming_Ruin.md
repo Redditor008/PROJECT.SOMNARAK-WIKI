@@ -21,7 +21,7 @@ The Ruin formed from a home remembered after it was destroyed. The pain of retur
 | Source designation | N-IIIγ-505 [VS] |
 | Type / Manifestation | Subject — Can breach / Subject-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
-| Element / Location | Void (Pale White) / Zone C, Mask Market |
+| Element / Location | Void / Zone C, Mask Market |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A household was lost, but its former residents continued dreaming of the rooms. |
@@ -52,7 +52,7 @@ During the The Dreaming Ruin Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Dreaming Ruin's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Wake with an anchor and preserve the memory without rebuilding it The set cannot heal the originating event. Misuse routes Dreaming Ruin's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dreaming Ruin's source condition, the Suit lets a witness bear its Void pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Wake with an anchor and preserve the memory without rebuilding it The set cannot heal the originating event. Misuse routes Dreaming Ruin's wound through the operator and triggers the recorded escalation.
 
 ---
 
