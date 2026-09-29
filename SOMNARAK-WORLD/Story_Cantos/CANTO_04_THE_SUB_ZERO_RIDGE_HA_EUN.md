@@ -152,7 +152,7 @@ It manifested as a colossal, translucent curtain of weeping ice—a towering fem
 
 ```text
 +=====================================================================+
-|                CONTAINMENT BREACH: CRYOGENIC PROFILE                |
+|                CELL BREACH: CRYOGENIC PROFILE                       |
 +---------------------------------------------------------------------+
 | ENTITY       : SE-C-IVd-103 (The Frozen Veil / Rank IV Entity)      |
 | POTENCY      : Critical Potency d / Element: Void      |

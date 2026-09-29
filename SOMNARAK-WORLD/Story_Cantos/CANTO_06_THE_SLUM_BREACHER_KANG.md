@@ -128,7 +128,7 @@ The mask had no features—only a deep, sucking void of pure black stone that se
 
 ```text
 +=====================================================================+
-|                 CONTAINMENT BREACH: HOLLOW PROFILE                  |
+|                 CELL BREACH: HOLLOW PROFILE                         |
 +---------------------------------------------------------------------+
 | ENTITY       : SE-C-IIβ-054 (The Empty Mask / Indumentum Relic)     |
 | HOST         : Underboss Jin-Woo (Affiliation: The Rust Frays)      |

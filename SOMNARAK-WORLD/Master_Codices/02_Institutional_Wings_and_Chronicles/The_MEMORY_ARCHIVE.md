@@ -823,7 +823,7 @@ On Day 366 of the final cycle, following the activation of the Absolvohan device
 Unlike the Reverie Directorate, which encloses Sorrow Entities in reinforced containment cells subjected to daily extraction work, the Memory Archive utilizes **Codex Binding (서책 봉인)**:
 - When a dangerous Sorrow Entity is captured or placated, its psychological engram is extracted using specialized silver quills and inscribed into a specially treated vellum volume.
 - As long as the codex remains closed and clamped with its adamantine lock, the entity remains in tranquil psychic stasis, experiencing an eternal, peaceful dream.
-- Should the book be opened by an unauthorized reader, the entity's emotional resonance begins to leak into the room, manifesting visual and acoustic hallucinations that escalate into physical containment breach if not closed within three minutes.
+- Should the book be opened by an unauthorized reader, the entity's emotional resonance begins to leak into the room, manifesting visual and acoustic hallucinations that escalate into physical cell breach if not closed within three minutes.
 
 ### 9.2 The Archival Reading Protocols for Researchers
 Researchers from the Reverie Directorate, the Exploration Decree, and the Horizon Caravan may consult living codices under strict custodial supervision:
@@ -883,7 +883,7 @@ Working within the Memory Archive carries unique psychological hazards:
 | bedrock.                                                            |
 | YEAR 0001 : The Consolihan established; surface city of Somnarak    |
 | founded.                                                            |
-| CYCLE 0001  : First Containment Breach; Yeon-seo mortally wounded.  |
+| CYCLE 0001  : First Cell Breach; Yeon-seo mortally wounded.         |
 | CYCLE 0002 : Majin synthesizes Seiyon; 1,778 consecutive resets     |
 | begin.                                                              |
 | CYCLE 0412 : Incident M-001 (The Great Ink Flood); cryo-locks       |

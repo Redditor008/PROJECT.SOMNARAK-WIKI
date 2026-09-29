@@ -1,4 +1,4 @@
-# SCENARIO 02 — Facility 01 Floor 2 Containment Breach Suppression
+# SCENARIO 02 — Facility 01 Floor 2 Cell-Breach Suppression
 ## Tactical Engagement Record: The Smothering Mother Suppression
 ### Canonical Tactical Scenario — SOP-GB-SCENARIO-002
 

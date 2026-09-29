@@ -66,7 +66,7 @@ _The silence returns, but its texture has changed. The cold, mechanical hum of t
 
 > **Majin:** _"The Council of Sighs is an assembly of terrified morticians trying to embalm a dying world. We are done embalming, Seiyon. We stop containing. We start extracting."_
 
-> **Seiyon:** _"Director... aggressive extraction protocols elevate containment breach probability by 340%. The entities will not endure the emotional siphoning quietly. Their psychic pressure will fracture their cells. The acoustic strain will rupture the ward seals. The specialists on the floor will die in numbers we have never recorded."_
+> **Seiyon:** _"Director... aggressive extraction protocols elevate cell breach probability by 340%. The entities will not endure the emotional siphoning quietly. Their psychic pressure will fracture their cells. The acoustic strain will rupture the ward seals. The specialists on the floor will die in numbers we have never recorded."_
 
 > **Majin:** _"The specialists die anyway, Seiyon! In every cycle, they bleed in those hallways, lose their minds to the whispering walls, die in agony, and wake up on Day Zero with blank eyes, whistling while they lace their boots because they cannot remember that they died twelve hours ago! I die! You reset! The thousand souls choking on black tar in the Maw continue to drown in silence! I have directed this tragic play one thousand seven hundred and seventy-seven times. I know every cue. I know every scream. Today, we tear up the script."_
 

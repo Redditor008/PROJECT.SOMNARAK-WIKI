@@ -272,7 +272,7 @@ A massive subterranean dampening engine that radiates continuous harmonic waves 
 Mounted in the structural ceiling and floor of each departmental sector (Floors 2 through 8). When an Echo-Core undergoes cognitive saturation and fractures into a **Core Crisis (핵 위기)**, these rings activate, isolating the department behind spatial dampening barriers. This confines the trauma resonance within the floor, enabling the Director and suppression teams to engage and pacify the department lead to achieve **Departmental Realization**.
 
 ##### 5. Sorrow Gauges & Multi-Spectral Resonance Scanners
-Standard diagnostic consoles deployed at every containment cell and agent terminal. Sorrow Gauges calculate real-time Han saturation, emotional pressure, and Work Type affinity (Flerehan, Pugnahan, Viderehan, Ferrehan), warning supervisors seconds before an entity reaches containment breach thresholds.
+Standard diagnostic consoles deployed at every containment cell and agent terminal. Sorrow Gauges calculate real-time Han saturation, emotional pressure, and Work Type affinity (Flerehan, Pugnahan, Viderehan, Ferrehan), warning supervisors seconds before an entity reaches cell breach thresholds.
 
 ---
 

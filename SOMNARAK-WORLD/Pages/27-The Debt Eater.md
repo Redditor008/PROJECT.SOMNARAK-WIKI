@@ -92,7 +92,7 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 1. Work performed with 💧 **Flerehan**  [플레레한]  (_Pellerehan_) yielded the highest rate of positive resonance. The entity visibly relaxes its posture when personnel acknowledge historical grievances.
 2. Operatives assigned to 👁 **Viderehan**  [비데레한]  (_Biderehan_) must maintain at least Level II Clarity. Novice personnel often experience mild ⚪ **Void** erosion from staring directly into the open throat aperture.
 3. If an operative with Composure below Level II conducts work, the result is consistently **Bad**, triggering an immediate 15% increase to the Sorrow Gauge.
-4. When the Sorrow Gauge crosses 60%, the entity initiates a containment breach. Corridors must be cleared of civilian auxiliaries immediately to prevent mass debt-harvesting.
+4. When the Sorrow Gauge crosses 60%, the entity initiates a cell breach. Corridors must be cleared of civilian auxiliaries immediately to prevent mass debt-harvesting.
 5. Under no circumstances should an operative carrying [The Debt Scale](30-The%20Debt%20Scale.md) enter Sector C-01 while The Debt Eater's gauge is above 40%. The resulting feedback immediately triggers a simultaneous breach and overload.
 6. During suppression, spread operatives across both corridor wings. The entity fixates on a single target at a time, so a lone bait with high Composure can kite it while flanking squads strike safely.
 7. After re-boxing, the first work session within 30 seconds gains +15% success rate. Exploit this calm window with a Level III 💧 **Flerehan** specialist to push the gauge back below 20%.

@@ -40,7 +40,7 @@ Each color spectrum manifests across four chronological phases during an operati
    - Heavy construct invasions; wide-area psychological disruption.
    - 3 entities per color spectrum.
 4. **Tide Watch (만조감시):**
-   - Cataclysmic apex incursions; facility-wide containment breach hazards.
+   - Cataclysmic apex incursions; facility-wide cell breach hazards.
    - 3 apex entities per color spectrum.
 
 ---

@@ -2314,7 +2314,7 @@ Tactical response execution:
 2. Specialist Kang stabilizes Chamber 002 (*The Colossus of Sorrow*) with 18.2 seconds remaining.
 3. Specialist Seo clears Chamber 115 (*The Memory Well*).
 4. Specialist Hong calms Chamber 081 (*The Hollow Saint*).
-5. All six overloads neutralized with zero containment breach.
+5. All six overloads neutralized with zero cell breach.
 
 ##### Tactical Engagement / Ordeal Suppression: The Horizon of Hope (Ashen Tide Watch)
 

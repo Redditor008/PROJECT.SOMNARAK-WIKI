@@ -55,7 +55,7 @@ Every operational run of the Absolvohan facility spans an exact **366-day tempor
 
 1. **The Quota Imperative:** The facility must accumulate **50.000 metric tons** of refined, crystalline Han across the cycle to power the Transmutation Chamber.
 2. **Structural Equilibrium:** As the mass of contained Han grows, the facility's **Reality Ballast** deteriorates under the crushing gravitational weight of the sorrow.
-3. **The Cycle Reset Condition:** If the structural ballast collapses below the critical 15.0% threshold, or if catastrophic multi-floor containment breach occurs, the Mnemonic Generator executes an immediate emergency temporal rewind to **Day 0**.
+3. **The Cycle Reset Condition:** If the structural ballast collapses below the critical 15.0% threshold, or if catastrophic multi-floor cell breach occurs, the Mnemonic Generator executes an immediate emergency temporal rewind to **Day 0**.
 4. **Memory Dynamics:**
    - **Director Majin:** Retains cumulative operational memory across cycles via the synchronized *Mnemonic Anchor*.
    - **Echo-Core Attendants:** Experience partial mnemonic dampening; emotional scars and trauma echoes bleed through cycles but explicit memory is suppressed until Realization.

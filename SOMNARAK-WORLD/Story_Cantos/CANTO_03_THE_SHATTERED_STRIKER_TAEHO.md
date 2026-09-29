@@ -120,7 +120,7 @@ The descent into the lower drainage culverts was like wading through black molas
 
 At negative one hundred and eighty meters, the ambient atmospheric pressure surged from two atmospheres to nearly six. The air was thick, humid, smelling of stagnant gutter sludge, rust flakes, and the sour, metallic stench of dried human sweat. Every step required three times the normal expenditure of muscle power; the soles of their combat boots stuck to the steel floorplates as if magnetized by an invisible subterranean lodestone.
 
-"Containment breach confirmed in Sub-Vault 19!"
+"Cell breach confirmed in Sub-Vault 19!"
 
 Sensor Tech Jinho (  진호  ) was struggling to keep up, his lightweight acoustic sensors recalibrated for gravitational shear flux. "The entity broke through the reinforced municipal debt vaults below Collector's Row! It is riding the ancestral ledgers stored in the municipal tax archives! The local Weight (  무게  ) coefficient is climbing past four hundred percent!"
 
@@ -139,7 +139,7 @@ As the squad entered, the entity's hollow chest opened.
 
 ```text
 +=====================================================================+
-|              CONTAINMENT BREACH: GRAVITATIONAL PROFILE              |
+|              CELL BREACH: GRAVITATIONAL PROFILE                     |
 +---------------------------------------------------------------------+
 | ENTITY       : SE-N-IVb-019 (The Inherited Debt / Rank IV Entity)   |
 | CLASSIFICATN : Inner Sorrow (Subject-Mind) / Element: Weight        |

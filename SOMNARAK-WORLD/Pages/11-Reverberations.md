@@ -14,7 +14,7 @@ During a Reverberation, the director's psychological insulation fractures, causi
 | Prerequisite Criteria  | Completion of 4 Departmental Missions         |
 | Layer Unlocks          | Shallow (Day 21+) - Middle (36+) - Deep (41+) |
 | Environmental Hazards  | Generator Shutdown & Cognitive Handicaps      |
-| Permanent Clearance    | Meltdown Immunity & Cognition Filter Lowered  |
+| Permanent Clearance    | Meltdown Immunity & Glamour Lowered           |
 +========================================================================+
 ```
 
@@ -32,7 +32,7 @@ During a Reverberation, the director's psychological insulation fractures, causi
   - [3.7 Deep Vault Meltdown (Lead Marjuk)](#37-deep-vault-meltdown-lead-marjuk)
   - [3.8 Shadow Corps Meltdown (Lead Ishall)](#38-shadow-corps-meltdown-lead-ishall)
   - [3.9 Gate Watch Meltdown (Lead Xyan)](#39-gate-watch-meltdown-lead-xyan)
-- [4 Permanent Rewards and Cognition Filter](#4-permanent-rewards-and-cognition-filter)
+- [4 Permanent Rewards and Glamour](#4-permanent-rewards-and-glamour)
 - [5 Gallery](#5-gallery)
 - [6 See also](#6-see-also)
 
@@ -81,18 +81,18 @@ Core Realizations are divided across the facility's vertical strata and become a
 ### 3.9 Gate Watch Meltdown (Lead Xyan)
 - **Handicap:** *Abyss Rupture* — The subterranean boundary fractures, summoning continuous waves of Maw horrors and requiring simultaneous suppression across all eight descending levels.
 
-## 4 Permanent Rewards and Cognition Filter
+## 4 Permanent Rewards and Glamour
 
 Successfully subduing an Echo-Core permanently stabilizes the department:
 - **Permanent Meltdown Immunity:** The cleared department will never again be targeted by random environmental meltdowns during future shifts.
 - **Passive Departmental Boon:** Unlocks permanent facility-wide perks (e.g. +5 Maximum HP/SP for all staff, +10% Lumen yield, or +10% Movement Speed).
-- **Lowering of the Cognition Filter:** The heavy holographic filter that disguises the Echo-Core as an abstract machine or armored construct is lowered, revealing their true, fragile human form and unlocking their canonical story logs.
+- **Lowering of the Glamour:** The heavy holographic glamour that disguises the Echo-Core as an abstract machine or armored construct is lowered, revealing their true, fragile human form and unlocking their canonical story logs.
 
 ## 5 Gallery
 
 [![Core Realization Alert](images/core-realization-alert.svg)](images/core-realization-alert.svg)
 [![Mellda Manifestation](images/mellda-manifestation.svg)](images/mellda-manifestation.svg)
-[![Cognition Filter Lowered](images/cognition-filter-lowered.svg)](images/cognition-filter-lowered.svg)
+[![Glamour Lowered](images/glamour-lowered.svg)](images/glamour-lowered.svg)
 
 *Left: Core Realization alarm interface; Center: Lead Mellda in combat form; Right: Echo-Core true human revelation.*
 ---

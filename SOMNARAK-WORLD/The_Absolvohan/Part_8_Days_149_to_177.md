@@ -1379,7 +1379,7 @@ Zyrak looks at his new tungsten arm, glistening under the amber lamps: *"I spent
 
 ### Day Narrative — Operational Shift Log
 
-The long-dreaded twelfth blessing occurs on Day 155—not through accident or containment breach, but through the deliberate, courageous sacrifice of Research Lead Ayshuk. Recognizing that the apostolic chain required a conscious bridge between human grief and Echo-Core architecture, Ayshuk entered Chamber 15 and offered her hand to the entity.
+The long-dreaded twelfth blessing occurs on Day 155—not through accident or cell breach, but through the deliberate, courageous sacrifice of Research Lead Ayshuk. Recognizing that the apostolic chain required a conscious bridge between human grief and Echo-Core architecture, Ayshuk entered Chamber 15 and offered her hand to the entity.
 
 As the twelfth golden halo sealed around Ayshuk's forehead, the porcelain shell of SE-C-IIIβ-015 shattered into a blinding vortex of warm amber light. The apocalyptic sovereign *The Dawn of Mourning* did not manifest. 
 

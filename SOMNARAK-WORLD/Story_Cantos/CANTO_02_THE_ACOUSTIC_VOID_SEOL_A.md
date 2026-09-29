@@ -157,7 +157,7 @@ Then, the stage began to sing.
 
 ```text
 +=====================================================================+
-|              CONTAINMENT BREACH: HARMONIC SPECTROGRAM               |
+|              CELL BREACH: HARMONIC SPECTROGRAM                      |
 +---------------------------------------------------------------------+
 | ENTITY       : SE-C-IIIg-021 (The Hollow Choir / Rank III Fragment) |
 | ACTIVE CHORUS: 144 Ethereal Harmonic Vocal Nodes                    |

@@ -31,7 +31,7 @@ Each Echo-Core governs a designated floor, issuing [Operations](13-Operations.md
   - [2.7 Lead Marjuk (Floor 7: Deep Vault)](#27-lead-marjuk-floor-7-deep-vault)
   - [2.8 Lead Ishall (Floor 8: Shadow Corps)](#28-lead-ishall-floor-8-shadow-corps)
   - [2.9 Lead Xyan (Central: Gate Watch)](#29-lead-xyan-central-gate-watch)
-- [3 The Cognition Filter and Disguise Construct](#3-the-cognition-filter-and-disguise-construct)
+- [3 The Glamour and Disguise Construct](#3-the-glamour-and-disguise-construct)
 - [4 Core Meltdowns and Stratum Realizations](#4-core-meltdowns-and-stratum-realizations)
 - [5 Gallery](#5-gallery)
 - [6 See also](#6-see-also)
@@ -108,9 +108,9 @@ An Echo-Core is not merely an administrator; it is a metaphysical ballast:
 - **Signature Weapon:** *Abyss Cleaver* (Void).
 - **Core Handicap:** *Abyss Rupture* — Summons continuous waves of subterranean horrors across all floors.
 
-## 3 The Cognition Filter and Disguise Construct
+## 3 The Glamour and Disguise Construct
 
-To preserve the composure of human Wardens, the facility employs a heavy **Cognition Filter**:
+To preserve the composure of human Wardens, the facility employs a heavy **Glamour**:
 - The filter renders the Echo-Cores as stylized, geometric, or robotic avatars.
 - This prevents the Warden from recognizing the agonizing biological machinery and human suffering underlying the core chambers.
 - Successfully stabilizing an Echo-Core permanently disables its filter, revealing their genuine human visage.
@@ -124,7 +124,7 @@ When an Echo-Core reaches emotional collapse, the department enters a **Reverber
 ## 5 Gallery
 
 [![Echo-Core Council Chamber](images/echo-core-council-chamber.svg)](images/echo-core-council-chamber.svg)
-[![Cognition Filter Interface](images/cognition-filter-interface.svg)](images/cognition-filter-interface.svg)
+[![Glamour Interface](images/glamour-interface.svg)](images/glamour-interface.svg)
 [![Core Realization](images/core-realization-realization.svg)](images/core-realization-realization.svg)
 
 *Left: council of the nine directors; Center: holographic filter display; Right: Stratum Realization combat.*

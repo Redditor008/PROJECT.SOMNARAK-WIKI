@@ -96,7 +96,7 @@ From the deepest strata of Vault 09—where the unclassified records of the firs
 
 The air smelled of dry parchment, formaldehyde, and the chilling void of absolute forgetfulness.
 
-"Containment breach," Seiyon whispered, her optical sensors dilating. "Vault 09 has unsealed. The Weaver has awakened."
+"Cell breach," Seiyon whispered, her optical sensors dilating. "Vault 09 has unsealed. The Weaver has awakened."
 
 ---
 
@@ -140,7 +140,7 @@ It was an immense, arachnid horror thirty feet across, whose exoskeleton was cra
 
 ```text
 +=====================================================================+
-|                CONTAINMENT BREACH: COGNITIVE PROFILE                |
+|                CELL BREACH: COGNITIVE PROFILE                       |
 +---------------------------------------------------------------------+
 | ENTITY       : SE-C-IVg-009 (The Memory Weaver / Rank IV Entity)    |
 | CLASSIFICATN : City Sorrow (Subject-Dream) / Element: Void   |

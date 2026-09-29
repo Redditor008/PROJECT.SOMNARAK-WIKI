@@ -88,7 +88,7 @@ Work Ticks:
 - Tick 6–10: 5 Successes! Kim gently folds the edge of the shawl back into the crib.
 - **Final Result: 9/10 Positive Han Yield (EXCELLENT WORK RESULT).**
 
-Containment breach counter increments from 2 to 3! +0.026 tons of pure Han deposited. Facility total: `0.026 / 0.140 tons`. Meltdown gauge: `1/5`.
+Cell breach counter increments from 2 to 3! +0.026 tons of pure Han deposited. Facility total: `0.026 / 0.140 tons`. Meltdown gauge: `1/5`.
 
 ##### Work Session 2: Viderehan Observation on SE-031 (The Observing Bird)
 Majin issues observation order for Chamber 031:
@@ -2173,7 +2173,7 @@ Six containment cells in simultaneous overload! If multiple cells breach, the 50
 2. **FOUR-SIGN AEGIS**: Deployed around Chamber 015 (*The Kind Healer*), freezing its countdown.
 3. **All Specialists Surge**: Specialist Kim enters 005, Specialist Bae enters 055, Specialist Song enters 088, and Specialist Hwang rushes 015!
 
-In a breathless 30-second coordinated sweep, all six cells are cleared without a single containment breach! The facility breathes a collective sigh of relief.
+In a breathless 30-second coordinated sweep, all six cells are cleared without a single cell breach! The facility breathes a collective sigh of relief.
 
 ##### Ordeal Manifestation: The Tide Herald — First Glimpse of the Sovereign Watch
 At 0.205 tons harvested, the lights across the vertical spine cut to complete darkness. A deep, subterranean bell tolls from beneath Floor 8:

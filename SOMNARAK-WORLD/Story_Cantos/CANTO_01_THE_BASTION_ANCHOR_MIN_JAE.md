@@ -97,7 +97,7 @@ The sirens in Sector 4 did not wail; they groaned.
 
 Deep, acoustic resonance klaxons installed in the basalt arches emitted a pulsing 80-decibel drone that vibrated inside the chest cavity. Yellow emergency strobes cut through the haze of pulverized stone dust that poured from the ceiling expansion joints. Across the catwalks, red containment runes flashed furiously along the conduit conduits:
 
-`[ALERT: SECTOR 4 PRIMARY CONTAINMENT BREACH — CELL 08 COMPOSURE 0% — CODE RED]`
+`[ALERT: SECTOR 4 PRIMARY CELL BREACH — CELL 08 COMPOSURE 0% — CODE RED]`
 
 Min-Jae sprinted down the access stairs, his steel-toed boots ringing against the iron grating. The shield was locked to his left forearm, its weight shifting with familiar inertia as he moved. Behind him, Taeho ran with his twin cleavers already drawn, the polished edges catching the amber strobe light, while Seol-A held her brass siphon rig close to her chest, her sensory needles humming in their leather bandolier.
 

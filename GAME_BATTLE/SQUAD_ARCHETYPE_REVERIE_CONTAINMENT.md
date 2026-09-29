@@ -212,7 +212,7 @@ To optimize the cadre's combat efficiency, the Reverie Directorate authorizes at
 
 ---
 
-## 7. Containment Breach Standard Operating Protocols
+## 7. Cell-Breach Standard Operating Protocols
 
 1. **Protocol Delta (Tectonic Megafauna):** Prioritize freezing movement via Cryo-Anchor before closing into melee. Never allow a megafauna sovereign to occupy Nodes `[N01]` to `[N03]`.
 2. **Protocol Epsilon (Object-Void Hazards):** Vanguard Shield and Core Striker must deploy blunt shock weaponry to shatter specular glass panes while Acoustic Siphon shields the squad against cognitive dissociation.
