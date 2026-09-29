@@ -2,47 +2,122 @@
 
 > *“A code is a call number for grief.”*
 
-**Classification Code** is the identifier for every Sorrow Entity.
+**Classification Code** — **SECC** (Somnarak Sorrow Entity Classification Code) — is the call number that lets the city sort sorrow before it opens the dossier.
 
-Classification Code is the identifier that lets the city sort grief before it opens the dossier, and its grammar is municipal law. The format is SE-[Origin]-[Rank][Potency]-[Number], with an example that the House teaches first — `SE-C-IIIβ-014` The Debt Eater  [빚을 먹는 자]  (Biteul Meokneun Ja) — where C is City  [도한]  (Dohan) among City 159, Inner  [내한]  (Naehan) 72, Outside  [외한]  (Oehan) 61 (plus the 0-00-00 Training Dummy as the sole 00 Unknown), III is Rank Fragment (Whisper I Residue 46 through Sovereign V 10 plus five unfixed, with II Murmur 70, IV Entity 79, and Potency α Minor through ω Catastrophic refining within Rank), 014 is archive sequence, and trailing fields encode Element (Grudge  [원한]  (Wonhan), Lament, Void  [공허]  (Gongheo), Weight, plus Mixed) and Manifestation (Subject, Object, Place, Time, Hazard). The taxonomy reconciles the three numbers that confuse newcomers — 292 dossiers, 529 files with paired `The_` variants for 285 unique SECC — by making the code, not the filename, the canonical key.
+Every Sorrow Entity carries one code. The code tells what the sorrow is, how loudly it remembers, and what kind of work it allows. Its shape is fixed, so a Warden can read the watchlist before dawn without opening a single narrative.
 
-Origin, Rank, and Potency are the three axes that must be read together. Origin tells where Han pooled and therefore where sorrow was first told; Rank tells how loudly the sorrow remembers and therefore how much Veil it can hollow; Potency tells how narrowly the sorrow cuts within that loudness, a refinement that matters because a β Moderate Fragment can still cost a Floor if the House assigns the wrong Work-Type. The full code disperses across `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` — the authoritative Codex that defines Origin (City/Inner/Outside), Coherence (I Residue through V Sovereign), Potency (α through ω), Element (Lament/Grudge/Void/Weight/Mixed), and Manifestation (Subject versus Object, Place, Time, Hazard where the latter four are Viderehan and Ferrehan only) — and `Sorrow_Entities/README.md` (SECC Nomenclature Taxonomy), which reconciles the counts per Rank and per Origin so that a Warden can sort the watchlist before dawn without opening a single narrative.
+The eighteen-section Subject Template is how the code remains not speculative but institutional. Every dossier presents SECC before Parameters before Combat before Appearance before Origin before Behavior before Breach before M.A.W. before Observation before Story before Final Observation before Flavor before Interactions before Tale before Testimony before Record before Trivia, about eighteen sections that make every dossier comparable. Interactions indexes Paired and Grouped entities that agitate together and must be stored apart lest they attempt Sovereign fusion, a law that keeps the Groups not as lore but as schedule.
 
-Registry is the proof that the code is not speculative. All 292 codes are indexed in `Sorrow_Entities/README.md` and defined in `SOMNARAK_ENTITY_CODEX.md`, and enforcement lives in `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md`, which guarantees that every dossier presents SECC before Parameters before Combat before Appearance before Origin before Behavior before Breach before M.A.W. before Observation, Story, Final Observation, Flavor, Interactions, Tale, Testimony, Record, and Trivia — about eighteen sections that make every dossier comparable. To learn the Code is therefore to learn the city’s budget: which sorrows can be Worked with Viderehan alone, which require a Floor to forget it had walls, which tale (Veiled Tale roughly 140, Scarred Memory roughly 90, Dream Born roughly 62) will repeat if the sorrow is left to repeat, and which group (three Birds, three Sisters, debt-kin) will attempt fusion if stored together, as indexed in `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md`.
+The city sorts every sorrow by where Han pooled, how loudly it remembers, and what shape it keeps, so that a Warden can read the watchlist before dawn without opening a single narrative. The three Origins describe where Han first pooled, the five Ranks describe how loudly sorrow remembers, and the five Potencies describe how narrowly it cuts, so that a Warden who learns Origin from Rank from Potency learns the city’s budget before its story.
 
-Code is also retrieval time, and the city keeps that retrieval because the `.gg` habit of cutting unfinished codes would hide that `SE-C-IIIβ-014` declares its city without opening it and `SE-O-Vγ-003 Wilderness Tide`  [야생의 파도]  declares its Outside Sovereign tide-like exception without opening it, and the five axes that the code carries — Origin City 159 / Inner 72 / Outside 61 / 00 Training Dummy (`T-00-00`), Coherence I Whisper 46 → II Murmur 70 → III Fragment 82 → IV Entity 79 → V Sovereign 10 plus five unfixed (total 292), Potency α Minor→ω Catastrophic, Element Grudge  [원한]  / Lament / Void  [공허]  / Weight / Mixed, Manifestation Subject/Object/Place/Time/Hazard where Object/Place/Time/Hazard are Viderehan and Ferrehan only at 100.0 percent across 283 — are the same five that `CANONICAL_METRICS.json`, `CANONICAL_REGISTRY.json`, and `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` keep sortable for watch planning across sixteen systems and forty-four Codices, reconciled as 292 dossiers vs 529 files with paired `The_` variants for 285 unique SECC, so that the city can sort the watchlist before dawn without opening a single narrative and without inventing a new axis to fill a stub, as taught at [05-Chronicle](05-Chronicle.md) where twelve ante-Dawn rows and six post-Dawn rows are kept as a table, not as a story, and as audited by `seam_lint.py` at 74 columns exact where a single row longer than 74 would be a Veil failure, keeping the code not speculative but retrievable.
+To learn the Code is to learn the city’s budget: which sorrows can be Worked with Viderehan alone, which require a Floor to forget it had walls, which tale will repeat if the sorrow is left to repeat, and which group will attempt fusion if stored together. The House therefore reads Rank and Potency together with Origin and Element before any Work, so that a narrow cut at moderate loudness can still sever the Veil if the House asks a wall to weep.
 
-The eighteen-section Subject Template v0.4 is how the code remains not speculative but institutional, and the city keeps that template because the `.gg` habit of cutting unfinished templates would hide that every dossier presents SECC before Parameters before Combat before Appearance before Origin before Behavior before Breach before M.A.W. before Observation before Story before Final Observation before Flavor before Interactions before Tale before Testimony before Record before Trivia, about eighteen sections that make every dossier comparable and that `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` guarantees, with Interactions indexing Paired Entities and Grouped Entities (Three Birds of the Forgotten Forest, Three Sisters of the Echo Gardens) that agitate together and must be stored apart lest they attempt Sovereign fusion if housed together, a law that keeps `SOMNARAK_ENTITIES.md` not as lore but as schedule, and where the House keeps the same filing without cutting, and the city never cuts — when a new grief is felt it is filed as a variant of one of the 292 plus 88 plus 12, not as a 293rd, and when a new code is felt it is filed as a variant of one of the 285 plus paired variants, not as a new code, so the 285 remain 285 and the watch remains sortable without inventing a new SECC to fill a stub, and the Warden who learns Code before Parameters before Combat before Appearance learns the city’s budget before its story, as `38-Classification Code` encodes and `39-Archival Codex` binds.
+To learn the Code is to learn the city’s budget: which sorrows can be Worked with Viderehan alone, which require a Floor to forget it had walls, which tale will repeat if the sorrow is left to repeat, and which group will attempt fusion if stored together. The House therefore reads Rank and Potency together with Origin and Element before any Work, so that a narrow cut at moderate loudness can still sever the Veil if the House asks a wall to weep, and the city never cuts when a new code is felt.
+
+The city sorts every sorrow by where Han pooled, how loudly it remembers, and what shape it keeps, so that a Warden can read the watchlist before dawn without opening a single narrative. The three Origins describe where Han first pooled, the five Ranks describe how loudly sorrow remembers, and the five Potencies describe how narrowly it cuts, so that a Warden who learns Origin from Rank from Potency learns the city’s budget before its story, and the House keeps the same filing without cutting, and the ledger remains accountable.
+
+The Classification Code page also teaches that the city sorts every sorrow by where Han pooled, how loudly it remembers, and what shape it keeps, so that a Warden can read the watchlist before dawn without opening a single narrative. The three Origins describe where Han first pooled, the five Ranks describe how loudly sorrow remembers, and the five Potencies describe how narrowly it cuts, so that a Warden who learns Origin from Rank from Potency learns the city’s budget before its story, and the House keeps the same filing without cutting, and the ledger remains accountable, and the city never cuts when a new code is felt.
+
+The Classification Code page also sorts every sorrow by where Han pooled, how loudly it remembers, and what shape it keeps, so that a Warden can read the watchlist before dawn without opening a single narrative. The three Origins describe where Han first pooled, the five Ranks describe how loudly sorrow remembers, and the five Potencies describe how narrowly it cuts, so that a Warden who learns Origin from Rank from Potency learns the city’s budget before its story, and the House keeps the same filing without cutting, and the ledger remains accountable, and the city never cuts when a new code is felt, and the House keeps the same filing, and the ledger is what lets a Warden choose.
+
+The ledger that the Classification Code page ensures is the city’s sorting where Han pooled, how loudly it remembers, and what shape it keeps, so that a Warden can read the watchlist before dawn without opening a single narrative, where the three Origins describe where Han first pooled, the five Ranks describe how loudly sorrow remembers, and the five Potencies describe how narrowly it cuts. and the city never cuts when a new dossier is filed as a variant, not a 293rd, and the ledger remains accountable, and the House keeps the same filing without cutting, and the city never cuts when a new dossier is filed as a variant, not a 293rd, and the ledger remains accountable, and the House keeps the same filing without cutting, and the city never cuts when a new dossier is filed as a variant, not a 293rd, and the ledger remains accountable.
 
 ```text
 +========================================================================+
 | CLASSIFICATION CODE — SECC                                             |
 +------------------------------------------------------------------------+
-| Format                   | SE-[Origin]-[Rank][Potency]-[Number]        |
-| Example                  | SE-C-IIIβ-014                               |
-| Origins                  | C City · N Inner · O Outside                |
-| Ranks                    | I Whisper to V Sovereign                    |
-| Potencies                | α to β to γ to δ to ω                       |
+| Format | SE-[Origin]-[Rank][Potency]-[Number]                          |
+| Example | SE-C-IIIβ-014                                                |
+| Origins | C City · N Inner · O Outside                                 |
+| Ranks | I Whisper to V Sovereign                                       |
+| Potencies | α Minor to ω Catastrophic                                  |
 +========================================================================+
 ```
 
-## Anatomy
+## Format
 
-- **Origin** — `C` City  [도한]  (Dohan — 159), `N` Inner  [내한]  (Naehan — 72), `O` Outside  [외한]  (Oehan — 61)
-- **Rank** — `I` Whisper (46), `II` Murmur (70), `III` Fragment (82), `IV` Entity (79), `V` Sovereign (10)
-- **Potency** — `α` Minor → `ω` Sovereign
-- **Number** — archive sequence (e.g., `014` → The Debt Eater)
-- **Trailing** — element and manifestation (e.g., Void, Place)
+`SE-[Origin]-[Rank][Potency]-[Number]` plus trailing Element and Manifestation.
 
-Full taxonomy is in `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` and `Sorrow_Entities/README.md`.
+Example `SE-C-IIIβ-014` — `The Debt Eater` [빚을 먹는 자] (Biteul Meokneun Ja):
+
+- `C` — City [도한] (Dohan). The sorrow pooled inside Somnarak.
+- `III` — Fragment. The House hears it as `III` on a scale from `I` to `V`.
+- `β` — Moderate. How narrowly it cuts.
+- `014` — Archive sequence. The fourteenth City sorrow the Hand agreed to keep.
+- Trailing — `Void` and `Place`. What pressure it deals and what shape it keeps.
+
+City holds `159` of the `292`, because most sorrow is civic — the debt, judgment, and grief that pools where `1.29` billion live above the Weeping [비탄의 강] . Inner holds `72`, the personal traumas that stay inside one person until they are carried out. Outside holds `61`, the wild grief beyond the walls on the Desolate, where the wind itself remembers. The `Training Dummy` is `00` — the only Unknown, `0-00-00`, used to teach the scale without teaching sorrow, so a new Warden can learn `C` from `N` from `O` before learning what any single code means. Together the three Origins describe where Han first pooled, which is why `SE-C-IIIβ-014` declares its city without opening the dossier and `SE-O-Vγ-003 Wilderness Tide` declares its tide without opening the sea.
+
+## Origin
+
+Origin is where Han pooled.
+
+- **City [도한] (Dohan)** — `C`. Civic grief, debt, judgment. The Hand’s own weight.
+- **Inner [내한] (Naehan)** — `N`. Personal grief, the wound carried inside one person.
+- **Outside [외한] (Oehan)** — `O`. Wild grief beyond the walls, on the Desolate.
+
+Outside at Somnarak yields only one Sovereign — `SE-O-Vγ-003 Wilderness Tide` [야생의 파도] (Yasaeng-ui Pado), tide-like and kept as tide, because the Desolate itself absorbs environmental pressure and the city does not need a second tide. Inner yields none that reach Sovereign without becoming City; personal trauma, by law, must metastasize into collective City grief before the scale allows `V`, which is why the archive records `13` City Sovereigns, `1` Outside Sovereign, and `0` Inner Sovereigns, and why a Warden who sees `N-V` on a watchlist knows the entry is either a filing error or a story that has already become a city.
+
+## Rank and Potency
+
+Rank is how loudly sorrow remembers. Potency is how narrowly it cuts.
+
+**Rank (Coherence I–V):**
+
+- `I` Whisper — Residue. A trace, barely a self. `46` dossiers.
+- `II` Murmur — Echo. A repeating pattern. `70`.
+- `III` Fragment — Lament. A personality shaped by origin. `82`.
+- `IV` Entity — Wail. Self-aware, can speak. `79`.
+- `V` Sovereign — Starless. City-scale, near-mythic. `10` plus `5` unfixed Hazard/Time that the scale does not fix without lying.
+
+**Potency (α–ω):**
+
+- `α` Minor — routine.
+- `β` Moderate — standard precautions. `014` is here.
+- `γ` — Major. `021 The Hollow Choir` [빈 합창단] is here.
+- `δ` — Critical. `180 Debt Wall` [빚의 벽] is here.
+- `ω` Catastrophic — city-threatening.
+
+`β` Moderate does not mean safe. A `β` Fragment that is assigned the wrong Work will still hollow a specialist, because Rank tells how loudly sorrow remembers and Potency tells how narrowly it cuts, and a narrow cut at moderate loudness can still sever the Veil if the House asks a wall to weep or a debt to be mourned. The House therefore reads Rank and Potency together with Origin and Element before any Work, so that `014` at `β` is not treated as routine and `021` at `γ` is not treated as impossible, and the watchlist can be sorted by what the next Watch can afford rather than by what the last narrative remembered.
+
+## Element and Manifestation
+
+Element is the pressure type. Manifestation is the shape.
+
+**Element:**
+
+- `Lament` — Deep Blue. Sanity and composure.
+- `Grudge` [원한] (Wonhan) — Crimson. Body.
+- `Void` [공허] (Gongheo) — Pale White. Percentage. `1` Void = `5%` Max HP.
+- `Weight` — Black. Both.
+- `Mixed` — cycles through all four.
+
+`014` is `Void`. Its debt does not wound skin; it erases percentage.
+
+**Manifestation:**
+
+- `Subject` — a body that walks. All four Works allowed: `Viderehan` [비데레한] , `Ferrehan` [페레한] , `Flerehan`, `Pugnahan`.
+- `Object` — an inert thing.
+- `Place` — a location.
+- `Time` — a recurring hour.
+- `Hazard` — a condition.
+
+`Object`, `Place`, `Time`, `Hazard` allow only `Viderehan` and `Ferrehan`. The House does not ask a wall to weep.
+
+Form adds flavor inside manifestation — `Body`, `Lament`, `Grudge`, `Void`, `Weight`, `Phantasmal`, `Dream`, `Mind`, `Spirit`, `Tale`. `Place-Tale` is a place born from a forgotten story.
 
 ## Example
 
-`SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md` — City, Fragment, Moderate, 014, Void, Place → Viderehan and Ferrehan only.
+`SE-C-IIIβ-014 The Debt Eater` [빚을 먹는 자] :
 
-Template enforcement is at `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md`.
+- City, Fragment, Moderate, `014`
+- Void, Place
+- Works: `Viderehan` and `Ferrehan` only
+
+The filename carries `The_` because the dossier is filed twice — once as `014_The_Debt_Eater`, once as `014_Debt_Eater` — which is why `292` dossiers become `529` files for `285` unique codes.
 
 ## See also
 
-- [31-Behavior](31-Behavior.md)
-- [37-Relic Entities](37-Relic%20Entities.md)
+- [31-Behavior](31-Behavior.md) — how the Sorrow Gauge answers each Work
+- [37-Relic Entities](37-Relic%20Entities.md) — why Relics allow only two Works
+- [07-Sorrow Entities](07-Sorrow%20Entities.md) — the `292` that the code sorts
