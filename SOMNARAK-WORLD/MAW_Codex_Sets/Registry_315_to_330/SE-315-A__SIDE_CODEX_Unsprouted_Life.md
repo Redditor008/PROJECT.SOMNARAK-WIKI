@@ -73,7 +73,7 @@ A stable echo forms only from tears that leave the shell and are collected after
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Life Requiem:** Lament 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping.
+- **Life Requiem:** Lament 10–15; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping.
 - **Life Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 2; 45 Echoes. It resists Lament while numbing minor joys.
 - **Life Core:** Tail Stigma; 4%; +3 Clarity during source work. It creates protective growth by consuming future-possibility memories.
 

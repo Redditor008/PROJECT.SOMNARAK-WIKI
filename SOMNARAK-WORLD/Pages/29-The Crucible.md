@@ -39,7 +39,7 @@ Manufactured during the height of the Unified Containment Directorate (UCD) as a
 - **Risk Classification:** Rank II — Murmur
 - **Ontological Type:** Object / Tool Relic (Channeled Use)
 - **Primary Pressure Output:** 🔴 **Grudge** (Thermal / Physical Burn)
-- **Maximum Safe Channeling Window:** Exactly 29 seconds. Fatal at 30.0 seconds.
+- **Maximum Safe Channeling Window:** Exactly 29 seconds. Dire at 30.0 seconds.
 
 ## 2 Tool Relic Classification: Channeled Use Mechanics
 

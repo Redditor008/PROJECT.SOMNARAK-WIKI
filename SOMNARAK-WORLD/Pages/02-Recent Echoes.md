@@ -59,7 +59,7 @@ This dispatch records recent operational updates within Facility 01, containment
 ## 3 Detailed Containment Incident Logs
 
 - **Incident #441 (Extraction Hall):** Minor Han gas backflow during high-yield refining of `SE-C-IIIβ-014 The Debt Eater`. Contained within 4 minutes with zero specialist casualties; 2 auxiliary auxiliaries treated for mild Lament dizziness.
-- **Incident #449 (Border Watch):** Second Watch Violet incursion manifested in Corridor 6B. Lead Mellda deployed Vanguard Squad; Ordeal neutralized with zero breaches recorded.
+- **Incident #449 (Border Watch):** Second Watch Purple incursion manifested in Corridor 6B. Lead Mellda deployed Vanguard Squad; Ordeal neutralized with zero breaches recorded.
 - **Incident #452 (Deep Vault):** Temporal fluctuation detected around `SE-T-IIβ-002 The Crucible`. Stasis fields reinforced; safe channeling ceiling re-verified at exactly 29 seconds.
 - **Incident #458 (Maw's Keep):** Minor hydraulic seal leakage on Cell 3A. Brute containment clamps deployed; zero physical damage sustained.
 

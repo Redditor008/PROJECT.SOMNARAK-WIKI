@@ -101,7 +101,7 @@ The Hope Set is not hope as comfort. It is hope as an operational decision: a re
 |---|---|
 | **Damage** | Void 7–12 |
 | **Speed / Range** | 3 — Fast / 3 — Medium |
-| **Pattern** | Pierce — up to 3 targets |
+| **Pattern** | Skewer — up to 3 targets |
 | **Falloff** | 100% → 70% → 50% |
 | **Cost** | 40 Sorrow Echoes |
 

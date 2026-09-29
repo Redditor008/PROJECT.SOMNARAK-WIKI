@@ -57,7 +57,7 @@ The playable system is organized into five decoupled architectural modules:
                                  v
 +-------------------------------------------------------------------+
 |                        CANONICAL DATA REPO                        |
-|  - Operative Database (Base Stats, Speed Dice, M.A.W. Wear)       |
+|  - Operative Database (Base Stats, Tempo Dice, M.A.W. Wear)       |
 |  - 292 Sorrow Entities (Modular Parts, AI Intention Decks)        |
 |  - 198 Quadripartite M.A.W. Sets (Weapons, Suits, Stigmas)        |
 +-------------------------------------------------------------------+
@@ -80,10 +80,10 @@ Where:
 - **Base Weapon Damage:** Rolled from weapon range (e.g., Grade γ poleaxe rolls 8–15).
 - **Elemental Affinity Multiplier:**
   * Resistant (0.3 to 0.5)
-  * Endured (0.7 to 0.8)
+  * Withstood (0.7 to 0.8)
   * Normal (1.0)
   * Weak / Vulnerable (1.2 to 1.5)
-  * Fatal / Cleaved (2.0)
+  * Dire / Cleaved (2.0)
 - **Stagger Multiplier:**
   * Normal Stance: 1.0
   * Part Rupture Active (Threshold <= 60%): 1.5 on targeted ruptured part

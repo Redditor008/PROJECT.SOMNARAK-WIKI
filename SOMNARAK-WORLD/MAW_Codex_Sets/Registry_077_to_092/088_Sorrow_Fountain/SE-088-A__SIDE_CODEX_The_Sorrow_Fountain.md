@@ -99,7 +99,7 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 |---|---|
 | Damage | Lament 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce — three targets maximum |
+| Attack Pattern | Skewer — three targets maximum |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | Unwept grief gathers in the bearer and eventually forces tears. |

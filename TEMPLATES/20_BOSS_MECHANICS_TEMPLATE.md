@@ -59,7 +59,7 @@ Example: `BOSS_MECHANICS_WEEPING_MIRROR.md`
 | Intention | AP | Target Band | Element / Power | Effect |
 |---|---|---|---|---|
 | **{{Basic — e.g., Grieving Step}}** | {{2}} | {{Band 1–2}} | {{Weight 18}} | {{Stomp, knockback to N05 Cover destruction}} |
-| **{{Heavy — e.g., Spire Collapse}}** | {{3}} | {{Band 1–4}} | {{Grudge 28}} | {{Pierce line, falloff 100/70/50}} |
+| **{{Heavy — e.g., Spire Collapse}}** | {{3}} | {{Band 1–4}} | {{Grudge 28}} | {{Skewer line, falloff 100/70/50}} |
 | **{{Disrupt — e.g., Unvoiced Toll}}** | {{1}} | {{Area}} | {{Lament}} | {{Composure −15 all, Veil strain +5%}} |
 | **{{Sovereign — e.g., Foundation Shard}}** | {{4}} | {{Band 4–5}} | {{Weight}} | {{Facility-wide, unlocked at Phase 3 only}} |
 

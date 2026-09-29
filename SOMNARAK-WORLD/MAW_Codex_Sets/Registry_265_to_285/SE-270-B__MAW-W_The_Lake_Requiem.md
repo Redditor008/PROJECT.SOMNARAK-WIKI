@@ -26,7 +26,7 @@ The Lake Requiem is a singing blade of deep-blue Han crystal whose edge holds a 
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Lament | 7–12 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Lament | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Surface Divide:** The blade pierces up to three overflow connections while preserving the memory-mass as one record. Striking the remembered figure splits its identity instead.
 

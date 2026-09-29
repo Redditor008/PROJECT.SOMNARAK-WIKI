@@ -213,7 +213,7 @@ The encounter progresses through three distinct, escalating tactical phases tied
 
 | Squad Role | Recommended Callsign Archetype | Preferred M.A.W. Set | Tactical Function |
 |---|---|---|---|
-| **Vanguard Striker** | Fast Blade Specialist (Speed 5+) | Grade 4 Slash / Agility | Intercepts *Basalt Cleave*; targets Knee Pillar joints |
+| **Vanguard Striker** | Fast Blade Specialist (Speed 5+) | Grade 4 Gash / Agility | Intercepts *Basalt Cleave*; targets Knee Pillar joints |
 | **Fortress Anchor** | Heavy Bastion Tank (Posture 150+) | Grade 4 Heavy Shield / Weight | Absorbs *Tectonic Ground-Slam*; shields midline nodes |
 | **Acoustic Disruptor** | Frequency Controller (Composure 120+) | Grade 4 Acoustic Needle | Cancels *Acoustic Lament Wave*; drains boss Posture |
 | **Resonance Sniper** | High-Range Void Marksman (Band 4) | Grade 4 Void Rifle / Railgun | Bursts Basalt Crown and exposed Weeping Core from afar |
@@ -230,7 +230,7 @@ Upon achieving terminal Composure Meltdown against `SE-C-Vδ-002`, the Reverie D
 +=====================================================================+
 | RECOVERED ARTIFACT  | TYPE   | GRADE | RESONANCE & SPECIAL EFFECT   |
 +---------------------------------------------------------------------+
-| The Mourning Maul   | Weapon | Gr 5  | Fatal Weight Crushing Blow   |
+| The Mourning Maul   | Weapon | Gr 5  | Dire Weight Crushing Blow    |
 | The Mourning Mantle | Suit   | Gr 5  | High Weight / Han Hardening  |
 | The Mourning Shell  | Stigma   | Gr 5  | +20% Desolation Resistance |
 | The Mourning Band   | Relic  | Gr 5  | Sovereign Tear Condensation  |
@@ -240,7 +240,7 @@ Upon achieving terminal Composure Meltdown against `SE-C-Vδ-002`, the Reverie D
 ### 7.1 Detailed M.A.W. Equipment Specifications
 
 - **Weapon: The Mourning Maul (`MAW-W-002`)**
-  * **Classification:** Grade 5 Legendary Heavy Blunt Relic
+  * **Classification:** Grade 5 Legendary Heavy Bludgeon Relic
   * **Base Clash Power:** 26 • **Range Band:** Band 1 (Melee)
   * **Resonance Passive (Tectonic Weight):** Every successful blunt hit inflicts 15 Posture strain. If the target is already staggered, deals +50% bonus crushing damage.
 - **Suit: The Mourning Mantle (`MAW-S-002`)**

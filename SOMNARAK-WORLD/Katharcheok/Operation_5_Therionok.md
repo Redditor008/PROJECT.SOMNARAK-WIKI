@@ -96,7 +96,7 @@ Auditor Yuna activated the secondary terminal, displaying a roster of high-stake
 
 "Who commands the ring?" Commander Taeho asked, his arms folded tightly.
 
-"Beastmaster Jagyeon, known across the underworld as 'The Chain Binder,'" Infiltrator Echo answered, stepping forward. "Jagyeon was once an auxiliary containment specialist expelled from the Reverie Directorate fifteen years ago for torturing specimens. He excavated the ancient basalt quarries at two hundred and eighty meters down. And he possesses an apex prize: SE-C-IIIγ-102, designated 'Dancing Chains.' Jagyeon bound the entity into a monstrous feral chimera he calls 'The Chained Frenzy.' It is powered by pure Crimson Grudge, its vertebrae links glowing white-hot with fury."
+"Beastmaster Jagyeon, known across the underworld as 'The Chain Binder,'" Infiltrator Echo answered, stepping forward. "Jagyeon was once an auxiliary containment specialist expelled from the Reverie Directorate fifteen years ago for torturing specimens. He excavated the ancient basalt quarries at two hundred and eighty meters down. And he possesses an apex prize: SE-C-IIIγ-102, designated 'Dancing Chains.' Jagyeon bound the entity into a monstrous feral chimera he calls 'The Chained Frenzy.' It is powered by pure Grudge, its vertebrae links glowing white-hot with fury."
 
 Taeho adjusted the straps of his riot armor, his expression set like stone.
 
@@ -106,7 +106,7 @@ Taeho adjusted the straps of his riot armor, his expression set like stone.
 
 #### Chapter 2: Infiltration of the Quarry Shafts
 
-The descent into the abandoned basalt quarries was a descent into an abyss of black stone. At two hundred and ten meters below the surface, the squad stood at the rim of a massive vertical excavation shaft. The air was dry and freezing, carrying the sharp scent of ozone, burnt animal hair, and volatile Crimson Grudge.
+The descent into the abandoned basalt quarries was a descent into an abyss of black stone. At two hundred and ten meters below the surface, the squad stood at the rim of a massive vertical excavation shaft. The air was dry and freezing, carrying the sharp scent of ozone, burnt animal hair, and volatile Grudge.
 
 "Anchoring descent lines," Sapper Joon whispered, drilling pneumatic pitons into the volcanic basalt. "Two hundred meters of vertical drop. Watch the side ledges—Jagyeon has lookouts posted in the old crane alcoves."
 
@@ -168,7 +168,7 @@ The four-meter gates blew inward, falling with a thunderous crash into the churn
 
 The arena was a colossal circular pit carved from black basalt rock. In the center, chained to four massive hydraulic winches, was **SE-C-IIIγ-102**, "The Dancing Chains."
 
-The Sorrow Entity had been forcibly bound into a terrifying, quadrupedal chimera of fused bone, jagged obsidian scales, and hundreds of glowing red vertebrae chain-links. The beast thrashed against the arena floor, its glowing chain-tails whipping through the air with deafening sonic cracks, radiating furious heat and intense Crimson Grudge.
+The Sorrow Entity had been forcibly bound into a terrifying, quadrupedal chimera of fused bone, jagged obsidian scales, and hundreds of glowing red vertebrae chain-links. The beast thrashed against the arena floor, its glowing chain-tails whipping through the air with deafening sonic cracks, radiating furious heat and intense Grudge.
 
 Standing atop a raised basalt outcropping was Beastmaster Jagyeon.
 
@@ -187,24 +187,24 @@ Jagyeon cracked his shock whips together, sending a massive electrical pulse int
 The battle for the Black Cages was joined.
 
 ```text
-+==============================================+
-|       TARGET DOSSIER: THE BEAST BINDER       |
-+==============================================+
-| Apex Target          | Beastmaster Jagyeon   |
-| Cartel Moniker       | "The Chain Binder"    |
-| Threat Grade         | Major Potency (γ)     |
-| Contraband Entity    | SE-C-IIIγ-102 [GO]    |
-+----------------------+-----------------------+
-| Combined Vitality    | 7,600 Total Health    |
-| Targetable Parts     | 3 Distinct Modules    |
-| Part 1: Beast Armor  | 2,400 Health (Blunt)  |
-| Part 2: Shock Whip   | 1,800 Health (Pierce) |
-| Part 3: Frenzy Core  | 3,400 Health (Void)   |
-+----------------------+-----------------------+
-| Stagger Threshold 1  | 60% Health (4,560 HP) |
-| Stagger Threshold 2  | 25% Health (1,900 HP) |
-| Overdrive Skill      | Crimson Chain Storm   |
-+==============================================+
++==============================================---+
+|       TARGET DOSSIER: THE BEAST BINDER          |
++==============================================---+
+| Apex Target          | Beastmaster Jagyeon      |
+| Cartel Moniker       | "The Chain Binder"       |
+| Threat Grade         | Major Potency (γ)        |
+| Contraband Entity    | SE-C-IIIγ-102 [GO]       |
++----------------------+--------------------------+
+| Combined Vitality    | 7,600 Total Health       |
+| Targetable Parts     | 3 Distinct Modules       |
+| Part 1: Beast Armor  | 2,400 Health (Bludgeon)  |
+| Part 2: Shock Whip   | 1,800 Health (Skewer)    |
+| Part 3: Frenzy Core  | 3,400 Health (Void)      |
++----------------------+--------------------------+
+| Stagger Threshold 1  | 60% Health (4,560 HP)    |
+| Stagger Threshold 2  | 25% Health (1,900 HP)    |
+| Overdrive Skill      | Crimson Chain Storm      |
++==============================================---+
 ```
 
 ---
@@ -216,7 +216,7 @@ The battle for the Black Cages was joined.
 |         TARGET DOSSIER: BEASTMASTER JAGYEON & SE-C-IIIγ-102         |
 +---------------------------------------------------------------------+
 | APEX TARGET        : Beastmaster Jagyeon ('The Arena Patriarch')    |
-| MODULAR WEAPON : Harmonic Shock Whip (High-Voltage Electric/Slash)  |
+| MODULAR WEAPON : Harmonic Shock Whip (High-Voltage Electric/Gash)   |
 | CONTRABAND ENTITY : SE-C-IIIγ-102 'Chained Frenzy' (Rank III /      |
 | Dancing Chains)                                                     |
 | ESCORT MINIONS     : Pit Gladiators (x2) & Barbed Harpooners        |
@@ -231,7 +231,7 @@ The battle for the Black Cages was joined.
 | - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger / Cask     |
 |   Ready)                                                            |
 | - Primary Attack : Harmonic Shock Lash & Dual Lightning Cleave      |
-|   (Slash)                                                           |
+|   (Gash)                                                            |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SE-C-IIIγ-102 'CHAINED FRENZY'):         |
 | - Entity HP Pool   : 3,400 HP | Posture Pool: 240/240               |
@@ -304,18 +304,18 @@ The battle for the Black Cages was joined.
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Scales basalt arena pillars toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Beastmaster Jagyeon lashes out with `[Harmonic Shock Lash]` (Base 16 + 2 Lots = 28 Power, Electric/Slash) against Node 02.
+  * **Clash 1 (Node 02 to 05)**: Beastmaster Jagyeon lashes out with `[Harmonic Shock Lash]` (Base 16 + 2 Lots = 28 Power, Electric/Gash) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 18 + 2 Lots = 32 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (32 vs 28)!
     * The kinetic shield grounds the 50,000-volt high-voltage arc directly into the sand deck (`[P3: Parry/Protection]`).
     * Taeho reflects **180 kinetic tremor damage** back into Jagyeon's beast-hide harness! Inflicts +28 Posture Strain.
-  * **Clash 2 (Node 03 to 05)**: Pit Gladiators thrust with `[Barbed Harpoon Thrust]` (Atk Power 22, Pierce).
+  * **Clash 2 (Node 03 to 05)**: Pit Gladiators thrust with `[Barbed Harpoon Thrust]` (Atk Power 22, Skewer).
     * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 26, Kinetic Shield).
     * **Clash Outcome**: Joon WINS THE CLASH (26 vs 22).
     * Harpoons shatter against the reinforced titanium mantlet; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Cipher-Scan]` identifies the high-voltage battery housing at Jagyeon's hip.
-    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Jagyeon's reinforced greaves, dealing **260 Pierce damage** and +26 Posture Strain!
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Jagyeon's reinforced greaves, dealing **260 Skewer damage** and +26 Posture Strain!
     * Handler Soojin's sedative ward stabilizes ambient sorrow emissions around the arena floor.
 - **Step 4: Turn End State**:
   * Jagyeon Beast Armor HP: 2,400 -> **1,960/2,400** (Combined Encounter HP: **7,160/7,600**).
@@ -374,17 +374,17 @@ The battle for the Black Cages was joined.
   * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
   * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Cold Iron]` (2 AP) around the chain beast's limbs.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Jagyeon executes `[Dual Lightning Cleave]` (Base 14 + 2 Lots = 26 Power, Heavy Slash).
-    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 18 + 2 Lots = 30 Power, Heavy Blunt).
+  * **Clash 1 (Node 04 to 05)**: Jagyeon executes `[Dual Lightning Cleave]` (Base 14 + 2 Lots = 26 Power, Heavy Gash).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 18 + 2 Lots = 30 Power, Heavy Bludgeon).
     * **Clash Outcome**: Joon WINS THE CLASH (30 vs 26)!
     * The hydraulic ram smashes straight into the hip battery generator of the whip!
-    * Deals **560 Blunt damage** directly to the Harmonic Shock Whip and inflicts +56 Posture Strain!
+    * Deals **560 Bludgeon damage** directly to the Harmonic Shock Whip and inflicts +56 Posture Strain!
   * **Clash 2 (Node 06 to 10)**: SE-C-IIIγ-102 'Chained Frenzy' thrashes with `[Crimson Chain Flail]` (Power 24, Grudge).
     * Auditor Yuna unleashes `[Cipher-Pulse: Damping Wall]` (Def Power 28, EMP).
     * **Clash Outcome**: Yuna WINS THE CLASH (28 vs 24).
     * The EMP wave scrambles the collar's agony generator, dealing **280 Resonance damage** to SE-C-IIIγ-102 and +36 Posture Strain!
   * **Follow-Up Maneuvers**:
-    * Taeho's `[Shield Bash]` deals **300 Blunt damage** to Jagyeon's breastplate.
+    * Taeho's `[Shield Bash]` deals **300 Bludgeon damage** to Jagyeon's breastplate.
     * Minho's cognitive salve restores +15 SP across the strike cadre.
     * Infiltrator Echo severs an overhead winch cable, dropping a heavy iron cage onto the gladiators' weapon rack!
 - **Step 4: Turn End State**:
@@ -411,7 +411,7 @@ The battle for the Black Cages was joined.
 | - Node 05: Beastmaster Jagyeon (STAGGER LEVEL 1 / WHIP DESTROYED)   |
 | - Node 06: Auditor Yuna (Slave Auction Registry Download In         |
 |   Progress)                                                         |
-| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Whip Hub) |
+| - Node 07: Investigator Minho (Synaptic Skewer Dismantles Whip Hub) |
 | - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo    |
 |   Joints)                                                           |
 | - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (Chains Trembling in      |
@@ -426,18 +426,18 @@ The battle for the Black Cages was joined.
 +=====================================================================+
 ```
 
-###### Turn 03 Action Resolution Log (Precision Lancet Pierce & Stagger Threshold 1)
+###### Turn 03 Action Resolution Log (Precision Lancet Skewer & Stagger Threshold 1)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Commander Taeho's `Momentum Surge` activates (+2 Speed next turn -> Net Speed 6, 3 AP).
   * Jagyeon attempts his lethal arena execution sweep: `[Thunderous Execution Lash]`.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Investigator Minho (Speed 9 -> 5 AP): Positions atop a basalt pillar at Node 07. Spends 3 AP on `[Neural Lancet: Synaptic Pierce]`.
+  * Investigator Minho (Speed 9 -> 5 AP): Positions atop a basalt pillar at Node 07. Spends 3 AP on `[Neural Lancet: Synaptic Skewer]`.
   * Commander Taeho (Speed 6 -> 3 AP): Charges from Node 03 to Node 05, unleashing `[Heavy Piston Strike]` (2 AP).
   * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on Jagyeon's battery coupling.
   * Infiltrator Echo (Speed 9 -> 5 AP): Drops from high pillars onto the whip's emitter hub, driving `[Eclipse Stiletto]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: Jagyeon unleashes `[Thunderous Execution Lash]` (Base 16 + 2 Lots = 28 Power, Heavy Slash).
-    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 20 + 2 Lots = 32 Power, High-Precision Pierce).
+  * **Clash 1 (Node 07 to 05)**: Jagyeon unleashes `[Thunderous Execution Lash]` (Base 16 + 2 Lots = 28 Power, Heavy Gash).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Skewer]` (Base 20 + 2 Lots = 32 Power, High-Precision Skewer).
     * **Clash Outcome**: Minho WINS THE CLASH (32 vs 28)!
     * Minho's silver lancet pierces the primary plasma coil of the whip with surgical precision!
     * **TARGETED PART DESTROYED**: `[The Harmonic Shock Whip]` explodes into smoking copper braids and shattered porcelain insulation (**1,240 Whip HP destroyed: 0/1,800**)!
@@ -445,9 +445,9 @@ The battle for the Black Cages was joined.
     * Combined Target HP drops below 60% (4,560 HP), and Jagyeon's Posture falls past the 60% strain line!
     * **STAGGER LEVEL 1 ACTIVE!** Jagyeon's beast armor loses all defense, taking 1.5x direct damage. All enemy counter-stances cancelled!
   * **Punishment Strike Phase**:
-    * Commander Taeho's `[Heavy Piston Strike]` delivers **500 Blunt damage** to the exposed breastplate.
+    * Commander Taeho's `[Heavy Piston Strike]` delivers **500 Bludgeon damage** to the exposed breastplate.
     * Engineer Joon's thermite clamp burns through the greaves for **440 Thermal damage**.
-    * Infiltrator Echo's `[Eclipse Stiletto]` slices servo tendons for **300 Slash damage**.
+    * Infiltrator Echo's `[Eclipse Stiletto]` slices servo tendons for **300 Gash damage**.
 - **Step 4: Turn End State**:
   * Jagyeon Beast Armor HP: 1,660 -> **420/2,400** (Chassis critically buckled!).
   * Harmonic Shock Whip: **0/1,800 [DESTROYED]**.
@@ -500,7 +500,7 @@ The battle for the Black Cages was joined.
   * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive sanity.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the heavy cage padlocks (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-102 unleashes `[Razor Iron Storm: Chained Frenzy]` (Base 23 + 2 Lots = 33 Power, Area Slash/Grudge).
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-102 unleashes `[Razor Iron Storm: Chained Frenzy]` (Base 23 + 2 Lots = 33 Power, Area Gash/Grudge).
     * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Lots = 36 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (36 vs 33)!
     * The lead-lined vacuum sphere fully captures the whirling razor-chain shockwave (`[P3: Parry/Protection]`).
@@ -554,14 +554,14 @@ The battle for the Black Cages was joined.
   * Engineer Joon (Speed 5 -> 3 AP): Smashes away Jagyeon's remaining leg armor at Node 04 (2 AP).
   * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 8,900 slave contracts and illegal wagering ledgers at Node 06 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10)**: SE-C-IIIγ-102 thrashes with `[Barbed Spine Cleave]` (Atk Power 29, Slash).
-    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 24 + 2 Lots Marked = 34 Power, Slash).
+  * **Clash 1 (Node 10)**: SE-C-IIIγ-102 thrashes with `[Barbed Spine Cleave]` (Atk Power 29, Gash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 24 + 2 Lots Marked = 34 Power, Gash).
     * **Clash Outcome**: Echo WINS THE CLASH (34 vs 29)!
     * Echo slices cleanly through the thick barbed-iron spine connecting the entity's central shackle!
-    * **CRITICAL HIT!** Deals **680 Slash damage** directly to the core and strips 90 Posture points!
+    * **CRITICAL HIT!** Deals **680 Gash damage** directly to the core and strips 90 Posture points!
   * **Targeted Fire**:
-    * Investigator Minho's `[Silver Lancet]` strikes the collar receiver, disarming the explosive squib and dealing **460 Freezing Pierce damage**!
-    * Engineer Joon demolishes Jagyeon's buckled beast-hide armor with the pneumatic ram, dealing **420 Blunt damage** and crushing the harness completely (Armor HP: 0/2,400)!
+    * Investigator Minho's `[Silver Lancet]` strikes the collar receiver, disarming the explosive squib and dealing **460 Freezing Skewer damage**!
+    * Engineer Joon demolishes Jagyeon's buckled beast-hide armor with the pneumatic ram, dealing **420 Bludgeon damage** and crushing the harness completely (Armor HP: 0/2,400)!
 - **Step 4: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!**:
   * Both Jagyeon and SE-C-IIIγ-102 reach **Posture 0/240** and **0/240**!
   * **TERMINAL STAGGER ACTIVE!** Jagyeon falls unconscious into the arena sand. SE-C-IIIγ-102's chains fall slack, the beast collapsing into exhausted weeping.

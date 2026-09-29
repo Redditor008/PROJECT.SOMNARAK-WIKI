@@ -207,7 +207,7 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 **Max Amount:** 1
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** *Final Breath Pierce* — Deals massive Lament damage. On critical hit, inflicts Freezing (Target loses 2 Speed and 1 Action Slot for 2 turns).
+**Ability:** *Final Breath Skewer* — Deals massive Lament damage. On critical hit, inflicts Freezing (Target loses 2 Speed and 1 Action Slot for 2 turns).
 
 **Cost:** The wielder exhales continuous plumes of white frost vapor, even in desert heat.
 

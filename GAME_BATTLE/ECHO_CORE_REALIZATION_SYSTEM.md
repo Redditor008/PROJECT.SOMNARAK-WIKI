@@ -180,7 +180,7 @@ In Phase 2, Dekan rips the containment harnesses from his chest. His cybernetic 
 | SIGNATURE MOVE: 'Cycle of Sacrifices' (Three simultaneous strikes)  |
 +---------------------------------------------------------------------+
 | SQUAD OBJECTIVE: Utilize Tam-Sa sonar scan to reveal the True Core; |
-| focus high-burst Pierce damage on Node 05.                          |
+| focus high-burst Skewer damage on Node 05.                          |
 +=====================================================================+
 ```
 

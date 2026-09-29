@@ -26,7 +26,7 @@ The Architect’s Maul is a black two-handed maul of Han steel whose striking fa
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Intent Line:** The Maul sends Weight through up to three connected structural targets matching the plan’s present load path. It cannot create the missing element or make unoccupied design safe.
 

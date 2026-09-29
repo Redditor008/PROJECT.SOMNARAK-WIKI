@@ -182,7 +182,7 @@ Guarding the archive was the ancient overseer of the vault: **SECC-E31 "The Calc
  ELITE BREACH: SECC-E31 "THE CALCIFIED SCRIBE" (Grade-β Potency)
 ================================================================================
  BOSS ATTRIBUTES:
- - Health (HP): 2,400 | Speed Dice: 2–6 (2 Action Slots)
+ - Health (HP): 2,400 | Tempo Dice: 2–6 (2 Action Slots)
  - Weaknesses: Lament (Exposed 2.0x — Water dissolves limestone slate body)
  - Primary Threat: [Censure Strike] — Deals 18 Void damage; silences target SP
 ================================================================================
@@ -230,12 +230,12 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
  COMBAT PROFILE:
  - Maximum Health (HP): 4,000
  - Stagger Thresholds: 2,800 HP (70%) | 1,600 HP (40%) | 400 HP (10%)
- - Base Defense: 60 | Speed Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
+ - Base Defense: 60 | Tempo Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
-   * Grudge : 0.5x (Endured — Forged in subterranean volcanic heat)
+   * Grudge : 0.5x (Withstood — Forged in subterranean volcanic heat)
    * Lament: 2.0x (Exposed Weakness — Glacial water quenches magma core)
    * Void : 1.5x (Weakness — Disrupts the martyr soul lattice)
-   * Weight    : 0.5x (Endured — Cyclopean basalt and slag chassis)
+   * Weight    : 0.5x (Withstood — Cyclopean basalt and slag chassis)
 
  TARGETABLE COMPONENT PARTS:
  1. Calcinated Magma Cleaver (HP: 1,050 | Stagger: 400) — Sweeping molten blade
@@ -403,14 +403,14 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
   * Sora (Speed 7 -> 4 AP): Holds Node 06, pouring pressurized cryo-water across the furnace vents (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 07 to 05)**: SECC-068 swings with `[Volcanic Backhand Sweep]` (Base 17 + 2 Lots = 27 Power, Heavy Grudge).
-    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 23 + 3 Lots Marked = 41 Power, Void Slash).
+    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 23 + 3 Lots Marked = 41 Power, Void Gash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (41 vs 27)!
     * The dark relic cleaver slices cleanly through the vitrified tungsten wrist joint!
     * Deals **480 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Calcinated Magma Cleaver shears off and plunges into the magma lake, exploding into boiling steam (**Cleaver HP: 0/1,050**)!
     * **EFFECT**: Boss AoE magma wave attack permanently sealed; boss permanently loses 1 Speed Slot!
   * **Slag Bastion Shield Damage**:
-    * Doha's `[Pneumatic Fracture Ram]` cracks the Vitrified Slag Bastion, dealing **240 Blunt damage**!
+    * Doha's `[Pneumatic Fracture Ram]` cracks the Vitrified Slag Bastion, dealing **240 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Calcinated Magma Cleaver: **DESTROYED (0/1,050 HP)**.
   * Vitrified Slag Bastion: 1,300 -> **980/1,300** | Posture: **210/280**.
@@ -461,7 +461,7 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
     * Doha clashes with `[Sapper Counter-Lever]` (Base 20 + 2 Lots = 32 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (32 vs 24)!
     * Doha levers his tungsten sapper spike into the vitrified shield core; the pneumatic piston fires with concussive force!
-    * The Slag Bastion shatters into burning gravel, dealing **420 Blunt damage** and +76 Posture Strain!
+    * The Slag Bastion shatters into burning gravel, dealing **420 Bludgeon damage** and +76 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,800 HP), falling to **2,520/4,000 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The titan falls to its knees in the cooling ash; all defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -552,7 +552,7 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Sovereign awakens in volcanic desperation; subterranean gas pockets ignite across the concourse!
   * Boss Special Skill: `[Cataclysmic Tectonic Fissure]` (Tectonic Cataclysm, 3 Lots).
-  * Speed Dice expands to 4 slots! Ash and molten rock engulf the rift floor.
+  * Tempo Dice expands to 4 slots! Ash and molten rock engulf the rift floor.
   * Minjae activates Relic Overdrive: `[UNVARNISHED CHRONICLE OF TRUTH — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Minjae (Speed 8 -> 4 AP [Overdrive]): Steps onto the fault line at Node 06, projecting the Keeper Tablets into the air.

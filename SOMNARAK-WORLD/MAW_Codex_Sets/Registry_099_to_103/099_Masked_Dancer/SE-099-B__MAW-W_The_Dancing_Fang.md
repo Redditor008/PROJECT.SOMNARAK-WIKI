@@ -45,7 +45,7 @@
 |---|---|
 | Damage | Grudge 4–8 (x3 strikes) |
 | Speed / range | 4 — Fast / 3 — Medium (2–4m) |
-| Pattern / coverage | Tri-Blade Flurry / Telekinetic Pierce (up to 3 rapid consecutive thrusts) |
+| Pattern / coverage | Tri-Blade Flurry / Telekinetic Skewer (up to 3 rapid consecutive thrusts) |
 | Falloff | None; 100% per connected dagger strike |
 | Echo cost | 25 Sorrow Echoes to register and bind |
 | Operational cost | Old injuries ache and repeated draws leave faint crimson bruising. |

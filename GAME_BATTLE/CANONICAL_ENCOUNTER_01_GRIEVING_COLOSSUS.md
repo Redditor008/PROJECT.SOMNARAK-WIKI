@@ -97,7 +97,7 @@
   * Result: **Min-Jae Deflects (Margin +2)**. Min-Jae absorbs kinetic impact; the Colossus suffers 4 direct Posture strain. Hostile attack cancelled.
 
 #### 4. Modular Part Damage & Composure Tracking
-- Ha-Eun expends 2 AP to fire an Armor-Piercing Void Bolt from `[N01]` targeting the Left Knee Pillar at `[N07]` (Distance = 6, Range Band 4 valid).
+- Ha-Eun expends 2 AP to fire an Armor-Skewer Void Bolt from `[N01]` targeting the Left Knee Pillar at `[N07]` (Distance = 6, Range Band 4 valid).
   * Base Damage: 50 * Void Multiplier (0.8x) = 40 Damage.
   * Left Knee HP: 500 -> 460 / 500 (Rupture Threshold: 300 HP).
 - Colossus Composure: 300 / 300. Posture: 96 / 100.

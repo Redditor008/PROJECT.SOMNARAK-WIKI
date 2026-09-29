@@ -143,7 +143,7 @@ The syndicate is organized like a militant industrial collective:
 | ACTION POINTS   : 1 to 2 Action Slots per Battle Turn               |
 | FAVORED GEAR : Hwa-Seok Thermal Lances (Gr 3), Scavenged Crusher    |
 | Plates                                                              |
-| SIGNATURE MOVE : 'Pneumatic Quake' (Blunt strike causing ground     |
+| SIGNATURE MOVE : 'Pneumatic Quake' (Bludgeon strike causing ground  |
 | rupture)                                                            |
 | AFFLICTION CAUSE: 'Oxidized Rust' (Reduces target Resilience by     |
 | -25% per stack)                                                     |

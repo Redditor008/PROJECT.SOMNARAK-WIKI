@@ -186,7 +186,7 @@ Director Majin establishes real-time GBS tactical coordinates:
     * Mellda's golden arm-blade turns the crashing stone slab aside. The impact shocks the monolith's crystalline base, dealing 26 Grudge damage and inflicting +18 Stagger.
   * Specialist Park follows through with `[Lament Requiem Resonant Smash]` from Node 4:
     * Attack is unopposed! Deals 36 Lament damage directly through the acoustic crack, eroding the monolith's composure.
-  * Specialist Kim delivers a 3-round burst from Node 6, adding 24 piercing damage.
+  * Specialist Kim delivers a 3-round burst from Node 6, adding 24 skewer damage.
 
 
 ```text
@@ -300,7 +300,7 @@ Director Majin establishes real-time GBS tactical coordinates:
 |   2.0x DAMAGE)                                                      |
 | - Node 02: Border Lead Mellda (Severing Basalt Anchors)             |
 | - Node 03: Specialist Park (Priming Requiem Climax Resonance)       |
-| - Node 06: Specialist Kim (Discharging Piercing Void Bolt)          |
+| - Node 06: Specialist Kim (Discharging Skewer Void Bolt)            |
 +---------------------------------------------------------------------+
 | - Mellda : Spd 5 -> 3 AP | HP 168/180 | SP +28 | Posture 62/85      |
 | - Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55         |
@@ -376,7 +376,7 @@ Director Majin establishes real-time GBS tactical coordinates:
 | Meltdowns Cleared   | 3 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Green Second Watch                          |
+| Ordeals Suppressed  | 1 Blue Second Watch                           |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE S (Outstanding)                         |
@@ -552,7 +552,7 @@ This is an existential emergency! If both bird chambers overload simultaneously,
 
 Both specialists clear the overloads with 9 seconds remaining! The resonance frequency collapses back into safe baseline ranges. The three birds cease their unison chirp.
 
-##### Ordeal Manifestation: Rust Second Watch Ordeal — The Sanguine Larvae
+##### Ordeal Manifestation: Grey Second Watch Ordeal — The Sanguine Larvae
 At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt across Floor 2 and Floor 3, spawning scuttling Sorrow Larvae that seek out containment doors to cause instant breaches!
 
 ```text
@@ -564,7 +564,7 @@ At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt 
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 4x Rapid Flesh Pods & Broods                            |
 | - Attack Affinity: Grudge Bleed Hemorrhage                          |
-| - Weakness Affinity: Void / Pierce                                  |
+| - Weakness Affinity: Void / Skewer                                  |
 | TACTICAL DEPLOYMENT: SPLIT TEAMS INTERCEPT                          |
 +=====================================================================+
 ```
@@ -780,7 +780,7 @@ Director Majin establishes split-team GBS sector commands:
 | Meltdowns Cleared   | 4 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Rust Second Watch                        |
+| Ordeals Suppressed  | 1 Grey Second Watch                           |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -960,7 +960,7 @@ At 0.145 tons harvested, the facility's emergency sirens shift from amber to vio
 | INTRUSION POINT : FLOORS 1, 3, AND 5                                |
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 3x Colossal Gilded Monoliths                            |
-| - Attack Affinity: Piercing Void Lasers                             |
+| - Attack Affinity: Skewer Void Lasers                               |
 | - Weakness Affinity: Lament / Weight                                |
 | TACTICAL DEPLOYMENT: TRI-SECTOR INTERCEPT                           |
 +=====================================================================+
@@ -1186,7 +1186,7 @@ All three monoliths collapse simultaneously into inert slag! +22 RHR reagents co
 | Meltdowns Cleared   | 5 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Violet Third Watch                          |
+| Ordeals Suppressed  | 1 Purple Third Watch                          |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE S (Exceptional)                         |
@@ -1235,7 +1235,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | Suit                | | Divine Ward                                 |
 +---------------------------------------------------------------------+
 | Blessed Scalpel     | Weapon: 18-24 Void                            |
-| | (Void Piercing / Resonance)                                       |
+| | (Void Skewer / Resonance)                                         |
 | | Fast)                                                             |
 +---------------------------------------------------------------------+
 | Healer's Halo Stigma  | Crown: +10 All Stats,                       |
@@ -1365,7 +1365,7 @@ Five chambers flashing simultaneously! Director Majin immediately coordinates a 
 
 All remaining three cells stabilized with 14 seconds on the timer! Total facility breach prevented!
 
-##### Ordeal Manifestation: Amber Third Watch Ordeal — The Churning Hive
+##### Ordeal Manifestation: Ashen Third Watch Ordeal — The Churning Hive
 At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented centipedes burst through the flagstones of Floor 5 and Floor 6:
 
 ```text
@@ -1377,7 +1377,7 @@ At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented c
 | HOSTILE PARAMETERS:                                                 |
 | - Entity: 1x Colossal Segmented Burrower                            |
 | - Attack Affinity: Crushing Weight Shock                            |
-| - Weakness Affinity: Physical Slash / Void                          |
+| - Weakness Affinity: Physical Gash / Void                           |
 | TACTICAL DEPLOYMENT: MELLDA, HWANG & BAE                            |
 +=====================================================================+
 ```
@@ -1602,7 +1602,7 @@ In 25 seconds of blistering combat, the queen burrower dissolves into crystalliz
 | Meltdowns Cleared   | 6 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Amber Third Watch                           |
+| Ordeals Suppressed  | 1 Ashen Third Watch                           |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -1649,7 +1649,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | Plate                                                             |
 +---------------------------------------------------------------------+
 | Furnace Maul        | Weapon: 16-22 Grudge                          |
-| | (Grudge Blunt / Heavy)                                            |
+| | (Grudge Bludgeon / Heavy)                                         |
 +---------------------------------------------------------------------+
 | Meteoric Bracer     | Bracer: +5 Resilience,                        |
 | Stigma                | +5% Physical Block                          |
@@ -1678,7 +1678,7 @@ At 02:00, the seismic sensors record a massive subterranean shockwave traveling 
 
 > **Ayshuk:** _"Chambers 031, 032, and 033 are locked in tripartite harmonic resonance. When The Guarding Bird stretches its wings on Floor 2, The Weighting Bird tilts its scale on Floor 4, and The Whispering Bird flutters its small bronze beak on Floor 3. The acoustic bleed is zero. They are balancing each other's sorrow."_
 
-> **Mellda:** _"They may be calm inside their chambers, Director, but the perimeter is trembling. A Violet Second Watch Ordeal is tearing through Floor 5's border gate. A dimensional hand—five meters across, forged of faceted crystal—is reaching into our transit corridor."_
+> **Mellda:** _"They may be calm inside their chambers, Director, but the perimeter is trembling. A Purple Second Watch Ordeal is tearing through Floor 5's border gate. A dimensional hand—five meters across, forged of faceted crystal—is reaching into our transit corridor."_
 
 > **Majin:** _"Deploy Park, Mellda, and Hwang to Gate 05. The birds have shown us how balance works. Show that rift what Directorate discipline means."_
 
@@ -1702,7 +1702,7 @@ Shift parameters engaged for Day 45. Target energy quota rises to **0.160 tons**
 
 Operational priorities for Day 45:
 1. Maintain tripartite stabilization across Chambers 031, 032, and 033.
-2. Intercept and suppress the Violet Second Watch Ordeal along Floor 5's outer gate.
+2. Intercept and suppress the Purple Second Watch Ordeal along Floor 5's outer gate.
 3. Advance senior operative proficiencies using the Four P-Framework.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
@@ -1752,7 +1752,7 @@ Specialist Hwang enters Chamber 031 for Viderehan observation:
 ```
 
 - **Work Tick 01–05:** 5 Successes. The small bronze bird pecks gently at Hwang's collar.
-- **Work Tick 06:** Failure! A sudden sharp chirp deals 4 White (Lament) damage (SP: 66/70).
+- **Work Tick 06:** Failure! A sudden sharp chirp deals 4 (Lament) damage (SP: 66/70).
 - **Work Tick 07–10:** 4 Successes.
 - **Work Result:** **9/10 Positive Han Crystals (EXCELLENT WORK RESULT)!**
 - Yield: **+0.028 tons** of refined Han lubricant extracted.
@@ -1761,7 +1761,7 @@ Energy meter climbs to `0.092 / 0.160 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Second Watch (Violet) Suppression
+#### 3. Ordeal Manifestation: Second Watch (Purple) Suppression
 
 At 14:40, the space outside Gate 05 shatters like crystalline glass:
 
@@ -1773,8 +1773,8 @@ At 14:40, the space outside Gate 05 shatters like crystalline glass:
 | CLASSIFICATION : VIOLET (ALL-AFFINITY) SECOND WATCH ENTITY          |
 | INTRUSION POINT : FLOOR 5 BORDER OBSERVATION GATE (NODE 02)         |
 | HOSTILE PARAMETERS : HP 240/240 | Posture 120/120 | Speed 5 (3 AP)  |
-| ATTACK AFFINITY : Violet (Pure Disruption / Prismatic Decay)        |
-| AFFINITY VULNERABILITY: Void (Pierce: 1.5x) & Lament (Clear: 1.25x) |
+| ATTACK AFFINITY : Void (Pure Disruption / Prismatic Decay)          |
+| AFFINITY VULNERABILITY: Void (Skewer: 1.5x) & Lament (Clear: 1.25x) |
 | SPECIAL THREAT : Dimensional reach allows attacks across 4 n        |
 | TACTICAL ORDERS : ANCHOR AT NODE 02; BREAK FINGERS WITH SCALP       |
 +=====================================================================+
@@ -1947,7 +1947,7 @@ A colossal, five-fingered arm composed of iridescent violet crystal protrudes fr
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [MIST]  [MELLDA][PARK]  [HWANG]                         [MAJIN]     |
 +---------------------------------------------------------------------+
-| - Node 02: Piercing Hand (Dissolved into Prismatic Violet Fog)      |
+| - Node 02: Piercing Hand (Dissolved into Prismatic Purple Fog)      |
 | - Node 03: Border Lead Mellda (Checking Border Perimeter Seals)     |
 | - Node 04: Specialist Park (Collecting Pure Refined Reagents)       |
 | - Node 05: Specialist Hwang (Sealing Dimensional Rift Fissure)      |
@@ -1979,7 +1979,7 @@ Total daily harvest reaches **0.168 / 0.160 tons**! Quota surpassed!
 | Han Energy Harvested | 0.160 Tons | 0.168 Tons [MET]                |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [CLEARED]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Violet Second Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]    |
+| Purple Second Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]    |
 | Triad Resonance Sync | 100% Stable | HARMONIC BALANCED              |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (TRIAD HARMONIC MASTER)            |
@@ -2260,7 +2260,7 @@ Director Majin establishes Deep Vault GBS tactical parameters:
 - **Tripartite Resonance Strike**:
   * **Archive Lead Marjuk**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to maintain *The Temporal Stasis Array*, freezing the lower elevator shaft in chronological amber.
   * The Weeping Shadow attempts `[Chrono-Lament Wail]`, but Marjuk's stasis array turns the pulse back into the projection!
-  * **Specialist Hwang**: From Node 04 (Range Band 2), discharges `[Whispering Needle Piercing Void]`: **36 Void Damage**!
+  * **Specialist Hwang**: From Node 04 (Range Band 2), discharges `[Whispering Needle Skewer Void]`: **36 Void Damage**!
   * **Specialist Park**: From Node 05 (Range Band 3), unleashes a resonant Lament beam: **32 Damage**!
   * Weeping Shadow HP drops to **212/360**!
   * Posture drops to **68/170**, crossing the **60% Posture Threshold (102 Points)**!
@@ -2455,7 +2455,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | Robe                | | High Fluid Ward                             |
 +---------------------------------------------------------------------+
 | Fountain Siphon Bow | Weapon: 16-24 Lament                          |
-| | (Lament Piercing / Resonance)                                     |
+| | (Lament Skewer / Resonance)                                       |
 | | Long)                                                             |
 +---------------------------------------------------------------------+
 | Cherub's Tear Stigma  | Necklace: +8 Max SP,                        |

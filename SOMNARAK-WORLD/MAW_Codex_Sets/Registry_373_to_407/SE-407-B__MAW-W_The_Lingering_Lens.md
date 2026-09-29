@@ -22,7 +22,7 @@ The Lingering Lens is a pale lens of Han glass with a burning empty center — t
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Void | 10–15 | 3 / 3 | Pierce; 100% → 70% → 50% | 2 / 50 |
+| δ / Void | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 |
 
 **Gap Defense:** Cuts active erasure around one removed-memory boundary.
 

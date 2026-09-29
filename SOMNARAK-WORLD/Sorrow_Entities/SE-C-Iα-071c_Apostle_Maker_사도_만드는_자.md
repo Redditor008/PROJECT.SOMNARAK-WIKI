@@ -182,13 +182,13 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 Apostle Maker speaks. The Kind Healer was silent; the Blessing Giver was warm but wordless. Apostle Maker speaks, and her voice carries authority that has nothing to do with volume. She says "come" and the marked come. She says "kneel" and they kneel. She says "rise" and they rise, and the rising is not metaphorical — they lift off the ground, held by invisible light.
 
 **Entry 2 — <The Wings>**
-The wings are real now. Not suggestions of wings, not traces of light — real, solid, feathered constructs that extend five meters from shoulder to tip. They are gold, for now. The R.D. monitors the color obsessively. Gold means Hope. Violet means Mourning. So far, gold. But the city's sorrow index is rising.
+The wings are real now. Not suggestions of wings, not traces of light — real, solid, feathered constructs that extend five meters from shoulder to tip. They are gold, for now. The R.D. monitors the color obsessively. Gold means Hope. Purple means Mourning. So far, gold. But the city's sorrow index is rising.
 
 **Entry 3 — <The Conversions>**
 Each conversion is both beautiful and terrifying. The marked individual stands still. Apostle Maker extends her hand. Light flows from palm to chest. The person's eyes widen — then close. When they open again, they are different. Still themselves, still aware, but bound. The brand on their wrist deepens from a warm mark to a steady glow. They have been chosen, and the choosing is permanent.
 
 **Entry 4 — <The Eleventh>**
-Eleven. One more. Apostle Maker stands motionless, wings spread, light radiating, the twelfth marked individual somewhere in the facility. The R.D. has two options: let the conversion happen and hope for 4a (Hope), or suppress now and risk everything. The wing color is still gold — but barely. Violet traces have appeared at the tips. The balance is shifting.
+Eleven. One more. Apostle Maker stands motionless, wings spread, light radiating, the twelfth marked individual somewhere in the facility. The R.D. has two options: let the conversion happen and hope for 4a (Hope), or suppress now and risk everything. The wing color is still gold — but barely. Purple traces have appeared at the tips. The balance is shifting.
 
 **Entry 5 — <The Apotheosis>**
 The twelfth conversion is instant. Apostle Maker does not walk to them — she appears beside them. One touch. One flash of light that fills the entire facility. And then she begins to change — her form blazing, her wings spreading to their full span, her voice rising to a single sustained note that is either the most hopeful sound or the most sorrowful sound anyone has ever heard. The chain is complete. Stage 4 begins.
@@ -225,11 +225,11 @@ Apostle Maker is not cruel. She is not angry. She is certain. And certainty, in 
 
 What she does not know — what no one knows — is whether the transformation will save the city or end it.
 
-The wings tell the story. Gold for Hope. Violet for Mourning. The R.D. watches the color like meteorologists watch a hurricane: tracking, measuring, unable to influence, hoping the storm turns away.
+The wings tell the story. Gold for Hope. Purple for Mourning. The R.D. watches the color like meteorologists watch a hurricane: tracking, measuring, unable to influence, hoping the storm turns away.
 
 The twelve conversions happen in order. Each one is a person who was blessed — healed, strengthened, marked — and who now stands before the Apostle Maker and receives the final step. The conversion is not violent. It is gentle, warm, almost tender. The entity takes their hand, looks into their eyes, and says one word: "Rise." And they rise. And they are different.
 
-The eleventh conversion completes. Apostle Maker's wings are fully solid now — feathered, physical, real. Gold at the base. Violet at the tips. The balance is shifting. The twelfth marked individual is somewhere in the facility, and the Apostle Maker is coming for them, and when she finds them, the chain will complete, and the city will receive either the Hand of Hope or the Dawn of Mourning.
+The eleventh conversion completes. Apostle Maker's wings are fully solid now — feathered, physical, real. Gold at the base. Purple at the tips. The balance is shifting. The twelfth marked individual is somewhere in the facility, and the Apostle Maker is coming for them, and when she finds them, the chain will complete, and the city will receive either the Hand of Hope or the Dawn of Mourning.
 
 The healer learned to command. And the command is almost finished. One more word. One more "rise." And then: transformation. Salvation or catastrophe. The difference is one person's sorrow, in one moment, in a city of six thousand years of accumulated grief.
 
@@ -241,7 +241,7 @@ The healer learned to command. And the command is almost finished. One more word
 
 > *"The wings changed color during the tenth conversion. Gold to violet at the tips. Barely visible — a shade, a tint. But we saw it. And we knew: the chain might go either way. The city's sorrow is winning."* — Commander Taeho
 
-> *"Apostle Maker paused at the Maw's perimeter. She stood there for three minutes, saying nothing. The wings flickered. Gold. Violet. Gold. Violet. Then she moved on. The R.D. later confirmed: that was the moment the chain's direction was nearly decided. If she had lingered one more minute, the sorrow would have won."* — Keeper, Archive
+> *"Apostle Maker paused at the Maw's perimeter. She stood there for three minutes, saying nothing. The wings flickered. Gold. Purple. Gold. Purple. Then she moved on. The R.D. later confirmed: that was the moment the chain's direction was nearly decided. If she had lingered one more minute, the sorrow would have won."* — Keeper, Archive
 
 ## 기록 (Registrum) — The Record
 

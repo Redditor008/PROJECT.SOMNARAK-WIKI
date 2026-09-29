@@ -1257,7 +1257,7 @@ The delicate brass needle tilts continuously between the two pans in response to
 **Entry 40 — The Hollow Sceptre (Weapon)**
 
 **Category:** MAGIC (Choral Staff / Resonant Sceptre) | **Grade:** γ | **Element:** Void
-**Damage:** Void 8–14 | **Speed:** 3 (Normal) | **Range:** 4 (Long) | **Pattern:** Line Pierce / Ultrasonic Beam
+**Damage:** Void 8–14 | **Speed:** 3 (Normal) | **Range:** 4 (Long) | **Pattern:** Line Skewer / Ultrasonic Beam
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Hollow Saint's void signature in the strike, carving out mental space for targets to reclaim agency.
 
@@ -1519,7 +1519,7 @@ Petrified rose briars spiral across the iron chain links, reinforcing key impact
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** *Reciprocal Barbs* — Reflects 30% of incoming melee physical damage back to the attacker as piercing Grudge laceration.
+**Ability:** *Reciprocal Barbs* — Reflects 30% of incoming melee physical damage back to the attacker as skewer Grudge laceration.
 
 ---
 
@@ -2103,7 +2103,7 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 **Entry 115 — The Phantom Dancer's Tri-Daggers (Weapon)**
 
 **Category:** FANTASY (Spectral Silk Glove & 3 Telekinetic Daggers) | **Grade:** β | **Element:** Grudge
-**Damage:** Grudge 4–8 (x3 strikes) | **Speed:** 4 (Fast) | **Range:** 3 (Medium — 2–4m) | **Pattern:** Tri-Blade Flurry / Telekinetic Pierce
+**Damage:** Grudge 4–8 (x3 strikes) | **Speed:** 4 (Fast) | **Range:** 3 (Medium — 2–4m) | **Pattern:** Tri-Blade Flurry / Telekinetic Skewer
 
 **Ability:** Deals rapid multi-hit Grudge damage at Range 3. The spectral glove commands three hovering silver daggers to dart independently, piercing targets in rapid flurries.
 
@@ -2262,7 +2262,7 @@ Appearance : A cluster of three diamond-faceted lavender crystal prisms hovering
 Without physical handles or cords, the three twenty-centimeter prisms respond instantaneously to telekinetic hand gestures. Thrusting a palm forward launches the crystals in high-speed linear piercing trajectories up to Range 4 before they snap smoothly back into revolving equilibrium around the wrist.
 
 **Special Move Set:**
-- *Primary Kinematics — "Oneiric Pierce":* Thrusting the open hand forward commands one lavender prism to streak in a razor-sharp linear vector across Range 4, puncturing the target's psyche with Lament before arcing smoothly back into orbit.
+- *Primary Kinematics — "Oneiric Skewer":* Thrusting the open hand forward commands one lavender prism to streak in a razor-sharp linear vector across Range 4, puncturing the target's psyche with Lament before arcing smoothly back into orbit.
 - *Active Special — "Somnolence Cage":* The wielder clasps their hands together at chest height; all three prisms accelerate into a spinning violet ring around a target at Range 4, projecting refracted planar beams of dream-light inward. The target is trapped within the geometric somnolence field for 3 seconds, taking continuous psychic erosion and suffering 50% slowed action speed.
 - *Cost & Drawback:* Mental synchronization drains cognitive stamina; sustaining the cage prevents the wielder from sprinting.
 

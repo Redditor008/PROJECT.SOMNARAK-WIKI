@@ -32,7 +32,7 @@ Splinter Requiem is a slender Lament Han-crystal blade with a wet, luminous edge
 | Grade / Element | δ / Lament |
 | Damage | 10–15 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Pattern | Pierce; 3 targets; 100% → 70% → 50% |
+| Pattern | Skewer; 3 targets; 100% → 70% → 50% |
 | Maximum / Echo Cost | 2 / 50 |
 
 **Runoff Line:** A thrust carries one released grief along the blade’s wet edge and through up to three targets. The cut attacks emotional stability. It cannot distinguish the wielder’s tears from Splinter’s if the channel is held too long.

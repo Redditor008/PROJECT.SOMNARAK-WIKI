@@ -156,7 +156,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
   - *The Observing Bird* (SE-C-IIIγ-031) on Floor 2.
   - *The Weighting Bird* (SE-C-IIIγ-032) on Floor 3.
   - *The Guarding Bird* (SE-C-IIIγ-033) on Floor 3.
-- **Ordeal Incursions:** Emergence of **Second Watch** incursions (*Violet Second Watch*, *Amber Second Watch*, *Rust Second Watch*, *Green Second Watch*).
+- **Ordeal Incursions:** Emergence of **Second Watch** incursions (*Purple Second Watch*, *Ashen Second Watch*, *Grey Second Watch*, *Blue Second Watch*).
 - **Specialist Cadre:** Promotion of core cadre to Grade 3. High Composure specialists assigned to acoustic dampening.
 
 ### Phase 3: Days 51 to 100 — Heavy Containment, Memory Archives & Ballast Forge
@@ -166,7 +166,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 - **Deep Facility Environmental Hazards:**
   - *Archive Sediment Fog:* Passive mental SP bleed in Floor 5 corridors requiring periodic Veil Mist ventilation.
   - *Crucible Heat Dissipation:* Extreme thermal radiation in Floor 6 corridors during high-intensity Ferrehan containment.
-- **Ordeal Incursions:** Emergence of **Third Watch** incursions (*Amber Third Watch*, *Rust Third Watch*, *Violet Third Watch*, *Green Third Watch*). Coordinated multi-department suppression teams required.
+- **Ordeal Incursions:** Emergence of **Third Watch** incursions (*Ashen Third Watch*, *Grey Third Watch*, *Purple Third Watch*, *Blue Third Watch*). Coordinated multi-department suppression teams required.
 - **Specialist Cadre:** Emergence of Grade 4 Senior Containment Specialists. Equipping specialized Class III M.A.W. Stigma sets.
 
 ```text
@@ -193,7 +193,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 - **Echo-Core Realization Protocol:** As acoustic strain exceeds threshold tolerances, each of the eight Echo-Core Attendants undergoes a **Core Meltdown Crisis**. Cumulative cycles of trauma erode their mnemonic suppression:
   - The Director must oversee floor-by-floor containment and suppress the attendant's manifested personal grief.
   - Successfully resolving a Core Meltdown achieves **Attendant Awakening**, permanently unlocking the Floor Attendant's Sovereign Aura and granting permanent facility-wide immunities.
-- **Ordeal Incursions:** First emergence of catastrophic **Tide Watch** Ordeals (*Violet Tide Watch*, *Amber Tide Watch*, *Green Tide Watch*).
+- **Ordeal Incursions:** First emergence of catastrophic **Tide Watch** Ordeals (*Purple Tide Watch*, *Ashen Tide Watch*, *Blue Tide Watch*).
 - **Specialist Cadre:** Progression of first Grade 5 Masters.
 
 ```text
@@ -408,7 +408,7 @@ Each Ordeal color corresponds to a specific emotional pathology and combat aspec
    - *Manifestation:* Brutal, rusted iron automata, stone slabs, and physical golems.
    - *Tactical Behavior:* Slow movement, colossal physical HP pools, devastating melee sweeps.
    - *Suppression Doctrine:* High-Resilience melee specialists tanking at Range Band 1 while ranged Lament weapons shred their armor from Range Band 3–4.
-2. **Red (Blood & Wrath / 분노 — Grudge & Weight Damage):**
+2. **Grey (Blood & Wrath / 분노 — Grudge & Weight Damage):**
    - *Manifestation:* Skittering insectoid clusters, sanguinary hounds, and lacerating husks.
    - *Tactical Behavior:* High movement speed, aggressive target-locking, inflicting stacking bleed trauma.
    - *Suppression Doctrine:* Intercept at Range Band 2 using Four-Sign Aegis; burst down with rapid Resolve-scaled armaments.
@@ -416,15 +416,15 @@ Each Ordeal color corresponds to a specific emotional pathology and combat aspec
    - *Manifestation:* Drowned humanoids, sorrow puddles, and mournful wailing processions.
    - *Tactical Behavior:* Floods corridors with psychic grief; inflicts area-of-effect SP drain; causes mass agent panic.
    - *Suppression Doctrine:* Deploy high-Clarity specialists equipped with high Lament-resistance M.A.W. suits; maintain distance at Range Band 3.
-4. **Violet (Void & Oblivion / 공허 — Void Damage):**
+4. **Purple (Void & Oblivion / 공허 — Void Damage):**
    - *Manifestation:* Monolithic obelisks, dimensional tears, and hovering eye clusters.
    - *Tactical Behavior:* Warps spatial geometry; fires piercing percent-based Void beams across corridors; corrupts chamber timers.
    - *Suppression Doctrine:* Priority target. Must be suppressed immediately using coordinated multi-agent flanking before beam charge cycles complete.
-5. **Amber (Hunger & Depletion / 갈증 — Weight & Grudge Damage):**
+5. **Ashen (Hunger & Depletion / 갈증 — Weight & Grudge Damage):**
    - *Manifestation:* Subterranean segmented worms, burrowing maw-beasts, and devouring larvae.
    - *Tactical Behavior:* Burrows beneath floor plates, bypassing corridor defenses; targets facility ballast directly; devours fallen specialists to heal.
    - *Suppression Doctrine:* Deploy heavy Weight-resistant vanguards to block burrow exits; kite at Range Band 2.
-6. **Green (Entropy & Stagnation / 기계 — Weight & Lament Damage):**
+6. **Blue (Entropy & Stagnation / 기계 — Weight & Lament Damage):**
    - *Manifestation:* Rusted industrial engines, grinding gears, and malfunctioning walking tanks.
    - *Tactical Behavior:* Fires heavy artillery shells across entire floors; deploys combat drones; self-destructs upon death in an explosive blast.
    - *Suppression Doctrine:* Engage with mobile specialists; retreat all suppression teams to adjacent sectors immediately upon entity death to avoid explosion.
@@ -438,18 +438,18 @@ Each Ordeal color corresponds to a specific emotional pathology and combat aspec
 | Grey   | Spite     | Grudge         | Band 1 |
 |        |           | (Physical)     |        |
 +--------+-----------+----------------+--------+
-| Red    | Wrath     | Grudge /       | Band 2 |
+| Grey   | Wrath     | Grudge /       | Band 2 |
 |        |           | Weight Wave    |        |
 +--------+-----------+----------------+--------+
 | Blue   | Despair   | Lament         | Band 3 |
 |        |           | (Psychic)      |        |
 +--------+-----------+----------------+--------+
-| Violet | Oblivion  | Void (Decay)   | Band 4 |
+| Purple | Oblivion  | Void (Decay)   | Band 4 |
 +--------+-----------+----------------+--------+
-| Amber  | Hunger    | Weight /       | Band 1 |
+| Ashen  | Hunger    | Weight /       | Band 1 |
 |        |           | Grudge Crash   |        |
 +--------+-----------+----------------+--------+
-| Green  | Entropy   | Weight /       | Band 5 |
+| Blue   | Entropy   | Weight /       | Band 5 |
 |        |           | Lament Pulse   |        |
 +====================+================+========+
 ```

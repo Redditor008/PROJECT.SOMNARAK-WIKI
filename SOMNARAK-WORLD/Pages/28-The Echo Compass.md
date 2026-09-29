@@ -93,7 +93,7 @@ Unlike Subject entities whose codices unlock via raw energy box count, Tool Reli
 > *“I touched the casing before the bronze had stopped shivering. The sound didn't hit my ears—it hit the inside of my teeth. For three hours afterward, every word spoken by my squadmates sounded like it was being underwatered in cold grease. Always let the needle rest.”*
 
 ### Log 001-C (Warden Field Note, Cycle 1,771)
-> *“Pulsed the compass twice during the Violet incursion on Floor 3. Second pulse caught the burrower mid-tunnel behind Cell 02 — squad collapsed the shaft before it surfaced. One relic, zero casualties, eleven seconds of foresight. I have requisitioned a commendation for a brass dish.”*
+> *“Pulsed the compass twice during the Purple incursion on Floor 3. Second pulse caught the burrower mid-tunnel behind Cell 02 — squad collapsed the shaft before it surfaced. One relic, zero casualties, eleven seconds of foresight. I have requisitioned a commendation for a brass dish.”*
 
 ## 7 Metaphysical Origin and Story
 

@@ -143,7 +143,7 @@
 - **Pincer Strike on Hammer Arm:**
   * Joon executes *Hydraulic Piston Punch* (2 AP):
     - Base Damage: 65 * Weight (0.5x) * Pincer (1.25x) = 41 Damage.
-  * Taeho executes *UCD Cleaver Slash* (2 AP):
+  * Taeho executes *UCD Cleaver Gash* (2 AP):
     - Base Damage: 75 * Grudge (0.8x) * Pincer (1.25x) = 75 Damage!
   * Hammer Arm HP: 566 -> 450 / 650 (Rupture Threshold: 390 HP).
 

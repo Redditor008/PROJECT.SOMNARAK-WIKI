@@ -55,7 +55,7 @@ The escape counter drops under specific conditions detailed in the entity's ward
 6. **Incompatible Attribute Rank:** Sending an operative whose Resilience or Clarity is below the entity's required threshold.
 7. **Shift Duration Fatigue:** Working with the same entity more than 5 times in a single shift.
 8. **Adjacent Wing Breaches:** Localized tectonic tremors from nearby escaping horrors agitate fragile cells.
-9. **Ordeal Emergence:** Certain entities react violently whenever a Violet or Black Ordeal manifests.
+9. **Ordeal Emergence:** Certain entities react violently whenever a Purple or Obsidian Ordeal manifests.
 10. **Direct Provocation:** Equipping weapons derived from an entity's natural predator.
 
 ## 4 Breach Dynamics and Hallway Pathfinding AI

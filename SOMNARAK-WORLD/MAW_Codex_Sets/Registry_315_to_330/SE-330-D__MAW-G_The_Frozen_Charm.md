@@ -38,7 +38,7 @@ Delicate frost fractures run through the lens without obscuring vision, highligh
 
 ### Passive Ability — Terminal Clarity
 
-**Effect:** While the monocle is equipped, the wearer gains heightened visual acuity against targets affected by movement-impairing penalties (Slow, Frostbite, Kinetic Anchor). Any attack directed at an immobilized enemy ignores 20% of their physical armor and deals an additional 3–5 Black Weight damage as ice shards splinter within the wound.
+**Effect:** While the monocle is equipped, the wearer gains heightened visual acuity against targets affected by movement-impairing penalties (Slow, Frostbite, Kinetic Anchor). Any attack directed at an immobilized enemy ignores 20% of their physical armor and deals an additional 3–5 Weight damage as ice shards splinter within the wound.
 
 **Environmental Telemetry:** When navigating through blizzard conditions, sub-zero conduits, or fogged observation sectors, the monocle filters out visual obstruction, highlighting doorways, structural emergency levers, and extraction points in pale blue outline.
 

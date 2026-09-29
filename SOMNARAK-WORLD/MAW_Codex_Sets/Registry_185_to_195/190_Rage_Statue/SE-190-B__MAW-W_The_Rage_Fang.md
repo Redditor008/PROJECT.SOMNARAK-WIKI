@@ -26,7 +26,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
-| Grudge 7–12 | 3 — Fast / 3 — Medium | Pierce, 3 targets, 100% → 70% → 50% | 3 / 40 |
+| Grudge 7–12 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 3 / 40 |
 
 ## FUNCTION & COST
 

@@ -75,7 +75,7 @@ A M.A.W. echo may be drawn only when Walking Calendar releases a date after the 
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Years Maul:** Weight 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. The wielder grows heavier and ages slightly with prolonged use.
+- **Years Maul:** Weight 10–15; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 2; 50 Echoes. The wielder grows heavier and ages slightly with prolonged use.
 - **Years Mantle:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 2; 45 Echoes. It reveals the age of everything touched and can bury the wearer beneath accumulated context.
 - **Years Charm:** Head Stigma; 4%; +3 Resolve during source work. It draws attention to missing dates; the bearer’s movement slows with every omission held open.
 

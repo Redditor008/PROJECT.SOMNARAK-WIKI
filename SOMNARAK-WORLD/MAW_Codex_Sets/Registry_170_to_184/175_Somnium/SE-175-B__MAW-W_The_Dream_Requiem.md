@@ -33,21 +33,21 @@ Extracted after Somnium released one dream thread when a worker woke on cue and 
 
 ## Appearance
 
-The Dream Requiem is a blue blade of Han crystal threaded with shifting light, the strands moving under the surface like a path traced through a sleeping room. In rest the thread-light wanders without direction and the blade stays silent; it only hums after the bearer states the waking cue and the dreamer’s consent boundary aloud. Drawn, the threads align into a single luminous line down the flat, and a Lament Pierce along that line can separate a person from a maze built out of their own hidden desire without declaring the dream false. The grip is wrapped in pale blue cord and the guard is a thin oval that frames the thread-light like a doorway. The bearer carries unwept dream grief after every use and requires a waking orientation check when a full Pierce line has been run. The blade is never drawn without a waking anchor, and calling a mirrored desire “what must happen” turns the path inward and ends activation. The anchor covers the thread line, gives the cue, and cases the blade during shutdown.
+The Dream Requiem is a blue blade of Han crystal threaded with shifting light, the strands moving under the surface like a path traced through a sleeping room. In rest the thread-light wanders without direction and the blade stays silent; it only hums after the bearer states the waking cue and the dreamer’s consent boundary aloud. Drawn, the threads align into a single luminous line down the flat, and a Lament Skewer along that line can separate a person from a maze built out of their own hidden desire without declaring the dream false. The grip is wrapped in pale blue cord and the guard is a thin oval that frames the thread-light like a doorway. The bearer carries unwept dream grief after every use and requires a waking orientation check when a full Skewer line has been run. The blade is never drawn without a waking anchor, and calling a mirrored desire “what must happen” turns the path inward and ends activation. The anchor covers the thread line, gives the cue, and cases the blade during shutdown.
 
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
-| Lament 7–12 | 3 — Fast / 3 — Medium | Pierce, 3 targets, 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
+| Lament 7–12 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
 
-**Operational cost:** The bearer carries unwept dream grief. **Recovery:** waking orientation check after a full Pierce line.
+**Operational cost:** The bearer carries unwept dream grief. **Recovery:** waking orientation check after a full Skewer line.
 
 ## COMBAT FILE
 
-**Basic — *Unlived Line*:** A Lament Pierce separates a person from a maze made of their own hidden desire.
+**Basic — *Unlived Line*:** A Lament Skewer separates a person from a maze made of their own hidden desire.
 
-**Signature — *Return the Thread*:** When the anchor confirms a waking route, the line breaks a dream-loop across its Pierce path and restores the dreamer’s ability to choose whether to wake. It cannot declare the dream false or turn the desire into evidence. If the bearer ignores the cue, a fragment of the anchor’s voice becomes emotionally distant.
+**Signature — *Return the Thread*:** When the anchor confirms a waking route, the line breaks a dream-loop across its Skewer path and restores the dreamer’s ability to choose whether to wake. It cannot declare the dream false or turn the desire into evidence. If the bearer ignores the cue, a fragment of the anchor’s voice becomes emotionally distant.
 
 ## HISTORY OF USE
 

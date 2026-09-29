@@ -46,7 +46,7 @@ During the The Shard of a Broken Promise Source-Trace, the field team preserved 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Promise Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-851-B__MAW-W_The_Promise_Requiem.md` |
+| The Promise Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-851-B__MAW-W_The_Promise_Requiem.md` |
 | The Promise Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-851-C__MAW-S_The_Promise_Shroud.md` |
 | The Promise Shard | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-851-D__MAW-G_The_Promise_Shard.md` |
 

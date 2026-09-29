@@ -22,7 +22,7 @@ The Vanished Lens is a pale lens of Han glass with an empty center and active er
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Void | 7–12 | 3 / 3 | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Void | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Erasure Cut:** Targets up to three active deletion paths. It cannot recover or attack absent content.
 

@@ -184,7 +184,7 @@ Standing five meters tall, its body was formed from a lattice of interlocking tu
  ELITE BREACH: SECC-E50 "THE SOVEREIGN RESONATOR" (Grade-β Potency)
 ================================================================================
  BOSS ATTRIBUTES:
- - Health (HP): 3,200 | Speed Dice: 2–6 (2 Action Slots)
+ - Health (HP): 3,200 | Tempo Dice: 2–6 (2 Action Slots)
  - Weaknesses: Void (Exposed 2.0x — Pure non-vibrational silence fractures tuning forks)
  - Primary Threat: [Harmonic Discord] — Deals 20 mental damage to unshielded targets
 ================================================================================
@@ -230,12 +230,12 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
  COMBAT & COMMUNION PROFILE:
  - Maximum Health (HP): 6,000
  - Stagger Thresholds: 4,200 HP (70%) | 2,400 HP (40%) | 600 HP (10%)
- - Base Defense: 70 | Speed Dice: 2–6 (3 Attack Slots, 5 in Phase 2)
+ - Base Defense: 70 | Tempo Dice: 2–6 (3 Attack Slots, 5 in Phase 2)
  - Resistances:
    * Grudge : 1.0x (Normal — Forged from humanity's first anguish)
-   * Lament: 0.5x (Endured — Saturated in four millennia of tears)
+   * Lament: 0.5x (Withstood — Saturated in four millennia of tears)
    * Void : 2.0x (Exposed Weakness — Transcendent truth and silence)
-   * Weight    : 0.5x (Endured — Cyclopean bedrock and oceanic ballast)
+   * Weight    : 0.5x (Withstood — Cyclopean bedrock and oceanic ballast)
 
  TARGETABLE COMPONENT PARTS:
  1. Aura of Primordial Grief  (HP: 1,200 | Stagger: 500) — Surging tidal barrier
@@ -400,7 +400,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
   * Harin (Speed 4 -> 2 AP): Holds Node 03, deflecting oceanic spray with `[Bulwark Wall]`.
   * Minjae (Speed 7 -> 4 AP): Inscribes `[Year Zero Inscription]` (2 AP), weakening tear halo cohesion.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 06 to 05)**: SECC-UR-VIIω-001 fires `[Petrified Tear Barrage]` (Base 18 + 2 Lots = 26 Power, Piercing Lament).
+  * **Clash 1 (Node 06 to 05)**: SECC-UR-VIIω-001 fires `[Petrified Tear Barrage]` (Base 18 + 2 Lots = 26 Power, Skewer Lament).
     * Sora clashes with `[Silver Cowl: Harmonic Damping Wave]` (Base 23 + 3 Lots Marked = 41 Power, Lament Harmony).
     * **Clash Outcome**: Sora WINS THE CLASH OVERWHELMINGLY (41 vs 26)!
     * The Silver Cowl resonates with pure clarity; the harmonic wave completely shatters the surging tidal barrier!
@@ -454,7 +454,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
   * Sora and Minjae: Prepare synchronized harmonic resonance.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 08 to 05)**: SECC-UR-VIIω-001 unleashes `[Echo of Millennial Bereavement]` (Base 19 + 2 Lots = 27 Power, Pale).
-    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 25 + 3 Lots Marked = 43 Power, Void Slash).
+    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 25 + 3 Lots Marked = 43 Power, Void Gash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (43 vs 27)!
     * The dark relic cleaver cleanly shears through the Petrified Tear Halo!
     * Deals **540 Void damage** (Exposed 2.0x proc!)!
@@ -553,7 +553,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The First Mourner awakens in cosmic agony; the entire subterranean ocean begins to boil with turquoise luminescence!
   * Boss Special Skill: `[Infinite Mugenhan Deluge]` (Primordial Cataclysm, 5 Lots).
-  * Speed Dice gains 5 slots! Cosmic grief surges to drown reality itself.
+  * Tempo Dice gains 5 slots! Cosmic grief surges to drown reality itself.
   * The Silent One breaks four centuries of absolute silence:
     > *"WE CARRY THIS SORROW TOGETHER!"*
   * The Silent One activates Relic Overdrive: `[REQUIEM OF THE FIRST MOURNER — ABSOLUTION]` (Cost: 3 AP, 30 SP).

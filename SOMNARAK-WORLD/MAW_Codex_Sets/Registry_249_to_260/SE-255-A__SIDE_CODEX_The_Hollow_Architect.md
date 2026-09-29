@@ -74,7 +74,7 @@ A stable echo forms after a structure’s intended occupants and use are documen
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Architect’s Maul:** Weight 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use adds age and heaviness.
+- **Architect’s Maul:** Weight 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use adds age and heaviness.
 - **Architect’s Mantle:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 3; 35 Echoes. It resists Weight under constant fatigue.
 - **Architect’s Compass:** Head Stigma; 4%; +2 Resolve during source work. It reveals intended structure; the bearer feels failed occupancy futures.
 

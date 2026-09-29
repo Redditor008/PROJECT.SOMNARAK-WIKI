@@ -184,7 +184,7 @@ The converged glass point forms a diamond-hard spear tip, while trapped silhouet
 
 **Special Move Set:**
 - *Primary Kinematics — "Cruciform Thrust":* High-velocity linear thrust; the four-sided glacial glass head punches through armor, inflicting Weight puncture damage and creating frost fractures in the target's surface.
-- *Active Special — "Glazing Shatter-Lance":* The wielder steps into a forward lunge, spins the mullion-pike horizontally to accumulate a vortex of sub-zero sorrow mist, then thrusts violently toward the target. At peak extension (Range 3), the four glass panes shatter outward in a forward cone of crystalline shrapnel up to 4 meters, penetrating multiple enemies before instantly reforming on the mullion head from condensing ambient moisture. Enemies caught in the shrapnel cone take piercing Weight damage and are afflicted with "Deep Frostbite" (reduces target movement speed by 40% for 3 seconds).
+- *Active Special — "Glazing Shatter-Lance":* The wielder steps into a forward lunge, spins the mullion-pike horizontally to accumulate a vortex of sub-zero sorrow mist, then thrusts violently toward the target. At peak extension (Range 3), the four glass panes shatter outward in a forward cone of crystalline shrapnel up to 4 meters, penetrating multiple enemies before instantly reforming on the mullion head from condensing ambient moisture. Enemies caught in the shrapnel cone take skewer Weight damage and are afflicted with "Deep Frostbite" (reduces target movement speed by 40% for 3 seconds).
 - *Cost & Drawback:* The cold oak shaft chills the wielder's fingers, causing breath to fog heavily and slightly reducing manual dexterity in low temperatures.
 
 ### M.A.W. Suit — The Shuttered Window-Plate

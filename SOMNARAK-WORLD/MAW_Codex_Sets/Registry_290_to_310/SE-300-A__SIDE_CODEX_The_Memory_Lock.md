@@ -73,7 +73,7 @@ A M.A.W. echo may be shaped only after a whisper ends and the listener chooses n
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Secret Lens:** Void 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Each use removes small nameless memories.
+- **Secret Lens:** Void 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 3; 40 Echoes. Each use removes small nameless memories.
 - **Secret Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; maximum 3; 35 Echoes. It resists Void while making the wearer absent.
 - **Secret Key:** Head Stigma; 4%; +2 Composure during source work. It unlocks one sealed memory by sacrificing one personal memory.
 

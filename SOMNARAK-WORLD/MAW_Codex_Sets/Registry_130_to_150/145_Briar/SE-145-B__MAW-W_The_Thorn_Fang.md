@@ -51,7 +51,7 @@ Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through t
 |---|---|
 | Damage | Grudge 7–12 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | Old wounds ache; prolonged use leaves crimson bruising. |
@@ -62,12 +62,12 @@ Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through t
 
 ### Basic attack — *Guarded Line*
 
-The Fang sends a crimson Pierce line against active harm, constraining its thorn pressure to the boundary the bearer actually named.
+The Fang sends a crimson Skewer line against active harm, constraining its thorn pressure to the boundary the bearer actually named.
 
 ### Signature ability — *Do Not Pluck*
 
 **Trigger:** The bearer confirms a safe person or exit path is present inside the protected boundary.  
-**Effect:** The Fang raises a thorned Grudge barrier across the full Pierce path, turning away an immediate coercive attack without making the whole area hostile.  
+**Effect:** The Fang raises a thorned Grudge barrier across the full Skewer path, turning away an immediate coercive attack without making the whole area hostile.  
 **Limit:** It cannot avenge an old injury, punish unwanted emotion, or remain active after the threat ends.  
 **Failure state:** If the bearer uses it to hurt a named safe person, every thorn retracts through the grip and the Fang becomes inert.
 

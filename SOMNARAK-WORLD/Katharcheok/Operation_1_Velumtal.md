@@ -209,7 +209,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 | - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger / Cask     |
 |   Ready)                                                            |
 | - Primary Armament : Industrial Pneumatic Sledgehammer (Heavy       |
-|   Blunt)                                                            |
+|   Bludgeon)                                                         |
 | - Defense Matrix : Counterfeit Veil Cloak & Vapor Shroud            |
 |   (Evasion/Pale)                                                    |
 +---------------------------------------------------------------------+
@@ -280,7 +280,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on `[Resonance Snare: Leaded Line]`. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Advances through high catwalk conduits to Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Boss Gwangseok declares `[Anvil Cleave]` (Base 12 + 2 Lots = 24 Power, Heavy Blunt) against Node 02.
+  * **Clash 1 (Node 02 to 05)**: Boss Gwangseok declares `[Anvil Cleave]` (Base 12 + 2 Lots = 24 Power, Heavy Bludgeon) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion]` (Base 14 + 2 Lots = 28 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (28 vs 24)!
     * Taeho's heavy obsidian mantlet completely absorbs the kinetic shock (`[P3: Parry/Protection]`).
@@ -291,7 +291,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
     * Slag is deflected into the drainage trough; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Forensic Monocle]` identifies structural stress fissures in the Forging Hammer junction.
-    * Investigator Minho fires `[Neural Needle]` from Node 07 into Gwangseok's hydraulic neck ring, dealing **210 Pierce damage** and +18 Posture Strain!
+    * Investigator Minho fires `[Neural Needle]` from Node 07 into Gwangseok's hydraulic neck ring, dealing **210 Skewer damage** and +18 Posture Strain!
     * Handler Soojin flings `[Resonance Snare]` from Node 04, latching onto SECC-019's containment cage at Node 10, preventing emotional mist expansion.
 - **Step 4: Turn End State**:
   * Gwangseok Exoskeleton HP: 1,800 -> **1,450/1,800** (Total Boss HP: **5,050/5,400**).
@@ -404,7 +404,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * Commander Taeho (Speed 6 -> 3 AP): Charges from Node 02 to Node 04, locking mantlets beside Joon. Spends 2 AP on `[Acoustic Crackdown]`.
   * Investigator Minho (Speed 7 -> 4 AP): Fires `[Cryo-Needle]` at hydraulic fuel lines from Node 07 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Boss Gwangseok declares `[Sledgehammer Execution]` (Base 16 + 2 Lots = 26 Power, Heavy Blunt).
+  * **Clash 1 (Node 04 to 05)**: Boss Gwangseok declares `[Sledgehammer Execution]` (Base 16 + 2 Lots = 26 Power, Heavy Bludgeon).
     * Engineer Joon executes `[Hydraulic Impact Ram]` (Base 19 + 2 Lots = 31 Power, Structural Sapping).
     * **Clash Outcome**: Joon WINS THE CLASH (31 vs 26)!
     * The pneumatic ram strikes directly at the hammer's articulated wrist coupling!
@@ -414,8 +414,8 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
     * Gwangseok's Posture reaches **92/240** (surpassing the 60% Posture Strain threshold of 144 points), and total HP drops below 3,800 HP!
     * **STAGGER LEVEL 1 ACTIVE!** Gwangseok's defense drops to 0, taking 1.5x direct damage. All enemy counter-stances are cancelled!
   * **Punishment Follow-Up**:
-    * Commander Taeho delivers `[Acoustic Crackdown]`, slamming the heavy baton into the exposed torso for **360 Blunt damage (Critical Hit!)**.
-    * Investigator Minho lands `[Cryo-Needle]`, freezing ruptured fuel lines for **280 Pierce damage**.
+    * Commander Taeho delivers `[Acoustic Crackdown]`, slamming the heavy baton into the exposed torso for **360 Bludgeon damage (Critical Hit!)**.
+    * Investigator Minho lands `[Cryo-Needle]`, freezing ruptured fuel lines for **280 Skewer damage**.
 - **Step 4: Turn End State**:
   * Boss Gwangseok HP: 4,730 -> **3,750/5,400** (Exoskeleton completely destroyed: 0/1,800).
   * Gwangseok Posture: **92/240 [STAGGER LEVEL 1]**.
@@ -472,10 +472,10 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
     * **Clash Outcome**: Soojin WINS THE CLASH (30 vs 28)!
     * The lead-lined vacuum sphere expands, fully absorbing the psychic shockwave (`[P3: Parry/Protection]`).
     * Zero psychic damage breaches the barrier. Soojin redirects vacuum back-pressure, dealing **140 Void damage** to SECC-019 and +58 Posture Strain!
-  * **Clash 2 (Node 05 to 03)**: Recovered Gwangseok lunges with `[Desperate Brawler Punch]` (Atk Power 16, Blunt).
+  * **Clash 2 (Node 05 to 03)**: Recovered Gwangseok lunges with `[Desperate Brawler Punch]` (Atk Power 16, Bludgeon).
     * Commander Taeho executes `[Baton Parry]` (Def Power 24, Acoustic Counter).
     * **Clash Outcome**: Taeho WINS THE CLASH (24 vs 16).
-    * Taeho deflects the bare fist, smashing Gwangseok back against the cold forge anvil for **180 Blunt damage** and +34 Posture Strain!
+    * Taeho deflects the bare fist, smashing Gwangseok back against the cold forge anvil for **180 Bludgeon damage** and +34 Posture Strain!
   * **Catwalk Maneuver**: Infiltrator Echo positions silently above Node 10 directly behind SECC-019's primary resonance stem.
 - **Step 4: Turn End State**:
   * Boss Gwangseok HP: 3,750 -> **2,980/5,400** | Posture: **58/240**.
@@ -523,13 +523,13 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * Investigator Minho (Speed 7 -> 4 AP): Fires `[Neural Inscription Lance]` from Node 07 into the entity's exposed resonance valve (3 AP).
   * Engineer Joon (Speed 5 -> 3 AP): Pinning Gwangseok's legs with hydraulic jacks at Node 05 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10)**: SECC-019 attempts `[Suffocating False Embrace]` (Atk Power 23, Pierce).
-    * Infiltrator Echo strikes with `[Stiletto Sever from Stealth]` (Base 22 + 2 Lots Marked = 32 Power, Slash).
+  * **Clash 1 (Node 10)**: SECC-019 attempts `[Suffocating False Embrace]` (Atk Power 23, Skewer).
+    * Infiltrator Echo strikes with `[Stiletto Sever from Stealth]` (Base 22 + 2 Lots Marked = 32 Power, Gash).
     * **Clash Outcome**: Echo WINS THE CLASH (32 vs 23)!
     * Echo's phase-tuned blades slice cleanly through the synthetic sorrow conduits feeding the shroud!
-    * **CRITICAL HIT!** Deals **580 Slash damage** directly to the core and wipes out all remaining Posture!
-  * **Targeted Fire**: Investigator Minho's `[Neural Inscription Lance]` strikes the severed valve, delivering **480 Freezing Pierce damage**!
-  * Joon's hydraulic jacks crush Gwangseok's remaining support pistons, dealing **380 Blunt damage** and wiping his remaining 58 Posture points!
+    * **CRITICAL HIT!** Deals **580 Gash damage** directly to the core and wipes out all remaining Posture!
+  * **Targeted Fire**: Investigator Minho's `[Neural Inscription Lance]` strikes the severed valve, delivering **480 Freezing Skewer damage**!
+  * Joon's hydraulic jacks crush Gwangseok's remaining support pistons, dealing **380 Bludgeon damage** and wiping his remaining 58 Posture points!
 - **Step 4: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!**:
   * Both Boss Gwangseok and SECC-019 reach **Posture 0/240** and **0/180**!
   * **TERMINAL STAGGER ACTIVE!** Boss Gwangseok collapses to both knees, vomiting bile. SECC-019's false shroud dissolves into inert vapor.
@@ -575,7 +575,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * **Climax 1 (Commander Taeho vs Boss Gwangseok)**:
     * Taeho unholsters his tungsten truncheon, channeling a 120 dB directed concussive wave: `[Iron Verdict]`.
     * Strikes Gwangseok's collarbone with mathematical non-lethal precision.
-    * Deals **600 Concussive Blunt Damage**!
+    * Deals **600 Concussive Bludgeon Damage**!
     * **BOSS GWANGSEOK HP DROPS TO 0!** Subdued, handcuffed with reinforced titanium zipties, and remanded to Warden custody!
   * **Climax 2 (Handler Soojin vs SECC-019)**:
     * Soojin unlatches the Class-IV leaded-basalt vacuum cask, triggering high-grade cryogenic suction: `[Quarantine Mandate]`.

@@ -38,7 +38,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 | **Damage** | Void 7–12 |
 | **Speed** | 3 — Fast |
 | **Range** | 3 — Medium |
-| **Attack Pattern** | Pierce |
+| **Attack Pattern** | Skewer |
 | **Target Coverage** | One line through up to 3 targets connected by the same false route or illusion |
 | **Falloff Rule** | Primary 100% → first pierced 70% → second pierced 50% |
 | **Recovery** | 5 seconds after a route-revealing cut |

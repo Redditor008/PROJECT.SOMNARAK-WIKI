@@ -46,7 +46,7 @@ During the The Dormant Monolith Source-Trace, the field team preserved this sour
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Dormant Monolith Lens | δ Void 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-909-B__MAW-W_Dormant_Monolith_Lens.md` |
+| Dormant Monolith Lens | δ Void 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-909-B__MAW-W_Dormant_Monolith_Lens.md` |
 | Dormant Monolith Shield | δ; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 2; 45 Sorrow Echoes | `SE-909-C__MAW-S_Dormant_Monolith_Shield.md` |
 | Dormant Monolith Charm | δ; Head; 4%; +3 stat bonus when working the source entity | `SE-909-D__MAW-G_Dormant_Monolith_Charm.md` |
 

@@ -76,7 +76,7 @@ No piece is extracted from direct River contact. During a monitored current shif
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **River Maul:** Weight 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Continued use makes the wielder heavier and slightly older.
+- **River Maul:** Weight 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 3; 40 Echoes. Continued use makes the wielder heavier and slightly older.
 - **River Mantle:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 3; 35 Echoes. It disperses moving Weight but imposes constant low fatigue.
 - **River Stone:** Head Stigma; 4%; +2 Resolve during source work. It absorbs surrounding sorrow and gains weight with every burden held.
 

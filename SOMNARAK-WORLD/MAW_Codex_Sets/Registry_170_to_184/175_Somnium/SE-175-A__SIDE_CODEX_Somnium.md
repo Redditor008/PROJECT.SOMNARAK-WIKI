@@ -99,7 +99,7 @@ The set supports controlled Dream contact and creative imagining. Its cost is th
 |---|---|
 | Damage | Lament 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce — up to three targets |
+| Attack Pattern | Skewer — up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | The bearer feels the source’s unwept grief and may weep after use. |

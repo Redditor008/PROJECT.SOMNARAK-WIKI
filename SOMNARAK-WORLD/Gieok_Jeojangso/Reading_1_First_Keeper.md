@@ -158,12 +158,12 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
   * Preserved Scribes (Speed 4 -> 2 AP): Stand at Node 04, firing `[Ink Quill Volley]` toward Node 02.
   * The First Keeper (Speed 6 -> 3 AP, Heavy Construct delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Obsidian Quill Cleave]`. Spends 1 AP on `[Archival Guard]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: The First Keeper sweeps forward with `[Obsidian Quill Cleave]` (Base 16 + 2 Lots = 24 Power, Heavy Lament/Slash).
+  * **Clash 1 (Node 02 to 05)**: The First Keeper sweeps forward with `[Obsidian Quill Cleave]` (Base 16 + 2 Lots = 24 Power, Heavy Lament/Gash).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 19 + 2 Lots = 31 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
     * Seiyon's holographic shield catches the heavy obsidian nib cleanly; the torrential jet of cyan sorrow ink deflects across the basalt floor (`[P3: Parry/Protection]`).
     * Seiyon reflects **180 kinetic tremor damage** back into the quill shaft, inflicting +44 Posture Strain!
-  * **Clash 2 (Node 03 to 04)**: Scribes fire `[Ink Quill Volley]` (Power 20, Pierce).
+  * **Clash 2 (Node 03 to 04)**: Scribes fire `[Ink Quill Volley]` (Power 20, Skewer).
     * Drone's `[Stasis Caliper]` clamps down, absorbing the needles harmlessly into its energy shield.
   * **Unopposed Tactical Fire**:
     * Resonant Lens focuses an optical pulse onto the quill's fluid reservoir, chipping away 70 HP.
@@ -214,14 +214,14 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Acoustic Fault Tagging]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The First Keeper raises the quill for `[Verdict of the Living Inscription]` (Base 17 + 2 Lots = 25 Power, Area Lament).
-    * Seiyon executes `[Prismatic Needle Flurry: Void Severance]` (Base 23 + 3 Lots Marked = 41 Power, Void Slash).
+    * Seiyon executes `[Prismatic Needle Flurry: Void Severance]` (Base 23 + 3 Lots Marked = 41 Power, Void Gash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (41 vs 25)!
     * Seiyon dashes forward in a trail of refracted light; five prismatic needles slice cleanly through the obsidian quill's reservoir and flexure joint!
     * Deals **550 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Obsidian Quill shatters into hundreds of sharp black crystal splinters (**Quill HP: 0/800** credit)!
     * **EFFECT**: Boss AoE ink verdict permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Codex Armor Damage**:
-    * Drone's `[Valve Sever]` cracks the heavy brass lock on the Great Archival Codex for **160 Blunt damage**!
+    * Drone's `[Valve Sever]` cracks the heavy brass lock on the Great Archival Codex for **160 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Obsidian Quill: **DESTROYED (0/800 HP)**.
   * Archival Codex: 1,000 -> **840/1,000** | Posture: **172/240**.
@@ -268,10 +268,10 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
   * Drone (Speed 5 -> 3 AP): Discharges pneumatic ram directly into the book's brass hinges.
 - **Step 3: Clash & Posture Breaking Resolution**:
   * The Keeper raises the Archival Codex to guard (Defense Power 22).
-  * Seiyon strikes with `[Prismatic Lance: Fracture Inscription]` (Power 36, Void/Pierce).
+  * Seiyon strikes with `[Prismatic Lance: Fracture Inscription]` (Power 36, Void/Skewer).
   * **CLASH OVERWHELMING WIN (36 vs 22)**!
   * Seiyon's lance drives straight through the heavy leather binding, snapping all three brass locks! Deals **430 Void damage** and inflicts **68 Posture Strain**!
-  * Drone strikes with pneumatic piston, dealing **190 Blunt damage** and **40 Posture Strain**!
+  * Drone strikes with pneumatic piston, dealing **190 Bludgeon damage** and **40 Posture Strain**!
   * **STAGGER LEVEL 1 ACTIVE!** The Keeper falls to its knees upon the lectern; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 4: Turn End State**:
   * Total Boss HP: 2,240 -> **1,620/3,200**.
@@ -317,7 +317,7 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 07. Spends 2 AP on `[Consoling Resonance Wave]`.
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Mnemonic Resonance Execution]`: Drives into the core for **620 Void damage** (Exposed 2.0x proc!)!
-  * Seiyon's `[Four-Fold Stiletto Flurry]`: Rips through the remaining codex for **340 Pierce damage**!
+  * Seiyon's `[Four-Fold Stiletto Flurry]`: Rips through the remaining codex for **340 Skewer damage**!
   * Drone's `[Pneumatic Anchor]`: Crushes the lectern base for **160 Weight damage**!
   * Lens's `[Consoling Resonance Wave]`: Channels resonance for **120 Void damage**!
   * **TOTAL BURST DAMAGE: 1,240 DAMAGE!**

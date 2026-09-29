@@ -34,7 +34,7 @@ An echo forms after one stored grief receives a voluntary physical mourning plac
 
 | Piece | Summary | File |
 |---|---|---|
-| Overflow Fang | Grudge 10–15; Speed 3; Range 3; Pierce; max 2; 50 Echoes. Cuts upward flood from a safe mourning site. | `SE-448-B__MAW-W_Overflow_Fang.md` |
+| Overflow Fang | Grudge 10–15; Speed 3; Range 3; Skewer; max 2; 50 Echoes. Cuts upward flood from a safe mourning site. | `SE-448-B__MAW-W_Overflow_Fang.md` |
 | Overflow Plate | 1.0 / 0.4 / 1.8 / 1.2; max 2; 45 Echoes. Holds pressure while reflexes dull. | `SE-448-C__MAW-S_Overflow_Plate.md` |
 | Overflow Ring | Tail; 4%; +3 Resilience. Heals minor wounds; loses memories connected to anger. | `SE-448-D__MAW-G_Overflow_Ring.md` |
 

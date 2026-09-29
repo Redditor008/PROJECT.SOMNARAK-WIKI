@@ -76,7 +76,7 @@ A stable echo forms only after a complete Ferrehan route during which two worker
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Soul Requiem:** Lament 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use causes involuntary weeping.
+- **Soul Requiem:** Lament 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use causes involuntary weeping.
 - **Soul Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 3; 35 Echoes. It resists Lament but numbs minor joys.
 - **Soul Thread:** Tail Stigma; 4%; +2 Clarity during source work. It keeps a fading identity attached to living presence; the bearer dreams the forgotten person’s grief.
 

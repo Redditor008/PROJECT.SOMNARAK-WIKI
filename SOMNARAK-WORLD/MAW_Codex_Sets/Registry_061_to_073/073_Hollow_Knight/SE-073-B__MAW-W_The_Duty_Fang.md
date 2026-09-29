@@ -16,7 +16,7 @@
 |---|---|
 | Damage | Grudge 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Pattern | Pierce — up to 3 targets |
+| Pattern | Skewer — up to 3 targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 40 Sorrow Echoes |

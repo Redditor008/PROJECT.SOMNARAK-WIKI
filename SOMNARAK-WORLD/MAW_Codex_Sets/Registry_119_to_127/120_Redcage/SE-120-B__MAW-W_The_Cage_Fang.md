@@ -45,7 +45,7 @@
 |---|---|
 | Damage | Grudge 7–12 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | Old wounds ache; prolonged use leaves crimson bruising. |
@@ -62,12 +62,12 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 ### Basic attack— *Open Bar*
 
-The Fang sends a crimson Pierce line through a coercive lock, restraint, or active Grudge barrier. It damages structure and makes a release route visible where one actually exists.
+The Fang sends a crimson Skewer line through a coercive lock, restraint, or active Grudge barrier. It damages structure and makes a release route visible where one actually exists.
 
 ### Signature ability — *No False Key*
 
 **Trigger:** The bearer can identify a real exit and an authority or support group prepared to receive the person beyond it.  
-**Effect:** The full Pierce line breaks a currently unjust coercive barrier without transferring the confinement to another target.  
+**Effect:** The full Skewer line breaks a currently unjust coercive barrier without transferring the confinement to another target.  
 **Limit:** It cannot decide legal innocence, break every rule the bearer dislikes, or turn retaliation into liberation.  
 **Failure state:** If no safe route exists, the Fang refuses to cut and projects the cage’s pressure back into the bearer’s stance.
 

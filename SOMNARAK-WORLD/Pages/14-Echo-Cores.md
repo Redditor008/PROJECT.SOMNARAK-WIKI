@@ -69,7 +69,7 @@ An Echo-Core is not merely an administrator; it is a metaphysical ballast:
 ### 2.4 Lead Zyrak (Floor 4: Extraction Hall)
 - **Role:** Overseer of Han-Energy Distillation and M.A.W. Fabrication.
 - **Personality:** Flamboyant, reckless, addicted to high-yield energy extraction.
-- **Armband:** Golden Alembic upon Deep Violet.
+- **Armband:** Golden Alembic upon Deep Purple.
 - **Signature Weapon:** *Refinery Needle* (Void/Pale).
 - **Core Handicap:** *Well Backflow* — Completed work triggers localized containment cell ruptures.
 
@@ -98,7 +98,7 @@ An Echo-Core is not merely an administrator; it is a metaphysical ballast:
 - **Role:** Overseer of Covert Security and Entity Elimination.
 - **Personality:** Silent, watchful, speaks in whispered allegories.
 - **Armband:** Hooded Dagger upon Obsidian Cloth.
-- **Signature Weapon:** *Null Dagger* (Grudge/Slashing).
+- **Signature Weapon:** *Null Dagger* (Grudge/Gash).
 - **Core Handicap:** *Shroud of Silence* — Disables breach alert alarms and departmental mini-maps.
 
 ### 2.9 Lead Xyan (Central: Gate Watch)

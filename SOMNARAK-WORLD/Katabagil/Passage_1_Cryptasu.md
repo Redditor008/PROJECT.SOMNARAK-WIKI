@@ -119,7 +119,7 @@ The entities were grotesque fusions of amphibian biology and calcified grief: pa
  - The Silent One declares [Severing Arc] vs Stalker 2 [Bone Claws]
    * Silent One: Base 6 + Beat 1 (Resonant +3) + Beat 2 (Resonant +3) = 12
    * Stalker 2: Base 4 + Beat 1 (Resonant +2) = 6 -> SILENT ONE WINS CLASH
-   * Fatal Grudge Strike! 78 Slash damage dealt. Stalker 2 KILLED instantly.
+   * Dire Grudge Strike! 78 Gash damage dealt. Stalker 2 KILLED instantly.
 
  TURN 2 CLEANUP:
  - Doha advances with [Bedrock Cleave], crushing the staggered Stalker 1 (65 Dmg - KILLED).
@@ -226,7 +226,7 @@ The entity, catalogued under field code **SECC-E04 "The Sump Matron"**, was a te
  ELITE ANOMALY COMBAT: SECC-E04 "THE SUMP MATRON" (Grade-β Potency)
 ================================================================================
  BOSS ATTRIBUTES: HP: 950 | Stagger: 380 | Element: Grudge
- RESISTANCES: Grudge (Endured 0.5x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Normal 1.0x)
+ RESISTANCES: Grudge (Withstood 0.5x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Normal 1.0x)
 
  TURN 1:
  - Boss initiates [Scalding Brine Deluge] (AoE Range 5): Base 8 + 2 Harmonic Beats (+3 each)
@@ -239,7 +239,7 @@ The entity, catalogued under field code **SECC-E04 "The Sump Matron"**, was a te
  - Yeonhwa identifies structural thermal conduit: "The right valve pipe is venting pressure!"
  - Sora unleashes [Lament Weave - Cryo-Tuning] from Range Band 3:
    * Sora: Base 6 + 2 Harmonic Beats (Resonant, Resonant +4) = 14
-   * Striking vulnerable Lament weakness (2.0x Fatal)! 112 Cryo-Lament damage inflicted!
+   * Striking vulnerable Lament weakness (2.0x Dire)! 112 Cryo-Lament damage inflicted!
    * The boiling brine in the Matron's chest begins to crystallize into pale blue ice.
 
  TURN 3:
@@ -304,10 +304,10 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
  COMBAT PROFILE:
  - Maximum Health (HP): 2,400
  - Stagger Thresholds: 1,680 HP (70%) | 960 HP (40%) | 240 HP (10%)
- - Base Defense: 35 | Speed Dice: 2–6 (3 Attack Slots)
+ - Base Defense: 35 | Tempo Dice: 2–6 (3 Attack Slots)
  - Resistances:
    * Grudge : 2.0x (Exposed Weakness — Heat & Kinetic Friction)
-   * Lament: 0.5x (Endured — Saturated in Weeping Brine)
+   * Lament: 0.5x (Withstood — Saturated in Weeping Brine)
    * Void : 1.0x (Normal — Susceptible to Direct Soul Severing)
    * Weight    : 0.75x (Ineffective — Heavy Basalt Construction)
 
@@ -417,8 +417,8 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
     * **Clash Outcome**: Harin WINS THE CLASH (32 vs 26)!
     * The high-pressure brine torrent splits cleanly across the reinforced tungsten shield rim (`[P3: Parry/Protection]`). Harin takes 0 damage.
     * Harin reflects **140 kinetic tremor damage** back through the water jet into the Left Siphon Arm, inflicting +38 Posture Strain!
-  * **Clash 2 (Node 10 to 05)**: SECC-012 Slot 2 (Bronze Cleaver) unleashes `[Sweeping Cleave]` (Base 17 + 1 Coin = 25 Power, Heavy Slash).
-    * The Silent One clashes with `[Severing Parry]` (Base 20 + 2 Lots = 30 Power, Void/Slash).
+  * **Clash 2 (Node 10 to 05)**: SECC-012 Slot 2 (Bronze Cleaver) unleashes `[Sweeping Cleave]` (Base 17 + 1 Coin = 25 Power, Heavy Gash).
+    * The Silent One clashes with `[Severing Parry]` (Base 20 + 2 Lots = 30 Power, Void/Gash).
     * **Clash Outcome**: The Silent One WINS THE CLASH (30 vs 25)!
     * Parries the colossal cleaver with a razor-thin blade deflection; counter-slashes for **172 Grudge damage** into the titan's bronze wrist!
   * **Unopposed Tactical Fire**:
@@ -473,14 +473,14 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
   * Harin (Speed 4 -> 2 AP): Steps to Node 03, executing `[Vanguard Taunt]` (2 AP) to draw the Bronze Cleaver away from the strikers.
   * Yeonhwa (Speed 7 -> 4 AP): Casts `[Resonance Pulse: Target Siphon]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: SECC-012 strikes with `[Bronze Cleaver Smash]` (Power 24, Slash).
+  * **Clash 1 (Node 03 to 05)**: SECC-012 strikes with `[Bronze Cleaver Smash]` (Power 24, Gash).
     * Harin absorbs the strike with `[Bulwark Iron Body]` (Power 28, Heavy Guard).
     * **Clash Outcome**: Harin absorbs the blow safely, taking only 18 mitigated chip damage (HP: 4,182/4,200).
   * **Piston Demolition Assault on Siphon**:
-    * Doha unleashes `[Bedrock Piston]` (Base 21 + 2 Lots Marked = 33 Power, Heavy Blunt):
+    * Doha unleashes `[Bedrock Piston]` (Base 21 + 2 Lots Marked = 33 Power, Heavy Bludgeon):
       * Smashes directly through the siphon's hydraulic valve casing!
-      * Deals **380 Blunt damage** and +64 Posture Strain!
-    * The Silent One follows up with `[Twin Void Flurry]` (Base 19 + 2 Lots Marked = 31 Power, Void Slash):
+      * Deals **380 Bludgeon damage** and +64 Posture Strain!
+    * The Silent One follows up with `[Twin Void Flurry]` (Base 19 + 2 Lots Marked = 31 Power, Void Gash):
       * Slices through the brass intake hoses, dealing **220 Void damage**!
     * **TARGETED PART DESTROYED**: The Left Hydraulic Siphon Arm shears clean off the shoulder, exploding into scrap bronze and waterlogged bone (**Siphon HP: 0/600**)!
     * **EFFECT**: Boss ultimate `[Deluge of the First Day]` is permanently cancelled! Boss permanently loses 1 Speed Slot!
@@ -521,7 +521,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 ###### Turn 03 Action Resolution Log (Pushing the First Stagger Threshold & Dual Defense)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Shorn of its siphon arm, the titan roars—a blast of acoustic Han that vibrates through the water.
-  * It raises its massive Bronze Cleaver in two hands, channeling `[Executioner's Judgment]` (3 Lots, Fatal Grudge damage).
+  * It raises its massive Bronze Cleaver in two hands, channeling `[Executioner's Judgment]` (3 Lots, Dire Grudge damage).
   * Harin gains `Momentum Surge` (+2 Speed -> Net Speed 6, 3 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 6 -> 3 AP): Steps to Node 03. Spends 2 AP on `[Unbreakable Ward]`.
@@ -529,13 +529,13 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
   * Sora (Speed 7 -> 4 AP): Casts `[Silver Cowl: Empathic Ward]` (2 AP), granting +3 Clash Power to all frontline allies.
   * The Silent One (Speed 7 -> 4 AP): Maneuvers into the Band 1 flank at Node 08. Spends 3 AP on `[Relic Cleaver: Core Thrust]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: SECC-012 unleashes `[Executioner's Judgment]` (Base 21 + 3 Lots = 31 Power, Fatal Grudge).
+  * **Clash 1 (Node 03 to 05)**: SECC-012 unleashes `[Executioner's Judgment]` (Base 21 + 3 Lots = 31 Power, Dire Grudge).
     * Harin and Doha execute `[Joint Unbreakable Ward]` (Base 22 + Cowl Bonus +3 + 2 Lots = 37 Power).
     * **Clash Outcome**: VANGUARD OVERWHELMING WIN (37 vs 31)!
     * The massive bronze cleaver slams harmlessly into the reinforced tower shield. Shockwaves disperse harmlessly into the reservoir floor (`[P3: Parry/Protection]`).
   * **Flank Strike on Weeping Core**:
-    * The Silent One plunges the dark relic cleaver into the exposed seams of the chest core: `[Core Thrust]` (Base 22 + 2 Lots Marked = 34 Power, Fatal Grudge 2.0x proc!).
-    * Deals **218 Fatal Grudge damage** directly to the Weeping Core!
+    * The Silent One plunges the dark relic cleaver into the exposed seams of the chest core: `[Core Thrust]` (Base 22 + 2 Lots Marked = 34 Power, Dire Grudge 2.0x proc!).
+    * Deals **218 Dire Grudge damage** directly to the Weeping Core!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% to **1,672/2,400 HP**; Posture collapses past 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The titan falls to one knee in the flooded basin. All defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -587,7 +587,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
   * The Silent One's `[Severing Void Arc]`: Slices clean through the glowing core for **364 Void damage**!
   * Yeonhwa's `[Acoustic Resonance Dart]`: Pierces resonant frequencies for **126 Void damage**!
   * Sora's `[Lament Needle Drive]`: Channels silver frequencies for **148 Lament damage**!
-  * Jisoo's `[Cryo Harpoon Anchor]`: Pins the chassis for **110 Pierce damage**!
+  * Jisoo's `[Cryo Harpoon Anchor]`: Pins the chassis for **110 Skewer damage**!
   * **TOTAL BURST DAMAGE: 1,028 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (960 HP) COMPLETELY SKIPPED!**:
   * Boss HP plunges from 1,672 all the way down to **644/2,400 HP**!
@@ -637,8 +637,8 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
   * Harin (Speed 4 -> 2 AP): Holds Node 04, bracing against the boiling whirlpool with `[Pneumatic Anchor]`.
   * Doha (Speed 5 -> 3 AP): Drops hydraulic shoring jacks into Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 06 to 05)**: SECC-012 raises its shattered Bronze Cleaver for a desperate final cleave: `[Last Stand of the Drowned]` (Base 20 + 2 Lots = 28 Power, Heavy Slash).
-    * The Silent One executes `[Primordial Severance: The Unanswered Cut]` (Base 24 + 3 Lots Marked = 39 Power, Void/Slash).
+  * **Clash 1 (Node 06 to 05)**: SECC-012 raises its shattered Bronze Cleaver for a desperate final cleave: `[Last Stand of the Drowned]` (Base 20 + 2 Lots = 28 Power, Heavy Gash).
+    * The Silent One executes `[Primordial Severance: The Unanswered Cut]` (Base 24 + 3 Lots Marked = 39 Power, Void/Gash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (39 vs 28)!
     * The dark blade ignites with brilliant pale white luminescence. It cuts cleanly through the remaining bronze cleaver, severing the titan's right arm at the elbow joint!
     * **TARGETED PART DESTROYED**: The three-meter executioner's bronze cleaver shatters into inert bronze shards sinking to the reservoir floor (**Cleaver HP: 0/800**)!

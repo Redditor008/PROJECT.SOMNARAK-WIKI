@@ -45,7 +45,7 @@
 |---|---|
 | Damage | Void 10–15 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 50 Sorrow Echoes to register and bind |
 | Operational cost | Each use removes a small, nameless memory from the bearer. |
@@ -56,16 +56,16 @@
 
 ### Appearance
 
-The Cold Lens is a pale, almost white Han-glass disc set into a thin dark frame at the top of a short handle, its face smooth and its rim edged with a bright winter line. It is cold to the touch and stays cold in any room. The lens sends a sharp Void Pierce through a target's active emotional intrusion and interrupts one manipulation pressure without declaring the target's own emotion invalid. A pale line cuts the intrusive pull across the full Pierce path when a named anchor confirms the influence is external rather than grief, anger, or consent. If the bearer uses it to avoid feeling, the lens mirrors the Void line and removes a current positive association instead. It is never cleaned with memory crystal or frozen water, and it rests in a frost-lined case between uses. Before the lens enters its frost-lined case, the bearer and anchor speak one shared memory with a sensory detail, and the lens is never cleaned with memory crystal.
+The Cold Lens is a pale, almost white Han-glass disc set into a thin dark frame at the top of a short handle, its face smooth and its rim edged with a bright winter line. It is cold to the touch and stays cold in any room. The lens sends a sharp Void Skewer through a target's active emotional intrusion and interrupts one manipulation pressure without declaring the target's own emotion invalid. A pale line cuts the intrusive pull across the full Skewer path when a named anchor confirms the influence is external rather than grief, anger, or consent. If the bearer uses it to avoid feeling, the lens mirrors the Void line and removes a current positive association instead. It is never cleaned with memory crystal or frozen water, and it rests in a frost-lined case between uses. Before the lens enters its frost-lined case, the bearer and anchor speak one shared memory with a sensory detail, and the lens is never cleaned with memory crystal.
 
 ### Basic attack— *White Silence*
 
-The Lens sends a sharp Void Pierce through a target’s active emotional intrusion. It deals direct damage and interrupts one manipulation pressure without declaring the target’s own emotion invalid.
+The Lens sends a sharp Void Skewer through a target’s active emotional intrusion. It deals direct damage and interrupts one manipulation pressure without declaring the target’s own emotion invalid.
 
 ### Signature ability — *Break the Pull*
 
 **Trigger:** The anchor person confirms that an external influence—not ordinary grief, anger, or consent—is currently pulling on the bearer or a target.  
-**Effect:** A pale line cuts the intrusive pull across the full Pierce path and gives affected people a brief interval to act from their own judgment.  
+**Effect:** A pale line cuts the intrusive pull across the full Skewer path and gives affected people a brief interval to act from their own judgment.  
 **Limit:** It cannot be used to mute a colleague, suppress a witness, or erase a painful but genuine emotion.  
 **Failure state:** If the bearer uses it to avoid feeling, the Lens mirrors the Void line through the bearer and removes a current positive association instead of the intrusion.
 

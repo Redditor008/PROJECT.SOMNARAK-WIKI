@@ -233,21 +233,21 @@ The UCD Strike Cadre brings together six specialists whose personal lives have b
 - **Institutional Background:** Senior Task Force Commander, Wardens Enforcement Command. Formerly the garrison chief of Zone D's Mantle Commons, Taeho witnessed the complete emotional devastation of his home district when the Memory Washers launched a coordinated raid, wiping the memories of thirty families overnight. Taeho carries the crushing guilt of that night and has sworn to break the underworld with unyielding lawful discipline.
 - **Tactical Combat Role:** Frontline Kinetic Assault, Threat Magnet, and Squad Discipline Anchor.
 - **Signature M.A.W. Armament:** *The Commander's Heavy Baton* (Kinetic-Acoustic Truncheon) & *Warden's Carapace Mantlet*.
-- **Base Combat Attributes:** Max HP: 4,400 | Composure (SP): 45 | Base Speed: 2–5 | Defense Multiplier: 0.70 | Blunt/Slash/Pierce Affinities: [Blunt: Ineffective, Slash: Normal, Pierce: Normal].
+- **Base Combat Attributes:** Max HP: 4,400 | Composure (SP): 45 | Base Speed: 2–5 | Defense Multiplier: 0.70 | Bludgeon/Gash/Skewer Affinities: [Bludgeon: Ineffective, Gash: Normal, Skewer: Normal].
 - **Combat Mechanics:**
   * *Passive: [Law of the Mantle]*: Allies adjacent to Taeho gain +3 Protection and cannot be Staggered by physical attacks. Whenever an ally's SP falls below 15, Taeho gains +2 Clash Power.
-  * *Skill 1: [Acoustic Crackdown]*: Strikes with his baton, dealing 230 Blunt damage and applying 3 Tremor and 2 Bind (speed reduction).
+  * *Skill 1: [Acoustic Crackdown]*: Strikes with his baton, dealing 230 Bludgeon damage and applying 3 Tremor and 2 Bind (speed reduction).
   * *Skill 2: [Phalanx Bastion]*: Locks his shield with adjacent allies, absorbing up to 1,200 damage and redirecting hostile attacks to himself.
-  * *Climax Overdrive: [Decree of Unbroken Order — Iron Verdict]* (Cost: 35 SP): Taeho slams his baton into the concrete, discharging a deafening 120 dB acoustic shockwave across the entire combat zone. All enemy syndicate hostiles suffer 600 Blunt damage, are forced into Stagger, and have their active buffs completely purged.
+  * *Climax Overdrive: [Decree of Unbroken Order — Iron Verdict]* (Cost: 35 SP): Taeho slams his baton into the concrete, discharging a deafening 120 dB acoustic shockwave across the entire combat zone. All enemy syndicate hostiles suffer 600 Bludgeon damage, are forced into Stagger, and have their active buffs completely purged.
 
 ### 4.2 Auditor Yuna (유나) — "The Cold Ledger"
 - **Institutional Background:** Senior Special Auditor, The Collectors Bureau (Zone C Forensic Division). Yuna was the chief actuary who uncovered that the collective financial assets of the six Frays exceeded the municipal treasury of the Council of Sighs. Realizing that the entire municipal banking system was quietly complicit in laundering syndicate blood-money, Yuna took field command to incinerate the shadow debt economy with forensic ruthlessness.
 - **Tactical Combat Role:** Ranged Debuffer, Vulnerability Multiplier, and Economic Sapper.
 - **Signature M.A.W. Armament:** *The Auditor's Prismatic Caliper Staff* & *Actuarial Forensic Monocle*.
-- **Base Combat Attributes:** Max HP: 2,700 | Composure (SP): 50 | Base Speed: 3–6 | Defense Multiplier: 1.05 | Blunt/Slash/Pierce Affinities: [Pierce: Normal, Blunt: Vulnerable, Slash: Ineffective].
+- **Base Combat Attributes:** Max HP: 2,700 | Composure (SP): 50 | Base Speed: 3–6 | Defense Multiplier: 1.05 | Bludgeon/Gash/Skewer Affinities: [Skewer: Normal, Bludgeon: Vulnerable, Gash: Ineffective].
 - **Combat Mechanics:**
   * *Passive: [Forensic Audit]*: Hitting an enemy analyzes their financial and biological value. For every 10% HP the target loses, all allies gain +5% damage against them.
-  * *Skill 1: [Debt Foreclosure]*: Fires a focused beam of golden-white resonance light, dealing 190 Pierce damage and locking the target's highest-damage skill for 1 turn.
+  * *Skill 1: [Debt Foreclosure]*: Fires a focused beam of golden-white resonance light, dealing 190 Skewer damage and locking the target's highest-damage skill for 1 turn.
   * *Skill 2: [Asset Freeze]*: Discharges an electromagnetic wave that freezes the target's ammunition feed and reduces their Speed to 1.
   * *Climax Overdrive: [Audit of Absolute Foreclosure]* (Cost: 25 SP): Yuna projects a colossal holographic balance ledger across the arena. All enemies suffer 500 pure Pale resonance damage. Any active shielding on enemies is immediately converted into cash-back healing distributed equally to all squad members.
 
@@ -255,10 +255,10 @@ The UCD Strike Cadre brings together six specialists whose personal lives have b
 - **Institutional Background:** Chief Forensic Archivist, Keepers Archive (Mnemonic Recovery Directorate). Minho is the specialist who personally sifted through hundreds of discarded memory vials recovered from syndicate crime scenes. He carries the cognitive weight of thirty-two erased citizens inside his own augmented neural cortex, searching tirelessly for their rightful owners so he can restore their stolen lives.
 - **Tactical Combat Role:** Ranged Neural Piercer, Critical Strike Catalyst, and Mnemonic Healer.
 - **Signature M.A.W. Armament:** *The Cryo-Neural Inscription Needle* & *The Vellum Memory Cloak*.
-- **Base Combat Attributes:** Max HP: 2,900 | Composure (SP): 45 | Base Speed: 4–7 | Defense Multiplier: 0.95 | Blunt/Slash/Pierce Affinities: [Pierce: Ineffective, Slash: Normal, Blunt: Vulnerable].
+- **Base Combat Attributes:** Max HP: 2,900 | Composure (SP): 45 | Base Speed: 4–7 | Defense Multiplier: 0.95 | Bludgeon/Gash/Skewer Affinities: [Skewer: Ineffective, Gash: Normal, Bludgeon: Vulnerable].
 - **Combat Mechanics:**
   * *Passive: [Mnemonic Recall]*: Whenever Minho lands a critical hit, he extracts a memory fragment. Each fragment grants the squad +5 Composure (SP) and reveals enemy intent for the next round.
-  * *Skill 1: [Neural Inscription]*: Fires a freezing needle, dealing 210 Pierce damage and inflicting 3 Rupture count.
+  * *Skill 1: [Neural Inscription]*: Fires a freezing needle, dealing 210 Skewer damage and inflicting 3 Rupture count.
   * *Skill 2: [Memory Restoration]*: Injects a recovered memory filament into an ally, curing all psychological ailments and boosting their Attack Power by 20% for 2 turns.
   * *Climax Overdrive: [Restoration of the Stolen Soul]* (Cost: 30 SP): Minho releases a cloud of crystalline memory butterflies that swarm across the battlefield. Enemies suffer 550 psychic resonance damage and are blinded for 2 turns. All allies recover 40 SP and gain the [Clarity of Purpose] buff (+3 Clash Power).
 
@@ -266,21 +266,21 @@ The UCD Strike Cadre brings together six specialists whose personal lives have b
 - **Institutional Background:** Lead External Field Specialist, Reverie Directorate (Containment & Extraction Division). Soojin is the R.D.'s premier in-field pacifier, responsible for capturing high-hazard Sorrow Entities outside laboratory conditions. She has seen firsthand the horrific consequences of syndicates tormenting entities into berserk weapons and refuses to allow either criminals or corrupt politicians to exploit emotional grief.
 - **Tactical Combat Role:** Crowd Controller, Entity Suppressor, and Biological Armor Debuffer.
 - **Signature M.A.W. Armament:** *Leaded-Basalt Cask Gauntlets* & *Resonance Snare Lash*.
-- **Base Combat Attributes:** Max HP: 3,600 | Composure (SP): 50 | Base Speed: 2–6 | Defense Multiplier: 0.85 | Blunt/Slash/Pierce Affinities: [Resonance: Ineffective, Blunt: Normal, Slash: Vulnerable].
+- **Base Combat Attributes:** Max HP: 3,600 | Composure (SP): 50 | Base Speed: 2–6 | Defense Multiplier: 0.85 | Bludgeon/Gash/Skewer Affinities: [Resonance: Ineffective, Bludgeon: Normal, Gash: Vulnerable].
 - **Combat Mechanics:**
   * *Passive: [Containment Mandate]*: Deals +50% damage against Sorrow Entities and syndicate mutants. Her attacks automatically reduce target Stagger thresholds by 15%.
-  * *Skill 1: [Snare Lash]*: Entangles an enemy with an electrified basalt wire whip, dealing 220 Slash damage and immobilizing them for 1 turn.
+  * *Skill 1: [Snare Lash]*: Entangles an enemy with an electrified basalt wire whip, dealing 220 Gash damage and immobilizing them for 1 turn.
   * *Skill 2: [Lead Seal]*: Slams her lead gauntlets together, deploying a localized damping bubble that absorbs up to 800 psychic or resonance damage for nearby allies.
-  * *Climax Overdrive: [Quarantine Mandate — Zero Leakage]* (Cost: 35 SP): Soojin slams an industrial leaded-basalt cask onto the battlefield, creating a vacuum gravitational vortex. All non-boss enemies are drawn into the center, suffering 650 Blunt damage and being locked in suspended animation for 1 round.
+  * *Climax Overdrive: [Quarantine Mandate — Zero Leakage]* (Cost: 35 SP): Soojin slams an industrial leaded-basalt cask onto the battlefield, creating a vacuum gravitational vortex. All non-boss enemies are drawn into the center, suffering 650 Bludgeon damage and being locked in suspended animation for 1 round.
 
 ### 4.5 Engineer Joon (준) — "The Acoustic Sapper"
 - **Institutional Background:** Senior Combat Engineer, Architects Guild (Fortifications Directorate). Joon spent ten years constructing defensive perimeter walls and structural reinforcement arches in Zone B, only to watch syndicates repeatedly blast them apart with black-market explosives. Exhausted by endless repairs, Joon joined the UCD to demolish the syndicates' foundations with mathematical precision.
 - **Tactical Combat Role:** Battlefield Sapper, Armor Breaker, and Rapid Fortification Support.
 - **Signature M.A.W. Armament:** *Magnetic Pneumatic Piston Ram* & *Acoustic Dampening Deployer*.
-- **Base Combat Attributes:** Max HP: 3,800 | Composure (SP): 40 | Base Speed: 1–5 | Defense Multiplier: 0.80 | Blunt/Slash/Pierce Affinities: [Blunt: Ineffective, Slash: Normal, Pierce: Vulnerable].
+- **Base Combat Attributes:** Max HP: 3,800 | Composure (SP): 40 | Base Speed: 1–5 | Defense Multiplier: 0.80 | Bludgeon/Gash/Skewer Affinities: [Bludgeon: Ineffective, Gash: Normal, Skewer: Vulnerable].
 - **Combat Mechanics:**
   * *Passive: [Structural Calculus]*: Analyzes physical cover and barricades. Allies taking cover behind Joon's fortifications take 40% less damage from ranged and explosive attacks.
-  * *Skill 1: [Hydraulic Impact]*: Smashes his pneumatic ram into an enemy's armor, dealing 250 Blunt damage and destroying 50% of their physical defense.
+  * *Skill 1: [Hydraulic Impact]*: Smashes his pneumatic ram into an enemy's armor, dealing 250 Bludgeon damage and destroying 50% of their physical defense.
   * *Skill 2: [Rapid Barricade]*: Deploys a magnetic steel barrier that blocks an entire corridor, absorbing up to 1,500 damage and denying enemy melee advancement.
   * *Climax Overdrive: [Fortress of the Eight-Second Shield]* (Cost: 30 SP): Joon plants hydraulic anchors into the floor, deploying an armored acoustic dome. For 1 full round, all allies are completely invulnerable to all damage and debuffs, while all enemy ranged attacks rebound back onto the attackers.
 
@@ -288,12 +288,12 @@ The UCD Strike Cadre brings together six specialists whose personal lives have b
 - **Institutional Background:** Former Operative, The Memory Washers Fray. Echo was one of the underworld's most skilled identity thieves, having erased and rewritten scores of lives. However, when ordered to erase the memories of a seven-year-old child to enforce an unpaid family debt, Echo defected, sabotaging the lab and escaping to the Wardens. Haunted by the uncounted faces they erased, Echo serves as the UCD's indispensable shadow guide.
 - **Tactical Combat Role:** Critical Assassin, Shadow Infiltrator, and Priority Target Neutralizer.
 - **Signature M.A.W. Armament:** *Dual Phase-Tuned Stiletto Daggers* & *The Shifting Faceless Cowl*.
-- **Base Combat Attributes:** Max HP: 2,600 | Composure (SP): 40 | Base Speed: 5–8 | Defense Multiplier: 1.15 | Blunt/Slash/Pierce Affinities: [Slash: Normal, Pierce: Ineffective, Blunt: Vulnerable].
+- **Base Combat Attributes:** Max HP: 2,600 | Composure (SP): 40 | Base Speed: 5–8 | Defense Multiplier: 1.15 | Bludgeon/Gash/Skewer Affinities: [Gash: Normal, Skewer: Ineffective, Bludgeon: Vulnerable].
 - **Combat Mechanics:**
   * *Passive: [Shadow Navigation]*: At the start of combat, Echo enters Stealth for 2 turns. While in Stealth, Echo cannot be targeted by single-target attacks and gains +50% Critical Hit Chance.
-  * *Skill 1: [Stiletto Sever]*: Striking from stealth deals 320 Pierce damage, ignoring all enemy armor and inflicting 5 Bleed.
+  * *Skill 1: [Stiletto Sever]*: Striking from stealth deals 320 Skewer damage, ignoring all enemy armor and inflicting 5 Bleed.
   * *Skill 2: [False Facade]*: Deploys an acoustic mirror decoy, redirecting the next enemy attack to an illusion and granting Echo +3 Haste.
-  * *Climax Overdrive: [Shattered Reflection of the Fray]* (Cost: 30 SP): Echo blinks across the battlefield in a blur of mirrored reflections, striking all enemy priority targets in sequence. Deals 800 total Slash/Pierce damage divided among hostiles, silencing their special skills for 2 turns.
+  * *Climax Overdrive: [Shattered Reflection of the Fray]* (Cost: 30 SP): Echo blinks across the battlefield in a blur of mirrored reflections, striking all enemy priority targets in sequence. Deals 800 total Gash/Skewer damage divided among hostiles, silencing their special skills for 2 turns.
 
 ---
 
@@ -375,23 +375,23 @@ Urban combat in narrow tenements and dark alleyways exerts profound psychologica
 Between operational sweeps, the UCD establishes temporary **Forward Command Bivouacs** inside secured bank vaults, abandoned subway stations, or fortified tenements:
 
 ```text
-+==============================================+
-|       UCD BIVOUAC RESTORATION PROTOCOL       |
-+==============================================+
-| PROTOCOL ACTION      | EXPEDITIONARY EFFECT  |
-+======================+=======================+
-| Caloric Distribution | +30% Max HP,          |
-| (Hot Broth & Tea)    | Cleanses Physical Stun|
-+----------------------+-----------------------+
-| Mnemonic Therapy     | Restores +25 SP,      |
-| (Memory Re-Anchoring)| Cleanses Mind Trauma  |
-+----------------------+-----------------------+
-| Weapon Re-Torquing   | +15% Blunt/Pierce Dam |
-| (Piston Calibration) | Next Combat Operation |
-+----------------------+-----------------------+
-| Debriefing Counsel   | Unlocks Cooperative   |
-| (Inter-Agency Trust) | Strike Combos         |
-+======================+=======================+
++==============================================---+
+|       UCD BIVOUAC RESTORATION PROTOCOL          |
++==============================================---+
+| PROTOCOL ACTION      | EXPEDITIONARY EFFECT     |
++======================+=======================---+
+| Caloric Distribution | +30% Max HP,             |
+| (Hot Broth & Tea)    | Cleanses Physical Stun   |
++----------------------+--------------------------+
+| Mnemonic Therapy     | Restores +25 SP,         |
+| (Memory Re-Anchoring)| Cleanses Mind Trauma     |
++----------------------+--------------------------+
+| Weapon Re-Torquing   | +15% Bludgeon/Skewer Dam |
+| (Piston Calibration) | Next Combat Operation    |
++----------------------+--------------------------+
+| Debriefing Counsel   | Unlocks Cooperative      |
+| (Inter-Agency Trust) | Strike Combos            |
++======================+=======================---+
 ```
 
 During **Debriefing Counsel**, officers from conflicting factions—such as Warden Taeho and Defector Echo, or Auditor Yuna and Engineer Joon—confront their philosophical differences. Reconciling their mutual grievances restores full squad composure and unlocks potent cooperative dual-skills (e.g., *Taeho & Echo's [Pincer Subjugation]*).

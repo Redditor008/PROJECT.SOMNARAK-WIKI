@@ -213,7 +213,7 @@ The escalation pattern is specific to Frozen Tear: it is not a generic breach ev
 **Damage:** Lament 6–10
 **Speed:** 4 (Fast)
 **Range:** 4 (Long: 4–8m)
-**Pattern:** Focused Frost-Ray / Freezing Pierce
+**Pattern:** Focused Frost-Ray / Freezing Skewer
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 

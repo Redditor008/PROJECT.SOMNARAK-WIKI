@@ -46,7 +46,7 @@ During the The Blackened Angel Source-Trace, the field team preserved this sourc
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Tarnish Plume | γ Weight 7–12; Speed 2 (Normal); Range 3 (Medium); Pierce; max 3; 30 Sorrow Echoes | `SE-946-B__MAW-W_The_Tarnish_Plume.md` |
+| The Tarnish Plume | γ Weight 7–12; Speed 2 (Normal); Range 3 (Medium); Skewer; max 3; 30 Sorrow Echoes | `SE-946-B__MAW-W_The_Tarnish_Plume.md` |
 | The Gilded Shroud | γ; L/G/V/W 1.1 (Weak)/1 (Normal)/1.2 (Weak)/0.3 (Resistant); max 3; 28 Sorrow Echoes | `SE-946-C__MAW-S_The_Gilded_Shroud.md` |
 | The Blue-Black Tear | γ; Hand; 4%; +2 stat bonus when working the source entity | `SE-946-D__MAW-G_The_Blue_Black_Tear.md` |
 

@@ -46,7 +46,7 @@ During the The Conservatory Source-Trace, the field team preserved this source f
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Conservatory Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-852-B__MAW-W_Conservatory_Fang.md` |
+| Conservatory Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-852-B__MAW-W_Conservatory_Fang.md` |
 | Conservatory Plate | δ; L/G/V/W 1 (Normal)/0.4 (Resistant)/1.8 (Weak)/1.2 (Weak); max 2; 45 Sorrow Echoes | `SE-852-C__MAW-S_Conservatory_Plate.md` |
 | Conservatory Bracelet | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-852-D__MAW-G_Conservatory_Bracelet.md` |
 

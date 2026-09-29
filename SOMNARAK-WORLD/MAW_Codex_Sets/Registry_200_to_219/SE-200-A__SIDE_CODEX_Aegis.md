@@ -74,7 +74,7 @@ The set protects a threshold but is expressly barred from recreating the old log
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Blade:** Grudge 10–15; Speed 3; Range 3; Pierce; 2 maximum; 50 Echoes. Stops a marked hostile flight across a defined boundary; the bearer feels every historical exile whose return was denied.
+- **Blade:** Grudge 10–15; Speed 3; Range 3; Skewer; 2 maximum; 50 Echoes. Stops a marked hostile flight across a defined boundary; the bearer feels every historical exile whose return was denied.
 - **Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; 2 maximum; 45 Echoes. Holds a defensive gate line, but drops protection if an authorized route is deliberately closed.
 - **Charm:** Tail Stigma; 4%; +3 source-work. Identifies a passage duty that lacks a return, arrival, or review record; temper shortens near unaccountable exclusion.
 

@@ -26,7 +26,7 @@ This Memory Requiem is a singing blade of deep-blue Han crystal whose fuller res
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Lament | 10–15 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 2 / 50 Echoes |
+| δ / Lament | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
 **Ascent Cut:** Requiem pierces up to three unstable lift points along the remembered route. Striking a path-stone damages the memory and removes one traveler from the crossing.
 

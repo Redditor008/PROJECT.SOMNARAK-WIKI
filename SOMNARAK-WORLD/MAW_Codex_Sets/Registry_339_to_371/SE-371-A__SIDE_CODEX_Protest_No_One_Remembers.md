@@ -34,7 +34,7 @@ An echo forms after separate witnesses document the same missing boundary withou
 
 | Piece | Summary | File |
 |---|---|---|
-| Vanished Lens | Void 7–12; Speed 3; Range 3; Pierce; max 3; 40 Echoes. Cuts active erasure, not absent speech. | `SE-371-B__MAW-W_The_Vanished_Lens.md` |
+| Vanished Lens | Void 7–12; Speed 3; Range 3; Skewer; max 3; 40 Echoes. Cuts active erasure, not absent speech. | `SE-371-B__MAW-W_The_Vanished_Lens.md` |
 | Vanished Veil | 1.2 / 0.8 / 0.3 / 1.1; max 3; 35 Echoes. Preserves witnesses inside anti-sound. | `SE-371-C__MAW-S_The_Vanished_Veil.md` |
 | Vanished Word | Head; 4%; +2 Composure. Preserves one attested spoken word; hears nearby removals. | `SE-371-D__MAW-G_The_Vanished_Word.md` |
 

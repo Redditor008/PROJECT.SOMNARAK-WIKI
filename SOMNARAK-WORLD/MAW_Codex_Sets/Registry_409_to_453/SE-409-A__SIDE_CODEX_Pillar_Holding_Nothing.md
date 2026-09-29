@@ -34,7 +34,7 @@ An echo forms after a false support is acknowledged and one current, consented s
 
 | Piece | Summary | File |
 |---|---|---|
-| Empty Lens | Void 7–12; Speed 3; Range 3; Pierce; max 3; 40 Echoes. Cuts instability created by false support. | `SE-409-B__MAW-W_The_Empty_Lens.md` |
+| Empty Lens | Void 7–12; Speed 3; Range 3; Skewer; max 3; 40 Echoes. Cuts instability created by false support. | `SE-409-B__MAW-W_The_Empty_Lens.md` |
 | Empty Veil | 1.2 / 0.8 / 0.3 / 1.1; max 3; 35 Echoes. Protects identity while imagined support collapses. | `SE-409-C__MAW-S_The_Empty_Veil.md` |
 | Empty Pillar | Head; 4%; +2 Composure. Reveals false support and instability; recalls imagined supports. | `SE-409-D__MAW-G_The_Empty_Pillar.md` |
 

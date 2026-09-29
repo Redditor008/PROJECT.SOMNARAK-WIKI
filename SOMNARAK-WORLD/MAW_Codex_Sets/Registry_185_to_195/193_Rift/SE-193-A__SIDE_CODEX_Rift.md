@@ -62,7 +62,7 @@ Crossing the old line feels heavy even when the road is clear. The source grows 
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Wall’s Maul:** Weight 10–15; Speed 3; Range 3; Pierce; 2 maximum; 50 Echoes. Breaks a current division-pressure field without declaring reunion.
+- **Wall’s Maul:** Weight 10–15; Speed 3; Range 3; Skewer; 2 maximum; 50 Echoes. Breaks a current division-pressure field without declaring reunion.
 - **Wall’s Absence:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; 2 maximum; 45 Echoes. Creates a temporary boundary against hostile force; bearer feels everyone held outside it.
 - **Wall’s Charm:** Head Stigma; 4%; +3 source-work. Identifies an invisible inherited barrier; cost is slowed movement under its history.
 

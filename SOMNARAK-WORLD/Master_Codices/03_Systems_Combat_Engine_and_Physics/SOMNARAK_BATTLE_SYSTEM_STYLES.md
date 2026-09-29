@@ -641,7 +641,7 @@ Operating under the legal authority of Council Sovereign Charter 104, Won-Hyeong
 
 ### 9.5 Pale Bailiff Cryo-Stun Protocols
 The Pale Bailiffs specialize in non-lethal immobilization of high-threat subjects:
-- **Cryo-Lance Strike (2 AP, Range Band 1-2)**: High-speed thrust delivering 18-24 Kinetic Blunt damage. On Clash Win, inflicts *Cryo-Arrest* (locks 1 of the target's Action Point slots for the subsequent Battle Turn).
+- **Cryo-Lance Strike (2 AP, Range Band 1-2)**: High-speed thrust delivering 18-24 Kinetic Bludgeon damage. On Clash Win, inflicts *Cryo-Arrest* (locks 1 of the target's Action Point slots for the subsequent Battle Turn).
 
 ---
 

@@ -46,7 +46,7 @@ During the The Unreleased Beam Source-Trace, the field team preserved this sourc
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Resting Maul | δ Weight 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-1034-B__MAW-W_The_Resting_Maul.md` |
+| The Resting Maul | δ Weight 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-1034-B__MAW-W_The_Resting_Maul.md` |
 | The Resting Burden | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 2; 45 Sorrow Echoes | `SE-1034-C__MAW-S_The_Resting_Burden.md` |
 | The Resting Charm | δ; Head; 4%; +3 stat bonus when working the source entity | `SE-1034-D__MAW-G_The_Resting_Charm.md` |
 

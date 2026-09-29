@@ -186,7 +186,7 @@ The escalation pattern is specific to Harvest Beyond the Gate: it is not a gener
 
 Appearance : A heavy, curved single-edged falchion whose blade flat is coated in hardened, semi-translucent candle tallow, terminating in a broad flared tip with an iron crossguard.
 
-The congealed tallow insulates the blade against electrical discharge while softening kinetic recoil. Slashing impacts leave sticky, slow-burning wax deposits that impede enemy joint movement.
+The congealed tallow insulates the blade against electrical discharge while softening kinetic recoil. Gash impacts leave sticky, slow-burning wax deposits that impede enemy joint movement.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)

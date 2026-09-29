@@ -493,7 +493,7 @@ When an Echo-Core fractures under accumulated cycle trauma, their sector undergo
 - **Phase 2 — Unanswered Primordial Void Rupture:**
   - *Threat:* Neutralizing her chassis severs the neural tether to her Before-Time relic hands. Untethered, **Unanswered** enters an autonomous primordial awakening, establishing an omnidirectional **Closed Ground** field:
     * Disables all Han-assisted movement and remote Han-wave communications.
-    * Inverts local gravity and inflicts continuous Pale White Void erosion ticks.
+    * Inverts local gravity and inflicts continuous Void erosion ticks.
     * Periodically curls its floating mineral digits to execute **Converging Refusal** spatial implosions.
   - *Objective:* Brave the crushing Void vacuum on foot without Han propulsion, physically reaching both floating hands simultaneously to force a manual harmonic recalibration, binding them back to Ishall's restored human will.
 
@@ -567,7 +567,7 @@ Combat doctrine across Somnarak is codified into six distinct operational branch
 - **Macro Phase Combat Structure**: Exactly **six (6) Battle Turns compose one (1) Combat Phase**, concluding in systemic Phase-End Environmental Hazard and Equilibrium checks.
 
 ### The Six Branches:
-1. **Generic P.S. Combat Core (The Universal Engine)**: Universal mechanics of Speed Dice, Clash resolution, SP Composure (-45 to +45), Sorrow Gauges (0–100%), Dual-Threshold Stagger (60% and 25%), and Quadripartite M.A.W. armaments.
+1. **Generic P.S. Combat Core (The Universal Engine)**: Universal mechanics of Tempo Dice, Clash resolution, SP Composure (-45 to +45), Sorrow Gauges (0–100%), Dual-Threshold Stagger (60% and 25%), and Quadripartite M.A.W. armaments.
 2. **Reverie Directorate (R.D.) Style**: Facility containment operations governed by the **Nine Echo-Cores** (Floors 1 to 8), mid-combat Work Cycle execution (Ferrehan, Flerehan, Pugnahan, Viderehan), emergency sector lockdown gates, and multi-color Ordeal suppression across the 10-node containment vault.
 3. **Underworld Cleanup Descend (UCD) Style**: Urban CQB across The Raw, featuring **Targeted Part Dismantling** (shattering enemy exoskeletons and weapon manifolds), in-combat forensic auditing by Yuna, and non-lethal hostage/foundation preservation behind Taeho's Obsidian Bastion.
 4. **Somnarak Exploration Decree (SED) Style**: Subterranean abyssal descents governed by **Strata Depth Atmospheric Pressure** (-50m to -3,500m), acoustic sonar decibel stealth to prevent awakening dormant behemoths, oxygen/fuel burn timers, and seismic piton anchoring.

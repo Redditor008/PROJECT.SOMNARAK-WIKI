@@ -46,7 +46,7 @@ During the The Labyrinth of Stolen Faces Source-Trace, the field team preserved 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Maze Lens | γ Void 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-1018-B__MAW-W_The_Maze_Lens.md` |
+| The Maze Lens | γ Void 7–12; Speed 3 (Fast); Range 3 (Medium); Skewer; max 3; 40 Sorrow Echoes | `SE-1018-B__MAW-W_The_Maze_Lens.md` |
 | The Maze Veil | γ; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 3; 35 Sorrow Echoes | `SE-1018-C__MAW-S_The_Maze_Veil.md` |
 | The Maze Key | γ; Head; 4%; +2 stat bonus when working the source entity | `SE-1018-D__MAW-G_The_Maze_Key.md` |
 

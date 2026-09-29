@@ -34,7 +34,7 @@ An echo forms after matching fragments are recorded and every unsupported featur
 
 | Piece | Summary | File |
 |---|---|---|
-| Lingering Lens | Void 10–15; Speed 3; Range 3; Pierce; max 2; 50 Echoes. Cuts current erasure around the gap. | `SE-407-B__MAW-W_The_Lingering_Lens.md` |
+| Lingering Lens | Void 10–15; Speed 3; Range 3; Skewer; max 2; 50 Echoes. Cuts current erasure around the gap. | `SE-407-B__MAW-W_The_Lingering_Lens.md` |
 | Lingering Veil | 1.2 / 0.8 / 0.3 / 1.1; max 2; 45 Echoes. Protects witness identity near removed memory. | `SE-407-C__MAW-S_The_Lingering_Veil.md` |
 | Lingering Key | Head; 4%; +3 Composure. Opens one erased-memory fragment; removes certainty from one present memory. | `SE-407-D__MAW-G_The_Lingering_Key.md` |
 

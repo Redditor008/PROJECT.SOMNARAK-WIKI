@@ -206,7 +206,7 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The Original executes `[Erasure of the False Child]` (Base 20 + 2 Lots = 28 Power, Area Pale).
-    * Seiyon clashes with `[Prismatic Stiletto: Chrono Severance]` (Base 26 + 3 Lots Marked = 45 Power, Void Slash).
+    * Seiyon clashes with `[Prismatic Stiletto: Chrono Severance]` (Base 26 + 3 Lots Marked = 45 Power, Void Gash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (45 vs 28)!
     * Seiyon slices through the frozen temporal crystal; the three-meter lance detonates into thousands of harmless chronological sparks!
     * Drone's `[Temporal Clamp]` shatters the wrist actuator completely!
@@ -214,7 +214,7 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
     * **TARGETED PART DESTROYED**: The Zero-Chrono Lance is completely destroyed (**Lance HP: 0/1,500** credit)!
     * **EFFECT**: Boss temporal erasure permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Crown of Wills Damage**:
-    * Kinetic shockwave snaps two of the floating obsidian needles for **360 Blunt damage**!
+    * Kinetic shockwave snaps two of the floating obsidian needles for **360 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Zero-Chrono Lance: **DESTROYED (0/1,500 HP)**.
   * Crown of Wills: 1,800 -> **1,440/1,800** | Posture: **272/340**.
@@ -260,11 +260,11 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
   * Resonant Lens: Focuses sensor pulse on the crown's central stasis node.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The Original sweeps with `[Gale of Primordial Grief]` (Base 19 + 2 Lots = 27 Power, Area Lament).
-    * Seiyon clashes with `[Prismatic Needle: Crown Severance]` (Base 24 + 2 Lots = 36 Power, Void Pierce).
+    * Seiyon clashes with `[Prismatic Needle: Crown Severance]` (Base 24 + 2 Lots = 36 Power, Void Skewer).
     * **Clash Outcome**: Seiyon WINS THE CLASH (36 vs 27)!
     * Seiyon's needle strikes the retaining ring; four of the remaining six obsidian needles shatter into black dust!
     * Drone drives its ram into the coronet's base, fracturing the stasis field completely!
-    * Deals **760 Void/Blunt damage** and +112 Posture Strain!
+    * Deals **760 Void/Bludgeon damage** and +112 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (4,200 HP), falling to **3,020/6,000 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The Original drops to its knees on the silver pool; all defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -312,8 +312,8 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
   * Resonant Lens: Directs `[Consoling Resonance Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the genesis core for **1,240 Void damage** (Exposed 2.0x proc!)!
-  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining crown fragments for **540 Pierce damage**!
-  * Drone's `[Ground Shockwave]`: Smashes the silver footing for **280 Blunt damage**!
+  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining crown fragments for **540 Skewer damage**!
+  * Drone's `[Ground Shockwave]`: Smashes the silver footing for **280 Bludgeon damage**!
   * Lens's `[Solace Wave]`: Channels resonance for **220 Void damage**!
   * **TOTAL BURST DAMAGE: 2,280 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (2,400 HP) COMPLETELY SKIPPED!**:

@@ -29,7 +29,7 @@ The Final Lens is a lens-ground disc of nearly colorless Han-glass mounted on a 
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Void | 10–15 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 2 / 50 Echoes |
+| δ / Void | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
 **Blank-After Line:** Once a final frame completes, the Lens focuses the Void immediately following it through up to three targets. It attacks Soul continuity. Firing before the moment ends pierces the memory and removes evidence from every witness.
 

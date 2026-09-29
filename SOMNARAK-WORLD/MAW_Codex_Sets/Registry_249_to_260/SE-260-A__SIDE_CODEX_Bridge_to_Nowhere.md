@@ -73,7 +73,7 @@ A stable echo remains only after a complete Ferrehan crossing whose entry and ex
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Memory Requiem:** Lament 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping.
+- **Memory Requiem:** Lament 10–15; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping.
 - **Memory Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 2; 45 Echoes. It resists Lament while numbing minor joys.
 - **Memory Span:** Tail Stigma; 4%; +3 Clarity during source work. It crosses one remembered distance; the bearer feels every traveler’s final goodbye.
 

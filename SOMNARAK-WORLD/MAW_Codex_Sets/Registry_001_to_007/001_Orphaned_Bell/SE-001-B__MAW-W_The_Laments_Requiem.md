@@ -59,7 +59,7 @@ A bearer who uses the blade to erase a memory, silence a witness, or punish some
 
 **Trigger:** The primary target must be marked by a recent loss, a spoken name, or active Lament pressure.
 
-**Effect:** The blade releases one soundless toll through the target and any linked targets in the line. The direct wound is Lament; each secondary target receives the normal Pierce falloff.
+**Effect:** The blade releases one soundless toll through the target and any linked targets in the line. The direct wound is Lament; each secondary target receives the normal Skewer falloff.
 
 **Limit:** A target without an active grief link can still be struck, but the blade deals only its lower damage value and produces no name-record.
 

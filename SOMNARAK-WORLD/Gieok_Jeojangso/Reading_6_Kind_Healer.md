@@ -198,14 +198,14 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
 ### Turn 02 Action Resolution Log (Part Destruction: Needle Array Shattered)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Seiyon activates `Mnemonic Surge` (+2 Speed next turn -> Net Speed 9, 5 AP).
-  * The Kind Healer attempts `[Lullaby of the Pale Void]` targeting the frontline.
+  * The Kind Healer attempts `[Lullaby of the Void]` targeting the frontline.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 9 -> 5 AP [Surge]): Steps to Node 03. Spends 3 AP on `[Prismatic Stiletto: Void Severance]`. Spends 2 AP on `[Flash Step]`.
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Thermal Torch]`. Holds 1 AP in Guard.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 04)**: The Kind Healer channels `[Lullaby of the Pale Void]` (Base 19 + 2 Lots = 27 Power, Area Pale).
-    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 25 + 3 Lots Marked = 44 Power, Void Slash).
+  * **Clash 1 (Node 03 to 04)**: The Kind Healer channels `[Lullaby of the Void]` (Base 19 + 2 Lots = 27 Power, Area Pale).
+    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 25 + 3 Lots Marked = 44 Power, Void Gash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (44 vs 27)!
     * Seiyon slices through the six silver needles at their manifold collar; all six syringes detonate into glowing pale vapor!
     * Drone superheats the remaining mounting brackets, melting the arm assembly!
@@ -254,12 +254,12 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
   * Deprived of its needles, the Healer attempts to suffocate the vanguard with `[Mantle of the Final Shroud]`.
   * Seiyon gains `Mnemonic Surge` (+2 Speed -> Net Speed 8, 4 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Prismatic Flame Slash]`. Spends 2 AP on `[Core Strike]`.
+  * Seiyon (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Prismatic Flame Gash]`. Spends 2 AP on `[Core Strike]`.
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Piston Ram]`.
   * Resonant Lens: Focuses sensor pulse on the mantle's central clasp.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The Kind Healer sweeps with `[Mantle of the Final Shroud]` (Base 18 + 2 Lots = 26 Power, Pale Wrap).
-    * Seiyon clashes with `[Prismatic Flame Slash]` (Base 24 + 2 Lots = 36 Power, Heat/Void).
+    * Seiyon clashes with `[Prismatic Flame Gash]` (Base 24 + 2 Lots = 36 Power, Heat/Void).
     * **Clash Outcome**: Seiyon WINS THE CLASH (36 vs 26)!
     * Seiyon's thermal slash ignites the sterile bandages; thousands of meters of bleached cloth burn to bright ash in seconds!
     * Drone drives its pneumatic ram into the preservative intake valve, cracking the cooling lines!
@@ -311,8 +311,8 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
   * Resonant Lens: Directs `[Consoling Resonance Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the Mercy Engine for **1,060 Void damage** (Exposed 2.0x proc!)!
-  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining bandages for **480 Pierce damage**!
-  * Drone's `[Ground Shockwave]`: Smashes the operating base for **250 Blunt damage**!
+  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining bandages for **480 Skewer damage**!
+  * Drone's `[Ground Shockwave]`: Smashes the operating base for **250 Bludgeon damage**!
   * Lens's `[Solace Wave]`: Harmonizes the anesthetic field for **180 Void damage**!
   * **TOTAL BURST DAMAGE: 1,970 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (2,080 HP) COMPLETELY SKIPPED!**:

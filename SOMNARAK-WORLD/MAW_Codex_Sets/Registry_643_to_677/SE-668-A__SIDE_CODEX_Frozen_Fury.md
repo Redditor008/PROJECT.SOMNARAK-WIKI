@@ -33,7 +33,7 @@ The Grade δ set formed after Yuna corrected a Collector ledger while the source
 
 | Piece | Canonical statistics | File |
 |---|---|---|
-| Frozen Fury Lens | Void 10–15; Speed 3; Range 3; Pierce; max 2; 50 Echoes | `SE-668-B__MAW-W_Frozen_Fury_Lens.md` |
+| Frozen Fury Lens | Void 10–15; Speed 3; Range 3; Skewer; max 2; 50 Echoes | `SE-668-B__MAW-W_Frozen_Fury_Lens.md` |
 | Frozen Fury Veil | 1.2/0.8/0.3/1.1; max 2; 45 Echoes | `SE-668-C__MAW-S_Frozen_Fury_Veil.md` |
 | Frozen Fury Bracelet | Head; 4%; +3 Composure; near-invisible to emotional attacks | `SE-668-D__MAW-G_Frozen_Fury_Bracelet.md` |
 

@@ -407,9 +407,9 @@ The long curved staff measures two meters, cast from semi-translucent dark reson
 
 #### Kinematics and Move Set
 
-##### Hungering Harvest (Scythe-Line Pierce)
+##### Hungering Harvest (Scythe-Line Skewer)
 - **Activation Stance:** Advances with measured, unhurried steps, sweeping the two-meter phantom haft in an effortless horizontal reaping arc.
-- **Trajectory & Energy:** The Weight-black blade cleaves through space along a wide trajectory, dragging a dual ribbon of Crimson Grudge and Deep Blue Lament behind its cutting bevel.
+- **Trajectory & Energy:** The Weight-black blade cleaves through space along a wide trajectory, dragging a dual ribbon of Grudge and Lament behind its cutting bevel.
 - **Reach & Falloff:** Range 3 (Medium), piercing through up to 3 targets in a scythe-line (Primary 100% → First Pierced 70% → Second Pierced 50%).
 - **Hit Impact & Consequence:** Armor-piercing kinetic laceration delivering 10–20 Grudge direct damage, followed by 3 Lament per second for 10 seconds (30 total Lament across 20 half-second Ticks).
 - **Recoil & Recovery:** Speed 3 (Fast); the weapon possesses zero physical mass, requiring no kinetic deceleration or mechanical recovery.
@@ -433,7 +433,7 @@ The long curved staff measures two meters, cast from semi-translucent dark reson
 | **Full aftertone** | 30 Lament across 20 Ticks before falloff |
 | **Speed** | 3 — Fast |
 | **Range** | 3 — Medium |
-| **Attack pattern** | Pierce |
+| **Attack pattern** | Skewer |
 | **Coverage** | Scythe-line through up to 3 targets |
 | **Falloff** | 100% → 70% → 50%, applied separately to the direct hit and every Tick |
 | **Maximum amount** | 1 — Unique |
@@ -457,7 +457,7 @@ The long curved staff measures two meters, cast from semi-translucent dark reson
 | **Activation cost** | 90% of Majin's HP + 90% of his SP |
 | **Cooldown** | Not specified |
 
-The bite targets one subject and does not use the scythe's Pierce falloff. One activation leaves him effectively defenseless for the remainder of an engagement; R.D. doctrine treats it as a last-resort authorization rather than a combat option.
+The bite targets one subject and does not use the scythe's Skewer falloff. One activation leaves him effectively defenseless for the remainder of an engagement; R.D. doctrine treats it as a last-resort authorization rather than a combat option.
 
 **Signature clarification:** Majin's personal sorrow signature is Weight. Reaper Hungered's normal cut inflicts Grudge, and its aftertone inflicts Lament. The phantom beast separately inflicts Weight. Bearer signature, weapon element, and named-ability damage are distinct fields.
 

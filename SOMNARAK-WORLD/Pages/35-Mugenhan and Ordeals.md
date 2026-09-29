@@ -13,7 +13,7 @@ Within the world of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOM
 | Environmental Grid     | Mugenhan Planetary Lattice (27 Strata)        |
 | Lattice Strata         | 15 Mundane - 6 Infused - 6 Mortal Layers      |
 | Crisis Events          | 60 Ordeals (5 Colors x 4 Watches Matrix)      |
-| Color Axes             | Grey (Grudge) - Red - Violet - Black - Pale   |
+| Color Axes             | Ashen - Blue - Grey - Obsidian - Purple       |
 | Watch Tiers            | First - Second - Third - Tide                 |
 +========================================================================+
 ```
@@ -70,7 +70,7 @@ Ordeals manifest according to the facility's shift clock:
 | Color Axis | First Watch | Second Watch | Third Watch | Tide Watch |
 |---|---|---|---|---|
 | **GREY** | *Doubtful Cog* (Solo Red) | *Clockwork Sentry* (Squad Red) | *Automaton Colossus* (Kiting) | *World Machine* (Floor Focus) |
-| **RED** | *Crawling Grief* (Rapid Slash) | *Devouring Pack* (Choke Trap) | *Crimson Maw* (Shield Rotate) | *Beast of the Abyss* (Vanguard) |
+| **RED** | *Crawling Grief* (Rapid Gash) | *Devouring Pack* (Choke Trap) | *Crimson Maw* (Shield Rotate) | *Beast of the Abyss* (Vanguard) |
 | **VIOLET** | *Wailing Needle* (Mental Ward) | *Hollow Obelisk* (Melee Swarm) | *Acoustic Shroud* (White Beam) | *Chorus of Emptiness* (Stagger) |
 | **OBSIDIAN** | *Heavy Pebble* (Dual Defense) | *Gravity Monolith* (Spread Out) | *Tectonic Crusher* (Dual Ranged) | *The Fallen Spire* (Total Mobilize) |
 | **ASHEN** | *Faint Phantom* (Void Mantle) | *Pale Reaper* (Void Sniper) | *Threshold Judge* (Scale Invert) | *The Final Sentence* (Absolute) |
@@ -85,10 +85,10 @@ Ordeals manifest according to the facility's shift clock:
 ## 7 Gallery
 
 [![Mugenhan Lattice Map](images/mugenhan-lattice-map.svg)](images/mugenhan-lattice-map.svg)
-[![Violet Ordeal Monolith](images/purple-ordeal-monolith.svg)](images/purple-ordeal-monolith.svg)
+[![Purple Ordeal Monolith](images/purple-ordeal-monolith.svg)](images/purple-ordeal-monolith.svg)
 [![Tide Incursion Battle](images/tide-watch-incursion-battle.svg)](images/tide-watch-incursion-battle.svg)
 
-*Left: geological map of the Mugenhan lattice; Center: Violet Ordeal obelisk; Right: Tide Watch suppression.*
+*Left: geological map of the Mugenhan lattice; Center: Purple Ordeal obelisk; Right: Tide Watch suppression.*
 ---
 
 ## 8 See also

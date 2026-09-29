@@ -144,7 +144,7 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 +========================================================================+
 ```
 
-### Turn 01 Action Resolution Log (Intercepting the Hard-Light Slash)
+### Turn 01 Action Resolution Log (Intercepting the Hard-Light Gash)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Seiyon initializes `[Prismatic Aegis Stance]`: Grants +3 Protection and optical refraction bonus.
   * Mnemonic Drone deploys `[Polarized Caliper]`, scanning the focal resonance of the Reflection Blade.
@@ -152,9 +152,9 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Polarized Caliper: Lock]`. Holds 1 AP in Guard.
-  * The Mirror of Truth (Speed 7 -> 4 AP, Feather Ephemera delta +2, Crit +35%): Holds Node 05. Spends 2 AP on `[Reflection Blade: Hard-Light Slash]`. Spends 2 AP on `[Gilded Glare]`.
+  * The Mirror of Truth (Speed 7 -> 4 AP, Feather Ephemera delta +2, Crit +35%): Holds Node 05. Spends 2 AP on `[Reflection Blade: Hard-Light Gash]`. Spends 2 AP on `[Gilded Glare]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: The Mirror of Truth sweeps forward with `[Reflection Blade: Hard-Light Slash]` (Base 18 + 2 Lots = 28 Power, Piercing Light/Void).
+  * **Clash 1 (Node 02 to 05)**: The Mirror of Truth sweeps forward with `[Reflection Blade: Hard-Light Gash]` (Base 18 + 2 Lots = 28 Power, Piercing Light/Void).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 21 + 2 Lots = 33 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Seiyon's shield refracts the hard-light blade; the concentrated laser beam scatters into thousands of harmless rainbow facets (`[P3: Parry/Protection]`).
@@ -206,7 +206,7 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The Mirror of Truth fires `[Ray of Absolute Judgment]` (Base 19 + 2 Lots = 27 Power, Piercing Light).
-    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 25 + 3 Lots Marked = 44 Power, Void Slash).
+    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 25 + 3 Lots Marked = 44 Power, Void Gash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (44 vs 27)!
     * Seiyon dashes forward, driving both stilettos straight through the blade's optical focus emitter!
     * The hard-light blade overloads, detonating into a shower of white quartz crystals!
@@ -214,7 +214,7 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
     * **TARGETED PART DESTROYED**: The Prismatic Reflection Blade is completely destroyed (**Blade HP: 0/1,200** credit)!
     * **EFFECT**: Boss light judgment permanently disabled; boss permanently loses 1 Speed Slot!
   * **Gilded Frame Damage**:
-    * Drone's `[Optic Clamp]` cracks the gold leaf casing for **280 Blunt damage**!
+    * Drone's `[Optic Clamp]` cracks the gold leaf casing for **280 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Reflection Blade: **DESTROYED (0/1,200 HP)**.
   * Gilded Frame: 1,500 -> **1,220/1,500** | Posture: **240/300**.
@@ -262,11 +262,11 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
   * Resonant Lens: Focuses sensor pulse on the gilded frame's structural pins.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The Mirror of Truth guards with `[Bulwark of Reflected Deception]` (Defense Power 23).
-    * Seiyon clashes with `[Prismatic Needle: Frame Severance]` (Base 23 + 2 Lots = 35 Power, Piercing Void).
+    * Seiyon clashes with `[Prismatic Needle: Frame Severance]` (Base 23 + 2 Lots = 35 Power, Skewer Void).
     * **Clash Outcome**: Seiyon WINS THE CLASH (35 vs 23)!
     * Seiyon's stiletto punches through the gilded frame; the ornate Before-Time gold buckles under void resonance!
     * Drone's pneumatic ram hammers the remaining hinges; the heavy frame tears away, crashing to the dais!
-    * Deals **630 Void/Blunt damage** and +96 Posture Strain!
+    * Deals **630 Void/Bludgeon damage** and +96 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (3,360 HP), falling to **2,400/4,800 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The Mirror of Truth collapses onto the dais; all defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -314,8 +314,8 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
   * Resonant Lens: Directs `[Harmonic Clarity Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Four-Fold Stiletto Flurry]`: Drives through the prism heart for **980 Void damage** (Exposed 2.0x proc!)!
-  * Seiyon's `[Mnemonic Drive]`: Rips through the remaining gilded frame for **450 Pierce damage**!
-  * Drone's `[Ground Shockwave]`: Shatters the dais footing for **230 Blunt damage**!
+  * Seiyon's `[Mnemonic Drive]`: Rips through the remaining gilded frame for **450 Skewer damage**!
+  * Drone's `[Ground Shockwave]`: Shatters the dais footing for **230 Bludgeon damage**!
   * Lens's `[Clarity Wave]`: Disperses deceptive reflections for **160 Void damage**!
   * **TOTAL BURST DAMAGE: 1,820 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (1,920 HP) COMPLETELY SKIPPED!**:

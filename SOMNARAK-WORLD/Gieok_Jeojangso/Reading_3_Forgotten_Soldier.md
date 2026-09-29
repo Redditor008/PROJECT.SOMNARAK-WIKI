@@ -154,7 +154,7 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Hydraulic Sapper: Anchor]`. Holds 1 AP in Guard.
   * The Forgotten Soldier (Speed 5 -> 3 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Piston Halberd Cleave]`. Spends 1 AP on `[Tower Aegis Guard]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: The Forgotten Soldier sweeps with `[Piston Halberd Cleave]` (Base 18 + 2 Lots = 28 Power, Heavy Kinetic/Slash).
+  * **Clash 1 (Node 02 to 05)**: The Forgotten Soldier sweeps with `[Piston Halberd Cleave]` (Base 18 + 2 Lots = 28 Power, Heavy Kinetic/Gash).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 21 + 2 Lots = 33 Power, Tower Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * The massive tungsten halberd slams into Seiyon's holographic shield; the concussive shockwave reflects harmlessly into the stone floor (`[P3: Parry/Protection]`).
@@ -207,15 +207,15 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The Forgotten Soldier executes `[Fortress Breaker Cleave]` (Base 18 + 2 Lots = 26 Power, Heavy Kinetic).
-    * Seiyon clashes with `[Prismatic Stiletto: Pneumatic Severance]` (Base 25 + 3 Lots Marked = 43 Power, Void Slash).
+    * Seiyon clashes with `[Prismatic Stiletto: Pneumatic Severance]` (Base 25 + 3 Lots Marked = 43 Power, Void Gash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (43 vs 26)!
     * Seiyon slices through the halberd's high-pressure hydraulic hose; the compression cylinder explodes violently!
     * Drone's `[Piston Ram Hinge Strike]` smashes the wrist hinge, snapping the weapon completely!
-    * Deals **760 Critical Void/Blunt damage** (Exposed 2.0x proc!)!
+    * Deals **760 Critical Void/Bludgeon damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Heavy Piston Halberd is completely destroyed (**Halberd HP: 0/1,000** credit)!
     * **EFFECT**: Boss kinetic cleave permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Tower Aegis Damage**:
-    * Sapper shockwave cracks the basalt surface of the Tower Aegis for **240 Blunt damage**!
+    * Sapper shockwave cracks the basalt surface of the Tower Aegis for **240 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Heavy Piston Halberd: **DESTROYED (0/1,000 HP)**.
   * Tower Aegis: 1,300 -> **1,060/1,300** | Posture: **204/260**.
@@ -266,7 +266,7 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon's shield meets the three-ton basalt slab; the kinetic impact shudders through the iron chamber!
     * Drone levers its sapper spike into the retaining bracket; the massive shield pops off its arm mounts, crashing to the floor!
-    * Deals **540 Blunt/Void damage** and +88 Posture Strain!
+    * Deals **540 Bludgeon/Void damage** and +88 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,800 HP), falling to **2,030/4,000 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The Forgotten Soldier sinks onto both knees; all defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -314,8 +314,8 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
   * Resonant Lens: Focuses `[Harmonic Ley-Resonance]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Void Execution Flurry]`: Plunges through the clockwork core for **820 Void damage** (Exposed 2.0x proc!)!
-  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining shield fragments for **380 Pierce damage**!
-  * Drone's `[Hydraulic Ram]`: Crushes the armor knee struts for **210 Blunt damage**!
+  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining shield fragments for **380 Skewer damage**!
+  * Drone's `[Hydraulic Ram]`: Crushes the armor knee struts for **210 Bludgeon damage**!
   * Lens's `[Harmonic Ley-Resonance]`: Vibrates the exposed cogs for **140 Void damage**!
   * **TOTAL BURST DAMAGE: 1,550 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (1,600 HP) COMPLETELY SKIPPED!**:

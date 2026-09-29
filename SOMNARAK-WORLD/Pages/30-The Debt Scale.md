@@ -63,7 +63,7 @@ In accordance with Directorate safety doctrine, The Debt Scale permits only obse
 ## 4 The Inversion Aura and Defensive Trade-Offs
 
 Carrying The Debt Scale fundamentally alters the bearer's metaphysical defense matrix:
-- **Pale Void Inversion:** The bearer's resistance against ⚪ **Void** damage becomes **0.3 (Highly Resistant)**. When struck by percentage-based Void attacks, the bearer absorbs only a fraction of damage, and 50% of the absorbed damage is converted into an immediate party-wide health heal.
+- **Void Inversion:** The bearer's resistance against ⚪ **Void** damage becomes **0.3 (Highly Resistant)**. When struck by percentage-based Void attacks, the bearer absorbs only a fraction of damage, and 50% of the absorbed damage is converted into an immediate party-wide health heal.
 - **Physical Grudge Penalty:** In exchange, the bearer's resistance against physical 🔴 **Grudge** damage collapses to **1.8 (Exposed Vulnerability)**. Kinetic slashes, beast claws, and blunt weapons inflict devastating damage.
 
 ## 5 Resonance Pairing with The Debt Eater

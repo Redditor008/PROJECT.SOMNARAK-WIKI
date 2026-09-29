@@ -46,7 +46,7 @@ During the The The Scar Walker Source-Trace, the field team preserved this sourc
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Occlusihan Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-1004-B__MAW-W_The_Occlusihan_Fang.md` |
+| The Occlusihan Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-1004-B__MAW-W_The_Occlusihan_Fang.md` |
 | The Occlusihan Plate | δ; L/G/V/W 1 (Normal)/0.4 (Resistant)/1.8 (Weak)/1.2 (Weak); max 2; 45 Sorrow Echoes | `SE-1004-C__MAW-S_The_Occlusihan_Plate.md` |
 | The Occlusihan Blade | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-1004-D__MAW-G_The_Occlusihan_Blade.md` |
 

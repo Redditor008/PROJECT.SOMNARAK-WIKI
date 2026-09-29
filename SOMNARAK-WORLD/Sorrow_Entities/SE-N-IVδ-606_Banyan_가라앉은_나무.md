@@ -212,7 +212,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack Pattern:** Pierce
+**Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.

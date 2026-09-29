@@ -183,7 +183,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Damage:** Grudge 4–8 (x3 strikes)
 **Speed:** 4 (Fast)
 **Range:** 3 (Medium — 2–4m)
-**Pattern:** Tri-Blade Flurry / Telekinetic Pierce
+**Pattern:** Tri-Blade Flurry / Telekinetic Skewer
 
 **Appearance:** A pale, semi-translucent glove woven from gossamer mourning silk, adorned with faint red ribbon embroidery along the knuckles. Suspended in mid-air around the gloved hand are three floating, weightless daggers of mirror-polished silver that hum with held resentment. The bearer does not throw or physically touch the daggers—fluid finger twitches and dance-like hand choreography launch all three blades darting through the air in rapid succession, stitching through enemy vulnerabilities before returning to orbit around the palm.
 

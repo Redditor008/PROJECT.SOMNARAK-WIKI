@@ -193,7 +193,7 @@
 
 **How it works:**
 - **Mechanical Output:** The weapon operates via high-pressure hydraulic conduits and sorrow-forged kinetic accumulators, achieving combat output equivalent to a **Critical (δ)** M.A.W. without requiring an extracted entity core or emotional synchronization.
-- **Normal Attack (Pierce):** Operates at **Speed 1 — Slow**, reaching out to **Range Band 5 (Room reach)**. The piercing strike covers a straight directional line affecting up to three targets with canonical falloff (**100% → 70% → 50%**).
+- **Normal Attack (Skewer):** Operates at **Speed 1 — Slow**, reaching out to **Range Band 5 (Room reach)**. The piercing strike covers a straight directional line affecting up to three targets with canonical falloff (**100% → 70% → 50%**).
 - **Direct & DoT Tick Scaling:** Deals **6–16 Weight** direct damage upon impact, immediately followed by **2 Grudge Tick damage per second for 10 seconds**. The falloff multiplier scales direct damage and periodic DoT ticks independently without rounding.
 - **Active Ability (Singular Weight Wave):** Mellda can discharge an arena-wide shockwave of concentrated Weight along a linear trajectory, inflicting **25 Weight damage** (100% → 70% → 50% falloff) with a mandatory **15-second mechanical recharge window**.
 

@@ -233,24 +233,24 @@ The warning sirens wailed. The containment needles deep inside SE-C-IIIγ-928 fl
 The battle for the memory of the city had begun.
 
 ```text
-+==============================================+
-|       TARGET DOSSIER: THE OBLIVION ALCHEMIST |
-+==============================================+
-| Apex Target          | Chief Chemist Sura    |
-| Organization         | The Memory Washers    |
-| Threat Grade         | Major Potency (γ)     |
-| Containment Code     | SE-C-IIIγ-928 [VH]    |
-+----------------------+-----------------------+
-| Combined Vitality    | 6,200 Total Health    |
-| Targetable Parts     | 3 Distinct Modules    |
-| Part 1: Exoskeleton  | 2,000 Health (Blunt)  |
-| Part 2: Distill Unit | 1,400 Health (Pierce) |
-| Part 3: Lethe Core   | 2,800 Health (Mind)   |
-+----------------------+-----------------------+
-| Stagger Threshold 1  | 60% Health (3,720 HP) |
-| Stagger Threshold 2  | 25% Health (1,550 HP) |
-| Overdrive Skill      | Tidal Oblivion Storm  |
-+==============================================+
++==============================================---+
+|       TARGET DOSSIER: THE OBLIVION ALCHEMIST    |
++==============================================---+
+| Apex Target          | Chief Chemist Sura       |
+| Organization         | The Memory Washers       |
+| Threat Grade         | Major Potency (γ)        |
+| Containment Code     | SE-C-IIIγ-928 [VH]       |
++----------------------+--------------------------+
+| Combined Vitality    | 6,200 Total Health       |
+| Targetable Parts     | 3 Distinct Modules       |
+| Part 1: Exoskeleton  | 2,000 Health (Bludgeon)  |
+| Part 2: Distill Unit | 1,400 Health (Skewer)    |
+| Part 3: Lethe Core   | 2,800 Health (Mind)      |
++----------------------+--------------------------+
+| Stagger Threshold 1  | 60% Health (3,720 HP)    |
+| Stagger Threshold 2  | 25% Health (1,550 HP)    |
+| Overdrive Skill      | Tidal Oblivion Storm     |
++==============================================---+
 ```
 
 ---
@@ -354,13 +354,13 @@ The battle for the memory of the city had begun.
     * **Clash Outcome**: Taeho WINS THE CLASH (29 vs 25)!
     * The kinetic force field disperses the toxic chemical stream without a drop breaching the shield (`[P3: Parry/Protection]`).
     * Taeho reflects **150 kinetic tremor damage** back into Sura's heavy hazmat exoskeleton! Inflicts +26 Posture Strain.
-  * **Clash 2 (Node 03 to 05)**: Chemical Enforcers attempt `[Solvent Syringe Thrust]` (Atk Power 19, Pierce).
+  * **Clash 2 (Node 03 to 05)**: Chemical Enforcers attempt `[Solvent Syringe Thrust]` (Atk Power 19, Skewer).
     * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 23, Kinetic Shield).
     * **Clash Outcome**: Joon WINS THE CLASH (23 vs 19).
     * Syringes shatter against the reinforced titanium mantlet; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Cipher-Scan]` identifies the high-pressure feeder joints of the Distillation Sprayer arm.
-    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Sura's hydraulic actuator, dealing **220 Pierce damage** and +22 Posture Strain!
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Sura's hydraulic actuator, dealing **220 Skewer damage** and +22 Posture Strain!
     * Handler Soojin's aerosol ward completely nullifies ambient amnesiac fumes around the squad.
 - **Step 4: Turn End State**:
   * Sura Hazmat Exoskeleton HP: 2,000 -> **1,630/2,000** (Combined Encounter HP: **5,830/6,200**).
@@ -420,16 +420,16 @@ The battle for the memory of the city had begun.
   * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Leaded Ring]` (2 AP) around SE-C-IIIγ-928's vapor perimeter.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 04 to 05)**: Distillation Sprayer fires `[Concentrated Oblivion Jet]` (Base 11 + 2 Lots = 23 Power, Mind Drain).
-    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 15 + 2 Lots = 27 Power, Heavy Blunt).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 15 + 2 Lots = 27 Power, Heavy Bludgeon).
     * **Clash Outcome**: Joon WINS THE CLASH (27 vs 23)!
     * The hydraulic ram smashes straight into the outer vapor manifold of the sprayer!
-    * Deals **480 Blunt damage** directly to the Distillation Sprayer arm and inflicts +48 Posture Strain!
+    * Deals **480 Bludgeon damage** directly to the Distillation Sprayer arm and inflicts +48 Posture Strain!
   * **Clash 2 (Node 06 to 05)**: Chief Chemist Sura brandishes `[High-Frequency Solvent Scalpel]` (Power 21).
     * Auditor Yuna unleashes `[Cipher-Pulse: Resonance Intercept]` (Def Power 25).
     * **Clash Outcome**: Yuna WINS THE CLASH (25 vs 21).
     * The electromagnetic pulse destabilizes Sura's balance servos, reducing her speed to 1 and exposing her thoracic plate.
   * **Follow-Up Maneuvers**:
-    * Taeho's `[Shield Bash]` deals **260 Blunt damage** to the exoskeleton chassis.
+    * Taeho's `[Shield Bash]` deals **260 Bludgeon damage** to the exoskeleton chassis.
     * Minho's cognitive salve restores +15 SP across the strike cadre.
     * Infiltrator Echo slices an overhead solvent feeder, venting 300 liters of concentrated acid harmlessly into the floor drainage sump!
 - **Step 4: Turn End State**:
@@ -455,7 +455,7 @@ The battle for the memory of the city had begun.
 |   Battery)                                                          |
 | - Node 05: Chief Chemist Sura (STAGGER LEVEL 1 / SPRAYER DESTROYED) |
 | - Node 06: Auditor Yuna (Downloading Memory Ledger Coordinates)     |
-| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Sprayer   |
+| - Node 07: Investigator Minho (Synaptic Skewer Dismantles Sprayer   |
 |   Valve)                                                            |
 | - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo    |
 |   Joints)                                                           |
@@ -470,18 +470,18 @@ The battle for the memory of the city had begun.
 +=====================================================================+
 ```
 
-###### Turn 03 Action Resolution Log (Neural Lancet Pierce & Stagger Threshold 1)
+###### Turn 03 Action Resolution Log (Neural Lancet Skewer & Stagger Threshold 1)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Commander Taeho's `Momentum Surge` activates (+2 Speed next turn -> Net Speed 6, 3 AP).
   * Sura attempts to overcharge her remaining chemical payload: `[Aerosol Amnesia Storm]`.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Investigator Minho (Speed 9 -> 5 AP): Takes elevated perch at Node 07. Spends 3 AP to fire `[Neural Lancet: Synaptic Pierce]`.
+  * Investigator Minho (Speed 9 -> 5 AP): Takes elevated perch at Node 07. Spends 3 AP to fire `[Neural Lancet: Synaptic Skewer]`.
   * Commander Taeho (Speed 6 -> 3 AP): Charges from Node 03 to Node 05, unleashing `[Heavy Piston Strike]` (2 AP).
   * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on Sura's power cell.
   * Infiltrator Echo (Speed 9 -> 5 AP): Drops from catwalk onto Sura's back chassis, driving `[Eclipse Stiletto]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 07 to 05)**: Sura unleashes `[Aerosol Amnesia Storm]` (Base 14 + 2 Lots = 26 Power, Mind Drain).
-    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 18 + 2 Lots = 30 Power, High-Precision Pierce).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Skewer]` (Base 18 + 2 Lots = 30 Power, High-Precision Skewer).
     * **Clash Outcome**: Minho WINS THE CLASH (30 vs 26)!
     * Minho's silver lancet pierces the central rotary valve of the sprayer arm with microscopic accuracy!
     * **TARGETED PART DESTROYED**: `[The Chemical Distillation Sprayer]` explodes into twisted aluminum and sparking cables (**920 Sprayer HP destroyed: 0/1,400**)!
@@ -489,9 +489,9 @@ The battle for the memory of the city had begun.
     * Combined Target HP drops below 60% (3,720 HP), and Sura's Posture falls past the 60% strain line!
     * **STAGGER LEVEL 1 ACTIVE!** Sura's exoskeleton sparks violently, losing 100% defense and taking 2.0x direct damage. All enemy counter-stances cancelled!
   * **Punishment Strike Phase**:
-    * Commander Taeho's `[Heavy Piston Strike]` delivers **420 Blunt damage** to the sparking chassis.
+    * Commander Taeho's `[Heavy Piston Strike]` delivers **420 Bludgeon damage** to the sparking chassis.
     * Engineer Joon's thermite clamp burns through the auxiliary accumulator for **350 Thermal damage**.
-    * Infiltrator Echo's `[Eclipse Stiletto]` slices hydraulic tendons for **310 Slash damage**.
+    * Infiltrator Echo's `[Eclipse Stiletto]` slices hydraulic tendons for **310 Gash damage**.
 - **Step 4: Turn End State**:
   * Sura Exoskeleton HP: 1,370 -> **290/2,000** (Chassis critically fractured!).
   * Distillation Sprayer: **0/1,400 [DESTROYED]**.
@@ -598,14 +598,14 @@ The battle for the memory of the city had begun.
   * Engineer Joon (Speed 5 -> 3 AP): Smashes away Sura's buckled leg supports at Node 04 (2 AP).
   * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 4,216 stolen memory files at Node 06 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10)**: SE-C-IIIγ-928 lashes out with `[Grasping Shroud of Forgetfulness]` (Atk Power 27, Pierce).
-    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 22 + 2 Lots Marked = 32 Power, Slash).
+  * **Clash 1 (Node 10)**: SE-C-IIIγ-928 lashes out with `[Grasping Shroud of Forgetfulness]` (Atk Power 27, Skewer).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 22 + 2 Lots Marked = 32 Power, Gash).
     * **Clash Outcome**: Echo WINS THE CLASH (32 vs 27)!
     * Echo slices cleanly through the synthetic sorrow conduits feeding the miasma core!
-    * **CRITICAL HIT!** Deals **580 Slash damage** directly to the core and strips 70 Posture points!
+    * **CRITICAL HIT!** Deals **580 Gash damage** directly to the core and strips 70 Posture points!
   * **Targeted Fire**:
-    * Investigator Minho's `[Silver Lancet]` strikes the exposed cognitive anchor, dealing **410 Freezing Pierce damage** and wiping out the entity's remaining Posture!
-    * Engineer Joon tears away Sura's buckled leg servos with the pneumatic pry bar, dealing **290 Blunt damage** and crushing the exoskeleton completely (Exoskeleton HP: 0/2,000)!
+    * Investigator Minho's `[Silver Lancet]` strikes the exposed cognitive anchor, dealing **410 Freezing Skewer damage** and wiping out the entity's remaining Posture!
+    * Engineer Joon tears away Sura's buckled leg servos with the pneumatic pry bar, dealing **290 Bludgeon damage** and crushing the exoskeleton completely (Exoskeleton HP: 0/2,000)!
 - **Step 4: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!**:
   * Both Sura and SE-C-IIIγ-928 reach **Posture 0/220** and **0/200**!
   * **TERMINAL STAGGER ACTIVE!** Sura's chassis collapses under hydraulic feedback, pinning her to the deck. SE-C-IIIγ-928's amnesiac shroud implodes into a dense, sluggish vortex.

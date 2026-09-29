@@ -63,9 +63,9 @@
   * **Suit:** `MAW-S-FRAY Heavy Kinetic Breacher Plating` (Grade 4 Weight-Resistant Armor)
   * **Stigma:** `MAW-G-FRAY Slag-Tempered Eye` (Grade 4 Thermal Visor)
 - **Signature Combat Skills:**
-  * *Pneumatic Door Breach (2 AP • Band 1 • Base 26):* Smashes hydraulic piston directly into environmental cover, instantly obliterating destructible barricades and dealing 45 Blunt damage to adjacent foes.
+  * *Pneumatic Door Breach (2 AP • Band 1 • Base 26):* Smashes hydraulic piston directly into environmental cover, instantly obliterating destructible barricades and dealing 45 Bludgeon damage to adjacent foes.
   * *Kinetic Deflection Stance (1 AP • Self • Base 22):* Raises heavy ballistic plate; fortifies Posture by +35 points and reflects 15% of physical damage.
-  * *Slag Ground Slam (2 AP • Band 1-2 Area • Base 25):* Slams the floor, sending tectonic shockwaves across 2 contiguous nodes dealing 40 Blunt damage.
+  * *Slag Ground Slam (2 AP • Band 1-2 Area • Base 25):* Slams the floor, sending tectonic shockwaves across 2 contiguous nodes dealing 40 Bludgeon damage.
 - **Structural Passive (Demolition Core):** Deals +50% bonus Posture strain against stationary armored limbs, barricades, and mechanical joints.
 
 ### 2.2 Operative 2: The Debt Cauterizer (Close-Range Tactical Support & Suture Burner)
@@ -93,7 +93,7 @@
 - **Signature Combat Skills:**
   * *Buckshot Point-Blank Flurry (2 AP • Band 1 • Base 27):* Discharges both shotgun barrels; fires 3 rapid pellets dealing 20/20/25 kinetic damage. Eliminates low-tier syndicate husks in 1 volley.
   * *Alleyway Vault (1 AP • Band 1-2 • Utility):* Leaps over the frontline, advancing 2 nodes forward without expending movement penalties.
-  * *Trench Cleave (2 AP • Band 1 • Base 25):* Heavy under-barrel bayonet slash dealing 45 Slashing damage.
+  * *Trench Cleave (2 AP • Band 1 • Base 25):* Heavy under-barrel bayonet slash dealing 45 Gash damage.
 - **Structural Passive (Alleyway Reflexes):** Gains +2 Base Clash Power when fighting in narrow corridor terrain. Scoring a critical hit immediately restores 10 Posture.
 
 ### 2.4 Operative 4: The Harpoon Wincher (Pneumatic Displacement Artillery)

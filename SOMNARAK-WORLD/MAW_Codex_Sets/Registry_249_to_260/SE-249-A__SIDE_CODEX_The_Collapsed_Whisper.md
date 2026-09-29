@@ -74,7 +74,7 @@ An echo forms after two dreamers report matching fragments without agreeing on a
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Warning Fang:** Grudge 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Old wounds ache and bruise.
+- **Warning Fang:** Grudge 10–15; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 2; 50 Echoes. Old wounds ache and bruise.
 - **Warning Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 2; 45 Echoes. It resists Grudge while dulling reflexes.
 - **Warning Thread:** Tail Stigma; 4%; +3 Resilience during source work. It preserves one warning fragment; the bearer hears every warning that arrives too late.
 

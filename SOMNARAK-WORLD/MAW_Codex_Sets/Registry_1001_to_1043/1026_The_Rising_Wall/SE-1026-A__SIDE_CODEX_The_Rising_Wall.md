@@ -46,7 +46,7 @@ During the The The Rising Wall Source-Trace, the field team preserved this sourc
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Rising Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-1026-B__MAW-W_The_Rising_Requiem.md` |
+| The Rising Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-1026-B__MAW-W_The_Rising_Requiem.md` |
 | The Rising Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-1026-C__MAW-S_The_Rising_Shroud.md` |
 | The Rising Pendant | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-1026-D__MAW-G_The_Rising_Pendant.md` |
 

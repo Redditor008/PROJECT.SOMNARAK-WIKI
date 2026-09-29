@@ -99,7 +99,7 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 |---|---|
 | Damage | Grudge 10–15 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce — up to three targets |
+| Attack Pattern | Skewer — up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 2 — Limited / 50 Sorrow Echoes |
 | Primary Cost | Old wounds ache and prolonged use leaves crimson bruising. |

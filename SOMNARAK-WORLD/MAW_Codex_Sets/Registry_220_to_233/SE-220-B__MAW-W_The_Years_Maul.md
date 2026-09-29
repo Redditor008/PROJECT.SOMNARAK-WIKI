@@ -29,7 +29,7 @@ The Years Maul is a matte black two-handed maul of Han steel whose striking face
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Weight | 10–15 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 2 / 50 Echoes |
+| δ / Weight | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
 **Dated Consequence:** Before striking, the wielder states the target event and surviving consequence. The Maul sends that Weight through up to three linked structures. A date without consequence produces no force; an invented date returns the blow through the bearer’s joints.
 

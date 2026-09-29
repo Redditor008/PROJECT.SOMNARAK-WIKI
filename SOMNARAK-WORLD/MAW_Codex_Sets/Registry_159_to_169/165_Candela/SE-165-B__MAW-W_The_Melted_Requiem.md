@@ -41,7 +41,7 @@
 
 ## Appearance
 
-The Melted Requiem is a tall candle-staff of blue Han crystal whose wax-soft head seems always mid-melt yet holds a sharp, singing edge-fin. It activates only after the bearer states that the perceived future is possible, not certain. In active use melted-looking light runs forward from the wax head and stops at one current emotional danger. At full activation, the full Pierce line clears a rising anticipatory Lament surge, allowing a team to prepare without taking control of others’ future decisions. The bearer appoints a present-care witness who can halt use if prediction language becomes certainty. The bearer feels Candela’s unwept grief and may cry after use. Every use must name uncertainty and present consent. The head stays soft-lit until a current-care debrief is complete. The Requiem is never stored beside a forecast alone. If the weapon is drawn to control a person for something that has not happened, it melts cold in the bearer’s hand and applies its Lament pressure to the bearer’s own future fear. The witness covers the melt line, says the present action, and sheaths the weapon during shutdown.
+The Melted Requiem is a tall candle-staff of blue Han crystal whose wax-soft head seems always mid-melt yet holds a sharp, singing edge-fin. It activates only after the bearer states that the perceived future is possible, not certain. In active use melted-looking light runs forward from the wax head and stops at one current emotional danger. At full activation, the full Skewer line clears a rising anticipatory Lament surge, allowing a team to prepare without taking control of others’ future decisions. The bearer appoints a present-care witness who can halt use if prediction language becomes certainty. The bearer feels Candela’s unwept grief and may cry after use. Every use must name uncertainty and present consent. The head stays soft-lit until a current-care debrief is complete. The Requiem is never stored beside a forecast alone. If the weapon is drawn to control a person for something that has not happened, it melts cold in the bearer’s hand and applies its Lament pressure to the bearer’s own future fear. The witness covers the melt line, says the present action, and sheaths the weapon during shutdown.
 
 ## CORE STATISTICS
 
@@ -49,7 +49,7 @@ The Melted Requiem is a tall candle-staff of blue Han crystal whose wax-soft hea
 |---|---|
 | Damage | Lament 10–15 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 50 Sorrow Echoes to register and bind |
 | Operational cost | The bearer feels Candela’s unwept grief and may cry after use. |
@@ -60,12 +60,12 @@ The Melted Requiem is a tall candle-staff of blue Han crystal whose wax-soft hea
 
 ### Basic attack — *Possible Line*
 
-The Requiem delivers a Lament Pierce that interrupts a future-grief pressure loop without declaring the possible loss prevented or inevitable.
+The Requiem delivers a Lament Skewer that interrupts a future-grief pressure loop without declaring the possible loss prevented or inevitable.
 
 ### Signature ability — *Stay With Now*
 
 **Trigger:** The care witness confirms a present person, present choice, and proportionate action.  
-**Effect:** The full Pierce line clears a rising anticipatory Lament surge, allowing a team to prepare without taking control of others’ future decisions.  
+**Effect:** The full Skewer line clears a rising anticipatory Lament surge, allowing a team to prepare without taking control of others’ future decisions.  
 **Limit:** It cannot make prophecy, prove a vision, or erase the grief of a possibility.  
 **Failure state:** If the bearer claims certainty, the melted light pours back through the grip and makes every possible failure feel immediate.
 

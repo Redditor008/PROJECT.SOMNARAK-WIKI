@@ -75,7 +75,7 @@ Extraction occurs only after a released memory is witnessed to completion withou
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Splinter Requiem:** Lament 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping with emotions not belonging to the wielder.
+- **Splinter Requiem:** Lament 10–15; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping with emotions not belonging to the wielder.
 - **Splinter Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 2; 45 Echoes. It resists Lament by keeping sorrow in motion, but minor joys become difficult to feel.
 - **Splinter Pendant:** Tail Stigma; 4%; +3 Clarity during source work. It receives one emotional attack and stores it as a memory; unreleased grief enters the bearer’s dreams.
 

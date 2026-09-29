@@ -140,7 +140,7 @@
   * Dekan executes *Maw Cleave* (2 AP) against the grasping limb at `[N06]`.
   * Damage Dealt: 65 Kinetic Damage * 0.7x = 45 Damage.
   * Specialist Han executes *Rapid-Fire Suture Needle* (2 AP) into the arm joint.
-  * Damage Dealt: 55 Pierce Damage * 1.5x (Void tip) = 82 Damage!
+  * Damage Dealt: 55 Skewer Damage * 1.5x (Void tip) = 82 Damage!
   * Embrace Arms HP: 719 -> 592 / 750 (Rupture Threshold: 450 HP).
 
 #### 4. Posture & Composure Tracking

@@ -51,7 +51,7 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 
 | Piece | Canonical statistics | File |
 |---|---|---|
-| Seam Edge | β Void 5–9; Speed 3; Range 3; Pierce; max 4; 25 Echoes | `UNK_251-B__MAW-W_The_Seam_Edge.md` |
+| Seam Edge | β Void 5–9; Speed 3; Range 3; Skewer; max 4; 25 Echoes | `UNK_251-B__MAW-W_The_Seam_Edge.md` |
 | Two-Weather Mantle | L/G/V/W 1.0/0.8/0.3/1.1; max 4; 20 Echoes | `UNK_251-C__MAW-S_Two_Weather_Mantle.md` |
 | Threshold Stone | Hand; 5%; +1 Clarity | `UNK_251-D__MAW-G_The_Threshold_Stone.md` |
 

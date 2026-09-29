@@ -74,7 +74,7 @@ A stable echo forms when Flerehan releases a departure memory and two witnesses 
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Rust Wall Maul:** Weight 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use adds heaviness and age.
+- **Rust Wall Maul:** Weight 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use adds heaviness and age.
 - **Rust Wall Plate:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 3; 35 Echoes. It resists forced movement but makes inclusion harder.
 - **Rust Wall Charm:** Head Stigma; 4%; +2 Resolve during source work. It marks the unnamed side; the bearer moves more slowly.
 

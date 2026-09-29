@@ -51,7 +51,7 @@ The Grade δ set formed when Marjuk placed the relic in Old Lament as a returned
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Home to No One Who Knew Me’s Fang | δ Grudge; 10–15; Speed 3; Range 3; Pierce 100/70/50%; max 2; 50 Echoes | `SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Mes_Fang.md` |
+| Home to No One Who Knew Me’s Fang | δ Grudge; 10–15; Speed 3; Range 3; Skewer 100/70/50%; max 2; 50 Echoes | `SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Mes_Fang.md` |
 | Home to No One Who Knew Me’s Plate | δ Grudge; L/G/V/W 1.0/0.4/1.8/1.2; max 2; 45 Echoes | `SE-641-C__MAW-S_Home_to_No_One_Who_Knew_Mes_Plate.md` |
 | Home to No One Who Knew Me’s Ember | δ Grudge; Tail; 4%; +3 Resilience; recalls one lost object | `SE-641-D__MAW-G_Home_to_No_One_Who_Knew_Mes_Ember.md` |
 

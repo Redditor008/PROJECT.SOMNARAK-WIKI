@@ -76,7 +76,7 @@ When two current border representatives independently identify the same original
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Patina Fang:** Grudge 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Each use wakes old injuries and leaves bruising along inherited scar-lines.
+- **Patina Fang:** Grudge 10–15; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 2; 50 Echoes. Each use wakes old injuries and leaves bruising along inherited scar-lines.
 - **Patina Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 2; 45 Echoes. Hostility hardens it, but the wearer begins feeling ancestral anger toward strangers.
 - **Patina Charm:** Tail Stigma; 4%; +3 Resilience during source work. It distinguishes present harm from inherited accusation; the bearer becomes irritable whenever that distinction is ignored.
 

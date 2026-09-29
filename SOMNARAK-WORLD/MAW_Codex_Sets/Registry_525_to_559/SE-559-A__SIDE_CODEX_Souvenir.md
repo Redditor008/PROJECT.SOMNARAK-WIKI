@@ -49,7 +49,7 @@ The first stable set appeared after Former Resident Nari Baram described the set
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Ruin Requiem | γ Lament; 7–12; Speed 3; Range 3; Pierce 100/70/50%; max 3; 40 Echoes | `SE-559-B__MAW-W_The_Ruin_Requiem.md` |
+| Ruin Requiem | γ Lament; 7–12; Speed 3; Range 3; Skewer 100/70/50%; max 3; 40 Echoes | `SE-559-B__MAW-W_The_Ruin_Requiem.md` |
 | Ruin Shroud | γ Lament; L/G/V/W 0.4/1.0/1.6/0.8; max 3; 35 Echoes | `SE-559-C__MAW-S_The_Ruin_Shroud.md` |
 | Ruin Fragment | γ Lament; Tail; 4%; +2 Clarity; preserves one destroyed-place memory | `SE-559-D__MAW-G_The_Ruin_Fragment.md` |
 

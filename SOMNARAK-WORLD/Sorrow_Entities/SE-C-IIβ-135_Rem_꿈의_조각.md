@@ -225,7 +225,7 @@ Appearance : A cluster of three diamond-faceted lavender crystal prisms hovering
 Without physical handles or cords, the three twenty-centimeter prisms respond instantaneously to telekinetic hand gestures. Thrusting a palm forward launches the crystals in high-speed linear piercing trajectories up to Range 4 before they snap smoothly back into revolving equilibrium around the wrist.
 
 **Special Move Set:**
-- *Primary Kinematics — "Oneiric Pierce":* Thrusting the open hand forward commands one lavender prism to streak in a razor-sharp linear vector across Range 4, puncturing the target's psyche with Lament before arcing smoothly back into orbit.
+- *Primary Kinematics — "Oneiric Skewer":* Thrusting the open hand forward commands one lavender prism to streak in a razor-sharp linear vector across Range 4, puncturing the target's psyche with Lament before arcing smoothly back into orbit.
 - *Active Special — "Somnolence Cage":* The wielder clasps their hands together at chest height; all three prisms accelerate into a spinning violet ring around a target at Range 4, projecting refracted planar beams of dream-light inward. The target is trapped within the geometric somnolence field for 3 seconds, taking continuous psychic erosion and suffering 50% slowed action speed.
 - *Cost & Drawback:* Mental synchronization drains cognitive stamina; sustaining the cage prevents the wielder from sprinting.
 

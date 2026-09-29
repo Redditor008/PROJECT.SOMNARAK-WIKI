@@ -96,7 +96,7 @@ The three pieces do not fill Timber Maw’s absence. They make personnel capable
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
-| Weight 7–12 | 3 — Fast / 3 — Medium | Pierce; up to 3 targets; 100% → 70% → 50% | 3 / 40 |
+| Weight 7–12 | 3 — Fast / 3 — Medium | Skewer; up to 3 targets; 100% → 70% → 50% | 3 / 40 |
 
 A matte Weight Han-steel staff absorbs excess Han-energy from its surroundings. Its bearer feels the emptiness of every place entered and risks draining significance, not merely pressure, from an occupied refuge.
 

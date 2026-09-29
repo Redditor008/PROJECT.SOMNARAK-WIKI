@@ -655,7 +655,7 @@ The sources do not quantify lifting strength, running speed, armor rating, or re
 
 The blade carries both elements of her signature. Its direct strike deals **6–16 Weight** damage. A successful hit also applies **2 Grudge Tick damage per second for 10 seconds**. A Crimson shine runs along the cutting edge while Black smoke surrounds it.
 
-Its normal attack uses a **Pierce** pattern at **Speed 1 — Slow** and **Range 5 — Room**. The attack follows one line and can affect no more than three targets total:
+Its normal attack uses a **Skewer** pattern at **Speed 1 — Slow** and **Range 5 — Room**. The attack follows one line and can affect no more than three targets total:
 
 1. primary target — **100%**;
 2. first pierced target — **70%**;
@@ -937,7 +937,7 @@ The elongated blade forms a single monolithic span of sorrow-forged alloy, taper
 
 #### Kinematics and Move Set
 
-##### Warden's Puncture (Pierce Thrust)
+##### Warden's Puncture (Skewer Thrust)
 - **Activation Stance:** Braces forward on her reinforced right boot, planting her lower chassis while drawing the left arm straight back along her flank.
 - **Trajectory & Energy:** Drives the arm forward in an uncompromising linear piston thrust; the blade channels a focused shock-vector of Crimson-edged Black force directly into the target line.
 - **Reach & Falloff:** Range 5 (Room), piercing up to 3 targets in a straight corridor (Primary 100% → First Pierced 70% → Second Pierced 50%).
@@ -972,7 +972,7 @@ The elongated blade forms a single monolithic span of sorrow-forged alloy, taper
 | **Damage** | **6–16 Weight** direct + **2 Grudge per second for 10 seconds** |
 | **Speed** | **1 — Slow** |
 | **Range** | **5 — Room** |
-| **Attack pattern** | **Pierce** |
+| **Attack pattern** | **Skewer** |
 | **Target coverage** | **Line; up to 3 targets total** |
 | **Falloff rule** | Primary **100%** → first pierced target **70%** → second pierced target **50%** |
 | **Damage application** | Apply the target's multiplier to direct damage and each Tick separately |
@@ -1661,7 +1661,7 @@ The general system says an Effloresced person can manifest a unique personal M.A
 
 Threshold Vow is direct character canon added to Mellda's current Cyborg equipment. It is the designated **left arm**, not both arms. Its Sacred Blade is one meter long, Han-infused, Crimson-lit, and surrounded by Black smoke.
 
-Its normal attack deals **6–16 Weight** direct damage and **2 Grudge Tick damage per second for 10 seconds**. It has Speed 1 — Slow, Range 5 — Room, and a Pierce pattern covering one line with up to three targets. Its 100% → 70% → 50% falloff applies to direct and Tick damage separately.
+Its normal attack deals **6–16 Weight** direct damage and **2 Grudge Tick damage per second for 10 seconds**. It has Speed 1 — Slow, Range 5 — Room, and a Skewer pattern covering one line with up to three targets. Its 100% → 70% → 50% falloff applies to direct and Tick damage separately.
 
 Its active singular Weight wave deals **25 Weight damage** along one line and requires **15 seconds** of recharge. The standard line coverage and falloff apply to the wave.
 
@@ -1762,7 +1762,7 @@ No Archive progression is recorded.
 - Its output is rated equivalent to a Critical (δ) M.A.W., but the arm is manufactured Cyborg equipment rather than M.A.W.
 - Threshold Vow deals 6–16 Weight direct damage.
 - It applies 2 Grudge Tick damage per second for 10 seconds.
-- Its normal attack is Speed 1 — Slow, Range 5 — Room, and Pierce.
+- Its normal attack is Speed 1 — Slow, Range 5 — Room, and Skewer.
 - Its line can cover up to three targets with 100% → 70% → 50% falloff.
 - Direct damage and each Tick use the falloff multiplier separately.
 - Its singular Weight wave deals 25 Weight damage and recharges for 15 seconds.

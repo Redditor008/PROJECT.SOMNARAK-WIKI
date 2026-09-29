@@ -268,7 +268,7 @@ Named after the radiant fury of the midday sun, the **Il-Gwang Cadre** is Somnar
 | - Action Slots: 2 Action Points per Battle Turn                     |
 | - Combat Role : Area Denial, Stacking Burn DoT, Armor Corroder      |
 | - Status Effect: 'Vitrified Ember' (Deals 12 true burn damage each  |
-|   turn; at 5 stacks, melts 20% Slash Res)                           |
+|   turn; at 5 stacks, melts 20% Gash Res)                            |
 | - Node Pref: Nodes 04 to 07 (Midline Area Suppression)              |
 +=====================================================================+
 ```

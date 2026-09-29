@@ -16,7 +16,7 @@
 |---|---|
 | Damage | Void 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Pattern | Pierce — up to 3 targets |
+| Pattern | Skewer — up to 3 targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 40 Sorrow Echoes |
@@ -27,7 +27,7 @@ The Guardian Lens is a broad, Void Han-glass disc braced in a heavy black frame 
 
 ### Ability— Hold the Line
 
-The bearer defines a protected threshold. A strike against a crossing target removes momentum, route certainty, and a portion of identity tied to the intrusion. Linked intruders in the same line receive normal Pierce falloff.
+The bearer defines a protected threshold. A strike against a crossing target removes momentum, route certainty, and a portion of identity tied to the intrusion. Linked intruders in the same line receive normal Skewer falloff.
 
 **Limit:** The Lens cannot judge whether the threshold is fair. A cruel boundary is protected as efficiently as a necessary one.
 

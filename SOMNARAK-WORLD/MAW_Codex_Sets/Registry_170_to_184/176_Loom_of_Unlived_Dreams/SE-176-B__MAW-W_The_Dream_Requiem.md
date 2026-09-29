@@ -29,21 +29,21 @@ The blade formed from a thread the Loom released after a temporary dream room wa
 
 ## Appearance
 
-The Loom’s Dream Requiem is a loom-framed thread-bow of blue Han crystal, its two curved limbs strung with a single released thread while warp strands cross the window between them, loosening and re-tightening as nearby dream-cloth shifts. The bow cannot draw until the released thread strung across it is marked with both anchors — one Dream, one waking — and the marks show as two small knots of light at the grip. In use the loosed thread-line runs a Lament Pierce that loosens a temporary dream reality where it has begun overwriting a current room, unpicking the construct a line at a time rather than tearing it. At full activation the weapon dissolves one escalating woven construct across its Pierce line and returns its emotional material to the Loom’s custody; it cannot decide which future was worth living. The bearer carries unwept dream grief, and recovery requires the temporary construct to be fully unmade. Thread knots gather around the hilt when the bearer wants to preserve a dream, and a black knot means a channel was not closed. Both anchors close the channel and case the bow during shutdown; breaking it leaves a woven room in the bearer’s next sleep.
+The Loom’s Dream Requiem is a loom-framed thread-bow of blue Han crystal, its two curved limbs strung with a single released thread while warp strands cross the window between them, loosening and re-tightening as nearby dream-cloth shifts. The bow cannot draw until the released thread strung across it is marked with both anchors — one Dream, one waking — and the marks show as two small knots of light at the grip. In use the loosed thread-line runs a Lament Skewer that loosens a temporary dream reality where it has begun overwriting a current room, unpicking the construct a line at a time rather than tearing it. At full activation the weapon dissolves one escalating woven construct across its Skewer line and returns its emotional material to the Loom’s custody; it cannot decide which future was worth living. The bearer carries unwept dream grief, and recovery requires the temporary construct to be fully unmade. Thread knots gather around the hilt when the bearer wants to preserve a dream, and a black knot means a channel was not closed. Both anchors close the channel and case the bow during shutdown; breaking it leaves a woven room in the bearer’s next sleep.
 
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
-| Lament 7–12 | 3 — Fast / 3 — Medium | Pierce, 3 targets, 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
+| Lament 7–12 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
 
 **Cost:** Unwept dream grief; recovery requires unmaking the temporary construct.
 
 ## COMBAT FILE
 
-**Basic — *Unweave Line*:** A Lament Pierce loosens a temporary dream reality where it is overwriting a current room.
+**Basic — *Unweave Line*:** A Lament Skewer loosens a temporary dream reality where it is overwriting a current room.
 
-**Signature — *Let the Cloth End*:** With both anchors active, the weapon dissolves one escalating woven Dream construct across its Pierce line and returns its emotional material to the Loom’s custody. It cannot decide which future is worth living. If a channel is abandoned, the bearer retains fragments of the construct until debrief.
+**Signature — *Let the Cloth End*:** With both anchors active, the weapon dissolves one escalating woven Dream construct across its Skewer line and returns its emotional material to the Loom’s custody. It cannot decide which future is worth living. If a channel is abandoned, the bearer retains fragments of the construct until debrief.
 
 ## HISTORY OF USE
 

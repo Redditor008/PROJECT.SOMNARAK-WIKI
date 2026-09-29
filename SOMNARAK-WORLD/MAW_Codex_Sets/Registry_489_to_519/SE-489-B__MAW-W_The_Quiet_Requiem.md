@@ -22,7 +22,7 @@ The Quiet Requiem is a blade of deep-blue Han crystal with a silent edge and lum
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Lament | 10–15 | 3 / 3 | Pierce | 2 / 50 |
+| δ / Lament | 10–15 | 3 / 3 | Skewer | 2 / 50 |
 
 **Coercion Cut:** Removes forced silence from up to three linked targets.
 

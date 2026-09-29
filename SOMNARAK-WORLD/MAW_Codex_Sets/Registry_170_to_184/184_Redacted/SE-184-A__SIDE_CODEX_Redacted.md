@@ -99,7 +99,7 @@ The set reveals missing history and protects against void erosion. Its cost is c
 |---|---|
 | Damage | Void 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce — up to three targets |
+| Attack Pattern | Skewer — up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | The bearer loses small, nameless memories with each use. |

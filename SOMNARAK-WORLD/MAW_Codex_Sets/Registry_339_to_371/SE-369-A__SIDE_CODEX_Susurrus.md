@@ -34,7 +34,7 @@ An echo forms after two listeners independently preserve matching emotional cont
 
 | Piece | Summary | File |
 |---|---|---|
-| Susurrus’s Requiem | Lament 7–12; Speed 3; Range 3; Pierce; max 3; 40 Echoes. Separates dangerous fragment collapse. | `SE-369-B__MAW-W_Susurruss_Requiem.md` |
+| Susurrus’s Requiem | Lament 7–12; Speed 3; Range 3; Skewer; max 3; 40 Echoes. Separates dangerous fragment collapse. | `SE-369-B__MAW-W_Susurruss_Requiem.md` |
 | Susurrus’s Shroud | 0.4 / 1.0 / 1.6 / 0.8; max 3; 35 Echoes. Protects the listener from identity merger. | `SE-369-C__MAW-S_Susurruss_Shroud.md` |
 | Susurrus’s Bell | Tail; 4%; +2 Clarity. Carries a message through tunnels; ordinary whispers fade temporarily. | `SE-369-D__MAW-G_Susurruss_Bell.md` |
 

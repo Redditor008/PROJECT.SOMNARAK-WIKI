@@ -45,12 +45,12 @@
 |---|---|
 | Damage | Grudge 7–12 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | Old wounds ache and prolonged use leaves Crimson bruising. |
 | Binding cost | The bearer cannot claim sole authority to continue once the release partner gives the cue. |
-| Recovery | A full seated recovery follows every complete Pierce sequence. |
+| Recovery | A full seated recovery follows every complete Skewer sequence. |
 
 ## COMBAT FILE
 
@@ -65,7 +65,7 @@ The Fang sends a Crimson line through an active restraint, motion-lock, or force
 ### Signature ability — *Second Hand*
 
 **Trigger:** The release partner sees the target and confirms that a safe exit or stop is available.  
-**Effect:** The Pierce line breaks the immediate compulsion without handing it to the bearer or the partner.  
+**Effect:** The Skewer line breaks the immediate compulsion without handing it to the bearer or the partner.  
 **Limit:** It cannot force a person to stop, free someone into a new hazard, or erase the consequences of a binding once the task ends.  
 **Failure state:** If no exit exists, the Fang refuses to fire and binds the bearer’s stance until the route is reassessed.
 

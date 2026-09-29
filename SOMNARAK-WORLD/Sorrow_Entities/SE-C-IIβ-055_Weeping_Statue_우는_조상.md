@@ -192,7 +192,7 @@ A two-meter mourning ribbon of midnight-black silk binds around the stone ricass
 
 **Special Move Set:**
 - *Primary Kinematics — "Grief Puncture":* High-frequency linear thrusts targeting sensory gaps or joints; the triangular stone blade punches clean puncture channels that immediately weep concentrated Lament fluid into the wound.
-- *Active Special — "Blindfold Bind & Heart-Pierce":* The wielder lashes the trailing silk funeral ribbon forward across Range 2, wrapping and entangling the target's weapon arm or head (inflicting 1-turn "Grief Blindness"). Instantly stepping along the taut silk, the wielder drives the triangular stone tip into the target's chest, detonating pooled sorrow tears for 150% critical Lament damage and heavy stagger.
+- *Active Special — "Blindfold Bind & Heart-Skewer":* The wielder lashes the trailing silk funeral ribbon forward across Range 2, wrapping and entangling the target's weapon arm or head (inflicting 1-turn "Grief Blindness"). Instantly stepping along the taut silk, the wielder drives the triangular stone tip into the target's chest, detonating pooled sorrow tears for 150% critical Lament damage and heavy stagger.
 - *Cost & Drawback:* The silk ribbon tightening around the wielder's wrist restricts blood flow, requiring rapid release between engagements.
 
 ### M.A.W. Suit — The Mourner's Pleated Peplos

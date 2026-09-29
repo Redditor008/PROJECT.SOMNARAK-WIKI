@@ -22,7 +22,7 @@ The Fallen Requiem is a blade of deep-blue Han crystal patterned with wall crack
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Lament | 10–15 | 3 / 3 | Pierce; 100% → 70% → 50% | 2 / 50 |
+| δ / Lament | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 |
 
 **Cascade Cut:** Separates up to three failure paths from one realistic anchor. Striking the memory of failure destroys the lesson and repeats the breach.
 

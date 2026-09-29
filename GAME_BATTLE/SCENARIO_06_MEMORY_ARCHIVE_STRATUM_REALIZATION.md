@@ -103,14 +103,14 @@
 ```
 
 **Initiative Roll & Action Allocation:**
-- Secretary Seiyon: Roll (Speed 5 + 3) = 8. AP: 2. Position: `[N04]`. Skills: *Prismatic Suture Slash* (Band 1-2, Base 24) + *Photonic Mantle Ward* (Band 1, Base 20).
+- Secretary Seiyon: Roll (Speed 5 + 3) = 8. AP: 2. Position: `[N04]`. Skills: *Prismatic Suture Gash* (Band 1-2, Base 24) + *Photonic Mantle Ward* (Band 1, Base 20).
 - Chief Archivist Jun: Roll (Speed 4 + 2) = 6. AP: 2. Position: `[N02]`. Skills: *Tethering Suture Needle* (Band 2-3, Base 22) + *Archive Focus* (Utility).
 - Specialist Elin: Roll (Speed 3 + 2) = 5. AP: 1. Position: `[N01]`. Skills: *Thermal Bastion Anchor* (Band 1, Base 25).
 - Drone M-PROJ-01: Roll (Speed 5 + 2) = 7. AP: 2. Position: `[N03]`. Skills: *Acoustic De-Icing Pulse* (Band 1-4, Base 18) + *Thermal Sensor Ping* (Utility).
 - Hostile: The Weeping Statue: Roll (Speed 4 + 1) = 5. AP: 4. Skills: *Pressurized Siphon Torrent* (2 AP, Target `[N04]`, Base 22) + *Basalt Censer Ash Slam* (2 AP, Target `[N03]`, Base 26).
 
 **Clash Resolutions & Combat Calculations:**
-- **Clash 1 (Pressurized Siphon Torrent vs Prismatic Suture Slash):**
+- **Clash 1 (Pressurized Siphon Torrent vs Prismatic Suture Gash):**
   * Weeping Statue rolls Base 22 + 1d6 (Roll: 3) = 25.
   * Secretary Seiyon rolls Base 24 + 1d8 (Roll: 5) = 29.
   * Clash Result: **VICTORY (Seiyon)**.
@@ -155,11 +155,11 @@
   * Specialist Elin rolls Base 25 + 1d6 (Roll: 5) = 30.
   * Clash Result: **DEFEAT (Elin Sustains Kinetic Bleedthrough)**.
   * Impact: The massive basalt censer strikes Elin's upper pauldron. Elin is pushed back from `[N02]` to `[N01]`, sustaining 28 blunt damage and 18 Posture strain (Posture: 160 -> 142). Dense clouds of sulfurous salt-ash blanket Nodes `[N02]` to `[N04]`.
-- **Clash 2 (Siphon Jet vs Prismatic Suture Slash):**
+- **Clash 2 (Siphon Jet vs Prismatic Suture Gash):**
   * Weeping Statue rolls Base 20 + 1d6 (Roll: 2) = 22.
   * Secretary Seiyon rolls Base 24 + 1d6 (Roll: 6) = 30.
   * Clash Result: **DOMINANT VICTORY (Seiyon)**.
-  * Damage Calculation: Critical strike on the glass siphon manifold. Seiyon inflicts 68 Void/Slash damage (Void vulnerability 1.5x applies). Siphon Veil HP: 1,058 -> 956 HP.
+  * Damage Calculation: Critical strike on the glass siphon manifold. Seiyon inflicts 68 Void/Gash damage (Void vulnerability 1.5x applies). Siphon Veil HP: 1,058 -> 956 HP.
 - **Support Phase & Suture Stacking:**
   * Archivist Jun shoots two high-tensile silver memory threads directly into the Statue's collarbone: *Dual Mnemonic Suture*. Suture Counter: 3. The threads hum with harmonic tension, destabilizing the Statue's posture pool by 45 points (Posture: 320 -> 275).
   * Hostile *Reservoir Grief Wail* triggers: Drone M-PROJ-01 deploys acoustic counter-frequencies, reducing the area Composure drain from 20 to 8 across all squad members.

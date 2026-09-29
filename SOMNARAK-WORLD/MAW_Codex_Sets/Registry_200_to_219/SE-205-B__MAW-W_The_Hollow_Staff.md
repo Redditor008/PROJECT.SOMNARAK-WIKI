@@ -58,7 +58,7 @@ A bearer who draws it to “make emptiness useful” feels the intake turn inwar
 | Damage | 7–12 Weight |
 | Speed | 3 — Fast |
 | Range | 3 — Medium |
-| Attack pattern | Pierce |
+| Attack pattern | Skewer |
 | Coverage / falloff | Line, up to 3 targets: 100% → 70% → 50% |
 | Maximum amount | 3 — controlled operational issue |
 | Echo cost | 40 Sorrow Echoes |

@@ -26,7 +26,7 @@ The Rust Wall Maul is a black maul of Han steel whose head is built from overlap
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Open Seam:** The Maul carries Weight through up to three current closure points. Striking the historic dream-boundary erases one side’s departure evidence and transfers it to the wielder.
 

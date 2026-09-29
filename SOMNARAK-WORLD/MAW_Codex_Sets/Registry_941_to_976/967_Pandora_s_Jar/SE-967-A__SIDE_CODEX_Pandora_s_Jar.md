@@ -46,7 +46,7 @@ During the The Pandora s Jar Source-Trace, the field team preserved this source 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Relic Maul | δ Weight 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-967-B__MAW-W_The_Relic_Maul.md` |
+| The Relic Maul | δ Weight 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-967-B__MAW-W_The_Relic_Maul.md` |
 | The Relic Burden | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 2; 45 Sorrow Echoes | `SE-967-C__MAW-S_The_Relic_Burden.md` |
 | The Relic Charm | δ; Head; 4%; +3 stat bonus when working the source entity | `SE-967-D__MAW-G_The_Relic_Charm.md` |
 

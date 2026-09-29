@@ -20,7 +20,7 @@ The Missing Lens is a pale disc of Han glass whose edge appears only around unsu
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Void | 7–12 | 3 / 3 | Pierce 100/70/50% | 3 / 40 Echoes |
+| γ / Void | 7–12 | 3 / 3 | Skewer 100/70/50% | 3 / 40 Echoes |
 
 **Possibility Cut:** severs false historical certainty across up to three claims while preserving emotional meaning. Each use takes a small nameless memory.
 

@@ -23,7 +23,7 @@
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Weight 7–12 | 3 (Fast) | 3 (Medium) | Pierce / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+| Weight 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
 **Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes The Sorrow Tide's source sorrow feel autobiographical.
 

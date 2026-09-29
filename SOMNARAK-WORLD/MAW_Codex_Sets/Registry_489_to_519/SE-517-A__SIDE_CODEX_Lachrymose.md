@@ -32,7 +32,7 @@ An echo forms after Ferrehan reaches the natural end of one dream-lament without
 
 | Piece | Summary | File |
 |---|---|---|
-| Lachrymose Requiem | Lament 10–15; Speed 3; Range 3; Pierce; max 2; 50 Echoes. Clears shard danger without ending lament. | `SE-517-B__MAW-W_Lachrymose_Requiem.md` |
+| Lachrymose Requiem | Lament 10–15; Speed 3; Range 3; Skewer; max 2; 50 Echoes. Clears shard danger without ending lament. | `SE-517-B__MAW-W_Lachrymose_Requiem.md` |
 | Lachrymose Shroud | 0.4 / 1.0 / 1.6 / 0.8; max 2; 45 Echoes. Protects a witness through full crying. | `SE-517-C__MAW-S_Lachrymose_Shroud.md` |
 | Lachrymose Shard | Tail; 4%; +3 Clarity. Stores one emotional shock and its memory; crying enters sleep. | `SE-517-D__MAW-G_Lachrymose_Shard.md` |
 

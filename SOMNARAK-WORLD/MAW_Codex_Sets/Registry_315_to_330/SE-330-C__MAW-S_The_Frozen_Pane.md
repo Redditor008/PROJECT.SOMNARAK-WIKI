@@ -50,7 +50,7 @@ Intricate frost fern patterns shift across the central glass pane in response to
 
 **Trigger:** Sustaining a direct heavy kinetic or crushing Weight attack.
 
-**Effect:** The central chest pane absorbs the kinetic shock, trapping the impact force inside shifting ice crystals. The attacker suffers an immediate 30% movement speed reduction for two turns as glacial frost crawls across their striking limb. Simultaneously, the pane momentarily flashes with scenes of ancient departures, venting 12 Black Weight mist into the surrounding 3-meter radius.
+**Effect:** The central chest pane absorbs the kinetic shock, trapping the impact force inside shifting ice crystals. The attacker suffers an immediate 30% movement speed reduction for two turns as glacial frost crawls across their striking limb. Simultaneously, the pane momentarily flashes with scenes of ancient departures, venting 12 Weight mist into the surrounding 3-meter radius.
 
 **Limit:** Does not trigger against psychic Void damage; excessive thermal heat temporarily clouds the pane, reducing Weight resistance to 0.8.
 

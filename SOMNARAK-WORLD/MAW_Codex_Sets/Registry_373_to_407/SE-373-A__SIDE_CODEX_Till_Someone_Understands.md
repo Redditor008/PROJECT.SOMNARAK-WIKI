@@ -31,7 +31,7 @@ Extraction occurs after a channel reaches a site, is acknowledged by people at b
 
 | Piece | Summary | File |
 |---|---|---|
-| Spreading Requiem | Lament 7–12; Speed 3; Range 3; Pierce; max 3; 40 Echoes. Opens a blocked grief channel. | `SE-373-B__MAW-W_The_Spreading_Requiem.md` |
+| Spreading Requiem | Lament 7–12; Speed 3; Range 3; Skewer; max 3; 40 Echoes. Opens a blocked grief channel. | `SE-373-B__MAW-W_The_Spreading_Requiem.md` |
 | Spreading Shroud | 0.4 / 1.0 / 1.6 / 0.8; max 3; 35 Echoes. Protects a follower from being consumed by linked sorrow. | `SE-373-C__MAW-S_The_Spreading_Shroud.md` |
 | Spreading Vial | Tail; 4%; +2 Clarity. Carries grief to a consenting distant witness; feels both sites. | `SE-373-D__MAW-G_The_Spreading_Vial.md` |
 

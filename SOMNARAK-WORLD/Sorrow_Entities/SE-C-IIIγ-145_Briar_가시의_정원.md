@@ -238,7 +238,7 @@ Petrified rose briars spiral across the iron chain links, reinforcing key impact
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** *Reciprocal Barbs* — Reflects 30% of incoming melee physical damage back to the attacker as piercing Grudge laceration.
+**Ability:** *Reciprocal Barbs* — Reflects 30% of incoming melee physical damage back to the attacker as skewer Grudge laceration.
 
 **Cost:** The wearer experiences continuous minor prickling against their ribs and shoulders.
 

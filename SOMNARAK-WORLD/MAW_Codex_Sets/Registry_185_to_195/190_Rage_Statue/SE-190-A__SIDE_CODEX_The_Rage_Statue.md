@@ -62,7 +62,7 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Rage Fang:** Grudge 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; 3 maximum; 40 Echoes. The strike carries acknowledged anger without making retaliation inevitable.
+- **Rage Fang:** Grudge 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; 3 maximum; 40 Echoes. The strike carries acknowledged anger without making retaliation inevitable.
 - **Rage Gauntlet:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; 3 maximum; 35 Echoes. Strikes carry resentment; wearer struggles to distinguish justice from retaliation.
 - **Rage Charm:** Tail Stigma; 4%; +2 source-work. Marks one held anger requiring an accountable outlet; cost is shortened temper.
 

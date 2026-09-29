@@ -174,7 +174,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 Appearance : A forty-two inch hand-and-a-half longsword forged from blackened marine iron, featuring a straight crossguard, faceted scent-stopper pommel, and a hilt wrapped in salted ray-skin.
 
-Cold seawater constantly sweats from the fuller grooves, pooling along the quillons and dripping steadily. Slashing strikes release pressurized torrents of freezing brine that douse flame attacks.
+Cold seawater constantly sweats from the fuller grooves, pooling along the quillons and dripping steadily. Gash strikes release pressurized torrents of freezing brine that douse flame attacks.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)

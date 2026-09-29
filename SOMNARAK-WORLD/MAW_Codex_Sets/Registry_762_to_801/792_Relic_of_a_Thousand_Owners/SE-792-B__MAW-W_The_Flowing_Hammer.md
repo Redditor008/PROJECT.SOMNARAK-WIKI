@@ -29,7 +29,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Lament 7–12 | 3 (Fast) | 3 (Medium) | Pierce / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+| Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
 **Operational / binding cost:** The wielder feels every exile carried by the weapon. Continued use makes Relic of a Thousand Owners's source sorrow feel autobiographical.
 

@@ -49,7 +49,7 @@ Extraction Lead Durivel Cho recovered the first stable echoes only after Auditor
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Familiar Maul | γ Weight; 7–12; Speed 3; Range 3; Pierce 100/70/50%; max 3; 40 Echoes | `SE-558-B__MAW-W_The_Familiar_Maul.md` |
+| Familiar Maul | γ Weight; 7–12; Speed 3; Range 3; Skewer 100/70/50%; max 3; 40 Echoes | `SE-558-B__MAW-W_The_Familiar_Maul.md` |
 | Familiar Burden | γ Weight; L/G/V/W 1.0/1.0/1.5/0.5; max 3; 35 Echoes | `SE-558-C__MAW-S_The_Familiar_Burden.md` |
 | Familiar Charm | γ Weight; Head; 4%; +2 Resolve while working Emberroot | `SE-558-D__MAW-G_The_Familiar_Charm.md` |
 

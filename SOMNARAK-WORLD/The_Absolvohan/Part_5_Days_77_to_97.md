@@ -162,7 +162,7 @@ Tactical response execution:
 4. Specialist Bae stabilizes Chamber 709 (*Forgotten Tear*) with 13.5 seconds remaining.
 5. All six meltdowns cleared; containment integrity restored.
 
-##### Tactical Engagement / Ordeal Suppression: The Fossil of Memory (Violet Second Watch)
+##### Tactical Engagement / Ordeal Suppression: The Fossil of Memory (Purple Second Watch)
 
 At 14:30, seismic sensors detect an anomalous mass manifesting in the Floor 6 Archive Rotunda:
 
@@ -595,7 +595,7 @@ Tactical response execution:
 3. Specialist Kang stabilizes Chamber 044 with 11.2 seconds remaining.
 4. Specialist Hwang clears Chamber 115 before overflow. All cells stabilized.
 
-##### Tactical Engagement / Ordeal Suppression: The Trench Worm (Amber Third Watch)
+##### Tactical Engagement / Ordeal Suppression: The Trench Worm (Ashen Third Watch)
 
 At 16:15, tectonic sensors register subterranean burrowing beneath Floor 5:
 
@@ -610,7 +610,7 @@ At 16:15, tectonic sensors register subterranean burrowing beneath Floor 5:
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 2x Armored Subterranean Worms                           |
 | - Attack Affinity: Crushing Weight & Bite                           |
-| - Weakness Affinity: High-Velocity Pierce                           |
+| - Weakness Affinity: High-Velocity Skewer                           |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
 | - Worm breaches Floor 5 sub-floor plating                           |
@@ -652,7 +652,7 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
   * Trench Worm A launches `[Crushing Mandible Thrust]` (Base 9 + 2 Lots = 13 Power).
   * Specialist Kang's `[Threshold Greatsword Sunder]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Kang WINS THE CLASH (15 vs 13).
-    * Kang drives the heavy greatsword directly into the beast's armored gullet, absorbing the kinetic shock and dealing **48 Pierce/Grudge damage** with +24 Stagger!
+    * Kang drives the heavy greatsword directly into the beast's armored gullet, absorbing the kinetic shock and dealing **48 Skewer/Grudge damage** with +24 Stagger!
   * Noh's sonic rifle tears through Worm B's segment joints from Node 5, dealing 36 acoustic damage.
 
 
@@ -686,7 +686,7 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
     * Deals **36 Grudge Damage**!
     * Inflicts +28 Posture Strain. Worm A Posture drops to **44/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** Worm A recoils, its burrowing jaws paralyzed.
-  * **Specialist Noh (Speed 6 -> 3 AP)**: Operating from Node 04 (Range Band 2), drives a precision bayonet thrust into Worm B's segment joint for **28 piercing damage**.
+  * **Specialist Noh (Speed 6 -> 3 AP)**: Operating from Node 04 (Range Band 2), drives a precision bayonet thrust into Worm B's segment joint for **28 skewer damage**.
   * Worm A HP drops to **112/260**; Worm B HP drops to **204/260**.
 
 ---
@@ -730,7 +730,7 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 | [WORM-B][KANG]  [NOH]                   [MELLDA]        [MAJIN]     |
 +---------------------------------------------------------------------+
 | - Node 02: Worm B (Recovered / Channeling Trench Collapser)         |
-| - Node 03: Specialist Kang (Spd 8 / AP 4 / Heavy Maul Cross-Slash)  |
+| - Node 03: Specialist Kang (Spd 8 / AP 4 / Heavy Maul Cross-Gash)   |
 | - Node 04: Specialist Noh (Directional Guard Absorption Active)     |
 | - Node 07: Border Lead Mellda (Locking Drainage Sluice Gates)       |
 +---------------------------------------------------------------------+
@@ -880,7 +880,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-033 (*The Guarding 
 | | Weight. Alloc: Kang.                                              |
 +---------------------------------------------------------------------+
 | Clockwork Bayonet    | Weapon: Range Band 3,                        |
-| | Piercing Grudge.                                                  |
+| | Skewer Grudge.                                                    |
 | | Alloc: Specialist Noh.                                            |
 +=====================================================================+
 ```
@@ -1032,7 +1032,7 @@ Tactical response execution:
 4. Specialist Kang secures Chamber 032 with 14.8 seconds remaining.
 5. Specialist Shin clears Chamber 081 (*The Hollow Saint*). Triad rupture averted.
 
-##### Tactical Engagement / Ordeal Suppression: The Carmine Claw (Rust Second Watch)
+##### Tactical Engagement / Ordeal Suppression: The Carmine Claw (Grey Second Watch)
 
 At 15:40, an Ordeal vanguard breaches the central ventilation junction of Floor 2:
 
@@ -1191,7 +1191,7 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
   * Husk 2 attempts a desperate lunging charge to impale Specialist Shin.
   * Containment Lead Dekan deploys Floor 2's *Jaw Clamp* floor traps, clamping Husk 2's ankles in heavy steel teeth!
   * Specialist Kang deploys `[Directional Guard Absorption]`, absorbing 6 chip damage (HP: 124/130) while halting the charge!
-  * Specialist Noh (Speed 8 under Surge -> 4 AP) executes four rapid bayonet strikes, dealing **42 piercing damage**!
+  * Specialist Noh (Speed 8 under Surge -> 4 AP) executes four rapid bayonet strikes, dealing **42 skewer damage**!
   * Husk 2 Posture falls to **18/90**!
 
 ---
@@ -1479,7 +1479,7 @@ Tactical response execution:
 4. Specialist Jin stabilizes Chamber 044 (*The Forgotten Soldier*).
 5. Specialist Shin, monitored via remote effigy link, executes stabilizing communion on Chamber 081 without receiving an eleventh mark. All cells secure.
 
-##### Tactical Engagement / Ordeal Suppression: The Clockwork Titan (Green Third Watch)
+##### Tactical Engagement / Ordeal Suppression: The Clockwork Titan (Blue Third Watch)
 
 At 16:45, industrial sirens announce the breach of a massive mechanical Third Watch Ordeal:
 
@@ -1760,7 +1760,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-190 (*The Ember Phoe
 | | Aura. Alloc: Bae.                                                 |
 +---------------------------------------------------------------------+
 | Choral Bell          | Weapon: Range Band 4,                        |
-| | Piercing Lament Sonic.                                            |
+| | Skewer Lament Sonic.                                              |
 | | Alloc: Specialist Jin.                                            |
 +=====================================================================+
 ```
@@ -1912,7 +1912,7 @@ Tactical response execution:
 4. Specialist Jin stabilizes Chamber 044 (*The Forgotten Soldier*).
 5. Specialist Kang clears Chamber 190 (*The Ember Phoenix*). All cells secure.
 
-##### Tactical Engagement / Ordeal Suppression: The Monolith of the Void (Violet Third Watch)
+##### Tactical Engagement / Ordeal Suppression: The Monolith of the Void (Purple Third Watch)
 
 At 17:10, space fractures in the Floor 4 Main Training Plaza:
 
@@ -1971,7 +1971,7 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
   * Specialist Kang's `[Lock Maul Foundation Shatter]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Kang WINS THE CLASH (16 vs 14).
     * Kang's massive maul slams into the obelisk's foundation stone, jarring its energy conduits and canceling the countdown! Deals **58 Grudge damage** and inflicts +30 Stagger!
-  * Hwang lunges from the flank, driving the *Apostle Scalpel* straight into the central floating eye for 48 Void piercing damage.
+  * Hwang lunges from the flank, driving the *Apostle Scalpel* straight into the central floating eye for 48 Void skewer damage.
 
 
 ```text

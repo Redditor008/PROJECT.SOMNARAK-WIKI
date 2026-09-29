@@ -12,7 +12,7 @@ Rather than relying on generic physical injury, damage in Somnarak is classified
 +------------------------------------------------------------------------+
 | Fundamental Pressures  | Grudge - Lament - Void - Weight               |
 | Targeted Vital Gauges  | Health (HP) - Sanity (SP) - Max Vitality      |
-| Multiplier Bands       | Ineffective (<0.5) - Endured - Normal - Fatal |
+| Multiplier Bands       | Ineffective (<0.5)- Withstood - Normal - Dire |
 | Special Mechanics      | Void Conceptual Scaling (1% Void = 5% Max HP) |
 | Mixed Pressure Rule    | Weight damages both HP and SP simultaneously  |
 +========================================================================+
@@ -71,7 +71,7 @@ The standard damage formula applies:
 | Multiplier Value | Defense Classification | Practical Field Meaning |
 |---|---|---|
 | **0.0 to 0.4** | **Ineffective (Resistant)** | Exceptional protection. Attacks deal scratch damage. |
-| **0.5 to 0.7** | **Endured** | Solid defensive rating. Recommended for frontline suppressors. |
+| **0.5 to 0.7** | **Withstood** | Solid defensive rating. Recommended for frontline suppressors. |
 | **0.8 to 1.2** | **Normal** | Standard baseline. Prolonged exposure causes gradual attrition. |
 | **1.3 to 1.5** | **Vulnerable** | High hazard. Incoming damage is amplified by up to 50%. |
 | **1.6 to 2.0+** | **Exposed** | Lethal vulnerability. Operative can suffer instant death from critical hits. |
@@ -95,7 +95,7 @@ The most dangerous mechanic in Somnarak combat physics is **Void Conceptual Scal
 
 [![Pressure Elements Graphic](images/pressure-elements-graphic.svg)](images/pressure-elements-graphic.svg)
 [![Damage Calculation Visual](images/damage-calculation-visual.svg)](images/damage-calculation-visual.svg)
-[![Pale Void Resistance Ward](images/pale-void-resistance-ward.svg)](images/pale-void-resistance-ward.svg)
+[![Void Resistance Ward](images/pale-void-resistance-ward.svg)](images/pale-void-resistance-ward.svg)
 
 *Left: icons of the four fundamental pressures; Center: resistance multiplier formula; Right: Void protective warding.*
 ---

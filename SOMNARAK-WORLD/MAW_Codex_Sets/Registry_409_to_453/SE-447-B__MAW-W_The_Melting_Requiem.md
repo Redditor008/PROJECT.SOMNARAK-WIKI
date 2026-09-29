@@ -22,7 +22,7 @@ The Melting Requiem is a blade of deep-blue Han crystal melting at the tip and r
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Lament | 7–12 | 3 / 3 | Pierce; 100% → 70% → 50% | 3 / 40 |
+| γ / Lament | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 |
 
 **Route-Drag Cut:** Removes obsolete dream route while preserving attested shared memory.
 

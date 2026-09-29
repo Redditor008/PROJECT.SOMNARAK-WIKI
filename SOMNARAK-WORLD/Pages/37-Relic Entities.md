@@ -52,7 +52,7 @@ Because Relic Entities possess neither sentience nor emotions:
 | SECC Code | Relic Name | Subtype | Primary Function | Hazard Limit |
 |---|---|---|---|---|
 | `SE-T-Iα-001` | [The Echo Compass](28-The%20Echo%20Compass.md) | Single-Use | Facility acoustic radar sweep | 30s Cooldown |
-| `SE-T-IIβ-002` | [The Crucible](29-The%20Crucible.md) | Channeled | Distills bonus Lumen from stamina | 29s Fatal Ceiling |
+| `SE-T-IIβ-002` | [The Crucible](29-The%20Crucible.md) | Channeled | Distills bonus Lumen from stamina | 29s Dire Ceiling |
 | `SE-T-IIIγ-003` | [The Debt Scale](30-The%20Debt%20Scale.md) | Equippable | Inverts Void defense & heals SP | Return before shift end |
 | `SE-T-IIα-004` | Hourglass of Stasis | Channeled | Freezes meltdown timer by 60s | Drains 5 HP/sec |
 | `SE-T-Iβ-005` | Archival Monocle | Single-Use | Reveals work affinities on next work | 45s Cooldown |

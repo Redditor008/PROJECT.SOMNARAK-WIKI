@@ -61,12 +61,12 @@ The Survivor's Span-Cleaver is a massive, two-handed slab greatsword forged from
 
 ### Basic attack— *Far-Side Line*
 
-The Requiem sends a blue Pierce line through a survivor-guilt or abandonment surge. It deals direct Lament damage without declaring that loss has been repaired.
+The Requiem sends a blue Skewer line through a survivor-guilt or abandonment surge. It deals direct Lament damage without declaring that loss has been repaired.
 
 ### Signature ability — *More Than One Crossing*
 
 **Trigger:** The bearer and debrief partner identify the available return route and the contributors to the danger.  
-**Effect:** The full Pierce line interrupts a crisis that has reduced a team’s story to one person’s fault, giving the group time to evacuate or reassess together.  
+**Effect:** The full Skewer line interrupts a crisis that has reduced a team’s story to one person’s fault, giving the group time to evacuate or reassess together.  
 **Limit:** It cannot excuse negligence, resurrect those lost, or rewrite a historical event.  
 **Failure state:** If aimed at an accusation the bearer refuses to examine, the line returns as Lament pressure against the bearer’s own certainty.
 

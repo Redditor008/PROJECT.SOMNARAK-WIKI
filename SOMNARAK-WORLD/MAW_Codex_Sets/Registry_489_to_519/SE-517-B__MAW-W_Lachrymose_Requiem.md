@@ -22,7 +22,7 @@ The Lachrymose Requiem is a glaive of deep-blue crystal — one huge solidified 
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Lament | 10–15 | 3 / 3 | Pierce | 2 / 50 |
+| δ / Lament | 10–15 | 3 / 3 | Skewer | 2 / 50 |
 
 **Shard Clearing:** Removes dangerous fragments without terminating the source lament.
 

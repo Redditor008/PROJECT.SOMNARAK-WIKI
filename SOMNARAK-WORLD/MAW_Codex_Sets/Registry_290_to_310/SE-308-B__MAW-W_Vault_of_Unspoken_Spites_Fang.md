@@ -26,7 +26,7 @@ The Vault of Unspoken Spites Fang is a crimson fang of Han iron with dark liquid
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Grudge | 7–12 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Grudge | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Ownerless Cut:** Fang separates one stored grievance through up to three contaminated shadow layers. Aiming at a person makes them the grievance’s new container.
 

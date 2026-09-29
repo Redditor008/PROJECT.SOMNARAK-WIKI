@@ -44,7 +44,7 @@ Extraction follows a managed exposure in which one failed protection is document
 
 | Piece | Stats / role | File |
 |---|---|---|
-| Fallen Requiem | Lament 10–15; Speed 3; Range 3; Pierce; max 2; 50 Echoes. Cuts cascading failure from a current anchor. | `SE-339-B__MAW-W_The_Fallen_Requiem.md` |
+| Fallen Requiem | Lament 10–15; Speed 3; Range 3; Skewer; max 2; 50 Echoes. Cuts cascading failure from a current anchor. | `SE-339-B__MAW-W_The_Fallen_Requiem.md` |
 | Fallen Barrier | 0.4 / 1.0 / 1.6 / 0.8; max 2; 45 Echoes. Absorbs one impact; cracks the wearer’s safety memory. | `SE-339-C__MAW-S_The_Fallen_Barrier.md` |
 | Fallen Charm | Tail; 4%; +3 Clarity. Marks where a safeguard’s stated limit has already failed. | `SE-339-D__MAW-G_The_Fallen_Charm.md` |
 

@@ -34,7 +34,7 @@ An echo forms after the Tear rises during honest mourning and settles without to
 
 | Piece | Summary | File |
 |---|---|---|
-| Sehnsucht Maul | Weight 7–12; Speed 3; Range 3; Pierce; max 3; 40 Echoes. Breaks pressure paths around, never into, the Tear. | `SE-476-B__MAW-W_The_Sehnsucht_Maul.md` |
+| Sehnsucht Maul | Weight 7–12; Speed 3; Range 3; Skewer; max 3; 40 Echoes. Breaks pressure paths around, never into, the Tear. | `SE-476-B__MAW-W_The_Sehnsucht_Maul.md` |
 | Sehnsucht Mantle | 1.0 / 1.0 / 1.5 / 0.5; max 3; 35 Echoes. Anchors the wearer beside buried grief. | `SE-476-C__MAW-S_The_Sehnsucht_Mantle.md` |
 | Sehnsucht Shard | Head; 4%; +2 Resolve. Anchors against emotional pressure; carries buried grief afterward. | `SE-476-D__MAW-G_The_Sehnsucht_Shard.md` |
 

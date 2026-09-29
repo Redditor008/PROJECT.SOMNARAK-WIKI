@@ -120,7 +120,7 @@ From the petrified market stalls, three massive shapes hoisted themselves upward
  - Doha steps into Range Band 2 with [Calcified Pneumatic Ram: Sapper Cleave]:
    * Doha targets the damaged Sentinel 1: Base 8 + Beat 1 (Resonant +5) = 13
    * The hydraulic piston drives a four-inch hardened spike into the entity's core!
-   * 128 Bludgeoning damage! Core shattered! Sentinel 1 neutralized.
+   * 128 Bludgeon damage! Core shattered! Sentinel 1 neutralized.
  - Yeonhwa fires an [Acoustic Dart] from Range Band 4, stunning Sentinel 3.
  - The Silent One completes a low sweeping slash, severing Sentinel 3's stone legs.
  OUTCOME: 3 Constructs neutralized in 2 turns. Zero squad damage. +10 SP to squad.
@@ -222,7 +222,7 @@ Catalogued under field code **SECC-E11 "The Petrification Cradle"**, the entity 
  ELITE ANOMALY COMBAT: SECC-E11 "THE PETRIFICATION CRADLE" (Grade-β Potency)
 ================================================================================
  ENTITY PROFILE: HP: 1,100 | Stagger Threshold: 440 HP | Element: Weight
- RESISTANCES: Grudge (Normal 1.0x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Endured 0.5x)
+ RESISTANCES: Grudge (Normal 1.0x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Withstood 0.5x)
 
  TURN 1:
  - Entity unleashes [Calcifying Lullaby] (AoE Range 5): Base 8 + 3 Harmonic Beats (+2 each)
@@ -244,7 +244,7 @@ Catalogued under field code **SECC-E11 "The Petrification Cradle"**, the entity 
  TURN 3:
  - Doha advances with [Calcified Pneumatic Ram: Sapper Cleave]:
    * Targets the marble cradle core: Base 9 + Beat 1 (Resonant +4) + Beat 2 (Resonant +4) = 17!
-   * Critical Bludgeoning Strike! Inflicts 214 Weight-Kinetic damage!
+   * Critical Bludgeon Strike! Inflicts 214 Weight-Kinetic damage!
    * The marble cradle cracks from top to bottom! STAGGER THRESHOLD BREACHED!
    * SECC-E11 IS STAGGERED! ALL RESISTANCES REDUCED TO ZERO!
 
@@ -304,12 +304,12 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
  COMBAT PROFILE:
  - Maximum Health (HP): 2,800
  - Stagger Thresholds: 1,960 HP (70%) | 1,120 HP (40%) | 280 HP (10%)
- - Base Defense: 45 | Speed Dice: 2–5 (3 Attack Slots)
+ - Base Defense: 45 | Tempo Dice: 2–5 (3 Attack Slots)
  - Resistances:
    * Grudge : 1.0x (Normal — Absorbs heat through stone mass)
    * Lament: 2.0x (Exposed Weakness — Water dissolves calcified mortar!)
    * Void : 1.0x (Normal — Susceptible to soul disruption)
-   * Weight    : 0.5x (Endured — Massive monolithic basalt composition)
+   * Weight    : 0.5x (Withstood — Massive monolithic basalt composition)
 
  TARGETABLE COMPONENT PARTS:
  1. Left Basalt Siege Hammer  (HP: 700 | Stagger: 250) — Overhead crushing smashes
@@ -416,10 +416,10 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
   * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Holds high arch at Node 10. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: SECC-028 Slot 1 (Left Siege Hammer) executes `[Foundational Impact]` (Base 16 + 2 Lots = 24 Power, Heavy Weight).
-    * Doha clashes with `[Pneumatic Ram: Counter-Strike]` (Base 18 + 2 Lots = 32 Power, Heavy Blunt).
+    * Doha clashes with `[Pneumatic Ram: Counter-Strike]` (Base 18 + 2 Lots = 32 Power, Heavy Bludgeon).
     * **Clash Outcome**: Doha WINS THE CLASH (32 vs 24)!
     * The hydraulic ram collides violently with the massive three-ton stone hammer!
-    * The kinetic shockwave shatters the hammer's wrist joint, dealing **168 Blunt damage** and +48 Posture Strain!
+    * The kinetic shockwave shatters the hammer's wrist joint, dealing **168 Bludgeon damage** and +48 Posture Strain!
   * **Clash 2 (Node 02 to 05)**: SECC-028 Slot 2 (Retaining Bulwark) slams forward with `[Quarantine Slam]` (Base 16 + 1 Coin = 22 Power, Heavy Weight).
     * Harin intercepts with `[Pneumatic Bulwark: Kinetic Deflection]` (Base 18 + 2 Lots = 30 Power).
     * **Clash Outcome**: Harin WINS THE CLASH (30 vs 22)!
@@ -479,10 +479,10 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
   * **Clash 1 (Node 03 to 05)**: SECC-028 unleashes `[Tectonic Pulverization]` wind-up.
     * Harin's `[Aegis Intercept]` locks down the forward shockwave, containing the seismic tremor (`[P3: Parry/Protection]`). Harin takes only 14 mitigated chip damage (HP: 4,186/4,200).
   * **Piston Demolition Assault on Left Hammer**:
-    * The Silent One strikes the softened stone elbow with `[Twin Void Flurry]` (Base 20 + 2 Lots Marked = 32 Power, Void Slash):
+    * The Silent One strikes the softened stone elbow with `[Twin Void Flurry]` (Base 20 + 2 Lots Marked = 32 Power, Void Gash):
       * Deals **180 Void damage** directly into the softened basalt tendons!
-    * Doha follows through with `[Pneumatic Overdrive: Bedrock Piston]` (Base 22 + 2 Lots Marked = 36 Power, Heavy Blunt):
-      * Massive kinetic explosion! Deals **340 Bludgeoning damage**!
+    * Doha follows through with `[Pneumatic Overdrive: Bedrock Piston]` (Base 22 + 2 Lots Marked = 36 Power, Heavy Bludgeon):
+      * Massive kinetic explosion! Deals **340 Bludgeon damage**!
     * **TARGETED PART DESTROYED**: The Left Basalt Siege Hammer shatters into twenty metric tons of tumbling rubble (**Hammer HP: 0/700**)!
     * **EFFECT**: Boss ultimate `[Tectonic Pulverization]` is permanently cancelled! Boss permanently loses 1 Speed Slot!
 - **Step 4: Turn End State**:
@@ -508,7 +508,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |   SURGE)                                                            |
 | - Node 06: Sora (Lament Needle Drive Searing Glowing Furnace Core)  |
 | - Node 07: Yeonhwa (Sonar Beacon Directing Squad Penetration)       |
-| - Node 08: The Silent One (Severing Crescent Slashing Core Housing) |
+| - Node 08: The Silent One (Severing Crescent Gash Core Housing)     |
 +---------------------------------------------------------------------+
 | - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,140/4,200 | SP 48/50   |
 |   | Posture 180/180                                                 |
@@ -588,7 +588,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
   * Doha's `[Core Breaker]`: Smashes through the basalt ribcage for **340 Weight damage**!
   * The Silent One's `[Void Execution]`: Slices through the glowing embers for **412 Void damage**!
   * Yeonhwa's `[Acoustic Resonance Dart]`: Shatters acoustic conduits for **156 Void damage**!
-  * Harin's `[Pneumatic Shield Bash]`: Rumbles through the chassis for **134 Blunt damage**!
+  * Harin's `[Pneumatic Shield Bash]`: Rumbles through the chassis for **134 Bludgeon damage**!
   * **TOTAL BURST DAMAGE: 1,042 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (1,120 HP) COMPLETELY SKIPPED!**:
   * Boss HP plunges from 1,946 all the way down to **904/2,800 HP**!
@@ -638,10 +638,10 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
   * Sora (Speed 7 -> 4 AP): Casts `[Cranial Silver Cowl]` (2 AP), stabilizing Doha's mind back to 50 SP.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 06 to 05)**: SECC-028 initiates `[Catastrophic Collapse]` (Last Stand Attack: Base 20 + 3 Lots = 29 Power, Heavy Weight).
-    * Doha clashes with `[Architect's Final Decree: The Unmaking Strike]` (Base 25 + 3 Lots Marked = 43 Power, Heavy Blunt/Weight).
+    * Doha clashes with `[Architect's Final Decree: The Unmaking Strike]` (Base 25 + 3 Lots Marked = 43 Power, Heavy Bludgeon/Weight).
     * **Clash Outcome**: DOHA OVERWHELMING RELIC CLASH WIN (43 vs 29)!
     * Doha's pneumatic ram drives directly into the center of the House Doha crest on the Right Bulwark!
-    * The four-inch tungsten spike detonates inside the furnace core, delivering **680 Bludgeoning-Weight damage**!
+    * The four-inch tungsten spike detonates inside the furnace core, delivering **680 Bludgeon-Weight damage**!
     * **TARGETED PART DESTROYED**: The Right Retaining Bulwark shatters into fine powder (**Shield HP: 0/900**)!
 - **Step 4: Turn End State**:
   * Right Retaining Bulwark: **DESTROYED (0/900 HP)**.

@@ -174,7 +174,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 Appearance : A traditional nine-inch tanto with a straight spine and zero curve, housed in a cracked black lacquer scabbard inscribed with rows of anonymous registry identification numbers.
 
-The blade flat is polished to an immaculate mirror finish revealing tiny micro-chiseled characters. Slashing an enemy leaves a shallow incision that traces the outline of their unresolved regrets.
+The blade flat is polished to an immaculate mirror finish revealing tiny micro-chiseled characters. Gashing an enemy leaves a shallow incision that traces the outline of their unresolved regrets.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)

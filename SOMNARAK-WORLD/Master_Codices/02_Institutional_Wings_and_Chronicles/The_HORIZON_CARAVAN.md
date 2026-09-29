@@ -469,18 +469,18 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node overl
 |          THE CANONICAL COMBAT PAGES OF THE HORIZON CARAVAN          |
 +---------------------------------------------------------------------+
 | PAGE 01: TRENCH-CLEAVER STANCE (Grade Alpha / 1 AP / Band 1 Melee)  |
-| - Dice: Slash 7-11, Block 5-9 [Weight]                              |
+| - Dice: Gash 7-11, Block 5-9 [Weight]                               |
 |   | Passive: +2 Posture Strain.                                     |
 | ------------------------------------------------------------------- |
 | PAGE 02: DUNE-SKIMMER FLANK (Grade Beta / 2 AP / Band 2 Close)      |
-| - Dice: Evade 11-16, Pierce 8-13 [Lament]                           |
+| - Dice: Evade 11-16, Skewer 8-13 [Lament]                           |
 |   | Strips 1 enemy clash power.                                     |
 | ------------------------------------------------------------------- |
 | PAGE 03: SLAG IGNITION (Grade Beta / 2 AP / Band 2-3 Mid)           |
-| - Dice: Pierce 10-14, Burn 8-12 [Grudge] | Melts 25% target armor.  |
+| - Dice: Skewer 10-14, Burn 8-12 [Grudge] | Melts 25% target armor.  |
 | ------------------------------------------------------------------- |
 | PAGE 04: SEISMIC PILE-DRIVER (Grade Gamma / 3 AP / Band 1 Melee)    |
-| - Dice: Blunt 14-19, Stun 10-14 [Weight]                            |
+| - Dice: Bludgeon 14-19, Stun 10-14 [Weight]                            |
 |   | Inflicts 1-turn immobilize.                                     |
 | ------------------------------------------------------------------- |
 | PAGE 05: ACOUSTIC QUENCH (Grade Gamma / 3 AP / Band 3-4 Mid-Long)   |

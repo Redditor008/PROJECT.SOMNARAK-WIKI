@@ -9,7 +9,7 @@
 ## DEEP KNOWLEDGE — READ BEFORE WRITING
 
 - **Tactical Combat Engine (TCE) is the playable implementation spec** — decoupled state machine, data schemas (Operative, Entity, Veil), 10-Node Spatial Grid, and math that makes `GAME_BATTLE/` scenarios executable.
-- **10-Node Grid (N01–N10) is the spatial atom:** Line (N01→N10) with Cover, Entity Body, and Flank nodes. Movement costs AP. Range Bands 1–5 map to Node distance. Pierce firing through Cover uses falloff 100%→70%→50%.
+- **10-Node Grid (N01–N10) is the spatial atom:** Line (N01→N10) with Cover, Entity Body, and Flank nodes. Movement costs AP. Range Bands 1–5 map to Node distance. Skewer firing through Cover uses falloff 100%→70%→50%.
 - **The 4 P-Framework is mandatory for every combat spec:** Passives (P1), Panic (P2), Parry (P3), Posture (P4). Dual-Threshold Stagger: **60% Part Rupture** and **25% Meltdown** (or Composure 0).
 
 ---
@@ -52,7 +52,7 @@ Example: `WHAT_CAN_BE_DONE.md` (roadmap + formulas + JSON schemas) or `GRID_BAST
 | Grid Size | 10 Nodes (N01–N10) | Line, not 2D board |
 | Cover | N05 | Destructible, +2 DEF while held |
 | Entity Body | N07–N08 | Part-based (Head/Core/Limb) |
-| Range Bands | 1 Melee → 5 Line | Pierce falloff 100/70/50 |
+| Range Bands | 1 Melee → 5 Line | Skewer falloff 100/70/50 |
 
 ### B. {{Mechanic Name}} (e.g., Speed-to-AP & Action Economy)
 

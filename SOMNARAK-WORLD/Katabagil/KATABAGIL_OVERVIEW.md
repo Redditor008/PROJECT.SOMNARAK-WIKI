@@ -273,10 +273,10 @@ The Core Vanguard of the Somnarak Exploration Decree comprises seven elite speci
 - **Institutional Background:** Senior Expeditionary Lead, SED Division of Cartography & Deep Acoustics. During an exploratory sortie into Stratum 3 seven years prior, a sudden sorrow geyser permanently calcified Yeonhwa's optical nerves. Refusing desk reassignment, she developed an acoustic theodolite that converts subterranean sound vibrations, seismic murmurs, and entity heartbeats into sharp mental geometries.
 - **Tactical Combat Role:** Tactical Navigator, Evasion Buffer, and Speed Coordinator.
 - **Signature M.A.W. Armament:** *The Horizon Theodolite* (Survey Staff & Resonant Lens) paired with *The Cartographer's Echo Mantle*.
-- **Base Combat Attributes:** Max HP: 2,800 | Composure (SP): 50 | Base Speed: 4–7 | Defense Multiplier: 1.05 | Blunt/Slash/Pierce Affinities: [Pierce: Normal, Slash: Ineffective, Blunt: Vulnerable].
+- **Base Combat Attributes:** Max HP: 2,800 | Composure (SP): 50 | Base Speed: 4–7 | Defense Multiplier: 1.05 | Bludgeon/Gash/Skewer Affinities: [Skewer: Normal, Gash: Ineffective, Bludgeon: Vulnerable].
 - **Combat Mechanics:**
   * *Passive: [Acoustic Pre-Cognition]*: At the start of every combat round, reveals the attack targets, skill types, and speed values of all enemy entities. Allies clashing against revealed targets gain +2 Clash Power.
-  * *Skill 1: [Echo Sounding]*: Fires a sonic pulse that deals 180 Pierce damage and applies 2 fragile (vulnerability) to all target parts.
+  * *Skill 1: [Echo Sounding]*: Fires a sonic pulse that deals 180 Skewer damage and applies 2 fragile (vulnerability) to all target parts.
   * *Skill 2: [Surveyor's Triangulation]*: Grants all allies +2 Haste and +15% Evasion chance for 2 turns.
   * *Climax Overdrive: [Chart of the Infinite Chasm]* (Cost: 25 SP): Yeonhwa strikes her theodolite into the bedrock, projecting an acoustic grid across the battlefield. All allies gain guaranteed Clash victories on their next action, and the enemy's highest-power attack is redirected into empty space.
 
@@ -284,10 +284,10 @@ The Core Vanguard of the Somnarak Exploration Decree comprises seven elite speci
 - **Institutional Background:** Master Mason & Chief Engineer, Ancestral Guild of Bedrock Shoring. Doha's great-grandfather drafted the original masonry schematics for the retaining walls that keep Somnarak from sliding into the abyss. Doha carries his family's heavy pneumatic tools into the deep to repair what time, negligence, and tectonic pressure have fractured.
 - **Tactical Combat Role:** Frontline Sapper, Heavy Breacher, and Kinetic Barrier Support.
 - **Signature M.A.W. Armament:** *Calcified Pneumatic Ram* (Hydraulic Impact Piston) & *The Mason's Basalt Cuirass*.
-- **Base Combat Attributes:** Max HP: 4,100 | Composure (SP): 45 | Base Speed: 2–5 | Defense Multiplier: 0.75 | Blunt/Slash/Pierce Affinities: [Blunt: Ineffective, Slash: Normal, Pierce: Vulnerable].
+- **Base Combat Attributes:** Max HP: 4,100 | Composure (SP): 45 | Base Speed: 2–5 | Defense Multiplier: 0.75 | Bludgeon/Gash/Skewer Affinities: [Bludgeon: Ineffective, Gash: Normal, Skewer: Vulnerable].
 - **Combat Mechanics:**
   * *Passive: [Ancestral Masonry]*: While Doha remains above 50% HP, the environmental Tectonic Stability cannot drop below 20%. Allied shields gain +30% durability.
-  * *Skill 1: [Piston Breach]*: Deals 240 Blunt damage to a target part, dealing triple damage against hardened carapaces and stone armor.
+  * *Skill 1: [Piston Breach]*: Deals 240 Bludgeon damage to a target part, dealing triple damage against hardened carapaces and stone armor.
   * *Skill 2: [Bedrock Shoring]*: Deploys rapid steel-basalt jacks, granting adjacent allies 300 HP temporary kinetic shields and immunity to Stagger for 1 turn.
   * *Climax Overdrive: [Monolith of the Ancestral Bastion]* (Cost: 30 SP): Doha anchors his pneumatic ram into the floor, summoning a monolithic basalt barrier that absorbs up to 2,500 damage from all incoming enemy skills during the turn. Any excess damage absorbed is converted into kinetic rebound damage dealt back to the attackers.
 
@@ -295,10 +295,10 @@ The Core Vanguard of the Somnarak Exploration Decree comprises seven elite speci
 - **Institutional Background:** Former Gate Warden Commander of Zone E (The Low Rim). Harin spent fifteen years defending impoverished outer slum gates from feral sorrow incursions. When a catastrophic municipal floodwall collapse killed hundreds of slum residents due to corporate budget cuts, she resigned her commission and joined the SED vanguard to build defenses where they are needed most.
 - **Tactical Combat Role:** Kinetic Tank, Threat Magnet, and Stagger Interceptor.
 - **Signature M.A.W. Armament:** *The Bastion of the Low* (Hydraulic Tower Shield) & *Warden's Ironcarapace*.
-- **Base Combat Attributes:** Max HP: 4,800 | Composure (SP): 40 | Base Speed: 1–4 | Defense Multiplier: 0.65 | Blunt/Slash/Pierce Affinities: [Slash: Ineffective, Blunt: Normal, Pierce: Normal].
+- **Base Combat Attributes:** Max HP: 4,800 | Composure (SP): 40 | Base Speed: 1–4 | Defense Multiplier: 0.65 | Bludgeon/Gash/Skewer Affinities: [Gash: Ineffective, Bludgeon: Normal, Skewer: Normal].
 - **Combat Mechanics:**
   * *Passive: [Bulwark of the Abandoned]*: At the beginning of each turn, Harin forces the two highest-damage enemy attacks to target her shield. When she intercepts an attack meant for an ally, that attack deals 50% less damage.
-  * *Skill 1: [Shield Slam]*: Deals 200 Blunt damage and applies 2 Tremor to the target, lowering their Stagger threshold.
+  * *Skill 1: [Shield Slam]*: Deals 200 Bludgeon damage and applies 2 Tremor to the target, lowering their Stagger threshold.
   * *Skill 2: [Fortress Stance]*: Harin locks her boots into the ground, gaining +5 Protection and reflecting 20% of incoming physical damage back to the attacker.
   * *Climax Overdrive: [Aegis of the Sunken Fortress]* (Cost: 35 SP): Harin slams her shield down with hydraulic fury, generating a kinetic shockwave that stuns all Minor and Moderate enemies for 1 turn. Harin takes 0 damage from all sources until the end of the round.
 
@@ -306,7 +306,7 @@ The Core Vanguard of the Somnarak Exploration Decree comprises seven elite speci
 - **Institutional Background:** Master Artisan, The Weavers Guild of the Upper Spires. Sora possesses the rare cognitive ability to perceive the emotional threads (*Weft*) woven into physical reality. While the Guild used this talent to weave luxury emotional silks for Council oligarchs, Sora realized that the subterranean sorrow veins were screaming in disharmony. She abandoned the spires to weave psychic protection for the vanguard.
 - **Tactical Combat Role:** Composure (SP) Healer, Cognitive De-escalator, and Resonance Buffer.
 - **Signature M.A.W. Armament:** *Silver Slumber Cowl* (Veil of Lucidity) & *Gossamer Han-Spindle*.
-- **Base Combat Attributes:** Max HP: 2,500 | Composure (SP): 50 | Base Speed: 3–6 | Defense Multiplier: 1.10 | Blunt/Slash/Pierce Affinities: [Resonance: Ineffective, Blunt: Vulnerable, Slash: Normal].
+- **Base Combat Attributes:** Max HP: 2,500 | Composure (SP): 50 | Base Speed: 3–6 | Defense Multiplier: 1.10 | Bludgeon/Gash/Skewer Affinities: [Resonance: Ineffective, Bludgeon: Vulnerable, Gash: Normal].
 - **Combat Mechanics:**
   * *Passive: [Loom of Tranquility]*: Restores +8 Composure (SP) at the end of every round to all allies whose SP is below 20. Prevents the occurrence of Paranoia panic states.
   * *Skill 1: [Silver Stitch]*: Weaves a filament of lucidity between two allies, allowing them to share Composure pools and increasing their Clash Power by +1.
@@ -317,21 +317,21 @@ The Core Vanguard of the Somnarak Exploration Decree comprises seven elite speci
 - **Institutional Background:** Senior Paleographer, Keepers Archive. Minjae spent decades in municipal vaults deciphering fragments of text preserved from before the Great Cataclysm. When he discovered that the Council of Sighs was actively incinerating historical documents that proved sorrow existed naturally before municipal extraction began, Minjae smuggled the remaining Year Zero dictionaries into the deep with the vanguard.
 - **Tactical Combat Role:** Ranged Resonance Piercer, Weakness Analyzer, and Stagger Accelerator.
 - **Signature M.A.W. Armament:** *Cryo-Resonance Scribe* (Pneumatic Inscription Lance) & *The Vellum Archival Vestment*.
-- **Base Combat Attributes:** Max HP: 2,900 | Composure (SP): 45 | Base Speed: 2–6 | Defense Multiplier: 1.00 | Blunt/Slash/Pierce Affinities: [Pierce: Ineffective, Slash: Normal, Blunt: Vulnerable].
+- **Base Combat Attributes:** Max HP: 2,900 | Composure (SP): 45 | Base Speed: 2–6 | Defense Multiplier: 1.00 | Bludgeon/Gash/Skewer Affinities: [Skewer: Ineffective, Gash: Normal, Bludgeon: Vulnerable].
 - **Combat Mechanics:**
   * *Passive: [Historical Annotation]*: Attacking an enemy reveals their weakest resistance type for the rest of the battle. Allies attacking that weakness gain +25% Critical Hit Chance.
-  * *Skill 1: [Inscribed Cold]*: Deals 210 Pierce damage with freezing cryo-ink, applying 3 Rupture count and 2 Slow.
+  * *Skill 1: [Inscribed Cold]*: Deals 210 Skewer damage with freezing cryo-ink, applying 3 Rupture count and 2 Slow.
   * *Skill 2: [Mnemonic Analysis]*: Analyzes an enemy's attack pattern, reducing their Defense Level by 4 for 2 turns.
-  * *Climax Overdrive: [Chronicle of the First Winter]* (Cost: 25 SP): Minjae inscribes the lost history of Year Zero into the bedrock. An icy gale of frozen tears erupts from the floor, dealing 550 Pierce/Resonance damage to all enemies and immediately advancing their Stagger bars by 40%.
+  * *Climax Overdrive: [Chronicle of the First Winter]* (Cost: 25 SP): Minjae inscribes the lost history of Year Zero into the bedrock. An icy gale of frozen tears erupts from the floor, dealing 550 Skewer/Resonance damage to all enemies and immediately advancing their Stagger bars by 40%.
 
 ### 4.6 Jisoo (지수) — "Ratio of Survival"
 - **Institutional Background:** Senior Actuary & Defector, The Collectors Bureau. Jisoo was the bureaucrat responsible for calculating the "acceptable casualty ratios" for deep municipal labor projects. When she realized her mathematical formulas were being manipulated to justify the deliberate sacrifice of low-strata workers, she threw her ledgers into the incinerator and took up a hydraulic balance scale to ensure every member of the SED returns alive.
 - **Tactical Combat Role:** Ballast Controller, Thermodynamic Energy Inverter, and Resource Redistributor.
 - **Signature M.A.W. Armament:** *Hydraulic Ballast Ledger* & *Prismatic Caliper Staff*.
-- **Base Combat Attributes:** Max HP: 3,200 | Composure (SP): 45 | Base Speed: 3–6 | Defense Multiplier: 0.95 | Blunt/Slash/Pierce Affinities: [Blunt: Normal, Pierce: Normal, Slash: Normal].
+- **Base Combat Attributes:** Max HP: 3,200 | Composure (SP): 45 | Base Speed: 3–6 | Defense Multiplier: 0.95 | Bludgeon/Gash/Skewer Affinities: [Bludgeon: Normal, Skewer: Normal, Gash: Normal].
 - **Combat Mechanics:**
   * *Passive: [Equalized Ledger]*: Whenever an ally takes damage, 25% of that damage is stored in Jisoo's Ballast Ledger. Stored ballast can be expended to boost allied attack damage or heal wounded squadmates.
-  * *Skill 1: [Caliper Strike]*: Deals 190 Blunt damage and steals 10% of the target's attack speed, transferring it to the slowest ally.
+  * *Skill 1: [Caliper Strike]*: Deals 190 Bludgeon damage and steals 10% of the target's attack speed, transferring it to the slowest ally.
   * *Skill 2: [Thermodynamic Inversion]*: Converts stored emotional ballast into a thermal healing pulse, restoring 400 HP to the lowest-health ally.
   * *Climax Overdrive: [Equation of the Absolute Balance]* (Cost: 30 SP): Jisoo slams the open ledger into the ground. All party members' current HP and SP percentages are equalized to match the highest member's value, and all active enemy buffs are instantly converted into stacks of Vulnerability.
 
@@ -339,11 +339,11 @@ The Core Vanguard of the Somnarak Exploration Decree comprises seven elite speci
 - **Institutional Background:** A legendary, enigmatic wanderer of the deep frontier who guarded the lower strata for four centuries under Commander Xyan's secret mandate. Clad in a scarred, iron-plated trench mantle and bearing an ancient relic cleaver, The Silent One maintained a four-hundred-year vow of silence until the descent into the Mugenhan ocean in Stratum 7. They carry *The Burden of Year Zero*—a locked iron casket containing the sapphire tear of the first mortal who ever wept.
 - **Tactical Combat Role:** Frontline Relic Executioner, Sovereign Slayer, and Absolute Composure Anchor.
 - **Signature M.A.W. Armament:** *The Severed Relic Cleaver* & *The Weathered Mantle of Year Zero*.
-- **Base Combat Attributes:** Max HP: 4,500 | Composure (SP): 50 | Base Speed: 3–6 | Defense Multiplier: 0.80 | Blunt/Slash/Pierce Affinities: [Slash: Ineffective, Pierce: Normal, Blunt: Ineffective].
+- **Base Combat Attributes:** Max HP: 4,500 | Composure (SP): 50 | Base Speed: 3–6 | Defense Multiplier: 0.80 | Bludgeon/Gash/Skewer Affinities: [Gash: Ineffective, Skewer: Normal, Bludgeon: Ineffective].
 - **Combat Mechanics:**
   * *Passive: [The Vow of Silence]*: Completely immune to Panic, Despair, Mind Manipulation, and SP drain. When an ally drops below 0 SP, The Silent One strikes them with the flat of their blade, immediately restoring them to +10 SP.
-  * *Skill 1: [Cleaver Cleave]*: Deals 280 heavy Slash damage, ignoring 30% of the target's physical armor.
-  * *Skill 2: [Relic Resonance]*: Unsheathes the glowing sapphire blade edge, dealing 320 Slash damage and inflicting 5 Bleed and 3 Pale Grief on hit.
+  * *Skill 1: [Cleaver Cleave]*: Deals 280 heavy Gash damage, ignoring 30% of the target's physical armor.
+  * *Skill 2: [Relic Resonance]*: Unsheathes the glowing sapphire blade edge, dealing 320 Gash damage and inflicting 5 Bleed and 3 Pale Grief on hit.
   * *Climax Overdrive: [Requiem of the First Mourner — Zero Absolution]* (Cost: 40 SP): The Silent One breaks their silence to speak the sacred words of the first mourner. A blinding sapphire blade arc cleaves through the fabric of the cavern, dealing 1,200 pure Sovereign damage. If this strike hits an apex entity, it permanently calms their sorrow tide, neutralizing their ultimate attacks for the remainder of the battle.
 
 ---

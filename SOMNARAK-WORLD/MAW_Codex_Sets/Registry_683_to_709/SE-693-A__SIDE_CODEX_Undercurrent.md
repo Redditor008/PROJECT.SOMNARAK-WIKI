@@ -24,7 +24,7 @@ Flerehan loosens roots; Pugnahan hardens and spreads them; Viderehan shows burie
 
 | Piece | Data | File |
 |---|---|---|
-| Rootbound Maul | δ Weight 10–15; 3/3; Pierce; max2; 50 | `SE-693-B__MAW-W_The_Rootbound_Maul.md` |
+| Rootbound Maul | δ Weight 10–15; 3/3; Skewer; max2; 50 | `SE-693-B__MAW-W_The_Rootbound_Maul.md` |
 | Rootbound Mantle | 1.0/1.0/1.5/0.5; max2; 45 | `SE-693-C__MAW-S_The_Rootbound_Mantle.md` |
 | Rootbound Staff | Head; 4%; +3 Resolve; anchors force | `SE-693-D__MAW-G_The_Rootbound_Staff.md` |
 

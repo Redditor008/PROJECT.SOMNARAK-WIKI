@@ -41,7 +41,7 @@ The Glazed Mullion-Pike crystallizes exclusively from the endpoint frost left be
 
 ### Rejection Rule
 
-Any bearer who attempts to strike a reflected farewell image, block an ongoing departure, or use the weapon to enforce stationary entrapment experiences immediate weight recoil. The polearm’s glass heads frost over in reverse, transferring 30 points of crushing Black Weight pressure into the wielder's collarbones and locking their arms in place until the target moves away.
+Any bearer who attempts to strike a reflected farewell image, block an ongoing departure, or use the weapon to enforce stationary entrapment experiences immediate weight recoil. The polearm’s glass heads frost over in reverse, transferring 30 points of crushing Weight pressure into the wielder's collarbones and locking their arms in place until the target moves away.
 
 ---
 
@@ -61,7 +61,7 @@ Any bearer who attempts to strike a reflected farewell image, block an ongoing d
 
 **Trigger:** Target must be maintaining a stationary barrier, spatial obstruction, or forced confinement zone.
 
-**Effect:** The bearer drives the pike’s diamond-glass head into the structural anchor. The impact discharges a shockwave of sub-zero Weight energy, shattering artificial seals and dealing 18–26 Black Weight damage. Any allied personnel previously trapped within the obstruction gain +2 Movement Speed for three turns.
+**Effect:** The bearer drives the pike’s diamond-glass head into the structural anchor. The impact discharges a shockwave of sub-zero Weight energy, shattering artificial seals and dealing 18–26 Weight damage. Any allied personnel previously trapped within the obstruction gain +2 Movement Speed for three turns.
 
 **Limit:** Striking an open gateway or an unresisting moving entity deals minimal damage and covers the wielder's hands in bitter frostbite.
 

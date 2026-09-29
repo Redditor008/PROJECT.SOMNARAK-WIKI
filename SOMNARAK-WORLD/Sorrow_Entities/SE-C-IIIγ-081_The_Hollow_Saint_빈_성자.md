@@ -180,7 +180,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Attack Pattern:** Line Pierce / Ultrasonic Beam
+**Attack Pattern:** Line Skewer / Ultrasonic Beam
 **Target Coverage:** Linear corridor; pierces up to 3 aligned targets
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); shatters psychic links and suppression fields.

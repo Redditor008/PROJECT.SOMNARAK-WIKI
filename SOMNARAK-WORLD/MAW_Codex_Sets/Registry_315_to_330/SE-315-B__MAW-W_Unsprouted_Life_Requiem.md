@@ -26,7 +26,7 @@ The Unsprouted Life Requiem is a singing blade of deep-blue Han crystal with a s
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Lament | 10–15 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 2 / 50 Echoes |
+| δ / Lament | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
 **Host Separation:** Requiem pierces up to three detached growth paths and removes them from a living host. Striking the source shell accelerates manifestation.
 

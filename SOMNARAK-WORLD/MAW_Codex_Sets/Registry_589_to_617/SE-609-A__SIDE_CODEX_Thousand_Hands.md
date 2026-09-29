@@ -51,7 +51,7 @@ Extraction followed a complete ownership-chain reading in which every unknown ho
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Thousand Hands Requiem | γ Lament; 7–12; Speed 3; Range 3; Pierce 100/70/50%; max 3; 40 Echoes | `SE-609-B__MAW-W_Thousand_Hands_Requiem.md` |
+| Thousand Hands Requiem | γ Lament; 7–12; Speed 3; Range 3; Skewer 100/70/50%; max 3; 40 Echoes | `SE-609-B__MAW-W_Thousand_Hands_Requiem.md` |
 | Thousand Hands Shield | γ Lament; L/G/V/W 0.4/1.0/1.6/0.8; max 3; 35 Echoes | `SE-609-C__MAW-S_Thousand_Hands_Shield.md` |
 | Thousand Hands Charm | γ Lament; Tail; 4%; +2 Clarity while working the source | `SE-609-D__MAW-G_Thousand_Hands_Charm.md` |
 

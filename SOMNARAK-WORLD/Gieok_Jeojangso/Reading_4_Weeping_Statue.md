@@ -153,7 +153,7 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[De-Icing Caliper: Thermal Flare]`. Holds 1 AP in Guard.
   * The Weeping Statue (Speed 6 -> 3 AP, Heavy Construct delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Weeping Veil Torrent]`. Spends 1 AP on `[Censer Ash Fog]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: The Weeping Statue fires `[Weeping Veil Torrent]` (Base 18 + 2 Lots = 28 Power, Pressurized Lament/Pierce).
+  * **Clash 1 (Node 02 to 05)**: The Weeping Statue fires `[Weeping Veil Torrent]` (Base 18 + 2 Lots = 28 Power, Pressurized Lament/Skewer).
     * Seiyon intercepts with `[Prismatic Aegis: Hydro-Deflection]` (Base 21 + 2 Lots = 33 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Seiyon's shield splits the supersonic stream of freezing brine cleanly in two, spraying the spray harmlessly along the walls (`[P3: Parry/Protection]`).
@@ -206,7 +206,7 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The Weeping Statue channels `[Deluge of Four Thousand Years]` (Base 19 + 2 Lots = 27 Power, Area Lament).
-    * Seiyon clashes with `[Prismatic Stiletto: Siphon Severance]` (Base 25 + 3 Lots Marked = 44 Power, Void Slash).
+    * Seiyon clashes with `[Prismatic Stiletto: Siphon Severance]` (Base 25 + 3 Lots Marked = 44 Power, Void Gash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (44 vs 27)!
     * Seiyon slices through the glass intake manifold; the massive vacuum pump implodes under hydraulic shock!
     * Drone's `[Thermal Torch]` superheats the brass fittings, melting the siphon collar completely!
@@ -214,7 +214,7 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
     * **TARGETED PART DESTROYED**: The Weeping Siphon Veil is completely destroyed (**Veil HP: 0/1,100** credit)!
     * **EFFECT**: Boss brine deluge permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Mourning Censer Damage**:
-    * Thermal flash snaps one of the copper chains for **280 Heat/Blunt damage**!
+    * Thermal flash snaps one of the copper chains for **280 Heat/Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Siphon Veil: **DESTROYED (0/1,100 HP)**.
   * Mourning Censer: 1,400 -> **1,120/1,400** | Posture: **216/280**.
@@ -232,7 +232,7 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 | [PORTAL]         [SEIYON][M-PROJ][STATUE]                              |
 | [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
 +------------------------------------------------------------------------+
-| - Node 03: Seiyon (Counter-Slash Severing Censer Chains)               |
+| - Node 03: Seiyon (Counter-Gash Severing Censer Chains)                |
 | - Node 04: Mnemonic Drone (Piston Ram Shattering Alabaster Arm)        |
 | - Node 05: The Weeping Statue (STAGGER LEVEL 1 / DEFENSES COLLAPSED    |
 |   / TEARS DRIED)                                                       |
@@ -255,16 +255,16 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
   * Deprived of its veil, the Statue swings the **Mourning Censer** like a wrecking ball across Node 03.
   * Seiyon gains `Mnemonic Surge` (+2 Speed -> Net Speed 8, 4 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Prismatic Counter-Slash]`. Spends 2 AP on `[Core Sever]`.
+  * Seiyon (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Prismatic Counter-Gash]`. Spends 2 AP on `[Core Sever]`.
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Piston Ram]`.
   * Resonant Lens: Focuses sensor pulse on the censer's remaining chain link.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: The Weeping Statue swings `[Basalt Censer Smash]` (Base 18 + 2 Lots = 26 Power, Heavy Weight/Heat).
-    * Seiyon clashes with `[Prismatic Counter-Slash]` (Base 23 + 2 Lots = 35 Power, Void Slash).
+    * Seiyon clashes with `[Prismatic Counter-Gash]` (Base 23 + 2 Lots = 35 Power, Void Gash).
     * **Clash Outcome**: Seiyon WINS THE CLASH (35 vs 26)!
     * Seiyon slices through the copper chains; the three-ton basalt censer plunges into the water, extinguishing its sulfur fires in a massive cloud of steam!
     * Drone drives its pneumatic ram into the statue's left shoulder, cracking the alabaster arm clean off!
-    * Deals **580 Void/Blunt damage** and +94 Posture Strain!
+    * Deals **580 Void/Bludgeon damage** and +94 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (3,080 HP), falling to **2,180/4,400 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The Weeping Statue sinks onto its knees in the water; all defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -312,8 +312,8 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
   * Resonant Lens: Directs `[Consoling Resonance Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Void Execution Flurry]`: Rips through the sorrow heart for **880 Void damage** (Exposed 2.0x proc!)!
-  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining censer fragments for **410 Pierce damage**!
-  * Drone's `[Pneumatic Ram]`: Smashes the altar footing for **230 Blunt damage**!
+  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining censer fragments for **410 Skewer damage**!
+  * Drone's `[Pneumatic Ram]`: Smashes the altar footing for **230 Bludgeon damage**!
   * Lens's `[Solace Wave]`: Disperses glacial resonance for **150 Void damage**!
   * **TOTAL BURST DAMAGE: 1,670 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (1,760 HP) COMPLETELY SKIPPED!**:

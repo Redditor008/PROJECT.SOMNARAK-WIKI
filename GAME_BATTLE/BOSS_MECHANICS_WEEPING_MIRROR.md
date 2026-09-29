@@ -27,7 +27,7 @@
 - **Lore Profile & Macro-Canon Significance:**
   The Weeping Mirror is a three-meter-tall monumental looking glass encased in blackened iron and gold filigree, recovered from the deepest strata of the Alpha Tree root complex. Historical records from the Early Decades reveal the entity condensed from the collective repressed grief that citizens, wardens, and administrative leads concealed from one another across centuries.
 
-  The reflective surface is not made of mercury glass, but rather a fluctuating, super-dense film of crystallized Pale White Void and liquid sorrow tears. The mirror does not reflect the physical countenance of those who gaze into it; instead, it projects their unacknowledged guilt, unmourned bereavements, and spiritual rot. When an operative maintains continuous line-of-sight without high Clarity ratings, the mirror extracts their psychological identity and manifests a physical **Mirrored Twin Simulacrum** that wields the operative's own combat techniques against them. In combat suppressions, the Reverie Directorate mandates deploying heavy blunt shock-weapons to shatter the looking glass before psychic dissociation claims the squad.
+  The reflective surface is not made of mercury glass, but rather a fluctuating, super-dense film of crystallized Void and liquid sorrow tears. The mirror does not reflect the physical countenance of those who gaze into it; instead, it projects their unacknowledged guilt, unmourned bereavements, and spiritual rot. When an operative maintains continuous line-of-sight without high Clarity ratings, the mirror extracts their psychological identity and manifests a physical **Mirrored Twin Simulacrum** that wields the operative's own combat techniques against them. In combat suppressions, the Reverie Directorate mandates deploying heavy blunt shock-weapons to shatter the looking glass before psychic dissociation claims the squad.
 
 ---
 
@@ -211,7 +211,7 @@ The encounter transitions across three distinct tactical phases governed by the 
 
 | Squad Role | Recommended Callsign Archetype | Preferred M.A.W. Set | Tactical Function |
 |---|---|---|---|
-| **Heavy Kinetic Breaker** | Piston Maul Specialist (Speed 4+) | Grade 4 Blunt / Weight | Exploits 1.8x Weight vulnerability on Glass Core |
+| **Heavy Kinetic Breaker** | Piston Maul Specialist (Speed 4+) | Grade 4 Bludgeon / Weight | Exploits 1.8x Weight vulnerability on Glass Core |
 | **Fortress Anchor** | Heavy Shield Warden (Posture 150+) | Grade 4 Bastion Plate | Intercepts *Mercury Siphon Jet*; anchors midline |
 | **Clarity Harmonizer** | Acoustic Controller (Clarity 120+) | Grade 4 Acoustic Needle | Dispels *Gaze of the Unwept*; restores squad Sanity |
 | **Precision Marksman** | Anti-Material Sniper (Band 4) | Grade 4 Piercing Rifle | Destroys Gilded Frame and Siphon Spout from afar |

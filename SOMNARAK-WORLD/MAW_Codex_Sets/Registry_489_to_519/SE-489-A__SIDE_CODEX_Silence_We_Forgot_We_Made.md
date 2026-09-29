@@ -34,7 +34,7 @@ An echo forms after one worker names their own withholding while every other per
 
 | Piece | Summary | File |
 |---|---|---|
-| Quiet Requiem | Lament 10–15; Speed 3; Range 3; Pierce; max 2; 50 Echoes. Cuts coercive silence, not private quiet. | `SE-489-B__MAW-W_The_Quiet_Requiem.md` |
+| Quiet Requiem | Lament 10–15; Speed 3; Range 3; Skewer; max 2; 50 Echoes. Cuts coercive silence, not private quiet. | `SE-489-B__MAW-W_The_Quiet_Requiem.md` |
 | Quiet Shroud | 0.4 / 1.0 / 1.6 / 0.8; max 2; 45 Echoes. Protects a person inside remembered silence. | `SE-489-C__MAW-S_The_Quiet_Shroud.md` |
 | Quiet Lens | Tail; 4%; +3 Clarity. Reveals emotional meaning behind silence; every silence becomes a question. | `SE-489-D__MAW-G_The_Quiet_Lens.md` |
 

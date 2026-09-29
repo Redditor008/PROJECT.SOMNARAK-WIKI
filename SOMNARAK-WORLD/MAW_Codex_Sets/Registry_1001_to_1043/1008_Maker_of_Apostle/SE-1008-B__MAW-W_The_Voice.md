@@ -23,7 +23,7 @@
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Mixed 7–12 | 3 (Fast) | 3 (Medium) | Pierce / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+| Mixed 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
 **Operational / binding cost:** Each command damages the wearer's Composure. The voice is not theirs — it is the chain's. Continued use makes Maker of Apostle's source sorrow feel autobiographical.
 

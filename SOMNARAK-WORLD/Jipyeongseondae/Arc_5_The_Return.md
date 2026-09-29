@@ -154,7 +154,7 @@ Warlord Garek relied upon high-speed kinetic shock, using the **Spiked Ram** to 
   * Hwaran (Speed 7 -> 4 AP): Holds Node 03. Spends 2 AP on `[Flank Suppression Volley]`. Spends 2 AP on `[Smoke Canister]`.
   * Garek (Speed 7 -> 4 AP): Charges from Node 05 to Node 03. Spends 2 AP on `[Twin Rotary Barrage]`. Spends 2 AP on `[Spiked Ram Rush]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Garek fires `[Twin Rotary Barrage]` (Base 18 + 2 Lots = 28 Power, Rapid Kinetic/Pierce).
+  * **Clash 1 (Node 02 to 05)**: Garek fires `[Twin Rotary Barrage]` (Base 18 + 2 Lots = 28 Power, Rapid Kinetic/Skewer).
     * Kael intercepts with `[Trench-Cleaver: Ballistic Sweep]` (Base 21 + 2 Lots = 33 Power, Obsidian Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Kael's cleaver spins in an impenetrable circle of dark obsidian; hundreds of heavy autocannon rounds ricochet violently into the canyon walls (`[P3: Parry/Protection]`).

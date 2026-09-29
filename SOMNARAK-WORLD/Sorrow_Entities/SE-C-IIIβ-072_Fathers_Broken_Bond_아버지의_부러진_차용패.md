@@ -373,7 +373,7 @@ Operational Rule: Authorize single-use fracture exclusively during Level 3 Facil
 ### Registry Trivia
 
 - **Classification detail:** Classified as Fragment (III) because the entity exists in a permanent state of pre-fractured tension.
-- **Field detail:** The Black Weight discharge released upon snapping cancels all active movement restrictions across Range Band 3.
+- **Field detail:** The Weight discharge released upon snapping cancels all active movement restrictions across Range Band 3.
 - **Recognition detail:** Look for the deep center notch and forty tally marks along the yellow brass perimeter.
 - **Record detail:** The artifact is completely consumed upon fracture; the resulting fragments possess zero anomalous weight or energy.
 

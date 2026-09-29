@@ -51,7 +51,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 |---|---|
 | Damage | Weight 10–15 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 50 Sorrow Echoes to register and bind |
 | Operational cost | The bearer grows heavier and prolonged use causes slight aging. |
@@ -67,7 +67,7 @@ The Maul sends a powerful Weight strike through a fatigue-driven pressure, colla
 ### Signature ability — *Make the Watch Safe*
 
 **Trigger:** A replacement watch and protected sleep area are physically in place.  
-**Effect:** The full Pierce line breaks one critical exhaustion field and holds the surrounding ground stable long enough for a team to rotate into rest.  
+**Effect:** The full Skewer line breaks one critical exhaustion field and holds the surrounding ground stable long enough for a team to rotate into rest.  
 **Limit:** It cannot force sleep, solve a staffing shortage, or act as a substitute for a real guard.  
 **Failure state:** If the bearer uses it to keep others awake after the field breaks, the Maul’s Weight anchors the bearer into the next rest space instead.
 

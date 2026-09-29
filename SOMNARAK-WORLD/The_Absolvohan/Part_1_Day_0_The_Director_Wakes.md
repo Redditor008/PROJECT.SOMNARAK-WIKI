@@ -205,7 +205,7 @@ Park steps into the reinforced chamber. The six-ton pneumatic blast door seals s
 - *Chamber Telemetry:* `The bronze bell remembers the silence of an empty nursery in the autumn rain...`
 - **Work Tick 01:** Success! +1 Positive Han crystal generated (radiant blue luminescence).
 - **Work Tick 02:** Success! +1 Positive Han crystal generated. Acoustic pressure stable at 42dB.
-- **Work Tick 03:** Failure! Red static crackles across the diagnostic glass. The clapper strikes the rim with a hollow chime, dealing 3 White (Lament) damage. Park's SP bar flickers, dropping from 35 to 32.
+- **Work Tick 03:** Failure! Red static crackles across the diagnostic glass. The clapper strikes the rim with a hollow chime, dealing 3 (Lament) damage. Park's SP bar flickers, dropping from 35 to 32.
 - **Work Tick 04:** Success! Park steadies his breathing, synchronizing his heartbeat to the bell's chime. +1 Han crystal.
 - **Work Tick 05:** Success! +1 Positive Han crystal generated.
 - **Work Tick 06:** Failure! A sudden cold gust rustles Park's tunic; 3 Lament damage sustained. SP at 29/35.
@@ -232,7 +232,7 @@ Director Majin flags Chamber 005 housing **SE-C-IIIγ-005** (*The Smothering Mot
 
 Kim enters Chamber 005. The temperature inside drops to near freezing. In the center of the cell, a towering, faceless maternal silhouette draped in heavy, sodden grey wool turns slowly toward him. The shawl unfurls like living vines, coiling around Kim's armored chest:
 - **Work Tick 01:** Success! Kim plants his boots firmly against the steel deckplates. +1 Han crystal.
-- **Work Tick 02:** Failure! The woolen shroud tightens violently, constricting Kim's ribs. Kim sustains 4 Red (Grudge) physical damage. HP drops to 34/38.
+- **Work Tick 02:** Failure! The woolen shroud tightens violently, constricting Kim's ribs. Kim sustains 4 (Grudge) physical damage. HP drops to 34/38.
 - **Work Tick 03:** Success! Kim leans into the crushing weight, grounding the kinetic force through his shock maul. +1 Han crystal.
 - **Work Tick 04:** Success! +1 Positive Han crystal generated.
 - **Work Tick 05:** Failure! Compressive surge ruptures an armor clasp; 4 Grudge damage sustained. HP drops to 30/38.
@@ -423,7 +423,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
     * *Passive Trigger:* `Momentum Surge` activates upon witnessing the stagger! Park gains +2 Movement Speed and +15% Critical Chance.
     * Spends 1 AP to sprint from Node 04 to Node 03, flanking the entity's vulnerable left flank.
     * Spends 2 AP to unleash `[Critical Lament Overload]`:
-      * Base Damage: 16 White (Lament) damage.
+      * Base Damage: 16 (Lament) damage.
       * Multipliers: 1.5x (Stagger Level 1) * 1.5x (Critical Hit) = **36 Pure Lament Damage**!
   * **Specialist Kim (Speed 5 -> 3 AP)**:
     * Spends 2 AP to execute `[Two-Handed Maul Sunder]`:
@@ -459,7 +459,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ##### Turn 04 Action Resolution Log (Desperation Shockwave & Guard Interception)
 - **Hostile Recovery & Desperation Protocol**:
   * The Voice recovers from Stagger Level 1 with a screech that causes the corridor light fixtures to burst into sparks.
-  * It initiates its ultimate defensive protocol: `[Shattered Soliloquy]` (A 3-Node radial acoustic pulse hitting Nodes 02, 03, and 04 with piercing Void decay).
+  * It initiates its ultimate defensive protocol: `[Shattered Soliloquy]` (A 3-Node radial acoustic pulse hitting Nodes 02, 03, and 04 with skewer Void decay).
 - **Operative Defensive Maneuvers**:
   * **Specialist Kim (Speed 5 -> 3 AP)**:
     * Reacts instantly to protect Park. Kim spends 2 AP to drop into `[Bulwark Vanguard Stance]`, projecting his massive enforcer shield directly over Node 03.

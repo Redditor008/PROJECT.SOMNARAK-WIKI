@@ -45,7 +45,7 @@
 |---|---|
 | Damage | Lament 7–12 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | The bearer carries the Prince’s unwept grief and may cry without warning. |
@@ -56,16 +56,16 @@
 
 ### Appearance
 
-The Crown of Requiem is a long, narrow blade of pale-blue Han crystal that folds into itself like the points of a closed circlet. When folded it rests in a smooth ring with the points tucked inward; when opened, the blade extends into a singing line and every point becomes a question. The hilt is short and dark, with a raised guard and a small inset figure of the relief contact who closes the weapon. The blade sends a blue Pierce line through attachment pressure, forcing a torn or bound person to recognise the bond or absence driving their action. It cannot create reunion or repair a bond, and it will not open for a bearer who promises a return they cannot give. The relief person, never the bearer, folds the points closed. The crown is stored folded with the relief contact's name facing outward, and the points do not dull even when the weapon is sealed for a long period.
+The Crown of Requiem is a long, narrow blade of pale-blue Han crystal that folds into itself like the points of a closed circlet. When folded it rests in a smooth ring with the points tucked inward; when opened, the blade extends into a singing line and every point becomes a question. The hilt is short and dark, with a raised guard and a small inset figure of the relief contact who closes the weapon. The blade sends a blue Skewer line through attachment pressure, forcing a torn or bound person to recognise the bond or absence driving their action. It cannot create reunion or repair a bond, and it will not open for a bearer who promises a return they cannot give. The relief person, never the bearer, folds the points closed. The crown is stored folded with the relief contact's name facing outward, and the points do not dull even when the weapon is sealed for a long period.
 
 ### Basic attack— *Questioning Cut*
 
-The blade sends a blue Pierce line through a target’s attachment pressure. It deals Lament damage and forces an immediate emotional recognition of the bond or absence that is driving the target’s action.
+The blade sends a blue Skewer line through a target’s attachment pressure. It deals Lament damage and forces an immediate emotional recognition of the bond or absence that is driving the target’s action.
 
 ### Signature ability — *No False Return*
 
 **Trigger:** The bearer has answered a direct question honestly during the same encounter.  
-**Effect:** The Crown extends its singing line through the full Pierce path, interrupting a panic surge caused by a fresh separation.  
+**Effect:** The Crown extends its singing line through the full Skewer path, interrupting a panic surge caused by a fresh separation.  
 **Limit:** It cannot create reunion, repair a bond, or be activated from a lie.  
 **Failure state:** If the bearer uses it to keep a person dependent on them, the song changes into the Prince’s search call and draws Lament pressure to the bearer’s location.
 

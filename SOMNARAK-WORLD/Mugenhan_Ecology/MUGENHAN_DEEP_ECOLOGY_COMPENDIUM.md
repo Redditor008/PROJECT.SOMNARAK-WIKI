@@ -170,7 +170,7 @@ These organisms represent true living beings whose anatomy has naturally integra
 
 #### 6. Needle-Tailed Karst Badger (침미 오소리 / 針尾 穴獸)
 - **Scientific Classification**: *Meles aculeatus*
-- **Biological Archetype**: Mustelid Mammal (80% Living Beast, 20% Pierce M.A.W. Traits)
+- **Biological Archetype**: Mustelid Mammal (80% Living Beast, 20% Skewer M.A.W. Traits)
 - **Habitat**: Strata 1 through 3 narrow gravel tunnels and mining tailings (-100m to -600m)
 - **Physical Anatomy**: A fiercely aggressive, 1.2-meter burrowing mammal. Its tail terminates in a cluster of twelve hollow, needle-sharp bone quills infused with concentrated sorrow acid. When cornered, the badger whips its tail forward, firing quills with pneumatic muscular force.
 - **Behavior & Diet**: Pack hunters operating in familial clans of six to eight. Extremely territorial, attacking intruders with relentless fury regardless of the opponent's size.

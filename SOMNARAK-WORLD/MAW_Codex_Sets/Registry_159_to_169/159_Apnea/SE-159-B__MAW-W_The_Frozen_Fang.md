@@ -51,7 +51,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 |---|---|
 | Damage | Grudge 10–15 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 50 Sorrow Echoes to register and bind |
 | Operational cost | Old wounds ache and prolonged use leaves crimson bruising. |
@@ -62,7 +62,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 ### Basic attack — *Crack the Hold*
 
-The Fang sends a crimson Pierce through a compressed Grudge field, making one held rage or breath-pressure release without forcing the person carrying it to continue afterward.
+The Fang sends a crimson Skewer through a compressed Grudge field, making one held rage or breath-pressure release without forcing the person carrying it to continue afterward.
 
 ### Signature ability — *Allowed to Stop*
 

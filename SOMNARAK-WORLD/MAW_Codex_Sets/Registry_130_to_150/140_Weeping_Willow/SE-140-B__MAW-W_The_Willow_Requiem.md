@@ -61,12 +61,12 @@ The Weeping Willow War-Scythe is a sweeping polearm scythe whose long shaft is g
 
 ### Basic attack — *Falling Line*
 
-The Requiem sends a blue Pierce line through a Lament surge associated with completion, departure, or a natural goodbye. It deals damage without denying that the ending mattered.
+The Requiem sends a blue Skewer line through a Lament surge associated with completion, departure, or a natural goodbye. It deals damage without denying that the ending mattered.
 
 ### Signature ability — *Let It Close*
 
 **Trigger:** The bearer and witness name one thing that ended and one thing that continues.  
-**Effect:** The full Pierce line contains a farewell-driven Lament wave long enough for affected people to leave safely or complete a ritual.  
+**Effect:** The full Skewer line contains a farewell-driven Lament wave long enough for affected people to leave safely or complete a ritual.  
 **Limit:** It cannot bring the ended thing back, force acceptance, or turn private grief into public performance.  
 **Failure state:** If the bearer tries to wield it against a chosen villain, the leaf-light surrounds the bearer and makes every unfinished goodbye feel immediate.
 

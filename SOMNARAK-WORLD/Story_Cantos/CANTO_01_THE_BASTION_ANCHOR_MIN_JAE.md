@@ -164,7 +164,7 @@ The Monolith roared—not with vocal cords, but with the sound of a continent te
 It lunged forward through the sixty-percent gap in the blast door, its massive right arm swinging in a sweeping horizontal arc. A five-ton slab of solid granite, jagged with broken basalt crystals, hurtled directly at Min-Jae's chest.
 
 `[TACTICAL HUD — CLASH RESOLUTION: NODE 05]`
-`* Monolith Action : [Tectonic Cleave] (Power 18-24 Weight Blunt)`
+`* Monolith Action : [Tectonic Cleave] (Power 18-24 Weight Bludgeon)`
 `* Min-Jae Action  : [Immovable Bastion Parry] (Power 20-26 Kinetic Guard)`
 
 Min-Jae did not flinch. He leaned his entire body weight into the curved face of the shield, his right shoulder locked against the interior brace, and roared a vow into the deafening wind:
@@ -197,12 +197,12 @@ The Monolith's arm was locked against the face of his shield, its stone fingers 
 
 "ON IT!" Taeho's battle cry was pure adrenaline.
 
-The young vanguard surged forward from Node 02, utilizing his 3 Action Points in a blistering, acrobatic leap. His boots slammed onto the top rim of Min-Jae's shield, using the immovable warden as a springboard to vault three meters into the air. In the apex of his arc, Taeho gripped *The Debt Cleaver* with both hands, channeling pure Grudge Pierce energy into the hardened fuller.
+The young vanguard surged forward from Node 02, utilizing his 3 Action Points in a blistering, acrobatic leap. His boots slammed onto the top rim of Min-Jae's shield, using the immovable warden as a springboard to vault three meters into the air. In the apex of his arc, Taeho gripped *The Debt Cleaver* with both hands, channeling pure Grudge Skewer energy into the hardened fuller.
 
 "DIE, YOU OVERGROWN HEADSTONE!"
 
 `* Taeho Action : [Part-Breaker Execution] vs [Left Knee Pillar]`
-`* Damage: 185 Grudge Pierce (FATAL CRITICAL)`
+`* Damage: 185 Grudge Skewer (FATAL CRITICAL)`
 
 The heavy steel cleaver plunged directly into the fissure behind the Monolith's left knee joint. The blade bit deep, shattering the crystalline marrow. With a sickening crunch of fracturing granite, the entity's left leg collapsed beneath its own immense weight. The colossus stumbled forward, falling onto one knee, its face coming level with Min-Jae's shield.
 

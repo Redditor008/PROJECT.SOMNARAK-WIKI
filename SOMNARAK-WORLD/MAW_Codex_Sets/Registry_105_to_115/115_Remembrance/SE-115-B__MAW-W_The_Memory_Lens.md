@@ -45,12 +45,12 @@
 |---|---|
 | Damage | Void 7–12 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | The bearer loses small, nameless memories with each use. |
 | Binding cost | Every activation must be recorded as custody work, not loot recovery. |
-| Recovery | Identity and custody checks after a full Pierce line |
+| Recovery | Identity and custody checks after a full Skewer line |
 
 ## COMBAT FILE
 
@@ -62,7 +62,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 ### Basic attack— *Witness Line*
 
-The Lens sends a pale Void Pierce through an invasive memory pressure, separating a target’s identity from a memory that is trying to overwrite or consume it.
+The Lens sends a pale Void Skewer through an invasive memory pressure, separating a target’s identity from a memory that is trying to overwrite or consume it.
 
 ### Signature ability — *Return the Reflection*
 

@@ -43,7 +43,7 @@
 
 Appearance : A traditional nine-inch Japanese tanto with a thick spine and razor-honed chisel tip, its wooden hilt and scabbard bound tightly in dried wild rose vines with sharp protective thorns.
 
-The wielder's grip draws small drops of blood from the thorns, attuning the blade to the bearer's vitality. Slashing targets inflicts deep lacerations that burn with plant alkaloid toxins.
+The wielder's grip draws small drops of blood from the thorns, attuning the blade to the bearer's vitality. Gash strikes inflict deep lacerations that burn with plant alkaloid toxins.
 
 ## CORE STATISTICS
 
@@ -51,7 +51,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 |---|---|
 | Damage | Grudge 10–15 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 50 Sorrow Echoes to register and bind |
 | Operational cost | The bearer is unable to cross a boundary they create. |
@@ -62,7 +62,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 
 ### Basic attack — *Root Line*
 
-The weapon delivers a crimson Pierce strike and plants a short defensive root line against an active hostile crossing.
+The weapon delivers a crimson Skewer strike and plants a short defensive root line against an active hostile crossing.
 
 ### Signature ability — *Mutual Wall*
 

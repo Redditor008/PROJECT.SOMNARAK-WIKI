@@ -23,7 +23,7 @@ Binding requires one acknowledged original and a list of active return-copies. A
 | Grade / Element | δ / Grudge |
 | Damage | 10–15 Grudge |
 | Speed / Range | 3 (Fast) / 3 (Medium) |
-| Pattern | Pierce; line, up to 3 targets |
+| Pattern | Skewer; line, up to 3 targets |
 | Falloff | Primary 100% → first pierced 70% → second pierced 50% |
 | Maximum / Echo cost | 2 / 50 Sorrow Echoes |
 | Operational cost | Old wounds ache across each return-line |

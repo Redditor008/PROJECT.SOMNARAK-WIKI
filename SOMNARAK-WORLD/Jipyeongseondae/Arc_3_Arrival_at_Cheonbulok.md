@@ -153,7 +153,7 @@ Slag Champion Barok wielded extreme thermal power, utilizing the **Boiling Iron 
   * Hwaran (Speed 7 -> 4 AP): Holds Node 03. Spends 2 AP on `[Quenching Steam Flare]`. Spends 2 AP on `[Weakpoint Dart]`.
   * Barok (Speed 7 -> 4 AP): Charges from Node 05 to Node 02. Spends 2 AP on `[Boiling Cleave: Slag Eruption]`. Spends 2 AP on `[Chest Vent Blast]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Barok swings `[Boiling Cleave: Slag Eruption]` (Base 19 + 2 Lots = 29 Power, Heavy Heat/Slash).
+  * **Clash 1 (Node 02 to 05)**: Barok swings `[Boiling Cleave: Slag Eruption]` (Base 19 + 2 Lots = 29 Power, Heavy Heat/Gash).
     * Kael intercepts with `[Trench-Cleaver: Kinetic Intercept]` (Base 22 + 2 Lots = 34 Power, Obsidian Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (34 vs 29)!
     * Kael's obsidian blade catches the white-hot cleaver; the molten iron sprays across the sand like fireworks (`[P3: Parry/Protection]`).
@@ -215,7 +215,7 @@ Slag Champion Barok wielded extreme thermal power, utilizing the **Boiling Iron 
     * **TARGETED PART DESTROYED**: The Boiling Iron Cleaver is completely destroyed (**Cleaver HP: 0/1,500** credit)!
     * **EFFECT**: Boss magma earth-breaker permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Basalt Pauldron Damage**:
-    * Thermal shock fractures the left shoulder plate for **360 Blunt damage**!
+    * Thermal shock fractures the left shoulder plate for **360 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Boiling Cleaver: **DESTROYED (0/1,500 HP)**.
   * Basalt Pauldron: 1,800 -> **1,440/1,800** | Posture: **262/340**.

@@ -75,7 +75,7 @@ Director Majin inspects the Floor 1 tactical roster. Operative Specialist Lee ha
 +---------------------------------------------------------------------+
 ```
 
-Specialist Park is equipped with the *Lament Shroud* and *Lament Requiem* crafted at the end of Day 0, giving him 0.7 Lament resistance and a reliable ranged sonic strike. Specialist Kim carries the *Embrace Fang* (piercing Grudge damage). Specialist Lee is currently in standard recruit issue.
+Specialist Park is equipped with the *Lament Shroud* and *Lament Requiem* crafted at the end of Day 0, giving him 0.7 Lament resistance and a reliable ranged sonic strike. Specialist Kim carries the *Embrace Fang* (skewer Grudge damage). Specialist Lee is currently in standard recruit issue.
 
 We press **[BEGIN MANAGEMENT]**.
 
@@ -184,7 +184,7 @@ Director Majin establishes GBS tactical engagement parameters:
 | Requiem                                                             |
 | Lee : Speed 4 -> 2 AP | HP: 95/ 95 | SP: +15 | Stun Baton           |
 | Spore Carrier : Speed 4 -> 2 AP | HP: 120/120 | Sorrow: 45% | Toxin |
-| Slash                                                               |
+| Gash                                                                |
 +=====================================================================+
 ```
 
@@ -197,7 +197,7 @@ Director Majin establishes GBS tactical engagement parameters:
   * Specialist Kim (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Embrace Fang Vicious Guard]`.
   * Specialist Park (Speed 6 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to channel `[Lament Requiem Harmonic Blast]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2)**:
-  * Spore Carrier A lunges with `[Toxic Scythe Slash]` on Node 2 (Base 7 + 2 Lots = 11 Power).
+  * Spore Carrier A lunges with `[Toxic Scythe Gash]` on Node 2 (Base 7 + 2 Lots = 11 Power).
   * Specialist Kim's `[Embrace Fang Vicious Guard]` (Base 8 + 2 Lots = 12 Power).
   * **Resolution**: Kim WINS THE CLASH (12 vs 11).
     * Kim parries the fungal blade, locking the beast in place and dealing 24 Grudge damage.
@@ -581,7 +581,7 @@ At 14:00, the screen shudders. The Second Watch arrives:
 | - Attack Affinity: Weight (Gravitational)                           |
 | Stagger)                                                            |
 | - Weakness Affinity: Grudge (Physical)                              |
-| Pierce)                                                             |
+| Skewer)                                                             |
 | TACTICAL DEPLOYMENT: KANG & KIM ENGAGE                              |
 +=====================================================================+
 ```
@@ -613,15 +613,15 @@ Director Majin establishes tactical battle parameters:
   * Director Majin engages `Acoustic Siphon`, venting gravitational reverberations into subterranean bedrock.
 - **Step 2: Movement & Action Point Spending**:
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with the Obelisk).
-  * Kang spends 2 AP to declare `[Fury Blade Armor Pierce]`.
+  * Kang spends 2 AP to declare `[Fury Blade Armor Skewer]`.
   * Specialist Kim (Speed 5 -> 3 AP) holds Node 5 behind research consoles. Spends 2 AP to aim `[Kinetic Carbine Concentrated Burst]` from Range Band 3. Remaining 1 AP held in Guard.
 - **Step 3: Clash Standoff (Node 2)**:
   * The Heavy Pendulum declares `[3.2G Gravitational Crush]` on Node 2:
     * Obelisk Roll: Base 9 + (2 Lots Marked: +4) = 13 Power.
-  * Specialist Kang's `[Fury Blade Armor Pierce]`:
+  * Specialist Kang's `[Fury Blade Armor Skewer]`:
     * Kang Roll: Base 10 + (2 Lots Marked: +5) = 15 Power.
   * **Resolution**: Kang WINS THE CLASH (15 vs 13).
-    * Kang's greatsword splits the descending pendulum arc. The blade strikes the central suspension ring, dealing 44 Grudge piercing damage and inflicting +22 Stagger buildup.
+    * Kang's greatsword splits the descending pendulum arc. The blade strikes the central suspension ring, dealing 44 Grudge skewer damage and inflicting +22 Stagger buildup.
   * Specialist Kim fires unopposed burst from Node 5, dealing 31 Grudge damage to the support pylons.
 
 
@@ -666,7 +666,7 @@ Director Majin establishes tactical battle parameters:
 +---------------------------------------------------------------------+
 | - Node 01: Obelisk (STAGGER LEVEL 1 / 1.5x DAMAGE / Posture 22/120) |
 | - Node 03: Kang (Momentum Surge Primed / +2 Speed Next Turn)        |
-| - Node 05: Specialist Kim (Piercing Void Round Primed in Chamber)   |
+| - Node 05: Specialist Kim (Skewer Void Round Primed in Chamber)     |
 +---------------------------------------------------------------------+
 | - Kang  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Postu       |
 | - Kim : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65         |
@@ -702,7 +702,7 @@ Director Majin establishes tactical battle parameters:
 +=====================================================================+
 ```
 
-###### Turn 04 Action Resolution Log (Gravitational Rupture & Piercing Void Shot)
+###### Turn 04 Action Resolution Log (Gravitational Rupture & Skewer Void Shot)
 - **Hostile Desperation Pulse**:
   * The obelisk recovers and attempts to channel `[3.2G Gravitational Rupture]`.
   * Specialist Kim at Node 05 fires a high-penetration Void round straight into the charging core!
@@ -754,8 +754,8 @@ Director Majin establishes tactical battle parameters:
 ```
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
-- **Climax Pierce**:
-  * Kang executes `[Climax Pierce]`, sundering the obelisk into harmless violet stone gravel and pure Han vapor.
+- **Climax Skewer**:
+  * Kang executes `[Climax Skewer]`, sundering the obelisk into harmless violet stone gravel and pure Han vapor.
   * Floor 2 collection flues harvest **+0.018 tons of refined Han**!
 
 
@@ -767,7 +767,7 @@ Director Majin establishes tactical battle parameters:
 | Floor 4.                                                            |
 | 2. Status Equilibrium : Stagger meters reset; Kang SP stabilizes at |
 | +35.                                                                |
-| 3. Containment Check : Violet crystal shattered into inert          |
+| 3. Containment Check : Purple crystal shattered into inert          |
 | fragments.                                                          |
 | 4. OUTCOME : ZERO CASUALTIES — 52.1 SECONDS TO RESOLUTION.          |
 +=====================================================================+
@@ -1361,7 +1361,7 @@ At 15:30, the lights fade to cold ash gray. The Third Watch arrives:
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 2x Scriptural Stone Cenotaphs                           |
 | - Attack Affinity: Lament (85dB Sanity Screech)                     |
-| - Weakness Affinity: Grudge (Blunt Fracture)                        |
+| - Weakness Affinity: Grudge (Bludgeon Fracture)                     |
 +---------------------------------------------------------------------+
 | TACTICAL ORDERS: KWON & SIM ENGAGE                                  |
 +=====================================================================+
@@ -1624,7 +1624,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Sa
 | | Resistance.                                                       |
 +---------------------------------------------------------------------+
 | Memory Spool         | Weapon: 4-6 Void                             |
-| | Piercing Damage.                                                  |
+| | Skewer Damage.                                                    |
 +---------------------------------------------------------------------+
 | ALLOCATION: ASSIGNED TO SPECIALIST SEO                              |
 +=====================================================================+
@@ -1838,7 +1838,7 @@ Director Majin establishes multi-floor GBS combat coordination:
 +=====================================================================+
 ```
 
-###### Turn 02 Action Resolution Log (Scale Pierce & Stagger Build)
+###### Turn 02 Action Resolution Log (Scale Skewer & Stagger Build)
 - **Multi-Operative Sunder & Lament Focus**:
   * Specialist Tak drives the molten blade into the leviathan's ash mantle at Node 03, while Zyrak thrusts the Extraction Lance at Node 04:
     * Deals **52 Combined Grudge/Kinetic Damage**!
@@ -2136,7 +2136,7 @@ Specialist Hong is dispatched to Chamber 032 for Viderehan observation:
 ```
 
 - **Work Tick 01–04:** 4 Successes. The bronze scale swings smoothly, registering the purity of Hong's dedication to the Directorate's mission.
-- **Work Tick 05:** Failure! Hong recalls the faces of fallen comrades from previous loops. The right scale drops sharply! 4 Black (Weight) damage sustained. Hong's SP absorbs the strain (SP: 56/60).
+- **Work Tick 05:** Failure! Hong recalls the faces of fallen comrades from previous loops. The right scale drops sharply! 4 (Weight) damage sustained. Hong's SP absorbs the strain (SP: 56/60).
 - **Work Tick 06–10:** 5 Successes.
 - **Work Result:** **9/10 Positive Han Crystals (EXCELLENT WORK RESULT)!**
 - Yield: **+0.024 tons** refined Han deposited into Floor 4's primary capacitor.
@@ -2145,7 +2145,7 @@ Energy climbs to `0.046 / 0.080 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Second Watch (Rust) Suppression
+#### 3. Ordeal Manifestation: Second Watch (Grey) Suppression
 
 At 14:15, the facility alarms sound a rhythmic, brassy toll. Crimson mist vents from the Floor 4 air ducts:
 
@@ -2486,7 +2486,7 @@ The Day 25 shift commences under heightened industrial pressure. Daily collectio
 
 Operational priorities for Day 25:
 1. Conduct high-pressure containment on **SE-C-IIIγ-145** (*Garden of Thorns*) and **SE-C-IIIγ-033** (*The Guarding Bird*).
-2. Suppress the anticipated Amber Second Watch Ordeal along Floor 2's lower trench.
+2. Suppress the anticipated Ashen Second Watch Ordeal along Floor 2's lower trench.
 3. Finalize Batch 1 promotions and armaments for the frontline vanguard.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
@@ -2535,7 +2535,7 @@ Specialist Kang enters Chamber 145 for Pugnahan combat calibration:
 ```
 
 - **Work Tick 01–03:** 3 Successes. Kang cleaves overgrown briars with his shock maul.
-- **Work Tick 04:** Failure! A razor vine whips across Kang's chest plate; 4 Red (Grudge) damage sustained. Kang's *Thorn Reflect* passive sparks, sending kinetic recoil back into the bush!
+- **Work Tick 04:** Failure! A razor vine whips across Kang's chest plate; 4 (Grudge) damage sustained. Kang's *Thorn Reflect* passive sparks, sending kinetic recoil back into the bush!
 - **Work Tick 05–08:** 4 Successes.
 - **Work Tick 09:** Failure! 4 Grudge damage sustained (HP: 46/54).
 - **Work Tick 10:** Success! Kang severs the central resonant blossom.
@@ -2546,7 +2546,7 @@ Energy meter rises to `0.068 / 0.100 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Second Watch (Amber) Suppression
+#### 3. Ordeal Manifestation: Second Watch (Ashen) Suppression
 
 At 15:30, seismic sensors on Floor 2 detect violent drilling beneath the containment trenches:
 
@@ -2559,7 +2559,7 @@ At 15:30, seismic sensors on Floor 2 detect violent drilling beneath the contain
 | INTRUSION POINT : FLOOR 2 CONTAINMENT TRENCH (NODE 02 INGRESS)      |
 | HOSTILE PARAMETERS : HP 220/220 | Posture 110/110 | Speed 4 (2 AP)  |
 | ATTACK AFFINITY : Weight (Kinetic Tremor / Obsidian Rupture)           |
-| AFFINITY VULNERABILITY: Void (Pierce / Energy Dissolution: 1.5x)    |
+| AFFINITY VULNERABILITY: Void (Skewer / Energy Dissolution: 1.5x)    |
 | SPECIAL THREAT : Subterranean burrow cancels ranged targetin        |
 | TACTICAL ORDERS : PIN AT NODE 02; BREAK CARAPACE WITH HEAVY C       |
 +=====================================================================+
@@ -2773,7 +2773,7 @@ Total daily harvest reaches **0.108 / 0.100 tons**! Quota surpassed!
 | Han Energy Harvested | 0.100 Tons | 0.108 Tons [SURPASSED]          |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [PERFECT]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Amber Second Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]     |
+| Ashen Second Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]     |
 | Meltdowns Cleared | 5/5 Cleared | 100% Rate [STABILIZED]            |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (QUARTER-CYCLE MASTERY)            |

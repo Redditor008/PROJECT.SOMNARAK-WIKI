@@ -62,7 +62,7 @@ Direct gaze shows a viewer’s sorrow without usual defense. The mirror can give
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Sorrow Lens Weapon:** Void 7–12; Speed 3; Range 3; Pierce; 3 maximum; 40 Echoes. Separates reflected grief from an identity overload.
+- **Sorrow Lens Weapon:** Void 7–12; Speed 3; Range 3; Skewer; 3 maximum; 40 Echoes. Separates reflected grief from an identity overload.
 - **Sorrow Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; 3 maximum; 35 Echoes. Protects identity while the wearer reflects grief with a witness.
 - **Sorrow Lens Stigma:** Head Stigma; 4%; +2 source-work. Reveals hidden sorrow in another person; bearer feels it as personal experience.
 

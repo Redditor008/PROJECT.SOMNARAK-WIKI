@@ -26,7 +26,7 @@ The Storm Maul is a black maul of Han steel shaped from post-Storm hail, its hea
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Evacuation Line:** The Maul moves fallen sorrow-load through up to three connected obstructions away from a marked shelter route.
 

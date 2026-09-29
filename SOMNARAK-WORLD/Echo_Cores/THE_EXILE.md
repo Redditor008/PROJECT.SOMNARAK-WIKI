@@ -95,7 +95,7 @@ His right eye is living and burnished amber-brown. His left eye is a Deep Blue s
 
 Xyan's hair is bone-white with charcoal-dark roots still visible near the scalp. It reaches the tops of his shoulders in rough, wind-separated layers and is usually tied loosely at the nape when he travels. The whitening is a stable result of Desolate exposure rather than proof that he is dying. A short dark beard follows the jaw and turns white at the chin, giving his face a mature outline distinct from the cleaner artificial faces of the Directorate's Android and Cryogen members.
 
-His artificial left arm begins at the shoulder. Dark sorrow-forged metal forms the internal load frame, while overlapping black plates cover the upper arm, elbow, forearm, and five-fingered hand. Deep Blue channels run along the inner arm and palm. The fingers retain ordinary dexterity for tools, reins, climbing lines, weapons, writing, and physical support. Black Weight bands tighten around the forearm when he anchors himself or a route against unstable ground.
+His artificial left arm begins at the shoulder. Dark sorrow-forged metal forms the internal load frame, while overlapping black plates cover the upper arm, elbow, forearm, and five-fingered hand. Deep Blue channels run along the inner arm and palm. The fingers retain ordinary dexterity for tools, reins, climbing lines, weapons, writing, and physical support. Weight bands tighten around the forearm when he anchors himself or a route against unstable ground.
 
 Both lower legs are artificial from below the knee. Their long black frames end in broad, segmented feet designed for soft, shifting, and broken terrain. Retractable surface cleats can stabilize him without locking his body into one posture. Han-crystal dust has worn the outer edges to a muted grey. The legs do not make him stomp or move like heavy machinery; the Neural Spine gives him a quiet, even gait.
 
@@ -111,7 +111,7 @@ When Xyan activates his Subject-Phantasmal Manifestation, his physical body rema
 
 A second silhouette appears half a step behind him, shaped like the same man walking through severe weather. Its edges are made from Deep Blue rain-lines and Black dust. The image repeats his movement with a slight delay, creating the impression that every step contains both the route taken and the route still being chosen.
 
-Deep Blue light travels through the left optic, artificial palm, Neural Spine, and the pale crystal lines beneath his skin. Black Weight gathers beneath his feet and extends in narrow bands along stable ground. Loose dust and cloth pull toward those bands, marking where a person can place weight safely.
+Deep Blue light travels through the left optic, artificial palm, Neural Spine, and the pale crystal lines beneath his skin. Weight gathers beneath his feet and extends in narrow bands along stable ground. Loose dust and cloth pull toward those bands, marking where a person can place weight safely.
 
 His bone-white hair and mantle lift as if struck by wind even in a sealed room. His voice gains a low second resonance resembling air moving through a distant pass, but his words remain clear and recognizably his. The effect ends when he releases the route, loses concentration, or moves beyond the Han-flow he is reading.
 
@@ -687,7 +687,7 @@ This capability helped make him a guide. It cannot permanently repair the Desola
 
 ### Returning Way
 
-Deep Blue Lament makes recent movement and pressure visible to Xyan as route-lines. Black Weight marks where that route can hold.
+Lament makes recent movement and pressure visible to Xyan as route-lines. Weight marks where that route can hold.
 
 Nearby allies can follow the visible bands while the active state persists. The effect supports group movement but does not teleport anyone, remove distance, or protect travelers who leave the marked path.
 

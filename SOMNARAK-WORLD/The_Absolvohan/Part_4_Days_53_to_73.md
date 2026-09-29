@@ -127,7 +127,7 @@ Four high-threat chambers flashing! Director Majin immediately coordinates the r
 
 All cells stabilized with 15 seconds remaining! Meltdown cleared with zero leaks.
 
-##### Ordeal Manifestation: Green Third Watch Ordeal — The Siphon Spires
+##### Ordeal Manifestation: Blue Third Watch Ordeal — The Siphon Spires
 
 At 0.180 tons harvested, the floor vents shudder. Two colossal clockwork spires burst through Floor 2 and Floor 4:
 
@@ -166,7 +166,7 @@ Director Majin establishes split-squad GBS tactical coordinates:
 - **Step 2: Movement & Action Point Spending**:
   * Specialist Park (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Judgment Maul Escapement Crusher]`.
   * Specialist Kim (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready concentrated carbine suppressive fire. Remaining 1 AP held in Guard.
-  * Specialist Hwang (Speed 6 -> 3 AP) operates from Node 6 (Range Band 3), aiming an armor-piercing Void arrow at the spire's energy conduit.
+  * Specialist Hwang (Speed 6 -> 3 AP) operates from Node 6 (Range Band 3), aiming an armor-skewer Void arrow at the spire's energy conduit.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Siphon Spire A attempts `[High-Torque Escapement Sweep]` (Base 8 + 2 Lots = 12 Power).
   * Specialist Park's `[Judgment Maul Escapement Crusher]` (Base 11 + 2 Lots = 15 Power).
@@ -363,7 +363,7 @@ Squad Beta executes synchronized suppression on Floor 4, preventing a single scu
 | Meltdowns Cleared   | 7 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Green Third Watch                           |
+| Ordeals Suppressed  | 1 Blue Third Watch                            |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -415,7 +415,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | | High Void Ward                                                  |
 +---------------------------------------------------------------------+
 | Wellspring Lens     | Weapon: 18-26 Void                            |
-| | (Piercing / Long)                                                 |
+| | (Skewer / Long)                                                   |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST                        |
 | | HWANG (CROWN & WEAPON)                                            |
@@ -557,7 +557,7 @@ Director Majin triggers the central command console:
 
 All five sectors stabilized with 11 seconds remaining! Zero breaches.
 
-##### Ordeal Manifestation: Rust Third Watch Ordeal — The Blood-Tide Shrouds
+##### Ordeal Manifestation: Grey Third Watch Ordeal — The Blood-Tide Shrouds
 
 At 0.210 tons collected, crimson fluid seeps through Floor 7's outer walls. Three colossal shroud apparitions materialize:
 
@@ -789,7 +789,7 @@ All three spectral weaves shatter in 24 seconds! Zero casualties, +28 RHR reagen
 | Meltdowns Cleared   | 8 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Rust Third Watch                         |
+| Ordeals Suppressed  | 1 Grey Third Watch                            |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -981,7 +981,7 @@ A double meltdown on *The Lost Prince* and *Garden of Thorns*! If Thorns breache
 
 Both sectors cleared with 14 seconds to spare! Crisis averted.
 
-##### Ordeal Manifestation: Amber Third Watch Ordeal — The Tremor Spiders
+##### Ordeal Manifestation: Ashen Third Watch Ordeal — The Tremor Spiders
 
 At 0.225 tons collected, subterranean arachnids burst through Floor 5's ventilation shafts:
 
@@ -1025,7 +1025,7 @@ Director Majin establishes GBS tactical coordinates at Floor 5's stairwell:
   * Specialist Park's `[Judgment Maul Thorax Impact]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Park WINS THE CLASH (15 vs 13).
     * Park's warhammer shatters the spider's front armored leg, driving it back to Node 1 and dealing **48 Weight damage** with +26 Stagger!
-  * Hwang's Void lance strikes the spider's exposed carapace from Node 6 for 36 piercing damage.
+  * Hwang's Void lance strikes the spider's exposed carapace from Node 6 for 36 skewer damage.
 
 
 ```text
@@ -1217,7 +1217,7 @@ The alpha collapses in 22 seconds, dissolving into +30 RHR reagents!
 | Meltdowns Cleared   | 8 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Amber Third Watch                           |
+| Ordeals Suppressed  | 1 Ashen Third Watch                           |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -1269,7 +1269,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | | High Grudge Ward                                                |
 +---------------------------------------------------------------------+
 | Bramble Piercer     | Weapon: 16-24 Grudge                          |
-| | (Piercing / Fast)                                                 |
+| | (Skewer / Fast)                                                   |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST BAE                    |
 | | (ARM & SUIT)                                                      |
@@ -1408,7 +1408,7 @@ At work check 16, six chambers overload simultaneously:
 
 Director Majin engages **ACOUSTIC SIPHON** from Central Command: Channels 40% of the acoustic load into Floor 8's ballast tanks, instantly clearing Chambers 008 and 115! The remaining four chambers are swept by Specialists Hwang, Song, Bae, and Park in under 20 seconds. Zero breaches!
 
-##### Ordeal Manifestation: Violet Third Watch Ordeal — The Floating Spires
+##### Ordeal Manifestation: Purple Third Watch Ordeal — The Floating Spires
 
 At 0.240 tons collected, three levitating monoliths materialize across Floors 1, 4, and 7, firing cross-floor Void death-rays!
 
@@ -1634,7 +1634,7 @@ All three spires shatter before a single auxiliary is harmed! +32 RHR reagents c
 | Meltdowns Cleared   | 9 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Violet Third Watch                          |
+| Ordeals Suppressed  | 1 Purple Third Watch                          |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -1687,7 +1687,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | Soul Ward                                                         |
 +---------------------------------------------------------------------+
 | Reflecting Edge     | Weapon: 20-28 Void                            |
-| | (Piercing / Fast)                                                 |
+| | (Skewer / Fast)                                                   |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST                        |
 | | HWANG (VISOR & WEAPON)                                            |
@@ -1711,7 +1711,7 @@ At 02:15, Ayshuk transmits acoustic hydrophone recordings of The Weeping. The ri
 
 > **Ishall:** _"Tremors on Floor 7, Director. The ventilation shafts beneath the Shadow Corps are bubbling with superheated liquid tar."_
 
-> **Xyan:** _"It is not ordinary tar, Majin. The Maw is pushing upward against Floor 8's foundation gates. An Amber Third Watch entity—a Magma Tunneler—has breached the cooling ducts at Node 02."_
+> **Xyan:** _"It is not ordinary tar, Majin. The Maw is pushing upward against Floor 8's foundation gates. An Ashen Third Watch entity—a Magma Tunneler—has breached the cooling ducts at Node 02."_
 
 > **Majin:** _"Casualties?"_
 
@@ -1739,7 +1739,7 @@ Shift parameters engaged for Day 69. Daily collection quota increases to **0.200
 
 Operational priorities for Day 69:
 1. Conduct safe containment on **SE-C-IIIγ-102** (*The Dancing Chains*).
-2. Suppress the Amber Third Watch Ordeal along Floor 7's subterranean vent core.
+2. Suppress the Ashen Third Watch Ordeal along Floor 7's subterranean vent core.
 3. Lock the bedrock foundation to prevent Maw seepage.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
@@ -1790,7 +1790,7 @@ Specialist Park enters Chamber 102 for Ferrehan containment:
 ```
 
 - **Work Tick 01–06:** 6 Successes. Park matches his breathing to the swinging chains.
-- **Work Tick 07:** Failure! An iron link whips across Park's shoulder; 5 Red (Grudge) damage sustained (HP: 67/72).
+- **Work Tick 07:** Failure! An iron link whips across Park's shoulder; 5 (Grudge) damage sustained (HP: 67/72).
 - **Work Tick 08–10:** 3 Successes.
 - **Work Result:** **9/10 Positive Han Crystals (EXCELLENT WORK RESULT)!**
 - Yield: **+0.032 tons** of refined Han lubricant extracted.
@@ -1799,7 +1799,7 @@ Energy meter climbs to `0.124 / 0.200 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Third Watch (Amber) Suppression
+#### 3. Ordeal Manifestation: Third Watch (Ashen) Suppression
 
 At 15:50, the vent floorplates of Floor 7 rupture in a geyser of magma:
 
@@ -1812,7 +1812,7 @@ At 15:50, the vent floorplates of Floor 7 rupture in a geyser of magma:
 | INTRUSION POINT : FLOOR 7 SUBTERRANEAN VENT CORE (NODE 02)          |
 | HOSTILE PARAMETERS : HP 360/360 | Posture 180/180 | Speed 4 (2 AP)  |
 | ATTACK AFFINITY : Weight / Tremor (High Kinetic Ground Shock)       |
-| AFFINITY VULNERABILITY: Void (Pierce: 1.5x) & Lament (Clear: 1.25x) |
+| AFFINITY VULNERABILITY: Void (Skewer: 1.5x) & Lament (Clear: 1.25x) |
 | SPECIAL THREAT : Burrowing sub-floor charge disrupts all nod        |
 | TACTICAL ORDERS : INTERCEPT AT NODE 02; EXPLOIT VOID VULNERAB       |
 +=====================================================================+
@@ -2018,7 +2018,7 @@ Total daily harvest reaches **0.210 / 0.200 tons**! Quota surpassed!
 | Han Energy Harvested | 0.200 Tons | 0.210 Tons [SURPASSED]          |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [CLEARED]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Amber Third Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
+| Ashen Third Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
 | Tectonic Stabilized | 100% Locked | SECURED TO BEDROCK              |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (BEDROCK DEFENDER)                 |
@@ -2472,7 +2472,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | ALLOC                                                             |
 +=====================================================================+
 | Crucible War-Hammer | Weapon: 22-30 Grudge                          |
-| | (Heavy Blunt / Slow)                                              |
+| | (Heavy Bludgeon / Slow)                                           |
 +---------------------------------------------------------------------+
 | Forge-Master's      | Suit: 0.5/0.7/0.7/1.1                         |
 | Plate               | | High Grudge Ward                            |

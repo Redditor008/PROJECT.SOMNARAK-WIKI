@@ -9,7 +9,7 @@
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 
-Heavy black maul: **δ Weight; 10–15; Speed/Range 3/3; Pierce 100/70/50%; max2; 50 Echoes.** It opens parallel ground without cutting roots; use adds weight and age.
+Heavy black maul: **δ Weight; 10–15; Speed/Range 3/3; Skewer 100/70/50%; max2; 50 Echoes.** It opens parallel ground without cutting roots; use adds weight and age.
 
 ## Appearance
 

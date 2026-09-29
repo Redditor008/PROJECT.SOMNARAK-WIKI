@@ -46,12 +46,12 @@
 |---|---|
 | Damage | Void 8–14 direct |
 | Speed / range | 3 — Normal / 4 — Long |
-| Pattern / coverage | Line Pierce / Ultrasonic Beam (up to three targets) |
+| Pattern / coverage | Line Skewer / Ultrasonic Beam (up to three targets) |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | A small, nameless memory loosens after each successful release. |
 | Binding cost | The bearer must permit another person to stop the weapon when they confuse relief with erasure. |
-| Recovery | Identity check and a ten-minute rest after a full Pierce line |
+| Recovery | Identity check and a ten-minute rest after a full Skewer line |
 
 ## COMBAT FILE
 
@@ -66,7 +66,7 @@ The Lens releases a pale piercing line that strikes active Void pressure around 
 ### Signature ability — *Held Name*
 
 **Trigger:** A witness states the affected person’s name while the bearer states what belongs to that person and what does not.  
-**Effect:** The Lens threads one clear name through the Pierce line, making it harder for Void pressure to pull the named person into emotional absence.  
+**Effect:** The Lens threads one clear name through the Skewer line, making it harder for Void pressure to pull the named person into emotional absence.  
 **Limit:** one named person per activation; the target must be present and able to be recognized.  
 **Failure state:** if the bearer uses the ability to suppress a person’s feelings rather than protect their self, the Lens creates a silent hollow around the bearer and ends all further activations for the encounter.
 

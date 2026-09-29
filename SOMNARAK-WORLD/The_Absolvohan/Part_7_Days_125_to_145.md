@@ -155,7 +155,7 @@ Tactical response execution:
 4. Specialist Lee secures Chamber 014 (*Debt Veil*) with 19.4 seconds remaining.
 5. Specialist Kang clears Chamber 061 (*The Debtor*). All six cells safely locked down.
 
-##### Tactical Engagement / Ordeal Suppression: The Gluttonous Chitin (Amber Second Watch)
+##### Tactical Engagement / Ordeal Suppression: The Gluttonous Chitin (Ashen Second Watch)
 
 At 14:15, tectonic sensors register armored burrowers breaching Floor 2's central corridor:
 
@@ -170,7 +170,7 @@ At 14:15, tectonic sensors register armored burrowers breaching Floor 2's centra
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 2x Armored Burrowing Beetles                            |
 | - Attack Affinity: Weight (Chitinous Crunch)                        |
-| - Weakness Affinity: Grudge (Blunt Impact)                          |
+| - Weakness Affinity: Grudge (Bludgeon Impact)                       |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
 | - Beetles breach corridor sub-flooring                              |
@@ -588,7 +588,7 @@ Tactical response execution:
 4. Specialist Bae secures Chamber 897 (*The Haven Wall*).
 5. Specialist Kang locks Chamber 762 (*The Burning Bridge*). All six cells stabilized.
 
-##### Tactical Engagement / Ordeal Suppression: The Rust Siphon (Rust Third Watch)
+##### Tactical Engagement / Ordeal Suppression: The Rust Siphon (Grey Third Watch)
 
 At 15:40, two colossal bleeding conduits manifest in Floor 7's Main Atrium:
 
@@ -870,7 +870,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-904 (*The Verdant Co
 | ITEM FORGED          | PROPERTIES / ALLOC                           |
 +---------------------------------------------------------------------+
 | Wasteland Needle     | Weapon: Range Band 3,                        |
-| | Piercing Void Strike.                                             |
+| | Skewer Void Strike.                                               |
 | | Alloc: Specialist Noh.                                            |
 +---------------------------------------------------------------------+
 | Verdant Compass      | Trinket: +10% Evasion,                       |
@@ -1029,7 +1029,7 @@ Tactical response execution:
 4. Specialist Shin soothes Chamber 033 (*The Guarding Bird*).
 5. Specialist Jin secures Chamber 081 (*The Hollow Saint*). Meltdown averted without avian agitation.
 
-##### Tactical Engagement / Ordeal Suppression: The Clockwork Sweeper (Green Second Watch)
+##### Tactical Engagement / Ordeal Suppression: The Clockwork Sweeper (Blue Second Watch)
 
 At 14:50, two high-speed mechanical sweepers breach Floor 6's hydraulic plaza:
 
@@ -1044,7 +1044,7 @@ At 14:50, two high-speed mechanical sweepers breach Floor 6's hydraulic plaza:
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 2x Rapid Clockwork Scythes                              |
 | - Attack Affinity: Weight (Rotary Laceration)                       |
-| - Weakness Affinity: Grudge (Blunt Smash)                           |
+| - Weakness Affinity: Grudge (Bludgeon Smash)                        |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
 | - Sweepers patrol corridor at high velocity                         |
@@ -1082,7 +1082,7 @@ Director Majin establishes GBS tactical engagement in the Hydraulic Plaza:
   * Specialist Kang (Speed 6 -> 3 AP) plants his boots at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Heavy Maul Kinetic Blade-Lock]`. Remaining 1 AP in Guard.
   * Specialist Jin (Speed 6 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to ready `[Choral Bell Resonant Sonic Pulse]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Clockwork Sweeper A charges with `[High-Speed Rotary Scythe Slash]` (Base 10 + 2 Lots = 14 Power).
+  * Clockwork Sweeper A charges with `[High-Speed Rotary Scythe Gash]` (Base 10 + 2 Lots = 14 Power).
   * Specialist Kang's `[Heavy Maul Kinetic Blade-Lock]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Kang WINS THE CLASH (16 vs 14).
     * Kang locks his maul head against the whirling scythe, grinding its drive teeth to a dead halt and dealing **52 Grudge damage** with +28 Stagger!
@@ -1458,7 +1458,7 @@ Tactical response execution:
 4. Specialist Bae secures Chamber 041 (*The Tear Droplet*).
 5. All six overloads neutralized without a single accidental blessing.
 
-##### Tactical Engagement / Ordeal Suppression: The Void Siphon (Violet Third Watch)
+##### Tactical Engagement / Ordeal Suppression: The Void Siphon (Purple Third Watch)
 
 At 16:20, two floating Void wells manifest in Floor 4's Sub-Vault Gallery:
 
@@ -1728,7 +1728,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-910 (*The Chrysalis 
 | | Hope Ward. Alloc: Bae.                                            |
 +---------------------------------------------------------------------+
 | Dawn Filament        | Weapon: Range Band 4,                        |
-| | Piercing Lament/Hope.                                             |
+| | Skewer Lament/Hope.                                               |
 | | Alloc: Specialist Yoon.                                           |
 +=====================================================================+
 ```
@@ -1883,7 +1883,7 @@ Tactical response execution:
 4. Specialist Tak secures Chamber 190 (*The Rage Statue*).
 5. All six overloads quenched smoothly.
 
-##### Tactical Engagement / Ordeal Suppression: The Subterranean Burrower (Amber Third Watch)
+##### Tactical Engagement / Ordeal Suppression: The Subterranean Burrower (Ashen Third Watch)
 
 At 16:45, two colossal chitin trench worms breach Floor 5's drainage sub-plaza:
 
@@ -1898,7 +1898,7 @@ At 16:45, two colossal chitin trench worms breach Floor 5's drainage sub-plaza:
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 2x Colossal Chitin Trench Worms                         |
 | - Attack Affinity: Crushing Weight & Bite                           |
-| - Weakness Affinity: High-Velocity Pierce                           |
+| - Weakness Affinity: High-Velocity Skewer                           |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
 | - Worms breach beneath refugee forge line                           |
@@ -2316,7 +2316,7 @@ Tactical response execution:
 4. Specialist Hong calms Chamber 081 (*The Hollow Saint*).
 5. All six overloads neutralized with zero containment breach.
 
-##### Tactical Engagement / Ordeal Suppression: The Horizon of Hope (Pale Tide Watch)
+##### Tactical Engagement / Ordeal Suppression: The Horizon of Hope (Ashen Tide Watch)
 
 At 17:15, a radiant, shimmering gateway manifests in Floor 3's Archive Rotunda:
 

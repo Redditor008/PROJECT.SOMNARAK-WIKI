@@ -216,7 +216,7 @@ The Glass Burrower utilized terrifying speed and mass to breach from beneath the
     * **TARGETED PART DESTROYED**: The Crushing Mandibles are completely destroyed (**Mandibles HP: 0/1,400** credit)!
     * **EFFECT**: Beast cannot submerge back into the sand; permanently loses 1 Speed Slot!
   * **Chitin Carapace Damage**:
-    * Cable tension whips the beast against the armored prow for **340 Blunt damage**!
+    * Cable tension whips the beast against the armored prow for **340 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Mandibles: **DESTROYED (0/1,400 HP)**.
   * Chitin Carapace: 1,800 -> **1,460/1,800** | Posture: **248/320**.
@@ -317,7 +317,7 @@ The Glass Burrower utilized terrifying speed and mass to breach from beneath the
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Kael's `[Four-Fold Cleaver Execution]`: Drives into the siphon bladder for **1,060 Heavy Weight damage** (Exposed 2.0x proc!)!
   * Kael's `[Seismic Impact]`: Slices through the remaining armor plates for **460 Shatter damage**!
-  * Spinal Slag Barrage: Superheated iron rounds obliterate the carapace collar for **460 Fire/Blunt damage**!
+  * Spinal Slag Barrage: Superheated iron rounds obliterate the carapace collar for **460 Fire/Bludgeon damage**!
   * **TOTAL BURST DAMAGE: 1,980 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (2,160 HP) COMPLETELY SKIPPED!**:
   * Leviathan HP plunges from 2,620 down to **640/5,400 HP**! Chitin Carapace completely destroyed (0/1,800 HP)!

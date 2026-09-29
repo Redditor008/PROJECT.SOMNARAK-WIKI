@@ -155,7 +155,7 @@ The King of Menders functions as an interconnected quadripartite modular combat 
 | SKILL NAME          | AP | RANGE BAND    | DAMAGE TYPE & BASE       |
 +---------------------------------------------------------------------+
 | Needle Warren Tether| 1  | Band 2-4 Area | Piercing / Base 22       |
-| Debt-Suture Flurry  | 2  | Band 1-2      | Han-Pierce / Base 25     |
+| Debt-Suture Flurry  | 2  | Band 1-2      | Han-Skewer / Base 25     |
 | Boiling Basalt Slag | 2  | Band 1-3 Area | Heat+Weight / Base 26    |
 | Flesh-Graft Suture  | 2  | Self / Target | Restore 150 HP + Post    |
 | Grand Foreclosure   | 4  | Band 1-5 Global| Ultimate / Base 38      |
@@ -168,8 +168,8 @@ The King of Menders functions as an interconnected quadripartite modular combat 
 - **Destruction:** Wire anchors possess 80 HP and can be destroyed via blunt attacks.
 
 ### 5.2 Skill 2: Debt-Suture Flurry
-- **Cost:** 2 AP • **Range Band:** Band 1-2 • **Damage Type:** Han-Piercing • **Base Clash Value:** 25
-- **Damage Profile:** Three rapid needle strikes dealing 15/15/20 piercing damage.
+- **Cost:** 2 AP • **Range Band:** Band 1-2 • **Damage Type:** Han-Skewer • **Base Clash Value:** 25
+- **Damage Profile:** Three rapid needle strikes dealing 15/15/20 skewer damage.
 - **Debt Mark Stacking:** Applies 1 stack of *Debt Mark* per successful hit. Each stack increases damage taken from execution skills by 10%. At 5 stacks, flags target for *Foreclosure*.
 
 ### 5.3 Skill 3: Boiling Basalt Slag
@@ -213,7 +213,7 @@ The King of Menders functions as an interconnected quadripartite modular combat 
 
 | Squad Role | Recommended Callsign Archetype | Preferred M.A.W. Set | Tactical Function |
 |---|---|---|---|
-| **Heavy Kinetic Breaker** | Hydraulic Piston Specialist | Grade 4 Heavy Blunt | Exploits 1.4x Weight vulnerability on Needle Arm |
+| **Heavy Kinetic Breaker** | Hydraulic Piston Specialist | Grade 4 Heavy Bludgeon | Exploits 1.4x Weight vulnerability on Needle Arm |
 | **Fortress Anchor** | Heavy Shield Warden (Posture 160+) | Grade 4 Bastion Plate | Intercepts *Boiling Basalt Slag*; shields frontline |
 | **Debt Cleaner / Specialist** | Acoustic Needler (Clarity 120+) | Grade 4 Acoustic Needle | Purges *Debt Marks*; snipes Tethered Sump |
 | **Anti-Material Marksman** | Void Railgun Sniper (Band 4) | Grade 4 Void Rifle | Destroys Core Boiler from afar without triggering aura |
@@ -230,7 +230,7 @@ Upon achieving terminal Composure Meltdown against The King of Menders, the UCD 
 +=====================================================================+
 | RECOVERED ARTIFACT  | TYPE   | GRADE | RESONANCE & SPECIAL EFFECT   |
 +---------------------------------------------------------------------+
-| Sovereign SutureMaul| Weapon | Gr 5  | Heavy Blunt / Debt Hook      |
+| Sovereign SutureMaul| Weapon | Gr 5  | Heavy Bludgeon / Debt Hook   |
 | Flesh-Welder Apron  | Suit   | Gr 5  | Grudge 0.4x, Heat Proof      |
 | The Debt Needle     | Stigma   | Gr 5  | Applies Stacking Debt      |
 | Grandmaster Ledger  | Relic  | Gr 5  | Reflects 15% Debt Strain     |
@@ -240,13 +240,13 @@ Upon achieving terminal Composure Meltdown against The King of Menders, the UCD 
 ### 7.1 Detailed M.A.W. Equipment Specifications
 
 - **Weapon: The Sovereign Suture Maul (`MAW-W-MNDR`)**
-  * **Classification:** Grade 5 Legendary Heavy Blunt / Piercing Relic
+  * **Classification:** Grade 5 Legendary Heavy Bludgeon / Piercing Relic
   * **Base Clash Power:** 28 • **Range Band:** Band 1-2 (Mid)
   * **Resonance Passive (Debt Hook):** Every successful hit applies 1 Debt Mark to the target. If the target has 3+ Debt Marks, deals +40% bonus crushing damage and inflicts 15 Posture strain.
 - **Suit: The Flesh-Welder's Apron (`MAW-S-MNDR`)**
   * **Classification:** Grade 5 Legendary Heavy Bastion Apron
   * **Defensive Resistances:** Grudge 0.4x (Immune) • Weight 0.6x • Lament 1.0x • Void 1.2x
-  * **Resonance Passive (Slag-Proof Plating):** Complete immunity to burn, bleed, and heat terrain hazards. When struck by a piercing attack, converts 15% of damage into armor plating.
+  * **Resonance Passive (Slag-Proof Plating):** Complete immunity to burn, bleed, and heat terrain hazards. When struck by a skewer attack, converts 15% of damage into armor plating.
 - **Stigma: The Debt Needle (`MAW-G-MNDR`)**
   * **Classification:** Grade 5 Legendary Accessory (Chest Brooch)
   * **Equip Effect:** +25 Max Posture • +15 Max HP.

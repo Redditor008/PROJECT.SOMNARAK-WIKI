@@ -46,7 +46,7 @@ During the The Repose Source-Trace, the field team preserved this source fact: A
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Ruin Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-844-B__MAW-W_The_Ruin_Requiem.md` |
+| The Ruin Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-844-B__MAW-W_The_Ruin_Requiem.md` |
 | The Ruin Pillow | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-844-C__MAW-S_The_Ruin_Pillow.md` |
 | The Ruin Charm | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-844-D__MAW-G_The_Ruin_Charm.md` |
 

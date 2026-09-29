@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Frozen Fury Lens
 
-> *“Pierce the false record. Never pierce the ice to free what the final moment contains.”*
+> *“Skewer the false record. Never pierce the ice to free what the final moment contains.”*
 
 ---
 
@@ -20,7 +20,7 @@ The Frozen Fury Lens is a circular weapon of pale glass taken from the corrected
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Void | 10–15 | 3 / 3 | Pierce 100/70/50% | 2 / 50 Echoes |
+| δ / Void | 10–15 | 3 / 3 | Skewer 100/70/50% | 2 / 50 Echoes |
 
 **Blame Excision:** pierces false attribution across up to three linked records. Each use removes a small memory; striking ice releases Full Thaw.
 

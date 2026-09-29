@@ -151,7 +151,7 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Stasis Caliper: Clamp Lock]`. Holds 1 AP in Guard.
   * The Memory Thief (Speed 7 -> 4 AP, Feather Ephemera delta +2, Crit +35%): Steps to Node 04. Spends 2 AP on `[Glass Dagger: Identity Siphon]`. Spends 2 AP on `[Mirage Ambush]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 04)**: The Memory Thief lunges from the mirrors with `[Glass Dagger: Identity Siphon]` (Base 17 + 2 Lots = 27 Power, Pierce/Lament).
+  * **Clash 1 (Node 02 to 04)**: The Memory Thief lunges from the mirrors with `[Glass Dagger: Identity Siphon]` (Base 17 + 2 Lots = 27 Power, Skewer/Lament).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 20 + 2 Lots = 32 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (32 vs 27)!
     * Seiyon parries both glass blades simultaneously; the high-frequency vibration shatters against the holographic barrier (`[P3: Parry/Protection]`).
@@ -201,15 +201,15 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Stasis Clamp]`. Holds 1 AP in Guard.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 04)**: The Memory Thief executes `[Siphon of the Thousand Faces]` (Base 18 + 2 Lots = 26 Power, Piercing Void).
-    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 24 + 3 Lots Marked = 42 Power, Void Slash).
+  * **Clash 1 (Node 03 to 04)**: The Memory Thief executes `[Siphon of the Thousand Faces]` (Base 18 + 2 Lots = 26 Power, Skewer Void).
+    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 24 + 3 Lots Marked = 42 Power, Void Gash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (42 vs 26)!
     * Seiyon slices through the twin glass daggers at the hilt; the crystalline blades detonate into thousands of harmless shards!
     * Deals **690 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Glass Mnemonic Daggers are completely destroyed (**Daggers HP: 0/900** credit)!
     * **EFFECT**: Boss identity siphon attack permanently disabled; boss permanently loses 1 Speed Slot!
   * **Facemask Shield Damage**:
-    * Drone's `[Stasis Clamp]` crumbles the outer rim of the Facemask Veil for **180 Blunt damage**!
+    * Drone's `[Stasis Clamp]` crumbles the outer rim of the Facemask Veil for **180 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Glass Daggers: **DESTROYED (0/900 HP)**.
   * Facemask Veil: 1,100 -> **920/1,100** | Posture: **184/240**.
@@ -249,16 +249,16 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * Shorn of its weapons, the Thief channels `[Mirage Distortion Wail]` through the Facemask Veil.
   * Seiyon gains `Mnemonic Surge` (+2 Speed -> Net Speed 8, 4 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Prismatic Needle: Core Pierce]`. Spends 2 AP on `[Counter-Stance]`.
+  * Seiyon (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Prismatic Needle: Core Skewer]`. Spends 2 AP on `[Counter-Stance]`.
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Pneumatic Ram]`. Holds 1 AP in Guard.
   * Resonant Lens: Focuses sensor pulse on the porcelain mask.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 04)**: The Memory Thief emits `[Mirage Distortion Wail]` (Base 17 + 2 Lots = 25 Power, Area Lament).
-    * Seiyon executes `[Prismatic Needle: Core Pierce]` (Base 22 + 2 Lots = 34 Power, High-Precision Pierce).
+    * Seiyon executes `[Prismatic Needle: Core Skewer]` (Base 22 + 2 Lots = 34 Power, High-Precision Skewer).
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon's needle strikes the porcelain mask directly between the eyes!
     * The Facemask Veil shatters into chalk-white dust, revealing the hollow, swirling shadow core beneath!
-    * Deals **480 Pierce/Void damage** and +76 Posture Strain!
+    * Deals **480 Skewer/Void damage** and +76 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,520 HP), falling to **1,820/3,600 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The Memory Thief collapses against the mirror wall; all defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -304,8 +304,8 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * Resonant Lens: Broadcasts `[Harmonic Clarity Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the shadow core for **740 Void damage** (Exposed 2.0x proc!)!
-  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining mask fragments for **360 Pierce damage**!
-  * Drone's `[Ground Shockwave]`: Smashes the mirror footing for **180 Blunt damage**!
+  * Seiyon's `[Mnemonic Drive]`: Slices through the remaining mask fragments for **360 Skewer damage**!
+  * Drone's `[Ground Shockwave]`: Smashes the mirror footing for **180 Bludgeon damage**!
   * Lens's `[Clarity Wave]`: Disperses shadow smoke for **120 Void damage**!
   * **TOTAL BURST DAMAGE: 1,400 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (1,440 HP) COMPLETELY SKIPPED!**:
@@ -444,7 +444,7 @@ At the terminus of the gallery, the largest sheet of Before-Time silver cracked 
 | - [Glass Dagger Flurry] : Spends 2 AP | Power 16-22                    |
 |   | High Crit Chance                                                   |
 | - [Mirage Severance]    : Spends 3 AP | Power 22-30                    |
-|   | Pierce/Void Cleave                                                 |
+|   | Skewer/Void Cleave                                                 |
 +========================================================================+
 ```
 

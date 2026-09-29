@@ -22,7 +22,7 @@ The Sehnsucht Maul is a black maul of Han steel whose head points parallel to th
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Weight | 7–12 | 3 / 3 | Pierce | 3 / 40 |
+| γ / Weight | 7–12 | 3 / 3 | Skewer | 3 / 40 |
 
 **Surface Release:** Clears up to three lateral pressure paths while preserving burial depth.
 

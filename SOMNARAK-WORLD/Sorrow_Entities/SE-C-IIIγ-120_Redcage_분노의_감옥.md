@@ -220,7 +220,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Attack Pattern:** Pierce
+**Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.

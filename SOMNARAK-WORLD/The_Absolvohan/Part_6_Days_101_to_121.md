@@ -592,7 +592,7 @@ Tactical response execution:
 4. Specialist Yoo clears Chamber 300 (*The Memory Lock*).
 5. All six overloads neutralized without breach.
 
-##### Tactical Engagement / Ordeal Suppression: The Melting Cog (Violet Second Watch)
+##### Tactical Engagement / Ordeal Suppression: The Melting Cog (Purple Second Watch)
 
 At 14:40, a grinding mechanical roar echoes through Floor 6's hydraulic transit hall:
 
@@ -609,7 +609,7 @@ At 14:40, a grinding mechanical roar echoes through Floor 6's hydraulic transit 
 | - Attack Affinity: Weight (Gravitational)                           |
 | Shear and Crushing Torque)                                          |
 | - Weakness Affinity: Grudge (High-Velocity)                         |
-| Blunt Impact and Puncture)                                          |
+| Bludgeon Impact and Puncture)                                       |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
 | - Cog rolls down corridor at high velocity                          |
@@ -677,7 +677,7 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 +=====================================================================+
 ```
 
-###### Turn 02 Action Resolution Log (Axle Pierce & Stagger Build)
+###### Turn 02 Action Resolution Log (Axle Skewer & Stagger Build)
 - **Thermal Sunder & Axle Smash**:
   * **Extraction Lead Zyrak**: Drives the high-heat thermal lance directly through the cog's central drive axle at Node 02:
     * Deals **44 Grudge Damage**!
@@ -793,8 +793,8 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 ```
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
-- **Climax Thermal Pierce**:
-  * Zyrak executes `[Climax Thermal Pierce]`. The core detonates inside the stasis field, dissolving into melted slag and refined Han vapor.
+- **Climax Thermal Skewer**:
+  * Zyrak executes `[Climax Thermal Skewer]`. The core detonates inside the stasis field, dissolving into melted slag and refined Han vapor.
   * Floor 3 collection flues harvest **+0.024 tons of refined Han**!
 
 
@@ -1473,7 +1473,7 @@ Tactical response execution:
 4. Specialist Kwak clears Chamber 088 (*The Sorrow Fountain*).
 5. All six overloads stabilized without incident.
 
-##### Tactical Engagement / Ordeal Suppression: The Dawn Spark (Pale Tide Watch)
+##### Tactical Engagement / Ordeal Suppression: The Dawn Spark (Ashen Tide Watch)
 
 At 16:30, a blinding cyan core manifests in the Floor 4 Sub-Central Hall:
 
@@ -1776,7 +1776,7 @@ Majin places his hand against the lead: *"Day 160. When the weapon fires, the tw
 
 > **Majin:** _"Which names?"_
 
-> **Dekan:** _"The miners of the Fourth Sub-Vault. The children who starved in Sector 9 before the Before-Time ended. And beneath them... an Amber Third Watch behemoth has risen through the basalt siphon pipes on Floor 2."_
+> **Dekan:** _"The miners of the Fourth Sub-Vault. The children who starved in Sector 9 before the Before-Time ended. And beneath them... an Ashen Third Watch behemoth has risen through the basalt siphon pipes on Floor 2."_
 
 > **Zyrak:** _"It brought three hundred tons of river silt with it. If that mud clogs our extraction turbines, the entire floor will overheat."_
 
@@ -1802,7 +1802,7 @@ Shift parameters engaged for Day 117. Daily harvest quota climbs to **0.280 tons
 
 Operational priorities for Day 117:
 1. Maintain safe siphoning on **SE-C-Iα-008** (*The Maw*).
-2. Suppress the Amber Third Watch Ordeal along Floor 2's basalt siphon vault.
+2. Suppress the Ashen Third Watch Ordeal along Floor 2's basalt siphon vault.
 3. Advance veteran operative proficiencies using the Four P-Framework.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
@@ -1854,7 +1854,7 @@ Containment Lead Dekan conducts Pugnahan calibration at the Maw's edge:
 ```
 
 - **Work Tick 01–06:** 6 Successes. Dekan drives the basalt siphon into the tar.
-- **Work Tick 07:** Failure! A tar tendril lashes his chest; 6 Black (Weight) damage sustained (SP: 74/80).
+- **Work Tick 07:** Failure! A tar tendril lashes his chest; 6 (Weight) damage sustained (SP: 74/80).
 - **Work Tick 08–10:** 3 Successes.
 - **Work Result:** **9/10 Positive Han Crystals (EXCELLENT WORK RESULT)!**
 - Yield: **+0.038 tons** of refined Han lubricant extracted.
@@ -1863,7 +1863,7 @@ Energy meter climbs to `0.178 / 0.280 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Third Watch (Amber) Suppression
+#### 3. Ordeal Manifestation: Third Watch (Ashen) Suppression
 
 At 16:10, boiling river silt floods the Floor 2 siphon vault:
 
@@ -2084,7 +2084,7 @@ Total daily harvest reaches **0.292 / 0.280 tons**! Quota surpassed!
 | Han Energy Harvested | 0.280 Tons | 0.292 Tons [SURPASSED]          |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [CLEARED]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Amber Third Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
+| Ashen Third Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
 | Maw Siphon Synchronized| 100% Stable | TAR BACK-PRESSURE ZERO       |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (MAW DEFENDER MASTER)              |
@@ -2270,7 +2270,7 @@ Tactical response execution:
 4. Specialist Park clears Chamber 001 (*The Bell*).
 5. Specialist Kim secures Chamber 005 (*The Mother*). All six cells safely locked.
 
-##### Tactical Engagement / Ordeal Suppression: The Foundation Shard (Violet Tide Watch)
+##### Tactical Engagement / Ordeal Suppression: The Foundation Shard (Purple Tide Watch)
 
 At 17:00, space shatters in Floor 1's Central Command Atrium:
 
@@ -2285,7 +2285,7 @@ At 17:00, space shatters in Floor 1's Central Command Atrium:
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 1x Floating Monolith of Pre-Time                        |
 | - Attack Affinity: Weight (Gravitational)                           |
-| - Weakness Affinity: Grudge (Blunt Shatter)                         |
+| - Weakness Affinity: Grudge (Bludgeon Shatter)                      |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
 | - Monolith pins command staff under 3.5G                            |
@@ -2359,7 +2359,7 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
     * Deals **48 Grudge Damage**!
     * Inflicts +38 Posture Strain. Shard Posture drops to **58/160**, breaching the **60% Posture Threshold (96 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The geometric fracture wavers and destabilizes.
-  * Director Majin uses tactical command to reroll speed dice for optimal positioning.
+  * Director Majin uses tactical command to reroll tempo dice for optimal positioning.
   * Shard HP drops to **172/340**!
 
 ---

@@ -46,7 +46,7 @@ During the The Pent Source-Trace, the field team preserved this source fact: A w
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Vanished Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-821-B__MAW-W_The_Vanished_Fang.md` |
+| The Vanished Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-821-B__MAW-W_The_Vanished_Fang.md` |
 | The Vanished Plate | δ; L/G/V/W 1 (Normal)/0.4 (Resistant)/1.8 (Weak)/1.2 (Weak); max 2; 45 Sorrow Echoes | `SE-821-C__MAW-S_The_Vanished_Plate.md` |
 | The Vanished Breath | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-821-D__MAW-G_The_Vanished_Breath.md` |
 

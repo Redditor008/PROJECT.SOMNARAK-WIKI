@@ -167,7 +167,7 @@ Dropping silently from the dome was the station's parasite queen: **SECC-E18 "Th
  ELITE BREACH: SECC-E18 "THE SIPHON ARACHNID" (Grade-β Potency)
 ================================================================================
  BOSS ATTRIBUTES:
- - Health (HP): 1,850 | Speed Dice: 2–6 (2 Action Slots)
+ - Health (HP): 1,850 | Tempo Dice: 2–6 (2 Action Slots)
  - Weaknesses: Grudge (Exposed 2.0x — Explosive friction shatters glass abdomen)
  - Primary Threat: [Tensile Cable Webbing] — Roots specialists, inflicting -3 Speed
 ================================================================================
@@ -215,9 +215,9 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
  COMBAT PROFILE:
  - Maximum Health (HP): 3,200
  - Stagger Thresholds: 2,240 HP (70%) | 1,280 HP (40%) | 320 HP (10%)
- - Base Defense: 50 | Speed Dice: 3–6 (3 Attack Slots, 4 in Phase 2)
+ - Base Defense: 50 | Tempo Dice: 3–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
-   * Grudge : 0.5x (Endured — Tempered in volcanic brake-friction)
+   * Grudge : 0.5x (Withstood — Tempered in volcanic brake-friction)
    * Lament: 1.5x (Weakness — Rusts locomotive gears and joints)
    * Void : 2.0x (Exposed Weakness — Directly disrupts the guilt core)
    * Weight    : 1.0x (Normal — Solid kinetic impact)
@@ -385,15 +385,15 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * Harin (Speed 4 -> 2 AP): Holds Node 03, deflecting compressed locomotive steam with `[Bulwark Stance]`.
   * Yeonhwa (Speed 7 -> 4 AP): Casts `[Sonar Fault Lock]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: SECC-041 snaps with `[Dual Pincer Guillotine]` (Base 16 + 2 Lots = 24 Power, Pierce/Slash).
-    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 22 + 3 Lots Marked = 37 Power, Void Slash).
+  * **Clash 1 (Node 07 to 05)**: SECC-041 snaps with `[Dual Pincer Guillotine]` (Base 16 + 2 Lots = 24 Power, Skewer/Gash).
+    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 22 + 3 Lots Marked = 37 Power, Void Gash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (37 vs 24)!
     * The dark relic cleaver slices cleanly through the left hydraulic mandible!
     * Deals **380 Critical Void damage** (Exposed 2.0x proc!) and wipes out the part's remaining health!
     * **TARGETED PART DESTROYED**: The Armored Rail Mandibles shatter into twisted iron teeth (**Mandible HP: 0/850**)!
     * **EFFECT**: Boss crushing pincer attacks permanently disabled; boss loses 1 Speed Slot!
   * **Sapper Flange Puncture**:
-    * Doha's `[Tungsten Chisel Bore]` punches through Segment 3 of the Carapace Plating, dealing **185 Blunt damage**!
+    * Doha's `[Tungsten Chisel Bore]` punches through Segment 3 of the Carapace Plating, dealing **185 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Armored Rail Mandibles: **DESTROYED (0/850 HP)**.
   * Carapace Plating: 1,100 -> **790/1,100** | Posture: **182/250**.
@@ -446,7 +446,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
     * Doha clashes with `[Sapper Counter-Lever]` (Base 19 + 2 Lots = 31 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (31 vs 24)!
     * Doha levers his pneumatic drill under the plating seams; the massive retaining bracket pops off with a deafening metallic screech!
-    * Carapace takes **310 Blunt damage** and +64 Posture Strain!
+    * Carapace takes **310 Bludgeon damage** and +64 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% (2,240 HP) down to **1,950/3,200 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The locomotive engine derails onto its side. All defenses fall to zero; takes +50% damage across all incoming attacks!
@@ -539,7 +539,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 ###### Turn 05 Action Resolution Log (Phase 2 Escalation: Betrayal Overload & Vow of the Low Bulwark)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Sovereign recovers, steam erupting violently from all 40 boiler valves!
-  * Speed Dice unlocks 4th slot! The searchlight core blinds the concourse with agonizing pale glare:
+  * Tempo Dice unlocks 4th slot! The searchlight core blinds the concourse with agonizing pale glare:
     `[All-Stations Overdrive Screech]` (AoE Hazard, 3 Lots).
   * Harin activates Relic Overdrive: `[VOW OF THE LOW BULWARK — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:

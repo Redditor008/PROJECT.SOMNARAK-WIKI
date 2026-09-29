@@ -45,7 +45,7 @@
 |---|---|
 | Damage | Lament 7–12 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | The bearer accumulates the Fountain’s unwept grief. |
@@ -67,7 +67,7 @@ A blue line pierces through a target or line of targets with Lament pressure. Th
 ### Signature ability — *Undertow Chorus*
 
 **Trigger:** The bearer names the loss or pressure being answered, without naming an unwilling person as the cause.  
-**Effect:** The Requiem’s note continues through the full Pierce line and prevents an escalating Lament surge from becoming a silent collapse for one engagement interval.  
+**Effect:** The Requiem’s note continues through the full Skewer line and prevents an escalating Lament surge from becoming a silent collapse for one engagement interval.  
 **Limit:** It cannot be used twice before the bearer has allowed the first aftertone to be witnessed.  
 **Failure state:** If the bearer swallows back the tears after activation, the liquid Han climbs the grip and locks the blade in its sheath.
 

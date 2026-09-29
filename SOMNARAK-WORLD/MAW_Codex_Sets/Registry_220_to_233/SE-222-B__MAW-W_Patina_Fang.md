@@ -29,7 +29,7 @@ Patina Fang is a fang-curved blade of crimson Han iron — dark, warm to the tou
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Grudge | 10–15 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 2 / 50 Echoes |
+| δ / Grudge | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
 
 **Chain-Cut:** Fang follows a line of inherited hostility through up to three markers or structures. It attacks Body and structural integrity. A living person may be struck only for present conduct documented independently of ancestry.
 

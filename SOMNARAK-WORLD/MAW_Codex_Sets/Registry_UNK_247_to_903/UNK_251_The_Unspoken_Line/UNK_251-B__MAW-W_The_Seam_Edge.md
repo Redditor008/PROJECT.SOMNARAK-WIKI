@@ -10,7 +10,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
-**β Void; 5–9; Speed 3; Range 3; Pierce; max 4; 25 Echoes.** It cuts silence and estrangement. The wielder feels every person they stopped speaking to.
+**β Void; 5–9; Speed 3; Range 3; Skewer; max 4; 25 Echoes.** It cuts silence and estrangement. The wielder feels every person they stopped speaking to.
 
 ## CANONICAL SOURCE STAT BLOCK
 
@@ -24,7 +24,7 @@
 | Damage | Void 5–9 |
 | Speed | 3 (Fast) |
 | Range | 3 (Medium) |
-| Attack Pattern | Pierce |
+| Attack Pattern | Skewer |
 | Target Coverage | A seam-line through up to 3 estranged targets |
 | Falloff Rule | Primary 100% → first crossed bond 70% → second crossed bond 50%. |
 | Max Amount | 4 |

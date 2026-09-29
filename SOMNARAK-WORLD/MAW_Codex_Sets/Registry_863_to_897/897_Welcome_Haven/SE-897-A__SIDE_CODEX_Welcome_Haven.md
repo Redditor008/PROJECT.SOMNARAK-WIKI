@@ -46,7 +46,7 @@ During the The Welcome Haven Source-Trace, the field team preserved this source 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Broken Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-897-B__MAW-W_The_Broken_Fang.md` |
+| The Broken Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-897-B__MAW-W_The_Broken_Fang.md` |
 | The Broken Barrier | δ; L/G/V/W 1 (Normal)/0.4 (Resistant)/1.8 (Weak)/1.2 (Weak); max 2; 45 Sorrow Echoes | `SE-897-C__MAW-S_The_Broken_Barrier.md` |
 | The Broken Charm | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-897-D__MAW-G_The_Broken_Charm.md` |
 

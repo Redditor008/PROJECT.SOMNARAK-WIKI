@@ -46,7 +46,7 @@ During the The Well Within Source-Trace, the field team preserved this source fa
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Well Within Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-1037-B__MAW-W_Well_Within_Fang.md` |
+| Well Within Fang | δ Grudge 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-1037-B__MAW-W_Well_Within_Fang.md` |
 | Well Within Plate | δ; L/G/V/W 1 (Normal)/0.4 (Resistant)/1.8 (Weak)/1.2 (Weak); max 2; 45 Sorrow Echoes | `SE-1037-C__MAW-S_Well_Within_Plate.md` |
 | Well Within Stone | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-1037-D__MAW-G_Well_Within_Stone.md` |
 

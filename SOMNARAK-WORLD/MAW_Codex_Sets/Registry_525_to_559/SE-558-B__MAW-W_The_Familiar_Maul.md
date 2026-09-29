@@ -23,7 +23,7 @@ Durivel extracted it in Collector’s Row after a Ferrehan cycle in which the or
 | Grade / Element | γ / Weight |
 | Damage | 7–12 Weight |
 | Speed / Range | 3 (Fast) / 3 (Medium) |
-| Pattern | Pierce; line, up to 3 targets |
+| Pattern | Skewer; line, up to 3 targets |
 | Falloff | Primary 100% → first pierced 70% → second pierced 50% |
 | Maximum / Echo cost | 3 / 40 Sorrow Echoes |
 | Operational cost | Each committed swing adds perceived body-weight until discharged |
@@ -54,7 +54,7 @@ The Maul retains the sound of that halted swing. Near coerced obligation it hums
 
 | Failure | Trigger | Result | Recovery |
 |---|---|---|---|
-| Bloodline Pierce | Calling inherited burden “identity” | Strike redirects through related names | Separate personnel; perform Viderehan over the written line |
+| Bloodline Skewer | Calling inherited burden “identity” | Strike redirects through related names | Separate personnel; perform Viderehan over the written line |
 | False Absolution | Swinging to erase accountability | The wielder receives the target’s Weight | Record actual responsibility and carry only that portion to discharge |
 
 **Maintenance:** suspend the head over bare stone; copy every obligation struck into two columns—chosen and inherited—then cool each ember groove with clean water. Never oil the handle with Han residue.  

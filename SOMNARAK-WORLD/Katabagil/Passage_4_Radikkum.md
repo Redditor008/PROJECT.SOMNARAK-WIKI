@@ -165,7 +165,7 @@ The blossom's petals were formed from crystalline human skulls, and its pollen w
  ELITE BREACH: SECC-E24 "THE SYNAPTIC BLOSSOM" (Grade-β Potency)
 ================================================================================
  BOSS ATTRIBUTES:
- - Health (HP): 2,100 | Speed Dice: 2–6 (2 Action Slots)
+ - Health (HP): 2,100 | Tempo Dice: 2–6 (2 Action Slots)
  - Weaknesses: Grudge (Exposed 2.0x — Thermite fire incinerates pollen)
  - Primary Hazard: [Oblivion Pollen Wave] — Drains 15 SP per turn if unshielded
 ================================================================================
@@ -217,10 +217,10 @@ A deafening acoustic wail shook the cavern walls.
  COMBAT PROFILE:
  - Maximum Health (HP): 3,600
  - Stagger Thresholds: 2,520 HP (70%) | 1,440 HP (40%) | 360 HP (10%)
- - Base Defense: 55 | Speed Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
+ - Base Defense: 55 | Tempo Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
    * Grudge : 2.0x (Exposed Weakness — Fire incinerates dry petrified sap)
-   * Lament: 0.5x (Endured — Saturated in four thousand years of tears)
+   * Lament: 0.5x (Withstood — Saturated in four thousand years of tears)
    * Void : 1.5x (Weakness — Severing root cords disrupts memory net)
    * Weight    : 1.0x (Normal — Solid kinetic sapping)
 
@@ -336,7 +336,7 @@ A deafening acoustic wail shook the cavern walls.
     * **Clash Outcome**: Sora WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
     * The radiant silver acoustic pulse strikes the expanding spore cloud, dispersing the toxic amnesia mist back into the root branches!
     * Canopy Tendrils take **210 Lament damage** from the reflected acoustic shockwave, inflicting +46 Posture Strain!
-  * **Clash 2 (Node 02 to 05)**: Arbor thrashes with `[Thorn Shower Volley]` (Power 22, Pierce).
+  * **Clash 2 (Node 02 to 05)**: Arbor thrashes with `[Thorn Shower Volley]` (Power 22, Skewer).
     * Harin's `[Bulwark Intercept]` absorbs the entire salvo (`[P3: Parry/Protection]`). The two-meter tower shield deflects every petrified quill; zero team damage taken.
 - **Step 4: Turn End State**:
   * Canopy Root Tendrils HP: 950 -> **740/950** | Posture: **194/240**.
@@ -390,12 +390,12 @@ A deafening acoustic wail shook the cavern walls.
     * **Clash Outcome**: Harin WINS THE CLASH (32 vs 27)!
     * Harin plants her shield firmly; the crushing three-ton root bounces harmlessly off the reinforced face! Harin takes 0 damage.
   * **Void Amputation on Canopy Tendrils**:
-    * The Silent One executes `[Burden Cleaver: Void Amputation]` (Base 22 + 3 Lots Marked = 39 Power, Void Slash):
+    * The Silent One executes `[Burden Cleaver: Void Amputation]` (Base 22 + 3 Lots Marked = 39 Power, Void Gash):
       * Slices cleanly through the primary tendon of the canopy root cluster!
       * Deals **420 Critical Void damage** (Exposed 2.0x proc!)!
       * **TARGETED PART DESTROYED**: The Canopy Root Tendrils are completely severed, dropping like massive timber onto the floor (**Tendril HP: 0/950**)!
       * **EFFECT**: Boss whiplash root sweep permanently disabled; boss permanently loses 1 Speed Slot!
-    * Doha's `[Pneumatic Core Sapper]` drives a tungsten drill into the lower trunk, dealing **220 Blunt damage**!
+    * Doha's `[Pneumatic Core Sapper]` drives a tungsten drill into the lower trunk, dealing **220 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Canopy Root Tendrils: **DESTROYED (0/950 HP)**.
   * Heartwood Bark: 1,200 -> **880/1,200** | Posture: **194/260**.
@@ -444,10 +444,10 @@ A deafening acoustic wail shook the cavern walls.
   * Yeonhwa (Speed 7 -> 4 AP): Stands at Node 07. Spends 2 AP on `[Theodolite Weakpoint Laser]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 04 to 05)**: SECC-056 braces with `[Petrified Bark Bastion]` (Def Power 24).
-    * Doha strikes with `[Tungsten Fracture Wedge: Growth Split]` (Atk Power 34, Heavy Blunt).
+    * Doha strikes with `[Tungsten Fracture Wedge: Growth Split]` (Atk Power 34, Heavy Bludgeon).
     * **Clash Outcome**: Doha WINS THE CLASH (34 vs 24)!
     * Doha drives the wedge into the primary growth ring; the pneumatic ram detonates with thunderous force!
-    * The petrified heartwood splits open wide! Bark armor completely destroyed, dealing **410 Blunt damage** and +72 Posture Strain!
+    * The petrified heartwood splits open wide! Bark armor completely destroyed, dealing **410 Bludgeon damage** and +72 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,520 HP), falling to **2,340/3,600 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The Arbor's branches collapse downward; all defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -536,7 +536,7 @@ A deafening acoustic wail shook the cavern walls.
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Arbor awakens in agonizing grief; a four-thousand-year dreamscape floods the entire chasm!
   * Boss Special Skill: `[Tide of Unremembered Tears]` (Acoustic Cataclysm, 3 Lots).
-  * Speed Dice expands to 4 slots! Memory phantoms of forgotten orphans surround the squad.
+  * Tempo Dice expands to 4 slots! Memory phantoms of forgotten orphans surround the squad.
   * Sora activates Relic Overdrive: `[REQUIEM OF THE LIVING SLUMBER]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Sora (Speed 8 -> 4 AP [Overdrive]): Floats into the heartwood hollow at Node 05, unfolding her Silver Cowl.

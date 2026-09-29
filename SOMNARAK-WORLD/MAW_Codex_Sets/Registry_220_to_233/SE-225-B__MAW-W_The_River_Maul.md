@@ -29,7 +29,7 @@ The River Maul is a matte black two-handed maul of Han steel that quivers toward
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Weight | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Downstream Blow:** The Maul drives burden through up to three targets or structures along the declared flow. It attacks Han reserves and karmic load. A strike without an open outlet stores the entire line inside the wielder.
 

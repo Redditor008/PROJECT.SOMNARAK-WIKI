@@ -59,13 +59,13 @@
 - **Tactical Role:** Frontline Interception, Threat Draw, and Posture Reinforcement
 - **Base Attributes:** Base Speed 3-4 (Speed Band 3-5) • Max HP 220 • Composure 100 • Max Posture 160
 - **Equipped M.A.W. Configuration:**
-  * **Weapon:** `MAW-W-002 The Mourning Maul` (Grade 5 Heavy Blunt Relic)
+  * **Weapon:** `MAW-W-002 The Mourning Maul` (Grade 5 Heavy Bludgeon Relic)
   * **Suit:** `MAW-S-005 The Smothering Cloak` (Grade 4 Heavy Bastion Plating)
   * **Stigma:** `MAW-G-002 The Mourning Shell` (Grade 5 Chest Brooch)
 - **Signature Combat Skills:**
   * *Directional Interception (2 AP • Band 1 • Base 26):* Forces an attacking enemy to redirect single-target strikes away from adjacent backline allies and onto the Vanguard Shield.
   * *Bastion Stance (1 AP • Self • Base 22):* Temporarily fortifies Posture by +40 points and converts 20% of incoming kinetic damage into a temporary barrier shield.
-  * *Crushing Basalt Blow (2 AP • Band 1 • Base 24):* Heavy maul smash dealing 45 Blunt damage and 15 Posture strain to the target limb.
+  * *Crushing Basalt Blow (2 AP • Band 1 • Base 24):* Heavy maul smash dealing 45 Bludgeon damage and 15 Posture strain to the target limb.
 - **Structural Passive (Steadfast Bedrock):** The Vanguard Shield is completely immune to forced displacement and node knockback. Grants all adjacent allies +2 Clash Power when defending against area attacks.
 
 ### 2.2 Operative 2: The Acoustic Siphon (Frequency Controller & Sanity Healer)
@@ -87,12 +87,12 @@
 - **Tactical Role:** High-Velocity Modular Part Severance, Overwhelming Clash Burst, and Stagger Execution
 - **Base Attributes:** Base Speed 6 (Speed Band 6-8) • Max HP 175 • Composure 105 • Max Posture 115
 - **Equipped M.A.W. Configuration:**
-  * **Weapon:** `MAW-W-014 The Debt Cleaver` (Grade 4 High-Frequency Slashing Blade)
+  * **Weapon:** `MAW-W-014 The Debt Cleaver` (Grade 4 High-Frequency Gash Blade)
   * **Suit:** `MAW-S-014 The Scale Hauberk` (Grade 4 Agile Kinetic Hauberk)
   * **Stigma:** `MAW-G-014 The Golden Scale` (Grade 4 Precision Monocle)
 - **Signature Combat Skills:**
-  * *Severing Prism Execution (2 AP • Band 1-2 • Base 28):* High-speed slashing flurry dealing 65 Slash damage. Deals +50% bonus damage if the target limb is staggered or below 60% HP.
-  * *Flanking Slash (1 AP • Band 1 • Base 24):* Rapid dash bypassing frontal defenses to strike exposed lateral joints directly.
+  * *Severing Prism Execution (2 AP • Band 1-2 • Base 28):* High-speed slashing flurry dealing 65 Gash damage. Deals +50% bonus damage if the target limb is staggered or below 60% HP.
+  * *Flanking Gash (1 AP • Band 1 • Base 24):* Rapid dash bypassing frontal defenses to strike exposed lateral joints directly.
   * *Suture Rip (2 AP • Band 1 • Base 26):* Drives the blade deep into mechanical joints, triggering an immediate Rupture Check.
 - **Structural Passive (Suture Momentum):** Winning a clash grants the Core Striker +1 Speed Band on the subsequent turn. When attacking a ruptured body part, critical strike rate increases by 30%.
 
@@ -161,7 +161,7 @@
   * Vanguard Shield advances to `[N02]`, activating *Bastion Stance* to absorb the entity's opening ranged assault.
 - **Turn 02 (Acoustic Neutralization & Flank Advance):**
   * As the entity channels an acoustic lament wail, Acoustic Siphon triggers *Harmonic Phase-Cancellation*, mitigating area Composure drain.
-  * Core Striker advances from `[N04]` to `[N05]`, executing *Flanking Slash* on the pinned limb.
+  * Core Striker advances from `[N04]` to `[N05]`, executing *Flanking Gash* on the pinned limb.
 - **Turn 03 (First Modular Part Rupture):**
   * Core Striker and Vanguard Shield combine heavy blunt and slashing skills (*Crushing Basalt Blow* + *Suture Rip*), breaching the limb's 60% Rupture Threshold.
   * **Stagger Proc 1** triggers, canceling the entity's remaining Action Slots for Turn 03.
@@ -207,7 +207,7 @@ To optimize the cadre's combat efficiency, the Reverie Directorate authorizes at
 ```
 
 ### 6.1 Equipment Synergy Notes
-- **Blunt / Slash Balance:** The pairing of `The Mourning Maul` (Heavy Blunt) and `The Debt Cleaver` (Slashing) ensures the team can exploit both Weight and Slashing vulnerabilities across modular constructs.
+- **Bludgeon / Gash Balance:** The pairing of `The Mourning Maul` (Heavy Bludgeon) and `The Debt Cleaver` (Gash) ensures the team can exploit both Weight and Gash vulnerabilities across modular constructs.
 - **Lament / Void Defense:** Warding the squad with `The Smothering Cloak` and `The Choir Mantle` neutralizes the catastrophic Composure drains typical of Facility 01 containment breaches.
 
 ---

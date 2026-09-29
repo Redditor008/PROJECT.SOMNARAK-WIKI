@@ -61,12 +61,12 @@ The Pyre Grimoire & Ash Lance consists of a heavy, blackened iron-bound grimoire
 
 ### Basic attack— *Margin Cut*
 
-The Fang launches a crimson Pierce line that strikes body and structure with Grudge output. Where it lands, the target experiences a brief exposure of the suppressive act currently driving their aggression.
+The Fang launches a crimson Skewer line that strikes body and structure with Grudge output. Where it lands, the target experiences a brief exposure of the suppressive act currently driving their aggression.
 
 ### Signature ability — *Witness’s Flame*
 
 **Trigger:** Before striking, the bearer names the record, person, or testimony being defended.  
-**Effect:** The page-mark opens along the full Pierce line, allowing the Fang to cut through an active attempt to seize, destroy, or silence the stated subject.  
+**Effect:** The page-mark opens along the full Skewer line, allowing the Fang to cut through an active attempt to seize, destroy, or silence the stated subject.  
 **Limit:** It cannot be used to retaliate after the threat has ended or to force a listener to accept a conclusion.  
 **Failure state:** A false stated purpose causes the flame to write the bearer’s omitted motive across the blade and immediately end the weapon’s effect.
 

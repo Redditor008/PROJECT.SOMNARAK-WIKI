@@ -26,7 +26,7 @@ The Secret Lens is a pale lens of Han glass set in a dark frame, its center perm
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Void | 7–12 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Void | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Compulsion Severance:** The Lens pierces up to three access tethers produced by one sealed-memory whisper. Aiming through the Lock strikes the memory and widens the breach.
 

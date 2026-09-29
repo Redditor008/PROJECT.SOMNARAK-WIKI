@@ -106,7 +106,7 @@ Each Color × Time combination is a unique Ordeal with its own name, appearance,
 |---|---|---|---|---|
 | **BLUE** | Blue First Watch | Blue Second Watch | Blue Third Watch | Blue Tide Watch |
 | **OBSIDIAN** | Obsidian First Watch | Obsidian Second Watch | Obsidian Third Watch | Obsidian Tide Watch |
-| **ASHEN** | Ashen First Watch | Ashen Second Watch | Ashen Third Watch | Pale Tide Watch |
+| **ASHEN** | Ashen First Watch | Ashen Second Watch | Ashen Third Watch | Ashen Tide Watch |
 | **GREY** | Grey First Watch | Grey Second Watch | Grey Third Watch | Grey Tide Watch |
 | **PURPLE** | Purple First Watch | Purple Second Watch | Purple Third Watch | Purple Tide Watch |
 

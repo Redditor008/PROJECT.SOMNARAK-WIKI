@@ -260,7 +260,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 - **Topological Layout:** A vast Gothic nave carved from translucent blue ice. Hanging stalactites of crystallized sorrow chime softly in the freezing updrafts.
 - **Preserved Sovereign:** *The Weeping Statue*.
   * **HP Pool:** 3,600 HP | **Posture Pool:** 300/300.
-  * **Resistances:** Lament 0.2x (Absorbs), Void 1.0x, Weight 1.5x, Grudge 2.0x (Fatal Heat).
+  * **Resistances:** Lament 0.2x (Absorbs), Void 1.0x, Weight 1.5x, Grudge 2.0x (Dire Heat).
   * **Modular Part Anchors:** Marble Weeping Hands (900 HP / 200 Posture), Alabaster Veil (1,100 HP / 240 Posture), Heart of Frozen Tears (1,600 HP / 300 Posture).
 - **Thematic Conflict:** Seiyon relives the 1,778 resets where she was forbidden to cry, forced to remain calm and efficient while the Director reset time again and again.
 - **Stratum Realization Climax:** Seiyon allows herself to weep openly, pouring warm golden coolant across the alabaster statue's frozen hands. The ice cracks, blooming into crystalline flowers and releasing **Memory Leaf: The Mourner**.
@@ -490,7 +490,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
   * Passive `[Archival Primacy]` triggers: Ambient reading hall illumination shifts to dim indigo.
 - **Phase Step 2 (Spatial Maneuvers & Targeting):**
   * Seiyon expends 1 AP to advance from Node 02 to Node 03, closing distance into Range Band 2.
-  * Keeper targets Node 03 with skill `[Sweeping Inscription]` (Band 2 Cleave, Power 14-18, Pale Void).
+  * Keeper targets Node 03 with skill `[Sweeping Inscription]` (Band 2 Cleave, Power 14-18, Void).
 - **Phase Step 3 (Clash Resolution):**
   * Seiyon plays `[Mnemonic Parry Caliper]` (Power 16-20). 
   * Clash Roll: Seiyon 18 vs Keeper 15. **Clash Won!**
@@ -522,7 +522,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 ###### Turn 03 Action Resolution Log:
 - **Phase Step 1 (Clash & Modular Focus):**
   * Seiyon commits 3 AP to execute `[Prismatic Fracture: Severance]` targeting the cracked Obsidian Quill.
-  * Attack connects cleanly across Range Band 2. Deals 240 Pale Void damage!
+  * Attack connects cleanly across Range Band 2. Deals 240 Void damage!
   * **TIER 1 STAGGER PROC!** The Obsidian Quill reaches 70/200 Posture (< 60% threshold).
 - **Phase Step 2 (Part Dismantling Effects):**
   * The obsidian nib violently splinters under psychic tremor!
@@ -652,19 +652,19 @@ The 28 Mnemonic Inscription Glyphs are not decorative symbols; they are acoustic
 ### 6.1 Extended Mnemonic Combat Page Codex
 Below is the definitive tactical combat page catalog extracted from the seven floors, utilized by Seiyon and custodial wardens in high-tier containment clashes:
 
-- **Ink Cleave (Grade Alpha / 1 AP / Band 1 Melee):** Slash 6-10, Block 4-8 [Pale Void]. Inflicts +2 Posture Strain on hit.
+- **Ink Cleave (Grade Alpha / 1 AP / Band 1 Melee):** Gash 6-10, Block 4-8 [Void]. Inflicts +2 Posture Strain on hit.
 - **Archival Ward (Grade Alpha / 1 AP / Band 1 Melee):** Block 8-12, Counter 5-9 [Weight]. Reflects 35% kinetic damage back to attacker.
-- **Shadow Feint (Grade Beta / 2 AP / Band 2 Close):** Evade 10-15, Pierce 8-12 [Lament]. Strips 1 enemy clash power upon successful evade.
-- **Mirror Duplication (Grade Beta / 2 AP / Band 2 Close):** Slash 7-11, Slash 7-11 [Void]. Copies target's offensive passive for 1 turn.
-- **Iron Bulwark (Grade Gamma / 3 AP / Band 1 Melee):** Block 14-18, Blunt 10-14 [Weight]. Intercepts single-target attack for adjacent ally.
-- **Sentry's Decree (Grade Gamma / 3 AP / Band 2 Close):** Blunt 12-16, Stun 8-10 [Grudge]. Inflicts 2 turns of -2 Speed on target.
-- **Frozen Lament (Grade Gamma / 3 AP / Band 3 Mid):** Pierce 11-15, Pierce 11-15 [Lament]. Quenches 25 Heat; -15% enemy action speed.
-- **Cryo Deluge (Grade Gamma / 4 AP / Band 3-4 Mid-Long):** AOE Slash 14-18, Block 10 [Lament]. Floods 3 nodes with liquid cryogenic tears.
-- **Prismatic Needle (Grade Delta / 3 AP / Band 4 Long):** Pierce 16-20, Crit 12-16 [Void]. Pierces 50% protection; targets internal core.
+- **Shadow Feint (Grade Beta / 2 AP / Band 2 Close):** Evade 10-15, Skewer 8-12 [Lament]. Strips 1 enemy clash power upon successful evade.
+- **Mirror Duplication (Grade Beta / 2 AP / Band 2 Close):** Gash 7-11, Gash 7-11 [Void]. Copies target's offensive passive for 1 turn.
+- **Iron Bulwark (Grade Gamma / 3 AP / Band 1 Melee):** Block 14-18, Bludgeon 10-14 [Weight]. Intercepts single-target attack for adjacent ally.
+- **Sentry's Decree (Grade Gamma / 3 AP / Band 2 Close):** Bludgeon 12-16, Stun 8-10 [Grudge]. Inflicts 2 turns of -2 Speed on target.
+- **Frozen Lament (Grade Gamma / 3 AP / Band 3 Mid):** Skewer 11-15, Skewer 11-15 [Lament]. Quenches 25 Heat; -15% enemy action speed.
+- **Cryo Deluge (Grade Gamma / 4 AP / Band 3-4 Mid-Long):** AOE Gash 14-18, Block 10 [Lament]. Floods 3 nodes with liquid cryogenic tears.
+- **Prismatic Needle (Grade Delta / 3 AP / Band 4 Long):** Skewer 16-20, Crit 12-16 [Void]. Pierces 50% protection; targets internal core.
 - **Severance Beam (Grade Delta / 4 AP / Band 4-5 Long-Siege):** Beam 20-25, Block 12-16 [Void]. Pierces all enemies along a linear node vector.
 - **Sympathetic Suture (Grade Delta / 3 AP / Band 2 Close):** Heal 15-20, Block 12-16 [Hope]. Restores 300 HP and +15 SP to wounded ally.
 - **Martyr's Shield (Grade Delta / 4 AP / Band 1-3 Multi):** Intercept 22-26, Counter [Hope]. Intercepts 100% of lethal damage for squad.
-- **Dawn Calligraphy (Grade Omega / 5 AP / Omni-Band):** Slash 25-30, Pierce 25-30 [Hope]. Transmutes target posture strain into Hope.
+- **Dawn Calligraphy (Grade Omega / 5 AP / Omni-Band):** Gash 25-30, Skewer 25-30 [Hope]. Transmutes target posture strain into Hope.
 - **The Eternal Promise (Grade Omega / 6 AP / Omni-Band):** Reality Climax 35-45 [Hope]. Restores all allies to 100% HP; resets panic.
 
 ---

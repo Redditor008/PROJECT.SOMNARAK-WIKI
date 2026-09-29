@@ -836,7 +836,7 @@ The center receives the greatest pressure. Inner and outer zones remain dangerou
 
 ##### Converging Refusal (Standard Paired Assault)
 - **Activation Stance:** Ishall remains stationary with forward posture, her android hands relaxed at her sides while her optical focal point locks onto the target zone.
-- **Trajectory & Energy:** The two floating relic hands glide into opposed standoff coordinates above the target sector, fingers curling inward to compress an invisible spatial boundary of Crimson Grudge.
+- **Trajectory & Energy:** The two floating relic hands glide into opposed standoff coordinates above the target sector, fingers curling inward to compress an invisible spatial boundary of Grudge.
 - **Reach & Falloff:** Range 4 (Long), creating an AoE compression zone (Center 100% → Inner 70% → Outer 50%).
 - **Hit Impact & Consequence:** Crushing implosion dealing 10–15 Grudge direct damage, followed by 1.5 Void per second for 6 seconds (9 total Void at center).
 - **Recoil & Recovery:** Speed 3 (Fast); 8-second operational cooldown; costs 18 Sorrow Echoes.

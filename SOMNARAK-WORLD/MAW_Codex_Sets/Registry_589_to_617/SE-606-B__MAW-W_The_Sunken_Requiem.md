@@ -23,7 +23,7 @@ Binding accepts a user who can distinguish suppression from privacy. A bearer wh
 | Grade / Element | δ / Lament |
 | Damage | 10–15 Lament |
 | Speed / Range | 3 (Fast) / 3 (Medium) |
-| Pattern | Pierce; line, up to 3 targets |
+| Pattern | Skewer; line, up to 3 targets |
 | Falloff | Primary 100% → first pierced 70% → second pierced 50% |
 | Maximum / Echo cost | 2 / 50 Sorrow Echoes |
 | Operational cost | Unwept grief enters the wielder and emerges as involuntary tears |

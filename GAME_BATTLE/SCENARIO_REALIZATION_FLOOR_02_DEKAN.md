@@ -220,6 +220,6 @@ During the engagement, Dekan's psychological journey mirrors the Four P-Framewor
 - **Sovereign Passive 2 — Seal the Maw:**
   When an enemy entity initiates a breach action or prepares an area-of-effect skill, Dekan can expend 2 AP to deploy an *Acoustic Hydraulic Ward* across two nodes, canceling the hostile movement and reducing target Clash Power by 4.
 - **Awakened Combat Skill — Sovereign Sunder Lock (3 AP • Band 1-2 • Power 38):**
-  Dekan slams the awakened *Maw-Keeper's Greatshield* into the ground, sending a shockwave through the bedrock. Deals 65 Weight Blunt damage and inflicts *Containment Lockdown* (target cannot gain Speed Bands above 3 for 2 turns).
+  Dekan slams the awakened *Maw-Keeper's Greatshield* into the ground, sending a shockwave through the bedrock. Deals 65 Weight Bludgeon damage and inflicts *Containment Lockdown* (target cannot gain Speed Bands above 3 for 2 turns).
 
 ---

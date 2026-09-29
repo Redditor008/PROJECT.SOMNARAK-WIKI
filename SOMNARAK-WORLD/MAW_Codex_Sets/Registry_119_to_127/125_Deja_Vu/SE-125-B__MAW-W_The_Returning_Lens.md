@@ -45,12 +45,12 @@
 |---|---|
 | Damage | Void 10–15 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 50 Sorrow Echoes to register and bind |
 | Operational cost | Each use removes a small, nameless memory from the bearer. |
 | Binding cost | The bearer must tolerate the return’s incompleteness. |
-| Recovery | Current-time anchor check after every full Pierce line |
+| Recovery | Current-time anchor check after every full Skewer line |
 
 ## COMBAT FILE
 
@@ -62,12 +62,12 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 ### Basic attack— *Not the Same Fruit*
 
-The Lens sends a Void Pierce through an intrusive return image, dealing direct damage and separating the memory’s meaning from the room it is trying to replace.
+The Lens sends a Void Skewer through an intrusive return image, dealing direct damage and separating the memory’s meaning from the room it is trying to replace.
 
 ### Signature ability — *Leave It Returned*
 
 **Trigger:** The bearer and anchor witness name what the return cannot restore.  
-**Effect:** The Lens clears a dangerous return loop along the full Pierce line, allowing affected people to recognize the memory without being absorbed by it.  
+**Effect:** The Lens clears a dangerous return loop along the full Skewer line, allowing affected people to recognize the memory without being absorbed by it.  
 **Limit:** It cannot destroy a meaningful past, bring back the lost, or choose which current memory will later carry the cost.  
 **Failure state:** If the bearer tries to keep the return active, the Lens takes a present association of equal emotional force and closes.
 

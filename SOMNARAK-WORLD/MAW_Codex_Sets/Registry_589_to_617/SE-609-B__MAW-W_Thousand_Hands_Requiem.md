@@ -23,7 +23,7 @@ Binding requires the wielder to state one memory that is theirs and one testimon
 | Grade / Element | γ / Lament |
 | Damage | 7–12 Lament |
 | Speed / Range | 3 (Fast) / 3 (Medium) |
-| Pattern | Pierce; line, up to 3 targets |
+| Pattern | Skewer; line, up to 3 targets |
 | Falloff | Primary 100% → first pierced 70% → second pierced 50% |
 | Maximum / Echo cost | 3 / 40 Sorrow Echoes |
 | Operational cost | Unwept grief enters through the weapon and induces tears |

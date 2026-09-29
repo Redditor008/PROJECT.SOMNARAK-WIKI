@@ -46,7 +46,7 @@ During the The Corrosion Dream Source-Trace, the field team preserved this sourc
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Rusted Lens | γ Void 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-915-B__MAW-W_The_Rusted_Lens.md` |
+| The Rusted Lens | γ Void 7–12; Speed 3 (Fast); Range 3 (Medium); Skewer; max 3; 40 Sorrow Echoes | `SE-915-B__MAW-W_The_Rusted_Lens.md` |
 | The Rusted Span | γ; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 3; 35 Sorrow Echoes | `SE-915-C__MAW-S_The_Rusted_Span.md` |
 | The Rusted Charm | γ; Head; 4%; +2 stat bonus when working the source entity | `SE-915-D__MAW-G_The_Rusted_Charm.md` |
 

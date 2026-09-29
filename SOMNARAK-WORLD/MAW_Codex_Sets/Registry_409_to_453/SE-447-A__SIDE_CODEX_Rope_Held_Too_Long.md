@@ -34,7 +34,7 @@ An echo forms after the dreamer verifies whether connection remains reciprocal a
 
 | Piece | Summary | File |
 |---|---|---|
-| Melting Requiem | Lament 7–12; Speed 3; Range 3; Pierce; max 3; 40 Echoes. Cuts dream-drag, not shared memory. | `SE-447-B__MAW-W_The_Melting_Requiem.md` |
+| Melting Requiem | Lament 7–12; Speed 3; Range 3; Skewer; max 3; 40 Echoes. Cuts dream-drag, not shared memory. | `SE-447-B__MAW-W_The_Melting_Requiem.md` |
 | Melting Shroud | 0.4 / 1.0 / 1.6 / 0.8; max 3; 35 Echoes. Preserves present identity while old routes dissolve. | `SE-447-C__MAW-S_The_Melting_Shroud.md` |
 | Melting Knot | Tail; 4%; +2 Clarity. Preserves reciprocal connection over distance; feels dissolution when one-sided. | `SE-447-D__MAW-G_The_Melting_Knot.md` |
 

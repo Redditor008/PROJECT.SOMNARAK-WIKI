@@ -33,7 +33,7 @@ The Grade γ set formed after Yeonhwa mapped the visible capital, marked the bur
 
 | Piece | Canonical statistics | File |
 |---|---|---|
-| Missing Lens | Void 7–12; Speed 3; Range 3; Pierce 100/70/50%; max 3; 40 Echoes | `SE-649-B__MAW-W_The_Missing_Lens.md` |
+| Missing Lens | Void 7–12; Speed 3; Range 3; Skewer 100/70/50%; max 3; 40 Echoes | `SE-649-B__MAW-W_The_Missing_Lens.md` |
 | Missing Column | 1.2/0.8/0.3/1.1; max 3; 35 Echoes | `SE-649-C__MAW-S_The_Missing_Column.md` |
 | Missing Charm | Head; 4%; +2 Composure while working the source | `SE-649-D__MAW-G_The_Missing_Charm.md` |
 

@@ -73,7 +73,7 @@ A memory may be shaped only after it surfaces voluntarily, is witnessed, and rec
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Lake Requiem:** Lament 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use causes involuntary weeping.
+- **Lake Requiem:** Lament 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use causes involuntary weeping.
 - **Lake Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 3; 35 Echoes. It resists Lament while numbing minor joys.
 - **Lake Flask:** Tail Stigma; 4%; +2 Clarity during source work. It stores one liquid memory; the user feels its attached death or loss.
 

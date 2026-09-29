@@ -29,7 +29,7 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Void 10–15 | 3 (Fast) | 3 (Medium) | Pierce / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+| Void 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
 **Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Dormant Monolith's source sorrow feel autobiographical.
 

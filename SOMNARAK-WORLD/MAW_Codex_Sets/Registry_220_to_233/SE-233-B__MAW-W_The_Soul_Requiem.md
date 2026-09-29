@@ -28,7 +28,7 @@ The Soul Requiem is a Lament Han-crystal blade that sings in a voice no listener
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Lament | 7–12 | 3 — Fast / 3 — Medium | Pierce; 100% → 70% → 50% | 3 / 40 Echoes |
+| γ / Lament | 7–12 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 3 / 40 Echoes |
 
 **Unregistered Passage:** A thrust carries Lament through up to three barriers that deny an observed person’s presence. Against a living target, authorization requires present conduct; missing records are not hostility.
 

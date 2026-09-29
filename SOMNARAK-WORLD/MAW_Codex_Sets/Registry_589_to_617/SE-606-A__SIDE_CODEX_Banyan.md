@@ -51,7 +51,7 @@ Stable extraction required two conditions at once: an owner voluntarily read one
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Sunken Requiem | δ Lament; 10–15; Speed 3; Range 3; Pierce 100/70/50%; max 2; 50 Echoes | `SE-606-B__MAW-W_The_Sunken_Requiem.md` |
+| Sunken Requiem | δ Lament; 10–15; Speed 3; Range 3; Skewer 100/70/50%; max 2; 50 Echoes | `SE-606-B__MAW-W_The_Sunken_Requiem.md` |
 | Sunken Shroud | δ Lament; L/G/V/W 0.4/1.0/1.6/0.8; max 2; 45 Echoes | `SE-606-C__MAW-S_The_Sunken_Shroud.md` |
 | Sunken Root | δ Lament; Tail; 4%; +3 Clarity; sees roots beneath public identity | `SE-606-D__MAW-G_The_Sunken_Root.md` |
 

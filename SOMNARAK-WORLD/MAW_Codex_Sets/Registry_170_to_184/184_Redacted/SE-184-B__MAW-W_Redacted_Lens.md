@@ -36,15 +36,15 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
-| Void 7–12 | 3 — Fast / 3 — Medium | Pierce, 3 targets, 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
+| Void 7–12 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
 
 **Cost:** Small nameless memory loss; custody review after use.
 
 ## COMBAT FILE
 
-**Basic — *Keep the Blank*:** A Void Pierce separates a target from active erasure pressure.
+**Basic — *Keep the Blank*:** A Void Skewer separates a target from active erasure pressure.
 
-**Signature — *Do Not Fill It*:** With Archive witness, the Lens stabilizes an absence field across its Pierce line so fragments can be preserved without fabricating a restoration. It cannot identify the erased person, restore deleted life, or prove a desired explanation. False certainty turns the line inward.
+**Signature — *Do Not Fill It*:** With Archive witness, the Lens stabilizes an absence field across its Skewer line so fragments can be preserved without fabricating a restoration. It cannot identify the erased person, restore deleted life, or prove a desired explanation. False certainty turns the line inward.
 
 ## HISTORY OF USE
 

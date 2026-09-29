@@ -23,7 +23,7 @@ Binding requires a wielder to identify a place they cannot return to and refuse 
 | Grade / Element | γ / Lament |
 | Damage | 7–12 Lament |
 | Speed / Range | 3 (Fast) / 3 (Medium) |
-| Pattern | Pierce; line, up to 3 targets |
+| Pattern | Skewer; line, up to 3 targets |
 | Falloff | Primary 100% → first pierced 70% → second pierced 50% |
 | Maximum / Echo cost | 3 / 40 Sorrow Echoes |
 | Operational cost | Every attack draws unwept grief into the wielder’s breath |

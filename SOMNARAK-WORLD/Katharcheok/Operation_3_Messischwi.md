@@ -94,7 +94,7 @@ Auditor Yuna activated the secondary data feed. A complex web of shipping manife
 
 "What are they producing?" Taeho asked, his arms folded across the reinforced chest plate of his riot armor.
 
-"Grudge Han-Brine," Yuna answered coldly. "When a human subject is subjected to prolonged physical torment while trapped in absolute helplessness, their inner sorrow transforms into pure Crimson Grudge. Boknam boils this extracted sorrow fluid into high-potency combat narcotics and black-market turbine fuel. A single barrel of refined Crimson Brine fetches three thousand Echoes on the illicit munitions market. Our informants confirm Boknam has eighty pressurized tankers ready for export—and fifty living citizens trapped in the slaughter pens right now."
+"Grudge Han-Brine," Yuna answered coldly. "When a human subject is subjected to prolonged physical torment while trapped in absolute helplessness, their inner sorrow transforms into pure Grudge. Boknam boils this extracted sorrow fluid into high-potency combat narcotics and black-market turbine fuel. A single barrel of refined Crimson Brine fetches three thousand Echoes on the illicit munitions market. Our informants confirm Boknam has eighty pressurized tankers ready for export—and fifty living citizens trapped in the slaughter pens right now."
 
 Infiltrator Echo stepped forward from the shadows of the vault, resting a gloved hand on the tactical holotank.
 
@@ -188,7 +188,7 @@ Joon placed two shaped breaching charges against the door hinges. A sharp, local
 
 The squad entered the Red Abattoir.
 
-The chamber was a cathedral of violence. In the center of the vast subterranean kiln sat **SE-C-IIIγ-120**, the Sorrow Entity known as "Rage Cage." The entity took the form of a gargantuan, pulsing cage whose vertical bars were crafted not from iron, but from calcified bone, fused sinew, and jagged crimson crystal. The bars contracted and expanded like a monstrous, furious rib cage, radiating blinding heat and violent waves of Crimson Grudge.
+The chamber was a cathedral of violence. In the center of the vast subterranean kiln sat **SE-C-IIIγ-120**, the Sorrow Entity known as "Rage Cage." The entity took the form of a gargantuan, pulsing cage whose vertical bars were crafted not from iron, but from calcified bone, fused sinew, and jagged crimson crystal. The bars contracted and expanded like a monstrous, furious rib cage, radiating blinding heat and violent waves of Grudge.
 
 Chained to the perimeter of the bone cage were four industrial steam winches. Thick steel cables ran from the winches up to the ceiling pulleys, anchoring a monstrous, eight-foot-long barbed steel hook—the **Harvest Hook**.
 
@@ -213,24 +213,24 @@ Boknam slammed the butt of his weapon into the floor, engaging the steam winches
 The kiln exploded into combat.
 
 ```text
-+==============================================+
-|       TARGET DOSSIER: THE BUTCHER OF THE RAW |
-+==============================================+
-| Apex Target          | Warlord Boknam        |
-| Cartel Moniker       | "The Meat Hook"       |
-| Threat Grade         | Major Potency (γ)     |
-| Contraband Entity    | SE-C-IIIγ-120 [GO]    |
-+----------------------+-----------------------+
-| Combined Vitality    | 6,800 Total Health    |
-| Targetable Parts     | 3 Distinct Modules    |
-| Part 1: Winch Rig    | 2,200 Health (Blunt)  |
-| Part 2: Harvest Hook | 1,600 Health (Pierce) |
-| Part 3: Rage Cage    | 3,000 Health (Void)   |
-+----------------------+-----------------------+
-| Stagger Threshold 1  | 60% Health (4,080 HP) |
-| Stagger Threshold 2  | 25% Health (1,700 HP) |
-| Overdrive Skill      | Crimson Brine Cleave  |
-+==============================================+
++==============================================---+
+|       TARGET DOSSIER: THE BUTCHER OF THE RAW    |
++==============================================---+
+| Apex Target          | Warlord Boknam           |
+| Cartel Moniker       | "The Meat Hook"          |
+| Threat Grade         | Major Potency (γ)        |
+| Contraband Entity    | SE-C-IIIγ-120 [GO]       |
++----------------------+--------------------------+
+| Combined Vitality    | 6,800 Total Health       |
+| Targetable Parts     | 3 Distinct Modules       |
+| Part 1: Winch Rig    | 2,200 Health (Bludgeon)  |
+| Part 2: Harvest Hook | 1,600 Health (Skewer)    |
+| Part 3: Rage Cage    | 3,000 Health (Void)      |
++----------------------+--------------------------+
+| Stagger Threshold 1  | 60% Health (4,080 HP)    |
+| Stagger Threshold 2  | 25% Health (1,700 HP)    |
+| Overdrive Skill      | Crimson Brine Cleave     |
++==============================================---+
 ```
 
 ---
@@ -242,7 +242,7 @@ The kiln exploded into combat.
 |      TARGET DOSSIER: WARLORD BOKNAM & SE-C-IIIγ-120 'RAGE CAGE'     |
 +---------------------------------------------------------------------+
 | APEX TARGET        : Warlord Boknam ('The Meat Hook Baron')         |
-| MODULAR WEAPON     : Pneumatic Harvest Hook Arm (Heavy Slash/Snare) |
+| MODULAR WEAPON     : Pneumatic Harvest Hook Arm (Heavy Gash/Snare)  |
 | CONTRABAND ENTITY : SE-C-IIIγ-120 'Rage Cage' (Rank III Threat /    |
 | Redcage)                                                            |
 | ESCORT MINIONS     : Siphon Enforcers (x2) & Slag Bone-Sawyers      |
@@ -258,7 +258,7 @@ The kiln exploded into combat.
 | - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger / Cask     |
 |   Ready)                                                            |
 | - Primary Attack : Pneumatic Hook Cleave & High-Tension Snare       |
-|   (Slash)                                                           |
+|   (Gash)                                                            |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SE-C-IIIγ-120 'RAGE CAGE'):              |
 | - Entity HP Pool   : 3,000 HP | Posture Pool: 220/220               |
@@ -331,18 +331,18 @@ The kiln exploded into combat.
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Scales rusted chain hoists toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Warlord Boknam unleashes `[Pneumatic Hook Cleave]` (Base 14 + 2 Lots = 26 Power, Heavy Slash) against Node 02.
+  * **Clash 1 (Node 02 to 05)**: Warlord Boknam unleashes `[Pneumatic Hook Cleave]` (Base 14 + 2 Lots = 26 Power, Heavy Gash) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion: Granite Wall]` (Base 16 + 2 Lots = 30 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (30 vs 26)!
     * The kinetic shield completely deflects the massive barbed steel hook (`[P3: Parry/Protection]`).
     * Taeho reflects **160 kinetic tremor damage** back into Boknam's steam winch rig! Inflicts +28 Posture Strain.
-  * **Clash 2 (Node 03 to 05)**: Siphon Enforcers charge with `[Rotary Bone-Saw Rush]` (Atk Power 20, Slash).
+  * **Clash 2 (Node 03 to 05)**: Siphon Enforcers charge with `[Rotary Bone-Saw Rush]` (Atk Power 20, Gash).
     * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 24, Kinetic Shield).
     * **Clash Outcome**: Joon WINS THE CLASH (24 vs 20).
     * Saws spark harmlessly off the titanium plate; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Cipher-Scan]` identifies the high-pressure steam winch pressure release valve.
-    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Boknam's armored shoulder, dealing **240 Pierce damage** and +24 Posture Strain!
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Boknam's armored shoulder, dealing **240 Skewer damage** and +24 Posture Strain!
     * Handler Soojin's sedative ward neutralizes ambient rage fumes around the squad.
 - **Step 4: Turn End State**:
   * Boknam Winch Rig HP: 2,200 -> **1,800/2,200** (Combined Encounter HP: **6,400/6,800**).
@@ -399,17 +399,17 @@ The kiln exploded into combat.
   * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
   * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Leaded Ring]` (2 AP) around the cage perimeter.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Boknam fires `[High-Tension Cable Snare]` (Base 12 + 2 Lots = 24 Power, Pierce).
-    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 16 + 2 Lots = 28 Power, Heavy Blunt).
+  * **Clash 1 (Node 04 to 05)**: Boknam fires `[High-Tension Cable Snare]` (Base 12 + 2 Lots = 24 Power, Skewer).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 16 + 2 Lots = 28 Power, Heavy Bludgeon).
     * **Clash Outcome**: Joon WINS THE CLASH (28 vs 24)!
     * The hydraulic ram smashes straight into the secondary cable pulley drum!
-    * Deals **520 Blunt damage** directly to Boknam's Steam Winch Rig and inflicts +52 Posture Strain!
+    * Deals **520 Bludgeon damage** directly to Boknam's Steam Winch Rig and inflicts +52 Posture Strain!
   * **Clash 2 (Node 06 to 10)**: SE-C-IIIγ-120 'Rage Cage' pulses `[Crimson Resentment Pulse]` (Power 22, Grudge).
     * Auditor Yuna unleashes `[Cipher-Pulse: Damping Wall]` (Def Power 26, EMP).
     * **Clash Outcome**: Yuna WINS THE CLASH (26 vs 22).
     * The EMP pulse dampens the entity's rage cycle, dealing **250 Resonance damage** to SE-C-IIIγ-120 and +26 Posture Strain!
   * **Follow-Up Maneuvers**:
-    * Taeho's `[Shield Bash]` deals **280 Blunt damage** to the winch chassis.
+    * Taeho's `[Shield Bash]` deals **280 Bludgeon damage** to the winch chassis.
     * Minho's cognitive salve restores +15 SP across the strike cadre.
     * Infiltrator Echo severs overhead steam bypass conduits, releasing 200 PSI of blinding scalding steam away from the hostages!
 - **Step 4: Turn End State**:
@@ -434,7 +434,7 @@ The kiln exploded into combat.
 | - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting Motor) |
 | - Node 05: Warlord Boknam (STAGGER LEVEL 1 / HOOK DESTROYED)        |
 | - Node 06: Auditor Yuna (Debt Ledger Download In Progress)          |
-| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Hook      |
+| - Node 07: Investigator Minho (Synaptic Skewer Dismantles Hook      |
 |   Joint)                                                            |
 | - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Winch    |
 |   Servos)                                                           |
@@ -449,18 +449,18 @@ The kiln exploded into combat.
 +=====================================================================+
 ```
 
-###### Turn 03 Action Resolution Log (Precision Lancet Pierce & Stagger Threshold 1)
+###### Turn 03 Action Resolution Log (Precision Lancet Skewer & Stagger Threshold 1)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Commander Taeho's `Momentum Surge` activates (+2 Speed next turn -> Net Speed 6, 3 AP).
   * Boknam attempts his brutal overhead execution: `[Pneumatic Hook Execution]`.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Investigator Minho (Speed 9 -> 5 AP): Positions on an elevated rafter at Node 07. Spends 3 AP on `[Neural Lancet: Synaptic Pierce]`.
+  * Investigator Minho (Speed 9 -> 5 AP): Positions on an elevated rafter at Node 07. Spends 3 AP on `[Neural Lancet: Synaptic Skewer]`.
   * Commander Taeho (Speed 6 -> 3 AP): Charges from Node 03 to Node 05, unleashing `[Heavy Piston Strike]` (2 AP).
   * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on Boknam's winch motor.
   * Infiltrator Echo (Speed 9 -> 5 AP): Drops from chains onto the hook's wrist assembly, driving `[Eclipse Stiletto]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: Boknam unleashes `[Pneumatic Hook Execution]` (Base 15 + 2 Lots = 27 Power, Heavy Slash).
-    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 19 + 2 Lots = 31 Power, High-Precision Pierce).
+  * **Clash 1 (Node 07 to 05)**: Boknam unleashes `[Pneumatic Hook Execution]` (Base 15 + 2 Lots = 27 Power, Heavy Gash).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Skewer]` (Base 19 + 2 Lots = 31 Power, High-Precision Skewer).
     * **Clash Outcome**: Minho WINS THE CLASH (31 vs 27)!
     * Minho's silver lancet strikes the main hydraulic valve of the hook joint with pinpoint accuracy!
     * **TARGETED PART DESTROYED**: `[The Pneumatic Harvest Hook Arm]` shears completely off, clattering into the abattoir drain (**1,180 Hook HP destroyed: 0/1,600**)!
@@ -468,9 +468,9 @@ The kiln exploded into combat.
     * Combined Target HP drops below 60% (4,080 HP), and Boknam's Posture falls past the 60% strain line!
     * **STAGGER LEVEL 1 ACTIVE!** Boknam's rig loses all defense, taking 1.5x direct damage. All enemy counter-stances cancelled!
   * **Punishment Strike Phase**:
-    * Commander Taeho's `[Heavy Piston Strike]` delivers **460 Blunt damage** to the exposed winch chassis.
+    * Commander Taeho's `[Heavy Piston Strike]` delivers **460 Bludgeon damage** to the exposed winch chassis.
     * Engineer Joon's thermite clamp burns through the drive gears for **380 Thermal damage**.
-    * Infiltrator Echo's `[Eclipse Stiletto]` slices servo tendons for **340 Slash damage**.
+    * Infiltrator Echo's `[Eclipse Stiletto]` slices servo tendons for **340 Gash damage**.
 - **Step 4: Turn End State**:
   * Boknam Winch Rig HP: 1,480 -> **380/2,200** (Chassis critically buckled!).
   * Harvest Hook Weapon: **0/1,600 [DESTROYED]**.
@@ -576,14 +576,14 @@ The kiln exploded into combat.
   * Engineer Joon (Speed 5 -> 3 AP): Smashes away Boknam's remaining winch struts at Node 04 (2 AP).
   * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 6,400 illicit debt records at Node 06 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10)**: SE-C-IIIγ-120 lashes out with `[Barbed Chain Frenzy]` (Atk Power 28, Slash).
-    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 23 + 2 Lots Marked = 33 Power, Slash).
+  * **Clash 1 (Node 10)**: SE-C-IIIγ-120 lashes out with `[Barbed Chain Frenzy]` (Atk Power 28, Gash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 23 + 2 Lots Marked = 33 Power, Gash).
     * **Clash Outcome**: Echo WINS THE CLASH (33 vs 28)!
     * Echo slices cleanly through the red iron arterial conduits feeding the cage bars!
-    * **CRITICAL HIT!** Deals **620 Slash damage** directly to the core and strips 80 Posture points!
+    * **CRITICAL HIT!** Deals **620 Gash damage** directly to the core and strips 80 Posture points!
   * **Targeted Fire**:
-    * Investigator Minho's `[Silver Lancet]` strikes the exposed core latch, dealing **460 Freezing Pierce damage** and wiping out the entity's remaining Posture!
-    * Engineer Joon crushes Boknam's buckled winch chassis with the pneumatic ram, dealing **380 Blunt damage** and demolishing the rig completely (Rig HP: 0/2,200)!
+    * Investigator Minho's `[Silver Lancet]` strikes the exposed core latch, dealing **460 Freezing Skewer damage** and wiping out the entity's remaining Posture!
+    * Engineer Joon crushes Boknam's buckled winch chassis with the pneumatic ram, dealing **380 Bludgeon damage** and demolishing the rig completely (Rig HP: 0/2,200)!
 - **Step 4: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!**:
   * Both Boknam and SE-C-IIIγ-120 reach **Posture 0/240** and **0/220**!
   * **TERMINAL STAGGER ACTIVE!** Boknam's rig collapses under hydraulic explosion, pinning him to the stone tiles. SE-C-IIIγ-120's rage steam ceases bubbling, cooling into dull gray iron.
@@ -664,7 +664,7 @@ The kiln exploded into combat.
 |---|---|
 | **Industrial Energy Complicity** | Municipal power plants in Zone A were secretly purchasing unrefined sorrow brine to cut costs. |
 | **Refugee Exploitation** | The Harvesters targeted unregistered outer-slum migrants due to their complete lack of legal protection. |
-| **Grudge Transmutation Mechanics** | Prolonged physical torment deliberately shifts mild sorrow into volatile, combustible Crimson Grudge. |
+| **Grudge Transmutation Mechanics** | Prolonged physical torment deliberately shifts mild sorrow into volatile, combustible Grudge. |
 | **Entity Resonance Siphoning** | Boknam's winches proved that inanimate Sorrow Entities can be mechanically tapped to power kinetic weapons. |
 | **UCD Tactical Coordination** | Perfect synergy between Joon's sapping and Soojin's containment achieved zero civilian collateral damage. |
 

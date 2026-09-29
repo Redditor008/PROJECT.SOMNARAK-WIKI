@@ -72,7 +72,7 @@ Registry Code: `MAW-W-{{NUM}}-01`
 | **Damage** | {{Element}} {{12–18 for γ typical; 24–48 for ω}} |
 | **Speed** | {{1 Very Slow — 6 Very Fast}} |
 | **Range** | {{1 Melee — 5 Line}} |
-| **Attack Pattern** | {{Wide Arc / Line Resonance / Single Pierce / Cone}} |
+| **Attack Pattern** | {{Wide Arc / Line Resonance / Single Skewer / Cone}} |
 | **Target Coverage** | {{One corridor line, up to {{N}} targets linked by {{shared grief event}}}} |
 | **Falloff Rule** | {{Primary 100% → first pierced 70% → second pierced 50% (or “Single target — no falloff”)}} |
 | **Recovery** | {{One breath / Two beats / Instant}} |
@@ -81,7 +81,7 @@ Registry Code: `MAW-W-{{NUM}}-01`
 
 **Trigger:** {{Condition — e.g., “Primary target must be marked by recent loss, spoken name, or active Lament pressure.”}}
 
-**Effect:** {{What it does — toll through target + linked line, damage + status. Include Pierce falloff if applicable.}}
+**Effect:** {{What it does — toll through target + linked line, damage + status. Include Skewer falloff if applicable.}}
 
 **Limit:** {{When it fails or deals lower value}}
 
@@ -95,7 +95,7 @@ Registry Code: `MAW-W-{{NUM}}-01`
 
 **Date:** Year {{4,2xx}}  
 **Bearer:** {{Rank + Name}}  
-**Result:** {{2–3 sentences: where, who it cut/saved, how Pierce chain worked.}}
+**Result:** {{2–3 sentences: where, who it cut/saved, how Skewer chain worked.}}
 
 **Aftermath:** {{Bearer cost paid — what was forgotten/lost, who restored it.}}
 

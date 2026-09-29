@@ -99,7 +99,7 @@ The set carries connection, not possession. It becomes dangerous when a bearer m
 |---|---|
 | Damage | Lament 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce — three targets maximum |
+| Attack Pattern | Skewer — three targets maximum |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | The bearer carries the Prince’s unwept grief and may weep without warning. |

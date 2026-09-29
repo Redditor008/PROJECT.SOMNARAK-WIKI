@@ -184,7 +184,7 @@ Towering four meters in height, its armor was assembled from interlocking iron g
  ELITE BREACH: SECC-E44 "THE ASHEN STANDARD-BEARER" (Grade-β Potency)
 ================================================================================
  BOSS ATTRIBUTES:
- - Health (HP): 2,800 | Speed Dice: 2–6 (2 Action Slots)
+ - Health (HP): 2,800 | Tempo Dice: 2–6 (2 Action Slots)
  - Weaknesses: Void (Exposed 2.0x — Severing soul-lattice destroys the grave armor)
  - Primary Hazard: [Banner of the Unburied] — Grants +2 Clash Power to self
 ================================================================================
@@ -234,12 +234,12 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
  COMBAT PROFILE:
  - Maximum Health (HP): 4,800
  - Stagger Thresholds: 3,360 HP (70%) | 1,920 HP (40%) | 480 HP (10%)
- - Base Defense: 65 | Speed Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
+ - Base Defense: 65 | Tempo Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
-   * Grudge : 0.5x (Endured — Forged from 400 years of war rage)
+   * Grudge : 0.5x (Withstood — Forged from 400 years of war rage)
    * Lament: 1.0x (Normal — Water dampens the burning grief)
    * Void : 2.0x (Exposed Weakness — Truth severing phantom lattice)
-   * Weight    : 0.5x (Endured — Cyclopean obsidian plate chassis)
+   * Weight    : 0.5x (Withstood — Cyclopean obsidian plate chassis)
 
  TARGETABLE COMPONENT PARTS:
  1. Solidified Fury Glaive (HP: 1,150 | Stagger: 450) — Sweeping crimson polearm
@@ -350,13 +350,13 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Acoustic Fault Lock]`, 2 AP on `[Acoustic Dart]`.
   * Jisoo (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 08, verifying casualty ledgers.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: SECC-1004 unleashes `[Fury Glaive Cleave]` (Base 18 + 2 Lots = 28 Power, Heavy Grudge/Slash).
+  * **Clash 1 (Node 02 to 05)**: SECC-1004 unleashes `[Fury Glaive Cleave]` (Base 18 + 2 Lots = 28 Power, Heavy Grudge/Gash).
     * Harin intercepts with `[Bastion Kinetic Lock]` (Base 21 + 2 Lots = 33 Power, Tower Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Harin plants the tower shield firmly into the obsidian ridge; the crimson fury glaive shudders violently and rebounds off the reinforced steel face (`[P3: Parry/Protection]`).
     * Harin reflects **260 kinetic tremor damage** into the glaive shaft, inflicting +52 Posture Strain!
   * **Unopposed Sapper Strike**:
-    * Doha's `[Pneumatic Wedge Drive]` cracks the obsidian bedrock beneath the Walker's lead foot, dealing **180 Blunt damage**!
+    * Doha's `[Pneumatic Wedge Drive]` cracks the obsidian bedrock beneath the Walker's lead foot, dealing **180 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Solidified Fury Glaive HP: 1,150 -> **890/1,150** | Posture: **188/280**.
   * Total Boss HP: 4,800 -> **4,540/4,800** | Posture: **288/340**.
@@ -403,14 +403,14 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
   * Sora (Speed 7 -> 4 AP): Holds Node 06, quelling burning embers with `[Silver Requiem]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 07 to 05)**: SECC-1004 swings with `[Occlusihan Shockwave]` (Base 18 + 2 Lots = 28 Power, Area Grudge).
-    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 24 + 3 Lots Marked = 43 Power, Void Slash).
+    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 24 + 3 Lots Marked = 43 Power, Void Gash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (43 vs 28)!
     * The dark relic cleaver slices cleanly through the Solidified Fury Glaive's central obsidian spine!
     * Deals **520 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Solidified Fury Glaive fractures into smoking black shards (**Glaive HP: 0/1,150**)!
     * **EFFECT**: Boss sweeping cleave permanently disabled; boss permanently loses 1 Speed Slot!
   * **Cuirass Armor Damage**:
-    * Doha's `[Pneumatic Fracture Ram]` cracks the Occlusihan Cuirass, dealing **260 Blunt damage**!
+    * Doha's `[Pneumatic Fracture Ram]` cracks the Occlusihan Cuirass, dealing **260 Bludgeon damage**!
 - **Step 4: Turn End State**:
   * Solidified Fury Glaive: **DESTROYED (0/1,150 HP)**.
   * Occlusihan Cuirass: 1,450 -> **1,110/1,450** | Posture: **232/300**.
@@ -461,7 +461,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
     * Doha clashes with `[Sapper Counter-Lever]` (Base 21 + 2 Lots = 33 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (33 vs 25)!
     * Doha levers his tungsten sapper spike into the Occlusihan Cuirass seam; the pneumatic ram detonations echo like artillery!
-    * The ancient war plate fractures from collar to waist, dealing **460 Blunt damage** and +82 Posture Strain!
+    * The ancient war plate fractures from collar to waist, dealing **460 Bludgeon damage** and +82 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (3,360 HP), falling to **3,100/4,800 HP**; Posture crosses 60% strain line!
   * **STAGGER LEVEL 1 ACTIVE!** The titan falls to its knees upon the obsidian ridge; all defenses drop to zero; takes +50% damage across all incoming attacks!
@@ -554,7 +554,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Walker awakens in titanic agony, releasing four centuries of unmourned war resentment!
   * Boss Special Skill: `[Cataclysmic Occlusihan Resentment]` (War Cataclysm, 3 Lots).
-  * Speed Dice expands to 4 slots! Phantoms of eighty thousand fallen soldiers materialize across the chasm.
+  * Tempo Dice expands to 4 slots! Phantoms of eighty thousand fallen soldiers materialize across the chasm.
   * Jisoo activates Relic Overdrive: `[ABSOLUTE ACKNOWLEDGMENT OF UNPAID DEBT — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Jisoo (Speed 8 -> 4 AP [Overdrive]): Steps onto the rift edge at Node 06, opening the Hydraulic Ballast Ledger.

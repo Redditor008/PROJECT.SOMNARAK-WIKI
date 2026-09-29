@@ -16,18 +16,18 @@
 |---|---|
 | Damage | Void 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Pattern | Pierce — up to 3 targets |
+| Pattern | Skewer — up to 3 targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 40 Sorrow Echoes |
 
 ### Appearance
 
-The Denial Lens is a pale, slightly convex Han-glass disc mounted on a short black handle, its surface clear in ordinary light and faintly warm when touched. A thin grey ring runs just inside the rim and brightens when the Lens severs a coercive identity, debt, or command mark from a target. The disc is small enough to hold in one hand, with a shallow thumb rest and a tether ring at the pommel. It follows linked marks through a short Pierce line but cannot remove an obligation the target still freely chooses; an attempted cut against voluntary connection rebounds as Void disorientation. The glass stays cool during the cut and grey for a short time afterward, and each use takes one small personal association from the bearer, a familiar route, a favorite meal, a remembered reason for staying. The lens is returned to its case face-up after a cut, and the grey ring fades only after the bearer writes down what the severed mark had held.
+The Denial Lens is a pale, slightly convex Han-glass disc mounted on a short black handle, its surface clear in ordinary light and faintly warm when touched. A thin grey ring runs just inside the rim and brightens when the Lens severs a coercive identity, debt, or command mark from a target. The disc is small enough to hold in one hand, with a shallow thumb rest and a tether ring at the pommel. It follows linked marks through a short Skewer line but cannot remove an obligation the target still freely chooses; an attempted cut against voluntary connection rebounds as Void disorientation. The glass stays cool during the cut and grey for a short time afterward, and each use takes one small personal association from the bearer, a familiar route, a favorite meal, a remembered reason for staying. The lens is returned to its case face-up after a cut, and the grey ring fades only after the bearer writes down what the severed mark had held.
 
 ### Ability— Refuse the Claim
 
-The Lens severs one coercive identity, debt, or command mark from a target and follows linked marks through a short Pierce line.
+The Lens severs one coercive identity, debt, or command mark from a target and follows linked marks through a short Skewer line.
 
 **Limit:** It cannot remove an obligation that the target still freely chooses. An attempted cut against voluntary connection rebounds as Void disorientation.
 

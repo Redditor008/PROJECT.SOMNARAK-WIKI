@@ -204,7 +204,7 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 
 Appearance : A traditional nine-inch Japanese tanto with a thick spine and razor-honed chisel tip, its wooden hilt and scabbard bound tightly in dried wild rose vines with sharp protective thorns.
 
-The wielder's grip draws small drops of blood from the thorns, attuning the blade to the bearer's vitality. Slashing targets inflicts deep lacerations that burn with plant alkaloid toxins.
+The wielder's grip draws small drops of blood from the thorns, attuning the blade to the bearer's vitality. Gash strikes inflict deep lacerations that burn with plant alkaloid toxins.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -212,7 +212,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack Pattern:** Pierce
+**Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.

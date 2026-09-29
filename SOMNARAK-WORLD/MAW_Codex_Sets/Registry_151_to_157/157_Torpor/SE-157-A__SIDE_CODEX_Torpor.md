@@ -99,7 +99,7 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 |---|---|
 | Damage | Weight 10–15 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce — up to three targets |
+| Attack Pattern | Skewer — up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 2 — Limited / 50 Sorrow Echoes |
 | Primary Cost | The bearer grows heavier and prolonged use ages them slightly. |

@@ -99,7 +99,7 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 |---|---|
 | Damage | Grudge 10–15 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce — three targets maximum |
+| Attack Pattern | Skewer — three targets maximum |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 2 — Limited / 50 Sorrow Echoes |
 | Primary Cost | Old wounds ache and prolonged use leaves crimson bruising. |

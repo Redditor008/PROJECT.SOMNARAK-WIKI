@@ -73,7 +73,7 @@ An echo forms only after one stored grievance is acknowledged, released without 
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Spite Fang:** Grudge 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Old wounds ache and bruise.
+- **Spite Fang:** Grudge 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; maximum 3; 40 Echoes. Old wounds ache and bruise.
 - **Spite Veil:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 3; 35 Echoes. It absorbs one hostile emotional effect and leaves the anger with the wearer.
 - **Spite Charm:** Tail Stigma; 4%; +2 Resilience during source work. It marks irresponsible emotional deposit; the bearer’s temper shortens.
 

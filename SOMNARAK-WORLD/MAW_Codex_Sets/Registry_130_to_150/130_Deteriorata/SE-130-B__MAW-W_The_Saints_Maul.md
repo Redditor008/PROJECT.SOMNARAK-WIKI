@@ -49,7 +49,7 @@ The Saint's Maul is a matte black maul with fine stone cracks around the head th
 |---|---|
 | Damage | Weight 7–12 direct |
 | Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Pattern / coverage | Skewer / up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | The bearer grows heavier; prolonged use causes slight aging. |

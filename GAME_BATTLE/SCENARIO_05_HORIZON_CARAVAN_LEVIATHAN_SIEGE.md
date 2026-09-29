@@ -109,7 +109,7 @@
 
 #### 4. Modular Part Damage & Composure Tracking
 - Gunner Hwaran fires a high-tensile steel harpoon from `[N02]` targeting the Vitreous Mandibles at `[N07]` (Distance = 5, Band 4 valid):
-  * Base Damage: 80 * Weight Multiplier (2.0x Fatal!) = 160 Massive Damage!
+  * Base Damage: 80 * Weight Multiplier (2.0x Dire!) = 160 Massive Damage!
   * Vitreous Mandibles HP: 1,400 -> 1,240 / 1,400 (Rupture Threshold: 840 HP).
   * Cable Anchor Attached: Leviathan is physically tethered to the Drift Throne's starboard winch!
 - Ley-Seer Sora channels an acoustic sensor scan:
@@ -140,9 +140,9 @@
   * Result: **Stalemate!** The cable groans under 400 tons of tension; the beast is halted from submerging, remaining trapped at Node `[N07]`.
 - **Targeted Mandible Assault:**
   * Kael executes *Sovereign Cleaver Sunder* (2 AP) against the left mandible hinge:
-    - Base Damage: 95 * Weight (2.0x Fatal!) = 190 Damage!
+    - Base Damage: 95 * Weight (2.0x Dire!) = 190 Damage!
   * Hwaran fires secondary explosive harpoon (2 AP):
-    - Base Damage: 85 * Weight (2.0x Fatal!) = 170 Damage!
+    - Base Damage: 85 * Weight (2.0x Dire!) = 170 Damage!
   * Vitreous Mandibles HP: 1,240 -> 880 / 1,400 (Rupture Threshold: 840 HP).
 
 #### 4. Posture & Composure Tracking
@@ -214,7 +214,7 @@
 - Kael steps forward with his heavy basalt surcoat, shielding Gwan from the supersonic glass spray.
 - Ley-Seer Sora taps into the embedded steel harpoon cables, using them as massive conductive acoustic conduits (3 AP):
   * Sora channels *Ley-Line Inversion Pulse* directly into the pulsing Siphon Heart:
-  * Void Resonance Multiplier: **2.0x Fatal!**
+  * Void Resonance Multiplier: **2.0x Dire!**
   * Siphon Heart Damage: 120 * 2.0x = 240 True Void Damage!
   * Siphon Heart HP: 2,200 -> 1,960 / 2,200.
   * Direct Composure Drain: -140 Composure Points!

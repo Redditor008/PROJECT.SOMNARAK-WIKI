@@ -29,7 +29,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Void 7–12 | 3 (Fast) | 3 (Medium) | Pierce / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+| Void 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
 **Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Corrosion Dream's source sorrow feel autobiographical.
 

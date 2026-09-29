@@ -99,7 +99,7 @@ No child-sized mannequins, abandoned toys, or unannounced injured personnel may 
 |---|---|
 | **Damage** | Grudge 10–15 |
 | **Speed / Range** | 3 — Fast / 3 — Medium |
-| **Pattern** | Pierce — up to 3 targets |
+| **Pattern** | Skewer — up to 3 targets |
 | **Falloff** | 100% → 70% → 50% |
 | **Cost** | 50 Sorrow Echoes |
 

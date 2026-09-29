@@ -29,7 +29,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Grudge 10–15 | 3 (Fast) | 3 (Medium) | Pierce / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+| Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
 **Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Welcome Haven's source sorrow feel autobiographical.
 

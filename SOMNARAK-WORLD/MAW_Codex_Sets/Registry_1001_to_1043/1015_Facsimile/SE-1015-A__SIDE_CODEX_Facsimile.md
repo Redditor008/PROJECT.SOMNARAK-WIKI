@@ -46,7 +46,7 @@ During the The Facsimile Source-Trace, the field team preserved this source fact
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Promise Fang | γ Grudge 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-1015-B__MAW-W_The_Promise_Fang.md` |
+| The Promise Fang | γ Grudge 7–12; Speed 3 (Fast); Range 3 (Medium); Skewer; max 3; 40 Sorrow Echoes | `SE-1015-B__MAW-W_The_Promise_Fang.md` |
 | The Promise Plate | γ; L/G/V/W 1 (Normal)/0.4 (Resistant)/1.8 (Weak)/1.2 (Weak); max 3; 35 Sorrow Echoes | `SE-1015-C__MAW-S_The_Promise_Plate.md` |
 | The Promise Shard | γ; Tail; 4%; +2 stat bonus when working the source entity | `SE-1015-D__MAW-G_The_Promise_Shard.md` |
 

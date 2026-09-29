@@ -9,7 +9,7 @@
 ## DEEP KNOWLEDGE — READ BEFORE WRITING
 
 - **Suit (C) is woven from resonance, not sewn.** Language: “woven from Han-gossamer,” “crystallized veil,” “weight of debt pressed into armor.”
-- **Resistances are multipliers:** `0.3–0.5` Resistant (strong), `0.8` Endured, `1.0` Neutral, `1.2–1.6` Weak, `2.0` Vulnerable. Every suit must list all 4 elements. Typical pattern: strong against donor element, weak against its opposite.
+- **Resistances are multipliers:** `0.3–0.5` Resistant (strong), `0.8` Withstood, `1.0` Neutral, `1.2–1.6` Weak, `2.0` Vulnerable. Every suit must list all 4 elements. Typical pattern: strong against donor element, weak against its opposite.
 - **No “defense points” — use multipliers.** Example: `Void: 0.3 (Resistant)` not `+30 armor`.
 - **Wielder cost for suits is ambient** — wearer feels absent, cold, hollow, tethered, not acute memory loss per swing (that’s Weapon). Suits erode identity slowly.
 
@@ -69,7 +69,7 @@ Registry Code: `MAW-S-{{NUM}}-01`
 
 | Element | Multiplier | Verdict |
 |---|---|---|
-| **Grudge (원한)** | {{0.8 / 1.0 / 1.2}} | {{Endured / Neutral / Weak}} |
+| **Grudge (원한)** | {{0.8 / 1.0 / 1.2}} | {{Withstood / Neutral / Weak}} |
 | **Lament (비탄)** | {{same}} | {{...}} |
 | **Void (공허)** | {{0.3 for Void donor typical}} | {{Resistant}} |
 | **Weight (비중)** | {{same}} | {{...}} |

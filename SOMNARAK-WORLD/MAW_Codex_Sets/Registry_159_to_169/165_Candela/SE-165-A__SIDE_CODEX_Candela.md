@@ -99,7 +99,7 @@ The set reveals approaching emotional danger and protects against Lament. It mus
 |---|---|
 | Damage | Lament 10–15 |
 | Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce — up to three targets |
+| Attack Pattern | Skewer — up to three targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 2 — Limited / 50 Sorrow Echoes |
 | Primary Cost | The bearer feels the Saint’s unwept grief and may weep after use. |

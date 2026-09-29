@@ -33,7 +33,7 @@ Grade γ echoes emerged after Sora copied one visible symbol, labeled its meanin
 
 | Piece | Canonical statistics | File |
 |---|---|---|
-| Relic Waiting for Its Maker’s Lens | Void 7–12; Speed 3; Range 3; Pierce 100/70/50%; max 3; 40 Echoes | `SE-651-B__MAW-W_Relic_Waiting_for_Its_Makers_Lens.md` |
+| Relic Waiting for Its Maker’s Lens | Void 7–12; Speed 3; Range 3; Skewer 100/70/50%; max 3; 40 Echoes | `SE-651-B__MAW-W_Relic_Waiting_for_Its_Makers_Lens.md` |
 | Relic Waiting for Its Maker’s Cover | 1.2/0.8/0.3/1.1; max 3; 35 Echoes; conceals presence | `SE-651-C__MAW-S_Relic_Waiting_for_Its_Makers_Cover.md` |
 | Relic Waiting for Its Maker’s Charm | Head; 4%; +2 Composure; preserves an unknown symbol | `SE-651-D__MAW-G_Relic_Waiting_for_Its_Makers_Charm.md` |
 

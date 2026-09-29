@@ -22,7 +22,7 @@
 
 ## Formation
 
-The Pale Tide Watch Ordeal. Only spawns during the Sorrow Tide. The accumulated Void Han of the facility coalesces into a single point of pure erasure — an entity that is defined by what it is not.
+The Ashen Tide Watch Ordeal. Only spawns during the Sorrow Tide. The accumulated Void Han of the facility coalesces into a single point of pure erasure — an entity that is defined by what it is not.
 
 ## Appearance
 
