@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A core of dark crimson fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. It never fully stops moving. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Fierce and protective |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate, near The Scar |
 | **Resolution Condition** | Bow or salute; acknowledge the war and the dead |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It has never attacked a respectful visitor.
 - The Flame patrols the same rift repeatedly.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Wrath Flame (O-IIIβ-120 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Flame formed from the rage of the six factions that fought in the Occlusihan. Held at The Desolate, near The Scar. It has never attacked a respectful visitor.
@@ -353,7 +353,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 **Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Wrath Flame
 **Containment Status:** Contained — The Desolate, near The Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

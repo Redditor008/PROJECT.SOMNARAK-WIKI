@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A fragment of frozen ruin — black crystal shaped like a slice of a broken building, its edges burning with a silent crimson rage that gives no heat. Bloodless-cold, it smells of ash; a piece of a place that no longer exists. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone C, Collector's Row |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It is not physically movable.
 - It responds strongly to Collector activity.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Frozen Fury (C-IVδ-668 [O]) is logged as a Object-Grudge manifestation expressing Void (Pale White). The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable.
@@ -389,7 +389,7 @@ Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the d
 **Classification:** Sorrow Entity — `C-IVδ-668 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Object-Grudge manifestation
 **Common Name:** Frozen Fury
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Ruin rages in cold stasis. Effect: proximity induces fury of the wrongly blamed.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

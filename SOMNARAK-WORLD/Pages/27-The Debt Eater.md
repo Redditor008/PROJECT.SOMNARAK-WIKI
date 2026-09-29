@@ -70,7 +70,7 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 | **Designation Code** | `SE-C-IIIβ-014` |
 | **Risk Classification** | Rank III: Fragment |
 | **Potency Subtype** | β (Moderate Resonance) |
-| **Work Damage Type** | ⚪ **Void** (8–19 damage per strike) |
+| **Work Reprisal Type** | ⚪ **Void** (8–19 damage per strike) |
 | **Base Work Duration** | 33.3 seconds (0.30 Han-Energy per second) |
 | **Work Cooldown** | 10.0 seconds |
 | **Max Han-Energy Output** | 18 Energy Units |

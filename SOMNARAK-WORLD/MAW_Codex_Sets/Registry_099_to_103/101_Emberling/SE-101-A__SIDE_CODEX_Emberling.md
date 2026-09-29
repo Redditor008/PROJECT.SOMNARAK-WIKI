@@ -27,7 +27,7 @@
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A small child with ash-warm skin, ember-veins, a coal heart, and one ember cradled in both hands. |
 | Gauge / pressure | 35–50% / Lament 8–20 |
-| Observation Level | 1 — Observed |
+| Comprehension Level | 1 — Observed |
 | M.A.W. Set | Unspent Ember |
 
 ### Core Sorrow

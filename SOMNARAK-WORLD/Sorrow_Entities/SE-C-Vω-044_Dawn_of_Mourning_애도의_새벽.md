@@ -16,7 +16,7 @@
 | **Physical Form** | A towering figure — the inverse of the Hand of Hope's golden warmth. Cold, pale light: white, violet, grey. Five pairs of wings made of crystallized tears, each a different shade of sorrow. A crown of thorned sorrow-crystals. A collar bearing 3,000+ names. Eyes the color of grief: violet so dark it is almost black. |
 | **Movement** | Teleportation between zones; moves with divine inevitability |
 | **Location** | Never contained — manifests when the Kind Healer chain is corrupted |
-| **R.D. Observation Level** | 5 — Sovereign |
+| **R.D. Comprehension Level** | 5 — Sovereign |
 
 > **Registry note:** Unknown Sorrow Entity registry, supplemental. The sorrow counterpart of The Hand of Hope (HT-V-HH-001). What the Kind Healer becomes when the transformation chain completes not in hope but in grief. Only ω-grade entity born from a Iα-grade entity.
 
@@ -31,7 +31,7 @@
 | **Primary pressure** | All Four simultaneously — cycling |
 | **Starting Sorrow Gauge** | 80–100% |
 | **Han-Energy yield** | N/A — cannot be worked |
-| **Work difficulty** | Impossible · R.D. Observation Level 5 — Sovereign |
+| **Work difficulty** | Impossible · R.D. Comprehension Level 5 — Sovereign |
 | **Activation threshold** | Corrupted chain completion (twelfth blessing in sorrow) |
 | **Tool / M.A.W. grade** | — · ω (Catastrophic) |
 | **Vessel-Destructible** | No — ω-grade divine entity |
@@ -70,7 +70,7 @@
 | **Coherence** | V — Sovereign |
 | **Primary Pressure** | All Four (cycling) |
 | **Starting Sorrow Gauge** | 80–100% |
-| **Difficulty** | Impossible · R.D. Observation Level 5 |
+| **Difficulty** | Impossible · R.D. Comprehension Level 5 |
 | **Valid Work Types** | None — the Dawn cannot be worked |
 | **Battlefield** | The entire city — the Dawn roams freely |
 | **Resolution Condition** | Confession Protocol: the twelfth Mourner confesses their sorrow |
@@ -237,7 +237,7 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 *Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 ## 관찰 기록 (Observation Log)
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 | Observation Amount | Log | Method |
 |---|---|---|
@@ -319,7 +319,7 @@ This is the healer who could not save herself. And this — all of this — is w
 **Classification:** Sorrow Entity — `C-Vω-044 [MH]` · City origin · Sovereign (V) coherence · Catastrophic (ω) potency · All Four elements · Subject-Body manifestation
 **Common Name:** Dawn of Mourning
 **Containment Status:** Uncontained — manifests when the Kind Healer chain is corrupted
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic. Dawn of Mourning is the city's grief given divine form — every sorrow the Kind Healer ever absorbed, apotheosized. It cannot be contained conventionally. Only the Confession Protocol works.
 **Containment & Handling Procedures:**
 - Do not allow the Kind Healer chain to corrupt. This is the primary containment measure.

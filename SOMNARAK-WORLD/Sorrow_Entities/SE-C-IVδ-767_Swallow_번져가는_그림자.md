@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Less a body than a place of dimming light — a large shadow that spreads across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, it smells of cold rain; there is nothing to strike, only the spreading dark. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Name the source of the grief and return emotional ownership |
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It is strongest near memorials and old records.
 - It fades when grief is named by its original source.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Swallow (C-IVδ-767 [LP]) is logged as a Place-Grudge manifestation expressing Lament (Deep Blue). The Shadow formed from grief that outlived the person who first carried it. Held at Zone A, Alpha Tree. It is strongest near memorials and old records.
@@ -361,7 +361,7 @@ Some sorrows are personal. Swallow is a sorrow that lost its owner — or rather
 **Classification:** Sorrow Entity — `C-IVδ-767` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Grudge manifestation
 **Common Name:** Swallow
 **Containment Status:** Contained — beneath Alpha Tree
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Shadow spreads, absorbing visitors’ grief. Effect: visitors’ private sorrow rises and merges with the Shadow.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

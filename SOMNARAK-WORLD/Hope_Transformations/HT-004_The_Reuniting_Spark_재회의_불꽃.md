@@ -201,7 +201,7 @@ The Spark, satisfied at last, settled against Duri's fingertips and went quiet. 
 **Common Name:** The Reuniting Spark (재회의 불꽃)
 **Bearer:** Duri, The Collector
 **Bond / Containment Status:** Active, bonded to Hope Bearer Duri. Not contained; deployed with scouting and recovery teams. All recovered fragments require independent verification before authentication.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior; resistant to Sorrow Entity corruption but highly vulnerable to false identities and emotionally coercive bonds. The Spark locates surviving connections, not the lost themselves; it cannot resurrect the dead or reconstruct a full consciousness from one fragment. Primary risk is false reunion—the Bearer may find a thing resembling the lost and choose to believe it is enough.
 **Operational & Handling Procedures:**
 - No reunion performed without the consent of the living parties whenever consent can be obtained.

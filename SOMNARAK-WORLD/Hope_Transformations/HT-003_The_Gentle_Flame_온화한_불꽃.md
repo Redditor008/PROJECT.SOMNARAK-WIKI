@@ -201,7 +201,7 @@ Later, when the child's fever finally broke, Sooah wept—not for the child she 
 **Common Name:** The Gentle Flame (온화한 불꽃)
 **Bearer:** Sooah, The Healer
 **Bond / Containment Status:** Active, bonded to Hope Bearer Sooah. Not contained; deployed through the Dawn Initiative medical wing and field operations. Bearer must not be deployed without a relief medic.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No predatory behavior; resistant to Sorrow Entity corruption. Primary risk is Bearer overuse: the Flame can sustain treatment beyond safe limits, and the Bearer interprets its efficacy as proof she may never stop. Healing is real but leaves a scar—it does not sever the patient's connection to what happened.
 **Operational & Handling Procedures:**
 - Mandatory relief- medic assignment for all Bearer deployments; the Flame's ability to heal does not authorize indefinite self-sacrifice.

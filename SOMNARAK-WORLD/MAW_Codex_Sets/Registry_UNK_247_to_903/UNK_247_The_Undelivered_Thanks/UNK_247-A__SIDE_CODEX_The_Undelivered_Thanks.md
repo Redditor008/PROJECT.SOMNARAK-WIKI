@@ -49,7 +49,7 @@ A translucent commoner remains perpetually mid-bow along the old Dawn routes, ca
 | Element | Weight (Black) |
 | Manifestation | Subject-Phantasmal |
 | Location | Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D |
-| R.D. Observation Level | 2 — Basic |
+| R.D. Comprehension Level | 2 — Basic |
 | Starting Sorrow Gauge | 40–55% |
 | Activation threshold | 1 |
 | Sorrow Gauge [HP] | 435/435 |

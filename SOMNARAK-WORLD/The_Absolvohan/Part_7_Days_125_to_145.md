@@ -905,7 +905,7 @@ Majin places his hand against the glass: *"The world was waiting for us to stop 
 
 > **Majin:** _"In the Black Forest... the birds judged, punished, and blinded because they believed people were inherently treacherous."_
 
-> **Zyrak:** _"And now they see people who should be killing each other sharing bread. The math broke, Majin. Their justification for the Apocalypse Bird just dissolved."_
+> **Zyrak:** _"And now they see people who should be killing each other sharing bread. The math broke, Majin. Their justification for the Last Murmuration just dissolved."_
 
 > **Majin:** _"...Then do not disturb them. Let them watch."_
 

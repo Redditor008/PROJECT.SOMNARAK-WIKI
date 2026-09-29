@@ -16,7 +16,7 @@
 | **Physical Form** | Colossal Scribe Entity — A towering twelve-meter phantom composed of thousands of overlapping, yellowed municipal tax ledgers, debt contracts, and blood-stamped fingerprints. It has thirty pairs of ink-stained hands that continuously transcribe unpaid obligations onto the floor, walls, and the skin of anyone within its presence. |
 | **Movement** | Creeping Sub-Vault Manifestation (0.5 m/s). |
 | **Location** | The Deep Vault beneath Facility 01 / Municipal Central Ledger Crypt |
-| **R.D. Observation Level** | 4 — Sovereign Archival Oversight |
+| **R.D. Comprehension Level** | 4 — Sovereign Archival Oversight |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Karmic Compression / Inter-Generational Burden |
 | **Starting Sorrow Gauge** | 980/980 |
 | **Han-Energy yield** | 30–45 Han-Energy per successful audited reconciliation |
-| **Work difficulty** | Sovereign · R.D. Observation Level 4 |
+| **Work difficulty** | Sovereign · R.D. Comprehension Level 4 |
 | **Activation threshold** | Civil Debt Registry audit periods |
 | **Tool / M.A.W. grade** | Grade ω |
 | **Vessel-Destructible** | No (Metaphysical Legal Structure) |
@@ -68,7 +68,7 @@
 | { *The Crushing Scroll* [**AoE**] } | "Tons of archival paper cascade from the ceiling like a basalt avalanche." | [Unrolls a massive ledger cylinder across the central containment floor.] | *Deals 35-50 Weight damage to all ground personnel; pins targets.* **[35-50 Black DMG]** | When Sorrow Gauge reaches 60%. |
 | { *Ledger of the Unforgiven* [**Ultimate**] } | "The crypt walls turn to solid ink; every breath tastes of ancient copper debts." | [Summons the full weight of four centuries of unredeemed municipal debt.] | *Deals 60-85 Black Weight damage across entire sector; triggers instant Fracture.* **[60-85 Black DMG]** | When Sorrow Gauge reaches 90%. |
 
-## Observation Levels
+## Comprehension Levels
 
 ### Level 1 — Minimal Observation
 Deep vault custodians reported finding reams of ancient debt scrolls unrolling themselves along maintenance pipes in Floor 6. Any technician who touched the parchment was seized by intense shame regarding their parents' past failures.

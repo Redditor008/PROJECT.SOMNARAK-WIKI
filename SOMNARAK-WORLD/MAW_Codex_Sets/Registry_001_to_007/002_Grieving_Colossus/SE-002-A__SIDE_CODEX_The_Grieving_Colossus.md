@@ -27,7 +27,7 @@
 | **Element** | Weight — Black |
 | **Scale** | Approximately 30 meters tall |
 | **Location** | Zone D migration corridor |
-| **Observation Level** | 2 — Basic |
+| **Comprehension Level** | 2 — Basic |
 | **M.A.W. Set** | Mourning Set |
 
 ### Core Sorrow

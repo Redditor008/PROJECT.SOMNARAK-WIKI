@@ -27,7 +27,7 @@
 | **Element** | Lament — Deep Blue |
 | **Form** | Eagle-sized bird with 144 unblinking eyes |
 | **Location** | SECTOR-B-01, Three Birds containment |
-| **Observation Level** | 3 — Understood |
+| **Comprehension Level** | 3 — Understood |
 | **M.A.W. Set** | Witness Set |
 
 ### Core Sorrow

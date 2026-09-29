@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A thin crimson trace spreading slowly across floors, walls, and empty surfaces — the shape of a footprint with no walker making it. Fever-cold, it smells of char; follow it and it leads to no one. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Mantle Commons |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Map the trace and stop repeating the grievance |
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It spreads along repeated paths rather than physical cracks.
 - Its origin has not been identified.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Anger Underfoot (C-Iα-175 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Trace formed from a grievance carried through places rather than people. Held at Zone D, Mantle Commons. It spreads along repeated paths rather than physical cracks.
@@ -363,7 +363,7 @@ Some sorrows are about a wound. Anger Underfoot is about the scar the wound left
 **Classification:** Sorrow Entity — `C-Iα-175 [GP]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** Anger Underfoot
 **Containment Status:** Uncontained — Mantle Commons
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Anger of the dead staining the cobblestones. Effect: crossing the Trace induces directionless fury.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

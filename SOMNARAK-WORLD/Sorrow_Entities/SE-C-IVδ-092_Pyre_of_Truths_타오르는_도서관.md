@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A vast library of true wood shelves and paper books, perpetually wrapped in fire that illuminates the pages without ever consuming them — the flames alive, flickering crimson, heating without burning. Fever-hot, it smells of char and old paper; the books turn themselves. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-B-02, Zone B — contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, protective of knowledge |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-02, Zone B — contained |
 | **Resolution Condition** | Approach with curiosity rather than possession or destruction |
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The Library contains pre-Consolihan records not found elsewhere.
@@ -284,7 +284,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Pyre of Truths (C-IVδ-092 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Library formed from knowledge that was censored, forbidden, or erased. Held at SECTOR-B-02, Zone B — contained. The Library contains pre-Consolihan records not found elsewhere.
@@ -376,7 +376,7 @@ Some sorrows are about loss. Pyre of Truths is about suppression — the truths 
 **Classification:** Sorrow Entity — `C-IVδ-092 [GP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** Pyre of Truths
 **Containment Status:** Contained — Zone A
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Library burns perpetually with forbidden truth. Effect: viewers see censored records in the flames.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

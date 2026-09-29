@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A predatory thicket of mobile thorned vines that crawls and lashes like a nest of serpents — a hunting creature of braided crimson creeper that grips and drags. Warm where it bleeds sap, it smells of char and crushed green. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | SECTOR-D-02, near Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Beautiful but painful |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, near Echo Gardens |
 | **Resolution Condition** | Acknowledge the injury; do not cut the flowers |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Garden watches visitors through flowers that turn toward them.
 - Thorns respond to anger more than movement.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Briar (C-IIIγ-145 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Garden formed from grief that learned to defend itself as anger. Held at SECTOR-D-02, near Echo Gardens. The Garden watches visitors through flowers that turn toward them.
@@ -391,7 +391,7 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 **Classification:** Sorrow Entity — `C-IIIγ-145 [GP]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** Briar
 **Containment Status:** Contained — near Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Garden is a thicket of armed memorial flowers. Contact draws blood.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.

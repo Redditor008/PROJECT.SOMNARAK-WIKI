@@ -27,7 +27,7 @@
 | Element | Lament — Deep Blue |
 | Form | Tear-bodied young woman |
 | Location | SECTOR-D-02, Three Sisters containment |
-| Observation Level | 1 — Initial |
+| Comprehension Level | 1 — Initial |
 | M.A.W. Set | Tear Set |
 
 ### Core Sorrow

@@ -27,7 +27,7 @@
 | Element | Void — Pale White |
 | Form | Lacquered smiling mask with dark absorbing interior |
 | Location | SECTOR-C-01, Masked Troupe |
-| Observation Level | 4 — Mastered |
+| Comprehension Level | 4 — Mastered |
 | M.A.W. Set | Joy Set |
 
 ### Core Sorrow

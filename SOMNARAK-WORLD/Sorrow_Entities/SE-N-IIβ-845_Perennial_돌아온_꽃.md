@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A patch of dark flowers that uproot and walk on thin stem-legs — a swarming bloom-creature that returns no matter how often crushed, petals like tiny mouths. Lead-cold, they smell of wet stone. |
 | **Movement** | Mobile — moves as a creature. |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Acknowledge the place's history and do not claim it as unchanged |
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The flowers sing faintly during the Sorrow Tide.
 - Removing them causes them to return elsewhere along the same route.
@@ -291,7 +291,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Perennial (N-IIβ-845 [WP]) is logged as a Place-Void manifestation expressing Weight (Black). The Flower formed from a place that was repeatedly abandoned. Held at The Desolate — mobile. The flowers sing faintly during the Sorrow Tide.
@@ -381,7 +381,7 @@ Some sorrows mourn a home. Perennial mourns the pattern — the settlement found
 **Classification:** Sorrow Entity — `N-IIβ-845 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Void manifestation
 **Common Name:** Perennial
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

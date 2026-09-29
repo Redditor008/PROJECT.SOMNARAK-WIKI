@@ -27,7 +27,7 @@
 | **Element** | Void — Pale White |
 | **Form** | Pale shield-winged bird guarding an absent object |
 | **Location** | SECTOR-B-01, Three Birds containment |
-| **Observation Level** | 3 — Understood |
+| **Comprehension Level** | 3 — Understood |
 | **M.A.W. Set** | Guardian Set |
 
 ### Core Sorrow

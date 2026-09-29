@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — An emptiness shaped like a person, split clean by a jagged vertical tear — no visible material, only a bent-space silhouette that warps the air around it. Lead-cold, it smells of wet stone; you see it most in what it distorts behind it. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | Zone D, Mantle Commons |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Use memory anchors and reconstruct the person's history without inventing missing pieces |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The entity creates discontinuity rather than ordinary destruction.
 - Personnel report longing for memories they cannot identify.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight (Black). The Trace formed from a life broken into disconnected pieces. Held at Zone D, Mantle Commons. The entity creates discontinuity rather than ordinary destruction.
@@ -351,7 +351,7 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 **Classification:** Sorrow Entity — `C-IVδ-250 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Subject-Void manifestation
 **Common Name:** Restless Gap
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A person-shaped gap from Han-fractured memories. Effect: proximity induces the disconnection from one’s own past.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

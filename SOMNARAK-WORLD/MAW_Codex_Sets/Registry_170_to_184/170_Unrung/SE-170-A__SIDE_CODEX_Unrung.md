@@ -27,7 +27,7 @@
 | Location | SECTOR-A-01, near the Orphaned Bell |
 | Form | A pale silent bell shaped like the Orphaned Bell, absorbing sound instead of making it—the Bell’s hushed twin. |
 | Gauge / pressure | 35–50% / Void 8–20 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Heard Warning |
 
 ### Core Sorrow

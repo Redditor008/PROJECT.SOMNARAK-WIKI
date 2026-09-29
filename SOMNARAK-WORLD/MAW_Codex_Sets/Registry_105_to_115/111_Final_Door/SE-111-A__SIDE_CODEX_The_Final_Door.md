@@ -26,7 +26,7 @@
 | Element | Void — Pale White |
 | Location | SECTOR-A-01, deepest Alpha Tree vault |
 | Form | A massive black Han-crystal slab with no handle, lock, or hinge, sealed before all surviving record. |
-| Observation Level | 1 — Minimal |
+| Comprehension Level | 1 — Minimal |
 | M.A.W. Status | No extraction authorized |
 
 ### Core Sorrow

@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A figure shaped like a torn flower — true soft petals split down the center, weeping from the tear, growing in the cracks between old buildings. Its petals are warm and give like flesh; fever-cold at the split, it smells of char and crushed bloom. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B, Old Lament — ambient |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Do not repair or pick it; witness the torn form |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It appears in damaged memorials.
 - It becomes calmer when someone remains nearby.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Torn Flower (C-Iα-247 [O]) is logged as a Subject-Lament manifestation expressing Grudge (Crimson). The Flower formed from a promise broken while someone was still waiting. Held at Zone B, Old Lament — ambient. It appears in damaged memorials.
@@ -349,7 +349,7 @@ Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that ope
 **Classification:** Sorrow Entity — `C-Iα-247 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Lament manifestation
 **Common Name:** Torn Flower
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A bloom torn before the mourner arrived. Effect: proximity induces the grief of a memorial destroyed before it could serve.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.

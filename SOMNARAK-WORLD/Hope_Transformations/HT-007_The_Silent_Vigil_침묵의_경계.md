@@ -165,7 +165,7 @@ The Vigil said nothing. It simply returned to the door, where it has stood every
 **Common Name:** The Silent Vigil (침묵의 경계)
 **Bearer:** Midnight, The Watchman
 **Bond / Containment Status:** Active, bonded to Hope Bearer Midnight. Not contained; deployed for guard and night operations across the Dawn Initiative.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior. High defensive value during rest and low-visibility operations. The Vigil detects and warns but cannot always identify a threat's source and cannot prevent every attack. Primary risk is Bearer fatigue and the compulsive refusal to delegate protection; the entity will dim its own field rather than allow the Bearer to destroy themselves through endless vigilance.
 **Operational & Handling Procedures:**
 - Enforce Bearer rest: the Vigil will not permit more than three consecutive nights without intervention; do not override this.

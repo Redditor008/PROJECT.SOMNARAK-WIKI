@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A massive loom of crystallized Dream-stuff, its frame pale and cold, its threads weaving on their own with no visible operator — knotting visions, nightmares, and half-remembered rooms. Salt-damp, it smells of cold rain; the shuttle moves to no hand. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, near Dream Gates |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) — Self-aware, creative, manipulative |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - The Loom responds to desire more than touch.
 - Dreams produced by it can affect physical rooms.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Loom of Unlived Dreams (C-IVγ-176 [LO]) is logged as a Object-Dream manifestation expressing Lament (Deep Blue). The Loom formed from dreams abandoned before they could become lives. Held at SECTOR-A-01, near Dream Gates. The Loom responds to desire more than touch.
@@ -391,7 +391,7 @@ Some sorrows mourn what was lost. Loom of Unlived Dreams mourns what was dreamed
 **Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Dream manifestation
 **Common Name:** The Dream Weaver’s Loom
 **Containment Status:** Contained — Dream Gates
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Loom weaves itself from abandoned dreams. Effect: viewers see their own unlived futures in the fabric.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

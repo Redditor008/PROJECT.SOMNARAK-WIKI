@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A single tear frozen into dark blue crystal the size of a fist, suspended and still. Against all sense it is warm, not cold. Salt-damp, it smells of cold rain on old cloth; held too long, it begins to weep real tears. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | SECTOR-D-02, Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats melting, never melting |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It is one of the most visited minor entities in the Gardens.
 - No authorized worker has touched it.
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Frozen Tear (C-IIβ-102 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Tear formed from sorrow too deep to flow. Held at SECTOR-D-02, Echo Gardens. It is one of the most visited minor entities in the Gardens.
@@ -390,7 +390,7 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 **Classification:** Sorrow Entity — `C-IIβ-102 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** Frozen Tear
 **Containment Status:** Open memorial display — Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal direct danger. No Fractures recorded. Prolonged proximity surfaces a viewer’s own unwept grief. Effect is passive and emotional.
 **Containment & Handling Procedures:**
 - Do not touch. Contact violates the entity’s memorial nature.

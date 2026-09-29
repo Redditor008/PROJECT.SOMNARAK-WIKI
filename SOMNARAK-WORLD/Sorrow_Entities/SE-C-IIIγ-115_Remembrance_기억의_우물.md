@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A deep stone well, its rim worn and dark, filled not with water but with liquid memory — a slow, viscous surface that reflects the viewer's own past rather than their face. The stone is cold; the liquid is numb and faintly sweet with the smell of ash. A dropped stone rings with a forgotten voice. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, beneath the Grand Archive |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Deep and patient |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, beneath the Grand Archive |
 | **Resolution Condition** | Seal access and permit only supervised viewing |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - The Well contains liquid memory from every period of Somnarak.
 - It does not judge what it shows.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Remembrance (C-IIIγ-115 [VP]) is logged as a Place-Void manifestation expressing Void (Pale White). The Well formed from memories flowing downward through Somnarak's foundations. Held at SECTOR-A-01, beneath the Grand Archive. The Well contains liquid memory from every period of Somnarak.
@@ -391,7 +391,7 @@ Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives t
 **Classification:** Sorrow Entity — `C-IIIγ-115 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
 **Common Name:** Remembrance
 **Containment Status:** Contained — beneath the Grand Archive
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Well is a shaft of unclaimed memories.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

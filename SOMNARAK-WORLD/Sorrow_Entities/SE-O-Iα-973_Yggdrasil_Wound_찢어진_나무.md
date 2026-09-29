@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A tree-beast split crown-to-root, each half a lurching creature of pale wood dragging itself on half a root-system, the tear between them glowing. Bloodless-warm, it smells of ash; two halves of one creature, crawling. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone B, deep tunnels |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, deep tunnels |
 | **Resolution Condition** | Ground the worker and permit both memories to remain |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The Tree is perceived mentally rather than physically.
 - Its warmth increases when a memory is denied.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Yggdrasil Wound (O-Iα-973 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Tree formed from a mind divided by loss. Held at Zone B, deep tunnels. The Tree is perceived mentally rather than physically.
@@ -347,7 +347,7 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 **Classification:** Sorrow Entity — `O-Iα-973 [VS]` · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** Yggdrasil Wound
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

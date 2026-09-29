@@ -27,7 +27,7 @@
 | Location | Zone D, Mantle Commons |
 | Form | Distant warm laughter with no body or physical vibration, thinning slowly until it becomes unbearable sadness. |
 | Gauge / pressure | 25–40% / Lament 3–10 |
-| Observation Level | 1 — Observed |
+| Comprehension Level | 1 — Observed |
 | M.A.W. Set | Joy After |
 
 ### Core Sorrow

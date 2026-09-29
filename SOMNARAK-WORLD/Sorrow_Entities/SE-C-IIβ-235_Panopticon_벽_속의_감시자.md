@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Not a body but eyes — embedded in walls, ceilings, and doorframes, watching, blinking. A translucent watcher-figure may coalesce only once the observer accepts being seen. The walls are bloodless-cold and smell of ash; the eyes never look away. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B, Old Lament — ambient |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats watching |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Look back and accept being witnessed; do not blind the walls |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The eyes do not blink or sleep.
 - They record actions but do not produce verdicts.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Panopticon (C-IIβ-235 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The Watcher formed from surveillance without intervention. Held at Zone B, Old Lament — ambient. The eyes do not blink or sleep.
@@ -353,7 +353,7 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 **Classification:** Sorrow Entity — `C-IIβ-235 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** Panopticon
 **Containment Status:** Ambient — Zone D (mobile through infrastructure)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Watcher observes. It never acts. Effect: personnel feel observed by a system that will never help.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

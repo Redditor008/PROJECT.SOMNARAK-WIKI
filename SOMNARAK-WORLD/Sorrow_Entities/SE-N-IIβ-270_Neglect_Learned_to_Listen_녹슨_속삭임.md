@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A rust-colored patch of the Old Lament where whispers cling to walls, pipes, and abandoned metal, the corrosion itself the residue of old words. Lead-cold, it smells of wet iron; no body — only the rusting sound. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Preserve and acknowledge what was discarded; do not simply remove the rust |
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The place watches through corroded surfaces.
 - Rust contains fragments of abandoned testimony.
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Neglect Learned to Listen (N-IIβ-270 [WP]) is logged as a Place-Grudge manifestation expressing Weight (Black). The Whisper formed from burdens discarded by the city. Held at Zone B, Old Lament. The place watches through corroded surfaces.
@@ -363,7 +363,7 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 **Classification:** Sorrow Entity — `N-IIβ-270 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Grudge manifestation
 **Common Name:** Neglect Learned to Listen
 **Containment Status:** Contained — Zone B, Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

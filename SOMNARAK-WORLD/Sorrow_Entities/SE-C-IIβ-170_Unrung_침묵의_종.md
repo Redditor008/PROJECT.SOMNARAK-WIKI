@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A bell identical in shape to the Orphaned Bell but utterly silent, its surface absorbing sound rather than making any, so the world goes muffled near it. The metal is bloodless-cold and pale; it smells of ash — the Orphaned Bell's hushed twin. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It vibrates near honest listeners but never produces ordinary sound.
 - It resonates with the Orphaned Bell without becoming audible.
@@ -303,7 +303,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Unrung (C-IIβ-170 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Bell formed from warnings that were ignored. Held at SECTOR-A-01, near the Orphaned Bell. It vibrates near honest listeners but never produces ordinary sound.
@@ -395,7 +395,7 @@ Some sorrows mourn cruelty. Unrung mourns a failure — the warning that stayed 
 **Classification:** Sorrow Entity — `C-IIβ-170 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** Unrung
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Bell is silent. It will never ring. Effect: proximity induces the horror of warnings that failed.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A small child, perhaps five years old, its body woven from true living tissue and slow-glowing embers — warm ash-skin, ember-veins, a heart of coal. It cradles a single ember that never dies. Fever-warm and faintly smoking, it smells of cold rain on dying coals. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats wandering and seeking warmth |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-02, Echo Gardens — contained |
 | **Resolution Condition** | Sit beside it, share warmth, and offer comfort. Do not chase or seize the ember |
@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - The Child has never attempted to harm personnel.
@@ -280,7 +280,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Emberling (C-IIβ-101 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Child formed from a forgotten fairy tale about a girl carrying embers through the cold while searching for warmth no one could give. Held at SECTOR-D-02, Echo Gardens — contained. The Child has never attempted to harm personnel.
@@ -371,7 +371,7 @@ Some sorrows are about cruelty. Emberling is about absence — the simple absenc
 **Classification:** Sorrow Entity — `C-IIβ-101 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** Emberling
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Child wanders seeking warmth. Effect: exposure induces childlike loneliness. No breach.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

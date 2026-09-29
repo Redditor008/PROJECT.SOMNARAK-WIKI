@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A tall figure whose body resembles a tower split cleanly down the middle, burning at the seam, its upper half leaning toward a skyline that is not there. Stone-flesh and live fire braided together; bloodless-cold and fever-hot. It smells of ash and char. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Do not complete the structure; document what was intended and lost |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It moves along the footprint of the abandoned tower.
 - Its flames are emotional rather than physical.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Cleaved (C-IIβ-775 [VS]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Tower formed from a structure that was never completed. Held at Zone B, Old Lament. It moves along the footprint of the abandoned tower.
@@ -351,7 +351,7 @@ Some sorrows mourn what was destroyed. Cleaved mourns what was never finished �
 **Classification:** Sorrow Entity — `C-IIβ-775` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Grudge manifestation
 **Common Name:** Cleaved
 **Containment Status:** Contained — Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The unbuilt tower appears as a flicker. Effect: viewers see the complete tower, then the skeleton. Disorienting.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

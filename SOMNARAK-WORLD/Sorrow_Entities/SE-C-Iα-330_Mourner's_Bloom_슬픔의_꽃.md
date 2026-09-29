@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A flower whose stem has become a sinuous stalk-body, roots coiling like legs, petals opening into a luminous maw — a small creeping predator-creature. Salt-damp, it smells of cold rain. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone D, Echo Gardens |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) — Barely formed, passive |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - Flowers bloom in response to nearby sorrow.
 - They wilt when joy is forced rather than felt.
@@ -316,7 +316,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Mourner's Bloom (C-Iα-330 [D]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Flower formed from one honest moment of mourning. Held at Zone D, Echo Gardens. Flowers bloom in response to nearby sorrow.
@@ -406,7 +406,7 @@ Some sorrows mourn a loss. Mourner's Bloom mourns the hiding — the grief the c
 **Classification:** Sorrow Entity — `C-Iα-330 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** Mourner's Bloom
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal. A flower grown from one honest moment of mourning. Effect: proximity induces the relief of permitted grief.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

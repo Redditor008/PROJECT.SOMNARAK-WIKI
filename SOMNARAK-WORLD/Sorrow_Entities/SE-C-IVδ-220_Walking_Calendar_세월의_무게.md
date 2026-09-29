@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — An ancient figure draped in layer upon layer — stone slabs, old calendars, worn city records — all fused to its body, each step adding another year to its frame. Lead-heavy and slow, it smells of wet stone and dust; to stand near it is to feel your own years press down. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Ancient and weary |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep storage |
 | **Resolution Condition** | Archive the truth; do not erase or excuse it |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - The entity's weight increases during anniversaries of historical tragedies.
 - Its singing is composed of dates rather than melodies.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The entity formed from the accumulated years of unacknowledged history. Held at SECTOR-A-01, Alpha Tree deep storage. The entity's weight increases during anniversaries of historical tragedies.
@@ -351,7 +351,7 @@ Some sorrows are personal. Walking Calendar is historical — the accumulated gu
 **Classification:** Sorrow Entity — `C-IVδ-220 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** Walking Calendar
 **Containment Status:** Contained — Zone A
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. An impossibly old figure carrying centuries of inherited guilt. Effect: proximity induces the burden of unacknowledged history.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

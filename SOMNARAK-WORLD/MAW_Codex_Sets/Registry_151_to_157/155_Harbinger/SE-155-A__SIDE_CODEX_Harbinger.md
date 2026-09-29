@@ -27,7 +27,7 @@
 | Location | Zone C, Collector’s Row — ambient |
 | Form | A human-shaped shadow cast by nothing, seen only from the corner of the eye or in reflection, always behind the debtor who turns to face it. |
 | Gauge / pressure | 35–50% / Weight 8–20 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Known Balance |
 
 ### Core Sorrow

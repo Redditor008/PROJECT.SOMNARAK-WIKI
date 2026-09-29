@@ -37,7 +37,7 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 | Element | Void (Pale White) |
 | Manifestation | Place-Void |
 | Location | A four-way junction in the Mantle Commons, Zone D |
-| R.D. Observation Level | 3 — Elevated |
+| R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 55–70% |
 | Activation threshold | 2 |
 | Sorrow Gauge [HP] | 910/910 |

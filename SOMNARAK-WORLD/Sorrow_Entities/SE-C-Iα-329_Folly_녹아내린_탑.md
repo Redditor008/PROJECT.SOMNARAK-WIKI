@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A tower-shaped crystal structure that melts slowly upward — its mass dissolving toward the sky without ever leaving rubble, as though being un-built from the ground. Bloodless-cold, it smells of ash; the melt never finishes. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone E, Border region |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Preserve the unfinished form; do not reconstruct |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It melts without heat.
 - No material accumulates beneath it.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Folly (C-Iα-329 [VO]) is logged as a Object-Grudge manifestation expressing Void (Pale White). The Tower formed from potential that never became architecture. Held at Zone E, Border region. It melts without heat.
@@ -387,7 +387,7 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 **Classification:** Sorrow Entity — `C-Iα-329 [VO]` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Object-Grudge manifestation
 **Common Name:** Folly
 **Containment Status:** Contained — border district
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A fading outline of an unbuilt tower. Effect: viewers see the planned tower dissolving.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

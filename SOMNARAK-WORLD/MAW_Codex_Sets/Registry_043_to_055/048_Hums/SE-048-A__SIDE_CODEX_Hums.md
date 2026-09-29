@@ -27,7 +27,7 @@
 | Element | Lament — Deep Blue |
 | Form | Warm palm-sized stone holding songs of the dead |
 | Location | SECTOR-D-02, Echo Gardens |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Singing Set |
 
 ### Core Sorrow

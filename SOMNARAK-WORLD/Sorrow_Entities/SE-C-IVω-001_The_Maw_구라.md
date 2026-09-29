@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — Not a creature but a district: a wound in Zone B where the buildings lean inward as if to listen, the walls curve toward every voice, and the ground stays soft, as though the black tar that consumed the thousand never fully solidified. The concrete is stained dark and whispers; there is no single body — the place itself is the entity, and it hungers. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B district — **UNCONTAINED** |
-| **R.D. Observation Level** | 5 — Sovereign |
+| **R.D. Comprehension Level** | 5 — Sovereign |
 
 ## Operational Parameters
 
@@ -31,7 +31,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 75–95% |
 | **Han-Energy yield** | 28–40 Han-Energy per successful work cycle |
-| **Work difficulty** | Extreme · R.D. Observation Level 5 — Sovereign |
+| **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Sovereign |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · ω (Catastrophic) |
 | **Vessel-Destructible** | No — ω-grade / Place-manifestation |
@@ -70,7 +70,7 @@
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 75–95% |
-| **Difficulty** | Extreme · R.D. Observation Level 5 — Sovereign |
+| **Difficulty** | Extreme · R.D. Comprehension Level 5 — Sovereign |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B district — UNCONTAINED |
 | **Resolution Condition** | No true containment is possible. Architects reinforce the perimeter while Taeho negotiates with the thousand |
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 5 — Sovereign
+**R.D. Comprehension Level:** 5 — Sovereign
 
 **Key Observations:**
 - The Maw expands at 2.3 centimeters per year.
@@ -297,7 +297,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Maw (C-IVω-001 [GP]) is logged as a Place-Tale manifestation expressing Grudge (Crimson). The Maw is the site of the Cheongula, the First Sorrow. Held at Zone B district — UNCONTAINED. The Maw expands at 2.3 centimeters per year.
@@ -393,7 +393,7 @@ This is the first sorrow. This is the wound. This is the thousand, beneath the c
 **Classification:** Sorrow Entity — `C-IVω-001 [GP]` · City origin · Entity (IV) coherence · Catastrophic (ω) potency · Grudge (Crimson) · Place-Tale manifestation
 **Common Name:** The Maw
 **Containment Status:** Uncontained — the consumed district (containment IS the district)
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic. The Maw is the city’s foundation: a thousand consumed citizens, alive in the walls, whispering, growing. The only ω-grade entity. Cannot be contained conventionally.
 **Containment & Handling Procedures:**
 - Do not engage without Director approval.

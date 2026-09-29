@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — An empty rope-shaped figure that watches from the edge of consciousness — a loop of fibre with no visible hands or face, hanging as though from a neck that isn't there. Fever-cold, it smells of char; the shape of something tied and never untied. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Do not promise return; release the rope consciously |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It is perceived more clearly by people waiting for someone.
 - It binds emotionally but never physically.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Soaking Rope (N-Iα-316 [D]) is logged as a Subject-Void manifestation expressing Grudge (Crimson). The Rope formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.
@@ -349,7 +349,7 @@ Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's fai
 **Classification:** Sorrow Entity — `N-Iα-316 [D]` · Grudge (Crimson) · Subject-Void manifestation
 **Common Name:** Soaking Rope
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

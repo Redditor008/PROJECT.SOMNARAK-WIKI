@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A dream-figure formed from a whisper crushed beneath layers of static and red light — half-formed, watching from the edge of sleep, never fully arriving. Little body to it; only the pressure of a silenced warning. Fever-cold, it smells of char and dead signals. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Capture fragments without inventing the missing message |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It sings through dream distortion.
 - Its warnings are fragments, not prophecies.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Collapsed Whisper (C-IVδ-249 [GS]) is logged as a Subject-Dream manifestation expressing Grudge (Crimson). The Whisper formed from a warning that collapsed before reaching anyone. Held at The Desolate — mobile. It sings through dream distortion.
@@ -347,7 +347,7 @@ Some sorrows are about the danger. Collapsed Whisper is about the warning — th
 **Classification:** Sorrow Entity — `C-IVδ-249 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Dream manifestation
 **Common Name:** Collapsed Whisper
 **Containment Status:** Contained — the Desolate
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A scout’s warning, dissolved by the storm, repeating eternally. Effect: proximity induces the agony of arriving too late.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

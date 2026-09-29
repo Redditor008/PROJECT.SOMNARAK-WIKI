@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A massive dead tree that has uprooted to walk on knotted root-legs, its hollow trunk a gaping mouth that drags in whatever passes — a lumbering plant-creature of stripped bark. Lead-cold, it smells of wet stone. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | SECTOR-D-02, Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, ancient, patient |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit inside or beside the Tree; do not fill it with objects |
@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Tree is passive but emotionally hazardous.
 - Its hollow interior produces no echo.
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Hollow Tree (C-IVγ-205 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Tree formed from a life lived without being filled by purpose or love. Held at SECTOR-D-02, Echo Gardens. The Tree is passive but emotionally hazardous.
@@ -356,7 +356,7 @@ Some sorrows mourn what was lost. Hollow Tree mourns what never filled it — th
 **Classification:** Sorrow Entity — `C-IVγ-205 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** Hollow Tree
 **Containment Status:** Contained — Zone D
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A tree grown to fullness, hollow inside. Effect: proximity induces the emptiness of growth without purpose.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

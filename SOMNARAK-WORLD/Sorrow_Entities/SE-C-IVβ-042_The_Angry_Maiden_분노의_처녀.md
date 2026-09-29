@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, rigid with held fury — skin flushed dark, fists clenched, jaw set, heat radiating from her like a banked fire. She is warm, alive, and coiled to strike; the air around her carries the smell of char and old smoke. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, fierce, burning |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-02, contained with the Three Sisters |
 | **Resolution Condition** | Validate the anger; do not deny or argue with it |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The Maiden has never breached, but containment depends on sister-group stability.
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Angry Maiden (C-IVβ-042 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Maiden formed from the grief of a child killed by violence. Held at SECTOR-D-02, contained with the Three Sisters. The Maiden has never breached, but containment depends on sister-group stability.
@@ -365,7 +365,7 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 **Classification:** Sorrow Entity — `C-IVβ-042` · City origin · Entity (IV) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Angry Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Maiden burns with a steady blue fire. Effect: proximity induces the fury of justice denied.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

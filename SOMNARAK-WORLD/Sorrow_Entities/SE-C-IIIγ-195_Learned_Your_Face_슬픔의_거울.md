@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A tall mirror of pale-black crystal in a cold, dark frame, whose surface reflects not the viewer but only their sorrow — a face twisted by whatever grief they carry. The glass is bloodless-cold and gives back no warmth; near it, the flat smell of ash and a thickening silence. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-01, Alpha Tree |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Reflective and honest |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It reflects sorrow, not appearance.
 - The Mirror is warmer near genuine tears.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Learned Your Face (C-IIIγ-195 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mirror formed from sorrow that people concealed from one another. Held at SECTOR-A-01, Alpha Tree. It reflects sorrow, not appearance.
@@ -389,7 +389,7 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 **Classification:** Sorrow Entity — `C-IIIγ-195 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** Learned Your Face
 **Containment Status:** Contained — Alpha Tree, Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Mirror shows the viewer’s own grief. Effect: intensified loneliness.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

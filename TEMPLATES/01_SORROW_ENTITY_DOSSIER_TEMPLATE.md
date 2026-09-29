@@ -49,7 +49,7 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 | **Physical Form** | {{Organic / Inorganic / Acoustic / Phenomenological — 2 sentences}} |
 | **Movement** | {{Mobile / Stationary / Phase-shifting — and breach capability}} |
 | **Location** | {{SECTOR-X-##, Zone [A-E] — containment status}} |
-| **R.D. Observation Level** | {{1–5 — 1 Minimal, 5 Sovereign}} |
+| **R.D. Comprehension Level** | {{1–5 — 1 Minimal, 5 Sovereign}} |
 
 ## Operational Parameters
 
@@ -60,7 +60,7 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 | **Primary pressure** | {{Identity / memory / composure / structural pressure}} |
 | **Starting Sorrow Gauge** | {{15–30% for α up to 70–85% for ω}} |
 | **Han-Energy yield** | {{6–12 for α up to 40–60 for ω}} Han-Energy per successful work cycle |
-| **Work difficulty** | {{Minimal / Low / Moderate / High / Catastrophic}} · R.D. Observation Level {{1–5}} |
+| **Work difficulty** | {{Minimal / Low / Moderate / High / Catastrophic}} · R.D. Comprehension Level {{1–5}} |
 | **Activation threshold** | {{Gauge % or turn count}} |
 | **Tool / M.A.W. grade** | {{— · α/β/γ/δ/ω}} |
 | **Vessel-Destructible** | {{Yes / No}} |
@@ -140,7 +140,7 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** {{1–5}}
+**R.D. Comprehension Level:** {{1–5}}
 
 **Key Observations:**
 - {{Observation 1}}

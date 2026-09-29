@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A massive ancient door of black Han-crystal — no handle, no lock, no hinges, a sealed slab that has never been opened. Bloodless-cold, it smells of ash; it stands at the end of every corridor that leads nowhere, and no one knows what waits behind it. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
-| **R.D. Observation Level** | 1 — Minimal |
+| **R.D. Comprehension Level** | 1 — Minimal |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 1 — Minimal |
+| **Work difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · Unknown |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Sovereign (V) — Autonomous, mysterious |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 1 — Minimal |
+| **Difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -289,7 +289,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Minimal
+**R.D. Comprehension Level:** 1 — Minimal
 
 **Key Observations:**
 - The Door predates the facility, city, and all known records.
@@ -315,7 +315,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Final Door (C-Vδ-111 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). Unknown. The Door represents the sorrow of the unknown and the fear of what cannot be understood. Held at SECTOR-A-01, deepest Alpha Tree vault — sealed. The Door predates the facility, city, and all known records.
@@ -406,7 +406,7 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 **Classification:** Sorrow Entity — `C-Vδ-111 [VO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Final Door
 **Containment Status:** Sealed — beneath the Alpha Tree
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Unknown. The Door is sealed, predating the city. Contents unknown. Risk: opening is considered potentially world-ending.
 **Containment & Handling Procedures:**
 - Do not open. Under any circumstances.

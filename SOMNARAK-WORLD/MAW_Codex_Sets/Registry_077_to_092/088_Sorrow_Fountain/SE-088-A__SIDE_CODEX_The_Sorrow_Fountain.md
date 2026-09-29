@@ -27,7 +27,7 @@
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A low moss-ringed basin that weeps warm saline grief into a bottomless pool which reflects no face. |
 | Gauge / pressure | 45–65% / Lament 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Shared Current |
 
 ### Core Sorrow

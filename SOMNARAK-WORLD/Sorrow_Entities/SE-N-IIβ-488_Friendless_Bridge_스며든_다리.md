@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A bridge-shaped object of empty crystal that spreads across ledgers and floors without ever connecting two physical points — a span to nowhere. Fever-cold, it smells of char; it crosses nothing, yet cannot be walked off. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone C, Collector's Row |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It has no stable endpoints.
 - It spreads through ledgers and family records.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expressing Grudge (Crimson). The Bridge formed from a connection that was promised but never built. Held at Zone C, Collector's Row. It has no stable endpoints.
@@ -387,7 +387,7 @@ Some sorrows are about separation. Friendless Bridge is about the promised reuni
 **Classification:** Sorrow Entity — `N-IIβ-488 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Void manifestation
 **Common Name:** Friendless Bridge
 **Containment Status:** Contained — Zone C, Collector's Row
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

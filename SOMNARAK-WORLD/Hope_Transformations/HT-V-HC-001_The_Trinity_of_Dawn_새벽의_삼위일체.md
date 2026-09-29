@@ -163,7 +163,7 @@ The Trinity still retains the memories and functions of all three Birds. The eye
 **Classification:** Hope Convergence — `HT-V-HC-001 [H]` · Hope-Convergence aspect · Sovereign (V) coherence · Radiant (Ω) Hope intensity · Light, Warmth, Spark, and Shield elements · Hybrid converged Subject/Light presence
 **Common Name:** The Trinity of Dawn (새벽의 삼위일체)
 **Status:** Active current-cycle Sovereign Hope Entity; distinct from the Sorrow Entity the Convergence. Not contained; access requires Dawn Initiative coordination.
-**Observation Level:** 4 — Sovereign-Class Monitoring
+**Comprehension Level:** 4 — Sovereign-Class Monitoring
 **Hope Assessment:** No hostile behavior; radiant and stabilizing. The Trinity harmonizes conflicting sorrow, calms groups without erasing disagreement, reveals unequal burdens without assigning a sentence, and protects shared space while people decide what to do next. It cannot erase guilt, decide justice, resurrect the dead, or permanently transform every Sorrow Entity it touches. Critical risk: forced or hostile convergence may reproduce the Convergence—the destructive Sorrow Entity—rather than this Hope form. The Trinity is strongest when permitted to separate again; permanent forced convergence recreates the conditions of judgment.
 **Operational & Handling Procedures:**
 - Expand only when three or more opposing groups choose to remain present rather than withdraw or attack.

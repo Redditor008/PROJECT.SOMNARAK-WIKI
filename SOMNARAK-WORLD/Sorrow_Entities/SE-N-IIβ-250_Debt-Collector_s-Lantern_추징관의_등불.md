@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — An old lantern of tarnished metal that glows brighter the heavier the nearby debt, burning with pale cold light rather than flame. Lead-cold, it smells of wet stone; carried by no one, yet it always finds the indebted. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone C, Collector's Row — ambient |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats glowing |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row — ambient |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It glows near debtors and Collectors alike.
 - Its light is brighter for inherited obligations.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Debt-Collector's-Lantern (N-IIβ-250 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Lantern formed from the sorrow of collecting from others. Held at Zone C, Collector's Row — ambient. It glows near debtors and Collectors alike.
@@ -387,7 +387,7 @@ Some sorrows are about debt. Debt-Collector's-Lantern is about the collecting �
 **Classification:** Sorrow Entity — `N-IIβ-250 [WO]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** Debt-Collector's-Lantern
 **Containment Status:** Contained — Zone C, Collector's Row — ambient
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

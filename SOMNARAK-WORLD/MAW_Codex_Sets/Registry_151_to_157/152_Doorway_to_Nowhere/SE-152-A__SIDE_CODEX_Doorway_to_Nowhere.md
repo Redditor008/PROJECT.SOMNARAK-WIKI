@@ -27,7 +27,7 @@
 | Location | Zone A, Alpha Tree |
 | Form | A burning, wall-less door frame of charred wood and live emotional fire; its handle opens onto a different memory each time. |
 | Gauge / pressure | 35–50% / Lament 8–20 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Carried Threshold |
 
 ### Core Sorrow

@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, its edges still faintly gold, its core gone cold and crimson where the hope burned out. Fever-cold, it smells of char; a light that failed, walking. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
-| **R.D. Observation Level** | 3 — Elevated |
+| **R.D. Comprehension Level** | 3 — Elevated |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Emotional / hope-erosion pressure |
 | **Starting Sorrow Gauge** | 65–80% |
 | **Han-Energy yield** | 12–16 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Elevated |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | β · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 65–80% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Elevated |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
 | **Resolution Condition** | Sustained Ferrehan — a light that does not flinch and does not promise forever |
@@ -212,7 +212,7 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Elevated
+**R.D. Comprehension Level:** 3 — Elevated
 
 - It ignores the hopeless entirely — walks past them; it only engages Hope signatures.
 - The frost-word 'again?' appears wherever it pauses.
@@ -233,7 +233,7 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The subject is a humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges faintly gold, core gone cold and crimson. It shifts color: gold at the extremities (what it was), crimson-black at the heart (what losing it made it). Frost follows where it walks, and the frost spells, in Old Somnarak, the same word at every pause: *again?* The figure ignores the hopeless and walks past them. It engages only Hope-signatures.
@@ -322,7 +322,7 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 **Classification:** Sorrow Entity — `N-IVγ-250 [GS]` · Inner origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Extinguished
 **Containment Status:** Uncontained / Wandering — drifts its old district; pursues Hope signatures
-**Observation Level:** 3 — Elevated
+**Comprehension Level:** 3 — Elevated
 **Threat Assessment:** Major active threat to Hope Bearers and Hope-signatures; ignores the hopeless. Escalates against Bearers who fear burnout; withdraws from honest, steady presence. Resolve-draining cold-burn leaves frost scars. No Fracture recorded among civilians; significant risk to overextended Bearers.
 **Containment & Handling Procedures:**
 - Ferrehan is the only valid primary Work Type. Hold steady without promising permanence.

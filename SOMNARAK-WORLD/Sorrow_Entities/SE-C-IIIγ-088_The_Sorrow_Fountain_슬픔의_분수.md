@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A broad, low basin of worn grey stone, ringed with moss that should be dead but is alive, weeping a slow dark liquid thicker than water — closer to tears, or to lymph. The pool has no visible bottom and reflects no face; its surface moves with the grief of whoever stands nearest. The liquid is warm, faintly saline, and smells of rain on old cloth. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | SECTOR-D-02, Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Endlessly sad |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Share the burden through witness; do not drain the pool |
@@ -286,7 +286,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Fountain grows during memorial seasons.
 - It contains no ordinary water.
@@ -308,7 +308,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Sorrow Fountain (C-IIIγ-088 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Fountain formed from grief that needed a place to flow. Held at SECTOR-D-02, Echo Gardens. The Fountain grows during memorial seasons.
@@ -398,7 +398,7 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 **Classification:** Sorrow Entity — `C-IIIγ-088 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Sorrow Fountain
 **Containment Status:** Contained — Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Fountain is a feature of the Gardens, not a creature. It flows continuously. Visitors report reduced grief near it, not increased. Effect is shared mourning, not attack.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

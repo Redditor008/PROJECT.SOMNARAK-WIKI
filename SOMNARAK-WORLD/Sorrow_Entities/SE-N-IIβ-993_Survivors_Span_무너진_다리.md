@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A weeping figure shaped like a collapsed bridge — a body of cracked stone and twisted span draped across its shoulders, weeping as it walks under the weight. Lead-cold, it smells of wet stone; it carries a crossing that failed, and cannot set it down. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B, deep tunnels |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, deep tunnels |
 | **Resolution Condition** | Do not blame the worker; share the names of those lost |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It waits beneath the same tunnel network.
 - Its tears gather but never flood the tracks.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Survivor's Span (N-IIβ-993 [WS]) is logged as a Subject-Lament manifestation expressing Weight (Black). The entity formed from a bridge collapse remembered by one survivor. Held at Zone B, deep tunnels. It waits beneath the same tunnel network.
@@ -349,7 +349,7 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 **Classification:** Sorrow Entity — `N-IIβ-993 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Lament manifestation
 **Common Name:** Survivor's Span
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A survivor stands on the far shore, carrying those who fell. Effect: proximity induces survivor’s guilt.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

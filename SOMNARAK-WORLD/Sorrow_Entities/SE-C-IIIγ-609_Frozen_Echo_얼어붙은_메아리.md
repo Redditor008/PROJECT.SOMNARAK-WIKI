@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A heavy, cold crystal object — not shaped into anything familiar, just a dense mass of pale-blue Han-crystal — holding, frozen inside it, an echo of every hand that has touched it, each imprint visible like a fossil. It is salt-damp and smells of cold rain; the echoes stir faintly when approached. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It grows heavier with each new witness.
 - It is cold physically and emotionally.
@@ -295,7 +295,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Frozen Echo (C-IIIγ-609 [D]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Echo formed from an object passed between too many grieving people. Held at The Desolate, near The Scar. It grows heavier with each new witness.
@@ -383,7 +383,7 @@ Some sorrows are owned. Frozen Echo is a sorrow that lost its owner — or rathe
 **Classification:** Sorrow Entity — `C-IIIγ-609 [LW]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** Frozen Echo
 **Containment Status:** Contained — the Desolate, near the Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Echo is a relic crowded with borrowed memories. Always cold.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

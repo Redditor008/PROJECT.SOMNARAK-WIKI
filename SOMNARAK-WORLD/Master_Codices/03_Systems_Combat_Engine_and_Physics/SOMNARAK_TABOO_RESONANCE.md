@@ -197,7 +197,7 @@
 
 **Cost:** Keepers lose parts of themselves over time. The more memories they store, the more their own identity erodes. The oldest Keepers have difficulty remembering their own names. They remember *everything* — except themselves.
 
-**The Whispering Index:** The Archive's catalog of memories — it *speaks* to those who listen. The Keepers hear it constantly. Some find it comforting. Others find it maddening.
+**The Whispering Catalog:** The Archive's catalog of memories — it *speaks* to those who listen. The Keepers hear it constantly. Some find it comforting. Others find it maddening.
 
 ---
 

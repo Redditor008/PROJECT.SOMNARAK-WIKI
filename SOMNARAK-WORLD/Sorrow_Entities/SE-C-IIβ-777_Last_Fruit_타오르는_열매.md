@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A humanoid shaped from a single burning fruit — a bright red core at its center, a skin that chars and chars but is never consumed. Embers drift from it; the flesh is warm and gives slightly, like fruit. Fever-hot, it smells of char and overripe sweetness. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Name the desire; do not promise to fulfill it |
@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It glows near concealed wants.
 - Sparks become seeds that vanish before touching the ground.
@@ -265,7 +265,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Last Fruit (C-IIβ-777 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The entity formed from desire denied until it became anger. Held at Zone C, Mask Market. It glows near concealed wants.
@@ -355,7 +355,7 @@ Some sorrows are about what was taken. Last Fruit is about what was wanted and f
 **Classification:** Sorrow Entity — `C-IIβ-777` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** Last Fruit
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The entity burns with denied desire. Effect: proximity induces rage from shamed wanting.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

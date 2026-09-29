@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A creature of burning roots that drags itself on fiery root-legs, its body a thrashing knot of ember-branches — a walking pyre-creature planted in motion. Fever-warm, it smells of char and wet earth. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone C, Collector's Row |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Collector's Row |
 | **Resolution Condition** | Name the burden without calling it selfhood |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It follows debt records and family names.
 - Its fire warms before it burns.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Burning Root (C-IIIγ-558 [WS]) is logged as a Subject-Grudge manifestation expressing Weight (Black). The Root formed from obligations carried so long that they became familiar rather than heavy. Held at Zone C, Collector's Row. It follows debt records and family names.
@@ -349,7 +349,7 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 **Classification:** Sorrow Entity — `C-IIIγ-558 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Grudge manifestation
 **Common Name:** Burning Root
 **Containment Status:** Contained — Zone C, Collector’s Row
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Root smolders with inherited obligation that became identity.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

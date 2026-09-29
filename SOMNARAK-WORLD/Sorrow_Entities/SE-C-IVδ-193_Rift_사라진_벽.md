@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A wall-shaped absence in the Old Lament — not a wall, but the place where one should be, felt as pressure and seen as a faint vertical distortion in the air. Lead-cold, it smells of wet stone; you walk around it though nothing is there. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B, Old Lament — ambient |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Name the history of the boundary before crossing |
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Wall has no physical material.
 - Its pressure increases when people deny the district's history.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Rift (C-IVδ-193 [WP]) is logged as a Place-Grudge manifestation expressing Weight (Black). The Wall formed from a boundary removed without healing the separation it caused. Held at Zone B, Old Lament — ambient. The Wall has no physical material.
@@ -363,7 +363,7 @@ Some sorrows are about barriers built. Rift is about a barrier removed — the w
 **Classification:** Sorrow Entity — `C-IVδ-193 [WP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Place-Grudge manifestation
 **Common Name:** Rift
 **Containment Status:** Uncontained — Zone C
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. An invisible wall dividing a district that demolished its physical wall. Effect: crossing the boundary induces old suspicion.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

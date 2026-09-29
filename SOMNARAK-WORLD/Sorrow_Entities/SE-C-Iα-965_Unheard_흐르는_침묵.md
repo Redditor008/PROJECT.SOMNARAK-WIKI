@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A pressure with no visible body that flows through the Collector's Row like a current of silence — a hush that moves, swallowing sound as it passes. There is nothing to see; only the quiet and the weight. Fever-cold, it smells of char. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone C, Collector's Row |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Collector's Row |
 | **Resolution Condition** | Do not force sound into it; listen and record what remains |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - The entity is the final entry in the Codex's current sequence.
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Unheard (C-Iα-965 [N]) is logged as a Subject-Weight manifestation expressing Grudge (Crimson). The entity formed from a city that stopped listening to its own final words. Held at Zone C, Collector's Row. The entity is the final entry in the Codex's current sequence.
@@ -354,7 +354,7 @@ Some sorrows are about being silenced. Unheard is about the absorption — the p
 **Classification:** Sorrow Entity — `C-Iα-965 [N]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Weight manifestation
 **Common Name:** Unheard
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The silence of absorbed protest, flowing through the system. Effect: proximity induces the pressure of unsaid words.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

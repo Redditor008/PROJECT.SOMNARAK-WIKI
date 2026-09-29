@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A massive spider-like being whose body is woven from crystallized memories rather than flesh — translucent, flickering with the stolen faces and voices caught inside it. Eight legs of braided memory-thread; its many eyes are Han-crystal sockets in which thousands of tiny recollections turn endlessly. It is cold, dry, almost weightless, yet drips a thin numb damp wherever a memory dissolves. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | SECTOR-B-02, Zone B — library of stolen pasts; contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware and intelligent |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-02, Zone B — library of stolen pasts; contained |
 | **Resolution Condition** | Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - Standard observation tools miss the Weaver's Dream-layer webs.
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Memory Weaver (C-IVγ-009 [VS]) is logged as a Subject-Dream manifestation expressing Void (Pale White). The Weaver was born from histories erased from the city's record—the sorrow of people removed from collective memory. Held at SECTOR-B-02, Zone B — library of stolen pasts; contained. Standard observation tools miss the Weaver's Dream-layer webs.
@@ -364,7 +364,7 @@ Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the cit
 **Classification:** Sorrow Entity — `C-IVγ-009` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Subject-Dream manifestation
 **Common Name:** The Memory Weaver
 **Containment Status:** Contained — Archive
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Weaver collects erased histories. Effect: proximity induces the terror of being erased.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

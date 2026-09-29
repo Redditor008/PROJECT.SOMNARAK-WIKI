@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A pale stone pillar sunk halfway into the Desolate ground, only its upper portion visible; where carvings should be, its surface shows only empty spaces, as though the inscriptions were erased. Bloodless-cold, it smells of ash; the buried half is felt as a pressure more than seen. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Distinguish possibility from memory; do not excavate |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It sinks deeper when attacked.
 - Its empty carvings respond to mourning.
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Sunken Pillar (C-IIIγ-649 [VP]) is logged as a Place-Void manifestation expressing Void (Pale White). The Pillar formed from a monument to things that never existed. Held at The Desolate — mobile. It sinks deeper when attacked.
@@ -359,7 +359,7 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 **Classification:** Sorrow Entity — `C-IIIγ-649 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
 **Common Name:** Sunken Pillar
 **Containment Status:** Mobile — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Pillar is a monument to unborn generations, half-buried.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

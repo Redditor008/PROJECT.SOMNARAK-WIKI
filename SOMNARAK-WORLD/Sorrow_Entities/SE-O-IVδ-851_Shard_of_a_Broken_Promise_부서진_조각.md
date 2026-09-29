@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A large shard of pale crystal with a clean break splitting it to the center, humming low when touched. Salt-cold, it smells of cold rain; the break never finishes separating, and never heals. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It hums even in an empty room.
 - The break is not physical damage that can be repaired.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Shard of a Broken Promise (O-IVδ-851 [LO]) is logged as a Object-Void manifestation expressing Lament (Deep Blue). The Shard formed from a promise broken while the promised object remained intact. Held at Zone A, Alpha Tree vault. It hums even in an empty room.
@@ -389,7 +389,7 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 **Classification:** Sorrow Entity — `O-IVδ-851 [LO]` · Lament (Deep Blue) · Object-Void manifestation
 **Common Name:** Shard of a Broken Promise
 **Containment Status:** Contained — Zone A, Alpha Tree vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

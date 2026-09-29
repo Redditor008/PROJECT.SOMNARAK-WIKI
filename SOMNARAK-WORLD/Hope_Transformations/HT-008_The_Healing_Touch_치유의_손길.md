@@ -176,7 +176,7 @@ It was also the first repair Seol trusted—because for the first time, Seol had
 **Common Name:** The Healing Touch (치유의 손길)
 **Bearer:** Seol, The Apprentice
 **Bond / Containment Status:** Active, bonded to Hope Bearer Seol. Not contained; deployed for structural and emotional repair across damaged zones. All major repairs require a second-person safety review before activation.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior. High utility in damaged and crystallized zones. The Touch prioritizes continuity over perfect restoration; it deliberately refuses to restore prisons, traps, or coercive seals to full function. Primary risk is Bearer compulsion to repair abandoned structures even when none can safely use them, and the difficulty of choosing what to leave changed.
 **Operational & Handling Procedures:**
 - Every major repair requires a second reviewer before activation; the Bearer must not be the sole judge of what is restored.

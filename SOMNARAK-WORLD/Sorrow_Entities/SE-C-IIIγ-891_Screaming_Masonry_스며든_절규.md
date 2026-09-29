@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — Not a body but a floating, crystallized scream: a heavy, dark shard of solidified sound that drifts on sorrow-currents, visible as a jagged weight of compressed air. It is lead-cold and smells of wet stone; where it passes, the silenced shout presses against the chest. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone B, Old Lament — ambient |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Acknowledge duties without accepting impossible blame |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Scream is felt more than heard.
 - It spreads through walls and old contracts.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Screaming Masonry (C-IIIγ-891 [D]) is logged as a Object-Lament manifestation expressing Weight (Black). The Scream formed from obligations that were never fulfilled. Held at Zone B, Old Lament — ambient. The Scream is felt more than heard.
@@ -389,7 +389,7 @@ Some sorrows are about what was done to you. Screaming Masonry is about what you
 **Classification:** Sorrow Entity — `C-IIIγ-891 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Lament manifestation
 **Common Name:** Screaming Masonry
 **Containment Status:** Ambient — Old Lament, Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. Ambient pressure from broken promises in walls.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

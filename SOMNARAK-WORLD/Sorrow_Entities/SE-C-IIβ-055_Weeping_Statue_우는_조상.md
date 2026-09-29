@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A weeping statue carved of dark stone, robed and bowed, true tears solidifying as they fall and piling at its feet. The carved stone is warm where tears run, salt-damp, smelling of cold rain; a sculpted grief that will not stop. |
 | **Movement** | Stationary — an artwork. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-02, Echo Gardens — contained |
 | **Resolution Condition** | Share the grief. Do not drain or destroy the tears |
@@ -252,7 +252,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - The Statue has never attempted to breach; only its tears expand.
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Weeping Statue (C-IIβ-055 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to breach; only its tears expand.
@@ -367,7 +367,7 @@ Some sorrows are released. Weeping Statue is a sorrow that was forbidden to rele
 **Classification:** Sorrow Entity — `C-IIβ-055 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** Weeping Statue
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Statue weeps continuously. Effect: visitors feel their own swallowed grief rise. No Fractures.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

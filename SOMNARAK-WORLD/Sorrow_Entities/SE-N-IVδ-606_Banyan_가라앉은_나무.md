@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A drowned tree-beast dragging itself beneath the Mask Market floor, branch-arms and a weeping face pressing up through the crystal — a submerged creature of waterlogged wood. Salt-damp, it smells of cold rain and depth. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Allow honest expression; do not seal the roots again |
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Tree is visible only through reflections and transparent floors.
 - It grows during the Sorrow Tide.
@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Banyan (N-IVδ-606 [LP]) is logged as a Place-Grudge manifestation expressing Lament (Deep Blue). The Tree formed from sorrow deliberately buried beneath performance and masks. Held at Zone C, Mask Market. The Tree is visible only through reflections and transparent floors.
@@ -383,7 +383,7 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 **Classification:** Sorrow Entity — `N-IVδ-606 [LP]` · Lament (Deep Blue) · Place-Grudge manifestation
 **Common Name:** Banyan
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

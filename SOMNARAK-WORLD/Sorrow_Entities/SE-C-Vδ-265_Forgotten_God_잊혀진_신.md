@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A massive humanoid sleeping in the sealed vault beneath the Alpha Tree, its body built from every sorrow at once — flesh threaded with crystal, fire, ash, and stone, shifting hue as each surfaces. Warm and cold by turns, it smells of rain, char, ash, and wet stone together. It has never woken; some say the city was built to keep it asleep. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-A-01, beneath the Alpha Tree — sealed |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mixed pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Sovereign (V) — Autonomous, ancient, sleeping |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-A-01, beneath the Alpha Tree — sealed |
 | **Resolution Condition** | Do not wake, address, or attempt extraction. Maintain the sealed vault |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 - The God has never fully awakened.
 - Its dreams leak into the city as prayer and nightmare.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten God (C-Vδ-265 [LS]) is logged as a Subject-Body manifestation expressing All four — Lament, Grudge, Void, Weight. The God predates the current city and was once worshipped as a deity of sorrow. Held at SECTOR-A-01, beneath the Alpha Tree — sealed. The God has never fully awakened.
@@ -355,7 +355,7 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 **Classification:** Sorrow Entity — `C-Vδ-265 [LS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Mixed (All Four) · Subject-Body manifestation
 **Common Name:** Forgotten God
 **Containment Status:** Sleeping — beneath the Alpha Tree
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Unknown (dormant). The God sleeps. It was once worshipped; the city outgrew it. Effect: proximity induces the weight of abandoned faith.
 **Containment & Handling Procedures:**
 - Do not wake the God.

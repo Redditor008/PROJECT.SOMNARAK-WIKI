@@ -161,7 +161,7 @@ That night, by the beacon's low glow, Hwaran stopped calling survival an escape.
 **Common Name:** The Burning Hope (타오르는 희망)
 **Bearer:** Hwaran, The Refugee
 **Bond / Containment Status:** Active, bonded to Hope Bearer Hwaran. Not contained; deployed for rescue and combat support. Bearer requires mandatory recovery periods after beacon-scale activation.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior; resistant to Sorrow Entity corruption. Self-sacrifice-sensitive: the flame converts fear and survivor's guilt into forward motion but cannot make the Bearer fearless, and excessive use turns courage into reckless compulsion. It burns hottest in protection, not pursuit, and refuses to feed the Furnace's rage even when stronger rage is available.
 **Operational & Handling Procedures:**
 - Mandatory recovery after beacon-scale activation; do not redeploy the Bearer until the scorched-palm and fever markers subside.

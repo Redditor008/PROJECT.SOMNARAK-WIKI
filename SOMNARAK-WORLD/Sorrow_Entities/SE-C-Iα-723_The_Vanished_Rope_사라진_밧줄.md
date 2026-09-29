@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A burning humanoid whose limbs are woven from rope — true fibre gone to ember — fading in and out of visibility, the rope severed at both ends so it leads to and from nothing. Fever-warm, it smells of cold rain on burning hemp; it reaches as though asking to be tied. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Name what was lost; do not attempt to recreate the bond |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - Mobile, non-territorial, and more active during the Sorrow Tide.
 - Fire dims when a worker acknowledges abandonment.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Vanished Rope (C-Iα-723 [LS]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The entity formed from the grief of a severed connection. Held at The Desolate — mobile. Mobile, non-territorial, and more active during the Sorrow Tide.
@@ -355,7 +355,7 @@ Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tet
 **Classification:** Sorrow Entity — `C-Iα-723 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Grudge manifestation
 **Common Name:** The Vanished Rope
 **Containment Status:** Contained — the Desolate (near Gate)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A rope connecting nothing, held by the survivor. Effect: proximity induces the helplessness of holding an invisible end.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.

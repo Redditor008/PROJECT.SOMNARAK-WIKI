@@ -16,7 +16,7 @@
 | **Physical Form** | Vitrified Bipedal Construct — A towering, emaciated figure made of fused volcanic glass, obsidian flakes, and molten copper slag. Its chest cavity holds a spinning turbine of superheated red sand that emits high-pitched grinding shrieks whenever it faces oncoming storms. |
 | **Movement** | Mobile — Glides across smooth glass sheets at variable speeds (up to 4.5 m/s). |
 | **Location** | The Sea of Glass (Transit Corridor connecting Corner 1 to Corner 2) |
-| **R.D. Observation Level** | 2 — Caravan Escort Telemetry |
+| **R.D. Comprehension Level** | 2 — Caravan Escort Telemetry |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Thermal Friction / Glass Shrapnel Concussion |
 | **Starting Sorrow Gauge** | 620/620 |
 | **Han-Energy yield** | 12–16 Han-Energy per calming pass |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 |
 | **Activation threshold** | Heavy Caravan Steam-Crawler Vibration |
 | **Tool / M.A.W. grade** | Grade γ |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | { *Turbine Screech* [**AoE**] } | "The spinning chest core howls with the agony of buried messengers." | [Releases an ultrasonic shockwave of grinding silica sand.] | *All personnel within 10 meters suffer 14 Void Composure erosion.* **[14 Pale DMG]** | When Sorrow Gauge reaches 50%. |
 | { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies; direct strikes deal 24-34 Crimson damage.* **[24-34 Crimson DMG]** | When Sorrow Gauge reaches 80%. |
 
-## Observation Levels
+## Comprehension Levels
 
 ### Level 1 — Minimal Observation
 Long-haul Horizon Caravan drivers report seeing red silhouettes shimmering on the horizon across the Sea of Glass. The figures do not stop, pacing the heavy crawlers for hundreds of kilometers without consuming fuel or water.

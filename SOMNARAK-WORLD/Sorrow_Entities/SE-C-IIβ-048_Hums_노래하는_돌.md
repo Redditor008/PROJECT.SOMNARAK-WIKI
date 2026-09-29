@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A small, smooth, dark stone, warm to the touch — not crystal-cold but comfort-warm, river-worn and palm-sized. Under the right conditions it sings, a low mourning tone that seems to come from inside it. It is salt-damp and smells of cold rain on old cloth. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained/open display |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats singing |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens — contained/open display |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The Stone's Han-signature resonates with the Weeping.
@@ -310,7 +310,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Hums (C-IIβ-048 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Stone formed from songs of the dead that no living person continued. Held at SECTOR-D-02, Echo Gardens — contained/open display. The Stone's Han-signature resonates with the Weeping.
@@ -401,7 +401,7 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 **Classification:** Sorrow Entity — `C-IIβ-048 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** Hums
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal. The Stone holds unfinished songs. Warm to the touch. No breach risk.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

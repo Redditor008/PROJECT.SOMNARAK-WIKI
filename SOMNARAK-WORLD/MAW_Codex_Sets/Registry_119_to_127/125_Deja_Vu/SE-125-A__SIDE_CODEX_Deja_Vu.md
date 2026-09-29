@@ -27,7 +27,7 @@
 | Location | Zone A, Alpha Tree |
 | Form | A fruit-shaped presence in consciousness: a familiar object returning to a place where it cannot possibly still exist. |
 | Gauge / pressure | 60–80% / Void 29–62 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Return Without Reclaiming |
 
 ### Core Sorrow

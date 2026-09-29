@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A submerged presence inside consciousness — perceived as a voice beneath dark water, calling from far below. Salt-cold, it smells of cold rain; no body, only the slow muffled cry rising from the deep. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone B, deep tunnels |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, deep tunnels |
 | **Resolution Condition** | Use air, voice anchors, and calm acknowledgment; do not shout into the memory |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Echo is strongest in deep tunnels and flooded chambers.
 - Instruments record pressure but not speech.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Drowned Echo (O-IIβ-378 [LS]) is logged as a Subject-Mind manifestation expressing Lament (Deep Blue). The Echo formed from voices lost beneath Han floods. Held at Zone B, deep tunnels. The Echo is strongest in deep tunnels and flooded chambers.
@@ -347,7 +347,7 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 **Classification:** Sorrow Entity — `O-IIβ-378 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
 **Common Name:** Drowned Echo
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

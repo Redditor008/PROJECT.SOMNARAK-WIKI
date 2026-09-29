@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — An ancient hourglass of crystallized time, its frame dark and worn, one bulb cracked so that the sand — which is not sand but ground sorrow — leaks without end. The glass is cold and lead-heavy; the falling grains tick like a slowed heartbeat. It smells of wet stone and iron. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, Alpha Tree vault — contained |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Anxious about time |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree vault — contained |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - Sand leaks constantly but regenerates.
@@ -318,7 +318,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Cracked Hourglass (C-IIIβ-036 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Hourglass formed from anxiety about running out of time. Held at SECTOR-A-01, Alpha Tree vault — contained. Sand leaks constantly but regenerates.
@@ -409,7 +409,7 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent �
 **Classification:** Sorrow Entity — `C-IIIβ-036 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Cracked Hourglass
 **Containment Status:** Contained — Alpha Tree deep vault
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Moderate. The Hourglass leaks sand continuously. Proximity induces time-anxiety and the awareness of unrecoverable moments. The leak cannot be sealed. No breach; the entity is static.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

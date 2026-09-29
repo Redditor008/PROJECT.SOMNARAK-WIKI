@@ -18,7 +18,7 @@
 | **Physical Form** | Mixed — An R.D. field agent in every visible detail — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing wrong with the body; it is a person-shaped loop, remembering every cycle. Bloodless-cold, it smells of ash; it looks exactly like someone you know. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
-| **R.D. Observation Level** | 5 — Sovereign-grade monitoring (loop-anomaly) |
+| **R.D. Comprehension Level** | 5 — Sovereign-grade monitoring (loop-anomaly) |
 
 > **Registry note:** Unknown Sorrow Entity registry, Entry 06. A **within-cycle (Absolvohan)** entity, not post-cycle. An ordinary R.D. Specialist who began to remember the loops — an event that should be impossible for non-Echo-Core personnel. The remembering hollowed them. **Classification Echo-Core Eyes Only: this entity concerns the Cycle and must not be discussed outside Director clearance.**
 
@@ -33,7 +33,7 @@
 | **Primary pressure** | Clarity (it forces personnel to perceive the loop) |
 | **Starting Sorrow Gauge** | 70–90% |
 | **Han-Energy yield** | 18–26 Han-Energy per successful work cycle |
-| **Work difficulty** | Extreme · R.D. Observation Level 5 |
+| **Work difficulty** | Extreme · R.D. Comprehension Level 5 |
 | **Activation threshold** | Sorrow Gauge ≥ 80% or a personnel member recognizing the loop |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -71,7 +71,7 @@
 | **Coherence** | IV — Entity |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 70–90% |
-| **Difficulty** | Extreme · R.D. Observation Level 5 |
+| **Difficulty** | Extreme · R.D. Comprehension Level 5 |
 | **Valid Work Types** | Viderehan and Ferrehan are effective; Flerehan is dangerous; Pugnahan feeds it |
 | **Battlefield** | The Hand of Change — wherever the plot is thinnest |
 | **Resolution Condition** | Do not take the stage; endure the performance without performing it |
@@ -221,7 +221,7 @@ Each M.A.W. piece carries the loop's central cost: detachment from the self. The
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 5 — Sovereign-grade monitoring
+**R.D. Comprehension Level:** 5 — Sovereign-grade monitoring
 
 **Key Observations:**
 - The entity retains across loop iterations — unique among non-Echo-Core subjects.
@@ -246,7 +246,7 @@ Each M.A.W. piece carries the loop's central cost: detachment from the self. The
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level. Several entries are recovered fragments of the entity's own loop-journal.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. Several entries are recovered fragments of the entity's own loop-journal.
 
 **Entry 1 — Containment Description**
 The Repeated Survivor (`N-IVδ-902 [VS]`) is an R.D. field agent who began to remember the Absolvohan's loops — an impossibility for non-Echo-Core personnel. Across thousands of iterations, the remembering emptied them: identity dissolved, the world became a stage, and only the performance remained. Subject-Body, Void expression. Cannot be permanently ended within a single cycle.
@@ -349,7 +349,7 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 **Classification:** Sorrow Entity — `N-IVδ-902 [VS]` · Inner (내한) origin, born of the Cycle · Entity (IV) coherence (paradoxical) · Critical (δ) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Repeated Survivor (되풀이의 생존자)
 **Containment Status:** Uncontained / Recurrent — appears every loop iteration; cannot be ended within a single cycle
-**Observation Level:** 5 — Sovereign-grade monitoring (loop-anomaly)
+**Comprehension Level:** 5 — Sovereign-grade monitoring (loop-anomaly)
 **Threat Assessment:** Critical. A loop-aware agent who retains across iterations and stages reality as theatre. Lethal ("Bite Down," "Twist the Plot" restages past deaths), Clarity-destroying, and impossible to permanently suppress — it returns each loop. Primary danger is psychological: personnel who perform its scenes seed loop-memories and may themselves begin to retain. The entity is the Cycle's cost made manifest.
 **Containment & Handling Procedures:**
 - **Echo-Core Eyes Only.** Do not discuss outside Director clearance.

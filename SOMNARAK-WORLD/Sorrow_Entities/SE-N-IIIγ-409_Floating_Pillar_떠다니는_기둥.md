@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — An ethereal voice surrounding a pillar-shaped absence — a column of empty air where a pillar should stand, the voice speaking from above and below at once. Bloodless-cold, it smells of ash; no body — only the held space and the words. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Establish real support; do not replace the missing thing with another illusion |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The voice has no measurable source.
 - It is strongest near masks and false identities.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Floating Pillar (N-IIIγ-409 [O]) is logged as a Subject-Spirit manifestation expressing Void (Pale White). The Pillar formed from an absence made visible through memory. Held at Zone C, Mask Market. The voice has no measurable source.
@@ -349,7 +349,7 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 **Classification:** Sorrow Entity — `N-IIIγ-409 [O]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Spirit manifestation
 **Common Name:** Floating Pillar
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The shape of an imagined protector, floating, supporting nothing. Effect: proximity induces the vertigo of collapsed trust.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

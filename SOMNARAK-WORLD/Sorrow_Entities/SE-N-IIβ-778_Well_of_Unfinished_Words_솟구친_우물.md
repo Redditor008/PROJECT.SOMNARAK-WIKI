@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A well rising from the border ground, filled with liquid sorrow that climbs the shaft rather than falling, so nearby walls lean toward it as if drinking. Salt-cold and damp, it smells of cold rain; it draws grief upward. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone E, Border region |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Allow testimony to finish; do not drain the Well |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It is most active at border funerals and departures.
 - The liquid rises toward speakers.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Well of Unfinished Words (N-IIβ-778 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Well formed from mourning that had no witness. Held at Zone E, Border region. It is most active at border funerals and departures.
@@ -389,7 +389,7 @@ Some sorrows are about loss. Well of Unfinished Words is about the unspoken — 
 **Classification:** Sorrow Entity — `N-IIβ-778 [LP]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Well of Unfinished Words
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

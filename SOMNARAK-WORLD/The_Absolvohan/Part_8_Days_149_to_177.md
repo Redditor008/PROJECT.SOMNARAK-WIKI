@@ -129,19 +129,19 @@ Meltdown Level VI triggered across six core baseline chambers at 13:40. The enti
 | ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-008 (The Maw)   | Flere  | -12%  | +0.02                         |
-| Specialist Shin Grade 4 | Lament | CALM  | 26 OP                    |
+| Specialist Shin Grade 4 | Lament | CALM  | 26 CP                    |
 +---------------------------------------------------------------------+
 | SE-001 (Bell)      | Flere  | -10%  | +0.02                         |
-| Specialist Park Grade 4 | Lament | CALM  | 25 OP                    |
+| Specialist Park Grade 4 | Lament | CALM  | 25 CP                    |
 +---------------------------------------------------------------------+
 | SE-014 (Veil)      | Videre | -08%  | +0.02                         |
-| Specialist Lee Grade 4  | Void   | STBL  | 22 OP                    |
+| Specialist Lee Grade 4  | Void   | STBL  | 22 CP                    |
 +---------------------------------------------------------------------+
 | SE-025 (Child)     | Flere  | -09%  | +0.02                         |
-| Specialist Choi Grade 4 | Lament | CALM  | 24 OP                    |
+| Specialist Choi Grade 4 | Lament | CALM  | 24 CP                    |
 +---------------------------------------------------------------------+
 | SE-036 (Hourglass) | Pugna  | -11%  | +0.02                         |
-| Specialist Kang Grade 4 | Grudge | STBL  | 25 OP                    |
+| Specialist Kang Grade 4 | Grudge | STBL  | 25 CP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.108 TONS PURE HAN                        |
 +=====================================================================+
@@ -577,19 +577,19 @@ Meltdown Level VI triggered across six sorrow and weeping chambers at 13:10. All
 | ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-008 (The Maw)   | Flere  | -15%  | +0.02                         |
-| Specialist Shin Grade 4 | Lament | CALM  | 28 OP                    |
+| Specialist Shin Grade 4 | Lament | CALM  | 28 CP                    |
 +---------------------------------------------------------------------+
 | SE-001 (Bell)      | Flere  | -12%  | +0.02                         |
-| Specialist Park Grade 4 | Lament | CALM  | 26 OP                    |
+| Specialist Park Grade 4 | Lament | CALM  | 26 CP                    |
 +---------------------------------------------------------------------+
 | SE-025 (Child)     | Flere  | -11%  | +0.02                         |
-| Specialist Choi Grade 4 | Lament | CALM  | 25 OP                    |
+| Specialist Choi Grade 4 | Lament | CALM  | 25 CP                    |
 +---------------------------------------------------------------------+
 | SE-081 (Saint)     | Flere  | -14%  | +0.02                         |
-| Specialist Hong Grade 4 | Lament | CALM  | 27 OP                    |
+| Specialist Hong Grade 4 | Lament | CALM  | 27 CP                    |
 +---------------------------------------------------------------------+
 | SE-140 (Willow)    | Flere  | -12%  | +0.02                         |
-| Specialist Bae Grade 4  | Lament | CALM  | 26 OP                    |
+| Specialist Bae Grade 4  | Lament | CALM  | 26 CP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.110 TONS PURE HAN                        |
 +=====================================================================+
@@ -916,7 +916,7 @@ Majin sits on the cold stone steps, tears running down his weathered cheeks: *"S
 
 > **Majin:** _"They are no longer separate entities, Zyrak."_
 
-> **Zyrak:** _"No. They are an orchestra. The rage is gone. The judgment is gone. Majin... if they merge now, they won't form the Apocalypse Bird. They will form something that carries the dawn."_
+> **Zyrak:** _"No. They are an orchestra. The rage is gone. The judgment is gone. Majin... if they merge now, they won't form the Last Murmuration. They will form something that carries the dawn."_
 
 > **Majin:** _"Hope Transformation HT-V-HC-001: The Trinity of Dawn."_
 
@@ -928,7 +928,7 @@ The acoustic resonance throughout the facility reaches sublime perfection on Day
 
 In response, SE-C-IIIγ-031 (*The Observing Bird*), SE-C-IIIγ-032 (*The Weighting Bird*), and SE-C-IIIγ-033 (*The Guarding Bird*) joined their voices into a sweeping, majestic three-part counterpoint. The Observing Bird provided the high soprano flute tones; the Weighting Bird clicked its bronze scales in steady rhythmic percussion; and the Guarding Bird resonated with deep baritone warmth from its chest.
 
-Zyrak observes that their metaphysical convergence field has fundamentally altered its polarity: instead of collapsing into the four-winged monstrosity of the Apocalypse Bird, the flock is aligning toward **The Trinity of Dawn** (HT-V-HC-001). The entities are no longer arbiters of planetary execution; they are the heralds of planetary renewal.
+Zyrak observes that their metaphysical convergence field has fundamentally altered its polarity: instead of collapsing into the four-winged monstrosity of the Last Murmuration, the flock is aligning toward **The Trinity of Dawn** (HT-V-HC-001). The entities are no longer arbiters of planetary execution; they are the heralds of planetary renewal.
 
 Daily harvesting yields 0.111 tons of pure Han, pushing total cumulative reserves to 50.69 tons.
 
@@ -1017,20 +1017,20 @@ Meltdown Level VI triggered across the Bird wing at 14:15. The three cells opera
 | ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-031 (Small Bird)| Videre | -15%  | +0.02                         |
-| Specialist Han Grade 4  | Void   | CALM  | 27 OP                    |
+| Specialist Han Grade 4  | Void   | CALM  | 27 CP                    |
 +---------------------------------------------------------------------+
-| SE-032 (Tall Bird) | Ferre  | -14%  | +0.02                         |
-| Specialist Song Grade 4 | Weight | CALM  | 28 OP                    |
+| SE-032 (Weighting Bird) | Ferre  | -14%  | +0.02                    |
+| Specialist Song Grade 4 | Weight | CALM  | 28 CP                    |
 +---------------------------------------------------------------------+
-| SE-033 (Big Bird)  | Videre | -13%  | +0.02                         |
-| Specialist Hwang        | Void   | CALM  | 26 OP                    |
+| SE-033 (Guarding Bird)  | Videre | -13%  | +0.02                    |
+| Specialist Hwang        | Void   | CALM  | 26 CP                    |
 | (Grade IV)         |        |                                       |
 +---------------------------------------------------------------------+
 | SE-036 (Hourglass) | Pugna  | -09%  | +0.02                         |
-| Specialist Kang Grade 4 | Grudge | STBL  | 24 OP                    |
+| Specialist Kang Grade 4 | Grudge | STBL  | 24 CP                    |
 +---------------------------------------------------------------------+
 | SE-061 (Debtor)    | Ferre  | -08%  | +0.02                         |
-| Specialist Shin Grade 4 | Weight | STBL  | 23 OP                    |
+| Specialist Shin Grade 4 | Weight | STBL  | 23 CP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.111 TONS PURE HAN                        |
 +=====================================================================+
@@ -1157,7 +1157,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 ###### Turn 03 Action Resolution Log (Three Birds Chime & Momentum Surge)
 - **Harmonic Chord Progression (1.5x Multiplier)**:
   * Specialist Han's `Momentum Surge` activates! (+2 Speed next turn).
-  * The chimes of Big Bird, Judgement Bird, and Punishing Bird echo through the acoustic chambers, softening the Pale light into warm amber dawn.
+  * The chimes of the Guarding Bird, the Weighting Bird, and the Observing Bird echo through the acoustic chambers, softening the Pale light into warm amber dawn.
   * Pale resonance drops to **26/140**!
 
 ---
@@ -1471,19 +1471,19 @@ Meltdown Level VI triggered across six healing and devotional chambers at 13:50.
 | ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | HT-V-HH-001 (Hand) | Flere  | -20%  | +0.03                         |
-| Specialist Yoon Grade 4 | Lament | CALM  | 30 OP                    |
+| Specialist Yoon Grade 4 | Lament | CALM  | 30 CP                    |
 +---------------------------------------------------------------------+
 | SE-041 (Tears)     | Flere  | -14%  | +0.02                         |
-| Specialist Bae Grade 4  | Lament | CALM  | 27 OP                    |
+| Specialist Bae Grade 4  | Lament | CALM  | 27 CP                    |
 +---------------------------------------------------------------------+
 | SE-042 (Fury)      | Pugna  | -15%  | +0.02                         |
-| Specialist Kang Grade 4 | Grudge | CALM  | 28 OP                    |
+| Specialist Kang Grade 4 | Grudge | CALM  | 28 CP                    |
 +---------------------------------------------------------------------+
 | SE-081 (Saint)     | Flere  | -16%  | +0.02                         |
-| Specialist Hong Grade 4 | Lament | CALM  | 29 OP                    |
+| Specialist Hong Grade 4 | Lament | CALM  | 29 CP                    |
 +---------------------------------------------------------------------+
 | SE-088 (Fountain)  | Flere  | -14%  | +0.02                         |
-| Specialist Kwak Grade 4 | Lament | CALM  | 26 OP                    |
+| Specialist Kwak Grade 4 | Lament | CALM  | 26 CP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.112 TONS PURE HAN                        |
 +=====================================================================+
@@ -1915,20 +1915,20 @@ Meltdown Level VI triggered across the primary sovereign chambers at 14:00. The 
 | ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-001 (Bell)      | Flere  | -15%  | +0.02                         |
-| Specialist Park Grade 4 | Lament | CALM  | 28 OP                    |
+| Specialist Park Grade 4 | Lament | CALM  | 28 CP                    |
 +---------------------------------------------------------------------+
 | SE-002 (Colossus)  | Flere  | -14%  | +0.02                         |
-| Specialist Jang Grade 4 | Lament | CALM  | 27 OP                    |
+| Specialist Jang Grade 4 | Lament | CALM  | 27 CP                    |
 +---------------------------------------------------------------------+
 | SE-005 (Mother)    | Ferre  | -16%  | +0.02                         |
-| Specialist Kim Grade 4  | Weight | CALM  | 29 OP                    |
+| Specialist Kim Grade 4  | Weight | CALM  | 29 CP                    |
 +---------------------------------------------------------------------+
 | SE-008 (The Maw)   | Flere  | -18%  | +0.03                         |
-| Specialist Shin Grade 4 | Lament | CALM  | 30 OP                    |
+| Specialist Shin Grade 4 | Lament | CALM  | 30 CP                    |
 +---------------------------------------------------------------------+
 | SE-010             | Pugna  | -16%  | +0.02                         |
 | (Convergenc)       |        |                                       |
-| Specialist Kang Grade 4 | Grudge | CALM  | 30 OP                    |
+| Specialist Kang Grade 4 | Grudge | CALM  | 30 CP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.114 TONS PURE HAN                        |
 +=====================================================================+
@@ -2573,19 +2573,19 @@ Meltdown alerts across the facility register zero activity. The entities remain 
 | ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-008 (The Well)  | Flere  | -05%  | +0.01                         |
-| Specialist Shin Grade 4 | Lament | CALM  | 20 OP                    |
+| Specialist Shin Grade 4 | Lament | CALM  | 20 CP                    |
 +---------------------------------------------------------------------+
 | SE-001 (Bell)      | Flere  | -04%  | +0.01                         |
-| Specialist Park Grade 4 | Lament | CALM  | 18 OP                    |
+| Specialist Park Grade 4 | Lament | CALM  | 18 CP                    |
 +---------------------------------------------------------------------+
 | SE-014 (Veil)      | Videre | -03%  | +0.01                         |
-| Specialist Lee Grade 4  | Void   | STBL  | 16 OP                    |
+| Specialist Lee Grade 4  | Void   | STBL  | 16 CP                    |
 +---------------------------------------------------------------------+
 | SE-025 (Child)     | Flere  | -05%  | +0.01                         |
-| Specialist Choi Grade 4 | Lament | CALM  | 19 OP                    |
+| Specialist Choi Grade 4 | Lament | CALM  | 19 CP                    |
 +---------------------------------------------------------------------+
 | SE-061 (Debtor)    | Ferre  | -04%  | +0.01                         |
-| Specialist Kang Grade 4 | Weight | STBL  | 18 OP                    |
+| Specialist Kang Grade 4 | Weight | STBL  | 18 CP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.052 TONS PURE HAN                        |
 +=====================================================================+
@@ -2773,16 +2773,16 @@ Meltdown alerts remain at absolute zero. The Trinity of Dawn's presence radiates
 | ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | HT-V-HC-001 (Trin) | Flere  | -20%  | +0.02                         |
-| Specialist Han Grade 4  | Lament | CALM  | 30 OP                    |
+| Specialist Han Grade 4  | Lament | CALM  | 30 CP                    |
 +---------------------------------------------------------------------+
 | SE-036 (Hourglass) | Videre | -06%  | +0.01                         |
-| Specialist Kang Grade 4 | Void   | STBL  | 20 OP                    |
+| Specialist Kang Grade 4 | Void   | STBL  | 20 CP                    |
 +---------------------------------------------------------------------+
 | SE-044 (Clock)     | Videre | -05%  | +0.01                         |
-| Specialist Kwon Grade 4 | Void   | STBL  | 19 OP                    |
+| Specialist Kwon Grade 4 | Void   | STBL  | 19 CP                    |
 +---------------------------------------------------------------------+
 | SE-061 (Debtor)    | Ferre  | -06%  | +0.01                         |
-| Specialist Shin Grade 4 | Weight | STBL  | 18 OP                    |
+| Specialist Shin Grade 4 | Weight | STBL  | 18 CP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.054 TONS PURE HAN                        |
 +=====================================================================+

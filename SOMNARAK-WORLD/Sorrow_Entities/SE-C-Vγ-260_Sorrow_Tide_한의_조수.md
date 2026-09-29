@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Not a creature but the city-wide Sorrow Tide — a wave of concentrated Han that rises after sunset and recedes at dawn, felt as weight before it is seen. It presses every chest and fills every Sorrow Gauge; lead-heavy, it smells of wet stone. No body — only the tide. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | All zones — periodic phenomenon |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | High · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Sovereign (V) — Autonomous and cyclical |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | High · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | All zones — periodic phenomenon |
 | **Resolution Condition** | Impossible; use Tide shelters and shared mourning protocols |
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 - The Tide rises at night and falls at dawn.
 - It affects every known Sorrow Entity.
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Sorrow Tide (C-Vγ-260 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Tide is the natural rhythm of a city built on sorrow. Held at All zones — periodic phenomenon. The Tide rises at night and falls at dawn.
@@ -361,7 +361,7 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 **Classification:** Sorrow Entity — `C-Vγ-260 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** Sorrow Tide
 **Containment Status:** Uncontained — citywide (natural rhythm)
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Low (individually). The Tide is the city’s natural rhythm: grief suppressed by day, released by night. Effect: during the Tide, all entities are more active.
 **Containment & Handling Procedures:**
 - No containment possible; the Tide is a natural property of Somnarak.

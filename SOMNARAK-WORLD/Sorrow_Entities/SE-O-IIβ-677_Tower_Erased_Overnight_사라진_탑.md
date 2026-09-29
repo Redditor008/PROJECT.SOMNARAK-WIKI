@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — An empty vertical space where a tower once stood — nothing there, but the air is dense and the skyline bends around the absence as if the tower refuses to leave. Fever-cold, it smells of char; a tower's ghost, made of the hole it left. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B, Old Lament — ambient |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Memorialize what vanished; do not rebuild over the absence |
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Tower has no physical structure but casts a shadow.
 - The air becomes thick with unsaid words nearby.
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Tower Erased Overnight (O-IIβ-677 [GP]) is logged as a Place-Void manifestation expressing Grudge (Crimson). The Tower formed from a building removed before anyone could say goodbye. Held at Zone B, Old Lament — ambient. The Tower has no physical structure but casts a shadow.
@@ -363,7 +363,7 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 **Classification:** Sorrow Entity — `O-IIβ-677 [GP]` · Grudge (Crimson) · Place-Void manifestation
 **Common Name:** Tower Erased Overnight
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

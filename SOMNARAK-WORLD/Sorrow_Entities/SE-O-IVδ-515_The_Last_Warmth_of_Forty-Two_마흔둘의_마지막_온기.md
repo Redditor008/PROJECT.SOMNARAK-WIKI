@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A slender cylindrical vial of hand-blown leaded quartz glass, sealed at the collar with melted lead solder and wrapped in fraying orange surveyor's emergency webbing. Inside, a swirling vapor of pale blue condensation moves in perpetual circular suspension without settling into frost or liquid. Despite ambient sub-zero temperatures, the quartz remains warm to human touch (36.5°C), vibrating with a quiet, multi-voiced whisper that sounds like dozens of people talking softly around a campfire. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-09, Frozen Depths Cache — contained |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / cold exposure pressure |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Single-use impact trigger — shattered upon thrown detonation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · δ (Critical) |
 | **Vessel-Destructible** | Yes — shatters completely upon deployment |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Collective frozen farewell |
 | **Primary Pressure** | Mental / cold exposure pressure |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Sector 09 Deep Glacial Rift / Maw Perimeter |
 | **Resolution Condition** | The vial is shattered against target or ground, releasing the collective exhalation in an acoustic blizzard |
@@ -258,7 +258,7 @@ Equipment derived from this relic embodies supreme collective solidarity. It bec
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 - Thermal sensors confirm the vial maintains a constant 36.5°C internal temperature even when exposed to liquid nitrogen.
 - Directional microphones placed against the glass detect forty-two distinct human voices speaking in quiet unison.
@@ -277,7 +277,7 @@ Equipment derived from this relic embodies supreme collective solidarity. It bec
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Discovered in the wreckage of an Outrider Crawler in the Sector 09 Glacial Rift, held within the calcified gauntlets of Captain Yeon-Woo. Thermal cameras revealed the vial remained at a steady 36.5 degrees Celsius despite being surrounded by minus sixty-degree ice.
@@ -350,7 +350,7 @@ Forty-two men and women breathed their final warm exhalations into the bottle be
 **Classification:** Sorrow Entity — `O-IVδ-515 [LO]` · Outside origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** The Last Warmth of Forty-Two
 **Containment Status:** Contained — Sector-O-09 Frozen Depths Cache
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Extreme emergency utility. Supreme stasis asset against sovereign and calamity encounters.
 **Containment & Handling Procedures:**
 - Maintain in a specialized heated stasis cradle at 36.5°C.

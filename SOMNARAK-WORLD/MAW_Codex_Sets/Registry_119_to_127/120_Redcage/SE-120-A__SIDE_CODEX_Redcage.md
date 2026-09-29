@@ -27,7 +27,7 @@
 | Location | SECTOR-B-01, Zone B |
 | Form | An empty cage with crimson bars grown from fused metal, calcified sinew, and clenched-finger bone; there is no door and no prisoner. |
 | Gauge / pressure | 45–65% / Grudge 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Acknowledged Bars |
 
 ### Core Sorrow

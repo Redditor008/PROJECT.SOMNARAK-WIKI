@@ -16,7 +16,7 @@
 | **Physical Form** | Slender Crystalline Spire — A twelve-meter column of faceted blue-white crystal that moves by shearing through bedrock. Around its apex hover dozens of floating acoustic needles that rotate at violent velocities, producing an ear-piercing whistle across piercing crystalline registers. |
 | **Movement** | Hovering / Sub-Bedrock Boring (1.8 m/s). |
 | **Location** | The Crystal Peaks (Northern Ridge Border) |
-| **R.D. Observation Level** | 3 — Mountain Pass Telemetry |
+| **R.D. Comprehension Level** | 3 — Mountain Pass Telemetry |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Auditory Rupture / Void Composure Shred |
 | **Starting Sorrow Gauge** | 740/740 |
 | **Han-Energy yield** | 15–20 Han-Energy per acoustic harmonic dampening |
-| **Work difficulty** | High · R.D. Observation Level 3 |
+| **Work difficulty** | High · R.D. Comprehension Level 3 |
 | **Activation threshold** | Wind shear exceeding 40 knots |
 | **Tool / M.A.W. grade** | Grade γ |
 | **Vessel-Destructible** | Yes |
@@ -67,7 +67,7 @@
 | { *Counter-Phase Scream* [**Disruption**] } | "The pitch inverts, canceling out spoken commands and breath." | [Emits an ultrasonic shockwave that disrupts atmospheric pressure.] | *Silences squad communication for 2 turns; drains 15 Composure.* **[15 Pale DMG]** | When Sorrow Gauge reaches 60%. |
 | { *Harmonic Null* [**Ultimate**] } | "The entire mountain wall vibrates in unison until stone turns to flour." | [Synchronizes with local mountain ley-resonance to release a massive blast.] | *Deals 32-44 Void AoE damage to all targets within 30 meters.* **[32-44 Pale DMG]** | When Sorrow Gauge reaches 90%. |
 
-## Observation Levels
+## Comprehension Levels
 
 ### Level 1 — Minimal Observation
 Prospectors surveying the Crystal Peaks for Han-conduit minerals frequently recover mountain fauna whose soft pulmonary tissue has been turned to liquid marrow with zero external lacerations.

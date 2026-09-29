@@ -27,7 +27,7 @@
 | Location | Zone D, Mantle Commons |
 | Form | A thin red heat-line in the air, with a faint voice traveling along the path of someone still walking after they are gone. |
 | Gauge / pressure | 25–40% / Grudge 3–10 |
-| Observation Level | 1 — Observed |
+| Comprehension Level | 1 — Observed |
 | M.A.W. Set | Lost Cause |
 
 ### Core Sorrow

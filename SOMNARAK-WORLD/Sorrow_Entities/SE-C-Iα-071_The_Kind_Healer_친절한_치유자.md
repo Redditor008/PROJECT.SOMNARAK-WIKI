@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A gentle humanoid of soft, glowing Han-crystal — not cold but comfort-warm, its surface pliant like skin held over light, its hands warm and faintly luminous. It radiates kindness; the air is salt-damp, smelling of cold rain on old cloth. (Twelve blessings turn it into the Dawn of Mourning.) |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-B-02, Zone B — contained |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) — Barely formed, passive |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-02, Zone B — contained |
 | **Resolution Condition** | Do not attack. Guide it gently back and prevent unauthorized contact |
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - The Healer has completed twelve blessings in the current cycle and transformed into The Hand of Hope.
@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Kind Healer (C-Iα-071 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Healer formed from the compassion of a woman who walked Zone B tending the wounded, sick, and Fractured. Held at SECTOR-B-02, Zone B — contained. The Healer has completed twelve blessings in the current cycle and transformed into The Hand of Hope.
@@ -375,7 +375,7 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 **Classification:** Sorrow Entity — `C-Iα-071 [LS]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** The Kind Healer
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Healer tends the city’s abandoned. She cannot heal herself. Effect: proximity induces compassion paired with the weight of failure.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

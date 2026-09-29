@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Crimson Han-veins throb within the metal like boiling arteries. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · γ (Major) |
 | **Vessel-Destructible** | Yes — shatters into slag upon single use |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Jagged, furious resolve |
 | **Primary Pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 40–60% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Cheonbulok Border Outpost / Zone C Forge |
 | **Resolution Condition** | The wedge is driven into bedrock or target carapace, releasing its tectonic fury |
@@ -258,7 +258,7 @@ The M.A.W. extracted from this relic carries Kang Il-Joo's absolute refusal to y
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - The iron wedge maintains an internal core temperature of 115°C without external heat source.
 - Seismic sensors record eighteen distinct micro-vibrations every minute from the plinth.
@@ -277,7 +277,7 @@ The M.A.W. extracted from this relic carries Kang Il-Joo's absolute refusal to y
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Reclaimed from the subterranean magma works of Old Cheonbulok. The artifact exhibits extreme metallurgical hardness that defies conventional smelting temperatures, remaining rigid even when exposed to direct oxy-acetylene torching.
@@ -350,7 +350,7 @@ The apprentices escaped through the secondary exhaust duct. When relief teams du
 **Classification:** Sorrow Entity — `O-IIIγ-412 [GP]` · Outside origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Wedge That Held
 **Containment Status:** Contained — Sector-O-04 Heavy Armory
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** High offensive potential. Can breach targets through irreversible kinetic detonation.
 **Containment & Handling Procedures:**
 - Mount on an isolated basalt pedestal with continuous oil quenching spray.

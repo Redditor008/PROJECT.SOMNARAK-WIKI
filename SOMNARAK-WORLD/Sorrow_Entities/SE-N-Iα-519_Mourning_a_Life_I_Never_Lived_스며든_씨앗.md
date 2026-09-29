@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A seed sprouted into a creeping net of dark root-tendrils — a low spreading creature that flows across floors like a starfish of root. Bloodless-cold, it smells of ash. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Do not plant; distinguish possibility from memory |
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It has never grown into a physical plant.
 - Its roots spread through ideas and memory.
@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Mourning a Life I Never Lived (N-Iα-519 [VP]) is logged as a Place-Grudge manifestation expressing Void (Pale White). The Seed formed from potential that was removed before it could exist. Held at Zone A, Alpha Tree vault. It has never grown into a physical plant.
@@ -384,7 +384,7 @@ Some sorrows mourn what was lost. Mourning a Life I Never Lived mourns what neve
 **Classification:** Sorrow Entity — `N-Iα-519 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Place-Grudge manifestation
 **Common Name:** Mourning a Life I Never Lived
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A seed of pure absence, spreading. Effect: proximity induces the vertigo of mourning what never existed.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

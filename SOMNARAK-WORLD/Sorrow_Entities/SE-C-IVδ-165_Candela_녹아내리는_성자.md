@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A saint-like figure made of melting wax threaded with crystallized tears, its features running and resetting to mirror a future grief it has already perceived. Warm and soft, it drips wax that never quite pools; salt-damp, it smells of cold rain and tallow. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-B-02, Zone B |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, dissolving, compassionate |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-02, Zone B |
 | **Resolution Condition** | Do not treat every vision as inevitable; distinguish possibility from fate |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - The Saint loses material continuously but never disappears.
 - Its visions are possible futures, not fixed predictions.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Candela (C-IVδ-165 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Saint formed from compassion overwhelmed by anticipation. Held at SECTOR-B-02, Zone B. The Saint loses material continuously but never disappears.
@@ -351,7 +351,7 @@ Some sorrows grieve the present. Candela grieves the future — every loss that 
 **Classification:** Sorrow Entity — `C-IVδ-165 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** Candela
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Saint melts between present and future grief. Effect: proximity induces anticipatory mourning.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

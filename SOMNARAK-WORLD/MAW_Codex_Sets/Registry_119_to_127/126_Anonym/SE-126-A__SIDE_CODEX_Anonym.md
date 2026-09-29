@@ -27,7 +27,7 @@
 | Location | Zone E, Border region |
 | Form | A pale melting shard in consciousness, assembling a watching figure from fragments that dissolve when focused on. |
 | Gauge / pressure | 25–40% / Void 3–10 |
-| Observation Level | 1 — Observed |
+| Comprehension Level | 1 — Observed |
 | M.A.W. Set | Held Shape |
 
 ### Core Sorrow

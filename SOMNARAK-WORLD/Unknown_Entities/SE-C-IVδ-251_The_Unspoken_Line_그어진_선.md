@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Not a creature but an ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts — that looks entirely normal yet is the entity: a social divide made a place. Bloodless-cold, it smells of ash; stand at its center and you feel the line no one will cross. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | A four-way junction in the Mantle Commons, Zone D |
-| **R.D. Observation Level** | 3 — Elevated |
+| **R.D. Comprehension Level** | 3 — Elevated |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / relational pressure |
 | **Starting Sorrow Gauge** | 55–70% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Elevated |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 55–70% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Elevated |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | A four-way junction in the Mantle Commons, Zone D |
 | **Resolution Condition** | A resident from one side speaks honestly to a resident on the other — about anything |
@@ -222,7 +222,7 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Elevated
+**R.D. Comprehension Level:** 3 — Elevated
 
 - The line appeared five years post-Absolvohan; no single incident caused it.
 - Gold-side residents report guilt for feeling better; grey-side residents report feeling left behind.
@@ -243,7 +243,7 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The subject is a four-way junction in the Mantle Commons — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye. The anomaly is behavioral: residents do not cross the central seam. At dusk a line of pale Void-light becomes visible down the center, and the two nearest shop signs are blank where names once were.
@@ -327,7 +327,7 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 **Classification:** Sorrow Entity — `C-IVδ-251 [VP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Place-Void manifestation
 **Common Name:** The Unspoken Line
 **Containment Status:** Open / Managed — a live junction under Ferrehan supervision; healing generational
-**Observation Level:** 3 — Elevated
+**Comprehension Level:** 3 — Elevated
 **Threat Assessment:** Critical passive hazard via Void-erosion of social memory and clarity. No direct violence. The entity widens when division is fed and contracts when contact occurs; left unmanaged it could spread block by block. No Fracture recorded, but prolonged exposure severs community bonds.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only. Flerehan and Pugnahan are invalid for Place entities.

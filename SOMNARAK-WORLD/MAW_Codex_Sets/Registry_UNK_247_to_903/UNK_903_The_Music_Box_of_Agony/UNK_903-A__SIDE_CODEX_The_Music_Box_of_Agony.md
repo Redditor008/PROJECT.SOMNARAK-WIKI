@@ -38,7 +38,7 @@ A black-and-white music box with pink lining loops the same comfort song until l
 | Element | Void (Pale White) — the emptying of the self; a Lament surface (the crying figurine) |
 | Manifestation | Object-Void — a music box |
 | Location | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
-| R.D. Observation Level | 3 — Elevated |
+| R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 45–65% |
 | Activation threshold | The lid is opened, or the lullaby is listened to beyond one full recitation |
 

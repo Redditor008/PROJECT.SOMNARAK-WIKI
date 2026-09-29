@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A flood dragon of vast scale, its body divided cleanly down the length: one half black as deep water, the other half white as pale stone, the two halves flowing into one another without seam. Its eyes are paired — one black, one a soft glowing white — and its wings spread wide enough to cast a district in shadow. It is the shape of a thing that has, briefly, been whole. |
 | **Movement** | Mobile — it flies, and it swims, and where it passes the rain follows or recedes at its will; it is the only form in the trio that is not fixed or bound. |
 | **Location** | Latent — manifests only upon the reunion of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948); currently Unmanifested / Forbidden |
-| **R.D. Observation Level** | 4 — Mastered (from a single historical transformation; never re-triggered) |
+| **R.D. Comprehension Level** | 4 — Mastered (from a single historical transformation; never re-triggered) |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | All (cycles) |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 22–30 Han-Energy per successful work cycle |
-| **Work difficulty** | Extreme · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Extreme · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | The reunion of the Soot Fry and the Foam Flood (FORBIDDEN) |
 | **Tool / M.A.W. grade** | δ |
 | **Vessel-Destructible** | No — Sovereign; the form dissolves back into the fish, it cannot be shattered. |
@@ -67,7 +67,7 @@
 | **Coherence** | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself |
 | **Primary Pressure** | All (cycles) |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Extreme · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Extreme · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan (all are valid; none are sufficient) |
 | **Battlefield** | The sky and the river at once — the only field this entity occupies |
 | **Resolution Condition** | There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses. |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered (from a single historical transformation)
+**R.D. Comprehension Level:** 4 — Mastered (from a single historical transformation)
 
 **Key Observations:**
 - The Sovereign is the only entity on record that cycles all four sorrows simultaneously; no single-element defence applies to it for more than two seconds.
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Stormscale Sovereign (C-Vδ-949 [MS]) is logged as a Subject-Spirit manifestation expressing Mixed (all four sorrows). The entity is the transformation-apex of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948): a vast black-and-white flood dragon, manifest once in the historical record, currently Latent. It is held non-manifest solely by the enforced separation of its two halves. Reunion is forbidden.
@@ -351,7 +351,7 @@ And that is the whole of it — the fish, the stone, the dragon — three files,
 **Classification:** Sorrow Entity — `C-Vδ-949 [MS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Mixed · Subject-Spirit manifestation
 **Common Name:** The Stormscale Sovereign (음양룡)
 **Containment Status:** Latent / Unmanifested — Forbidden; held non-manifest solely by the enforced separation of the Soot Fry (SECTOR-B-09) and the Foam Flood (SECTOR-C-07)
-**Observation Level:** 4 — Mastered (archival; one historical manifestation)
+**Comprehension Level:** 4 — Mastered (archival; one historical manifestation)
 **Threat Assessment:** Critical. A Mixed-element Sovereign flood dragon — the only entity that cycles all four sorrows simultaneously — with absolute weather-command and no single-element weakness. Not currently manifest. If summoned by reunion and not self-suppressed, there is no containment capacity on record able to suppress it. The single most dangerous latent entity in the registry.
 **Containment & Handling Procedures:**
 - Do not allow the reunion of the Soot Fry and the Foam Flood. This is a survival condition, not a precaution.

@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A voice-shaped absence that moves through the Commons, making all sound vanish in a widening radius. Bloodless-cold, it smells of ash; no body — only the spreading quiet, and the pressure of unsaid things. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone D, Mantle Commons |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Record the absence without inventing its content |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It cannot be recorded through sound.
 - It appears more clearly when people search for suppressed history.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Protest No One Remembers (O-IIIγ-371 [VS]) is logged as a Subject-Spirit manifestation expressing Void (Pale White). The Silence formed from an absence that was erased so completely no one remembered it had existed. Held at Zone D, Mantle Commons. It cannot be recorded through sound.
@@ -351,7 +351,7 @@ Some sorrows are about silence. Protest No One Remembers is about the erasure of
 **Classification:** Sorrow Entity — `O-IIIγ-371 [VS]` · Void (Pale White) · Subject-Spirit manifestation
 **Common Name:** Protest No One Remembers
 **Containment Status:** Contained — Zone D, Mantle Commons
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

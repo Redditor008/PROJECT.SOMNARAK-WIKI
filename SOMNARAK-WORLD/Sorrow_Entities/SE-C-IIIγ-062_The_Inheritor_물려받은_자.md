@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A muscular, middle-aged man of true flesh and bone, fists clenched at his sides, his face locked between anger and exhaustion. His skin is flushed dark, heat radiating from him; tendons stand out in his neck and forearms. He is fever-hot, and the air carries the smell of char and old smoke. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-C-01, contained with the Debt Triplets |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Resentful and angry |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, contained with the Debt Triplets |
 | **Resolution Condition** | Validate the resentment; do not call it ingratitude |
@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - The Inheritor cannot be separated from the Debt Triplets permanently.
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Inheritor (C-IIIγ-062 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Inheritor formed from a father's resentment at being forced to pay his parent's debt. Held at SECTOR-C-01, contained with the Debt Triplets. The Inheritor cannot be separated from the Debt Triplets permanently.
@@ -361,7 +361,7 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 **Classification:** Sorrow Entity — `C-IIIγ-062 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Inheritor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Inheritor radiates resentment.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

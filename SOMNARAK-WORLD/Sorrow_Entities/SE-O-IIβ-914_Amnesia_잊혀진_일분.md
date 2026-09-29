@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-914, contained |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Void / Void pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 914  · R.D. Observation Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
+| **Difficulty** | 914  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-914 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
@@ -212,7 +212,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-O-914.
@@ -225,7 +225,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Amnesia (O-IIβ-914 [VT]) is logged as a Time-Void manifestation expressing Void. Held at SECTOR-O-914.
 
@@ -282,7 +282,7 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 **Containment Status:** Contained — SECTOR-O-914 
 
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 
 **Threat Assessment:** Moderate. A Time-Void entity — the void register is its defining characteristic. Risk: prolonged exposure to the void pressure may produce effects not seen in standard void entities.
 

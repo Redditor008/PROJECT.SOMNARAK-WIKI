@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A fish of featureless white Han-crystal fully 2.2 m in length, smooth and blank as poured wax, with one vast, deep-black eye that holds no reflection. Smaller than it looks: in the water it folds itself down to a 20 cm black silhouette, a dim shape slipping across the puddle's floor; only when prey reaches for it does the true body uncoil to its full size. |
 | **Movement** | Mobile within water — bound to its Han puddle (90 cm–1 m across); it cannot leave the water, but anything it pulls in cannot leave either. |
 | **Location** | The Pale Puddle, SECTOR-B-09, Zone B |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Resolve |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | A hand or line entering the puddle |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
@@ -67,7 +67,7 @@
 | **Coherence** | Echo (II) — Hunts the way it always has, remembering nothing of why |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 40–60% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Pale Puddle, SECTOR-B-09, Zone B |
 | **Resolution Condition** | Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - It is always hungry; every feeding leaves it emptier, never fuller, and the Gauge resets higher after each meal.
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Soot Fry (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
@@ -367,7 +367,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 **Classification:** Sorrow Entity — `C-IIβ-947 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Soot Fry (음어)
 **Containment Status:** Contained on-site — the Pale Puddle, SECTOR-B-09, Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. A 2.2 m Han-crystal fish, resting as a 20 cm silhouette in a metre-wide puddle, that lunges to full size and drags prey into water that has no measurable floor. Not aggressive, but endlessly hungry — feeding deepens the appetite. Contact is hazardous; the curious and the pitying reach in, and do not come back up.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan from the bank only; nothing living enters the puddle.

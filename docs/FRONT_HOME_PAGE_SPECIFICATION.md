@@ -128,7 +128,7 @@ No external or temporary sandbox directories are referenced.
      - **Qliphoth Mechanics:** Meltdown levels I through X, Qliphoth Overload penalties, and Cliphoth Counter triggers.
      - **Ordeal Survival Manuals:** Dawn, Noon, Dusk, and Midnight of Green, Amber, Crimson, and Violet.
      - **Sephirah Meltdown Guides:** Step-by-step suppression strategies for Asiyah, Briah, and Atziluth floor meltdowns (Malkuth to Keter).
-     - **E.G.O Equipment Index:** Full stats for Weapons, Suits, and Stigmas across ZAYIN, TETH, HE, WAW, and ALEPH tiers.
+     - **E.G.O Equipment Index:** Full stats for Weapons, Suits, and Gifts across ZAYIN, TETH, HE, WAW, and ALEPH tiers.
      - **Tool Abnormality Codices:** Continuous, Single-Use, and Equippable operational logs and lethal failure conditions.
   2. **Library of Ruina Game Database (Deckbuilding Tactical Dice Battle):**
      - **Memory Leaf Catalog & Attribution Guide:** Passive transfer mechanics, cost optimization, Slash/Pierce/Blunt/Block/Evade dice power boosts.
@@ -151,7 +151,7 @@ No external or temporary sandbox directories are referenced.
        * Sinking (SP depletion vs. Gloom affinity damage against SP-less targets)
        * Poise (Critical strike chance and critical damage scaling)
        * Charge (Count generation, barrier preservation, and tier-spending thresholds)
-     - **Mirror Dungeon & Refraction Railway Compendium:** Event outcome tables, E.G.O Stigma fusion recipes, pack prioritization, and turn-count optimization.
+     - **Mirror Dungeon & Refraction Railway Compendium:** Event outcome tables, E.G.O Gift fusion recipes, pack prioritization, and turn-count optimization.
   4. **Project Somnarak Game Systems & Mechanics Engine:**
      - **10-Node Grid Tactical Formulas:** Spatial distance penalties, flanking bonuses, push/pull knockback meters, and AoE node coverage (derived from `GAME_BATTLE/`).
      - **Speed & Action Slot Progression:** Turn-by-turn action slot formulas, initiative clashes, and 6-turn combat phase resolution.
@@ -168,7 +168,7 @@ No external or temporary sandbox directories are referenced.
 - **Key Modules & Routes:**
   1. **The 292 Sorrow Entity Master Vault:** Complete individual dossiers for all 292 Sorrow Entities, containing verified Core Stat Lines, Tales, Appearances, and Breach Behaviors (`SOMNARAK-WORLD/Sorrow_Entities/`).
   2. **The M.A.W. Armory (287+ SVG Weapons):** Hand-crafted vector silhouettes for every single weapon in the registry, showcasing custom blades, fangs, mauls, lenses, clocks, and relics in batch-1 chrome finish (`SOMNARAK-WORLD/MAW_Codex_Sets/`).
-  3. **Relic-Entity / Tool Abnormality Catalog:** The 131 non-subject artifacts categorized by operational profile (Single-Use, Equippable, Continuous) with tiered Log & Method unlock tables.
+  3. **Relic-Entity / Tool Relic Catalog:** The 131 non-subject artifacts categorized by operational profile (Single Use, Channeled Use, Equippable) with tiered Log & Method unlock tables.
   4. **Architectural Blueprints:** `SOMNARAK_CITY_LAYOUT.svg` and `THE_HAND_DR_LAYOUT.svg`.
 
 ---

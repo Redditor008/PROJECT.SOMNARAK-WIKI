@@ -168,7 +168,7 @@ The last round became the first shared one. And Bong, for the first time since t
 **Common Name:** The Shared Glass (나눔의 잔)
 **Bearer:** Bong, The Barkeeper
 **Bond / Containment Status:** Active, bonded to Hope Bearer Bong. Not contained; deployed for diplomacy, mediation, and group recovery. Operation requires voluntary participation and trained mediation.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior. Stable Object manifestation. The Glass distributes sorrow among willing participants and amplifies shared hope; it cannot force empathy, expose every lie, or make an unequal burden fair merely by dividing it. Primary risk is to the Bearer, who feels every burden before it is divided and tends to serve everyone while remaining emotionally outside the circle. The Glass requires his participation, not just his service.
 **Operational & Handling Procedures:**
 - No participant included without consent; the Glass refuses to operate under coercion of any party.

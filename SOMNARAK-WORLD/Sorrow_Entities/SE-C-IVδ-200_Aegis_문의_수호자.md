@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A massive armored figure standing eternal guard before the Exile's Gate, its body all but hidden inside ancient Han-crystal plate scarred by centuries. Its weapon stays lowered — held, never swung. The armor is fever-hot and smells of char; nothing living is visible within it. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-E-01, Zone E — guards the Exile's Gate |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, ancient, watchful |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-E-01, Zone E — guards the Exile's Gate |
 | **Resolution Condition** | State the purpose of departure; do not attempt to return through the Gate |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - It has guarded the Gate for longer than current records.
 - It does not stop legitimate exiles.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Aegis (C-IVδ-200 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Guardian formed from a warrior's vow to protect the Gate until the city no longer needed it. Held at SECTOR-E-01, Zone E — guards the Exile's Gate. It has guarded the Gate for longer than current records.
@@ -351,7 +351,7 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 **Classification:** Sorrow Entity — `C-IVδ-200` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** Aegis
 **Containment Status:** Contained — the Gate
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Guardian records every exile. He does not attack. Effect: personnel feel the weight of irreversible departure.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

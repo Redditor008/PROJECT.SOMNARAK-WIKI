@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A melting shard perceived inside consciousness rather than space — a figure assembled from pale fragments that watches without eyes. Bloodless-cold, it smells of ash; the fragments dissolve and reform as you try to focus on them. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone E, Border region |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Use names and present anchors; do not force a fixed identity |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It is perceived mentally rather than physically.
 - It melts under direct certainty and reforms under patient observation.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Anonym (O-Iα-126 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Shard formed from self-image eroded by repeated rejection. Held at Zone E, Border region. It is perceived mentally rather than physically.
@@ -351,7 +351,7 @@ Some sorrows are about losing a home. Anonym is about losing a self — the iden
 **Classification:** Sorrow Entity — `O-Iα-126 [VS]` · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** Anonym
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

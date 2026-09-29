@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A burst seed whose sprout is a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han, dragging itself forward. Lead-cold, it smells of wet stone. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Do not block the flow; acknowledge its source |
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It flows through roots rather than water channels.
 - It responds to the Sorrow Tide.
@@ -289,7 +289,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Flowing Seed (N-IIIγ-628 [D]) is logged as a Place-Void manifestation expressing Weight (Black). The Seed formed from sorrow that could not remain still. Held at Zone A, Alpha Tree vault. It flows through roots rather than water channels.
@@ -377,7 +377,7 @@ Some sorrows settle. Flowing Seed does not — the unacknowledged rage, the dorm
 **Classification:** Sorrow Entity — `N-IIIγ-628 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight (Black) · Place-Void manifestation
 **Common Name:** Flowing Seed
 **Containment Status:** Contained — Zone B (mobile)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A seed of dormant grief infused with a soldier’s rage, drifting. Effect: proximity induces the restlessness of unsettled sorrow.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

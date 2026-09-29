@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A market stall that appears overnight in the abandoned commerce district — wood, cloth, and rusted iron, ordinary-looking, except its shape and inventory change with each appearance and no one is ever tending it. It is bloodless-cold; the goods feel half-remembered, and the air smells of ash. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone B, Forgotten Market — mobile manifestation |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Low · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats appearing overnight |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Low · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Forgotten Market — mobile manifestation |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - The Stall cannot be forced to remain after dawn.
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten Market Stall (C-IIα-062 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Stall formed from the grief of merchants whose livelihoods vanished as the city expanded. Held at Zone B, Forgotten Market — mobile manifestation. The Stall cannot be forced to remain after dawn.
@@ -396,7 +396,7 @@ Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary
 **Classification:** Sorrow Entity — `C-IIα-062 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** Forgotten Market Stall
 **Containment Status:** Contained — Forgotten Market site
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low. The Stall sells memories of lost ordinariness. No breach risk. Effect: visitors remember forgotten transactions.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

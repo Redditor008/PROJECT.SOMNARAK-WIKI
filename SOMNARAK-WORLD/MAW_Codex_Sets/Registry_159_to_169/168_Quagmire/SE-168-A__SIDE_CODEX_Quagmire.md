@@ -27,7 +27,7 @@
 | Location | The Desolate, near the Scar |
 | Form | A broken line of heavy crystal dragged across the ground: a collapsed route frozen mid-stride with the names of missing travelers held in its trace. |
 | Gauge / pressure | 60–80% / Lament 29–62 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Witnessed Route |
 
 ### Core Sorrow

@@ -209,7 +209,7 @@ He oversees or coordinates:
 - Sorrow Entity observation, classification, and research-project approval;
 - the SCS database and changes to established entity profiles;
 - Sorrow Cartography and citywide Han-flow visualization;
-- every Research Ledger, including Observation Level, OP count, completed projects, unlocked knowledge, extraction history, and personnel notes;
+- every Research Ledger, including Comprehension Level, CP count, completed projects, unlocked knowledge, extraction history, and personnel notes;
 - controlled experiments in Floor 4 testing chambers;
 - review of behavioral studies, origin investigations, Sorrow Gauge analyses, M.A.W. potential studies, and containment optimizations;
 - research safety, including interaction limits, breaks, attribute monitoring, gauge monitoring, and containment standby;
@@ -241,11 +241,11 @@ The post-Cycle doctrine places pressure on the final word. “Managing” can me
 
 ### The Research Ledger
 
-Every contained entity receives a Research Ledger. The ledger gathers observations over time instead of allowing one successful interaction to become permanent truth. It records designation, Observation Level, Observation Points, completed projects, unlocked behavior, M.A.W. history, and personnel notes.
+Every contained entity receives a Research Ledger. The ledger gathers observations over time instead of allowing one successful interaction to become permanent truth. It records designation, Comprehension Level, Comprehension Points, completed projects, unlocked behavior, M.A.W. history, and personnel notes.
 
 Ayshuk's responsibility is not to personally conduct every interaction. He reviews the record, approves projects, identifies contradictions, and determines whether an apparent discovery has enough support to change the classification. This distinction matters because Floor 4's authority can affect containment rules, extraction requests, staff assignments, and whether an entity is approached as hostile, cooperative, or unknown.
 
-### Observation Levels and Research Projects
+### Comprehension Levels and Research Projects
 
 The Directorate grades knowledge from **Level 0: Unknown** through **Level 4: Mastered**. Higher levels can unlock element, Manifestation, behavior, origin, emotional core, M.A.W. potential, hidden properties, optimized containment, and entity relationships.
 
@@ -529,7 +529,7 @@ His most important observation is often negative: the Kind Healer does not bless
 
 ### Research Ledger Mastery
 
-As Floor 4 commander, he reviews Research Ledgers and approves projects. He understands Observation Points, levels, unlocked knowledge, origin studies, emotional-core studies, Sorrow Gauge analysis, M.A.W. potential, hidden properties, and containment optimization.
+As Floor 4 commander, he reviews Research Ledgers and approves projects. He understands Comprehension Points, levels, unlocked knowledge, origin studies, emotional-core studies, Sorrow Gauge analysis, M.A.W. potential, hidden properties, and containment optimization.
 
 This is administrative and scientific authority, not a magical ability. It gives him broad access and the power to shape institutional knowledge.
 
@@ -710,7 +710,7 @@ Ayshuk commands, but does not personally own:
 - controlled testing chambers;
 - the SCS classification database;
 - the Classification Archive;
-- Observation Point and project-tracking systems;
+- Comprehension Point and project-tracking systems;
 - sorrow maps and city-flow visualizations;
 - entity monitoring feeds;
 - Research Ledger storage;
@@ -725,8 +725,8 @@ A standard ledger records:
 | Field | Purpose |
 |---|---|
 | **SECC designation** | Identifies the entity within the Directorate system |
-| **Observation Level** | States how much verified knowledge has been unlocked |
-| **OP count** | Tracks accumulated research progress |
+| **Comprehension Level** | States how much verified knowledge has been unlocked |
+| **CP count** | Tracks accumulated research progress |
 | **Completed projects** | Separates tested work from proposed work |
 | **Unlocked knowledge** | Records behavior, origin, core, triggers, and relationships as justified |
 | **M.A.W. history** | Connects research to extraction outcomes and consequences |
@@ -1108,7 +1108,7 @@ He classifies the Memory Weaver by observed conduct after a serious research inc
 
 ### Original Flavor Text
 
-> _“Observation Level Four does not mean the entity has stopped changing. It means we have documented every way it changed before today.”_
+> _“Comprehension Level Four does not mean the entity has stopped changing. It means we have documented every way it changed before today.”_
 
 > _“Do not write ‘calm’ when you mean ‘still.’ One is an interpretation. The other is visible.”_
 

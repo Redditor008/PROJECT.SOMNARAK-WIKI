@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — It has no body at all; what manifests is a voice — low, unhurried, speaking two or three words of comfort — that arrives from just behind the listener's shoulder where no one stands. Sometimes a faint warmth like exhaled breath accompanies the words; that is the closest it comes to a form. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone D, Mantle Commons — ambient |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | No containment required; preserve the conditions that form it |
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It appears after kindness rather than grief alone.
 - Its words are short and direct.
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Echo of Kindness (C-Iα-240 [LO]) is logged as a Lament manifestation expressing Lament (Deep Blue). The Echo formed from kindness that became rare enough to crystallize. Held at Zone D, Mantle Commons — ambient. It appears after kindness rather than grief alone.
@@ -363,7 +363,7 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 **Classification:** Sorrow Entity — `C-Iα-240 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Echo of Kindness
 **Containment Status:** Ambient — Zone D, Mantle Commons
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minimal. Non-hostile. The Echo is ambient sound; it does not attack or breach. Effect is emotional: induces contemplation and unexpected weeping in exposed personnel.
 **Containment & Handling Procedures:**
 - No containment required. The Echo is ambient and cannot be localized.

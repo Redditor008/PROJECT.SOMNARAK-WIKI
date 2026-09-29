@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Faded murals — old paintings of the first settlers covering the stone — that murmur overlapping whispers in the dark, replaying grief across centuries. The paint is salt-damp, smelling of cold rain; the painted faces murmur to the living. |
 | **Movement** | Stationary — an artwork. |
 | **Location** | Zone B, Old Lament — ambient, not contained |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament — ambient, not contained |
 | **Resolution Condition** | No physical containment; listening and acknowledgment prevent escalation |
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - Voices are faint, ancient, and sometimes spoken in unknown languages.
@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Whispering Walls (C-Iα-011 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The phenomenon formed from the whispers of the first settlers. Held at Zone B, Old Lament — ambient, not contained. Voices are faint, ancient, and sometimes spoken in unknown languages.
@@ -371,7 +371,7 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 **Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Whispering Walls
 **Containment Status:** Ambient — Old Lament
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Walls murmur with settlers’ whispers. Effect: pressing an ear to the walls induces hearing centuries-old confessions.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.

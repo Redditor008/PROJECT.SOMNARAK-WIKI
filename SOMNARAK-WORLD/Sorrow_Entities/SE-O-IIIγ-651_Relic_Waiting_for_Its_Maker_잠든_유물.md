@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — Not a body but a chamber in the Mask Market: an unnamed relic asleep beneath walls that bend inward toward it, as if listening. Bloodless-cold, it smells of ash; the relic has never been identified, and never wakes. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Speak only what the worker accepts responsibility for carrying |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The relic itself has never been fully observed.
 - Walls move subtly in response to speech.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Relic Waiting for Its Maker (O-IIIγ-651 [VP]) is logged as a Place-Grudge manifestation expressing Void (Pale White). The place formed around a relic whose owner never woke to reclaim it. Held at Zone C, Mask Market. The relic itself has never been fully observed.
@@ -389,7 +389,7 @@ Some sorrows mourn a maker. Relic Waiting for Its Maker mourns the making — th
 **Classification:** Sorrow Entity — `O-IIIγ-651 [VP]` · Void (Pale White) · Place-Grudge manifestation
 **Common Name:** Relic Waiting for Its Maker
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

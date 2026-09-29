@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs — a ghost-creature of pale wood. Fever-cold, it smells of char. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone E, Border region |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Preserve the history; do not force the Tree to remain |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It fades when no one is looking.
 - It becomes clearer near old maps.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Vanished Tree (C-Iα-622 [D]) is logged as a Subject-Lament manifestation expressing Grudge (Crimson). The Tree formed from a place erased by the city's expansion. Held at Zone E, Border region. It fades when no one is looking.
@@ -345,7 +345,7 @@ Some sorrows mourn what was destroyed. Vanished Tree mourns what was denied — 
 **Classification:** Sorrow Entity — `C-Iα-622 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Lament manifestation
 **Common Name:** Vanished Tree
 **Containment Status:** Contained — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree contradicting the maps. Effect: proximity induces the horror of a home the land denies existed.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

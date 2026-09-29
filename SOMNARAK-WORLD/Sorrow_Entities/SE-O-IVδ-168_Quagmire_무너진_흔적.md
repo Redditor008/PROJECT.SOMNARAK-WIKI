@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A broken line of heavy crystal dragged across the Desolate ground — the collapsed record of a movement that did not finish, frozen mid-stride. Salt-cold, it smells of cold rain; a footprint that fell over and could not rise. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
 | **Resolution Condition** | Map the Trace and preserve the names it carries |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It follows collapsed paths rather than current geography.
 - Its weight increases after Han-storms.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Quagmire (O-IVδ-168 [O]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Trace formed from a route destroyed before its travelers reached safety. Held at The Desolate, near The Scar. It follows collapsed paths rather than current geography.
@@ -389,7 +389,7 @@ Some sorrows mourn a destination. Quagmire mourns the journey — the path colla
 **Classification:** Sorrow Entity — `O-IVδ-168 [O]` · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** Quagmire
 **Containment Status:** Contained — The Desolate, near The Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

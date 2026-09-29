@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A small, shadowy figure that moves too fast to see directly, with no stable face — only a blur where features should be. Bloodless-cold, it smells of ash; it takes memories as it passes, leaving small gaps the victim never notices. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-01, Collector's Row — contained |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Curious and sneaky |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, Collector's Row — contained |
 | **Resolution Condition** | Corner and contain it; negotiate the return of memories when possible |
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - The Thief is quick, elusive, and non-confrontational.
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Memory Thief (N-IIIβ-077 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The Thief formed from the fear of forgetting in a city where memory is currency. Held at SECTOR-C-01, Collector's Row — contained. The Thief is quick, elusive, and non-confrontational.
@@ -365,7 +365,7 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 **Classification:** Sorrow Entity — `N-IIIβ-077 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** The Memory Thief
 **Containment Status:** Contained — Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Steals what you fear losing, briefly, then returns it. Effect: proximity induces the terror of forgotten faces.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

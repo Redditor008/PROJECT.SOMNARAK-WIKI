@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A figure only half-present: a smear of cold smoke and grey ash vaguely shaped like a hooded torso, legless, its face two mouths pulling in opposite directions — one whispering, one burning. Where it passes, the air tastes of char and old apologies, and the smoke clings to the skin like a damp handprint. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone D, Mantle Commons |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Record both tones; do not choose a convenient version |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - One tone remembers; the other accuses.
 - It grows when witnesses are dismissed.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Double Mouth (C-IIβ-716 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge (Crimson). The Whisper formed from a memory split between truth and denial. Held at Zone D, Mantle Commons. One tone remembers; the other accuses.
@@ -353,7 +353,7 @@ Those who hear the Whisper feel, briefly, the particular agony of knowing someth
 **Classification:** Sorrow Entity — `C-IIβ-716 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Spirit manifestation
 **Common Name:** Double Mouth
 **Containment Status:** Contained — Zone D, Mantle Commons
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Whisper is a Subject-Spirit that repeats unbelieved testimony. Exposure causes personnel to feel the agony of unacknowledged truth. No physical attacks; psychological pressure is significant.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.

@@ -27,7 +27,7 @@
 | **Element** | Void — Pale White |
 | **Form** | Brass compass with bone needle and no cardinal marks |
 | **Location** | SECTOR-D-01, Forge District |
-| **Observation Level** | 2 — Studied |
+| **Comprehension Level** | 2 — Studied |
 | **M.A.W. Set** | Lost Set |
 
 ### Core Sorrow

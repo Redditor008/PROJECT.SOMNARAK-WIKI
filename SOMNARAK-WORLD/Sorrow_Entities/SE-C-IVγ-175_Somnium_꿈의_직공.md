@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A humanoid figure woven from thousands of luminous dream-threads rather than flesh — translucent, shifting, its face rearranging to match whoever dreams of it. Weightless and salt-warm, it smells of cold rain and sleep; the threads hum faintly. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-A-01, near Dream Gates |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, creative, manipulative |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | Identify the dream's false promise and wake without violence |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - It is visible only partially outside the Dream layer.
 - Its dreams can be beautiful enough to overcome the will to wake.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Somnium (C-IVγ-175 [LS]) is logged as a Subject-Dream manifestation expressing Lament (Deep Blue). The Weaver formed from dreams abandoned before they could be lived. Held at SECTOR-A-01, near Dream Gates. It is visible only partially outside the Dream layer.
@@ -351,7 +351,7 @@ Some sorrows mourn what was. Somnium mourns what might have been — the futures
 **Classification:** Sorrow Entity — `C-IVγ-175` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Dream manifestation
 **Common Name:** Somnium
 **Containment Status:** Contained — Dream Gates
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Weaver gives abandoned futures brief, half-real form. Effect: viewers see their unlived lives, then watch them dissolve.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A palm-sized compass of tarnished brass, its face bare of any marking, its needle a thin sliver of yellowed bone that twitches and drags like a living thing seeking something it cannot name. The casing is etched with letters that rearrange when unobserved. Held in hand, the bone-needle grows warm and presses against the glass toward the nearest grief. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-D-01, Forge District |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Restless and seeking |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The needle spins continuously in Somnarak.
 - It points faster near concentrated sorrow.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Echo Compass (C-IIIβ-016 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Compass formed from the need to find what the city hid. Held at SECTOR-D-01, Forge District. The needle spins continuously in Somnarak.
@@ -393,7 +393,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 **Classification:** Sorrow Entity — `C-IIIβ-016 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Echo Compass
 **Containment Status:** Contained — Archive deep room
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Compass is an Object entity. Its needle spins constantly. Holding it induces disorientation and the awareness that grief surrounds in all directions. No breach risk.
 **Containment & Handling Procedures:**
 - Viderehan is the only valid Work Type.

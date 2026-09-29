@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A vast underground river of black liquid sorrow flowing beneath the city like blood through veins — slow, dense, cold, with no visible banks. The liquid is lead-cold and smells of wet stone; it is the city's grief gathered and moving always toward the Weeping. |
 | **Movement** | Mobile — flows or falls. |
 | **Location** | SECTOR-A-01, beneath the Alpha Tree — The Weeping |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | High · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Sovereign (V) — Autonomous, flowing, eternal |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | High · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, beneath the Alpha Tree — The Weeping |
 | **Resolution Condition** | Impossible. Access is sealed and the River is monitored |
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 - The River is the suspected source of all Han.
 - Its sound is felt through bone rather than heard.
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The River is considered the source of Han and the origin of all Sorrow Entities. Held at SECTOR-A-01, beneath the Alpha Tree — The Weeping. The River is the suspected source of all Han.
@@ -366,7 +366,7 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 **Classification:** Sorrow Entity — `C-Vγ-225 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** Black River
 **Containment Status:** Uncontained — beneath the entire city
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic (potential). The source of all entities. Pre-human geological grief. Effect: proximity induces planetary-scale sorrow.
 **Containment & Handling Procedures:**
 - Classified. Director-only access.

@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A two-meter magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail — the body visibly artificial, jointed, painted in pinks and golds over a core of two souls (the body MIMI, the soul MadMew). Warm and bright against the grey, it smells of nothing sorrowful at all. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B — mobile; last observed near the Maw perimeter |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 > **Registry note:** Unknown Sorrow Entity registry, Entry 05. Post-Absolvohan. A wish-born entity: the collective cry *"someone save us"* given a body (Mimi) and bonded to a protective spirit (Shu Shu) that did not agree to share it.
 
@@ -31,7 +31,7 @@
 | **Primary pressure** | Clarity, Resilience, and Composure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Sorrow Gauge ≥ 75% or forced persona conflict |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | IV — Entity |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B — mobile; last observed near the Maw perimeter |
 | **Resolution Condition** | Acknowledge both identities without forcing separation |
@@ -246,7 +246,7 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - Mimi is the body-primary persona; Shu Shu is the soul/spirit persona.
@@ -270,7 +270,7 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Mewgical Girl (`N-IVδ-901 [MH]`) is a two-meter magical-girl doll — Subject-Body — bonded to a separate Subject-Spirit (Shu Shu), forming a Hybrid entity of Mixed expression. Cat ears, cat tail, pink costume, golden cat-paw staff. Two coherent identities speak through one mouth. Mobile; last observed near the Maw perimeter, Zone B. No permanent containment chamber exists.
@@ -375,7 +375,7 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 **Classification:** Sorrow Entity — `N-IVδ-901 [MH]` · Inner (내한) origin · Entity (IV) coherence · Critical (δ) potency · Mixed (Light, Warmth, Spark, Flame, Grudge) · Hybrid (Subject-Body / Subject-Spirit) manifestation
 **Common Name:** The Mewgical Girl (야옹 마법소녀)
 **Containment Status:** Mobile — no permanent containment chamber; tracked, not contained
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Critical. Two coherent identities share one Subject-Body vessel; high-output combat and support abilities. No Fracture risk to civilians, but severe instability on persona conflict — misfired bombs, uncontrolled beams, self-hit Cartoon Soot. Forced separation of the identities is a documented failure condition. The entity is wish-born and Hope-adjacent: it yields high Han-Energy but resists single-identity management.
 **Containment & Handling Procedures:**
 - Address Mimi and Shu Shu by name before every interaction; never treat them as one personality.

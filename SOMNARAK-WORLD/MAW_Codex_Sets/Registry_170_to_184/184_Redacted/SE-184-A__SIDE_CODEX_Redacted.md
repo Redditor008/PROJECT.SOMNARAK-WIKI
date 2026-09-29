@@ -27,7 +27,7 @@
 | Location | Zone E, Border region |
 | Form | A dark crystal humanoid tree with a face pressed into its trunk and bare branches shaped by the memories that should hang there but do not. |
 | Gauge / pressure | 45–65% / Void 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Absent History |
 
 ### Core Sorrow

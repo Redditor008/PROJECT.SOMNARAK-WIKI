@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-912, contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Lament / Lament pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Major · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 912  · R.D. Observation Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
+| **Difficulty** | 912  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-912 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
@@ -210,7 +210,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - Lament signature confirmed at SECTOR-C-912.
@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Eleven Fifty-Nine (C-IIIγ-912 [LT]) is logged as a Time-Lament manifestation expressing Lament. Held at SECTOR-C-912.
 
@@ -280,7 +280,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 **Containment Status:** Contained — SECTOR-C-912 
 
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 
 **Threat Assessment:** Major. A Time-Lament entity — the lament register is its defining characteristic. Risk: prolonged exposure to the lament pressure may produce effects not seen in standard lament entities.
 

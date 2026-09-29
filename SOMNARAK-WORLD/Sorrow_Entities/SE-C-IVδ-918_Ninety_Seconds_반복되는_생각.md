@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-918, contained |
-| **R.D. Observation Level** | 4 — Deep |
+| **R.D. Comprehension Level** | 4 — Deep |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Void / Mind pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Critical · R.D. Observation Level 4 — Deep |
+| **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 918  · R.D. Observation Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
+| **Difficulty** | 918  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-918 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
@@ -210,7 +210,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Deep
+**R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-C-918.
@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Ninety Seconds (C-IVδ-918 [VT]) is logged as a Time-Mind manifestation expressing Void. Held at SECTOR-C-918.
 
@@ -280,7 +280,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 **Containment Status:** Contained — SECTOR-C-918 
 
-**Observation Level:** 4 — Deep
+**Comprehension Level:** 4 — Deep
 
 **Threat Assessment:** Critical. A Time-Mind entity — the mind register is its defining characteristic. Risk: prolonged exposure to the mind pressure may produce effects not seen in standard void entities.
 

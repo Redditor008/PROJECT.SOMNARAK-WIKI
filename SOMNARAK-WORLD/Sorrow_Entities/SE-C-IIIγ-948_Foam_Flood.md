@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A carving of a coiling dragon, a metre tall, cut from a single block of unknown white stone. The carved form reads black against the pale stone, and its two eyes are set with a stone that glows a steady, soft white. It is the shape of a thing made to fly, fixed forever in the moment before flight — wings spreading, body rising — and it has never risen. |
 | **Movement** | Fixed — the carving does not move; only its longing moves, radiating outward as a field. |
 | **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
-| **R.D. Observation Level** | 3 — Monitored |
+| **R.D. Comprehension Level** | 3 — Monitored |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Monitored |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
 | **Activation threshold** | A hand laid upon the carving |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; the stone refuses to break, and the longing simply settles elsewhere. |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Feels everything, and cannot lift from the earth |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Difficulty** | High · R.D. Observation Level 3 — Monitored |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Monitored |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | **Resolution Condition** | Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim |
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Monitored
+**R.D. Comprehension Level:** 3 — Monitored
 
 **Key Observations:**
 - The carving cannot fly, has always known it cannot fly, and wants to fly more than anything else in the world; the glow of the eyes is a direct measure of that wanting.
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Foam Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament (Deep Blue). The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
@@ -391,7 +391,7 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 **Classification:** Sorrow Entity — `C-IIIγ-948 [LO]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Spirit manifestation
 **Common Name:** The Foam Flood (양룡)
 **Containment Status:** Contained on-site — the Dry Riverbed Vault, SECTOR-C-07, Zone C (sealed against unsanctioned channeling)
-**Observation Level:** 3 — Monitored
+**Comprehension Level:** 3 — Monitored
 **Threat Assessment:** Major. A metre-tall sentient dragon-carving that shares its long longing to fly with anyone who touches it. Not aggressive, but contact is hazardous — the wish it shares is too large to hold, and the channelled will seek the sky from any height. Managed by sealed containment, insulated-glove protocol, and a strict 90-second channel limit.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only; Flerehan and Pugnahan are invalid for this Object entity.

@@ -38,7 +38,7 @@ Honest Flerehan may remain stable; false comfort escalates. Pugnahan feeds its f
 | Element | Grudge (Crimson) |
 | Manifestation | Subject-Body |
 | Location | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
-| R.D. Observation Level | 3 — Elevated |
+| R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 65–80% |
 | Activation threshold | 2 |
 | Sorrow Gauge [HP] | 683/683 |

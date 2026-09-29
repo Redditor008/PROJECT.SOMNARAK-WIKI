@@ -27,7 +27,7 @@
 | Location | SECTOR-A-01, Alpha Tree deep storage |
 | Form | A beautiful translucent humanoid made from frozen feeling, not frozen water; it radiates a cold that numbs emotion before skin. |
 | Gauge / pressure | 60–80% / Void 29–62 |
-| Observation Level | 4 — Mastered |
+| Comprehension Level | 4 — Mastered |
 | M.A.W. Set | Warmth at Risk |
 
 ### Core Sorrow

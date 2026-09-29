@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-923, contained |
-| **R.D. Observation Level** | 4 — Deep |
+| **R.D. Comprehension Level** | 4 — Deep |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Grudge / Grudge pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Critical · R.D. Observation Level 4 — Deep |
+| **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 923  · R.D. Observation Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
+| **Difficulty** | 923  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-923 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
@@ -210,7 +210,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Deep
+**R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
 - Grudge signature confirmed at SECTOR-C-923.
@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Hatred Above (C-IVδ-923 [GH]) is logged as a Hazard-Grudge manifestation expressing Grudge. Held at SECTOR-C-923.
 
@@ -280,7 +280,7 @@ The entity does not rage. It does not weep. It persists — grudge and grudge, p
 
 **Containment Status:** Contained — SECTOR-C-923 
 
-**Observation Level:** 4 — Deep
+**Comprehension Level:** 4 — Deep
 
 **Threat Assessment:** Critical. A Hazard-Grudge entity — the grudge register is its defining characteristic. Risk: prolonged exposure to the grudge pressure may produce effects not seen in standard grudge entities.
 

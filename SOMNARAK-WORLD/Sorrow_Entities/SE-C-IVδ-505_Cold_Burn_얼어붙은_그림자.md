@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A figure made from frozen shadow — dark, still, cold — whose edges burn crimson the instant no one looks directly at it. Bloodless-cold, it smells of ash; you only ever see it still out of the corner of your eye. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Complete the duty symbolically, then tell the Shadow it may stop |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It watches without visible eyes.
 - It becomes more active near unfinished tasks.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Cold Burn (C-IVδ-505 [N]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Shadow formed from duties preserved after their owners disappeared. Held at Zone C, Mask Market. It watches without visible eyes.
@@ -353,7 +353,7 @@ Some sorrows are about loss. Cold Burn is about persistence — the guarding tha
 **Classification:** Sorrow Entity — `C-IVδ-505 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Grudge manifestation
 **Common Name:** Cold Burn
 **Containment Status:** Contained — Mask Market
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A shadow guarding an empty vault. Effect: proximity induces the sorrow of duty outliving its purpose.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

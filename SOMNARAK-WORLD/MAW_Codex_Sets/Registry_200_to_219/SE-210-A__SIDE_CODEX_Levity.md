@@ -28,7 +28,7 @@
 | Primary Form | A bright painted mask with a fixed wide smile, dark wet eyeholes, and continuous laughter. |
 | Gauge / Han Pressure | 35–50% starting range / Void 7–17 per hit |
 | Movement | Fixed while unworn; moves only with an activated wearer |
-| Observation Level | 2 — Basic |
+| Comprehension Level | 2 — Basic |
 | M.A.W. Set | The Empty Ovation |
 
 ### Core Sorrow

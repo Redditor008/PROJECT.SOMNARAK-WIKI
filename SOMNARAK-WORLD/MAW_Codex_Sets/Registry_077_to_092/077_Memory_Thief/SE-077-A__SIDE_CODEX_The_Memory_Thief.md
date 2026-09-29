@@ -27,7 +27,7 @@
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A small, quick shadow with no stable face; it is easiest to notice by the gap it leaves in a thought. |
 | Gauge / pressure | 35–50% / Void 8–20 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Borrowed Absence |
 
 ### Core Sorrow

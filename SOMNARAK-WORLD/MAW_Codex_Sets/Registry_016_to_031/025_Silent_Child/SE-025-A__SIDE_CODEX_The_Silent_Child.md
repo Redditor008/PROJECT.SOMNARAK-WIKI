@@ -27,7 +27,7 @@
 | **Element** | Void — Pale White |
 | **Form** | Small translucent child, usually at the edge of sight |
 | **Location** | SECTOR-D-02, Echo Gardens |
-| **Observation Level** | 1 — Initial |
+| **Comprehension Level** | 1 — Initial |
 | **M.A.W. Set** | Silence Set |
 
 ### Core Sorrow

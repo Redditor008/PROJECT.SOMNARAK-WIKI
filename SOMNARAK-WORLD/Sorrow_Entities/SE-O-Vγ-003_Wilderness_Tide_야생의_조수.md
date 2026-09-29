@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Not a creature but a moving wall of raw, unstructured wilderness Han — a tidal surge of black Han-pressure that rises from beyond the Desolate and crashes against Zone E. It has no body to strike; only the wave, the pressure, and the grinding erosion of the border. Lead-cold and immense, it smells of wet stone and iron on a scale that fills the lungs. |
 | **Movement** | Mobile — flows and surges in waves against the Zone E perimeter. |
 | **Location** | Zone E border / the outer Desolate — surges from the wilderness |
-| **R.D. Observation Level** | 5 — Maximum (constant border monitoring) |
+| **R.D. Comprehension Level** | 5 — Maximum (constant border monitoring) |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Resolve |
 | **Starting Sorrow Gauge** | 30–50% (fluctuates with wilderness Han density) |
 | **Han-Energy yield** | Extreme — but unharvestable (raw, unstructured) |
-| **Work difficulty** | Extreme · R.D. Observation Level 5 — Active border threat |
+| **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Active border threat |
 | **Activation threshold** | Wilderness Han surges past the Desolate's outer edge |
 | **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan strictly N/A) |
 | **Tool / M.A.W. grade** | N/A — Place-manifestation, Sovereign-grade; no M.A.W. extraction possible |

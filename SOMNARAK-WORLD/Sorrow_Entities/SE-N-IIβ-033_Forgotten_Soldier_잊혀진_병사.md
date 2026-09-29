@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A translucent, flickering warrior in armor from an unidentified ancient era — half-solid flesh and half-phased light, never quite resolving, as though the Archive's erasure of his name left his body only half-remembered. He stands perfectly at attention, weaponless until provoked, his real face gone from record and from his own features alike. Cold radiates off him, with the smell of old smoke. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-B-02, Zone B — contained corridor 7-C |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats a single pattern: seeking acknowledgment |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-02, Zone B — contained corridor 7-C |
 | **Resolution Condition** | Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns |
@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - The Soldier patrols a fixed route and never abandons his post.
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The Soldier formed from a border soldier — real name erased from the Archive — who served the Zone E perimeter for twenty years without incident. Held at SECTOR-B-02, Zone B — contained corridor 7-C. The Soldier patrols a fixed route and never abandons his post.
@@ -358,7 +358,7 @@ Some sorrows mourn the fallen. Forgotten Soldier mourns the edited — the sacri
 **Classification:** Sorrow Entity — `N-IIβ-033 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Phantasmal manifestation
 **Common Name:** Forgotten Soldier
 **Containment Status:** Contained — SECTOR-B-02, Zone B — contained corridor 7-C
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

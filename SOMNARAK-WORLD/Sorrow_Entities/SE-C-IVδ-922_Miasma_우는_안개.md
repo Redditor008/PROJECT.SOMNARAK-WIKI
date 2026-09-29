@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-922, contained |
-| **R.D. Observation Level** | 4 — Deep |
+| **R.D. Comprehension Level** | 4 — Deep |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Lament / Lament pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Critical · R.D. Observation Level 4 — Deep |
+| **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 922  · R.D. Observation Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
+| **Difficulty** | 922  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-922 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Deep
+**R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
 - Lament signature confirmed at SECTOR-C-922.
@@ -248,7 +248,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Miasma (C-IVδ-922 [LH]) is logged as a Hazard-Lament manifestation expressing Lament. Held at SECTOR-C-922.
 
@@ -305,7 +305,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 **Containment Status:** Contained — SECTOR-C-922 
 
-**Observation Level:** 4 — Deep
+**Comprehension Level:** 4 — Deep
 
 **Threat Assessment:** Critical. A Hazard-Lament entity — the lament register is its defining characteristic. Risk: prolonged exposure to the lament pressure may produce effects not seen in standard lament entities.
 

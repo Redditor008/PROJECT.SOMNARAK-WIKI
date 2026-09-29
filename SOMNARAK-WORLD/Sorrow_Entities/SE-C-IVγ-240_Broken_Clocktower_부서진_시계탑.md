@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A broken tower crowned by a clock frozen forever at 3:47, its gears turning and turning without ever moving the hands. Cold stone and corroded metal, lead-heavy, smelling of wet stone; time moves inside it but never on its face. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone C, near Collector's Row |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) — Self-aware, time-obsessed |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, near Collector's Row |
 | **Resolution Condition** | Accept that the moment cannot be changed; limit exposure |
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - The distortion field changes with emotional pressure.
 - All clocks within the tower eventually show 3:47.
@@ -297,7 +297,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Broken Clocktower (C-IVγ-240 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Clocktower formed from a moment that could not end. Held at Zone C, near Collector's Row. The distortion field changes with emotional pressure.
@@ -387,7 +387,7 @@ Some sorrows are about loss. Broken Clocktower is about a moment that would not 
 **Classification:** Sorrow Entity — `C-IVγ-240 [WP]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** Broken Clocktower
 **Containment Status:** Contained — Old Lament (site)
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Clocktower traps visitors in a frozen instant. Effect: visitors experience a repeating moment.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

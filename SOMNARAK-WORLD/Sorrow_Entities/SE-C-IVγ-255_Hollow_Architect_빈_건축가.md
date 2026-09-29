@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A hollow humanoid architect — a body shaped around an empty interior, like a statue with nothing inside — carrying rolled plans of dark crystal. It builds without rest, but every structure it raises stays unfinished. Lead-cold and damp, it smells of wet stone and old dust. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, building, never finishing |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Do not complete or destroy the structures; document their purpose |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - Every structure lacks one essential element.
 - The Architect never enters a completed room.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Hollow Architect (C-IVγ-255 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Architect formed from the sorrow of building for a future that never came. Held at Zone B, Old Lament. Every structure lacks one essential element.
@@ -347,7 +347,7 @@ Some sorrows mourn what was destroyed. Hollow Architect mourns what was never oc
 **Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** Hollow Architect
 **Containment Status:** Contained — Zone A
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Architect designs endlessly for a population that never existed. Effect: proximity induces the burden of creation without completion.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

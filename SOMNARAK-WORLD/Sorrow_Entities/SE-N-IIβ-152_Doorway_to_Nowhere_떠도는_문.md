@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A burning door-shaped figure that walks on a threshold with no wall around it — a frame of charred wood and live fire, its handle opening onto a different memory each time. Fever-warm, it smells of cold rain and char; a door that comes to you. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Close the door consciously; do not force passage |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It appears near old thresholds and sealed rooms.
 - Its flame is emotional rather than physical.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Doorway to Nowhere (N-IIβ-152 [LS]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The Door formed from people who left home without knowing whether they could return. Held at Zone A, Alpha Tree. It appears near old thresholds and sealed rooms.
@@ -351,7 +351,7 @@ Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door to
 **Classification:** Sorrow Entity — `N-IIβ-152 [LS]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Subject-Grudge manifestation
 **Common Name:** Doorway to Nowhere
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A rusted iron pillar embedded in the Forge District, supporting nothing — corroded, bleeding orange, warm and rough to the touch. Lead-cold beneath the rust, it smells of wet iron; it stands where no building needs it. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Rotate labor and acknowledge shared responsibility |
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It supports no visible structure yet never falls.
 - Rust appears after unshared labor.
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Atlas (O-Iα-169 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Pillar formed from support that became an identity. Held at Zone D, Forge District. It supports no visible structure yet never falls.
@@ -365,7 +365,7 @@ Some sorrows are about sacrifice. Atlas is about the sacrifice that became the s
 **Classification:** Sorrow Entity — `O-Iα-169 [WP]` · Weight (Black) · Place-Weight manifestation
 **Common Name:** Atlas
 **Containment Status:** Contained — Zone D, Forge District
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

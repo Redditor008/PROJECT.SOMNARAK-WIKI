@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A well-shaped pressure that floats above the Forge floor rather than sitting on the ground, its rim dark crystal, its shaft opening not into earth but into consciousness itself. There is no water — only a descending weight. The air around it is fever-hot and smells of char. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Create a safe mourning place; do not force it downward |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It floats because its sorrow has no ground.
 - It grows heavier around displaced workers.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Floating Well (C-IIIγ-448 [O]) is logged as a Subject-Weight manifestation expressing Grudge (Crimson). The Well formed from sorrow that could not be grounded. Held at Zone D, Forge District. It floats because its sorrow has no ground.
@@ -347,7 +347,7 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 **Classification:** Sorrow Entity — `C-IIIγ-448 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Weight manifestation
 **Common Name:** Floating Well
 **Containment Status:** Contained — Zone D, Forge District (aerial)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Well floats, too full of grief to settle.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.

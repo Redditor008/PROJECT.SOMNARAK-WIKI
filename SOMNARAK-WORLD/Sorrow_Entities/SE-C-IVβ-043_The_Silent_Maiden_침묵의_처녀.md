@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, utterly still and silent — skin bloodless and pale, eyes open and seeing nothing, neither weeping nor raging. She is cold to the touch, alive yet absent; near her, the flat smell of ash, and a hush that swallows sound. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, empty, hollow |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-02, contained with the Three Sisters |
 | **Resolution Condition** | See her, hear her, and recognize that she is present |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - No physical attack has ever affected the Maiden.
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Silent Maiden (C-IVβ-043 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Maiden formed from a child who died of neglect. Held at SECTOR-D-02, contained with the Three Sisters. No physical attack has ever affected the Maiden.
@@ -365,7 +365,7 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 **Classification:** Sorrow Entity — `C-IVβ-043` · City origin · Entity (IV) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Silent Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Maiden is defined by absence. Effect: proximity induces the chill of being present and never seen.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

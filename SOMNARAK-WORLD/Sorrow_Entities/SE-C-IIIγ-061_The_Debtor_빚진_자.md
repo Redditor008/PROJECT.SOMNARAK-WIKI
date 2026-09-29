@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — An old, bent man of true flesh and bone, stooped under a weight no one else can see — measured by Han-scales at roughly 7.3 tons, though his body shows only the shape of it. His skin is grey, his joints swollen, his breath laboured; he is lead-cold and damp with effort, and the air smells of wet stone and iron. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-C-01, contained with the Debt Triplets |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Accepting and weary |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, contained with the Debt Triplets |
 | **Resolution Condition** | Carry part of the burden willingly; do not command him to put it down |
@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The invisible burden measures 7.3 tons on Han-scales.
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Debtor (C-IIIγ-061 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt. Held at SECTOR-C-01, contained with the Debt Triplets. The invisible burden measures 7.3 tons on Han-scales.
@@ -363,7 +363,7 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 **Classification:** Sorrow Entity — `C-IIIγ-061 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Debtor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Debtor does not attack. He carries a ledger and pays.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

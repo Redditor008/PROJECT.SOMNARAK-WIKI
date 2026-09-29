@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A pair of dark chains of crystallized rage, their links fused and grown rather than forged, cold and ridged like clenched vertebrae. Bound to a person they move on their own, forcing the wearer to dance until collapse. They are fever-hot where they grip, and smell of char. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-B-01, Zone B — contained |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Personality compelled to dance |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-01, Zone B — contained |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - Han-signature resonates at a frequency matching the Weeping.
@@ -310,7 +310,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Dancing Chains (C-IIIγ-102 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Chains formed from a fairy tale about cursed shoes and the terror of being compelled to continue. Held at SECTOR-B-01, Zone B — contained. Han-signature resonates at a frequency matching the Weeping.
@@ -400,7 +400,7 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 **Classification:** Sorrow Entity — `C-IIIγ-102 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Dancing Chains
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Chains compel continuous movement once bound.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

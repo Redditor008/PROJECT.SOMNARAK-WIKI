@@ -73,7 +73,7 @@ Completing all four tiers for a department permanently unlocks that director's *
 
 ### 2.5 Insight Forge Missions (Lead Ayshuk)
 1. *Sensor Calibration:* Perform 4 👁 **Viderehan** (Observation) work sessions. (Reward: Work Speed +10%).
-2. *Cognitive Decoding:* Fully unlock all four Observation Levels for three entities. (Reward: Positive Box Visualization).
+2. *Cognitive Decoding:* Fully unlock all four Comprehension Levels for three entities. (Reward: Positive Box Visualization).
 3. *Anomalous Behavioral Study:* Successfully work with a high-threat Rank IV Entity. (Reward: Mental Shield Buff).
 4. *Total Synthesis:* Complete shift with all departmental entities researched. (Reward: Unlocks Ayshuk Core Realization).
 

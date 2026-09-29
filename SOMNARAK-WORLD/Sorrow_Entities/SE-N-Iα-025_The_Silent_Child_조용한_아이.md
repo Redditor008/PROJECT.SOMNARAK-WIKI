@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A small, translucent child barely visible at the edge of sight, who makes no sound at all and sits in corners watching. Half-flesh and half-light, bloodless-cold, it smells of ash; the child who called for help and was never heard. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) — Barely formed, passive |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-02, Echo Gardens — contained |
 | **Resolution Condition** | Sit beside the Child and share silence. Do not demand speech |
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - The Child has never attacked personnel.
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Silent Child (N-Iα-025 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Child formed from children whose voices were never heard. Held at SECTOR-D-02, Echo Gardens — contained. The Child has never attacked personnel.
@@ -366,7 +366,7 @@ Some sorrows mourn neglect. The Silent Child is made of it — the accumulated o
 **Classification:** Sorrow Entity — `N-Iα-025 [VS]` · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Silent Child
 **Containment Status:** Contained — SECTOR-D-02, Echo Gardens — contained
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

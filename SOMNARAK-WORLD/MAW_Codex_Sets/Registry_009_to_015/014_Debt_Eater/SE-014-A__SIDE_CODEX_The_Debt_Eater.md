@@ -27,7 +27,7 @@
 | **Element** | Void — Pale White |
 | **Form** | One-meter, mouthless ledger-pale humanoid |
 | **Location** | SECTOR-C-01, Collector use |
-| **Observation Level** | 2 — Studied |
+| **Comprehension Level** | 2 — Studied |
 | **M.A.W. Set** | Debt Set |
 
 ### Core Sorrow

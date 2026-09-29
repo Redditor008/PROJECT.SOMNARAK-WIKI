@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, corrosive vitriol, and stagnant sump water. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–55% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — fractures irrevocably into brass shards |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Snapped indenture |
 | **Primary Pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–55% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Sector C Indenture Office / Concourse Sump |
 | **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, obliterating all active debt burdens |
@@ -258,7 +258,7 @@ M.A.W. extracted from this relic carries the fury of the indebted underclass. It
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The tablet weighs 21.4 kg at 08:00 hours and surges to 38.7 kg at 17:00 hours, coinciding with the closing of the municipal labor shifts.
 - Any paper contract placed within twenty centimeters of the tablet develops yellow acid stains within five minutes.
@@ -277,7 +277,7 @@ M.A.W. extracted from this relic carries the fury of the indebted underclass. It
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Reclaimed from the burned archives of the Concourse Indenture Ministry. The brass shows severe pitting consistent with high-molarity industrial solvent immersion.
@@ -350,7 +350,7 @@ As the acid dissolved the paper ledgers and the brass broke, every record of his
 **Classification:** Sorrow Entity — `C-IIIβ-072 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** Father's Broken Bond
 **Containment Status:** Contained — Sector-C-03 Indenture Vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Medium physical threat. Supreme emergency tactical utility as a crisis gauge purge asset.
 **Containment & Handling Procedures:**
 - Mount on a hydraulic load-cell pedestal to absorb mass fluctuations.

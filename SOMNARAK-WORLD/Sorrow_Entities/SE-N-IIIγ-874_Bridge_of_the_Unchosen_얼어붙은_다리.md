@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A bridge of pale crystal frozen suspended above the ground with no river beneath it, its far end lost in frost. Bloodless-cold, it smells of ash; it leads somewhere, but the frost hides where. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | Acknowledge possibility without treating it as history |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Frost never melts through temperature.
 - The destination changes according to the observer's regret.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Bridge of the Unchosen (N-IIIγ-874 [D]) is logged as a Object-Weight manifestation expressing Void (Pale White). The Bridge formed from a crossing that was never taken. Held at Zone D, Echo Gardens. Frost never melts through temperature.
@@ -389,7 +389,7 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 **Classification:** Sorrow Entity — `N-IIIγ-874 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Object-Weight manifestation
 **Common Name:** Bridge of the Unchosen
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A bridge frozen around a refused crossing. Effect: proximity induces the weight of the road not taken.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

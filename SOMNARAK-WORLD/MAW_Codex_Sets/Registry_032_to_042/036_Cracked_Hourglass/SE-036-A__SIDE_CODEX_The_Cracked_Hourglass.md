@@ -27,7 +27,7 @@
 | Element | Weight — Black |
 | Form | Leaking crystallized-time hourglass |
 | Location | SECTOR-A-01, Alpha Tree vault |
-| Observation Level | 4 — Mastered |
+| Comprehension Level | 4 — Mastered |
 | M.A.W. Set | Hourglass Set |
 
 ### Core Sorrow

@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A thirty-meter humanoid of solidified grief, dark and dense, pulsing inward like a thousand slow hearts beneath skin that is half-flesh, half-stone. Its eyes weep without cease, and where the tears fall, Han-crystal buildings bloom from the ground. Each footstep cracks the earth and leaves a crater of sorrow; it is warm, and impossibly heavy. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone D — wanders freely; uncontained landmark |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Sovereign (V) — Autonomous, unpredictable, reality-bending |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D — wanders freely; uncontained landmark |
 | **Resolution Condition** | Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes |
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Grieving Colossus (C-Vδ-002 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Colossus formed from the unmourned dead of early Zone D—workers, settlers, and dreamers who died without anyone to remember them. Held at Zone D — wanders freely; uncontained landmark. The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
@@ -366,7 +366,7 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 **Classification:** Sorrow Entity — `C-Vδ-002 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Grieving Colossus
 **Containment Status:** Contained — Zone D
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Moderate. The Colossus is immense and lonely. It does not attack. Its mass causes structural stress. Effect: proximity induces the loneliness of the forgotten dead.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

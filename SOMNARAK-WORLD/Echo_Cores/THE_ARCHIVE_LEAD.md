@@ -95,7 +95,7 @@ Marjuk's hair is artificial, smoky slate-grey, and brushed back from the forehea
 
 A dark metal collar protects the junction between skull, preserved spinal tissue, and artificial torso. Beneath it, a narrow smoked-glass panel runs from the upper sternum to the base of the throat. Pale Han-stasis light moves slowly behind the glass, showing that the organic core remains active without displaying it as an exposed specimen. The panel is reinforced and normally covered by his inner coat. Black conduits follow the spine beneath the rear armor and branch into the shoulders, hands, and lower body.
 
-His hands are fully artificial and built for archival work rather than combat. The fingers are long, dark-jointed, and capped with golden-brown contact pads that can handle paper, Echoes, Han-crystal tablets, and fragile memory casings without crushing them. Thin Black registration lines appear across the palms when he interfaces with the Whispering Index. They are data and Weight channels, not cracks or signs of Corrosion. He can write, turn pages, operate locks, carry boxes, and perform ordinary physical work without assistance.
+His hands are fully artificial and built for archival work rather than combat. The fingers are long, dark-jointed, and capped with golden-brown contact pads that can handle paper, Echoes, Han-crystal tablets, and fragile memory casings without crushing them. Thin Black registration lines appear across the palms when he interfaces with the Whispering Catalog. They are data and Weight channels, not cracks or signs of Corrosion. He can write, turn pages, operate locks, carry boxes, and perform ordinary physical work without assistance.
 
 Marjuk wears a long archive coat in deep brown-black over a fitted muted-blue body layer. The coat is formal without being ceremonial. Its shoulders are narrow, its collar high, and its front closes with three flat black clasps shaped like blank record seals. Pale White thread marks the inner edges and cuffs, while the hem is weighted so the coat does not move against climate-control currents or disturb loose pages. The coat is split at the back for unrestricted walking and access to the spinal service panel.
 
@@ -208,8 +208,8 @@ It is not his only communication method. _Absolvohan_ records direct dialogue wi
 - Reads redactions as physical alterations and records the method used to remove text.
 - Keeps original fragments separate from later copies.
 - Uses the Memory Lens only after establishing who created an Echo and under what conditions.
-- Touches the Whispering Index with two fingers rather than a full palm, limiting identity bleed.
-- Stops an inquiry when the Index answers in his own voice.
+- Touches the Whispering Catalog with two fingers rather than a full palm, limiting identity bleed.
+- Stops an inquiry when the Whispering Catalog answers in his own voice.
 - Repeats pre-human sounds exactly before assigning meaning.
 - Leaves classified material in the room where it was found until its environmental conditions are documented.
 - Asks who is absent from an official account before accepting its list of witnesses.
@@ -300,7 +300,7 @@ Marjuk's former Keeper training makes him a bridge between the faction and the R
 Floor 6 can use:
 
 - **Memory Lenses** to view and compare stored memories;
-- the **Whispering Index** to locate records by emotion, date, source, and content;
+- the **Whispering Catalog** to locate records by emotion, date, source, and content;
 - Echo stabilization cases;
 - Han-crystal record tablets;
 - climate and emotion-suppression systems used by the Deep Vault;
@@ -308,7 +308,7 @@ Floor 6 can use:
 - triple-lock access seals;
 - archive carts, cases, and conservation instruments.
 
-These systems provide access, not certainty. The Memory Lens can mix the viewer's memories with the record. The Index speaks in riddles and may develop its own preferences. Marjuk verifies their output against physical sources.
+These systems provide access, not certainty. The Memory Lens can mix the viewer's memories with the record. The Whispering Catalog speaks in riddles and may develop its own preferences. Marjuk verifies their output against physical sources.
 
 ### Ferrehan
 
@@ -374,7 +374,7 @@ He is described as having perfect or eidetic recall. That ability supports his c
 
 ### The Grand Archive
 
-Before the Directorate, Marjuk works in the Grand Archive, the second-largest building in Zone A. Its shelves extend partly into Dream-space, its Whispering Index catalogs preserved memories, and its lowest vaults contain material capable of destabilizing the city.
+Before the Directorate, Marjuk works in the Grand Archive, the second-largest building in Zone A. Its shelves extend partly into Dream-space, its Whispering Catalog catalogs preserved memories, and its lowest vaults contain material capable of destabilizing the city.
 
 He enters the institution believing that preservation protects truth. His later history teaches him that an archive can preserve a document physically while allowing its public meaning to be controlled. A sealed record survives, but the people harmed by its absence continue living inside the false account.
 
@@ -619,9 +619,9 @@ He identifies who created a record, when it entered the Archive, whether it is a
 
 ### Keeper Memory Practice
 
-As a former Keeper, Marjuk understands how to store, retrieve, stabilize, and restore memory Echoes. He can use faction systems such as the Memory Lens and Whispering Index under controlled conditions.
+As a former Keeper, Marjuk understands how to store, retrieve, stabilize, and restore memory Echoes. He can use faction systems such as the Memory Lens and Whispering Catalog under controlled conditions.
 
-The cost of Keeper Resonance remains relevant. Viewing another person's memory can blur identity, and the Index may answer through riddles or the user's own remembered voice.
+The cost of Keeper Resonance remains relevant. Viewing another person's memory can blur identity, and the Whispering Catalog may answer through riddles or the user's own remembered voice.
 
 ### Pre-Human Language Study
 
@@ -652,7 +652,7 @@ The chassis can still be damaged and requires maintenance. Preserved tissue rema
 
 ### Archive-System Interface
 
-Ports in Marjuk's hands, wrists, collar, and spine allow direct access to authorized Floor 6 systems. He can query the Index, inspect vault conditions, monitor access, and receive memory-display output.
+Ports in Marjuk's hands, wrists, collar, and spine allow direct access to authorized Floor 6 systems. He can query the Whispering Catalog, inspect vault conditions, monitor access, and receive memory-display output.
 
 Connection does not erase physical distance or security. He cannot access every sealed room without authorization, and a compromised system can feed him incomplete information.
 
@@ -697,7 +697,7 @@ The body is stable, but stable does not mean indestructible.
 
 ### Keeper Identity Erosion
 
-Keeper Resonance can erode the distinction between the Keeper's memories and the records being handled. The Memory Lens remembers its viewer. The Whispering Index may return the user's own memories beside stored material.
+Keeper Resonance can erode the distinction between the Keeper's memories and the records being handled. The Memory Lens remembers its viewer. The Whispering Catalog may return the user's own memories beside stored material.
 
 Marjuk's perfect recall may intensify this danger because an intrusive memory is not easily discarded. The sources do not state that he has lost his identity, but the occupational risk remains.
 
@@ -735,7 +735,7 @@ Marjuk must treat missing voices as a limit rather than a blank he is free to fi
 
 ### Living and Unreliable Systems
 
-The Grand Archive and Memory Archive are living systems. The Whispering Index has a personality. Memory Echoes are emotional records rather than neutral camera footage. Place-Lament makes the vault react.
+The Grand Archive and Memory Archive are living systems. The Whispering Catalog has a personality. Memory Echoes are emotional records rather than neutral camera footage. Place-Lament makes the vault react.
 
 These systems can guide an inquiry but cannot replace corroboration.
 
@@ -835,13 +835,13 @@ Marjuk's synthetic right eye can accept its display. The Lens is faction technol
 
 The Memory Lens is an ornate monocle crafted from crystallized memory glass, secured by a pale white braided cord. Its multifaceted iris projects deep indigo and pale white visual overlays, refracting recorded sorrow into sharp chronological sequences.
 
-A thin brass-alloy rim encloses the memory crystal, etched with micro-script cataloging forgotten Floor 6 designations. When positioned over Marjuk's synthetic right optic, the lens hums at low frequency, synchronizing with the Whispering Index's crystal threads to project holographic memory fragments across his forward field of view.
+A thin brass-alloy rim encloses the memory crystal, etched with micro-script cataloging forgotten Floor 6 designations. When positioned over Marjuk's synthetic right optic, the lens hums at low frequency, synchronizing with the Whispering Catalog's crystal threads to project holographic memory fragments across his forward field of view.
 
-### Whispering Index
+### Whispering Catalog
 
-The Index is a network of Han-crystal threads throughout the Grand Archive. A Keeper touches a thread and asks a question; the system responds through whispers, riddles, or fragments.
+The Whispering Catalog is a network of Han-crystal threads throughout the Grand Archive. A Keeper touches a thread and asks a question; the system responds through whispers, riddles, or fragments.
 
-Marjuk can query it through his artificial hands. The Index is not his subordinate and may not answer directly.
+Marjuk can query it through his artificial hands. The Whispering Catalog is not his subordinate and may not answer directly.
 
 ### Record Tablets and Access Slate
 
@@ -986,9 +986,9 @@ The Door is an unresolved subject rather than a relationship in ordinary human t
 
 He does not claim ownership, friendship, or control. His restraint protects the floor from treating an ancient unknown as merely another archive box.
 
-### The Whispering Index
+### The Whispering Catalog
 
-The Index is a tool with enough personality that Keepers debate whether it is alive. Marjuk listens without treating every answer as command.
+The Whispering Catalog is a tool with enough personality that Keepers debate whether it is alive. Marjuk listens without treating every answer as command.
 
 Its riddles reward patience but introduce bias. It can guide him toward a shelf while still choosing how to phrase the route.
 
@@ -1226,7 +1226,7 @@ This fragment aligns Marjuk with the dedicated account's emphasis on neglect, cl
 
 > _“A missing page is not an empty answer. Record the absence.”_
 
-> _“If the Index answers in your own voice, stop listening and verify who is asking.”_
+> _“If the Whispering Catalog answers in your own voice, stop listening and verify who is asking.”_
 
 > _“Preservation without context is only a cleaner method of hiding.”_
 
@@ -1268,9 +1268,9 @@ The journal's visible ending is incomplete. Meaning appears between pages and on
 
 The Door represents a limit the archivist cannot solve by opening. Its one translated word—mercy—makes restraint part of knowledge.
 
-### The Whispering Index
+### The Whispering Catalog
 
-An archive can answer and still be unreliable. The Index makes cataloguing conversational, selective, and alive.
+An archive can answer and still be unreliable. The Whispering Catalog makes cataloguing conversational, selective, and alive.
 
 ### The Bell Remembers
 
@@ -1340,7 +1340,7 @@ The project establishes the Keepers, Grand Archive, Keeper Resonance, Ferrehan p
 
 **Role:** Equipment and method context.
 
-The source defines the Memory Lens and Whispering Index used by Keeper practice.
+The source defines the Memory Lens and Whispering Catalog used by Keeper practice.
 
 ### _Somnarak Taboo Resonance_
 

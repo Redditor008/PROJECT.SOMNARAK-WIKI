@@ -109,14 +109,14 @@ Unlike formal municipal Restoration Guilds, Menders are mostly **independent**. 
 
 **The Five Sorrow Frays (한의 다섯 범죄단 — Han-ui Daseot Beomjoedan):**
 
-Like the standard Five Fingers, Somnarak has five major frays that control the criminal underworld.
+Somnarak has five major frays that control the criminal underworld.
 
 | # | Name | Korean | Territory | Specialty | Leader |
 |---|------|--------|-----------|-----------|--------|
 | 1 | **The Harvesters** | 수확자 (Suhwakja) | Zone B | Illegal Echo harvesting — they extract Echoes from people by force | "The Farmer" — identity unknown |
 | 2 | **The Debt Brokers** | 중개인 (Junggaein) | Zone C | Debt trading — they buy and sell debt, including inherited debt | "The Scales" — a former Collector |
 | 3 | **The Veil Merchants** | 베일 상인 (Beil Sangin) | Zone D | Veil black market — they sell counterfeit Veil access to those who can't afford it | "The Mask" — identity unknown |
-| 4 | **The Memory Fray** | 기억 카르텔 (Gieok Kareutel) | Zone B + C | Memory trafficking — they steal, sell, and trade memories | "The Index" — a former Keeper |
+| 4 | **The Memory Fray** | 기억 카르텔 (Gieok Kareutel) | Zone B + C | Memory trafficking — they steal, sell, and trade memories | "The Whispering Catalog" — a former Keeper |
 | 5 | **The Entity Traders** | 존재 거래자 (Jonjae Geolaeja) | Zone D + E | Sorrow Entity trafficking — they capture and sell entities on the black market | "The Cage" — a former R.D. researcher |
 
 **Fray Hierarchy:**

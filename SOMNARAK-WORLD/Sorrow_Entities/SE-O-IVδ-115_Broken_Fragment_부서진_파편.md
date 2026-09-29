@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A heavy fragment of black crystal, broken clean from some unknown monument, resting on the ground yet pressing through the surface as though still part of something larger. Lead-cold, it smells of wet stone; a piece of a thing no one can name. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone E, Border region |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It cannot be lifted by mechanical or Han force.
 - The inscriptions appear only to people who acknowledge inherited debt.
@@ -297,7 +297,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Broken Fragment (O-IVδ-115 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Fragment formed from a monument broken by accumulated obligation. Held at Zone E, Border region. It cannot be lifted by mechanical or Han force.
@@ -386,7 +386,7 @@ Some sorrows mourn a monument. Broken Fragment mourns the debt it commemorated �
 **Classification:** Sorrow Entity — `O-IVδ-115 [WO]` · Weight (Black) · Object-Weight manifestation
 **Common Name:** Broken Fragment
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

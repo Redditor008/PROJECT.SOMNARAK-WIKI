@@ -85,7 +85,7 @@ When a specialist enters a chamber or confronts a breaching entity, their rank i
 | Specialist Rank == Entity Risk | **Normal** | Minor SP drain (5% of max SP). |
 | Specialist Rank +1 < Entity Risk | **Fear** | Moderate SP drain (25% of max SP). |
 | Specialist Rank +2 < Entity Risk | **Hopeless** | Severe SP drain (50% of max SP). |
-| Specialist Rank +3+ < Entity Risk | **Overwhelming** | **Instant Panic**. EGO collapse on sight. |
+| Specialist Rank +3+ < Entity Risk | **Overwhelming** | **Instant Panic**. ego collapse on sight. |
 
 ## 9 Gallery
 

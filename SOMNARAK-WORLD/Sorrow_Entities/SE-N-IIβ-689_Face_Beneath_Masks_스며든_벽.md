@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A wall-shaped presence inside consciousness rather than the world — felt, not seen, spreading inward whenever a person tries to hide an emotional boundary. Bloodless-cold, it smells of ash; nothing to strike, only the wall growing behind one's own eyes. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Establish safe contact; do not force the wall open |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It spreads through shared identity anxiety.
 - Direct confrontation makes it thicker.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Face Beneath Masks (N-IIβ-689 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Wall formed from a person's need to hide from everyone, including the self. Held at Zone C, Mask Market. It spreads through shared identity anxiety.
@@ -353,7 +353,7 @@ Some sorrows are about hiding. Face Beneath Masks is about the hiding that becom
 **Classification:** Sorrow Entity — `N-IIβ-689 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** Face Beneath Masks
 **Containment Status:** Contained — Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Wall of masks that consumed the face. Effect: proximity induces vertigo of self-erasure; personnel feel their own masks loosen.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

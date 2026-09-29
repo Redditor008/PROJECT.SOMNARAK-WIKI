@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A large floating shard of pale crystal containing the faint outline of a ghostly figure, drifting above the Forge without touching anything. Salt-cold and damp, it smells of cold rain; the figure inside turns as the shard turns. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Do not dismiss the pain or promise impossible rescue |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It becomes brighter near injured personnel.
 - Its fragments dissolve after an entity or person is acknowledged.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Floating Shard (C-IVδ-503 [N]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Shard formed from compassion for people broken by the city. Held at Zone D, Forge District. It becomes brighter near injured personnel.
@@ -349,7 +349,7 @@ Some sorrows are about suffering. Floating Shard is about witnessing — the hel
 **Classification:** Sorrow Entity — `C-IVδ-503 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** Floating Shard
 **Containment Status:** Contained — Zone D
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A crystal of helpless compassion, drifting. Effect: proximity induces the ache of seeing suffering without power to change it.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

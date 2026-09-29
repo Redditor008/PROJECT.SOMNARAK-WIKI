@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A dreamlike figure assembled from broken mirror shards fused with black weight-crystal, each shard reflecting a different self — a body made of every person the viewer has been. Lead-cold and sharp, it smells of wet stone; never the same shape twice. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone E, Exile's Gate vicinity |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Establish a present identity without denying the former one |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It manifests most strongly near the Exile's Gate.
 - Its reflections are dreams, not ordinary images.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Mirror of Broken (N-IIIγ-127 [WS]) is logged as a Subject-Dream manifestation expressing Weight (Black). The entity formed from a self divided by leaving home. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
@@ -351,7 +351,7 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 **Classification:** Sorrow Entity — `N-IIIγ-127 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Dream manifestation
 **Common Name:** Mirror of Broken
 **Containment Status:** Contained — the Desolate (near Gate)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Fragments of an identity shattered at the Gate. Effect: proximity induces the vertigo of a self divided by leaving.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

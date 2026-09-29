@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A humanoid figure of black ice veined with burning edges — frozen flesh laced with live heat, never still, circling the Commons without rest. Where it steps, frost and scorch mark the ground together. Lead-cold and fever-hot at once, it smells of wet stone and char. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone D, Mantle Commons |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Allow it to complete its circuit and name the ending |
@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The entity moves continuously; forced stillness causes escalation.
 - It glows during the Sorrow Tide.
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Frozen Window (C-IIβ-330 [WS]) is logged as a Subject-Grudge manifestation expressing Weight (Black). The entity formed from the refusal to accept a final view. Held at Zone D, Mantle Commons. The entity moves continuously; forced stillness causes escalation.
@@ -356,7 +356,7 @@ Some sorrows accept. Frozen Window does not — it waits, and waits, and will no
 **Classification:** Sorrow Entity — `C-IIβ-330 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Grudge manifestation
 **Common Name:** Frozen Window
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Window watches eternally. Effect: proximity induces unresolved waiting. No breach.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

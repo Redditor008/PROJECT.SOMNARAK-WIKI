@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A radiant, terrible figure, once the Kind Healer: vast wings woven from sorrow, a crown of branching Han-crystal, and a voice built of a thousand weeping tones made one. Its body is half-warm flesh, half-cold light — compassion calcified into judgment. To look on it is to feel grief and verdict at once; it is bloodless, and blindingly cold. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Never contained; forms through the Kind Healer transformation chain |
-| **R.D. Observation Level** | 2 — Limited historical record |
+| **R.D. Comprehension Level** | 2 — Limited historical record |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mixed pressure |
 | **Starting Sorrow Gauge** | 75–95% |
 | **Han-Energy yield** | 28–40 Han-Energy per successful work cycle |
-| **Work difficulty** | Extreme · R.D. Observation Level 2 — Limited historical record |
+| **Work difficulty** | Extreme · R.D. Comprehension Level 2 — Limited historical record |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — ω-grade |
@@ -68,7 +68,7 @@
 | **Coherence** | Sovereign (V) — Absolute and divine |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 75–95% |
-| **Difficulty** | Extreme · R.D. Observation Level 2 — Limited historical record |
+| **Difficulty** | Extreme · R.D. Comprehension Level 2 — Limited historical record |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Never contained; forms through the Kind Healer transformation chain |
 | **Resolution Condition** | Genuine confession before the twelfth blessing; no reliable post-formation method exists |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Limited historical record
+**R.D. Comprehension Level:** 2 — Limited historical record
 
 **Key Observations:**
 - Manifested three times in recorded history; it did not manifest in the current cycle.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Dawn of Mourning (C-Vω-001 [LS]) is logged as a Subject-Body manifestation expressing All four — Lament, Grudge, Void, Weight. The Dawn is the catastrophic historical form of the Kind Healer. In the current cycle, the twelfth blessing produced The Hand of Hope instead. Held at Never contained; forms through the Kind Healer transformation chain. Manifested three times in recorded history; it did not manifest in the current cycle.
@@ -368,7 +368,7 @@ Some sorrows are about loss. Dawn of Mourning is about compassion inverted — t
 **Classification:** Sorrow Entity — `C-Vω-001 [LS]` · City origin · Sovereign (V) coherence · Catastrophic (ω) potency · Mixed (All Four) · Subject-Body manifestation
 **Common Name:** Dawn of Mourning
 **Containment Status:** Sealed — Alpha Tree (historical branches only)
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic (historical). Compassion inverted into judgment after absorbing twelve sorrows. Those judged Fracture immediately. Current cycle diverged; the Hand of Hope was produced instead.
 **Containment & Handling Procedures:**
 - Classified. Director-only access.

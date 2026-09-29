@@ -27,7 +27,7 @@
 | Element | Void — Pale White |
 | Form | Weightless young man with empty eyes and defiant posture |
 | Location | SECTOR-C-01, Debt Triplets containment |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Denial Set |
 
 ### Core Sorrow

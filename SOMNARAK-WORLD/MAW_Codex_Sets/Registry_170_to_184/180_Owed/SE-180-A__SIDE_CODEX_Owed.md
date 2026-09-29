@@ -27,7 +27,7 @@
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A massive wall of dense crystallized debt blocking a thoroughfare; new blocks bud when fresh obligations are recorded. |
 | Gauge / pressure | 45–65% / Weight 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Measured Burden |
 
 ### Core Sorrow

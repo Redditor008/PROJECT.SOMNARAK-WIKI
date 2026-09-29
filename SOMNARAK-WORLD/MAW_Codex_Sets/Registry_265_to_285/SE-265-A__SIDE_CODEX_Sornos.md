@@ -36,7 +36,7 @@
 
 Sornos alternates warmth and cold and smells simultaneously of rain, char, ash, and wet stone. Four colors move beneath closed eyelids. Erased prayer marks pass over worship-crystal plates; dust rises when an ancient prayer enters the city. The God has never fully awakened.
 
-> *“Dormancy is the containment condition, not an invitation to improve the observation level.”* — Archive Lead Marjuk
+> *“Dormancy is the containment condition, not an invitation to improve the comprehension level.”* — Archive Lead Marjuk
 
 Dream leakage reaches the city as prayer and nightmare. The Burning Library contains associated scripture, but no text authorizes address.
 

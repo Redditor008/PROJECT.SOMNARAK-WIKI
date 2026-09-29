@@ -27,7 +27,7 @@
 | **Element** | Void — Pale White |
 | **Form** | Mobile bank of bone-white sorrow mist |
 | **Location** | The Desolate, follows Han-flow lines |
-| **Observation Level** | 1 — Initial |
+| **Comprehension Level** | 1 — Initial |
 | **M.A.W. Set** | Hope Set |
 
 ### Core Sorrow

@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A twenty-meter humanoid of true flesh gone dense and dark — thickened, leaden tissue knotted with Han-crystal growths, warm and impossibly heavy. It walks slowly and with care, stepping around buildings and people as if afraid to break them. Its footfalls shake the ground; it smells of wet stone. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone D — wanders, semi-contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Gentle and sad |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D — wanders, semi-contained |
 | **Resolution Condition** | Share its space and acknowledge its loneliness; do not drive it away by force |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The Giant has never intentionally harmed anyone.
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Lonely Giant (C-IIIγ-105 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Giant formed from the sorrow of people who felt too large, too different, or too much for the world. Held at Zone D — wanders, semi-contained. The Giant has never intentionally harmed anyone.
@@ -363,7 +363,7 @@ Some sorrows are about belonging lost. The Lonely Giant's sorrow is about belong
 **Classification:** Sorrow Entity — `C-IIIγ-105 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Lonely Giant
 **Containment Status:** Semi-contained — Zone D, wanders
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Giant wanders Zone D. Mass causes structural damage.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

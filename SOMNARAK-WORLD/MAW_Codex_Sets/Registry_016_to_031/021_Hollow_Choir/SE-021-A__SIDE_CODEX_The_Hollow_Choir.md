@@ -27,7 +27,7 @@
 | **Element** | Lament — Deep Blue |
 | **Form** | 144 voices occupying an empty amphitheater |
 | **Location** | SECTOR-C-01, Zone C amphitheater |
-| **Observation Level** | 3 — Understood |
+| **Comprehension Level** | 3 — Understood |
 | **M.A.W. Set** | Silenced Set |
 
 ### Core Sorrow

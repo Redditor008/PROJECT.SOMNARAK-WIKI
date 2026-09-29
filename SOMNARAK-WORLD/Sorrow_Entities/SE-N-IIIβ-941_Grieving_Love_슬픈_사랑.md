@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A 1.3 m figure whose upper body is a smooth, translucent blue humanoid torso with the soft, unfinished features of a grieving woman, resolving at the waist into a gelatinous, trembling mass of concentrated Han slime. Her surface is cool to the touch and faintly luminous, as though sorrow were lit from inside her. She has no legs; the slime below is her. |
 | **Movement** | Mobile — she drifts and glides on her slime lower body, slow and wobbling, like a mourner wading through her own grief. |
 | **Location** | SECTOR-D-03, Zone D — the Drowned Apothecary |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Sorrow Gauge ≥ 70%, or when offered comfort and then refused |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
@@ -67,7 +67,7 @@
 | **Coherence** | Fragment (III) — Reaches for the comfort she could never give |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-03, Zone D — the Drowned Apothecary |
 | **Resolution Condition** | Do not flee her embrace — sit with her grief until she lets go of her own accord |
@@ -248,7 +248,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - She does not eat, sleep, or speak in sentences — only a single name, repeated.
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Grieving Love (N-IIIβ-941 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The entity formed when an apothecary, Sooah, fell into a vat of concentrated Han she was distilling as a cure for her dying beloved. Held at the Drowned Apothecary, SECTOR-D-03, Zone D. She drifts, weeps without wetting the floor, and reaches for any offered warmth.
@@ -360,7 +360,7 @@ She did not reach it. She reached, instead, for the next warm thing, and the nex
 **Classification:** Sorrow Entity — `N-IIIβ-941 [LS]` · Inner origin · Fragment (III) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** Grieving Love (슬픈 사랑)
 **Containment Status:** Contained — the Drowned Apothecary, SECTOR-D-03, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. A 1.3 m blue slime entity that seeks comfort and envelops those who offer it. Not aggressive, but contact is hazardous — prolonged embrace causes composure loss and eventual dissolution. Containment holds as long as she is visited and sat with regularly.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type; schedule regular silent-sitting visits to keep the Gauge low.

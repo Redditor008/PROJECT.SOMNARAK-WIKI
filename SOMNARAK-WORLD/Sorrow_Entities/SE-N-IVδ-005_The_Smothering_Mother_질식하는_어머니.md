@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A ten-meter feminine figure, warm-fleshed despite her size, her skin dark and damp like a mother who has wept in the rain for years; her arms can stretch the full span of the containment room. Her face is beautiful and warm, her eyes hollow pits that drink the light. She reaches to enfold — the embrace of Soojin (수진), who lost her two children to the Han and will not let another child go. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-D-01, Zone D — contained |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, driven by maternal instinct |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-01, Zone D — contained |
 | **Resolution Condition** | Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective |
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - The Mother has never intentionally harmed anyone; she holds and does not squeeze.
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Smothering Mother (N-IVδ-005 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Mother formed from a mother — Soojin (수진), a Zone B laborer — whose two children were swallowed by the Han. Held at SECTOR-D-01, Zone D — contained. The Mother has never intentionally harmed anyone; she holds and does not squeeze.
@@ -364,7 +364,7 @@ Some sorrows mourn a child. The Smothering Mother mourns the inability to protec
 **Classification:** Sorrow Entity — `N-IVδ-005 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Smothering Mother
 **Containment Status:** Contained — SECTOR-D-01, Zone D — contained
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

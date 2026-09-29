@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A dreamlike figure built from rusted bridge plates and dark water — corroded span and slow current fused into a wandering form. Bloodless-cold, it smells of ash and wet iron; it sings, but only those who have lost a crossing can hear it. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Do not promise reunion; name both the crossing and the loss |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Its song is strongest near damaged bridges and gates.
 - Dream-layer observation shows a complete bridge; waking observation shows only fragments.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Corrosion Dream (O-IIIγ-915 [VS]) is logged as a Subject-Dream manifestation expressing Void (Pale White). The Bridge formed from the dream of a connection that could not be repaired. Held at Zone D, Forge District. Its song is strongest near damaged bridges and gates.
@@ -347,7 +347,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 **Classification:** Sorrow Entity — `O-IIIγ-915 [VS]` · Void (Pale White) · Subject-Dream manifestation
 **Common Name:** Corrosion Dream
 **Containment Status:** Contained — Zone D, Forge District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

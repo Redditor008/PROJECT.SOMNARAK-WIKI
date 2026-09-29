@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A faint humanoid made from dust, broken stone, and fading memories of a ruined Desolate settlement — barely holding its shape, always about to blow away. Salt-damp, it smells of cold rain; a place that died, walking. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Map and name what remains; do not chase what is already gone |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It fades in strong daylight and reforms after dusk.
 - It is clearer to survivors than to outsiders.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Ephemera (O-Iα-189 [LS]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The Ruin formed from a settlement remembered by fewer people each year. Held at The Desolate — mobile. It fades in strong daylight and reforms after dusk.
@@ -351,7 +351,7 @@ Some sorrows mourn destruction. Ephemera mourns the forgetting — the place tha
 **Classification:** Sorrow Entity — `O-Iα-189 [LS]` · Lament (Deep Blue) · Subject-Grudge manifestation
 **Common Name:** Ephemera
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

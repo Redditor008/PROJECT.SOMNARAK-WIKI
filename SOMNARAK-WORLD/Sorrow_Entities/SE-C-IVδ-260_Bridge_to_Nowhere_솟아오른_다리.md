@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A bridge rising from the Echo Gardens, built of dark memory-crystal and worn old path-stones, leading across a gap that is not physically there. Salt-cold and damp, it smells of cold rain; walking it, you cross something other than distance. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | Mark the crossing as memory and allow the Bridge to settle |
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Bridge sings during formation.
 - It may appear over flat ground.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Bridge to Nowhere (C-IVδ-260 [LP]) is logged as a Place-Grudge manifestation expressing Lament (Deep Blue). The Bridge formed from a remembered crossing. Held at Zone D, Echo Gardens. The Bridge sings during formation.
@@ -363,7 +363,7 @@ Some sorrows mourn a place. Bridge to Nowhere mourns a transit — the daily cro
 **Classification:** Sorrow Entity — `C-IVδ-260 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Grudge manifestation
 **Common Name:** Bridge to Nowhere
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Minimal. A bridge spanning nothing, built from remembered crossings. Effect: walking it induces the grief of places remembered more vividly than people.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

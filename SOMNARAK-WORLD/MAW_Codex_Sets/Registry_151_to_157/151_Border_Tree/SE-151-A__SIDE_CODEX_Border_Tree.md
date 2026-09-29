@@ -27,7 +27,7 @@
 | Location | Zone E, Border region |
 | Form | A colossal creeping tree-monster with root-legs and branch-claws, growing along lines that divide homes from the people who can no longer reach them. |
 | Gauge / pressure | 60–80% / Grudge 29–62 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Shared Ground |
 
 ### Core Sorrow

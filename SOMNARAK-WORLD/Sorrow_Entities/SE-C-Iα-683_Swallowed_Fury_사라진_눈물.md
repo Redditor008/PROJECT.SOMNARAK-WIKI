@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A faint ghostly figure shaped like a single tear that has begun to burn — translucent, flickering, trailing heat. It appears and disappears around the Forge District without warning. Fever-cold, it smells of char; to see it is to feel a grief you cannot place. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Permit tears and name the loss; do not suppress the anger |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It appears near workers who suppress visible emotion.
 - It glows during the Sorrow Tide.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Swallowed Fury (C-Iα-683 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The entity formed from a tear that was erased before it could fall. Held at Zone D, Forge District. It appears near workers who suppress visible emotion.
@@ -351,7 +351,7 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 **Classification:** Sorrow Entity — `C-Iα-683 [GS]` · City origin · Residue (I) coherence · Minor (α) potency · Grudge (Crimson) · Subject-Phantasmal manifestation
 **Common Name:** Swallowed Fury
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tear suppressed by order, turned to rage. Effect: proximity induces the fury of denied grief.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

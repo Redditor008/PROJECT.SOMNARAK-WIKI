@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A stone well whose rim will not stay put: it spreads across the ground in thin branching channels of blue sorrow, its water seeping far from the opening to places it should not reach. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
 | **Resolution Condition** | Acknowledge each linked site; do not dam the channels |
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Channels follow Han currents and old mourning paths.
 - The Well sings beneath the ground.
@@ -295,7 +295,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Spreading Well (C-IIIγ-373 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Well formed from sorrow that refused to remain in one place. Held at The Desolate, near The Scar. Channels follow Han currents and old mourning paths.
@@ -385,7 +385,7 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 **Classification:** Sorrow Entity — `C-IIIγ-373 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Spreading Well
 **Containment Status:** Uncontained — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Well is an underground network of merged grief-channels.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

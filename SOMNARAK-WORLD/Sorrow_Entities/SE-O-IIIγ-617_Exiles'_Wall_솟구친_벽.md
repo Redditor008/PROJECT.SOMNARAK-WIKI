@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A wall of dark wet crystal standing near the Exile's Gate, its surface burning with red light and leaking sorrow like sweat. Fever-hot and damp, it smells of char; it weeps even as it burns. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone E, Exile's Gate vicinity |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Acknowledge both departure and destination; do not complete its buildings |
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It grows near new exile routes.
 - Its red heat is emotional rather than thermal.
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Exiles' Wall (O-IIIγ-617 [O]) is logged as a Place-Lament manifestation expressing Grudge (Crimson). The Wall formed from mourning at the border. Held at Zone E, Exile's Gate vicinity. It grows near new exile routes.
@@ -363,7 +363,7 @@ Some sorrows mourn exile. Exiles' Wall mourns the building — the shelters star
 **Classification:** Sorrow Entity — `O-IIIγ-617 [O]` · Grudge (Crimson) · Place-Lament manifestation
 **Common Name:** Exiles' Wall
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

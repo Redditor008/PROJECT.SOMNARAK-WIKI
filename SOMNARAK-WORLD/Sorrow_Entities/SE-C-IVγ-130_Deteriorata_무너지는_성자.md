@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A saint-like humanoid of cracking stone sheathed in dark Han-crystal; pieces crumble constantly from its body but dissolve before reaching the floor, so it is forever falling apart and forever whole. Lead-cold and heavy, it smells of wet stone. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-B-02, Zone B |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, crumbling, accepting |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-02, Zone B |
 | **Resolution Condition** | Do not repair or reinforce it; acknowledge the right to rest |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Saint's fragments vanish before touching the ground.
 - It becomes more active during the Sorrow Tide.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Deteriorata (C-IVγ-130 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Saint formed from the grief of a person who spent a lifetime holding others together while slowly falling apart. Held at SECTOR-B-02, Zone B. The Saint's fragments vanish before touching the ground.
@@ -353,7 +353,7 @@ Some sorrows are about weakness. Deteriorata is about strength — the strength 
 **Classification:** Sorrow Entity — `C-IVγ-130` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** Deteriorata
 **Containment Status:** Contained — Zone C
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Saint is petrified, turned to stone by being treated as strong. Effect: proximity induces the burden of being the strong one.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

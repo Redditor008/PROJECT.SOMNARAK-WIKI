@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A ghostly figure carrying a relic that flows like liquid crystal in its hands, its own body shifting between person and object, never settling. Salt-damp, it smells of cold rain; a treasure and its keeper blended into one. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | Zone E, Exile's Gate vicinity |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Do not claim ownership; document its owners |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Relic changes form near the Exile's Gate.
 - It is more active when someone leaves the city.
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Relic of a Thousand Owners (O-IVδ-792 [O]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Relic formed from an object carried through many exiles. Held at Zone E, Exile's Gate vicinity. The Relic changes form near the Exile's Gate.
@@ -359,7 +359,7 @@ Some sorrows mourn an owner. Relic of a Thousand Owners mourns the having-none �
 **Classification:** Sorrow Entity — `O-IVδ-792 [O]` · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** Relic of a Thousand Owners
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

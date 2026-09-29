@@ -47,7 +47,7 @@ Some sorrows mourn what was taken. The Debt Eater mourns what was never agreed t
 **Classification:** Sorrow Entity — `C-IIIβ-014 [VS]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Debt Eater
 **Containment Status:** Contained — Zone C, Collector district
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Debt Eater is a Subject that consumes debt from ledgers. It does not attack personnel. Risk: the consumed debts return in other forms. The Eater is persistent and mobile within its containment.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are valid Work Types.
@@ -106,7 +106,7 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 **Classification:** Sorrow Entity — `C-IIIβ-015 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Debt Scale
 **Containment Status:** In use — Collector courts, Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Scale is an Object that weighs debt impartially. It does not attack. Risk: the Scale’s fairness is worse than corruption — it confirms the poor genuinely owe more.
 **Containment & Handling Procedures:**
 - Viderehan is the only valid Work Type.
@@ -167,7 +167,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 **Classification:** Sorrow Entity — `C-IIIβ-016 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Echo Compass
 **Containment Status:** Contained — Archive deep room
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Compass is an Object entity. Its needle spins constantly. Holding it induces disorientation and the awareness that grief surrounds in all directions. No breach risk.
 **Containment & Handling Procedures:**
 - Viderehan is the only valid Work Type.
@@ -224,7 +224,7 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent �
 **Classification:** Sorrow Entity — `C-IIIβ-036 [WO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Cracked Hourglass
 **Containment Status:** Contained — Alpha Tree deep vault
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Moderate. The Hourglass leaks sand continuously. Proximity induces time-anxiety and the awareness of unrecoverable moments. The leak cannot be sealed. No breach; the entity is static.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -283,7 +283,7 @@ The Rage Forge is that awareness. It still burns. It still shapes metal. But tho
 **Classification:** Sorrow Entity — `C-IIIβ-275 [GP]` · City origin · Fragment (III) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** The Rage Forge
 **Containment Status:** Contained — Zone D, Forge District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Forge is a conscious furnace that feeds on workers’ resentment. It evaluates each worker’s anger. Risk: prolonged work causes emotional burnout and dependency.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type; the Forge responds to confrontation.
@@ -342,7 +342,7 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 **Classification:** Sorrow Entity — `C-IIIγ-021 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Spirit manifestation
 **Common Name:** The Hollow Choir
 **Containment Status:** Contained — Zone C amphitheater
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Choir sings unfinished songs. Exposure causes personnel to hear their own unfinished sentences. Psychological effect is significant; no Fractures recorded.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type; the Choir responds to shared grief.
@@ -399,7 +399,7 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 **Classification:** Sorrow Entity — `C-IIIγ-031 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** The Observing Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Bird does not attack. It watches. Effect: personnel feel the bystander’s grief — the helplessness of seeing and not acting. Psychological pressure increases when a sibling Bird is absent.
 **Containment & Handling Procedures:**
 - Flerehan and Viderehan are valid Work Types.
@@ -456,7 +456,7 @@ Some sorrows are suffered. The Weighting Bird's sorrow is inflicted — gently, 
 **Classification:** Sorrow Entity — `C-IIIγ-032 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Weighting Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Bird carries a scale. Exposure causes personnel to feel the burden of every judgment they have made. The Bird is slower and heavier than its siblings.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.
@@ -513,7 +513,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 **Classification:** Sorrow Entity — `C-IIIγ-033 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Guarding Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Bird guards nothing. It paces its containment, wings half-spread. The guarding is compulsive and purposeless. Effect: personnel feel the exhaustion of loyalty without purpose.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type; the Bird responds to observation.
@@ -570,7 +570,7 @@ Some sorrows mourn the past. The Broken Clock mourns the future that would not c
 **Classification:** Sorrow Entity — `C-IIIγ-044 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Broken Clock
 **Containment Status:** Contained — Alpha Tree deep storage
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Clock traps attention in a repeating temporal loop.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -629,7 +629,7 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 **Classification:** Sorrow Entity — `C-IIIγ-061 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Debtor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Debtor does not attack. He carries a ledger and pays.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -688,7 +688,7 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 **Classification:** Sorrow Entity — `C-IIIγ-062 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Inheritor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Inheritor radiates resentment.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -747,7 +747,7 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 **Classification:** Sorrow Entity — `C-IIIγ-063 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Rejector
 **Containment Status:** Contained — Zone C, with the Debt Triplets
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Rejector is defined by absence.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -804,7 +804,7 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 **Classification:** Sorrow Entity — `C-IIIγ-081 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Void manifestation
 **Common Name:** The Hollow Saint
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Saint heals passively, drawing sorrow from personnel.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -861,7 +861,7 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 **Classification:** Sorrow Entity — `C-IIIγ-088 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Sorrow Fountain
 **Containment Status:** Contained — Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Fountain is a feature of the Gardens, not a creature. It flows continuously. Visitors report reduced grief near it, not increased. Effect is shared mourning, not attack.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -918,7 +918,7 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 **Classification:** Sorrow Entity — `C-IIIγ-102 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Dancing Chains
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Chains compel continuous movement once bound.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -975,7 +975,7 @@ Some sorrows are about belonging lost. The Lonely Giant's sorrow is about belong
 **Classification:** Sorrow Entity — `C-IIIγ-105 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Lonely Giant
 **Containment Status:** Semi-contained — Zone D, wanders
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Giant wanders Zone D. Mass causes structural damage.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -1032,7 +1032,7 @@ Some sorrows mourn the dead. The Memory Well mourns the unremembered — the liv
 **Classification:** Sorrow Entity — `C-IIIγ-115 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
 **Common Name:** The Memory Well
 **Containment Status:** Contained — beneath the Grand Archive
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Well is a shaft of unclaimed memories.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -1089,7 +1089,7 @@ Some sorrows mourn freedom lost. The Rage Cage mourns the particular freedom of 
 **Classification:** Sorrow Entity — `C-IIIγ-120 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Rage Cage
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Cage is an empty structure with bars of crystallized rage. Proximity induces fury in personnel. No breach; the Cage is static. Risk is emotional contamination.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.
@@ -1146,7 +1146,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 **Classification:** Sorrow Entity — `C-IIIγ-140 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Weeping Willow
 **Containment Status:** Contained — Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal. The Willow is a tree, not a creature. It weeps for beautiful endings. Effect is tender, not harmful. Visitors report a gentle ache, not distress.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -1205,7 +1205,7 @@ Some sorrows stay soft. The Garden of Thorns is what sorrow becomes when softnes
 **Classification:** Sorrow Entity — `C-IIIγ-145 [GP]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** The Garden of Thorns
 **Containment Status:** Contained — near Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Garden is a thicket of armed memorial flowers. Contact draws blood.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.
@@ -1262,7 +1262,7 @@ Some sorrows are carried. The Debt Wall is a sorrow that, carried too long by to
 **Classification:** Sorrow Entity — `C-IIIγ-180 [WP]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** The Debt Wall
 **Containment Status:** Uncontained — Collector’s Row, Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Wall is a barrier of accumulated unpaid debt.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -1323,7 +1323,7 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Classification:** Sorrow Entity — `C-IIIγ-190 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Grudge manifestation
 **Common Name:** The Rage Statue
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Statue is a humanoid figure with a raised fist, frozen mid-strike. It does not move. Proximity induces the urge to strike back. No breach; the Statue is static.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -1380,7 +1380,7 @@ Some sorrows are about loss. The Mirror of Sorrows is about the loneliness of be
 **Classification:** Sorrow Entity — `C-IIIγ-195 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Mirror of Sorrows
 **Containment Status:** Contained — Alpha Tree, Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Mirror shows the viewer’s own grief. Effect: intensified loneliness.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -1437,7 +1437,7 @@ Some sorrows mourn what was lost. The Memory Lock mourns what is known and kept 
 **Classification:** Sorrow Entity — `C-IIIγ-300 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Memory Lock
 **Containment Status:** Contained — Alpha Tree deep vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Lock is conscious of what it conceals.
 **Containment & Handling Procedures:**
 - Viderehan is the only valid Work Type.
@@ -1494,7 +1494,7 @@ Some sorrows sink. The Spreading Well is a sorrow that refused to — because it
 **Classification:** Sorrow Entity — `C-IIIγ-373 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Spreading Well
 **Containment Status:** Uncontained — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Well is an underground network of merged grief-channels.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -1551,7 +1551,7 @@ Some sorrows find a home. The Floating Well is a sorrow that could not — and s
 **Classification:** Sorrow Entity — `C-IIIγ-448 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Weight manifestation
 **Common Name:** The Floating Well
 **Containment Status:** Contained — Zone D, Forge District (aerial)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Well floats, too full of grief to settle.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.
@@ -1610,7 +1610,7 @@ Some sorrows are about what was taken. The Burning Root is about what was kept t
 **Classification:** Sorrow Entity — `C-IIIγ-558 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Subject-Grudge manifestation
 **Common Name:** The Burning Root
 **Containment Status:** Contained — Zone C, Collector’s Row
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Root smolders with inherited obligation that became identity.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -1665,7 +1665,7 @@ Some sorrows are owned. The Frozen Echo is a sorrow that lost its owner — or r
 **Classification:** Sorrow Entity — `C-IIIγ-609 [LW]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** The Frozen Echo
 **Containment Status:** Contained — the Desolate, near the Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Echo is a relic crowded with borrowed memories. Always cold.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -1722,7 +1722,7 @@ Some sorrows mourn the past. The Sunken Pillar mourns the future — the unbuilt
 **Classification:** Sorrow Entity — `C-IIIγ-649 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
 **Common Name:** The Sunken Pillar
 **Containment Status:** Mobile — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Pillar is a monument to unborn generations, half-buried.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -1779,7 +1779,7 @@ Some sorrows are about what was done to you. The Spreading Scream is about what 
 **Classification:** Sorrow Entity — `C-IIIγ-891 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Lament manifestation
 **Common Name:** The Spreading Scream
 **Containment Status:** Ambient — Old Lament, Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. Ambient pressure from broken promises in walls.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -1836,7 +1836,7 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 **Classification:** Sorrow Entity — `C-IIIγ-916 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** Devouring Bloom
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Flower is a spreading crystalline bloom. Too beautiful to move.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -1893,7 +1893,7 @@ Some sorrows mourn the extraordinary. The Forgotten Market Stall mourns the ordi
 **Classification:** Sorrow Entity — `C-IIα-062 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Forgotten Market Stall
 **Containment Status:** Contained — Forgotten Market site
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low. The Stall sells memories of lost ordinariness. No breach risk. Effect: visitors remember forgotten transactions.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -1949,7 +1949,7 @@ Some sorrows are about what happened. The Broken Mirror is about what was refuse
 **Classification:** Sorrow Entity — `C-IIα-081 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Broken Mirror
 **Containment Status:** Contained — Alpha Tree
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low. The Mirror shows sealed truths. Effect: viewers see what they paid to forget.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -2005,7 +2005,7 @@ Some sorrows mourn the dead. The Singing Stone mourns their songs — the unfini
 **Classification:** Sorrow Entity — `C-IIβ-048 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** The Singing Stone
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal. The Stone holds unfinished songs. Warm to the touch. No breach risk.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -2059,7 +2059,7 @@ Some sorrows are about loss. The Happy Mask is about performance — the lifelon
 **Classification:** Sorrow Entity — `C-IIβ-051 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Happy Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Mask grins. Left alone, it grins wider. Effect: exposure induces exhaustion from performed happiness.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -2113,7 +2113,7 @@ Some sorrows mourn what was taken. The Empty Mask is what is left when the takin
 **Classification:** Sorrow Entity — `C-IIβ-054 [WO]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Empty Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Mask tries to replace identities. Left alone with personnel, it attempts to consume the self.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -2169,7 +2169,7 @@ Some sorrows are released. The Weeping Statue is a sorrow that was forbidden to 
 **Classification:** Sorrow Entity — `C-IIβ-055 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Weeping Statue
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Statue weeps continuously. Effect: visitors feel their own swallowed grief rise. No Fractures.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -2225,7 +2225,7 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 **Classification:** Sorrow Entity — `C-IIβ-099 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Masked Dancer
 **Containment Status:** Contained — Mask Market (Masked Troupe)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Dancer moves endlessly. Effect: viewers feel the ache of denied movement. No breach.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -2281,7 +2281,7 @@ Some sorrows mourn what was lost. The Grave mourns what was never said — and f
 **Classification:** Sorrow Entity — `C-IIβ-100 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Grave of Cherry Blossoms
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal. A cherry tree that flowers with unsaid words. Effect: visitors feel every apology they never made.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -2337,7 +2337,7 @@ Some sorrows are about cruelty. The Ember Child is about absence — the simple 
 **Classification:** Sorrow Entity — `C-IIβ-101 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** The Ember Child
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Child wanders seeking warmth. Effect: exposure induces childlike loneliness. No breach.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -2395,7 +2395,7 @@ Some sorrows are too deep for tears. The Frozen Tear is what they become instead
 **Classification:** Sorrow Entity — `C-IIβ-102 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** The Frozen Tear
 **Containment Status:** Open memorial display — Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal direct danger. No Fractures recorded. Prolonged proximity surfaces a viewer’s own unwept grief. Effect is passive and emotional.
 **Containment & Handling Procedures:**
 - Do not touch. Contact violates the entity’s memorial nature.
@@ -2454,7 +2454,7 @@ Some sorrows mourn what was. The Dream Fragment mourns what was imagined — the
 **Classification:** Sorrow Entity — `C-IIβ-135 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Dream manifestation
 **Common Name:** The Dream Fragment
 **Containment Status:** Contained — Dream Gates
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Fragment drifts, half-formed. Touching it induces vivid visions of unlived lives. No breach.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -2512,7 +2512,7 @@ Some sorrows mourn cruelty. The Silent Bell mourns a failure — the warning tha
 **Classification:** Sorrow Entity — `C-IIβ-170 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Silent Bell
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Bell is silent. It will never ring. Effect: proximity induces the horror of warnings that failed.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -2568,7 +2568,7 @@ Some sorrows mourn the forgotten. The Whispering Gallery mourns the half-remembe
 **Classification:** Sorrow Entity — `C-IIβ-185 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Whispering Gallery
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Gallery holds unnamed portraits that whisper. Effect: visitors feel the ache of being seen but not known.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -2624,7 +2624,7 @@ Some sorrows weep. The Laughing Mask laughs — and the laughing is the sorrow, 
 **Classification:** Sorrow Entity — `C-IIβ-210 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Laughing Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Mask laughs. Effect: visitors feel warmth, then hollowness. No breach.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -2680,7 +2680,7 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 **Classification:** Sorrow Entity — `C-IIβ-235 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** The Watcher in the Walls
 **Containment Status:** Ambient — Zone D (mobile through infrastructure)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Watcher observes. It never acts. Effect: personnel feel observed by a system that will never help.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -2740,7 +2740,7 @@ The Vanished Ruin is that memory. It lives in the vault — a building made of n
 **Classification:** Sorrow Entity — `C-IIβ-240 [GP]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Weight manifestation
 **Common Name:** The Vanished Ruin
 **Containment Status:** Contained — Alpha Tree vault, Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Ruin does not breach but influences nearby structures, causing phantom-room perceptions in personnel. Grudge-element pressure can destabilize adjacent containment.
 **Containment & Handling Procedures:**
 - Maintain Han-shielded containment in the Alpha Tree vault.
@@ -2797,7 +2797,7 @@ Some sorrows are about endings. The Singing Walls are about the endings that nev
 **Classification:** Sorrow Entity — `C-IIβ-245 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Singing Walls
 **Containment Status:** Ambient — Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Walls hum with unfinished songs. Effect: personnel hear melodies that never reach their final note.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -2857,7 +2857,7 @@ Some sorrows are held inside. The Memory Rain is what the city looks like when i
 **Classification:** Sorrow Entity — `C-IIβ-250 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Memory Rain
 **Containment Status:** Periodic — Zone D, above Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Rain is weather, not a creature. No Fractures recorded. Effect: brief, vivid memories of strangers’ lives. Personnel report disorientation and unexpected weeping.
 **Containment & Handling Procedures:**
 - No containment possible. The Rain is periodic weather.
@@ -2918,7 +2918,7 @@ The city built a Veil to keep feeling down. The citizens built a veil to let it 
 **Classification:** Sorrow Entity — `C-IIβ-280 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** The Veil of Tears
 **Containment Status:** Contained — Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Veil is a shared-mourning garment. Wearing it causes the wearer to mourn through every previous wearer’s grief. No Fractures; emotional exhaustion in prolonged use.
 **Containment & Handling Procedures:**
 - Do not wear without R.D. authorization.
@@ -2975,7 +2975,7 @@ Some sorrows are about losing a place. The Broken Compass is about losing direct
 **Classification:** Sorrow Entity — `C-IIβ-290 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Broken Compass
 **Containment Status:** Contained — Archive
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The needle does not settle. Effect: holders feel directionless, aware that grief surrounds in all directions.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -3031,7 +3031,7 @@ Some sorrows are about lies told to others. The Cracked Mirror is about lies tol
 **Classification:** Sorrow Entity — `C-IIβ-310 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Cracked Mirror
 **Containment Status:** Contained — Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Mirror shows truth, not flattery. Effect: viewers see themselves as they are, not as they wish.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -3087,7 +3087,7 @@ Some sorrows accept. The Frozen Window does not — it waits, and waits, and wil
 **Classification:** Sorrow Entity — `C-IIβ-330 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Grudge manifestation
 **Common Name:** The Frozen Window
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Window watches eternally. Effect: proximity induces unresolved waiting. No breach.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -3143,7 +3143,7 @@ Some sorrows are about cruelty. The Hollow Bell is about the gap between form an
 **Classification:** Sorrow Entity — `C-IIβ-340 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Hollow Bell
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Bell is hollow; it has nothing inside to ring with. Effect: proximity induces misplaced trust.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -3201,7 +3201,7 @@ Some sorrows are heavy. The Vanished Weight is the opposite — the sorrow of a 
 **Classification:** Sorrow Entity — `C-IIβ-357 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Grudge manifestation
 **Common Name:** The Vanished Weight
 **Containment Status:** Contained — Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The entity drifts, lighter than air. Effect: proximity induces the wrongness of something essential missing.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -3257,7 +3257,7 @@ Some sorrows mourn the lost. The Broken Well mourns the searching — the endles
 **Classification:** Sorrow Entity — `C-IIβ-565` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Phantasmal manifestation
 **Common Name:** The Broken Well
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. A well-that-is-also-a-mother, eternally calling a child’s name. Effect: personnel hear the calling; psychological distress.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -3315,7 +3315,7 @@ Those who hear the Whisper feel, briefly, the particular agony of knowing someth
 **Classification:** Sorrow Entity — `C-IIβ-716 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Spirit manifestation
 **Common Name:** The Torn Whisper
 **Containment Status:** Contained — Zone D, Mantle Commons
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Whisper is a Subject-Spirit that repeats unbelieved testimony. Exposure causes personnel to feel the agony of unacknowledged truth. No physical attacks; psychological pressure is significant.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.
@@ -3372,7 +3372,7 @@ Some sorrows mourn what was destroyed. The Torn Tower mourns what was never fini
 **Classification:** Sorrow Entity — `C-IIβ-775` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Grudge manifestation
 **Common Name:** The Torn Tower
 **Containment Status:** Contained — Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The unbuilt tower appears as a flicker. Effect: viewers see the complete tower, then the skeleton. Disorienting.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -3428,7 +3428,7 @@ Some sorrows are about what was taken. The Burning Fruit is about what was wante
 **Classification:** Sorrow Entity — `C-IIβ-777` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Burning Fruit
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The entity burns with denied desire. Effect: proximity induces rage from shamed wanting.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -3486,7 +3486,7 @@ Some sorrows are about being forgotten. The Fading Relic is about being remember
 **Classification:** Sorrow Entity — `C-IIβ-782` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Weight manifestation
 **Common Name:** The Fading Relic
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Relic fades as its purpose is forgotten. Effect: holders feel the grief of inherited incomprehension.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -3542,7 +3542,7 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 **Classification:** Sorrow Entity — `C-IIβ-997` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** Drowned Roots
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree grown from an unacknowledged sacrifice. Effect: personnel feel the fury of denied recognition.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -3598,7 +3598,7 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 **Classification:** Sorrow Entity — `C-IVβ-041` · City origin · Entity (IV) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** The Grieving Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Maiden weeps continuously. She does not attack. Effect: personnel feel helpless parental grief.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -3657,7 +3657,7 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 **Classification:** Sorrow Entity — `C-IVβ-042` · City origin · Entity (IV) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Angry Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Maiden burns with a steady blue fire. Effect: proximity induces the fury of justice denied.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -3716,7 +3716,7 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 **Classification:** Sorrow Entity — `C-IVβ-043` · City origin · Entity (IV) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Silent Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Maiden is defined by absence. Effect: proximity induces the chill of being present and never seen.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -3773,7 +3773,7 @@ Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the cit
 **Classification:** Sorrow Entity — `C-IVγ-009` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Subject-Dream manifestation
 **Common Name:** The Memory Weaver
 **Containment Status:** Contained — Archive
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Weaver collects erased histories. Effect: proximity induces the terror of being erased.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -3829,7 +3829,7 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 **Classification:** Sorrow Entity — `C-IVγ-073` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Hollow Knight
 **Containment Status:** Contained — border district
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Knight stands an eternal watch over nothing. Effect: proximity induces the exhaustion of purposeless duty.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -3885,7 +3885,7 @@ Some sorrows mourn a loss. The Lost Prince mourns an absence of explanation — 
 **Classification:** Sorrow Entity — `C-IVγ-091` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** The Lost Prince
 **Containment Status:** Contained — Zone D
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Prince wanders asking questions. Effect: proximity induces the ache of abandonment.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -3943,7 +3943,7 @@ Some sorrows are about weakness. The Crumbling Saint is about strength — the s
 **Classification:** Sorrow Entity — `C-IVγ-130` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Crumbling Saint
 **Containment Status:** Contained — Zone C
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Saint is petrified, turned to stone by being treated as strong. Effect: proximity induces the burden of being the strong one.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -3999,7 +3999,7 @@ Some sorrows mourn what was. The Weaver of Dreams mourns what might have been �
 **Classification:** Sorrow Entity — `C-IVγ-175` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Dream manifestation
 **Common Name:** The Weaver of Dreams
 **Containment Status:** Contained — Dream Gates
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Weaver gives abandoned futures brief, half-real form. Effect: viewers see their unlived lives, then watch them dissolve.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -4057,7 +4057,7 @@ Some sorrows mourn what was lost. The Dream Weaver's Loom mourns what was dreame
 **Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Dream manifestation
 **Common Name:** The Dream Weaver’s Loom
 **Containment Status:** Contained — Dream Gates
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Loom weaves itself from abandoned dreams. Effect: viewers see their own unlived futures in the fabric.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -4113,7 +4113,7 @@ Some sorrows mourn forgetting. The Memory Maze mourns the opposite — rememberi
 **Classification:** Sorrow Entity — `C-IVγ-180` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
 **Common Name:** The Memory Maze
 **Containment Status:** Contained — beneath Old Lament
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Maze tangles memories, making history unverifiable. Effect: visitors cannot distinguish their memories from others’.
 **Containment & Handling Procedures:**
 - Viderehan is the only valid Work Type.
@@ -4169,7 +4169,7 @@ Some sorrows mourn what was lost. The Hollow Tree mourns what never filled it �
 **Classification:** Sorrow Entity — `C-IVγ-205 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Hollow Tree
 **Containment Status:** Contained — Zone D
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A tree grown to fullness, hollow inside. Effect: proximity induces the emptiness of growth without purpose.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -4224,7 +4224,7 @@ Some sorrows are about loss. The Broken Clocktower is about a moment that would 
 **Classification:** Sorrow Entity — `C-IVγ-240 [WP]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** The Broken Clocktower
 **Containment Status:** Contained — Old Lament (site)
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Clocktower traps visitors in a frozen instant. Effect: visitors experience a repeating moment.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -4281,7 +4281,7 @@ Some sorrows mourn what was destroyed. The Hollow Architect mourns what was neve
 **Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Hollow Architect
 **Containment Status:** Contained — Zone A
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Architect designs endlessly for a population that never existed. Effect: proximity induces the burden of creation without completion.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -4337,7 +4337,7 @@ Some sorrows mourn the forgotten. The Memory Lake mourns the remembered too well
 **Classification:** Sorrow Entity — `C-IVγ-270` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Memory Lake
 **Containment Status:** Contained — beneath Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Lake holds every citizen’s intact memories. Effect: visitors feel the presence of thousands of remembered lives.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -4395,7 +4395,7 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 **Classification:** Sorrow Entity — `C-IVδ-001 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** The Orphaned Bell
 **Containment Status:** Open display — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Bell tolls at midnight for lost children. Effect: hearing the toll induces parental grief.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -4451,7 +4451,7 @@ Some sorrows are about loss. The Burning Library is about suppression — the tr
 **Classification:** Sorrow Entity — `C-IVδ-092 [GP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** The Burning Library
 **Containment Status:** Contained — Zone A
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Library burns perpetually with forbidden truth. Effect: viewers see censored records in the flames.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -4508,7 +4508,7 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 **Classification:** Sorrow Entity — `C-IVδ-103 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Void manifestation
 **Common Name:** The Frozen Veil
 **Containment Status:** Semi-contained — Zone D (drifts)
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Veil drains warmth from nearby personnel. Effect: emotional capacity diminishes near it.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -4566,7 +4566,7 @@ Some sorrows mourn the dead. The Broken Bridge mourns the living — the guide w
 **Classification:** Sorrow Entity — `C-IVδ-106 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Mind manifestation
 **Common Name:** The Broken Bridge
 **Containment Status:** Contained — Zone D
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The guide stands at the edge, carrying survivor’s guilt. Effect: proximity induces the corrosive belief that survival cost others their lives.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -4622,7 +4622,7 @@ Some sorrows mourn what was lost. The Returning Fruit mourns the return — the 
 **Classification:** Sorrow Entity — `C-IVδ-125 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** The Returning Fruit
 **Containment Status:** Contained — Alpha Tree
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Fruit returned carrying the mind of the one who remembered it. Effect: holders feel the grief of recovery without restoration.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -4678,7 +4678,7 @@ Some sorrows are about cruelty. The Iron Judge is about indifference — the imp
 **Classification:** Sorrow Entity — `C-IVδ-140 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Iron Judge
 **Containment Status:** Contained — Zone C
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Judge measures without listening. Effect: personnel feel judged by a number, not a story.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -4734,7 +4734,7 @@ Some sorrows grieve the present. The Melting Saint grieves the future — every 
 **Classification:** Sorrow Entity — `C-IVδ-165 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Melting Saint
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Saint melts between present and future grief. Effect: proximity induces anticipatory mourning.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -4790,7 +4790,7 @@ Some sorrows are about barriers built. The Vanished Wall is about a barrier remo
 **Classification:** Sorrow Entity — `C-IVδ-193 [WP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Place-Grudge manifestation
 **Common Name:** The Vanished Wall
 **Containment Status:** Uncontained — Zone C
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. An invisible wall dividing a district that demolished its physical wall. Effect: crossing the boundary induces old suspicion.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -4845,7 +4845,7 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 **Classification:** Sorrow Entity — `C-IVδ-200` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Guardian of the Gate
 **Containment Status:** Contained — the Gate
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Guardian records every exile. He does not attack. Effect: personnel feel the weight of irreversible departure.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -4901,7 +4901,7 @@ Some sorrows are about open wounds. The Soaking Shard is about a wound that was 
 **Classification:** Sorrow Entity — `C-IVδ-219 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Void manifestation
 **Common Name:** The Soaking Shard
 **Containment Status:** Contained — Alpha Tree vault
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Shard cracked and proved sealed grief was flowing inside. Effect: proximity induces the horror of contained grief discovered alive.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -4956,7 +4956,7 @@ Some sorrows are personal. The Weight of Years is historical — the accumulated
 **Classification:** Sorrow Entity — `C-IVδ-220 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Weight of Years
 **Containment Status:** Contained — Zone A
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. An impossibly old figure carrying centuries of inherited guilt. Effect: proximity induces the burden of unacknowledged history.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -5012,7 +5012,7 @@ Some sorrows are about a wound. The Rusted Weight is about a wound whose weapon 
 **Classification:** Sorrow Entity — `C-IVδ-222` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Place-Weight manifestation
 **Common Name:** The Rusted Weight
 **Containment Status:** Uncontained — border district
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. Corroded ground from inherited resentment. Effect: crossing the border induces directionless anger.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -5067,7 +5067,7 @@ Some sorrows mourn the dead. The Last Memory mourns the moment of dying — the 
 **Classification:** Sorrow Entity — `C-IVδ-230 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Void manifestation
 **Common Name:** The Last Memory
 **Containment Status:** Contained — Old Lament
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. Holds the final thoughts of every citizen who died unwitnessed. Effect: proximity induces the loneliness of dying.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -5123,7 +5123,7 @@ Some sorrows are about the danger. The Collapsed Whisper is about the warning �
 **Classification:** Sorrow Entity — `C-IVδ-249 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Dream manifestation
 **Common Name:** The Collapsed Whisper
 **Containment Status:** Contained — the Desolate
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A scout’s warning, dissolved by the storm, repeating eternally. Effect: proximity induces the agony of arriving too late.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -5176,7 +5176,7 @@ Some sorrows are about losing memory. The Torn Trace is about losing continuity 
 **Classification:** Sorrow Entity — `C-IVδ-250 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight (Black) · Subject-Void manifestation
 **Common Name:** The Torn Trace
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A person-shaped gap from Han-fractured memories. Effect: proximity induces the disconnection from one’s own past.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -5232,7 +5232,7 @@ Some sorrows are about what was done. The Sorrow Gate is about what was prevente
 **Classification:** Sorrow Entity — `C-IVδ-252` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Sorrow Gate
 **Containment Status:** Contained — beneath Alpha Tree (sealed)
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Unknown. The Gate is sealed. Its contents are unknown. Risk: opening the Gate is considered catastrophic by all authorities.
 **Containment & Handling Procedures:**
 - Do not open. Under any circumstances.
@@ -5287,7 +5287,7 @@ Some sorrows mourn a loss. The Rising Wall mourns an asymmetry — the love that
 **Classification:** Sorrow Entity — `C-IVδ-255 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Weight manifestation
 **Common Name:** The Rising Wall
 **Containment Status:** Contained — Zone C
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A wall of one-sided remembering. Effect: proximity induces the burden of remembering someone who forgot you.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -5342,7 +5342,7 @@ Some sorrows mourn a place. The Rising Bridge mourns a transit — the daily cro
 **Classification:** Sorrow Entity — `C-IVδ-260 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Grudge manifestation
 **Common Name:** The Rising Bridge
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Minimal. A bridge spanning nothing, built from remembered crossings. Effect: walking it induces the grief of places remembered more vividly than people.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -5399,7 +5399,7 @@ Some sorrows are about sacrifice. The Sleeping Weight is about unrecognized sacr
 **Classification:** Sorrow Entity — `C-IVδ-357 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Sleeping Weight
 **Containment Status:** Contained — Zone D (tunnels)
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A worker braced beneath a beam, eternally holding. Effect: proximity induces the exhaustion of unrewarded duty.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -5456,7 +5456,7 @@ Some sorrows are about suffering. The Floating Shard is about witnessing — the
 **Classification:** Sorrow Entity — `C-IVδ-503 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** The Floating Shard
 **Containment Status:** Contained — Zone D
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A crystal of helpless compassion, drifting. Effect: proximity induces the ache of seeing suffering without power to change it.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -5511,7 +5511,7 @@ Some sorrows are about loss. The Frozen Shadow is about persistence — the guar
 **Classification:** Sorrow Entity — `C-IVδ-505 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Grudge manifestation
 **Common Name:** The Frozen Shadow
 **Containment Status:** Contained — Mask Market
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A shadow guarding an empty vault. Effect: proximity induces the sorrow of duty outliving its purpose.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -5567,7 +5567,7 @@ Some sorrows mourn destruction. The Frozen Ruin mourns the injustice heaped on t
 **Classification:** Sorrow Entity — `C-IVδ-668 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Object-Grudge manifestation
 **Common Name:** The Frozen Ruin
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Ruin rages in cold stasis. Effect: proximity induces fury of the wrongly blamed.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -5622,7 +5622,7 @@ Some sorrows mourn the dead. The Vanished Flame mourns the unfinished — the vi
 **Classification:** Sorrow Entity — `C-IVδ-763 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Void manifestation
 **Common Name:** The Vanished Flame
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. An extinguished memorial flame; incomplete grief migrates into passersby. Effect: visitors absorb others’ unfinished mourning.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -5676,7 +5676,7 @@ Some sorrows are personal. The Fading Shadow is a sorrow that lost its owner —
 **Classification:** Sorrow Entity — `C-IVδ-767` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Grudge manifestation
 **Common Name:** The Fading Shadow
 **Containment Status:** Contained — beneath Alpha Tree
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Shadow spreads, absorbing visitors’ grief. Effect: visitors’ private sorrow rises and merges with the Shadow.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -5732,7 +5732,7 @@ Some sorrows mourn arrival. The Sunken Bridge mourns the in-between — the cros
 **Classification:** Sorrow Entity — `C-IVδ-823 [LS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Sunken Bridge
 **Containment Status:** Contained — Zone D (tunnels)
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A bridge that sank mid-crossing, families split. Effect: proximity induces the grief of journeys ended between shores.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -5787,7 +5787,7 @@ Some sorrows are about the original wound. The Rising Well is about the inherita
 **Classification:** Sorrow Entity — `C-IVδ-869 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Mind manifestation
 **Common Name:** The Rising Well
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Well of inherited fury opens in descendants’ minds. Effect: proximity induces rage without a remembered cause.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -5841,7 +5841,7 @@ Some sorrows are about freedom lost. Chainwreathed is about protection perverted
 **Classification:** Sorrow Entity — `C-IVδ-976 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Grudge manifestation
 **Common Name:** Chainwreathed
 **Containment Status:** Semi-contained — Zone C
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Chain spreads, binding newcomers to obligations. Effect: proximity induces the grief of bonds that no longer protect.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -5901,7 +5901,7 @@ This is the first sorrow. This is the wound. This is the thousand, beneath the c
 **Classification:** Sorrow Entity — `C-IVω-001 [GP]` · City origin · Entity (IV) coherence · Catastrophic (ω) potency · Grudge (Crimson) · Place-Tale manifestation
 **Common Name:** The Maw
 **Containment Status:** Uncontained — the consumed district (containment IS the district)
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic. The Maw is the city’s foundation: a thousand consumed citizens, alive in the walls, whispering, growing. The only ω-grade entity. Cannot be contained conventionally.
 **Containment & Handling Procedures:**
 - Do not engage without Director approval.
@@ -5965,7 +5965,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 **Classification:** Sorrow Entity — `C-Iα-000 [LS]` · City (도한) origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
 **Containment & Handling Procedures:**
 - All four Work Types are equally effective — use for training.
@@ -5985,7 +5985,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above. The Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Observation Level 4) and has been for millennia. If a future observation contradicts this record — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
+**Operational interpretation:** This record is valid only with the full classification above. The Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Comprehension Level 4) and has been for millennia. If a future observation contradicts this record — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
 
 **Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 6,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
 
@@ -6027,7 +6027,7 @@ Some sorrows are about silence. The Whispering Walls are about the whisper — t
 **Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Whispering Walls
 **Containment Status:** Ambient — Old Lament
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Walls murmur with settlers’ whispers. Effect: pressing an ear to the walls induces hearing centuries-old confessions.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -6083,7 +6083,7 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 **Classification:** Sorrow Entity — `C-Iα-071 [LS]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** The Kind Healer
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Healer tends the city’s abandoned. She cannot heal herself. Effect: proximity induces compassion paired with the weight of failure.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -6139,7 +6139,7 @@ Some sorrows mourn the dead. The Echo of Laughter mourns the happy — the commu
 **Classification:** Sorrow Entity — `C-Iα-150 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Echo of Laughter
 **Containment Status:** Ambient — Zone D, Mantle Commons
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Minimal. Ambient laughter from a vanished community. Effect: hearing it induces the grief of joy remembered after its source is gone.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -6194,7 +6194,7 @@ Some sorrows are about a wound. The Spreading Trace is about the scar the wound 
 **Classification:** Sorrow Entity — `C-Iα-175 [GP]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** The Spreading Trace
 **Containment Status:** Uncontained — Mantle Commons
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Anger of the dead staining the cobblestones. Effect: crossing the Trace induces directionless fury.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -6253,7 +6253,7 @@ Some sorrows mourn what died. The Vanished Seed mourns what never got the chance
 **Classification:** Sorrow Entity — `C-Iα-236 [LW]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** The Vanished Seed
 **Containment Status:** Uncontained — Desolate, near the Scar
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minimal. Does not activate or breach. Dormant. Risk lies in potential: if conditions allow germination, the contained sorrow could escalate significantly.
 **Containment & Handling Procedures:**
 - Monitor for Han-density changes near the site.
@@ -6312,7 +6312,7 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 **Classification:** Sorrow Entity — `C-Iα-240 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Echo of Kindness
 **Containment Status:** Ambient — Zone D, Mantle Commons
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minimal. Non-hostile. The Echo is ambient sound; it does not attack or breach. Effect is emotional: induces contemplation and unexpected weeping in exposed personnel.
 **Containment & Handling Procedures:**
 - No containment required. The Echo is ambient and cannot be localized.
@@ -6371,7 +6371,7 @@ Some sorrows mourn a loss. The Torn Flower mourns a near-miss — the bloom that
 **Classification:** Sorrow Entity — `C-Iα-247 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Lament manifestation
 **Common Name:** The Torn Flower
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A bloom torn before the mourner arrived. Effect: proximity induces the grief of a memorial destroyed before it could serve.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -6426,7 +6426,7 @@ Some sorrows are about what happened. The Sorrow Seed is about what has not happ
 **Classification:** Sorrow Entity — `C-Iα-300 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Sorrow Seed
 **Containment Status:** Contained — Echo Gardens (dormant)
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Unknown. The Seed is dormant; its potential is vast. If it germinates, the sorrow could Fracture a district. Risk is potential, not current.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -6481,7 +6481,7 @@ Some sorrows mourn what was built and destroyed. The Melting Tower mourns what w
 **Classification:** Sorrow Entity — `C-Iα-329 [VO]` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Object-Grudge manifestation
 **Common Name:** The Melting Tower
 **Containment Status:** Contained — border district
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A fading outline of an unbuilt tower. Effect: viewers see the planned tower dissolving.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -6536,7 +6536,7 @@ Some sorrows mourn a loss. The Sorrow Flower mourns the hiding — the grief the
 **Classification:** Sorrow Entity — `C-Iα-330 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** The Sorrow Flower
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal. A flower grown from one honest moment of mourning. Effect: proximity induces the relief of permitted grief.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -6591,7 +6591,7 @@ Some sorrows mourn a person. The Rising Mirror mourns a community — the distri
 **Classification:** Sorrow Entity — `C-Iα-392 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Dream manifestation
 **Common Name:** The Rising Mirror
 **Containment Status:** Contained — Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A mirror holding a lost district’s name. Effect: viewers see a stranger’s face — the community’s forgotten identity.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -6644,7 +6644,7 @@ Some sorrows mourn what was destroyed. The Vanished Tree mourns what was denied 
 **Classification:** Sorrow Entity — `C-Iα-622 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Lament manifestation
 **Common Name:** The Vanished Tree
 **Containment Status:** Contained — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree contradicting the maps. Effect: proximity induces the horror of a home the land denies existed.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -6699,7 +6699,7 @@ Some sorrows weep. The Vanished Tear rages — for the tear ordered away and the
 **Classification:** Sorrow Entity — `C-Iα-683 [GS]` · City origin · Residue (I) coherence · Minor (α) potency · Grudge (Crimson) · Subject-Phantasmal manifestation
 **Common Name:** The Vanished Tear
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tear suppressed by order, turned to rage. Effect: proximity induces the fury of denied grief.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -6756,7 +6756,7 @@ Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tet
 **Classification:** Sorrow Entity — `C-Iα-723 [LS]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Grudge manifestation
 **Common Name:** The Vanished Rope
 **Containment Status:** Contained — the Desolate (near Gate)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A rope connecting nothing, held by the survivor. Effect: proximity induces the helplessness of holding an invisible end.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -6811,7 +6811,7 @@ Some sorrows mourn destruction. The Torn Relic mourns incompletion — the artif
 **Classification:** Sorrow Entity — `C-Iα-779 [GO]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Object-Weight manifestation
 **Common Name:** The Torn Relic
 **Containment Status:** Contained — Forge District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Fragments of a shattered artifact. Effect: proximity induces the rage of purpose denied by destruction.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -6866,7 +6866,7 @@ Some sorrows mourn a building. The Sunken Tower mourns the orientation — the h
 **Classification:** Sorrow Entity — `C-Iα-863 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Sunken Tower
 **Containment Status:** Contained — Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The district keeps turning toward a tower that is gone. Effect: proximity induces the disorientation of a missing landmark.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -6923,7 +6923,7 @@ Some sorrows mourn exile. The Returning Tree mourns the return — the home not 
 **Classification:** Sorrow Entity — `C-Iα-869 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Returning Tree
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree grown from the grief of returning to an unrecognized home. Effect: proximity induces the loss of home through change.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -6978,7 +6978,7 @@ Some sorrows are preserved. The Frozen Shard is a sorrow preserved too well — 
 **Classification:** Sorrow Entity — `C-Iα-884 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Grudge manifestation
 **Common Name:** The Frozen Shard
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tear preserved as a memorial, sealed with rage inside. Effect: proximity induces the cold of sealed anger.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -7035,7 +7035,7 @@ Some sorrows are about being silenced. Unheard is about the absorption — the p
 **Classification:** Sorrow Entity — `C-Iα-965 [N]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Weight manifestation
 **Common Name:** Unheard
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The silence of absorbed protest, flowing through the system. Effect: proximity induces the pressure of unsaid words.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -7090,7 +7090,7 @@ Some sorrows are about human loss. The Sorrow River is about loss itself — the
 **Classification:** Sorrow Entity — `C-Vγ-225 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** The Sorrow River
 **Containment Status:** Uncontained — beneath the entire city
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic (potential). The source of all entities. Pre-human geological grief. Effect: proximity induces planetary-scale sorrow.
 **Containment & Handling Procedures:**
 - Classified. Director-only access.
@@ -7145,7 +7145,7 @@ Some sorrows are events. The Sorrow Tide is a rhythm — the city's grief, suppr
 **Classification:** Sorrow Entity — `C-Vγ-260 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** The Sorrow Tide
 **Containment Status:** Uncontained — citywide (natural rhythm)
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Low (individually). The Tide is the city’s natural rhythm: grief suppressed by day, released by night. Effect: during the Tide, all entities are more active.
 **Containment & Handling Procedures:**
 - No containment possible; the Tide is a natural property of Somnarak.
@@ -7201,7 +7201,7 @@ Some sorrows are gradual. The Sorrow Storm is sudden — the accumulated suppres
 **Classification:** Sorrow Entity — `C-Vγ-320 [D]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** The Sorrow Storm
 **Containment Status:** Uncontained — citywide (periodic catastrophe)
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic (when it occurs). The Storm is the city’s suppressed grief breaking as weather. All entities breach; citizens Fracture en masse.
 **Containment & Handling Procedures:**
 - Maintain mourning cycles to prevent accumulation.
@@ -7257,7 +7257,7 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 **Classification:** Sorrow Entity — `C-Vδ-002 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Grieving Colossus
 **Containment Status:** Contained — Zone D
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Moderate. The Colossus is immense and lonely. It does not attack. Its mass causes structural stress. Effect: proximity induces the loneliness of the forgotten dead.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -7315,7 +7315,7 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 **Classification:** Sorrow Entity — `C-Vδ-010 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Convergence
 **Containment Status:** Prevented — Three Birds containment maintained
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic (potential). If the Three Birds merge, the Convergence sentences everything it sees. Twelve seconds to separate. Those sentenced Fracture.
 **Containment & Handling Procedures:**
 - Maintain Three Birds separation at all costs.
@@ -7370,7 +7370,7 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 **Classification:** Sorrow Entity — `C-Vδ-111 [VO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Final Door
 **Containment Status:** Sealed — beneath the Alpha Tree
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Unknown. The Door is sealed, predating the city. Contents unknown. Risk: opening is considered potentially world-ending.
 **Containment & Handling Procedures:**
 - Do not open. Under any circumstances.
@@ -7427,7 +7427,7 @@ Some sorrows mourn the dead. The Forgotten God mourns its own obsolescence — t
 **Classification:** Sorrow Entity — `C-Vδ-265 [LS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Mixed (All Four) · Subject-Body manifestation
 **Common Name:** The Forgotten God
 **Containment Status:** Sleeping — beneath the Alpha Tree
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Unknown (dormant). The God sleeps. It was once worshipped; the city outgrew it. Effect: proximity induces the weight of abandoned faith.
 **Containment & Handling Procedures:**
 - Do not wake the God.
@@ -7483,7 +7483,7 @@ Some sorrows are about specific losses. The First Tear is about loss itself — 
 **Classification:** Sorrow Entity — `C-Vδ-290 [LO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** The First Tear
 **Containment Status:** Sealed — Deep Vault, beneath the Alpha Tree
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Unknown. The oldest sorrow in the world. Predates the city, the Han, and the Weeping. Effect: proximity induces the weight of origin — the first grief.
 **Containment & Handling Procedures:**
 - Do not approach without Director approval.
@@ -7542,7 +7542,7 @@ Some sorrows are about loss. The Dawn of Mourning is about compassion inverted �
 **Classification:** Sorrow Entity — `C-Vω-001 [LS]` · City origin · Sovereign (V) coherence · Catastrophic (ω) potency · Mixed (All Four) · Subject-Body manifestation
 **Common Name:** The Dawn of Mourning
 **Containment Status:** Sealed — Alpha Tree (historical branches only)
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic (historical). Compassion inverted into judgment after absorbing twelve sorrows. Those judged Fracture immediately. Current cycle diverged; the Hand of Hope was produced instead.
 **Containment & Handling Procedures:**
 - Classified. Director-only access.
@@ -7599,7 +7599,7 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 **Classification:** Sorrow Entity — `N-IIIβ-077 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** The Memory Thief
 **Containment Status:** Contained — Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Steals what you fear losing, briefly, then returns it. Effect: proximity induces the terror of forgotten faces.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -7651,7 +7651,7 @@ Some sorrows are about the debt. The Debt Collector's Shadow is about the dread 
 **Classification:** Sorrow Entity — `N-IIIβ-155 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Phantasmal manifestation
 **Common Name:** The Debt Collector’s Shadow
 **Containment Status:** Semi-contained — Zone C (follows debtors)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The dread of collection as a companion. Effect: proximity induces chronic anxiety of the approaching knock.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -7706,7 +7706,7 @@ Some sorrows are about the debt. The Debt Clock is about the waiting — the cou
 **Classification:** Sorrow Entity — `N-IIIβ-156 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Debt Clock
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A clock that ticks toward the unescapable. Effect: proximity induces the dread of the countdown.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -7761,7 +7761,7 @@ Some sorrows are about what is owed. The Debt Chain is about what cannot be paid
 **Classification:** Sorrow Entity — `N-IIIβ-160 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Debt Chain
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A chain of unpayable obligations. Effect: proximity induces the crushing weight of debt exceeding capacity.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -7814,7 +7814,7 @@ Some sorrows are about forgetting. The Chain of Memories is about remembering to
 **Classification:** Sorrow Entity — `N-IIIβ-200 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Chain of Memories
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Traded memories crystallized into links. Effect: proximity induces the burden of remembering for others.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -7867,7 +7867,7 @@ Some sorrows mourn a home. The Broken Mirror mourns a self — the identity shat
 **Classification:** Sorrow Entity — `N-IIIγ-127 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Dream manifestation
 **Common Name:** The Broken Mirror
 **Containment Status:** Contained — the Desolate (near Gate)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Fragments of an identity shattered at the Gate. Effect: proximity induces the vertigo of a self divided by leaving.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -7920,7 +7920,7 @@ Some sorrows are about debt. The Broken Promise is about the betrayal — the pr
 **Classification:** Sorrow Entity — `N-IIIγ-160 [GO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Broken Promise
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A promise used as a weapon. Effect: proximity induces the grief of exploited trust.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -7973,7 +7973,7 @@ Some sorrows mourn the forgotten. The Forgotten Tree is the forgetting itself �
 **Classification:** Sorrow Entity — `N-IIIγ-184 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Forgotten Tree
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree-shaped absence where a life was erased. Effect: proximity induces the maddening awareness of something missing, unidentifiable.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8026,7 +8026,7 @@ Some sorrows are about exclusion. The Rusted Wall is about the exclusion that ou
 **Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight (Black) · Subject-Dream manifestation
 **Common Name:** The Rusted Wall
 **Containment Status:** Contained — Gate District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A wall rusting between two empty sides. Effect: proximity induces the exhaustion of a purposeless boundary.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8079,7 +8079,7 @@ Some sorrows are about feeling anger. The Soaking Shadow is about absorbing it �
 **Classification:** Sorrow Entity — `N-IIIγ-308 [GO]` · Inner origin · Residue (I) coherence · Minor (α) potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Soaking Shadow
 **Containment Status:** Contained — Alpha Tree vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A shadow of accumulated grievances from the vault. Effect: proximity induces the exhaustion of carrying others’ anger.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8131,7 +8131,7 @@ Some sorrows are about losing memory. The Fading Whisper is about the place the 
 **Classification:** Sorrow Entity — `N-IIIγ-407 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Grudge manifestation
 **Common Name:** The Fading Whisper
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A guardian of a gap left by a removed memory. Effect: proximity induces the awareness of a known absence.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8186,7 +8186,7 @@ Some sorrows are about losing support. The Floating Pillar is about the support 
 **Classification:** Sorrow Entity — `N-IIIγ-409 [O]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Spirit manifestation
 **Common Name:** The Floating Pillar
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The shape of an imagined protector, floating, supporting nothing. Effect: proximity induces the vertigo of collapsed trust.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8241,7 +8241,7 @@ Some sorrows are about separation. The Melting Rope is about the connection that
 **Classification:** Sorrow Entity — `N-IIIγ-447 [LS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Dream manifestation
 **Common Name:** The Melting Rope
 **Containment Status:** Contained — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A rope held by one who remembers only the rope. Effect: proximity induces the grief of asymmetric connection.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -8296,7 +8296,7 @@ Some sorrows mourn a place. The Returning Ruin mourns the persistence of the pla
 **Classification:** Sorrow Entity — `N-IIIγ-505 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Dream manifestation
 **Common Name:** The Returning Ruin
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A home dreamt back into half-existence. Effect: viewers see a flickering ruin between sleep and waking.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8351,7 +8351,7 @@ Some sorrows mourn a home. The Floating Tree mourns the rooting — the place th
 **Classification:** Sorrow Entity — `N-IIIγ-585 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Place-Weight manifestation
 **Common Name:** The Floating Tree
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree with no roots, floating. Effect: proximity induces the rootlessness of the displaced.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -8404,7 +8404,7 @@ Some sorrows mourn exile. The Returning Soul mourns the return — the homecomin
 **Classification:** Sorrow Entity — `N-IIIγ-589 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Returning Soul
 **Containment Status:** Contained — Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. An exile returned to a world that forgot him. Effect: proximity induces the grief of the unrecognizable return.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
@@ -8457,7 +8457,7 @@ Some sorrows settle. The Flowing Seed does not — the unacknowledged rage, the 
 **Classification:** Sorrow Entity — `N-IIIγ-628 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight (Black) · Place-Void manifestation
 **Common Name:** The Flowing Seed
 **Containment Status:** Contained — Zone B (mobile)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A seed of dormant grief infused with a soldier’s rage, drifting. Effect: proximity induces the restlessness of unsettled sorrow.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8510,7 +8510,7 @@ Some sorrows are about what was lost. The Frozen Bridge is about what was never 
 **Classification:** Sorrow Entity — `N-IIIγ-874 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Object-Weight manifestation
 **Common Name:** The Frozen Bridge
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A bridge frozen around a refused crossing. Effect: proximity induces the weight of the road not taken.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8563,7 +8563,7 @@ Some sorrows are about what was lost. Vanity Asleep is about what is avoided —
 **Classification:** Sorrow Entity — `N-IIIγ-954 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** Vanity Asleep
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -8617,7 +8617,7 @@ Some sorrows are about being trapped. The Hollow Echo is about being unheard —
 **Classification:** Sorrow Entity — `N-IIα-125 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** The Hollow Echo
 **Containment Status:** Contained — Zone D, Echo Gardens — ambient
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -8671,7 +8671,7 @@ Some sorrows mourn the dead. The Forgotten Name mourns the unnamed — the citiz
 **Classification:** Sorrow Entity — `N-IIα-215 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** The Forgotten Name
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -8725,7 +8725,7 @@ Some sorrows are about speaking. The Weight of Silence is about not speaking —
 **Classification:** Sorrow Entity — `N-IIα-285 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Weight manifestation
 **Common Name:** The Weight of Silence
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Literal weight of words withheld to protect others. Effect: proximity induces the exhaustion of protective silence.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -8778,7 +8778,7 @@ Some sorrows mourn the fallen. The Forgotten Soldier mourns the edited — the s
 **Classification:** Sorrow Entity — `N-IIβ-033 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Phantasmal manifestation
 **Common Name:** The Forgotten Soldier
 **Containment Status:** Contained — SECTOR-B-02, Zone B — contained corridor 7-C
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -8832,7 +8832,7 @@ Some sorrows mourn a home. The Wandering Door mourns the leaving — the door to
 **Classification:** Sorrow Entity — `N-IIβ-152 [LS]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Subject-Grudge manifestation
 **Common Name:** The Wandering Door
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -8886,7 +8886,7 @@ Some sorrows are about being heard. The Silent Scream is about not being heard �
 **Classification:** Sorrow Entity — `N-IIβ-170 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Void manifestation
 **Common Name:** The Silent Scream
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Crystallized screams from collapsed structures. Effect: proximity induces the despair of calling for rescue and receiving none.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -8939,7 +8939,7 @@ Some sorrows are about debt. The Debt Collector's Lantern is about the collectin
 **Classification:** Sorrow Entity — `N-IIβ-250 [WO]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Debt Collector's Lantern
 **Containment Status:** Contained — Zone C, Collector's Row — ambient
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -8993,7 +8993,7 @@ Some sorrows are about loss. The Rusted Whisper is about discard — the things 
 **Classification:** Sorrow Entity — `N-IIβ-270 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Grudge manifestation
 **Common Name:** The Rusted Whisper
 **Containment Status:** Contained — Zone B, Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9049,7 +9049,7 @@ Some sorrows mourn the healer. The Kind Healer's Shadow mourns the continuation 
 **Classification:** Sorrow Entity — `N-IIβ-280 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** The Kind Healer’s Shadow
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A shadow that follows the wounded. Effect: proximity induces the grief of compassion without hands.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
@@ -9102,7 +9102,7 @@ Some sorrows are about losing memory. The Torn Fruit is about losing the self wh
 **Classification:** Sorrow Entity — `N-IIβ-426 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Void manifestation
 **Common Name:** The Torn Fruit
 **Containment Status:** Contained — Zone D, Forge District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9158,7 +9158,7 @@ Some sorrows mourn the dead. The Forgotten Shadow mourns the living-unrecorded �
 **Classification:** Sorrow Entity — `N-IIβ-453 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Weight manifestation
 **Common Name:** The Forgotten Shadow
 **Containment Status:** Contained — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The shadow of a person forgotten while alive. Effect: proximity induces the vertigo of unrecorded existence.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -9213,7 +9213,7 @@ Some sorrows are about hunger. The Fading Fruit is about the system that produce
 **Classification:** Sorrow Entity — `N-IIβ-456 [N]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** The Fading Fruit
 **Containment Status:** Contained — Zone C, Collector's Row
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9267,7 +9267,7 @@ Some sorrows are about separation. The Spreading Bridge is about the promised re
 **Classification:** Sorrow Entity — `N-IIβ-488 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Void manifestation
 **Common Name:** The Spreading Bridge
 **Containment Status:** Contained — Zone C, Collector's Row
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9321,7 +9321,7 @@ Some sorrows are about silence. The Soaking Scream is about the hearing that is 
 **Classification:** Sorrow Entity — `N-IIβ-560 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Soaking Scream
 **Containment Status:** Contained — The Desolate, near The Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9375,7 +9375,7 @@ Some sorrows mourn a home. The Melting Fruit mourns the replanting — the exile
 **Classification:** Sorrow Entity — `N-IIβ-627 [GP]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** The Melting Fruit
 **Containment Status:** Contained — Gate District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Failed orchards of exiles. Effect: proximity induces the grief of wanting a home exile has closed.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
@@ -9430,7 +9430,7 @@ Some sorrows are about hiding. The Spreading Wall is about the hiding that becom
 **Classification:** Sorrow Entity — `N-IIβ-689 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** The Spreading Wall
 **Containment Status:** Contained — Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Wall of masks that consumed the face. Effect: proximity induces vertigo of self-erasure; personnel feel their own masks loosen.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -9483,7 +9483,7 @@ Some sorrows are about loss. The Soaking Well is about the unspoken — the mour
 **Classification:** Sorrow Entity — `N-IIβ-778 [LP]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** The Soaking Well
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9537,7 +9537,7 @@ Some sorrows are about grief. The Soaking Mirror is about rage — the anger swa
 **Classification:** Sorrow Entity — `N-IIβ-801 [GO]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Object-Void manifestation
 **Common Name:** The Soaking Mirror
 **Containment Status:** Contained — Zone C, Collector's Row
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9593,7 +9593,7 @@ Some sorrows mourn a home. The Returning Flower mourns the pattern — the settl
 **Classification:** Sorrow Entity — `N-IIβ-845 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Void manifestation
 **Common Name:** The Returning Flower
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9649,7 +9649,7 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 **Classification:** Sorrow Entity — `N-IIβ-993 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Lament manifestation
 **Common Name:** Survivor's Span
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A survivor stands on the far shore, carrying those who fell. Effect: proximity induces survivor’s guilt.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.
@@ -9702,7 +9702,7 @@ Some sorrows are about debt. The Inherited Debt is about the debt that became th
 **Classification:** Sorrow Entity — `N-IVβ-019 [WS]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Subject-Mind manifestation
 **Common Name:** The Inherited Debt
 **Containment Status:** Contained — SECTOR-C-01, Collector's Row — contained
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9756,7 +9756,7 @@ Some sorrows mourn a child. The Smothering Mother mourns the inability to protec
 **Classification:** Sorrow Entity — `N-IVδ-005 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Smothering Mother
 **Containment Status:** Contained — SECTOR-D-01, Zone D — contained
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9810,7 +9810,7 @@ Some sorrows are about danger. The Sleeping Sigh is about the weariness of watch
 **Classification:** Sorrow Entity — `N-IVδ-157 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Place-Grudge manifestation
 **Common Name:** The Sleeping Sigh
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9864,7 +9864,7 @@ Some sorrows are about death. The Frozen Sigh is about the denial of death — t
 **Classification:** Sorrow Entity — `N-IVδ-159 [O]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Dream manifestation
 **Common Name:** The Frozen Sigh
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9918,7 +9918,7 @@ Some sorrows mourn what existed. The Collapsed Seed mourns what almost existed �
 **Classification:** Sorrow Entity — `N-IVδ-315 [LO]` · Per classification origin · Per classification coherence · Per classification potency · Lament (Deep Blue) · Object-Grudge manifestation
 **Common Name:** The Collapsed Seed
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -9972,7 +9972,7 @@ Some sorrows are about the danger. The Collapsed Wall is about the failed protec
 **Classification:** Sorrow Entity — `N-IVδ-339 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
 **Common Name:** The Collapsed Wall
 **Containment Status:** Contained — Zone D, Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10028,7 +10028,7 @@ Some sorrows are about truth suppressed. The Forgotten Silence is about suppress
 **Classification:** Sorrow Entity — `N-IVδ-489 [LS]` · Lament (Deep Blue) · Subject-Dream manifestation
 **Common Name:** The Forgotten Silence
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10084,7 +10084,7 @@ Some sorrows mourn a loss. The Broken Tear mourns the mourning itself — the gr
 **Classification:** Sorrow Entity — `N-IVδ-517 [LS]` · Lament (Deep Blue) · Subject-Dream manifestation
 **Common Name:** The Broken Tear
 **Containment Status:** Contained — Zone A, Alpha Tree vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10140,7 +10140,7 @@ Some sorrows are about loss. The Flowing Bridge is about the failed protection �
 **Classification:** Sorrow Entity — `N-IVδ-525 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Flowing Bridge
 **Containment Status:** Contained — Zone D, Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10196,7 +10196,7 @@ Some sorrows are about hiding. The Sunken Tree is about the hidden that grew —
 **Classification:** Sorrow Entity — `N-IVδ-606 [LP]` · Lament (Deep Blue) · Place-Grudge manifestation
 **Common Name:** The Sunken Tree
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10252,7 +10252,7 @@ Some sorrows are about feeling. The Sleeping Shard is about the refusal to feel 
 **Classification:** Sorrow Entity — `N-IVδ-611 [N]` · Void (Pale White) · Subject-Lament manifestation
 **Common Name:** The Sleeping Shard
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10308,7 +10308,7 @@ Some sorrows mourn a home. The Returning Relic mourns the return — the artifac
 **Classification:** Sorrow Entity — `N-IVδ-641 [GO]` · Grudge (Crimson) · Object-Void manifestation
 **Common Name:** The Returning Relic
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10364,7 +10364,7 @@ Some sorrows are about exhaustion. The Vanished Sigh is about the denial of exha
 **Classification:** Sorrow Entity — `N-IVδ-821 [D]` · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** The Vanished Sigh
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10422,7 +10422,7 @@ Some sorrows are about neglect. The Forgotten Ruin is about devotion — the lov
 **Classification:** Sorrow Entity — `N-IVδ-852 [N]` · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Forgotten Ruin
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10480,7 +10480,7 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 **Classification:** Sorrow Entity — `N-IVδ-909 [N]` · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** Dormant Monolith
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10538,7 +10538,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 **Classification:** Sorrow Entity — `N-IVδ-967 [WS]` · Weight (Black) · Subject-Grudge manifestation
 **Common Name:** Pandora's Jar
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10596,7 +10596,7 @@ Some sorrows mourn neglect. The Silent Child is made of it — the accumulated o
 **Classification:** Sorrow Entity — `N-Iα-025 [VS]` · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Silent Child
 **Containment Status:** Contained — SECTOR-D-02, Echo Gardens — contained
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10654,7 +10654,7 @@ Some sorrows mourn a parent. The Soaking Rope mourns the waiting — the child's
 **Classification:** Sorrow Entity — `N-Iα-316 [D]` · Grudge (Crimson) · Subject-Void manifestation
 **Common Name:** The Soaking Rope
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10710,7 +10710,7 @@ Some sorrows are about rejection. The Sleeping Wall is about the failure to ask 
 **Classification:** Sorrow Entity — `N-Iα-459 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Place-Lament manifestation
 **Common Name:** The Sleeping Wall
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A wall built from the exhaustion of wanting connection and lacking the strength to ask. Effect: proximity induces fatigue of unexpressed loneliness.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -10765,7 +10765,7 @@ Some sorrows are about being trapped. The Soaking Window is about the trap of ob
 **Classification:** Sorrow Entity — `N-Iα-518 [D]` · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** The Soaking Window
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10823,7 +10823,7 @@ Some sorrows mourn what was lost. The Spreading Seed mourns what never was — t
 **Classification:** Sorrow Entity — `N-Iα-519 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Place-Grudge manifestation
 **Common Name:** The Spreading Seed
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A seed of pure absence, spreading. Effect: proximity induces the vertigo of mourning what never existed.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
@@ -10876,7 +10876,7 @@ Some sorrows are about a view. The Torn Window is about the departures layered o
 **Classification:** Sorrow Entity — `N-Iα-686 [N]` · Grudge (Crimson) · Object-Lament manifestation
 **Common Name:** The Torn Window
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10934,7 +10934,7 @@ Some sorrows are grand. The Collapsed Tear is about the small — the quiet grie
 **Classification:** Sorrow Entity — `N-Iα-785 [O]` · Lament (Deep Blue) · Object-Void manifestation
 **Common Name:** The Collapsed Tear
 **Containment Status:** Contained — Zone D, Echo Gardens
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -10992,7 +10992,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 **Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Wrath Flame
 **Containment Status:** Contained — The Desolate, near The Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11048,7 +11048,7 @@ Some sorrows mourn the dead. The Forgotten Soul mourns the living-erased — the
 **Classification:** Sorrow Entity — `O-IIIγ-233 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Forgotten Soul
 **Containment Status:** Contained — Zone B, Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11104,7 +11104,7 @@ Some sorrows mourn the dead. The Broken Whisper mourns their last words — the 
 **Classification:** Sorrow Entity — `O-IIIγ-369 [LO]` · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** The Broken Whisper
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11160,7 +11160,7 @@ Some sorrows are about silence. The Vanished Silence is about the erasure of sou
 **Classification:** Sorrow Entity — `O-IIIγ-371 [VS]` · Void (Pale White) · Subject-Spirit manifestation
 **Common Name:** The Vanished Silence
 **Containment Status:** Contained — Zone D, Mantle Commons
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11216,7 +11216,7 @@ Some sorrows mourn a companion. The Sleeping Tree mourns the shared growth — t
 **Classification:** Sorrow Entity — `O-IIIγ-374 [N]` · Grudge (Crimson) · Object-Weight manifestation
 **Common Name:** The Sleeping Tree
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11272,7 +11272,7 @@ Some sorrows are about hiding grief. The Sunken Tear is about hiding it too well
 **Classification:** Sorrow Entity — `O-IIIγ-476 [WO]` · Weight (Black) · Object-Void manifestation
 **Common Name:** The Sunken Tear
 **Containment Status:** Contained — The Desolate, near The Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11328,7 +11328,7 @@ Some sorrows mourn a place. The Broken Ruin mourns the carrying — the disaster
 **Classification:** Sorrow Entity — `O-IIIγ-559 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Broken Ruin
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11384,7 +11384,7 @@ Some sorrows mourn exile. The Soaking Wall mourns the building — the shelters 
 **Classification:** Sorrow Entity — `O-IIIγ-617 [O]` · Grudge (Crimson) · Place-Lament manifestation
 **Common Name:** The Soaking Wall
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11440,7 +11440,7 @@ Some sorrows mourn a maker. The Sleeping Relic mourns the making — the object 
 **Classification:** Sorrow Entity — `O-IIIγ-651 [VP]` · Void (Pale White) · Place-Grudge manifestation
 **Common Name:** The Sleeping Relic
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11496,7 +11496,7 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 **Classification:** Sorrow Entity — `O-IIIγ-914 [N]` · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** Driftglass
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11552,7 +11552,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 **Classification:** Sorrow Entity — `O-IIIγ-915 [VS]` · Void (Pale White) · Subject-Dream manifestation
 **Common Name:** Corrosion Dream
 **Containment Status:** Contained — Zone D, Forge District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11608,7 +11608,7 @@ Some sorrows mourn a home. Graveweed mourns the rooting — the attempt to belon
 **Classification:** Sorrow Entity — `O-IIIγ-959 [D]` · Lament (Deep Blue) · Subject-Grudge manifestation
 **Common Name:** Graveweed
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11664,7 +11664,7 @@ Some sorrows mourn the war dead. The Scar Walker is their guardian — the rage 
 **Classification:** Sorrow Entity — `O-IIIδ-011 [GS]` · Grudge (Crimson) · Subject-Phantasmal manifestation
 **Common Name:** The Scar Walker
 **Containment Status:** Contained — The Desolate — patrols The Scar
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11720,7 +11720,7 @@ Some sorrows mourn a place. The Wandering Shadow mourns the having-no-place — 
 **Classification:** Sorrow Entity — `O-IIβ-119 [VP]` · Void (Pale White) · Place-Grudge manifestation
 **Common Name:** The Wandering Shadow
 **Containment Status:** Contained — Zone B, Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11776,7 +11776,7 @@ Some sorrows are about betrayal. The Torn Soul is about the betrayal that divide
 **Classification:** Sorrow Entity — `O-IIβ-235 [GS]` · Grudge (Crimson) · Subject-Lament manifestation
 **Common Name:** The Torn Soul
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11832,7 +11832,7 @@ Some sorrows mourn comfort lost. The Melting Flame mourns comfort dissolving —
 **Classification:** Sorrow Entity — `O-IIβ-301 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
 **Common Name:** The Melting Flame
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11888,7 +11888,7 @@ Some sorrows mourn the drowned. The Drowned Echo mourns the calling — the voic
 **Classification:** Sorrow Entity — `O-IIβ-378 [LS]` · Lament (Deep Blue) · Subject-Mind manifestation
 **Common Name:** The Drowned Echo
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -11944,7 +11944,7 @@ Some sorrows mourn separation. The Soaking Chain mourns the memory-bond — the 
 **Classification:** Sorrow Entity — `O-IIβ-467 [LS]` · Lament (Deep Blue) · Subject-Spirit manifestation
 **Common Name:** The Soaking Chain
 **Containment Status:** Contained — Zone D, Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12000,7 +12000,7 @@ Some sorrows mourn demolition. The Vanished Tower mourns the erasure — the bui
 **Classification:** Sorrow Entity — `O-IIβ-677 [GP]` · Grudge (Crimson) · Place-Void manifestation
 **Common Name:** The Vanished Tower
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12056,7 +12056,7 @@ Some sorrows mourn a home. The Broken Door mourns the separation — the door be
 **Classification:** Sorrow Entity — `O-IIβ-757 [GP]` · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** The Broken Door
 **Containment Status:** Contained — Zone D, Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12114,7 +12114,7 @@ Some sorrows mourn a community. The Soaking Tower mourns the calling — the tow
 **Classification:** Sorrow Entity — `O-IIβ-796 [LS]` · Lament (Deep Blue) · Subject-Spirit manifestation
 **Common Name:** The Soaking Tower
 **Containment Status:** Contained — Zone A, Alpha Tree vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12170,7 +12170,7 @@ Some sorrows mourn a departure. The Rusted Soul mourns the silence after — the
 **Classification:** Sorrow Entity — `O-IIβ-833 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Rusted Soul
 **Containment Status:** Contained — Zone B, Old Lament — contained/ambient
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12226,7 +12226,7 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 **Classification:** Sorrow Entity — `O-IIβ-922 [O]` · Grudge (Crimson) · Object-Weight manifestation
 **Common Name:** Door to Nowhere
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12284,7 +12284,7 @@ Some sorrows mourn a home. The Drift Fog mourns the destination — the nomads w
 **Classification:** Sorrow Entity — `O-IIγ-007 [VP]` · Void (Pale White) · Place-Phantasmal manifestation
 **Common Name:** The Drift Fog
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12340,7 +12340,7 @@ Some sorrows mourn a monument. The Broken Fragment mourns the debt it commemorat
 **Classification:** Sorrow Entity — `O-IVδ-115 [WO]` · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Broken Fragment
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12396,7 +12396,7 @@ Some sorrows mourn a home. The Spreading Tree mourns the lines — the borders t
 **Classification:** Sorrow Entity — `O-IVδ-151 [GP]` · Grudge (Crimson) · Place-Lament manifestation
 **Common Name:** The Spreading Tree
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12452,7 +12452,7 @@ Some sorrows mourn a destination. The Collapsed Trace mourns the journey — the
 **Classification:** Sorrow Entity — `O-IVδ-168 [O]` · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** The Collapsed Trace
 **Containment Status:** Contained — The Desolate, near The Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12508,7 +12508,7 @@ Some sorrows mourn the dead. The Ember Phoenix mourns the surviving — the comp
 **Classification:** Sorrow Entity — `O-IVδ-190 [GS]` · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Ember Phoenix
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12564,7 +12564,7 @@ Some sorrows are about grief. The Spreading Root is about buried grief — the s
 **Classification:** Sorrow Entity — `O-IVδ-693 [WS]` · Weight (Black) · Subject-Phantasmal manifestation
 **Common Name:** The Spreading Root
 **Containment Status:** Contained — Zone B, Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12620,7 +12620,7 @@ Some sorrows mourn the dead. The Burning Bridge mourns the reaching — the call
 **Classification:** Sorrow Entity — `O-IVδ-762 [O]` · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Burning Bridge
 **Containment Status:** Contained — The Desolate, near The Scar
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12676,7 +12676,7 @@ Some sorrows mourn an owner. The Flowing Relic mourns the having-none — the ob
 **Classification:** Sorrow Entity — `O-IVδ-792 [O]` · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** The Flowing Relic
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12734,7 +12734,7 @@ Some sorrows mourn a place. The Sleeping Ruin mourns the inability to stop — t
 **Classification:** Sorrow Entity — `O-IVδ-844 [N]` · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** The Sleeping Ruin
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12790,7 +12790,7 @@ Some sorrows mourn a loss. The Broken Shard mourns the trust — the promise tha
 **Classification:** Sorrow Entity — `O-IVδ-851 [LO]` · Lament (Deep Blue) · Object-Void manifestation
 **Common Name:** The Broken Shard
 **Containment Status:** Contained — Zone A, Alpha Tree vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12846,7 +12846,7 @@ Some sorrows are about specific losses. The Wandering Sigh is about the conditio
 **Classification:** Sorrow Entity — `O-IVδ-895 [VS]` · Void (Pale White) · Subject-Spirit manifestation
 **Common Name:** The Wandering Sigh
 **Containment Status:** Contained — Zone B, Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12902,7 +12902,7 @@ Some sorrows mourn a collapse. The Broken Wall mourns the broken promise — the
 **Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Grudge (Crimson) · Subject-Grudge manifestation
 **Common Name:** The Broken Wall
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -12958,7 +12958,7 @@ Some sorrows mourn a wrong. Reverberant mourns the forgetting of the wrong — t
 **Classification:** Sorrow Entity — `O-IVδ-909 [GP]` · Grudge (Crimson) · Place-Void manifestation
 **Common Name:** Reverberant
 **Containment Status:** Contained — Zone A, Alpha Tree vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13014,7 +13014,7 @@ Some sorrows mourn a grievance. The Wandering Trace mourns the lost cause — th
 **Classification:** Sorrow Entity — `O-Iα-108 [GS]` · Grudge (Crimson) · Subject-Spirit manifestation
 **Common Name:** The Wandering Trace
 **Containment Status:** Contained — Zone D, Mantle Commons
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13070,7 +13070,7 @@ Some sorrows are about losing a home. The Melting Shard is about losing a self �
 **Classification:** Sorrow Entity — `O-Iα-126 [VS]` · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** The Melting Shard
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13128,7 +13128,7 @@ Some sorrows are about sacrifice. The Rusted Pillar is about the sacrifice that 
 **Classification:** Sorrow Entity — `O-Iα-169 [WP]` · Weight (Black) · Place-Weight manifestation
 **Common Name:** The Rusted Pillar
 **Containment Status:** Contained — Zone D, Forge District
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13184,7 +13184,7 @@ Some sorrows mourn destruction. The Fading Ruin mourns the forgetting — the pl
 **Classification:** Sorrow Entity — `O-Iα-189 [LS]` · Lament (Deep Blue) · Subject-Grudge manifestation
 **Common Name:** The Fading Ruin
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13240,7 +13240,7 @@ Some sorrows mourn a carrier. The Frozen Relic mourns the unexplained — the ob
 **Classification:** Sorrow Entity — `O-Iα-340 [VP]` · Void (Pale White) · Place-Void manifestation
 **Common Name:** The Frozen Relic
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13296,7 +13296,7 @@ Some sorrows mourn a loss. The Floating Fragment mourns the interruption — the
 **Classification:** Sorrow Entity — `O-Iα-453 [LS]` · Lament (Deep Blue) · Subject-Grudge manifestation
 **Common Name:** The Floating Fragment
 **Containment Status:** Contained — Zone C, Collector's Row
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13354,7 +13354,7 @@ Some sorrows mourn barren ground. The Rusted Seed mourns the planting — the se
 **Classification:** Sorrow Entity — `O-Iα-554 [LO]` · Lament (Deep Blue) · Object-Grudge manifestation
 **Common Name:** The Rusted Seed
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13410,7 +13410,7 @@ Some sorrows mourn a home. The Vanished Root mourns the un-rooting — the belon
 **Classification:** Sorrow Entity — `O-Iα-631 [WS]` · Weight (Black) · Subject-Phantasmal manifestation
 **Common Name:** The Vanished Root
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13466,7 +13466,7 @@ Some sorrows mourn a face. The Frozen Mirror mourns the recognition — the face
 **Classification:** Sorrow Entity — `O-Iα-643 [GO]` · Grudge (Crimson) · Object-Lament manifestation
 **Common Name:** The Frozen Mirror
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13524,7 +13524,7 @@ Some sorrows are about death. The Forgotten Tear is about the dismissal of death
 **Classification:** Sorrow Entity — `O-Iα-709 [GO]` · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** The Forgotten Tear
 **Containment Status:** Contained — Zone A, Alpha Tree vault
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13580,7 +13580,7 @@ Some sorrows are about silence. The Melting Whisper is about the interrupted —
 **Classification:** Sorrow Entity — `O-Iα-720 [GS]` · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Melting Whisper
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13638,7 +13638,7 @@ Some sorrows are about loss. The Wandering Chain is about the holding that outla
 **Classification:** Sorrow Entity — `O-Iα-754 [GS]` · Grudge (Crimson) · Subject-Grudge manifestation
 **Common Name:** The Wandering Chain
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13694,7 +13694,7 @@ Some sorrows mourn a collapse. The Collapsed Door mourns the threshold — the p
 **Classification:** Sorrow Entity — `O-Iα-794 [LO]` · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** The Collapsed Door
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
@@ -13750,7 +13750,7 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 **Classification:** Sorrow Entity — `O-Iα-973 [VS]` · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** Yggdrasil Wound
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

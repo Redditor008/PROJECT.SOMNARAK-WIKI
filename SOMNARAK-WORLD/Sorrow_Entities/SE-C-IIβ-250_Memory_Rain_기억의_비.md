@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A slow fall of droplets that are not water: each a glassy bead the size of a tear, suspending inside it a fragment of a face, a lock of hair, a strip of skin, a voice made visible. They drift rather than drop, and on contact dissolve, releasing the memory into whoever they touch. The beads are cool and faintly sweet-smelling, like rain on old flowers. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone D, Echo Gardens — periodic |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats falling |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens — periodic |
 | **Resolution Condition** | Collect drops carefully and provide identity anchors |
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Rain intensity increases during the Sorrow Tide.
 - Drops become crystals after landing.
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Memory Rain (C-IIβ-250 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Rain formed from memories too numerous for the city to hold. Held at Zone D, Echo Gardens — periodic. Rain intensity increases during the Sorrow Tide.
@@ -365,7 +365,7 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 **Classification:** Sorrow Entity — `C-IIβ-250 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Memory Rain
 **Containment Status:** Periodic — Zone D, above Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Rain is weather, not a creature. No Fractures recorded. Effect: brief, vivid memories of strangers’ lives. Personnel report disorientation and unexpected weeping.
 **Containment & Handling Procedures:**
 - No containment possible. The Rain is periodic weather.

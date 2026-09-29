@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, weeping without cease — skin pale and damp, hair plastered, dress soaked as though she has stood in the rain for years. She is warm, alive, and unbearably sad; tears track her cheeks, and the air smells of cold rain on old cloth. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, gentle, sad |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-02, contained with the Three Sisters |
 | **Resolution Condition** | Share her grief and acknowledge the loss; never command her to stop |
@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - Separation from the Three Sisters causes rapid distress.
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Grieving Maiden (C-IVβ-041 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Maiden formed from a parent whose child died of illness. Held at SECTOR-D-02, contained with the Three Sisters. Separation from the Three Sisters causes rapid distress.
@@ -363,7 +363,7 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 **Classification:** Sorrow Entity — `C-IVβ-041` · City origin · Entity (IV) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** The Grieving Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Maiden weeps continuously. She does not attack. Effect: personnel feel helpless parental grief.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

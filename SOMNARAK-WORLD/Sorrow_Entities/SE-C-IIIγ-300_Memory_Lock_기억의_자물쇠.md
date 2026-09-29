@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A massive lock of dark memory-crystal sealing a vault with no public entrance — its keyhole sealed, its mechanism fused and still. The crystal is clouded with trapped recollections turning slowly inside. It smells of ash; touching it, you half-remember a door you never opened. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Protective and secretive |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep vault |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It seals memories rather than physical objects alone.
 - Aggression strengthens its purpose.
@@ -295,7 +295,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Memory Lock (C-IIIγ-300 [D]) is logged as a Object-Void manifestation expressing Void (Pale White). The Lock formed from memories sealed by the Keepers. Held at SECTOR-A-01, Alpha Tree deep vault. It seals memories rather than physical objects alone.
@@ -385,7 +385,7 @@ Some sorrows mourn what was lost. Memory Lock mourns what is known and kept — 
 **Classification:** Sorrow Entity — `C-IIIγ-300 [VO]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** Memory Lock
 **Containment Status:** Contained — Alpha Tree deep vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Lock is conscious of what it conceals.
 **Containment & Handling Procedures:**
 - Viderehan is the only valid Work Type.

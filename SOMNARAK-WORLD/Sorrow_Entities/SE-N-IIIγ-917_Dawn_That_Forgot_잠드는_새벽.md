@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-917, contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Void / Dream pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Major · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 917  · R.D. Observation Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
+| **Difficulty** | 917  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-917 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
@@ -210,7 +210,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-N-917.
@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Dawn That Forgot (N-IIIγ-917 [VT]) is logged as a Time-Dream manifestation expressing Void. Held at SECTOR-N-917.
 
@@ -280,7 +280,7 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 
 **Containment Status:** Contained — SECTOR-N-917 
 
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 
 **Threat Assessment:** Major. A Time-Dream entity — the dream register is its defining characteristic. Risk: prolonged exposure to the dream pressure may produce effects not seen in standard void entities.
 

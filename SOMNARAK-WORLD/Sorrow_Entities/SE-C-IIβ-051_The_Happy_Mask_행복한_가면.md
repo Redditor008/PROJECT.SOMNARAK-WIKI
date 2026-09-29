@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A beautiful lacquered mask with a fixed gentle smile, smooth and warm, sized to a face. Its interior is dark and wrong, absorbing the wearer's true expression so only the painted smile shows. Bloodless-cold against the skin, it smells of ash. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats smiling |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, contained with the Masked Troupe |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - The mask has never moved without a wearer.
@@ -310,7 +310,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Happy Mask (C-IIβ-051 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mask formed from the sorrow of pretending to be happy. Held at SECTOR-C-01, contained with the Masked Troupe. The mask has never moved without a wearer.
@@ -399,7 +399,7 @@ Some sorrows are about loss. The Happy Mask is about performance — the lifelon
 **Classification:** Sorrow Entity — `C-IIβ-051 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Happy Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Mask grins. Left alone, it grins wider. Effect: exposure induces exhaustion from performed happiness.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

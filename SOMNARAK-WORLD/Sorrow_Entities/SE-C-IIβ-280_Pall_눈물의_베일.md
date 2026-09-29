@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A long woven tapestry of crystallized tears — not cloth but a textile of grief, always damp, clinging to the hands like wet silk. Where it drapes it leaves salt traces and the smell of a fresh wound. Lifted to light, the woven drops shiver as though still falling. |
 | **Movement** | Stationary — an artwork. |
 | **Location** | Zone D, Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It becomes heavier near unexpressed grief.
 - Its tears contain no individual memories unless directly observed.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Pall (C-IIβ-280 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Veil formed from sorrow people used to hide their tears. Held at Zone D, Echo Gardens. It becomes heavier near unexpressed grief.
@@ -393,7 +393,7 @@ The city built a Veil to keep feeling down. The citizens built a veil to let it 
 **Classification:** Sorrow Entity — `C-IIβ-280 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** Pall
 **Containment Status:** Contained — Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Veil is a shared-mourning garment. Wearing it causes the wearer to mourn through every previous wearer’s grief. No Fractures; emotional exhaustion in prolonged use.
 **Containment & Handling Procedures:**
 - Do not wear without R.D. authorization.

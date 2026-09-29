@@ -27,7 +27,7 @@
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A damp grave under a living cherry tree; pale crystal blossoms fall in windless air and never rot. |
 | Gauge / pressure | 35–50% / Lament 8–20 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Last Sentences |
 
 ### Core Sorrow

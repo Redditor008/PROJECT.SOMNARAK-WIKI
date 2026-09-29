@@ -27,7 +27,7 @@
 | Location | SECTOR-A-01, beneath the Grand Archive |
 | Form | A deep, worn stone well filled with viscous liquid memory that reflects a viewer’s past instead of their face. |
 | Gauge / pressure | 45–65% / Void 18–41 |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Unremembered Lives |
 
 ### Core Sorrow

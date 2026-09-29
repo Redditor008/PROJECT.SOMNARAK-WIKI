@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A three-meter clock of crystallized time, its face dark, two hands (and fragments of others) moving forward, backward, or stopping with no pattern. The casing is cold, lead-heavy metal gone green with corrosion; it ticks, but never on any rhythm you can count, and smells of wet stone. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Personality obsessed with time |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -291,7 +291,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The distortion field extends exactly seven meters.
@@ -316,7 +316,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Broken Clock (C-IIIγ-044 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223. Held at SECTOR-A-01, Alpha Tree deep storage — contained. The distortion field extends exactly seven meters.
@@ -408,7 +408,7 @@ Some sorrows mourn the past. Broken Clock mourns the future that would not come 
 **Classification:** Sorrow Entity — `C-IIIγ-044 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** Broken Clock
 **Containment Status:** Contained — Alpha Tree deep storage
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Clock traps attention in a repeating temporal loop.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

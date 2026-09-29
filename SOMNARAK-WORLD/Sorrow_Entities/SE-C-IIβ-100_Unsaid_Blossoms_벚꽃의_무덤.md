@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A grave beneath a cherry tree of true living wood whose blossoms are pale crystal, blooming out of season and falling without any wind. The petals are salt-cold and never rot; the gravestone is damp. It smells of cold rain and old flowers. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-D-02, Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats blooming |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Speak honestly at the grave; do not remove blossoms |
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Blossoms bloom more heavily during the Sorrow Tide.
 - No physical body has been recovered beneath the grave.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Unsaid Blossoms (C-IIβ-100 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Grave formed from words never spoken to the dead. Held at SECTOR-D-02, Echo Gardens. Blossoms bloom more heavily during the Sorrow Tide.
@@ -363,7 +363,7 @@ Some sorrows mourn what was lost. The Grave mourns what was never said — and f
 **Classification:** Sorrow Entity — `C-IIβ-100 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Unsaid Blossoms
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal. A cherry tree that flowers with unsaid words. Effect: visitors feel every apology they never made.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

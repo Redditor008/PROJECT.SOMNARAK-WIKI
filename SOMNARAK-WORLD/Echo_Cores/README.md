@@ -24,7 +24,7 @@ Each Echo-Core represents a fundamental aspect of human will, endurance, and sor
 | `THE_EXTRACTION_LEAD.md` | **Zyrak (지락)** | Floor 3 (Extraction Hall) | Android | Specialized Android Forge Gear | **Mechanical Hands & Extraction Rig** | Grudge (Crimson) + Void (Pale White) |
 | `THE_RESEARCH_LEAD.md` | **Ayshuk (아이숙)** | Floor 4 (Insight Forge) | Android | Specialized Cognitive Ledger | **Subject-Mind Research Ledger** | Void (Pale White) |
 | `THE_BORDER_LEAD.md` | **Mellda (멜다)** | Floor 5 (Border Watch) | Cyborg (Warden) | Specialize Manufactured Weapon | **Threshold Vow** (Arm-Blade / Shockwave) | Weight (Black) + Grudge (Crimson) |
-| `THE_ARCHIVE_LEAD.md` | **Marjuk (마주크)** | Floor 6 (Deep Vault) | Cryogen | Specialized Keeper Optical Relic | **Memory Lens & Whispering Index** | Void (Pale White) + Weight (Black) |
+| `THE_ARCHIVE_LEAD.md` | **Marjuk (마주크)** | Floor 6 (Deep Vault) | Cryogen | Specialized Keeper Optical Relic | **Memory Lens & Whispering Catalog** | Void (Pale White) + Weight (Black) |
 | `THE_OUTSIDER.md` | **Ishall (이샬)** | Floor 7 (Shadow Corps) | Android (Enemy Chassis) | Specialize Before-Time Artifact | **Unanswered** (Paired Relic Gloves) | Grudge (Crimson) + Void (Pale White) |
 | `THE_EXILE.md` | **Xyan (시안)** | Floor 8 (Gate Watch) | Cyborg (Desolate-Changed) | Specialized Boundary Interface | **Neural Spine & Survival Route Gear** | Lament (Deep Blue) + Weight (Black) |
 
@@ -49,8 +49,8 @@ The Directorate enforces a strict distinction across the personal arsenals and s
 
 ### 4. Specialized Android Tools, Relics & Cognitive Architecture
 - **Mechanical Hands & Forge Rigs (Zyrak — Floor 3):** Integrated sorrow-forged Android hands with micro-calibration servos and resonant palm channels coupled directly to facility M.A.W. extraction vats.
-- **Subject-Mind Research Ledger (Ayshuk — Floor 4):** Slate-grey analytical volume with Han-crystal indexing matrices cataloging entity behavioral thresholds and Observation Points.
-- **Memory Lens & Whispering Index (Marjuk — Floor 6):** Multifaceted crystallized memory monocle coupled to a subterranean network of Han-crystal acoustic threads throughout the Grand Archive.
+- **Subject-Mind Research Ledger (Ayshuk — Floor 4):** Slate-grey analytical volume with Han-crystal indexing matrices cataloging entity behavioral thresholds and Comprehension Points.
+- **Memory Lens & Whispering Catalog (Marjuk — Floor 6):** Multifaceted crystallized memory monocle coupled to a subterranean network of Han-crystal acoustic threads throughout the Grand Archive.
 - **Memory Archive Interface & The Promise (Seiyon — Floor 1):** Concentric orbiting halo of crystalline Engram Pages governing facility logistics and cycle-memory retrieval.
 
 ---

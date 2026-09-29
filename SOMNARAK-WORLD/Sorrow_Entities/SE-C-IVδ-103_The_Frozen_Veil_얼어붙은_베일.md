@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A humanoid figure made of frozen emotion rather than frozen water — beautiful, translucent, its body a shell of still, cold feeling. It radiates an emotional cold that numbs before it chills; bloodless-pale, it smells of ash. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, cold, distant |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **Resolution Condition** | Tears and sincere emotional expression crack the Veil. Physical force is ineffective |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - Thermometers register normal temperature despite personnel reporting -40°C cold.
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Frozen Veil (C-IVδ-103 [VS]) is logged as a Subject-Void manifestation expressing Void (Pale White). The Veil crystallized from the city's collective emotional distance. Held at SECTOR-A-01, Alpha Tree deep storage — contained. Thermometers register normal temperature despite personnel reporting -40°C cold.
@@ -364,7 +364,7 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 **Classification:** Sorrow Entity — `C-IVδ-103 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Void manifestation
 **Common Name:** The Frozen Veil
 **Containment Status:** Semi-contained — Zone D (drifts)
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Veil drains warmth from nearby personnel. Effect: emotional capacity diminishes near it.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

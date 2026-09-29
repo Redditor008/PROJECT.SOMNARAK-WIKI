@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A shadow-shaped form soaked in crimson light, like a silhouette drenched in burning liquid that never evaporates. Fever-hot and dark, it smells of char; it drips light that scorches where it lands. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It grows darker near repeated arguments.
 - It has no identifiable original owner.
@@ -295,7 +295,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Soaking Shadow (N-IIIγ-308 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Shadow formed from rage repeatedly absorbed by a place. Held at Zone A, Alpha Tree vault. It grows darker near repeated arguments.
@@ -383,7 +383,7 @@ Some sorrows are about feeling anger. Soaking Shadow is about absorbing it — t
 **Classification:** Sorrow Entity — `N-IIIγ-308 [GO]` · Inner origin · Residue (I) coherence · Minor (α) potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** Soaking Shadow
 **Containment Status:** Contained — Alpha Tree vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A shadow of accumulated grievances from the vault. Effect: proximity induces the exhaustion of carrying others’ anger.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

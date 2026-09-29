@@ -27,7 +27,7 @@
 | Location | SECTOR-B-02, Zone B |
 | Form | A vast wooden library burning in crimson fire; books turn their own pages and survive until their truth is read. |
 | Gauge / pressure | 60–80% / Grudge 29–62 |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Cindered Testament |
 
 ### Core Sorrow

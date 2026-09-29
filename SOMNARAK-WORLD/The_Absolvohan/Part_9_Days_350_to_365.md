@@ -126,19 +126,19 @@ Strain telemetry remains at absolute zero across all sectors. The former contain
 | ENTITY & SPECIALIST   | WORK   | GAUGE | HAN |
 +====================+========+=======+========+
 | SE-001 (Bell)      | Flere  | -00%  | +0.01  |
-| Park Grade 4       | Comm   | PEACE | 20 OP  |
+| Park Grade 4       | Comm   | PEACE | 20 CP  |
 +--------------------+--------+-------+--------+
 | SE-005 (Mother)    | Ferre  | -00%  | +0.01  |
-| Kim Grade 4        | Comm   | PEACE | 22 OP  |
+| Kim Grade 4        | Comm   | PEACE | 22 CP  |
 +--------------------+--------+-------+--------+
 | SE-081 (Saint)     | Flere  | -00%  | +0.01  |
-| Hong Grade 4       | Comm   | PEACE | 25 OP  |
+| Hong Grade 4       | Comm   | PEACE | 25 CP  |
 +--------------------+--------+-------+--------+
 | SE-140 (Willow)    | Flere  | -00%  | +0.01  |
-| Bae Grade 4        | Comm   | PEACE | 21 OP  |
+| Bae Grade 4        | Comm   | PEACE | 21 CP  |
 +--------------------+--------+-------+--------+
 | SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
-| Yoo Grade 4        | Comm   | PEACE | 20 OP  |
+| Yoo Grade 4        | Comm   | PEACE | 20 CP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+
@@ -317,19 +317,19 @@ Strain monitors remain at absolute zero. The energy grid hums in effortless reso
 | ENTITY & SPECIALIST   | WORK   | GAUGE | HAN |
 +====================+========+=======+========+
 | GATE 05 (Home)     | Flere  | -00%  | +0.01  |
-| Lead Mellda        | Welcom | PEACE | 25 OP  |
+| Lead Mellda        | Welcom | PEACE | 25 CP  |
 +--------------------+--------+-------+--------+
 | HEARTH (Banquets)  | Pugna  | -00%  | +0.01  |
-| Lead Zyrak         | Cook   | PEACE | 26 OP  |
+| Lead Zyrak         | Cook   | PEACE | 26 CP  |
 +--------------------+--------+-------+--------+
 | ARCHIVE (Registry) | Videre | -00%  | +0.01  |
-| Lead Marjuk        | Record | PEACE | 24 OP  |
+| Lead Marjuk        | Record | PEACE | 24 CP  |
 +--------------------+--------+-------+--------+
 | CLINIC (Restore)   | Ferre  | -00%  | +0.01  |
-| Lead Ayshuk        | Heal   | PEACE | 28 OP  |
+| Lead Ayshuk        | Heal   | PEACE | 28 CP  |
 +--------------------+--------+-------+--------+
 | SE-008 (The Well)  | Flere  | -00%  | +0.01  |
-| Lead Dekan         | Water  | PEACE | 25 OP  |
+| Lead Dekan         | Water  | PEACE | 25 CP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+
@@ -511,19 +511,19 @@ Strain monitors confirm complete temporal normalization. SE-C-IIIβ-044 (*The Br
 | ENTITY & SPECIALIST   | WORK   | GAUGE | HAN |
 +====================+========+=======+========+
 | SE-044 (The Clock) | Videre | -00%  | +0.01  |
-| Kwon Grade 4       | Sync   | PEACE | 22 OP  |
+| Kwon Grade 4       | Sync   | PEACE | 22 CP  |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Videre | -00%  | +0.01  |
-| Kang Grade 4       | Sync   | PEACE | 23 OP  |
+| Kang Grade 4       | Sync   | PEACE | 23 CP  |
 +--------------------+--------+-------+--------+
 | SE-115 (Well)      | Videre | -00%  | +0.01  |
-| Seo Grade 4        | Sync   | PEACE | 24 OP  |
+| Seo Grade 4        | Sync   | PEACE | 24 CP  |
 +--------------------+--------+-------+--------+
 | SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
-| Yoo Grade 4        | Sync   | PEACE | 21 OP  |
+| Yoo Grade 4        | Sync   | PEACE | 21 CP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -00%  | +0.01  |
-| Park Grade 4       | Sync   | PEACE | 22 OP  |
+| Park Grade 4       | Sync   | PEACE | 22 CP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+

@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A lean bird of true flesh and feather gone wrong — plumage the color of deep water, eyes too bright and unblinking, its body warm and disturbingly alive. It dives from above with wings spread and fixes its gaze on a target, marking them. Its feathers are damp, as though it has been weeping in flight; near it, the cold-rain smell of grief. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Watchful and silent |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-01, contained with the Three Birds |
 | **Resolution Condition** | Look at the Bird and accept its gaze |
@@ -242,7 +242,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - Exactly 144 eyes record distinct aspects of reality.
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Observing Bird (C-IIIγ-031 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Bird formed from the sorrow of witnessing injustice without being able to intervene. Held at SECTOR-B-01, contained with the Three Birds. Exactly 144 eyes record distinct aspects of reality.
@@ -359,7 +359,7 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 **Classification:** Sorrow Entity — `C-IIIγ-031 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Body manifestation
 **Common Name:** The Observing Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Bird does not attack. It watches. Effect: personnel feel the bystander’s grief — the helplessness of seeing and not acting. Psychological pressure increases when a sibling Bird is absent.
 **Containment & Handling Procedures:**
 - Flerehan and Viderehan are valid Work Types.

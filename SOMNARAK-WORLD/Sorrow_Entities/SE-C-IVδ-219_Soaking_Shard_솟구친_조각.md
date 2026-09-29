@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A large shard of blue crystal rising from the floor, jagged and bright, perpetually wet with liquid memory that beads and runs down its faces. Salt-cold and damp, it smells of cold rain; touch it and a memory that isn't yours surfaces. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Shard's tears are warm despite its crystal body.
 - It grows more active during the Sorrow Tide.
@@ -295,7 +295,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Soaking Shard (C-IVδ-219 [LO]) is logged as a Object-Void manifestation expressing Lament (Deep Blue). The Shard formed when crystallized sorrow broke open and began flowing again. Held at Zone A, Alpha Tree vault. The Shard's tears are warm despite its crystal body.
@@ -385,7 +385,7 @@ Some sorrows are about open wounds. Soaking Shard is about a wound that was clos
 **Classification:** Sorrow Entity — `C-IVδ-219 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Void manifestation
 **Common Name:** Soaking Shard
 **Containment Status:** Contained — Alpha Tree vault
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Shard cracked and proved sealed grief was flowing inside. Effect: proximity induces the horror of contained grief discovered alive.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A small music box, 25 by 15 centimeters — black top, white bottom, a pink interior lining — of ordinary craftsmanship, the kind a child might own. Bloodless-cold, it smells of ash; wind its key and it plays a lullaby that empties the listener by degrees. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
-| **R.D. Observation Level** | 3 — Elevated |
+| **R.D. Comprehension Level** | 3 — Elevated |
 
 > **Registry note:** Unknown Sorrow Entity registry, Entry 07. An Object entity of uncertain provenance — discovered already playing, and never since observed to stop. Its Tale *is* its song: the lullaby it sings, unchanged, in full.
 
@@ -174,7 +174,7 @@ Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self.
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Elevated
+**R.D. Comprehension Level:** 3 — Elevated
 
 **Key Observations:**
 - The box has played continuously since discovery; no winding has ever been recorded.
@@ -199,7 +199,7 @@ Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Music Box of Agony (`N-IIγ-903 [VO]`) is a 25 × 15 cm music box — pink lining, black top, white bottom — with a small weeping figurine atop its post. Object-Void. It plays a lullaby that should have ended centuries ago and never has. Contained in the SECTOR-D-02 acoustic-isolation vault; lid sealed between observations.
@@ -244,7 +244,7 @@ A soft, crooning voice begins, sourceless, as if the room itself were being sung
 | **The Frozen Tear** | The Tear grows warm in the box's presence; both are objects of unending grief, but the Tear weeps outward while the box empties inward. |
 | **The Repeated Survivor** | The Survivor recognizes the "carousel" — the loop in song-form — and refuses to enter the vault. |
 | **The Echo Gardens** | The gardens' grief-flowers lean toward the vault, as if listening; a few have begun to turn, very slowly, in time with the figurine. |
-| **The Silent Orchestra** | A dangerous resonance: the Orchestra's music and the box's lullaby can harmonize into a fade-event spanning the whole sector. |
+| **The Hollow Choir** | A dangerous resonance: the Choir's unfinished songs and the box's lullaby can harmonize into a fade-event spanning the whole sector. |
 
 ### Interaction Pattern
 
@@ -259,7 +259,7 @@ The Music Box must be assessed as part of an acoustic-sorrow network. The intera
 | **The Frozen Tear** | Both are objects of unending grief; the Tear warms near the box. | The Tear weeps more visibly; the box's lullaby softens briefly. | Record Tear temperature and box audibility. |
 | **The Repeated Survivor** | Recognizes the carousel; refuses the vault. | The Survivor becomes agitated near the vault and will not enter. | Record proximity response and any spoken line. |
 | **The Echo Gardens** | Grief-flowers lean and turn toward the vault. | A measurable drift in flower orientation, in time with the figurine. | Record flower orientation and figurine rotation. |
-| **The Silent Orchestra** | Dangerous harmonic resonance. | Combined sound risks a sector-wide fade-event. | Never permit simultaneous activation. |
+| **The Hollow Choir** | Dangerous harmonic resonance. | Combined sound risks a sector-wide fade-event. | Never permit simultaneous activation. |
 
 **Interaction procedure:** Never expose the box to another musical entity during play. Record any entity that begins to move or sound in time with the figurine, and seal the lid immediately if harmonics form.
 
@@ -351,7 +351,7 @@ If I opened up my eyes there'd be no more going back
 **Classification:** Sorrow Entity — `N-IIγ-903 [VO]` · Inner (내한) origin · Echo (II) coherence · Major (γ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Music Box of Agony (고통의 오르골)
 **Containment Status:** Contained — SECTOR-D-02 acoustic-isolation vault; lid sealed between observations
-**Observation Level:** 3 — Elevated
+**Comprehension Level:** 3 — Elevated
 **Threat Assessment:** Major passive hazard via the lullaby. No direct violence. Listeners who hear beyond two recitations begin to fade — Clarity loss, name-loss, face-loss, and (by the third recitation) translucence and stillness. Faded listeners are recoverable only if the song is ended before the fade completes. The lyrics are unchanged across all transcriptions; the box has played continuously since discovery.
 **Containment & Handling Procedures:**
 - **Viderehan and Ferrehan only.** Flerehan and Pugnahan are invalid for Object entities.
@@ -364,7 +364,7 @@ If I opened up my eyes there'd be no more going back
 - Lyrics unchanged across every transcription on file.
 - Figurine turns only while the lid is open; weeps audibly if closed mid-song.
 - The faded occupant found with the box remains in the vault — translucent, silent, seated.
-**Cross-References:** The Frozen Tear · The Repeated Survivor (the carousel) · the Echo Gardens · The Silent Orchestra (harmonic hazard) · the Void element · the lullaby
+**Cross-References:** The Frozen Tear · The Repeated Survivor (the carousel) · the Echo Gardens · The Hollow Choir (harmonic hazard) · the Void element · the lullaby
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Uncertain — a maker unknown, for a sufferer who faded; the lullaby is the sorrow that remains.
 

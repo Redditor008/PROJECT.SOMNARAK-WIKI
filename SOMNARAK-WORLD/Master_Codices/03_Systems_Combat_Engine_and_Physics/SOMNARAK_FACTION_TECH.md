@@ -133,19 +133,19 @@
 
 ---
 
-#### The Whispering Index (속삭임 색인 — Soksagim Saegin)
+#### The Whispering Catalog (속삭임 색인 — Soksagim Saegin)
 
 **What it is:** A catalog system — the Archive's master index of all stored memories.
 
 **Appearance:** Not a single device — a network of Han-crystal threads that permeate the Grand Archive. The threads hum with stored data.
 
 **How it works:**
-- The Index catalogs every Echo in the Archive — by emotion, date, source, and content
-- Keepers can query the Index by touching a thread and asking a question
-- The Index responds with whispers — pointing the Keeper toward relevant Echoes
-- The Index can cross-reference — finding connections between seemingly unrelated memories
+- The Whispering Catalog catalogs every Echo in the Archive — by emotion, date, source, and content
+- Keepers can query the Whispering Catalog by touching a thread and asking a question
+- The Whispering Catalog responds with whispers — pointing the Keeper toward relevant Echoes
+- The Whispering Catalog can cross-reference — finding connections between seemingly unrelated memories
 
-**Unique trait:** The Index **speaks** — it has developed a personality over centuries. It answers questions with riddles, hints, and fragments. Some Keepers believe the Index is alive.
+**Unique trait:** The Whispering Catalog **speaks** — it has developed a personality over centuries. It answers questions with riddles, hints, and fragments. Some Keepers believe the Whispering Catalog is alive.
 
 ---
 
@@ -631,7 +631,7 @@ Standard diagnostic consoles deployed at every containment cell and agent termin
 | **Council** | Sigh-Recorder, Decision Scale | Governance, consequence measurement |
 | **Architects** | Sorrow Compass, Han-Trowel | Construction, Han-flow navigation |
 | **Collectors** | Debt-Ledger, Extraction Glove | Debt tracking, Echo extraction |
-| **Keepers** | Memory Lens, Whispering Index | Memory viewing, Archive catalog |
+| **Keepers** | Memory Lens, Whispering Catalog | Memory viewing, Archive catalog |
 | **Wardens** | Barrier Baton, Watchtower Eye, Threshold Vow | Suppression, surveillance, heavy border interception |
 | **Weavers** | Dream Loom, Resonance Mask | Dream interaction, Dream-diving safety |
 | **R.D.** | Cast Effigy Systems, Lament Well, Mnemonic Generator, Extraction Rigs | Consciousness housing, extraction, containment, stabilization |

@@ -27,7 +27,7 @@
 | **Element** | Grudge — Crimson |
 | **Scale** | Ten-meter maternal figure; arms span the containment room |
 | **Location** | SECTOR-D-01, Zone D |
-| **Observation Level** | 4 — Mastered |
+| **Comprehension Level** | 4 — Mastered |
 | **M.A.W. Set** | Embrace Set |
 
 ### Core Sorrow

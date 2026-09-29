@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A fading voice and partial silhouette that appears only when someone tries to remember a name on the tip of their tongue. Bloodless-cold, it smells of ash; catch it and the name is gone — the shape of a name that will not be recalled. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone B, Old Lament — ambient |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats fading |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Write and speak the name with another witness present |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The Name fades when spoken by only one person.
 - Written records make it temporarily stable.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten Name (N-IIα-215 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The entity formed from a person's name forgotten by everyone who knew it. Held at Zone B, Old Lament — ambient. The Name fades when spoken by only one person.
@@ -347,7 +347,7 @@ Some sorrows mourn the dead. Forgotten Name mourns the unnamed — the citizen w
 **Classification:** Sorrow Entity — `N-IIα-215 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** Forgotten Name
 **Containment Status:** Contained — Zone B, Old Lament — ambient
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

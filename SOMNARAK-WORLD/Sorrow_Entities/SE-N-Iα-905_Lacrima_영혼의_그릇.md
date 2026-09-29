@@ -17,7 +17,7 @@
 | **Physical Form** | Organic — A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-905, contained |
-| **R.D. Observation Level** | 1 — Trace |
+| **R.D. Comprehension Level** | 1 — Trace |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Void / Spirit pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Minor · R.D. Observation Level 1 — Trace |
+| **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
@@ -70,7 +70,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 905  · R.D. Observation Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("I", "2 — Basic") |
+| **Difficulty** | 905  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("I", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-905 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
@@ -291,7 +291,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Trace
+**R.D. Comprehension Level:** 1 — Trace
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-N-905.
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Lacrima (N-Iα-905 [VO]) is logged as a Object-Spirit manifestation expressing Void. Held at SECTOR-N-905.
 
@@ -363,7 +363,7 @@ The entity does not rage. It does not weep. It persists — spirit and void, pat
 
 **Containment Status:** Contained — SECTOR-N-905 
 
-**Observation Level:** 1 — Trace
+**Comprehension Level:** 1 — Trace
 
 **Threat Assessment:** Minor. A Object-Spirit entity — the spirit register is its defining characteristic. Risk: prolonged exposure to the spirit pressure may produce effects not seen in standard void entities.
 

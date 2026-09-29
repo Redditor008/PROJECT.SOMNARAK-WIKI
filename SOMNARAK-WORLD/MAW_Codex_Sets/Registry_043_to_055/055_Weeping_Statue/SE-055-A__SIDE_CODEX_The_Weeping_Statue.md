@@ -27,7 +27,7 @@
 | Element | Lament — Deep Blue |
 | Form | Bowed dark stone statue with crystallizing tears |
 | Location | SECTOR-D-02, Echo Gardens |
-| Observation Level | 1 — Initial |
+| Comprehension Level | 1 — Initial |
 | M.A.W. Set | Tear Set |
 
 ### Core Sorrow

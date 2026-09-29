@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A massive gate of black Han-crystal with no handle, lock, or hinges — a single unopening slab that predates the facility, found already sealed beneath the Alpha Tree. Bloodless-cold, it smells of ash; no one knows what it opens onto. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) — Self-aware, ancient, sealed |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - It predates all current records.
 - Something warm and apparently alive exists beyond it.
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Sorrow Gate (C-IVδ-252 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). Unknown. The Gate formed around a promise no one remembers making. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. It predates all current records.
@@ -367,7 +367,7 @@ Some sorrows are about what was done. Sorrow Gate is about what was prevented �
 **Classification:** Sorrow Entity — `C-IVδ-252` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** Sorrow Gate
 **Containment Status:** Contained — beneath Alpha Tree (sealed)
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Unknown. The Gate is sealed. Its contents are unknown. Risk: opening the Gate is considered catastrophic by all authorities.
 **Containment & Handling Procedures:**
 - Do not open. Under any circumstances.

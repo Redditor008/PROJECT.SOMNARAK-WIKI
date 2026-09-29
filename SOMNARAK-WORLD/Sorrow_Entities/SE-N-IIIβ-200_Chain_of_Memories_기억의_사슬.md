@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A long chain whose links are carved of memory-crystal, each holding a captured face, place, or moment frozen inside. Lead-cold, it smells of wet stone; it lengthens with every memory taken, dragging the past behind it. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-01, Collector's Row |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Chain grows when a memory is deliberately preserved.
 - It becomes heavier when someone denies a link's owner.
@@ -295,7 +295,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Chain of Memories (N-IIIβ-200 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Chain formed from memories passed through families and communities. Held at SECTOR-C-01, Collector's Row. The Chain grows when a memory is deliberately preserved.
@@ -383,7 +383,7 @@ Some sorrows are about forgetting. Chain of Memories is about remembering too mu
 **Classification:** Sorrow Entity — `N-IIIβ-200 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** Chain of Memories
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Traded memories crystallized into links. Effect: proximity induces the burden of remembering for others.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

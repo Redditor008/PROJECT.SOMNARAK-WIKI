@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Not a creature but a drifting bank of bone-white sorrow-mist that rolls across the Desolate — cold, damp, faintly sweet with the smell of old flowers. Those caught in it lose direction and memory; there is no body to strike, only the fog, and the muffled weeping inside it. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | High · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats a single pattern: blanketing areas |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 1 — Initial |
+| **Difficulty** | High · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically |
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - The Fog is mobile and follows existing Han-flow lines.
@@ -288,7 +288,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Brume (O-IIγ-007 [VP]) is logged as a Place-Phantasmal manifestation expressing Void (Pale White). Brume crystallized from the collective despair of Desolate nomads. Held at The Desolate — mobile. The Fog is mobile and follows existing Han-flow lines.
@@ -379,7 +379,7 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 **Classification:** Sorrow Entity — `O-IIγ-007 [VP]` · Void (Pale White) · Place-Phantasmal manifestation
 **Common Name:** Brume
 **Containment Status:** Contained — The Desolate — mobile
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

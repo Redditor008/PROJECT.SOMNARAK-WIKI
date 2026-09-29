@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — Not one body but a place: dark fruit growing in heavy clusters and melting as it ripens, pooling into crimson ground that never dries. The air is sweet and burned at once; fever-hot, it smells of char and overripe sugar. The fruit reforms as fast as it melts. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone E, Exile's Gate vicinity |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Let the fruit decay naturally; do not promise return |
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Fruit melts without heat.
 - It grows after new exiles pass the Gate.
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Harvest Beyond the Gate (N-IIβ-627 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Fruit formed from longing that became resentment. Held at Zone E, Exile's Gate vicinity. Fruit melts without heat.
@@ -363,7 +363,7 @@ Some sorrows mourn a home. Harvest Beyond the Gate mourns the replanting — the
 **Classification:** Sorrow Entity — `N-IIβ-627 [GP]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** Harvest Beyond the Gate
 **Containment Status:** Contained — Gate District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Failed orchards of exiles. Effect: proximity induces the grief of wanting a home exile has closed.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

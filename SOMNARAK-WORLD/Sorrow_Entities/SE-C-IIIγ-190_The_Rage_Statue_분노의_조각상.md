@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A colossal figure frozen mid-strike, fist raised and jaw locked; its outer skin is grey pitted stone cracked in long fissures through which something dark and organic pulses, as if flesh were trying to break out of the rock. The stone is warm. Stare long enough and the raised fist seems to tremble — a blow held for centuries. |
 | **Movement** | Stationary — an artwork. |
 | **Location** | SECTOR-B-01, Zone B |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Furious and frozen |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | Do not attempt to force the fist down; name the wrong |
@@ -248,7 +248,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It has never moved physically.
 - Its rage affects personnel who stand before it.
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Rage Statue (C-IIIγ-190 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge (Crimson). The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.
@@ -364,7 +364,7 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Classification:** Sorrow Entity — `C-IIIγ-190 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Grudge manifestation
 **Common Name:** The Rage Statue
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Statue is a humanoid figure with a raised fist, frozen mid-strike. It does not move. Proximity induces the urge to strike back. No breach; the Statue is static.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

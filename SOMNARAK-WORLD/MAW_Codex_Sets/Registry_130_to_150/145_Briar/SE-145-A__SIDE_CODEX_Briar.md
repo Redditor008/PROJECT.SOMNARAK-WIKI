@@ -27,7 +27,7 @@
 | Location | SECTOR-D-02, near Echo Gardens |
 | Form | A mobile thicket of warm, bleeding-sap thorn vines that crawls, grips, and lashes around memorial soil. |
 | Gauge / pressure | 45–65% / Grudge 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Protected Bloom |
 
 ### Core Sorrow

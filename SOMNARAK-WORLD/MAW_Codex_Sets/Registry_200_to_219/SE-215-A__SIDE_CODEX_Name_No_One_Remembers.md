@@ -28,7 +28,7 @@
 | Primary Form | A fading voice and incomplete silhouette appearing at the instant someone almost remembers a name. |
 | Gauge / Han Pressure | 25–40% starting range / Void 2–8 per hit |
 | Movement | Localized to the naming lapse; apparent field movement up to 1.30 m/s during escalation |
-| Observation Level | 1 — Initial |
+| Comprehension Level | 1 — Initial |
 | M.A.W. Set | The Second Witness |
 
 ### Core Sorrow
@@ -52,7 +52,7 @@ Writing stabilizes the trace for moments. One speaker cannot hold it. When separ
 
 > *“The file has a place where the name should be. A blank field is not proof that no person stood behind it.”* — Archive Lead Marjuk
 
-**Unknown at Observation Level 1:** the name itself; the citizen’s face; the precise death site; whether the repeated fragments belong to one life; and whether full recovery would stabilize the subject or destroy the last form it can inhabit.
+**Unknown at Comprehension Level 1:** the name itself; the citizen’s face; the precise death site; whether the repeated fragments belong to one life; and whether full recovery would stabilize the subject or destroy the last form it can inhabit.
 
 ---
 

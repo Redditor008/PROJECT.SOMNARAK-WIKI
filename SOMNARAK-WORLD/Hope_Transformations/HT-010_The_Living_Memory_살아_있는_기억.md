@@ -157,7 +157,7 @@ And Mori understood, at last, why the perfect memorial had always failed: becaus
 **Common Name:** The Living Memory (살아 있는 기억)
 **Bearer:** Mori, The Doll Maker
 **Bond / Containment Status:** Active, bonded to Hope Bearer Mori. Not contained; deployed for memorial and archive operations. Regular separation between the Bearer's own memories and collected memories is mandatory.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior. High archival and civic value. The entity preserves memory without reconstructing a complete dead person; it borrows only harmless features and never answers on the dead's behalf. Primary risk is emotional contamination—borrowed mannerisms, confusion between the child's memories and strangers' memories, and painful attachment to unfinished objects. The entity requires the Bearer to destroy or release some memories; preservation without choice becomes another prison.
 **Operational & Handling Procedures:**
 - Schedule regular separation between the Bearer's personal memories and collected memories; contamination blurs the two.

@@ -2357,7 +2357,7 @@ Head Keeper (Council member)
 - **Memory extraction:** The ability to pull memories from a person — with or without consent
 - **Memory storage:** Crystallized memories (Echoes) stored in vaults
 - **Memory restoration:** The ability to return stored memories — but the process is imperfect
-- **The Whispering Index:** A catalog of every memory in the Archive — it *speaks* to those who listen
+- **The Whispering Catalog:** A catalog of every memory in the Archive — it *speaks* to those who listen
 
 **Tension with other factions:**
 - **The Collectors:** "You trade in memories as currency. You commodify identity."
@@ -4266,7 +4266,7 @@ Each faction has unique technology reflecting their role and Resonance.
 | **Council** | Sigh-Recorder, Decision Scale | Governance tools |
 | **Architects** | Sorrow Compass, Han-Trowel | Construction tools |
 | **Collectors** | Debt-Ledger, Extraction Glove | Debt enforcement |
-| **Keepers** | Memory Lens, Whispering Index | Memory management |
+| **Keepers** | Memory Lens, Whispering Catalog | Memory management |
 | **Wardens** | Barrier Baton, Watchtower Eye | Defense and surveillance |
 | **Weavers** | Dream Loom, Resonance Mask | Dream interaction |
 | **R.D.** | Lament Well, Mnemonic Generator | Entity extraction, facility stabilization |

@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A subterranean lake of liquid memory beneath the Echo Gardens — not water but a slow, dark, viscous surface that reflects the viewer's whole life rather than their face. The shore is cold stone; the liquid is salt-damp and smells of cold rain. A dropped stone sinks into a year. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-D-02, beneath the Echo Gardens |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, reflective, deep |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, beneath the Echo Gardens |
 | **Resolution Condition** | Seal access and catalogue memories without claiming them |
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - The Lake contains memories without known owners.
 - Its surface reflects emotional history, not physical form.
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Memory Lake (C-IVγ-270 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Lake formed from memories released by the city's dead. Held at SECTOR-D-02, beneath the Echo Gardens. The Lake contains memories without known owners.
@@ -361,7 +361,7 @@ Some sorrows mourn the forgotten. Memory Lake mourns the remembered too well —
 **Classification:** Sorrow Entity — `C-IVγ-270` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Memory Lake
 **Containment Status:** Contained — beneath Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Lake holds every citizen’s intact memories. Effect: visitors feel the presence of thousands of remembered lives.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

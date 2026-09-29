@@ -156,7 +156,7 @@ The Warmth settled into the wood like a low hearth. It has never gone cold since
 **Common Name:** The Eternal Warmth (영원한 온기)
 **Bearer:** Sarang, The Bride
 **Bond / Containment Status:** Active, bonded to Hope Bearer Sarang. Not contained; deployed for emotional support across the Dawn Initiative. The pendant focus may be lent to a single user under supervision.
-**Observation Level:** 1 — Routine Bond Monitoring
+**Comprehension Level:** 1 — Routine Bond Monitoring
 **Hope Assessment:** No hostile behavior. Low direct combat value; very high group-survival value during prolonged sorrow exposure. The entity does not impersonate the dead; it preserves the feeling of being loved without reproducing the person who is gone. Risk is minimal and confined to Bearer exhaustion when comfort is treated as an obligation performed perfectly rather than a relationship shared.
 **Operational & Handling Procedures:**
 - Deploy in grief-shelters, recovery wards, and post-operation debrief settings; most effective with small seated groups.

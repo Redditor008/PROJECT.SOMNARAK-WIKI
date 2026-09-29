@@ -16,7 +16,7 @@
 | **Physical Form** | Braided Cord Construct — A two-meter floating braid of frayed red silk and tarnished copper wires, terminating in a split copper coin with matching human bite-marks. It hovers over the right shoulder of its bonded bearer, tightening around their throat whenever they contemplate breaking an old promise. |
 | **Movement** | Anchored to Bonded Bearer / Gliding (1.2 m/s). |
 | **Location** | Veteran Quarters & Memorial Cemeteries, Zone D |
-| **R.D. Observation Level** | 2 — Psychological Field Monitoring |
+| **R.D. Comprehension Level** | 2 — Psychological Field Monitoring |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Guilt Constriction / Memory Tether |
 | **Starting Sorrow Gauge** | 480/480 |
 | **Han-Energy yield** | 8–12 Han-Energy per oath reconciliation cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 |
 | **Activation threshold** | Contemplating betrayal or abandonment of oath |
 | **Tool / M.A.W. grade** | Grade β |
 | **Vessel-Destructible** | Yes |
@@ -67,7 +67,7 @@
 | { *Weight of Survival* [**Debuff**] } | "Why did you come back when they stayed behind?" | [Transfers crushing survivor's guilt directly into the target's posture.] | *Reduces target movement speed by 40% and deals 12 Weight damage.* **[12 Black DMG]** | At engagement round 3. |
 | { *The Final Knot* [**Ultimate**] } | "The braid completes its loop: two graves from one promise." | [Tightens the red silk braid completely, pulling target to the floor.] | *Deals 26-36 Lament damage; stuns target for 1 turn.* **[26-36 Blue DMG]** | When Sorrow Gauge reaches 85%. |
 
-## Observation Levels
+## Comprehension Levels
 
 ### Level 1 — Minimal Observation
 Sanatorium wardens in Zone D noted that several retired expeditionary scouts suffered from recurrent throat spasms that restorative salves could not relieve. Post-mortem examinations by archival anatomists revealed no somatic necrosis, only fine threads of red silk entwined around the vocal cords.

@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A motionless figure that appears rusted and worn, its body dark tear-crystal gone orange with corrosion, weeping as it waits. Salt-damp, it smells of cold rain and wet iron; a soul that rusted in place, still waiting for what never came. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone B, Old Lament — contained/ambient |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats waiting for acknowledgment |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament — contained/ambient |
 | **Resolution Condition** | Remain with it and acknowledge the abandonment; do not promise a return |
@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The Soul has never intentionally breached containment.
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Neverlast (O-IIβ-833 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Soul formed from the grief of a friend who was abandoned. Held at Zone B, Old Lament — contained/ambient. The Soul has never intentionally breached containment.
@@ -358,7 +358,7 @@ Some sorrows mourn a departure. Neverlast mourns the silence after — the frien
 **Classification:** Sorrow Entity — `O-IIβ-833 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** Neverlast
 **Containment Status:** Contained — Zone B, Old Lament — contained/ambient
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

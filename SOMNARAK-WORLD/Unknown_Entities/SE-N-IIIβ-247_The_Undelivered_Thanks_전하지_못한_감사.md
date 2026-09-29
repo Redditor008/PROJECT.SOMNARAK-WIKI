@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A translucent human figure, slight and perpetually mid-bow, wearing the faded coat of a Zone D commoner — half-flesh, half-light, frozen in a gratitude it never managed to speak. Lead-cold, it smells of wet stone; it bows to everyone, and the thanks never arrives. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Emotional / structural pressure |
 | **Starting Sorrow Gauge** | 40–55% |
 | **Han-Energy yield** | 6–9 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 40–55% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D |
 | **Resolution Condition** | Deliver a carried thank-you to a living recipient, or bear the weight alongside it until it rests |
@@ -212,7 +212,7 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - First observed Year 4238 on the Lantern's dock, bowing to a ship that had already departed.
 - The number of stones correlates with recent Hope Bearer casualties in the region.
@@ -233,7 +233,7 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The subject is a translucent humanoid, slight, perpetually mid-bow, garbed in the faded coat of a Zone D commoner. At the hip it carries a satchel of warm-gold stones — each stone, on inspection, a single crystallized expression of gratitude. The figure itself is cold; only the stones are warm. It does not speak. It bows, and waits, and moves on.
@@ -316,7 +316,7 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 **Classification:** Sorrow Entity — `N-IIIβ-247 [WS]` · Inner origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Subject-Phantasmal manifestation
 **Common Name:** The Undelivered Thanks
 **Containment Status:** Uncontained / Wandering — drifts the old Dawn routes; not suppressible by force
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. No direct violence; no Fracture risk recorded. Passive ambient weight that surfaces each viewer's own undelivered gratitude. Yields little Han-Energy because its sorrow is adjacent to hope; resists all conventional suppression except the delivery of a real thank-you.
 **Containment & Handling Procedures:**
 - Ferrehan is the only valid primary Work Type. Sit with the entity; receive a stone; carry it until delivered.

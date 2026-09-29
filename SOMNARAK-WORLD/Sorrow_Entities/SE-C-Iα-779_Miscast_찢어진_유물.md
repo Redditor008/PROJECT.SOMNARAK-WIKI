@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A broken relic split into several floating metal fragments that drift around the space they once filled, pulling toward one another but never reconnecting. Corroded and fever-cold, it smells of char; the gap between the pieces is the wound. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The pieces move along Forge District Han-currents.
 - It becomes more active near broken tools.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Miscast (C-Iα-779 [GO]) is logged as a Object-Weight manifestation expressing Grudge (Crimson). The Relic formed from an object destroyed before its work was complete. Held at Zone D, Forge District. The pieces move along Forge District Han-currents.
@@ -391,7 +391,7 @@ Some sorrows mourn destruction. Miscast mourns incompletion — the artifact for
 **Classification:** Sorrow Entity — `C-Iα-779 [GO]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Object-Weight manifestation
 **Common Name:** Miscast
 **Containment Status:** Contained — Forge District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Fragments of a shattered artifact. Effect: proximity induces the rage of purpose denied by destruction.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

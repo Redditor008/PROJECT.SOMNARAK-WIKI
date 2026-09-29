@@ -27,7 +27,7 @@
 | Location | SECTOR-B-02, Zone B |
 | Form | A saint-shaped humanoid of cracking stone and dark Han-crystal, forever crumbling without ever reaching the floor. |
 | Gauge / pressure | 45–65% / Weight 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Held Together |
 
 ### Core Sorrow

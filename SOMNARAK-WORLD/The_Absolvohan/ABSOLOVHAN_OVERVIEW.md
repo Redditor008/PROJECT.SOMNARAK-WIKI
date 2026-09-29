@@ -720,7 +720,7 @@ The Absolvohan facility is organized vertically into eight distinct departments,
 
 ### Floor 4: The Insight Forge (통찰 및 연구부)
 - **Attendant:** Research Lead Ayshuk (*The Research Lead* / *Subject-Mind Research Ledger*).
-- **Core Function:** Sorrow Entity behavioral analysis, Observation Point yield multiplication, cognition threshold calculation.
+- **Core Function:** Sorrow Entity behavioral analysis, Comprehension Point yield multiplication, cognition threshold calculation.
 - **Department Passive Aura:** *Analytical Clarity* — Observation point yields from Viderehan work increased by +30%.
 - **Awakened Realization Aura:** *Living Ledger* — Unlocks full behavioral and M.A.W. data for newly drafted entities after only two work sessions.
 - **Containment Capacity:** 5 Insight Chambers.
@@ -733,7 +733,7 @@ The Absolvohan facility is organized vertically into eight distinct departments,
 - **Containment Capacity:** 5 Heavy Containment Chambers.
 
 ### Floor 6: Deep Vault & Memory Archives (심연 서고 및 기억 보관소)
-- **Attendant:** Archive Lead Marjuk (*The Archive Lead* / *Memory Lens & Whispering Index*).
+- **Attendant:** Archive Lead Marjuk (*The Archive Lead* / *Memory Lens & Whispering Catalog*).
 - **Core Function:** Historical spool storage, pre-Consolihan lore decoding, cognitive dampening, cycle memory retrieval.
 - **Department Passive Aura:** *Archival Preservation* — Meltdown timers across Floor 6 receive a permanent +10 second extension.
 - **Awakened Realization Aura:** *Mnemonic Equanimity* — Specialists stationed on Floor 6 recover 5% Max SP every 15 seconds while outside combat.
@@ -1181,14 +1181,14 @@ When an attendant's past human trauma surges to the surface during a Realization
 *Setting: Floor 6: Deep Vault & Grand Archive. The Realization Trial of Archive Lead Marjuk.*
 
 **[Start — Unsealing the Ledger]**
-*The central chamber of the Deep Vault is illuminated by the eerie pale glow of thousands of floating memory spools. Archive Lead Marjuk stands at the lectern, his Whispering Index monocle glowing with concentrated Void resonance. Director Majin and a senior suppression cadre stand in formation opposite him.*
+*The central chamber of the Deep Vault is illuminated by the eerie pale glow of thousands of floating memory spools. Archive Lead Marjuk stands at the lectern, his Whispering Catalog monocle glowing with concentrated Void resonance. Director Majin and a senior suppression cadre stand in formation opposite him.*
 
 > **Marjuk:** *"For seventeen hundred cycles, Director, I recorded the ledger. I wrote down the names of the hungry. I wrote down the names of the abandoned. Today... you ask me to forgive the city that starved them. How do you balance an account where every entry is written in human bone?"*
 >
 > **Director Majin:** *"We are not asking for forgiveness, Marjuk. We are asking you to let the grief transform. You carried their memory so they wouldn't disappear. Now, let their names rest."*
 
 **[Middle — The Cognitive Fracture]**
-*The memory spool on the lectern cracks. A dark, viscous ink begins bleeding from the paper, spreading across the floor like an oil slick. Marjuk's eyes dilate, his Whispering Index fracturing into a thousand jagged crystal shards. The psychic dampeners in the ceiling explode in showers of blue sparks. The suppressed grief of the thirty thousand citizens locked behind the municipal famine gates surges into the room.*
+*The memory spool on the lectern cracks. A dark, viscous ink begins bleeding from the paper, spreading across the floor like an oil slick. Marjuk's eyes dilate, his Whispering Catalog fracturing into a thousand jagged crystal shards. The psychic dampeners in the ceiling explode in showers of blue sparks. The suppressed grief of the thirty thousand citizens locked behind the municipal famine gates surges into the room.*
 
 > **Secretary Seiyon (via Intercom):** *"WARNING. Archive Lead Marjuk's mental composure has breached threshold! Cognitive synchronization inverted! Lament resonance at four hundred and eighty decibels! Floor 6 reality boundary is melting!"*
 >
@@ -1408,7 +1408,7 @@ The grief of millions is pumped out to power the neon spires and perimeter Veil 
 
 > **Mellda:** *"Look at that city, Marjuk. From down here, without the smell of the sewers or the screams in the alleys... it looks almost beautiful. Like a sea of stars fallen into the desert."*
 >
-> **Marjuk:** *(Adjusting his Whispering Index monocle, gazing at the distant towers)* *"A sea of stars powered by subterranean ghosts. The Council just published their annual civic report. They declared this year the 'Era of Unbroken Stability.' Zero blackouts in Zone A. Zero brownouts in Zone C."*
+> **Marjuk:** *(Adjusting his Whispering Catalog monocle, gazing at the distant towers)* *"A sea of stars powered by subterranean ghosts. The Council just published their annual civic report. They declared this year the 'Era of Unbroken Stability.' Zero blackouts in Zone A. Zero brownouts in Zone C."*
 
 **[Middle — The False Peace]**
 *Mellda leans her armored elbows on the guardrail, her cyborg weapon, Threshold Vow, resting quietly at her side.*

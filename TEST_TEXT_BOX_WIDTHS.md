@@ -54,9 +54,9 @@ A fundamental architectural distinction governs typography and ASCII formatting 
 +======================+==================+===========================+
 | SE-031 (Small Bird)  | 71.2% (Resonant) | Acoustic drain achieved   |
 +----------------------+------------------+---------------------------+
-| SE-032 (Tall Bird)   | 73.0% (Pulsing)  | Rhythmic weighing armed   |
+| SE-032 (Weighting Bird)| 73.0% (Pulsing)  | Rhythmic weighing armed |
 +----------------------+------------------+---------------------------+
-| SE-033 (Big Bird)    | 70.5% (Baritone) | Mourning frequency held   |
+| SE-033 (Guarding Bird)| 70.5% (Baritone) | Mourning frequency held  |
 +----------------------+------------------+---------------------------+
 | SE-120 (Wrath Flame) | 84.6% (Critical) | Thermal baffles armed     |
 +=====================================================================+
@@ -121,9 +121,9 @@ A fundamental architectural distinction governs typography and ASCII formatting 
 +============================+===============+==================+======================+======================================+
 | SE-C-IIIg-031 (Small Bird) | Rank III-Frag | 71.2% (Resonant) | Viderehan (Watch)    | Stable acoustic drainage achieved    |
 +----------------------------+---------------+------------------+----------------------+--------------------------------------+
-| SE-C-IIIg-032 (Tall Bird)  | Rank III-Frag | 73.0% (Pulsing)  | Ferrehan (Endure)    | Rhythmic weighing cycle active       |
+| SE-C-IIIg-032 (Weighting Bird)| Rank III-Frag | 73.0% (Pulsing)  | Ferrehan (Endure)    | Rhythmic weighing cycle active    |
 +----------------------------+---------------+------------------+----------------------+--------------------------------------+
-| SE-C-IIIg-033 (Big Bird)   | Rank III-Frag | 70.5% (Baritone) | Flerehan (Mourn)     | Sub-harmonic mourning sealed firmly  |
+| SE-C-IIIg-033 (Guarding Bird)| Rank III-Frag | 70.5% (Baritone) | Flerehan (Mourn)     | Sub-harmonic mourning sealed firmly|
 +----------------------------+---------------+------------------+----------------------+--------------------------------------+
 | SE-C-IIIb-120 (Wrath Flame)| Rank III-Frag | 84.6% (Critical) | Pugnahan (Combat)    | Thermal containment baffles engaged  |
 +----------------------------+---------------+------------------+----------------------+--------------------------------------+
@@ -201,9 +201,9 @@ A fundamental architectural distinction governs typography and ASCII formatting 
 +============================+===============+==================+======================+=======================================+
 | SE-C-IIIg-031 (Small Bird) | Rank III-Frag | 71.2% (Resonant) | Viderehan (Watch)    | Stable acoustic drainage achieved     |
 +----------------------------+---------------+------------------+----------------------+---------------------------------------+
-| SE-C-IIIg-032 (Tall Bird)  | Rank III-Frag | 73.0% (Pulsing)  | Ferrehan (Endure)    | Rhythmic weighing cycle active        |
+| SE-C-IIIg-032 (Weighting Bird)| Rank III-Frag | 73.0% (Pulsing)  | Ferrehan (Endure)    | Rhythmic weighing cycle active     |
 +----------------------------+---------------+------------------+----------------------+---------------------------------------+
-| SE-C-IIIg-033 (Big Bird)   | Rank III-Frag | 70.5% (Baritone) | Flerehan (Mourn)     | Sub-harmonic mourning sealed firmly   |
+| SE-C-IIIg-033 (Guarding Bird)| Rank III-Frag | 70.5% (Baritone) | Flerehan (Mourn)     | Sub-harmonic mourning sealed firmly |
 +----------------------------+---------------+------------------+----------------------+---------------------------------------+
 | SE-C-IIIb-120 (Wrath Flame)| Rank III-Frag | 84.6% (Critical) | Pugnahan (Combat)    | Thermal containment baffles engaged   |
 +----------------------------+---------------+------------------+----------------------+---------------------------------------+
@@ -297,9 +297,9 @@ To demonstrate the balance of the **127–128 character window**, the reference 
 +============================+===============+==================+=====================+================================+
 | SE-C-IIIg-031 (Small Bird) | Rank III-Frag | 71.2% (Resonant) | Viderehan (Watch)   | Stable acoustic drain achieved |
 +----------------------------+---------------+------------------+---------------------+--------------------------------+
-| SE-C-IIIg-032 (Tall Bird)  | Rank III-Frag | 73.0% (Pulsing)  | Ferrehan (Endure)   | Rhythmic weighing cycle active |
+| SE-C-IIIg-032 (Weighting Bird)| Rank III-Frag | 73.0% (Pulsing)  | Ferrehan (Endure) | Rhythmic weighing cycle active|
 +----------------------------+---------------+------------------+---------------------+--------------------------------+
-| SE-C-IIIg-033 (Big Bird)   | Rank III-Frag | 70.5% (Baritone) | Flerehan (Mourn)    | Sub-harmonic mourning sealed   |
+| SE-C-IIIg-033 (Guarding Bird)| Rank III-Frag | 70.5% (Baritone) | Flerehan (Mourn)    | Sub-harmonic mourning sealed |
 +======================================================================================================================+
 ```
 

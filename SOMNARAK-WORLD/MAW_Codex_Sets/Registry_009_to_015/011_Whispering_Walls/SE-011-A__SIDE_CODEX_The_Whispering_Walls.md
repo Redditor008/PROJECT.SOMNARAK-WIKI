@@ -27,7 +27,7 @@
 | **Element** | Lament — Deep Blue |
 | **Form** | Faded settlement murals and connected Old Lament walls |
 | **Location** | Zone B, Old Lament |
-| **Observation Level** | 1 — Initial |
+| **Comprehension Level** | 1 — Initial |
 | **M.A.W. Set** | Listening Set |
 
 ### Core Sorrow

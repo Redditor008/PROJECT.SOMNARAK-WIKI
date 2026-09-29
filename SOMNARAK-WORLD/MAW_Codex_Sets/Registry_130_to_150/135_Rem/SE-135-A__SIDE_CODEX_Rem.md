@@ -27,7 +27,7 @@
 | Location | SECTOR-A-01, near Dream Gates |
 | Form | A flickering Dream shard shifting between a room, a face, and one warm tear that cannot settle into waking form. |
 | Gauge / pressure | 35–50% / Lament 8–20 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Wake With It |
 
 ### Core Sorrow

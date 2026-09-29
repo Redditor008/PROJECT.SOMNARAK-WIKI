@@ -27,7 +27,7 @@
 | Location | Zone E, Border region |
 | Form | A quiet border place where sound softens into one sleeping breath and the heavy ground urges the world to sleep. |
 | Gauge / pressure | 60–80% / Weight 29–62 |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Guarded Rest |
 
 ### Core Sorrow

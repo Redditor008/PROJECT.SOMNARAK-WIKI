@@ -27,7 +27,7 @@
 | Element | Weight — Black |
 | Form | Blank dense-black mask with impossible interior depth |
 | Location | SECTOR-C-01, Masked Troupe |
-| Observation Level | 3 — Advanced |
+| Comprehension Level | 3 — Advanced |
 | M.A.W. Set | Void Set |
 
 ### Core Sorrow

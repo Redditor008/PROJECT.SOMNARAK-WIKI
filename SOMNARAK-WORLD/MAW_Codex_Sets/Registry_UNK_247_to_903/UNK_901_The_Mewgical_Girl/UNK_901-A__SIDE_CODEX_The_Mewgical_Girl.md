@@ -38,7 +38,7 @@ Flerehan succeeds only when both are addressed. Pugnahan provokes Shu Shu’s bo
 | Element | Mixed — Light, Warmth, Spark, Flame, and Grudge expressions |
 | Manifestation | Hybrid `[H]` — Subject-Body / Subject-Spirit composite |
 | Location | Zone B — mobile; last observed near the Maw perimeter |
-| R.D. Observation Level | 1 — Initial |
+| R.D. Comprehension Level | 1 — Initial |
 | Starting Sorrow Gauge | 60–80% |
 | Activation threshold | Sorrow Gauge ≥ 75% or forced persona conflict |
 | Sorrow Gauge [HP] | 837/837 |

@@ -27,7 +27,7 @@
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A translucent child-like figure in a crown of crystallized tears, flickering as he asks where the absent person went. |
 | Gauge / pressure | 45–65% / Lament 15–35 |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Unanswered Court |
 
 ### Core Sorrow

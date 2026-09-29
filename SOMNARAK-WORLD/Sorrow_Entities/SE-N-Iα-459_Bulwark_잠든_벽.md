@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A wall lying flat across an empty Forge lot — ordinary stone at a glance, but its surface bears the low relief of a sleeping figure, eyes closed, breathing in the grain of the rock. Bloodless-cold, it smells of ash; a wall that once was, or still is, a person. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Offer presence without forcing entry |
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It absorbs ordinary sound but not emotional presence.
 - It warms near patient visitors.
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Bulwark (N-Iα-459 [VP]) is logged as a Place-Lament manifestation expressing Void (Pale White). The Wall formed from grief that withdrew into sleep. Held at Zone D, Forge District. It absorbs ordinary sound but not emotional presence.
@@ -364,7 +364,7 @@ Some sorrows are about rejection. Bulwark is about the failure to ask — the co
 **Classification:** Sorrow Entity — `N-Iα-459 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Place-Lament manifestation
 **Common Name:** Bulwark
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A wall built from the exhaustion of wanting connection and lacking the strength to ask. Effect: proximity induces fatigue of unexpressed loneliness.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

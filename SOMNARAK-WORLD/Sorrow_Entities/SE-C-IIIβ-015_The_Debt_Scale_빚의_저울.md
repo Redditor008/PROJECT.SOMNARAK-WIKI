@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A balance-scale on a frame of yellowed, articulating bone — clearly once living, now dead and smoothly jointed — from which hang two shallow dishes of cloudy crystal. It moves on its own, the bone frame creaking faintly, tilting with a patience that feels almost judicial. The bone is dry, light, and unnervingly warm to the touch. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-C-01, used by Collectors |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Precise and impartial |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, used by Collectors |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Scale is always correct by its own definition.
 - It does not distinguish inherited debt from personal debt unless asked.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Debt Scale (C-IIIβ-015 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
@@ -391,7 +391,7 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 **Classification:** Sorrow Entity — `C-IIIβ-015 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Debt Scale
 **Containment Status:** In use — Collector courts, Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Scale is an Object that weighs debt impartially. It does not attack. Risk: the Scale’s fairness is worse than corruption — it confirms the poor genuinely owe more.
 **Containment & Handling Procedures:**
 - Viderehan is the only valid Work Type.

@@ -27,7 +27,7 @@
 | Location | SECTOR-C-01, Mask Market |
 | Form | A tireless humanoid dancer of living flesh and bone, fever-hot beneath a smiling mask fused to the skin. |
 | Gauge / pressure | 35–50% / Grudge 8–20 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Borrowed Motion |
 
 ### Core Sorrow

@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A single massive bell, three meters tall, of dark Han-crystal veined with faint blue light, hung fixed within its tower and tolling with no hand to swing it. Its surface is cold and beaded like sweat, and the corroded metal has warped into the likeness of small, reaching hands. It is cast sorrow, not living tissue — and it rings for the children lost to the city's westward expansion, who will never grow old. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-B-01 — special tower in Zone B; contained |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Officium) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Entity (IV) — Self-aware, communicates through tolling |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-01 — special tower in Zone B; contained |
 | **Resolution Condition** | The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method |
@@ -349,7 +349,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - First Sorrow Entity formally classified by the R.D. as `IV-δ-001`.
@@ -374,7 +374,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Orphaned Bell (C-IVδ-001 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The bell formed during the westward expansion of Zone B. Hundreds of children were displaced: some were lost, some forgotten, and some vanished in the chaos. The collective grief of parents who never found them crystallized into the bell. Held at SECTOR-B-01 — special tower in Zone B; contained. First Sorrow Entity formally classified by the R.D. as IV-δ-001.
@@ -468,7 +468,7 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 **Classification:** Sorrow Entity — `C-IVδ-001 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** The Orphaned Bell
 **Containment Status:** Open display — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Bell tolls at midnight for lost children. Effect: hearing the toll induces parental grief.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

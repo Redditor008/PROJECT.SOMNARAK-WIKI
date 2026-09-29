@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Not a body but a sound — distant laughter that arrives warm and bright, then thins until it is quietly, unbearably sad. Nothing to see; only the laughter and its slow turning to grief. Salt-damp, it smells of cold rain. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone D, Mantle Commons — ambient |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | Let the laughter and grief coexist; do not suppress the sound |
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The sound is strongest in Mantle Commons at dusk.
 - It carries no physical vibration detectable by instruments.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Risus (C-Iα-150 [LO]) is logged as a Lament manifestation expressing Lament (Deep Blue). The Echo formed from laughter preserved after happiness had ended. Held at Zone D, Mantle Commons — ambient. The sound is strongest in Mantle Commons at dusk.
@@ -363,7 +363,7 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 **Classification:** Sorrow Entity — `C-Iα-150 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Risus
 **Containment Status:** Ambient — Zone D, Mantle Commons
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Minimal. Ambient laughter from a vanished community. Effect: hearing it induces the grief of joy remembered after its source is gone.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

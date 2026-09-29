@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — An invisible pressure with no body of its own, seen only as a dark outline bleeding out from people who have stopped speaking. Lead-cold, it smells of wet stone; nothing to strike — only the quiet, growing heavier around the silent. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone D, Mantle Commons — ambient |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats pressing |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | Allow safe speech; do not force a confession |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It appears around people who have stopped speaking about a shared event.
 - It glows when someone attempts to leave without speaking.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Weight of Silence (N-IIα-285 [WS]) is logged as a Subject-Weight manifestation expressing Weight (Black). The Weight formed from silence held as responsibility. Held at Zone D, Mantle Commons — ambient. It appears around people who have stopped speaking about a shared event.
@@ -348,7 +348,7 @@ Some sorrows are about speaking. Weight of Silence is about not speaking — the
 **Classification:** Sorrow Entity — `N-IIα-285 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Weight manifestation
 **Common Name:** Weight of Silence
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. Literal weight of words withheld to protect others. Effect: proximity induces the exhaustion of protective silence.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

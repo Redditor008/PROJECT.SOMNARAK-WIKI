@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A blank, featureless mask of dense black material — no eyes, mouth, or expression, a smooth face-shaped void. Its interior is impossibly deep. Lead-cold and heavy, it smells of wet stone. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats emptiness |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, contained with the Masked Troupe |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The Mask pulses near strong emotion but never develops a face.
@@ -310,7 +310,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Empty Mask (C-IIβ-054 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Mask formed from the sorrow of having no identity. Held at SECTOR-C-01, contained with the Masked Troupe. The Mask pulses near strong emotion but never develops a face.
@@ -399,7 +399,7 @@ Some sorrows mourn what was taken. The Empty Mask is what is left when the takin
 **Classification:** Sorrow Entity — `C-IIβ-054 [WO]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** The Empty Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Mask tries to replace identities. Left alone with personnel, it attempts to consume the self.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

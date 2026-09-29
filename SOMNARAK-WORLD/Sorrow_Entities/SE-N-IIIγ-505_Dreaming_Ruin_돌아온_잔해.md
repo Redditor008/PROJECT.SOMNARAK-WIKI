@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A dreamlike figure built from the pieces of a ruined room — broken plaster, splintered wood, a shattered window held in the shape of a person. It rebuilds itself whenever someone remembers it. Bloodless-cold, it smells of ash; forgotten, it falls back to dust. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Wake with an anchor and preserve the memory without rebuilding it |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It is more stable when a memory is shared by multiple people.
 - Its architecture changes with each observer.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Dreaming Ruin (N-IIIγ-505 [VS]) is logged as a Subject-Dream manifestation expressing Void (Pale White). The Ruin formed from a home remembered after it was destroyed. Held at Zone C, Mask Market. It is more stable when a memory is shared by multiple people.
@@ -353,7 +353,7 @@ Some sorrows mourn a place. Dreaming Ruin mourns the persistence of the place �
 **Classification:** Sorrow Entity — `N-IIIγ-505 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Dream manifestation
 **Common Name:** Dreaming Ruin
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A home dreamt back into half-existence. Effect: viewers see a flickering ruin between sleep and waking.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

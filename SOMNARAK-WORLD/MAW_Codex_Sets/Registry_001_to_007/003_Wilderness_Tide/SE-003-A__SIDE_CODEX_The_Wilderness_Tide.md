@@ -27,7 +27,7 @@
 | **Element** | Weight — Black |
 | **Form** | Raw wilderness Han surge, 3–15 meters in observed height |
 | **Location** | Zone E border / outer Desolate |
-| **Observation Level** | 5 — constant border monitoring |
+| **Comprehension Level** | 5 — constant border monitoring |
 | **M.A.W. Status** | No extractable M.A.W. |
 
 ### Core Sorrow

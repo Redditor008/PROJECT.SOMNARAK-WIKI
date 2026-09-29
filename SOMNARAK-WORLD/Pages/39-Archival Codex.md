@@ -12,7 +12,7 @@ To ensure consistency across 292 dossiers, archival researchers follow a rigorou
 +------------------------------------------------------------------------+
 | Archival Standard      | Master 18-Section Dossier Framework           |
 | Section Wings          | Identification - Parameters - Combat - Story  |
-| Observation Levels     | Level 1 (Basic) to Level 4 (M.A.W. & Full Lore|
+| Comprehension Levels   | Level 1 (Basic) to Level 4 (M.A.W. & Full Lore|
 | Integrity Audit        | Zero Seams - 74-Col Symmetry - Pan-Repo Sync  |
 | Supervising Body       | Directorate Archival Curation Division        |
 +========================================================================+
@@ -41,7 +41,7 @@ Every comprehensive entity dossier is structured into 18 standardized sections:
 6. **Containment Behavior:** Docile vs agitated mood shifts.
 7. **Breach Conditions:** Mugenhan counter triggers and escape mechanics.
 8. **M.A.W. Armaments:** Extractable weapons, suits, and stigmas.
-9. **Observation Levels:** Progressive unlocks across Levels 1 through 4.
+9. **Comprehension Levels:** Progressive unlocks across Levels 1 through 4.
 10. **Canonical Story:** Primary narrative log of the entity.
 11. **Final Observation:** Senior researcher's conclusive containment assessment.
 12. **Flavor Text:** Poetic or atmospheric reflections.

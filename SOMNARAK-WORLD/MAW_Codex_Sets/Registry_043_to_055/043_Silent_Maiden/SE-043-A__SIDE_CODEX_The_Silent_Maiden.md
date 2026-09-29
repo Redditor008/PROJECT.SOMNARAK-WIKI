@@ -27,7 +27,7 @@
 | Element | Void — Pale White |
 | Form | Nearly invisible young woman of crystallized silence |
 | Location | SECTOR-D-02, Three Sisters containment |
-| Observation Level | 4 — Mastered |
+| Comprehension Level | 4 — Mastered |
 | M.A.W. Set | Silence Set |
 
 ### Core Sorrow

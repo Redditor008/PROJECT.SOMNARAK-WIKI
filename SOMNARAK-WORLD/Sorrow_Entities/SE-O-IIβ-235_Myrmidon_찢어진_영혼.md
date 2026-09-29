@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A torn translucent figure, half-flesh and half-light, weeping from a clean split down its chest — its outline flickering as two selves try and fail to separate. Fever-cold, it smells of char; one grief torn into two, still trying to be whole. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Separate the person from the institution they represent; do not defend the institution |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The entity is more reactive to uniforms and official seals than to individuals.
 - It calms when a worker acknowledges institutional harm.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Myrmidon (O-IIβ-235 [GS]) is logged as a Subject-Lament manifestation expressing Grudge (Crimson). The Soul formed from a person divided by betrayal. Held at Zone A, Alpha Tree. The entity is more reactive to uniforms and official seals than to individuals.
@@ -351,7 +351,7 @@ Some sorrows are about betrayal. Myrmidon is about the betrayal that divides —
 **Classification:** Sorrow Entity — `O-IIβ-235 [GS]` · Grudge (Crimson) · Subject-Lament manifestation
 **Common Name:** Myrmidon
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

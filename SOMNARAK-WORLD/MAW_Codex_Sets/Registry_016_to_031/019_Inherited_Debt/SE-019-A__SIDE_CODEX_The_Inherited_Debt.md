@@ -27,7 +27,7 @@
 | **Element** | Weight — Black |
 | **Form** | Shadow, chest pressure, and ledger-whisper perceived by heavily indebted people |
 | **Location** | SECTOR-C-01 / Collector’s Row |
-| **Observation Level** | 3 — Understood |
+| **Comprehension Level** | 3 — Understood |
 | **M.A.W. Set** | Inheritance Set |
 
 ### Core Sorrow

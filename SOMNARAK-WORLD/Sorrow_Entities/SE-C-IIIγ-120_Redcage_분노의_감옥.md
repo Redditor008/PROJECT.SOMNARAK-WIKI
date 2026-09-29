@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — An empty cage of vertical bars that are not uniform metal: dark crimson, ridged, fused in places with what looks like calcified sinew and clenched-finger bone. The bars pulse together in a slow, angered rhythm. There is no door and no prisoner; the cage itself is what is furious. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-B-01, Zone B |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Furious and trapped |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Cage is empty but never silent.
 - New injustice adds a bar.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Redcage (C-IIIγ-120 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Cage formed from people imprisoned without cause. Held at SECTOR-B-01, Zone B. The Cage is empty but never silent.
@@ -391,7 +391,7 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 **Classification:** Sorrow Entity — `C-IIIγ-120 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Object-Grudge manifestation
 **Common Name:** Redcage
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Cage is an empty structure with bars of crystallized rage. Proximity induces fury in personnel. No breach; the Cage is static. Risk is emotional contamination.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.

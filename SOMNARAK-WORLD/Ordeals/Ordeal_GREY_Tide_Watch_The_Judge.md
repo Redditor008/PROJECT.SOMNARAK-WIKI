@@ -20,7 +20,7 @@
 | **Instant Fracture** | Yes — on critical hits / special abilities |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Formation
 
@@ -125,7 +125,7 @@ The Judge is the most directly lethal Tide Watch Ordeal in the system. It does n
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - The Judge's advance never varies in speed — approximately 0.8 m/s, regardless of obstacle, opposition, or terrain.

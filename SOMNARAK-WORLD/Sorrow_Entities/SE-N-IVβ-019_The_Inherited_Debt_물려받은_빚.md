@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — It has no stable body of its own. The heavily indebted perceive it as a shadow clinging to their back, a whisper at the ear, a crushing pressure against the chest — a presence that rides bloodlines rather than standing in any one place. There is nothing to strike; only the weight, and the smell of wet stone and iron. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | SECTOR-C-01, Collector's Row — contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, communicates through debt visualization |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, Collector's Row — contained |
 | **Resolution Condition** | Acknowledge the inheritance and choose whether it will be carried. Physical restraint is useless |
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The entity has never physically breached containment; its influence has.
@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Inherited Debt (N-IVβ-019 [WS]) is logged as a Subject-Mind manifestation expressing Weight (Black). The Inherited Debt formed from families burdened by obligations they never created. Held at SECTOR-C-01, Collector's Row — contained. The entity has never physically breached containment; its influence has.
@@ -369,7 +369,7 @@ Some sorrows are about debt. The Inherited Debt is about the debt that became th
 **Classification:** Sorrow Entity — `N-IVβ-019 [WS]` · Per classification origin · Per classification coherence · Per classification potency · Weight (Black) · Subject-Mind manifestation
 **Common Name:** The Inherited Debt
 **Containment Status:** Contained — SECTOR-C-01, Collector's Row — contained
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

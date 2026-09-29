@@ -201,7 +201,7 @@ When authoring, auditing, or revising files within the `REFERENCE_SOMNARAK_WIKI/
 4. **Mandatory Sections for Entity Dossiers:** Every entity file in `01_Sorrow_Entities/` must feature:
    - Header with English codename and Korean designation.
    - Quotation block capturing the entity's psychological essence.
-   - SECC Classification Table (Designation, Entity Type, Coherence, Potency, Sorrow Category, Element, Manifestation, Physical Form, Movement, Location, R.D. Observation Level).
+   - SECC Classification Table (Designation, Entity Type, Coherence, Potency, Sorrow Category, Element, Manifestation, Physical Form, Movement, Location, R.D. Comprehension Level).
    - Operational parameters and work-type responses (Ferrehan, Flerehan, Pugnahan, Viderehan).
    - Narrative Origin / Breach Tale.
 5. **Canon Terminology is Binding:** Retain authentic Somnarak nomenclature: Sorrow Entities, SECC, Han, Absolvohan, Facility 01, Echo-Cores, Ordeals. Generic terminology substitutes are strictly forbidden.

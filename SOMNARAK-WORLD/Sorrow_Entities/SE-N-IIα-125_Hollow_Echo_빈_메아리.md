@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A voice with no stable body — at times a faint translucent outline, but mostly just sound, present everywhere at once. Bloodless-cold, it smells of ash; nothing to see, only the echo repeating a grief with no source. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone D, Echo Gardens — ambient |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats calling out |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Echo Gardens — ambient |
 | **Resolution Condition** | Answer: “I hear you.” Never promise help you cannot provide |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The Echo is ambient and has no confirmed physical body.
 - It responds to acknowledgment but continues calling afterward.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Hollow Echo (N-IIα-125 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The Echo formed from calls for help that went unanswered. Held at Zone D, Echo Gardens — ambient. The Echo is ambient and has no confirmed physical body.
@@ -347,7 +347,7 @@ Some sorrows are about being trapped. Hollow Echo is about being unheard — the
 **Classification:** Sorrow Entity — `N-IIα-125 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** Hollow Echo
 **Containment Status:** Contained — Zone D, Echo Gardens — ambient
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

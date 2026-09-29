@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — There is no body, only a seed-shaped hollow pressed into dark, lifeless soil, ringed by the black threads of dead roots reaching toward a center that is not there. The earth inside is ash-cold and grows nothing. Touch the absence and your fingertips come away damp, as though the ground itself weeps for what was never allowed to be. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -69,7 +69,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
 | **Resolution Condition** | Mark the absence; do not excavate or plant into it |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It cannot be physically collected.
 - The heartbeat appears during rain.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Unwitnessed (C-Iα-236 [LO]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Seed formed from potential lost before planting. Held at The Desolate, near The Scar. It cannot be physically collected.
@@ -395,7 +395,7 @@ Some sorrows mourn what died. Unwitnessed mourns what never got the chance.
 **Classification:** Sorrow Entity — `C-Iα-236 [LW]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Object-Weight manifestation
 **Common Name:** Unwitnessed
 **Containment Status:** Uncontained — Desolate, near the Scar
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minimal. Does not activate or breach. Dormant. Risk lies in potential: if conditions allow germination, the contained sorrow could escalate significantly.
 **Containment & Handling Procedures:**
 - Monitor for Han-density changes near the site.

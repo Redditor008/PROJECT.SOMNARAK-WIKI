@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A pillar-shaped presence sleeping inside consciousness rather than the world — its surface pale, its shadow reaching down into things forgotten. Bloodless-cold, it smells of ash; nothing to strike, only the dreaming column in the mind. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone E, Border region |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Ground the worker and establish a rotation of duty |
@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It has never fully awakened.
 - Its shadow grows when the worker refuses rest.
@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Dormant Monolith (N-IVδ-909 [N]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.
@@ -345,7 +345,7 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 **Classification:** Sorrow Entity — `N-IVδ-909 [N]` · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** Dormant Monolith
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

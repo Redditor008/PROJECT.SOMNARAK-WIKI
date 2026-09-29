@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A tall phantom warrior clad in armor grown from crystallized rage — dark-crimson plates fused to a body that is half-flesh, half-cooled fury, never fully solid. It carries a weapon of solidified anger and patrols the rift called the Scar without rest. Heat and the smell of old char roll off it; where it passes, the ground scorches faintly. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | The Desolate — patrols The Scar |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Territorial and responsive |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — patrols The Scar |
 | **Resolution Condition** | Show respect, salute its duty, and acknowledge its sacrifice |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - The Walker has never breached containment because The Scar is its territory, not a cell.
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Scar Walker (O-IIIδ-011 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The Walker formed from the collective rage of the six factions that fought in the Occlusihan. Held at The Desolate — patrols The Scar. The Walker has never breached containment because The Scar is its territory, not a cell.
@@ -360,7 +360,7 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 **Classification:** Sorrow Entity — `O-IIIδ-011 [GS]` · Grudge (Crimson) · Subject-Phantasmal manifestation
 **Common Name:** Scar Walker
 **Containment Status:** Contained — The Desolate — patrols The Scar
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

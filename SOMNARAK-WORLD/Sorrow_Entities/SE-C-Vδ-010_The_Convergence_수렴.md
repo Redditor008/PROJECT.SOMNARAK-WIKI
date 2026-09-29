@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies merged into one Sovereign form, wings layered over wings, the three beaks closed into a single mask, markings braided blue-crimson-white. It radiates all three sorrows at once; lead-heavy and cold, it smells of cold rain, char, and ash together. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Forms only when Entities 031–033 breach simultaneously |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Forms only when Entities 031–033 breach simultaneously |
 | **Resolution Condition** | Separate Entities 031, 032, and 033 within twelve seconds |
@@ -250,7 +250,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - Formed exactly seven times in recorded history before the current cycle.
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Convergence (C-Vδ-010 [WS]) is logged as a Subject-Body — fusion of the Three Birds manifestation expressing Weight (Black). The Convergence is not born from one sorrow. It is the completed shape of witnessing, judgment, and protection without mercy. Held at Forms only when Entities 031–033 breach simultaneously. Formed exactly seven times in recorded history before the current cycle.
@@ -371,7 +371,7 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 **Classification:** Sorrow Entity — `C-Vδ-010 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Subject-Body manifestation
 **Common Name:** The Convergence
 **Containment Status:** Prevented — Three Birds containment maintained
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic (potential). If the Three Birds merge, the Convergence sentences everything it sees. Twelve seconds to separate. Those sentenced Fracture.
 **Containment & Handling Procedures:**
 - Maintain Three Birds separation at all costs.

@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A flickering shard of the Dream realm that will not settle — shifting between the shape of a room, a face, and a single warm tear hung in the air. Never quite solid, never quite not; salt-damp, it smells of cold rain and something just below waking. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | SECTOR-A-01, near Dream Gates |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats flickering |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It glows near sleeping personnel.
 - Each observer sees a different fragment.
@@ -307,7 +307,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Rem (C-IIβ-135 [LO]) is logged as a Dream manifestation expressing Lament (Deep Blue). The Fragment formed from a dream that was abandoned before waking. Held at SECTOR-A-01, near Dream Gates. It glows near sleeping personnel.
@@ -397,7 +397,7 @@ Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, 
 **Classification:** Sorrow Entity — `C-IIβ-135 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Dream manifestation
 **Common Name:** Rem
 **Containment Status:** Contained — Dream Gates
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Fragment drifts, half-formed. Touching it induces vivid visions of unlived lives. No breach.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

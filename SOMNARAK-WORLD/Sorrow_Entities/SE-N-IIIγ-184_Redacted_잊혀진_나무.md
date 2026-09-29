@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A humanoid tree of dark crystal with a face pressed into its trunk and bare branches where memories should hang but do not. Bloodless-cold, it smells of ash; the empty branches are the shape of everything it has forgotten. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone E, Border region |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Do not supply false memories; record the absence |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It grows around incomplete records and forgotten names.
 - It never shows a complete face.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Redacted (N-IIIγ-184 [N]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Tree formed from a life erased while still being lived. Held at Zone E, Border region. It grows around incomplete records and forgotten names.
@@ -351,7 +351,7 @@ Some sorrows mourn the forgotten. Redacted is the forgetting itself — the eras
 **Classification:** Sorrow Entity — `N-IIIγ-184 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** Redacted
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree-shaped absence where a life was erased. Effect: proximity induces the maddening awareness of something missing, unidentifiable.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

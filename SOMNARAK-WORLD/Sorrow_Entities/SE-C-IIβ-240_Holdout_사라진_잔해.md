@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A stand of broken walls that should not be there: rough grey stone fused with the blackened grain of long-dead timber and, here and there, the calcium gleam of old bone set into the mortar. The walls resolve only when someone actively remembers the building that once stood; forgotten, they haze back into dust. The stone is cold, but the dead wood still seems to bleed a sap that is not sap. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Memorialize the structure; do not reconstruct a false version |
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It appears only when someone remembers the destroyed site.
 - Its pressure is stronger around Architects.
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Holdout (C-IIβ-240 [GP]) is logged as a Place-Weight manifestation expressing Grudge (Crimson). The Ruin formed from a place destroyed while someone still believed it could be saved. Held at Zone A, Alpha Tree vault. It appears only when someone remembers the destroyed site.
@@ -369,7 +369,7 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Classification:** Sorrow Entity — `C-IIβ-240 [GP]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Weight manifestation
 **Common Name:** Holdout
 **Containment Status:** Contained — Alpha Tree vault, Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Ruin does not breach but influences nearby structures, causing phantom-room perceptions in personnel. Grudge-element pressure can destabilize adjacent containment.
 **Containment & Handling Procedures:**
 - Maintain Han-shielded containment in the Alpha Tree vault.

@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Less a body than a burning pressure, shaped like a relic carried just beneath the skin — visible only as a red outline flaring around objects fading from memory. Nothing solid to grasp; only heat and glow. Fever-hot, it smells of char and old smoke. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Name the owners and purpose; do not force preservation |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It spreads from object to object through emotional association.
 - It burns without damaging material.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Flotsam (C-IIβ-782 [GS]) is logged as a Subject-Weight manifestation expressing Grudge (Crimson). The Relic formed from a treasured object becoming meaningless over time. Held at Zone B, Old Lament. It spreads from object to object through emotional association.
@@ -353,7 +353,7 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 **Classification:** Sorrow Entity — `C-IIβ-782` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Weight manifestation
 **Common Name:** Flotsam
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Relic fades as its purpose is forgotten. Effect: holders feel the grief of inherited incomprehension.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

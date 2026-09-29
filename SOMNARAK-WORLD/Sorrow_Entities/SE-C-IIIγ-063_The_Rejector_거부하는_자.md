@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A thin young man of true flesh and bone, defiant in posture but almost weightless — lighter than he should be, as though something has been taken from him. His eyes are empty, his skin bloodless and pale. He is cold to the touch, and near him, the flat smell of ash. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-C-01, contained with the Debt Triplets |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Defiant and stubborn |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, contained with the Debt Triplets |
 | **Resolution Condition** | Permit him to refuse; forced acceptance increases resistance |
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - The Rejector's refusal is not anger; it is emotional vacancy.
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Rejector (C-IIIγ-063 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Rejector formed from the son's refusal to accept a debt he did not create. Held at SECTOR-C-01, contained with the Debt Triplets. The Rejector's refusal is not anger; it is emotional vacancy.
@@ -356,7 +356,7 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 **Classification:** Sorrow Entity — `C-IIIγ-063 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Rejector
 **Containment Status:** Contained — Zone C, with the Debt Triplets
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Rejector is defined by absence.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

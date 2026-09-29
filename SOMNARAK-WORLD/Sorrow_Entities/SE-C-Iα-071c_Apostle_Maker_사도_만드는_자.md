@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — Barely recognizable from the Kind Healer's small, sorrowful form. Apostle Maker is taller, radiant, almost angelic. Golden light radiates from within, visible even through her clothing. Her hands are permanently aglow — no longer the faint gold of the Blessing Giver but a steady, warm brilliance. Her eyes shine with an intensity that is no longer grief — it is conviction. Wings of light have begun to form at her shoulders: not fully physical, not entirely real, but undeniable to anyone who sees them. Her cloak has transformed from grey mourning clothes to flowing white and gold. |
 | **Movement** | Mobile — moves with purpose and authority; no longer seeks permission |
 | **Location** | SECTOR-D-01 — but roams freely, drawn to the remaining unconverted |
-| **R.D. Observation Level** | 3 — Critical |
+| **R.D. Comprehension Level** | 3 — Critical |
 
 > **Registry note:** Stage 3 of the Kind Healer transformation chain. The entity actively seeks the remaining blessed personnel and completes their conversion. This stage is the point of no return — suppression is theoretically possible but has never been attempted. The chain will complete at Stage 4a (Hope) or 4b (Sorrow).
 
@@ -31,7 +31,7 @@
 | **Primary pressure** | Composure, Clarity |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 14–22 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Critical |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Critical |
 | **Activation threshold** | Twelfth conversion beginning |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Theoretically yes; never attempted |
@@ -248,7 +248,7 @@ The healer learned to command. And the command is almost finished. One more word
 **Classification:** Sorrow Entity — `C-IIγ-071c [LS]` · City origin · Echo (II) coherence · Major (γ) potency · Mixed element · Subject-Body manifestation
 **Common Name:** Apostle Maker
 **Containment Status:** Uncontained — roams freely during conversion sequence
-**Observation Level:** 3 — Critical
+**Comprehension Level:** 3 — Critical
 **Threat Assessment:** Major and escalating toward Stage 4. The entity cannot be contained during the conversion sequence. The R.D.'s only option is to monitor the wing color and prepare for either Hope (4a) or Mourning (4b).
 
 ### Registry Addendum

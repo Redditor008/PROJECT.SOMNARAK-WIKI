@@ -27,7 +27,7 @@
 | Location | SECTOR-B-02, Zone B |
 | Form | A saint-shaped figure of melting wax and crystallized tears, resetting its features to mirror a future grief it has already perceived. |
 | Gauge / pressure | 60–80% / Lament 29–62 |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Present Mercy |
 
 ### Core Sorrow

@@ -203,7 +203,7 @@ A wall had become a procession. And Taeho, for the first time since the district
 **Common Name:** The Shield of Dawn (새벽의 방패)
 **Bearer:** Taeho, The Commander
 **Bond / Containment Status:** Active, bonded to Hope Bearer Taeho. Not contained; deployed with Dawn Initiative operations. Emergency transfer to a second wearer permitted only for evacuation.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior; highly responsive to collective danger and resistant to Sorrow Entity corruption. Operational risk is dual: (1) Bearer overextension when holding a barrier beyond endurance limits; (2) misuse as an invulnerability system leading personnel to treat static defense as sufficient. The Shield protects a group only while that group retains the ability to move, communicate, and choose.
 **Operational & Handling Procedures:**
 - Static preservation without an evacuation plan is classified as misuse. Every formation must include a route.

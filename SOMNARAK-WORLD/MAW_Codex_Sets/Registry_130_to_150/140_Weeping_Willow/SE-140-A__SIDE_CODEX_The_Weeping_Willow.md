@@ -27,7 +27,7 @@
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A massive living willow whose long branches carry pale crystal tear-leaves that shatter silently when they fall. |
 | Gauge / pressure | 45–65% / Lament 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Gentle Endings |
 
 ### Core Sorrow

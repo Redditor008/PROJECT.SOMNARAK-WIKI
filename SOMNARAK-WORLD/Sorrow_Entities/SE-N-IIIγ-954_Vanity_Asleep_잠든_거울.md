@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A sleeping, mirror-like figure lying still, its surface showing the viewer's face only after the viewer has looked away — never while watched. Bloodless-cold, it smells of ash; glance back and the reflection is already gone. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Do not wake it by force; look at the reflected self without turning away |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It remains dormant under ordinary observation.
 - It wakes when someone denies a reflection they have already seen.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Vanity Asleep (N-IIIγ-954 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void (Pale White). The Mirror formed from self-knowledge that people were too exhausted to face. Held at Zone A, Alpha Tree. It remains dormant under ordinary observation.
@@ -347,7 +347,7 @@ Some sorrows are about what was lost. Vanity Asleep is about what is avoided —
 **Classification:** Sorrow Entity — `N-IIIγ-954 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void (Pale White) · Subject-Phantasmal manifestation
 **Common Name:** Vanity Asleep
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

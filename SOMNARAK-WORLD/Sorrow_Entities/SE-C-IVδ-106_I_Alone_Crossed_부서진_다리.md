@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — Not a structure but a bridge-shaped consciousness — a pressure in the mind more than a thing in the world, felt as the weight of a broken promise and a violent crossing. Those near it sense a span beneath their feet that isn't there. Salt-damp, it smells of cold rain. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate, near The Scar |
 | **Resolution Condition** | Name the limits of one person's responsibility |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It manifests mentally around The Scar.
 - It mirrors the worker's own fear of failure.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 I Alone Crossed (C-IVδ-106 [O]) is logged as a Subject-Mind manifestation expressing Lament (Deep Blue). The Bridge formed from a crossing that became a personal failure. Held at The Desolate, near The Scar. It manifests mentally around The Scar.
@@ -353,7 +353,7 @@ Some sorrows mourn the dead. I Alone Crossed mourns the living — the guide who
 **Classification:** Sorrow Entity — `C-IVδ-106 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Mind manifestation
 **Common Name:** I Alone Crossed
 **Containment Status:** Contained — Zone D
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The guide stands at the edge, carrying survivor’s guilt. Effect: proximity induces the corrosive belief that survival cost others their lives.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

@@ -33,7 +33,7 @@
 |   | Posture 220/220 (High-velocity identity siphons)                   |
 | 2. Facemask Veil   : 1,100 HP                                          |
 |   | Posture 240/240 (Mirage reflection shield)                         |
-| 3. Shadow Ego Core : 1,600 HP                                          |
+| 3. Shadow Self Core : 1,600 HP                                         |
 |   | Posture 280/280 (Central hollow heart)                             |
 +========================================================================+
 ```
@@ -101,7 +101,7 @@ Drone M-PROJ-01 deployed the ten-node tactical spatial grid across the reflectiv
 +=====================================================================+
 ```
 
-The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass Daggers** capable of identity siphoning to drain Seiyon's composure while generating mirage duplicates. Seiyon's battle strategy required intercepting the opening lunges with `[Prismatic Aegis: Kinetic Deflection]`, shattering the daggers to strip the entity of its offensive momentum, and then piercing the **Facemask Veil** to expose the fragile **Shadow Ego Core**.
+The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass Daggers** capable of identity siphoning to drain Seiyon's composure while generating mirage duplicates. Seiyon's battle strategy required intercepting the opening lunges with `[Prismatic Aegis: Kinetic Deflection]`, shattering the daggers to strip the entity of its offensive momentum, and then piercing the **Facemask Veil** to expose the fragile **Shadow Self Core**.
 
 ---
 
@@ -296,7 +296,7 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 
 ### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * The Memory Thief remains completely stunned against the wall; the Shadow Ego Core is exposed and leaking black mist.
+  * The Memory Thief remains completely stunned against the wall; the Shadow Self Core is exposed and leaking black mist.
   * Seiyon coordinates an all-out offensive barrage targeting the exposed heart.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Four-Fold Stiletto Void Flurry]`. Spends 2 AP on `[Mnemonic Drive]`.

@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — An empty vault holding the absence of a flame — the room warm around a dark shape where fire should be, but no fire, only the heat and the negative space of it. Salt-warm, it smells of cold rain and old smoke; the missing flame is felt, not seen. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Complete the memorial without attempting to recreate the original flame |
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The vault's temperature changes despite no measurable flame.
 - Personnel experience emptiness before grief.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Memorial Flame Mid-Ceremony (C-IVδ-763 [LP]) is logged as a Place-Void manifestation expressing Lament (Deep Blue). The Flame formed from a fire extinguished before its owner could grieve. Held at Zone A, Alpha Tree vault. The vault's temperature changes despite no measurable flame.
@@ -363,7 +363,7 @@ Some sorrows mourn the dead. Memorial Flame Mid-Ceremony mourns the unfinished �
 **Classification:** Sorrow Entity — `C-IVδ-763 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Place-Void manifestation
 **Common Name:** Memorial Flame Mid-Ceremony
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. An extinguished memorial flame; incomplete grief migrates into passersby. Effect: visitors absorb others’ unfinished mourning.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

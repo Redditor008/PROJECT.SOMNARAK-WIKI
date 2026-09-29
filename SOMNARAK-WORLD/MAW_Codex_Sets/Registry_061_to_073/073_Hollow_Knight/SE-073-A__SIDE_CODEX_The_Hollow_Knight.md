@@ -27,7 +27,7 @@
 | Element | Grudge — Crimson |
 | Form | Empty ancient armor with weapon and shield |
 | Location | SECTOR-B-01, duty-continuity chamber |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Duty Set |
 
 ### Core Sorrow

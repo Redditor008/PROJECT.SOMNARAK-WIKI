@@ -27,7 +27,7 @@
 | Location | Zone D, Forge District |
 | Form | A rusted support pillar that once was a worker holding a collapsing structure, now fused into the foundation and still carrying what no one asks it to release. |
 | Gauge / pressure | 25–40% / Weight 3–10 |
-| Observation Level | 1 — Observed |
+| Comprehension Level | 1 — Observed |
 | M.A.W. Set | Shared Support |
 
 ### Core Sorrow

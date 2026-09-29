@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A ghostly tree-beast whose trunk has split into a body and four moving root-limbs, a howling face in its bark, branches thrashing like arms — a burning, weeping creature. Warm and mobile, it smells of cold rain and char. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Speak the soldier's duty without forcing a false name |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It appears most clearly near military masks.
 - Its branches do not cast ordinary shadows.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Drowned Roots (C-IIβ-997 [D]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Tree formed from the rage of a soldier never honored. Held at Zone C, Mask Market. It appears most clearly near military masks.
@@ -347,7 +347,7 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 **Classification:** Sorrow Entity — `C-IIβ-997` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** Drowned Roots
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree grown from an unacknowledged sacrifice. Effect: personnel feel the fury of denied recognition.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.

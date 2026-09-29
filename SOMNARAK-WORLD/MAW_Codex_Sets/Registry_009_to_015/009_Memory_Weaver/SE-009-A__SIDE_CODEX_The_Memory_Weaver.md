@@ -27,7 +27,7 @@
 | **Element** | Void — Pale White |
 | **Form** | Spider-like body woven from crystallized memories |
 | **Location** | SECTOR-B-02, Zone B archive annex |
-| **Observation Level** | 3 — Understood |
+| **Comprehension Level** | 3 — Understood |
 | **M.A.W. Set** | Forgotten Set |
 
 ### Core Sorrow

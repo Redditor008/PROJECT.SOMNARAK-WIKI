@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A translucent figure, half-light and half-flesh, that weeps as it walks without pause — its face changing whenever someone tries to remember it. Salt-damp and faintly warm, it smells of cold rain; a soul no one can keep in mind. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Do not invent a name; remain present and record what is known |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The face changes when a false name is offered.
 - It becomes calmer when uncertainty is honestly acknowledged.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten Soul (O-IIIγ-233 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Soul formed from a person forgotten before their death was fully mourned. Held at Zone B, Old Lament. The face changes when a false name is offered.
@@ -347,7 +347,7 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 **Classification:** Sorrow Entity — `O-IIIγ-233 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** Forgotten Soul
 **Containment Status:** Contained — Zone B, Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

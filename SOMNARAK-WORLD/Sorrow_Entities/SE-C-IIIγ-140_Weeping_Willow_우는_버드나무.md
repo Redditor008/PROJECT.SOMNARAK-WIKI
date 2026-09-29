@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A massive, ancient willow of true living wood — bark furrowed and damp, limbs heavy and sweeping the ground — yet its leaves are not leaves but long, slow-falling tears of pale crystal that shatter silently on contact. Dark sap runs warm and salt-bitter from cracks in the trunk. The tree is unmistakably alive: it breathes, and shudders in wind no one else feels. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | SECTOR-D-02, Echo Gardens |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Ancient and sorrowful |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit beneath it and allow endings to be acknowledged |
@@ -252,7 +252,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Its leaves fall even without wind.
 - It is most active around funerals and departures.
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Weeping Willow (C-IIIγ-140 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Willow formed from the sorrow of endings. Held at SECTOR-D-02, Echo Gardens. Its leaves fall even without wind.
@@ -364,7 +364,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 **Classification:** Sorrow Entity — `C-IIIγ-140 [LP]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Weeping Willow
 **Containment Status:** Contained — Echo Gardens, Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Minimal. The Willow is a tree, not a creature. It weeps for beautiful endings. Effect is tender, not harmful. Visitors report a gentle ache, not distress.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

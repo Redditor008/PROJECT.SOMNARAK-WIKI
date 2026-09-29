@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A humanoid wreathed in slow fire, carrying nothing, yet the air behind its back bends and sags under an invisible weight no one can see. Motionless until approached, then it turns. Fever-hot, it smells of char and old smoke; the unseen burden presses on anyone near. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Do not replace the missing thing with a false explanation |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It stands near sealed archives and forgotten vaults.
 - The fire brightens when personnel claim nothing was lost.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Carrying Nothing (C-IIβ-357 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge (Crimson). The entity formed from a burden that was removed without being resolved. Held at Zone A, Alpha Tree vault. It stands near sealed archives and forgotten vaults.
@@ -353,7 +353,7 @@ Some sorrows are heavy. Carrying Nothing is the opposite — the sorrow of a lig
 **Classification:** Sorrow Entity — `C-IIβ-357 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Grudge manifestation
 **Common Name:** Carrying Nothing
 **Containment Status:** Contained — Zone A
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The entity drifts, lighter than air. Effect: proximity induces the wrongness of something essential missing.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

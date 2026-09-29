@@ -171,7 +171,7 @@ And her husband's name, written last on the first tablet, became the proof that 
 **Common Name:** The Standing Witness (서 있는 증인)
 **Bearer:** Chunhwa, The Widow
 **Bond / Containment Status:** Active, bonded to Hope Bearer Chunhwa. Not contained; deployed for observation, testimony, and remembrance. The Bearer requires scheduled periods without testimony collection.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior. Exceptional archival and civic value. The Witness observes, records, and preserves testimony; it reveals suppression without forcing a single interpretation and preserves conflicting memories without deleting either. It cannot decide guilt, replace a court, or guarantee that truth produces immediate justice. Primary risk is Bearer burnout—the emotional pressure of preserved testimony, sleeplessness, and the inability to pass a place of suffering without documenting it. The Witness weakens when the Bearer records everyone except herself.
 **Operational & Handling Procedures:**
 - Enforce Bearer rest periods with no testimony collection; cumulative emotional weight requires discharge.

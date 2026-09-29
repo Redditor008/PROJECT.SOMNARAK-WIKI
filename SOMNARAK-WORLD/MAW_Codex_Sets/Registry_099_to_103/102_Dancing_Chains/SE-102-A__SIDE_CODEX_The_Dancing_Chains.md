@@ -27,7 +27,7 @@
 | Location | SECTOR-B-01, Zone B |
 | Form | Two links of grown, vertebra-ridged crimson chain that bind a wearer and compel relentless dance-like movement. |
 | Gauge / pressure | 45–65% / Grudge 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Unbound Step |
 
 ### Core Sorrow

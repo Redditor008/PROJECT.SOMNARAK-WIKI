@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A hunched humanoid scarcely a meter tall, wrapped in skin so thin and dry it is nearly translucent — the color of old, damp-stained paper — through which the dull white gleam of its bones shows. It has no mouth; its hands are oversized, soft, cold, and faintly sticky, like something that has been handling wet clay. It smells of dust and old ledgers. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-C-01, Zone C — Collector use; contained |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Personality shaped by origin |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, Zone C — Collector use; contained |
 | **Resolution Condition** | Provide a specific amount of Echoes for absorption. Once fed, the fog dissipates |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - Flerehan calms no part of its function, but Viderehan and Ferrehan reduce its gauge.
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Debt Eater (C-IIIβ-014 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Debt Eater crystallized from the collective refusal of early Zone B citizens to pay debts imposed by the Collectors. Held at SECTOR-C-01, Zone C — Collector use; contained. Flerehan calms no part of its function, but Viderehan and Ferrehan reduce its gauge.
@@ -365,7 +365,7 @@ Some sorrows mourn what was taken. The Debt Eater mourns what was never agreed t
 **Classification:** Sorrow Entity — `C-IIIβ-014 [VS]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Debt Eater
 **Containment Status:** Contained — Zone C, Collector district
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Debt Eater is a Subject that consumes debt from ledgers. It does not attack personnel. Risk: the consumed debts return in other forms. The Eater is persistent and mobile within its containment.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are valid Work Types.

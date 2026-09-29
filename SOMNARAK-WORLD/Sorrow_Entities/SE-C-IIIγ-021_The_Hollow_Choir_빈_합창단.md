@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — It has no body of its own: it manifests as one hundred forty-four ethereal voices filling a built amphitheater, with no singers on the empty stage. The stage, walls, ceiling, and floor themselves seem to voice the sound, vibrating like a living throat. There is nothing to touch — only the song, and the cold-rain smell of grief it carries. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | SECTOR-C-01, amphitheater in Zone C; contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Personality and response shaped by music |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, amphitheater in Zone C; contained |
 | **Resolution Condition** | Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The Choir contains exactly 144 voices.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Hollow Choir (C-IIIγ-021 [LS]) is logged as a Subject-Spirit manifestation expressing Lament (Deep Blue). The Hollow Choir formed from citizens silenced by oppression in early Zone C. Held at SECTOR-C-01, amphitheater in Zone C; contained. The Choir contains exactly 144 voices.
@@ -367,7 +367,7 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 **Classification:** Sorrow Entity — `C-IIIγ-021 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Spirit manifestation
 **Common Name:** The Hollow Choir
 **Containment Status:** Contained — Zone C amphitheater
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Choir sings unfinished songs. Exposure causes personnel to hear their own unfinished sentences. Psychological effect is significant; no Fractures recorded.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type; the Choir responds to shared grief.

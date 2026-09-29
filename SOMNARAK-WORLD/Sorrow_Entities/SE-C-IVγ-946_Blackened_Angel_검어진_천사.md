@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A small statue of a female angel — a graceful woman's figure in miniature, barely 80 cm tall, normal adult proportions scaled down — palms open and wings half-folded in the posture of giving. She was once bright gold from crown to foot; now the gold survives only in flecks and veins, the rest gone over to a dull, weeping black, as though the figure had been left too long in smoke. A shallow stone dish sits at her feet to catch the tears — and the tears pool there, black now, where they once pooled blue. |
 | **Movement** | Fixed — the statue does not move from its alcove; only the tarnish moves, spreading outward from its base a little further with every cruel wish. |
 | **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site) |
-| **R.D. Observation Level** | 3 — Monitored |
+| **R.D. Comprehension Level** | 3 — Monitored |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Resolve |
 | **Starting Sorrow Gauge** | 55–75% (it begins each cycle already heavy with old wishes) |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Monitored |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
 | **Activation threshold** | Any spoken wish directed at the statue |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; shattering the figure does not end it. The gold refuses to stay broken, and the sorrow simply settles elsewhere. |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 55–75% |
-| **Difficulty** | High · R.D. Observation Level 3 — Monitored |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Monitored |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Tarnished Shrine, SECTOR-A-04, Zone A |
 | **Resolution Condition** | Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand |
@@ -282,7 +282,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Monitored
+**R.D. Comprehension Level:** 3 — Monitored
 
 **Key Observations:**
 - The ratio of remaining gold to black is a direct measure of accumulated cruel wishes; the gold shrinks a shade for every cruelty granted.
@@ -305,7 +305,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Blackened Angel (C-IVγ-946 [WO]) is logged as an Object-Tale manifestation expressing Weight (Black). The entity is a small female-angel statue, barely 80 cm tall, once golden, now largely black, that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue) into a stone dish. Contained on-site at the Tarnished Shrine, SECTOR-A-04, Zone A. The Shrine is sealed against petitioners.
@@ -400,7 +400,7 @@ So if you ever find the little stone alcove where three alleys meet, and the sma
 **Classification:** Sorrow Entity — `C-IVγ-946 [WO]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Object-Tale manifestation
 **Common Name:** Blackened Angel (검어진 천사)
 **Containment Status:** Contained on-site — the Tarnished Shrine, SECTOR-A-04, Zone A (sealed against petitioners)
-**Observation Level:** 3 — Monitored
+**Comprehension Level:** 3 — Monitored
 **Threat Assessment:** Major. A sentient wishing-statue that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue). Cruel wishes tarnish it further and draw the wisher toward its maddening Face. Not aggressive, but contact is hazardous; the curious and the spiteful are drawn to wish, and the price of a wish has grown heavier since the gold went black.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only; Flerehan and Pugnahan are invalid for this Object entity.

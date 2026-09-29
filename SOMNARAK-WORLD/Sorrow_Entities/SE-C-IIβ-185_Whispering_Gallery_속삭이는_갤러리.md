@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A long gallery of old oil portraits — faceless paintings lining the walls, their blank oval faces humming with overlapping whispers. The paint is cracked and salt-damp; the portraits lean forward as if to speak. It smells of cold rain and old canvas. |
 | **Movement** | Stationary — an artwork. |
 | **Location** | SECTOR-B-01, Zone B |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats whispering |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | Restore names and listen without replacing missing details |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Portraits change when a forgotten name is restored.
 - The floor hums near older memories.
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Whispering Gallery (C-IIβ-185 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Gallery formed from lives displayed without being remembered. Held at SECTOR-B-01, Zone B. Portraits change when a forgotten name is restored.
@@ -359,7 +359,7 @@ Some sorrows mourn the forgotten. Whispering Gallery mourns the half-remembered 
 **Classification:** Sorrow Entity — `C-IIβ-185 [LP]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Place-Lament manifestation
 **Common Name:** Whispering Gallery
 **Containment Status:** Contained — Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Gallery holds unnamed portraits that whisper. Effect: visitors feel the ache of being seen but not known.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.

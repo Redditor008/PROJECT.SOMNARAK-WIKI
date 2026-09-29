@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A massive wall of dark, dense crystallized debt blocking a thoroughfare, its blocks cold and lead-heavy. New blocks bud whenever a fresh obligation is recorded, so the wall is always growing. It smells of wet stone and iron; pressed to it, you can hear ledgers being turned. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-C-01, Collector's Row |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Impenetrable and heavy |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Measure and acknowledge the debt; the Wall cannot be demolished |
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Wall grows with city-wide debt accumulation.
 - Its blocks contain individual obligations and promises.
@@ -282,7 +282,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Owed (C-IIIγ-180 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Wall formed from unpaid obligations accumulated across Somnarak. Held at SECTOR-C-01, Collector's Row. The Wall grows with city-wide debt accumulation.
@@ -372,7 +372,7 @@ Some sorrows are carried. Owed is a sorrow that, carried too long by too many, s
 **Classification:** Sorrow Entity — `C-IIIγ-180 [WP]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** Owed
 **Containment Status:** Uncontained — Collector’s Row, Zone C
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Wall is a barrier of accumulated unpaid debt.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

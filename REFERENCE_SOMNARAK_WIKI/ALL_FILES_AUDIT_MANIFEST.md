@@ -253,7 +253,7 @@
 | 14 | `01_Somnarak_Wiki/mechanics/secc-classification-system.html` | SECC Classification System (AETHER to APOCRYPHA) — Somnarak Official Wiki | 383.5 KB | 4588 | 35653 | **83.3%** |
 | 15 | `01_Somnarak_Wiki/mechanics/taboo-resonance-mechanics.html` | Taboo Resonance &amp; Soul Calcification — Somnarak Official Wiki | 39.3 KB | 370 | 4268 | **83.3%** |
 | 16 | `01_Somnarak_Wiki/mechanics/the-four-ordeals.html` | The Four Ordeals of Facility 01 - Somnarak Official Wiki | 7.1 KB | 150 | 539 | **83.3%** |
-| 17 | `01_Somnarak_Wiki/mechanics/the-four-work-types.html` | The Four Work Types (Insight, Attachment, Repression, Extraction) — Somnarak Official Wiki | 149.4 KB | 1885 | 12764 | **83.3%** |
+| 17 | `01_Somnarak_Wiki/mechanics/the-four-work-types.html` | The Four Work Types (Viderehan, Ferrehan, Flerehan, Pugnahan) — Somnarak Official Wiki | 149.4 KB | 1885 | 12764 | **83.3%** |
 
 ### Category: `/project/` — Directorate Master Directives (2 files)
 | # | File Path | Document Title | Size | Lines | Words | Completion % |

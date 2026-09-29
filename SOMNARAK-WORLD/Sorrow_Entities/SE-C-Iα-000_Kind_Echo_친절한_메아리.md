@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A small, softly rounded figure the size of a curled child, warm to the touch like living skin rather than cold stone. Beneath a thin, pliant surface — faintly translucent, the color of pale dawn — a gentle blue luminescence pulses like a heartbeat. It is not carved or crystalline; it feels, unsettlingly, like holding something alive that has chosen to be still. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-D-01, The Forge District — Training Containment Unit |
-| **R.D. Observation Level** | 4 — Mastered (training entity; fully understood) |
+| **R.D. Comprehension Level** | 4 — Mastered (training entity; fully understood) |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Composure (minimal — gentle Lament presence) |
 | **Starting Sorrow Gauge** | 10–20% |
 | **Han-Energy yield** | 2–4 Han-Energy per successful work cycle (low; training yield) |
-| **Work difficulty** | Low · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Sorrow Gauge ≥ 80% (rarely reached; the entity is extremely stable) |
 | **Tool / M.A.W. grade** | α (Minor) — Standard Training M.A.W. |
 | **Vessel-Destructible** | Yes |
@@ -241,7 +241,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered (training entity; fully understood)
+**R.D. Comprehension Level:** 4 — Mastered (training entity; fully understood)
 
 **Key Observations:**
 - The entity is warm to the touch — the only Sorrow Entity with this property.
@@ -266,7 +266,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject-Lament, Residue coherence, Minor potency. The gentlest entity in the R.D. registry. Designated 000; permanently assigned to the Training Containment Unit, SECTOR-D-01. Warm to the touch. Does not attack.
@@ -367,7 +367,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 **Classification:** Sorrow Entity — `C-Iα-000 [LS]` · City (도한) origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
 **Containment & Handling Procedures:**
 - All four Work Types are equally effective — use for training.
@@ -387,7 +387,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Observation Level 4) and has been for millennia. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record. — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Comprehension Level 4) and has been for millennia. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record. — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
 
 **Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 6,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
 

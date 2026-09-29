@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A suit of ancient plate armor standing upright with nothing inside it — no body, no bones; the armor itself is the entity. It patrols continuously, weapon and shield raised, joints clanking with no flesh to move them. The metal is fever-hot and smells of char. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | SECTOR-B-01, Zone B — contained |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, driven by duty |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-01, Zone B — contained |
 | **Resolution Condition** | Salute its duty, acknowledge its sacrifice, and assign a clear completed task |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The armor is empty; no organic body exists inside.
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Hollow Knight (C-IVγ-073 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Knight formed from duty without purpose. Held at SECTOR-B-01, Zone B — contained. The armor is empty; no organic body exists inside.
@@ -364,7 +364,7 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 **Classification:** Sorrow Entity — `C-IVγ-073` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** The Hollow Knight
 **Containment Status:** Contained — border district
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Knight stands an eternal watch over nothing. Effect: proximity induces the exhaustion of purposeless duty.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

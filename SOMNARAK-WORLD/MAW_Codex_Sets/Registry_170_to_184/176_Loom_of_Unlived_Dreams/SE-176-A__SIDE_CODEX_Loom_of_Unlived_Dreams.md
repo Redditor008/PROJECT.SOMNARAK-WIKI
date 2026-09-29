@@ -27,7 +27,7 @@
 | Location | SECTOR-A-01, near Dream Gates |
 | Form | A massive pale Dream-stuff loom whose shuttle moves without hands, weaving visions, nightmares, and half-remembered rooms. |
 | Gauge / pressure | 45–65% / Lament 18–41 |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Woven Possibility |
 
 ### Core Sorrow

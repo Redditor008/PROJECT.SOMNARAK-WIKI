@@ -27,7 +27,7 @@
 | Location | The Desolate, near the Scar |
 | Form | A bridge-shaped consciousness perceived as an impossible span beneath the feet and a violent crossing replayed in the mind. |
 | Gauge / pressure | 60–80% / Lament 29–62 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Far Shore |
 
 ### Core Sorrow

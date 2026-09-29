@@ -173,7 +173,7 @@ Euncris Park, the Research Lead, recorded the only honest summary anyone could m
 **Classification:** Hope Hand — `HT-V-HH-001 [H]` · Hope-Hand aspect · Sovereign (V) coherence · Radiant (Ω) Hope intensity · All five Hope elements (Light, Warmth, Spark, Shield, Flame) · Hybrid Subject/field transformation presence
 **Common Name:** The Hand of Hope (희망의 손)
 **Status:** Unique current-cycle Sovereign Hope Entity; not contained. Activation requires Director-level authorization and Dawn Initiative coordination.
-**Observation Level:** 4 — Sovereign-Class Monitoring
+**Comprehension Level:** 4 — Sovereign-Class Monitoring
 **Hope Assessment:** No hostile behavior on record; radiant, distributed, and deliberately non-destructive. The Hand disperses concentrated sorrow so that people may feel it together without being overwhelmed by a single unbearable mass, transforming approximately 15% of affected sorrow into Hope under current-cycle conditions. It is medicine, not a cure: it cannot transform all sorrow, erase Han, or guarantee identical experience. Critical risk: a forced activation, concentrated firing, or attempt to demand identical emotions risks recreating the Dawn of Mourning rather than producing Hope. The Hand's current manifestation is unique; its opening was a one-time transformation event.
 **Operational & Handling Procedures:**
 - Activation requires shared contact, shared testimony, and the deliberate choice to feel together; the Absolvohan may focus reach but cannot substitute for participation.

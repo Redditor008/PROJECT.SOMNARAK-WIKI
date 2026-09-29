@@ -202,7 +202,7 @@ That was the day Yeonhwa understood what the Light was for. It was not a compass
 **Classification:** Hope Transformation — `HT-IV-HL-001 [S]` · Hope-Light aspect · Entity (IV) coherence · Warm (γ) Hope intensity · Light element · Subject-bonded manifestation
 **Common Name:** The Guiding Light (인도의 빛)
 **Bond / Containment Status:** Active, bonded to Hope Bearer Yeonhwa. Not contained; protected and deployed aboard the Lantern. Access requires Dawn Initiative authorization.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior on record. Resistant to Sorrow Entity corruption. Primary operational risk is to the Bearer: revealed routes routinely pass through high-sorrow zones, and prolonged use imposes cumulative emotional burden. The Light is guidance, not safety.
 **Operational & Handling Procedures:**
 - Treat the Light as an advisory instrument, never as an infallible command authority. Yeonhwa remains responsible for route decisions.

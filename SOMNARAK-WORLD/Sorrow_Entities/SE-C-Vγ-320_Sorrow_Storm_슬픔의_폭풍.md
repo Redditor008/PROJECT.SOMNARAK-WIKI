@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A city-wide storm of concentrated Han — black clouds that are not weather, a rain of dark crystal, a pressure that bends walls out of true. Lead-heavy, it smells of wet stone; there is no body, only the storm, and the slow structural groan beneath it. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | All zones — periodic phenomenon |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Sovereign (V) — Autonomous and destructive |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | All zones — periodic phenomenon |
 | **Resolution Condition** | Acknowledge sorrow and shelter until the Storm passes |
@@ -254,7 +254,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Storm follows major city-wide grief events.
 - It can cross the Veil temporarily.
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Sorrow Storm (C-Vγ-320 [D]) is logged as a Place-Weight manifestation expressing Weight (Black). The Storm formed from sorrow accumulating beyond the city's ability to release it. Held at All zones — periodic phenomenon. The Storm follows major city-wide grief events.
@@ -367,7 +367,7 @@ Some sorrows are gradual. Sorrow Storm is sudden — the accumulated suppressed 
 **Classification:** Sorrow Entity — `C-Vγ-320 [D]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight (Black) · Place-Weight manifestation
 **Common Name:** Sorrow Storm
 **Containment Status:** Uncontained — citywide (periodic catastrophe)
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Catastrophic (when it occurs). The Storm is the city’s suppressed grief breaking as weather. All entities breach; citizens Fracture en masse.
 **Containment & Handling Procedures:**
 - Maintain mourning cycles to prevent accumulation.

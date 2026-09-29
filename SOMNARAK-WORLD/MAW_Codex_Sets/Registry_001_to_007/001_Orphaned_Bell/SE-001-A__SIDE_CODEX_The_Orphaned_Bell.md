@@ -27,7 +27,7 @@
 | **Element** | Lament — Deep Blue |
 | **Form** | Three-meter Han-crystal bell fixed in its tower |
 | **Location** | SECTOR-B-01, Zone B |
-| **Observation Level** | 4 — Mastered |
+| **Comprehension Level** | 4 — Mastered |
 | **M.A.W. Set** | Lament’s Requiem Set |
 
 ### Core Sorrow

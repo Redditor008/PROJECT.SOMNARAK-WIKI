@@ -27,7 +27,7 @@
 | Element | Weight — Black |
 | Form | Bent elder bearing 7.3 tons of invisible burden |
 | Location | SECTOR-C-01, Debt Triplets containment |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Burden Set |
 
 ### Core Sorrow

@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A fruit-shaped presence that exists in consciousness rather than space — perceived as a familiar object returning to a place it could not possibly be. There is no true body; only the felt shape, the impossible return. Bloodless-cold, it smells of ash. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Anchor personnel to the present and name the difference between return and restoration |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The entity sings in consciousness rather than through air.
 - It is most active near old memories and the Alpha Tree.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Déjà Vu (C-IVδ-125 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The entity formed from something lost and recovered too late. Held at Zone A, Alpha Tree. The entity sings in consciousness rather than through air.
@@ -353,7 +353,7 @@ Some sorrows mourn what was lost. Déjà Vu mourns the return — the recovered 
 **Classification:** Sorrow Entity — `C-IVδ-125 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Mind manifestation
 **Common Name:** Déjà Vu
 **Containment Status:** Contained — Alpha Tree
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. The Fruit returned carrying the mind of the one who remembered it. Effect: holders feel the grief of recovery without restoration.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

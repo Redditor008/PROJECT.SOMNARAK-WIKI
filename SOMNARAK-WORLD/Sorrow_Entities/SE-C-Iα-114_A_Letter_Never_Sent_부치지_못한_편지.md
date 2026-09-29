@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the fold lines by flash-fire soot and sealed with dark indigo wax bearing the seal of the Sector-A-04 Line Archive Bureau. A faint rime of deep-blue Han-frost coats the surface, dropping local temperature by three degrees. The envelope trembles faintly whenever an operative carrying an unvoiced apology enters the chamber. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-04, Archive Vault 12 — contained |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 20–35% |
 | **Han-Energy yield** | 8–12 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · α (Minor) |
 | **Vessel-Destructible** | Yes — consumed upon single use |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) — Unread, preserved plea |
 | **Primary Pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 20–35% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-04, Archive Storage Vault |
 | **Resolution Condition** | The letter is safely archived or unsealed for its single-use emergency benediction |
@@ -258,7 +258,7 @@ M.A.W. extracted from single-use relics represents the lingering memory of the h
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The envelope remains at -3.2°C at all times.
 - Attempts to unfold the paper without breaking the seal cause immediate micro-fractures in the observer's skin.
@@ -277,7 +277,7 @@ M.A.W. extracted from single-use relics represents the lingering memory of the h
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Catalogued as a discrete Object manifestation expressing acute municipal Lament. Recovered from the deep substructure of Sector-A-04, preserved within an airtight lead canister behind the collapsed passenger terminal blast gates.
@@ -352,7 +352,7 @@ Decades later, when dredge teams broke through the petrified silt of the collaps
 **Classification:** Sorrow Entity — `C-Iα-114 [LO]` · City origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** A Letter Never Sent
 **Containment Status:** Contained — Sector-A-04 Archive Vault
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low. Non-hostile stationary object. High utility as emergency squad stabilization asset.
 **Containment & Handling Procedures:**
 - Maintain environmental temperature at or below 0°C to preserve wax stability.

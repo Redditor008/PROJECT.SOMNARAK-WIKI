@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A pale, bone-white bird of true flesh and feather — almost translucent, its plumage colourless, its eyes hollow and absorbing. It dives from above and shields what it has chosen to guard, marking the protected. It is bloodless and cold to the touch; near it, the flat smell of ash, and a silence that thickens. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Protective and fierce |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-01, contained with the Three Birds |
 | **Resolution Condition** | Thank the Bird and acknowledge that protection has been received |
@@ -242,7 +242,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - It grows more active during the Sorrow Tide.
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Guarding Bird (C-IIIγ-033 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Bird formed from the sorrow of protecting what could not be saved. Held at SECTOR-B-01, contained with the Three Birds. It grows more active during the Sorrow Tide.
@@ -359,7 +359,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 **Classification:** Sorrow Entity — `C-IIIγ-033 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** The Guarding Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Bird guards nothing. It paces its containment, wings half-spread. The guarding is compulsive and purposeless. Effect: personnel feel the exhaustion of loyalty without purpose.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type; the Bird responds to observation.

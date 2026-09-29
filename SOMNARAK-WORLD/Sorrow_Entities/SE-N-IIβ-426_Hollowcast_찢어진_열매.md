@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A person-shaped emptiness split open like a torn fruit — no body inside, only the hollow, with crimson light leaking from the opening. Fever-cold, it smells of char; the split shows nothing but the glow of what should have been within. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Use identity anchors and do not invent memories for it |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It communicates through emotion rather than language.
 - It watches personnel with curiosity.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Hollowcast (N-IIβ-426 [D]) is logged as a Subject-Void manifestation expressing Grudge (Crimson). The Fruit formed from a mind erased by its own pain. Held at Zone D, Forge District. It communicates through emotion rather than language.
@@ -349,7 +349,7 @@ Some sorrows are about losing memory. Hollowcast is about losing the self while 
 **Classification:** Sorrow Entity — `N-IIβ-426 [D]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Subject-Void manifestation
 **Common Name:** Hollowcast
 **Containment Status:** Contained — Zone D, Forge District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

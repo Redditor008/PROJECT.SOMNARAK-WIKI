@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — Not one body but a place: dark fruit trees whose fruit shrivels and fades the moment before it can be eaten, the ground beneath warm and bitter. Fever-hot, it smells of char and overripe sweetness; nothing here is ever ripe. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone C, Collector's Row |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row |
 | **Resolution Condition** | Acknowledge desire without promising fulfillment |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Fruit fades before reaching maturity.
 - It grows near debt disputes.
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Fading Fruit (N-IIβ-456 [N]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Fruit formed from desire made impossible by debt. Held at Zone C, Collector's Row. Fruit fades before reaching maturity.
@@ -359,7 +359,7 @@ Some sorrows are about hunger. Fading Fruit is about the system that produces hu
 **Classification:** Sorrow Entity — `N-IIβ-456 [N]` · Per classification origin · Per classification coherence · Per classification potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** Fading Fruit
 **Containment Status:** Contained — Zone C, Collector's Row
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

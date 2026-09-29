@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A giant carnivorous bloom the size of a cart, petals of dense black crystal that snap like a mouth — a mobile plant-beast dragging itself on thick root-legs toward prey. Lead-heavy, it smells of wet stone and rot. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone B, deep tunnels |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, deep tunnels |
 | **Resolution Condition** | Witness the memories and prevent unauthorized petal collection |
@@ -287,7 +287,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Its petals grow toward memorial objects.
 - It becomes heavier after tunnel deaths.
@@ -309,7 +309,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Devouring Bloom (C-IIIγ-916 [N]) is logged as a Object-Weight manifestation expressing Weight (Black). The Flower formed from sorrow preserved as weight. Held at Zone B, deep tunnels. Its petals grow toward memorial objects.
@@ -399,7 +399,7 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 **Classification:** Sorrow Entity — `C-IIIγ-916 [WO]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** Devouring Bloom
 **Containment Status:** Contained — Zone B, deep tunnels
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The Flower is a spreading crystalline bloom. Too beautiful to move.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

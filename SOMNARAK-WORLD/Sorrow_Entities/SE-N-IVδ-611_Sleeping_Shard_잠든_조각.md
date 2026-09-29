@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A sleeping figure curled around a large shard of pale crystal, weeping in its unconsciousness, its body slowly changing shape as it dreams. Bloodless-cold, it smells of ash; it has never woken, and no one knows what it dreams. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone E, Exile's Gate vicinity |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Do not wake it; reduce disturbance and provide a dream anchor |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It has never fully awakened.
 - Its dreams are visible to personnel near the Gate.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Sleeping Shard (N-IVδ-611 [N]) is logged as a Subject-Lament manifestation expressing Void (Pale White). The Shard formed from grief deliberately placed into sleep. Held at Zone E, Exile's Gate vicinity. It has never fully awakened.
@@ -347,7 +347,7 @@ Some sorrows are about feeling. Sleeping Shard is about the refusal to feel — 
 **Classification:** Sorrow Entity — `N-IVδ-611 [N]` · Void (Pale White) · Subject-Lament manifestation
 **Common Name:** Sleeping Shard
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

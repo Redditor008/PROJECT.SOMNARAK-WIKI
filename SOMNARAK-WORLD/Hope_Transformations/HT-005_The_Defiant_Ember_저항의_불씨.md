@@ -205,7 +205,7 @@ A door could be opened by force. Leaving it open, without deciding who walked th
 **Common Name:** The Defiant Ember (저항의 불씨)
 **Bearer:** Sero, The Prince
 **Bond / Containment Status:** Active, bonded to Hope Bearer Sero. Not contained; deployed with infiltration and resistance teams. Unbonded operation of the Emberbreaker Gauntlet is hazardous.
-**Observation Level:** 2 — Active Bond Monitoring
+**Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No hostile behavior; resistant to Sorrow Entity corruption but escalation-sensitive. The Ember amplifies the Bearer's anger when used without consulting affected civilians. It converts coercion into fuel but cannot distinguish, by itself, between a necessary sacrifice and a convenient excuse for cruelty. The Bearer's central risk is treating liberation as ownership.
 **Operational & Handling Procedures:**
 - No liberation operation without a civilian exit plan and a consent protocol. Breaking a system is not equivalent to freeing the people inside it.

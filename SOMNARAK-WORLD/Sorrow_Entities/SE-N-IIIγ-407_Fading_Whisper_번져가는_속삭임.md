@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A burning figure that whispers without pause while its edges fade to nothing — half-fire, half-absence, clearer the less you recall it. Fever-cold, it smells of char and ash; its voice weakens whenever someone remembers it, as memory starves it. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Record the whisper without inventing the lost place |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The figure fades after every completed sentence.
 - It becomes stronger when someone denies the missing place.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Fading Whisper (N-IIIγ-407 [N]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Whisper formed from a place erased from one person's memory. Held at Zone A, Alpha Tree. The figure fades after every completed sentence.
@@ -347,7 +347,7 @@ Some sorrows are about losing memory. Fading Whisper is about the place the memo
 **Classification:** Sorrow Entity — `N-IIIγ-407 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void (Pale White) · Subject-Grudge manifestation
 **Common Name:** Fading Whisper
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A guardian of a gap left by a removed memory. Effect: proximity induces the awareness of a known absence.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

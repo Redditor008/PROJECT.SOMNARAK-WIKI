@@ -27,7 +27,7 @@
 | Element | Grudge — Crimson |
 | Form | Middle-aged, fever-hot man with clenched fists |
 | Location | SECTOR-C-01, Debt Triplets containment |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Resentment Set |
 
 ### Core Sorrow

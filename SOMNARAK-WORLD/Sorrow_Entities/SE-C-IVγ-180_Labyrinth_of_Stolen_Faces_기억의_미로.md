@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A shifting labyrinth whose walls are built from crystallized memories rather than stone — translucent, flickering with faces and half-scenes. The walls rearrange whenever a visitor remembers or forgets. Bloodless-cold, it smells of ash; there is no body — the maze is the entity. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | SECTOR-B-02, beneath Old Lament |
-| **R.D. Observation Level** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, labyrinthine, trapping |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 3 — Advanced |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-02, beneath Old Lament |
 | **Resolution Condition** | Maintain a memory anchor and limit exploration time |
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - Walls are made from memories rather than stone.
 - No two routes remain identical.
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Labyrinth of Stolen Faces (C-IVγ-180 [VP]) is logged as a Place-Void manifestation expressing Void (Pale White). The Maze formed from confusion between memory, dream, and reality. Held at SECTOR-B-02, beneath Old Lament. Walls are made from memories rather than stone.
@@ -363,7 +363,7 @@ Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite —
 **Classification:** Sorrow Entity — `C-IVγ-180` · City origin · Entity (IV) coherence · Major (γ) potency · Void (Pale White) · Place-Void manifestation
 **Common Name:** Labyrinth of Stolen Faces
 **Containment Status:** Contained — beneath Old Lament
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Maze tangles memories, making history unverifiable. Effect: visitors cannot distinguish their memories from others’.
 **Containment & Handling Procedures:**
 - Viderehan is the only valid Work Type.

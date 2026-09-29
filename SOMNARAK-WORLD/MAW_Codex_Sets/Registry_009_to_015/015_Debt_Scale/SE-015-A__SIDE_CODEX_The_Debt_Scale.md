@@ -27,7 +27,7 @@
 | **Element** | Void — Pale White |
 | **Form** | Articulated bone frame with two cloudy crystal dishes |
 | **Location** | SECTOR-C-01, Collector use |
-| **Observation Level** | 2 — Studied |
+| **Comprehension Level** | 2 — Studied |
 | **M.A.W. Set** | Balance Set |
 
 ### Core Sorrow

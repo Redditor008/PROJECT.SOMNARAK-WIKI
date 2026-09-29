@@ -27,7 +27,7 @@
 | Location | Zone B, Old Lament |
 | Form | A cold, dense shadow without fixed shape—sometimes four-legged, sometimes many-limbed—moving as though it hunts for somewhere to settle. |
 | Gauge / pressure | 35–50% / Void 8–20 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Witnessed Shelter |
 
 ### Core Sorrow

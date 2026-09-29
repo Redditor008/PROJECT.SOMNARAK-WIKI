@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A four-inch octagonal stick of dense, chalky white mineral excavated from the sealed archive tribunal vaults beneath Floor 6. Powdery and bone-cold, it leaves an indelible lime-white streak that cannot be removed by solvents, flame, or scraping. Smelling faintly of dry lime, vinegar, and damp judicial calfskin, the mineral remains strangely heavy in the hand, as though each millimeter of chalk holds the gravity of eighty-two severed sentences. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-N-06, Deep Tribunal Archive — contained |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 30–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — completely ground into dust upon use |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Silent erasing trace |
 | **Primary Pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 30–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Floor 6 Tribunal Antechamber / Deep Sector |
 | **Resolution Condition** | The chalk circle is drawn and consumed, erecting a 30-second sanctuary ward |
@@ -258,7 +258,7 @@ M.A.W. drawn from this entity embodies bureaucratic erasure. It protects by maki
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The chalk stick shows zero radiometric decay despite being over a century old.
 - Sound waves entering the containment vault drop by 18 decibels within one meter of the plinth.
@@ -277,7 +277,7 @@ M.A.W. drawn from this entity embodies bureaucratic erasure. It protects by maki
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Recovered from the High Magistrate's private chambers on Floor 6, sealed within a cedar box marked with the wax crest of the Cancelled Registry. The mineral exhibits zero radiometric decay and actively absorbs ambient acoustic waves.
@@ -350,7 +350,7 @@ He drew lines until the chalk wore down to a bloody stump between his fingers, t
 **Classification:** Sorrow Entity — `N-IIβ-319 [VO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** The Magistrate's Strike-Through
 **Containment Status:** Contained — Sector-N-06 Deep Tribunal Vault
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low offensive threat. Supreme defensive utility as an absolute emergency boundary asset.
 **Containment & Handling Procedures:**
 - Store in an airtight cedar box on a marble pedestal.

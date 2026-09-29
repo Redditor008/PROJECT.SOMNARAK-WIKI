@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A gentle human-shaped shadow with no face, cast by nothing, that follows the wounded and rests beside them. It radiates warmth though it is only dark; salt-damp, it smells of cold rain. It cannot heal — only stay, so the hurt are not alone. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone D, Mantle Commons — ambient |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) — Repeats healing |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | Accept its help and acknowledge the healer it carries |
@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It follows the most emotionally wounded person, not always the most visibly injured.
 - It becomes more active during breaches.
@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Kind Healer's Shadow (N-IIβ-280 [LS]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Shadow formed from compassion left behind by healers who died. Held at Zone D, Mantle Commons — ambient. It follows the most emotionally wounded person, not always the most visibly injured.
@@ -345,7 +345,7 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 **Classification:** Sorrow Entity — `N-IIβ-280 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** The Kind Healer’s Shadow
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A shadow that follows the wounded. Effect: proximity induces the grief of compassion without hands.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.

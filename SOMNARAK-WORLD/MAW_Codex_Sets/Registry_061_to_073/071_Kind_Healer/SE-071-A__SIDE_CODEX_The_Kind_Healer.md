@@ -27,7 +27,7 @@
 | Element | Lament — Deep Blue |
 | Form | Warm healer figure with luminous hands |
 | Original Location | SECTOR-B-02, Zone B |
-| Observation Level | 4 — Mastered |
+| Comprehension Level | 4 — Mastered |
 | M.A.W. Set | Gentle Set |
 
 ### Current Era Status

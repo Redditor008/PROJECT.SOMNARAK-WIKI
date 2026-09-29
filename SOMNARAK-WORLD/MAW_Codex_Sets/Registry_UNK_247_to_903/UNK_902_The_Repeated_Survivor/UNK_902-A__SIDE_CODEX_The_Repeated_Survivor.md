@@ -39,7 +39,7 @@ Viderehan retrieves loop fragments. Ferrehan outlasts the scene without taking a
 | Element | Void (Pale White) — the emptying of a self that remembered too much; Weight and Grudge undertones |
 | Manifestation | Subject-Body — a body that performs; nobody left inside it |
 | Location | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
-| R.D. Observation Level | 5 — Sovereign-grade monitoring (loop-anomaly) |
+| R.D. Comprehension Level | 5 — Sovereign-grade monitoring (loop-anomaly) |
 | Starting Sorrow Gauge | 70–90% |
 | Activation threshold | Sorrow Gauge ≥ 80% or a personnel member recognizing the loop |
 | Sorrow Gauge [HP] | 993/993 |

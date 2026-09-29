@@ -27,7 +27,7 @@
 | Location | Zone E, Exile’s Gate vicinity |
 | Form | A dreamlike figure of broken mirror shards fused with black weight-crystal, each shard reflecting a different surviving self. |
 | Gauge / pressure | 45–65% / Weight 18–41 |
-| Observation Level | 2 — Studied |
+| Comprehension Level | 2 — Studied |
 | M.A.W. Set | Whole Fragments |
 
 ### Core Sorrow

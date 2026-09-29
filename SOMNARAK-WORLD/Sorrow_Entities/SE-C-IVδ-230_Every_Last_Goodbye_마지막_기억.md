@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A translucent figure woven from the final moments of everyone who has ever died in Somnarak — its form flickering between thousands of faces and last thoughts, never settling on one. Bloodless-cold and light, it smells of ash; to look at it is to glimpse a death. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) — Self-aware, final, absolute |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep vault |
 | **Resolution Condition** | Do not attempt to erase a final moment; acknowledge and record it |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 - It holds every recorded death and many unrecorded ones.
 - It communicates through feeling rather than speech.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void (Pale White). The entity formed from final moments that had no witness. Held at SECTOR-A-01, Alpha Tree deep vault. It holds every recorded death and many unrecorded ones.
@@ -352,7 +352,7 @@ Some sorrows mourn the dead. Every Last Goodbye mourns the moment of dying — t
 **Classification:** Sorrow Entity — `C-IVδ-230 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Subject-Void manifestation
 **Common Name:** Every Last Goodbye
 **Containment Status:** Contained — Old Lament
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. Holds the final thoughts of every citizen who died unwitnessed. Effect: proximity induces the loneliness of dying.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

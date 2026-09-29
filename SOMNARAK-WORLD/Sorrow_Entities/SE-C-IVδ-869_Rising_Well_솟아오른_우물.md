@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A well-shaped presence that rises inside a consciousness rather than the ground — felt as a circle of crimson light widening in the mind, a shaft with no bottom. Fever-cold, it smells of char; no body, only the descending light. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Do not invent a cause; document the fragments and ground the subject |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Well is mobile because it manifests through consciousness.
 - It sings rather than speaks.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Rising Well (C-IVδ-869 [GS]) is logged as a Subject-Mind manifestation expressing Grudge (Crimson). The Well formed from rage buried so deeply that it became an inner landscape. Held at The Desolate — mobile. The Well is mobile because it manifests through consciousness.
@@ -347,7 +347,7 @@ Some sorrows are about the original wound. Rising Well is about the inheritance 
 **Classification:** Sorrow Entity — `C-IVδ-869 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge (Crimson) · Subject-Mind manifestation
 **Common Name:** Rising Well
 **Containment Status:** Contained — Zone B
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Well of inherited fury opens in descendants’ minds. Effect: proximity induces rage without a remembered cause.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

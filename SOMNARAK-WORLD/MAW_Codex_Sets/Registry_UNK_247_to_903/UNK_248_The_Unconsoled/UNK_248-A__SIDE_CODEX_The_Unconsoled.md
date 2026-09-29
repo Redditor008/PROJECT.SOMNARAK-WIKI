@@ -38,7 +38,7 @@ Flerehan synchronizes grief and lowers pressure; Pugnahan forces the Founder’s
 | Element | Lament (Deep Blue) |
 | Manifestation | Subject-Phantasmal |
 | Location | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
-| R.D. Observation Level | 3 — Elevated |
+| R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 60–75% |
 | Activation threshold | 2 |
 | Sorrow Gauge [HP] | 653/653 |

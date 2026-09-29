@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A cracked ancient mirror of dark Han-crystal in a corroded frame, its surface shattered into facets that reflect not the present but a memory the viewer has forgotten or suppressed. The glass is bloodless-cold and gives back no warmth; near it, the flat smell of ash. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, Alpha Tree Archive — contained |
-| **R.D. Observation Level** | 4 — Mastered |
+| **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 4 — Mastered |
+| **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) — Repeats showing reflections |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 4 — Mastered |
+| **Difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree Archive — contained |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 4 — Mastered
+**R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
 - The Mirror's Han-signature resonates with the Archive's sealed memory vaults.
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Broken Mirror (C-IIα-081 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mirror formed from memories that citizens asked the Keepers to seal away. Held at SECTOR-A-01, Alpha Tree Archive — contained. The Mirror's Han-signature resonates with the Archive's sealed memory vaults.
@@ -397,7 +397,7 @@ Some sorrows are about what happened. Broken Mirror is about what was refused �
 **Classification:** Sorrow Entity — `C-IIα-081 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void (Pale White) · Object-Void manifestation
 **Common Name:** Broken Mirror
 **Containment Status:** Contained — Alpha Tree
-**Observation Level:** 1 — Initial
+**Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low. The Mirror shows sealed truths. Effect: viewers see what they paid to forget.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

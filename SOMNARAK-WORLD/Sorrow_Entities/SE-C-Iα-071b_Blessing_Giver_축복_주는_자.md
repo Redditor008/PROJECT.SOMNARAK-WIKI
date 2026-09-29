@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — The healer's form has brightened. Her hands now glow faintly gold when extended, her eyes carry a warmth that is not entirely her own. She smells of something clean, almost clinical — like a hospital that has never known death. Her posture has straightened from the Kind Healer's perpetual sorrow-bow; she stands taller, moves with more purpose. The grey of her mourning clothes has begun to lighten toward white at the edges. |
 | **Movement** | Mobile — walks upright; actively seeks personnel to bless |
 | **Location** | SECTOR-D-01, The Forge District — Training Containment Unit |
-| **R.D. Observation Level** | 2 — Escalating |
+| **R.D. Comprehension Level** | 2 — Escalating |
 
 > **Registry note:** Stage 2 of the Kind Healer transformation chain. The entity actively approaches personnel and bestows blessings that increase all attributes — but each blessing marks the recipient for the chain's completion. Appearance changes are permanent across cycles.
 
@@ -31,7 +31,7 @@
 | **Primary pressure** | Composure |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 8–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Escalating |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Escalating |
 | **Activation threshold** | Blessing count reaching 6+ |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -240,7 +240,7 @@ She reaches. She blesses. The clock ticks. And the city holds its breath.
 **Classification:** Sorrow Entity — `C-Iβ-071b [LS]` · City origin · Residue (I) coherence · Moderate (β) potency · Lament (Deep Blue) element · Subject-Lament manifestation
 **Common Name:** Blessing Giver
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit
-**Observation Level:** 2 — Escalating
+**Comprehension Level:** 2 — Escalating
 **Threat Assessment:** Moderate and escalating. Each blessing brings the chain closer to completion. The R.D. must decide whether to allow the chain (toward Hope or Mourning) or suppress (unpredictable results).
 
 ### Registry Addendum

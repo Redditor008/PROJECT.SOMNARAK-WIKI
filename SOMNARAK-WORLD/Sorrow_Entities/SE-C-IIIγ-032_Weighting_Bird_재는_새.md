@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A heavy, dark-crimson bird of true flesh and feather — plumage the red of old anger, talons overgrown, its body radiating a dry, feverish heat. It dives from above and presses its mark into the target. The air around it carries the smell of char and old smoke; it is unmistakably alive, and unmistakably furious. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) — Calculating and precise |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-01, contained with the Three Birds |
 | **Resolution Condition** | Acknowledge the judgment without attempting to deny the weight |
@@ -248,7 +248,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - It calculates guilt rather than morality.
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Weighting Bird (C-IIIγ-032 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Bird formed from the sorrow of those forced to measure guilt and judge others. Held at SECTOR-B-01, contained with the Three Birds. It calculates guilt rather than morality.
@@ -364,7 +364,7 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 **Classification:** Sorrow Entity — `C-IIIγ-032 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
 **Common Name:** Weighting Bird
 **Containment Status:** Contained — with the Three Birds, Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Bird carries a scale. Exposure causes personnel to feel the burden of every judgment they have made. The Bird is slower and heavier than its siblings.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.

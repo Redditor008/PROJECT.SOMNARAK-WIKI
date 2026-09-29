@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A single crystallized tear, smaller than a raindrop, suspended motionless above a sealed pedestal and glowing faint blue. It does not fall; it has never fallen. Salt-cold, it smells of cold rain — the first grief the city ever wept, frozen before it could land. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
-| **R.D. Observation Level** | 5 — Sovereign |
+| **R.D. Comprehension Level** | 5 — Sovereign |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 5 — Sovereign |
+| **Work difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Sovereign (V) — Autonomous, ancient, singular |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 5 — Sovereign |
+| **Difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 5 — Sovereign
+**R.D. Comprehension Level:** 5 — Sovereign
 
 - The Tear is smaller than any other known entity.
 - Its Han-signature predates the city and all known records.
@@ -282,7 +282,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 First Tear (C-Vδ-290 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Tear is believed to be the first sorrow ever felt on Mugenhan. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. The Tear is smaller than any other known entity.
@@ -373,7 +373,7 @@ Some sorrows are about specific losses. First Tear is about loss itself — the 
 **Classification:** Sorrow Entity — `C-Vδ-290 [LO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** First Tear
 **Containment Status:** Sealed — Deep Vault, beneath the Alpha Tree
-**Observation Level:** 5 — Sovereign
+**Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Unknown. The oldest sorrow in the world. Predates the city, the Han, and the Weeping. Effect: proximity induces the weight of origin — the first grief.
 **Containment & Handling Procedures:**
 - Do not approach without Director approval.

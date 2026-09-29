@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A translucent elder, sexless with age, in the rough Han-woven robes of the city's earliest settlers — half-flesh, half-light, slow-moving or seated, the face permanently wet with weeping. Salt-damp and faintly warm, it smells of cold rain on old cloth; no comfort has ever reached it. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
-| **R.D. Observation Level** | 3 — Elevated |
+| **R.D. Comprehension Level** | 3 — Elevated |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Emotional / grief pressure |
 | **Starting Sorrow Gauge** | 60–75% |
 | **Han-Energy yield** | 14–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 3 — Elevated |
+| **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | γ · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–75% |
-| **Difficulty** | Severe · R.D. Observation Level 3 — Elevated |
+| **Difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
 | **Resolution Condition** | Share the grief aloud (Flerehan); it never empties, only lightens |
@@ -211,7 +211,7 @@ The extracted equipment reflects the same unresolved pressure as The Unconsoled.
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 3 — Elevated
+**R.D. Comprehension Level:** 3 — Elevated
 
 - Hope-light refracts through it unchanged — the only recorded substance hope cannot warm.
 - Its weeping has no sound; witnesses hear their own grief.
@@ -232,7 +232,7 @@ The extracted equipment reflects the same unresolved pressure as The Unconsoled.
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The subject is a translucent elder, sexless with age, face permanently wet, clad in the rough Han-woven robes of the earliest settlers. Its weeping produces no sound; witnesses report hearing their own oldest grief spoken in a voice they cannot place. Tears evaporate before reaching the ground. The figure is slow, seated more often than standing, and drifts toward the Alpha Tree's roots.
@@ -318,7 +318,7 @@ Changwook understood, watching the translucent figure rise from the foundation a
 **Classification:** Sorrow Entity — `C-IIIγ-248 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
 **Common Name:** The Unconsoled
 **Containment Status:** Uncontained / Foundational — cannot be moved without destabilizing the city's base
-**Observation Level:** 3 — Elevated
+**Comprehension Level:** 3 — Elevated
 **Threat Assessment:** Major passive threat via Composure drain; no direct violence. The grief is load-bearing — dispersal is forbidden. Prolonged unprotected exposure causes involuntary grief-recall and weeping; no Fracture recorded because the grief, once shared, is survivable.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid primary Work Type. Share the grief; never suppress.

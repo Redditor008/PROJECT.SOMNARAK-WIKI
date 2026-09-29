@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A ghostly figure, half-flesh and half-mist, rising from the broken mouth of a dry well, weeping for losses no one alive remembers. Its lower body dissolves into the well's dark; its tears fall back as dust. Fever-cold, it smells of char and forgotten rain. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Do not enter the opening; listen from the edge |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It appears around broken wells and collapsed foundations.
 - It communicates through reflected emotion.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Broken Well (C-IIβ-565 [D]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The Well formed from a mother's grief after failing to protect her child. Held at Zone B, Old Lament. It appears around broken wells and collapsed foundations.
@@ -347,7 +347,7 @@ Some sorrows mourn the lost. Broken Well mourns the searching — the endless, u
 **Classification:** Sorrow Entity — `C-IIβ-565` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge (Crimson) · Subject-Phantasmal manifestation
 **Common Name:** Broken Well
 **Containment Status:** Contained — Zone B
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. A well-that-is-also-a-mother, eternally calling a child’s name. Effect: personnel hear the calling; psychological distress.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.

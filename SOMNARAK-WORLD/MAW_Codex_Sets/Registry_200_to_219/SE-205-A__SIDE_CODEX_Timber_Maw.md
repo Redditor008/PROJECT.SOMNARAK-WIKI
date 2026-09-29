@@ -28,7 +28,7 @@
 | Primary Form | A massive dead tree walking on knotted root-legs, with a trunk hollow large enough for several people. |
 | Gauge / Han Pressure | 45–65% starting range / Weight 13–29 per hit |
 | Movement | 2.30 m/s when active |
-| Observation Level | 2 — Basic |
+| Comprehension Level | 2 — Basic |
 | M.A.W. Set | The Hollow Gathering |
 
 ### Core Sorrow
@@ -50,7 +50,7 @@ Stripped bark hangs from a broad, lead-cold trunk. Bare limbs spread above expos
 
 > *“It did not ask me to make the hollow useful. It made room for me to admit that something never arrived.”* — Specialist Haneulash Yoon
 
-**Unresolved at Observation Level 2:** whether the interior’s lost echo is held, destroyed, or carried elsewhere; why no fruit has appeared; and whether the originating settlers remain distinguishable inside the entity’s memory.
+**Unresolved at Comprehension Level 2:** whether the interior’s lost echo is held, destroyed, or carried elsewhere; why no fruit has appeared; and whether the originating settlers remain distinguishable inside the entity’s memory.
 
 ---
 

@@ -27,7 +27,7 @@
 | **Element** | Grudge — Crimson |
 | **Form** | Heavy crimson bird with scale-like eyes |
 | **Location** | SECTOR-B-01, Three Birds containment |
-| **Observation Level** | 2 — Studied |
+| **Comprehension Level** | 2 — Studied |
 | **M.A.W. Set** | Judgment Set |
 
 ### Core Sorrow

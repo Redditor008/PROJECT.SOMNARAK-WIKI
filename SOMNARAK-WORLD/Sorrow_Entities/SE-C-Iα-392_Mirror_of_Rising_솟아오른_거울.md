@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A dream-figure rising out of a mirror's surface — its reflection arriving first, the body pulling up after, as though it climbs out of its own image. Lead-cold, it smells of wet stone; the mirror stays behind, empty. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Name what is known without inventing the missing parts |
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - Its reflection rises before its figure.
 - It is strongest around old Market records.
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Mirror of Rising (C-Iα-392 [O]) is logged as a Subject-Dream manifestation expressing Weight (Black). The Mirror formed from a city forgetting its own name. Held at Zone C, Mask Market. Its reflection rises before its figure.
@@ -351,7 +351,7 @@ Some sorrows mourn a person. Mirror of Rising mourns a community — the distric
 **Classification:** Sorrow Entity — `C-Iα-392 [O]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Subject-Dream manifestation
 **Common Name:** Mirror of Rising
 **Containment Status:** Contained — Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A mirror holding a lost district’s name. Effect: viewers see a stranger’s face — the community’s forgotten identity.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

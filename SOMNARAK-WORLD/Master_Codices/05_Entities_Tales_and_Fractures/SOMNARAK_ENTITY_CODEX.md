@@ -178,7 +178,7 @@ The mechanical summary used for field simulation and balancing. These values sup
 | **Risk tier** | Mirrors Potency (Minor → Catastrophic) |
 | **Starting Sorrow Gauge** | How full the entity's gauge begins (higher = closer to breach) |
 | **Han-Energy yield** | Energy gained per successful work cycle |
-| **Work difficulty** | Scaled to R.D. Observation Level |
+| **Work difficulty** | Scaled to R.D. Comprehension Level |
 | **Activation threshold** | The gauge % at which the entity activates or breaches |
 | **Vessel-Destructible** | Whether the physical vessel can be destroyed (drops Han Dust) |
 | **Han Dust Drop** | Material yielded if the vessel is destroyed |
@@ -278,7 +278,7 @@ Each piece carries a **grade** (matching potency, α–ω), a **Sorrow Echoes** 
 
 The R.D. (Reverie Directorate) records entities through staged observation.
 
-### R.D. Observation Levels (1–5)
+### R.D. Comprehension Levels (1–5)
 
 | Level | Name | Depth |
 |-------|------|-------|
@@ -294,7 +294,7 @@ The **관찰 기록 (Observation Log)** records key observations and a personnel
 
 ### Story Log (이야기 보고)
 
-Progressive declassified records — numbered entries that unlock at higher Observation Levels, moving from containment description through field logs to archive notes.
+Progressive declassified records — numbered entries that unlock at higher Comprehension Levels, moving from containment description through field logs to archive notes.
 
 ### Final Observation (최종 관찰)
 
@@ -326,7 +326,7 @@ A short narrative (350–500+ words) telling the entity's origin as a story — 
 
 ### The Record (기록 — Registrum)
 
-The formal archival summary: classification, common name, containment status, observation level, threat assessment, handling procedures, cross-references, and faction involvement, with a Registry Addendum on operational interpretation and review requirements.
+The formal archival summary: classification, common name, containment status, comprehension level, threat assessment, handling procedures, cross-references, and faction involvement, with a Registry Addendum on operational interpretation and review requirements.
 
 ---
 

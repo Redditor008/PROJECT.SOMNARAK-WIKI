@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A squat, soot-blackened stone forge built around a fire that is not fire but a core of slow-pulsing crimson beating like an exposed heart. The anvil and tongs are crusted with dark, clawed metal that has grown rather than been forged, branching like bone. Heat rolls off it in waves that feel less like temperature and more like held breath before a shout. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone D, Forge District |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) — Burning and creative |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Cool the anger through naming and controlled work |
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - The Forge creates objects without a visible worker.
 - Its heat responds to emotional intent.
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Crucible (C-IIIβ-275 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Forge formed from anger used to create rather than destroy. Held at Zone D, Forge District. The Forge creates objects without a visible worker.
@@ -391,7 +391,7 @@ Crucible is that awareness. It still burns. It still shapes metal. But those who
 **Classification:** Sorrow Entity — `C-IIIβ-275 [GP]` · City origin · Fragment (III) coherence · Moderate (β) potency · Grudge (Crimson) · Place-Grudge manifestation
 **Common Name:** Crucible
 **Containment Status:** Contained — Zone D, Forge District
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Forge is a conscious furnace that feeds on workers’ resentment. It evaluates each worker’s anger. Risk: prolonged work causes emotional burnout and dependency.
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type; the Forge responds to confrontation.

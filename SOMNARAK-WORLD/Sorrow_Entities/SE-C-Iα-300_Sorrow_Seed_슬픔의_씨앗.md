@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A seed cracked and sending out a thick pulsing tendril — a small mobile root-creature, warm and beating like a heart, dragging itself toward soil. Lead-warm, it smells of wet stone. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone D, Echo Gardens |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) — Barely formed, dormant |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -288,7 +288,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It is dormant but not inert.
 - It responds to nearby grief.
@@ -310,7 +310,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Sorrow Seed (C-Iα-300 [D]) is logged as a Object-Weight manifestation expressing Weight (Black). The Seed formed from concentrated grief waiting for a form. Held at Zone D, Echo Gardens. It is dormant but not inert.
@@ -400,7 +400,7 @@ Some sorrows are about what happened. Sorrow Seed is about what has not happened
 **Classification:** Sorrow Entity — `C-Iα-300 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight (Black) · Object-Weight manifestation
 **Common Name:** Sorrow Seed
 **Containment Status:** Contained — Echo Gardens (dormant)
-**Observation Level:** 4 — Mastered
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Unknown. The Seed is dormant; its potential is vast. If it germinates, the sorrow could Fracture a district. Risk is potential, not current.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

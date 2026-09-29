@@ -27,7 +27,7 @@
 | Location | Zone D; wandering, semi-contained |
 | Form | A twenty-meter dark, dense humanoid grown through with Han-crystal, stepping around structures as though afraid to break them. |
 | Gauge / pressure | 45–65% / Weight 18–41 |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Room to Stand |
 
 ### Core Sorrow

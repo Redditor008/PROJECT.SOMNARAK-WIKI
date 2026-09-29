@@ -17,7 +17,7 @@
 | **Physical Form** | Mixed — A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults — half-light, half-shard, weeping softly as it goes. Salt-damp, it smells of cold rain; a grief that took a body and forgot how to stop moving. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Provide a memory anchor; do not force a destination |
@@ -328,7 +328,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It follows no physical map.
 - It is stronger near Alpha Tree roots.
@@ -350,7 +350,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Driftglass (O-IIIγ-914 [N]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Soul formed from an Outside Sorrow traveler who never found a place to rest. Held at Zone A, Alpha Tree. It follows no physical map.
@@ -438,7 +438,7 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 **Classification:** Sorrow Entity — `O-IIIγ-914 [N]` · Lament (Deep Blue) · Object-Lament manifestation
 **Common Name:** Driftglass
 **Containment Status:** Contained — Zone A, Alpha Tree
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

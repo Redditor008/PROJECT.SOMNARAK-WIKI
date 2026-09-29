@@ -16,7 +16,7 @@
 | **Physical Form** | Organic — A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-911, contained |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Weight / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 911  · R.D. Observation Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
+| **Difficulty** | 911  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-911 |
 | **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
@@ -210,7 +210,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - Weight signature confirmed at SECTOR-O-911.
@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Never Discharged (O-IIβ-911 [WT]) is logged as a Time-Body manifestation expressing Weight. Held at SECTOR-O-911.
 
@@ -280,7 +280,7 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 
 **Containment Status:** Contained — SECTOR-O-911 
 
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 
 **Threat Assessment:** Moderate. A Time-Body entity — the body register is its defining characteristic. Risk: prolonged exposure to the body pressure may produce effects not seen in standard weight entities.
 

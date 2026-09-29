@@ -1284,21 +1284,21 @@ Contained within specialized stasis chambers on Floors 2, 4, and 6, **Relic-Enti
 
 ---
 
-### Observation Levels & Point Accumulation
+### Comprehension Levels & Point Accumulation
 
 | Level | Name | Unlocked Operational Intelligence | Unlock Requirement |
 |---|---|---|---|
 | **Level 0** | Unknown | Basic SECC Code (Origin, Coherence, Potency) | Initial chamber containment |
-| **Level 1** | Observed | Element, Manifestation type, basic behavior | 5 Observation Points (OP) |
-| **Level 2** | Studied | Detailed behavioral songs, Work Type preferences, breach trigger | 25 Observation Points (OP) |
-| **Level 3** | Understood | Origin story, emotional core, M.A.W. extraction blueprint | 75 Observation Points (OP) |
-| **Level 4** | Mastered | Complete dossier, optimal containment protocol, full M.A.W. triplet | 175 Observation Points (OP) |
+| **Level 1** | Observed | Element, Manifestation type, basic behavior | 5 Comprehension Points (CP) |
+| **Level 2** | Studied | Detailed behavioral songs, Work Type preferences, breach trigger | 25 Comprehension Points (CP) |
+| **Level 3** | Understood | Origin story, emotional core, M.A.W. extraction blueprint | 75 Comprehension Points (CP) |
+| **Level 4** | Mastered | Complete dossier, optimal containment protocol, full M.A.W. triplet | 175 Comprehension Points (CP) |
 
-**Observation Point (OP) Generation:**
-- **Flerehan:** +2 OP (Normal) / +5 OP (Critical)
-- **Pugnahan:** +2 OP (Normal) / +5 OP (Critical)
-- **Viderehan:** +3 OP (Normal) / +6 OP (Critical) — *Viderehan yields highest observation insight.*
-- **Ferrehan:** +1 OP (Normal) / +4 OP (Critical)
+**Comprehension Point (CP) Generation:**
+- **Flerehan:** +2 CP (Normal) / +5 CP (Critical)
+- **Pugnahan:** +2 CP (Normal) / +5 CP (Critical)
+- **Viderehan:** +3 CP (Normal) / +6 CP (Critical) — *Viderehan yields highest observation insight.*
+- **Ferrehan:** +1 CP (Normal) / +4 CP (Critical)
 
 ---
 
@@ -1485,7 +1485,7 @@ Facility Events are **unplanned occurrences** that disrupt daily operations. The
 | Event | Description | Trigger | Response |
 |-------|-------------|---------|----------|
 | **Entity Agitation** | Entity becomes restless — gauge rises | Neglect, wrong Work Type, external Han spike | Perform correct Work Type |
-| **Entity Communication** | Entity attempts to communicate | High Observation Level, Viderehan | Listen, document, report |
+| **Entity Communication** | Entity attempts to communicate | High Comprehension Level, Viderehan | Listen, document, report |
 | **Entity Stigma** | Entity offers a gift — Echo, fragment, or warning | High resonance, Flerehan | Accept or refuse (consequences vary) |
 | **Entity Mourning** | Entity enters a state of grief — gauge drops | Anniversary of origin, emotional resonance | Comfort or observe |
 | **Entity Curiosity** | Entity shows interest in personnel | New personnel, unique attributes | Monitor, do not engage |
@@ -2748,7 +2748,7 @@ But the R.D. needs them — because the Border Lead is the only person who has s
 |---|---|
 | **Floor / Station** | Floor 6 (The Deep Vault — Memory Wells & Final Door Chamber) |
 | **Effigy Type** | Cryogen Stasis Matrix (~20% flesh, living human brain & eye) |
-| **Armament** | Specialized Optical Relic *Memory Lens & Whispering Index* |
+| **Armament** | Specialized Optical Relic *Memory Lens & Whispering Catalog* |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Han Signature** | Void (Pale White) + Weight (Black) |
 | **Manifestation** | Place-Lament — cryo-stasis vault network |

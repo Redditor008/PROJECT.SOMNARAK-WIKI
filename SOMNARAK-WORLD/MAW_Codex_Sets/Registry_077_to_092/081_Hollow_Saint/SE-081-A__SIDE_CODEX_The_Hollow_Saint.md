@@ -27,7 +27,7 @@
 | Location | SECTOR-B-02, Zone B |
 | Form | A saint-shaped humanoid whose body curves around the absence where a heart should be; cold hands reach toward nearby sorrow. |
 | Gauge / pressure | 45–65% / Void 18–41 |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Hollow Benediction |
 
 ### Core Sorrow

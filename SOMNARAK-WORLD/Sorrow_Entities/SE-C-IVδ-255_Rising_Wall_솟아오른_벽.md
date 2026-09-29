@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A pressure-shaped humanoid that rises from the ground like a standing wall of invisible grief — felt before seen, bending the air into the outline of a person. It remembers things the city has erased. Salt-damp, it smells of cold rain; pass through it and a lost memory surfaces. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone D, Mantle Commons |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Patient endurance and honest acknowledgment |
@@ -235,7 +235,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Its pressure rises during collective mourning.
 - It responds to patience rather than force.
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Rising Wall (C-IVδ-255 [N]) is logged as a Subject-Weight manifestation expressing Lament (Deep Blue). The Wall formed from love that was never returned. Held at Zone D, Mantle Commons. Its pressure rises during collective mourning.
@@ -345,7 +345,7 @@ Some sorrows mourn a loss. Rising Wall mourns an asymmetry — the love that one
 **Classification:** Sorrow Entity — `C-IVδ-255 [N]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament (Deep Blue) · Subject-Weight manifestation
 **Common Name:** Rising Wall
 **Containment Status:** Contained — Zone C
-**Observation Level:** 3 — Advanced
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Low. A wall of one-sided remembering. Effect: proximity induces the burden of remembering someone who forgot you.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type.

@@ -17,7 +17,7 @@
 | **Physical Form** | Non-Organic — A clear-white shard of crystallized rage, palm-sized, cold to the touch and shot through with tiny trapped tears frozen mid-fall. Bloodless-cold, it smells of ash; held, it hums with a held-in shout. |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Echo Gardens |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -30,7 +30,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
@@ -69,7 +69,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The Shard remains stationary in the Echo Gardens.
 - It pulses during the Sorrow Tide.
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Seething Tundra (C-Iα-884 [VO]) is logged as a Object-Grudge manifestation expressing Void (Pale White). The Shard formed from sorrow that was shaped into an object rather than spoken. Held at Zone D, Echo Gardens. The Shard remains stationary in the Echo Gardens.
@@ -391,7 +391,7 @@ Some sorrows are preserved. Seething Tundra is a sorrow preserved too well — t
 **Classification:** Sorrow Entity — `C-Iα-884 [VO]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Object-Grudge manifestation
 **Common Name:** Seething Tundra
 **Containment Status:** Contained — Echo Gardens
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tear preserved as a memorial, sealed with rage inside. Effect: proximity induces the cold of sealed anger.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

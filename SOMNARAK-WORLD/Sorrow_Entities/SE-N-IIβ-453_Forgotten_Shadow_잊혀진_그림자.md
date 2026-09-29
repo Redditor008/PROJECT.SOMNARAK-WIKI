@@ -16,7 +16,7 @@
 | **Physical Form** | Non-Organic — A humanoid shadow with no face, drifting through the Desolate and singing softly — a low wandering song. It understands anyone who watches it, though it cannot be understood in turn. Salt-damp, it smells of cold rain; the shade of someone the world forgot. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Walk beside it and record what it shows |
@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - Its song cannot be recorded by ordinary equipment.
 - It becomes clearer when someone admits they do not know its name.
@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten Shadow (N-IIβ-453 [LS]) is logged as a Subject-Weight manifestation expressing Lament (Deep Blue). The Shadow formed from a person forgotten while still alive. Held at The Desolate — mobile. Its song cannot be recorded by ordinary equipment.
@@ -345,7 +345,7 @@ Some sorrows mourn the dead. Forgotten Shadow mourns the living-unrecorded — t
 **Classification:** Sorrow Entity — `N-IIβ-453 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Weight manifestation
 **Common Name:** Forgotten Shadow
 **Containment Status:** Contained — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The shadow of a person forgotten while alive. Effect: proximity induces the vertigo of unrecorded existence.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

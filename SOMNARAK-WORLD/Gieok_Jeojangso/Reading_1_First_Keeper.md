@@ -209,7 +209,7 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
   * The First Keeper channels `[Verdict of the Living Inscription]`: Preparing a 3-coin AoE ink blast across Nodes 01–04.
   * Seiyon warns: *"If that ink completes its inscription, our cognitive memories will dissolve into the parchment!"*
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 9 -> 5 AP [Surge]): Steps from Node 02 to Node 03. Spends 3 AP on `[Prismatic Needle Flurry: Void Severance]`. Spends 2 AP on `[Ego Strike]`.
+  * Seiyon (Speed 9 -> 5 AP [Surge]): Steps from Node 02 to Node 03. Spends 3 AP on `[Prismatic Needle Flurry: Void Severance]`. Spends 2 AP on `[Self Strike]`.
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Stasis Caliper: Valve Sever]`. Holds 1 AP in Guard.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Acoustic Fault Tagging]`.
 - **Step 3: Clash & Skill Resolution**:

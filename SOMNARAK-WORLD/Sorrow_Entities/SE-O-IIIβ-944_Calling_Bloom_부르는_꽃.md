@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — The small body of a child, no taller than a wheat-sheaf, with the too-still, stark look of a figure from an old woodcut: barefoot, in a tattered scavenger's dress faded to grey. From the crown of her head grows a single bloom the size of a fist, pale petals ringed around one wet, watching eye that blinks out of sync with her own. Pale roots trail behind her, faint and never quite touching the earth. |
 | **Movement** | Mobile — she wanders without rest, drawn toward any voice, always deeper into the wood or back toward its edge, never arriving. |
 | **Location** | The Muttering Wood, beyond SECTOR-E-02 (Uncontained / Managed) |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Sorrow Gauge ≥ 70%, or when a target calls back to the mimicked voice |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
@@ -67,7 +67,7 @@
 | **Coherence** | Fragment (III) — Wanders the wood, calling a name that was used to lure her there |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | Moderate · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Muttering Wood, beyond SECTOR-E-02 |
 | **Resolution Condition** | Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge |
@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - She never sleeps and never stops wandering; she pauses only to call a name into the trees.
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Calling Bloom (O-IIIβ-944 [LS]) is logged as a Subject-Tale manifestation expressing Lament (Deep Blue). The entity formed when a wilderness child, Nari, touched a watching flower at the heart of the Muttering Wood while searching for her brother. Held/managed in the Muttering Wood, beyond SECTOR-E-02. She wanders, calls stolen names, and bears a single watching bloom upon her crown.
@@ -374,7 +374,7 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 **Classification:** Sorrow Entity — `O-IIIβ-944 [LS]` · Outside origin · Fragment (III) coherence · Moderate (β) potency · Lament (Deep Blue) · Subject-Tale manifestation
 **Common Name:** Calling Bloom (부르는 꽃)
 **Containment Status:** Uncontained / Managed — the Muttering Wood, beyond SECTOR-E-02
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. A child-fused bloom that lures with the perfect mimicry of a listener's lost loved one and vanishes those who touch the flower — the real creature behind every warning ever sung about the deep wood. Not aggressive, but contact is hazardous; the curious and the grieving are drawn in and do not return. Managed by perimeter warning and strict no-entry at the wood's core.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type; address her only by her true name, "Nari."

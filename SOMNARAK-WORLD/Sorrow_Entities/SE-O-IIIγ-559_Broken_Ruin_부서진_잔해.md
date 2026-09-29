@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A weeping figure assembled from pieces of a ruined Desolate structure — stone, dust, and splintered timber shifting between materials, never settling. Salt-damp, it smells of cold rain; a collapsed building that learned to walk and weep. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Listen to the survivor's account; do not reconstruct the settlement |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It reacts to survivors and Desolate travelers.
 - The fragments never form a stable building.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Broken Ruin (O-IIIγ-559 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Ruin formed from a structure destroyed outside the city and remembered by survivors. Held at Zone C, Mask Market. It reacts to survivors and Desolate travelers.
@@ -347,7 +347,7 @@ Some sorrows mourn a place. Broken Ruin mourns the carrying — the disaster bro
 **Classification:** Sorrow Entity — `O-IIIγ-559 [LS]` · Lament (Deep Blue) · Subject-Lament manifestation
 **Common Name:** Broken Ruin
 **Containment Status:** Contained — Zone C, Mask Market
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

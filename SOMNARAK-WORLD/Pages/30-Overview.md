@@ -23,7 +23,7 @@ Within the somber halls of Facility 01, humanity does not wage war against monst
 - [1 The Municipal Mission of Facility 01](#1-the-municipal-mission-of-facility-01)
 - [2 Containment Chamber Engineering Specifications](#2-containment-chamber-engineering-specifications)
 - [3 Departmental Containment Allocation Matrix](#3-departmental-containment-allocation-matrix)
-- [4 The Four Observation Levels and Codex Progression](#4-the-four-observation-levels-and-codex-progression)
+- [4 The Four Comprehension Levels and Codex Progression](#4-the-four-observation-levels-and-codex-progression)
 - [5 The Four Protocols in Administrative Practice](#5-the-four-protocols-in-administrative-practice)
 - [6 The Ethical Philosophy of Han Harvesting](#6-the-ethical-philosophy-of-han-harvesting)
 - [7 The Warden's Oath and Command Guidelines](#7-the-wardens-oath-and-command-guidelines)
@@ -55,13 +55,13 @@ To prevent catastrophic multi-wing breaches, entities are allocated across verti
 | **Middle Layer** | Maw's Keep & Extraction | Fragment (III) & Early Wail (IV) | Heavy gear fabrication; defense testing. |
 | **Lower (Deep)** | Vault, Shadow, Gate Watch | High Wail (IV) & Sovereign (V) | High security quarantine; abyssal defense. |
 
-## 4 The Four Observation Levels and Codex Progression
+## 4 The Four Comprehension Levels and Codex Progression
 
 Interacting with an entity unlocks its archival dossier across four progressive tiers:
-- **Observation Level 1 (Basic Parameters):** Unlocks entity name, SECC code, risk level, damage pressure, and base energy capacity.
-- **Observation Level 2 (Managerial Tips):** Unlocks specific behavioral guidelines, agitation triggers, and escape conditions.
-- **Observation Level 3 (Work Preference Matrix):** Displays the exact percentage affinity for all four containment protocols across specialist ranks I to V.
-- **Observation Level 4 (M.A.W. Extraction & Story):** Unlocks the ability to fabricate M.A.W. Weapons and Suits, alongside the entity's complete psychological backstory and municipal origin.
+- **Comprehension Level 1 (Basic Parameters):** Unlocks entity name, SECC code, risk level, damage pressure, and base energy capacity.
+- **Comprehension Level 2 (Managerial Tips):** Unlocks specific behavioral guidelines, agitation triggers, and escape conditions.
+- **Comprehension Level 3 (Work Preference Matrix):** Displays the exact percentage affinity for all four containment protocols across specialist ranks I to V.
+- **Comprehension Level 4 (M.A.W. Extraction & Story):** Unlocks the ability to fabricate M.A.W. Weapons and Suits, alongside the entity's complete psychological backstory and municipal origin.
 
 ## 5 The Four Protocols in Administrative Practice
 

@@ -27,7 +27,7 @@
 | Element | Grudge — Crimson |
 | Form | Fire-bodied young woman, banked fury |
 | Location | SECTOR-D-02, Three Sisters containment |
-| Observation Level | 3 — Understood |
+| Comprehension Level | 3 — Understood |
 | M.A.W. Set | Fury Set |
 
 ### Core Sorrow

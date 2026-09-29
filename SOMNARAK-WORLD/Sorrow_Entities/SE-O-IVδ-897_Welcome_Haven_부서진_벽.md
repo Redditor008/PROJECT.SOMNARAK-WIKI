@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A burning humanoid clad in fragments of a shattered wall — stone shards fused to a body of fire and flesh, dragging itself along border lines. Fever-hot, it smells of char; a wall that fell, got up, and now walks the edge. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone E, Border region |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Observation Level 2 — Basic |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Admit the wall failed; do not promise perfect protection |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It patrols former wall lines.
 - It attacks representations of false security more than individuals.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Welcome Haven (O-IVδ-897 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge (Crimson). The entity formed from a wall that failed to protect the people behind it. Held at Zone E, Border region. It patrols former wall lines.
@@ -351,7 +351,7 @@ Some sorrows mourn a collapse. Welcome Haven mourns the broken promise — the w
 **Classification:** Sorrow Entity — `O-IVδ-897 [GS]` · Grudge (Crimson) · Subject-Grudge manifestation
 **Common Name:** Welcome Haven
 **Containment Status:** Contained — Zone E, Border region
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.

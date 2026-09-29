@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A dreamlike rope-shaped figure that melts at one end while reforming at the other — never whole, never gone, an endless knot tying and untying itself. Salt-damp, it smells of cold rain; it appears in travelers' dreams, binding them to a road. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | The Desolate — mobile |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Release the rope consciously and wake with a present anchor |
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It exists primarily in dreams.
 - Its routes change when the dreamer remembers more.
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Melting Rope (N-IIIγ-447 [LS]) is logged as a Subject-Dream manifestation expressing Lament (Deep Blue). The Rope formed from a journey held together only by memory. Held at The Desolate — mobile. It exists primarily in dreams.
@@ -349,7 +349,7 @@ Some sorrows are about separation. Melting Rope is about the connection that out
 **Classification:** Sorrow Entity — `N-IIIγ-447 [LS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Dream manifestation
 **Common Name:** Melting Rope
 **Containment Status:** Contained — the Desolate
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A rope held by one who remembers only the rope. Effect: proximity induces the grief of asymmetric connection.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.

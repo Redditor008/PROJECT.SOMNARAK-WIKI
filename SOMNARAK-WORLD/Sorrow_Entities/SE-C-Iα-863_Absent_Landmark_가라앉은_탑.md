@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A humanoid figure in the shape of a tower, half-submerged in the ground as though it sank while still standing, its body ringed with empty windows looking out on nothing. Bloodless-cold, it smells of ash; from its buried floors a faint light still climbs. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Observation Level** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Observation Level 1 — Initial |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Record its former location; do not attempt to rebuild it around the entity |
@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It sinks when threatened.
 - Its windows show no present interior.
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Absent Landmark (C-Iα-863 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Tower formed from a structure that became a person only after it was lost. Held at Zone B, Old Lament. It sinks when threatened.
@@ -353,7 +353,7 @@ Some sorrows mourn a building. Absent Landmark mourns the orientation — the ha
 **Classification:** Sorrow Entity — `C-Iα-863 [VS]` · City origin · Echo (II) coherence · Moderate (β) potency · Void (Pale White) · Subject-Body manifestation
 **Common Name:** Absent Landmark
 **Containment Status:** Contained — Old Lament
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. The district keeps turning toward a tower that is gone. Effect: proximity induces the disorientation of a missing landmark.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.

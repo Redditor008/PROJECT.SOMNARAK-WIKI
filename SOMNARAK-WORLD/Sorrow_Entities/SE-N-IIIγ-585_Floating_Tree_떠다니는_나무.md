@@ -16,7 +16,7 @@
 | **Physical Form** | Mixed — A tree-beast drifting root-first through the air, hanging roots lashing like tentacles — a floating creature of pale wood shedding broken memories. Salt-damp, it smells of cold rain. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Observation Level** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
@@ -29,7 +29,7 @@
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
@@ -68,7 +68,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Observation Level 2 — Basic |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
 | **Resolution Condition** | Mark its route; do not attempt to anchor it physically |
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Observation Level:** 2 — Basic
+**R.D. Comprehension Level:** 2 — Basic
 
 - It moves with Outside Sorrow currents.
 - Its roots never touch the ground.
@@ -289,7 +289,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Observation Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Floating Tree (N-IIIγ-585 [N]) is logged as a Place-Weight manifestation expressing Lament (Deep Blue). The Tree formed from lives separated from their roots. Held at The Desolate, near The Scar. It moves with Outside Sorrow currents.
@@ -379,7 +379,7 @@ Some sorrows mourn a home. Floating Tree mourns the rooting — the place that h
 **Classification:** Sorrow Entity — `N-IIIγ-585 [N]` · Inner origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Place-Weight manifestation
 **Common Name:** Floating Tree
 **Containment Status:** Contained — Zone D
-**Observation Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic
 **Threat Assessment:** Low. A tree with no roots, floating. Effect: proximity induces the rootlessness of the displaced.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type.
