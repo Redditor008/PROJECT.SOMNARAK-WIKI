@@ -19,21 +19,21 @@ def generate_day_21():
     ])
 
     roster_box = make_box("DEPLOYED ROSTER: FLOORS 1 THROUGH 4 TACTICAL MATRIX", [
-        "AGENT & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
+        "SPECIALIST & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
         "----------------------+-----------------------------------------------",
-        "Agent Hong (Grade IV) | HP 48 | SP 60 | Work 52 | Speed 6 (3 AP + 1 Move)",
+        "Specialist Hong (Grade IV) | HP 48 | SP 60 | Work 52 | Speed 6 (3 AP + 1 Move)",
         "Line Specialist       | M.A.W.-W: Hollow Requiem (Lament / Medium / 1 AP)",
         "Floor 4 Assigned      | Suit: Hollow Shroud (Light / Spd +1) | Halo Gift",
         "                      | Posture: 55/55 | Parry: 14 Power | Pass: Choral Echo",
         "                      | Panic Typology: Despair (Triggers at SP <= -35)",
         "----------------------+-----------------------------------------------",
-        "Agent Tak (Grade IV)  | HP 59 | SP 42 | Work 44 | Speed 5 (3 AP)",
+        "Specialist Tak (Grade IV)  | HP 59 | SP 42 | Work 44 | Speed 5 (3 AP)",
         "Breacher / Anchor     | M.A.W.-W: Fury Blade (Grudge / Heavy / 2 AP)",
         "Floor 2 Assigned      | Suit: Furnace Plate (Heavy / Spd -1 / Posture 70)",
         "                      | Guard: 16 Direct Absorb | Pass: Smoldering Poise",
         "                      | Panic Typology: Berserk (Triggers at SP <= -30)",
         "----------------------+-----------------------------------------------",
-        "Agent Jo (Grade III)  | HP 40 | SP 45 | Work 45 | Speed 6 (3 AP)",
+        "Specialist Jo (Grade III)  | HP 40 | SP 45 | Work 45 | Speed 6 (3 AP)",
         "Mid-Field Warden      | M.A.W.-W: Stun Lance (Void / Medium / 1 AP / Band 2)",
         "Floor 3 Assigned      | Suit: Standard Aegis (Medium / Spd 0 / Posture 50)",
         "                      | Parry: 11 Power | Pass: Harmonic Aegis (+10% Res)",
@@ -57,16 +57,16 @@ def generate_day_21():
         "        [TAK]   [MASK]  [JO]    [HONG]                          [AYSHUK]",
         "---",
         "SPATIAL RANGES & POSITIONS:",
-        "- Node 02: Agent Tak (Line Anchor / Heavy Armor / Range Band 1)",
+        "- Node 02: Specialist Tak (Line Anchor / Heavy Armor / Range Band 1)",
         "- Node 03: Carved Mask (Crimson Hostile / Ingress Epicenter)",
-        "- Node 04: Agent Jo (Mid-Field Specialist / Range Band 2)",
-        "- Node 05: Agent Hong (Lament Sharpshooter / Range Band 3)",
+        "- Node 04: Specialist Jo (Mid-Field Specialist / Range Band 2)",
+        "- Node 05: Specialist Hong (Lament Sharpshooter / Range Band 3)",
         "- Node 10: Research Lead Ayshuk (Observation Terminal / Band 5)",
         "---",
         "OPERATIVE STATUS & RESOURCE POOLS:",
-        "- Agent Tak  : Spd 5 -> 3 AP | HP 59/59 | SP 42/42 | Posture 70/70",
-        "- Agent Jo   : Spd 6 -> 3 AP | HP 40/40 | SP 45/45 | Posture 50/50",
-        "- Agent Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
+        "- Specialist Tak  : Spd 5 -> 3 AP | HP 59/59 | SP 42/42 | Posture 70/70",
+        "- Specialist Jo   : Spd 6 -> 3 AP | HP 40/40 | SP 45/45 | Posture 50/50",
+        "- Specialist Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
         "- Carved Mask: Spd 5 -> 3 AP | HP 180/180 | Posture 90/90"
     ])
 
@@ -75,14 +75,14 @@ def generate_day_21():
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "        [TAK]   [MASK]  [JO]    [HONG]                          [AYSHUK]",
         "---",
-        "- Node 02: Agent Tak (Holding Ground / Guard Shield Locked)",
+        "- Node 02: Specialist Tak (Holding Ground / Guard Shield Locked)",
         "- Node 03: Carved Mask (Staggered by Lament Blast / Posture 48/90)",
-        "- Node 04: Agent Jo (Thrusting Void Lance / Band 2)",
-        "- Node 05: Agent Hong (Choral Requiem Echo Firing)",
+        "- Node 04: Specialist Jo (Thrusting Void Lance / Band 2)",
+        "- Node 05: Specialist Hong (Choral Requiem Echo Firing)",
         "---",
-        "- Agent Tak  : Spd 5 -> 3 AP | HP 55/59 | SP 42/42 | Posture 58/70",
-        "- Agent Jo   : Spd 6 -> 3 AP | HP 40/40 | SP 45/45 | Posture 50/50",
-        "- Agent Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
+        "- Specialist Tak  : Spd 5 -> 3 AP | HP 55/59 | SP 42/42 | Posture 58/70",
+        "- Specialist Jo   : Spd 6 -> 3 AP | HP 40/40 | SP 45/45 | Posture 50/50",
+        "- Specialist Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
         "- Carved Mask: Spd 3 -> 1 AP | HP 128/180 | Posture 48/90 [CRACKED]"
     ])
 
@@ -92,14 +92,14 @@ def generate_day_21():
         "        [TAK]   [MASK]          [HONG]                          [AYSHUK]",
         "                [JO]",
         "---",
-        "- Node 02: Agent Tak (Priming Fury Blade Cleave)",
+        "- Node 02: Specialist Tak (Priming Fury Blade Cleave)",
         "- Node 03: Carved Mask (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 03: Agent Jo (Flanking Ingress / Point-Blank Band 1)",
-        "- Node 05: Agent Hong (Momentum Surge Active / +2 Speed Next Turn)",
+        "- Node 03: Specialist Jo (Flanking Ingress / Point-Blank Band 1)",
+        "- Node 05: Specialist Hong (Momentum Surge Active / +2 Speed Next Turn)",
         "---",
-        "- Agent Tak  : Spd 5 -> 3 AP | HP 55/59 | SP 42/42 | Posture 58/70",
-        "- Agent Jo   : Spd 6 -> 3 AP | HP 40/40 | SP 45/45 | Posture 50/50",
-        "- Agent Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
+        "- Specialist Tak  : Spd 5 -> 3 AP | HP 55/59 | SP 42/42 | Posture 58/70",
+        "- Specialist Jo   : Spd 6 -> 3 AP | HP 40/40 | SP 45/45 | Posture 50/50",
+        "- Specialist Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
         "- Carved Mask: Spd 0 -> 0 AP | HP 68/180  | Posture 22/90 [STAGGERED]"
     ])
 
@@ -108,14 +108,14 @@ def generate_day_21():
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "        [TAK]   [MASK]  [JO]    [HONG]                          [AYSHUK]",
         "---",
-        "- Node 02: Agent Tak (Smoldering Poise Active / Absorbing Blows)",
+        "- Node 02: Specialist Tak (Smoldering Poise Active / Absorbing Blows)",
         "- Node 03: Carved Mask (Recovered / Channeling Carnival Cleave)",
-        "- Node 04: Agent Jo (Parrying Secondary Flurry)",
-        "- Node 05: Agent Hong (Spd 8 / AP 4 / Rapid Choral Discharge)",
+        "- Node 04: Specialist Jo (Parrying Secondary Flurry)",
+        "- Node 05: Specialist Hong (Spd 8 / AP 4 / Rapid Choral Discharge)",
         "---",
-        "- Agent Tak  : Spd 5 -> 3 AP | HP 50/59 | SP 42/42 | Posture 44/70",
-        "- Agent Jo   : Spd 6 -> 3 AP | HP 37/40 | SP 45/45 | Posture 42/50",
-        "- Agent Hong : Spd 8 -> 4 AP [SURGE] | HP 48/48 | SP 60/60 | Posture 55/55",
+        "- Specialist Tak  : Spd 5 -> 3 AP | HP 50/59 | SP 42/42 | Posture 44/70",
+        "- Specialist Jo   : Spd 6 -> 3 AP | HP 37/40 | SP 45/45 | Posture 42/50",
+        "- Specialist Hong : Spd 8 -> 4 AP [SURGE] | HP 48/48 | SP 60/60 | Posture 55/55",
         "- Carved Mask: Spd 5 -> 3 AP | HP 36/180  | Posture 12/90 [CRITICAL]"
     ])
 
@@ -125,13 +125,13 @@ def generate_day_21():
         "        [TAK]   [MASK]                                          [AYSHUK]",
         "        [JO]    [HONG]",
         "---",
-        "- Node 02: Agent Tak & Agent Jo (Cross-Locking Hostile Frame)",
+        "- Node 02: Specialist Tak & Specialist Jo (Cross-Locking Hostile Frame)",
         "- Node 03: Carved Mask (TERMINAL STAGGER / POSTURE 0/90 / 2.0x DMG)",
-        "- Node 03: Agent Hong (Channeling Direct Lament Dissolution)",
+        "- Node 03: Specialist Hong (Channeling Direct Lament Dissolution)",
         "---",
-        "- Agent Tak  : Spd 5 -> 3 AP | HP 50/59 | SP 42/42 | Posture 44/70",
-        "- Agent Jo   : Spd 6 -> 3 AP | HP 37/40 | SP 45/45 | Posture 42/50",
-        "- Agent Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
+        "- Specialist Tak  : Spd 5 -> 3 AP | HP 50/59 | SP 42/42 | Posture 44/70",
+        "- Specialist Jo   : Spd 6 -> 3 AP | HP 37/40 | SP 45/45 | Posture 42/50",
+        "- Specialist Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
         "- Carved Mask: Spd 0 -> 0 AP | HP 10/180  | Posture 0/90 [COLLAPSED]"
     ])
 
@@ -140,14 +140,14 @@ def generate_day_21():
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "        [TAK]   [ASH]   [JO]    [HONG]                          [AYSHUK]",
         "---",
-        "- Node 02: Agent Tak (Returning Blade to Scabbard)",
+        "- Node 02: Specialist Tak (Returning Blade to Scabbard)",
         "- Node 03: Carved Mask (Shattered / Crystallizing into Han Amber)",
-        "- Node 04: Agent Jo (Venting Steam Conduits)",
-        "- Node 05: Agent Hong (Harvesting Refined Reagents)",
+        "- Node 04: Specialist Jo (Venting Steam Conduits)",
+        "- Node 05: Specialist Hong (Harvesting Refined Reagents)",
         "---",
-        "- Agent Tak  : Spd 5 -> 3 AP | HP 50/59 | SP 42/42 | Posture 56/70",
-        "- Agent Jo   : Spd 6 -> 3 AP | HP 37/40 | SP 45/45 | Posture 50/50",
-        "- Agent Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
+        "- Specialist Tak  : Spd 5 -> 3 AP | HP 50/59 | SP 42/42 | Posture 56/70",
+        "- Specialist Jo   : Spd 6 -> 3 AP | HP 37/40 | SP 45/45 | Posture 50/50",
+        "- Specialist Hong : Spd 6 -> 3 AP | HP 48/48 | SP 60/60 | Posture 55/55",
         "- Carved Mask: HP 0/180 [DESTROYED] | +0.010 TONS REFINED HAN HARVESTED"
     ])
 
@@ -163,9 +163,9 @@ def generate_day_21():
         "SHIFT PERFORMANCE GRADE: GRADE S (SUPREME DISPATCH)",
         "REAGENTS ACCUMULATED   : +24 RHR (REFINED HAN REAGENTS)",
         "OPERATIVE ADVANCEMENT  :",
-        "- Agent Hong : +4 Clarity, +3 Composure (Senior Warden)",
-        "- Agent Tak  : +5 Resilience, +2 Resolve (Bulwark Sentinel)",
-        "- Agent Jo   : +4 Composure, +3 Clarity (Promoted to Grade IV)"
+        "- Specialist Hong : +4 Clarity, +3 Composure (Senior Warden)",
+        "- Specialist Tak  : +5 Resilience, +2 Resolve (Bulwark Sentinel)",
+        "- Specialist Jo   : +4 Composure, +3 Clarity (Promoted to Grade IV)"
     ])
 
     extract_box = make_box("EXTRACTION WELL ARCHIVE: SELECT NEXT COMPANION", [
@@ -191,7 +191,7 @@ def generate_day_21():
         "                       | Resist: 0.7 Grudge / 0.8 Lament / 0.7 Weight",
         "Scale Crown Gift       | Head Slot: +6 SP, +5% Parry Counter Power",
         "-----------------------+----------------------------------------------",
-        "EQUIPMENT ALLOCATION   | BESTOWED UPON AGENT TAK (ANCHOR SPECIALIST)"
+        "EQUIPMENT ALLOCATION   | BESTOWED UPON SPECIALIST TAK (ANCHOR SPECIALIST)"
     ])
 
     content = f"""
@@ -203,7 +203,7 @@ def generate_day_21():
 
 > **Majin:** _"And the feathers?"_
 
-> **Ayshuk:** _"The plumage remains pale bronze. But when Agent Hong passed the observation glass, the left scale dipped by 1.4 grams. The bird felt his lingering remorse over the recruits lost in cycle 1,775."_
+> **Ayshuk:** _"The plumage remains pale bronze. But when Specialist Hong passed the observation glass, the left scale dipped by 1.4 grams. The bird felt his lingering remorse over the recruits lost in cycle 1,775."_
 
 > **Zyrak:** _"I forged the Judicial Scale Blade from its shed talons this morning. Heavy as lead, sharp as winter ice. If an operative strikes with unjust wrath, the hilt burns cold. It demands composure."_
 
@@ -225,7 +225,7 @@ Shift parameters engaged for Day 21. Daily collection quota increases to **0.080
 
 Tactical priorities for Day 21:
 1. Conduct safe calibration runs on The Weighting Bird to harvest high-density Weight-affinity Han.
-2. Maintain zero casualties during expected Second Watch (Noon) Ordeal intrusion.
+2. Maintain zero casualties during expected Second Watch Ordeal intrusion.
 3. Advance operative combat proficiencies using the Four P-Framework.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
@@ -240,13 +240,13 @@ Director Majin issues operational clearance: **[DAY 21 PROTOCOL ENGAGED]**.
 
 #### 2. Granular Work Type Management: Chamber 032 (The Weighting Bird)
 
-Agent Hong is dispatched to Chamber 032 for Viderehan observation:
-- `[DISPATCH: Agent Hong -> Floor 4, Chamber 032]`
+Specialist Hong is dispatched to Chamber 032 for Viderehan observation:
+- `[DISPATCH: Specialist Hong -> Floor 4, Chamber 032]`
 - `[PROTOCOL: Viderehan Observation (Judicial Calibration / Weight Affinity)]`
 
 ```text
 > Chamber Telemetry: "The bronze bird tilts its head, peering into Hong's open chest..."
-> Fear Check: Level IV Senior Agent vs Class III Entity -> RESULT: ABSOLUTE CALM.
+> Fear Check: Level IV Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
 ```
 
 - **Work Tick 01–04:** 4 Successes. The bronze scale swings smoothly, registering the purity of Hong's dedication to the Directorate's mission.
@@ -275,16 +275,16 @@ A massive, floating carnival construct formed of jagged porcelain theatre masks 
 
 ##### Turn 01 Action Resolution Log (Spatial Ingress & Heavy Clash)
 - **Operative Movement & Actions**:
-  * **Agent Tak (Speed 5 -> 3 AP)**: Spends 1 AP to plant his heavy boots at Node 02, entering Point-Blank Range Band 1. Declares `[Fury Blade Cleave]` (Costs 2 AP).
-  * **Agent Jo (Speed 6 -> 3 AP)**: Spends 1 AP to advance to Node 04 (Range Band 2). Declares `[Stun Lance Piercing Thrust]` (Costs 2 AP).
-  * **Agent Hong (Speed 6 -> 3 AP)**: Holds Node 05 (Range Band 3). Spends 2 AP to lock optical targeting with `[Hollow Requiem Choral Wave]`. Holds 1 AP in Defensive Guard (+10 Block).
+  * **Specialist Tak (Speed 5 -> 3 AP)**: Spends 1 AP to plant his heavy boots at Node 02, entering Point-Blank Range Band 1. Declares `[Fury Blade Cleave]` (Costs 2 AP).
+  * **Specialist Jo (Speed 6 -> 3 AP)**: Spends 1 AP to advance to Node 04 (Range Band 2). Declares `[Stun Lance Piercing Thrust]` (Costs 2 AP).
+  * **Specialist Hong (Speed 6 -> 3 AP)**: Holds Node 05 (Range Band 3). Spends 2 AP to lock optical targeting with `[Hollow Requiem Choral Wave]`. Holds 1 AP in Defensive Guard (+10 Block).
 - **Clash Resolution (Node 02 to Node 03)**:
   * Carved Mask targets Tak with `[Whirling Porcelain Guillotine]`:
     * Hostile Roll: Base 8 + (2 Coins Heads: +4) = **12 Power**.
-  * Agent Tak unleashes `[Fury Blade Cleave]`:
+  * Specialist Tak unleashes `[Fury Blade Cleave]`:
     * *Tak Passive Trigger:* `Smoldering Poise` (+2 Clash Power when holding Node 02).
     * Tak Roll: Base 9 + (2 Coins Heads: +4) = **15 Power**.
-  * **Result**: **Agent Tak WINS THE CLASH (15 vs 12)!**
+  * **Result**: **Specialist Tak WINS THE CLASH (15 vs 12)!**
     * The razor blades screech against Tak's heavy shield. Tak drives his fury blade through the mask's porcelain cheek!
     * Deals 26 Grudge damage (HP: 154/180). Inflicts +18 Posture Strain (Posture: 72/90).
 
@@ -296,12 +296,12 @@ A massive, floating carnival construct formed of jagged porcelain theatre masks 
 
 ##### Turn 02 Action Resolution Log (Lament Vulnerability & Stagger Build)
 - **Coordinated Tripartite Assault**:
-  * **Agent Hong (Speed 6 -> 3 AP)** fires from Range Band 3:
+  * **Specialist Hong (Speed 6 -> 3 AP)** fires from Range Band 3:
     * `[Hollow Requiem Choral Wave]` strikes the mask's acoustic resonance frequency!
     * Damage: 18 White * 1.5x (Lament Vulnerability) = **27 Direct Lament Damage**!
-  * **Agent Jo (Speed 6 -> 3 AP)** executes `[Stun Lance Thrust]` from Node 04:
+  * **Specialist Jo (Speed 6 -> 3 AP)** executes `[Stun Lance Thrust]` from Node 04:
     * Deals 14 Void damage.
-  * **Agent Tak (Speed 5 -> 3 AP)** blocks the counter-flurry with `[Directional Guard]`, taking only 4 chip damage (HP: 55/59).
+  * **Specialist Tak (Speed 5 -> 3 AP)** blocks the counter-flurry with `[Directional Guard]`, taking only 4 chip damage (HP: 55/59).
   * Carved Mask HP drops from 154 to **113/180**!
   * Combined Posture strain strips another 24 points: Posture drops to **48/90**, crossing the **60% Posture Threshold**!
   * **STAGGER LEVEL 1 TRIGGERED!** The porcelain masks fracture with loud cracks; hostile actions canceled for Turn 03!
@@ -315,9 +315,9 @@ A massive, floating carnival construct formed of jagged porcelain theatre masks 
 ##### Turn 03 Action Resolution Log (Stagger Level 1 Exploitation)
 - **Allied Focus Fire**:
   * With the hostile staggered, all attacks deal 1.5x direct damage!
-  * **Agent Hong**: Passive `Momentum Surge` triggers! Hong gains +2 Speed for next turn. His choral beam tears through the porcelain core, dealing **38 Lament damage**!
-  * **Agent Tak**: Smashes with `[Two-Handed Cleave]`, dealing **24 Grudge damage**!
-  * **Agent Jo**: Infiltrates to Node 03, dealing **18 Void damage**!
+  * **Specialist Hong**: Passive `Momentum Surge` triggers! Hong gains +2 Speed for next turn. His choral beam tears through the porcelain core, dealing **38 Lament damage**!
+  * **Specialist Tak**: Smashes with `[Two-Handed Cleave]`, dealing **24 Grudge damage**!
+  * **Specialist Jo**: Infiltrates to Node 03, dealing **18 Void damage**!
   * Total damage: 80! Hostile HP plummets from 113 to **33/180**!
   * Posture collapses to **14/90**!
 
@@ -330,8 +330,8 @@ A massive, floating carnival construct formed of jagged porcelain theatre masks 
 ##### Turn 04 Action Resolution Log (Desperation Carnival Cleave)
 - **Hostile Recovery & Desperation Protocol**:
   * The Carved Mask recovers, rotating wildly in a 360-degree blade tempest: `[Carnival Cleave]`.
-  * **Agent Tak**: Uses 2 AP to activate `[Bulwark Interception]`, absorbing the brunt of the kinetic storm. Tak sustains 5 damage (HP: 50/59), shielding Jo and Hong completely!
-  * **Agent Hong (Speed 8 under Surge -> 4 AP)**: Fires two consecutive Lament bursts from Range Band 3, dealing 20 damage!
+  * **Specialist Tak**: Uses 2 AP to activate `[Bulwark Interception]`, absorbing the brunt of the kinetic storm. Tak sustains 5 damage (HP: 50/59), shielding Jo and Hong completely!
+  * **Specialist Hong (Speed 8 under Surge -> 4 AP)**: Fires two consecutive Lament bursts from Range Band 3, dealing 20 damage!
   * Hostile HP reaches **13/180**!
 
 ---
@@ -342,7 +342,7 @@ A massive, floating carnival construct formed of jagged porcelain theatre masks 
 
 ##### Turn 05 Action Resolution Log (Terminal Stagger Induction)
 - **Execution Setup**:
-  * Agent Jo executes a precision pin at Node 02 with his Stun Lance, draining the last 14 Posture points!
+  * Specialist Jo executes a precision pin at Node 02 with his Stun Lance, draining the last 14 Posture points!
   * **TERMINAL STAGGER LEVEL 2 TRIGGERED:** Posture hits 0/90. The porcelain construct shatters into disjointed fragments, hovering helpless above the deckplates!
 
 ---
@@ -353,7 +353,7 @@ A massive, floating carnival construct formed of jagged porcelain theatre masks 
 
 ##### Turn 06 Action Resolution Log (Climax Execution)
 - **Final Subdual**:
-  * Agent Tak brings down the Judicial Scale Blade with the full weight of his heavy armor.
+  * Specialist Tak brings down the Judicial Scale Blade with the full weight of his heavy armor.
   * The blade cuts through the central axis. With a sound like breaking fine china, the Carved Mask explodes into radiant amber dust and shimmering Han crystals!
   * **+0.010 tons of refined Han harvested!**
 
@@ -390,7 +390,7 @@ AUTHORIZATION CONFIRMED: **Choice Beta: SE-C-IIIγ-145 (*Garden of Thorns*)**.
 {forge_box}
 ```
 
-Agent Tak is equipped with the *Judicial Scale Blade*, drastically amplifying Floor 2's frontline holding power.
+Specialist Tak is equipped with the *Judicial Scale Blade*, drastically amplifying Floor 2's frontline holding power.
 
 ---
 
@@ -416,21 +416,21 @@ def generate_day_25():
     ])
 
     roster_box = make_box("DEPLOYED ROSTER: BATCH 1 TERMINAL ENGAGEMENT", [
-        "AGENT & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
+        "SPECIALIST & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
         "----------------------+-----------------------------------------------",
-        "Agent Tak (Grade IV)  | HP 64 | SP 44 | Work 46 | Speed 5 (3 AP)",
+        "Specialist Tak (Grade IV)  | HP 64 | SP 44 | Work 46 | Speed 5 (3 AP)",
         "Frontline Bulwark     | M.A.W.-W: Judicial Blade (Weight / Heavy / 2 AP)",
         "Floor 2 Assigned      | Suit: Furnace Plate (Heavy) | Scale Crown Gift",
         "                      | Posture: 75/75 | Guard: 16 Absorb | Pass: Weight Poise",
         "                      | Panic Typology: Berserk (SP <= -30)",
         "----------------------+-----------------------------------------------",
-        "Agent Hong (Grade IV) | HP 48 | SP 64 | Work 55 | Speed 6 (3 AP + 1 Move)",
+        "Specialist Hong (Grade IV) | HP 48 | SP 64 | Work 55 | Speed 6 (3 AP + 1 Move)",
         "Senior Marksman       | M.A.W.-W: Hollow Requiem (Lament / Medium / 1 AP)",
         "Floor 4 Assigned      | Suit: Hollow Shroud (Light / Spd +1) | Halo Gift",
         "                      | Posture: 55/55 | Parry: 14 Power | Pass: Momentum Surge",
         "                      | Panic Typology: Despair (SP <= -35)",
         "----------------------+-----------------------------------------------",
-        "Agent Kang (Grade III)| HP 54 | SP 38 | Work 40 | Speed 6 (3 AP)",
+        "Specialist Kang (Grade III)| HP 54 | SP 38 | Work 40 | Speed 6 (3 AP)",
         "Line Breacher         | M.A.W.-W: Thorn Bracer (Grudge / Medium / 1 AP)",
         "Floor 3 Assigned      | Suit: Reinforced Mail (Medium / Spd 0 / Posture 60)",
         "                      | Parry: 12 Power | Pass: Thorn Reflect (+15% Dmg)",
@@ -455,15 +455,15 @@ def generate_day_25():
         "---",
         "SPATIAL RANGES & POSITIONS:",
         "- Node 02: Burrowing Chitin (Subterranean Eruption Epicenter)",
-        "- Node 03: Agent Tak (Line Anchor / Heavy Bulwark / Range Band 1)",
-        "- Node 04: Agent Kang (Line Breacher / Thorn Gauntlets / Band 2)",
-        "- Node 05: Agent Hong (Senior Marksman / Range Band 3)",
+        "- Node 03: Specialist Tak (Line Anchor / Heavy Bulwark / Range Band 1)",
+        "- Node 04: Specialist Kang (Line Breacher / Thorn Gauntlets / Band 2)",
+        "- Node 05: Specialist Hong (Senior Marksman / Range Band 3)",
         "- Node 10: Containment Lead Dekan (Reinforced Watchtower / Band 5)",
         "---",
         "OPERATIVE STATUS & RESOURCE POOLS:",
-        "- Agent Tak   : Spd 5 -> 3 AP | HP 64/64 | SP 44/44 | Posture 75/75",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 54/54 | SP 38/38 | Posture 60/60",
-        "- Agent Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
+        "- Specialist Tak   : Spd 5 -> 3 AP | HP 64/64 | SP 44/44 | Posture 75/75",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 54/54 | SP 38/38 | Posture 60/60",
+        "- Specialist Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
         "- Chitin Beast: Spd 4 -> 2 AP | HP 220/220 | Posture 110/110"
     ])
 
@@ -473,13 +473,13 @@ def generate_day_25():
         "        [CHITIN][TAK]   [KANG]  [HONG]                          [DEKAN]",
         "---",
         "- Node 02: Burrowing Chitin (Posture 72/110 / Carapace Fissuring)",
-        "- Node 03: Agent Tak (Judicial Blade Heavy Strike Landed)",
-        "- Node 04: Agent Kang (Thorn Reflect Parry Executed)",
-        "- Node 05: Agent Hong (Aiming High-Angle Choral Pulse)",
+        "- Node 03: Specialist Tak (Judicial Blade Heavy Strike Landed)",
+        "- Node 04: Specialist Kang (Thorn Reflect Parry Executed)",
+        "- Node 05: Specialist Hong (Aiming High-Angle Choral Pulse)",
         "---",
-        "- Agent Tak   : Spd 5 -> 3 AP | HP 58/64 | SP 44/44 | Posture 62/75",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 54/54 | SP 38/38 | Posture 60/60",
-        "- Agent Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
+        "- Specialist Tak   : Spd 5 -> 3 AP | HP 58/64 | SP 44/44 | Posture 62/75",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 54/54 | SP 38/38 | Posture 60/60",
+        "- Specialist Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
         "- Chitin Beast: Spd 3 -> 1 AP | HP 165/220 | Posture 72/110 [CRACKED]"
     ])
 
@@ -490,13 +490,13 @@ def generate_day_25():
         "        [TAK]   [KANG]",
         "---",
         "- Node 02: Chitin Beast (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 02: Agent Tak (Point-Blank Band 1 Cleave)",
-        "- Node 03: Agent Kang (Thorn Flurry Driving into Fissure)",
-        "- Node 04: Agent Hong (Advancing with Momentum Surge)",
+        "- Node 02: Specialist Tak (Point-Blank Band 1 Cleave)",
+        "- Node 03: Specialist Kang (Thorn Flurry Driving into Fissure)",
+        "- Node 04: Specialist Hong (Advancing with Momentum Surge)",
         "---",
-        "- Agent Tak   : Spd 5 -> 3 AP | HP 58/64 | SP 44/44 | Posture 62/75",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 54/54 | SP 38/38 | Posture 60/60",
-        "- Agent Hong  : Spd 8 -> 4 AP [SURGE] | HP 48/48 | SP 64/64 | Posture 55/55",
+        "- Specialist Tak   : Spd 5 -> 3 AP | HP 58/64 | SP 44/44 | Posture 62/75",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 54/54 | SP 38/38 | Posture 60/60",
+        "- Specialist Hong  : Spd 8 -> 4 AP [SURGE] | HP 48/48 | SP 64/64 | Posture 55/55",
         "- Chitin Beast: Spd 0 -> 0 AP | HP 92/220  | Posture 35/110 [STAGGERED]"
     ])
 
@@ -506,13 +506,13 @@ def generate_day_25():
         "        [CHITIN][TAK]   [KANG]  [HONG]                          [DEKAN]",
         "---",
         "- Node 02: Chitin Beast (Channeling Subterranean Tremor)",
-        "- Node 03: Agent Tak (Grounding Kinetic Shockwave with Shield)",
-        "- Node 04: Agent Kang (Thorn Armor Absorbing Residual Vibration)",
-        "- Node 05: Agent Hong (Rapid Firing Choral Beams)",
+        "- Node 03: Specialist Tak (Grounding Kinetic Shockwave with Shield)",
+        "- Node 04: Specialist Kang (Thorn Armor Absorbing Residual Vibration)",
+        "- Node 05: Specialist Hong (Rapid Firing Choral Beams)",
         "---",
-        "- Agent Tak   : Spd 5 -> 3 AP | HP 52/64 | SP 44/44 | Posture 48/75",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 50/54 | SP 38/38 | Posture 52/60",
-        "- Agent Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
+        "- Specialist Tak   : Spd 5 -> 3 AP | HP 52/64 | SP 44/44 | Posture 48/75",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 50/54 | SP 38/38 | Posture 52/60",
+        "- Specialist Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
         "- Chitin Beast: Spd 4 -> 2 AP | HP 48/220  | Posture 18/110 [WEAKENED]"
     ])
 
@@ -523,13 +523,13 @@ def generate_day_25():
         "        [TAK]   [KANG]  [HONG]",
         "---",
         "- Node 02: Chitin Beast (TERMINAL STAGGER / POSTURE 0/110 / 2.0x DMG)",
-        "- Node 02: Agent Tak (Pinning Mandibles with Judicial Blade)",
-        "- Node 03: Agent Kang (Driving Thorn Spike into Exposed Core)",
-        "- Node 04: Agent Hong (Harmonic Resonance Overdrive)",
+        "- Node 02: Specialist Tak (Pinning Mandibles with Judicial Blade)",
+        "- Node 03: Specialist Kang (Driving Thorn Spike into Exposed Core)",
+        "- Node 04: Specialist Hong (Harmonic Resonance Overdrive)",
         "---",
-        "- Agent Tak   : Spd 5 -> 3 AP | HP 52/64 | SP 44/44 | Posture 48/75",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 50/54 | SP 38/38 | Posture 52/60",
-        "- Agent Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
+        "- Specialist Tak   : Spd 5 -> 3 AP | HP 52/64 | SP 44/44 | Posture 48/75",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 50/54 | SP 38/38 | Posture 52/60",
+        "- Specialist Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
         "- Chitin Beast: Spd 0 -> 0 AP | HP 14/220  | Posture 0/110 [COLLAPSED]"
     ])
 
@@ -539,13 +539,13 @@ def generate_day_25():
         "        [DUST]  [TAK]   [KANG]  [HONG]                          [DEKAN]",
         "---",
         "- Node 02: Chitin Beast (Carapace Shattered / Siphoned into Flues)",
-        "- Node 03: Agent Tak (Resting Blade / Wiping Amber Fluid)",
-        "- Node 04: Agent Kang (Securing Carapace Fragments)",
-        "- Node 05: Agent Hong (Reporting Sector Clear)",
+        "- Node 03: Specialist Tak (Resting Blade / Wiping Amber Fluid)",
+        "- Node 04: Specialist Kang (Securing Carapace Fragments)",
+        "- Node 05: Specialist Hong (Reporting Sector Clear)",
         "---",
-        "- Agent Tak   : Spd 5 -> 3 AP | HP 52/64 | SP 44/44 | Posture 60/75",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 50/54 | SP 38/38 | Posture 60/60",
-        "- Agent Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
+        "- Specialist Tak   : Spd 5 -> 3 AP | HP 52/64 | SP 44/44 | Posture 60/75",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 50/54 | SP 38/38 | Posture 60/60",
+        "- Specialist Hong  : Spd 6 -> 3 AP | HP 48/48 | SP 64/64 | Posture 55/55",
         "- Chitin Beast: HP 0/220 [PURIFIED] | +0.015 TONS REFINED HAN HARVESTED"
     ])
 
@@ -561,9 +561,9 @@ def generate_day_25():
         "SHIFT PERFORMANCE GRADE: GRADE S (QUARTER-CYCLE MASTERY)",
         "REAGENTS ACCUMULATED   : +28 RHR (REFINED HAN REAGENTS)",
         "OPERATIVE ADVANCEMENT  :",
-        "- Agent Tak  : +5 Resilience, +3 Resolve (Senior Bulwark)",
-        "- Agent Hong : +4 Clarity, +3 Composure (Senior Sentinel)",
-        "- Agent Kang : +5 Resilience, +3 Composure (Promoted to Grade IV)"
+        "- Specialist Tak  : +5 Resilience, +3 Resolve (Senior Bulwark)",
+        "- Specialist Hong : +4 Clarity, +3 Composure (Senior Sentinel)",
+        "- Specialist Kang : +5 Resilience, +3 Composure (Promoted to Grade IV)"
     ])
 
     forge_box = make_box("M.A.W. SYNTHESIS FORGING LOG — DAY 25", [
@@ -575,7 +575,7 @@ def generate_day_25():
         "                       | Range Band 1 | 2 AP | Inflicts Tremor Stagger",
         "Carapace Crest Gift    | Head Slot: +8 HP, +10 Max Posture Meter",
         "-----------------------+----------------------------------------------",
-        "EQUIPMENT ALLOCATION   | BESTOWED UPON AGENT KANG (BREACH SPECIALIST)"
+        "EQUIPMENT ALLOCATION   | BESTOWED UPON SPECIALIST KANG (BREACH SPECIALIST)"
     ])
 
     content = f"""
@@ -626,8 +626,8 @@ Director Majin engages the floor-wide dispatch relays: **[DAY 25 OPERATIONAL SHI
 
 #### 2. Granular Work Type Management: Chamber 145 (Garden of Thorns)
 
-Agent Kang enters Chamber 145 for Pugnahan combat calibration:
-- `[DISPATCH: Agent Kang -> Floor 3, Chamber 145]`
+Specialist Kang enters Chamber 145 for Pugnahan combat calibration:
+- `[DISPATCH: Specialist Kang -> Floor 3, Chamber 145]`
 - `[PROTOCOL: Pugnahan Pruning (Combat Resistance / Grudge Affinity)]`
 
 ```text
@@ -663,13 +663,13 @@ A massive, segmented insectoid monstrosity encased in petrified amber chitin bur
 
 ##### Turn 01 Action Resolution Log (Carapace Impact & Frontline Anchor)
 - **Operative Movement & Clash Standoff**:
-  * **Agent Tak (Speed 5 -> 3 AP)**: Plants his boots firmly at Node 03, swinging the heavy Judicial Scale Blade in a vertical arc (Costs 2 AP).
+  * **Specialist Tak (Speed 5 -> 3 AP)**: Plants his boots firmly at Node 03, swinging the heavy Judicial Scale Blade in a vertical arc (Costs 2 AP).
   * The Chitin Beast unleashes `[Burrowing Mandible Crush]` against Node 03 (2 AP / Weight Affinity):
     * Hostile Roll: Base 9 + (2 Coins Heads: +4) = **13 Power**.
-  * Agent Tak's Roll:
+  * Specialist Tak's Roll:
     * *Tak Passive Trigger:* `Weight Poise` active (+2 Base Clash Power).
     * Tak Roll: Base 10 + (2 Coins Heads: +4) = **16 Power**!
-  * **Clash Result**: **Agent Tak WINS THE CLASH (16 vs 13)!**
+  * **Clash Result**: **Specialist Tak WINS THE CLASH (16 vs 13)!**
     * The Judicial Blade smashes into the beast's armored forehead, driving it backward.
     * Deals 28 Weight damage (HP: 192/220). Inflicts +22 Posture Strain (Posture: 88/110).
 
@@ -681,10 +681,10 @@ A massive, segmented insectoid monstrosity encased in petrified amber chitin bur
 
 ##### Turn 02 Action Resolution Log (Fissure Exploitation & Posture Reduction)
 - **Coordinated Breaching Strike**:
-  * **Agent Kang (Speed 6 -> 3 AP)** steps into Node 03 alongside Tak:
+  * **Specialist Kang (Speed 6 -> 3 AP)** steps into Node 03 alongside Tak:
     * Declares `[Thorn Gauntlet Pincer Strike]` (Costs 2 AP).
     * Drives sharp thorn spikes into the crack opened by Tak's blade, dealing **27 Grudge damage**!
-  * **Agent Hong (Speed 6 -> 3 AP)** fires from Range Band 3 (Node 05):
+  * **Specialist Hong (Speed 6 -> 3 AP)** fires from Range Band 3 (Node 05):
     * Firing Void-attuned Lament beams, exploiting the entity's acoustic vulnerabilities: **24 Damage**!
   * Chitin Beast HP drops from 192 to **141/220**!
   * Posture drops from 88 to **44/110**, crossing the **60% Posture Threshold**!
@@ -698,9 +698,9 @@ A massive, segmented insectoid monstrosity encased in petrified amber chitin bur
 
 ##### Turn 03 Action Resolution Log (Stagger Level 1 Exploitation)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * **Agent Hong**: Passive `Momentum Surge` activates! Gains +2 Speed for next turn. Discharges high-frequency beam: **36 Damage**!
-  * **Agent Tak**: Executes `[Two-Handed Judicial Sunder]`: **33 Damage**!
-  * **Agent Kang**: Unleashes rapid thorn barrage: **26 Damage**!
+  * **Specialist Hong**: Passive `Momentum Surge` activates! Gains +2 Speed for next turn. Discharges high-frequency beam: **36 Damage**!
+  * **Specialist Tak**: Executes `[Two-Handed Judicial Sunder]`: **33 Damage**!
+  * **Specialist Kang**: Unleashes rapid thorn barrage: **26 Damage**!
   * Total single-turn damage: 95! Chitin Beast HP drops to **46/220**!
   * Posture meter collapses to **12/110**!
 
@@ -713,8 +713,8 @@ A massive, segmented insectoid monstrosity encased in petrified amber chitin bur
 ##### Turn 04 Action Resolution Log (Subterranean Tremor Counter-Surge)
 - **Hostile Desperation Protocol**:
   * The Chitin Beast thrashes in fury, slamming its thorax against the ground to trigger `[Subterranean Tremor]`.
-  * **Agent Tak**: Deploys `[Directional Guard Absorption]`, grounding the seismic tremor into the bedrock and reducing damage to all allies by 70%! Tak sustains 6 chip damage (HP: 52/64).
-  * **Agent Hong (Speed 8 under Surge -> 4 AP)**: Fires two consecutive piercing shots from Range Band 3, dealing 28 damage!
+  * **Specialist Tak**: Deploys `[Directional Guard Absorption]`, grounding the seismic tremor into the bedrock and reducing damage to all allies by 70%! Tak sustains 6 chip damage (HP: 52/64).
+  * **Specialist Hong (Speed 8 under Surge -> 4 AP)**: Fires two consecutive piercing shots from Range Band 3, dealing 28 damage!
   * Chitin Beast HP falls to **18/220**!
 
 ---
@@ -725,8 +725,8 @@ A massive, segmented insectoid monstrosity encased in petrified amber chitin bur
 
 ##### Turn 05 Action Resolution Log (Terminal Stagger Induction)
 - **Mandible Lock & Stagger**:
-  * Agent Tak drives the flat of his blade between the creature's mandibles, locking its head against the floorplates.
-  * Agent Kang delivers a point-blank punch into the central nerve cluster:
+  * Specialist Tak drives the flat of his blade between the creature's mandibles, locking its head against the floorplates.
+  * Specialist Kang delivers a point-blank punch into the central nerve cluster:
     * Drains the final 12 Posture points!
     * **TERMINAL STAGGER LEVEL 2 TRIGGERED!** Posture hits **0/110**. The beast ceases all movement, completely neutralized.
 
@@ -738,7 +738,7 @@ A massive, segmented insectoid monstrosity encased in petrified amber chitin bur
 
 ##### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Final Subdual**:
-  * Agent Tak, Agent Kang, and Agent Hong execute a synchronized execution discharge.
+  * Specialist Tak, Specialist Kang, and Specialist Hong execute a synchronized execution discharge.
   * The amber chitin shell shatters into thousands of polished translucent crystals that dissolve into pure Han vapor.
   * Floor 2's pneumatic collection flues siphon the harvest: **+0.015 tons of refined Han secured**!
 
@@ -760,7 +760,7 @@ Total daily harvest reaches **0.108 / 0.100 tons**! Quota surpassed!
 {forge_box}
 ```
 
-Agent Kang equips the *Chitin Carapace Mail* and *Chitin Great-Maul*, transforming him into Floor 3's premier heavyweight breacher.
+Specialist Kang equips the *Chitin Carapace Mail* and *Chitin Great-Maul*, transforming him into Floor 3's premier heavyweight breacher.
 
 ---
 

@@ -59,7 +59,7 @@ Min-Jae took the mug. The warmth seeped through his oil-stained fingers. He took
 
 "Where's the boy?" Min-Jae asked.
 
-"Taeho?" Seol-A smiled faintly, though her eyes remained shadowed. "In the mess hall. Arguing with the logistics clerk over his cleaver's edge. He claims the grindstone in Zone D gave him a three-degree deviation on the fuller. He wanted to file a formal grievance with the Council."
+"Taeho?" Seol-A smiled faintly, though her eyes remained shadowed. "In the mess hall. Arguing with the logistics auxiliary over his cleaver's edge. He claims the grindstone in Zone D gave him a three-degree deviation on the fuller. He wanted to file a formal grievance with the Council."
 
 "He's nervous," Min-Jae said softly. "When Taeho talks about blade angles, it means his hands are shaking."
 

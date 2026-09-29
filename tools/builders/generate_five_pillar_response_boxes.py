@@ -32,7 +32,7 @@ def make_box():
     out.append(pad_line("3. GAME HUB: 10-Node Grid Tactical Simulator & Speed Dice Battles."))
     out.append(pad_line("4. GAME WIKI HUB: Project Moon Wiki.gg & Fandom Style Compendium:"))
     out.append(pad_line("   - Lobotomy Corp: Work math, Qliphoth, Meltdowns, Ordeals, EGO."))
-    out.append(pad_line("   - Library of Ruina: Key Pages, Deckbuilding, Clashes, Realize."))
+    out.append(pad_line("   - Library of Ruina: Memory Leaves, Deckbuilding, Clashes, Realize."))
     out.append(pad_line("   - Limbus Company: Sinner IDs, Plus/Minus Coins, SP math, Sin."))
     out.append(pad_line("   - Project Somnarak: 10-Node Grid, Han ATK/HP math, Two-Work Law."))
     out.append(pad_line("5. COLLECTION HUB: 292 Sorrow Entities, 287+ SVG Armory, Relics."))

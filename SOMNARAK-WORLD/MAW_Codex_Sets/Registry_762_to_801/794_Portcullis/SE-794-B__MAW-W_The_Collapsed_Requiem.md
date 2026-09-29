@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-794` — Portcullis  
 **Source SECC Designation:** `O-Iα-794 [LO]`  
 **Item Registry Code:** `MAW-W-794-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Portcullis — Witnessed Form*, The Collapsed Requiem performs the weapo
 **Document ID:** `SE-794-B`  
 **Linked Entity:** `SE-794`  
 **Item Registry Code:** `MAW-W-794-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

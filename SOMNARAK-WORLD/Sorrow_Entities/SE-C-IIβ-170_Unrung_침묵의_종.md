@@ -287,7 +287,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It resonates with the Orphaned Bell without becoming audible.
 - It is most active before a preventable incident.
 
-**Personnel Note:** *"It was moving. I felt wonder. The Bell had not rung, but it was finally certain someone was listening."* — Agent, Zone D patrol
+**Personnel Note:** *"It was moving. I felt wonder. The Bell had not rung, but it was finally certain someone was listening."* — Specialist, Zone D patrol
 
 
 

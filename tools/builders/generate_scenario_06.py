@@ -44,7 +44,7 @@ def generate_scenario_06():
             "SECTOR COORDINATE   : -2,800m Sub-Alpha Monolith Root Nexus        ",
             "ADVERSARY SOVEREIGN : The Weeping Statue (Autonomous Lament Core)  ",
             "OPERATING UNIT      : Secretary Seiyon & Mnemonic Suture Cadre     ",
-            "ENGAGEMENT OUTCOME  : Realization Catharsis / Key Page Extraction  ",
+            "ENGAGEMENT OUTCOME  : Realization Catharsis / Memory Leaf Extraction  ",
         ]
     )
 
@@ -140,7 +140,7 @@ def generate_scenario_06():
             "FINAL IMPACT    : Mnemonic Suture Severance (True Grit Stagger 2)  ",
             "POSTURE STATUS  : 0/320 (Terminal Transmutation & Realization End) ",
             "FLOOD DRAINAGE  : Catacomb Brine recedes into Sub-Alpha Root Sumps ",
-            "KEY PAGE YIELD  : [Key Page: The Mourner] extracted to Archive     ",
+            "MEMORY LEAF YIELD  : [Memory Leaf: The Mourner] extracted to Archive     ",
         ]
     )
 
@@ -151,7 +151,7 @@ def generate_scenario_06():
             "EXTRACTION TARGET   : The Weeping Statue (Autonomous Lament Core)   ",
             "PSYCHIC STATUS      : REALIZED & RECONCILED (Catharsis Complete)    ",
             "CATACOMB DRAINAGE   : 100% Han-Brine Flushed to Deep Monolith Roots ",
-            "RECOVERED ARTIFACT  : Sovereign Key Page: The Mourner (Rank IV-D)  ",
+            "RECOVERED ARTIFACT  : Sovereign Memory Leaf: The Mourner (Rank IV-D)  ",
             "---",
             "UNLOCKED SOVEREIGN ENGRAM:                                          ",
             "- 'Catharsis of Unexpressed Grief' (Tier 4 Identity Engram)         ",
@@ -168,7 +168,7 @@ def generate_scenario_06():
             "FLOOR STABILIZATION : 100% NOMINAL — Sorrow Inversion Neutralized  ",
             "CASUALTIES SUSTAINED: ZERO (0) Fatalities across Archive Retrieval ",
             "POSTURE DRAIN RECORD: Seiyon -35 | Jun -40 | Elin -75 | M-PROJ -25 ",
-            "RECOVERED ARTIFACTS : Sovereign Key Page: The Mourner (Rank IV-D)  ",
+            "RECOVERED ARTIFACTS : Sovereign Memory Leaf: The Mourner (Rank IV-D)  ",
             "MNEMONIC ENGRAM     : 'Catharsis of Unexpressed Grief' Registered  ",
             "DESCENT AUTHORIZED  : Subterranean Stairway to Floor 05 Unsealed   ",
         ]
@@ -189,7 +189,7 @@ def generate_scenario_06():
   * **Glacial Grief Saturation:** Ambient temperature hovers near freezing. At Phase-End, all active combatants suffer 8 unshielded Lament strain unless warmed by photonic lanterns or acoustic heating coils.
   * **Mnemonic Suture Resonance:** Successful clashes executed by Chief Archivist Jun attach *Memory Sutures* to hostile body parts. Each active suture reduces the adversary's total Posture pool by 15 points and redirects 10% of unspent kinetic force back into the construct's hydraulic manifold.
 - **Mission Briefing:**
-  Within the submerged white-marble cathedrals of Floor 04, four thousand years of suppressed facility tears have crystallized into an autonomous Lament sovereign: **The Weeping Statue (SE-C-IVδ-014)**. As Secretary Seiyon leads the retrieval unit into the deep strata to access the Sub-Alpha Root memory nodes, the construct awakens to enforce eternal mourning. To avert a total Sorrow Inversion Meltdown and unseal the stairway to Floor 05, Seiyon and her Mnemonic Suture Cadre must shatter the hydraulic Siphon Veil, crush the smoldering Basalt Mourning Censer, expose the crying Sorrow Heart, and guide the manifestation through emotional catharsis to secure **Key Page: The Mourner**.
+  Within the submerged white-marble cathedrals of Floor 04, four thousand years of suppressed facility tears have crystallized into an autonomous Lament sovereign: **The Weeping Statue (SE-C-IVδ-014)**. As Secretary Seiyon leads the retrieval unit into the deep strata to access the Sub-Alpha Root memory nodes, the construct awakens to enforce eternal mourning. To avert a total Sorrow Inversion Meltdown and unseal the stairway to Floor 05, Seiyon and her Mnemonic Suture Cadre must shatter the hydraulic Siphon Veil, crush the smoldering Basalt Mourning Censer, expose the crying Sorrow Heart, and guide the manifestation through emotional catharsis to secure **Memory Leaf: The Mourner**.
 
 ---
 
@@ -197,9 +197,9 @@ def generate_scenario_06():
 
 ### 2.1 Allied Memory Archive Retrieval Unit
 
-| Operative Callsign | Role | Base Spd | Max HP | Composure | Posture | Equipped M.A.W. / Key Page | Range Band |
+| Operative Callsign | Role | Base Spd | Max HP | Composure | Posture | Equipped M.A.W. / Memory Leaf | Range Band |
 |---|---|---|---|---|---|---|---|
-| **Secretary Seiyon** | Stratum Lead / Avatar | 5 | 240 | 130 | 150 | Key Page: The Secretary | Band 1-2 (Mid) |
+| **Secretary Seiyon** | Stratum Lead / Avatar | 5 | 240 | 130 | 150 | Memory Leaf: The Secretary | Band 1-2 (Mid) |
 | **Chief Archivist Jun** | Mnemonic Suture Specialist | 4 | 180 | 110 | 135 | Mnemonic Suture Needles | Band 2-3 (Mid) |
 | **Drone M-PROJ-01** | Recon & Tactical Sensor | 5 | 120 | 100 | 90 | Acoustic De-Icing Caliper | Band 1-4 (Flex) |
 | **Specialist Elin** | Hydro-Bastion Anchor | 3 | 200 | 115 | 160 | Thermal Bastion Greatshield | Band 1 (Melee) |
@@ -386,15 +386,15 @@ def generate_scenario_06():
   * The 2.0x Fatal Void vulnerability procs: Seiyon inflicts (47 - 38) + 210 Void/Harmonic damage = 428 True Damage, completely draining the construct's remaining Posture pool (48 -> 0).
   * **TERMINAL MELTDOWN REACHED: 0/320 POSTURE COLLAPSE**.
   * The petrified marble fissures along thousands of hairline fractures. The roaring torrent of tears slows to a gentle trickle. The colossal statue bows its head in absolute stillness, the expression of agonizing sorrow softening into serene, peaceful release.
-  * A crystalline manifestation codex condenses upon the alabaster dais: `[Key Page: The Mourner]`.
+  * A crystalline manifestation codex condenses upon the alabaster dais: `[Memory Leaf: The Mourner]`.
 
 ---
 
-## 5. Realization Catharsis Resolution & Key Page Extraction
+## 5. Realization Catharsis Resolution & Memory Leaf Extraction
 
 {wrap_box(b_extract)}As the final reverberations of the battle fade, the flooded cathedral falls completely silent. The ankle-deep brine recedes through subterranean intake valves, exposing dry white marble flagstones inscribed with the names of past-cycle personnel.
 
-Secretary Seiyon retrieves the glowing Key Page from the center of the shattered alabaster altar, integrating its resonant frequencies into her core matrix.
+Secretary Seiyon retrieves the glowing Memory Leaf from the center of the shattered alabaster altar, integrating its resonant frequencies into her core matrix.
 
 "Rest now," Seiyon whispers to the petrified monument. "Your grief is recorded. None of it was in vain."
 

@@ -40,7 +40,7 @@ The central command of the Reverie Directorate operates from the eight subterran
 **Legal Name & True Identity:** Strictly **[REDACTED]**. No living citizen, field agent, or Council representative has ever seen his identification papers or heard his birth name pronounced. In all internal Directorate files, he is referenced solely by his title: **The Director**.
 
 **Observed Physical Profile:**
-Witness reports from veteran containment agents admitted to Floor 1 describe him as a tall, broad-shouldered biological human man in his late forties, possessing dark hair streaked with silver and eyes of unreadable, cold sorrow. He wears a heavy, tailored charcoal-black executive mantle lined with deep midnight blue.
+Witness reports from veteran containment specialists admitted to Floor 1 describe him as a tall, broad-shouldered biological human man in his late forties, possessing dark hair streaked with silver and eyes of unreadable, cold sorrow. He wears a heavy, tailored charcoal-black executive mantle lined with deep midnight blue.
 His right arm is permanently fused with a grotesque, living biological-crystalline entity graft that shifts with an independent heartbeat. When facility reality dampeners fail, the graft manifests as **Reaper Hungered**—a monolithic, obsidian-and-crimson scythe capable of cleaving both physical matter and psychic Han lattices.
 
 **Operational Doctrine:**
@@ -103,7 +103,7 @@ Zyrak oversees the extraction vats where raw entity sorrow is crystallized into 
 **Operational Station:** Floor 4 (Research & Work Analysis Floor).
 
 **Surveillance & Behavioral Notes:**
-Ayshuk manages the Directorate's research ledger, calculating behavioral probabilities and Work Type effectiveness (Flerehan, Pugnahan, Viderehan, Ferrehan). Field personnel find her chilling: she has been observed calmly taking notes through observation windows while field agents suffer psychological fracture. Informants whisper she willingly underwent neural soul-extraction to purge her own traumatic memories of settler grief following the Consolihan.
+Ayshuk manages the Directorate's research ledger, calculating behavioral probabilities and Work Type effectiveness (Flerehan, Pugnahan, Viderehan, Ferrehan). Field personnel find her chilling: she has been observed calmly taking notes through observation windows while field specialists suffer psychological fracture. Informants whisper she willingly underwent neural soul-extraction to purge her own traumatic memories of settler grief following the Consolihan.
 
 ---
 
@@ -116,7 +116,7 @@ Ayshuk manages the Directorate's research ledger, calculating behavioral probabi
 **Operational Station:** Floor 5 (Border Watch & Frontier Defense).
 
 **Surveillance & Behavioral Notes:**
-A veteran who survived ten documented years in the Outside Desolate following an unrecorded municipal exile. Mellda is regarded by field agents as the Directorate's most formidable frontline warrior. Observers document periodic "phase-shifting" phenomena where sections of her body become smoke-like and translucent, suggesting a symbiotic bond with an Outside Sorrow passenger. She fights with unyielding martial discipline, refusing to abandon frontline personnel.
+A veteran who survived ten documented years in the Outside Desolate following an unrecorded municipal exile. Mellda is regarded by field specialists as the Directorate's most formidable frontline warrior. Observers document periodic "phase-shifting" phenomena where sections of her body become smoke-like and translucent, suggesting a symbiotic bond with an Outside Sorrow passenger. She fights with unyielding martial discipline, refusing to abandon frontline personnel.
 
 ---
 
@@ -999,7 +999,7 @@ Because if they stop — even for a moment — the village will consume them too
 
 **Known For:** Every Council decision passes through Yeong's hands first. Every document, every decree, every secret. Yeong knows things that the Council members have forgotten. Yeong remembers things the city has erased.
 
-**Origin:** Yeong was a junior clerk — twenty years old, fresh from the Archive's administrative division, assigned to the Council's secretarial pool. They were efficient, quiet, and invisible — the perfect clerk.
+**Origin:** Yeong was a junior auxiliary — twenty years old, fresh from the Archive's administrative division, assigned to the Council's secretarial pool. They were efficient, quiet, and invisible — the perfect auxiliary.
 
 Over forty years, Yeong rose through the ranks — not by ambition, but by *persistence*. Every Council member who came and went relied on Yeong. Every crisis was managed by Yeong. Every secret was kept by Yeong.
 
@@ -1011,7 +1011,7 @@ They continue serving. Not because they believe in the Council — but because s
 
 **The Question:** *"If I run the city, who runs me?"*
 
-#### Tale: The Clerk Who Knew Everything
+#### Tale: The Auxiliary Who Knew Everything
 
 There is a desk in the Council chamber — small, wooden, positioned in the corner. The desk has been there for forty years. The person behind the desk has been there longer.
 

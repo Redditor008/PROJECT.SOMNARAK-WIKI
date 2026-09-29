@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1024` — Debt Collector's Lantern
 **Source SECC Designation:** `N-IIβ-250 [WO]`
 **Item Registry Code:** `MAW-W-1024-01`
-**Author:** Agent Durivel Cho
+**Author:** Specialist Durivel Cho
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -51,7 +51,7 @@ Within *Debt-Collector's-Lantern — Witnessed Form*, The Collector's Vigil-Lant
 **Document ID:** `SE-1024-B`
 **Linked Entity:** `SE-1024`
 **Item Registry Code:** `MAW-W-1024-01`
-**Author:** Agent Durivel Cho
+**Author:** Specialist Durivel Cho
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

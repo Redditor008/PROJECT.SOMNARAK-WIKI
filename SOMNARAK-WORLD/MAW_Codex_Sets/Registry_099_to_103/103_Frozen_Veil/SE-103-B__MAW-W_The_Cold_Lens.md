@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / δ — Critical / Void — Pale White |
 | Status | Restricted active issue; relationship-anchor verification required |
 | Maximum amount | 2 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A pale, almost transparent Lens with a frost-white edge and no measurable temperature difference from the room. |
 | Active form | A flat white line appears across the Lens, as if a feeling has been cut out of the air. |
 | Recognition rule | The bearer’s reflection appears only after the anchor person names one chosen relationship, not a duty. |

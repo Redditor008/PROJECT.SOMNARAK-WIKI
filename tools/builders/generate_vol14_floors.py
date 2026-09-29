@@ -11,7 +11,7 @@ content = """# VOLUME 14: LIBRARY OF RUINA FLOORS, REALIZATIONS, AND EMOTION SYS
 | System Architecture  | The Library (도서관) / 10 Kabbalistic Floors   |
 | Primary Liaison      | Angela (앤젤라 / Head Librarian & Hostess)      |
 | Core Mechanics       | Speed Dice, Clash Priority, Emotion Levels I-V |
-| Card Architecture    | Combat Pages, Key Pages, E.G.O Pages, Passives  |
+| Card Architecture    | Combat Pages, Memory Leaves, E.G.O Pages, Passives  |
 | Pinnacle Battles     | Complete Floor Realizations (완전 개방 / 각성) |
 +========================================================================+
 ```
@@ -79,7 +79,7 @@ The Library constructed by Angela from the remnants of Lobotomy Corporation is a
 
 ### 6. Floor of Language (언어의 층) — Geburah (게부라) / Kali (칼리)
 - **Virtue / Philosophical Awakening:** *"The courage to protect what is truly precious."*
-- **Tactical Archetype:** The Red Mist Key Page, massive Slash damage, Infinite Speed Dice, cost reduction upon kill, and solo board dominance.
+- **Tactical Archetype:** The Red Mist Memory Leaf, massive Slash damage, Infinite Speed Dice, cost reduction upon kill, and solo board dominance.
 - **Assigned Abnormalities:**
   - `O-02-56` *Punishing Bird* (Small beak, Counter-attack retaliation)
   - `O-02-40` *Big Bird* (Enchantment, Lantern gaze, Guillotine bite)

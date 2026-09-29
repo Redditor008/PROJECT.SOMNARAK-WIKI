@@ -7,7 +7,7 @@
 **Document ID:** `SE-250-C`  
 **Linked Entity:** `SE-250` — Memory Rain  
 **Item Registry Code:** `MAW-S-250-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Umbrella receives the fragment after Requiem separates it; Charm keeps the host 
 **Document ID:** `SE-250-C`  
 **Linked Entity:** `SE-250`  
 **Item Registry Code:** `MAW-S-250-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

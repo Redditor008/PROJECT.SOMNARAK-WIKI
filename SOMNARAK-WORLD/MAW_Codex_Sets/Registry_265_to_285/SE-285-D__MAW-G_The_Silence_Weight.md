@@ -7,7 +7,7 @@
 **Document ID:** `SE-285-D`  
 **Linked Entity:** `SE-285` — Weight of Silence  
 **Item Registry Code:** `MAW-G-285-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ Gift detects burden, Mantle makes optional quiet, and Maul acts on one offered w
 **Document ID:** `SE-285-D`  
 **Linked Entity:** `SE-285`  
 **Item Registry Code:** `MAW-G-285-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

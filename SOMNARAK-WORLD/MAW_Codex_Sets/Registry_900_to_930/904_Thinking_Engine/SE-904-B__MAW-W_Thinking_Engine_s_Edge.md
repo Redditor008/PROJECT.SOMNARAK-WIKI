@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-904` — Thinking Engine  
 **Source SECC Designation:** `C-IIIγ-904 [LO]`  
 **Item Registry Code:** `MAW-W-904-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Thinking Engine — Witnessed Form*, Thinking Engine's Edge performs the
 **Document ID:** `SE-904-B`  
 **Linked Entity:** `SE-904`  
 **Item Registry Code:** `MAW-W-904-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

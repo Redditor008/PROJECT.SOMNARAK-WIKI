@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1018` — Labyrinth of Stolen Faces  
 **Source SECC Designation:** `C-IVγ-180 [VP]`  
 **Item Registry Code:** `MAW-S-1018-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Veil performs th
 **Document ID:** `SE-1018-C`  
 **Linked Entity:** `SE-1018`  
 **Item Registry Code:** `MAW-S-1018-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-833` — Neverlast  
 **Source SECC Designation:** `O-IIβ-833 [LS]`  
 **Item Registry Code:** `MAW-S-833-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Neverlast — Witnessed Form*, Neverlast's Shroud performs the suit role
 **Document ID:** `SE-833-C`  
 **Linked Entity:** `SE-833`  
 **Item Registry Code:** `MAW-S-833-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

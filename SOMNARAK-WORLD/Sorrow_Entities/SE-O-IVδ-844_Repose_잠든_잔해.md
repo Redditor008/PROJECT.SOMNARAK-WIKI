@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its dreams alter nearby architecture.
 - It is calmest when mourned quietly.
 
-**Personnel Note:** *"It felt grief. The Ruin was sleeping because waking would require remembering the collapse all at once."* — Agent, Zone D patrol
+**Personnel Note:** *"It felt grief. The Ruin was sleeping because waking would require remembering the collapse all at once."* — Specialist, Zone D patrol
 
 
 

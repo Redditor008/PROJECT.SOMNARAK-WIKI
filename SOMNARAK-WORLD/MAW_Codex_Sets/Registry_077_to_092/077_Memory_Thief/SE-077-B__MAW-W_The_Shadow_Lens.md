@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / β — Moderate / Void — Pale White |
 | Status | Active; issue only with a paired identity-verification partner |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Nari Kwon |
+| Current bearer | Specialist Nari Kwon |
 | Resting form | A coin-wide, nearly colourless Han-glass disc. Its edge holds a black crescent that never stays in the same position. |
 | Active form | A thin circular aperture opens in front of the bearer’s hand; the target sees their own recognition hesitate inside it. |
 | Recognition rule | Its surface reflects the room but never the bearer until a trusted witness says the bearer’s full name. |
@@ -75,9 +75,9 @@ The Lens releases a narrow pale strike. On contact it disrupts a target’s imme
 
 ## HISTORY OF USE
 
-**First reviewed field use:** Agent Nari Kwon used *Misplaced Name* during a Collector’s Row evacuation when an armed pursuer kept returning to the same civilian route. The pursuer lost the link between the painted route mark and the crowd long enough for the corridor to clear. Kwon afterward forgot the name of a familiar tea stall; the partner log restored the fact as a record, not as a recovered feeling.
+**First reviewed field use:** Specialist Nari Kwon used *Misplaced Name* during a Collector’s Row evacuation when an armed pursuer kept returning to the same civilian route. The pursuer lost the link between the painted route mark and the crowd long enough for the corridor to clear. Kwon afterward forgot the name of a familiar tea stall; the partner log restored the fact as a record, not as a recovered feeling.
 
-**Earlier source witness:** Agent Hanul Grey’s exchange for the memory of his sister’s face established the ethical precedent: the Thief may return a memory, but an M.A.W. registry must never treat the exchange as ownership.
+**Earlier source witness:** Specialist Hanul Grey’s exchange for the memory of his sister’s face established the ethical precedent: the Thief may return a memory, but an M.A.W. registry must never treat the exchange as ownership.
 
 ## CORROSION, MAINTENANCE & SHUTDOWN
 

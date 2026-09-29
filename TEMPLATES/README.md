@@ -51,7 +51,7 @@
 | 11 | `11_ABSOLOVHAN_DAYLOG_TEMPLATE.md` | `SOMNARAK-WORLD/The_Absolvohan/Part_*.md` |
 | 12 | `12_KATABAGIL_PASSAGE_TEMPLATE.md` | `SOMNARAK-WORLD/Katabagil/Passage_*.md` |
 | 13 | `13_KATHARCHEOK_OPERATION_TEMPLATE.md` | `SOMNARAK-WORLD/Katharcheok/Operation_*.md` |
-| 14 | `14_GIEOK_RECEPTION_TEMPLATE.md` | `SOMNARAK-WORLD/Gieok_Jeojangso/Reception_*.md` |
+| 14 | `14_GIEOK_READING_TEMPLATE.md` | `SOMNARAK-WORLD/Gieok_Jeojangso/Reading_*.md` |
 | 15 | `15_JIPYEONGSEONDAE_ARC_TEMPLATE.md` | `SOMNARAK-WORLD/Jipyeongseondae/Arc_*.md` |
 | 16 | `16_STORY_CANTO_TEMPLATE.md` | `SOMNARAK-WORLD/Story_Cantos/CANTO_*.md` |
 

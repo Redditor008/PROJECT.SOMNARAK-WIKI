@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1014` — Gavel  
 **Source SECC Designation:** `C-IVδ-140 [GS]`  
 **Item Registry Code:** `MAW-S-1014-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Gavel — Witnessed Form*, The Iron Plate performs the suit role while t
 **Document ID:** `SE-1014-C`  
 **Linked Entity:** `SE-1014`  
 **Item Registry Code:** `MAW-S-1014-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

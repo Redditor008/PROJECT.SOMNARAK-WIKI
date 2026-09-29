@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-210` — Levity  
 **Item Registry Code:** `MAW-W-210-01`  
 **Entity Designation:** `C-IIβ-210 [VO]`  
-**Author:** Agent Durivel Cho, Field Extraction Specialist  
+**Author:** Specialist Durivel Cho, Field Extraction Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Laughter Lens is a palm-wide disc of ground pale Han-glass, almost colorless
 |---|---|
 | Extraction record | Year 4,238 silence-window draw |
 | Site | SECTOR-C-01, Levity display boundary |
-| Authority | Agent Durivel Cho under Extraction Lead Zyrak |
+| Authority | Specialist Durivel Cho under Extraction Lead Zyrak |
 | Source state | Unworn; briefly silent after genuine laughter |
 | Observation requirement | Level 2 Viderehan and Ferrehan completed |
 | Result | Stable β-grade Void focus |
@@ -45,7 +45,7 @@ A person who claims to have no protected memory sees their own face disappear fr
 | Holder / bearer | Period | Outcome | Item-specific record |
 |---|---|---|---|
 | R.D. Extraction custody | Year 4,238 | Active | Four units indexed by the voice present during each silence window. |
-| Agent Durivel Cho | Chorus-copy suppression | Cleared with loss | Ended deployment after forgetting where a familiar market tune had first been heard. |
+| Specialist Durivel Cho | Chorus-copy suppression | Cleared with loss | Ended deployment after forgetting where a familiar market tune had first been heard. |
 
 ---
 
@@ -127,14 +127,14 @@ Levity imitates the wielder’s most recent discharge as a short laugh. If the p
 
 The weapon does not detect lies. It detects distance between a displayed voice and the identity producing it. Grief, professionalism, fear, courtesy, and deliberate deception can all create that distance. Targeting authority therefore requires context; the Lens must not become a weapon against anyone who smiles while hurting.
 
-> *“A performed laugh can conceal a threat. More often, it conceals someone trying to survive the room.”* — Agent Durivel Cho
+> *“A performed laugh can conceal a threat. More often, it conceals someone trying to survive the room.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-210-B`  
 **Linked Entity:** `SE-210`  
 **Item Registry Code:** `MAW-W-210-01`  
-**Author:** Agent Durivel Cho, Field Extraction Specialist  
+**Author:** Specialist Durivel Cho, Field Extraction Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -284,7 +284,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Personnel report confusion between an object's former and current identity.
 - It has never been successfully removed from the Old Lament.
 
-**Personnel Note:** *"It returned glowing. I felt confusion because I remembered owning it, but no one else remembered me."* — Agent, Zone B patrol
+**Personnel Note:** *"It returned glowing. I felt confusion because I remembered owning it, but no one else remembered me."* — Specialist, Zone B patrol
 
 
 

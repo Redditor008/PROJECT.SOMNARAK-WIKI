@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1014` — Gavel  
 **Source SECC Designation:** `C-IVδ-140 [GS]`  
 **Item Registry Code:** `MAW-W-1014-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Gavel — Witnessed Form*, The Iron Verdict performs the weapon role whi
 **Document ID:** `SE-1014-B`  
 **Linked Entity:** `SE-1014`  
 **Item Registry Code:** `MAW-W-1014-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

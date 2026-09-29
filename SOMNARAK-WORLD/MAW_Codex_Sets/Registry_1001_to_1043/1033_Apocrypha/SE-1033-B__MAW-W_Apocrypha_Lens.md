@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1033` — Apocrypha  
 **Source SECC Designation:** `O-Iα-340 [VP]`  
 **Item Registry Code:** `MAW-W-1033-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Apocrypha — Witnessed Form*, Apocrypha Lens performs the weapon role w
 **Document ID:** `SE-1033-B`  
 **Linked Entity:** `SE-1033`  
 **Item Registry Code:** `MAW-W-1033-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

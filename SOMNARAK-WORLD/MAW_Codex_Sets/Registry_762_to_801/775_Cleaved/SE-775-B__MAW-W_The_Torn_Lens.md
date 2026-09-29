@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-775` — Cleaved  
 **Source SECC Designation:** `C-IIβ-775 [VS]`  
 **Item Registry Code:** `MAW-W-775-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Cleaved — Witnessed Form*, The Torn Lens performs the weapon role whil
 **Document ID:** `SE-775-B`  
 **Linked Entity:** `SE-775`  
 **Item Registry Code:** `MAW-W-775-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

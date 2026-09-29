@@ -7,7 +7,7 @@
 **Document ID:** `SE-627-C`  
 **Linked Entity:** `SE-627` — Harvest Beyond the Gate  
 **Item Registry Code:** `MAW-S-627-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -71,7 +71,7 @@ Seed identifies the longing, Plate withstands anger without false comfort, and F
 **Document ID:** `SE-627-C`  
 **Linked Entity:** `SE-627`  
 **Item Registry Code:** `MAW-S-627-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

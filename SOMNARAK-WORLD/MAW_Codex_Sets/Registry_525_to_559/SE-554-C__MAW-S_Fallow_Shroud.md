@@ -7,7 +7,7 @@
 **Document ID:** `SE-554-C`  
 **Linked Entity:** `SE-554` — Fallow  
 **Item Registry Code:** `MAW-S-554-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Fallow Shroud is a shroud of blue Han-silk with rusted roots woven across it
 **Document ID:** `SE-554-C`  
 **Linked Entity:** `SE-554`  
 **Item Registry Code:** `MAW-S-554-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

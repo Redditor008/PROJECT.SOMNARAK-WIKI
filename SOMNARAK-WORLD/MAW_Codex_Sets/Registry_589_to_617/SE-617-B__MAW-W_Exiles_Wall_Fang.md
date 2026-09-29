@@ -7,7 +7,7 @@
 **Document ID:** `SE-617-B`  
 **Linked Entity:** `SE-617` — Exiles’ Wall  
 **Item Registry Code:** `MAW-W-617-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -63,14 +63,14 @@ The bruise faded only after the final traveler named an outward destination and 
 
 Ring detects hostile border pressure, Plate holds the escort between sides, and Fang removes one coercive support. Resonance fails when the weapon is asked to construct belonging.
 
-> *“The first cut gave them options. The second would have made my option into their door.”* — Agent Durivel Cho
+> *“The first cut gave them options. The second would have made my option into their door.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-617-B`  
 **Linked Entity:** `SE-617`  
 **Item Registry Code:** `MAW-W-617-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

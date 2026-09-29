@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-852` — Conservatory  
 **Source SECC Designation:** `N-IVδ-852 [N]`  
 **Item Registry Code:** `MAW-W-852-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Conservatory — Witnessed Form*, Conservatory Fang performs the weapon 
 **Document ID:** `SE-852-B`  
 **Linked Entity:** `SE-852`  
 **Item Registry Code:** `MAW-W-852-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

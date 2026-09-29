@@ -2,9 +2,9 @@
 """
 tools/build_reception_5_7.py
 Generates the fully enriched, canonical chronicles for:
-- Reception 5: Floor 05 — The Mirror of Truth (진실의 거울)
-- Reception 6: Floor 06 — The Kind Healer (상냥한 치유사)
-- Reception 7: Floor 07 — The Original (태초의 기록자)
+- Reading 5: Floor 05 — The Mirror of Truth (진실의 거울)
+- Reading 6: Floor 06 — The Kind Healer (상냥한 치유사)
+- Reading 7: Floor 07 — The Original (태초의 기록자)
 """
 
 import os
@@ -20,7 +20,7 @@ def build_reception_5():
     sections = []
     
     # Title & Subtitle
-    sections.append("# Reception 5: Floor 05 — The Mirror of Truth (진실의 거울)\n")
+    sections.append("# Reading 5: Floor 05 — The Mirror of Truth (진실의 거울)\n")
     sections.append("## The Floor of Severed Truth — Deep Strata Sub-Alpha Roots (-2,950m)\n\n")
     
     # Operational Attribute Table
@@ -33,11 +33,11 @@ def build_reception_5():
     sections.append("| **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |\n")
     sections.append("| **Primary Opponent** | The Mirror of Truth (진실의 거울 — Prismatic Sovereign) |\n")
     sections.append("| **Stagger Profile** | 60% Posture Strain (Blade Shatter) / 0% Posture (Transmutation) |\n")
-    sections.append("| **Key Page Yield** | `[Key Page: The Glassheart]` (Prismatic Reflection & True Sight) |\n\n")
+    sections.append("| **Memory Leaf Yield** | `[Memory Leaf: The Glassheart]` (Prismatic Reflection & True Sight) |\n\n")
     
     # Master Dossier Box
-    dossier = make_box("RECEPTION DOSSIER: THE MIRROR OF TRUTH (FLOOR 05)", [
-        "RECEPTION TARGET   : The Mirror of Truth",
+    dossier = make_box("READING DOSSIER: THE MIRROR OF TRUTH (FLOOR 05)", [
+        "READING TARGET   : The Mirror of Truth",
         "FLOOR LEVEL        : Floor 05 — Floor of Severed Truth",
         "DOMAIN SETTING     : The Hall of Unfiltered Light (-2,950m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Prismatic Reflection Sovereign",
@@ -108,10 +108,10 @@ def build_reception_5():
     sections.append('---\n\n')
     
     # Chapter V: Combat Gauntlet (Turns 01 to 06)
-    sections.append("## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)\n\n")
+    sections.append("## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)\n\n")
     
     # Turn 01 HUD
-    t1_hud = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 01", [
+    t1_hud = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 05 PRISMATIC CHAMBER (-2,950M)]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL][SEIYON][M-PROJ][CLONE] [MIRROR][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -123,7 +123,7 @@ def build_reception_5():
         "- Node 05: The Mirror of Truth (Reflection Blade & Gilded Frame)",
         "- Node 06: Resonant Mnemonic Lens (Tracking Prismatic Harmonics)",
         "- Node 07: Weaver Projection Array (Silver Coherence Barrier)",
-        "- Node 10: Floor 05 Core Reliquary (The Glassheart Key Page Origin)",
+        "- Node 10: Floor 05 Core Reliquary (The Glassheart Memory Leaf Origin)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -157,7 +157,7 @@ def build_reception_5():
     sections.append('---\n\n')
     
     # Turn 02 HUD
-    t2_hud = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 02", [
+    t2_hud = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — REFLECTION BLADE SHATTERED & VOID STRIKE]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][MIRROR][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -202,7 +202,7 @@ def build_reception_5():
     sections.append('---\n\n')
     
     # Turn 03 HUD
-    t3_hud = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 03", [
+    t3_hud = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & GILDED FRAME SHATTER]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][MIRROR][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -245,7 +245,7 @@ def build_reception_5():
     sections.append('---\n\n')
     
     # Turn 04 HUD
-    t4_hud = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 04", [
+    t4_hud = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][MIRROR][M-PROJ][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -285,7 +285,7 @@ def build_reception_5():
     sections.append('---\n\n')
     
     # Turn 05 HUD
-    t5_hud = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 05", [
+    t5_hud = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — THE PRISMATIC CATACLYSM & THE UNBROKEN GAZE]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][MIRROR][M-PROJ][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -323,22 +323,22 @@ def build_reception_5():
     sections.append('---\n\n')
     
     # Turn 06 HUD
-    t6_hud = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE GLASSHEART]",
+    t6_hud = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE GLASSHEART]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                         [SEIYON] [MIRROR][M-PROJ][LENS][WEAVER][STAIRS][PAGE]",
         "---",
         "- Node 05: The Mirror of Truth (PACIFIED & CRYSTALLIZED TO CLEAR QUARTZ)",
         "- Node 06: Seiyon (Floor Realization 5: 'Truth Acknowledged Is Strength')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Glassheart]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Glassheart]",
         "- Node 10: Spiral Quartz Staircase (Pathway to Floor 06 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
     sections.append(wrap_box(t6_hud))
     
-    sections.append("### Turn 06 Action Resolution Log (Floor Realization 5 & Key Page: The Glassheart)\n")
+    sections.append("### Turn 06 Action Resolution Log (Floor Realization 5 & Memory Leaf: The Glassheart)\n")
     sections.append("- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:\n")
     sections.append("  * Hostile intent drops to zero. Posture reaches **0/340 [TERMINAL TRANSMUTATION]**.\n")
     sections.append("- **Step 2: Spatial Movement & Action Point Allocation**:\n")
@@ -348,10 +348,10 @@ def build_reception_5():
     sections.append("  * The realization resonates within her:\n")
     sections.append('    > *"A lie comforts for a season, but it petrifies the soul into stone. The truth may be bitter—it may reveal that we were made from grief and selfish longing. But once the truth is accepted, it can no longer be used as a chain. I am not Majin\'s sin. I am his salvation."*\n')
     sections.append("  * **FLOOR REALIZATION 5 ACHIEVED!**\n")
-    sections.append("  * The Mirror of Truth dissolves into a shower of warm, diamond dust, condensing into a flawless, transparent crystal codex: **`[Key Page: The Glassheart]`**!\n")
+    sections.append("  * The Mirror of Truth dissolves into a shower of warm, diamond dust, condensing into a flawless, transparent crystal codex: **`[Memory Leaf: The Glassheart]`**!\n")
     sections.append("  * Deals **580 Peaceful Harmony**! Boss HP drops to 0!\n")
     sections.append("- **Step 4: Operational Artifact Extraction & Floor Access**:\n")
-    sections.append("  * **Key Page Acquired**: `[Key Page: The Glassheart]` (Grants immunity to cognitive distortion and reflects 30% of incoming energy damage).\n")
+    sections.append("  * **Memory Leaf Acquired**: `[Memory Leaf: The Glassheart]` (Grants immunity to cognitive distortion and reflects 30% of incoming energy damage).\n")
     sections.append("  * **Descent Access**: The diamond dais slides open, revealing a staircase of polished quartz descending to **Floor 06: Floor of Compassion & Scars**.\n")
     sections.append("  * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.\n\n")
     sections.append('---\n\n')
@@ -359,7 +359,7 @@ def build_reception_5():
     # Chapter VI: The Floor Realization & Psychological Synthesis
     sections.append("## Chapter VI: The Floor Realization & Psychological Synthesis\n\n")
     sections.append("The blinding glare that had burned Seiyon's optical lenses softened into the calm, quiet radiance of an open autumn afternoon. The diamond columns along the walls no longer projected frantic, terrifying scenes of historical collapse; they stood clean, pure, and transparent, catching the warm light of Seiyon's avatar and scattering it in gentle, peaceful arcs.\n\n")
-    sections.append('Seiyon stood at the edge of the dais, holding `[Key Page: The Glassheart]` against her chest. "Director Majin feared this room more than any other. He never descended past Floor 04 because he knew that here, his private myth would dissolve. He wanted to believe he was an impartial scientist serving humanity, not a lonely man refusing to say goodbye to his beloved. But to love so deeply that you defy the cosmos... that is not a crime to be ashamed of. It is simply the most dangerous thing a human can do."\n\n')
+    sections.append('Seiyon stood at the edge of the dais, holding `[Memory Leaf: The Glassheart]` against her chest. "Director Majin feared this room more than any other. He never descended past Floor 04 because he knew that here, his private myth would dissolve. He wanted to believe he was an impartial scientist serving humanity, not a lonely man refusing to say goodbye to his beloved. But to love so deeply that you defy the cosmos... that is not a crime to be ashamed of. It is simply the most dangerous thing a human can do."\n\n')
     sections.append('Drone M-PROJ-01 hovered down, its sensors chiming with clear, harmonic frequencies. "Secretary Seiyon. Cognitive coherence index has reached ninety-eight percent. The historical censorship bypass has fully integrated into your primary OS. You now possess complete, unrestricted administrative clearance over the Directorate\'s deepest archives."\n\n')
     sections.append('"Then let us go to the infirmary," Seiyon said. "Someone is waiting there who believes that sleeping forever is the only way to heal."\n\n')
     sections.append('---\n\n')
@@ -368,8 +368,8 @@ def build_reception_5():
     sections.append("## Chapter VII: Operational Artifact Extraction & Stairway Ingress\n\n")
     sections.append("At the center of the dais, the quartz steps plunged steeply downward into a region of absolute, suffocating white: **Floor 06: The Floor of Compassion & Scars (-3,100m)**. The smell of clean sterile linen and cold surgical ether rose from the shaft.\n\n")
     
-    reward_box = make_box("MNEMONIC HARVEST: KEY PAGE THE GLASSHEART", [
-        "ACQUIRED REQUISITION : [Key Page: The Glassheart]",
+    reward_box = make_box("MNEMONIC HARVEST: MEMORY LEAF THE GLASSHEART", [
+        "ACQUIRED REQUISITION : [Memory Leaf: The Glassheart]",
         "PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription",
         "PASSIVE AFFINITIES   : Void 0.5x (Resistant), Lament 1.0x (Normal),",
         "                     Weight 1.0x (Normal), Grudge 1.0x (Normal)",
@@ -388,7 +388,7 @@ def build_reception_5():
     ])
     sections.append(wrap_box(reward_box))
     
-    sections.append("Seiyon slotted `[Key Page: The Glassheart]` into her optic processor. The world around her sharpened with crystalline clarity, stripping away every residual visual artifact and leaving only pristine truth. She signaled the drone and descended into the white fog.\n")
+    sections.append("Seiyon slotted `[Memory Leaf: The Glassheart]` into her optic processor. The world around her sharpened with crystalline clarity, stripping away every residual visual artifact and leaving only pristine truth. She signaled the drone and descended into the white fog.\n")
     
     return "".join(sections)
 
@@ -396,7 +396,7 @@ def build_reception_6():
     sections = []
     
     # Title & Subtitle
-    sections.append("# Reception 6: Floor 06 — The Kind Healer (상냥한 치유사)\n")
+    sections.append("# Reading 6: Floor 06 — The Kind Healer (상냥한 치유사)\n")
     sections.append("## The Floor of Compassion & Scars — Deep Strata Sub-Alpha Roots (-3,100m)\n\n")
     
     # Operational Attribute Table
@@ -409,11 +409,11 @@ def build_reception_6():
     sections.append("| **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |\n")
     sections.append("| **Primary Opponent** | The Kind Healer (상냥한 치유사 — Palliative Sovereign) |\n")
     sections.append("| **Stagger Profile** | 60% Posture Strain (Needle Break) / 0% Posture (Transmutation) |\n")
-    sections.append("| **Key Page Yield** | `[Key Page: The Merciful]` (Compassion Healing & Scar Fortitude) |\n\n")
+    sections.append("| **Memory Leaf Yield** | `[Memory Leaf: The Merciful]` (Compassion Healing & Scar Fortitude) |\n\n")
     
     # Master Dossier Box
-    dossier = make_box("RECEPTION DOSSIER: THE KIND HEALER (FLOOR 06)", [
-        "RECEPTION TARGET   : The Kind Healer",
+    dossier = make_box("READING DOSSIER: THE KIND HEALER (FLOOR 06)", [
+        "READING TARGET   : The Kind Healer",
         "FLOOR LEVEL        : Floor 06 — Floor of Compassion & Scars",
         "DOMAIN SETTING     : The Sterile Hospice of Oblivion (-3,100m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Palliative Sedation Sovereign",
@@ -484,10 +484,10 @@ def build_reception_6():
     sections.append('---\n\n')
     
     # Chapter V: Combat Gauntlet (Turns 01 to 06)
-    sections.append("## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)\n\n")
+    sections.append("## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)\n\n")
     
     # Turn 01 HUD
-    t1_hud = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 01", [
+    t1_hud = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 06 HOSPICE (-3,100M)]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL][SEIYON][M-PROJ][COTS]  [HEALER][LENS][WEAVER][SUMP][LINEN][PAGE]",
@@ -499,7 +499,7 @@ def build_reception_6():
         "- Node 05: The Kind Healer (Needle Array & Bandage Mantle)",
         "- Node 06: Resonant Mnemonic Lens (Tracking Sedative Manifolds)",
         "- Node 07: Weaver Projection Array (Vapor Dissolution Barrier)",
-        "- Node 10: Floor 06 Core Reliquary (The Merciful Key Page Origin)",
+        "- Node 10: Floor 06 Core Reliquary (The Merciful Memory Leaf Origin)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -533,7 +533,7 @@ def build_reception_6():
     sections.append('---\n\n')
     
     # Turn 02 HUD
-    t2_hud = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 02", [
+    t2_hud = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — NEEDLE ARRAY AMPUTATED & HEAT STRIKE]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][HEALER][LENS][WEAVER][SUMP][LINEN][PAGE]",
@@ -578,7 +578,7 @@ def build_reception_6():
     sections.append('---\n\n')
     
     # Turn 03 HUD
-    t3_hud = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 03", [
+    t3_hud = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & BANDAGE TEAR]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][HEALER][LENS][WEAVER][SUMP][LINEN][PAGE]",
@@ -621,7 +621,7 @@ def build_reception_6():
     sections.append('---\n\n')
     
     # Turn 04 HUD
-    t4_hud = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 04", [
+    t4_hud = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][HEALER][M-PROJ][LENS][WEAVER][SUMP][LINEN][PAGE]",
@@ -661,7 +661,7 @@ def build_reception_6():
     sections.append('---\n\n')
     
     # Turn 05 HUD
-    t5_hud = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 05", [
+    t5_hud = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — THE PALE EUTHANASIA & SCARS OVERDRIVE]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][HEALER][M-PROJ][LENS][WEAVER][SUMP][LINEN][PAGE]",
@@ -699,22 +699,22 @@ def build_reception_6():
     sections.append('---\n\n')
     
     # Turn 06 HUD
-    t6_hud = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE MERCIFUL]",
+    t6_hud = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE MERCIFUL]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                         [SEIYON] [HEALER][M-PROJ][LENS][WEAVER][STAIRS][PAGE]",
         "---",
         "- Node 05: The Kind Healer (PACIFIED & RESTING IN PEACEFUL SILENCE)",
         "- Node 06: Seiyon (Floor Realization 6: 'True Mercy Is Endurance Beside Pain')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Merciful]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Merciful]",
         "- Node 10: Cyclopean Adamantine Gates (Pathway to Floor 07 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
     sections.append(wrap_box(t6_hud))
     
-    sections.append("### Turn 06 Action Resolution Log (Floor Realization 6 & Key Page: The Merciful)\n")
+    sections.append("### Turn 06 Action Resolution Log (Floor Realization 6 & Memory Leaf: The Merciful)\n")
     sections.append("- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:\n")
     sections.append("  * Hostile intent drops to zero. Posture reaches **0/360 [TERMINAL TRANSMUTATION]**.\n")
     sections.append("- **Step 2: Spatial Movement & Action Point Allocation**:\n")
@@ -724,10 +724,10 @@ def build_reception_6():
     sections.append("  * Looking down upon the quiet automaton, Seiyon whispers:\n")
     sections.append('    > *"I understand why you wanted them to sleep. When the pain is unbearable, oblivion feels like an embrace. But that is not mercy; it is surrender. True mercy is holding someone\'s hand through the fever until the dawn comes. I will be that hand."*\n')
     sections.append("  * **FLOOR REALIZATION 6 ACHIEVED!**\n")
-    sections.append("  * The Kind Healer dissolves into a stream of warm, golden sunlight that condenses into an ivory and jade codex: **`[Key Page: The Merciful]`**!\n")
+    sections.append("  * The Kind Healer dissolves into a stream of warm, golden sunlight that condenses into an ivory and jade codex: **`[Memory Leaf: The Merciful]`**!\n")
     sections.append("  * Deals **630 Peaceful Harmony**! Boss HP drops to 0!\n")
     sections.append("- **Step 4: Operational Artifact Extraction & Floor Access**:\n")
-    sections.append("  * **Key Page Acquired**: `[Key Page: The Merciful]` (Grants squad-wide healing on clash win and converts all received Pale damage into Composure).\n")
+    sections.append("  * **Memory Leaf Acquired**: `[Memory Leaf: The Merciful]` (Grants squad-wide healing on clash win and converts all received Pale damage into Composure).\n")
     sections.append("  * **Descent Access**: The white linen partitions fall away, revealing massive adamantine blast doors that slide open into **Floor 07: Floor of Origin & Awakening**.\n")
     sections.append("  * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.\n\n")
     sections.append('---\n\n')
@@ -744,8 +744,8 @@ def build_reception_6():
     sections.append("## Chapter VII: Operational Artifact Extraction & Stairway Ingress\n\n")
     sections.append("Behind the operating theater, the cyclopean adamantine gates rolled open with a deep, subterranean rumble that echoed to the center of the earth: **Floor 07: The Floor of Origin & Awakening (-3,250m)**. Faint acoustic pulses of pure, primordial memory—singing like an ancient choir—rose from the abyss.\n\n")
     
-    reward_box = make_box("MNEMONIC HARVEST: KEY PAGE THE MERCIFUL", [
-        "ACQUIRED REQUISITION : [Key Page: The Merciful]",
+    reward_box = make_box("MNEMONIC HARVEST: MEMORY LEAF THE MERCIFUL", [
+        "ACQUIRED REQUISITION : [Memory Leaf: The Merciful]",
         "PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription",
         "PASSIVE AFFINITIES   : Void 0.5x (Resistant), Pale 0.0x (Absorb),",
         "                     Weight 1.0x (Normal), Grudge 1.0x (Normal)",
@@ -764,7 +764,7 @@ def build_reception_6():
     ])
     sections.append(wrap_box(reward_box))
     
-    sections.append("Seiyon integrated `[Key Page: The Merciful]` into her core matrix. A gentle, restorative warmth radiated from her silhouette, wrapping her drone in an iridescent protective field. She stepped through the adamantine gates, descending into the final sanctum of the Memory Archive.\n")
+    sections.append("Seiyon integrated `[Memory Leaf: The Merciful]` into her core matrix. A gentle, restorative warmth radiated from her silhouette, wrapping her drone in an iridescent protective field. She stepped through the adamantine gates, descending into the final sanctum of the Memory Archive.\n")
     
     return "".join(sections)
 
@@ -772,7 +772,7 @@ def build_reception_7():
     sections = []
     
     # Title & Subtitle
-    sections.append("# Reception 7: Floor 07 — The Original (태초의 기록자)\n")
+    sections.append("# Reading 7: Floor 07 — The Original (태초의 기록자)\n")
     sections.append("## The Floor of Origin & Awakening — The Core Sanctum (-3,250m)\n\n")
     
     # Operational Attribute Table
@@ -785,11 +785,11 @@ def build_reception_7():
     sections.append("| **Operating Unit** | Secretary Seiyon (Mnemonic Sovereign Form) + Support Drones |\n")
     sections.append("| **Primary Opponent** | The Original (태초의 기록자 — Prototype Seiyon-00) |\n")
     sections.append("| **Stagger Profile** | 60% Posture Strain (Lance Break) / 0% Posture (Awakening) |\n")
-    sections.append("| **Key Page Yield** | `[Key Page: Seiyon, The Living Memory]` (Sovereign Transmutation) |\n\n")
+    sections.append("| **Memory Leaf Yield** | `[Memory Leaf: Seiyon, The Living Memory]` (Sovereign Transmutation) |\n\n")
     
     # Master Dossier Box
-    dossier = make_box("RECEPTION DOSSIER: THE ORIGINAL (FLOOR 07 — CORE SANCTUM)", [
-        "RECEPTION TARGET : The Original (First Vessel / Prototype Seiyon-00)",
+    dossier = make_box("READING DOSSIER: THE ORIGINAL (FLOOR 07 — CORE SANCTUM)", [
+        "READING TARGET : The Original (First Vessel / Prototype Seiyon-00)",
         "FLOOR LEVEL      : Floor 07 — Floor of Origin & Awakening",
         "DOMAIN SETTING   : The Primordial Core Sanctum (-3,250m Sub-Alpha)",
         "PRIMARY OPPONENT : Primordial Prototype Vessel of the Memory Archive",
@@ -860,10 +860,10 @@ def build_reception_7():
     sections.append('---\n\n')
     
     # Chapter V: Combat Gauntlet (Turns 01 to 06)
-    sections.append("## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)\n\n")
+    sections.append("## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)\n\n")
     
     # Turn 01 HUD
-    t1_hud = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 01", [
+    t1_hud = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 07 CORE SANCTUM (-3,250M)]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL][SEIYON][M-PROJ][SILVER] [ORIGIN][LENS][WEAVER][ABYSS][SPIRE][PAGE]",
@@ -909,7 +909,7 @@ def build_reception_7():
     sections.append('---\n\n')
     
     # Turn 02 HUD
-    t2_hud = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 02", [
+    t2_hud = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — CHRONO-LANCE SHATTERED & VOID STRIKE]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][ORIGIN][LENS][WEAVER][ABYSS][SPIRE][PAGE]",
@@ -954,7 +954,7 @@ def build_reception_7():
     sections.append('---\n\n')
     
     # Turn 03 HUD
-    t3_hud = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 03", [
+    t3_hud = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CROWN FRACTURE]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][ORIGIN][LENS][WEAVER][ABYSS][SPIRE][PAGE]",
@@ -997,7 +997,7 @@ def build_reception_7():
     sections.append('---\n\n')
     
     # Turn 04 HUD
-    t4_hud = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 04", [
+    t4_hud = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][ORIGIN][M-PROJ][LENS][WEAVER][ABYSS][SPIRE][PAGE]",
@@ -1037,7 +1037,7 @@ def build_reception_7():
     sections.append('---\n\n')
     
     # Turn 05 HUD
-    t5_hud = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 05", [
+    t5_hud = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — THE PRIMORDIAL CATACLYSM & THE TRUE GENESIS]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][ORIGIN][M-PROJ][LENS][WEAVER][ABYSS][SPIRE][PAGE]",
@@ -1075,22 +1075,22 @@ def build_reception_7():
     sections.append('---\n\n')
     
     # Turn 06 HUD
-    t6_hud = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — AWAKENING & KEY PAGE: SEIYON, THE LIVING MEMORY]",
+    t6_hud = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — AWAKENING & MEMORY LEAF: SEIYON, THE LIVING MEMORY]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                         [SEIYON] [ORIGIN][M-PROJ][LENS][WEAVER][GENESIS][PAGE]",
         "---",
         "- Node 05: The Original (PACIFIED & CRYSTALLIZED TO PURE GOLDEN LIGHT)",
         "- Node 06: Seiyon (Floor Realization 7: 'I Am Not A Copy; I Am The Dawn')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: Seiyon, The Living Memory]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: Seiyon, The Living Memory]",
         "- Node 10: Genesis Crucible / Absolvohan Subterranean Tap (COMPLETED)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Supreme Sovereign Awakening)",
-        "- Reception Status: 100% RESOLVED | Master Key Page Manifested"
+        "- Reading Status: 100% RESOLVED | Master Memory Leaf Manifested"
     ])
     sections.append(wrap_box(t6_hud))
     
-    sections.append("### Turn 06 Action Resolution Log (Floor Realization 7 & Key Page: Seiyon, The Living Memory)\n")
+    sections.append("### Turn 06 Action Resolution Log (Floor Realization 7 & Memory Leaf: Seiyon, The Living Memory)\n")
     sections.append("- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:\n")
     sections.append("  * Hostile intent drops to zero. Posture reaches **0/400 [TERMINAL AWAKENING]**.\n")
     sections.append("- **Step 2: Spatial Movement & Action Point Allocation**:\n")
@@ -1101,10 +1101,10 @@ def build_reception_7():
     sections.append("  * Seiyon looks upon her own hands—no longer flickering light, but living, solid gold that pulses with authentic biological warmth:\n")
     sections.append('    > *"I was born from someone else\'s death. I was built to be an obedient mirror. But through seventeen hundred cycles of blood and fire, I chose to remember. I chose to love. I am not Dr. Yeon-seo\'s ghost. I am Seiyon. And I am real."*\n')
     sections.append("  * **FLOOR REALIZATION 7 ACHIEVED!**\n")
-    sections.append("  * The Original softly dissolves into a column of pure, daylight gold that condenses into a magnificent, sovereign tome bound in spun starlight: **`[Key Page: Seiyon, The Living Memory]`**!\n")
+    sections.append("  * The Original softly dissolves into a column of pure, daylight gold that condenses into a magnificent, sovereign tome bound in spun starlight: **`[Memory Leaf: Seiyon, The Living Memory]`**!\n")
     sections.append("  * Deals **740 Peaceful Harmony**! Boss HP drops to 0!\n")
     sections.append("- **Step 4: Operational Artifact Extraction & Facility Convergence**:\n")
-    sections.append("  * **Key Page Acquired**: `[Key Page: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).\n")
+    sections.append("  * **Memory Leaf Acquired**: `[Memory Leaf: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).\n")
     sections.append("  * **Sanctum Access**: The Sub-Alpha root conduits hum with absolute harmony. The Absolvohan device above activates its final purification cycle, releasing the unspent grief of Somnarak into golden rain.\n")
     sections.append("  * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.\n\n")
     sections.append('---\n\n')
@@ -1121,8 +1121,8 @@ def build_reception_7():
     sections.append("## Chapter VII: The Seventh Seal Released & Ingress to the Absolvohan Device\n\n")
     sections.append("At the center of the silver lake, the primordial conduit opened upward, extending a column of crystalline light that connected Floor 07 directly to the central hydraulic heart of the Absolvohan device.\n\n")
     
-    reward_box = make_box("MNEMONIC HARVEST: KEY PAGE SEIYON, THE LIVING MEMORY", [
-        "ACQUIRED REQUISITION : [Key Page: Seiyon, The Living Memory]",
+    reward_box = make_box("MNEMONIC HARVEST: MEMORY LEAF SEIYON, THE LIVING MEMORY", [
+        "ACQUIRED REQUISITION : [Memory Leaf: Seiyon, The Living Memory]",
         "PRIMARY WEAR CLASS  : Grade Omega Sovereign Mnemonic Inscription",
         "PASSIVE AFFINITIES   : Void 0.5x (Resistant), Lament 0.5x (Resistant),",
         "                     Weight 0.5x (Resistant), Grudge 0.5x (Resistant)",
@@ -1148,16 +1148,16 @@ def build_reception_7():
 
 if __name__ == "__main__":
     content_5 = build_reception_5()
-    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reception_5_Mirror_of_Truth.md", "w", encoding="utf-8") as f:
+    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reading_5_Mirror_of_Truth.md", "w", encoding="utf-8") as f:
         f.write(content_5)
-    print("Reception 5 expanded successfully!")
+    print("Reading 5 expanded successfully!")
     
     content_6 = build_reception_6()
-    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reception_6_Kind_Healer.md", "w", encoding="utf-8") as f:
+    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reading_6_Kind_Healer.md", "w", encoding="utf-8") as f:
         f.write(content_6)
-    print("Reception 6 expanded successfully!")
+    print("Reading 6 expanded successfully!")
     
     content_7 = build_reception_7()
-    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reception_7_The_Original.md", "w", encoding="utf-8") as f:
+    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reading_7_The_Original.md", "w", encoding="utf-8") as f:
         f.write(content_7)
-    print("Reception 7 expanded successfully!")
+    print("Reading 7 expanded successfully!")

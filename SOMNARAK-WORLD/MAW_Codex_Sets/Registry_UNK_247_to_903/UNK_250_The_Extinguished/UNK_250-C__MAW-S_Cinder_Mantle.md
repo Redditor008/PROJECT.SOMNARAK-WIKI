@@ -5,7 +5,7 @@
 **Document ID:** `UNK-250-C`  
 **Linked Entity:** `UNK-250` — The Extinguished  
 **Item Registry Code:** `MAW-S-UNK-250-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -41,7 +41,7 @@
 **Document ID:** `UNK-250-C`  
 **Linked Entity:** `UNK-250`  
 **Item Registry Code:** `MAW-S-UNK-250-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

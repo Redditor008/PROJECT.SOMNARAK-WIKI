@@ -7,7 +7,7 @@
 **Document ID:** `SE-247-C`  
 **Linked Entity:** `SE-247` — Unopened Bloom  
 **Item Registry Code:** `MAW-S-247-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Plate holds the perimeter while Charm marks and Sword treats only living injury.
 **Document ID:** `SE-247-C`  
 **Linked Entity:** `SE-247`  
 **Item Registry Code:** `MAW-S-247-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

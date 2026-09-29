@@ -7,7 +7,7 @@
 **Document ID:** `SE-489-B`  
 **Linked Entity:** `SE-489` — Silence We Forgot We Made  
 **Item Registry Code:** `MAW-W-489-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Quiet Requiem is a blade of deep-blue Han crystal with a silent edge and lum
 **Document ID:** `SE-489-B`  
 **Linked Entity:** `SE-489`  
 **Item Registry Code:** `MAW-W-489-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

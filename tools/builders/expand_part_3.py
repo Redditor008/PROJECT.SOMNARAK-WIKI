@@ -20,13 +20,13 @@ def get_day_29_expanded():
         "---",
         "- Node 01: Grieving Monolith (Compressive Basalt Core / Posture 112/160)",
         "- Node 02: Border Lead Mellda (Point-Blank Band 1 / Mantlet Locked)",
-        "- Node 04: Agent Park (Range Band 2 / Resonant Requiem Firing)",
-        "- Node 06: Agent Kim (Range Band 3 / Concentrated Carbine Aimed)",
+        "- Node 04: Specialist Park (Range Band 2 / Resonant Requiem Firing)",
+        "- Node 06: Specialist Kim (Range Band 3 / Concentrated Carbine Aimed)",
         "- Node 10: Containment Lead Dekan (Observation Catwalk / Band 5)",
         "---",
         "- Mellda   : Spd 5 -> 3 AP | HP 180/180 | SP +30 | Posture 85/85",
-        "- Agent Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55",
-        "- Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65",
+        "- Specialist Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55",
+        "- Specialist Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65",
         "- Monolith : Spd 3 -> 2 AP | HP 258/320  | Posture 112/160 (Stagger 1: 96)"
     ])
 
@@ -38,12 +38,12 @@ def get_day_29_expanded():
         "---",
         "- Node 01: Grieving Monolith (STAGGER LEVEL 1 ACTIVE / 1.5x DAMAGE)",
         "- Node 02: Border Lead Mellda (Golden Arm-Blade Driving into Core)",
-        "- Node 03: Agent Park (Advancing with Momentum Surge / +2 Speed)",
-        "- Node 06: Agent Kim (Coordinating Stasis Harpoon Arc)",
+        "- Node 03: Specialist Park (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 06: Specialist Kim (Coordinating Stasis Harpoon Arc)",
         "---",
         "- Mellda   : Spd 5 -> 3 AP | HP 180/180 | SP +30 | Posture 85/85",
-        "- Agent Park: Spd 8 -> 4 AP [SURGE] | HP 110/110 | SP +25 | Posture 55/55",
-        "- Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65",
+        "- Specialist Park: Spd 8 -> 4 AP [SURGE] | HP 110/110 | SP +25 | Posture 55/55",
+        "- Specialist Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65",
         "- Monolith : Spd 0 -> 0 AP | HP 148/320  | Posture 48/160 [STAGGERED]"
     ])
 
@@ -54,12 +54,12 @@ def get_day_29_expanded():
         "---",
         "- Node 01: Grieving Monolith (Recovered / Channeling Tectonic Toll)",
         "- Node 02: Border Lead Mellda (Directional Guard Absorption Active)",
-        "- Node 03: Agent Park (Sheltered behind Mellda's Mantlet)",
-        "- Node 06: Agent Kim (Locking Stasis Disruption Beam)",
+        "- Node 03: Specialist Park (Sheltered behind Mellda's Mantlet)",
+        "- Node 06: Specialist Kim (Locking Stasis Disruption Beam)",
         "---",
         "- Mellda   : Spd 5 -> 3 AP | HP 168/180 | SP +28 | Posture 62/85",
-        "- Agent Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55",
-        "- Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65",
+        "- Specialist Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55",
+        "- Specialist Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65",
         "- Monolith : Spd 3 -> 2 AP | HP 102/320  | Posture 28/160 [FRACTURED]"
     ])
 
@@ -70,12 +70,12 @@ def get_day_29_expanded():
         "---",
         "- Node 01: Grieving Monolith (TERMINAL STAGGER / POSTURE 0/160 / 2.0x DMG)",
         "- Node 02: Border Lead Mellda (Severing Basalt Anchors)",
-        "- Node 03: Agent Park (Priming Requiem Climax Resonance)",
-        "- Node 06: Agent Kim (Discharging Piercing Void Bolt)",
+        "- Node 03: Specialist Park (Priming Requiem Climax Resonance)",
+        "- Node 06: Specialist Kim (Discharging Piercing Void Bolt)",
         "---",
         "- Mellda   : Spd 5 -> 3 AP | HP 168/180 | SP +28 | Posture 62/85",
-        "- Agent Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55",
-        "- Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65",
+        "- Specialist Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55",
+        "- Specialist Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65",
         "- Monolith : Spd 0 -> 0 AP | HP 38/320   | Posture 0/160 [COLLAPSED]"
     ])
 
@@ -86,12 +86,12 @@ def get_day_29_expanded():
         "---",
         "- Node 01: Grieving Monolith (Pulverized into River Silt / Purified)",
         "- Node 02: Border Lead Mellda (Retracting Threshold Vow Blade)",
-        "- Node 03: Agent Park (Channeling Positive Han into Conduits)",
-        "- Node 06: Agent Kim (Lowering Carbine / Confirming Zero Casualties)",
+        "- Node 03: Specialist Park (Channeling Positive Han into Conduits)",
+        "- Node 06: Specialist Kim (Lowering Carbine / Confirming Zero Casualties)",
         "---",
         "- Mellda   : Spd 5 -> 3 AP | HP 168/180 | SP +35 | Posture 75/85",
-        "- Agent Park: Spd 6 -> 3 AP | HP 110/110 | SP +30 | Posture 55/55",
-        "- Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +25 | Posture 65/65",
+        "- Specialist Park: Spd 6 -> 3 AP | HP 110/110 | SP +30 | Posture 55/55",
+        "- Specialist Kim : Spd 5 -> 3 AP | HP 105/105 | SP +25 | Posture 65/65",
         "- Monolith : HP 0/320 [PURIFIED] | +0.020 TONS REFINED HAN HARVESTED"
     ])
 
@@ -104,9 +104,9 @@ def get_day_29_expanded():
 - **Coordinated Tripartite Fire**:
   * **Border Lead Mellda (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Threshold Vow Kinetic Parry]`, anchoring her shield mantlet against the stone slab.
   * The Monolith channels `[Basalt Fissure Crash]` directed at Node 02 (Base 8 + 2 Coins = 12 Power). Mellda wins clash (14 vs 12), turning the blow aside!
-  * **Agent Park (Speed 6 -> 3 AP)**: Firing from Node 04 (Range Band 2):
+  * **Specialist Park (Speed 6 -> 3 AP)**: Firing from Node 04 (Range Band 2):
     * Spends 2 AP to channel `[Lament Requiem Resonant Smash]`. Range Band advantage (+15%) and Lament vulnerability trigger: deals **38 Pure Lament Damage**!
-  * **Agent Kim (Speed 5 -> 3 AP)**: From Node 06 (Range Band 3), delivers a 3-round piercing burst for **24 Void damage**.
+  * **Specialist Kim (Speed 5 -> 3 AP)**: From Node 06 (Range Band 3), delivers a 3-round piercing burst for **24 Void damage**.
   * Monolith HP drops from 294 to **232/320**!
   * Combined Posture strain inflicts +38 points. Posture drops from 112 to **74/160**, breaching the **60% Posture Threshold (96 Points)**!
   * **STAGGER LEVEL 1 TRIGGERED!** The basalt slab cracks down its center axis; all incoming attacks will deal 1.5x direct damage in Turn 03!
@@ -120,7 +120,7 @@ def get_day_29_expanded():
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
   * With the monolith staggered, its action dice are canceled for Turn 03.
-  * **Agent Park**: Passive `Momentum Surge` activates upon witnessing the stagger! Gains +2 Speed and +15% Critical Chance. Spends 1 AP to sprint to Node 03 and 2 AP to unleash `[Critical Lament Overload]`:
+  * **Specialist Park**: Passive `Momentum Surge` activates upon witnessing the stagger! Gains +2 Speed and +15% Critical Chance. Spends 1 AP to sprint to Node 03 and 2 AP to unleash `[Critical Lament Overload]`:
     * Deals **54 Direct Lament Damage**!
   * **Border Lead Mellda**: Spends 2 AP to drive *Threshold Vow* deep into the central fissure, dealing **30 Grudge damage**!
   * Monolith HP plummets from 232 to **148/320**!
@@ -136,7 +136,7 @@ def get_day_29_expanded():
 - **Hostile Recovery & Desperation Counter-Surge**:
   * The Monolith recovers from Stagger Level 1, vibrating with a deep sub-bass roar: `[Tectonic Toll]` (a 3-node compressive seismic wave hitting Nodes 01, 02, and 03).
   * **Border Lead Mellda**: Deploys `[Directional Guard Absorption]`, locking her golden arm-blade into the floorplates to form an impenetrable kinetic wall. She absorbs 28 points of physical shock, taking only 12 chip damage (HP: 168/180) and completely shielding Park behind her!
-  * **Agent Kim (Speed 5 -> 3 AP)**: From Range Band 3, spends 2 AP to fire `[Stasis Disruption Harpoon]`, piercing the monolith's resonance core and disrupting the vibration!
+  * **Specialist Kim (Speed 5 -> 3 AP)**: From Range Band 3, spends 2 AP to fire `[Stasis Disruption Harpoon]`, piercing the monolith's resonance core and disrupting the vibration!
   * Monolith HP falls to **102/320**! Posture drops to **14/160**!
 
 ---
@@ -149,7 +149,7 @@ def get_day_29_expanded():
 - **Pincer Lockdown**:
   * Border Lead Mellda executes `[Threshold Severance Strike]`, stripping the final 14 points of Posture!
   * **TERMINAL STAGGER LEVEL 2 TRIGGERED!** Monolith Posture hits **0/160**. The massive basalt slab splits into two unaligned halves, collapsing helpless onto the deckplates (2.0x direct damage active)!
-  * Agent Kim fires a suppressive void round into the cleft, dealing **32 Void damage** (HP: 38/320).
+  * Specialist Kim fires a suppressive void round into the cleft, dealing **32 Void damage** (HP: 38/320).
 
 ---
 
@@ -159,7 +159,7 @@ def get_day_29_expanded():
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Siphon)
 - **Synchronized Subdual Execution**:
-  * Agent Park steps onto the fractured pedestal, raising the Lament Requiem high: `[Requiem Climax: Choral Absolution]`.
+  * Specialist Park steps onto the fractured pedestal, raising the Lament Requiem high: `[Requiem Climax: Choral Absolution]`.
   * The acoustic hammer strikes the exposed core crystal with blinding resonance. The entire stone slab pulverizes into inert river silt and shimmering Han mist!
   * Floor 2's drainage flues siphon the harvest: **+0.020 tons of refined Han secured**!
 """
@@ -175,9 +175,9 @@ def generate_day_45():
     ])
 
     roster_box = make_box("DEPLOYED ROSTER: DAY 45 TRIAD SYNCHRONIZATION", [
-        "AGENT & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
+        "SPECIALIST & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
         "----------------------+-----------------------------------------------",
-        "Agent Park (Grade V)  | HP 68 | SP 75 | Work 62 | Speed 6 (3 AP + 1 Move)",
+        "Specialist Park (Grade V)  | HP 68 | SP 75 | Work 62 | Speed 6 (3 AP + 1 Move)",
         "Senior Skirmisher     | M.A.W.-W: Lament Requiem (Medium / 1 AP)",
         "Floor 5 Assigned      | Suit: Lament Shroud (Light / Spd +1) | Halo Gift",
         "                      | Posture: 65/65 | Parry: 16 Power | Pass: Momentum Surge",
@@ -189,7 +189,7 @@ def generate_day_45():
         "                      | Posture: 95/95 | Guard: 22 Absorb | Pass: Iron Perimeter",
         "                      | Panic Typology: Berserk (SP <= -40)",
         "----------------------+-----------------------------------------------",
-        "Agent Hwang (Grade V) | HP 58 | SP 70 | Work 64 | Speed 6 (3 AP)",
+        "Specialist Hwang (Grade V) | HP 58 | SP 70 | Work 64 | Speed 6 (3 AP)",
         "Senior Scribe         | M.A.W.-W: Blessed Scalpel (Void / Light / 1 AP)",
         "Floor 4 Assigned      | Suit: White Scribe Robe (Light / Spd +1)",
         "                      | Posture: 55/55 | Parry: 15 Power | Pass: Scribe Focus",
@@ -215,14 +215,14 @@ def generate_day_45():
         "SPATIAL RANGES & POSITIONS:",
         "- Node 02: Piercing Hand (Dimensional Rift Ingress Epicenter)",
         "- Node 03: Border Lead Mellda (Frontline Bulwark / Range Band 1)",
-        "- Node 04: Agent Park (Vanguard Skirmisher / Range Band 2)",
-        "- Node 05: Agent Hwang (Void Scribe / Range Band 3)",
+        "- Node 04: Specialist Park (Vanguard Skirmisher / Range Band 2)",
+        "- Node 05: Specialist Hwang (Void Scribe / Range Band 3)",
         "- Node 10: Director Majin & Seiyon Command Terminal (Band 5)",
         "---",
         "OPERATIVE STATUS & RESOURCE POOLS:",
         "- Mellda      : Spd 6 -> 3 AP | HP 190/190 | SP 80/80 | Posture 95/95",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
         "- Piercing Hand: Spd 5 -> 3 AP | HP 240/240 | Posture 120/120"
     ])
 
@@ -233,12 +233,12 @@ def generate_day_45():
         "---",
         "- Node 02: Piercing Hand (Posture 78/120 / Thumb Joint Severed)",
         "- Node 03: Border Lead Mellda (Parrying Prismatic Beam)",
-        "- Node 04: Agent Park (Lament Requiem Resonant Wave Firing)",
-        "- Node 05: Agent Hwang (Blessed Scalpel Precision Incision)",
+        "- Node 04: Specialist Park (Lament Requiem Resonant Wave Firing)",
+        "- Node 05: Specialist Hwang (Blessed Scalpel Precision Incision)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 182/190 | SP 80/80 | Posture 82/95",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
         "- Piercing Hand: Spd 4 -> 2 AP | HP 178/240 | Posture 78/120 [CRACKED]"
     ])
 
@@ -250,12 +250,12 @@ def generate_day_45():
         "---",
         "- Node 02: Piercing Hand (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
         "- Node 02: Border Lead Mellda (Cleaving Palm Joint)",
-        "- Node 03: Agent Hwang (Driving Scalpel into Rift Tendon)",
-        "- Node 04: Agent Park (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 03: Specialist Hwang (Driving Scalpel into Rift Tendon)",
+        "- Node 04: Specialist Park (Momentum Surge Primed / +2 Speed Next Turn)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 182/190 | SP 80/80 | Posture 82/95",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
         "- Piercing Hand: Spd 0 -> 0 AP | HP 98/240  | Posture 32/120 [STAGGERED]"
     ])
 
@@ -266,12 +266,12 @@ def generate_day_45():
         "---",
         "- Node 02: Piercing Hand (Recovered / Channeling Prismatic Spire)",
         "- Node 03: Border Lead Mellda (Directional Guard Absorption)",
-        "- Node 04: Agent Park (Spd 8 / AP 4 / Rapid Choral Pulse)",
-        "- Node 05: Agent Hwang (Void Harpoon Readied)",
+        "- Node 04: Specialist Park (Spd 8 / AP 4 / Rapid Choral Pulse)",
+        "- Node 05: Specialist Hwang (Void Harpoon Readied)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 174/190 | SP 76/80 | Posture 68/95",
-        "- Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 68/68 | SP 75/75 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
+        "- Specialist Park  : Spd 8 -> 4 AP [SURGE] | HP 68/68 | SP 75/75 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
         "- Piercing Hand: Spd 5 -> 3 AP | HP 48/240  | Posture 16/120 [UNSTABLE]"
     ])
 
@@ -283,12 +283,12 @@ def generate_day_45():
         "---",
         "- Node 02: Piercing Hand (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG)",
         "- Node 02: Border Lead Mellda (Pinning Wrist Plate to Bedrock)",
-        "- Node 03: Agent Park (Driving Lament Hammer into Knuckles)",
-        "- Node 04: Agent Hwang (Executing Void Suture Strike)",
+        "- Node 03: Specialist Park (Driving Lament Hammer into Knuckles)",
+        "- Node 04: Specialist Hwang (Executing Void Suture Strike)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 174/190 | SP 76/80 | Posture 68/95",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
         "- Piercing Hand: Spd 0 -> 0 AP | HP 12/240  | Posture 0/120 [COLLAPSED]"
     ])
 
@@ -299,12 +299,12 @@ def generate_day_45():
         "---",
         "- Node 02: Piercing Hand (Dissolved into Prismatic Violet Fog)",
         "- Node 03: Border Lead Mellda (Checking Border Perimeter Seals)",
-        "- Node 04: Agent Park (Collecting Pure Refined Reagents)",
-        "- Node 05: Agent Hwang (Sealing Dimensional Rift Fissure)",
+        "- Node 04: Specialist Park (Collecting Pure Refined Reagents)",
+        "- Node 05: Specialist Hwang (Sealing Dimensional Rift Fissure)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 174/190 | SP 80/80 | Posture 80/95",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/55",
         "- Piercing Hand: HP 0/240 [PURIFIED] | +0.018 TONS REFINED HAN HARVESTED"
     ])
 
@@ -320,8 +320,8 @@ def generate_day_45():
         "SHIFT PERFORMANCE GRADE: GRADE S (TRIAD HARMONIC MASTER)",
         "REAGENTS ACCUMULATED   : +32 RHR (REFINED HAN REAGENTS)",
         "OPERATIVE ADVANCEMENT  :",
-        "- Agent Park  : +4 Clarity, +3 Resolve (Senior Vanguard)",
-        "- Agent Hwang : +5 Composure, +3 Clarity (Senior Archivist)",
+        "- Specialist Park  : +4 Clarity, +3 Resolve (Senior Vanguard)",
+        "- Specialist Hwang : +5 Composure, +3 Clarity (Senior Archivist)",
         "- Border Lead Mellda: +5 Resilience (Bulwark Commander)"
     ])
 
@@ -348,7 +348,7 @@ def generate_day_45():
         "                       | Resist: 0.8 Grudge / 0.6 Lament / 0.6 Void",
         "Avian Eye Gift         | Eye Slot: +6 SP, +8% Critical Clash Power",
         "-----------------------+----------------------------------------------",
-        "EQUIPMENT ALLOCATION   | BESTOWED UPON AGENT HWANG (VOID SPECIALIST)"
+        "EQUIPMENT ALLOCATION   | BESTOWED UPON SPECIALIST HWANG (VOID SPECIALIST)"
     ])
 
     content = f"""
@@ -393,13 +393,13 @@ Director Majin engages the Floor 5 border relays: **[DAY 45 OPERATIONAL SHIFT CO
 
 #### 2. Granular Work Type Management: Chamber 031 (The Whispering Bird)
 
-Agent Hwang enters Chamber 031 for Viderehan observation:
-- `[DISPATCH: Agent Hwang -> Floor 3, Chamber 031]`
+Specialist Hwang enters Chamber 031 for Viderehan observation:
+- `[DISPATCH: Specialist Hwang -> Floor 3, Chamber 031]`
 - `[PROTOCOL: Viderehan Observation (Acoustic Calibration / Void Affinity)]`
 
 ```text
 > Chamber Telemetry: "The small bird hops onto Hwang's shoulder, whispering old secrets..."
-> Fear Check: Level V Senior Agent vs Class III Entity -> RESULT: ABSOLUTE CALM.
+> Fear Check: Level V Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
 ```
 
 - **Work Tick 01–05:** 5 Successes. The small bronze bird pecks gently at Hwang's collar.
@@ -435,8 +435,8 @@ A colossal, five-fingered arm composed of iridescent violet crystal protrudes fr
     * Mellda Roll: Base 11 + 2 Coins = **15 Power**!
   * **Clash Result**: **Mellda WINS THE CLASH (15 vs 13)!**
     * The arm-blade deflects the crystalline fingers, dealing 32 Grudge damage (HP: 208/240) and inflicting +22 Posture Strain (Posture: 98/120).
-  * **Agent Hwang (Speed 6 -> 3 AP)**: From Node 05 (Range Band 3), strikes with `[Blessed Scalpel Void Beam]`, exploiting the entity's Void vulnerability: **36 Direct Void Damage**!
-  * **Agent Park**: Firing from Node 04, adds 18 Lament damage. Hostile HP drops to **154/240**!
+  * **Specialist Hwang (Speed 6 -> 3 AP)**: From Node 05 (Range Band 3), strikes with `[Blessed Scalpel Void Beam]`, exploiting the entity's Void vulnerability: **36 Direct Void Damage**!
+  * **Specialist Park**: Firing from Node 04, adds 18 Lament damage. Hostile HP drops to **154/240**!
 
 ---
 
@@ -446,8 +446,8 @@ A colossal, five-fingered arm composed of iridescent violet crystal protrudes fr
 
 ##### Turn 02 Action Resolution Log (Joint Severing & Stagger Build)
 - **Joint Severing Assault**:
-  * Agent Hwang targets the thumb joint with a precision void incision: **28 Void Damage**!
-  * Agent Park discharges `[Lament Requiem Pure Echo]`: **24 Damage**!
+  * Specialist Hwang targets the thumb joint with a precision void incision: **28 Void Damage**!
+  * Specialist Park discharges `[Lament Requiem Pure Echo]`: **24 Damage**!
   * Hostile HP drops to **102/240**!
   * Combined Posture strain strips another 36 points: Posture drops to **42/120**, crossing the **60% Posture Threshold (72 Points)**!
   * **STAGGER LEVEL 1 TRIGGERED!** The crystalline fingers droop, and the rift wavers!
@@ -460,7 +460,7 @@ A colossal, five-fingered arm composed of iridescent violet crystal protrudes fr
 
 ##### Turn 03 Action Resolution Log (Stagger Level 1 Exploitation)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Park's `Momentum Surge` activates! (+2 Speed next turn). Park unleashes a point-blank smash for **42 Damage**!
+  * Specialist Park's `Momentum Surge` activates! (+2 Speed next turn). Park unleashes a point-blank smash for **42 Damage**!
   * Border Lead Mellda executes `[Threshold Cleave]` at the wrist joint: **38 Damage**!
   * Hostile HP plummets to **22/240**! Posture collapses to **10/120**!
 
@@ -495,7 +495,7 @@ A colossal, five-fingered arm composed of iridescent violet crystal protrudes fr
 
 ##### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Rift Closure & Purification**:
-  * Agent Hwang executes `[Void Suture]`, sealing the spatial fissure while Mellda and Park pulverize the remaining crystal fingers into harmless violet mist.
+  * Specialist Hwang executes `[Void Suture]`, sealing the spatial fissure while Mellda and Park pulverize the remaining crystal fingers into harmless violet mist.
   * Floor 5 collection manifolds harvest **+0.018 tons of pure refined Han**!
 
 Total daily harvest reaches **0.168 / 0.160 tons**! Quota surpassed!
@@ -531,7 +531,7 @@ AUTHORIZATION LOCKED: **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Saint*)**.
 {forge_box}
 ```
 
-Agent Hwang equips the *Whispering Needle*, granting Floor 4 unmatched armor-piercing void precision.
+Specialist Hwang equips the *Whispering Needle*, granting Floor 4 unmatched armor-piercing void precision.
 
 ---
 

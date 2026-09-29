@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / β — Moderate / Void — Pale White |
 | Status | Active; paired deployment only |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A folded sheet of near-transparent Han-gossamer, cool at the collar and too light to feel until it moves. |
 | Active form | It hangs around the wearer like a displaced afterimage; observers see the space beside them before they see the wearer. |
 | Recognition rule | A sewn inner thread displays the wearer’s written name only when another person reads it aloud. |
@@ -71,7 +71,7 @@ Unfocused attention skims past the wearer. The Veil provides strong Void resista
 
 ## HISTORY OF USE
 
-**Incident — The Cache Door:** During a quiet containment transfer, Hanul Grey crossed a cache-adjacent corridor in the Veil to recover a lost route card. The corridor cameras recorded a shimmer but no person. Grey returned with the card and no memory of crossing the second door. Their partner, Agent Nari Kwon, read the inner thread before Grey attempted the third door; the remembered task returned before a full disappearance developed.
+**Incident — The Cache Door:** During a quiet containment transfer, Hanul Grey crossed a cache-adjacent corridor in the Veil to recover a lost route card. The corridor cameras recorded a shimmer but no person. Grey returned with the card and no memory of crossing the second door. Their partner, Specialist Nari Kwon, read the inner thread before Grey attempted the third door; the remembered task returned before a full disappearance developed.
 
 **Bearer record:** Grey retains the suit by consent and may not take solo assignments while it is active.
 
@@ -89,7 +89,7 @@ Unfocused attention skims past the wearer. The Veil provides strong Void resista
 
 The Veil is the defensive portion of Borrowed Absence. With the Shadow Lens, it prevents a Void route from becoming a self-loss. With the Shadow Cloak, it makes concealment safer only when the return witness stays outside the hidden route.
 
-> *“This is not stealth gear. This is a memory hazard worn as cloth.”* — Agent Iseulfros Kim
+> *“This is not stealth gear. This is a memory hazard worn as cloth.”* — Specialist Iseulfros Kim
 
 ---
 

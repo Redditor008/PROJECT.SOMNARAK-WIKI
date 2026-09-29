@@ -42,7 +42,7 @@ The Somnalith Veil is a pale veil of Han gossamer that flows without air and tig
 
 ## ITEM HISTORY — THE HANDS IN THE REFLECTION
 
-Sora wore the Veil through the aftermath of the eye-shaped crack. Her three anchors were name, current voice, and a silver ring. When she raised her hands, their reflection remained curled around Somnalith’s shard. She could see the ring but did not remember choosing it. Agent Haneulash read the external anchor statement and asked whether Sora wished to keep the object. The question restored choice; simply naming the ring had not.
+Sora wore the Veil through the aftermath of the eye-shaped crack. Her three anchors were name, current voice, and a silver ring. When she raised her hands, their reflection remained curled around Somnalith’s shard. She could see the ring but did not remember choosing it. Specialist Haneulash read the external anchor statement and asked whether Sora wished to keep the object. The question restored choice; simply naming the ring had not.
 
 The inner hem now requires anchors to be active relationships or decisions, not inventory alone.
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-997` — Drowned Roots  
 **Source SECC Designation:** `C-IIβ-997 [D]`  
 **Item Registry Code:** `MAW-W-997-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Drowned Roots — Witnessed Form*, Drowned Roots Requiem performs the we
 **Document ID:** `SE-997-B`  
 **Linked Entity:** `SE-997`  
 **Item Registry Code:** `MAW-W-997-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

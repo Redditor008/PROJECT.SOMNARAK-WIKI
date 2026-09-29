@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It appears more clearly when people search for suppressed history.
 - Personnel feel emptiness after exposure.
 
-**Personnel Note:** *"It was quiet. I felt emptiness. The Silence was not asking us to speak for it; it was asking us not to forget that someone had been silenced."* — Agent, Zone C patrol
+**Personnel Note:** *"It was quiet. I felt emptiness. The Silence was not asking us to speak for it; it was asking us not to forget that someone had been silenced."* — Specialist, Zone C patrol
 
 
 

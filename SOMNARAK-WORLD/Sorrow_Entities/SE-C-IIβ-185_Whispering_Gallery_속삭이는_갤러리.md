@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The floor hums near older memories.
 - Whispering intensifies during the Sorrow Tide.
 
-**Personnel Note:** *"It was singing. I felt sorrow. The Gallery did not want new portraits; it wanted the old ones to become people again."* — Agent, Zone B patrol
+**Personnel Note:** *"It was singing. I felt sorrow. The Gallery did not want new portraits; it wanted the old ones to become people again."* — Specialist, Zone B patrol
 
 
 
@@ -393,6 +393,6 @@ Some sorrows mourn the forgotten. Whispering Gallery mourns the half-remembered 
 ## Document Information
 
 **Document ID:** SE-C-IIβ-185
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4233
 **Classification:** Restricted

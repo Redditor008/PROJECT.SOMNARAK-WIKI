@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1041` — Endless Shift  
 **Source SECC Designation:** `C-IVδ-915 [WT]`  
 **Item Registry Code:** `MAW-S-1041-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Endless Shift — Witnessed Form*, Endless Shift's Veil performs the sui
 **Document ID:** `SE-1041-C`  
 **Linked Entity:** `SE-1041`  
 **Item Registry Code:** `MAW-S-1041-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

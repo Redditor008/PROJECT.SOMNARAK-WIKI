@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-967` — Pandora's Jar  
 **Source SECC Designation:** `N-IVδ-967 [WS]`  
 **Item Registry Code:** `MAW-W-967-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Pandora's Jar — Witnessed Form*, The Relic Maul performs the weapon ro
 **Document ID:** `SE-967-B`  
 **Linked Entity:** `SE-967`  
 **Item Registry Code:** `MAW-W-967-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

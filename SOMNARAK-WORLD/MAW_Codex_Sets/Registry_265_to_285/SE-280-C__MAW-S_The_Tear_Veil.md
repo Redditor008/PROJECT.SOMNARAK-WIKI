@@ -7,7 +7,7 @@
 **Document ID:** `SE-280-C`  
 **Linked Entity:** `SE-280` — Pall  
 **Item Registry Code:** `MAW-S-280-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm preserves ownership, Veil receives, Requiem separates overflow. It must no
 **Document ID:** `SE-280-C`  
 **Linked Entity:** `SE-280`  
 **Item Registry Code:** `MAW-S-280-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

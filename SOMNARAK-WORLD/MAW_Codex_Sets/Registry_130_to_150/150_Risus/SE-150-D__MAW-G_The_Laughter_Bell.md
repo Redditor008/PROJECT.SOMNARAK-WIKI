@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, tiny blue bell / α — Minor / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; relief-and-memory witness required |
-| Known bearer | Agent Kkotlom Lee |
+| Known bearer | Specialist Kkotlom Lee |
 | Resting form | A tiny deep-blue bell that remains silent unless it is held between two people. |
 | Active form | The bell rings without vibration and opens a brief warmth in the listeners’ emotional field. |
 | Recognition rule | It does not ring for solitary escape; another willing person must hear the first note. |

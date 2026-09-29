@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It grows when witnesses are dismissed.
 - Personnel report weight after hearing both voices.
 
-**Personnel Note:** *"It was glowing. I felt weight. The Whisper did not ask me to choose which voice was true; it asked me to admit that both had been hurt."* — Agent, Zone C patrol
+**Personnel Note:** *"It was glowing. I felt weight. The Whisper did not ask me to choose which voice was true; it asked me to admit that both had been hurt."* — Specialist, Zone C patrol
 
 
 
@@ -324,7 +324,7 @@ Double Mouth must be assessed as part of an entity network, not as an isolated p
 
 She saw it, and she told the truth, and the truth was filed away and lost.
 
-The witness worked in Mantle Commons — a clerk, or a stall-holder, or simply a citizen who happened to be looking out a window at the wrong hour. What she saw does not matter for this story, except that it was an injustice done by someone the city preferred not to accuse: a Collector who took more than the ledger allowed, perhaps, or a Warden who looked away at a profitable moment, or a name the Giltong had decided to protect. She saw it clearly. She was certain.
+The witness worked in Mantle Commons — a auxiliary, or a stall-holder, or simply a citizen who happened to be looking out a window at the wrong hour. What she saw does not matter for this story, except that it was an injustice done by someone the city preferred not to accuse: a Collector who took more than the ledger allowed, perhaps, or a Warden who looked away at a profitable moment, or a name the Giltong had decided to protect. She saw it clearly. She was certain.
 
 She reported it. She gave her testimony to the proper office, in the proper words, with the proper composure the Veil demanded. The office accepted her testimony. The office filed her testimony. The office lost her testimony. When she returned to ask what had been done, the record could not be found. When she returned again, she was told, gently, that no such record had ever existed. When she returned a third time, she was warned — also gently — that false accusations were themselves a kind of debt.
 

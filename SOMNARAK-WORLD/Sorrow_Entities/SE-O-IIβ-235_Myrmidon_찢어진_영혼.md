@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It calms when a worker acknowledges institutional harm.
 - It has never attacked someone who openly admits the system's failures.
 
-**Personnel Note:** *"It did not hate my face. It hated the seal on my coat. I removed the coat and the room became quiet."* — Agent, Zone D patrol
+**Personnel Note:** *"It did not hate my face. It hated the seal on my coat. I removed the coat and the room became quiet."* — Specialist, Zone D patrol
 
 
 

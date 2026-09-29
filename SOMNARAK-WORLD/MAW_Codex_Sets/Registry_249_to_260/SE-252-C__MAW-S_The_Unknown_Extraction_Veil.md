@@ -7,7 +7,7 @@
 **Document ID:** `SE-252-C`  
 **Linked Entity:** `SE-252` — Sorrow Gate  
 **Item Registry Code:** `MAW-S-252-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`  
@@ -50,7 +50,7 @@ Charm marks closure and Lens dissipates residue. Veil must never touch the Gate 
 **Document ID:** `SE-252-C`  
 **Linked Entity:** `SE-252`  
 **Item Registry Code:** `MAW-S-252-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

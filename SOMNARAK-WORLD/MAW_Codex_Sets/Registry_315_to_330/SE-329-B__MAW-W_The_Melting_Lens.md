@@ -7,7 +7,7 @@
 **Document ID:** `SE-329-B`  
 **Linked Entity:** `SE-329` — Folly  
 **Item Registry Code:** `MAW-W-329-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -45,7 +45,7 @@ The Melting Lens is a pale disc of Han glass whose edge softens false architectu
 **Document ID:** `SE-329-B`  
 **Linked Entity:** `SE-329`  
 **Item Registry Code:** `MAW-W-329-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-300-C`  
 **Linked Entity:** `SE-300` — The Memory Lock  
 **Item Registry Code:** `MAW-S-300-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Veil protects, Key exchanges, Lens severs obsession.
 **Document ID:** `SE-300-C`  
 **Linked Entity:** `SE-300`  
 **Item Registry Code:** `MAW-S-300-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

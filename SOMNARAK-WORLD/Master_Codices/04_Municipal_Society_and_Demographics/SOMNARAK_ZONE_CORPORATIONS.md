@@ -48,34 +48,34 @@ All other manufacturing entities, ad-hoc fabrication plants, unchartered salvage
 - **Somnarak Outsider Factory (솜나락 외곽 공장 / Somnarak Oegwak Gongjang):** The "non-known" industrial sector operating without Council licenses in the deep sumps of Zone B, the peripheral fringes of Zone E, and the scorched Outskirts.
 
 ```text
-+=====================================================================+
-|               ZONE CORPORATE MATRIX (5 CORPS PER ZONE)              |
-+---------------------------------------------------------------------+
-| ZONE A (THE VEIL) : ADMINISTRATIVE & HIGH REFINING                  |
-|   A-01: Cheonsang Han-Refining    | A-02: Baek-Aegis Architecture   |
-|   A-03: Giltong Sovereign Bureau  | A-04: Central Siphon Energy     |
-|   A-05: Scribe Patent Tribunal    |                                 |
-+---------------------------------------------------------------------+
-| ZONE B (THE RAW) : SUMP, DRAINAGE & INDUSTRIAL LABOR                |
-|   B-01: Undercity Slag-Reclaim    | B-02: Asbestos Drainage         |
-|   B-03: Haz-Scorchers Sanitation  | B-04: Contraband Smelting       |
-|   B-05: Raw Shanty Housing        |                                 |
-+---------------------------------------------------------------------+
-| ZONE C (COLLECTOR ROW) : FINANCIAL LEDGER & RECEPTION               |
-|   C-01: Municipal Debt Registry   | C-02: Mnemonic Ledger Clearing  |
-|   C-03: Usury Liquidation Bureau  | C-04: Cleansers Chemical Corp   |
-|   C-05: Standard Coin & Crystal   |                                 |
-+---------------------------------------------------------------------+
-| ZONE D (ECHO FORGE) : CRUCIBLE SMELTING & APPARATUS                 |
-|   D-01: Great Crucible Foundry    | D-02: Resonance Instrument      |
-|   D-03: Doll Maker Biological     | D-04: Basalt Carapace Forges    |
-|   D-05: Echo-Pigment Synthetics   |                                 |
-+---------------------------------------------------------------------+
-| ZONE E (BASTION RING) : BORE DRILLING & PERIMETER DEFENSE           |
-|   E-01: Deep-Bore Trenching Corp  | E-02: Trans-Desolate Crawler    |
-|   E-03: Perimeter Wall Defense    | E-04: Overland Supply Board     |
-|   E-05: Frontier Quarantine Gate  |                                 |
-+=====================================================================+
++========================================================================+
+|                 ZONE CORPORATE MATRIX (5 CORPS PER ZONE)               |
++------------------------------------------------------------------------+
+| ZONE A (THE VEIL) : ADMINISTRATIVE & HIGH REFINING                     |
+|    A-01: Cheonsang Han-Refining    | A-02: Baek-Aegis Architecture     |
+|    A-03: Giltong Sovereign Bureau  | A-04: Central Siphon Energy       |
+|   A-05: Scribe Patent Tribunal    |                                    |
++------------------------------------------------------------------------+
+| ZONE B (THE RAW) : SUMP, DRAINAGE & INDUSTRIAL LABOR                   |
+|   B-01: Undercity Slag-Reclaim    | B-02: Asbestos Drainage            |
+|   B-03: Haz-Scorchers Sanitation  | B-04: Contraband Smelting          |
+|   B-05: Raw Shanty Housing        |                                    |
++------------------------------------------------------------------------+
+| ZONE C (COLLECTOR ROW) : FINANCIAL LEDGER & READING                    |
+|     C-01: Municipal Debt Registry   | C-02: Mnemonic Ledger Clearing   |
+|    C-03: Usury Liquidation Bureau  | C-04: Cleansers Chemical Corp     |
+|   C-05: Standard Coin & Crystal   |                                    |
++------------------------------------------------------------------------+
+| ZONE D (ECHO FORGE) : CRUCIBLE SMELTING & APPARATUS                    |
+|   D-01: Great Crucible Foundry    | D-02: Resonance Instrument         |
+|    D-03: Doll Maker Biological     | D-04: Basalt Carapace Forges      |
+|   D-05: Echo-Pigment Synthetics   |                                    |
++------------------------------------------------------------------------+
+| ZONE E (BASTION RING) : BORE DRILLING & PERIMETER DEFENSE              |
+|    E-01: Deep-Bore Trenching Corp  | E-02: Trans-Desolate Crawler      |
+|    E-03: Perimeter Wall Defense    | E-04: Overland Supply Board       |
+|   E-05: Frontier Quarantine Gate  |                                    |
++========================================================================+
 ```
 
 ## Section II: Zone A Corporate Directory (The Veil & High Spire)
@@ -151,7 +151,7 @@ Zone C is the administrative and financial hub of debt management, accounting, a
 
 ### C-02: Mnemonic Ledger Clearinghouse (기억 원장 청산소)
 - **Municipal Charter:** CORP-ZC-002
-- **Operational Domain:** Appraisal, archival, and financial liquidation of recovered memory fragments, Key Pages, and unrecorded personal records.
+- **Operational Domain:** Appraisal, archival, and financial liquidation of recovered memory fragments, Memory Leaves, and unrecorded personal records.
 - **Institutional Link:** Works in direct commercial partnership with the Memory Archive (Gieok Jeojangso) on Floor 01.
 
 ### C-03: The Usury Liquidation Bureau (고리 청산 감찰국)

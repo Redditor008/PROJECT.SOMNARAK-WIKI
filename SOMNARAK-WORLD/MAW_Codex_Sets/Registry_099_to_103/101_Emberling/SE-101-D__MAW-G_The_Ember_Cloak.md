@@ -21,7 +21,7 @@
 | Type / grade / element | Stigma (Neck / Collar Smoldering Coal Setting) / β / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; limited cold-response issue |
-| Known bearer | Agent Minho Ashford |
+| Known bearer | Specialist Minho Ashford |
 | Resting form | A blue cloak-clasp with a small red-orange point caught behind clear Han-glass. |
 | Active form | A soft insulating aura follows the bearer and produces no visible flame. |
 | Recognition rule | The ember turns blue-white if it is protecting from physical cold, and dull red if it is holding emotional cold. |

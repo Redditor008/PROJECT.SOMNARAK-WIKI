@@ -159,7 +159,7 @@ The set provides minor structural and Weight support. It must never be issued to
 - **Understood:** Atlas is support that became identity because no one came back to relieve the person holding.
 - **Mastery condition:** Forge safety must treat rotation and repair as protection for people, not evidence that they are replaceable.
 
-> *“A support is allowed to be supported.”* — Agent Iseulfros Kim
+> *“A support is allowed to be supported.”* — Specialist Iseulfros Kim
 
 ---
 

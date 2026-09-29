@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-914` — Amnesia  
 **Source SECC Designation:** `O-IIβ-914 [VT]`  
 **Item Registry Code:** `MAW-S-914-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Amnesia — Witnessed Form*, Amnesia's Veil performs the suit role while
 **Document ID:** `SE-914-C`  
 **Linked Entity:** `SE-914`  
 **Item Registry Code:** `MAW-S-914-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / α — Minor / Lament — Deep Blue |
 | Status | Active; communal-witness issue |
 | Maximum amount | 5 — Standard |
-| Current bearer | Agent Kkotlom Lee |
+| Current bearer | Specialist Kkotlom Lee |
 | Resting form | A light blue shroud with small bell-like folds along the hem. |
 | Active form | Each fold catches a laugh, an exhale, or a tear before releasing it as a softer shared tone. |
 | Recognition rule | The folds remain quiet if the wearer tries to perform happiness for an audience. |
@@ -87,7 +87,7 @@ Kkotlom Lee wore the Shroud at a Commons memorial that unexpectedly became joyfu
 
 The Shroud is the communal buffer of *Laugh and Remember*. Requiem keeps relief honest and Bell makes it available; this suit ensures the set does not make joy into another form of denial.
 
-> *“A memory can be bright and sad at the same time. The cloth works only when the wearer lets it.”* — Agent Iseulfros Kim
+> *“A memory can be bright and sad at the same time. The cloth works only when the wearer lets it.”* — Specialist Iseulfros Kim
 
 ---
 

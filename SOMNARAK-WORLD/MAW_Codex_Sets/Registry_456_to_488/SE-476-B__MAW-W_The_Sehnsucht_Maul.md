@@ -7,7 +7,7 @@
 **Document ID:** `SE-476-B`  
 **Linked Entity:** `SE-476` — Sehnsucht  
 **Item Registry Code:** `MAW-W-476-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Sehnsucht Maul is a black maul of Han steel whose head points parallel to th
 **Document ID:** `SE-476-B`  
 **Linked Entity:** `SE-476`  
 **Item Registry Code:** `MAW-W-476-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

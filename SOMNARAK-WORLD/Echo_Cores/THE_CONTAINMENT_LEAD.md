@@ -113,7 +113,7 @@ He moves quietly and uses both hands without favoring one. The scaled claws may 
 
 Dekan is watchful, low-voiced, and steady. He listens before speaking, distinguishes a changed sound from a louder one, and reports emotional behavior with the same seriousness another officer would give a structural breach.
 
-His restraint is functional. Floor 2 houses entities whose sorrow can turn attention, touch, memory, or compassion into vectors of harm. Panic would destabilize agents; dismissal would miss the warning. Dekan occupies the narrow space between those failures.
+His restraint is functional. Floor 2 houses entities whose sorrow can turn attention, touch, memory, or compassion into vectors of harm. Panic would destabilize specialists; dismissal would miss the warning. Dekan occupies the narrow space between those failures.
 
 He usually begins with the operational fact:
 
@@ -162,7 +162,7 @@ Each contains part of the truth, and each becomes destructive when treated as th
 
 ### Moral Center
 
-Dekan believes a boundary should protect everyone on both sides of it. Agents must survive contact. Citizens must be protected from breaches. Entities must not be destroyed merely because their sorrow is difficult to hold.
+Dekan believes a boundary should protect everyone on both sides of it. Specialists must survive contact. Citizens must be protected from breaches. Entities must not be destroyed merely because their sorrow is difficult to hold.
 
 His development does not reject containment. It changes containment from possession into care. By Day 350, Dekan can name the transformation clearly: the entities are not prisoners; they are visitors and guests.
 
@@ -495,7 +495,7 @@ Year 4,232 repeats 1,778 times, but Dekan does not possess Seiyon's perfect arch
 
 The thousand experience each reset as a tremor through the district. Dekan feels enough of that disturbance to know repetition is occurring. Some iterations leave pressure without context; others leave a certainty that a report has been delivered before. Classified briefings and the Nine's shared knowledge allow him eventually to name the count, but no source supports 1,778 complete personal lifetimes of recall.
 
-The repetition intensifies his fatalism. Markers return. Breaches recur. The Bell tolls. Agents recover and repeat the same procedures. When the institution resets perfectly, containment can appear not merely necessary but cosmically permanent.
+The repetition intensifies his fatalism. Markers return. Breaches recur. The Bell tolls. Specialists recover and repeat the same procedures. When the institution resets perfectly, containment can appear not merely necessary but cosmically permanent.
 
 It also sharpens his challenge to Majin. By the final Cycle, asking what “home” means is no longer an abstract question. It is a demand addressed to the one person who has had 1,778 retained chances to imagine an answer.
 
@@ -572,7 +572,7 @@ Dekan is the consistent listener across all six stages.
 |---:|---|---|
 | **1** | Dekan reports that Entity 001, the Orphaned Bell, tolled at midnight and that the Maw whispered Majin's name. | Establishes Dekan as the bridge between routine containment data and impossible personal testimony. |
 | **5** | During an extraction discussion, Dekan says entities never want to give anything up and that this is why they are contained. | States the old doctrine: resistance is interpreted as proof that confinement is necessary. |
-| **29** | The Smothering Mother escapes, holds an Agent for six hours, and returns after the Agent is extracted. Dekan relays her message of understanding and forgiveness to Majin. | Shows that Dekan preserves an entity's meaning even when reporting a breach. |
+| **29** | The Smothering Mother escapes, holds an Specialist for six hours, and returns after the Specialist is extracted. Dekan relays her message of understanding and forgiveness to Majin. | Shows that Dekan preserves an entity's meaning even when reporting a breach. |
 
 #### Phase II — Memory and Mourning (Days 53–97)
 
@@ -644,7 +644,7 @@ No source records an off-page Archive assignment for him.
 
 ### The Forgotten Soldier Connection
 
-**The Forgotten Soldier**, an entity within Dekan's broader containment domain, appears as Reception 3 in Seiyon's Archive journey and yields **The Guardian** Engram Page. The thematic connection is clear—duty without purpose closely resembles Dekan's danger after the Maw's release—but the source does not state that Dekan escorts the Soldier, enters the Archive, or participates in the battle.
+**The Forgotten Soldier**, an entity within Dekan's broader containment domain, appears as Reading 3 in Seiyon's Archive journey and yields **The Guardian** Engram Page. The thematic connection is clear—duty without purpose closely resembles Dekan's danger after the Maw's release—but the source does not state that Dekan escorts the Soldier, enters the Archive, or participates in the battle.
 
 Accordingly:
 
@@ -714,7 +714,7 @@ His interpretive accuracy is one of the R.D.'s most important containment assets
 
 ### Containment Command
 
-As Floor 2 commander, Dekan can deploy agents, coordinate breach response, maintain perimeter readiness, and report changes to Central Command. This authority is institutional rather than supernatural, but it allows his perception to become immediate action.
+As Floor 2 commander, Dekan can deploy specialists, coordinate breach response, maintain perimeter readiness, and report changes to Central Command. This authority is institutional rather than supernatural, but it allows his perception to become immediate action.
 
 ### Cycle-Tremor Sensitivity
 
@@ -845,7 +845,7 @@ These systems make the institution around him more concrete but do not create a 
 
 ### Personal M.A.W.
 
-No canonical personal M.A.W. is assigned to Dekan. Operational logs describing **standard** or **reinforced M.A.W. loadouts** on Floor 2 refer to deployed agents and floor readiness, not automatically to Dekan's personal equipment.
+No canonical personal M.A.W. is assigned to Dekan. Operational logs describing **standard** or **reinforced M.A.W. loadouts** on Floor 2 refer to deployed specialists and floor readiness, not automatically to Dekan's personal equipment.
 
 Likewise, M.A.W. items extracted from the Maw or other entities are registry products under R.D. operations. None is identified as Dekan's signature weapon.
 
@@ -1203,7 +1203,7 @@ Additional master references deepen that context without automatically becoming 
 - **_Faction Relationship Matrix_** — R.D./Council secrecy, Keeper records, Warden cooperation, Giltong scrutiny, and the Containment Lead's hidden-Archive story hook.
 - **_The Desolate_** and **_The Unknown Cities_** — the city/wilderness distinction and Cheonbulok continuity needed to prevent the Maw-merge or Bell report from being misclassified.
 
-Dekan has no direct recorded appearance in _The Memory Archive_. The Forgotten Soldier's Reception does not by itself add Dekan to that story's cast.
+Dekan has no direct recorded appearance in _The Memory Archive_. The Forgotten Soldier's Reading does not by itself add Dekan to that story's cast.
 
 ### Era Status
 
@@ -1373,7 +1373,7 @@ The source says the Council does not know Dekan can speak to the Maw, while Maji
 
 ### Memory Archive Nonappearance
 
-The Archive's Forgotten Soldier does not create an off-page Dekan role. Archive progression remains “none recorded” unless a later source explicitly adds Dekan to a Reception or Realization.
+The Archive's Forgotten Soldier does not create an off-page Dekan role. Archive progression remains “none recorded” unless a later source explicitly adds Dekan to a Reading or Realization.
 
 ### Final-Day Dating
 
@@ -1406,7 +1406,7 @@ Days 350–365 function as late-cycle and anniversary records, with the final en
 
 Dekan begins as a child who hears a city wound speaking through the walls. The Maw raises him, takes his mother, enters his arm, and gives the R.D. a reason to turn his survival into an office. He becomes the only person who can stand between the thousand and an institution that does not know—or cannot afford to admit—that its oldest dead are still conscious.
 
-For most of his life, containment appears permanent. The Maw whispers. The Bell tolls. The Mother escapes and returns. Agents work, Fracture, recover, and repeat. Dekan listens and reports because the boundary must hold.
+For most of his life, containment appears permanent. The Maw whispers. The Bell tolls. The Mother escapes and returns. Specialists work, Fracture, recover, and repeat. Dekan listens and reports because the boundary must hold.
 
 Then the wound asks a question.
 

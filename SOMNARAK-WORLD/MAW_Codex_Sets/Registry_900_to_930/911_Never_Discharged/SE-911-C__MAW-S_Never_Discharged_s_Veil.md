@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-911` — Never Discharged  
 **Source SECC Designation:** `O-IIβ-911 [WT]`  
 **Item Registry Code:** `MAW-S-911-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Never Discharged — Witnessed Form*, Never Discharged's Veil performs t
 **Document ID:** `SE-911-C`  
 **Linked Entity:** `SE-911`  
 **Item Registry Code:** `MAW-S-911-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

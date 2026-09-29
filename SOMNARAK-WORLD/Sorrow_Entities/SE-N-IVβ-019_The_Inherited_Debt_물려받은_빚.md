@@ -185,7 +185,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Range:** 2 (Short: Cone Arc)
 **Pattern:** Conical Gravity Wave / Posture Crush
 
-**Appearance:** An ornate, dense iron-stone signet ring worn directly on the Agent's index finger, engraved with ancient, worn debtor seals. When the bearer clenches their fist, the ring bends local space into a 120-degree forward cone of crushing gravitational force that slams targets into the floor under the unbearable weight of generational debt.
+**Appearance:** An ornate, dense iron-stone signet ring worn directly on the Specialist's index finger, engraved with ancient, worn debtor seals. When the bearer clenches their fist, the ring bends local space into a 120-degree forward cone of crushing gravitational force that slams targets into the floor under the unbearable weight of generational debt.
 
 **Ability:** *Generational Crush* — Releases a short-range cone of downward gravitational force at Range 2. Crushes physical stances and pins targets to the floor, inflicting heavy posture break.
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-796` — Spire of Unanswered Prayer  
 **Source SECC Designation:** `O-IIβ-796 [LS]`  
 **Item Registry Code:** `MAW-W-796-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Requiem perfor
 **Document ID:** `SE-796-B`  
 **Linked Entity:** `SE-796`  
 **Item Registry Code:** `MAW-W-796-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

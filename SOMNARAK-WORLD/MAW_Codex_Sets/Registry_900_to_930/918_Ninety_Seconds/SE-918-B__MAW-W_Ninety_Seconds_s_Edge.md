@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-918` — Ninety Seconds  
 **Source SECC Designation:** `C-IVδ-918 [VT]`  
 **Item Registry Code:** `MAW-W-918-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Ninety Seconds — Witnessed Form*, Ninety Seconds's Edge performs the w
 **Document ID:** `SE-918-B`  
 **Linked Entity:** `SE-918`  
 **Item Registry Code:** `MAW-W-918-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, rusted support-charm / α — Minor / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; relief-plan reading required |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small black charm with a single rust patch that spreads toward the most overburdened nearby support. |
 | Active form | The rust patch forms an arrow to one person, structure, or task carrying more than its design can safely hold. |
 | Recognition rule | It stays still if the bearer has not agreed to seek relief rather than merely identify the overload. |
@@ -84,7 +84,7 @@ Park used the Charm during a Forge inspection and it pointed to a quiet maintena
 
 The Charm completes *Relief Column*. Rusted Maul transfers pressure and Rusted Brace supports transition; this Gift ensures no one is made into a permanent pillar by an invisible workload.
 
-> *“The first repair is often not metal. It is sending another person to help.”* — Agent Iseulfros Kim
+> *“The first repair is often not metal. It is sending another person to help.”* — Specialist Iseulfros Kim
 
 ---
 

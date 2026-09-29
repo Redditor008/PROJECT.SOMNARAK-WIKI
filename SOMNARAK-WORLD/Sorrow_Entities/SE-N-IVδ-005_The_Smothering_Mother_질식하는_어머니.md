@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The warmth of the cell is maintained by the entity itself.
 
 **Personnel Note:**
-> *"She held me for six hours. I didn't want to leave. When they pulled me out, I cried for three days—not from sadness, but from loss. I had never felt that safe before."* — Agent Haneulash Yoon, Zone D containment team
+> *"She held me for six hours. I didn't want to leave. When they pulled me out, I cried for three days—not from sadness, but from loss. I had never felt that safe before."* — Specialist Haneulash Yoon, Zone D containment team
 
 
 
@@ -398,6 +398,6 @@ Some sorrows mourn a child. The Smothering Mother mourns the inability to protec
 ## Document Information
 
 **Document ID:** SE-N-IVδ-005
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4232
 **Classification:** Restricted

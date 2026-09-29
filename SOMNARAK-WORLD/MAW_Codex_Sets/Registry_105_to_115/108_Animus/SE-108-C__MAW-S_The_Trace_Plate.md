@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / α — Minor / Grudge — Crimson |
 | Status | Active; low-grade residue-response issue |
 | Maximum amount | 5 — Standard |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A light crimson harness with a faint char scent and one unfilled line down the center plate. |
 | Active form | The unfilled line glows where an inherited anger is trying to become a current action. |
 | Recognition rule | The line stays empty when a wearer can distinguish a present threat from a remembered grudge. |
@@ -87,7 +87,7 @@ Ashford wore the Plate during a Commons patrol when Animus passed through a crow
 
 The Plate is the defensive caution in *Carry No Inheritance*. It helps the Fang and Ember observe rage without converting weak residue into a new intergenerational debt.
 
-> *“Resistance is useful. Certainty is not always.”* — Agent Iseulfros Kim
+> *“Resistance is useful. Certainty is not always.”* — Specialist Iseulfros Kim
 
 ---
 

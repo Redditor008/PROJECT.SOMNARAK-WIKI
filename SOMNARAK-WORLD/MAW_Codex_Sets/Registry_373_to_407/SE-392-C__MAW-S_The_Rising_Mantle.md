@@ -7,7 +7,7 @@
 **Document ID:** `SE-392-C`  
 **Linked Entity:** `SE-392` — Mirror of Rising  
 **Item Registry Code:** `MAW-S-392-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Rising Mantle is a black garment of Han weave containing an empty communal s
 **Document ID:** `SE-392-C`  
 **Linked Entity:** `SE-392`  
 **Item Registry Code:** `MAW-S-392-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

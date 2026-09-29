@@ -7,7 +7,7 @@
 **Document ID:** `SE-554-B`  
 **Linked Entity:** `SE-554` — Fallow  
 **Item Registry Code:** `MAW-W-554-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Fallow Requiem is a sickle of deep-blue crystal with rusted root grain runni
 **Document ID:** `SE-554-B`  
 **Linked Entity:** `SE-554`  
 **Item Registry Code:** `MAW-W-554-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

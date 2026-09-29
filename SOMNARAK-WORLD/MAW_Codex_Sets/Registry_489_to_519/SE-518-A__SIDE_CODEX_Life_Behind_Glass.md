@@ -7,7 +7,7 @@
 **Document ID:** `SE-518-A`  
 **Related Entity ID:** `SE-518`  
 **SECC Designation:** `N-Iα-518 [D]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -46,7 +46,7 @@ Shard frames one distant event, Shroud anchors the viewer, and Requiem severs fi
 
 **Document ID:** `SE-518-A`  
 **Linked Entity:** `SE-518`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

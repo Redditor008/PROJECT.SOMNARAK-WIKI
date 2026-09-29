@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Genuine laughter makes it briefly quiet.
 - Personnel report peace before recognizing the laughter as forced.
 
-**Personnel Note:** *"It was watching. I felt peace. Then it laughed with my voice, and I understood that I had been performing happiness for years."* — Agent, Zone B patrol
+**Personnel Note:** *"It was watching. I felt peace. Then it laughed with my voice, and I understood that I had been performing happiness for years."* — Specialist, Zone B patrol
 
 
 

@@ -10,7 +10,7 @@
 ## DEEP KNOWLEDGE — READ BEFORE WRITING
 
 - **5 Colors = 5 Elements/Pressures:** BLACK (Weight / 비중, crushing), BLUE (Lament / 비탄, despair), GREY (Grudge / 원한, humanoid incursions), PALE (Void / 공허, erasure), PURPLE (Mixed / Raw Han corruption).
-- **4 Watches = escalation:** First Watch (Dawn) → Second Watch → Third Watch → Tide Watch (facility-wide). Higher watch = higher Potency (α→ω) and longer battle (8→28 turns).
+- **4 Watches = escalation:** First Watch → Second Watch → Third Watch → Tide Watch (facility-wide). Higher watch = higher Potency (α→ω) and longer battle (8→28 turns).
 - **Ordeals are NOT entities.** They are cyclical facility defense events — waves, swarms, harvesters, choirs. They have no SECC. They have Ordeal Codes: `Ordeal-BLACK-First-01` etc.
 - **Tripartite Crisis Taxonomy:** Ordeal (external wave) vs Entity Breach (escaped SE) vs Echo-Core Suppression (Floor Realization). Do not conflate.
 

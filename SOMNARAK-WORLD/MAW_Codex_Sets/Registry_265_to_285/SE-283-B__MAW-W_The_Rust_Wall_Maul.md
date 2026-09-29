@@ -7,7 +7,7 @@
 **Document ID:** `SE-283-B`  
 **Linked Entity:** `SE-283` — Barrier of Nothing  
 **Item Registry Code:** `MAW-W-283-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm names sides, Plate holds position, Maul opens only the active blockage.
 **Document ID:** `SE-283-B`  
 **Linked Entity:** `SE-283`  
 **Item Registry Code:** `MAW-W-283-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

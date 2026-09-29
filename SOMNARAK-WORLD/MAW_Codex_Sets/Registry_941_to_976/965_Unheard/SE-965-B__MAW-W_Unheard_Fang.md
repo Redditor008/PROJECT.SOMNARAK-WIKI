@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-965` — Unheard  
 **Source SECC Designation:** `C-Iα-965 [N]`  
 **Item Registry Code:** `MAW-W-965-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Unheard — Witnessed Form*, Unheard Fang performs the weapon role while
 **Document ID:** `SE-965-B`  
 **Linked Entity:** `SE-965`  
 **Item Registry Code:** `MAW-W-965-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

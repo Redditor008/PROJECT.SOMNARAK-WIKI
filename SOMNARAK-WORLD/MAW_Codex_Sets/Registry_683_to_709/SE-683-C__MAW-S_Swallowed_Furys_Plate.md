@@ -4,7 +4,7 @@
 **Document ID:** `SE-683-C`  
 **Linked Entity:** `SE-683` — Swallowed Fury  
 **Item Registry Code:** `MAW-S-683-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -27,7 +27,7 @@ Swallowed Fury’s Plate is a warm crimson harness smelling of char — the foun
 **Document ID:** `SE-683-C`  
 **Linked Entity:** `SE-683`  
 **Item Registry Code:** `MAW-S-683-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

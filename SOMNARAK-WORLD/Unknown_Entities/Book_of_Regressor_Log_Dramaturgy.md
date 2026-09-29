@@ -18,7 +18,7 @@
 
 *Outside the page — the entry shifts between second and first person; the writer could no longer tell which one they were.*
 
-*Outside the page — "This was happening to a stuck Agent that is aware of the Loops."*
+*Outside the page — "This was happening to a stuck Specialist that is aware of the Loops."*
 
 This is the line where it began, and I remember the turning of it better than the soul who wrote it. They had died the evening before — a containment failure in a corridor they had walked correctly a hundred times — and woken the next morning with the death still in their teeth. They laughed at themselves for remembering. They thought they were going mad. They were, in fact, only becoming accurate.
 

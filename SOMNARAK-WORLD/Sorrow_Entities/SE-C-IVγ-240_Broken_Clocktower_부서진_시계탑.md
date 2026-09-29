@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - All clocks within the tower eventually show 3:47.
 - Personnel may age subjectively during short exposures.
 
-**Personnel Note:** *"It was mourning. I felt rage. The tower had been waiting for someone to admit that 3:47 was not going to become 3:48."* — Agent, Zone C patrol
+**Personnel Note:** *"It was mourning. I felt rage. The tower had been waiting for someone to admit that 3:47 was not going to become 3:48."* — Specialist, Zone C patrol
 
 
 

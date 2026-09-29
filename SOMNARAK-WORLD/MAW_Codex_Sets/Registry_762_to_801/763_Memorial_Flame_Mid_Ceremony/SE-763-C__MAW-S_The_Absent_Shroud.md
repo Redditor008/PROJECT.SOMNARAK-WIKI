@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-763` — Memorial Flame Mid-Ceremony
 **Source SECC Designation:** `C-IVδ-763 [LP]`
 **Item Registry Code:** `MAW-S-763-01`
-**Author:** Agent Iseulfros Kim
+**Author:** Specialist Iseulfros Kim
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Extinguished Mourne
 **Document ID:** `SE-763-C`
 **Linked Entity:** `SE-763`
 **Item Registry Code:** `MAW-S-763-01`
-**Author:** Agent Iseulfros Kim
+**Author:** Specialist Iseulfros Kim
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

@@ -5,7 +5,7 @@
 **Document ID:** `UNK-901-B`  
 **Linked Entity:** `UNK-901` — The Mewgical Girl  
 **Item Registry Code:** `MAW-W-UNK-901-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -43,7 +43,7 @@
 **Document ID:** `UNK-901-B`  
 **Linked Entity:** `UNK-901`  
 **Item Registry Code:** `MAW-W-UNK-901-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

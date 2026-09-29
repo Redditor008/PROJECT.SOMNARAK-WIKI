@@ -72,7 +72,7 @@ replace_in_file(
 # 3. SOMNARAK_MEMORY_ARCHIVE.md
 replace_in_file(
     "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/SOMNARAK_MEMORY_ARCHIVE.md",
-    "**Game Style:** Library of Ruina — Reception Battles, Floor Realizations, Key Pages",
+    "**Game Style:** Library of Ruina — Reading Battles, Floor Realizations, Memory Leaves",
     "**Game Style:** Mnemonic Combat Framework — Guest Confrontations, Floor Realizations, Mnemonic Core Transmutation"
 )
 replace_in_file(
@@ -81,9 +81,9 @@ replace_in_file(
 
 | PM Game | Element | How Used |
 |---|---|---|
-| **LoR** | Reception Battles | Combat encounters with the Archive's preserved |
+| **LoR** | Reading Battles | Combat encounters with the Archive's preserved |
 | **LoR** | Floor Realizations | Character exploration through combat |
-| **LoR** | Key Pages | Character progression through battle |
+| **LoR** | Memory Leaves | Character progression through battle |
 | **LoR** | The Library | The Memory Archive — consumes and preserves |
 | **LoR** | Urban Threat Levels | Archive floor danger ratings |
 | **LC** | Memory Repository | The Archive's preservation system |""",
@@ -91,7 +91,7 @@ replace_in_file(
 
 | Engine Domain | Mechanical Element | Institutional Implementation |
 |---|---|---|
-| **Mnemonic Clashes** | Reception Confrontations | Tactical combat gauntlets confronting the Archive's preserved emotional memories |
+| **Mnemonic Clashes** | Reading Confrontations | Tactical combat gauntlets confronting the Archive's preserved emotional memories |
 | **Psychic Trials** | Floor Realizations | Navigating the suppressed trauma of Floor Leads to transmute despair into Hope |
 | **Soul Formations** | Key Core Transmutation | Operative progression and stat scaling through crystallized mnemonic pages |
 | **Mnemonic Domain** | The Grand Archive | 6,000-year-old subterranean complex consuming identities and preserving history |

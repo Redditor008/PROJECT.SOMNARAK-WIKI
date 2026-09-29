@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-778` — Well of Unfinished Words  
 **Source SECC Designation:** `N-IIβ-778 [LP]`  
 **Item Registry Code:** `MAW-W-778-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Well of Unfinished Words — Witnessed Form*, The Listening Requiem perf
 **Document ID:** `SE-778-B`  
 **Linked Entity:** `SE-778`  
 **Item Registry Code:** `MAW-W-778-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

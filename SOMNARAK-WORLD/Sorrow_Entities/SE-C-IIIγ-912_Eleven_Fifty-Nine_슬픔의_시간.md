@@ -219,7 +219,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The lament pressure is different from standard lament. It does not press on the body — it presses on the lament itself. You feel it before you understand what is happening."* — Agent, Field Team 1
+> *"The lament pressure is different from standard lament. It does not press on the body — it presses on the lament itself. You feel it before you understand what is happening."* — Specialist, Field Team 1
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -268,7 +268,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 *"The first Time-Lament entity. The file is short because we are still writing it."* — Archive
 *"Standard lament protocols assume the pressure is uniform. It is not. The lament register is specific."* — Researcher
-*"I have never felt lament like this. It was as if the element had learned my name."* — Agent
+*"I have never felt lament like this. It was as if the element had learned my name."* — Specialist
 *"The entity does not breach. It deepens. There is a difference."* — Containment Lead
 *"We contained it. We did not understand it. Those are not the same thing."* — Director
 

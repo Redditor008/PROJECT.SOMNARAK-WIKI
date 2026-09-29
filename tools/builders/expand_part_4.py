@@ -19,14 +19,14 @@ def get_day_53_combat():
         "[SPIRE-A][PARK]  [SPIRE-B][HWANG]       [KIM]                   [ZYRAK]",
         "---",
         "- Node 01: Clockwork Spire A (Posture 56/120 / Base Drive Fractured)",
-        "- Node 02: Agent Park (Point-Blank Band 1 / Heavy Maul Cleaving)",
+        "- Node 02: Specialist Park (Point-Blank Band 1 / Heavy Maul Cleaving)",
         "- Node 03: Clockwork Spire B (Charging Kinetic Piston / Posture 120/120)",
-        "- Node 04: Agent Hwang (Range Band 2 / Blessed Scalpel Firing)",
-        "- Node 06: Agent Kim (Range Band 3 / Covering Flank with Carbine)",
+        "- Node 04: Specialist Hwang (Range Band 2 / Blessed Scalpel Firing)",
+        "- Node 06: Specialist Kim (Range Band 3 / Covering Flank with Carbine)",
         "---",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 110/110 | SP +20 | Posture 70/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 110/110 | SP +20 | Posture 70/70",
         "- Spire A     : Spd 3 -> 1 AP | HP 164/260 | Posture 56/120 [CRACKED]",
         "- Spire B     : Spd 4 -> 2 AP | HP 260/260 | Posture 120/120"
     ])
@@ -38,14 +38,14 @@ def get_day_53_combat():
         "        [PARK]",
         "---",
         "- Node 01: Spire A (SHATTERED & PULVERIZED / Scrap Siphoned)",
-        "- Node 02: Agent Park (Momentum Surge Primed / Repositioning to Node 03)",
+        "- Node 02: Specialist Park (Momentum Surge Primed / Repositioning to Node 03)",
         "- Node 03: Spire B (Exposed / Posture 84/120)",
-        "- Node 04: Agent Hwang (Void Disruption Firing)",
-        "- Node 06: Agent Kim (Suppressing Emerging Gear Scuttlers)",
+        "- Node 04: Specialist Hwang (Void Disruption Firing)",
+        "- Node 06: Specialist Kim (Suppressing Emerging Gear Scuttlers)",
         "---",
-        "- Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +28 | Posture 55/55",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 110/110 | SP +25 | Posture 70/70",
+        "- Specialist Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +28 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 110/110 | SP +25 | Posture 70/70",
         "- Spire A     : HP 0/260 [DESTROYED]",
         "- Spire B     : Spd 4 -> 2 AP | HP 212/260 | Posture 84/120 [ENGAGED]"
     ])
@@ -55,14 +55,14 @@ def get_day_53_combat():
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "        [PARK]  [SPIRE-B][HWANG]        [KIM]                   [ZYRAK]",
         "---",
-        "- Node 02: Agent Park (Spd 8 / AP 4 / Heavy Maul Overhead Strike)",
+        "- Node 02: Specialist Park (Spd 8 / AP 4 / Heavy Maul Overhead Strike)",
         "- Node 03: Clockwork Spire B (Posture 40/120 / Piston Damaged)",
-        "- Node 04: Agent Hwang (Slicing Gear Teeth with Scalpel)",
-        "- Node 06: Agent Kim (Pinning Scuttlers at Node 03 with Jaw Clamp)",
+        "- Node 04: Specialist Hwang (Slicing Gear Teeth with Scalpel)",
+        "- Node 06: Specialist Kim (Pinning Scuttlers at Node 03 with Jaw Clamp)",
         "---",
-        "- Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +28 | Posture 55/55",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 106/110 | SP +25 | Posture 62/70",
+        "- Specialist Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +28 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 106/110 | SP +25 | Posture 62/70",
         "- Spire B     : Spd 3 -> 1 AP | HP 136/260 | Posture 40/120 [CRITICAL]"
     ])
 
@@ -72,14 +72,14 @@ def get_day_53_combat():
         "                [SPIRE-B]                                       [ZYRAK]",
         "        [PARK]  [HWANG]         [KIM]",
         "---",
-        "- Node 02: Agent Park (Two-Handed Maul Sunder Landed)",
+        "- Node 02: Specialist Park (Two-Handed Maul Sunder Landed)",
         "- Node 03: Spire B (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG)",
-        "- Node 03: Agent Hwang (Severing Central Flywheel)",
-        "- Node 04: Agent Kim (Breaching Hydraulic Fuel Tank)",
+        "- Node 03: Specialist Hwang (Severing Central Flywheel)",
+        "- Node 04: Specialist Kim (Breaching Hydraulic Fuel Tank)",
         "---",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +28 | Posture 55/55",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 106/110 | SP +25 | Posture 62/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +28 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 106/110 | SP +25 | Posture 62/70",
         "- Spire B     : Spd 0 -> 0 AP | HP 42/260  | Posture 0/120 [COLLAPSED]"
     ])
 
@@ -89,13 +89,13 @@ def get_day_53_combat():
         "        [SLAG]  [PARK]  [HWANG]         [KIM]                   [ZYRAK]",
         "---",
         "- Node 02: Clockwork Spires (Reduced to Slag & Pure Han Vapor)",
-        "- Node 03: Agent Park (Venting Heated Steam)",
-        "- Node 04: Agent Hwang (Sheathing Scalpel / Sanitizing Core)",
-        "- Node 06: Agent Kim (Reporting Sector Clear)",
+        "- Node 03: Specialist Park (Venting Heated Steam)",
+        "- Node 04: Specialist Hwang (Sheathing Scalpel / Sanitizing Core)",
+        "- Node 06: Specialist Kim (Reporting Sector Clear)",
         "---",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +32 | Posture 55/55",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 106/110 | SP +30 | Posture 70/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +32 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 106/110 | SP +30 | Posture 70/70",
         "- Spires      : HP 0/260 [DESTROYED] | +0.020 TONS REFINED HAN HARVESTED"
     ])
 
@@ -106,12 +106,12 @@ def get_day_53_combat():
 
 ###### Turn 02 Action Resolution Log (Stagger Level 1 on Spire A)
 - **Coordinated Breaching Strike**:
-  * **Agent Park (Speed 6 -> 3 AP)**: Stands at Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Heavy Maul Sunder]` targeting Spire A's primary axle.
+  * **Specialist Park (Speed 6 -> 3 AP)**: Stands at Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Heavy Maul Sunder]` targeting Spire A's primary axle.
     * Grudge Base 18 * Grudge Vulnerability (1.5x) = **27 Direct Damage**!
     * Inflicts +28 Posture Strain. Spire A Posture drops to **44/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** Spire A's gears lock up in sparks.
-  * **Agent Hwang (Speed 6 -> 3 AP)**: From Node 04 (Range Band 2), fires `[Blessed Scalpel Void Beam]` into Spire B for **24 Void damage**.
-  * **Agent Kim (Speed 5 -> 3 AP)**: Firing from Node 06, cuts down four emerging gear scuttlers.
+  * **Specialist Hwang (Speed 6 -> 3 AP)**: From Node 04 (Range Band 2), fires `[Blessed Scalpel Void Beam]` into Spire B for **24 Void damage**.
+  * **Specialist Kim (Speed 5 -> 3 AP)**: Firing from Node 06, cuts down four emerging gear scuttlers.
   * Spire A HP drops to **118/260**; Spire B HP drops to **212/260**.
 
 ---
@@ -123,10 +123,10 @@ def get_day_53_combat():
 ###### Turn 03 Action Resolution Log (Spire A Destruction & Momentum Surge)
 - **Stagger Exploitation & Execution**:
   * With Spire A immobilized in Stagger Level 1, all incoming strikes deal 1.5x direct damage!
-  * **Agent Park**: Passive `Momentum Surge` triggers! Gains +2 Speed for next turn. Park unleashes an overhead maul smash:
+  * **Specialist Park**: Passive `Momentum Surge` triggers! Gains +2 Speed for next turn. Park unleashes an overhead maul smash:
     * Deals **56 Grudge Damage**!
     * Spire A HP reaches **0/260**! The entire brass structure shatters into heaps of inert scrap metal.
-  * **Agent Kim**: Steps up to Node 04, channeling suppressive carbine rounds into Spire B.
+  * **Specialist Kim**: Steps up to Node 04, channeling suppressive carbine rounds into Spire B.
 
 ---
 
@@ -138,8 +138,8 @@ def get_day_53_combat():
 - **Hostile Counter-Surge & Extraction Control**:
   * Spire B releases a swarm of razor-toothed brass scuttlers to encircle Park.
   * Containment Lead Dekan activates Floor 2's *Jaw Clamp* hydraulic traps through the floorplates, pinning the scuttler swarm in place!
-  * **Agent Kim**: Uses `[Directional Guard Absorption]`, absorbing 12 kinetic damage (HP: 106/110) while covering Hwang.
-  * **Agent Park (Speed 8 under Surge -> 4 AP)**: Swings his maul in a wide 360-degree arc, pulverizing the pinned scuttlers and smashing Spire B's main flywheel for **38 damage**!
+  * **Specialist Kim**: Uses `[Directional Guard Absorption]`, absorbing 12 kinetic damage (HP: 106/110) while covering Hwang.
+  * **Specialist Park (Speed 8 under Surge -> 4 AP)**: Swings his maul in a wide 360-degree arc, pulverizing the pinned scuttlers and smashing Spire B's main flywheel for **38 damage**!
   * Spire B Posture falls to **28/120**!
 
 ---
@@ -150,7 +150,7 @@ def get_day_53_combat():
 
 ###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
 - **Piston Severance & Terminal Collapse**:
-  * Agent Hwang drives the Blessed Scalpel into Spire B's primary steam valve, stripping the final 28 Posture points!
+  * Specialist Hwang drives the Blessed Scalpel into Spire B's primary steam valve, stripping the final 28 Posture points!
   * **TERMINAL STAGGER TRIGGERED!** Posture hits **0/120**. Spire B ceases all rotation, venting black oil onto the deckplates.
 
 ---
@@ -161,7 +161,7 @@ def get_day_53_combat():
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Purification)
 - **Final Subdual**:
-  * Agent Park and Agent Kim coordinate a synchronized double-impact smash. Spire B collapses into smoking slag and pure refined Han aerosol.
+  * Specialist Park and Specialist Kim coordinate a synchronized double-impact smash. Spire B collapses into smoking slag and pure refined Han aerosol.
   * Floor 3 pneumatic collection flues siphon the harvest: **+0.020 tons of refined Han secured**!
 """
 
@@ -174,13 +174,13 @@ def get_day_55_combat():
         "---",
         "- Node 01: Sanguine Shroud (Posture 68/140 / Spectral Mantle Pierced)",
         "- Node 02: Outsider Ishall (Rear Infiltration / Void Talons Readied)",
-        "- Node 04: Agent Park (Line Anchor / Judgment Scale Raised / Band 2)",
-        "- Node 07: Agent Song (Ranged Support / Fountain Siphon Bow Aimed)",
+        "- Node 04: Specialist Park (Line Anchor / Judgment Scale Raised / Band 2)",
+        "- Node 07: Specialist Song (Ranged Support / Fountain Siphon Bow Aimed)",
         "- Node 10: Director Majin & Seiyon Command Console (Band 5)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 160/160 | SP +35 | Posture 80/80",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 70/70",
-        "- Agent Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 70/70",
+        "- Specialist Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Sanguine Shroud: Spd 5 -> 3 AP | HP 210/300 | Posture 68/140 [CRACKED]"
     ])
 
@@ -191,12 +191,12 @@ def get_day_55_combat():
         "---",
         "- Node 01: Sanguine Shroud (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
         "- Node 02: Outsider Ishall (Executing Unanswered Void Flurry)",
-        "- Node 04: Agent Park (Advancing with Momentum Surge / +2 Speed)",
-        "- Node 07: Agent Song (Releasing Triple Resonant Lament Volley)",
+        "- Node 04: Specialist Park (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 07: Specialist Song (Releasing Triple Resonant Lament Volley)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 160/160 | SP +35 | Posture 80/80",
-        "- Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +30 | Posture 70/70",
-        "- Agent Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Park  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +30 | Posture 70/70",
+        "- Specialist Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Shroud      : Spd 0 -> 0 AP | HP 112/300 | Posture 25/140 [STAGGERED]"
     ])
 
@@ -207,12 +207,12 @@ def get_day_55_combat():
         "---",
         "- Node 01: Sanguine Shroud (Recovered / Channeling Sanguine Deluge)",
         "- Node 02: Outsider Ishall (Directional Guard Absorption Active)",
-        "- Node 03: Agent Park (Interposing Judgment Scale Shield)",
-        "- Node 07: Agent Song (Piercing Channeling Eye with Siphon Bow)",
+        "- Node 03: Specialist Park (Interposing Judgment Scale Shield)",
+        "- Node 07: Specialist Song (Piercing Channeling Eye with Siphon Bow)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 152/160 | SP +35 | Posture 70/80",
-        "- Agent Park  : Spd 8 -> 4 AP | HP 125/125 | SP +30 | Posture 70/70",
-        "- Agent Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Park  : Spd 8 -> 4 AP | HP 125/125 | SP +30 | Posture 70/70",
+        "- Specialist Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Shroud      : Spd 4 -> 2 AP | HP 64/300  | Posture 12/140 [UNSTABLE]"
     ])
 
@@ -224,12 +224,12 @@ def get_day_55_combat():
         "---",
         "- Node 01: Sanguine Shroud (TERMINAL STAGGER / POSTURE 0/140 / 2.0x DMG)",
         "- Node 02: Outsider Ishall (Dissecting Heart Core with Relic Digits)",
-        "- Node 03: Agent Park (Priming Judgment Climax Smash)",
-        "- Node 07: Agent Song (Harmonic Resonant Chorus Aimed)",
+        "- Node 03: Specialist Park (Priming Judgment Climax Smash)",
+        "- Node 07: Specialist Song (Harmonic Resonant Chorus Aimed)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 152/160 | SP +35 | Posture 70/80",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 70/70",
-        "- Agent Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 70/70",
+        "- Specialist Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Shroud      : Spd 0 -> 0 AP | HP 18/300  | Posture 0/140 [COLLAPSED]"
     ])
 
@@ -240,12 +240,12 @@ def get_day_55_combat():
         "---",
         "- Node 01: Sanguine Shroud (Dissolved into Crimson Vapor / Siphoned)",
         "- Node 02: Outsider Ishall (Retracting Mineral Digits)",
-        "- Node 03: Agent Park (Resting Scale / Securing RHR)",
-        "- Node 07: Agent Song (Lowering Bow / Confirming Clean Floor)",
+        "- Node 03: Specialist Park (Resting Scale / Securing RHR)",
+        "- Node 07: Specialist Song (Lowering Bow / Confirming Clean Floor)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 152/160 | SP +40 | Posture 80/80",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 70/70",
-        "- Agent Song  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 70/70",
+        "- Specialist Song  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
         "- Shroud      : HP 0/300 [PURIFIED] | +0.022 TONS REFINED HAN HARVESTED"
     ])
 
@@ -261,8 +261,8 @@ def get_day_55_combat():
       * Deals **42 Direct Void Damage**!
       * Inflicts +32 Posture Strain. Shroud Posture drops to **52/140**, crossing the **60% Posture Threshold (84 Points)**!
       * **STAGGER LEVEL 1 TRIGGERED!** The crimson shroud tears along its spectral hem.
-  * **Agent Park**: Anchoring Node 04 behind the *Judgment Scale*, parries the deflected lash with zero damage sustained.
-  * **Agent Song**: Firing from Node 07 with the Fountain Siphon Bow, hits for **28 Lament damage**.
+  * **Specialist Park**: Anchoring Node 04 behind the *Judgment Scale*, parries the deflected lash with zero damage sustained.
+  * **Specialist Song**: Firing from Node 07 with the Fountain Siphon Bow, hits for **28 Lament damage**.
   * Shroud HP drops to **140/300**!
 
 ---
@@ -273,7 +273,7 @@ def get_day_55_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Allied Focus Fire (1.5x Direct Damage)**:
-  * Agent Park's `Momentum Surge` activates! (+2 Speed next turn). Park advances to Node 03, delivering a heavy downward smash: **48 Weight Damage**!
+  * Specialist Park's `Momentum Surge` activates! (+2 Speed next turn). Park advances to Node 03, delivering a heavy downward smash: **48 Weight Damage**!
   * Outsider Ishall executes a continuous four-strike void tear: **46 Damage**!
   * Shroud HP falls from 140 to **72/300**! Posture drops to **18/140**!
 
@@ -287,7 +287,7 @@ def get_day_55_combat():
 - **Hostile Recovery & Desperation Counter-Surge**:
   * The Sanguine Shroud recovers, attempting to inundate the corridor with `[Sanguine Deluge]`.
   * Outsider Ishall deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 152/160) and deflecting the blood tide away from the squad!
-  * Agent Song fires a piercing arrow directly into the entity's central eye, canceling the torrential deluge!
+  * Specialist Song fires a piercing arrow directly into the entity's central eye, canceling the torrential deluge!
   * Shroud HP drops to **34/300**! Posture falls to **6/140**!
 
 ---
@@ -309,7 +309,7 @@ def get_day_55_combat():
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Judgment Climax**:
-  * Agent Park executes `[Judgment Climax: Scale of Atonement]`. The entity dissolves into a cloud of crimson vapor and refined Han crystals.
+  * Specialist Park executes `[Judgment Climax: Scale of Atonement]`. The entity dissolves into a cloud of crimson vapor and refined Han crystals.
   * Floor 7 collection flues harvest **+0.022 tons of refined Han**!
 """
 
@@ -321,15 +321,15 @@ def get_day_60_combat():
         "[SPIDER][PARK]          [MELLDA]        [KIM]   [HWANG]         [MAJIN]",
         "---",
         "- Node 01: Chitinous Queen (Posture 72/160 / Thorax Fractured)",
-        "- Node 02: Agent Park (Point-Blank Band 1 / Warhammer Cleave Landed)",
+        "- Node 02: Specialist Park (Point-Blank Band 1 / Warhammer Cleave Landed)",
         "- Node 04: Border Lead Mellda (Bulwark Shield / Threshold Vow Ready)",
-        "- Node 06: Agent Kim (Range Band 3 / Incendiary Carbine Firing)",
-        "- Node 07: Agent Hwang (Range Band 4 / Void Lance Aimed)",
+        "- Node 06: Specialist Kim (Range Band 3 / Incendiary Carbine Firing)",
+        "- Node 07: Specialist Hwang (Range Band 4 / Void Lance Aimed)",
         "---",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Mellda      : Spd 5 -> 3 AP | HP 190/190 | SP +35 | Posture 95/95",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +25 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +25 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Chitin Queen: Spd 4 -> 2 AP | HP 215/340 | Posture 72/160 [CRACKED]"
     ])
 
@@ -340,14 +340,14 @@ def get_day_60_combat():
         "        [PARK]",
         "---",
         "- Node 01: Chitinous Queen (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 02: Agent Park (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 02: Specialist Park (Advancing with Momentum Surge / +2 Speed)",
         "- Node 03: Border Lead Mellda (Driving Arm-Blade into Ventral Shell)",
-        "- Node 07: Agent Hwang (Discharging Focused Void Ray)",
+        "- Node 07: Specialist Hwang (Discharging Focused Void Ray)",
         "---",
-        "- Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Park  : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Posture 70/70",
         "- Mellda      : Spd 5 -> 3 AP | HP 190/190 | SP +35 | Posture 95/95",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +25 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +25 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Queen       : Spd 0 -> 0 AP | HP 118/340 | Posture 28/160 [STAGGERED]"
     ])
 
@@ -357,14 +357,14 @@ def get_day_60_combat():
         "[SPIDER][PARK]  [MELLDA]                [KIM]   [HWANG]         [MAJIN]",
         "---",
         "- Node 01: Chitinous Queen (Recovered / Channeling Tectonic Web)",
-        "- Node 02: Agent Park (Shielding Face with Warhammer Mantlet)",
+        "- Node 02: Specialist Park (Shielding Face with Warhammer Mantlet)",
         "- Node 03: Border Lead Mellda (Directional Guard Absorption)",
-        "- Node 06: Agent Kim (Burning Web Filaments with Carbine)",
+        "- Node 06: Specialist Kim (Burning Web Filaments with Carbine)",
         "---",
-        "- Agent Park  : Spd 8 -> 4 AP | HP 124/130 | SP +30 | Posture 60/70",
+        "- Specialist Park  : Spd 8 -> 4 AP | HP 124/130 | SP +30 | Posture 60/70",
         "- Mellda      : Spd 5 -> 3 AP | HP 184/190 | SP +35 | Posture 85/95",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +25 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +25 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Queen       : Spd 4 -> 2 AP | HP 62/340  | Posture 14/160 [WEAKENED]"
     ])
 
@@ -375,14 +375,14 @@ def get_day_60_combat():
         "        [PARK]  [MELLDA]        [KIM]   [HWANG]",
         "---",
         "- Node 01: Chitinous Queen (TERMINAL STAGGER / POSTURE 0/160 / 2.0x DMG)",
-        "- Node 02: Agent Park (Crushing Cephalic Nerve)",
+        "- Node 02: Specialist Park (Crushing Cephalic Nerve)",
         "- Node 03: Border Lead Mellda (Pinning Dorsal Carapace)",
-        "- Node 07: Agent Hwang (Firing Wellspring Beam into Eye Cluster)",
+        "- Node 07: Specialist Hwang (Firing Wellspring Beam into Eye Cluster)",
         "---",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 124/130 | SP +30 | Posture 60/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 124/130 | SP +30 | Posture 60/70",
         "- Mellda      : Spd 5 -> 3 AP | HP 184/190 | SP +35 | Posture 85/95",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +25 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +25 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Queen       : Spd 0 -> 0 AP | HP 16/340  | Posture 0/160 [COLLAPSED]"
     ])
 
@@ -392,14 +392,14 @@ def get_day_60_combat():
         "[CRYSTAL][PARK] [MELLDA]                [KIM]   [HWANG]         [MAJIN]",
         "---",
         "- Node 01: Chitinous Queen (Dissolved into Amber Crystals / Siphoned)",
-        "- Node 02: Agent Park (Resting Hammer / Securing Carapace Shards)",
+        "- Node 02: Specialist Park (Resting Hammer / Securing Carapace Shards)",
         "- Node 03: Border Lead Mellda (Confirming Perimeter Lockdown)",
-        "- Node 06: Agent Kim (Venting Gas Purge)",
+        "- Node 06: Specialist Kim (Venting Gas Purge)",
         "---",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 124/130 | SP +35 | Posture 70/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 124/130 | SP +35 | Posture 70/70",
         "- Mellda      : Spd 5 -> 3 AP | HP 184/190 | SP +40 | Posture 95/95",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
         "- Queen       : HP 0/340 [PURIFIED] | +0.024 TONS REFINED HAN HARVESTED"
     ])
 
@@ -410,12 +410,12 @@ def get_day_60_combat():
 
 ###### Turn 02 Action Resolution Log (Thorax Fracture & Stagger Build)
 - **Frontline Hammer Impact**:
-  * **Agent Park (Speed 6 -> 3 AP)**: Smashes the spider's front armored leg with his heavy warhammer:
+  * **Specialist Park (Speed 6 -> 3 AP)**: Smashes the spider's front armored leg with his heavy warhammer:
     * Deals **48 Weight Damage**!
     * Inflicts +36 Posture Strain. Queen Posture drops to **60/160**, breaching the **60% Posture Threshold (96 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The arachnid's legs tremble, and its carapace fissures along the dorsal midline.
   * **Border Lead Mellda**: Locks Node 04 with her Bulwark Shield, intercepting rogue web strands.
-  * **Agent Hwang**: From Node 07 (Range Band 4), drives a Void beam through the fissure for **36 Void damage**.
+  * **Specialist Hwang**: From Node 07 (Range Band 4), drives a Void beam through the fissure for **36 Void damage**.
   * Queen HP drops to **176/340**!
 
 ---
@@ -426,7 +426,7 @@ def get_day_60_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Allied Focus Fire (1.5x Direct Damage)**:
-  * Agent Park's `Momentum Surge` activates! (+2 Speed next turn). Park unleashes a direct crushing blow to the cephalothorax: **54 Weight Damage**!
+  * Specialist Park's `Momentum Surge` activates! (+2 Speed next turn). Park unleashes a direct crushing blow to the cephalothorax: **54 Weight Damage**!
   * Border Lead Mellda drives *Threshold Vow* into the exposed nerve cluster: **42 Grudge Damage**!
   * Queen HP falls from 176 to **80/340**! Posture collapses to **18/160**!
 
@@ -440,7 +440,7 @@ def get_day_60_combat():
 - **Hostile Recovery & Desperation Web Burst**:
   * The Chitinous Queen recovers, releasing an explosive burst of electrified tectonic silk across Nodes 01, 02, and 03.
   * Mellda deploys `[Directional Guard Absorption]`, taking 6 chip damage (HP: 184/190) and shielding Park.
-  * Agent Kim fires incendiary rounds from his carbine at Node 06, incinerating the web filaments before they can trap the vanguard!
+  * Specialist Kim fires incendiary rounds from his carbine at Node 06, incinerating the web filaments before they can trap the vanguard!
   * Queen HP drops to **42/340**! Posture drops to **6/160**!
 
 ---
@@ -451,7 +451,7 @@ def get_day_60_combat():
 
 ###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
 - **Eye Cluster Pin & Terminal Collapse**:
-  * Agent Hwang channels a high-intensity Wellspring beam into the central eye cluster, stripping the last 6 Posture points!
+  * Specialist Hwang channels a high-intensity Wellspring beam into the central eye cluster, stripping the last 6 Posture points!
   * **TERMINAL STAGGER TRIGGERED!** Posture hits **0/160**. The massive spider collapses motionless across Node 01.
 
 ---
@@ -462,7 +462,7 @@ def get_day_60_combat():
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Climax Smite**:
-  * Agent Park raises the heavy warhammer, delivering the finishing smite. The Chitinous Queen dissolves into thousands of gleaming amber crystals and refined Han mist.
+  * Specialist Park raises the heavy warhammer, delivering the finishing smite. The Chitinous Queen dissolves into thousands of gleaming amber crystals and refined Han mist.
   * Floor 5 collection flues harvest **+0.024 tons of refined Han**!
 """
 
@@ -477,9 +477,9 @@ def get_day_65_combat():
         "- Node 02: Spire B (Charging Void Beam / Posture 100/100)",
         "- Node 03: Spire C (Charging Prismatic Lance / Posture 100/100)",
         "- Node 04: Research Lead Ayshuk (Predicting Refraction Angles / Band 2)",
-        "- Node 06: Agent Kim (Stasis Shield Primed / Band 3)",
-        "- Node 07: Agent Hwang (Void Lance Aimed / Band 4)",
-        "- Node 08: Agent Song (Fountain Siphon Bow Locked / Band 4)",
+        "- Node 06: Specialist Kim (Stasis Shield Primed / Band 3)",
+        "- Node 07: Specialist Hwang (Void Lance Aimed / Band 4)",
+        "- Node 08: Specialist Song (Fountain Siphon Bow Locked / Band 4)",
         "---",
         "- Spire A : Spd 3 -> 1 AP | HP 142/240 | Posture 42/100 [CRACKED]",
         "- Spire B : Spd 4 -> 2 AP | HP 240/240 | Posture 100/100",
@@ -494,8 +494,8 @@ def get_day_65_combat():
         "- Node 01: Spire A (SHATTERED & PULVERIZED / Slag Siphoned)",
         "- Node 02: Spire B (Posture 60/100 / Core Fractured)",
         "- Node 03: Spire C (Charging Prismatic Lance / Posture 85/100)",
-        "- Node 07: Agent Hwang (Momentum Surge Primed / +2 Speed Next Turn)",
-        "- Node 08: Agent Song (Synchronized Volley Firing)",
+        "- Node 07: Specialist Hwang (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 08: Specialist Song (Synchronized Volley Firing)",
         "---",
         "- Spire A : HP 0/240 [DESTROYED]",
         "- Spire B : Spd 4 -> 2 AP | HP 156/240 | Posture 60/100 [STAGGER 1]",
@@ -510,12 +510,12 @@ def get_day_65_combat():
         "- Node 02: Spire B (Recovered / Firing Cross-Floor Beam)",
         "- Node 03: Spire C (Coordinating Prismatic Surge)",
         "- Node 04: Research Lead Ayshuk (Clarity Field Deployed)",
-        "- Node 05: Agent Kim (Directional Guard Absorption Active)",
-        "- Node 07: Agent Hwang (Spd 8 / AP 4 / Overdrive Void Lance)",
+        "- Node 05: Specialist Kim (Directional Guard Absorption Active)",
+        "- Node 07: Specialist Hwang (Spd 8 / AP 4 / Overdrive Void Lance)",
         "---",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 108/115 | SP +25 | Posture 58/65",
-        "- Agent Hwang : Spd 8 -> 4 AP [SURGE] | HP 115/115 | SP +25 | Posture 55/55",
-        "- Agent Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 108/115 | SP +25 | Posture 58/65",
+        "- Specialist Hwang : Spd 8 -> 4 AP [SURGE] | HP 115/115 | SP +25 | Posture 55/55",
+        "- Specialist Song  : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55",
         "- Spire B     : Spd 3 -> 1 AP | HP 82/240  | Posture 24/100 [CRITICAL]",
         "- Spire C     : Spd 4 -> 2 AP | HP 165/240 | Posture 54/100"
     ])
@@ -528,8 +528,8 @@ def get_day_65_combat():
         "---",
         "- Node 02: Spire B (TERMINAL STAGGER / POSTURE 0/100 / 2.0x DMG)",
         "- Node 03: Spire C (TERMINAL STAGGER / POSTURE 0/100 / 2.0x DMG)",
-        "- Node 07: Agent Hwang (Overdrive Beam Fractured Spire B Core)",
-        "- Node 08: Agent Song (Dual Acoustic Volley Grounded Spire C)",
+        "- Node 07: Specialist Hwang (Overdrive Beam Fractured Spire B Core)",
+        "- Node 08: Specialist Song (Dual Acoustic Volley Grounded Spire C)",
         "---",
         "- Spire B     : Spd 0 -> 0 AP | HP 18/240  | Posture 0/100 [COLLAPSED]",
         "- Spire C     : Spd 0 -> 0 AP | HP 32/240  | Posture 0/100 [COLLAPSED]"
@@ -542,9 +542,9 @@ def get_day_65_combat():
         "---",
         "- Node 02-03: Spires B & C (Disintegrated into White Ash / Siphoned)",
         "- Node 04: Research Lead Ayshuk (Calibrating Optical Arrays)",
-        "- Node 05: Agent Kim (Lowering Stasis Shield)",
-        "- Node 07: Agent Hwang (Venting Capacitor Heat)",
-        "- Node 08: Agent Song (Reporting Tripartite Void Purge Complete)",
+        "- Node 05: Specialist Kim (Lowering Stasis Shield)",
+        "- Node 07: Specialist Hwang (Venting Capacitor Heat)",
+        "- Node 08: Specialist Song (Reporting Tripartite Void Purge Complete)",
         "---",
         "- Spires B & C: HP 0/240 [DESTROYED] | +0.026 TONS REFINED HAN HARVESTED"
     ])
@@ -556,12 +556,12 @@ def get_day_65_combat():
 
 ###### Turn 02 Action Resolution Log (Sniper Focus & Spire A Stagger)
 - **Long-Range Volley**:
-  * **Agent Song (Speed 6 -> 3 AP)**: Operating from Range Band 4 (Node 08), releases a high-tension acoustic arrow from the Fountain Siphon Bow:
+  * **Specialist Song (Speed 6 -> 3 AP)**: Operating from Range Band 4 (Node 08), releases a high-tension acoustic arrow from the Fountain Siphon Bow:
     * The projectile threads straight through the aperture of Spire A's charging beam!
     * Deals **46 Pure Lament Damage**!
     * Inflicts +28 Posture Strain. Spire A Posture drops to **42/100**, breaching the **60% Posture Threshold (60 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** Spire A's optical disc dims, its charging sequence aborted.
-  * **Agent Hwang**: Fires a precision Void beam into Spire A's levitation gyros for **32 Void damage**.
+  * **Specialist Hwang**: Fires a precision Void beam into Spire A's levitation gyros for **32 Void damage**.
   * Spire A HP drops to **118/240**!
 
 ---
@@ -572,10 +572,10 @@ def get_day_65_combat():
 
 ###### Turn 03 Action Resolution Log (Spire A Annihilation & Momentum Surge)
 - **Synchronized Execution (1.5x Direct Damage)**:
-  * Agent Hwang's `Momentum Surge` activates! (+2 Speed next turn). Hwang discharges a full-power beam directly into Spire A's exposed core:
+  * Specialist Hwang's `Momentum Surge` activates! (+2 Speed next turn). Hwang discharges a full-power beam directly into Spire A's exposed core:
     * Deals **58 Void Damage**! Spire A HP hits **0/240**!
     * Spire A shatters into harmless slag and dissolves into white vapor!
-  * Agent Song redirects her fire to Spire B, dealing **34 damage** and inflicting +24 Posture strain.
+  * Specialist Song redirects her fire to Spire B, dealing **34 damage** and inflicting +24 Posture strain.
 
 ---
 
@@ -587,8 +587,8 @@ def get_day_65_combat():
 - **Hostile Desperation Counter-Surge**:
   * Spires B and C coordinate their prismatic emitters, firing a lethal cross-floor laser convergence down Node 04 and 05.
   * Research Lead Ayshuk activates the floor's *Clarity Field*, altering the atmospheric refraction index.
-  * **Agent Kim**: Deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 108/115) while grounding the laser burst!
-  * **Agent Hwang (Speed 8 under Surge -> 4 AP)**: Unleashes `[Overdrive Void Lance]`, driving the beam through Spire B's gyro housing for **48 damage**!
+  * **Specialist Kim**: Deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 108/115) while grounding the laser burst!
+  * **Specialist Hwang (Speed 8 under Surge -> 4 AP)**: Unleashes `[Overdrive Void Lance]`, driving the beam through Spire B's gyro housing for **48 damage**!
   * Spire B Posture falls to **24/100**; Spire C Posture falls to **54/100**!
 
 ---
@@ -599,7 +599,7 @@ def get_day_65_combat():
 
 ###### Turn 05 Action Resolution Log (Terminal Stagger on Spires B & C)
 - **Dual Gyro Collapse**:
-  * Agent Song fires a double arrow volley into Spire C's base, while Agent Hwang pierces Spire B's power cell.
+  * Specialist Song fires a double arrow volley into Spire C's base, while Specialist Hwang pierces Spire B's power cell.
   * **TERMINAL STAGGER TRIGGERED ON BOTH SPIRES!** Posture hits **0/100** for both constructs. The spires lose levitation, crashing hard onto the deckplates!
 
 ---
@@ -610,7 +610,7 @@ def get_day_65_combat():
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Climax Volley**:
-  * Agent Song executes `[Climax Volley: Rain of Siphon Petals]`. Spires B and C disintegrate into fine white ash and radiant Han mist.
+  * Specialist Song executes `[Climax Volley: Rain of Siphon Petals]`. Spires B and C disintegrate into fine white ash and radiant Han mist.
   * Floor 4 collection flues harvest **+0.026 tons of refined Han**!
 """
 
@@ -776,7 +776,7 @@ def generate_day_69():
     ])
 
     roster_box = make_box("DEPLOYED ROSTER: DAY 69 DEEP-BEDROCK TACTICAL SQUAD", [
-        "AGENT & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
+        "SPECIALIST & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
         "----------------------+-----------------------------------------------",
         "Outsider Ishall       | HP 165| SP 80 | Work 65 | Speed 7 (4 AP Base)",
         "Shadow Corps Decision | M.A.W.-W: Unanswered (Void / Light / 1 AP)",
@@ -790,7 +790,7 @@ def generate_day_69():
         "                      | Posture: 90/90 | Guard: 20 Absorb | Pass: Bedrock Anchor",
         "                      | Panic Typology: Berserk (SP <= -35)",
         "----------------------+-----------------------------------------------",
-        "Agent Park (Grade V)  | HP 72 | SP 78 | Work 65 | Speed 6 (3 AP + 1 Move)",
+        "Specialist Park (Grade V)  | HP 72 | SP 78 | Work 65 | Speed 6 (3 AP + 1 Move)",
         "Senior Skirmisher     | M.A.W.-W: Judgment Scale (Weight / Medium / 1 AP)",
         "Floor 7 Assigned      | Suit: Lament Shroud (Light / Spd +1) | Halo Gift",
         "                      | Posture: 70/70 | Parry: 16 Power | Pass: Momentum Surge",
@@ -817,13 +817,13 @@ def generate_day_69():
         "- Node 02: Magma Tunneler (Burrowing Eruption Epicenter)",
         "- Node 03: Outsider Ishall (Rear Void Flanker / Range Band 1)",
         "- Node 04: Boundary Vanguard Xyan (Bedrock Bulwark / Range Band 2)",
-        "- Node 05: Agent Park (Weighting Skirmisher / Range Band 3)",
+        "- Node 05: Specialist Park (Weighting Skirmisher / Range Band 3)",
         "- Node 10: Director Majin & Seiyon Command Console (Band 5)",
         "---",
         "OPERATIVE STATUS & RESOURCE POOLS:",
         "- Ishall      : Spd 7 -> 4 AP | HP 165/165 | SP 80/80 | Posture 85/85",
         "- Xyan        : Spd 6 -> 3 AP | HP 175/175 | SP 75/75 | Posture 90/90",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 72/72   | SP 78/78 | Posture 70/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 72/72   | SP 78/78 | Posture 70/70",
         "- Tunneler    : Spd 4 -> 2 AP | HP 360/360 | Posture 180/180"
     ])
 
@@ -835,11 +835,11 @@ def generate_day_69():
         "- Node 02: Magma Tunneler (Posture 114/180 / Anterior Shell Fissured)",
         "- Node 03: Outsider Ishall (Void Talons Cleaving Nerve Cord)",
         "- Node 04: Boundary Vanguard Xyan (Desolate Flue Anchor Strike)",
-        "- Node 05: Agent Park (Judgment Scale Weight Smash)",
+        "- Node 05: Specialist Park (Judgment Scale Weight Smash)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 165/165 | SP 80/80 | Posture 85/85",
         "- Xyan        : Spd 6 -> 3 AP | HP 175/175 | SP 75/75 | Posture 90/90",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 72/72   | SP 78/78 | Posture 70/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 72/72   | SP 78/78 | Posture 70/70",
         "- Tunneler    : Spd 3 -> 1 AP | HP 272/360 | Posture 114/180 [CRACKED]"
     ])
 
@@ -852,11 +852,11 @@ def generate_day_69():
         "- Node 02: Magma Tunneler (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
         "- Node 02: Outsider Ishall (Executing Unanswered Ingress Tear)",
         "- Node 04: Boundary Vanguard Xyan (Driving Heavy Maul into Core)",
-        "- Node 05: Agent Park (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 05: Specialist Park (Momentum Surge Primed / +2 Speed Next Turn)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 165/165 | SP 80/80 | Posture 85/85",
         "- Xyan        : Spd 6 -> 3 AP | HP 175/175 | SP 75/75 | Posture 90/90",
-        "- Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 72/72 | SP 78/78 | Posture 70/70",
+        "- Specialist Park  : Spd 8 -> 4 AP [SURGE] | HP 72/72 | SP 78/78 | Posture 70/70",
         "- Tunneler    : Spd 0 -> 0 AP | HP 148/360 | Posture 42/180 [STAGGERED]"
     ])
 
@@ -868,11 +868,11 @@ def generate_day_69():
         "- Node 02: Magma Tunneler (Recovered / Channeling Magma Surge)",
         "- Node 03: Outsider Ishall (Dissecting Vent Pipes)",
         "- Node 04: Boundary Vanguard Xyan (Directional Guard Absorption)",
-        "- Node 05: Agent Park (Lament Requiem Resonant Shield)",
+        "- Node 05: Specialist Park (Lament Requiem Resonant Shield)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 165/165 | SP 80/80 | Posture 85/85",
         "- Xyan        : Spd 6 -> 3 AP | HP 162/175 | SP 75/75 | Posture 74/90",
-        "- Agent Park  : Spd 8 -> 4 AP | HP 72/72   | SP 78/78 | Posture 70/70",
+        "- Specialist Park  : Spd 8 -> 4 AP | HP 72/72   | SP 78/78 | Posture 70/70",
         "- Tunneler    : Spd 4 -> 2 AP | HP 76/360  | Posture 18/180 [UNSTABLE]"
     ])
 
@@ -885,11 +885,11 @@ def generate_day_69():
         "- Node 02: Magma Tunneler (TERMINAL STAGGER / POSTURE 0/180 / 2.0x DMG)",
         "- Node 02: Outsider Ishall (Severing Magma Sac)",
         "- Node 03: Boundary Vanguard Xyan (Pinning Mandibles to Bedrock)",
-        "- Node 04: Agent Park (Priming Judgment Climax)",
+        "- Node 04: Specialist Park (Priming Judgment Climax)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 165/165 | SP 80/80 | Posture 85/85",
         "- Xyan        : Spd 6 -> 3 AP | HP 162/175 | SP 75/75 | Posture 74/90",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 72/72   | SP 78/78 | Posture 70/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 72/72   | SP 78/78 | Posture 70/70",
         "- Tunneler    : Spd 0 -> 0 AP | HP 18/360  | Posture 0/180 [COLLAPSED]"
     ])
 
@@ -901,11 +901,11 @@ def generate_day_69():
         "- Node 02: Magma Tunneler (Cooled into Inert Obsidian Glass / Siphoned)",
         "- Node 03: Outsider Ishall (Cleaning Relic Digits)",
         "- Node 04: Boundary Vanguard Xyan (Securing Bedrock Anchors)",
-        "- Node 05: Agent Park (Siphoning Superheated Han Liquid)",
+        "- Node 05: Specialist Park (Siphoning Superheated Han Liquid)",
         "---",
         "- Ishall      : Spd 7 -> 4 AP | HP 165/165 | SP 80/80 | Posture 85/85",
         "- Xyan        : Spd 6 -> 3 AP | HP 162/175 | SP 75/75 | Posture 85/90",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 72/72   | SP 78/78 | Posture 70/70",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 72/72   | SP 78/78 | Posture 70/70",
         "- Tunneler    : HP 0/360 [PURIFIED] | +0.025 TONS REFINED HAN HARVESTED"
     ])
 
@@ -923,7 +923,7 @@ def generate_day_69():
         "OPERATIVE ADVANCEMENT  :",
         "- Outsider Ishall     : +5 Clarity, +3 Resolve (Master Infiltrator)",
         "- Vanguard Xyan       : +5 Resilience, +2 Composure (Bedrock Anchor)",
-        "- Agent Park          : +4 Clarity, +3 Resilience (Senior Vanguard)"
+        "- Specialist Park          : +4 Clarity, +3 Resilience (Senior Vanguard)"
     ])
 
     forge_box = make_box("M.A.W. SYNTHESIS FORGING LOG — DAY 69", [
@@ -980,13 +980,13 @@ Director Majin engages the Floor 7 emergency dispatch: **[DAY 69 OPERATIONAL SHI
 
 #### 2. Granular Work Type Management: Chamber 102 (The Dancing Chains)
 
-Agent Park enters Chamber 102 for Ferrehan containment:
-- `[DISPATCH: Agent Park -> Floor 4, Chamber 102]`
+Specialist Park enters Chamber 102 for Ferrehan containment:
+- `[DISPATCH: Specialist Park -> Floor 4, Chamber 102]`
 - `[PROTOCOL: Ferrehan Endurance (Rhythmic Containment / Weight Affinity)]`
 
 ```text
 > Chamber Telemetry: "The iron chains sway to the rhythm of human pulse rates..."
-> Fear Check: Level V Senior Agent vs Class III Entity -> RESULT: ABSOLUTE CALM.
+> Fear Check: Level V Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
 ```
 
 - **Work Tick 01–06:** 6 Successes. Park matches his breathing to the swinging chains.
@@ -1035,7 +1035,7 @@ A colossal, segmented insectoid leviathan plated in superheated basalt chitin er
 ##### Turn 02 Action Resolution Log (Basalt Fracture & Stagger Build)
 - **Coordinated Pincer Assault**:
   * Ishall tears open a seam in the basalt plating from behind: **38 Void Damage**!
-  * Agent Park hammers the fissure with *Judgment Scale*: **34 Weight Damage**!
+  * Specialist Park hammers the fissure with *Judgment Scale*: **34 Weight Damage**!
   * Tunneler HP falls to **212/360**!
   * Combined Posture strain inflicts +38 points. Posture drops to **76/180**, breaching the **60% Posture Threshold (108 Points)**!
   * **STAGGER LEVEL 1 TRIGGERED!** The magma glow within the beast's carapace dims, and its charging dice are wiped out!
@@ -1048,7 +1048,7 @@ A colossal, segmented insectoid leviathan plated in superheated basalt chitin er
 
 ##### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Park's `Momentum Surge` activates! (+2 Speed next turn). Park executes an overhead smash: **52 Weight Damage**!
+  * Specialist Park's `Momentum Surge` activates! (+2 Speed next turn). Park executes an overhead smash: **52 Weight Damage**!
   * Outsider Ishall unleashes a relentless void frenzy: **58 Void Damage**!
   * Tunneler HP collapses from 212 to **102/360**! Posture drops to **22/180**!
 
@@ -1084,7 +1084,7 @@ A colossal, segmented insectoid leviathan plated in superheated basalt chitin er
 
 ##### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Obsidian Purification**:
-  * Agent Park and Outsider Ishall deliver the final synchronized blow. The beast shatters into thousands of smooth obsidian tiles and refined Han vapor.
+  * Specialist Park and Outsider Ishall deliver the final synchronized blow. The beast shatters into thousands of smooth obsidian tiles and refined Han vapor.
   * Floor 7 collection flues harvest **+0.025 tons of refined Han**!
 
 Total daily harvest reaches **0.210 / 0.200 tons**! Quota surpassed!

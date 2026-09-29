@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It moves through breath but is not contagious physically.
 - Personnel report emptiness when the relief ends.
 
-**Personnel Note:** *"It was waiting. I felt peace. Then the peace left, and I understood how much exhaustion I had mistaken for duty."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt peace. Then the peace left, and I understood how much exhaustion I had mistaken for duty."* — Specialist, Zone B patrol
 
 
 

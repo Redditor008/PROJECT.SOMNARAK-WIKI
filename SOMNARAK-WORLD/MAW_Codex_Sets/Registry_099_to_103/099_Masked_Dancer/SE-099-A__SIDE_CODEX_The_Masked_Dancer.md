@@ -7,7 +7,7 @@
 **Document ID:** `SE-099-A`
 **Related Entity ID:** `SE-099`
 **SECC Designation:** `C-IIβ-099 [GS]`
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Restricted
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ The first reliable marker is not the mask. It is precision without relief: a tur
 | Void | None | The masked face is fixed, not erased. |
 | Weight | Low | Spectators may feel their own limbs become difficult to lift. |
 
-> *“I saw the tear beneath the mask. The dance was the work of keeping everyone else’s impossible wish alive.”* — Agent Kkotlom Lee
+> *“I saw the tear beneath the mask. The dance was the work of keeping everyone else’s impossible wish alive.”* — Specialist Kkotlom Lee
 
 ### Open questions
 
@@ -159,7 +159,7 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 - **Understood:** The Dancer performs borrowed freedom for the paralyzed, caged, sick, and sorrow-bound.
 - **Mastery condition:** The R.D. must be able to offer rest without treating rest as a reward for obedience.
 
-> *“It stops only when someone shares the dance or the burden. That is not the same as asking it to dance for us.”* — Agent Kkotlom Lee
+> *“It stops only when someone shares the dance or the burden. That is not the same as asking it to dance for us.”* — Specialist Kkotlom Lee
 
 ---
 
@@ -173,7 +173,7 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 **Document ID:** `SE-099-A`
 **Linked Entity:** `SE-099`
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Restricted
 

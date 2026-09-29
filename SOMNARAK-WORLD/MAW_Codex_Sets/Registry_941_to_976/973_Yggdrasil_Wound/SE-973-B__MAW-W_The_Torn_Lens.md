@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-973` — Yggdrasil Wound  
 **Source SECC Designation:** `O-Iα-973 [VS]`  
 **Item Registry Code:** `MAW-W-973-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -23,7 +23,7 @@
 
 Appearance : A spherical censer carved from a hollowed ironwood tree burl, bound with brass hoops and suspended from a dark cord, burning amber resin extracted from sorrow-blighted weeping willows.
 
-The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters an Agent's psychic resolve.
+The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters an Specialist's psychic resolve.
 
 ## CORE STATISTICS
 
@@ -56,7 +56,7 @@ Within *Yggdrasil Wound — Witnessed Form*, The Torn Lens performs the weapon r
 **Document ID:** `SE-973-B`  
 **Linked Entity:** `SE-973`  
 **Item Registry Code:** `MAW-W-973-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

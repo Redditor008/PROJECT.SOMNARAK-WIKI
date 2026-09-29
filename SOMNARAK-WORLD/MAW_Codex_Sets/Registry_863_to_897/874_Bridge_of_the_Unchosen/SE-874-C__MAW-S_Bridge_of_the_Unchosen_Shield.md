@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-874` — Bridge of the Unchosen  
 **Source SECC Designation:** `N-IIIγ-874 [D]`  
 **Item Registry Code:** `MAW-S-874-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Shiel
 **Document ID:** `SE-874-C`  
 **Linked Entity:** `SE-874`  
 **Item Registry Code:** `MAW-S-874-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

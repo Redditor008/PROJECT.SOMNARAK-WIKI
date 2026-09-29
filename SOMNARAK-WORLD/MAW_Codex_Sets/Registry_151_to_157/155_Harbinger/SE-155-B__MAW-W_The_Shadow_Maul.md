@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / β — Moderate / Weight — Black |
 | Status | Active; verified-balance issue required |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A compact black Han-steel maul whose head casts a shadow in the wrong direction. |
 | Active form | The shadow lengthens from the maul toward the current Weight pressure it is targeting. |
 | Recognition rule | It will not rise unless the bearer has a verified balance and a marked uncertainty. |

@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its tears carry individual names.
 - It is most active near Alpha Tree thresholds.
 
-**Personnel Note:** *"I felt emptiness. The Soul returned again and again, but each return made the room more certain that no one was waiting."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt emptiness. The Soul returned again and again, but each return made the room more certain that no one was waiting."* — Specialist, Zone B patrol
 
 
 

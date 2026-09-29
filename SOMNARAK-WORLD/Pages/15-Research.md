@@ -92,7 +92,7 @@ Once unlocked, research upgrades remain active permanently and persist through s
 - **Tier 1 — Silent Step:** Specialists move past agitated containment cells without triggering fear checks.
 - **Tier 2 — Reflex Conditioning:** Increases specialist evasion rate against physical attacks by +10%.
 - **Tier 3 — Ambush Protocol:** Attacks against escaping entities from behind inflict +25% critical strike damage.
-- **Tier 4 — Null Shroud:** Prevents breaching entities from targeting clerks during their initial 15 seconds of escape.
+- **Tier 4 — Null Shroud:** Prevents breaching entities from targeting auxiliaries during their initial 15 seconds of escape.
 
 ### 2.9 Gate Watch Laboratory (Abyss Containment and Void Shielding)
 - **Tier 1 — Abyssal Wards:** Increases resistance against ⚪ Void damage across all suits by +0.15.

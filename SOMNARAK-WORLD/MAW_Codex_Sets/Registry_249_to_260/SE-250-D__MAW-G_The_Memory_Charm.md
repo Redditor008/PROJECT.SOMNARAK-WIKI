@@ -27,7 +27,7 @@ The Memory Charm is a warm blue tail-charm of Han crystal holding one written se
 **Effect:** restores one chosen personal identity anchor during memory saturation  
 **Cost:** the bearer weeps in sleep as unprocessed fragments pass nearby
 
-Euncris set the anchor to a private disagreement with Agent Hanul Grey. During the Borrowed Wedding incident, that unrecorded fact returned her to the present when the rain supplied a convincing alternate childhood.
+Euncris set the anchor to a private disagreement with Specialist Hanul Grey. During the Borrowed Wedding incident, that unrecorded fact returned her to the present when the rain supplied a convincing alternate childhood.
 
 ## SET RELATIONSHIP
 

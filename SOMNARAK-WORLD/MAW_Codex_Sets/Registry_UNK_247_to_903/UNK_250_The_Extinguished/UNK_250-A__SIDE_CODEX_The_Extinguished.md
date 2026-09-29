@@ -8,7 +8,7 @@
 **Related Entity ID:** `UNK-250`  
 **Side-Story SECC Designation:** `N-IVγ-250 [GS]`  
 **Canon Group:** Side-Story Canon  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -64,7 +64,7 @@ The Pin makes burnout fear visible, Mantle endures cold-burn without false comfo
 
 **Document ID:** `UNK-250-A`  
 **Linked Entity:** `UNK-250`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

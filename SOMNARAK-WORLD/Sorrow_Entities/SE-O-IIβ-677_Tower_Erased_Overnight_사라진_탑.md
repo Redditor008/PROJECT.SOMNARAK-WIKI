@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The air becomes thick with unsaid words nearby.
 - It is most visible at dusk.
 
-**Personnel Note:** *"It was watching. I felt fear. The empty skyline seemed to know exactly who had been removed from it."* — Agent, Zone B patrol
+**Personnel Note:** *"It was watching. I felt fear. The empty skyline seemed to know exactly who had been removed from it."* — Specialist, Zone B patrol
 
 
 

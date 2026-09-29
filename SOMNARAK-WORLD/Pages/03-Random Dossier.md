@@ -90,14 +90,14 @@ The randomizer uses a calibrated probability curve:
 7. **Drill D1 (Wail Lockdown):** Hold a breaching Rank IV entity inside a single corridor.
 8. **Drill D2 (Panic Rescue):** Recover 3 panicked specialists using White/Lament weapons.
 9. **Drill E1 (Sovereign Trial):** Subdue a Rank V Sovereign within 4 minutes of emergence.
-10. **Drill E2 (Absolute Zero Casualties):** Harvest 500 LU with zero clerk or specialist deaths.
+10. **Drill E2 (Absolute Zero Casualties):** Harvest 500 LU with zero auxiliary or specialist deaths.
 
 ## 5 Evaluation Rubrics and Performance Grades
 
 Drill outcomes are graded on response latency, casualty rates, and containment efficiency:
 - **Grade S:** Zero casualties; completed in under 75% allocated time.
 - **Grade A:** Minor SP damage; completed within standard parameters.
-- **Grade B:** Clerk casualties under 20%; all specialists survived.
+- **Grade B:** Auxiliary casualties under 20%; all specialists survived.
 - **Grade C:** Specialist casualties sustained; crisis subdued.
 - **Grade F:** Facility collapse or complete squad wipeout.
 

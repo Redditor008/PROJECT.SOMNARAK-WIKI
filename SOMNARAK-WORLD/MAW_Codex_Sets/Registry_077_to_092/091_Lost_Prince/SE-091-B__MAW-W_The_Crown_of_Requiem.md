@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
 | Status | Active; relief plan mandatory before draw |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Haneulash Yoon |
+| Current bearer | Specialist Haneulash Yoon |
 | Resting form | A small circlet of crystallized tears, too narrow to wear, folded around a blue hilt. |
 | Active form | The circlet unwinds into a slender singing blade whose pointed crown remains at the guard. |
 | Recognition rule | It asks one silent question in the bearer’s own voice; the weapon opens only after an honest answer or honest uncertainty. |
@@ -31,7 +31,7 @@
 | Field | Record |
 |---|---|
 | Current-registry extraction | Year 4,238, Echo Gardens; a tear crystallized after the Prince accepted “I do not know, but I am here.” |
-| Extraction authority | Zyrak, with Agent Haneulash Yoon as the relieving witness |
+| Extraction authority | Zyrak, with Specialist Haneulash Yoon as the relieving witness |
 | Entity state | Calm; the Prince allowed the worker to leave when relief arrived in sight |
 | Result | Three stable Crowns; each retained a faint question tone |
 

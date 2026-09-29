@@ -7,7 +7,7 @@
 **Document ID:** `SE-459-A`  
 **Related Entity ID:** `SE-459`  
 **SECC Designation:** `N-Iα-459 [VP]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -46,7 +46,7 @@ Charm marks consented presence, Plate protects the sleeping boundary, and Lens c
 
 **Document ID:** `SE-459-A`  
 **Linked Entity:** `SE-459`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

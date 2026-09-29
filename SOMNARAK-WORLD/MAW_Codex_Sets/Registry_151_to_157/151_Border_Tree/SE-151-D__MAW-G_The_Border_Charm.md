@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, root-marker charm / δ — Critical / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; counterpart consultation required |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small crimson root-marker that points in two directions at once. |
 | Active form | One direction glows red where a boundary is causing immediate exclusion or harm. |
 | Recognition rule | It refuses a reading when the bearer has not asked someone from the other side to describe the line. |

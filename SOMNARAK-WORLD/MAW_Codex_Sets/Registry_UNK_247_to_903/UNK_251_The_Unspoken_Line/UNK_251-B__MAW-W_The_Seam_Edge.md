@@ -5,7 +5,7 @@
 **Document ID:** `UNK-251-B`  
 **Linked Entity:** `UNK-251` — The Unspoken Line  
 **Item Registry Code:** `MAW-W-UNK-251-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -43,7 +43,7 @@
 **Document ID:** `UNK-251-B`  
 **Linked Entity:** `UNK-251`  
 **Item Registry Code:** `MAW-W-UNK-251-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

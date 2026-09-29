@@ -87,7 +87,7 @@ Iseulfros Kim wore the Veil during a controlled deep-storage exposure to verify 
 
 The Cold Veil is the containment portion of *Proof of Warmth*. It can shield a bearer long enough for the Lens to sever an intrusion, but the Cold Heart’s complete emotional blockade is never authorized without the Veil’s external anchors.
 
-> *“Instrument readings stay normal. That does not mean the room, or the person, is normal.”* — Agent Iseulfros Kim
+> *“Instrument readings stay normal. That does not mean the room, or the person, is normal.”* — Specialist Iseulfros Kim
 
 ---
 

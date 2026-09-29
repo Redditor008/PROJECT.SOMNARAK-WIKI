@@ -19,13 +19,13 @@ def get_day_101_combat():
         "[SILHOUETTE][KANG]       [PARK]                  [SEIYON]        [MAJIN]",
         "---",
         "- Node 01: Lead Silhouette (Posture 54/120 / Dream Lattice Pierced)",
-        "- Node 02: Agent Kang (Point-Blank Band 1 / Heavy Maul Cleaving)",
-        "- Node 04: Agent Park (Range Band 2 / Resonant Requiem Firing)",
+        "- Node 02: Specialist Kang (Point-Blank Band 1 / Heavy Maul Cleaving)",
+        "- Node 04: Specialist Park (Range Band 2 / Resonant Requiem Firing)",
         "- Node 08: Secretary Seiyon (Sync Directive / Band 4)",
         "- Node 10: Director Majin Command Terminal (Band 5)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/75",
-        "- Agent Park   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/75",
+        "- Specialist Park   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Silhouette   : Spd 4 -> 2 AP | HP 184/280 | Posture 54/120 [CRACKED]"
     ])
 
@@ -35,11 +35,11 @@ def get_day_101_combat():
         "[SILHOUETTE]    [KANG]  [PARK]                  [SEIYON]        [MAJIN]",
         "---",
         "- Node 01: Lead Silhouette (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 03: Agent Kang (Advancing with Momentum Surge / +2 Speed)",
-        "- Node 04: Agent Park (Channeling Pure Lament Wave)",
+        "- Node 03: Specialist Kang (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 04: Specialist Park (Channeling Pure Lament Wave)",
         "---",
-        "- Agent Kang   : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Posture 75/75",
-        "- Agent Park   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Kang   : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Posture 75/75",
+        "- Specialist Park   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Silhouette   : Spd 0 -> 0 AP | HP 96/280  | Posture 20/120 [STAGGERED]"
     ])
 
@@ -49,11 +49,11 @@ def get_day_101_combat():
         "[SILHOUETTE][KANG]       [PARK]                  [SEIYON]        [MAJIN]",
         "---",
         "- Node 01: Silhouette (Recovered / Venting Heavy Somnolent Mist)",
-        "- Node 02: Agent Kang (Directional Guard Absorption Active)",
-        "- Node 04: Agent Park (Flerehan Acoustic Pulse Purging Fog)",
+        "- Node 02: Specialist Kang (Directional Guard Absorption Active)",
+        "- Node 04: Specialist Park (Flerehan Acoustic Pulse Purging Fog)",
         "---",
-        "- Agent Kang   : Spd 8 -> 4 AP | HP 128/135 | SP +30 | Posture 66/75",
-        "- Agent Park   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Kang   : Spd 8 -> 4 AP | HP 128/135 | SP +30 | Posture 66/75",
+        "- Specialist Park   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Silhouette   : Spd 3 -> 1 AP | HP 48/280  | Posture 8/120 [WEAKENED]"
     ])
 
@@ -64,11 +64,11 @@ def get_day_101_combat():
         "        [KANG]  [PARK]",
         "---",
         "- Node 01: Silhouette (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG)",
-        "- Node 02: Agent Kang (Pinning Spectral Throat)",
-        "- Node 03: Agent Park (Priming Resonant Requiem Siphon)",
+        "- Node 02: Specialist Kang (Pinning Spectral Throat)",
+        "- Node 03: Specialist Park (Priming Resonant Requiem Siphon)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 128/135 | SP +30 | Posture 66/75",
-        "- Agent Park   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 128/135 | SP +30 | Posture 66/75",
+        "- Specialist Park   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Silhouette   : Spd 0 -> 0 AP | HP 14/280  | Posture 0/120 [COLLAPSED]"
     ])
 
@@ -78,11 +78,11 @@ def get_day_101_combat():
         "[MIST]  [KANG]  [PARK]                          [SEIYON]        [MAJIN]",
         "---",
         "- Node 01: Lead Silhouette (Dissolved to Gray Mist / Siphoned)",
-        "- Node 02: Agent Kang (Resting Maul / Checking Corridor Air)",
-        "- Node 03: Agent Park (Confirming Dormitory Personnel Safe)",
+        "- Node 02: Specialist Kang (Resting Maul / Checking Corridor Air)",
+        "- Node 03: Specialist Park (Confirming Dormitory Personnel Safe)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 128/135 | SP +35 | Posture 75/75",
-        "- Agent Park   : Spd 6 -> 3 AP | HP 125/125 | SP +40 | Posture 65/65",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 128/135 | SP +35 | Posture 75/75",
+        "- Specialist Park   : Spd 6 -> 3 AP | HP 125/125 | SP +40 | Posture 65/65",
         "- Silhouette   : HP 0/280 [PURIFIED] | +0.024 TONS REFINED HAN HARVESTED"
     ])
 
@@ -93,11 +93,11 @@ def get_day_101_combat():
 
 ###### Turn 02 Action Resolution Log (Silhouette Stagger Build)
 - **Vanguard Impact & Flerehan Pulse**:
-  * **Agent Kang (Speed 6 -> 3 AP)**: Smashes the lead silhouette's dream lattice at Node 02:
+  * **Specialist Kang (Speed 6 -> 3 AP)**: Smashes the lead silhouette's dream lattice at Node 02:
     * Deals **42 Grudge Damage**!
     * Inflicts +34 Posture Strain. Silhouette Posture drops to **54/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The phantom's somnolent aura fractures.
-  * **Agent Park**: Firing from Node 04 with the Lament Requiem, deals **36 direct Lament damage**.
+  * **Specialist Park**: Firing from Node 04 with the Lament Requiem, deals **36 direct Lament damage**.
   * Silhouette HP falls to **154/280**!
 
 ---
@@ -108,8 +108,8 @@ def get_day_101_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Allied Focus Fire (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **58 Grudge Damage**!
-  * Agent Park channels a high-frequency harmonic beam: **44 Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **58 Grudge Damage**!
+  * Specialist Park channels a high-frequency harmonic beam: **44 Damage**!
   * Silhouette HP collapses from 154 to **52/280**! Posture drops to **14/120**!
 
 ---
@@ -122,8 +122,8 @@ def get_day_101_combat():
 - **Hostile Desperation Counter-Surge**:
   * The Silhouette recovers, venting heavy somnolent mist to put all nearby personnel into a coma: `[Somnolent Fog]`.
   * Containment Lead Dekan activates Floor 2's *Bastion Ward* relays, neutralizing the chemical toxin!
-  * Agent Kang deploys `[Directional Guard Absorption]`, absorbing 7 chip damage (HP: 128/135) while holding the frontline!
-  * Agent Park executes a non-lethal acoustic wave, completely dispersing the mental fog!
+  * Specialist Kang deploys `[Directional Guard Absorption]`, absorbing 7 chip damage (HP: 128/135) while holding the frontline!
+  * Specialist Park executes a non-lethal acoustic wave, completely dispersing the mental fog!
   * Silhouette Posture drops to **6/120**!
 
 ---
@@ -158,11 +158,11 @@ def get_day_103_combat():
         "---",
         "- Node 01: Ancient Cog (Posture 52/130 / Drive Axle Pierced)",
         "- Node 02: Extraction Lead Zyrak (Thermal Lance Thrust Landed)",
-        "- Node 03: Agent Yoo (Range Band 2 / Lock Maul Kinetic Cleave)",
+        "- Node 03: Specialist Yoo (Range Band 2 / Lock Maul Kinetic Cleave)",
         "- Node 06: Archive Lead Marjuk (Range Band 3 / Pre-Charging Stasis)",
         "---",
         "- Zyrak       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 85/85",
-        "- Agent Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Ancient Cog : Spd 3 -> 1 AP | HP 182/280 | Posture 52/130 [CRACKED]"
     ])
@@ -174,11 +174,11 @@ def get_day_103_combat():
         "---",
         "- Node 01: Ancient Cog (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
         "- Node 02: Extraction Lead Zyrak (Overheating Axle Bearings)",
-        "- Node 04: Agent Yoo (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 04: Specialist Yoo (Advancing with Momentum Surge / +2 Speed)",
         "- Node 06: Archive Lead Marjuk (Deploying Stasis Clamp)",
         "---",
         "- Zyrak       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 85/85",
-        "- Agent Yoo   : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Yoo   : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Posture 70/70",
         "- Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Cog         : Spd 0 -> 0 AP | HP 98/280  | Posture 20/130 [STAGGERED]"
     ])
@@ -190,11 +190,11 @@ def get_day_103_combat():
         "---",
         "- Node 01: Ancient Cog (Recovered / Channeling Thermal Super-Torque)",
         "- Node 02: Extraction Lead Zyrak (Directional Guard Absorption)",
-        "- Node 03: Agent Yoo (Kinetic Counter-Smash Cracking Axle)",
+        "- Node 03: Specialist Yoo (Kinetic Counter-Smash Cracking Axle)",
         "- Node 06: Archive Lead Marjuk (Applying Stasis Clamp to Flywheel)",
         "---",
         "- Zyrak       : Spd 5 -> 3 AP | HP 172/180 | SP +35 | Posture 75/85",
-        "- Agent Yoo   : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Yoo   : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Cog         : Spd 4 -> 2 AP | HP 44/280  | Posture 8/130 [CRITICAL]"
     ])
 
@@ -206,10 +206,10 @@ def get_day_103_combat():
         "---",
         "- Node 01: Ancient Cog (TERMINAL STAGGER / POSTURE 0/130 / 2.0x DMG)",
         "- Node 02: Extraction Lead Zyrak (Priming Climax Thermal Lance)",
-        "- Node 03: Agent Yoo (Cracking Central Drive Shaft)",
+        "- Node 03: Specialist Yoo (Cracking Central Drive Shaft)",
         "---",
         "- Zyrak       : Spd 5 -> 3 AP | HP 172/180 | SP +35 | Posture 75/85",
-        "- Agent Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Cog         : Spd 0 -> 0 AP | HP 12/280  | Posture 0/130 [COLLAPSED]"
     ])
 
@@ -220,10 +220,10 @@ def get_day_103_combat():
         "---",
         "- Node 01: Ancient Cog (Detonated Safely / Slag Siphoned into Flues)",
         "- Node 02: Extraction Lead Zyrak (Venting Lance Heat)",
-        "- Node 03: Agent Yoo (Logging Kinetic Impact)",
+        "- Node 03: Specialist Yoo (Logging Kinetic Impact)",
         "---",
         "- Zyrak       : Spd 5 -> 3 AP | HP 172/180 | SP +40 | Posture 85/85",
-        "- Agent Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +35 | Posture 70/70",
+        "- Specialist Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +35 | Posture 70/70",
         "- Cog         : HP 0/280 [PURIFIED] | +0.024 TONS REFINED HAN HARVESTED"
     ])
 
@@ -238,7 +238,7 @@ def get_day_103_combat():
     * Deals **44 Grudge Damage**!
     * Inflicts +36 Posture Strain. Cog Posture drops to **52/130**, breaching the **60% Posture Threshold (78 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The spinning gear teeth seize in a shower of white sparks.
-  * **Agent Yoo**: Smashes the peripheral gear train with the heavy maul for **34 kinetic damage**.
+  * **Specialist Yoo**: Smashes the peripheral gear train with the heavy maul for **34 kinetic damage**.
   * Cog HP falls to **152/280**!
 
 ---
@@ -249,7 +249,7 @@ def get_day_103_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo delivers an overhead smash directly onto the jammed gear teeth: **58 Damage**!
+  * Specialist Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo delivers an overhead smash directly onto the jammed gear teeth: **58 Damage**!
   * Zyrak melts the internal bearings with thermal spray: **46 Damage**!
   * Cog HP drops to **48/280**! Posture drops to **14/130**!
 
@@ -299,12 +299,12 @@ def get_day_108_combat():
         "---",
         "- Node 01: Lead Stalker (Posture 48/120 / Pinned by Mellda)",
         "- Node 02: Border Lead Mellda (Point-Blank Band 1 / Bulwark Locked)",
-        "- Node 03: Agent Cha (Range Band 2 / Cryo-Quench Spray Firing)",
-        "- Node 06: Agent Park (Range Band 3 / Lament Requiem Aimed)",
+        "- Node 03: Specialist Cha (Range Band 2 / Cryo-Quench Spray Firing)",
+        "- Node 06: Specialist Park (Range Band 3 / Lament Requiem Aimed)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 195/195 | SP +35 | Posture 95/95",
-        "- Agent Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Stalker     : Spd 4 -> 2 AP | HP 182/280 | Posture 48/120 [CRACKED]"
     ])
 
@@ -315,12 +315,12 @@ def get_day_108_combat():
         "---",
         "- Node 01: Lead Stalker (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
         "- Node 03: Border Lead Mellda (Momentum Surge Primed / +2 Speed)",
-        "- Node 04: Agent Cha (Cryo-Quench Shell Freezing Chitin)",
-        "- Node 06: Agent Park (Lament Requiem Resonant Smash Fired)",
+        "- Node 04: Specialist Cha (Cryo-Quench Shell Freezing Chitin)",
+        "- Node 06: Specialist Park (Lament Requiem Resonant Smash Fired)",
         "---",
         "- Mellda      : Spd 8 -> 4 AP [SURGE] | HP 195/195 | SP +35 | Posture 95/95",
-        "- Agent Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Stalker     : Spd 0 -> 0 AP | HP 88/280  | Posture 18/120 [STAGGERED]"
     ])
 
@@ -331,12 +331,12 @@ def get_day_108_combat():
         "---",
         "- Node 01: Stalker (Recovered / Attempting Flank toward Gate 05)",
         "- Node 02: Border Lead Mellda (Locking Transit Portcullis)",
-        "- Node 03: Agent Cha (Directional Guard Absorption / Freezing Nodes)",
-        "- Node 06: Agent Park (Piercing Acoustic Volley Firing)",
+        "- Node 03: Specialist Cha (Directional Guard Absorption / Freezing Nodes)",
+        "- Node 06: Specialist Park (Piercing Acoustic Volley Firing)",
         "---",
         "- Mellda      : Spd 8 -> 4 AP | HP 188/195 | SP +35 | Posture 85/95",
-        "- Agent Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Stalker     : Spd 3 -> 1 AP | HP 38/280  | Posture 6/120 [TRAPPED]"
     ])
 
@@ -348,10 +348,10 @@ def get_day_108_combat():
         "---",
         "- Node 01: Stalker (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG)",
         "- Node 02: Border Lead Mellda (Threshold Blade Locked into Throat)",
-        "- Node 03: Agent Cha (Cryo Freeze Complete / Charcoal Shell)",
+        "- Node 03: Specialist Cha (Cryo Freeze Complete / Charcoal Shell)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 188/195 | SP +35 | Posture 85/95",
-        "- Agent Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
+        "- Specialist Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
         "- Stalker     : Spd 0 -> 0 AP | HP 10/280  | Posture 0/120 [COLLAPSED]"
     ])
 
@@ -362,10 +362,10 @@ def get_day_108_combat():
         "---",
         "- Node 01: Stalkers (Shattered to Ash / Siphoned into Flues)",
         "- Node 02: Border Lead Mellda (Checking Refugee Seals)",
-        "- Node 03: Agent Cha (Clearing Ice Shards)",
+        "- Node 03: Specialist Cha (Clearing Ice Shards)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 188/195 | SP +40 | Posture 95/95",
-        "- Agent Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Cha   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Stalkers    : HP 0/280 [PURIFIED] | +0.024 TONS REFINED HAN HARVESTED"
     ])
 
@@ -377,7 +377,7 @@ def get_day_108_combat():
 ###### Turn 02 Action Resolution Log (Stalker Pin & Cryo Stagger Build)
 - **Pin & Cryo Quench**:
   * Mellda pins the lead stalker against Gate 05's reinforced bulkheads at Node 02.
-  * Agent Cha unleashes high-pressure cryo spray from the Forge Bracer:
+  * Specialist Cha unleashes high-pressure cryo spray from the Forge Bracer:
     * Deals **38 Thermal/Cryo Damage**!
     * Inflicts +32 Posture Strain. Stalker Posture drops to **46/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The stalker's exoskeleton freezes into brittle charcoal.
@@ -392,7 +392,7 @@ def get_day_108_combat():
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Cryo-Quench Focus (1.5x Direct Damage)**:
   * Mellda's `Momentum Surge` activates! (+2 Speed next turn). Mellda drives the golden arm-blade through the frozen thorax: **56 Grudge Damage**!
-  * Agent Park delivers a resonant Lament smash: **44 Damage**!
+  * Specialist Park delivers a resonant Lament smash: **44 Damage**!
   * Stalker HP collapses from 142 to **42/280**! Posture drops to **12/120**!
 
 ---
@@ -405,7 +405,7 @@ def get_day_108_combat():
 - **Hostile Desperation Flank**:
   * Secondary stalkers attempt to scramble past Node 02 toward the Cheonbulok refugee shelter.
   * Mellda slams the portcullis shut, blocking the corridor!
-  * Agent Cha deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 188/195) while freezing all remaining stalkers at Node 02 into brittle charcoal!
+  * Specialist Cha deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 188/195) while freezing all remaining stalkers at Node 02 into brittle charcoal!
   * Stalker HP falls to **14/280**! Posture drops to **2/120**!
 
 ---
@@ -439,14 +439,14 @@ def get_day_113_combat():
         "[CORE]  [KANG]          [YOON]  [HONG]                  [AYSHUK]        ",
         "---",
         "- Node 01: Solar Core (Posture 56/140 / Cooled by Dual Weeping)",
-        "- Node 02: Agent Kang (Point-Blank Band 1 / Shield Mantlet Raised)",
-        "- Node 04: Agent Yoon (Range Band 2 / Harmonic Lament Wave Firing)",
-        "- Node 05: Agent Hong (Range Band 3 / Choral Staff Echo Firing)",
+        "- Node 02: Specialist Kang (Point-Blank Band 1 / Shield Mantlet Raised)",
+        "- Node 04: Specialist Yoon (Range Band 2 / Harmonic Lament Wave Firing)",
+        "- Node 05: Specialist Hong (Range Band 3 / Choral Staff Echo Firing)",
         "- Node 08: Research Lead Ayshuk (Predicting Thermal-Psychic Nodes)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/75",
-        "- Agent Yoon   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
-        "- Agent Hong   : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/75",
+        "- Specialist Yoon   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Hong   : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
         "- Solar Core   : Spd 4 -> 2 AP | HP 210/320 | Posture 56/140 [CRACKED]"
     ])
 
@@ -456,13 +456,13 @@ def get_day_113_combat():
         "[CORE]          [KANG]  [YOON]  [HONG]                  [AYSHUK]        ",
         "---",
         "- Node 01: Solar Core (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 03: Agent Kang (Advancing with Momentum Surge / +2 Speed)",
-        "- Node 04: Agent Yoon (Discharging High-Frequency Lament Beam)",
-        "- Node 05: Agent Hong (Dual Choral Pulses Converging)",
+        "- Node 03: Specialist Kang (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 04: Specialist Yoon (Discharging High-Frequency Lament Beam)",
+        "- Node 05: Specialist Hong (Dual Choral Pulses Converging)",
         "---",
-        "- Agent Kang   : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Posture 75/75",
-        "- Agent Yoon   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
-        "- Agent Hong   : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
+        "- Specialist Kang   : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Posture 75/75",
+        "- Specialist Yoon   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Hong   : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
         "- Core         : Spd 0 -> 0 AP | HP 112/320 | Posture 22/140 [STAGGERED]"
     ])
 
@@ -472,12 +472,12 @@ def get_day_113_combat():
         "[CORE]  [KANG]          [YOON]  [HONG]                  [AYSHUK]        ",
         "---",
         "- Node 01: Solar Core (Recovered / Channeling 20% Max HP Pale Pulse)",
-        "- Node 02: Agent Kang (Directional Guard Absorption Active)",
-        "- Node 04: Agent Yoon (Dampening Vibration with Tear Veil)",
+        "- Node 02: Specialist Kang (Directional Guard Absorption Active)",
+        "- Node 04: Specialist Yoon (Dampening Vibration with Tear Veil)",
         "- Node 08: Research Lead Ayshuk (Identifying Thermal-Psychic Node)",
         "---",
-        "- Agent Kang   : Spd 8 -> 4 AP | HP 122/135 | SP +30 | Posture 62/75",
-        "- Agent Yoon   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Kang   : Spd 8 -> 4 AP | HP 122/135 | SP +30 | Posture 62/75",
+        "- Specialist Yoon   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Core         : Spd 3 -> 1 AP | HP 48/320  | Posture 8/140 [UNSTABLE]"
     ])
 
@@ -488,10 +488,10 @@ def get_day_113_combat():
         "        [KANG]          [YOON]  [HONG]",
         "---",
         "- Node 01: Solar Core (TERMINAL STAGGER / POSTURE 0/140 / 2.0x DMG)",
-        "- Node 02: Agent Kang (Locking Baseplate Clamp)",
-        "- Node 04: Agent Yoon (Thermal Damping Complete)",
+        "- Node 02: Specialist Kang (Locking Baseplate Clamp)",
+        "- Node 04: Specialist Yoon (Thermal Damping Complete)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 122/135 | SP +30 | Posture 62/75",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 122/135 | SP +30 | Posture 62/75",
         "- Core         : Spd 0 -> 0 AP | HP 12/320  | Posture 0/140 [COLLAPSED]"
     ])
 
@@ -501,10 +501,10 @@ def get_day_113_combat():
         "[STAR]  [KANG]          [YOON]  [HONG]                  [AYSHUK]        ",
         "---",
         "- Node 01: Solar Core (Dissolved to Starlight & Han Vapor / Siphoned)",
-        "- Node 02: Agent Kang (Resting Climax Maul)",
-        "- Node 04: Agent Yoon (Logging Thermal Equilibrium)",
+        "- Node 02: Specialist Kang (Resting Climax Maul)",
+        "- Node 04: Specialist Yoon (Logging Thermal Equilibrium)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 122/135 | SP +35 | Posture 75/75",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 122/135 | SP +35 | Posture 75/75",
         "- Core         : HP 0/320 [PURIFIED] | +0.026 TONS REFINED HAN HARVESTED"
     ])
 
@@ -515,7 +515,7 @@ def get_day_113_combat():
 
 ###### Turn 02 Action Resolution Log (Dual Weeping & Solar Core Stagger)
 - **Cooling Volley & Stagger Build**:
-  * Agent Yoon and Agent Hong channel dual Lament weeping from Nodes 04 and 05, cooling the solar core's thermal corona:
+  * Specialist Yoon and Specialist Hong channel dual Lament weeping from Nodes 04 and 05, cooling the solar core's thermal corona:
     * Deals **44 Pure Lament Damage**!
     * Inflicts +36 Posture Strain. Core Posture drops to **52/140**, breaching the **60% Posture Threshold (84 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The miniature sun dims from blinding white to cool indigo.
@@ -529,7 +529,7 @@ def get_day_113_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite into the containment ring: **56 Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite into the containment ring: **56 Damage**!
   * Yoon and Hong discharge synchronized beams: **48 Damage**!
   * Core HP collapses from 166 to **62/320**! Posture drops to **14/140**!
 
@@ -542,7 +542,7 @@ def get_day_113_combat():
 ###### Turn 04 Action Resolution Log (Pale Pulse Desperation)
 - **Hostile Desperation Counter-Surge**:
   * The Solar Core recovers, pulsing a 20% Max HP Pale shockwave across all nodes.
-  * Agent Kang deploys `[Directional Guard Absorption]`, taking 13 chip damage (HP: 122/135) and grounding the pulse!
+  * Specialist Kang deploys `[Directional Guard Absorption]`, taking 13 chip damage (HP: 122/135) and grounding the pulse!
   * Research Lead Ayshuk identifies the thermal-psychic node, allowing Yoon to dampen the acoustic resonance.
   * Core Posture drops to **4/140**!
 
@@ -577,11 +577,11 @@ def get_day_121_combat():
         "[SHARD] [KANG]                                          [SEIYON][MAJIN]",
         "---",
         "- Node 01: Reality Shard (Posture 72/160 / Apex Smashed by Kang)",
-        "- Node 02: Agent Kang (Point-Blank Band 1 / Heavy Maul Cleaving)",
+        "- Node 02: Specialist Kang (Point-Blank Band 1 / Heavy Maul Cleaving)",
         "- Node 09: Secretary Seiyon (Sync Directive Active / Band 5)",
         "- Node 10: Director Majin (Tactical Command Rerolls Engaged)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 140/140 | SP +35 | Posture 80/80",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 140/140 | SP +35 | Posture 80/80",
         "- Shard        : Spd 4 -> 2 AP | HP 220/340 | Posture 72/160 [CRACKED]"
     ])
 
@@ -591,10 +591,10 @@ def get_day_121_combat():
         "[SHARD]         [KANG]                                  [SEIYON][MAJIN]",
         "---",
         "- Node 01: Reality Shard (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 03: Agent Kang (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 03: Specialist Kang (Advancing with Momentum Surge / +2 Speed)",
         "- Node 10: Director Majin (Coordinating Siphon Array)",
         "---",
-        "- Agent Kang   : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP +35 | Posture 80/80",
+        "- Specialist Kang   : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP +35 | Posture 80/80",
         "- Shard        : Spd 0 -> 0 AP | HP 116/340 | Posture 24/160 [STAGGERED]"
     ])
 
@@ -604,10 +604,10 @@ def get_day_121_combat():
         "[SHARD] [KANG]                                          [SEIYON][MAJIN]",
         "---",
         "- Node 01: Reality Shard (Recovered / Channeling Reality Shear)",
-        "- Node 02: Agent Kang (Directional Guard Absorption Active)",
+        "- Node 02: Specialist Kang (Directional Guard Absorption Active)",
         "- Node 10: Director Majin (Deploying Veil Mist Dampener)",
         "---",
-        "- Agent Kang   : Spd 8 -> 4 AP | HP 132/140 | SP +35 | Posture 70/80",
+        "- Specialist Kang   : Spd 8 -> 4 AP | HP 132/140 | SP +35 | Posture 70/80",
         "- Shard        : Spd 3 -> 1 AP | HP 48/340  | Posture 8/160 [FRACTURED]"
     ])
 
@@ -618,9 +618,9 @@ def get_day_121_combat():
         "        [KANG]",
         "---",
         "- Node 01: Reality Shard (TERMINAL STAGGER / POSTURE 0/160 / 2.0x DMG)",
-        "- Node 02: Agent Kang (Shattering Outer Crystalline Lattice)",
+        "- Node 02: Specialist Kang (Shattering Outer Crystalline Lattice)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 132/140 | SP +35 | Posture 70/80",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 132/140 | SP +35 | Posture 70/80",
         "- Shard        : Spd 0 -> 0 AP | HP 12/340  | Posture 0/160 [COLLAPSED]"
     ])
 
@@ -630,9 +630,9 @@ def get_day_121_combat():
         "[SAND]  [KANG]                                          [SEIYON][MAJIN]",
         "---",
         "- Node 01: Reality Shard (Crumbled to Purple Sand / Siphoned)",
-        "- Node 02: Agent Kang (Resting Climax Maul / Sector Clear)",
+        "- Node 02: Specialist Kang (Resting Climax Maul / Sector Clear)",
         "---",
-        "- Agent Kang   : Spd 6 -> 3 AP | HP 132/140 | SP +40 | Posture 80/80",
+        "- Specialist Kang   : Spd 6 -> 3 AP | HP 132/140 | SP +40 | Posture 80/80",
         "- Shard        : HP 0/340 [PURIFIED] | +0.028 TONS REFINED HAN HARVESTED"
     ])
 
@@ -643,7 +643,7 @@ def get_day_121_combat():
 
 ###### Turn 02 Action Resolution Log (Apex Smash & Stagger Build)
 - **Direct Kinetic Sunder**:
-  * Agent Kang smashes the shard's crystalline apex with the heavy maul at Node 02:
+  * Specialist Kang smashes the shard's crystalline apex with the heavy maul at Node 02:
     * Deals **48 Grudge Damage**!
     * Inflicts +38 Posture Strain. Shard Posture drops to **58/160**, breaching the **60% Posture Threshold (96 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The geometric distortion wavers and fractures.
@@ -658,7 +658,7 @@ def get_day_121_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers an overhead smash: **68 Grudge Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers an overhead smash: **68 Grudge Damage**!
   * Shard HP collapses from 172 to **56/340**! Posture drops to **16/160**!
 
 ---
@@ -671,7 +671,7 @@ def get_day_121_combat():
 - **Hostile Desperation Counter-Surge**:
   * The Reality Shard recovers, attempting `[Tectonic Reality Shear]` to warp the central command floorplates.
   * Director Majin deploys the *Veil Mist Dampener*, stabilizing local physics!
-  * Agent Kang deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 132/140).
+  * Specialist Kang deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 132/140).
   * Kang executes a kinetic counter-strike, shattering the outer lattice!
   * Shard HP drops to **16/340**! Posture drops to **2/160**!
 
@@ -709,7 +709,7 @@ def generate_day_117():
     ])
 
     roster_box = make_box("DEPLOYED ROSTER: DAY 117 MAW PACIFICATION SQUAD", [
-        "AGENT & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
+        "SPECIALIST & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC",
         "----------------------+-----------------------------------------------",
         "Containment Lead Dekan| HP 210| SP 80 | Work 70 | Speed 5 (3 AP Base)",
         "Floor 2 Decision Core | M.A.W.-W: Basalt Siphon (Weight / Heavy / 2 AP)",
@@ -723,7 +723,7 @@ def generate_day_117():
         "                      | Posture: 90/90 | Parry: 18 Power | Pass: Forge Heat",
         "                      | Panic Typology: Despair (SP <= -35)",
         "----------------------+-----------------------------------------------",
-        "Agent Kang (Grade V)  | HP 140| SP 78 | Work 66 | Speed 6 (3 AP + 1 Move)",
+        "Specialist Kang (Grade V)  | HP 140| SP 78 | Work 66 | Speed 6 (3 AP + 1 Move)",
         "Senior Breacher       | M.A.W.-W: Climax Maul (Grudge / Heavy / 2 AP)",
         "Floor 2 Assigned      | Suit: Chitin Carapace Mail (Heavy / Spd +1)",
         "                      | Posture: 80/80 | Guard: 18 Absorb | Pass: Momentum Surge",
@@ -750,13 +750,13 @@ def generate_day_117():
         "- Node 02: Sediment Behemoth (Basalt Mudslide Eruption Epicenter)",
         "- Node 03: Containment Lead Dekan (Frontline Anchor / Band 1)",
         "- Node 04: Extraction Lead Zyrak (Thermal Mid-Field / Band 2)",
-        "- Node 05: Agent Kang (Senior Breacher / Heavy Maul / Band 3)",
+        "- Node 05: Specialist Kang (Senior Breacher / Heavy Maul / Band 3)",
         "- Node 10: Director Majin & Seiyon Command Console (Band 5)",
         "---",
         "OPERATIVE STATUS & RESOURCE POOLS:",
         "- Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP 80/80 | Posture 105/105",
         "- Zyrak       : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/90",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/80",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/80",
         "- Behemoth    : Spd 4 -> 2 AP | HP 400/400 | Posture 200/200"
     ])
 
@@ -768,11 +768,11 @@ def generate_day_117():
         "- Node 02: Sediment Behemoth (Posture 124/200 / Anterior Shell Cracked)",
         "- Node 03: Containment Lead Dekan (Basalt Siphon Parry Executed)",
         "- Node 04: Extraction Lead Zyrak (Thermal Spray Melting Silt)",
-        "- Node 05: Agent Kang (Climax Maul Sunder Landed)",
+        "- Node 05: Specialist Kang (Climax Maul Sunder Landed)",
         "---",
         "- Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP 80/80 | Posture 105/105",
         "- Zyrak       : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/90",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/80",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/80",
         "- Behemoth    : Spd 3 -> 1 AP | HP 302/400 | Posture 124/200 [CRACKED]"
     ])
 
@@ -785,11 +785,11 @@ def generate_day_117():
         "- Node 02: Sediment Behemoth (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
         "- Node 02: Containment Lead Dekan (Driving Siphon into Heart Core)",
         "- Node 04: Extraction Lead Zyrak (Overheating Mud Armor)",
-        "- Node 05: Agent Kang (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 05: Specialist Kang (Momentum Surge Primed / +2 Speed Next Turn)",
         "---",
         "- Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP 80/80 | Posture 105/105",
         "- Zyrak       : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/90",
-        "- Agent Kang  : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP 78/78 | Posture 80/80",
+        "- Specialist Kang  : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP 78/78 | Posture 80/80",
         "- Behemoth    : Spd 0 -> 0 AP | HP 168/400 | Posture 46/200 [STAGGERED]"
     ])
 
@@ -801,11 +801,11 @@ def generate_day_117():
         "- Node 02: Sediment Behemoth (Recovered / Channeling Mudslide Eruption)",
         "- Node 03: Containment Lead Dekan (Directional Guard Absorption Active)",
         "- Node 04: Extraction Lead Zyrak (Thermal Blast Evaporating Mud)",
-        "- Node 05: Agent Kang (Spd 8 / AP 4 / Heavy Maul Sunder)",
+        "- Node 05: Specialist Kang (Spd 8 / AP 4 / Heavy Maul Sunder)",
         "---",
         "- Dekan       : Spd 5 -> 3 AP | HP 198/210 | SP 76/80 | Posture 90/105",
         "- Zyrak       : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/90",
-        "- Agent Kang  : Spd 8 -> 4 AP | HP 140/140 | SP 78/78 | Posture 80/80",
+        "- Specialist Kang  : Spd 8 -> 4 AP | HP 140/140 | SP 78/78 | Posture 80/80",
         "- Behemoth    : Spd 4 -> 2 AP | HP 84/400  | Posture 20/200 [UNSTABLE]"
     ])
 
@@ -818,11 +818,11 @@ def generate_day_117():
         "- Node 02: Sediment Behemoth (TERMINAL STAGGER / POSTURE 0/200 / 2.0x DMG)",
         "- Node 02: Containment Lead Dekan (Jaw Clamp Pinning Anterior Tusk)",
         "- Node 03: Extraction Lead Zyrak (Thermal Lance Overdrive)",
-        "- Node 04: Agent Kang (Priming Climax Execution)",
+        "- Node 04: Specialist Kang (Priming Climax Execution)",
         "---",
         "- Dekan       : Spd 5 -> 3 AP | HP 198/210 | SP 76/80 | Posture 90/105",
         "- Zyrak       : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/90",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/80",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/80",
         "- Behemoth    : Spd 0 -> 0 AP | HP 20/400  | Posture 0/200 [COLLAPSED]"
     ])
 
@@ -834,11 +834,11 @@ def generate_day_117():
         "- Node 02: Sediment Behemoth (Dissolved into River Silt / Siphoned)",
         "- Node 03: Containment Lead Dekan (Venting Basalt Siphon)",
         "- Node 04: Extraction Lead Zyrak (Securing RHR Reagents)",
-        "- Node 05: Agent Kang (Reporting Siphon Vault Clear)",
+        "- Node 05: Specialist Kang (Reporting Siphon Vault Clear)",
         "---",
         "- Dekan       : Spd 5 -> 3 AP | HP 198/210 | SP 80/80 | Posture 100/105",
         "- Zyrak       : Spd 6 -> 3 AP | HP 185/185 | SP +40 | Posture 90/90",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 140/140 | SP +40 | Posture 80/80",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 140/140 | SP +40 | Posture 80/80",
         "- Behemoth    : HP 0/400 [PURIFIED] | +0.030 TONS REFINED HAN HARVESTED"
     ])
 
@@ -856,7 +856,7 @@ def generate_day_117():
         "OPERATIVE ADVANCEMENT  :",
         "- Containment Dekan   : +5 Resilience, +3 Composure (Maw Guardian)",
         "- Extraction Zyrak    : +5 Composure, +3 Resolve (Forge Master)",
-        "- Agent Kang          : +4 Resilience, +3 Clarity (Senior Bulwark)"
+        "- Specialist Kang          : +4 Resilience, +3 Clarity (Senior Bulwark)"
     ])
 
     forge_box = make_box("M.A.W. SYNTHESIS FORGING LOG — DAY 117", [
@@ -868,7 +868,7 @@ def generate_day_117():
         "                       | Resist: 0.5 Grudge / 0.7 Lament / 0.5 Weight",
         "Maw Tusk Brooch        | Chest Slot: +12 HP, +10% Tremor Nullification",
         "-----------------------+----------------------------------------------",
-        "EQUIPMENT ALLOCATION   | BESTOWED UPON AGENT KANG (SENIOR BREACHER)"
+        "EQUIPMENT ALLOCATION   | BESTOWED UPON SPECIALIST KANG (SENIOR BREACHER)"
     ])
 
     content = f"""
@@ -957,7 +957,7 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
     * The basalt siphon locks the creature's primary tusk, diverting the mudslide into the drainage flues!
     * Deals 36 Weight damage (HP: 364/400) and inflicts +32 Posture Strain (Posture: 168/200).
   * **Extraction Lead Zyrak (Speed 6 -> 3 AP)**: From Node 04, fires `[Thermal Spray]`, boiling the mud armor: **42 Grudge Damage**!
-  * **Agent Kang**: Smashes with *Climax Maul* for **34 damage**. Behemoth HP drops to **288/400**!
+  * **Specialist Kang**: Smashes with *Climax Maul* for **34 damage**. Behemoth HP drops to **288/400**!
 
 ---
 
@@ -968,7 +968,7 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 ##### Turn 02 Action Resolution Log (Shell Fissure & Stagger Build)
 - **Coordinated Vanguard Strike**:
   * Zyrak melts the anterior silt plating: **38 Grudge Damage**!
-  * Agent Kang drives the heavy maul into the softened shell: **46 Damage**!
+  * Specialist Kang drives the heavy maul into the softened shell: **46 Damage**!
   * Behemoth HP drops to **204/400**!
   * Combined Posture strain inflicts +44 points. Posture drops to **80/200**, breaching the **60% Posture Threshold (120 Points)**!
   * **STAGGER LEVEL 1 TRIGGERED!** The behemoth's tusks droop, its mud armor cracking open!
@@ -981,7 +981,7 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 
 ##### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **64 Grudge Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **64 Grudge Damage**!
   * Dekan drives the basalt siphon deep into the exposed heart core: **56 Damage**!
   * Behemoth HP collapses from 204 to **84/400**! Posture drops to **20/200**!
 
@@ -1038,7 +1038,7 @@ Total daily harvest reaches **0.292 / 0.280 tons**! Quota surpassed!
 {forge_box}
 ```
 
-Agent Kang equips the *Basalt Great-Maul*, establishing himself as Floor 2's supreme physical frontline breacher.
+Specialist Kang equips the *Basalt Great-Maul*, establishing himself as Floor 2's supreme physical frontline breacher.
 
 ---
 

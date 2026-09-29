@@ -60,7 +60,7 @@ Settler Landing   The Cheongula       R.D. Public Founding  Dawn of Hope
 | **Year 4,238+** | Deep Vault / Post-R.D. | **UNK SE Manifestation (Strictly After R.D.):** 12 authentic anomaly dossiers emerge in the deep vault and post-loop aftermath. | `SOMNARAK-WORLD/Unknown_Entities/` |
 | **Years 4,238–4,247** | Post-Dawn Phase 1 | **The Dawn Initiative:** The 12 Hope Bearers operate mobile fortress *The Lantern*, expanding hope from 15% toward 45%. | `SOMNARAK_DAWN_OF_HOPE.md` |
 | **Year 4,239+** | Post-Dawn Phase 2 | **The Horizon Caravan (Jipyeongseondae):** Six overland expeditions cross the wasteland to Cheonbulok and Mugeukji. | `SOMNARAK-WORLD/Jipyeongseondae/` |
-| **Year 4,240+** | Post-Dawn Phase 3 | **The Memory Archive (Gieok Jeojangso):** Reception protocol across seven strata floors extracting Key Pages for the Silent City. | `SOMNARAK-WORLD/Gieok_Jeojangso/` |
+| **Year 4,240+** | Post-Dawn Phase 3 | **The Memory Archive (Gieok Jeojangso):** Reading protocol across seven strata floors extracting Memory Leaves for the Silent City. | `SOMNARAK-WORLD/Gieok_Jeojangso/` |
 | **Year 4,250+** | Post-Dawn Phase 4 | **Company 4 — The Wound Walkers:** Sooah's post-Dawn spiritual pilgrimage across the Seven Crucible Stations. | `SOMNARAK_WOUND_WALKERS.md` |
 | **Year 4,255+** | Global Era | **Continental Reconstruction:** Trans-continental rail relays, tectonic stabilization, and external civil reconnection. | Master Narrative SSOT |
 
@@ -200,7 +200,7 @@ The central turning point in planetary history:
 3. **The Horizon Caravan (Jipyeongseondae /   지평선대  ):**
    - The six trans-desolate overland expedition arcs crossing the wasteland to reconnect Somnarak with the forgotten cities of Cheonbulok and Mugeukji (`SOMNARAK-WORLD/Jipyeongseondae/`).
 4. **The Memory Archive (Gieok Jeojangso /   기억저장소  ):**
-   - Secretary Seiyon's Library Reception Protocol across the seven subterranean strata floors, transmuting historical trauma into sovereign Key Pages to awaken the Silent City (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
+   - Secretary Seiyon's Library Reading Protocol across the seven subterranean strata floors, transmuting historical trauma into sovereign Memory Leaves to awaken the Silent City (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
 5. **The Wound Walkers (Company 4 /   상처 걷는 자  ):**
    - The post-Dawn spiritual pilgrimage of Sooah across the Seven Crucible Stations in Year 4,250+ to heal the lingering municipal scars that remain after all other companies have finished (`SOMNARAK_WOUND_WALKERS.md`).
 6. **Continental Reconstruction & Global Reconnection:**

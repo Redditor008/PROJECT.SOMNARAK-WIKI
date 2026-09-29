@@ -7,7 +7,7 @@
 **Document ID:** `SE-631-B`  
 **Linked Entity:** `SE-631` — Errant  
 **Item Registry Code:** `MAW-W-631-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -63,14 +63,14 @@ The head now hovers higher near structures being mislabeled as permanent homes.
 
 Charm identifies forced movement, Mantle shelters choice, and Maul breaks coercion. Resonance becomes violent when stability is converted into possession.
 
-> *“The lock was the target. The moment I planted the weapon, I made the shelter another lock.”* — Agent Durivel Cho
+> *“The lock was the target. The moment I planted the weapon, I made the shelter another lock.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-631-B`  
 **Linked Entity:** `SE-631`  
 **Item Registry Code:** `MAW-W-631-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

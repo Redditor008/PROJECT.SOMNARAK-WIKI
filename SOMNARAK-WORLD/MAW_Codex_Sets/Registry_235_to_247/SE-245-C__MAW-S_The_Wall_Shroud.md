@@ -7,7 +7,7 @@
 **Document ID:** `SE-245-C`  
 **Linked Entity:** `SE-245` — Midnight Choir  
 **Item Registry Code:** `MAW-S-245-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Shroud holds attention, Stone remembers the fragment, and Requiem cuts only over
 **Document ID:** `SE-245-C`  
 **Linked Entity:** `SE-245`  
 **Item Registry Code:** `MAW-S-245-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

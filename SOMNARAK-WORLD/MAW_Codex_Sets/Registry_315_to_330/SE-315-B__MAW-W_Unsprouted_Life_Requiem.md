@@ -7,7 +7,7 @@
 **Document ID:** `SE-315-B`  
 **Linked Entity:** `SE-315` — Unsprouted Life  
 **Item Registry Code:** `MAW-W-315-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Core builds barrier, Shroud protects identity, Requiem removes invasive roots.
 **Document ID:** `SE-315-B`  
 **Linked Entity:** `SE-315`  
 **Item Registry Code:** `MAW-W-315-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

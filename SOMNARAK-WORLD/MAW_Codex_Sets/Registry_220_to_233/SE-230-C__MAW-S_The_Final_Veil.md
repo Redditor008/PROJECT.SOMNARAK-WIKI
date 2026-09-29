@@ -7,7 +7,7 @@
 **Document ID:** `SE-230-C`  
 **Linked Entity:** `SE-230` — Every Last Goodbye  
 **Item Registry Code:** `MAW-S-230-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only    
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ The Veil carries the witness through *Received, Not Rewritten*. Final Hour marks
 **Document ID:** `SE-230-C`  
 **Linked Entity:** `SE-230`  
 **Item Registry Code:** `MAW-S-230-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

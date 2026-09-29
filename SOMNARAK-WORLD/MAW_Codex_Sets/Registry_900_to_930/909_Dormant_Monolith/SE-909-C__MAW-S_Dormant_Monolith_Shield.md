@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-909` — Dormant Monolith  
 **Source SECC Designation:** `N-IVδ-909 [N]`  
 **Item Registry Code:** `MAW-S-909-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Shield performs t
 **Document ID:** `SE-909-C`  
 **Linked Entity:** `SE-909`  
 **Item Registry Code:** `MAW-S-909-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

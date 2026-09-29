@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / δ — Critical / Grudge — Crimson |
 | Status | Boundary-defense issue with external passage review |
 | Maximum amount | 2 — Limited |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | Crimson armor plates engraved with thin root routes that stop at an open gap over the sternum. |
 | Active form | The root routes rise as a defensive grid around the wearer’s designated line. |
 | Recognition rule | The sternum gap remains open only while a non-hostile passage is maintained. |
@@ -87,7 +87,7 @@ Ashford wore the Plate during a checkpoint panic in which a crowd and a hostile 
 
 The Plate is the passage safeguard of *Mutual Passage*. Border Root can make a wall and Border Charm can identify harm; this suit prevents the set from confusing defense with exclusion.
 
-> *“An armor gap is not a vulnerability when it is where people are meant to survive.”* — Agent Iseulfros Kim
+> *“An armor gap is not a vulnerability when it is where people are meant to survive.”* — Specialist Iseulfros Kim
 
 ---
 

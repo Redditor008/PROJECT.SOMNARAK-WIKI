@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The blessing count must be monitored continuously.
 
 **Personnel Note:**
-> *"The Healer closed my broken arm instantly. Then it shuddered as if the break had moved inside its own body. I have never felt so guilty about being healed."* — Agent Haneulash Yoon, Zone B containment team
+> *"The Healer closed my broken arm instantly. Then it shuddered as if the break had moved inside its own body. I have never felt so guilty about being healed."* — Specialist Haneulash Yoon, Zone B containment team
 
 
 

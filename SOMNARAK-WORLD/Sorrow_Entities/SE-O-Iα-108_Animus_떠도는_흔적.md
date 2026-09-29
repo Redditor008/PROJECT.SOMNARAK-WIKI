@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It produces weight without a stable physical body.
 - It becomes faint when no one attempts to define its anger.
 
-**Personnel Note:** *"It was moving through the Commons. I felt weight. The anger had no name, and that was the most honest thing about it."* — Agent, Zone C patrol
+**Personnel Note:** *"It was moving through the Commons. I felt weight. The anger had no name, and that was the most honest thing about it."* — Specialist, Zone C patrol
 
 
 

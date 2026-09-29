@@ -32,7 +32,7 @@ The repository is structured into distinct, authoritative functional environment
 - **9 Absolvohan Narrative Volumes** (`SOMNARAK-WORLD/The_Absolvohan/`), chronicling the full Day 0 through Day 365+ journey across the 1,778th Cycle
 - **7 Subterranean Descent Chronicles** (`SOMNARAK-WORLD/Katabagil/`), detailing the SED Katabagil deep expeditionary passages
 - **6 Underworld Pacification Chronicles** (`SOMNARAK-WORLD/Katharcheok/`), documenting the UCD Katharcheok syndicate purge operations
-- **7 Mnemonic Reception Chronicles** (`SOMNARAK-WORLD/Gieok_Jeojangso/`), detailing the Memory Archive's floor receptions
+- **7 Mnemonic Reading Chronicles** (`SOMNARAK-WORLD/Gieok_Jeojangso/`), detailing the Memory Archive's floor readings
 - **6 Trans-Desolate Overland Arcs** (`SOMNARAK-WORLD/Jipyeongseondae/`), documenting the Horizon Caravan's planetary crossings
 - **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution
 - **Game Battle Operations & Tactical Simulation Suite** (`GAME_BATTLE/`), housing turn-by-turn combat encounters, boss battle mechanics, and standard authoring templates
@@ -114,7 +114,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
 │   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
 │   ├── Katharcheok/                        # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
-│   ├── Gieok_Jeojangso/                    # 7 Mnemonic Receptions & Mnemonic Combat Suite (Memory Archive)
+│   ├── Gieok_Jeojangso/                    # 7 Mnemonic Readings & Mnemonic Combat Suite (Memory Archive)
 │   ├── Jipyeongseondae/                    # 6 Trans-Desolate Overland Arcs & Bastion Suite (Horizon Caravan)
 │   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
 │   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
@@ -209,7 +209,7 @@ Official corporate dossiers and operational doctrines of the sovereign instituti
 | [`The_REVERIE_DIRECTORATE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md) | Facility 01 Corporate Dossier (3,576 lines) | Subterranean Facility 01, 8 Floors, 9 Echo-Core attendants, and containment systems |
 | [`The_SOMNARAK_EXPLORATION_DECREE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md) | SED Corporate Dossier (581 lines) | Three-tier subterranean descent doctrine, survey gear, and 7-member explorer cadre |
 | [`The_UNDERWORLD_CLEANUP_DESCEND.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_UNDERWORLD_CLEANUP_DESCEND.md) | UCD Corporate Dossier (509 lines) | Three-phase reclamation doctrine, urban pacification weaponry, and 6-officer task force |
-| [`The_MEMORY_ARCHIVE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md) | The Memory Archive Dossier (915 lines) | Sub-Alpha root architecture, Mnemonic Combat Framework, and 7-floor reception stratigraphy |
+| [`The_MEMORY_ARCHIVE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md) | The Memory Archive Dossier (915 lines) | Sub-Alpha root architecture, Mnemonic Combat Framework, and 7-floor reading stratigraphy |
 | [`The_HORIZON_CARAVAN.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_HORIZON_CARAVAN.md) | The Horizon Caravan Dossier (684 lines) | Drift Throne 140m mobile crawler specifications, trans-desolate navigation, and bastion warfare |
 
 ---
@@ -310,9 +310,9 @@ Beyond the master codices, Project Somnarak maintains complete standalone operat
 3. **`SOMNARAK-WORLD/Katharcheok/` — Underworld Cleanup Descend (UCD) Pacification Operations:**
    - [`KATHARCHEOK_OVERVIEW.md`](SOMNARAK-WORLD/Katharcheok/KATHARCHEOK_OVERVIEW.md): Urban pacification doctrine, syndicate breach classifications, and squad armaments.
    - Six high-risk tactical cleanup operations ([`Operation_1_Velumtal.md`](SOMNARAK-WORLD/Katharcheok/Operation_1_Velumtal.md) to [`Operation_6_Basileugung.md`](SOMNARAK-WORLD/Katharcheok/Operation_6_Basileugung.md)) reclaiming the undercity slums.
-4. **`SOMNARAK-WORLD/Gieok_Jeojangso/` — The Memory Archive Mnemonic Receptions:**
+4. **`SOMNARAK-WORLD/Gieok_Jeojangso/` — The Memory Archive Mnemonic Readings:**
    - [`GIEOK_JEOJANGSO_OVERVIEW.md`](SOMNARAK-WORLD/Gieok_Jeojangso/GIEOK_JEOJANGSO_OVERVIEW.md): Architectural stratigraphy, Mnemonic Suture mechanics, and Floor Realization protocols.
-   - Seven stratified reception chronicles ([`Reception_1_First_Keeper.md`](SOMNARAK-WORLD/Gieok_Jeojangso/Reception_1_First_Keeper.md) to [`Reception_7_The_Original.md`](SOMNARAK-WORLD/Gieok_Jeojangso/Reception_7_The_Original.md)) testing operative mental fortitude.
+   - Seven stratified reading chronicles ([`Reading_1_First_Keeper.md`](SOMNARAK-WORLD/Gieok_Jeojangso/Reading_1_First_Keeper.md) to [`Reading_7_The_Original.md`](SOMNARAK-WORLD/Gieok_Jeojangso/Reading_7_The_Original.md)) testing operative mental fortitude.
 5. **`SOMNARAK-WORLD/Jipyeongseondae/` — The Horizon Caravan Trans-Desolate Expeditions:**
    - [`JIPYEONGSEONDAE_OVERVIEW.md`](SOMNARAK-WORLD/Jipyeongseondae/JIPYEONGSEONDAE_OVERVIEW.md): Overland navigation guide, Drift Throne crawler specs, and bastion defensive tactics.
    - Six trans-desolate overland expedition arcs ([`Arc_1_Departure.md`](SOMNARAK-WORLD/Jipyeongseondae/Arc_1_Departure.md) to [`Arc_6_The_Mugeukji_Attempt.md`](SOMNARAK-WORLD/Jipyeongseondae/Arc_6_The_Mugeukji_Attempt.md)) traversing the outer wastelands.

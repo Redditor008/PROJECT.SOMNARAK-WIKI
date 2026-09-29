@@ -4,7 +4,7 @@
 **Document ID:** `SE-757-C`  
 **Linked Entity:** `SE-757` — Door to No One  
 **Item Registry Code:** `MAW-S-757-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Broken Plate is the suit of Door to No One’s set, bound by the same rule a
 **Document ID:** `SE-757-C`  
 **Linked Entity:** `SE-757`  
 **Item Registry Code:** `MAW-S-757-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

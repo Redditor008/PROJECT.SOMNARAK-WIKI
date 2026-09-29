@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-895` — Survivors' Breath  
 **Source SECC Designation:** `O-IVδ-895 [VS]`  
 **Item Registry Code:** `MAW-W-895-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Survivors' Breath — Witnessed Form*, The Resting Lens performs the wea
 **Document ID:** `SE-895-B`  
 **Linked Entity:** `SE-895`  
 **Item Registry Code:** `MAW-W-895-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

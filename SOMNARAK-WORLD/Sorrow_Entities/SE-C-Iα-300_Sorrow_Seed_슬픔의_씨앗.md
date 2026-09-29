@@ -435,6 +435,6 @@ Some sorrows are about what happened. Sorrow Seed is about what has not happened
 ## Document Information
 
 **Document ID:** SE-C-Iα-300
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4233
 **Classification:** Restricted

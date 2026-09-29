@@ -7,7 +7,7 @@
 **Document ID:** `SE-677-C`  
 **Linked Entity:** `SE-677` — Tower Erased Overnight  
 **Item Registry Code:** `MAW-S-677-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -39,7 +39,7 @@ The Vanished Plate is a crimson harness carrying the scent of vanished rooms —
 **Document ID:** `SE-677-C`  
 **Linked Entity:** `SE-677`  
 **Item Registry Code:** `MAW-S-677-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

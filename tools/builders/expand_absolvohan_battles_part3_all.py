@@ -45,8 +45,8 @@ box_larvae_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CRIMSON NOON
     "POS     : [POD-1]   [POD-2] [HWANG]         [SONG]         [MAJIN]",
     "DIST    : Hwang at N03 (Band 1); Song at N05 (Band 3); Majin at N09.",
     "---",
-    "Agent Hwang : Speed 6 -> 3 AP | HP: 115/115 | SP: +25 | Observing Scepter",
-    "Agent Song  : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Kinetic Cleaver",
+    "Specialist Hwang : Speed 6 -> 3 AP | HP: 115/115 | SP: +25 | Observing Scepter",
+    "Specialist Song  : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Kinetic Cleaver",
     "Sanguine Pod: Speed 4 -> 2 AP | HP: 160/160 | Sorrow: 50% | Acid Brood"
 ])
 
@@ -86,8 +86,8 @@ At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt 
 ```
 
 Director Majin establishes split-team GBS sector commands:
-- **Team A (Agent Hwang & Agent Song)** intercepts Pod 1 & 2 outside Chamber 033 on Floor 2.
-- **Team B (Agent Kim & Agent Park)** locks down Pod 3 & 4 at the main vertical stairwell.
+- **Team A (Specialist Hwang & Specialist Song)** intercepts Pod 1 & 2 outside Chamber 033 on Floor 2.
+- **Team B (Specialist Kim & Specialist Park)** locks down Pod 3 & 4 at the main vertical stairwell.
 
 ```text
 {box_larvae_hud}
@@ -97,15 +97,15 @@ Director Majin establishes split-team GBS sector commands:
 - **Step 1: Floor 2 Echo-Core Resonance (Containment Lead Dekan)**:
   * Dekan anchors *The Maw's Keep Bastion Ward*, raising physical barrier resistance across Nodes 1 to 4 and nullifying the larvae's acid bleed coating.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Hwang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with Flesh Pod 1).
+  * Specialist Hwang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with Flesh Pod 1).
   * Hwang spends 2 AP to declare `[Observing Scepter Void Thrust]`.
-  * Agent Song (Speed 5 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to ready `[Kinetic Cleaver Pincer Sweep]`. Remaining 1 AP held in Guard.
+  * Specialist Song (Speed 5 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to ready `[Kinetic Cleaver Pincer Sweep]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2)**:
   * Flesh Pod 1 declares `[Acid Bile Burst]` on Node 2 (Base 7 + 2 Coins = 11 Power).
   * Hwang's `[Observing Scepter Void Thrust]` (Base 9 + 2 Coins = 13 Power).
   * **Resolution**: Hwang WINS THE CLASH (13 vs 11).
     * Hwang's scepter pierces the pod's central valve, dealing 34 Void damage and inflicting +18 Stagger.
-  * Agent Song cleaves incoming larvae at Node 4, dealing 28 kinetic damage and preventing encirclement.
+  * Specialist Song cleaves incoming larvae at Node 4, dealing 28 kinetic damage and preventing encirclement.
 
 ```text
 {box_larvae_turns}
@@ -133,9 +133,9 @@ box_drowners_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET DUS
     "POS     : [DROWNER]     [PARK]  [HWANG]         [KIM]          [MAJIN]",
     "DIST    : Park at N03 (Band 2); Hwang at N04 (Band 3); Kim at N06.",
     "---",
-    "Agent Park    : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Lament Requiem",
-    "Agent Hwang   : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Guardian Shield",
-    "Agent Kim     : Speed 5 -> 3 AP | HP: 105/105 | SP: +20 | Kinetic Carbine",
+    "Specialist Park    : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Lament Requiem",
+    "Specialist Hwang   : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Guardian Shield",
+    "Specialist Kim     : Speed 5 -> 3 AP | HP: 105/105 | SP: +20 | Kinetic Carbine",
     "Gilded Drowner: Speed 4 -> 2 AP | HP: 280/280 | Sorrow: 60% | Void Beam"
 ])
 
@@ -151,13 +151,13 @@ box_drowners_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "1. Environmental Check : Violet laser conduits overload and power down.",
     "2. Status Equilibrium : Void radiation drains; team SP stabilizes at +30.",
     "3. Containment Check   : All three monuments neutralized across floors.",
-    "4. OUTCOME             : ZERO AGENT CASUALTIES, +22 REFINED RHR."
+    "4. OUTCOME             : ZERO SPECIALIST CASUALTIES, +22 REFINED RHR."
 ])
 
-target_drowners_start = "##### Ordeal Manifestation: Third Watch (Dusk) Ordeal — The Gilded Drowners"
+target_drowners_start = "##### Ordeal Manifestation: Third Watch Ordeal — The Gilded Drowners"
 target_drowners_end = "- **All 3 monuments shatter within 38 seconds of arrival! Zero agent casualties!** +22 RHR harvested."
 
-new_drowners_full = f"""##### Ordeal Manifestation: Third Watch (Dusk) Ordeal — The Gilded Drowners
+new_drowners_full = f"""##### Ordeal Manifestation: Third Watch Ordeal — The Gilded Drowners
 At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Third Watch Ordeal has arrived:
 
 ```text
@@ -177,7 +177,7 @@ At 0.145 tons harvested, the facility's emergency sirens shift from amber to vio
 Three colossal gilded monuments materialize simultaneously across the facility spine, channeling high-yield Void laser arrays across entire corridors!
 
 Director Majin coordinates tri-sector suppression on the 10-node grid:
-- **Floor 1 Primary Sector**: Agent Park, Agent Hwang, and Agent Kim engage Monument Alpha.
+- **Floor 1 Primary Sector**: Specialist Park, Specialist Hwang, and Specialist Kim engage Monument Alpha.
 - **Floor 3 Sector**: Extraction Lead Zyrak activates terminal dampeners.
 - **Floor 5 Sector**: Border Lead Mellda locks down the blast sluices.
 
@@ -187,16 +187,16 @@ Director Majin coordinates tri-sector suppression on the 10-node grid:
 
 ###### Turn 01 Action Resolution Log (Floor 1 Main Corridor)
 - **Step 1: Floor 1 Echo-Core Resonance (Director Majin & Secretary Seiyon)**:
-  * Majin deploys *The Command Eye*, rerolling Agent Park's Speed Die from 4 to 6, granting 3 Action Points.
+  * Majin deploys *The Command Eye*, rerolling Specialist Park's Speed Die from 4 to 6, granting 3 Action Points.
   * Secretary Seiyon broadcasts *Administrative Clarity*, preparing +15 SP restoration on first clash victory.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Park (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Close Range Band 2).
+  * Specialist Park (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Close Range Band 2).
   * Park spends 2 AP to prepare `[Lament Requiem Heavy Smite]`.
-  * Agent Hwang (Speed 5 -> 3 AP) advances to Node 3 beside Park, spending 2 AP to deploy `[Guardian Shield Reflection Mantlet]`.
-  * Agent Kim (Speed 5 -> 3 AP) holds Node 6, aiming concentrated rifle fire at the monument's optical lens.
+  * Specialist Hwang (Speed 5 -> 3 AP) advances to Node 3 beside Park, spending 2 AP to deploy `[Guardian Shield Reflection Mantlet]`.
+  * Specialist Kim (Speed 5 -> 3 AP) holds Node 6, aiming concentrated rifle fire at the monument's optical lens.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * The Gilded Drowner charges `[Void Prismatic Ray]` targeting Node 3 (Base 8 + 2 Coins = 12 Power).
-  * Agent Park's `[Lament Requiem Heavy Smite]` (Base 9 + 2 Coins = 14 Power).
+  * Specialist Park's `[Lament Requiem Heavy Smite]` (Base 9 + 2 Coins = 14 Power).
   * **Resolution**: Park WINS THE CLASH (14 vs 12).
     * Park's warhammer smashes into the focusing crystal, disrupting the beam charge and dealing 42 Lament damage with +24 Stagger!
   * Hwang's shield absorbs the stray refractive discharge, taking 0 damage.
@@ -227,8 +227,8 @@ box_statue_hud = make_box("COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SE-055 
     "POS     : [STATUE]      [BAE]           [HWANG]         [CONSOLE]",
     "DIST    : Bae at N02 (Band 1); Hwang at N04 (Band 2); Console at N05.",
     "---",
-    "Agent Bae   : Speed 6 -> 3 AP | HP: 130/130 | SP: +25 | Bulwark Maul",
-    "Agent Hwang : Speed 5 -> 3 AP | HP: 115/115 | SP: +25 | Guardian Aegis",
+    "Specialist Bae   : Speed 6 -> 3 AP | HP: 130/130 | SP: +25 | Bulwark Maul",
+    "Specialist Hwang : Speed 5 -> 3 AP | HP: 115/115 | SP: +25 | Guardian Aegis",
     "The Iron Statue : Speed 3 -> 2 AP | HP: 300/300 | Sorrow: 75% | Iron Fist"
 ])
 
@@ -252,7 +252,7 @@ target_statue_end = "- Work concludes with **10/10 Positive Han crystals extract
 
 new_statue_full = f"""##### Work Session 1: Pugnahan Combat Work on SE-055 (The Iron Statue)
 Majin issues heavy combat dispatch:
-- `[DISPATCH ORDER: Agent Bae -> Sector 5, Chamber 055 (The Iron Statue)]`
+- `[DISPATCH ORDER: Specialist Bae -> Sector 5, Chamber 055 (The Iron Statue)]`
 - `[ASSIGNED PROTOCOL: Pugnahan Confrontation]`
 - `[OBJECTIVE: Engage meteoric entity in direct physical clash testing endurance]`
 
@@ -266,11 +266,11 @@ Majin issues heavy combat dispatch:
 | - High physical armor; crushing downward fist|
 | - Retaliates violently against weak attacks  |
 | - Requires strict kinetic dampening clamps   |
-| TACTICAL DISPATCH: AGENT BAE & AGENT HWANG   |
+| TACTICAL DISPATCH: SPECIALIST BAE & SPECIALIST HWANG   |
 +==============================================+
 ```
 
-Agent Bae enters the containment chamber, wielding the heavy *Bulwark Maul*. The air inside Chamber 055 smells of scorched metallic ozone. At Node 1, the colossal iron idol rises from its stone pedestal, curling its massive pneumatic fist!
+Specialist Bae enters the containment chamber, wielding the heavy *Bulwark Maul*. The air inside Chamber 055 smells of scorched metallic ozone. At Node 1, the colossal iron idol rises from its stone pedestal, curling its massive pneumatic fist!
 
 Director Majin establishes the 10-node chamber grid:
 
@@ -280,14 +280,14 @@ Director Majin establishes the 10-node chamber grid:
 
 ###### Turn 01 Action Resolution Log (Chamber 055)
 - **Step 1: Floor 2 Echo-Core Resonance (Dekan)**:
-  * Dekan's *Bastion Ward* reinforces Agent Bae's armor plating, granting +40% kinetic damage absorption.
+  * Dekan's *Bastion Ward* reinforces Specialist Bae's armor plating, granting +40% kinetic damage absorption.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Bae (Speed 6 -> 3 AP) advances to Node 2 (Point-Blank Range Band 1).
+  * Specialist Bae (Speed 6 -> 3 AP) advances to Node 2 (Point-Blank Range Band 1).
   * Bae spends 2 AP to declare `[Pugnahan Kinetic Suppression Strike]`.
-  * Agent Hwang (Speed 5 -> 3 AP) holds Node 4 behind the acoustic baffle, spending 2 AP to operate the `[Acoustic Resonance Clamping Console]`.
+  * Specialist Hwang (Speed 5 -> 3 AP) holds Node 4 behind the acoustic baffle, spending 2 AP to operate the `[Acoustic Resonance Clamping Console]`.
 - **Step 3: Clash Standoff (Node 2)**:
   * The Iron Statue declares `[Meteorite Heavy Fist]` (Base 9 + 2 Coins = 13 Power).
-  * Agent Bae's `[Pugnahan Suppression Strike]` (Base 10 + 2 Coins = 15 Power).
+  * Specialist Bae's `[Pugnahan Suppression Strike]` (Base 10 + 2 Coins = 15 Power).
   * **Resolution**: Bae WINS THE CLASH (15 vs 13).
     * Bae's maul collides directly with the descending iron knuckles. The kinetic shockwave rings like a cathedral bell, canceling the statue's strike and inflicting +22 Stagger buildup!
   * Hwang triggers the acoustic clamps, sapping the entity's kinetic momentum and reducing its Sorrow Gauge by 20%.
@@ -319,8 +319,8 @@ box_hive_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER DUSK ORD
     "DIST    : Mellda at N03 (Band 1); Bae at N04 (Band 2); Kang at N06.",
     "---",
     "Border Lead Mellda: Speed 5 -> 3 AP | HP: 190/190 | SP: +30 | Threshold Vow",
-    "Agent Bae         : Speed 6 -> 3 AP | HP: 135/135 | SP: +25 | Bulwark Maul",
-    "Agent Kang        : Speed 6 -> 3 AP | HP: 125/125 | SP: +25 | Fury Greatsword",
+    "Specialist Bae         : Speed 6 -> 3 AP | HP: 135/135 | SP: +25 | Bulwark Maul",
+    "Specialist Kang        : Speed 6 -> 3 AP | HP: 125/125 | SP: +25 | Fury Greatsword",
     "The Churning Hive : Speed 4 -> 2 AP | HP: 360/360 | Sorrow: 65% | Sub-Maw"
 ])
 
@@ -372,14 +372,14 @@ Director Majin establishes GBS tactical positioning:
   * Mellda engages *Blast Gate Lockdown*, dropping heavy steel portcullises at Node 4 to isolate Nodes 1–3 and trap the beast in the gateway vestibule.
 - **Step 2: Movement & Action Point Spending**:
   * Border Lead Mellda (Speed 5 -> 3 AP) stands firm at Node 3 (Range Band 1). Spends 2 AP to prepare `[Threshold Vow Bulwark Stance]`.
-  * Agent Bae (Speed 6 -> 3 AP) steps up to Node 3 beside Mellda, spending 2 AP to ready `[Bulwark Maul Impact Strike]`. Remaining 1 AP in Guard.
-  * Agent Kang (Speed 6 -> 3 AP) holds Node 6 with his two-handed greatsword, spending 1 AP to sprint to Node 4 and 2 AP to wind up `[Fury Cleave]`.
+  * Specialist Bae (Speed 6 -> 3 AP) steps up to Node 3 beside Mellda, spending 2 AP to ready `[Bulwark Maul Impact Strike]`. Remaining 1 AP in Guard.
+  * Specialist Kang (Speed 6 -> 3 AP) holds Node 6 with his two-handed greatsword, spending 1 AP to sprint to Node 4 and 2 AP to wind up `[Fury Cleave]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * The Churning Hive declares `[Tectonic Mandible Crush]` on Node 3 (Base 9 + 2 Coins = 13 Power).
   * Mellda's `[Threshold Vow Bulwark Stance]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Mellda WINS THE CLASH (15 vs 13).
     * Mellda's golden arm-blade locks the centipede's primary mandibles. The jarring counter-force reverberates through the beast's chitinous segments, dealing 36 Grudge damage and inflicting +24 Stagger!
-  * Agent Bae slams his maul into the exposed ventral plate, dealing 34 Weight damage.
+  * Specialist Bae slams his maul into the exposed ventral plate, dealing 34 Weight damage.
 
 ```text
 {box_hive_turns}

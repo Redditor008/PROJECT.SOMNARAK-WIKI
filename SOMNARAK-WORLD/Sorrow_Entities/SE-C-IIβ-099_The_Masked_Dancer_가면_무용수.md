@@ -265,7 +265,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Acknowledging exhaustion reduces its pace.
 
 **Personnel Note:**
-> *"I saw the tear beneath the mask. The dance was not joy. It was the work of keeping everyone else's impossible wish alive."* — Agent Kkotlom Lee, Mask Market
+> *"I saw the tear beneath the mask. The dance was not joy. It was the work of keeping everyone else's impossible wish alive."* — Specialist Kkotlom Lee, Mask Market
 
 
 
@@ -406,6 +406,6 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 ## Document Information
 
 **Document ID:** SE-C-IIβ-099
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4213
 **Classification:** Restricted

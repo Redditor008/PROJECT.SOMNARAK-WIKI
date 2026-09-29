@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-905` — Lacrima  
 **Source SECC Designation:** `N-Iα-905 [VO]`  
 **Item Registry Code:** `MAW-S-905-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Lacrima — Witnessed Form*, Lacrima's Veil performs the suit role while
 **Document ID:** `SE-905-C`  
 **Linked Entity:** `SE-905`  
 **Item Registry Code:** `MAW-S-905-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

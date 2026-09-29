@@ -50,7 +50,7 @@ Levity’s lacquer is bright, bloodless-cold, and faintly scented with ash. Its 
 
 **Reliable distinction:** Genuine, unscripted laughter makes Levity briefly silent. Deliberate amusement, nervous laughter, and imitation can trigger or strengthen it.
 
-> *“The mask copied my laugh correctly. That was how I learned mine had not been honest for a long time.”* — Agent Hanul Grey
+> *“The mask copied my laugh correctly. That was how I learned mine had not been honest for a long time.”* — Specialist Hanul Grey
 
 **Still unresolved:** whether the mask retains the performer’s own voice; how many borrowed laughs remain in its chorus; and whether silence indicates recognition, interruption, or inability to imitate genuine joy.
 

@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its leaves fall during border negotiations.
 - It becomes more active during the Sorrow Tide.
 
-**Personnel Note:** *"It was mourning the border, not the people on either side. I felt longing for a place where the line had never been drawn."* — Agent, Zone D patrol
+**Personnel Note:** *"It was mourning the border, not the people on either side. I felt longing for a place where the line had never been drawn."* — Specialist, Zone D patrol
 
 
 
@@ -417,6 +417,6 @@ Some sorrows mourn a home. Border Tree mourns the lines — the borders that mov
 ## Document Information
 
 **Document ID:** SE-O-IVδ-151
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Restricted

@@ -7,7 +7,7 @@
 **Document ID:** `SE-315-C`  
 **Linked Entity:** `SE-315` — Unsprouted Life  
 **Item Registry Code:** `MAW-S-315-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Core grows outside, Shroud separates, Requiem cuts detached roots.
 **Document ID:** `SE-315-C`  
 **Linked Entity:** `SE-315`  
 **Item Registry Code:** `MAW-S-315-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

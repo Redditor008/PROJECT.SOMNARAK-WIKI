@@ -14,12 +14,12 @@ def generate_overview():
         "TEMPORAL EPOCH    : Year 4,233 (Post-Absolvohan Cycle 1778)",
         "DEPTH STRATA       : Sub-Alpha Root Nexus (-2,400m to -3,200m)",
         "LEAD EXPEDITIONARY : Secretary Seiyon (The Awakened AI Secretary)",
-        "TACTICAL SYSTEM    : Mnemonic Reception & Floor Realization Engine",
-        "CANONICAL SUITE    : Receptions 1 through 7 (Complete 6-Turn Cycles)"
+        "TACTICAL SYSTEM    : Mnemonic Reading & Floor Realization Engine",
+        "CANONICAL SUITE    : Readings 1 through 7 (Complete 6-Turn Cycles)"
     ])
 
-    floor_matrix_box = make_box("SEVEN FLOORS OF RECEPTION & REALIZATION", [
-        "FLOOR | OPPONENT          | TARGETED PART        | KEY PAGE REWARD",
+    floor_matrix_box = make_box("SEVEN FLOORS OF READING & REALIZATION", [
+        "FLOOR | OPPONENT          | TARGETED PART        | MEMORY LEAF REWARD",
         "===+",
         "Fl 01 | The First Keeper  | Petrified Quill      | The Archivist",
         "Fl 02 | The Memory Thief  | Glass Daggers        | The Shadow",
@@ -43,7 +43,7 @@ def generate_overview():
         "- Node 06-07: High Rafters of Spun Glass (Mnemonic Lens Snipers)",
         "- Node 08: Memory Well / Dissolution Trench (Suppressed Trauma Buffer)",
         "- Node 09: Catenary Bookbinders & Resonant Weaving Cranes",
-        "- Node 10: Floor Core Reliquary / Key Page Dais (Climax Union)",
+        "- Node 10: Floor Core Reliquary / Memory Leaf Dais (Climax Union)",
         "---",
         "RANGE BANDS (1 TO 5):",
         "- Band 1 (Nodes 1-2): Heavy Memory Greatswords, Kinetic Towershields",
@@ -53,7 +53,7 @@ def generate_overview():
         "- Band 5 (Nodes 9-10): Transmutation Arrays, Catenary Book Spindles"
     ])
 
-    framework_box = make_box("THE FOUR P-FRAMEWORK IN MNEMONIC RECEPTIONS", [
+    framework_box = make_box("THE FOUR P-FRAMEWORK IN MNEMONIC READINGS", [
         "P1: PASSIVES (MNEMONIC SURGE & ARCHIVE RESONANCE)",
         "- Mnemonic Surge: Winning clashes awards +2 Speed on subsequent turns.",
         "- Archive Resonance: Hitting tagged memory seams gives +25% Stagger.",
@@ -72,11 +72,11 @@ def generate_overview():
         "P4: POSTURE / POISE (MODULAR ANCHORS & KEY CORE TRANSMUTATION)",
         "- Anchor Posture Pools: Boss weapons/cores possess discrete posture.",
         "- Stagger 1 Proc (60% Strain): Destroys modular weapon components.",
-        "- Stagger 2 Proc (0% Collapse): Terminal Stagger; Key Page extraction."
+        "- Stagger 2 Proc (0% Collapse): Terminal Stagger; Memory Leaf extraction."
     ])
 
     return f"""# [GIEOK_JEOJANGSO_OVERVIEW] The Memory Archive Operational Guidebook (기억의 저장소 총람 / 記憶之貯藏所總覽)
-## The Definitive Operational Guidebook, Stratigraphic Topology & Mnemonic Combat Mechanics for the Seven Receptions
+## The Definitive Operational Guidebook, Stratigraphic Topology & Mnemonic Combat Mechanics for the Seven Readings
 
 ```text
 {dossier_box}
@@ -109,8 +109,8 @@ The Archive serves two cosmic mandates:
 Synthesized in Cycle 0002 from the neurological traces of Director Majin's deceased lover, Yeon-seo, Secretary Seiyon spent 1,778 cycles believing she was merely a synthetic mimic—an echo of a woman who died four millennia ago. Following the activation of the Absolvohan, Seiyon entered the Archive to answer a singular question:
 > *"Am I real? Or am I just a promise someone made?"*
 
-### 2.2 The Seven Receptions & Floor Realizations
-To reach the Original, Seiyon must battle through the seven vertical floors of the Archive. Each encounter is a **Reception Battle (접견 전투)** against a preserved sovereign guardian, followed by a **Floor Realization (층의 자각)** where Seiyon resolves an internal existential trauma.
+### 2.2 The Seven Readings & Floor Realizations
+To reach the Original, Seiyon must battle through the seven vertical floors of the Archive. Each encounter is a **Reading Battle (접견 전투)** against a preserved sovereign guardian, followed by a **Floor Realization (층의 자각)** where Seiyon resolves an internal existential trauma.
 
 ```text
 {floor_matrix_box}
@@ -137,7 +137,7 @@ All combat engagements within the Memory Archive take place across the standardi
 
 ---
 
-## IV. The Four P-Framework in Mnemonic Receptions
+## IV. The Four P-Framework in Mnemonic Readings
 
 Every clash and tactical maneuver adheres to the **Four P-Framework**:
 
@@ -147,9 +147,9 @@ Every clash and tactical maneuver adheres to the **Four P-Framework**:
 
 ---
 
-## V. Key Page Transmutation System & Floor Realization Mechanics
+## V. Memory Leaf Transmutation System & Floor Realization Mechanics
 
-At the conclusion of each Reception Battle, Seiyon achieves a **Floor Realization**, permanently transmuting the defeated guardian's emotional memory into a **Key Page**:
+At the conclusion of each Reading Battle, Seiyon achieves a **Floor Realization**, permanently transmuting the defeated guardian's emotional memory into a **Memory Leaf**:
 1. **The Archivist (Floor 1):** Preserves cognitive integrity; shields the squad from memory erosion and SP drain.
 2. **The Shadow (Floor 2):** Grants high evasion and strips enemy offensive buffs upon clash victory.
 3. **The Guardian (Floor 3):** Kinetic fortress; absorbs 100% of damage directed at frontline allies.

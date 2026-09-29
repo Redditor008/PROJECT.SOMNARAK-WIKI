@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes more active near broken tools.
 - Personnel report emptiness when the pieces fail to reconnect.
 
-**Personnel Note:** *"It was moving. I felt emptiness. The pieces were trying to become useful again, but usefulness was the thing that had broken them."* — Agent, Zone B patrol
+**Personnel Note:** *"It was moving. I felt emptiness. The pieces were trying to become useful again, but usefulness was the thing that had broken them."* — Specialist, Zone B patrol
 
 
 

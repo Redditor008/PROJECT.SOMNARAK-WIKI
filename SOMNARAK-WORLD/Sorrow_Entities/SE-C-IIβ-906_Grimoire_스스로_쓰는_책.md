@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The tale pressure is different from standard grudge. It does not press on the body — it presses on the tale itself. You feel it before you understand what is happening."* — Agent, Field Team 11
+> *"The tale pressure is different from standard grudge. It does not press on the body — it presses on the tale itself. You feel it before you understand what is happening."* — Specialist, Field Team 11
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -347,7 +347,7 @@ The entity does not rage. It does not weep. It persists — tale and grudge, pat
 
 *"The first Object-Tale entity. The file is short because we are still writing it."* — Archive
 *"Standard grudge protocols assume the pressure is uniform. It is not. The tale register is specific."* — Researcher
-*"I have never felt grudge like this. It was as if the element had learned my name."* — Agent
+*"I have never felt grudge like this. It was as if the element had learned my name."* — Specialist
 *"The entity does not breach. It deepens. There is a difference."* — Containment Lead
 *"We contained it. We did not understand it. Those are not the same thing."* — Director
 

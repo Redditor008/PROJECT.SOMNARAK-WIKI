@@ -7,7 +7,7 @@
 **Document ID:** `SE-357-D`  
 **Linked Entity:** `SE-357` — Carrying Nothing  
 **Item Registry Code:** `MAW-G-357-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -36,7 +36,7 @@ The Gift helped lift a collapsed archive brace while the source burden remained 
 **Document ID:** `SE-357-D`  
 **Linked Entity:** `SE-357`  
 **Item Registry Code:** `MAW-G-357-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

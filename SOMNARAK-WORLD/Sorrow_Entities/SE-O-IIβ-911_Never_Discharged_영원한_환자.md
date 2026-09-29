@@ -219,7 +219,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The body pressure is different from standard weight. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Agent, Field Team 2
+> *"The body pressure is different from standard weight. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Specialist, Field Team 2
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -266,10 +266,10 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The body register is not in the manual. We learned it by failing."* — Agent, Field Team
+*"The body register is not in the manual. We learned it by failing."* — Specialist, Field Team
 *"I have worked weight entities for six years. This one is different. The body makes it personal."* — Handler
 *"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the body register for three days."* — Agent, Recovery
+*"After contact, I could not stop thinking in the body register for three days."* — Specialist, Recovery
 *"It is one of the first of its kind. We are still learning what Time-Body means."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record

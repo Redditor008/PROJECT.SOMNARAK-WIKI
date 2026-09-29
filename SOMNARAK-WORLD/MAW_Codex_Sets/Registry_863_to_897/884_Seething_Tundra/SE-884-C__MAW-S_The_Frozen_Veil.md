@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-884` — Seething Tundra  
 **Source SECC Designation:** `C-Iα-884 [VO]`  
 **Item Registry Code:** `MAW-S-884-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Seething Tundra — Witnessed Form*, The Frozen Veil performs the suit r
 **Document ID:** `SE-884-C`  
 **Linked Entity:** `SE-884`  
 **Item Registry Code:** `MAW-S-884-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

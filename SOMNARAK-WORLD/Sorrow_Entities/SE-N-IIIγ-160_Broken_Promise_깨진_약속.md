@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It distinguishes inability from deliberate betrayal.
 - Its shards can cut crystal but rarely cut flesh.
 
-**Personnel Note:** *"It was moving. I felt sorrow. The contract did not care whether the promise sounded beautiful; it cared whether someone had trusted it."* — Agent, Zone C patrol
+**Personnel Note:** *"It was moving. I felt sorrow. The contract did not care whether the promise sounded beautiful; it cared whether someone had trusted it."* — Specialist, Zone C patrol
 
 
 

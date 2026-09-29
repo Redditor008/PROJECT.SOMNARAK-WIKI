@@ -7,7 +7,7 @@
 **Document ID:** `SE-558-B`  
 **Linked Entity:** `SE-558` — Emberroot  
 **Item Registry Code:** `MAW-W-558-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ The Maul retains the sound of that halted swing. Near coerced obligation it hums
 
 Familiar Burden keeps the released Weight from crushing the team; Familiar Charm protects names while the line is split. In full resonance, misuse causes the Maul to follow family pathways instead of its aimed line.
 
-> *“It is not light after the blow. It is only mine—or not mine—at last.”* — Agent Durivel Cho
+> *“It is not light after the blow. It is only mine—or not mine—at last.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-558-B`  
 **Linked Entity:** `SE-558`  
 **Item Registry Code:** `MAW-W-558-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

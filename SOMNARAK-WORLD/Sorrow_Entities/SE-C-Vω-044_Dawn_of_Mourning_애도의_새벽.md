@@ -304,7 +304,7 @@ This is the healer who could not save herself. And this — all of this — is w
 
 ## 증언 (Testimonium) — The Testimony
 
-> *"I was there when the chain corrupted. I was the third person blessed. I felt the warmth — real warmth, real kindness — and I thought: this is what the city needs. This is what we all need. And then the twelfth blessing came, and the warmth turned cold, and I heard her voice change — not louder, not angrier, but *emptier*. The kindness was still there, but it was buried under six thousand years of grief that even she could not carry. And I became a Mourner. I spread sorrow because there was nothing else left to spread. The Confession saved me. It cost me everything — but it saved everyone else."* — Agent [REDACTED], the twelfth Mourner
+> *"I was there when the chain corrupted. I was the third person blessed. I felt the warmth — real warmth, real kindness — and I thought: this is what the city needs. This is what we all need. And then the twelfth blessing came, and the warmth turned cold, and I heard her voice change — not louder, not angrier, but *emptier*. The kindness was still there, but it was buried under six thousand years of grief that even she could not carry. And I became a Mourner. I spread sorrow because there was nothing else left to spread. The Confession saved me. It cost me everything — but it saved everyone else."* — Specialist [REDACTED], the twelfth Mourner
 
 > *"The Dawn is the only entity that makes the Maw look merciful. The Maw consumes. The Dawn mourns. And mourning — mourning for everything, forever, without end or relief — is worse than consumption. At least the consumed are gone. The mourned are still here. Still feeling. Still suffering."* — Commander Taeho
 

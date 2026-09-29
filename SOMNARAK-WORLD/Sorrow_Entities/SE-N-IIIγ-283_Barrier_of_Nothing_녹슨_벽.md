@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It does not physically obstruct passage.
 - Personnel report rage after waking from its dreams.
 
-**Personnel Note:** *"It was watching. I felt rage. The Wall had no mouth because every side had already said enough."* — Agent, Zone D patrol
+**Personnel Note:** *"It was watching. I felt rage. The Wall had no mouth because every side had already said enough."* — Specialist, Zone D patrol
 
 
 

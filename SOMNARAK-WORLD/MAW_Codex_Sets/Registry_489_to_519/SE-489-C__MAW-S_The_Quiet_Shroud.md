@@ -7,7 +7,7 @@
 **Document ID:** `SE-489-C`  
 **Linked Entity:** `SE-489` — Silence We Forgot We Made  
 **Item Registry Code:** `MAW-S-489-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Quiet Shroud is a shroud of blue Han-silk with luminous silence held outside
 **Document ID:** `SE-489-C`  
 **Linked Entity:** `SE-489`  
 **Item Registry Code:** `MAW-S-489-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

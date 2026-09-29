@@ -7,7 +7,7 @@
 **Document ID:** `SE-448-D`  
 **Linked Entity:** `SE-448` — Overflow  
 **Item Registry Code:** `MAW-G-448-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -32,7 +32,7 @@ The Overflow Ring is a cool crimson tail-ring of Han iron that appears only afte
 **Document ID:** `SE-448-D`  
 **Linked Entity:** `SE-448`  
 **Item Registry Code:** `MAW-G-448-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

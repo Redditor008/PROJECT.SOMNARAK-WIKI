@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1035` — Keen  
 **Source SECC Designation:** `O-Iα-453 [LS]`  
 **Item Registry Code:** `MAW-W-1035-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Keen — Witnessed Form*, The Crying Requiem performs the weapon role wh
 **Document ID:** `SE-1035-B`  
 **Linked Entity:** `SE-1035`  
 **Item Registry Code:** `MAW-W-1035-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

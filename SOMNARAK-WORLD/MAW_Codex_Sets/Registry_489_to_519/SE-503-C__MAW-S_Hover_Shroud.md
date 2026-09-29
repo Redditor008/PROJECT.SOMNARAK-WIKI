@@ -7,7 +7,7 @@
 **Document ID:** `SE-503-C`  
 **Linked Entity:** `SE-503` — Hover  
 **Item Registry Code:** `MAW-S-503-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Hover Shroud is a shroud of blue Han-silk carrying reflected injuries outsid
 **Document ID:** `SE-503-C`  
 **Linked Entity:** `SE-503`  
 **Item Registry Code:** `MAW-S-503-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

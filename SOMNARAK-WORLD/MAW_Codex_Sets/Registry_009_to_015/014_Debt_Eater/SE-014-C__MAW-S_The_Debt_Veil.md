@@ -48,7 +48,7 @@ The wearer feels faintly absent to themself. Friends may describe the wearer as 
 
 ## HISTORY OF USE
 
-A Debt Veil prevented an R.D. clerk from being hollowed during an unplanned Eater feeding event. The clerk kept the marked burden through the night, then removed the Veil without a witness. The debt returned as a full memory blackout lasting six hours. Current issue protocol requires a witness at removal.
+A Debt Veil prevented an R.D. auxiliary from being hollowed during an unplanned Eater feeding event. The auxiliary kept the marked burden through the night, then removed the Veil without a witness. The debt returned as a full memory blackout lasting six hours. Current issue protocol requires a witness at removal.
 
 ---
 

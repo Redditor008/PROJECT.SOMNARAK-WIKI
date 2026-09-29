@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Walls move subtly in response to speech.
 - Confusion follows attempts to identify its purpose too quickly.
 
-**Personnel Note:** *"It was waiting. I felt confusion. The room heard my words before I understood why I had said them."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt confusion. The room heard my words before I understood why I had said them."* — Specialist, Zone B patrol
 
 
 

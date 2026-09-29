@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-792` — Relic of a Thousand Owners  
 **Source SECC Designation:** `O-IVδ-792 [O]`  
 **Item Registry Code:** `MAW-W-792-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Hammer perfo
 **Document ID:** `SE-792-B`  
 **Linked Entity:** `SE-792`  
 **Item Registry Code:** `MAW-W-792-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

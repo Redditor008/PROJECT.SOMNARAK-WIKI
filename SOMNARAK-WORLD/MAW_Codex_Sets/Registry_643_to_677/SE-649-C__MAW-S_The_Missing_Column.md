@@ -7,7 +7,7 @@
 **Document ID:** `SE-649-C`  
 **Linked Entity:** `SE-649` — Unborn Monument  
 **Item Registry Code:** `MAW-S-649-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -39,7 +39,7 @@ The Missing Column is a columnar plate of pale Han glass with a deliberately hol
 **Document ID:** `SE-649-C`  
 **Linked Entity:** `SE-649`  
 **Item Registry Code:** `MAW-S-649-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

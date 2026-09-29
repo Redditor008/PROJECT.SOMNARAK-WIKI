@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Instruments record pressure but not speech.
 - Personnel wake from exposure afraid of ordinary water.
 
-**Personnel Note:** *"It was glowing beneath my thoughts. I felt fear. The fear was not of drowning; it was of calling and hearing no answer."* — Agent, Zone D patrol
+**Personnel Note:** *"It was glowing beneath my thoughts. I felt fear. The fear was not of drowning; it was of calling and hearing no answer."* — Specialist, Zone D patrol
 
 
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-944` — Calling Bloom  
 **Source SECC Designation:** `O-IIIβ-944 [LS]`  
 **Item Registry Code:** `MAW-S-944-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Calling Bloom — Witnessed Form*, The Petal Mantle performs the suit ro
 **Document ID:** `SE-944-C`  
 **Linked Entity:** `SE-944`  
 **Item Registry Code:** `MAW-S-944-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

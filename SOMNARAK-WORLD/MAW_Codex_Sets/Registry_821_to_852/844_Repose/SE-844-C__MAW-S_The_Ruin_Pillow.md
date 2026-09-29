@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-844` — Repose  
 **Source SECC Designation:** `O-IVδ-844 [N]`  
 **Item Registry Code:** `MAW-S-844-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Repose — Witnessed Form*, The Ruin Pillow performs the suit role while
 **Document ID:** `SE-844-C`  
 **Linked Entity:** `SE-844`  
 **Item Registry Code:** `MAW-S-844-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -51,7 +51,7 @@ Zyrak, Mellda, and Dekan lead around-the-clock engineering shifts to dismantle t
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 149 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -126,28 +126,28 @@ Meltdown Level VI triggered across six core baseline chambers at 13:40. The enti
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 149                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-008 (The Maw)   | Flere  | -12%  | +0.02                         |
-| Agent Shin Grade 4 | Lament | CALM  | 26 OP                         |
+| Specialist Shin Grade 4 | Lament | CALM  | 26 OP                    |
 +---------------------------------------------------------------------+
 | SE-001 (Bell)      | Flere  | -10%  | +0.02                         |
-| Agent Park Grade 4 | Lament | CALM  | 25 OP                         |
+| Specialist Park Grade 4 | Lament | CALM  | 25 OP                    |
 +---------------------------------------------------------------------+
 | SE-014 (Veil)      | Videre | -08%  | +0.02                         |
-| Agent Lee Grade 4  | Void   | STBL  | 22 OP                         |
+| Specialist Lee Grade 4  | Void   | STBL  | 22 OP                    |
 +---------------------------------------------------------------------+
 | SE-025 (Child)     | Flere  | -09%  | +0.02                         |
-| Agent Choi Grade 4 | Lament | CALM  | 24 OP                         |
+| Specialist Choi Grade 4 | Lament | CALM  | 24 OP                    |
 +---------------------------------------------------------------------+
 | SE-036 (Hourglass) | Pugna  | -11%  | +0.02                         |
-| Agent Kang Grade 4 | Grudge | STBL  | 25 OP                         |
+| Specialist Kang Grade 4 | Grudge | STBL  | 25 OP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.108 TONS PURE HAN                        |
 +=====================================================================+
 ```
 
-Agent Shin performed peaceful *Flerehan* communion at the edge of the Maw. Wearing the *Tranquil Shroud*, Shin hummed in resonance with the cool cobalt pool, draining 12% of the Sorrow Gauge and harvesting 0.02 tons of radiant azure Han.
+Specialist Shin performed peaceful *Flerehan* communion at the edge of the Maw. Wearing the *Tranquil Shroud*, Shin hummed in resonance with the cool cobalt pool, draining 12% of the Sorrow Gauge and harvesting 0.02 tons of radiant azure Han.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -192,7 +192,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 | DIST : Fireflies at N02; Park at N03 (Band 1); Seiyon at N05        |
 | (Console).                                                          |
 +---------------------------------------------------------------------+
-| Agent Park : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Lament       |
+| Specialist Park : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Lament  |
 | Requiem                                                             |
 | Secretary Seiyon : Speed 5 -> 3 AP | HP: 200/200 | SP: +50          |
 | Acoustic Matrix                                                     |
@@ -206,7 +206,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
   * Seiyon deploys *The Acoustic Matrix*, tuning Floor 1's resonance dampers to match the fireflies' gentle resonance frequency.
 - **Step 2: Movement & Action Point Spending**:
   * Secretary Seiyon (Speed 5 -> 3 AP) operates from Node 5 (Mid-Field Range Band 3). Spends 2 AP to execute `[Flerehan Acoustic Synchronization]`. Remaining 1 AP in Guard.
-  * Agent Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
+  * Specialist Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
 - **Step 3: Clash Resolution (Harmonic Communion)**:
   * Floating Fireflies declare `[Gentle Life Shockwave]` (Base 9 + 2 Coins = 13 Power).
   * Seiyon's `[Flerehan Acoustic Synchronization]` (Base 11 + 2 Coins = 15 Power).
@@ -224,12 +224,12 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 | [FIREFLIES] [PARK] [SEIYON] [MAJIN]                                 |
 +---------------------------------------------------------------------+
 | - Node 01: Swarm of Twilight Fireflies (Agitation 52/120 / Chime)   |
-| - Node 03: Agent Park (Range Band 2 / Flerehan Acoustic Staff)      |
+| - Node 03: Specialist Park (Range Band 2 / Flerehan Acoustic Staff) |
 | - Node 05: Secretary Seiyon (Range Band 3 / Tuning Conduit Valves)  |
 | - Node 08: Director Majin (Command Console / Manifold Monitoring)   |
 +---------------------------------------------------------------------+
 | - Seiyon : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70      |
-| - Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 65/65 |
+| - Park  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 65/65       |
 | - Fireflies : Spd 4 -> 2 AP                                         |
 |   | Agitation 52/120 [60% STAGGER TRIGGER]                          |
 +=====================================================================+
@@ -238,7 +238,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 ###### Turn 02 Action Resolution Log (Conduit Tuning & Harmonic Stagger)
 - **Acoustic Alignment & Stagger Induction**:
   * Secretary Seiyon tunes the Floor 1 acoustic bypass to resonate in harmonic equilibrium.
-  * Agent Park channels a gentle Flerehan wave from Node 03:
+  * Specialist Park channels a gentle Flerehan wave from Node 03:
     * Deals **0 Physical Harm**, delivering **38 Harmonic Pacification Points**!
     * Agitation drops to **52/120**, crossing the **60% Stagger Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The fireflies cease defensive darting and begin a slow, synchronized orbital dance.
@@ -254,18 +254,18 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 | [SWARM] [PARK]          [SEIYON]                [MAJIN]             |
 +---------------------------------------------------------------------+
 | - Node 02: Swarm (Advancing Calmly / Agitation 28/120 / Hope 75%)   |
-| - Node 03: Agent Park (Momentum Surge / Choral Resonance Amplified) |
+| - Node 03: Park (Momentum Surge / Choral Resonance Amplified)       |
 | - Node 05: Secretary Seiyon (Priming Manifold Intake Flanges)       |
 +---------------------------------------------------------------------+
 | - Seiyon : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70      |
-| - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +35 | Postu |
+| - Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +35 | Postu       |
 | - Fireflies : Spd 3 -> 1 AP | Agitation 28/120 | Hope Index +75%    |
 +=====================================================================+
 ```
 
 ###### Turn 03 Action Resolution Log (Hope Conversion & Momentum Surge)
 - **Resonant Harmonization (1.5x Harmonic Multiplier)**:
-  * Agent Park's `Momentum Surge` activates! (+2 Speed next turn).
+  * Specialist Park's `Momentum Surge` activates! (+2 Speed next turn).
   * Park channels pure weeping accord, converting remaining sorrow frequencies into golden Hope.
   * Firefly Agitation drops to **28/120**; swarm Hope index rises to **+75%**.
 
@@ -280,11 +280,11 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 | [SWARM] [PARK]  [SEIYON]                [MAJIN]                     |
 +---------------------------------------------------------------------+
 | - Node 03: Fireflies Swarm (Encircled Around Open Acoustic Valve)   |
-| - Node 04: Agent Park (Directional Guard Absorption / Guided Flow)  |
+| - Node 04: Park (Directional Guard Absorption / Guided Flow)        |
 | - Node 05: Secretary Seiyon (Opening Primary Intake Manifold)       |
 +---------------------------------------------------------------------+
 | - Seiyon : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70      |
-| - Agent Park  : Spd 8 -> 4 AP | HP 120/120 | SP +35 | Posture 65/65 |
+| - Park  : Spd 8 -> 4 AP | HP 120/120 | SP +35 | Posture 65/65       |
 | - Fireflies : Spd 2 -> 1 AP | Agitation 12/120 | Hope Index +90%    |
 +=====================================================================+
 ```
@@ -308,7 +308,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 +---------------------------------------------------------------------+
 | - Node 04: Fireflies (TERMINAL STAGGER / AGITATION 0/120 / PURE     |
 |   HOPE)                                                             |
-| - Node 04: Agent Park (Executing Viderehan Harmonic Phase Lock)     |
+| - Node 04: Park (Executing Viderehan Harmonic Phase Lock)           |
 | - Node 05: Secretary Seiyon (Aligning Pressure Gradients)           |
 +---------------------------------------------------------------------+
 | - Fireflies : Spd 0 -> 0 AP | Agitation 0/120 | Transmutation: 10   |
@@ -372,7 +372,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 | DIST : Fireflies at N02; Park at N03 (Band 1); Seiyon at N05        |
 | (Console).                                                          |
 +---------------------------------------------------------------------+
-| Agent Park : Speed 6 -> 3 AP | HP: 140/140 | SP: +45                |
+| Specialist Park : Speed 6 -> 3 AP | HP: 140/140 | SP: +45           |
 | | Lament Requiem                                                    |
 | Secretary Seiyon : Speed 5 -> 3 AP | HP: 200/200 | SP: +50          |
 | | Acoustic Matrix                                                   |
@@ -386,7 +386,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
   * Seiyon deploys *The Acoustic Matrix*, tuning Floor 1's resonance dampers to match the fireflies' gentle resonance frequency.
 - **Step 2: Movement & Action Point Spending**:
   * Secretary Seiyon (Speed 5 -> 3 AP) operates from Node 5 (Mid-Field Range Band 3). Spends 2 AP to execute `[Flerehan Acoustic Synchronization]`. Remaining 1 AP in Guard.
-  * Agent Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
+  * Specialist Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
 - **Step 3: Clash Resolution (Harmonic Communion)**:
   * Floating Fireflies declare `[Gentle Life Shockwave]` (Base 9 + 2 Coins = 13 Power).
   * Seiyon's `[Flerehan Acoustic Synchronization]` (Base 11 + 2 Coins = 15 Power).
@@ -442,10 +442,10 @@ Three floating Pale fireflies manifested directly above the open dispersal manif
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +35 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Shin: +5 Clarity (Sanity Pool Up)                           |
-| - Agent Kang: +5 Resilience (HP Pool Up)                            |
-| - Agent Park: +5 Composure (Work Success Up)                        |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Shin: +5 Clarity (Sanity Pool Up)                      |
+| - Specialist Kang: +5 Resilience (HP Pool Up)                       |
+| - Specialist Park: +5 Composure (Work Success Up)                   |
 +=====================================================================+
 ```
 
@@ -453,7 +453,7 @@ Three floating Pale fireflies manifested directly above the open dispersal manif
 
 - **Source Entity:** SE-C-IIIβ-036 (*The Cracked Hourglass*)
 - **Extracted Armament:** *Chrono Lens* (Eye/Visor Slot)
-- **Gift Properties:** Grants the wearer ability to slow local time by 20% during emergency suppression, doubling dodge agility and work reaction speeds. Allocated to Agent Kang.
+- **Gift Properties:** Grants the wearer ability to slow local time by 20% during emergency suppression, doubling dodge agility and work reaction speeds. Allocated to Specialist Kang.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -499,7 +499,7 @@ Containment harvesting achieves pristine quality, yielding 0.110 tons of pure Ha
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 151 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -574,28 +574,28 @@ Meltdown Level VI triggered across six sorrow and weeping chambers at 13:10. All
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 151                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-008 (The Maw)   | Flere  | -15%  | +0.02                         |
-| Agent Shin Grade 4 | Lament | CALM  | 28 OP                         |
+| Specialist Shin Grade 4 | Lament | CALM  | 28 OP                    |
 +---------------------------------------------------------------------+
 | SE-001 (Bell)      | Flere  | -12%  | +0.02                         |
-| Agent Park Grade 4 | Lament | CALM  | 26 OP                         |
+| Specialist Park Grade 4 | Lament | CALM  | 26 OP                    |
 +---------------------------------------------------------------------+
 | SE-025 (Child)     | Flere  | -11%  | +0.02                         |
-| Agent Choi Grade 4 | Lament | CALM  | 25 OP                         |
+| Specialist Choi Grade 4 | Lament | CALM  | 25 OP                    |
 +---------------------------------------------------------------------+
 | SE-081 (Saint)     | Flere  | -14%  | +0.02                         |
-| Agent Hong Grade 4 | Lament | CALM  | 27 OP                         |
+| Specialist Hong Grade 4 | Lament | CALM  | 27 OP                    |
 +---------------------------------------------------------------------+
 | SE-140 (Willow)    | Flere  | -12%  | +0.02                         |
-| Agent Bae Grade 4  | Lament | CALM  | 26 OP                         |
+| Specialist Bae Grade 4  | Lament | CALM  | 26 OP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.110 TONS PURE HAN                        |
 +=====================================================================+
 ```
 
-Agent Bae sat beneath the branches of SE-C-IIIγ-140 (*The Weeping Willow*), humming the lullaby in harmony with the Maw. The tree lowered its shimmering green boughs to shelter her, draining 12% of its Sorrow Gauge and yielding 0.02 tons of radiant emerald Han.
+Specialist Bae sat beneath the branches of SE-C-IIIγ-140 (*The Weeping Willow*), humming the lullaby in harmony with the Maw. The tree lowered its shimmering green boughs to shelter her, draining 12% of its Sorrow Gauge and yielding 0.02 tons of radiant emerald Han.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -619,7 +619,7 @@ Agent Bae sat beneath the branches of SE-C-IIIγ-140 (*The Weeping Willow*), hum
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
 | - Spirits harmonized with the Maw's lullaby                         |
-| - Agent Shin sang the final verse                                   |
+| - Specialist Shin sang the final verse                              |
 | - Spirits bowed and dissolved into clear wat                        |
 | - Clash Duration: 31.5 seconds                                      |
 | - Personnel Casualties: 0 Fatalities                                |
@@ -639,7 +639,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 | POS : [SPIRIT-A][SPIRIT-B] [SHIN] [DEKAN] [MAJIN]                   |
 | DIST : Spirits at N02; Shin at N04 (Band 2); Dekan at N05 (Aegis).  |
 +---------------------------------------------------------------------+
-| Agent Shin : Speed 6 -> 3 AP | HP: 135/135 | SP: +45 | Choral Staff |
+| Shin : Speed 6 -> 3 AP | HP: 135/135 | SP: +45 | Choral Staff       |
 | Attendant Dekan : Speed 5 -> 3 AP | HP: 215/215 | SP: +50 | Maw's   |
 | Aegis                                                               |
 | Sleep-Spirits(x2) : Speed 5 -> 3 AP | HP: 360 each | Trance Pulse   |
@@ -648,13 +648,13 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ###### Turn 01 Action Resolution Log (Floor 2 Gallery)
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
-  * Dekan deploys *The Maw's Keep Bastion Ward*, projecting a soft acoustic dampening dome that prevents the trance pulses from escaping into clerk dormitories.
+  * Dekan deploys *The Maw's Keep Bastion Ward*, projecting a soft acoustic dampening dome that prevents the trance pulses from escaping into auxiliary dormitories.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
+  * Specialist Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
   * Attendant Dekan (Speed 5 -> 3 AP) stands at Node 5, spending 2 AP to maintain *Maw's Aegis*.
 - **Step 3: Clash Resolution (Melodic Harmony)**:
   * Sleep-Spirits emit `[Gentle Trance Pulse]` (Base 10 + 2 Coins = 14 Power).
-  * Agent Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
+  * Specialist Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
   * **Resolution**: Shin WINS THE CLASH (16 vs 14).
     * Shin's vocal resonance matches the spirits' ancient cadence perfectly. The discordant trance melts into gentle sorrow, lowering their Sorrow Gauge by 35% and inflicting +28 Stagger!
 
@@ -669,13 +669,13 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 +---------------------------------------------------------------------+
 | - Node 01: Sleep-Spirits (Sorrow 46/130 / Sinking into Deep         |
 |   Reverie)                                                          |
-| - Node 03: Agent Shin (Range Band 2 / Singing First Verse of        |
+| - Node 03: Specialist Shin (Range Band 2 / Singing First Verse of   |
 |   Lullaby)                                                          |
 | - Node 04: Attendant Dekan (Range Band 2 / Maw Bastion Acoustic     |
 |   Ward)                                                             |
 | - Node 08: Director Majin & Attendants (Gallery Acoustic Overlook)  |
 +---------------------------------------------------------------------+
-| - Agent Shin  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65 |
+| - Shin  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65       |
 | - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1       |
 | - Spirits : Spd 3 -> 1 AP | Sorrow 46/130 [60% STAGGER TRIGGERED]   |
 +=====================================================================+
@@ -683,7 +683,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ###### Turn 02 Action Resolution Log (First Verse & Spiritual Stagger)
 - **Melodic Cadence & Shielded Reflection**:
-  * Agent Shin sings the opening verse of the ancient lullaby from Node 03.
+  * Specialist Shin sings the opening verse of the ancient lullaby from Node 03.
   * Attendant Dekan anchors his tower shield at Node 04, preventing acoustic backwash from disorienting the gallery:
     * Spirits absorb **42 Melodic Pacification Points**!
     * Sorrow drops to **46/130**, breaching the **60% Stagger Threshold (78 Points)**!
@@ -700,11 +700,11 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 | [SPIRITS][SHIN] [DEKAN]                         [MAJIN]             |
 +---------------------------------------------------------------------+
 | - Node 02: Spirits (Arms Lowered in Peace / Sorrow 24/130)          |
-| - Node 03: Agent Shin (Momentum Surge / Second Verse Chanted)       |
+| - Node 03: Specialist Shin (Momentum Surge / Second Verse Chanted)  |
 | - Node 04: Attendant Dekan (Shielding Acoustic Bounce off Vault     |
 |   Walls)                                                            |
 +---------------------------------------------------------------------+
-| - Agent Shin  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Postu |
+| - Shin  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Postu       |
 | - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1       |
 | - Spirits : Spd 2 -> 1 AP | Sorrow 24/130 | Agitation Transmute     |
 +=====================================================================+
@@ -712,7 +712,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ###### Turn 03 Action Resolution Log (Peaceful Reverie & Momentum Surge)
 - **Gentle Slumber (1.5x Harmonic Multiplier)**:
-  * Agent Shin's `Momentum Surge` activates! (+2 Speed next turn).
+  * Specialist Shin's `Momentum Surge` activates! (+2 Speed next turn).
   * Shin's second verse reverberates through the vault, dissolving centuries of trapped sorrow into calm stillness.
   * Sorrow drops to **24/130**!
 
@@ -727,10 +727,10 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 | [SPIRITS][SHIN][DEKAN]                  [MAJIN]                     |
 +---------------------------------------------------------------------+
 | - Node 03: Sleep-Spirits (Humming in Synchrony with Choral Staff)   |
-| - Node 04: Agent Shin (Matching Pitch with Ancient Floor Canticle)  |
+| - Node 04: Shin (Matching Pitch with Ancient Floor Canticle)        |
 | - Node 05: Attendant Dekan (Directional Guard / Nullifying Discord) |
 +---------------------------------------------------------------------+
-| - Agent Shin  : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65 |
+| - Shin  : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65       |
 | - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1       |
 | - Spirits : Spd 2 -> 1 AP | Sorrow 10/130 | Trance Pacified         |
 +=====================================================================+
@@ -755,7 +755,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 +---------------------------------------------------------------------+
 | - Node 04: Sleep-Spirits (TERMINAL STAGGER / SORROW 0/130 /         |
 |   PEACEFUL)                                                         |
-| - Node 04: Agent Shin (Final Verse Resonance Complete)              |
+| - Node 04: Specialist Shin (Final Verse Resonance Complete)         |
 | - Node 05: Attendant Dekan (Opening Bedrock Drain Wells)            |
 +---------------------------------------------------------------------+
 | - Spirits : Spd 0 -> 0 AP | Sorrow 0/130 | Transmutation: 100%      |
@@ -770,19 +770,19 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 ---
 
 ```text
-+=====================================================================+
-| TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 06         |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — DISSOLUTION & CLEAR WATER RECEPTION]        |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [WATER] [SHIN]  [DEKAN]         [MAJIN]                             |
-+---------------------------------------------------------------------+
-| - Node 04: Sleep-Spirits (Dissolved into Pure Living Crystalline    |
-|   Water)                                                            |
-| - Node 05: Floor 2 Ballast Well (Absorbing Clean Hydrological Han)  |
-+---------------------------------------------------------------------+
-| - Spirits : PACIFIED | +0.024 TONS REFINED HAN HARVESTED            |
-+=====================================================================+
++========================================================================+
+| TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 06            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — DISSOLUTION & CLEAR WATER READING]             |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [WATER] [SHIN]  [DEKAN]         [MAJIN]                                |
++------------------------------------------------------------------------+
+| - Node 04: Sleep-Spirits (Dissolved into Pure Living Crystalline       |
+|   Water)                                                               |
+| - Node 05: Floor 2 Ballast Well (Absorbing Clean Hydrological Han)     |
++------------------------------------------------------------------------+
+| - Spirits : PACIFIED | +0.024 TONS REFINED HAN HARVESTED               |
++========================================================================+
 ```
 
 ###### Turn 06 Action Resolution Log (Dissolution into Clear Water & Harvest)
@@ -816,7 +816,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 | POS : [SPIRIT-A][SPIRIT-B] [SHIN] [DEKAN] [MAJIN]                   |
 | DIST : Spirits at N02; Shin at N04 (Band 2); Dekan at N05 (Aegis).  |
 +---------------------------------------------------------------------+
-| Agent Shin : Speed 6 -> 3 AP | HP: 135/135 | SP: +45                |
+| Specialist Shin : Speed 6 -> 3 AP | HP: 135/135 | SP: +45           |
 | | Choral Staff                                                      |
 | Attendant Dekan : Speed 5 -> 3 AP | HP: 215/215 | SP: +50           |
 | | Maw's Aegis                                                       |
@@ -826,13 +826,13 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ###### Turn 01 Action Resolution Log (Floor 2 Gallery)
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
-  * Dekan deploys *The Maw's Keep Bastion Ward*, projecting a soft acoustic dampening dome that prevents the trance pulses from escaping into clerk dormitories.
+  * Dekan deploys *The Maw's Keep Bastion Ward*, projecting a soft acoustic dampening dome that prevents the trance pulses from escaping into auxiliary dormitories.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
+  * Specialist Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
   * Attendant Dekan (Speed 5 -> 3 AP) stands at Node 5, spending 2 AP to maintain *Maw's Aegis*.
 - **Step 3: Clash Resolution (Melodic Harmony)**:
   * Sleep-Spirits emit `[Gentle Trance Pulse]` (Base 10 + 2 Coins = 14 Power).
-  * Agent Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
+  * Specialist Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
   * **Resolution**: Shin WINS THE CLASH (16 vs 14).
     * Shin's vocal resonance matches the spirits' ancient cadence perfectly. The discordant trance melts into gentle sorrow, lowering their Sorrow Gauge by 35% and inflicting +28 Stagger!
 
@@ -866,7 +866,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 +=====================================================================+
 ```
 
-Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead of clashing, Agent Shin sang the final verse of *Sleep Under the Willow*. The spirits bowed respectfully toward the Maw, dissolving into clear, blessed mineral water without conflict.
+Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead of clashing, Specialist Shin sang the final verse of *Sleep Under the Willow*. The spirits bowed respectfully toward the Maw, dissolving into clear, blessed mineral water without conflict.
 
 #### 6. End-of-Day Shift Evaluation Index
 
@@ -883,10 +883,10 @@ Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead o
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +35 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Shin: +5 Clarity (Sanity Pool Up)                           |
-| - Agent Bae: +5 Clarity (Sanity Pool Up)                            |
-| - Agent Hong: +5 Composure (Work Success Up)                        |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Shin: +5 Clarity (Sanity Pool Up)                      |
+| - Specialist Bae: +5 Clarity (Sanity Pool Up)                       |
+| - Specialist Hong: +5 Composure (Work Success Up)                   |
 +=====================================================================+
 ```
 
@@ -894,7 +894,7 @@ Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead o
 
 - **Source Entity:** SE-C-IIIγ-140 (*The Weeping Willow*)
 - **Extracted Armament:** *Willow Cloak* (Back/Wings Slot)
-- **Gift Properties:** Grants absolute sanity protection against grief-induced trauma, increasing health regeneration by 5 HP per minute during containment shifts. Allocated to Agent Bae.
+- **Gift Properties:** Grants absolute sanity protection against grief-induced trauma, increasing health regeneration by 5 HP per minute during containment shifts. Allocated to Specialist Bae.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -938,7 +938,7 @@ Daily harvesting yields 0.111 tons of pure Han, pushing total cumulative reserve
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 153 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -969,7 +969,7 @@ Daily harvesting yields 0.111 tons of pure Han, pushing total cumulative reserve
 +=====================================================================+
 ```
 
-Zyrak and Dekan oversee the acoustic synchronization between the Maw and the Three Birds. Frontline agents report feelings of immense lightness and clarity, with work success rates climbing to an unprecedented 99.8%.
+Zyrak and Dekan oversee the acoustic synchronization between the Maw and the Three Birds. Frontline specialists report feelings of immense lightness and clarity, with work success rates climbing to an unprecedented 99.8%.
 
 #### 2. Acoustic Strain Meltdown Monitoring
 
@@ -1014,29 +1014,29 @@ Meltdown Level VI triggered across the Bird wing at 14:15. The three cells opera
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 153                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-031 (Small Bird)| Videre | -15%  | +0.02                         |
-| Agent Han Grade 4  | Void   | CALM  | 27 OP                         |
+| Specialist Han Grade 4  | Void   | CALM  | 27 OP                    |
 +---------------------------------------------------------------------+
 | SE-032 (Tall Bird) | Ferre  | -14%  | +0.02                         |
-| Agent Song Grade 4 | Weight | CALM  | 28 OP                         |
+| Specialist Song Grade 4 | Weight | CALM  | 28 OP                    |
 +---------------------------------------------------------------------+
 | SE-033 (Big Bird)  | Videre | -13%  | +0.02                         |
-| Agent Hwang        | Void   | CALM  | 26 OP                         |
+| Specialist Hwang        | Void   | CALM  | 26 OP                    |
 | (Grade IV)         |        |                                       |
 +---------------------------------------------------------------------+
 | SE-036 (Hourglass) | Pugna  | -09%  | +0.02                         |
-| Agent Kang Grade 4 | Grudge | STBL  | 24 OP                         |
+| Specialist Kang Grade 4 | Grudge | STBL  | 24 OP                    |
 +---------------------------------------------------------------------+
 | SE-061 (Debtor)    | Ferre  | -08%  | +0.02                         |
-| Agent Shin Grade 4 | Weight | STBL  | 23 OP                         |
+| Specialist Shin Grade 4 | Weight | STBL  | 23 OP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.111 TONS PURE HAN                        |
 +=====================================================================+
 ```
 
-Agent Han performed *Viderehan* observation inside Chamber 031 (*The Observing Bird*). The bird opened all 144 eyes—not in menacing judgment, but in loving witness, bathing Han in warm golden light that drained 15% of the Sorrow Gauge and harvested 0.02 tons of radiant solar Han.
+Specialist Han performed *Viderehan* observation inside Chamber 031 (*The Observing Bird*). The bird opened all 144 eyes—not in menacing judgment, but in loving witness, bathing Han in warm golden light that drained 15% of the Sorrow Gauge and harvested 0.02 tons of radiant solar Han.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -1060,7 +1060,7 @@ Agent Han performed *Viderehan* observation inside Chamber 031 (*The Observing B
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
 | - Silhouette matched the Birds' singing                             |
-| - Agent Han & Song stepped forward in harmon                        |
+| - Specialist Han & Song stepped forward in harmon                   |
 | - Celestial light merged into facility condu                        |
 | - Clash Duration: 29.8 seconds                                      |
 | - Personnel Casualties: 0 Fatalities                                |
@@ -1081,9 +1081,9 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 | DIST : Shadow at N02; Han at N03 (Band 1); Song at N04 (Band 2);    |
 | Birds at N06.                                                       |
 +---------------------------------------------------------------------+
-| Agent Han : Speed 6 -> 3 AP | HP: 145/145 | SP: +50 | Feather       |
+| Specialist Han : Speed 6 -> 3 AP | HP: 145/145 | SP: +50 | Feather  |
 | Mantle                                                              |
-| Agent Song : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Cherub's     |
+| Song : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Cherub's           |
 | Lyre                                                                |
 | Avian Silhouette : Speed 5 -> 3 AP | HP: 480/480 | Pale Light       |
 | Midnight Core                                                       |
@@ -1094,12 +1094,12 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
   * Dekan opens the rotunda acoustic channels, allowing the harmonic chime of the Three Birds to reverberate across Nodes 1 to 6.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
-  * Agent Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
+  * Specialist Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
+  * Specialist Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
 - **Step 3: Clash Resolution (Avian Harmonic Equilibrium)**:
   * Celestial Avian Silhouette radiates `[Transmutative Pale Dawn Aura]` (Base 11 + 2 Coins = 15 Power).
-  * Agent Han & Agent Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
-  * **Resolution**: The Agents WIN THE CLASH (17 vs 15).
+  * Specialist Han & Specialist Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
+  * **Resolution**: The Specialists WIN THE CLASH (17 vs 15).
     * Their synchronized vocal octave matches the silhouette's vibration, converting the lethal Pale sunder into golden life energy and inflicting +32 Stagger!
 
 
@@ -1113,21 +1113,21 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +---------------------------------------------------------------------+
 | - Node 01: Celestial Silhouette (Pale Resonance 54/140 / 60%        |
 |   Stagger)                                                          |
-| - Node 03: Agent Han (Range Band 2 / Feather Mantle Vocal           |
+| - Node 03: Specialist Han (Range Band 2 / Feather Mantle Vocal      |
 |   Resonance)                                                        |
-| - Node 04: Agent Song (Range Band 2 / Cherub's Lyre Harmonic        |
+| - Node 04: Specialist Song (Range Band 2 / Cherub's Lyre Harmonic   |
 |   Chords)                                                           |
 | - Node 05: Attendant Dekan (Range Band 3 / Maw Grounding Pylons)    |
 +---------------------------------------------------------------------+
-| - Agent Han : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65   |
-| - Agent Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60 |
+| - Han : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65         |
+| - Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60       |
 | - Silhouette  : Spd 4 -> 2 AP | Pale 54/140 [60% STAGGER TRIGGERED] |
 +=====================================================================+
 ```
 
 ###### Turn 02 Action Resolution Log (Avian Octave & Pale Stagger)
 - **Octave Convergence & Bell Resonance**:
-  * Agent Han matches the avian frequency with vocal precision, while Agent Song strums the resonant chords on the lyre.
+  * Specialist Han matches the avian frequency with vocal precision, while Specialist Song strums the resonant chords on the lyre.
   * Attendant Dekan grounds the rotunda floorplates:
     * Silhouette absorbs **44 Harmonization Points**!
     * Pale resonance drops to **54/140**, crossing the **60% Stagger Threshold (84 Points)**!
@@ -1145,18 +1145,18 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +---------------------------------------------------------------------+
 | - Node 02: Celestial Silhouette (Wings Folded / Pale Light Warm     |
 |   Gold)                                                             |
-| - Node 03: Agent Han (Momentum Surge / High-Octave Flerehan Duet)   |
-| - Node 04: Agent Song (Lyre Strings Chiming in Perfect Fifths)      |
+| - Node 03: Han (Momentum Surge / High-Octave Flerehan Duet)         |
+| - Node 04: Specialist Song (Lyre Strings Chiming in Perfect Fifths) |
 +---------------------------------------------------------------------+
-| - Agent Han : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Postu   |
-| - Agent Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60 |
+| - Han : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Postu         |
+| - Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60       |
 | - Silhouette : Spd 3 -> 1 AP | Pale 26/140 | Sorrow Converting      |
 +=====================================================================+
 ```
 
 ###### Turn 03 Action Resolution Log (Three Birds Chime & Momentum Surge)
 - **Harmonic Chord Progression (1.5x Multiplier)**:
-  * Agent Han's `Momentum Surge` activates! (+2 Speed next turn).
+  * Specialist Han's `Momentum Surge` activates! (+2 Speed next turn).
   * The chimes of Big Bird, Judgement Bird, and Punishing Bird echo through the acoustic chambers, softening the Pale light into warm amber dawn.
   * Pale resonance drops to **26/140**!
 
@@ -1171,11 +1171,11 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 | [AVIAN] [HAN]   [SONG]  [DEKAN]                 [MAJIN]             |
 +---------------------------------------------------------------------+
 | - Node 03: Avian Silhouette (Extending Wings in Graceful Display)   |
-| - Node 04: Agent Han & Song (Singing Before-Time Forgiveness        |
+| - Node 04: Specialist Han & Song (Singing Before-Time Forgiveness   |
 |   Refrain)                                                          |
 | - Node 06: Attendant Dekan (Directional Guard Absorption Active)    |
 +---------------------------------------------------------------------+
-| - Agent Han : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65   |
+| - Han : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65         |
 | - Silhouette : Spd 2 -> 1 AP | Pale 10/140 | Resonance Stabilized   |
 +=====================================================================+
 ```
@@ -1199,7 +1199,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +---------------------------------------------------------------------+
 | - Node 04: Silhouette (TERMINAL STAGGER / PALE 0/140 / PURE DAWN    |
 |   LIGHT)                                                            |
-| - Node 04: Agent Han & Song (Flerehan Duet Climaxes in Absolute     |
+| - Node 04: Han & Song (Flerehan Duet Climaxes in Absolute           |
 |   Accord)                                                           |
 +---------------------------------------------------------------------+
 | - Silhouette : Spd 0 -> 0 AP | Pale 0/140 | Transmutation: 100%     |
@@ -1240,7 +1240,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Bird Rotunda accumulators charged with     |
 | Pale energy.                                                        |
-| 2. Status Equilibrium : All agents healed; SP overflowing at        |
+| 2. Status Equilibrium : All specialists healed; SP overflowing at   |
 | maximum +50.                                                        |
 | 3. Containment Check : Celestial Avian Silhouette peacefully        |
 | absorbed.                                                           |
@@ -1261,9 +1261,9 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 | DIST : Shadow at N02; Han at N03 (Band 1); Song at N04 (Band 2);    |
 | Birds at N06.                                                       |
 +---------------------------------------------------------------------+
-| Agent Han : Speed 6 -> 3 AP | HP: 145/145 | SP: +50                 |
+| Specialist Han : Speed 6 -> 3 AP | HP: 145/145 | SP: +50            |
 | | Feather Mantle                                                    |
-| Agent Song : Speed 6 -> 3 AP | HP: 140/140 | SP: +45                |
+| Specialist Song : Speed 6 -> 3 AP | HP: 140/140 | SP: +45           |
 | | Cherub's Lyre                                                     |
 | Avian Silhouette : Speed 5 -> 3 AP | HP: 480/480 | Pale Light       |
 | | Midnight Core                                                     |
@@ -1274,12 +1274,12 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
   * Dekan opens the rotunda acoustic channels, allowing the harmonic chime of the Three Birds to reverberate across Nodes 1 to 6.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
-  * Agent Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
+  * Specialist Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
+  * Specialist Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
 - **Step 3: Clash Resolution (Avian Harmonic Equilibrium)**:
   * Celestial Avian Silhouette radiates `[Transmutative Pale Dawn Aura]` (Base 11 + 2 Coins = 15 Power).
-  * Agent Han & Agent Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
-  * **Resolution**: The Agents WIN THE CLASH (17 vs 15).
+  * Specialist Han & Specialist Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
+  * **Resolution**: The Specialists WIN THE CLASH (17 vs 15).
     * Their synchronized vocal octave matches the silhouette's vibration, converting the lethal Pale sunder into golden life energy and inflicting +32 Stagger!
 
 ```text
@@ -1305,7 +1305,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Bird Rotunda accumulators charged with     |
 | Pale energy.                                                        |
-| 2. Status Equilibrium : All agents healed; SP overflowing at        |
+| 2. Status Equilibrium : All specialists healed; SP overflowing at   |
 | maximum +50.                                                        |
 | 3. Containment Check : Celestial Avian Silhouette peacefully        |
 | absorbed.                                                           |
@@ -1313,7 +1313,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +=====================================================================+
 ```
 
-A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Agents Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy.
+A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Specialists Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy.
 
 #### 6. End-of-Day Shift Evaluation Index
 
@@ -1330,10 +1330,10 @@ A Tide Watch Ordeal manifested as a celestial avian silhouette in the central ro
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +35 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Han: +5 Clarity (Sanity Pool Up)                            |
-| - Agent Song: +5 Composure (Work Success Up)                        |
-| - Agent Hwang: +5 Resilience (HP Pool Up)                           |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Han: +5 Clarity (Sanity Pool Up)                       |
+| - Specialist Song: +5 Composure (Work Success Up)                   |
+| - Specialist Hwang: +5 Resilience (HP Pool Up)                      |
 +=====================================================================+
 ```
 
@@ -1341,7 +1341,7 @@ A Tide Watch Ordeal manifested as a celestial avian silhouette in the central ro
 
 - **Source Entity:** SE-C-IIIγ-031 (*The Observing Bird*)
 - **Extracted Armament:** *Witness Feather* (Hair/Crown Slot)
-- **Gift Properties:** Grants absolute immunity to all blindness and optical disorientation effects, providing passive +15% SP recovery to all allies within line of sight. Allocated to Agent Han.
+- **Gift Properties:** Grants absolute immunity to all blindness and optical disorientation effects, providing passive +15% SP recovery to all allies within line of sight. Allocated to Specialist Han.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -1393,7 +1393,7 @@ Daily extraction reaches an unprecedented peak of 0.112 tons of pure Han, elevat
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 155 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -1468,28 +1468,28 @@ Meltdown Level VI triggered across six healing and devotional chambers at 13:50.
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 155                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | HT-V-HH-001 (Hand) | Flere  | -20%  | +0.03                         |
-| Agent Yoon Grade 4 | Lament | CALM  | 30 OP                         |
+| Specialist Yoon Grade 4 | Lament | CALM  | 30 OP                    |
 +---------------------------------------------------------------------+
 | SE-041 (Tears)     | Flere  | -14%  | +0.02                         |
-| Agent Bae Grade 4  | Lament | CALM  | 27 OP                         |
+| Specialist Bae Grade 4  | Lament | CALM  | 27 OP                    |
 +---------------------------------------------------------------------+
 | SE-042 (Fury)      | Pugna  | -15%  | +0.02                         |
-| Agent Kang Grade 4 | Grudge | CALM  | 28 OP                         |
+| Specialist Kang Grade 4 | Grudge | CALM  | 28 OP                    |
 +---------------------------------------------------------------------+
 | SE-081 (Saint)     | Flere  | -16%  | +0.02                         |
-| Agent Hong Grade 4 | Lament | CALM  | 29 OP                         |
+| Specialist Hong Grade 4 | Lament | CALM  | 29 OP                    |
 +---------------------------------------------------------------------+
 | SE-088 (Fountain)  | Flere  | -14%  | +0.02                         |
-| Agent Kwak Grade 4 | Lament | CALM  | 26 OP                         |
+| Specialist Kwak Grade 4 | Lament | CALM  | 26 OP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.112 TONS PURE HAN                        |
 +=====================================================================+
 ```
 
-Agent Yoon entered Chamber 15, kneeling before the towering, glowing form of **The Hand of Hope**. The Hand gently touched Yoon's forehead, granting profound emotional enlightenment, draining 20% of the Sorrow Gauge and harvesting 0.03 tons of pure diamond-white Han.
+Specialist Yoon entered Chamber 15, kneeling before the towering, glowing form of **The Hand of Hope**. The Hand gently touched Yoon's forehead, granting profound emotional enlightenment, draining 20% of the Sorrow Gauge and harvesting 0.03 tons of pure diamond-white Han.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -1776,10 +1776,10 @@ A Tide Watch Ordeal manifested as a crown of twelve glowing halos above the rese
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +40 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Yoon: +5 Clarity (Sanity Pool Up)                           |
-| - Agent Kang: +5 Resilience (HP Pool Up)                            |
-| - Agent Hong: +5 Composure (Work Success Up)                        |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Yoon: +5 Clarity (Sanity Pool Up)                      |
+| - Specialist Kang: +5 Resilience (HP Pool Up)                       |
+| - Specialist Hong: +5 Composure (Work Success Up)                   |
 +=====================================================================+
 ```
 
@@ -1787,7 +1787,7 @@ A Tide Watch Ordeal manifested as a crown of twelve glowing halos above the rese
 
 - **Source Entity:** HT-V-HH-001 (*The Hand of Hope*)
 - **Extracted Armament:** *Apostle's Halo* (Head/Crown Slot)
-- **Gift Properties:** Grants absolute immunity to death from lethal damage once per shift, restoring the wearer to 100% HP and SP and releasing an omnidirectional healing shockwave. Allocated to Agent Yoon.
+- **Gift Properties:** Grants absolute immunity to death from lethal damage once per shift, restoring the wearer to 100% HP and SP and releasing an omnidirectional healing shockwave. Allocated to Specialist Yoon.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -1837,7 +1837,7 @@ Containment operations proceed with immaculate precision, harvesting 0.114 tons 
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 157 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -1912,29 +1912,29 @@ Meltdown Level VI triggered across the primary sovereign chambers at 14:00. The 
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 157                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-001 (Bell)      | Flere  | -15%  | +0.02                         |
-| Agent Park Grade 4 | Lament | CALM  | 28 OP                         |
+| Specialist Park Grade 4 | Lament | CALM  | 28 OP                    |
 +---------------------------------------------------------------------+
 | SE-002 (Colossus)  | Flere  | -14%  | +0.02                         |
-| Agent Jang Grade 4 | Lament | CALM  | 27 OP                         |
+| Specialist Jang Grade 4 | Lament | CALM  | 27 OP                    |
 +---------------------------------------------------------------------+
 | SE-005 (Mother)    | Ferre  | -16%  | +0.02                         |
-| Agent Kim Grade 4  | Weight | CALM  | 29 OP                         |
+| Specialist Kim Grade 4  | Weight | CALM  | 29 OP                    |
 +---------------------------------------------------------------------+
 | SE-008 (The Maw)   | Flere  | -18%  | +0.03                         |
-| Agent Shin Grade 4 | Lament | CALM  | 30 OP                         |
+| Specialist Shin Grade 4 | Lament | CALM  | 30 OP                    |
 +---------------------------------------------------------------------+
 | SE-010             | Pugna  | -16%  | +0.02                         |
 | (Convergenc)       |        |                                       |
-| Agent Kang Grade 4 | Grudge | CALM  | 30 OP                         |
+| Specialist Kang Grade 4 | Grudge | CALM  | 30 OP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.114 TONS PURE HAN                        |
 +=====================================================================+
 ```
 
-Agent Shin performed the final scheduled *Flerehan* harvest from the Maw. The clear water pulsed with gentle indigo light, yielding 0.03 tons of diamond-facetted Han that radiated soft warmth.
+Specialist Shin performed the final scheduled *Flerehan* harvest from the Maw. The clear water pulsed with gentle indigo light, yielding 0.03 tons of diamond-facetted Han that radiated soft warmth.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -2226,10 +2226,10 @@ A Tide Watch Ordeal manifested as a luminous cloud of Pale energy that settled o
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +40 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Shin: +5 Clarity (Sanity Pool Up)                           |
-| - Agent Kang: +5 Resilience (HP Pool Up)                            |
-| - Agent Kim: +5 Resilience (HP Pool Up)                             |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Shin: +5 Clarity (Sanity Pool Up)                      |
+| - Specialist Kang: +5 Resilience (HP Pool Up)                       |
+| - Specialist Kim: +5 Resilience (HP Pool Up)                        |
 +=====================================================================+
 ```
 
@@ -2237,7 +2237,7 @@ A Tide Watch Ordeal manifested as a luminous cloud of Pale energy that settled o
 
 - **Source Entity:** SE-C-IIIγ-010 (*The Convergence*)
 - **Extracted Armament:** *Dawn Cloak* (Back/Wings Slot)
-- **Gift Properties:** Grants absolute immunity to all four damage types for 10 seconds upon entering combat, emitting an omnidirectional aura of peace. Allocated to Agent Kang.
+- **Gift Properties:** Grants absolute immunity to all four damage types for 10 seconds upon entering combat, emitting an omnidirectional aura of peace. Allocated to Specialist Kang.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -2296,7 +2296,7 @@ Across twelve square kilometers of Somnarak's deepest wound, three hundred thous
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 160 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -2371,7 +2371,7 @@ Every containment strain meter across the entire facility drops to absolute zero
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 160                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | AY-001 (Venting)   | Flere  | -100% | VENT                          |
 | Director Majin     | Trans  | DAWN  | 49.8t                         |
@@ -2495,7 +2495,7 @@ Containment operations transition from high-stress suppression to gentle steward
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 165 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -2570,28 +2570,28 @@ Meltdown alerts across the facility register zero activity. The entities remain 
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 165                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | SE-008 (The Well)  | Flere  | -05%  | +0.01                         |
-| Agent Shin Grade 4 | Lament | CALM  | 20 OP                         |
+| Specialist Shin Grade 4 | Lament | CALM  | 20 OP                    |
 +---------------------------------------------------------------------+
 | SE-001 (Bell)      | Flere  | -04%  | +0.01                         |
-| Agent Park Grade 4 | Lament | CALM  | 18 OP                         |
+| Specialist Park Grade 4 | Lament | CALM  | 18 OP                    |
 +---------------------------------------------------------------------+
 | SE-014 (Veil)      | Videre | -03%  | +0.01                         |
-| Agent Lee Grade 4  | Void   | STBL  | 16 OP                         |
+| Specialist Lee Grade 4  | Void   | STBL  | 16 OP                    |
 +---------------------------------------------------------------------+
 | SE-025 (Child)     | Flere  | -05%  | +0.01                         |
-| Agent Choi Grade 4 | Lament | CALM  | 19 OP                         |
+| Specialist Choi Grade 4 | Lament | CALM  | 19 OP                    |
 +---------------------------------------------------------------------+
 | SE-061 (Debtor)    | Ferre  | -04%  | +0.01                         |
-| Agent Kang Grade 4 | Weight | STBL  | 18 OP                         |
+| Specialist Kang Grade 4 | Weight | STBL  | 18 OP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.052 TONS PURE HAN                        |
 +=====================================================================+
 ```
 
-Agent Shin performed gentle *Flerehan* communion at the edge of the clear spring, filling crystal decanters with mineral water for the medical ward. The communion yielded 0.01 tons of luminous Han that glowed with gentle blue warmth.
+Specialist Shin performed gentle *Flerehan* communion at the edge of the clear spring, filling crystal decanters with mineral water for the medical ward. The communion yielded 0.01 tons of luminous Han that glowed with gentle blue warmth.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -2638,9 +2638,9 @@ Zero Ordeals manifested on Day 165. The planetary emotional field remains comple
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +20 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Shin: Reassigned to Municipal Water                         |
-| - Agent Park: Reassigned to Bell Tower                              |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Shin: Reassigned to Municipal Water                    |
+| - Specialist Park: Reassigned to Bell Tower                         |
 +=====================================================================+
 ```
 
@@ -2648,7 +2648,7 @@ Zero Ordeals manifested on Day 165. The planetary emotional field remains comple
 
 - **Source Entity:** SE-C-Iα-008 (*The Living Well*)
 - **Extracted Armament:** *Living Water Chalice* (Hand/Gauntlet Slot)
-- **Gift Properties:** Grants the ability to instantly cleanse any ally of physical poison, emotional corruption, or mental fatigue once per day. Allocated to Agent Shin.
+- **Gift Properties:** Grants the ability to instantly cleanse any ally of physical poison, emotional corruption, or mental fatigue once per day. Allocated to Specialist Shin.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -2676,7 +2676,7 @@ Majin drinks from his own cup: *"It tastes like peace, Dekan. After six thousand
 
 > **Majin:** _"Hope Transformation HT-V-HC-001: The Trinity of Dawn."_
 
-> **Zyrak:** _"It walked out of the containment cell, Majin. It didn't breach the door—the door simply turned to golden dust before it. It's floating through the corridors, touching the agents' foreheads. Every agent it touches begins to weep tears of pure joy."_
+> **Zyrak:** _"It walked out of the containment cell, Majin. It didn't breach the door—the door simply turned to golden dust before it. It's floating through the corridors, touching the specialists' foreheads. Every agent it touches begins to weep tears of pure joy."_
 
 > **Majin:** _"Let it walk, Zyrak. The facility is no longer a cage. It is a sanctuary."_
 
@@ -2698,7 +2698,7 @@ Containment harvesting yields 0.054 tons of pure Han, elevating cumulative facil
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 170 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -2729,7 +2729,7 @@ Containment harvesting yields 0.054 tons of pure Han, elevating cumulative facil
 +=====================================================================+
 ```
 
-Zyrak and Dekan accompany the Trinity of Dawn as it visits each floor in turn. Frontline agents welcome the sovereign entity with open arms, feeling decades of accumulated cognitive fatigue melt away beneath its gaze.
+Zyrak and Dekan accompany the Trinity of Dawn as it visits each floor in turn. Frontline specialists welcome the sovereign entity with open arms, feeling decades of accumulated cognitive fatigue melt away beneath its gaze.
 
 #### 2. Acoustic Strain Meltdown Monitoring
 
@@ -2770,25 +2770,25 @@ Meltdown alerts remain at absolute zero. The Trinity of Dawn's presence radiates
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 170                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | HT-V-HC-001 (Trin) | Flere  | -20%  | +0.02                         |
-| Agent Han Grade 4  | Lament | CALM  | 30 OP                         |
+| Specialist Han Grade 4  | Lament | CALM  | 30 OP                    |
 +---------------------------------------------------------------------+
 | SE-036 (Hourglass) | Videre | -06%  | +0.01                         |
-| Agent Kang Grade 4 | Void   | STBL  | 20 OP                         |
+| Specialist Kang Grade 4 | Void   | STBL  | 20 OP                    |
 +---------------------------------------------------------------------+
 | SE-044 (Clock)     | Videre | -05%  | +0.01                         |
-| Agent Kwon Grade 4 | Void   | STBL  | 19 OP                         |
+| Specialist Kwon Grade 4 | Void   | STBL  | 19 OP                    |
 +---------------------------------------------------------------------+
 | SE-061 (Debtor)    | Ferre  | -06%  | +0.01                         |
-| Agent Shin Grade 4 | Weight | STBL  | 18 OP                         |
+| Specialist Shin Grade 4 | Weight | STBL  | 18 OP                    |
 +---------------------------------------------------------------------+
 | DAILY EXTRACTION YIELD: +0.054 TONS PURE HAN                        |
 +=====================================================================+
 ```
 
-Agent Han knelt before **The Trinity of Dawn** in the central rotunda. The celestial entity lowered its radiant head, touching its bronze beak to Han's chest. The communion drained 20% of its residual sorrow and yielded 0.02 tons of magnificent diamond-gold Han.
+Specialist Han knelt before **The Trinity of Dawn** in the central rotunda. The celestial entity lowered its radiant head, touching its bronze beak to Han's chest. The communion drained 20% of its residual sorrow and yielded 0.02 tons of magnificent diamond-gold Han.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -2838,9 +2838,9 @@ Zero Ordeals manifested on Day 170. The Trinity of Dawn's celestial radiance est
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +25 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Han: Promoted to Sovereign Guardian                         |
-| - Agent Song: Promoted to Sovereign Guardian                        |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Han: Promoted to Sovereign Guardian                    |
+| - Specialist Song: Promoted to Sovereign Guardian                   |
 +=====================================================================+
 ```
 
@@ -2848,7 +2848,7 @@ Zero Ordeals manifested on Day 170. The Trinity of Dawn's celestial radiance est
 
 - **Source Entity:** HT-V-HC-001 (*The Trinity of Dawn*)
 - **Extracted Armament:** *Feather of Judgment Redeemed* (Chest/Mantle Slot)
-- **Gift Properties:** Grants absolute immunity to all four damage types for 30 seconds once per shift, reflecting 50% of incoming damage as pure healing light. Formally allocated to Agent Han.
+- **Gift Properties:** Grants absolute immunity to all four damage types for 30 seconds once per shift, reflecting 50% of incoming damage as pure healing light. Formally allocated to Specialist Han.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -2896,7 +2896,7 @@ The 1,778-cycle recursive loop is broken. The Absolvohan was never an engine of 
 +=====================================================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 177 SHIFT                             |
 +---------------------------------------------------------------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
+| FLOOR & SECTOR      | SPECIALISTS | LEAD AURA                       |
 +=====================================================================+
 | F1: Central Command | 14 Op  | Seiyon: Sync                         |
 | |        | Directive                                                |
@@ -2962,7 +2962,7 @@ Acoustic strain is permanently extinguished across the facility. The containment
 +=====================================================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 177                         |
 +---------------------------------------------------------------------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
+| ENTITY & SPECIALIST     | WORK   | GAUGE | HAN                      |
 +=====================================================================+
 | ALL SANCTUARIES    | Flere  | -00%  | DAWN                          |
 | All 130 Operatives | Trans  | PEACE | 50.9t                         |

@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes calmer when uncertainty is honestly acknowledged.
 - It has never attacked without being obstructed.
 
-**Personnel Note:** *"It was glowing. I felt grief. I could not remember the Soul, but I could remain beside it."* — Agent, Zone D patrol
+**Personnel Note:** *"It was glowing. I felt grief. I could not remember the Soul, but I could remain beside it."* — Specialist, Zone D patrol
 
 
 

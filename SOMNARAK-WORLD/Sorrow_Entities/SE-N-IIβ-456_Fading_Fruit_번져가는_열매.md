@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It grows near debt disputes.
 - Personnel report loss after exposure.
 
-**Personnel Note:** *"I felt loss. The Fruit did not punish desire. It showed me how the system had taught us to call desire a debt."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt loss. The Fruit did not punish desire. It showed me how the system had taught us to call desire a debt."* — Specialist, Zone D patrol
 
 
 

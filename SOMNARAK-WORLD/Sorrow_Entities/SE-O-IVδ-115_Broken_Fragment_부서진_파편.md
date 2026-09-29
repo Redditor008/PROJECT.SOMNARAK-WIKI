@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The inscriptions appear only to people who acknowledge inherited debt.
 - It creates grief rather than fear in witnesses.
 
-**Personnel Note:** *"It was mourning. I felt grief. The Fragment was not heavy because it was large; it was heavy because too many people had asked it to remember."* — Agent, Zone B patrol
+**Personnel Note:** *"It was mourning. I felt grief. The Fragment was not heavy because it was large; it was heavy because too many people had asked it to remember."* — Specialist, Zone B patrol
 
 
 

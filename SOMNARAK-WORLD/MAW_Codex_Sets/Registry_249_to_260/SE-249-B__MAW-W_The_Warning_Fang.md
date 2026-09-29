@@ -7,7 +7,7 @@
 **Document ID:** `SE-249-B`  
 **Linked Entity:** `SE-249` — The Collapsed Whisper  
 **Item Registry Code:** `MAW-W-249-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Thread supplies fragment, Plate holds dream-space, Fang opens transmission. The 
 **Document ID:** `SE-249-B`  
 **Linked Entity:** `SE-249`  
 **Item Registry Code:** `MAW-W-249-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

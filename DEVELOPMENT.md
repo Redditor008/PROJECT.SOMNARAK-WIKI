@@ -93,7 +93,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
 │   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
 │   ├── Katharcheok/                        # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
-│   ├── Gieok_Jeojangso/                    # 7 Mnemonic Receptions & Mnemonic Combat Suite (Memory Archive)
+│   ├── Gieok_Jeojangso/                    # 7 Mnemonic Readings & Mnemonic Combat Suite (Memory Archive)
 │   ├── Jipyeongseondae/                    # 6 Trans-Desolate Overland Arcs & Bastion Suite (Horizon Caravan)
 │   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
 │   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite

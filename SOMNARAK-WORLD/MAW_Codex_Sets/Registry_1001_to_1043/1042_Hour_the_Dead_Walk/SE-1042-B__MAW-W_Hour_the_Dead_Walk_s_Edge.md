@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1042` — Hour the Dead Walk  
 **Source SECC Designation:** `O-IIIγ-916 [LT]`  
 **Item Registry Code:** `MAW-W-1042-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Edge perfor
 **Document ID:** `SE-1042-B`  
 **Linked Entity:** `SE-1042`  
 **Item Registry Code:** `MAW-W-1042-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

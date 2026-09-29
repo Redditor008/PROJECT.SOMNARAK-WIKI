@@ -7,7 +7,7 @@
 **Document ID:** `SE-517-C`  
 **Linked Entity:** `SE-517` — Lachrymose  
 **Item Registry Code:** `MAW-S-517-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Lachrymose Shroud is a wrapping of blue Han-silk with separate channels for 
 **Document ID:** `SE-517-C`  
 **Linked Entity:** `SE-517`  
 **Item Registry Code:** `MAW-S-517-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1030` — The First Tear  
 **Source SECC Designation:** `C-Vδ-290 [LO]`  
 **Item Registry Code:** `MAW-S-1030-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The First Tear — Witnessed Form*, The First Shroud performs the suit r
 **Document ID:** `SE-1030-C`  
 **Linked Entity:** `SE-1030`  
 **Item Registry Code:** `MAW-S-1030-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

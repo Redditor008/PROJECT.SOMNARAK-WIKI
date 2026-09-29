@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is not physically hostile.
 - Progress toward repayment does not affect it until the balance changes.
 
-**Personnel Note:** *"It was glowing in the alley. I felt hope. The hope was not freedom; it was the possibility that a balance could be seen clearly."* — Agent, Zone D patrol
+**Personnel Note:** *"It was glowing in the alley. I felt hope. The hope was not freedom; it was the possibility that a balance could be seen clearly."* — Specialist, Zone D patrol
 
 
 

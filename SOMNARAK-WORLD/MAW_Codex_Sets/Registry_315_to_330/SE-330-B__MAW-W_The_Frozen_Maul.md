@@ -7,7 +7,7 @@
 **Document ID:** `SE-330-B`  
 **Linked Entity:** `SE-330` — Sitting Boundary  
 **Item Registry Code:** `MAW-W-330-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -92,7 +92,7 @@ When wielded in tandem with *The Shuttered Window-Plate* and *The Rime-Pane Mono
 **Document ID:** `SE-330-B`  
 **Linked Entity:** `SE-330`  
 **Item Registry Code:** `MAW-W-330-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

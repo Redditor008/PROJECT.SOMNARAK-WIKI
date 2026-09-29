@@ -6,7 +6,7 @@
 **Document ID:** `SE-689-A`  
 **Related Entity ID:** `SE-689`  
 **SECC Designation:** `N-IIβ-689 [VS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ Flerehan opens one feeling; Pugnahan thickens the wall; Viderehan reveals what w
 ---
 **Document ID:** `SE-689-A`  
 **Linked Entity:** `SE-689`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

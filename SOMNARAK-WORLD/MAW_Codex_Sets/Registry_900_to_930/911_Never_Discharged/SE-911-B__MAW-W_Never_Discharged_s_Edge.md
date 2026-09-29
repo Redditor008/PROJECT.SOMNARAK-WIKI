@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-911` — Never Discharged  
 **Source SECC Designation:** `O-IIβ-911 [WT]`  
 **Item Registry Code:** `MAW-W-911-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Never Discharged — Witnessed Form*, Never Discharged's Edge performs t
 **Document ID:** `SE-911-B`  
 **Linked Entity:** `SE-911`  
 **Item Registry Code:** `MAW-W-911-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

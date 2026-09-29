@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Fire dims when a worker acknowledges abandonment.
 - It has never caused direct physical injury.
 
-**Personnel Note:** *"It was quiet. I felt peace. Then I understood that peace was what remained after a bond had already gone."* — Agent, Zone D patrol
+**Personnel Note:** *"It was quiet. I felt peace. Then I understood that peace was what remained after a bond had already gone."* — Specialist, Zone D patrol
 
 
 

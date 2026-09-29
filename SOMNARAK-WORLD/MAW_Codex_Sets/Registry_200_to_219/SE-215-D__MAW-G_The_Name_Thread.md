@@ -24,7 +24,7 @@ The Gift is verified by omission. Ask the bearer to list nearby people: the pres
 
 Name Threads are not manufactured. The source entity may grant one after successful work; observed acquisition probability is 5%.
 
-**Bestowal record:** Researcher Euncris Park received the current Thread after she and Agent Hanul Grey completed Flerehan around a failing identity card. Euncris wrote Hanul’s name from memory; Hanul spoke it and corrected the date attached to her account. The subject became visible long enough to place a warm filament across Euncris’s hairline. Its own name did not appear.
+**Bestowal record:** Researcher Euncris Park received the current Thread after she and Specialist Hanul Grey completed Flerehan around a failing identity card. Euncris wrote Hanul’s name from memory; Hanul spoke it and corrected the date attached to her account. The subject became visible long enough to place a warm filament across Euncris’s hairline. Its own name did not appear.
 
 The bearer chooses one name in the presence of a second witness. If the person is living, that person must answer. If deceased, the witness must state the relationship through which the name is known. An unsupported source-name fragment cannot be bound “for safety.”
 
@@ -61,7 +61,7 @@ Long exposure produces witness guilt: the belief that choosing one name caused e
 
 ## HISTORY OF USE — THE ROLL CALL WITH ONE ANSWER
 
-During the east stair transform review, Euncris entered the outer field while the Thread preserved Agent Hanul Grey’s name. Six personnel cards had gone blank. The corridor returned at least twenty whisper-patterns.
+During the east stair transform review, Euncris entered the outer field while the Thread preserved Specialist Hanul Grey’s name. Six personnel cards had gone blank. The corridor returned at least twenty whisper-patterns.
 
 Euncris conducted roll call once. Hanul’s name remained audible and received an answer from inside the stair. The other whispers tried to occupy the pauses between his syllables. She did not assign them to the six missing cards, even when several rhythms seemed plausible.
 

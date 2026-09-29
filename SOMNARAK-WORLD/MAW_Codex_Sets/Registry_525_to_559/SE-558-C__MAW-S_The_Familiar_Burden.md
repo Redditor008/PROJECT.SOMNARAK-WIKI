@@ -7,7 +7,7 @@
 **Document ID:** `SE-558-C`  
 **Linked Entity:** `SE-558` — Emberroot  
 **Item Registry Code:** `MAW-S-558-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -42,7 +42,7 @@ The Familiar Burden is a black garment of Han weave with weighted hems and warm 
 
 ## ITEM HISTORY — THE EMPTY-SHOULDER ALARM
 
-Iseulfros wore the mantle while evacuating a buckled Collector’s Row stair. It took the Weight of each repeated ascent and allowed five trapped clerks to cross. After the final descent she refused removal, saying the uncovered shoulder felt “irresponsible.” The suit’s roots had already entered the stair cracks and were rebuilding the route around her body. Agent Hanul Grey asked what task remained. When she could name none, the mantle released. The event proved that longing for its weight is an overload symptom, not dedication.
+Iseulfros wore the mantle while evacuating a buckled Collector’s Row stair. It took the Weight of each repeated ascent and allowed five trapped auxiliaries to cross. After the final descent she refused removal, saying the uncovered shoulder felt “irresponsible.” The suit’s roots had already entered the stair cracks and were rebuilding the route around her body. Specialist Hanul Grey asked what task remained. When she could name none, the mantle released. The event proved that longing for its weight is an overload symptom, not dedication.
 
 The inner lining still carries five cool handprints. A sixth appears whenever a wearer invents a duty to justify keeping the suit on.
 
@@ -64,14 +64,14 @@ The inner lining still carries five cool handprints. A sixth appears whenever a 
 
 The Maul breaks manifested inheritance, the mantle bears the lawful release shock, and the Charm prevents a name from being entered as collateral. Full-set corruption turns shared support into a new family chain.
 
-> *“I did not fear its weight. I feared how quickly weight became proof that I was needed.”* — Agent Iseulfros Kim
+> *“I did not fear its weight. I feared how quickly weight became proof that I was needed.”* — Specialist Iseulfros Kim
 
 ---
 
 **Document ID:** `SE-558-C`  
 **Linked Entity:** `SE-558`  
 **Item Registry Code:** `MAW-S-558-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-280-D`  
 **Linked Entity:** `SE-280` — Pall  
 **Item Registry Code:** `MAW-G-280-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ Charm identifies whose grief is whose in *The Shared Mourning*. Veil receives at
 **Document ID:** `SE-280-D`  
 **Linked Entity:** `SE-280`  
 **Item Registry Code:** `MAW-G-280-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

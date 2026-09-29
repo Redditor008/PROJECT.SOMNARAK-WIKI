@@ -50,13 +50,13 @@ Completing all four tiers for a department permanently unlocks that director's *
 ### 2.1 Spires Missions (Director Majin)
 1. *Threshold Sentry:* Execute 3 standard work sessions in the Spires department. (Reward: Movement Speed +5%).
 2. *Tactical Verification:* Achieve 5 Good work outcomes with Rank II Murmur entities. (Reward: Enhanced Starting Uniforms).
-3. *Iron Suppression:* Suppress a First Watch (Dawn) Ordeal incursion. (Reward: Tactical Pistol Buff).
+3. *Iron Suppression:* Suppress a First Watch Ordeal incursion. (Reward: Tactical Pistol Buff).
 4. *Sovereign Threshold:* Complete a shift at Meltdown Level VI with zero casualties. (Reward: Unlocks Majin Core Suppression).
 
 ### 2.2 Central Administration Missions (Secretary Seiyon)
 1. *Ledger Auditing:* Complete 5 work sessions with positive Han-Energy yields. (Reward: Work Success +5%).
 2. *Cross-Floor Balancing:* Execute at least 2 work sessions in four different departments. (Reward: Energy Quota +5%).
-3. *The Record Intact:* Suppress a Second Watch (Noon) Ordeal without clerk casualties. (Reward: Archival Visualization).
+3. *The Record Intact:* Suppress a Second Watch Ordeal without auxiliary casualties. (Reward: Archival Visualization).
 4. *Unbroken Continuity:* Achieve daily quota with zero panic events facility-wide. (Reward: Unlocks Seiyon Core Suppression).
 
 ### 2.3 Maw's Keep Missions (Lead Dekan)
@@ -73,14 +73,14 @@ Completing all four tiers for a department permanently unlocks that director's *
 
 ### 2.5 Insight Forge Missions (Lead Ayshuk)
 1. *Sensor Calibration:* Perform 4 👁 **Viderehan** (Observation) work sessions. (Reward: Work Speed +10%).
-2. *Cognitive Decoding:* Fully unlock all four Observation Levels for three entities. (Reward: E-Box Visualization).
+2. *Cognitive Decoding:* Fully unlock all four Observation Levels for three entities. (Reward: Positive Box Visualization).
 3. *Anomalous Behavioral Study:* Successfully work with a high-threat Rank IV Entity. (Reward: Mental Shield Buff).
 4. *Total Synthesis:* Complete shift with all departmental entities researched. (Reward: Unlocks Ayshuk Core Suppression).
 
 ### 2.6 Border Watch Missions (Lead Mellda)
 1. *Perimeter Patrol:* Station four specialists in Border Watch corridors for 5 minutes. (Reward: All-Pressure Defense +0.1).
 2. *Quarantine Execution:* Intercept and suppress two breaching entities simultaneously. (Reward: Arm-Blade Fabrication).
-3. *The Dusk Line:* Suppress a Third Watch (Dusk) Ordeal incursion. (Reward: Heavy Tactical Plate).
+3. *The Dusk Line:* Suppress a Third Watch Ordeal incursion. (Reward: Heavy Tactical Plate).
 4. *Frontier Lockdown:* Clear shift with zero border breaches recorded. (Reward: Unlocks Mellda Core Suppression).
 
 ### 2.7 Deep Vault Missions (Lead Marjuk)
@@ -98,7 +98,7 @@ Completing all four tiers for a department permanently unlocks that director's *
 ### 2.9 Gate Watch Missions (Lead Xyan)
 1. *Abyss Watch:* Maintain specialists stationed at the Gate Watch blast doors for 10 minutes. (Reward: Panic Threshold +20 SP).
 2. *Void Endurance:* Complete 5 work sessions with entities dealing ⚪ **Void** damage. (Reward: Pale Inversion Mantle).
-3. *The Midnight Stand:* Suppress a Tide Watch (Midnight) Ordeal incursion. (Reward: Neural Spine Fabrication).
+3. *The Midnight Stand:* Suppress a Tide Watch Ordeal incursion. (Reward: Neural Spine Fabrication).
 4. *The Final Gate:* Complete shift at Meltdown Level X with all Gate Watch staff alive. (Reward: Unlocks Xyan Core Suppression).
 
 ## 3 Tactical Preparation and Shift Planning

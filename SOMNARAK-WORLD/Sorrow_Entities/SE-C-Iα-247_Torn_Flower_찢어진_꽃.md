@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes calmer when someone remains nearby.
 - It has never attacked without being touched.
 
-**Personnel Note:** *"I felt emptiness. The Flower was not asking to be fixed. It was asking someone to see what had been torn."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt emptiness. The Flower was not asking to be fixed. It was asking someone to see what had been torn."* — Specialist, Zone D patrol
 
 
 
@@ -382,6 +382,6 @@ Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that ope
 ## Document Information
 
 **Document ID:** SE-C-Iα-247
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Restricted

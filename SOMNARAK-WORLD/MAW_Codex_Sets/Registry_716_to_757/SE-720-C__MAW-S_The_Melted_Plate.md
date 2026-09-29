@@ -4,7 +4,7 @@
 **Document ID:** `SE-720-C`  
 **Linked Entity:** `SE-720` — Aphasia  
 **Item Registry Code:** `MAW-S-720-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Melted Plate is the suit of Aphasia’s set, bound by the same rule as its s
 **Document ID:** `SE-720-C`  
 **Linked Entity:** `SE-720`  
 **Item Registry Code:** `MAW-S-720-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

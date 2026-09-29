@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-762` — Grasp  
 **Source SECC Designation:** `O-IVδ-762 [O]`  
 **Item Registry Code:** `MAW-S-762-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Grasp — Witnessed Form*, Grasp Shroud performs the suit role while the
 **Document ID:** `SE-762-C`  
 **Linked Entity:** `SE-762`  
 **Item Registry Code:** `MAW-S-762-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

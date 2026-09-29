@@ -2,7 +2,7 @@
 """
 tools/apply_speed_range_maw_p_system.py
 Implements:
-1. Agent Base Speed & Range Attributes
+1. Specialist Base Speed & Range Attributes
 2. M.A.W.-W (Weapon) Speed & Range Modifier Engine
 3. The Four P-Framework:
    - P1: Passives (M.A.W.-W Weapon Passives & Operative Synergy)
@@ -325,7 +325,7 @@ def update_absolvohan_overview():
         "P4: Posture | Poise & Stagger Meter | Momentum math & dual-threshold breaks"
     ])
 
-    new_section_abso = f"""### 4.8 Agent Speed & Range Profile and M.A.W.-W Modifiers
+    new_section_abso = f"""### 4.8 Specialist Speed & Range Profile and M.A.W.-W Modifiers
 
 Within Facility 01, containment agents operate with an intrinsic **Base Speed Die** and **Natural Range Affinity** on the 10-node facility grid, modified by equipped Materialized Agony Wear weaponry (**M.A.W.-W**):
 

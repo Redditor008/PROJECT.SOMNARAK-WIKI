@@ -7,7 +7,7 @@
 **Document ID:** `SE-260-B`  
 **Linked Entity:** `SE-260` — Bridge to Nowhere  
 **Item Registry Code:** `MAW-W-260-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Span marks, Shroud anchors, Requiem prevents impossible ascent. The Bridge sings
 **Document ID:** `SE-260-B`  
 **Linked Entity:** `SE-260`  
 **Item Registry Code:** `MAW-W-260-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

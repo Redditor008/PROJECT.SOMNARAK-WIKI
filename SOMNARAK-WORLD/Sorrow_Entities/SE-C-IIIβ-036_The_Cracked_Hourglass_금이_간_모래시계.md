@@ -444,6 +444,6 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent â€
 ## Document Information
 
 **Document ID:** SE-C-IIIÎ²-036
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4218
 **Classification:** Restricted

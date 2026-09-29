@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1038` — Heirloom  
 **Source SECC Designation:** `O-IVδ-909 [GP]`  
 **Item Registry Code:** `MAW-W-1038-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Heirloom — Witnessed Form*, The Echo Fang performs the weapon role whi
 **Document ID:** `SE-1038-B`  
 **Linked Entity:** `SE-1038`  
 **Item Registry Code:** `MAW-W-1038-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

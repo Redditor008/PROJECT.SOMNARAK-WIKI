@@ -173,7 +173,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 **Range:** 3 (Medium: 2–4m)
 **Pattern:** Sweeping Tendril Lash / Constriction
 
-**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in an Agent's hand, it draws warmth from their pulse; its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
+**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in an Specialist's hand, it draws warmth from their pulse; its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
 
 **Ability:** *Constricting Lash* — Deals Grudge damage across Range 3 (2–4m). Sweeping strikes wrap around enemy limbs, applying bleed and immobilizing targets for 1 turn.
 
@@ -228,7 +228,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The body pressure is different from standard grudge. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Agent, Field Team 6
+> *"The body pressure is different from standard grudge. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Specialist, Field Team 6
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -275,10 +275,10 @@ The entity does not rage. It does not weep. It persists — body and grudge, pat
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The body register is not in the manual. We learned it by failing."* — Agent, Field Team
+*"The body register is not in the manual. We learned it by failing."* — Specialist, Field Team
 *"I have worked grudge entities for six years. This one is different. The body makes it personal."* — Handler
 *"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the body register for three days."* — Agent, Recovery
+*"After contact, I could not stop thinking in the body register for three days."* — Specialist, Recovery
 *"It is one of the first of its kind. We are still learning what Hazard-Body means."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record

@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It pulses during the Sorrow Tide.
 - Touch produces wonder followed by emotional distance.
 
-**Personnel Note:** *"It was standing in the garden like a small piece of winter. I felt wonder first, then the sorrow inside it."* — Agent, Zone C patrol
+**Personnel Note:** *"It was standing in the garden like a small piece of winter. I felt wonder first, then the sorrow inside it."* — Specialist, Zone C patrol
 
 
 
@@ -424,6 +424,6 @@ Some sorrows are preserved. Seething Tundra is a sorrow preserved too well — t
 ## Document Information
 
 **Document ID:** SE-C-Iα-884
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

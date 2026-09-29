@@ -7,7 +7,7 @@
 **Document ID:** `SE-503-B`  
 **Linked Entity:** `SE-503` — Hover  
 **Item Registry Code:** `MAW-W-503-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Hover Requiem is a pale-blue blade containing one floating injury reflection
 **Document ID:** `SE-503-B`  
 **Linked Entity:** `SE-503`  
 **Item Registry Code:** `MAW-W-503-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

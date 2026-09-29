@@ -7,7 +7,7 @@
 **Document ID:** `SE-519-C`  
 **Linked Entity:** `SE-519` — Mourning a Life I Never Lived  
 **Item Registry Code:** `MAW-S-519-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ This Empty Veil is a pale veil of Han gossamer with imagined roots woven outside
 **Document ID:** `SE-519-C`  
 **Linked Entity:** `SE-519`  
 **Item Registry Code:** `MAW-S-519-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

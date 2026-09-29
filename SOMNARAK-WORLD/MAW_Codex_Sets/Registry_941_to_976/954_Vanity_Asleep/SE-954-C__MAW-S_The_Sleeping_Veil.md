@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-954` — Vanity Asleep  
 **Source SECC Designation:** `N-IIIγ-954 [VS]`  
 **Item Registry Code:** `MAW-S-954-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Vanity Asleep — Witnessed Form*, The Sleeping Veil performs the suit r
 **Document ID:** `SE-954-C`  
 **Linked Entity:** `SE-954`  
 **Item Registry Code:** `MAW-S-954-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

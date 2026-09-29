@@ -31,7 +31,7 @@ def build_codex():
         "1. Reverie Directorate (R.D.)   : Facility 01 Containment & M.A.W. Forge",
         "2. Exploration Decreed (SED)    : Subterranean Cartography & Abyss Fleet",
         "3. Cleanup Descend (UCD)        : Tactical Urban Purge & Anti-Fray Force",
-        "4. The Memory Archive (Gieok)   : Sub-Alpha Spire & Key Page Extraction",
+        "4. The Memory Archive (Gieok)   : Sub-Alpha Spire & Memory Leaf Extraction",
         "5. The Horizon Caravan (Jipyeong): Trans-Desolate Transit & Inter-City Road",
         "---",
         "CIVIC INFRASTRUCTURE CONGLOMERATES & INDUSTRIAL TRUSTS:",
@@ -58,7 +58,7 @@ def build_codex():
         "Reverie Directorate   | Subterranean Facility 01| Containment & M.A.W.",
         "Exploration Decreed   | Deep Abyssal Strata     | Maw Cartography",
         "Cleanup Descend       | Municipal Underworld    | Anti-Fray Purge",
-        "The Memory Archive    | Sub-Alpha Roots (-3.2km)| Mnemonic Key Pages",
+        "The Memory Archive    | Sub-Alpha Roots (-3.2km)| Mnemonic Memory Leaves",
         "The Horizon Caravan   | The Desolate (Overland) | Inter-City Bridge"
     ])
     sections.append(wrap_box(pentagon_table))
@@ -137,12 +137,12 @@ def build_codex():
     
     # 2.4 The Memory Archive
     sections.append("### 2.4 The Memory Archive (기억 저장소 — Gieok Jeojangso)\n\n")
-    sections.append("Carved directly inside the sub-Alpha root strata between -2,350m and -3,250m, the **Memory Archive** is the sovereign sanctuary of human consciousness. Here, memories deemed too traumatic, destabilizing, or corrosive for surface life are surgically extracted, cataloged into living books, and transmuted into sovereign **Key Pages (핵심 책장)**.\n\n")
+    sections.append("Carved directly inside the sub-Alpha root strata between -2,350m and -3,250m, the **Memory Archive** is the sovereign sanctuary of human consciousness. Here, memories deemed too traumatic, destabilizing, or corrosive for surface life are surgically extracted, cataloged into living books, and transmuted into sovereign **Memory Leaves (핵심 책장)**.\n\n")
     sections.append("- **Sovereign Headquarters:** The Spire of Living Pages, Deep Sub-Alpha Roots (-3,250m).\n")
-    sections.append("- **Primary Operational Mandate:** Reception and pacification of destabilized human souls, archival codification of planetary history prior to the Great Fracture, and synthesis of mnemonic armaments.\n")
+    sections.append("- **Primary Operational Mandate:** Reading and pacification of destabilized human souls, archival codification of planetary history prior to the Great Fracture, and synthesis of mnemonic armaments.\n")
     sections.append("- **Insignia & Colors:** The Open Book with an Iris of Silver Light; starlight silver and parchment cream.\n\n")
     
-    gieok_box = make_box("THE MEMORY ARCHIVE: SEVEN STRATA RECEPTIONS", [
+    gieok_box = make_box("THE MEMORY ARCHIVE: SEVEN STRATA READINGS", [
         "FLOOR & STRATUM       | KEEPING ARCHIVIST       | PSYCHIC TRAUMA KEY",
         "----------------------+-------------------------+--------------------",
         "Floor 1: Ash Strata   | Keeper Vaelen           | Lost Origins",
@@ -155,7 +155,7 @@ def build_codex():
     ])
     sections.append(wrap_box(gieok_box))
     
-    sections.append("Led by the synthesized consciousness of **Secretary Seiyon**, the Archive executes Receptions using dialectic inquests and 10-node combat chambers, transmuting centuries of human agony into enduring crystalline strength.\n\n")
+    sections.append("Led by the synthesized consciousness of **Secretary Seiyon**, the Archive executes Readings using dialectic inquests and 10-node combat chambers, transmuting centuries of human agony into enduring crystalline strength.\n\n")
     
     # 2.5 The Horizon Caravan
     sections.append("### 2.5 The Horizon Caravan (지평선대 — Jipyeongseon Dae)\n\n")
@@ -240,7 +240,7 @@ def build_codex():
         "Reverie Directorate     | Extracted M.A.W. Weapons | UCD & SED Shock Teams",
         "SED Abyssal Bore Fleet  | Pre-Calamity Relic Ores  | R.D. Floor 3 Forge",
         "UCD Strike Force        | Confiscated Sorrow Casks | R.D. Containment Cells",
-        "Memory Archive          | Transmuted Key Pages     | All 5 Command Staff",
+        "Memory Archive          | Transmuted Memory Leaves     | All 5 Command Staff",
         "Horizon Caravan         | Cheonbulok Rage-Crystals | Giltong Energy Grid",
         "Horizon Caravan         | Rescued Skilled Refugees | SED & UCD Engineering"
     ])

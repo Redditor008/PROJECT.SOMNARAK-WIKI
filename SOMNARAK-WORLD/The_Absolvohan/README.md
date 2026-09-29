@@ -244,7 +244,7 @@ The chronological narrative intentionally transitions from Day 177 directly to D
 Every day within the chronicle follows an exhaustive operational management blueprint:
 1. **Dialogue Section:** Verbatim character interaction between Echo-Cores.
 2. **Multi-Floor Deployment Roster:** Floor-by-floor operative assignments (Floors 1–8) with active Attendant Auras.
-3. **Granular Work Type Management Tables:** Canonical SECC codes, assigned agents, Work Types (Flerehan, Pugnahan, Viderehan, Ferrehan), Chamber Acoustic Stress, Sorrow Gauge Δ, Positive vs Negative Han yield, and OP gains.
+3. **Granular Work Type Management Tables:** Canonical SECC codes, assigned specialists, Work Types (Flerehan, Pugnahan, Viderehan, Ferrehan), Chamber Acoustic Stress, Sorrow Gauge Δ, Positive vs Negative Han yield, and OP gains.
 4. **Tactical Command Directives Deployed:** Decision Core interventions (Han Salve Jet, Veil Mist Dampener, 4-Sign Aegis, Acoustic Siphon, Quarantine Severance).
 5. **Acoustic Strain Meltdown Tracker:** Meltdown Levels (I–X), 45-second timer status, and Acoustic Overload checks.
 6. **Ordeal Suppression Tactical Dossier:** Ordeal classification (Color × Watch), Clash resolution, Range Bands 1–5, and Sanity Restoration actions.

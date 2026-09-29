@@ -94,7 +94,7 @@ After the Cycle ends he does not become younger and the marks do not fade. He be
 
 Majin is patient, decisive, and economical. He speaks in short declarative sentences, asks for the report before the explanation, and rarely raises his voice. He does not confuse calm with passivity — during a breach or Ordeal he assigns teams immediately and distinguishes urgency from panic.
 
-He notices personnel strain that statistics miss. On Day 0 he moves Agent Lee off Entity 001 after forty-seven consecutive days, explaining that the Bell has begun entering the agent's sleep. He refuses to blame Ayshuk when the Kind Healer reaches its tenth blessing. He lets non-hostile Desolate nomads through the perimeter during a Han-storm rather than treating them as automatic hostiles.
+He notices personnel strain that statistics miss. On Day 0 he moves Specialist Lee off Entity 001 after forty-seven consecutive days, explaining that the Bell has begun entering the agent's sleep. He refuses to blame Ayshuk when the Kind Healer reaches its tenth blessing. He lets non-hostile Desolate nomads through the perimeter during a Han-storm rather than treating them as automatic hostiles.
 
 He does not sleep. He does not rest. He continues.
 
@@ -135,7 +135,7 @@ His office is on **Floor 1 (Neutral)**, the Palm's top floor, alongside the Secr
 **Operational responsibilities:**
 
 - Entity containment and Sorrow Gauge policy
-- Agent deployment, reassignment, and rotation approval
+- Specialist deployment, reassignment, and rotation approval
 - Authorization of Flerehan, Pugnahan, Viderehan, and Ferrehan work
 - M.A.W. extraction approval
 - Ordeal response and perimeter breach command
@@ -189,10 +189,10 @@ He walks to the Central Command window, looks down over the Hand of Change, and 
 
 **[FACILITY STATUS — MORNING REPORT]** — 246 entities contained, 1,179 personnel on duty, 9 Echo-Cores operational.
 
-During morning assignments the Director changes one posting. Agent Lee is moved off Entity 001, the Orphaned Bell.
+During morning assignments the Director changes one posting. Specialist Lee is moved off Entity 001, the Orphaned Bell.
 
-> **Seiyon:** *"Agent Lee has been assigned to The Orphaned Bell for 47 consecutive days. Why the change?"*
-> **Majin:** *"Agent Lee has been hearing the Bell's toll in their sleep. The Bell is getting inside them. They need distance."*
+> **Seiyon:** *"Specialist Lee has been assigned to The Orphaned Bell for 47 consecutive days. Why the change?"*
+> **Majin:** *"Specialist Lee has been hearing the Bell's toll in their sleep. The Bell is getting inside them. They need distance."*
 > **Seiyon:** *"Noted. Reassignment logged."*
 
 A Breach Ordeal is forecast for the evening. Seiyon asks whether to alert the teams.
@@ -511,7 +511,7 @@ Majin spends most of the Cycle preventing the Kind Healer from reaching twelve b
 
 ### The Orphaned Bell
 
-The Bell is among the facility's most persistent moral witnesses. It enters agents' dreams, tolls through the Cycle, and mourns the Cheonbulok envoy Majin refused. Where the Director says *"Noted,"* the Bell answers with mourning.
+The Bell is among the facility's most persistent moral witnesses. It enters specialists' dreams, tolls through the Cycle, and mourns the Cheonbulok envoy Majin refused. Where the Director says *"Noted,"* the Bell answers with mourning.
 
 ---
 

@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It reacts violently to claims that the relic never existed.
 - Its fire does not consume material; it burns memory.
 
-**Personnel Note:** *"It was watching. I felt rage, but beneath the rage was an instruction: remember."* — Agent, Zone B patrol
+**Personnel Note:** *"It was watching. I felt rage, but beneath the rage was an instruction: remember."* — Specialist, Zone B patrol
 
 
 

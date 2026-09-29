@@ -18,12 +18,12 @@ def get_day_149_combat():
         "[FIREFLIES]     [PARK]          [SEIYON]                [MAJIN]         ",
         "---",
         "- Node 01: Swarm of Twilight Fireflies (Agitation 52/120 / 432Hz)",
-        "- Node 03: Agent Park (Range Band 2 / Flerehan Acoustic Staff)",
+        "- Node 03: Specialist Park (Range Band 2 / Flerehan Acoustic Staff)",
         "- Node 05: Secretary Seiyon (Range Band 3 / Tuning Conduit Valves)",
         "- Node 08: Director Majin (Command Console / Manifold Monitoring)",
         "---",
         "- Seiyon      : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 65/65",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 65/65",
         "- Fireflies   : Spd 4 -> 2 AP | Agitation 52/120 [60% STAGGER TRIGGERED]"
     ])
 
@@ -33,11 +33,11 @@ def get_day_149_combat():
         "        [SWARM] [PARK]          [SEIYON]                [MAJIN]         ",
         "---",
         "- Node 02: Swarm (Advancing Calmly / Agitation 28/120 / Hope 75%)",
-        "- Node 03: Agent Park (Momentum Surge / Choral Resonance Amplified)",
+        "- Node 03: Specialist Park (Momentum Surge / Choral Resonance Amplified)",
         "- Node 05: Secretary Seiyon (Priming Manifold Intake Flanges)",
         "---",
         "- Seiyon      : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70",
-        "- Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +35 | Posture 65/65",
+        "- Specialist Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +35 | Posture 65/65",
         "- Fireflies   : Spd 3 -> 1 AP | Agitation 28/120 | Hope Index +75%"
     ])
 
@@ -47,11 +47,11 @@ def get_day_149_combat():
         "                [SWARM] [PARK]  [SEIYON]                [MAJIN]         ",
         "---",
         "- Node 03: Fireflies Swarm (Encircled Around Open Acoustic Valve)",
-        "- Node 04: Agent Park (Directional Guard Absorption / Guided Flow)",
+        "- Node 04: Specialist Park (Directional Guard Absorption / Guided Flow)",
         "- Node 05: Secretary Seiyon (Opening Primary Intake Manifold)",
         "---",
         "- Seiyon      : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70",
-        "- Agent Park  : Spd 8 -> 4 AP | HP 120/120 | SP +35 | Posture 65/65",
+        "- Specialist Park  : Spd 8 -> 4 AP | HP 120/120 | SP +35 | Posture 65/65",
         "- Fireflies   : Spd 2 -> 1 AP | Agitation 12/120 | Hope Index +90%"
     ])
 
@@ -62,7 +62,7 @@ def get_day_149_combat():
         "                        [PARK]",
         "---",
         "- Node 04: Fireflies (TERMINAL STAGGER / AGITATION 0/120 / PURE HOPE)",
-        "- Node 04: Agent Park (Executing Viderehan Harmonic Phase Lock)",
+        "- Node 04: Specialist Park (Executing Viderehan Harmonic Phase Lock)",
         "- Node 05: Secretary Seiyon (Aligning Pressure Gradients)",
         "---",
         "- Fireflies   : Spd 0 -> 0 AP | Agitation 0/120 | Transmutation: 100%"
@@ -89,7 +89,7 @@ def get_day_149_combat():
 ###### Turn 02 Action Resolution Log (Conduit Tuning & Harmonic Stagger)
 - **Acoustic Alignment & Stagger Induction**:
   * Secretary Seiyon tunes the Floor 1 acoustic bypass to resonate at exactly 432.18 Hz.
-  * Agent Park channels a gentle Flerehan wave from Node 03:
+  * Specialist Park channels a gentle Flerehan wave from Node 03:
     * Deals **0 Physical Harm**, delivering **38 Harmonic Pacification Points**!
     * Agitation drops to **52/120**, crossing the **60% Stagger Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The fireflies cease defensive darting and begin a slow, synchronized orbital dance.
@@ -102,7 +102,7 @@ def get_day_149_combat():
 
 ###### Turn 03 Action Resolution Log (Hope Conversion & Momentum Surge)
 - **Resonant Harmonization (1.5x Harmonic Multiplier)**:
-  * Agent Park's `Momentum Surge` activates! (+2 Speed next turn).
+  * Specialist Park's `Momentum Surge` activates! (+2 Speed next turn).
   * Park channels pure weeping accord, converting remaining sorrow frequencies into golden Hope.
   * Firefly Agitation drops to **28/120**; swarm Hope index rises to **+75%**.
 
@@ -149,11 +149,11 @@ def get_day_151_combat():
         "[SPIRITS]       [SHIN]  [DEKAN]                         [MAJIN]         ",
         "---",
         "- Node 01: Sleep-Spirits (Sorrow 46/130 / Sinking into Deep Reverie)",
-        "- Node 03: Agent Shin (Range Band 2 / Singing First Verse of Lullaby)",
+        "- Node 03: Specialist Shin (Range Band 2 / Singing First Verse of Lullaby)",
         "- Node 04: Attendant Dekan (Range Band 2 / Maw Bastion Acoustic Ward)",
         "- Node 08: Director Majin & Attendants (Gallery Acoustic Overlook)",
         "---",
-        "- Agent Shin  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Shin  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/105",
         "- Spirits     : Spd 3 -> 1 AP | Sorrow 46/130 [60% STAGGER TRIGGERED]"
     ])
@@ -164,10 +164,10 @@ def get_day_151_combat():
         "        [SPIRITS][SHIN] [DEKAN]                         [MAJIN]         ",
         "---",
         "- Node 02: Spirits (Arms Lowered in Peace / Sorrow 24/130)",
-        "- Node 03: Agent Shin (Momentum Surge / Second Verse Chanted)",
+        "- Node 03: Specialist Shin (Momentum Surge / Second Verse Chanted)",
         "- Node 04: Attendant Dekan (Shielding Acoustic Bounce off Vault Walls)",
         "---",
-        "- Agent Shin  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Shin  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Posture 65/65",
         "- Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/105",
         "- Spirits     : Spd 2 -> 1 AP | Sorrow 24/130 | Agitation Transmuted"
     ])
@@ -178,10 +178,10 @@ def get_day_151_combat():
         "                [SPIRITS][SHIN][DEKAN]                  [MAJIN]         ",
         "---",
         "- Node 03: Sleep-Spirits (Humming in Synchrony with Choral Staff)",
-        "- Node 04: Agent Shin (Matching Pitch with Ancient Floor Canticle)",
+        "- Node 04: Specialist Shin (Matching Pitch with Ancient Floor Canticle)",
         "- Node 05: Attendant Dekan (Directional Guard / Nullifying Discord)",
         "---",
-        "- Agent Shin  : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Shin  : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/105",
         "- Spirits     : Spd 2 -> 1 AP | Sorrow 10/130 | Trance Pacified"
     ])
@@ -193,14 +193,14 @@ def get_day_151_combat():
         "                        [SHIN]  [DEKAN]",
         "---",
         "- Node 04: Sleep-Spirits (TERMINAL STAGGER / SORROW 0/130 / PEACEFUL)",
-        "- Node 04: Agent Shin (Final Verse Resonance Complete)",
+        "- Node 04: Specialist Shin (Final Verse Resonance Complete)",
         "- Node 05: Attendant Dekan (Opening Bedrock Drain Wells)",
         "---",
         "- Spirits     : Spd 0 -> 0 AP | Sorrow 0/130 | Transmutation: 100%"
     ])
 
     hud_t06 = make_box("TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — DISSOLUTION & CLEAR WATER RECEPTION]",
+        "[STAGE NODES 01 TO 10 — DISSOLUTION & CLEAR WATER READING]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "                        [WATER] [SHIN]  [DEKAN]         [MAJIN]         ",
         "---",
@@ -217,7 +217,7 @@ def get_day_151_combat():
 
 ###### Turn 02 Action Resolution Log (First Verse & Spiritual Stagger)
 - **Melodic Cadence & Shielded Reflection**:
-  * Agent Shin sings the opening verse of the ancient lullaby from Node 03.
+  * Specialist Shin sings the opening verse of the ancient lullaby from Node 03.
   * Attendant Dekan anchors his tower shield at Node 04, preventing acoustic backwash from disorienting the gallery:
     * Spirits absorb **42 Melodic Pacification Points**!
     * Sorrow drops to **46/130**, breaching the **60% Stagger Threshold (78 Points)**!
@@ -231,7 +231,7 @@ def get_day_151_combat():
 
 ###### Turn 03 Action Resolution Log (Peaceful Reverie & Momentum Surge)
 - **Gentle Slumber (1.5x Harmonic Multiplier)**:
-  * Agent Shin's `Momentum Surge` activates! (+2 Speed next turn).
+  * Specialist Shin's `Momentum Surge` activates! (+2 Speed next turn).
   * Shin's second verse reverberates through the vault, dissolving centuries of trapped sorrow into calm stillness.
   * Sorrow drops to **24/130**!
 
@@ -278,12 +278,12 @@ def get_day_153_combat():
         "[AVIAN]         [HAN]   [SONG]  [DEKAN]                         [MAJIN] ",
         "---",
         "- Node 01: Celestial Silhouette (Pale Resonance 54/140 / 60% Stagger)",
-        "- Node 03: Agent Han (Range Band 2 / Feather Mantle Vocal Resonance)",
-        "- Node 04: Agent Song (Range Band 2 / Cherub's Lyre Harmonic Chords)",
+        "- Node 03: Specialist Han (Range Band 2 / Feather Mantle Vocal Resonance)",
+        "- Node 04: Specialist Song (Range Band 2 / Cherub's Lyre Harmonic Chords)",
         "- Node 05: Attendant Dekan (Range Band 3 / Maw Grounding Pylons)",
         "---",
-        "- Agent Han   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
-        "- Agent Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
+        "- Specialist Han   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
         "- Silhouette  : Spd 4 -> 2 AP | Pale 54/140 [60% STAGGER TRIGGERED]"
     ])
 
@@ -293,11 +293,11 @@ def get_day_153_combat():
         "        [AVIAN] [HAN]   [SONG]  [DEKAN]                         [MAJIN] ",
         "---",
         "- Node 02: Celestial Silhouette (Wings Folded / Pale Light Warm Gold)",
-        "- Node 03: Agent Han (Momentum Surge / High-Octave Flerehan Duet)",
-        "- Node 04: Agent Song (Lyre Strings Chiming in Perfect Fifths)",
+        "- Node 03: Specialist Han (Momentum Surge / High-Octave Flerehan Duet)",
+        "- Node 04: Specialist Song (Lyre Strings Chiming in Perfect Fifths)",
         "---",
-        "- Agent Han   : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Posture 65/65",
-        "- Agent Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
+        "- Specialist Han   : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
         "- Silhouette  : Spd 3 -> 1 AP | Pale 26/140 | Sorrow Converting"
     ])
 
@@ -307,10 +307,10 @@ def get_day_153_combat():
         "                [AVIAN] [HAN]   [SONG]  [DEKAN]                 [MAJIN] ",
         "---",
         "- Node 03: Avian Silhouette (Extending Wings in Graceful Display)",
-        "- Node 04: Agent Han & Song (Singing Before-Time Forgiveness Refrain)",
+        "- Node 04: Specialist Han & Song (Singing Before-Time Forgiveness Refrain)",
         "- Node 06: Attendant Dekan (Directional Guard Absorption Active)",
         "---",
-        "- Agent Han   : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Han   : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Silhouette  : Spd 2 -> 1 AP | Pale 10/140 | Resonance Stabilized"
     ])
 
@@ -321,7 +321,7 @@ def get_day_153_combat():
         "                        [HAN]   [SONG]  [DEKAN]",
         "---",
         "- Node 04: Silhouette (TERMINAL STAGGER / PALE 0/140 / PURE DAWN LIGHT)",
-        "- Node 04: Agent Han & Song (Flerehan Duet Climaxes in Absolute Accord)",
+        "- Node 04: Specialist Han & Song (Flerehan Duet Climaxes in Absolute Accord)",
         "---",
         "- Silhouette  : Spd 0 -> 0 AP | Pale 0/140 | Transmutation: 100%"
     ])
@@ -344,7 +344,7 @@ def get_day_153_combat():
 
 ###### Turn 02 Action Resolution Log (Avian Octave & Pale Stagger)
 - **Octave Convergence & Bell Resonance**:
-  * Agent Han matches the avian frequency with vocal precision, while Agent Song strums the resonant chords on the lyre.
+  * Specialist Han matches the avian frequency with vocal precision, while Specialist Song strums the resonant chords on the lyre.
   * Attendant Dekan grounds the rotunda floorplates:
     * Silhouette absorbs **44 Harmonization Points**!
     * Pale resonance drops to **54/140**, crossing the **60% Stagger Threshold (84 Points)**!
@@ -358,7 +358,7 @@ def get_day_153_combat():
 
 ###### Turn 03 Action Resolution Log (Three Birds Chime & Momentum Surge)
 - **Harmonic Chord Progression (1.5x Multiplier)**:
-  * Agent Han's `Momentum Surge` activates! (+2 Speed next turn).
+  * Specialist Han's `Momentum Surge` activates! (+2 Speed next turn).
   * The chimes of Big Bird, Judgement Bird, and Punishing Bird echo through the acoustic chambers, softening the Pale light into warm amber dawn.
   * Pale resonance drops to **26/140**!
 

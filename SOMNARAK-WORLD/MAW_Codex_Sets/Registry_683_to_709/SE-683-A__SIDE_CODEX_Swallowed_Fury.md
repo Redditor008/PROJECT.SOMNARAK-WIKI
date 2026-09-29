@@ -6,7 +6,7 @@
 **Document ID:** `SE-683-A`  
 **Related Entity ID:** `SE-683`  
 **SECC Designation:** `C-Iα-683 [GS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ Flerehan clarifies and calms; Pugnahan feeds borrowed fury; Viderehan reveals th
 ---
 **Document ID:** `SE-683-A`  
 **Linked Entity:** `SE-683`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

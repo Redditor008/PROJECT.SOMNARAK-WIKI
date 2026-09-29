@@ -7,7 +7,7 @@
 **Document ID:** `SE-088-D`  
 **Linked Entity:** `SE-088` — The Sorrow Fountain  
 **Item Registry Code:** `MAW-G-088-01`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, sealed blue vial / γ — Major / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; empty vials are inactive, not defective |
-| Known bearer | Agent Haneulash Yoon |
+| Known bearer | Specialist Haneulash Yoon |
 | Resting form | A small deep-blue vial with no stopper. It hangs at the tail slot and remains dry until the bearer weeps. |
 | Active form | A single tear becomes a slow internal tide and makes the glass pulse in time with nearby breathing. |
 | Recognition rule | Artificial moisture, water, and collected Fountain liquid slide off the opening without entering. |
@@ -86,14 +86,14 @@ Yoon used the first filled Vial during a post-surge rest circle. Two responders 
 
 The Vial completes *Common Current* by making consent visible. With Requiem and Shroud, it turns a shared burden into a temporary, chosen current rather than a flood.
 
-> *“The Fountain taught me that a tear is not evidence. It is an offering, and it remains the giver’s.”* — Agent Kkotlom Lee
+> *“The Fountain taught me that a tear is not evidence. It is an offering, and it remains the giver’s.”* — Specialist Kkotlom Lee
 
 ---
 
 **Document ID:** `SE-088-D`  
 **Linked Entity:** `SE-088`  
 **Item Registry Code:** `MAW-G-088-01`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-785` — Tear Too Small to Honor  
 **Source SECC Designation:** `N-Iα-785 [O]`  
 **Item Registry Code:** `MAW-S-785-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Shr
 **Document ID:** `SE-785-C`  
 **Linked Entity:** `SE-785`  
 **Item Registry Code:** `MAW-S-785-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

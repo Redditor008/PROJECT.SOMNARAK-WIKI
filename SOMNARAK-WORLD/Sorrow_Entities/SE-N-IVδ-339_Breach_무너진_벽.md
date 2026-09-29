@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is more active after containment failures.
 - Personnel report fear even in secure rooms.
 
-**Personnel Note:** *"It was watching. I felt fear. The Wall had collapsed long before I entered, but my mind was still waiting for the sound."* — Agent, Zone D patrol
+**Personnel Note:** *"It was watching. I felt fear. The Wall had collapsed long before I entered, but my mind was still waiting for the sound."* — Specialist, Zone D patrol
 
 
 

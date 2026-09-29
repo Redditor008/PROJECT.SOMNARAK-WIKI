@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It points faster near concentrated sorrow.
 - It is useful for finding entities but unreliable for navigation.
 
-**Personnel Note:** *"It was quiet. I felt longing. The Compass did not lead me to a place; it led me to the fact that sorrow was already everywhere."* — Agent, Zone B patrol
+**Personnel Note:** *"It was quiet. I felt longing. The Compass did not lead me to a place; it led me to the fact that sorrow was already everywhere."* — Specialist, Zone B patrol
 
 
 

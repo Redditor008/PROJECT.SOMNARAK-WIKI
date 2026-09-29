@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-863` — Absent Landmark  
 **Source SECC Designation:** `C-Iα-863 [VS]`  
 **Item Registry Code:** `MAW-S-863-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Absent Landmark — Witnessed Form*, The Empty Veil performs the suit ro
 **Document ID:** `SE-863-C`  
 **Linked Entity:** `SE-863`  
 **Item Registry Code:** `MAW-S-863-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

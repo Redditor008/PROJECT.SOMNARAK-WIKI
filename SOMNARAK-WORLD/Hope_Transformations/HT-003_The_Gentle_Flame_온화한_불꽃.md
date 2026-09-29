@@ -30,7 +30,7 @@
 
 The Gentle Flame is a small golden flame that floats above Sooah’s open palm. It has no smoke and produces no ordinary heat. Its outer edge is amber, its center is white, and a faint blue ring appears whenever it is treating sorrow-related injury.
 
-The Flame changes shape according to the person it is helping. Around a frightened child, it becomes a low hearth-fire. Around a wounded Agent, it becomes a narrow candle. When Sooah herself is near collapse, it resembles a small star trying to remain lit in a strong wind.
+The Flame changes shape according to the person it is helping. Around a frightened child, it becomes a low hearth-fire. Around a wounded Specialist, it becomes a narrow candle. When Sooah herself is near collapse, it resembles a small star trying to remain lit in a strong wind.
 
 ### Notable Features
 

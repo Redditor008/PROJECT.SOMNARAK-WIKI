@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It responds to the Sorrow Tide.
 - Personnel report longing near its emptiness.
 
-**Personnel Note:** *"I felt longing. The Seed was heavy because it was carrying sorrow that had never been permitted to stop moving."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt longing. The Seed was heavy because it was carrying sorrow that had never been permitted to stop moving."* — Specialist, Zone B patrol
 
 
 

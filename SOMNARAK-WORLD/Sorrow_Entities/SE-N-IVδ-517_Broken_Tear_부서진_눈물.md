@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The figure fractures when exposed to false comfort.
 - It is more active near liquid-memory entities.
 
-**Personnel Note:** *"It was glowing. I felt loss. The sound was older than every record in the vault, but it still sounded like someone waiting for an answer."* — Agent, Zone C patrol
+**Personnel Note:** *"It was glowing. I felt loss. The sound was older than every record in the vault, but it still sounded like someone waiting for an answer."* — Specialist, Zone C patrol
 
 
 

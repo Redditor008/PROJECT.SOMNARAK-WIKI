@@ -7,7 +7,7 @@
 **Document ID:** `SE-488-C`  
 **Linked Entity:** `SE-488` — Friendless Bridge  
 **Item Registry Code:** `MAW-S-488-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Bridge Plate is a crimson harness of Han iron with two separate shoulder anc
 **Document ID:** `SE-488-C`  
 **Linked Entity:** `SE-488`  
 **Item Registry Code:** `MAW-S-488-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

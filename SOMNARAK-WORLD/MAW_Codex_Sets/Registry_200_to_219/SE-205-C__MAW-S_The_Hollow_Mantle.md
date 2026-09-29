@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-205` — Timber Maw
 **Item Registry Code:** `MAW-S-205-01`
 **Entity Designation:** `C-IVγ-205 [WS]`
-**Author:** Agent Iseulfros Kim, Environmental Hazard Specialist
+**Author:** Specialist Iseulfros Kim, Environmental Hazard Specialist
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -45,7 +45,7 @@ A stable Mantle condenses from the burden left on a Ferrehan worker’s shoulder
 | Holder / wearer | Period | Outcome | Item-specific record |
 |---|---|---|---|
 | Hazard Equipment Locker D-02 | Current custody | Active | Stored unstuffed on an open suspension ring. |
-| Agent Iseulfros Kim | Root-floor breach response | Recovered | Reached two entangled workers; post-use standing failure lasted thirty-seven minutes. |
+| Specialist Iseulfros Kim | Root-floor breach response | Recovered | Reached two entangled workers; post-use standing failure lasted thirty-seven minutes. |
 
 ---
 
@@ -88,7 +88,7 @@ The wearer sits on bare floor while a second person lifts the Mantle outward fro
 
 ## HISTORY OF USE — THE BOWED WALKWAY
 
-Timber Maw crossed the lower garden path during a breach and drove roots beneath the paving. The walkway bent inward, trapping two patrol agents between lifted slabs. Standard armor increased the sinking load.
+Timber Maw crossed the lower garden path during a breach and drove roots beneath the paving. The walkway bent inward, trapping two patrol specialists between lifted slabs. Standard armor increased the sinking load.
 
 Iseulfros removed the rescue pack, sealed the Mantle, and approached with empty hands. The garment yielded each time the floor pressed upward, keeping the Weight from fixing her posture in place. She reached the first agent, directed both casualties to crawl along the Mantle’s wake, and left the pack where it had been dropped.
 
@@ -130,14 +130,14 @@ When Timber Maw sees the Mantle worn by a seated worker, its nearest roots settl
 
 The Mantle is approved for root entanglement, floor compression, and Weight-heavy casualty access. It is not cargo armor, endurance equipment, or justification for a lone responder to accept an entire team’s work.
 
-> *“If the rescue depends on pretending you can carry everything, this armor will expose the pretense before it saves anyone.”* — Agent Iseulfros Kim
+> *“If the rescue depends on pretending you can carry everything, this armor will expose the pretense before it saves anyone.”* — Specialist Iseulfros Kim
 
 ---
 
 **Document ID:** `SE-205-C`
 **Linked Entity:** `SE-205`
 **Item Registry Code:** `MAW-S-205-01`
-**Author:** Agent Iseulfros Kim, Environmental Hazard Specialist
+**Author:** Specialist Iseulfros Kim, Environmental Hazard Specialist
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

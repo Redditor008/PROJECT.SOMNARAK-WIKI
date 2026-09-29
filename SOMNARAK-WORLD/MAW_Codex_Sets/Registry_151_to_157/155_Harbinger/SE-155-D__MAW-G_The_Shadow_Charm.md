@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, black ledger-charm / β — Moderate / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; external-review use only |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small black charm whose surface reflects a line of text that disappears when read directly. |
 | Active form | A shadow line points toward one pending obligation or unexamined balance pressure. |
 | Recognition rule | It shows no result if the bearer has not agreed to an independent reviewer. |

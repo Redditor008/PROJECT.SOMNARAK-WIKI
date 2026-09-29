@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It spreads through ledgers and family records.
 - It becomes peaceful when both sides acknowledge the distance.
 
-**Personnel Note:** *"I felt peace. The Bridge did not connect us, but it made the space between us honest."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt peace. The Bridge did not connect us, but it made the space between us honest."* — Specialist, Zone B patrol
 
 
 

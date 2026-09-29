@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-778` — Well of Unfinished Words  
 **Source SECC Designation:** `N-IIβ-778 [LP]`  
 **Item Registry Code:** `MAW-S-778-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Well of Unfinished Words — Witnessed Form*, The Listening Shroud perfo
 **Document ID:** `SE-778-C`  
 **Linked Entity:** `SE-778`  
 **Item Registry Code:** `MAW-S-778-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

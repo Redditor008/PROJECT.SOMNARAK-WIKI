@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - External removal is mandatory in every test.
 
 **Personnel Note:**
-> *"The smile was perfect. That was how I knew it was lying."* — Agent Kkotlom Lee, Mask Market
+> *"The smile was perfect. That was how I knew it was lying."* — Specialist Kkotlom Lee, Mask Market
 
 
 
@@ -433,6 +433,6 @@ Some sorrows are about loss. The Happy Mask is about performance — the lifelon
 ## Document Information
 
 **Document ID:** SE-C-IIβ-051
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4228
 **Classification:** Restricted

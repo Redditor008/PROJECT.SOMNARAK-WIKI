@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-946` — Blackened Angel  
 **Source SECC Designation:** `C-IVγ-946 [WO]`  
 **Item Registry Code:** `MAW-W-946-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Blackened Angel — Witnessed Form*, The Tarnish Plume performs the weap
 **Document ID:** `SE-946-B`  
 **Linked Entity:** `SE-946`  
 **Item Registry Code:** `MAW-W-946-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

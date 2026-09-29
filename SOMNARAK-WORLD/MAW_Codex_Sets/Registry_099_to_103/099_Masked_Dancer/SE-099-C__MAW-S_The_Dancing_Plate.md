@@ -21,7 +21,7 @@
 | Type / grade / element | Protective Attire (Ceremonial Silk Robe & Stole) / β — Moderate / Grudge — Crimson |
 | Status | Active; scheduled rest checks required |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Kkotlom Lee |
+| Current bearer | Specialist Kkotlom Lee |
 | Resting form | Billowing black and crimson ceremonial silk robe with elongated sleeves and a fluttering ribbon stole. |
 | Active form | Each plate shifts a fraction of a beat ahead of the wearer, catching impact in the direction of movement. |
 | Recognition rule | The breastplate bears one cool circle that turns warm only when a stop cue is registered. |
@@ -87,7 +87,7 @@ Lee wore the Plate during a corridor evacuation where repeated impacts had made 
 
 The Plate is the safeguard inside *Chosen Intermission*: the Fang may open a path and the Mask may sharpen a step, but the Plate remembers that movement must have an end.
 
-> *“Do not call a suit protective if it makes rest feel like a breach.”* — Agent Iseulfros Kim
+> *“Do not call a suit protective if it makes rest feel like a breach.”* — Specialist Iseulfros Kim
 
 ---
 

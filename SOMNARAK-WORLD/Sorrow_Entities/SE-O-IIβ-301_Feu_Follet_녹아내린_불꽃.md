@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is calmer when its source is accepted as imperfect.
 - It produces grief after comfort ends.
 
-**Personnel Note:** *"It was watching. I felt grief. The Flame was not a monster; it was the memory of safety melting under examination."* — Agent, Zone D patrol
+**Personnel Note:** *"It was watching. I felt grief. The Flame was not a monster; it was the memory of safety melting under examination."* — Specialist, Zone D patrol
 
 
 

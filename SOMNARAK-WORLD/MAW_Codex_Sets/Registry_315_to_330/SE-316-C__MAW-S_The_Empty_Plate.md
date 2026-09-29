@@ -7,7 +7,7 @@
 **Document ID:** `SE-316-C`  
 **Linked Entity:** `SE-316` — Tether  
 **Item Registry Code:** `MAW-S-316-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Knot identifies, Plate guards, Fang cuts self-binding.
 **Document ID:** `SE-316-C`  
 **Linked Entity:** `SE-316`  
 **Item Registry Code:** `MAW-S-316-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

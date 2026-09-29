@@ -7,7 +7,7 @@
 **Document ID:** `SE-270-B`  
 **Linked Entity:** `SE-270` — Mnemosyne  
 **Item Registry Code:** `MAW-W-270-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Shroud anchors witness, Flask receives one record, Requiem separates overflow. M
 **Document ID:** `SE-270-B`  
 **Linked Entity:** `SE-270`  
 **Item Registry Code:** `MAW-W-270-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1038` — Heirloom  
 **Source SECC Designation:** `O-IVδ-909 [GP]`  
 **Item Registry Code:** `MAW-S-1038-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Heirloom — Witnessed Form*, The Echo Plate performs the suit role whil
 **Document ID:** `SE-1038-C`  
 **Linked Entity:** `SE-1038`  
 **Item Registry Code:** `MAW-S-1038-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

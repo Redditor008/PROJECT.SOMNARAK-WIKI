@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-785` — Tear Too Small to Honor  
 **Source SECC Designation:** `N-Iα-785 [O]`  
 **Item Registry Code:** `MAW-W-785-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Req
 **Document ID:** `SE-785-B`  
 **Linked Entity:** `SE-785`  
 **Item Registry Code:** `MAW-W-785-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -30,7 +30,7 @@ Only Viderehan and Ferrehan are valid. Viderehan reveals grievance; Ferrehan hol
 
 **Resonance — Old Anger, Present Choice:** Shard identifies suppressed anger, Plate bears it, and Fang cuts only the record dismissing the death. The holder consciously returns the grievance. Using it against a current person makes all three treat them as the original dismissing crowd.
 
-**Incident:** a holder attacked a present clerk after touching the Tear. Marjuk found the anger belonged to an unrecorded death generations earlier. Correcting that absence let the holder set it down without denying its truth.
+**Incident:** a holder attacked a present auxiliary after touching the Tear. Marjuk found the anger belonged to an unrecorded death generations earlier. Correcting that absence let the holder set it down without denying its truth.
 
 ---
 **Document ID:** `SE-709-A`  

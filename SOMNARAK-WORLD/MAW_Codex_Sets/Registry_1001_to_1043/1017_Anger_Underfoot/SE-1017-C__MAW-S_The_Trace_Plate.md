@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1017` — Anger Underfoot  
 **Source SECC Designation:** `C-Iα-175 [GP]`  
 **Item Registry Code:** `MAW-S-1017-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Anger Underfoot — Witnessed Form*, The Trace Plate performs the suit r
 **Document ID:** `SE-1017-C`  
 **Linked Entity:** `SE-1017`  
 **Item Registry Code:** `MAW-S-1017-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -143,7 +143,7 @@ def build_codex():
         "Reverie Directorate | Floor 2 Dekan & Floor 6 | Contains Maw Entities",
         "SED Abyssal Corps   | Katabagil Passage 6     | Charts Sunken Quarry",
         "UCD Strike Force    | Katharcheok Operation 6 | Polices Zone B Fissure",
-        "The Memory Archive  | Reception 6 (Lament)    | Preserves Lost Census",
+        "The Memory Archive  | Reading 6 (Lament)    | Preserves Lost Census",
         "The Horizon Caravan | Gate of Sighs Waystation| Escorts Fissure Exiles"
     ])
     sections.append(wrap_box(inst_scars_box))

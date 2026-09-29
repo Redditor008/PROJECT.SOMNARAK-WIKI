@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-910` — Moktak  
 **Source SECC Designation:** `N-IIβ-910 [WP]`  
 **Item Registry Code:** `MAW-W-910-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Moktak — Witnessed Form*, Moktak's Edge performs the weapon role while
 **Document ID:** `SE-910-B`  
 **Linked Entity:** `SE-910`  
 **Item Registry Code:** `MAW-W-910-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Old links are heavier than new ones.
 - It connects debts across families and institutions.
 
-**Personnel Note:** *"It was watching. I felt grief. The Chain did not show numbers; it showed people holding one another beneath obligations."* — Agent, Zone C patrol
+**Personnel Note:** *"It was watching. I felt grief. The Chain did not show numbers; it showed people holding one another beneath obligations."* — Specialist, Zone C patrol
 
 
 

@@ -426,6 +426,6 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-145
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

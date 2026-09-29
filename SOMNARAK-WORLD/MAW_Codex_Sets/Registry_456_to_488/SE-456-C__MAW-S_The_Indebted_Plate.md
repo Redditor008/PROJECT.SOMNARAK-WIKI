@@ -7,7 +7,7 @@
 **Document ID:** `SE-456-C`  
 **Linked Entity:** `SE-456` — Orchard of the Indebted  
 **Item Registry Code:** `MAW-S-456-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Indebted Plate is a crimson harness of Han iron patterned with fading fruit 
 **Document ID:** `SE-456-C`  
 **Linked Entity:** `SE-456`  
 **Item Registry Code:** `MAW-S-456-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

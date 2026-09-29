@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1026` — The Rising Wall  
 **Source SECC Designation:** `C-IVδ-255 [N]`  
 **Item Registry Code:** `MAW-S-1026-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Rising Wall — Witnessed Form*, The Rising Shroud performs the suit
 **Document ID:** `SE-1026-C`  
 **Linked Entity:** `SE-1026`  
 **Item Registry Code:** `MAW-S-1026-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

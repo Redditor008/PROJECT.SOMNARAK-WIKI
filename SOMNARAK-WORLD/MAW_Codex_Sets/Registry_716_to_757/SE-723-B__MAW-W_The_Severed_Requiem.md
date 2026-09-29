@@ -4,7 +4,7 @@
 **Document ID:** `SE-723-B`  
 **Linked Entity:** `SE-723` — The Vanished Rope  
 **Item Registry Code:** `MAW-W-723-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Severed Requiem is the weapon of the Vanished Rope’s set, bound by the sou
 **Document ID:** `SE-723-B`  
 **Linked Entity:** `SE-723`  
 **Item Registry Code:** `MAW-W-723-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

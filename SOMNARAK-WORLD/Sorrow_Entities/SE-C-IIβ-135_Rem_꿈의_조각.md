@@ -291,7 +291,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Each observer sees a different fragment.
 - The warmth of its tears is emotional rather than physical.
 
-**Personnel Note:** *"It was glowing. I felt loss. The dream was beautiful because I knew it could not continue."* — Agent, Zone C patrol
+**Personnel Note:** *"It was glowing. I felt loss. The dream was beautiful because I knew it could not continue."* — Specialist, Zone C patrol
 
 
 

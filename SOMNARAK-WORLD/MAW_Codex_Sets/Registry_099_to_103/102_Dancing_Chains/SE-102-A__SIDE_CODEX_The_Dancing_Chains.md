@@ -47,7 +47,7 @@ The Chains look forged until the eye follows one link: it is grown, ridged, and 
 | Void | None | The compulsion is not a missing self; it is a self overruled. |
 | Weight | Low | A watcher begins to feel stopping is unsafe. |
 
-> *“The Chains make you fast enough to escape anything except the need to keep moving.”* — Agent Durivel Cho
+> *“The Chains make you fast enough to escape anything except the need to keep moving.”* — Specialist Durivel Cho
 
 ### Open questions
 

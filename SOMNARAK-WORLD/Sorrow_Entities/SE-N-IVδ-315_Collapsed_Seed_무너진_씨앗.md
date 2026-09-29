@@ -296,7 +296,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its tears never stop.
 - It must not be planted under any circumstances.
 
-**Personnel Note:** *"It was glowing. I felt loss. The Seed was mourning a creature that had never been born."* — Agent, Zone E patrol
+**Personnel Note:** *"It was glowing. I felt loss. The Seed was mourning a creature that had never been born."* — Specialist, Zone E patrol
 
 
 
@@ -434,6 +434,6 @@ Some sorrows mourn what existed. Collapsed Seed mourns what almost existed — t
 ## Document Information
 
 **Document ID:** SE-N-IVδ-315
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Classified

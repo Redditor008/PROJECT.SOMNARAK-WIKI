@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / β — Moderate / Weight — Black |
 | Status | Active; custody-partner issue |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A black mantle with a loose chain pattern that never closes around the wearer’s body. |
 | Active form | The pattern distributes observed Weight along the hem while leaving the wearer’s hands free. |
 | Recognition rule | The mantle tightens only when a debt custodian is physically present. |
@@ -87,7 +87,7 @@ Grey wore the Mantle during a family debt review with multiple links in the Chai
 
 The Mantle is the separation safeguard of *See the Links*. Binding Maul isolates coercive pressure and Binding Chain maps connection; this suit prevents knowledge from becoming self-punishment.
 
-> *“Careful review is not the same as taking a chain home.”* — Agent Iseulfros Kim
+> *“Careful review is not the same as taking a chain home.”* — Specialist Iseulfros Kim
 
 ---
 

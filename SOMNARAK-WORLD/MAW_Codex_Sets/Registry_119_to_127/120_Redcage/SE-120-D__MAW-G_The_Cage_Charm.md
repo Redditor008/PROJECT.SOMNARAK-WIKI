@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, crimson bar-charm / γ — Major / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; oversight-linked use only |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small crimson iron charm shaped like two vertical bars with a narrow gap. |
 | Active form | One bar brightens beside an active operational boundary that is trapping or silencing someone. |
 | Recognition rule | The gap remains visible only when the bearer asks what route the affected person needs, not who should be punished. |

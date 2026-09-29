@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It glows during the Sorrow Tide.
 - It produces confusion because the original tear is missing.
 
-**Personnel Note:** *"It was waiting. I felt confusion. Then I realized the confusion was grief with no permission to exist."* — Agent, Zone C patrol
+**Personnel Note:** *"It was waiting. I felt confusion. Then I realized the confusion was grief with no permission to exist."* — Specialist, Zone C patrol
 
 
 
@@ -384,6 +384,6 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 ## Document Information
 
 **Document ID:** SE-C-Iα-683
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

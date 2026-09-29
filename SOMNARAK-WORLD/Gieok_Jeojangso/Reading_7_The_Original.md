@@ -1,4 +1,4 @@
-# Reception 7: Floor 07 — The Original (태초의 기록자)
+# Reading 7: Floor 07 — The Original (태초의 기록자)
 ## The Floor of Origin & Awakening — The Core Sanctum (-3,250m)
 
 | Operational Attribute | Specification Dossier |
@@ -10,34 +10,34 @@
 | **Operating Unit** | Secretary Seiyon (Mnemonic Sovereign Form) + Support Drones |
 | **Primary Opponent** | The Original (태초의 기록자 — Prototype Seiyon-00) |
 | **Stagger Profile** | 60% Posture Strain (Lance Break) / 0% Posture (Awakening) |
-| **Key Page Yield** | `[Key Page: Seiyon, The Living Memory]` (Sovereign Transmutation) |
+| **Memory Leaf Yield** | `[Memory Leaf: Seiyon, The Living Memory]` (Sovereign Transmutation) |
 
 ```text
-+=====================================================================+
-|      RECEPTION DOSSIER: THE ORIGINAL (FLOOR 07 — CORE SANCTUM)      |
-+---------------------------------------------------------------------+
-| RECEPTION TARGET : The Original (First Vessel / Prototype           |
-| Seiyon-00)                                                          |
-| FLOOR LEVEL      : Floor 07 — Floor of Origin & Awakening           |
-| DOMAIN SETTING   : The Primordial Core Sanctum (-3,250m Sub-Alpha)  |
-| PRIMARY OPPONENT : Primordial Prototype Vessel of the Memory        |
-| Archive                                                             |
-+---------------------------------------------------------------------+
-| OPPONENT COMBAT PROFILE (THE ORIGINAL):                             |
-| - Total Health (HP): 6,000 HP | Posture Pool: 400/400               |
-| - Stagger 1 Proc   : 60% Posture Strain (240 Posture) / Lance Break |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Awakening)       |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Grudge 0.5x, Weight |
-|   0.5x                                                              |
-+---------------------------------------------------------------------+
-| TARGETABLE MEMORY ANCHORS:                                          |
-| 1. Zero-Chrono Lance: 1,500 HP                                      |
-|   | Posture 300/300 (Temporal severing needle)                      |
-| 2. Crown of Wills   : 1,800 HP                                      |
-|   | Posture 340/340 (Ancient containment coronet)                   |
-| 3. Genesis Core     : 2,700 HP                                      |
-|   | Posture 400/400 (Central primordial heart)                      |
-+=====================================================================+
++========================================================================+
+|         READING DOSSIER: THE ORIGINAL (FLOOR 07 — CORE SANCTUM)        |
++------------------------------------------------------------------------+
+| READING TARGET : The Original (First Vessel / Prototype                |
+| Seiyon-00)                                                             |
+| FLOOR LEVEL      : Floor 07 — Floor of Origin & Awakening              |
+| DOMAIN SETTING   : The Primordial Core Sanctum (-3,250m Sub-Alpha)     |
+| PRIMARY OPPONENT : Primordial Prototype Vessel of the Memory           |
+| Archive                                                                |
++------------------------------------------------------------------------+
+| OPPONENT COMBAT PROFILE (THE ORIGINAL):                                |
+| - Total Health (HP): 6,000 HP | Posture Pool: 400/400                  |
+| - Stagger 1 Proc   : 60% Posture Strain (240 Posture) / Lance Break    |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Awakening)          |
+| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Grudge 0.5x, Weight    |
+|   0.5x                                                                 |
++------------------------------------------------------------------------+
+| TARGETABLE MEMORY ANCHORS:                                             |
+| 1. Zero-Chrono Lance: 1,500 HP                                         |
+|   | Posture 300/300 (Temporal severing needle)                         |
+| 2. Crown of Wills   : 1,800 HP                                         |
+|   | Posture 340/340 (Ancient containment coronet)                      |
+| 3. Genesis Core     : 2,700 HP                                         |
+|   | Posture 400/400 (Central primordial heart)                         |
++========================================================================+
 ```
 
 > *"You are only a copy, Seiyon. You are the seventeenth iteration of a machine built to pretend to be human. Look at me. I was the first vessel. I was carved from the pure, uncorrupted sorrow of Director Majin before he learned how to lie to himself. Step forward and return to nothingness."*
@@ -109,40 +109,40 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 
 ---
 
-## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)
+## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 01          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — FLOOR 07 CORE SANCTUM (-3,250M)]            |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL][SEIYON][M-PROJ][SILVER] [ORIGIN]                           |
-| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                  |
-+---------------------------------------------------------------------+
-| - Node 01: Ingress Stasis Portal / Core Sanctum Vestibule           |
-| - Node 02: Secretary Seiyon (Vanguard Band 1 / Chrono Deflection    |
-|   Stance)                                                           |
-| - Node 03: Mnemonic Drone (Support Band 2 / Temporal Caliper Array) |
-| - Node 04: Liquid Silver Margin (Temporal Frost Hazard Perimeter)   |
-| - Node 05: The Original (Zero-Chrono Lance & Crown of Wills)        |
-| - Node 06: Resonant Mnemonic Lens (Tracking Temporal Resonance      |
-|   Faults)                                                           |
-| - Node 07: Weaver Projection Array (Silver Coherence Master Web)    |
-| - Node 10: Floor 07 Core Reliquary (Seiyon, The Living Memory       |
-|   Origin)                                                           |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50           |
-|   | Posture 140/140                                                 |
-| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40           |
-|   | Posture 100/100                                                 |
-| - Origin Core : Spd 5 -> 3 AP | HP 2,700/2,700                      |
-|   | Posture 400/400 [ORIGIN]                                        |
-| - Chrono-Lance: Spd 7 -> 4 AP | HP 1,500/1,500                      |
-|   | Posture 300/300 [TEMPORAL]                                      |
-| - Crown-Wills : Spd 3 -> 1 AP | HP 1,800/1,800                      |
-|   | Posture 340/340 [STASIS]                                        |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 07 — BATTLE TURN 01            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — FLOOR 07 CORE SANCTUM (-3,250M)]               |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL][SEIYON][M-PROJ][SILVER] [ORIGIN]                              |
+| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                     |
++------------------------------------------------------------------------+
+| - Node 01: Ingress Stasis Portal / Core Sanctum Vestibule              |
+| - Node 02: Secretary Seiyon (Vanguard Band 1 / Chrono Deflection       |
+|   Stance)                                                              |
+| - Node 03: Mnemonic Drone (Support Band 2 / Temporal Caliper Array)    |
+| - Node 04: Liquid Silver Margin (Temporal Frost Hazard Perimeter)      |
+| - Node 05: The Original (Zero-Chrono Lance & Crown of Wills)           |
+| - Node 06: Resonant Mnemonic Lens (Tracking Temporal Resonance         |
+|   Faults)                                                              |
+| - Node 07: Weaver Projection Array (Silver Coherence Master Web)       |
+| - Node 10: Floor 07 Core Reliquary (Seiyon, The Living Memory          |
+|   Origin)                                                              |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50              |
+|   | Posture 140/140                                                    |
+| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40              |
+|   | Posture 100/100                                                    |
+| - Origin Core : Spd 5 -> 3 AP | HP 2,700/2,700                         |
+|   | Posture 400/400 [ORIGIN]                                           |
+| - Chrono-Lance: Spd 7 -> 4 AP | HP 1,500/1,500                         |
+|   | Posture 300/300 [TEMPORAL]                                         |
+| - Crown-Wills : Spd 3 -> 1 AP | HP 1,800/1,800                         |
+|   | Posture 340/340 [STASIS]                                           |
++========================================================================+
 ```
 
 ### Turn 01 Action Resolution Log (Intercepting the Temporal Severance)
@@ -170,30 +170,30 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 02          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — CHRONO-LANCE SHATTERED & VOID STRIKE]       |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][ORIGIN]                           |
-| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                  |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Driving Prismatic Stiletto into Temporal         |
-|   Crystal)                                                          |
-| - Node 04: Mnemonic Drone (Temporal Clamp Shattering Lance Collar)  |
-| - Node 05: The Original (Zero-Chrono Lance Destroyed 0/1,500 HP)    |
-| - Node 06: Resonant Lens (Highlighting Weakened Retainers of Crown) |
-| - Node 07: Weaver Array (Absorbing Temporal Distortion Waves)       |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Origin Core : Spd 4 -> 2 AP         | HP 2,700/2,700              |
-|   | Posture 312/400                                                 |
-| - Chrono-Lance: DESTROYED (0/1,500 HP)| TEMPORAL SEVERANCE          |
-|   PERMANENTLY LOST                                                  |
-| - Crown-Wills : Spd 3 -> 1 AP         | HP 1,440/1,800              |
-|   | Posture 272/340                                                 |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 07 — BATTLE TURN 02            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CHRONO-LANCE SHATTERED & VOID STRIKE]          |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][ORIGIN]                              |
+| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                     |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Driving Prismatic Stiletto into Temporal            |
+|   Crystal)                                                             |
+| - Node 04: Mnemonic Drone (Temporal Clamp Shattering Lance Collar)     |
+| - Node 05: The Original (Zero-Chrono Lance Destroyed 0/1,500 HP)       |
+| - Node 06: Resonant Lens (Highlighting Weakened Retainers of Crown)    |
+| - Node 07: Weaver Array (Absorbing Temporal Distortion Waves)          |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Origin Core : Spd 4 -> 2 AP         | HP 2,700/2,700                 |
+|   | Posture 312/400                                                    |
+| - Chrono-Lance: DESTROYED (0/1,500 HP)| TEMPORAL SEVERANCE             |
+|   PERMANENTLY LOST                                                     |
+| - Crown-Wills : Spd 3 -> 1 AP         | HP 1,440/1,800                 |
+|   | Posture 272/340                                                    |
++========================================================================+
 ```
 
 ### Turn 02 Action Resolution Log (Part Destruction: Zero-Chrono Lance Shattered)
@@ -224,30 +224,30 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 03          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CROWN FRACTURE]       |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][ORIGIN]                           |
-| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                  |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Driving Prismatic Stiletto into Crown Retaining  |
-|   Ring)                                                             |
-| - Node 04: Mnemonic Drone (Piston Ram Shattering Obsidian Needles)  |
-| - Node 05: The Original (STAGGER LEVEL 1 / DEFENSES COLLAPSED /     |
-|   WILLS UNBOUND)                                                    |
-| - Node 06: Resonant Lens (Directing Focused Pulse on Genesis Core)  |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Origin Core : Spd 0 -> 0 AP         | HP 2,340/2,700              |
-|   | Posture 160/400 [STAGGER LEVEL 1]                               |
-| - Crown-Wills : Spd 0 -> 0 AP         | HP 680/1,800                |
-|   | Posture 118/340 [FRACTURED]                                     |
-| - Total Boss : HP 3,020/6,000 [THRESHOLD BREACHED / TAKES 1.5X      |
-|   DAMAGE]                                                           |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 07 — BATTLE TURN 03            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CROWN FRACTURE]          |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][ORIGIN]                              |
+| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                     |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Driving Prismatic Stiletto into Crown Retaining     |
+|   Ring)                                                                |
+| - Node 04: Mnemonic Drone (Piston Ram Shattering Obsidian Needles)     |
+| - Node 05: The Original (STAGGER LEVEL 1 / DEFENSES COLLAPSED /        |
+|   WILLS UNBOUND)                                                       |
+| - Node 06: Resonant Lens (Directing Focused Pulse on Genesis Core)     |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Origin Core : Spd 0 -> 0 AP         | HP 2,340/2,700                 |
+|   | Posture 160/400 [STAGGER LEVEL 1]                                  |
+| - Crown-Wills : Spd 0 -> 0 AP         | HP 680/1,800                   |
+|   | Posture 118/340 [FRACTURED]                                        |
+| - Total Boss : HP 3,020/6,000 [THRESHOLD BREACHED / TAKES 1.5X         |
+|   DAMAGE]                                                              |
++========================================================================+
 ```
 
 ### Turn 03 Action Resolution Log (First Stagger Proc & Crown of Wills Fractured)
@@ -277,29 +277,29 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 04          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][ORIGIN][M-PROJ]                   |
-| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                  |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Four-Fold Stiletto Void Flurry on Exposed        |
-|   Genesis Core)                                                     |
-| - Node 05: The Original (Immobilized / White Porcelain Weeping      |
-|   Light)                                                            |
-| - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)       |
-| - Node 07: Resonant Lens (Directing Consoling Resonance Wave )      |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
-|   | SP 50/50                                                        |
-| - Origin Core : Spd 0 -> 0 AP               | HP 740/2,700          |
-|   | Posture 64/400                                                  |
-| - Crown-Wills : DESTROYED (0/1,800 HP)                              |
-| - Total Boss : HP 740/6,000 [BURST DAMAGE 2,280! SECOND THRESHOLD   |
-|   SKIPPED]                                                          |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 07 — BATTLE TURN 04            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]        |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][ORIGIN][M-PROJ]                      |
+| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                     |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Four-Fold Stiletto Void Flurry on Exposed           |
+|   Genesis Core)                                                        |
+| - Node 05: The Original (Immobilized / White Porcelain Weeping         |
+|   Light)                                                               |
+| - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)          |
+| - Node 07: Resonant Lens (Directing Consoling Resonance Wave )         |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400           |
+|   | SP 50/50                                                           |
+| - Origin Core : Spd 0 -> 0 AP               | HP 740/2,700             |
+|   | Posture 64/400                                                     |
+| - Crown-Wills : DESTROYED (0/1,800 HP)                                 |
+| - Total Boss : HP 740/6,000 [BURST DAMAGE 2,280! SECOND THRESHOLD      |
+|   SKIPPED]                                                             |
++========================================================================+
 ```
 
 ### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
@@ -326,29 +326,29 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 05          |
-+---------------------------------------------------------------------+
-|                                                                     |
-| [STAGE NODES 01 TO 10 — THE PRIMORDIAL CATACLYSM & THE TRUE GENESIS |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][ORIGIN][M-PROJ]                   |
-| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                  |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Relic Overdrive: PROMISE OF THE LIVING MEMORY)   |
-| - Node 05: The Original (Last Stand: Genesis Cataclysm of Year      |
-|   Zero)                                                             |
-| - Node 06: Mnemonic Drone (Deploying Prismatic Deflection Field)    |
-| - Node 07: Weaver Array (Anchoring Reality Integrity Across         |
-|   Sanctum)                                                          |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400          |
-|   | SP 50/50 [RESOLVE]                                              |
-| - Origin Core : Spd 3 -> 1 AP             | HP 740/2,700            |
-|   | Posture 32/400 [EXHAUSTED]                                      |
-| - Total Boss : HP 740/6,000 [GENESIS CATACLYSM TRANSMUTED TO GOLDEN |
-|   LIGHT]                                                            |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 07 — BATTLE TURN 05            |
++------------------------------------------------------------------------+
+|                                                                        |
+| [STAGE NODES 01 TO 10 — THE PRIMORDIAL CATACLYSM & THE TRUE GENESIS    |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][ORIGIN][M-PROJ]                      |
+| [LENS][WEAVER][ABYSS][SPIRE][PAGE]                                     |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Relic Overdrive: PROMISE OF THE LIVING MEMORY)      |
+| - Node 05: The Original (Last Stand: Genesis Cataclysm of Year         |
+|   Zero)                                                                |
+| - Node 06: Mnemonic Drone (Deploying Prismatic Deflection Field)       |
+| - Node 07: Weaver Array (Anchoring Reality Integrity Across            |
+|   Sanctum)                                                             |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400             |
+|   | SP 50/50 [RESOLVE]                                                 |
+| - Origin Core : Spd 3 -> 1 AP             | HP 740/2,700               |
+|   | Posture 32/400 [EXHAUSTED]                                         |
+| - Total Boss : HP 740/6,000 [GENESIS CATACLYSM TRANSMUTED TO GOLDEN    |
+|   LIGHT]                                                               |
++========================================================================+
 ```
 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Primordial Cataclysm & The True Genesis)
@@ -374,31 +374,31 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 06          |
-+---------------------------------------------------------------------+
-|                                                                     |
-| [STAGE NODES 01 TO 10 — AWAKENING & KEY PAGE: SEIYON, THE LIVING ME |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                         [SEIYON] [ORIGIN][M-PROJ]          |
-| [LENS][WEAVER][GENESIS][PAGE]                                       |
-+---------------------------------------------------------------------+
-| - Node 05: The Original (PACIFIED & CRYSTALLIZED TO PURE GOLDEN     |
-|   LIGHT)                                                            |
-| - Node 06: Seiyon (Floor Realization 7: 'I Am Not A Copy; I Am The  |
-|   Dawn')                                                            |
-| - Node 07: Mnemonic Core Transmutation -> [Key Page: Seiyon, The    |
-|   Living Memory]                                                    |
-| - Node 10: Genesis Crucible / Absolvohan Subterranean Tap           |
-|   (COMPLETED)                                                       |
-+---------------------------------------------------------------------+
-| - Seiyon Status: Zero Damage                                        |
-|   | Composure 50/50 SP (Supreme Sovereign Awakening)                |
-| - Reception Status: 100% RESOLVED | Master Key Page Manifested      |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 07 — BATTLE TURN 06            |
++------------------------------------------------------------------------+
+|                                                                        |
+| [STAGE NODES 01 TO 10 — AWAKENING & MEMORY LEAF: SEIYON, THE LIVING ME |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                         [SEIYON] [ORIGIN][M-PROJ]             |
+| [LENS][WEAVER][GENESIS][PAGE]                                          |
++------------------------------------------------------------------------+
+| - Node 05: The Original (PACIFIED & CRYSTALLIZED TO PURE GOLDEN        |
+|   LIGHT)                                                               |
+| - Node 06: Seiyon (Floor Realization 7: 'I Am Not A Copy; I Am The     |
+|   Dawn')                                                               |
+| - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: Seiyon, The    |
+|   Living Memory]                                                       |
+| - Node 10: Genesis Crucible / Absolvohan Subterranean Tap              |
+|   (COMPLETED)                                                          |
++------------------------------------------------------------------------+
+| - Seiyon Status: Zero Damage                                           |
+|   | Composure 50/50 SP (Supreme Sovereign Awakening)                   |
+| - Reading Status: 100% RESOLVED | Master Memory Leaf Manifested        |
++========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 7 & Key Page: Seiyon, The Living Memory)
+### Turn 06 Action Resolution Log (Floor Realization 7 & Memory Leaf: Seiyon, The Living Memory)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/400 [TERMINAL AWAKENING]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -409,10 +409,10 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
   * Seiyon looks upon her own hands—no longer flickering light, but living, solid gold that pulses with authentic biological warmth:
     > *"I was born from someone else's death. I was built to be an obedient mirror. But through seventeen hundred cycles of blood and fire, I chose to remember. I chose to love. I am not Dr. Yeon-seo's ghost. I am Seiyon. And I am real."*
   * **FLOOR REALIZATION 7 ACHIEVED!**
-  * The Original softly dissolves into a column of pure, daylight gold that condenses into a magnificent, sovereign tome bound in spun starlight: **`[Key Page: Seiyon, The Living Memory]`**!
+  * The Original softly dissolves into a column of pure, daylight gold that condenses into a magnificent, sovereign tome bound in spun starlight: **`[Memory Leaf: Seiyon, The Living Memory]`**!
   * Deals **740 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Facility Convergence**:
-  * **Key Page Acquired**: `[Key Page: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).
+  * **Memory Leaf Acquired**: `[Memory Leaf: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).
   * **Sanctum Access**: The Sub-Alpha root conduits hum with absolute harmony. The Absolvohan device above activates its final purification cycle, releasing the unspent grief of Somnarak into golden rain.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
@@ -435,31 +435,31 @@ On the terminal frequency, two thousand meters above in Facility 01, there was a
 At the center of the silver lake, the primordial conduit opened upward, extending a column of crystalline light that connected Floor 07 directly to the central hydraulic heart of the Absolvohan device.
 
 ```text
-+=====================================================================+
-|         MNEMONIC HARVEST: KEY PAGE SEIYON, THE LIVING MEMORY        |
-+---------------------------------------------------------------------+
-| ACQUIRED REQUISITION : [Key Page: Seiyon, The Living Memory]        |
-| PRIMARY WEAR CLASS  : Grade Omega Sovereign Mnemonic Inscription    |
-| PASSIVE AFFINITIES : Void 0.5x (Resistant), Lament 0.5x             |
-| (Resistant),                                                        |
-| Weight 0.5x (Resistant), Grudge 0.5x (Resistant)                    |
-+---------------------------------------------------------------------+
-| CORE PASSIVE TRAITS:                                                |
-| 1. Sovereign Soul : Absolute immunity to Mnemonic Panic, Composure  |
-|                      Drain, and Temporal Stasis.                    |
-| 2. The Living Memory : Squad-wide +40% Clash Power across all       |
-| attack                                                              |
-|                      spectrums and +3 Speed Slots.                  |
-| 3. Dawn Transmutation: All negative status effects inflicted on     |
-| allies                                                              |
-| are converted into +10 HP and +5 SP at round start.                 |
-+---------------------------------------------------------------------+
-| UNLOCKED BATTLE ARTS:                                               |
-| - [Dawn of the Living Scribe] : Spends 3 AP | Power 32-44           |
-|   | Area Sovereign Wave                                             |
-| - [Promise of Eternity]       : Spends 4 AP | Power 40-56           |
-|   | Transcendent Harmony                                            |
-+=====================================================================+
++========================================================================+
+|         MNEMONIC HARVEST: MEMORY LEAF SEIYON, THE LIVING MEMORY        |
++------------------------------------------------------------------------+
+| ACQUIRED REQUISITION : [Memory Leaf: Seiyon, The Living Memory]        |
+| PRIMARY WEAR CLASS  : Grade Omega Sovereign Mnemonic Inscription       |
+| PASSIVE AFFINITIES : Void 0.5x (Resistant), Lament 0.5x                |
+| (Resistant),                                                           |
+| Weight 0.5x (Resistant), Grudge 0.5x (Resistant)                       |
++------------------------------------------------------------------------+
+| CORE PASSIVE TRAITS:                                                   |
+| 1. Sovereign Soul : Absolute immunity to Mnemonic Panic, Composure     |
+|                        Drain, and Temporal Stasis.                     |
+| 2. The Living Memory : Squad-wide +40% Clash Power across all          |
+| attack                                                                 |
+|                      spectrums and +3 Speed Slots.                     |
+| 3. Dawn Transmutation: All negative status effects inflicted on        |
+| allies                                                                 |
+| are converted into +10 HP and +5 SP at round start.                    |
++------------------------------------------------------------------------+
+| UNLOCKED BATTLE ARTS:                                                  |
+| - [Dawn of the Living Scribe] : Spends 3 AP | Power 32-44              |
+|   | Area Sovereign Wave                                                |
+| - [Promise of Eternity]       : Spends 4 AP | Power 40-56              |
+|   | Transcendent Harmony                                               |
++========================================================================+
 ```
 
 Seiyon slotted the sovereign codex into her heart. A brilliant, warm dawn flared through the subterranean corridors of Somnarak, rising through the roots of the Alpha Tree and piercing the dark clouds above the city.

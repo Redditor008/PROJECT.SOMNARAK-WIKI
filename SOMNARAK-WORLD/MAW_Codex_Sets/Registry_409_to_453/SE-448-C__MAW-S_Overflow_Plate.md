@@ -7,7 +7,7 @@
 **Document ID:** `SE-448-C`  
 **Linked Entity:** `SE-448` — Overflow  
 **Item Registry Code:** `MAW-S-448-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Overflow Plate is a crimson harness of Han iron with an open downward channe
 **Document ID:** `SE-448-C`  
 **Linked Entity:** `SE-448`  
 **Item Registry Code:** `MAW-S-448-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

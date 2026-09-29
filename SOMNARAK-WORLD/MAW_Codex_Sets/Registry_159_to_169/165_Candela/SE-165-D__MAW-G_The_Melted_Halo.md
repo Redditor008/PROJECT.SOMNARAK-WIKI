@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, blue halo-circlet / δ — Critical / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; possible-risk disclosure requirement |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small halo of deep-blue glass sagging slightly as if softened by heat. |
 | Active form | The Halo brightens around approaching emotional danger and drips blue light that disappears before landing. |
 | Recognition rule | It displays possibility intensity, not certainty or outcome. |

@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The Mirror is warmer near genuine tears.
 - Personnel often leave with greater peace and less certainty.
 
-**Personnel Note:** *"It was watching. I felt peace. The peace came from seeing that the sorrow had a shape, not from making it disappear."* — Agent, Zone B patrol
+**Personnel Note:** *"It was watching. I felt peace. The peace came from seeing that the sorrow had a shape, not from making it disappear."* — Specialist, Zone B patrol
 
 
 
@@ -424,6 +424,6 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-195
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

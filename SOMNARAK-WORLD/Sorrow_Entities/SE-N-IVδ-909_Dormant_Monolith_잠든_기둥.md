@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its shadow grows when the worker refuses rest.
 - Personnel report emptiness after contact.
 
-**Personnel Note:** *"I felt emptiness. The Pillar was not empty; it was full of duties that had never been allowed to end."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt emptiness. The Pillar was not empty; it was full of duties that had never been allowed to end."* — Specialist, Zone B patrol
 
 
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-222-C`  
 **Linked Entity:** `SE-222` — Patina  
 **Item Registry Code:** `MAW-S-222-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ Plate stands between present parties during *The Chain Ends Here*. Charm audits 
 **Document ID:** `SE-222-C`  
 **Linked Entity:** `SE-222`  
 **Item Registry Code:** `MAW-S-222-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

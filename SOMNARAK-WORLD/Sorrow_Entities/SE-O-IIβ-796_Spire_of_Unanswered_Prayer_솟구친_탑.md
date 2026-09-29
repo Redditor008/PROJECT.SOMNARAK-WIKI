@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The tower appears only in consciousness.
 - It is stronger near Outside Sorrow records.
 
-**Personnel Note:** *"It was singing. I felt hope. Then I understood the hope belonged to people waiting for a tower that had already fallen."* — Agent, Zone D patrol
+**Personnel Note:** *"It was singing. I felt hope. Then I understood the hope belonged to people waiting for a tower that had already fallen."* — Specialist, Zone D patrol
 
 
 

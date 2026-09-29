@@ -7,7 +7,7 @@
 **Document ID:** `SE-426-C`  
 **Linked Entity:** `SE-426` — Hollowcast  
 **Item Registry Code:** `MAW-S-426-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Torn Plate is a crimson harness of Han iron split around an empty identity s
 **Document ID:** `SE-426-C`  
 **Linked Entity:** `SE-426`  
 **Item Registry Code:** `MAW-S-426-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes calm when thanked directly.
 
 **Personnel Note:**
-> *"It spread its wings over me and I felt safe. Then I realized the wings were also a wall. I thanked it. The wall opened."* — Agent Haneulash Yoon, Zone B
+> *"It spread its wings over me and I felt safe. Then I realized the wings were also a wall. I thanked it. The wall opened."* — Specialist Haneulash Yoon, Zone B
 
 
 

@@ -244,7 +244,7 @@ Operating within subterranean vaults reinforced with acoustic lead plates, **The
 ### 1. Sociological Profile & The Shadow Banking Network
 The **Debt Concourse** is the absolute apex of underworld power, operating as the black-market central bank and sovereign usury authority of the subterranean deep. While the municipal Collector's Bureau operates under legal mandates and civic regulations, the Debt Concourse operates under the unyielding law of the predatory contract.
 
-The Concourse was founded by corrupt former Collector assessors, rogue ledger-clerks, and ruthless merchant princes who realized that in Somnarak, physical violence is temporary, but emotional debt is eternal. They issue loans in crystallized Echoes to desperate citizens, failing workshops, and rival gangs at astronomical interest rates, secured by contracts that pledge the borrower's life, organs, family lineage, and soul-resonance as collateral.
+The Concourse was founded by corrupt former Collector assessors, rogue ledger-auxiliaries, and ruthless merchant princes who realized that in Somnarak, physical violence is temporary, but emotional debt is eternal. They issue loans in crystallized Echoes to desperate citizens, failing workshops, and rival gangs at astronomical interest rates, secured by contracts that pledge the borrower's life, organs, family lineage, and soul-resonance as collateral.
 
 ### 2. The Living Mort-Gage & Ancestral Liens
 The Concourse's legal instruments are terrifying in their thoroughness:

@@ -7,7 +7,7 @@
 **Document ID:** `SE-641-B`  
 **Linked Entity:** `SE-641` — Home to No One Who Knew Me  
 **Item Registry Code:** `MAW-W-641-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ The weapon now displays current time as a faint mark along its spine before it a
 
 Ember recalls a bounded object, Plate keeps the receiver present, and Fang removes duplicate returns. Resonance requires acknowledgment before severance.
 
-> *“The oldest shape was not the original. It was only the version I most wanted to believe.”* — Agent Durivel Cho
+> *“The oldest shape was not the original. It was only the version I most wanted to believe.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-641-B`  
 **Linked Entity:** `SE-641`  
 **Item Registry Code:** `MAW-W-641-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its roots follow memories rather than water.
 - It hums during the Sorrow Tide.
 
-**Personnel Note:** *"It was mourning the place beneath the place. I felt longing for a home I had never seen."* — Agent, Zone D patrol
+**Personnel Note:** *"It was mourning the place beneath the place. I felt longing for a home I had never seen."* — Specialist, Zone D patrol
 
 
 

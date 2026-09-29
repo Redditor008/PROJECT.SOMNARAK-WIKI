@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Separation from the Sisters produces immediate withdrawal.
 
 **Personnel Note:**
-> *"She did not say that she was waiting. She made the waiting visible."* — Agent Hanul Grey, Zone B
+> *"She did not say that she was waiting. She made the waiting visible."* — Specialist Hanul Grey, Zone B
 
 
 
@@ -400,6 +400,6 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 ## Document Information
 
 **Document ID:** SE-C-IVβ-043
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

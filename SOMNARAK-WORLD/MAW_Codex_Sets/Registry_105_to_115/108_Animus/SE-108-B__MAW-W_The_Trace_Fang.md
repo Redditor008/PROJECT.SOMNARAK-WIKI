@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / α — Minor / Grudge — Crimson |
 | Status | Active; residue-context log mandatory |
 | Maximum amount | 5 — Standard |
-| Current bearer | Agent Sooah Park |
+| Current bearer | Specialist Sooah Park |
 | Resting form | A small crimson Han-iron fang with a faintly quivering edge and a warm red thread trapped under the metal. |
 | Active form | The red thread reaches from the tip toward the nearest active Grudge residue. |
 | Recognition rule | It does not point to a person; it points only to the pressure still present. |

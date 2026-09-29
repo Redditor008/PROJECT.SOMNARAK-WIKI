@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is strongest around old Market records.
 - Personnel report rage after losing names.
 
-**Personnel Note:** *"I felt rage. The Mirror remembered the city's name, but it would not show it until someone admitted the city had forgotten."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt rage. The Mirror remembered the city's name, but it would not show it until someone admitted the city had forgotten."* — Specialist, Zone D patrol
 
 
 

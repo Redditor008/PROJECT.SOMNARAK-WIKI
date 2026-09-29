@@ -242,7 +242,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The phantasmal pressure is different from standard lament. It does not press on the body — it presses on the phantasmal itself. You feel it before you understand what is happening."* — Agent, Field Team 2
+> *"The phantasmal pressure is different from standard lament. It does not press on the body — it presses on the phantasmal itself. You feel it before you understand what is happening."* — Specialist, Field Team 2
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -290,7 +290,7 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 ## 증언 (Testimonium) — The Testimony
 
 *"The lament is familiar. The phantasmal is not. That gap is where the danger lives."* — Handler
-*"I expected standard lament. I got something that knew me."* — Agent
+*"I expected standard lament. I got something that knew me."* — Specialist
 *"Every time we refine the protocol, the phantasmal register finds a new way in."* — Researcher
 *"It does not attack. It accumulates. And what it informs you of is your own sorrow."* — Director
 *"Work it once and you will understand why the classification system had to expand."* — Keeper

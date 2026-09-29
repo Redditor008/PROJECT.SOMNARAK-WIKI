@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / α — Minor / Void — Pale White |
 | Status | Active; chosen-name witness required |
 | Maximum amount | 5 — Standard |
-| Current bearer | Agent Nari Kwon |
+| Current bearer | Specialist Nari Kwon |
 | Resting form | A thin pale Lens whose edge softens and reforms when seen from different angles. |
 | Active form | A light line surrounds a fragmenting self-image without closing it into a fixed outline. |
 | Recognition rule | The Lens responds only after the bearer states their current chosen name, not a name imposed by the mission. |

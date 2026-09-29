@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-941` — Grieving Love  
 **Source SECC Designation:** `N-IIIβ-941 [LS]`  
 **Item Registry Code:** `MAW-S-941-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Grieving Love — Witnessed Form*, The Mourner's Film performs the suit 
 **Document ID:** `SE-941-C`  
 **Linked Entity:** `SE-941`  
 **Item Registry Code:** `MAW-S-941-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

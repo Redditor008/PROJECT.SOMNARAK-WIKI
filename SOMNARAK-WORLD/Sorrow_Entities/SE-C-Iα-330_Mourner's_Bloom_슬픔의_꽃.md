@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - They wilt when joy is forced rather than felt.
 - Each petal holds one distinct grief.
 
-**Personnel Note:** *"It was quiet. I felt peace. The Flower did not make the sorrow smaller; it gave the sorrow a shape I could sit beside."* — Agent, Zone D patrol
+**Personnel Note:** *"It was quiet. I felt peace. The Flower did not make the sorrow smaller; it gave the sorrow a shape I could sit beside."* — Specialist, Zone D patrol
 
 
 
@@ -439,6 +439,6 @@ Some sorrows mourn a loss. Mourner's Bloom mourns the hiding — the grief the c
 ## Document Information
 
 **Document ID:** SE-C-Iα-330
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Open

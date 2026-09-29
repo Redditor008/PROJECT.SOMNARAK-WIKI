@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It has no detectable physical source.
 
 **Personnel Note:**
-> *"I stood before the last entity. It was silent. Completely silent. I felt the weight of everything that came before—the entities, the sorrow, the stories. The silence was not empty. It was full."* — Agent, Zone B patrol
+> *"I stood before the last entity. It was silent. Completely silent. I felt the weight of everything that came before—the entities, the sorrow, the stories. The silence was not empty. It was full."* — Specialist, Zone B patrol
 
 
 

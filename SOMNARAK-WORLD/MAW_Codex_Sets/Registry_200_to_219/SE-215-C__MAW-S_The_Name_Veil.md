@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-215` — Name No One Remembers  
 **Item Registry Code:** `MAW-S-215-01`  
 **Entity Designation:** `N-IIα-215 [VS]`  
-**Author:** Agent Hanul Grey, Junior Containment Agent, Zone B  
+**Author:** Specialist Hanul Grey, Junior Containment Specialist, Zone B  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ The first Veil formed from pale fibers left across two coats after their owners 
 | Holder / wearer | Period | Outcome | Item-specific record |
 |---|---|---|---|
 | Zone B witness locker | Current custody | Active | Five suits stored with blank outer surfaces and reviewed inner scripts. |
-| Agent Hanul Grey | East stair transform response | Recovered | Entered an unnamed corridor; one of three witness-threads remained at exit. |
+| Specialist Hanul Grey | East stair transform response | Recovered | Entered an unnamed corridor; one of three witness-threads remained at exit. |
 
 ---
 
@@ -90,13 +90,13 @@ The wearer states their name without reading it. One surviving witness answers w
 
 ## HISTORY OF USE — THE EAST STAIR WITHOUT NAMES
 
-A minor transform breach crossed the east stair of Old Lament during a Zone B survey. Door labels remained, but every person entering lost access to names—including their own—before reaching the second landing. Three agents were stranded between floors and could not call to one another.
+A minor transform breach crossed the east stair of Old Lament during a Zone B survey. Door labels remained, but every person entering lost access to names—including their own—before reaching the second landing. Three specialists were stranded between floors and could not call to one another.
 
-Hanul entered wearing a Veil prepared by Researcher Euncris Park, Agent Haneulash Yoon, and Agent Iseulfros Kim. The first thread vanished when radio memory failed. The second held long enough for Hanul to write each stranded agent’s self-description on separate stair cards. The third, in Euncris’s cramped script, remained warm when Hanul could no longer recognize his reflection in the fire glass.
+Hanul entered wearing a Veil prepared by Researcher Euncris Park, Specialist Haneulash Yoon, and Specialist Iseulfros Kim. The first thread vanished when radio memory failed. The second held long enough for Hanul to write each stranded agent’s self-description on separate stair cards. The third, in Euncris’s cramped script, remained warm when Hanul could no longer recognize his reflection in the fire glass.
 
 At the landing, Euncris spoke Hanul’s name from outside the field and recalled his habit of checking a door twice after claiming he was not afraid. Hanul answered by correcting her count to three. That unrecorded disagreement reopened the front seam.
 
-All three agents were recovered through two-witness naming. For several hours afterward, Hanul could recite his file but described it as “a report about someone I had been assigned to carry home.”
+All three specialists were recovered through two-witness naming. For several hours afterward, Hanul could recite his file but described it as “a report about someone I had been assigned to carry home.”
 
 ---
 
@@ -132,14 +132,14 @@ Name No One Remembers traces the inner scripts with an unfinished hand. If the l
 
 The Name Veil is approved for short entry into ambient identity loss, name-recovery operations, and evacuation through spreading blank zones. It is prohibited for anonymous enforcement, undercover erasure, automated personnel processing, or any operation where the wearer is expected not to answer for themselves.
 
-> *“Write my name if I lose it. If I disagree with what you remember about me, keep the disagreement. That may be the proof I am back.”* — Agent Hanul Grey
+> *“Write my name if I lose it. If I disagree with what you remember about me, keep the disagreement. That may be the proof I am back.”* — Specialist Hanul Grey
 
 ---
 
 **Document ID:** `SE-215-C`  
 **Linked Entity:** `SE-215`  
 **Item Registry Code:** `MAW-S-215-01`  
-**Author:** Agent Hanul Grey, Junior Containment Agent, Zone B  
+**Author:** Specialist Hanul Grey, Junior Containment Specialist, Zone B  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -13,7 +13,7 @@ While the Warden's daily duties are focused within the fortified wings of Facili
 | Cosmological Scope     | Territories Beyond Facility 01 Bulkheads      |
 | Subterranean Boundary  | The Maw (-2,000m to -7,200m Katabagil Descents|
 | Corporate Frontier     | Katharcheok (Six Sweeps of the 5 Syndicates)  |
-| Archival Frontier      | Gieok (Seven Stratified Memory Receptions)    |
+| Archival Frontier      | Gieok (Seven Stratified Memory Readings)      |
 | Caravan Frontier       | Jipyeongseondae (Six Arcs to Cheonbulok)      |
 +========================================================================+
 ```
@@ -23,7 +23,7 @@ While the Warden's daily duties are focused within the fortified wings of Facili
 - [1 Cosmological Geography Beyond Facility 01](#1-cosmological-geography-beyond-facility-01)
 - [2 The Maw: Katabagil's Seven Subterranean Descents](#2-the-maw-katabagils-seven-subterranean-descents)
 - [3 Katharcheok: The Six Sweeps of the Five Syndicates](#3-katharcheok-the-six-sweeps-of-the-five-syndicates)
-- [4 Gieok: The Seven Receptions and Memory Stratum](#4-gieok-the-seven-receptions-and-memory-stratum)
+- [4 Gieok: The Seven Readings and Memory Stratum](#4-gieok-the-seven-readings-and-memory-stratum)
 - [5 Jipyeongseondae: The Horizon Caravans and Six Arcs](#5-jipyeongseondae-the-horizon-caravans-and-six-arcs)
 - [6 The Outside Sovereign: Wilderness Tide](#6-the-outside-sovereign-wilderness-tide)
 - [7 Resource Logistics and Frontier Transit](#7-resource-logistics-and-frontier-transit)
@@ -59,11 +59,11 @@ To the east lie the industrialized ruins of **Katharcheok**:
 - Dominated by the **Five Commercial Syndicates** that compete for mining concessions.
 - **The Six Sweeps:** Scheduled military cleanup operations conducted by heavy mechanized cadres to eliminate roaming Ordeals and rogue entities from railway corridors.
 
-## 4 Gieok: The Seven Receptions and Memory Stratum
+## 4 Gieok: The Seven Readings and Memory Stratum
 
 Located within a fortified mountain sanctuary, **Gieok** serves as a solemn municipal archive:
 - Not a commercial enterprise, but a protected sanctuary of historical memory.
-- Contains the **Seven Receptions**, where scholars study ancient pre-Dawn artifacts, decode forgotten dialects, and preserve the names of fallen specialists.
+- Contains the **Seven Readings**, where scholars study ancient pre-Dawn artifacts, decode forgotten dialects, and preserve the names of fallen specialists.
 
 ## 5 Jipyeongseondae: The Horizon Caravans and Six Arcs
 

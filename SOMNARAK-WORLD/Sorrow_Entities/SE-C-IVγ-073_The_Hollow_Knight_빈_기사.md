@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It has never abandoned its post or surrendered.
 
 **Personnel Note:**
-> *"It stood guard over me while I slept, protecting me from threats that did not exist. When I woke, it saluted. I saluted back."* — Agent Hanul Grey, Zone B containment team
+> *"It stood guard over me while I slept, protecting me from threats that did not exist. When I woke, it saluted. I saluted back."* — Specialist Hanul Grey, Zone B containment team
 
 
 
@@ -398,6 +398,6 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 ## Document Information
 
 **Document ID:** SE-C-IVγ-073
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4222
 **Classification:** Restricted

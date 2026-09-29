@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes more active near unfinished tasks.
 - Personnel report grief beneath the pressure.
 
-**Personnel Note:** *"I felt grief. The Shadow was not protecting the vault anymore. It was waiting for someone to tell it that the vault was safe."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt grief. The Shadow was not protecting the vault anymore. It was waiting for someone to tell it that the vault was safe."* — Specialist, Zone D patrol
 
 
 

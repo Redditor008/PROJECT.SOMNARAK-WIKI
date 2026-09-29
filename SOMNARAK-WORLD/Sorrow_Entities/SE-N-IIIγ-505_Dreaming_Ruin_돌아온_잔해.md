@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its architecture changes with each observer.
 - Personnel feel grief after waking.
 
-**Personnel Note:** *"It was quiet. I felt grief. The Ruin did not ask to be repaired; it asked me to remember the room without pretending I could live there again."* — Agent, Zone D patrol
+**Personnel Note:** *"It was quiet. I felt grief. The Ruin did not ask to be repaired; it asked me to remember the room without pretending I could live there again."* — Specialist, Zone D patrol
 
 
 

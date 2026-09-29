@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, mirror-tile / γ — Major / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; identity-debrief issue |
-| Known bearer | Agent Haneulash Yoon |
+| Known bearer | Specialist Haneulash Yoon |
 | Resting form | A small black mirror tile split by three fine seams, each holding a faint version of the bearer’s face. |
 | Active form | The seams reflect different self-histories without forcing one to replace the others. |
 | Recognition rule | A true Reflection shows multiple faces only after the bearer permits each one to exist. |

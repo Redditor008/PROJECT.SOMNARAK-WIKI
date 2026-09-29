@@ -206,7 +206,7 @@ Operating from the monumental **Jade Spire (  옥빛 첨탑  )** at the border o
 
 Headed by **High Director Baek Eun-Woo (  백은우  )**, Won-Hyeong synthesizes the proprietary **Archetype Catalyst (  원형 촉매  )**. While the public believes this miracle restorer is forged from mineral salts, the conglomerate secretly maintains three hundred and twenty living donors in **Sub-Vault 04: The Sanctuary of Perpetual Weeping (  영구 평정 성소  )**, continuously harvesting their tear secretions to stabilize the city's composure medicine supply.
 
-*(Institutional Note: The Memory Archive [  기억 저장소   — Gieok Jeojangso] carved within the sub-Alpha root strata is the city's solemn Mnemonic Repository and Spire Library for soul preservation and Key Page extraction, not a commercial enterprise or chartered corporation. See `The_MEMORY_ARCHIVE.md`.)*
+*(Institutional Note: The Memory Archive [  기억 저장소   — Gieok Jeojangso] carved within the sub-Alpha root strata is the city's solemn Mnemonic Repository and Spire Library for soul preservation and Memory Leaf extraction, not a commercial enterprise or chartered corporation. See `The_MEMORY_ARCHIVE.md`.)*
 
 ### 2.5 The Horizon Caravan (지평선대 — Jipyeongseon Dae)
 
@@ -372,7 +372,7 @@ When a **Category-5 Ordeal** or **Sovereign Fracture Event** breaches municipal 
 Economic survival in Somnarak is dictated by the **Municipal Debt Ledger (부채 총장)**. Debt is not merely financial; it is a quantified civic obligation that determines citizen survival tier, housing assignment, food rations, and acoustic curfew privileges:
 
 - **Tier 1 (Sovereign Exemption):** Institutional Command, Echo-Core supervisors, and Master Craftsmen. Zero debt; total freedom of movement across Zones A through E.
-- **Tier 2 (Indebted Citizens / Zone C):** Standard laborers, workshop artisans, and municipal clerks. Debt interest capped at 4% monthly; eligible for clean water rations and Veil cowls.
+- **Tier 2 (Indebted Citizens / Zone C):** Standard laborers, workshop artisans, and municipal auxiliaries. Debt interest capped at 4% monthly; eligible for clean water rations and Veil cowls.
 - **Tier 3 (Submerged Citizens / Zone B):** Heavy miners, drainage sweepers, and indentured factory hands. Debt exceeding 50,000 credits; subject to mandatory labor drafts and asset forfeiture.
 - **Tier 4 (The Unclaimed / The Raw):** Outlaws, deserters, and broken Fray members. Debts purchased by syndicate brokers; zero legal protections under municipal law.
 

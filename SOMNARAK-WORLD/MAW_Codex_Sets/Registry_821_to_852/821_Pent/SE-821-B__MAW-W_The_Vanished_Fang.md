@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-821` — Pent  
 **Source SECC Designation:** `N-IVδ-821 [D]`  
 **Item Registry Code:** `MAW-W-821-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Pent — Witnessed Form*, The Vanished Fang performs the weapon role whi
 **Document ID:** `SE-821-B`  
 **Linked Entity:** `SE-821`  
 **Item Registry Code:** `MAW-W-821-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

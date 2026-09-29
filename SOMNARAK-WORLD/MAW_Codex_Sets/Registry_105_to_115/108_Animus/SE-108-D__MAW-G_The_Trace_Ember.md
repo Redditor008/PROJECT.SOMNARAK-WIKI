@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, ember-charm / α — Minor / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; context partner required for readouts |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A dim crimson ember inside a small iron frame, warm on one side and cold on the other. |
 | Active form | The ember sends a fine red vapor line along surfaces touched by emotional residue. |
 | Recognition rule | Its vapor marks a past pressure point, never a person’s inherent character. |

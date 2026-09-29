@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The Well sings beneath the ground.
 - It becomes active near The Scar.
 
-**Personnel Note:** *"It was singing. I felt loss. The water had traveled farther than any person could, carrying grief to places that had never met."* — Agent, Zone C patrol
+**Personnel Note:** *"It was singing. I felt loss. The water had traveled farther than any person could, carrying grief to places that had never met."* — Specialist, Zone C patrol
 
 
 

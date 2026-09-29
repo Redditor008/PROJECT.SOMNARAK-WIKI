@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-919` — Passing Bell  
 **Source SECC Designation:** `N-IIβ-919 [WT]`  
 **Item Registry Code:** `MAW-W-919-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Passing Bell — Witnessed Form*, Passing Bell's Edge performs the weapo
 **Document ID:** `SE-919-B`  
 **Linked Entity:** `SE-919`  
 **Item Registry Code:** `MAW-W-919-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

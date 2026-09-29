@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-901` — Duri's Heart  
 **Source SECC Designation:** `C-IIβ-901 [WO]`  
 **Item Registry Code:** `MAW-S-901-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Duri's Heart — Witnessed Form*, Duri's Heart's Veil performs the suit 
 **Document ID:** `SE-901-C`  
 **Linked Entity:** `SE-901`  
 **Item Registry Code:** `MAW-S-901-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

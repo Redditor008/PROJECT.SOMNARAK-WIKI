@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is unreliable near dense Han flows.
 - Personnel report weight after prolonged use.
 
-**Personnel Note:** *"I felt weight. The Compass did not tell me where to go. It only proved that I was already lost."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt weight. The Compass did not tell me where to go. It only proved that I was already lost."* — Specialist, Zone D patrol
 
 
 

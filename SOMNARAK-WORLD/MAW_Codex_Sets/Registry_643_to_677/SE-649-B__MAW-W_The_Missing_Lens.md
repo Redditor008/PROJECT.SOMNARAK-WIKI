@@ -7,7 +7,7 @@
 **Document ID:** `SE-649-B`  
 **Linked Entity:** `SE-649` — Unborn Monument  
 **Item Registry Code:** `MAW-W-649-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -38,7 +38,7 @@ The Missing Lens is a pale disc of Han glass whose edge appears only around unsu
 **Document ID:** `SE-649-B`  
 **Linked Entity:** `SE-649`  
 **Item Registry Code:** `MAW-W-649-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

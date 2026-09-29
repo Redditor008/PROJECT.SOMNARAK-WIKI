@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It grows after new exiles pass the Gate.
 - Personnel report fear after tasting its sweetness.
 
-**Personnel Note:** *"It was waiting. I felt fear. The fruit tasted like home and then dissolved before I could swallow the memory."* — Agent, Zone C patrol
+**Personnel Note:** *"It was waiting. I felt fear. The fruit tasted like home and then dissolved before I could swallow the memory."* — Specialist, Zone C patrol
 
 
 

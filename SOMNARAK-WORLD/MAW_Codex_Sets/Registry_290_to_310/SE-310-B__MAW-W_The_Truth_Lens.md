@@ -7,7 +7,7 @@
 **Document ID:** `SE-310-B`  
 **Linked Entity:** `SE-310` — Cracked Mirror  
 **Item Registry Code:** `MAW-W-310-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Gift detects, Veil contextualizes, Weapon acts only on harm.
 **Document ID:** `SE-310-B`  
 **Linked Entity:** `SE-310`  
 **Item Registry Code:** `MAW-W-310-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

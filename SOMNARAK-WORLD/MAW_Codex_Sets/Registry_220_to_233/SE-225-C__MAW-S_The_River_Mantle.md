@@ -7,7 +7,7 @@
 **Document ID:** `SE-225-C`  
 **Linked Entity:** `SE-225` — Black River  
 **Item Registry Code:** `MAW-S-225-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only    
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ The Mantle defines the safe edge of *Everything Returns Downstream*. The Maul mo
 **Document ID:** `SE-225-C`  
 **Linked Entity:** `SE-225`  
 **Item Registry Code:** `MAW-S-225-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1020` — Chain of Memories  
 **Source SECC Designation:** `N-IIIβ-200 [WO]`  
 **Item Registry Code:** `MAW-W-1020-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Chain of Memories — Witnessed Form*, The Memory Maul performs the weap
 **Document ID:** `SE-1020-B`  
 **Linked Entity:** `SE-1020`  
 **Item Registry Code:** `MAW-W-1020-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

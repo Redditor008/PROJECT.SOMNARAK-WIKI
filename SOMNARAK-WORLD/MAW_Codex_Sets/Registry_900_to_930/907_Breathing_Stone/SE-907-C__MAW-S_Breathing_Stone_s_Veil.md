@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-907` — Breathing Stone  
 **Source SECC Designation:** `C-IVδ-907 [WP]`  
 **Item Registry Code:** `MAW-S-907-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Breathing Stone — Witnessed Form*, Breathing Stone's Veil performs the
 **Document ID:** `SE-907-C`  
 **Linked Entity:** `SE-907`  
 **Item Registry Code:** `MAW-S-907-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

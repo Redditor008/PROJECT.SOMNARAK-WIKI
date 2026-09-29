@@ -4,7 +4,7 @@
 **Document ID:** `SE-689-D`  
 **Linked Entity:** `SE-689` — Face Beneath Masks  
 **Item Registry Code:** `MAW-G-689-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ The Wall Shard is a head shard of pale glass — a fragment of the boundary the 
 **Document ID:** `SE-689-D`  
 **Linked Entity:** `SE-689`  
 **Item Registry Code:** `MAW-G-689-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

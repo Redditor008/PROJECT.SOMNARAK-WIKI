@@ -7,7 +7,7 @@
 **Document ID:** `SE-316-D`  
 **Linked Entity:** `SE-316` — Tether  
 **Item Registry Code:** `MAW-G-316-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ Knot establishes nonreciprocity, Plate protects release, Fang cuts self-binding.
 **Document ID:** `SE-316-D`  
 **Linked Entity:** `SE-316`  
 **Item Registry Code:** `MAW-G-316-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

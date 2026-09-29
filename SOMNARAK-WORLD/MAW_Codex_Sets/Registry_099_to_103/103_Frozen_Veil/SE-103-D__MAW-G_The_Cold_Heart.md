@@ -69,7 +69,7 @@ While inactive, the Heart detects a sharp emotional manipulation attempt through
 
 ## HISTORY OF USE
 
-**Controlled test record:** Agent Hanul Grey accepted a ninety-second Cold Shelter test against a simulated coercive resonance. The manipulation signal did not affect the wearer. Grey also failed to recognize the anchor’s distress call as important until the Heart was removed. The Heart was returned to paired-key custody after the test. The result established the current rule: immunity is not a safe state; it is an emergency trade that requires people outside the effect to hold responsibility.
+**Controlled test record:** Specialist Hanul Grey accepted a ninety-second Cold Shelter test against a simulated coercive resonance. The manipulation signal did not affect the wearer. Grey also failed to recognize the anchor’s distress call as important until the Heart was removed. The Heart was returned to paired-key custody after the test. The result established the current rule: immunity is not a safe state; it is an emergency trade that requires people outside the effect to hold responsibility.
 
 ## CORROSION, MAINTENANCE & SHUTDOWN
 

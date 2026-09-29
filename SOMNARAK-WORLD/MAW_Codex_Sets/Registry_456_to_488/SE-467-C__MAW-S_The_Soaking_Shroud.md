@@ -7,7 +7,7 @@
 **Document ID:** `SE-467-C`  
 **Linked Entity:** `SE-467` — Memory Chain  
 **Item Registry Code:** `MAW-S-467-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Soaking Shroud is a shroud of blue Han-silk carrying separate identity lines
 **Document ID:** `SE-467-C`  
 **Linked Entity:** `SE-467`  
 **Item Registry Code:** `MAW-S-467-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The Director's order remains absolute: no opening, study, or discussion.
 
 **Personnel Note:**
-> *"I touched the Door once. It was warm. Something touched back."* — Agent, Alpha Tree deep vault; reassigned immediately
+> *"I touched the Door once. It was warm. Something touched back."* — Specialist, Alpha Tree deep vault; reassigned immediately
 
 
 

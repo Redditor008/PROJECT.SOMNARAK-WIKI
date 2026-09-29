@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Chains become warm near people who call imprisonment protection.
 - It is most active in the Raw.
 
-**Personnel Note:** *"It was waiting. I felt longing. The Chain did not want to hurt me; it wanted me to understand why leaving had become impossible."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt longing. The Chain did not want to hurt me; it wanted me to understand why leaving had become impossible."* — Specialist, Zone B patrol
 
 
 

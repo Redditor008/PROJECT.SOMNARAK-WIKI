@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Rust spreads through markers rather than metal alone.
 - Personnel feel weight before anger.
 
-**Personnel Note:** *"It was waiting. I felt weight. The anger belonged to no one present, yet everyone nearby knew how to continue it."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt weight. The anger belonged to no one present, yet everyone nearby knew how to continue it."* — Specialist, Zone B patrol
 
 
 

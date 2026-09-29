@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1005` — The Forgotten Soldier  
 **Source SECC Designation:** `N-IIβ-033 [GS]`  
 **Item Registry Code:** `MAW-W-1005-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Forgotten Soldier — Witnessed Form*, The Duty Fang performs the we
 **Document ID:** `SE-1005-B`  
 **Linked Entity:** `SE-1005`  
 **Item Registry Code:** `MAW-W-1005-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

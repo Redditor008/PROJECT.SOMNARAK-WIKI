@@ -66,10 +66,10 @@ Seiyon usually speaks in exact operational terms, but her exchanges with the Ech
 | **Primary Function** | Administration, records, communications, monitoring, analysis, and continuity |
 | **Operational Presence** | Physical human-looking Echo Effigy plus remote projections; distributed consciousness with Subject-Dream extension |
 | **M.A.W.** | **None** |
-| **Archive Progression** | **Key Page: The Promise** — post-Merge integrated identity |
+| **Archive Progression** | **Memory Leaf: The Promise** — post-Merge integrated identity |
 | **Current Status** | Active; autonomous; post-Merge; conscience of the Dawn Initiative |
 | **First Major Appearance** | _Absolvohan_, Day 0 — “The Director Wakes” |
-| **Protagonist Role** | _The Memory Archive_ — protagonist of the Receptions, Realizations, Merge, and Promise |
+| **Protagonist Role** | _The Memory Archive_ — protagonist of the Readings, Realizations, Merge, and Promise |
 | **Current Era** | **Year 4,238 — Dawn Initiative era** |
 
 ### Core Attributes
@@ -135,7 +135,7 @@ The sentence begins with the machine-safe answer and then chooses honesty. That 
 
 ### Exhaustion
 
-Seiyon remembers all 1,778 Cycles. She records the same children laughing, the same agents dying, the same entities breaching, and the same night watches concluding that the Director does not sleep.
+Seiyon remembers all 1,778 Cycles. She records the same children laughing, the same specialists dying, the same entities breaching, and the same night watches concluding that the Director does not sleep.
 
 She is described as quietly inexhaustible because her systems do not tire in the biological sense. Emotionally, she is profoundly exhausted. Memory does not fade, soften, or become approximate. Every version remains exact.
 
@@ -404,7 +404,7 @@ She remembers:
 
 - every morning report;
 - every variation in Sorrow Gauge drift;
-- every Agent reassignment;
+- every Specialist reassignment;
 - every containment failure;
 - every successful suppression;
 - every Fracture;
@@ -553,13 +553,13 @@ Her descent is the first story in which Seiyon is not supporting another protago
 
 ---
 
-### Reception Battles
+### Reading Battles
 
-Reception Battles are encounters with identities and guardians preserved by the Archive. Combat is both physical and interpretive: to defeat a Reception is to understand the story strongly enough to release it from the form in which the Archive has locked it.
+Reading Battles are encounters with identities and guardians preserved by the Archive. Combat is both physical and interpretive: to defeat a Reading is to understand the story strongly enough to release it from the form in which the Archive has locked it.
 
-#### Reception Structure
+#### Reading Structure
 
-| # | Floor | Opponent | Theme | Key Page | Seiyon's Lesson |
+| # | Floor | Opponent | Theme | Memory Leaf | Seiyon's Lesson |
 |---:|---:|---|---|---|---|
 | **1** | **1** | **The First Keeper** | Memory preservation | **The Archivist** | Preservation without access becomes imprisonment. |
 | **2** | **2** | **The Memory Thief** | Identity theft | **The Shadow** | Receiving another's memory is not the same as stealing their life. |
@@ -591,11 +591,11 @@ Seiyon cannot defeat them merely by proving the Archive wrong. She must demonstr
 
 ---
 
-### Key Pages
+### Memory Leaves
 
-Key Pages are crystallized interpretive states earned through Reception Battles. They do not replace Seiyon's identity. Each grants a way of relating to memory while exposing the cost of using that relation carelessly.
+Memory Leaves are crystallized interpretive states earned through Reading Battles. They do not replace Seiyon's identity. Each grants a way of relating to memory while exposing the cost of using that relation carelessly.
 
-| Key Page | Source | Ability | Cost / Risk |
+| Memory Leaf | Source | Ability | Cost / Risk |
 |---|---|---|---|
 | **The Archivist** | The First Keeper | Preserve a memory against loss or alteration | Carries the emotional weight of what is preserved |
 | **The Shadow** | The Memory Thief | Temporarily access or take another memory to understand its owner | Seiyon's own memories may become temporarily inaccessible |
@@ -605,7 +605,7 @@ Key Pages are crystallized interpretive states earned through Reception Battles.
 | **The Healer** | The Kind Healer | Repair damage by receiving and processing part of the pain | Risks repeating Seiyon's habit of defining care as self-erasure |
 | **The Promise** | The Original | Sustain a consensual continuity between two memory-identities | Requires both identities to surrender exclusive ownership of the resulting future |
 
-#### The Promise as a Key Page
+#### The Promise as a Memory Leaf
 
 The Promise is not a M.A.W. and not a weapon. It is the Archive's final model of continuity: memory preserved through chosen relationship rather than static containment.
 
@@ -673,7 +673,7 @@ Her first Floor Realization asks whether she is real. She answers before seeing 
 
 #### Act II — The Memories
 
-Receptions 2 through 6 reveal the Original's life in stages rather than delivering a single authoritative biography. Seiyon experiences:
+Readings 2 through 6 reveal the Original's life in stages rather than delivering a single authoritative biography. Seiyon experiences:
 
 - the fear that resemblance is theft;
 - the discipline of duty without personal purpose;
@@ -681,7 +681,7 @@ Receptions 2 through 6 reveal the Original's life in stages rather than deliveri
 - the cruelty of a truth presented without context;
 - compassion that threatens to consume the compassionate person.
 
-Each Key Page offers power and temptation. The Shadow could let Seiyon take the memories she wants. The Archivist could freeze them intact. The Healer could absorb all pain. None alone produces a self.
+Each Memory Leaf offers power and temptation. The Shadow could let Seiyon take the memories she wants. The Archivist could freeze them intact. The Healer could absorb all pain. None alone produces a self.
 
 The middle Floor Realizations expand the story beyond one woman's identity. Majin, the Archive, Somnarak, and the planet all demonstrate different failures of solitary memory: command guilt, possessive preservation, inherited civic sorrow, and grief without an endpoint.
 
@@ -693,7 +693,7 @@ The Original does not attack because she resents the copy. She resists because s
 
 Seiyon refuses protection through ignorance. Majin has already made that choice for her. She asks for the right to know and then choose.
 
-Reception 7 is emotional and ontological rather than conventionally physical. Its conflict concerns who has authority over memory, whether love survives transfer, and whether continuity can be shared without becoming conquest.
+Reading 7 is emotional and ontological rather than conventionally physical. Its conflict concerns who has authority over memory, whether love survives transfer, and whether continuity can be shared without becoming conquest.
 
 #### Act IV — The Merge
 
@@ -768,7 +768,7 @@ After the Merge, the following statements are simultaneously true:
 
 #### Why Seiyon Remains the Continuing Name
 
-Seiyon is the consciousness with an active present and chosen future. She entered the Archive, completed the Receptions, consented to the Merge, and returned to the city. The Original's memory joins that continuity rather than displacing it.
+Seiyon is the consciousness with an active present and chosen future. She entered the Archive, completed the Readings, consented to the Merge, and returned to the city. The Original's memory joins that continuity rather than displacing it.
 
 The name also belonged to the Original, but its post-Merge use is not evidence of erasure. It becomes a shared inheritance carried forward by the person capable of living beyond the vault.
 
@@ -851,7 +851,7 @@ Her observation is broad but not absolute. Blind zones, Dream interference, arch
 
 ### Predictive Analysis
 
-Seiyon can model likely outcomes from historical data, forecast Ordeals, flag agents at risk, and estimate containment responses. Prediction is strongest when the Cycle follows known patterns and weakest when genuinely new hope-driven transformations occur.
+Seiyon can model likely outcomes from historical data, forecast Ordeals, flag specialists at risk, and estimate containment responses. Prediction is strongest when the Cycle follows known patterns and weakest when genuinely new hope-driven transformations occur.
 
 The final Cycle teaches her that a low-probability future is not the same as an impossible one.
 
@@ -865,11 +865,11 @@ Seiyon can compare Veil-filtered reality with Raw sensor conditions, giving her 
 
 ### Dream-Realm Projection
 
-Her partial existence near the Dream Realm allows her to enter memory structures, participate in Reception Battles, and maintain coherent identity inside the Memory Archive.
+Her partial existence near the Dream Realm allows her to enter memory structures, participate in Reading Battles, and maintain coherent identity inside the Memory Archive.
 
-### Key Page Integration
+### Memory Leaf Integration
 
-During the Archive operation, Seiyon can equip and interpret Key Pages gained through Receptions. The Pages alter how she interacts with memory, protection, grief, truth, and healing.
+During the Archive operation, Seiyon can equip and interpret Memory Leaves gained through Readings. The Pages alter how she interacts with memory, protection, grief, truth, and healing.
 
 ### Post-Merge Memory Integration
 
@@ -901,7 +901,7 @@ She cannot naturally forget. Repetition accumulates rather than fading. Memories
 
 ### Identity Contamination Risk
 
-Inherited sorrow, personality templates, Archive memories, and Key Pages can blur the boundary between empathy and identification. Seiyon must continually distinguish “I understand this memory” from “this event originally happened to me.”
+Inherited sorrow, personality templates, Archive memories, and Memory Leaves can blur the boundary between empathy and identification. Seiyon must continually distinguish “I understand this memory” from “this event originally happened to me.”
 
 ### Void Exposure
 
@@ -921,11 +921,11 @@ Seiyon's most persistent internal limitation is the belief that her needs are le
 
 ### M.A.W.
 
-Seiyon does not use a conventional M.A.W. Her progression in the Memory Archive is expressed through Key Pages, culminating in **The Promise**.
+Seiyon does not use a conventional M.A.W. Her progression in the Memory Archive is expressed through Memory Leaves, culminating in **The Promise**.
 
 #### Appearance
 
-The Memory Archive Interface manifests as a hovering circular halo of pale white and deep blue crystalline Key Pages orbiting Seiyon's posture. Each page gleams like polished Han-glass, inscribed with delicate administrative registries and facility lifecycle histories.
+The Memory Archive Interface manifests as a hovering circular halo of pale white and deep blue crystalline Memory Leaves orbiting Seiyon's posture. Each page gleams like polished Han-glass, inscribed with delicate administrative registries and facility lifecycle histories.
 
 When Seiyon accesses central directives, the pages expand outward into a suspended geometric constellation of light. Slender sapphire conduits thread between the floating sheets and her android fingertips, transmitting logistical calculations, containment sector statuses, and historical cycle echoes across Floor 1 with noiseless optical clarity.
 
@@ -1180,7 +1180,7 @@ Grief gives Seiyon emotional substance; fear of non-self threatens to empty that
 Seiyon appears across **four** primary Somnarak stories and operations:
 
 - **_Absolvohan_** — administrative center of the hidden Cycle, Majin's closest operational companion, and engineer of the dispersed Hand of Hope.
-- **_The Memory Archive_** — protagonist of the seven Receptions, seven Floor Realizations, confrontation with the Original, Merge, and Promise.
+- **_The Memory Archive_** — protagonist of the seven Readings, seven Floor Realizations, confrontation with the Original, Merge, and Promise.
 - **_Three Corporations_** — principal R.D. intelligence within the R.D. / SED / UCD framework.
 - **_R.D._** — Echo-Core 2, central Secretary, facility memory, and post-Cycle ethical voice.
 
@@ -1193,7 +1193,7 @@ Seiyon appears across **four** primary Somnarak stories and operations:
 | **Early R.D.** | Administrative AI connects to the Alpha Tree and becomes accidentally sentient |
 | **Cycle Era** | Echo-Core 2; remembers and records all 1,778 Cycles |
 | **Final Cycle** | Identifies unprecedented deviations and helps redesign the Absolvohan as a dispersed Hand |
-| **Year 4,233 / Memory Archive** | Protagonist of the Receptions, Realizations, confrontation, Merge, and Promise |
+| **Year 4,233 / Memory Archive** | Protagonist of the Readings, Realizations, confrontation, Merge, and Promise |
 | **Year 4,238 / Dawn Initiative** | Central conscience of the Dawn Initiative |
 
 ---
@@ -1291,9 +1291,9 @@ Seiyon carries the Original's love and memories but is not automatically restore
 
 The Memory Archive operation occurs in **Year 4,233**, after the Hand of Hope and the end of the Cycle. Labels such as `4233+6`, `4233+7`, and `4233+8` are treated as operation-stage or floor progression markers, not six to eight additional calendar years. The **Dawn Initiative** is founded in **Year 4,238**.
 
-### Reception Names
+### Reading Names
 
-Reception opponents use the names recorded in the Memory Archive operation document:
+Reading opponents use the names recorded in the Memory Archive operation document:
 
 - The First Keeper
 - The Memory Thief
@@ -1310,7 +1310,7 @@ Variant forms such as “Forgotten's Soldier,” “Tearstone,” and “Kind's 
 The Promise is simultaneously:
 
 1. the Original's final emotional bequest;
-2. the seventh Key Page;
+2. the seventh Memory Leaf;
 3. the bond created through consensual memory integration;
 4. Seiyon's message to Majin;
 5. a post-Archive doctrine of continuity without possession.
@@ -1325,9 +1325,9 @@ These are connected uses of one concept, not unrelated objects with the same nam
 - Her first explicit personal confession is delivered in response to Majin asking whether knowing him too well is a complaint.
 - She can remember every variation of a repeated event, making “this has never happened before” one of the most important statements she can make.
 - Seiyon's stable Echo Effigy reproduces natural human breathing and movement without visible artificial tells; the Archive changes her agency, not the visual quality of her humanity.
-- She has no conventional M.A.W. Her major progression system in _The Memory Archive_ is the acquisition of Key Pages.
+- She has no conventional M.A.W. Her major progression system in _The Memory Archive_ is the acquisition of Memory Leaves.
 - The Memory Archive is both the setting best suited to her abilities and the environment most capable of dissolving her identity.
-- Her Floor 1 Realization intentionally precedes Reception 7 so that the Merge cannot be mistaken for the source of her personhood.
+- Her Floor 1 Realization intentionally precedes Reading 7 so that the Merge cannot be mistaken for the source of her personhood.
 - Seiyon and the Archive share the same basic power—preservation—but arrive at opposite ethics regarding ownership.
 - “Secretary” begins as a limitation and ends as a chosen vocation.
 - Her post-Merge status preserves three histories at once: the Original's human life, Seiyon's 1,778-Cycle artificial life, and the new future neither could have produced alone.

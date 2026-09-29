@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-762` — Grasp  
 **Source SECC Designation:** `O-IVδ-762 [O]`  
 **Item Registry Code:** `MAW-W-762-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Grasp — Witnessed Form*, Grasp Requiem performs the weapon role while 
 **Document ID:** `SE-762-B`  
 **Linked Entity:** `SE-762`  
 **Item Registry Code:** `MAW-W-762-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

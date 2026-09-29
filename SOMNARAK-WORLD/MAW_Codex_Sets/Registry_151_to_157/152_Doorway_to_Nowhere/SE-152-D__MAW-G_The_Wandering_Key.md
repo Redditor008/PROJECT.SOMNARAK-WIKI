@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, blue key-charm / β — Moderate / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; paired passage use |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small deep-blue key with no teeth, warm only when a remembered doorway is near. |
 | Active form | The key outlines a narrow temporary threshold toward one remembered place. |
 | Recognition rule | It will not turn until a return partner holds the physical side of the passage. |

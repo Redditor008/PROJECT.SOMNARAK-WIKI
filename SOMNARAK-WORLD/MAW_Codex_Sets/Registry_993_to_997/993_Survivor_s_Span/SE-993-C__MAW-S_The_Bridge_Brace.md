@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-993` — Survivor's Span  
 **Source SECC Designation:** `N-IIβ-993 [WS]`  
 **Item Registry Code:** `MAW-S-993-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Survivor's Span — Witnessed Form*, The Bridge Brace performs the suit 
 **Document ID:** `SE-993-C`  
 **Linked Entity:** `SE-993`  
 **Item Registry Code:** `MAW-S-993-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

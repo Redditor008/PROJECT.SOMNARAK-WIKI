@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The body pressure is different from standard weight. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Agent, Field Team 3
+> *"The body pressure is different from standard weight. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Specialist, Field Team 3
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -348,7 +348,7 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 > *"It beats slower on Mondays. Duri hated Mondays."* — Keeper, Archive
 > *"The calm it radiates is not comfort. It is the calm of someone who has run out of fear and kept going."* — Researcher
 > *"Forty-seven. She counted them. The heart counts them still."* — Director
-> *"I stood near the cell for ten minutes. When I left, I could handle my shift without shaking for the first time in months."* — Agent, Recovery
+> *"I stood near the cell for ten minutes. When I left, I could handle my shift without shaking for the first time in months."* — Specialist, Recovery
 > *"The amber darkened on the anniversary of the Battle Pits riots. Duri lost twelve that day."* — Handler
 
 ## 기록 (Registrum) — The Record

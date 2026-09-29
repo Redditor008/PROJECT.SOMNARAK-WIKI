@@ -7,7 +7,7 @@
 **Document ID:** `SE-260-A`  
 **Related Entity ID:** `SE-260`  
 **SECC Designation:** `C-IVδ-260 [LP]`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`  
@@ -36,7 +36,7 @@
 
 The Bridge sings while forming and may rise over flat ground. Its stones are salt-cold until stepped on, then warm with old footsteps. Crossing replaces the Gardens with another traveler’s journey and leaves sorrow even when the memory felt joyful.
 
-> *“The route is gone. The act of crossing is what refused to disappear.”* — Agent Kkotlom Lee
+> *“The route is gone. The act of crossing is what refused to disappear.”* — Specialist Kkotlom Lee
 
 ---
 
@@ -104,7 +104,7 @@ A stable echo remains only after a complete Ferrehan crossing whose entry and ex
 
 **Document ID:** `SE-260-A`  
 **Linked Entity:** `SE-260`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

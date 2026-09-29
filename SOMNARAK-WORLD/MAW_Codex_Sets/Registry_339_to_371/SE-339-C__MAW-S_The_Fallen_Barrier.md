@@ -7,7 +7,7 @@
 **Document ID:** `SE-339-C`  
 **Linked Entity:** `SE-339` — Breach  
 **Item Registry Code:** `MAW-S-339-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Fallen Barrier is a barrier plate of deep-blue Han crystal with one visible 
 **Document ID:** `SE-339-C`  
 **Linked Entity:** `SE-339`  
 **Item Registry Code:** `MAW-S-339-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

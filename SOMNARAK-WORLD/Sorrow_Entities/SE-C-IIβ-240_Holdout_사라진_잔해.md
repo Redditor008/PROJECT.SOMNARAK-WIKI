@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its pressure is stronger around Architects.
 - It is most stable when the loss is openly named.
 
-**Personnel Note:** *"It was quiet. I felt sorrow. The Ruin did not accuse the Alpha Tree. It simply refused to let the destruction become invisible."* — Agent, Zone B patrol
+**Personnel Note:** *"It was quiet. I felt sorrow. The Ruin did not accuse the Alpha Tree. It simply refused to let the destruction become invisible."* — Specialist, Zone B patrol
 
 
 

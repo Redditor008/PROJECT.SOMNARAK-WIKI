@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / γ — Major / Weight — Black |
 | Status | Active; fatigue-monitoring issue |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A black draped mantle that presses the shoulders down without restricting the arms. |
 | Active form | The hem meets the floor in a dark pressure circle, giving the wearer a stable place to stand. |
 | Recognition rule | The inner collar shows a narrow open space only when the wearer has named a rest location. |
@@ -87,7 +87,7 @@ Ashford wore the Mantle during a clearance operation near the Giant’s route. A
 
 The Mantle is the grounding piece of *Enough Space*. Maul force and Ring strength remain safe only when the suit preserves a place to stop carrying.
 
-> *“The mantle will help you stand. It cannot decide whether you are allowed to sit.”* — Agent Iseulfros Kim
+> *“The mantle will help you stand. It cannot decide whether you are allowed to sit.”* — Specialist Iseulfros Kim
 
 ---
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-247-D`  
 **Linked Entity:** `SE-247` — Unopened Bloom  
 **Item Registry Code:** `MAW-G-247-01`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
@@ -55,7 +55,7 @@ Charm defines what the Sword must not heal and what Plate must protect. It recor
 **Document ID:** `SE-247-D`  
 **Linked Entity:** `SE-247`  
 **Item Registry Code:** `MAW-G-247-01`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

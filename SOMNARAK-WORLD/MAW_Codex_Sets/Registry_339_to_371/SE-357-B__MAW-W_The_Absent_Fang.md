@@ -7,7 +7,7 @@
 **Document ID:** `SE-357-B`  
 **Linked Entity:** `SE-357` — Carrying Nothing  
 **Item Registry Code:** `MAW-W-357-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Absent Fang is a crimson fang of Han iron with an invisible section along it
 **Document ID:** `SE-357-B`  
 **Linked Entity:** `SE-357`  
 **Item Registry Code:** `MAW-W-357-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

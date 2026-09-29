@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-913` — Backward Hour  
 **Source SECC Designation:** `C-IIIγ-913 [GT]`  
 **Item Registry Code:** `MAW-S-913-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Backward Hour — Witnessed Form*, Backward Hour's Veil performs the sui
 **Document ID:** `SE-913-C`  
 **Linked Entity:** `SE-913`  
 **Item Registry Code:** `MAW-S-913-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

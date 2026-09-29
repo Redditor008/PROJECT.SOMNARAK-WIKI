@@ -260,7 +260,7 @@
 
 **Name:** Giltong (질동) — Korean *Gil* (길 — path, way) + *Dong* (동 — same, together): *those who walk the same path*.
 
-**What they do:** The Giltong are the city's **dedicated Taboo enforcers** — specialists who track, capture, and correct Taboo violations. While the Wardens maintain general order and the Judexhan serve as elite field agents, the Giltong are the only body that understands the Seven Taboos *intimately*.
+**What they do:** The Giltong are the city's **dedicated Taboo enforcers** — specialists who track, capture, and correct Taboo violations. While the Wardens maintain general order and the Judexhan serve as elite field specialists, the Giltong are the only body that understands the Seven Taboos *intimately*.
 
 **Origin:** Established after the Consolihan, when the Taboos were first codified. The Council recognized that the Taboos needed dedicated enforcement — not generalists, but specialists.
 
@@ -271,13 +271,13 @@
 | Step | Action | Detail |
 |------|--------|--------|
 | 1 | **Detection** | Taboo Scanners read unique Han-signatures left by each violation type |
-| 2 | **Investigation** | Giltong Agents cross-reference the Taboo Archive (12,000+ case records) |
+| 2 | **Investigation** | Giltong Specialists cross-reference the Taboo Archive (12,000+ case records) |
 | 3 | **Containment** | Containment Bonds suppress the violator's Han — M.A.W., Resonances, Taboo abilities |
 | 4 | **Judgment** | The Arbiter (supreme authority) determines the sentence — no trial required |
 | 5 | **Enforcement** | The Arbiter's Blade severs the metaphysical link between violator and violation |
 | 6 | **Documentation** | Case is recorded in the Taboo Archive beneath the Sigh Palace |
 
-**Structure:** ~100 personnel — 1 Arbiter (supreme authority), 7 Senior Giltong (one per Taboo), Giltong Agents (5–10 per Taboo), plus Investigators, Containment Specialists, and Archivists.
+**Structure:** ~100 personnel — 1 Arbiter (supreme authority), 7 Senior Giltong (one per Taboo), Giltong Specialists (5–10 per Taboo), plus Investigators, Containment Specialists, and Archivists.
 
 **The Arbiter:** The Giltong's supreme authority — a former Judexhan who was "retired" (Han-crystal implant removed, memories partially restored). The Arbiter is the only person who has seen both sides: the enforcement system and the Taboo system. They sentence violators directly and authorize Taboo exceptions in extreme circumstances.
 
@@ -293,7 +293,7 @@
 
 ### The Judexhan (유덱스한) — The Elite Arbiters
 
-**What they do:** The Judexhan are the **elite field agents** of the Council's enforcement apparatus — the sword the Council deploys when general order is not enough. They are not Taboo specialists; they are **judgment incarnate** — trained to weigh karmic debt on the battlefield and cut through it.
+**What they do:** The Judexhan are the **elite field specialists** of the Council's enforcement apparatus — the sword the Council deploys when general order is not enough. They are not Taboo specialists; they are **judgment incarnate** — trained to weigh karmic debt on the battlefield and cut through it.
 
 **Mandate:** The Judexhan report to the Council's **Fourth Head** — "The Shadow" — not the full Council. They operate with near-total autonomy and their own agenda, separate from the Council's public decisions.
 
@@ -323,7 +323,7 @@ The most severe institutional standoff in Somnarak exists at the surface thresho
 
 #### The Jurisdictional Impasse
 Under Council of Sighs decree, the Giltong hold universal authority to deploy Taboo Scanners and execute summary containment across all municipal zones. However, inside Facility 01, Director Majin enforces absolute operational sovereignty:
-- **The Floor 1 Perimeter:** Giltong agents are permitted into surface intake offices and diplomatic receiving rooms, but are strictly barred from descending past Floor 1 into the deep containment corridors (Floors 2 through 8).
+- **The Floor 1 Perimeter:** Giltong specialists are permitted into surface intake offices and diplomatic receiving rooms, but are strictly barred from descending past Floor 1 into the deep containment corridors (Floors 2 through 8).
 - **Acoustic Dampening Scramble:** Facility 01's massive subterranean Mnemonic Generators and sector dampeners radiate high-density static fields that blind external Taboo Scanners, preventing the Giltong from reading the Han-signatures of lower-floor extraction vats.
 - **Echo-Core Speech Shielding:** Departmental communications across Floors 2–8 are isolated within closed optical channels, preventing the municipal acoustic surveillance network from eavesdropping on Echo-Core speech or crisis alarms.
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-946` — Blackened Angel  
 **Source SECC Designation:** `C-IVγ-946 [WO]`  
 **Item Registry Code:** `MAW-S-946-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Blackened Angel — Witnessed Form*, The Gilded Shroud performs the suit
 **Document ID:** `SE-946-C`  
 **Linked Entity:** `SE-946`  
 **Item Registry Code:** `MAW-S-946-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

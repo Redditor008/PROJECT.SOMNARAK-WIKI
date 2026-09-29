@@ -4,7 +4,7 @@
 **Document ID:** `SE-693-C`  
 **Linked Entity:** `SE-693` — Undercurrent  
 **Item Registry Code:** `MAW-S-693-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ The Rootbound Mantle is a black mantle of Han weave that bears pressure while hi
 **Document ID:** `SE-693-C`  
 **Linked Entity:** `SE-693`  
 **Item Registry Code:** `MAW-S-693-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

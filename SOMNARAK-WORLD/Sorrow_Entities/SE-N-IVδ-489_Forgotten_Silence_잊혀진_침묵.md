@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It cannot be recorded reliably by audio equipment.
 - Personnel report feeling weight rather than fear.
 
-**Personnel Note:** *"It was glowing in the corner. I understood what it wanted before I knew what I had forgotten."* — Agent, Zone E patrol
+**Personnel Note:** *"It was glowing in the corner. I understood what it wanted before I knew what I had forgotten."* — Specialist, Zone E patrol
 
 
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1016` — Aphonia  
 **Source SECC Designation:** `N-IIβ-170 [VS]`  
 **Item Registry Code:** `MAW-W-1016-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Aphonia — Witnessed Form*, The Voice Lens performs the weapon role whi
 **Document ID:** `SE-1016-B`  
 **Linked Entity:** `SE-1016`  
 **Item Registry Code:** `MAW-W-1016-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

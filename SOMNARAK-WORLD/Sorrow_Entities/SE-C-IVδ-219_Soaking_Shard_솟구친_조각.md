@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It grows more active during the Sorrow Tide.
 - Physical damage increases its liquid output.
 
-**Personnel Note:** *"It was mourning. I felt weight. The Shard had become a broken container, and every tear was trying to escape."* — Agent, Zone B patrol
+**Personnel Note:** *"It was mourning. I felt weight. The Shard had become a broken container, and every tear was trying to escape."* — Specialist, Zone B patrol
 
 
 

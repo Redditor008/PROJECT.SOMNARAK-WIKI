@@ -7,7 +7,7 @@
 **Document ID:** `SE-585-C`  
 **Linked Entity:** `SE-585` — Rootless  
 **Item Registry Code:** `MAW-S-585-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -71,7 +71,7 @@ The Charm remembers ties, the Shroud keeps people mutually present, and Floating
 **Document ID:** `SE-585-C`  
 **Linked Entity:** `SE-585`  
 **Item Registry Code:** `MAW-S-585-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

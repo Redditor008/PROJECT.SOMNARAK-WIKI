@@ -7,7 +7,7 @@
 **Document ID:** `SE-357-C`  
 **Linked Entity:** `SE-357` — Carrying Nothing  
 **Item Registry Code:** `MAW-S-357-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Absent Plate is a crimson harness of Han iron with an empty load frame mount
 **Document ID:** `SE-357-C`  
 **Linked Entity:** `SE-357`  
 **Item Registry Code:** `MAW-S-357-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

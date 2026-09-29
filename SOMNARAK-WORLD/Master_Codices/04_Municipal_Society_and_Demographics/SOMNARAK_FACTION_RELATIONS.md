@@ -63,7 +63,7 @@ This document maps every significant relationship between factions — the allia
 | **Wardens** | Tension | Architect construction zones create security gaps | The Wardens have blamed Architects for security breaches that were actually Fray operations |
 | **Weavers** | Ignored | Architects focus on the physical; Weavers focus on the Dream | The Architects do not understand the Weavers — and fear what they don't understand |
 | **R.D.** | Cooperation | Architects build for the R.D; R.D. provides research | The Architects have built secret passages in the R.D. facility — for emergencies |
-| **Menders** | Alliance | Menders are the Architects' field agents | The Menders report to both the Architects and the R.D. — a conflict of loyalty |
+| **Menders** | Alliance | Menders are the Architects' field specialists | The Menders report to both the Architects and the R.D. — a conflict of loyalty |
 | **Frays** | Conflict | Frays sabotage construction for profit | The Architects have paid Frays to protect their construction sites — a secret arrangement |
 | **Citizens** | Respected | Citizens rely on Architects for shelter and infrastructure | The Architects are the only faction that citizens trust without reservation |
 
@@ -188,7 +188,7 @@ This document maps every significant relationship between factions — the allia
 
 | Faction | Relationship | Dynamic | Secret |
 |---------|--------------|---------|--------|
-| **Architects** | Alliance | Menders are the Architects' field agents | The Menders have repaired damage that the Architects caused — and covered it up |
+| **Architects** | Alliance | Menders are the Architects' field specialists | The Menders have repaired damage that the Architects caused — and covered it up |
 | **R.D.** | Alliance | Menders are R.D. field contractors | The Menders have seen things in the field that the R.D. doesn't know about |
 | **Wardens** | Supportive | Menders support Warden operations | The Menders have saved Wardens during Han emergencies |
 | **Citizens** | Trusted | Citizens trust Menders to fix things | The Menders have repaired citizens' homes for free — when no one was watching |

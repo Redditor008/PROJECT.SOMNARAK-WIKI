@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, black breath-token / δ — Critical / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; camp fatigue review required |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A dark token that cools and warms with a slow, quiet breathing rhythm. |
 | Active form | The token releases one deep exhale through the bearer’s immediate field, briefly softening every sound. |
 | Recognition rule | It remains dormant if the bearer has no plan for who will guard the people receiving calm. |

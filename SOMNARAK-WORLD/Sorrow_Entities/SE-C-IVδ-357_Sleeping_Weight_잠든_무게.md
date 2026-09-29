@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its dreams alter local gravity.
 - Personnel report longing after exposure, often longing for rest.
 
-**Personnel Note:** *"It was glowing in the dark. I felt longing—not for the weight, but for the right to sleep beneath it."* — Agent, Zone B patrol
+**Personnel Note:** *"It was glowing in the dark. I felt longing—not for the weight, but for the right to sleep beneath it."* — Specialist, Zone B patrol
 
 
 

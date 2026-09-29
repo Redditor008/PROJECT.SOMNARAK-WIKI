@@ -57,7 +57,7 @@ The wearer becomes unable to enjoy minor comforts while the Shroud is active. Fo
 ### Incident — The Fourth Name
 
 **Date:** Year 4,231  
-**Bearer:** Agent Haneulash Yoon  
+**Bearer:** Specialist Haneulash Yoon  
 **Result:** Yoon remained inside an anniversary vigil after the third stored name appeared. The fourth name arrived during an unplanned tower echo. All four names spoke together. Yoon completed the vigil but spent two days unable to recognize laughter without crying.
 
 **Current Rule:** Three stored names is a hard withdrawal threshold. No exception is granted for Archive personnel.

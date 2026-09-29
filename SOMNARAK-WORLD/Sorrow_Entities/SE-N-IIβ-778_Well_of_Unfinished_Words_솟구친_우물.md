@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The liquid rises toward speakers.
 - Personnel report grief rather than fear when it is allowed to listen.
 
-**Personnel Note:** *"It was quiet. I felt grief. The Well was not asking us to save anyone. It was asking us not to interrupt the dead."* — Agent, Zone B patrol
+**Personnel Note:** *"It was quiet. I felt grief. The Well was not asking us to save anyone. It was asking us not to interrupt the dead."* — Specialist, Zone B patrol
 
 
 

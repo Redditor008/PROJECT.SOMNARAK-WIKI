@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-779` — Miscast  
 **Source SECC Designation:** `C-Iα-779 [GO]`  
 **Item Registry Code:** `MAW-W-779-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Miscast — Witnessed Form*, The Torn Edge performs the weapon role whil
 **Document ID:** `SE-779-B`  
 **Linked Entity:** `SE-779`  
 **Item Registry Code:** `MAW-W-779-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

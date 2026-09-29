@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes more active during breaches.
 - It cannot heal itself.
 
-**Personnel Note:** *"It was waiting. I felt longing. The Shadow had inherited the healer's work but not the healer's name."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt longing. The Shadow had inherited the healer's work but not the healer's name."* — Specialist, Zone B patrol
 
 
 
@@ -378,6 +378,6 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 ## Document Information
 
 **Document ID:** SE-N-IIβ-280
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

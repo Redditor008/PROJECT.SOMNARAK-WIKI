@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its origin has not been identified.
 - Personnel feel hope when the trace thins.
 
-**Personnel Note:** *"It was quiet. I felt hope. The Trace was not growing because anyone was angry now; it was growing because the ground remembered that anger had once been normal."* — Agent, Zone C patrol
+**Personnel Note:** *"It was quiet. I felt hope. The Trace was not growing because anyone was angry now; it was growing because the ground remembered that anger had once been normal."* — Specialist, Zone C patrol
 
 
 

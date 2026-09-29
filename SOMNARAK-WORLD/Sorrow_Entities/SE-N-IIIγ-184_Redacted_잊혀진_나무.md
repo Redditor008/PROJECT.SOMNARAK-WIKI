@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It never shows a complete face.
 - Personnel report rage when they realize the absence was deliberate.
 
-**Personnel Note:** *"I felt rage. The Tree did not show me what was lost. It showed me that someone had worked very hard to make the loss impossible to find."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt rage. The Tree did not show me what was lost. It showed me that someone had worked very hard to make the loss impossible to find."* — Specialist, Zone D patrol
 
 
 

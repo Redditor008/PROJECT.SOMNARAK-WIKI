@@ -218,7 +218,7 @@ The extracted equipment reflects the same unresolved pressure as The Unconsoled.
 - Gauge spikes on the Consolihan, when the city's shared grief is highest.
 - It cannot be transformed; dispersing it would destabilize the city's foundation.
 
-**Personnel Note:** *"I sat with it for an hour. I did not share my grief — I was too proud. It showed me my mother's face, the morning she did not wake. When I stood, the entity was weeping too — softer, as if I had finally done the one thing it wanted."* — Agent Haneulash Yoon (하늘애쉬 윤), Zone B
+**Personnel Note:** *"I sat with it for an hour. I did not share my grief — I was too proud. It showed me my mother's face, the morning she did not wake. When I stood, the entity was weeping too — softer, as if I had finally done the one thing it wanted."* — Specialist Haneulash Yoon (하늘애쉬 윤), Zone B
 
 ### Observation Progression
 

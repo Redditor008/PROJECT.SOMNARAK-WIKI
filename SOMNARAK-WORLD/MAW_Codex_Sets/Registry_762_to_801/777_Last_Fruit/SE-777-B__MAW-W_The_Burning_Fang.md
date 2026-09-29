@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-777` — Last Fruit  
 **Source SECC Designation:** `C-IIβ-777 [GS]`  
 **Item Registry Code:** `MAW-W-777-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Last Fruit — Witnessed Form*, The Burning Fang performs the weapon rol
 **Document ID:** `SE-777-B`  
 **Linked Entity:** `SE-777`  
 **Item Registry Code:** `MAW-W-777-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

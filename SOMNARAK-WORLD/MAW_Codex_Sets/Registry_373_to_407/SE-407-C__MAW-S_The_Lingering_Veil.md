@@ -7,7 +7,7 @@
 **Document ID:** `SE-407-C`  
 **Linked Entity:** `SE-407` — Lingering Place  
 **Item Registry Code:** `MAW-S-407-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Lingering Veil is a pale veil of Han gossamer with one current identity line
 **Document ID:** `SE-407-C`  
 **Linked Entity:** `SE-407`  
 **Item Registry Code:** `MAW-S-407-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

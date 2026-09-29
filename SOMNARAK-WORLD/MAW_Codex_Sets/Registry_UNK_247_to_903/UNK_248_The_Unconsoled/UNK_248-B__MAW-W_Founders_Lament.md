@@ -5,7 +5,7 @@
 **Document ID:** `UNK-248-B`  
 **Linked Entity:** `UNK-248` — The Unconsoled  
 **Item Registry Code:** `MAW-W-UNK-248-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ A deep-blue edge that begins weeping before it is drawn.
 **Document ID:** `UNK-248-B`  
 **Linked Entity:** `UNK-248`  
 **Item Registry Code:** `MAW-W-UNK-248-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

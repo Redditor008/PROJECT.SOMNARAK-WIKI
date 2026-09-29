@@ -4,7 +4,7 @@
 **Document ID:** `SE-754-D`  
 **Linked Entity:** `SE-754` — Thralldom  
 **Item Registry Code:** `MAW-G-754-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Wandering Link is the gift of Thralldom’s set — tail-slot, granted unpre
 **Document ID:** `SE-754-D`  
 **Linked Entity:** `SE-754`  
 **Item Registry Code:** `MAW-G-754-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-925` — Sorrow Mass  
 **Source SECC Designation:** `C-Vω-925 [WH]`  
 **Item Registry Code:** `MAW-S-925-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Veil performs the suit ro
 **Document ID:** `SE-925-C`  
 **Linked Entity:** `SE-925`  
 **Item Registry Code:** `MAW-S-925-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Acknowledgment and mourning are more effective than force.
 
 **Personnel Note:**
-> *"The fog did not make the wilderness empty. It showed me the emptiness that was already there. I kept walking because I said the names of the people I could not see."* — Border Agent Iseulfros Kim, Desolate survey
+> *"The fog did not make the wilderness empty. It showed me the emptiness that was already there. I kept walking because I said the names of the people I could not see."* — Border Specialist Iseulfros Kim, Desolate survey
 
 
 

@@ -397,6 +397,6 @@ Some sorrows are about rejection. Bulwark is about the failure to ask — the co
 ## Document Information
 
 **Document ID:** SE-N-Iα-459
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

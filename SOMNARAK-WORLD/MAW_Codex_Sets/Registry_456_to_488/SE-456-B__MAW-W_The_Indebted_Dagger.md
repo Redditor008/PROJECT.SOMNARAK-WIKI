@@ -7,7 +7,7 @@
 **Document ID:** `SE-456-B`  
 **Linked Entity:** `SE-456` — Orchard of the Indebted  
 **Item Registry Code:** `MAW-W-456-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Indebted Dagger is a crimson dagger of Han iron showing grief stains beneath
 **Document ID:** `SE-456-B`  
 **Linked Entity:** `SE-456`  
 **Item Registry Code:** `MAW-W-456-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

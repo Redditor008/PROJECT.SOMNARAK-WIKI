@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-976` — Willing Chains  
 **Source SECC Designation:** `C-IVδ-976 [O]`  
 **Item Registry Code:** `MAW-S-976-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Willing Chains — Witnessed Form*, Willing Chains Veil performs the sui
 **Document ID:** `SE-976-C`  
 **Linked Entity:** `SE-976`  
 **Item Registry Code:** `MAW-S-976-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

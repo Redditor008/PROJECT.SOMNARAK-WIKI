@@ -272,9 +272,9 @@ The floor's motto is: _“Some truths must be buried. Others must be guarded.”
 
 ### Personnel
 
-Floor 6 includes Vault Keepers, Memory Archivists, Truth Seekers, a Field Commander, Senior Agents, Specialists, Clerks, Technicians, and maintenance staff. The Directorate's hierarchy lists approximately 105 personnel on the floor.
+Floor 6 includes Vault Keepers, Memory Archivists, Truth Seekers, a Field Commander, Senior Specialists, Specialists, Auxiliaries, Technicians, and maintenance staff. The Directorate's hierarchy lists approximately 105 personnel on the floor.
 
-Marjuk does not perform every task personally. Clerks catalogue, specialists stabilize memories, technicians maintain climate and security systems, and agents guard dangerous rooms. His responsibility is to determine how those functions preserve context rather than merely preserve objects.
+Marjuk does not perform every task personally. Auxiliaries catalogue, specialists stabilize memories, technicians maintain climate and security systems, and specialists guard dangerous rooms. His responsibility is to determine how those functions preserve context rather than merely preserve objects.
 
 ### Daily Missions
 
@@ -1012,7 +1012,7 @@ After disclosure, they weep, rage, and forgive. Marjuk must preserve all three r
 
 ### Floor 6 Personnel
 
-Vault Keepers, Memory Archivists, Truth Seekers, clerks, technicians, agents, and maintenance staff make Marjuk's work possible. He depends on them for physical conservation, access control, and the routine labor that lets one hidden entry survive.
+Vault Keepers, Memory Archivists, Truth Seekers, auxiliaries, technicians, specialists, and maintenance staff make Marjuk's work possible. He depends on them for physical conservation, access control, and the routine labor that lets one hidden entry survive.
 
 No named Floor 6 subordinate or Field Commander is recorded.
 

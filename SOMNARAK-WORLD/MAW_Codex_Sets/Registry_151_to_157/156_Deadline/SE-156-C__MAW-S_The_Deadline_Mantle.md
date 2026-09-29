@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / β — Moderate / Weight — Black |
 | Status | Active; deadline-support and rest plan required |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A black mantle with faint concentric clock marks at the hem, each mark incomplete. |
 | Active form | The marks slow around the wearer and distribute deadline Weight through the fabric. |
 | Recognition rule | The mantle settles only once a named support person has reviewed the actual due date. |
@@ -87,7 +87,7 @@ Grey wore the Mantle during a late Collector’s Row review. The deadline field 
 
 The Mantle is the rest safeguard of *Time With Company*. Deadline Maul opens action room and Deadline Watch shows a due date; this suit makes time outside the deadline a required part of the plan.
 
-> *“A countdown becomes dangerous when no one is assigned to protect the hours after it.”* — Agent Iseulfros Kim
+> *“A countdown becomes dangerous when no one is assigned to protect the hours after it.”* — Specialist Iseulfros Kim
 
 ---
 

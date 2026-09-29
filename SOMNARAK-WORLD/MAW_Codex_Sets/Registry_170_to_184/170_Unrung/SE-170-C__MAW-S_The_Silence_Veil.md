@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / β — Moderate / Void — Pale White |
 | Status | Active; external alert chain required |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | Pale gossamer with a bell-shaped blank at the collar and no rustle when folded. |
 | Active form | The fabric mutes intrusive Void pressure around the wearer while an external alert thread remains visible. |
 | Recognition rule | The thread is readable only to the assigned alert partner. |
@@ -87,7 +87,7 @@ Grey wore the Veil during a damaged alarm drill. The fabric blocked the panic-in
 
 The Veil is the identity safeguard of *Answer the Silence*. Hammer creates bounded quiet and Charm finds missing alerts; the suit keeps a person from disappearing inside the response gap.
 
-> *“A silent wearer still needs to be accounted for.”* — Agent Iseulfros Kim
+> *“A silent wearer still needs to be accounted for.”* — Specialist Iseulfros Kim
 
 ---
 

@@ -315,7 +315,7 @@ Never collapse these states into the single word "done."
      - **UNK SE (Unknown Sorrow Entities):** The anomalous dossiers in `SOMNARAK-WORLD/Unknown_Entities/` manifest strictly **AFTER R.D.**, encountering Hope Bearers (`The Extinguished`, `The Undelivered Thanks`), surviving broken loop mechanics (`The Repeated Survivor`, `Book of Regressor Log Dramaturgy`), or discovered across uncharted frontiers (`The Glass Silt Drifter`, `The Singing Needle`). Continental geography is strictly sovereign landmass and not an SE.
      - **The Dawn Initiative:** The mobile fortress *The Lantern* continental journey (`SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_DAWN_OF_HOPE.md`).
      - **The Horizon Caravan:** The trans-desolate overland wasteland expedition (`SOMNARAK-WORLD/Jipyeongseondae/`).
-     - **The Memory Archive:** Floor realizations and Key Page extractions (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
+     - **The Memory Archive:** Floor realizations and Memory Leaf extractions (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
      - **The Wound Walkers:** Post-Dawn spiritual pilgrimage across seven crucibles in Year 4,250+ (`SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md`).
      - All subsequent continental expeditions, diplomatic reconnections, and post-Dawn institutions.
 
@@ -353,7 +353,7 @@ Never collapse these states into the single word "done."
        3. *Urim Heavy Resonance Manufactory (울림 중공업)* — Heavy acoustic artillery, anti-distortion pylons.
        4. *Cheongsan Mnemonic Clearing House (청산 결제 금융)* — Municipal debt ledger, bond underwriting, credit currency.
        5. *Hwayeom Thermal Reclamation Corps (화염 열원 정화단)* — Deep-sump incinerators, chemical slurry scrubbers, bio-slag curfew disposal.
-   - **Institutional Distinction (Memory Archive):** The Memory Archive (*Gieok Jeojangso* / 기억 저장소) is an Institutional Sanctuary & Mnemonic Library (carved within the sub-Alpha root strata for soul preservation and Key Page extraction), NOT a commercial company.
+   - **Institutional Distinction (Memory Archive):** The Memory Archive (*Gieok Jeojangso* / 기억 저장소) is an Institutional Sanctuary & Mnemonic Library (carved within the sub-Alpha root strata for soul preservation and Memory Leaf extraction), NOT a commercial company.
    - **Corporate Canon Mandate (PM Wing Analogy):** Paralleling Project Moon where prominent City Wings (e.g., T Corp, W Corp, K Corp, R Corp) possess brim-full lore, history, technologies, and dark secrets without each requiring a standalone titular game, Somnarak companies exist as complete worldbuilding pillars regardless of whether an interactive game campaign is centered upon them.
 2. **Somnarak Outsider Factory Architecture (솜나락 외곽 공장 — The Non-Known Sector):**
    - **Universal Rule:** Any and all industrial, manufacturing, refining, or fabrication facilities **other than the 10 Primary Companies** are designated **Somnarak Outsider Factory** (or plural: *Somnarak Outsider Factories*).

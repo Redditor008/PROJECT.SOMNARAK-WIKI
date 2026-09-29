@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It radiates the sorrow of everything without visibly changing.
 - No M.A.W. extraction attempt is authorized.
 
-**Personnel Note:** *"It was watching. I felt hope. I realized hope and sorrow began together, in the same first moment."* — Agent, Zone C patrol
+**Personnel Note:** *"It was watching. I felt hope. I realized hope and sorrow began together, in the same first moment."* — Specialist, Zone C patrol
 
 
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-668-B`  
 **Linked Entity:** `SE-668` — Frozen Fury  
 **Item Registry Code:** `MAW-W-668-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Frozen Fury Lens is a circular weapon of pale glass taken from the corrected
 **Document ID:** `SE-668-B`  
 **Linked Entity:** `SE-668`  
 **Item Registry Code:** `MAW-W-668-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

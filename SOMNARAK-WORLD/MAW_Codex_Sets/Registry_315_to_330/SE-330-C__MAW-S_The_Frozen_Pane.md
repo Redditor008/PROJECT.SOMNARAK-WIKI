@@ -7,7 +7,7 @@
 **Document ID:** `SE-330-C`  
 **Linked Entity:** `SE-330` — Sitting Boundary  
 **Item Registry Code:** `MAW-S-330-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -81,7 +81,7 @@ When paired with *The Glazed Mullion-Pike* and *The Rime-Pane Monocle*, the suit
 **Document ID:** `SE-330-C`  
 **Linked Entity:** `SE-330`  
 **Item Registry Code:** `MAW-S-330-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

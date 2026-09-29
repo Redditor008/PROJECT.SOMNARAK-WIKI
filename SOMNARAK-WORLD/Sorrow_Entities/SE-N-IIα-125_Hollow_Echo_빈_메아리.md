@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It responds to acknowledgment but continues calling afterward.
 - Exposure causes emotional distress rather than direct harm.
 
-**Personnel Note:** *"It was waiting. I felt weight. I answered once, and the voice said thank you before calling again."* — Agent, Zone C patrol
+**Personnel Note:** *"It was waiting. I felt weight. I answered once, and the voice said thank you before calling again."* — Specialist, Zone C patrol
 
 
 

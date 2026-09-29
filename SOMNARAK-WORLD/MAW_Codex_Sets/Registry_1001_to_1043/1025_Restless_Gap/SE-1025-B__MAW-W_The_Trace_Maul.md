@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1025` — Restless Gap  
 **Source SECC Designation:** `C-IVδ-250 [WS]`  
 **Item Registry Code:** `MAW-W-1025-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Restless Gap — Witnessed Form*, The Trace Maul performs the weapon rol
 **Document ID:** `SE-1025-B`  
 **Linked Entity:** `SE-1025`  
 **Item Registry Code:** `MAW-W-1025-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

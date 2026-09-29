@@ -7,7 +7,7 @@
 **Document ID:** `SE-565-C`  
 **Linked Entity:** `SE-565` — Upwell  
 **Item Registry Code:** `MAW-S-565-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ The left boot remains one finger-width heavier. It reacts to self-deception befo
 
 Lantern maps the actual hidden space, Plate establishes the non-negotiable edge, and Fang opens material along a confirmed route. Full resonance collapses if the wearer conceals that they chose to descend.
 
-> *“It held my foot. What hurt was learning that the other foot had been mine to move.”* — Agent Hanul Grey
+> *“It held my foot. What hurt was learning that the other foot had been mine to move.”* — Specialist Hanul Grey
 
 ---
 
 **Document ID:** `SE-565-C`  
 **Linked Entity:** `SE-565`  
 **Item Registry Code:** `MAW-S-565-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

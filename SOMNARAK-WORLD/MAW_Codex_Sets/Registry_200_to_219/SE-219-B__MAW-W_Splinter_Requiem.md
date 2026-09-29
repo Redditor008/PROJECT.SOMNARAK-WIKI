@@ -7,7 +7,7 @@
 **Document ID:** `SE-219-B`  
 **Linked Entity:** `SE-219` — Splinter  
 **Item Registry Code:** `MAW-W-219-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -19,7 +19,7 @@ A slender deep-blue Han-crystal blade with a wet luminous edge. It sings in the 
 
 The blade forms from a dry residue line after a complete O-Relic channel. It binds to a wielder who can name a grief they have postponed without claiming it is resolved. A bearer who calls suppression “recovery” finds the grip filling with warm water.
 
-**Current bearer:** Agent Durivel Cho, limited vault response. During the *Rain in a Sealed Corridor* incident, he cut three memory-bearing runoff strands away from evacuation personnel, then stopped when his tears began showing a childhood room he did not recognize.
+**Current bearer:** Specialist Durivel Cho, limited vault response. During the *Rain in a Sealed Corridor* incident, he cut three memory-bearing runoff strands away from evacuation personnel, then stopped when his tears began showing a childhood room he did not recognize.
 
 ## Appearance
 
@@ -64,7 +64,7 @@ In *The Opened Seal*, Requiem remains sheathed while the Shroud and Pendant rece
 **Document ID:** `SE-219-B`  
 **Linked Entity:** `SE-219`  
 **Item Registry Code:** `MAW-W-219-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

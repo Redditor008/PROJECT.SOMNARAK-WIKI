@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1036` — Dreaming Ruin  
 **Source SECC Designation:** `N-IIIγ-505 [VS]`  
 **Item Registry Code:** `MAW-W-1036-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Dreaming Ruin — Witnessed Form*, The Ruin Lens performs the weapon rol
 **Document ID:** `SE-1036-B`  
 **Linked Entity:** `SE-1036`  
 **Item Registry Code:** `MAW-W-1036-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

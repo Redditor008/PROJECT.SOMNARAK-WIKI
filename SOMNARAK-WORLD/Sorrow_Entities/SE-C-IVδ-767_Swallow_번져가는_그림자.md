@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It fades when grief is named by its original source.
 - Personnel report longing after exposure.
 
-**Personnel Note:** *"It was mourning. I felt longing. The Shadow made another person's grief feel like a memory I had misplaced."* — Agent, Zone B patrol
+**Personnel Note:** *"It was mourning. I felt longing. The Shadow made another person's grief feel like a memory I had misplaced."* — Specialist, Zone B patrol
 
 
 

@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its flame grows when visitors attempt to force reunion.
 - It becomes calm when the reason for leaving is acknowledged.
 
-**Personnel Note:** *"It was waiting. I felt grief. The Door did not want to be repaired; it wanted someone to admit that the home had already changed."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt grief. The Door did not want to be repaired; it wanted someone to admit that the home had already changed."* — Specialist, Zone B patrol
 
 
 
@@ -421,6 +421,6 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 ## Document Information
 
 **Document ID:** SE-O-IIβ-757
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

@@ -1007,7 +1007,7 @@ The fine sand within the pendant flows upward against gravity whenever the beare
 **Category:** PRIMAL (Bio-Ocular Implement / Replaced Eye Focus) | **Grade:** γ | **Element:** Lament
 **Damage:** Lament 7–12 (continuous tick damage) | **Speed:** 3 (Normal) | **Range:** 5 (Room — Line of Sight) | **Pattern:** Channeled Gaze / Room-Wide Han Drain
 
-**Ability:** Deals continuous Lament damage across Range 5 (Room). Replaces the Agent's ocular socket upon equip; hostile entities within line of sight continuously lose Han and Mind stability over time.
+**Ability:** Deals continuous Lament damage across Range 5 (Room). Replaces the Specialist's ocular socket upon equip; hostile entities within line of sight continuously lose Han and Mind stability over time.
 
 **Cost:** 40 Sorrow Echoes
 
@@ -4330,7 +4330,7 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new agents how M.A.W. weapons feel in the hand.
+**Ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new specialists how M.A.W. weapons feel in the hand.
 
 **Cost:** 15 Sorrow Echoes
 
@@ -4352,7 +4352,7 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 **Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
 
-**Cost:** None. The entity gives freely. Some agents carry their Warm Stone for their entire career.
+**Cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
 
 ---
 

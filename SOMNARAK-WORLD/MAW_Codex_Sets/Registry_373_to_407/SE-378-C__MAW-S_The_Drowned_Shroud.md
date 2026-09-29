@@ -7,7 +7,7 @@
 **Document ID:** `SE-378-C`  
 **Linked Entity:** `SE-378` — Fathom  
 **Item Registry Code:** `MAW-S-378-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Drowned Shroud is a shroud of blue Han-silk with one dry breath line — a s
 **Document ID:** `SE-378-C`  
 **Linked Entity:** `SE-378`  
 **Item Registry Code:** `MAW-S-378-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

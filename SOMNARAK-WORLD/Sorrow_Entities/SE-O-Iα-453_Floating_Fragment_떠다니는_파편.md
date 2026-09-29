@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It produces wonder before the emotional impact arrives.
 - The Fragment never stops drifting for long.
 
-**Personnel Note:** *"It was glowing. I felt wonder, then realized the light was shaped around a cry that no one had heard for centuries."* — Agent, Zone D patrol
+**Personnel Note:** *"It was glowing. I felt wonder, then realized the light was shaped around a cry that no one had heard for centuries."* — Specialist, Zone D patrol
 
 
 

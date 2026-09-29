@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, black watch-charm / β — Moderate / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; support-plan use only |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small black watch with a cracked dial and hands that point at a named obligation rather than time. |
 | Active form | The dial shows a clear due mark beside one verified obligation and a faint line toward the planned support action. |
 | Recognition rule | It shows no date until an external verifier is identified. |

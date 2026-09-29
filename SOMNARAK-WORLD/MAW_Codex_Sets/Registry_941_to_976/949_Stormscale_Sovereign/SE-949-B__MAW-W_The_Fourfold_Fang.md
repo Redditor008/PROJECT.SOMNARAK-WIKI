@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-949` — The Stormscale Sovereign  
 **Source SECC Designation:** `C-Vδ-949 [MS]`  
 **Item Registry Code:** `MAW-W-949-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *The Stormscale Sovereign — Witnessed Form*, The Fourfold Fang performs
 **Document ID:** `SE-949-B`  
 **Linked Entity:** `SE-949`  
 **Item Registry Code:** `MAW-W-949-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-944` — Calling Bloom  
 **Source SECC Designation:** `O-IIIβ-944 [LS]`  
 **Item Registry Code:** `MAW-W-944-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Calling Bloom — Witnessed Form*, The Murmur Vine performs the weapon r
 **Document ID:** `SE-944-B`  
 **Linked Entity:** `SE-944`  
 **Item Registry Code:** `MAW-W-944-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Dreams produced by it can affect physical rooms.
 - It becomes dangerously active during Dream Bleed.
 
-**Personnel Note:** *"It did nothing when I entered. That was its power. The Loom waited for me to bring the dream it wanted to weave."* — Agent, Zone C patrol
+**Personnel Note:** *"It did nothing when I entered. That was its power. The Loom waited for me to bring the dream it wanted to weave."* — Specialist, Zone C patrol
 
 
 

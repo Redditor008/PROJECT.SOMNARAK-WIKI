@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It grows during the Sorrow Tide.
 - Personnel report grief before seeing the figure.
 
-**Personnel Note:** *"It was moving beneath the floor. I felt grief before I understood that the grief had been there longer than the building."* — Agent, Zone B patrol
+**Personnel Note:** *"It was moving beneath the floor. I felt grief before I understood that the grief had been there longer than the building."* — Specialist, Zone B patrol
 
 
 
@@ -383,6 +383,6 @@ Some sorrows are about grief. Spreading Root is about buried grief — the sorro
 ## Document Information
 
 **Document ID:** SE-O-IVδ-693
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

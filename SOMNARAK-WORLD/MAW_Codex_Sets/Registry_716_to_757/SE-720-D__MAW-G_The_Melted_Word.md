@@ -4,7 +4,7 @@
 **Document ID:** `SE-720-D`  
 **Linked Entity:** `SE-720` — Aphasia  
 **Item Registry Code:** `MAW-G-720-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Melted Word is the gift of Aphasia’s set — tail-slot, granted unpredicta
 **Document ID:** `SE-720-D`  
 **Linked Entity:** `SE-720`  
 **Item Registry Code:** `MAW-G-720-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

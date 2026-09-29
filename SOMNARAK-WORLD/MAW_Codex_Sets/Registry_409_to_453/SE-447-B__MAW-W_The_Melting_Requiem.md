@@ -7,7 +7,7 @@
 **Document ID:** `SE-447-B`  
 **Linked Entity:** `SE-447` — Rope Held Too Long  
 **Item Registry Code:** `MAW-W-447-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Melting Requiem is a blade of deep-blue Han crystal melting at the tip and r
 **Document ID:** `SE-447-B`  
 **Linked Entity:** `SE-447`  
 **Item Registry Code:** `MAW-W-447-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

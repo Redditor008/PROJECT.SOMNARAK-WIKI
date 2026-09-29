@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-897` — Welcome Haven  
 **Source SECC Designation:** `O-IVδ-897 [GS]`  
 **Item Registry Code:** `MAW-W-897-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Welcome Haven — Witnessed Form*, The Broken Fang performs the weapon r
 **Document ID:** `SE-897-B`  
 **Linked Entity:** `SE-897`  
 **Item Registry Code:** `MAW-W-897-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

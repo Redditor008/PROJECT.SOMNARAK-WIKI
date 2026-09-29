@@ -7,7 +7,7 @@
 **Document ID:** `SE-105-A`  
 **Related Entity ID:** `SE-105`  
 **SECC Designation:** `C-IIIγ-105 [WS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted    
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ The Giant’s body is large enough to damage a district by accident, yet its rou
 | Void | Low | The Giant withdraws from places built too small to receive it. |
 | Weight | Primary | Footfalls make ground and personal Resolve feel heavier without deliberate hostility. |
 
-> *“It stood over the district like a mountain apologizing for taking up space. When I sat down, it sat too.”* — Agent Haneulash Yoon
+> *“It stood over the district like a mountain apologizing for taking up space. When I sat down, it sat too.”* — Specialist Haneulash Yoon
 
 ### Open questions
 
@@ -160,7 +160,7 @@ The set gives a bearer force, anchoring, and strength. Its danger is the inherit
 - **Understood:** It is the solid loneliness of people the city insisted were too much to fit.
 - **Mastery condition:** Zone D must make room without demanding that the Giant become smaller first.
 
-> *“The ground shook, but the loneliness became smaller.”* — Agent Haneulash Yoon
+> *“The ground shook, but the loneliness became smaller.”* — Specialist Haneulash Yoon
 
 ---
 
@@ -174,7 +174,7 @@ The set gives a bearer force, anchoring, and strength. Its danger is the inherit
 
 **Document ID:** `SE-105-A`  
 **Linked Entity:** `SE-105`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

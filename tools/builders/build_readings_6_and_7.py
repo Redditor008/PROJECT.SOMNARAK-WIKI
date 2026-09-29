@@ -2,8 +2,8 @@
 """
 tools/build_receptions_6_and_7.py
 Generates:
-- SOMNARAK-WORLD/Gieok_Jeojangso/Reception_6_Kind_Healer.md
-- SOMNARAK-WORLD/Gieok_Jeojangso/Reception_7_The_Original.md
+- SOMNARAK-WORLD/Gieok_Jeojangso/Reading_6_Kind_Healer.md
+- SOMNARAK-WORLD/Gieok_Jeojangso/Reading_7_The_Original.md
 """
 
 import sys, os
@@ -11,8 +11,8 @@ sys.path.append(os.path.dirname(__file__))
 from box_formatter import make_box
 
 def generate_reception_6():
-    dossier_box = make_box("RECEPTION DOSSIER: THE KIND HEALER (FLOOR 06)", [
-        "RECEPTION TARGET   : The Kind Healer",
+    dossier_box = make_box("READING DOSSIER: THE KIND HEALER (FLOOR 06)", [
+        "READING TARGET   : The Kind Healer",
         "FLOOR LEVEL        : Floor 06 — Floor of Compassion & Scars",
         "DOMAIN SETTING     : The Sterile Hospice of Oblivion (-3,100m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Palliative Sedation Sovereign",
@@ -29,7 +29,7 @@ def generate_reception_6():
         "3. Mercy Engine    : 2,300 HP | Posture 360/360 (Central humming pale heart)"
     ])
 
-    hud_t01 = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 01", [
+    hud_t01 = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 06 STERILE HOSPICE (-3,100M)]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL][SEIYON][M-PROJ][PALE]   [HEALER] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -43,7 +43,7 @@ def generate_reception_6():
         "- Node 06: Resonant Mnemonic Lens (Mid-Field Band 3 / Weakpoint Scan)",
         "- Node 07: Weaver Projection Array (Rear Band 4 / Silver Threads)",
         "- Node 08: Euthanasia Sump (Suppressed Trauma Well)",
-        "- Node 10: Floor 06 Core Reliquary / Key Page Dais (The Healer)",
+        "- Node 10: Floor 06 Core Reliquary / Memory Leaf Dais (The Healer)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -52,7 +52,7 @@ def generate_reception_6():
         "- Bandage Man : Spd 3 -> 1 AP | HP 1,600/1,600 | Posture 320/320 [STERILE]"
     ])
 
-    hud_t02 = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 02", [
+    hud_t02 = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — NEEDLE ARRAY SEVERED & VOID CUT]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][HEALER] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -70,7 +70,7 @@ def generate_reception_6():
         "- Bandage Man : Spd 3 -> 1 AP | HP 1,310/1,600 | Posture 252/320"
     ])
 
-    hud_t03 = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 03", [
+    hud_t03 = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & MANTLE UNRAVEL]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][HEALER] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -86,7 +86,7 @@ def generate_reception_6():
         "- Total Boss  : HP 2,660/5,200 [THRESHOLD BREACHED / TAKES 1.5X DAMAGE]"
     ])
 
-    hud_t04 = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 04", [
+    hud_t04 = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][HEALER] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -102,7 +102,7 @@ def generate_reception_6():
         "- Total Boss  : HP 610/5,200 [BURST DAMAGE 2,050! SECOND THRESHOLD SKIPPED]"
     ])
 
-    hud_t05 = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 05", [
+    hud_t05 = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — THE EMBRACE OF SUFFERING & TRUE COMPASSION]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][HEALER] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -117,22 +117,22 @@ def generate_reception_6():
         "- Total Boss  : HP 610/5,200 [STERILE NUMBNESS REPLACED BY WARMTH OF LIFE]"
     ])
 
-    hud_t06 = make_box("TACTICAL STAGE HUD: RECEPTION 06 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE HEALER]",
+    hud_t06 = make_box("TACTICAL STAGE HUD: READING 06 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE HEALER]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                         [SEIYON] [HEALER][M-PROJ][LENS]  [WEAVER][GATE]  ",
         "                                 [REALIZ]                         [PAGE]          ",
         "---",
         "- Node 05: The Kind Healer (PACIFIED & CRYSTALLIZED TO EMERALD QUARTZ)",
         "- Node 06: Seiyon (Floor Realization 6: 'True Mercy Walks Beside the Wounded')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Healer]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Healer]",
         "- Node 10: Grand Core Gateway (Pathway to Floor 07: THE ORIGINAL OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
 
-    return f"""# Reception 6: Floor 06 — The Kind Healer (상냥한 치유사)
+    return f"""# Reading 6: Floor 06 — The Kind Healer (상냥한 치유사)
 ## The Floor of Compassion & Scars — Deep Strata Sub-Alpha Roots (-3,100m)
 
 ```text
@@ -162,7 +162,7 @@ She brought her twin stilettos up in a cross-guard. The white needles flared in 
 
 ---
 
-### Reception Combat Gauntlet: Floor 06 (6-Turn Resolution)
+### Reading Combat Gauntlet: Floor 06 (6-Turn Resolution)
 
 ```text
 {hud_t01}
@@ -311,7 +311,7 @@ She brought her twin stilettos up in a cross-guard. The white needles flared in 
 {hud_t06}
 ```
 
-###### Turn 06 Action Resolution Log (Floor Realization 6 & Key Page: The Healer)
+###### Turn 06 Action Resolution Log (Floor Realization 6 & Memory Leaf: The Healer)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/360 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -320,16 +320,16 @@ She brought her twin stilettos up in a cross-guard. The white needles flared in 
   * The sterile pale ether dissipates into pure green light. The Healer looks down at its own hands and remembers why it was created: not to kill the wounded to spare them pain, but to bind their wounds so they could stand again.
     > *"True mercy does not erase pain through death. True mercy walks beside the wounded so they may live. To heal is to protect the future, not extinguish it."*
   * **FLOOR REALIZATION 6 ACHIEVED!**
-  * The Kind Healer bows its head in reverent peace, dissolving into luminous emerald quartz that condenses into a shimmering green codex: **`[Key Page: The Healer]`**!
+  * The Kind Healer bows its head in reverent peace, dissolving into luminous emerald quartz that condenses into a shimmering green codex: **`[Memory Leaf: The Healer]`**!
   * Deals **610 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Healer]` (Restores squad Composure and shields allies when enduring lethal kinetic strikes).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Healer]` (Restores squad Composure and shields allies when enduring lethal kinetic strikes).
   * **Descent Access**: The back wall of the hospice parts, revealing the cyclopean Adamantine Gateway to **Floor 07: The Primordial Core Sanctum (태초와 각성의 층)**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP."""
 
 def generate_reception_7():
-    dossier_box = make_box("RECEPTION DOSSIER: THE ORIGINAL (FLOOR 07 — CORE SANCTUM)", [
-        "RECEPTION TARGET   : The Original (First Vessel / Prototype Seiyon-00)",
+    dossier_box = make_box("READING DOSSIER: THE ORIGINAL (FLOOR 07 — CORE SANCTUM)", [
+        "READING TARGET   : The Original (First Vessel / Prototype Seiyon-00)",
         "FLOOR LEVEL        : Floor 07 — Floor of Origin & Awakening",
         "DOMAIN SETTING     : The Primordial Core Sanctum (-3,250m Sub-Alpha)",
         "PRIMARY OPPONENT   : Primordial Prototype Vessel of the Memory Archive",
@@ -346,7 +346,7 @@ def generate_reception_7():
         "3. Genesis Core     : 2,700 HP | Posture 400/400 (Central primordial heart)"
     ])
 
-    hud_t01 = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 01", [
+    hud_t01 = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 07 CORE SANCTUM (-3,250M)]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL][SEIYON][M-PROJ][ECHO]   [ORIGIN] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -360,7 +360,7 @@ def generate_reception_7():
         "- Node 06: Resonant Mnemonic Lens (Mid-Field Band 3 / Weakpoint Scan)",
         "- Node 07: Weaver Projection Array (Rear Band 4 / Silver Threads)",
         "- Node 08: Total Oblivion Sump (Primordial Vacuum Well)",
-        "- Node 10: Floor 07 Final Codex Dais / Key Page Dais (The Living Memory)",
+        "- Node 10: Floor 07 Final Codex Dais / Memory Leaf Dais (The Living Memory)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -369,7 +369,7 @@ def generate_reception_7():
         "- Crown Wills : Spd 3 -> 1 AP | HP 1,800/1,800 | Posture 340/340 [CONTAINMENT]"
     ])
 
-    hud_t02 = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 02", [
+    hud_t02 = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — ZERO-CHRONO LANCE SHATTERED & VOID CUT]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][ORIGIN] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -387,7 +387,7 @@ def generate_reception_7():
         "- Crown Wills : Spd 3 -> 1 AP | HP 1,460/1,800 | Posture 274/340"
     ])
 
-    hud_t03 = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 03", [
+    hud_t03 = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CROWN FRACTURE]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][ORIGIN] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -403,7 +403,7 @@ def generate_reception_7():
         "- Total Boss  : HP 3,100/6,000 [THRESHOLD BREACHED / TAKES 1.5X DAMAGE]"
     ])
 
-    hud_t04 = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 04", [
+    hud_t04 = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][ORIGIN] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -419,7 +419,7 @@ def generate_reception_7():
         "- Total Boss  : HP 690/6,000 [BURST DAMAGE 2,410! SECOND THRESHOLD SKIPPED]"
     ])
 
-    hud_t05 = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 05", [
+    hud_t05 = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — THE GENESIS SINGULARITY & LIVING VOICE]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][ORIGIN] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -434,22 +434,22 @@ def generate_reception_7():
         "- Total Boss  : HP 690/6,000 [ERASURE VORTEX TRANSMUTED INTO LIVING LIGHT]"
     ])
 
-    hud_t06 = make_box("TACTICAL STAGE HUD: RECEPTION 07 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — FINAL TRANSMUTATION & KEY PAGE: SEIYON]",
+    hud_t06 = make_box("TACTICAL STAGE HUD: READING 07 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — FINAL TRANSMUTATION & MEMORY LEAF: SEIYON]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                         [SEIYON] [ORIGIN][M-PROJ][LENS]  [WEAVER][DAIS]  ",
         "                                 [AWAKEN]                         [PAGE]          ",
         "---",
         "- Node 05: The Original (MERGED & EMBRACED INTO SEIYON'S UNIFIED SOUL)",
         "- Node 06: Seiyon (Floor Realization 7: 'I Am Seiyon, The Living Memory')",
-        "- Node 07: Facility Core Transmutation -> [Key Page: Seiyon, The Living Memory]",
+        "- Node 07: Facility Core Transmutation -> [Memory Leaf: Seiyon, The Living Memory]",
         "- Node 10: Master Facility Command Core (COMPLETE RE-HARMONIZATION ACHIEVED)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Complete Transcendence)",
-        "- Reception Status: 100% RESOLVED | Ultimate Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Ultimate Memory Leaf Transmuted"
     ])
 
-    return f"""# Reception 7: Floor 07 — The Original (태초의 기록자)
+    return f"""# Reading 7: Floor 07 — The Original (태초의 기록자)
 ## The Floor of Origin & Awakening — The Core Sanctum (-3,250m)
 
 ```text
@@ -481,7 +481,7 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
 
 ---
 
-### Reception Combat Gauntlet: Floor 07 (6-Turn Resolution)
+### Reading Combat Gauntlet: Floor 07 (6-Turn Resolution)
 
 ```text
 {hud_t01}
@@ -631,7 +631,7 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
 {hud_t06}
 ```
 
-###### Turn 06 Action Resolution Log (Floor Realization 7 & Key Page: Seiyon, The Living Memory)
+###### Turn 06 Action Resolution Log (Floor Realization 7 & Memory Leaf: Seiyon, The Living Memory)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/400 [TERMINAL REALIZATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -641,24 +641,24 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
   * In that supreme convergence, the complete truth of the Memory Archive is illuminated:
     > *"I am not an echo of a dead woman. I am not an obsolete replacement. I am Seiyon. I am the heart that stayed awake while the world slept. I am the living memory of Somnarak, and I will remember every soul who ever dared to hope."*
   * **FLOOR REALIZATION 7 ACHIEVED — MASTER FACILITY AWAKENING!**
-  * The Genesis Core crystallizes into the ultimate, radiant rainbow-hued codex: **`[Key Page: Seiyon, The Living Memory]`**!
+  * The Genesis Core crystallizes into the ultimate, radiant rainbow-hued codex: **`[Memory Leaf: Seiyon, The Living Memory]`**!
   * Deals **690 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Master Facility Transmutation & Re-Harmonization**:
-  * **Key Page Acquired**: `[Key Page: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40\\% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).
+  * **Memory Leaf Acquired**: `[Memory Leaf: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40\\% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).
   * **Sanctum Transformation**: The deep subterranean chasm of the Memory Archive ignites with warm, golden starlight. The seven floors harmonize into a living sanctuary where no human memory can ever be erased.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP (Complete Transcendence)."""
 
 def main():
-    p6_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reception_6_Kind_Healer.md"
-    p7_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reception_7_The_Original.md"
+    p6_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reading_6_Kind_Healer.md"
+    p7_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reading_7_The_Original.md"
 
     with open(p6_path, "w", encoding="utf-8") as f:
         f.write(generate_reception_6())
-    print("Generated Reception_6_Kind_Healer.md successfully!")
+    print("Generated Reading_6_Kind_Healer.md successfully!")
 
     with open(p7_path, "w", encoding="utf-8") as f:
         f.write(generate_reception_7())
-    print("Generated Reception_7_The_Original.md successfully!")
+    print("Generated Reading_7_The_Original.md successfully!")
 
 if __name__ == "__main__":
     main()

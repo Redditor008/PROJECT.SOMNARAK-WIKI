@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The rain on its surface is emotional rather than liquid.
 - It is most active during long shifts.
 
-**Personnel Note:** *"It was waiting. I felt weight. The Window did not invite me out; it showed me why I had stayed."* — Agent, Zone D patrol
+**Personnel Note:** *"It was waiting. I felt weight. The Window did not invite me out; it showed me why I had stayed."* — Specialist, Zone D patrol
 
 
 
@@ -427,6 +427,6 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 ## Document Information
 
 **Document ID:** SE-N-Iα-518
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

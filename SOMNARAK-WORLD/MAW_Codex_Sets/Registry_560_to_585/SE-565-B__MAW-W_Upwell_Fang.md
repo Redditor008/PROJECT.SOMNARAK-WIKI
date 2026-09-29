@@ -7,7 +7,7 @@
 **Document ID:** `SE-565-B`  
 **Linked Entity:** `SE-565` — Upwell  
 **Item Registry Code:** `MAW-W-565-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -63,14 +63,14 @@ The blade now beads Han along its curve whenever a familiar voice is being used 
 
 Lantern separates real voids from remembered failures, Plate anchors the searcher, and Fang opens a verified path. In resonance, a fabricated living signal makes the blade cut the team’s own footing.
 
-> *“It punished the wound I brought to the search before it touched the floor.”* — Agent Durivel Cho
+> *“It punished the wound I brought to the search before it touched the floor.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-565-B`  
 **Linked Entity:** `SE-565`  
 **Item Registry Code:** `MAW-W-565-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

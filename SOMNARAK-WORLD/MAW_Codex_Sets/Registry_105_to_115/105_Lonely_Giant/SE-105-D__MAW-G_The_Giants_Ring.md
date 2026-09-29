@@ -7,7 +7,7 @@
 **Document ID:** `SE-105-D`  
 **Linked Entity:** `SE-105` — The Lonely Giant  
 **Item Registry Code:** `MAW-G-105-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, black Han-steel ring / γ — Major / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; handling and empathy review required |
-| Known bearer | Agent Nari Kwon |
+| Known bearer | Specialist Nari Kwon |
 | Resting form | A broad matte black ring that looks plain until it is placed beside a normal object, which suddenly appears too light. |
 | Active form | The ring leaves a dark imprint in the air around the bearer’s hands and shoulders. |
 | Recognition rule | It grows warm when the bearer lifts something for another person without taking over the task. |
@@ -84,14 +84,14 @@ Kwon wore the Ring while helping relocate a collapsed support beam. The team map
 
 The Ring completes *Enough Space* by turning the Giant’s scale into a shared strength rather than an excuse for one person to become the only support.
 
-> *“Strength is not proof you were meant to hold everything.”* — Agent Haneulash Yoon
+> *“Strength is not proof you were meant to hold everything.”* — Specialist Haneulash Yoon
 
 ---
 
 **Document ID:** `SE-105-D`  
 **Linked Entity:** `SE-105`  
 **Item Registry Code:** `MAW-G-105-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

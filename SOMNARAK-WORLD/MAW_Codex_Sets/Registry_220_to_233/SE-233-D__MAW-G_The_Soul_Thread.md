@@ -11,7 +11,7 @@
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`  
-**Status:** Active — bearer-bound to Agent Hanul Grey
+**Status:** Active — bearer-bound to Specialist Hanul Grey
 
 ## IDENTITY & BESTOWAL
 

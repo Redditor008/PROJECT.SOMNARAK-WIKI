@@ -127,14 +127,14 @@ No external or temporary sandbox directories are referenced.
 - **Key Modules & Routes:**
   1. **Lobotomy Corporation Game Database (Management Simulation):**
      - **Abnormality Work Matrix:** Fortitude (Instinct), Prudence (Insight), Temperance (Attachment), Justice (Repression) success formulas.
-     - **Energy & Box Formulas:** PE-Box and NE-Box generation rates, daily quotas, and Work speed multipliers.
+     - **Energy & Box Formulas:** PE-Box and Fracture Box generation rates, daily quotas, and Work speed multipliers.
      - **Qliphoth Mechanics:** Meltdown levels I through X, Qliphoth Overload penalties, and Cliphoth Counter triggers.
      - **Ordeal Survival Manuals:** Dawn, Noon, Dusk, and Midnight of Green, Amber, Crimson, and Violet.
      - **Sephirah Meltdown Guides:** Step-by-step suppression strategies for Asiyah, Briah, and Atziluth floor meltdowns (Malkuth to Keter).
      - **E.G.O Equipment Index:** Full stats for Weapons, Suits, and Gifts across ZAYIN, TETH, HE, WAW, and ALEPH tiers.
      - **Tool Abnormality Codices:** Continuous, Single-Use, and Equippable operational logs and lethal failure conditions.
   2. **Library of Ruina Game Database (Deckbuilding Tactical Dice Battle):**
-     - **Key Page Catalog & Attribution Guide:** Passive transfer mechanics, cost optimization, Slash/Pierce/Blunt/Block/Evade dice power boosts.
+     - **Memory Leaf Catalog & Attribution Guide:** Passive transfer mechanics, cost optimization, Slash/Pierce/Blunt/Block/Evade dice power boosts.
      - **Combat Page Compendium:** 0-cost to 4-cost page curves, dice types, On Hit, Clash Win, and Clash Lose card effects.
      - **Speed Dice & Clashing Engine:** Speed rolls, target redirection, clash win formulas, and power stacking calculations.
      - **Stagger & Resistances:** Stagger thresholds, damage vulnerabilities (Fatal, Weak, Normal, Endured, Ineffective), and recovery formulas.

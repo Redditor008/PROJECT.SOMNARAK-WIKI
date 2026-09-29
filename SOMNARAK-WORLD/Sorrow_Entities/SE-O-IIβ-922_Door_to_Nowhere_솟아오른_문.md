@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It appears near old lockdown sites.
 - Its red pressure increases when someone says they have no choice.
 
-**Personnel Note:** *"I felt longing. The Door did not promise escape; it showed me the shape of the choice I had refused to admit was mine."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt longing. The Door did not promise escape; it showed me the shape of the choice I had refused to admit was mine."* — Specialist, Zone B patrol
 
 
 

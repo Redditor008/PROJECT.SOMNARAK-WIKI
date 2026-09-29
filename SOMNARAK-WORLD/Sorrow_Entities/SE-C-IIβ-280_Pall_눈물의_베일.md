@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its tears contain no individual memories unless directly observed.
 - It cannot be worn without an external remover.
 
-**Personnel Note:** *"It was singing. I felt loss. The Veil made every tear feel shared, but it did not make the loss smaller."* — Agent, Zone D patrol
+**Personnel Note:** *"It was singing. I felt loss. The Veil made every tear feel shared, but it did not make the loss smaller."* — Specialist, Zone D patrol
 
 
 
@@ -428,6 +428,6 @@ The city built a Veil to keep feeling down. The citizens built a veil to let it 
 ## Document Information
 
 **Document ID:** SE-C-IIβ-280
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Restricted

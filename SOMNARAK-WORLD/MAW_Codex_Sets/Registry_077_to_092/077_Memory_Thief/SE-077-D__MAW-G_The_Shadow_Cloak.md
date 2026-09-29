@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, hood-clasp / β — Moderate / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; cannot be issued as ordinary inventory |
-| Known bearer | Agent Nari Kwon |
+| Known bearer | Specialist Nari Kwon |
 | Resting form | A small pale clasp shaped like a folded hood, warm only on the side facing its bearer. |
 | Active form | The clasp darkens and makes the wearer’s outline easy to pass over in a crowd or report. |
 | Recognition rule | It leaves a fine blank margin on every paper record the bearer touches while active. |

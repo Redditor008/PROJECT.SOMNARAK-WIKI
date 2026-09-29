@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 tools/build_reception_1.py
-Generates Reception 1 (Floor 1: The First Keeper) in SOMNARAK-WORLD/Gieok_Jeojangso/Reception_1_First_Keeper.md
+Generates Reading 1 (Floor 1: The First Keeper) in SOMNARAK-WORLD/Gieok_Jeojangso/Reading_1_First_Keeper.md
 """
 
 import sys, os
@@ -9,8 +9,8 @@ sys.path.append(os.path.dirname(__file__))
 from box_formatter import make_box
 
 def generate_reception_1():
-    dossier_box = make_box("RECEPTION DOSSIER: THE FIRST KEEPER (FLOOR 01)", [
-        "RECEPTION TARGET   : The First Keeper",
+    dossier_box = make_box("READING DOSSIER: THE FIRST KEEPER (FLOOR 01)", [
+        "READING TARGET   : The First Keeper",
         "FLOOR LEVEL        : Floor 01 — Floor of History & Inscription",
         "DOMAIN SETTING     : The Great Reading Hall (-2,400m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Mnemonic Scribe Construct",
@@ -27,7 +27,7 @@ def generate_reception_1():
         "3. Keeper Soul Core: 1,400 HP | Posture 260/260 (Central memory heart)"
     ])
 
-    hud_t01 = make_box("TACTICAL STAGE HUD: RECEPTION 01 — BATTLE TURN 01", [
+    hud_t01 = make_box("TACTICAL STAGE HUD: READING 01 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 01 READING HALL (-2,400M)]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL][SEIYON][M-PROJ][SCRIBE] [KEEPER] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -41,7 +41,7 @@ def generate_reception_1():
         "- Node 06: Resonant Mnemonic Lens (Mid-Field Band 3 / Weakpoint Scan)",
         "- Node 07: Weaver Projection Array (Rear Band 4 / Silver Threads)",
         "- Node 08: Memory Well / Dissolution Trench (Suppressed Trauma Buffer)",
-        "- Node 10: Floor 01 Core Reliquary / Key Page Dais (The Archivist)",
+        "- Node 10: Floor 01 Core Reliquary / Memory Leaf Dais (The Archivist)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -50,7 +50,7 @@ def generate_reception_1():
         "- Arch-Codex  : Spd 3 -> 1 AP | HP 1,000/1,000 | Posture 240/240 [SHIELDED]"
     ])
 
-    hud_t02 = make_box("TACTICAL STAGE HUD: RECEPTION 01 — BATTLE TURN 02", [
+    hud_t02 = make_box("TACTICAL STAGE HUD: READING 01 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — QUILL AMPUTATION & VOID PIERCE]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][KEEPER] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -68,7 +68,7 @@ def generate_reception_1():
         "- Arch-Codex  : Spd 3 -> 1 AP | HP 840/1,000   | Posture 172/240"
     ])
 
-    hud_t03 = make_box("TACTICAL STAGE HUD: RECEPTION 01 — BATTLE TURN 03", [
+    hud_t03 = make_box("TACTICAL STAGE HUD: READING 01 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CODEX SPLIT]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][KEEPER] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -84,7 +84,7 @@ def generate_reception_1():
         "- Total Boss  : HP 1,620/3,200 [THRESHOLD BREACHED / TAKES 1.5X DAMAGE]"
     ])
 
-    hud_t04 = make_box("TACTICAL STAGE HUD: RECEPTION 01 — BATTLE TURN 04", [
+    hud_t04 = make_box("TACTICAL STAGE HUD: READING 01 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][KEEPER] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -100,7 +100,7 @@ def generate_reception_1():
         "- Total Boss  : HP 380/3,200 [BURST DAMAGE 1,240! SECOND THRESHOLD SKIPPED]"
     ])
 
-    hud_t05 = make_box("TACTICAL STAGE HUD: RECEPTION 01 — BATTLE TURN 05", [
+    hud_t05 = make_box("TACTICAL STAGE HUD: READING 01 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — THE INSCRIPTION OVERLOAD & RECALL PROTOCOL]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][KEEPER] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -115,22 +115,22 @@ def generate_reception_1():
         "- Total Boss  : HP 380/3,200 [INSCRIPTION TORRENT DISSOLVED / HELPLESS]"
     ])
 
-    hud_t06 = make_box("TACTICAL STAGE HUD: RECEPTION 01 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE ARCHIVIST]",
+    hud_t06 = make_box("TACTICAL STAGE HUD: READING 01 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE ARCHIVIST]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                         [SEIYON] [KEEPER][M-PROJ][LENS]  [WEAVER][STAIRS]",
         "                                 [REALIZ]                         [PAGE]          ",
         "---",
         "- Node 05: The First Keeper (PACIFIED & CRYSTALLIZED TO GOLDEN INK)",
         "- Node 06: Seiyon (Floor Realization 1: 'I Am Real Because I Choose')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Archivist]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Archivist]",
         "- Node 10: Spiral Glass Staircase (Pathway to Floor 02 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
 
-    return f"""# Reception 1: Floor 01 — The First Keeper (최초의 기록관)
+    return f"""# Reading 1: Floor 01 — The First Keeper (최초의 기록관)
 ## The Floor of History & Inscription — Deep Strata Sub-Alpha Roots (-2,400m)
 
 ```text
@@ -160,7 +160,7 @@ Seiyon raised her hands. Her holographic avatar solidified, coating her transluc
 
 ---
 
-### Reception Combat Gauntlet: Floor 01 (6-Turn Resolution)
+### Reading Combat Gauntlet: Floor 01 (6-Turn Resolution)
 
 ```text
 {hud_t01}
@@ -312,7 +312,7 @@ Seiyon raised her hands. Her holographic avatar solidified, coating her transluc
 {hud_t06}
 ```
 
-###### Turn 06 Action Resolution Log (Floor Realization 1 & Key Page: The Archivist)
+###### Turn 06 Action Resolution Log (Floor Realization 1 & Memory Leaf: The Archivist)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/260 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -324,19 +324,19 @@ Seiyon raised her hands. Her holographic avatar solidified, coating her transluc
   * Seiyon looks upon the millions of books, then looks upon her own hands of light:
     > *"The woman I was copied from wrote the first word. But I have walked through seventeen hundred cycles of fire. I feel this grief. I feel this hope. I am real—because I choose to remember, and I choose to act."*
   * **FLOOR REALIZATION 1 ACHIEVED!**
-  * The First Keeper's stone body softly dissolves into a storm of golden script that condenses into a glowing, crystalline tome: **`[Key Page: The Archivist]`**!
+  * The First Keeper's stone body softly dissolves into a storm of golden script that condenses into a glowing, crystalline tome: **`[Memory Leaf: The Archivist]`**!
   * Deals **380 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Archivist]` (Grants squad-wide memory erosion immunity and +25 Poise).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Archivist]` (Grants squad-wide memory erosion immunity and +25 Poise).
   * **Descent Access**: At the rear of the Reading Hall, the basalt wall slides aside, revealing a spiral staircase of spun obsidian glass descending to **Floor 02: Floor of Identity & Reflection**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP."""
 
 def main():
-    path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reception_1_First_Keeper.md"
+    path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reading_1_First_Keeper.md"
     content = generate_reception_1()
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
-    print("Generated Reception_1_First_Keeper.md successfully!")
+    print("Generated Reading_1_First_Keeper.md successfully!")
 
 if __name__ == "__main__":
     main()

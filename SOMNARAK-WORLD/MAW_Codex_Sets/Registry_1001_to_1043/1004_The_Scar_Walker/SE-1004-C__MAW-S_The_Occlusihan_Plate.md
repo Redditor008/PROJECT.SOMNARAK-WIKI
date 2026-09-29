@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1004` — The Scar Walker  
 **Source SECC Designation:** `O-IIIδ-011 [GS]`  
 **Item Registry Code:** `MAW-S-1004-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Scar Walker — Witnessed Form*, The Occlusihan Plate performs the s
 **Document ID:** `SE-1004-C`  
 **Linked Entity:** `SE-1004`  
 **Item Registry Code:** `MAW-S-1004-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

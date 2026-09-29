@@ -21,7 +21,7 @@
 | Type / grade / element | Suit, shield-backed harness / γ — Major / Grudge — Crimson |
 | Status | Active; confinement-impact review required |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A crimson harness with a folded shield plate across the back; dark vertical ridges resemble unclosed bars. |
 | Active form | The backplate opens behind the wearer and catches rage-based force in a red grid before returning it outward. |
 | Recognition rule | The grid leaves one gap whenever the wearer states who needs a clear route past them. |
@@ -87,7 +87,7 @@ Ashford used the Shield during a Collector dispute that had drawn a Grudge flare
 
 The Shield is the restraint of *Open Bar*. Fang can cut a coercive barrier and Charm can identify it; this suit ensures a bearer does not reproduce the cage while protecting against its rage.
 
-> *“Armor is not neutral when someone is trapped on the wrong side of it.”* — Agent Iseulfros Kim
+> *“Armor is not neutral when someone is trapped on the wrong side of it.”* — Specialist Iseulfros Kim
 
 ---
 

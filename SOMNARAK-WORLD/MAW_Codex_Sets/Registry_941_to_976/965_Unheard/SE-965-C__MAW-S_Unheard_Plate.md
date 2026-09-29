@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-965` — Unheard  
 **Source SECC Designation:** `C-Iα-965 [N]`  
 **Item Registry Code:** `MAW-S-965-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Unheard — Witnessed Form*, Unheard Plate performs the suit role while 
 **Document ID:** `SE-965-C`  
 **Linked Entity:** `SE-965`  
 **Item Registry Code:** `MAW-S-965-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

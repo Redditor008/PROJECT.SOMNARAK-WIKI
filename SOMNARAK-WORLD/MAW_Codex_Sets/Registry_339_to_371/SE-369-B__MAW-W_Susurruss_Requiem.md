@@ -7,7 +7,7 @@
 **Document ID:** `SE-369-B`  
 **Linked Entity:** `SE-369` — Susurrus  
 **Item Registry Code:** `MAW-W-369-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Susurruss Requiem is a wet-edged blade of deep-blue Han crystal, formed afte
 **Document ID:** `SE-369-B`  
 **Linked Entity:** `SE-369`  
 **Item Registry Code:** `MAW-W-369-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

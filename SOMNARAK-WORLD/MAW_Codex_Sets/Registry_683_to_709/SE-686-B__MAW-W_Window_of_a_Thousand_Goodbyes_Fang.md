@@ -4,7 +4,7 @@
 **Document ID:** `SE-686-B`  
 **Linked Entity:** `SE-686` — Window of a Thousand Goodbyes  
 **Item Registry Code:** `MAW-W-686-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ The Window of a Thousand Goodbyes’ Fang is a crimson fang of Han iron that cut
 **Document ID:** `SE-686-B`  
 **Linked Entity:** `SE-686`  
 **Item Registry Code:** `MAW-W-686-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

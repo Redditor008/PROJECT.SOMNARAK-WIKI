@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-833` — Neverlast  
 **Source SECC Designation:** `O-IIβ-833 [LS]`  
 **Item Registry Code:** `MAW-W-833-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Neverlast — Witnessed Form*, Neverlast's Requiem performs the weapon r
 **Document ID:** `SE-833-B`  
 **Linked Entity:** `SE-833`  
 **Item Registry Code:** `MAW-W-833-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

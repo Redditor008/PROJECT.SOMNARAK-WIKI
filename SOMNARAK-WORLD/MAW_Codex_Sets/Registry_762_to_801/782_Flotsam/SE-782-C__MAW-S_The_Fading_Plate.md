@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-782` — Flotsam  
 **Source SECC Designation:** `C-IIβ-782 [GS]`  
 **Item Registry Code:** `MAW-S-782-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Flotsam — Witnessed Form*, The Fading Plate performs the suit role whi
 **Document ID:** `SE-782-C`  
 **Linked Entity:** `SE-782`  
 **Item Registry Code:** `MAW-S-782-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

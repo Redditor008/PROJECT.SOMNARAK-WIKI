@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-852` — Conservatory  
 **Source SECC Designation:** `N-IVδ-852 [N]`  
 **Item Registry Code:** `MAW-S-852-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Conservatory — Witnessed Form*, Conservatory Plate performs the suit r
 **Document ID:** `SE-852-C`  
 **Linked Entity:** `SE-852`  
 **Item Registry Code:** `MAW-S-852-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

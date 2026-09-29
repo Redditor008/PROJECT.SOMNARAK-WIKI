@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It does not distinguish inherited debt from personal debt unless asked.
 - Collectors use it daily despite citizen opposition.
 
-**Personnel Note:** *"It was moving. I felt longing—for a fair measure that could also understand what fairness had cost us."* — Agent, Zone E patrol
+**Personnel Note:** *"It was moving. I felt longing—for a fair measure that could also understand what fairness had cost us."* — Specialist, Zone E patrol
 
 
 

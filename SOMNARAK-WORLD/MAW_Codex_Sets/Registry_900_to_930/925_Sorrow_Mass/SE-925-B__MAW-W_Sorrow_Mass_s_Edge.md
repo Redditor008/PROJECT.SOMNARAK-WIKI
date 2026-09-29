@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-925` — Sorrow Mass  
 **Source SECC Designation:** `C-Vω-925 [WH]`  
 **Item Registry Code:** `MAW-W-925-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Edge performs the weapon 
 **Document ID:** `SE-925-B`  
 **Linked Entity:** `SE-925`  
 **Item Registry Code:** `MAW-W-925-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

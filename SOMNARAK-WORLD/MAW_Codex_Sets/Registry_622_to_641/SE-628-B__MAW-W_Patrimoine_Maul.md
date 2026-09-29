@@ -7,7 +7,7 @@
 **Document ID:** `SE-628-B`  
 **Linked Entity:** `SE-628` — Patrimoine  
 **Item Registry Code:** `MAW-W-628-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -63,14 +63,14 @@ The head now refuses to pulse when any bearer in the transfer record is omitted.
 
 Vial gathers pressure, Mantle transports it, and Maul opens release. Full resonance turns destructive when the weapon is mistaken for a dam.
 
-> *“The first hole was empty stone. The second became a destination because the route finally had names.”* — Agent Durivel Cho
+> *“The first hole was empty stone. The second became a destination because the route finally had names.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-628-B`  
 **Linked Entity:** `SE-628`  
 **Item Registry Code:** `MAW-W-628-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its flame burns memory as readily as matter.
 - Personnel feel hope before understanding the exhaustion beneath it.
 
-**Personnel Note:** *"It was singing. I felt hope. Then it burned and rose again, and I understood that survival can become a command."* — Agent, Zone B patrol
+**Personnel Note:** *"It was singing. I felt hope. Then it burned and rose again, and I understood that survival can become a command."* — Specialist, Zone B patrol
 
 
 

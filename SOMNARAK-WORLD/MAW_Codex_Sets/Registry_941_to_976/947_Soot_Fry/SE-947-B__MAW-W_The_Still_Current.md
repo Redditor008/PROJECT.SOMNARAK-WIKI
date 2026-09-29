@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-947` — The Soot Fry  
 **Source SECC Designation:** `C-IIβ-947 [WS]`  
 **Item Registry Code:** `MAW-W-947-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *The Soot Fry — Witnessed Form*, The Still Current performs the weapon 
 **Document ID:** `SE-947-B`  
 **Linked Entity:** `SE-947`  
 **Item Registry Code:** `MAW-W-947-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

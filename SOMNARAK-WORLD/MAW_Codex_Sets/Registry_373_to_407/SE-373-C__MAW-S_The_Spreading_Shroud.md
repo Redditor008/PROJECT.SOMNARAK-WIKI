@@ -7,7 +7,7 @@
 **Document ID:** `SE-373-C`  
 **Linked Entity:** `SE-373` — Till Someone Understands  
 **Item Registry Code:** `MAW-S-373-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Spreading Shroud is a wrapping of blue Han-silk with branching wet seams and
 **Document ID:** `SE-373-C`  
 **Linked Entity:** `SE-373`  
 **Item Registry Code:** `MAW-S-373-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

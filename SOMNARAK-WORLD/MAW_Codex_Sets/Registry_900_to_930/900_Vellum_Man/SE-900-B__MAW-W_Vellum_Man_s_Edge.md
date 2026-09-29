@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-900` — Vellum Man  
 **Source SECC Designation:** `C-Iα-900 [LS]`  
 **Item Registry Code:** `MAW-W-900-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Vellum Man — Witnessed Form*, Vellum Man's Edge performs the weapon ro
 **Document ID:** `SE-900-B`  
 **Linked Entity:** `SE-900`  
 **Item Registry Code:** `MAW-W-900-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

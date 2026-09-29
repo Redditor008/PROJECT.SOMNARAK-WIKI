@@ -42,7 +42,7 @@ sys.path.append(os.path.dirname(__file__))
 from box_formatter import make_box
 
 def build_section_9_and_10():
-    archive_box = make_box("MEMORY ARCHIVE (GIEOK JEOJANGSO) RECEPTION GRID", [
+    archive_box = make_box("MEMORY ARCHIVE (GIEOK JEOJANGSO) READING GRID", [
         "[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "|--THRESHOLD--| |--MINIONS----| |--APEX CONSTRUCT-| |--DAIS---|",
         "---",
@@ -54,7 +54,7 @@ def build_section_9_and_10():
         "N06     : Resonant Mnemonic Lens (Weakpoint Diagnostics)",
         "N07     : Weaver Projection Array (Silver Thread Buffers)",
         "N08-N09 : Suppressed Trauma Sump / Subterranean Chasm",
-        "N10     : Floor Core Reliquary / Key Page Transmutation Dais"
+        "N10     : Floor Core Reliquary / Memory Leaf Transmutation Dais"
     ])
 
     caravan_box = make_box("HORIZON CARAVAN (JIPYEONGSEONDAE) EXPEDITION GRID", [
@@ -75,14 +75,14 @@ def build_section_9_and_10():
 
     return f"""## IX. Branch 5: The Memory Archive (Gieok Jeojangso) Style
 
-**Operational Focus**: Deep Strata Sub-Alpha Roots (-2,350m to -3,250m), 7-Floor Mnemonic Reception Chambers.  
-**Tactical Philosophy**: The Library Reception Protocol, subjugation through comprehension, modular memory anchor dismantling, and the transmutation of suffering into Key Pages.
+**Operational Focus**: Deep Strata Sub-Alpha Roots (-2,350m to -3,250m), 7-Floor Mnemonic Reading Chambers.  
+**Tactical Philosophy**: The Library Reading Protocol, subjugation through comprehension, modular memory anchor dismantling, and the transmutation of suffering into Memory Leaves.
 
 ```text
 {archive_box}
 ```
 
-### 9.1 Spatial 10-Node Mnemonic Reception Topology
+### 9.1 Spatial 10-Node Mnemonic Reading Topology
 
 In Memory Archive receptions, combat takes place within cyclopean subterranean vaults carved into the roots of the Alpha Tree:
 - **Node 01 (Threshold Sluice)**: Ingress archway where Seiyon's synthetic holographic projection enters the floor.
@@ -93,17 +93,17 @@ In Memory Archive receptions, combat takes place within cyclopean subterranean v
 - **Node 06 (Resonant Mnemonic Lens)**: Band 3. Telemetric scanner highlighting weakpoint seams and broadcasting harmonic solace.
 - **Node 07 (Weaver Projection Array)**: Band 4. Deploys silver threads of light that absorb ambient psychological trauma and stabilize squad composure.
 - **Nodes 08–09 (Suppressed Trauma Sump & Chasm)**: Deep subterranean rifts that vent unexpressed tears or void feedback.
-- **Node 10 (Key Page Dais)**: The master reliquary where crystallized memories condense into equipable Key Pages upon Floor Realization.
+- **Node 10 (Memory Leaf Dais)**: The master reliquary where crystallized memories condense into equipable Memory Leaves upon Floor Realization.
 
 ### 9.2 Modular Memory Anchor Dismantling
 Adversaries in the Memory Archive possess discrete targetable memory anchors:
 - Each anchor represents a physical manifestation of repressed trauma (e.g., Weeping Siphon Veil, Gilded Frame of Lies, Zero-Chrono Lance).
 - Reducing an anchor to 0 HP permanently disables signature boss attacks, deducts 1 enemy Action Point, and triggers **Stagger 1**.
 
-### 9.3 Floor Realization & Key Page Transmutation
+### 9.3 Floor Realization & Memory Leaf Transmutation
 When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
 - Hostile intent drops to zero as Seiyon shares the emotional weight of the construct's forgotten trauma.
-- The construct dissolves into crystalline light, condensing into a permanent **Key Page** that unlocks passive combat arts and elemental affinities for subsequent floors.
+- The construct dissolves into crystalline light, condensing into a permanent **Memory Leaf** that unlocks passive combat arts and elemental affinities for subsequent floors.
 
 ---
 
@@ -185,11 +185,11 @@ def main():
         "   - Core: Strata Depth Atmospheric Pressure per Phase.",
         "   - Focus: Acoustic stealth / decibel sonar, seismic pitons, relics.",
         "---",
-        "5. THE MEMORY ARCHIVE (GIEOK JEOJANGSO) STYLE - Mnemonic Reception",
+        "5. THE MEMORY ARCHIVE (GIEOK JEOJANGSO) STYLE - Mnemonic Reading",
         "   - Domain: Deep Strata Sub-Alpha Roots (-2,350m to -3,250m).",
-        "   - Topology: 10-Node Strata Reception & Key Page Dais Grid.",
+        "   - Topology: 10-Node Strata Reading & Memory Leaf Dais Grid.",
         "   - Core: Mnemonic Projection Array & Floor Realization.",
-        "   - Focus: Memory anchor dismantling, Key Page transmutation.",
+        "   - Focus: Memory anchor dismantling, Memory Leaf transmutation.",
         "---",
         "6. THE HORIZON CARAVAN (JIPYEONGSEONDAE) STYLE - Overland Expedition",
         "   - Domain: The Desolate, Sea of Glass, Cheonbulok, Mugeukji.",

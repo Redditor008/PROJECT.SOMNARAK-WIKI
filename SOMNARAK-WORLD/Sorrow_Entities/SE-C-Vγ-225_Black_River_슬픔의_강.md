@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its sound is felt through bone rather than heard.
 - It carries grief from every district and feeds the city above.
 
-**Personnel Note:** *"It was singing. I felt rage. The River was not angry at me; it was carrying the anger of everyone who had ever been unable to leave."* — Agent, Zone B patrol
+**Personnel Note:** *"It was singing. I felt rage. The River was not angry at me; it was carrying the anger of everyone who had ever been unable to leave."* — Specialist, Zone B patrol
 
 
 
@@ -401,6 +401,6 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 ## Document Information
 
 **Document ID:** SE-C-Vγ-225
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Echo-Core Eyes Only

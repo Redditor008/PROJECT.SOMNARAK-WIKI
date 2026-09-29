@@ -184,7 +184,7 @@ All calculations within battle files must utilize clean, deterministic arithmeti
 
 ## 5. Technical Formatting & Quality Laws
 
-Authors and agents must strictly observe the four quality laws of the Somnarak repository:
+Authors and specialists must strictly observe the four quality laws of the Somnarak repository:
 
 1. **Monospace ASCII Box Symmetry:**
    - Every ASCII HUD must be enclosed in non-markdown code fences (````text ... ````).

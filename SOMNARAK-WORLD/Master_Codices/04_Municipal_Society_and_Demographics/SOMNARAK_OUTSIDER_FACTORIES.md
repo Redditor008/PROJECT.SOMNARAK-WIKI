@@ -28,7 +28,7 @@
 +-----------------------+---------------------------------------------+
 ```
 
-> *"Ask the High Council who manufactures the steel of Somnarak, and they will give you ten names: the five Main Wings and the five Sub Trusts. But go down to the drainage culverts of Zone B where the pipes bleed boiling slag, or walk the frozen shadow of the Zone E perimeter walls where the sand eats iron for breakfast. There are hundreds of smoking chimneys that have no charter, no tax serial, and no council blessing. In the books, they do not exist. In reality, half the weapons in the street were born in their fires."*  
+> *"Ask the High Council who manufactures the steel of Somnarak, and they will give you ten names: the five Main Charters and the five Sub Trusts. But go down to the drainage culverts of Zone B where the pipes bleed boiling slag, or walk the frozen shadow of the Zone E perimeter walls where the sand eats iron for breakfast. There are hundreds of smoking chimneys that have no charter, no tax serial, and no council blessing. In the books, they do not exist. In reality, half the weapons in the street were born in their fires."*  
 > — Boss Gwangseok (  광석  ), Interview with UCD Field Intelligence, Year 4,222
 
 ---

@@ -125,7 +125,7 @@ Like the standard Five Fingers, Somnarak has five major frays that control the c
 The Boss (Boseu)
     │
     ├── The Lieutenants (2-4 per fray)
-    │   └── The Operators (field agents)
+    │   └── The Operators (field specialists)
     │       └── The Runners (low-level, expendable)
     │
     └── The Associates (freelancers, informants)
@@ -183,7 +183,7 @@ The Boss (Boseu)
 |--------|--------------|---------------|
 | **The Veil** | Council + Wardens | Veil Breakers, Veil Merchants |
 | **The Raw** | Frays (locally) | Menders (individually), Wardens (when they enter) |
-| **The Desolate** | No one | The Drift (nomads), R.D. field agents |
+| **The Desolate** | No one | The Drift (nomads), R.D. field specialists |
 | **The Black Market** | The Five Frays | Wardens (raids), Menders (disruption) |
 | **Debt** | Collectors | Debt Brokers, Debtless, Menders |
 | **Memory** | Keepers | Memory Fray, Memory Thieves |

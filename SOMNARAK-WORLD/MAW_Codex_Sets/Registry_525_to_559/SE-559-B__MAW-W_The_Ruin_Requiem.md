@@ -7,7 +7,7 @@
 **Document ID:** `SE-559-B`  
 **Linked Entity:** `SE-559` — Souvenir  
 **Item Registry Code:** `MAW-W-559-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -42,7 +42,7 @@ The Ruin Requiem is a slender blade of deep-blue Han crystal down which dust run
 
 ## ITEM HISTORY — THE ROOM WITH TWO WINDOWS
 
-During the Mask-Market False Shelter, Durivel followed Nari Baram’s memory through a house outline. He recalled seeing two windows in an earlier briefing and cut toward the second. Nari insisted her home had only one. The blade cracked the invented window, releasing a wall of stone dust that blinded three agents and crushed Durivel’s off hand against the hilt. When Nari repeated the correction, Requiem shed the false edge and revealed the actual door behind them.
+During the Mask-Market False Shelter, Durivel followed Nari Baram’s memory through a house outline. He recalled seeing two windows in an earlier briefing and cut toward the second. Nari insisted her home had only one. The blade cracked the invented window, releasing a wall of stone dust that blinded three specialists and crushed Durivel’s off hand against the hilt. When Nari repeated the correction, Requiem shed the false edge and revealed the actual door behind them.
 
 The weapon now shows a hairline fracture whenever an operator’s remembered map outranks a survivor’s account.
 
@@ -64,14 +64,14 @@ The weapon now shows a hairline fracture whenever an operator’s remembered map
 
 Ruin Fragment supplies one bounded memory, Ruin Shroud protects the listener, and Requiem marks the route that memory supports. In full resonance, the blade is the first piece to fracture when anyone embellishes the account.
 
-> *“It cuts rubble cleanly. It cuts certainty more cleanly.”* — Agent Durivel Cho
+> *“It cuts rubble cleanly. It cuts certainty more cleanly.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-559-B`  
 **Linked Entity:** `SE-559`  
 **Item Registry Code:** `MAW-W-559-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

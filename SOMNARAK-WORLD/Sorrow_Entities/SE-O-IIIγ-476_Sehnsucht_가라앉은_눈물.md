@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It rises during honest mourning.
 - The ground around it remains warm despite the Desolate cold.
 
-**Personnel Note:** *"It was glowing. I felt longing. The Tear wanted to be understood, but not exposed before it was ready."* — Agent, Zone D patrol
+**Personnel Note:** *"It was glowing. I felt longing. The Tear wanted to be understood, but not exposed before it was ready."* — Specialist, Zone D patrol
 
 
 

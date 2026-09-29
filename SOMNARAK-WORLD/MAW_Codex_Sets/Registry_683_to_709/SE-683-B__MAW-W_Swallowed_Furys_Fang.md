@@ -4,7 +4,7 @@
 **Document ID:** `SE-683-B`  
 **Linked Entity:** `SE-683` — Swallowed Fury  
 **Item Registry Code:** `MAW-W-683-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -29,7 +29,7 @@ Swallowed Fury’s Fang is a quivering crimson fang of Han iron, bound by naming
 **Document ID:** `SE-683-B`  
 **Linked Entity:** `SE-683`  
 **Item Registry Code:** `MAW-W-683-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

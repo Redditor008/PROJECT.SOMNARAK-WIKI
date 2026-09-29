@@ -7,7 +7,7 @@
 **Document ID:** `SE-409-C`  
 **Linked Entity:** `SE-409` — Pillar Holding Nothing  
 **Item Registry Code:** `MAW-S-409-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Empty Veil is a pale veil of Han gossamer containing an empty vertical seam 
 **Document ID:** `SE-409-C`  
 **Linked Entity:** `SE-409`  
 **Item Registry Code:** `MAW-S-409-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

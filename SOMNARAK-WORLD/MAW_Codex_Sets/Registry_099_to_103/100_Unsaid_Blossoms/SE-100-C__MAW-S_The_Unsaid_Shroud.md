@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / β — Moderate / Lament — Deep Blue |
 | Status | Active; monitored for joy-numbing saturation |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Haneulash Yoon |
+| Current bearer | Specialist Haneulash Yoon |
 | Resting form | A blue wrap with pale petal veins at the hem; the fabric remains dry despite a faint rain scent. |
 | Active form | The petals darken around the wearer’s shoulders, separating one arriving sorrow from the next. |
 | Recognition rule | A true Shroud lets a spoken boundary pass through the cloth without echoing it back. |
@@ -87,7 +87,7 @@ Yoon wore the Shroud during a memorial duty when a young responder began hearing
 
 The Shroud keeps *Sentence Finished* from becoming forced closure. The Requiem can reveal pressure and the Petal can carry one sentence, but this suit preserves a person’s right to speak later.
 
-> *“A safe pause is not the same as an endless postponement. The difference needs another person to see it.”* — Agent Iseulfros Kim
+> *“A safe pause is not the same as an endless postponement. The difference needs another person to see it.”* — Specialist Iseulfros Kim
 
 ---
 

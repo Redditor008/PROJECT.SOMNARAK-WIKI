@@ -7,7 +7,7 @@
 **Document ID:** `SE-235-C`  
 **Linked Entity:** `SE-235` — Panopticon  
 **Item Registry Code:** `MAW-S-235-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Gift reveals, Veil enters, Weapon acts. If the wearer stops to manage appearance
 **Document ID:** `SE-235-C`  
 **Linked Entity:** `SE-235`  
 **Item Registry Code:** `MAW-S-235-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

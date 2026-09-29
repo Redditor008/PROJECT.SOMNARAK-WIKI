@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-044` — Dawn of Mourning  
 **Source SECC Designation:** `C-Vω-001 [LS]`  
 **Item Registry Code:** `MAW-W-044-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Dawn of Mourning — Witnessed Form*, The Dawn of Requiem performs the w
 **Document ID:** `SE-044-B`  
 **Linked Entity:** `SE-044`  
 **Item Registry Code:** `MAW-W-044-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

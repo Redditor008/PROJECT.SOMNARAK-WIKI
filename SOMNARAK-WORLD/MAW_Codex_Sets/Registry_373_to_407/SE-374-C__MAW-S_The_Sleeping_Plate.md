@@ -7,7 +7,7 @@
 **Document ID:** `SE-374-C`  
 **Linked Entity:** `SE-374` — Slept Because You Never Returned  
 **Item Registry Code:** `MAW-S-374-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Sleeping Plate is a crimson harness of Han iron with root gaps shaped for an
 **Document ID:** `SE-374-C`  
 **Linked Entity:** `SE-374`  
 **Item Registry Code:** `MAW-S-374-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

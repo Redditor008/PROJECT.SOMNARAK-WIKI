@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, pale bell charm / β — Moderate / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; warning-custody use only |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small pale bell with no clapper and a word-shaped gap across its surface. |
 | Active form | The gap glows at one missing alert word, unacknowledged plea, or suppressed response step. |
 | Recognition rule | It identifies the absence in a warning chain, not the person to blame for it. |

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1008` — Maker of Apostle  
 **Source SECC Designation:** `C-IIγ-071c [LS]`  
 **Item Registry Code:** `MAW-S-1008-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Maker of Apostle — Witnessed Form*, The Wings performs the suit role w
 **Document ID:** `SE-1008-C`  
 **Linked Entity:** `SE-1008`  
 **Item Registry Code:** `MAW-S-1008-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

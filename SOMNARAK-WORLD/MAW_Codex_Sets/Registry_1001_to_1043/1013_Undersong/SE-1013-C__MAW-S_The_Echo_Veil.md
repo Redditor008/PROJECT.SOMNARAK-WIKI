@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1013` — Undersong  
 **Source SECC Designation:** `N-IIα-125 [VS]`  
 **Item Registry Code:** `MAW-S-1013-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Undersong — Witnessed Form*, The Echo Veil performs the suit role whil
 **Document ID:** `SE-1013-C`  
 **Linked Entity:** `SE-1013`  
 **Item Registry Code:** `MAW-S-1013-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

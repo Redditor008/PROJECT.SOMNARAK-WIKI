@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its singing is composed of dates rather than melodies.
 - Personnel exposed for long periods lose awareness of the present.
 
-**Personnel Note:** *"It was singing. I felt fear. Every date in the song was a year the city claimed to have learned from and did not."* — Agent, Zone D patrol
+**Personnel Note:** *"It was singing. I felt fear. Every date in the song was a year the city claimed to have learned from and did not."* — Specialist, Zone D patrol
 
 
 

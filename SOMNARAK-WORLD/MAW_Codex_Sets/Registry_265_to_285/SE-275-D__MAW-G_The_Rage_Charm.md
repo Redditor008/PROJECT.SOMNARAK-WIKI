@@ -7,7 +7,7 @@
 **Document ID:** `SE-275-D`  
 **Linked Entity:** `SE-275` — Crucible  
 **Item Registry Code:** `MAW-G-275-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ Charm audits the fuel of *The Named Heat*. Plate protects the worker and Hammer 
 **Document ID:** `SE-275-D`  
 **Linked Entity:** `SE-275`  
 **Item Registry Code:** `MAW-G-275-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

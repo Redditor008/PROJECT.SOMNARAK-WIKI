@@ -1,4 +1,4 @@
-# Reception 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)
+# Reading 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)
 ## The Floor of Duty & Iron — Deep Strata Sub-Alpha Roots (-2,650m)
 
 | Operational Attribute | Specification Dossier |
@@ -10,32 +10,32 @@
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
 | **Primary Opponent** | The Forgotten Soldier (잊혀진 파수병 — Autonomous Iron Commander) |
 | **Stagger Profile** | 60% Posture Strain (Halberd Shatter) / 0% Posture (Transmutation) |
-| **Key Page Yield** | `[Key Page: The Guardian]` (Fortress Bulwark & Vanguard Intercept) |
+| **Memory Leaf Yield** | `[Memory Leaf: The Guardian]` (Fortress Bulwark & Vanguard Intercept) |
 
 ```text
-+=====================================================================+
-|         RECEPTION DOSSIER: THE FORGOTTEN SOLDIER (FLOOR 03)         |
-+---------------------------------------------------------------------+
-| RECEPTION TARGET   : The Forgotten Soldier                          |
-| FLOOR LEVEL        : Floor 03 — Floor of Duty & Iron                |
-| DOMAIN SETTING     : The Iron Fortress Armory (-2,650m Sub-Alpha)   |
-| PRIMARY OPPONENT   : Autonomous Clockwork Phalanx Commander         |
-+---------------------------------------------------------------------+
-| OPPONENT COMBAT PROFILE (THE FORGOTTEN SOLDIER):                    |
-| - Total Health (HP): 4,000 HP | Posture Pool: 300/300               |
-| - Stagger 1 Proc : 60% Posture Strain (180 Posture) / Halberd Break |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)   |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 0.5x, Grudge |
-|   0.5x                                                              |
-+---------------------------------------------------------------------+
-| TARGETABLE MEMORY ANCHORS:                                          |
-| 1. Piston Halberd  : 1,000 HP                                       |
-|   | Posture 240/240 (Heavy kinetic sweeping blade)                  |
-| 2. Tower Aegis     : 1,300 HP                                       |
-|   | Posture 260/260 (Petrified basalt bulwark)                      |
-| 3. Rusting Core    : 1,700 HP                                       |
-|   | Posture 300/300 (Central clockwork heart)                       |
-+=====================================================================+
++========================================================================+
+|            READING DOSSIER: THE FORGOTTEN SOLDIER (FLOOR 03)           |
++------------------------------------------------------------------------+
+| READING TARGET   : The Forgotten Soldier                               |
+| FLOOR LEVEL        : Floor 03 — Floor of Duty & Iron                   |
+| DOMAIN SETTING     : The Iron Fortress Armory (-2,650m Sub-Alpha)      |
+| PRIMARY OPPONENT   : Autonomous Clockwork Phalanx Commander            |
++------------------------------------------------------------------------+
+| OPPONENT COMBAT PROFILE (THE FORGOTTEN SOLDIER):                       |
+| - Total Health (HP): 4,000 HP | Posture Pool: 300/300                  |
+| - Stagger 1 Proc : 60% Posture Strain (180 Posture) / Halberd Break    |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)      |
+| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 0.5x, Grudge    |
+|   0.5x                                                                 |
++------------------------------------------------------------------------+
+| TARGETABLE MEMORY ANCHORS:                                             |
+| 1. Piston Halberd  : 1,000 HP                                          |
+|   | Posture 240/240 (Heavy kinetic sweeping blade)                     |
+| 2. Tower Aegis     : 1,300 HP                                          |
+|   | Posture 260/260 (Petrified basalt bulwark)                         |
+| 3. Rusting Core    : 1,700 HP                                          |
+|   | Posture 300/300 (Central clockwork heart)                          |
++========================================================================+
 ```
 
 > *"For seventeen hundred cycles, you stood at the console while men died. You watched them burn, reset, and die again. Did you obey because you cared? Or because machines do not know how to disobey?"*
@@ -106,42 +106,42 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 
 ---
 
-## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)
+## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 01          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — FLOOR 03 IRON ARMORY (-2,650M)]             |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL][SEIYON][M-PROJ][GOLEM] [SOLDIER]                           |
-| [LENS][WEAVER][SUMP][BASTION][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 01: Ingress Stasis Portal / Armory Vestibule                 |
-| - Node 02: Secretary Seiyon (Vanguard Band 1 / Prismatic Aegis      |
-|   Stance)                                                           |
-| - Node 03: Mnemonic Projection Drone (Support Band 2 / Sapper       |
-|   Caliper)                                                          |
-| - Node 04: Iron Phalanx Golems (Flank Vanguard / Halberd Hedge)     |
-| - Node 05: The Forgotten Soldier (Heavy Piston Halberd & Tower      |
-|   Aegis)                                                            |
-| - Node 06: Resonant Mnemonic Lens (Tracking Hydraulic Pressure      |
-|   Faults)                                                           |
-| - Node 07: Weaver Projection Array (Rear Band 4 / Silver Kinetic    |
-|   Web)                                                              |
-| - Node 10: Floor 03 Core Reliquary (The Guardian Key Page Origin)   |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50           |
-|   | Posture 140/140                                                 |
-| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40           |
-|   | Posture 100/100                                                 |
-| - Soldier Core: Spd 4 -> 2 AP | HP 1,700/1,700                      |
-|   | Posture 300/300 [ANCHORED]                                      |
-| - Halberd Arm : Spd 5 -> 3 AP | HP 1,000/1,000                      |
-|   | Posture 240/240 [KINETIC]                                       |
-| - Tower Aegis : Spd 3 -> 1 AP | HP 1,300/1,300                      |
-|   | Posture 260/260 [FORTIFIED]                                     |
-+=====================================================================+
++========================================================================+
+|            TACTICAL STAGE HUD: READING 03 — BATTLE TURN 01             |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — FLOOR 03 IRON ARMORY (-2,650M)]                |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL][SEIYON][M-PROJ][GOLEM] [SOLDIER]                              |
+| [LENS][WEAVER][SUMP][BASTION][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 01: Ingress Stasis Portal / Armory Vestibule                    |
+| - Node 02: Secretary Seiyon (Vanguard Band 1 / Prismatic Aegis         |
+|   Stance)                                                              |
+| - Node 03: Mnemonic Projection Drone (Support Band 2 / Sapper          |
+|   Caliper)                                                             |
+| - Node 04: Iron Phalanx Golems (Flank Vanguard / Halberd Hedge)        |
+| - Node 05: The Forgotten Soldier (Heavy Piston Halberd & Tower         |
+|   Aegis)                                                               |
+| - Node 06: Resonant Mnemonic Lens (Tracking Hydraulic Pressure         |
+|   Faults)                                                              |
+| - Node 07: Weaver Projection Array (Rear Band 4 / Silver Kinetic       |
+|   Web)                                                                 |
+| - Node 10: Floor 03 Core Reliquary (The Guardian Memory Leaf Origin)   |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50              |
+|   | Posture 140/140                                                    |
+| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40              |
+|   | Posture 100/100                                                    |
+| - Soldier Core: Spd 4 -> 2 AP | HP 1,700/1,700                         |
+|   | Posture 300/300 [ANCHORED]                                         |
+| - Halberd Arm : Spd 5 -> 3 AP | HP 1,000/1,000                         |
+|   | Posture 240/240 [KINETIC]                                          |
+| - Tower Aegis : Spd 3 -> 1 AP | HP 1,300/1,300                         |
+|   | Posture 260/260 [FORTIFIED]                                        |
++========================================================================+
 ```
 
 ### Turn 01 Action Resolution Log (Intercepting the Piston Halberd Cleave)
@@ -169,32 +169,32 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 02          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — HALBERD AMPUTATED & SAPPER PISTON]          |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][SOLDIER]                          |
-| [LENS][WEAVER][SUMP][BASTION][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Driving Prismatic Stiletto into Halberd          |
-|   Pneumatic Line)                                                   |
-| - Node 04: Mnemonic Drone (Piston Ram Shattering Halberd Wrist      |
-|   Hinge)                                                            |
-| - Node 05: The Forgotten Soldier (Piston Halberd Destroyed 0/1,000  |
-|   HP)                                                               |
-| - Node 06: Resonant Lens (Tagging Weakened Rivets on Tower Aegis)   |
-| - Node 07: Weaver Array (Absorbing Concussive Shockwaves)           |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Soldier Core: Spd 3 -> 1 AP         | HP 1,700/1,700              |
-|   | Posture 228/300                                                 |
-| - Halberd Arm : DESTROYED (0/1,000 HP)| KINETIC CLEAVE PERMANENTLY  |
-|   LOST                                                              |
-| - Tower Aegis : Spd 3 -> 1 AP         | HP 1,060/1,300              |
-|   | Posture 204/260                                                 |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 03 — BATTLE TURN 02            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — HALBERD AMPUTATED & SAPPER PISTON]             |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][SOLDIER]                             |
+| [LENS][WEAVER][SUMP][BASTION][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Driving Prismatic Stiletto into Halberd             |
+|   Pneumatic Line)                                                      |
+| - Node 04: Mnemonic Drone (Piston Ram Shattering Halberd Wrist         |
+|   Hinge)                                                               |
+| - Node 05: The Forgotten Soldier (Piston Halberd Destroyed 0/1,000     |
+|   HP)                                                                  |
+| - Node 06: Resonant Lens (Tagging Weakened Rivets on Tower Aegis)      |
+| - Node 07: Weaver Array (Absorbing Concussive Shockwaves)              |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Soldier Core: Spd 3 -> 1 AP         | HP 1,700/1,700                 |
+|   | Posture 228/300                                                    |
+| - Halberd Arm : DESTROYED (0/1,000 HP)| KINETIC CLEAVE PERMANENTLY     |
+|   LOST                                                                 |
+| - Tower Aegis : Spd 3 -> 1 AP         | HP 1,060/1,300                 |
+|   | Posture 204/260                                                    |
++========================================================================+
 ```
 
 ### Turn 02 Action Resolution Log (Part Destruction: Piston Halberd Shattered)
@@ -225,31 +225,31 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 03          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & SHIELD BREACH]        |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][SOLDIER]                          |
-| [LENS][WEAVER][SUMP][BASTION][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Counter-Thrust Deflecting Tower Aegis Slam)      |
-| - Node 04: Mnemonic Drone (Sapper Lever Popping Basalt Shield       |
-|   Bracket)                                                          |
-| - Node 05: The Forgotten Soldier (STAGGER LEVEL 1 / DEFENSES        |
-|   COLLAPSED)                                                        |
-| - Node 06: Resonant Lens (Directing Focused Void Pulse on Clockwork |
-|   Heart)                                                            |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Soldier Core: Spd 0 -> 0 AP         | HP 1,510/1,700              |
-|   | Posture 116/300 [STAGGER LEVEL 1]                               |
-| - Tower Aegis : Spd 0 -> 0 AP         | HP 520/1,300                |
-|   | Posture 94/260 [BREACHED]                                       |
-| - Total Boss : HP 2,030/4,000 [THRESHOLD BREACHED / TAKES 1.5X      |
-|   DAMAGE]                                                           |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 03 — BATTLE TURN 03            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & SHIELD BREACH]           |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][SOLDIER]                             |
+| [LENS][WEAVER][SUMP][BASTION][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Counter-Thrust Deflecting Tower Aegis Slam)         |
+| - Node 04: Mnemonic Drone (Sapper Lever Popping Basalt Shield          |
+|   Bracket)                                                             |
+| - Node 05: The Forgotten Soldier (STAGGER LEVEL 1 / DEFENSES           |
+|   COLLAPSED)                                                           |
+| - Node 06: Resonant Lens (Directing Focused Void Pulse on Clockwork    |
+|   Heart)                                                               |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Soldier Core: Spd 0 -> 0 AP         | HP 1,510/1,700                 |
+|   | Posture 116/300 [STAGGER LEVEL 1]                                  |
+| - Tower Aegis : Spd 0 -> 0 AP         | HP 520/1,300                   |
+|   | Posture 94/260 [BREACHED]                                          |
+| - Total Boss : HP 2,030/4,000 [THRESHOLD BREACHED / TAKES 1.5X         |
+|   DAMAGE]                                                              |
++========================================================================+
 ```
 
 ### Turn 03 Action Resolution Log (First Stagger Proc & Tower Aegis Breach)
@@ -279,29 +279,29 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 04          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][SOLDIER][M-PROJ]                  |
-| [LENS][WEAVER][SUMP][BASTION][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Prismatic Stiletto Void Execution Flurry on      |
-|   Heart)                                                            |
-| - Node 05: The Forgotten Soldier (Immobilized / Gears Grinding      |
-|   Steam)                                                            |
-| - Node 06: Mnemonic Drone (Hydraulic Ram Smashing Knee Brackets)    |
-| - Node 07: Resonant Lens (Focusing Harmonic Ley-Resonance   )       |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
-|   | SP 50/50                                                        |
-| - Soldier Core: Spd 0 -> 0 AP               | HP 480/1,700          |
-|   | Posture 46/300                                                  |
-| - Tower Aegis : DESTROYED (0/1,300 HP)                              |
-| - Total Boss : HP 480/4,000 [BURST DAMAGE 1,550! SECOND THRESHOLD   |
-|   SKIPPED]                                                          |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 03 — BATTLE TURN 04            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]        |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][SOLDIER][M-PROJ]                     |
+| [LENS][WEAVER][SUMP][BASTION][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Prismatic Stiletto Void Execution Flurry on         |
+|   Heart)                                                               |
+| - Node 05: The Forgotten Soldier (Immobilized / Gears Grinding         |
+|   Steam)                                                               |
+| - Node 06: Mnemonic Drone (Hydraulic Ram Smashing Knee Brackets)       |
+| - Node 07: Resonant Lens (Focusing Harmonic Ley-Resonance   )          |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400           |
+|   | SP 50/50                                                           |
+| - Soldier Core: Spd 0 -> 0 AP               | HP 480/1,700             |
+|   | Posture 46/300                                                     |
+| - Tower Aegis : DESTROYED (0/1,300 HP)                                 |
+| - Total Boss : HP 480/4,000 [BURST DAMAGE 1,550! SECOND THRESHOLD      |
+|   SKIPPED]                                                             |
++========================================================================+
 ```
 
 ### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
@@ -328,27 +328,27 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 05          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — CLOCKWORK CATACLYSM & THE UNBROKEN LINE]    |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][SOLDIER][M-PROJ]                  |
-| [LENS][WEAVER][SUMP][BASTION][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Relic Overdrive: VOW OF THE UNBROKEN SENTINEL)   |
-| - Node 05: The Forgotten Soldier (Last Stand: Overheated Clockwork  |
-|   Blast)                                                            |
-| - Node 06: Mnemonic Drone (Locking Stasis Anchors Around Dais)      |
-| - Node 07: Weaver Array (Dispelling Residual Thermal Tremors)       |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400          |
-|   | SP 50/50 [RESOLVE]                                              |
-| - Soldier Core: Spd 3 -> 1 AP             | HP 480/1,700            |
-|   | Posture 22/300 [GEARS FROZEN]                                   |
-| - Total Boss : HP 480/4,000 [STEAM COLLAPSED / CHASSIS COOLED TO    |
-|   IRON]                                                             |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 03 — BATTLE TURN 05            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLOCKWORK CATACLYSM & THE UNBROKEN LINE]       |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][SOLDIER][M-PROJ]                     |
+| [LENS][WEAVER][SUMP][BASTION][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Relic Overdrive: VOW OF THE UNBROKEN SENTINEL)      |
+| - Node 05: The Forgotten Soldier (Last Stand: Overheated Clockwork     |
+|   Blast)                                                               |
+| - Node 06: Mnemonic Drone (Locking Stasis Anchors Around Dais)         |
+| - Node 07: Weaver Array (Dispelling Residual Thermal Tremors)          |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400             |
+|   | SP 50/50 [RESOLVE]                                                 |
+| - Soldier Core: Spd 3 -> 1 AP             | HP 480/1,700               |
+|   | Posture 22/300 [GEARS FROZEN]                                      |
+| - Total Boss : HP 480/4,000 [STEAM COLLAPSED / CHASSIS COOLED TO       |
+|   IRON]                                                                |
++========================================================================+
 ```
 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Clockwork Cataclysm & The Unbroken Sentinel)
@@ -374,28 +374,28 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 06          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE GUARDIAN]     |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                         [SEIYON] [SOLDIER][M-PROJ]         |
-| [LENS][WEAVER][STAIRS][PAGE]                                        |
-+---------------------------------------------------------------------+
-| - Node 05: The Forgotten Soldier (PACIFIED & RESTING IN DIGNIFIED   |
-|   SILENCE)                                                          |
-| - Node 06: Seiyon (Floor Realization 3: 'Duty With Love Is          |
-|   Endurance')                                                       |
-| - Node 07: Mnemonic Core Transmutation -> [Key Page: The Guardian]  |
-| - Node 10: Spiral Basalt Staircase (Pathway to Floor 04 OPEN)       |
-+---------------------------------------------------------------------+
-| - Seiyon Status: Zero Damage                                        |
-|   | Composure 50/50 SP (Tranquil Awakening)                         |
-| - Reception Status: 100% RESOLVED | Key Page Transmuted             |
-+=====================================================================+
++========================================================================+
+|            TACTICAL STAGE HUD: READING 03 — BATTLE TURN 06             |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE GUARDIAN]     |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                         [SEIYON] [SOLDIER][M-PROJ]            |
+| [LENS][WEAVER][STAIRS][PAGE]                                           |
++------------------------------------------------------------------------+
+| - Node 05: The Forgotten Soldier (PACIFIED & RESTING IN DIGNIFIED      |
+|   SILENCE)                                                             |
+| - Node 06: Seiyon (Floor Realization 3: 'Duty With Love Is             |
+|   Endurance')                                                          |
+| - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Guardian]  |
+| - Node 10: Spiral Basalt Staircase (Pathway to Floor 04 OPEN)          |
++------------------------------------------------------------------------+
+| - Seiyon Status: Zero Damage                                           |
+|   | Composure 50/50 SP (Tranquil Awakening)                            |
+| - Reading Status: 100% RESOLVED | Memory Leaf Transmuted               |
++========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 3 & Key Page: The Guardian)
+### Turn 06 Action Resolution Log (Floor Realization 3 & Memory Leaf: The Guardian)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/300 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -404,10 +404,10 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
   * The roaring steam vents fall completely silent. In the quiet of the iron concourse, Seiyon reflects upon her 1,778 cycles of endless vigilance:
     > *"I thought duty was a cage forged of programming and iron. But duty without love is only rust. Duty with love is the willingness to stand in the dark so another can reach the morning. That is why I endured."*
   * **FLOOR REALIZATION 3 ACHIEVED!**
-  * The Forgotten Soldier bows its head in deep, solemn respect. Its chassis dissolves into dark, polished iron plating that condenses into a heavy steel-bound tome: **`[Key Page: The Guardian]`**!
+  * The Forgotten Soldier bows its head in deep, solemn respect. Its chassis dissolves into dark, polished iron plating that condenses into a heavy steel-bound tome: **`[Memory Leaf: The Guardian]`**!
   * Deals **480 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Guardian]` (Grants +25 Poise and absorbs 100% of damage directed at frontline allies).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Guardian]` (Grants +25 Poise and absorbs 100% of damage directed at frontline allies).
   * **Descent Access**: The iron fortress portcullis raises, revealing a descending spiral staircase of basalt steps leading to **Floor 04: Floor of Unexpressed Grief**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
@@ -428,29 +428,29 @@ The Iron Phalanx Golems along the perimeter grounded their halberds simultaneous
 Beneath the Soldier's basalt lectern, the floor split along hydraulic seams, rolling backward to reveal a deep subterranean staircase of dark ashlar limestone leading downward into total silence: **Floor 04: The Floor of Unexpressed Grief (-2,800m)**. Faint ripples of crystal-clear water lapped against the lowest steps.
 
 ```text
-+=====================================================================+
-|               MNEMONIC HARVEST: KEY PAGE THE GUARDIAN               |
-+---------------------------------------------------------------------+
-| ACQUIRED REQUISITION : [Key Page: The Guardian]                     |
-| PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription          |
-| PASSIVE AFFINITIES   : Void 1.0x (Normal), Lament 1.0x (Normal),    |
-| Weight 0.5x (Resistant), Grudge 0.5x (Resistant)                    |
-+---------------------------------------------------------------------+
-| CORE PASSIVE TRAITS:                                                |
-| 1. Bastion of Iron : Gain +3 Protection and +25 Poise at combat     |
-| start.                                                              |
-| 2. Shield of Others : Once per turn, intercept a lethal blow        |
-| intended                                                            |
-| for an ally, taking zero damage if Composure is > 30.               |
-| 3. Hydraulic Rebound : Reflect 25% of all blocked kinetic damage    |
-|                      back to the attacker as Posture Strain.        |
-+---------------------------------------------------------------------+
-| UNLOCKED BATTLE ARTS:                                               |
-| - [Tungsten Aegis Slam] : Spends 2 AP | Power 18-26                 |
-|   | Heavy Stagger Proc                                              |
-| - [Fortress of the Vow] : Spends 3 AP | Power 24-34                 |
-|   | Area Bulwark Shield                                             |
-+=====================================================================+
++========================================================================+
+|               MNEMONIC HARVEST: MEMORY LEAF THE GUARDIAN               |
++------------------------------------------------------------------------+
+| ACQUIRED REQUISITION : [Memory Leaf: The Guardian]                     |
+| PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription             |
+| PASSIVE AFFINITIES   : Void 1.0x (Normal), Lament 1.0x (Normal),       |
+| Weight 0.5x (Resistant), Grudge 0.5x (Resistant)                       |
++------------------------------------------------------------------------+
+| CORE PASSIVE TRAITS:                                                   |
+| 1. Bastion of Iron : Gain +3 Protection and +25 Poise at combat        |
+| start.                                                                 |
+| 2. Shield of Others : Once per turn, intercept a lethal blow           |
+| intended                                                               |
+| for an ally, taking zero damage if Composure is > 30.                  |
+| 3. Hydraulic Rebound : Reflect 25% of all blocked kinetic damage       |
+|                      back to the attacker as Posture Strain.           |
++------------------------------------------------------------------------+
+| UNLOCKED BATTLE ARTS:                                                  |
+| - [Tungsten Aegis Slam] : Spends 2 AP | Power 18-26                    |
+|   | Heavy Stagger Proc                                                 |
+| - [Fortress of the Vow] : Spends 3 AP | Power 24-34                    |
+|   | Area Bulwark Shield                                                |
++========================================================================+
 ```
 
-Seiyon integrated `[Key Page: The Guardian]` into her photonic armature. Her holographic coat took on the subtle, indestructible luster of cold-forged tungsten, stabilizing her physical presence and rooting her boots firmly into the subterranean earth. She turned toward the dark steps, hearing the unmistakable sound of weeping water echoing from the deep.
+Seiyon integrated `[Memory Leaf: The Guardian]` into her photonic armature. Her holographic coat took on the subtle, indestructible luster of cold-forged tungsten, stabilizing her physical presence and rooting her boots firmly into the subterranean earth. She turned toward the dark steps, hearing the unmistakable sound of weeping water echoing from the deep.

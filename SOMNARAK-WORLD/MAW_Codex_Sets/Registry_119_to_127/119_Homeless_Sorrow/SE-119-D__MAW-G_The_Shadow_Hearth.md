@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, hearth-charm / β — Moderate / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; post-use grief transfer protocol required |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small pale glass hearth with a dark recess at its center and no apparent flame. |
 | Active form | A soft low light appears within the recess, creating a calm circle that does not brighten the rest of the room. |
 | Recognition rule | The light remains low unless someone present names the grief as theirs without demanding it be solved. |

@@ -7,7 +7,7 @@
 **Document ID:** `SE-340-B`  
 **Linked Entity:** `SE-340` — Clapperless  
 **Item Registry Code:** `MAW-W-340-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Clapperless Chime-Sceptre is a pale hammer of Han glass holding anti-sound i
 **Document ID:** `SE-340-B`  
 **Linked Entity:** `SE-340`  
 **Item Registry Code:** `MAW-W-340-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

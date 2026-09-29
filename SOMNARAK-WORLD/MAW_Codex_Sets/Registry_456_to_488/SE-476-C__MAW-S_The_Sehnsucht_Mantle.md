@@ -7,7 +7,7 @@
 **Document ID:** `SE-476-C`  
 **Linked Entity:** `SE-476` — Sehnsucht  
 **Item Registry Code:** `MAW-S-476-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Sehnsucht Mantle is a black garment of Han weave with one horizontal departu
 **Document ID:** `SE-476-C`  
 **Linked Entity:** `SE-476`  
 **Item Registry Code:** `MAW-S-476-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

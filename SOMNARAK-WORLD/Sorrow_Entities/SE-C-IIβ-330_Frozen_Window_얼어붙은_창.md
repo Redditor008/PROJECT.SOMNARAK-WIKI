@@ -250,7 +250,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It glows during the Sorrow Tide.
 - Personnel report sorrow rather than fear after seeing its reflected scenes.
 
-**Personnel Note:** *"It was glowing in the Commons. I thought it was calling someone home. It was teaching me that home had already changed."* — Agent, Zone D patrol
+**Personnel Note:** *"It was glowing in the Commons. I thought it was calling someone home. It was teaching me that home had already changed."* — Specialist, Zone D patrol
 
 
 

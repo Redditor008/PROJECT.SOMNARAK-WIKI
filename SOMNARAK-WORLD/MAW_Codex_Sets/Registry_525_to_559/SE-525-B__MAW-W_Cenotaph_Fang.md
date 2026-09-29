@@ -7,7 +7,7 @@
 **Document ID:** `SE-525-B`  
 **Linked Entity:** `SE-525` — Cenotaph  
 **Item Registry Code:** `MAW-W-525-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Cenotaph Fang is a crimson fang of Han iron formed after shared rescue revie
 **Document ID:** `SE-525-B`  
 **Linked Entity:** `SE-525`  
 **Item Registry Code:** `MAW-W-525-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

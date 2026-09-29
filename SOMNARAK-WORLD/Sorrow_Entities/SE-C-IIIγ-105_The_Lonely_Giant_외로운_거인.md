@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its route is tracked rather than blocked.
 
 **Personnel Note:**
-> *"It stood over the district like a mountain apologizing for taking up space. When I sat down, it sat too. The ground shook, but the loneliness became smaller."* — Agent Haneulash Yoon, Zone D
+> *"It stood over the district like a mountain apologizing for taking up space. When I sat down, it sat too. The ground shook, but the loneliness became smaller."* — Specialist Haneulash Yoon, Zone D
 
 
 
@@ -398,6 +398,6 @@ Some sorrows are about belonging lost. The Lonely Giant's sorrow is about belong
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-105
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4211
 **Classification:** Restricted

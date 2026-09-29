@@ -7,7 +7,7 @@
 **Document ID:** `SE-339-B`  
 **Linked Entity:** `SE-339` — Breach  
 **Item Registry Code:** `MAW-W-339-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Fallen Requiem is a blade of deep-blue Han crystal patterned with wall crack
 **Document ID:** `SE-339-B`  
 **Linked Entity:** `SE-339`  
 **Item Registry Code:** `MAW-W-339-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -1,4 +1,4 @@
-# Reception 2: Floor 02 — The Memory Thief (기억을 훔치는 자)
+# Reading 2: Floor 02 — The Memory Thief (기억을 훔치는 자)
 ## The Floor of Identity & Reflection — Deep Strata Sub-Alpha Roots (-2,500m)
 
 | Operational Attribute | Specification Dossier |
@@ -10,32 +10,32 @@
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
 | **Primary Opponent** | The Memory Thief (기억을 훔치는 자 — Mirage Sovereign) |
 | **Stagger Profile** | 60% Posture Strain (Daggers Shatter) / 0% Posture (Transmutation) |
-| **Key Page Yield** | `[Key Page: The Shadow]` (Evasion & Buff-Strip Matrix) |
+| **Memory Leaf Yield** | `[Memory Leaf: The Shadow]` (Evasion & Buff-Strip Matrix) |
 
 ```text
-+=====================================================================+
-|            RECEPTION DOSSIER: THE MEMORY THIEF (FLOOR 02)           |
-+---------------------------------------------------------------------+
-| RECEPTION TARGET   : The Memory Thief                               |
-| FLOOR LEVEL        : Floor 02 — Floor of Identity & Reflection      |
-| DOMAIN SETTING : Gallery of Whispering Mirrors (-2,500m Sub-Alpha)  |
-| PRIMARY OPPONENT   : Autonomous Mirage Assassin Construct           |
-+---------------------------------------------------------------------+
-| OPPONENT COMBAT PROFILE (THE MEMORY THIEF):                         |
-| - Total Health (HP): 3,600 HP | Posture Pool: 280/280               |
-| - Stagger 1 Proc : 60% Posture Strain (168 Posture) / Daggers Break |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)   |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 1.0x, Grudge |
-|   0.5x                                                              |
-+---------------------------------------------------------------------+
-| TARGETABLE MEMORY ANCHORS:                                          |
-| 1. Glass Daggers   : 900 HP                                         |
-|   | Posture 220/220 (High-velocity identity siphons)                |
-| 2. Facemask Veil   : 1,100 HP                                       |
-|   | Posture 240/240 (Mirage reflection shield)                      |
-| 3. Shadow Ego Core : 1,600 HP                                       |
-|   | Posture 280/280 (Central hollow heart)                          |
-+=====================================================================+
++========================================================================+
+|              READING DOSSIER: THE MEMORY THIEF (FLOOR 02)              |
++------------------------------------------------------------------------+
+| READING TARGET   : The Memory Thief                                    |
+| FLOOR LEVEL        : Floor 02 — Floor of Identity & Reflection         |
+| DOMAIN SETTING : Gallery of Whispering Mirrors (-2,500m Sub-Alpha)     |
+| PRIMARY OPPONENT   : Autonomous Mirage Assassin Construct              |
++------------------------------------------------------------------------+
+| OPPONENT COMBAT PROFILE (THE MEMORY THIEF):                            |
+| - Total Health (HP): 3,600 HP | Posture Pool: 280/280                  |
+| - Stagger 1 Proc : 60% Posture Strain (168 Posture) / Daggers Break    |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)      |
+| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 1.0x, Grudge    |
+|   0.5x                                                                 |
++------------------------------------------------------------------------+
+| TARGETABLE MEMORY ANCHORS:                                             |
+| 1. Glass Daggers   : 900 HP                                            |
+|   | Posture 220/220 (High-velocity identity siphons)                   |
+| 2. Facemask Veil   : 1,100 HP                                          |
+|   | Posture 240/240 (Mirage reflection shield)                         |
+| 3. Shadow Ego Core : 1,600 HP                                          |
+|   | Posture 280/280 (Central hollow heart)                             |
++========================================================================+
 ```
 
 > *"You are wearing a dead woman's voice. You smile with lips that rotted four thousand years ago. If you take away her grief, what is left of you? An empty thief in a house of mirrors."*
@@ -105,40 +105,40 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 
 ---
 
-## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)
+## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 01          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — FLOOR 02 MIRROR GALLERY (-2,500M)]          |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL][SEIYON][M-PROJ][THIEF] [MIRAGE]                            |
-| [LENS][WEAVER][WELL][SPIRE][PAGE]                                   |
-+---------------------------------------------------------------------+
-| - Node 01: Ingress Stasis Portal / Gallery Threshold                |
-| - Node 02: Secretary Seiyon (Vanguard Band 1 / Prismatic Aegis      |
-|   Stance)                                                           |
-| - Node 03: Mnemonic Drone (Support Band 2 / Stasis Caliper Array)   |
-| - Node 04: The Memory Thief (Forward Band 2 / Glass Daggers         |
-|   Spinning)                                                         |
-| - Node 05: Mirage Duplicates (Three Refraction Clones Flanking)     |
-| - Node 06: Resonant Mnemonic Lens (Tracking Identity Siphon         |
-|   Conduits)                                                         |
-| - Node 07: Weaver Projection Array (Anchoring Reality Integrity)    |
-| - Node 10: Floor 02 Core Reliquary (The Shadow Key Page Origin)     |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50           |
-|   | Posture 140/140                                                 |
-| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40           |
-|   | Posture 100/100                                                 |
-| - Thief Core  : Spd 5 -> 3 AP | HP 1,600/1,600                      |
-|   | Posture 280/280 [MIRAGE]                                        |
-| - Glass Dagger: Spd 7 -> 4 AP | HP 900/900                          |
-|   | Posture 220/220 [POISONED]                                      |
-| - Facemask    : Spd 3 -> 1 AP | HP 1,100/1,100                      |
-|   | Posture 240/240 [SHIELDED]                                      |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 02 — BATTLE TURN 01            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — FLOOR 02 MIRROR GALLERY (-2,500M)]             |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL][SEIYON][M-PROJ][THIEF] [MIRAGE]                               |
+| [LENS][WEAVER][WELL][SPIRE][PAGE]                                      |
++------------------------------------------------------------------------+
+| - Node 01: Ingress Stasis Portal / Gallery Threshold                   |
+| - Node 02: Secretary Seiyon (Vanguard Band 1 / Prismatic Aegis         |
+|   Stance)                                                              |
+| - Node 03: Mnemonic Drone (Support Band 2 / Stasis Caliper Array)      |
+| - Node 04: The Memory Thief (Forward Band 2 / Glass Daggers            |
+|   Spinning)                                                            |
+| - Node 05: Mirage Duplicates (Three Refraction Clones Flanking)        |
+| - Node 06: Resonant Mnemonic Lens (Tracking Identity Siphon            |
+|   Conduits)                                                            |
+| - Node 07: Weaver Projection Array (Anchoring Reality Integrity)       |
+| - Node 10: Floor 02 Core Reliquary (The Shadow Memory Leaf Origin)     |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50              |
+|   | Posture 140/140                                                    |
+| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40              |
+|   | Posture 100/100                                                    |
+| - Thief Core  : Spd 5 -> 3 AP | HP 1,600/1,600                         |
+|   | Posture 280/280 [MIRAGE]                                           |
+| - Glass Dagger: Spd 7 -> 4 AP | HP 900/900                             |
+|   | Posture 220/220 [POISONED]                                         |
+| - Facemask    : Spd 3 -> 1 AP | HP 1,100/1,100                         |
+|   | Posture 240/240 [SHIELDED]                                         |
++========================================================================+
 ```
 
 ### Turn 01 Action Resolution Log (Intercepting the Shadow Flurry)
@@ -166,30 +166,30 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 02          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — GLASS DAGGERS SHATTERED & VOID STRIKE]      |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][THIEF]                            |
-| [LENS][WEAVER][WELL][SPIRE][PAGE]                                   |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Prismatic Stiletto Cleaving Shadow Tendons)      |
-| - Node 04: Mnemonic Drone (Stasis Barrier Pinning Mirage Clones)    |
-| - Node 05: The Memory Thief (Glass Daggers Destroyed 0/900 HP)      |
-| - Node 06: Resonant Lens (Illuminating Fractured Seams of Facemask) |
-| - Node 07: Weaver Array (Absorbing Phantom Identity Distortion      |
-|   Waves)                                                            |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Thief Core  : Spd 4 -> 2 AP         | HP 1,600/1,600              |
-|   | Posture 212/280                                                 |
-| - Glass Dagger: DESTROYED (0/900 HP)                                |
-|   | IDENTITY SIPHON PERMANENTLY SEALED                              |
-| - Facemask    : Spd 3 -> 1 AP         | HP 920/1,100                |
-|   | Posture 184/240                                                 |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 02 — BATTLE TURN 02            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — GLASS DAGGERS SHATTERED & VOID STRIKE]         |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][THIEF]                               |
+| [LENS][WEAVER][WELL][SPIRE][PAGE]                                      |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Prismatic Stiletto Cleaving Shadow Tendons)         |
+| - Node 04: Mnemonic Drone (Stasis Barrier Pinning Mirage Clones)       |
+| - Node 05: The Memory Thief (Glass Daggers Destroyed 0/900 HP)         |
+| - Node 06: Resonant Lens (Illuminating Fractured Seams of Facemask)    |
+| - Node 07: Weaver Array (Absorbing Phantom Identity Distortion         |
+|   Waves)                                                               |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Thief Core  : Spd 4 -> 2 AP         | HP 1,600/1,600                 |
+|   | Posture 212/280                                                    |
+| - Glass Dagger: DESTROYED (0/900 HP)                                   |
+|   | IDENTITY SIPHON PERMANENTLY SEALED                                 |
+| - Facemask    : Spd 3 -> 1 AP         | HP 920/1,100                   |
+|   | Posture 184/240                                                    |
++========================================================================+
 ```
 
 ### Turn 02 Action Resolution Log (Part Destruction: Glass Daggers Shattered)
@@ -219,29 +219,29 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 03          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & FACEMASK SHATTER]     |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][THIEF]                            |
-| [LENS][WEAVER][WELL][SPIRE][PAGE]                                   |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Prismatic Needle Piercing Central Facemask Gem)  |
-| - Node 04: Mnemonic Drone (Pneumatic Ram Shattering Stolen Mirrors) |
-| - Node 05: The Memory Thief (STAGGER LEVEL 1 / DEFENSES COLLAPSED / |
-|   HUE WARP)                                                         |
-| - Node 06: Resonant Lens (Directing Focused Pulse on Central Heart) |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Thief Core  : Spd 0 -> 0 AP         | HP 1,380/1,600              |
-|   | Posture 108/280 [STAGGER LEVEL 1]                               |
-| - Facemask    : Spd 0 -> 0 AP         | HP 440/1,100                |
-|   | Posture 92/240 [SHATTERED]                                      |
-| - Total Boss : HP 1,820/3,600 [THRESHOLD BREACHED / TAKES 1.5X      |
-|   DAMAGE]                                                           |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 02 — BATTLE TURN 03            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & FACEMASK SHATTER]        |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][THIEF]                               |
+| [LENS][WEAVER][WELL][SPIRE][PAGE]                                      |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Prismatic Needle Piercing Central Facemask Gem)     |
+| - Node 04: Mnemonic Drone (Pneumatic Ram Shattering Stolen Mirrors)    |
+| - Node 05: The Memory Thief (STAGGER LEVEL 1 / DEFENSES COLLAPSED /    |
+|   HUE WARP)                                                            |
+| - Node 06: Resonant Lens (Directing Focused Pulse on Central Heart)    |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Thief Core  : Spd 0 -> 0 AP         | HP 1,380/1,600                 |
+|   | Posture 108/280 [STAGGER LEVEL 1]                                  |
+| - Facemask    : Spd 0 -> 0 AP         | HP 440/1,100                   |
+|   | Posture 92/240 [SHATTERED]                                         |
+| - Total Boss : HP 1,820/3,600 [THRESHOLD BREACHED / TAKES 1.5X         |
+|   DAMAGE]                                                              |
++========================================================================+
 ```
 
 ### Turn 03 Action Resolution Log (First Stagger Proc & Facemask Shatter)
@@ -271,27 +271,27 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 04          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][THIEF]  [M-PROJ]                  |
-| [LENS][WEAVER][WELL][SPIRE][PAGE]                                   |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Four-Fold Stiletto Void Flurry on Exposed Core)  |
-| - Node 05: The Memory Thief (Immobilized / Shadow Smoke Leaking)    |
-| - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)       |
-| - Node 07: Resonant Lens (Broadcasting Harmonic Clarity Wave)       |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
-|   | SP 50/50                                                        |
-| - Thief Core  : Spd 0 -> 0 AP               | HP 420/1,600          |
-|   | Posture 44/280                                                  |
-| - Facemask    : DESTROYED (0/1,100 HP)                              |
-| - Total Boss : HP 420/3,600 [BURST DAMAGE 1,400! SECOND THRESHOLD   |
-|   SKIPPED]                                                          |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 02 — BATTLE TURN 04            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]        |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][THIEF]  [M-PROJ]                     |
+| [LENS][WEAVER][WELL][SPIRE][PAGE]                                      |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Four-Fold Stiletto Void Flurry on Exposed Core)     |
+| - Node 05: The Memory Thief (Immobilized / Shadow Smoke Leaking)       |
+| - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)          |
+| - Node 07: Resonant Lens (Broadcasting Harmonic Clarity Wave)          |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400           |
+|   | SP 50/50                                                           |
+| - Thief Core  : Spd 0 -> 0 AP               | HP 420/1,600             |
+|   | Posture 44/280                                                     |
+| - Facemask    : DESTROYED (0/1,100 HP)                                 |
+| - Total Boss : HP 420/3,600 [BURST DAMAGE 1,400! SECOND THRESHOLD      |
+|   SKIPPED]                                                             |
++========================================================================+
 ```
 
 ### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
@@ -318,30 +318,30 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 05          |
-+---------------------------------------------------------------------+
-|                                                                     |
-| [STAGE NODES 01 TO 10 — THE MIRAGE ESCALATION & SEVERANCE OVERDRIVE |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][THIEF]  [M-PROJ]                  |
-| [LENS][WEAVER][WELL][SPIRE][PAGE]                                   |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Relic Overdrive: SEVERANCE OF THE BORROWED       |
-|   SHADOW)                                                           |
-| - Node 05: The Memory Thief (Last Stand: Hall of a Thousand Stolen  |
-|   Faces)                                                            |
-| - Node 06: Mnemonic Drone (Prismatic Damping Bubble Enclosing       |
-|   Squad)                                                            |
-| - Node 07: Weaver Array (Anchoring Reality Integrity Across         |
-|   Gallery)                                                          |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400          |
-|   | SP 50/50 [RESOLVE]                                              |
-| - Thief Core  : Spd 3 -> 1 AP             | HP 420/1,600            |
-|   | Posture 20/280 [MIRAGE BROKEN]                                  |
-| - Total Boss : HP 420/3,600 [SHADOW REFLECTION CONDENSED INTO DUST] |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 02 — BATTLE TURN 05            |
++------------------------------------------------------------------------+
+|                                                                        |
+| [STAGE NODES 01 TO 10 — THE MIRAGE ESCALATION & SEVERANCE OVERDRIVE    |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][THIEF]  [M-PROJ]                     |
+| [LENS][WEAVER][WELL][SPIRE][PAGE]                                      |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Relic Overdrive: SEVERANCE OF THE BORROWED          |
+|   SHADOW)                                                              |
+| - Node 05: The Memory Thief (Last Stand: Hall of a Thousand Stolen     |
+|   Faces)                                                               |
+| - Node 06: Mnemonic Drone (Prismatic Damping Bubble Enclosing          |
+|   Squad)                                                               |
+| - Node 07: Weaver Array (Anchoring Reality Integrity Across            |
+|   Gallery)                                                             |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400             |
+|   | SP 50/50 [RESOLVE]                                                 |
+| - Thief Core  : Spd 3 -> 1 AP             | HP 420/1,600               |
+|   | Posture 20/280 [MIRAGE BROKEN]                                     |
+| - Total Boss : HP 420/3,600 [SHADOW REFLECTION CONDENSED INTO DUST]    |
++========================================================================+
 ```
 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Mirage Cataclysm & The True Reflection)
@@ -368,28 +368,28 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 06          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE SHADOW]       |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                         [SEIYON] [THIEF] [M-PROJ]          |
-| [LENS][WEAVER][STAIRS][PAGE]                                        |
-+---------------------------------------------------------------------+
-| - Node 05: The Memory Thief (PACIFIED & CRYSTALLIZED TO SMOKY       |
-|   QUARTZ)                                                           |
-| - Node 06: Seiyon (Floor Realization 2: 'Identity Is Not Stolen; It |
-|   Is Lived')                                                        |
-| - Node 07: Mnemonic Core Transmutation -> [Key Page: The Shadow]    |
-| - Node 10: Spiral Iron Staircase (Pathway to Floor 03 OPEN)         |
-+---------------------------------------------------------------------+
-| - Seiyon Status: Zero Damage                                        |
-|   | Composure 50/50 SP (Tranquil Awakening)                         |
-| - Reception Status: 100% RESOLVED | Key Page Transmuted             |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 02 — BATTLE TURN 06            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE SHADOW]       |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                         [SEIYON] [THIEF] [M-PROJ]             |
+| [LENS][WEAVER][STAIRS][PAGE]                                           |
++------------------------------------------------------------------------+
+| - Node 05: The Memory Thief (PACIFIED & CRYSTALLIZED TO SMOKY          |
+|   QUARTZ)                                                              |
+| - Node 06: Seiyon (Floor Realization 2: 'Identity Is Not Stolen; It    |
+|   Is Lived')                                                           |
+| - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Shadow]    |
+| - Node 10: Spiral Iron Staircase (Pathway to Floor 03 OPEN)            |
++------------------------------------------------------------------------+
+| - Seiyon Status: Zero Damage                                           |
+|   | Composure 50/50 SP (Tranquil Awakening)                            |
+| - Reading Status: 100% RESOLVED | Memory Leaf Transmuted               |
++========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 2 & Key Page: The Shadow)
+### Turn 06 Action Resolution Log (Floor Realization 2 & Memory Leaf: The Shadow)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/280 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -399,10 +399,10 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * The realization resonates within her:
     > *"I was born from someone else's memory. But the choices I made were mine. The loyalty I gave was mine. Identity is not stolen; it is lived."*
   * **FLOOR REALIZATION 2 ACHIEVED!**
-  * The Memory Thief dissolves into a column of cool, dusky silver light, condensing into a dark, polished codex: **`[Key Page: The Shadow]`**!
+  * The Memory Thief dissolves into a column of cool, dusky silver light, condensing into a dark, polished codex: **`[Memory Leaf: The Shadow]`**!
   * Deals **420 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Shadow]` (Grants +15% Evasion and strips enemy offensive buffs on clash win).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Shadow]` (Grants +15% Evasion and strips enemy offensive buffs on clash win).
   * **Descent Access**: The mirror at the end of the hall dissolves, revealing a heavy iron bulkhead opening to **Floor 03: Floor of Duty & Iron**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
@@ -425,27 +425,27 @@ Drone M-PROJ-01 emitted a harmonious confirmation pulse. "Secretary Seiyon. Cogn
 At the terminus of the gallery, the largest sheet of Before-Time silver cracked down its center and folded inward, revealing a heavily reinforced industrial bulkhead forged from blackened Bessemer steel. Beyond the hatch, the rhythmic, metallic clanking of automated war-drills reverberated through the bedrock from **Floor 03: Floor of War & Iron Vows (-2,650m)**.
 
 ```text
-+=====================================================================+
-|                MNEMONIC HARVEST: KEY PAGE THE SHADOW                |
-+---------------------------------------------------------------------+
-| ACQUIRED REQUISITION : [Key Page: The Shadow]                       |
-| PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription          |
-| PASSIVE AFFINITIES   : Void 1.0x (Normal), Lament 1.0x (Normal),    |
-|                      Weight 0.7x (Resistant), Grudge 1.5x (Endure)  |
-+---------------------------------------------------------------------+
-| CORE PASSIVE TRAITS:                                                |
-| 1. Mirage Evasion    : Increases baseline combat evasion by +15%.   |
-| 2. Strip the Veil    : On clash win, strip 1 offensive buff from    |
-|                      the target and inflict +2 Fragility.           |
-| 3. Smokescreen Step  : Moving between nodes costs -1 Action Point   |
-|                      (minimum 1 AP).                                |
-+---------------------------------------------------------------------+
-| UNLOCKED BATTLE ARTS:                                               |
-| - [Glass Dagger Flurry] : Spends 2 AP | Power 16-22                 |
-|   | High Crit Chance                                                |
-| - [Mirage Severance]    : Spends 3 AP | Power 22-30                 |
-|   | Pierce/Void Cleave                                              |
-+=====================================================================+
++========================================================================+
+|                MNEMONIC HARVEST: MEMORY LEAF THE SHADOW                |
++------------------------------------------------------------------------+
+| ACQUIRED REQUISITION : [Memory Leaf: The Shadow]                       |
+| PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription             |
+| PASSIVE AFFINITIES   : Void 1.0x (Normal), Lament 1.0x (Normal),       |
+|                      Weight 0.7x (Resistant), Grudge 1.5x (Endure)     |
++------------------------------------------------------------------------+
+| CORE PASSIVE TRAITS:                                                   |
+| 1. Mirage Evasion    : Increases baseline combat evasion by +15%.      |
+| 2. Strip the Veil    : On clash win, strip 1 offensive buff from       |
+|                      the target and inflict +2 Fragility.              |
+| 3. Smokescreen Step  : Moving between nodes costs -1 Action Point      |
+|                      (minimum 1 AP).                                   |
++------------------------------------------------------------------------+
+| UNLOCKED BATTLE ARTS:                                                  |
+| - [Glass Dagger Flurry] : Spends 2 AP | Power 16-22                    |
+|   | High Crit Chance                                                   |
+| - [Mirage Severance]    : Spends 3 AP | Power 22-30                    |
+|   | Pierce/Void Cleave                                                 |
++========================================================================+
 ```
 
-Seiyon bound `[Key Page: The Shadow]` to her secondary mnemonic weave. The light around her silhouette darkened slightly, trading raw luminosity for agile, smoke-like fluidity that reduced her physical friction across the floor. She checked the seal on the iron bulkhead, signaled the drone, and stepped through into the cold stench of machine oil and rusted iron.
+Seiyon bound `[Memory Leaf: The Shadow]` to her secondary mnemonic weave. The light around her silhouette darkened slightly, trading raw luminosity for agile, smoke-like fluidity that reduced her physical friction across the floor. She checked the seal on the iron bulkhead, signaled the drone, and stepped through into the cold stench of machine oil and rusted iron.

@@ -50,7 +50,7 @@ The escape counter drops under specific conditions detailed in the entity's mana
 1. **Bad Work Outcome:** Generating mostly Fracture boxes during a work session.
 2. **Protocol Dislike:** Assigning a work protocol the entity abhors (e.g., ⚔ **Pugnahan** on a gentle grieving entity).
 3. **Meltdown Timeout:** Allowing a 60-second cell overload timer to expire without dispatching staff.
-4. **Clerk Casualties:** High-threat Wail and Sovereign entities drop counters whenever 5 or more clerks die on the floor.
+4. **Auxiliary Casualties:** High-threat Wail and Sovereign entities drop counters whenever 5 or more auxiliaries die on the floor.
 5. **Specialist Panic:** If an operative panics inside the containment chamber, the counter drops instantly to 0.
 6. **Incompatible Attribute Rank:** Sending an operative whose Resilience or Clarity is below the entity's required threshold.
 7. **Shift Duration Fatigue:** Working with the same entity more than 5 times in a single shift.
@@ -61,7 +61,7 @@ The escape counter drops under specific conditions detailed in the entity's mana
 ## 4 Breach Dynamics and Hallway Pathfinding AI
 
 Once an entity breaches, its artificial intelligence dictates movement:
-- **Hallway Roamers:** Move along standard corridors, attacking any clerks or specialists in their path.
+- **Hallway Roamers:** Move along standard corridors, attacking any auxiliaries or specialists in their path.
 - **Teleporters:** Disappear from view and instantly reappear in populated departmental Main Rooms.
 - **Ambush Predators:** Cling to elevator ceilings, dropping onto passing combat squads.
 - **Aura Emitters:** Remain stationary in hallway intersections while radiating massive pulses of 🔵 **Lament** or ⚫ **Weight** damage across entire wings.
@@ -69,7 +69,7 @@ Once an entity breaches, its artificial intelligence dictates movement:
 ## 5 Suppression Protocols and Reclamping Recovery
 
 To subdue a breaching entity, Wardens orchestrate real-time combat:
-1. **Quarantine:** Evacuate vulnerable recruits and unarmored clerks from the target corridor.
+1. **Quarantine:** Evacuate vulnerable recruits and unarmored auxiliaries from the target corridor.
 2. **Squad Muster:** Assemble specialists armed with M.A.W. weapons matching the entity's elemental weakness.
 3. **Clash Engagement:** Intercept the entity in a wide hallway or Main Room, utilizing frontline tanks equipped with resistant suits to absorb blows.
 4. **Stagger & Subdue:** Reducing the entity's health bar to zero forces it into a collapsed state, triggering robotic recovery drones that transport it back into containment.

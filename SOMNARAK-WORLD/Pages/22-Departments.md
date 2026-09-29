@@ -57,7 +57,7 @@ Crucially, every Main Room houses a **Departmental Healing Generator** — an ac
 
 Each department contains up to **four Containment Units** (cells) dedicated to housing individual sorrow entities. Each unit is constructed from reinforced basalt and shielded with a localized **Han-Energy lattice** that dampens metaphysical radiation. 
 
-The front of each unit features an armored viewing port, an airlock entry door, and an external **Sorrow Gauge** console indicating the entity's current agitation level, E-Box yield, and activation threshold.
+The front of each unit features an armored viewing port, an airlock entry door, and an external **Sorrow Gauge** console indicating the entity's current agitation level, Positive Box yield, and activation threshold.
 
 ### 1.3 Corridors and Hallways
 

@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its fragments dissolve after an entity or person is acknowledged.
 - It has never physically attacked without being provoked.
 
-**Personnel Note:** *"It was watching. I felt rage. The pity was worse because it showed me how much suffering I had accepted as ordinary."* — Agent, Zone B patrol
+**Personnel Note:** *"It was watching. I felt rage. The pity was worse because it showed me how much suffering I had accepted as ordinary."* — Specialist, Zone B patrol
 
 
 

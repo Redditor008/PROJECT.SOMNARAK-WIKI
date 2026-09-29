@@ -7,7 +7,7 @@
 **Document ID:** `SE-505-C`  
 **Linked Entity:** `SE-505` — Cold Burn  
 **Item Registry Code:** `MAW-S-505-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Cold Burn Veil is a pale veil of Han gossamer with a cold duty outline held 
 **Document ID:** `SE-505-C`  
 **Linked Entity:** `SE-505`  
 **Item Registry Code:** `MAW-S-505-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -247,7 +247,7 @@ She oversees or coordinates:
 - overflow containment for entities captured outside;
 - military armory access, equipment issue, and tactical planning;
 - threat assessment using field testimony, Watchtower Eye data, and Han-flow change;
-- coordination with Wardens, Desolate Scouts, Entity Hunters, and R.D. field agents;
+- coordination with Wardens, Desolate Scouts, Entity Hunters, and R.D. field specialists;
 - first contact, screening, and temporary holding when an arrival is not immediately hostile;
 - border barrier requirements and upgrade requests to Floor 4;
 - cooperation with Floor 7 on mobile field operations;
@@ -282,9 +282,9 @@ Floor 5 includes:
 - **Border Guards**, who hold fortified positions and respond to breaches;
 - **Desolate Scouts**, who travel beyond the wall and read routes;
 - **Entity Hunters**, who track wilderness manifestations;
-- **Senior Agents and Specialists**, who lead patrols and reconnaissance;
-- **Clerks and Technicians**, who maintain signals, maps, and watch systems;
-- **R.D. Field Agents**, who operate from isolated outside stations;
+- **Senior Specialists and Specialists**, who lead patrols and reconnaissance;
+- **Auxiliaries and Technicians**, who maintain signals, maps, and watch systems;
+- **R.D. Field Specialists**, who operate from isolated outside stations;
 - **Wardens**, who support security and citywide emergency response.
 
 Mellda has authority over her Directorate floor. She is not the Head Warden and does not govern the entire Warden faction.
@@ -400,7 +400,7 @@ The exact charge, hearing, witnesses, and response of the Wardens are not record
 
 Most exiles last weeks. Mellda lasts ten years.
 
-The Desolate is a semi-structured buffer where the Veil does not reach. Its ground shifts, Han-storms cause emotional surges and Fracture, entities form in the weather, and communications fail. Nomads move with Han flows. Frontier families build and rebuild. Outcasts, scavengers, exiles, and R.D. field agents survive by different methods.
+The Desolate is a semi-structured buffer where the Veil does not reach. Its ground shifts, Han-storms cause emotional surges and Fracture, entities form in the weather, and communications fail. Nomads move with Han flows. Frontier families build and rebuild. Outcasts, scavengers, exiles, and R.D. field specialists survive by different methods.
 
 The source does not give a day-by-day route. It establishes that Mellda crosses climates, carries the cold and dust of the roads, and learns the wilderness well enough to return as its most experienced living interpreter inside Somnarak.
 
@@ -603,7 +603,7 @@ The Memory Archive's internal floor or reception numbers are not equivalent to t
 
 ### Archive Progression Status
 
-No reception, realization, page, special armament, floor reward, or post-operation transformation is assigned to Mellda. Her profile therefore records **None**.
+No reading, realization, page, special armament, floor reward, or post-operation transformation is assigned to Mellda. Her profile therefore records **None**.
 
 ---
 

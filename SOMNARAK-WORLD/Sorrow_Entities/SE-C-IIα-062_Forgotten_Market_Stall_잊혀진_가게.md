@@ -430,6 +430,6 @@ Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary
 ## Document Information
 
 **Document ID:** SE-C-IIα-062
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4215
 **Classification:** Restricted

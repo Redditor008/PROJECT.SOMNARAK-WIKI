@@ -7,7 +7,7 @@
 **Document ID:** `SE-140-A`  
 **Related Entity ID:** `SE-140`  
 **SECC Designation:** `C-IIIγ-140 [LP]`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted    
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ The Willow is alive in a way no stone memorial is alive: dark sap runs warm and 
 | Void | Low | An ending can make a familiar future feel suddenly absent. |
 | Weight | Low | A completed life leaves a tender pressure rather than a crushing demand. |
 
-> *“The Willow mourned endings I had not reached yet, and I understood that fear was only love trying to stay.”* — Agent Kkotlom Lee
+> *“The Willow mourned endings I had not reached yet, and I understood that fear was only love trying to stay.”* — Specialist Kkotlom Lee
 
 ### Open questions
 
@@ -160,7 +160,7 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 - **Understood:** The tree is a memorial for beautiful things that had to finish.
 - **Mastery condition:** The Gardens must honor closure without demanding that mourners move on before they are ready.
 
-> *“Some sorrow is simply the shape a full life leaves behind.”* — Agent Kkotlom Lee
+> *“Some sorrow is simply the shape a full life leaves behind.”* — Specialist Kkotlom Lee
 
 ---
 
@@ -174,7 +174,7 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 
 **Document ID:** `SE-140-A`  
 **Linked Entity:** `SE-140`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

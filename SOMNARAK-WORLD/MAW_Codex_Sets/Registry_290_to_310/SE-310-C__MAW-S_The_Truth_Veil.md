@@ -7,7 +7,7 @@
 **Document ID:** `SE-310-C`  
 **Linked Entity:** `SE-310` — Cracked Mirror  
 **Item Registry Code:** `MAW-S-310-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Gift identifies deception, Veil preserves complexity, Weapon targets harm.
 **Document ID:** `SE-310-C`  
 **Linked Entity:** `SE-310`  
 **Item Registry Code:** `MAW-S-310-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

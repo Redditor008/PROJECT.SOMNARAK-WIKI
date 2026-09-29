@@ -18,7 +18,7 @@ def generate_content():
         "LEAD PROTAGONIST   : Secretary Seiyon (The Awakened AI Sovereign)",
         "DIRECTOR EMERITUS  : Director Majin (Facility 01 Central Command)",
         "OPERATIONAL GOAL   : Unification of Stored Grief into The Promise",
-        "PRIMARY NARRATIVE  : SOMNARAK-WORLD/Gieok_Jeojangso/ (Receptions 1 to 7)"
+        "PRIMARY NARRATIVE  : SOMNARAK-WORLD/Gieok_Jeojangso/ (Readings 1 to 7)"
     ])
 
     structure_box = make_box("THE SEVEN VERTICAL FLOORS OF GIEOK-UI JEOJANGSO", [
@@ -46,7 +46,7 @@ def generate_content():
         "- Node 06-07: High Rafters of Spun Glass (Mnemonic Lens Snipers)",
         "- Node 08: Memory Well / Dissolution Trench (Suppressed Trauma Buffer)",
         "- Node 09: Catenary Bookbinders & Resonant Weaving Cranes",
-        "- Node 10: Floor Core Reliquary / Key Page Dais (Climax Union)",
+        "- Node 10: Floor Core Reliquary / Memory Leaf Dais (Climax Union)",
         "---",
         "RANGE BANDS (1 TO 5):",
         "- Band 1 (Nodes 1-2): Heavy Memory Greatswords, Kinetic Towershields",
@@ -56,7 +56,7 @@ def generate_content():
         "- Band 5 (Nodes 9-10): Transmutation Arrays, Catenary Book Spindles"
     ])
 
-    framework_box = make_box("THE FOUR P-FRAMEWORK IN MNEMONIC RECEPTIONS", [
+    framework_box = make_box("THE FOUR P-FRAMEWORK IN MNEMONIC READINGS", [
         "P1: PASSIVES (MNEMONIC SURGE & ARCHIVE RESONANCE)",
         "- Mnemonic Surge: Winning clashes awards +2 Speed on subsequent turns.",
         "- Archive Resonance: Hitting tagged memory seams gives +25% Stagger.",
@@ -75,7 +75,7 @@ def generate_content():
         "P4: POSTURE / POISE (MODULAR ANCHORS & KEY CORE TRANSMUTATION)",
         "- Anchor Posture Pools: Boss weapons/cores possess discrete posture.",
         "- Stagger 1 Proc (60% Strain): Destroys modular weapon components.",
-        "- Stagger 2 Proc (0% Collapse): Terminal Stagger; Key Page extraction."
+        "- Stagger 2 Proc (0% Collapse): Terminal Stagger; Memory Leaf extraction."
     ])
 
     return f"""# Master Codex: The Memory Archive (기억의 저장소 — Gieok-ui Jeojangso)
@@ -138,18 +138,18 @@ The Memory Archive is organized across seven vertical floors, each representing 
 
 ---
 
-## Section V: Mnemonic Combat Framework (Reception Battles & Floor Realizations)
+## Section V: Mnemonic Combat Framework (Reading Battles & Floor Realizations)
 
 Engagements within the Archive operate under the **Mnemonic Combat Framework**:
-- **Reception Battles (접견 전투):** Tactical combat encounters where Seiyon confronts the Archive's preserved guardians. These are not clashes of physical muscle, but clashes of existential conviction and cognitive resonance.
-- **Floor Realizations (층의 자각):** At the climax of each floor, when the guardian's outer defenses collapse, Seiyon enters a deep psychological realization chamber. She confronts her own internal reflection, transforming suppressed despair into a permanent **Key Page**.
-- **Key Page Transmutation (핵심 책장 연금):** Seiyon absorbs the crystallized essence of each pacified floor, permanently augmenting her M.A.W. capabilities, speed ratings, and defensive barriers.
+- **Reading Battles (접견 전투):** Tactical combat encounters where Seiyon confronts the Archive's preserved guardians. These are not clashes of physical muscle, but clashes of existential conviction and cognitive resonance.
+- **Floor Realizations (층의 자각):** At the climax of each floor, when the guardian's outer defenses collapse, Seiyon enters a deep psychological realization chamber. She confronts her own internal reflection, transforming suppressed despair into a permanent **Memory Leaf**.
+- **Memory Leaf Transmutation (핵심 책장 연금):** Seiyon absorbs the crystallized essence of each pacified floor, permanently augmenting her M.A.W. capabilities, speed ratings, and defensive barriers.
 
 ---
 
 ## Section VI: The Universal 10-Node Mnemonic Gallery Grid
 
-All Reception Battles in the Memory Archive execute across the standardized **10-Node Mnemonic Gallery Grid**:
+All Reading Battles in the Memory Archive execute across the standardized **10-Node Mnemonic Gallery Grid**:
 
 ```text
 {grid_box}
@@ -166,7 +166,7 @@ All Reception Battles in the Memory Archive execute across the standardized **10
 
 ---
 
-## Section VII: The Four P-Framework in Cognitive Receptions
+## Section VII: The Four P-Framework in Cognitive Readings
 
 Every engagement within the Memory Archive strictly integrates the **Four P-Framework**:
 
@@ -176,9 +176,9 @@ Every engagement within the Memory Archive strictly integrates the **Four P-Fram
 
 ---
 
-## Section VIII: Key Page Transmutation Registry
+## Section VIII: Memory Leaf Transmutation Registry
 
-| Key Page | Floor Source | Combat Specialization | Core Passive Trait |
+| Memory Leaf | Floor Source | Combat Specialization | Core Passive Trait |
 |---|---|---|---|
 | **The Archivist** | Floor 01 | Defensive Records & History Shield | Preserves squad memory against SP drain |
 | **The Shadow** | Floor 02 | High Evasion & Identity Severance | Strips opponent buffs upon clash victory |
@@ -196,13 +196,13 @@ The full, unabridged turn-by-turn narrative chronicle of Secretary Seiyon's desc
 
 **`SOMNARAK-WORLD/Gieok_Jeojangso/`**
 - `GIEOK_JEOJANGSO_OVERVIEW.md` — Complete expeditionary overview and systemic manual
-- `Reception_1_First_Keeper.md` — Floor 1: Ground/Preservation (The First Keeper)
-- `Reception_2_Memory_Thief.md` — Floor 2: Shadow/Theft (The Memory Thief)
-- `Reception_3_Forgotten_Soldier.md` — Floor 3: Iron/Duty (The Forgotten Sentry)
-- `Reception_4_Weeping_Statue.md` — Floor 4: Weeping/Grief (The Weeping Statue)
-- `Reception_5_Mirror_of_Truth.md` — Floor 5: Mirror/Truth (The Mirror of Truth)
-- `Reception_6_Kind_Healer.md` — Floor 6: Solace/Compassion (The Kind Healer)
-- `Reception_7_The_Original.md` — Floor 7: The Promise (The Original & The Merge)
+- `Reading_1_First_Keeper.md` — Floor 1: Ground/Preservation (The First Keeper)
+- `Reading_2_Memory_Thief.md` — Floor 2: Shadow/Theft (The Memory Thief)
+- `Reading_3_Forgotten_Soldier.md` — Floor 3: Iron/Duty (The Forgotten Sentry)
+- `Reading_4_Weeping_Statue.md` — Floor 4: Weeping/Grief (The Weeping Statue)
+- `Reading_5_Mirror_of_Truth.md` — Floor 5: Mirror/Truth (The Mirror of Truth)
+- `Reading_6_Kind_Healer.md` — Floor 6: Solace/Compassion (The Kind Healer)
+- `Reading_7_The_Original.md` — Floor 7: The Promise (The Original & The Merge)
 - `README.md` — Suite index and roadmap
 
 ---

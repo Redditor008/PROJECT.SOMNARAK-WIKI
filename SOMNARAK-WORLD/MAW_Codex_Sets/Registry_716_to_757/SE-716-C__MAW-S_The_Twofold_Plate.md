@@ -4,7 +4,7 @@
 **Document ID:** `SE-716-C`  
 **Linked Entity:** `SE-716` — Double Mouth  
 **Item Registry Code:** `MAW-S-716-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Twofold Plate is the suit of Double Mouth’s set, bound by the same source 
 **Document ID:** `SE-716-C`  
 **Linked Entity:** `SE-716`  
 **Item Registry Code:** `MAW-S-716-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

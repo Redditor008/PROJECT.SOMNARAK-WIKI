@@ -15,18 +15,18 @@ def get_day_1_combat():
     hud_t02 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — CORRIDOR EAST FUNGAL INTERCEPT]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
-        "[SPORE-A][KIM]   [SPORE-B][PARK]  [LEE]                   [CLERK]         ",
+        "[SPORE-A][KIM]   [SPORE-B][PARK]  [LEE]                   [AUXILIARY]         ",
         "---",
         "- Node 01: Spore Carrier A (Posture 38/100 / Locked by Kim's Fang)",
-        "- Node 02: Agent Kim (Point-Blank Band 1 / Embrace Fang Vicious Guard)",
+        "- Node 02: Specialist Kim (Point-Blank Band 1 / Embrace Fang Vicious Guard)",
         "- Node 03: Spore Carrier B (Venting Spores / Posture 100/100)",
-        "- Node 04: Agent Park (Range Band 2 / Lament Requiem Harmonic Blast)",
-        "- Node 05: Agent Lee (Range Band 3 / Activating Air Scrubbers)",
-        "- Node 08: Clerk Dormitory Entrance (Protected)",
+        "- Node 04: Specialist Park (Range Band 2 / Lament Requiem Harmonic Blast)",
+        "- Node 05: Specialist Lee (Range Band 3 / Activating Air Scrubbers)",
+        "- Node 08: Auxiliary Dormitory Entrance (Protected)",
         "---",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 110/110 | SP +35 | Posture 60/60",
-        "- Agent Lee   : Spd 4 -> 2 AP | HP 105/105 | SP +25 | Posture 55/55",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 110/110 | SP +35 | Posture 60/60",
+        "- Specialist Lee   : Spd 4 -> 2 AP | HP 105/105 | SP +25 | Posture 55/55",
         "- Spore A     : Spd 3 -> 1 AP | HP 98/180  | Posture 38/100 [CRACKED]",
         "- Spore B     : Spd 3 -> 1 AP | HP 180/180 | Posture 100/100"
     ])
@@ -34,15 +34,15 @@ def get_day_1_combat():
     hud_t03 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER ON SPORE A]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
-        "[ASH]    [KIM]   [SPORE-B][PARK]  [LEE]                   [CLERK]         ",
+        "[ASH]    [KIM]   [SPORE-B][PARK]  [LEE]                   [AUXILIARY]         ",
         "---",
         "- Node 01: Spore Carrier A (SPORES DISSOLVED / Ash Siphoned)",
-        "- Node 02: Agent Kim (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 02: Specialist Kim (Momentum Surge Primed / +2 Speed Next Turn)",
         "- Node 03: Spore Carrier B (Exposed / Posture 54/100)",
-        "- Node 04: Agent Park (Lament Beam Piercing Fungal Core)",
+        "- Node 04: Specialist Park (Lament Beam Piercing Fungal Core)",
         "---",
-        "- Agent Kim   : Spd 7 -> 4 AP [SURGE] | HP 115/115 | SP +30 | Posture 65/65",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 110/110 | SP +35 | Posture 60/60",
+        "- Specialist Kim   : Spd 7 -> 4 AP [SURGE] | HP 115/115 | SP +30 | Posture 65/65",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 110/110 | SP +35 | Posture 60/60",
         "- Spore A     : HP 0/180 [DESTROYED]",
         "- Spore B     : Spd 2 -> 1 AP | HP 122/180 | Posture 54/100 [ENGAGED]"
     ])
@@ -50,27 +50,27 @@ def get_day_1_combat():
     hud_t04 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — TOXIC CLOUD VENTING & AIR SCRUBBER LOCK]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
-        "        [KIM]   [SPORE-B][PARK]  [LEE]                   [CLERK]         ",
+        "        [KIM]   [SPORE-B][PARK]  [LEE]                   [AUXILIARY]         ",
         "---",
         "- Node 03: Spore Carrier B (Venting Toxic Cloud / Blinded by Scrubbers)",
-        "- Node 02: Agent Kim (Directional Guard Absorption Active)",
-        "- Node 04: Agent Park (Harmonic Choral Wave Charging)",
-        "- Node 05: Agent Lee (Air Scrubber System at 100% Suction)",
+        "- Node 02: Specialist Kim (Directional Guard Absorption Active)",
+        "- Node 04: Specialist Park (Harmonic Choral Wave Charging)",
+        "- Node 05: Specialist Lee (Air Scrubber System at 100% Suction)",
         "---",
-        "- Agent Kim   : Spd 7 -> 4 AP | HP 110/115 | SP +30 | Posture 58/65",
-        "- Agent Park  : Spd 6 -> 3 AP | HP 110/110 | SP +35 | Posture 60/60",
+        "- Specialist Kim   : Spd 7 -> 4 AP | HP 110/115 | SP +30 | Posture 58/65",
+        "- Specialist Park  : Spd 6 -> 3 AP | HP 110/110 | SP +35 | Posture 60/60",
         "- Spore B     : Spd 2 -> 1 AP | HP 64/180  | Posture 16/100 [POISONED]"
     ])
 
     hud_t05 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — TERMINAL STAGGER ON SPORE B]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
-        "                [SPORE-B]                                [CLERK]         ",
+        "                [SPORE-B]                                [AUXILIARY]         ",
         "                [KIM]    [PARK]  [LEE]",
         "---",
         "- Node 03: Spore Carrier B (TERMINAL STAGGER / POSTURE 0/100 / 2.0x DMG)",
-        "- Node 03: Agent Kim (Fang Blade Penetrating Main Stem)",
-        "- Node 04: Agent Park (Acoustic Resonance Disintegrating Hyphae)",
+        "- Node 03: Specialist Kim (Fang Blade Penetrating Main Stem)",
+        "- Node 04: Specialist Park (Acoustic Resonance Disintegrating Hyphae)",
         "---",
         "- Spore B     : Spd 0 -> 0 AP | HP 14/180  | Posture 0/100 [COLLAPSED]"
     ])
@@ -78,7 +78,7 @@ def get_day_1_combat():
     hud_t06 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06", [
         "[STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
-        "                [PURIFIED][KIM]  [PARK]  [LEE]           [CLERK]         ",
+        "                [PURIFIED][KIM]  [PARK]  [LEE]           [AUXILIARY]         ",
         "---",
         "- Node 03: Spores (Completely Dissolved to Ash / Purged by Scrubbers)",
         "- Node 04: Corridor East (Acoustic and Atmospheric Purity Confirmed)",
@@ -93,8 +93,8 @@ def get_day_1_combat():
 
 ###### Turn 02 Action Resolution Log (Node Lock & Stagger on Spore A)
 - **Node Lock & Acoustic Sunder**:
-  * Agent Kim maintains the grapple at Node 02 with `[Embrace Fang Vicious Guard]`, anchoring Spore Carrier A.
-  * Agent Park discharges a concentrated Lament acoustic pulse from Node 04:
+  * Specialist Kim maintains the grapple at Node 02 with `[Embrace Fang Vicious Guard]`, anchoring Spore Carrier A.
+  * Specialist Park discharges a concentrated Lament acoustic pulse from Node 04:
     * Deals **44 Lament Damage**!
     * Inflicts +34 Posture Strain. Spore A Posture drops to **38/100**, breaching the **60% Posture Threshold (60 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The carrier's fungal exoskeleton fissures wide open.
@@ -108,7 +108,7 @@ def get_day_1_combat():
 
 ###### Turn 03 Action Resolution Log (Spore A Annihilation & Momentum Surge)
 - **Posture Shatter Execution (1.5x Direct Damage)**:
-  * Agent Kim's `Momentum Surge` activates! (+2 Speed next turn). Kim delivers a brutal finishing bite:
+  * Specialist Kim's `Momentum Surge` activates! (+2 Speed next turn). Kim delivers a brutal finishing bite:
     * Deals **58 Grudge Damage**! Spore A HP hits **0/180**!
     * Spore Carrier A collapses into dry organic ash.
   * Park redirects the acoustic beam to Spore Carrier B, dealing **32 damage**.
@@ -122,8 +122,8 @@ def get_day_1_combat():
 ###### Turn 04 Action Resolution Log (Toxic Cloud & Air Scrubber Siphon)
 - **Hostile Desperation Spore Burst**:
   * Spore Carrier B vents a thick green toxic cloud across Nodes 2 and 3.
-  * Agent Lee activates Floor 1's auxiliary air scrubbers at Node 05, reversing ventilation and filtering the toxic spore cloud!
-  * Agent Kim deploys `[Directional Guard Absorption]`, taking 5 chip damage (HP: 110/115).
+  * Specialist Lee activates Floor 1's auxiliary air scrubbers at Node 05, reversing ventilation and filtering the toxic spore cloud!
+  * Specialist Kim deploys `[Directional Guard Absorption]`, taking 5 chip damage (HP: 110/115).
   * Park's Flerehan acoustic resonance strips 38 Posture points!
   * Spore B Posture drops to **16/100**!
 
@@ -146,7 +146,7 @@ def get_day_1_combat():
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Climax Fang Execution**:
-  * Agent Kim executes `[Climax Fang]`, biting clean through the main fungal stem.
+  * Specialist Kim executes `[Climax Fang]`, biting clean through the main fungal stem.
   * All spore carriers dissolve into inert ash and pure Han mist, collected by the scrubbers.
   * Floor 1 collection flues harvest **+0.015 tons of refined Han**!
 """
@@ -159,12 +159,12 @@ def get_day_5_combat():
         "[OBELISK]       [KANG]          [KIM]                   [DEKAN]         ",
         "---",
         "- Node 01: Heavy Pendulum Obelisk (Posture 48/120 / Suspension Ring Split)",
-        "- Node 03: Agent Kang (Point-Blank Band 1 / Basalt Shield Raised)",
-        "- Node 05: Agent Kim (Range Band 3 / Kinetic Carbine Aimed)",
+        "- Node 03: Specialist Kang (Point-Blank Band 1 / Basalt Shield Raised)",
+        "- Node 05: Specialist Kim (Range Band 3 / Kinetic Carbine Aimed)",
         "- Node 08: Attendant Dekan (Maw Bastion Barrier Maintaining)",
         "---",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 70/70",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 70/70",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
         "- Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/105",
         "- Obelisk     : Spd 3 -> 1 AP | HP 136/220 | Posture 48/120 [CRACKED]"
     ])
@@ -175,11 +175,11 @@ def get_day_5_combat():
         "[OBELISK]       [KANG]          [KIM]                   [DEKAN]         ",
         "---",
         "- Node 01: Obelisk (STAGGER LEVEL 1 / 1.5x DAMAGE / Posture 22/120)",
-        "- Node 03: Agent Kang (Momentum Surge Primed / +2 Speed Next Turn)",
-        "- Node 05: Agent Kim (Piercing Void Round Primed in Chamber)",
+        "- Node 03: Specialist Kang (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 05: Specialist Kim (Piercing Void Round Primed in Chamber)",
         "---",
-        "- Agent Kang  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Posture 70/70",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
+        "- Specialist Kang  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Posture 70/70",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
         "- Obelisk     : Spd 0 -> 0 AP | HP 74/220  | Posture 22/120 [STAGGERED]"
     ])
 
@@ -189,12 +189,12 @@ def get_day_5_combat():
         "[OBELISK]       [KANG]          [KIM]                   [DEKAN]         ",
         "---",
         "- Node 01: Obelisk (Recovered / Channeling 3.2G Gravitational Rupture)",
-        "- Node 03: Agent Kang (Directional Guard Absorption Active)",
-        "- Node 05: Agent Kim (Firing High-Penetration Void Disruptor)",
+        "- Node 03: Specialist Kang (Directional Guard Absorption Active)",
+        "- Node 05: Specialist Kim (Firing High-Penetration Void Disruptor)",
         "- Node 08: Attendant Dekan (Anchoring Floor Pylons Against G-Shear)",
         "---",
-        "- Agent Kang  : Spd 8 -> 4 AP | HP 118/125 | SP +35 | Posture 62/70",
-        "- Agent Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
+        "- Specialist Kang  : Spd 8 -> 4 AP | HP 118/125 | SP +35 | Posture 62/70",
+        "- Specialist Kim   : Spd 5 -> 3 AP | HP 115/115 | SP +30 | Posture 65/65",
         "- Obelisk     : Spd 2 -> 1 AP | HP 38/220  | Posture 12/120 [UNSTABLE]"
     ])
 
@@ -205,8 +205,8 @@ def get_day_5_combat():
         "        [KANG]  [KIM]",
         "---",
         "- Node 01: Obelisk (TERMINAL STAGGER / POSTURE 0/120 / CORE FRACTURED)",
-        "- Node 02: Agent Kang (Fury Blade Thrust into Suspension Hub)",
-        "- Node 03: Agent Kim (Void Beam Collapsing Gravitic Lens)",
+        "- Node 02: Specialist Kang (Fury Blade Thrust into Suspension Hub)",
+        "- Node 03: Specialist Kim (Void Beam Collapsing Gravitic Lens)",
         "---",
         "- Obelisk     : Spd 0 -> 0 AP | HP 12/220  | Posture 0/120 [COLLAPSED]"
     ])
@@ -217,7 +217,7 @@ def get_day_5_combat():
         "[GRAVEL]        [KANG]  [KIM]                           [DEKAN]         ",
         "---",
         "- Node 01: Obelisk (Shattered to Crystalline Gravel / Gravity Restored)",
-        "- Node 03: Agent Kang (Logging Sub-Level Rotunda Normalized)",
+        "- Node 03: Specialist Kang (Logging Sub-Level Rotunda Normalized)",
         "---",
         "- Obelisk     : HP 0/220 [PURIFIED] | +0.018 TONS REFINED HAN HARVESTED"
     ])
@@ -229,11 +229,11 @@ def get_day_5_combat():
 
 ###### Turn 02 Action Resolution Log (Shield Stand & Obelisk Stagger)
 - **Vanguard Anchor & Sunder**:
-  * Agent Kang holds Node 03 firmly behind the basalt shield, absorbing gravitational turbulence.
+  * Specialist Kang holds Node 03 firmly behind the basalt shield, absorbing gravitational turbulence.
   * Kang executes a heavy sunder against the lower pylon, dealing **46 Grudge damage**:
     * Inflicts +36 Posture Strain. Obelisk Posture drops to **48/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The obelisk tilts precariously on its gravitic axis.
-  * Agent Kim fires three armor-piercing kinetic rounds from Node 05, chipping away another 16 HP.
+  * Specialist Kim fires three armor-piercing kinetic rounds from Node 05, chipping away another 16 HP.
 
 ---
 
@@ -243,7 +243,7 @@ def get_day_5_combat():
 
 ###### Turn 03 Action Resolution Log (Direct Damage Sunder & Momentum Surge)
 - **Crushing Sunder (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers an overcharged greatsword cleave:
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers an overcharged greatsword cleave:
     * Deals **62 Grudge Damage**! Obelisk HP drops to **74/220**!
     * Massive fissures spiderweb across the violet stone monolith.
 
@@ -256,9 +256,9 @@ def get_day_5_combat():
 ###### Turn 04 Action Resolution Log (Gravitational Rupture & Piercing Void Shot)
 - **Hostile Desperation Pulse**:
   * The obelisk recovers and attempts to channel `[3.2G Gravitational Rupture]`.
-  * Agent Kim at Node 05 fires a high-penetration Void round straight into the charging core!
+  * Specialist Kim at Node 05 fires a high-penetration Void round straight into the charging core!
   * The Void disruption cancels the gravitational blast midway!
-  * Agent Kang deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 118/125).
+  * Specialist Kang deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 118/125).
   * Obelisk Posture drops to **12/120**!
 
 ---
@@ -294,10 +294,10 @@ def get_day_7_combat():
         "- Node 01: Tempest Stalker A (Posture 46/120 / Pierced by Mellda's Spear)",
         "- Node 02: Tempest Stalker B (Charging Void Cyclone / Posture 120/120)",
         "- Node 03: Border Lead Mellda (Point-Blank Band 1 / Threshold Vow)",
-        "- Node 04: Agent Moon (Range Band 2 / Lead Maul Heavy Downswing)",
+        "- Node 04: Specialist Moon (Range Band 2 / Lead Maul Heavy Downswing)",
         "---",
         "- Mellda      : Spd 6 -> 3 AP | HP 195/195 | SP +40 | Posture 95/95",
-        "- Agent Moon  : Spd 5 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Moon  : Spd 5 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Stalker A   : Spd 3 -> 1 AP | HP 128/240 | Posture 46/120 [CRACKED]",
         "- Stalker B   : Spd 4 -> 2 AP | HP 240/240 | Posture 120/120"
     ])
@@ -310,10 +310,10 @@ def get_day_7_combat():
         "- Node 01: Stalker A (SHATTERED & PULVERIZED / Salt Siphoned)",
         "- Node 02: Stalker B (Posture 66/120 / Mist Pinned by Golden Aura)",
         "- Node 03: Border Lead Mellda (Momentum Surge Primed / +2 Speed Next Turn)",
-        "- Node 04: Agent Moon (Pugnahan Heavy Slam Primed)",
+        "- Node 04: Specialist Moon (Pugnahan Heavy Slam Primed)",
         "---",
         "- Mellda      : Spd 8 -> 4 AP [SURGE] | HP 195/195 | SP +40 | Posture 95/95",
-        "- Agent Moon  : Spd 5 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Moon  : Spd 5 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Stalker A   : HP 0/240 [DESTROYED]",
         "- Stalker B   : Spd 3 -> 1 AP | HP 164/240 | Posture 66/120 [ENGAGED]"
     ])
@@ -325,10 +325,10 @@ def get_day_7_combat():
         "---",
         "- Node 02: Stalker B (Swirling into Void Cyclone / Grounded by Mellda)",
         "- Node 03: Border Lead Mellda (Directional Guard Absorption Active)",
-        "- Node 04: Agent Moon (Lead Maul Driving into Grounded Nucleus)",
+        "- Node 04: Specialist Moon (Lead Maul Driving into Grounded Nucleus)",
         "---",
         "- Mellda      : Spd 8 -> 4 AP | HP 188/195 | SP +40 | Posture 88/95",
-        "- Agent Moon  : Spd 5 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Moon  : Spd 5 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Stalker B   : Spd 2 -> 1 AP | HP 78/240  | Posture 20/120 [GROUNDED]"
     ])
 
@@ -340,7 +340,7 @@ def get_day_7_combat():
         "---",
         "- Node 02: Stalker B (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG)",
         "- Node 03: Border Lead Mellda (Impaling Core Nexus)",
-        "- Node 04: Agent Moon (Pugnahan Overhead Sunder)",
+        "- Node 04: Specialist Moon (Pugnahan Overhead Sunder)",
         "---",
         "- Stalker B   : Spd 0 -> 0 AP | HP 16/240  | Posture 0/120 [COLLAPSED]"
     ])
@@ -364,7 +364,7 @@ def get_day_7_combat():
 ###### Turn 02 Action Resolution Log (Gate Anchor & Stagger on Stalker A)
 - **Gate Anchor & Weight Impact**:
   * Mellda pins Stalker A's mist body at Node 03 using *Threshold Vow*.
-  * Agent Moon swings the Lead Maul from Node 04, slamming the entity's core:
+  * Specialist Moon swings the Lead Maul from Node 04, slamming the entity's core:
     * Deals **48 Weight Damage**!
     * Inflicts +38 Posture Strain. Stalker A Posture drops to **46/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The tempest vapor condenses into brittle crystalline needles.
@@ -379,7 +379,7 @@ def get_day_7_combat():
 ###### Turn 03 Action Resolution Log (Stalker A Destruction & Momentum Surge)
 - **Direct Weight Sunder (1.5x Direct Damage)**:
   * Mellda's `Momentum Surge` activates! (+2 Speed next turn).
-  * Agent Moon delivers a crushing downward strike:
+  * Specialist Moon delivers a crushing downward strike:
     * Deals **80 Weight Damage**! Stalker A HP hits **0/240**!
     * Stalker A shatters into a pile of dry gray salt.
   * Mellda directs her golden spear toward Stalker B, dealing **34 damage**.
@@ -395,7 +395,7 @@ def get_day_7_combat():
   * Stalker B accelerates into a razor-sharp `[Void Cyclone]`.
   * Mellda unleashes a golden spear aura, pinning the cyclone's eye to the stone plates!
   * Mellda deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 188/195).
-  * Agent Moon's heavy blow strips 28 Posture points!
+  * Specialist Moon's heavy blow strips 28 Posture points!
   * Stalker B Posture drops to **18/120**!
 
 ---
@@ -430,14 +430,14 @@ def get_day_12_combat():
         "---",
         "- Node 01: Cenotaph A (Posture 44/130 / Base Fractured by Sim's Maul)",
         "- Node 02: Cenotaph B (Channeling 90dB Wail / Posture 130/130)",
-        "- Node 03: Agent Sim (Point-Blank Band 1 / Lead Maul Ready)",
-        "- Node 04: Agent Kwon (Range Band 2 / Calibrated Stun Baton)",
-        "- Node 05: Agent Seo (Range Band 3 / Choral Sonic Burst Aimed)",
+        "- Node 03: Specialist Sim (Point-Blank Band 1 / Lead Maul Ready)",
+        "- Node 04: Specialist Kwon (Range Band 2 / Calibrated Stun Baton)",
+        "- Node 05: Specialist Seo (Range Band 3 / Choral Sonic Burst Aimed)",
         "- Node 08: Extraction Lead Zyrak (Extraction Siphon Ready)",
         "---",
-        "- Agent Sim   : Spd 6 -> 3 AP | HP 135/135 | SP +35 | Posture 75/75",
-        "- Agent Kwon  : Spd 5 -> 3 AP | HP 120/120 | SP +30 | Posture 65/65",
-        "- Agent Seo   : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
+        "- Specialist Sim   : Spd 6 -> 3 AP | HP 135/135 | SP +35 | Posture 75/75",
+        "- Specialist Kwon  : Spd 5 -> 3 AP | HP 120/120 | SP +30 | Posture 65/65",
+        "- Specialist Seo   : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
         "- Cenotaph A  : Spd 3 -> 1 AP | HP 134/260 | Posture 44/130 [CRACKED]",
         "- Cenotaph B  : Spd 4 -> 2 AP | HP 260/260 | Posture 130/130"
     ])
@@ -449,10 +449,10 @@ def get_day_12_combat():
         "---",
         "- Node 01: Cenotaph A (PULVERIZED TO DUST / Han Siphoned)",
         "- Node 02: Cenotaph B (Posture 68/130 / Stone Crown Vibrating)",
-        "- Node 03: Agent Sim (Momentum Surge Primed / +2 Speed Next Turn)",
-        "- Node 05: Agent Seo (Focusing High-Frequency Sonic Beam)",
+        "- Node 03: Specialist Sim (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 05: Specialist Seo (Focusing High-Frequency Sonic Beam)",
         "---",
-        "- Agent Sim   : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +35 | Posture 75/75",
+        "- Specialist Sim   : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +35 | Posture 75/75",
         "- Cenotaph A  : HP 0/260 [DESTROYED]",
         "- Cenotaph B  : Spd 3 -> 1 AP | HP 176/260 | Posture 68/130 [ENGAGED]"
     ])
@@ -463,11 +463,11 @@ def get_day_12_combat():
         "        [CENOTAPH-B][SIM]       [KWON]  [SEO]                   [ZYRAK] ",
         "---",
         "- Node 02: Cenotaph B (Unleashing 90dB Cognitive Wail / Siphoned)",
-        "- Node 03: Agent Sim (Directional Guard Absorption Active)",
-        "- Node 05: Agent Seo (High-Frequency Burst Cracking Stone Crown)",
+        "- Node 03: Specialist Sim (Directional Guard Absorption Active)",
+        "- Node 05: Specialist Seo (High-Frequency Burst Cracking Stone Crown)",
         "- Node 08: Extraction Lead Zyrak (Siphoning Excess Screech into Reserve)",
         "---",
-        "- Agent Sim   : Spd 8 -> 4 AP | HP 128/135 | SP +35 | Posture 67/75",
+        "- Specialist Sim   : Spd 8 -> 4 AP | HP 128/135 | SP +35 | Posture 67/75",
         "- Cenotaph B  : Spd 2 -> 1 AP | HP 84/260  | Posture 22/130 [CRACKED]"
     ])
 
@@ -478,8 +478,8 @@ def get_day_12_combat():
         "                [SIM]   [KWON]  [SEO]",
         "---",
         "- Node 02: Cenotaph B (TERMINAL STAGGER / POSTURE 0/130 / 2.0x DMG)",
-        "- Node 03: Agent Sim (Heavy Maul Strike Aimed at Monolith Base)",
-        "- Node 05: Agent Seo (Acoustic Cleave Severing Inscriptions)",
+        "- Node 03: Specialist Sim (Heavy Maul Strike Aimed at Monolith Base)",
+        "- Node 05: Specialist Seo (Acoustic Cleave Severing Inscriptions)",
         "---",
         "- Cenotaph B  : Spd 0 -> 0 AP | HP 18/260  | Posture 0/130 [COLLAPSED]"
     ])
@@ -490,7 +490,7 @@ def get_day_12_combat():
         "        [GRAVEL][SIM]   [KWON]  [SEO]                           [ZYRAK] ",
         "---",
         "- Node 02: Cenotaphs (Collapsed to Harmless Gravel / Han Siphoned)",
-        "- Node 03: Agent Sim (Clearing Corridor East)",
+        "- Node 03: Specialist Sim (Clearing Corridor East)",
         "---",
         "- Cenotaphs   : HP 0/260 [PURIFIED] | +0.022 TONS REFINED HAN HARVESTED"
     ])
@@ -502,11 +502,11 @@ def get_day_12_combat():
 
 ###### Turn 02 Action Resolution Log (Base Fracture & Stagger on Cenotaph A)
 - **Monolith Sunder & Sonic Focus**:
-  * Agent Sim pulverizes the base of Cenotaph A at Node 03, exploiting its Grudge vulnerability:
+  * Specialist Sim pulverizes the base of Cenotaph A at Node 03, exploiting its Grudge vulnerability:
     * Deals **46 Grudge Damage**!
     * Inflicts +36 Posture Strain. Cenotaph A Posture drops to **44/130**, breaching the **60% Posture Threshold (78 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The stone stele splits along its central inscription line.
-  * Agent Seo fires a sonic beam from Node 05, chipping 18 damage off Cenotaph B.
+  * Specialist Seo fires a sonic beam from Node 05, chipping 18 damage off Cenotaph B.
 
 ---
 
@@ -516,7 +516,7 @@ def get_day_12_combat():
 
 ###### Turn 03 Action Resolution Log (Cenotaph A Annihilation & Momentum Surge)
 - **Direct Grudge Sunder (1.5x Direct Damage)**:
-  * Agent Sim's `Momentum Surge` activates! (+2 Speed next turn). Sim delivers a massive overhead maul strike:
+  * Specialist Sim's `Momentum Surge` activates! (+2 Speed next turn). Sim delivers a massive overhead maul strike:
     * Deals **70 Grudge Damage**! Cenotaph A HP hits **0/260**!
     * Cenotaph A disintegrates into fine stone dust.
   * Seo concentrates sonic vibrations on Cenotaph B, dealing **34 damage**.
@@ -531,8 +531,8 @@ def get_day_12_combat():
 - **Hostile Desperation Screech**:
   * Cenotaph B unleashes a 90dB cognitive screech across the corridor.
   * Extraction Lead Zyrak engages the *Extraction Siphon*, redirecting 40% of the acoustic energy into floor storage cells!
-  * Agent Sim deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 128/135).
-  * Agent Seo fires a high-frequency burst into the stone crown, stripping 28 Posture points!
+  * Specialist Sim deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 128/135).
+  * Specialist Seo fires a high-frequency burst into the stone crown, stripping 28 Posture points!
   * Cenotaph B Posture drops to **16/130**!
 
 ---
@@ -566,14 +566,14 @@ def get_day_17_combat():
         "[LEVIATHAN]     [TAK]   [ZYRAK]         [HONG]  [JO]    [MARJUK]        ",
         "---",
         "- Node 01: Ash Leviathan (Posture 76/200 / Scales Pierced by Tak & Zyrak)",
-        "- Node 03: Agent Tak (Point-Blank Band 1 / Molten Blade Driving)",
+        "- Node 03: Specialist Tak (Point-Blank Band 1 / Molten Blade Driving)",
         "- Node 04: Extraction Lead Zyrak (Range Band 2 / Extraction Lance Siphoning)",
-        "- Node 06: Agent Hong & Jo (Range Band 3 / Choral Lament & Thermal Rays)",
+        "- Node 06: Specialist Hong & Jo (Range Band 3 / Choral Lament & Thermal Rays)",
         "- Node 08: Archive Lead Marjuk (Temporal Stasis Array Active)",
         "---",
-        "- Agent Tak   : Spd 6 -> 3 AP | HP 140/140 | SP +35 | Posture 80/80",
+        "- Specialist Tak   : Spd 6 -> 3 AP | HP 140/140 | SP +35 | Posture 80/80",
         "- Zyrak       : Spd 5 -> 3 AP | HP 180/180 | SP +40 | Posture 90/90",
-        "- Agent Hong  : Spd 5 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
+        "- Specialist Hong  : Spd 5 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65",
         "- Leviathan   : Spd 4 -> 2 AP | HP 260/420 | Posture 76/200 [CRACKED]"
     ])
 
@@ -583,11 +583,11 @@ def get_day_17_combat():
         "[LEVIATHAN]             [TAK]   [ZYRAK] [HONG]  [JO]    [MARJUK]        ",
         "---",
         "- Node 01: Leviathan (STAGGER LEVEL 1 / 1.5x DAMAGE / Posture 34/200)",
-        "- Node 03: Agent Tak (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 03: Specialist Tak (Momentum Surge Primed / +2 Speed Next Turn)",
         "- Node 04: Extraction Lead Zyrak (Siphoning Molten Core)",
         "- Node 06: Hong & Jo (Synchronized Four-Spectral Beam)",
         "---",
-        "- Agent Tak   : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP +35 | Posture 80/80",
+        "- Specialist Tak   : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP +35 | Posture 80/80",
         "- Zyrak       : Spd 5 -> 3 AP | HP 180/180 | SP +40 | Posture 90/90",
         "- Leviathan   : Spd 0 -> 0 AP | HP 142/420 | Posture 34/200 [STAGGERED]"
     ])
@@ -598,12 +598,12 @@ def get_day_17_combat():
         "[LEVIATHAN]     [TAK]   [ZYRAK]         [HONG]  [JO]    [MARJUK]        ",
         "---",
         "- Node 01: Leviathan (Recovered / Channeling Midnight Tidal Wave)",
-        "- Node 03: Agent Tak (Directional Guard Absorption Active)",
+        "- Node 03: Specialist Tak (Directional Guard Absorption Active)",
         "- Node 04: Extraction Lead Zyrak (Grounding Lance into Ash Surge)",
-        "- Node 06: Agent Jo (Prismatic Beam Burning off Thermal Crest)",
+        "- Node 06: Specialist Jo (Prismatic Beam Burning off Thermal Crest)",
         "- Node 08: Archive Lead Marjuk (Locking Stasis Field at 0.1x Speed)",
         "---",
-        "- Agent Tak   : Spd 8 -> 4 AP | HP 130/140 | SP +35 | Posture 68/80",
+        "- Specialist Tak   : Spd 8 -> 4 AP | HP 130/140 | SP +35 | Posture 68/80",
         "- Leviathan   : Spd 3 -> 1 AP | HP 74/420  | Posture 16/200 [BURNING]"
     ])
 
@@ -614,7 +614,7 @@ def get_day_17_combat():
         "        [TAK]   [ZYRAK] [HONG]  [JO]",
         "---",
         "- Node 01: Leviathan (TERMINAL STAGGER / POSTURE 0/200 / 2.0x DMG)",
-        "- Node 02: Agent Tak & Zyrak (Driving Dual Piercers into Spinal Vent)",
+        "- Node 02: Specialist Tak & Zyrak (Driving Dual Piercers into Spinal Vent)",
         "- Node 03: Hong & Jo (Disrupting Residual Thermal Flow)",
         "---",
         "- Leviathan   : Spd 0 -> 0 AP | HP 22/420  | Posture 0/200 [COLLAPSED]"
@@ -638,7 +638,7 @@ def get_day_17_combat():
 
 ###### Turn 02 Action Resolution Log (Scale Pierce & Stagger Build)
 - **Multi-Operative Sunder & Lament Focus**:
-  * Agent Tak drives the molten blade into the leviathan's ash mantle at Node 03, while Zyrak thrusts the Extraction Lance at Node 04:
+  * Specialist Tak drives the molten blade into the leviathan's ash mantle at Node 03, while Zyrak thrusts the Extraction Lance at Node 04:
     * Deals **52 Combined Grudge/Kinetic Damage**!
     * Inflicts +42 Posture Strain. Leviathan Posture drops to **76/200**, breaching the **60% Posture Threshold (120 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The volcanic scales crack open, exposing glowing magma flesh.
@@ -652,7 +652,7 @@ def get_day_17_combat():
 
 ###### Turn 03 Action Resolution Log (Magma Sunder & Momentum Surge)
 - **Coordinated Focus (1.5x Direct Damage)**:
-  * Agent Tak's `Momentum Surge` activates! (+2 Speed next turn). Tak delivers a sweeping fire slash:
+  * Specialist Tak's `Momentum Surge` activates! (+2 Speed next turn). Tak delivers a sweeping fire slash:
     * Deals **68 Damage**!
   * Hong and Jo unleash synchronized elemental beams: **50 Damage**!
   * Leviathan HP falls to **142/420**! Posture drops to **34/200**!
@@ -667,8 +667,8 @@ def get_day_17_combat():
 - **Hostile Desperation Tidal Wave**:
   * The leviathan attempts to unleash `[Midnight Tidal Wave]`, flooding Floor 6 with boiling ash.
   * Archive Lead Marjuk engages the *Temporal Stasis Array*, slowing the ash wave to 0.1x velocity!
-  * Agent Jo focuses the prismatic beam, incinerating the entity's thermal crest!
-  * Agent Tak deploys `[Directional Guard Absorption]`, taking 10 chip damage (HP: 130/140).
+  * Specialist Jo focuses the prismatic beam, incinerating the entity's thermal crest!
+  * Specialist Tak deploys `[Directional Guard Absorption]`, taking 10 chip damage (HP: 130/140).
   * Leviathan Posture falls to **16/200**!
 
 ---

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1012` — The Wrath Flame  
 **Source SECC Designation:** `O-IIIβ-120 [GS]`  
 **Item Registry Code:** `MAW-S-1012-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Wrath Flame — Witnessed Form*, The Rage Plate performs the suit ro
 **Document ID:** `SE-1012-C`  
 **Linked Entity:** `SE-1012`  
 **Item Registry Code:** `MAW-S-1012-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

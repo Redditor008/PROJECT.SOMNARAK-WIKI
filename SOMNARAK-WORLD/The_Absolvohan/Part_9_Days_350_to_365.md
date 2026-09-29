@@ -49,7 +49,7 @@ Daily operations no longer center around extraction quotas or stress management.
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 350 SHIFT      |
 +---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
+| FLOOR & SECTOR     | SPECIALISTS | LEAD AURA |
 +=====================+========+===============+
 | F1: Central Command | 14 Op  | Seiyon: Sync  |
 |                     |        | Directive     |
@@ -123,28 +123,28 @@ Strain telemetry remains at absolute zero across all sectors. The former contain
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 350  |
 +--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
+| ENTITY & SPECIALIST   | WORK   | GAUGE | HAN |
 +====================+========+=======+========+
 | SE-001 (Bell)      | Flere  | -00%  | +0.01  |
-| Agent Park Grade 4 | Comm   | PEACE | 20 OP  |
+| Park Grade 4       | Comm   | PEACE | 20 OP  |
 +--------------------+--------+-------+--------+
 | SE-005 (Mother)    | Ferre  | -00%  | +0.01  |
-| Agent Kim Grade 4  | Comm   | PEACE | 22 OP  |
+| Kim Grade 4        | Comm   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | SE-081 (Saint)     | Flere  | -00%  | +0.01  |
-| Agent Hong Grade 4 | Comm   | PEACE | 25 OP  |
+| Hong Grade 4       | Comm   | PEACE | 25 OP  |
 +--------------------+--------+-------+--------+
 | SE-140 (Willow)    | Flere  | -00%  | +0.01  |
-| Agent Bae Grade 4  | Comm   | PEACE | 21 OP  |
+| Bae Grade 4        | Comm   | PEACE | 21 OP  |
 +--------------------+--------+-------+--------+
 | SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
-| Agent Yoo Grade 4  | Comm   | PEACE | 20 OP  |
+| Yoo Grade 4        | Comm   | PEACE | 20 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+
 ```
 
-Agent Park sits in the sunny pavilion beside SE-C-IIIγ-001, polishing its bronze crest while listening to its sweet, melodic chime. The communion produces 0.01 tons of sparkling Han that powers the children's hospital.
+Specialist Park sits in the sunny pavilion beside SE-C-IIIγ-001, polishing its bronze crest while listening to its sweet, melodic chime. The communion produces 0.01 tons of sparkling Han that powers the children's hospital.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -200,11 +200,11 @@ Zero Ordeals manifested on Day 350. The defensive weapons across all sectors hav
 
 - **Source Entity:** SE-C-IIIγ-001 (*The Bell of Peace*)
 - **Extracted Armament:** *Chime of the Open Gate* (Special/Pocket Slot)
-- **Gift Properties:** Grants the bearer the ability to summon a warm, soothing breeze that dispels sorrow and calms emotional unrest within 50 meters. Bestowed upon Agent Park.
+- **Gift Properties:** Grants the bearer the ability to summon a warm, soothing breeze that dispels sorrow and calms emotional unrest within 50 meters. Bestowed upon Specialist Park.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
-At 02:00, Majin walks through the central garden of Floor 2. The moonlight streams down through the open glass dome. On a park bench, Agent Kim sleeps peacefully with his head resting against the lap of the Smothering Mother, who strokes his hair with gentle, woolen hands.
+At 02:00, Majin walks through the central garden of Floor 2. The moonlight streams down through the open glass dome. On a park bench, Specialist Kim sleeps peacefully with his head resting against the lap of the Smothering Mother, who strokes his hair with gentle, woolen hands.
 
 Majin watches them with a quiet smile: *"Sleep in peace, Kim. The night has no claws left."*
 
@@ -244,7 +244,7 @@ Operations focus entirely on humanitarian integration and hospitality, yielding 
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 355 SHIFT      |
 +---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
+| FLOOR & SECTOR     | SPECIALISTS | LEAD AURA |
 +=====================+========+===============+
 | F1: Central Command | 14 Op  | Seiyon: Sync  |
 |                     |        | Directive     |
@@ -314,7 +314,7 @@ Strain monitors remain at absolute zero. The energy grid hums in effortless reso
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 355  |
 +--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
+| ENTITY & SPECIALIST   | WORK   | GAUGE | HAN |
 +====================+========+=======+========+
 | GATE 05 (Home)     | Flere  | -00%  | +0.01  |
 | Lead Mellda        | Welcom | PEACE | 25 OP  |
@@ -437,7 +437,7 @@ Daily operational harvest remains tranquil, generating 0.021 tons of ambient Han
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 360 SHIFT      |
 +---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
+| FLOOR & SECTOR     | SPECIALISTS | LEAD AURA |
 +=====================+========+===============+
 | F1: Central Command | 14 Op  | Seiyon: Sync  |
 |                     |        | Directive     |
@@ -508,28 +508,28 @@ Strain monitors confirm complete temporal normalization. SE-C-IIIβ-044 (*The Br
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 360  |
 +--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
+| ENTITY & SPECIALIST   | WORK   | GAUGE | HAN |
 +====================+========+=======+========+
 | SE-044 (The Clock) | Videre | -00%  | +0.01  |
-| Agent Kwon Grade 4 | Sync   | PEACE | 22 OP  |
+| Kwon Grade 4       | Sync   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Videre | -00%  | +0.01  |
-| Agent Kang Grade 4 | Sync   | PEACE | 23 OP  |
+| Kang Grade 4       | Sync   | PEACE | 23 OP  |
 +--------------------+--------+-------+--------+
 | SE-115 (Well)      | Videre | -00%  | +0.01  |
-| Agent Seo Grade 4  | Sync   | PEACE | 24 OP  |
+| Seo Grade 4        | Sync   | PEACE | 24 OP  |
 +--------------------+--------+-------+--------+
 | SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
-| Agent Yoo Grade 4  | Sync   | PEACE | 21 OP  |
+| Yoo Grade 4        | Sync   | PEACE | 21 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -00%  | +0.01  |
-| Agent Park Grade 4 | Sync   | PEACE | 22 OP  |
+| Park Grade 4       | Sync   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+
 ```
 
-Agent Kwon stood before SE-C-IIIβ-044 as its pendulum swung past midnight. For the first time, the clock did not reset to 00:00:00; it ticked forward to 00:00:01, yielding 0.01 tons of luminescent golden Han.
+Specialist Kwon stood before SE-C-IIIβ-044 as its pendulum swung past midnight. For the first time, the clock did not reset to 00:00:00; it ticked forward to 00:00:01, yielding 0.01 tons of luminescent golden Han.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -643,7 +643,7 @@ The Absolvohan chronicle is finished. The cycle is broken. The world begins.
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 365 SHIFT      |
 +---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
+| FLOOR & SECTOR     | SPECIALISTS | LEAD AURA |
 +=====================+========+===============+
 | F1: Central Command | 14 Op  | Seiyon: Sync  |
 |                     |        | Directive     |
@@ -715,7 +715,7 @@ The facility's containment strain monitors have been permanently transformed int
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 365  |
 +--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
+| ENTITY & SPECIALIST   | WORK   | GAUGE | HAN |
 +====================+========+=======+========+
 | THE NEW PLANET     | Flere  | -00%  | DAWN   |
 | All Humanity       | Love   | PEACE | LIFE   |

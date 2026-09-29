@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1039` — Labyrinth of the Unfinished Mind  
 **Source SECC Designation:** `C-IVδ-909 [VP]`  
 **Item Registry Code:** `MAW-W-1039-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the U
 **Document ID:** `SE-1039-B`  
 **Linked Entity:** `SE-1039`  
 **Item Registry Code:** `MAW-W-1039-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -4,7 +4,7 @@
 **Document ID:** `SE-723-D`  
 **Linked Entity:** `SE-723` — The Vanished Rope  
 **Item Registry Code:** `MAW-G-723-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Severed Knot is the gift of the Vanished Rope’s set — tail-slot, granted
 **Document ID:** `SE-723-D`  
 **Linked Entity:** `SE-723`  
 **Item Registry Code:** `MAW-G-723-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

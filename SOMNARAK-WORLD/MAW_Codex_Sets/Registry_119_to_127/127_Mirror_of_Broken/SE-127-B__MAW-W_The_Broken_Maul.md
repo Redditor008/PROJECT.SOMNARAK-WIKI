@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / γ — Major / Weight — Black |
 | Status | Active; Gate Watch partner requirement |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A black Han-steel maul with mirrored fracture lines across its head; each line reflects a different angle of the bearer’s face. |
 | Active form | The fracture lines open into multiple black impact paths, all converging only at the chosen endpoint. |
 | Recognition rule | The Maul balances only after the bearer names more than one self-history they carry. |

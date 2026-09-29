@@ -146,7 +146,7 @@ The UCD operates not as a monolithic police force, but as an integrated multi-ag
 ### 4. Division 04: Contraband Entity Containment & Transfer (밀수 개체 격리 및 이송과)
 - **Liaison Agency:** Reverie Directorate (Containment & Extraction Division).
 - **Operational Mandate:** Neutralization and containment of weaponized Sorrow Entities. When cartels deploy feral, tortured entities as guard beasts or gladiators, Division 04 handlers deploy resonance snares, portable damping projectors, and leaded-basalt vacuum casks. Under inter-corporate treaty, Division 04 manages the secure transit of all seized entities directly to Reverie Directorate Floor 2 (The Maw's Keep).
-- **Lead Officer:** Lead External Field Agent Soojin ("The Lead Binder").
+- **Lead Officer:** Lead External Field Specialist Soojin ("The Lead Binder").
 
 ### 5. Division 05: Tactical Sapping & Combat Fortification (전술 공병 및 방벽 구축과)
 - **Liaison Agency:** Architects Guild (Structural Defense Directorate).
@@ -215,7 +215,7 @@ The UCD maintains a permanent, highly disciplined workforce of 1,610 sworn offic
 | **Mnemonic Forensic Archivists** | 140 Sworn Investigators | The Keepers Archive | Memory Recovery, Data Extraction & Census Matching |
 | **Entity Containment Specialists** | 160 Field Handlers | Reverie Directorate Logistics | Entity Suppression, Cask Sealing & Escort |
 | **Combat Engineers & Sappers** | 220 Sapper Mechanics | Architects Guild | Door Breaching, Shoring & Barricade Deployment |
-| **Shadow Scouts & Infiltrators** | 70 Field Agents | Reformed Underworld Defectors | Clandestine Scouting, Intel & Wiretapping |
+| **Shadow Scouts & Infiltrators** | 70 Field Specialists | Reformed Underworld Defectors | Clandestine Scouting, Intel & Wiretapping |
 | **Administrative & Medical Staff** | 120 Medical Personnel | Municipal Health & Command | Trauma Surgery, Logistics & Communications |
 
 ---
@@ -228,8 +228,8 @@ The UCD maintains a permanent, highly disciplined workforce of 1,610 sworn offic
 | **Tier 5: Directorate** | **Division Director** | 부문국장 (Bumungukjang) | Senior institutional liaisons overseeing specific forensic or sapping divisions |
 | **Tier 4: Tactical Lead**| **Strike Squad Captain** | 타격대장 (Tageukdaejang) | Field commanders leading breaching squads (12–24 officers) during live raids |
 | **Tier 3: Field Officer**| **Lead Specialist** | 선임전문관 (Seonimjeonmungwan)| Senior technical operators directing sonic batteries, centrifuges, and casks |
-| **Tier 2: Senior Agent** | **Phalanx Sentinel** | 진압사 (Jinapsa) | Experienced combat wardens forming the frontline phalanx behind heavy mantlets |
-| **Tier 1: Junior Agent** | **Patrol Officer** | 기동대원 (Gidongdaewon) | Sworn personnel handling street cordons, surveillance, and civilian screening |
+| **Tier 2: Senior Specialist** | **Phalanx Sentinel** | 진압사 (Jinapsa) | Experienced combat wardens forming the frontline phalanx behind heavy mantlets |
+| **Tier 1: Junior Specialist** | **Patrol Officer** | 기동대원 (Gidongdaewon) | Sworn personnel handling street cordons, surveillance, and civilian screening |
 
 1. **Task Force High Commander (총지휘관 / Tier 6):** Absolute operational, tactical, and judicial authority over the UCD. Directly answers to the High Council of Sighs. Authorizes deployment of heavy armor, sector cordons, and emergency kinetic strikes. (Held by Commander Taeho).
 2. **Division Directors (국장급 / Tier 5):** Senior institutional liaisons overseeing the six divisions (Chief Auditor Yuna, Chief Archivist Minho, Chief Engineer Joon, Senior Handler Soojin).

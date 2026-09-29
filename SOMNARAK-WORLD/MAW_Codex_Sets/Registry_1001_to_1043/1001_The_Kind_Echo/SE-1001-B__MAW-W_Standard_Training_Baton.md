@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1001` — The Kind Echo  
 **Source SECC Designation:** `C-Iα-000 [LS]`  
 **Item Registry Code:** `MAW-W-1001-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** α / Lament  
-**Canonical ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new agents how M.A.W. weapons feel in the hand.  
+**Canonical ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new specialists how M.A.W. weapons feel in the hand.  
 **Binding rule:** the bearer names The Kind Echo's event—The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.—and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
 
 ## CORE STATISTICS
@@ -50,7 +50,7 @@ Within *The Kind Echo — Witnessed Form*, Standard Training Baton performs the 
 **Document ID:** `SE-1001-B`  
 **Linked Entity:** `SE-1001`  
 **Item Registry Code:** `MAW-W-1001-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

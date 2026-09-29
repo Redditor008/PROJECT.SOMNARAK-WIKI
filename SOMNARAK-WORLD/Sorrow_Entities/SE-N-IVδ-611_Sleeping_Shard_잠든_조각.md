@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its dreams are visible to personnel near the Gate.
 - Its tears contain no liquid outside the Dream layer.
 
-**Personnel Note:** *"I felt longing. The Shard was asleep because waking would make the grief real again."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt longing. The Shard was asleep because waking would make the grief real again."* — Specialist, Zone B patrol
 
 
 

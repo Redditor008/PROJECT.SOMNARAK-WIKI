@@ -53,13 +53,13 @@ The number of work sessions required to fill a single meltdown level scales with
 | Meltdown Level | Overloaded Cells | Triggered Ordeal Event | Operational Threat Level |
 |---|---|---|---|
 | **Level I** | 1 Cell | None | Negligible; routine orientation. |
-| **Level II** | 2 Cells | First Watch (Dawn) Ordeal | Low; minor corridor pests. |
+| **Level II** | 2 Cells | First Watch Ordeal | Low; minor corridor pests. |
 | **Level III** | 3 Cells | None (or Dawn on late days) | Moderate; cell management required. |
-| **Level IV** | 4 Cells | Second Watch (Noon) Ordeal | High; combat squads required. |
+| **Level IV** | 4 Cells | Second Watch Ordeal | High; combat squads required. |
 | **Level V** | 5 Cells | None | Substantial; multiple cell alarms. |
-| **Level VI** | 6 Cells | Third Watch (Dusk) Ordeal | Critical; multi-floor breaches possible. |
+| **Level VI** | 6 Cells | Third Watch Ordeal | Critical; multi-floor breaches possible. |
 | **Level VII** | 7 Cells | None | Extreme; facility near boiling point. |
-| **Level VIII** | 8 Cells | Tide Watch (Midnight) Ordeal | Lethal; existential crisis. |
+| **Level VIII** | 8 Cells | Tide Watch Ordeal | Lethal; existential crisis. |
 | **Level IX** | 9 Cells | Simultaneous Multi-Breaches | Catastrophic; absolute lockdown. |
 | **Level X** | 10+ Cells | Total Resonance Collapse | Terminal; facility-wide cascade breach. |
 

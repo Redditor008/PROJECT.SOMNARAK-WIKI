@@ -7,7 +7,7 @@
 **Document ID:** `SE-378-A`  
 **Related Entity ID:** `SE-378`  
 **SECC Designation:** `O-IIβ-378 [LS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -48,7 +48,7 @@ Bell carries one call, Shroud anchors breathing, and Requiem removes drowning pr
 
 **Document ID:** `SE-378-A`  
 **Linked Entity:** `SE-378`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

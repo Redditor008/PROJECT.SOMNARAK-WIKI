@@ -7,7 +7,7 @@
 **Document ID:** `SE-476-D`  
 **Linked Entity:** `SE-476` — Sehnsucht  
 **Item Registry Code:** `MAW-G-476-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -32,7 +32,7 @@ The Sehnsucht Shard is a cold black head-shard of Han steel that rises only afte
 **Document ID:** `SE-476-D`  
 **Linked Entity:** `SE-476`  
 **Item Registry Code:** `MAW-G-476-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

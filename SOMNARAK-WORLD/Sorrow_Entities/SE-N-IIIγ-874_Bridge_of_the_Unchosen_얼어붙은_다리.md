@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The destination changes according to the observer's regret.
 - It becomes stable when the worker accepts the present path.
 
-**Personnel Note:** *"I felt emptiness. The Bridge was not broken; it was waiting for a life that had never begun."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt emptiness. The Bridge was not broken; it was waiting for a life that had never begun."* — Specialist, Zone D patrol
 
 
 

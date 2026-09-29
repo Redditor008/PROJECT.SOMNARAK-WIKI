@@ -48,7 +48,7 @@ tools/
 Specialized inspection scripts for specific subsets of the archive (e.g., verifying the Two-Work-Type rule across Object/Place/Time SEs, threat tier distributions, or ordeal rosters).
 
 ### `builders/`
-Historical generation scripts used during major lore expansion milestones (Story Cantos, Memory Archive receptions, Katabagil descent passages, Katharcheok pacification operations). Retained for reproducibility.
+Historical generation scripts used during major lore expansion milestones (Story Cantos, Memory Archive readings, Katabagil descent passages, Katharcheok pacification operations). Retained for reproducibility.
 
 ### `repairs_and_patches/`
 Historical one-off repair scripts from past audit rounds (e.g., splice elimination passes, box width harmonizations, and archived utility drafts like `audit_two_work_rule_fixed.py`).

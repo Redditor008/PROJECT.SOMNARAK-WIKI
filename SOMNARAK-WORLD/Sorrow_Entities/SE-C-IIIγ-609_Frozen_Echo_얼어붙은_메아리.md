@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is cold physically and emotionally.
 - Personnel report loss after contact.
 
-**Personnel Note:** *"I felt loss. The Echo carried every hand that held it, but no hand remained long enough to call it theirs."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt loss. The Echo carried every hand that held it, but no hand remained long enough to call it theirs."* — Specialist, Zone B patrol
 
 
 

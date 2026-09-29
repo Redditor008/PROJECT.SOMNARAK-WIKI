@@ -405,7 +405,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 **Document ID:** SE-C-IIβ-947
 
-**Author:** Agent Iseulfros Kim
+**Author:** Specialist Iseulfros Kim
 
 **Date:** Year 4238
 

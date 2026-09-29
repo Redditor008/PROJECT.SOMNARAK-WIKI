@@ -7,7 +7,7 @@
 **Document ID:** `SE-247-B`  
 **Linked Entity:** `SE-247` — Unopened Bloom  
 **Item Registry Code:** `MAW-W-247-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm identifies the original tear; Plate guards; Sword treats only new injury. 
 **Document ID:** `SE-247-B`  
 **Linked Entity:** `SE-247`  
 **Item Registry Code:** `MAW-W-247-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

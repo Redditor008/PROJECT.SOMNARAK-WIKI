@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, black link charm / β — Moderate / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; group-consent use only |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A single open black chain link that closes only in reflection. |
 | Active form | Fine dark lines extend between consenting people whose obligations affect one another. |
 | Recognition rule | It shows no connection for anyone who has not consented to the mapping. |

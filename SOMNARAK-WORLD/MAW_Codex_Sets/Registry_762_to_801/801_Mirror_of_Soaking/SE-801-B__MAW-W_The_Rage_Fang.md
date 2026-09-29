@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-801` — Mirror of Soaking  
 **Source SECC Designation:** `N-IIβ-801 [GO]`  
 **Item Registry Code:** `MAW-W-801-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Mirror of Soaking — Witnessed Form*, The Rage Fang performs the weapon
 **Document ID:** `SE-801-B`  
 **Linked Entity:** `SE-801`  
 **Item Registry Code:** `MAW-W-801-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

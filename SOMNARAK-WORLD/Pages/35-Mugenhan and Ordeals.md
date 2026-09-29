@@ -60,14 +60,14 @@ Ordeals embody distinct philosophical and elemental catastrophes:
 ## 4 The Four Watches and Tactical Timing
 
 Ordeals manifest according to the facility's shift clock:
-- **First Watch (Dawn):** Early shift alert (Meltdown Level II–III); minor nuisances easily handled by single specialists.
-- **Second Watch (Noon):** Mid-shift challenge (Meltdown Level IV–V); robust constructs requiring coordinated departmental squads.
-- **Third Watch (Dusk):** Late-shift crisis (Meltdown Level VI–VII); massive multi-segment monsters that split into smaller horrors upon destruction.
-- **Tide Watch (Midnight):** Final existential trial (Meltdown Level VIII+); colossal city-destroying phenomena capable of wiping out entire floors if not countered with full facility mobilization.
+- **First Watch:** Early shift alert (Meltdown Level II–III); minor nuisances easily handled by single specialists.
+- **Second Watch:** Mid-shift challenge (Meltdown Level IV–V); robust constructs requiring coordinated departmental squads.
+- **Third Watch:** Late-shift crisis (Meltdown Level VI–VII); massive multi-segment monsters that split into smaller horrors upon destruction.
+- **Tide Watch:** Final existential trial (Meltdown Level VIII+); colossal city-destroying phenomena capable of wiping out entire floors if not countered with full facility mobilization.
 
 ## 5 Master 5x4 Ordeals Tactical Response Matrix
 
-| Color Axis | First Watch (Dawn) | Second Watch (Noon) | Third Watch (Dusk) | Tide Watch (Midnight) |
+| Color Axis | First Watch | Second Watch | Third Watch | Tide Watch |
 |---|---|---|---|---|
 | **GREY** | *Doubtful Cog* (Solo Red) | *Clockwork Sentry* (Squad Red) | *Automaton Colossus* (Kiting) | *World Machine* (Floor Focus) |
 | **RED** | *Crawling Grief* (Rapid Slash) | *Devouring Pack* (Choke Trap) | *Crimson Maw* (Shield Rotate) | *Beast of the Abyss* (Vanguard) |
@@ -79,14 +79,14 @@ Ordeals manifest according to the facility's shift clock:
 
 1. **Preemptive Muster:** Position combat squads in central hallway intersections before triggering the work session that advances the meltdown gauge to an Ordeal threshold.
 2. **Elemental Matching:** Match weapon pressures against Ordeal vulnerabilities (e.g., engage GREY Ordeals with Black/Weight weapons; strike VIOLET monoliths with Red/Grudge arms).
-3. **Clerk Evacuation:** Order non-combat clerks into fortified Main Rooms to prevent mass slaughter and cascading panic breakdowns.
+3. **Auxiliary Evacuation:** Order non-combat auxiliaries into fortified Main Rooms to prevent mass slaughter and cascading panic breakdowns.
 4. **Relic Synchronization:** Deploy [28-The Echo Compass](28-The%20Echo%20Compass.md) to track stealth incursions, or equip [30-The Debt Scale](30-The%20Debt%20Scale.md) to neutralize PALE executioners.
 
 ## 7 Gallery
 
 [![Mugenhan Lattice Map](images/mugenhan-lattice-map.svg)](images/mugenhan-lattice-map.svg)
-[![Violet Ordeal Monolith](images/violet-ordeal-monolith.svg)](images/violet-ordeal-monolith.svg)
-[![Midnight Incursion Battle](images/midnight-incursion-battle.svg)](images/midnight-incursion-battle.svg)
+[![Violet Ordeal Monolith](images/purple-ordeal-monolith.svg)](images/purple-ordeal-monolith.svg)
+[![Midnight Incursion Battle](images/tide-watch-incursion-battle.svg)](images/tide-watch-incursion-battle.svg)
 
 *Left: geological map of the Mugenhan lattice; Center: Violet Ordeal obelisk; Right: Tide Watch suppression.*
 ---

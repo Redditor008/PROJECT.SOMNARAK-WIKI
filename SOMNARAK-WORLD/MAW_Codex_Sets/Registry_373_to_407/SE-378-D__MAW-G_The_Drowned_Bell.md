@@ -7,7 +7,7 @@
 **Document ID:** `SE-378-D`  
 **Linked Entity:** `SE-378` — Fathom  
 **Item Registry Code:** `MAW-G-378-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -32,7 +32,7 @@ The Drowned Bell is a hot-blue tail-bell that transmits voice as pressure throug
 **Document ID:** `SE-378-D`  
 **Linked Entity:** `SE-378`  
 **Item Registry Code:** `MAW-G-378-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -252,7 +252,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Personnel who acknowledge him report a heightened sense of purpose lasting several days.
 
 **Personnel Note:**
-> *"I said the words. The Soldier saluted me. For a moment I felt like I mattered—like someone would remember me too."* — Agent Hanul Grey, Zone B night patrol
+> *"I said the words. The Soldier saluted me. For a moment I felt like I mattered—like someone would remember me too."* — Specialist Hanul Grey, Zone B night patrol
 
 
 

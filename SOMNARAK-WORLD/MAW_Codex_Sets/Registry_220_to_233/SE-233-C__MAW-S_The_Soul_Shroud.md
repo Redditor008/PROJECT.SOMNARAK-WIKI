@@ -7,7 +7,7 @@
 **Document ID:** `SE-233-C`  
 **Linked Entity:** `SE-233` — Soul the Ledgers Lost  
 **Item Registry Code:** `MAW-S-233-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -51,7 +51,7 @@ Shroud holds the human position in *The Unclaimed Walk*. Thread maintains recogn
 **Document ID:** `SE-233-C`  
 **Linked Entity:** `SE-233`  
 **Item Registry Code:** `MAW-S-233-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

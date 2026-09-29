@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-210` — Levity  
 **Item Registry Code:** `MAW-G-210-01`  
 **Entity Designation:** `C-IIβ-210 [VO]`  
-**Author:** Agent Hanul Grey, Junior Containment Agent  
+**Author:** Specialist Hanul Grey, Junior Containment Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -24,7 +24,7 @@ A genuine Facade has no painted features. Asked to perform on command, it repeat
 
 The Gift cannot be extracted or manufactured. Levity grants it at random after successful work; the registered probability is 5%. Bestowal does not authorize activation.
 
-**Bestowal record:** Agent Hanul Grey received the Facade after a supervised Ferrehan session in which Levity laughed for hours and Hanul remained present without answering the performance. When the Gauge fell below 25%, the mask stopped. The charm appeared at Hanul’s temple as his removal partner asked whether he wanted silence or company. No one laughed during acquisition.
+**Bestowal record:** Specialist Hanul Grey received the Facade after a supervised Ferrehan session in which Levity laughed for hours and Hanul remained present without answering the performance. When the Gauge fell below 25%, the mask stopped. The charm appeared at Hanul’s temple as his removal partner asked whether he wanted silence or company. No one laughed during acquisition.
 
 The Facade binds only when a second person agrees to remove it. It gives no response to an applicant working alone.
 
@@ -107,14 +107,14 @@ Levity copies the Facade more accurately than it copies an uncovered person. The
 
 The Facade is not therapeutic and does not create happiness. It is an emergency concealment effect derived from the exact behavior that formed Levity: continuing to entertain after grief had made entertainment hollow. Any policy requiring its use to preserve public confidence repeats the source wound.
 
-> *“If I sound cheerful, check the route. If I sound exactly like myself, check me.”* — Agent Hanul Grey
+> *“If I sound cheerful, check the route. If I sound exactly like myself, check me.”* — Specialist Hanul Grey
 
 ---
 
 **Document ID:** `SE-210-D`  
 **Linked Entity:** `SE-210`  
 **Item Registry Code:** `MAW-G-210-01`  
-**Author:** Agent Hanul Grey, Junior Containment Agent  
+**Author:** Specialist Hanul Grey, Junior Containment Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is strongest near The Scar.
 - It does not distinguish rescue from impossible return.
 
-**Personnel Note:** *"I felt rage. The tears were warm because the Bridge still believed someone could have crossed."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt rage. The tears were warm because the Bridge still believed someone could have crossed."* — Specialist, Zone D patrol
 
 
 

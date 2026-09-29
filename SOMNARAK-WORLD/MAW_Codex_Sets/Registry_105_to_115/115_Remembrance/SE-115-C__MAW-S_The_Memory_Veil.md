@@ -87,7 +87,7 @@ Minseo wore the Veil during a controlled Well review while cataloguing a memory 
 
 The Veil is the identity safeguard in *Witness Without Possession*. The Lens can separate an echo and the Flask can preserve a permitted one; this suit ensures the bearer remains a witness rather than becoming another vessel.
 
-> *“Memory work fails when the person doing it disappears from their own record.”* — Agent Iseulfros Kim
+> *“Memory work fails when the person doing it disappears from their own record.”* — Specialist Iseulfros Kim
 
 ---
 

@@ -254,7 +254,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its rage affects personnel who stand before it.
 - It becomes more active during the Sorrow Tide.
 
-**Personnel Note:** *"It was singing. I felt rage. The song was the sound of a strike that had waited too long to land."* — Agent, Zone D patrol
+**Personnel Note:** *"It was singing. I felt rage. The song was the sound of a strike that had waited too long to land."* — Specialist, Zone D patrol
 
 
 

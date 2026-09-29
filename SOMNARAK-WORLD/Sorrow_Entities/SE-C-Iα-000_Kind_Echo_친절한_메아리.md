@@ -1,6 +1,6 @@
 # Kind Echo — 친절한 메아리
 
-> *"The gentlest sorrow in our containment. We let new agents practice on it because it would never hurt them — and it knows that, and it is glad."*
+> *"The gentlest sorrow in our containment. We let new specialists practice on it because it would never hurt them — and it knows that, and it is glad."*
 
 ## SECC Classification
 
@@ -141,7 +141,7 @@
 
 ## Behavior
 
-> **Work Rule:** Subject entity; all four Work Types are equally effective. This entity is the training standard — the one new agents practice on first.
+> **Work Rule:** Subject entity; all four Work Types are equally effective. This entity is the training standard — the one new specialists practice on first.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -191,7 +191,7 @@ Appearance : A standardized pneumatic training carbine constructed from reinforc
 
 The weapon fires non-lethal compressed sorrow-pellets through an eight-groove rifled barrel. Its side gauge displays pressure levels calibrated in Sorrow Echo bars with an automatic safety release near the trigger.
 
-**Ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new agents how M.A.W. weapons feel in the hand.
+**Ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new specialists how M.A.W. weapons feel in the hand.
 **Cost:** None meaningful. The baton is inert enough for extended carry without toll.
 
 ### M.A.W. Suit — Standard Training Vest
@@ -220,13 +220,13 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Appearance:** A small, smooth, warm stone of pale blue Han-crystal that fits in the palm. It hums faintly.
 
 **Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
-**Cost:** None. The entity gives freely. Some agents carry their Warm Stone for their entire career.
+**Cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. arsenal. It is issued to every new agent during onboarding and is designed to teach the fundamentals of M.A.W. use — how a weapon feels, how a suit protects, how a Gift is granted — without risk. The Warm Stone Gift is the most commonly carried item in the R.D; many veteran agents still have theirs, long after upgrading to higher-grade equipment.
+The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. arsenal. It is issued to every new agent during onboarding and is designed to teach the fundamentals of M.A.W. use — how a weapon feels, how a suit protects, how a Gift is granted — without risk. The Warm Stone Gift is the most commonly carried item in the R.D; many veteran specialists still have theirs, long after upgrading to higher-grade equipment.
 
 ### Field Use Record
 
@@ -275,10 +275,10 @@ Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject
 "When the R.D. was founded, the first containment sweeps identified hundreds of Sorrow Entities across the city. One of them — found in the oldest corner of the Old Lament — was different. It was warm. It did not weep, wail, or attack. It glowed, softly, and hummed, gently, and when the first agent reached for it, it leaned in. We designated it 000 and gave it a permanent home in our training unit. It has trained every agent we have ever hired."
 
 **Entry 3 — <Excerpt from Counseling Log>**
-"They told me my first entity would be scary. It wasn't. It was warm, and it hummed, and I put my hand on it and it brightened. I practiced all four Work Types on it in one afternoon. It responded the same way to all of them — gently. I left the unit feeling like I could do this job. I think that is exactly what it wanted me to feel." — Trainee Agent Hanul Grey (하늘 그레이), Zone B, first day
+"They told me my first entity would be scary. It wasn't. It was warm, and it hummed, and I put my hand on it and it brightened. I practiced all four Work Types on it in one afternoon. It responded the same way to all of them — gently. I left the unit feeling like I could do this job. I think that is exactly what it wanted me to feel." — Trainee Specialist Hanul Grey (하늘 그레이), Zone B, first day
 
 **Entry 4 — <Containment Notice, Research Division>**
-Kind Echo requires no special containment. Its Sorrow Gauge is so stable that breach is practically impossible. The entity is available for training during all shifts. New agents should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Gift should be retained — it provides a minor but lasting comfort benefit.
+Kind Echo requires no special containment. Its Sorrow Gauge is so stable that breach is practically impossible. The entity is available for training during all shifts. New specialists should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Gift should be retained — it provides a minor but lasting comfort benefit.
 
 **Entry 5 — <Archive Note>**
 We do not know why the first settlers' kindness crystallized into an entity. Most sorrow in the Weeping is grief, rage, emptiness, or weight. This is none of those. This is the Lament of people who were kind in the dark. Perhaps that is also a kind of sorrow — the sorrow of caring, and knowing the caring cannot fix what is broken. Kind Echo cannot heal anyone. But it can make a frightened new agent feel, for one afternoon, that the sorrow is survivable. After 6,000 years, it is still doing exactly that. — Archive Lead Marjuk (마주크)
@@ -350,7 +350,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ## 증언 (Testimonium) — The Testimony
 
-> *"I was terrified. My hands were shaking. I reached for it and it was warm and I cried. Not because it hurt me. Because it didn't."* — Agent Hanul Grey (하늘 그레이), first day, Year 4210
+> *"I was terrified. My hands were shaking. I reached for it and it was warm and I cried. Not because it hurt me. Because it didn't."* — Specialist Hanul Grey (하늘 그레이), first day, Year 4210
 
 > *"It leans toward you when you enter. Every time. Even after six thousand years. Even after a hundred thousand trainees. It still leans toward you."* — Handler Soojin (수진), R.D.
 
@@ -360,7 +360,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 > *"I asked the Archive why it was designated 000. They said: because it was the first. Before we had a numbering system. Before we had a classification system. Before we had a facility. It was the first sorrow we ever chose to sit beside instead of run from."* — Chronicler Minseo (민서)
 
-> *"Some entities are dangerous. Some are tragic. Some are incomprehensible. Kind Echo is none of those. It is kind. That is its entire classification. And after everything this city has been through, the fact that kindness is still the first thing we teach our agents — that is the only hope the R.D. has ever had."* — Director Majin (마진), Year 4232
+> *"Some entities are dangerous. Some are tragic. Some are incomprehensible. Kind Echo is none of those. It is kind. That is its entire classification. And after everything this city has been through, the fact that kindness is still the first thing we teach our specialists — that is the only hope the R.D. has ever had."* — Director Majin (마진), Year 4232
 
 ## 기록 (Registrum) — The Record
 
@@ -395,7 +395,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 - Kind Echo is the only Sorrow Entity that is warm to the touch.
 - Designation 000 — the first entity ever contained by the R.D., before the numbering system existed.
-- The Warm Stone Gift is the most commonly carried item in the R.D; many veteran agents still have theirs.
+- The Warm Stone Gift is the most commonly carried item in the R.D; many veteran specialists still have theirs.
 - The entity's hum has been recorded and is used as a sleep aid in the R.D. infirmary.
 - It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 6,000 years.
 - The entity is the baseline for all entity comparisons: "more aggressive than 000" is the standard R.D. phrase for any hostile entity.

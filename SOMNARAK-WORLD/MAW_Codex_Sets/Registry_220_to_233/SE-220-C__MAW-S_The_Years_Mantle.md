@@ -7,7 +7,7 @@
 **Document ID:** `SE-220-C`  
 **Linked Entity:** `SE-220` — Walking Calendar  
 **Item Registry Code:** `MAW-S-220-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ The Mantle supplies the material chronology for *The Unabridged Years*. The Char
 **Document ID:** `SE-220-C`  
 **Linked Entity:** `SE-220`  
 **Item Registry Code:** `MAW-S-220-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

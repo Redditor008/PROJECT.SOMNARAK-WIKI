@@ -64,7 +64,7 @@ def build_codex():
         "  B-03: Haz-Scorchers Sanitation  | B-04: Contraband Smelting",
         "  B-05: Raw Shanty Housing        |",
         "---",
-        "ZONE C (COLLECTOR ROW) : FINANCIAL LEDGER & RECEPTION",
+        "ZONE C (COLLECTOR ROW) : FINANCIAL LEDGER & READING",
         "  C-01: Municipal Debt Registry   | C-02: Mnemonic Ledger Clearing",
         "  C-03: Usury Liquidation Bureau  | C-04: Cleansers Chemical Corp",
         "  C-05: Standard Coin & Crystal   |",
@@ -139,7 +139,7 @@ def build_codex():
     content.append("- **Authority:** Coordinates with the Collector Bureau to calculate mandatory labor hours and asset garnishments for indebted citizens.\n\n")
     content.append("### C-02: Mnemonic Ledger Clearinghouse (기억 원장 청산소)\n")
     content.append("- **Municipal Charter:** CORP-ZC-002\n")
-    content.append("- **Operational Domain:** Appraisal, archival, and financial liquidation of recovered memory fragments, Key Pages, and unrecorded personal records.\n")
+    content.append("- **Operational Domain:** Appraisal, archival, and financial liquidation of recovered memory fragments, Memory Leaves, and unrecorded personal records.\n")
     content.append("- **Institutional Link:** Works in direct commercial partnership with the Memory Archive (Gieok Jeojangso) on Floor 01.\n\n")
     content.append("### C-03: The Usury Liquidation Bureau (고리 청산 감찰국)\n")
     content.append("- **Municipal Charter:** CORP-ZC-003\n")

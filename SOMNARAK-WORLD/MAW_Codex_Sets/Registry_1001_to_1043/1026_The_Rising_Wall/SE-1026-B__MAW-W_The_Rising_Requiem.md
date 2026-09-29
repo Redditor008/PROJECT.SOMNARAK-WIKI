@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1026` — The Rising Wall  
 **Source SECC Designation:** `C-IVδ-255 [N]`  
 **Item Registry Code:** `MAW-W-1026-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Rising Wall — Witnessed Form*, The Rising Requiem performs the wea
 **Document ID:** `SE-1026-B`  
 **Linked Entity:** `SE-1026`  
 **Item Registry Code:** `MAW-W-1026-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

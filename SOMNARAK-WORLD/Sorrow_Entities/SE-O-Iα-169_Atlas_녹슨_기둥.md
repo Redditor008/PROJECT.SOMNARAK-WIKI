@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Rust appears after unshared labor.
 - Personnel feel sorrow rather than fear nearby.
 
-**Personnel Note:** *"It was watching. I felt sorrow. The Pillar had become a person only because no one had allowed it to stop being useful."* — Agent, Zone C patrol
+**Personnel Note:** *"It was watching. I felt sorrow. The Pillar had become a person only because no one had allowed it to stop being useful."* — Specialist, Zone C patrol
 
 
 
@@ -401,6 +401,6 @@ Some sorrows are about sacrifice. Atlas is about the sacrifice that became the s
 ## Document Information
 
 **Document ID:** SE-O-Iα-169
-**Author:** Agent Durivel Cho
+**Author:** Specialist Durivel Cho
 **Date:** Year 4238
 **Classification:** Restricted

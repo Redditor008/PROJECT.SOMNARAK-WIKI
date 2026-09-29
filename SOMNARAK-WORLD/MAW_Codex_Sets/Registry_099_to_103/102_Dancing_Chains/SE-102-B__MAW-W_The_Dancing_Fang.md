@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / γ — Major / Grudge — Crimson |
 | Status | Active; external-release partner mandatory |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A longer crimson fang whose handle is wrapped in a chain pattern that never closes into a loop. |
 | Active form | The blade moves one fraction after the bearer’s hand, as if finishing a motion someone else began. |
 | Recognition rule | The chain pattern opens at one link when the bearer has named the partner authorized to end use. |
@@ -31,7 +31,7 @@
 | Field | Record |
 |---|---|
 | Current-registry extraction | Year 4,238, Zone B; a controlled Ferrehan binding ended through an outside partner’s release cue |
-| Extraction authority | Zyrak, with Agent Durivel Cho supervising the external release rig |
+| Extraction authority | Zyrak, with Specialist Durivel Cho supervising the external release rig |
 | Entity state | Still after release; original I-Relic remained contained and unaltered |
 | Result | Three Fangs formed from shed crimson echo, not from removed chain links |
 

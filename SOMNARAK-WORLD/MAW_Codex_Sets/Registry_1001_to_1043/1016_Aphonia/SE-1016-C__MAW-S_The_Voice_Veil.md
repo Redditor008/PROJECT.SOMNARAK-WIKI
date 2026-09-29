@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1016` — Aphonia  
 **Source SECC Designation:** `N-IIβ-170 [VS]`  
 **Item Registry Code:** `MAW-S-1016-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Aphonia — Witnessed Form*, The Voice Veil performs the suit role while
 **Document ID:** `SE-1016-C`  
 **Linked Entity:** `SE-1016`  
 **Item Registry Code:** `MAW-S-1016-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

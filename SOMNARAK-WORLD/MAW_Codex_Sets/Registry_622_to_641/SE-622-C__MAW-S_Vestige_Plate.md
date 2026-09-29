@@ -7,7 +7,7 @@
 **Document ID:** `SE-622-C`  
 **Linked Entity:** `SE-622` — Vestige  
 **Item Registry Code:** `MAW-S-622-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ A missing plate at the left knee now warns against supporting reconstructions.
 
 Pendant finds the route, Plate keeps the witness safe, and Fang stops active erasure. Their shared purpose ends with a bounded history, not a permanent site.
 
-> *“The armor protected me from rage. It could not make the vanished road support my weight.”* — Agent Iseulfros Kim
+> *“The armor protected me from rage. It could not make the vanished road support my weight.”* — Specialist Iseulfros Kim
 
 ---
 
 **Document ID:** `SE-622-C`  
 **Linked Entity:** `SE-622`  
 **Item Registry Code:** `MAW-S-622-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

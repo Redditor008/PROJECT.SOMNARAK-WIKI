@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-948` — The Foam Flood  
 **Source SECC Designation:** `C-IIIγ-948 [LO]`  
 **Item Registry Code:** `MAW-W-948-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *The Foam Flood — Witnessed Form*, The Skyward Spear performs the weapo
 **Document ID:** `SE-948-B`  
 **Linked Entity:** `SE-948`  
 **Item Registry Code:** `MAW-W-948-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

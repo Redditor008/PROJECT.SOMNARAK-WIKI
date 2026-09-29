@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is most active around funerals and departures.
 - Its roots do not damage the Gardens.
 
-**Personnel Note:** *"It was quiet. I felt fear. The Willow was not frightening because it attacked; it was frightening because it mourned endings I had not yet reached."* — Agent, Zone D patrol
+**Personnel Note:** *"It was quiet. I felt fear. The Willow was not frightening because it attacked; it was frightening because it mourned endings I had not yet reached."* — Specialist, Zone D patrol
 
 
 
@@ -399,6 +399,6 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-140
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Open

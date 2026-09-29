@@ -337,7 +337,7 @@ Weighting Bird must be assessed as part of an entity network, not as an isolated
 
 To judge another person's sorrow is to carry a piece of it forever. Weighting Bird was born from those who learned this too late.
 
-The Collectors weigh debt, but debt is only one kind of guilt. In Somnarak there are officials, clerks, and assigned judges who weigh the rest — who measure a citizen's fault, who decide how much sorrow a wrong is worth, who place one grief on the scale against another and say which is heavier. It is necessary work. The city could not function without it. And it is, for the ones who do it, corrosive.
+The Collectors weigh debt, but debt is only one kind of guilt. In Somnarak there are officials, auxiliaries, and assigned judges who weigh the rest — who measure a citizen's fault, who decide how much sorrow a wrong is worth, who place one grief on the scale against another and say which is heavier. It is necessary work. The city could not function without it. And it is, for the ones who do it, corrosive.
 
 Weighting Bird was born from these judges — not from one, but from the accumulated sorrow of all of them, the officials of early Zone C and the Forgotten Market district who spent their days weighing guilt and their nights unable to set the scales down. Every judgment they delivered added a weight — not to the judged, who carried their own grief already, but to the judge, who now held a sliver of every soul they had measured. A career of judgment left a person freighted with fragments of a thousand strangers' sorrow, none of it their own, all of it unshakeable.
 

@@ -58,7 +58,7 @@ After a Truth Note, the bearer hears one of their own unspoken sentences in the 
 
 ## HISTORY OF USE
 
-A Listening Requiem was used in a Zone B collapse inquiry. The blade did not expose the guilty party. It made a clerk admit that a warning had been filed and never delivered. The collapse could not be undone, but the record was recovered before the wall was rebuilt.
+A Listening Requiem was used in a Zone B collapse inquiry. The blade did not expose the guilty party. It made a auxiliary admit that a warning had been filed and never delivered. The collapse could not be undone, but the record was recovered before the wall was rebuilt.
 
 ---
 

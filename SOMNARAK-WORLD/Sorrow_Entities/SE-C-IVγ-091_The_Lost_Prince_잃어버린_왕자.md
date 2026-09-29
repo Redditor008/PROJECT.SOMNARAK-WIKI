@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Personnel who answer truthfully experience a wave of sorrow not their own.
 
 **Personnel Note:**
-> *"He asked where they went. I said I did not know. He answered, 'Neither do I.' I have never felt so sad for someone who is not alive."* — Agent Haneulash Yoon, Echo Gardens
+> *"He asked where they went. I said I did not know. He answered, 'Neither do I.' I have never felt so sad for someone who is not alive."* — Specialist Haneulash Yoon, Echo Gardens
 
 
 

@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The cracks never close.
 - It is strongest in abandoned tunnels.
 
-**Personnel Note:** *"It was watching. I felt hope. Every hand in the glass had left something behind, and the Window had kept it."* — Agent, Zone C patrol
+**Personnel Note:** *"It was watching. I felt hope. Every hand in the glass had left something behind, and the Window had kept it."* — Specialist, Zone C patrol
 
 
 

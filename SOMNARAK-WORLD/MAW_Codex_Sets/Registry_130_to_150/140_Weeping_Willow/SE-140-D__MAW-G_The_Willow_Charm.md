@@ -7,7 +7,7 @@
 **Document ID:** `SE-140-D`  
 **Linked Entity:** `SE-140` — The Weeping Willow  
 **Item Registry Code:** `MAW-G-140-01`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, tear-leaf charm / γ — Major / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; closing ritual must be voluntary |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A blue crystal leaf with a fine tear line through its center. |
 | Active form | The leaf swings slowly and creates a quiet marker around one completed task, relationship phase, or departure. |
 | Recognition rule | It remains still when the bearer tries to use it to end something another person has not agreed is over. |
@@ -84,14 +84,14 @@ Park used *Mark the Close* when a community garden bed had to be cleared after i
 
 The Charm completes *Closing Branch*. Requiem carries Lament through action and Cloak protects private grief; this Gift gives a small ending room without confusing ritual with erasure.
 
-> *“The ending was real. So was what came after it.”* — Agent Kkotlom Lee
+> *“The ending was real. So was what came after it.”* — Specialist Kkotlom Lee
 
 ---
 
 **Document ID:** `SE-140-D`  
 **Linked Entity:** `SE-140`  
 **Item Registry Code:** `MAW-G-140-01`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

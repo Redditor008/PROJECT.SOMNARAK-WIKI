@@ -45,8 +45,8 @@ box_crowd_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (TIRED CROWD)"
     "POS     : [CROWD-A] [CROWD-B][KANG]          [PARK]                 [DEKAN]",
     "DIST    : Kang at N03 (Band 1); Park at N05 (Band 3); Dekan at N10.",
     "---",
-    "Agent Kang      : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Heavy Maul",
-    "Agent Park      : Speed 6 -> 3 AP | HP: 130/130 | SP: +30 | Sonic Bow",
+    "Specialist Kang      : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Heavy Maul",
+    "Specialist Park      : Speed 6 -> 3 AP | HP: 130/130 | SP: +30 | Sonic Bow",
     "Tired Silhouettes: Speed 4 -> 2 AP | HP: 180 each | Sleep Haze"
 ])
 
@@ -67,8 +67,8 @@ box_crowd_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 
 old_crowd = """Tactical Clash Telemetry:
 - The three gray silhouettes drift forward, emitting a heavy cognitive mist that induces deep sleep and sluggish motor reflex.
-- Range Band 1: Agent Kang lunges forward, swinging his *Heavy Maul* in a sweeping arc. The kinetic shockwave shatters the first silhouette's form (85 Grudge damage).
-- Agent Park provides rear fire from Range Band 3 with the *Sonic Bow*, targeting the remaining two entities with piercing harmonic pulses.
+- Range Band 1: Specialist Kang lunges forward, swinging his *Heavy Maul* in a sweeping arc. The kinetic shockwave shatters the first silhouette's form (85 Grudge damage).
+- Specialist Park provides rear fire from Range Band 3 with the *Sonic Bow*, targeting the remaining two entities with piercing harmonic pulses.
 - The specters dissolve into harmless gray vapor; zero personnel casualties.
 - Elimination verified; +0.040 tons bonus Han harvested.
 
@@ -84,11 +84,11 @@ new_crowd = f"""Director Majin establishes GBS tactical engagement in Floor 2's 
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
   * Dekan deploys *The Maw's Keep Bastion Ward*, raising kinetic armor across Nodes 1 to 4 and buffering against cognitive sleep effects.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Sweeping Cleave]`.
-  * Agent Park (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Bow Piercing Pulse]`. Remaining 1 AP held in Guard.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Sweeping Cleave]`.
+  * Specialist Park (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Bow Piercing Pulse]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Lead Silhouette unleashes `[Cognitive Sleep Haze]` (Base 8 + 2 Coins = 12 Power).
-  * Agent Kang's `[Heavy Maul Sweeping Cleave]` (Base 11 + 2 Coins = 15 Power).
+  * Specialist Kang's `[Heavy Maul Sweeping Cleave]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Kang WINS THE CLASH (15 vs 12).
     * Kang's warhammer smashes through the sleep mist, exploiting the entity's Grudge vulnerability to deal **52 Grudge damage** and inflicting +28 Stagger!
   * Park's sonic bow drives an acoustic pulse through the remaining specters from Node 5 for 36 Lament damage.
@@ -118,7 +118,7 @@ box_cog_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (MELTING COG)", 
     "DIST    : Zyrak at N02 (Band 1); Yoo at N03 (Band 2); Marjuk at N10.",
     "---",
     "Extraction Lead Zyrak: Speed 6 -> 3 AP | HP: 170/170 | SP: +35 | Furnace Lance",
-    "Agent Yoo            : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Lock Maul",
+    "Specialist Yoo            : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Lock Maul",
     "Molten Gearwheel     : Speed 5 -> 3 AP | HP: 420/420 | Torque: High | Grav Shear"
 ])
 
@@ -140,7 +140,7 @@ box_cog_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 old_cog = """Tactical Clash Telemetry:
 - The colossal gearwheel rolls down the hallway at Range Band 2, radiating white-hot heat and 2.5G gravitational shear.
 - Zyrak steps into the center of the corridor, his synthetic arm locking his *Furnace Lance* forward. The thermal thrust pierces the wheel's axle!
-- Agent Yoo follows up at Range Band 1, landing a devastating 150-damage kinetic strike with the *Lock Maul* that shatters the gear teeth into inert rubble.
+- Specialist Yoo follows up at Range Band 1, landing a devastating 150-damage kinetic strike with the *Lock Maul* that shatters the gear teeth into inert rubble.
 - Elimination verified; +0.050 tons bonus Han harvested from debris.
 
 Shift concludes with cumulative daily harvest of **0.640 tons** (100% quota achieved)."""
@@ -157,13 +157,13 @@ new_cog = f"""Director Majin establishes GBS tactical parameters in the hydrauli
   * Marjuk readies *The Temporal Stasis Array* to stabilize the axle.
 - **Step 2: Movement & Action Point Spending**:
   * Extraction Lead Zyrak (Speed 6 -> 3 AP) plants his boots at Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Furnace Lance Thermal Axle Thrust]`. Remaining 1 AP in Guard.
-  * Agent Yoo (Speed 6 -> 3 AP) stands at Node 3 (Close Range Band 2). Spends 2 AP to prepare `[Lock Maul Kinetic Overdrive]`.
+  * Specialist Yoo (Speed 6 -> 3 AP) stands at Node 3 (Close Range Band 2). Spends 2 AP to prepare `[Lock Maul Kinetic Overdrive]`.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
   * Molten Gearwheel rolls forward with `[Gravitational Rolling Shear]` (Base 10 + 2 Coins = 14 Power).
   * Extraction Lead Zyrak's `[Furnace Lance Thermal Axle Thrust]` (Base 12 + 2 Coins = 16 Power).
   * **Resolution**: Zyrak WINS THE CLASH (16 vs 14).
     * Zyrak's furnace lance pierces the incandescent axle, halting the wheel's rolling momentum and dealing **54 Grudge/Thermal damage** with +28 Stagger!
-  * Agent Yoo follows up with `[Lock Maul Kinetic Overdrive]`, smashing the primary gear teeth for 48 blunt damage.
+  * Specialist Yoo follows up with `[Lock Maul Kinetic Overdrive]`, smashing the primary gear teeth for 48 blunt damage.
 
 ```text
 {box_cog_turns}
@@ -190,7 +190,7 @@ box_fire_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (PURSUING FIRE)
     "DIST    : Mellda at N03 (Band 1); Cha at N04 (Band 2); Refugees at N08.",
     "---",
     "Border Lead Mellda: Speed 6 -> 3 AP | HP: 200/200 | SP: +40 | Threshold Vow",
-    "Agent Cha         : Speed 5 -> 3 AP | HP: 125/125 | SP: +30 | Forge Bracer",
+    "Specialist Cha         : Speed 5 -> 3 AP | HP: 125/125 | SP: +30 | Forge Bracer",
     "Ash Stalkers (x4) : Speed 6 -> 3 AP | HP: 190 each | Incandescent Flame"
 ])
 
@@ -212,7 +212,7 @@ box_fire_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 old_fire = """Tactical Clash Telemetry:
 - The four glowing ash stalkers lunge toward the rear tread of the medical crawler at Range Band 1.
 - Mellda manifests *Threshold Vow*, driving her golden energy spear through the lead beast's skull, pinning it to the airlock bulkhead!
-- Agent Cha unleashes a high-pressure cryo-quench spray from his *Forge Bracer*, instantly solidifying the remaining three stalkers into brittle charcoal.
+- Specialist Cha unleashes a high-pressure cryo-quench spray from his *Forge Bracer*, instantly solidifying the remaining three stalkers into brittle charcoal.
 - Mellda sweeps her spear, shattering the frozen husks into dust. Zero refugee or personnel casualties sustained.
 - Elimination verified; +0.045 tons bonus Han harvested.
 
@@ -229,13 +229,13 @@ new_fire = f"""Director Majin establishes GBS tactical engagement at the Perimet
   * Mellda activates *Blast Gate Lockdown*, sealing Node 5 to ensure zero hostile ingress toward the refugee crawler at Node 8.
 - **Step 2: Movement & Action Point Spending**:
   * Border Lead Mellda (Speed 6 -> 3 AP) holds Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Threshold Vow Skull-Pinning Thrust]`. Remaining 1 AP in Guard.
-  * Agent Cha (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready `[Forge Bracer High-Pressure Cryo-Spray]`.
+  * Specialist Cha (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready `[Forge Bracer High-Pressure Cryo-Spray]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Lead Ash Stalker lunges with `[Incandescent Flame Jaw]` (Base 9 + 2 Coins = 13 Power).
   * Border Lead Mellda's `[Threshold Vow Skull-Pinning Thrust]` (Base 12 + 2 Coins = 16 Power).
   * **Resolution**: Mellda WINS THE CLASH (16 vs 13).
     * Mellda drives the golden spearhead straight through the stalker's incandescent skull, pinning it to the bulkhead for **52 Grudge/Weight damage** with +26 Stagger!
-  * Agent Cha unleashes the cryo spray from Node 4, chilling the remaining stalkers with 38 Lament damage.
+  * Specialist Cha unleashes the cryo spray from Node 4, chilling the remaining stalkers with 38 Lament damage.
 
 ```text
 {box_fire_turns}
@@ -261,9 +261,9 @@ box_spark_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (DAWN SPARK)",
     "POS     : [SOLAR-CORE]  [KANG]          [YOON]  [HONG]                 [AYSHUK]",
     "DIST    : Kang at N02 (Band 1); Yoon at N05 (Band 3); Hong at N06 (Band 3).",
     "---",
-    "Agent Kang      : Speed 6 -> 3 AP | HP: 150/150 | SP: +35 | Heavy Maul",
-    "Agent Yoon      : Speed 6 -> 3 AP | HP: 125/125 | SP: +35 | Tear Veil",
-    "Agent Hong      : Speed 5 -> 3 AP | HP: 120/120 | SP: +30 | Choral Staff",
+    "Specialist Kang      : Speed 6 -> 3 AP | HP: 150/150 | SP: +35 | Heavy Maul",
+    "Specialist Yoon      : Speed 6 -> 3 AP | HP: 125/125 | SP: +35 | Tear Veil",
+    "Specialist Hong      : Speed 5 -> 3 AP | HP: 120/120 | SP: +30 | Choral Staff",
     "Dawn Solar Core : Speed 5 -> 3 AP | HP: 500/500 | Sorrow: 75% | Pale Pulse"
 ])
 
@@ -284,9 +284,9 @@ box_spark_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 
 old_spark = """Tactical Clash Telemetry:
 - The miniature cyan sun radiates omnidirectional Pale pulses, threatening to strip 20% of maximum HP per pulse.
-- Range Band 4: Agent Yoon and Agent Hong coordinate from the hall's perimeter, unleashing continuous sonic lament waves with *Tear Veil* and *Choral Staff*.
+- Range Band 4: Specialist Yoon and Specialist Hong coordinate from the hall's perimeter, unleashing continuous sonic lament waves with *Tear Veil* and *Choral Staff*.
 - The pure sorrow harmonic lowers the core's thermal-psychic vibration.
-- Range Band 1: Agent Kang rushes in with his heavy maul, striking the stabilizing baseplate and collapsing the core into shimmering starlight.
+- Range Band 1: Specialist Kang rushes in with his heavy maul, striking the stabilizing baseplate and collapsing the core into shimmering starlight.
 - Elimination verified; +0.075 tons bonus Han harvested.
 
 Shift concludes with cumulative daily harvest of **0.780 tons** (100% quota achieved)."""
@@ -301,13 +301,13 @@ new_spark = f"""Director Majin establishes GBS tactical engagement in the Sub-Ce
 - **Step 1: Floor 4 Echo-Core Resonance (Research Lead Ayshuk)**:
   * Ayshuk deploys *The Predictive HUD*, analyzing the miniature cyan sun's radiation harmonics and granting +3 Clash Power against its Pale pulses.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Yoon (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to channel `[Tear Veil Harmonic Lament Wave]`.
-  * Agent Hong (Speed 5 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to activate `[Choral Staff Sorrow Pulse]`. Remaining 1 AP held in Guard.
-  * Agent Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Kinetic Sunder]`.
+  * Specialist Yoon (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to channel `[Tear Veil Harmonic Lament Wave]`.
+  * Specialist Hong (Speed 5 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to activate `[Choral Staff Sorrow Pulse]`. Remaining 1 AP held in Guard.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Kinetic Sunder]`.
 - **Step 3: Clash Resolution (Node 1 to 5)**:
   * Dawn Solar Core releases `[Omnidirectional Pale Sunder]` (Base 10 + 2 Coins = 14 Power).
-  * Agent Yoon & Agent Hong's `[Dual Harmonic Weeping]` (Base 12 + 2 Coins = 16 Power).
-  * **Resolution**: The Agents WIN THE CLASH (16 vs 14).
+  * Specialist Yoon & Specialist Hong's `[Dual Harmonic Weeping]` (Base 12 + 2 Coins = 16 Power).
+  * **Resolution**: The Specialists WIN THE CLASH (16 vs 14).
     * The pure sorrow wave encapsulates the solar flare, suppressing its heat and dealing **48 Lament/Void damage** with +26 Stagger!
   * Kang strikes the stabilizing baseplate from Node 2, dealing 54 Grudge damage.
 
@@ -335,7 +335,7 @@ box_shard_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (FOUNDATION SH
     "POS     : [SHARD]       [KANG]          [COMMAND-STAFF]        [MAJIN]",
     "DIST    : Kang at N02 (Band 1); Staff at N06 (Pinned 3.5G); Majin at N09.",
     "---",
-    "Agent Kang      : Speed 6 -> 3 AP | HP: 155/155 | SP: +35 | Threshold Maul",
+    "Specialist Kang      : Speed 6 -> 3 AP | HP: 155/155 | SP: +35 | Threshold Maul",
     "Director Majin  : Speed 5 -> 3 AP | HP: 200/200 | SP: +45 | Command Eye",
     "Foundation Shard: Speed 5 -> 3 AP | HP: 520/520 | 3.5G Grav | Pre-Time Shard"
 ])
@@ -357,7 +357,7 @@ box_shard_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 
 old_shard = """Tactical Clash Telemetry:
 - The colossal violet monolith hovers above the central tactical table, radiating 3.5G of localized gravitational shear that pins command personnel to their consoles.
-- Range Band 1: Agent Kang activates *Threshold Suit* grav-locks, charging directly beneath the obelisk's apex.
+- Range Band 1: Specialist Kang activates *Threshold Suit* grav-locks, charging directly beneath the obelisk's apex.
 - Kang channels full pneumatic pressure into his *Heavy Maul*, executing a titanic upward-to-downward kinetic smash (Critical strike: 210 Grudge damage).
 - The monolith's core shatters; gravitational shear dissipates instantly. The stone crumbles into inert purple sand.
 - Elimination verified; +0.085 tons bonus Han secured.
@@ -372,15 +372,15 @@ new_shard = f"""Director Majin establishes GBS tactical engagement in the Comman
 
 ###### Turn 01 Action Resolution Log (Floor 1 Command Atrium)
 - **Step 1: Floor 1 Echo-Core Resonance (Director Majin & Secretary Seiyon)**:
-  * Majin deploys *The Command Eye*, rerolling Agent Kang's Speed Die to maximum, unlocking 3 Action Points under heavy gravity.
+  * Majin deploys *The Command Eye*, rerolling Specialist Kang's Speed Die to maximum, unlocking 3 Action Points under heavy gravity.
   * Seiyon engages emergency ballast compensators around the central consoles.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Kang (Speed 6 -> 3 AP) activates *Threshold Suit* grav-locks, spending 1 AP to sprint directly to Node 2 (Point-Blank Range Band 1) beneath the apex.
+  * Specialist Kang (Speed 6 -> 3 AP) activates *Threshold Suit* grav-locks, spending 1 AP to sprint directly to Node 2 (Point-Blank Range Band 1) beneath the apex.
   * Kang spends 2 AP to prepare `[Threshold Maul Titanic Downward Cleave]`.
   * Director Majin (Speed 5 -> 3 AP) operates from Node 9, spending 2 AP to maintain *Administrative Clarity* team-wide. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
   * Foundation Shard charges `[3.5G Gravitational Reality Shear]` (Base 11 + 2 Coins = 15 Power).
-  * Agent Kang's `[Threshold Maul Titanic Cleave]` (Base 13 + 2 Coins = 17 Power).
+  * Specialist Kang's `[Threshold Maul Titanic Cleave]` (Base 13 + 2 Coins = 17 Power).
   * **Resolution**: Kang WINS THE CLASH (17 vs 15).
     * Kang's warhammer crashes into the obelisk's grav-core, arresting the gravitational pulse and dealing **62 Grudge damage** with +32 Stagger!
   * The shockwave frees the pinned command staff, allowing immediate evacuation toward Node 10.

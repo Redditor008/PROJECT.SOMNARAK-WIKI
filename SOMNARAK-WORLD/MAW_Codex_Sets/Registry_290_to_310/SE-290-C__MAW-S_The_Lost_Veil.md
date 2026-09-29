@@ -7,7 +7,7 @@
 **Document ID:** `SE-290-C`  
 **Linked Entity:** `SE-290` — Compass Without North  
 **Item Registry Code:** `MAW-S-290-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Gift rejects, Veil anchors, Lens removes. The suit cannot replace an external na
 **Document ID:** `SE-290-C`  
 **Linked Entity:** `SE-290`  
 **Item Registry Code:** `MAW-S-290-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

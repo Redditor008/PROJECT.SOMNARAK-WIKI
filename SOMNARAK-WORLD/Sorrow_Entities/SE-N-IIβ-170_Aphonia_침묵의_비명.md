@@ -127,7 +127,7 @@
 - **The Sorrow:** The despair of screaming until the voice becomes absence.
 - **The Event:** Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.
 - **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Agents who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
+- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
 
 ## Behavior
 
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It reacts strongly to direct acknowledgment.
 - Personnel report weight after exposure.
 
-**Personnel Note:** *"It was mourning. I felt weight. I said, 'I hear you,' and the scream did not stop, but it stopped being alone."* — Agent, Zone C patrol
+**Personnel Note:** *"It was mourning. I felt weight. I said, 'I hear you,' and the scream did not stop, but it stopped being alone."* — Specialist, Zone C patrol
 
 
 
@@ -278,7 +278,7 @@ The despair of screaming until the voice becomes absence.
 Management: Say, “I hear you,” and remain present. Work response — Flerehan: Silent tears appear and the scream softens. (Decrease); Pugnahan: The silent scream becomes physically painful. (Increase); Viderehan: Reveals the places from which the pleas came. (Stable); Ferrehan: Tests whether the worker can hear without sound. (Decrease). Personnel report weight after exposure.
 
 **Entry 5 — <Archive Note>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Agents who have worked with the entity …
+The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
 
 ## 최종 관찰 (Final Observation)
 
@@ -385,6 +385,6 @@ Some sorrows are about being heard. Aphonia is about not being heard — the scr
 ## Document Information
 
 **Document ID:** SE-N-IIβ-170
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

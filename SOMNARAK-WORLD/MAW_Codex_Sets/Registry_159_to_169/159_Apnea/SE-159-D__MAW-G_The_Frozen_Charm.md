@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, crimson frost-charm / δ — Critical / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; fatigue escalation review required |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small crimson charm with a frost crack across its center. |
 | Active form | The crack points toward the first moment a worker’s fatigue becomes a safety risk. |
 | Recognition rule | It stays cold unless the bearer is willing to call for relief rather than merely observe the warning. |

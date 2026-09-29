@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The mind pressure is different from standard lament. It does not press on the body — it presses on the mind itself. You feel it before you understand what is happening."* — Agent, Field Team 4
+> *"The mind pressure is different from standard lament. It does not press on the body — it presses on the mind itself. You feel it before you understand what is happening."* — Specialist, Field Team 4
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -320,7 +320,7 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 
 ## 증언 (Testimonium) — The Testimony
 
-> *"It told me my Fracture date. I asked it to recalculate. It gave me the same answer."* — Agent, Floor 4
+> *"It told me my Fracture date. I asked it to recalculate. It gave me the same answer."* — Specialist, Floor 4
 > *"The Engine is not sentient. It is something worse: it is accurate."* — Researcher
 > *"Seol built it to think like her. It does. That is the problem."* — Director
 > *"It processed my sorrow-structure in 4.3 seconds. The Mantle took six weeks to do the same thing."* — Keeper

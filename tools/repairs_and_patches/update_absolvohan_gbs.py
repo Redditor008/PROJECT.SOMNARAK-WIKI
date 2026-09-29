@@ -101,7 +101,7 @@ All tactical engagements, containment cell breaches, and Ordeal suppressions ins
   * Wardens deploy here to prevent breaches from spreading into common corridors.
 - **Node 05–06 (Work Console Array & Baffles / 16–30m)**:
   * Mid-Field Range Band 3. Wired with pneumatic emotion consoles and acoustic baffles.
-  * Agents spend 2 AP here to execute non-lethal Work Types (Flerehan, Pugnahan, Ferrehan, Viderehan) directly into entity fields.
+  * Specialists spend 2 AP here to execute non-lethal Work Types (Flerehan, Pugnahan, Ferrehan, Viderehan) directly into entity fields.
 - **Node 07–08 (Quarantine Overwatch / 31–50m)**:
   * Long-Range Range Band 4. Sniper positions, sedative harpoon rigs, and stasis turrets.
   * 100% precision power; standard rifles suffer 50% falloff.
@@ -190,10 +190,10 @@ Unlike lethal elimination, containment agents can spend 2 AP to execute official
 
 ---
 
-### 4.7 Agent Panic Typologies & Recovery Protocols"""
+### 4.7 Specialist Panic Typologies & Recovery Protocols"""
 
     target_start = "### 4.2 Combat Mechanics & The 5 Range Bands"
-    target_end = "### 4.3 Agent Panic Typologies & Recovery Protocols"
+    target_end = "### 4.3 Specialist Panic Typologies & Recovery Protocols"
 
     if target_start in text and target_end in text:
         idx1 = text.find(target_start)
@@ -219,8 +219,8 @@ def update_part_1():
         "POS     :        [VOICE] [KIM]           [PARK]         [MAJIN]",
         "DIST    : Kim at N03 (Band 1); Park at N05 (Console); Majin at N09.",
         "---",
-        "Agent Kim   : Speed 5 -> 3 AP | HP: 100/100 | SP: +15 | Stun Baton",
-        "Agent Park  : Speed 6 -> 3 AP | HP:  95/ 95 | SP: +20 | Lament Requiem",
+        "Specialist Kim   : Speed 5 -> 3 AP | HP: 100/100 | SP: +15 | Stun Baton",
+        "Specialist Park  : Speed 6 -> 3 AP | HP:  95/ 95 | SP: +20 | Lament Requiem",
         "The Voice   : Speed 4 -> 2 AP | HP: 140/140 | Sorrow: 50% | Pale Echo"
     ])
 
@@ -234,12 +234,12 @@ def update_part_1():
 
     phase_tick = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
         "1. Environmental Check : Meltdown Level 1 cleared in Sector 1.",
-        "2. Status Equilibrium : Clerk sanity fully restored; Park SP at +30.",
+        "2. Status Equilibrium : Auxiliary sanity fully restored; Park SP at +30.",
         "3. Containment Check   : The Voice dissolved into inert crystalline dust.",
         "4. OUTCOME             : FLAWLESS VICTORY — 0 CASUALTIES, +0.005 TONS."
     ])
 
-    new_dawn_combat = f"""##### Ordeal Manifestation: First Watch (Dawn) Ordeal
+    new_dawn_combat = f"""##### Ordeal Manifestation: First Watch Ordeal
 Before we can celebrate, the facility lights turn amber. A secondary klaxon blares:
 
 ```text
@@ -269,14 +269,14 @@ Director Majin establishes tactical command via the Floor 1 Central Console:
 
 ###### Turn 01 Action Resolution Log
 - **Step 1: Movement & Action Point (AP) Spending**:
-  * Agent Park (Speed 6 -> 3 AP) spends 1 AP to shift from Node 5 to Node 4, standing directly over the catatonic clerk.
+  * Specialist Park (Speed 6 -> 3 AP) spends 1 AP to shift from Node 5 to Node 4, standing directly over the catatonic clerk.
   * Park spends 1 AP to administer an emergency cognitive wake-up strike: swinging his stun baton with gentle Lament resonance. The calibrated shock immediately dispels the clerk's trance, restoring their SP from 0 to +25 and escorting them toward Node 9!
   * Park holds remaining 1 AP in Defensive Guard (+8 Block Shield).
-  * Agent Kim (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2, entering Point-Blank Range Band 1 with The Voice. Remaining AP: 2.
+  * Specialist Kim (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2, entering Point-Blank Range Band 1 with The Voice. Remaining AP: 2.
 - **Step 2: Clash Standoff (Node 2)**:
-  * The Voice declares `[Spectral Chime]` against Agent Kim:
+  * The Voice declares `[Spectral Chime]` against Specialist Kim:
     * The Voice Roll: Base 7 + (1 Coin Heads: +3) = 10 Power.
-  * Agent Kim declares `[Heavy Kinetic Baton Cleave]` (Costs 2 AP):
+  * Specialist Kim declares `[Heavy Kinetic Baton Cleave]` (Costs 2 AP):
     * Kim Roll: Base 8 + (2 Coins Heads: +4) = 12 Power.
   * **Resolution**: Kim WINS THE CLASH (12 vs 10).
     * The Voice's sonic beam is deflected. Kim's baton smashes into the cyan resonator core, dealing 28 Grudge damage and inflicting +16 Stagger buildup.
@@ -290,10 +290,10 @@ Director Majin establishes tactical command via the Floor 1 Central Console:
 {phase_tick}
 ```
 
-With the Ordeal suppressed, Agent Kim completes one final calibration pass on Chamber 001, extracting +0.005 tons. Target quota reached: **0.053 / 0.050 tons!**"""
+With the Ordeal suppressed, Specialist Kim completes one final calibration pass on Chamber 001, extracting +0.005 tons. Target quota reached: **0.053 / 0.050 tons!**"""
 
-    target_start = "##### Ordeal Manifestation: First Watch (Dawn) Ordeal"
-    target_end = "With the Ordeal suppressed, Agent Kim completes one final calibration pass on Chamber 001, extracting +0.005 tons. Target quota reached: **0.053 / 0.050 tons!**"
+    target_start = "##### Ordeal Manifestation: First Watch Ordeal"
+    target_end = "With the Ordeal suppressed, Specialist Kim completes one final calibration pass on Chamber 001, extracting +0.005 tons. Target quota reached: **0.053 / 0.050 tons!**"
 
     if target_start in text and target_end in text:
         idx1 = text.find(target_start)
@@ -319,8 +319,8 @@ def update_part_2():
         "POS     :        [OBELISK][KANG]          [KIM]          [DEKAN]",
         "DIST    : Kang at N03 (Band 1); Kim at N05 (Band 3); Dekan at N09.",
         "---",
-        "Agent Kang  : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Fury Blade",
-        "Agent Kim   : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Kinetic Carbine",
+        "Specialist Kang  : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Fury Blade",
+        "Specialist Kim   : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Kinetic Carbine",
         "The Obelisk : Speed 3 -> 2 AP | HP: 260/260 | Sorrow: 60% | Weight Crush"
     ])
 
@@ -339,7 +339,7 @@ def update_part_2():
         "4. OUTCOME             : ZERO CASUALTIES — 52.1 SECONDS TO RESOLUTION."
     ])
 
-    new_noon_combat = f"""Second Watch (Noon) Ordeal
+    new_noon_combat = f"""Second Watch Ordeal
 At 14:00, the screen shudders. The Second Watch arrives:
 
 ```text
@@ -371,17 +371,17 @@ Director Majin establishes tactical battle parameters:
   * Attendant Dekan activates *The Maw's Keep Bastion Ward*, projecting +50% kinetic shield absorption over Nodes 1 through 4.
   * Director Majin engages `Acoustic Siphon`, venting gravitational reverberations into subterranean bedrock.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with the Obelisk).
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with the Obelisk).
   * Kang spends 2 AP to declare `[Fury Blade Armor Pierce]`.
-  * Agent Kim (Speed 5 -> 3 AP) holds Node 5 behind research consoles. Spends 2 AP to aim `[Kinetic Carbine Concentrated Burst]` from Range Band 3. Remaining 1 AP held in Guard.
+  * Specialist Kim (Speed 5 -> 3 AP) holds Node 5 behind research consoles. Spends 2 AP to aim `[Kinetic Carbine Concentrated Burst]` from Range Band 3. Remaining 1 AP held in Guard.
 - **Step 3: Clash Standoff (Node 2)**:
   * The Heavy Pendulum declares `[3.2G Gravitational Crush]` on Node 2:
     * Obelisk Roll: Base 9 + (2 Coins Heads: +4) = 13 Power.
-  * Agent Kang's `[Fury Blade Armor Pierce]`:
+  * Specialist Kang's `[Fury Blade Armor Pierce]`:
     * Kang Roll: Base 10 + (2 Coins Heads: +5) = 15 Power.
   * **Resolution**: Kang WINS THE CLASH (15 vs 13).
     * Kang's greatsword splits the descending pendulum arc. The blade strikes the central suspension ring, dealing 44 Grudge piercing damage and inflicting +22 Stagger buildup.
-  * Agent Kim fires unopposed burst from Node 5, dealing 31 Grudge damage to the support pylons.
+  * Specialist Kim fires unopposed burst from Node 5, dealing 31 Grudge damage to the support pylons.
 
 ```text
 {turns_pendulum}
@@ -391,10 +391,10 @@ Director Majin establishes tactical battle parameters:
 {phase_pendulum}
 ```
 
-One final work session by Agent Park on the Orphaned Bell"""
+One final work session by Specialist Park on the Orphaned Bell"""
 
-    target_start = "Second Watch (Noon) Ordeal\nAt 14:00, the screen shudders. The Second Watch arrives:"
-    target_end = "One final work session by Agent Park on the Orphaned Bell"
+    target_start = "Second Watch Ordeal\nAt 14:00, the screen shudders. The Second Watch arrives:"
+    target_end = "One final work session by Specialist Park on the Orphaned Bell"
 
     if target_start in text and target_end in text:
         idx1 = text.find(target_start)

@@ -7,7 +7,7 @@
 **Document ID:** `SE-609-C`  
 **Linked Entity:** `SE-609` — Thousand Hands  
 **Item Registry Code:** `MAW-S-609-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ The central print remains smooth and accepts no name supplied only to make a com
 
 Charm protects identity boundaries, Shield carries emotional force, and Requiem cuts possessive fusion. Full resonance is prohibited without an archive witness authorized to leave owners unknown.
 
-> *“The fifth hand was not dangerous because we lacked its name. It was dangerous because I wanted the name to be mine.”* — Agent Iseulfros Kim
+> *“The fifth hand was not dangerous because we lacked its name. It was dangerous because I wanted the name to be mine.”* — Specialist Iseulfros Kim
 
 ---
 
 **Document ID:** `SE-609-C`  
 **Linked Entity:** `SE-609`  
 **Item Registry Code:** `MAW-S-609-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-767` — Swallow  
 **Source SECC Designation:** `C-IVδ-767 [LP]`  
 **Item Registry Code:** `MAW-W-767-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Swallow — Witnessed Form*, The Fading Requiem performs the weapon role
 **Document ID:** `SE-767-B`  
 **Linked Entity:** `SE-767`  
 **Item Registry Code:** `MAW-W-767-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

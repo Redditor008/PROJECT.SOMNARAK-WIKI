@@ -296,7 +296,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It has never produced fruit.
 - Its dream is strongest near Outside Sorrow samples.
 
-**Personnel Note:** *"I felt peace. The Tree had been waiting in sleep because waking would require admitting who had left."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt peace. The Tree had been waiting in sleep because waking would require admitting who had left."* — Specialist, Zone B patrol
 
 
 

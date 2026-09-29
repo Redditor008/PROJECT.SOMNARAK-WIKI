@@ -43,7 +43,7 @@ This dispatch records recent operational updates within Facility 01, containment
 - Verified mathematical balance of the four elemental pressures across all M.A.W. defensive suits.
 
 ### Revision 1.3 (Cycle 1,778.21) — Ordeals Master Grid Expansion
-- Calibrated the 5 Colors × 4 Watches master matrix, detailing incursion timing across First Watch (Dawn) to Tide Watch (Midnight).
+- Calibrated the 5 Colors × 4 Watches master matrix, detailing incursion timing across First Watch to Tide Watch.
 - Integrated auditory siren thresholds (First to Fourth Warning Trumpets) for hallway incursion alerts.
 
 ### Revision 1.2 (Cycle 1,778.10) — Departmental Floor Realizations
@@ -58,8 +58,8 @@ This dispatch records recent operational updates within Facility 01, containment
 
 ## 3 Detailed Containment Incident Logs
 
-- **Incident #441 (Extraction Hall):** Minor Han gas backflow during high-yield refining of `SE-C-IIIβ-014 The Debt Eater`. Contained within 4 minutes with zero specialist casualties; 2 auxiliary clerks treated for mild Lament dizziness.
-- **Incident #449 (Border Watch):** Second Watch (Noon) Violet incursion manifested in Corridor 6B. Lead Mellda deployed Vanguard Squad; Ordeal neutralized with zero breaches recorded.
+- **Incident #441 (Extraction Hall):** Minor Han gas backflow during high-yield refining of `SE-C-IIIβ-014 The Debt Eater`. Contained within 4 minutes with zero specialist casualties; 2 auxiliary auxiliaries treated for mild Lament dizziness.
+- **Incident #449 (Border Watch):** Second Watch Violet incursion manifested in Corridor 6B. Lead Mellda deployed Vanguard Squad; Ordeal neutralized with zero breaches recorded.
 - **Incident #452 (Deep Vault):** Temporal fluctuation detected around `SE-T-IIβ-002 The Crucible`. Stasis fields reinforced; safe channeling ceiling re-verified at exactly 29 seconds.
 - **Incident #458 (Maw's Keep):** Minor hydraulic seal leakage on Cell 3A. Brute containment clamps deployed; zero physical damage sustained.
 
@@ -68,7 +68,7 @@ This dispatch records recent operational updates within Facility 01, containment
 - **Senior Specialist Kang:** Awarded Departmental Captain Sash for Floor 6 Border Watch after 12 consecutive shifts without taking health or sanity damage.
 - **Recruit Talia:** Promoted to Rank III Senior Specialist following exemplary Pugnahan containment work with high-threat Fragment entities.
 - **Veteran Arin:** Received the *Null Shield of Redress* for holding the line against a Third Watch Dusk Ordeal.
-- **Memorial Roster:** Five auxiliary clerks honored in the facility memorial ledger following emergency containment operations during Cycle 1,777.
+- **Memorial Roster:** Five auxiliary auxiliaries honored in the facility memorial ledger following emergency containment operations during Cycle 1,777.
 
 ## 5 Departmental Directives and Warnings
 

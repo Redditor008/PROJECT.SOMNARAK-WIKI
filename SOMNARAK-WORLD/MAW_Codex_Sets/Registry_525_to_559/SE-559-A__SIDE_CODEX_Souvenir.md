@@ -62,7 +62,7 @@ The first stable set appeared after Former Resident Nari Baram described the set
 
 ## WITNESS RECORD
 
-At the Mask-Market False Shelter, Requiem projected a remembered doorway and Shroud kept the evacuation team coherent. A clerk extended the outline into an unremembered stair so more people could enter. The false stair became stone, failed, and took the clerk’s left hand. Nari ended the cascade by saying, “That stair was never ours.” The set has since required a survivor’s right to correct the reconstruction.
+At the Mask-Market False Shelter, Requiem projected a remembered doorway and Shroud kept the evacuation team coherent. A auxiliary extended the outline into an unremembered stair so more people could enter. The false stair became stone, failed, and took the auxiliary’s left hand. Nari ended the cascade by saying, “That stair was never ours.” The set has since required a survivor’s right to correct the reconstruction.
 
 > *“A fragment can testify. The moment it pretends to be the whole home, it becomes the collapse again.”* — Chronicler Minseo
 

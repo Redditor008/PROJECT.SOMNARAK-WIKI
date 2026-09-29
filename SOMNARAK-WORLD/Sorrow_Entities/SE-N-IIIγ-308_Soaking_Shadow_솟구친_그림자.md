@@ -415,6 +415,6 @@ Some sorrows are about feeling anger. Soaking Shadow is about absorbing it — t
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-308
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Classified

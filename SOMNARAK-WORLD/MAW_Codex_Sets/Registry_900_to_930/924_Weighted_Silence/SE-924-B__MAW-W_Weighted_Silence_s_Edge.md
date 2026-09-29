@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-924` — Weighted Silence  
 **Source SECC Designation:** `O-IIIγ-924 [VH]`  
 **Item Registry Code:** `MAW-W-924-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Weighted Silence — Witnessed Form*, Weighted Silence's Edge performs t
 **Document ID:** `SE-924-B`  
 **Linked Entity:** `SE-924`  
 **Item Registry Code:** `MAW-W-924-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

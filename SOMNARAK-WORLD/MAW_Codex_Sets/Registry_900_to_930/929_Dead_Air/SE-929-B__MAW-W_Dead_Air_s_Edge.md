@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-929` — Dead Air  
 **Source SECC Designation:** `N-IIIγ-929 [WH]`  
 **Item Registry Code:** `MAW-W-929-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Dead Air — Witnessed Form*, Dead Air's Edge performs the weapon role w
 **Document ID:** `SE-929-B`  
 **Linked Entity:** `SE-929`  
 **Item Registry Code:** `MAW-W-929-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

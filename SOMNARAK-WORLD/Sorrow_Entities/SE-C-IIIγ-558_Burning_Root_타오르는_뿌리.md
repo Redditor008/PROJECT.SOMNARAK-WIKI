@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its fire warms before it burns.
 - Personnel report longing for the burden after exposure ends.
 
-**Personnel Note:** *"It was watching. I felt longing. The burden was not heavy because I had carried it long enough to call it home."* — Agent, Zone E patrol
+**Personnel Note:** *"It was watching. I felt longing. The burden was not heavy because I had carried it long enough to call it home."* — Specialist, Zone E patrol
 
 
 

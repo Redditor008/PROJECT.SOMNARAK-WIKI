@@ -7,7 +7,7 @@
 **Document ID:** `SE-339-A`  
 **Related Entity ID:** `SE-339`  
 **SECC Designation:** `N-IVδ-339 [LS]`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ Breach is a wall-shaped presence inside consciousness: cracked, leaning, and col
 | Observation | 2 — Basic |
 | Set | The Honest Safeguard |
 
-> *“The failed wall taught the survivors that protection is a reduction, not a guarantee.”* — Agent Iseulfros Kim
+> *“The failed wall taught the survivors that protection is a reduction, not a guarantee.”* — Specialist Iseulfros Kim
 
 ## MANAGEMENT
 
@@ -59,7 +59,7 @@ Charm identifies the failed limit, Barrier absorbs one current impact, and Requi
 
 **Document ID:** `SE-339-A`  
 **Linked Entity:** `SE-339`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

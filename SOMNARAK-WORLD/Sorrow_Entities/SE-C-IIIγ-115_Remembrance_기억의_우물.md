@@ -426,6 +426,6 @@ Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives t
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-115
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4233
 **Classification:** Classified

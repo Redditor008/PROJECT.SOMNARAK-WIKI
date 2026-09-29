@@ -7,7 +7,7 @@
 **Document ID:** `SE-453-B`  
 **Linked Entity:** `SE-453` — Spoor  
 **Item Registry Code:** `MAW-W-453-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Shadow Requiem is a blade of blue Han crystal whose shadow walks one step be
 **Document ID:** `SE-453-B`  
 **Linked Entity:** `SE-453`  
 **Item Registry Code:** `MAW-W-453-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

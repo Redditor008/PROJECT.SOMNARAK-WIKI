@@ -7,7 +7,7 @@
 **Document ID:** `SE-275-C`  
 **Linked Entity:** `SE-275` — Crucible  
 **Item Registry Code:** `MAW-S-275-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Plate protects worker while Charm identifies fuel and Hammer performs one task. 
 **Document ID:** `SE-275-C`  
 **Linked Entity:** `SE-275`  
 **Item Registry Code:** `MAW-S-275-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

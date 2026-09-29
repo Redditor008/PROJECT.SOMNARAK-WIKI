@@ -49,14 +49,14 @@ The Debt Eater's primary containment hazard is governed by its **Sorrow Gauge** 
 
 If an operative completes work with a **Bad** result or if the specialist possesses lower than Level II Composure, the Sorrow Gauge increases sharply. When the Sorrow Gauge reaches 60% or higher, The Debt Eater breaches its containment cell and enters the department corridors.
 
-Upon breaching, the entity walks upright at a measured speed of 1.80 m/s. It is drawn to personnel bearing personal debt tokens or those exhibiting mental fatigue, delivering rapid strikes of ⚪ **Void** (Pale White) damage (8–19 damage per strike). Because ⚪ **Void** damage scales against total health (where 1% Void inflicts 5% of maximum vital endurance), unprotected agents can undergo rapid collapse. Suppression teams must intercept the entity with 🔴 **Grudge** or ⚫ **Weight** weaponry before it reaches the departmental main room.
+Upon breaching, the entity walks upright at a measured speed of 1.80 m/s. It is drawn to personnel bearing personal debt tokens or those exhibiting mental fatigue, delivering rapid strikes of ⚪ **Void** (Pale White) damage (8–19 damage per strike). Because ⚪ **Void** damage scales against total health (where 1% Void inflicts 5% of maximum vital endurance), unprotected specialists can undergo rapid collapse. Suppression teams must intercept the entity with 🔴 **Grudge** or ⚫ **Weight** weaponry before it reaches the departmental main room.
 
 The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](30-The%20Debt%20Scale.md) (`SE-C-IIIβ-015`). If an operative wearing the scale enters The Debt Eater's unit during high agitation, the entity immediately breaches regardless of its current gauge.
 
 | Breach Phase | Trigger | Entity Behavior | Warden Countermeasure |
 |---|---|---|---|
 | Agitation | Gauge above 40% | Pacing; throat aperture dilates | Assign 💧 Flerehan veterans only |
-| Rupture | Gauge at 60% | Cell door warps; entity walks out upright | Clear clerks from adjacent corridors |
+| Rupture | Gauge at 60% | Cell door warps; entity walks out upright | Clear auxiliaries from adjacent corridors |
 | Hunt | Personnel nearby | Seeks debt tokens at 1.80 m/s | Intercept with 🔴 Grudge squads |
 | Feast | Contact with victim | Rapid ⚪ Void strikes (8–19 damage) | Rotate wounded out; never swarm |
 | Re-boxing | HP depleted | Collapses into parchment pile | Resume work within 30 seconds |
@@ -92,7 +92,7 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 1. Work performed with 💧 **Flerehan**  [플레레한]  (_Pellerehan_) yielded the highest rate of positive resonance. The entity visibly relaxes its posture when personnel acknowledge historical grievances.
 2. Operatives assigned to 👁 **Viderehan**  [비데레한]  (_Biderehan_) must maintain at least Level II Clarity. Novice personnel often experience mild ⚪ **Void** erosion from staring directly into the open throat aperture.
 3. If an operative with Composure below Level II conducts work, the result is consistently **Bad**, triggering an immediate 15% increase to the Sorrow Gauge.
-4. When the Sorrow Gauge crosses 60%, the entity initiates a containment breach. Corridors must be cleared of civilian clerks immediately to prevent mass debt-harvesting.
+4. When the Sorrow Gauge crosses 60%, the entity initiates a containment breach. Corridors must be cleared of civilian auxiliaries immediately to prevent mass debt-harvesting.
 5. Under no circumstances should an operative carrying [The Debt Scale](30-The%20Debt%20Scale.md) enter Sector C-01 while The Debt Eater's gauge is above 40%. The resulting feedback immediately triggers a simultaneous breach and overload.
 6. During suppression, spread operatives across both corridor wings. The entity fixates on a single target at a time, so a lone bait with high Composure can kite it while flanking squads strike safely.
 7. After re-boxing, the first work session within 30 seconds gains +15% success rate. Exploit this calm window with a Level III 💧 **Flerehan** specialist to push the gauge back below 20%.
@@ -135,13 +135,13 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 > "Fifty men of the Eastern Ward signed their names upon the vellum sheet, swearing by the Alpha Roots that the debt was paid in blood and steel. But paper remembers what blood forgets. When the ledger was burned in the winter furnace, the ash did not rise — it fell downward through the floorboards into Zone C. By spring, the workers heard scratching behind the stone cistern. When the menders breached the brickwork, they did not find gold or contracts. They found this thing, sitting upon a mound of charred parchment, gently smoothing out the burned scraps with its damp, gray palms."
 
 > **Observation Log 014-C (Cycle 1,655):**
-> "Junior Clerk Han brought his personal wage chit into the observation gallery against standing orders. The entity pressed its throat aperture flat against the viewing port and did not move for six hours. When the chit was confiscated and burned, the gauge fell eleven points in a single minute. Conclusion: the Eater can read. Recommendation: no paper of any kind within twenty meters of Sector C-01."
+> "Junior Auxiliary Han brought his personal wage chit into the observation gallery against standing orders. The entity pressed its throat aperture flat against the viewing port and did not move for six hours. When the chit was confiscated and burned, the gauge fell eleven points in a single minute. Conclusion: the Eater can read. Recommendation: no paper of any kind within twenty meters of Sector C-01."
 
 ## Flavor Text and Trivia
 
 - *“It does not eat bread or flesh. It dines solely on the agreements we break when dusk falls.”*
 - The Debt Eater is one of only seven entities in Facility 01 whose vocal tract is entirely replaced by a physical vacuum.
-- In early Directorate records, this entity was provisionally designated *The Pale Clerk* before its appetite for broken promises was systematically recorded.
+- In early Directorate records, this entity was provisionally designated *The Pale Auxiliary* before its appetite for broken promises was systematically recorded.
 - The flakes shed from its wrists, if collected before dissolving, burn with a pale violet flame and are used by the Insight Forge as calibration samples for Void-resistance testing.
 - No operative who has survived three consecutive Good sessions with The Debt Eater has ever been recorded defaulting on a personal debt afterward; the Directorate Personnel Office declines to comment on why.
 

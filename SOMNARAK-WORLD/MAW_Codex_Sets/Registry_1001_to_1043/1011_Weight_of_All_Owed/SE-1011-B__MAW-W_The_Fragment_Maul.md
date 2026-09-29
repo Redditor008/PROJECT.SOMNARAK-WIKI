@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1011` — Weight of All Owed  
 **Source SECC Designation:** `O-IVδ-115 [WO]`  
 **Item Registry Code:** `MAW-W-1011-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Weight of All Owed — Witnessed Form*, The Fragment Maul performs the w
 **Document ID:** `SE-1011-B`  
 **Linked Entity:** `SE-1011`  
 **Item Registry Code:** `MAW-W-1011-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

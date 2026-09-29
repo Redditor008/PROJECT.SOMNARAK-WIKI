@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-205` — Timber Maw
 **Item Registry Code:** `MAW-W-205-01`
 **Entity Designation:** `C-IVγ-205 [WS]`
-**Author:** Agent Durivel Cho, Field Extraction Specialist
+**Author:** Specialist Durivel Cho, Field Extraction Specialist
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Ravenous Timber-Jaw is a straight length of matte black Han-steel whose surf
 |---|---|
 | Extraction record | Year 4,238 current draw |
 | Site | SECTOR-D-02, outside Timber Maw’s root line |
-| Authority | Agent Durivel Cho under Extraction Lead Zyrak |
+| Authority | Specialist Durivel Cho under Extraction Lead Zyrak |
 | Source state | Passive after a successful Ferrehan cycle |
 | Observation requirement | Level 2; trunk left completely unfilled |
 | Result | Stable γ-grade Weight manifestation |
@@ -45,7 +45,7 @@ A bearer who draws it to “make emptiness useful” feels the intake turn inwar
 | Holder / bearer | Period | Outcome | Item-specific record |
 |---|---|---|---|
 | R.D. Extraction custody | Year 4,238 | Active | Durivel established the empty-ground extraction boundary. |
-| Agent Kkotlom Lee | Current qualified field bearer | Restricted use | Authorized for Echo Gardens Sorrow Tide relief; voluntarily ended the first draw before the garden felt vacant. |
+| Specialist Kkotlom Lee | Current qualified field bearer | Restricted use | Authorized for Echo Gardens Sorrow Tide relief; voluntarily ended the first draw before the garden felt vacant. |
 
 ---
 
@@ -84,7 +84,7 @@ The bearer feels every location as Timber Maw does: first as the future intended
 
 ## HISTORY OF USE — THE QUIET PATH INCIDENT
 
-During a Sorrow Tide, Weight pooled between the lower Echo Gardens beds until stems bowed and two patrol agents could no longer lift their feet. Agent Kkotlom Lee planted the Staff beside an unused stone bench rather than among the trapped personnel. The weapon pulled the pressure through the path in one narrow line, allowing both agents to leave.
+During a Sorrow Tide, Weight pooled between the lower Echo Gardens beds until stems bowed and two patrol specialists could no longer lift their feet. Specialist Kkotlom Lee planted the Staff beside an unused stone bench rather than among the trapped personnel. The weapon pulled the pressure through the path in one narrow line, allowing both specialists to leave.
 
 The draw remained mechanically stable after the rescue, but Kkotlom ended it when she stopped recognizing the flower beds as tended ground. Her report states that the garden looked “completed and already left behind.” The shutdown preserved the beds and established loss of place-meaning—not reservoir capacity—as the operational limit.
 
@@ -114,7 +114,7 @@ Timber Maw follows a deployed Staff with its trunk opening but does not pursue w
 | Meaning collapse | Continued draw after sound vanishes from an occupied area | People remain physically present but experience the location as abandoned and purposeless. | Evacuate the intake line; restore sound, names, and ordinary use before retrieval. |
 | Root lock | Weapon carried while overfull | The base splits into black root forms and anchors through flooring. | Extraction personnel isolate the line; never cut the roots inside an inhabited room. |
 
-**Maintenance procedure:** Place the Staff upright in a cleared patch beside Timber Maw, outside the exposed roots. Leave the trunk empty. Agent Haneulash Yoon or another approved Ferrehan worker sits nearby until the tool releases the sounds it has taken; Durivel closes the seam only after the Staff’s shadow returns to its actual shape.
+**Maintenance procedure:** Place the Staff upright in a cleared patch beside Timber Maw, outside the exposed roots. Leave the trunk empty. Specialist Haneulash Yoon or another approved Ferrehan worker sits nearby until the tool releases the sounds it has taken; Durivel closes the seam only after the Staff’s shadow returns to its actual shape.
 
 **Emergency shutdown:** Let go, mark a three-meter empty ring, and prevent anyone from speaking a proposed use for the enclosed ground. Once the intake turns toward the soil, Extraction personnel fit the Han-isolation collar over the upper seam. Attempting to carry an active Staff to storage extends the drain through every corridor crossed.
 
@@ -126,14 +126,14 @@ The Registry describes the item as an environmental Han absorber because that is
 
 No district-scale trial is authorized.
 
-> *“A pressure reservoir can be refilled. A place people no longer believe in is harder to return.”* — Agent Durivel Cho
+> *“A pressure reservoir can be refilled. A place people no longer believe in is harder to return.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-205-B`
 **Linked Entity:** `SE-205`
 **Item Registry Code:** `MAW-W-205-01`
-**Author:** Agent Durivel Cho, Field Extraction Specialist
+**Author:** Specialist Durivel Cho, Field Extraction Specialist
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-922` — Door to Nowhere  
 **Source SECC Designation:** `O-IIβ-922 [O]`  
 **Item Registry Code:** `MAW-W-922-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Door to Nowhere — Witnessed Form*, Door to Nowhere Fang performs the w
 **Document ID:** `SE-922-B`  
 **Linked Entity:** `SE-922`  
 **Item Registry Code:** `MAW-W-922-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-255-C`  
 **Linked Entity:** `SE-255` — The Hollow Architect  
 **Item Registry Code:** `MAW-S-255-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Compass maps intended purpose, Mantle crosses, Maul repairs current load. The we
 **Document ID:** `SE-255-C`  
 **Linked Entity:** `SE-255`  
 **Item Registry Code:** `MAW-S-255-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

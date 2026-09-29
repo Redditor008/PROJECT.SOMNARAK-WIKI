@@ -7,7 +7,7 @@
 **Document ID:** `SE-559-C`  
 **Linked Entity:** `SE-559` — Souvenir  
 **Item Registry Code:** `MAW-S-559-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ That cupboard remains the suit’s earliest corrosion marker and appears wheneve
 
 The Fragment stores a single place-memory, the Shroud keeps that memory from overtaking the listener, and Requiem traces a verified escape. Full-set misuse turns the wearer into the foundation of an invented refuge.
 
-> *“Listening is not moving into another person’s ruin.”* — Agent Haneulash Yoon
+> *“Listening is not moving into another person’s ruin.”* — Specialist Haneulash Yoon
 
 ---
 
 **Document ID:** `SE-559-C`  
 **Linked Entity:** `SE-559`  
 **Item Registry Code:** `MAW-S-559-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

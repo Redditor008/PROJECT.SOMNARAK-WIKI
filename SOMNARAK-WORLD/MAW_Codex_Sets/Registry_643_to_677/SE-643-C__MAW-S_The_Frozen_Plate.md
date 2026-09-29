@@ -7,7 +7,7 @@
 **Document ID:** `SE-643-C`  
 **Linked Entity:** `SE-643` — Vanity  
 **Item Registry Code:** `MAW-S-643-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -40,7 +40,7 @@ The Frozen Plate is a crimson harness whose plates show unfamiliar faces under f
 **Document ID:** `SE-643-C`  
 **Linked Entity:** `SE-643`  
 **Item Registry Code:** `MAW-S-643-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

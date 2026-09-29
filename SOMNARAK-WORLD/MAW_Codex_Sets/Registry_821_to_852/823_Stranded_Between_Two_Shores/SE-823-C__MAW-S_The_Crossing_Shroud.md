@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-823` — Stranded Between Two Shores  
 **Source SECC Designation:** `C-IVδ-823 [LS]`  
 **Item Registry Code:** `MAW-S-823-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Shroud per
 **Document ID:** `SE-823-C`  
 **Linked Entity:** `SE-823`  
 **Item Registry Code:** `MAW-S-823-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

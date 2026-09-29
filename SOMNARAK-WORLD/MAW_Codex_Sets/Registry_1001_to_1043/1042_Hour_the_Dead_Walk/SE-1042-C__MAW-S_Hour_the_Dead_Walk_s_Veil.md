@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1042` — Hour the Dead Walk  
 **Source SECC Designation:** `O-IIIγ-916 [LT]`  
 **Item Registry Code:** `MAW-S-1042-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Veil perfor
 **Document ID:** `SE-1042-C`  
 **Linked Entity:** `SE-1042`  
 **Item Registry Code:** `MAW-S-1042-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

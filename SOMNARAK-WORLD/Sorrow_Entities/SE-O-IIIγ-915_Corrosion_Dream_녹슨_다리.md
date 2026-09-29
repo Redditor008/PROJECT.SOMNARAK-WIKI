@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Dream-layer observation shows a complete bridge; waking observation shows only fragments.
 - Personnel report hope before the sense of abandonment.
 
-**Personnel Note:** *"It was singing. I felt hope. Then the song ended at the same missing note every time."* — Agent, Zone C patrol
+**Personnel Note:** *"It was singing. I felt hope. Then the song ended at the same missing note every time."* — Specialist, Zone C patrol
 
 
 

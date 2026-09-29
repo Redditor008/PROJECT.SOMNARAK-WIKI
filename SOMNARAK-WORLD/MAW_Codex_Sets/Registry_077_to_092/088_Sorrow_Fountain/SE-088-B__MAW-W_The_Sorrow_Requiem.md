@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
 | Status | Active; issued with a post-use witness requirement |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Kkotlom Lee |
+| Current bearer | Specialist Kkotlom Lee |
 | Resting form | A slender deep-blue blade with a sealed thread of liquid Han along the fuller. |
 | Active form | The blade hums a low note and sheds a film of blue light that falls upward instead of dripping. |
 | Recognition rule | Its edge is dry in an empty room and wet only when a nearby person is carrying unspoken grief. |
@@ -31,7 +31,7 @@
 | Field | Record |
 |---|---|
 | Current-registry extraction | Year 4,238, Echo Gardens; after a Ferrehan session ended without a sample being taken from the basin |
-| Extraction authority | Zyrak, witnessed by Agent Kkotlom Lee |
+| Extraction authority | Zyrak, witnessed by Specialist Kkotlom Lee |
 | Entity state | Water settled below the rim by its own movement; no forced drainage occurred |
 | Result | Three Requiems crystallized at the basin lip |
 

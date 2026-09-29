@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It carries voices from both sides of a separation.
 - The tunnel floor becomes wet without measurable liquid.
 
-**Personnel Note:** *"It was watching. I felt wonder. The Bridge was not built to take us somewhere; it was built to remember who could not cross."* — Agent, Zone D patrol
+**Personnel Note:** *"It was watching. I felt wonder. The Bridge was not built to take us somewhere; it was built to remember who could not cross."* — Specialist, Zone D patrol
 
 
 

@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It affects every known Sorrow Entity.
 - Personnel who endure it report exhaustion but increased solidarity.
 
-**Personnel Note:** *"It was mourning. I felt peace. The Tide reminded me that the city was suffering with me, even when no one stood nearby."* — Agent, Zone C patrol
+**Personnel Note:** *"It was mourning. I felt peace. The Tide reminded me that the city was suffering with me, even when no one stood nearby."* — Specialist, Zone C patrol
 
 
 

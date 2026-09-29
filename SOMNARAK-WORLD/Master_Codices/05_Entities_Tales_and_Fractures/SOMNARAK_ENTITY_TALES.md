@@ -427,7 +427,7 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 
 To judge another person's sorrow is to carry a piece of it forever. The Weighting Bird was born from those who learned this too late.
 
-The Collectors weigh debt, but debt is only one kind of guilt. In Somnarak there are officials, clerks, and assigned judges who weigh the rest — who measure a citizen's fault, who decide how much sorrow a wrong is worth, who place one grief on the scale against another and say which is heavier. It is necessary work. The city could not function without it. And it is, for the ones who do it, corrosive.
+The Collectors weigh debt, but debt is only one kind of guilt. In Somnarak there are officials, auxiliaries, and assigned judges who weigh the rest — who measure a citizen's fault, who decide how much sorrow a wrong is worth, who place one grief on the scale against another and say which is heavier. It is necessary work. The city could not function without it. And it is, for the ones who do it, corrosive.
 
 The Weighting Bird was born from these judges — not from one, but from the accumulated sorrow of all of them, the officials of early Zone C and the Forgotten Market district who spent their days weighing guilt and their nights unable to set the scales down. Every judgment they delivered added a weight — not to the judged, who carried their own grief already, but to the judge, who now held a sliver of every soul they had measured. A career of judgment left a person freighted with fragments of a thousand strangers' sorrow, none of it their own, all of it unshakeable.
 
@@ -3284,7 +3284,7 @@ Some sorrows mourn the lost. The Broken Well mourns the searching — the endles
 
 She saw it, and she told the truth, and the truth was filed away and lost.
 
-The witness worked in Mantle Commons — a clerk, or a stall-holder, or simply a citizen who happened to be looking out a window at the wrong hour. What she saw does not matter for this story, except that it was an injustice done by someone the city preferred not to accuse: a Collector who took more than the ledger allowed, perhaps, or a Warden who looked away at a profitable moment, or a name the Giltong had decided to protect. She saw it clearly. She was certain.
+The witness worked in Mantle Commons — a auxiliary, or a stall-holder, or simply a citizen who happened to be looking out a window at the wrong hour. What she saw does not matter for this story, except that it was an injustice done by someone the city preferred not to accuse: a Collector who took more than the ledger allowed, perhaps, or a Warden who looked away at a profitable moment, or a name the Giltong had decided to protect. She saw it clearly. She was certain.
 
 She reported it. She gave her testimony to the proper office, in the proper words, with the proper composure the Veil demanded. The office accepted her testimony. The office filed her testimony. The office lost her testimony. When she returned to ask what had been done, the record could not be found. When she returned again, she was told, gently, that no such record had ever existed. When she returned a third time, she was warned — also gently — that false accusations were themselves a kind of debt.
 
@@ -5948,7 +5948,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ### 증언 (Testimonium) — The Testimony
 
-> *"I was terrified. My hands were shaking. I reached for it and it was warm and I cried. Not because it hurt me. Because it didn't."* — Agent Hanul Grey (하늘 그레이), first day, Year 4210
+> *"I was terrified. My hands were shaking. I reached for it and it was warm and I cried. Not because it hurt me. Because it didn't."* — Specialist Hanul Grey (하늘 그레이), first day, Year 4210
 
 > *"It leans toward you when you enter. Every time. Even after six thousand years. Even after a hundred thousand trainees. It still leans toward you."* — Handler Soojin (수진), R.D.
 
@@ -5958,7 +5958,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 > *"I asked the Archive why it was designated 000. They said: because it was the first. Before we had a numbering system. Before we had a classification system. Before we had a facility. It was the first sorrow we ever chose to sit beside instead of run from."* — Chronicler Minseo (민서)
 
-> *"Some entities are dangerous. Some are tragic. Some are incomprehensible. The Kind Echo is none of those. It is kind. That is its entire classification. And after everything this city has been through, the fact that kindness is still the first thing we teach our agents — that is the only hope the R.D. has ever had."* — Director Majin (마진), Year 4232
+> *"Some entities are dangerous. Some are tragic. Some are incomprehensible. The Kind Echo is none of those. It is kind. That is its entire classification. And after everything this city has been through, the fact that kindness is still the first thing we teach our specialists — that is the only hope the R.D. has ever had."* — Director Majin (마진), Year 4232
 
 ### 기록 (Registrum) — The Record
 

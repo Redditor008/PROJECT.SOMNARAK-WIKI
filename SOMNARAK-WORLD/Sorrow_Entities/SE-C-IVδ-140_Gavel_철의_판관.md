@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Collector records become legible when it is near.
 - It has judged personnel and Collectors identically.
 
-**Personnel Note:** *"It was quiet. I felt longing—not for mercy, but for a judgment that understood why I failed."* — Agent, Zone C patrol
+**Personnel Note:** *"It was quiet. I felt longing—not for mercy, but for a judgment that understood why I failed."* — Specialist, Zone C patrol
 
 
 

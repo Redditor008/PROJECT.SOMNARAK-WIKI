@@ -508,7 +508,7 @@ Every Sorrow Entity is assigned a **Classification Code** — a unique identifie
 |------|-------|-------------|
 | **α** | Minor | Low danger, basic containment |
 | **β** | Moderate | Manageable with standard precautions |
-| **γ** | Major | High danger, experienced agents required |
+| **γ** | Major | High danger, experienced specialists required |
 | **δ** | Critical | Facility-threatening |
 | **ω** | Catastrophic | City-threatening |
 
@@ -712,7 +712,7 @@ WEST ────┼────────────┼───────
 | Nomads | Follow Han flows — never settling permanently | ~3,000 |
 | Outcasts | Rejected the system — criminals, dissidents, the desperate | ~4,000 |
 | Scavengers | Harvest raw Han, Echoes, or Sorrow fragments from the edge | ~1,500 |
-| R.D. field agents | Reverie Directorate personnel studying anomalies | ~500 |
+| R.D. field specialists | Reverie Directorate personnel studying anomalies | ~500 |
 
 **Key locations:**
 
@@ -1687,7 +1687,7 @@ Somnarak is not alone. Other cities or settlements exist in the wilderness:
 **Etymology:** Korean *Gil* (길 — path, way) + *Dong* (동 — same, together)
 **Literal Meaning:** Those who walk the same path — enforcers of the city's rules
 
-**Origin:** The Giltong were established after the Consolihan — when the Taboos were first codified. The Council recognized that the Taboos needed dedicated enforcement — not just the Wardens (who maintain general order) or the Judexhan (who serve as elite agents), but specialists who understand the Taboos intimately.
+**Origin:** The Giltong were established after the Consolihan — when the Taboos were first codified. The Council recognized that the Taboos needed dedicated enforcement — not just the Wardens (who maintain general order) or the Judexhan (who serve as elite specialists), but specialists who understand the Taboos intimately.
 
 **Status:** The Giltong operate independently from all factions — they report directly to the Council of Sighs. No faction can override a Giltong's authority on Taboo matters.
 
@@ -1715,7 +1715,7 @@ THE GILTONG
     ├── The Arbiter (1) — Supreme authority on Taboo matters
     │
     ├── Senior Giltong (7) — One per Taboo
-    │   └── Giltong Agents (5-10 per Taboo)
+    │   └── Giltong Specialists (5-10 per Taboo)
     │
     └── Support Staff
         ├── Investigators (research Taboo violations)
@@ -1753,7 +1753,7 @@ THE GILTONG
 
 **How they respond:**
 1. **Detection** — Taboo violation identified
-2. **Investigation** — Giltong Agents investigate the violation
+2. **Investigation** — Giltong Specialists investigate the violation
 3. **Containment** — Violator is contained — if necessary
 4. **Judgment** — The Arbiter determines the sentence
 5. **Enforcement** — Sentence is carried out
@@ -1857,7 +1857,7 @@ Somnarak's factions exist in a complex web of competition, collusion, trade, and
 | **Wardens** | Tension | Architect construction zones create security gaps |
 | **Weavers** | Ignored | Architects focus on the physical; Weavers focus on the Dream |
 | **R.D.** | Cooperation | Architects build for the R.D; R.D. provides research |
-| **Menders** | Alliance | Menders are the Architects' field agents |
+| **Menders** | Alliance | Menders are the Architects' field specialists |
 | **Frays** | Conflict | Frays sabotage construction for profit |
 
 ---
@@ -1969,7 +1969,7 @@ Somnarak's factions exist in a complex web of competition, collusion, trade, and
 | Alliance | Nature | Secret |
 |----------|--------|--------|
 | **Council + Collectors** | Economic control | The Council uses Collectors to enforce policies it cannot openly support |
-| **R.D. + Menders** | Field operations | The R.D. uses Menders as unofficial field agents |
+| **R.D. + Menders** | Field operations | The R.D. uses Menders as unofficial field specialists |
 | **Keepers + Weavers** | Memory exploration | Keepers and Weavers secretly share research |
 | **Wardens + Giltong** | Enforcement | Wardens provide backup for Giltong operations |
 | **Frays + Citizens** | Survival | Citizens sometimes work with Frays when the system fails them |
@@ -2281,7 +2281,7 @@ Head Architect (Council member)
 Head Collector (Council member)
     │
     ├── Senior Collectors (zone-level authorities)
-    │   └── Collectors (field agents)
+    │   └── Collectors (field specialists)
     │       └── Assessors (evaluate debts)
     │           └── Apprentices (in training)
     │
@@ -2394,7 +2394,7 @@ Head Warden (Council member)
     │
     ├── Zone Commanders (5) — one per zone
     │   └── Sector Captains
-    │       └── Wardens (field agents)
+    │       └── Wardens (field specialists)
     │           └── Recruits (in training)
     │
     ├── The Border Corps
@@ -2454,7 +2454,7 @@ Head Warden (Council member)
 Head Weaver (Council member)
     │
     ├── Senior Weavers (zone-level monitors)
-    │   └── Weavers (field agents)
+    │   └── Weavers (field specialists)
     │       └── Dream Divers (specialists in Dream exploration)
     │           └── Apprentices (in training)
     │
@@ -5212,7 +5212,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | Nomads | ~3,000 |
 | Outcasts | ~4,000 |
 | Scavengers | ~1,500 |
-| R.D. field agents | ~500 |
+| R.D. field specialists | ~500 |
 | **Total** | **~16,000** |
 
 ### Grand Total — The Somnarak Sphere
@@ -5508,7 +5508,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | `Mugenhan_Ecology/` | Planetary Biosphere — 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 MSF |
 | `Katabagil/` | SED Seven Descents — Subterranean expeditionary passages 1–7 |
 | `Katharcheok/` | UCD Six Pacifications — Underworld syndicate purges 1–6 |
-| `Gieok_Jeojangso/` | Memory Archive — Seven floor receptions and mnemonic combat |
+| `Gieok_Jeojangso/` | Memory Archive — Seven floor readings and mnemonic combat |
 | `Jipyeongseondae/` | Horizon Caravan — Six trans-desolate overland expedition arcs |
 | `SOMNARAK_CITY_LAYOUT.svg` | City layout diagram |
 

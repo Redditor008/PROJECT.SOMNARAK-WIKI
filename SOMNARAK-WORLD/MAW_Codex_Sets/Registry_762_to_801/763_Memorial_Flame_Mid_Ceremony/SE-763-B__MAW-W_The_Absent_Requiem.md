@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-763` — Memorial Flame Mid-Ceremony
 **Source SECC Designation:** `C-IVδ-763 [LP]`
 **Item Registry Code:** `MAW-W-763-01`
-**Author:** Agent Durivel Cho
+**Author:** Specialist Durivel Cho
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Soul-Seeking Candel
 **Document ID:** `SE-763-B`
 **Linked Entity:** `SE-763`
 **Item Registry Code:** `MAW-W-763-01`
-**Author:** Agent Durivel Cho
+**Author:** Specialist Durivel Cho
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

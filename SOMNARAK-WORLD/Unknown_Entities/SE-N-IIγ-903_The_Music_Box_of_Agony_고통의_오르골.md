@@ -338,7 +338,7 @@ If I opened up my eyes there'd be no more going back
 
 > *"I transcribed it twice. The words were identical. Then I couldn't remember my mother's name. I had it back by morning. The box was still playing."* — Researcher Euncris Park (은크리스 박), R.D.
 
-> *"The figurine is the worst part. It sits there, crying, turning, like it knows the song will never end and it has accepted that. I think it is the one the box was made for."* — Agent Haneulash Yoon (하늘애쉬 윤), Zone D
+> *"The figurine is the worst part. It sits there, crying, turning, like it knows the song will never end and it has accepted that. I think it is the one the box was made for."* — Specialist Haneulash Yoon (하늘애쉬 윤), Zone D
 
 > *"Do not hum it. I hummed three bars in the corridor and a colleague stopped me to ask, very quietly, whether I knew my own name. I did. He did not, by the end of the shift."* — Handler Soojin (수진)
 

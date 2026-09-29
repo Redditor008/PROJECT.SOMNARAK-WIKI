@@ -7,7 +7,7 @@
 **Document ID:** `SE-205-A`
 **Related Entity ID:** `SE-205`
 **SECC Designation:** `C-IVγ-205 [WS]`
-**Author:** Agent Haneulash Yoon, Zone D Containment Specialist
+**Author:** Specialist Haneulash Yoon, Zone D Containment Specialist
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -48,7 +48,7 @@ Stripped bark hangs from a broad, lead-cold trunk. Bare limbs spread above expos
 | Void — Pale White | None recorded | The hollow resembles absence, but the measured pressure remains Weight |
 | Weight — Black | Primary | Lead-cold bark, heavy breath, bowing walls and floor during escalation |
 
-> *“It did not ask me to make the hollow useful. It made room for me to admit that something never arrived.”* — Agent Haneulash Yoon
+> *“It did not ask me to make the hollow useful. It made room for me to admit that something never arrived.”* — Specialist Haneulash Yoon
 
 **Unresolved at Observation Level 2:** whether the interior’s lost echo is held, destroyed, or carried elsewhere; why no fruit has appeared; and whether the originating settlers remain distinguishable inside the entity’s memory.
 
@@ -78,7 +78,7 @@ Stripped bark hangs from a broad, lead-cold trunk. Bare limbs spread above expos
 
 The three pieces do not fill Timber Maw’s absence. They make personnel capable of staying beside it: the Staff draws dangerous Han from the surrounding place, the Mantle bears the pressure left on the body, and the Charm marks the one space that must remain unclaimed.
 
-**Extraction rule:** Complete a successful Flerehan or Ferrehan cycle while the trunk remains empty. When the inner bark warms, a Weight echo may settle outside the root line. Agent Durivel Cho may shape that residue under Extraction Lead Zyrak’s authority. No bark, root, or material is cut from Timber Maw. The Gift remains an unforced bestowal with a 4% acquisition probability.
+**Extraction rule:** Complete a successful Flerehan or Ferrehan cycle while the trunk remains empty. When the inner bark warms, a Weight echo may settle outside the root line. Specialist Durivel Cho may shape that residue under Extraction Lead Zyrak’s authority. No bark, root, or material is cut from Timber Maw. The Gift remains an unforced bestowal with a 4% acquisition probability.
 
 | Piece | Name | Grade | Element | Main purpose | Individual Codex |
 |---|---|---:|---|---|---|
@@ -149,7 +149,7 @@ The Charm hangs or roots at the crown with a weight greater than its size. It ti
 **Observation 2 — Studied:** Flerehan and Ferrehan reduce the Gauge when personnel share or accompany the emptiness; Pugnahan deepens it; Viderehan reveals without calming.
 **Locked finding:** The Directorate has not determined whether late companionship changes Timber Maw or merely gives witnesses a safer way to bear what cannot be repaired.
 
-> *“The tree is tall. The tree is broad. The tree is hollow. None of those facts gives us permission to use the hollow as a cupboard.”* — Agent Kkotlom Lee, Echo Gardens Patrol
+> *“The tree is tall. The tree is broad. The tree is hollow. None of those facts gives us permission to use the hollow as a cupboard.”* — Specialist Kkotlom Lee, Echo Gardens Patrol
 
 ---
 
@@ -166,7 +166,7 @@ The Charm hangs or roots at the crown with a weight greater than its size. It ti
 
 **Document ID:** `SE-205-A`
 **Linked Entity:** `SE-205`
-**Author:** Agent Haneulash Yoon, Zone D Containment Specialist
+**Author:** Specialist Haneulash Yoon, Zone D Containment Specialist
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

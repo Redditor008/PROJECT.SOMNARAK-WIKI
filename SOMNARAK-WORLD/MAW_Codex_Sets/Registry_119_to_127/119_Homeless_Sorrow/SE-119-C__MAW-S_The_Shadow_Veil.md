@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / β — Moderate / Void — Pale White |
 | Status | Active; threshold witness required |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | Pale gossamer with a dark band at the hem that looks like a doorway seen from the wrong side. |
 | Active form | The fabric outlines the room’s edges and dulls the pull of empty corridors. |
 | Recognition rule | A narrow thread displays the wearer’s name only to the person standing at the designated threshold. |
@@ -87,7 +87,7 @@ Grey wore the Veil while holding a rest room for workers displaced by an Old Lam
 
 The Veil is the witnessed boundary of *A Place for Tonight*. Lens supplies a temporary address and Hearth receives the settled sorrow; the Veil makes sure nobody is left forgotten inside the shelter.
 
-> *“A locked room is not always a held room.”* — Agent Iseulfros Kim
+> *“A locked room is not always a held room.”* — Specialist Iseulfros Kim
 
 ---
 

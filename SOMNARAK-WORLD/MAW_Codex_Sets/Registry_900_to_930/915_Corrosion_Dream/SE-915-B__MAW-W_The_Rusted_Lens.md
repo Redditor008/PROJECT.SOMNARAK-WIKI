@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-915` — Corrosion Dream  
 **Source SECC Designation:** `O-IIIγ-915 [VS]`  
 **Item Registry Code:** `MAW-W-915-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Corrosion Dream — Witnessed Form*, The Rusted Lens performs the weapon
 **Document ID:** `SE-915-B`  
 **Linked Entity:** `SE-915`  
 **Item Registry Code:** `MAW-W-915-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

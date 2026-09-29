@@ -7,7 +7,7 @@
 **Document ID:** `SE-330-A`  
 **Related Entity ID:** `SE-330`  
 **SECC Designation:** `C-IIβ-330 [WS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
@@ -79,7 +79,7 @@ An echo forms after a full circuit ends and the witness names the farewell witho
 
 **Document ID:** `SE-330-A`  
 **Linked Entity:** `SE-330`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

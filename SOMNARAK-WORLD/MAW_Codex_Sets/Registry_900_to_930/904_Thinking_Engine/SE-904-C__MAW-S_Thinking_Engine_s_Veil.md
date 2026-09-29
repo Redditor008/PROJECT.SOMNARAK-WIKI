@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-904` — Thinking Engine  
 **Source SECC Designation:** `C-IIIγ-904 [LO]`  
 **Item Registry Code:** `MAW-S-904-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Thinking Engine — Witnessed Form*, Thinking Engine's Veil performs the
 **Document ID:** `SE-904-C`  
 **Linked Entity:** `SE-904`  
 **Item Registry Code:** `MAW-S-904-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

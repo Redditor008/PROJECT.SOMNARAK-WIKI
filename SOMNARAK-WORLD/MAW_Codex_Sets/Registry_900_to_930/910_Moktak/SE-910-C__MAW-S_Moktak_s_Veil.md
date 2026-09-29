@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-910` — Moktak  
 **Source SECC Designation:** `N-IIβ-910 [WP]`  
 **Item Registry Code:** `MAW-S-910-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Moktak — Witnessed Form*, Moktak's Veil performs the suit role while t
 **Document ID:** `SE-910-C`  
 **Linked Entity:** `SE-910`  
 **Item Registry Code:** `MAW-S-910-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-631-C`  
 **Linked Entity:** `SE-631` — Errant  
 **Item Registry Code:** `MAW-S-631-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ The hem darkens when an expired anchor is being renewed by fear rather than cons
 
 Charm keeps spatial consent clear, Mantle protects current position, and Maul breaks forced removal. Together they support belonging that can change.
 
-> *“The cloth stayed safe only while staying remained a choice.”* — Agent Haneulash Yoon
+> *“The cloth stayed safe only while staying remained a choice.”* — Specialist Haneulash Yoon
 
 ---
 
 **Document ID:** `SE-631-C`  
 **Linked Entity:** `SE-631`  
 **Item Registry Code:** `MAW-S-631-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -8,11 +8,11 @@
 **Linked Entity:** `SE-205` — Timber Maw
 **Item Registry Code:** `MAW-G-205-01`
 **Entity Designation:** `C-IVγ-205 [WS]`
-**Author:** Agent Kkotlom Lee, Echo Gardens Patrol
+**Author:** Specialist Kkotlom Lee, Echo Gardens Patrol
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
-**Status:** Active — bearer-bound to Agent Haneulash Yoon
+**Status:** Active — bearer-bound to Specialist Haneulash Yoon
 
 ---
 
@@ -24,7 +24,7 @@ A genuine Charm casts the shadow of a leafless fruit stem. It gives no reflectio
 
 This Gift cannot be extracted, requested, purchased, or copied. Timber Maw bestows it at random after successful work. The registered acquisition probability is 4%.
 
-**Bestowal record:** During a Year 4,238 Flerehan session, Agent Haneulash Yoon sat inside the trunk and spoke about a life plan she had delayed until the people included in it were gone. She did not offer a substitute purpose and placed nothing against the inner bark. When she stood, the Charm was fixed at her crown. Agent Kkotlom Lee witnessed the appearance from outside the root line.
+**Bestowal record:** During a Year 4,238 Flerehan session, Specialist Haneulash Yoon sat inside the trunk and spoke about a life plan she had delayed until the people included in it were gone. She did not offer a substitute purpose and placed nothing against the inner bark. When she stood, the Charm was fixed at her crown. Specialist Kkotlom Lee witnessed the appearance from outside the root line.
 
 A bearer must recognize absence without treating it as an instruction. Someone who approaches Timber Maw intending to earn the Gift receives nothing.
 
@@ -62,7 +62,7 @@ Three days after bestowal, the Charm pulled Haneulash away from Timber Maw and t
 
 Haneulash initially ordered the seat inspected for a hidden entity. The Charm became heavier. Kkotlom reviewed the garden record and found that the stone had been placed for a caretaker who died before the opening gathering. No anomaly occupied it; the absence itself was the preserved intention.
 
-The agents left the seat empty, added the caretaker’s name to the garden history, and held the next briefing beside rather than on it. The Charm lifted enough for Haneulash to walk normally. This event established the present rule: acknowledgment can settle the Gift; replacement without understanding intensifies it.
+The specialists left the seat empty, added the caretaker’s name to the garden history, and held the next briefing beside rather than on it. The Charm lifted enough for Haneulash to walk normally. This event established the present rule: acknowledgment can settle the Gift; replacement without understanding intensifies it.
 
 The Charm retains the seat’s angle. Near any arranged circle, it turns first toward the place no one ever used.
 
@@ -104,14 +104,14 @@ Timber Maw angles its hollow toward the Charm without advancing. If the bearer p
 
 The +2 work bonus is not proof that the Charm protects against grief. It protects one act of discernment: knowing that an empty place can be witnessed without being seized. Bearers who confuse that distinction become slower, more certain, and less capable of recognizing the living people already present.
 
-> *“We honored the person the seat waited for. We did not hire someone to impersonate the waiting.”* — Agent Kkotlom Lee
+> *“We honored the person the seat waited for. We did not hire someone to impersonate the waiting.”* — Specialist Kkotlom Lee
 
 ---
 
 **Document ID:** `SE-205-D`
 **Linked Entity:** `SE-205`
 **Item Registry Code:** `MAW-G-205-01`
-**Author:** Agent Kkotlom Lee, Echo Gardens Patrol
+**Author:** Specialist Kkotlom Lee, Echo Gardens Patrol
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

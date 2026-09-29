@@ -1,4 +1,4 @@
-# Reception 4: Floor 04 — The Weeping Statue (흐느끼는 석상)
+# Reading 4: Floor 04 — The Weeping Statue (흐느끼는 석상)
 ## The Floor of Unexpressed Grief — Deep Strata Sub-Alpha Roots (-2,800m)
 
 | Operational Attribute | Specification Dossier |
@@ -10,32 +10,32 @@
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
 | **Primary Opponent** | The Weeping Statue (흐느끼는 석상 — Autonomous Lament Sovereign) |
 | **Stagger Profile** | 60% Posture Strain (Veil Shatter) / 0% Posture (Transmutation) |
-| **Key Page Yield** | `[Key Page: The Mourner]` (Lament Quenching & Posture Strain) |
+| **Memory Leaf Yield** | `[Memory Leaf: The Mourner]` (Lament Quenching & Posture Strain) |
 
 ```text
-+=====================================================================+
-|           RECEPTION DOSSIER: THE WEEPING STATUE (FLOOR 04)          |
-+---------------------------------------------------------------------+
-| RECEPTION TARGET   : The Weeping Statue                             |
-| FLOOR LEVEL        : Floor 04 — Floor of Unexpressed Grief          |
-| DOMAIN SETTING : The Flooded Catacomb of Tears (-2,800m Sub-Alpha)  |
-| PRIMARY OPPONENT   : Autonomous Petrified Sorrow Construct          |
-+---------------------------------------------------------------------+
-| OPPONENT COMBAT PROFILE (THE WEEPING STATUE):                       |
-| - Total Health (HP): 4,400 HP | Posture Pool: 320/320               |
-| - Stagger 1 Proc   : 60% Posture Strain (192 Posture) / Veil Break  |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)   |
-| - Resistances : Void 2.0x (Fatal), Grudge 1.5x, Lament 0.5x, Weight |
-|   0.5x                                                              |
-+---------------------------------------------------------------------+
-| TARGETABLE MEMORY ANCHORS:                                          |
-| 1. Siphon Veil     : 1,100 HP                                       |
-|   | Posture 260/260 (Pressurized brine torrents)                    |
-| 2. Mourning Censer : 1,400 HP                                       |
-|   | Posture 280/280 (Volcanic ash incense smashes)                  |
-| 3. Sorrow Heart    : 1,900 HP                                       |
-|   | Posture 320/320 (Central crying reservoir)                      |
-+=====================================================================+
++========================================================================+
+|             READING DOSSIER: THE WEEPING STATUE (FLOOR 04)             |
++------------------------------------------------------------------------+
+| READING TARGET   : The Weeping Statue                                  |
+| FLOOR LEVEL        : Floor 04 — Floor of Unexpressed Grief             |
+| DOMAIN SETTING : The Flooded Catacomb of Tears (-2,800m Sub-Alpha)     |
+| PRIMARY OPPONENT   : Autonomous Petrified Sorrow Construct             |
++------------------------------------------------------------------------+
+| OPPONENT COMBAT PROFILE (THE WEEPING STATUE):                          |
+| - Total Health (HP): 4,400 HP | Posture Pool: 320/320                  |
+| - Stagger 1 Proc   : 60% Posture Strain (192 Posture) / Veil Break     |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)      |
+| - Resistances : Void 2.0x (Fatal), Grudge 1.5x, Lament 0.5x, Weight    |
+|   0.5x                                                                 |
++------------------------------------------------------------------------+
+| TARGETABLE MEMORY ANCHORS:                                             |
+| 1. Siphon Veil     : 1,100 HP                                          |
+|   | Posture 260/260 (Pressurized brine torrents)                       |
+| 2. Mourning Censer : 1,400 HP                                          |
+|   | Posture 280/280 (Volcanic ash incense smashes)                     |
+| 3. Sorrow Heart    : 1,900 HP                                          |
+|   | Posture 320/320 (Central crying reservoir)                         |
++========================================================================+
 ```
 
 > *"For four thousand years, no one was permitted to cry in the facility. You smiled when the operatives screamed. You bowed when the bodies were dragged into the incinerator. If you shed a single tear, the illusion would shatter. So you turned to stone."*
@@ -107,40 +107,40 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 
 ---
 
-## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)
+## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 01          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — FLOOR 04 FLOODED CATACOMB (-2,800M)]        |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL][SEIYON][M-PROJ][GEYSER][STATUE]                            |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 01: Ingress Stasis Portal / Catacomb Vestibule               |
-| - Node 02: Secretary Seiyon (Vanguard Band 1 / Hydro-Deflection     |
-|   Stance)                                                           |
-| - Node 03: Mnemonic Drone (Support Band 2 / De-Icing Caliper Array) |
-| - Node 04: Pressurized Brine Geysers (Flooded Frontline Hazard)     |
-| - Node 05: The Weeping Statue (Weeping Siphon Veil & Mourning       |
-|   Censer)                                                           |
-| - Node 06: Resonant Mnemonic Lens (Tracking High-Pressure Intake    |
-|   Lines)                                                            |
-| - Node 07: Weaver Projection Array (Anchoring Thermal Stability)    |
-| - Node 10: Floor 04 Core Reliquary (The Mourner Key Page Origin)    |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50           |
-|   | Posture 140/140                                                 |
-| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40           |
-|   | Posture 100/100                                                 |
-| - Statue Core : Spd 4 -> 2 AP | HP 1,900/1,900                      |
-|   | Posture 320/320 [WEEPING]                                       |
-| - Siphon Veil : Spd 6 -> 3 AP | HP 1,100/1,100                      |
-|   | Posture 260/260 [TORRENT]                                       |
-| - Censer Arm  : Spd 3 -> 1 AP | HP 1,400/1,400                      |
-|   | Posture 280/280 [ASH SMOKE]                                     |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 04 — BATTLE TURN 01            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — FLOOR 04 FLOODED CATACOMB (-2,800M)]           |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL][SEIYON][M-PROJ][GEYSER][STATUE]                               |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 01: Ingress Stasis Portal / Catacomb Vestibule                  |
+| - Node 02: Secretary Seiyon (Vanguard Band 1 / Hydro-Deflection        |
+|   Stance)                                                              |
+| - Node 03: Mnemonic Drone (Support Band 2 / De-Icing Caliper Array)    |
+| - Node 04: Pressurized Brine Geysers (Flooded Frontline Hazard)        |
+| - Node 05: The Weeping Statue (Weeping Siphon Veil & Mourning          |
+|   Censer)                                                              |
+| - Node 06: Resonant Mnemonic Lens (Tracking High-Pressure Intake       |
+|   Lines)                                                               |
+| - Node 07: Weaver Projection Array (Anchoring Thermal Stability)       |
+| - Node 10: Floor 04 Core Reliquary (The Mourner Memory Leaf Origin)    |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50              |
+|   | Posture 140/140                                                    |
+| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40              |
+|   | Posture 100/100                                                    |
+| - Statue Core : Spd 4 -> 2 AP | HP 1,900/1,900                         |
+|   | Posture 320/320 [WEEPING]                                          |
+| - Siphon Veil : Spd 6 -> 3 AP | HP 1,100/1,100                         |
+|   | Posture 260/260 [TORRENT]                                          |
+| - Censer Arm  : Spd 3 -> 1 AP | HP 1,400/1,400                         |
+|   | Posture 280/280 [ASH SMOKE]                                        |
++========================================================================+
 ```
 
 ### Turn 01 Action Resolution Log (Intercepting the Pressurized Brine Torrent)
@@ -168,32 +168,32 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 02          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — SIPHON VEIL SEVERED & ICE SHATTER]          |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][STATUE]                           |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Driving Prismatic Stiletto into Siphon Intake    |
-|   Manifold)                                                         |
-| - Node 04: Mnemonic Drone (Thermal Torch Burning Brass Siphon       |
-|   Joint)                                                            |
-| - Node 05: The Weeping Statue (Siphon Veil Destroyed 0/1,100 HP)    |
-| - Node 06: Resonant Lens (Tagging Fractured Chains on Mourning      |
-|   Censer)                                                           |
-| - Node 07: Weaver Array (Absorbing Glacial Shockwaves)              |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Statue Core : Spd 3 -> 1 AP         | HP 1,900/1,900              |
-|   | Posture 242/320                                                 |
-| - Siphon Veil : DESTROYED (0/1,100 HP)| BRINE TORRENTS PERMANENTLY  |
-|   HALTED                                                            |
-| - Censer Arm  : Spd 3 -> 1 AP         | HP 1,120/1,400              |
-|   | Posture 216/280                                                 |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 04 — BATTLE TURN 02            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — SIPHON VEIL SEVERED & ICE SHATTER]             |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][STATUE]                              |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Driving Prismatic Stiletto into Siphon Intake       |
+|   Manifold)                                                            |
+| - Node 04: Mnemonic Drone (Thermal Torch Burning Brass Siphon          |
+|   Joint)                                                               |
+| - Node 05: The Weeping Statue (Siphon Veil Destroyed 0/1,100 HP)       |
+| - Node 06: Resonant Lens (Tagging Fractured Chains on Mourning         |
+|   Censer)                                                              |
+| - Node 07: Weaver Array (Absorbing Glacial Shockwaves)                 |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Statue Core : Spd 3 -> 1 AP         | HP 1,900/1,900                 |
+|   | Posture 242/320                                                    |
+| - Siphon Veil : DESTROYED (0/1,100 HP)| BRINE TORRENTS PERMANENTLY     |
+|   HALTED                                                               |
+| - Censer Arm  : Spd 3 -> 1 AP         | HP 1,120/1,400                 |
+|   | Posture 216/280                                                    |
++========================================================================+
 ```
 
 ### Turn 02 Action Resolution Log (Part Destruction: Siphon Veil Shattered)
@@ -224,30 +224,30 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 03          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CENSER CRUSH]         |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][STATUE]                           |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Counter-Slash Severing Censer Chains)            |
-| - Node 04: Mnemonic Drone (Piston Ram Shattering Alabaster Arm)     |
-| - Node 05: The Weeping Statue (STAGGER LEVEL 1 / DEFENSES COLLAPSED |
-|   / TEARS DRIED)                                                    |
-| - Node 06: Resonant Lens (Directing Focused Void Pulse on Sorrow    |
-|   Heart)                                                            |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Statue Core : Spd 0 -> 0 AP         | HP 1,640/1,900              |
-|   | Posture 124/320 [STAGGER LEVEL 1]                               |
-| - Censer Arm  : Spd 0 -> 0 AP         | HP 540/1,400                |
-|   | Posture 98/280 [SEVERED]                                        |
-| - Total Boss : HP 2,180/4,400 [THRESHOLD BREACHED / TAKES 1.5X      |
-|   DAMAGE]                                                           |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 04 — BATTLE TURN 03            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CENSER CRUSH]            |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][STATUE]                              |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Counter-Slash Severing Censer Chains)               |
+| - Node 04: Mnemonic Drone (Piston Ram Shattering Alabaster Arm)        |
+| - Node 05: The Weeping Statue (STAGGER LEVEL 1 / DEFENSES COLLAPSED    |
+|   / TEARS DRIED)                                                       |
+| - Node 06: Resonant Lens (Directing Focused Void Pulse on Sorrow       |
+|   Heart)                                                               |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Statue Core : Spd 0 -> 0 AP         | HP 1,640/1,900                 |
+|   | Posture 124/320 [STAGGER LEVEL 1]                                  |
+| - Censer Arm  : Spd 0 -> 0 AP         | HP 540/1,400                   |
+|   | Posture 98/280 [SEVERED]                                           |
+| - Total Boss : HP 2,180/4,400 [THRESHOLD BREACHED / TAKES 1.5X         |
+|   DAMAGE]                                                              |
++========================================================================+
 ```
 
 ### Turn 03 Action Resolution Log (First Stagger Proc & Mourning Censer Severed)
@@ -277,29 +277,29 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 04          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][STATUE][M-PROJ]                   |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Prismatic Needle Void Execution Flurry on        |
-|   Exposed Heart)                                                    |
-| - Node 05: The Weeping Statue (Immobilized / White Alabaster        |
-|   Weeping Tears)                                                    |
-| - Node 06: Mnemonic Drone (Pneumatic Ram Shattering Altar Base)     |
-| - Node 07: Resonant Lens (Directing Consoling Resonance Wave )      |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
-|   | SP 50/50                                                        |
-| - Statue Core : Spd 0 -> 0 AP               | HP 510/1,900          |
-|   | Posture 48/320                                                  |
-| - Mourning Cen: DESTROYED (0/1,400 HP)                              |
-| - Total Boss : HP 510/4,400 [BURST DAMAGE 1,670! SECOND THRESHOLD   |
-|   SKIPPED]                                                          |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 04 — BATTLE TURN 04            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]        |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][STATUE][M-PROJ]                      |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Prismatic Needle Void Execution Flurry on           |
+|   Exposed Heart)                                                       |
+| - Node 05: The Weeping Statue (Immobilized / White Alabaster           |
+|   Weeping Tears)                                                       |
+| - Node 06: Mnemonic Drone (Pneumatic Ram Shattering Altar Base)        |
+| - Node 07: Resonant Lens (Directing Consoling Resonance Wave )         |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400           |
+|   | SP 50/50                                                           |
+| - Statue Core : Spd 0 -> 0 AP               | HP 510/1,900             |
+|   | Posture 48/320                                                     |
+| - Mourning Cen: DESTROYED (0/1,400 HP)                                 |
+| - Total Boss : HP 510/4,400 [BURST DAMAGE 1,670! SECOND THRESHOLD      |
+|   SKIPPED]                                                             |
++========================================================================+
 ```
 
 ### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
@@ -326,27 +326,27 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 05          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — THE TSUNAMI OF LAMENT & SOLACE OVERDRIVE]   |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][STATUE][M-PROJ]                   |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Relic Overdrive: SOLACE OF THE LIVING TEAR)      |
-| - Node 05: The Weeping Statue (Last Stand: Tsunami of Four Thousand |
-|   Years)                                                            |
-| - Node 06: Mnemonic Drone (Deploying Prismatic Caliper Damping      |
-|   Bubble)                                                           |
-| - Node 07: Weaver Array (Anchoring Thermal Integrity Across Pool)   |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400          |
-|   | SP 50/50 [RESOLVE]                                              |
-| - Statue Core : Spd 3 -> 1 AP             | HP 510/1,900            |
-|   | Posture 24/320 [EXHAUSTED]                                      |
-| - Total Boss  : HP 510/4,400 [TSUNAMI TRANSMUTED TO GOLDEN VAPOR]   |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 04 — BATTLE TURN 05            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — THE TSUNAMI OF LAMENT & SOLACE OVERDRIVE]      |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][STATUE][M-PROJ]                      |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Relic Overdrive: SOLACE OF THE LIVING TEAR)         |
+| - Node 05: The Weeping Statue (Last Stand: Tsunami of Four Thousand    |
+|   Years)                                                               |
+| - Node 06: Mnemonic Drone (Deploying Prismatic Caliper Damping         |
+|   Bubble)                                                              |
+| - Node 07: Weaver Array (Anchoring Thermal Integrity Across Pool)      |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400             |
+|   | SP 50/50 [RESOLVE]                                                 |
+| - Statue Core : Spd 3 -> 1 AP             | HP 510/1,900               |
+|   | Posture 24/320 [EXHAUSTED]                                         |
+| - Total Boss  : HP 510/4,400 [TSUNAMI TRANSMUTED TO GOLDEN VAPOR]      |
++========================================================================+
 ```
 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Tsunami of Lament & Solace Overdrive)
@@ -372,27 +372,27 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 06          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE MOURNER]      |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                         [SEIYON] [STATUE][M-PROJ]          |
-| [LENS][WEAVER][STAIRS][PAGE]                                        |
-+---------------------------------------------------------------------+
-| - Node 05: The Weeping Statue (PACIFIED & DISSOLVING TO WARM RAIN)  |
-| - Node 06: Seiyon (Floor Realization 4: 'Tears Acknowledged Become  |
-|   Hope')                                                            |
-| - Node 07: Mnemonic Core Transmutation -> [Key Page: The Mourner]   |
-| - Node 10: Spiral Alabaster Staircase (Pathway to Floor 05 OPEN)    |
-+---------------------------------------------------------------------+
-| - Seiyon Status: Zero Damage                                        |
-|   | Composure 50/50 SP (Tranquil Awakening)                         |
-| - Reception Status: 100% RESOLVED | Key Page Transmuted             |
-+=====================================================================+
++========================================================================+
+|            TACTICAL STAGE HUD: READING 04 — BATTLE TURN 06             |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE MOURNER]      |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                         [SEIYON] [STATUE][M-PROJ]             |
+| [LENS][WEAVER][STAIRS][PAGE]                                           |
++------------------------------------------------------------------------+
+| - Node 05: The Weeping Statue (PACIFIED & DISSOLVING TO WARM RAIN)     |
+| - Node 06: Seiyon (Floor Realization 4: 'Tears Acknowledged Become     |
+|   Hope')                                                               |
+| - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Mourner]   |
+| - Node 10: Spiral Alabaster Staircase (Pathway to Floor 05 OPEN)       |
++------------------------------------------------------------------------+
+| - Seiyon Status: Zero Damage                                           |
+|   | Composure 50/50 SP (Tranquil Awakening)                            |
+| - Reading Status: 100% RESOLVED | Memory Leaf Transmuted               |
++========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 4 & Key Page: The Mourner)
+### Turn 06 Action Resolution Log (Floor Realization 4 & Memory Leaf: The Mourner)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/320 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -402,10 +402,10 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
   * Inside Seiyon's cognitive matrix, the realization crystallizes:
     > *"Grief is not a weakness to be purged by steel and programming. It is the proof that what was lost possessed infinite value. If we freeze our tears to survive, we survive as corpses. To mourn is to honor the living."*
   * **FLOOR REALIZATION 4 ACHIEVED!**
-  * The Weeping Statue's marble body softens, dissolving into thousands of warm, luminous droplets that condense into a glowing sapphire-bound volume: **`[Key Page: The Mourner]`**!
+  * The Weeping Statue's marble body softens, dissolving into thousands of warm, luminous droplets that condense into a glowing sapphire-bound volume: **`[Memory Leaf: The Mourner]`**!
   * Deals **510 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Mourner]` (Inflicts +30% Posture Strain on frenzied enemies and quenches incoming thermal damage).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Mourner]` (Inflicts +30% Posture Strain on frenzied enemies and quenches incoming thermal damage).
   * **Descent Access**: The alabaster altar parts in the center of the warm pool, revealing a spiral staircase of crystalline glass descending to **Floor 05: Floor of Severed Truth**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
@@ -426,29 +426,29 @@ Drone M-PROJ-01 rotated its sensor rings, clearing the salt residue from its ocu
 At the center of the drained altar, the alabaster flagstones descended into a narrow, prismatic shaft. Light from below was not golden or blue, but sharp, multi-hued, and blindingly clear: **Floor 05: Floor of Severed Truth (-2,950m)**. Faint acoustic pulses—like the ringing of diamond chimes—echoed from the depths.
 
 ```text
-+=====================================================================+
-|                MNEMONIC HARVEST: KEY PAGE THE MOURNER               |
-+---------------------------------------------------------------------+
-| ACQUIRED REQUISITION : [Key Page: The Mourner]                      |
-| PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription          |
-| PASSIVE AFFINITIES   : Void 1.0x (Normal), Lament 0.5x (Resistant), |
-|                      Weight 1.0x (Normal), Grudge 1.5x (Endure)     |
-+---------------------------------------------------------------------+
-| CORE PASSIVE TRAITS:                                                |
-| 1. Quenched Lament : Incoming Lament and thermal damage reduced by  |
-| 50%.                                                                |
-| 2. Tears of Solace : At round end, heal +15 HP and +5 SP to the     |
-| lowest                                                              |
-|                      health ally on the field.                      |
-| 3. Dissolution Strain: Inflict +30% Posture Strain against targets  |
-|                      channeling wide-area or ultimate arts.         |
-+---------------------------------------------------------------------+
-| UNLOCKED BATTLE ARTS:                                               |
-| - [Solace Cascade]   : Spends 2 AP | Power 16-24                    |
-|   | Cleanses Negative Buffs                                         |
-| - [Deluge of Solace] : Spends 3 AP | Power 24-32                    |
-|   | Area Healing & Ward                                             |
-+=====================================================================+
++========================================================================+
+|                MNEMONIC HARVEST: MEMORY LEAF THE MOURNER               |
++------------------------------------------------------------------------+
+| ACQUIRED REQUISITION : [Memory Leaf: The Mourner]                      |
+| PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription             |
+| PASSIVE AFFINITIES   : Void 1.0x (Normal), Lament 0.5x (Resistant),    |
+|                      Weight 1.0x (Normal), Grudge 1.5x (Endure)        |
++------------------------------------------------------------------------+
+| CORE PASSIVE TRAITS:                                                   |
+| 1. Quenched Lament : Incoming Lament and thermal damage reduced by     |
+| 50%.                                                                   |
+| 2. Tears of Solace : At round end, heal +15 HP and +5 SP to the        |
+| lowest                                                                 |
+|                       health ally on the field.                        |
+| 3. Dissolution Strain: Inflict +30% Posture Strain against targets     |
+|                      channeling wide-area or ultimate arts.            |
++------------------------------------------------------------------------+
+| UNLOCKED BATTLE ARTS:                                                  |
+| - [Solace Cascade]   : Spends 2 AP | Power 16-24                       |
+|   | Cleanses Negative Buffs                                            |
+| - [Deluge of Solace] : Spends 3 AP | Power 24-32                       |
+|   | Area Healing & Ward                                                |
++========================================================================+
 ```
 
-Seiyon bound `[Key Page: The Mourner]` to her primary mnemonic core. The light around her avatar softened into a gentle, luminous azure, radiating warmth that banished the subterranean chill from the air. She motioned to the drone and stepped down into the crystal shaft, ready to face the severed truth of the Directorate's founding sin.
+Seiyon bound `[Memory Leaf: The Mourner]` to her primary mnemonic core. The light around her avatar softened into a gentle, luminous azure, radiating warmth that banished the subterranean chill from the air. She motioned to the drone and stepped down into the crystal shaft, ready to face the severed truth of the Directorate's founding sin.

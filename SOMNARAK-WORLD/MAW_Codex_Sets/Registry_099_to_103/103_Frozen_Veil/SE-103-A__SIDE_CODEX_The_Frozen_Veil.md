@@ -47,7 +47,7 @@ Thermometers remain ordinary while people report an impossible cold. The Veil’
 | Void | Primary | Colors, sound, and emotional associations lose definition around the entity. |
 | Weight | Low | Returning feeling after exposure can arrive as a crushing delayed burden. |
 
-> *“I knew I loved my daughter. I could remember the fact. For three days, I could not remember what loving her felt like.”* — Agent Iseulfros Kim
+> *“I knew I loved my daughter. I could remember the fact. For three days, I could not remember what loving her felt like.”* — Specialist Iseulfros Kim
 
 ### Open questions
 
@@ -160,7 +160,7 @@ The set offers powerful resistance to manipulation and Void pressure. Its price 
 - **Understood:** The entity is the city’s long training in emotional distance made into a person-shaped cold.
 - **Mastery condition:** Protection from feeling must never be mistaken for a better way to live without it.
 
-> *“The dangerous part is not that the Veil hurts. It is that, at first, it makes the lack of hurt feel reasonable.”* — Agent Iseulfros Kim
+> *“The dangerous part is not that the Veil hurts. It is that, at first, it makes the lack of hurt feel reasonable.”* — Specialist Iseulfros Kim
 
 ---
 

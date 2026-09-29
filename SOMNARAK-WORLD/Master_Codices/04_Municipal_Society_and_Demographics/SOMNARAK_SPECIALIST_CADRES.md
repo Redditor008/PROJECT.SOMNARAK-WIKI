@@ -56,7 +56,7 @@ Each Cadre operates as both a specialized guild and a municipal defense associat
 |   | Subterranean Deep Contracts & Inter-District Warfare            |
 | Sec 04  | Field Officer                                             |
 |   | Standard Municipal Security, Corporate Asset Defense            |
-| Sec 05  | Junior Agent                                              |
+| Sec 05  | Junior Specialist                                         |
 |   | Routine District Patrols, Debt Escort, Minor Trapping           |
 | Sec 06                                                              |
 |   | Intake & Scribe| Contract Intake, Triage, Logistics & Trainee E |
@@ -81,8 +81,8 @@ The seasoned field veterans who handle long-duration deployments into the Subter
 ### 4. Section 4: The Municipal Core (제4과 — Je-Sa-Gwa)
 The workhorse backbone of each Cadre, comprising approximately 40% of its active personnel. Section 4 operatives handle commercial bank security, corporate escort, neighborhood fracture sealing, and municipal infrastructure protection.
 
-### 5. Section 5: The Field Agents (제5과 — Je-O-Gwa)
-Junior contractors who have completed initial combat training and achieved basic resonance stabilization. Section 5 agents perform routine patrol duties, crowd control during acoustic curfews, and low-risk asset transport.
+### 5. Section 5: The Field Specialists (제5과 — Je-O-Gwa)
+Junior contractors who have completed initial combat training and achieved basic resonance stabilization. Section 5 specialists perform routine patrol duties, crowd control during acoustic curfews, and low-risk asset transport.
 
 ### 6. Section 6: The Intake & Logistics Desk (제6과 — Je-Yuk-Gwa)
 The intake hub of the Cadre, staffed by contract triage scribes, forensic evaluators, apprentices, and probationary recruits. Section 6 screens all incoming civilian and corporate requests, calculating risk coefficients and assigning appropriate section deployment bands.

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-916` — Devouring Bloom  
 **Source SECC Designation:** `C-IIIγ-916 [N]`  
 **Item Registry Code:** `MAW-S-916-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Mantle performs the
 **Document ID:** `SE-916-C`  
 **Linked Entity:** `SE-916`  
 **Item Registry Code:** `MAW-S-916-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

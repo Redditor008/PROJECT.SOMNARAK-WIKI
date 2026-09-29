@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Aggression strengthens its purpose.
 - Personnel feel peace when they choose not to open it.
 
-**Personnel Note:** *"I felt peace when I stepped away. The Lock was not keeping knowledge from me; it was asking whether I could carry it."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt peace when I stepped away. The Lock was not keeping knowledge from me; it was asking whether I could carry it."* — Specialist, Zone D patrol
 
 
 

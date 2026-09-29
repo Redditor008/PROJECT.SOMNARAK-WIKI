@@ -438,7 +438,7 @@ Powerful entities possess encounter-defining mechanics, requiring coordinated mu
   - *Special Condition:* If silenced through acoustic dampeners, its physical shell becomes vulnerable to blunt force.
 
 - **The Smothering Mother (`IV-δ-005`):**
-  - *Embrace Attack:* Grapples agents in a crushing, suffocating embrace dealing continuous Grudge damage.
+  - *Embrace Attack:* Grapples specialists in a crushing, suffocating embrace dealing continuous Grudge damage.
   - *Sorrow Absorption:* Drains Han from trapped personnel to reinforce her carapace.
   - *Weakness:* Viderehan — presenting memories showing her child at peace disarms her aggression.
   - *Special Condition:* Releasing victims requires presenting authentic uncorrupted family Echoes.
@@ -453,7 +453,7 @@ Powerful entities possess encounter-defining mechanics, requiring coordinated mu
 
 ### Part B: Echo-Core Suppressions — Departmental Realization Battles (핵 진압 결전)
 
-When an Echo-Core fractures under accumulated cycle trauma, their sector undergoes a **Core Crisis (핵 위기)**. The Director and deployed agents must suppress the sector lead to ground their consciousness and achieve **Departmental Realization**.
+When an Echo-Core fractures under accumulated cycle trauma, their sector undergoes a **Core Crisis (핵 위기)**. The Director and deployed specialists must suppress the sector lead to ground their consciousness and achieve **Departmental Realization**.
 
 #### Permanent Suppression Rewards
 - **+10 to All Attributes:** Surviving personnel receive a permanent +10 to Resilience, Clarity, Composure, and Resolve.
@@ -464,26 +464,26 @@ When an Echo-Core fractures under accumulated cycle trauma, their sector undergo
 
 ##### Floor 2 — Dekan: The Maw Heartbeat Surge
 - **Boss Role:** Living graft resonance conduit.
-- **Combat Dynamic:** The collective lament of the thousand consumed souls floods Floor 2 in Crimson mist. Containment cells suffer cascading resonance failures. Agents must alternate between pacifying breached containment vats and pinning Dekan's scaled biological arm to ground his neural feedback.
+- **Combat Dynamic:** The collective lament of the thousand consumed souls floods Floor 2 in Crimson mist. Containment cells suffer cascading resonance failures. Specialists must alternate between pacifying breached containment vats and pinning Dekan's scaled biological arm to ground his neural feedback.
 
 ##### Floor 3 — Zyrak: Forge Bleed Overload
 - **Boss Role:** Android forge-master in cognitive memory bleed.
-- **Combat Dynamic:** Unformed M.A.W. resonance vats burst into volatile Han crystallization pulses. Cold crystallization fields sweep the room, locking agent gear. Agents must disrupt her calibration resonance while avoiding surgical mechanical strikes from her sorrow-forged hands.
+- **Combat Dynamic:** Unformed M.A.W. resonance vats burst into volatile Han crystallization pulses. Cold crystallization fields sweep the room, locking agent gear. Specialists must disrupt her calibration resonance while avoiding surgical mechanical strikes from her sorrow-forged hands.
 
 ##### Floor 4 — Ayshuk: Void Logic Collapse
 - **Boss Role:** Emotionally null Android intellect experiencing feedback collapse.
-- **Combat Dynamic:** The Void of missing sorrow inverts the floor's analytical matrices. Sorrow Gauges project hallucinatory data, and Work Type effectiveness reverses. Agents must solve cognitive alignment puzzles under extreme mental disorientation to stabilize Ayshuk's Research Ledger.
+- **Combat Dynamic:** The Void of missing sorrow inverts the floor's analytical matrices. Sorrow Gauges project hallucinatory data, and Work Type effectiveness reverses. Specialists must solve cognitive alignment puzzles under extreme mental disorientation to stabilize Ayshuk's Research Ledger.
 
 ##### Floor 5 — Mellda: The Warden Martial Trial (The Pure Combat Duel)
 - **Boss Role:** Immovable heavy Warden bulwark.
-- **Combat Dynamic:** Mellda overclocks her Cyborg chassis, treating the facility itself as an Outside Sorrow breach. She engages agents in a relentless, uncompromising physical duel using **Threshold Vow**:
+- **Combat Dynamic:** Mellda overclocks her Cyborg chassis, treating the facility itself as an Outside Sorrow breach. She engages specialists in a relentless, uncompromising physical duel using **Threshold Vow**:
   - *Warden's Puncture:* Linear Room-range piston thrusts dealing 6–16 Weight direct damage plus 2 Grudge/s hemorrhaging (100% → 70% → 50% line falloff).
-  - *Singular Weight Wave:* Massive 25-Weight shockwaves that sweep the arena, battering agents backward.
-  - *Win Condition:* Agents cannot talk Mellda down; they must break her defensive stance and withstand her crushing kinetic onslaught to prove their martial resolve.
+  - *Singular Weight Wave:* Massive 25-Weight shockwaves that sweep the arena, battering specialists backward.
+  - *Win Condition:* Specialists cannot talk Mellda down; they must break her defensive stance and withstand her crushing kinetic onslaught to prove their martial resolve.
 
 ##### Floor 6 — Marjuk: Memory Vault Leak
 - **Boss Role:** Cryogen archive keeper drowned in forgotten history.
-- **Combat Dynamic:** Stasis containment seals shatter, releasing acoustic whispers and erased memories of the Cheongula sacrifice. The room fills with temporal vertigo and phantom echoes. Agents must navigate shifting floor geometry to reach and realign Marjuk's Memory Lens.
+- **Combat Dynamic:** Stasis containment seals shatter, releasing acoustic whispers and erased memories of the Cheongula sacrifice. The room fills with temporal vertigo and phantom echoes. Specialists must navigate shifting floor geometry to reach and realign Marjuk's Memory Lens.
 
 ##### Floor 7 — Ishall: The Dual Suppression Anomaly (Two-Phase Boss Gauntlet)
 *Echo-Core 8 represents Facility 01's only two-phase sequential suppression battle:*
@@ -499,7 +499,7 @@ When an Echo-Core fractures under accumulated cycle trauma, their sector undergo
 
 ##### Floor 8 — Xyan: Desolate Gale Breach
 - **Boss Role:** Desolate-changed boundary vanguard.
-- **Combat Dynamic:** The boundary threshold fractures, letting howling Desolate winds, toxic Han dust, and phantasmal route echoes flood the lower corridors. Calcifying pale crystal spreads across the floor. Agents must fight their way upstream through the storm against heavy Weight pressure to reach and ground Xyan's Neural Spine.
+- **Combat Dynamic:** The boundary threshold fractures, letting howling Desolate winds, toxic Han dust, and phantasmal route echoes flood the lower corridors. Calcifying pale crystal spreads across the floor. Specialists must fight their way upstream through the storm against heavy Weight pressure to reach and ground Xyan's Neural Spine.
 
 ---
 
@@ -571,7 +571,7 @@ Combat doctrine across Somnarak is codified into six distinct operational branch
 2. **Reverie Directorate (R.D.) Style**: Facility containment operations governed by the **Nine Echo-Cores** (Floors 1 to 8), mid-combat Work Cycle execution (Ferrehan, Flerehan, Pugnahan, Viderehan), emergency sector lockdown gates, and multi-color Ordeal suppression across the 10-node containment vault.
 3. **Underworld Cleanup Descend (UCD) Style**: Urban CQB across The Raw, featuring **Targeted Part Dismantling** (shattering enemy exoskeletons and weapon manifolds), in-combat forensic auditing by Yuna, and non-lethal hostage/foundation preservation behind Taeho's Obsidian Bastion.
 4. **Somnarak Exploration Decree (SED) Style**: Subterranean abyssal descents governed by **Strata Depth Atmospheric Pressure** (-50m to -3,500m), acoustic sonar decibel stealth to prevent awakening dormant behemoths, oxygen/fuel burn timers, and seismic piton anchoring.
-5. **The Memory Archive (Gieok Jeojangso) Style**: Deep strata sub-Alpha roots (-2,350m to -3,250m) governed by the **Library Reception Protocol**, modular memory anchor dismantling, Mnemonic Projection Arrays, and terminal Floor Realizations transmuting suffering into equipable Key Pages.
+5. **The Memory Archive (Gieok Jeojangso) Style**: Deep strata sub-Alpha roots (-2,350m to -3,250m) governed by the **Library Reading Protocol**, modular memory anchor dismantling, Mnemonic Projection Arrays, and terminal Floor Realizations transmuting suffering into equipable Memory Leaves.
 6. **The Horizon Caravan (Jipyeongseondae) Style**: Overland planetary expedition warfare across The Desolate, Sea of Glass, Cheonbulok, and Mugeukji, governed by **The Drift Throne** mobile crawler support, planetary ley-drive geothermic harvesting, high-speed sand-skimmer maneuvers, and heavy spinal siege railgun strikes.
 
 *(For full mathematical formulas, node wireframes, AP spending menus, and complete turn flowcharts, refer to the authoritative master codex: `SOMNARAK_BATTLE_SYSTEM_STYLES.md`).*

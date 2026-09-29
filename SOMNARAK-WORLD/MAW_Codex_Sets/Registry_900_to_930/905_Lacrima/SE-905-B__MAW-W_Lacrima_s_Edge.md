@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-905` — Lacrima  
 **Source SECC Designation:** `N-Iα-905 [VO]`  
 **Item Registry Code:** `MAW-W-905-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Lacrima — Witnessed Form*, Lacrima's Edge performs the weapon role whi
 **Document ID:** `SE-905-B`  
 **Linked Entity:** `SE-905`  
 **Item Registry Code:** `MAW-W-905-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Range:** 3 (Medium: 2–3m)
 **Pattern:** Masticating Cleave / Heavy Chomp
 
-**Appearance:** A massive, two-meter executioner's cleaver forged from petrified dark wood and calcified bone. When stowed or unequipped, it rests as a solid, monolithic slab blade. When gripped and swung in combat, the front-middle seam of the blade physically tears open into a gaping, predatory wooden maw lined with jagged, razor-sharp bone teeth that salivate acidic Han. As the Agent cleaves, the jaws clamp violently shut on impact, chewing through enemy posture and structural integrity.
+**Appearance:** A massive, two-meter executioner's cleaver forged from petrified dark wood and calcified bone. When stowed or unequipped, it rests as a solid, monolithic slab blade. When gripped and swung in combat, the front-middle seam of the blade physically tears open into a gaping, predatory wooden maw lined with jagged, razor-sharp bone teeth that salivate acidic Han. As the Specialist cleaves, the jaws clamp violently shut on impact, chewing through enemy posture and structural integrity.
 
 **Ability:** *Timber Chomp* — Deals heavy Weight damage at Range 3. Cleaves in a crushing arc that snaps shut upon contact, dealing high posture break and reducing target physical resistance by 15%.
 
@@ -389,6 +389,6 @@ Some sorrows mourn what was lost. Hollow Tree mourns what never filled it — th
 ## Document Information
 
 **Document ID:** SE-C-IVγ-205
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

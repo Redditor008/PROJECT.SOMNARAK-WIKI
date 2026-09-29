@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-917` — Dawn That Forgot  
 **Source SECC Designation:** `N-IIIγ-917 [VT]`  
 **Item Registry Code:** `MAW-W-917-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Edge performs t
 **Document ID:** `SE-917-B`  
 **Linked Entity:** `SE-917`  
 **Item Registry Code:** `MAW-W-917-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

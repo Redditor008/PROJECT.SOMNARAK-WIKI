@@ -59,13 +59,13 @@ Risk does not merely signify combat difficulty; it reflects the depth of human g
 
 ## 5 Rank IV: Wail Entities (WAW Equivalent)
 - **Archive Count:** 79 entities.
-- **Operational Hazard:** Severe. Wail entities possess complex escape conditions, multi-room area attacks, and aggressive breach triggers (such as clerk deaths or facility meltdown spikes).
+- **Operational Hazard:** Severe. Wail entities possess complex escape conditions, multi-room area attacks, and aggressive breach triggers (such as auxiliary deaths or facility meltdown spikes).
 - **Field Utility:** Required for harvesting elite-grade armaments needed to survive late-game [Ordeals](10-Ordeals.md).
 - **Yield:** 24–30 Max LU; high-stat weapons and fortified suits capable of enduring intense elemental pressures.
 
 ## 6 Rank V: Sovereign Entities (ALEPH Equivalent)
 - **Archive Count:** 10 entities (plus 1 Outside Sovereign: `SE-O-Vγ-003 Wilderness Tide`).
-- **Operational Hazard:** Catastrophic. Sovereigns represent existential facility crises. A breach by a Sovereign typically results in mass clerk slaughter, department destruction, and instant panic among nearby low-rank staff.
+- **Operational Hazard:** Catastrophic. Sovereigns represent existential facility crises. A breach by a Sovereign typically results in mass auxiliary slaughter, department destruction, and instant panic among nearby low-rank staff.
 - **Suppression Requirements:** Demands fully assembled, elite Rank V squads armed with complementary M.A.W. weaponry and precise shield rotations.
 - **Yield:** 32–36 Max LU; the most powerful suits and weapons in the game, granting near-immunity to specific pressures.
 

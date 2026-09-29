@@ -7,7 +7,7 @@
 **Document ID:** `SE-315-A`  
 **Related Entity ID:** `SE-315`  
 **SECC Designation:** `N-IVδ-315 [LO]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`  
@@ -36,7 +36,7 @@
 
 The seed pulses like a heart and roots nearby surfaces while remaining structurally collapsed. Planting or watering it with sorrow begins a catastrophic partial manifestation. It may implant itself into personnel during breach. Its intended form remains unknown.
 
-> *“We are not midwives to an entity whose birth conditions are catastrophe.”* — Agent Haneulash Yoon
+> *“We are not midwives to an entity whose birth conditions are catastrophe.”* — Specialist Haneulash Yoon
 
 ---
 
@@ -104,7 +104,7 @@ A stable echo forms only from tears that leave the shell and are collected after
 
 **Document ID:** `SE-315-A`  
 **Linked Entity:** `SE-315`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

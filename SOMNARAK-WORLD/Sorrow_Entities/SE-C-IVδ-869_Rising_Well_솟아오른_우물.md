@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It sings rather than speaks.
 - Exposure produces weight before rage.
 
-**Personnel Note:** *"It was singing. I felt weight. The song had no words, but I knew it had once been a warning."* — Agent, Zone C patrol
+**Personnel Note:** *"It was singing. I felt weight. The song had no words, but I knew it had once been a warning."* — Specialist, Zone C patrol
 
 
 

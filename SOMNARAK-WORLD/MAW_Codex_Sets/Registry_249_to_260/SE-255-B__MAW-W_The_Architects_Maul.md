@@ -7,7 +7,7 @@
 **Document ID:** `SE-255-B`  
 **Linked Entity:** `SE-255` — The Hollow Architect  
 **Item Registry Code:** `MAW-W-255-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Compass reads intent, Mantle permits entry, Maul addresses current failure. The 
 **Document ID:** `SE-255-B`  
 **Linked Entity:** `SE-255`  
 **Item Registry Code:** `MAW-W-255-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

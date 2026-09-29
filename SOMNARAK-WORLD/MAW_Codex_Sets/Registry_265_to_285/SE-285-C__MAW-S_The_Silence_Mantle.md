@@ -7,7 +7,7 @@
 **Document ID:** `SE-285-C`  
 **Linked Entity:** `SE-285` — Weight of Silence  
 **Item Registry Code:** `MAW-S-285-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Gift senses presence of burden, Mantle shelters choice, Maul uses one offered wo
 **Document ID:** `SE-285-C`  
 **Linked Entity:** `SE-285`  
 **Item Registry Code:** `MAW-S-285-01`  
-**Author:** Agent Hanul Grey  
+**Author:** Specialist Hanul Grey  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

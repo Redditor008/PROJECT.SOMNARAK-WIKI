@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its heat responds to emotional intent.
 - It is most active during industrial disputes.
 
-**Personnel Note:** *"It was waiting. I felt hope. The Forge could make weapons, but for one minute it made a tool that repaired instead."* — Agent, Zone D patrol
+**Personnel Note:** *"It was waiting. I felt hope. The Forge could make weapons, but for one minute it made a tool that repaired instead."* — Specialist, Zone D patrol
 
 
 
@@ -426,6 +426,6 @@ Crucible is that awareness. It still burns. It still shapes metal. But those who
 ## Document Information
 
 **Document ID:** SE-C-IIIβ-275
-**Author:** Agent Durivel Cho
+**Author:** Specialist Durivel Cho
 **Date:** Year 4238
 **Classification:** Restricted

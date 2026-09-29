@@ -7,7 +7,7 @@
 **Document ID:** `SE-340-C`  
 **Linked Entity:** `SE-340` — Clapperless  
 **Item Registry Code:** `MAW-S-340-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Resonance-Dampening Shroud is a pale veil of Han gossamer carrying one visib
 **Document ID:** `SE-340-C`  
 **Linked Entity:** `SE-340`  
 **Item Registry Code:** `MAW-S-340-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

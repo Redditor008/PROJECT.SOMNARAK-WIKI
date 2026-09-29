@@ -7,7 +7,7 @@
 **Document ID:** `SE-280-A`  
 **Related Entity ID:** `SE-280`  
 **SECC Designation:** `C-IIβ-280 [LO]`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
@@ -36,7 +36,7 @@
 
 The I-Relic remains damp in dry air and leaves salt traces. Wearing it conceals identity, reveals nearby grief, and causes continuous crying until another person removes it. It grows heavier near unexpressed sorrow and cannot be worn safely without an external remover.
 
-> *“The city demanded composed faces. The Pall kept the tears those faces could not show.”* — Agent Kkotlom Lee
+> *“The city demanded composed faces. The Pall kept the tears those faces could not show.”* — Specialist Kkotlom Lee
 
 ---
 
@@ -104,7 +104,7 @@ An echo forms after an authorized wearer completes Ferrehan, remains identifiabl
 
 **Document ID:** `SE-280-A`  
 **Linked Entity:** `SE-280`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

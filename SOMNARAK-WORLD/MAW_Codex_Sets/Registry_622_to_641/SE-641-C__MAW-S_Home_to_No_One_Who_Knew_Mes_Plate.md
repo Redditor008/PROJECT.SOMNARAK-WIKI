@@ -7,7 +7,7 @@
 **Document ID:** `SE-641-C`  
 **Linked Entity:** `SE-641` — Home to No One Who Knew Me  
 **Item Registry Code:** `MAW-S-641-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -32,7 +32,7 @@ The Plate formed around the Old Lament resident who chose to receive the relic i
 
 ## Appearance
 
-Home to No One Who Knew Me’s Plate is a breathing crimson harness of Han iron whose plate shapes change when no one watches — only one current-name strip over the sternum stays fixed, refusing revision. Binding requires a receiver who accepts protection without claiming former ownership. It formed around the Old Lament resident who chose to receive the relic in its changed state after the ceremonial title was removed. In the field, its Present Receiver resists the Grudge of unrecognized return while preserving the wearer’s current name, body, and relationship to the object — reception without inherited ownership. The overload is misnaming: calling the wearer a former owner replaces one plate with that person’s historical clothing or injury, and at full substitution the suit returns the old owner through the current body. In its recorded case an elder said the receiving resident stood where the relic’s last keeper had stood — the shoulder plates became that keeper’s coat, and her hands began performing an obsolete ceremony. The current-name strip was restored and she was asked what relationship she chose now. “Custodian for one cycle” stopped the substitution. The right shoulder still changes texture when resemblance is treated as identity.
+Home to No One Who Knew Me’s Plate is a breathing crimson harness of Han iron whose plate shapes change when no one watches — only one current-name strip over the sternum stays fixed, refusing revision. Binding requires a receiver who accepts protection without claiming former ownership. It formed around the Old Lament resident who chose to receive the relic in its changed state after the ceremonial title was removed. In the field, its Present Receiver resists the Grudge of unrecognized return while preserving the wearer’s current name, body, and relationship to the object — reading without inherited ownership. The overload is misnaming: calling the wearer a former owner replaces one plate with that person’s historical clothing or injury, and at full substitution the suit returns the old owner through the current body. In its recorded case an elder said the receiving resident stood where the relic’s last keeper had stood — the shoulder plates became that keeper’s coat, and her hands began performing an obsolete ceremony. The current-name strip was restored and she was asked what relationship she chose now. “Custodian for one cycle” stopped the substitution. The right shoulder still changes texture when resemblance is treated as identity.
 
 ## PROTECTIVE FUNCTION
 
@@ -64,14 +64,14 @@ The right shoulder still changes texture when resemblance is treated as identity
 
 Ember returns one object, Plate protects current reception, and Fang removes copies. The set fails when history is allowed to appoint the receiver’s identity.
 
-> *“Receiving the relic did not make her the keeper. Her chosen duty did.”* — Agent Iseulfros Kim
+> *“Receiving the relic did not make her the keeper. Her chosen duty did.”* — Specialist Iseulfros Kim
 
 ---
 
 **Document ID:** `SE-641-C`  
 **Linked Entity:** `SE-641`  
 **Item Registry Code:** `MAW-S-641-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

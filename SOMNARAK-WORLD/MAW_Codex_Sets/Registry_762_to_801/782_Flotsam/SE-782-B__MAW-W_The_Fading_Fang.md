@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-782` — Flotsam  
 **Source SECC Designation:** `C-IIβ-782 [GS]`  
 **Item Registry Code:** `MAW-W-782-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Flotsam — Witnessed Form*, The Fading Fang performs the weapon role wh
 **Document ID:** `SE-782-B`  
 **Linked Entity:** `SE-782`  
 **Item Registry Code:** `MAW-W-782-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

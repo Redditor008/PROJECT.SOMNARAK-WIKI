@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-884` — Seething Tundra  
 **Source SECC Designation:** `C-Iα-884 [VO]`  
 **Item Registry Code:** `MAW-W-884-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Seething Tundra — Witnessed Form*, The Frozen Lens performs the weapon
 **Document ID:** `SE-884-B`  
 **Linked Entity:** `SE-884`  
 **Item Registry Code:** `MAW-W-884-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -169,7 +169,7 @@ Dropping silently from the dome was the station's parasite queen: **SECC-E18 "Th
  BOSS ATTRIBUTES:
  - Health (HP): 1,850 | Speed Dice: 2–6 (2 Action Slots)
  - Weaknesses: Grudge (Fatal 2.0x — Explosive friction shatters glass abdomen)
- - Primary Threat: [Tensile Cable Webbing] — Roots agents, inflicting -3 Speed
+ - Primary Threat: [Tensile Cable Webbing] — Roots specialists, inflicting -3 Speed
 ================================================================================
 ```
 

@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Exposure produces temporary relief followed by emotional numbness.
 - It becomes more active during the Sorrow Tide.
 
-**Personnel Note:** *"It was mourning. I felt emptiness. Then I realized it was not mourning the dead; it was mourning the person it had become."* — Agent, Zone C patrol
+**Personnel Note:** *"It was mourning. I felt emptiness. Then I realized it was not mourning the dead; it was mourning the person it had become."* — Specialist, Zone C patrol
 
 
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-930` — Once Told  
 **Source SECC Designation:** `O-IVδ-930 [LH]`  
 **Item Registry Code:** `MAW-W-930-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Once Told — Witnessed Form*, Once Told's Edge performs the weapon role
 **Document ID:** `SE-930-B`  
 **Linked Entity:** `SE-930`  
 **Item Registry Code:** `MAW-W-930-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

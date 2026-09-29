@@ -39,7 +39,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 - **Rank I — Whisper (46 entities):** Low threat; docile behavior; excellent training subjects for novice specialists.
 - **Rank II — Murmur (70 entities):** Moderate threat; may breach or inflict mental trauma upon failure.
 - **Rank III — Fragment (82 entities):** Substantial threat; complex containment rules; requires specialized protective suits.
-- **Rank IV — Wail (79 entities):** Severe facility threat; capable of wide-area corridor devastation and clerk massacres.
+- **Rank IV — Wail (79 entities):** Severe facility threat; capable of wide-area corridor devastation and auxiliary massacres.
 - **Rank V — Sovereign (10 entities):** Catastrophic municipal crisis; capable of triggering facility-wide collapse.
 - **Tool Relics (5 entities):** Inanimate artifacts utilizing the Two-Work-Type Rule (Viderehan and Ferrehan only).
 

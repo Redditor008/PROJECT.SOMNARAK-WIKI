@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-779` — Miscast  
 **Source SECC Designation:** `C-Iα-779 [GO]`  
 **Item Registry Code:** `MAW-S-779-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Miscast — Witnessed Form*, The Torn Plate performs the suit role while
 **Document ID:** `SE-779-C`  
 **Linked Entity:** `SE-779`  
 **Item Registry Code:** `MAW-S-779-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-821` — Pent  
 **Source SECC Designation:** `N-IVδ-821 [D]`  
 **Item Registry Code:** `MAW-S-821-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Pent — Witnessed Form*, The Vanished Plate performs the suit role whil
 **Document ID:** `SE-821-C`  
 **Linked Entity:** `SE-821`  
 **Item Registry Code:** `MAW-S-821-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

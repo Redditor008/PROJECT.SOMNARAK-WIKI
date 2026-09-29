@@ -7,7 +7,7 @@
 **Document ID:** `SE-631-A`  
 **Related Entity ID:** `SE-631`  
 **SECC Designation:** `O-Iα-631 [WS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -64,13 +64,13 @@ The Grade α echoes formed when Haneulash offered a temporary seat, a named comp
 
 At the Borrowed Stall Incident, Market officials assigned an empty stall as Errant’s “new home” and locked its shutters. The root filled the stall, then tore through three adjacent floors when vendors returned. Haneulash opened every shutter, called the stall a current shelter, and asked those inside whether they wished to stay. The source steadied only after one person chose to leave.
 
-> *“Belonging offered without exit is another displacement waiting to happen.”* — Agent Haneulash Yoon
+> *“Belonging offered without exit is another displacement waiting to happen.”* — Specialist Haneulash Yoon
 
 ---
 
 **Document ID:** `SE-631-A`  
 **Linked Entity:** `SE-631`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

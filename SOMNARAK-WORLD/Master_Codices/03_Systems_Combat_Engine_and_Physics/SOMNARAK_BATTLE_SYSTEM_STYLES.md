@@ -43,10 +43,10 @@ The combat physics of Project Somnarak are unified by a single foundational engi
 |    - Core Mechanic: Composure Dialysis (+SP) & Living Suture Knit.  |
 |    - Tactical Focus: Biological Debt Liens & Cryo-Stun Restraints.  |
 +---------------------------------------------------------------------+
-| 6. THE MEMORY ARCHIVE (GIEOK) STYLE — Mnemonic Reception Protocol   |
+| 6. THE MEMORY ARCHIVE (GIEOK) STYLE — Mnemonic Reading Protocol     |
 |    - Domain: Sub-Alpha root strata (-2,350m to -3,250m).            |
 |    - Core Mechanic: Modular Memory Anchor Dismantling & Realization.|
-|    - Tactical Focus: Inquest clashes, trauma sharing & Key Pages.   |
+|  - Tactical Focus: Inquest clashes, trauma sharing & Memory Leaves. |
 +---------------------------------------------------------------------+
 | 7. THE HORIZON CARAVAN (JIPYEONG) STYLE — Trans-Desolate Navigation |
 |    - Domain: Overland Desolate, Sea of Glass & desert frontiers.    |
@@ -306,7 +306,7 @@ Every combatant in Somnarak balances two internal psychological gauges:
 
 1. **Sorrow Gauge (0% to 100%)**:
    - Represents the accumulation of ambient and manifested Han-sorrow.
-   - *For Agents*: Reaching 100% causes **Cognitive Fracture**—the agent succumbs to overwhelming grief, mutating or attacking allies indiscriminately.
+   - *For Specialists*: Reaching 100% causes **Cognitive Fracture**—the agent succumbs to overwhelming grief, mutating or attacking allies indiscriminately.
    - *For Sorrow Entities*: Reaching 100% triggers **Berserk Overdrive**, unlocking lethal multi-target attacks and stripping all stagger vulnerabilities.
 2. **Mental Composure / Sanity Points (SP: -45 to +45)**:
    - Measures operational clarity and emotional grounding.
@@ -368,7 +368,7 @@ In Reverie Directorate operations, battlefields are high-security containment se
 - **Nodes 1–2 (Chamber Core)**: Where the breached entity or Ordeal manifests. Highly hazardous; saturated with ambient Sorrow radiation.
 - **Nodes 3–4 (Inner Blast Sluice)**: Reinforced kinetic airlocks. Heavy containment wardens hold the line here with blast mantlets to prevent the entity from breaking into corridor spaces.
 - **Nodes 5–6 (Work Console Array)**: Contains specialized pneumatic terminals wired to the facility's emotion baffles. Operatives can spend 2 AP here to execute non-lethal Work Types directly on the entity.
-- **Nodes 7–8 (Quarantine Perimeter)**: Where reserve agents and snipers monitor containment gauge levels and fire sedative harpoons.
+- **Nodes 7–8 (Quarantine Perimeter)**: Where reserve specialists and snipers monitor containment gauge levels and fire sedative harpoons.
 - **Nodes 9–10 (Echo-Core Terminal)**: The direct energetic uplink to the assigned Department Floor Lead.
 
 ---
@@ -555,7 +555,7 @@ Pressure Penalty = f(Depth Stratum)   evaluated at each Phase-End
 | **Stratum 2 (-150m to -500m)** | 1.5 to 3.0 Bar | -4 SP per Phase | Movement costs +1 AP on rough nodes; thermal suit wear |
 | **Stratum 3 (-500m to -1,200m)** | 3.0 to 6.5 Bar | -6 SP per Phase | Toxic gas clouds; failure of gas masks deals Grudge bleed |
 | **Stratum 4 (-1,200m to -2,000m)** | 6.5 to 9.0 Bar | -8 SP per Phase | Crushing rock weight; all maximum Speed rolls reduced by -2 |
-| **Stratum 5 (-2,000m to -2,600m)** | 9.0 to 11.5 Bar | -10 SP per Phase | Tectonic tremors; unanchored agents risk falling into Node 1 |
+| **Stratum 5 (-2,000m to -2,600m)** | 9.0 to 11.5 Bar | -10 SP per Phase | Tectonic tremors; unanchored specialists risk falling into Node 1 |
 | **Stratum 6 (-2,600m to -2,800m)** | 11.5 to 13.5 Bar| -12 SP per Phase | Supercritical Han vapors; acoustic and sensory interference |
 | **Stratum 7 (-2,800m to Core)** | 13.5 to 15.0+ Bar| -15 SP per Phase | Primordial Nadir; Singularity diving rigs strictly mandatory |
 
@@ -646,31 +646,31 @@ The Pale Bailiffs specialize in non-lethal immobilization of high-threat subject
 
 ## X. Branch 6: The Memory Archive (Gieok Jeojangso) Style
 
-**Operational Focus**: Deep Strata Sub-Alpha Roots (-2,350m to -3,250m), 7-Floor Mnemonic Reception Chambers.  
-**Tactical Philosophy**: The Library Reception Protocol, subjugation through comprehension, modular memory anchor dismantling, and the transmutation of suffering into Key Pages.
+**Operational Focus**: Deep Strata Sub-Alpha Roots (-2,350m to -3,250m), 7-Floor Mnemonic Reading Chambers.  
+**Tactical Philosophy**: The Library Reading Protocol, subjugation through comprehension, modular memory anchor dismantling, and the transmutation of suffering into Memory Leaves.
 
 ```text
-+=====================================================================+
-|           MEMORY ARCHIVE (GIEOK JEOJANGSO) RECEPTION GRID           |
-+---------------------------------------------------------------------+
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--THRESHOLD--| |--MINIONS----| |--APEX CONSTRUCT-| |--DAIS---|     |
-+---------------------------------------------------------------------+
-| N01     : Ingress Sluice / Archive Threshold Vestibule              |
-| N02     : Seiyon Vanguard (Prismatic Stilettos & Aegis)             |
-| N03     : Mnemonic Projection Drone (Sapper Systems)                |
-| N04     : Memory Phantoms / Traumatic Minion Echoes                 |
-| N05     : Sovereign Construct Apex (Targetable Anchors)             |
-| N06     : Resonant Mnemonic Lens (Weakpoint Diagnostics)            |
-| N07     : Weaver Projection Array (Silver Thread Buffers)           |
-| N08-N09 : Suppressed Trauma Sump / Subterranean Chasm               |
-| N10     : Floor Core Reliquary / Key Page Transmutation Dais        |
-+=====================================================================+
++========================================================================+
+|              MEMORY ARCHIVE (GIEOK JEOJANGSO) READING GRID             |
++------------------------------------------------------------------------+
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]            |
+| |--THRESHOLD--| |--MINIONS----| |--APEX CONSTRUCT-| |--DAIS---|        |
++------------------------------------------------------------------------+
+| N01     : Ingress Sluice / Archive Threshold Vestibule                 |
+| N02     : Seiyon Vanguard (Prismatic Stilettos & Aegis)                |
+| N03     : Mnemonic Projection Drone (Sapper Systems)                   |
+| N04     : Memory Phantoms / Traumatic Minion Echoes                    |
+| N05     : Sovereign Construct Apex (Targetable Anchors)                |
+| N06     : Resonant Mnemonic Lens (Weakpoint Diagnostics)               |
+| N07     : Weaver Projection Array (Silver Thread Buffers)              |
+| N08-N09 : Suppressed Trauma Sump / Subterranean Chasm                  |
+| N10     : Floor Core Reliquary / Memory Leaf Transmutation Dais        |
++========================================================================+
 ```
 
-### 10.1 Spatial 10-Node Mnemonic Reception Topology
+### 10.1 Spatial 10-Node Mnemonic Reading Topology
 
-In Memory Archive receptions, combat takes place within cyclopean subterranean vaults carved into the roots of the Alpha Tree:
+In Memory Archive readings, combat takes place within cyclopean subterranean vaults carved into the roots of the Alpha Tree:
 - **Node 01 (Threshold Sluice)**: Ingress archway where Seiyon's synthetic holographic projection enters the floor.
 - **Node 02 (Seiyon Vanguard)**: Point-Blank Band 1. Seiyon engages with dual Prismatic Stilettos and deploys the Prismatic Aegis for kinetic and hydro-deflections.
 - **Node 03 (Mnemonic Projection Drone)**: Support Band 2. Autonomous drone deploying thermal, pneumatic, and resonant sappers to strip enemy armor.
@@ -679,17 +679,17 @@ In Memory Archive receptions, combat takes place within cyclopean subterranean v
 - **Node 06 (Resonant Mnemonic Lens)**: Band 3. Telemetric scanner highlighting weakpoint seams and broadcasting harmonic solace.
 - **Node 07 (Weaver Projection Array)**: Band 4. Deploys silver threads of light that absorb ambient psychological trauma and stabilize squad composure.
 - **Nodes 08–09 (Suppressed Trauma Sump & Chasm)**: Deep subterranean rifts that vent unexpressed tears or void feedback.
-- **Node 10 (Key Page Dais)**: The master reliquary where crystallized memories condense into equipable Key Pages upon Floor Realization.
+- **Node 10 (Memory Leaf Dais)**: The master reliquary where crystallized memories condense into equipable Memory Leaves upon Floor Realization.
 
 ### 10.2 Modular Memory Anchor Dismantling
 Adversaries in the Memory Archive possess discrete targetable memory anchors:
 - Each anchor represents a physical manifestation of repressed trauma (e.g., Weeping Siphon Veil, Gilded Frame of Lies, Zero-Chrono Lance).
 - Reducing an anchor to 0 HP permanently disables signature boss attacks, deducts 1 enemy Action Point, and triggers **Stagger 1**.
 
-### 10.3 Floor Realization & Key Page Transmutation
+### 10.3 Floor Realization & Memory Leaf Transmutation
 When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
 - Hostile intent drops to zero as Seiyon shares the emotional weight of the construct's forgotten trauma.
-- The construct dissolves into crystalline light, condensing into a permanent **Key Page** that unlocks passive combat arts and elemental affinities for subsequent floors.
+- The construct dissolves into crystalline light, condensing into a permanent **Memory Leaf** that unlocks passive combat arts and elemental affinities for subsequent floors.
 
 ---
 
@@ -748,7 +748,7 @@ Below is the definitive, canonical combat visualization template designed for di
 
 ### Scenario: Warden Strike Team vs Breached Entity "The Weeping Bell" (Rank III Fragment / Grade γ)
 - **Location**: Facility 01, Floor 4 (Insight Forge Sector).
-- **Roster**: Warden Captain Jin (Vanguard / Melee), Agent Min (Mid-Field / Console Specialist), Agent Ray (Rear Sniper).
+- **Roster**: Warden Captain Jin (Vanguard / Melee), Specialist Min (Mid-Field / Console Specialist), Specialist Ray (Rear Sniper).
 - **Enemy**: The Weeping Bell (Occupies Node 2).
 
 ```text
@@ -771,15 +771,15 @@ Below is the definitive, canonical combat visualization template designed for di
 #### Turn 01 Action Resolution Log
 - **Step 1: Movement & AP Allocation**:
   * Warden Jin spends 1 AP to shift from Node 3 to Node 2 (closing to Point Blank with The Bell). Remaining AP: 2.
-  * Agent Min holds Node 5 (Work Console). Spends 2 AP to initiate `[Flerehan Work Cycle]`.
-  * Agent Ray holds Node 7 (Overwatch). Spends 2 AP to aim `[Aimed Void Shot]` at Bell's clapper module. Remaining AP: 2.
+  * Specialist Min holds Node 5 (Work Console). Spends 2 AP to initiate `[Flerehan Work Cycle]`.
+  * Specialist Ray holds Node 7 (Overwatch). Spends 2 AP to aim `[Aimed Void Shot]` at Bell's clapper module. Remaining AP: 2.
 - **Step 2: Clash Engagement (Node 2)**:
   * The Weeping Bell declares `[Resonant Clang]` against Warden Jin (Base 8 + 2 Coins = 12 Power).
   * Warden Jin declares `[Heavy Cleaver Parry]` (Base 9 + 2 Coins = 14 Power).
   * **Resolution**: Jin WINS THE CLASH (14 vs 12). Bell's attack is cancelled. Jin deals 32 Weight damage, inflicting +18 Stagger. Jin SP rises from +20 to +25.
 - **Step 3: Ranged & Work Resolution**:
-  * Agent Ray fires `[Aimed Void Shot]` from Node 7 to Node 2 (Distance: 5 Nodes / Band 3). Unopposed strike deals 28 Void damage to Bell's clapper.
-  * Agent Min completes `[Flerehan Console Transmission]` from Node 5. Emotional harmonics reduce Entity Sorrow Gauge from 40% to 20%.
+  * Specialist Ray fires `[Aimed Void Shot]` from Node 7 to Node 2 (Distance: 5 Nodes / Band 3). Unopposed strike deals 28 Void damage to Bell's clapper.
+  * Specialist Min completes `[Flerehan Console Transmission]` from Node 5. Emotional harmonics reduce Entity Sorrow Gauge from 40% to 20%.
 
 ```text
 +=====================================================================+

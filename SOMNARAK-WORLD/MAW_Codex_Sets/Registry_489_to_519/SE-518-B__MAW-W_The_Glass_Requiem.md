@@ -7,7 +7,7 @@
 **Document ID:** `SE-518-B`  
 **Linked Entity:** `SE-518` — Life Behind Glass  
 **Item Registry Code:** `MAW-W-518-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Glass Requiem is a tall arched window-blade of blue Han crystal, its flat di
 **Document ID:** `SE-518-B`  
 **Linked Entity:** `SE-518`  
 **Item Registry Code:** `MAW-W-518-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

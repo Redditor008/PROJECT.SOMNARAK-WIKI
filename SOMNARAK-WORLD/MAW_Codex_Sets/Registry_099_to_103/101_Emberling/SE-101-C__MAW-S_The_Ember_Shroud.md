@@ -7,7 +7,7 @@
 **Document ID:** `SE-101-C`  
 **Linked Entity:** `SE-101` — Emberling  
 **Item Registry Code:** `MAW-S-101-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -21,7 +21,7 @@
 | Type / grade / element | Protective Attire (Fire-Retardant Spun Asbestos & Coarse Ash Wool) / β / Lament |
 | Status | Active; post-exposure warmth review mandatory |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Haneulash Yoon |
+| Current bearer | Specialist Haneulash Yoon |
 | Resting form | A blue shroud woven around a faint ash-coloured lining, cool to the skin but warm-looking at the edges. |
 | Active form | The lining gathers a dim ember-glow around a bearer who is sharing a space without demanding touch. |
 | Recognition rule | The glow appears only if the bearer has left an actual free seat or exit for the person beside them. |
@@ -89,14 +89,14 @@ Yoon wore the Shroud during an Emberling observation after a scared junior agent
 
 The Shroud is the boundary inside *Open Door*. The weapon can make a path visible and the Cloak can protect from cold, but the suit asks whether the protected person is still free to use the path.
 
-> *“Warmth without a way out can become another kind of cold.”* — Agent Haneulash Yoon
+> *“Warmth without a way out can become another kind of cold.”* — Specialist Haneulash Yoon
 
 ---
 
 **Document ID:** `SE-101-C`  
 **Linked Entity:** `SE-101`  
 **Item Registry Code:** `MAW-S-101-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

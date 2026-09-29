@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-794` — Portcullis  
 **Source SECC Designation:** `O-Iα-794 [LO]`  
 **Item Registry Code:** `MAW-S-794-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Portcullis — Witnessed Form*, The Collapsed Shroud performs the suit r
 **Document ID:** `SE-794-C`  
 **Linked Entity:** `SE-794`  
 **Item Registry Code:** `MAW-S-794-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

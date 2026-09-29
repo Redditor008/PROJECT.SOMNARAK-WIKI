@@ -21,7 +21,7 @@
 | Type / grade / element | Suit, braced harness / α — Minor / Weight — Black |
 | Status | Active; Forge rotation issue |
 | Maximum amount | 5 — Standard |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A lightweight black harness with rusted support ribs across shoulders and back. |
 | Active form | The ribs extend short dark braces toward a nearby stressed structure or person-sized load. |
 | Recognition rule | The braces deploy only after a relief time is written into the current work order. |
@@ -87,7 +87,7 @@ Grey wore the Brace during a Forge maintenance issue where a small support frame
 
 The Brace is the endurance boundary of *Relief Column*. Rusted Maul makes transfer possible and Rusted Charm identifies overload; this suit makes sure the repair does not consume the person who held first.
 
-> *“Supporting something is a task. Becoming its permanent support is a failure of the system around you.”* — Agent Iseulfros Kim
+> *“Supporting something is a task. Becoming its permanent support is a failure of the system around you.”* — Specialist Iseulfros Kim
 
 ---
 

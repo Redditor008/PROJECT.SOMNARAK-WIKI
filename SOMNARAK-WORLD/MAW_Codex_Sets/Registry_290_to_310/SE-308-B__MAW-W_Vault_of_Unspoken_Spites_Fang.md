@@ -7,7 +7,7 @@
 **Document ID:** `SE-308-B`  
 **Linked Entity:** `SE-308` — Vault of Unspoken Spite  
 **Item Registry Code:** `MAW-W-308-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm identifies deposit, Veil holds pressure, Fang removes it from storage.
 **Document ID:** `SE-308-B`  
 **Linked Entity:** `SE-308`  
 **Item Registry Code:** `MAW-W-308-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

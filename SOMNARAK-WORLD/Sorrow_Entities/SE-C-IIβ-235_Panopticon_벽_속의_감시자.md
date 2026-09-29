@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - They record actions but do not produce verdicts.
 - They are strongest in old Warden routes.
 
-**Personnel Note:** *"It was mourning. I felt fear. The eyes had watched everything and prevented almost nothing."* — Agent, Zone D patrol
+**Personnel Note:** *"It was mourning. I felt fear. The eyes had watched everything and prevented almost nothing."* — Specialist, Zone D patrol
 
 
 

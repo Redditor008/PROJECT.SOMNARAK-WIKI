@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-895` — Survivors' Breath  
 **Source SECC Designation:** `O-IVδ-895 [VS]`  
 **Item Registry Code:** `MAW-S-895-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Survivors' Breath — Witnessed Form*, The Resting Veil performs the sui
 **Document ID:** `SE-895-C`  
 **Linked Entity:** `SE-895`  
 **Item Registry Code:** `MAW-S-895-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

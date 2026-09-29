@@ -59,7 +59,7 @@ Every operational run of the Absolvohan facility spans an exact **366-day tempor
 4. **Memory Dynamics:**
    - **Director Majin:** Retains cumulative operational memory across cycles via the synchronized *Mnemonic Anchor*.
    - **Echo-Core Attendants:** Experience partial mnemonic dampening; emotional scars and trauma echoes bleed through cycles but explicit memory is suppressed until Realization.
-   - **Containment Agents:** Bodily and mentally re-synthesized from bio-reagent Han vats at the start of each cycle with baseline training profiles.
+   - **Containment Specialists:** Bodily and mentally re-synthesized from bio-reagent Han vats at the start of each cycle with baseline training profiles.
 
 ```text
 +==============================================+
@@ -118,15 +118,15 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 ### Phase 0: Day 0 — Facility Initialization & Re-Anchoring
 - **System Telemetry:** The Mnemonic Generator spins up. Director Majin awakens in Floor 1 (Central Command). Secretary Seiyon's synthetic effigy conducts primary systems diagnostics.
 - **Facility Baseline:** Ballast calibrated to 100.0%; acoustic strain zeroed across all bulkheads.
-- **Initial Roster:** Induction of three Grade 1 Containment Agents. Initial issue standard uniforms.
+- **Initial Roster:** Induction of three Grade 1 Containment Specialists. Initial issue standard uniforms.
 - **Foundational Extraction:** First containment cell initialized with **SE-C-Iα-001** (*The Weeping Child* / Class I Echo). Establishing baseline extraction protocols.
 
 ### Phase 1: Days 1 to 25 — The Upper Corridors & Foundational Induction
 - **Operational Sectors:** Floor 1 (Central Command) and Floor 2 (Containment Alpha).
 - **Daily Quota Range:** 0.010 metric tons scaling smoothly to 0.100 metric tons.
 - **Entity Threat Pool:** Exclusively Class I Echoes and low-hazard Class II Sorrows.
-- **Ordeal Incursions:** Limited strictly to **First Watch (Dawn)** incursions.
-- **Containment Agent Cadre:** Agents train from Grade 1 to Grade 2. First forging of Class I & II M.A.W. armaments (*Lament Shroud*, *Lament Requiem*, *Embrace Fang*).
+- **Ordeal Incursions:** Limited strictly to **First Watch** incursions.
+- **Containment Specialist Cadre:** Specialists train from Grade 1 to Grade 2. First forging of Class I & II M.A.W. armaments (*Lament Shroud*, *Lament Requiem*, *Embrace Fang*).
 - **Milestones:** Department missions for Floor 1 (Director Majin) and Floor 2 (Attendant Mellda) unlocked.
 
 ```text
@@ -141,9 +141,9 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 +----------------------+-----------------------+
 | Max Meltdown Level   | Strain Level III      |
 +----------------------+-----------------------+
-| Ordeal Tier          | First Watch (Dawn)    |
+| Ordeal Tier          | First Watch           |
 +----------------------+-----------------------+
-| Target Agent Grade   | Grade 1 -> Grade 2    |
+| Target Specialist Grade | Grade 1 -> Grade 2 |
 +======================+=======================+
 ```
 
@@ -156,8 +156,8 @@ The 366-day operational continuum of any random cycle is divided into eight dist
   - *The Observing Bird* (SE-C-IIIγ-031) on Floor 2.
   - *The Weighting Bird* (SE-C-IIIγ-032) on Floor 3.
   - *The Guarding Bird* (SE-C-IIIγ-033) on Floor 3.
-- **Ordeal Incursions:** Emergence of **Second Watch (Noon)** incursions (*Violet Noon*, *Amber Noon*, *Crimson Noon*, *Green Noon*).
-- **Agent Cadre:** Promotion of core cadre to Grade 3. High Composure specialists assigned to acoustic dampening.
+- **Ordeal Incursions:** Emergence of **Second Watch** incursions (*Violet Noon*, *Amber Noon*, *Crimson Noon*, *Green Noon*).
+- **Specialist Cadre:** Promotion of core cadre to Grade 3. High Composure specialists assigned to acoustic dampening.
 
 ### Phase 3: Days 51 to 100 — Heavy Containment, Memory Archives & Ballast Forge
 - **Operational Sectors:** Activation of Floor 5 (Memory Archives) and Floor 6 (The Forge & Temporal Ballast).
@@ -166,8 +166,8 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 - **Deep Facility Environmental Hazards:**
   - *Archive Sediment Fog:* Passive mental SP bleed in Floor 5 corridors requiring periodic Veil Mist ventilation.
   - *Crucible Heat Dissipation:* Extreme thermal radiation in Floor 6 corridors during high-intensity Ferrehan containment.
-- **Ordeal Incursions:** Emergence of **Third Watch (Dusk)** incursions (*Amber Dusk*, *Crimson Dusk*, *Violet Dusk*, *Green Dusk*). Coordinated multi-department suppression teams required.
-- **Agent Cadre:** Emergence of Grade 4 Senior Containment Specialists. Equipping specialized Class III M.A.W. Gift sets.
+- **Ordeal Incursions:** Emergence of **Third Watch** incursions (*Amber Dusk*, *Crimson Dusk*, *Violet Dusk*, *Green Dusk*). Coordinated multi-department suppression teams required.
+- **Specialist Cadre:** Emergence of Grade 4 Senior Containment Specialists. Equipping specialized Class III M.A.W. Gift sets.
 
 ```text
 +==============================================+
@@ -181,9 +181,9 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 +----------------------+-----------------------+
 | Max Meltdown Level   | Strain Level VI       |
 +----------------------+-----------------------+
-| Ordeal Tier          | Third Watch (Dusk)    |
+| Ordeal Tier          | Third Watch           |
 +----------------------+-----------------------+
-| Target Agent Grade   | Grade 3 -> Grade 4    |
+| Target Specialist Grade | Grade 3 -> Grade 4 |
 +======================+=======================+
 ```
 
@@ -193,8 +193,8 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 - **Echo-Core Realization Protocol:** As acoustic strain exceeds threshold tolerances, each of the eight Echo-Core Attendants undergoes a **Core Meltdown Crisis**. Cumulative cycles of trauma erode their mnemonic suppression:
   - The Director must oversee floor-by-floor containment and suppress the attendant's manifested personal grief.
   - Successfully resolving a Core Meltdown achieves **Attendant Awakening**, permanently unlocking the Floor Attendant's Sovereign Aura and granting permanent facility-wide immunities.
-- **Ordeal Incursions:** First emergence of catastrophic **Tide Watch (Midnight)** Ordeals (*Violet Midnight*, *Amber Midnight*, *Green Midnight*).
-- **Agent Cadre:** Progression of first Grade 5 Master Agents.
+- **Ordeal Incursions:** First emergence of catastrophic **Tide Watch** Ordeals (*Violet Midnight*, *Amber Midnight*, *Green Midnight*).
+- **Specialist Cadre:** Progression of first Grade 5 Masters.
 
 ```text
 +==============================================+
@@ -245,9 +245,9 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 +----------------------+-----------------------+
 | Max Meltdown Level   | Strain Level IX       |
 +----------------------+-----------------------+
-| Ordeal Tier          | Tide Watch (Midnight) |
+| Ordeal Tier          | Tide Watch            |
 +----------------------+-----------------------+
-| Target Agent Grade   | Grade 5 Master Agents |
+| Target Cadre Grade   | Grade 5 Masters       |
 +======================+=======================+
 ```
 
@@ -294,7 +294,7 @@ Each operational day within the Absolvohan facility follows a strict three-phase
 ```
 
 ### 3.1 The Four Canonical Work Protocols
-Containment agents interact with Sorrow Entities using four standardized Reverie Directorate protocols. Each protocol balances agent attributes against entity emotional polarities:
+Containment specialists interact with Sorrow Entities using four standardized Reverie Directorate protocols. Each protocol balances agent attributes against entity emotional polarities:
 
 ```text
 +==============================================+
@@ -365,7 +365,7 @@ Directors maintain a suite of emergency tactical overrides powered by refined Ha
 
 1. **Han Salve Jet:**
    - *Activation Cost:* 15 Refined Han.
-   - *Effect:* Deploys high-pressure aerosolized healing mist across a designated floor corridor, restoring **40% Max HP** to all deployed agents.
+   - *Effect:* Deploys high-pressure aerosolized healing mist across a designated floor corridor, restoring **40% Max HP** to all deployed specialists.
 2. **Veil Mist Dampener:**
    - *Activation Cost:* 15 Refined Han.
    - *Effect:* Floods floor ventilation with psychically stabilizing vapor, restoring **40% Max SP** and clearing early panic symptoms.
@@ -407,7 +407,7 @@ Each Ordeal color corresponds to a specific emotional pathology and combat aspec
 1. **Grey (Spite / 원망 — Grudge Damage):**
    - *Manifestation:* Brutal, rusted iron automata, stone slabs, and physical golems.
    - *Tactical Behavior:* Slow movement, colossal physical HP pools, devastating melee sweeps.
-   - *Suppression Doctrine:* High-Resilience melee agents tanking at Range Band 1 while ranged Lament weapons shred their armor from Range Band 3–4.
+   - *Suppression Doctrine:* High-Resilience melee specialists tanking at Range Band 1 while ranged Lament weapons shred their armor from Range Band 3–4.
 2. **Red (Blood & Wrath / 분노 — Grudge & Weight Damage):**
    - *Manifestation:* Skittering insectoid clusters, sanguinary hounds, and lacerating husks.
    - *Tactical Behavior:* High movement speed, aggressive target-locking, inflicting stacking bleed trauma.
@@ -422,12 +422,12 @@ Each Ordeal color corresponds to a specific emotional pathology and combat aspec
    - *Suppression Doctrine:* Priority target. Must be suppressed immediately using coordinated multi-agent flanking before beam charge cycles complete.
 5. **Amber (Hunger & Depletion / 갈증 — Weight & Grudge Damage):**
    - *Manifestation:* Subterranean segmented worms, burrowing maw-beasts, and devouring larvae.
-   - *Tactical Behavior:* Burrows beneath floor plates, bypassing corridor defenses; targets facility ballast directly; devours fallen agents to heal.
+   - *Tactical Behavior:* Burrows beneath floor plates, bypassing corridor defenses; targets facility ballast directly; devours fallen specialists to heal.
    - *Suppression Doctrine:* Deploy heavy Weight-resistant vanguards to block burrow exits; kite at Range Band 2.
 6. **Green (Entropy & Stagnation / 기계 — Weight & Lament Damage):**
    - *Manifestation:* Rusted industrial engines, grinding gears, and malfunctioning walking tanks.
    - *Tactical Behavior:* Fires heavy artillery shells across entire floors; deploys combat drones; self-destructs upon death in an explosive blast.
-   - *Suppression Doctrine:* Engage with mobile agents; retreat all suppression teams to adjacent sectors immediately upon entity death to avoid explosion.
+   - *Suppression Doctrine:* Engage with mobile specialists; retreat all suppression teams to adjacent sectors immediately upon entity death to avoid explosion.
 
 ```text
 +==============================================+
@@ -483,7 +483,7 @@ All tactical engagements, containment cell breaches, and Ordeal suppressions ins
   * Wardens deploy here to prevent breaches from spreading into common corridors.
 - **Node 05–06 (Work Console Array & Baffles / 16–30m)**:
   * Mid-Field Range Band 3. Wired with pneumatic emotion consoles and acoustic baffles.
-  * Agents spend 2 AP here to execute non-lethal Work Types (Flerehan, Pugnahan, Ferrehan, Viderehan) directly into entity fields.
+  * Specialists spend 2 AP here to execute non-lethal Work Types (Flerehan, Pugnahan, Ferrehan, Viderehan) directly into entity fields.
 - **Node 07–08 (Quarantine Overwatch / 31–50m)**:
   * Long-Range Range Band 4. Sniper positions, sedative harpoon rigs, and stasis turrets.
   * 100% precision power; standard rifles suffer 50% falloff.
@@ -551,7 +551,7 @@ All containment engagements progress in strict cycles of **six (6) Battle Turns 
 
 ### 4.5 Echo-Core Department Floor Resonance on the 10-Node Grid
 
-When agents engage hostiles within an operational department, the Echo-Core lead projects active battlefield resonance across designated nodes:
+When specialists engage hostiles within an operational department, the Echo-Core lead projects active battlefield resonance across designated nodes:
 
 1. **Floor 1 (Majin & Seiyon — Central Command)**:
    * *Command Eye*: Spend 1 AP to reroll the Speed Die of any allied agent across Nodes 1 to 10.
@@ -592,7 +592,7 @@ Every combatant operates with two hard Stagger thresholds within their vitality 
   * Effect: Complete immobility; takes **2.5× direct damage**; enables execution of Overdrive Climax Finishers (3 AP true lethal damage).
 
 #### Mid-Combat Work Cycle Execution
-Unlike lethal elimination, containment agents can spend 2 AP to execute official **Work Types** mid-battle:
+Unlike lethal elimination, containment specialists can spend 2 AP to execute official **Work Types** mid-battle:
 - **Flerehan (공감작업)**: Harmonic weeping frequencies soothing grief; lowers entity Sorrow Gauge by 25% on Clash Win.
 - **Pugnahan (억제작업)**: Kinetic dampening strikes; reduces entity Speed by -4 and locks its highest-tier attack skill for 2 turns.
 - **Ferrehan (인내작업)**: Fortifies containment barriers and M.A.W. armor, granting +40% physical defense to allies on the same node.
@@ -600,7 +600,7 @@ Unlike lethal elimination, containment agents can spend 2 AP to execute official
 
 ---
 
-### 4.7 Agent Panic Typologies & Recovery Protocols
+### 4.7 Specialist Panic Typologies & Recovery Protocols
 When an agent's SP reaches 0 due to sustained psychic trauma, they enter a **Panic State** determined by their lowest attribute:
 1. **Grudge Berserk (Lowest Resilience):** The agent loses rational control, attacking the nearest ally or entity indiscriminately with maximum attack speed. *Remedy:* Subdue using blunt non-lethal Lament damage.
 2. **Lament Despair (Lowest Clarity):** The agent falls to their knees, weeping uncontrollably. Emits an aura that deals continuous Lament damage to nearby allies. *Remedy:* Target with Veil Mist Dampener or strike with moderate physical damage to break the trance.
@@ -609,9 +609,9 @@ When an agent's SP reaches 0 due to sustained psychic trauma, they enter a **Pan
 
 ---
 
-### 4.8 Agent Speed & Range Profile and M.A.W.-W Modifiers
+### 4.8 Specialist Speed & Range Profile and M.A.W.-W Modifiers
 
-Within Facility 01, containment agents operate with an intrinsic **Base Speed Die** and **Natural Range Affinity** on the 10-node facility grid, modified by equipped Materialized Agony Wear weaponry (**M.A.W.-W**):
+Within Facility 01, containment specialists operate with an intrinsic **Base Speed Die** and **Natural Range Affinity** on the 10-node facility grid, modified by equipped Materialized Agony Wear weaponry (**M.A.W.-W**):
 
 ```text
 +=====================================================================+
@@ -661,7 +661,7 @@ Containment engagements integrate the universal Four P-Framework:
 3. **P3: Parry & Protection**:
    - *Parry (1 AP)*: Roll defense die vs incoming melee strike; win completely deflects damage and counter-strikes for 50% weapon power.
    - *Guard Shield (1 AP)*: Directional barrier absorbing flat damage based on weapon and suit defense.
-   - *Kinetic Interception*: Wardens at Node 3–4 spend 1 AP to intercept ranged lines targeting clerks or mid-field operators.
+   - *Kinetic Interception*: Wardens at Node 3–4 spend 1 AP to intercept ranged lines targeting auxiliaries or mid-field operators.
 4. **P4: Posture & Poise**:
    - Posture meter = `Base Resilience + M.A.W. Weight Bonus`.
    - Momentum Multiplier = `(Speed Diff) * (Weapon Weight Multiplier)`.
@@ -700,14 +700,14 @@ The Absolvohan facility is organized vertically into eight distinct departments,
 ### Floor 1: Central Command (중앙 지휘부)
 - **Attendant:** Director Majin (*The Director*) & Secretary Seiyon (*The Secretary Effigy*).
 - **Core Function:** High-level tactical dispatch, daily quota management, facility-wide emergency directives.
-- **Department Passive Aura:** *Director's Oversight* — Increases movement speed of all agents traversing central corridors by +15%.
-- **Awakened Realization Aura:** *Unbroken Resolve* — All agents across all floors gain +10 Resolve and are immune to instant panic from Dawn Ordeals.
+- **Department Passive Aura:** *Director's Oversight* — Increases movement speed of all specialists traversing central corridors by +15%.
+- **Awakened Realization Aura:** *Unbroken Resolve* — All specialists across all floors gain +10 Resolve and are immune to instant panic from Dawn Ordeals.
 - **Containment Capacity:** 4 Standard Chambers.
 
 ### Floor 2: The Maw's Keep (제1 격리 구역 — 연옥의 아가리)
 - **Attendant:** Containment Lead Dekan (*The Containment Lead* / *The Scaled Maw-Flesh Arm*).
 - **Core Function:** Induction containment, early entity stabilization, corridor security enforcement, and Raw Sorrow suppression.
-- **Department Passive Aura:** *Maw-Aegis Bastion* — Reduces physical Grudge damage taken by department agents by 10%.
+- **Department Passive Aura:** *Maw-Aegis Bastion* — Reduces physical Grudge damage taken by department specialists by 10%.
 - **Awakened Realization Aura:** *Iron Boundary* — Containment cells on Floor 2 never suffer natural Qliphoth deterioration from Ordeal shockwaves.
 - **Containment Capacity:** 5 Standard Chambers. Home to the Avian Triad anchor.
 
@@ -729,14 +729,14 @@ The Absolvohan facility is organized vertically into eight distinct departments,
 - **Attendant:** Containment Lead Mellda (*The Border Lead* / *Threshold Vow*).
 - **Core Function:** Perimeter defense, Desolate storm suppression, tectonic ballast stabilization, quarantine gate defense.
 - **Department Passive Aura:** *Threshold Aegis* — Reduces ambient damage from environmental hazards across Floor 5 by 15%.
-- **Awakened Realization Aura:** *Unbroken Bulwark* — When quarantine blast gates drop, all agents in the sector gain a 25% physical and mental defense barrier.
+- **Awakened Realization Aura:** *Unbroken Bulwark* — When quarantine blast gates drop, all specialists in the sector gain a 25% physical and mental defense barrier.
 - **Containment Capacity:** 5 Heavy Containment Chambers.
 
 ### Floor 6: Deep Vault & Memory Archives (심연 서고 및 기억 보관소)
 - **Attendant:** Archive Lead Marjuk (*The Archive Lead* / *Memory Lens & Whispering Index*).
 - **Core Function:** Historical spool storage, pre-Consolihan lore decoding, cognitive dampening, cycle memory retrieval.
 - **Department Passive Aura:** *Archival Preservation* — Meltdown timers across Floor 6 receive a permanent +10 second extension.
-- **Awakened Realization Aura:** *Mnemonic Equanimity* — Agents stationed on Floor 6 recover 5% Max SP every 15 seconds while outside combat.
+- **Awakened Realization Aura:** *Mnemonic Equanimity* — Specialists stationed on Floor 6 recover 5% Max SP every 15 seconds while outside combat.
 - **Containment Capacity:** 5 Deep Storage Chambers.
 
 ### Floor 7: Shadow Corps & Veil Engineering (그림자 결사 및 결계 공학부)
@@ -762,7 +762,7 @@ Every containment agent possesses four canonical attributes governing their surv
 
 ```text
 +==============================================+
-| CANONICAL REVERIE DIRECTORATE AGENT STATS    |
+| REVERIE DIRECTORATE SPECIALIST STATS         |
 +==============================================+
 | ATTRIBUTE  | HAN COLOR | PRIMARY INFLUENCE   |
 +============+===========+=====================+
@@ -793,12 +793,12 @@ Every containment agent possesses four canonical attributes governing their surv
    - Governs priority in tactical command overrides and clash resolution ties.
    - Critical for intercepting fleeing or rampaging entities.
 
-### 6.2 Agent Attribute Grades (Grade I to V)
-Agent competence scales across five standardized grades based on total cumulative stat points:
+### 6.2 Specialist Attribute Grades (Grade I to V)
+Specialist competence scales across five standardized grades based on total cumulative stat points:
 
 ```text
 +==============================================+
-| AGENT COMPETENCE GRADES & REQUISITES         |
+| SPECIALIST COMPETENCE GRADES & REQUISITES    |
 +==============================================+
 | GRADE     | TOTAL STATS | TYPICAL LOADOUT    |
 +===========+=============+====================+
@@ -836,11 +836,11 @@ Combat calculations within the Absolvohan facility rely upon four elemental dama
 ```
 
 M.A.W. Suits provide decimal damage multipliers against each aspect:
-- **0.4 to 0.6:** High Resistance (Agent takes 40%–60% incoming damage).
-- **0.7 to 0.9:** Moderate Resistance (Agent takes 70%–90% incoming damage).
+- **0.4 to 0.6:** High Resistance (Specialist takes 40%–60% incoming damage).
+- **0.7 to 0.9:** Moderate Resistance (Specialist takes 70%–90% incoming damage).
 - **1.0:** Neutral / Standard Baseline.
-- **1.2 to 1.5:** Vulnerability (Agent takes 120%–150% incoming damage).
-- **2.0:** Critical Weakness (Agent takes double damage; lethal risk).
+- **1.2 to 1.5:** Vulnerability (Specialist takes 120%–150% incoming damage).
+- **2.0:** Critical Weakness (Specialist takes double damage; lethal risk).
 
 ### 6.4 M.A.W. Equipment Architecture & The 8 Anatomical Gift Slots
 Each agent may equip one **M.A.W. Weapon (M.A.W.-W)**, one **M.A.W. Suit (M.A.W.-S)**, and up to **eight anatomical M.A.W. Gifts (M.A.W.-G)** earned through sustained successful work protocols:
@@ -906,7 +906,7 @@ The Desolate above the facility is prone to catastrophic crystalline salt-storms
 When an uncontainable Class IV breach or Tide Watch incursion threatens total facility collapse:
 1. Director Majin issues the **Quarantine Severance Directive**.
 2. Blast doors drop with 10,000 tons of hydraulic force, isolating the affected floor from the rest of the facility.
-3. Deployed agents trapped within the quarantined sector must resolve the breach autonomously or perish.
+3. Deployed specialists trapped within the quarantined sector must resolve the breach autonomously or perish.
 4. If the sector cannot be reclaimed within 180 seconds, the Director may authorize an **Acoustic Consecration Purge**, venting supercritical ozone through the floor's life-support conduits to neutralize all organic life and force breached entities back into dormancy.
 
 ### 7.4 The Mnemonic Rewind Protocol (Loop Trigger)
@@ -1014,10 +1014,10 @@ The Echo-Cores are not mechanical processors; they are the living human souls of
 >
 > **Director Majin (via Intercom):** *"Keep your containment squad on high alert, Dekan. Acoustic strain across Floor 2 is registering Level IV. We are ten minutes away from quota completion. Do not engage any volatile entities unless necessary."*
 >
-> **Dekan:** *"Understood. Junior Agent Kang and Rookie Song are running maintenance on the hydraulic locks. Nothing breaches while my hand is on the rail."*
+> **Dekan:** *"Understood. Junior Specialist Kang and Rookie Song are running maintenance on the hydraulic locks. Nothing breaches while my hand is on the rail."*
 
 **[Middle — The Catastrophic Rupture]**
-*Without warning, the pressure needles across Floor 2 violently red-line. A deafening metallic shriek echoes down Corridor Alpha. A high-hazard Class III Sorrow Entity—SE-C-IIIβ-120 (The Wrath Flame)—violently detonates its primary chamber seal. Superheated iron slag bursts through the corridor. The hydraulic blast doors buckle outward. Junior Agent Kang is thrown across the deck, pinned beneath a fallen steel strut as the flaming beast charges down the hallway.*
+*Without warning, the pressure needles across Floor 2 violently red-line. A deafening metallic shriek echoes down Corridor Alpha. A high-hazard Class III Sorrow Entity—SE-C-IIIβ-120 (The Wrath Flame)—violently detonates its primary chamber seal. Superheated iron slag bursts through the corridor. The hydraulic blast doors buckle outward. Junior Specialist Kang is thrown across the deck, pinned beneath a fallen steel strut as the flaming beast charges down the hallway.*
 
 > **Rookie Song (screaming over comms):** *"LEAD! THE DOOR GAVE WAY! IT'S BREACHED! KANG'S PINNED UNDER THE GIRDER! WE CAN'T EXTRACT!"*
 >
@@ -1072,7 +1072,7 @@ The Echo-Cores are not mechanical processors; they are the living human souls of
 >
 > **Mellda:** *(Her hand immediately engages the deployment lever on her forearm; the one-meter sacred blade of Threshold Vow snaps forward with a crisp hydraulic lock)* *"Patrol, drop to the floor! Majin, do not drop the secondary blast gates! I'm going in!"*
 >
-> **Director Majin (Intercom):** *"Mellda, negative! There are too many! Pull the agents into the airlock and vent the corridor!"*
+> **Director Majin (Intercom):** *"Mellda, negative! There are too many! Pull the specialists into the airlock and vent the corridor!"*
 >
 > **Mellda:** *"If I vent the corridor, the storm breaches the facility foundation! I swore a vow to hold this gate!"*
 
@@ -1125,7 +1125,7 @@ The Echo-Cores are not mechanical processors; they are the living human souls of
 >
 > **Director Majin (Intercom):** *"Zyrak! Trigger the floor-wide quarantine dump! Let the vat vent into the drainage sump!"*
 >
-> **Zyrak:** *"The sump lines run right under the infirmary! If I dump it there, the sleeping agents will drown in boiling sorrow! I have to turn the manual bypass wheel on the gantry!"*
+> **Zyrak:** *"The sump lines run right under the infirmary! If I dump it there, the sleeping specialists will drown in boiling sorrow! I have to turn the manual bypass wheel on the gantry!"*
 
 **[Action — The Burning Valve]**
 *Zyrak sprints across the trembling catwalk. Superheated sorrow-steam blasts into his face, melting the synthetic flesh from his cheeks and exposing his chrome skull. He lunges at the emergency bypass wheel. His mechanical hands lock onto the scalding iron with 10,000 Newtons of hydraulic torque.*
@@ -1195,11 +1195,11 @@ When an attendant's past human trauma surges to the surface during a Realization
 > **Marjuk:** *(His voice splits into a cacophony of thousands of weeping voices, echoing directly inside the minds of all personnel)* *"They didn't rest! They starved in the dark while the High Council dined on silver plates! And I locked the door! I held the key! The blood is on my hands, Majin! It never washed off!"*
 
 **[Action — The Swarm of Razor Pages]**
-*Marjuk's human form dissolves into a towering, grotesque colossus woven from millions of fluttering, razor-sharp manuscript pages. Black ink cascades across the vault like a tidal wave. The containment agents deploy their shields, but the ink dissolves their M.A.W. armor on contact.*
+*Marjuk's human form dissolves into a towering, grotesque colossus woven from millions of fluttering, razor-sharp manuscript pages. Black ink cascades across the vault like a tidal wave. The containment specialists deploy their shields, but the ink dissolves their M.A.W. armor on contact.*
 
 > **Director Majin:** *"Suppression team! Focus fire on the central core! Deploy the Veil Mist Dampener!"*
 >
-> *The suppression squad fires high-frequency sonic rounds, but the ink colossus merely absorbs the shockwaves. A storm of razor-sharp pages whips through the air, severing the suppressors' weapons and lacerating their flesh. One by one, the agents collapse into the rising pool of black ink, their sanity shattered by the suffocating weight of thirty thousand forgotten deaths.*
+> *The suppression squad fires high-frequency sonic rounds, but the ink colossus merely absorbs the shockwaves. A storm of razor-sharp pages whips through the air, severing the suppressors' weapons and lacerating their flesh. One by one, the specialists collapse into the rising pool of black ink, their sanity shattered by the suffocating weight of thirty thousand forgotten deaths.*
 >
 > *The ink reaches Majin's chest. He struggles to raise his arm, but the sheer emotional gravity of the trauma pins him to the ground. Marjuk's monstrous ink face leans down, weeping black brine into Majin's eyes.*
 
@@ -1238,7 +1238,7 @@ When an attendant's past human trauma surges to the surface during a Realization
 
 > **Director Majin:** *"Ishall, stop! Reaper Hungered, deploy barrier!"*
 >
-> *Majin swings his Ω-scythe, carving an arc of phantom Grudge flames to deflect the crushing palm. But Unanswered's spatial compression bypasses physical armor. The air itself implodes. Majin is thrown against the bulkhead, his ribs fracturing under gravitational pressure. Suppression agents attempting to flank are crushed into powder by the closing fists.*
+> *Majin swings his Ω-scythe, carving an arc of phantom Grudge flames to deflect the crushing palm. But Unanswered's spatial compression bypasses physical armor. The air itself implodes. Majin is thrown against the bulkhead, his ribs fracturing under gravitational pressure. Suppression specialists attempting to flank are crushed into powder by the closing fists.*
 >
 > *Ishall descends from the air, her faceplate half-melted, her human soul radiating an unbearable cold that freezes the blood inside Majin's veins.*
 
@@ -1270,7 +1270,7 @@ When an attendant's past human trauma surges to the surface during a Realization
 
 > **Ayshuk:** *(His voice stammering in erratic, high-speed machine code)* *"It does not balance! The sorrow input exceeds the reality output! Every day we containment... every day we bleed... the deficit grows! The city cannot be saved! The math proves it! The math proves we are already dead!"*
 >
-> **Secretary Seiyon (via Intercom):** *"Warning! Echo-Core 5 is suffering total logic cascade failure! Cognitive feedback loop is radiating through Floor 4 communication lines! Containment agents are collapsing into acute mathematical delirium!"*
+> **Secretary Seiyon (via Intercom):** *"Warning! Echo-Core 5 is suffering total logic cascade failure! Cognitive feedback loop is radiating through Floor 4 communication lines! Containment specialists are collapsing into acute mathematical delirium!"*
 
 **[Action — The Geometric Nightmare]**
 *Ayshuk's body fractures into a shifting, impossible hyper-dimensional polyhedral construct. Razor-sharp geometric planes of pale Void energy slice through the laboratory. Filing cabinets, computer servers, and containment personnel are sliced into clean, geometric cross-sections.*
@@ -1279,7 +1279,7 @@ When an attendant's past human trauma surges to the surface during a Realization
 >
 > *Majin lunges forward with his scythe, parrying the floating geometric blades. But Ayshuk's mind has projected an inescapable logic trap across the floor. The laws of Euclidean geometry collapse: the floor becomes the ceiling, gravity inverts, and the air turns into razor-sharp equations that shred the suppression squad's lungs.*
 >
-> *Agents scream in madness as their minds are forced to process four thousand years of futile calculations in a single second. One by one, their brains hemorrhage, their SP dropping to absolute zero.*
+> *Specialists scream in madness as their minds are forced to process four thousand years of futile calculations in a single second. One by one, their brains hemorrhage, their SP dropping to absolute zero.*
 
 **[End / Fail / Stop — Logic Death & Emergency Flush]**
 *Majin falls to his knees as the hyper-dimensional fractal looms over him, threatening to erase his conscious mind from the timeline.*
@@ -1326,7 +1326,7 @@ The grief of millions is pumped out to power the neon spires and perimeter Veil 
 **[Start — The Final Whistle]**
 *The final shift whistle of Day 365 echoes through the empty corridors of Central Command. The green status boards glow with unprecedented stability: all eight floors report zero active breaches. Secretary Seiyon walks silently across the marble floor, presenting the final annual ledger to Director Majin.*
 
-> **Secretary Seiyon:** *"The final work assignment has concluded, Director. Day three hundred and sixty-five is officially closed. All eight Echo-Cores are stable. Agent casualties for the year: thirty-eight. Total refined Han gathered: forty-two thousand, one hundred and fifty metric tons."*
+> **Secretary Seiyon:** *"The final work assignment has concluded, Director. Day three hundred and sixty-five is officially closed. All eight Echo-Cores are stable. Specialist casualties for the year: thirty-eight. Total refined Han gathered: forty-two thousand, one hundred and fifty metric tons."*
 >
 > **Director Majin:** *(Takes the ledger, his eyes scanning the numbers with profound exhaustion)* *"Forty-two thousand tons. We survived, Seiyon. Not a single floor lost. By municipal standards... this was our greatest operational year."*
 
@@ -1351,7 +1351,7 @@ The grief of millions is pumped out to power the neon spires and perimeter Veil 
 **[End / Fail / Stop — The Rejection of Peace & Reset]**
 *Majin turns his back on the glittering city view, walking deliberately toward the central Mnemonic control pedestal.*
 
-> **Secretary Seiyon:** *"If you trip the breaker now, Majin... thirty-eight agents died for nothing. All this stability... all this peace... will be erased."*
+> **Secretary Seiyon:** *"If you trip the breaker now, Majin... thirty-eight specialists died for nothing. All this stability... all this peace... will be erased."*
 >
 > **Director Majin:** *(His eyes burning with fierce, uncompromising resolve)* *"This isn't peace, Seiyon. It's just a well-managed slaughterhouse. I will not accept an ending where sorrow is sold by the kilowatt. Reset the clock."*
 >
@@ -1413,7 +1413,7 @@ The grief of millions is pumped out to power the neon spires and perimeter Veil 
 **[Middle — The False Peace]**
 *Mellda leans her armored elbows on the guardrail, her cyborg weapon, Threshold Vow, resting quietly at her side.*
 
-> **Mellda:** *"Did they mention us, Marjuk? Did they write down the names of the forty-eight agents we buried beneath the bulwark?"*
+> **Mellda:** *"Did they mention us, Marjuk? Did they write down the names of the forty-eight specialists we buried beneath the bulwark?"*
 >
 > **Marjuk:** *"Of course not. In their archives, Facility 01 does not exist. We are merely 'subterranean geothermal utility grid 7-B.' To mention us would be to admit that their civilization runs on human weeping."*
 >
@@ -1482,7 +1482,7 @@ When an apocalyptic entity breaches containment:
 > **Dekan:** *(Roars, charging forward with his Scaled Arm raised)* *"HOLD THE SHAFT! IF IT HITS THE BALLAST, THE ENTIRE DESOLATE FALLS ON US!"*
 
 **[Action — The Crushing Wings]**
-*Dekan and a dozen Grade 5 Master Agents engage the colossal avian sovereign. Sovereign beams of blinding Void and Weight energy tear through the suppression cadre, disintegrating agents into ash in milliseconds. Dekan lunges, driving his living claw into the beast's talon, but the sovereign's massive wings beat once, generating a shockwave of 100,000 Newtons.*
+*Dekan and a dozen Grade 5 Masters engage the colossal avian sovereign. Sovereign beams of blinding Void and Weight energy tear through the suppression cadre, disintegrating specialists into ash in milliseconds. Dekan lunges, driving his living claw into the beast's talon, but the sovereign's massive wings beat once, generating a shockwave of 100,000 Newtons.*
 
 > *The foundational concrete pillars of Floor 2 shatter into powder. The bedrock ceiling cracks open like an eggshell. Through the jagged two-hundred-meter fissure in the ceiling, the Desolate above caves in: a colossal avalanche of forty-five thousand tons per second of black caustic sand and toxic salt-slurry pours into the facility like a waterfall of night.*
 >
@@ -1680,7 +1680,7 @@ The supercritical Han reaches absolute thermodynamic compression. Under the harm
 *Setting: The southern highway connecting the Desolate to the gates of Somnarak. Day 366, 07:00 Hours.*
 
 **[Start — The Highway of Flowers]**
-*The perimeter blast gates of Somnarak have collapsed into peaceful mounds of flowering earth. Containment Lead Dekan walks at the head of a column of dozens of surviving containment agents. Dekan looks at his right arm: the reptilian scales and dark veins of the Maw-flesh graft have completely vanished, replaced by smooth, healthy human skin.*
+*The perimeter blast gates of Somnarak have collapsed into peaceful mounds of flowering earth. Containment Lead Dekan walks at the head of a column of dozens of surviving containment specialists. Dekan looks at his right arm: the reptilian scales and dark veins of the Maw-flesh graft have completely vanished, replaced by smooth, healthy human skin.*
 
 > **Dekan:** *(Flexes his fingers in the warm air, laughing under his breath)* *"Normal fingers. Five normal fingers. No scales, no teeth, no whispers in my skull. I can actually feel the breeze."*
 >
@@ -1689,23 +1689,23 @@ The supercritical Han reaches absolute thermodynamic compression. Under the harm
 **[Middle — The Emergence of the City]**
 *Ahead of them, the towering grey spires of Somnarak are bathed in clean morning light. The dark smog has cleared completely. On the balconies and in the streets, thousands of citizens are emerging from the tenement slums, pulling off their heavy respirators and staring into the blue sky in stunned wonder.*
 
-> **Agent Song (Former Rookie, running up beside them without armor):** *"Containment Lead! Look at the gates! The citizens... they're walking out onto the highway! Should we establish a perimeter?!"*
+> **Specialist Song (Former Rookie, running up beside them without armor):** *"Containment Lead! Look at the gates! The citizens... they're walking out onto the highway! Should we establish a perimeter?!"*
 >
 > **Dekan:** *(Claps Song firmly on the shoulder, laughing out loud)* *"A perimeter for what, Song? There is no garrison, there is no Council, and there are no entities left to cage! Look at them! They're just people smelling the air for the first time!"*
 
 **[Action — The Liberation Whistle]**
 *A young girl from the lower wards runs through the shattered gate, stopping before Xyan and staring at the wildflowers in his hands. Xyan kneels down with a gentle smile, placing a yellow blossom in her hair. The child giggles, running back to her mother, pointing at the green hills beyond the city.*
 
-> **Xyan:** *"For seventeen hundred cycles, we taught our agents that the outside world was death. We told them that beyond the wall, there was only the Desolate and the grave."*
+> **Xyan:** *"For seventeen hundred cycles, we taught our specialists that the outside world was death. We told them that beyond the wall, there was only the Desolate and the grave."*
 >
 > **Dekan:** *"We lied to keep them alive. But today... the truth is better than the lie."*
 
 **[End / Stop — Dismissal into the Light]**
-*Dekan turns back to face the entire surviving containment cadre. Fifty agents stand before him, their uniforms open to the breeze, their faces radiant with tears and laughter.*
+*Dekan turns back to face the entire surviving containment cadre. Fifty specialists stand before him, their uniforms open to the breeze, their faces radiant with tears and laughter.*
 
-> **Dekan:** *(His voice booming with warm, paternal authority)* *"To all agents of Floor 2, Floor 4, Floor 6, and beyond! Your shifts are officially over. The facility has fulfilled its vow. You don't have to train for the dark anymore. Today, your only assignment... is to go home to your families. Containment Cadre... DISMISSED!"*
+> **Dekan:** *(His voice booming with warm, paternal authority)* *"To all specialists of Floor 2, Floor 4, Floor 6, and beyond! Your shifts are officially over. The facility has fulfilled its vow. You don't have to train for the dark anymore. Today, your only assignment... is to go home to your families. Containment Cadre... DISMISSED!"*
 >
-> *(The agents erupt into a deafening cheer that echoes across the blooming plains, their laughter carrying forward into the heart of the newly awakened city as the bells of Year 4,233 ring out.)*
+> *(The specialists erupt into a deafening cheer that echoes across the blooming plains, their laughter carrying forward into the heart of the newly awakened city as the bells of Year 4,233 ring out.)*
 
 ---
 

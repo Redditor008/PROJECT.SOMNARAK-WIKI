@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is strongest near masks and false identities.
 - Personnel report emptiness rather than fear.
 
-**Personnel Note:** *"I felt emptiness. The Pillar did not take anything from me; it showed me what I had been leaning on that was never there."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt emptiness. The Pillar did not take anything from me; it showed me what I had been leaning on that was never there."* — Specialist, Zone D patrol
 
 
 

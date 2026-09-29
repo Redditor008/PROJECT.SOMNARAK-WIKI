@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-947` — The Soot Fry  
 **Source SECC Designation:** `C-IIβ-947 [WS]`  
 **Item Registry Code:** `MAW-S-947-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *The Soot Fry — Witnessed Form*, The White Scale performs the suit role
 **Document ID:** `SE-947-C`  
 **Linked Entity:** `SE-947`  
 **Item Registry Code:** `MAW-S-947-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

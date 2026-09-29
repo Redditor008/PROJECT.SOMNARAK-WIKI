@@ -292,7 +292,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It contains no ordinary water.
 - The Echo Gardens' flowers draw from its overflow.
 
-**Personnel Note:** *"It was waiting. I felt emptiness. The Fountain had all the tears in the city and still had room for mine."* — Agent, Zone C patrol
+**Personnel Note:** *"It was waiting. I felt emptiness. The Fountain had all the tears in the city and still had room for mine."* — Specialist, Zone C patrol
 
 
 
@@ -433,6 +433,6 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-088
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Restricted

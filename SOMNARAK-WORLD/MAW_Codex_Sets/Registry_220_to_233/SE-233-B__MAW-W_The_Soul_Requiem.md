@@ -7,7 +7,7 @@
 **Document ID:** `SE-233-B`  
 **Linked Entity:** `SE-233` — Soul the Ledgers Lost  
 **Item Registry Code:** `MAW-W-233-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -51,7 +51,7 @@ In *Beside, Not Behind*, Requiem clears only physical or administrative obstruct
 **Document ID:** `SE-233-B`  
 **Linked Entity:** `SE-233`  
 **Item Registry Code:** `MAW-W-233-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

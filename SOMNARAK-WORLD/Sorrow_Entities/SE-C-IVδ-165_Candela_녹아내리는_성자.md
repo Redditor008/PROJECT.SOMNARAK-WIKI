@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its visions are possible futures, not fixed predictions.
 - Personnel may become unable to experience present joy after prolonged exposure.
 
-**Personnel Note:** *"It was singing. I felt peace. Then I understood the peace was mourning a disaster that might never happen."* — Agent, Zone E patrol
+**Personnel Note:** *"It was singing. I felt peace. Then I understood the peace was mourning a disaster that might never happen."* — Specialist, Zone E patrol
 
 
 
@@ -385,6 +385,6 @@ Some sorrows grieve the present. Candela grieves the future — every loss that 
 ## Document Information
 
 **Document ID:** SE-C-IVδ-165
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Classified

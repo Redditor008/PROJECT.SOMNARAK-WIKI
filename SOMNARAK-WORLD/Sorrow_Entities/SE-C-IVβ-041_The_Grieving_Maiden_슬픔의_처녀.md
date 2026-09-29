@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The Maiden has never displayed intentional hostility.
 
 **Personnel Note:**
-> *"She told me the child's name, then forgot she had told me. I remembered it for her. For one moment, her tears became quiet."* — Agent Haneulash Yoon, Zone D
+> *"She told me the child's name, then forgot she had told me. I remembered it for her. For one moment, her tears became quiet."* — Specialist Haneulash Yoon, Zone D
 
 
 
@@ -398,6 +398,6 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 ## Document Information
 
 **Document ID:** SE-C-IVβ-041
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

@@ -7,7 +7,7 @@
 **Document ID:** `SE-275-B`  
 **Linked Entity:** `SE-275` — Crucible  
 **Item Registry Code:** `MAW-W-275-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm names fuel, Plate protects worker, Hammer shapes. Crucible brightens when 
 **Document ID:** `SE-275-B`  
 **Linked Entity:** `SE-275`  
 **Item Registry Code:** `MAW-W-275-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

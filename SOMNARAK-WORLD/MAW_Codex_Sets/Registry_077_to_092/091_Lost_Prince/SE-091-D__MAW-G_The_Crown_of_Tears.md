@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, tear-drop charm / γ — Major / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; relationship observation use only |
-| Known bearer | Agent Haneulash Yoon |
+| Known bearer | Specialist Haneulash Yoon |
 | Resting form | A single crystallized tear suspended in a small crown-shaped frame. |
 | Active form | Fine blue lines radiate from the charm toward nearby attachments, tightening at breaks and fading at lies of certainty. |
 | Recognition rule | It shows a bond as a line between people, but never labels the line love, duty, fear, or ownership. |

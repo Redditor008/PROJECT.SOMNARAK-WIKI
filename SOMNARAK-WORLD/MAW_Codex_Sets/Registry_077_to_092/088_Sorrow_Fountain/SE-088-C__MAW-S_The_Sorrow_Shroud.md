@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / γ — Major / Lament — Deep Blue |
 | Status | Active; monitored for joy-numbing saturation |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Iseulfros Kim |
+| Current bearer | Specialist Iseulfros Kim |
 | Resting form | A deep-blue wrap that feels dry but leaves a salt trace on the palms. |
 | Active form | Layered folds rise around the wearer like slow water; each fold catches a different intensity of incoming sorrow. |
 | Recognition rule | The hem carries no reflection, but the wearer’s footsteps make a soft rain-on-cloth sound. |
@@ -89,7 +89,7 @@ Iseulfros Kim wore the Shroud during a sudden Garden surge while coordinating an
 
 The Shroud is the protective piece of *Common Current*. It turns the set’s ethics into mechanics: shared does not mean imposed.
 
-> *“A resistance rating tells you what arrives at the body. It does not tell you what the wearer has to carry afterward.”* — Agent Iseulfros Kim
+> *“A resistance rating tells you what arrives at the body. It does not tell you what the wearer has to carry afterward.”* — Specialist Iseulfros Kim
 
 ---
 

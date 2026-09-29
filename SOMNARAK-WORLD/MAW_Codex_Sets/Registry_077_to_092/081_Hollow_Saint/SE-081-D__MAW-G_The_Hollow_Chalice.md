@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, forehead-cup / γ — Major / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; wellness review required after every activation |
-| Known bearer | Agent Haneulash Yoon |
+| Known bearer | Specialist Haneulash Yoon |
 | Resting form | A thumb-sized pale glass cup held above the brow by a narrow silver-white band. Its inside cannot be seen. |
 | Active form | The cup fills with a colourless surface that reflects the bearer’s eye but not the grief being named. |
 | Recognition rule | A true Chalice stays empty when asked to take unnamed suffering. |

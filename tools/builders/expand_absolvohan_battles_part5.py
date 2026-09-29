@@ -45,7 +45,7 @@ box_fossil_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET FOSSI
     "POS     : [FOSSIL]      [YOO]           [ARCHIVISTS]           [MARJUK]",
     "DIST    : Yoo at N03 (Band 1); Archivists at N05 (Pinned); Marjuk at N10.",
     "---",
-    "Agent Yoo       : Speed 6 -> 3 AP | HP: 140/140 | SP: +30 | Lock Maul",
+    "Specialist Yoo       : Speed 6 -> 3 AP | HP: 140/140 | SP: +30 | Lock Maul",
     "Archive Marjuk  : Speed 5 -> 3 AP | HP: 200/200 | SP: +40 | Chrono Stasis",
     "Memory Fossil   : Speed 4 -> 2 AP | HP: 380/380 | Sorrow: 60% | Gravitic Stasis"
 ])
@@ -66,7 +66,7 @@ box_fossil_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 ])
 
 old_fossil = """Tactical Clash Telemetry:
-- Range Band 1: Agent Yoo closes distance with heavy *Lock Maul*, tanking two gravitational stasis pulses (Weight damage: 18 -> mitigated to 9 by *Lock Armor* 0.5 resistance).
+- Range Band 1: Specialist Yoo closes distance with heavy *Lock Maul*, tanking two gravitational stasis pulses (Weight damage: 18 -> mitigated to 9 by *Lock Armor* 0.5 resistance).
 - Yoo triggers kinetic override: massive downward smash hits for 145 Grudge damage!
 - The Violet Fossil's calcified vertebrae crumble into gravel; stasis field collapses.
 - Elimination verified; +0.045 tons bonus Han extracted from pulverized remnants.
@@ -83,11 +83,11 @@ new_fossil = f"""Director Majin establishes GBS tactical engagement in the Archi
 - **Step 1: Floor 6 Echo-Core Resonance (Archive Lead Marjuk)**:
   * Marjuk deploys *The Temporal Stasis Array*, reducing the Fossil's 2.5G gravitational compression over Nodes 3 to 6 by 50%.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Yoo (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Lock Maul Tectonic Downswing]`.
+  * Specialist Yoo (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Lock Maul Tectonic Downswing]`.
   * Archive Lead Marjuk (Speed 5 -> 3 AP) operates from Node 10, spending 2 AP to maintain the stasis dampeners on pinned archivists at Node 5.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
   * Memory Fossil attempts `[2.5G Gravitational Stasis Pulse]` (Base 9 + 2 Coins = 13 Power).
-  * Agent Yoo's `[Lock Maul Tectonic Downswing]` (Base 11 + 2 Coins = 15 Power).
+  * Specialist Yoo's `[Lock Maul Tectonic Downswing]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Yoo WINS THE CLASH (15 vs 13).
     * Yoo's massive warhammer smashes through the fossilized ribs, exploiting its Grudge vulnerability to deal **52 Grudge damage** and inflicting +26 Stagger!
   * Marjuk's stasis wave frees the pinned archivists, who safely withdraw toward Node 9.
@@ -116,8 +116,8 @@ box_worm_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER WORM)", 
     "POS     : [WORM-A]  [WORM-B][KANG]          [NOH]                  [MELLDA]",
     "DIST    : Kang at N03 (Band 1); Noh at N05 (Band 3); Mellda at N10.",
     "---",
-    "Agent Kang      : Speed 6 -> 3 AP | HP: 135/135 | SP: +30 | Threshold Greatsword",
-    "Agent Noh       : Speed 5 -> 3 AP | HP: 120/120 | SP: +25 | Sonic Rifle",
+    "Specialist Kang      : Speed 6 -> 3 AP | HP: 135/135 | SP: +30 | Threshold Greatsword",
+    "Specialist Noh       : Speed 5 -> 3 AP | HP: 120/120 | SP: +25 | Sonic Rifle",
     "Trench Worm(x2) : Speed 4 -> 2 AP | HP: 360 each | Burrowing Mandibles"
 ])
 
@@ -137,8 +137,8 @@ box_worm_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 ])
 
 old_worm = """Tactical Clash Telemetry:
-- Range Band 1: Agent Kang plants *Threshold Greatsword* into the beast's chitinous jaw, absorbing 22 Weight damage (mitigated to 11 by armor).
-- Range Band 3: Agent Noh fires continuous sonic bursts, shredding the second worm's segment joints.
+- Range Band 1: Specialist Kang plants *Threshold Greatsword* into the beast's chitinous jaw, absorbing 22 Weight damage (mitigated to 11 by armor).
+- Range Band 3: Specialist Noh fires continuous sonic bursts, shredding the second worm's segment joints.
 - Kang executes cross-slash, bisecting the primary worm; Noh's sonic beam detonates the secondary burrower.
 - Both entities eliminated; +0.060 tons bonus Han secured.
 
@@ -154,11 +154,11 @@ new_worm = f"""Director Majin establishes GBS tactical parameters in the drainag
 - **Step 1: Floor 5 Echo-Core Resonance (Border Lead Mellda)**:
   * Mellda drops *The Bulwark Perimeter* across Node 4, preventing the burrowers from tunneling beneath the team.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Threshold Greatsword Sunder]`.
-  * Agent Noh (Speed 5 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Rifle Resonant Burst]`. Remaining 1 AP held in Guard.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Threshold Greatsword Sunder]`.
+  * Specialist Noh (Speed 5 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Rifle Resonant Burst]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Trench Worm A launches `[Crushing Mandible Thrust]` (Base 9 + 2 Coins = 13 Power).
-  * Agent Kang's `[Threshold Greatsword Sunder]` (Base 11 + 2 Coins = 15 Power).
+  * Specialist Kang's `[Threshold Greatsword Sunder]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Kang WINS THE CLASH (15 vs 13).
     * Kang drives the heavy greatsword directly into the beast's armored gullet, absorbing the kinetic shock and dealing **48 Pierce/Grudge damage** with +24 Stagger!
   * Noh's sonic rifle tears through Worm B's segment joints from Node 5, dealing 36 acoustic damage.
@@ -187,9 +187,9 @@ box_claw_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CARMINE CLAW)"
     "POS     : [HUSK-1]  [HUSK-2] [KANG]          [NOH]   [SHIN]         [DEKAN]",
     "DIST    : Kang at N03 (Band 1); Noh at N05 (Band 2); Shin at N06 (Band 3).",
     "---",
-    "Agent Kang      : Speed 6 -> 3 AP | HP: 140/140 | SP: +30 | Heavy Maul",
-    "Agent Noh       : Speed 6 -> 3 AP | HP: 125/125 | SP: +25 | Clockwork Bayonet",
-    "Agent Shin      : Speed 5 -> 3 AP | HP: 120/120 | SP: +30 | Choral Staff",
+    "Specialist Kang      : Speed 6 -> 3 AP | HP: 140/140 | SP: +30 | Heavy Maul",
+    "Specialist Noh       : Speed 6 -> 3 AP | HP: 125/125 | SP: +25 | Clockwork Bayonet",
+    "Specialist Shin      : Speed 5 -> 3 AP | HP: 120/120 | SP: +30 | Choral Staff",
     "Carmine Husks(x3): Speed 6 -> 3 AP | HP: 200 each | Bleed Laceration"
 ])
 
@@ -209,9 +209,9 @@ box_claw_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 ])
 
 old_claw = """Tactical Clash Telemetry:
-- Range Band 2: Agent Noh opens fire with *Clockwork Bayonet*, pinning the lead husk's legs with piercing Grudge spikes.
-- Agent Shin channels the *Choral Staff*, unleashing a wide-angle Lament wave that shatters the husks' psychic cohesion.
-- Agent Kang closes in at Range Band 1, executing downward maul smashes that crush the remaining husks into crimson sludge.
+- Range Band 2: Specialist Noh opens fire with *Clockwork Bayonet*, pinning the lead husk's legs with piercing Grudge spikes.
+- Specialist Shin channels the *Choral Staff*, unleashing a wide-angle Lament wave that shatters the husks' psychic cohesion.
+- Specialist Kang closes in at Range Band 1, executing downward maul smashes that crush the remaining husks into crimson sludge.
 - Complete suppression achieved; +0.052 tons bonus Han harvested.
 
 Shift concludes with cumulative total of **0.395 tons** (100% quota achieved)."""
@@ -226,12 +226,12 @@ new_claw = f"""Director Majin establishes GBS tactical deployment at Floor 2's c
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
   * Dekan activates *The Maw's Keep Bastion Ward*, raising kinetic hardness across Nodes 1 to 4 and granting +40% resistance to bleed lacerations.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Downward Cleave]`.
-  * Agent Noh (Speed 6 -> 3 AP) positions at Node 5 (Range Band 2). Spends 2 AP to ready `[Clockwork Bayonet Piercing Pin]`. Remaining 1 AP held in Guard.
-  * Agent Shin (Speed 5 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to channel `[Choral Staff Wide-Angle Lament Wave]`.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Downward Cleave]`.
+  * Specialist Noh (Speed 6 -> 3 AP) positions at Node 5 (Range Band 2). Spends 2 AP to ready `[Clockwork Bayonet Piercing Pin]`. Remaining 1 AP held in Guard.
+  * Specialist Shin (Speed 5 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to channel `[Choral Staff Wide-Angle Lament Wave]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Lead Carmine Husk declares `[Sanguinary Razor Sprint]` (Base 8 + 2 Coins = 12 Power).
-  * Agent Noh's `[Clockwork Bayonet Piercing Pin]` (Base 10 + 2 Coins = 14 Power).
+  * Specialist Noh's `[Clockwork Bayonet Piercing Pin]` (Base 10 + 2 Coins = 14 Power).
   * **Resolution**: Noh WINS THE CLASH (14 vs 12).
     * Noh's bayonet pins the rushing husk's hind limbs to the floor, canceling the charge and inflicting 38 Grudge damage with +20 Stagger!
   * Shin channels the *Choral Staff*, bathing Nodes 1 through 3 in acoustic frequencies that shatter the husks' mental coordination.
@@ -260,8 +260,8 @@ box_titan_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CLOCKWORK TIT
     "POS     : [TITAN]       [YOO]           [JIN]                  [MARJUK]",
     "DIST    : Yoo at N03 (Band 1); Jin at N06 (Band 3); Marjuk at N10.",
     "---",
-    "Agent Yoo       : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Lock Maul",
-    "Agent Jin       : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Sonic Bow",
+    "Specialist Yoo       : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Lock Maul",
+    "Specialist Jin       : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Sonic Bow",
     "Clockwork Titan : Speed 4 -> 2 AP | HP: 480/480 | Steam: High | Boiler Artillery"
 ])
 
@@ -281,8 +281,8 @@ box_titan_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 ])
 
 old_titan = """Tactical Clash Telemetry:
-- Range Band 4: Agent Jin lands pinpoint sonic arrows into the Titan's boiler exhaust, jamming its primary artillery cannon.
-- Range Band 1: Agent Yoo charges under the steam vents, landing a 180-damage crushing strike with the *Lock Maul* that fractures the central gear train.
+- Range Band 4: Specialist Jin lands pinpoint sonic arrows into the Titan's boiler exhaust, jamming its primary artillery cannon.
+- Range Band 1: Specialist Yoo charges under the steam vents, landing a 180-damage crushing strike with the *Lock Maul* that fractures the central gear train.
 - The Titan's boiler red-lines: automated retreat order issued! All agents sprint back through the blast gates.
 - Titan explodes in a spectacular burst of shrapnel and green steam; zero personnel damage sustained.
 - Elimination verified; +0.075 tons bonus Han harvested from wreckage.
@@ -299,11 +299,11 @@ new_titan = f"""Director Majin establishes GBS tactical coordination on the Floo
 - **Step 1: Floor 6 Echo-Core Resonance (Archive Lead Marjuk)**:
   * Marjuk readies *The Temporal Stasis Array* to delay the Titan's boiler meltdown timer by +15 seconds, creating a safe extraction window.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Jin (Speed 6 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to ready `[Sonic Bow Pinpoint Shot]`. Remaining 1 AP held in Guard.
-  * Agent Yoo (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Lock Maul Axle Shatter]`.
+  * Specialist Jin (Speed 6 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to ready `[Sonic Bow Pinpoint Shot]`. Remaining 1 AP held in Guard.
+  * Specialist Yoo (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Lock Maul Axle Shatter]`.
 - **Step 3: Clash Resolution (Node 1 to 6)**:
   * Clockwork Titan prepares `[Long-Range Boiler Artillery Volley]` (Base 9 + 2 Coins = 13 Power).
-  * Agent Jin's `[Sonic Bow Pinpoint Shot]` (Base 11 + 2 Coins = 15 Power).
+  * Specialist Jin's `[Sonic Bow Pinpoint Shot]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Jin WINS THE CLASH (15 vs 13).
     * Jin's sonic arrow drives directly into the boiler exhaust flap, jamming the firing mechanism and dealing 42 acoustic damage with +26 Stagger!
   * Yoo charges under the venting steam, driving the *Lock Maul* into the central differential gear for **56 Grudge crushing damage**!
@@ -332,8 +332,8 @@ box_monolith_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VOID MONOL
     "POS     : [MONOLITH]    [KANG]  [HWANG]                                 [AYSHUK]",
     "DIST    : Kang at N02 (Band 1); Hwang at N03 (Band 2); Ayshuk at N10.",
     "---",
-    "Agent Kang      : Speed 6 -> 3 AP | HP: 145/145 | SP: +35 | Lock Maul",
-    "Agent Hwang     : Speed 6 -> 3 AP | HP: 130/130 | SP: +30 | Apostle Scalpel",
+    "Specialist Kang      : Speed 6 -> 3 AP | HP: 145/145 | SP: +35 | Lock Maul",
+    "Specialist Hwang     : Speed 6 -> 3 AP | HP: 130/130 | SP: +30 | Apostle Scalpel",
     "Void Monolith   : Speed 4 -> 2 AP | HP: 450/450 | Charging: 360 Beam | Void Core"
 ])
 
@@ -354,8 +354,8 @@ box_monolith_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 
 old_monolith = """Tactical Clash Telemetry:
 - The Monolith begins charging its global corridor Void beam (5-second countdown).
-- Range Band 1: Agent Kang sprints through the spatial distortion, slamming his heavy maul into the obelisk's foundation, interrupting the charge cycle!
-- Agent Hwang lunges from the flank with the *Apostle Scalpel*, driving the consecrated blade directly into the floating central eye (Critical strike: 165 Grudge/Void damage).
+- Range Band 1: Specialist Kang sprints through the spatial distortion, slamming his heavy maul into the obelisk's foundation, interrupting the charge cycle!
+- Specialist Hwang lunges from the flank with the *Apostle Scalpel*, driving the consecrated blade directly into the floating central eye (Critical strike: 165 Grudge/Void damage).
 - The Monolith fractures into thousands of purple glass fragments; zero casualties.
 - Elimination verified; +0.080 tons bonus Han secured.
 
@@ -371,11 +371,11 @@ new_monolith = f"""Director Majin establishes GBS tactical engagement in the Tra
 - **Step 1: Floor 4 Echo-Core Resonance (Research Lead Ayshuk)**:
   * Ayshuk engages *The Predictive HUD*, revealing the Monolith's 360-degree Void death-ray countdown vector and buffing allied clash rolls by +3 Power.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Kang (Speed 6 -> 3 AP) spends 1 AP to sprint across the spatial ripple from Node 4 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Lock Maul Foundation Shatter]`.
-  * Agent Hwang (Speed 6 -> 3 AP) advances to Node 3 (Close Range Band 2). Spends 2 AP to ready `[Apostle Scalpel Consecrated Thrust]`. Remaining 1 AP held in Guard.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint across the spatial ripple from Node 4 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Lock Maul Foundation Shatter]`.
+  * Specialist Hwang (Speed 6 -> 3 AP) advances to Node 3 (Close Range Band 2). Spends 2 AP to ready `[Apostle Scalpel Consecrated Thrust]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
   * Void Monolith charges `[360-Degree Global Corridor Annihilation]` (Base 10 + 2 Coins = 14 Power).
-  * Agent Kang's `[Lock Maul Foundation Shatter]` (Base 12 + 2 Coins = 16 Power).
+  * Specialist Kang's `[Lock Maul Foundation Shatter]` (Base 12 + 2 Coins = 16 Power).
   * **Resolution**: Kang WINS THE CLASH (16 vs 14).
     * Kang's massive maul slams into the obelisk's foundation stone, jarring its energy conduits and canceling the countdown! Deals **58 Grudge damage** and inflicts +30 Stagger!
   * Hwang lunges from the flank, driving the *Apostle Scalpel* straight into the central floating eye for 48 Void piercing damage.

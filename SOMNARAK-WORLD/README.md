@@ -82,9 +82,9 @@ SOMNARAK-WORLD/
 │   ├── README.md                       # Underworld pacification doctrine in The Raw
 │   └── Operation_1_Velumtal.md through Operation_6_Thanatong.md
 │
-├── Gieok_Jeojangso/                    # The Memory Archive Seven Strata Receptions
+├── Gieok_Jeojangso/                    # The Memory Archive Seven Strata Readings
 │   ├── README.md                       # Post-Dawn strata realizations and combat encounters
-│   └── Reception_1_First_Keeper.md through Reception_7_Silent_Curator.md
+│   └── Reading_1_First_Keeper.md through Reading_7_Silent_Curator.md
 │
 ├── Jipyeongseondae/                    # The Horizon Caravan Six Trans-Desolate Expedition Arcs
 │   ├── README.md                       # Post-Dawn overland exploration across The Desolate

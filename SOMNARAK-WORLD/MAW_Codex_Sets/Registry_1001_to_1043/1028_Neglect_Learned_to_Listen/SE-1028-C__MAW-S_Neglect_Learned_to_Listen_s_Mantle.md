@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1028` — Neglect Learned to Listen  
 **Source SECC Designation:** `N-IIβ-270 [WP]`  
 **Item Registry Code:** `MAW-S-1028-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen
 **Document ID:** `SE-1028-C`  
 **Linked Entity:** `SE-1028`  
 **Item Registry Code:** `MAW-S-1028-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -54,10 +54,10 @@ Each operational day requires a strictly escalating quota of harvested Lumen to 
 
 | Campaign Day | Mandatory Quota | Estimated Works Required | Typical Ordeal Risk |
 |---|---|---|---|
-| **Day 1 – 5** | 80 – 160 LU | 8 – 15 Works | First Watch (Dawn) only |
-| **Day 6 – 15** | 180 – 380 LU | 16 – 28 Works | First and Second Watch (Noon) |
-| **Day 16 – 25** | 420 – 680 LU | 30 – 45 Works | Second and Third Watch (Dusk) |
-| **Day 26 – 40** | 720 – 1,050 LU | 48 – 65 Works | Third and Tide Watch (Midnight) |
+| **Day 1 – 5** | 80 – 160 LU | 8 – 15 Works | First Watch only |
+| **Day 6 – 15** | 180 – 380 LU | 16 – 28 Works | First and Second Watch |
+| **Day 16 – 25** | 420 – 680 LU | 30 – 45 Works | Second and Third Watch |
+| **Day 26 – 40** | 720 – 1,050 LU | 48 – 65 Works | Third and Tide Watch |
 | **Day 41 – 50** | 1,100 – 1,400 LU | 70 – 90+ Works | Relentless Midnight Incursions |
 
 Overcharging beyond the mandatory 100% quota awards bonus municipal LOB points, allowing Wardens to rapidly accelerate specialist training and gear production.

@@ -7,7 +7,7 @@
 **Document ID:** `SE-426-B`  
 **Linked Entity:** `SE-426` — Hollowcast  
 **Item Registry Code:** `MAW-W-426-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Torn Fang is a crimson fang of Han iron with an empty central channel — a 
 **Document ID:** `SE-426-B`  
 **Linked Entity:** `SE-426`  
 **Item Registry Code:** `MAW-W-426-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

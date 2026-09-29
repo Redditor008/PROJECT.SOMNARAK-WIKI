@@ -163,7 +163,7 @@ Across the archive, 283 of 292 entities strictly conform to this physical partit
 
 Eighty-eight entities across the archive are designated as **Tool-Type Relic Entities**. Unlike standard specimen entities that demand continuous routine work to extract daily energy quotas, Tools are functional artifacts deployed strategically to benefit the facility.
 
-Tool entities have no standard work preferences and produce no normal E-Boxes. Instead, they are divided into **Three Distinct Sub-Types**, each featuring unique operational mechanics and information unlocking criteria:
+Tool entities have no standard work preferences and produce no normal Positive Boxes. Instead, they are divided into **Three Distinct Sub-Types**, each featuring unique operational mechanics and information unlocking criteria:
 
 ### 8.1 Single Use Tools
 
@@ -224,7 +224,7 @@ Facility 01 operates within a vast institutional network established by the Dawn
 - **The Absolvohan:** The sovereign stasis engine that maintained the 366-day mnemonic loop across 1,778 cycles.
 - **Katabagil (SED):** The Subterranean Expedition Division, responsible for seven deep descents (-2,000m to -7,200m) into the Maw.
 - **Katharcheok (UCD):** The Underworld Cleanup Descend, which executed six sweeps to purge rogue syndicate enclaves.
-- **Gieok Jeojangso (Memory Archive):** The municipal sanctuary housing seven strata floors to curate permanent Key Pages for the Silent City.
+- **Gieok Jeojangso (Memory Archive):** The municipal sanctuary housing seven strata floors to curate permanent Memory Leaves for the Silent City.
 - **Jipyeongseondae (Horizon Caravan):** The overland expedition force conducting six exploratory arcs into the Desolate.
 - **Wound Walkers (Company 4):** Frontier defensive detachments holding seven Crucible Stations across the perimeter.
 

@@ -1,43 +1,43 @@
-# 14 — GIEOK JEOJANGSO RECEPTION TEMPLATE
+# 14 — GIEOK JEOJANGSO READING TEMPLATE
 
 **Template ID:** `T-14-GIEOK`  
-**Generates:** `SOMNARAK-WORLD/Gieok_Jeojangso/Reception_{{N}}_{{Name}}.md`  
+**Generates:** `SOMNARAK-WORLD/Gieok_Jeojangso/Reading_{{N}}_{{Name}}.md`  
 **Authority:** `SOMNARAK-WORLD/Gieok_Jeojangso/README.md` + `The_MEMORY_ARCHIVE.md` + Global Primer Laws 1,2
 
 ---
 
 ## DEEP KNOWLEDGE — READ BEFORE WRITING
 
-- **Gieok Jeojangso (기억 저장소 / Memory Archive) has 7 Strata Receptions** — floor-by-floor realizations post-Dawn, under the Alpha Tree root architecture (6,000 years old). It is a municipal sanctuary, NOT a company.
-- **All 7 Receptions occur strictly AFTER Dawn of Hope** — never pre-Dawn, never during R.D. Cycles. Use calendar years post-Dawn.
-- **Reception = strata combat + mnemonic suture.** Each stratum has a Keeper, a Sorrow Entity anchor, a synthesis engram (Seiyon), and a Realization condition.
+- **Gieok Jeojangso (기억 저장소 / Memory Archive) has 7 Strata Readings** — floor-by-floor realizations post-Dawn, under the Alpha Tree root architecture (6,000 years old). It is a municipal sanctuary, NOT a company.
+- **All 7 Readings occur strictly AFTER Dawn of Hope** — never pre-Dawn, never during R.D. Cycles. Use calendar years post-Dawn.
+- **Reading = strata combat + mnemonic suture.** Each stratum has a Keeper, a Sorrow Entity anchor, a synthesis engram (Seiyon), and a Realization condition.
 
 ---
 
 ## FILE NAMING
 
 ```
-SOMNARAK-WORLD/Gieok_Jeojangso/Reception_{{N}}_{{Name}}.md
+SOMNARAK-WORLD/Gieok_Jeojangso/Reading_{{N}}_{{Name}}.md
 ```
 
-Example: `Reception_1_First_Keeper.md`
+Example: `Reading_1_First_Keeper.md`
 
 ---
 
 ## SCAFFOLD
 
 ~~~markdown
-# Gieok Jeojangso — Reception {{N}}: {{TITLE_EN}} — {{KOREAN_TITLE}} (Stratum {{N}})
+# Gieok Jeojangso — Reading {{N}}: {{TITLE_EN}} — {{KOREAN_TITLE}} (Stratum {{N}})
 
 > *“{{Epigraph — what memory asked when we finally listened.}}”*
 
-**Reception ID:** `GIEOK-R{{N}}-{{YEAR}}`  
+**Reading ID:** `GIEOK-R{{N}}-{{YEAR}}`  
 **Stratum:** {{1–7}} (e.g., Stratum 1 — Root Atrium)  
 **Keeper:** {{Keeper name & role}}  
 **Anchor Entity:** `SE-{{ID}}` — {{Name}} (if any)  
 **Synthesis Engram:** Seiyon’s {{engram weave description}}  
 **Date:** Year {{4,23x}} — Post-Dawn  
-**Classification:** Mnemonic Reception — Municipal Sanctuary
+**Classification:** Mnemonic Reading — Municipal Sanctuary
 
 ## I. STRATUM & KEEPER
 
@@ -58,7 +58,7 @@ Example: `Reception_1_First_Keeper.md`
 
 {{Turn-by-turn mnemonic combat: Level 1–7 escalation, Seiyon’s engram ticks, party composure vs void erasure, suture attempts.}}
 
-## III. RECEPTION & ENGRAm
+## III. READING & ENGRAm
 
 ### The Choice — Suture or Sever
 
@@ -70,14 +70,14 @@ Example: `Reception_1_First_Keeper.md`
 
 ## IV. AFTERMATH FOR ARCHIVE
 
-{{What Stratum {{N}} now does for visitors — quiet, re-reading room, suture clinic. How it conditions the next Reception.}}
+{{What Stratum {{N}} now does for visitors — quiet, re-reading room, suture clinic. How it conditions the next Reading.}}
 ~~~
 
 ---
 
 ## VALIDATION CHECKLIST
 
-- [ ] Post-Dawn calendar year (no Cycles); Reception N is 1–7 sequential.
+- [ ] Post-Dawn calendar year (no Cycles); Reading N is 1–7 sequential.
 - [ ] Stratum + Keeper + Anchor + Engram all present.
 - [ ] Mnemonic Combat has Levels 1–7 + suture/sever choice.
 - [ ] Archive is sanctuary, not company.

@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its ember has never extinguished, though it dims when the Child believes it is alone.
 
 **Personnel Note:**
-> *"It did not ask me to carry it. It only sat beside me until I remembered what warmth felt like."* — Agent Haneulash Yoon, Echo Gardens
+> *"It did not ask me to carry it. It only sat beside me until I remembered what warmth felt like."* — Specialist Haneulash Yoon, Echo Gardens
 
 
 

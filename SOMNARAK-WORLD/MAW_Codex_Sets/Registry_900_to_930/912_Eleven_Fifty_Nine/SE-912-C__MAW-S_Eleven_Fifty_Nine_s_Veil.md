@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-912` — Eleven Fifty-Nine  
 **Source SECC Designation:** `C-IIIγ-912 [LT]`  
 **Item Registry Code:** `MAW-S-912-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Veil performs
 **Document ID:** `SE-912-C`  
 **Linked Entity:** `SE-912`  
 **Item Registry Code:** `MAW-S-912-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

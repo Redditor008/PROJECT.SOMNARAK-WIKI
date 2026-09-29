@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The entity becomes more active during the Sorrow Tide.
 
 **Personnel Note:**
-> *"The Colossus stepped over me like a parent stepping over a sleeping child. It saw my sorrow and mourned for me. I have never felt so heavy—or so gently carried."* — Agent Haneulash Yoon, Zone D
+> *"The Colossus stepped over me like a parent stepping over a sleeping child. It saw my sorrow and mourned for me. I have never felt so heavy—or so gently carried."* — Specialist Haneulash Yoon, Zone D
 
 
 

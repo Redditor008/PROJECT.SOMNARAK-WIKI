@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its voice moves through connected memories.
 - Personnel report sorrow after links are released.
 
-**Personnel Note:** *"It was waiting. I felt sorrow. The Chain had remembered a friendship that both living people had forgotten."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt sorrow. The Chain had remembered a friendship that both living people had forgotten."* — Specialist, Zone B patrol
 
 
 

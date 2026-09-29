@@ -5,7 +5,7 @@
 **Document ID:** `UNK-902-C`  
 **Linked Entity:** `UNK-902` — The Repeated Survivor  
 **Item Registry Code:** `MAW-S-UNK-902-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -41,7 +41,7 @@
 **Document ID:** `UNK-902-C`  
 **Linked Entity:** `UNK-902`  
 **Item Registry Code:** `MAW-S-UNK-902-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

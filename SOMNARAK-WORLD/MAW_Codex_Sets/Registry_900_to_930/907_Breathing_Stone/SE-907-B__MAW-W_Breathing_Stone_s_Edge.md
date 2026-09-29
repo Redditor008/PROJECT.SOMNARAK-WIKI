@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-907` — Breathing Stone  
 **Source SECC Designation:** `C-IVδ-907 [WP]`  
 **Item Registry Code:** `MAW-W-907-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Breathing Stone — Witnessed Form*, Breathing Stone's Edge performs the
 **Document ID:** `SE-907-B`  
 **Linked Entity:** `SE-907`  
 **Item Registry Code:** `MAW-W-907-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

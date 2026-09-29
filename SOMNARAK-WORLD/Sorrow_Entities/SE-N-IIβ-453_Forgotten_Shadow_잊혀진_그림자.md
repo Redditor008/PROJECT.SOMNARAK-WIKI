@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes clearer when someone admits they do not know its name.
 - It never follows a maintained road.
 
-**Personnel Note:** *"It was singing. I felt fear. The song sounded like someone proving they had once been there."* — Agent, Zone B patrol
+**Personnel Note:** *"It was singing. I felt fear. The song sounded like someone proving they had once been there."* — Specialist, Zone B patrol
 
 
 

@@ -4,7 +4,7 @@
 **Document ID:** `SE-723-C`  
 **Linked Entity:** `SE-723` — The Vanished Rope  
 **Item Registry Code:** `MAW-S-723-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Severed Shroud is the suit of the Vanished Rope’s set, bound by the same r
 **Document ID:** `SE-723-C`  
 **Linked Entity:** `SE-723`  
 **Item Registry Code:** `MAW-S-723-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

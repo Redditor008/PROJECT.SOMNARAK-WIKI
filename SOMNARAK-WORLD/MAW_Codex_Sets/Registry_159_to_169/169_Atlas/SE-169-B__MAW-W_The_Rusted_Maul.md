@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / α — Minor / Weight — Black |
 | Status | Active; repair-and-relief plan required |
 | Maximum amount | 5 — Standard |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A small black maul with rust lines that appear only when a nearby support is overloaded. |
 | Active form | The head sends a short dark brace line from one stressed point to a prepared replacement. |
 | Recognition rule | The Maul cannot lift until the bearer names what will take the load after the strike. |

@@ -161,7 +161,7 @@ The set does not make an operator invisible in the simple sense. It makes attent
 - **Understood:** It embodies the city’s fear that private memory is only another commodity.
 - **Mastery condition:** A complete map of the cache must be made without treating its contents as Directorate property.
 
-> *“It gave my sister’s face back. I still remember the price: the day I first learned her name.”* — Agent Hanul Grey
+> *“It gave my sister’s face back. I still remember the price: the day I first learned her name.”* — Specialist Hanul Grey
 
 ---
 

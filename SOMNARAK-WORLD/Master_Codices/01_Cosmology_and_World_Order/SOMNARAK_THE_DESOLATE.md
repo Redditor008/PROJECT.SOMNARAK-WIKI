@@ -11,7 +11,7 @@ The Desolate (황폐 — Hwangpye) is the 10 km buffer surrounding Somnarak — 
 
 The Desolate is the most dangerous place on Mugenhan outside the city walls. It is also the most free.
 
-Population: ~16,000 — exiles, nomads, outcasts, scavengers, frontier families, and R.D. field agents.
+Population: ~16,000 — exiles, nomads, outcasts, scavengers, frontier families, and R.D. field specialists.
 
 ---
 
@@ -82,7 +82,7 @@ Unlike the sorrow contained within Somnarak—which has been channeled through u
 | **Nomads** | Follow Han flows — never settling permanently | ~3,000 | Free, spiritual, rootless |
 | **Outcasts** | Rejected the system — criminals, dissidents, the desperate | ~4,000 | Desperate, dangerous, diverse |
 | **Scavengers** | Harvest raw Han, Echoes, or Sorrow fragments from the edge | ~1,500 | Risk-takers, entrepreneurs, expendable |
-| **R.D. Field Agents** | Reverie Directorate personnel studying anomalies | ~500 | Professional, isolated, watched |
+| **R.D. Field Specialists** | Reverie Directorate personnel studying anomalies | ~500 | Professional, isolated, watched |
 
 ---
 
@@ -159,7 +159,7 @@ Unlike the sorrow contained within Somnarak—which has been channeled through u
 
 ---
 
-### The R.D. Field Agents
+### The R.D. Field Specialists
 
 **Who they are:** Reverie Directorate personnel stationed in the Desolate — studying anomalies, monitoring Han flows, collecting data. They are the R.D.'s eyes and ears in the wilderness.
 
@@ -169,7 +169,7 @@ Unlike the sorrow contained within Somnarak—which has been channeled through u
 - They report to the R.D. — sending data back to the facility
 - They are watched — by the R.D., by the nomads, by the entities
 
-**The agent paradox:** The Field Agents are the R.D.'s representatives in the Desolate. But the Desolate does not recognize the R.D.'s authority. The agents are alone — surrounded by Han, surrounded by entities, surrounded by the unknown.
+**The agent paradox:** The Field Specialists are the R.D.'s representatives in the Desolate. But the Desolate does not recognize the R.D.'s authority. The specialists are alone — surrounded by Han, surrounded by entities, surrounded by the unknown.
 
 ---
 
@@ -214,7 +214,7 @@ Han-storms are waves of concentrated Han that sweep through the Desolate — lik
 | **Nomads** | Read the Han — move before the storm arrives |
 | **Outcasts** | Fight through it — or die trying |
 | **Scavengers** | Harvest during the storm — the Han is richest then |
-| **R.D. Agents** | Monitor from fortified stations — collect data |
+| **R.D. Specialists** | Monitor from fortified stations — collect data |
 
 ---
 
@@ -411,7 +411,7 @@ The UCD encounters the Desolate in the underworld — Frays that operate in the 
 
 ### For The R.D.
 
-The R.D. studies the Desolate — field agents monitoring Han flows, collecting data, studying entities. The Director knows the Desolate is growing — the city's sorrow is expanding, pushing the wilderness back.
+The R.D. studies the Desolate — field specialists monitoring Han flows, collecting data, studying entities. The Director knows the Desolate is growing — the city's sorrow is expanding, pushing the wilderness back.
 
 ---
 

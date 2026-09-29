@@ -7,7 +7,7 @@
 **Document ID:** `SE-308-C`  
 **Linked Entity:** `SE-308` — Vault of Unspoken Spite  
 **Item Registry Code:** `MAW-S-308-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm identifies, Veil carries, Fang separates. The suit is not long-term storag
 **Document ID:** `SE-308-C`  
 **Linked Entity:** `SE-308`  
 **Item Registry Code:** `MAW-S-308-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

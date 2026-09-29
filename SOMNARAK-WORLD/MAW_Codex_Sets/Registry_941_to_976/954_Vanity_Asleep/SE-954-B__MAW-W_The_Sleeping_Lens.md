@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-954` — Vanity Asleep  
 **Source SECC Designation:** `N-IIIγ-954 [VS]`  
 **Item Registry Code:** `MAW-W-954-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Vanity Asleep — Witnessed Form*, The Sleeping Lens performs the weapon
 **Document ID:** `SE-954-B`  
 **Linked Entity:** `SE-954`  
 **Item Registry Code:** `MAW-W-954-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

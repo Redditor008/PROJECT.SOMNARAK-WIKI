@@ -7,7 +7,7 @@
 **Document ID:** `SE-308-A`  
 **Related Entity ID:** `SE-308`  
 **SECC Designation:** `N-IIIγ-308 [GO]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`  
@@ -36,7 +36,7 @@
 
 The shadow smells of char, grows darker near repeated arguments, and has no original face. Touch or deliberate projection of anger activates it. It absorbs hostility until the stored grievance is acknowledged and released; otherwise it may return everything to the user at once.
 
-> *“Containment is not disposal. Somebody must remain responsible for what was placed here.”* — Agent Haneulash Yoon
+> *“Containment is not disposal. Somebody must remain responsible for what was placed here.”* — Specialist Haneulash Yoon
 
 ---
 
@@ -104,7 +104,7 @@ An echo forms only after one stored grievance is acknowledged, released without 
 
 **Document ID:** `SE-308-A`  
 **Linked Entity:** `SE-308`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

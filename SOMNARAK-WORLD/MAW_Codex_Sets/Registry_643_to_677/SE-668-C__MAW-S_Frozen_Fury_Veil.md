@@ -7,7 +7,7 @@
 **Document ID:** `SE-668-C`  
 **Linked Entity:** `SE-668` — Frozen Fury  
 **Item Registry Code:** `MAW-S-668-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -39,7 +39,7 @@ The Frozen Fury Veil is a pale gossamer veil smelling faintly of ash — the fir
 **Document ID:** `SE-668-C`  
 **Linked Entity:** `SE-668`  
 **Item Registry Code:** `MAW-S-668-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

@@ -229,7 +229,7 @@ She reaches. She blesses. The clock ticks. And the city holds its breath.
 
 ## 증언 (Testimonium) — The Testimony
 
-> *"I was the fourth person blessed. The warmth was immediate — not like Han, not like sorrow, but like sunlight on skin that hasn't felt sun in years. My wounds closed. My mind cleared. I felt stronger than I had in months. And then I looked at my wrist and saw the mark, and I knew I was part of something I could not leave."* — Agent [REDACTED], fourth blessed
+> *"I was the fourth person blessed. The warmth was immediate — not like Han, not like sorrow, but like sunlight on skin that hasn't felt sun in years. My wounds closed. My mind cleared. I felt stronger than I had in months. And then I looked at my wrist and saw the mark, and I knew I was part of something I could not leave."* — Specialist [REDACTED], fourth blessed
 
 > *"She came to me. I didn't go to her. That's the difference — the Kind Healer waited. Blessing Giver seeks. And when she finds you, her eyes are so warm, so full of genuine care, that refusing her feels like refusing a mother's hug. You don't refuse. You can't. Not because she forces you — but because her kindness is real, and real kindness is the hardest thing in this city to say no to."* — Researcher, R.D.
 

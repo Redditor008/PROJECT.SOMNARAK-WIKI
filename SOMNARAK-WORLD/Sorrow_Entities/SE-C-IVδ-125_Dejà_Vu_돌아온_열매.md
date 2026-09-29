@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is most active near old memories and the Alpha Tree.
 - Personnel report emptiness after the return fades.
 
-**Personnel Note:** *"It was singing. I felt emptiness because the thing it returned was not the thing I had lost; it was only proof that I had lost it."* — Agent, Zone B patrol
+**Personnel Note:** *"It was singing. I felt emptiness because the thing it returned was not the thing I had lost; it was only proof that I had lost it."* — Specialist, Zone B patrol
 
 
 

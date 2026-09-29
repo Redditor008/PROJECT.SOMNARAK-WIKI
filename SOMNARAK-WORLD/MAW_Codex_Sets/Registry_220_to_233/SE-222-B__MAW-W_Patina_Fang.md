@@ -7,7 +7,7 @@
 **Document ID:** `SE-222-B`  
 **Linked Entity:** `SE-222` — Patina  
 **Item Registry Code:** `MAW-W-222-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ The Charm establishes whether anger is inherited; the Plate holds current hostil
 **Document ID:** `SE-222-B`  
 **Linked Entity:** `SE-222`  
 **Item Registry Code:** `MAW-W-222-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

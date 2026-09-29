@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is clearer to survivors than to outsiders.
 - It leaves no physical tracks.
 
-**Personnel Note:** *"It was quiet. I felt longing. The Ruin was disappearing, but it did not want rescue. It wanted a record before it was gone."* — Agent, Zone D patrol
+**Personnel Note:** *"It was quiet. I felt longing. The Ruin was disappearing, but it did not want rescue. It wanted a record before it was gone."* — Specialist, Zone D patrol
 
 
 

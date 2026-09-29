@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-928` — Lethe  
 **Source SECC Designation:** `C-IIIγ-928 [VH]`  
 **Item Registry Code:** `MAW-S-928-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Lethe — Witnessed Form*, Lethe's Veil performs the suit role while the
 **Document ID:** `SE-928-C`  
 **Linked Entity:** `SE-928`  
 **Item Registry Code:** `MAW-S-928-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

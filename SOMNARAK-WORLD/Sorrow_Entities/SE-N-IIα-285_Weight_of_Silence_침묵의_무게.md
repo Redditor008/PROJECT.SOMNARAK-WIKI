@@ -174,7 +174,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 Appearance : A cylindrical bronze monastery bell thirty centimeters high, lacking an internal clapper and suspended by a sturdy forged iron yoke with two leather-wrapped carrying handles.
 
-Striking the outer rim with an Agent's fist produces no audible sound wave, but discharges an invisible psychic pressure wave that ripples through solid concrete and staggers nearby entities.
+Striking the outer rim with an Specialist's fist produces no audible sound wave, but discharges an invisible psychic pressure wave that ripples through solid concrete and staggers nearby entities.
 
 **Damage:** Weight 3-6
 **Speed:** 2 (Normal)
@@ -381,6 +381,6 @@ Some sorrows are about speaking. Weight of Silence is about not speaking — the
 ## Document Information
 
 **Document ID:** SE-N-IIα-285
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

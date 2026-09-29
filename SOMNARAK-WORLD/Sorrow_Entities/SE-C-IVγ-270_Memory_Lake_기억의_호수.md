@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its surface reflects emotional history, not physical form.
 - Extended viewing causes identity confusion.
 
-**Personnel Note:** *"It was mourning. I felt emptiness. The Lake held so many lives that my own seemed like a single drop."* — Agent, Zone D patrol
+**Personnel Note:** *"It was mourning. I felt emptiness. The Lake held so many lives that my own seemed like a single drop."* — Specialist, Zone D patrol
 
 
 

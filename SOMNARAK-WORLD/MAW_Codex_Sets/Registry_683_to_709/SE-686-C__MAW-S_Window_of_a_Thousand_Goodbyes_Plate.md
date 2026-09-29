@@ -4,7 +4,7 @@
 **Document ID:** `SE-686-C`  
 **Linked Entity:** `SE-686` — Window of a Thousand Goodbyes  
 **Item Registry Code:** `MAW-S-686-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ The Window of a Thousand Goodbyes’ Plate is a breathing crimson harness of Han
 **Document ID:** `SE-686-C`  
 **Linked Entity:** `SE-686`  
 **Item Registry Code:** `MAW-S-686-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

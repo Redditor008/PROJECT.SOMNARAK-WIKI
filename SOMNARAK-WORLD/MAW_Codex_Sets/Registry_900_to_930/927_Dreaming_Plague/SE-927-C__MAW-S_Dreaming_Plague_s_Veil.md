@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-927` — Dreaming Plague  
 **Source SECC Designation:** `N-IVδ-927 [VH]`  
 **Item Registry Code:** `MAW-S-927-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Veil performs the
 **Document ID:** `SE-927-C`  
 **Linked Entity:** `SE-927`  
 **Item Registry Code:** `MAW-S-927-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

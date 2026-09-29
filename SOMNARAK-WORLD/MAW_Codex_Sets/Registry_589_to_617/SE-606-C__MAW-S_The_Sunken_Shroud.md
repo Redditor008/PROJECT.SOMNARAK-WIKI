@@ -7,7 +7,7 @@
 **Document ID:** `SE-606-C`  
 **Linked Entity:** `SE-606` — Banyan  
 **Item Registry Code:** `MAW-S-606-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ A transparent spot remains over the right shoulder whenever an unannounced obser
 
 Root identifies where concealment has become harmful, Shroud establishes owner-controlled witness, and Requiem opens only the imposed barrier. Resonance fails under commerce, spectacle, or archival theft.
 
-> *“The suit did not hide her. It returned the choice of being seen.”* — Agent Iseulfros Kim
+> *“The suit did not hide her. It returned the choice of being seen.”* — Specialist Iseulfros Kim
 
 ---
 
 **Document ID:** `SE-606-C`  
 **Linked Entity:** `SE-606`  
 **Item Registry Code:** `MAW-S-606-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-235-B`  
 **Linked Entity:** `SE-235` — Panopticon  
 **Item Registry Code:** `MAW-W-235-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Gift Lens provides the scene; Veil moves the responder; Weapon Lens acts. Panopt
 **Document ID:** `SE-235-B`  
 **Linked Entity:** `SE-235`  
 **Item Registry Code:** `MAW-W-235-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

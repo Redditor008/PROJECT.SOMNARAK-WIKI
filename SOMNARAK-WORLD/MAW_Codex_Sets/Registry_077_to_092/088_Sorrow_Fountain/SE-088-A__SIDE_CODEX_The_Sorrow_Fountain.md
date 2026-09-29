@@ -7,7 +7,7 @@
 **Document ID:** `SE-088-A`  
 **Related Entity ID:** `SE-088`  
 **SECC Designation:** `C-IIIγ-088 [LP]`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted    
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ The basin is never empty. Moss alive beyond any normal season grows between the 
 | Void | Low | Its surface refuses a viewer’s reflection. |
 | Weight | Low | Grief feels shared, not removed; the body may still feel heavy. |
 
-> *“I wrote down the sound of the water and realized I had written five different names instead.”* — Agent Kkotlom Lee
+> *“I wrote down the sound of the water and realized I had written five different names instead.”* — Specialist Kkotlom Lee
 
 ### What remains unresolved
 
@@ -174,7 +174,7 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 
 **Document ID:** `SE-088-A`  
 **Linked Entity:** `SE-088`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

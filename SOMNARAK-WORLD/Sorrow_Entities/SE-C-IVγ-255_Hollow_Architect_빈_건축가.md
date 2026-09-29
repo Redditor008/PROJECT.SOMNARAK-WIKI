@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The Architect never enters a completed room.
 - Its plans contain districts absent from current maps.
 
-**Personnel Note:** *"It was quiet. I felt weight. The Architect showed me a city designed for people who had already become ghosts."* — Agent, Zone C patrol
+**Personnel Note:** *"It was quiet. I felt weight. The Architect showed me a city designed for people who had already become ghosts."* — Specialist, Zone C patrol
 
 
 

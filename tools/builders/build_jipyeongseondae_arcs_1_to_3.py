@@ -158,7 +158,7 @@ def generate_arc_1():
         "- Node 10: Drift Throne (Engaging Quadruple Tracks / MARCH BEGINS)",
         "---",
         "- Squad Status: Zero Casualties | Morale 50/50 SP (Unshakable Conviction)",
-        "- Reception Status: 100% RESOLVED | Expedition Departure Cleared"
+        "- Reading Status: 100% RESOLVED | Expedition Departure Cleared"
     ])
 
     return f"""# Arc 1: Departure — Somnarak Zone E & The Exile's Gate (출항 — 추방자의 관문)
@@ -483,7 +483,7 @@ def generate_arc_2():
         "- Node 10: Drift Throne (Full Ahead Flank / Cheonbulok Heading Locked)",
         "---",
         "- Squad Status: Zero Casualties | Morale 50/50 SP (Triumphant Conviction)",
-        "- Reception Status: 100% RESOLVED | Sea of Glass Traversed"
+        "- Reading Status: 100% RESOLVED | Sea of Glass Traversed"
     ])
 
     return f"""# Arc 2: The Desolate Crossing — The Sea of Glass (황야 횡단 — 유리의 바다)
@@ -799,7 +799,7 @@ def generate_arc_3():
         "- Node 10: Great Furnace Sanctum Gates (OPENED TO THE HORIZON CARAVAN)",
         "---",
         "- Squad Status: Zero Casualties | Morale 50/50 SP (Supreme Prestige)",
-        "- Reception Status: 100% RESOLVED | Cheonbulok Entry Granted"
+        "- Reading Status: 100% RESOLVED | Cheonbulok Entry Granted"
     ])
 
     return f"""# Arc 3: Arrival at Cheonbulok — The City of a Thousand Rages (천불옥 도착 — 분노의 도시)

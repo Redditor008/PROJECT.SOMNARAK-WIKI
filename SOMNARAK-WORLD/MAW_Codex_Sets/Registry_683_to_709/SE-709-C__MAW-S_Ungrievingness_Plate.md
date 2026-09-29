@@ -4,7 +4,7 @@
 **Document ID:** `SE-709-C`  
 **Linked Entity:** `SE-709` — Ungrievingness  
 **Item Registry Code:** `MAW-S-709-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ The Ungrievingness Plate is a crimson harness of Han iron that bears transferred
 **Document ID:** `SE-709-C`  
 **Linked Entity:** `SE-709`  
 **Item Registry Code:** `MAW-S-709-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its roots never touch the ground.
 - Personnel report loss after standing beneath its shadow.
 
-**Personnel Note:** *"I felt loss. The Tree had no soil, yet it carried more roots than the settlement that created it ever had."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt loss. The Tree had no soil, yet it carried more roots than the settlement that created it ever had."* — Specialist, Zone B patrol
 
 
 

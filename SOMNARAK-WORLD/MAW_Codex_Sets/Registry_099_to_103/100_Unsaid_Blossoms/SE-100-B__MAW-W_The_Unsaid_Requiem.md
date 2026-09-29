@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / β — Moderate / Lament — Deep Blue |
 | Status | Active; disclosure-purpose review required |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Sooah Park |
+| Current bearer | Specialist Sooah Park |
 | Resting form | A slim blue Han-crystal blade with one petal suspended just beneath the guard. |
 | Active form | The petal becomes a line of blue script that drifts along the edge without forming readable words. |
 | Recognition rule | The script remains blank until the bearer identifies what they refuse to force another person to say. |

@@ -7,7 +7,7 @@
 **Document ID:** `SE-426-D`  
 **Linked Entity:** `SE-426` — Hollowcast  
 **Item Registry Code:** `MAW-G-426-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -32,7 +32,7 @@ The Torn Bracelet is a crimson tail-bracelet of Han iron split along an empty in
 **Document ID:** `SE-426-D`  
 **Linked Entity:** `SE-426`  
 **Item Registry Code:** `MAW-G-426-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

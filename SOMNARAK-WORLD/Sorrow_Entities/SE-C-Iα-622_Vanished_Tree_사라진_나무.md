@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes clearer near old maps.
 - Its rage is directed at erasure rather than people.
 
-**Personnel Note:** *"I felt grief. The Tree was disappearing, but it wanted a record more than rescue."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt grief. The Tree was disappearing, but it wanted a record more than rescue."* — Specialist, Zone B patrol
 
 
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-585-B`  
 **Linked Entity:** `SE-585` — Rootless  
 **Item Registry Code:** `MAW-W-585-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ The tip is now pale rather than blue. It warms before touching material that a b
 
 Floating Charm identifies bonds, Floating Shroud protects the traveling group, and this weapon removes false anchoring. In resonance, soil contact converts the full canopy into a trap.
 
-> *“For four seconds it felt like we had arrived. That was how the weapon nearly killed us.”* — Agent Durivel Cho
+> *“For four seconds it felt like we had arrived. That was how the weapon nearly killed us.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-585-B`  
 **Linked Entity:** `SE-585`  
 **Item Registry Code:** `MAW-W-585-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -400,6 +400,6 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 ## Document Information
 
 **Document ID:** SE-C-IVβ-042
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

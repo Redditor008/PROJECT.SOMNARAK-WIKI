@@ -4,7 +4,7 @@
 **Document ID:** `SE-693-B`  
 **Linked Entity:** `SE-693` — Undercurrent  
 **Item Registry Code:** `MAW-W-693-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ The Rootbound Maul is a heavy black maul of Han steel that opens parallel ground
 **Document ID:** `SE-693-B`  
 **Linked Entity:** `SE-693`  
 **Item Registry Code:** `MAW-W-693-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

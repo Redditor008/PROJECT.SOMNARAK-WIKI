@@ -7,7 +7,7 @@
 **Document ID:** `SE-290-B`  
 **Linked Entity:** `SE-290` — Compass Without North  
 **Item Registry Code:** `MAW-W-290-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Gift rejects direction, Veil anchors identity, Lens removes the false route.
 **Document ID:** `SE-290-B`  
 **Linked Entity:** `SE-290`  
 **Item Registry Code:** `MAW-W-290-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-767` — Swallow  
 **Source SECC Designation:** `C-IVδ-767 [LP]`  
 **Item Registry Code:** `MAW-S-767-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Swallow — Witnessed Form*, The Fading Veil performs the suit role whil
 **Document ID:** `SE-767-C`  
 **Linked Entity:** `SE-767`  
 **Item Registry Code:** `MAW-S-767-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

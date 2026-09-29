@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1004` — The Scar Walker  
 **Source SECC Designation:** `O-IIIδ-011 [GS]`  
 **Item Registry Code:** `MAW-W-1004-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Scar Walker — Witnessed Form*, The Occlusihan Fang performs the we
 **Document ID:** `SE-1004-B`  
 **Linked Entity:** `SE-1004`  
 **Item Registry Code:** `MAW-W-1004-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

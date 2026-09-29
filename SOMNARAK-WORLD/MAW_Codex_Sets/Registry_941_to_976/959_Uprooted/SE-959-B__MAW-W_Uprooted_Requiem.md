@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-959` — Uprooted  
 **Source SECC Designation:** `O-IIIγ-959 [D]`  
 **Item Registry Code:** `MAW-W-959-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Uprooted — Witnessed Form*, Uprooted Requiem performs the weapon role 
 **Document ID:** `SE-959-B`  
 **Linked Entity:** `SE-959`  
 **Item Registry Code:** `MAW-W-959-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

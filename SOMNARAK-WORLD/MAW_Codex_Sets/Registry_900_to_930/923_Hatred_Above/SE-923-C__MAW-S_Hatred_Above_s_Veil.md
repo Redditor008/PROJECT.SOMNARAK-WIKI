@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-923` — Hatred Above  
 **Source SECC Designation:** `C-IVδ-923 [GH]`  
 **Item Registry Code:** `MAW-S-923-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Hatred Above — Witnessed Form*, Hatred Above's Veil performs the suit 
 **Document ID:** `SE-923-C`  
 **Linked Entity:** `SE-923`  
 **Item Registry Code:** `MAW-S-923-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

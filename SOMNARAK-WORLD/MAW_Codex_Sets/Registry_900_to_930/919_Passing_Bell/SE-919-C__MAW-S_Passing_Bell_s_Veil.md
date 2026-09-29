@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-919` — Passing Bell  
 **Source SECC Designation:** `N-IIβ-919 [WT]`  
 **Item Registry Code:** `MAW-S-919-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Passing Bell — Witnessed Form*, Passing Bell's Veil performs the suit 
 **Document ID:** `SE-919-C`  
 **Linked Entity:** `SE-919`  
 **Item Registry Code:** `MAW-S-919-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -160,7 +160,7 @@ The **Underworld Cleanup Descend (UCD)** is Somnarak's tactical enforcement corp
 
 The **Memory Archive (Gieok Jeojangso)** is Somnarak's deep mnemonic preservation sanctum—an ancient subterranean complex excavated within the sub-Alpha tree roots (-2,350m to -3,250m) where erased, suppressed, and traumatic memories are codified, confronted, and transmuted.
 
-**Operational Doctrine:** Sub-Alpha Mnemonic Strata Reception & Key Page Transmutation  
+**Operational Doctrine:** Sub-Alpha Mnemonic Strata Reading & Memory Leaf Transmutation  
 **Location:** Deep Strata Sub-Alpha Roots (-2,350m to -3,250m)
 
 ### Archive Command & Projection Retinue
@@ -169,7 +169,7 @@ The **Memory Archive (Gieok Jeojangso)** is Somnarak's deep mnemonic preservatio
 - **Resonant Mnemonic Lens** — Deep telemetric scanner identifying psychological stress seams and broadcasting 528 Hz harmonic solace.
 - **Weaver Projection Array** — Spatial emotional buffer projecting silver threads of starlight to protect squad composure from despair.
 
-**Strategic Mandate:** The Seven Strata Receptions — descending through seven thematic floors of unresolved trauma to achieve Floor Realization and transmute suffering into permanent Key Pages. *(Documented in `SOMNARAK-WORLD/Gieok_Jeojangso/`)*.
+**Strategic Mandate:** The Seven Strata Readings — descending through seven thematic floors of unresolved trauma to achieve Floor Realization and transmute suffering into permanent Memory Leaves. *(Documented in `SOMNARAK-WORLD/Gieok_Jeojangso/`)*.
 
 ---
 
@@ -202,7 +202,7 @@ While all five Institutions maintain autonomous operational mandates, their logi
 | **Reverie Directorate** | Facility 01 (Alpha Tree) | Sovereign Command Core | M.A.W. Armaments, Cryo-Stasis, Absolvohan Tap |
 | **SED Corps** | Subterranean Deep Maw | Floor 3 (Refining) & Floor 5 (Waystation) | Deep Geological Cartography & Pre-Calamity Relics |
 | **UCD Task Force** | Urban Slums & The Raw | Floor 7 (Shadow Corps) Contraband Processing | Seized Black-Market Siphons & Syndicate Intel |
-| **Memory Archive** | Sub-Alpha Roots (-3,250m)| Floor 1 (Seiyon Direct Comms) & Floor 6 Vault | Transmuted Key Pages & Restored Historical Engrams |
+| **Memory Archive** | Sub-Alpha Roots (-3,250m)| Floor 1 (Seiyon Direct Comms) & Floor 6 Vault | Transmuted Memory Leaves & Restored Historical Engrams |
 | **Horizon Caravan** | The Desolate Overland | Floor 8 (Gate Watch / Xyan Outpost Zero) | Rare Wilderness Ore, Cheonbulok Rage-Crystals, Refugees |
 
 ---
@@ -237,7 +237,7 @@ All five Institutions represent interlocking stages of humanity's awakening acro
 1. **The R.D.** holds the line against containment collapse and ignites the 15% sorrow transmutation via the Absolvohan.
 2. **The SED** charts the deep subterranean abyss, discovering the true physical conduits of the Weeping.
 3. **The UCD** cleanses the civic underbelly, freeing citizens from predatory syndicates and black-market siphons.
-4. **The Memory Archive** dives into deep strata roots, confronting four millennia of forgotten grief to forge permanent Key Pages.
+4. **The Memory Archive** dives into deep strata roots, confronting four millennia of forgotten grief to forge permanent Memory Leaves.
 5. **The Horizon Caravan** breaks the walls of isolation, forging an overland bridge of blood and iron between Somnarak and Cheonbulok.
 
 Together, these five wings transform an apocalyptic prison into the cradle of a connected, living civilization.

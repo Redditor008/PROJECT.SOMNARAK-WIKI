@@ -235,7 +235,7 @@ The healer learned to command. And the command is almost finished. One more word
 
 ## 증언 (Testimonium) — The Testimony
 
-> *"I was the seventh converted. The light entered my chest and I felt... complete. Not empty, not hollowed — complete. Every wound I ever carried was still there, but it had been given purpose. I was part of something. For the first time in my life, I was part of something that was bigger than my sorrow."* — Agent [REDACTED], seventh converted
+> *"I was the seventh converted. The light entered my chest and I felt... complete. Not empty, not hollowed — complete. Every wound I ever carried was still there, but it had been given purpose. I was part of something. For the first time in my life, I was part of something that was bigger than my sorrow."* — Specialist [REDACTED], seventh converted
 
 > *"Her voice is the problem. You cannot resist it — not because it forces you, but because it is right. Everything she says is true. Everything she commands makes sense. The twelve will be converted because it is correct for them to be converted. Fighting it feels like fighting gravity."* — Researcher, R.D.
 

@@ -128,7 +128,7 @@
 - **The Sorrow:** The fury of being trapped by a system that refuses to admit error.
 - **The Event:** Citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage.
 - **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Agents who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
+- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
 
 ## Behavior
 
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - New injustice adds a bar.
 - It becomes hotter during Collector disputes.
 
-**Personnel Note:** *"It was mourning. I felt grief. The Cage was not mourning prisoners; it was mourning the fact that the city could keep building cages without ever filling them honestly."* — Agent, Zone C patrol
+**Personnel Note:** *"It was mourning. I felt grief. The Cage was not mourning prisoners; it was mourning the fact that the city could keep building cages without ever filling them honestly."* — Specialist, Zone C patrol
 
 
 
@@ -316,7 +316,7 @@ The fury of being trapped by a system that refuses to admit error.
 Work response — Viderehan: Reveals the injustices that formed each bar. (Stable); Ferrehan: Tests whether the worker can remain near rage without feeding it. (Decrease). It becomes hotter during Collector disputes.
 
 **Entry 5 — <Archive Note>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Agents who have worked with the entity …
+The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
 
 ## 최종 관찰 (Final Observation)
 

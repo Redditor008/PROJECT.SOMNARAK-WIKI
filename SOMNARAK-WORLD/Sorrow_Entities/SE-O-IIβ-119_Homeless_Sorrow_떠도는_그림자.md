@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It is not extinguished by light; it retreats from acknowledgment.
 - Personnel report fear when it appears behind them.
 
-**Personnel Note:** *"It was watching from the doorway. I felt fear, then realized the doorway was the only place it had ever been allowed to stand."* — Agent, Zone B patrol
+**Personnel Note:** *"It was watching from the doorway. I felt fear, then realized the doorway was the only place it had ever been allowed to stand."* — Specialist, Zone B patrol
 
 
 

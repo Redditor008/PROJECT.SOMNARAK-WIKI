@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes heavier when someone denies a link's owner.
 - Personnel report emptiness after releasing a link.
 
-**Personnel Note:** *"It was quiet. I felt emptiness. One link held a memory of a room no one alive could identify, but everyone in the room remembered feeling safe there."* — Agent, Zone C patrol
+**Personnel Note:** *"It was quiet. I felt emptiness. One link held a memory of a room no one alive could identify, but everyone in the room remembered feeling safe there."* — Specialist, Zone C patrol
 
 
 

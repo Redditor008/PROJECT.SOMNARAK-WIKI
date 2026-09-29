@@ -222,7 +222,7 @@ She addresses Majin as **Director**, Seiyon as **Secretary** in formal settings,
 
 ## Role in the Reverie Directorate
 
-Ishall commands **Floor 7: the Shadow Corps** (그림자 군단, _Geurimja Gundan_), the Directorate's field-intelligence and covert-operations department. The floor lies beneath the Alpha Tree but supports agents, informants, safe houses, and mobile teams across every zone.
+Ishall commands **Floor 7: the Shadow Corps** (그림자 군단, _Geurimja Gundan_), the Directorate's field-intelligence and covert-operations department. The floor lies beneath the Alpha Tree but supports specialists, informants, safe houses, and mobile teams across every zone.
 
 In the Hand of Change structure, Floor 7 corresponds to **Finger 4 of the right hand**. Its work extends the Directorate beyond containment rooms and formal reports. Floor 7 finds what is approaching, who is hiding it, and which official boundary no longer describes the real danger.
 
@@ -252,11 +252,11 @@ The facility reference assigns approximately **115 personnel** to Floor 7:
 | Personnel Group | Approximate Count | Function |
 |---|---:|---|
 | **Field Commander** | 1 | Second-in-command and floor continuity when Ishall is mobile |
-| **Senior Agents** | 10 | Lead high-risk field cells and counter-intelligence responses |
+| **Senior Specialists** | 10 | Lead high-risk field cells and counter-intelligence responses |
 | **Specialists** | 5 | Infiltration, source handling, signal work, and technical deception |
-| **Agents** | 30 | Reconnaissance, field contact, protection, and covert response |
-| **Junior Agents** | 20 | Supervised field work, surveillance, and safe-house support |
-| **Clerks** | 30 | Credential control, report processing, source files, and logistics |
+| **Specialists** | 30 | Reconnaissance, field contact, protection, and covert response |
+| **Junior Specialists** | 20 | Supervised field work, surveillance, and safe-house support |
+| **Auxiliaries** | 30 | Credential control, report processing, source files, and logistics |
 | **Technicians** | 15 | Communication arrays, masks, sensors, and mobile equipment |
 | **Maintenance** | 5 | Safe-house and floor infrastructure support |
 
@@ -341,13 +341,13 @@ Ishall is dangerous because she can work across those boundaries. She is limited
 
 ### Human Life Before the Council
 
-Ishall was human before becoming an Android. The record does not identify her family, district, faction background, education, or birth name. It establishes only that she once had her own biological body and entered Council service as one of its hidden agents.
+Ishall was human before becoming an Android. The record does not identify her family, district, faction background, education, or birth name. It establishes only that she once had her own biological body and entered Council service as one of its hidden specialists.
 
 Those missing facts are not evidence that she had no identity. They show how completely the institution removed the person behind the role from surviving documentation.
 
-### The Council's Hidden Agent
+### The Council's Hidden Specialist
 
-Ishall was not a Warden, Collector, Giltong, or ordinary Judexhan. The R.D. account places her in an unacknowledged category operating outside the visible faction system. Such agents performed work that could not be traced, credited, or officially remembered.
+Ishall was not a Warden, Collector, Giltong, or ordinary Judexhan. The R.D. account places her in an unacknowledged category operating outside the visible faction system. Such specialists performed work that could not be traced, credited, or officially remembered.
 
 This service explains her later competence in:
 
@@ -520,7 +520,7 @@ The question completes her story function. From the first ignored message to the
 
 Ishall's _Absolvohan_ arc proceeds through five stages:
 
-1. **Reception** — the same warning arrives again;
+1. **Reading** — the same warning arrives again;
 2. **Question** — she asks why no one answers;
 3. **Comparison** — she recognizes unprecedented change;
 4. **Witness** — she sees Xyan smile and later return;
@@ -625,7 +625,7 @@ The signature explains her compatibility with Unanswered's dual-element output. 
 
 Ishall directs approximately 115 Floor 7 personnel and coordinates with multiple R.D. floors. Her command skills include task assignment, threat prioritization, source protection, debriefing standards, and response to facility infiltration.
 
-Command is not omnipresence. Mobile operations depend on agents, technicians, informants, and communication links.
+Command is not omnipresence. Mobile operations depend on specialists, technicians, informants, and communication links.
 
 ### Unanswered — Remote Combat Control
 
@@ -954,8 +954,8 @@ Under prolonged cycle exhaustion, the Directorate's administrative overrides col
 #### Encounter Mechanics
 - **Element Signature:** **Grudge (Crimson)** direct kinetic ballistics and stealth minefields.
 - **Active Camouflage:** Ishall deploys full optical refraction, vanishing from standard sensors and striking from concealed vantage points across Floor 7.
-- **Crossfire Saturation:** High-speed sniper rounds and razor-wire ambushes that inflict heavy Grudge direct damage on moving agents.
-- **Suppression Objective:** Agents cannot reason with the hostile military firmware while it overrides the chassis. They must deploy electronic jamming, bypass tactical kill-zones, and physically breach the chassis's cranial housing to shatter the foreign command loop, awakening Ishall's true human soul and consciousness.
+- **Crossfire Saturation:** High-speed sniper rounds and razor-wire ambushes that inflict heavy Grudge direct damage on moving specialists.
+- **Suppression Objective:** Specialists cannot reason with the hostile military firmware while it overrides the chassis. They must deploy electronic jamming, bypass tactical kill-zones, and physically breach the chassis's cranial housing to shatter the foreign command loop, awakening Ishall's true human soul and consciousness.
 
 ---
 
@@ -968,9 +968,9 @@ Neutralizing the enemy chassis shatters her motor controls, severing the delicat
 - **Element Signature:** Pure **Void (Pale White)** area-denial and spatial disruption.
 - **Omnidirectional Closed Ground:** The two oversized relic hands fly to opposite structural weight-bearing columns of Floor 7, turning their Pale White palms inward. The entire encounter floor becomes an active *Closed Ground* field:
   - All Han-assisted movement and remote Han-wave communications are completely suppressed.
-  - Ambient gravity inverts intermittently; agents suffer continuous Void erosion ticks across all zones.
+  - Ambient gravity inverts intermittently; specialists suffer continuous Void erosion ticks across all zones.
 - **Converging Refusal Implosions:** Every 20 seconds, the floating relic hands target opposing quadrants of the floor, curling their fingers to collapse spatial boundaries and dealing lethal crushing damage to anyone caught within the converging vectors.
-- **Suppression Objective:** The relic hands cannot be destroyed by conventional weapons. Agents must endure the crushing Void pressure, cross the distorted terrain on foot without Han assistance, and establish physical contact with both artifacts simultaneously to force a harmonic recalibration, binding them back to Ishall's restored consciousness.
+- **Suppression Objective:** The relic hands cannot be destroyed by conventional weapons. Specialists must endure the crushing Void pressure, cross the distorted terrain on foot without Han assistance, and establish physical contact with both artifacts simultaneously to force a harmonic recalibration, binding them back to Ishall's restored consciousness.
 
 ---
 
@@ -999,7 +999,7 @@ She does not openly overthrow his authority. She makes silence answerable inside
 
 Seiyon is central to Ishall's survival as a person rather than a Council instrument. The character record states that the Secretary stopped her during the failed mission, treated her as a person, and gave her the name Ishall.
 
-In _Absolvohan_, Seiyon also supplies context for the messages: the repetition count, Mugeukji interpretation, and the fact that Xyan has not smiled in 1,778 iterations. Ishall provides field reception; Seiyon provides preserved operational continuity.
+In _Absolvohan_, Seiyon also supplies context for the messages: the repetition count, Mugeukji interpretation, and the fact that Xyan has not smiled in 1,778 iterations. Ishall provides field reading; Seiyon provides preserved operational continuity.
 
 The exact memory or resemblance that first affected Ishall remains unresolved. Their bond is not reduced to a trick.
 
@@ -1118,7 +1118,7 @@ Post-Cycle reform requires Ishall to protect citizens without deciding that secr
 
 ### The Alpha Tree
 
-Floor 7's command rooms lie beneath the Alpha Tree while its agents move throughout the city. The Tree's roots physically connect a floor of hidden identities to the Directorate's central structure.
+Floor 7's command rooms lie beneath the Alpha Tree while its specialists move throughout the city. The Tree's roots physically connect a floor of hidden identities to the Directorate's central structure.
 
 No source gives Ishall a special biological, spiritual, or command bond with the Tree.
 

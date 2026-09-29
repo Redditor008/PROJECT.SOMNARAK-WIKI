@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-897` — Welcome Haven  
 **Source SECC Designation:** `O-IVδ-897 [GS]`  
 **Item Registry Code:** `MAW-S-897-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Welcome Haven — Witnessed Form*, The Broken Barrier performs the suit 
 **Document ID:** `SE-897-C`  
 **Linked Entity:** `SE-897`  
 **Item Registry Code:** `MAW-S-897-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

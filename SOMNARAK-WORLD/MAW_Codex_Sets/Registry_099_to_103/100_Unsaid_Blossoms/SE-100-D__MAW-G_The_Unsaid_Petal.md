@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, crystal petal / β — Moderate / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; one-sentence use requires a welfare witness |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A pale blue petal with a transparent vein through the center, cool enough to fog breath. |
 | Active form | The petal turns toward the bearer’s mouth and holds a single soft blue glow. |
 | Recognition rule | It remains inert if the bearer tries to use someone else’s unsaid sentence. |

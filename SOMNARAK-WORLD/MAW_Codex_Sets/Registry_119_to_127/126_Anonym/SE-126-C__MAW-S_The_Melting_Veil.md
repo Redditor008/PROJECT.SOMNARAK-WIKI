@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / α — Minor / Void — Pale White |
 | Status | Active; chosen-name witness deployment only |
 | Maximum amount | 5 — Standard |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | Pale gossamer that softens at the edges but retains a clear central collar line. |
 | Active form | The Veil moves like a dissolving outline around the wearer while a witness-held thread marks the current self. |
 | Recognition rule | The collar thread becomes readable only when the witness uses the bearer’s chosen name. |
@@ -87,7 +87,7 @@ Grey wore the Veil during a Gate-adjacent patrol after exposure to Anonym made t
 
 The Veil is the protective boundary of *Named by Choice*. Melting Lens creates a pause and Melting Reflection detects erosion; the Veil makes that pause safe without demanding a permanent answer.
 
-> *“Recognition should make room. It should not close a door behind the person recognized.”* — Agent Iseulfros Kim
+> *“Recognition should make room. It should not close a door behind the person recognized.”* — Specialist Iseulfros Kim
 
 ---
 

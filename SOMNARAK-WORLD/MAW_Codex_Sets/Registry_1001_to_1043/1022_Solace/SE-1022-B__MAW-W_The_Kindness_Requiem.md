@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1022` — Solace  
 **Source SECC Designation:** `C-Iα-240 [LO]`  
 **Item Registry Code:** `MAW-W-1022-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Solace — Witnessed Form*, The Kindness Requiem performs the weapon rol
 **Document ID:** `SE-1022-B`  
 **Linked Entity:** `SE-1022`  
 **Item Registry Code:** `MAW-W-1022-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

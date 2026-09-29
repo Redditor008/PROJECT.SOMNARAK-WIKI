@@ -7,7 +7,7 @@
 **Document ID:** `SE-518-C`  
 **Linked Entity:** `SE-518` — Life Behind Glass  
 **Item Registry Code:** `MAW-S-518-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Glass Shroud is a shroud of blue Han-silk with a rain-covered outer pane and
 **Document ID:** `SE-518-C`  
 **Linked Entity:** `SE-518`  
 **Item Registry Code:** `MAW-S-518-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

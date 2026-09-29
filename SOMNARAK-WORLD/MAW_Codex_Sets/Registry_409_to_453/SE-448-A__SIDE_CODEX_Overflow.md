@@ -7,7 +7,7 @@
 **Document ID:** `SE-448-A`  
 **Related Entity ID:** `SE-448`  
 **SECC Designation:** `C-IIIγ-448 [O]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -48,7 +48,7 @@ Ring tends the living, Plate holds the rising pressure, and Fang separates overf
 
 **Document ID:** `SE-448-A`  
 **Linked Entity:** `SE-448`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

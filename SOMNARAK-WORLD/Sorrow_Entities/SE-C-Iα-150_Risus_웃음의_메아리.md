@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It carries no physical vibration detectable by instruments.
 - Personnel report rage when they expect joy and hear sorrow instead.
 
-**Personnel Note:** *"It was watching. I felt rage. Then I understood that I was angry because the laughter had continued after the person who made it was gone."* — Agent, Zone C patrol
+**Personnel Note:** *"It was watching. I felt rage. Then I understood that I was angry because the laughter had continued after the person who made it was gone."* — Specialist, Zone C patrol
 
 
 
@@ -396,6 +396,6 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 ## Document Information
 
 **Document ID:** SE-C-Iα-150
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Open

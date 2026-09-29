@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / γ — Major / Weight — Black |
 | Status | Active; Gate Watch grounding partner required |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Sooah Park |
+| Current bearer | Specialist Sooah Park |
 | Resting form | A dark mantle split by mirrored black seams that never quite meet across the back. |
 | Active form | Each seam holds a separate reflected silhouette, but the mantle’s weight remains evenly distributed across the wearer. |
 | Recognition rule | The seams stabilize only after the wearer names a change they no longer need to apologize for. |

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-912` — Eleven Fifty-Nine  
 **Source SECC Designation:** `C-IIIγ-912 [LT]`  
 **Item Registry Code:** `MAW-W-912-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Edge performs
 **Document ID:** `SE-912-B`  
 **Linked Entity:** `SE-912`  
 **Item Registry Code:** `MAW-W-912-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

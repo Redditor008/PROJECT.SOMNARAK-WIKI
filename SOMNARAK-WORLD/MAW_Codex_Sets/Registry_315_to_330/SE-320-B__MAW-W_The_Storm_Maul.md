@@ -7,7 +7,7 @@
 **Document ID:** `SE-320-B`  
 **Linked Entity:** `SE-320` — Unwept Storm  
 **Item Registry Code:** `MAW-W-320-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm chooses lower pressure, Shield covers people, Maul clears debris.
 **Document ID:** `SE-320-B`  
 **Linked Entity:** `SE-320`  
 **Item Registry Code:** `MAW-W-320-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - No physical body has been recovered beneath the grave.
 - Personnel report fear before hearing their own unsaid words.
 
-**Personnel Note:** *"It was mourning. I felt fear because the grave knew exactly what I had not said."* — Agent, Zone D patrol
+**Personnel Note:** *"It was mourning. I felt fear because the grave knew exactly what I had not said."* — Specialist, Zone D patrol
 
 
 
@@ -397,6 +397,6 @@ Some sorrows mourn what was lost. The Grave mourns what was never said — and f
 ## Document Information
 
 **Document ID:** SE-C-IIβ-100
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Restricted

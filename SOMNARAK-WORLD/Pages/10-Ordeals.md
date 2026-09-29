@@ -40,10 +40,10 @@ Ordeals operate under distinct combat and spatial rules:
 ## 2 The Temporal Axis: The Four Watches
 
 Ordeals manifest sequentially throughout the shift, escalating in difficulty across the **Four Watches**:
-- **First Watch (Dawn / 새벽):** Low-density scouting incursions (Rank II Murmur equivalent). Easily suppressed by entry-level specialists.
-- **Second Watch (Noon / 정오):** Moderate assault waves (Rank III Fragment equivalent). Features armored units and localized area-of-effect damage.
-- **Third Watch (Dusk / 황혼):** Severe multi-floor emergencies (Rank IV Entity equivalent). Employs coordinated swarms, debuffs, and high mobility.
-- **Tide Watch (Midnight / 자정):** Catastrophic endgame incursions (Rank V Sovereign equivalent). Giant monoliths, facility-wide laser sweeps, or conceptual erasure fields that threaten total facility liquidation.
+- **First Watch:** Low-density scouting incursions (Rank II Murmur equivalent). Easily suppressed by entry-level specialists.
+- **Second Watch:** Moderate assault waves (Rank III Fragment equivalent). Features armored units and localized area-of-effect damage.
+- **Third Watch:** Severe multi-floor emergencies (Rank IV Entity equivalent). Employs coordinated swarms, debuffs, and high mobility.
+- **Tide Watch:** Catastrophic endgame incursions (Rank V Sovereign equivalent). Giant monoliths, facility-wide laser sweeps, or conceptual erasure fields that threaten total facility liquidation.
 
 ## 3 The Elemental Axis: The Five Colors
 
@@ -77,7 +77,7 @@ Theme: Reality-warping monoliths, tectonic ruptures, and mother floods.
 
 The sixty tracked Ordeal files map into a rigorous grid across the five Colors and four Watches:
 
-| Color Classification | First Watch (Dawn) | Second Watch (Noon) | Third Watch (Dusk) | Tide Watch (Midnight) |
+| Color Classification | First Watch | Second Watch | Third Watch | Tide Watch |
 |---|---|---|---|---|
 | **BLACK (⚫ Weight)** | *The Grinding Slab* | *The Crushing Column* | *The Buried Pillar* | *The Final Ton* |
 | **BLUE (🔵 Lament)** | *The Leaking Eyes* | *The Sobbing Wall* | *The Brine Walkers* | *The Drowned World* |
@@ -101,10 +101,10 @@ Facility 01's monitoring grid provides advance tactical warnings:
 ## 7 Gallery
 
 [![Ordeal Corridor Incursion](images/ordeal-corridor-incursion.svg)](images/ordeal-corridor-incursion.svg)
-[![Tide Watch Midnight Sovereign](images/tide-watch-midnight-sovereign.svg)](images/tide-watch-midnight-sovereign.svg)
+[![Tide Watch Sovereign](images/tide-watch-sovereign.svg)](images/tide-watch-sovereign.svg)
 [![Elemental Warning Gauge](images/elemental-warning-gauge.svg)](images/elemental-warning-gauge.svg)
 
-*Left: corridor swarm incursion; Center: Tide Watch Midnight monolith; Right: pre-incursion warning display.*
+*Left: corridor swarm incursion; Center: Tide Watch monolith; Right: pre-incursion warning display.*
 ---
 
 ## 8 See also

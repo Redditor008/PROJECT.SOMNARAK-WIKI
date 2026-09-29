@@ -64,7 +64,7 @@ Every operational day assigns a mandatory energy target:
 | **100% (Baseline)** | Standard Quota | 0 Bonus | Standard shift clearance; minimal risk. |
 | **110% Overcharge** | +10% Lumen | +2 LOB Credits | Minor meltdown gauge advance (+2 works). |
 | **125% Overcharge** | +25% Lumen | +5 LOB Credits | Moderate risk; possible Dusk Ordeal. |
-| **150% Overcharge** | +50% Lumen | +12 LOB Credits | High risk; Tide Watch (Midnight) likely. |
+| **150% Overcharge** | +50% Lumen | +12 LOB Credits | High risk; Tide Watch likely. |
 | **200% Overcharge** | Double Quota | +25 LOB Credits | Extreme crisis; multiple simultaneous meltdowns. |
 
 ## 5 The Mnemonic Generator and Crystalline Storage

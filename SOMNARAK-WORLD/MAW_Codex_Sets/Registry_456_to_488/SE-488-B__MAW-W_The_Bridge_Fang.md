@@ -7,7 +7,7 @@
 **Document ID:** `SE-488-B`  
 **Linked Entity:** `SE-488` — Friendless Bridge  
 **Item Registry Code:** `MAW-W-488-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Bridge Fang is a crimson fang of Han iron with two unjoined edges — twin c
 **Document ID:** `SE-488-B`  
 **Linked Entity:** `SE-488`  
 **Item Registry Code:** `MAW-W-488-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

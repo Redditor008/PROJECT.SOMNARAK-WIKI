@@ -358,7 +358,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It tolls for the children, and the children will not be silenced.
 
 **Personnel Note:**
-> *"I catalogued 2,347 faces on the tower last month. This month: 2,351. Four new faces. Four new children lost somewhere in the city. The bell knows before we do."* — Archive Agent Hanul Grey, Zone B
+> *"I catalogued 2,347 faces on the tower last month. This month: 2,351. Four new faces. Four new children lost somewhere in the city. The bell knows before we do."* — Archive Specialist Hanul Grey, Zone B
 
 
 
@@ -502,6 +502,6 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 ## Document Information
 
 **Document ID:** SE-C-IVδ-001
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4209
 **Classification:** Restricted

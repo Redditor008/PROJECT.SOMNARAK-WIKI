@@ -435,6 +435,6 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 ## Document Information
 
 **Document ID:** SE-C-IIβ-048
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4225
 **Classification:** Open

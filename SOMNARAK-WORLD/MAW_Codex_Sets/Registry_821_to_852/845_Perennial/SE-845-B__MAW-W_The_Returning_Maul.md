@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-845` — Perennial  
 **Source SECC Designation:** `N-IIβ-845 [WP]`  
 **Item Registry Code:** `MAW-W-845-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Perennial — Witnessed Form*, The Returning Maul performs the weapon ro
 **Document ID:** `SE-845-B`  
 **Linked Entity:** `SE-845`  
 **Item Registry Code:** `MAW-W-845-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

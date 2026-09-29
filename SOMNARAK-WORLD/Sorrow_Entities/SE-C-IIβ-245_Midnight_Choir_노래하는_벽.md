@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Songs contain history absent from the Archive.
 - The Walls become silent when attacked.
 
-**Personnel Note:** *"It was quiet. I felt sorrow. Then the wall began a lullaby older than the district, and the sorrow became beautiful."* — Agent, Zone B patrol
+**Personnel Note:** *"It was quiet. I felt sorrow. Then the wall began a lullaby older than the district, and the sorrow became beautiful."* — Specialist, Zone B patrol
 
 
 

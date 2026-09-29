@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1019` — Ember Phoenix  
 **Source SECC Designation:** `O-IVδ-190 [GS]`  
 **Item Registry Code:** `MAW-W-1019-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Ember Phoenix — Witnessed Form*, The Rebirth Fang performs the weapon 
 **Document ID:** `SE-1019-B`  
 **Linked Entity:** `SE-1019`  
 **Item Registry Code:** `MAW-W-1019-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-921` — Cracked Flesh
 **Source SECC Designation:** `C-IIIγ-921 [GH]`
 **Item Registry Code:** `MAW-W-921-01`
-**Author:** Agent Durivel Cho
+**Author:** Specialist Durivel Cho
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Cracked Flesh — Witnessed Form*, The Awakened Marrow-Spike & Tendril p
 **Document ID:** `SE-921-B`
 **Linked Entity:** `SE-921`
 **Item Registry Code:** `MAW-W-921-01`
-**Author:** Agent Durivel Cho
+**Author:** Specialist Durivel Cho
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

@@ -22,7 +22,7 @@
 | Category | MELEE (War-Scythe / Flexible Branch-Blade) |
 | Status | Active; farewell-witness issue |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Kkotlom Lee |
+| Current bearer | Specialist Kkotlom Lee |
 | Resting form | A long-hafted willow scythe with weeping blue crystal tendrils draped along the crescent. |
 | Active form | Wide reaping arcs release a falling veil of blue dew and soundless farewells. |
 | Recognition rule | It hums only after the bearer names what ended and what was good about it. |

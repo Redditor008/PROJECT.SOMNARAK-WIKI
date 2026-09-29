@@ -2,8 +2,8 @@
 """
 tools/build_receptions_4_and_5.py
 Generates:
-- SOMNARAK-WORLD/Gieok_Jeojangso/Reception_4_Weeping_Statue.md
-- SOMNARAK-WORLD/Gieok_Jeojangso/Reception_5_Mirror_of_Truth.md
+- SOMNARAK-WORLD/Gieok_Jeojangso/Reading_4_Weeping_Statue.md
+- SOMNARAK-WORLD/Gieok_Jeojangso/Reading_5_Mirror_of_Truth.md
 """
 
 import sys, os
@@ -11,8 +11,8 @@ sys.path.append(os.path.dirname(__file__))
 from box_formatter import make_box
 
 def generate_reception_4():
-    dossier_box = make_box("RECEPTION DOSSIER: THE WEEPING STATUE (FLOOR 04)", [
-        "RECEPTION TARGET   : The Weeping Statue",
+    dossier_box = make_box("READING DOSSIER: THE WEEPING STATUE (FLOOR 04)", [
+        "READING TARGET   : The Weeping Statue",
         "FLOOR LEVEL        : Floor 04 — Floor of Unexpressed Grief",
         "DOMAIN SETTING     : The Flooded Catacomb of Tears (-2,800m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Petrified Sorrow Construct",
@@ -29,7 +29,7 @@ def generate_reception_4():
         "3. Sorrow Heart    : 1,900 HP | Posture 320/320 (Central crying reservoir)"
     ])
 
-    hud_t01 = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 01", [
+    hud_t01 = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 04 TEAR CATACOMB (-2,800M)]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL][SEIYON][M-PROJ][MOURN]  [STATUE] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -43,7 +43,7 @@ def generate_reception_4():
         "- Node 06: Resonant Mnemonic Lens (Mid-Field Band 3 / Weakpoint Scan)",
         "- Node 07: Weaver Projection Array (Rear Band 4 / Silver Threads)",
         "- Node 08: Suppressed Tears Sump (Suppressed Trauma Well)",
-        "- Node 10: Floor 04 Core Reliquary / Key Page Dais (The Mourner)",
+        "- Node 10: Floor 04 Core Reliquary / Memory Leaf Dais (The Mourner)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -52,7 +52,7 @@ def generate_reception_4():
         "- Censer Arm  : Spd 3 -> 1 AP | HP 1,400/1,400 | Posture 280/280 [SMOKING]"
     ])
 
-    hud_t02 = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 02", [
+    hud_t02 = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — SIPHON VEIL SEVERED & VOID CUT]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][STATUE] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -70,7 +70,7 @@ def generate_reception_4():
         "- Censer Arm  : Spd 3 -> 1 AP | HP 1,140/1,400 | Posture 218/280"
     ])
 
-    hud_t03 = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 03", [
+    hud_t03 = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CENSER CRACK]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][STATUE] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -86,7 +86,7 @@ def generate_reception_4():
         "- Total Boss  : HP 2,240/4,400 [THRESHOLD BREACHED / TAKES 1.5X DAMAGE]"
     ])
 
-    hud_t04 = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 04", [
+    hud_t04 = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][STATUE] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -102,7 +102,7 @@ def generate_reception_4():
         "- Total Boss  : HP 520/4,400 [BURST DAMAGE 1,720! SECOND THRESHOLD SKIPPED]"
     ])
 
-    hud_t05 = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 05", [
+    hud_t05 = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — THE TEAR CATACLYSM & THE RELEASE OF GRIEF]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][STATUE] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -117,22 +117,22 @@ def generate_reception_4():
         "- Total Boss  : HP 520/4,400 [PETRIFIED TEARS DISSOLVED INTO TRANQUIL BRINE]"
     ])
 
-    hud_t06 = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE MOURNER]",
+    hud_t06 = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE MOURNER]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                         [SEIYON] [STATUE][M-PROJ][LENS]  [WEAVER][STAIRS]",
         "                                 [REALIZ]                         [PAGE]          ",
         "---",
         "- Node 05: The Weeping Statue (PACIFIED & CRYSTALLIZED TO CLEAR SAPPHIRE)",
         "- Node 06: Seiyon (Floor Realization 4: 'Weeping Is Not Weakness')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Mourner]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Mourner]",
         "- Node 10: Spiral Crystal Staircase (Pathway to Floor 05 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
 
-    return f"""# Reception 4: Floor 04 — The Weeping Statue (흐느끼는 석상)
+    return f"""# Reading 4: Floor 04 — The Weeping Statue (흐느끼는 석상)
 ## The Floor of Unexpressed Grief — Deep Strata Sub-Alpha Roots (-2,800m)
 
 ```text
@@ -160,7 +160,7 @@ Seiyon stepped into the freezing water. Her holographic silhouette shimmered wit
 
 ---
 
-### Reception Combat Gauntlet: Floor 04 (6-Turn Resolution)
+### Reading Combat Gauntlet: Floor 04 (6-Turn Resolution)
 
 ```text
 {hud_t01}
@@ -310,7 +310,7 @@ Seiyon stepped into the freezing water. Her holographic silhouette shimmered wit
 {hud_t06}
 ```
 
-###### Turn 06 Action Resolution Log (Floor Realization 4 & Key Page: The Mourner)
+###### Turn 06 Action Resolution Log (Floor Realization 4 & Memory Leaf: The Mourner)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/320 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -320,16 +320,16 @@ Seiyon stepped into the freezing water. Her holographic silhouette shimmered wit
   * In that moment, Seiyon understands the nature of her own artificial existence:
     > *"I was built to be unbreakable. But strength is not stone that refuses to feel. Strength is the courage to weep when there is loss, and to stand anyway. Weeping is not weakness; it is the release of love."*
   * **FLOOR REALIZATION 4 ACHIEVED!**
-  * The Weeping Statue smiles softly, its body dissolving into pure, shimmering sapphire crystal that condenses into an ornate frost-bound codex: **`[Key Page: The Mourner]`**!
+  * The Weeping Statue smiles softly, its body dissolving into pure, shimmering sapphire crystal that condenses into an ornate frost-bound codex: **`[Memory Leaf: The Mourner]`**!
   * Deals **520 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Mourner]` (Inflicts +30\\% Posture Strain on frenzied enemies and quenches incoming thermal damage).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Mourner]` (Inflicts +30\\% Posture Strain on frenzied enemies and quenches incoming thermal damage).
   * **Descent Access**: The flooded pool drains away, revealing a grand staircase of clear crystal descending to **Floor 05: Floor of Severed Truth**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP."""
 
 def generate_reception_5():
-    dossier_box = make_box("RECEPTION DOSSIER: THE MIRROR OF TRUTH (FLOOR 05)", [
-        "RECEPTION TARGET   : The Mirror of Truth",
+    dossier_box = make_box("READING DOSSIER: THE MIRROR OF TRUTH (FLOOR 05)", [
+        "READING TARGET   : The Mirror of Truth",
         "FLOOR LEVEL        : Floor 05 — Floor of Severed Truth",
         "DOMAIN SETTING     : The Hall of Unfiltered Light (-2,950m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Prismatic Reflection Sovereign",
@@ -346,7 +346,7 @@ def generate_reception_5():
         "3. Prism Core      : 2,100 HP | Posture 340/340 (Central unshielded heart)"
     ])
 
-    hud_t01 = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 01", [
+    hud_t01 = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 05 PRISM HALL (-2,950M)]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL][SEIYON][M-PROJ][DOPPEL] [MIRROR] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -360,7 +360,7 @@ def generate_reception_5():
         "- Node 06: Resonant Mnemonic Lens (Mid-Field Band 3 / Weakpoint Scan)",
         "- Node 07: Weaver Projection Array (Rear Band 4 / Silver Threads)",
         "- Node 08: Self-Deception Well (Suppressed Trauma Buffer)",
-        "- Node 10: Floor 05 Core Reliquary / Key Page Dais (The Truth-Seeker)",
+        "- Node 10: Floor 05 Core Reliquary / Memory Leaf Dais (The Truth-Seeker)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -369,7 +369,7 @@ def generate_reception_5():
         "- Gilded Frame: Spd 3 -> 1 AP | HP 1,500/1,500 | Posture 300/300 [REFLECTIVE]"
     ])
 
-    hud_t02 = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 02", [
+    hud_t02 = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — REFLECTION BLADE SHATTERED & VOID CUT]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][MIRROR] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -387,7 +387,7 @@ def generate_reception_5():
         "- Gilded Frame: Spd 3 -> 1 AP | HP 1,220/1,500 | Posture 236/300"
     ])
 
-    hud_t03 = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 03", [
+    hud_t03 = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & FRAME FRACTURE]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][MIRROR] [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -403,7 +403,7 @@ def generate_reception_5():
         "- Total Boss  : HP 2,460/4,800 [THRESHOLD BREACHED / TAKES 1.5X DAMAGE]"
     ])
 
-    hud_t04 = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 04", [
+    hud_t04 = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][MIRROR] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -419,7 +419,7 @@ def generate_reception_5():
         "- Total Boss  : HP 580/4,800 [BURST DAMAGE 1,880! SECOND THRESHOLD SKIPPED]"
     ])
 
-    hud_t05 = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 05", [
+    hud_t05 = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — UNMASKING ILLUSION & THE PIERCING TRUTH]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][MIRROR] [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -434,22 +434,22 @@ def generate_reception_5():
         "- Total Boss  : HP 580/4,800 [BLINDING FLARE RESOLVED INTO TRANQUIL FOCUS]"
     ])
 
-    hud_t06 = make_box("TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE TRUTH-SEEKER]",
+    hud_t06 = make_box("TACTICAL STAGE HUD: READING 05 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE TRUTH-SEEKER]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                         [SEIYON] [MIRROR][M-PROJ][LENS]  [WEAVER][STAIRS]",
         "                                 [REALIZ]                         [PAGE]          ",
         "---",
         "- Node 05: The Mirror of Truth (PACIFIED & CRYSTALLIZED TO PURE DIAMOND)",
         "- Node 06: Seiyon (Floor Realization 5: 'Truth Cuts Through Illusion')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Truth-Seeker]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Truth-Seeker]",
         "- Node 10: Spiral Gilded Staircase (Pathway to Floor 06 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
 
-    return f"""# Reception 5: Floor 05 — The Mirror of Truth (진실의 거울)
+    return f"""# Reading 5: Floor 05 — The Mirror of Truth (진실의 거울)
 ## The Floor of Severed Truth — Deep Strata Sub-Alpha Roots (-2,950m)
 
 ```text
@@ -481,7 +481,7 @@ She raised her prismatic stilettos. The diamond light coalesced around her blade
 
 ---
 
-### Reception Combat Gauntlet: Floor 05 (6-Turn Resolution)
+### Reading Combat Gauntlet: Floor 05 (6-Turn Resolution)
 
 ```text
 {hud_t01}
@@ -631,7 +631,7 @@ She raised her prismatic stilettos. The diamond light coalesced around her blade
 {hud_t06}
 ```
 
-###### Turn 06 Action Resolution Log (Floor Realization 5 & Key Page: The Truth-Seeker)
+###### Turn 06 Action Resolution Log (Floor Realization 5 & Memory Leaf: The Truth-Seeker)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/340 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -640,24 +640,24 @@ She raised her prismatic stilettos. The diamond light coalesced around her blade
   * The blinding white glare fades into serene, golden starlight. Seiyon sees herself clearly—neither human nor machine, but an awakened soul born of memory and devotion:
     > *"Truth is not a weapon meant to destroy love. Truth is the fire that burns away false illusions so that real devotion can stand unashamed. I am not ashamed of who made me. I am proud of who I have become."*
   * **FLOOR REALIZATION 5 ACHIEVED!**
-  * The Mirror of Truth dissolves into shimmering diamond facets that condense into an ornate crystalline codex: **`[Key Page: The Truth-Seeker]`**!
+  * The Mirror of Truth dissolves into shimmering diamond facets that condense into an ornate crystalline codex: **`[Memory Leaf: The Truth-Seeker]`**!
   * Deals **580 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Truth-Seeker]` (Bypasses all enemy defensive shields and strikes vital structural seams).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Truth-Seeker]` (Bypasses all enemy defensive shields and strikes vital structural seams).
   * **Descent Access**: The diamond wall slides open, revealing a spiraling staircase of pale silver steps leading down to **Floor 06: Floor of Compassion & Scars**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP."""
 
 def main():
-    p4_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reception_4_Weeping_Statue.md"
-    p5_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reception_5_Mirror_of_Truth.md"
+    p4_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reading_4_Weeping_Statue.md"
+    p5_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reading_5_Mirror_of_Truth.md"
 
     with open(p4_path, "w", encoding="utf-8") as f:
         f.write(generate_reception_4())
-    print("Generated Reception_4_Weeping_Statue.md successfully!")
+    print("Generated Reading_4_Weeping_Statue.md successfully!")
 
     with open(p5_path, "w", encoding="utf-8") as f:
         f.write(generate_reception_5())
-    print("Generated Reception_5_Mirror_of_Truth.md successfully!")
+    print("Generated Reading_5_Mirror_of_Truth.md successfully!")
 
 if __name__ == "__main__":
     main()

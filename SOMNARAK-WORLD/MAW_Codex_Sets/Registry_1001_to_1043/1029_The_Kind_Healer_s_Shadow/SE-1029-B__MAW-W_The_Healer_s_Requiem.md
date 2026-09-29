@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1029` — The Kind Healer's Shadow  
 **Source SECC Designation:** `N-IIβ-280 [LS]`  
 **Item Registry Code:** `MAW-W-1029-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Requiem perfo
 **Document ID:** `SE-1029-B`  
 **Linked Entity:** `SE-1029`  
 **Item Registry Code:** `MAW-W-1029-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

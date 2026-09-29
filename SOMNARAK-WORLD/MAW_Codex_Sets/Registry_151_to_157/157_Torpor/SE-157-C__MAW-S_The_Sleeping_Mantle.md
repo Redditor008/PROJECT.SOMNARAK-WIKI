@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / δ — Critical / Weight — Black |
 | Status | Restricted rest-transition issue |
 | Maximum amount | 2 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A heavy black mantle that muffles sharp sound and bears a faint scent of wet stone after sleep. |
 | Active form | The fabric settles around the wearer like a safe heavy blanket, with one wake-thread remaining visible at the collar. |
 | Recognition rule | The wake-thread responds only to the named waking person’s voice. |
@@ -87,7 +87,7 @@ Grey used the Mantle during a prolonged Border Watch rotation after a field alar
 
 The Mantle is the guarded transition of *Wake the Watch*. Sleeping Maul makes rest possible and Sleeping Breath reveals the group fatigue; this suit ensures that recovery has a person who will wake the bearer.
 
-> *“Sleep is safe only when someone has agreed to keep the world from demanding you awake.”* — Agent Iseulfros Kim
+> *“Sleep is safe only when someone has agreed to keep the world from demanding you awake.”* — Specialist Iseulfros Kim
 
 ---
 

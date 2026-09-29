@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1043` — Miasma  
 **Source SECC Designation:** `C-IVδ-922 [LH]`  
 **Item Registry Code:** `MAW-W-1043-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Miasma — Witnessed Form*, Miasma's Edge performs the weapon role while
 **Document ID:** `SE-1043-B`  
 **Linked Entity:** `SE-1043`  
 **Item Registry Code:** `MAW-W-1043-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

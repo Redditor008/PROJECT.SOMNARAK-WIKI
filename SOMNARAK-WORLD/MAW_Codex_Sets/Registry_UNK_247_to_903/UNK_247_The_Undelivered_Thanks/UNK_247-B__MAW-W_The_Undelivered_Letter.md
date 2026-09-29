@@ -5,7 +5,7 @@
 **Document ID:** `UNK-247-B`  
 **Linked Entity:** `UNK-247` — The Undelivered Thanks  
 **Item Registry Code:** `MAW-W-UNK-247-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ A heavy parchment scroll weighted with compressed sediment, unfolding to unleash
 **Document ID:** `UNK-247-B`  
 **Linked Entity:** `UNK-247`  
 **Item Registry Code:** `MAW-W-UNK-247-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, pale mirror-tile / α — Minor / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; observation support item |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small pale mirror tile whose reflection begins clear, then gently melts at its edges. |
 | Active form | Thin ripples appear across the tile wherever a nearby person is losing self-recognition. |
 | Recognition rule | It remains clear around ordinary change; only corrosive denial produces the melting edge. |

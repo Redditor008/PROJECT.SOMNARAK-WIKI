@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1040` — Wanderer Without a Destination  
 **Source SECC Designation:** `O-IIIγ-914 [N]`  
 **Item Registry Code:** `MAW-W-1040-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a D
 **Document ID:** `SE-1040-B`  
 **Linked Entity:** `SE-1040`  
 **Item Registry Code:** `MAW-W-1040-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

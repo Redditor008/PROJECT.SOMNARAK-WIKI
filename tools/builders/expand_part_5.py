@@ -18,11 +18,11 @@ def get_day_77_combat():
         "[FOSSIL][YOO]           [MARJUK]                [MAJIN]                 ",
         "---",
         "- Node 01: Fossilized Titan (Posture 72/150 / Rib Cage Fractured)",
-        "- Node 02: Agent Yoo (Point-Blank Band 1 / Heavy Maul Cleaving)",
+        "- Node 02: Specialist Yoo (Point-Blank Band 1 / Heavy Maul Cleaving)",
         "- Node 05: Archive Lead Marjuk (Range Band 3 / Easing Stasis Field)",
         "- Node 08: Director Majin & Seiyon Command Console (Band 4)",
         "---",
-        "- Agent Yoo    : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 70/70",
+        "- Specialist Yoo    : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 70/70",
         "- Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Fossil Titan : Spd 3 -> 1 AP | HP 198/320 | Posture 72/150 [CRACKED]"
     ])
@@ -33,10 +33,10 @@ def get_day_77_combat():
         "[FOSSIL]        [YOO]   [MARJUK]                [MAJIN]                 ",
         "---",
         "- Node 01: Fossil Titan (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 03: Agent Yoo (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 03: Specialist Yoo (Advancing with Momentum Surge / +2 Speed)",
         "- Node 04: Archive Lead Marjuk (Applying Chronological Seal)",
         "---",
-        "- Agent Yoo    : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +30 | Posture 70/70",
+        "- Specialist Yoo    : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +30 | Posture 70/70",
         "- Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Fossil Titan : Spd 0 -> 0 AP | HP 102/320 | Posture 24/150 [STAGGERED]"
     ])
@@ -47,10 +47,10 @@ def get_day_77_combat():
         "[FOSSIL][YOO]           [MARJUK]                [MAJIN]                 ",
         "---",
         "- Node 01: Fossil Titan (Recovered / Channeling Singularity Pulse)",
-        "- Node 02: Agent Yoo (Directional Guard Absorption Active)",
+        "- Node 02: Specialist Yoo (Directional Guard Absorption Active)",
         "- Node 05: Archive Lead Marjuk (Freezing Vertebrae with Stasis Field)",
         "---",
-        "- Agent Yoo    : Spd 8 -> 4 AP | HP 118/125 | SP +30 | Posture 62/70",
+        "- Specialist Yoo    : Spd 8 -> 4 AP | HP 118/125 | SP +30 | Posture 62/70",
         "- Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Fossil Titan : Spd 3 -> 1 AP | HP 54/320  | Posture 10/150 [UNSTABLE]"
     ])
@@ -62,10 +62,10 @@ def get_day_77_combat():
         "        [YOO]   [MARJUK]",
         "---",
         "- Node 01: Fossil Titan (TERMINAL STAGGER / POSTURE 0/150 / 2.0x DMG)",
-        "- Node 02: Agent Yoo (Crushing Pelvic Pivot)",
+        "- Node 02: Specialist Yoo (Crushing Pelvic Pivot)",
         "- Node 03: Archive Lead Marjuk (Locking Stasis Field over Skull)",
         "---",
-        "- Agent Yoo    : Spd 6 -> 3 AP | HP 118/125 | SP +30 | Posture 62/70",
+        "- Specialist Yoo    : Spd 6 -> 3 AP | HP 118/125 | SP +30 | Posture 62/70",
         "- Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Fossil Titan : Spd 0 -> 0 AP | HP 16/320  | Posture 0/150 [COLLAPSED]"
     ])
@@ -76,10 +76,10 @@ def get_day_77_combat():
         "[GRAVEL][YOO]           [MARJUK]                [MAJIN]                 ",
         "---",
         "- Node 01: Fossil Titan (Disintegrated to Gravel / Han Siphoned)",
-        "- Node 02: Agent Yoo (Resting Maul / Wiping Bone Dust)",
+        "- Node 02: Specialist Yoo (Resting Maul / Wiping Bone Dust)",
         "- Node 05: Archive Lead Marjuk (Deactivating Stasis Cannons)",
         "---",
-        "- Agent Yoo    : Spd 6 -> 3 AP | HP 118/125 | SP +35 | Posture 70/70",
+        "- Specialist Yoo    : Spd 6 -> 3 AP | HP 118/125 | SP +35 | Posture 70/70",
         "- Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +40 | Posture 90/90",
         "- Fossil Titan : HP 0/320 [PURIFIED] | +0.022 TONS REFINED HAN HARVESTED"
     ])
@@ -91,7 +91,7 @@ def get_day_77_combat():
 
 ###### Turn 02 Action Resolution Log (Rib Cage Fracture & Stagger Build)
 - **Heavy Breacher Assault**:
-  * **Agent Yoo (Speed 6 -> 3 AP)**: Stands at Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Heavy Maul Rib Sunder]`:
+  * **Specialist Yoo (Speed 6 -> 3 AP)**: Stands at Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Heavy Maul Rib Sunder]`:
     * Grudge Base 20 * Grudge Vulnerability (1.5x) = **30 Direct Damage**!
     * Inflicts +32 Posture Strain. Titan Posture drops to **58/150**, breaching the **60% Posture Threshold (90 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The petrified rib cage shatters, spraying calcified rock shards across Node 01.
@@ -106,7 +106,7 @@ def get_day_77_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo unleashes an overhead maul smash into the exposed spinal column: **56 Grudge Damage**!
+  * Specialist Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo unleashes an overhead maul smash into the exposed spinal column: **56 Grudge Damage**!
   * Marjuk freezes the lumbar vertebrae, dealing **32 Damage**!
   * Titan HP collapses from 158 to **70/320**! Posture drops to **18/150**!
 
@@ -119,7 +119,7 @@ def get_day_77_combat():
 ###### Turn 04 Action Resolution Log (Gravitational Singularity Desperation)
 - **Hostile Recovery & Desperation Singularity**:
   * The Fossilized Titan recovers, opening its rib cage to draw all adjacent matter into a gravitational singularity: `[Gravitational Pull]`.
-  * Agent Yoo deploys `[Directional Guard Absorption]`, grounding his heavy maul into the floorplates to resist displacement; absorbs 7 damage (HP: 118/125).
+  * Specialist Yoo deploys `[Directional Guard Absorption]`, grounding his heavy maul into the floorplates to resist displacement; absorbs 7 damage (HP: 118/125).
   * Marjuk aims the stasis emitters directly into the vortex, neutralizing the gravitational pull!
   * Titan HP falls to **34/320**! Posture drops to **4/150**!
 
@@ -131,7 +131,7 @@ def get_day_77_combat():
 
 ###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
 - **Pelvic Sunder & Terminal Collapse**:
-  * Agent Yoo strikes the pelvic pivot, stripping the remaining 4 Posture points!
+  * Specialist Yoo strikes the pelvic pivot, stripping the remaining 4 Posture points!
   * **TERMINAL STAGGER TRIGGERED!** Posture hits **0/150**. The skeleton buckles under its own petrified weight.
 
 ---
@@ -142,7 +142,7 @@ def get_day_77_combat():
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Climax Pulverize**:
-  * Agent Yoo executes `[Climax Pulverize: Sunder of Ages]`. The entire fossilized titan disintegrates into harmless gravel and refined Han vapor.
+  * Specialist Yoo executes `[Climax Pulverize: Sunder of Ages]`. The entire fossilized titan disintegrates into harmless gravel and refined Han vapor.
   * Floor 6 pneumatic flues harvest **+0.022 tons of refined Han**!
 """
 
@@ -155,12 +155,12 @@ def get_day_82_combat():
         "---",
         "- Node 01: Chitinous Worm A (Posture 48/120 / Mandible Severed)",
         "- Node 02: Chitinous Worm B (Charging Subterranean Sunder / Posture 120/120)",
-        "- Node 03: Agent Kang (Point-Blank Band 1 / Cleaving Segment Joints)",
-        "- Node 04: Agent Noh (Range Band 2 / Clockwork Bayonet Piercing)",
+        "- Node 03: Specialist Kang (Point-Blank Band 1 / Cleaving Segment Joints)",
+        "- Node 04: Specialist Noh (Range Band 2 / Clockwork Bayonet Piercing)",
         "- Node 07: Border Lead Mellda (Bulwark Shield / Sluice Gate Locked)",
         "---",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
-        "- Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60",
         "- Mellda      : Spd 6 -> 3 AP | HP 195/195 | SP +35 | Posture 95/95",
         "- Worm A      : Spd 3 -> 1 AP | HP 142/260 | Posture 48/120 [CRACKED]",
         "- Worm B      : Spd 4 -> 2 AP | HP 260/260 | Posture 120/120"
@@ -173,12 +173,12 @@ def get_day_82_combat():
         "---",
         "- Node 01: Worm A (SHATTERED & PULVERIZED / Sediment Siphoned)",
         "- Node 02: Worm B (Posture 72/120 / Segment Joints Exposed)",
-        "- Node 03: Agent Kang (Momentum Surge Primed / +2 Speed Next Turn)",
-        "- Node 04: Agent Noh (Bayonet Thrust Landed)",
+        "- Node 03: Specialist Kang (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 04: Specialist Noh (Bayonet Thrust Landed)",
         "- Node 07: Border Lead Mellda (Holding Sluice)",
         "---",
-        "- Agent Kang  : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Posture 70/70",
-        "- Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60",
+        "- Specialist Kang  : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60",
         "- Worm A      : HP 0/260 [DESTROYED]",
         "- Worm B      : Spd 3 -> 1 AP | HP 168/260 | Posture 72/120 [ENGAGED]"
     ])
@@ -189,12 +189,12 @@ def get_day_82_combat():
         "        [WORM-B][KANG]  [NOH]                   [MELLDA]        [MAJIN]",
         "---",
         "- Node 02: Worm B (Recovered / Channeling Trench Collapser)",
-        "- Node 03: Agent Kang (Spd 8 / AP 4 / Heavy Maul Cross-Slash)",
-        "- Node 04: Agent Noh (Directional Guard Absorption Active)",
+        "- Node 03: Specialist Kang (Spd 8 / AP 4 / Heavy Maul Cross-Slash)",
+        "- Node 04: Specialist Noh (Directional Guard Absorption Active)",
         "- Node 07: Border Lead Mellda (Locking Drainage Sluice Gates)",
         "---",
-        "- Agent Kang  : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70",
-        "- Agent Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +25 | Posture 52/60",
+        "- Specialist Kang  : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +25 | Posture 52/60",
         "- Mellda      : Spd 6 -> 3 AP | HP 195/195 | SP +35 | Posture 95/95",
         "- Worm B      : Spd 3 -> 1 AP | HP 82/260  | Posture 24/120 [CRITICAL]"
     ])
@@ -206,11 +206,11 @@ def get_day_82_combat():
         "                [KANG]  [NOH]",
         "---",
         "- Node 02: Worm B (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG)",
-        "- Node 03: Agent Kang (Severing Cephalic Nerve)",
-        "- Node 04: Agent Noh (Driving Bayonet into Heart Segment)",
+        "- Node 03: Specialist Kang (Severing Cephalic Nerve)",
+        "- Node 04: Specialist Noh (Driving Bayonet into Heart Segment)",
         "---",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
-        "- Agent Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +25 | Posture 52/60",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +25 | Posture 52/60",
         "- Worm B      : Spd 0 -> 0 AP | HP 18/260  | Posture 0/120 [COLLAPSED]"
     ])
 
@@ -220,12 +220,12 @@ def get_day_82_combat():
         "        [ASH]   [KANG]  [NOH]                   [MELLDA]        [MAJIN]",
         "---",
         "- Node 02: Worm B (Decapitated / Dissolved into Amber Sediment)",
-        "- Node 03: Agent Kang (Sheathing Blade / Securing RHR)",
-        "- Node 04: Agent Noh (Reporting Sluice Clear)",
+        "- Node 03: Specialist Kang (Sheathing Blade / Securing RHR)",
+        "- Node 04: Specialist Noh (Reporting Sluice Clear)",
         "- Node 07: Border Lead Mellda (Opening Transit Gates)",
         "---",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +35 | Posture 70/70",
-        "- Agent Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +30 | Posture 60/60",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +35 | Posture 70/70",
+        "- Specialist Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +30 | Posture 60/60",
         "- Mellda      : Spd 6 -> 3 AP | HP 195/195 | SP +40 | Posture 95/95",
         "- Worms       : HP 0/260 [PURIFIED] | +0.024 TONS REFINED HAN HARVESTED"
     ])
@@ -237,11 +237,11 @@ def get_day_82_combat():
 
 ###### Turn 02 Action Resolution Log (Jaw Severance & Stagger on Worm A)
 - **Synchronized Vanguard Strike**:
-  * **Agent Kang (Speed 6 -> 3 AP)**: Smashes Worm A's primary mandible with the heavy maul:
+  * **Specialist Kang (Speed 6 -> 3 AP)**: Smashes Worm A's primary mandible with the heavy maul:
     * Deals **36 Grudge Damage**!
     * Inflicts +28 Posture Strain. Worm A Posture drops to **44/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** Worm A recoils, its burrowing jaws paralyzed.
-  * **Agent Noh (Speed 6 -> 3 AP)**: Operating from Node 04 (Range Band 2), drives a precision bayonet thrust into Worm B's segment joint for **28 piercing damage**.
+  * **Specialist Noh (Speed 6 -> 3 AP)**: Operating from Node 04 (Range Band 2), drives a precision bayonet thrust into Worm B's segment joint for **28 piercing damage**.
   * Worm A HP drops to **112/260**; Worm B HP drops to **204/260**.
 
 ---
@@ -252,10 +252,10 @@ def get_day_82_combat():
 
 ###### Turn 03 Action Resolution Log (Worm A Annihilation & Momentum Surge)
 - **Stagger Exploitation & Execution (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward execution blow:
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward execution blow:
     * Deals **58 Grudge Damage**! Worm A HP hits **0/260**!
     * Worm A shatters into harmless amber sediment and dissolves into Han mist!
-  * Agent Noh targets Worm B's exposed ventral nerve, dealing **32 damage**.
+  * Specialist Noh targets Worm B's exposed ventral nerve, dealing **32 damage**.
 
 ---
 
@@ -267,8 +267,8 @@ def get_day_82_combat():
 - **Hostile Desperation Counter-Surge**:
   * Worm B recovers, thrashing wildly to trigger `[Trench Collapser]`—attempting to cave in the sluice walls.
   * Border Lead Mellda engages the sluice locks, anchoring the foundation plates!
-  * Agent Noh deploys `[Directional Guard Absorption]`, taking 6 chip damage (HP: 114/120) while covering Kang.
-  * Agent Kang (Speed 8 under Surge -> 4 AP) executes a double maul strike into Worm B's neck, dealing **44 damage**!
+  * Specialist Noh deploys `[Directional Guard Absorption]`, taking 6 chip damage (HP: 114/120) while covering Kang.
+  * Specialist Kang (Speed 8 under Surge -> 4 AP) executes a double maul strike into Worm B's neck, dealing **44 damage**!
   * Worm B Posture falls to **16/120**!
 
 ---
@@ -279,7 +279,7 @@ def get_day_82_combat():
 
 ###### Turn 05 Action Resolution Log (Terminal Stagger on Worm B)
 - **Nerve Severance & Terminal Collapse**:
-  * Agent Noh drives the clockwork bayonet deep into the central nerve cluster, stripping the final 16 Posture points!
+  * Specialist Noh drives the clockwork bayonet deep into the central nerve cluster, stripping the final 16 Posture points!
   * **TERMINAL STAGGER TRIGGERED!** Posture hits **0/120**. Worm B collapses motionless onto the drainage grates.
 
 ---
@@ -302,15 +302,15 @@ def get_day_87_combat():
         "[HUSK-1][NOH]   [HUSK-2][SHIN]  [KANG]                  [DEKAN]         ",
         "---",
         "- Node 01: Sanguine Husk 1 (Posture 36/90 / Pinned by Noh)",
-        "- Node 02: Agent Noh (Point-Blank Band 1 / Bayonet Locked)",
+        "- Node 02: Specialist Noh (Point-Blank Band 1 / Bayonet Locked)",
         "- Node 03: Sanguine Husk 2 (Preparing Pincer Charge / Posture 90/90)",
-        "- Node 04: Agent Shin (Range Band 2 / Choral Staff Lament Firing)",
-        "- Node 05: Agent Kang (Range Band 3 / Heavy Maul Ready to Intercept)",
+        "- Node 04: Specialist Shin (Range Band 2 / Choral Staff Lament Firing)",
+        "- Node 05: Specialist Kang (Range Band 3 / Heavy Maul Ready to Intercept)",
         "- Node 08: Containment Lead Dekan (Observation Post / Band 4)",
         "---",
-        "- Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60",
-        "- Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60",
+        "- Specialist Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Husk 1      : Spd 3 -> 1 AP | HP 82/180  | Posture 36/90 [CRACKED]",
         "- Husk 2      : Spd 4 -> 2 AP | HP 180/180 | Posture 90/90"
     ])
@@ -322,14 +322,14 @@ def get_day_87_combat():
         "        [NOH]",
         "---",
         "- Node 01: Husk 1 (CRUSHED & PULVERIZED / Sludge Siphoned)",
-        "- Node 02: Agent Noh (Momentum Surge Primed / +2 Speed Next Turn)",
+        "- Node 02: Specialist Noh (Momentum Surge Primed / +2 Speed Next Turn)",
         "- Node 03: Husk 2 (Exposed / Posture 54/90)",
-        "- Node 04: Agent Shin (Choral Lament Pulse Continuing)",
-        "- Node 05: Agent Kang (Advancing with Heavy Maul)",
+        "- Node 04: Specialist Shin (Choral Lament Pulse Continuing)",
+        "- Node 05: Specialist Kang (Advancing with Heavy Maul)",
         "---",
-        "- Agent Noh   : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Posture 60/60",
-        "- Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Noh   : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Posture 60/60",
+        "- Specialist Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Husk 1      : HP 0/180 [ELIMINATED]",
         "- Husk 2      : Spd 4 -> 2 AP | HP 128/180 | Posture 54/90 [ENGAGED]"
     ])
@@ -339,14 +339,14 @@ def get_day_87_combat():
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "        [NOH]   [HUSK-2][SHIN]  [KANG]                  [DEKAN]         ",
         "---",
-        "- Node 02: Agent Noh (Spd 8 / AP 4 / Rapid Bayonet Incisions)",
+        "- Node 02: Specialist Noh (Spd 8 / AP 4 / Rapid Bayonet Incisions)",
         "- Node 03: Husk 2 (Pinned by Dekan's Jaw Clamp / Posture 24/90)",
-        "- Node 04: Agent Shin (Wide-Angle Acoustic Wave Firing)",
-        "- Node 05: Agent Kang (Directional Guard Absorption Active)",
+        "- Node 04: Specialist Shin (Wide-Angle Acoustic Wave Firing)",
+        "- Node 05: Specialist Kang (Directional Guard Absorption Active)",
         "---",
-        "- Agent Noh   : Spd 8 -> 4 AP | HP 120/120 | SP +25 | Posture 60/60",
-        "- Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +30 | Posture 62/70",
+        "- Specialist Noh   : Spd 8 -> 4 AP | HP 120/120 | SP +25 | Posture 60/60",
+        "- Specialist Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +30 | Posture 62/70",
         "- Husk 2      : Spd 2 -> 1 AP | HP 64/180  | Posture 24/90 [PINNED]"
     ])
 
@@ -357,13 +357,13 @@ def get_day_87_combat():
         "        [NOH]   [SHIN]  [KANG]",
         "---",
         "- Node 03: Husk 2 (TERMINAL STAGGER / POSTURE 0/90 / 2.0x DMG)",
-        "- Node 02: Agent Noh (Pinning Right Arm)",
-        "- Node 03: Agent Shin (Choral Pulse Shattered Psychic Cohesion)",
-        "- Node 04: Agent Kang (Priming Climax Sweep)",
+        "- Node 02: Specialist Noh (Pinning Right Arm)",
+        "- Node 03: Specialist Shin (Choral Pulse Shattered Psychic Cohesion)",
+        "- Node 04: Specialist Kang (Priming Climax Sweep)",
         "---",
-        "- Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60",
-        "- Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +30 | Posture 62/70",
+        "- Specialist Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60",
+        "- Specialist Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +30 | Posture 62/70",
         "- Husk 2      : Spd 0 -> 0 AP | HP 16/180  | Posture 0/90 [COLLAPSED]"
     ])
 
@@ -373,13 +373,13 @@ def get_day_87_combat():
         "        [SLUDGE][NOH]   [SHIN]  [KANG]                  [DEKAN]         ",
         "---",
         "- Node 01-03: All Husks (Pulverized to Sludge / Siphoned)",
-        "- Node 02: Agent Noh (Retracting Bayonet)",
-        "- Node 03: Agent Shin (Lowering Choral Staff)",
-        "- Node 04: Agent Kang (Reporting Sector 2 Clear)",
+        "- Node 02: Specialist Noh (Retracting Bayonet)",
+        "- Node 03: Specialist Shin (Lowering Choral Staff)",
+        "- Node 04: Specialist Kang (Reporting Sector 2 Clear)",
         "---",
-        "- Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
-        "- Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +35 | Posture 55/55",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +35 | Posture 70/70",
+        "- Specialist Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
+        "- Specialist Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +35 | Posture 55/55",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +35 | Posture 70/70",
         "- Husks       : HP 0/180 [DESTROYED] | +0.022 TONS REFINED HAN HARVESTED"
     ])
 
@@ -390,8 +390,8 @@ def get_day_87_combat():
 
 ###### Turn 02 Action Resolution Log (Lead Husk Stagger)
 - **Pin & Lament Focus**:
-  * **Agent Noh**: Holds Husk 1 pinned with the clockwork bayonet at Node 02.
-  * **Agent Shin**: Firing from Node 04, channels a high-frequency Lament wave from the Choral Staff:
+  * **Specialist Noh**: Holds Husk 1 pinned with the clockwork bayonet at Node 02.
+  * **Specialist Shin**: Firing from Node 04, channels a high-frequency Lament wave from the Choral Staff:
     * Deals **38 Pure Lament Damage**!
     * Inflicts +26 Posture Strain. Husk 1 Posture drops to **34/90**, breaching the **60% Posture Threshold (54 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** Husk 1's bloody shroud slackens.
@@ -405,11 +405,11 @@ def get_day_87_combat():
 
 ###### Turn 03 Action Resolution Log (Husk 1 Crushed & Momentum Surge)
 - **Crushing Blow (1.5x Direct Damage)**:
-  * Agent Noh's `Momentum Surge` activates! (+2 Speed next turn).
-  * Agent Kang steps forward from Node 05, swinging the heavy maul down onto Husk 1's head:
+  * Specialist Noh's `Momentum Surge` activates! (+2 Speed next turn).
+  * Specialist Kang steps forward from Node 05, swinging the heavy maul down onto Husk 1's head:
     * Deals **64 Grudge Damage**! Husk 1 HP hits **0/180**!
     * Husk 1 dissolves into smoking crimson sludge on the deckplates.
-  * Agent Shin directs her acoustic beam toward Husk 2, dealing **26 damage**.
+  * Specialist Shin directs her acoustic beam toward Husk 2, dealing **26 damage**.
 
 ---
 
@@ -419,10 +419,10 @@ def get_day_87_combat():
 
 ###### Turn 04 Action Resolution Log (Pincer Charge & Jaw Clamp Pin)
 - **Hostile Desperation Charge**:
-  * Husk 2 attempts a desperate lunging charge to impale Agent Shin.
+  * Husk 2 attempts a desperate lunging charge to impale Specialist Shin.
   * Containment Lead Dekan deploys Floor 2's *Jaw Clamp* floor traps, clamping Husk 2's ankles in heavy steel teeth!
-  * Agent Kang deploys `[Directional Guard Absorption]`, absorbing 6 chip damage (HP: 124/130) while halting the charge!
-  * Agent Noh (Speed 8 under Surge -> 4 AP) executes four rapid bayonet strikes, dealing **42 piercing damage**!
+  * Specialist Kang deploys `[Directional Guard Absorption]`, absorbing 6 chip damage (HP: 124/130) while halting the charge!
+  * Specialist Noh (Speed 8 under Surge -> 4 AP) executes four rapid bayonet strikes, dealing **42 piercing damage**!
   * Husk 2 Posture falls to **18/90**!
 
 ---
@@ -433,7 +433,7 @@ def get_day_87_combat():
 
 ###### Turn 05 Action Resolution Log (Terminal Stagger on Husk 2)
 - **Psychic Cohesion Shattered**:
-  * Agent Shin unleashes a wide-angle harmonic blast, completely shattering the husk's psychic cohesion.
+  * Specialist Shin unleashes a wide-angle harmonic blast, completely shattering the husk's psychic cohesion.
   * Posture hits **0/90**! **TERMINAL STAGGER TRIGGERED!** Husk 2 collapses helpless against the hydraulic clamps.
 
 ---
@@ -456,13 +456,13 @@ def get_day_92_combat():
         "[TITAN] [JIN]   [YOO]                   [MARJUK]                [MAJIN]",
         "---",
         "- Node 01: Clockwork Titan (Posture 76/160 / Boiler Exhaust Jammed)",
-        "- Node 02: Agent Jin (Point-Blank Band 1 / Jamming Exhaust Pipe)",
-        "- Node 03: Agent Yoo (Range Band 2 / Smashing Heavy Axle)",
+        "- Node 02: Specialist Jin (Point-Blank Band 1 / Jamming Exhaust Pipe)",
+        "- Node 03: Specialist Yoo (Range Band 2 / Smashing Heavy Axle)",
         "- Node 06: Archive Lead Marjuk (Range Band 3 / Pre-Charging Stasis)",
         "- Node 09: Director Majin & Seiyon Command Console (Band 5)",
         "---",
-        "- Agent Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
-        "- Agent Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
+        "- Specialist Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Clock Titan : Spd 4 -> 2 AP | HP 245/360 | Posture 76/160 [CRACKED]"
     ])
@@ -473,12 +473,12 @@ def get_day_92_combat():
         "[TITAN] [JIN]           [YOO]           [MARJUK]                [MAJIN]",
         "---",
         "- Node 01: Clockwork Titan (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 02: Agent Jin (Executing Steam Release Pin)",
-        "- Node 04: Agent Yoo (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 02: Specialist Jin (Executing Steam Release Pin)",
+        "- Node 04: Specialist Yoo (Advancing with Momentum Surge / +2 Speed)",
         "- Node 06: Archive Lead Marjuk (Applying Stasis Field)",
         "---",
-        "- Agent Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
-        "- Agent Yoo   : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
+        "- Specialist Yoo   : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Posture 70/70",
         "- Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Clock Titan : Spd 0 -> 0 AP | HP 122/360 | Posture 28/160 [STAGGERED]"
     ])
@@ -489,12 +489,12 @@ def get_day_92_combat():
         "[TITAN] [JIN]   [YOO]                   [MARJUK]                [MAJIN]",
         "---",
         "- Node 01: Clockwork Titan (Initiating Overheat Self-Destruct)",
-        "- Node 02: Agent Jin (Severing Emergency Release Lever)",
-        "- Node 03: Agent Yoo (Slamming Maul onto Main Relief Valve)",
+        "- Node 02: Specialist Jin (Severing Emergency Release Lever)",
+        "- Node 03: Specialist Yoo (Slamming Maul onto Main Relief Valve)",
         "- Node 06: Archive Lead Marjuk (Locking Stasis Barrier)",
         "---",
-        "- Agent Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
-        "- Agent Yoo   : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
+        "- Specialist Yoo   : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Clock Titan : Spd 3 -> 1 AP | HP 58/360  | Posture 8/160 [OVERHEATING]"
     ])
@@ -502,14 +502,14 @@ def get_day_92_combat():
     hud_t05 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — CRITICAL VALVE SHUTDOWN & RETREAT]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
-        "[TITAN]                                                 [ALL-AGENTS]    ",
+        "[TITAN]                                                 [ALL-SPECIALISTS]    ",
         "---",
         "- Node 01: Clockwork Titan (TERMINAL STAGGER / POSTURE 0/160 / 2.0x DMG)",
         "- Node 08: All Operatives (Safely Evacuated behind Blast Bulkhead)",
         "- Node 08: Archive Lead Marjuk (Engaging Stasis Quarantine)",
         "---",
-        "- Agent Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
-        "- Agent Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
+        "- Specialist Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65",
+        "- Specialist Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70",
         "- Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90",
         "- Clock Titan : Spd 0 -> 0 AP | HP 12/360  | Posture 0/160 [MELTING]"
     ])
@@ -517,13 +517,13 @@ def get_day_92_combat():
     hud_t06 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06", [
         "[STAGE NODES 01 TO 10 — CONTAINED DETONATION & PURIFICATION]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
-        "[SLAG]                                                  [ALL-AGENTS]    ",
+        "[SLAG]                                                  [ALL-SPECIALISTS]    ",
         "---",
         "- Node 01: Clockwork Titan (Detonated inside Stasis Vault / 0 Casualties)",
         "- Node 08: Floor 3 Team (Venting Pressurized Steam / Siphoning RHR)",
         "- Node 08: Archive Lead Marjuk (Confirming Zero Structural Damage)",
         "---",
-        "- All Agents  : ZERO DAMAGE SUSTAINED | +0.026 TONS REFINED HAN HARVESTED"
+        "- All Specialists  : ZERO DAMAGE SUSTAINED | +0.026 TONS REFINED HAN HARVESTED"
     ])
 
     return f"""
@@ -533,8 +533,8 @@ def get_day_92_combat():
 
 ###### Turn 02 Action Resolution Log (Boiler Exhaust Jammed & Stagger Build)
 - **Mechanical Sabotage**:
-  * **Agent Jin**: Plants his spear directly down the titan's primary boiler exhaust pipe at Node 02, blocking the steam vent.
-  * **Agent Yoo**: Delivers a crushing maul strike to the left drive axle:
+  * **Specialist Jin**: Plants his spear directly down the titan's primary boiler exhaust pipe at Node 02, blocking the steam vent.
+  * **Specialist Yoo**: Delivers a crushing maul strike to the left drive axle:
     * Deals **42 Grudge Damage**!
     * Inflicts +34 Posture Strain. Titan Posture drops to **62/160**, breaching the **60% Posture Threshold (96 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** High-pressure steam erupts from failed gasket joints, stalling the titan's pistons.
@@ -548,7 +548,7 @@ def get_day_92_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo delivers a massive two-handed swing into the exposed boiler shell: **64 Grudge Damage**!
+  * Specialist Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo delivers a massive two-handed swing into the exposed boiler shell: **64 Grudge Damage**!
   * Marjuk stabilizes the stasis barrier, dealing **28 damage**.
   * Titan HP collapses to **94/360**! Posture drops to **16/160**!
 
@@ -561,8 +561,8 @@ def get_day_92_combat():
 ###### Turn 04 Action Resolution Log (Self-Destruct Initiation & Stasis Shield)
 - **Hostile Overheat Counter-Surge**:
   * The Clockwork Titan enters a terminal thermal runaway: `[Self-Destruct Sequence]`, its boiler glowing cherry-red.
-  * Agent Jin severs the emergency release lever, trapping the explosion inside the internal firebox!
-  * Agent Yoo delivers a heavy blow to the relief valve, stripping another 10 Posture points!
+  * Specialist Jin severs the emergency release lever, trapping the explosion inside the internal firebox!
+  * Specialist Yoo delivers a heavy blow to the relief valve, stripping another 10 Posture points!
   * Titan HP falls to **42/360**! Posture drops to **2/160**!
 
 ---
@@ -597,13 +597,13 @@ def get_day_97_combat():
         "[MONOLITH][KANG] [HWANG]                 [AYSHUK]                [MAJIN]",
         "---",
         "- Node 01: Void Monolith (Posture 78/170 / Pedestal Cracked)",
-        "- Node 02: Agent Kang (Point-Blank Band 1 / Smashing Crystalline Base)",
-        "- Node 03: Agent Hwang (Range Band 2 / Blessed Scalpel Optical Strike)",
+        "- Node 02: Specialist Kang (Point-Blank Band 1 / Smashing Crystalline Base)",
+        "- Node 03: Specialist Hwang (Range Band 2 / Blessed Scalpel Optical Strike)",
         "- Node 06: Research Lead Ayshuk (Predicting Death-Ray Trajectory)",
         "- Node 09: Director Majin & Seiyon Command Console (Band 5)",
         "---",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/75",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/75",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
         "- Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85",
         "- Void Monolith: Spd 4 -> 2 AP | HP 260/380 | Posture 78/170 [CRACKED]"
     ])
@@ -614,12 +614,12 @@ def get_day_97_combat():
         "[MONOLITH]      [KANG]  [HWANG]         [AYSHUK]                [MAJIN]",
         "---",
         "- Node 01: Void Monolith (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)",
-        "- Node 03: Agent Kang (Advancing with Momentum Surge / +2 Speed)",
-        "- Node 04: Agent Hwang (Driving Scalpel into Focal Core)",
+        "- Node 03: Specialist Kang (Advancing with Momentum Surge / +2 Speed)",
+        "- Node 04: Specialist Hwang (Driving Scalpel into Focal Core)",
         "- Node 06: Research Lead Ayshuk (Discharging Optical Interference)",
         "---",
-        "- Agent Kang  : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Posture 75/75",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
+        "- Specialist Kang  : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Posture 75/75",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
         "- Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85",
         "- Monolith    : Spd 0 -> 0 AP | HP 130/380 | Posture 32/170 [STAGGERED]"
     ])
@@ -630,12 +630,12 @@ def get_day_97_combat():
         "[MONOLITH][KANG] [HWANG]                 [AYSHUK]                [MAJIN]",
         "---",
         "- Node 01: Void Monolith (Recovered / Charging Global Void Death-Ray)",
-        "- Node 02: Agent Kang (Directional Guard Absorption Active)",
-        "- Node 03: Agent Hwang (Focusing Scalpel on Central Optic Nerve)",
+        "- Node 02: Specialist Kang (Directional Guard Absorption Active)",
+        "- Node 03: Specialist Hwang (Focusing Scalpel on Central Optic Nerve)",
         "- Node 06: Research Lead Ayshuk (Clarity Field Deflecting Beam)",
         "---",
-        "- Agent Kang  : Spd 8 -> 4 AP | HP 126/135 | SP +30 | Posture 65/75",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
+        "- Specialist Kang  : Spd 8 -> 4 AP | HP 126/135 | SP +30 | Posture 65/75",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
         "- Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85",
         "- Monolith    : Spd 4 -> 2 AP | HP 62/380  | Posture 12/170 [FRACTURED]"
     ])
@@ -647,12 +647,12 @@ def get_day_97_combat():
         "        [KANG]  [HWANG]                 [AYSHUK]",
         "---",
         "- Node 01: Void Monolith (TERMINAL STAGGER / POSTURE 0/170 / 2.0x DMG)",
-        "- Node 02: Agent Kang (Shattering Foundation Support)",
-        "- Node 03: Agent Hwang (Severing Central Optic Nerve)",
+        "- Node 02: Specialist Kang (Shattering Foundation Support)",
+        "- Node 03: Specialist Hwang (Severing Central Optic Nerve)",
         "- Node 06: Research Lead Ayshuk (Siphoning Radiance)",
         "---",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 126/135 | SP +30 | Posture 65/75",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 126/135 | SP +30 | Posture 65/75",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60",
         "- Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85",
         "- Monolith    : Spd 0 -> 0 AP | HP 14/380  | Posture 0/170 [COLLAPSED]"
     ])
@@ -663,12 +663,12 @@ def get_day_97_combat():
         "[GLASS] [KANG]  [HWANG]                 [AYSHUK]                [MAJIN]",
         "---",
         "- Node 01: Void Monolith (Shattered into Prismatic Glass & Han Mist)",
-        "- Node 02: Agent Kang (Resting Maul / Logging Victory)",
-        "- Node 03: Agent Hwang (Sheathing Blessed Scalpel)",
+        "- Node 02: Specialist Kang (Resting Maul / Logging Victory)",
+        "- Node 03: Specialist Hwang (Sheathing Blessed Scalpel)",
         "- Node 06: Research Lead Ayshuk (Archiving Spectral Wavelengths)",
         "---",
-        "- Agent Kang  : Spd 6 -> 3 AP | HP 126/135 | SP +35 | Posture 75/75",
-        "- Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
+        "- Specialist Kang  : Spd 6 -> 3 AP | HP 126/135 | SP +35 | Posture 75/75",
+        "- Specialist Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60",
         "- Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +45 | Posture 85/85",
         "- Monolith    : HP 0/380 [PURIFIED] | +0.028 TONS REFINED HAN HARVESTED"
     ])
@@ -680,11 +680,11 @@ def get_day_97_combat():
 
 ###### Turn 02 Action Resolution Log (Pedestal Sunder & Stagger Build)
 - **Pedestal Impact & Optic Focus**:
-  * **Agent Kang**: Smashes the crystalline pedestal with the heavy maul at Node 02:
+  * **Specialist Kang**: Smashes the crystalline pedestal with the heavy maul at Node 02:
     * Deals **44 Grudge Damage**!
     * Inflicts +36 Posture Strain. Monolith Posture drops to **66/170**, breaching the **60% Posture Threshold (102 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The crystalline prism fissures, its charging laser deflecting into the ceiling.
-  * **Agent Hwang**: Firing from Node 03 with the Blessed Scalpel, strikes the primary optical nerve for **36 Void damage**.
+  * **Specialist Hwang**: Firing from Node 03 with the Blessed Scalpel, strikes the primary optical nerve for **36 Void damage**.
   * Monolith HP drops to **186/380**!
 
 ---
@@ -695,8 +695,8 @@ def get_day_97_combat():
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **58 Grudge Damage**!
-  * Agent Hwang drives the scalpel into the central prism core: **46 Void Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **58 Grudge Damage**!
+  * Specialist Hwang drives the scalpel into the central prism core: **46 Void Damage**!
   * Monolith HP collapses to **82/380**! Posture drops to **18/170**!
 
 ---
@@ -709,8 +709,8 @@ def get_day_97_combat():
 - **Hostile Desperation Counter-Surge**:
   * The Void Monolith recovers, opening its aperture to charge `[Global Void Death-Ray]`.
   * Research Lead Ayshuk activates Floor 4's *Clarity Field*, altering the atmospheric refraction index to scatter the beam!
-  * Agent Kang deploys `[Directional Guard Absorption]`, taking 9 chip damage (HP: 126/135) while shielding Hwang.
-  * Agent Hwang strikes the exposed optic nerve, canceling the death-ray follow-up!
+  * Specialist Kang deploys `[Directional Guard Absorption]`, taking 9 chip damage (HP: 126/135) while shielding Hwang.
+  * Specialist Hwang strikes the exposed optic nerve, canceling the death-ray follow-up!
   * Monolith HP falls to **36/380**! Posture drops to **4/170**!
 
 ---
@@ -732,7 +732,7 @@ def get_day_97_combat():
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Climax Obliteration**:
-  * Agent Kang executes `[Climax Obliteration]`. The monolith shatters into a glittering blizzard of prismatic glass and pure Han vapor.
+  * Specialist Kang executes `[Climax Obliteration]`. The monolith shatters into a glittering blizzard of prismatic glass and pure Han vapor.
   * Floor 4 collection flues harvest **+0.028 tons of refined Han**!
 """
 

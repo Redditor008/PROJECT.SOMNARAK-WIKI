@@ -7,7 +7,7 @@
 **Document ID:** `SE-247-A`  
 **Related Entity ID:** `SE-247`  
 **SECC Designation:** `C-Iα-247 [O]`  
-**Author:** Agent Kkotlom Lee, Echo Gardens Patrol  
+**Author:** Specialist Kkotlom Lee, Echo Gardens Patrol  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
@@ -37,7 +37,7 @@
 
 Unopened Bloom grows from cracks near damaged memorials. It reaches toward passersby but has never attacked without being touched. Crimson heat runs along the split, while the petals close when someone remains and shares grief. The tear never heals.
 
-> *“It wants the damage seen, not made invisible by a well-meaning hand.”* — Agent Kkotlom Lee
+> *“It wants the damage seen, not made invisible by a well-meaning hand.”* — Specialist Kkotlom Lee
 
 ---
 
@@ -105,7 +105,7 @@ An echo forms only after the source closes its petals during Flerehan or Ferreha
 
 **Document ID:** `SE-247-A`  
 **Linked Entity:** `SE-247`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

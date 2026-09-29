@@ -4,7 +4,7 @@
 **Document ID:** `SE-716-D`  
 **Linked Entity:** `SE-716` — Double Mouth  
 **Item Registry Code:** `MAW-G-716-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Twofold Voice is the gift of Double Mouth’s set — tail-slot, granted unp
 **Document ID:** `SE-716-D`  
 **Linked Entity:** `SE-716`  
 **Item Registry Code:** `MAW-G-716-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

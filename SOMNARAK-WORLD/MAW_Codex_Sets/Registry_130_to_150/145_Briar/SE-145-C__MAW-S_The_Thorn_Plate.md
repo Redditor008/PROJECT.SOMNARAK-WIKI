@@ -21,7 +21,7 @@
 | Type / grade / element | Protective Attire (Interlocking Iron Wire & Flexible Briar Vine Mail) / γ / Grudge |
 | Status | Active; safe-approach plan required |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A crimson plate harness with shallow thorn lines pressed flat against the metal. |
 | Active form | Thorns rise around the wearer’s boundary when Grudge pressure approaches, leaving one marked gap for a safe person. |
 | Recognition rule | The gap appears only after the wearer names a person they do not want the armor to hurt. |
@@ -89,7 +89,7 @@ Ashford wore the Plate during a memorial-site breach where Briar’s ambient ang
 
 The Plate is the disciplined boundary of *Named Thorn*. Fang turns harm away and Crown gives warning; this suit keeps protection from becoming total isolation.
 
-> *“The safest armor still needs a way for care to reach the wearer.”* — Agent Iseulfros Kim
+> *“The safest armor still needs a way for care to reach the wearer.”* — Specialist Iseulfros Kim
 
 ---
 

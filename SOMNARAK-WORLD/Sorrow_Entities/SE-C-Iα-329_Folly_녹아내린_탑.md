@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - No material accumulates beneath it.
 - Long observation produces longing for an unrealized place.
 
-**Personnel Note:** *"It was waiting. I felt longing. The Tower did not want to stand; it wanted someone to understand why it never became one."* — Agent, Zone D patrol
+**Personnel Note:** *"It was waiting. I felt longing. The Tower did not want to stand; it wanted someone to understand why it never became one."* — Specialist, Zone D patrol
 
 
 

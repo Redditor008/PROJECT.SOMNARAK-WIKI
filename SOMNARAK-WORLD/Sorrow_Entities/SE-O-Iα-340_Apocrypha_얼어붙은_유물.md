@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It moves along abandoned routes.
 - Personnel feel rage after prolonged silence at the site.
 
-**Personnel Note:** *"It was waiting. I felt rage. The anger belonged to a farewell that never reached anyone."* — Agent, Zone D patrol
+**Personnel Note:** *"It was waiting. I felt rage. The anger belonged to a farewell that never reached anyone."* — Specialist, Zone D patrol
 
 
 

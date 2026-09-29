@@ -7,7 +7,7 @@
 **Document ID:** `SE-260-C`  
 **Linked Entity:** `SE-260` — Bridge to Nowhere  
 **Item Registry Code:** `MAW-S-260-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Shroud holds now, Span defines then, Requiem cuts lift. It does not make the old
 **Document ID:** `SE-260-C`  
 **Linked Entity:** `SE-260`  
 **Item Registry Code:** `MAW-S-260-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

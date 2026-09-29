@@ -21,7 +21,7 @@
 | Type / grade / element | Suit, billowing cloak / γ — Major / Lament — Deep Blue |
 | Status | Active; grief-return check required |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Kkotlom Lee |
+| Current bearer | Specialist Kkotlom Lee |
 | Resting form | A deep-blue cloak with long pale tear-leaf seams that brush the floor without catching dust. |
 | Active form | The cloak softens other people’s ability to read the wearer’s grief while holding a quiet circle around the body. |
 | Recognition rule | Its leaf seams brighten only after the wearer tells a witness when they will return from private mourning. |
@@ -87,7 +87,7 @@ Lee wore the Cloak after a long-term Garden keeper retired. The cloak allowed a 
 
 The Cloak is the privacy boundary of *Closing Branch*. Requiem helps a farewell move, Charm creates a closing ritual; this suit ensures privacy does not become permanent isolation.
 
-> *“A private goodbye still needs a way back to the living.”* — Agent Iseulfros Kim
+> *“A private goodbye still needs a way back to the living.”* — Specialist Iseulfros Kim
 
 ---
 

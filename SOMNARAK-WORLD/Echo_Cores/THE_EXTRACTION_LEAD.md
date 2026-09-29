@@ -229,7 +229,7 @@ She oversees or coordinates:
 - authorization requests and risk-probability reports to Majin;
 - extraction-rig calibration and calibration-crystal replacement schedules;
 - evaluation, testing, storage, registry entry, bonding, and distribution of extracted equipment;
-- Floor 3 technicians, Resonance Specialists, M.A.W. Testers, and deployed agents;
+- Floor 3 technicians, Resonance Specialists, M.A.W. Testers, and deployed specialists;
 - observation for memory bleed, rejection, Corrosion, and source-entity distress;
 - emergency use of extraction tools to separate unstable entity combinations;
 - management of the Three Birds when they attempt to form the Convergence;
@@ -320,7 +320,7 @@ Floor 3 remains active because the city still needs M.A.W. and most Sorrow Entit
 
 ### Collector's Row
 
-Zyrak's first profession belongs to a district where sorrow is converted into obligation. Collector's Row tracks who owes, how much, to whom, and what form payment will take. The faction's ledgers can scan debt weight; its scales quantify karmic pressure; its field agents can draw Echoes directly from a debtor.
+Zyrak's first profession belongs to a district where sorrow is converted into obligation. Collector's Row tracks who owes, how much, to whom, and what form payment will take. The faction's ledgers can scan debt weight; its scales quantify karmic pressure; its field specialists can draw Echoes directly from a debtor.
 
 The work requires emotional discipline. The Extraction Glove forces the Collector to experience a fragment of the debtor's sorrow during removal. Some Collectors become numb. Others break. Zyrak becomes exceptionally good.
 
@@ -378,7 +378,7 @@ Zyrak joins an institution that also pulls sorrow out of living subjects. The te
 - legal debt becomes resonance compatibility;
 - collection becomes research, defense, and distribution.
 
-The differences are real. M.A.W. can protect agents and citizens. The source entity remains alive. Extraction occurs under containment, study, and compatibility protocols rather than ordinary debt enforcement.
+The differences are real. M.A.W. can protect specialists and citizens. The source entity remains alive. Extraction occurs under containment, study, and compatibility protocols rather than ordinary debt enforcement.
 
 The similarity is also real. Something is removed, the institution gains a useful product, and the source bears a cost.
 
@@ -433,7 +433,7 @@ This is appropriate to her resolution. Zyrak does not need a second set of new h
 
 ### The Ethics Inside the Management Loop
 
-_Absolvohan_ presents M.A.W. extraction as one part of the facility's daily rhythm. Agents perform Work Types. Gauges change. Han-crystal accumulates. Zyrak reports a successful extraction. The item enters the registry and is equipped to a worker.
+_Absolvohan_ presents M.A.W. extraction as one part of the facility's daily rhythm. Specialists perform Work Types. Gauges change. Han-crystal accumulates. Zyrak reports a successful extraction. The item enters the registry and is equipped to a worker.
 
 The repetition makes extraction look ordinary. Zyrak's dialogue repeatedly interrupts that ordinariness. The Hourglass fought. The Birds want to judge. The Lost Prince recognizes her. A vision presents another way to release Han. The Birds become curious, then peaceful.
 
@@ -599,7 +599,7 @@ Zyrak and the Memory Archive approach the same problem from opposite institution
 - Zyrak removes memory from entities to recover the Before-Time;
 - the post-Cycle R.D. claims extraction should share rather than steal.
 
-These parallels sharpen her secret. They do not create an undocumented Reception or establish that the Archive knows what she has done.
+These parallels sharpen her secret. They do not create an undocumented Reading or establish that the Archive knows what she has done.
 
 ### No Assigned Progression
 
@@ -768,7 +768,7 @@ The Day 103 vision cannot be reproduced on demand and has no confirmed cause. Tr
 
 ### No Confirmed Personal M.A.W.
 
-Zyrak manages, extracts, tests, and distributes M.A.W., but no specific registry item is identified as her permanent equipment. Floor loadouts and the many items named in management records belong to the institution or assigned agents unless stated otherwise.
+Zyrak manages, extracts, tests, and distributes M.A.W., but no specific registry item is identified as her permanent equipment. Floor loadouts and the many items named in management records belong to the institution or assigned specialists unless stated otherwise.
 
 ### Guilt Is Not Cleansed by Reconstruction
 
@@ -878,7 +878,7 @@ Her modern techniques grow from Collector practice but belong to a different ins
 
 ### Personal M.A.W.
 
-No named personal M.A.W. is assigned to Zyrak. The management records list many items she extracts and many agents who receive them. Those items are registry products, not her personal collection.
+No named personal M.A.W. is assigned to Zyrak. The management records list many items she extracts and many specialists who receive them. Those items are registry products, not her personal collection.
 
 The Directorate risk matrix describes her Android body as M.A.W.-compatible and notes Stage 2 personality shifts. Compatibility and Corrosion do not prove ownership of a specific item.
 
@@ -1020,7 +1020,7 @@ She never stops acknowledging danger. The Birds can kill, M.A.W. extraction requ
 
 ### Floor 3 Personnel
 
-Extraction Technicians, Resonance Specialists, M.A.W. Testers, agents, and registry staff depend on Zyrak's judgment. Her composure sets the department's tempo. A precise report can prevent panic; a delayed admission can expose the team to a change the instruments did not predict.
+Extraction Technicians, Resonance Specialists, M.A.W. Testers, specialists, and registry staff depend on Zyrak's judgment. Her composure sets the department's tempo. A precise report can prevent panic; a delayed admission can expose the team to a change the instruments did not predict.
 
 The source provides no named close subordinate or protégé. These relationships therefore remain professional.
 

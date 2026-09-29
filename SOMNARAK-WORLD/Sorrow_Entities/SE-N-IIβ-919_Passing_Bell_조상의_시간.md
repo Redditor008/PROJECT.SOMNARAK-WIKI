@@ -242,7 +242,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The spirit pressure is different from standard weight. It does not press on the body — it presses on the spirit itself. You feel it before you understand what is happening."* — Agent, Field Team 12
+> *"The spirit pressure is different from standard weight. It does not press on the body — it presses on the spirit itself. You feel it before you understand what is happening."* — Specialist, Field Team 12
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -290,7 +290,7 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 ## 증언 (Testimonium) — The Testimony
 
 *"The weight is familiar. The spirit is not. That gap is where the danger lives."* — Handler
-*"I expected standard weight. I got something that knew me."* — Agent
+*"I expected standard weight. I got something that knew me."* — Specialist
 *"Every time we refine the protocol, the spirit register finds a new way in."* — Researcher
 *"It does not attack. It inhabits. And what it informs you of is your own sorrow."* — Director
 *"Work it once and you will understand why the classification system had to expand."* — Keeper

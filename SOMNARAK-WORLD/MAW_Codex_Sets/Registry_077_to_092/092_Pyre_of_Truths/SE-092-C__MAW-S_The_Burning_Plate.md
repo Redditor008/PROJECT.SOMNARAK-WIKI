@@ -87,7 +87,7 @@ During a controlled archive transfer, the Plate was tested against a recorded Cr
 
 The Plate is the restraint inside *Open Record*. The Fang can answer an attack; the Burning Page can reveal a truth; this suit forces the bearer to protect without turning preservation into captivity.
 
-> *“A resistance multiplier is a physical fact. The decision to remain in the line of fire is still a moral one.”* — Agent Iseulfros Kim
+> *“A resistance multiplier is a physical fact. The decision to remain in the line of fire is still a moral one.”* — Specialist Iseulfros Kim
 
 ---
 

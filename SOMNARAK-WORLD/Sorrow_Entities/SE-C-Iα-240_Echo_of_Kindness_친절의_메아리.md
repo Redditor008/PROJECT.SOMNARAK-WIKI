@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its words are short and direct.
 - It is one of the few entities that produces comfort without an immediate cost.
 
-**Personnel Note:** *"It was waiting. I felt weight. The kindness did not remove the weight; it made it possible to carry."* — Agent, Zone D patrol
+**Personnel Note:** *"It was waiting. I felt weight. The kindness did not remove the weight; it made it possible to carry."* — Specialist, Zone D patrol
 
 
 

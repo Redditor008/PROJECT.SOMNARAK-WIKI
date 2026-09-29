@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1035` — Keen  
 **Source SECC Designation:** `O-Iα-453 [LS]`  
 **Item Registry Code:** `MAW-S-1035-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Keen — Witnessed Form*, The Crying Shroud performs the suit role while
 **Document ID:** `SE-1035-C`  
 **Linked Entity:** `SE-1035`  
 **Item Registry Code:** `MAW-S-1035-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

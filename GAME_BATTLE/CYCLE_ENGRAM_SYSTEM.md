@@ -18,7 +18,7 @@
 
 Before the Year 4,238 Dawn Initiative broke the closed temporal recurrence, Somnarak endured **1,778 consecutive historical reset loops** across eighteen centuries. In each cycle, Facility 01, the metropolitan districts, and the subterranean strata collapsed under catastrophic grief accumulation, only to reset to Day 0 beneath the roots of the Alpha Tree.
 
-Across those 1,778 cycles, key personnel—including Director Majin, Secretary Seiyon, Containment Lead Dekan, and frontline strike operatives such as Taeho, Seol-A, Min-Jae, Ha-Eun, and Junior Agent Kang—did not live identical lives. In different cycles, their destinies drifted:
+Across those 1,778 cycles, key personnel—including Director Majin, Secretary Seiyon, Containment Lead Dekan, and frontline strike operatives such as Taeho, Seol-A, Min-Jae, Ha-Eun, and Junior Specialist Kang—did not live identical lives. In different cycles, their destinies drifted:
 - An operative who serves as a Reverie Directorate Vanguard in Cycle 1,778 may have lived as a ruthless Underworld Fray-Hunter in Cycle 1,412.
 - A long-range sniper in the modern era may have commanded a mobile siege cannon aboard the Horizon Caravan crawler in Cycle 1,305.
 - An acoustic needle specialist may have served as a deep-abyss surveyor mapping the Sunken Aqueducts in Cycle 0,980.
@@ -229,7 +229,7 @@ Cycle Engrams are seamlessly integrated into the **Somnarak Grid Battle System (
 
 ## 5. Technical Authoring Rules for Future Engram Files
 
-When creating new Cycle Engram profiles for additional characters (e.g., Junior Agent Kang, Dekan, Zyrak, Marjuk):
+When creating new Cycle Engram profiles for additional characters (e.g., Junior Specialist Kang, Dekan, Zyrak, Marjuk):
 1. **Historical Consistency:** The engram must reference a specific cycle number (Cycle 0,001 through Cycle 1,777) and reflect realistic municipal, underworld, or expeditionary roles.
 2. **Numerical Balance:** Every positive perk must be counterbalanced by a Composure Load reduction and a Trauma Echo vulnerability.
 3. **Monospace Symmetry:** All ASCII data boxes must maintain exact 71-column or 127/128-column boundaries with zero crooked rows.

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-796` — Spire of Unanswered Prayer  
 **Source SECC Designation:** `O-IIβ-796 [LS]`  
 **Item Registry Code:** `MAW-S-796-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Shroud perform
 **Document ID:** `SE-796-C`  
 **Linked Entity:** `SE-796`  
 **Item Registry Code:** `MAW-S-796-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

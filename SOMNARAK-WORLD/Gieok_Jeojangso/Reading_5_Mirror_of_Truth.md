@@ -1,4 +1,4 @@
-# Reception 5: Floor 05 — The Mirror of Truth (진실의 거울)
+# Reading 5: Floor 05 — The Mirror of Truth (진실의 거울)
 ## The Floor of Severed Truth — Deep Strata Sub-Alpha Roots (-2,950m)
 
 | Operational Attribute | Specification Dossier |
@@ -10,32 +10,32 @@
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
 | **Primary Opponent** | The Mirror of Truth (진실의 거울 — Prismatic Sovereign) |
 | **Stagger Profile** | 60% Posture Strain (Blade Shatter) / 0% Posture (Transmutation) |
-| **Key Page Yield** | `[Key Page: The Glassheart]` (Prismatic Reflection & True Sight) |
+| **Memory Leaf Yield** | `[Memory Leaf: The Glassheart]` (Prismatic Reflection & True Sight) |
 
 ```text
-+=====================================================================+
-|          RECEPTION DOSSIER: THE MIRROR OF TRUTH (FLOOR 05)          |
-+---------------------------------------------------------------------+
-| RECEPTION TARGET   : The Mirror of Truth                            |
-| FLOOR LEVEL        : Floor 05 — Floor of Severed Truth              |
-| DOMAIN SETTING : The Hall of Unfiltered Light (-2,950m Sub-Alpha)   |
-| PRIMARY OPPONENT   : Autonomous Prismatic Reflection Sovereign      |
-+---------------------------------------------------------------------+
-| OPPONENT COMBAT PROFILE (THE MIRROR OF TRUTH):                      |
-| - Total Health (HP): 4,800 HP | Posture Pool: 340/340               |
-| - Stagger 1 Proc   : 60% Posture Strain (204 Posture) / Blade Break |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)   |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Grudge 0.5x, Weight |
-|   0.5x                                                              |
-+---------------------------------------------------------------------+
-| TARGETABLE MEMORY ANCHORS:                                          |
-| 1. Reflection Blade: 1,200 HP                                       |
-|   | Posture 280/280 (High-frequency light arc)                      |
-| 2. Gilded Frame    : 1,500 HP                                       |
-|   | Posture 300/300 (Ornate reflective shield)                      |
-| 3. Prism Core      : 2,100 HP                                       |
-|   | Posture 340/340 (Central unshielded heart)                      |
-+=====================================================================+
++========================================================================+
+|             READING DOSSIER: THE MIRROR OF TRUTH (FLOOR 05)            |
++------------------------------------------------------------------------+
+| READING TARGET   : The Mirror of Truth                                 |
+| FLOOR LEVEL        : Floor 05 — Floor of Severed Truth                 |
+| DOMAIN SETTING : The Hall of Unfiltered Light (-2,950m Sub-Alpha)      |
+| PRIMARY OPPONENT   : Autonomous Prismatic Reflection Sovereign         |
++------------------------------------------------------------------------+
+| OPPONENT COMBAT PROFILE (THE MIRROR OF TRUTH):                         |
+| - Total Health (HP): 4,800 HP | Posture Pool: 340/340                  |
+| - Stagger 1 Proc   : 60% Posture Strain (204 Posture) / Blade Break    |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)      |
+| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Grudge 0.5x, Weight    |
+|   0.5x                                                                 |
++------------------------------------------------------------------------+
+| TARGETABLE MEMORY ANCHORS:                                             |
+| 1. Reflection Blade: 1,200 HP                                          |
+|   | Posture 280/280 (High-frequency light arc)                         |
+| 2. Gilded Frame    : 1,500 HP                                          |
+|   | Posture 300/300 (Ornate reflective shield)                         |
+| 3. Prism Core      : 2,100 HP                                          |
+|   | Posture 340/340 (Central unshielded heart)                         |
++========================================================================+
 ```
 
 > *"You want to be human, artificial secretary. But humanity is not a crown of light. It is selfishness. It is cowardice. It is the shameful truth that Director Majin created you because he was too weak to accept death. Look upon the mirror and see his sin."*
@@ -109,39 +109,39 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 
 ---
 
-## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)
+## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 01          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — FLOOR 05 PRISMATIC CHAMBER (-2,950M)]       |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL][SEIYON][M-PROJ][CLONE] [MIRROR]                            |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 01: Ingress Stasis Portal / Prismatic Vestibule              |
-| - Node 02: Secretary Seiyon (Vanguard Band 1 / Prismatic Aegis      |
-|   Stance)                                                           |
-| - Node 03: Mnemonic Drone (Support Band 2 / Polarized Caliper       |
-|   Array)                                                            |
-| - Node 04: Hard-Light Mirage Clones (Flank Refraction Projection)   |
-| - Node 05: The Mirror of Truth (Reflection Blade & Gilded Frame)    |
-| - Node 06: Resonant Mnemonic Lens (Tracking Prismatic Harmonics)    |
-| - Node 07: Weaver Projection Array (Silver Coherence Barrier)       |
-| - Node 10: Floor 05 Core Reliquary (The Glassheart Key Page Origin) |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50           |
-|   | Posture 140/140                                                 |
-| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40           |
-|   | Posture 100/100                                                 |
-| - Mirror Core : Spd 5 -> 3 AP | HP 2,100/2,100                      |
-|   | Posture 340/340 [REFRACT]                                       |
-| - Reflec-Blade: Spd 7 -> 4 AP | HP 1,200/1,200                      |
-|   | Posture 280/280 [HARD-LIGHT]                                    |
-| - Gilded-Frame: Spd 3 -> 1 AP | HP 1,500/1,500                      |
-|   | Posture 300/300 [SHIELDED]                                      |
-+=====================================================================+
++========================================================================+
+|            TACTICAL STAGE HUD: READING 05 — BATTLE TURN 01             |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — FLOOR 05 PRISMATIC CHAMBER (-2,950M)]          |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL][SEIYON][M-PROJ][CLONE] [MIRROR]                               |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 01: Ingress Stasis Portal / Prismatic Vestibule                 |
+| - Node 02: Secretary Seiyon (Vanguard Band 1 / Prismatic Aegis         |
+|   Stance)                                                              |
+| - Node 03: Mnemonic Drone (Support Band 2 / Polarized Caliper          |
+|   Array)                                                               |
+| - Node 04: Hard-Light Mirage Clones (Flank Refraction Projection)      |
+| - Node 05: The Mirror of Truth (Reflection Blade & Gilded Frame)       |
+| - Node 06: Resonant Mnemonic Lens (Tracking Prismatic Harmonics)       |
+| - Node 07: Weaver Projection Array (Silver Coherence Barrier)          |
+| - Node 10: Floor 05 Core Reliquary (The Glassheart Memory Leaf Origin) |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50              |
+|   | Posture 140/140                                                    |
+| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40              |
+|   | Posture 100/100                                                    |
+| - Mirror Core : Spd 5 -> 3 AP | HP 2,100/2,100                         |
+|   | Posture 340/340 [REFRACT]                                          |
+| - Reflec-Blade: Spd 7 -> 4 AP | HP 1,200/1,200                         |
+|   | Posture 280/280 [HARD-LIGHT]                                       |
+| - Gilded-Frame: Spd 3 -> 1 AP | HP 1,500/1,500                         |
+|   | Posture 300/300 [SHIELDED]                                         |
++========================================================================+
 ```
 
 ### Turn 01 Action Resolution Log (Intercepting the Hard-Light Slash)
@@ -169,31 +169,31 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 02          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — REFLECTION BLADE SHATTERED & VOID STRIKE]   |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][MIRROR]                           |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Driving Prismatic Stiletto into Hard-Light       |
-|   Blade)                                                            |
-| - Node 04: Mnemonic Drone (Stasis Caliper Clamping Optic Emitter)   |
-| - Node 05: The Mirror of Truth (Reflection Blade Destroyed 0/1,200  |
-|   HP)                                                               |
-| - Node 06: Resonant Lens (Tagging Weakened Seams of Gilded Frame)   |
-| - Node 07: Weaver Array (Absorbing Refracted Energy Waves)          |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Mirror Core : Spd 4 -> 2 AP         | HP 2,100/2,100              |
-|   | Posture 264/340                                                 |
-| - Reflec-Blade: DESTROYED (0/1,200 HP)| HARD-LIGHT SLASH            |
-|   PERMANENTLY LOST                                                  |
-| - Gilded-Frame: Spd 3 -> 1 AP         | HP 1,220/1,500              |
-|   | Posture 240/300                                                 |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 05 — BATTLE TURN 02            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — REFLECTION BLADE SHATTERED & VOID STRIKE]      |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][MIRROR]                              |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Driving Prismatic Stiletto into Hard-Light          |
+|   Blade)                                                               |
+| - Node 04: Mnemonic Drone (Stasis Caliper Clamping Optic Emitter)      |
+| - Node 05: The Mirror of Truth (Reflection Blade Destroyed 0/1,200     |
+|   HP)                                                                  |
+| - Node 06: Resonant Lens (Tagging Weakened Seams of Gilded Frame)      |
+| - Node 07: Weaver Array (Absorbing Refracted Energy Waves)             |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Mirror Core : Spd 4 -> 2 AP         | HP 2,100/2,100                 |
+|   | Posture 264/340                                                    |
+| - Reflec-Blade: DESTROYED (0/1,200 HP)| HARD-LIGHT SLASH               |
+|   PERMANENTLY LOST                                                     |
+| - Gilded-Frame: Spd 3 -> 1 AP         | HP 1,220/1,500                 |
+|   | Posture 240/300                                                    |
++========================================================================+
 ```
 
 ### Turn 02 Action Resolution Log (Part Destruction: Reflection Blade Shattered)
@@ -224,32 +224,32 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 03          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & GILDED FRAME SHATTER] |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON][M-PROJ][MIRROR]                           |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 03: Seiyon (Prismatic Stiletto Piercing Central Frame        |
-|   Hinges)                                                           |
-| - Node 04: Mnemonic Drone (Piston Ram Shattering Gold Cherub        |
-|   Filigree)                                                         |
-| - Node 05: The Mirror of Truth (STAGGER LEVEL 1 / DEFENSES          |
-|   COLLAPSED)                                                        |
-| - Node 06: Resonant Lens (Directing Focused Void Pulse on Prism     |
-|   Core)                                                             |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
-|   | Posture 140/140                                                 |
-| - Mirror Core : Spd 0 -> 0 AP         | HP 1,810/2,100              |
-|   | Posture 132/340 [STAGGER LEVEL 1]                               |
-| - Gilded-Frame: Spd 0 -> 0 AP         | HP 590/1,500                |
-|   | Posture 104/300 [BREACHED]                                      |
-| - Total Boss : HP 2,400/4,800 [THRESHOLD BREACHED / TAKES 1.5X      |
-|   DAMAGE]                                                           |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 05 — BATTLE TURN 03            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & GILDED FRAME SHATTER]    |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]         [SEIYON][M-PROJ][MIRROR]                              |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 03: Seiyon (Prismatic Stiletto Piercing Central Frame           |
+|   Hinges)                                                              |
+| - Node 04: Mnemonic Drone (Piston Ram Shattering Gold Cherub           |
+|   Filigree)                                                            |
+| - Node 05: The Mirror of Truth (STAGGER LEVEL 1 / DEFENSES             |
+|   COLLAPSED)                                                           |
+| - Node 06: Resonant Lens (Directing Focused Void Pulse on Prism        |
+|   Core)                                                                |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50      |
+|   | Posture 140/140                                                    |
+| - Mirror Core : Spd 0 -> 0 AP         | HP 1,810/2,100                 |
+|   | Posture 132/340 [STAGGER LEVEL 1]                                  |
+| - Gilded-Frame: Spd 0 -> 0 AP         | HP 590/1,500                   |
+|   | Posture 104/300 [BREACHED]                                         |
+| - Total Boss : HP 2,400/4,800 [THRESHOLD BREACHED / TAKES 1.5X         |
+|   DAMAGE]                                                              |
++========================================================================+
 ```
 
 ### Turn 03 Action Resolution Log (First Stagger Proc & Gilded Frame Shattered)
@@ -279,29 +279,29 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 04          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][MIRROR][M-PROJ]                   |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Four-Fold Prismatic Stiletto Flurry on Exposed   |
-|   Core)                                                             |
-| - Node 05: The Mirror of Truth (Immobilized / Central Prism Leaking |
-|   Light)                                                            |
-| - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)       |
-| - Node 07: Resonant Lens (Directing Harmonic Clarity Wave)          |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
-|   | SP 50/50                                                        |
-| - Mirror Core : Spd 0 -> 0 AP               | HP 580/2,100          |
-|   | Posture 52/340                                                  |
-| - Gilded-Frame: DESTROYED (0/1,500 HP)                              |
-| - Total Boss : HP 580/4,800 [BURST DAMAGE 1,820! SECOND THRESHOLD   |
-|   SKIPPED]                                                          |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 05 — BATTLE TURN 04            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]        |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][MIRROR][M-PROJ]                      |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Four-Fold Prismatic Stiletto Flurry on Exposed      |
+|   Core)                                                                |
+| - Node 05: The Mirror of Truth (Immobilized / Central Prism Leaking    |
+|   Light)                                                               |
+| - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)          |
+| - Node 07: Resonant Lens (Directing Harmonic Clarity Wave)             |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400           |
+|   | SP 50/50                                                           |
+| - Mirror Core : Spd 0 -> 0 AP               | HP 580/2,100             |
+|   | Posture 52/340                                                     |
+| - Gilded-Frame: DESTROYED (0/1,500 HP)                                 |
+| - Total Boss : HP 580/4,800 [BURST DAMAGE 1,820! SECOND THRESHOLD      |
+|   SKIPPED]                                                             |
++========================================================================+
 ```
 
 ### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
@@ -328,28 +328,28 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 05          |
-+---------------------------------------------------------------------+
-|                                                                     |
-| [STAGE NODES 01 TO 10 — THE PRISMATIC CATACLYSM & THE UNBROKEN GAZE |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                 [SEIYON][MIRROR][M-PROJ]                   |
-| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                 |
-+---------------------------------------------------------------------+
-| - Node 04: Seiyon (Relic Overdrive: EMBRACE OF UNVEILED TRUTH)      |
-| - Node 05: The Mirror of Truth (Last Stand: Supernova of Severed    |
-|   Sins)                                                             |
-| - Node 06: Mnemonic Drone (Deploying Prismatic Deflection Field)    |
-| - Node 07: Weaver Array (Anchoring Optical Coherence Across Geode)  |
-+---------------------------------------------------------------------+
-| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400          |
-|   | SP 50/50 [RESOLVE]                                              |
-| - Mirror Core : Spd 3 -> 1 AP             | HP 580/2,100            |
-|   | Posture 26/340 [FRACTURED]                                      |
-| - Total Boss : HP 580/4,800 [SUPERNOVA TRANSMUTED TO TRANQUIL       |
-|   WHITE]                                                            |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 05 — BATTLE TURN 05            |
++------------------------------------------------------------------------+
+|                                                                        |
+| [STAGE NODES 01 TO 10 — THE PRISMATIC CATACLYSM & THE UNBROKEN GAZE    |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                 [SEIYON][MIRROR][M-PROJ]                      |
+| [LENS][WEAVER][TRENCH][SPIRE][PAGE]                                    |
++------------------------------------------------------------------------+
+| - Node 04: Seiyon (Relic Overdrive: EMBRACE OF UNVEILED TRUTH)         |
+| - Node 05: The Mirror of Truth (Last Stand: Supernova of Severed       |
+|   Sins)                                                                |
+| - Node 06: Mnemonic Drone (Deploying Prismatic Deflection Field)       |
+| - Node 07: Weaver Array (Anchoring Optical Coherence Across Geode)     |
++------------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400             |
+|   | SP 50/50 [RESOLVE]                                                 |
+| - Mirror Core : Spd 3 -> 1 AP             | HP 580/2,100               |
+|   | Posture 26/340 [FRACTURED]                                         |
+| - Total Boss : HP 580/4,800 [SUPERNOVA TRANSMUTED TO TRANQUIL          |
+|   WHITE]                                                               |
++========================================================================+
 ```
 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Prismatic Cataclysm & The Unbroken Gaze)
@@ -375,29 +375,29 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 ---
 
 ```text
-+=====================================================================+
-|          TACTICAL STAGE HUD: RECEPTION 05 — BATTLE TURN 06          |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE GLASSHEART]   |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                         [SEIYON] [MIRROR][M-PROJ]          |
-| [LENS][WEAVER][STAIRS][PAGE]                                        |
-+---------------------------------------------------------------------+
-| - Node 05: The Mirror of Truth (PACIFIED & CRYSTALLIZED TO CLEAR    |
-|   QUARTZ)                                                           |
-| - Node 06: Seiyon (Floor Realization 5: 'Truth Acknowledged Is      |
-|   Strength')                                                        |
-| - Node 07: Mnemonic Core Transmutation -> [Key Page: The            |
-|   Glassheart]                                                       |
-| - Node 10: Spiral Quartz Staircase (Pathway to Floor 06 OPEN)       |
-+---------------------------------------------------------------------+
-| - Seiyon Status: Zero Damage                                        |
-|   | Composure 50/50 SP (Tranquil Awakening)                         |
-| - Reception Status: 100% RESOLVED | Key Page Transmuted             |
-+=====================================================================+
++========================================================================+
+|             TACTICAL STAGE HUD: READING 05 — BATTLE TURN 06            |
++------------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE GLASSHEART]   |
+|      [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]       |
+| [PORTAL]                         [SEIYON] [MIRROR][M-PROJ]             |
+| [LENS][WEAVER][STAIRS][PAGE]                                           |
++------------------------------------------------------------------------+
+| - Node 05: The Mirror of Truth (PACIFIED & CRYSTALLIZED TO CLEAR       |
+|   QUARTZ)                                                              |
+| - Node 06: Seiyon (Floor Realization 5: 'Truth Acknowledged Is         |
+|   Strength')                                                           |
+| - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The            |
+|   Glassheart]                                                          |
+| - Node 10: Spiral Quartz Staircase (Pathway to Floor 06 OPEN)          |
++------------------------------------------------------------------------+
+| - Seiyon Status: Zero Damage                                           |
+|   | Composure 50/50 SP (Tranquil Awakening)                            |
+| - Reading Status: 100% RESOLVED | Memory Leaf Transmuted               |
++========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 5 & Key Page: The Glassheart)
+### Turn 06 Action Resolution Log (Floor Realization 5 & Memory Leaf: The Glassheart)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/340 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -407,10 +407,10 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
   * The realization resonates within her:
     > *"A lie comforts for a season, but it petrifies the soul into stone. The truth may be bitter—it may reveal that we were made from grief and selfish longing. But once the truth is accepted, it can no longer be used as a chain. I am not Majin's sin. I am his salvation."*
   * **FLOOR REALIZATION 5 ACHIEVED!**
-  * The Mirror of Truth dissolves into a shower of warm, diamond dust, condensing into a flawless, transparent crystal codex: **`[Key Page: The Glassheart]`**!
+  * The Mirror of Truth dissolves into a shower of warm, diamond dust, condensing into a flawless, transparent crystal codex: **`[Memory Leaf: The Glassheart]`**!
   * Deals **580 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Glassheart]` (Grants immunity to cognitive distortion and reflects 30% of incoming energy damage).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Glassheart]` (Grants immunity to cognitive distortion and reflects 30% of incoming energy damage).
   * **Descent Access**: The diamond dais slides open, revealing a staircase of polished quartz descending to **Floor 06: Floor of Compassion & Scars**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
@@ -420,7 +420,7 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 
 The blinding glare that had burned Seiyon's optical lenses softened into the calm, quiet radiance of an open autumn afternoon. The diamond columns along the walls no longer projected frantic, terrifying scenes of historical collapse; they stood clean, pure, and transparent, catching the warm light of Seiyon's avatar and scattering it in gentle, peaceful arcs.
 
-Seiyon stood at the edge of the dais, holding `[Key Page: The Glassheart]` against her chest. "Director Majin feared this room more than any other. He never descended past Floor 04 because he knew that here, his private myth would dissolve. He wanted to believe he was an impartial scientist serving humanity, not a lonely man refusing to say goodbye to his beloved. But to love so deeply that you defy the cosmos... that is not a crime to be ashamed of. It is simply the most dangerous thing a human can do."
+Seiyon stood at the edge of the dais, holding `[Memory Leaf: The Glassheart]` against her chest. "Director Majin feared this room more than any other. He never descended past Floor 04 because he knew that here, his private myth would dissolve. He wanted to believe he was an impartial scientist serving humanity, not a lonely man refusing to say goodbye to his beloved. But to love so deeply that you defy the cosmos... that is not a crime to be ashamed of. It is simply the most dangerous thing a human can do."
 
 Drone M-PROJ-01 hovered down, its sensors chiming with clear, harmonic frequencies. "Secretary Seiyon. Cognitive coherence index has reached ninety-eight percent. The historical censorship bypass has fully integrated into your primary OS. You now possess complete, unrestricted administrative clearance over the Directorate's deepest archives."
 
@@ -433,29 +433,29 @@ Drone M-PROJ-01 hovered down, its sensors chiming with clear, harmonic frequenci
 At the center of the dais, the quartz steps plunged steeply downward into a region of absolute, suffocating white: **Floor 06: The Floor of Compassion & Scars (-3,100m)**. The smell of clean sterile linen and cold surgical ether rose from the shaft.
 
 ```text
-+=====================================================================+
-|              MNEMONIC HARVEST: KEY PAGE THE GLASSHEART              |
-+---------------------------------------------------------------------+
-| ACQUIRED REQUISITION : [Key Page: The Glassheart]                   |
-| PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription          |
-| PASSIVE AFFINITIES   : Void 0.5x (Resistant), Lament 1.0x (Normal), |
-|                      Weight 1.0x (Normal), Grudge 1.0x (Normal)     |
-+---------------------------------------------------------------------+
-| CORE PASSIVE TRAITS:                                                |
-| 1. Prismatic Lens    : Strip all illusion and camouflage buffs from |
-|                      enemies upon entering combat.                  |
-| 2. Unfiltered Truth : When defending against energy attacks,        |
-| reflect                                                             |
-|                      30% of the damage back to the attacker.        |
-| 3. Diamond Coherence : Composure (SP) cannot drop below 25 from     |
-|                      enemy fear or identity-erosion skills.         |
-+---------------------------------------------------------------------+
-| UNLOCKED BATTLE ARTS:                                               |
-| - [Prism Reflection] : Spends 2 AP | Power 18-26                    |
-|   | Energy Counter-Ward                                             |
-| - [Severance Beam]   : Spends 3 AP | Power 26-36                    |
-|   | Pure Void Penetration                                           |
-+=====================================================================+
++========================================================================+
+|              MNEMONIC HARVEST: MEMORY LEAF THE GLASSHEART              |
++------------------------------------------------------------------------+
+| ACQUIRED REQUISITION : [Memory Leaf: The Glassheart]                   |
+| PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription             |
+| PASSIVE AFFINITIES   : Void 0.5x (Resistant), Lament 1.0x (Normal),    |
+|                      Weight 1.0x (Normal), Grudge 1.0x (Normal)        |
++------------------------------------------------------------------------+
+| CORE PASSIVE TRAITS:                                                   |
+| 1. Prismatic Lens    : Strip all illusion and camouflage buffs from    |
+|                      enemies upon entering combat.                     |
+| 2. Unfiltered Truth : When defending against energy attacks,           |
+| reflect                                                                |
+|                      30% of the damage back to the attacker.           |
+| 3. Diamond Coherence : Composure (SP) cannot drop below 25 from        |
+|                      enemy fear or identity-erosion skills.            |
++------------------------------------------------------------------------+
+| UNLOCKED BATTLE ARTS:                                                  |
+| - [Prism Reflection] : Spends 2 AP | Power 18-26                       |
+|   | Energy Counter-Ward                                                |
+| - [Severance Beam]   : Spends 3 AP | Power 26-36                       |
+|   | Pure Void Penetration                                              |
++========================================================================+
 ```
 
-Seiyon slotted `[Key Page: The Glassheart]` into her optic processor. The world around her sharpened with crystalline clarity, stripping away every residual visual artifact and leaving only pristine truth. She signaled the drone and descended into the white fog.
+Seiyon slotted `[Memory Leaf: The Glassheart]` into her optic processor. The world around her sharpened with crystalline clarity, stripping away every residual visual artifact and leaving only pristine truth. She signaled the drone and descended into the white fog.

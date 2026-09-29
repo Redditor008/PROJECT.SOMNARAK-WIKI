@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-920` — Once Upon  
 **Source SECC Designation:** `O-IIIγ-920 [LT]`  
 **Item Registry Code:** `MAW-W-920-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Once Upon — Witnessed Form*, Once Upon's Edge performs the weapon role
 **Document ID:** `SE-920-B`  
 **Linked Entity:** `SE-920`  
 **Item Registry Code:** `MAW-W-920-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

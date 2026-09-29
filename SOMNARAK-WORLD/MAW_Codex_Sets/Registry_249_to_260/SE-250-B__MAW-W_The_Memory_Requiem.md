@@ -7,7 +7,7 @@
 **Document ID:** `SE-250-B`  
 **Linked Entity:** `SE-250` — Memory Rain  
 **Item Registry Code:** `MAW-W-250-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm anchors identity; Umbrella catches the separated drop; Requiem performs th
 **Document ID:** `SE-250-B`  
 **Linked Entity:** `SE-250`  
 **Item Registry Code:** `MAW-W-250-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

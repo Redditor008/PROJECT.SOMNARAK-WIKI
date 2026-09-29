@@ -21,7 +21,7 @@
 | Type / grade / element | Suit, breath-veil / δ — Critical / Grudge — Crimson |
 | Status | Relief-observer issue only |
 | Maximum amount | 2 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A crimson gossamer veil that feels like a cold breath over the mouth and chest. |
 | Active form | The veil holds a thin frost-red barrier around the wearer’s breath and posture. |
 | Recognition rule | A relief observer can see cracks in the veil whenever the wearer is suppressing exhaustion. |
@@ -87,7 +87,7 @@ Grey wore the Breath during a Border emergency and remained calm enough to coord
 
 The Breath is the panic safeguard of *Exhale*. Frozen Fang releases a field and Frozen Charm identifies fatigue; this suit prevents release from becoming another demand to endure silently.
 
-> *“A person who cannot say they are tired needs more protection, not more orders.”* — Agent Iseulfros Kim
+> *“A person who cannot say they are tired needs more protection, not more orders.”* — Specialist Iseulfros Kim
 
 ---
 

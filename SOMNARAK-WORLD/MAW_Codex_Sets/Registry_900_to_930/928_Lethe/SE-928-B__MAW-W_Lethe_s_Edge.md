@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-928` — Lethe  
 **Source SECC Designation:** `C-IIIγ-928 [VH]`  
 **Item Registry Code:** `MAW-W-928-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Lethe — Witnessed Form*, Lethe's Edge performs the weapon role while t
 **Document ID:** `SE-928-B`  
 **Linked Entity:** `SE-928`  
 **Item Registry Code:** `MAW-W-928-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

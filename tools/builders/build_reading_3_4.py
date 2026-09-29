@@ -2,8 +2,8 @@
 """
 tools/build_reception_3_4.py
 Generates the fully enriched, canonical chronicles for:
-- Reception 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)
-- Reception 4: Floor 04 — The Weeping Statue (흐느끼는 석상)
+- Reading 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)
+- Reading 4: Floor 04 — The Weeping Statue (흐느끼는 석상)
 """
 
 import os
@@ -19,7 +19,7 @@ def build_reception_3():
     sections = []
     
     # Title & Subtitle
-    sections.append("# Reception 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)\n")
+    sections.append("# Reading 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)\n")
     sections.append("## The Floor of Duty & Iron — Deep Strata Sub-Alpha Roots (-2,650m)\n\n")
     
     # Operational Attribute Table
@@ -32,11 +32,11 @@ def build_reception_3():
     sections.append("| **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |\n")
     sections.append("| **Primary Opponent** | The Forgotten Soldier (잊혀진 파수병 — Autonomous Iron Commander) |\n")
     sections.append("| **Stagger Profile** | 60% Posture Strain (Halberd Shatter) / 0% Posture (Transmutation) |\n")
-    sections.append("| **Key Page Yield** | `[Key Page: The Guardian]` (Fortress Bulwark & Vanguard Intercept) |\n\n")
+    sections.append("| **Memory Leaf Yield** | `[Memory Leaf: The Guardian]` (Fortress Bulwark & Vanguard Intercept) |\n\n")
     
     # Master Dossier Box
-    dossier = make_box("RECEPTION DOSSIER: THE FORGOTTEN SOLDIER (FLOOR 03)", [
-        "RECEPTION TARGET   : The Forgotten Soldier",
+    dossier = make_box("READING DOSSIER: THE FORGOTTEN SOLDIER (FLOOR 03)", [
+        "READING TARGET   : The Forgotten Soldier",
         "FLOOR LEVEL        : Floor 03 — Floor of Duty & Iron",
         "DOMAIN SETTING     : The Iron Fortress Armory (-2,650m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Clockwork Phalanx Commander",
@@ -107,10 +107,10 @@ def build_reception_3():
     sections.append('---\n\n')
     
     # Chapter V: Combat Gauntlet (Turns 01 to 06)
-    sections.append("## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)\n\n")
+    sections.append("## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)\n\n")
     
     # Turn 01 HUD
-    t1_hud = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 01", [
+    t1_hud = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 03 IRON ARMORY (-2,650M)]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL][SEIYON][M-PROJ][GOLEM] [SOLDIER][LENS][WEAVER][SUMP][BASTION][PAGE]",
@@ -122,7 +122,7 @@ def build_reception_3():
         "- Node 05: The Forgotten Soldier (Heavy Piston Halberd & Tower Aegis)",
         "- Node 06: Resonant Mnemonic Lens (Tracking Hydraulic Pressure Faults)",
         "- Node 07: Weaver Projection Array (Rear Band 4 / Silver Kinetic Web)",
-        "- Node 10: Floor 03 Core Reliquary (The Guardian Key Page Origin)",
+        "- Node 10: Floor 03 Core Reliquary (The Guardian Memory Leaf Origin)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -156,7 +156,7 @@ def build_reception_3():
     sections.append('---\n\n')
     
     # Turn 02 HUD
-    t2_hud = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 02", [
+    t2_hud = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — HALBERD AMPUTATED & SAPPER PISTON]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][SOLDIER][LENS][WEAVER][SUMP][BASTION][PAGE]",
@@ -201,7 +201,7 @@ def build_reception_3():
     sections.append('---\n\n')
     
     # Turn 03 HUD
-    t3_hud = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 03", [
+    t3_hud = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & SHIELD BREACH]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][SOLDIER][LENS][WEAVER][SUMP][BASTION][PAGE]",
@@ -244,7 +244,7 @@ def build_reception_3():
     sections.append('---\n\n')
     
     # Turn 04 HUD
-    t4_hud = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 04", [
+    t4_hud = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][SOLDIER][M-PROJ][LENS][WEAVER][SUMP][BASTION][PAGE]",
@@ -284,7 +284,7 @@ def build_reception_3():
     sections.append('---\n\n')
     
     # Turn 05 HUD
-    t5_hud = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 05", [
+    t5_hud = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — CLOCKWORK CATACLYSM & THE UNBROKEN LINE]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][SOLDIER][M-PROJ][LENS][WEAVER][SUMP][BASTION][PAGE]",
@@ -322,22 +322,22 @@ def build_reception_3():
     sections.append('---\n\n')
     
     # Turn 06 HUD
-    t6_hud = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE GUARDIAN]",
+    t6_hud = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE GUARDIAN]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                         [SEIYON] [SOLDIER][M-PROJ][LENS][WEAVER][STAIRS][PAGE]",
         "---",
         "- Node 05: The Forgotten Soldier (PACIFIED & RESTING IN DIGNIFIED SILENCE)",
         "- Node 06: Seiyon (Floor Realization 3: 'Duty With Love Is Endurance')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Guardian]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Guardian]",
         "- Node 10: Spiral Basalt Staircase (Pathway to Floor 04 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
     sections.append(wrap_box(t6_hud))
     
-    sections.append("### Turn 06 Action Resolution Log (Floor Realization 3 & Key Page: The Guardian)\n")
+    sections.append("### Turn 06 Action Resolution Log (Floor Realization 3 & Memory Leaf: The Guardian)\n")
     sections.append("- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:\n")
     sections.append("  * Hostile intent drops to zero. Posture reaches **0/300 [TERMINAL TRANSMUTATION]**.\n")
     sections.append("- **Step 2: Spatial Movement & Action Point Allocation**:\n")
@@ -346,10 +346,10 @@ def build_reception_3():
     sections.append("  * The roaring steam vents fall completely silent. In the quiet of the iron concourse, Seiyon reflects upon her 1,778 cycles of endless vigilance:\n")
     sections.append('    > *"I thought duty was a cage forged of programming and iron. But duty without love is only rust. Duty with love is the willingness to stand in the dark so another can reach the morning. That is why I endured."*\n')
     sections.append("  * **FLOOR REALIZATION 3 ACHIEVED!**\n")
-    sections.append("  * The Forgotten Soldier bows its head in deep, solemn respect. Its chassis dissolves into dark, polished iron plating that condenses into a heavy steel-bound tome: **`[Key Page: The Guardian]`**!\n")
+    sections.append("  * The Forgotten Soldier bows its head in deep, solemn respect. Its chassis dissolves into dark, polished iron plating that condenses into a heavy steel-bound tome: **`[Memory Leaf: The Guardian]`**!\n")
     sections.append("  * Deals **480 Peaceful Harmony**! Boss HP drops to 0!\n")
     sections.append("- **Step 4: Operational Artifact Extraction & Floor Access**:\n")
-    sections.append("  * **Key Page Acquired**: `[Key Page: The Guardian]` (Grants +25 Poise and absorbs 100% of damage directed at frontline allies).\n")
+    sections.append("  * **Memory Leaf Acquired**: `[Memory Leaf: The Guardian]` (Grants +25 Poise and absorbs 100% of damage directed at frontline allies).\n")
     sections.append("  * **Descent Access**: The iron fortress portcullis raises, revealing a descending spiral staircase of basalt steps leading to **Floor 04: Floor of Unexpressed Grief**.\n")
     sections.append("  * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.\n\n")
     sections.append('---\n\n')
@@ -365,8 +365,8 @@ def build_reception_3():
     sections.append("## Chapter VII: Operational Artifact Extraction & Stairway Ingress\n\n")
     sections.append("Beneath the Soldier's basalt lectern, the floor split along hydraulic seams, rolling backward to reveal a deep subterranean staircase of dark ashlar limestone leading downward into total silence: **Floor 04: The Floor of Unexpressed Grief (-2,800m)**. Faint ripples of crystal-clear water lapped against the lowest steps.\n\n")
     
-    reward_box = make_box("MNEMONIC HARVEST: KEY PAGE THE GUARDIAN", [
-        "ACQUIRED REQUISITION : [Key Page: The Guardian]",
+    reward_box = make_box("MNEMONIC HARVEST: MEMORY LEAF THE GUARDIAN", [
+        "ACQUIRED REQUISITION : [Memory Leaf: The Guardian]",
         "PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription",
         "PASSIVE AFFINITIES   : Void 1.0x (Normal), Lament 1.0x (Normal),",
         "                     Weight 0.5x (Resistant), Grudge 0.5x (Resistant)",
@@ -384,7 +384,7 @@ def build_reception_3():
     ])
     sections.append(wrap_box(reward_box))
     
-    sections.append("Seiyon integrated `[Key Page: The Guardian]` into her photonic armature. Her holographic coat took on the subtle, indestructible luster of cold-forged tungsten, stabilizing her physical presence and rooting her boots firmly into the subterranean earth. She turned toward the dark steps, hearing the unmistakable sound of weeping water echoing from the deep.\n")
+    sections.append("Seiyon integrated `[Memory Leaf: The Guardian]` into her photonic armature. Her holographic coat took on the subtle, indestructible luster of cold-forged tungsten, stabilizing her physical presence and rooting her boots firmly into the subterranean earth. She turned toward the dark steps, hearing the unmistakable sound of weeping water echoing from the deep.\n")
     
     return "".join(sections)
 
@@ -392,7 +392,7 @@ def build_reception_4():
     sections = []
     
     # Title & Subtitle
-    sections.append("# Reception 4: Floor 04 — The Weeping Statue (흐느끼는 석상)\n")
+    sections.append("# Reading 4: Floor 04 — The Weeping Statue (흐느끼는 석상)\n")
     sections.append("## The Floor of Unexpressed Grief — Deep Strata Sub-Alpha Roots (-2,800m)\n\n")
     
     # Operational Attribute Table
@@ -405,11 +405,11 @@ def build_reception_4():
     sections.append("| **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |\n")
     sections.append("| **Primary Opponent** | The Weeping Statue (흐느끼는 석상 — Autonomous Lament Sovereign) |\n")
     sections.append("| **Stagger Profile** | 60% Posture Strain (Veil Shatter) / 0% Posture (Transmutation) |\n")
-    sections.append("| **Key Page Yield** | `[Key Page: The Mourner]` (Lament Quenching & Posture Strain) |\n\n")
+    sections.append("| **Memory Leaf Yield** | `[Memory Leaf: The Mourner]` (Lament Quenching & Posture Strain) |\n\n")
     
     # Master Dossier Box
-    dossier = make_box("RECEPTION DOSSIER: THE WEEPING STATUE (FLOOR 04)", [
-        "RECEPTION TARGET   : The Weeping Statue",
+    dossier = make_box("READING DOSSIER: THE WEEPING STATUE (FLOOR 04)", [
+        "READING TARGET   : The Weeping Statue",
         "FLOOR LEVEL        : Floor 04 — Floor of Unexpressed Grief",
         "DOMAIN SETTING     : The Flooded Catacomb of Tears (-2,800m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Petrified Sorrow Construct",
@@ -480,10 +480,10 @@ def build_reception_4():
     sections.append('---\n\n')
     
     # Chapter V: Combat Gauntlet (Turns 01 to 06)
-    sections.append("## Chapter V: The Reception Combat Gauntlet (Turns 01 to 06)\n\n")
+    sections.append("## Chapter V: The Reading Combat Gauntlet (Turns 01 to 06)\n\n")
     
     # Turn 01 HUD
-    t1_hud = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 01", [
+    t1_hud = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 04 FLOODED CATACOMB (-2,800M)]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL][SEIYON][M-PROJ][GEYSER][STATUE][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -495,7 +495,7 @@ def build_reception_4():
         "- Node 05: The Weeping Statue (Weeping Siphon Veil & Mourning Censer)",
         "- Node 06: Resonant Mnemonic Lens (Tracking High-Pressure Intake Lines)",
         "- Node 07: Weaver Projection Array (Anchoring Thermal Stability)",
-        "- Node 10: Floor 04 Core Reliquary (The Mourner Key Page Origin)",
+        "- Node 10: Floor 04 Core Reliquary (The Mourner Memory Leaf Origin)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -529,7 +529,7 @@ def build_reception_4():
     sections.append('---\n\n')
     
     # Turn 02 HUD
-    t2_hud = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 02", [
+    t2_hud = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — SIPHON VEIL SEVERED & ICE SHATTER]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][STATUE][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -574,7 +574,7 @@ def build_reception_4():
     sections.append('---\n\n')
     
     # Turn 03 HUD
-    t3_hud = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 03", [
+    t3_hud = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CENSER CRUSH]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][STATUE][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -617,7 +617,7 @@ def build_reception_4():
     sections.append('---\n\n')
     
     # Turn 04 HUD
-    t4_hud = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 04", [
+    t4_hud = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][STATUE][M-PROJ][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -657,7 +657,7 @@ def build_reception_4():
     sections.append('---\n\n')
     
     # Turn 05 HUD
-    t5_hud = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 05", [
+    t5_hud = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — THE TSUNAMI OF LAMENT & SOLACE OVERDRIVE]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                 [SEIYON][STATUE][M-PROJ][LENS][WEAVER][TRENCH][SPIRE][PAGE]",
@@ -695,22 +695,22 @@ def build_reception_4():
     sections.append('---\n\n')
     
     # Turn 06 HUD
-    t6_hud = make_box("TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE MOURNER]",
+    t6_hud = make_box("TACTICAL STAGE HUD: READING 04 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE MOURNER]",
         "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
         "[PORTAL]                         [SEIYON] [STATUE][M-PROJ][LENS][WEAVER][STAIRS][PAGE]",
         "---",
         "- Node 05: The Weeping Statue (PACIFIED & DISSOLVING TO WARM RAIN)",
         "- Node 06: Seiyon (Floor Realization 4: 'Tears Acknowledged Become Hope')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Mourner]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Mourner]",
         "- Node 10: Spiral Alabaster Staircase (Pathway to Floor 05 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
     sections.append(wrap_box(t6_hud))
     
-    sections.append("### Turn 06 Action Resolution Log (Floor Realization 4 & Key Page: The Mourner)\n")
+    sections.append("### Turn 06 Action Resolution Log (Floor Realization 4 & Memory Leaf: The Mourner)\n")
     sections.append("- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:\n")
     sections.append("  * Hostile intent drops to zero. Posture reaches **0/320 [TERMINAL TRANSMUTATION]**.\n")
     sections.append("- **Step 2: Spatial Movement & Action Point Allocation**:\n")
@@ -720,10 +720,10 @@ def build_reception_4():
     sections.append("  * Inside Seiyon's cognitive matrix, the realization crystallizes:\n")
     sections.append('    > *"Grief is not a weakness to be purged by steel and programming. It is the proof that what was lost possessed infinite value. If we freeze our tears to survive, we survive as corpses. To mourn is to honor the living."*\n')
     sections.append("  * **FLOOR REALIZATION 4 ACHIEVED!**\n")
-    sections.append("  * The Weeping Statue's marble body softens, dissolving into thousands of warm, luminous droplets that condense into a glowing sapphire-bound volume: **`[Key Page: The Mourner]`**!\n")
+    sections.append("  * The Weeping Statue's marble body softens, dissolving into thousands of warm, luminous droplets that condense into a glowing sapphire-bound volume: **`[Memory Leaf: The Mourner]`**!\n")
     sections.append("  * Deals **510 Peaceful Harmony**! Boss HP drops to 0!\n")
     sections.append("- **Step 4: Operational Artifact Extraction & Floor Access**:\n")
-    sections.append("  * **Key Page Acquired**: `[Key Page: The Mourner]` (Inflicts +30% Posture Strain on frenzied enemies and quenches incoming thermal damage).\n")
+    sections.append("  * **Memory Leaf Acquired**: `[Memory Leaf: The Mourner]` (Inflicts +30% Posture Strain on frenzied enemies and quenches incoming thermal damage).\n")
     sections.append("  * **Descent Access**: The alabaster altar parts in the center of the warm pool, revealing a spiral staircase of crystalline glass descending to **Floor 05: Floor of Severed Truth**.\n")
     sections.append("  * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.\n\n")
     sections.append('---\n\n')
@@ -739,8 +739,8 @@ def build_reception_4():
     sections.append("## Chapter VII: Operational Artifact Extraction & Stairway Ingress\n\n")
     sections.append("At the center of the drained altar, the alabaster flagstones descended into a narrow, prismatic shaft. Light from below was not golden or blue, but sharp, multi-hued, and blindingly clear: **Floor 05: Floor of Severed Truth (-2,950m)**. Faint acoustic pulses—like the ringing of diamond chimes—echoed from the depths.\n\n")
     
-    reward_box = make_box("MNEMONIC HARVEST: KEY PAGE THE MOURNER", [
-        "ACQUIRED REQUISITION : [Key Page: The Mourner]",
+    reward_box = make_box("MNEMONIC HARVEST: MEMORY LEAF THE MOURNER", [
+        "ACQUIRED REQUISITION : [Memory Leaf: The Mourner]",
         "PRIMARY WEAR CLASS  : Grade Beta Mnemonic Core Inscription",
         "PASSIVE AFFINITIES   : Void 1.0x (Normal), Lament 0.5x (Resistant),",
         "                     Weight 1.0x (Normal), Grudge 1.5x (Endure)",
@@ -758,17 +758,17 @@ def build_reception_4():
     ])
     sections.append(wrap_box(reward_box))
     
-    sections.append("Seiyon bound `[Key Page: The Mourner]` to her primary mnemonic core. The light around her avatar softened into a gentle, luminous azure, radiating warmth that banished the subterranean chill from the air. She motioned to the drone and stepped down into the crystal shaft, ready to face the severed truth of the Directorate's founding sin.\n")
+    sections.append("Seiyon bound `[Memory Leaf: The Mourner]` to her primary mnemonic core. The light around her avatar softened into a gentle, luminous azure, radiating warmth that banished the subterranean chill from the air. She motioned to the drone and stepped down into the crystal shaft, ready to face the severed truth of the Directorate's founding sin.\n")
     
     return "".join(sections)
 
 if __name__ == "__main__":
     content_3 = build_reception_3()
-    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reception_3_Forgotten_Soldier.md", "w", encoding="utf-8") as f:
+    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reading_3_Forgotten_Soldier.md", "w", encoding="utf-8") as f:
         f.write(content_3)
-    print("Reception 3 expanded successfully!")
+    print("Reading 3 expanded successfully!")
     
     content_4 = build_reception_4()
-    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reception_4_Weeping_Statue.md", "w", encoding="utf-8") as f:
+    with open("SOMNARAK-WORLD/Gieok_Jeojangso/Reading_4_Weeping_Statue.md", "w", encoding="utf-8") as f:
         f.write(content_4)
-    print("Reception 4 expanded successfully!")
+    print("Reading 4 expanded successfully!")

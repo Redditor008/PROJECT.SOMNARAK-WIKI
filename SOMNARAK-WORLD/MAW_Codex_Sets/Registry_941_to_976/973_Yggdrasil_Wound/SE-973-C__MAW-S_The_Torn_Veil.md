@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-973` — Yggdrasil Wound  
 **Source SECC Designation:** `O-Iα-973 [VS]`  
 **Item Registry Code:** `MAW-S-973-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Yggdrasil Wound — Witnessed Form*, The Torn Veil performs the suit rol
 **Document ID:** `SE-973-C`  
 **Linked Entity:** `SE-973`  
 **Item Registry Code:** `MAW-S-973-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

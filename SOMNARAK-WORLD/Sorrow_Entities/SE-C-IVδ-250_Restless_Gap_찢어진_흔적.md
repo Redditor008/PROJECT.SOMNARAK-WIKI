@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Personnel report longing for memories they cannot identify.
 - It becomes more active during the Sorrow Tide.
 
-**Personnel Note:** *"It was quiet. I felt longing. I wanted to remember the missing part, but the Trace taught me that an empty space is not permission to invent."* — Agent, Zone B patrol
+**Personnel Note:** *"It was quiet. I felt longing. I wanted to remember the missing part, but the Trace taught me that an empty space is not permission to invent."* — Specialist, Zone B patrol
 
 
 

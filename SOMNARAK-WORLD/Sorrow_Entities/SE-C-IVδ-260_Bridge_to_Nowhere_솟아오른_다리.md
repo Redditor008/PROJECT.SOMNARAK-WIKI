@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It may appear over flat ground.
 - Personnel report sorrow after crossing, even if the crossing felt joyful.
 
-**Personnel Note:** *"It was singing. I felt sorrow. The song belonged to people who had crossed it so often that the bridge remembered them better than the city did."* — Agent, Zone D patrol
+**Personnel Note:** *"It was singing. I felt sorrow. The song belonged to people who had crossed it so often that the bridge remembered them better than the city did."* — Specialist, Zone D patrol
 
 
 

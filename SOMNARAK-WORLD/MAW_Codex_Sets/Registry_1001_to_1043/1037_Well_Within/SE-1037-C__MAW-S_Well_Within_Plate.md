@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1037` — Well Within  
 **Source SECC Designation:** `C-IVδ-869 [GS]`  
 **Item Registry Code:** `MAW-S-1037-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Well Within — Witnessed Form*, Well Within Plate performs the suit rol
 **Document ID:** `SE-1037-C`  
 **Linked Entity:** `SE-1037`  
 **Item Registry Code:** `MAW-S-1037-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

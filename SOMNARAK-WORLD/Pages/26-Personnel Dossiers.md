@@ -10,7 +10,7 @@ From frontline [Specialists](12-Specialists.md) who confront eldritch sorrow wit
 +========================================================================+
 | SOMNARAK - PERSONNEL DOSSIERS & SPECIALIST CADRES                      |
 +------------------------------------------------------------------------+
-| Personnel Hierarchy    | Specialists (Directable) - Auxiliaries (Clerks|
+| Personnel Hierarchy    | Specialists (Directable) - Auxiliaries        |
 | Specialist Ranks       | Rank I (Recruit) to Rank V (Veteran) + EX-Elit|
 | Attribute Training     | Resilience (HP) - Clarity (SP) - Composure - R|
 | Department Officers    | Captain Badges & Aura Field Command Perks     |
@@ -24,7 +24,7 @@ From frontline [Specialists](12-Specialists.md) who confront eldritch sorrow wit
 - [2 Specialist Ranks and Attribute Thresholds](#2-specialist-ranks-and-attribute-thresholds)
 - [3 Attribute Stat Point Progression Matrix](#3-attribute-stat-point-progression-matrix)
 - [4 Departmental Captains and Officer Designations](#4-departmental-captains-and-officer-designations)
-- [5 Auxiliaries and Clerk Support Systems](#5-auxiliaries-and-clerk-support-systems)
+- [5 Auxiliaries and Auxiliary Support Systems](#5-auxiliaries-and-auxiliary-support-systems)
 - [6 Operative Customization and Lineages](#6-operative-customization-and-lineages)
 - [7 Casualty Protocols and Memorial Archiving](#7-casualty-protocols-and-memorial-archiving)
 - [8 Gallery](#8-gallery)
@@ -33,8 +33,8 @@ From frontline [Specialists](12-Specialists.md) who confront eldritch sorrow wit
 ## 1 Personnel Hierarchy and Classification
 
 Personnel within Facility 01 are strictly segregated into two functional classes:
-- **Specialists (Agents):** Directable combat operatives equipped with [M.A.W. Equipment](09-M.A.W.%20Equipment.md). They execute containment protocols, intercept breaching horrors, and subdue Ordeals.
-- **Auxiliaries (Clerks):** Non-directable logistical personnel stationed across departmental spires. Their continued survival projects positive morale auras across each floor.
+- **Specialists:** Directable combat operatives equipped with [M.A.W. Equipment](09-M.A.W.%20Equipment.md). They execute containment protocols, intercept breaching horrors, and subdue Ordeals.
+- **Auxiliaries:** Non-directable logistical personnel stationed across departmental spires. Their continued survival projects positive morale auras across each floor.
 
 ## 2 Specialist Ranks and Attribute Thresholds
 
@@ -67,12 +67,12 @@ When an operative remains stationed within a single department for multiple cons
 - **Department Captain:** The highest-ranking veteran becomes the floor's Captain, wearing an ornate departmental sash.
 - **Aura Field Buff:** The Captain emits an active aura that grants +10% Movement Speed and +5 HP/SP recovery to all squadmates in the same room.
 
-## 5 Auxiliaries and Clerk Support Systems
+## 5 Auxiliaries and Auxiliary Support Systems
 
 Though fragile, Auxiliaries play a vital role in facility stability:
-- **Morale Aura:** As long as 100% of a department's clerks are alive, all specialists in that department receive passive stat buffs (+5% Work Success, +5% Movement Speed).
-- **The Panicked Clerk Threat:** If clerk casualties exceed 50%, remaining clerks begin suffering mass panic, wandering hallways and agitating nearby containment units.
-- **Breach Bait:** High-threat Wail and Sovereign entities often prioritize slaughtering clerks, giving combat squads precious seconds to position heavy weapons.
+- **Morale Aura:** As long as 100% of a department's auxiliaries are alive, all specialists in that department receive passive stat buffs (+5% Work Success, +5% Movement Speed).
+- **The Panicked Auxiliary Threat:** If auxiliary casualties exceed 50%, remaining auxiliaries begin suffering mass panic, wandering hallways and agitating nearby containment units.
+- **Breach Bait:** High-threat Wail and Sovereign entities often prioritize slaughtering auxiliaries, giving combat squads precious seconds to position heavy weapons.
 
 ## 6 Operative Customization and Lineages
 

@@ -62,7 +62,7 @@ Nemo is Major γ, while all three canonical pieces are Grade β. The first stabl
 
 ## WITNESS RECORD
 
-At the Unlisted Arrival, a returned courier collapsed beneath the Alpha Tree while the registry denied his identity. Agent Haneulash Yoon used Nemo’s Blade to close his exposure wounds, but its numbness made her address him by his file number. Nemo reappeared four times. The cycle ended only when Marjuk recorded the courier’s spoken name as testimony—not as a reconstructed past—and the receiving team answered it.
+At the Unlisted Arrival, a returned courier collapsed beneath the Alpha Tree while the registry denied his identity. Specialist Haneulash Yoon used Nemo’s Blade to close his exposure wounds, but its numbness made her address him by his file number. Nemo reappeared four times. The cycle ended only when Marjuk recorded the courier’s spoken name as testimony—not as a reconstructed past—and the receiving team answered it.
 
 > *“An archive can confirm a history. It must never be allowed to decide whether the living person before it is real.”* — Archive Lead Marjuk
 

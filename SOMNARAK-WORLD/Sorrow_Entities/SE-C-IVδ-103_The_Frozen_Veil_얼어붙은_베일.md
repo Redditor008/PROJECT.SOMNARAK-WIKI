@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Personnel exposed for 20 minutes may require three days before feeling fully returns.
 
 **Personnel Note:**
-> *"I knew I loved my daughter. I could remember the fact. But for three days I could not remember what loving her felt like."* — Agent Iseulfros Kim, Alpha Tree deep storage
+> *"I knew I loved my daughter. I could remember the fact. But for three days I could not remember what loving her felt like."* — Specialist Iseulfros Kim, Alpha Tree deep storage
 
 
 
@@ -398,6 +398,6 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 ## Document Information
 
 **Document ID:** SE-C-IVδ-103
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4210
 **Classification:** Classified

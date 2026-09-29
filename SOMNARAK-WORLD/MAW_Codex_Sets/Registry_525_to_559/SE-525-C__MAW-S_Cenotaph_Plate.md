@@ -7,7 +7,7 @@
 **Document ID:** `SE-525-C`  
 **Linked Entity:** `SE-525` — Cenotaph  
 **Item Registry Code:** `MAW-S-525-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Cenotaph Plate is a crimson harness of Han iron with shared load channels ru
 **Document ID:** `SE-525-C`  
 **Linked Entity:** `SE-525`  
 **Item Registry Code:** `MAW-S-525-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

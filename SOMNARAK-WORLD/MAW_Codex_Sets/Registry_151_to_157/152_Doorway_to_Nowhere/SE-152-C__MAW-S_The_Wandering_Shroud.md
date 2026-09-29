@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / β — Moderate / Lament — Deep Blue |
 | Status | Active; return-partner issue only |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A deep-blue shroud with a thin charred seam that resembles a doorframe around the wearer’s shoulders. |
 | Active form | The seam creates a stable outline between a memory-room and the bearer’s current body. |
 | Recognition rule | A return-partner’s voice is required for the seam to show the present side of the threshold. |
@@ -87,7 +87,7 @@ Grey wore the Shroud during a Doorway contact that opened onto an old bedroom. T
 
 The Shroud is the present-body support of *Door With Return*. Requiem closes a false loop and Wandering Key opens limited passage; this suit makes sure a traveler has a side to return to.
 
-> *“The current room needs a witness before any remembered room is safe to enter.”* — Agent Iseulfros Kim
+> *“The current room needs a witness before any remembered room is safe to enter.”* — Specialist Iseulfros Kim
 
 ---
 

@@ -20,7 +20,7 @@
 | **Location** | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
 | **R.D. Observation Level** | 5 — Sovereign-grade monitoring (loop-anomaly) |
 
-> **Registry note:** Unknown Sorrow Entity registry, Entry 06. A **within-cycle (Absolvohan)** entity, not post-cycle. An ordinary R.D. Agent who began to remember the loops — an event that should be impossible for non-Echo-Core personnel. The remembering hollowed them. **Classification Echo-Core Eyes Only: this entity concerns the Cycle and must not be discussed outside Director clearance.**
+> **Registry note:** Unknown Sorrow Entity registry, Entry 06. A **within-cycle (Absolvohan)** entity, not post-cycle. An ordinary R.D. Specialist who began to remember the loops — an event that should be impossible for non-Echo-Core personnel. The remembering hollowed them. **Classification Echo-Core Eyes Only: this entity concerns the Cycle and must not be discussed outside Director clearance.**
 
 ## Operational Parameters
 
@@ -97,7 +97,7 @@
 - Taking a role or playing a scene lowers Clarity and may permanently seed loop-memories in the worker.
 - "Twist the Plot" can restage a past death; survivors report dreaming the loop for weeks.
 - The entity cannot be destroyed within a cycle — it returns next iteration. "Resolution" means enduring, not ending.
-- Sincere empathy (Flerehan) reaches the buried original Agent and is agonizing for both parties.
+- Sincere empathy (Flerehan) reaches the buried original Specialist and is agonizing for both parties.
 
 ## Appearance
 
@@ -231,7 +231,7 @@ Each M.A.W. piece carries the loop's central cost: detachment from the self. The
 - The entity cannot be destroyed within a cycle; it returns each iteration.
 
 **Personnel Note:**
-> *"It looked at me and called me 'the one who runs.' I had not decided to run. I ran anyway. It smiled without eyes and told me my blocking was improving."* — Agent [REDACTED], Hand of Change
+> *"It looked at me and called me 'the one who runs.' I had not decided to run. I ran anyway. It smiled without eyes and told me my blocking was improving."* — Specialist [REDACTED], Hand of Change
 
 ### Observation Progression
 
@@ -314,7 +314,7 @@ The Repeated Survivor must be assessed as a loop-anomaly within the Cycle's netw
 
 The first time, the agent did not know.
 
-They were an ordinary R.D. field agent — one of the hundreds who walked the Hand of Change each cycle, contained the entities, filed the reports, died when the loop required it, and woke the next morning with no memory of dying. That was the rule of the Absolvohan: only the Echo-Cores remembered. The agents were audience and cast both, rewritten each cycle, never knowing the play had been performed before.
+They were an ordinary R.D. field agent — one of the hundreds who walked the Hand of Change each cycle, contained the entities, filed the reports, died when the loop required it, and woke the next morning with no memory of dying. That was the rule of the Absolvohan: only the Echo-Cores remembered. The specialists were audience and cast both, rewritten each cycle, never knowing the play had been performed before.
 
 Then, on the twentieth iteration, the agent remembered.
 
@@ -332,7 +332,7 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 
 ## 증언 (Testimonium) — The Testimony
 
-> *"It called me 'the one who runs.' I had not decided to run. I ran anyway. It told me my blocking was improving."* — Agent [REDACTED], Hand of Change
+> *"It called me 'the one who runs.' I had not decided to run. I ran anyway. It told me my blocking was improving."* — Specialist [REDACTED], Hand of Change
 
 > *"We logged it dying in a corridor on Loop +241. It walked out of the same corridor on Loop +242, tidied its coat, and asked us whether the scene had read well."* — Researcher Euncris Park (은크리스 박), Echo-Core Eyes Only
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-941` — Grieving Love  
 **Source SECC Designation:** `N-IIIβ-941 [LS]`  
 **Item Registry Code:** `MAW-W-941-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Grieving Love — Witnessed Form*, The Comforting Coil performs the weap
 **Document ID:** `SE-941-B`  
 **Linked Entity:** `SE-941`  
 **Item Registry Code:** `MAW-W-941-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

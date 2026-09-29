@@ -31,7 +31,7 @@
 | Field | Record |
 |---|---|
 | Current-registry extraction | Year 4,238, Mask Market; the Dancer paused for one full breath after a partnered movement ended by choice |
-| Extraction authority | Zyrak, with Agent Kkotlom Lee serving as movement witness |
+| Extraction authority | Zyrak, with Specialist Kkotlom Lee serving as movement witness |
 | Entity state | Calm; no audience pressure and no forced performance |
 | Result | Four stable Tri-Dagger sets from the final crimson footprint echo |
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1010` — Icedrop  
 **Source SECC Designation:** `C-IIβ-102 [LO]`  
 **Item Registry Code:** `MAW-S-1010-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Icedrop — Witnessed Form*, The Frost-Veiled Mourning Gown performs the
 **Document ID:** `SE-1010-C`  
 **Linked Entity:** `SE-1010`  
 **Item Registry Code:** `MAW-S-1010-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

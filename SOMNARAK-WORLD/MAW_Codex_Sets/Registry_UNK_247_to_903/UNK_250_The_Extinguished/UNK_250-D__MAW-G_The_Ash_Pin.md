@@ -5,7 +5,7 @@
 **Document ID:** `UNK-250-D`  
 **Linked Entity:** `UNK-250` — The Extinguished  
 **Item Registry Code:** `MAW-G-UNK-250-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -39,7 +39,7 @@ A Head pin granted at **5%**: **β Grudge; +1 Composure.** It makes burnout fear
 **Document ID:** `UNK-250-D`  
 **Linked Entity:** `UNK-250`  
 **Item Registry Code:** `MAW-G-UNK-250-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

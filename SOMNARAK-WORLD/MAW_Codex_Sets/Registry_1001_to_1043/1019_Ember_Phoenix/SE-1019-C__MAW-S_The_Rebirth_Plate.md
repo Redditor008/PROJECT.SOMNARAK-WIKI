@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1019` — Ember Phoenix  
 **Source SECC Designation:** `O-IVδ-190 [GS]`  
 **Item Registry Code:** `MAW-S-1019-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Ember Phoenix — Witnessed Form*, The Rebirth Plate performs the suit r
 **Document ID:** `SE-1019-C`  
 **Linked Entity:** `SE-1019`  
 **Item Registry Code:** `MAW-S-1019-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

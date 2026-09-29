@@ -7,7 +7,7 @@
 **Document ID:** `SE-101-A`  
 **Related Entity ID:** `SE-101`  
 **SECC Designation:** `C-IIβ-101 [LS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted    
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ Emberling looks warm but is surrounded by a cold that settles in the wrists and 
 | Void | Low | The old story’s forgottenness makes the child’s outline thin at the edges. |
 | Weight | Low | Leaving can feel physically heavier than staying. |
 
-> *“It did not ask me to carry it. It only sat beside me until I remembered what warmth felt like.”* — Agent Haneulash Yoon
+> *“It did not ask me to carry it. It only sat beside me until I remembered what warmth felt like.”* — Specialist Haneulash Yoon
 
 ### Open questions
 
@@ -159,7 +159,7 @@ This set protects against cold and isolation without pretending that equipment c
 - **Understood:** Emberling is the forgotten sorrow of a child whose need for warmth was met by no one.
 - **Mastery condition:** Care must be reliable enough that the child is not used to teach personnel how to care.
 
-> *“The ember is not a reward for staying. It is proof that someone finally made staying safe.”* — Agent Haneulash Yoon
+> *“The ember is not a reward for staying. It is proof that someone finally made staying safe.”* — Specialist Haneulash Yoon
 
 ---
 
@@ -173,7 +173,7 @@ This set protects against cold and isolation without pretending that equipment c
 
 **Document ID:** `SE-101-A`  
 **Linked Entity:** `SE-101`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

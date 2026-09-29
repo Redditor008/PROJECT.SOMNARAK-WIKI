@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes more active during the Sorrow Tide.
 - Personnel feel fear before understanding that the Saint is not attacking.
 
-**Personnel Note:** *"It was waiting. I felt fear. Then I saw that it was afraid of becoming unnecessary."* — Agent, Zone E patrol
+**Personnel Note:** *"It was waiting. I felt fear. Then I saw that it was afraid of becoming unnecessary."* — Specialist, Zone E patrol
 
 
 

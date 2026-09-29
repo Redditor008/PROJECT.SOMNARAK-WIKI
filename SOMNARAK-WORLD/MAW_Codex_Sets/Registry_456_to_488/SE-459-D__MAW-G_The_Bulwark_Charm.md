@@ -7,7 +7,7 @@
 **Document ID:** `SE-459-D`  
 **Linked Entity:** `SE-459` — Bulwark  
 **Item Registry Code:** `MAW-G-459-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -32,7 +32,7 @@ The Bulwark Charm is a pale head-charm of Han glass that warms near patient, con
 **Document ID:** `SE-459-D`  
 **Linked Entity:** `SE-459`  
 **Item Registry Code:** `MAW-G-459-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The heartbeat appears during rain.
 - Personnel report longing and incomplete hope.
 
-**Personnel Note:** *"It was mourning. I felt rage. The Seed had been lost before anyone could decide whether it would live."* — Agent, Zone C patrol
+**Personnel Note:** *"It was mourning. I felt rage. The Seed had been lost before anyone could decide whether it would live."* — Specialist, Zone C patrol
 
 
 

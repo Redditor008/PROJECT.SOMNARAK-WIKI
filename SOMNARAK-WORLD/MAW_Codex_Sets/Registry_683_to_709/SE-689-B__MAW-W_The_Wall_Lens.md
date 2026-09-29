@@ -4,7 +4,7 @@
 **Document ID:** `SE-689-B`  
 **Linked Entity:** `SE-689` — Face Beneath Masks  
 **Item Registry Code:** `MAW-W-689-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ The Wall Lens is a pale disc of Han glass that opens one consented wall segment 
 **Document ID:** `SE-689-B`  
 **Linked Entity:** `SE-689`  
 **Item Registry Code:** `MAW-W-689-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

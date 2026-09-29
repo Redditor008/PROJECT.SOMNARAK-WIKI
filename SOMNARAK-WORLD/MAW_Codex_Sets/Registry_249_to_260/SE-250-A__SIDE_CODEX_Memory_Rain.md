@@ -7,7 +7,7 @@
 **Document ID:** `SE-250-A`  
 **Related Entity ID:** `SE-250`  
 **SECC Designation:** `C-IIβ-250 [LP]`  
-**Author:** Agent Kkotlom Lee, Echo Gardens Patrol  
+**Author:** Specialist Kkotlom Lee, Echo Gardens Patrol  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
@@ -36,7 +36,7 @@
 
 The drops drift from clear skies and smell faintly of rain on old flowers. They do not wet skin. Each dissolves into a brief foreign memory—face, voice, place, or feeling—then may crystallize after landing. Intensity rises during Sorrow Tides.
 
-> *“The Gardens are not remembering for us. They are returning what the city could no longer carry.”* — Agent Kkotlom Lee
+> *“The Gardens are not remembering for us. They are returning what the city could no longer carry.”* — Specialist Kkotlom Lee
 
 **Correction:** Heavy rain can overwhelm unanchored personnel until no one knows whose life they are experiencing.
 
@@ -106,7 +106,7 @@ A drop may be shaped only after it lands, crystallizes, and is catalogued withou
 
 **Document ID:** `SE-250-A`  
 **Linked Entity:** `SE-250`  
-**Author:** Agent Kkotlom Lee  
+**Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

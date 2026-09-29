@@ -71,7 +71,7 @@ Each full impact adds a moment of the dead workers’ final fatigue to the beare
 ## INCIDENT HISTORY
 
 **Incident:** The East Span Collapse, Year 4,237  
-**Bearer:** Senior Agent Taehoon Graves  
+**Bearer:** Senior Specialist Taehoon Graves  
 **Outcome:** The Maul opened a line through three Han-hardened support failures, allowing 41 civilians to leave the projected Colossus route. Graves could not stand unassisted afterward and spent two days asleep in the Memorial Clinic.
 
 ---

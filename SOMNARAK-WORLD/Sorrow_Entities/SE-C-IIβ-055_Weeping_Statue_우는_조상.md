@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The Echo Gardens' visitors often return without speaking.
 
 **Personnel Note:**
-> *"I did not know what I was crying for. The Statue did not ask. It simply made room for the tears."* — Agent Haneulash Yoon, Echo Gardens
+> *"I did not know what I was crying for. The Statue did not ask. It simply made room for the tears."* — Specialist Haneulash Yoon, Echo Gardens
 
 
 

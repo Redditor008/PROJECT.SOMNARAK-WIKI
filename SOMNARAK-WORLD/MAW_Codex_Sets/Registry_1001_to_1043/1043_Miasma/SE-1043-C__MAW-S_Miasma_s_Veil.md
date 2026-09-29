@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1043` — Miasma  
 **Source SECC Designation:** `C-IVδ-922 [LH]`  
 **Item Registry Code:** `MAW-S-1043-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Miasma — Witnessed Form*, Miasma's Veil performs the suit role while t
 **Document ID:** `SE-1043-C`  
 **Linked Entity:** `SE-1043`  
 **Item Registry Code:** `MAW-S-1043-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

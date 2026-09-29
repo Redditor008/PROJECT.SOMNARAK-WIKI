@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1030` — The First Tear  
 **Source SECC Designation:** `C-Vδ-290 [LO]`  
 **Item Registry Code:** `MAW-W-1030-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The First Tear — Witnessed Form*, The First Requiem performs the weapo
 **Document ID:** `SE-1030-B`  
 **Linked Entity:** `SE-1030`  
 **Item Registry Code:** `MAW-W-1030-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

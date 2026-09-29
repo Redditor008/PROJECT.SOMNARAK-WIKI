@@ -7,7 +7,7 @@
 **Document ID:** `SE-219-C`  
 **Linked Entity:** `SE-219` — Splinter  
 **Item Registry Code:** `MAW-S-219-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -60,7 +60,7 @@ The Shroud holds the human channel open during *The Crack Was Not the Wound*. Re
 **Document ID:** `SE-219-C`  
 **Linked Entity:** `SE-219`  
 **Item Registry Code:** `MAW-S-219-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

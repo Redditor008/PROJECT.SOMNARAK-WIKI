@@ -164,9 +164,9 @@ The Judge is the most directly lethal Tide Watch Ordeal in the system. It does n
 
 > *"I was the interrupt. I had to watch for the hand. Two seconds — that's the window. If I miss, someone gets pointed at, and then someone gets Executed. I didn't miss. But I felt the weight of that hand every time it rose, like the whole city's guilt was pulling my arm down."* — Sentinel Harin, Echo-Core interrupt team
 
-> *"The bailiffs are the easy part. The Judge is the hard part. The bailiffs just fight. The Judge... judges."* — Agent Durivel Cho, bailiff suppression
+> *"The bailiffs are the easy part. The Judge is the hard part. The bailiffs just fight. The Judge... judges."* — Specialist Durivel Cho, bailiff suppression
 
-> *"I survived the Execution. Echo-Core M.A.W., maximum grade, direct hit. The blade went through me and I didn't die — but I felt it cut something. Not my body. Something deeper. I have the handprint. It hasn't faded. I don't think it ever will."* — Agent Haneulash Yoon, Echo-Core
+> *"I survived the Execution. Echo-Core M.A.W., maximum grade, direct hit. The blade went through me and I didn't die — but I felt it cut something. Not my body. Something deeper. I have the handprint. It hasn't faded. I don't think it ever will."* — Specialist Haneulash Yoon, Echo-Core
 
 > *"The courtroom effect lasts for weeks. We had to close the east corridor for a month. Personnel kept stopping mid-step, overwhelmed by... guilt. For things they hadn't done. For things nobody had done. The Judge doesn't just kill you. It makes the ground remember that you were judged."* — Auditor Yuna, facility impact assessment
 

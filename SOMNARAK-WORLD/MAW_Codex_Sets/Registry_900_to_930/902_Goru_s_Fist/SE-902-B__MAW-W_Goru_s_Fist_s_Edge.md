@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-902` — Goru's Fist  
 **Source SECC Designation:** `C-IIIγ-902 [GO]`  
 **Item Registry Code:** `MAW-W-902-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Goru's Fist — Witnessed Form*, Goru's Fist's Edge performs the weapon 
 **Document ID:** `SE-902-B`  
 **Linked Entity:** `SE-902`  
 **Item Registry Code:** `MAW-W-902-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

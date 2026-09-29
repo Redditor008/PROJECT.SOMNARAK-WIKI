@@ -7,7 +7,7 @@
 **Document ID:** `SE-102-D`  
 **Linked Entity:** `SE-102` — The Dancing Chains  
 **Item Registry Code:** `MAW-G-102-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, paired shoes / γ — Major / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; two-person removal rule in force |
-| Known bearer | Agent Nari Kwon |
+| Known bearer | Specialist Nari Kwon |
 | Resting form | A pair of compact crimson Han-iron shoes with flexible dark soles and no visible laces. |
 | Active form | The soles leave a faint red cadence on the floor and answer hazards before the wearer consciously shifts weight. |
 | Recognition rule | Each shoe contains one open chain-link mark; both must be open for the wearer to stand still. |
@@ -84,14 +84,14 @@ Kwon wore the Shoes to lead a trapped response team through a damaged service pa
 
 The Shoes are the acceleration risk of *Interruption*. They become safe only beside the Plate’s external stop rule and the Fang’s requirement that an actual exit exists.
 
-> *“Do not admire how fast a person moves until you know who will help them stop.”* — Agent Durivel Cho
+> *“Do not admire how fast a person moves until you know who will help them stop.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-102-D`  
 **Linked Entity:** `SE-102`  
 **Item Registry Code:** `MAW-G-102-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

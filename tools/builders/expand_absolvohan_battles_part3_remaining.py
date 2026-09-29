@@ -2,7 +2,7 @@
 """
 tools/expand_absolvohan_battles_part3_remaining.py
 Expands remaining Ordeals in SOMNARAK-WORLD/The_Absolvohan/Part_3_Days_29_to_49.md:
-1. Third Watch (Dusk) Ordeal — The Gilded Drowners
+1. Third Watch Ordeal — The Gilded Drowners
 2. Amber Third Watch Ordeal — The Churning Hive
 3. The Midnight Herald — First Glimpse of the Sovereign Watch
 """
@@ -43,8 +43,8 @@ box_drowners_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET DUS
     "DIST    : Mellda at N03 (Band 1); Park at N04 (Band 2); Hwang at N06.",
     "---",
     "Border Lead Mellda: Speed 5 -> 3 AP | HP: 190/190 | SP: +30 | Threshold Vow",
-    "Agent Park        : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Lament Requiem",
-    "Agent Hwang       : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Observing Scepter",
+    "Specialist Park        : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Lament Requiem",
+    "Specialist Hwang       : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Observing Scepter",
     "Gilded Monument   : Speed 4 -> 2 AP | HP: 340/340 | Sorrow: 60% | Void Beam"
 ])
 
@@ -60,10 +60,10 @@ box_drowners_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "1. Environmental Check : Tri-sector Void conduits discharge and power down.",
     "2. Status Equilibrium : Hallway radiation dissipates; team SP rises to +35.",
     "3. Containment Check   : All 3 monuments reduced to pulverized slag.",
-    "4. OUTCOME             : ZERO AGENT CASUALTIES, +22 REFINED RHR SECURED."
+    "4. OUTCOME             : ZERO SPECIALIST CASUALTIES, +22 REFINED RHR SECURED."
 ])
 
-old_drowners = """##### Ordeal Manifestation: Third Watch (Dusk) Ordeal — The Gilded Drowners
+old_drowners = """##### Ordeal Manifestation: Third Watch Ordeal — The Gilded Drowners
 At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Third Watch Ordeal has arrived:
 
 ```text
@@ -73,13 +73,13 @@ At 0.145 tons harvested, the facility's emergency sirens shift from amber to vio
 ```
 
 This requires split suppression teams:
-- **Floor 1 Monolith**: Suppressed by Agent Hwang and Agent Lee using Void-resistant loadouts.
-- **Floor 3 Monolith**: Suppressed by Agent Song and Agent Choi from Range Band 3 with bows.
-- **Floor 5 Monolith**: Mellda and Agent Park engage in point-blank melee. Mellda tanks the laser discharge with *Iron Perimeter*, while Park shatters the monument with four heavy maul swings!
+- **Floor 1 Monolith**: Suppressed by Specialist Hwang and Specialist Lee using Void-resistant loadouts.
+- **Floor 3 Monolith**: Suppressed by Specialist Song and Specialist Choi from Range Band 3 with bows.
+- **Floor 5 Monolith**: Mellda and Specialist Park engage in point-blank melee. Mellda tanks the laser discharge with *Iron Perimeter*, while Park shatters the monument with four heavy maul swings!
 
 All three monoliths collapse simultaneously into inert slag! +22 RHR reagents collected!"""
 
-new_drowners = f"""##### Ordeal Manifestation: Third Watch (Dusk) Ordeal — The Gilded Drowners
+new_drowners = f"""##### Ordeal Manifestation: Third Watch Ordeal — The Gilded Drowners
 At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Third Watch Ordeal has arrived:
 
 ```text
@@ -101,7 +101,7 @@ Three colossal gilded monuments materialize across Floors 1, 3, and 5, aiming hi
 Director Majin establishes coordinated GBS tactical commands:
 - **Floor 1 Team**: Hwang & Lee lock down the lower data junction.
 - **Floor 3 Team**: Song & Choi suppress the processing corridor from Range Band 3.
-- **Floor 5 Strike Force**: Lead Mellda and Agent Park advance directly into Point-Blank range.
+- **Floor 5 Strike Force**: Lead Mellda and Specialist Park advance directly into Point-Blank range.
 
 ```text
 {box_drowners_hud}
@@ -112,14 +112,14 @@ Director Majin establishes coordinated GBS tactical commands:
   * Mellda deploys *The Bulwark Perimeter*, erecting golden barriers over Nodes 2 through 4 that nullify Void laser penetration by 40%.
 - **Step 2: Movement & Action Point Spending**:
   * Border Lead Mellda (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to brace *Threshold Vow* in reflective parry stance.
-  * Agent Park (Speed 6 -> 3 AP) advances to Node 3 behind Mellda. Spends 2 AP to prepare `[Lament Requiem Resonant Crush]`. Remaining 1 AP held in Guard.
-  * Agent Hwang (Speed 5 -> 3 AP) takes Node 6 (Range Band 3). Spends 2 AP to prepare concentrated Void disruption targeting the monument's optical crown.
+  * Specialist Park (Speed 6 -> 3 AP) advances to Node 3 behind Mellda. Spends 2 AP to prepare `[Lament Requiem Resonant Crush]`. Remaining 1 AP held in Guard.
+  * Specialist Hwang (Speed 5 -> 3 AP) takes Node 6 (Range Band 3). Spends 2 AP to prepare concentrated Void disruption targeting the monument's optical crown.
 - **Step 3: Clash Resolution (Node 2)**:
   * Gilded Monument declares `[Oblivion Prismatic Lance]` on Node 2 (Base 8 + 2 Coins = 12 Power).
   * Mellda's `[Threshold Vow Reflective Parry]` (Base 10 + 2 Coins = 14 Power).
   * **Resolution**: Mellda WINS THE CLASH (14 vs 12).
     * Mellda's spearhead refracts the purple laser into the ceiling, creating an opening.
-  * Agent Park follows with `[Lament Requiem Resonant Crush]` unopposed:
+  * Specialist Park follows with `[Lament Requiem Resonant Crush]` unopposed:
     * The massive acoustic hammer strikes the monument's pedestal, dealing **44 direct Lament damage** and inflicting +24 Stagger!
 
 ```text
@@ -147,8 +147,8 @@ box_hive_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER DUSK)", 
     "DIST    : Mellda at N03 (Band 1); Hwang at N04 (Band 2); Bae at N06.",
     "---",
     "Border Lead Mellda: Speed 5 -> 3 AP | HP: 195/195 | SP: +30 | Threshold Vow",
-    "Agent Hwang       : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Blessed Scalpel",
-    "Agent Bae         : Speed 5 -> 3 AP | HP: 130/130 | SP: +25 | Bulwark Maul",
+    "Specialist Hwang       : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Blessed Scalpel",
+    "Specialist Bae         : Speed 5 -> 3 AP | HP: 130/130 | SP: +25 | Bulwark Maul",
     "The Churning Hive : Speed 4 -> 2 AP | HP: 380/380 | Sorrow: 65% | Earth Maw"
 ])
 
@@ -164,7 +164,7 @@ box_hive_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "1. Environmental Check : Sector 5 floorplates sealed; subterranean grates locked.",
     "2. Status Equilibrium : Tremor vibrations cease; team SP stabilizes at +35.",
     "3. Containment Check   : Queen burrower fully dissolved into crystallized dust.",
-    "4. OUTCOME             : ZERO AGENT CASUALTIES, +25 REFINED RHR SECURED."
+    "4. OUTCOME             : ZERO SPECIALIST CASUALTIES, +25 REFINED RHR SECURED."
 ])
 
 old_hive = """##### Ordeal Manifestation: Amber Third Watch Ordeal — The Churning Hive
@@ -176,7 +176,7 @@ At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented c
 > TACTICAL INTERVENTION: Mellda anchors the choke point at Sector 5 Gate!
 ```
 
-Mellda activates *Iron Perimeter* at maximum aperture, holding the two primary burrowers in the doorway. Agent Hwang circles around their rear flanks, using the *Blessed Scalpel*'s rapid Void strikes to pierce their chitinous armor plates. In 25 seconds of blistering combat, the queen burrower dissolves into crystallized Han dust! +25 RHR reagents secured!"""
+Mellda activates *Iron Perimeter* at maximum aperture, holding the two primary burrowers in the doorway. Specialist Hwang circles around their rear flanks, using the *Blessed Scalpel*'s rapid Void strikes to pierce their chitinous armor plates. In 25 seconds of blistering combat, the queen burrower dissolves into crystallized Han dust! +25 RHR reagents secured!"""
 
 new_hive = f"""##### Ordeal Manifestation: Amber Third Watch Ordeal — The Churning Hive
 At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented centipedes burst through the flagstones of Floor 5 and Floor 6:
@@ -208,14 +208,14 @@ Director Majin establishes GBS tactical positioning:
   * Mellda engages *Blast Gate Lockdown*, dropping heavy steel portcullises at Node 4 to isolate Nodes 1–3 and trap the beast in the gateway vestibule.
 - **Step 2: Movement & Action Point Spending**:
   * Border Lead Mellda (Speed 5 -> 3 AP) stands firm at Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Threshold Vow Bulwark Stance]`.
-  * Agent Hwang (Speed 6 -> 3 AP) spends 1 AP to shift from Node 4 to Node 2 behind the beast's rear segment. Spends 2 AP to ready `[Blessed Scalpel Void Dissection]`.
-  * Agent Bae (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to wind up `[Bulwark Maul Ground Breaker]`. Remaining 1 AP held in Guard.
+  * Specialist Hwang (Speed 6 -> 3 AP) spends 1 AP to shift from Node 4 to Node 2 behind the beast's rear segment. Spends 2 AP to ready `[Blessed Scalpel Void Dissection]`.
+  * Specialist Bae (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to wind up `[Bulwark Maul Ground Breaker]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * The Churning Hive declares `[Tectonic Mandible Crush]` on Node 3 (Base 9 + 2 Coins = 13 Power).
   * Mellda's `[Threshold Vow Bulwark Stance]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Mellda WINS THE CLASH (15 vs 13).
     * Mellda's golden arm-blade locks the centipede's primary mandibles. The counter-force reverberates through the beast's chitinous segments, dealing 36 Grudge damage and inflicting +24 Stagger!
-  * Agent Hwang strikes from Node 2 unopposed, driving the *Blessed Scalpel* deep into the exposed ventral joint for **42 Void damage**!
+  * Specialist Hwang strikes from Node 2 unopposed, driving the *Blessed Scalpel* deep into the exposed ventral joint for **42 Void damage**!
 
 ```text
 {box_hive_turns}
@@ -243,8 +243,8 @@ box_herald_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (SOVEREIGN MI
     "---",
     "Archive Lead Marjuk: Speed 5 -> 3 AP | HP: 200/200 | SP: +40 | Chrono Stasis",
     "The Exile Xyan     : Speed 6 -> 3 AP | HP: 210/210 | SP: +45 | Singularity Arc",
-    "Agent Hwang        : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Blessed Scalpel",
-    "Agent Park         : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Lament Requiem",
+    "Specialist Hwang        : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Blessed Scalpel",
+    "Specialist Park         : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Lament Requiem",
     "Final Door Echo    : Speed 5 -> 3 AP | HP: 520/520 | Sorrow: 75% | Void Pulse"
 ])
 
@@ -272,7 +272,7 @@ At 0.205 tons harvested, the lights across the vertical spine cut to complete da
 > TACTICAL RESPONSE: Marjuk and Xyan activate Deep Vault stasis wards!
 ```
 
-Marjuk anchors the Archive stasis field while Agent Hwang and Agent Park deploy to the lower elevator shaft, holding the boundary line until the harmonic pulse dissipates back into the bedrock. +30 RHR reagents collected!"""
+Marjuk anchors the Archive stasis field while Specialist Hwang and Specialist Park deploy to the lower elevator shaft, holding the boundary line until the harmonic pulse dissipates back into the bedrock. +30 RHR reagents collected!"""
 
 new_herald = f"""##### Ordeal Manifestation: The Midnight Herald — First Glimpse of the Sovereign Watch
 At 0.205 tons harvested, the lights across the vertical spine cut to complete darkness. A deep, subterranean bell tolls from beneath Floor 8:
@@ -306,8 +306,8 @@ Director Majin establishes Deep Vault GBS tactical parameters:
 - **Step 2: Movement & Action Point Spending**:
   * Archive Lead Marjuk (Speed 5 -> 3 AP) holds Node 3 (Range Band 1). Spends 2 AP to maintain the chronological clamp.
   * The Exile Xyan (Speed 6 -> 3 AP) stands at Node 10, spending 2 AP to channel gravitational ballast downward.
-  * Agent Hwang (Speed 6 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to declare `[Blessed Scalpel Precision Void Dissection]`.
-  * Agent Park (Speed 6 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to ready `[Lament Requiem Resonant Wave]`.
+  * Specialist Hwang (Speed 6 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to declare `[Blessed Scalpel Precision Void Dissection]`.
+  * Specialist Park (Speed 6 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to ready `[Lament Requiem Resonant Wave]`.
 - **Step 3: Clash Resolution (Node 1 to 3)**:
   * Final Door Echo attempts `[Chime of the Before-Time]` (Base 10 + 2 Coins = 14 Power).
   * Marjuk's `[Chrono Stasis Seal]` (Base 11 + 2 Coins = 15 Power).
@@ -323,7 +323,7 @@ Director Majin establishes Deep Vault GBS tactical parameters:
 {box_herald_phase}
 ```
 
-Marjuk anchors the Archive stasis field while Agent Hwang and Agent Park deploy to the lower elevator shaft, holding the boundary line until the harmonic pulse dissipates back into the bedrock. +30 RHR reagents collected!"""
+Marjuk anchors the Archive stasis field while Specialist Hwang and Specialist Park deploy to the lower elevator shaft, holding the boundary line until the harmonic pulse dissipates back into the bedrock. +30 RHR reagents collected!"""
 
 if old_herald in text:
     text = text.replace(old_herald, new_herald)

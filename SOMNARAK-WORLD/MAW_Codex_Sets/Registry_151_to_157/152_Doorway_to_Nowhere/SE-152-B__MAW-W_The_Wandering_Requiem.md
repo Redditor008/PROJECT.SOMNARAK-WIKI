@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / β — Moderate / Lament — Deep Blue |
 | Status | Active; physical return partner required |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Nari Kwon |
+| Current bearer | Specialist Nari Kwon |
 | Resting form | A slender blue blade with a charred door-grain pattern beneath the glass. |
 | Active form | The pattern opens into a narrow threshold line that points toward the bearer’s current return route. |
 | Recognition rule | The blade stays quiet until the bearer names the current room and the person holding the return point. |

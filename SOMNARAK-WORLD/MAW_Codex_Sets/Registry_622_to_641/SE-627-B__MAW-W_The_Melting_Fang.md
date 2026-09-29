@@ -7,7 +7,7 @@
 **Document ID:** `SE-627-B`  
 **Linked Entity:** `SE-627` — Harvest Beyond the Gate  
 **Item Registry Code:** `MAW-W-627-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -63,14 +63,14 @@ A sweet-char scent now precedes every misdirected swing.
 
 Seed names desire, Plate bears resentment, and Fang opens a present route. Full resonance ends with decay, never transport or planting.
 
-> *“The weapon could free a road. It could not make that road return anyone’s kitchen.”* — Agent Durivel Cho
+> *“The weapon could free a road. It could not make that road return anyone’s kitchen.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-627-B`  
 **Linked Entity:** `SE-627`  
 **Item Registry Code:** `MAW-W-627-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

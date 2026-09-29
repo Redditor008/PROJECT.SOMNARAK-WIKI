@@ -7,7 +7,7 @@
 **Document ID:** `SE-392-B`  
 **Linked Entity:** `SE-392` — Mirror of Rising  
 **Item Registry Code:** `MAW-W-392-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Rising Hammer is a black hammer of Han steel whose reflection rises before t
 **Document ID:** `SE-392-B`  
 **Linked Entity:** `SE-392`  
 **Item Registry Code:** `MAW-W-392-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

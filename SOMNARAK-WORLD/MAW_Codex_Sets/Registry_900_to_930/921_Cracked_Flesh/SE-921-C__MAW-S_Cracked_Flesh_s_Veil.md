@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-921` — Cracked Flesh
 **Source SECC Designation:** `C-IIIγ-921 [GH]`
 **Item Registry Code:** `MAW-S-921-01`
-**Author:** Agent Iseulfros Kim
+**Author:** Specialist Iseulfros Kim
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Cracked Flesh — Witnessed Form*, The Suture-Cracked Hauberk performs t
 **Document ID:** `SE-921-C`
 **Linked Entity:** `SE-921`
 **Item Registry Code:** `MAW-S-921-01`
-**Author:** Agent Iseulfros Kim
+**Author:** Specialist Iseulfros Kim
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

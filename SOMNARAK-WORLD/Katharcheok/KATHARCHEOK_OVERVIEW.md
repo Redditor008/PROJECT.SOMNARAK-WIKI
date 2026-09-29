@@ -263,7 +263,7 @@ The UCD Strike Cadre brings together six specialists whose personal lives have b
   * *Climax Overdrive: [Restoration of the Stolen Soul]* (Cost: 30 SP): Minho releases a cloud of crystalline memory butterflies that swarm across the battlefield. Enemies suffer 550 psychic resonance damage and are blinded for 2 turns. All allies recover 40 SP and gain the [Clarity of Purpose] buff (+3 Clash Power).
 
 ### 4.4 Handler Soojin (수진) — "The Lead Binder"
-- **Institutional Background:** Lead External Field Agent, Reverie Directorate (Containment & Extraction Division). Soojin is the R.D.'s premier in-field pacifier, responsible for capturing high-hazard Sorrow Entities outside laboratory conditions. She has seen firsthand the horrific consequences of syndicates tormenting entities into berserk weapons and refuses to allow either criminals or corrupt politicians to exploit emotional grief.
+- **Institutional Background:** Lead External Field Specialist, Reverie Directorate (Containment & Extraction Division). Soojin is the R.D.'s premier in-field pacifier, responsible for capturing high-hazard Sorrow Entities outside laboratory conditions. She has seen firsthand the horrific consequences of syndicates tormenting entities into berserk weapons and refuses to allow either criminals or corrupt politicians to exploit emotional grief.
 - **Tactical Combat Role:** Crowd Controller, Entity Suppressor, and Biological Armor Debuffer.
 - **Signature M.A.W. Armament:** *Leaded-Basalt Cask Gauntlets* & *Resonance Snare Lash*.
 - **Base Combat Attributes:** Max HP: 3,600 | Composure (SP): 50 | Base Speed: 2–6 | Defense Multiplier: 0.85 | Blunt/Slash/Pierce Affinities: [Resonance: Ineffective, Blunt: Normal, Slash: Vulnerable].

@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It warms when grief is acknowledged.
 - No one has identified the original mourner.
 
-**Personnel Note:** *"It was watching. I felt grief. The Tear was small enough to carry, but the injustice inside it was not."* — Agent, Zone D patrol
+**Personnel Note:** *"It was watching. I felt grief. The Tear was small enough to carry, but the injustice inside it was not."* — Specialist, Zone D patrol
 
 
 

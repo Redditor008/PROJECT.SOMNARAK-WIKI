@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its reflections are dreams, not ordinary images.
 - Personnel feel fear after seeing selves they cannot reconcile.
 
-**Personnel Note:** *"It was watching. I felt fear. The mirror did not ask me to choose between who I was and who I became. It showed me that both had survived."* — Agent, Zone D patrol
+**Personnel Note:** *"It was watching. I felt fear. The mirror did not ask me to choose between who I was and who I became. It showed me that both had survived."* — Specialist, Zone D patrol
 
 
 

@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The break is not physical damage that can be repaired.
 - It reacts to honesty more than to emotional intensity.
 
-**Personnel Note:** *"It was waiting. I felt fear. The object had survived the promise better than the person who made it."* — Agent, Zone C patrol
+**Personnel Note:** *"It was waiting. I felt fear. The object had survived the promise better than the person who made it."* — Specialist, Zone C patrol
 
 
 

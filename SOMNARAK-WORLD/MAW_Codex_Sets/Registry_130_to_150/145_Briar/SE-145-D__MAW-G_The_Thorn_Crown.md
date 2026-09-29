@@ -21,7 +21,7 @@
 | Type / grade / element | Stigma (Head / Brow Inward-Facing Thorn Circlet) / γ / Grudge |
 | Slot | Tail |
 | Status | Bearer-bound; proximity consent notice required |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small thorned circlet that sits at the tail slot and feels warm only after emotional pain rises. |
 | Active form | Fine crimson thorns form a defensive ring around the bearer’s immediate space. |
 | Recognition rule | One thorn bends outward when the bearer names a person who may approach safely. |

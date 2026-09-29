@@ -7,7 +7,7 @@
 **Document ID:** `SE-517-B`  
 **Linked Entity:** `SE-517` — Lachrymose  
 **Item Registry Code:** `MAW-W-517-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -33,7 +33,7 @@ The Lachrymose Requiem is a glaive of deep-blue crystal — one huge solidified 
 **Document ID:** `SE-517-B`  
 **Linked Entity:** `SE-517`  
 **Item Registry Code:** `MAW-W-517-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

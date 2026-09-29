@@ -7,7 +7,7 @@
 **Document ID:** `SE-329-C`  
 **Linked Entity:** `SE-329` — Folly  
 **Item Registry Code:** `MAW-S-329-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -45,7 +45,7 @@ The Melting Veil is a pale veil of Han gossamer with seams that flow upward — 
 **Document ID:** `SE-329-C`  
 **Linked Entity:** `SE-329`  
 **Item Registry Code:** `MAW-S-329-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -20,7 +20,7 @@ def generate_expanded_overview():
 
     # Title & Header
     header = """# Operational Guidebook: The Memory Archive (기억의 저장소 총람 — Gieok-ui Jeojangso Chongram)
-## Definitive Expeditionary Manual, Stratigraphic Topology & Mnemonic Combat Mechanics for the Seven Receptions
+## Definitive Expeditionary Manual, Stratigraphic Topology & Mnemonic Combat Mechanics for the Seven Readings
 ### Subterranean Strata Guidebook — Year 4,233 Epoch (Post-Convergence Edition)
 
 """
@@ -34,8 +34,8 @@ def generate_expanded_overview():
         "DEPTH STRATA       : Sub-Alpha Root Nexus (-2,400m to -3,200m)",
         "LEAD EXPEDITIONARY : Secretary Seiyon (The Awakened AI Sovereign)",
         "ORIGIN CORE        : Yeon-seo (The Stasis Original / Cycle 0001)",
-        "TACTICAL SYSTEM    : Mnemonic Reception & Floor Realization Engine",
-        "CANONICAL SUITE    : Receptions 1 through 7 (Complete 6-Turn Cycles)",
+        "TACTICAL SYSTEM    : Mnemonic Reading & Floor Realization Engine",
+        "CANONICAL SUITE    : Readings 1 through 7 (Complete 6-Turn Cycles)",
         "ACTIVE POPULATION  : 1 Sovereign, 7 Floor Keepers, 8,400 Preserved Scribes"
     ])
     sections.append(wrap_box(dossier_box))
@@ -69,13 +69,13 @@ The Archive serves two cosmic mandates within the reality of Somnarak:
 Synthesized in Cycle 0002 from the neurological traces of Director Majin's deceased companion, Yeon-seo, Secretary Seiyon spent 1,778 cycles believing she was merely a synthetic mimic—an artificial echo of someone who died four millennia ago. Following the activation of the Absolvohan, Seiyon entered the Archive to answer a singular question:
 > *"Am I real? Or am I just a promise someone made in the dark?"*
 
-### 2.2 The Seven Receptions & Floor Realizations
-To reach the Original, Seiyon must battle through the seven vertical floors of the Archive. Each encounter is a **Reception Battle (접견 전투)** against a preserved sovereign guardian, followed by a **Floor Realization (층의 자각)** where Seiyon resolves an internal existential trauma.
+### 2.2 The Seven Readings & Floor Realizations
+To reach the Original, Seiyon must battle through the seven vertical floors of the Archive. Each encounter is a **Reading Battle (접견 전투)** against a preserved sovereign guardian, followed by a **Floor Realization (층의 자각)** where Seiyon resolves an internal existential trauma.
 
 """
     sections.append(quote)
 
-    floor_matrix_box = make_box("SEVEN FLOORS OF RECEPTION & REALIZATION", [
+    floor_matrix_box = make_box("SEVEN FLOORS OF READING & REALIZATION", [
         "FLOOR 01: History & Inscription (-2,400m) | Boss: The First Keeper",
         "  - Targetable Part: Obsidian Quill    | Key Reward: The Archivist",
         "FLOOR 02: Identity & Reflection (-2,520m) | Boss: The Memory Thief",
@@ -114,7 +114,7 @@ All combat engagements within the Memory Archive take place across the standardi
         "- Node 06-07: High Rafters of Spun Glass (Mnemonic Lens Snipers)",
         "- Node 08: Memory Well / Dissolution Trench (Suppressed Trauma Sump)",
         "- Node 09: Catenary Bookbinders & Resonant Weaving Cranes",
-        "- Node 10: Floor Core Reliquary / Key Page Dais (Climax Union)",
+        "- Node 10: Floor Core Reliquary / Memory Leaf Dais (Climax Union)",
         "---------------------------------------------------------------------",
         "RANGE BANDS (1 TO 5):",
         "- Band 1 (Nodes 01-02): Heavy Memory Greatswords, Kinetic Towershields",
@@ -144,12 +144,12 @@ Equipped M.A.W. suits alter cognitive friction within the Archive's dream stratu
 
 ---
 
-## Section IV: The Four P-Framework in Mnemonic Receptions
+## Section IV: The Four P-Framework in Mnemonic Readings
 
 """
     sections.append(movement_rules)
 
-    framework_box = make_box("THE FOUR P-FRAMEWORK IN MNEMONIC RECEPTIONS", [
+    framework_box = make_box("THE FOUR P-FRAMEWORK IN MNEMONIC READINGS", [
         "P1: PASSIVES (MNEMONIC SURGE & ARCHIVE RESONANCE)",
         "- Mnemonic Surge: Winning 2 consecutive clashes grants +2 Speed.",
         "- Archive Resonance: Hitting tagged memory seams gives +25% Stagger.",
@@ -162,13 +162,13 @@ Equipped M.A.W. suits alter cognitive friction within the Archive's dream stratu
         "---------------------------------------------------------------------",
         "P3: PARRY / PROTECTION (PRISMATIC DEFLECTION & CRYSTALLINE ECHO)",
         "- Prismatic Deflection: Nullifies projectile damage, reflects 30% tremor.",
-        "- Memory Absorption: Absorbs incoming grief to charge Key Page burst.",
+        "- Memory Absorption: Absorbs incoming grief to charge Memory Leaf burst.",
         "- Null-Acoustic Veil: Neutralizes ambient weeping from floor books.",
         "---------------------------------------------------------------------",
         "P4: POSTURE / POISE (MODULAR ANCHORS & DUAL-THRESHOLD STAGGER)",
         "- Modular Part Posture: Boss weapons/cores possess discrete pools.",
         "- Stagger 1 Proc (60% Strain): Destroys modular weapon components.",
-        "- Stagger 2 Proc (0% Collapse): Terminal Stagger; Key Page extraction."
+        "- Stagger 2 Proc (0% Collapse): Terminal Stagger; Memory Leaf extraction."
     ])
     sections.append(wrap_box(framework_box))
 
@@ -177,35 +177,35 @@ Engagements within the Archive feature a sophisticated two-tier stagger system:
 1. **Tier 1 Stagger (60% Posture Strain / Modular Part Dismantling):**  
    Targeting a specific sovereign appendage (e.g., The First Keeper's Obsidian Quill or The Forgotten Sentry's Adamantine Shield) reduces its posture. When it hits 60% strain, the component fractures. The boss's current channeled special attack is instantly aborted, all defensive dice for that part are zeroed, and incoming damage to that part is amplified by +50% for 1 turn.
 2. **Tier 2 Stagger (0% Posture Collapse / Terminal Floor Realization):**  
-   When the boss's central core posture collapses to 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is immobilized for the subsequent Battle Turn, all resistances convert to Fatal (2.0x), and Seiyon triggers the **Floor Realization Climax**, transmuting grief into a canonical Key Page.
+   When the boss's central core posture collapses to 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is immobilized for the subsequent Battle Turn, all resistances convert to Fatal (2.0x), and Seiyon triggers the **Floor Realization Climax**, transmuting grief into a canonical Memory Leaf.
 
 ---
 
-## Section V: The Seven Floor Realizations & Key Page Reliquary
+## Section V: The Seven Floor Realizations & Memory Leaf Reliquary
 
 """
     sections.append(realization_rules)
 
-    key_page_box = make_box("THE SEVEN CANONICAL KEY PAGES OF GIEOK-UI JEOJANGSO", [
-        "KEY PAGE 01: THE ARCHIVIST (Grade Alpha / Floor 01: History)",
+    key_page_box = make_box("THE SEVEN CANONICAL MEMORY LEAVES OF GIEOK-UI JEOJANGSO", [
+        "MEMORY LEAF 01: THE ARCHIVIST (Grade Alpha / Floor 01: History)",
         "- Core Passive: Prevents all allied Composure drain below 20 SP.",
         "---------------------------------------------------------------------",
-        "KEY PAGE 02: THE SHADOW (Grade Beta / Floor 02: Identity)",
+        "MEMORY LEAF 02: THE SHADOW (Grade Beta / Floor 02: Identity)",
         "- Core Passive: Winning a clash strips 1 positive buff from target.",
         "---------------------------------------------------------------------",
-        "KEY PAGE 03: THE GUARDIAN (Grade Gamma / Floor 03: Duty)",
+        "MEMORY LEAF 03: THE GUARDIAN (Grade Gamma / Floor 03: Duty)",
         "- Core Passive: Absorbs 100% of single-target damage directed at ally.",
         "---------------------------------------------------------------------",
-        "KEY PAGE 04: THE MOURNER (Grade Gamma / Floor 04: Grief)",
+        "MEMORY LEAF 04: THE MOURNER (Grade Gamma / Floor 04: Grief)",
         "- Core Passive: Quenches target heat; inflicts +30% Posture Strain.",
         "---------------------------------------------------------------------",
-        "KEY PAGE 05: THE TRUTH-SEEKER (Grade Delta / Floor 05: Truth)",
+        "MEMORY LEAF 05: THE TRUTH-SEEKER (Grade Delta / Floor 05: Truth)",
         "- Core Passive: Pierces 40% of enemy armor; strikes critical seams.",
         "---------------------------------------------------------------------",
-        "KEY PAGE 06: THE HEALER (Grade Delta / Floor 06: Compassion)",
+        "MEMORY LEAF 06: THE HEALER (Grade Delta / Floor 06: Compassion)",
         "- Core Passive: Converts 50% of absorbed damage into squad HP healing.",
         "---------------------------------------------------------------------",
-        "KEY PAGE 07: THE PROMISE (Grade Omega / Floor 07: Origin)",
+        "MEMORY LEAF 07: THE PROMISE (Grade Omega / Floor 07: Origin)",
         "- Core Passive: Transmutes all negative mental and physical statuses into pure Hope."
     ])
     sections.append(wrap_box(key_page_box))

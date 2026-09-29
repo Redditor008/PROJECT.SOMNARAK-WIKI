@@ -7,7 +7,7 @@
 **Document ID:** `SE-330-D`  
 **Linked Entity:** `SE-330` — Sitting Boundary  
 **Item Registry Code:** `MAW-G-330-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -69,7 +69,7 @@ When worn alongside *The Glazed Mullion-Pike* and *The Shuttered Window-Plate*, 
 **Document ID:** `SE-330-D`  
 **Linked Entity:** `SE-330`  
 **Item Registry Code:** `MAW-G-330-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-903` — Glass Elsewhere  
 **Source SECC Designation:** `N-IIβ-903 [VO]`  
 **Item Registry Code:** `MAW-S-903-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Glass Elsewhere — Witnessed Form*, Glass Elsewhere's Veil performs the
 **Document ID:** `SE-903-C`  
 **Linked Entity:** `SE-903`  
 **Item Registry Code:** `MAW-S-903-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

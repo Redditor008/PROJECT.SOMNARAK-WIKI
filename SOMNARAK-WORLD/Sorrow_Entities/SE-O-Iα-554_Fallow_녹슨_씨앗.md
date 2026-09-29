@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It rusts metal but not living tissue.
 - It is most active after Outside Sorrow storms.
 
-**Personnel Note:** *"It was mourning. I felt sorrow. The Seed was not asking to become a tree; it was asking whether anyone would return to water it."* — Agent, Zone C patrol
+**Personnel Note:** *"It was mourning. I felt sorrow. The Seed was not asking to become a tree; it was asking whether anyone would return to water it."* — Specialist, Zone C patrol
 
 
 

@@ -37,7 +37,7 @@ The bearer names a specific act before striking. The Fang follows the responsibi
 
 ### History Record
 
-A Fang bearer used the weapon against a corrupt collection team. It reached the lead collector and two assistants, but ignored a coerced clerk standing between them. The bearer later learned the clerk had altered the ledger that made the strike possible. The Fang measured action, not innocence.
+A Fang bearer used the weapon against a corrupt collection team. It reached the lead collector and two assistants, but ignored a coerced auxiliary standing between them. The bearer later learned the auxiliary had altered the ledger that made the strike possible. The Fang measured action, not innocence.
 
 **Document ID:** `SE-032-B`  
 **Linked Entity:** `SE-032`  

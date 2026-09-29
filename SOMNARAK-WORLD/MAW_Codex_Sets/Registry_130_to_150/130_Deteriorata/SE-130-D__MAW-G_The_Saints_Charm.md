@@ -21,7 +21,7 @@
 | Type / grade / element | Gift, cracked stone charm / γ — Major / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; handoff plan required |
-| Known bearer | Agent Sooah Park |
+| Known bearer | Specialist Sooah Park |
 | Resting form | A small black stone charm with one white crack and a weight greater than its size suggests. |
 | Active form | The crack points toward the burden the bearer has been treating as untransferable. |
 | Recognition rule | It remains still if the bearer has already asked another person for help. |

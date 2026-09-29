@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Rust contains fragments of abandoned testimony.
 - It grows during the Sorrow Tide.
 
-**Personnel Note:** *"It was watching. I felt hope. The hope was not mine; it belonged to something that still expected to be found."* — Agent, Zone E patrol
+**Personnel Note:** *"It was watching. I felt hope. The hope was not mine; it belonged to something that still expected to be found."* — Specialist, Zone E patrol
 
 
 

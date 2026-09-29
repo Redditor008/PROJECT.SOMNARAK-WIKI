@@ -4,7 +4,7 @@
 **Document ID:** `SE-689-C`  
 **Linked Entity:** `SE-689` — Face Beneath Masks  
 **Item Registry Code:** `MAW-S-689-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -25,7 +25,7 @@ The Wall Veil is a pale veil that preserves identity near an opening — armor f
 **Document ID:** `SE-689-C`  
 **Linked Entity:** `SE-689`  
 **Item Registry Code:** `MAW-S-689-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

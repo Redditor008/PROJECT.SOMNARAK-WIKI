@@ -81,7 +81,7 @@ Under the guidance of twelve designated Hope Bearers, the collected Han-crystals
 Following the Dawn of Hope, Somnarak looks beyond its vertical walls toward the shattered world outside:
 
 1. **The Horizon Caravan (Jipyeongseondae) (Year 4,239 onward):** Jipyeongseondae  [지평선대]  launches six great overland expeditions across the barren Desolate toward legendary pre-collapse sanctuaries, forging trade corridors toward Cheonbulok and Mugeukji.
-2. **The Memory Archive (Gieok Jeojangso) (Year 4,240 onward):** Established in the deep sub-Alpha roots (-3,250m) under Secretary Seiyon, Gieok Jeojangso  [기억 저장소]  serves as a municipal sanctuary. Operating across seven thematic strata floors and seven Receptions, it curates traumatic historical memories into living **Key Pages**.
+2. **The Memory Archive (Gieok Jeojangso) (Year 4,240 onward):** Established in the deep sub-Alpha roots (-3,250m) under Secretary Seiyon, Gieok Jeojangso  [기억 저장소]  serves as a municipal sanctuary. Operating across seven thematic strata floors and seven Readings, it curates traumatic historical memories into living **Memory Leaves**.
 3. **The Wound Walkers (Company 4) (Year 4,250 onward):** Outlying frontier defense garrisons established under Specialist Sooah, defending seven Crucible Stations against colossal beasts emerging from the untamed Outskirts.
 4. **Continental Reconstruction (Year 4,255 onward):** Large-scale engineering initiatives laying trans-continental acoustic rail lines and tectonic stabilization lattices to reconnect isolated human settlements.
 
@@ -110,7 +110,7 @@ Documents the dramatic activation of the Dawn of Hope at Year 4,238. Twelve Hope
 > *“Let the furnace burn cold no longer. If the city must carry sorrow, let it carry it as fire, not as ice!”* — Hope Bearer Yeonhwa
 
 ### 3.5 Canto V: Suture of Lost Pages
-Secretary Seiyon descends into the deep roots of Gieok Jeojangso to face her own erased memories, unlocking the sovereign Key Pages of the Silent City.
+Secretary Seiyon descends into the deep roots of Gieok Jeojangso to face her own erased memories, unlocking the sovereign Memory Leaves of the Silent City.
 
 > *“To preserve a memory is to sew a wound that refuses to close. Every page we bind is a suture against oblivion.”* — Seiyon
 

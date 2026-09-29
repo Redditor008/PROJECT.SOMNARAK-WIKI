@@ -24,7 +24,7 @@
 
 ### Appearance
 
-The Resentment Talon-Blade is a broad, inwardly-curved falx blade of dark crimson Han-iron, connected to an internal spool of barbed spinal cable within the hilt. In locked configuration, it strikes as a heavy, hooked cleaver for devastating Short-range chopping strikes. When the hilt latch is released, the blade launches forward on five paces of segmented tension-wire, transforming into a sweeping chain-scythe that hooks targets at Medium range and reels them back toward the wielder while weeping a thin, caustic film of burning crimson Han. The pommel warms noticeably as the weapon locks onto structures or agents enforcing imposed debt.
+The Resentment Talon-Blade is a broad, inwardly-curved falx blade of dark crimson Han-iron, connected to an internal spool of barbed spinal cable within the hilt. In locked configuration, it strikes as a heavy, hooked cleaver for devastating Short-range chopping strikes. When the hilt latch is released, the blade launches forward on five paces of segmented tension-wire, transforming into a sweeping chain-scythe that hooks targets at Medium range and reels them back toward the wielder while weeping a thin, caustic film of burning crimson Han. The pommel warms noticeably as the weapon locks onto structures or specialists enforcing imposed debt.
 
 ### Ability— Unpaid Anger
 
@@ -36,7 +36,7 @@ The Talon-Blade follows a documented chain of imposed obligation and strikes thr
 
 ### History Record
 
-A Fang bearer used Unpaid Anger to break a Collector restraint device. The strike hit the device and two enforcers, but spared the coerced clerk maintaining the system. The bearer still spent weeks angry at the clerk for surviving it.
+A Fang bearer used Unpaid Anger to break a Collector restraint device. The strike hit the device and two enforcers, but spared the coerced auxiliary maintaining the system. The bearer still spent weeks angry at the auxiliary for surviving it.
 
 **Document ID:** `SE-062-B`  
 **Linked Entity:** `SE-062`  

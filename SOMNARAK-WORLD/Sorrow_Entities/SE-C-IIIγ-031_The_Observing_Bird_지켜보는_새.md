@@ -184,7 +184,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Appearance:** An organic, bio-sorrow ocular implement with a calcified ivory sclera and concentric deep-blue crystalline pupils that weep fine, shimmering tears of Han. When equipped, it physically embeds into the Agent's ocular socket, replacing their natural eye. The Agent's field of vision shifts to a cold, monochromatic hue where every hidden sin, concealment, and unacknowledged grief is outlined in deep-blue fire.
+**Appearance:** An organic, bio-sorrow ocular implement with a calcified ivory sclera and concentric deep-blue crystalline pupils that weep fine, shimmering tears of Han. When equipped, it physically embeds into the Specialist's ocular socket, replacing their natural eye. The Specialist's field of vision shifts to a cold, monochromatic hue where every hidden sin, concealment, and unacknowledged grief is outlined in deep-blue fire.
 
 **Ability:** *All-Seeing Drain* — Deals Lament damage across Range 5 (Room). Every hostile entity within the bearer's direct field of view continuously loses Han / Mind stability over time. While not an instant burst, the unrelenting psychological pressure wears down target defenses and inflicts steady tick damage until the target collapses.
 
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Simultaneous work with the other Birds is calming; simultaneous breach is catastrophic.
 
 **Personnel Note:**
-> *"All 144 eyes saw every lie I had told. The Bird did not judge. It simply recorded, which was worse and kinder at once."* — Agent Hanul Grey, Zone B
+> *"All 144 eyes saw every lie I had told. The Bird did not judge. It simply recorded, which was worse and kinder at once."* — Specialist Hanul Grey, Zone B
 
 
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-215` — Name No One Remembers  
 **Item Registry Code:** `MAW-W-215-01`  
 **Entity Designation:** `N-IIα-215 [VS]`  
-**Author:** Agent Durivel Cho, Field Extraction Specialist  
+**Author:** Specialist Durivel Cho, Field Extraction Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -35,19 +35,19 @@ When active, the Lens flickers like a word being remembered one character at a t
 |---|---|
 | Extraction record | Year 4,238 paired-record draw |
 | Site | Zone B, Old Lament |
-| Authority | Agent Durivel Cho under Extraction Lead Zyrak |
+| Authority | Specialist Durivel Cho under Extraction Lead Zyrak |
 | Source state | Clarified after Flerehan; no source name proposed |
 | Observation requirement | Level 1 plus successful two-witness resolution for an affected worker |
 | Result | Stable α-grade Void focus |
 
-The first disc condensed between two identity cards after their writers restored Agent Hanul Grey’s name during a minor spreading-blank event. The residue preserved agreement without combining handwriting. Durivel shaped the wire frame around that separation.
+The first disc condensed between two identity cards after their writers restored Specialist Hanul Grey’s name during a minor spreading-blank event. The residue preserved agreement without combining handwriting. Durivel shaped the wire frame around that separation.
 
 A bearer binds by naming one personal memory that will not be entered into the operational record. A second person witnesses that a protected memory exists but does not learn its content. If the operator has no one willing to attest even that much, the glass remains empty.
 
 | Holder / bearer | Period | Outcome | Item-specific record |
 |---|---|---|---|
 | R.D. paired-custody rack | Current | Active | Each unit stored with two blank witness cards, never a prefilled target list. |
-| Agent Durivel Cho | Blank Margin incident | Cleared with memory loss | Severed an erasure trace from an archive packet; forgot why one ordinary handwriting style felt familiar. |
+| Specialist Durivel Cho | Blank Margin incident | Cleared with memory loss | Severed an erasure trace from an archive packet; forgot why one ordinary handwriting style felt familiar. |
 
 ---
 
@@ -129,14 +129,14 @@ Name No One Remembers approaches the disc only when its center stays blank. Writ
 
 The Name Lens is not an identification authority. It can establish that two witnesses mean the same target without proving that either has supplied the target’s true name. This limitation is deliberate. The source entity exists because records and witnesses failed; the weapon must not answer that wound by making consensus indistinguishable from truth.
 
-> *“A blank we preserve honestly is safer than a false name the whole Directorate agrees to remember.”* — Agent Durivel Cho
+> *“A blank we preserve honestly is safer than a false name the whole Directorate agrees to remember.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-215-B`  
 **Linked Entity:** `SE-215`  
 **Item Registry Code:** `MAW-W-215-01`  
-**Author:** Agent Durivel Cho, Field Extraction Specialist  
+**Author:** Specialist Durivel Cho, Field Extraction Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

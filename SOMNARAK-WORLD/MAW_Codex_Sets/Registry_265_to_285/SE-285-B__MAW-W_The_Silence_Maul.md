@@ -7,7 +7,7 @@
 **Document ID:** `SE-285-B`  
 **Linked Entity:** `SE-285` — Weight of Silence  
 **Item Registry Code:** `MAW-W-285-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Gift marks burden, Mantle makes safe quiet, Maul acts only after consent.
 **Document ID:** `SE-285-B`  
 **Linked Entity:** `SE-285`  
 **Item Registry Code:** `MAW-W-285-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

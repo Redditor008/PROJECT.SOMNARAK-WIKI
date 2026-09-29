@@ -7,7 +7,7 @@
 **Document ID:** `SE-236-B`  
 **Linked Entity:** `SE-236` — Unwitnessed  
 **Item Registry Code:** `MAW-W-236-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -51,7 +51,7 @@ Pod preserves viability; Shroud bears imagined futures; Requiem addresses presen
 **Document ID:** `SE-236-B`  
 **Linked Entity:** `SE-236`  
 **Item Registry Code:** `MAW-W-236-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -44,7 +44,7 @@
 | **Echo-Core** | `THE_{{ROLE}}.md` (caps) | `THE_CONTAINMENT_LEAD.md` |
 | **Absolvohan** | `Part_{{N}}_Days_{{START}}_to_{{END}}_{{Title}}.md` | `Part_1_Day_0_The_Director_Wakes.md` |
 | **Katabagil** | `Passage_{{N}}_{{Name}}.md` | `Passage_1_Cryptasu.md` |
-| **Gieok Reception** | `Reception_{{N}}_{{Name}}.md` | `Reception_1_First_Keeper.md` |
+| **Gieok Reading** | `Reading_{{N}}_{{Name}}.md` | `Reading_1_First_Keeper.md` |
 | **Story Canto** | `CANTO_{{XX}}_{{TITLE}}_{{NAME}}.md` | `CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md` |
 
 ---

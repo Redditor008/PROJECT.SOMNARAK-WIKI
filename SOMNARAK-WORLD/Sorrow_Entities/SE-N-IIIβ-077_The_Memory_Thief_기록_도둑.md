@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Personnel report emotional changes after long exposure: greater empathy and less detachment.
 
 **Personnel Note:**
-> *"I lost the memory of my sister's face. The Thief returned it only after I gave it the memory of the day I first learned her name."* — Agent Hanul Grey, Collector's Row
+> *"I lost the memory of my sister's face. The Thief returned it only after I gave it the memory of the day I first learned her name."* — Specialist Hanul Grey, Collector's Row
 
 
 

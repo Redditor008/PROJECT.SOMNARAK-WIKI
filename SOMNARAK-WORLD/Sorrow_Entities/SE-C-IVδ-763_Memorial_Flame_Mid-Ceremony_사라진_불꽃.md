@@ -397,6 +397,6 @@ Some sorrows mourn the dead. Memorial Flame Mid-Ceremony mourns the unfinished â
 ## Document Information
 
 **Document ID:** SE-C-IVÎ´-763
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Classified

@@ -7,7 +7,7 @@
 **Document ID:** `SE-091-A`  
 **Related Entity ID:** `SE-091`  
 **SECC Designation:** `C-IVγ-091 [LS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted    
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ The Prince’s crown is beautiful from a distance and painful up close: each sma
 | Void | Low | His outline flickers when a visitor tries to offer certainty they do not possess. |
 | Weight | Low | Remaining beside him becomes difficult because leaving feels like an abandonment. |
 
-> *“He asked where they went. I said I did not know. He said, ‘Neither do I,’ and stopped shaking.”* — Agent Haneulash Yoon
+> *“He asked where they went. I said I did not know. He said, ‘Neither do I,’ and stopped shaking.”* — Specialist Haneulash Yoon
 
 ### What remains unresolved
 
@@ -160,7 +160,7 @@ The set carries connection, not possession. It becomes dangerous when a bearer m
 - **Understood:** He is abandonment without explanation made child-shaped.
 - **Mastery condition:** His story must be heard without turning him into a problem that needs a false ending.
 
-> *“The questions are universal. The answer is not.”* — Agent Haneulash Yoon
+> *“The questions are universal. The answer is not.”* — Specialist Haneulash Yoon
 
 ---
 
@@ -174,7 +174,7 @@ The set carries connection, not possession. It becomes dangerous when a bearer m
 
 **Document ID:** `SE-091-A`  
 **Linked Entity:** `SE-091`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

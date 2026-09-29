@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its dreams can be beautiful enough to overcome the will to wake.
 - It mirrors desire rather than truth.
 
-**Personnel Note:** *"It was quiet. I felt hope. Then I realized the hope belonged to a life I had never lived."* — Agent, Zone C patrol
+**Personnel Note:** *"It was quiet. I felt hope. Then I realized the hope belonged to a life I had never lived."* — Specialist, Zone C patrol
 
 
 

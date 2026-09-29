@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-863` — Absent Landmark  
 **Source SECC Designation:** `C-Iα-863 [VS]`  
 **Item Registry Code:** `MAW-W-863-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Absent Landmark — Witnessed Form*, The Empty Lens performs the weapon 
 **Document ID:** `SE-863-B`  
 **Linked Entity:** `SE-863`  
 **Item Registry Code:** `MAW-W-863-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

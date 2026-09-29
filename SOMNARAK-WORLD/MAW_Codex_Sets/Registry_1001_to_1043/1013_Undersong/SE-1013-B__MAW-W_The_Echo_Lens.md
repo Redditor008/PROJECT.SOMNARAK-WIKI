@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1013` — Undersong  
 **Source SECC Designation:** `N-IIα-125 [VS]`  
 **Item Registry Code:** `MAW-W-1013-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Undersong — Witnessed Form*, The Echo Lens performs the weapon role wh
 **Document ID:** `SE-1013-B`  
 **Linked Entity:** `SE-1013`  
 **Item Registry Code:** `MAW-W-1013-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

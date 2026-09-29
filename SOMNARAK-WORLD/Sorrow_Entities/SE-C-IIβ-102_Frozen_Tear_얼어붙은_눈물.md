@@ -427,6 +427,6 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-102
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Open

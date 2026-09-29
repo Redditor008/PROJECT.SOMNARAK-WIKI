@@ -14,7 +14,7 @@ The Reverie Directorate (R.D.) is organized into **Nine Echo-Cores** — five op
 | Floor / Sector | Designation & Name | True Look Effigy | Signature Equipment & Armament | Primary Han Element |
 |---|---|---|---|---|
 | **Floor 1 (Spires)** | **The Director (Majin / 마진)** | Living Human (Ω-Fusion) | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) | Weight (Black) / Grudge + Lament |
-| **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Key Pages) | Lament (Deep Blue) + Void (Pale) |
+| **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Memory Leaves) | Lament (Deep Blue) + Void (Pale) |
 | **Floor 2 (Maw's Keep)** | **The Containment Lead (Dekan / 데칸)** | Biomechanical Cyborg (~50%) | Living Biological Graft *The Scaled Maw-Flesh Arm* | Grudge (Crimson) |
 | **Floor 3 (Extraction Hall)** | **The Extraction Lead (Zyrak / 지락)** | Android Cast Effigy (0% Flesh) | Specialized Forge Gear *Mechanical Hands & Rig* | Grudge (Crimson) + Void (Pale) |
 | **Floor 4 (Insight Forge)** | **The Research Lead (Ayshuk / 아이숙)** | Android Platform (0% Flesh) | Specialized Cognitive *Subject-Mind Research Ledger*| Void (Pale White) |
@@ -385,7 +385,7 @@ Han-Energy flows from The Hand of Change to the city through **Han-conduits** �
 
 ---
 
-## Agent Stats — R.D. Personnel Attributes
+## Specialist Stats — R.D. Personnel Attributes
 
 ### Overview
 
@@ -734,7 +734,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 | **Extraction Technician** | Standard Kit + **Resonance Scanner** (measures entity-person compatibility) |
 | **Research Analyst** | Standard Kit + **Han Analyzer** (detailed Han-flow analysis) |
 | **Border Guard** | Standard Kit + **Border Shield** (reinforced, Han-resistant) |
-| **Field Agent** | Standard Kit + **Shadow Cloak** (concealment, minor Han-dampening) |
+| **Field Specialist** | Standard Kit + **Shadow Cloak** (concealment, minor Han-dampening) |
 | **Gate Observer** | Standard Kit + **Gate Lens** (observation of the Exile's Gate) |
 
 ---
@@ -898,7 +898,7 @@ When M.A.W. is overused beyond shift limits, misused against its nature, or star
 
 ### Overview
 
-> *"The Echo-Cores carry the weight. The Agents carry the Echo-Cores. The Clerks carry the Agents. And everyone carries the city."*
+> *"The Echo-Cores carry the weight. The Specialists carry the Echo-Cores. The Auxiliaries carry the Specialists. And everyone carries the city."*
 
 The R.D. employs thousands of personnel across eight floors. Each has a specific role, rank, and responsibility.
 
@@ -911,15 +911,15 @@ THE ECHO-CORES (9)
     │
     ├── SENIOR STAFF
     │   ├── Field Commanders (1 per floor)
-    │   ├── Senior Agents (5-10 per floor)
+    │   ├── Senior Specialists (5-10 per floor)
     │   └── Specialists (varies)
     │
-    ├── AGENTS
-    │   ├── Agents (20-50 per floor)
-    │   └── Junior Agents (10-30 per floor)
+    ├── SPECIALISTS
+    │   ├── Specialists (20-50 per floor)
+    │   └── Junior Specialists (10-30 per floor)
     │
     ├── SUPPORT STAFF
-    │   ├── Clerks (50-100 per floor)
+    │   ├── Auxiliaries (50-100 per floor)
     │   ├── Technicians (20-40 per floor)
     │   └── Maintenance (10-20 per floor)
     │
@@ -970,14 +970,14 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 
 ---
 
-#### Senior Agents (40-80 total)
+#### Senior Specialists (40-80 total)
 
 **Role:** Experienced personnel who lead teams and handle dangerous operations.
 
 **Responsibilities:**
 - Lead containment teams
 - Perform advanced Work Types
-- Train Junior Agents
+- Train Junior Specialists
 - Handle high-risk entities
 
 **Requirements:**
@@ -986,7 +986,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Successful M.A.W. bonding
 - Field Commander recommendation
 
-**Title:** Senior Agent (e.g., Senior Agent Min-Jae)
+**Title:** Senior Specialist (e.g., Senior Specialist Min-Jae)
 
 ---
 
@@ -1009,7 +1009,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 
 ---
 
-#### Agents (160-400 total)
+#### Specialists (160-400 total)
 
 **Role:** The backbone of the R.D. — personnel who perform daily operations.
 
@@ -1025,16 +1025,16 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Successful equipment bonding
 - No major infractions
 
-**Title:** Agent (e.g., Agent Taeho)
+**Title:** Specialist (e.g., Specialist Taeho)
 
 ---
 
-#### Junior Agents (80-240 total)
+#### Junior Specialists (80-240 total)
 
 **Role:** New personnel still in training or early service.
 
 **Responsibilities:**
-- Assist Senior Agents and Agents
+- Assist Senior Specialists and Specialists
 - Perform basic tasks
 - Learn Work Types
 - Observe and study
@@ -1044,11 +1044,11 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Attribute average: 30+ across all four
 - Mentor assignment
 
-**Title:** Junior Agent (e.g., Junior Agent Jinho)
+**Title:** Junior Specialist (e.g., Junior Specialist Jinho)
 
 ---
 
-#### Clerks (350-800 total)
+#### Auxiliaries (350-800 total)
 
 **Role:** Administrative and support staff — the backbone of daily operations.
 
@@ -1063,7 +1063,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - No attribute minimums
 - Reliability and attention to detail
 
-**Title:** Clerk (e.g., Containment Clerk Juhun)
+**Title:** Auxiliary (e.g., Containment Auxiliary Juhun)
 
 ---
 
@@ -1144,7 +1144,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 
 ### Personnel Distribution
 
-| Floor | Field Commanders | Senior Agents | Specialists | Agents | Junior Agents | Clerks | Technicians | Maintenance | Total |
+| Floor | Field Commanders | Senior Specialists | Specialists | Specialists | Junior Specialists | Auxiliaries | Technicians | Maintenance | Total |
 |-------|-----------------|---------------|-------------|--------|---------------|--------|-------------|-------------|-------|
 | **1** | 1 | 5 | 3 | 20 | 10 | 50 | 20 | 10 | ~120 |
 | **2** | 1 | 10 | 5 | 50 | 30 | 80 | 40 | 20 | ~240 |
@@ -1165,21 +1165,21 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 ### Promotion Path
 
 ```
-Maintenance → Clerk → Junior Agent → Agent → Senior Agent → Field Commander → Echo-Core
+Maintenance → Auxiliary → Junior Specialist → Specialist → Senior Specialist → Field Commander → Echo-Core
                                     ↓
                               Specialist (branch)
 ```
 
 **Promotion requirements:**
-- **Maintenance → Clerk:** Reliability, basic training completion
-- **Clerk → Junior Agent:** Attribute assessment, R.D. training enrollment
-- **Junior Agent → Agent:** Training completion, attribute average 40+, successful Work Type performance
-- **Agent → Senior Agent:** 5 years service, attribute average 50+, M.A.W. bonding, Field Commander recommendation
-- **Senior Agent → Field Commander:** 10 years service, attribute average 60+, no Fracture incidents, Echo-Core recommendation
+- **Maintenance → Auxiliary:** Reliability, basic training completion
+- **Auxiliary → Junior Specialist:** Attribute assessment, R.D. training enrollment
+- **Junior Specialist → Specialist:** Training completion, attribute average 40+, successful Work Type performance
+- **Specialist → Senior Specialist:** 5 years service, attribute average 50+, M.A.W. bonding, Field Commander recommendation
+- **Senior Specialist → Field Commander:** 10 years service, attribute average 60+, no Fracture incidents, Echo-Core recommendation
 - **Field Commander → Echo-Core:** Only through Echo-Core selection (rare — usually Cast Effigy creation)
 
 **Specialist branch:**
-- Agents with unique skills can become Specialists instead of advancing to Senior Agent
+- Specialists with unique skills can become Specialists instead of advancing to Senior Specialist
 - Specialists report directly to Field Commanders or Echo-Cores
 - Specialists have more autonomy but less authority
 
@@ -1316,12 +1316,12 @@ Each Field in The Hand of Change has **daily missions** — tasks that must be c
 
 | Mission | Description | Personnel | Frequency |
 |---------|-------------|-----------|-----------|
-| **Entity Containment** | Perform Work Types on contained entities to maintain stability | Agents, Senior Agents | Daily |
-| **Sorrow Gauge Monitoring** | Monitor entity gauges — respond to rising levels | Clerks, Technicians | Continuous |
-| **Breach Response** | Suppress breached entities — return to containment | Senior Agents, Specialists | As needed |
-| **New Entity Processing** | Classify and contain newly discovered entities | Specialists, Agents | As needed |
+| **Entity Containment** | Perform Work Types on contained entities to maintain stability | Specialists, Senior Specialists | Daily |
+| **Sorrow Gauge Monitoring** | Monitor entity gauges — respond to rising levels | Auxiliaries, Technicians | Continuous |
+| **Breach Response** | Suppress breached entities — return to containment | Senior Specialists, Specialists | As needed |
+| **New Entity Processing** | Classify and contain newly discovered entities | Specialists, Specialists | As needed |
 | **Containment Maintenance** | Repair and reinforce containment cells | Technicians, Maintenance | Daily |
-| **Maw's Edge Observation** | Monitor The Maw's perimeter — track expansion | Senior Agents | Daily |
+| **Maw's Edge Observation** | Monitor The Maw's perimeter — track expansion | Senior Specialists | Daily |
 
 **Daily quota:** 500 Han-Energy units from entity work
 
@@ -1331,11 +1331,11 @@ Each Field in The Hand of Change has **daily missions** — tasks that must be c
 
 | Mission | Description | Personnel | Frequency |
 |---------|-------------|-----------|-----------|
-| **M.A.W. Extraction** | Extract equipment from contained entities | Specialists, Senior Agents | As needed |
+| **M.A.W. Extraction** | Extract equipment from contained entities | Specialists, Senior Specialists | As needed |
 | **Resonance Scanning** | Measure entity-person compatibility | Technicians, Specialists | Daily |
-| **M.A.W. Testing** | Evaluate extracted equipment | Agents, Specialists | As needed |
+| **M.A.W. Testing** | Evaluate extracted equipment | Specialists, Specialists | As needed |
 | **Bonding Sessions** | Facilitate M.A.W. bonding with personnel | Specialists | As needed |
-| **Equipment Distribution** | Issue M.A.W. to qualified personnel | Clerks, Technicians | Daily |
+| **Equipment Distribution** | Issue M.A.W. to qualified personnel | Auxiliaries, Technicians | Daily |
 | **Refinery Operations** | Process raw Han into Han-Energy | Technicians, Maintenance | Continuous |
 
 **Daily quota:** 300 Han-Energy units from extraction
@@ -1346,11 +1346,11 @@ Each Field in The Hand of Change has **daily missions** — tasks that must be c
 
 | Mission | Description | Personnel | Frequency |
 |---------|-------------|-----------|-----------|
-| **Entity Research** | Conduct Observation and research projects | Specialists, Senior Agents | Daily |
-| **Han Analysis** | Study Han properties, flows, and behavior | Specialists, Agents | Daily |
-| **Entity Classification** | Update SCS database with new entities | Specialists, Clerks | As needed |
-| **Sorrow Mapping** | Map Han flows throughout the city | Agents, Technicians | Weekly |
-| **Research Documentation** | Record and catalog research findings | Clerks, Specialists | Daily |
+| **Entity Research** | Conduct Observation and research projects | Specialists, Senior Specialists | Daily |
+| **Han Analysis** | Study Han properties, flows, and behavior | Specialists, Specialists | Daily |
+| **Entity Classification** | Update SCS database with new entities | Specialists, Auxiliaries | As needed |
+| **Sorrow Mapping** | Map Han flows throughout the city | Specialists, Technicians | Weekly |
+| **Research Documentation** | Record and catalog research findings | Auxiliaries, Specialists | Daily |
 | **Experimentation** | Conduct controlled experiments on Han properties | Specialists | Weekly |
 
 **Daily quota:** 100 Han-Energy units from research
@@ -1361,12 +1361,12 @@ Each Field in The Hand of Change has **daily missions** — tasks that must be c
 
 | Mission | Description | Personnel | Frequency |
 |---------|-------------|-----------|-----------|
-| **Border Patrol** | Monitor Zone E's perimeter — watch for threats | Agents, Senior Agents | Continuous |
-| **Desolate Reconnaissance** | Venture into the Desolate for intelligence | Senior Agents, Specialists | Weekly |
-| **Entity Tracking** | Track and contain entities that breach from outside | Agents, Specialists | As needed |
-| **Watchtower Operations** | Staff and maintain Watchtower positions | Agents, Clerks | Continuous |
-| **Threat Assessment** | Analyze external threats — Desolate, wilderness, other cities | Specialists, Clerks | Daily |
-| **Emergency Response** | Respond to border incidents — breaches, incursions | Senior Agents, Specialists | As needed |
+| **Border Patrol** | Monitor Zone E's perimeter — watch for threats | Specialists, Senior Specialists | Continuous |
+| **Desolate Reconnaissance** | Venture into the Desolate for intelligence | Senior Specialists, Specialists | Weekly |
+| **Entity Tracking** | Track and contain entities that breach from outside | Specialists, Specialists | As needed |
+| **Watchtower Operations** | Staff and maintain Watchtower positions | Specialists, Auxiliaries | Continuous |
+| **Threat Assessment** | Analyze external threats — Desolate, wilderness, other cities | Specialists, Auxiliaries | Daily |
+| **Emergency Response** | Respond to border incidents — breaches, incursions | Senior Specialists, Specialists | As needed |
 
 **Daily quota:** 50 Han-Energy units from external operations
 
@@ -1376,11 +1376,11 @@ Each Field in The Hand of Change has **daily missions** — tasks that must be c
 
 | Mission | Description | Personnel | Frequency |
 |---------|-------------|-----------|-----------|
-| **Archive Maintenance** | Preserve and organize classified records | Clerks, Specialists | Daily |
+| **Archive Maintenance** | Preserve and organize classified records | Auxiliaries, Specialists | Daily |
 | **Memory Preservation** | Store and stabilize Echoes | Specialists, Technicians | Daily |
-| **Record Cataloguing** | Update and verify archive contents | Clerks, Specialists | Daily |
-| **Vault Security** | Monitor and maintain vault security | Agents, Technicians | Continuous |
-| **Research Support** | Provide archive access for research requests | Clerks | As needed |
+| **Record Cataloguing** | Update and verify archive contents | Auxiliaries, Specialists | Daily |
+| **Vault Security** | Monitor and maintain vault security | Specialists, Technicians | Continuous |
+| **Research Support** | Provide archive access for research requests | Auxiliaries | As needed |
 | **Truth Preservation** | Guard the deepest truths — Cheongula records | Specialists (senior only) | Continuous |
 
 **Daily quota:** None — Floor 6 does not produce Han-Energy
@@ -1391,11 +1391,11 @@ Each Field in The Hand of Change has **daily missions** — tasks that must be c
 
 | Mission | Description | Personnel | Frequency |
 |---------|-------------|-----------|-----------|
-| **Intelligence Gathering** | Collect information from all zones | Field Agents | Continuous |
+| **Intelligence Gathering** | Collect information from all zones | Field Specialists | Continuous |
 | **Infiltration** | Enter Fray territory, Desolate, or other dangerous areas | Infiltration Specialists | As needed |
 | **Intelligence Analysis** | Process and analyze field reports | Intelligence Analysts | Daily |
-| **Safe House Maintenance** | Maintain covert safe houses across the city | Agents | Weekly |
-| **Informant Management** | Manage the Shadow Network — informants across all zones | Agents, Specialists | Daily |
+| **Safe House Maintenance** | Maintain covert safe houses across the city | Specialists | Weekly |
+| **Informant Management** | Manage the Shadow Network — informants across all zones | Specialists, Specialists | Daily |
 | **Counter-Intelligence** | Detect and neutralize threats to the R.D. | Specialists | As needed |
 
 **Daily quota:** None — Floor 7 does not produce Han-Energy
@@ -1406,11 +1406,11 @@ Each Field in The Hand of Change has **daily missions** — tasks that must be c
 
 | Mission | Description | Personnel | Frequency |
 |---------|-------------|-----------|-----------|
-| **Gate Observation** | Monitor the Exile's Gate — watch for changes | Agents | Continuous |
+| **Gate Observation** | Monitor the Exile's Gate — watch for changes | Specialists | Continuous |
 | **Exile Communication** | Attempt to communicate with the Exile | Specialists | Daily |
-| **Signal Analysis** | Decode the Exile's messages | Specialists, Clerks | Daily |
-| **Gate Documentation** | Record all Gate activity | Clerks | Continuous |
-| **Perimeter Check** | Monitor the area around the Gate for threats | Agents | Daily |
+| **Signal Analysis** | Decode the Exile's messages | Specialists, Auxiliaries | Daily |
+| **Gate Documentation** | Record all Gate activity | Auxiliaries | Continuous |
+| **Perimeter Check** | Monitor the area around the Gate for threats | Specialists | Daily |
 
 **Daily quota:** None — Floor 8 does not produce Han-Energy
 
@@ -1558,7 +1558,7 @@ When an event occurs:
 | **2 — Assessment** | Severity and type are determined | Field Commander |
 | **3 — Response** | Appropriate teams are deployed | Echo-Core or Field Commander |
 | **4 — Resolution** | Event is resolved — or managed if unresolvable | Response teams |
-| **5 — Documentation** | Event is recorded in the facility log | Clerks |
+| **5 — Documentation** | Event is recorded in the facility log | Auxiliaries |
 | **6 — Analysis** | Event is analyzed for patterns and prevention | Research team |
 
 ---
@@ -1583,11 +1583,11 @@ The Secretary records every event in the facility log. Every day. Every occurren
 
 > **Day 1,247:** Entity Agitation — `C-IIIβ-014` (The Debt Eater). Gauge rose to 65%. Cause: Collector personnel performed Pugnahan incorrectly. Resolution: Correct Work Type applied. Gauge stabilized.
 
-> **Day 1,248:** Personnel Event — Agent Yeonhwa experienced Memory Leak. Lost memory of her childhood home. Cause: Proximity to Void entity during research. Resolution: Memory Anchor activated. Partial recovery.
+> **Day 1,248:** Personnel Event — Specialist Yeonhwa experienced Memory Leak. Lost memory of her childhood home. Cause: Proximity to Void entity during research. Resolution: Memory Anchor activated. Partial recovery.
 
 > **Day 1,249:** Mystery Event — The Whispering. All personnel on Floor 2 reported hearing whispers at 03:00. Source unknown. Duration: 12 minutes. The Maw's Edge recorded increased activity.
 
-> **Day 1,250:** Entity Gift — `IV-δ-001 [D]` (The Orphaned Bell) offered a crystallized Echo to Agent Harin. Contents: A child's laughter. Harin wept for one hour. The Echo was stored in the Archive.
+> **Day 1,250:** Entity Gift — `IV-δ-001 [D]` (The Orphaned Bell) offered a crystallized Echo to Specialist Harin. Contents: A child's laughter. Harin wept for one hour. The Echo was stored in the Archive.
 
 ---
 
@@ -1673,7 +1673,7 @@ During facility nocturnal hours, subterranean Han density naturally surges:
 
 ---
 
-## Agent Assignment — Personnel Placement
+## Specialist Assignment — Personnel Placement
 
 ### Overview
 
@@ -1696,7 +1696,7 @@ During facility nocturnal hours, subterranean Han density naturally surges:
 - Assignments rotate — to prevent burnout and exposure
 
 **Step 4: Entity Assignment**
-- Agents are assigned to specific entities for Work Type interactions
+- Specialists are assigned to specific entities for Work Type interactions
 - Assignments based on resonance compatibility
 
 ---
@@ -2129,7 +2129,7 @@ Across the 1,778 Cycles, the Echo-Cores carry the unyielding emotional, psycholo
 
 During a Core Crisis:
 1. **Sector Breakdown:** The destabilized Echo-Core's emotional signature floods their respective floor, warping facility geometry, disabling safety protocols, and threatening total containment failure.
-2. **Directorate Response:** The Director and assigned agents must enter the destabilized sector, navigating distorted operational constraints to physically and psychologically suppress the crisis.
+2. **Directorate Response:** The Director and assigned specialists must enter the destabilized sector, navigating distorted operational constraints to physically and psychologically suppress the crisis.
 3. **Harmonic Realization:** Surviving a Core Suppression grounds the Echo-Core's consciousness, permanently resolving their central existential trauma.
 
 ### Permanent Suppression Rewards
@@ -2155,8 +2155,8 @@ As documented in Directorate Personnel Records:
 
 Floor 7 represents an unprecedented operational hazard. Because Ishall is an artificial synthesis of a **repurposed enemy assassin chassis** and an **ancient Before-Time relic**, her crisis cannot be quelled in a single engagement:
 
-1. **Stage 1 — Chassis Reclamation (Grudge):** Her foreign military programming overrides Directorate control, locking down Floor 7 in lethal optical cloaking, tactical ambushes, and sniper crossfire. Agents must bypass her military kill-zones and breach her chassis to awaken her personal consciousness.
-2. **Stage 2 — Unanswered Primordial Rupture (Void):** With her motor chassis disabled, the floating Before-Time Artifact Hands (*Unanswered*) awaken their ancient, closed Han-lattice. The relic hands establish an omnidirectional *Closed Ground* field that shuts down all Han-assisted movement and communications, bombarding the sector with crushing Void implosions until agents physically breach the vacuum and resynchronize the artifacts.
+1. **Stage 1 — Chassis Reclamation (Grudge):** Her foreign military programming overrides Directorate control, locking down Floor 7 in lethal optical cloaking, tactical ambushes, and sniper crossfire. Specialists must bypass her military kill-zones and breach her chassis to awaken her personal consciousness.
+2. **Stage 2 — Unanswered Primordial Rupture (Void):** With her motor chassis disabled, the floating Before-Time Artifact Hands (*Unanswered*) awaken their ancient, closed Han-lattice. The relic hands establish an omnidirectional *Closed Ground* field that shuts down all Han-assisted movement and communications, bombarding the sector with crushing Void implosions until specialists physically breach the vacuum and resynchronize the artifacts.
 
 ---
 
@@ -2347,7 +2347,7 @@ Each Pylon is a self-contained department — extending downward into the depths
 
 **What it is:** Field operations — reconnaissance, infiltration, intelligence.
 
-**Who is here:** Field Agents, Intelligence Analysts, Infiltration Specialists
+**Who is here:** Field Specialists, Intelligence Analysts, Infiltration Specialists
 
 **What happens here:**
 - Field operations — undercover work across all zones
@@ -2810,9 +2810,9 @@ The Archive Lead sometimes wonders: if the city knew the truth, would it change 
 
 The Outsider was sent to destroy the Reverie Directorate.
 
-They were an agent of the Council — not a Warden, not a Collector, but something else. Something the Council keeps hidden. The Council has agents who operate outside the faction system — people who do things that cannot be traced, cannot be acknowledged, cannot be remembered.
+They were an agent of the Council — not a Warden, not a Collector, but something else. Something the Council keeps hidden. The Council has specialists who operate outside the faction system — people who do things that cannot be traced, cannot be acknowledged, cannot be remembered.
 
-The Outsider was one of these agents. They were sent to the R.D. with a single order: destroy it. The R.D. was getting too close to the truth about the Cheongula. The Council could not allow this.
+The Outsider was one of these specialists. They were sent to the R.D. with a single order: destroy it. The R.D. was getting too close to the truth about the Cheongula. The Council could not allow this.
 
 The Outsider infiltrated the R.D. They studied the facility. They mapped the security. They identified the weaknesses. They were ready.
 
@@ -3077,9 +3077,9 @@ During a Surge Ordeal, all three Birds became agitated simultaneously. They brea
 
 **Date:** Year 4232+1689 | **Floor:** 2 | **Entity:** The Smothering Mother | **Severity:** Major
 
-An Agent entered the Mother's containment zone. The Mother embraced the Agent. The embrace lasted 6 hours. The Agent did not want to leave. The Agent said: *"She holds me so tight I cannot breathe. But I have never felt so safe."*
+An Specialist entered the Mother's containment zone. The Mother embraced the Specialist. The embrace lasted 6 hours. The Specialist did not want to leave. The Specialist said: *"She holds me so tight I cannot breathe. But I have never felt so safe."*
 
-**Soojin's note:** *"I talked to her. Not to the Agent — to the Mother. I told her the Agent needed to leave. The Mother listened. She loosened her embrace. She let the Agent go. But she watched the Agent leave — with eyes full of love, and loss, and the sorrow of a mother who has lost a child."*
+**Soojin's note:** *"I talked to her. Not to the Specialist — to the Mother. I told her the Specialist needed to leave. The Mother listened. She loosened her embrace. She let the Specialist go. But she watched the Specialist leave — with eyes full of love, and loss, and the sorrow of a mother who has lost a child."*
 
 ---
 
@@ -3206,7 +3206,7 @@ The following ten advanced systems elevate the Reverie Directorate's operational
 #### 1. Meltdown Progression Mechanics
 - **Progression Trigger:** For every 5 successful Work Type interactions executed within the facility, the master **Acoustic Strain Gauge (음향 피로도)** advances by +1 Meltdown Level.
 - **Resonant Bleed Alarms:** When a Meltdown Level triggers, 1 to 6 random containment cells flash with an amber acoustic warning. A strict **45-second Resonant Bleed Timer** begins counting down on the chamber monitor.
-- **Resolution Requirement:** An Agent must enter the chamber and begin any assigned Work Type before the timer reaches 0.
+- **Resolution Requirement:** An Specialist must enter the chamber and begin any assigned Work Type before the timer reaches 0.
 - **Failure Penalty:** If the timer expires:
   1. The chamber's Sorrow Gauge immediately spikes to 100%.
   2. The facility loses 20% of its currently harvested Han-Energy due to acoustic conduit backflow.
@@ -3245,11 +3245,11 @@ Fired directly from the Decision Core on Floor 1 through pressurized pneumatic c
 2. **Veil Mist Dampener (베일 안개 완화포):** Disperses an acoustic dampening aerosol that calms racing heartbeats and suppresses sorrow echoes, restoring 25% Composure (Mental SP).
 3. **Four-Sign Resonance Aegis (4대 공명 방호막):** Deploys a targeted elemental energy shield (Grudge, Lament, Weight, or Void) that absorbs up to 50 points of incoming damage of that specific frequency for 15 seconds.
 4. **Acoustic Siphon Round (음향 흡수 탄환):** Fires a kinetic dampening anchor into a breached entity, siphoning its vibrational energy and reducing its movement speed by 60% for 10 seconds.
-5. **Quarantine Severance Round (격리 단절 처형탄):** A classified titanium-core round authorized exclusively by Director Majin. Instantly executes an irrecoverably panicked Clerk or Fractured Agent. Essential to prevent mourning-feasting entities (*SE-010 Convergence* or *SE-061 Debtor*) from consuming their grief-saturated corpses and triggering facility-wide mass hysteria.
+5. **Quarantine Severance Round (격리 단절 처형탄):** A classified titanium-core round authorized exclusively by Director Majin. Instantly executes an irrecoverably panicked Auxiliary or Fractured Specialist. Essential to prevent mourning-feasting entities (*SE-010 Convergence* or *SE-061 Debtor*) from consuming their grief-saturated corpses and triggering facility-wide mass hysteria.
 
 ---
 
-### System 3: Departmental Clerks, Floor Continuous Auras & Morale Cascades (부서 상주 보좌진 공명 오라)
+### System 3: Departmental Auxiliaries, Floor Continuous Auras & Morale Cascades (부서 상주 보좌진 공명 오라)
 
 ```text
 +==============================================+
@@ -3276,10 +3276,10 @@ Fired directly from the Decision Core on Floor 1 through pressurized pneumatic c
 ```
 
 #### The Morale Cascade (사기 붕괴 메커니즘)
-- **100% to 70% Clerk Survival:** Full departmental aura active.
-- **69% to 31% Clerk Survival:** Departmental aura potency halved.
-- **30% to 1% Clerk Survival:** Departmental aura completely deactivated.
-- **0% Clerk Survival (Department Wiped):** The floor enters **Acoustic Despair Surge**. Entity Sorrow Gauges passively rise by +1% every 5 seconds, and all agents on that floor suffer -20 Max Composure.
+- **100% to 70% Auxiliary Survival:** Full departmental aura active.
+- **69% to 31% Auxiliary Survival:** Departmental aura potency halved.
+- **30% to 1% Auxiliary Survival:** Departmental aura completely deactivated.
+- **0% Auxiliary Survival (Department Wiped):** The floor enters **Acoustic Despair Surge**. Entity Sorrow Gauges passively rise by +1% every 5 seconds, and all specialists on that floor suffer -20 Max Composure.
 
 ---
 
@@ -3378,10 +3378,10 @@ In advanced sorrow physics, non-living containment apparatuses are designated as
 +======================+=======================+
 ```
 
-1. **Restricted Work Type Protocols:** Because Relic-Entities are inert Objects (`[O]`), Locations (`[P]`), or Times (`[T]`), they cannot be physically fought (**Pugnahan**) or emotionally wept with (**Flerehan**). Agents assigned to Relic-Entity chambers are restricted strictly to **Viderehan (Memory Witnessing)** and **Ferrehan (Gravitational Bearing)**.
+1. **Restricted Work Type Protocols:** Because Relic-Entities are inert Objects (`[O]`), Locations (`[P]`), or Times (`[T]`), they cannot be physically fought (**Pugnahan**) or emotionally wept with (**Flerehan**). Specialists assigned to Relic-Entity chambers are restricted strictly to **Viderehan (Memory Witnessing)** and **Ferrehan (Gravitational Bearing)**.
 2. **Activation & Escalation vs. Standard Breaches:** Relic-Entities do not walk down corridors like Subject-Body entities. Instead, failure to maintain containment or over-exposure triggers **Activation Cascades**:
    - Spreading an acoustic contagion field through adjacent rooms.
-   - Forcing nearby agents into obsessive channel states.
+   - Forcing nearby specialists into obsessive channel states.
    - Accelerating the facility's Meltdown Level counters.
 3. **The Unavoidable Relic Toll:** A Relic-Entity always extracts a cost. Whether equipping an I-Relic, channeling an O-Relic, or triggering an A-Relic, the interaction permanently leaves residue in the operator: lost memories, physical aging, emotional detachment, or karmic weight.
 4. **Permanent Containment vs Extracted M.A.W.:** The original relic remains permanently housed within its containment chamber. Extracted M.A.W. pieces (e.g., *The Balance Projector* Crossbow from `SE-015 Debt Scale`, or *The Lost Lens* from `SE-016 Echo Compass`) are distinct resonance armaments derived from the entity's archetype—the original Relic-Entity is never removed or used as ordinary equipment.
@@ -3466,7 +3466,7 @@ Each of the eight floors offers three distinct technological breakthroughs unloc
 
 ---
 
-### System 8: Agent Trait Titles, Resonant Scars & 8 M.A.W. Gift Body Slots (요원 칭호, 공명 흉터 및 8대 기프트)
+### System 8: Specialist Trait Titles, Resonant Scars & 8 M.A.W. Gift Body Slots (요원 칭호, 공명 흉터 및 8대 기프트)
 
 ```text
 +==============================================+
@@ -3492,7 +3492,7 @@ Each of the eight floors offers three distinct technological breakthroughs unloc
 +======================+=======================+
 ```
 
-- **Procedural Agent Titles:** Operatives who survive catastrophic crises earn distinct honorifics (e.g., *"The Maw-Hardened"* (+3 Resilience), *"Witness of the Cheongula"* (+3 Composure), *"Suture-Bearer"* (+3 Resolve), *"Unblinking"* (+3 Clarity)).
+- **Procedural Specialist Titles:** Operatives who survive catastrophic crises earn distinct honorifics (e.g., *"The Maw-Hardened"* (+3 Resilience), *"Witness of the Cheongula"* (+3 Composure), *"Suture-Bearer"* (+3 Resolve), *"Unblinking"* (+3 Clarity)).
 - **Resonant Scars (공명 흉터):** Surviving Sovereign-grade breaches etches permanent physical alterations into an operative's body (e.g., crystalline tear-ducts, obsidian forearm plating, brine-veined corneas) providing passive elemental resistances.
 
 ---
@@ -3508,16 +3508,16 @@ At the conclusion of each operational shift, Secretary Seiyon compiles the **Shi
 | Grade                | Performance Criteria  |
 +======================+=======================+
 | Grade S              | 100% Quota, 0 Deaths, |
-|                      | 0 Clerks Lost, 0 Breac|
+|                | 0 Auxiliaries Lost, 0 Breac |
 +----------------------+-----------------------+
 | Grade A              | 100% Quota, 0 Deaths, |
-|                      | <5% Clerks Lost       |
+|                      | <5% Auxiliaries Lost  |
 +----------------------+-----------------------+
 | Grade B              | 100% Quota, 1-2 Deaths|
-|                      | <20% Clerks Lost      |
+|                      | <20% Auxiliaries Lost |
 +----------------------+-----------------------+
 | Grade C              | Quota Met in Overtime,|
-|                      | 3+ Agent Fatalities   |
+|                   | 3+ Specialist Fatalities |
 +----------------------+-----------------------+
 | Grade F              | Reserve Tap Compromise|
 |                      | or >50% Facility Fract|

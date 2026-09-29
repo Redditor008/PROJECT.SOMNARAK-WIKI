@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-913` — Backward Hour  
 **Source SECC Designation:** `C-IIIγ-913 [GT]`  
 **Item Registry Code:** `MAW-W-913-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Backward Hour — Witnessed Form*, Backward Hour's Edge performs the wea
 **Document ID:** `SE-913-B`  
 **Linked Entity:** `SE-913`  
 **Item Registry Code:** `MAW-W-913-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

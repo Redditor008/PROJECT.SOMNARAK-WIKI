@@ -56,28 +56,28 @@ When the Kind Healer marks an eleventh apostle—a dying Cheonbulok refugee chil
 
 Shift parameters initialized for Day 101. Daily extraction quota advances to **0.580 tons** of refined Han. The emergence of articulate speech from SE-C-Iα-008 (*The Maw*) alters baseline acoustic parameters across Floor 2 (Containment Lead) and Floor 8 (Deep Vaults). Ambient sorrow vibrations shift from chaotic turbulence to low-frequency rhythmic resonance. Operational priority: conduct high-sensitivity observation on **SE-C-Iα-008** (*The Maw*) while balancing vocal frequencies from **SE-C-IIIγ-001** (*The Bell*).
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Deployment & Specialist Dossiers
 
 Deployment roster for Floor 2 (Containment Lead) and Floor 8 (Deep Vaults):
 
 ```text
 +---------------------------------------------------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| SPECIALIST & GRADE       | STATS & EQUIPMENT                        |
 | | LOADOUT                                                           |
 +=====================================================================+
-| Agent Shin Grade 5  | HP:92 SP:84 Wk:88                             |
+| Specialist Shin Grade 5  | HP:92 SP:84 Wk:88                        |
 | | Sp:60 | Saint Robe &                                              |
 | | Choral Staff                                                      |
 +---------------------------------------------------------------------+
-| Agent Kang Grade 5  | HP:100 SP:82 Wk:88                            |
+| Specialist Kang Grade 5  | HP:100 SP:82 Wk:88                       |
 | | Sp:64 | Soldier Coat &                                            |
 | | Heavy Maul                                                        |
 +---------------------------------------------------------------------+
-| Agent Park Grade 5  | HP:86 SP:92 Wk:85                             |
+| Specialist Park Grade 5  | HP:86 SP:92 Wk:85                        |
 | | Sp:58 | Shroud Suit &                                             |
 | | Sonic Bow                                                         |
 +---------------------------------------------------------------------+
-| Agent Lee Grade 4   | HP:74 SP:80 Wk:76                             |
+| Specialist Lee Grade 4   | HP:74 SP:80 Wk:76                        |
 | | Sp:54 | Mourner Shroud                                            |
 | | & Locket                                                          |
 +---------------------------------------------------------------------+
@@ -91,23 +91,23 @@ Containment Lead Dekan's *Ward of the Maw* aura dampens physical acoustic trauma
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
-The acoustic monitors hum at a steady 52 decibels. On the Floor 2 catwalk overlooking the Maw, Agent Shin adjusts his respirator:
+The acoustic monitors hum at a steady 52 decibels. On the Floor 2 catwalk overlooking the Maw, Specialist Shin adjusts his respirator:
 
 ```text
-> Agent Shin: "The black tar in the pit is calm today. It looks like black glass."
-> Agent Kang: "Don't let your guard down. When the voices start, recite the registry numbers. Keep your thoughts anchored to the names."
+> Specialist Shin: "The black tar in the pit is calm today. It looks like black glass."
+> Specialist Kang: "Don't let your guard down. When the voices start, recite the registry numbers. Keep your thoughts anchored to the names."
 ```
 
 ##### Work Session 1: Viderehan Observation on SE-008 (The Maw)
 
 Director Majin directs solemn observation:
-- `[DISPATCH ORDER: Agent Shin -> Sector 2, Chamber 008 (The Maw)]`
+- `[DISPATCH ORDER: Specialist Shin -> Sector 2, Chamber 008 (The Maw)]`
 - `[ASSIGNED PROTOCOL: Viderehan Observation]`
 - `[OBJECTIVE: Respectful acoustic recording of historical worker registry]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class I Anomaly -> RESULT: RESOLUTE.
-> Agent Shin stands at the pit rim; unified voices whisper from the depths.
+> FEAR CHECK: Level V Specialist vs Class I Anomaly -> RESULT: RESOLUTE.
+> Specialist Shin stands at the pit rim; unified voices whisper from the depths.
 ```
 
 Work Ticks:
@@ -121,12 +121,12 @@ Energy counter advances to `0.052 / 0.580 tons`. Meltdown gauge: `1/7`.
 ##### Work Session 2: Flerehan Communion on SE-001 (The Bell)
 
 Majin orders acoustic harmony communion:
-- `[DISPATCH ORDER: Agent Park -> Sector 2, Chamber 001 (The Bell)]`
+- `[DISPATCH ORDER: Specialist Park -> Sector 2, Chamber 001 (The Bell)]`
 - `[ASSIGNED PROTOCOL: Flerehan Communion]`
 - `[OBJECTIVE: Harmonic attunement and grief dissipation]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class III Entity -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class III Entity -> RESULT: RESOLUTE.
 > The brass bell swings silently; bronze vibrations fill the air.
 ```
 
@@ -155,10 +155,10 @@ At work check 16, sympathetic grief ripples across the foundational sector:
 
 Tactical response execution:
 1. Director Majin authorizes the **Harmonic Respect Protocol**, lowering acoustic suppression baffles on Floor 2 and dispensing rose-water cognitive mist.
-2. Agent Shin steps to the edge of Chamber 008 (*The Maw*), reciting worker memorials; the chasm's strain timer clears instantly.
-3. Agent Park enters Chamber 001 (*The Bell*) for Flerehan soothing.
-4. Agent Lee stabilizes Chamber 014 (*Debt Veil*) with 18.2 seconds remaining.
-5. Agent Kang clears Chamber 061 (*The Debtor*). All six cells safely locked down.
+2. Specialist Shin steps to the edge of Chamber 008 (*The Maw*), reciting worker memorials; the chasm's strain timer clears instantly.
+3. Specialist Park enters Chamber 001 (*The Bell*) for Flerehan soothing.
+4. Specialist Lee stabilizes Chamber 014 (*Debt Veil*) with 18.2 seconds remaining.
+5. Specialist Kang clears Chamber 061 (*The Debtor*). All six cells safely locked down.
 
 ##### Tactical Engagement / Ordeal Suppression: The Tired Crowd (Lament Dawn)
 
@@ -180,7 +180,7 @@ At 14:15, low-frequency sorrow vapors coalesce along Floor 2's central transitwa
 | ENGAGEMENT TELEMETRY:                                               |
 | - Silhouettes radiate cognitive sleep aura                          |
 | - Range Band: Intercept at Range Band 1-2                           |
-| - Agent Kang charges with Lock Maul impact                          |
+| - Specialist Kang charges with Lock Maul impact                     |
 | - High-impact Grudge shatters sleep haze                            |
 | - Entities dissolve into tranquil gray mist                         |
 | - Clash Duration: 36.4 Seconds                                      |
@@ -199,8 +199,8 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 | POS : [CROWD-A] [CROWD-B][KANG] [PARK] [DEKAN]                      |
 | DIST : Kang at N03 (Band 1); Park at N05 (Band 3); Dekan at N10.    |
 +---------------------------------------------------------------------+
-| Agent Kang : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Heavy Maul   |
-| Agent Park : Speed 6 -> 3 AP | HP: 130/130 | SP: +30 | Sonic Bow    |
+| Kang : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Heavy Maul         |
+| Park : Speed 6 -> 3 AP | HP: 130/130 | SP: +30 | Sonic Bow          |
 | Tired Silhouettes: Speed 4 -> 2 AP | HP: 180 each | Sleep Haze      |
 +=====================================================================+
 ```
@@ -209,11 +209,11 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
   * Dekan deploys *The Maw's Keep Bastion Ward*, raising kinetic armor across Nodes 1 to 4 and buffering against cognitive sleep effects.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Sweeping Cleave]`.
-  * Agent Park (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Bow Piercing Pulse]`. Remaining 1 AP held in Guard.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Sweeping Cleave]`.
+  * Specialist Park (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Bow Piercing Pulse]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Lead Silhouette unleashes `[Cognitive Sleep Haze]` (Base 8 + 2 Coins = 12 Power).
-  * Agent Kang's `[Heavy Maul Sweeping Cleave]` (Base 11 + 2 Coins = 15 Power).
+  * Specialist Kang's `[Heavy Maul Sweeping Cleave]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Kang WINS THE CLASH (15 vs 12).
     * Kang's warhammer smashes through the sleep mist, exploiting the entity's Grudge vulnerability to deal **52 Grudge damage** and inflicting +28 Stagger!
   * Park's sonic bow drives an acoustic pulse through the remaining specters from Node 5 for 36 Lament damage.
@@ -228,13 +228,13 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 | [SILHOUETTE][KANG] [PARK] [SEIYON] [MAJIN]                          |
 +---------------------------------------------------------------------+
 | - Node 01: Lead Silhouette (Posture 54/120 / Dream Lattice Pierced) |
-| - Node 02: Agent Kang (Point-Blank Band 1 / Heavy Maul Cleaving)    |
-| - Node 04: Agent Park (Range Band 2 / Resonant Requiem Firing)      |
+| - Node 02: Kang (Point-Blank Band 1 / Heavy Maul Cleaving)          |
+| - Node 04: Specialist Park (Range Band 2 / Resonant Requiem Firing) |
 | - Node 08: Secretary Seiyon (Sync Directive / Band 4)               |
 | - Node 10: Director Majin Command Terminal (Band 5)                 |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/7   |
-| - Agent Park : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6   |
+| - Kang : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/7         |
+| - Park : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6         |
 | - Silhouette : Spd 4 -> 2 AP | HP 184/280                           |
 |   | Posture 54/120 [CRACKED]                                        |
 +=====================================================================+
@@ -242,11 +242,11 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 
 ###### Turn 02 Action Resolution Log (Silhouette Stagger Build)
 - **Vanguard Impact & Flerehan Pulse**:
-  * **Agent Kang (Speed 6 -> 3 AP)**: Smashes the lead silhouette's dream lattice at Node 02:
+  * **Specialist Kang (Speed 6 -> 3 AP)**: Smashes the lead silhouette's dream lattice at Node 02:
     * Deals **42 Grudge Damage**!
     * Inflicts +34 Posture Strain. Silhouette Posture drops to **54/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The phantom's somnolent aura fractures.
-  * **Agent Park**: Firing from Node 04 with the Lament Requiem, deals **36 direct Lament damage**.
+  * **Specialist Park**: Firing from Node 04 with the Lament Requiem, deals **36 direct Lament damage**.
   * Silhouette HP falls to **154/280**!
 
 ---
@@ -260,11 +260,11 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 | [SILHOUETTE] [KANG] [PARK] [SEIYON] [MAJIN]                         |
 +---------------------------------------------------------------------+
 | - Node 01: Lead Silhouette (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)    |
-| - Node 03: Agent Kang (Advancing with Momentum Surge / +2 Speed)    |
-| - Node 04: Agent Park (Channeling Pure Lament Wave)                 |
+| - Node 03: Kang (Advancing with Momentum Surge / +2 Speed)          |
+| - Node 04: Specialist Park (Channeling Pure Lament Wave)            |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Post   |
-| - Agent Park : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6   |
+| - Kang : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Post         |
+| - Park : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6         |
 | - Silhouette : Spd 0 -> 0 AP | HP 96/280                            |
 |   | Posture 20/120 [STAGGERED]                                      |
 +=====================================================================+
@@ -272,8 +272,8 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Allied Focus Fire (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **58 Grudge Damage**!
-  * Agent Park channels a high-frequency harmonic beam: **44 Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **58 Grudge Damage**!
+  * Specialist Park channels a high-frequency harmonic beam: **44 Damage**!
   * Silhouette HP collapses from 154 to **52/280**! Posture drops to **14/120**!
 
 ---
@@ -287,11 +287,11 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 | [SILHOUETTE][KANG] [PARK] [SEIYON] [MAJIN]                          |
 +---------------------------------------------------------------------+
 | - Node 01: Silhouette (Recovered / Venting Heavy Somnolent Mist)    |
-| - Node 02: Agent Kang (Directional Guard Absorption Active)         |
-| - Node 04: Agent Park (Flerehan Acoustic Pulse Purging Fog)         |
+| - Node 02: Specialist Kang (Directional Guard Absorption Active)    |
+| - Node 04: Specialist Park (Flerehan Acoustic Pulse Purging Fog)    |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 8 -> 4 AP | HP 128/135 | SP +30 | Posture 66/7   |
-| - Agent Park : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6   |
+| - Kang : Spd 8 -> 4 AP | HP 128/135 | SP +30 | Posture 66/7         |
+| - Park : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6         |
 | - Silhouette : Spd 3 -> 1 AP | HP 48/280 | Posture 8/120 [WEAKENED] |
 +=====================================================================+
 ```
@@ -300,8 +300,8 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 - **Hostile Desperation Counter-Surge**:
   * The Silhouette recovers, venting heavy somnolent mist to put all nearby personnel into a coma: `[Somnolent Fog]`.
   * Containment Lead Dekan activates Floor 2's *Bastion Ward* relays, neutralizing the chemical toxin!
-  * Agent Kang deploys `[Directional Guard Absorption]`, absorbing 7 chip damage (HP: 128/135) while holding the frontline!
-  * Agent Park executes a non-lethal acoustic wave, completely dispersing the mental fog!
+  * Specialist Kang deploys `[Directional Guard Absorption]`, absorbing 7 chip damage (HP: 128/135) while holding the frontline!
+  * Specialist Park executes a non-lethal acoustic wave, completely dispersing the mental fog!
   * Silhouette Posture drops to **6/120**!
 
 ---
@@ -316,11 +316,11 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 | [KANG]  [PARK]                                                      |
 +---------------------------------------------------------------------+
 | - Node 01: Silhouette (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG) |
-| - Node 02: Agent Kang (Pinning Spectral Throat)                     |
-| - Node 03: Agent Park (Priming Resonant Requiem Siphon)             |
+| - Node 02: Specialist Kang (Pinning Spectral Throat)                |
+| - Node 03: Specialist Park (Priming Resonant Requiem Siphon)        |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 128/135 | SP +30 | Posture 66/7   |
-| - Agent Park : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6   |
+| - Kang : Spd 6 -> 3 AP | HP 128/135 | SP +30 | Posture 66/7         |
+| - Park : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6         |
 | - Silhouette : Spd 0 -> 0 AP | HP 14/280                            |
 |   | Posture 0/120 [COLLAPSED]                                       |
 +=====================================================================+
@@ -342,11 +342,11 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 | [MIST] [KANG] [PARK] [SEIYON] [MAJIN]                               |
 +---------------------------------------------------------------------+
 | - Node 01: Lead Silhouette (Dissolved to Gray Mist / Siphoned)      |
-| - Node 02: Agent Kang (Resting Maul / Checking Corridor Air)        |
-| - Node 03: Agent Park (Confirming Dormitory Personnel Safe)         |
+| - Node 02: Specialist Kang (Resting Maul / Checking Corridor Air)   |
+| - Node 03: Specialist Park (Confirming Dormitory Personnel Safe)    |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 128/135 | SP +35 | Posture 75/7   |
-| - Agent Park : Spd 6 -> 3 AP | HP 125/125 | SP +40 | Posture 65/6   |
+| - Kang : Spd 6 -> 3 AP | HP 128/135 | SP +35 | Posture 75/7         |
+| - Park : Spd 6 -> 3 AP | HP 125/125 | SP +40 | Posture 65/6         |
 | - Silhouette : HP 0/280 [PURIFIED] | +0.024 TONS REFINED HAN HARV   |
 +=====================================================================+
 ```
@@ -386,10 +386,10 @@ Shift concludes with cumulative daily harvest of **0.580 tons** (100% quota achi
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +27 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Shin: +5 Clarity (Max SP Up)                                |
-| - Agent Park: +4 Clarity (Max SP Up)                                |
-| - Agent Kang: +4 Resilience (Max HP Up)                             |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Shin: +5 Clarity (Max SP Up)                           |
+| - Specialist Park: +4 Clarity (Max SP Up)                           |
+| - Specialist Kang: +4 Resilience (Max HP Up)                        |
 +=====================================================================+
 ```
 
@@ -435,7 +435,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIβ-061 (*The Debtor*)*
 +---------------------------------------------------------------------+
 | Mourner Veil         | Head: +10% Lament                            |
 | | Resistance, +5 Speed.                                             |
-| | Alloc: Agent Park.                                                |
+| | Alloc: Specialist Park.                                           |
 +=====================================================================+
 ```
 
@@ -488,28 +488,28 @@ Majin nods slowly, watching the amber status lights reflect on the black tar: *"
 
 Shift parameters initialized for Day 103. Daily quota escalates to **0.640 tons** of pure Han. Zyrak's synthetic cognitive breakthrough provides a new operational directive: configure Floor 6 (Extraction Lead) crucibles for transmutation catalysis rather than destructive compression. Active containment focuses on stabilizing temporal strain from **SE-C-IIIβ-036** (*The Cracked Hourglass*) while harvesting golden amber resin from **SE-O-Iα-973** (*The Yggdrasil Wound*).
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Deployment & Specialist Dossiers
 
 Deployment roster for Floor 3 (Archive Lead) and Floor 6 (Extraction Lead):
 
 ```text
 +---------------------------------------------------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| SPECIALIST & GRADE       | STATS & EQUIPMENT                        |
 | | LOADOUT                                                           |
 +=====================================================================+
-| Agent Lim Grade 5   | HP:82 SP:95 Wk:90                             |
+| Specialist Lim Grade 5   | HP:82 SP:95 Wk:90                        |
 | | Sp:62 | Mourner Shroud                                            |
 | | & Locket                                                          |
 +---------------------------------------------------------------------+
-| Agent Kang Grade 5  | HP:100 SP:84 Wk:88                            |
+| Specialist Kang Grade 5  | HP:100 SP:84 Wk:88                       |
 | | Sp:64 | Soldier Coat &                                            |
 | | Heavy Maul                                                        |
 +---------------------------------------------------------------------+
-| Agent Seo Grade 5   | HP:86 SP:98 Wk:92                             |
+| Specialist Seo Grade 5   | HP:86 SP:98 Wk:92                        |
 | | Sp:65 | Apostle Suit &                                            |
 | | Scalpel                                                           |
 +---------------------------------------------------------------------+
-| Agent Yoo Grade 5   | HP:96 SP:78 Wk:84                             |
+| Specialist Yoo Grade 5   | HP:96 SP:78 Wk:84                        |
 | | Sp:58 | Lock Armor &                                              |
 | | Heavy Maul                                                        |
 +---------------------------------------------------------------------+
@@ -523,22 +523,22 @@ Extraction Lead Zyrak's *Forge Resonance* aura accelerates physical strike inter
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
-The smelting foundry glows with vivid blue luminescence. In Floor 6's botanical containment annex, Agent Lim approaches the petrified boughs of Chamber 973:
+The smelting foundry glows with vivid blue luminescence. In Floor 6's botanical containment annex, Specialist Lim approaches the petrified boughs of Chamber 973:
 
 ```text
-> Agent Lim: "The golden sap on Chamber 973 is warm to the touch. It smells like pine resin and ozone."
-> Agent Seo: "Collect the sap into the lead vials immediately. Don't let the resin cool before sealing."
+> Specialist Lim: "The golden sap on Chamber 973 is warm to the touch. It smells like pine resin and ozone."
+> Specialist Seo: "Collect the sap into the lead vials immediately. Don't let the resin cool before sealing."
 ```
 
 ##### Work Session 1: Flerehan Communion on SE-973 (The Yggdrasil Wound)
 
 Director Majin directs gentle communion:
-- `[DISPATCH ORDER: Agent Lim -> Sector 6, Chamber 973 (The Yggdrasil Wound)]`
+- `[DISPATCH ORDER: Specialist Lim -> Sector 6, Chamber 973 (The Yggdrasil Wound)]`
 - `[ASSIGNED PROTOCOL: Flerehan Communion]`
 - `[OBJECTIVE: Amber resin harvesting via sorrow sympathy]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class I Anomaly -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class I Anomaly -> RESULT: RESOLUTE.
 > Petrified bark cracks softly; golden tears of sap seep into the vials.
 ```
 
@@ -553,12 +553,12 @@ Energy counter advances to `0.055 / 0.640 tons`. Meltdown gauge: `1/7`.
 ##### Work Session 2: Pugnahan Confrontation on SE-036 (The Cracked Hourglass)
 
 Majin orders temporal stabilization:
-- `[DISPATCH ORDER: Agent Kang -> Sector 3, Chamber 036 (The Cracked Hourglass)]`
+- `[DISPATCH ORDER: Specialist Kang -> Sector 3, Chamber 036 (The Cracked Hourglass)]`
 - `[ASSIGNED PROTOCOL: Pugnahan Confrontation]`
 - `[OBJECTIVE: Mechanical sand flow suppression via kinetic impact]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class III Entity -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class III Entity -> RESULT: RESOLUTE.
 > Sand cascades in reverse; localized gravity fluctuates between 0.5G and 2.0G.
 ```
 
@@ -587,9 +587,9 @@ At work check 17, temporal and mnemonic vaults experience synchronous strain:
 
 Tactical response execution:
 1. Majin executes **Temporal Sync Override**, routing cryo-baffles across Corridor D to prevent chrono-dilation leaks.
-2. Agent Lim stabilizes Chamber 973 (*The Yggdrasil Wound*) with 14.2 seconds remaining.
-3. Agent Seo performs Viderehan observation on Chamber 115 (*The Memory Well*).
-4. Agent Yoo clears Chamber 300 (*The Memory Lock*).
+2. Specialist Lim stabilizes Chamber 973 (*The Yggdrasil Wound*) with 14.2 seconds remaining.
+3. Specialist Seo performs Viderehan observation on Chamber 115 (*The Memory Well*).
+4. Specialist Yoo clears Chamber 300 (*The Memory Lock*).
 5. All six overloads neutralized without breach.
 
 ##### Tactical Engagement / Ordeal Suppression: The Melting Cog (Violet Noon)
@@ -615,7 +615,7 @@ At 14:40, a grinding mechanical roar echoes through Floor 6's hydraulic transit 
 | - Cog rolls down corridor at high velocity                          |
 | - Range Band: Intercept at Range Band 1-2                           |
 | - Zyrak deploys Furnace Lance thermal thrust                        |
-| - Agent Yoo executes kinetic counter-smash                          |
+| - Specialist Yoo executes kinetic counter-smash                     |
 | - Gear teeth shatter; core detonates safely                         |
 | - Clash Duration: 44.8 Seconds                                      |
 | - Personnel Casualties: 0 Fatalities                                |
@@ -635,7 +635,7 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 +---------------------------------------------------------------------+
 | Extraction Lead Zyrak: Speed 6 -> 3 AP | HP: 170/170 | SP: +35      |
 | Furnace Lance                                                       |
-| Agent Yoo : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Lock Maul     |
+| Yoo : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Lock Maul           |
 | Molten Gearwheel : Speed 5 -> 3 AP | HP: 420/420 | Torque: High     |
 | Grav Shear                                                          |
 +=====================================================================+
@@ -647,13 +647,13 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
   * Marjuk readies *The Temporal Stasis Array* to stabilize the axle.
 - **Step 2: Movement & Action Point Spending**:
   * Extraction Lead Zyrak (Speed 6 -> 3 AP) plants his boots at Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Furnace Lance Thermal Axle Thrust]`. Remaining 1 AP in Guard.
-  * Agent Yoo (Speed 6 -> 3 AP) stands at Node 3 (Close Range Band 2). Spends 2 AP to prepare `[Lock Maul Kinetic Overdrive]`.
+  * Specialist Yoo (Speed 6 -> 3 AP) stands at Node 3 (Close Range Band 2). Spends 2 AP to prepare `[Lock Maul Kinetic Overdrive]`.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
   * Molten Gearwheel rolls forward with `[Gravitational Rolling Shear]` (Base 10 + 2 Coins = 14 Power).
   * Extraction Lead Zyrak's `[Furnace Lance Thermal Axle Thrust]` (Base 12 + 2 Coins = 16 Power).
   * **Resolution**: Zyrak WINS THE CLASH (16 vs 14).
     * Zyrak's furnace lance pierces the incandescent axle, halting the wheel's rolling momentum and dealing **54 Grudge/Thermal damage** with +28 Stagger!
-  * Agent Yoo follows up with `[Lock Maul Kinetic Overdrive]`, smashing the primary gear teeth for 48 blunt damage.
+  * Specialist Yoo follows up with `[Lock Maul Kinetic Overdrive]`, smashing the primary gear teeth for 48 blunt damage.
 
 
 ```text
@@ -666,11 +666,11 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 +---------------------------------------------------------------------+
 | - Node 01: Ancient Cog (Posture 52/130 / Drive Axle Pierced)        |
 | - Node 02: Extraction Lead Zyrak (Thermal Lance Thrust Landed)      |
-| - Node 03: Agent Yoo (Range Band 2 / Lock Maul Kinetic Cleave)      |
+| - Node 03: Specialist Yoo (Range Band 2 / Lock Maul Kinetic Cleave) |
 | - Node 06: Archive Lead Marjuk (Range Band 3 / Pre-Charging Stasis) |
 +---------------------------------------------------------------------+
 | - Zyrak : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 85/85       |
-| - Agent Yoo : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70   |
+| - Yoo : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70         |
 | - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90      |
 | - Ancient Cog : Spd 3 -> 1 AP | HP 182/280                          |
 |   | Posture 52/130 [CRACKED]                                        |
@@ -683,7 +683,7 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
     * Deals **44 Grudge Damage**!
     * Inflicts +36 Posture Strain. Cog Posture drops to **52/130**, breaching the **60% Posture Threshold (78 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The spinning gear teeth seize in a shower of white sparks.
-  * **Agent Yoo**: Smashes the peripheral gear train with the heavy maul for **34 kinetic damage**.
+  * **Specialist Yoo**: Smashes the peripheral gear train with the heavy maul for **34 kinetic damage**.
   * Cog HP falls to **152/280**!
 
 ---
@@ -698,11 +698,11 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 +---------------------------------------------------------------------+
 | - Node 01: Ancient Cog (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)        |
 | - Node 02: Extraction Lead Zyrak (Overheating Axle Bearings)        |
-| - Node 04: Agent Yoo (Advancing with Momentum Surge / +2 Speed)     |
+| - Node 04: Yoo (Advancing with Momentum Surge / +2 Speed)           |
 | - Node 06: Archive Lead Marjuk (Deploying Stasis Clamp)             |
 +---------------------------------------------------------------------+
 | - Zyrak : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 85/85       |
-| - Agent Yoo : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Postu   |
+| - Yoo : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Postu         |
 | - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90      |
 | - Cog : Spd 0 -> 0 AP | HP 98/280 | Posture 20/130 [STAGGERED]      |
 +=====================================================================+
@@ -710,7 +710,7 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo delivers an overhead smash directly onto the jammed gear teeth: **58 Damage**!
+  * Specialist Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo delivers an overhead smash directly onto the jammed gear teeth: **58 Damage**!
   * Zyrak melts the internal bearings with thermal spray: **46 Damage**!
   * Cog HP drops to **48/280**! Posture drops to **14/130**!
 
@@ -727,11 +727,11 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 | - Node 01: Ancient Cog (Recovered / Channeling Thermal              |
 |   Super-Torque)                                                     |
 | - Node 02: Extraction Lead Zyrak (Directional Guard Absorption)     |
-| - Node 03: Agent Yoo (Kinetic Counter-Smash Cracking Axle)          |
+| - Node 03: Specialist Yoo (Kinetic Counter-Smash Cracking Axle)     |
 | - Node 06: Archive Lead Marjuk (Applying Stasis Clamp to Flywheel)  |
 +---------------------------------------------------------------------+
 | - Zyrak : Spd 5 -> 3 AP | HP 172/180 | SP +35 | Posture 75/85       |
-| - Agent Yoo : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70   |
+| - Yoo : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70         |
 | - Cog : Spd 4 -> 2 AP | HP 44/280 | Posture 8/130 [CRITICAL]        |
 +=====================================================================+
 ```
@@ -758,10 +758,10 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 | - Node 01: Ancient Cog (TERMINAL STAGGER / POSTURE 0/130 / 2.0x     |
 |   DAM)                                                              |
 | - Node 02: Extraction Lead Zyrak (Priming Climax Thermal Lance)     |
-| - Node 03: Agent Yoo (Cracking Central Drive Shaft)                 |
+| - Node 03: Specialist Yoo (Cracking Central Drive Shaft)            |
 +---------------------------------------------------------------------+
 | - Zyrak : Spd 5 -> 3 AP | HP 172/180 | SP +35 | Posture 75/85       |
-| - Agent Yoo : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70   |
+| - Yoo : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70         |
 | - Cog : Spd 0 -> 0 AP | HP 12/280 | Posture 0/130 [COLLAPSED]       |
 +=====================================================================+
 ```
@@ -784,10 +784,10 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 | - Node 01: Ancient Cog (Detonated Safely / Slag Siphoned into       |
 |   Flues)                                                            |
 | - Node 02: Extraction Lead Zyrak (Venting Lance Heat)               |
-| - Node 03: Agent Yoo (Logging Kinetic Impact)                       |
+| - Node 03: Specialist Yoo (Logging Kinetic Impact)                  |
 +---------------------------------------------------------------------+
 | - Zyrak : Spd 5 -> 3 AP | HP 172/180 | SP +40 | Posture 85/85       |
-| - Agent Yoo : Spd 6 -> 3 AP | HP 130/130 | SP +35 | Posture 70/70   |
+| - Yoo : Spd 6 -> 3 AP | HP 130/130 | SP +35 | Posture 70/70         |
 | - Cog : HP 0/280 [PURIFIED] | +0.024 TONS REFINED HAN HARVE         |
 +=====================================================================+
 ```
@@ -829,10 +829,10 @@ Shift concludes with cumulative daily harvest of **0.640 tons** (100% quota achi
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +27 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Lim: +5 Clarity (Max SP Up)                                 |
-| - Agent Seo: +4 Clarity (Max SP Up)                                 |
-| - Agent Kang: +4 Resilience (Max HP Up)                             |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Lim: +5 Clarity (Max SP Up)                            |
+| - Specialist Seo: +4 Clarity (Max SP Up)                            |
+| - Specialist Kang: +4 Resilience (Max HP Up)                        |
 +=====================================================================+
 ```
 
@@ -932,28 +932,28 @@ Majin gazes into the dark manifold: *"The charge is 100 tons of purified sorrow,
 
 Shift parameters initialized for Day 108. Daily collection target jumps to **0.710 tons** of refined Han. The opening of Gate 05 and the admission of twelve dying Cheonbulok refugees sends an unprecedented humanitarian shockwave through the facility. Mellda's border garrison establishes a high-security quarantine corridor between Gate 05 and Floor 7's decontamination ward. Operational priority: suppress thermal flare-ups from **SE-C-IIIβ-275** (*The Rage Forge*) and stabilize ballast conduits on **SE-O-IVδ-762** (*The Burning Bridge*).
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Deployment & Specialist Dossiers
 
 Deployment roster for Floor 5 (Border Control) and Floor 7 (Outsider Relations):
 
 ```text
 +---------------------------------------------------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| SPECIALIST & GRADE       | STATS & EQUIPMENT                        |
 | | LOADOUT                                                           |
 +=====================================================================+
-| Agent Cha Grade 5   | HP:94 SP:82 Wk:86                             |
+| Specialist Cha Grade 5   | HP:94 SP:82 Wk:86                        |
 | | Sp:60 | Forge Bracer &                                            |
 | | Apostle Suit                                                      |
 +---------------------------------------------------------------------+
-| Agent Kang Grade 5  | HP:102 SP:84 Wk:88                            |
+| Specialist Kang Grade 5  | HP:102 SP:84 Wk:88                       |
 | | Sp:64 | Soldier Coat &                                            |
 | | Heavy Maul                                                        |
 +---------------------------------------------------------------------+
-| Agent Bae Grade 5   | HP:88 SP:96 Wk:90                             |
+| Specialist Bae Grade 5   | HP:88 SP:96 Wk:90                        |
 | | Sp:62 | Hollow Crown &                                            |
 | | Apostle Suit                                                      |
 +---------------------------------------------------------------------+
-| Agent Tak Grade 5   | HP:90 SP:80 Wk:84                             |
+| Specialist Tak Grade 5   | HP:90 SP:80 Wk:84                        |
 | | Sp:56 | Judgment Scale                                            |
 | | & Maul                                                            |
 +---------------------------------------------------------------------+
@@ -967,22 +967,22 @@ Border Lead Mellda's *Iron Perimeter* aura provides a facility-wide +15% damage 
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
-Outside Gate 05, the black salt storm batters the outer armor plates. On Floor 5, Agent Cha locks his *Forge Bracer* as sirens blare:
+Outside Gate 05, the black salt storm batters the outer armor plates. On Floor 5, Specialist Cha locks his *Forge Bracer* as sirens blare:
 
 ```text
-> Agent Cha: "Chamber 275 is boiling! The crucible flames are turning blue!"
-> Agent Kang: "The furnace is reacting to the refugees' anger. Quench the main valve with cryogenic foam!"
+> Specialist Cha: "Chamber 275 is boiling! The crucible flames are turning blue!"
+> Specialist Kang: "The furnace is reacting to the refugees' anger. Quench the main valve with cryogenic foam!"
 ```
 
 ##### Work Session 1: Pugnahan Confrontation on SE-275 (The Rage Forge)
 
 Director Majin directs emergency physical containment:
-- `[DISPATCH ORDER: Agent Cha -> Sector 6, Chamber 275 (The Rage Forge)]`
+- `[DISPATCH ORDER: Specialist Cha -> Sector 6, Chamber 275 (The Rage Forge)]`
 - `[ASSIGNED PROTOCOL: Pugnahan Confrontation]`
 - `[OBJECTIVE: Slag containment and crucible temperature suppression]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class III Entity -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class III Entity -> RESULT: RESOLUTE.
 > Slag geysers erupt toward the ceiling; chamber temperature hits 1,400 degrees.
 ```
 
@@ -997,12 +997,12 @@ Energy counter advances to `0.054 / 0.710 tons`. Meltdown gauge: `1/7`.
 ##### Work Session 2: Ferrehan Pressure Balancing on SE-762 (The Burning Bridge)
 
 Majin orders ballast balancing on the boundary span:
-- `[DISPATCH ORDER: Agent Kang -> Sector 5, Chamber 762 (The Burning Bridge)]`
+- `[DISPATCH ORDER: Specialist Kang -> Sector 5, Chamber 762 (The Burning Bridge)]`
 - `[ASSIGNED PROTOCOL: Ferrehan Pressure Anchoring]`
 - `[OBJECTIVE: Ballast stabilization across the void span]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class IV Sovereign -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class IV Sovereign -> RESULT: RESOLUTE.
 > Iron spans creak under heavy thermal wind; void mist swirls below the walkway.
 ```
 
@@ -1032,9 +1032,9 @@ At work check 16, the opening of the outer bulwark gates causes a sudden pressur
 Tactical response execution:
 1. Majin enforces **Quarantine Severance** on Floor 7's decontamination bay, shielding the medical teams from outside environmental toxicity.
 2. Majin activates **Firewall Rescue Diversion**, venting excess thermal exhaust away from Chamber 275.
-3. Agent Cha restabilizes Chamber 275 (*The Rage Forge*) with 12.4 seconds remaining.
-4. Agent Bae calms Chamber 895 (*The Breath of Haven*).
-5. Agent Tak clears Chamber 190 (*The Rage Statue*). All cells secured.
+3. Specialist Cha restabilizes Chamber 275 (*The Rage Forge*) with 12.4 seconds remaining.
+4. Specialist Bae calms Chamber 895 (*The Breath of Haven*).
+5. Specialist Tak clears Chamber 190 (*The Rage Statue*). All cells secured.
 
 ##### Tactical Engagement / Ordeal Suppression: The Pursuing Fire (Grudge Dawn)
 
@@ -1057,7 +1057,7 @@ At 15:10, four feral ash stalkers track the refugee crawlers into the outer peri
 | - Stalkers pursue refugee convoy to Gate 05                         |
 | - Range Band: Intercept at Range Band 1-2                           |
 | - Mellda deploys Threshold Vow energy spear                         |
-| - Agent Cha unleashes cryo-quench barrage                           |
+| - Specialist Cha unleashes cryo-quench barrage                      |
 | - Four entities collapse into inert ash                             |
 | - Clash Duration: 39.2 Seconds                                      |
 | - Personnel Casualties: 0 Fatalities                                |
@@ -1078,7 +1078,7 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 +---------------------------------------------------------------------+
 | Border Lead Mellda: Speed 6 -> 3 AP | HP: 200/200 | SP: +40         |
 | Threshold Vow                                                       |
-| Agent Cha : Speed 5 -> 3 AP | HP: 125/125 | SP: +30 | Forge Bracer  |
+| Cha : Speed 5 -> 3 AP | HP: 125/125 | SP: +30 | Forge Bracer        |
 | Ash Stalkers (x4) : Speed 6 -> 3 AP | HP: 190 each | Incandescent   |
 | Flame                                                               |
 +=====================================================================+
@@ -1089,13 +1089,13 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
   * Mellda activates *Blast Gate Lockdown*, sealing Node 5 to ensure zero hostile ingress toward the refugee crawler at Node 8.
 - **Step 2: Movement & Action Point Spending**:
   * Border Lead Mellda (Speed 6 -> 3 AP) holds Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Threshold Vow Skull-Pinning Thrust]`. Remaining 1 AP in Guard.
-  * Agent Cha (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready `[Forge Bracer High-Pressure Cryo-Spray]`.
+  * Specialist Cha (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready `[Forge Bracer High-Pressure Cryo-Spray]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Lead Ash Stalker lunges with `[Incandescent Flame Jaw]` (Base 9 + 2 Coins = 13 Power).
   * Border Lead Mellda's `[Threshold Vow Skull-Pinning Thrust]` (Base 12 + 2 Coins = 16 Power).
   * **Resolution**: Mellda WINS THE CLASH (16 vs 13).
     * Mellda drives the golden spearhead straight through the stalker's incandescent skull, pinning it to the bulkhead for **52 Grudge/Weight damage** with +26 Stagger!
-  * Agent Cha unleashes the cryo spray from Node 4, chilling the remaining stalkers with 38 Lament damage.
+  * Specialist Cha unleashes the cryo spray from Node 4, chilling the remaining stalkers with 38 Lament damage.
 
 
 ```text
@@ -1108,12 +1108,12 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 +---------------------------------------------------------------------+
 | - Node 01: Lead Stalker (Posture 48/120 / Pinned by Mellda)         |
 | - Node 02: Border Lead Mellda (Point-Blank Band 1 / Bulwark Locked) |
-| - Node 03: Agent Cha (Range Band 2 / Cryo-Quench Spray Firing)      |
-| - Node 06: Agent Park (Range Band 3 / Lament Requiem Aimed)         |
+| - Node 03: Specialist Cha (Range Band 2 / Cryo-Quench Spray Firing) |
+| - Node 06: Specialist Park (Range Band 3 / Lament Requiem Aimed)    |
 +---------------------------------------------------------------------+
 | - Mellda : Spd 6 -> 3 AP | HP 195/195 | SP +35 | Posture 95/95      |
-| - Agent Cha : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65   |
-| - Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65 |
+| - Cha : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65         |
+| - Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65       |
 | - Stalker : Spd 4 -> 2 AP | HP 182/280 | Posture 48/120 [CRACKED]   |
 +=====================================================================+
 ```
@@ -1121,7 +1121,7 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 ###### Turn 02 Action Resolution Log (Stalker Pin & Cryo Stagger Build)
 - **Pin & Cryo Quench**:
   * Mellda pins the lead stalker against Gate 05's reinforced bulkheads at Node 02.
-  * Agent Cha unleashes high-pressure cryo spray from the Forge Bracer:
+  * Specialist Cha unleashes high-pressure cryo spray from the Forge Bracer:
     * Deals **38 Thermal/Cryo Damage**!
     * Inflicts +32 Posture Strain. Stalker Posture drops to **46/120**, breaching the **60% Posture Threshold (72 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The stalker's exoskeleton freezes into brittle charcoal.
@@ -1139,12 +1139,12 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 +---------------------------------------------------------------------+
 | - Node 01: Lead Stalker (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)       |
 | - Node 03: Border Lead Mellda (Momentum Surge Primed / +2 Speed)    |
-| - Node 04: Agent Cha (Cryo-Quench Shell Freezing Chitin)            |
-| - Node 06: Agent Park (Lament Requiem Resonant Smash Fired)         |
+| - Node 04: Specialist Cha (Cryo-Quench Shell Freezing Chitin)       |
+| - Node 06: Specialist Park (Lament Requiem Resonant Smash Fired)    |
 +---------------------------------------------------------------------+
 | - Mellda : Spd 8 -> 4 AP [SURGE] | HP 195/195 | SP +35 | Postu      |
-| - Agent Cha : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65   |
-| - Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65 |
+| - Cha : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65         |
+| - Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65       |
 | - Stalker : Spd 0 -> 0 AP | HP 88/280 | Posture 18/120 [STAGGERED]  |
 +=====================================================================+
 ```
@@ -1152,7 +1152,7 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Cryo-Quench Focus (1.5x Direct Damage)**:
   * Mellda's `Momentum Surge` activates! (+2 Speed next turn). Mellda drives the golden arm-blade through the frozen thorax: **56 Grudge Damage**!
-  * Agent Park delivers a resonant Lament smash: **44 Damage**!
+  * Specialist Park delivers a resonant Lament smash: **44 Damage**!
   * Stalker HP collapses from 142 to **42/280**! Posture drops to **12/120**!
 
 ---
@@ -1167,13 +1167,13 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 +---------------------------------------------------------------------+
 | - Node 01: Stalker (Recovered / Attempting Flank toward Gate 05)    |
 | - Node 02: Border Lead Mellda (Locking Transit Portcullis)          |
-| - Node 03: Agent Cha (Directional Guard Absorption / Freezing       |
+| - Node 03: Specialist Cha (Directional Guard Absorption / Freezing  |
 |   Nodes)                                                            |
-| - Node 06: Agent Park (Piercing Acoustic Volley Firing)             |
+| - Node 06: Specialist Park (Piercing Acoustic Volley Firing)        |
 +---------------------------------------------------------------------+
 | - Mellda : Spd 8 -> 4 AP | HP 188/195 | SP +35 | Posture 85/95      |
-| - Agent Cha : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65   |
-| - Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65 |
+| - Cha : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65         |
+| - Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65       |
 | - Stalker : Spd 3 -> 1 AP | HP 38/280 | Posture 6/120 [TRAPPED]     |
 +=====================================================================+
 ```
@@ -1182,7 +1182,7 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 - **Hostile Desperation Flank**:
   * Secondary stalkers attempt to scramble past Node 02 toward the Cheonbulok refugee shelter.
   * Mellda slams the portcullis shut, blocking the corridor!
-  * Agent Cha deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 188/195) while freezing all remaining stalkers at Node 02 into brittle charcoal!
+  * Specialist Cha deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 188/195) while freezing all remaining stalkers at Node 02 into brittle charcoal!
   * Stalker HP falls to **14/280**! Posture drops to **2/120**!
 
 ---
@@ -1198,10 +1198,10 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 +---------------------------------------------------------------------+
 | - Node 01: Stalker (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG)    |
 | - Node 02: Border Lead Mellda (Threshold Blade Locked into Throat)  |
-| - Node 03: Agent Cha (Cryo Freeze Complete / Charcoal Shell)        |
+| - Node 03: Specialist Cha (Cryo Freeze Complete / Charcoal Shell)   |
 +---------------------------------------------------------------------+
 | - Mellda : Spd 6 -> 3 AP | HP 188/195 | SP +35 | Posture 85/95      |
-| - Agent Cha : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65   |
+| - Cha : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65         |
 | - Stalker : Spd 0 -> 0 AP | HP 10/280 | Posture 0/120 [COLLAPSED]   |
 +=====================================================================+
 ```
@@ -1223,10 +1223,10 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 +---------------------------------------------------------------------+
 | - Node 01: Stalkers (Shattered to Ash / Siphoned into Flues)        |
 | - Node 02: Border Lead Mellda (Checking Refugee Seals)              |
-| - Node 03: Agent Cha (Clearing Ice Shards)                          |
+| - Node 03: Specialist Cha (Clearing Ice Shards)                     |
 +---------------------------------------------------------------------+
 | - Mellda : Spd 6 -> 3 AP | HP 188/195 | SP +40 | Posture 95/95      |
-| - Agent Cha : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65   |
+| - Cha : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65         |
 | - Stalkers : HP 0/280 [PURIFIED] | +0.024 TONS REFINED HAN HARVE    |
 +=====================================================================+
 ```
@@ -1267,10 +1267,10 @@ Daily shift concludes with cumulative total of **0.710 tons** (100% quota achiev
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +28 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Cha: +5 Resilience (Max HP Up)                              |
-| - Agent Kang: +5 Resilience (Max HP Up)                             |
-| - Agent Bae: +4 Clarity (Max SP Up)                                 |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Cha: +5 Resilience (Max HP Up)                         |
+| - Specialist Kang: +5 Resilience (Max HP Up)                        |
+| - Specialist Bae: +4 Clarity (Max SP Up)                            |
 +=====================================================================+
 ```
 
@@ -1370,28 +1370,28 @@ Majin places his hand against the observation glass: *"They are safe, Ishall. Th
 
 Shift parameters initialized for Day 113. Daily collection target jumps to **0.780 tons** of pure Han. The eleventh apostolic blessing marks a critical milestone: the facility stands one single blessing away from the apocalyptic/miraculous twelfth threshold! Active containment protocols enforce strict quarantine around **SE-C-IIIβ-015** (*The Kind Healer*) while harvesting transcendent diamond-grade Han crystals from **SE-C-IIIγ-081** (*The Hollow Saint*).
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Deployment & Specialist Dossiers
 
 Deployment roster for Floor 4 (Research Lead) and Floor 2 (Containment Lead):
 
 ```text
 +---------------------------------------------------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| SPECIALIST & GRADE       | STATS & EQUIPMENT                        |
 | | LOADOUT                                                           |
 +=====================================================================+
-| Agent Hong Grade 5  | HP:88 SP:100 Wk:94                            |
+| Specialist Hong Grade 5  | HP:88 SP:100 Wk:94                       |
 | | Sp:64 | Saint Robe &                                              |
 | | Choral Staff                                                      |
 +---------------------------------------------------------------------+
-| Agent Yoon Grade 5  | HP:84 SP:96 Wk:90                             |
+| Specialist Yoon Grade 5  | HP:84 SP:96 Wk:90                        |
 | | Sp:60 | Tear Veil Suit                                            |
 | | & Sonic Bow                                                       |
 +---------------------------------------------------------------------+
-| Agent Kang Grade 5  | HP:104 SP:84 Wk:88                            |
+| Specialist Kang Grade 5  | HP:104 SP:84 Wk:88                       |
 | | Sp:65 | Soldier Coat &                                            |
 | | Heavy Maul                                                        |
 +---------------------------------------------------------------------+
-| Agent Kwak Grade 5  | HP:90 SP:86 Wk:82                             |
+| Specialist Kwak Grade 5  | HP:90 SP:86 Wk:82                        |
 | | Sp:56 | Judgment Scale                                            |
 | | & Maul                                                            |
 +---------------------------------------------------------------------+
@@ -1405,22 +1405,22 @@ Research Lead Ayshuk's *Clarity Matrix* aura projects concentrated mental buffer
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
-A soft golden glow permeates the Floor 4 transitways. Outside Chamber 15's lead-encased bulkhead, Agent Hong checks the spectroscopic sensors:
+A soft golden glow permeates the Floor 4 transitways. Outside Chamber 15's lead-encased bulkhead, Specialist Hong checks the spectroscopic sensors:
 
 ```text
-> Agent Hong: "Chamber 15's radiation isn't painful anymore. It feels like standing in early morning sunlight."
-> Agent Yoon: "Do not lower your lead visor. Even holy light can blind an operative if the frequency locks."
+> Specialist Hong: "Chamber 15's radiation isn't painful anymore. It feels like standing in early morning sunlight."
+> Specialist Yoon: "Do not lower your lead visor. Even holy light can blind an operative if the frequency locks."
 ```
 
 ##### Work Session 1: Flerehan Communion on SE-081 (The Hollow Saint)
 
 Director Majin issues the delicate communion dispatch:
-- `[DISPATCH ORDER: Agent Hong -> Sector 4, Chamber 081 (The Hollow Saint)]`
+- `[DISPATCH ORDER: Specialist Hong -> Sector 4, Chamber 081 (The Hollow Saint)]`
 - `[ASSIGNED PROTOCOL: Flerehan Communion]`
 - `[OBJECTIVE: Harmonic attunement and apostolic sorrow extraction]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class III Entity -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class III Entity -> RESULT: RESOLUTE.
 > Shimmering white light pours through the air; soundless choral bells ring.
 ```
 
@@ -1434,12 +1434,12 @@ Energy counter advances to `0.065 / 0.780 tons`. Meltdown gauge: `1/7`.
 ##### Work Session 2: Viderehan Observation on SE-015 (The Kind Healer)
 
 Majin orders remote lead-port observation:
-- `[DISPATCH ORDER: Agent Yoon -> Sector 4, Chamber 015 (The Kind Healer)]`
+- `[DISPATCH ORDER: Specialist Yoon -> Sector 4, Chamber 015 (The Kind Healer)]`
 - `[ASSIGNED PROTOCOL: Viderehan Observation]`
 - `[OBJECTIVE: Remote optical monitoring of apostolic halo frequency]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class III Entity -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class III Entity -> RESULT: RESOLUTE.
 > Golden halo hovers behind the lead shutter; child's heartbeat resonates.
 ```
 
@@ -1469,8 +1469,8 @@ At work check 18, the resonance of the eleventh blessing triggers a facility-wid
 Tactical response execution:
 1. Director Majin deploys **Four-Sign Aegis** over Floor 4, insulating Chamber 15 to prevent any accidental exposure of non-marked personnel.
 2. The healed Cheonbulok child, accompanied by medical staff, places her small hand against the lead viewing shutter of Chamber 15; the entity's strain timer clears at 7.8 seconds remaining.
-3. Agent Yoon enters Chamber 041 (*The Tear Droplet*) for Flerehan soothing.
-4. Agent Kwak clears Chamber 088 (*The Sorrow Fountain*).
+3. Specialist Yoon enters Chamber 041 (*The Tear Droplet*) for Flerehan soothing.
+4. Specialist Kwak clears Chamber 088 (*The Sorrow Fountain*).
 5. All six overloads stabilized without incident.
 
 ##### Tactical Engagement / Ordeal Suppression: The Dawn Spark (Pale Midnight)
@@ -1513,9 +1513,9 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 | DIST : Kang at N02 (Band 1); Yoon at N05 (Band 3); Hong at N06      |
 | (Band 3).                                                           |
 +---------------------------------------------------------------------+
-| Agent Kang : Speed 6 -> 3 AP | HP: 150/150 | SP: +35 | Heavy Maul   |
-| Agent Yoon : Speed 6 -> 3 AP | HP: 125/125 | SP: +35 | Tear Veil    |
-| Agent Hong : Speed 5 -> 3 AP | HP: 120/120 | SP: +30 | Choral Staff |
+| Kang : Speed 6 -> 3 AP | HP: 150/150 | SP: +35 | Heavy Maul         |
+| Yoon : Speed 6 -> 3 AP | HP: 125/125 | SP: +35 | Tear Veil          |
+| Hong : Speed 5 -> 3 AP | HP: 120/120 | SP: +30 | Choral Staff       |
 | Dawn Solar Core : Speed 5 -> 3 AP | HP: 500/500 | Sorrow: 75%       |
 | Pale Pulse                                                          |
 +=====================================================================+
@@ -1525,13 +1525,13 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 - **Step 1: Floor 4 Echo-Core Resonance (Research Lead Ayshuk)**:
   * Ayshuk deploys *The Predictive HUD*, analyzing the miniature cyan sun's radiation harmonics and granting +3 Clash Power against its Pale pulses.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Yoon (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to channel `[Tear Veil Harmonic Lament Wave]`.
-  * Agent Hong (Speed 5 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to activate `[Choral Staff Sorrow Pulse]`. Remaining 1 AP held in Guard.
-  * Agent Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Kinetic Sunder]`.
+  * Specialist Yoon (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to channel `[Tear Veil Harmonic Lament Wave]`.
+  * Specialist Hong (Speed 5 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to activate `[Choral Staff Sorrow Pulse]`. Remaining 1 AP held in Guard.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Kinetic Sunder]`.
 - **Step 3: Clash Resolution (Node 1 to 5)**:
   * Dawn Solar Core releases `[Omnidirectional Pale Sunder]` (Base 10 + 2 Coins = 14 Power).
-  * Agent Yoon & Agent Hong's `[Dual Harmonic Weeping]` (Base 12 + 2 Coins = 16 Power).
-  * **Resolution**: The Agents WIN THE CLASH (16 vs 14).
+  * Specialist Yoon & Specialist Hong's `[Dual Harmonic Weeping]` (Base 12 + 2 Coins = 16 Power).
+  * **Resolution**: The Specialists WIN THE CLASH (16 vs 14).
     * The pure sorrow wave encapsulates the solar flare, suppressing its heat and dealing **48 Lament/Void damage** with +26 Stagger!
   * Kang strikes the stabilizing baseplate from Node 2, dealing 54 Grudge damage.
 
@@ -1545,14 +1545,14 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 | [CORE] [KANG] [YOON] [HONG] [AYSHUK]                                |
 +---------------------------------------------------------------------+
 | - Node 01: Solar Core (Posture 56/140 / Cooled by Dual Weeping)     |
-| - Node 02: Agent Kang (Point-Blank Band 1 / Shield Mantlet Raised)  |
-| - Node 04: Agent Yoon (Range Band 2 / Harmonic Lament Wave Firing)  |
-| - Node 05: Agent Hong (Range Band 3 / Choral Staff Echo Firing)     |
+| - Node 02: Kang (Point-Blank Band 1 / Shield Mantlet Raised)        |
+| - Node 04: Yoon (Range Band 2 / Harmonic Lament Wave Firing)        |
+| - Node 05: Hong (Range Band 3 / Choral Staff Echo Firing)           |
 | - Node 08: Research Lead Ayshuk (Predicting Thermal-Psychic Nodes)  |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/7   |
-| - Agent Yoon : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6   |
-| - Agent Hong : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/6   |
+| - Kang : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/7         |
+| - Yoon : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6         |
+| - Hong : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/6         |
 | - Solar Core : Spd 4 -> 2 AP | HP 210/320                           |
 |   | Posture 56/140 [CRACKED]                                        |
 +=====================================================================+
@@ -1560,7 +1560,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 
 ###### Turn 02 Action Resolution Log (Dual Weeping & Solar Core Stagger)
 - **Cooling Volley & Stagger Build**:
-  * Agent Yoon and Agent Hong channel dual Lament weeping from Nodes 04 and 05, cooling the solar core's thermal corona:
+  * Specialist Yoon and Specialist Hong channel dual Lament weeping from Nodes 04 and 05, cooling the solar core's thermal corona:
     * Deals **44 Pure Lament Damage**!
     * Inflicts +36 Posture Strain. Core Posture drops to **52/140**, breaching the **60% Posture Threshold (84 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The miniature sun dims from blinding white to cool indigo.
@@ -1577,20 +1577,20 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 | [CORE] [KANG] [YOON] [HONG] [AYSHUK]                                |
 +---------------------------------------------------------------------+
 | - Node 01: Solar Core (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)         |
-| - Node 03: Agent Kang (Advancing with Momentum Surge / +2 Speed)    |
-| - Node 04: Agent Yoon (Discharging High-Frequency Lament Beam)      |
-| - Node 05: Agent Hong (Dual Choral Pulses Converging)               |
+| - Node 03: Kang (Advancing with Momentum Surge / +2 Speed)          |
+| - Node 04: Specialist Yoon (Discharging High-Frequency Lament Beam) |
+| - Node 05: Specialist Hong (Dual Choral Pulses Converging)          |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Post   |
-| - Agent Yoon : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6   |
-| - Agent Hong : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/6   |
+| - Kang : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Post         |
+| - Yoon : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6         |
+| - Hong : Spd 5 -> 3 AP | HP 120/120 | SP +35 | Posture 60/6         |
 | - Core : Spd 0 -> 0 AP | HP 112/320 | Posture 22/140 [STAGGERED]    |
 +=====================================================================+
 ```
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite into the containment ring: **56 Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite into the containment ring: **56 Damage**!
   * Yoon and Hong discharge synchronized beams: **48 Damage**!
   * Core HP collapses from 166 to **62/320**! Posture drops to **14/140**!
 
@@ -1606,12 +1606,12 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 +---------------------------------------------------------------------+
 | - Node 01: Solar Core (Recovered / Channeling 20% Max HP Pale       |
 |   Pulse)                                                            |
-| - Node 02: Agent Kang (Directional Guard Absorption Active)         |
-| - Node 04: Agent Yoon (Dampening Vibration with Tear Veil)          |
+| - Node 02: Specialist Kang (Directional Guard Absorption Active)    |
+| - Node 04: Specialist Yoon (Dampening Vibration with Tear Veil)     |
 | - Node 08: Research Lead Ayshuk (Identifying Thermal-Psychic Node)  |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 8 -> 4 AP | HP 122/135 | SP +30 | Posture 62/7   |
-| - Agent Yoon : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6   |
+| - Kang : Spd 8 -> 4 AP | HP 122/135 | SP +30 | Posture 62/7         |
+| - Yoon : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/6         |
 | - Core : Spd 3 -> 1 AP | HP 48/320 | Posture 8/140 [UNSTABLE]       |
 +=====================================================================+
 ```
@@ -1619,7 +1619,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 ###### Turn 04 Action Resolution Log (Pale Pulse Desperation)
 - **Hostile Desperation Counter-Surge**:
   * The Solar Core recovers, pulsing a 20% Max HP Pale shockwave across all nodes.
-  * Agent Kang deploys `[Directional Guard Absorption]`, taking 13 chip damage (HP: 122/135) and grounding the pulse!
+  * Specialist Kang deploys `[Directional Guard Absorption]`, taking 13 chip damage (HP: 122/135) and grounding the pulse!
   * Research Lead Ayshuk identifies the thermal-psychic node, allowing Yoon to dampen the acoustic resonance.
   * Core Posture drops to **4/140**!
 
@@ -1635,10 +1635,10 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 | [KANG]          [YOON]  [HONG]                                      |
 +---------------------------------------------------------------------+
 | - Node 01: Solar Core (TERMINAL STAGGER / POSTURE 0/140 / 2.0x DMG) |
-| - Node 02: Agent Kang (Locking Baseplate Clamp)                     |
-| - Node 04: Agent Yoon (Thermal Damping Complete)                    |
+| - Node 02: Specialist Kang (Locking Baseplate Clamp)                |
+| - Node 04: Specialist Yoon (Thermal Damping Complete)               |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 122/135 | SP +30 | Posture 62/7   |
+| - Kang : Spd 6 -> 3 AP | HP 122/135 | SP +30 | Posture 62/7         |
 | - Core : Spd 0 -> 0 AP | HP 12/320 | Posture 0/140 [COLLAPSED]      |
 +=====================================================================+
 ```
@@ -1660,10 +1660,10 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 +---------------------------------------------------------------------+
 | - Node 01: Solar Core (Dissolved to Starlight & Han Vapor /         |
 |   Siphoned)                                                         |
-| - Node 02: Agent Kang (Resting Climax Maul)                         |
-| - Node 04: Agent Yoon (Logging Thermal Equilibrium)                 |
+| - Node 02: Specialist Kang (Resting Climax Maul)                    |
+| - Node 04: Specialist Yoon (Logging Thermal Equilibrium)            |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 122/135 | SP +35 | Posture 75/7   |
+| - Kang : Spd 6 -> 3 AP | HP 122/135 | SP +35 | Posture 75/7         |
 | - Core : HP 0/320 [PURIFIED] | +0.026 TONS REFINED HAN HARV         |
 +=====================================================================+
 ```
@@ -1705,10 +1705,10 @@ Shift concludes with cumulative daily harvest of **0.780 tons** (100% quota achi
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +28 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Hong: +5 Clarity (Max SP Up)                                |
-| - Agent Yoon: +5 Clarity (Max SP Up)                                |
-| - Agent Kang: +4 Resilience (Max HP Up)                             |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Hong: +5 Clarity (Max SP Up)                           |
+| - Specialist Yoon: +5 Clarity (Max SP Up)                           |
+| - Specialist Kang: +4 Resilience (Max HP Up)                        |
 +=====================================================================+
 ```
 
@@ -1811,7 +1811,7 @@ Operational priorities for Day 117:
 +=====================================================================+
 | DEPLOYED ROSTER: DAY 117 MAW PACIFICATION SQUAD                     |
 +---------------------------------------------------------------------+
-| AGENT & RATING | STATS, GEAR & FOUR P-FRAMEWORK SPEC                |
+| SPECIALIST & RATING | STATS, GEAR & FOUR P-FRAMEWORK SPEC           |
 +---------------------------------------------------------------------+
 | Containment Lead Dekan| HP 210| SP 80 | Work 70                     |
 |   | Speed 5 (3 AP Base)                                             |
@@ -1829,7 +1829,7 @@ Operational priorities for Day 117:
 | | Posture: 90/90 | Parry: 18 Power | Pass: Fo                       |
 | | Panic Typology: Despair (SP <= -35)                               |
 +---------------------------------------------------------------------+
-| Agent Kang (Grade V)  | HP 140| SP 78 | Work 66                     |
+| Specialist Kang (Grade V)  | HP 140| SP 78 | Work 66                |
 |   | Speed 6 (3 AP + 1 Move)                                         |
 | Senior Breacher | M.A.W.-W: Climax Maul (Grudge / Heavy / 2 AP)     |
 | Floor 2 Assigned | Suit: Chitin Carapace Mail (Heavy / Spd +1)      |
@@ -1897,13 +1897,13 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 | - Node 02: Sediment Behemoth (Basalt Mudslide Eruption Epicenter)   |
 | - Node 03: Containment Lead Dekan (Frontline Anchor / Band 1)       |
 | - Node 04: Extraction Lead Zyrak (Thermal Mid-Field / Band 2)       |
-| - Node 05: Agent Kang (Senior Breacher / Heavy Maul / Band 3)       |
+| - Node 05: Specialist Kang (Senior Breacher / Heavy Maul / Band 3)  |
 | - Node 10: Director Majin & Seiyon Command Console (Band 5)         |
 +---------------------------------------------------------------------+
 | OPERATIVE STATUS & RESOURCE POOLS:                                  |
 | - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP 80/80 | Posture 105       |
 | - Zyrak : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/       |
-| - Agent Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/ |
+| - Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/       |
 | - Behemoth : Spd 4 -> 2 AP | HP 400/400 | Posture 200/200           |
 +=====================================================================+
 ```
@@ -1919,7 +1919,7 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
     * The basalt siphon locks the creature's primary tusk, diverting the mudslide into the drainage flues!
     * Deals 36 Weight damage (HP: 364/400) and inflicts +32 Posture Strain (Posture: 168/200).
   * **Extraction Lead Zyrak (Speed 6 -> 3 AP)**: From Node 04, fires `[Thermal Spray]`, boiling the mud armor: **42 Grudge Damage**!
-  * **Agent Kang**: Smashes with *Climax Maul* for **34 damage**. Behemoth HP drops to **288/400**!
+  * **Specialist Kang**: Smashes with *Climax Maul* for **34 damage**. Behemoth HP drops to **288/400**!
 
 ---
 
@@ -1935,11 +1935,11 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 |   Crack)                                                            |
 | - Node 03: Containment Lead Dekan (Basalt Siphon Parry Executed)    |
 | - Node 04: Extraction Lead Zyrak (Thermal Spray Melting Silt)       |
-| - Node 05: Agent Kang (Climax Maul Sunder Landed)                   |
+| - Node 05: Specialist Kang (Climax Maul Sunder Landed)              |
 +---------------------------------------------------------------------+
 | - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP 80/80 | Posture 105       |
 | - Zyrak : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/       |
-| - Agent Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/ |
+| - Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/       |
 | - Behemoth : Spd 3 -> 1 AP | HP 302/400 | Posture 124/200 [CRACKED] |
 +=====================================================================+
 ```
@@ -1947,7 +1947,7 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 ##### Turn 02 Action Resolution Log (Shell Fissure & Stagger Build)
 - **Coordinated Vanguard Strike**:
   * Zyrak melts the anterior silt plating: **38 Grudge Damage**!
-  * Agent Kang drives the heavy maul into the softened shell: **46 Damage**!
+  * Specialist Kang drives the heavy maul into the softened shell: **46 Damage**!
   * Behemoth HP drops to **204/400**!
   * Combined Posture strain inflicts +44 points. Posture drops to **80/200**, breaching the **60% Posture Threshold (120 Points)**!
   * **STAGGER LEVEL 1 TRIGGERED!** The behemoth's tusks droop, its mud armor cracking open!
@@ -1966,11 +1966,11 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 | - Node 02: Sediment Behemoth (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)  |
 | - Node 02: Containment Lead Dekan (Driving Siphon into Heart Core)  |
 | - Node 04: Extraction Lead Zyrak (Overheating Mud Armor)            |
-| - Node 05: Agent Kang (Momentum Surge Primed / +2 Speed Next Turn)  |
+| - Node 05: Kang (Momentum Surge Primed / +2 Speed Next Turn)        |
 +---------------------------------------------------------------------+
 | - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP 80/80 | Posture 105       |
 | - Zyrak : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/       |
-| - Agent Kang  : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP 78/78 | Pos |
+| - Kang  : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP 78/78 | Pos       |
 | - Behemoth : Spd 0 -> 0 AP | HP 168/400                             |
 |   | Posture 46/200 [STAGGERED]                                      |
 +=====================================================================+
@@ -1978,7 +1978,7 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 
 ##### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **64 Grudge Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite: **64 Grudge Damage**!
   * Dekan drives the basalt siphon deep into the exposed heart core: **56 Damage**!
   * Behemoth HP collapses from 204 to **84/400**! Posture drops to **20/200**!
 
@@ -1997,11 +1997,11 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 | - Node 03: Containment Lead Dekan (Directional Guard Absorption     |
 |   Active)                                                           |
 | - Node 04: Extraction Lead Zyrak (Thermal Blast Evaporating Mud)    |
-| - Node 05: Agent Kang (Spd 8 / AP 4 / Heavy Maul Sunder)            |
+| - Node 05: Specialist Kang (Spd 8 / AP 4 / Heavy Maul Sunder)       |
 +---------------------------------------------------------------------+
 | - Dekan : Spd 5 -> 3 AP | HP 198/210 | SP 76/80 | Posture 90/       |
 | - Zyrak : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/       |
-| - Agent Kang  : Spd 8 -> 4 AP | HP 140/140 | SP 78/78 | Posture 80/ |
+| - Kang  : Spd 8 -> 4 AP | HP 140/140 | SP 78/78 | Posture 80/       |
 | - Behemoth : Spd 4 -> 2 AP | HP 84/400 | Posture 20/200 [UNSTABLE]  |
 +=====================================================================+
 ```
@@ -2028,11 +2028,11 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 |   2.0x DAMAGE)                                                      |
 | - Node 02: Containment Lead Dekan (Jaw Clamp Pinning Anterior Tusk) |
 | - Node 03: Extraction Lead Zyrak (Thermal Lance Overdrive)          |
-| - Node 04: Agent Kang (Priming Climax Execution)                    |
+| - Node 04: Specialist Kang (Priming Climax Execution)               |
 +---------------------------------------------------------------------+
 | - Dekan : Spd 5 -> 3 AP | HP 198/210 | SP 76/80 | Posture 90/       |
 | - Zyrak : Spd 6 -> 3 AP | HP 185/185 | SP 78/78 | Posture 90/       |
-| - Agent Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/ |
+| - Kang  : Spd 6 -> 3 AP | HP 140/140 | SP 78/78 | Posture 80/       |
 | - Behemoth : Spd 0 -> 0 AP | HP 20/400 | Posture 0/200 [COLLAPSED]  |
 +=====================================================================+
 ```
@@ -2055,11 +2055,11 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 | - Node 02: Sediment Behemoth (Dissolved into River Silt / Siphoned) |
 | - Node 03: Containment Lead Dekan (Venting Basalt Siphon)           |
 | - Node 04: Extraction Lead Zyrak (Securing RHR Reagents)            |
-| - Node 05: Agent Kang (Reporting Siphon Vault Clear)                |
+| - Node 05: Specialist Kang (Reporting Siphon Vault Clear)           |
 +---------------------------------------------------------------------+
 | - Dekan : Spd 5 -> 3 AP | HP 198/210 | SP 80/80 | Posture 100       |
 | - Zyrak : Spd 6 -> 3 AP | HP 185/185 | SP +40 | Posture 90/90       |
-| - Agent Kang  : Spd 6 -> 3 AP | HP 140/140 | SP +40 | Posture 80/80 |
+| - Kang  : Spd 6 -> 3 AP | HP 140/140 | SP +40 | Posture 80/80       |
 | - Behemoth : HP 0/400 [PURIFIED] | +0.030 TONS REFINED HAN HARVE    |
 +=====================================================================+
 ```
@@ -2092,7 +2092,7 @@ Total daily harvest reaches **0.292 / 0.280 tons**! Quota surpassed!
 | OPERATIVE ADVANCEMENT :                                             |
 | - Containment Dekan : +5 Resilience, +3 Composure (Maw Guardian)    |
 | - Extraction Zyrak : +5 Composure, +3 Resolve (Forge Master)        |
-| - Agent Kang : +4 Resilience, +3 Clarity (Senior Bulwark)           |
+| - Specialist Kang : +4 Resilience, +3 Clarity (Senior Bulwark)      |
 +=====================================================================+
 ```
 
@@ -2112,11 +2112,11 @@ Total daily harvest reaches **0.292 / 0.280 tons**! Quota surpassed!
 | | Resist: 0.5 Grudge / 0.7 Lament / 0.5 Weig                        |
 | Maw Tusk Brooch | Chest Slot: +12 HP, +10% Tremor Nullificat        |
 +---------------------------------------------------------------------+
-| EQUIPMENT ALLOCATION | BESTOWED UPON AGENT KANG (SENIOR BREACHER)   |
+| EQUIPMENT ALLOCATION | BESTOWED UPON KANG (SENIOR BREACHER)         |
 +=====================================================================+
 ```
 
-Agent Kang equips the *Basalt Great-Maul*, establishing himself as Floor 2's supreme physical frontline breacher.
+Specialist Kang equips the *Basalt Great-Maul*, establishing himself as Floor 2's supreme physical frontline breacher.
 
 ---
 
@@ -2167,28 +2167,28 @@ Majin places his hand upon the iron railing: *"Let them gather. In cycle 1,778, 
 
 Shift parameters initialized for Day 121. Daily energy target peaks at **0.850 tons** of pure crystalline Han. Cumulative hydraulic ballast crosses **49.740 tons**—a mere 260 kilograms away from the historic 50-ton supercritical threshold! The vertical energy conduits connecting Floor 1 to Floor 8 hum in total harmonic synchronization. Operational priority: suppress convergence resonance from **SE-C-IIIγ-010** (*The Convergence*) while securing the final Han reserves before Batch 6.
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Deployment & Specialist Dossiers
 
 Deployment roster for Floor 1 (Central Command) and Floor 3 (Archive Lead):
 
 ```text
 +---------------------------------------------------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| SPECIALIST & GRADE       | STATS & EQUIPMENT                        |
 | | LOADOUT                                                           |
 +=====================================================================+
-| Agent Kang Grade 5  | HP:105 SP:85 Wk:90                            |
+| Specialist Kang Grade 5  | HP:105 SP:85 Wk:90                       |
 | | Sp:65 | Soldier Coat &                                            |
 | | Heavy Maul                                                        |
 +---------------------------------------------------------------------+
-| Agent Seo Grade 5   | HP:88 SP:100 Wk:94                            |
+| Specialist Seo Grade 5   | HP:88 SP:100 Wk:94                       |
 | | Sp:66 | Apostle Suit &                                            |
 | | Scalpel                                                           |
 +---------------------------------------------------------------------+
-| Agent Park Grade 5  | HP:88 SP:94 Wk:88                             |
+| Specialist Park Grade 5  | HP:88 SP:94 Wk:88                        |
 | | Sp:60 | Mourner Veil &                                            |
 | | Sonic Bow                                                         |
 +---------------------------------------------------------------------+
-| Agent Kim Grade 5   | HP:98 SP:80 Wk:84                             |
+| Specialist Kim Grade 5   | HP:98 SP:80 Wk:84                        |
 | | Sp:58 | Lock Armor &                                              |
 | | Heavy Maul                                                        |
 +---------------------------------------------------------------------+
@@ -2202,22 +2202,22 @@ Secretary Seiyon's *Sync Directive* aura optimizes multi-floor coordination, inc
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
-The command displays burn with brilliant amber indicators. In Floor 2's convergence antechamber, Agent Kang activates his *Threshold Suit* locks:
+The command displays burn with brilliant amber indicators. In Floor 2's convergence antechamber, Specialist Kang activates his *Threshold Suit* locks:
 
 ```text
-> Agent Kang: "Chamber 010 is cycling all three bird frequencies simultaneously. The air feels heavy as lead."
-> Agent Seo: "Maintain spacing. If the feathered wings manifest, drive the maul into the harmonic focus."
+> Specialist Kang: "Chamber 010 is cycling all three bird frequencies simultaneously. The air feels heavy as lead."
+> Specialist Seo: "Maintain spacing. If the feathered wings manifest, drive the maul into the harmonic focus."
 ```
 
 ##### Work Session 1: Pugnahan Confrontation on SE-010 (The Convergence)
 
 Director Majin directs high-risk suppression:
-- `[DISPATCH ORDER: Agent Kang -> Sector 2, Chamber 010 (The Convergence)]`
+- `[DISPATCH ORDER: Specialist Kang -> Sector 2, Chamber 010 (The Convergence)]`
 - `[ASSIGNED PROTOCOL: Pugnahan Confrontation]`
 - `[OBJECTIVE: Physical disruption of coalescing sovereign resonance]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class III Sovereign -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class III Sovereign -> RESULT: RESOLUTE.
 > Three pairs of shadowy wings unfurl; acoustic frequencies peak at 88 dB.
 ```
 
@@ -2232,12 +2232,12 @@ Energy counter advances to `0.068 / 0.850 tons`. Meltdown gauge: `1/7`.
 ##### Work Session 2: Viderehan Observation on SE-115 (The Memory Well)
 
 Majin orders deep archival observation:
-- `[DISPATCH ORDER: Agent Seo -> Sector 3, Chamber 115 (The Memory Well)]`
+- `[DISPATCH ORDER: Specialist Seo -> Sector 3, Chamber 115 (The Memory Well)]`
 - `[ASSIGNED PROTOCOL: Viderehan Observation]`
 - `[OBJECTIVE: Decryption of Founder's final mnemonic records]`
 
 ```text
-> FEAR CHECK: Level V Agent vs Class III Entity -> RESULT: RESOLUTE.
+> FEAR CHECK: Level V Specialist vs Class III Entity -> RESULT: RESOLUTE.
 > Ancient tears rise from the well; holographic text lines the chamber walls.
 ```
 
@@ -2265,10 +2265,10 @@ At work check 18, the facility's cumulative ballast triggers a massive harmonic 
 
 Tactical response execution:
 1. Majin enforces **Full-Grid Harmonic Lock**, routing emergency power through Floor 1 capacitors to absorb excess electromagnetic back-surges.
-2. Agent Kang stabilizes Chamber 010 (*The Convergence*) with 16.5 seconds remaining.
-3. Agent Seo completes observation on Chamber 115 (*The Memory Well*).
-4. Agent Park clears Chamber 001 (*The Bell*).
-5. Agent Kim secures Chamber 005 (*The Mother*). All six cells safely locked.
+2. Specialist Kang stabilizes Chamber 010 (*The Convergence*) with 16.5 seconds remaining.
+3. Specialist Seo completes observation on Chamber 115 (*The Memory Well*).
+4. Specialist Park clears Chamber 001 (*The Bell*).
+5. Specialist Kim secures Chamber 005 (*The Mother*). All six cells safely locked.
 
 ##### Tactical Engagement / Ordeal Suppression: The Foundation Shard (Violet Midnight)
 
@@ -2290,7 +2290,7 @@ At 17:00, space shatters in Floor 1's Central Command Atrium:
 | ENGAGEMENT TELEMETRY:                                               |
 | - Monolith pins command staff under 3.5G                            |
 | - Range Band: Intercept at Range Band 1                             |
-| - Agent Kang charges through grav disruption                        |
+| - Specialist Kang charges through grav disruption                   |
 | - Downward Lock Maul smash fractures core                           |
 | - Monolith crumbles into inert purple sand                          |
 | - Clash Duration: 48.9 Seconds                                      |
@@ -2310,7 +2310,7 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
 | DIST : Kang at N02 (Band 1); Staff at N06 (Pinned 3.5G); Majin at   |
 | N09.                                                                |
 +---------------------------------------------------------------------+
-| Agent Kang : Speed 6 -> 3 AP | HP: 155/155 | SP: +35 | Threshold    |
+| Kang : Speed 6 -> 3 AP | HP: 155/155 | SP: +35 | Threshold          |
 | Maul                                                                |
 | Director Majin : Speed 5 -> 3 AP | HP: 200/200 | SP: +45 | Command  |
 | Eye                                                                 |
@@ -2321,15 +2321,15 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
 
 ###### Turn 01 Action Resolution Log (Floor 1 Command Atrium)
 - **Step 1: Floor 1 Echo-Core Resonance (Director Majin & Secretary Seiyon)**:
-  * Majin deploys *The Command Eye*, rerolling Agent Kang's Speed Die to maximum, unlocking 3 Action Points under heavy gravity.
+  * Majin deploys *The Command Eye*, rerolling Specialist Kang's Speed Die to maximum, unlocking 3 Action Points under heavy gravity.
   * Seiyon engages emergency ballast compensators around the central consoles.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Kang (Speed 6 -> 3 AP) activates *Threshold Suit* grav-locks, spending 1 AP to sprint directly to Node 2 (Point-Blank Range Band 1) beneath the apex.
+  * Specialist Kang (Speed 6 -> 3 AP) activates *Threshold Suit* grav-locks, spending 1 AP to sprint directly to Node 2 (Point-Blank Range Band 1) beneath the apex.
   * Kang spends 2 AP to prepare `[Threshold Maul Titanic Downward Cleave]`.
   * Director Majin (Speed 5 -> 3 AP) operates from Node 9, spending 2 AP to maintain *Administrative Clarity* team-wide. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
   * Foundation Shard charges `[3.5G Gravitational Reality Shear]` (Base 11 + 2 Coins = 15 Power).
-  * Agent Kang's `[Threshold Maul Titanic Cleave]` (Base 13 + 2 Coins = 17 Power).
+  * Specialist Kang's `[Threshold Maul Titanic Cleave]` (Base 13 + 2 Coins = 17 Power).
   * **Resolution**: Kang WINS THE CLASH (17 vs 15).
     * Kang's warhammer crashes into the obelisk's grav-core, arresting the gravitational pulse and dealing **62 Grudge damage** with +32 Stagger!
   * The shockwave frees the pinned command staff, allowing immediate evacuation toward Node 10.
@@ -2344,18 +2344,18 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
 | [SHARD] [KANG] [SEIYON][MAJIN]                                      |
 +---------------------------------------------------------------------+
 | - Node 01: Reality Shard (Posture 72/160 / Apex Smashed by Kang)    |
-| - Node 02: Agent Kang (Point-Blank Band 1 / Heavy Maul Cleaving)    |
+| - Node 02: Kang (Point-Blank Band 1 / Heavy Maul Cleaving)          |
 | - Node 09: Secretary Seiyon (Sync Directive Active / Band 5)        |
 | - Node 10: Director Majin (Tactical Command Rerolls Engaged)        |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 140/140 | SP +35 | Posture 80/8   |
+| - Kang : Spd 6 -> 3 AP | HP 140/140 | SP +35 | Posture 80/8         |
 | - Shard : Spd 4 -> 2 AP | HP 220/340 | Posture 72/160 [CRACKED]     |
 +=====================================================================+
 ```
 
 ###### Turn 02 Action Resolution Log (Apex Smash & Stagger Build)
 - **Direct Kinetic Sunder**:
-  * Agent Kang smashes the shard's crystalline apex with the heavy maul at Node 02:
+  * Specialist Kang smashes the shard's crystalline apex with the heavy maul at Node 02:
     * Deals **48 Grudge Damage**!
     * Inflicts +38 Posture Strain. Shard Posture drops to **58/160**, breaching the **60% Posture Threshold (96 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The geometric fracture wavers and destabilizes.
@@ -2373,17 +2373,17 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
 | [SHARD] [KANG] [SEIYON][MAJIN]                                      |
 +---------------------------------------------------------------------+
 | - Node 01: Reality Shard (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)      |
-| - Node 03: Agent Kang (Advancing with Momentum Surge / +2 Speed)    |
+| - Node 03: Kang (Advancing with Momentum Surge / +2 Speed)          |
 | - Node 10: Director Majin (Coordinating Siphon Array)               |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP +35 | Post   |
+| - Kang : Spd 8 -> 4 AP [SURGE] | HP 140/140 | SP +35 | Post         |
 | - Shard : Spd 0 -> 0 AP | HP 116/340 | Posture 24/160 [STAGGERED]   |
 +=====================================================================+
 ```
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Agent Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers an overhead smash: **68 Grudge Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers an overhead smash: **68 Grudge Damage**!
   * Shard HP collapses from 172 to **56/340**! Posture drops to **16/160**!
 
 ---
@@ -2397,10 +2397,10 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
 | [SHARD] [KANG] [SEIYON][MAJIN]                                      |
 +---------------------------------------------------------------------+
 | - Node 01: Reality Shard (Recovered / Channeling Reality Shear)     |
-| - Node 02: Agent Kang (Directional Guard Absorption Active)         |
+| - Node 02: Specialist Kang (Directional Guard Absorption Active)    |
 | - Node 10: Director Majin (Deploying Veil Mist Dampener)            |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 8 -> 4 AP | HP 132/140 | SP +35 | Posture 70/8   |
+| - Kang : Spd 8 -> 4 AP | HP 132/140 | SP +35 | Posture 70/8         |
 | - Shard : Spd 3 -> 1 AP | HP 48/340 | Posture 8/160 [FRACTURED]     |
 +=====================================================================+
 ```
@@ -2409,7 +2409,7 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
 - **Hostile Desperation Counter-Surge**:
   * The Reality Shard recovers, attempting `[Tectonic Reality Shear]` to warp the central command floorplates.
   * Director Majin deploys the *Veil Mist Dampener*, stabilizing local physics!
-  * Agent Kang deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 132/140).
+  * Specialist Kang deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 132/140).
   * Kang executes a kinetic counter-strike, shattering the outer lattice!
   * Shard HP drops to **16/340**! Posture drops to **2/160**!
 
@@ -2426,9 +2426,9 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
 +---------------------------------------------------------------------+
 | - Node 01: Reality Shard (TERMINAL STAGGER / POSTURE 0/160 / 2.0x   |
 |   DAMAGE)                                                           |
-| - Node 02: Agent Kang (Shattering Outer Crystalline Lattice)        |
+| - Node 02: Specialist Kang (Shattering Outer Crystalline Lattice)   |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 132/140 | SP +35 | Posture 70/8   |
+| - Kang : Spd 6 -> 3 AP | HP 132/140 | SP +35 | Posture 70/8         |
 | - Shard : Spd 0 -> 0 AP | HP 12/340 | Posture 0/160 [COLLAPSED]     |
 +=====================================================================+
 ```
@@ -2449,9 +2449,9 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
 | [SAND] [KANG] [SEIYON][MAJIN]                                       |
 +---------------------------------------------------------------------+
 | - Node 01: Reality Shard (Crumbled to Purple Sand / Siphoned)       |
-| - Node 02: Agent Kang (Resting Climax Maul / Sector Clear)          |
+| - Node 02: Specialist Kang (Resting Climax Maul / Sector Clear)     |
 +---------------------------------------------------------------------+
-| - Agent Kang : Spd 6 -> 3 AP | HP 132/140 | SP +40 | Posture 80/8   |
+| - Kang : Spd 6 -> 3 AP | HP 132/140 | SP +40 | Posture 80/8         |
 | - Shard : HP 0/340 [PURIFIED] | +0.028 TONS REFINED HAN HARV        |
 +=====================================================================+
 ```
@@ -2493,10 +2493,10 @@ Daily shift concludes with cumulative total of **0.850 tons** (100% quota achiev
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +30 RHR                                       |
-| AGENT ADVANCEMENT:                                                  |
-| - Agent Kang: +5 Resilience (Max HP Up)                             |
-| - Agent Seo: +5 Clarity (Max SP Up)                                 |
-| - Agent Kim: +4 Resilience (Max HP Up)                              |
+| SPECIALIST ADVANCEMENT:                                             |
+| - Specialist Kang: +5 Resilience (Max HP Up)                        |
+| - Specialist Seo: +5 Clarity (Max SP Up)                            |
+| - Specialist Kim: +4 Resilience (Max HP Up)                         |
 +=====================================================================+
 ```
 
@@ -2538,7 +2538,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IVδ-002 (*The Colossus o
 | Absolute Verdict     | Eye Slot: Absolute                           |
 | | Penetration, +25%                                                 |
 | | Clash Power in Crisis.                                            |
-| | Alloc: Agent Kang.                                                |
+| | Alloc: Specialist Kang.                                           |
 +---------------------------------------------------------------------+
 | Foundation Greaves   | Legs: +25% Weight                            |
 | | Resistance, Immune to                                             |

@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It becomes calmer when no one tries to possess it.
 - Its marks fade when a bond ends honestly.
 
-**Personnel Note:** *"It was singing. I felt longing. The song belonged to a chain that had once been called love."* — Agent, Zone B patrol
+**Personnel Note:** *"It was singing. I felt longing. The song belonged to a chain that had once been called love."* — Specialist, Zone B patrol
 
 
 
@@ -389,6 +389,6 @@ Some sorrows are about loss. Thralldom is about the holding that outlasted the l
 ## Document Information
 
 **Document ID:** SE-O-Iα-754
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

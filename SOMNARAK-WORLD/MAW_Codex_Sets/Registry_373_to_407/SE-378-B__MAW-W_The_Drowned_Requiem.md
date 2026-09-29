@@ -7,7 +7,7 @@
 **Document ID:** `SE-378-B`  
 **Linked Entity:** `SE-378` — Fathom  
 **Item Registry Code:** `MAW-W-378-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Drowned Requiem is a diving bell of deep-blue Han crystal that sounds like a
 **Document ID:** `SE-378-B`  
 **Linked Entity:** `SE-378`  
 **Item Registry Code:** `MAW-W-378-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -903,7 +903,7 @@ game_wiki_html = """<!DOCTYPE html>
           <h3>Abnormality Work Matrix</h3>
           <p>Complete statistical odds for Fortitude (Instinct), Prudence (Insight), Temperance (Attachment), and Justice (Repression).</p>
           <ul class="feature-list">
-            <li>PE-Box and NE-Box yield calculations</li>
+            <li>PE-Box and Fracture Box yield calculations</li>
             <li>Qliphoth Counter trigger rules & escapes</li>
             <li>Work duration, movement speed & damage ticks</li>
           </ul>
@@ -945,12 +945,12 @@ game_wiki_html = """<!DOCTYPE html>
         <span class="tag-badge badge-lor">DECKBUILDING TACTICAL DICE BATTLE</span>
       </div>
       <p style="color: var(--text-muted); margin-bottom: 20px;">
-        Complete deckbuilding, Key Page attribution, Combat Page clashing formulas, Speed Dice mechanics, and Floor Realization trauma boss walkthroughs.
+        Complete deckbuilding, Memory Leaf attribution, Combat Page clashing formulas, Speed Dice mechanics, and Floor Realization trauma boss walkthroughs.
       </p>
 
       <div class="module-grid">
         <div class="module-card">
-          <h3>Key Pages & Passive Attribution</h3>
+          <h3>Memory Leaves & Passive Attribution</h3>
           <p>Deck slot optimization, attribute point budgets, and dice power synergies.</p>
           <ul class="feature-list">
             <li>Slash, Pierce, Blunt, Block, Evade bonuses</li>
@@ -1119,7 +1119,7 @@ game_wiki_html = """<!DOCTYPE html>
           <tr>
             <td><strong>Extracted Gear</strong></td>
             <td>E.G.O Weapon & Suit</td>
-            <td>Key Page & Combat Page</td>
+            <td>Memory Leaf & Combat Page</td>
             <td>Identity & E.G.O</td>
             <td>M.A.W. Armament & Attire</td>
           </tr>

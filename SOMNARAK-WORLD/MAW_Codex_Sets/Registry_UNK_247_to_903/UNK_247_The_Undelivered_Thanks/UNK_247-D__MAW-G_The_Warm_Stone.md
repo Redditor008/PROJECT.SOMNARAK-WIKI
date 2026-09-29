@@ -5,7 +5,7 @@
 **Document ID:** `UNK-247-D`  
 **Linked Entity:** `UNK-247` — The Undelivered Thanks  
 **Item Registry Code:** `MAW-G-UNK-247-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -39,7 +39,7 @@ A smooth, palm-sized river pebble radiating a steady 37°C body warmth, worn str
 **Document ID:** `UNK-247-D`  
 **Linked Entity:** `UNK-247`  
 **Item Registry Code:** `MAW-G-UNK-247-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

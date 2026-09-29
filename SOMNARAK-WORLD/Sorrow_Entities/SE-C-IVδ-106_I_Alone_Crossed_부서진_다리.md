@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It mirrors the worker's own fear of failure.
 - It becomes calmer when blame is distributed honestly.
 
-**Personnel Note:** *"I felt emptiness. The Bridge was not empty; it was full of every person the guide believed they had failed."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt emptiness. The Bridge was not empty; it was full of every person the guide believed they had failed."* — Specialist, Zone D patrol
 
 
 

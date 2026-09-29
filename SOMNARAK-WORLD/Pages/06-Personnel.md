@@ -33,7 +33,7 @@ Facility 01 is organized into nine departmental floors, each under the absolute 
 | Director Title | Personal Name | Assigned Department | Signature Armament | Core Operational Mandate |
 |---|---|---|---|---|
 | **The Director** | Majin  [마진]  (_Majin_) | Floor 1: Spires | Reaper Hungered (Ω Scythe) | Overall facility command, threshold discipline, and high-threat intervention. |
-| **The Secretary** | Seiyon  [세이연]  (_Seiyon_) | Floor 1: Central Admin | The Promise (Key Pages) | Administrative ledgers, inter-floor coordination, and historical records. |
+| **The Secretary** | Seiyon  [세이연]  (_Seiyon_) | Floor 1: Central Admin | The Promise (Memory Leaves) | Administrative ledgers, inter-floor coordination, and historical records. |
 | **The Containment Lead** | Dekan  [데칸]  (_Dekan_) | Floor 2: Maw's Keep | Scaled Maw-Flesh Arm | Heavy physical containment, cell reinforcement, and suppression barricades. |
 | **The Extraction Lead** | Zyrak  [지락]  (_Jyrak_) | Floor 3: Extraction Hall | Mechanical Hands & Rig | Mnemonic Well operations, raw Han pumping, and Lumen distillation. |
 | **The Research Lead** | Ayshuk  [아이숙]  (_Ayshuk_) | Floor 4: Insight Forge | Research Ledger | Behavioral decoding, work-affinity analysis, and technical innovation. |
@@ -77,11 +77,11 @@ Frontline containment and suppression tasks are executed by **Specialists** recr
 Somnarak corporate governance is strictly codified. Exactly **Ten Primary Companies** hold sovereign operational charters recognized by the municipal Council of Sighs:
 
 ### The Five Main Companies (Central Charters)
-- **First Main Wing:** Heavy structural engineering and spire maintenance.
-- **Second Main Wing:** Energy grid distribution and macro-Lumen transmission.
-- **Third Main Wing:** Hydraulic pumping and deep drainage networks.
-- **Fourth Main Wing:** Food synthesis, hydroponic algae towers, and municipal rations.
-- **Fifth Main Wing:** Civic defense garrison, gate security, and public peace enforcement.
+- **First Main Charter:** Heavy structural engineering and spire maintenance.
+- **Second Main Charter:** Energy grid distribution and macro-Lumen transmission.
+- **Third Main Charter:** Hydraulic pumping and deep drainage networks.
+- **Fourth Main Charter:** Food synthesis, hydroponic algae towers, and municipal rations.
+- **Fifth Main Charter:** Civic defense garrison, gate security, and public peace enforcement.
 
 ### The Five Sub Companies (Subsidiary Charters)
 - **Sub-Company A (Logistics):** High-speed acoustic rail transport and freight elevators.

@@ -21,7 +21,7 @@
 | Type / grade / element | Weapon / β — Moderate / Weight — Black |
 | Status | Active; verified plan and support partner required |
 | Maximum amount | 4 — Limited |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A black maul with a cracked clock-face inset in the head; its hands do not indicate ordinary time. |
 | Active form | The clock hands point along a short Weight line toward the immediate action field. |
 | Recognition rule | The Maul will not lift until a verified deadline and one action after it are recorded. |

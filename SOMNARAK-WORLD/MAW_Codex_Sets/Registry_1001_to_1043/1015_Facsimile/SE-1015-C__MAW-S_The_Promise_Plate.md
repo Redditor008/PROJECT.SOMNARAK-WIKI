@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1015` — Facsimile  
 **Source SECC Designation:** `N-IIIγ-160 [GO]`  
 **Item Registry Code:** `MAW-S-1015-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Facsimile — Witnessed Form*, The Promise Plate performs the suit role 
 **Document ID:** `SE-1015-C`  
 **Linked Entity:** `SE-1015`  
 **Item Registry Code:** `MAW-S-1015-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

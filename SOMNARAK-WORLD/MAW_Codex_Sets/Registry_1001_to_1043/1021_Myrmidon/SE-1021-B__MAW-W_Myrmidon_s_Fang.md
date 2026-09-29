@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1021` — Myrmidon  
 **Source SECC Designation:** `O-IIβ-235 [GS]`  
 **Item Registry Code:** `MAW-W-1021-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Myrmidon — Witnessed Form*, Myrmidon's Fang performs the weapon role w
 **Document ID:** `SE-1021-B`  
 **Linked Entity:** `SE-1021`  
 **Item Registry Code:** `MAW-W-1021-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

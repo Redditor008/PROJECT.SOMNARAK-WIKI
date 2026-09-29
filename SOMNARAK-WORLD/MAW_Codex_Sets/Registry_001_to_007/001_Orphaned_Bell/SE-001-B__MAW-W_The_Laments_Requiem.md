@@ -74,7 +74,7 @@ The bearer hears a fragment of the Bell’s search after every full swing. Three
 ### Incident — The Three Names
 
 **Date:** Year 4,234  
-**Bearer:** Senior Agent Minho Ashford  
+**Bearer:** Senior Specialist Minho Ashford  
 **Result:** During a Zone B evacuation, the Requiem pierced three kidnappers holding children from the same collapsed block. The first target took the full toll. The second and third collapsed after hearing the names of the children they had tried to move through an unregistered route.
 
 **Aftermath:** Ashford returned to the tower unable to remember the sound of his own mother’s voice. The memory returned after Archive Lead Marjuk made him write down every name the blade had revealed.

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1024` — Debt Collector's Lantern
 **Source SECC Designation:** `N-IIβ-250 [WO]`
 **Item Registry Code:** `MAW-S-1024-01`
-**Author:** Agent Iseulfros Kim
+**Author:** Specialist Iseulfros Kim
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -51,7 +51,7 @@ Within *Debt-Collector's-Lantern — Witnessed Form*, The Collector's Oilskin Tr
 **Document ID:** `SE-1024-C`
 **Linked Entity:** `SE-1024`
 **Item Registry Code:** `MAW-S-1024-01`
-**Author:** Agent Iseulfros Kim
+**Author:** Specialist Iseulfros Kim
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
@@ -74,7 +74,7 @@ Within *Debt-Collector's-Lantern — Witnessed Form*, The Debt Mantle performs t
 **Document ID:** `SE-1024-C`
 **Linked Entity:** `SE-1024`
 **Item Registry Code:** `MAW-S-1024-01`
-**Author:** Agent Iseulfros Kim
+**Author:** Specialist Iseulfros Kim
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

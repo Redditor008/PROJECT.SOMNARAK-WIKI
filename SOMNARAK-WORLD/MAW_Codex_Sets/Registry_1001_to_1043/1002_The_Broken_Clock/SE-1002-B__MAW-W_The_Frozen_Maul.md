@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1002` — The Broken Clock  
 **Source SECC Designation:** `C-IIIγ-044 [WO]`  
 **Item Registry Code:** `MAW-W-1002-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *The Broken Clock — Witnessed Form*, The Shattered Escapement-Cudgel pe
 **Document ID:** `SE-1002-B`  
 **Linked Entity:** `SE-1002`  
 **Item Registry Code:** `MAW-W-1002-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

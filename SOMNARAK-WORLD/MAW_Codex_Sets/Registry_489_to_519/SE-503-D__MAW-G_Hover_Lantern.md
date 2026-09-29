@@ -7,7 +7,7 @@
 **Document ID:** `SE-503-D`  
 **Linked Entity:** `SE-503` — Hover  
 **Item Registry Code:** `MAW-G-503-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -32,7 +32,7 @@ The Hover Lantern is a blue tail-lantern that brightens near concealed injury or
 **Document ID:** `SE-503-D`  
 **Linked Entity:** `SE-503`  
 **Item Registry Code:** `MAW-G-503-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

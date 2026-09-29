@@ -642,7 +642,7 @@ The waters of Mugenhan are warm and weightless.
 
 As the liquid sorrow closes over Yeonhwa's head, the darkness in her eyes blooms into brilliant, infinite azure light. The coldness in her chest vanishes, replaced by the profound, comforting warmth of being completely known, completely remembered, and completely released.
 
-On the surface, in the records room of the Somnarak Exploration Decree, an automated clerk stamps the file of the Seventh Expedition with a single black seal: **M.I.A. — PRESUMED CONSUMED BY THE STRATA**.
+On the surface, in the records room of the Somnarak Exploration Decree, an automated auxiliary stamps the file of the Seventh Expedition with a single black seal: **M.I.A. — PRESUMED CONSUMED BY THE STRATA**.
 
 Years pass. Deep beneath the earth, in the glowing turquoise shallows of the mantle ocean, seven figures drift silently among the gentle tides. They carry no shields, no compasses, and no ledgers. They are no longer soldiers, architects, or scribes. They are the guardians of the quiet nadir, dreaming the long, peaceful dream of the world that wept.
 

@@ -421,6 +421,6 @@ Some sorrows mourn the dead. Broken Whisper mourns their last words — the mess
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-369
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

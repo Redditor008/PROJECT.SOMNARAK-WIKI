@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1021` — Myrmidon  
 **Source SECC Designation:** `O-IIβ-235 [GS]`  
 **Item Registry Code:** `MAW-S-1021-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Myrmidon — Witnessed Form*, Myrmidon's Plate performs the suit role wh
 **Document ID:** `SE-1021-C`  
 **Linked Entity:** `SE-1021`  
 **Item Registry Code:** `MAW-S-1021-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

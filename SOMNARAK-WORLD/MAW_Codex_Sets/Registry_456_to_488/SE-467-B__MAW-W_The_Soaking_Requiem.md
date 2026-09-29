@@ -7,7 +7,7 @@
 **Document ID:** `SE-467-B`  
 **Linked Entity:** `SE-467` — Memory Chain  
 **Item Registry Code:** `MAW-W-467-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Soaking Requiem is a blade of deep-blue Han crystal whose wet edge shows lin
 **Document ID:** `SE-467-B`  
 **Linked Entity:** `SE-467`  
 **Item Registry Code:** `MAW-W-467-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

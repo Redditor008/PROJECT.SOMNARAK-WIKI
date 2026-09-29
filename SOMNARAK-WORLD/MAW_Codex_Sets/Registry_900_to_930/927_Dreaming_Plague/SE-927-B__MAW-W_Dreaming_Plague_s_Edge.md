@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-927` — Dreaming Plague  
 **Source SECC Designation:** `N-IVδ-927 [VH]`  
 **Item Registry Code:** `MAW-W-927-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Edge performs the
 **Document ID:** `SE-927-B`  
 **Linked Entity:** `SE-927`  
 **Item Registry Code:** `MAW-W-927-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

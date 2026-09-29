@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It grows heavier around displaced workers.
 - It becomes calm when grief is given a physical place.
 
-**Personnel Note:** *"I felt grief. The Well was not a monster. It was the part of the Forge that had nowhere to set down its burden."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt grief. The Well was not a monster. It was the part of the Forge that had nowhere to set down its burden."* — Specialist, Zone D patrol
 
 
 

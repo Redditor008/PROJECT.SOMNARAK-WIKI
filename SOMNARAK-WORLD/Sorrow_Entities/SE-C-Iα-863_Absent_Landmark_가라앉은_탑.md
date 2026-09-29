@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its windows show no present interior.
 - Personnel report emptiness after viewing it.
 
-**Personnel Note:** *"It was watching. I felt grief. The Tower had become a landmark of the space where a landmark used to be."* — Agent, Zone D patrol
+**Personnel Note:** *"It was watching. I felt grief. The Tower had become a landmark of the space where a landmark used to be."* — Specialist, Zone D patrol
 
 
 

@@ -254,7 +254,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Personnel Note:**
 
-> *"The body pressure is different from standard grudge. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Agent, Field Team 1
+> *"The body pressure is different from standard grudge. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Specialist, Field Team 1
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -303,10 +303,10 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 
 ## 증언 (Testimonium) — The Testimony
 
-> *"It beat faster when I held it. I have never been so calm and so furious at the same time."* — Agent, Containment Team
+> *"It beat faster when I held it. I have never been so calm and so furious at the same time."* — Specialist, Containment Team
 > *"The relic is not a weapon. It is a pension. The city owed Goru everything. The stone is collecting."* — Keeper, Archive
 > *"When the Warden who struck Goru was brought to the containment cell, the beating stopped. For exactly three seconds. Then it doubled in speed."* — Researcher, Floor 4
-> *"I held it for two minutes. When I put it down, I could not unclench my fist for an hour."* — Agent, Recovery
+> *"I held it for two minutes. When I put it down, I could not unclench my fist for an hour."* — Specialist, Recovery
 > *"The stone remembers who killed it. We have not told the Warden."* — Director, Eyes Only
 
 ## 기록 (Registrum) — The Record

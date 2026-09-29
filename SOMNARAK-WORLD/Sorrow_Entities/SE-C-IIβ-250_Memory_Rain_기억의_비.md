@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Drops become crystals after landing.
 - Heavy rain can overwhelm unanchored personnel.
 
-**Personnel Note:** *"The Rain was mourning. I felt loss. Every drop was a life, and the sky had run out of room to keep them."* — Agent, Zone D patrol
+**Personnel Note:** *"The Rain was mourning. I felt loss. Every drop was a life, and the sky had run out of room to keep them."* — Specialist, Zone D patrol
 
 
 
@@ -400,6 +400,6 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 ## Document Information
 
 **Document ID:** SE-C-IIβ-250
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Open

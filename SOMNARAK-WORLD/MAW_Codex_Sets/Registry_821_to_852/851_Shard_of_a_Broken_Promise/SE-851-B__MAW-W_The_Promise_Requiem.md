@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-851` — Shard of a Broken Promise  
 **Source SECC Designation:** `O-IVδ-851 [LO]`  
 **Item Registry Code:** `MAW-W-851-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Shard of a Broken Promise — Witnessed Form*, The Promise Requiem perfo
 **Document ID:** `SE-851-B`  
 **Linked Entity:** `SE-851`  
 **Item Registry Code:** `MAW-W-851-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

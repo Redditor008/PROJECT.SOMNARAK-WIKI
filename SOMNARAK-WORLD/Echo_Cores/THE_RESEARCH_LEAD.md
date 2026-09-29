@@ -230,8 +230,8 @@ The department includes:
 - **Entity Analysts**, who classify entities and conduct Observation;
 - **Sorrow Cartographers**, who map relationships and Han movement;
 - **M.A.W. Specialists**, who evaluate potential and support Floor 3;
-- **Senior Agents**, who lead projects and higher-risk interactions;
-- **Agents, Technicians, Clerks, and Maintenance personnel**, who collect samples, operate systems, document findings, and maintain safe rooms.
+- **Senior Specialists**, who lead projects and higher-risk interactions;
+- **Specialists, Technicians, Auxiliaries, and Maintenance personnel**, who collect samples, operate systems, document findings, and maintain safe rooms.
 
 Its motto is:
 
@@ -473,7 +473,7 @@ The story does not return his missing sorrow. It makes his observation more resp
 
 Ayshuk has **no direct recorded role** in _The Memory Archive_. He does not appear as a Archival Encounter opponent, Engram Page holder, Patron, or identified participant in that operation.
 
-The Memory Archive has its own floor and reception numbering. A reference to “Floor 4” in that operation is not sufficient evidence that the Directorate's Insight Forge or Ayshuk is involved. The two systems must not be merged by matching numbers alone.
+The Memory Archive has its own floor and reading numbering. A reference to “Floor 4” in that operation is not sufficient evidence that the Directorate's Insight Forge or Ayshuk is involved. The two systems must not be merged by matching numbers alone.
 
 ### Valid Connections
 
@@ -486,7 +486,7 @@ Only broad institutional links are established:
 
 ### Archive Progression Status
 
-No reception, realization, page, M.A.W., floor reward, or post-operation change is assigned to him. His profile therefore records **None** rather than converting thematic relevance into a story appearance.
+No reading, realization, page, M.A.W., floor reward, or post-operation change is assigned to him. His profile therefore records **None** rather than converting thematic relevance into a story appearance.
 
 ---
 
@@ -537,7 +537,7 @@ This is administrative and scientific authority, not a magical ability. It gives
 
 Floor 4 maps Han flow through the city and relationships among entities. Ayshuk's Architect background makes system structure central to his thinking. He can connect the Weeping's growth, Absolvohan storage requirements, facility capacity, and citywide exposure within one model.
 
-No source grants him a complete live map of every person or entity. Sorrow Cartography is a departmental practice supported by agents, technicians, instruments, and records.
+No source grants him a complete live map of every person or entity. Sorrow Cartography is a departmental practice supported by specialists, technicians, instruments, and records.
 
 ### Full Knowledge of the Cycle
 

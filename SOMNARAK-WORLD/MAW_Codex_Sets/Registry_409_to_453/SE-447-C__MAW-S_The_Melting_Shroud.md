@@ -7,7 +7,7 @@
 **Document ID:** `SE-447-C`  
 **Linked Entity:** `SE-447` — Rope Held Too Long  
 **Item Registry Code:** `MAW-S-447-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Melting Shroud is a wrapping of blue Han-silk with one dissolving route and 
 **Document ID:** `SE-447-C`  
 **Linked Entity:** `SE-447`  
 **Item Registry Code:** `MAW-S-447-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

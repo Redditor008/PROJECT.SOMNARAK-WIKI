@@ -7,7 +7,7 @@
 **Document ID:** `SE-099-D`
 **Linked Entity:** `SE-099` — The Masked Dancer
 **Item Registry Code:** `MAW-G-099-01`
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 **Codex Set Completion:** `4/4`
@@ -21,7 +21,7 @@
 | Type / grade / element | Stigma, facial mask fragment / β — Moderate / Grudge — Crimson |
 | Slot | Head / Face |
 | Status | Bearer-bound; not approved for unsupervised patrols |
-| Known bearer | Agent Nari Kwon |
+| Known bearer | Specialist Nari Kwon |
 | Resting form | A delicate curved fragment of a smiling white porcelain theatrical mask adhering seamlessly to the cheek. |
 | Active form | The mask swings at the tail slot and silently marks a steady rhythm in the bearer’s balance. |
 | Recognition rule | Its smile fades whenever the bearer stands still by choice. |
@@ -84,14 +84,14 @@ Kwon used *Borrowed Rhythm* to cross a collapsed stair where ordinary footing ke
 
 The Mask is the temptation inside *Chosen Intermission*. It makes continuation feel beautiful; the Fang and Plate exist to ensure that beauty does not become another form of coercion.
 
-> *“A fast body can still be trapped. Watch whether it is allowed to stop.”* — Agent Kkotlom Lee
+> *“A fast body can still be trapped. Watch whether it is allowed to stop.”* — Specialist Kkotlom Lee
 
 ---
 
 **Document ID:** `SE-099-D`
 **Linked Entity:** `SE-099`
 **Item Registry Code:** `MAW-G-099-01`
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 

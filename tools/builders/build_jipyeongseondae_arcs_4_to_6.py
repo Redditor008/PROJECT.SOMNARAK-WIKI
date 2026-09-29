@@ -158,7 +158,7 @@ def generate_arc_4():
         "- Node 01: Drift Throne Hold Decks (Welcoming Refugees Aboard)",
         "---",
         "- Squad Status: Zero Casualties | Morale 50/50 SP (Transcendent Joy)",
-        "- Reception Status: 100% RESOLVED | Furnace Stabilized & Refugees Rescued"
+        "- Reading Status: 100% RESOLVED | Furnace Stabilized & Refugees Rescued"
     ])
 
     return f"""# Arc 4: The Furnace's Secret — The Sacred Great Furnace (화로의 비밀 — 거대 화로 심층)
@@ -474,7 +474,7 @@ def generate_arc_5():
         "- Node 10: Drift Throne (Blowing Triumph Horn Across the Valley)",
         "---",
         "- Squad Status: Zero Casualties | Morale 50/50 SP (Unsurpassed Pride)",
-        "- Reception Status: 100% RESOLVED | Convoy Escorted to Somnarak"
+        "- Reading Status: 100% RESOLVED | Convoy Escorted to Somnarak"
     ])
 
     return f"""# Arc 5: The Return — The Northern Sand Corridor (귀환 — 북부 모래 회랑)
@@ -790,7 +790,7 @@ def generate_arc_6():
         "- Node 10: Horizon Caravan (100% Crew Preserved / Journey Ongoing)",
         "---",
         "- Squad Status: Zero Casualties | Morale 50/50 SP (Clear-Eyed Realism)",
-        "- Reception Status: 100% RESOLVED | Border Charted & Withdrawal Executed"
+        "- Reading Status: 100% RESOLVED | Border Charted & Withdrawal Executed"
     ])
 
     return f"""# Arc 6: The Mugeukji Attempt — The Perimeter of Silence (무극지 도전 — 침묵의 경계)

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1034` — Unreleased Beam  
 **Source SECC Designation:** `C-IVδ-357 [WS]`  
 **Item Registry Code:** `MAW-W-1034-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Unreleased Beam — Witnessed Form*, The Resting Maul performs the weapo
 **Document ID:** `SE-1034-B`  
 **Linked Entity:** `SE-1034`  
 **Item Registry Code:** `MAW-W-1034-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

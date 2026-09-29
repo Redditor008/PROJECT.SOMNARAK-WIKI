@@ -127,7 +127,7 @@
 - **The Sorrow:** The weight of debt becoming a physical barrier between people and movement.
 - **The Event:** Unpaid debts grew beyond the Collector ledgers and solidified into a wall the city could no longer ignore.
 - **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Agents who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
+- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
 
 ## Behavior
 
@@ -297,7 +297,7 @@ The weight of debt becoming a physical barrier between people and movement.
 Work response — Viderehan: Reveals the history of individual obligations. (Stable); Ferrehan: Tests the worker beneath the city's accumulated weight. (Decrease). A collapse is considered a facility-wide catastrophe.
 
 **Entry 5 — <Archive Note>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Agents who have worked with the entity …
+The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
 
 ## 최종 관찰 (Final Observation)
 

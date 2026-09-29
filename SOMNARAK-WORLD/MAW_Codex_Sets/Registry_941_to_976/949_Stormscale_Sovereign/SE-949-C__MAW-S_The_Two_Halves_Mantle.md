@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-949` — The Stormscale Sovereign  
 **Source SECC Designation:** `C-Vδ-949 [MS]`  
 **Item Registry Code:** `MAW-S-949-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *The Stormscale Sovereign — Witnessed Form*, The Two-Halves Mantle perf
 **Document ID:** `SE-949-C`  
 **Linked Entity:** `SE-949`  
 **Item Registry Code:** `MAW-S-949-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

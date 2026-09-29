@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Removing the chains requires cooperation from someone outside the compulsion.
 
 **Personnel Note:**
-> *"The first mistake is thinking speed is freedom. The Chains make you fast enough to escape anything except the need to keep moving."* — Agent Durivel Cho, extraction report
+> *"The first mistake is thinking speed is freedom. The Chains make you fast enough to escape anything except the need to keep moving."* — Specialist Durivel Cho, extraction report
 
 
 
@@ -435,6 +435,6 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-102
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4203
 **Classification:** Classified

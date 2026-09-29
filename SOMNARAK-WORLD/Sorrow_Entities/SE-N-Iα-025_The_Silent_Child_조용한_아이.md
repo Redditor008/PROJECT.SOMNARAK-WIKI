@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The most successful work consists of sitting nearby without trying to fix it.
 
 **Personnel Note:**
-> *"The Child did not need an answer. It needed proof that someone would remain after it became quiet."* — Agent Haneulash Yoon, Echo Gardens
+> *"The Child did not need an answer. It needed proof that someone would remain after it became quiet."* — Specialist Haneulash Yoon, Echo Gardens
 
 
 
@@ -402,6 +402,6 @@ Some sorrows mourn neglect. The Silent Child is made of it — the accumulated o
 ## Document Information
 
 **Document ID:** SE-N-Iα-025
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4227
 **Classification:** Restricted

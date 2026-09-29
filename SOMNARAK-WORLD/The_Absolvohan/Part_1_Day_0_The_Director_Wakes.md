@@ -56,7 +56,7 @@ _The silence returns, but its texture has changed. The cold, mechanical hum of t
 
 > **Seiyon:** _"Cycle 1,778. Day 0. The cycle designated for the Absolvohan. The primary transmutative catalyst array has been aligned along the central pneumatic spine. The seed crystal is anchored in Floor 6's sub-zero cryo-sink. All eight department leads are locked into their physical and metaphysical posts. Municipal target quota across the upcoming year: 100.00 tons of refined, supercritical Han-crystal. Our clandestine reserves—skimmed at the rate of 0.02 tons per iteration and pumped into the hydraulic ballast tanks beneath Floor 6—stand at exactly 47.300 tons. We require 52.700 additional tons before the critical transmutation threshold can be reached."_
 
-> **Majin:** _"At our historical collection pace under municipal containment doctrine, accumulating those remaining fifty-two tons would require another 2,635 iterations. Two thousand six hundred and thirty-five more resets. Another two and a half millennia of watching clerks scream in corridors, watching agents dissolve into red foam, and waking up every morning pretending that today is the first day of our lives."_
+> **Majin:** _"At our historical collection pace under municipal containment doctrine, accumulating those remaining fifty-two tons would require another 2,635 iterations. Two thousand six hundred and thirty-five more resets. Another two and a half millennia of watching auxiliaries scream in corridors, watching specialists dissolve into red foam, and waking up every morning pretending that today is the first day of our lives."_
 
 > **Seiyon:** _"Statistically, yes, Director. Assuming the hardware endures."_
 
@@ -66,9 +66,9 @@ _The silence returns, but its texture has changed. The cold, mechanical hum of t
 
 > **Majin:** _"The Council of Sighs is an assembly of terrified morticians trying to embalm a dying world. We are done embalming, Seiyon. We stop containing. We start extracting."_
 
-> **Seiyon:** _"Director... aggressive extraction protocols elevate containment breach probability by 340%. The entities will not endure the emotional siphoning quietly. Their psychic pressure will fracture their cells. The acoustic strain will rupture the ward seals. The agents on the floor will die in numbers we have never recorded."_
+> **Seiyon:** _"Director... aggressive extraction protocols elevate containment breach probability by 340%. The entities will not endure the emotional siphoning quietly. Their psychic pressure will fracture their cells. The acoustic strain will rupture the ward seals. The specialists on the floor will die in numbers we have never recorded."_
 
-> **Majin:** _"The agents die anyway, Seiyon! In every cycle, they bleed in those hallways, lose their minds to the whispering walls, die in agony, and wake up on Day Zero with blank eyes, whistling while they lace their boots because they cannot remember that they died twelve hours ago! I die! You reset! The thousand souls choking on black tar in the Maw continue to drown in silence! I have directed this tragic play one thousand seven hundred and seventy-seven times. I know every cue. I know every scream. Today, we tear up the script."_
+> **Majin:** _"The specialists die anyway, Seiyon! In every cycle, they bleed in those hallways, lose their minds to the whispering walls, die in agony, and wake up on Day Zero with blank eyes, whistling while they lace their boots because they cannot remember that they died twelve hours ago! I die! You reset! The thousand souls choking on black tar in the Maw continue to drown in silence! I have directed this tragic play one thousand seven hundred and seventy-seven times. I know every cue. I know every scream. Today, we tear up the script."_
 
 _Majin leans forward, his heavy hands gripping the edge of the timber desk. His knuckles whiten. The black conduits along his neck pulse with deep blue luminescent fluid._
 
@@ -114,7 +114,7 @@ Director Majin opens the personnel terminal, reviewing the biometric dossiers, c
 
 ```text
 +=====================================================================+
-|         OPERATIVE DOSSIER: AGENT PARK (VANGUARD SKIRMISHER)         |
+|         OPERATIVE DOSSIER: SPECIALIST PARK (VANGUARD SKIRMISHER)    |
 +---------------------------------------------------------------------+
 | Level / Promotion     : Level I (Plucky Recruit / Floor 1 Assigned) |
 | Resilience (HP)       : 30 / 30 [Grade I - Grudge Affinity Base]    |
@@ -141,7 +141,7 @@ Director Majin opens the personnel terminal, reviewing the biometric dossiers, c
 
 ```text
 +=====================================================================+
-|         OPERATIVE DOSSIER: AGENT KIM (LINE WARDEN / ANCHOR)         |
+|         OPERATIVE DOSSIER: SPECIALIST KIM (LINE WARDEN / ANCHOR)    |
 +---------------------------------------------------------------------+
 | Level / Promotion     : Level I (Stoic Enforcer / Floor 1 Assigned) |
 | Resilience (HP) : 38 / 38 [Grade II - High Grudge Physical Bulk]    |
@@ -168,8 +168,8 @@ Director Majin opens the personnel terminal, reviewing the biometric dossiers, c
 ```
 
 ##### Tactical Roster Analysis & Equipment Synergies
-- **Agent Park (Vanguard Skirmisher):** High Clarity (35 SP) makes Park our premier psychic anchor. His *Empathetic Buffer* passive generates a +10% SP recovery bonus whenever he conducts Flerehan or Lament work, rendering him uniquely resilient against the acoustic weeping emitted by *The Orphaned Bell*. His weapon—a Directorate Stun Baton—operates in the Medium weight class (Speed Delta 0), consuming 1 AP per strike while maintaining versatility across Range Bands 1 and 2 (Nodes 1 through 4).
-- **Agent Kim (Line Warden / Anchor):** Boasting 38 Resilience, Kim functions as our immovable physical vanguard. His Heavy Shock Maul (Speed Delta -1) and Heavy Enforcer Mail (Speed Delta -1) represent heavy combat gear that incurs a substantial mobility penalty. However, under Secretary Seiyon's floor-wide *Synced Directive*, Kim receives a +2 Speed tactical compensation offset, bringing his final combat speed to 5 (allocating 3 AP per turn). His *Weight Poise* passive grants +2 Clash Power when anchoring Nodes 1 and 2, while his Directional Guard Shield provides 14 points of flat kinetic damage absorption.
+- **Specialist Park (Vanguard Skirmisher):** High Clarity (35 SP) makes Park our premier psychic anchor. His *Empathetic Buffer* passive generates a +10% SP recovery bonus whenever he conducts Flerehan or Lament work, rendering him uniquely resilient against the acoustic weeping emitted by *The Orphaned Bell*. His weapon—a Directorate Stun Baton—operates in the Medium weight class (Speed Delta 0), consuming 1 AP per strike while maintaining versatility across Range Bands 1 and 2 (Nodes 1 through 4).
+- **Specialist Kim (Line Warden / Anchor):** Boasting 38 Resilience, Kim functions as our immovable physical vanguard. His Heavy Shock Maul (Speed Delta -1) and Heavy Enforcer Mail (Speed Delta -1) represent heavy combat gear that incurs a substantial mobility penalty. However, under Secretary Seiyon's floor-wide *Synced Directive*, Kim receives a +2 Speed tactical compensation offset, bringing his final combat speed to 5 (allocating 3 AP per turn). His *Weight Poise* passive grants +2 Clash Power when anchoring Nodes 1 and 2, while his Directional Guard Shield provides 14 points of flat kinetic damage absorption.
 
 Director Majin confirms operative links with Seiyon and engages the master dispatch switch: **[OPERATIONAL COMMENCEMENT AUTHORIZED]**.
 
@@ -184,20 +184,20 @@ The Central Command display array illuminates with real-time biometric feeds, hy
 - **Floor 1 Main Assembly:** Operatives stationed beneath the regenerative cobalt emitters.
 
 ```text
-> Agent Park: "Another cycle... why does the tea in the breakroom always taste like copper?"
-> Agent Kim: "Don't think about it, Park. Just keep your eyes on the Sorrow Gauge and your hands on your baton."
+> Specialist Park: "Another cycle... why does the tea in the breakroom always taste like copper?"
+> Specialist Kim: "Don't think about it, Park. Just keep your eyes on the Sorrow Gauge and your hands on your baton."
 ```
 
 ##### Operational Protocol 01: Flerehan Communion — Chamber 001
 Telemetry monitors flag **SE-C-IIIγ-001** (*The Orphaned Bell*), an unmoored bronze bell weeping viscous, tar-like grief residue from its lower rim.
 
 Director Majin issues the initial dispatch command:
-- `[DISPATCH ORDER: Agent Park -> Sector 1, Chamber 001]`
+- `[DISPATCH ORDER: Specialist Park -> Sector 1, Chamber 001]`
 - `[ASSIGNED PROTOCOL: Flerehan Communion (Lamentation / Empathetic Resonance)]`
 - `[TACTICAL OBJECTIVE: Siphon weeping residue and establish harmonic acoustic resonance]`
 
 ```text
-> Seiyon: "Agent Park crossing inner airlock threshold. Entering Containment Chamber 001."
+> Seiyon: "Specialist Park crossing inner airlock threshold. Entering Containment Chamber 001."
 > FEAR CHECK: Level I Operative vs Class III Entity -> RESULT: CALM (0 SP Lost / Composure Intact).
 ```
 
@@ -221,7 +221,7 @@ HUD telemetry updates: Energy `0.015 / 0.050 tons`. Acoustic Strain counter adva
 
 ##### Operational Protocol 02: Ferrehan Containment — Chamber 005
 Director Majin flags Chamber 005 housing **SE-C-IIIγ-005** (*The Smothering Mother*):
-- `[DISPATCH ORDER: Agent Kim -> Sector 1, Chamber 005]`
+- `[DISPATCH ORDER: Specialist Kim -> Sector 1, Chamber 005]`
 - `[ASSIGNED PROTOCOL: Ferrehan Containment (Physical Endurance / Burden)]`
 - `[TACTICAL OBJECTIVE: Stabilize maternal shroud and endure compressive kinetic pressure]`
 
@@ -258,17 +258,17 @@ Across Sector 1, lighting shifts from tranquil cobalt to flashing crimson. A har
 | ACOUSTIC OVERLOAD : STRAIN METER 3/3 REACHED [LEVEL I THRESHOLD]    |
 | BREACH BLEED TIMER : 45.0 SECONDS REMAINING UNTIL ENVELOPE RUPTURE  |
 | TACTICAL MANDATE      : COMPLETE IMMEDIATE FLEREHAN WORK SESSION    |
-| CONSEQUENCE OF DELAY  : 110dB DEATH TOLL; RUPTURE OF CLERK EARDRUMS |
+| CONSEQUENCE OF DELAY  : 110dB DEATH TOLL; AUXILIARY DRUMS RUPTURED  |
 +=====================================================================+
 ```
 
 A glowing red countdown timer appears above Chamber 001: **45.0 SECONDS UNTIL CONTAINMENT ENVELOPE FAILURE**. If that clock strikes zero, the Orphaned Bell will rupture its pneumatic clamps, unleashing an unshielded 110-decibel sonic resonance wave that will deafen every personnel member on Floor 1 and trigger catastrophic chain panics!
 
 Director Majin issues an immediate emergency override:
-- `[EMERGENCY DISPATCH: Agent Park -> Chamber 001]`
+- `[EMERGENCY DISPATCH: Specialist Park -> Chamber 001]`
 - `[ASSIGNED PROTOCOL: Flerehan Communion (Meltdown Emergency Suppression)]`
 
-Agent Park sprints across Sector 1, hitting the manual cycle switch and plunging into the shivering chamber with 36.4 seconds remaining on the timer. The meltdown clock halts instantly. 
+Specialist Park sprints across Sector 1, hitting the manual cycle switch and plunging into the shivering chamber with 36.4 seconds remaining on the timer. The meltdown clock halts instantly. 
 
 Working under immense psychological pressure as the bell vibrates with ear-piercing shrieks, Park maintains his composure: 7 out of 8 successes achieved! The Meltdown is successfully neutralized, yielding +0.016 tons!
 
@@ -276,7 +276,7 @@ Cumulative energy reaches **0.048 / 0.050 tons**—just 0.002 tons shy of the da
 
 ---
 
-##### Ordeal Manifestation: First Watch (Dawn) Ordeal
+##### Ordeal Manifestation: First Watch Ordeal
 Before the floor sirens can quiet down, the primary illumination shifts to an eerie, spectral amber. The emergency klaxons sound a secondary, double-pulsed alarm:
 
 ```text
@@ -290,18 +290,18 @@ Before the floor sirens can quiet down, the primary illumination shifts to an ee
 | ATTACK AFFINITY       : Pale (% Max HP Decay / Cognitive Vibration) |
 | VULNERABILITY : Lament (Acoustic Echo / Empathetic Disruption)      |
 | SPECIAL THREAT        : Emits 15m Catatonia Aura upon manifestation |
-| CIVILIAN STATUS       : 1x Level I Clerk Panicked at Node 04        |
-| SUPPRESSION ORDERS    : DISPATCH AGENTS KIM & PARK IMMEDIATELY      |
+| CIVILIAN STATUS       : 1x Level I Auxiliary Panicked at Node 04    |
+| SUPPRESSION ORDERS    : DISPATCH SPECIALISTS KIM & PARK IMMEDIATELY |
 +=====================================================================+
 ```
 
 A towering, semi-translucent cyan phantom manifests at Node 03 of Floor 1's western transit corridor. It possesses no face—only a circular resonator disc hovering above a floating shroud of crystallized soundwaves. It chants pre-human syllables that vibrate the marrow of anyone who listens.
 
-A Level I maintenance clerk walking down the corridor catches the acoustic wavefront. Her SP drops instantly to 0:
+A Level I maintenance auxiliary walking down the corridor catches the acoustic wavefront. Her SP drops instantly to 0:
 - **Panic State Triggered:** `Void Catatonia`.
-- The clerk drops her clipboard, collapsing onto her knees at Node 04, paralyzed in cognitive terror!
+- The auxiliary drops her clipboard, collapsing onto her knees at Node 04, paralyzed in cognitive terror!
 
-Director Majin seizes the tactical command headset: *"Kim! Park! Western corridor! Protect that clerk, pin the anomaly, and shatter its resonator core before it spreads to Central Command!"*
+Director Majin seizes the tactical command headset: *"Kim! Park! Western corridor! Protect that auxiliary, pin the anomaly, and shatter its resonator core before it spreads to Central Command!"*
 
 ---
 
@@ -315,18 +315,18 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 1 WEST REINFORCED CORRIDOR]           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [KIM]   [VOICE] [CLERK] [PARK]                  [SEIYON] [MAJIN]    |
+| [KIM]   [VOICE] [AUXILIARY] [PARK]                 [SEIYON] [MAJIN] |
 +---------------------------------------------------------------------+
 | SPATIAL RANGES & POSITIONS:                                         |
-| - Node 02: Agent Kim (Line Anchor / Range Band 1 Point-Blank)       |
+| - Node 02: Specialist Kim (Line Anchor / Range Band 1 Point-Blank)  |
 | - Node 03: The Voice (Spectral Hostile / Intrusion Epicenter)       |
-| - Node 04: Panicked Clerk (Void Catatonia Trance / Range Band 2)    |
-| - Node 05: Agent Park (Vanguard Skirmisher / Range Band 3)          |
+| - Node 04: Panicked Auxiliary (Void Catatonia / Range Band 2)       |
+| - Node 05: Specialist Park (Vanguard Skirmisher / Range Band 3)     |
 | - Node 09-10: Seiyon Holographic Terminal & Director Majin Console  |
 +---------------------------------------------------------------------+
 | OPERATIVE STATUS & RESOURCE POOLS:                                  |
-| - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
+| - Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60       |
+| - Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45       |
 | - The Voice   : Spd 4 -> 2 AP | HP 140/140 | Sorrow 50%             |
 |   | Posture 80/80                                                   |
 +=====================================================================+
@@ -334,19 +334,19 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 
 ##### Turn 01 Action Resolution Log (Spatial Movement & Clash Initiation)
 - **Operative Movement & AP Allocations**:
-  * **Agent Park (Speed 6 -> 3 AP)**: Spends 1 AP to advance from Node 05 to Node 04, positioning his body directly between the paralyzed clerk and the manifesting entity.
-  * Park spends 1 AP to execute an emergency non-lethal subdual tap on the clerk: swinging his stun baton with calibrated, gentle Lament resonance. The harmonic pulse disrupts the clerk's hypnotic trance, shocking her cognitive centers back online!
-    * *Clerk Status:* SP restored from 0 to +25. Clerk regains motor function and scrambles toward safety at Node 09!
+  * **Specialist Park (Speed 6 -> 3 AP)**: Spends 1 AP to advance from Node 05 to Node 04, positioning his body directly between the paralyzed auxiliary and the manifesting entity.
+  * Park spends 1 AP to execute an emergency non-lethal subdual tap on the auxiliary: swinging his stun baton with calibrated, gentle Lament resonance. The harmonic pulse disrupts the auxiliary's hypnotic trance, shocking her cognitive centers back online!
+    * *Auxiliary Status:* SP restored from 0 to +25. Auxiliary regains motor function and scrambles toward safety at Node 09!
   * Park holds his remaining 1 AP in Defensive Guard stance, generating a +8 Block Shield.
-  * **Agent Kim (Speed 5 -> 3 AP)**: Spends 1 AP to advance from Node 02 to Node 03, entering Point-Blank Range Band 1 with The Voice.
+  * **Specialist Kim (Speed 5 -> 3 AP)**: Spends 1 AP to advance from Node 02 to Node 03, entering Point-Blank Range Band 1 with The Voice.
   * Kim spends his remaining 2 AP to declare `[Heavy Shock Maul Cleave]`.
 - **Clash Standoff (Node 03 Point-Blank Range)**:
   * The Voice targets Kim with `[Spectral Chime]` (1 AP Cost / Pale Affinity):
     * *The Voice Coin Roll:* Base Power 7 + (1 Coin Heads: +3) = **10 Clash Power**.
-  * Agent Kim unleashes `[Heavy Shock Maul Cleave]` (2 AP Cost / Grudge Affinity):
+  * Specialist Kim unleashes `[Heavy Shock Maul Cleave]` (2 AP Cost / Grudge Affinity):
     * *Kim Passive Trigger:* `Weight Poise` active at Node 03 (+2 Base Clash Power).
     * *Kim Coin Roll:* Base Power 8 + (2 Coins Heads: +4) = **14 Clash Power**.
-  * **Clash Result**: **Agent Kim WINS THE CLASH (14 vs 10)!**
+  * **Clash Result**: **Specialist Kim WINS THE CLASH (14 vs 10)!**
     * The Voice's sonic beam is deflected off Kim's heavy iron pauldrons. Kim's shock maul crashes downward into the entity's cyan resonator disc with devastating kinetic force!
     * *Damage Inflicted:* 28 Grudge physical damage. The Voice HP drops from 140 to 112/140.
     * *Posture Strain:* Kim's heavy weight class multiplies impact momentum: `Speed Diff (5 - 4 = +1) * Weight Class (Heavy = 1.25)`. The Voice sustains +16 Posture Strain (Posture drops from 80 to 64/80).
@@ -360,15 +360,15 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POST-DISPERSION POSITIONS]                  |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [KIM]   [VOICE] [PARK]                          [CLERK]  [MAJIN]    |
+| [KIM]   [VOICE] [PARK]                         [AUXILIARY]  [MAJIN] |
 +---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Stationary Anchor / Shield Raised)            |
+| - Node 02: Specialist Kim (Stationary Anchor / Shield Raised)       |
 | - Node 03: The Voice (Charging Choral Wave / Posture 64/80)         |
-| - Node 04: Agent Park (Range Band 2 Line / Lament Baton Readied)    |
-| - Node 09: Clerk safely evacuated to Central Sanctuary              |
+| - Node 04: Park (Range Band 2 Line / Lament Baton Readied)          |
+| - Node 09: Auxiliary safely evacuated to Central Sanctuary          |
 +---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
+| - Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60       |
+| - Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45       |
 | - The Voice   : Spd 4 -> 2 AP | HP 112/140                          |
 |   | Posture 64/80 (Stagger 1: 48)                                   |
 +=====================================================================+
@@ -376,10 +376,10 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 
 ##### Turn 02 Action Resolution Log (Parry Deflection & Range Advantage)
 - **Operative Positioning & AP Allocations**:
-  * **Agent Kim (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Range Band 1. Declares `[Directional Guard Absorption]` (Costs 1 AP) and readies a follow-up strike `[Baton Bash]` (Costs 2 AP).
-  * **Agent Park (Speed 6 -> 3 AP)**: Holds Node 04, establishing a stable firing corridor from Range Band 2. Declares `[Lament Requiem Resonant Pulse]` (Costs 2 AP). Holds 1 AP for tactical repositioning.
+  * **Specialist Kim (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Range Band 1. Declares `[Directional Guard Absorption]` (Costs 1 AP) and readies a follow-up strike `[Baton Bash]` (Costs 2 AP).
+  * **Specialist Park (Speed 6 -> 3 AP)**: Holds Node 04, establishing a stable firing corridor from Range Band 2. Declares `[Lament Requiem Resonant Pulse]` (Costs 2 AP). Holds 1 AP for tactical repositioning.
 - **Hostile Action**:
-  * The Voice unleashes `[Crying Chorus]` (2 AP Cost / High-Frequency Sonic Beam) directed at Agent Kim at Node 02.
+  * The Voice unleashes `[Crying Chorus]` (2 AP Cost / High-Frequency Sonic Beam) directed at Specialist Kim at Node 02.
     * *The Voice Roll:* Base Power 9 + (2 Coins Heads: +4) = **13 Power**.
 - **Clash & Parry Resolution (Node 02 to Node 03)**:
   * Kim locks his heavy shield into the floorplates, engaging `[Directional Guard Absorption]`:
@@ -405,12 +405,12 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [KIM]   [VOICE] [PARK]                                   [MAJIN]    |
 +---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Pressing Forward / Two-Handed Gripping)       |
+| - Node 02: Specialist Kim (Pressing Forward / Two-Handed Gripping)  |
 | - Node 03: The Voice (STAGGER LEVEL 1 ACTIVE / 1.5x DAMAGE TAKEN)   |
-| - Node 04: Agent Park (Momentum Surge Primed / +2 Speed Next Turn)  |
+| - Node 04: Park (Momentum Surge Primed / +2 Speed Next Turn)        |
 +---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 52/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
+| - Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 52/60       |
+| - Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45       |
 | - The Voice   : Spd 0 -> 0 AP | HP 74/140                           |
 |   | Posture 32/80 [STAGGERED]                                       |
 +=====================================================================+
@@ -419,13 +419,13 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ##### Turn 03 Action Resolution Log (Exploiting Posture Break & Momentum Surge)
 - **Operative Tactical Exploitation**:
   * With The Voice immobilized in Stagger Level 1, all hostile actions for Turn 03 are canceled!
-  * **Agent Park (Speed 6 -> 3 AP)**:
+  * **Specialist Park (Speed 6 -> 3 AP)**:
     * *Passive Trigger:* `Momentum Surge` activates upon witnessing the stagger! Park gains +2 Movement Speed and +15% Critical Chance.
     * Spends 1 AP to sprint from Node 04 to Node 03, flanking the entity's vulnerable left flank.
     * Spends 2 AP to unleash `[Critical Lament Overload]`:
       * Base Damage: 16 White (Lament) damage.
       * Multipliers: 1.5x (Stagger Level 1) * 1.5x (Critical Hit) = **36 Pure Lament Damage**!
-  * **Agent Kim (Speed 5 -> 3 AP)**:
+  * **Specialist Kim (Speed 5 -> 3 AP)**:
     * Spends 2 AP to execute `[Two-Handed Maul Sunder]`:
       * Base Damage: 15 Grudge damage * 1.5x Stagger = **23 Grudge Damage**!
     * Holds 1 AP in defensive posture.
@@ -444,12 +444,12 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [KIM]   [VOICE] [PARK]                                   [MAJIN]    |
 +---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Locking Guard Aegis / Intercepting Pulse)     |
+| - Node 02: Kim (Locking Guard Aegis / Intercepting Pulse)           |
 | - Node 03: The Voice (Recovered / Channeling Soliloquy Scream)      |
-| - Node 04: Agent Park (Sheltered behind Kim's Reinforced Mantlet)   |
+| - Node 04: Park (Sheltered behind Kim's Reinforced Mantlet)         |
 +---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60 |
-| - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 30/30 | SP 35/35         |
+| - Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60       |
+| - Specialist Park  : Spd 8 -> 4 AP [SURGE] | HP 30/30 | SP 35/35    |
 |   | Posture 45/45                                                   |
 | - The Voice   : Spd 4 -> 2 AP | HP 52/140                           |
 |   | Posture 24/80 [UNSTABLE]                                        |
@@ -461,11 +461,11 @@ The tactical interface expands into the full 10-Node Stage Matrix:
   * The Voice recovers from Stagger Level 1 with a screech that causes the corridor light fixtures to burst into sparks.
   * It initiates its ultimate defensive protocol: `[Shattered Soliloquy]` (A 3-Node radial acoustic pulse hitting Nodes 02, 03, and 04 with piercing Pale decay).
 - **Operative Defensive Maneuvers**:
-  * **Agent Kim (Speed 5 -> 3 AP)**:
+  * **Specialist Kim (Speed 5 -> 3 AP)**:
     * Reacts instantly to protect Park. Kim spends 2 AP to drop into `[Bulwark Vanguard Stance]`, projecting his massive enforcer shield directly over Node 03.
     * *Protection Mechanic:* Kim absorbs 80% of the acoustic radial pulse intended for Node 03.
     * The pulse slams into Kim's armor. His shield absorbs 14 damage; Kim sustains 4 minor Pale chip damage (HP: 34/38). His Posture meter absorbs 22 strain (Posture: 38/60).
-  * **Agent Park (Speed 8 under Surge -> 4 AP)**:
+  * **Specialist Park (Speed 8 under Surge -> 4 AP)**:
     * Completely shielded behind Kim's bulk, Park sustains zero damage.
     * Spends 2 AP to circle behind the entity, planting his stun baton against the central resonator crystal.
     * Deals 10 Lament damage, driving The Voice's HP down to **6/140**!
@@ -481,12 +481,12 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 | [KIM]   [VOICE]                                          [MAJIN]    |
 |                 [PARK]                                              |
 +---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Flanking Left Mandible / Shock Maul Primed)   |
+| - Node 02: Kim (Flanking Left Mandible / Shock Maul Primed)         |
 | - Node 03: The Voice (TERMINAL STAGGER LEVEL 2 / DEFENSE NULLIFIED) |
-| - Node 03: Agent Park (Point-Blank Band 1 Ingress / Resonance Rod)  |
+| - Node 03: Park (Point-Blank Band 1 Ingress / Resonance Rod)        |
 +---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
+| - Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60       |
+| - Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45       |
 | - The Voice   : Spd 0 -> 0 AP | HP 22/140                           |
 |   | Posture 0/80 [COLLAPSED]                                        |
 +=====================================================================+
@@ -494,11 +494,11 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 
 ##### Turn 05 Action Resolution Log (Terminal Stagger Induction)
 - **Operative Pincer Coordination**:
-  * **Agent Kim (Speed 5 -> 3 AP)**: Spends 1 AP to lock the entity's kinetic stabilizer with his boot. Spends 2 AP to deliver a short-range pommel strike.
+  * **Specialist Kim (Speed 5 -> 3 AP)**: Spends 1 AP to lock the entity's kinetic stabilizer with his boot. Spends 2 AP to deliver a short-range pommel strike.
     * Damage: 8 Grudge.
     * *Posture Depletion:* The strike strips the last remaining 16 points of Posture!
     * **TERMINAL STAGGER (LEVEL 2) TRIGGERED:** The Voice's Posture meter hits **0/80**. The entity's acoustic field completely collapses. It drops to the floorplates, completely paralyzed and unable to generate counter-dice.
-  * **Agent Park (Speed 6 -> 3 AP)**: Holds his strike on Director Majin's order, allowing the floor's energy siphons to align with the dying resonator core.
+  * **Specialist Park (Speed 6 -> 3 AP)**: Holds his strike on Director Majin's order, allowing the floor's energy siphons to align with the dying resonator core.
 
 ---
 
@@ -510,12 +510,12 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [KIM]   [DUST]  [PARK]                                   [MAJIN]    |
 +---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Recovering Stance / Grounding Kinetic Energy) |
+| - Node 02: Specialist Kim (Recovery Stance / Grounding Energy)      |
 | - Node 03: The Voice (Shattered / Crystallizing into Cyan Mist)     |
-| - Node 04: Agent Park (Venting Heated Capacitor / Siphoning RHR)    |
+| - Node 04: Park (Venting Heated Capacitor / Siphoning RHR)          |
 +---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 48/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
+| - Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 48/60       |
+| - Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45       |
 | - The Voice   : HP 0/140 [DISSOLVED]                                |
 |   | +0.005 TONS REFINED HAN SIPHONED                                |
 +=====================================================================+
@@ -524,8 +524,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ##### Turn 06 Action Resolution Log (Climax Execution & Siphon Discharge)
 - **Synchronized Subdual Execution**:
   * Director Majin authorizes the final execution strike via Central Command override:
-  * Agent Kim raises his shock maul high above his head, channeling Floor 1's grounding charge.
-  * Agent Park activates his baton's maximum frequency damper.
+  * Specialist Kim raises his shock maul high above his head, channeling Floor 1's grounding charge.
+  * Specialist Park activates his baton's maximum frequency damper.
   * **The Blow Strikes:** Kim's maul crushes down onto the apex of the cyan resonator disc while Park's baton drives through the harmonic anchor!
   * With a crystalline chime that resonates with breathtaking purity, The Voice shatters into a glittering blizzard of inert cyan dust and vaporized Han particles.
   * Floor 1's pneumatic collection flues activate with a roar, siphoning the released energy directly into the primary conduits: **+0.005 tons of pure refined Han harvested**!
@@ -535,7 +535,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |          COMBAT PHASE 01 RESOLUTION (PHASE-END MACRO-TICK)          |
 +---------------------------------------------------------------------+
 | 1. ENVIRONMENTAL CHECK : Meltdown Level I cleared across Sector 1.  |
-| 2. STATUS EQUILIBRIUM : Clerk sanity stabilized; Kim & Park         |
+| 2. STATUS EQUILIBRIUM : Auxiliary sanity stabilized; Kim & Park     |
 | uninjured.                                                          |
 | 3. CONTAINMENT AUDIT   : First Watch Ordeal suppressed in 6 turns.  |
 | 4. HAN REAGENT YIELD   : +0.005 Tons crystallized Han harvested.    |
@@ -543,7 +543,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 +=====================================================================+
 ```
 
-With the First Watch Ordeal cleanly eliminated and the panicked clerk resting safely in the medical ward, the daily energy counter confirms: **0.053 / 0.050 tons**! Target quota achieved!
+With the First Watch Ordeal cleanly eliminated and the panicked auxiliary resting safely in the medical ward, the daily energy counter confirms: **0.053 / 0.050 tons**! Target quota achieved!
 
 Secretary Seiyon's voice echoes across the intercom: `Daily Harvest Quota Fulfilled. Sealing containment bulkheads. Day Zero shift officially concluded.`
 
@@ -568,8 +568,8 @@ Director Majin reviews the automated audit report generated by the Central Comma
 | SHIFT PERFORMANCE GRADE: GRADE S (OPTIMAL CONVERGENCE PACE)         |
 | REAGENTS ACCUMULATED   : +18 RHR (REFINED HAN REAGENTS)             |
 | OPERATIVE ADVANCEMENT  :                                            |
-| - Agent Park : +4 Clarity, +2 Composure (Promoted to Grade II)      |
-| - Agent Kim  : +5 Resilience, +2 Resolve (Promoted to Grade II)     |
+| - Specialist Park : +4 Clarity, +2 Composure (Promoted to Grade II) |
+| - Specialist Kim : +5 Resilience, +2 Resolve (Promoted to Grade II) |
 +=====================================================================+
 ```
 
@@ -625,11 +625,11 @@ Observation points accumulated from Chamber 001's resonance sessions are transfe
 | Lament Edge Gift       | Eye Slot: +4 SP, +5 Work Success Resonance |
 | -----------------------+------------------------------------------- |
 | EQUIPMENT ALLOCATION                                                |
-|   | BESTOWED UPON AGENT PARK (VANGUARD SPECIALIST)                  |
+|   | BESTOWED UPON SPECIALIST PARK (VANGUARD SPECIALIST)             |
 +=====================================================================+
 ```
 
-Agent Park is equipped with the *Lament Shroud* and *Lament Requiem*. His mobility and psychic protection increase significantly, elevating him from a fragile recruit into a hardened containment specialist.
+Specialist Park is equipped with the *Lament Shroud* and *Lament Requiem*. His mobility and psychic protection increase significantly, elevating him from a fragile recruit into a hardened containment specialist.
 
 ---
 

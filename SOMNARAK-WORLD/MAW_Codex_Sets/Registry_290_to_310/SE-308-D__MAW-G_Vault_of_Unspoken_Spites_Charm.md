@@ -7,7 +7,7 @@
 **Document ID:** `SE-308-D`  
 **Linked Entity:** `SE-308` — Vault of Unspoken Spite  
 **Item Registry Code:** `MAW-G-308-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -52,7 +52,7 @@ Charm finds deposit, Veil receives attack, Fang removes storage bond.
 **Document ID:** `SE-308-D`  
 **Linked Entity:** `SE-308`  
 **Item Registry Code:** `MAW-G-308-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

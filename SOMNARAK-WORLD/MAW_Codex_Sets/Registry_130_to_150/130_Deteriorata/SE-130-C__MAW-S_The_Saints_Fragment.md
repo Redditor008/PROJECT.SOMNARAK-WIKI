@@ -21,7 +21,7 @@
 | Type / grade / element | Suit, fragment-plate / γ — Major / Weight — Black |
 | Status | Active; responsibility-release checks required |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Minho Ashford |
+| Current bearer | Specialist Minho Ashford |
 | Resting form | A black fragment-plate with pale stone cracks across the chest and shoulders. |
 | Active form | The cracks hold pressure in place while dark Weight lines spread from the wearer to the ground. |
 | Recognition rule | The fragment warms only when the wearer admits something they cannot safely continue carrying. |
@@ -87,7 +87,7 @@ Ashford wore the Fragment through a Weight surge near the Saint’s cell. The pl
 
 The Fragment is the endurance boundary of *Set Down Together*. Maul can split a load and Charm identifies handoff; the suit forces the team to treat survival after the handoff as part of the mission.
 
-> *“Pressure tolerance is not consent to indefinite pressure.”* — Agent Iseulfros Kim
+> *“Pressure tolerance is not consent to indefinite pressure.”* — Specialist Iseulfros Kim
 
 ---
 

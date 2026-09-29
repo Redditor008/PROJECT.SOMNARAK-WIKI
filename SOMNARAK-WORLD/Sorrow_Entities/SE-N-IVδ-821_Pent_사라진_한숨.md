@@ -399,6 +399,6 @@ Some sorrows are about exhaustion. Pent is about the denial of exhaustion — th
 ## Document Information
 
 **Document ID:** SE-N-IVδ-821
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

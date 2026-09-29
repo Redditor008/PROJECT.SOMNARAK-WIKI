@@ -7,7 +7,7 @@
 **Document ID:** `SE-283-C`  
 **Linked Entity:** `SE-283` — Barrier of Nothing  
 **Item Registry Code:** `MAW-S-283-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Plate keeps the route occupied but open; Charm names sides and Maul breaks closu
 **Document ID:** `SE-283-C`  
 **Linked Entity:** `SE-283`  
 **Item Registry Code:** `MAW-S-283-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -209,11 +209,11 @@ def build_scenario_dekan():
 | OPERATION STATUS  : SUCCESSFUL REALIZATION CATHARSIS                |
 | FLOOR STABILITY   : 100% Harmonic Equilibrium Restored (-1,200m)    |
 | CASUALTIES        : Zero Fatalities / Composure Fully Restored      |
-| RECOVERED ARTIFACT: Key Page: The Containment Sovereign (Dekan)     |
+| RECOVERED ARTIFACT: Memory Leaf: The Containment Sovereign (Dekan)     |
 +=====================================================================+
 ```
 
-### 6.2 Key Page: The Containment Sovereign (Dekan)
+### 6.2 Memory Leaf: The Containment Sovereign (Dekan)
 - **Equip Requirement:** Assigned Lead Warden (Posture 180+ / Composure 110+)
 - **Sovereign Passive 1 — Unyielding Bastion Threshold:**
   All allied operatives occupying defensive nodes (`[N01]` to `[N04]`) gain +2 Clash Power and +15% Weight and Lament damage resistance.

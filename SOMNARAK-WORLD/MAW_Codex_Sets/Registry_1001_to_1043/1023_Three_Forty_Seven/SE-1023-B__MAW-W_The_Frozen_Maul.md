@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1023` — Three Forty-Seven  
 **Source SECC Designation:** `C-IVγ-240 [WP]`  
 **Item Registry Code:** `MAW-W-1023-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Three Forty-Seven — Witnessed Form*, The Frozen Maul performs the weap
 **Document ID:** `SE-1023-B`  
 **Linked Entity:** `SE-1023`  
 **Item Registry Code:** `MAW-W-1023-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

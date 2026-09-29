@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-801` — Mirror of Soaking  
 **Source SECC Designation:** `N-IIβ-801 [GO]`  
 **Item Registry Code:** `MAW-S-801-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Mirror of Soaking — Witnessed Form*, The Rage Plate performs the suit 
 **Document ID:** `SE-801-C`  
 **Linked Entity:** `SE-801`  
 **Item Registry Code:** `MAW-S-801-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-930` — Once Told  
 **Source SECC Designation:** `O-IVδ-930 [LH]`  
 **Item Registry Code:** `MAW-S-930-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Once Told — Witnessed Form*, Once Told's Veil performs the suit role w
 **Document ID:** `SE-930-C`  
 **Linked Entity:** `SE-930`  
 **Item Registry Code:** `MAW-S-930-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

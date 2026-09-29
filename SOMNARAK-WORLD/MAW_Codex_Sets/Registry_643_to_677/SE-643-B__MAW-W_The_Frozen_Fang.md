@@ -7,7 +7,7 @@
 **Document ID:** `SE-643-B`  
 **Linked Entity:** `SE-643` — Vanity  
 **Item Registry Code:** `MAW-W-643-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -38,7 +38,7 @@ The Frozen Fang is a crimson fang of Han iron with frozen light held beneath its
 **Document ID:** `SE-643-B`  
 **Linked Entity:** `SE-643`  
 **Item Registry Code:** `MAW-W-643-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

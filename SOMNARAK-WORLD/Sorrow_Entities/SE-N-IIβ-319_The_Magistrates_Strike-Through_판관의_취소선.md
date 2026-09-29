@@ -116,7 +116,7 @@ Premature pulverization leaves behind an uncontrollable silence anomaly that sup
 - **Formation:** Crystallized from the desperate administrative treason of a magistrate who destroyed his own mind to erase eighty-two innocent lives from a slaughter manifest.
 - **The Sorrow:** The horror of holding the power to sentence the innocent and choosing self-annihilation over compliance.
 - **The Event:** The Great Directorate Purge of Year 4,119 on Floor 6, where executioners demanded eighty-two signed death warrants before dawn.
-- **The People:** Chief Inquisitor Baek-Hyeon and eighty-two condemned logistics clerks.
+- **The People:** Chief Inquisitor Baek-Hyeon and eighty-two condemned logistics auxiliaries.
 
 ## Behavior
 
@@ -329,11 +329,11 @@ The Magistrate's Strike-Through resonates with entities of judgment, debt, and a
 
 ## 이야기 (Narratio) — The Tale
 
-Chief Inquisitor Baek-Hyeon served the Directorate during the purge of Year 4,119. Following an unconfirmed report of ideological contamination in the logistics sector, the Council dispatched an execution warrant containing eighty-two names—ordinary supply clerks, cartographers, and furnace operators whose only crime was filing an inquiry regarding civilian grain rations.
+Chief Inquisitor Baek-Hyeon served the Directorate during the purge of Year 4,119. Following an unconfirmed report of ideological contamination in the logistics sector, the Council dispatched an execution warrant containing eighty-two names—ordinary supply auxiliaries, cartographers, and furnace operators whose only crime was filing an inquiry regarding civilian grain rations.
 
-Ordered to sign the death orders before sunrise, Baek-Hyeon locked himself inside the High Tribunal's record vault. Rather than sign, he took an ordinary piece of marking chalk and spent the entire night methodically drawing lines through the clerks' names, dates of birth, and identity codes on the master stone registry. With each stroke, he whispered: "If the law cannot find your name, the blade cannot find your throat."
+Ordered to sign the death orders before sunrise, Baek-Hyeon locked himself inside the High Tribunal's record vault. Rather than sign, he took an ordinary piece of marking chalk and spent the entire night methodically drawing lines through the auxiliaries' names, dates of birth, and identity codes on the master stone registry. With each stroke, he whispered: "If the law cannot find your name, the blade cannot find your throat."
 
-He drew lines until the chalk wore down to a bloody stump between his fingers, then used his fingernails to grind the chalk dust into the parchment grooves. When the executioners breached the door at first light, they found Baek-Hyeon sitting motionless amid mountains of white dust, his vocal cords seized in permanent silence. Because the legal ledgers were blank, the executioners had no legal authority to proceed, and eighty-two clerks were quietly reassigned to outer zones. The chalk held the desperate resolve of a magistrate who destroyed his own mind to erase the sins of an unjust court: an artifact that grants absolute immunity from guilt and harm, at the price of erasing who you were.
+He drew lines until the chalk wore down to a bloody stump between his fingers, then used his fingernails to grind the chalk dust into the parchment grooves. When the executioners breached the door at first light, they found Baek-Hyeon sitting motionless amid mountains of white dust, his vocal cords seized in permanent silence. Because the legal ledgers were blank, the executioners had no legal authority to proceed, and eighty-two auxiliaries were quietly reassigned to outer zones. The chalk held the desperate resolve of a magistrate who destroyed his own mind to erase the sins of an unjust court: an artifact that grants absolute immunity from guilt and harm, at the price of erasing who you were.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -368,7 +368,7 @@ Operational Rule: When deploying this A-Relic in combat, the squad leader must d
 
 - Baek-Hyeon lived for twenty-three years after the purge in an outer monastery, never speaking another word.
 - The stone ledger from which the eighty-two names were erased remains completely blank to this day; ink drawn on it slides off like water on wax.
-- The eighty-two supply clerks each wore a white thread tied to their lapels in secret remembrance.
+- The eighty-two supply auxiliaries each wore a white thread tied to their lapels in secret remembrance.
 
 ### Registry Trivia
 

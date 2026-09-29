@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / γ — Major / Grudge — Crimson |
 | Status | Active; external stop-cue partner required |
 | Maximum amount | 3 — Standard |
-| Current bearer | Agent Durivel Cho |
+| Current bearer | Specialist Durivel Cho |
 | Resting form | Crimson plates with dark chain-relief lines at the knees, wrists, and spine; no line closes into a link. |
 | Active form | The relief lines move in a measured sequence under the plates, bracing the next unavoidable motion. |
 | Recognition rule | The spine line opens at the base of the neck only when a valid release partner is recorded. |
@@ -87,7 +87,7 @@ Cho wore the Plate during a controlled test near a damaged conveyor hall. A Grud
 
 The Plate is the braking system of *Interruption*. The Fang can release a restraint and the Shoes can create distance, but neither protects a bearer who cannot accept that an outside person may end the motion.
 
-> *“Every protection plan for this suit begins with the same question: who is permitted to tell the wearer that they are done?”* — Agent Iseulfros Kim
+> *“Every protection plan for this suit begins with the same question: who is permitted to tell the wearer that they are done?”* — Specialist Iseulfros Kim
 
 ---
 

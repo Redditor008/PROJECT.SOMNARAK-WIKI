@@ -8,7 +8,7 @@
 **Related Entity ID:** `UNK-247`  
 **Side-Story SECC Designation:** `N-IIIβ-247 [WS]`  
 **Canon Group:** Side-Story Canon  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `1/1`
@@ -81,7 +81,7 @@ Director standing order forbids extraction. The source lists **The Undelivered L
 
 **Document ID:** `UNK-247-A`  
 **Linked Entity:** `UNK-247`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

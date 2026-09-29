@@ -7,7 +7,7 @@
 **Document ID:** `SE-301-B`  
 **Linked Entity:** `SE-301` — Feu Follet  
 **Item Registry Code:** `MAW-W-301-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Ember offers bounded warmth, Shroud protects, Requiem separates false present.
 **Document ID:** `SE-301-B`  
 **Linked Entity:** `SE-301`  
 **Item Registry Code:** `MAW-W-301-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

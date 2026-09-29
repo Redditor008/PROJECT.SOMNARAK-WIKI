@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1001` — The Kind Echo  
 **Source SECC Designation:** `C-Iα-000 [LS]`  
 **Item Registry Code:** `MAW-S-1001-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Kind Echo — Witnessed Form*, Standard Training Vest performs the s
 **Document ID:** `SE-1001-C`  
 **Linked Entity:** `SE-1001`  
 **Item Registry Code:** `MAW-S-1001-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

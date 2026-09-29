@@ -7,7 +7,7 @@
 **Document ID:** `SE-453-C`  
 **Linked Entity:** `SE-453` — Spoor  
 **Item Registry Code:** `MAW-S-453-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Shadow Shroud is a shroud of blue Han-silk carrying a nameless route line an
 **Document ID:** `SE-453-C`  
 **Linked Entity:** `SE-453`  
 **Item Registry Code:** `MAW-S-453-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

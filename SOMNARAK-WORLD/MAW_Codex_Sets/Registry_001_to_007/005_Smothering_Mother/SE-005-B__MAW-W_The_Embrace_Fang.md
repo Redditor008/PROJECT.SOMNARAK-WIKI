@@ -61,7 +61,7 @@ Every use makes the bearer remember a person who left without returning. At thre
 ## HISTORY OF USE
 
 **Incident:** The Little Door Evacuation, Year 4,235  
-**Bearer:** Senior Agent Felix Noh  
+**Bearer:** Senior Specialist Felix Noh  
 **Outcome:** Felix used Bring Them Back to pull two trapped children from a collapsing service hall. A third use targeted an adult medic who was leaving to assist another wing. The Fang pulled the medic back against Felix’s intention. The delay cost the medic a broken arm.
 
 **Lesson:** The weapon protects by narrowing the bearer’s idea of who is allowed to leave.

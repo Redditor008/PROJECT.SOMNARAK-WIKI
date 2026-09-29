@@ -7,7 +7,7 @@
 **Document ID:** `SE-459-B`  
 **Linked Entity:** `SE-459` — Bulwark  
 **Item Registry Code:** `MAW-W-459-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Bulwark Lens is a pale lens of Han glass with a sleeping wall line across it
 **Document ID:** `SE-459-B`  
 **Linked Entity:** `SE-459`  
 **Item Registry Code:** `MAW-W-459-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

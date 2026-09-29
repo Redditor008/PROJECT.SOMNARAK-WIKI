@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1006` — Night Peddler  
 **Source SECC Designation:** `C-IIα-062 [VO]`  
 **Item Registry Code:** `MAW-W-1006-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Night Peddler — Witnessed Form*, The Merchant's Lens performs the weap
 **Document ID:** `SE-1006-B`  
 **Linked Entity:** `SE-1006`  
 **Item Registry Code:** `MAW-W-1006-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

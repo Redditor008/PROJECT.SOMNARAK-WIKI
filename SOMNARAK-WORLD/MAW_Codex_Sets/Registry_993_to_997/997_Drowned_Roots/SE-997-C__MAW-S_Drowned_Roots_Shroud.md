@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-997` — Drowned Roots  
 **Source SECC Designation:** `C-IIβ-997 [D]`  
 **Item Registry Code:** `MAW-S-997-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Drowned Roots — Witnessed Form*, Drowned Roots Shroud performs the sui
 **Document ID:** `SE-997-C`  
 **Linked Entity:** `SE-997`  
 **Item Registry Code:** `MAW-S-997-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

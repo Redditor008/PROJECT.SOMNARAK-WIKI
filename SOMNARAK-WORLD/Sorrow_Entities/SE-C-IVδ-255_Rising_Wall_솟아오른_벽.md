@@ -241,7 +241,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It responds to patience rather than force.
 - It communicates through emotion.
 
-**Personnel Note:** *"I felt rage. The Wall was not angry that love failed; it was angry that the city treated unreturned love as if it had never existed."* — Agent, Zone B patrol
+**Personnel Note:** *"I felt rage. The Wall was not angry that love failed; it was angry that the city treated unreturned love as if it had never existed."* — Specialist, Zone B patrol
 
 
 
@@ -378,6 +378,6 @@ Some sorrows mourn a loss. Rising Wall mourns an asymmetry — the love that one
 ## Document Information
 
 **Document ID:** SE-C-IVδ-255
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Restricted

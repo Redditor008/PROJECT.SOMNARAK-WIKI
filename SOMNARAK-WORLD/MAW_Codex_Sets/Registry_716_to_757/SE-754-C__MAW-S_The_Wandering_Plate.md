@@ -4,7 +4,7 @@
 **Document ID:** `SE-754-C`  
 **Linked Entity:** `SE-754` — Thralldom  
 **Item Registry Code:** `MAW-S-754-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -31,7 +31,7 @@ The Wandering Plate is the suit of Thralldom’s set, bound by the same rule as 
 **Document ID:** `SE-754-C`  
 **Linked Entity:** `SE-754`  
 **Item Registry Code:** `MAW-S-754-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

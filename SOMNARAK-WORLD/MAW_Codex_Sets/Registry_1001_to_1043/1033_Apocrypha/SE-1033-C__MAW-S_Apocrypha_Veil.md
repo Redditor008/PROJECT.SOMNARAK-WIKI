@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1033` — Apocrypha  
 **Source SECC Designation:** `O-Iα-340 [VP]`  
 **Item Registry Code:** `MAW-S-1033-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Apocrypha — Witnessed Form*, Apocrypha Veil performs the suit role whi
 **Document ID:** `SE-1033-C`  
 **Linked Entity:** `SE-1033`  
 **Item Registry Code:** `MAW-S-1033-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

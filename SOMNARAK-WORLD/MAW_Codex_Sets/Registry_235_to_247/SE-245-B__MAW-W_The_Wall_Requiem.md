@@ -7,7 +7,7 @@
 **Document ID:** `SE-245-B`  
 **Linked Entity:** `SE-245` — Midnight Choir  
 **Item Registry Code:** `MAW-W-245-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -51,7 +51,7 @@ Stone preserves the phrase; Shroud sustains attention; Requiem removes only dang
 **Document ID:** `SE-245-B`  
 **Linked Entity:** `SE-245`  
 **Item Registry Code:** `MAW-W-245-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

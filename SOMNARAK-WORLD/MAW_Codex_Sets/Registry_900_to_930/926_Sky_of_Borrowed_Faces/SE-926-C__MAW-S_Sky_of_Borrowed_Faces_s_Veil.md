@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-926` — Sky of Borrowed Faces  
 **Source SECC Designation:** `O-IIIγ-926 [LH]`  
 **Item Registry Code:** `MAW-S-926-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Veil 
 **Document ID:** `SE-926-C`  
 **Linked Entity:** `SE-926`  
 **Item Registry Code:** `MAW-S-926-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

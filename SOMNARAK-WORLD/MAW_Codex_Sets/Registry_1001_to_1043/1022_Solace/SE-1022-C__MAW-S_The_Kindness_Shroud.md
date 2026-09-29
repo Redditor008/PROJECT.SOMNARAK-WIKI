@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1022` — Solace  
 **Source SECC Designation:** `C-Iα-240 [LO]`  
 **Item Registry Code:** `MAW-S-1022-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Solace — Witnessed Form*, The Kindness Shroud performs the suit role w
 **Document ID:** `SE-1022-C`  
 **Linked Entity:** `SE-1022`  
 **Item Registry Code:** `MAW-S-1022-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

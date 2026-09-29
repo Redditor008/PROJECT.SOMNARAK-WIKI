@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its light appears when someone names a destination.
 - Personnel report grief rather than fear.
 
-**Personnel Note:** *"It was waiting. I felt sorrow. The door had collapsed, but the decision to leave was still standing inside it."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt sorrow. The door had collapsed, but the decision to leave was still standing inside it."* — Specialist, Zone B patrol
 
 
 

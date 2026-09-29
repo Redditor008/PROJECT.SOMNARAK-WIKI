@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1027` — The Sorrow Tide  
 **Source SECC Designation:** `C-Vγ-260 [WP]`  
 **Item Registry Code:** `MAW-W-1027-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *The Sorrow Tide — Witnessed Form*, The Tide Maul performs the weapon r
 **Document ID:** `SE-1027-B`  
 **Linked Entity:** `SE-1027`  
 **Item Registry Code:** `MAW-W-1027-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

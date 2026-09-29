@@ -128,7 +128,7 @@
 - **The Sorrow:** The fear of what waits beyond an irreversible threshold.
 - **The Event:** The Gate was found beneath the Alpha Tree already sealed; all records of its maker are absent.
 - **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Agents who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
+- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
 
 ## Behavior
 
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Something warm and apparently alive exists beyond it.
 - The Archive Lead visits once each year and says nothing.
 
-**Personnel Note:** *"It was singing. I felt weight. The Door was not asking to be opened; it was reminding us that sealed things can still listen."* — Agent, Zone B patrol
+**Personnel Note:** *"It was singing. I felt weight. The Door was not asking to be opened; it was reminding us that sealed things can still listen."* — Specialist, Zone B patrol
 
 
 
@@ -292,7 +292,7 @@ The fear of what waits beyond an irreversible threshold.
 Work response — Viderehan: Whispers reveal fragments of buried truth. (Stable); Ferrehan: Remains silent while testing the worker's patience. (Stable). The Archive Lead visits once each year and says nothing.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Agents who have worked with the entity …  Threat rating: Unknown. The Gate is sealed. Its contents are unknown. Risk: opening the Gate is considered catastrophic by all …
+The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …  Threat rating: Unknown. The Gate is sealed. Its contents are unknown. Risk: opening the Gate is considered catastrophic by all …
 
 ## 최종 관찰 (Final Observation)
 

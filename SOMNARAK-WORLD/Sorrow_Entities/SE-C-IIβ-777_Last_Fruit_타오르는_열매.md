@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Sparks become seeds that vanish before touching the ground.
 - It responds to honest acknowledgment more than acquisition.
 
-**Personnel Note:** *"It was glowing. I felt hope. Then I realized the hope was not that I would get what I wanted, but that wanting it might be allowed."* — Agent, Zone D patrol
+**Personnel Note:** *"It was glowing. I felt hope. Then I realized the hope was not that I would get what I wanted, but that wanting it might be allowed."* — Specialist, Zone D patrol
 
 
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-210` — Levity  
 **Item Registry Code:** `MAW-S-210-01`  
 **Entity Designation:** `C-IIβ-210 [VO]`  
-**Author:** Agent Iseulfros Kim, Environmental Hazard Specialist  
+**Author:** Specialist Iseulfros Kim, Environmental Hazard Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified    
 **Codex Set Completion:** `4/4`
@@ -45,7 +45,7 @@ The first Veil condensed on acoustic baffling after a Ferrehan team endured Levi
 | Holder / wearer | Period | Outcome | Item-specific record |
 |---|---|---|---|
 | Mask Market hazard locker | Current custody | Active | Four Veils stored without face-forms. |
-| Agent Iseulfros Kim | Indumentum removal response | Recovered | Crossed a copied chorus and removed Levity from Agent Hanul Grey. |
+| Specialist Iseulfros Kim | Indumentum removal response | Recovered | Crossed a copied chorus and removed Levity from Specialist Hanul Grey. |
 
 ---
 
@@ -88,7 +88,7 @@ Only the appointed partner may open the collar. They speak the wearer’s name a
 
 ## HISTORY OF USE — THE PERSON BEHIND THE LAUGH
 
-Agent Hanul Grey triggered Levity while documenting the display mount. The relic sealed over his face and produced continuous laughter in his preferred reassuring voice. Each order to “stay calm” strengthened the effect because the voice sounded functional and no longer conveyed his condition.
+Specialist Hanul Grey triggered Levity while documenting the display mount. The relic sealed over his face and produced continuous laughter in his preferred reassuring voice. Each order to “stay calm” strengthened the effect because the voice sounded functional and no longer conveyed his condition.
 
 Iseulfros entered the acoustic boundary wearing the Veil. Levity copied her voice onto the market shutters, but the suit kept the chorus moving across its surface rather than into her speech. At arm’s reach she began to answer the laughter automatically. Her removal partner, Researcher Euncris Park, repeated the identity fact recorded before entry: Iseulfros disliked sweet roasted grain and had argued about it that morning. The named thread reappeared.
 
@@ -130,14 +130,14 @@ Levity laughs in the wearer’s voice but addresses the Veil by whichever title 
 
 The Veil is approved for Void chorus entry, activated-mask removal, and short identity-protection tasks. It is prohibited for public reassurance duty, negotiation optics, personnel concealment, or any assignment where appearing calm is itself the objective.
 
-> *“A suit that makes distress easier to ignore is not protecting the team. It is protecting the schedule.”* — Agent Iseulfros Kim
+> *“A suit that makes distress easier to ignore is not protecting the team. It is protecting the schedule.”* — Specialist Iseulfros Kim
 
 ---
 
 **Document ID:** `SE-210-C`  
 **Linked Entity:** `SE-210`  
 **Item Registry Code:** `MAW-S-210-01`  
-**Author:** Agent Iseulfros Kim, Environmental Hazard Specialist  
+**Author:** Specialist Iseulfros Kim, Environmental Hazard Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

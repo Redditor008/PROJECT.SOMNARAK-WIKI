@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Removing them causes them to return elsewhere along the same route.
 - Personnel report loss rather than fear.
 
-**Personnel Note:** *"It was singing in the Desolate. I felt loss, but the flowers were not asking me to stay. They were asking me to admit that I had already left."* — Agent, Zone B patrol
+**Personnel Note:** *"It was singing in the Desolate. I felt loss, but the flowers were not asking me to stay. They were asking me to admit that I had already left."* — Specialist, Zone B patrol
 
 
 

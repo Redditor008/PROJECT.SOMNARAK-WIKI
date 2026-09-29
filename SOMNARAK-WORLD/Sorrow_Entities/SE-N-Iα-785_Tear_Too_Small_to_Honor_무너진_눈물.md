@@ -427,6 +427,6 @@ Some sorrows are grand. Tear Too Small to Honor is about the small — the quiet
 ## Document Information
 
 **Document ID:** SE-N-Iα-785
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Restricted

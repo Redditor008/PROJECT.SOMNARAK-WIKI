@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its routes change when the dreamer remembers more.
 - Personnel report peace before realizing the dream is leading them away.
 
-**Personnel Note:** *"It was waiting. I felt peace. Then it pulled me toward a person who had been gone for twenty years."* — Agent, Zone B patrol
+**Personnel Note:** *"It was waiting. I felt peace. Then it pulled me toward a person who had been gone for twenty years."* — Specialist, Zone B patrol
 
 
 

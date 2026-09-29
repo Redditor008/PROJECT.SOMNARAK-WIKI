@@ -362,7 +362,7 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 
 > *"I have logged three hundred entities. This is the first one that apologized mid-attack and meant it — twice, in two voices."* — Researcher Euncris Park (은크리스 박), R.D.
 
-> *"The cute one healed my arm. The angry one broke it again to prove she could. Then they argued about it for four minutes while I bled. I have never felt more carefully attended to."* — Agent Haneulash Yoon (하늘애쉬 윤), Zone B
+> *"The cute one healed my arm. The angry one broke it again to prove she could. Then they argued about it for four minutes while I bled. I have never felt more carefully attended to."* — Specialist Haneulash Yoon (하늘애쉬 윤), Zone B
 
 > *"Do not make her choose between them. She will choose wrong on purpose, because choosing means killing one of herself, and she would rather explode."* — Handler Soojin (수진)
 

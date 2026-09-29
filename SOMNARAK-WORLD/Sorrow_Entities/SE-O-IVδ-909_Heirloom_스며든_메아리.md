@@ -395,6 +395,6 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 ## Document Information
 
 **Document ID:** SE-O-IVδ-909
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4238
 **Classification:** Classified

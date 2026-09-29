@@ -6,7 +6,7 @@
 +---------------------------------------------------------------------+
 |    THE WON-HYEONG BIO-RESTORATION CONGLOMERATE — MASTER DOSSIER     |
 +-----------------------+---------------------------------------------+
-| CORPORATE CODE        | WHB-CORP-M004 (Sovereign Main Wing 04)      |
+| CORPORATE CODE        | WHB-CORP-M004 (Sovereign Main Charter 04)   |
 +-----------------------+---------------------------------------------+
 | KOREAN AUTHORITY      | Wonhyeong Saengche Bok-won Gongsa           |
 |                       | (Wonhyeong)                                 |

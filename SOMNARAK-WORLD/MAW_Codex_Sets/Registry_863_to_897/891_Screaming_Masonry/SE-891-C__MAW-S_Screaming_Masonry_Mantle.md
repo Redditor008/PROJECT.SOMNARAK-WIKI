@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-891` — Screaming Masonry  
 **Source SECC Designation:** `C-IIIγ-891 [D]`  
 **Item Registry Code:** `MAW-S-891-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Mantle performs
 **Document ID:** `SE-891-C`  
 **Linked Entity:** `SE-891`  
 **Item Registry Code:** `MAW-S-891-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

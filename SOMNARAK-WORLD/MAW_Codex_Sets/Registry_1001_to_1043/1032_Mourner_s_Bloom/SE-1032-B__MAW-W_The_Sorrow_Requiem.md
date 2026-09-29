@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1032` — Mourner's Bloom  
 **Source SECC Designation:** `C-Iα-330 [D]`  
 **Item Registry Code:** `MAW-W-1032-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Mourner's Bloom — Witnessed Form*, The Sorrow Requiem performs the wea
 **Document ID:** `SE-1032-B`  
 **Linked Entity:** `SE-1032`  
 **Item Registry Code:** `MAW-W-1032-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

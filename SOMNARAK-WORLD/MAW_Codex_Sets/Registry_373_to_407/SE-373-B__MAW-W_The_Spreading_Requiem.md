@@ -7,7 +7,7 @@
 **Document ID:** `SE-373-B`  
 **Linked Entity:** `SE-373` — Till Someone Understands  
 **Item Registry Code:** `MAW-W-373-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Spreading Requiem is a wet blade of deep-blue crystal patterned with branchi
 **Document ID:** `SE-373-B`  
 **Linked Entity:** `SE-373`  
 **Item Registry Code:** `MAW-W-373-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

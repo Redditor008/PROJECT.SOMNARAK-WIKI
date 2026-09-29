@@ -45,9 +45,9 @@ box_spires_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (GREEN DUSK)"
     "POS     : [SPIRE-A]     [PARK]  [KIM]           [HWANG]        [DEKAN]",
     "DIST    : Park at N03 (Band 1); Kim at N04 (Band 2); Hwang at N06.",
     "---",
-    "Agent Park        : Speed 6 -> 3 AP | HP: 130/130 | SP: +30 | Judgment Maul",
-    "Agent Kim         : Speed 5 -> 3 AP | HP: 120/120 | SP: +25 | Kinetic Carbine",
-    "Agent Hwang       : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Observing Bow",
+    "Specialist Park        : Speed 6 -> 3 AP | HP: 130/130 | SP: +30 | Judgment Maul",
+    "Specialist Kim         : Speed 5 -> 3 AP | HP: 120/120 | SP: +25 | Kinetic Carbine",
+    "Specialist Hwang       : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Observing Bow",
     "Siphon Spire (x2) : Speed 4 -> 2 AP | HP: 360 each | Energy Drain"
 ])
 
@@ -80,12 +80,12 @@ new_spires = f"""Director Majin establishes split-squad GBS tactical coordinates
 - **Step 1: Floor 2 Echo-Core Resonance (Dekan)**:
   * Dekan deploys *The Maw's Keep Bastion Ward*, shielding Nodes 1 to 4 with +50% kinetic armor against escaping gear teeth.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Park (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Judgment Maul Escapement Crusher]`.
-  * Agent Kim (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready concentrated carbine suppressive fire. Remaining 1 AP held in Guard.
-  * Agent Hwang (Speed 6 -> 3 AP) operates from Node 6 (Range Band 3), aiming an armor-piercing Void arrow at the spire's energy conduit.
+  * Specialist Park (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Judgment Maul Escapement Crusher]`.
+  * Specialist Kim (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready concentrated carbine suppressive fire. Remaining 1 AP held in Guard.
+  * Specialist Hwang (Speed 6 -> 3 AP) operates from Node 6 (Range Band 3), aiming an armor-piercing Void arrow at the spire's energy conduit.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Siphon Spire A attempts `[High-Torque Escapement Sweep]` (Base 8 + 2 Coins = 12 Power).
-  * Agent Park's `[Judgment Maul Escapement Crusher]` (Base 11 + 2 Coins = 15 Power).
+  * Specialist Park's `[Judgment Maul Escapement Crusher]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Park WINS THE CLASH (15 vs 12).
     * Park's heavy maul shatters the main clockwork axle, halting energy siphonage and dealing **46 Grudge damage** with +28 Stagger!
   * Hwang and Kim fire coordinated bursts from Nodes 4 and 6, cutting down emerging gear scuttlers.
@@ -115,8 +115,8 @@ box_shrouds_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CRIMSON DUS
     "DIST    : Ishall at N02 (Band 1); Park at N03 (Band 2); Song at N06.",
     "---",
     "Shadow Lead Ishall: Speed 7 -> 4 AP | HP: 190/190 | SP: +35 | Unanswered Talon",
-    "Agent Park        : Speed 6 -> 3 AP | HP: 135/135 | SP: +30 | Judgment Scale",
-    "Agent Song        : Speed 5 -> 3 AP | HP: 115/115 | SP: +25 | Cherub Bow",
+    "Specialist Park        : Speed 6 -> 3 AP | HP: 135/135 | SP: +30 | Judgment Scale",
+    "Specialist Song        : Speed 5 -> 3 AP | HP: 115/115 | SP: +25 | Cherub Bow",
     "Blood-Tide Shroud : Speed 5 -> 3 AP | HP: 380 each | Crimson Lash"
 ])
 
@@ -132,10 +132,10 @@ box_shrouds_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "1. Environmental Check : Crimson seepage drained by subterranean pumps.",
     "2. Status Equilibrium : Bleed counters expire; team SP rises to +35.",
     "3. Containment Check   : All three Shrouds dissolved into inert mist.",
-    "4. OUTCOME             : ZERO AGENT CASUALTIES, +28 REFINED RHR SECURED."
+    "4. OUTCOME             : ZERO SPECIALIST CASUALTIES, +28 REFINED RHR SECURED."
 ])
 
-old_shrouds = """Ishall and Agent Park engage the central shroud in close combat, absorbing the physical Grudge lashes with *Judgment Scale* armor. Agent Song snipes from the rear with *Cherub's Bow*, shattering the spectral weave in 24 seconds! +28 RHR reagents collected!"""
+old_shrouds = """Ishall and Specialist Park engage the central shroud in close combat, absorbing the physical Grudge lashes with *Judgment Scale* armor. Specialist Song snipes from the rear with *Cherub's Bow*, shattering the spectral weave in 24 seconds! +28 RHR reagents collected!"""
 
 new_shrouds = f"""Director Majin establishes GBS tactical deployment at Floor 7's outer bulkhead:
 
@@ -149,8 +149,8 @@ new_shrouds = f"""Director Majin establishes GBS tactical deployment at Floor 7'
   * Majin deploys `Veil Mist Dampener`, reducing Crimson bleed splatter by 40%.
 - **Step 2: Movement & Action Point Spending**:
   * Shadow Lead Ishall (Speed 7 -> 4 AP) spends 1 AP to shift directly to Node 2 behind Shroud Alpha. Spends 2 AP to declare `[Unanswered Talon Void Dissection]`. Remaining 1 AP held in Evade.
-  * Agent Park (Speed 6 -> 3 AP) anchors Node 3 in Point-Blank Range Band 1. Spends 2 AP to brace *Judgment Scale* in a kinetic absorb stance.
-  * Agent Song (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to ready `[Cherub's Bow Resonant Arrow]`.
+  * Specialist Park (Speed 6 -> 3 AP) anchors Node 3 in Point-Blank Range Band 1. Spends 2 AP to brace *Judgment Scale* in a kinetic absorb stance.
+  * Specialist Song (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to ready `[Cherub's Bow Resonant Arrow]`.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
   * Blood-Tide Shroud declares `[Sanguine Lash Volley]` (Base 9 + 2 Coins = 13 Power).
   * Shadow Lead Ishall's `[Unanswered Talon]` (Base 11 + 2 Coins = 15 Power).
@@ -183,9 +183,9 @@ box_spiders_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER SPIDE
     "POS     : [ALPHA-SPIDER] [PARK]  [KIM]           [HWANG]        [MELLDA]",
     "DIST    : Park at N03 (Band 1); Kim at N04 (Band 2); Hwang at N06.",
     "---",
-    "Agent Park          : Speed 6 -> 3 AP | HP: 135/135 | SP: +30 | Judgment Maul",
-    "Agent Kim           : Speed 5 -> 3 AP | HP: 125/125 | SP: +25 | Kinetic Carbine",
-    "Agent Hwang         : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Wellspring Lens",
+    "Specialist Park          : Speed 6 -> 3 AP | HP: 135/135 | SP: +30 | Judgment Maul",
+    "Specialist Kim           : Speed 5 -> 3 AP | HP: 125/125 | SP: +25 | Kinetic Carbine",
+    "Specialist Hwang         : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Wellspring Lens",
     "Alpha Tremor Spider : Speed 5 -> 3 AP | HP: 400/400 | Acid Web Shock"
 ])
 
@@ -216,12 +216,12 @@ new_spiders = f"""Director Majin establishes GBS tactical coordinates at Floor 5
 - **Step 1: Floor 5 Echo-Core Resonance (Border Lead Mellda)**:
   * Mellda drops *The Bulwark Perimeter* across Node 4, preventing web lines from trapping the rear ranks.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Park (Speed 6 -> 3 AP) spends 1 AP to advance to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Judgment Maul Thorax Impact]`.
-  * Agent Kim (Speed 5 -> 3 AP) takes Node 4 (Range Band 2). Spends 2 AP to prepare incendiary carbine rounds to burn acid webs. Remaining 1 AP held in Guard.
-  * Agent Hwang (Speed 6 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to charge `[Wellspring Lens Void Lance]`.
+  * Specialist Park (Speed 6 -> 3 AP) spends 1 AP to advance to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Judgment Maul Thorax Impact]`.
+  * Specialist Kim (Speed 5 -> 3 AP) takes Node 4 (Range Band 2). Spends 2 AP to prepare incendiary carbine rounds to burn acid webs. Remaining 1 AP held in Guard.
+  * Specialist Hwang (Speed 6 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to charge `[Wellspring Lens Void Lance]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Alpha Tremor Spider strikes with `[Acid Mandible Pincer]` (Base 9 + 2 Coins = 13 Power).
-  * Agent Park's `[Judgment Maul Thorax Impact]` (Base 11 + 2 Coins = 15 Power).
+  * Specialist Park's `[Judgment Maul Thorax Impact]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Park WINS THE CLASH (15 vs 13).
     * Park's warhammer shatters the spider's front armored leg, driving it back to Node 1 and dealing **48 Weight damage** with +26 Stagger!
   * Hwang's Void lance strikes the spider's exposed carapace from Node 6 for 36 piercing damage.
@@ -250,9 +250,9 @@ box_floating_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (FLOATING S
     "POS     : [SPIRE-A]             [SONG]  [HWANG]         [KIM]  [AYSHUK]",
     "DIST    : Spire at N01; Song at N05 (Band 3); Hwang at N06; Kim at N08.",
     "---",
-    "Agent Song          : Speed 6 -> 3 AP | HP: 120/120 | SP: +30 | Cherub Bow",
-    "Agent Hwang         : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Wellspring Lens",
-    "Agent Kim           : Speed 5 -> 3 AP | HP: 125/125 | SP: +25 | Kinetic Carbine",
+    "Specialist Song          : Speed 6 -> 3 AP | HP: 120/120 | SP: +30 | Cherub Bow",
+    "Specialist Hwang         : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Wellspring Lens",
+    "Specialist Kim           : Speed 5 -> 3 AP | HP: 125/125 | SP: +25 | Kinetic Carbine",
     "Levitating Spire(x3): Speed 4 -> 2 AP | HP: 350 each | Void Death-Ray"
 ])
 
@@ -266,12 +266,12 @@ box_floating_turns = make_box("TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY
 
 box_floating_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "1. Environmental Check : Cross-floor laser channels clear and power down.",
-    "2. Status Equilibrium : Clerk areas shielded; team SP rises to +35.",
+    "2. Status Equilibrium : Auxiliary areas shielded; team SP rises to +35.",
     "3. Containment Check   : All three levitating monoliths eradicated.",
     "4. OUTCOME             : ZERO CASUALTIES — +32 REFINED RHR SECURED."
 ])
 
-old_floating = """Agent Song and Agent Hwang form a sniper battery, firing synchronized Lament and Void piercing bolts from Range Band 3, shattering all three spires before a single clerk is harmed! +32 RHR reagents collected!"""
+old_floating = """Specialist Song and Specialist Hwang form a sniper battery, firing synchronized Lament and Void piercing bolts from Range Band 3, shattering all three spires before a single clerk is harmed! +32 RHR reagents collected!"""
 
 new_floating = f"""Director Majin establishes sniper battery coordinates across the central plaza:
 
@@ -283,12 +283,12 @@ new_floating = f"""Director Majin establishes sniper battery coordinates across 
 - **Step 1: Floor 4 Echo-Core Resonance (Research Lead Ayshuk)**:
   * Ayshuk activates *The Predictive HUD*, projecting the spires' cross-floor laser firing arcs onto the agents' reticles and granting +3 Clash Power against ranged skills.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Song (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to ready `[Cherub's Bow Synchronized Resonant Bolt]`. Remaining 1 AP held in Guard.
-  * Agent Hwang (Speed 6 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to charge `[Wellspring Lens Void Piercer]`.
-  * Agent Kim (Speed 5 -> 3 AP) deploys at Node 8 (Range Band 4), spending 2 AP to prime suppressive stasis rounds.
+  * Specialist Song (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to ready `[Cherub's Bow Synchronized Resonant Bolt]`. Remaining 1 AP held in Guard.
+  * Specialist Hwang (Speed 6 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to charge `[Wellspring Lens Void Piercer]`.
+  * Specialist Kim (Speed 5 -> 3 AP) deploys at Node 8 (Range Band 4), spending 2 AP to prime suppressive stasis rounds.
 - **Step 3: Clash Resolution (Node 1 to 5)**:
   * Levitating Spire A declares `[Corridor Annihilation Beam]` on Node 5 (Base 9 + 2 Coins = 13 Power).
-  * Agent Song's `[Synchronized Resonant Bolt]` (Base 11 + 2 Coins = 15 Power).
+  * Specialist Song's `[Synchronized Resonant Bolt]` (Base 11 + 2 Coins = 15 Power).
   * **Resolution**: Song WINS THE CLASH (15 vs 13).
     * Song's acoustic arrow threads directly down the aperture of the charging death-ray, detonating inside the spire's core and dealing **46 Lament damage** with +28 Stagger!
   * Hwang follows with a precision Void beam, fracturing the spire's levitation gyros.

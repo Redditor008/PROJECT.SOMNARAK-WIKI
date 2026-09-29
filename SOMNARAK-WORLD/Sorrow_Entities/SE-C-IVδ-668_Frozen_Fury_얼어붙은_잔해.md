@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It responds strongly to Collector activity.
 - Personnel feel rage before fear.
 
-**Personnel Note:** *"I felt rage. The Ruin was not guarding stone; it was guarding the people the stone had been used to erase."* — Agent, Zone D patrol
+**Personnel Note:** *"I felt rage. The Ruin was not guarding stone; it was guarding the people the stone had been used to erase."* — Specialist, Zone D patrol
 
 
 

@@ -7,7 +7,7 @@
 **Document ID:** `SE-280-B`  
 **Linked Entity:** `SE-280` — Pall  
 **Item Registry Code:** `MAW-W-280-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
@@ -49,7 +49,7 @@ Charm distinguishes personal grief; Veil absorbs attack; Requiem relieves overfl
 **Document ID:** `SE-280-B`  
 **Linked Entity:** `SE-280`  
 **Item Registry Code:** `MAW-W-280-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-906` — Grimoire  
 **Source SECC Designation:** `C-IIβ-906 [GO]`  
 **Item Registry Code:** `MAW-S-906-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Grimoire — Witnessed Form*, Grimoire's Veil performs the suit role whi
 **Document ID:** `SE-906-C`  
 **Linked Entity:** `SE-906`  
 **Item Registry Code:** `MAW-S-906-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

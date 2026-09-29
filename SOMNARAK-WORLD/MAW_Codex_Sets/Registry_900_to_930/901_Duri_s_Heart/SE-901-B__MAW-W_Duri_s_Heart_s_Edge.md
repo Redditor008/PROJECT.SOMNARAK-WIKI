@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-901` — Duri's Heart  
 **Source SECC Designation:** `C-IIβ-901 [WO]`  
 **Item Registry Code:** `MAW-W-901-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -54,7 +54,7 @@ Within *Duri's Heart — Witnessed Form*, Duri's Heart's Edge performs the weapo
 **Document ID:** `SE-901-B`  
 **Linked Entity:** `SE-901`  
 **Item Registry Code:** `MAW-W-901-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

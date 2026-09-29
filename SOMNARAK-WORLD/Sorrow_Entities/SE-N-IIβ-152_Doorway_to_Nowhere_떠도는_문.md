@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its flame is emotional rather than physical.
 - Personnel report rage when the door shows a home they cannot enter.
 
-**Personnel Note:** *"It was glowing. I felt rage. The Door opened onto my childhood and proved that returning is not the same as going home."* — Agent, Zone C patrol
+**Personnel Note:** *"It was glowing. I felt rage. The Door opened onto my childhood and proved that returning is not the same as going home."* — Specialist, Zone C patrol
 
 
 

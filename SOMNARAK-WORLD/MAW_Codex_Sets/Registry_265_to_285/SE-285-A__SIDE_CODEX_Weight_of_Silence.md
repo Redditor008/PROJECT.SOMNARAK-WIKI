@@ -7,7 +7,7 @@
 **Document ID:** `SE-285-A`  
 **Related Entity ID:** `SE-285`  
 **SECC Designation:** `N-IIα-285 [WS]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
@@ -37,7 +37,7 @@
 
 The entity is lead-cold and wet-stone scented. It attaches to groups whose silence is meant as protection, glows when someone tries to leave without speaking, and grows heavier when silence becomes punishment. It weakens when speech is offered without demand for response.
 
-> *“Silence can be care. The harm begins when nobody is allowed to discover the others are carrying it too.”* — Agent Haneulash Yoon
+> *“Silence can be care. The harm begins when nobody is allowed to discover the others are carrying it too.”* — Specialist Haneulash Yoon
 
 ---
 
@@ -105,7 +105,7 @@ An echo forms after one affected person speaks voluntarily—or chooses not to�
 
 **Document ID:** `SE-285-A`  
 **Linked Entity:** `SE-285`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

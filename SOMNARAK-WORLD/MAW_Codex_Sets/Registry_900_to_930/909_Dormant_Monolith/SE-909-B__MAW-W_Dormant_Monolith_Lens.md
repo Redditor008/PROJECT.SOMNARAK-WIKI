@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-909` — Dormant Monolith  
 **Source SECC Designation:** `N-IVδ-909 [N]`  
 **Item Registry Code:** `MAW-W-909-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Lens performs the
 **Document ID:** `SE-909-B`  
 **Linked Entity:** `SE-909`  
 **Item Registry Code:** `MAW-W-909-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

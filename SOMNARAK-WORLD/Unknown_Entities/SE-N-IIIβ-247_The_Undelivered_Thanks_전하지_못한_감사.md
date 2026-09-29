@@ -219,7 +219,7 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 - It cannot enter the Echo Gardens' memorial rows — it waits at the gate.
 - A worker who delivered a carried thanks reported the stone dissolving like warm sugar in tea.
 
-**Personnel Note:** *"I carried its stone for eleven days before I found the Mender who'd pulled my mother from a collapse. She didn't remember her. I said the words anyway. The stone was gone before I finished the sentence."* — Agent Haneulash Yoon (하늘애쉬 윤), Zone D
+**Personnel Note:** *"I carried its stone for eleven days before I found the Mender who'd pulled my mother from a collapse. She didn't remember her. I said the words anyway. The stone was gone before I finished the sentence."* — Specialist Haneulash Yoon (하늘애쉬 윤), Zone D
 
 ### Observation Progression
 
@@ -239,7 +239,7 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 The subject is a translucent humanoid, slight, perpetually mid-bow, garbed in the faded coat of a Zone D commoner. At the hip it carries a satchel of warm-gold stones — each stone, on inspection, a single crystallized expression of gratitude. The figure itself is cold; only the stones are warm. It does not speak. It bows, and waits, and moves on.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-First contact occurred on the Lantern's dock at dawn. The subject stood at the mooring where the Initiative vessel had departed the previous night, bowing at intervals to an empty berth. It did not respond to address. When Agent Grey approached, one stone transferred from the satchel to his sternum without contact. The agent reported a sudden, specific recollection of a person he had failed to thank. The stone remained for nine days.
+First contact occurred on the Lantern's dock at dawn. The subject stood at the mooring where the Initiative vessel had departed the previous night, bowing at intervals to an empty berth. It did not respond to address. When Specialist Grey approached, one stone transferred from the satchel to his sternum without contact. The agent reported a sudden, specific recollection of a person he had failed to thank. The stone remained for nine days.
 
 **Entry 3 — <Excerpt from Counseling Log>**
 "It wasn't a debt I could pay. I tried for nine years. Flowers at the dock every season. Letters I couldn't send because I never learned her name. When I found her — grey hair, shaking hands — she looked at me the way you look at furniture. The thanks had nowhere to go. It just... stayed. And then it wasn't mine anymore. It was everyone's." — Iseulia (이슬리아), flower-seller, Zone D
@@ -359,7 +359,7 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 
 **Registry:** Unknown Sorrow Entity — post-Absolvohan collection (Entry 01)
 
-**Author:** Researcher Euncris Park (은크리스 박), with field testimony compiled by Agent Haneulash Yoon (하늘애쉬 윤)
+**Author:** Researcher Euncris Park (은크리스 박), with field testimony compiled by Specialist Haneulash Yoon (하늘애쉬 윤)
 
 **Date:** Year 4238
 

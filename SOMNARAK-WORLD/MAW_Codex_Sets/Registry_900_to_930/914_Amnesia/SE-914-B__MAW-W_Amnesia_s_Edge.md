@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-914` — Amnesia  
 **Source SECC Designation:** `O-IIβ-914 [VT]`  
 **Item Registry Code:** `MAW-W-914-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -56,7 +56,7 @@ Within *Amnesia — Witnessed Form*, Amnesia's Edge performs the weapon role whi
 **Document ID:** `SE-914-B`  
 **Linked Entity:** `SE-914`  
 **Item Registry Code:** `MAW-W-914-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

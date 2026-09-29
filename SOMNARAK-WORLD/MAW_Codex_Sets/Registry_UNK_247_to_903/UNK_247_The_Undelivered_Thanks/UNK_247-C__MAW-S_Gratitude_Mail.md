@@ -5,7 +5,7 @@
 **Document ID:** `UNK-247-C`  
 **Linked Entity:** `UNK-247` — The Undelivered Thanks  
 **Item Registry Code:** `MAW-S-UNK-247-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ A woven interlocking mail hauberk sewn with thousands of small linen tabs, each 
 **Document ID:** `UNK-247-C`  
 **Linked Entity:** `UNK-247`  
 **Item Registry Code:** `MAW-S-UNK-247-01`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

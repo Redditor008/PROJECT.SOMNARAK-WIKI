@@ -7,7 +7,7 @@
 **Document ID:** `SE-651-B`  
 **Linked Entity:** `SE-651` — Relic Waiting for Its Maker  
 **Item Registry Code:** `MAW-W-651-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -37,7 +37,7 @@ The Relic Waiting for Its Makers’ Lens is a quivering pale disc of Han glass, 
 **Document ID:** `SE-651-B`  
 **Linked Entity:** `SE-651`  
 **Item Registry Code:** `MAW-W-651-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

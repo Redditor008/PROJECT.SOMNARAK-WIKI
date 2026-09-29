@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It does not stop legitimate exiles.
 - It attacks only attempts to reverse the Gate's one-way function.
 
-**Personnel Note:** *"It was mourning. I felt rage. The Guardian's anger was not at those leaving; it was at the city that needed a Gate for goodbyes."* — Agent, Zone B patrol
+**Personnel Note:** *"It was mourning. I felt rage. The Guardian's anger was not at those leaving; it was at the city that needed a Gate for goodbyes."* — Specialist, Zone B patrol
 
 
 

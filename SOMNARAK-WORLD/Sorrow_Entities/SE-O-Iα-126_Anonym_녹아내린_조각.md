@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It melts under direct certainty and reforms under patient observation.
 - Personnel report sorrow after exposure.
 
-**Personnel Note:** *"It was glowing. I felt sorrow. The Shard looked at me as if I were already a person I had forgotten."* — Agent, Zone B patrol
+**Personnel Note:** *"It was glowing. I felt sorrow. The Shard looked at me as if I were already a person I had forgotten."* — Specialist, Zone B patrol
 
 
 

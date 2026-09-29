@@ -431,6 +431,6 @@ Some sorrows are about what happened. Broken Mirror is about what was refused â€
 ## Document Information
 
 **Document ID:** SE-C-IIÎ±-081
-**Author:** Agent Haneulash Yoon
+**Author:** Specialist Haneulash Yoon
 **Date:** Year 4218
 **Classification:** Restricted

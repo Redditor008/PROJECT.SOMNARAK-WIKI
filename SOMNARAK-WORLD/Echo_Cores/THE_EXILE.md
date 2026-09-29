@@ -271,11 +271,11 @@ The facility reference assigns approximately **55 personnel** to Floor 8:
 | Personnel Group | Approximate Count | Function |
 |---|---:|---|
 | **Field Commander** | 1 | Managed internal Floor 8 operations during Xyan's absence and supports post-return command |
-| **Senior Agents** | 3 | Gate security, external-contact review, and emergency coordination |
+| **Senior Specialists** | 3 | Gate security, external-contact review, and emergency coordination |
 | **Specialists** | 2 | Signal interpretation, Gate behavior, and Han-boundary analysis |
-| **Agents** | 10 | Perimeter checks, escort, observation, and response |
-| **Junior Agents** | 5 | Supervised Gate watch and documentation support |
-| **Clerks** | 20 | Continuous Gate records, signal logs, identities, and access files |
+| **Specialists** | 10 | Perimeter checks, escort, observation, and response |
+| **Junior Specialists** | 5 | Supervised Gate watch and documentation support |
+| **Auxiliaries** | 20 | Continuous Gate records, signal logs, identities, and access files |
 | **Technicians** | 10 | Gate Lens, communication arrays, barriers, and sensor maintenance |
 | **Maintenance** | 5 | Observation-post, shelter, seal, and structural support |
 
@@ -398,7 +398,7 @@ Xyan learned to survive by reading rather than dominating:
 - storm sound and pressure;
 - water collection and filtration;
 - temporary shelter;
-- routes used by nomads, frontier families, and field agents;
+- routes used by nomads, frontier families, and field specialists;
 - the difference between an empty map and an inhabited place the city did not count.
 
 The sources do not make him the inventor or owner of these practices. Outside communities already possessed knowledge. His survival required learning in a world Somnarak had dismissed.
@@ -1004,7 +1004,7 @@ Xyan knows its rule before crossing. His relationship with it is not ownership o
 
 ### Floor 8 Personnel
 
-Gate Observers, Signal Interpreters, agents, clerks, technicians, and maintenance staff preserve contact while Xyan is outside. After his return, they must adjust from studying the Exile to serving under him.
+Gate Observers, Signal Interpreters, specialists, auxiliaries, technicians, and maintenance staff preserve contact while Xyan is outside. After his return, they must adjust from studying the Exile to serving under him.
 
 That change creates necessary discomfort. Their records contain years of observation without rescue.
 
@@ -1040,7 +1040,7 @@ He does not become its king, avatar, or physical extension.
 
 ### Outside Communities
 
-Exiles, frontier families, nomads, outcasts, scavengers, R.D. field agents, and the far uncounted populations live beyond Somnarak's official civic identity.
+Exiles, frontier families, nomads, outcasts, scavengers, R.D. field specialists, and the far uncounted populations live beyond Somnarak's official civic identity.
 
 Xyan's history forces the R.D. to recognize that “outside” is inhabited. Exact personal relationships with each group remain unknown.
 

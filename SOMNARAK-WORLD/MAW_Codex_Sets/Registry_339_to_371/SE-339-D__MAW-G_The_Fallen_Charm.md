@@ -7,7 +7,7 @@
 **Document ID:** `SE-339-D`  
 **Linked Entity:** `SE-339` — Breach  
 **Item Registry Code:** `MAW-G-339-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -36,7 +36,7 @@ The Charm identified a sealed room whose wall held physical force but not the in
 **Document ID:** `SE-339-D`  
 **Linked Entity:** `SE-339`  
 **Item Registry Code:** `MAW-G-339-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

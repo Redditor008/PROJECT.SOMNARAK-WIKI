@@ -63,7 +63,7 @@ As work accumulates, the facility destabilizes:
 ## 5 Phase 4: Shift Evaluation and Checkpoint Repository
 
 Once quota is satisfied and threats are subdued, the shift concludes:
-- **Evaluation Grade:** The Directorate grades the shift (S, A, B, C, F) based on clerk casualties, specialist deaths, and containment breaches.
+- **Evaluation Grade:** The Directorate grades the shift (S, A, B, C, F) based on auxiliary casualties, specialist deaths, and containment breaches.
 - **LOB Award:** High grades grant municipal LOB credits to fund future recruitment and research.
 - **Specialist Promotion:** Operatives who performed successful work earn promotions, unlocking higher ranks (Rank I to Rank V).
 
@@ -73,10 +73,10 @@ Once quota is satisfied and threats are subdued, the shift concludes:
 |---|---|---|
 | **08:00 – 09:00** | Shift Commencement & Roll Call | Gear inspection; initial rookie training works. |
 | **09:00 – 11:30** | Morning Extraction Surge | Routine harvesting; initial 50% quota accumulated. |
-| **11:30 – 12:30** | Midday Meltdown Peak | Meltdown Level III; First Watch (Dawn) Ordeal appears. |
-| **12:30 – 15:00** | Afternoon High-Risk Works | Fragment and Wail containment; Second Watch (Noon). |
-| **15:00 – 16:30** | Late Shift Critical Strain | Meltdown Level VI; Third Watch (Dusk) Ordeals in corridors. |
-| **16:30 – 17:30** | Overcharge & Quota Clearance | Emergency override unlocked; Tide Watch (Midnight) hazard. |
+| **11:30 – 12:30** | Midday Meltdown Peak | Meltdown Level III; First Watch Ordeal appears. |
+| **12:30 – 15:00** | Afternoon High-Risk Works | Fragment and Wail containment; Second Watch. |
+| **15:00 – 16:30** | Late Shift Critical Strain | Meltdown Level VI; Third Watch Ordeals in corridors. |
+| **16:30 – 17:30** | Overcharge & Quota Clearance | Emergency override unlocked; Tide Watch hazard. |
 | **17:30 – 18:00** | Shift Conclusion & Debrief | Lockdown verification; LOB calculation and promotions. |
 
 ## 7 Memory Repository Checkpoint and Rollback Rules

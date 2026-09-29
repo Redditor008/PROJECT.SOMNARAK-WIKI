@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its light is brighter for inherited obligations.
 - It has never gone completely dark.
 
-**Personnel Note:** *"It was waiting. I felt rage. The Lantern did not accuse me; it showed me how much light the debt system required to keep pretending it was fair."* — Agent, Zone C patrol
+**Personnel Note:** *"It was waiting. I felt rage. The Lantern did not accuse me; it showed me how much light the debt system required to keep pretending it was fair."* — Specialist, Zone C patrol
 
 
 

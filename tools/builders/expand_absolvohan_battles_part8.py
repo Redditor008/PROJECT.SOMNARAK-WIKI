@@ -45,7 +45,7 @@ box_spark_hud = make_box("COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SPARK OF
     "POS     : [FIREFLIES]   [PARK]          [SEIYON]               [MAJIN]",
     "DIST    : Fireflies at N02; Park at N03 (Band 1); Seiyon at N05 (Console).",
     "---",
-    "Agent Park          : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Lament Requiem",
+    "Specialist Park          : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Lament Requiem",
     "Secretary Seiyon    : Speed 5 -> 3 AP | HP: 200/200 | SP: +50 | Acoustic Matrix",
     "Floating Fireflies  : Speed 5 -> 3 AP | HP: 300/300 | Sorrow: 30% | Life Shock"
 ])
@@ -80,7 +80,7 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
   * Seiyon deploys *The Acoustic Matrix*, tuning Floor 1's resonance dampers to match the fireflies' gentle 432Hz frequency.
 - **Step 2: Movement & Action Point Spending**:
   * Secretary Seiyon (Speed 5 -> 3 AP) operates from Node 5 (Mid-Field Range Band 3). Spends 2 AP to execute `[Flerehan Acoustic Synchronization]`. Remaining 1 AP in Guard.
-  * Agent Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
+  * Specialist Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
 - **Step 3: Clash Resolution (Harmonic Communion)**:
   * Floating Fireflies declare `[Gentle Life Shockwave]` (Base 9 + 2 Coins = 13 Power).
   * Seiyon's `[Flerehan Acoustic Synchronization]` (Base 11 + 2 Coins = 15 Power).
@@ -112,7 +112,7 @@ box_choir_hud = make_box("COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SLEEPING
     "POS     : [SPIRIT-A][SPIRIT-B]  [SHIN]  [DEKAN]                         [MAJIN]",
     "DIST    : Spirits at N02; Shin at N04 (Band 2); Dekan at N05 (Aegis).",
     "---",
-    "Agent Shin          : Speed 6 -> 3 AP | HP: 135/135 | SP: +45 | Choral Staff",
+    "Specialist Shin          : Speed 6 -> 3 AP | HP: 135/135 | SP: +45 | Choral Staff",
     "Attendant Dekan     : Speed 5 -> 3 AP | HP: 215/215 | SP: +50 | Maw's Aegis",
     "Sleep-Spirits(x2)   : Speed 5 -> 3 AP | HP: 360 each | Trance Pulse"
 ])
@@ -132,7 +132,7 @@ box_choir_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "4. OUTCOME             : ZERO CONFLICT — HISTORIC LULLABY RESOLUTION."
 ])
 
-old_choir = """Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead of clashing, Agent Shin sang the final verse of *Sleep Under the Willow*. The spirits bowed respectfully toward the Maw, dissolving into clear, blessed mineral water without conflict."""
+old_choir = """Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead of clashing, Specialist Shin sang the final verse of *Sleep Under the Willow*. The spirits bowed respectfully toward the Maw, dissolving into clear, blessed mineral water without conflict."""
 
 new_choir = f"""Two sleep-spirits manifest on Floor 2 during the Third Watch Ordeal, radiating a heavy 95dB trance frequency down the gallery!
 
@@ -146,11 +146,11 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
   * Dekan deploys *The Maw's Keep Bastion Ward*, projecting a soft acoustic dampening dome that prevents the trance pulses from escaping into clerk dormitories.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
+  * Specialist Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
   * Attendant Dekan (Speed 5 -> 3 AP) stands at Node 5, spending 2 AP to maintain *Maw's Aegis*.
 - **Step 3: Clash Resolution (Melodic Harmony)**:
   * Sleep-Spirits emit `[Gentle Trance Pulse]` (Base 10 + 2 Coins = 14 Power).
-  * Agent Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
+  * Specialist Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
   * **Resolution**: Shin WINS THE CLASH (16 vs 14).
     * Shin's vocal resonance matches the spirits' ancient cadence perfectly. The discordant trance melts into gentle sorrow, lowering their Sorrow Gauge by 35% and inflicting +28 Stagger!
 
@@ -162,7 +162,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 {box_choir_phase}
 ```
 
-Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead of clashing, Agent Shin sang the final verse of *Sleep Under the Willow*. The spirits bowed respectfully toward the Maw, dissolving into clear, blessed mineral water without conflict."""
+Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead of clashing, Specialist Shin sang the final verse of *Sleep Under the Willow*. The spirits bowed respectfully toward the Maw, dissolving into clear, blessed mineral water without conflict."""
 
 if old_choir in text:
     text = text.replace(old_choir, new_choir)
@@ -178,8 +178,8 @@ box_harmony_hud = make_box("COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (CHORAL
     "POS     : [AVIAN-SHADOW] [HAN]   [SONG]          [THREE-BIRDS]          [DEKAN]",
     "DIST    : Shadow at N02; Han at N03 (Band 1); Song at N04 (Band 2); Birds at N06.",
     "---",
-    "Agent Han           : Speed 6 -> 3 AP | HP: 145/145 | SP: +50 | Feather Mantle",
-    "Agent Song          : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Cherub's Lyre",
+    "Specialist Han           : Speed 6 -> 3 AP | HP: 145/145 | SP: +50 | Feather Mantle",
+    "Specialist Song          : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Cherub's Lyre",
     "Avian Silhouette    : Speed 5 -> 3 AP | HP: 480/480 | Pale Light | Midnight Core"
 ])
 
@@ -198,7 +198,7 @@ box_harmony_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "4. OUTCOME             : HISTORIC MIDNIGHT HARMONY — ZERO CASUALTIES."
 ])
 
-old_harmony = """A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Agents Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy."""
+old_harmony = """A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Specialists Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy."""
 
 new_harmony = f"""A Tide Watch Ordeal manifests as a celestial avian silhouette in the central rotunda of Floor 2, shimmering with pure, transmutative Pale light!
 
@@ -212,12 +212,12 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
   * Dekan opens the rotunda acoustic channels, allowing the harmonic chime of the Three Birds to reverberate across Nodes 1 to 6.
 - **Step 2: Movement & Action Point Spending**:
-  * Agent Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
-  * Agent Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
+  * Specialist Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
+  * Specialist Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
 - **Step 3: Clash Resolution (Avian Harmonic Equilibrium)**:
   * Celestial Avian Silhouette radiates `[Transmutative Pale Dawn Aura]` (Base 11 + 2 Coins = 15 Power).
-  * Agent Han & Agent Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
-  * **Resolution**: The Agents WIN THE CLASH (17 vs 15).
+  * Specialist Han & Specialist Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
+  * **Resolution**: The Specialists WIN THE CLASH (17 vs 15).
     * Their synchronized vocal octave matches the silhouette's vibration, converting the lethal Pale sunder into golden life energy and inflicting +32 Stagger!
 
 ```text
@@ -228,7 +228,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 {box_harmony_phase}
 ```
 
-A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Agents Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy."""
+A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Specialists Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy."""
 
 if old_harmony in text:
     text = text.replace(old_harmony, new_harmony)

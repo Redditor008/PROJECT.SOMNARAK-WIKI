@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its hands stop briefly when a debt is acknowledged.
 - It is most active near Collector visits.
 
-**Personnel Note:** *"It was mourning. I felt weight. The clock was not counting down to punishment; it was counting down to the moment I could no longer pretend the debt was distant."* — Agent, Zone C patrol
+**Personnel Note:** *"It was mourning. I felt weight. The clock was not counting down to punishment; it was counting down to the moment I could no longer pretend the debt was distant."* — Specialist, Zone C patrol
 
 
 

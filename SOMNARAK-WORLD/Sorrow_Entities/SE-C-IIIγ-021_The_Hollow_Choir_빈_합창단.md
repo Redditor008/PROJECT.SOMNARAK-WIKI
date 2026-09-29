@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The Choir is not hostile by default; it demands acknowledgment rather than silence.
 
 **Personnel Note:**
-> *"The Choir sang my mother's name. She died twenty years ago. I never told anyone her name. The Choir knew. The Choir remembers."* — Agent Hanul Grey, Zone C amphitheater patrol
+> *"The Choir sang my mother's name. She died twenty years ago. I never told anyone her name. The Choir knew. The Choir remembers."* — Specialist Hanul Grey, Zone C amphitheater patrol
 
 
 

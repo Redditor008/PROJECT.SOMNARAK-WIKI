@@ -34,7 +34,7 @@ def build_council_md():
     ])
 
     box2 = make_box(71, "KNOWN EXECUTIVE ROSTER - PUBLIC FACES & HISTORICAL ANCHORS", [
-        "Chief of Staff    : Yeong (The Clerk Who Knew Everything)",
+        "Chief of Staff    : Yeong (The Auxiliary Who Knew Everything)",
         "First Head        : Dohee (The Voice of the Veil & Public Face)",
         "Third Head        : Gwanhee (The Eye of the Archive & Memory)",
         "Sector Head A     : Jaehwan (Warden of the Veil, Zone A)",
@@ -77,7 +77,7 @@ This division between the known and the cloaked is not merely an aristocratic va
 
 Only a handful of figures within the Council have their identities confirmed across open civic ledgers. These individuals serve as the living bridges between the hidden council chambers, the Five Institutional Wings, and the civilian populace.
 
-### 3.1 Chief of Staff Yeong (영) — The Clerk Who Knew Everything
+### 3.1 Chief of Staff Yeong (영) — The Auxiliary Who Knew Everything
 - **Civil Designation:** Chief of Staff to the Council Secretariat
 - **Physical Profile:** Mousy brown hair tied in a practical loose knot, tired steel-grey eyes, broad and durable build (~186 cm, 47 years of age), sallow parchment skin. Wears unadorned dark wool robes.
 - **Operational Tenure:** Over forty years of continuous service within the Sigh Palace.

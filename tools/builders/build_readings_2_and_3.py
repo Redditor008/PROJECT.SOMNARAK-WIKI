@@ -2,8 +2,8 @@
 """
 tools/build_receptions_2_and_3.py
 Generates:
-- SOMNARAK-WORLD/Gieok_Jeojangso/Reception_2_Memory_Thief.md
-- SOMNARAK-WORLD/Gieok_Jeojangso/Reception_3_Forgotten_Soldier.md
+- SOMNARAK-WORLD/Gieok_Jeojangso/Reading_2_Memory_Thief.md
+- SOMNARAK-WORLD/Gieok_Jeojangso/Reading_3_Forgotten_Soldier.md
 """
 
 import sys, os
@@ -11,8 +11,8 @@ sys.path.append(os.path.dirname(__file__))
 from box_formatter import make_box
 
 def generate_reception_2():
-    dossier_box = make_box("RECEPTION DOSSIER: THE MEMORY THIEF (FLOOR 02)", [
-        "RECEPTION TARGET   : The Memory Thief",
+    dossier_box = make_box("READING DOSSIER: THE MEMORY THIEF (FLOOR 02)", [
+        "READING TARGET   : The Memory Thief",
         "FLOOR LEVEL        : Floor 02 — Floor of Identity & Reflection",
         "DOMAIN SETTING     : Gallery of Whispering Mirrors (-2,500m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Mirage Assassin Construct",
@@ -29,7 +29,7 @@ def generate_reception_2():
         "3. Shadow Ego Core : 1,600 HP | Posture 280/280 (Central hollow heart)"
     ])
 
-    hud_t01 = make_box("TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 01", [
+    hud_t01 = make_box("TACTICAL STAGE HUD: READING 02 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 02 MIRROR GALLERY (-2,500M)]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL][SEIYON][M-PROJ][CLONE]  [THIEF]  [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -43,7 +43,7 @@ def generate_reception_2():
         "- Node 06: Resonant Mnemonic Lens (Mid-Field Band 3 / Weakpoint Scan)",
         "- Node 07: Weaver Projection Array (Rear Band 4 / Silver Threads)",
         "- Node 08: Identity Dissolution Sump (Suppressed Trauma Well)",
-        "- Node 10: Floor 02 Core Reliquary / Key Page Dais (The Shadow)",
+        "- Node 10: Floor 02 Core Reliquary / Memory Leaf Dais (The Shadow)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -52,7 +52,7 @@ def generate_reception_2():
         "- Facemask    : Spd 3 -> 1 AP | HP 1,100/1,100 | Posture 240/240 [SHIELDED]"
     ])
 
-    hud_t02 = make_box("TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 02", [
+    hud_t02 = make_box("TACTICAL STAGE HUD: READING 02 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — GLASS DAGGERS SHATTERED & VOID STRIKE]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][THIEF]  [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -70,7 +70,7 @@ def generate_reception_2():
         "- Facemask    : Spd 3 -> 1 AP | HP 920/1,100   | Posture 184/240"
     ])
 
-    hud_t03 = make_box("TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 03", [
+    hud_t03 = make_box("TACTICAL STAGE HUD: READING 02 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & FACEMASK SHATTER]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][THIEF]  [LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -86,7 +86,7 @@ def generate_reception_2():
         "- Total Boss  : HP 1,820/3,600 [THRESHOLD BREACHED / TAKES 1.5X DAMAGE]"
     ])
 
-    hud_t04 = make_box("TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 04", [
+    hud_t04 = make_box("TACTICAL STAGE HUD: READING 02 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][THIEF]  [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -102,7 +102,7 @@ def generate_reception_2():
         "- Total Boss  : HP 420/3,600 [BURST DAMAGE 1,400! SECOND THRESHOLD SKIPPED]"
     ])
 
-    hud_t05 = make_box("TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 05", [
+    hud_t05 = make_box("TACTICAL STAGE HUD: READING 02 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — MIRAGE CATACLYSM & THE TRUE REFLECTION]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][THIEF]  [M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -117,22 +117,22 @@ def generate_reception_2():
         "- Total Boss  : HP 420/3,600 [SHADOW REFLECTION CONDENSED INTO DUST]"
     ])
 
-    hud_t06 = make_box("TACTICAL STAGE HUD: RECEPTION 02 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE SHADOW]",
+    hud_t06 = make_box("TACTICAL STAGE HUD: READING 02 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE SHADOW]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                         [SEIYON] [THIEF] [M-PROJ][LENS]  [WEAVER][STAIRS]",
         "                                 [REALIZ]                         [PAGE]          ",
         "---",
         "- Node 05: The Memory Thief (PACIFIED & CRYSTALLIZED TO SMOKY QUARTZ)",
         "- Node 06: Seiyon (Floor Realization 2: 'Identity Is Not Stolen; It Is Lived')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Shadow]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Shadow]",
         "- Node 10: Spiral Iron Staircase (Pathway to Floor 03 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
 
-    return f"""# Reception 2: Floor 02 — The Memory Thief (기억을 훔치는 자)
+    return f"""# Reading 2: Floor 02 — The Memory Thief (기억을 훔치는 자)
 ## The Floor of Identity & Reflection — Deep Strata Sub-Alpha Roots (-2,500m)
 
 ```text
@@ -160,7 +160,7 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
 
 ---
 
-### Reception Combat Gauntlet: Floor 02 (6-Turn Resolution)
+### Reading Combat Gauntlet: Floor 02 (6-Turn Resolution)
 
 ```text
 {hud_t01}
@@ -308,7 +308,7 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
 {hud_t06}
 ```
 
-###### Turn 06 Action Resolution Log (Floor Realization 2 & Key Page: The Shadow)
+###### Turn 06 Action Resolution Log (Floor Realization 2 & Memory Leaf: The Shadow)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/280 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -318,16 +318,16 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
   * The realization resonates within her:
     > *"I was born from someone else's memory. But the choices I made were mine. The loyalty I gave was mine. Identity is not stolen; it is lived."*
   * **FLOOR REALIZATION 2 ACHIEVED!**
-  * The Memory Thief dissolves into a column of cool, dusky silver light, condensing into a dark, polished codex: **`[Key Page: The Shadow]`**!
+  * The Memory Thief dissolves into a column of cool, dusky silver light, condensing into a dark, polished codex: **`[Memory Leaf: The Shadow]`**!
   * Deals **420 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Shadow]` (Grants +15\\% Evasion and strips enemy offensive buffs on clash win).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Shadow]` (Grants +15\\% Evasion and strips enemy offensive buffs on clash win).
   * **Descent Access**: The mirror at the end of the hall dissolves, revealing a heavy iron bulkhead opening to **Floor 03: Floor of Duty & Iron**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP."""
 
 def generate_reception_3():
-    dossier_box = make_box("RECEPTION DOSSIER: THE FORGOTTEN SOLDIER (FLOOR 03)", [
-        "RECEPTION TARGET   : The Forgotten Soldier",
+    dossier_box = make_box("READING DOSSIER: THE FORGOTTEN SOLDIER (FLOOR 03)", [
+        "READING TARGET   : The Forgotten Soldier",
         "FLOOR LEVEL        : Floor 03 — Floor of Duty & Iron",
         "DOMAIN SETTING     : The Iron Fortress Armory (-2,650m Sub-Alpha)",
         "PRIMARY OPPONENT   : Autonomous Clockwork Phalanx Commander",
@@ -344,7 +344,7 @@ def generate_reception_3():
         "3. Rusting Core    : 1,700 HP | Posture 300/300 (Central clockwork heart)"
     ])
 
-    hud_t01 = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 01", [
+    hud_t01 = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 01", [
         "[STAGE NODES 01 TO 10 — FLOOR 03 IRON FORTRESS (-2,650M)]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL][SEIYON][M-PROJ][PHALANX][SOLDIER][LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -358,7 +358,7 @@ def generate_reception_3():
         "- Node 06: Resonant Mnemonic Lens (Mid-Field Band 3 / Armor Seam Scan)",
         "- Node 07: Weaver Projection Array (Rear Band 4 / Silver Threads)",
         "- Node 08: Duty Dissolution Sump (Suppressed Trauma Well)",
-        "- Node 10: Floor 03 Core Reliquary / Key Page Dais (The Guardian)",
+        "- Node 10: Floor 03 Core Reliquary / Memory Leaf Dais (The Guardian)",
         "---",
         "- Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50 | Posture 140/140",
         "- Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40 | Posture 100/100",
@@ -367,7 +367,7 @@ def generate_reception_3():
         "- Tower Aegis : Spd 3 -> 1 AP | HP 1,300/1,300 | Posture 260/260 [FORTIFIED]"
     ])
 
-    hud_t02 = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 02", [
+    hud_t02 = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 02", [
         "[STAGE NODES 01 TO 10 — HALBERD AMPUTATED & SAPPER PISTON]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][SOLDIER][LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -385,7 +385,7 @@ def generate_reception_3():
         "- Tower Aegis : Spd 3 -> 1 AP | HP 1,060/1,300 | Posture 204/260"
     ])
 
-    hud_t03 = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 03", [
+    hud_t03 = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 03", [
         "[STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & SHIELD BREACH]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]         [SEIYON][M-PROJ][SOLDIER][LENS]  [WEAVER][WELL]          [PAGE]  ",
@@ -401,7 +401,7 @@ def generate_reception_3():
         "- Total Boss  : HP 2,030/4,000 [THRESHOLD BREACHED / TAKES 1.5X DAMAGE]"
     ])
 
-    hud_t04 = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 04", [
+    hud_t04 = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 04", [
         "[STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][SOLDIER][M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -417,7 +417,7 @@ def generate_reception_3():
         "- Total Boss  : HP 480/4,000 [BURST DAMAGE 1,550! SECOND THRESHOLD SKIPPED]"
     ])
 
-    hud_t05 = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 05", [
+    hud_t05 = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 05", [
         "[STAGE NODES 01 TO 10 — CLOCKWORK CATACLYSM & THE UNBROKEN LINE]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                 [SEIYON][SOLDIER][M-PROJ][LENS]  [WEAVER][WELL]  [PAGE]  ",
@@ -432,22 +432,22 @@ def generate_reception_3():
         "- Total Boss  : HP 480/4,000 [STEAM COLLAPSED / CHASSIS COOLED TO IRON]"
     ])
 
-    hud_t06 = make_box("TACTICAL STAGE HUD: RECEPTION 03 — BATTLE TURN 06", [
-        "[STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE GUARDIAN]",
+    hud_t06 = make_box("TACTICAL STAGE HUD: READING 03 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — TRANSMUTATION & MEMORY LEAF: THE GUARDIAN]",
         "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
         "[PORTAL]                         [SEIYON] [SOLDIER][M-PROJ][LENS] [WEAVER][STAIRS]",
         "                                 [REALIZ]                         [PAGE]          ",
         "---",
         "- Node 05: The Forgotten Soldier (PACIFIED & RESTING IN DIGNIFIED SILENCE)",
         "- Node 06: Seiyon (Floor Realization 3: 'Duty With Love Is Endurance')",
-        "- Node 07: Mnemonic Core Transmutation -> [Key Page: The Guardian]",
+        "- Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Guardian]",
         "- Node 10: Spiral Basalt Staircase (Pathway to Floor 04 OPEN)",
         "---",
         "- Seiyon Status: Zero Damage | Composure 50/50 SP (Tranquil Awakening)",
-        "- Reception Status: 100% RESOLVED | Key Page Transmuted"
+        "- Reading Status: 100% RESOLVED | Memory Leaf Transmuted"
     ])
 
-    return f"""# Reception 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)
+    return f"""# Reading 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)
 ## The Floor of Duty & Iron — Deep Strata Sub-Alpha Roots (-2,650m)
 
 ```text
@@ -477,7 +477,7 @@ Seiyon stepped forward, deploying a reinforced prismatic tower shield from her g
 
 ---
 
-### Reception Combat Gauntlet: Floor 03 (6-Turn Resolution)
+### Reading Combat Gauntlet: Floor 03 (6-Turn Resolution)
 
 ```text
 {hud_t01}
@@ -625,7 +625,7 @@ Seiyon stepped forward, deploying a reinforced prismatic tower shield from her g
 {hud_t06}
 ```
 
-###### Turn 06 Action Resolution Log (Floor Realization 3 & Key Page: The Guardian)
+###### Turn 06 Action Resolution Log (Floor Realization 3 & Memory Leaf: The Guardian)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/300 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -634,24 +634,24 @@ Seiyon stepped forward, deploying a reinforced prismatic tower shield from her g
   * The roaring steam vents fall completely silent. In the quiet of the iron concourse, Seiyon reflects upon her 1,778 cycles of endless vigilance:
     > *"I thought duty was a cage forged of programming and iron. But duty without love is only rust. Duty with love is the willingness to stand in the dark so another can reach the morning. That is why I endured."*
   * **FLOOR REALIZATION 3 ACHIEVED!**
-  * The Forgotten Soldier bows its head in deep, solemn respect. Its chassis dissolves into dark, polished iron plating that condenses into a heavy steel-bound tome: **`[Key Page: The Guardian]`**!
+  * The Forgotten Soldier bows its head in deep, solemn respect. Its chassis dissolves into dark, polished iron plating that condenses into a heavy steel-bound tome: **`[Memory Leaf: The Guardian]`**!
   * Deals **480 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Guardian]` (Grants +25 Poise and absorbs 100% of damage directed at frontline allies).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Guardian]` (Grants +25 Poise and absorbs 100% of damage directed at frontline allies).
   * **Descent Access**: The iron fortress portcullis raises, revealing a descending spiral staircase of basalt steps leading to **Floor 04: Floor of Unexpressed Grief**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP."""
 
 def main():
-    p2_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reception_2_Memory_Thief.md"
-    p3_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reception_3_Forgotten_Soldier.md"
+    p2_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reading_2_Memory_Thief.md"
+    p3_path = "SOMNARAK-WORLD/Gieok_Jeojangso/Reading_3_Forgotten_Soldier.md"
 
     with open(p2_path, "w", encoding="utf-8") as f:
         f.write(generate_reception_2())
-    print("Generated Reception_2_Memory_Thief.md successfully!")
+    print("Generated Reading_2_Memory_Thief.md successfully!")
 
     with open(p3_path, "w", encoding="utf-8") as f:
         f.write(generate_reception_3())
-    print("Generated Reception_3_Forgotten_Soldier.md successfully!")
+    print("Generated Reading_3_Forgotten_Soldier.md successfully!")
 
 if __name__ == "__main__":
     main()

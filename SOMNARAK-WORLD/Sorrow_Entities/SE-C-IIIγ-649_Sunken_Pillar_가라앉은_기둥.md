@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its empty carvings respond to mourning.
 - Personnel report fear when they see a life that never existed.
 
-**Personnel Note:** *"It was waiting. I felt fear. The Pillar did not show me a ruined town; it showed me the people who had never been born there."* — Agent, Zone D patrol
+**Personnel Note:** *"It was waiting. I felt fear. The Pillar did not show me a ruined town; it showed me the people who had never been born there."* — Specialist, Zone D patrol
 
 
 

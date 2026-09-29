@@ -5,7 +5,7 @@
 **Document ID:** `UNK-248-C`  
 **Linked Entity:** `UNK-248` — The Unconsoled  
 **Item Registry Code:** `MAW-S-UNK-248-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -47,7 +47,7 @@ A blue shroud carrying the texture of old foundation cloth.
 **Document ID:** `UNK-248-C`  
 **Linked Entity:** `UNK-248`  
 **Item Registry Code:** `MAW-S-UNK-248-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

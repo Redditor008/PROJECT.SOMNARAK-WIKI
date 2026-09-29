@@ -21,7 +21,7 @@
 | Type / grade / element | Suit / δ — Critical / Lament — Deep Blue |
 | Status | Future-risk oversight issue |
 | Maximum amount | 2 — Limited |
-| Current bearer | Agent Hanul Grey |
+| Current bearer | Specialist Hanul Grey |
 | Resting form | A deep-blue shroud whose folds continually soften and reset like wax under warm light. |
 | Active form | The cloth gathers possible grief into droplets that evaporate before reaching the floor. |
 | Recognition rule | It stabilizes only after a present-care witness confirms the wearer is responding to evidence, not fear. |
@@ -87,7 +87,7 @@ Grey wore the Shroud after Candela showed a possible loss involving a medical te
 
 The Shroud is the uncertainty boundary of *Compassion Without Prophecy*. Requiem interrupts a loop and Halo signals risk; this suit keeps the set’s care rooted in the living present.
 
-> *“Prepared is not the same as pre-grieved.”* — Agent Iseulfros Kim
+> *“Prepared is not the same as pre-grieved.”* — Specialist Iseulfros Kim
 
 ---
 

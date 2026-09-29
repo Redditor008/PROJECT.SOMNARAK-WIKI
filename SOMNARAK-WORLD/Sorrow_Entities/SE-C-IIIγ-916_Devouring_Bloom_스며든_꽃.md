@@ -434,6 +434,6 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-916
-**Author:** Agent Kkotlom Lee
+**Author:** Specialist Kkotlom Lee
 **Date:** Year 4238
 **Classification:** Restricted

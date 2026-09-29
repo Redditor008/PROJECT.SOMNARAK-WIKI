@@ -7,7 +7,7 @@
 **Document ID:** `SE-369-C`  
 **Linked Entity:** `SE-369` — Susurrus  
 **Item Registry Code:** `MAW-S-369-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -35,7 +35,7 @@ The Susurruss Shroud is a wrapping of blue Han-silk carrying separated syllable 
 **Document ID:** `SE-369-C`  
 **Linked Entity:** `SE-369`  
 **Item Registry Code:** `MAW-S-369-01`  
-**Author:** Agent Iseulfros Kim  
+**Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 

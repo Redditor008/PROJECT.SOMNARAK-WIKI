@@ -7,7 +7,7 @@
 **Document ID:** `SE-316-A`  
 **Related Entity ID:** `SE-316`  
 **SECC Designation:** `N-Iα-316 [D]`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
@@ -36,7 +36,7 @@
 
 Tether binds emotionally but never physically. It is clearest to people waiting for someone, tightens around promises treated as active, and calms when waiting ends honestly. It has no second end and no grip returning from the absence.
 
-> *“Letting go does not mean the promise never mattered.”* — Agent Haneulash Yoon
+> *“Letting go does not mean the promise never mattered.”* — Specialist Haneulash Yoon
 
 ---
 
@@ -104,7 +104,7 @@ An echo forms after Flerehan loosens the rope and the affected person consciousl
 
 **Document ID:** `SE-316-A`  
 **Linked Entity:** `SE-316`  
-**Author:** Agent Haneulash Yoon  
+**Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted
 

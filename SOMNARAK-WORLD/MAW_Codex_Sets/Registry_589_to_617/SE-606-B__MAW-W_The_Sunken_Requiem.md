@@ -7,7 +7,7 @@
 **Document ID:** `SE-606-B`  
 **Linked Entity:** `SE-606` — Banyan  
 **Item Registry Code:** `MAW-W-606-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
@@ -64,14 +64,14 @@ The reflected edge now disappears when consent has ended, even though the physic
 
 Sunken Root locates the hidden emotional source, Sunken Shroud protects chosen privacy, and Requiem opens the imposed seal. In full resonance, any unauthorized witness becomes a channel for Banyan’s roots.
 
-> *“A locked journal and a silenced person are not the same target.”* — Agent Durivel Cho
+> *“A locked journal and a silenced person are not the same target.”* — Specialist Durivel Cho
 
 ---
 
 **Document ID:** `SE-606-B`  
 **Linked Entity:** `SE-606`  
 **Item Registry Code:** `MAW-W-606-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only
 

@@ -8,7 +8,7 @@
 **Linked Entity:** `SE-1007` — Giver of Blessing  
 **Source SECC Designation:** `C-Iβ-071b [LS]`  
 **Item Registry Code:** `MAW-W-1007-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
@@ -50,7 +50,7 @@ Within *Giver of Blessing — Witnessed Form*, The Gentle Hand performs the weap
 **Document ID:** `SE-1007-B`  
 **Linked Entity:** `SE-1007`  
 **Item Registry Code:** `MAW-W-1007-01`  
-**Author:** Agent Durivel Cho  
+**Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified
 
