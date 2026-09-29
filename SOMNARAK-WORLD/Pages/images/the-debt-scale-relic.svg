@@ -1,82 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#07090e"/>
-      <stop offset="50%" stop-color="#0f141d"/>
-      <stop offset="100%" stop-color="#141a24"/>
-    </linearGradient>
-
-    <!-- Industrial Blueprint Grid Pattern -->
-    <pattern id="tech-grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.4"/>
-      <circle cx="24" cy="24" r="0.7" fill="#a855f7" fill-opacity="0.25"/>
-    </pattern>
-
-    <!-- Hazard Stripes Pattern -->
-    <pattern id="hazard" width="12" height="12" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
-      <line x1="0" y1="0" x2="0" y2="12" stroke="#a855f7" stroke-width="2.5" stroke-opacity="0.15"/>
-    </pattern>
-
-    <!-- Header Panel Gradient -->
-    <linearGradient id="panel-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#161f2e"/>
-      <stop offset="100%" stop-color="#101520"/>
+    <radialGradient id="icon-bg" cx="50%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="60%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <linearGradient id="rim-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#7e22ce"/>
     </linearGradient>
   </defs>
 
-  <!-- 1. Background Fill -->
-  <rect width="640" height="360" fill="url(#bg)"/>
+  <!-- Outer Rounded Metallic Medallion -->
+  <rect x="10" y="10" width="236" height="236" rx="40" fill="url(#icon-bg)" stroke="url(#rim-grad)" stroke-width="4.5"/>
+  <rect x="18" y="18" width="220" height="220" rx="32" fill="none" stroke="#334155" stroke-width="1.5"/>
 
-  <!-- 2. Blueprint Grid Overlay -->
-  <rect width="640" height="360" fill="url(#tech-grid)"/>
+  <!-- Inner Aura Ring -->
+  <circle cx="128" cy="116" r="76" fill="none" stroke="#a855f7" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="4,4"/>
 
-  <!-- 3. Outer Frame & Technical Borders -->
-  <rect x="12" y="12" width="616" height="336" rx="6" fill="none" stroke="#252e3d" stroke-width="1.5"/>
-  <rect x="16" y="16" width="608" height="328" rx="4" fill="none" stroke="#a855f7" stroke-opacity="0.25" stroke-width="1"/>
-
-  <!-- Hazard Accent Bands on Sides -->
-  <rect x="18" y="20" width="6" height="320" fill="url(#hazard)"/>
-  <rect x="616" y="20" width="6" height="320" fill="url(#hazard)"/>
-
-  <!-- 4. Top Header Banner -->
-  <rect x="30" y="24" width="580" height="34" rx="4" fill="url(#panel-grad)" stroke="#252e3d" stroke-width="1"/>
-  <circle cx="48" cy="41" r="5" fill="#a855f7"/>
-  <text x="62" y="45" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a855f7" letter-spacing="1.2">PROJECT SOMNARAK // METAPHYSICAL EXTRACTION &amp; RELICS</text>
-  <text x="594" y="45" text-anchor="end" font-family="monospace" font-size="10" fill="#64748b">FACILITY 01 // CORE DEPOSITORY</text>
-
-  <!-- 5. Central Schematic Display Frame -->
-  <rect x="44" y="70" width="552" height="216" rx="6" fill="#0b0e14" fill-opacity="0.8" stroke="#1e293b" stroke-width="1"/>
-
-  <!-- Technical Reticle Corners -->
-  <path d="M 52 86 L 52 78 L 60 78" fill="none" stroke="#a855f7" stroke-width="2"/>
-  <path d="M 588 86 L 588 78 L 580 78" fill="none" stroke="#a855f7" stroke-width="2"/>
-  <path d="M 52 270 L 52 278 L 60 278" fill="none" stroke="#a855f7" stroke-width="2"/>
-  <path d="M 588 270 L 588 278 L 580 278" fill="none" stroke="#a855f7" stroke-width="2"/>
-
-  <!-- Specialized Center Glyph -->
+  <!-- Vector Icon Glyph -->
   
-      <line x1="320" y1="125" x2="320" y2="205" stroke="#a855f7" stroke-width="3"/>
-      <rect x="305" y="205" width="30" height="6" rx="2" fill="#a855f7"/>
-      <line x1="275" y1="140" x2="365" y2="140" stroke="#a855f7" stroke-width="2.5"/>
-      <circle cx="320" cy="140" r="4" fill="#a855f7"/>
+      <!-- Balance Scale -->
+      <line x1="128" y1="65" x2="128" y2="175" stroke="#a855f7" stroke-width="5" stroke-linecap="round"/>
+      <rect x="110" y="172" width="36" height="8" rx="3" fill="#a855f7"/>
+      <!-- Beam -->
+      <line x1="68" y1="88" x2="188" y2="88" stroke="#a855f7" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="128" cy="88" r="6" fill="#ffffff" stroke="#a855f7" stroke-width="2"/>
       <!-- Left Pan -->
-      <line x1="275" y1="140" x2="260" y2="175" stroke="#a855f7" stroke-width="1"/>
-      <line x1="275" y1="140" x2="290" y2="175" stroke="#a855f7" stroke-width="1"/>
-      <path d="M 255 175 Q 275 188 295 175 Z" fill="#a855f7" fill-opacity="0.5" stroke="#a855f7" stroke-width="1.5"/>
+      <line x1="68" y1="88" x2="52" y2="132" stroke="#94a3b8" stroke-width="1.5"/>
+      <line x1="68" y1="88" x2="84" y2="132" stroke="#94a3b8" stroke-width="1.5"/>
+      <path d="M 46 132 Q 68 148 90 132 Z" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="1.5"/>
       <!-- Right Pan -->
-      <line x1="365" y1="140" x2="350" y2="170" stroke="#a855f7" stroke-width="1"/>
-      <line x1="365" y1="140" x2="380" y2="170" stroke="#a855f7" stroke-width="1"/>
-      <path d="M 345 170 Q 365 183 385 170 Z" fill="#a855f7" fill-opacity="0.5" stroke="#a855f7" stroke-width="1.5"/>
+      <line x1="188" y1="88" x2="172" y2="132" stroke="#94a3b8" stroke-width="1.5"/>
+      <line x1="188" y1="88" x2="204" y2="132" stroke="#94a3b8" stroke-width="1.5"/>
+      <path d="M 166 132 Q 188 148 210 132 Z" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="1.5"/>
         
 
-  <!-- Central Title Display -->
-  <text x="320" y="242" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18" font-weight="bold" fill="#f1f5f9" letter-spacing="0.6">The Debt Scale Relic</text>
-  <text x="320" y="265" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8" letter-spacing="1.2">AUTONOMOUS ARCHIVAL TELEMETRY // CYCLE 1,778</text>
-
-  <!-- 6. Bottom Technical Status Bar -->
-  <rect x="30" y="298" width="580" height="26" rx="3" fill="#0f141d" stroke="#1e293b" stroke-width="1"/>
-  <text x="44" y="315" font-family="monospace" font-size="9" fill="#64748b">SEC: OMEGA-CLASS</text>
-  <text x="320" y="315" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#a855f7">YEAR 4,238 // DAWN OF HOPE</text>
-  <text x="596" y="315" text-anchor="end" font-family="monospace" font-size="9" fill="#22c55e">TELEMETRY: SYNCHRONIZED</text>
+  <!-- Bottom Nameplate Badge -->
+  <rect x="28" y="212" width="200" height="24" rx="12" fill="#0b0f17" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="128" y="228" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="10" font-weight="bold" fill="#f8fafc" letter-spacing="0.8">THE DEBT SCALE RELIC</text>
 </svg>

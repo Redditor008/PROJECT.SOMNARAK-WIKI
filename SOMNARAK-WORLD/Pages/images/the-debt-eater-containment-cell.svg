@@ -1,74 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#07090e"/>
-      <stop offset="50%" stop-color="#0f141d"/>
-      <stop offset="100%" stop-color="#141a24"/>
+    <linearGradient id="mat-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="100%" stop-color="#030509"/>
     </linearGradient>
-
-    <!-- Industrial Blueprint Grid Pattern -->
-    <pattern id="tech-grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.4"/>
-      <circle cx="24" cy="24" r="0.7" fill="#a855f7" fill-opacity="0.25"/>
-    </pattern>
-
-    <!-- Hazard Stripes Pattern -->
-    <pattern id="hazard" width="12" height="12" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
-      <line x1="0" y1="0" x2="0" y2="12" stroke="#a855f7" stroke-width="2.5" stroke-opacity="0.15"/>
-    </pattern>
-
-    <!-- Header Panel Gradient -->
-    <linearGradient id="panel-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#161f2e"/>
-      <stop offset="100%" stop-color="#101520"/>
+    <linearGradient id="plaque-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e2738"/>
+      <stop offset="100%" stop-color="#0f1622"/>
     </linearGradient>
   </defs>
 
-  <!-- 1. Background Fill -->
-  <rect width="640" height="360" fill="url(#bg)"/>
+  <!-- 1. Museum Matte Border -->
+  <rect width="800" height="600" fill="url(#mat-grad)"/>
 
-  <!-- 2. Blueprint Grid Overlay -->
-  <rect width="640" height="360" fill="url(#tech-grid)"/>
+  <!-- Outer Filigree Frame -->
+  <rect x="30" y="30" width="740" height="540" fill="none" stroke="#a855f7" stroke-width="2" stroke-opacity="0.7"/>
+  <rect x="36" y="36" width="728" height="528" fill="none" stroke="#334155" stroke-width="1"/>
 
-  <!-- 3. Outer Frame & Technical Borders -->
-  <rect x="12" y="12" width="616" height="336" rx="6" fill="none" stroke="#252e3d" stroke-width="1.5"/>
-  <rect x="16" y="16" width="608" height="328" rx="4" fill="none" stroke="#a855f7" stroke-opacity="0.25" stroke-width="1"/>
+  <!-- Decorative Corner Fleurons -->
+  <path d="M 46 60 L 46 46 L 60 46" fill="none" stroke="#a855f7" stroke-width="2.5"/>
+  <path d="M 754 60 L 754 46 L 740 46" fill="none" stroke="#a855f7" stroke-width="2.5"/>
+  <path d="M 46 540 L 46 554 L 60 554" fill="none" stroke="#a855f7" stroke-width="2.5"/>
+  <path d="M 754 540 L 754 554 L 740 554" fill="none" stroke="#a855f7" stroke-width="2.5"/>
 
-  <!-- Hazard Accent Bands on Sides -->
-  <rect x="18" y="20" width="6" height="320" fill="url(#hazard)"/>
-  <rect x="616" y="20" width="6" height="320" fill="url(#hazard)"/>
-
-  <!-- 4. Top Header Banner -->
-  <rect x="30" y="24" width="580" height="34" rx="4" fill="url(#panel-grad)" stroke="#252e3d" stroke-width="1"/>
-  <circle cx="48" cy="41" r="5" fill="#a855f7"/>
-  <text x="62" y="45" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a855f7" letter-spacing="1.2">PROJECT SOMNARAK // METAPHYSICAL EXTRACTION &amp; RELICS</text>
-  <text x="594" y="45" text-anchor="end" font-family="monospace" font-size="10" fill="#64748b">FACILITY 01 // CORE DEPOSITORY</text>
-
-  <!-- 5. Central Schematic Display Frame -->
-  <rect x="44" y="70" width="552" height="216" rx="6" fill="#0b0e14" fill-opacity="0.8" stroke="#1e293b" stroke-width="1"/>
-
-  <!-- Technical Reticle Corners -->
-  <path d="M 52 86 L 52 78 L 60 78" fill="none" stroke="#a855f7" stroke-width="2"/>
-  <path d="M 588 86 L 588 78 L 580 78" fill="none" stroke="#a855f7" stroke-width="2"/>
-  <path d="M 52 270 L 52 278 L 60 278" fill="none" stroke="#a855f7" stroke-width="2"/>
-  <path d="M 588 270 L 588 278 L 580 278" fill="none" stroke="#a855f7" stroke-width="2"/>
-
-  <!-- Specialized Center Glyph -->
+  <!-- 2. Illustrative Art Canvas -->
   
-      <line x1="285" y1="215" x2="340" y2="125" stroke="#a855f7" stroke-width="3"/>
-      <path d="M 340 125 Q 365 110 375 135 Q 355 145 330 140 Z" fill="#a855f7" fill-opacity="0.7" stroke="#a855f7" stroke-width="1.5"/>
-      <circle cx="320" cy="170" r="35" fill="none" stroke="#a855f7" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="3,3"/>
-      <circle cx="340" cy="125" r="3" fill="#ffffff"/>
+      <!-- The Debt Eater Specimen Scene -->
+      <!-- Subterranean Vault Archways -->
+      <path d="M 120 480 L 120 180 Q 250 80 400 80 Q 550 80 680 180 L 680 480 Z" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+      <ellipse cx="400" cy="450" rx="240" ry="40" fill="#05080e"/>
+      <!-- Glowing Inversion Circle -->
+      <ellipse cx="400" cy="445" rx="190" ry="28" fill="none" stroke="#a855f7" stroke-width="2" stroke-opacity="0.5"/>
+      <!-- Giant Shrouded Specter Silhouette -->
+      <path d="M 330 450 C 320 300, 350 200, 390 150 C 400 135, 410 135, 420 150 C 460 200, 490 300, 480 450 Z" fill="#020408" stroke="#a855f7" stroke-width="1.5"/>
+      <!-- Hood & Glowing Hollow Void -->
+      <path d="M 380 165 Q 405 140 430 165 Q 405 190 380 165 Z" fill="#000000" stroke="#a855f7" stroke-width="1"/>
+      <circle cx="400" cy="165" r="4" fill="#ffffff"/>
+      <!-- Enormous Curved Void Scythe -->
+      <line x1="440" y1="120" x2="350" y2="450" stroke="#475569" stroke-width="5"/>
+      <path d="M 440 120 Q 520 70 560 140 Q 480 130 430 130 Z" fill="#a855f7" stroke="#ffffff" stroke-width="2"/>
+      <!-- Scattered Ledger Pages -->
+      <rect x="260" y="440" width="22" height="14" fill="#cbd5e1" opacity="0.7" transform="rotate(-15 260 440)"/>
+      <rect x="510" y="445" width="24" height="15" fill="#cbd5e1" opacity="0.6" transform="rotate(25 510 445)"/>
+      <rect x="310" y="460" width="20" height="12" fill="#cbd5e1" opacity="0.8" transform="rotate(10 310 460)"/>
         
 
-  <!-- Central Title Display -->
-  <text x="320" y="242" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18" font-weight="bold" fill="#f1f5f9" letter-spacing="0.6">The Debt Eater Containment Cell</text>
-  <text x="320" y="265" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8" letter-spacing="1.2">AUTONOMOUS ARCHIVAL TELEMETRY // CYCLE 1,778</text>
-
-  <!-- 6. Bottom Technical Status Bar -->
-  <rect x="30" y="298" width="580" height="26" rx="3" fill="#0f141d" stroke="#1e293b" stroke-width="1"/>
-  <text x="44" y="315" font-family="monospace" font-size="9" fill="#64748b">SEC: OMEGA-CLASS</text>
-  <text x="320" y="315" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#a855f7">YEAR 4,238 // DAWN OF HOPE</text>
-  <text x="596" y="315" text-anchor="end" font-family="monospace" font-size="9" fill="#22c55e">TELEMETRY: SYNCHRONIZED</text>
+  <!-- 3. Engraved Brass Nameplate Plaque (Bottom Center) -->
+  <rect x="180" y="515" width="440" height="46" rx="4" fill="url(#plaque-grad)" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="400" y="535" text-anchor="middle" font-family="'Cinzel', Georgia, serif" font-size="14" font-weight="bold" fill="#f8fafc" letter-spacing="1">THE DEBT EATER CONTAINMENT CELL</text>
+  <text x="400" y="551" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#a855f7" letter-spacing="1">ARCHIVAL EXHIBITION PLATE ◈ FACILITY 01 MONOLITH</text>
 </svg>
