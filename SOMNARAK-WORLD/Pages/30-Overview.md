@@ -22,12 +22,13 @@ Within the somber halls of Facility 01, humanity does not wage war against monst
 
 - [1 The Municipal Mission of Facility 01](#1-the-municipal-mission-of-facility-01)
 - [2 Containment Chamber Engineering Specifications](#2-containment-chamber-engineering-specifications)
-- [3 The Four Observation Levels and Codex Progression](#3-the-four-observation-levels-and-codex-progression)
-- [4 The Four Protocols in Administrative Practice](#4-the-four-protocols-in-administrative-practice)
-- [5 The Ethical Philosophy of Han Harvesting](#5-the-ethical-philosophy-of-han-harvesting)
-- [6 The Warden's Oath and Command Guidelines](#6-the-wardens-oath-and-command-guidelines)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [3 Departmental Containment Allocation Matrix](#3-departmental-containment-allocation-matrix)
+- [4 The Four Observation Levels and Codex Progression](#4-the-four-observation-levels-and-codex-progression)
+- [5 The Four Protocols in Administrative Practice](#5-the-four-protocols-in-administrative-practice)
+- [6 The Ethical Philosophy of Han Harvesting](#6-the-ethical-philosophy-of-han-harvesting)
+- [7 The Warden's Oath and Command Guidelines](#7-the-wardens-oath-and-command-guidelines)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 The Municipal Mission of Facility 01
 
@@ -44,7 +45,17 @@ Each containment chamber is an engineering marvel designed to isolate metaphysic
 - **Observation Aperture:** One-way polarized lead-glass allowing specialists to execute 👁 **Viderehan** protocols without triggering psychic feedback.
 - **Automated Reclamping Systems:** Robotic ceiling cranes that secure subdued entities after successful combat suppressions.
 
-## 3 The Four Observation Levels and Codex Progression
+## 3 Departmental Containment Allocation Matrix
+
+To prevent catastrophic multi-wing breaches, entities are allocated across vertical strata:
+
+| Facility Layer | Departments Included | Assigned Risk Tiers | Strategic Containment Objective |
+|---|---|---|---|
+| **Upper (Shallow)** | Spires & Central Admin | Whisper (I) & Murmur (II) | Rookie training; reliable energy baseline. |
+| **Middle Layer** | Maw's Keep & Extraction | Fragment (III) & Early Wail (IV) | Heavy gear fabrication; defense testing. |
+| **Lower (Deep)** | Vault, Shadow, Gate Watch | High Wail (IV) & Sovereign (V) | High security quarantine; abyssal defense. |
+
+## 4 The Four Observation Levels and Codex Progression
 
 Interacting with an entity unlocks its archival dossier across four progressive tiers:
 - **Observation Level 1 (Basic Parameters):** Unlocks entity name, SECC code, risk level, damage pressure, and base energy capacity.
@@ -52,7 +63,7 @@ Interacting with an entity unlocks its archival dossier across four progressive 
 - **Observation Level 3 (Work Preference Matrix):** Displays the exact percentage affinity for all four containment protocols across specialist ranks I to V.
 - **Observation Level 4 (M.A.W. Extraction & Story):** Unlocks the ability to fabricate M.A.W. Weapons and Suits, alongside the entity's complete psychological backstory and municipal origin.
 
-## 4 The Four Protocols in Administrative Practice
+## 5 The Four Protocols in Administrative Practice
 
 Every routine interaction requires careful selection of work protocols:
 - 👁 **Viderehan (Observation):** Safe analytical scanning; low risk, steady yield; trains **Clarity**.
@@ -60,18 +71,18 @@ Every routine interaction requires careful selection of work protocols:
 - 💧 **Flerehan (Lamentation):** Emotional resonance; listens to the entity's grief; trains **Composure**.
 - ⚔ **Pugnahan (Confrontation):** Direct disciplinary force; suppresses dangerous impulses; trains **Resolve**.
 
-## 5 The Ethical Philosophy of Han Harvesting
+## 6 The Ethical Philosophy of Han Harvesting
 
 The Directorate's founding creed states: *“To research sorrow is to give it a name.”*
 - Sorrow cannot be destroyed; attempting to eradicate an entity merely causes it to dissolve into the groundwater and reform elsewhere.
 - By providing structured containment and listening to its grief, the facility transforms raw trauma into illumination.
 
-## 6 The Warden's Oath and Command Guidelines
+## 7 The Warden's Oath and Command Guidelines
 
 Upon assuming command of Facility 01, every Warden recites the solemn oath:
 - *“I shall not avert my eyes from the dark; I shall not spend a life without purpose; I shall hold the walls until the dawn arrives.”*
 
-## 7 Gallery
+## 8 Gallery
 
 ![Containment Corridor Overview](https://via.placeholder.com/320x180?text=Containment+Corridor)
 ![Observation Research Console](https://via.placeholder.com/320x180?text=Observation+Console)
@@ -80,9 +91,9 @@ Upon assuming command of Facility 01, every Warden recites the solemn oath:
 *Left: main containment hallway; Center: observation terminal; Right: facility structural wireframe.*
 ---
 
-## 8 See also
+## 9 See also
 
-- [07-Sorrow Entities](07-Sorrow%20Entities.md) — comprehensive master bestiary hub
+- [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary hub incorporating the codex
 - [08-Sorrow List](08-Sorrow%20List.md) — master catalog of all 292 entities
 - [21-Game Mechanics](21-Game%20Mechanics.md) — core simulation and gameplay rules
 - [39-Archival Codex](39-Archival%20Codex.md) — the 18 standard dossier sections

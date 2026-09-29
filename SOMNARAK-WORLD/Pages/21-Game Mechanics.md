@@ -22,12 +22,13 @@ As the Warden of Facility 01, the player oversees a complex management simulatio
 
 - [1 Core Architectural Loop](#1-core-architectural-loop)
 - [2 The Four Containment Protocols](#2-the-four-containment-protocols)
-- [3 Work Success Rate and E-Box Calculation](#3-work-success-rate-and-e-box-calculation)
+- [3 The Complete Work Success Rate Formula](#3-the-complete-work-success-rate-formula)
 - [4 Combat Clashes and Real-Time Suppression](#4-combat-clashes-and-real-time-suppression)
-- [5 Mental Trauma, Fear Levels, and Panic Breakdown](#5-mental-trauma-fear-levels-and-panic-breakdown)
+- [5 Mental Trauma, Fear Levels, and Panic Resolution](#5-mental-trauma-fear-levels-and-panic-resolution)
 - [6 Facility Collapse and Game Over Conditions](#6-facility-collapse-and-game-over-conditions)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [7 Strategic Advice for New Wardens](#7-strategic-advice-for-new-wardens)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 Core Architectural Loop
 
@@ -47,14 +48,16 @@ Interacting with a Sorrow Entity requires selecting one of four canonical work t
 
 *Note: Inanimate Tool Relics utilize the Two-Work-Type Rule and accept only Viderehan and Ferrehan.*
 
-## 3 Work Success Rate and E-Box Calculation
+## 3 The Complete Work Success Rate Formula
 
 When an operative performs work, the success of each individual energy tick is determined by the formula:
 
-`Tick Success Probability = Base Entity Affinity + Specialist Composure Modifier`
+`Tick Success % = Base Affinity + (Specialist Composure × 0.5%) + Mood Bonus - Meltdown Penalty`
 
-- If the roll succeeds, a **Positive Box (Lumen)** is produced (+1 LU).
-- If the roll fails, a **Negative Box (Fracture)** is produced, and the operative suffers damage equal to the entity's attack strength multiplied by the specialist's suit resistance.
+- **Base Affinity:** The entity's inherent preference percentage for that work protocol at the specialist's current rank (e.g. 60%).
+- **Composure Modifier:** Every point of Composure adds +0.5% success probability.
+- **Mood Bonus:** +5% if the entity is in a Docile state; -15% if Agitated.
+- **Meltdown Penalty:** -5% success penalty if working in an overloaded cell.
 
 ### Final Work Outcome Tiers
 At the conclusion of the session, total positive boxes are tallied:
@@ -69,13 +72,13 @@ When an entity breaches containment or an Ordeal appears:
 - **Damage Exchange:** Operatives auto-attack based on weapon range and attack speed.
 - **Pressure Matching:** Equip weapons that match the target's elemental vulnerabilities (e.g., strike 🔴 Grudge-vulnerable entities with Red weapons).
 
-## 5 Mental Trauma, Fear Levels, and Panic Breakdown
+## 5 Mental Trauma, Fear Levels, and Panic Resolution
 
 Specialists possess both physical Health Points (HP) and mental Sanity Points (SP):
 - Taking 🔵 **Lament** or ⚫ **Weight** damage lowers SP.
 - Witnessing higher-rank entities triggers an immediate **Fear Check**, draining SP instantly.
 - If SP reaches 0, the specialist panics into one of four states: **Murder**, **Suicide**, **Wander**, or **Sabotage**.
-- Squadmates can restore a panicked ally's sanity by striking them with 🔵 Lament or ⚪ Void weapons.
+- **Sanity Recovery:** Squadmates can restore a panicked ally's sanity by striking them with 🔵 Lament or ⚪ Void weapons. Once SP refills completely, the specialist returns to normal.
 
 ## 6 Facility Collapse and Game Over Conditions
 
@@ -84,7 +87,13 @@ A shift terminates in immediate Catastrophic Collapse (Game Over) if:
 - A Sovereign entity triggers a core detachment event.
 - The Warden aborts the shift without fulfilling minimum quota requirements.
 
-## 7 Gallery
+## 7 Strategic Advice for New Wardens
+
+- Never dispatch a recruit into a cell with an unknown damage pressure without protective armor.
+- Always station at least two combat-ready specialists in every departmental Main Room.
+- Prioritize clearing ticking cell meltdowns over chasing low-threat First Watch pests.
+
+## 8 Gallery
 
 ![Core HUD Layout](https://via.placeholder.com/320x180?text=Core+Game+HUD)
 ![Containment Dispatch Interface](https://via.placeholder.com/320x180?text=Work+Dispatch+Menu)
@@ -93,7 +102,7 @@ A shift terminates in immediate Catastrophic Collapse (Game Over) if:
 *Left: main facility HUD interface; Center: work selection dispatch menu; Right: corridor combat clash.*
 ---
 
-## 8 See also
+## 9 See also
 
 - [12-Specialists](12-Specialists.md) — specialist stats, attributes, and panic mechanics
 - [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — weapons, suits, and gifts armory

@@ -24,10 +24,11 @@ Entities in Somnarak are not extraterrestrial invaders or biological mutants. Th
 - [2 Mnemonic Wells and Subterranean Dredging](#2-mnemonic-wells-and-subterranean-dredging)
 - [3 Transmutation: The Chemistry of Sorrow and Consciousness](#3-transmutation-the-chemistry-of-sorrow-and-consciousness)
 - [4 Historical Epochs: SED, UCD, and the Directorate](#4-historical-epochs-sed-ucd-and-the-directorate)
-- [5 The Dawn of Hope and Supercritical Resonance](#5-the-dawn-of-hope-and-supercritical-resonance)
-- [6 Archival Doctrine: The Law of Conservation of Grief](#6-archival-doctrine-the-law-of-conservation-of-grief)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [5 Declassified Historical Memorandums](#5-declassified-historical-memorandums)
+- [6 The Dawn of Hope and Supercritical Resonance](#6-the-dawn-of-hope-and-supercritical-resonance)
+- [7 Archival Doctrine: The Law of Conservation of Grief](#7-archival-doctrine-the-law-of-conservation-of-grief)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 The Primordial Source: The Weeping
 
@@ -57,20 +58,28 @@ The mastery over sorrow progressed through three distinct municipal eras:
 2. **Unified Containment Directorate (UCD):** The era of industrial standardization. Development of early containment chambers and prototype M.A.W. weaving.
 3. **Reverie Directorate (Facility 01):** The modern era. Perfected the four containment protocols, installed the nine Echo-Cores, and initiated the 1,778 Mnemonic Cycles.
 
-## 5 The Dawn of Hope and Supercritical Resonance
+## 5 Declassified Historical Memorandums
+
+### SED Internal Memo #04 (Year 3,892)
+> *“The groundwater in Mine 3 turned black this morning. Three pump operators broke their own fingers to stop feeling their skin. We tried boiling the liquid; the steam smelled like burning hair and old letters. We are caging the water in lead drums until the Directorate sends word.”*
+
+### UCD Directive #119 (Year 4,115)
+> *“Iron alone will not hold them. The entities eat physical iron because iron has no memory. We must weave weapons out of their own grief. If a creature was born from fire, strike it with a coat woven from the ashes of its victims.”*
+
+## 6 The Dawn of Hope and Supercritical Resonance
 
 The ultimate purpose of Facility 01 was not indefinite containment, but municipal transcendence:
 - Over 1,778 repeating cycles between Years 4,232 and 4,238, each 365-day shift distilled precisely 0.02 tons of crystalline Han.
 - In Year 4,238, the total accumulated mass became supercritical, igniting the **Absolvohan Engine** and birthing the **Dawn of Hope**  [희망의 여명] .
 
-## 6 Archival Doctrine: The Law of Conservation of Grief
+## 7 Archival Doctrine: The Law of Conservation of Grief
 
 Directorate scientists formalized the fundamental law of emotional thermodynamics:
 - *“Grief cannot be created or destroyed; it can only be given shape, contained, and illuminated.”*
 - Attempting to destroy an entity merely forces it to dissolve back into the groundwater, reforming elsewhere in a more hostile shape.
 - True stability is achieved only through structured observation and disciplined resonance.
 
-## 7 Gallery
+## 8 Gallery
 
 ![The Weeping Subterranean Current](https://via.placeholder.com/320x180?text=The+Weeping+Current)
 ![Mnemonic Well Extraction](https://via.placeholder.com/320x180?text=Mnemonic+Well+Borehole)
@@ -79,7 +88,7 @@ Directorate scientists formalized the fundamental law of emotional thermodynamic
 *Left: artistic depiction of the subterranean Weeping; Center: Mnemonic Well extraction shaft; Right: Dawn of Hope light.*
 ---
 
-## 8 See also
+## 9 See also
 
 - [05-Chronicle](05-Chronicle.md) — master historical chronicle and narrative Cantos
 - [33-Lumen](33-Lumen.md) — the physics and refinement of extracted Han-Energy

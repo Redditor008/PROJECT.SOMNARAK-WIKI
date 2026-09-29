@@ -13,7 +13,7 @@ A single operational day represents a complete shift under the Warden's command,
 | Cycle Architecture     | Four Phased Operational Day (Morning to Night)|
 | Core Phases            | Muster - Containment & Extraction - Meltdowns |
 | Time Loop Anchor       | 1,778 Mnemonic Cycles (Years 4,232 to 4,238)  |
-| Harvest Target         | Daily Lumen Quota & Han Crystal Solidification|
+| Hourly Schedule        | 08:00 Muster -> 12:00 Meltdowns -> 18:00 Evalu|
 | Checkpoint System      | Memory Repository stamped every 5th Day       |
 +========================================================================+
 ```
@@ -25,9 +25,11 @@ A single operational day represents a complete shift under the Warden's command,
 - [3 Phase 2: Routine Containment and Energy Extraction](#3-phase-2-routine-containment-and-energy-extraction)
 - [4 Phase 3: Mugenhan Overload and Ordeal Incursions](#4-phase-3-mugenhan-overload-and-ordeal-incursions)
 - [5 Phase 4: Shift Evaluation and Checkpoint Repository](#5-phase-4-shift-evaluation-and-checkpoint-repository)
-- [6 The 1,778 Mnemonic Cycles of Facility 01](#6-the-1778-mnemonic-cycles-of-facility-01)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [6 Hourly Operational Shift Chronology (08:00 to 18:00)](#6-hourly-operational-shift-chronology-0800-to-1800)
+- [7 Memory Repository Checkpoint and Rollback Rules](#7-memory-repository-checkpoint-and-rollback-rules)
+- [8 The 1,778 Mnemonic Cycles of Facility 01](#8-the-1778-mnemonic-cycles-of-facility-01)
+- [9 Gallery](#9-gallery)
+- [10 See also](#10-see-also)
 
 ## 1 Anatomy of an Operational Shift
 
@@ -64,16 +66,34 @@ Once quota is satisfied and threats are subdued, the shift concludes:
 - **Evaluation Grade:** The Directorate grades the shift (S, A, B, C, F) based on clerk casualties, specialist deaths, and containment breaches.
 - **LOB Award:** High grades grant municipal LOB credits to fund future recruitment and research.
 - **Specialist Promotion:** Operatives who performed successful work earn promotions, unlocking higher ranks (Rank I to Rank V).
-- **Memory Repository Checkpoint:** Every 5th day (Days 1, 6, 11, 16, 21, 26, 31, 36, 41, 46), the facility stamps a hard checkpoint. If an insurmountable crisis occurs later, the Warden can roll back to the repository while retaining unlocked research and equipment.
 
-## 6 The 1,778 Mnemonic Cycles of Facility 01
+## 6 Hourly Operational Shift Chronology (08:00 to 18:00)
+
+| Shift Hour | In-Universe Operational Milestone | Tactical Field Activity |
+|---|---|---|
+| **08:00 – 09:00** | Shift Commencement & Roll Call | Gear inspection; initial rookie training works. |
+| **09:00 – 11:30** | Morning Extraction Surge | Routine harvesting; initial 50% quota accumulated. |
+| **11:30 – 12:30** | Midday Meltdown Peak | Meltdown Level III; First Watch (Dawn) Ordeal appears. |
+| **12:30 – 15:00** | Afternoon High-Risk Works | Fragment and Wail containment; Second Watch (Noon). |
+| **15:00 – 16:30** | Late Shift Critical Strain | Meltdown Level VI; Third Watch (Dusk) Ordeals in corridors. |
+| **16:30 – 17:30** | Overcharge & Quota Clearance | Emergency override unlocked; Tide Watch (Midnight) hazard. |
+| **17:30 – 18:00** | Shift Conclusion & Debrief | Lockdown verification; LOB calculation and promotions. |
+
+## 7 Memory Repository Checkpoint and Rollback Rules
+
+Every 5th day (Days 1, 6, 11, 16, 21, 26, 31, 36, 41, 46), the facility stamps a hard checkpoint:
+- **What is Retained on Rollback:** Unlocked observation logs, completed research upgrades, and unlocked M.A.W. equipment blueprints are permanently preserved.
+- **What is Reset:** Specialist rosters, current day calendar, and equipped gear return to the exact state recorded on the repository day.
+- **Tactical Utility:** Allows Wardens to safely research deadly Sovereign entities, absorb casualties for science, and roll back cleanly with full knowledge.
+
+## 8 The 1,778 Mnemonic Cycles of Facility 01
 
 Beneath the operational shift lies the canonical time loop:
 - Facility 01 operated in a closed temporal loop lasting 1,778 cycles between Years 4,232 and 4,238.
 - Each 365-day cycle distilled 0.02 tons of crystalline Han.
 - At Cycle 1,778, the accumulated crystal mass achieved supercritical resonance, triggering the historic Dawn of Hope.
 
-## 7 Gallery
+## 9 Gallery
 
 ![Deployment Morning Console](https://via.placeholder.com/320x180?text=Morning+Deployment+Console)
 ![Active Shift Containment](https://via.placeholder.com/320x180?text=Active+Containment+Shift)
@@ -82,7 +102,7 @@ Beneath the operational shift lies the canonical time loop:
 *Left: deployment screen; Center: real-time shift floor; Right: end-of-day evaluation screen.*
 ---
 
-## 8 See also
+## 10 See also
 
 - [18-Containment Levels](18-Containment%20Levels.md) — meltdown levels and overload timers
 - [19-Lumen Surge](19-Lumen%20Surge.md) — energy harvesting and overcharging

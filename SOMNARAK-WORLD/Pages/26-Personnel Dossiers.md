@@ -22,12 +22,13 @@ From frontline [Specialists](12-Specialists.md) who confront eldritch sorrow wit
 
 - [1 Personnel Hierarchy and Classification](#1-personnel-hierarchy-and-classification)
 - [2 Specialist Ranks and Attribute Thresholds](#2-specialist-ranks-and-attribute-thresholds)
-- [3 Departmental Captains and Officer Designations](#3-departmental-captains-and-officer-designations)
-- [4 Auxiliaries and Clerk Support Systems](#4-auxiliaries-and-clerk-support-systems)
-- [5 Operative Customization and Lineages](#5-operative-customization-and-lineages)
-- [6 Casualty Protocols and Memorial Archiving](#6-casualty-protocols-and-memorial-archiving)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [3 Attribute Stat Point Progression Matrix](#3-attribute-stat-point-progression-matrix)
+- [4 Departmental Captains and Officer Designations](#4-departmental-captains-and-officer-designations)
+- [5 Auxiliaries and Clerk Support Systems](#5-auxiliaries-and-clerk-support-systems)
+- [6 Operative Customization and Lineages](#6-operative-customization-and-lineages)
+- [7 Casualty Protocols and Memorial Archiving](#7-casualty-protocols-and-memorial-archiving)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 Personnel Hierarchy and Classification
 
@@ -48,41 +49,46 @@ An operative's rank dictates their authority, equipment eligibility, and resista
 | **Rank V** | Master Specialist | 280–330 Points | Tier 5 (100 Max) | Sovereign |
 | **EX-Rank** | Facility Vanguard | 331+ Points (Over-trained) | EX-Tier (120+ Max) | Total Fear Immunity |
 
-Attributes are honed through repetitive containment work:
-- 🤲 **Ferrehan** trains **Resilience** (increases Max HP).
-- 👁 **Viderehan** trains **Clarity** (increases Max SP).
-- 💧 **Flerehan** trains **Composure** (increases Work Success and Speed).
-- ⚔ **Pugnahan** trains **Resolve** (increases Weapon Attack and Corridor Sprint Speed).
+## 3 Attribute Stat Point Progression Matrix
 
-## 3 Departmental Captains and Officer Designations
+Operatives improve their base attributes through repetitive containment work:
+
+| Attribute | Vital Function | Stat Progression Range | Primary Training Protocol |
+|---|---|---|---|
+| **Resilience** | Determines Maximum HP pool | 20 to 100 (120+ EX) | 🤲 **Ferrehan** (Endurance) |
+| **Clarity** | Determines Maximum SP pool | 20 to 100 (120+ EX) | 👁 **Viderehan** (Observation) |
+| **Composure** | Increases Work Success & Speed | 20 to 100 (120+ EX) | 💧 **Flerehan** (Lamentation) |
+| **Resolve** | Increases Attack Speed & Movement | 20 to 100 (120+ EX) | ⚔ **Pugnahan** (Confrontation) |
+
+## 4 Departmental Captains and Officer Designations
 
 When an operative remains stationed within a single department for multiple consecutive shifts, they earn departmental seniority:
-- **Officer Badges:** Awarded after 3 consecutive shifts in one wing.
+- **Officer Badges:** Awarded after 3 consecutive shifts in one wing (+5 Max HP/SP).
 - **Department Captain:** The highest-ranking veteran becomes the floor's Captain, wearing an ornate departmental sash.
 - **Aura Field Buff:** The Captain emits an active aura that grants +10% Movement Speed and +5 HP/SP recovery to all squadmates in the same room.
 
-## 4 Auxiliaries and Clerk Support Systems
+## 5 Auxiliaries and Clerk Support Systems
 
 Though fragile, Auxiliaries play a vital role in facility stability:
 - **Morale Aura:** As long as 100% of a department's clerks are alive, all specialists in that department receive passive stat buffs (+5% Work Success, +5% Movement Speed).
 - **The Panicked Clerk Threat:** If clerk casualties exceed 50%, remaining clerks begin suffering mass panic, wandering hallways and agitating nearby containment units.
 - **Breach Bait:** High-threat Wail and Sovereign entities often prioritize slaughtering clerks, giving combat squads precious seconds to position heavy weapons.
 
-## 5 Operative Customization and Lineages
+## 6 Operative Customization and Lineages
 
 Wardens can customize recruited specialists:
 - **Visual Appearance:** Hairstyle, facial features, uniform tailoring, and eye coloration.
 - **Codename & Lore:** Assigning codenames and memorializing veteran lineages across consecutive cycles.
 - **M.A.W. Gift Stacking:** Operatives can wear up to six distinct gifts across designated anatomical slots (Head, Eye, Face, Neck, Chest, Hand).
 
-## 6 Casualty Protocols and Memorial Archiving
+## 7 Casualty Protocols and Memorial Archiving
 
 Specialist deaths represent heavy financial and tactical losses:
 - Equipped M.A.W. gear is lost and must be re-extracted using harvested Lumen.
 - Fallen operatives are recorded in the facility's **Memorial Ledger**.
 - Over the 1,778 Mnemonic Cycles leading to the Dawn of Hope, tens of thousands of specialists laid down their lives to anchor the facility against the Maw.
 
-## 7 Gallery
+## 8 Gallery
 
 ![Specialist Roster HUD](https://via.placeholder.com/320x180?text=Specialist+Roster+HUD)
 ![Department Captain Sash](https://via.placeholder.com/320x180?text=Captain+Sash+Insignia)
@@ -91,7 +97,7 @@ Specialist deaths represent heavy financial and tactical losses:
 *Left: specialist squad management roster; Center: department captain sash; Right: facility memorial ledger.*
 ---
 
-## 8 See also
+## 9 See also
 
 - [12-Specialists](12-Specialists.md) — comprehensive specialist gameplay mechanics
 - [06-Personnel](06-Personnel.md) — master personnel hub, directors, and cadres

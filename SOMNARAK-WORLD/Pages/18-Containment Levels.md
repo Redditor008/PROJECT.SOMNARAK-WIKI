@@ -21,12 +21,14 @@ Every time a specialist completes a work session with a [Sorrow Entity](07-Sorro
 ## Contents
 
 - [1 The Meltdown Escalation Gauge](#1-the-meltdown-escalation-gauge)
-- [2 Meltdown Levels 1 through 10 Breakdown](#2-meltdown-levels-1-through-10-breakdown)
-- [3 Cell Overload Mechanics and 60-Second Timers](#3-cell-overload-mechanics-and-60-second-timers)
-- [4 Overload Mitigation and Dispatch Prioritization](#4-overload-mitigation-and-dispatch-prioritization)
-- [5 Interaction with Ordeal Incursions](#5-interaction-with-ordeal-incursions)
-- [6 Gallery](#6-gallery)
-- [7 See also](#7-see-also)
+- [2 Work Segments and Gauge Scaling by Facility Size](#2-work-segments-and-gauge-scaling-by-facility-size)
+- [3 Meltdown Levels 1 through 10 Breakdown](#3-meltdown-levels-1-through-10-breakdown)
+- [4 Cell Overload Mechanics and 60-Second Timers](#4-cell-overload-mechanics-and-60-second-timers)
+- [5 Overload Mitigation and Dispatch Prioritization](#5-overload-mitigation-and-dispatch-prioritization)
+- [6 Sacrificial Clearance Under Extreme Duress](#6-sacrificial-clearance-under-extreme-duress)
+- [7 Interaction with Ordeal Incursions](#7-interaction-with-ordeal-incursions)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 The Meltdown Escalation Gauge
 
@@ -35,7 +37,18 @@ The Meltdown Gauge is prominently displayed at the top of the Warden's HUD:
 - **Escalating Pressure:** With each higher meltdown level, the number of simultaneous containment cell overloads increases.
 - **Relic Exemption:** Tool Relics utilizing the Two-Work-Type Rule (such as [28-The Echo Compass](28-The%20Echo%20Compass.md)) do not generate meltdown overloads, though working with them still advances the gauge.
 
-## 2 Meltdown Levels 1 through 10 Breakdown
+## 2 Work Segments and Gauge Scaling by Facility Size
+
+The number of work sessions required to fill a single meltdown level scales with unlocked departments:
+
+| Unlocked Departments | Works per Meltdown Level | Average Level Duration | Tactical Dynamic |
+|---|---|---|---|
+| **1 – 2 Departments (Upper)** | 4 Works | ~3 Minutes | Fast rotation; manageable overloads. |
+| **3 – 5 Departments (Middle)** | 5 Works | ~4 Minutes | Balanced pacing; squad staging required. |
+| **6 – 7 Departments (Deep)** | 6 Works | ~5 Minutes | High strain; multi-floor travel times. |
+| **8 – 9 Departments (Full)** | 7 – 8 Works | ~6 Minutes | Massive scale; 8+ simultaneous cell alarms. |
+
+## 3 Meltdown Levels 1 through 10 Breakdown
 
 | Meltdown Level | Overloaded Cells | Triggered Ordeal Event | Operational Threat Level |
 |---|---|---|---|
@@ -50,29 +63,35 @@ The Meltdown Gauge is prominently displayed at the top of the Warden's HUD:
 | **Level IX** | 9 Cells | Simultaneous Multi-Breaches | Catastrophic; absolute lockdown. |
 | **Level X** | 10+ Cells | Total Resonance Collapse | Terminal; facility-wide cascade breach. |
 
-## 3 Cell Overload Mechanics and 60-Second Timers
+## 4 Cell Overload Mechanics and 60-Second Timers
 
 When a meltdown level triggers, crimson overload glyphs attach to random containment chambers:
 1. **The 60-Second Countdown:** A glowing red timer begins ticking down from 60 seconds above the overloaded cell.
 2. **Required Action:** The Warden must order a specialist into the cell before the timer expires. The moment an operative enters the chamber, the overload is cleared.
 3. **Failure Penalty:** If the timer reaches zero:
-   - A substantial chunk of harvested [Lumen](33-Lumen.md) energy evaporates instantly.
+   - A substantial chunk of harvested [Lumen](33-Lumen.md) energy evaporates instantly (15% to 25% of current pool).
    - The entity's **Mugenhan Escape Counter** is reduced by 1. If reduced to zero, the entity immediately breaches into the hallways.
 
-## 4 Overload Mitigation and Dispatch Prioritization
+## 5 Overload Mitigation and Dispatch Prioritization
 
 Experienced Wardens employ several tactical doctrines to mitigate overload risks:
 - **Clustered Dispatch:** Group specialists near high-risk containment cells prior to triggering the final work session that advances the meltdown gauge.
 - **Work-Type Compatibility:** When clearing an overload on dangerous entities, choose the protocol with the highest success rate to prevent secondary agitation.
-- **Sacrificial Clearance:** If a high-risk entity overloads and no qualified specialist is nearby, dispatching a rookie recruit to reset the timer can save the facility from a full Sovereign breach, even if the rookie perishes inside.
+- **Staging in Hallways:** Station reserve operatives in hallway intersections directly between adjacent departments.
 
-## 5 Interaction with Ordeal Incursions
+## 6 Sacrificial Clearance Under Extreme Duress
+
+When multiple high-risk cells overload simultaneously and qualified veteran specialists are unavailable:
+- **Sacrificial Clearance:** Dispatching an expendable recruit into a Sovereign or Wail chamber resets the 60-second timer instantly upon door ingress.
+- Even if the recruit perishes inside from negative energy ticks, resetting the timer preserves 25% of facility Lumen and prevents a devastating hallway breach.
+
+## 7 Interaction with Ordeal Incursions
 
 Meltdown levels serve as the heralds for Ordeal incursions:
 - Instead of random cell overloads, specific milestone levels (II/IV/VI/VIII) replace or supplement overloads with sudden Ordeal invasions.
 - Wardens must quickly decide whether to dispatch personnel to clear ticking cell timers or concentrate firepower on roaming Ordeal monoliths.
 
-## 6 Gallery
+## 8 Gallery
 
 ![Meltdown Gauge Display](https://via.placeholder.com/320x180?text=Meltdown+Gauge+HUD)
 ![Overloaded Cell Alarm](https://via.placeholder.com/320x180?text=Overloaded+Cell+Glyph)
@@ -81,7 +100,7 @@ Meltdown levels serve as the heralds for Ordeal incursions:
 *Left: meltdown HUD gauge; Center: 60-second overload warning glyph; Right: emergency response dispatch.*
 ---
 
-## 7 See also
+## 9 See also
 
 - [16-Daily Cycle](16-Daily%20Cycle.md) — operational shift architecture and daily phases
 - [10-Ordeals](10-Ordeals.md) — timed incursion events across the four watches

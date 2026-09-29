@@ -25,9 +25,10 @@ To ensure consistency across 292 dossiers, archival researchers follow a rigorou
 - [3 Sections 7 through 12: Tactical Dynamics and Equipment](#3-sections-7-through-12-tactical-dynamics-and-equipment)
 - [4 Sections 13 through 18: Narrative Lore and Archival Records](#4-sections-13-through-18-narrative-lore-and-archival-records)
 - [5 Archival Review and Committee Approval Workflow](#5-archival-review-and-committee-approval-workflow)
-- [6 Archival Verification and Seam Auditing](#6-archival-verification-and-seam-auditing)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [6 Field Documentation Protocols During Breaches](#6-field-documentation-protocols-during-breaches)
+- [7 Archival Verification and Seam Auditing](#7-archival-verification-and-seam-auditing)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 Standard Dossier Anatomy
 
@@ -81,14 +82,21 @@ Before an entity's dossier is finalized in the master library, it passes through
 2. **Insight Forge Appraisal:** Lead Ayshuk verifies behavioral formulas and preference percentages.
 3. **Directorate Curation:** The Central Administration Archival Board stamps the official SECC code and enters the file into the municipal registry.
 
-## 6 Archival Verification and Seam Auditing
+## 6 Field Documentation Protocols During Breaches
+
+Archival researchers embedded with combat squads record live combat telemetry:
+- Attack swing frames and movement velocities are measured via acoustic sensors.
+- Armor mitigation values are verified by telemetry receivers woven into specialist M.A.W. suits.
+- In the event of researcher death, black-box data cubes automatically transmit telemetry to Central Administration.
+
+## 7 Archival Verification and Seam Auditing
 
 All dossiers must satisfy three strict repository checks:
 - **Geometric Symmetry:** 74-character ASCII box border alignment.
 - **Lexical Purity:** Zero foreign intellectual property terms.
 - **Historical Continuity:** Flawless alignment with the Year 4,238 / Cycle 1,778 temporal anchor.
 
-## 7 Gallery
+## 8 Gallery
 
 ![Archival Codex Template](https://via.placeholder.com/320x180?text=Codex+Template)
 ![Dossier Review Terminal](https://via.placeholder.com/320x180?text=Dossier+Review)
@@ -97,7 +105,7 @@ All dossiers must satisfy three strict repository checks:
 *Left: 18-section dossier layout blueprint; Center: archival review workstation; Right: sealed archival ledger vault.*
 ---
 
-## 8 See also
+## 9 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary hub incorporating the codex
 - [38-Classification Code](38-Classification%20Code.md) — SECC nomenclature system
