@@ -1,78 +1,95 @@
 # Help
 
-> *If you are lost, follow the **Veil**.*
+> *“A Warden who does not read the manual will soon become an entry within it.”*
 
-**Help** explains how to read [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] and the Pages wiki.
+**Help**  [편집 및 기여 지침]  (_Pyeonjip mit Giyeo Jichim_) serves as the official contributor manual and technical style guide for the [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] encyclopedia.
 
-Help is the legend for the map. It explains how to read and the Pages wiki that mirrors it, so that a new **Warden** does not mistake a name for a thing.[Sorrow Entities](07-Sorrow%20Entities.md) live under with SECC — Somnarak **Sorrow Entity** — **SECC** (Somnarak **Sorrow Entity** Classification Code) — such as `SE-C-IIIβ-014`, where the first letter is Origin (C City  [도한]  (_Dohan_) **159**, N Inner [내한] **72**, O Outside [외한] **61**), the Roman numeral.
-
-Work-Types are the four ways the House may ethically touch what it keeps. 👁 **Viderehan**  [비데레한]  (_Biderehan_ — to see) tests Observation and Clarity through remote optics; 🤲 **Ferrehan**  [페레한]  (_Perehan_ — to carry) tests Endurance and Resilience through seated vigilance; 💧 **Flerehan**  [플레레한]  (_Pellerehan_) tests Lamentation and Composure through weeping resonance; ⚔ **Pugnahan**  [푸그나한]  (_Pugeunahan_) tests Confrontation and Resolve through clamping and suppression. The Two-Work-Type rule — 100.0 percent compliant across 283 entities.
-
-**M.A.W.** and **Lumen** are the two substances that confuse newcomers because both are called currency. **M.A.W.** **Lumen** is boxed **Han** — the **Weeping** made carryable — measured in **Lumen** Units per watch, stored in the Deep Vault at 40,000 LU with per-floor 5,000 LU buffers and gated by green, amber, and red thresholds; 0.02 tons per R.D. cycle across **1,778** cycles made it supercritical at Cycle **1,778**. Navigation itself is numbered —[01-Main Page](01-Main%20Page.md) as home, [02-Recent Echoes](02-Recent%20Echoes.md) through [26-Personnel Dossiers](26-Personnel%20Dossiers.md) as Navigation, [07-Sorrow Entities](07-Sorrow%20Entities.md#1-overview) through [**42**-Navigation](42-Navigation.md) as Content — and the full index at [**42**-Navigation](42-Navigation.md) is the only place where every link is guaranteed to point to a real dossier or codex, the existence guarantee that makes this wiki more than a list.
-
-The Help legend also explains why **M.A.W.** and **Lumen** share a paragraph without being the same currency, because newcomers treat both as reward. **M.A.W.** **Lumen** is boxed **Han** refined from the **Weeping** via the Abyssal Well and Deep Vault lattice, stored at 40,000 LU primary plus 5,000 LU per floor plus 1,200 LU tertiary, gated green/amber/red, and priced per **Watch** as roughly 8 **Lumen** for a successful 👁 **Viderehan** on a **Whisper** **Place** such as `SE-C-IIIβ-014`, more for higher **Risk**, paid back as Fracture when the **Veil** is held poorly, and made supercritical at Cycle **1,778** when **1,778** cycles at 0.02 tons each fueled the Absolvohan for twelve Hope Bearers to lift transmutation 15%→45% aboard The Lantern. The legend therefore teaches not to maximize either substance but to route both — **M.A.W.** to the Pressures it resists, **Lumen** to the Watches it can keep.
-
-Navigation is numbered `NN-Title` with hyphen-space so that every link on Home — always numbered like `[01-Main Page]` — points to a file whose name is the link, and the full index at [**42**-Navigation](42-Navigation.md) is the only place where every link is guaranteed to point to a real dossier or codex in `SOMNARAK-WORLD`, the existence guarantee that makes this wiki more than a list. The city sorts every sorrow by where **Han** pooled, how loudly it remembers, and what shape it keeps, so that a **Warden** can read the watchlist before dawn without opening a single dossier.
-
-The legend also teaches how to keep the **Veil** without being hollowed. A **Warden** who works outside the Behavior table pays in Fracture, and the table is the only honest place to decide what to do that **Watch**. The House keeps the same filing without cutting, so that a new sorrow is filed as a variant of one of the **292**, not as a 293rd, and the city can hold grief in its hands without being hollowed by any single piece. Navigation itself is numbered so that every link points to a file whose name is the link, and the full index is the only place where every link is guaranteed to point to a real dossier or codex.
-
-The Help page also teaches that the numbered index is the only place where every link is guaranteed to point to a real dossier or codex, so that the House never cuts when an index is unfinished. A **Warden** who works outside the Behavior table pays in Fracture, and the table is the only honest place to decide what to do that **Watch**, and the House keeps the same filing without cutting, so that a new sorrow is filed as a variant of one of the **292**, not as a 293rd, and the city can hold grief in its hands without being hollowed, and the numbered index is the ledger that lets a **Warden** choose, and the city never cuts.
+To maintain worldbuilding immersion, architectural elegance, and mechanical rigor, all articles within this wiki must strictly adhere to the Directorate's editorial standards.
 
 ```text
 +========================================================================+
-| SOMNARAK — HELP                                                        |
+| SOMNARAK - MUNICIPAL WIKI CONTRIBUTOR MANUAL                           |
 +------------------------------------------------------------------------+
-| Archive | SOMNARAK-WORLD / Pages (wiki look)                           |
-| Need | SECC · Work-Type · M.A.W. · Lumen                               |
-| Boxes | 74 columns · romanized boxes only                              |
+| Manual Designation     | Editorial Guidelines & Documentation Standards|
+| Core Principle         | Zero External Canon Terms (Pure Somnarak Lore)|
+| Border Geometry        | Strict 74-Column Border Symmetry (+ and |)    |
+| Hangul Standard        | Zero Hangul inside boxes; Buffer outside boxes|
+| Linter Suite           | Box Symmetry - Semantic Seams - Canon Timeline|
 +========================================================================+
 ```
 
-## How to Read a Dossier [Sorrow Entities](07-Sorrow%20Entities.md) are cataloged under [Sorrow Entities](07-Sorrow%20Entities.md) with SECC (Somnarak **Sorrow Entity** — **SECC** (Somnarak **Sorrow Entity** Classification Code), e.g., `SE-C-IIIβ-014`). The code tells Origin, Coherence, Potency, Number, Element, and Manifestation.
+## Contents
 
-Example `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`: City, **Fragment**, Moderate, 014, ⚪ **Void**, **Place** → Work-Types 👁 **Viderehan**  [비데레한]  (_Biderehan_ — to see) and 🤲 **Ferrehan**  [페레한]  (_Perehan_ — to carry) only.
+- [1 Welcome to the Somnarak Encyclopedia](#1-welcome-to-the-somnarak-encyclopedia)
+- [2 Canonical Terminology and the Zero-PM Rule](#2-canonical-terminology-and-the-zero-pm-rule)
+- [3 Geometric Formatting and 74-Column Box Standards](#3-geometric-formatting-and-74-column-box-standards)
+- [4 Korean Typography and Buffer Rules](#4-korean-typography-and-buffer-rules)
+- [5 Standard Article Structure](#5-standard-article-structure)
+- [6 Automated Linter Verification Suite](#6-automated-linter-verification-suite)
+- [7 Gallery](#7-gallery)
+- [8 See also](#8-see-also)
 
-Work-Types are four:
+## 1 Welcome to the Somnarak Encyclopedia
 
-| **Han** | Aptitude | What it tests |
-| --- | --- | --- |
-| 👁 **Viderehan**  [비데레한]  (_Biderehan_) | Observation, Clarity | Seeing without being seen |
-| 🤲 **Ferrehan**  [페레한]  (_Perehan_) | Endurance, Resilience | Carrying without breaking |
-| 💧 **Flerehan**  [플레레한]  (_Pellerehan_) | Lamentation, Composure | Grieving without drowning |
-| ⚔ **Pugnahan**  [푸그나한]  (_Pugeunahan_) | Confrontation, Resolve | Striking without shattering |
+The Somnarak Wiki is designed as an in-universe municipal archive operated by the Reverie Directorate. Contributors write from the perspective of archival scholars, tactical officers, and field researchers documenting the ongoing containment of sorrow.
 
-Two-Work-Type rule is 100.0% compliant across 283 entities. **Object**, **Place**, **Time**, and **Hazard** use only 👁 **Viderehan** and 🤲 **Ferrehan**.
+## 2 Canonical Terminology and the Zero-PM Rule
 
-## **M.A.W.** and **Lumen**
+All articles must use pure, proprietary Somnarak vocabulary. The use of external intellectual property terms (such as Project Moon terminology) is strictly prohibited across all canonical pages:
+- **Entities:** *Sorrow Entities*, not Abnormalities.
+- **Directors:** *Echo-Cores*, not Sephirah.
+- **Incursions:** *Ordeals*, not Ordeals of the City; categorized by Five Colors (Grey, Red, Violet, Black, Pale) and Four Watches (First/Dawn, Second/Noon, Third/Dusk, Tide/Midnight).
+- **Damage Pressures:** *Grudge* (Red), *Lament* (Blue), *Void* (Pale), and *Weight* (Black).
+- **Energy:** *Lumen Units (LU)* and *Han-Energy*, not Enkephalin or PE-Boxes.
+- **Risk Tiers:** *Whisper*, *Murmur*, *Fragment*, *Wail*, *Sovereign* (never Hebrew letter tiers).
+- **Equipment:** *M.A.W. Equipment* (Mnemonic Armament Weave), not E.G.O.
 
-**M.A.W.** is timeless memory, not workshop craft. It crystallizes from the entity's emotional core as Weapon, Suit, or Gift — spanning Year 0000 through far future beyond Year **4,238**. Total **42** sets, **1,165** profiles, 1,208 files including `MAW_Codex_Sets/Registry_001_to_007/` through `1001_to_1043/`.
+## 3 Geometric Formatting and 74-Column Box Standards
 
-**Lumen** is boxed **Han**, the currency that keeps the **Watch** running (0.02 tons per R.D. cycle, **1,778** cycles → supercritical).
+Every major wiki article begins with an ASCII summary box that must follow exact geometric rules:
+- **Total Border Width:** Exactly 74 characters from left border to right border.
+- **Border Symbols:** Header and footer lines must use `+========================================================================+`. Section dividers must use `+------------------------------------------------------------------------+`. Content rows must start with `| ` and end with `|` at column 74.
+- **Zero Hangul Inside Boxes:** ASCII boxes must contain only ASCII text (English alphanumeric characters and standard punctuation). Korean characters possess double display width and must never be placed inside boxes.
 
-## Navigation
+## 4 Korean Typography and Buffer Rules
 
-All Pages use numbered names like [01-Main Page](01-Main%20Page.md).
+Outside of ASCII boxes, Korean terms may be included for authentic flavor, subject to strict buffer rules:
+- Always format Korean terms with a two-space buffer inside brackets: `  [한글]  `.
+- Follow the Korean term with its official Romaja transcription and English translation: e.g., `  [비탄의 강]  (_Bitan-ui Gang_ — River of Tears)`.
+- Never use HTML break tags `<br>` inside wiki markdown files.
 
-- Home —[01-Main Page](01-Main%20Page.md)
-- Navigation —[02-Recent Echoes](02-Recent%20Echoes.md) through [26-Personnel Dossiers](26-Personnel%20Dossiers.md)
-- Content —[07-Sorrow Entities](07-Sorrow%20Entities.md#1-overview) through [**42**-Navigation](42-Navigation.md)
+## 5 Standard Article Structure
 
-Full index is at [**42**-Navigation](42-Navigation.md).
+To prevent flat, truncated, or stub-like pages, every wiki article should feature:
+1. Title H1 (`# Article Title`)
+2. Atmospheric Quote Banner (`> *“Quote...”*`)
+3. Opening lead paragraph defining the subject
+4. 74-column ASCII Infobox
+5. Table of Contents (`## Contents`)
+6. Numbered H2 and H3 body sections (`## 1 ...`, `### 1.1 ...`)
+7. Concrete data tables, formulas, and operational lists
+8. Image Gallery (`## Gallery`) with placeholder images and captions
+9. Cross-reference section (`## See also`)
 
+## 6 Automated Linter Verification Suite
 
+Before committing any changes to git, contributors must execute the repository's three automated linters:
+1. `python3 tools/check_box_symmetry.py`: Verifies 100% geometric border and character width alignment across all ASCII boxes.
+2. `python3 tools/seam_lint.py`: Scans all files to guarantee 0 foreign vocabulary seams.
+3. `python3 tools/timeline_lint.py`: Audits pan-repo files to ensure historical consistency with the Year 4,238 / Cycle 1,778 temporal anchor.
 
+## 7 Gallery
 
-## Gallery
+![Style Guide Interface](https://via.placeholder.com/320x180?text=Style+Guide+Interface)
+![Linter Terminal Output](https://via.placeholder.com/320x180?text=Linter+Output)
+![Archival Standard Template](https://via.placeholder.com/320x180?text=Archival+Template)
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
-
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+*Left: editorial style guide; Center: automated linter terminal run; Right: standard article layout template.*
 ---
 
-## See also
+## 8 See also
 
--[01-Main Page](01-Main%20Page.md)
--[38-Classification Code](38-Classification%20Code.md)
-- `GOVERNANCE.md`
+- [01-Main Page](01-Main%20Page.md) — Grand Portal hub
+- [38-Classification Code](38-Classification%20Code.md) — entity naming and coding standards
+- [39-Archival Codex](39-Archival%20Codex.md) — the 18 standard dossier sections
+- [42-Navigation](42-Navigation.md) — pan-wiki directory and site map

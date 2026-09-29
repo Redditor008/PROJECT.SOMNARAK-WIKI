@@ -1,72 +1,94 @@
 # Archival Codex
 
-> *“Each entity is a story. To contain them is to hold grief in your hands.”*
+> *“A dossier is not finished when the ink dries; it is finished when the entity can no longer surprise the grave.”*
 
-**Archival Codex** is the standard that binds every dossier into one shape.
+The **Archival Codex**  [기록 보관소 편람]  (_Girok Bogwanso Pyeonram_) establishes the standardized 18-section architectural blueprint used to document every [Sorrow Entity](07-Sorrow%20Entities.md) in Facility 01.
 
-Archival Codex is the standard that binds every dossier into one shape so that the city can hold grief in its hands without being hollowed by any single piece. The standard is **Subject** Template v0.4 — about eighteen sections — whose order is municipal law: SECC, Parameters, Combat, Appearance, Origin, Behavior, Breach, **M.A.W.**, Observation, Story, Final Observation, Flavor, Interactions, Tale, Testimony, Record, Trivia. The order is not aesthetic but analytic:.
-
-Forty-four Master Codices across six wings give the Codex its library. Cosmology (nine codices: PROJECT_SOMNARAK, **Weeping**, Geology, Desolate, Cheongula, **Hand**, **Maw**, **Veil**, Dawn) places grief; Institutional Chronicles (six: Reverie Directorate, Katabagil seven Descents, Katharcheok six Sweeps, Memory Archive seven Receptions, Horizon Caravan six Arcs, Wound Walkers seven Crucibles) narrates how the city learned to keep grief; Systems (eight: Battle System, **M.A.W.** Codex, [Ordeals](10-Ordeals.md) Framework, Workshops, **Lumen** doctrine) prices grief; Society.
-
-To bind is to research, and to research is to be permitted to carry. and (**292** dossiers, **285** SECC, **88** Relic, 12 Unknown, **60**[Ordeals](10-Ordeals.md), **42** **M.A.W. sets** at **1,165** profiles, 44 Codices, 16 research volumes, 9 [Echo-Cores](14-Echo-Cores.md), 16 battle systems) make explicit that a Codex is not unlocked by reading but by Working — Behavior, 🌀 **Mugenhan** threshold, **M.A.W.** appraisal filed per **Watch** until the dossier’s observation is sufficient — and that the reading order encodes (Overview before Genesis before Behavior, Relic, and Code, before **Lumen**, **M.A.W.**, and Tactical, before 🌀 **Mugenhan**, Cantos, and Frontiers) is therefore not a suggestion but a budget that prevents the city’s most common error: learning to fight before learning what can be Worked, an error that the **Ordeal** tables at [**10**-Ordeals](10-Ordeals.md) and **Reverberation** signatures at [11-Reverberations](11-Reverberations.md) exist to price.
-
-The six wings are also six budgets that the House must balance before any **Watch**, and the city keeps them as budgets so that it never cuts like.gg cuts when a paragraph is unfinished. Nine Cosmology (PROJECT_SOMNARAK, **Weeping**, Geology, Desolate, Cheongula, **Hand**, **Maw**, **Veil**, Dawn) place grief as terrain; six Chronicles (Reverie Directorate **1,778** cycles at 0.02t, Katabagil seven Descents −2,000→−7,200, Katharcheok six Sweeps of Five Syndicates, Memory Archive seven Receptions, Horizon Caravan six Arcs to Cheonbulok/Mugeukji, Wound Walkers seven Crucibles) narrate how the city learned to keep grief; eight Systems (Battle System, **M.A.W.** Codex at 735 pieces, [Ordeals](10-Ordeals.md) Framework at sixty, Workshops, **Lumen** doctrine at 40,000 LU primary plus 5,000 LU per floor) price grief; nine Society (daily life, Council, Fixed Ten Primary Companies five Main/five Sub, all else Outsider Factory, Gieok as sanctuary not company) staff grief; six Tales (Entity Codex for **285** codes, Entities index, [Relic Entities](37-Relic%20Entities.md) for eighty-eight at 30.14 percent, Named Fractures) name grief; six Audits audit grief — and the forty-four across six are not decorative but how the House prevents mistaking a planet for a person, as terrain at −2,000→−7,200 and thousand at Year 200 are kept as terrain, not as entity, and Groups (Three Birds, Three Sisters) are kept as schedule, not as lore, so that a **Warden** who learns Archival Codex learns the budget before the story, as `38-Classification Code` encodes and `39` binds, with SOMNARAK-WORLD completing SOMNARAK-WORLD’s stubs with citations, not cuts, and the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new Codex is felt it is filed as a variant of one of the forty-four, not as a forty-fifth, so the forty-four remain forty-four and the watch remains bound without inventing a new Codex to fill a stub.
-
-To bind is to be permitted to carry, and the city keeps that permission because the `.gg` habit of cutting unfinished permission would hide that and (**292** dossiers, **285** SECC, **88** Relic, 12 Unknown, **60**[Ordeals](10-Ordeals.md), **42** **M.A.W. sets** at **1,165** profiles, 44 Codices, 16 volumes, 9 [Echo-Cores](14-Echo-Cores.md), 16 battle systems, 1.29B souls, 0.02t × **1,778** = supercritical at Cycle **1,778**) make explicit that a Codex is not unlocked by reading but by Working — Behavior, 🌀 **Mugenhan** threshold, **M.A.W.** appraisal filed per **Watch** until observation sufficient — and that the reading order encodes (Overview→Genesis→Behavior/Relic/Code→**Lumen**/**M.A.W.**/Tactical→🌀 **Mugenhan**/Cantos/Frontiers) is therefore not a suggestion but a budget that prevents the city’s most common error: learning to fight before learning what can be Worked, an error that the **Ordeal** tables at [**10**-Ordeals](10-Ordeals.md) and **Reverberation** signatures at [11-Reverberations](11-Reverberations.md) exist to price, as documented in (100+ pages) and where SOMNARAK-WORLD is completer, not replacement, and the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new binding is felt it is filed as a variant of one of the eighteen sections (SECC, Parameters, Combat, Appearance, Origin, Behavior, Breach, **M.A.W.**, Observation, Story, Final Observation, Flavor, Interactions, Tale, Testimony, Record, Trivia), not as a new section, so the eighteen remain eighteen and the watch remains bindable without inventing a new template to fill a stub, as audited at 74 columns exact.
+To ensure consistency across 292 dossiers, archival researchers follow a rigorous sequence of sections. This standardized framework guarantees that every contained sorrow is thoroughly mapped from its basic parameters to its deepest narrative origins.
 
 ```text
 +========================================================================+
-| ARCHIVAL CODEX — BOUND RECORDS                                         |
+| SOMNARAK - THE 18 ARCHIVAL CODEX SECTIONS                              |
 +------------------------------------------------------------------------+
-| Standard | Subject Template v0.4 — about 18 sections                   |
-| Authoritative Codex | SOMNARAK_ENTITY_CODEX.md                         |
-| Groups | SOMNARAK_ENTITIES.md                                          |
-| Codices Total | 44 across 6 wings                                      |
+| Archival Standard      | Master 18-Section Dossier Framework           |
+| Section Wings          | Identification - Parameters - Combat - Story  |
+| Observation Levels     | Level 1 (Basic) to Level 4 (M.A.W. & Full Lore|
+| Integrity Audit        | Zero Seams - 74-Col Symmetry - Pan-Repo Sync  |
+| Supervising Body       | Directorate Archival Curation Division        |
 +========================================================================+
 ```
 
-## Standard
+## Contents
 
-Every dossier follows `SOMNARAK_ENTITY_CODEX.md`:
+- [1 Standard Dossier Anatomy](#1-standard-dossier-anatomy)
+- [2 Sections 1 through 6: Operational Baseline](#2-sections-1-through-6-operational-baseline)
+- [3 Sections 7 through 12: Tactical Dynamics and Equipment](#3-sections-7-through-12-tactical-dynamics-and-equipment)
+- [4 Sections 13 through 18: Narrative Lore and Archival Records](#4-sections-13-through-18-narrative-lore-and-archival-records)
+- [5 Archival Verification and Seam Auditing](#5-archival-verification-and-seam-auditing)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
 
-SECC → Parameters → Combat → Appearance → Origin → Behavior → Breach → **M.A.W.** → Observation → Story → Final Observation → Flavor → Interactions → Tale → Testimony → Record → Trivia
+## 1 Standard Dossier Anatomy
 
-## Groups
+Every comprehensive entity dossier is structured into 18 standardized sections:
+1. **SECC Designation:** Official alphanumeric identifier.
+2. **Parameters & Energy:** Maximum Lumen capacity and box thresholds.
+3. **Combat Profile:** Primary attack pressure and damage values.
+4. **Physical Appearance:** Sensory description of form and geometry.
+5. **Origin Strata:** Veiled Tale, Scarred Memory, or Dream Born.
+6. **Containment Behavior:** Docile vs agitated mood shifts.
+7. **Breach Conditions:** Mugenhan counter triggers and escape mechanics.
+8. **M.A.W. Armaments:** Extractable weapons, suits, and gifts.
+9. **Observation Levels:** Progressive unlocks across Levels 1 through 4.
+10. **Canonical Story:** Primary narrative log of the entity.
+11. **Final Observation:** Senior researcher's conclusive containment assessment.
+12. **Flavor Text:** Poetic or atmospheric reflections.
+13. **Interactions:** Resonances with other entities or relics.
+14. **Veiled Tale:** In-depth historical mythos of its birth.
+15. **Witness Testimony:** Firsthand accounts from surviving specialists.
+16. **Archival Record:** Historical incidents and casualty counts.
+17. **Trivia:** Mechanical quirks and design trivia.
+18. **Cross-References:** Links to related entities, wings, and research pages.
 
-Some sorrows are connected. See `SOMNARAK_ENTITIES.md`:
+## 2 Sections 1 through 6: Operational Baseline
 
-- Three Birds of the Forgotten Forest
-- Three Sisters of the Echo Gardens
+These opening sections provide the immediate data required for routine containment:
+- Clear identification of risk tiers (Whisper to Sovereign).
+- Exact energy yield (e.g. 16 LU for Fragment entities).
+- Primary damage pressure (🔴 Grudge, 🔵 Lament, ⚪ Void, or ⚫ Weight).
 
-Groups risk **Sovereign** fusion if breached together and must be stored apart.
+## 3 Sections 7 through 12: Tactical Dynamics and Equipment
 
-## Codices
+These sections govern combat, crisis handling, and resource extraction:
+- Specific conditions that cause the **Mugenhan Escape Counter** to drop.
+- Complete stat tables for extractable M.A.W. Weapons and Suits.
+- Work affinity tables detailing success rates for Viderehan, Ferrehan, Flerehan, and Pugnahan across specialist ranks I to V.
 
-44 Master Codices across 6 wings:
+## 4 Sections 13 through 18: Narrative Lore and Archival Records
 
-| Wing | Focus | Codices |
-| --- | --- | --- |
-| 01 | Cosmology | 9 — **Weeping**, Geology, Cheongula, **Hand** |
-| 02 | Chronicles | 6 — Reverie, Katabagil, Katharcheok, Gieok, Jipyeongseondae |
-| 03 | Systems | 8 — Battle, **M.A.W.**, [Ordeals](10-Ordeals.md), **Lumen** |
-| 04 | Society | 9 — Daily life, Council, Corporations |
-| 05 | Tales | 6 — Entity Codex, Entities, [Relic Entities](37-Relic%20Entities.md) |
-| 06 | Audits | 6 — integrity comparisons |
+The concluding sections preserve the human story behind the grief:
+- Documenting the municipal tragedies or personal bereavements that gave birth to the horror.
+- Archiving specialist logs, psychological debriefs, and commemorative testimonies.
 
+## 5 Archival Verification and Seam Auditing
 
+All dossiers must satisfy three strict repository checks:
+- **Geometric Symmetry:** 74-character ASCII box border alignment.
+- **Lexical Purity:** Zero foreign intellectual property terms.
+- **Historical Continuity:** Flawless alignment with the Year 4,238 / Cycle 1,778 temporal anchor.
 
+## 6 Gallery
 
-## Gallery
+![Archival Codex Template](https://via.placeholder.com/320x180?text=Codex+Template)
+![Dossier Review Terminal](https://via.placeholder.com/320x180?text=Dossier+Review)
+![Sealed Archival Vault](https://via.placeholder.com/320x180?text=Sealed+Vault)
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
-
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+*Left: 18-section dossier layout blueprint; Center: archival review workstation; Right: sealed archival ledger vault.*
 ---
 
-## See also
+## 7 See also
 
--[15-Research](15-Research.md)
--[38-Classification Code](38-Classification%20Code.md)
--[40-Cantos](40-Cantos.md)
+- [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary hub incorporating the codex
+- [38-Classification Code](38-Classification%20Code.md) — SECC nomenclature system
+- [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen dossier embodying the codex structure
+- [04-Help](04-Help.md) — contributor style manual and formatting standards

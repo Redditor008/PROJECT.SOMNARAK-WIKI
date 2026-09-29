@@ -1,73 +1,83 @@
 # Recent Echoes
 
-> *The city records what it cannot forget.*
+> *“The archive does not sleep; every cycle writes a new line in the ledger of sorrow.”*
 
-**Recent Echoes** lists the latest changes to [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] — new dossiers, revised codices, and reverberation reports.
+**Recent Echoes**  [최근 반향 기록]  (_Choegeun Banhyang Girok_) serves as the live municipal bulletin and archival changelog for [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
 
-Recent Echoes is the watchlog where the city records what it cannot forget, and it differs from Chronicle in that it is a timestamped ledger rather than a dated table. Five dossiers most recently touched on disk — `SE-O-IIIγ-916 Allhallow` (Outside, **Fragment**-γ, **Time**, 18,093 bytes), `SE-O-IIIγ-920 Once Upon` (Outside, **Fragment**-γ, **Time**, 17,923 bytes), `SE-O-IIIγ-924 Weighted Silence` (Outside, **Fragment**-γ, **Place**, 18,275 bytes), `SE-O-IIIγ-926 Sky of Borrowed Faces` (Outside, **Fragment**-γ, **Hazard**, 18,765.
-
-How Echoes are recorded is itself a containment practice. An Echo is not a narrative entry but a municipal mark: the filename, the byte size, the timestamp, and the **Floor** that filed it. A dossier under that was touched at Sep 28 Year **4,238** at 18,093 bytes is therefore not merely a story but a transaction — **Lumen** accounted, [Research](15-Research.md) gated, Fracture checked — and the same day’s mirrors the.
-
-The Latest Entries table is therefore a training device as well as a record. Training cadres draw five random rows and ask a specialist to reconstruct, from filename alone, the Origin (City **159**, Inner **72**, Outside **61**), the Coherence Rank (I **Whisper** **46** through V **Sovereign** **10** plus 5 unfixed), the **Pressure** (🔴 **Grudge**, 🔵 **Lament**, ⚪ **Void**, ⚫ **Weight**), and the Work-Type constraint (**Subject** uses all four; **Object**, **Place**, **Time**, **Hazard** use only 👁 **Viderehan** and 🤲 **Ferrehan**). A correct reconstruction proves the specialist can read a code without being read by what the code names, which is the same test [03-Random Dossier](03-Random%20Dossier.md) formalizes for watch drills. The table is thus not a convenience but a rehearsal for the moment a **Warden** must choose, under **Containment** Level pressure, which sorrow the House can afford to Work that **Watch**.
-
-What Recent Echoes does not do is also municipal: it does not tell the city’s history. History lives in the Chronicle as twelve ante-Dawn rows (Year 0 settlement in quiet **Weeping** → Year 200 Cheongula thousand → Year 1,500 first Expedition notice → Year 3,570 portable vein prospect → Year 3,972 Great Rust Severance retrospectively Cycle 1,512 → Year 4,040 Great Collapse at Zone C) and six post-Dawn rows (Dawn Initiative 12 Bearers on The Lantern 15%→45% → Horizon Caravan six Arcs → Memory Archive seven strata → Wound Walkers seven Crucibles → continental reconnection from Year 4,255), while Recent Echoes tells what the House touched yesterday — `SE-O-IIIγ-916 Allhallow` at 18,093 bytes, `920 Once Upon` at 17,923, `924 Weighted Silence` at 18,275, `926 Sky of Borrowed Faces` at 18,765, `011 Scar Walker` at 31,354 — so that a **Warden** can reconstruct who Worked what and when without mistaking a watchlog for a chronology, a confusion that `04-Help` warns against when it teaches SECC, Work-Type, and **M.A.W.** together before any log is read, and that the sixteen battle scenarios under price per **Watch** rather than per entity, keeping Echoes as rehearsal for the moment a choice must be made under **Containment** pressure.
-
-The five Latest Entries are chosen to teach the House’s most common error — cataloging geography as sorrow — by showing how a **Veil** is held, not why it was needed. Each entry lists source wing ( **292**/529, **1,165** profiles, **60**, 44 codices across six wings, 12 strictly after R.D.), calendar Year (always Year, never Cycle except R.D.’s **1,778** cycles between Years 4,232–**4,238**), and **Echo-Core**, so that a later reader can see that the Undercity and Raw are terrain in while `SE-O-Vγ-003 Wilderness Tide` [야생의 파도] is the sole Outside **Sovereign** the city allows to remain tide-like, and that no other macro-geographical feature is filed as an entity. The same filing is maintained in in plain text, where the same five touches appear as dated lines that can be cross-checked against the watchlog’s byte sizes and timestamps, a double-entry that makes Recent Echoes not a convenience but a containment practice where the city proves to itself that a **Veil** held that **Watch**, and where training cadres draw five random rows to ask a specialist to reconstruct Origin (City **159** / Inner **72** / Outside **61**), Rank (I **Whisper** **46** → V **Sovereign** **10** plus five unfixed), **Pressure** (🔴 **Grudge**, 🔵 **Lament**, ⚪ **Void**, ⚫ **Weight**), and Work-Type constraint before any narrative is opened.
+This dispatch records recent operational updates within Facility 01, containment incident logs, personnel commendations, and systemic revisions to the [Sorrow Entities](07-Sorrow%20Entities.md) codex.
 
 ```text
 +========================================================================+
-| SOMNARAK — RECENT ECHOES                                               |
+| SOMNARAK - ARCHIVE RECENT ECHOES & BULLETINS                           |
 +------------------------------------------------------------------------+
-| Source | SOMNARAK-WORLD / Sorrow_Entities                              |
-| Last Cycle | Year 4,238 · Dawn Initiative                              |
-| Watch | All Echo-Cores                                                 |
+| Archive Activity       | Mnemonic Shift Logs & Real-Time Bulletins     |
+| Current Epoch Anchor   | Year 4,238 (Dawn of Hope) - Cycle 1,778       |
+| Facility 01 Status     | Operational Equilibrium - 9 Wings Active      |
+| Latest Patch Directive | M.A.W. Resonance Tuning & Relic Calibrations  |
+| Supervisory Board      | Reverie Directorate Archival Oversight Bureau |
 +========================================================================+
 ```
 
-## Latest Entries
+## Contents
 
-Five dossiers most recently touched on disk (Sep 28, Year **4,238**):
+- [1 Municipal Bulletin and System Status](#1-municipal-bulletin-and-system-status)
+- [2 Chronological Archive Revisions](#2-chronological-archive-revisions)
+- [3 Containment Incident Reports](#3-containment-incident-reports)
+- [4 Personnel Commendations and Memorials](#4-personnel-commendations-and-memorials)
+- [5 Departmental Directives and Warnings](#5-departmental-directives-and-warnings)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
 
-| File | Origin | **Risk** | Type | Size |
-| --- | --- | --- | --- | --- |
-| `SE-O-IIIγ-916_Allhallow_유령의_시간.md` | Outside | **Fragment** γ | **Time** | 18,093 B |
-| `SE-O-IIIγ-920_Once_Upon_이야기의_시간.md` | Outside | **Fragment** γ | **Time** | 17,923 B |
-| `SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md` | Outside | **Fragment** γ | **Place** | 18,275 B |
-| `SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md` | Outside | **Fragment** γ | **Hazard** | 18,765 B |
-| `SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md` | Outside | **Fragment** δ | **Subject** | 31,354 B |
+## 1 Municipal Bulletin and System Status
 
-**Ordeal** watchlogs the same day:
+- **Temporal Anchor:** Year 4,238 / Cycle 1,778.
+- **Facility Integrity:** Nominal at 99.4% resonance cohesion.
+- **Lumen Reserves:** Supercritical battery charged; Absolvohan engine online.
+- **Active Containment Wings:** All nine departmental floors (Spires to Gate Watch) operating at full containment status.
 
-- `Ordeal_BLACK_First_Watch_The_Grinding_Slab.md` — 5,560 B
-- `Ordeal_BLUE_First_Watch_The_Leaking_Eyes.md` — 5,480 B
+## 2 Chronological Archive Revisions
 
-Municipal log `CHANGELOG.md` mirrors these touches in plain text.
+### Cycle 1,778.34 — Comprehensive Bestiary Restructuring
+- Standardized all 292 sorrow entities across the five canonical risk tiers (Whisper to Sovereign).
+- Implemented the strict Two-Work-Type Rule for inanimate Tool Relics (Viderehan and Ferrehan only).
+- Verified mathematical balance of the four elemental pressures across all M.A.W. defensive suits.
 
-## How Echoes Are Recorded
+### Cycle 1,778.21 — Ordeals Master Grid Expansion
+- Calibrated the 5 Colors × 4 Watches master matrix, detailing incursion timing across First Watch (Dawn) to Tide Watch (Midnight).
+- Integrated auditory siren thresholds (First to Fourth Warning Trumpets) for hallway incursion alerts.
 
-Each Echo carries three marks:
+### Cycle 1,778.10 — Departmental Floor Realizations
+- Formalized Core Suppression parameters for all nine Echo-Cores, outlining cognitive handicaps and permanent floor perks.
 
-- **Source wing** — where the change lives: [Sorrow Entities](07-Sorrow%20Entities.md) (**292**/529), **M.A.W. sets** (**42** sets, **1,165** profiles), [Ordeals](10-Ordeals.md) (**60**), and Codices (44)
-- **Year** — always calendar Year, never Cycle, except the **1,778** Mnemonic Cycles of the Reverie Directorate which belong only to Facility 01
-- **Echo-Core** — which **Floor** filed the report
+## 3 Containment Incident Reports
 
-History is kept separately at [05-Chronicle](05-Chronicle.md) and the Chronicle (12-row Ante-Dawn plus 6-row Post-Dawn). Echoes is a watchlog; Chronicle is a dated table.
+- **Incident #441 (Extraction Hall):** Minor Han gas backflow during high-yield refining of `SE-C-IIIβ-014 The Debt Eater`. Contained within 4 minutes with zero specialist casualties; 2 auxiliary clerks treated for mild Lament dizziness.
+- **Incident #449 (Border Watch):** Second Watch (Noon) Violet incursion manifested in Corridor 6B. Lead Mellda deployed Vanguard Squad; Ordeal neutralized with zero breach breaches recorded.
+- **Incident #452 (Deep Vault):** Temporal fluctuation detected around `SE-T-IIβ-002 The Crucible`. Stasis fields reinforced; safe channeling ceiling re-verified at 30 seconds.
 
+## 4 Personnel Commendations and Memorials
 
+- **Senior Specialist Kang:** Awarded Departmental Captain Sash for Floor 6 Border Watch after 12 consecutive shifts without taking health or sanity damage.
+- **Recruit Talia:** Promoted to Rank III Senior Specialist following exemplary Pugnahan containment work with high-threat Fragment entities.
+- **Memorial Roster:** Five auxiliary clerks honored in the facility memorial ledger following emergency containment operations during Cycle 1,777.
 
+## 5 Departmental Directives and Warnings
 
-## Gallery
+- **Director Majin (Spires):** Wardens are reminded to verify weapon and suit loadout affinities before dispatching operatives into unfamiliar cells.
+- **Lead Xyan (Gate Watch):** Increased abyssal seismic activity reported from the lower Maw; all personnel stationed at blast doors must maintain SP above 80 points.
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+## 6 Gallery
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+![Archive Bulletin Terminal](https://via.placeholder.com/320x180?text=Archive+Bulletin+Terminal)
+![Incident Log Visualizer](https://via.placeholder.com/320x180?text=Incident+Log+Visualizer)
+![Captain Commendation Ribbon](https://via.placeholder.com/320x180?text=Commendation+Ribbon)
+
+*Left: municipal bulletin console; Center: containment incident log interface; Right: captain commendation insignia.*
 ---
 
-## See also
+## 7 See also
 
--[01-Main Page](01-Main%20Page.md)
--[05-Chronicle](05-Chronicle.md)
--[07-Sorrow Entities](07-Sorrow%20Entities.md)
--[**10**-Ordeals](10-Ordeals.md)
+- [01-Main Page](01-Main%20Page.md) — Grand Portal and central directory
+- [05-Chronicle](05-Chronicle.md) — master historical chronicle and Cantos
+- [13-Operations](13-Operations.md) — active departmental mission directives
+- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of 292 sorrow entities
