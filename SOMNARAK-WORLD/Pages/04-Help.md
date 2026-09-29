@@ -26,8 +26,9 @@ To maintain worldbuilding immersion, architectural elegance, and mechanical rigo
 - [4 Korean Typography and Buffer Rules](#4-korean-typography-and-buffer-rules)
 - [5 Standard Article Structure](#5-standard-article-structure)
 - [6 Automated Linter Verification Suite](#6-automated-linter-verification-suite)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [7 Editing Best Practices and Quality Checklists](#7-editing-best-practices-and-quality-checklists)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 Welcome to the Somnarak Encyclopedia
 
@@ -36,13 +37,18 @@ The Somnarak Wiki is designed as an in-universe municipal archive operated by th
 ## 2 Canonical Terminology and the Zero-PM Rule
 
 All articles must use pure, proprietary Somnarak vocabulary. The use of external intellectual property terms (such as Project Moon terminology) is strictly prohibited across all canonical pages:
-- **Entities:** *Sorrow Entities*, not Abnormalities.
-- **Directors:** *Echo-Cores*, not Sephirah.
-- **Incursions:** *Ordeals*, not Ordeals of the City; categorized by Five Colors (Grey, Red, Violet, Black, Pale) and Four Watches (First/Dawn, Second/Noon, Third/Dusk, Tide/Midnight).
-- **Damage Pressures:** *Grudge* (Red), *Lament* (Blue), *Void* (Pale), and *Weight* (Black).
-- **Energy:** *Lumen Units (LU)* and *Han-Energy*, not Enkephalin or PE-Boxes.
-- **Risk Tiers:** *Whisper*, *Murmur*, *Fragment*, *Wail*, *Sovereign* (never Hebrew letter tiers).
-- **Equipment:** *M.A.W. Equipment* (Mnemonic Armament Weave), not E.G.O.
+
+| Prohibited External Term | Mandatory Somnarak Canonical Equivalent |
+|---|---|
+| Abnormality / Abnormalities | **Sorrow Entity / Sorrow Entities** |
+| Sephirah / Sephirot | **Echo-Core / Echo-Cores** |
+| E.G.O (Equipment / Suit / Weapon) | **M.A.W. Equipment / M.A.W. Suit / Weapon** |
+| Enkephalin / PE-Boxes | **Lumen / Lumen Units (LU) / Positive Boxes** |
+| NE-Boxes | **Fracture Boxes / Negative Boxes** |
+| ZAYIN / TETH / HE / WAW / ALEPH | **Whisper / Murmur / Fragment / Wail / Sovereign** |
+| Qliphoth Meltdown | **Mugenhan Meltdown / Containment Overload** |
+| Work (Instinct / Insight / Attachment / Repression) | **Viderehan / Ferrehan / Flerehan / Pugnahan** |
+| Red / White / Black / Pale | **Grudge (Red) / Lament (Blue) / Void (Pale) / Weight (Black)** |
 
 ## 3 Geometric Formatting and 74-Column Box Standards
 
@@ -78,7 +84,13 @@ Before committing any changes to git, contributors must execute the repository's
 2. `python3 tools/seam_lint.py`: Scans all files to guarantee 0 foreign vocabulary seams.
 3. `python3 tools/timeline_lint.py`: Audits pan-repo files to ensure historical consistency with the Year 4,238 / Cycle 1,778 temporal anchor.
 
-## 7 Gallery
+## 7 Editing Best Practices and Quality Checklists
+
+- Always verify that internal markdown links point to existing `.md` files.
+- Ensure that articles exceed 1,000 words to provide comprehensive encyclopedic depth.
+- Never duplicate generic filler text; provide authentic lore, concrete stats, and tactical guidance.
+
+## 8 Gallery
 
 ![Style Guide Interface](https://via.placeholder.com/320x180?text=Style+Guide+Interface)
 ![Linter Terminal Output](https://via.placeholder.com/320x180?text=Linter+Output)
@@ -87,7 +99,7 @@ Before committing any changes to git, contributors must execute the repository's
 *Left: editorial style guide; Center: automated linter terminal run; Right: standard article layout template.*
 ---
 
-## 8 See also
+## 9 See also
 
 - [01-Main Page](01-Main%20Page.md) — Grand Portal hub
 - [38-Classification Code](38-Classification%20Code.md) — entity naming and coding standards

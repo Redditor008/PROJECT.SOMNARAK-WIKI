@@ -25,8 +25,9 @@ When a [Sorrow Entity](07-Sorrow%20Entities.md) breaks containment or an [Ordeal
 - [3 Range Profiles and Spatial Hitboxes](#3-range-profiles-and-spatial-hitboxes)
 - [4 Clash Resolution and Damage Stagger](#4-clash-resolution-and-damage-stagger)
 - [5 Advanced Field Maneuvers: Kiting, Stacking, and Rotation](#5-advanced-field-maneuvers-kiting-stacking-and-rotation)
-- [6 Gallery](#6-gallery)
-- [7 See also](#7-see-also)
+- [6 Environmental Hazards: Elevator Traps and Narrow Corridors](#6-environmental-hazards-elevator-traps-and-narrow-corridors)
+- [7 Gallery](#7-gallery)
+- [8 See also](#8-see-also)
 
 ## 1 The Real-Time Tactical Engine Architecture
 
@@ -69,7 +70,13 @@ When an operative and an entity trade blows simultaneously:
 - **Tank Stacking:** Placing a specialist wearing high-resistance armor (e.g. 0.4 multiplier) in front of the squad to absorb frontal cleaves.
 - **Sanity Shield Rotation:** Withdrawing an operative whose SP is low to an adjacent Main Room so the Healing Generator can restore their sanity before panic triggers.
 
-## 6 Gallery
+## 6 Environmental Hazards: Elevator Traps and Narrow Corridors
+
+Corridor geometry dictates suppression outcomes:
+- **Elevator Bottlenecks:** Forcing a wide brute entity into a vertical elevator shaft restricts its horizontal cleave, allowing squadmates above and below to fire safely.
+- **Narrow Corridors:** In confined spaces, splash damage hits all squadmates simultaneously; high-threat entities must be baited into wide Main Rooms before engaging.
+
+## 7 Gallery
 
 ![Tactical Hitbox Diagram](https://via.placeholder.com/320x180?text=Tactical+Hitbox+Diagram)
 ![Elevator Kiting Maneuver](https://via.placeholder.com/320x180?text=Elevator+Kiting)
@@ -78,7 +85,7 @@ When an operative and an entity trade blows simultaneously:
 *Left: weapon hitbox and range radius diagram; Center: tactical elevator kiting; Right: squad clash engagement.*
 ---
 
-## 7 See also
+## 8 See also
 
 - [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — complete weapon armory and stats
 - [17-Pressure Types](17-Pressure%20Types.md) — damage calculations and resistance bands

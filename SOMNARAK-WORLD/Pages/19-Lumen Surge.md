@@ -23,10 +23,12 @@ Energy in the Somnarak world is harvested directly from the psychological resona
 - [1 Nature of Han-Energy and Lumen Units](#1-nature-of-han-energy-and-lumen-units)
 - [2 Extraction Physics: Positive vs Negative Boxes](#2-extraction-physics-positive-vs-negative-boxes)
 - [3 Daily Quota and the Overcharge Protocol](#3-daily-quota-and-the-overcharge-protocol)
-- [4 The Mnemonic Generator and Crystalline Storage](#4-the-mnemonic-generator-and-crystalline-storage)
-- [5 Energy Loss: Meltdowns, Breaches, and Sabotage](#5-energy-loss-meltdowns-breaches-and-sabotage)
-- [6 Gallery](#6-gallery)
-- [7 See also](#7-see-also)
+- [4 Overcharge Economic Efficiency Table](#4-overcharge-economic-efficiency-table)
+- [5 The Mnemonic Generator and Crystalline Storage](#5-the-mnemonic-generator-and-crystalline-storage)
+- [6 Energy Loss: Meltdowns, Breaches, and Sabotage](#6-energy-loss-meltdowns-breaches-and-sabotage)
+- [7 Grid Shortages and Brownout Protocols](#7-grid-shortages-and-brownout-protocols)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 Nature of Han-Energy and Lumen Units
 
@@ -55,21 +57,38 @@ Every operational day assigns a mandatory energy target:
 - **The Overcharge Protocol:** Wardens may elect to continue working beyond 100% quota. Every additional 10% of overcharged Lumen converts into bonus LOB credits at shift evaluation, funding advanced specialist training and equipment fabrication.
 - **The Greed Dilemma:** Overcharging requires performing more work sessions, advancing the [Containment Levels](18-Containment%20Levels.md) gauge and risking devastating late-shift Ordeals.
 
-## 4 The Mnemonic Generator and Crystalline Storage
+## 4 Overcharge Economic Efficiency Table
+
+| Quota Percentage | Energy Yield | Bonus LOB Points | Operational Risk Factor |
+|---|---|---|---|
+| **100% (Baseline)** | Standard Quota | 0 Bonus | Standard shift clearance; minimal risk. |
+| **110% Overcharge** | +10% Lumen | +2 LOB Credits | Minor meltdown gauge advance (+2 works). |
+| **125% Overcharge** | +25% Lumen | +5 LOB Credits | Moderate risk; possible Dusk Ordeal. |
+| **150% Overcharge** | +50% Lumen | +12 LOB Credits | High risk; Tide Watch (Midnight) likely. |
+| **200% Overcharge** | Double Quota | +25 LOB Credits | Extreme crisis; multiple simultaneous meltdowns. |
+
+## 5 The Mnemonic Generator and Crystalline Storage
 
 Surplus energy harvested across operational shifts is routed into the subterranean core:
 - Located beneath the Alpha Tree, the **Mnemonic Generator** crystallizes fluid Lumen into solid Han crystals.
 - Across Facility 01's 1,778 historical cycles, this generator condensed precisely 0.02 tons of crystal per cycle.
 - This cumulative battery eventually achieved the critical threshold necessary to ignite the Dawn of Hope at Year 4,238.
 
-## 5 Energy Loss: Meltdowns, Breaches, and Sabotage
+## 6 Energy Loss: Meltdowns, Breaches, and Sabotage
 
 Energy harvested is not permanently safe until the shift concludes:
 - **Ignored Overloads:** Allowing a cell meltdown timer to expire instantly vaporizes 15% to 25% of the day's accumulated Lumen.
 - **Escaping Entities:** Certain parasitic entities consume stored energy as they roam corridors, physically draining the quota bar.
 - **Sabotage Panic:** A specialist undergoing a Sabotage panic state may tamper with departmental capacitors, discharging harvested energy into the floor.
 
-## 6 Gallery
+## 7 Grid Shortages and Brownout Protocols
+
+If accumulated Lumen falls below 50% during mid-shift operations:
+- Departmental lights enter low-power amber emergency illumination.
+- The Healing Generator's regenerative output drops from 6 HP/SP to 2 HP/SP.
+- Wardens must scramble safe Whisper work sessions to stabilize the energy grid.
+
+## 8 Gallery
 
 ![Lumen Harvesting HUD](https://via.placeholder.com/320x180?text=Lumen+Harvesting+HUD)
 ![Energy Box Extraction](https://via.placeholder.com/320x180?text=Energy+Boxes+Extraction)
@@ -78,7 +97,7 @@ Energy harvested is not permanently safe until the shift concludes:
 *Left: daily quota gauge HUD; Center: positive and negative energy box extraction; Right: subterranean generator core.*
 ---
 
-## 7 See also
+## 9 See also
 
 - [33-Lumen](33-Lumen.md) — deep theoretical dive into Lumen physics
 - [16-Daily Cycle](16-Daily%20Cycle.md) — shift structure and energy quota milestones

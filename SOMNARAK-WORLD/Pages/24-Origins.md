@@ -25,9 +25,10 @@ Within the Reverie Directorate's archival doctrine, sorrow is not homogeneous. A
 - [3 Scarred Memory (Inner Sorrow / 내한)](#3-scarred-memory-inner-sorrow--내한)
 - [4 Dream Born (Outside Sorrow / 외한)](#4-dream-born-outside-sorrow--외한)
 - [5 Work Protocol Affinities by Origin](#5-work-protocol-affinities-by-origin)
-- [6 Departmental Resonance and Placement](#6-departmental-resonance-and-placement)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [6 Facility Floor Resonance and Department Placement](#6-facility-floor-resonance-and-department-placement)
+- [7 Cross-Origin Resonances and Fusion Hazards](#7-cross-origin-resonances-and-fusion-hazards)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 The Tripartite Genesis of Sorrow
 
@@ -62,14 +63,20 @@ All 292 cataloged sorrow entities originate from one of three distinct psycholog
 | **Scarred Memory** | 💧 **Flerehan** (Lamentation) | 🤲 **Ferrehan** (Endurance) | ⚔ **Pugnahan** (Agitates trauma) |
 | **Dream Born** | 🤲 **Ferrehan** (Endurance) | 👁 **Viderehan** (Observation) | 💧 **Flerehan** (Psychic drowning) |
 
-## 6 Departmental Resonance and Placement
+## 6 Facility Floor Resonance and Department Placement
 
 To maintain psychological equilibrium across Facility 01:
 - **Veiled Tales** are housed in Upper Spires and Central Administration where bureaucratic structure keeps their folkloric narratives stable.
 - **Scarred Memories** are assigned to Insight Forge and Maw's Keep for specialized psychological dampening.
 - **Dream Born** horrors are locked deep within the Vault and Gate Watch, isolated behind thick abyssal lead bulkheads.
 
-## 7 Gallery
+## 7 Cross-Origin Resonances and Fusion Hazards
+
+Certain entities originating from the same mythos or trauma pool exhibit dangerous resonance:
+- **The Three-Bird Family:** Housing *Punishing Bird*, *Observing Bird*, and *Long-Armed Bird* in adjacent cells increases their breach frequency by 300%.
+- If all three breach simultaneously, they merge into the apocalyptic Sovereign entity *Apocalypse Bird*.
+
+## 8 Gallery
 
 ![Three Origins Diagram](https://via.placeholder.com/320x180?text=Three+Origins+Diagram)
 ![Veiled Tale Entity](https://via.placeholder.com/320x180?text=Veiled+Tale+Specimen)
@@ -78,7 +85,7 @@ To maintain psychological equilibrium across Facility 01:
 *Left: diagram of the three origin strata; Center: Veiled Tale folkloric entity; Right: Dream Born abstract horror.*
 ---
 
-## 8 See also
+## 9 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary framework
 - [25-Types](25-Types.md) — structural entity taxonomy: Subject, Object, Place, Time

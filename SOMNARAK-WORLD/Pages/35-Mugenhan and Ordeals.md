@@ -20,34 +20,40 @@ Within the world of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOM
 
 ## Contents
 
-- [1 The Mugenhan Planetary Lattice](#1-the-mugenhan-planetary-lattice)
-- [2 Lattice Strain and Incursion Generation](#2-lattice-strain-and-incursion-generation)
+- [1 The Mugenhan Planetary Lattice: 27 Subterranean Strata](#1-the-mugenhan-planetary-lattice-27-subterranean-strata)
+- [2 Lattice Strain Dynamics and Tectonic Accumulation](#2-lattice-strain-dynamics-and-tectonic-accumulation)
 - [3 The Five Color Axes of Ordeals](#3-the-five-color-axes-of-ordeals)
 - [4 The Four Watches and Tactical Timing](#4-the-four-watches-and-tactical-timing)
-- [5 Tactical Suppression Doctrines for Complex Incursions](#5-tactical-suppression-doctrines-for-complex-incursions)
-- [6 Gallery](#6-gallery)
-- [7 See also](#7-see-also)
+- [5 Master 5x4 Ordeals Tactical Response Matrix](#5-master-5x4-ordeals-tactical-response-matrix)
+- [6 Tactical Suppression Doctrines for Complex Incursions](#6-tactical-suppression-doctrines-for-complex-incursions)
+- [7 Gallery](#7-gallery)
+- [8 See also](#8-see-also)
 
-## 1 The Mugenhan Planetary Lattice
+## 1 The Mugenhan Planetary Lattice: 27 Subterranean Strata
 
-The Mugenhan Lattice is the metaphysical tectonic framework underlying the continent:
-- **27 Strata:** Structured into 15 Mundane layers (surface bedrock), 6 Infused layers (Han-saturated strata), and 6 Mortal layers (deep abyssal boundary).
-- **Energy Conduction:** The lattice naturally channels raw grief toward the [Maw](41-Frontiers.md).
-- **Facility Anchor:** Facility 01 acts as a giant acupuncture needle driven into the lattice, harvesting energy while keeping subterranean fractures pinned shut.
+The Mugenhan Lattice represents the metaphysical tectonic framework underlying the continent, cataloged into 27 discrete strata:
 
-## 2 Lattice Strain and Incursion Generation
+| Lattice Tier | Strata Depth | Geological / Metaphysical State | Tectonic Function |
+|---|---|---|---|
+| **Mundane (15 Layers)** | 0m to -1,500m | Dense surface basalt, granite, and coal beds | Structural foundation for surface spires; absorbs minor vibrations. |
+| **Infused (6 Layers)** | -1,500m to -4,500m | Han-saturated shale, liquid crystal veins, weeping aquifers | Conducts emotional currents; primary source of Mnemonic Well dredging. |
+| **Mortal (6 Layers)** | -4,500m to -7,200m | Abyssal bedrock, raw Weeping currents, void fractures | High-density metaphysical pressure; boundary of the deep Maw. |
 
-As specialists perform containment work, the lattice accumulates strain:
-- Every completed work session increases localized tectonic tension.
-- If containment work is neglected or if containment airlocks breach, the lattice buckles.
-- When strain reaches critical thresholds, the lattice discharges excess tension by manifesting **Ordeals** directly inside facility hallways.
+Facility 01 acts as a giant structural anchor driven through these 27 layers, harvesting energy while keeping subterranean tectonic fissures pinned shut.
+
+## 2 Lattice Strain Dynamics and Tectonic Accumulation
+
+As specialists perform routine containment work, the lattice accumulates strain:
+- **Work Strain:** Every completed work session increases localized tectonic tension.
+- **Breach Multiplier:** An active entity breach or unworked meltdown overload causes a violent spike in lattice friction.
+- **Strain Discharge:** When strain exceeds the facility's dampening capacity, the lattice discharges excess energy by manifesting **Ordeals** directly inside corridors.
 
 ## 3 The Five Color Axes of Ordeals
 
 Ordeals embody distinct philosophical and elemental catastrophes:
-- **GREY (🔴 Grudge):** Mechanical contraptions, grinding gears, and automated slaughter units dealing physical kinetic damage.
+- **GREY (🔴 Grudge):** Mechanical automatons, clockwork grinders, and industrial drones dealing physical kinetic damage.
 - **RED (🔴 Grudge / Bleed):** Visceral flesh mutations, swarming vermin, and predatory beasts.
-- **VIOLET (🔵 Lament / ⚪ Void):** Alien obelisks and acoustic monoliths projecting heavy sanity-draining auras.
+- **VIOLET (🔵 Lament / ⚪ Void):** Alien obelisks, acoustic bells, and hovering monoliths projecting heavy sanity-draining auras.
 - **BLACK (⚫ Weight):** Tectonic crushers and gravitational monoliths damaging both HP and SP simultaneously.
 - **PALE (⚪ Void):** Spectral executioners and grim reapers dealing conceptual percentage damage against Maximum HP.
 
@@ -59,13 +65,24 @@ Ordeals manifest according to the facility's shift clock:
 - **Third Watch (Dusk):** Late-shift crisis (Meltdown Level VI–VII); massive multi-segment monsters that split into smaller horrors upon destruction.
 - **Tide Watch (Midnight):** Final existential trial (Meltdown Level VIII+); colossal city-destroying phenomena capable of wiping out entire floors if not countered with full facility mobilization.
 
-## 5 Tactical Suppression Doctrines for Complex Incursions
+## 5 Master 5x4 Ordeals Tactical Response Matrix
+
+| Color Axis | First Watch (Dawn) | Second Watch (Noon) | Third Watch (Dusk) | Tide Watch (Midnight) |
+|---|---|---|---|---|
+| **GREY** | *Doubtful Cog* (Solo Red) | *Clockwork Sentry* (Squad Red) | *Automaton Colossus* (Kiting) | *World Machine* (Floor Focus) |
+| **RED** | *Crawling Grief* (Rapid Slash) | *Devouring Pack* (Choke Trap) | *Crimson Maw* (Shield Rotate) | *Beast of the Abyss* (Vanguard) |
+| **VIOLET** | *Wailing Needle* (Mental Ward) | *Hollow Obelisk* (Melee Swarm) | *Acoustic Shroud* (White Beam) | *Chorus of Emptiness* (Stagger) |
+| **BLACK** | *Heavy Pebble* (Dual Defense) | *Gravity Monolith* (Spread Out) | *Tectonic Crusher* (Dual Ranged) | *The Fallen Spire* (Total Mobilize) |
+| **PALE** | *Faint Phantom* (Void Mantle) | *Pale Reaper* (Void Sniper) | *Threshold Judge* (Scale Invert) | *The Final Sentence* (Absolute) |
+
+## 6 Tactical Suppression Doctrines for Complex Incursions
 
 1. **Preemptive Muster:** Position combat squads in central hallway intersections before triggering the work session that advances the meltdown gauge to an Ordeal threshold.
 2. **Elemental Matching:** Match weapon pressures against Ordeal vulnerabilities (e.g., engage GREY Ordeals with Black/Weight weapons; strike VIOLET monoliths with Red/Grudge arms).
 3. **Clerk Evacuation:** Order non-combat clerks into fortified Main Rooms to prevent mass slaughter and cascading panic breakdowns.
+4. **Relic Synchronization:** Deploy [28-The Echo Compass](28-The%20Echo%20Compass.md) to track stealth incursions, or equip [30-The Debt Scale](30-The%20Debt%20Scale.md) to neutralize PALE executioners.
 
-## 6 Gallery
+## 7 Gallery
 
 ![Mugenhan Lattice Map](https://via.placeholder.com/320x180?text=Mugenhan+Lattice+Map)
 ![Violet Ordeal Monolith](https://via.placeholder.com/320x180?text=Violet+Ordeal+Monolith)
@@ -74,7 +91,7 @@ Ordeals manifest according to the facility's shift clock:
 *Left: geological map of the Mugenhan lattice; Center: Violet Ordeal obelisk; Right: Tide Watch suppression.*
 ---
 
-## 7 See also
+## 8 See also
 
 - [10-Ordeals](10-Ordeals.md) — comprehensive Ordeals hub and 5x4 master grid
 - [18-Containment Levels](18-Containment%20Levels.md) — meltdown levels and overload gauges

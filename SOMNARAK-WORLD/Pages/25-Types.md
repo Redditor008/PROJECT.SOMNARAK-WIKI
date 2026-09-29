@@ -27,9 +27,10 @@ Entities in Somnarak do not share a single physical mold. Depending on how their
   - [3.2 The Three Relic Sub-Types](#32-the-three-relic-sub-types)
 - [4 Place Entities (Spatial Anomalies)](#4-place-entities-spatial-anomalies)
 - [5 Time and Hazard Entities (Abstract Anomalies)](#5-time-and-hazard-entities-abstract-anomalies)
-- [6 Breach Mechanics Across Types](#6-breach-mechanics-across-types)
-- [7 Gallery](#7-gallery)
-- [8 See also](#8-see-also)
+- [6 Master Ontological Comparison Table](#6-master-ontological-comparison-table)
+- [7 Breach Mechanics Across Types](#7-breach-mechanics-across-types)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
 ## 1 Ontological Taxonomy Overview
 
@@ -61,21 +62,30 @@ Tool Relics are further divided into three functional operational modes:
 ## 4 Place Entities (Spatial Anomalies)
 - **Containment Chamber Integration:** The containment cell *becomes* the entity. Stepping across the threshold transitions the operative into a localized pocket dimension (such as an endless train carriage, a flooded cemetery, or an abandoned bell tower).
 - **Work Mechanics:** Works are executed by exploring the pocket dimension. Failure causes the room geometry to collapse, trapping or ejecting the operative.
+- **Containment Doctrine:** Place entities cannot physically leave their chambers; instead, breaches manifest as expanding spatial distortions that swallow adjacent hallways.
 
 ## 5 Time and Hazard Entities (Abstract Anomalies)
 - **Fluid Mechanics:** Entities that distort facility clocks, alter simulation speeds, or manipulate historical timelines.
 - **Hazard Containment:** Requires constant cognitive dampening and periodic stasis pulses to prevent temporal desynchronization.
+- **Unranked Nature:** Five entities in the archive lack fixed numerical ranks because their hazard depends purely on interaction duration.
 
-## 6 Breach Mechanics Across Types
+## 6 Master Ontological Comparison Table
 
-| Entity Type | Escape Condition | Hallway Behavior | Suppression Method |
-|---|---|---|---|
-| **Subject** | Counter reaches 0 | Roams hallways; attacks staff | Direct combat clashes with M.A.W. weapons |
-| **Object (Tool)** | Overused or neglected | Emits facility-wide debuff pulses | Quarantine protocol; reset via Viderehan |
-| **Place** | Structural rupture | Expands into adjacent corridor | Seal corridor bulkheads; execute stasis burn |
-| **Time/Hazard** | Resonance desync | Accelerates meltdown clocks | Calibrate temporal anchors in Deep Vault |
+| Ontological Type | Motility | Permitted Work | Breach Behavior | Extraction Yield |
+|---|---|---|---|---|
+| **Subject** | Active autonomous roaming | All 4 Protocols | Corridors stalking; combat clashes | Weapons, Suits, Gifts |
+| **Object (Tool)** | Inanimate stationary | Viderehan & Ferrehan | Overuse backlash pulse; zero roaming | Facility buffs; auras |
+| **Place** | Structural chamber expansion | Viderehan & Flerehan | Room swallows adjacent hallways | Dimensional relics |
+| **Time/Hazard** | Abstract temporal drift | Viderehan & Ferrehan | Distorts simulation clock / speed | Chronos dampeners |
 
-## 7 Gallery
+## 7 Breach Mechanics Across Types
+
+- **Subject Breaches:** Require mobile combat squads to engage in real-time clashes.
+- **Relic Overuse:** Requires immediate quarantine and 40-second stasis cooling.
+- **Place Ruptures:** Demands sealing corridor bulkheads and deploying chemical stasis foam.
+- **Temporal Desyncs:** Requires recalibrating the deep temporal anchors in Lead Marjuk's Deep Vault.
+
+## 8 Gallery
 
 ![Entity Types Breakdown](https://via.placeholder.com/320x180?text=Entity+Types+Breakdown)
 ![Tool Relic Interaction](https://via.placeholder.com/320x180?text=Tool+Relic+Interaction)
@@ -84,7 +94,7 @@ Tool Relics are further divided into three functional operational modes:
 *Left: comparison of the four structural taxa; Center: specialist channeling tool relic; Right: spatial place chamber.*
 ---
 
-## 8 See also
+## 9 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary framework
 - [24-Origins](24-Origins.md) — psychological genesis: Veiled Tale, Scarred Memory, Dream Born
