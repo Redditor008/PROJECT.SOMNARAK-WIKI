@@ -223,7 +223,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 ### Phase 5: Days 151 to 250 — Deep Siphon & Sovereign Custody
 - **Operational Sectors:** All 8 Floors operating at full capacity. Deep sub-vault conduits active.
 - **Daily Quota Range:** 5.000 metric tons scaling to 20.000 metric tons.
-- **Entity Threat Pool:** Containment of Class IV Genesis / Sovereign Entities (*The Primordial Siphon*, *YIN & YANG Sovereign*, *The Grieving Colossus*).
+- **Entity Threat Pool:** Containment of Class IV Genesis / Sovereign Entities (*The Primordial Siphon*, *Stormscale Sovereign*, *The Grieving Colossus*).
 - **Systemic Accelerations:** Meltdown Levels VII through IX. Timer durations decrease to 30–45 seconds. Multiple simultaneous chamber meltdowns per alert.
 - **Desolate Tectonic Dynamics:** External salt-storms and tectonic shifts from the Desolate breach outer ventilation ducts, triggering environmental containment hazards.
 

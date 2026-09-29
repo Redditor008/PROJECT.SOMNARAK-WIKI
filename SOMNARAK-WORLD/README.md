@@ -84,7 +84,7 @@ SOMNARAK-WORLD/
 │
 ├── Gieok_Jeojangso/                    # The Memory Archive Seven Strata Readings
 │   ├── README.md                       # Post-Dawn strata realizations and combat encounters
-│   └── Reading_1_First_Keeper.md through Reading_7_Silent_Curator.md
+│   └── Reading_1_First_Keeper.md through Reading_7_The_Original.md
 │
 ├── Jipyeongseondae/                    # The Horizon Caravan Six Trans-Desolate Expedition Arcs
 │   ├── README.md                       # Post-Dawn overland exploration across The Desolate
