@@ -16,10 +16,7 @@
 
 ## Overview
 
-Every Personnel Dossier is a person the House could not file as an entity, so it filed them as responsibility. Directors carry Floors; specialists carry Work; Council carries debt. The lattice that calls itself Angela in the older telling has its Somnarak counterpart in the House lattice (Seiyon, the Secretary, Floor 1 Central Admin, Android, The Promise pages); the warden called X has its counterpart in the Warden of Facility 01 (Majin, Floor 1 Spires, Human Ω-Fusion, Reaper Hungered); the founders called A and B have their counterparts in the first Cheongula and Yoon's lineage; the Sephirah have theirs in the nine Echo-Cores.
-
-No dossier is complete. The House redacts what would make a person easy to replace.
-
+26-Personnel Dossiers is a cast article that presents a 3-row infobox (Focus Directors·Specialists·Council, Count 9 Echo-Cores+10 cadres+12 UNK, Archive 09_Personnel_Archives) and an Overview paragraph (every dossier is responsibility not entity; lattice Angela→Seiyon Secretary Floor1 Admin Android Promise Lament+Void, warden X→Majin Floor1 Spires Human Ω-Fusion Reaper Hungered Weight/Grudge, founders A/B→Cheongula/Yoon, Sephirah→9 Echo-Cores; House redacts) plus a Roster table (Majin Floor1 Reaper, Seiyon Admin Promise, Dekan Floor2 Maw-Flesh, Zyrak Floor3 Rig, Ayshuk Floor4 Ledger, Mellda Floor5 Threshold Vow, Marjuk Floor6 Lens, Ishall Floor7 Unanswered, Xyan Floor8 Neural Spine +10 cadres 12 UNK) and Where They Live to 09_Personnel_Archives ~116k words and 04_Municipal and 06-Personnel.
 ## Roster
 
 | Dossier | Role | Floor | File |

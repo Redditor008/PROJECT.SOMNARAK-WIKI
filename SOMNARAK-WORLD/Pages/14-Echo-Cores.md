@@ -16,10 +16,7 @@
 
 ## Overview
 
-Each Core holds a Floor, an armband, and a Watch. The armband is not decoration; it is the Veil made wearable. When the Veil thins, the armband strains, and the Floor's Reverberation begins.
-
-The nine are not Sephirah, but they occupy the same municipal position: they translate the city's grief into assignable Work. Their character shapes their Missions and their Research. The nine dossiers total ~116,000 words.
-
+14-Echo-Cores is a directorate article that presents a 3-row infobox (Floors 1–8 +Central, Count 9 Cores ~116k words, Archive Echo_Cores 9 dossiers) and an Overview paragraph (armband = wearable Veil, 9 translate grief to Work) plus a Roster table (Majin Floor1 Spires Reaper Hungered, Seiyon Floor1 Admin Promise, Dekan Floor2 Maw-Flesh, Zyrak Floor3 Rig, Ayshuk Floor4 Ledger, Mellda Floor5 Threshold Vow, Marjuk Floor6 Lens, Ishall Floor7 Unanswered, Xyan Floor8 Neural Spine, Floor7 co-monitored Zyrak/Seiyon) and Territory section to 02_Facility_Structure and 41-Frontiers.
 ## Roster
 
 | File | Name | Floor | Weapon |

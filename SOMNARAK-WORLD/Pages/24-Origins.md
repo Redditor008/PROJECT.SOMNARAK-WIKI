@@ -15,10 +15,7 @@
 
 ## Overview
 
-Veiled Tale is a sorrow that arrived already told — a fairy tale that forgot it was a tale. Scarred Memory is a sorrow that arrived as a wound someone carried. Dream Born is a sorrow that arrived because Somnarak dreamed it and then made it true. The three mirror Fairy Tale / Trauma / Original, but Somnarak names them for how the Weeping first heard them.
-
-Origin is not aesthetics. It predicts Behavior: Veiled Tales repeat, Scarred Memories react, Dream Born invent.
-
+24-Origins is a tale-sort article that presents a 2-row infobox (Sorts Veiled Tale·Scarred Memory·Dream Born, Archive Sorrow_Entities/*) and an Overview paragraph (Veiled already told fairy tale, Scarred wound carried, Dream Born dreamed then made true; mirrors Fairy Tale/Trauma/Original; predicts Behavior repeat/react/invent) plus a Counts and Examples table (Veiled ~140 SE-C-IIIγ-021 Hollow Choir, Scarred ~90 SE-C-IIIγ-088 Sorrow Fountain, Dream ~62 SE-O-Vγ-003 Wilderness Tide Outside Sovereign; City159/Inner72/Outside61 geography vs Veiled/Scarred/Dream tale) and See also to 38 and 32-Genesis.
 ## Counts and Examples
 
 | Origin | Count | Korean | Example |

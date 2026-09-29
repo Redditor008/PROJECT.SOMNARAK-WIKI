@@ -14,6 +14,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+35-Mugenhan and Ordeals is a watch article that presents a 4-row infobox (Mugenhan Gaze Beyond, Ordeals 60 files BLACK/BLUE/GREY, Watches First/Second/Third/Tide, Archive Ordeals) and 2 sections (Mugenhan, Ordeal Cycle) plus See also to 36-Tactical Engine and 10-Ordeals. The article's data is sourced from `Sorrow_Entities/` (Mugenhan thresholds per dossier) and `SOMNARAK-WORLD/Ordeals/` (60 files: Ordeal_BLACK_First_Watch_The_Grinding_Slab 5,560B etc. Ordeal_BLUE_Sobbing_Wall, Ordeal_GREY_Resentful_Three, Tide Watches Final Ton/Mountain/Sinking Continent) and `Master_Codices/03_Watch_Cycle` (Containment 1–5).
+
 ## Mugenhan
 
 Mugenhan is the planetary lattice. Three tiers are cataloged in `Mugenhan_Ecology/`:

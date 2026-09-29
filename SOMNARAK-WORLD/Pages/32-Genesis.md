@@ -15,6 +15,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+32-Genesis is an origin article that presents a 4-row infobox (Source Weeping  [비탄의 강]  Bitan-ui Gang, First Sorrow Year 200 Cheongula 1,000, Maw inception, Archive SOMNARAK_CHEONGULA.md) and 3 sections (Cheongula, Han Trifurcation, Maw) plus See also to 30-Overview and 05-Chronicle. The article's data is sourced from `SOMNARAK_CHEONGULA.md` (Year 0 Settlement, Year 195 Menders Warning Zone B, Year 200 Cheongula, Years 201–4,199 Long Era Syndicates) and `CANON_TIMELINE.md` (Year 195, 200, 201–4,199) and `PROJECT_SOMNARAK.md` Three Sorrows (City Dohan 159/Inner Naehan 72/Outside Oehan 61).
+
 ## The Weeping
 
 The Weeping is liquid Han flowing beneath Somnarak, older than settlement. It is cold, silent, and murmurs. It flows toward grief and toward the Alpha Tree. Its course and access points (Abyssal Well, Deep Vault, Central Plaza, Echo Gardens) are detailed in `Master_Codices/01_Cosmology_and_World_Order/SOMNARAK_THE_WEEPING.md`.

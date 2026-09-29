@@ -15,6 +15,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+40-Cantos is a narrative article that presents a 3-row infobox (Cantos 6, Cycles 1,778, Archive Story_Cantos) and 2 sections (Cantos, Cycles) plus See also to 05-Chronicle and 32-Genesis. The article's data is sourced from `SOMNARAK-WORLD/Story_Cantos/` (6 Cantos), `SOMNARAK-WORLD/The_Absolvohan/` (9 Parts Day0→177, 1,778 cycles Years4,232–4,238 0.02t), and `CANON_TIMELINE.md` (Year 0 Settlement, Year 200 Cheongula, Year 4,238 Dawn, Years4,238–4,250+ post-Dawn Lantern/Horizon/Gieok/Walkers).
+
 ## Cantos
 
 | Canto | Specialist |

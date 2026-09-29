@@ -16,10 +16,7 @@
 
 ## Overview
 
-Research is not science for its own sake. It is how the House learns to keep a sorrow without being kept by it. Studying a Sorrow Entity yields its Behavior, its Mugenhan threshold, and whether its M.A.W. can be appraised safely. Studying the Weeping yields better Lumen boxing.
-
-Research is filed per Watch and unlocks Codex entries, M.A.W. appraisal, and Watch upgrades. The Record and Extraction Floors hold the labs where the Veil is thinnest. `CANONICAL_METRICS.json` counts 16 PM Research Volumes, 4 docs portal files, 5 docs master pillars.
-
+15-Research is a study article that presents a 3-row infobox (Focus Entities·Lumen·M.A.W., Labs Echo-Cores·Extraction·Record, Archive 05_Entities_Tales 16 vols) and an Overview paragraph (how House learns to keep sorrow: Behavior, Mugenhan threshold, M.A.W. appraisal; Weeping→Lumen boxing; filed per Watch; labs where Veil thinnest) plus an Unlocks paragraph (gates 44 Codices 6 wings, example SE-014 unlocks SOMNARAK_MAW_CODEX Debt Prism, Lumen tally) and See also to 39-Archival Codex and WARDEN_GUIDE.
 ## Unlocks
 
 Research gates 44 Master Codices across 6 wings. Example unlock: researching `SE-C-IIIβ-014` unlocks `SOMNARAK_MAW_CODEX.md` entry for The Debt Prism and increments Lumen tally. See [39-Archival Codex](39-Archival%20Codex.md) for Codex structure and `SOMNARAK_WARDEN_GUIDE.md` for how Research gates progression.

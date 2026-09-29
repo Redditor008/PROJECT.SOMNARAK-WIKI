@@ -16,10 +16,7 @@
 
 ## Overview
 
-The drawer contains every sorrow Somnarak has learned to name. Pulling at random is not a game; it is how record-keepers keep from favoring the loudest sorrows. A Whisper  [속삭임]  (Soksagim — Whisper, 46 entities) and a Starless-equivalent Sovereign (10 entities) have equal chance to be drawn here, even though their containment costs are not equal.
-
-The pool is 292 Sorrow Entities (529 files for 285 unique SECC codes due to paired `The_` variants) plus 88 Relic Entities. Relic M.A.W. follows a different fracture and is drawn only on request.
-
+03-Random Dossier is a draw article that presents a 3-row infobox (Pool 292+88, Draw Viderehan/Ferrehan/Mugenhan, Access Sorrow_Entities) and a How It Is Used section with 3 example draws (SE-C-IIIβ-014 Debt Eater Place, SE-C-IIIγ-031 Observing Bird Subject, SE-O-Vγ-003 Wilderness Tide Sovereign) plus a Distribution table (City 159/Inner 72/Outside 61, Subject vs Object/Place/Time/Hazard, Grudge/Lament/Void/Weight). The article's data is sourced from `Sorrow_Entities/` (292/529 files) and `CANONICAL_METRICS.json` (88 Relic), with SECC/Work-Type/Pressure per `SOMNARAK_ENTITY_CODEX.md`.
 ## How It Is Used
 
 Training cadres use Random Dossier for watch drills: draw, read the Behavior and Mugenhan sections, then assign Work. Field teams use it to test whether a new specialist can read a dossier without being read by it.

@@ -15,6 +15,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+39-Archival Codex is an archive article that presents a 3-row infobox (Codices 44 across 6 wings, Volumes 16 PM Research, Archive Master_Codices) and 2 sections (Wings, Volumes) plus See also to 15-Research and 40-Cantos. The article's data is sourced from `Master_Codices/` (44 Codices: 01_Cosmology 02_Institutional 03_Systems 04_Municipal 05_Entities_Tales 06_Integrity), `CANONICAL_METRICS.json` (44 Codices, 16 PM Research Volumes, 4 docs portal, 5 docs pillars), and `SOMNARAK_WARDEN_GUIDE.md` (Research unlocks).
+
 ## Standard
 
 Every dossier follows `SOMNARAK_ENTITY_CODEX.md`:

@@ -16,6 +16,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+38-Classification Code is a code article that presents a 5-row infobox (Format SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation], Example SE-C-IIIβ-014, Origins C City/N Inner/O Outside, Coherence I Residue→V Sovereign, Potency α→ω) and 2 sections (Anatomy, Registry) plus See also to 31-Behavior and 37-Relic Entities. The article's data is sourced from `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` (Origin City Dohan 159/Inner Naehan 72/Outside Oehan 61, Coherence I 46/II70/III82/IV79/V10+5 unfixed, Potency α→ω, Element Lament/Grudge/Void/Weight/Mixed, Manifestation S Subject vs O/P/T/H Viderehan/Ferrehan only) and `Sorrow_Entities/README.md` (SECC Nomenclature Taxonomy).
+
 ## Anatomy
 
 - **Origin:** `C` City  [도한]  (Dohan — City Han, 159), `N` Inner  [내한]  (Naehan — Inner Han, 72), `O` Outside  [외한]  (Oehan — Outer Han, 61).

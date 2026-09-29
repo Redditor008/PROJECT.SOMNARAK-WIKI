@@ -16,10 +16,7 @@
 
 ## Overview
 
-The nine directors govern Facility 01. Each holds a Floor, an armband, and a Watch. They are not the only power in Somnarak. Above them stand the Council of Sighs, and across the city stand the 10 Primary Companies (5 Main + 5 Sub; all else is Somnarak Outsider Factory). Municipal life, the Gieok Jeojangso sanctuary (municipal, not a company), and the Wound Walkers are detailed in `Master_Codices/04_Municipal_Society_and_Demographics/`.
-
-No one is born to a Floor. Specialists are hired, trained, and assigned where their Work aptitude fits — Viderehan, Ferrehan, or Mugenhan.
-
+06-Personnel is a roster article that presents a 3-row infobox (Council 9 Echo-Cores Floors 1–8, Companies 10 Primary 5 Main+5 Sub, Archive 04_Municipal_) and a 9-row The Nine Echo-Cores table (Majin Floor1 Spires Reaper Hungered Weight/Grudge, Seiyon Floor1 Admin Promise Lament+Void, Dekan Floor2 Maw-Flesh Grudge, Zyrak Floor3 Rig Grudge+Void, Ayshuk Floor4 Ledger Void, Mellda Floor5 Threshold Vow Weight+Grudge, Marjuk Floor6 Lens Void+Weight, Ishall Floor7 Unanswered Grudge+Void, Xyan Floor8 Neural Spine Lament+Weight, ~116,000 words) plus a Companies section (5 Main+5 Sub, Outsider Factory, Gieok Jeojangso sanctuary).
 ## The Nine Echo-Cores
 
 | Dossier | Name | Floor | Effigy | Element | Weapon |

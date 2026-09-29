@@ -16,10 +16,7 @@
 
 ## Overview
 
-Somnarak stands on three waters: the Weeping  [비탄의 강]  (Bitan-ui Gang — River of Lament) above, the Under-River below, and the Maw beneath that. The city was founded where the Weeping surfaces in the Raw, and where the Alpha Tree  [알파 트리]  (Alpa Teuri — Alpha Tree) first took root. The Cheongula — the 1,000 who drank the Weeping and lived — became the first record-keepers.
-
-The macro-epoch is ante-Dawn and post-Dawn. Ante-Dawn runs Subterranean Expedition Division → Underworld Cleanup Descend → Reverie Directorate (1,778 Mnemonic Cycles in Facility 01). Post-Dawn runs Dawn Initiative on the Lantern, Horizon Caravan  [지평선대]  (Jipyeongseondae — Horizon Caravan), Memory Archive  [기억 저장소]  (Gieok Jeojangso — Memory Archive), Wound Walkers/Company 4, and continental reconnection. Full partition is enforced in `CANON_TIMELINE.md`.
-
+05-Chronicle is a dated-table article that presents a 3-row infobox (Span Year 0000–4,238, Axis Dawn of Hope, Source CANON_TIMELINE.md) and a 12-row Ante-Dawn table (Year 0 Settlement, Year 195 Menders Warning, Year 200 Cheongula 1,000, Years 201–4,199 Syndicates, Years 2,460–3,970 SED Descents 1–7 -2,000m, Year 3,972 Great Rust Severance Cycle 1,512, Years 3,973–4,039 UCD 6 purges, Year 4,232 Mnemonic Generator 365-day loop) plus a 6-row Post-Dawn table (Years 4,232–4,238 1,778 cycles 0.02t, Year 4,238 Dawn 15%, Years 4,238–4,247 Lantern 12 Bearers 15%→45%, 4,239 Jipyeongseondae 6 expeditions, 4,240 Gieok 7 strata, 4,250 Wound Walkers 7 Crucibles, 4,255 Reconstruction).
 ## Ante-Dawn — Year 0 to Year 4,238
 
 | Calendar Year | Operation | Milestone |

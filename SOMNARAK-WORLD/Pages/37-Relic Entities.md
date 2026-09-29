@@ -15,6 +15,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+37-Relic Entities is a catalog article that presents a 3-row infobox (Count 88 dossiers, M.A.W. stationary-echo, Archive SOMNARAK_RELIC_ENTITIES.md) and 2 sections (Catalog, M.A.W.) plus See also to 07-Sorrow Entities and 34-M.A.W. Equipment. The article's data is sourced from `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_RELIC_ENTITIES.md` (injected backing) and `SOMNARAK-WORLD/MAW_Codex_Sets` (Relic M.A.W. stationary-echo mirrors/mantles/sands, vs Sorrow 292/529 files) and `SOMNARAK_ENTITY_CODEX.md` (Relic vs Subject).
+
 ## Triad
 
 | Type | Example |

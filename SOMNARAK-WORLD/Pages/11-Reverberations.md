@@ -16,10 +16,7 @@
 
 ## Overview
 
-Each Floor's director reverberates when its Veil ruptures. The Floor forgets its assignment, the rooms forget their order, and the Sorrow Entities remember that they were never only contained — they were also watched. Lumen Surge watch logic governs the cascade. Over 1,778 cycles, 0.02 tons of Han-crystal per reset were harvested; a rupture loses that accounting.
-
-A Reverberation is not punishment. It is the House checking whether its watchers still know how to watch.
-
+11-Reverberations is a meltdown article that presents a 3-row infobox (Scope Facility 01 Floors1–8, Trigger Lumen rupture 0.02t/cycle, Archive 03_Systems) and an Overview paragraph (Veil rupture per Floor director, 1,778 cycles ×0.02t = supercritical) plus a Countermeasure section with 9 signatures (Majin Weight/Grudge scythe, Seiyon Lament/Void pages, Dekan Grudge Maw-arm, Mellda Weight shockwave, etc.) and See also to 19-Lumen Surge and 41-Frontiers.
 ## Countermeasure
 
 Reverberations are resolved by completing the Floor's Reverberation Work before the Watch ends. Each of the 9 Echo-Cores has a distinct Reverberation signature: Majin (Weight/Grudge scythe), Seiyon (Lament/Void pages), Dekan (Grudge Maw-arm), Mellda (Weight shockwave), etc. Failure raises Containment Level and can summon an Ordeal (60) or Lumen Surge. See [19-Lumen Surge](19-Lumen%20Surge.md) and [41-Frontiers](41-Frontiers.md).

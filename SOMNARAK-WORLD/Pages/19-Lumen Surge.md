@@ -16,10 +16,7 @@
 
 ## Overview
 
-Lumen is grief rendered storable — Han boxed in light. The city runs on it. When flow fails, the Veil thins, a Floor reverberates, and the Surge begins. One Surge can be contained. A chain of Surges is a day lost. In R.D., 1,778 cycles × 0.02 tons = supercritical Han-crystal harvested for the Absolvohan, ending at Year 4,238 Cycle 1,778.
-
-Surge is not an enemy to defeat. It is a pressure to route, like water.
-
+19-Lumen Surge is a rupture article that presents a 3-row infobox (Substance Lumen boxed Han 0.02t/cycle, Event Veil rupture→Reverberation, Archive SOMNARAK_GEOLOGY→SOMNARAK_LUMEN) and an Overview paragraph (Weeping→Han→Lumen→Watch→Veil; 1 Surge containable, chain = day lost; R.D. 1,778×0.02t = supercritical for Absolvohan Year4,238 Cycle1,778; not enemy but pressure to route like water) plus a Physics section to 33-Lumen and SOMNARAK_LUMEN.md and SOMNARAK_GEOLOGY geography not SE.
 ## Physics
 
 Full physics are at [33-Lumen](33-Lumen.md) and `Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_LUMEN.md`. In short: Weeping → Han → Lumen → Watch → Veil. Break any link and the Surge climbs. Lumen is 5% Max HP per Void unit, etc. See also `SOMNARAK_GEOLOGY.md` for planetary geography (not an SE).

@@ -16,6 +16,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+30-Overview is a summary article that presents a 5-row infobox (Designation Somnarak — Dream and Abyss, Time Year 4,238 Dawn Initiative, Population 1.29 billion, Core Substance Han — structural grief, Center Hand of Change Facility 01) and 3 sections (Geography, History, Society) plus See also. The article's data is sourced from `SOMNARAK_GEOLOGY.md` (planetary terrain, not SE), `CANON_TIMELINE.md` (Year 0 Settlement → Year 200 Cheongula 1,000 → ante-Dawn SED/UCD/R.D. 1,778 cycles → post-Dawn Lantern/Horizon/Gieok/Walkers), and `Master_Codices/04_Municipal_Society_and_Demographics/` (Council, 10 Primary Companies, debt/Fracture/Han).
+
 ## Geography
 
 Somnarak is stratified. The Hand of Change (Facility 01, 8 floors beneath the Alpha Tree) houses the nine Echo-Cores and hundreds of Sorrow Entities. Beneath it flows the Weeping, a river of liquid Han. Below that lies the Maw, an unmapped chasm. Above and around are the Undercity, the Raw, and the Desolate Outskirts. Each stratum is mapped in `SOMNARAK_GEOLOGY.md`, which holds planetary terrain — not Sorrow Entities.

@@ -16,8 +16,7 @@
 
 ## Overview
 
-The List is ordered by Catalog Number, but it can be re-sorted by Echo-Core, Risk, Origin, Type, or Pressure. Each line shows SECC, common name, and Floor. The List is not a bestiary for hunting. It is a work roster. Wardens assign Work from it, and the Watch is tallied from it.
-
+08-Sorrow List is an index article that presents a 3-row infobox (Indexed 292 285 unique, Files 529 paired variants, Code SECC) and a First Ten table (014 Debt Eater  [빚을 먹는 자]  City/Fragment, 015 Debt Scale, 016 Echo Compass, 021 Hollow Choir, 031 Observing Bird, 032 Weighting Bird, 033 Guarding Bird, 036 Cracked Hourglass, 044 Broken Clock, 072 Fathers Broken Bond) plus a Relic Entities note (88 dossiers separate at 37-Relic) and Next pages note (City159/Inner72/Outside61, sole Outside Sovereign SE-O-Vγ-003 Wilderness Tide).
 ## First Ten
 
 | # | SECC | Name | Origin/Risk |

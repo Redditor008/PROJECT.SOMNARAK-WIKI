@@ -17,6 +17,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+41-Frontiers is a territory article that presents a 4-row infobox (Floors 1–8 +Central 9 Echo-Cores, Desolate Outskirts, Maw -2,000m to -3,500m, Archive 02_Facility_Structure) and 3 sections (Facility, Desolate, Maw) plus See also to 14-Echo-Cores and 22-Departments. The article's data is sourced from `Master_Codices/02_Facility_Structure/` (Floors1–8 Spires→Gate Watch, Central Admin, Maw's Keep, Extraction Hall, Insight Forge, Border Watch, Deep Vault, Shadow Corps, Gate Watch) and `SOMNARAK_GEOLOGY.md` (planetary terrain Undercity/Raw/Desolate Outskirts/Wound, -2,000m to -3,500m SED Descents 1–7) and `SOMNARAK-WORLD/Katabagil/` and `Katharcheok/` (SED/UCD).
+
 ## Directors
 
 Nine Echo-Cores govern Facility 01. See `Echo_Cores/`:

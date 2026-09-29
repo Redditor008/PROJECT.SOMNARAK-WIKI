@@ -16,9 +16,7 @@
 
 ## Overview
 
-Recent Echoes is not a log of edits for its own sake. Somnarak is a city that writes itself in Han  [한]  (Han — structural grief). When a new Sorrow Entity is cataloged, when a M.A.W. set is appraised, or when a Watch report is filed, the Veil thins and the change is recorded here. Most recent entries are drawn from `Sorrow_Entities/` (292 dossiers, 529 files including paired variants for 285 unique codes) and `Master_Codices/` (44 codices), with timestamps in Year 4,238.
-
-The page exists so wardens, record-keepers, and municipal readers can see what has shifted without opening every dossier. A new entry does not mean a new sorrow was born today; it means its record was finally bound.
+02-Recent Echoes is a watchlog article that presents a 3-row infobox (Source SOMNARAK-WORLD/Sorrow_Entities, Last Cycle Year 4,238 Dawn Initiative, Watch All Echo-Cores) and a Latest Entries table with 5 rows sourced from disk timestamps Sep 28, plus a How Echoes Are Recorded section with 3 marks and a 6-point CANON_TIMELINE anchor list. The article's data is drawn from `Sorrow_Entities/` (292 dossiers, 529 files for 285 unique SECC) and `Master_Codices/` (44 codices), all timestamped Year 4,238, with Ordeal watchlogs (60 files) mirrored in `CHANGELOG.md`.
 
 ## Latest Entries
 
@@ -36,7 +34,7 @@ Ordeal watchlogs touched the same day include `Ordeal_BLACK_First_Watch_The_Grin
 
 Each Echo carries three marks: source wing, Year, and Echo-Core. The source wing tells where the change lives — `Sorrow_Entities/`, `MAW_Codex_Sets/`, `Ordeals/` (60 files), or `Master_Codices/`. The Year is always calendar Year, never Cycle, except for the 1,778 Mnemonic Cycles of the Reverie Directorate which belong only to Facility 01. The Echo-Core tells which Floor filed the report.
 
-Chronological history is kept separately at [05-Chronicle](05-Chronicle.md) and `CANON_TIMELINE.md` (Year 0 Settlement → Year 200 Cheongula → Years 2,460–3,970 SED → Years 3,973–4,039 UCD → Years 4,232–4,238 R.D. 1,778 Cycles → Year 4,238 Dawn of Hope). Recent Echoes is the short watchlog; Chronicle is the long memory.
+Chronological history is kept separately at [05-Chronicle](05-Chronicle.md) and `CANON_TIMELINE.md`, which presents a 12-row Ante-Dawn table (Year 0 Settlement, Year 200 Cheongula 1,000, Years 2,460–3,970 SED 7 Descents, Year 3,972 Great Rust Severance Cycle 1,512, Years 3,973–4,039 UCD 6 purges, Year 4,232 Mnemonic Generator 365-day loop, Years 4,232–4,238 1,778 cycles 0.02t, Year 4,238 Dawn 15%) and a 6-row Post-Dawn table (Lantern 12 Bearers 15%→45%, Jipyeongseondae 6 expeditions, Gieok 7 strata, Wound Walkers 7 Crucibles, 4,255 Reconstruction). 02-Recent Echoes is a 5-row watchlog with file sizes/timestamps; 05-Chronicle is a 12+6-row dated table with Year/Operation/Milestone columns.
 
 ## Archive
 

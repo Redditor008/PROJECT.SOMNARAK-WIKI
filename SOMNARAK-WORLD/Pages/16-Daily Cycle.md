@@ -16,10 +16,7 @@
 
 ## Overview
 
-The day begins before the Veil is fully raised. Watch 1 is inspection; Watch 2 is assignment; Watch 3 is strain; Watch 4 is accounting. Between Watches, the House checks Reverberation, Ordeal risk (60 Ordeals), and Containment Level (1–5). At day's end, Lumen is tallied and Research is unlocked. The 16 game battle scenarios/systems in `GAME_BATTLE/` follow this cycle.
-
-No two days are identical because no two Watches hold the same sorrows at the same Mugenhan levels. In R.D., the same 365-day Watch was repeated 1,778 times (Years 4,232–4,238, 6 external years).
-
+16-Daily Cycle is a schedule article that presents a 3-row infobox (Watches 1·2·3·4, Currency Lumen boxed Han, Archive 03_Watch_Cycle 16 systems) and an Overview paragraph (Watch1 inspection, Watch2 assignment, Watch3 strain, Watch4 accounting; between Watches check Reverberation/Ordeal 60/Containment 1–5; day-end Lumen/Research; 16 GAME_BATTLE scenarios; R.D. 365-day Watch repeated 1,778 times Years4,232–4,238 6 ext. years) plus an Operation section to 36-Tactical Engine and 13-Operations and Lumen example ~8 per Viderehan on SE-014.
 ## Operation
 
 Assignment and Work resolution are detailed in [36-Tactical Engine](36-Tactical%20Engine.md). For mission flow see [13-Operations](13-Operations.md). Lumen tally example: successful Viderehan on `SE-C-IIIβ-014` yields ~8 Lumen; failure yields Fracture.

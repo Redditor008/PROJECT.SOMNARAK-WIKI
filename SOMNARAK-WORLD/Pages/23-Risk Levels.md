@@ -15,10 +15,7 @@
 
 ## Overview
 
-Risk is not how dangerous an entity looks; it is how much of the House it can make forget. Whisper is a quiet room. Starless (Sovereign) is a Floor that forgets it is a Floor. The five steps mirror the older ZAYIN→ALEPH scale, but Somnarak names them for how grief sounds when contained: Whisper, Murmur, Lament, Wail, Starless (Sovereign).
-
-In SECC Coherence I→V: I Residue (Whisper), II Echo (Murmur), III Fragment (Lament), IV Entity (Wail), V Sovereign (Starless). Potency α→ω refines it.
-
+23-Risk Levels is a ranking article that presents a 2-row infobox (Scale Whisper·Murmur·Lament·Wail·Starless, Archive Sorrow_Entities/*) and an Overview paragraph (Risk = how much House forgets: Whisper quiet room → Starless Floor forgets; I Residue Whisper / II Echo Murmur / III Fragment Lament / IV Entity Wail / V Sovereign Starless; Potency α→ω refines; Sovereign city-scale) plus a Distribution table (292: Whisper/I 46, Murmur/II 70, Fragment/III 82, Entity/IV 79, Sovereign/V 10 +5 unfixed Hazard/Time, 13 City +1 Outside SE-O-Vγ-003 Wilderness Tide +0 Inner) and See also to 38 and 07.
 ## Distribution
 
 Of 292 entities, the spread per Sorrow_Entities/README and Codex is roughly: Whisper/I 46, Murmur/II 70, Fragment/III 82, Entity/IV 79, Sovereign/V 10, plus 5 without fixed Rank (Hazard/Time nuances). Sovereigns are city-scale: 13 City Sovereigns plus 1 Outside Sovereign `SE-O-Vγ-003 Wilderness Tide`; 0 Inner Sovereigns (personal trauma cannot reach Sovereign without becoming City). See [38-Classification Code](38-Classification%20Code.md) for how Rank is encoded in SECC and [08-Sorrow List](08-Sorrow%20List.md) for examples.

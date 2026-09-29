@@ -16,10 +16,7 @@
 
 ## Overview
 
-Hiring is not recruitment; it is Lumen accounting. Each specialist costs Lumen to bring in and more to keep when the day lengthens. They arrive with affinities for Viderehan, Ferrehan, Flerehan, Pugnahan, and with resistances that M.A.W. Suits can shift. Cadres count is 10 (per `CANONICAL_METRICS.json` specialist_cadres_count), plus 5 Underworld Syndicates.
-
-Specialists level by surviving Work. They do not level by killing, because Somnarak does not ask them to kill sorrow, only to tend it. Between R.D. cycles, personnel are held in cryo-engrammatic salt suspension (Han Pohwa Sepo Jeongche) and mnemonic dilation, so Vanguard Min-Jae and others survive 266+ cycles without senility.
-
+12-Specialists is an operative article that presents a 3-row infobox (Roster 10 cadres, Archive 09_Personnel_Archives, Gear M.A.W. 42 sets) and an Overview paragraph (hiring = Lumen accounting, 10 cadres +5 syndicates, Han Pohwa stasis and mnemonic dilation for Min-Jae 266+ cycles, 4 affinities Viderehan/Ferrehan/Flerehan/Pugnahan) plus a Daily Use section linking to 36-Tactical Engine and 16-Daily Cycle and 09_Personnel_Archives dossiers.
 ## Daily Use
 
 Hiring, assignment, and daily watch rotation are in [36-Tactical Engine](36-Tactical%20Engine.md) and [16-Daily Cycle](16-Daily%20Cycle.md). Gifts accumulate slowly and change how a specialist hears the House. See `Master_Codices/09_Personnel_Archives/` for dossiers.

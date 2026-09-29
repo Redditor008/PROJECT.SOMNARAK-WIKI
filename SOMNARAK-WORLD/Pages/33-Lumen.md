@@ -15,6 +15,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+33-Lumen is a substance article that presents a 4-row infobox (Substance Lumen boxed Han, Source Weeping→Han→Lumen, Yield 0.02t/cycle ×1,778 = supercritical, Archive SOMNARAK_LUMEN.md) and 3 sections (Boxing, Flow, Surge) plus See also to 34-M.A.W. Equipment and 19-Lumen Surge. The article's data is sourced from `Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_LUMEN.md` (Weeping→Han→Lumen→Watch→Veil, 1,778 cycles Years 4,232–4,238, Hand of Hope 15%) and `SOMNARAK_GEOLOGY.md` (planetary terrain).
+
 ## Nature
 
 Lumen is fluid to semi-crystalline, held in sealed vats and vein-like conduits beneath Facility 01. Pale and clear when stable, it darkens when Han density surges. It is silent, with a faint murmur when flowing.

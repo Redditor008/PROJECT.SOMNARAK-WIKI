@@ -14,6 +14,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+36-Tactical Engine is a mechanics article that presents a 4-row infobox (Work Types 4 Ferrehan/Flerehan/Pugnahan/Viderehan, Pressures 4 Grudge/Lament/Void/Weight, Watches 1–4, Archive WARDEN_GUIDE) and 3 sections (Work Resolution, Pressure Interaction, Watch Accounting) plus See also to 17-Pressure Types and 16-Daily Cycle. The article's data is sourced from `SOMNARAK_WARDEN_GUIDE.md` (16 battle systems) and `GAME_BATTLE/` (16 scenarios), `Sorrow_Entities/README.md` (Four Han Affinities), and `Master_Codices/03_Systems_Combat_Engine_and_Physics` (Lumen tally ~8 per Viderehan on SE-014, Fracture on failure).
+
 ## Phases
 
 - **Tension** — identify threat, assess Gauge and SECC, position.

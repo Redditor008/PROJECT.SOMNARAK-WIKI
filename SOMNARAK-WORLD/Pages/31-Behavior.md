@@ -15,6 +15,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+31-Behavior is a work-type article that presents a 3-row infobox (Work Types 4, Two-Work-Type 100% 283 entities, Archive Sorrow_Entities) and a Behavior table (Ferrehan Endurance, Flerehan Lamentation, Pugnahan Confrontation, Viderehan Observation, with primary stats Resilience/Composure/Resolve/Clarity) plus a Breach Behavior section and See also to 32-Genesis and 37-Relic Entities. The article's data is sourced from `SOMNARAK_ENTITY_CODEX.md` Physical Types (Subject all four vs Object/Place/Time/Hazard Viderehan/Ferrehan only) and `Sorrow_Entities/README.md` Four Han Affinities (Grudge/Lament/Void/Weight).
+
 ## Work Types
 
 Four Works are sanctioned:

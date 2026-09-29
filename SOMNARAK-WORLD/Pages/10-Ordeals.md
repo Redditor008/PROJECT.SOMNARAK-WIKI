@@ -16,10 +16,7 @@
 
 ## Overview
 
-An Ordeal is not a Sorrow Entity that escaped. It is the Maw testing whether the city still knows how to close a door. Each Color is a mood of the Maw; each Watch is a depth. Somber at First Watch is a draft; Ashen at Tide Watch is a flood.
-
-The archive holds 60 files, not 20. Earlier 5×4 counts were wiki shorthand; Somnarak's Ordeals are filed as `Ordeal_COLOR_Watch_Name.md`.
-
+10-Ordeals is an incursion article that presents a 3-row infobox (Count 60 files, Watches First/Second/Third/Tide, Archive Ordeals) and a Colors and Watches table (BLACK Weight Grinding Slab 5,560B/Crushing Column/Buried Pillar/Final Ton, BLUE Lament Leaking Eyes/Brine Rain/Brine Walkers/Drowned World, GREY Brawler/Blade Wall, plus Sinking Continent/Mountain/Mother Flood) plus a Watch Cycle section linking to 35-Mugenhan and Ordeals and 36-Tactical Engine and 18-Containment Levels.
 ## Colors and Watches
 
 | Color | First Watch | Second Watch | Third Watch | Tide Watch |

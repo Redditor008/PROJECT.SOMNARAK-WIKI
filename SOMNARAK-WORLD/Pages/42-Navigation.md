@@ -15,6 +15,10 @@
 +========================================================================+
 ```
 
+## Overview
+
+42-Navigation is an index article that presents a 4-row infobox (Pages 39 Pages 01+02–26+30–42, Master Codices 44 6 wings, Sorrow Entities 292 dossiers, M.A.W. Sets 42/1,165/1,208) and 2 sections (Pages — Home and Navigation 01–26, Pages — Content 30–42) plus See also to 01-Main Page and SOMNARAK-WORLD/README.md. The article's data is sourced from `SOMNARAK-WORLD/Pages/` (39 Pages +README, 01 home 84 lines, 02–26 28–59 lines each, 30–42 35–50 lines each) and `CANONICAL_METRICS.json` (292, 42/1,165, 60, 9, 16, 44) and `SOMNARAK-WORLD/README_FIRST.md` reading order 30→32→31/37/38→33/34/36→35→40→41.
+
 ## Pages — Home and Navigation (01–26)
 
 - [01-Main Page](01-Main%20Page.md) — wiki home

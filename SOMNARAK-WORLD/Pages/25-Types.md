@@ -16,10 +16,7 @@
 
 ## Overview
 
-The eight are: Veilborne  [막을 입은]  (Mageul Ibeun — Veilborne, Humanoid), Beastborne  [짐승을 입은]  (Jimseungeul Ibeun — Beastborne, Animal), Hallowed  [거룩한]  (Georukan — Hallowed, Religious), Relic  [유물]  (Yumul — Relic, Inanimate), Gearborne  [기어를 입은]  (Gieoreul Ibeun — Gearborne, Machine), Unshaped  [형태 없는]  (Hyeongtae Eomneun — Unshaped, Abstraction), Tool  [도구]  (Dogu — Tool), Patron  [후원자]  (Huwonja — Patron, Backers). Each maps to a fracture mode of Han, not to biology.
-
-Manifestation in SECC is S Subject, O Object, P Place, T Time, H Hazard. Object/Place/Time/Hazard use only Viderehan/Ferrehan; Subject uses all four.
-
+25-Types is a form article that presents a 2-row infobox (Sorts Veilborne·Beastborne·Hallowed·Relic·Gearborne·Unshaped·Tool·Patron, Archive Sorrow_Entities/*) and an Overview paragraph (8 Types = Veilborne  [막을 입은]  Humanoid, Beastborne  [짐승을 입은]  Animal, Hallowed  [거룩한]  Religious, Relic  [유물]  Inanimate, Gearborne  [기어를 입은]  Machine, Unshaped  [형태 없는]  Abstraction, Tool  [도구]  Tool, Patron  [후원자]  Backers; Han fracture not biology; Manifestation S/O/P/T/H Object/Place/Time/Hazard Viderehan/Ferrehan only vs Subject all four) plus a Distribution and Examples table (Tool/Patron rare, Veilborne/Beastborne common; SE-C-IIIγ-031 Observing Bird Veilborne, 032 Weighting Bird Beastborne, 081 Hollow Saint Hallowed, 014 Debt Eater Relic Place, 036 Cracked Hourglass Gearborne, 916 Allhallow Unshaped, 015 Debt Scale Tool, 011 Scar Walker Patron) and See also to SOMNARAK_ENTITY_CODEX.
 ## Distribution and Examples
 
 Tool and Patron are rare because the city rarely lets a sorrow remain useful or sponsored for long. Veilborne and Beastborne are common because the city most often grieves what had a face.

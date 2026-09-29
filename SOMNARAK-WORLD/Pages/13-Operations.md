@@ -16,8 +16,7 @@
 
 ## Overview
 
-An Operation is a Floor's request for the day: complete X Work, keep Containment above threshold, appraise a M.A.W., survive a Reverberation. Completion yields Lumen (boxed Han) and research; neglect yields Fracture and a lower Containment Level. The Council does not assign Operations; the Echo-Cores do, each according to its Floor's character. Post-Dawn Operations shift: Dawn Initiative (The Lantern, 15%→45%), Horizon Caravan (6 expeditions), Memory Archive (7 strata), Wound Walkers (7 Crucible Stations).
-
+13-Operations is a mission article that presents a 3-row infobox (Cycle Daily Watches1–4, Issuer 9 Echo-Cores, Archive 03_Watch_Cycle) and an Overview paragraph (Floor requests: X Work, Containment threshold, M.A.W. appraisal, Reverberation; yields Lumen/research vs Fracture; post-Dawn Dawn Initiative Lantern 15%→45%, Horizon 6 expeditions, Gieok 7 strata, Walkers 7 Crucibles) plus a Reporting section with 3 examples (Floor2 Dekan Level2 Watch2, Floor4 Ayshuk 3 dossiers, Floor5 Mellda Border Watch) and See also to 36 and 39-Archival Codex.
 ## Reporting
 
 Reports are filed per Watch. Example Operations: Floor 2 Dekan — “Maintain Maw's Keep at Level 2 through Watch 2”; Floor 4 Ayshuk — “Research 3 dossiers to unlock Codex”; Floor 5 Mellda — “Survive Border Watch without Tide Ordeal”. The Watch Cycle and Ordeal risk are checked between Watches. See [36-Tactical Engine](36-Tactical%20Engine.md) and [39-Archival Codex](39-Archival%20Codex.md).
