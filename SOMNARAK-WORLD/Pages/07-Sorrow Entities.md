@@ -1,6 +1,6 @@
 # Sorrow Entities
 
-![Master Bestiary Overview Banner](images/master-bestiary-overview.svg)
+![Master Bestiary Overview Map](images/master-bestiary-overview.svg)
 
 > *“They are not monsters. They are what we left behind.”*
 
