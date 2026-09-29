@@ -443,7 +443,7 @@ Three floating Pale fireflies manifested directly above the open dispersal manif
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +35 RHR                                       |
 | SPECIALIST ADVANCEMENT:                                             |
-| - Specialist Shin: +5 Clarity (Sanity Pool Up)                      |
+| - Specialist Shin: +5 Clarity (Composure Pool Up)                   |
 | - Specialist Kang: +5 Resilience (HP Pool Up)                       |
 | - Specialist Park: +5 Composure (Work Success Up)                   |
 +=====================================================================+
@@ -884,8 +884,8 @@ Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead o
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +35 RHR                                       |
 | SPECIALIST ADVANCEMENT:                                             |
-| - Specialist Shin: +5 Clarity (Sanity Pool Up)                      |
-| - Specialist Bae: +5 Clarity (Sanity Pool Up)                       |
+| - Specialist Shin: +5 Clarity (Composure Pool Up)                   |
+| - Specialist Bae: +5 Clarity (Composure Pool Up)                    |
 | - Specialist Hong: +5 Composure (Work Success Up)                   |
 +=====================================================================+
 ```
@@ -894,7 +894,7 @@ Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead o
 
 - **Source Entity:** SE-C-IIIγ-140 (*The Weeping Willow*)
 - **Extracted Armament:** *Willow Cloak* (Back/Wings Slot)
-- **Stigma Properties:** Grants absolute sanity protection against grief-induced trauma, increasing health regeneration by 5 HP per minute during containment shifts. Allocated to Specialist Bae.
+- **Stigma Properties:** Grants absolute composure protection against grief-induced trauma, increasing health regeneration by 5 HP per minute during containment shifts. Allocated to Specialist Bae.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -1331,7 +1331,7 @@ A Tide Watch Ordeal manifested as a celestial avian silhouette in the central ro
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +35 RHR                                       |
 | SPECIALIST ADVANCEMENT:                                             |
-| - Specialist Han: +5 Clarity (Sanity Pool Up)                       |
+| - Specialist Han: +5 Clarity (Composure Pool Up)                    |
 | - Specialist Song: +5 Composure (Work Success Up)                   |
 | - Specialist Hwang: +5 Resilience (HP Pool Up)                      |
 +=====================================================================+
@@ -1424,7 +1424,7 @@ Daily extraction reaches an unprecedented peak of 0.112 tons of pure Han, elevat
 +=====================================================================+
 ```
 
-Ayshuk's Attendant Aura permanently evolves into *Dawn of Hope*, radiating an omnidirectional 30% sanity restoration pulse that completely eliminates panic states across all eight floors.
+Ayshuk's Attendant Aura permanently evolves into *Dawn of Hope*, radiating an omnidirectional 30% composure restoration pulse that completely eliminates panic states across all eight floors.
 
 #### 2. Acoustic Strain Meltdown Monitoring
 
@@ -1777,7 +1777,7 @@ A Tide Watch Ordeal manifested as a crown of twelve glowing halos above the rese
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +40 RHR                                       |
 | SPECIALIST ADVANCEMENT:                                             |
-| - Specialist Yoon: +5 Clarity (Sanity Pool Up)                      |
+| - Specialist Yoon: +5 Clarity (Composure Pool Up)                   |
 | - Specialist Kang: +5 Resilience (HP Pool Up)                       |
 | - Specialist Hong: +5 Composure (Work Success Up)                   |
 +=====================================================================+
@@ -2227,7 +2227,7 @@ A Tide Watch Ordeal manifested as a luminous cloud of Void energy that settled o
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
 | REAGENTS ACCUMULATED: +40 RHR                                       |
 | SPECIALIST ADVANCEMENT:                                             |
-| - Specialist Shin: +5 Clarity (Sanity Pool Up)                      |
+| - Specialist Shin: +5 Clarity (Composure Pool Up)                   |
 | - Specialist Kang: +5 Resilience (HP Pool Up)                       |
 | - Specialist Kim: +5 Resilience (HP Pool Up)                        |
 +=====================================================================+

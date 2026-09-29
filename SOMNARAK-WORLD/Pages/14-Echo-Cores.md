@@ -57,7 +57,7 @@ An Echo-Core is not merely an administrator; it is a metaphysical ballast:
 - **Personality:** Methodical, cold, obsessed with statistical balance.
 - **Armband:** White Ledger upon Slate Blue.
 - **Signature Weapon:** *Quill of Redress* (Lament/Mental).
-- **Core Handicap:** *Sensor Glitch* — Obscures health, sanity, and interface status displays.
+- **Core Handicap:** *Sensor Glitch* — Obscures health, composure, and interface status displays.
 
 ### 2.3 Lead Dekan (Floor 3: Maw's Keep)
 - **Role:** Master of Structural Containment and Heavy Fortifications.
@@ -70,7 +70,7 @@ An Echo-Core is not merely an administrator; it is a metaphysical ballast:
 - **Role:** Overseer of Han-Energy Distillation and M.A.W. Fabrication.
 - **Personality:** Flamboyant, reckless, addicted to high-yield energy extraction.
 - **Armband:** Golden Alembic upon Deep Purple.
-- **Signature Weapon:** *Refinery Needle* (Void/Pale).
+- **Signature Weapon:** *Refinery Needle* (Void).
 - **Core Handicap:** *Well Backflow* — Completed work triggers localized containment cell ruptures.
 
 ### 2.5 Lead Ayshuk (Floor 5: Insight Forge)
@@ -91,7 +91,7 @@ An Echo-Core is not merely an administrator; it is a metaphysical ballast:
 - **Role:** Curator of Hazardous Relics and Temporal Artifacts.
 - **Personality:** Weary, patient, burdened by ancient municipal memories.
 - **Armband:** Hourglass upon Bronze Filigree.
-- **Signature Weapon:** *Chronos Scepter* (Void/Pale).
+- **Signature Weapon:** *Chronos Scepter* (Void).
 - **Core Handicap:** *Temporal Inversion* — Restricts simulation speed to real-time, causing panic on speed shifts.
 
 ### 2.8 Lead Ishall (Floor 8: Shadow Corps)
@@ -105,12 +105,12 @@ An Echo-Core is not merely an administrator; it is a metaphysical ballast:
 - **Role:** Guardian of the Abyss Boundary and Subterranean Gate.
 - **Personality:** Enigmatic, prophetic, gazing perpetually into the Maw.
 - **Armband:** Ouroboros Ring upon Platinum Thread.
-- **Signature Weapon:** *Abyss Cleaver* (Void/Pale).
+- **Signature Weapon:** *Abyss Cleaver* (Void).
 - **Core Handicap:** *Abyss Rupture* — Summons continuous waves of subterranean horrors across all floors.
 
 ## 3 The Cognition Filter and Disguise Construct
 
-To preserve the sanity of human Wardens, the facility employs a heavy **Cognition Filter**:
+To preserve the composure of human Wardens, the facility employs a heavy **Cognition Filter**:
 - The filter renders the Echo-Cores as stylized, geometric, or robotic avatars.
 - This prevents the Warden from recognizing the agonizing biological machinery and human suffering underlying the core chambers.
 - Successfully stabilizing an Echo-Core permanently disables its filter, revealing their genuine human visage.

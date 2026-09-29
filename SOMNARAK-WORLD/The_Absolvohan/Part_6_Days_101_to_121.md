@@ -1397,7 +1397,7 @@ Deployment roster for Floor 4 (Research Lead) and Floor 2 (Containment Lead):
 +---------------------------------------------------------------------+
 | Lead Aura           | Ayshuk: Clarity Matrix                        |
 | | (+15% SP Damage)                                                  |
-| | Absorption & Sanity)                                              |
+| | Absorption & Composure)                                           |
 +---------------------------------------------------------------------+
 ```
 

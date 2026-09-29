@@ -222,7 +222,7 @@
   * Hit lands cleanly in the right eye socket.
   * Eyes HP: 314 -> 220 / 450 -> **EYES RUPTURED!**
   * Mother suffers severe sensory blindness.
-  * Composure Drain: -75 Composure Points!
+  * Composure Drain: -75 Points!
   * **COMPOSURE POOL HIT: 65 - 75 = 0 POINTS!**
 
 #### 3. Terminal Meltdown Trigger

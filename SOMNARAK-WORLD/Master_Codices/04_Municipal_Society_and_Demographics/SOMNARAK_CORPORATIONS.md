@@ -170,7 +170,7 @@ The UCD's six major campaigns—documenting the takedown of the Veil Smugglers, 
 
 ### 2.4 Won-Hyeong Biologics (  원형 생체 복원 제약 공사   — Won-Hyeong Saengche Bok-won Gongsa)
 
-Operating from the monumental **Jade Spire (  옥빛 첨탑  )** at the border of Zone A and Zone D, **Won-Hyeong Biologics** is the sovereign pharmaceutical, flesh-suture, and composure restoration conglomerate of Somnarak. Established under Council Sovereign Charter 104 following the Great Calcification Crisis of Year 3,892, Won-Hyeong commands an absolute monopoly over the chemical and biological technologies that preserve human sanity and physiological integrity against ambient sorrow.
+Operating from the monumental **Jade Spire (  옥빛 첨탑  )** at the border of Zone A and Zone D, **Won-Hyeong Biologics** is the sovereign pharmaceutical, flesh-suture, and composure restoration conglomerate of Somnarak. Established under Council Sovereign Charter 104 following the Great Calcification Crisis of Year 3,892, Won-Hyeong commands an absolute monopoly over the chemical and biological technologies that preserve human composure and physiological integrity against ambient sorrow.
 
 - **Sovereign Headquarters:** The Jade Spire & Crucible Bio-Labs (Zone D / A Frontier).
 - **Primary Operational Mandate:** Pan-municipal synthesis of Composure Ampules (Grades I–V), cultivation of Living Suture Mesh scaffolds, manufacture of anti-calcification dialysis filters, and emergency medical restoration for containment forces.
@@ -376,7 +376,7 @@ Economic survival in Somnarak is dictated by the **Municipal Debt Ledger (부채
 - **Tier 3 (Submerged Citizens / Zone B):** Heavy miners, drainage sweepers, and indentured factory hands. Debt exceeding 50,000 credits; subject to mandatory labor drafts and asset forfeiture.
 - **Tier 4 (The Unclaimed / The Raw):** Outlaws, deserters, and broken Fray members. Debts purchased by syndicate brokers; zero legal protections under municipal law.
 
-The Five Institutions operate outside the Debt Ledger. An operative who joins the Reverie Directorate, the SED Bore Fleet, the UCD Strike Force, or the Horizon Caravan has their entire civic debt erased immediately upon signing the blood charter. In return, they offer their life, their blood, and their sanity to the defense of humanity.
+The Five Institutions operate outside the Debt Ledger. An operative who joins the Reverie Directorate, the SED Bore Fleet, the UCD Strike Force, or the Horizon Caravan has their entire civic debt erased immediately upon signing the blood charter. In return, they offer their life, their blood, and their composure to the defense of humanity.
 
 ---
 

@@ -46,7 +46,7 @@ All 292 cataloged sorrow entities originate from one of three distinct psycholog
 ## 3 Scarred Memory (Inner Sorrow)
 - **Metaphysical Anchor:** Individual human anguish.
 - **Characteristics:** Intensely emotional, visceral, and personal (e.g., shattered family relics, wedding gowns steeped in ash, or hospital instruments).
-- **Behavioral Logic:** Highly sensitive to specialist psychological states. Working with Scarred Memories often drains high amounts of sanity, requiring operatives with high **Composure** who can endure empathetic communion via 💧 **Flerehan**.
+- **Behavioral Logic:** Highly sensitive to specialist psychological states. Working with Scarred Memories often drains nerve, requiring operatives with high **Composure** who can endure empathetic communion via 💧 **Flerehan**.
 - **Common Pressures:** Heavily concentrated in 🔵 **Lament** and ⚫ **Weight**.
 
 ## 4 Dream Born (Outside Sorrow)

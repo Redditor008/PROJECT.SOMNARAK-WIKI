@@ -1383,11 +1383,11 @@ Deployment roster for Floor 4 (Research Lead) and Floor 2 (Containment Lead):
 +---------------------------------------------------------------------+
 | Lead Aura           | Ayshuk: Clarity Matrix                        |
 | | (+15% SP Damage)                                                  |
-| | Absorption & Sanity)                                              |
+| | Absorption & Composure)                                           |
 +---------------------------------------------------------------------+
 ```
 
-Research Lead Ayshuk's *Clarity Matrix* aura shields Floor 4 personnel, absorbing +15% of all psychic/Lament trauma and granting passive sanity regeneration.
+Research Lead Ayshuk's *Clarity Matrix* aura shields Floor 4 personnel, absorbing +15% of all psychic/Lament trauma and granting passive composure regeneration.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
@@ -1510,7 +1510,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Vault Gallery:
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Grav-Shatter]`.
   * Specialist Bae (Speed 6 -> 3 AP) advances to Node 4 (Point-Blank Range Band 1). Spends 2 AP to ready `[Bulwark Maul Synchronized Slam]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 1 to 3)**:
-  * Floating Well A emits `[Intense Sanity Leeching Vortex]` (Base 10 + 2 Lots = 14 Power).
+  * Floating Well A emits `[Intense Composure Leeching Vortex]` (Base 10 + 2 Lots = 14 Power).
   * Specialist Kang & Specialist Bae's `[Synchronized Dual Maul Slam]` (Base 13 + 2 Lots = 17 Power).
   * **Resolution**: The Specialists WIN THE CLASH (17 vs 14).
     * Both heavy mauls strike the vortex core simultaneously, breaking its gravitic cohesion and dealing **68 Grudge damage** with +34 Stagger!
@@ -1526,7 +1526,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Vault Gallery:
 | [WELL-A][WELL-B][KANG] [BAE] [AYSHUK] [MAJIN]                       |
 +---------------------------------------------------------------------+
 | - Node 01: Gravitic Well A (Posture 56/140 / Smashed by Kang & Bae) |
-| - Node 02: Gravitic Well B (Charging Global Sanity Vortex / Posture |
+| - Node 02: Gravitic Well B (Charging Global Nerve Vortex / Posture  |
 |   150/150)                                                          |
 | - Node 03: Specialist Kang (Point-Blank Band 1 / Heavy Maul Sunder) |
 | - Node 04: Specialist Bae (Range Band 2 / Bulwark Maul Ready)       |
@@ -1586,7 +1586,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Vault Gallery:
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [WELL-B][KANG]  [BAE]                   [AYSHUK]        [MAJIN]     |
 +---------------------------------------------------------------------+
-| - Node 02: Well B (Recovered / Channeling Global Sanity Vortex)     |
+| - Node 02: Well B (Recovered / Channeling Global Composure Vortex)  |
 | - Node 03: Specialist Kang (Directional Guard Absorption Active)    |
 | - Node 04: Specialist Bae (Smashing Gravitic Focal Ring)            |
 | - Node 07: Research Lead Ayshuk (Clarity Field Nullifying Vortex)   |
@@ -1597,10 +1597,10 @@ Director Majin establishes GBS tactical engagement in the Sub-Vault Gallery:
 +=====================================================================+
 ```
 
-###### Turn 04 Action Resolution Log (Global Sanity Vortex & Clarity Field)
+###### Turn 04 Action Resolution Log (Global Composure Vortex & Clarity Field)
 - **Hostile Desperation Vortex**:
-  * Well B attempts to tear the minds of all operatives with `[Global Sanity Vortex]`.
-  * Research Lead Ayshuk activates Floor 4's *Clarity Field*, altering psychic frequencies to nullify the sanity drain!
+  * Well B attempts to tear the minds of all operatives with `[Global Composure Vortex]`.
+  * Research Lead Ayshuk activates Floor 4's *Clarity Field*, altering psychic frequencies to nullify the composure drain!
   * Specialist Kang deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 132/140).
   * Specialist Bae smashes the gravitic focal ring, stripping 26 Posture points!
   * Well B Posture falls to **16/140**!
@@ -1657,7 +1657,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Vault Gallery:
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Sub-Vault Gallery psychic pressure returns |
 | to zero.                                                            |
-| 2. Status Equilibrium : Team SP stabilized; no sanity drain         |
+| 2. Status Equilibrium : Team SP stabilized; no composure drain      |
 | sustained.                                                          |
 | 3. Containment Check : Both Void Wells completely imploded.         |
 | 4. OUTCOME : PERFECT DUAL SLAM — +0.075 TONS BONUS HARVESTED.       |

@@ -56,7 +56,7 @@ The expedition of the Horizon Caravan unfolds across six high-intensity operatio
 5. **[Arc 5: The Return](Arc_5_The_Return.md)** (The Desolate: Northern Sand Corridor — Year 4238, Months 6-7)
    - Escorting the massive refugee convoy back toward Somnarak, the Caravan repels a coordinated ambush by Warlord Garek's Sand-Corsairs, cementing the permanent trade highway.
 6. **[Arc 6: The Mugeukji Attempt](Arc_6_The_Mugeukji_Attempt.md)** (Mugeukji: Perimeter of Absolute Silence — Year 4238, Month 8)
-   - The Caravan ventures north to contact Mugeukji, confronting the horrifying sensory null field of the Archon of the Void before executing a strategic withdrawal to preserve the crew's sanity, leaving an acoustic beacon at the frontier.
+   - The Caravan ventures north to contact Mugeukji, confronting the horrifying sensory null field of the Archon of the Void before executing a strategic withdrawal to preserve the crew's composure, leaving an acoustic beacon at the frontier.
 
 ---
 

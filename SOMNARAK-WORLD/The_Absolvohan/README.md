@@ -247,7 +247,7 @@ Every day within the chronicle follows an exhaustive operational management blue
 3. **Granular Work Type Management Tables:** Canonical SECC codes, assigned specialists, Work Types (Flerehan, Pugnahan, Viderehan, Ferrehan), Chamber Acoustic Stress, Sorrow Gauge Δ, Positive vs Negative Han yield, and CP gains.
 4. **Tactical Command Directives Deployed:** Decision Core interventions (Han Salve Jet, Veil Mist Dampener, 4-Sign Aegis, Acoustic Siphon, Quarantine Severance).
 5. **Acoustic Strain Meltdown Tracker:** Meltdown Levels (I–X), 45-second timer status, and Acoustic Overload checks.
-6. **Ordeal Suppression Tactical Dossier:** Ordeal classification (Color × Watch), Clash resolution, Range Bands 1–5, and Sanity Restoration actions.
+6. **Ordeal Suppression Tactical Dossier:** Ordeal classification (Color × Watch), Clash resolution, Range Bands 1–5, and Composure Restoration actions.
 7. **Shift Evaluation Index & RHR Allocation:** Formal Letter Grades (S, A, B, C, F), Refined Han Reagents awarded, and attribute training logs.
 8. **M.A.W. Extraction, Forging & Stigma Slots:** Extracted Weapon, Suit, and Stigma triplets, anatomical slot allocations, and Corrosion monitoring.
 9. **Night Shift Telemetry:** Nocturnal drainage, Sorrow Tide monitoring, and Director Majin's reflections.

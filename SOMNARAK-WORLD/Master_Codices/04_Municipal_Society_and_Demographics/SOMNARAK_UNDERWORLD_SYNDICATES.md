@@ -220,7 +220,7 @@ Operating within subterranean vaults reinforced with acoustic lead plates, **The
 +=====================================================================+
 |          MEMORY WASHERS TACTICAL PROFILE & MNEMONIC WARFARE         |
 +---------------------------------------------------------------------+
-| COMBAT ROLE : Mnemonic Saboteur, Sanity Eraser, Coherence Drainer   |
+| COMBAT ROLE : Mnemonic Saboteur, Nerve Eraser, Coherence Drainer    |
 | SPEED BAND      : [2 to 6] (Controlled, methodical pacing)          |
 | ACTION POINTS   : 2 Action Slots per Battle Turn                    |
 | FAVORED GEAR : Yeoul Neural Harpoons (Gr 3), Mnemonic Siphon Vials  |

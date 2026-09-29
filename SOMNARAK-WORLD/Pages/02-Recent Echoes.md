@@ -65,7 +65,7 @@ This dispatch records recent operational updates within Facility 01, containment
 
 ## 4 Personnel Commendations and Memorial Roster
 
-- **Senior Specialist Kang:** Awarded Departmental Captain Sash for Floor 6 Border Watch after 12 consecutive shifts without taking health or sanity damage.
+- **Senior Specialist Kang:** Awarded Departmental Captain Sash for Floor 6 Border Watch after 12 consecutive shifts without taking health or composure damage.
 - **Recruit Talia:** Promoted to Rank III Senior Specialist following exemplary Pugnahan containment work with high-threat Fragment entities.
 - **Veteran Arin:** Received the *Null Shield of Redress* for holding the line against a Third Watch Ordeal.
 - **Memorial Roster:** Five auxiliary auxiliaries honored in the facility memorial ledger following emergency containment operations during Cycle 1,777.

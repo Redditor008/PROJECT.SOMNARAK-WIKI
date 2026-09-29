@@ -538,7 +538,7 @@ Director Majin issues tactical command: deploy automated drone to bypass baptism
 - `[ASSIGNED PROTOCOL: Viderehan Observation]`
 - `[NOTE: Synthetic units possess zero organic soul signature; immune to baptism halos]`
 - *Chamber Log:* `The porcelain healer tilts its head, gazing at the cold camera lens with sorrowful pity...`
-- Tick 1–6: 4 Successes, 2 Failures. The Healer radiates Pale pulses, but the mechanical chassis suffers zero sanity damage!
+- Tick 1–6: 4 Successes, 2 Failures. The Healer radiates Pale pulses, but the mechanical chassis suffers zero composure damage!
 - **Result: 4/6 Positive Han Crystals (NORMAL RESULT).** Quota: `0.010 / 0.050 tons`. Meltdown counter: `1/5`.
 
 ##### Work Session 2: Combat Work on SE-036 (The Cracked Hourglass)
@@ -970,7 +970,7 @@ Klaxons transition to deep Void bass:
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 2x Amorphous Vapor Stalkers                             |
-| - Attack Affinity: Void (Sanity Corrosion / Void)                   |
+| - Attack Affinity: Void (Composure Corrosion / Void)                |
 | - Weakness Affinity: Weight (Gravitational Affinity)                |
 +---------------------------------------------------------------------+
 | TACTICAL ORDERS: MELLDA & MOON ENGAGE                               |
@@ -1278,7 +1278,7 @@ Beside her, Majin observes the distant torchlight of the Drift King's caravan di
 
 Day 12 activates Floor 3 (The Archive) under Lead Marjuk. Our primary gameplay objective is conducting deep memory dives into **SE-C-IIIγ-115** (*The Memory Well*) while managing simultaneous cognitive meltdowns across the archive's data vaults.
 
-Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/Lament static that drains sanity over time simply by being in the corridor! Marjuk's Attendant Aura, *Memorial Preservation*, provides a crucial 30% buffer against this environmental drain.
+Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/Lament static that drains composure over time simply by being in the corridor! Marjuk's Attendant Aura, *Memorial Preservation*, provides a crucial 30% buffer against this environmental drain.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
@@ -1360,7 +1360,7 @@ At 15:30, the lights fade to cold ash gray. The Third Watch arrives:
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 2x Scriptural Stone Cenotaphs                           |
-| - Attack Affinity: Lament (85dB Sanity Screech)                     |
+| - Attack Affinity: Lament (85dB Composure Screech)                  |
 | - Weakness Affinity: Grudge (Bludgeon Fracture)                     |
 +---------------------------------------------------------------------+
 | TACTICAL ORDERS: KWON & SIM ENGAGE                                  |
@@ -1681,7 +1681,7 @@ He opens the private register of the Absolvohan project. The target is 100 tons.
 
 Day 17 concludes Batch 1 with our first full-scale **Tide Watch Ordeal**. Floor 7 (Outsider Relations) is active under Lead Ishall.
 
-Our operational objective is reaching the 0.050-ton quota while preparing our best combat squads for a multi-floor clash against a Pale-damage monstrosity.
+Our operational objective is reaching the 0.050-ton quota while preparing our best combat squads for a multi-floor clash against a Void-damage monstrosity.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
@@ -1809,7 +1809,7 @@ Director Majin establishes multi-floor GBS combat coordination:
   * The Echo of Cheonbulok unleashes `[Subterranean Ash Tidal Wave]` (Base 10 + 2 Lots = 14 Power).
   * Specialist Tak's `[Fury Blade High-Heat Thrust]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Tak WINS THE CLASH (15 vs 14).
-    * Tak's molten blade drives through the leviathan's ash mantle, canceling the tidal wave and dealing **45 Grudge/Pale damage** with +28 Stagger!
+    * Tak's molten blade drives through the leviathan's ash mantle, canceling the tidal wave and dealing **45 Grudge/Void damage** with +28 Stagger!
   * Zyrak thrusts the Extraction Lance into the fracture point, siphoning 30 Han-Energy and dealing 32 kinetic damage.
   * Hong and Jo unleash combined Lament and Void beams from Nodes 5 and 6, overwhelming the entity's multi-spectral defenses!
 

@@ -62,7 +62,7 @@ Alert Level 2. Level 3+ team. Area-effect M.A.W. for fragments. Target the growt
 | **Han Pressure [ATK]** | 15–30 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[15–30 Grudge (HP) -> 15 Lament (Sanity) -> 15 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[15–30 Grudge (HP) -> 15 Lament (Composure) -> 15 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Spore Loom (Machine, Greater-grade)
 
@@ -74,7 +74,7 @@ Alert Level 2. Level 3+ team. Area-effect M.A.W. for fragments. Target the growt
 | **Han Pressure [ATK]** | 20–35 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It weaves a dense aerial web of infectious mycelial filaments that entangles movement and infects armor seals with encroaching decay. **[20–35 Grudge (HP) -> 20 Lament (Sanity) -> 20 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It weaves a dense aerial web of infectious mycelial filaments that entangles movement and infects armor seals with encroaching decay. **[20–35 Grudge (HP) -> 20 Lament (Composure) -> 20 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Greater-grade)
 
@@ -86,7 +86,7 @@ Alert Level 2. Level 3+ team. Area-effect M.A.W. for fragments. Target the growt
 | **Han Pressure [ATK]** | 25–40 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[25–40 Grudge (HP) -> 25 Lament (Sanity) -> 25 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[25–40 Grudge (HP) -> 25 Lament (Composure) -> 25 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia

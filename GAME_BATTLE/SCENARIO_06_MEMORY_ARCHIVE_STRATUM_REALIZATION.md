@@ -7,7 +7,7 @@
 |     TACTICAL REALIZATION RECORD: BATTLE-006-STRATUM-REALIZATION     |
 +---------------------------------------------------------------------+
 | OPERATIONAL ARCHIVE : Gieok Jeojangso (The Memory Archive)          |
-| STRATUM DESIGNATION : Floor 04 — Floor of Unexpressed Grief         |
+| STRATUM DESIGNATION : Stratum 04 — The Unexpressed Grief            |
 | SECTOR COORDINATE   : -2,800m Sub-Alpha Monolith Root Nexus         |
 | ADVERSARY SOVEREIGN : The Weeping Statue (Autonomous Lament Core)   |
 | OPERATING UNIT      : Secretary Seiyon & Mnemonic Suture Cadre      |
@@ -348,7 +348,7 @@ Secretary Seiyon retrieves the glowing Memory Leaf from the center of the shatte
 
 "Rest now," Seiyon whispers to the petrified monument. "Your grief is recorded. None of it was in vain."
 
-At the far end of the chamber, the massive iron blast doors of Node `[N10]` groan and slowly grind open, revealing the descending spiraling stairs to **Floor 05: The Floor of Broken Mirrors**.
+At the far end of the chamber, the massive iron blast doors of Node `[N10]` groan and slowly grind open, revealing the descending spiraling stairs to **Stratum 05: The Broken Mirrors**.
 
 ---
 

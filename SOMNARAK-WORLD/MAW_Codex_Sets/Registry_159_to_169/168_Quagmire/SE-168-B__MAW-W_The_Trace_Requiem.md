@@ -43,7 +43,7 @@
 
 Appearance : A handheld cast-brass thurible suspended by three delicate chains, pierced with floral filigree that releases thin, continuous curls of fragrant dried lavender incense.
 
-The aromatic smoke creates an emotional oasis that shields the bearer's sanity from horrific visual anomalies. In close quarters, swinging the heated brass bowl delivers painful blunt impacts.
+The aromatic smoke creates an emotional oasis that shields the bearer's composure from horrific visual anomalies. In close quarters, swinging the heated brass bowl delivers painful blunt impacts.
 
 ## CORE STATISTICS
 

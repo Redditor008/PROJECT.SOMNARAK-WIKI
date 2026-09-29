@@ -702,7 +702,7 @@ Jisoo knelt by the water's edge, recording the mission log into the life-ballast
 - **Oxygen Reserve:** 81.4%
 - **Hydraulic Cartridges Remaining:** 67 / 72
 - **Cranial Silver Integrity:** 94%
-- **Squad Sanity Average:** +34 SP (Optimal)
+- **Squad Composure Average:** +34 SP (Optimal)
 
 "We expended twenty-six minutes of life support in combat," Jisoo reported, looking up at Yeonhwa. "We have sufficient ballast margin to push directly into Strata 2 without resurfacing."
 

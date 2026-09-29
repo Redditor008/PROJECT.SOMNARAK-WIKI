@@ -78,7 +78,7 @@ Level 3+ with M.A.W.
 
 ### The Mourner (Humanoid, Greater-grade)
 
-**Physical Form:** Humanoid — A shrouded humanoid whose veils are sodden membrane, face hidden, humming a dirge that frays the sanity of all who hear it.
+**Physical Form:** Humanoid — A shrouded humanoid whose veils are sodden membrane, face hidden, humming a dirge that frays the composure of all who hear it.
 
 | Stat | Value |
 |---|---|

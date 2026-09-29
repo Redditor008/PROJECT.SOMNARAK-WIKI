@@ -1378,7 +1378,7 @@ Shift parameters initialized for Day 92. Daily quota advances to **0.450 tons** 
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 
-Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
+Deployment roster for Floor 4 (Training & Composure) and Floor 6 (Forge & Ballast):
 
 ```text
 +---------------------------------------------------------------------+
@@ -1403,7 +1403,7 @@ Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
 +---------------------------------------------------------------------+
 | Lead Aura           | Ayshuk: Clarity Matrix                        |
 | | (+15% SP Damage)                                                  |
-| | Absorption & Sanity)                                              |
+| | Absorption & Composure)                                           |
 +---------------------------------------------------------------------+
 ```
 
@@ -1812,7 +1812,7 @@ Shift parameters initialized for Day 97. Daily collection target peaks at **0.52
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 
-Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
+Deployment roster for Floor 4 (Training & Composure) and Floor 6 (Forge & Ballast):
 
 ```text
 +---------------------------------------------------------------------+

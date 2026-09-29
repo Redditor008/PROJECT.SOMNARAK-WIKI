@@ -65,7 +65,7 @@ Sorrow Entities are categorized into five **Risk Tiers** representing the severi
 
 ## 2 Behavior
 
-Interaction with Sorrow Entities is governed by their **orange-and-blue morality**. An entity does not act out of conventional malice, benevolence, or sanity; its motives are tethered entirely to the core trauma it embodies. A creditor entity will relentlessly demand repayment, an avian entity will obsessively enforce surveillance, and an abandoned doll will weep until its seams tear.
+Interaction with Sorrow Entities is governed by their **orange-and-blue morality**. An entity does not act out of conventional malice, benevolence, or composure; its motives are tethered entirely to the core trauma it embodies. A creditor entity will relentlessly demand repayment, an avian entity will obsessively enforce surveillance, and an abandoned doll will weep until its seams tear.
 
 Genuine emotional bonds between handlers and sorrows are impossible. What appears to be affection or obedience is merely an entity's reaction to having its intrinsic ritual entertained. Handlers who attempt to reason with or reform a sorrow invariably suffer psychological collapse or violent dismemberment.
 

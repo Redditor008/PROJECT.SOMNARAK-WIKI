@@ -241,7 +241,7 @@ All overland tactical combat encounters execute across the standardized 10-node 
 | - Slag Absorption: Cheonbulok gear absorbs 30% thermal/fire damage. |
 | ------------------------------------------------------------------- |
 | P2: PANIC / COMPOSURE (SANDSTORM DELIRIUM & ACOUSTIC GROUNDING)     |
-| - Composure Gauge (0-50 SP): Measures sanity against howling dust   |
+| - Composure Gauge (0-50 SP): Measures nerve against howling dust   |
 |   winds.                                                            |
 | - Sandstorm Delirium (< 15 SP): Operative suffers vertigo, -3       |
 |   Clash.                                                            |
@@ -306,7 +306,7 @@ All overland tactical combat encounters execute across the standardized 10-node 
 3. **[Arc 3: Arrival at Cheonbulok](Arc_3_Arrival_at_Cheonbulok.md):** Entering the volcanic caldera of Cheonbulok, Kael fights in the gladiatorial Battle Pits against Slag Champion Barok to earn an audience with the Furnace Keepers.
 4. **[Arc 4: The Furnace's Secret](Arc_4_The_Furnaces_Secret.md):** Entering the cracking core of the Great Furnace, Kael and Hwaran confront the agonizing grief of a dying city and rescue 400 fleeing Ash Walkers.
 5. **[Arc 5: The Return](Arc_5_The_Return.md):** Escorting the massive refugee convoy back toward Somnarak, the Caravan repels an ambush by the Desolate Sand-Corsairs, establishing the first permanent trade route.
-6. **[Arc 6: The Mugeukji Attempt](Arc_6_The_Mugeukji_Attempt.md):** The Caravan ventures north to contact Mugeukji, confronting the horrifying sensory null field of the Archon of the Void before executing a strategic withdrawal to preserve the crew's sanity.
+6. **[Arc 6: The Mugeukji Attempt](Arc_6_The_Mugeukji_Attempt.md):** The Caravan ventures north to contact Mugeukji, confronting the horrifying sensory null field of the Archon of the Void before executing a strategic withdrawal to preserve the crew's composure.
 
 ---
 

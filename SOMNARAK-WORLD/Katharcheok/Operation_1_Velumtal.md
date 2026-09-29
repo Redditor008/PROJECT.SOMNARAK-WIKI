@@ -211,7 +211,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 | - Primary Armament : Industrial Pneumatic Sledgehammer (Heavy       |
 |   Bludgeon)                                                         |
 | - Defense Matrix : Counterfeit Veil Cloak & Vapor Shroud            |
-|   (Evasion/Pale)                                                    |
+|   (Evasion/Void)                                                    |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SECC-019):                               |
 | - Entity HP Pool   : 2,400 HP | Posture Pool: 180/180               |

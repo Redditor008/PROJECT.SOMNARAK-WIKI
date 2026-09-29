@@ -205,7 +205,7 @@ Every encounter throughout the seven subterranean descents operates under the **
 | - Primordial Resonator: Sora Silver Chime nullifies psychic miasma. |
 +---------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (DEPTH CLAUSTROPHOBIA & SANITY ANCHOR)        |
-| - Composure (SP): Operative sanity against depth terror (0 to 50 SP |
+| - Composure (SP): Operative nerve against depth terror (0 to 50 SP  |
 | - Panic Meltdown: Dropping below 10 SP triggers emotional fracture. |
 | - Mnemonic Recall Needles: Sora and Jisoo restore +15 to +20 SP.    |
 +---------------------------------------------------------------------+

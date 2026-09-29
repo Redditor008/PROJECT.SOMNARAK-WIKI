@@ -497,7 +497,7 @@ The battle for the Black Cages was joined.
   * Handler Soojin (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Leaded Sanctuary Ward: Vacuum Dome]` (3 AP) enclosing the squad and slave holding pens.
   * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, locking his Obsidian shield in front of the gladiator cages.
   * Auditor Yuna (Speed 7 -> 4 AP): Hacks the arena electrical grid at Node 06, cutting off all torture voltage feeds (2 AP).
-  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive sanity.
+  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive composure.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the heavy cage padlocks (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-102 unleashes `[Razor Iron Storm: Chained Frenzy]` (Base 23 + 2 Lots = 33 Power, Area Gash/Grudge).

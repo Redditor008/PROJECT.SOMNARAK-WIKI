@@ -246,7 +246,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 - **Key Passive:** `[Iron Sentry]` — Absorbs 100% of single-target damage directed at adjacent allies in Range Band 1.
 
 ### 7.4 Dreamer Sora (소라 / 昭羅)
-- **Specialization:** Psychic Weaver & Mnemonic Sanity Repose.
+- **Specialization:** Psychic Weaver & Mnemonic Composure Repose.
 - **Combat Style:** Wields the **Silver Resonant Damping Cowl**, emitting harmonic soundwaves that restore operative Composure and quench feral entity rage.
 - **Key Passive:** `[Acoustic Repose]` — Winning a clash restores +15 Composure (SP) to the entire squad.
 
@@ -313,7 +313,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 | - Adamantine Bastion: Harin's armor ignores light stagger pushback. |
 | ------------------------------------------------------------------- |
 | P2: PANIC / COMPOSURE (DEPTH CLAUSTROPHOBIA & SANITY ANCHORS)       |
-| - Composure Gauge (0-50 SP): Measures sanity against depth terror.  |
+| - Composure Gauge (0-50 SP): Measures nerve against depth terror.  |
 | - Depth Claustrophobia (< 15 SP): Operative suffers panic, -2       |
 |   Clash.                                                            |
 | - Harmonic Repose: Sora's Silver cowl restores +15 SP squad-wide.   |

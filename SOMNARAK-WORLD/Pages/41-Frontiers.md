@@ -44,7 +44,7 @@ Plunging beneath Facility 01 lies the **Maw**  [아가리]  (_Agari_), a colossa
 | Descent Stratum | Depth Elevation | Geological Environment | Dominant Elemental Pressure |
 |---|---|---|---|
 | **First Descent** | -2,000 meters | Fractured limestone and ancient mine shafts | 🔴 Grudge (Kinetic/Thermal) |
-| **Second Descent** | -2,800 meters | Subterranean shale beds and weeping aquifers | 🔵 Lament (Sanity Drain) |
+| **Second Descent** | -2,800 meters | Subterranean shale beds and weeping aquifers | 🔵 Lament (Composure Drain) |
 | **Third Descent** | -3,600 meters | Iron sediment galleries and fossilized roots | 🔴 Grudge (Heavy Physical) |
 | **Fourth Descent** | -4,500 meters | Pressurized Han gas caverns; zero oxygen | 🔵 Lament (Hallucinatory) |
 | **Fifth Descent** | -5,400 meters | Liquified Han tides and crystalline reefs | ⚫ Weight (Crushing Gravity) |

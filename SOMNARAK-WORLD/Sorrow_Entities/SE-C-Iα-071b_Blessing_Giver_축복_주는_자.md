@@ -145,7 +145,7 @@ Blessing Giver cannot be safely managed by treating blessings as beneficial. Whi
 **Type:** Weapon / Healing focus | **Grade:** β | **Element:** Lament
 **Appearance:** A slim, pale hand-shaped focus that glows faintly gold when held.
 
-**Ability:** Restores HP and Sanity to a target on hit; marks the target with a residual warmth that provides +2 to all attributes for the work cycle.
+**Ability:** Restores HP and Composure to a target on hit; marks the target with a residual warmth that provides +2 to all attributes for the work cycle.
 **Cost:** The wielder feels a pull toward the Kind Healer chain. Extended use may result in an unsolicited blessing.
 
 ### M.A.W. Suit — The Brightened Cloak

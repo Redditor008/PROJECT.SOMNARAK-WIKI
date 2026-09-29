@@ -58,7 +58,7 @@ Core Realizations are divided across the facility's vertical strata and become a
 - **Goal:** Reach Meltdown Level VI while keeping casualties below the threshold.
 
 ### 3.2 Central Administration Meltdown (Secretary Seiyon)
-- **Handicap:** *Sensor Glitch* — Heavy visual pixelation obscures the facility display. Health and sanity gauges over specialists' heads become invisible, forcing the Warden to monitor staff by physical gait and audio cues.
+- **Handicap:** *Sensor Glitch* — Heavy visual pixelation obscures the facility display. Health and composure gauges over specialists' heads become invisible, forcing the Warden to monitor staff by physical gait and audio cues.
 
 ### 3.3 Maw's Keep Meltdown (Lead Dekan)
 - **Handicap:** *Brittle Armor* — Physical barricades weaken, and incoming 🔴 **Grudge** (physical) damage across all containment cells is amplified by 100%. Specialists require constant shield rotation.

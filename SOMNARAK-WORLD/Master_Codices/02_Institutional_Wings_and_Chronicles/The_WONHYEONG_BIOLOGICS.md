@@ -35,7 +35,7 @@
 +-----------------------+---------------------------------------------+
 ```
 
-> *"The flesh of mankind is brittle, and the human mind is even more fragile. When a Sorrow Entity screams, bone turns to chalk and sanity turns to ash. You cannot hold a wall with shattered spines and raving madmen. The Reverie Directorate harvests the fuel; the Underworld Cleanup Descend cleans the streets; but without Won-Hyeong, there is no one left alive to pull the triggers. We do not merely heal the wound. We rewrite the biology of the wounded back to the uncorrupted Archetype."*  
+> *"The flesh of mankind is brittle, and the human mind is even more fragile. When a Sorrow Entity screams, bone turns to chalk and composure turns to ash. You cannot hold a wall with shattered spines and raving madmen. The Reverie Directorate harvests the fuel; the Underworld Cleanup Descend cleans the streets; but without Won-Hyeong, there is no one left alive to pull the triggers. We do not merely heal the wound. We rewrite the biology of the wounded back to the uncorrupted Archetype."*  
 > — High Director Baek Eun-Woo (  백은우  ), Address to the High Council of Sighs, Year 4,195
 
 ---
@@ -113,7 +113,7 @@ Won-Hyeong Biologics executes its sovereign monopoly through five strictly compa
 |                      |                      | OUTPUT                |
 +======================+======================+=======================+
 | Directorate 01       | Synthesis of psychic | Composure Ampules     |
-| Pyeongjeong-guk      | composure and sanity | (Grades I-V) &        |
+| Pyeongjeong-guk      | composure | (Grades I-V) &                   |
 |                      | stabilizers          | Anti-Distortion       |
 |                      |                      | Salves                |
 +----------------------+----------------------+-----------------------+

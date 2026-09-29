@@ -198,7 +198,7 @@
 - Kang steps into the front of Node `[N05]`, using his reinforced ballast shield to absorb the freezing brine spray.
   * Kang Roll: Speed 3 + Shield 20 = 23 vs Guardian Vomit 17.
   * Result: **Kang Blocks**. Brine spray deflected harmlessly into the water.
-- Depth Scribe Jin channels *Cryo-Stabilizing Infusion* from Node `[N01]`, restoring 25 Composure to Sora (Composure: 90 -> 105).
+- Depth Scribe Jin channels *Cryo-Stabilizing Infusion* from Node `[N01]`, restoring 25 Composure to Sora (90 -> 105).
 
 #### 3. Coordinated Core Damage
 - Specialist Sora charges forward through the water into Node `[N06]`, thrusting her abyssal harpoon directly into the exposed Brine-Weeping Maw (2 AP):
@@ -226,7 +226,7 @@
   * Water Resonance Multiplier: +2 Coin Power!
   * Direct Void Damage: 95 * 2.0x = 190 True Damage!
   * Weeping Maw HP: 730 -> 540 / 1,000 -> **MAW RUPTURED!**
-  * Composure Drain: -80 Composure Points!
+  * Composure Drain: -80 Points!
   * **COMPOSURE POOL HIT: 50 - 80 = 0 POINTS!**
 
 #### 3. Terminal Meltdown Trigger

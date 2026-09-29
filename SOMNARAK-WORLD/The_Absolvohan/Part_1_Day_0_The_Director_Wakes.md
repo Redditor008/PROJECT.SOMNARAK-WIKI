@@ -384,7 +384,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 - **Clash & Parry Resolution (Node 02 to Node 03)**:
   * Kim locks his heavy shield into the floorplates, engaging `[Directional Guard Absorption]`:
     * Shield Absorption value: 14 Points.
-    * Incoming damage: 13 Pale damage. The shield completely absorbs the acoustic blast, nullifying all HP loss!
+    * Incoming damage: 13 Void damage. The shield completely absorbs the acoustic blast, nullifying all HP loss!
     * Kim counter-strikes with `[Baton Bash]`, dealing 16 Grudge damage.
   * **Park's Range Advantage Strike (Node 04 to Node 03)**:
     * Firing from Range Band 2, Park avoids melee clash interference.
@@ -464,7 +464,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
   * **Specialist Kim (Speed 5 -> 3 AP)**:
     * Reacts instantly to protect Park. Kim spends 2 AP to drop into `[Bulwark Vanguard Stance]`, projecting his massive enforcer shield directly over Node 03.
     * *Protection Mechanic:* Kim absorbs 80% of the acoustic radial pulse intended for Node 03.
-    * The pulse slams into Kim's armor. His shield absorbs 14 damage; Kim sustains 4 minor Pale chip damage (HP: 34/38). His Posture meter absorbs 22 strain (Posture: 38/60).
+    * The pulse slams into Kim's armor. His shield absorbs 14 damage; Kim sustains 4 minor Void chip damage (HP: 34/38). His Posture meter absorbs 22 strain (Posture: 38/60).
   * **Specialist Park (Speed 8 under Surge -> 4 AP)**:
     * Completely shielded behind Kim's bulk, Park sustains zero damage.
     * Spends 2 AP to circle behind the entity, planting his stun baton against the central resonator crystal.
@@ -535,7 +535,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |          COMBAT PHASE 01 RESOLUTION (PHASE-END MACRO-TICK)          |
 +---------------------------------------------------------------------+
 | 1. ENVIRONMENTAL CHECK : Meltdown Level I cleared across Sector 1.  |
-| 2. STATUS EQUILIBRIUM : Auxiliary sanity stabilized; Kim & Park     |
+| 2. STATUS EQUILIBRIUM : Auxiliary composure stabilized; Kim & Park  |
 | uninjured.                                                          |
 | 3. CONTAINMENT AUDIT   : First Watch Ordeal suppressed in 6 turns.  |
 | 4. HAN REAGENT YIELD   : +0.005 Tons crystallized Han harvested.    |

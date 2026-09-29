@@ -49,7 +49,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 8–18 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[8–18 Grudge (HP) -> 8 Lament (Sanity) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[8–18 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Spore-Heap (Non-Crystal, Fragment-grade)
 
@@ -61,7 +61,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 13–23 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It puffs, and a cloud of invasive spores takes root in whatever lungs it reaches. **[13–23 Grudge (HP) -> 13 Lament (Sanity) -> 13 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It puffs, and a cloud of invasive spores takes root in whatever lungs it reaches. **[13–23 Grudge (HP) -> 13 Lament (Composure) -> 13 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Fragment-grade)
 
@@ -73,7 +73,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 18–28 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[18–28 Grudge (HP) -> 18 Lament (Sanity) -> 18 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[18–28 Grudge (HP) -> 18 Lament (Composure) -> 18 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ### The Bloom-Bearer (Humanoid, Fragment-grade)
@@ -86,7 +86,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 12–20 per hit · Mixed |
 | **Spawn Count** | 2 |
 
-**Ability:** It bursts a pustule, and a spray of spores takes root in nearby lungs. **[12–20 Grudge (HP) -> 12–20 Lament (Sanity) -> 12–20 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts a pustule, and a spray of spores takes root in nearby lungs. **[12–20 Grudge (HP) -> 12–20 Lament (Composure) -> 12–20 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Slime (Amorphous, Fragment-grade)
 
@@ -98,7 +98,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 10–16 per hit · Mixed |
 | **Spawn Count** | 1 |
 
-**Ability:** It washes over, and the digestive slime begins to break down whatever it touches. **[10–16 Grudge (HP) -> 10–16 Lament (Sanity) -> 10–16 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** It washes over, and the digestive slime begins to break down whatever it touches. **[10–16 Grudge (HP) -> 10–16 Lament (Composure) -> 10–16 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### Spore-Gnats (Swarm, Fragment-grade)
 
@@ -110,7 +110,7 @@ Standard response team, Level 2+ personnel.
 | **Han Pressure [ATK]** | 5–8 per hit · Mixed |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They swarm, and a fog of spores seeds everything that breathes. **[5–8 Grudge (HP) -> 5–8 Lament (Sanity) -> 5–8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
+**Ability:** They swarm, and a fog of spores seeds everything that breathes. **[5–8 Grudge (HP) -> 5–8 Lament (Composure) -> 5–8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia

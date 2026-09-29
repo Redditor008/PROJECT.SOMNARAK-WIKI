@@ -74,13 +74,13 @@ How **dangerous** the entity is — the severity of its pressure and the scale o
 
 The kind of pressure the entity exerts. Element determines damage type and resistance.
 
-| Element | Color | Pressure Type |
-|---------|-------|---------------|
-| **Lament** | Deep Blue | Sanity / composure pressure |
-| **Grudge** | Crimson | HP / body pressure |
-| **Void** | Pale White | Percentage pressure (1 unit = 5% Max HP) |
-| **Weight** | Black | Both HP and sanity pressure |
-| **Mixed** | Cycles all four | Rotates through every type over time |
+| Element | Pressure Type |
+|---------|---------------|
+| **Lament** | Composure pressure |
+| **Grudge** | HP / body pressure |
+| **Void** | Percentage pressure (1 unit = 5% Max HP) |
+| **Weight** | Both HP and composure pressure |
+| **Mixed** | Cycles all four; rotates through every type over time |
 
 ### Manifestation
 
@@ -213,11 +213,11 @@ Categories: **Debuff**, **Attack**, **Heavy**, **Ultimate**. Each move's damage 
 
 Damage is typed by element and shown in color-coded stat blocks:
 
-- **Lament** — sanity-type pressure
+- **Lament** — composure-type pressure
 - **Grudge** — HP-type pressure
 - **Void** — percentage pressure (`1 = 5% Max HP`)
-- **Weight** — applies to both HP and sanity
-- **Mixed** — cycles all four types in order (HP → Sanity → Both → %) over 8 seconds, 2 seconds per type
+- **Weight** — applies to both HP and composure
+- **Mixed** — cycles all four types in order (HP → Composure → Both → %) over 8 seconds, 2 seconds per type
 
 ### Battle Phases & Consequences
 

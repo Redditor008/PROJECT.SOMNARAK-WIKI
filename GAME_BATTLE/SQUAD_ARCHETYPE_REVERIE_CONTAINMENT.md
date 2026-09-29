@@ -68,7 +68,7 @@
   * *Crushing Basalt Blow (2 AP • Band 1 • Base 24):* Heavy maul smash dealing 45 Bludgeon damage and 15 Posture strain to the target limb.
 - **Structural Passive (Steadfast Bedrock):** The Vanguard Shield is completely immune to forced displacement and node knockback. Grants all adjacent allies +2 Clash Power when defending against area attacks.
 
-### 2.2 Operative 2: The Acoustic Siphon (Frequency Controller & Sanity Healer)
+### 2.2 Operative 2: The Acoustic Siphon (Frequency Controller & Composure Healer)
 - **Designated Callsign Archetype:** Frequency Navigator Seol-A / Ayshuk's Siphon
 - **Tactical Role:** Acoustic Counter-Harmonics, Squad Composure Restoration, and Posture Disruption
 - **Base Attributes:** Base Speed 5 (Speed Band 5-7) • Max HP 135 • Composure 130 • Max Posture 90
@@ -167,7 +167,7 @@
   * **Stagger Proc 1** triggers, canceling the entity's remaining Action Slots for Turn 03.
 - **Turn 04 (Squad Recovery & Phase-Shift Interception):**
   * The entity recovers and enters Phase 2 (aggressive stance shift).
-  * Acoustic Siphon casts *Mnemonic Composure Pulse*, restoring squad sanity to 100%.
+  * Acoustic Siphon casts *Mnemonic Composure Pulse*, restoring squad composure to 100%.
   * Cryo-Anchor fires *Sub-Zero Cryo-Shot*, neutralizing the entity's Phase 2 speed bonus.
 - **Turn 05 (Core Exposure & Secondary Rupture):**
   * Vanguard Shield absorbs hostile counter-attacks via *Directional Interception*.

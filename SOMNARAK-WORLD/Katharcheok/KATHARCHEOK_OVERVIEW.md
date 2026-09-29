@@ -249,7 +249,7 @@ The UCD Strike Cadre brings together six specialists whose personal lives have b
   * *Passive: [Forensic Audit]*: Hitting an enemy analyzes their financial and biological value. For every 10% HP the target loses, all allies gain +5% damage against them.
   * *Skill 1: [Debt Foreclosure]*: Fires a focused beam of golden-white resonance light, dealing 190 Skewer damage and locking the target's highest-damage skill for 1 turn.
   * *Skill 2: [Asset Freeze]*: Discharges an electromagnetic wave that freezes the target's ammunition feed and reduces their Speed to 1.
-  * *Climax Overdrive: [Audit of Absolute Foreclosure]* (Cost: 25 SP): Yuna projects a colossal holographic balance ledger across the arena. All enemies suffer 500 pure Pale resonance damage. Any active shielding on enemies is immediately converted into cash-back healing distributed equally to all squad members.
+  * *Climax Overdrive: [Audit of Absolute Foreclosure]* (Cost: 25 SP): Yuna projects a colossal holographic balance ledger across the arena. All enemies suffer 500 pure Void resonance damage. Any active shielding on enemies is immediately converted into cash-back healing distributed equally to all squad members.
 
 ### 4.3 Investigator Minho (민호) — "The Memory Hound"
 - **Institutional Background:** Chief Forensic Archivist, Keepers Archive (Mnemonic Recovery Directorate). Minho is the specialist who personally sifted through hundreds of discarded memory vials recovered from syndicate crime scenes. He carries the cognitive weight of thirty-two erased citizens inside his own augmented neural cortex, searching tirelessly for their rightful owners so he can restore their stolen lives.

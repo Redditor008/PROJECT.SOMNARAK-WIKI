@@ -53,7 +53,7 @@ As specialists perform routine containment work, the lattice accumulates strain:
 Ordeals embody distinct philosophical and elemental catastrophes:
 - **GREY (🔴 Grudge):** Mechanical automatons, clockwork grinders, and industrial drones dealing physical kinetic damage.
 - **RED (🔴 Grudge / Bleed):** Visceral flesh mutations, swarming vermin, and predatory beasts.
-- **VIOLET (🔵 Lament / ⚪ Void):** Alien obelisks, acoustic bells, and hovering monoliths projecting heavy sanity-draining auras.
+- **VIOLET (🔵 Lament / ⚪ Void):** Alien obelisks, acoustic bells, and hovering monoliths projecting heavy composure-draining auras.
 - **BLACK (⚫ Weight):** Tectonic crushers and gravitational monoliths damaging both HP and SP simultaneously.
 - **PALE (⚪ Void):** Spectral executioners and grim reapers dealing conceptual percentage damage against Maximum HP.
 

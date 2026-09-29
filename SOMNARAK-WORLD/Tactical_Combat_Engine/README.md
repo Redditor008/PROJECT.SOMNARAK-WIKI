@@ -113,7 +113,7 @@ Every operative and entity possesses innate passives derived from their biologic
 - **Composure Pool (0 to 100):** Represents neurological and psychological resilience against acoustic Han frequencies.
 - Taking Lament or Void damage drains Composure directly.
 - **Panic Threshold (Composure <= 25):** Operative suffers accuracy penalties, speed reductions, and cannot execute advanced skills.
-- **Composure Meltdown (Composure = 0):** The operative suffers complete cognitive breakdown. They are incapacitated for 1 turn, drop all defensive stances, and take 100% vulnerability to all damage types.
+- **Composure Meltdown (Pool = 0):** The operative suffers complete cognitive breakdown. They are incapacitated for 1 turn, drop all defensive stances, and take 100% vulnerability to all damage types.
 
 ### 4.3 Pillar 3: Parry / Protection (P3)
 - When two opposing units target each other within mutual range, a **Clash Resolution** occurs.

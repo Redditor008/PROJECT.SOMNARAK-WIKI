@@ -76,7 +76,7 @@ Harvested Lumen sustains the facility's life-support grid:
 - **The Healing Generator:** Continuously draws 40 LU per hour to project restorative fields (6 HP/SP base, 12 HP/SP upgraded) into departmental Command Rooms.
 - **Containment Airlocks:** Requires 15 LU per cell to maintain high-pressure electromagnetic seals against breaching horrors.
 - **Cognition Filter:** Consumes 80 LU continuously to project the protective holographic filter over the [Echo-Cores](14-Echo-Cores.md).
-- **Grid Shortages:** If cell overloads expire or entities drain energy, facility lights flicker into brownouts, lowering specialist sanity recovery by 50%.
+- **Grid Shortages:** If cell overloads expire or entities drain energy, facility lights flicker into brownouts, lowering specialist composure recovery by 50%.
 
 ## 6 The Absolvohan Battery and the 1,778 Cycles
 

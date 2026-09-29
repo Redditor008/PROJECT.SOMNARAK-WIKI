@@ -308,7 +308,7 @@ Every combatant in Somnarak balances two internal psychological gauges:
    - Represents the accumulation of ambient and manifested Han-sorrow.
    - *For Specialists*: Reaching 100% causes **Cognitive Fracture**—the agent succumbs to overwhelming grief, mutating or attacking allies indiscriminately.
    - *For Sorrow Entities*: Reaching 100% triggers **Berserk Overdrive**, unlocking lethal multi-target attacks and stripping all stagger vulnerabilities.
-2. **Mental Composure / Sanity Points (SP: -45 to +45)**:
+2. **Mental Composure Points (SP: -45 to +45)**:
    - Measures operational clarity and emotional grounding.
    - High SP (+15 to +45): Greatly improves Clash lot cast odds (up to 95% marked rate).
    - Low SP (-15 to -44): Causes panic, misses, and erratic target redirection.

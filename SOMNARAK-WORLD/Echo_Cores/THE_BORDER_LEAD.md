@@ -981,7 +981,7 @@ The elongated blade forms a single monolithic span of sorrow-forged alloy, taper
 
 #### Attack Resolution
 
-A normal hit resolves the two damage components separately. The selected target receives 100% of the **6–16 Black direct damage** and each **2 Crimson Tick**. If the thrust pierces a second target, that target receives 70% of each component. A third and final target receives 50% of each component. The direct strike and ten-second Tick sequence are not added together before falloff.
+A normal hit resolves the two damage components separately. The selected target receives 100% of the **6–16 Weight direct damage** and each **2 Dire Ticks**. If the thrust pierces a second target, that target receives 70% of each component. A third and final target receives 50% of each component. The direct strike and ten-second Tick sequence are not added together before falloff.
 
 | Target | Multiplier | Direct Weight | Grudge Tick |
 |---|---:|---:|---:|

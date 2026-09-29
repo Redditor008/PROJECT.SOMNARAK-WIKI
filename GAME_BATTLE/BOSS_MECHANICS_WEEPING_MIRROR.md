@@ -213,7 +213,7 @@ The encounter transitions across three distinct tactical phases governed by the 
 |---|---|---|---|
 | **Heavy Kinetic Breaker** | Piston Maul Specialist (Speed 4+) | Grade 4 Bludgeon / Weight | Exploits 1.8x Weight vulnerability on Glass Core |
 | **Fortress Anchor** | Heavy Shield Warden (Posture 150+) | Grade 4 Bastion Plate | Intercepts *Mercury Siphon Jet*; anchors midline |
-| **Clarity Harmonizer** | Acoustic Controller (Clarity 120+) | Grade 4 Acoustic Needle | Dispels *Gaze of the Unwept*; restores squad Sanity |
+| **Clarity Harmonizer** | Acoustic Controller (Clarity 120+) | Grade 4 Acoustic Needle | Dispels *Gaze of the Unwept*; restores squad Composure |
 | **Precision Marksman** | Anti-Material Sniper (Band 4) | Grade 4 Piercing Rifle | Destroys Gilded Frame and Siphon Spout from afar |
 
 ---

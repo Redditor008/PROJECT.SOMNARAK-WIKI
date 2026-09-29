@@ -519,7 +519,7 @@ The kiln exploded into combat.
   * Handler Soojin (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Leaded Barrier Ward: Vacuum Sphere]` (3 AP) enclosing the squad and hostage berths.
   * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, locking his Obsidian shield in front of the holding cells.
   * Auditor Yuna (Speed 7 -> 4 AP): Hacks the abattoir steam vents at Node 06, dumping hydraulic pressure (2 AP).
-  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive sanity.
+  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive composure.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the captive cell latch pins (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-120 unleashes `[Grudge Fury Deluge: Scalding Blood]` (Base 22 + 2 Lots = 32 Power, Area Fire/Grudge).

@@ -195,7 +195,7 @@ Appearance : A narrow thrusting bodkin fashioned from an antique branched brass 
 
 A constant thread of pale violet smoke coils around the point without heat or ignition. Upon target acquisition, the bodkin's tip flares with cold flame that marks the target's shadow across twenty paces.
 
-**Ability:** *Soul-Seeker Conflagration* — Unleashes tracking purple flame wisps across Range 4 (Long). The wisps home onto target weak points, bypassing cover to inflict heavy Lament damage that erodes Sanity and triggers panic buildup.
+**Ability:** *Soul-Seeker Conflagration* — Unleashes tracking purple flame wisps across Range 4 (Long). The wisps home onto target weak points, bypassing cover to inflict heavy Lament damage that erodes Composure and triggers panic buildup.
 
 **Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 

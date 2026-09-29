@@ -249,7 +249,7 @@ The forty thousand Echoes ignited in a blinding blaze of Grudge! The Hollow Knig
 |        TARGET DOSSIER: GRAND PATRIARCH CHEON & SE-C-IIIγ-490           |
 +------------------------------------------------------------------------+
 | APEX TARGET        : Grand Patriarch Cheon ('The Sunken King')         |
-| MODULAR WEAPON : Crown Scepter Weapon Arm (Heavy Bludgeon/Pale Shock)  |
+| MODULAR WEAPON : Crown Scepter Weapon Arm (Heavy Bludgeon/Void Shock)  |
 | CONTRABAND ENTITY : SE-C-IIIγ-490 'The Hollow Knight' (Rank III        |
 | Threat)                                                                |
 | ESCORT MINIONS     : Royal Guard Enforcers (x2) & Heavy Spearmen       |
@@ -336,7 +336,7 @@ The forty thousand Echoes ignited in a blinding blaze of Grudge! The Hollow Knig
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Advances through high throne arches toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Grand Patriarch Cheon unleashes `[Sovereign Cleave Slam]` (Base 17 + 2 Lots = 29 Power, Heavy Bludgeon/Pale) against Node 02.
+  * **Clash 1 (Node 02 to 05)**: Grand Patriarch Cheon unleashes `[Sovereign Cleave Slam]` (Base 17 + 2 Lots = 29 Power, Heavy Bludgeon/Void) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 19 + 2 Lots = 33 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (33 vs 29)!
     * The kinetic shield absorbs the devastating pale shockwave without buckling (`[P3: Parry/Protection]`).

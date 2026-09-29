@@ -11,7 +11,7 @@ Rather than relying on generic physical injury, damage in Somnarak is classified
 | SOMNARAK - PRESSURE AND DAMAGE PHYSICS                                 |
 +------------------------------------------------------------------------+
 | Fundamental Pressures  | Grudge - Lament - Void - Weight               |
-| Targeted Vital Gauges  | Health (HP) - Sanity (SP) - Max Vitality      |
+| Targeted Vital Gauges  | Health (HP) - Composure (SP) - Max Vitality   |
 | Multiplier Bands       | Ineffective (<0.5)- Withstood - Normal - Dire |
 | Special Mechanics      | Void Conceptual Scaling (1% Void = 5% Max HP) |
 | Mixed Pressure Rule    | Weight damages both HP and SP simultaneously  |
@@ -43,7 +43,7 @@ Every attack dealt by a [Sorrow Entity](07-Sorrow%20Entities.md), [Ordeal](10-Or
 
 ### 1.2 Lament (Blue Pressure)
 - **Korean Term:** 비탄 (  비탄  , *Bitan*)
-- **Target Gauge:** Directly depletes the operative's **Sanity Points (SP)**.
+- **Target Gauge:** Directly depletes the operative's **Composure Points (SP)**.
 - **Psychological Manifestation:** Auditory hallucinations, depressive weeping, existential despair, and sensory distortion. If SP reaches zero, the operative suffers a [Panic State](12-Specialists.md).
 - **Primary Sources:** Acoustic instruments, wailing phantoms, and BLUE Ordeals.
 
@@ -87,7 +87,7 @@ The most dangerous mechanic in Somnarak combat physics is **Void Conceptual Scal
 ## 4 Mixed Damage and Dual-Gauge Depletion
 
 ⚫ **Weight** (Black Pressure) represents a composite threat:
-- Because it drains both vital health and psychological sanity simultaneously, operatives facing ⚫ **Weight** entities face twin collapse vectors.
+- Because it drains both vital health and psychological composure simultaneously, operatives facing ⚫ **Weight** entities face twin collapse vectors.
 - An operative with high physical HP but low mental Clarity will panic from ⚫ **Weight** attacks long before their physical armor fails.
 - Effective suppression of ⚫ **Weight** threats requires equipping gear with balanced dual-resistance across both physical and mental spectra.
 

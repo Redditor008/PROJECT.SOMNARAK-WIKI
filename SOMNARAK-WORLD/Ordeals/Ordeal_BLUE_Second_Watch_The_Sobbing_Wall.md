@@ -21,7 +21,7 @@ A damp wall surface that runs with tears and emits a low continuous sobbing.
 
 ## Behavior
 
-It sobs, and the sound grinds down the sanity of all who must work near it.
+It sobs, and the sound grinds down the composure of all who must work near it.
 
 ## Suppression Protocol
 
@@ -78,7 +78,7 @@ Level 3+ with M.A.W.
 
 ### The Mourner (Humanoid, Greater-grade)
 
-**Physical Form:** Humanoid — A shrouded humanoid whose veils are sodden membrane, face hidden, humming a dirge that frays the sanity of all who hear it.
+**Physical Form:** Humanoid — A shrouded humanoid whose veils are sodden membrane, face hidden, humming a dirge that frays the composure of all who hear it.
 
 | Stat | Value |
 |---|---|

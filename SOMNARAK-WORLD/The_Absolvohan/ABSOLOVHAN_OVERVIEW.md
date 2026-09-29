@@ -148,7 +148,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 ```
 
 ### Phase 2: Days 26 to 50 — Expansion of Middle Corridors & Acoustic Strain
-- **Operational Sectors:** Activation of Floor 3 (Safety & Ballast) and Floor 4 (Training & Sanity).
+- **Operational Sectors:** Activation of Floor 3 (Safety & Ballast) and Floor 4 (Training & Composure).
 - **Daily Quota Range:** 0.100 metric tons scaling to 0.350 metric tons.
 - **Entity Threat Pool:** Hazardous Class II Sorrows and introductory Class IIIβ Sorrows.
 - **Acoustic Meltdown Engine:** Introduction of Meltdown Levels I through V. Containment cells begin exhibiting active 45-second acoustic strain bleed timers.
@@ -781,7 +781,7 @@ Every containment agent possesses four canonical attributes governing their surv
    - Governs survivability against physical Grudge impacts and environmental debris.
    - Determines the weight-bearing threshold for heavy Class III and Class IV M.A.W. armor.
 2. **Clarity (명료 / ♠):**
-   - Determines the agent's **Maximum SP** (Sanity Points).
+   - Determines the agent's **Maximum SP** (Composure Points).
    - Governs resistance to psychic Lament erosion and existential Void corrosion.
    - High Clarity prevents panic cascades during multi-floor Ordeal breaches.
 3. **Composure (침착 / ♣):**
@@ -1199,7 +1199,7 @@ When an attendant's past human trauma surges to the surface during a Realization
 
 > **Director Majin:** *"Suppression team! Focus fire on the central core! Deploy the Veil Mist Dampener!"*
 >
-> *The suppression squad fires high-frequency sonic rounds, but the ink colossus merely absorbs the shockwaves. A storm of razor-sharp pages whips through the air, severing the suppressors' weapons and lacerating their flesh. One by one, the specialists collapse into the rising pool of black ink, their sanity shattered by the suffocating weight of thirty thousand forgotten deaths.*
+> *The suppression squad fires high-frequency sonic rounds, but the ink colossus merely absorbs the shockwaves. A storm of razor-sharp pages whips through the air, severing the suppressors' weapons and lacerating their flesh. One by one, the specialists collapse into the rising pool of black ink, their composure shattered by the suffocating weight of thirty thousand forgotten deaths.*
 >
 > *The ink reaches Majin's chest. He struggles to raise his arm, but the sheer emotional gravity of the trauma pins him to the ground. Marjuk's monstrous ink face leans down, weeping black brine into Majin's eyes.*
 

@@ -79,7 +79,7 @@ Five entities within the facility lack fixed risk ranks:
 
 When a specialist enters a chamber or confronts a breaching entity, their rank is compared against the entity's risk tier:
 
-| Operative Rank vs Entity Risk | Dread Assessment | Sanity Point (SP) Penalty |
+| Operative Rank vs Entity Risk | Dread Assessment | Composure Point (SP) Penalty |
 |---|---|---|
 | Specialist Rank > Entity Risk | **Composed** | No SP loss. Operative is fully composed. |
 | Specialist Rank == Entity Risk | **Unnerved** | Minor SP drain (5% of max SP). |

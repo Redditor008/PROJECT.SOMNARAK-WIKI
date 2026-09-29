@@ -47,12 +47,12 @@ Wardens can customize trials by enabling up to 12 distinct modifiers:
 | **Hyper-Velocity** | Simulation speed locked to 1.5x minimum; pause disabled. | +35% |
 | **Hollow Armory** | Duplicate M.A.W. weapons prohibited; unique loadouts required. | +20% |
 | **Sovereign Swarm** | Guarantees at least 3 Rank V Sovereign breaches during shift. | +40% |
-| **Fragile Minds** | Operative maximum Sanity Points (SP) reduced by 30%. | +25% |
+| **Fragile Minds** | Operative maximum Composure Points (SP) reduced by 30%. | +25% |
 | **Starved Generators** | Healing Generators restore 0 HP/SP during active combat alerts. | +25% |
 | **Ruptured Bulkheads** | Corridors have zero blast doors; entities move 50% faster. | +30% |
 | **Ironbound Protocol** | Work can only be assigned once per entity per meltdown level. | +20% |
 | **Auditory Static** | Warning sirens muted; alarms provide zero visual notification. | +15% |
-| **Absolute Vacuum** | Pale ⚪ Void damage inflicts 10% Max HP per tick instead of 5%. | +50% |
+| **Absolute Vacuum** | Void damage inflicts 10% Max HP per tick instead of 5%. | +50% |
 
 ## 3 Endless Containment: The Wave Progression Matrix
 

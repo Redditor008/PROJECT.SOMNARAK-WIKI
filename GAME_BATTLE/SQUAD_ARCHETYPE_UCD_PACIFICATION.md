@@ -29,7 +29,7 @@
 
   The UCD doctrine discards fragile psychic wards in favor of raw kinetic dominance, rapid environment alteration, and thermal cauterization:
   1. **Heavy Breacher:** Smashes structural cover, breaches armored vault doors, and anchors the frontline corridor.
-  2. **Debt Cauterizer:** Incinerates multi-node wire traps, cleanses usury Debt Marks from allies, and stabilizes mental sanity.
+  2. **Debt Cauterizer:** Incinerates multi-node wire traps, cleanses usury Debt Marks from allies, and stabilizes mental composure.
   3. **CQB Enforcer:** Moves through narrow alleys with high Speed Bands, eliminating subordinate husks via point-blank buckshot flurries.
   4. **Harpoon Wincher:** Fires high-tensile steel cables to drag heavy constructs out of fortified stances and lock them into killzones.
 
@@ -70,7 +70,7 @@
 
 ### 2.2 Operative 2: The Debt Cauterizer (Close-Range Tactical Support & Suture Burner)
 - **Designated Callsign Archetype:** Field Medic Yuna / Needle Warren Cauterizer
-- **Tactical Role:** Debt Mark Cleansing, Wire Trap Incineration, and Field Sanity Recovery
+- **Tactical Role:** Debt Mark Cleansing, Wire Trap Incineration, and Field Composure Recovery
 - **Base Attributes:** Base Speed 5 (Speed Band 5-7) • Max HP 145 • Composure 125 • Max Posture 100
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-015 The Cauterizing Torch` (Grade 4 Piercing / Thermal Welder)

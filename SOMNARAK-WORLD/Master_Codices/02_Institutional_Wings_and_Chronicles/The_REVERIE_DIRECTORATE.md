@@ -12,7 +12,7 @@ The Reverie Directorate (R.D.) is organized into **Nine Echo-Cores** — five op
 **The Nine Echo-Cores Master Directory (Canonical Executive Registry):**
 
 | Floor / Sector | Designation & Name | True Look Effigy | Signature Equipment & Armament | Primary Han Element |
-|---|---|---|---|---|
+|---|---|---|---|
 | **Floor 1 (Spires)** | **The Director (Majin / 마진)** | Living Human (Ω-Fusion) | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) | Weight / Grudge + Lament |
 | **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Memory Leaves) | Lament + Void |
 | **Floor 2 (Maw's Keep)** | **The Containment Lead (Dekan / 데칸)** | Biomechanical Cyborg (~50%) | Living Biological Graft *The Scaled Maw-Flesh Arm* | Grudge |
@@ -83,7 +83,7 @@ The R.D. is built **into** the Alpha Tree — not beside it, not on top of it, b
 ### The Nine Echo-Cores — Version 3 — Facility Positions & Floor Blueprints
 
 | Floor | Echo-Core Command | Facility Depth | Architectural Sector | Operational Responsibility |
-|---|---|---|---|---|
+|---|---|---|---|
 | **Floor 1** | **Director Majin & Secretary Seiyon** | Surface to -250m | The Spires / Central Spire | Executive command, Absolvohan Reserve Tap, cycle records |
 | **Floor 2** | **Containment Lead Dekan** | -250m to -500m | The Maw's Keep | Entity containment cells 01–03, Whispering Gallery, Maw monitoring |
 | **Floor 3** | **Extraction Lead Zyrak** | -500m to -750m | The Extraction Hall | M.A.W. forging vats, Han refining, 99.2% harvest efficiency |
@@ -768,12 +768,12 @@ When a personnel member is promoted or assigned to a specific role, they may rec
 
 Sorrow itself manifests across **four elemental aspects** — each attacking a different dimension of the human person and requiring specific defenses:
 
-| Element | Korean | Symbol | Nature | What It Attacks |
-|---|---|---|---|---|---|
-| **Lament** | 탄식 (Tansik) | ◆ | Deep Blue | Expressed grief that weeps, mourns, releases | **Mind** — emotional stability, willpower, composure |
-| **Grudge** | 원한 (Wonhan) | ◈ | Crimson | Suppressed resentment, bitterness, unresolved rage | **Body** — physical form, structural integrity, flesh |
-| **Void** | 공허 (Gongheo) | ◇ | Pale White | Lost sorrow, emptiness, numbness, erasure | **Soul** — identity, memory, sense of self |
-| **Weight** | 무게 (Muge) | ■ | Black | Accumulated sorrow, crushing ambient pressure | **Han** — sorrow reserves, karmic debt, structural mass |
+| Element | Korean | Symbol | What It Attacks |
+|---|---|---|---|---|
+| **Lament** | 탄식 (Tansik) | ◆ | Expressed grief that weeps, mourns, releases | **Mind** — emotional stability, willpower, composure |
+| **Grudge** | 원한 (Wonhan) | ◈ | Suppressed resentment, bitterness, unresolved rage | **Body** — physical form, structural integrity, flesh |
+| **Void** | 공허 (Gongheo) | ◇ | Lost sorrow, emptiness, numbness, erasure | **Soul** — identity, memory, sense of self |
+| **Weight** | 무게 (Muge) | ■ | Accumulated sorrow, crushing ambient pressure | **Han** — sorrow reserves, karmic debt, structural mass |
 
 ### The Elemental Interaction Cycle
 
@@ -1242,7 +1242,7 @@ Every Sorrow Entity contained within the Reverie Directorate is designated by it
    - **ω (Catastrophic):** City-threatening; near-impossible to contain physically.
 
 4. **Element (Pressure Signature & Damage Frequency):**
-   - **Lament:** Sanity, composure, and emotional weeping pressure.
+   - **Lament:** Composure and emotional weeping pressure.
    - **Grudge:** Physical body laceration, kinetic impact, and burning fury.
    - **Void:** Percentage-based existential erasure (1 unit = 5% Max HP/Soul).
    - **Weight:** Crushing gravitational burden affecting both physical HP and mental composure.
@@ -3388,7 +3388,7 @@ In advanced sorrow physics, non-living containment apparatuses are designated as
 
 ---
 
-### System 6: Pre-Fracture Panic Typology & Sanity Restoration (4대 붕괴 패닉 유형 및 제정신 회복)
+### System 6: Pre-Fracture Panic Typology & Composure Restoration (4대 붕괴 패닉 유형 및 제정신 회복)
 
 When an agent's Composure hits 0, they do not instantly undergo irreversible physical Fracture; they enter a **Pre-Fracture Panic State** dictated by their highest attribute:
 
@@ -3402,7 +3402,7 @@ When an agent's Composure hits 0, they do not instantly undergo irreversible phy
 +----------------------+-----------------------+
 | Clarity (♠ Void)     | Void Catatonia(Suicide|
 +----------------------+-----------------------+
-| Composure (♣)| Lament Weeping (Echo) |
+| Composure (♣)| Lament Weeping (Echo)         |
 +----------------------+-----------------------+
 | Resolve (♦ Weight)    | Weight Sabotage(Unlock|
 +======================+=======================+
@@ -3413,10 +3413,10 @@ When an agent's Composure hits 0, they do not instantly undergo irreversible phy
 3. **Lament Weeping (비탄 방황 / Wandering Echo — Highest Composure):** The agent runs uncontrollably through facility hallways, shrieking piercing acoustic grief that inflicts 15 Lament SP damage on every employee in rooms they pass through.
 4. **Weight Sabotage (중압 사보타주 / Containment Release — Highest Resolve):** Overwhelmed by the city's crushing burden, the agent marches methodically to the nearest containment cells and overrides emergency containment levers, liberating contained entities.
 
-#### Sanity Restoration Protocol (제정신 회복 의정서)
+#### Composure Restoration Protocol (제정신 회복 의정서)
 - Panicked operatives can be saved before they permanently Fracture.
 - Colleagues must intercept the panicked agent and strike them using **Lament or Void** M.A.W. weapons.
-- Inflicting mental damage equal to the target agent's maximum Composure purges the unvented Han buildup, restoring the agent to full sanity and stabilizing their mental gauge!
+- Inflicting mental damage equal to the target agent's maximum Composure purges the unvented Han buildup, restoring the agent to full composure and stabilizing their mental gauge!
 
 ---
 

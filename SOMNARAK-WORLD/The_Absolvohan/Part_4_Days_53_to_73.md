@@ -1643,7 +1643,7 @@ All three spires shatter before a single auxiliary is harmed! +32 RHR reagents c
 ```
 
 Attribute gains awarded:
-- **Specialist Hwang**: +5 Clarity, +4 Composure (Composure 94 achieved).
+- **Specialist Hwang**: +5 Clarity, +4 Composure (94 achieved).
 - **Specialist Song**: +4 Clarity, +3 Resolve.
 - **Specialist Bae**: +3 Resilience (Resilience 96 achieved).
 
@@ -2234,7 +2234,7 @@ The three floor leads form an unbreakable wall of lead and molybdenum across the
   * Deep Vault Echo unloads `[Harmonic Shockwave of the Before-Time]` (Base 11 + 2 Lots = 15 Power).
   * Mellda & Dekan's `[Bulwark of Molybdenum]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: The Floor Leads WIN THE CLASH (16 vs 15).
-    * The golden and dark-steel shields hold fast against the pale tide. The kinetic backlash jars the Echo's dimensional matrix, dealing **48 Weight/Pale damage** with +30 Stagger!
+    * The golden and dark-steel shields hold fast against the pale tide. The kinetic backlash jars the Echo's dimensional matrix, dealing **48 Weight/Void damage** with +30 Stagger!
   * Ishall's floating digits pierce the fracture line, unraveling its harmonic core.
 
 

@@ -255,7 +255,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Reduces mental sanity loss from allied defeats or team distress.
+**Ability:** Reduces mental composure loss from allied defeats or team distress.
 
 **Cost:** The bearer weeps softly in their sleep.
 

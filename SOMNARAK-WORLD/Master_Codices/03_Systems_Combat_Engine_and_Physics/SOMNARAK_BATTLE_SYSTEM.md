@@ -168,7 +168,7 @@ Every M.A.W.-W weapon carries unique passive traits triggered by spatial positio
 - **Heavy Ballast Poise**: Heavy and Colossal weapons ignore the first 5 incoming Stagger damage sustained each turn.
 
 #### P2: Panic (SP Mechanics, Mental Burden & Emergency Recovery)
-Sanity (SP) dictates cognitive composure. Wielding high-tier M.A.W.-W equipment places heavy psychic strain on the wielder:
+Composure (SP) dictates cognitive resolve. Wielding high-tier M.A.W.-W equipment places heavy psychic strain on the wielder:
 - **Equipment Burden Drain**: Equipping an α-to-ω M.A.W. weapon that exceeds the operative's clearance tier inflicts a passive drain of **-5 SP per turn**.
 - **Panic State Typologies**: When SP hits 0, the operative collapses into one of four Panic States:
   * *Berserk Panic*: Operative loses control, gaining free 0 AP sprint to Node 1–2 and attacking the nearest ally or enemy with maximum AP.
@@ -260,7 +260,7 @@ Every M.A.W.-W weapon carries unique passive traits triggered by spatial positio
 - **Heavy Ballast Poise**: Heavy and Colossal weapons ignore the first 5 incoming Stagger damage sustained each turn.
 
 #### P2: Panic (SP Mechanics, Mental Burden & Emergency Recovery)
-Sanity (SP) dictates cognitive composure. Wielding high-tier M.A.W.-W equipment places heavy psychic strain on the wielder:
+Composure (SP) dictates cognitive resolve. Wielding high-tier M.A.W.-W equipment places heavy psychic strain on the wielder:
 - **Equipment Burden Drain**: Equipping an α-to-ω M.A.W. weapon that exceeds the operative's clearance tier inflicts a passive drain of **-5 SP per turn**.
 - **Panic State Typologies**: When SP hits 0, the operative collapses into one of four Panic States:
   * *Berserk Panic*: Operative loses control, gaining free 0 AP sprint to Node 1–2 and attacking the nearest ally or enemy with maximum AP.
@@ -327,7 +327,7 @@ Each Sorrow Entity has a **combat behavior** based on its Coherence level, Eleme
 |---|---|---|
 | **Lament** | Emotional attacks — grief waves, sorrow overwhelming, mental breakdown | Clarity (mental resistance & perception) |
 | **Grudge** | Physical attacks — rage strikes, relentless kinetic assault, hemorrhaging | Resilience (physical endurance & armor) |
-| **Void** | Identity attacks — memory theft, reality warping, area negation | Composure (emotional control & sanity) |
+| **Void** | Identity attacks — memory theft, reality warping, area negation | Composure (emotional control & nerve) |
 | **Weight** | Pressure attacks — debt accumulation, crushing sorrow, kinetic shockwaves | Resolve (willpower & moral grounding) |
 
 ---
@@ -409,7 +409,7 @@ Not all weapons in Facility 01 are extracted M.A.W. The combat engine distinguis
 | Consequence | Effect | Duration |
 |---|---|---|
 | **Physical Injury** | Loss of HP; chassis damage; impaired movement speed | Until treated or repaired |
-| **Sanity Depletion** | Loss of SP; reduced Clarity; risk of panic | Until recovered through Flerehan/Lament |
+| **Composure Depletion** | Loss of SP; reduced Clarity; risk of panic | Until recovered through Flerehan/Lament |
 | **Sorrow Exposure** | Han absorption; progressive attribute dampening | Temporary; cleared upon sector exit |
 | **Equipment Strain** | M.A.W. wear; thermal buildup in mechanical joints | Until serviced in the forge |
 

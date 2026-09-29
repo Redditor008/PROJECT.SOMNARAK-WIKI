@@ -122,7 +122,7 @@ The Horizon Caravan crosses the Great Salt Waste toward Mugeukji, confronting co
 ## 4 Core Narrative Themes
 
 1. **Grief as Material Reality:** In Somnarak, sadness is not a passing emotional state; it is a dense, physical mineral that pools in pipes, corrodes iron beams, and forms autonomous monsters.
-2. **The Price of Structuring:** Order is never free. Every quiet evening experienced in the upper spires is bought with the blood, sanity, and disciplined vigilance of containment specialists working beneath the earth.
+2. **The Price of Structuring:** Order is never free. Every quiet evening experienced in the upper spires is bought with the blood, composure, and disciplined vigilance of containment specialists working beneath the earth.
 3. **Refusal to Erase:** The city rejects historical amnesia. Rather than attempting to obliterate past atrocities, Somnarak catalogs them, classifies them, and harnesses their memory to fuel the future.
 
 ## 5 Gallery

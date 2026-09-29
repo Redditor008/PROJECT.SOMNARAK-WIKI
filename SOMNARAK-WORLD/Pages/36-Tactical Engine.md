@@ -42,7 +42,7 @@ Every weapon in the [M.A.W. Equipment](09-M.A.W.%20Equipment.md) armory operates
 
 | Speed Classification | Attack Interval | Tactical Profile | Typical Weapon Archetypes |
 |---|---|---|---|
-| **Very Fast** | 1.0 – 1.4 seconds | Rapid chipping; rapid sanity recovery | Daggers, scalpel rigs, light pistols |
+| **Very Fast** | 1.0 – 1.4 seconds | Rapid chipping; rapid composure recovery | Daggers, scalpel rigs, light pistols |
 | **Fast** | 1.5 – 1.9 seconds | Agile skirmishing; high mobility | Rapiers, short swords, carbines |
 | **Normal** | 2.0 – 2.4 seconds | Standard balanced combat baseline | Longswords, tactical staves, rifles |
 | **Slow** | 2.5 – 2.9 seconds | Heavy impact; high stagger potential | Great axes, halberds, heavy cannons |
@@ -68,7 +68,7 @@ When an operative and an entity trade blows simultaneously:
 
 - **Kiting:** Using long-range specialists to provoke an entity into chasing them down an elevator shaft while ranged snipers fire from safety.
 - **Tank Stacking:** Placing a specialist wearing high-resistance armor (e.g. 0.4 multiplier) in front of the squad to absorb frontal cleaves.
-- **Sanity Shield Rotation:** Withdrawing an operative whose SP is low to an adjacent Command Room so the Healing Generator can restore their sanity before panic triggers.
+- **Composure Shield Rotation:** Withdrawing an operative whose SP is low to an adjacent Command Room so the Healing Generator can restore their composure before panic triggers.
 
 ## 6 Environmental Hazards: Elevator Traps and Narrow Corridors
 

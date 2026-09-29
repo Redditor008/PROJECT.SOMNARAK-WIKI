@@ -516,7 +516,7 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
   * Handler Soojin (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Leaded Sanctuary Ward: Vacuum Dome]` (3 AP) enclosing the squad and debtor holding cells.
   * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, locking his Obsidian shield in front of the debtor pens.
   * Auditor Yuna (Speed 7 -> 4 AP): Hacks the central ledger terminal at Node 06, freezing 120 shadow bank accounts (2 AP).
-  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect debtor sanity.
+  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect debtor composure.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the reinforced debtor cell doors (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIβ-015 unleashes `[Absolute Foreclosure: Gravitic Void Surge]` (Base 23 + 2 Lots = 33 Power, Area Void).

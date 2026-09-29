@@ -54,7 +54,7 @@ A specialist's effectiveness is governed by four core attributes, each trained t
 | Attribute | Korean Name | Vital Function | Trained Protocol |
 |---|---|---|---|
 | **Resilience** | 탄력 (Elasticity) | Increases maximum **Health Points (HP)**, determining physical endurance. | 🤲 **Ferrehan** (Endurance) |
-| **Clarity** | 명료 (Lucidity) | Increases maximum **Sanity Points (SP)**, determining mental fortitude. | 👁 **Viderehan** (Observation) |
+| **Clarity** | 명료 (Lucidity) | Increases maximum **Composure Points (SP)**, determining mental fortitude. | 👁 **Viderehan** (Observation) |
 | **Composure** | 침착 (Calm) | Increases work execution speed and positive resonance probability. | 💧 **Flerehan** (Lamentation) |
 | **Resolve** | 결의 (Determination) | Increases weapon attack speed and corridor sprint velocity. | ⚔ **Pugnahan** (Confrontation) |
 
@@ -62,7 +62,7 @@ Attributes progress from **Level I** (Novice) up to **Level V** (Master), with v
 
 ## 3 The Four Panic States
 
-When an operative's Sanity Points (SP) are reduced to zero by 🔵 **Lament** or ⚫ **Weight** trauma, their ego shatters, triggering an acute **Panic State**. The specific behavioral breakdown is determined by the operative's lowest primary attribute:
+When an operative's Composure Points (SP) are reduced to zero by 🔵 **Lament** or ⚫ **Weight** trauma, their ego shatters, triggering an acute **Panic State**. The specific behavioral breakdown is determined by the operative's lowest primary attribute:
 
 ### 3.1 Rampage Panic
 The specialist's survival instincts warp into predatory frenzy. Convinced their squadmates are monsters in disguise, the operative turns their M.A.W. weapon against colleagues, hunting down nearby auxiliaries and specialists.
@@ -77,7 +77,7 @@ The specialist's motor functions decouple from rational thought. Dropping their 
 The specialist experiences an irresistible compulsion to spread the facility's ruin. The operative rushes toward nearby containment units and manually disengages hydraulic airlocks, releasing dangerous sorrow entities into the hallways.
 
 ### Restoring Sane Composure
-A panicked operative is not lost permanently. Squadmates wielding weapons that deal 🔵 **Lament** (mental) or ⚪ **Void** damage can attack the panicked specialist. Instead of causing physical injury, these resonant strikes restore the victim's SP gauge. Once their SP is fully refilled, the specialist recovers their sanity and returns to duty.
+A panicked operative is not lost permanently. Squadmates wielding weapons that deal 🔵 **Lament** (mental) or ⚪ **Void** damage can attack the panicked specialist. Instead of causing physical injury, these resonant strikes restore the victim's SP gauge. Once their SP is fully refilled, the specialist recovers their composure and returns to duty.
 
 ## 4 Terror and Dread Levels
 

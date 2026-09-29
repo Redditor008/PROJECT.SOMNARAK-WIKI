@@ -2016,7 +2016,7 @@ Total daily harvest reaches **0.168 / 0.160 tons**! Quota surpassed!
 ##### Director Majin's Assessment & Authorization
 - *Choice Beta* is *The Weeping Willow* (SE-C-IIIγ-140)—a serene entity, but low energy output.
 - *Choice Gamma* is *The Maw* (SE-C-Iα-008)—already anchored in our foundation.
-- *Choice Alpha* is **The Hollow Saint** (SE-C-IIIγ-081)—a high-tier Lament/White entity capable of providing top-tier sanity regeneration gear (*Saint Robes*).
+- *Choice Alpha* is **The Hollow Saint** (SE-C-IIIγ-081)—a high-tier Lament/Hope entity capable of providing top-tier composure regeneration gear (*Saint Robes*).
 
 AUTHORIZATION LOCKED: **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Saint*)**.
 
@@ -2231,7 +2231,7 @@ Director Majin establishes Deep Vault GBS tactical parameters:
   * Final Door Echo attempts `[Chime of the Before-Time]` (Base 10 + 2 Lots = 14 Power).
   * Marjuk's `[Chrono Stasis Seal]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Marjuk WINS THE CLASH (15 vs 14).
-    * Marjuk's stasis seal encapsulates the acoustic pulse before it can detonate, reflecting 38 Pale damage back into the projection with +26 Stagger!
+    * Marjuk's stasis seal encapsulates the acoustic pulse before it can detonate, reflecting 38 Void damage back into the projection with +26 Stagger!
   * Hwang and Park deliver coordinated Void and Lament strikes from Nodes 4 and 5, destabilizing the shadow's harmonic cohesion.
 
 

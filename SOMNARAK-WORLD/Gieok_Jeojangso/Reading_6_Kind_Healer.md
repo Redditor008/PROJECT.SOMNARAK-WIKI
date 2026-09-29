@@ -404,7 +404,7 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
   * The Kind Healer dissolves into a stream of warm, golden sunlight that condenses into an ivory and jade codex: **`[Memory Leaf: The Merciful]`**!
   * Deals **630 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Memory Leaf Acquired**: `[Memory Leaf: The Merciful]` (Grants squad-wide healing on clash win and converts all received Pale damage into Composure).
+  * **Memory Leaf Acquired**: `[Memory Leaf: The Merciful]` (Grants squad-wide healing on clash win and converts all received Void damage into Composure).
   * **Descent Access**: The white linen partitions fall away, revealing massive adamantine blast doors that slide open into **Floor 07: Stratum of Origin & Awakening**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 

@@ -13,7 +13,7 @@ As the Warden of Facility 01, the player oversees a complex management simulatio
 | Core Systems Hub       | Shift Management - Containment - Combat - Grow|
 | Work Protocols         | Viderehan - Ferrehan - Flerehan - Pugnahan    |
 | Damage Pressures       | Grudge - Lament - Void - Weight               |
-| Vital Gauges           | Health Points (HP) - Sanity Points (SP)       |
+| Vital Gauges           | Health Points (HP) - Composure Points (SP)    |
 | Failure States         | Specialist Death - Panic States - Facility Col|
 +========================================================================+
 ```
@@ -74,11 +74,11 @@ When an entity breaches containment or an Ordeal appears:
 
 ## 5 Mental Trauma, Dread Levels, and Panic Resolution
 
-Specialists possess both physical Health Points (HP) and mental Sanity Points (SP):
+Specialists possess both physical Health Points (HP) and mental Composure Points (SP):
 - Taking 🔵 **Lament** or ⚫ **Weight** damage lowers SP.
 - Witnessing higher-rank entities triggers an immediate **Dread Check**, draining SP instantly.
 - If SP reaches 0, the specialist panics into one of four states: **Rampage**, **Self-Undoing**, **Drifting**, or **Sabotage**.
-- **Sanity Recovery:** Squadmates can restore a panicked ally's sanity by striking them with 🔵 Lament or ⚪ Void weapons. Once SP refills completely, the specialist returns to normal.
+- **Composure Recovery:** Squadmates can restore a panicked ally's composure by striking them with 🔵 Lament or ⚪ Void weapons. Once SP refills completely, the specialist returns to normal.
 
 ## 6 Facility Collapse and Game Over Conditions
 
