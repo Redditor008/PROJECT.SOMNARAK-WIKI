@@ -274,7 +274,7 @@ The battle for the memory of the city had begun.
 | - Stagger 1 Proc : 60% Posture Strain (132 Posture) / Sprayer Break |
 | - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger /          |
 |   Cryo-Seal)                                                        |
-| - Primary Attack : Pressurized Pale Spray & Solvent Scalpel         |
+| - Primary Attack : Pressurized Void Spray & Solvent Scalpel         |
 |   (Pale/Acid)                                                       |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SE-C-IIIγ-928 'LETHE'):                  |
@@ -349,7 +349,7 @@ The battle for the memory of the city had begun.
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the neutralization ward. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Advances through overhead drainage catwalks to Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Chief Chemist Sura unleashes `[Pressurized Pale Spray]` (Base 13 + 2 Lots = 25 Power, Corrosive) against Node 02.
+  * **Clash 1 (Node 02 to 05)**: Chief Chemist Sura unleashes `[Pressurized Void Spray]` (Base 13 + 2 Lots = 25 Power, Corrosive) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 15 + 2 Lots = 29 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (29 vs 25)!
     * The kinetic force field disperses the toxic chemical stream without a drop breaching the shield (`[P3: Parry/Protection]`).
