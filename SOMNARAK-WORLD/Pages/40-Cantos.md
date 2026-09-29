@@ -14,7 +14,7 @@ Tracing humanity's struggle against subterranean sorrow across centuries, the Ca
 | Historical Arc         | Primitive Mining -> Industrial Wings -> Ascens|
 | Epochal Divide         | Ante-Dawn (I-V) -> Dawn of Hope (VI, Year 4,23|
 | Central Theme          | Transmutation of Human Grief into Illumination|
-| Canonical Wings        | Cosmology - Chronicles - Society - Tales      |
+| Poetic Verse           | Six Translated Stanzas from Municipal Epics   |
 +========================================================================+
 ```
 
@@ -27,8 +27,9 @@ Tracing humanity's struggle against subterranean sorrow across centuries, the Ca
 - [5 Canto IV: The Nine Pillars (Forging the Echo-Cores)](#5-canto-iv-the-nine-pillars-forging-the-echo-cores)
 - [6 Canto V: The Unbroken Loom (The 1,778 Mnemonic Cycles)](#6-canto-v-the-unbroken-loom-the-1778-mnemonic-cycles)
 - [7 Canto VI: The Dawn of Hope (Supercritical Ascension)](#7-canto-vi-the-dawn-of-hope-supercritical-ascension)
-- [8 Gallery](#8-gallery)
-- [9 See also](#9-see-also)
+- [8 Thematic Synthesis and Modern Containment Philosophy](#8-thematic-synthesis-and-modern-containment-philosophy)
+- [9 Gallery](#9-gallery)
+- [10 See also](#10-see-also)
 
 ## 1 The Architecture of the Cantos Epic
 
@@ -37,30 +38,66 @@ The Cantos are divided across the great historical divide of the Somnarak world:
 - **Canto VI (Dawn of Hope & Post-Dawn):** The supercritical resonance of Year 4,238, the ignition of the Absolvohan engine, and the dispersion of purified Lumen across surface settlements.
 
 ## 2 Canto I: The Broken Soil (The Mining Era)
-- **Setting:** Primitive boreholes and early industrial excavations.
-- **Theme:** The early miners discover that black groundwater induces suicidal despair; early pioneers attempt crude iron chains to cage the first sorrow entities.
+- **Historical Era:** The early Sorrow Extraction Division (SED).
+- **Narrative Arc:** Primitive boreholes and coal pits strike underground pockets of dark water. The miners discover that prolonged contact induces weeping and madness.
+- **Poetic Verse:**  
+  > *“We dug for coal and found our mothers' tears;  
+  > The black damp whispered names we had not heard for thirty years.  
+  > When the pick struck iron, the ground began to weep,  
+  > And none who drank the groundwater could ever fall asleep.”*
 
 ## 3 Canto II: The Iron Ribs (The Rise of UCD)
-- **Setting:** Foundation of the Unified Containment Directorate.
-- **Theme:** Standardization of containment architecture, construction of heavy hydraulic blast doors, and early prototype M.A.W. weaving.
+- **Historical Era:** The Unified Containment Directorate (UCD).
+- **Narrative Arc:** The rise of industrial containment. Massive iron foundries cast heavy pneumatic doors to cage the weeping horrors. Prototype M.A.W. weaving is developed by foundryman David Karr.
+- **Poetic Verse:**  
+  > *“Bolt the door with ten-ton pins, weld the iron tight;  
+  > Grief has grown a set of horns that batter through the night.  
+  > We built the cages tall and wide, we paved the bloody floor,  
+  > And taught the screaming horrors how to wait behind a door.”*
 
 ## 4 Canto III: The Whispering Well (The Weeping Discovered)
-- **Setting:** Deep drilling into the Maw (-2,000m).
-- **Theme:** Katabagil charts the seven subterranean descents and maps the primordial river of tears: the **Weeping**.
+- **Historical Era:** The Deep Maw Expeditions.
+- **Narrative Arc:** Surveyor Jonathan Vance and pioneer Katabagil plunge thousands of meters into the chasm, discovering the subterranean source of all Han: the **Weeping**  [비탄의 강] .
+- **Poetic Verse:**  
+  > *“A river running without rain beneath the mountain's spine,  
+  > Where every droplet tasted like unharvested saline.  
+  > Vance turned his compass to the dark and heard the river call:  
+  > 'The world above is hollow; we are waiting in the fall.'”*
 
 ## 5 Canto IV: The Nine Pillars (Forging the Echo-Cores)
-- **Setting:** Construction of Facility 01.
-- **Theme:** Nine pioneering directors willingly surrender their physical mortality, embedding their human consciousness into cybernetic Echo-Cores to anchor the facility against the Maw.
+- **Historical Era:** Construction of Facility 01.
+- **Narrative Arc:** Nine municipal pioneers, led by Majin and Mellda, voluntarily surrender their biological bodies to become the cybernetic [Echo-Cores](14-Echo-Cores.md), anchoring the facility's geometry against the Maw.
+- **Poetic Verse:**  
+  > *“Nine minds cast into silver glass, nine hearts turned into stone,  
+  > To hold the walls against the pit where men must stand alone.  
+  > They gave their names to hallway wings, their blood to conduits deep,  
+  > And swore an oath that none who watch shall turn their eyes to sleep.”*
 
 ## 6 Canto V: The Unbroken Loom (The 1,778 Mnemonic Cycles)
-- **Setting:** The closed time loop beneath the Alpha Tree (Years 4,232 to 4,238).
-- **Theme:** The Warden guides specialists through 1,778 repeating shifts, harvesting precisely 0.02 tons of crystalline Han per cycle while enduring unending psychological attrition.
+- **Historical Era:** The Repeating Cycle (Years 4,232 to 4,238).
+- **Narrative Arc:** The Warden guides specialists through 1,778 repeating shifts, harvesting precisely 0.02 tons of crystalline Han per cycle while enduring unending psychological attrition.
+- **Poetic Verse:**  
+  > *“The morning siren rings the same, the ledger turns once more,  
+  > A thousand times we scrubbed the blood from off the cellar floor.  
+  > We counted crystal grain by grain until the battery shook,  
+  > And wrote the name of every corpse inside the Warden's book.”*
 
 ## 7 Canto VI: The Dawn of Hope (Supercritical Ascension)
-- **Setting:** Year 4,238 / Cycle 1,778.
-- **Theme:** The accumulated Han crystal achieves supercritical mass; the Absolvohan engine fires, shattering the time loop and illuminating the continent with golden, unyielding hope.
+- **Historical Era:** Year 4,238 / Cycle 1,778.
+- **Narrative Arc:** The accumulated Han crystal achieves supercritical mass; the Absolvohan engine fires, shattering the time loop and illuminating the continent with golden, unyielding hope.
+- **Poetic Verse:**  
+  > *“The iron ribs unlocked at last, the golden needle spun,  
+  > And out from sorrow's deepest wound arose a second sun.  
+  > The tears that drowned the ancient soil were turned to blinding light,  
+  > And all the ghosts of Somnarak walked freely through the night.”*
 
-## 8 Gallery
+## 8 Thematic Synthesis and Modern Containment Philosophy
+
+The Cantos form the ideological backbone of the modern Directorate:
+- Sorrow is not an enemy to be exterminated, but an elemental resource to be understood and distilled.
+- Every specialist deployed onto the floor is an active verse in this ongoing epic, contributing to the eternal light of the Dawn.
+
+## 9 Gallery
 
 ![The Six Cantos Illumination](https://via.placeholder.com/320x180?text=Six+Cantos+Illumination)
 ![Pioneering Mine Pits](https://via.placeholder.com/320x180?text=Pioneering+Mine+Pits)
@@ -69,7 +106,7 @@ The Cantos are divided across the great historical divide of the Somnarak world:
 *Left: illuminated manuscript of the Six Cantos; Center: early mining excavations; Right: the Dawn of Hope.*
 ---
 
-## 9 See also
+## 10 See also
 
 - [05-Chronicle](05-Chronicle.md) — master story hub and chronological narrative
 - [32-Genesis](32-Genesis.md) — cosmological origins and the Weeping

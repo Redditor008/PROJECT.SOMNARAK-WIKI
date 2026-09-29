@@ -14,37 +14,42 @@ Used extensively by the Directorate for training wardens and running containment
 | Specimen Pool          | 292 Registered Entities across 5 Risk Tiers   |
 | Training Focus         | Emergency Deployment & Unpredictable Containme|
 | Representative Pool    | Subjects - Single-Use - Channeled - Equippable|
-| Operational Mode       | Simulated Containment Drill & Warden Testing  |
+| Scenarios              | 10 Randomized Simulation Training Drills      |
 +========================================================================+
 ```
 
 ## Contents
 
 - [1 Tactical Purpose of the Randomizer](#1-tactical-purpose-of-the-randomizer)
-- [2 Specimen Selection Algorithm](#2-specimen-selection-algorithm)
+- [2 Specimen Selection Algorithm and Weighting Table](#2-specimen-selection-algorithm-and-weighting-table)
 - [3 Featured Specimen Rotations](#3-featured-specimen-rotations)
   - [3.1 Featured Subject Specimen: The Debt Eater](#31-featured-subject-specimen-the-debt-eater)
   - [3.2 Featured Single-Use Relic: The Echo Compass](#32-featured-single-use-relic-the-echo-compass)
   - [3.3 Featured Channeled Relic: The Crucible](#33-featured-channeled-relic-the-crucible)
   - [3.4 Featured Equippable Relic: The Debt Scale](#34-featured-equippable-relic-the-debt-scale)
-- [4 Warden Roulette Drills and Scenarios](#4-warden-roulette-drills-and-scenarios)
-- [5 Gallery](#5-gallery)
-- [6 See also](#6-see-also)
+- [4 Ten Randomized Tactical Training Drills](#4-ten-randomized-tactical-training-drills)
+- [5 Evaluation Rubrics and Performance Grades](#5-evaluation-rubrics-and-performance-grades)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
 
 ## 1 Tactical Purpose of the Randomizer
 
 In standard facility shifts, Wardens gradually select entities during expansion checkpoints. However, real-world crises do not permit careful planning:
 - **Emergency Scrambles:** Simulates sudden unexpected containment transfers or catastrophic multi-cell failures.
 - **Mental Agility:** Forces Wardens to immediately recall work preferences, escape counters, and M.A.W. resistance pairings without consulting manual ledgers.
+- **Cadre Versatility:** Prevents squads from over-relying on a single armor archetype.
 
-## 2 Specimen Selection Algorithm
+## 2 Specimen Selection Algorithm and Weighting Table
 
-The randomizer uses a weighted probability curve based on risk tiers:
-- **Whisper (Rank I):** 25% chance of selection.
-- **Murmur (Rank II):** 30% chance of selection.
-- **Fragment (Rank III):** 25% chance of selection.
-- **Wail (Rank IV):** 15% chance of selection.
-- **Sovereign (Rank V):** 5% chance of selection.
+The randomizer uses a calibrated probability curve:
+
+| Risk Tier | Distribution Weight | Operational Role in Drills |
+|---|---|---|
+| **Whisper (Rank I)** | 25% | Baseline stability; tests quick execution speed. |
+| **Murmur (Rank II)** | 30% | Early hazard; tests correct work-type selection. |
+| **Fragment (Rank III)** | 25% | Tactical core; tests gear resistance balancing. |
+| **Wail (Rank IV)** | 15% | High crisis; tests multi-room containment discipline. |
+| **Sovereign (Rank V)** | 5% | Catastrophic apex; tests full facility mobilization. |
 
 ## 3 Featured Specimen Rotations
 
@@ -74,14 +79,29 @@ The randomizer uses a weighted probability curve based on risk tiers:
 - **Core Guideline:** Operative carries the scale into corridors; converts Void damage into healing, but inverts physical defense.
 - **Full Article:** [30-The Debt Scale](30-The%20Debt%20Scale.md).
 
-## 4 Warden Roulette Drills and Scenarios
+## 4 Ten Randomized Tactical Training Drills
 
-Wardens undergo mandatory simulation drills:
-1. **Blind Draw Drill:** 3 random entities are injected into a training floor; the Warden must stabilize them within 5 minutes.
-2. **Pressure Inversion Drill:** Random entities dealing opposite pressures are worked alternately by a single squad.
-3. **Iron Wall Drill:** A randomly drawn Wail or Sovereign entity breaches; combat squads must subdue it before it exits the sector.
+1. **Drill A1 (Triple Whisper):** Contain 3 docile entities within 90 seconds.
+2. **Drill A2 (Dual Murmur Breach):** Intercept 2 breaching Murmurs using only starter weapons.
+3. **Drill B1 (Fragment Scramble):** Clear 4 ticking meltdown overloads across three different departments.
+4. **Drill B2 (Void Inversion):** Suppress a Void-dealing entity while wearing physical armor.
+5. **Drill C1 (Blind Containment):** Complete 5 work sessions with cell cameras disabled.
+6. **Drill C2 (The Crucible Sprint):** Channel exactly 28 seconds inside The Crucible without perishing.
+7. **Drill D1 (Wail Lockdown):** Hold a breaching Rank IV entity inside a single corridor.
+8. **Drill D2 (Panic Rescue):** Recover 3 panicked specialists using White/Lament weapons.
+9. **Drill E1 (Sovereign Trial):** Subdue a Rank V Sovereign within 4 minutes of emergence.
+10. **Drill E2 (Absolute Zero Casualties):** Harvest 500 LU with zero clerk or specialist deaths.
 
-## 5 Gallery
+## 5 Evaluation Rubrics and Performance Grades
+
+Drill outcomes are graded on response latency, casualty rates, and containment efficiency:
+- **Grade S:** Zero casualties; completed in under 75% allocated time.
+- **Grade A:** Minor SP damage; completed within standard parameters.
+- **Grade B:** Clerk casualties under 20%; all specialists survived.
+- **Grade C:** Specialist casualties sustained; crisis subdued.
+- **Grade F:** Facility collapse or complete squad wipeout.
+
+## 6 Gallery
 
 ![Tactical Roulette Wheel](https://via.placeholder.com/320x180?text=Tactical+Roulette)
 ![Emergency Dispatch Terminal](https://via.placeholder.com/320x180?text=Emergency+Terminal)
@@ -90,7 +110,7 @@ Wardens undergo mandatory simulation drills:
 *Left: tactical selection roulette; Center: emergency dispatch terminal; Right: holographic specimen preview.*
 ---
 
-## 6 See also
+## 7 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary framework
 - [08-Sorrow List](08-Sorrow%20List.md) — full 292 entities register

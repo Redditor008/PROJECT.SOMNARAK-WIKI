@@ -22,26 +22,28 @@ Entities in Somnarak are not extraterrestrial invaders or biological mutants. Th
 
 - [1 The Primordial Source: The Weeping](#1-the-primordial-source-the-weeping)
 - [2 Mnemonic Wells and Subterranean Dredging](#2-mnemonic-wells-and-subterranean-dredging)
-- [3 The Transmutation of Grief into Form](#3-the-transmutation-of-grief-into-form)
+- [3 Transmutation: The Chemistry of Sorrow and Consciousness](#3-transmutation-the-chemistry-of-sorrow-and-consciousness)
 - [4 Historical Epochs: SED, UCD, and the Directorate](#4-historical-epochs-sed-ucd-and-the-directorate)
 - [5 The Dawn of Hope and Supercritical Resonance](#5-the-dawn-of-hope-and-supercritical-resonance)
-- [6 Gallery](#6-gallery)
-- [7 See also](#7-see-also)
+- [6 Archival Doctrine: The Law of Conservation of Grief](#6-archival-doctrine-the-law-of-conservation-of-grief)
+- [7 Gallery](#7-gallery)
+- [8 See also](#8-see-also)
 
 ## 1 The Primordial Source: The Weeping
 
 Deep beneath the bedrock of the continent flows the **Weeping**  [비탄의 강]  (_Bitan-ui Gang_), a vast subterranean current formed from the accumulated tears, regrets, and unfulfilled desires of humanity across millennia:
 - The Weeping contains the complete collective unconscious of civilization.
 - When left undisturbed, its vapors seep upward as raw Han gas, causing widespread melancholy and despair in surface settlements.
-- The Reverie Directorate was founded to dam, extract, and harness this current.
+- The Reverie Directorate was founded to dam, extract, and harness this current, turning existential poison into usable illumination.
 
 ## 2 Mnemonic Wells and Subterranean Dredging
 
 To tap into the Weeping, the Directorate sank colossal boreholes known as **Mnemonic Wells**:
 - Plunging thousands of meters into the [Maw](41-Frontiers.md), these wells pump primordial grief into the facility's lower extraction chambers.
 - Under the guidance of Lead Zyrak's Extraction Hall, raw Han gas is distilled into distinct, semi-stable metaphysical archetypes.
+- Specialized resonant pumps prevent backflow, keeping toxic vapors contained within reinforced conduit shafts.
 
-## 3 The Transmutation of Grief into Form
+## 3 Transmutation: The Chemistry of Sorrow and Consciousness
 
 When Han gas interacts with human consciousness, it undergoes rapid crystallization:
 1. **The Catalyst:** A human donor or specialist projects their subconscious thoughts into the extraction alembic.
@@ -61,7 +63,14 @@ The ultimate purpose of Facility 01 was not indefinite containment, but municipa
 - Over 1,778 repeating cycles between Years 4,232 and 4,238, each 365-day shift distilled precisely 0.02 tons of crystalline Han.
 - In Year 4,238, the total accumulated mass became supercritical, igniting the **Absolvohan Engine** and birthing the **Dawn of Hope**  [희망의 여명] .
 
-## 6 Gallery
+## 6 Archival Doctrine: The Law of Conservation of Grief
+
+Directorate scientists formalized the fundamental law of emotional thermodynamics:
+- *“Grief cannot be created or destroyed; it can only be given shape, contained, and illuminated.”*
+- Attempting to destroy an entity merely forces it to dissolve back into the groundwater, reforming elsewhere in a more hostile shape.
+- True stability is achieved only through structured observation and disciplined resonance.
+
+## 7 Gallery
 
 ![The Weeping Subterranean Current](https://via.placeholder.com/320x180?text=The+Weeping+Current)
 ![Mnemonic Well Extraction](https://via.placeholder.com/320x180?text=Mnemonic+Well+Borehole)
@@ -70,7 +79,7 @@ The ultimate purpose of Facility 01 was not indefinite containment, but municipa
 *Left: artistic depiction of the subterranean Weeping; Center: Mnemonic Well extraction shaft; Right: Dawn of Hope light.*
 ---
 
-## 7 See also
+## 8 See also
 
 - [05-Chronicle](05-Chronicle.md) — master historical chronicle and narrative Cantos
 - [33-Lumen](33-Lumen.md) — the physics and refinement of extracted Han-Energy

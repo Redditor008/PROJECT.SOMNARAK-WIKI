@@ -4,7 +4,7 @@
 
 **Recent Echoes**  [최근 반향 기록]  (_Choegeun Banhyang Girok_) serves as the live municipal bulletin and archival changelog for [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
 
-This dispatch records recent operational updates within Facility 01, containment incident logs, personnel commendations, and systemic revisions to the [Sorrow Entities](07-Sorrow%20Entities.md) codex.
+This dispatch records recent operational updates within Facility 01, containment incident logs, personnel commendations, version revisions, and systemic expansions to the [Sorrow Entities](07-Sorrow%20Entities.md) codex.
 
 ```text
 +========================================================================+
@@ -13,7 +13,7 @@ This dispatch records recent operational updates within Facility 01, containment
 | Archive Activity       | Mnemonic Shift Logs & Real-Time Bulletins     |
 | Current Epoch Anchor   | Year 4,238 (Dawn of Hope) - Cycle 1,778       |
 | Facility 01 Status     | Operational Equilibrium - 9 Wings Active      |
-| Latest Patch Directive | M.A.W. Resonance Tuning & Relic Calibrations  |
+| System Versions        | Archive Patches 1.0 through 1.4 Formalized    |
 | Supervisory Board      | Reverie Directorate Archival Oversight Bureau |
 +========================================================================+
 ```
@@ -21,10 +21,10 @@ This dispatch records recent operational updates within Facility 01, containment
 ## Contents
 
 - [1 Municipal Bulletin and System Status](#1-municipal-bulletin-and-system-status)
-- [2 Chronological Archive Revisions](#2-chronological-archive-revisions)
-- [3 Containment Incident Reports](#3-containment-incident-reports)
-- [4 Personnel Commendations and Memorials](#4-personnel-commendations-and-memorials)
-- [5 Departmental Directives and Warnings](#5-departmental-directives-and-warnings)
+- [2 Chronological Archive Revisions (Patches 1.0 to 1.4)](#2-chronological-archive-revisions-patches-10-to-14)
+- [3 Detailed Containment Incident Logs](#3-detailed-containment-incident-logs)
+- [4 Personnel Commendations and Memorial Roster](#4-personnel-commendations-and-memorial-roster)
+- [5 Departmental Directives and Seasonal Warnings](#5-departmental-directives-and-warnings)
 - [6 Gallery](#6-gallery)
 - [7 See also](#7-see-also)
 
@@ -35,35 +35,45 @@ This dispatch records recent operational updates within Facility 01, containment
 - **Lumen Reserves:** Supercritical battery charged; Absolvohan engine online.
 - **Active Containment Wings:** All nine departmental floors (Spires to Gate Watch) operating at full containment status.
 
-## 2 Chronological Archive Revisions
+## 2 Chronological Archive Revisions (Patches 1.0 to 1.4)
 
-### Cycle 1,778.34 — Comprehensive Bestiary Restructuring
+### Revision 1.4 (Cycle 1,778.34) — Comprehensive Encyclopedia Overhaul
 - Standardized all 292 sorrow entities across the five canonical risk tiers (Whisper to Sovereign).
 - Implemented the strict Two-Work-Type Rule for inanimate Tool Relics (Viderehan and Ferrehan only).
 - Verified mathematical balance of the four elemental pressures across all M.A.W. defensive suits.
 
-### Cycle 1,778.21 — Ordeals Master Grid Expansion
+### Revision 1.3 (Cycle 1,778.21) — Ordeals Master Grid Expansion
 - Calibrated the 5 Colors × 4 Watches master matrix, detailing incursion timing across First Watch (Dawn) to Tide Watch (Midnight).
 - Integrated auditory siren thresholds (First to Fourth Warning Trumpets) for hallway incursion alerts.
 
-### Cycle 1,778.10 — Departmental Floor Realizations
+### Revision 1.2 (Cycle 1,778.10) — Departmental Floor Realizations
 - Formalized Core Suppression parameters for all nine Echo-Cores, outlining cognitive handicaps and permanent floor perks.
 
-## 3 Containment Incident Reports
+### Revision 1.1 (Cycle 1,777.89) — Specialist Attributes & Panic Matrices
+- Refined the four core attributes: Resilience (HP), Clarity (SP), Composure (Success), and Resolve (Speed).
+- Balanced the four distinct Panic states (Murder, Suicide, Wander, Sabotage) and white/mental recovery strikes.
+
+### Revision 1.0 (Cycle 1,775.01) — Initial Mnemonic Archive Standardization
+- Inaugural binding of the 16 Research Volumes and the 18-Section Archival Codex standard.
+
+## 3 Detailed Containment Incident Logs
 
 - **Incident #441 (Extraction Hall):** Minor Han gas backflow during high-yield refining of `SE-C-IIIβ-014 The Debt Eater`. Contained within 4 minutes with zero specialist casualties; 2 auxiliary clerks treated for mild Lament dizziness.
-- **Incident #449 (Border Watch):** Second Watch (Noon) Violet incursion manifested in Corridor 6B. Lead Mellda deployed Vanguard Squad; Ordeal neutralized with zero breach breaches recorded.
-- **Incident #452 (Deep Vault):** Temporal fluctuation detected around `SE-T-IIβ-002 The Crucible`. Stasis fields reinforced; safe channeling ceiling re-verified at 30 seconds.
+- **Incident #449 (Border Watch):** Second Watch (Noon) Violet incursion manifested in Corridor 6B. Lead Mellda deployed Vanguard Squad; Ordeal neutralized with zero breaches recorded.
+- **Incident #452 (Deep Vault):** Temporal fluctuation detected around `SE-T-IIβ-002 The Crucible`. Stasis fields reinforced; safe channeling ceiling re-verified at exactly 29 seconds.
+- **Incident #458 (Maw's Keep):** Minor hydraulic seal leakage on Cell 3A. Brute containment clamps deployed; zero physical damage sustained.
 
-## 4 Personnel Commendations and Memorials
+## 4 Personnel Commendations and Memorial Roster
 
 - **Senior Specialist Kang:** Awarded Departmental Captain Sash for Floor 6 Border Watch after 12 consecutive shifts without taking health or sanity damage.
 - **Recruit Talia:** Promoted to Rank III Senior Specialist following exemplary Pugnahan containment work with high-threat Fragment entities.
+- **Veteran Arin:** Received the *Null Shield of Redress* for holding the line against a Third Watch Dusk Ordeal.
 - **Memorial Roster:** Five auxiliary clerks honored in the facility memorial ledger following emergency containment operations during Cycle 1,777.
 
 ## 5 Departmental Directives and Warnings
 
 - **Director Majin (Spires):** Wardens are reminded to verify weapon and suit loadout affinities before dispatching operatives into unfamiliar cells.
+- **Secretary Seiyon (Central Admin):** Energy overcharge quotas must be maintained at a minimum of 110% to support surface transmission grids.
 - **Lead Xyan (Gate Watch):** Increased abyssal seismic activity reported from the lower Maw; all personnel stationed at blast doors must maintain SP above 80 points.
 
 ## 6 Gallery

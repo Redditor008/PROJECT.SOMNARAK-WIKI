@@ -24,9 +24,10 @@ To ensure consistency across 292 dossiers, archival researchers follow a rigorou
 - [2 Sections 1 through 6: Operational Baseline](#2-sections-1-through-6-operational-baseline)
 - [3 Sections 7 through 12: Tactical Dynamics and Equipment](#3-sections-7-through-12-tactical-dynamics-and-equipment)
 - [4 Sections 13 through 18: Narrative Lore and Archival Records](#4-sections-13-through-18-narrative-lore-and-archival-records)
-- [5 Archival Verification and Seam Auditing](#5-archival-verification-and-seam-auditing)
-- [6 Gallery](#6-gallery)
-- [7 See also](#7-see-also)
+- [5 Archival Review and Committee Approval Workflow](#5-archival-review-and-committee-approval-workflow)
+- [6 Archival Verification and Seam Auditing](#6-archival-verification-and-seam-auditing)
+- [7 Gallery](#7-gallery)
+- [8 See also](#8-see-also)
 
 ## 1 Standard Dossier Anatomy
 
@@ -56,6 +57,7 @@ These opening sections provide the immediate data required for routine containme
 - Clear identification of risk tiers (Whisper to Sovereign).
 - Exact energy yield (e.g. 16 LU for Fragment entities).
 - Primary damage pressure (🔴 Grudge, 🔵 Lament, ⚪ Void, or ⚫ Weight).
+- Accurate description of physical geometry to assist specialist visual confirmation upon entry.
 
 ## 3 Sections 7 through 12: Tactical Dynamics and Equipment
 
@@ -63,21 +65,30 @@ These sections govern combat, crisis handling, and resource extraction:
 - Specific conditions that cause the **Mugenhan Escape Counter** to drop.
 - Complete stat tables for extractable M.A.W. Weapons and Suits.
 - Work affinity tables detailing success rates for Viderehan, Ferrehan, Flerehan, and Pugnahan across specialist ranks I to V.
+- Progressive unlock thresholds based on accumulated positive energy boxes.
 
 ## 4 Sections 13 through 18: Narrative Lore and Archival Records
 
 The concluding sections preserve the human story behind the grief:
 - Documenting the municipal tragedies or personal bereavements that gave birth to the horror.
 - Archiving specialist logs, psychological debriefs, and commemorative testimonies.
+- Listing confirmed historical incidents, casualties, and facility repair logs.
 
-## 5 Archival Verification and Seam Auditing
+## 5 Archival Review and Committee Approval Workflow
+
+Before an entity's dossier is finalized in the master library, it passes through a 3-stage review:
+1. **Field Collation:** Containment specialists record raw work data and damage logs.
+2. **Insight Forge Appraisal:** Lead Ayshuk verifies behavioral formulas and preference percentages.
+3. **Directorate Curation:** The Central Administration Archival Board stamps the official SECC code and enters the file into the municipal registry.
+
+## 6 Archival Verification and Seam Auditing
 
 All dossiers must satisfy three strict repository checks:
 - **Geometric Symmetry:** 74-character ASCII box border alignment.
 - **Lexical Purity:** Zero foreign intellectual property terms.
 - **Historical Continuity:** Flawless alignment with the Year 4,238 / Cycle 1,778 temporal anchor.
 
-## 6 Gallery
+## 7 Gallery
 
 ![Archival Codex Template](https://via.placeholder.com/320x180?text=Codex+Template)
 ![Dossier Review Terminal](https://via.placeholder.com/320x180?text=Dossier+Review)
@@ -86,7 +97,7 @@ All dossiers must satisfy three strict repository checks:
 *Left: 18-section dossier layout blueprint; Center: archival review workstation; Right: sealed archival ledger vault.*
 ---
 
-## 7 See also
+## 8 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary hub incorporating the codex
 - [38-Classification Code](38-Classification%20Code.md) — SECC nomenclature system
