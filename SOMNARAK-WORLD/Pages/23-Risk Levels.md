@@ -1,78 +1,104 @@
-# **Risk Levels**
+# Risk Levels
 
-> *Risk is how loudly the sorrow remembers.*
+> *“Risk is how loudly the sorrow remembers.”*
 
-**Risk Levels** rank [Sorrow Entities](07-Sorrow%20Entities.md) from **Whisper** to **Sovereign**.
+**Risk Levels**  [위험 등급]  (_Wiheom Deunggeup_) classify [Sorrow Entities](07-Sorrow%20Entities.md) according to the magnitude of physical and psychological danger they pose to Facility 01, as well as the potency of the [M.A.W. Equipment](09-M.A.W.%20Equipment.md) extracted from their containment cores.
 
-**Risk Levels** rank how loudly a sorrow remembers, and the House answers with how much **Veil** it is willing to risk. The scale runs I **Whisper** (Residue, **46** dossiers) through II **Murmur** (Echo, **70**), III 🔵 **Lament** (**Fragment**, **82**), IV Wail (Entity, **79**), to V **Starless** (**Sovereign**, **10**), plus five without fixed Rank where **Hazard** and **Time** nuances override Rank, as reconciled in, and. Potency α Minor through ω Catastrophic refines.
-
-Distribution is municipal fact, not flavor. Of **292** entities, **Whisper** I holds **46** quiet rooms, **Murmur** II holds **70** murmuring halls, **Fragment** III holds **82** lamenting corridors, Entity IV holds **79** wailing Floors, **Sovereign** V holds **10** city-scale threats, and five **Hazard** and **Time** dossiers remain unfixed because their activation logic — Relic **Time** that skips, Unshaped abstraction that depends on being observed — cannot be ranked without lying. Sovereigns.
-
-**Risk** determines **Lumen** yield versus breach cost, and the House prices each **Watch** accordingly. A higher **Risk** pays more **Lumen** per successful Work — roughly 8 **Lumen** for a **Whisper** **Place** such as `SE-C-IIIβ-014 The Debt Eater` on 👁 **Viderehan**, more for a 🔵 **Lament** or Wail — but its 🌀 **Mugenhan** failure costs more **Veil** when Work is neglected or when the wrong Work-Type is assigned. The sixteen battle scenarios under gate by **Risk**, and [38-Classification Code](38-Classification%20Code.md) encodes **Risk** as Rank in SECC so that `SE-C-IIIβ-014` declares **Fragment** without opening the dossier and the House can sort its watchlist before dawn. To read **Risk** is to know, before any narrative, what the House can afford to Work that **Watch**.
-
-Rank is also retrieval time, and the city keeps that retrieval visible so that it never cuts like.gg cuts when a paragraph is unfinished. I **Whisper** (Residue, **46**) is a quiet room that a single specialist can hold with 👁 **Viderehan** for 8 LU and a single **M.A.W.** Gift that replaces the previous gift in that slot; II **Murmur** (Echo, **70**) is a murmuring hall that needs a **Floor** to remember it had walls; III 🔵 **Lament** (**Fragment**, **82**) is a lamenting corridor where the Sorrow Gauge is most legible; IV Wail (Entity, **79**) is a wailing **Floor** where the Behavior table’s Decrease/Stable/Increase per Work must be read as dossier-specific, not as universal permission; V **Starless** (**Sovereign**, **10**) is a city-scale threat where the House cannot keep the sorrow on a single **Floor** without risking fusion if stored beside its kin (Three Birds, Three Sisters, debt-kin indexed in ), plus five **Hazard**/**Time** dossiers unfixed because their activation logic — Relic **Time** that skips like `SE-C-IIIβ-036 Cracked Hourglass` [금이 간 모래시계] or `044 Broken Clock` [부서진 시계], Unshaped abstraction that depends on being observed like `SE-O-IIIγ-916 Allhallow` [유령의 시간] — cannot be ranked without lying, a nuance the House keeps by not ranking them rather than by cutting them. The same ranking is taught in SOMNARAK-WORLD’s **Whisper**→**Sovereign** but translated into Somnarak’s audible metaphor — **Whisper**→**Starless** — so that the cadence is kept while the names are Somnarak’s, as audited by `seam_lint.py` at 74 columns exact.
-
-Sovereigns are also geography, and the city keeps that geography because the `.gg` habit of cutting unfinished geography would hide that thirteen City Sovereigns plus one Outside **Sovereign** `SE-O-Vγ-003 Wilderness Tide`  [야생의 파도]  (_Yasaeng-ui Pado_) plus zero Inner Sovereigns is not a count but a law: City  [도한]  (_Dohan_) **159** / Inner  [내한]  (_Naehan_) **72** / Outside  [외한]  (_Oehan_) **61** describe where **Han** pooled, and personal trauma cannot reach **Sovereign** without becoming City, while the Outside **Sovereign** remains tide-like and is therefore kept as planetary terrain in — the sole exception the city allows to remain tide rather than containment — and no other macro-geographical feature (Undercity, Raw, Desolate Outskirts, Wound, **Maw** at −2,000→−7,200 via Katabagil seven Descents, **Weeping** [비탄의 강] ) is filed as an entity, a discipline that keeps from being misread as a catalog and Gieok from being misfiled as a company. The House therefore never cuts — when a new **Sovereign** is felt it is filed as a variant of one of the ten plus one, not as an eleventh, and when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and SOMNARAK-WORLD’s completion of SOMNARAK-WORLD’s stubs is kept as citation, not as replacement, so that the city never invents to fill a stub but files to keep what it has.
-
-Rank is also retrieval time, so that the city can sort the watchlist before dawn without opening a single narrative. Inner yields none that reach **Sovereign** without becoming City; personal trauma must metastasize into collective grief before the scale allows **Sovereign**, which is why the archive records thirteen City Sovereigns, one Outside **Sovereign**, and zero Inner Sovereigns, and why a **Warden** who sees Inner **Sovereign** knows the entry is a filing error or a story that has already become a city. The House therefore never invents a new **Sovereign** to fill a stub but files to keep what it has.
-
-The **Risk Levels** page also teaches that inner yields none that reach **Sovereign** without becoming City; personal trauma must metastasize into collective grief before the scale allows **Sovereign**, which is why the archive records thirteen City Sovereigns, one Outside **Sovereign**, and zero Inner Sovereigns, and why a **Warden** who sees Inner **Sovereign** knows the entry is a filing error or a story that has already become a city. Rank is also retrieval time, so that the city can sort the watchlist before dawn without opening a single narrative. The House therefore never invents a new **Sovereign** to fill a stub but files to keep what it has, and the city never cuts.
-
-The **Risk Levels** ledger also ensures that Rank is retrieval time, so that the city can sort the watchlist before dawn without opening a single narrative. Inner yields none that reach **Sovereign** without becoming City; personal trauma must metastasize into collective grief before the scale allows **Sovereign**, which is why the archive records thirteen City Sovereigns, one Outside **Sovereign**, and zero Inner Sovereigns, and why a **Warden** who sees Inner **Sovereign** knows the entry is a filing error or a story that has already become a city. The House therefore never invents a new **Sovereign** to fill a stub but files to keep what it has, and the city never cuts when a new **Sovereign** is felt, and the ledger remains accountable.
+In Somnarak nomenclature, risk is framed as an audible metaphor: from the quietest **Whisper** to the deafening, catastrophic presence of a **Sovereign**.
 
 ```text
 +========================================================================+
-| SOMNARAK — RISK LEVELS                                                 |
+| SOMNARAK - RISK LEVELS AND THREAT TAXONOMY                             |
 +------------------------------------------------------------------------+
-| Scale | Whisper · Murmur · Lament · Wail · Starless                    |
-| Archive | Sorrow_Entities/* and SECC                                   |
+| Classification Scale   | Rank I (Whisper) to Rank V (Sovereign)        |
+| Whisper (Rank I)       | 46 Entities - Docile & Rookie Training        |
+| Murmur (Rank II)       | 70 Entities - Moderate Hazard & Early Gear    |
+| Fragment (Rank III)    | 82 Entities - High Hazard & Specialized Suits |
+| Wail (Rank IV)         | 79 Entities - Severe Threat & Lethal Breaches |
+| Sovereign (Rank V)     | 10 Entities - Catastrophic Municipal Threat   |
 +========================================================================+
 ```
 
-## Scale
+## Contents
 
-**Risk** is how much the House forgets. **Whisper** is a quiet room; **Starless** is a **Floor** that forgets it had walls.
+- [1 The Philosophy of Risk in Somnarak](#1-the-philosophy-of-risk-in-somnarak)
+- [2 Rank I: Whisper Entities (ZAYIN Equivalent)](#2-rank-i-whisper-entities-zayin-equivalent)
+- [3 Rank II: Murmur Entities (TETH Equivalent)](#3-rank-ii-murmur-entities-teth-equivalent)
+- [4 Rank III: Fragment Entities (HE Equivalent)](#4-rank-iii-fragment-entities-he-equivalent)
+- [5 Rank IV: Wail Entities (WAW Equivalent)](#5-rank-iv-wail-entities-waw-equivalent)
+- [6 Rank V: Sovereign Entities (ALEPH Equivalent)](#6-rank-v-sovereign-entities-aleph-equivalent)
+- [7 Non-Ranked Tool Relics and Time Hazards](#7-non-ranked-tool-relics-and-time-hazards)
+- [8 Fear Checks and Rank Discrepancy Multipliers](#8-fear-checks-and-rank-discrepancy-multipliers)
+- [9 Gallery](#9-gallery)
+- [10 See also](#10-see-also)
 
-| Rank | Name | Potency | Behavior |
-| --- | --- | --- | --- |
-| I | **Whisper**  [속삭임]  (_Soksagim_) | Residue | Quiet room |
-| II | **Murmur**  [웅얼거림]  (_Wungeolgeorim_) | Echo | Murmuring hall |
-| III | 🔵 **Lament**  [비명]  (_Bimyeong_) | **Fragment** | Lamenting corridor |
-| IV | Wail  [통곡]  (_Tonggok_) | Entity | Wailing **Floor** |
-| V | **Starless**  [별 없는]  (_Byeol Eomneun_) | **Sovereign** | City-scale |
+## 1 The Philosophy of Risk in Somnarak
 
-Potency α to ω refines within Rank; **Sovereign** is city-scale.
+Risk does not merely signify combat difficulty; it reflects the depth of human grief crystallized within the entity:
+- A low-risk entity embodies a passing personal regret or quiet bereavement.
+- A high-risk entity embodies collective historical trauma, mass industrial deaths, or existential dread.
+- Higher risk entities yield greater quantities of [Lumen](33-Lumen.md) per work session, but inflict severe psychological penalties upon unprepared specialists.
 
-## Distribution
+## 2 Rank I: Whisper Entities (ZAYIN Equivalent)
+- **Archive Count:** 46 entities.
+- **Operational Hazard:** Minimal. Whisper entities rarely breach, produce docile moods, and have generous work success rates across all protocols.
+- **Field Utility:** Ideal for training novice Rank I recruits in the fundamentals of 👁 **Viderehan** and 🤲 **Ferrehan**.
+- **Yield:** 10–12 Max LU; basic starter gifts and low-tier defensive gear.
 
-Per `Sorrow_Entities/README` and the archive:
+## 3 Rank II: Murmur Entities (TETH Equivalent)
+- **Archive Count:** 70 entities.
+- **Operational Hazard:** Moderate. If assigned incorrect work protocols or neglected during meltdowns, Murmurs may inflict moderate 🔵 **Lament** trauma or stage brief corridor breaches.
+- **Field Utility:** Provides excellent attribute training for Rank II operatives stepping into frontline duties.
+- **Yield:** 14–16 Max LU; reliable early-game weapons and specialized elemental resistances.
 
-| **Risk** | Count |
-| --- | --- |
-| **Whisper** / I Residue | **46** |
-| **Murmur** / II Echo | **70** |
-| 🔵 **Lament** / III **Fragment** | **82** |
-| Wail / IV Entity | **79** |
-| **Starless** / V **Sovereign** | **10** |
-| Unfixed (**Hazard**, **Time**) | 5 |
+## 4 Rank III: Fragment Entities (HE Equivalent)
+- **Archive Count:** 82 entities.
+- **Operational Hazard:** Substantial. Fragments possess distinct behavioral conditions and lethal breach potential. Novice operatives sent to work with Fragments without adequate armor face immediate panic or physical death.
+- **Specimen Example:** [27-The Debt Eater](27-The%20Debt%20Eater.md) (`SE-C-IIIβ-014`), which demands strict ⚔ **Pugnahan** work and punishes mistakes with ⚪ **Void** damage.
+- **Yield:** 16–20 Max LU; versatile mid-game M.A.W. sets.
 
-Sovereigns: 13 City plus 1 Outside `SE-O-Vγ-003 Wilderness Tide` plus 0 Inner.
+## 5 Rank IV: Wail Entities (WAW Equivalent)
+- **Archive Count:** 79 entities.
+- **Operational Hazard:** Severe. Wail entities possess complex escape conditions, multi-room area attacks, and aggressive breach triggers (such as clerk deaths or facility meltdown spikes).
+- **Field Utility:** Required for harvesting elite-grade armaments needed to survive late-game [Ordeals](10-Ordeals.md).
+- **Yield:** 24–30 Max LU; high-stat weapons and fortified suits capable of enduring intense elemental pressures.
 
-Higher **Risk** pays more **Lumen** per Work, but its 🌀 **Mugenhan** failure costs more **Veil**.
+## 6 Rank V: Sovereign Entities (ALEPH Equivalent)
+- **Archive Count:** 10 entities (plus 1 Outside Sovereign: `SE-O-Vγ-003 Wilderness Tide`).
+- **Operational Hazard:** Catastrophic. Sovereigns represent existential facility crises. A breach by a Sovereign typically results in mass clerk slaughter, department destruction, and instant panic among nearby low-rank staff.
+- **Suppression Requirements:** Demands fully assembled, elite Rank V squads armed with complementary M.A.W. weaponry and precise shield rotations.
+- **Yield:** 32–36 Max LU; the most powerful suits and weapons in the game, granting near-immunity to specific pressures.
 
+## 7 Non-Ranked Tool Relics and Time Hazards
 
+Five entities within the facility lack fixed risk ranks:
+- These are inanimate artifacts governed by the **Two-Work-Type Rule** (Viderehan and Ferrehan only).
+- Risk is determined by the duration or frequency of human use rather than inherent hostility (e.g., [28-The Echo Compass](28-The%20Echo%20Compass.md), [29-The Crucible](29-The%20Crucible.md), and [30-The Debt Scale](30-The%20Debt%20Scale.md)).
 
+## 8 Fear Checks and Rank Discrepancy Multipliers
 
-## Gallery
+When a specialist enters a chamber or confronts a breaching entity, their rank is compared against the entity's risk tier:
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+| Operative Rank vs Entity Risk | Fear Assessment | Sanity Point (SP) Penalty |
+|---|---|---|
+| Specialist Rank > Entity Risk | **Calm** | No SP loss. Operative is fully composed. |
+| Specialist Rank == Entity Risk | **Normal** | Minor SP drain (5% of max SP). |
+| Specialist Rank +1 < Entity Risk | **Fear** | Moderate SP drain (25% of max SP). |
+| Specialist Rank +2 < Entity Risk | **Hopeless** | Severe SP drain (50% of max SP). |
+| Specialist Rank +3+ < Entity Risk | **Overwhelming** | **Instant Panic**. EGO collapse on sight. |
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+## 9 Gallery
+
+![Risk Levels Chart](https://via.placeholder.com/320x180?text=Risk+Levels+Chart)
+![Sovereign Class Alarm](https://via.placeholder.com/320x180?text=Sovereign+Alarm)
+![Fear Level Interface](https://via.placeholder.com/320x180?text=Fear+Level+Check)
+
+*Left: risk tier comparison chart; Center: Sovereign breach warning alarm; Right: fear check HUD gauge.*
 ---
 
-## See also
+## 10 See also
 
--[07-Sorrow Entities](07-Sorrow%20Entities.md)
--[38-Classification Code](38-Classification%20Code.md)
+- [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary framework
+- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of all 292 entities
+- [12-Specialists](12-Specialists.md) — specialist ranks and panic mechanics
+- [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen dossier: Rank III Fragment

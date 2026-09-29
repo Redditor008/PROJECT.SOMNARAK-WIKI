@@ -1,72 +1,92 @@
 # Types
 
-> *Shape is the last thing sorrow decides.*
+> *“Sorrow takes any shape it pleases: a beast with teeth, a book that burns, a room that forgets its doors, or an hour that refuses to strike.”*
 
-**Types** sorts entities by manifested form.
+**Types**  [개체 유형]  (_Gaeche Yuhyeong_) define the structural and ontological form of [Sorrow Entities](07-Sorrow%20Entities.md) contained within Facility 01.
 
-Types sorts entities by the shape grief decided to keep, and shape decides what can be touched. Eight Types are taught — Veilborne  [막을 입은]  (_Mageul Ibeun, Humanoid_), Beastborne  [짐승을 입은]  (_Jimseung, Animal_), Hallowed  [거룩한]  (_Georukhan, Religious_), Relic  [유물]  (_Yumul, Inanimate_), Gearborne  [기어를 입은]  (_gieo, Machine_), Unshaped  [형태 없는]  (_Hyeongtae Eomneun, Abstraction_), Tool  [도구]  (_Dogu, Tool_), Patron  [후원자]  (_Huwonja, Backers_) — which borrows its cadence from SOMNARAK-WORLD’s Humanoid, Animal, Religious,.
-
-Distribution and examples make the abstraction enforceable. Tool and Patron are rare because the city rarely lets a sorrow remain useful or sponsored for long; Veilborne and Beastborne are common because the city most often grieves what had a face. `SE-C-IIIγ-031 The Observing Bird` [지켜보는 새] is Veilborne — observed from a distance; `SE-C-IIIγ-032 Weighting Bird` [재는 새] is Beastborne — measured like livestock; `SE-C-IIIγ-081 The Hollow Saint` [빈 성자].
-
-Type is also how the city prevents its own inventory from becoming its mythology. Because Veilborne includes humanoid collections of non-human objects only when the collection itself has human-like appendages, and because Relic distinguishes inanimate stationary (04) from machinic autonomous (05), a reader who learns Type before opening a dossier will not mistake a scale for a beast or a well for a wall. The eight are therefore taught with Korean originals, paired romanization, and English glosses in the mandatory two-space buffer  [한글]  (_romanization_ — English) outside boxes and with zero Hangul inside any 74-column box, so that the inventory remains searchable in both scripts without breaking the city’s typographic law. See [38-Classification Code](38-Classification%20Code.md) for how Type is not encoded in SECC but is inferred from Manifestation and behavior, and [07-Sorrow Entities](07-Sorrow%20Entities.md) for the count that Type organizes.
-
-Manifestation is how Types remain enforceable without cutting like.gg cuts when a paragraph is unfinished, and the city keeps Manifestation as portal rather than calendar. **Subject** (the sorrow has a subject that can be suppressed), **Object** (inanimate stationary 04), **Place** (the sorrow is a place that expands rather than breaches), **Time** (the sorrow skips like `SE-C-IIIβ-036 Cracked Hourglass` [금이 간 모래시계] or `044 Broken ClockSorrow_Entities/` and per system in where the eight Types — Veilborne  [막을 입은]  (_Mageul Ibeun, Humanoid_), Beastborne  [짐승을 입은]  (_Jimseung, Animal_), Hallowed  [거룩한]  (_Georukhan, Religious_), Relic  [유물]  (_Yumul, Inanimate_), Gearborne  [기어를 입은]  (_gieo, Machine_), Unshaped  [형태 없는]  (_Hyeongtae Eomneun, Abstraction_), Tool  [도구]  (_Dogu, Tool_), Patron  [후원자]  (_Huwonja, Backers_) — borrow SOMNARAK-WORLD’s cadence (Humanoid/Animal/Religious/Inanimate/Machine/Abstraction/Tool/Backers) while keeping Somnarak’s names and Hangul with mandatory two-space buffer  [한글]  (_romanization_ — English) outside boxes and zero Hangul inside any 74-column box, as audited at width=74 border-to-border.
-
-Rarity is also a **Veil** budget that Types price without cutting. Tool and Patron are rare because the city rarely lets a sorrow remain useful (07 Breaching Tool such as Yang that breaches like a sorrow but is filed as Tool, 09 Tool-type that cannot breach, 00 Unknown Training Dummy the sole exception that teaches the rule) or sponsored for long; Veilborne and Beastborne are common because the city most often grieves what had a face (`031 Observing Bird` [지켜보는 새] Veilborne observed from a distance, `032 Weighting Bird` [재는 새] Beastborne measured like livestock), while Hallowed (`081 Hollow Saint` [빈 성자] revered and incomprehensible), Relic (`014 Debt Eater` **Place** expands), Gearborne (`036 Cracked Hourglass` machinic active), Unshaped (`916 Allhallow` [유령의 시간] intangible perception-dependent), Tool (`015 Debt Scale` [빚의 저울] useful contained), Patron (`011 Scar Walker` [흉터의 행자] sponsored) are the examples the city keeps because each appears in [08-Sorrow List](08-Sorrow%20List.md) and each tests the rule differently, with the same **292**/**285**/**88**/**60**/**42**/**1,165**/1,208/735/44/16/9 counts that keeps sortable for watch planning. The city therefore never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new shape is felt it is filed as a variant of one of the eight, not as a ninth, so the eight remain eight and the watch remains sortable without inventing a new shape to fill a stub.
+Entities in Somnarak do not share a single physical mold. Depending on how their underlying grief solidified, they manifest as sentient living creatures (**Subjects**), inanimate artifacts (**Objects** / **Tool Relics**), localized spatial disruptions (**Places**), or shifting temporal phenomena (**Time/Hazard**).
 
 ```text
 +========================================================================+
-| SOMNARAK — TYPES                                                       |
+| SOMNARAK - ENTITY ONTOLOGICAL TYPES                                    |
 +------------------------------------------------------------------------+
-| Sorts | Veilborne · Beastborne · Hallowed · Relic                      |
-| | · Gearborne · Unshaped · Tool · Patron                               |
-| Archive | Sorrow_Entities/* and SECC                                   |
+| Ontological Taxa       | Subject - Object (Tool Relics) - Place - Time |
+| Subject Taxon          | Living / Humanoid Horrors (All 4 Work Protocol|
+| Object Taxon           | Inanimate Tool Relics (Two-Work-Type Rule Only|
+| Place Taxon            | Spatial / Room Anomalies with Physics Distorti|
+| Time / Hazard          | Temporal Loops, Clocks & Abstract Phenotypes  |
 +========================================================================+
 ```
 
-## Eight Forms
+## Contents
 
-| Type | Korean | Form |
-| --- | --- | --- |
-| Veilborne  [막을 입은]  (_Mageul Ibeun_) | Humanoid | Human-like face or limbs |
-| Beastborne  [짐승을 입은]  (_Jimseung_) | Animal | Beast shape |
-| Hallowed  [거룩한]  (_Georukhan_) | Religious | Revered or incomprehensible |
-| Relic  [유물]  (_Yumul_) | Inanimate | **Object** without motion |
-| Gearborne  [기어를 입은]  (_gieo_) | Machine | **Object** that acts alone |
-| Unshaped  [형태 없는]  (_Hyeongtae Eomneun_) | Abstraction | Intangible phenomenon |
-| Tool  [도구]  (_Dogu_) | Tool | Useful, cannot breach |
-| Patron  [후원자]  (_Huwonja_) | Backers | Sponsored |
+- [1 Ontological Taxonomy Overview](#1-ontological-taxonomy-overview)
+- [2 Subject Entities (Sentient Horrors)](#2-subject-entities-sentient-horrors)
+- [3 Object Entities (Tool Relics)](#3-object-entities-tool-relics)
+  - [3.1 The Two-Work-Type Rule](#31-the-two-work-type-rule)
+  - [3.2 The Three Relic Sub-Types](#32-the-three-relic-sub-types)
+- [4 Place Entities (Spatial Anomalies)](#4-place-entities-spatial-anomalies)
+- [5 Time and Hazard Entities (Abstract Anomalies)](#5-time-and-hazard-entities-abstract-anomalies)
+- [6 Breach Mechanics Across Types](#6-breach-mechanics-across-types)
+- [7 Gallery](#7-gallery)
+- [8 See also](#8-see-also)
 
-**Han** fracture decides Type, not biology. Manifestation **Subject**, **Object**, **Place**, **Time**, **Hazard** maps to Type. **Object**, **Place**, **Time**, **Hazard** use only 👁 **Viderehan** and 🤲 **Ferrehan**.
+## 1 Ontological Taxonomy Overview
 
-## Examples
+Every contained entity is cataloged under one of four broad structural categories:
+- **Subject:** Possesses autonomous motility, sentience, or predatory instinct.
+- **Object (Tool Relic):** Stationary physical items interacted with by specialists.
+- **Place:** Environmental or architectural anomalies embedded into the facility's geometry.
+- **Time/Hazard:** Fluid, temporal, or atmospheric phenomena lacking permanent boundary lines.
 
-| Type | Example | Name |
-| --- | --- | --- |
-| Veilborne | SE-C-IIIγ-031 | The Observing Bird |
-| Beastborne | SE-C-IIIγ-032 | Weighting Bird |
-| Hallowed | SE-C-IIIγ-081 | The Hollow Saint |
-| Relic | SE-C-IIIβ-014 | The Debt Eater (**Place**) |
-| Gearborne | SE-C-IIIβ-036 | The Cracked Hourglass |
-| Unshaped | SE-C-IIIγ-916 | Allhallow |
-| Tool | SE-C-IIIβ-015 | The Debt Scale |
-| Patron | SE-O-IIIδ-011 | Scar Walker |
+## 2 Subject Entities (Sentient Horrors)
+- **Work Rule:** Accepts all four canonical protocols: 👁 **Viderehan**, 🤲 **Ferrehan**, 💧 **Flerehan**, and ⚔ **Pugnahan**.
+- **Breach Capability:** Possesses a physical body that roams corridors when its **Mugenhan Escape Counter** reaches zero.
+- **M.A.W. Extraction:** Yields both weapons, defensive suits, and wearable cosmetic gifts.
+- **Representative Specimen:** [27-The Debt Eater](27-The%20Debt%20Eater.md).
 
-Tool and Patron are rare; Veilborne and Beastborne are common.
+## 3 Object Entities (Tool Relics)
 
+### 3.1 The Two-Work-Type Rule
+Inanimate Tool Relics do not possess minds or emotions. Therefore, attempting 💧 **Flerehan** (empathetic communion) or ⚔ **Pugnahan** (physical confrontation) is mechanically prohibited. Operatives may only execute:
+- 👁 **Viderehan (Observation):** Scanning dials, calibrating needles, reading inscriptions.
+- 🤲 **Ferrehan (Endurance):** Physical channeling, handling, polishing, and carrying.
 
+### 3.2 The Three Relic Sub-Types
+Tool Relics are further divided into three functional operational modes:
+1. **Single-Use (Instantaneous):** Operative enters, triggers immediate effect, and departs (e.g., [28-The Echo Compass](28-The%20Echo%20Compass.md)).
+2. **Channeled Use (Sustained):** Operative channels continuously inside the unit, trading personal health for continuous facility buffs; exceeds safe timer at penalty of death (e.g., [29-The Crucible](29-The%20Crucible.md)).
+3. **Equippable (Carried):** Operative carries the relic out into facility corridors, gaining mobile auras and stat conversions (e.g., [30-The Debt Scale](30-The%20Debt%20Scale.md)).
 
+## 4 Place Entities (Spatial Anomalies)
+- **Containment Chamber Integration:** The containment cell *becomes* the entity. Stepping across the threshold transitions the operative into a localized pocket dimension (such as an endless train carriage, a flooded cemetery, or an abandoned bell tower).
+- **Work Mechanics:** Works are executed by exploring the pocket dimension. Failure causes the room geometry to collapse, trapping or ejecting the operative.
 
-## Gallery
+## 5 Time and Hazard Entities (Abstract Anomalies)
+- **Fluid Mechanics:** Entities that distort facility clocks, alter simulation speeds, or manipulate historical timelines.
+- **Hazard Containment:** Requires constant cognitive dampening and periodic stasis pulses to prevent temporal desynchronization.
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+## 6 Breach Mechanics Across Types
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+| Entity Type | Escape Condition | Hallway Behavior | Suppression Method |
+|---|---|---|---|
+| **Subject** | Counter reaches 0 | Roams hallways; attacks staff | Direct combat clashes with M.A.W. weapons |
+| **Object (Tool)** | Overused or neglected | Emits facility-wide debuff pulses | Quarantine protocol; reset via Viderehan |
+| **Place** | Structural rupture | Expands into adjacent corridor | Seal corridor bulkheads; execute stasis burn |
+| **Time/Hazard** | Resonance desync | Accelerates meltdown clocks | Calibrate temporal anchors in Deep Vault |
+
+## 7 Gallery
+
+![Entity Types Breakdown](https://via.placeholder.com/320x180?text=Entity+Types+Breakdown)
+![Tool Relic Interaction](https://via.placeholder.com/320x180?text=Tool+Relic+Interaction)
+![Place Entity Chamber](https://via.placeholder.com/320x180?text=Place+Entity+Chamber)
+
+*Left: comparison of the four structural taxa; Center: specialist channeling tool relic; Right: spatial place chamber.*
 ---
 
-## See also
+## 8 See also
 
--[07-Sorrow Entities](07-Sorrow%20Entities.md)
--[38-Classification Code](38-Classification%20Code.md)
+- [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary framework
+- [24-Origins](24-Origins.md) — psychological genesis: Veiled Tale, Scarred Memory, Dream Born
+- [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen dossier: Subject taxon
+- [37-Relic Entities](37-Relic%20Entities.md) — dedicated hub for Object/Tool Relics

@@ -1,59 +1,86 @@
 # Origins
 
-> *Every sorrow has a first telling.*
+> *“Every sorrow has an address where the tears first fell.”*
 
-**Origins** sorts entities by the kind of tale that bore them.
+**Origins**  [기원 분류]  (_Giwon Bunryu_) classify [Sorrow Entities](07-Sorrow%20Entities.md) according to the psychological and metaphysical genesis that gave them physical form in [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
 
-Origins sorts entities by the kind of tale that bore them, and tale predicts behavior because the city remembers how a sorrow was first told. Three sorts are taught here — Veiled Tale, Scarred Memory, Dream Born — which mirror SOMNARAK-WORLD’s Fairytale, Trauma, and Original without importing their names. Veiled Tale counts roughly one hundred forty dossiers that were already told as fairy tale, folklore, or urban legend before the.
-
-Three examples teach the grammar. `SE-C-IIIγ-021 The Hollow Choir`  [빈 합창단]  (_Bin Hapchangdan_) is Veiled Tale — a liturgy that repeats until the **Veil** thins, because the city already knew how a choir should sound; `SE-C-IIIγ-088 The Sorrow Fountain` [슬픔의 분수] is Scarred Memory — a public fountain where grief pools because a citizen carried it there; `SE-O-Vγ-003 Wilderness Tide` [야생의 파도] is Dream Born — an Outside **Sovereign** that.
-
-Because Somnarak maps planetary terrain as terrain — not as sorrow — a reader who learns Origins first will not mistake the **Maw**, the **Weeping**, or the Desolate Outskirts for a dossier, and will not ask which Work-Type to use on a mountain. That error is prevented by the code: Veiled, Scarred, and Dream are tale sorts, not **Risk** or Potency, and they are taught here with counts and examples so that a **Warden** who hears a new sorrow can ask, before opening the file, whether the sorrow is repeating a tale the city already knows or inventing one the city will have to learn to keep. See [32-Genesis](32-Genesis.md) for how the **Weeping** first told each tale, and [22-Departments](22-Departments.md) for where each tale is now housed.
-
-Inner versus Outside is also how Origins keeps honest without cutting like.gg cuts when a paragraph is unfinished. City  [도한]  (_Dohan_) **159** pools where citizens live and generate sorrow that seeps into the **Weeping** [비탄의 강] ; Inner  [내한]  (_Naehan_) **72** pools where a citizen carries a wound, a phobia, or an intense personal experience that arrives with a phobia as a Scarred Memory; Outside  [외한]  (_Oehan_) **61** pools where the **Weeping** itself dreams a new logic as Dream Born, inventing tide-like physics for `SE-O-Vγ-003 Wilderness Tide` [야생의 파도] that behaves like shoreline rather than like a person, and where Katabagil’s seven Descents (−2,000→−7,200) mapped veins that were already there before the **Hand** named them. Tale and Geography are therefore kept as two axes that must be read together — Tale tells what kind of telling first bore the sorrow (Veiled Tale ~140 already-told fairy tale/folklore/urban legend, Scarred Memory ~90 wound carried, Dream Born ~62 dreamed then made tGrudge, approximate because a dossier can be retold), Geography tells where **Han** pooled — and SECC encodes Origin and Manifestation while Tale is taught here, so that a **Warden** who hears a new sorrow can ask before opening the file whether the sorrow is repeating a tale the city already knows (and will therefore repeat `Hollow Choir`’s liturgy until **Veil** thins) or inventing one the city will have to learn to keep (and will therefore invent `Wilderness Tide`’s tide), a question that prevents cutting.
-
-Veiled Tale is also how the House handles the most common error — cataloging a tale as a dossier or a dossier as a tale — and the city keeps that handling visible so that it never cuts. `SE-C-IIIγ-021 Hollow Choir` [빈 합창단] is Veiled Tale because the city already knew how a choir should sound before the city wrote it down; `SE-C-IIIγ-088 Sorrow Fountain` [슬픔의 분수] is Scarred Memory because a citizen carried it to a public fountain where grief pools; `SE-O-Vγ-003 Wilderness Tide` is Dream Born because the **Weeping** dreamed it as geography before the **Hand** named it, and the House keeps that Dream—Geography link by filing the tide as **Sovereign**-γ Outside while keeping the Desolate’s −7,200 terminus as terrain, not as entity, in, so that a reader who learns Origins first will not ask which Work-Type to use on a mountain and will not file a mountain as a sorrow. The counts remain approximate — 140/90/62 — because a dossier can be retold as Dream after being Veiled, but the recency of a tale predicts whether Behavior will repeat, react, or invent, a correlation taught in and (100+ pages) where the House keeps the same filing without cutting, and the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new tale is felt it is filed as a variant of one of the three, not as a fourth, so the three remain three and the city remains accountable.
+Within the Reverie Directorate's archival doctrine, sorrow is not homogeneous. An entity's behavior, work affinities, and [Pressure Types](17-Pressure%20Types.md) are directly shaped by whether it coalesced from collective municipal folklore, sharp personal trauma, or the deep unconscious abyss.
 
 ```text
 +========================================================================+
-| SOMNARAK — ORIGINS                                                     |
+| SOMNARAK - THE THREE ENTITY ORIGINS                                    |
 +------------------------------------------------------------------------+
-| Sorts | Veiled Tale · Scarred Memory · Dream Born                      |
-| Archive | Sorrow Entities · Entities Tales                             |
+| Origin Taxonomy        | Veiled Tale - Scarred Memory - Dream Born     |
+| Veiled Tale (City)     | 159 Entities - Collective Urban Myths & Folk  |
+| Scarred Memory (Inner) | 72 Entities - Individual Trauma & Bereavement |
+| Dream Born (Outside)   | 61 Entities - Subconscious Nightmares & Void  |
+| Metaphysical Well      | Mnemonic Wells fed by the Primordial Weeping  |
 +========================================================================+
 ```
 
-## Three Tales
+## Contents
 
-- **Veiled Tale** — already told, fairy tale and folklore already in the city's mouth
-- **Scarred Memory** — wound carried, trauma that arrived with a name
-- **Dream Born** — dreamed then made tGrudge, original to the **Weeping**
+- [1 The Tripartite Genesis of Sorrow](#1-the-tripartite-genesis-of-sorrow)
+- [2 Veiled Tale (City Sorrow / 도한)](#2-veiled-tale-city-sorrow--도한)
+- [3 Scarred Memory (Inner Sorrow / 내한)](#3-scarred-memory-inner-sorrow--내한)
+- [4 Dream Born (Outside Sorrow / 외한)](#4-dream-born-outside-sorrow--외한)
+- [5 Work Protocol Affinities by Origin](#5-work-protocol-affinities-by-origin)
+- [6 Departmental Resonance and Placement](#6-departmental-resonance-and-placement)
+- [7 Gallery](#7-gallery)
+- [8 See also](#8-see-also)
 
-Veiled predicts Behavior that repeats, Scarred predicts Behavior that reacts, Dream predicts Behavior that invents.
+## 1 The Tripartite Genesis of Sorrow
 
-## Counts and Examples
+All 292 cataloged sorrow entities originate from one of three distinct psychological strata:
+- **Veiled Tale (159 entities):** Born from shared civic mythos, societal gossip, and urban legends circulating through the city's spires and slums.
+- **Scarred Memory (72 entities):** Crystallized from acute personal agony, betrayal, bereavement, or solitary death.
+- **Dream Born (61 entities):** Formed from raw subconscious reveries, surreal nightmares, and primeval fears drifting up from the subterranean [Maw](41-Frontiers.md).
 
-| Origin | Count | Example |
-| --- | --- | --- |
-| Veiled Tale | about 140 | `SE-C-IIIγ-021 The Hollow Choir` |
-| Scarred Memory | about 90 | `SE-C-IIIγ-088 The Sorrow Fountain` |
-| Dream Born | about 62 | `SE-O-Vγ-003 Wilderness Tide` (Outside **Sovereign**) |
+## 2 Veiled Tale (City Sorrow / 도한)
+- **Metaphysical Anchor:** Collective social memory.
+- **Characteristics:** Highly structured, often taking the shape of fairy tales, historical archetypes, or urban superstitions (e.g., cursed gramophones, singing choir children, or mechanical executioners).
+- **Behavioral Logic:** Veiled Tales obey narrative rules. They expect specialists to act out specific roles during containment sessions, rewarding adherence to protocol and severely punishing improvisations.
+- **Common Pressures:** Balanced across 🔴 **Grudge** and 🔵 **Lament**.
 
-Geography is separate: City **159**, Inner **72**, Outside **61**. Tale and geography are two axes; both are needed.
+## 3 Scarred Memory (Inner Sorrow / 내한)
+- **Metaphysical Anchor:** Individual human anguish.
+- **Characteristics:** Intensely emotional, visceral, and personal (e.g., shattered family relics, wedding gowns steeped in ash, or hospital instruments).
+- **Behavioral Logic:** Highly sensitive to specialist psychological states. Working with Scarred Memories often drains high amounts of sanity, requiring operatives with high **Composure** who can endure empathetic communion via 💧 **Flerehan**.
+- **Common Pressures:** Heavily concentrated in 🔵 **Lament** and ⚫ **Weight**.
 
+## 4 Dream Born (Outside Sorrow / 외한)
+- **Metaphysical Anchor:** Primeval unconscious and the subterranean void.
+- **Characteristics:** Abstract, shifting, grotesque geometries that defy conventional biological anatomy (e.g., hovering acoustic compasses, floating monolithic scales, or formless pale voids).
+- **Behavioral Logic:** Unpredictable and volatile. Dream Born entities often alter their work affinities based on external facility conditions, such as current meltdown levels or the time of day.
+- **Common Pressures:** Predominantly ⚪ **Void** and ⚫ **Weight**.
 
+## 5 Work Protocol Affinities by Origin
 
+| Origin Classification | Preferred Protocol | Secondary Protocol | Dangerous Protocol |
+|---|---|---|---|
+| **Veiled Tale** | 👁 **Viderehan** (Observation) | ⚔ **Pugnahan** (Discipline) | 💧 **Flerehan** (Distorts narrative) |
+| **Scarred Memory** | 💧 **Flerehan** (Lamentation) | 🤲 **Ferrehan** (Endurance) | ⚔ **Pugnahan** (Agitates trauma) |
+| **Dream Born** | 🤲 **Ferrehan** (Endurance) | 👁 **Viderehan** (Observation) | 💧 **Flerehan** (Psychic drowning) |
 
-## Gallery
+## 6 Departmental Resonance and Placement
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+To maintain psychological equilibrium across Facility 01:
+- **Veiled Tales** are housed in Upper Spires and Central Administration where bureaucratic structure keeps their folkloric narratives stable.
+- **Scarred Memories** are assigned to Insight Forge and Maw's Keep for specialized psychological dampening.
+- **Dream Born** horrors are locked deep within the Vault and Gate Watch, isolated behind thick abyssal lead bulkheads.
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+## 7 Gallery
+
+![Three Origins Diagram](https://via.placeholder.com/320x180?text=Three+Origins+Diagram)
+![Veiled Tale Entity](https://via.placeholder.com/320x180?text=Veiled+Tale+Specimen)
+![Dream Born Abstraction](https://via.placeholder.com/320x180?text=Dream+Born+Abstraction)
+
+*Left: diagram of the three origin strata; Center: Veiled Tale folkloric entity; Right: Dream Born abstract horror.*
 ---
 
-## See also
+## 8 See also
 
--[32-Genesis](32-Genesis.md)
--[38-Classification Code](38-Classification%20Code.md)
+- [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary framework
+- [25-Types](25-Types.md) — structural entity taxonomy: Subject, Object, Place, Time
+- [32-Genesis](32-Genesis.md) — the Weeping and Mnemonic Wells
+- [38-Classification Code](38-Classification%20Code.md) — SECC origin code markers

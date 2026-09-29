@@ -1,69 +1,99 @@
 # Personnel Dossiers
 
-> *A file is a kindness. It lets you miss someone correctly.*
+> *“A number on a badge, a coat woven from nightmares, and an oath to hold the line until evening.”*
 
-**Personnel Dossiers** holds the main cast.
+**Personnel Dossiers**  [인사 기록부]  (_Insa Girokbu_) document the human workforce operating within Facility 01. 
 
-Personnel Dossiers holds the main cast, but the city files them as responsibility rather than as entertainment. Every dossier is a record of what must be carried to keep a **Floor** credible between Watches, and the lattice that binds them is municipal: Seiyon (Secretary, **Floor** 1 Central Admin, Android, The Promise as Key Pages, 🔵 **Lament** and ⚪ **Void**), Majin (Director, **Floor** 1 Spires, Human Ω-Fusion, Reaper Hungered as ⚫ **Weight** and 🔴 **Grudge**.
-
-The roster is both technical and temperamental. Majin (Reaper Hungered, ⚫ **Weight** and 🔴 **Grudge**, Spires) holds the threshold where the city meets its own grief; Seiyon (The Promise, 🔵 **Lament** and ⚪ **Void**, Central Admin) keeps continuity when the **Hand** forgets; Dekan (**Maw**-Flesh Arm, **Floor** 2 **Maw**’s Keep, 🔴 **Grudge**) contains the **Maw**’s lip; Zyrak (Mechanical Hands and Rig, **Floor** 3 Extraction Hall, 🔴 **Grudge** and ⚪ **Void**) and Ayshuk ([Research](15-Research.md) Ledger, **Floor** 4 Insight Forge,.
-
-Where they live is how they are read. Full dossiers are filed under as the authoritative text, municipal summaries under as the daily text, and assignment under [06-Personnel](06-Personnel.md) and [14-Echo-Cores](14-Echo-Cores.md) as the operational text. A **Warden** who reads Personnel Dossiers before reading [36-Tactical Engine](36-Tactical%20Engine.md) learns who will execute the Work; a **Warden** who reads it after learns who will pay for it. The city’s pedagogy therefore places Dossiers after Mechanics and before Frontiers, so that persons are encountered after systems but before territory, and so that the House’s most common error — cataloging a person as a sorrow — is prevented by the very filing system that makes the error tempting.
-
-Ten specialist cadres plus five syndicate-adjacent pools plus twelve **Unknown Entities** plus nine [Echo-Cores](14-Echo-Cores.md) plus five Fingers plus the Council of Sighs are how Personnel Dossiers remain municipal law rather than entertainment, and the city keeps that law because the `.gg` habit of cutting unfinished dossiers would hide that every dossier is a record of what must be carried to keep a **Floor** credible between Watches, not a story of who is likable. Eleven cadres are not redundancy but rotation — the same specialist cannot hold the same **Floor** indefinitely without accruing Fracture, gifts that cannot be unequipped and replace the previous gift in that slot slowly change how a specialist hears the House, and **Han** Pohwa stasis plus mnemonic dilation that lets Min-Jae persist 266-plus cycles inside the Absolvohan while a post-Dawn Wound Walker holds a Crucible Station without the same dilation are not biography but **Veil** requirements, as filed under (~116,000 words, ~12,888 per dossier) and where daily life, syndicate wards as cartel field where debt became enclave in the Raw, and **Lumen** economics (40,000 LU primary, 5,000 LU per floor, 0.02t × **1,778** = supercritical at Cycle **1,778**) are the text that makes a roster technical, not theatrical, and where the House keeps the same filing without cutting, so the city never hides that the Desolate’s −7,200 terminus is terrain in, not a dossier, and that the Undercity is stratification, not syndicate, and that the Outskirts are Outskirts, not Outsider Factory, and that the Wound is Wound, not company, and the city keeps them distinct so a **Warden** who learns Persons before Territory will not mistake a continent for a charter, as `38-Classification Code` and `41-Frontiers` keep distinct what Personnel would otherwise conflate, and when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, so the **292** remain **292** and the House remains accountable.
-
-The nine [Echo-Cores](14-Echo-Cores.md) and the ten Primary Companies are how the House keeps persons distinct from sorrows, and the city keeps that distinction because the House files persons under (about 116,000 words, ~12,888 per dossier) and terrain under as planetary geography, while Gieok Jeojangso [기억 저장소] remains a municipal sanctuary with seven strata floors that curate Key Pages for the Silent City, not a company, and the Horizon Caravan (Jipyeongseondae [지평선대] ) and Wound Walkers (Company 4) operate as post-Dawn expeditionary wings with six Arcs and seven Crucibles respectively. The city’s most common error — cataloging a person as a sorrow or terrain as an entity — is prevented by the very filing system that makes the error tempting, as binds every dossier into eighteen sections (SECC, Parameters, Combat, Appearance, Origin, Behavior, Breach, **M.A.W.**, Observation, Story, Final Observation, Flavor, Interactions, Tale, Testimony, Record, Trivia) where Persons are Persons and Sorrows are Sorrows, and the House files new grief as a variant of one of the **292** plus **88** plus 12, not as a 293rd, so the **292** remain **292** and the House remains accountable, as filed under and where the same **1.29 billion** souls that generate the **Han** that becomes the **Lumen** that becomes the **Veil** that becomes the city are kept as the municipal loop **Weeping**→**Han**→**Lumen**→**Watch**→**Veil**→**Weeping**, so that a **Warden** who reads Personnel Dossiers after [21-Game Mechanics](21-Game%20Mechanics.md) and before [41-Frontiers](41-Frontiers.md) encounters persons after systems but before territory without inventing a new person to fill a stub.
-
-The dossiers are also how the House handles rotation without being hollowed. Eleven cadres are not redundancy but rotation — the same specialist cannot hold the same **Floor** indefinitely without accruing Fracture, gifts that cannot be unequipped slowly change how a specialist hears the House, and **Han** Pohwa stasis plus mnemonic dilation that lets Min-Jae persist 266-plus cycles inside the Absolvohan while a post-Dawn Walker holds a Crucible Station are not biography but **Veil** requirements, so that the House can keep persons distinct from sorrows without mistaking a continent for a charter.
-
-The Personnel Dossiers page also teaches that eleven cadres are not redundancy but rotation — the same specialist cannot hold the same **Floor** indefinitely without accruing Fracture, gifts that cannot be unequipped slowly change how a specialist hears the House, and **Han** Pohwa stasis plus mnemonic dilation that lets Min-Jae persist 266-plus cycles inside the Absolvohan while a post-Dawn Walker holds a Crucible Station are not biography but **Veil** requirements, so that the House can keep persons distinct from sorrows without mistaking a continent for a charter. The dossiers are also how the House handles rotation without being hollowed, and the city never cuts.
-
-The Personnel Dossiers ledger also ensures that eleven cadres are rotation, not redundancy — the same specialist cannot hold the same **Floor** indefinitely without accruing Fracture, gifts that cannot be unequipped slowly change how a specialist hears the House, and **Han** Pohwa stasis plus mnemonic dilation that lets Min-Jae persist 266-plus cycles inside the Absolvohan while a post-Dawn Walker holds a Crucible Station are not biography but **Veil** requirements, so that the House can keep persons distinct from sorrows without mistaking a continent for a charter. The dossiers are also how the House handles rotation without being hollowed, and the city never cuts when a new dossier is felt, and the ledger remains accountable, and the House keeps the same filing.
+From frontline [Specialists](12-Specialists.md) who confront eldritch sorrow within containment chambers to the unarmored [Auxiliaries](12-Specialists.md) who maintain administrative ledgers, human personnel form the lifeblood of the Reverie Directorate's containment apparatus.
 
 ```text
 +========================================================================+
-| SOMNARAK — PERSONNEL DOSSIERS                                          |
+| SOMNARAK - PERSONNEL DOSSIERS & SPECIALIST CADRES                      |
 +------------------------------------------------------------------------+
-| Focus | Directors · Specialists · Council                              |
-| Count | 9 Echo-Cores plus 10 cadres plus 12 UNK                        |
-| Archive | Personnel Archives                                           |
+| Personnel Hierarchy    | Specialists (Directable) - Auxiliaries (Clerks|
+| Specialist Ranks       | Rank I (Recruit) to Rank V (Veteran) + EX-Elit|
+| Attribute Training     | Resilience (HP) - Clarity (SP) - Composure - R|
+| Department Officers    | Captain Badges & Aura Field Command Perks     |
+| Casualty Archiving     | Memorial Ledger of the 1,778 Mnemonic Cycles  |
 +========================================================================+
 ```
 
-## Roster
+## Contents
 
-| Dossier | Role | **Floor** | Weapon |
-| --- | --- | --- | --- |
-| Majin | Director | **Floor** 1 Spires | Reaper Hungered (⚫ **Weight** and 🔴 **Grudge**) |
-| Seiyon | Secretary | **Floor** 1 Admin | The Promise (🔵 **Lament** and ⚪ **Void**) |
-| Dekan | **Containment** Lead | **Floor** 2 | **Maw**-Flesh Arm |
-| Zyrak | Extraction Lead | **Floor** 3 | Mechanical Hands and Rig |
-| Ayshuk |[Research](15-Research.md) Lead | **Floor** 4 |[Research](15-Research.md) Ledger |
-| Mellda | Border Lead | **Floor** 5 | Threshold Vow |
-| Marjuk | Archive Lead | **Floor** 6 | Memory Lens |
-| Ishall | Outsider | **Floor** 7 | Unanswered |
-| Xyan | Exile | **Floor** 8 | Neural Spine |
+- [1 Personnel Hierarchy and Classification](#1-personnel-hierarchy-and-classification)
+- [2 Specialist Ranks and Attribute Thresholds](#2-specialist-ranks-and-attribute-thresholds)
+- [3 Departmental Captains and Officer Designations](#3-departmental-captains-and-officer-designations)
+- [4 Auxiliaries and Clerk Support Systems](#4-auxiliaries-and-clerk-support-systems)
+- [5 Operative Customization and Lineages](#5-operative-customization-and-lineages)
+- [6 Casualty Protocols and Memorial Archiving](#6-casualty-protocols-and-memorial-archiving)
+- [7 Gallery](#7-gallery)
+- [8 See also](#8-see-also)
 
-Plus **10** specialist cadres and 12 **Unknown Entities** (UNK [Sorrow Entities](07-Sorrow%20Entities.md)), plus municipal Council.
+## 1 Personnel Hierarchy and Classification
 
-## Where They Live
+Personnel within Facility 01 are strictly segregated into two functional classes:
+- **Specialists (Agents):** Directable combat operatives equipped with [M.A.W. Equipment](09-M.A.W.%20Equipment.md). They execute containment protocols, intercept breaching horrors, and subdue Ordeals.
+- **Auxiliaries (Clerks):** Non-directable logistical personnel stationed across departmental spires. Their continued survival projects positive morale auras across each floor.
 
-Full dossiers are filed under `Personnel Archives/` — about 116,000 words — and municipal summaries under `Municipal ArchiveSociety_and_Demographics/`.
+## 2 Specialist Ranks and Attribute Thresholds
 
+An operative's rank dictates their authority, equipment eligibility, and resistance to mental fear checks:
 
+| Specialist Rank | Title Designation | Required Attribute Sum | Maximum Stat Cap | Fear Immunity Tier |
+|---|---|---|---|---|
+| **Rank I** | Recruit Operative | 100–129 Points | Tier 1 (30 Max) | Whisper only |
+| **Rank II** | Junior Specialist | 130–169 Points | Tier 2 (45 Max) | Murmur |
+| **Rank III** | Senior Specialist | 170–219 Points | Tier 3 (65 Max) | Fragment |
+| **Rank IV** | Lead Operative | 220–279 Points | Tier 4 (85 Max) | Wail |
+| **Rank V** | Master Specialist | 280–330 Points | Tier 5 (100 Max) | Sovereign |
+| **EX-Rank** | Facility Vanguard | 331+ Points (Over-trained) | EX-Tier (120+ Max) | Total Fear Immunity |
 
+Attributes are honed through repetitive containment work:
+- 🤲 **Ferrehan** trains **Resilience** (increases Max HP).
+- 👁 **Viderehan** trains **Clarity** (increases Max SP).
+- 💧 **Flerehan** trains **Composure** (increases Work Success and Speed).
+- ⚔ **Pugnahan** trains **Resolve** (increases Weapon Attack and Corridor Sprint Speed).
 
-## Gallery
+## 3 Departmental Captains and Officer Designations
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+When an operative remains stationed within a single department for multiple consecutive shifts, they earn departmental seniority:
+- **Officer Badges:** Awarded after 3 consecutive shifts in one wing.
+- **Department Captain:** The highest-ranking veteran becomes the floor's Captain, wearing an ornate departmental sash.
+- **Aura Field Buff:** The Captain emits an active aura that grants +10% Movement Speed and +5 HP/SP recovery to all squadmates in the same room.
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+## 4 Auxiliaries and Clerk Support Systems
+
+Though fragile, Auxiliaries play a vital role in facility stability:
+- **Morale Aura:** As long as 100% of a department's clerks are alive, all specialists in that department receive passive stat buffs (+5% Work Success, +5% Movement Speed).
+- **The Panicked Clerk Threat:** If clerk casualties exceed 50%, remaining clerks begin suffering mass panic, wandering hallways and agitating nearby containment units.
+- **Breach Bait:** High-threat Wail and Sovereign entities often prioritize slaughtering clerks, giving combat squads precious seconds to position heavy weapons.
+
+## 5 Operative Customization and Lineages
+
+Wardens can customize recruited specialists:
+- **Visual Appearance:** Hairstyle, facial features, uniform tailoring, and eye coloration.
+- **Codename & Lore:** Assigning codenames and memorializing veteran lineages across consecutive cycles.
+- **M.A.W. Gift Stacking:** Operatives can wear up to six distinct gifts across designated anatomical slots (Head, Eye, Face, Neck, Chest, Hand).
+
+## 6 Casualty Protocols and Memorial Archiving
+
+Specialist deaths represent heavy financial and tactical losses:
+- Equipped M.A.W. gear is lost and must be re-extracted using harvested Lumen.
+- Fallen operatives are recorded in the facility's **Memorial Ledger**.
+- Over the 1,778 Mnemonic Cycles leading to the Dawn of Hope, tens of thousands of specialists laid down their lives to anchor the facility against the Maw.
+
+## 7 Gallery
+
+![Specialist Roster HUD](https://via.placeholder.com/320x180?text=Specialist+Roster+HUD)
+![Department Captain Sash](https://via.placeholder.com/320x180?text=Captain+Sash+Insignia)
+![Memorial Archival Ledger](https://via.placeholder.com/320x180?text=Memorial+Archival+Ledger)
+
+*Left: specialist squad management roster; Center: department captain sash; Right: facility memorial ledger.*
 ---
 
-## See also
+## 8 See also
 
--[06-Personnel](06-Personnel.md)
--[14-Echo-Cores](14-Echo-Cores.md)
--[41-Frontiers](41-Frontiers.md)
+- [12-Specialists](12-Specialists.md) — comprehensive specialist gameplay mechanics
+- [06-Personnel](06-Personnel.md) — master personnel hub, directors, and cadres
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — equipment armory and weapon stats
+- [22-Departments](22-Departments.md) — departmental layouts and captain stationing

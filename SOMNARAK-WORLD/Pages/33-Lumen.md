@@ -1,67 +1,80 @@
-# **Lumen**
+# Lumen
 
-> *“The **Weeping** flows. **Lumen** is what we catch of it.”*
+> *“The only light that never casts a shadow is the light that burned through sorrow.”*
 
-**Lumen** is refined **Han** — the **Weeping** made carryable.
+**Lumen**  [루멘 에너지]  (_Rumen Eneoji_) is the primary energetic currency, life-support fuel, and municipal power source extracted within Facility 01.
 
-**Lumen** is what the city catches of the **Weeping**, and the catch is a refinement. The **Weeping** is liquid **Han** — structural grief — flowing beneath Facility 01; **Han** is pooled, drawn via the Abyssal Well, and filtered through the Deep Vault lattice into **Lumen**, a substance that is fluid to semi-crystalline, held in sealed vats and vein-like conduits, pale and clear when stable and darkening when **Han** density surges —
-
-Storage is a budget with thresholds that behave like traffic. The primary vault in the Deep Vault, Building 1, holds 40,000 **Lumen** Units; secondary veins beneath each floor hold 5,000 LU; tertiary cells in collector sub-basements hold 1,200 LU. Green from 30 to **70** percent means all Works are permitted; amber below 30 restricts high-cost Works; red above 85 raises breach risk regardless of Work correctness, a condition that makes.
-
-Hazards are priced before they are felt. Deprivation collapses fields that keep Veils credible; contamination by unfiltered **Weeping** induces Fracture within watches, a conceptual damage where Pale at one percent equals five percent of Max HP and where ⚫ **Weight** is pre-allocated as mixed burden; over-extraction deepens the **Maw** and raises the cost of every future extraction. During the Reverie Directorate, **1,778** cycles at 0.02 tons **Han**-crystal each made **Lumen** supercritical at Cycle **1,778**, the fuel that allowed twelve Hope Bearers aboard The Lantern to lift transmutation from 15 percent toward 45 percent. The lesson for a **Warden** is therefore not to maximize **Lumen** but to route it — to keep the **Watch** in green, the **Veil** credible, and the **Maw** no deeper than it already is — a lesson that [19-**Lumen** Surge](19-Lumen%20Surge.md) and [16-Daily Cycle](16-Daily%20Cycle.md) price per **Watch** rather than per entity.
-
-The **Weeping** is also how **Lumen** handles time without cutting like.gg cuts when a paragraph is unfinished, and the city keeps that handling because the **Weeping** is older than settlement and the **Maw** is older than the Directorate — Year 200 Cheongula consumed a thousand opened the first chasm where the **Weeping** murmuring toward both sorrow and the Alpha Tree is mapped as planetary hydrology in and as cosmology in, while the **Maw** is mapped as terrain that cannot be Worked, only quarantined, in and where the city keeps the thousand as a lesson that sorrow could become geography and therefore must be drilled, not Worked, and where the same lesson — citizens live→generate sorrow→seep **Weeping**→feed Tree→refine **Lumen**→power containment→operation generates further sorrow — is graphed as a cycle that the Descent calibrates in meters (−2,000→−7,200 across Katabagil seven Descents) and the **Watch** calibrates in LU (8 LU for a **Whisper** **Place** such as `SE-C-IIIβ-014` on 👁 **Viderehan**, more for higher **Risk**, paid back as Fracture when **Veil** held poorly, green 30–**70** percent all Works permitted, amber below 30 high-cost restricted, red above 85 breach risk rises, portable cells after the Dawn at the same 40k/5k/1.2k physics for Horizon Caravan six Arcs and Gieok seven strata) and the Directorate calibrates in cycles (0.02t × **1,778** = supercritical at Cycle **1,778** for Absolvohan and twelve Hope Bearers 15%→45%), so the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new hazard is felt it is filed as deprivation/contamination/over-extraction, not as a new hazard, so the three hazards remain three and the watch remains routable.
-
-Storage is also how **Lumen** handles myth without being hollowed by it, and the city keeps that handling because the `.gg` habit of cutting unfinished storage would hide that **M.A.W.** is timeless memory that crystallizes from an entity’s emotional core as Weapon, Suit, or Gift spanning Year 0000 flint and debt paper through Year **4,238** composites to far-future astral prisms, while **Lumen** is boxed **Han** that is refined, not remembered — the two share a paragraph without being the same currency, and the city keeps them distinct by appraising **M.A.W.** through research gated by 👁 **Viderehan** and 🤲 **Ferrehan** (and for Subjects additionally 💧 **Flerehan** and ⚔ **Pugnahan**) that unlocks Codex entries for forty-two sets at **1,165** profiles, while **Lumen** is refined through the Abyssal Well and Deep Vault lattice that the Society codices under price as municipal law, not as reward, and the sixteen battle scenarios under price the same distinction as the municipal log does, so that a **Warden** who learns **Lumen** learns **M.A.W.** and a **Warden** who learns **M.A.W.** learns **Lumen**, as [34-**M.A.W.** Equipment](34-M.A.W.%20Equipment.md) and [19-**Lumen** Surge](19-Lumen%20Surge.md) keep without cutting, where the House keeps the same filing without cutting, and the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new refinement is felt it is filed as a variant of one of the Well→Lattice→Vault→Cell chain, not as a new refinement, so the chain remains one chain and the watch remains routable without inventing new physics to fill a stub.
+Harvested directly from the emotional resonance of contained [Sorrow Entities](07-Sorrow%20Entities.md), Lumen represents refined human grief converted into stable, high-yield energetic radiation.
 
 ```text
 +========================================================================+
-| LUMEN — FLOW REGISTRY                                                  |
+| SOMNARAK - LUMEN ENERGY PHYSICS & HARVESTING                           |
 +------------------------------------------------------------------------+
-| Source | The Weeping to Alpha Tree to Vault                            |
-| Measure | Lumen Units (LU) per Watch                                   |
-| Primary Vault | Deep Vault — 40,000 LU                                 |
-| Secondary | Per-floor buffers — 5,000 LU                               |
+| Energy Nomenclature    | Lumen Units (LU) - Distilled Han Radiation    |
+| Box Generation         | Positive (Lumen Box) vs Negative (Fracture Box|
+| Daily Quota Scale      | 100% Base Quota -> Overcharge Multiplication  |
+| Physical Manifestation | Golden-White Warmth, Coherent Light Waveforms |
+| Subterranean Sink      | Mnemonic Core Generator beneath Alpha Tree    |
 +========================================================================+
 ```
 
-## Nature
+## Contents
 
-**Lumen** is fluid to semi-crystalline, held in sealed vats and vein-like conduits beneath Facility 01. Pale and clear when stable, it darkens when **Han** density surges. It is silent, with a faint murmur when flowing.
+- [1 Physics of Lumen Radiation](#1-physics-of-lumen-radiation)
+- [2 Positive Extraction and Box Mechanics](#2-positive-extraction-and-box-mechanics)
+- [3 Crystalline Han and Storage Architecture](#3-crystalline-han-and-storage-architecture)
+- [4 Subsystem Power Distribution](#4-subsystem-power-distribution)
+- [5 The Absolvohan Battery and the 1,778 Cycles](#5-the-absolvohan-battery-and-the-1778-cycles)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
 
-Refinement is drawn via the Abyssal Well and filtered through the Deep Vault lattice.
+## 1 Physics of Lumen Radiation
 
-## Storage
+Unlike conventional combustion or electrical power, Lumen possesses unique metaphysical properties:
+- **Emotional Warmth:** Lumen radiates a soothing, golden-white luminescence that restores human psychological balance and suppresses existential despair.
+- **Physical Coherence:** When concentrated, Lumen can be woven into physical textiles and hardened alloys, serving as the raw material for [M.A.W. Equipment](09-M.A.W.%20Equipment.md).
+- **Zero Pollution:** Lumen generates no toxic particulate or greenhouse gas; its sole byproduct is purified water.
 
-| Reservoir | Location | Capacity | State |
-| --- | --- | --- | --- |
-| Primary Vault | Deep Vault, Building 1 | 40,000 LU | Core |
-| Secondary Veins | Beneath each floor | 5,000 LU | Buffer |
-| Tertiary Cells | Collector sub-basements | 1,200 LU | Reserve |
+## 2 Positive Extraction and Box Mechanics
 
-Green (30 to **70** percent): all Works permitted. Amber (below 30): high-cost Works restricted. Red (above 85): breach risk rises.
+During containment interactions, the interacting specialist extracts energy in discrete bursts:
+- **Positive Energy Tick:** Fulfills the entity's psychological resonance, creating a **Lumen Box** (+1 LU).
+- **Negative Energy Tick:** Fractures the emotional communion, generating a **Fracture Box** that deals damage to the operative.
+- The total Lumen capacity per work session scales with entity risk rank (10 LU for Whispers, up to 36 LU for Sovereigns).
 
-After the Dawn, portable cells power the Horizon Caravan and Memory Archive.
+## 3 Crystalline Han and Storage Architecture
 
-## Hazards
+Harvested fluid Lumen is routed through facility conduit pipes into containment batteries:
+- **Fluid Reservoirs:** Stored in pressurized glass cylinders within the Extraction Hall.
+- **Han Crystallization:** Excess energy is condensed into dense, violet-tinged crystalline ingots.
+- These crystals can be safely transported across municipal rail networks to power surface cities.
 
-Deprivation collapses fields. Contamination by unfiltered **Weeping** induces Fracture within watches. Over-extraction deepens the **Maw**.
+## 4 Subsystem Power Distribution
 
-Full doctrine is in `Systems_Combat_Engine_and_Physics/SOMNARAK_LUMEN.md`.
+Daily harvested Lumen directly sustains facility infrastructure:
+- **The Healing Generator:** Consumes steady Lumen to project regenerative fields (6 HP/SP base, 12 HP/SP upgraded) into departmental Main Rooms.
+- **Containment Field Shields:** Powers the electromagnetic seals that keep heavy entities locked inside cells.
+- **Cognition Filter:** Supplies the massive computational power required to maintain the holographic filter over the [Echo-Cores](14-Echo-Cores.md).
 
+## 5 The Absolvohan Battery and the 1,778 Cycles
 
+The historical destiny of Facility 01 was linked to Lumen accumulation:
+- Each 365-day cycle condensed precisely 0.02 tons of pure Han crystal.
+- Over 1,778 repeating cycles, the facility stockpiled over 35.5 tons of crystalline energy.
+- In Year 4,238, this colossal reserve was ignited simultaneously, unleashing the Dawn of Hope.
 
+## 6 Gallery
 
-## Gallery
+![Lumen Storage Battery](https://via.placeholder.com/320x180?text=Lumen+Storage+Battery)
+![Lumen Conduit Piping](https://via.placeholder.com/320x180?text=Conduit+Piping)
+![Han Crystal Ingot](https://via.placeholder.com/320x180?text=Han+Crystal+Ingot)
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
-
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+*Left: fluid Lumen storage battery; Center: glowing conduit piping; Right: refined crystalline Han ingot.*
 ---
 
-## See also
+## 7 See also
 
--[19-**Lumen** Surge](19-Lumen%20Surge.md)
--[34-**M.A.W.** Equipment](34-M.A.W.%20Equipment.md)
+- [19-Lumen Surge](19-Lumen%20Surge.md) — operational harvesting mechanics and quotas
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — fabrication costs using Lumen
+- [32-Genesis](32-Genesis.md) — cosmological origin of Han and the Weeping
+- [22-Departments](22-Departments.md) — Healing Generator and floor power systems

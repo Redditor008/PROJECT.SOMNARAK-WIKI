@@ -1,64 +1,78 @@
 # Genesis
 
-> *“Before the city, there was a river.”*
+> *“From the Weeping came the Han; from the Han came the city; from the city came the mirror.”*
 
-**Genesis** records where sorrow comes from.
+**Genesis**  [형이상학적 기원]  (_Hyeong-isanghakjeok Giwon_) explores the cosmological origin of [Sorrow Entities](07-Sorrow%20Entities.md) and the extraction of **Han** within the world of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
 
-Before the city, there was a river, and the river was already grief. The **Weeping**  [비탄의 강]  (_Bitan-ui Gang_ — River of 🔵 **Lament**) is liquid **Han** flowing beneath Somnarak, older than settlement, cold, silent, and murmuring toward both sorrow and the Alpha Tree  [알파 트리]  (_Alpa Teuri_ — Alpha Tree). Its course and access points — the Abyssal Well, the Deep Vault, the Central Plaza, the Echo Gardens — are.
-
-The **Maw** is the first chasm, opened where the **Weeping** consumed a thousand during the Cheongula  [청굴아]  (_Cheonggura_) in Year 200. It is not a district or a company; it is a City Sorrow — the deepest — and is filed as terrain that cannot be Worked, only quarantined, as `SOMNARAK_CHEONGULA.md` records. From the **Maw** the city learned the cycle that it still repeats: citizens live and generate sorrow; sorrow.
-
-The planetary analogue of the same transaction is **Han** trifurcation. City  [도한]  (_Dohan_) **159**, Inner  [내한]  (_Naehan_) **72**, Outside  [외한]  (_Oehan_) **61** describe where **Han** pools and therefore where sorrow is first told; Veiled Tale roughly 140 already-told fairy tales, Scarred Memory roughly 90 wounds carried, Dream Born roughly 62 dreamed-then-made-tGrudge describe what kind of tale it was when it was first told. Both axes are needed to place a dossier, which is why SECC encodes Origin and Manifestation and why [24-Origins](24-Origins.md) and [25-Types](25-Types.md) are taught alongside Genesis rather than after it. Genesis therefore ends where the **Hand** begins: at the Abyssal Well and the Deep Vault lattice that filters the **Weeping** into something the Watches can carry, a refinement that makes the city not a metaphor for grief but a machine that runs on it, as summarized at [33-Lumen](33-Lumen.md) and [05-Chronicle](05-Chronicle.md).
-
-The Abyssal Well and the Deep Vault lattice are how Genesis handles the refinement that the city never cuts like.gg cuts when a paragraph is unfinished, and the city keeps that refinement as the planetary analogue of municipal law — the Well draws pooled **Han**, the lattice filters the flow into **Lumen**, **Lumen** is held in sealed vats and vein-like conduits, pale and clear when stable and darkening when **Han** density surges, silent with a faint murmur when flowing that training cadres are taught to distinguish from the murmur the **Weeping** makes when it is not flowing at all, as mapped in and where the same **Weeping** is kept as hydrology, not as lore, and where the same Alpha Tree’s roots are kept as drinking the **Weeping**, not as metaphor, because the Tree was grown to drink it and the **Hand** was built to refine it, a transaction that became municipal when the city learned that citizens live→generate sorrow→seep **Weeping**→feed Tree→refine **Lumen**→power containment→operation generates further sorrow, a cycle that is the municipal paradox drawn in and priced per **Watch** in [33-Lumen](33-Lumen.md) and [19-**Lumen** Surge](19-Lumen%20Surge.md) where portable cells after the Dawn carry the same 40,000 LU primary plus 5,000 LU per floor plus 1,200 LU tertiary physics to Horizon Caravan’s six Arcs and Gieok’s seven strata without inventing new physics to fill a stub.
-
-**Han** trifurcation is how Genesis handles tale without cutting like.gg cuts when a paragraph is unfinished, and the city keeps that trifurcation because Veiled Tale roughly 140, Scarred Memory roughly 90, Dream Born roughly 62 share the same **292** but not the same logic — Veiled repeats (Hollow Choir repeats liturgy until **Veil** thins because the city already knew how a choir should sound), Scarred pools (Sorrow Fountain pools grief where a citizen carried it), Dream invents (Wilderness Tide behaves like tide because the **Weeping** dreamed it as geography before the **Hand** named it) — and the three are taught here with Geography City **159** / Inner **72** / Outside **61** so that both axes are needed to place a dossier, which is why SECC encodes Origin and Manifestation and why [24-Origins](24-Origins.md) and [25-Types](25-Types.md) are taught alongside Genesis rather than after it, with SOMNARAK-WORLD completing SOMNARAK-WORLD’s stubs with host citation, not as replacement, and the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new tale is felt it is filed as a variant of one of the three, not as a fourth, so the three remain three and the watch remains sortable, and Genesis therefore ends where the **Hand** begins: at the Well and the lattice that filter the **Weeping** into something the Watches can carry, a refinement that makes the city not a metaphor for grief but a machine that runs on it, as summarized at [33-Lumen](33-Lumen.md) and [05-Chronicle](05-Chronicle.md) where the table, not the story, is the single source of truth.
+Entities in Somnarak are not extraterrestrial invaders or biological mutants. They are metaphysical crystallizations of human grief, dredged up from the subterranean depths of the **Weeping** through municipal extraction wells.
 
 ```text
 +========================================================================+
-| GENESIS — SOURCE                                                       |
+| SOMNARAK - METAPHYSICAL GENESIS & THE WEEPING                          |
 +------------------------------------------------------------------------+
-| Source | The Weeping — river of liquid Han                             |
-| Vein | Alpha Tree roots and Deep Vault                                 |
-| First Chasm | The Maw                                                  |
-| Refinement | Wells to Lumen                                            |
+| Cosmological Source    | The Weeping (Primordial River of Tears)       |
+| Extraction Conduit     | Subterranean Mnemonic Wells beneath the Maw   |
+| Historical Epochs      | SED (Pre-Dawn) -> UCD -> Reverie Directorate  |
+| Critical Milestone     | Supercritical Han Mass at Cycle 1,778         |
+| Climatic Event         | Dawn of Hope (Year 4,238 Municipal Ascension) |
 +========================================================================+
 ```
 
-## The **Weeping**
+## Contents
 
-The **Weeping**  [비탄의 강]  (_Bitan-ui Gang_ — River of 🔵 **Lament**) is liquid **Han** flowing beneath Somnarak, older than settlement. It is cold, silent, and murmurs. It flows toward grief and toward the Alpha Tree  [알파 트리]  (_Alpa Teuri_ — Alpha Tree).
+- [1 The Primordial Source: The Weeping](#1-the-primordial-source-the-weeping)
+- [2 Mnemonic Wells and Subterranean Dredging](#2-mnemonic-wells-and-subterranean-dredging)
+- [3 The Transmutation of Grief into Form](#3-the-transmutation-of-grief-into-form)
+- [4 Historical Epochs: SED, UCD, and the Directorate](#4-historical-epochs-sed-ucd-and-the-directorate)
+- [5 The Dawn of Hope and Supercritical Resonance](#5-the-dawn-of-hope-and-supercritical-resonance)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
 
-Its course and access points (Abyssal Well, Deep Vault, Central Plaza, Echo Gardens) are detailed in the Cosmology codex.
+## 1 The Primordial Source: The Weeping
 
-## The **Maw**
+Deep beneath the bedrock of the continent flows the **Weeping**  [비탄의 강]  (_Bitan-ui Gang_), a vast subterranean current formed from the accumulated tears, regrets, and unfulfilled desires of humanity across millennia:
+- The Weeping contains the complete collective unconscious of civilization.
+- When left undisturbed, its vapors seep upward as raw Han gas, causing widespread melancholy and despair in surface settlements.
+- The Reverie Directorate was founded to dam, extract, and harness this current.
 
-The **Maw** is the first chasm, opened where the **Weeping** consumed a thousand during the Cheongula  [청굴아]  (_Cheonggura_) in Year 200. See `SOMNARAK_CHEONGULA.md`. The **Maw** is a City Sorrow — the deepest.
+## 2 Mnemonic Wells and Subterranean Dredging
 
-## The Cycle
+To tap into the Weeping, the Directorate sank colossal boreholes known as **Mnemonic Wells**:
+- Plunging thousands of meters into the [Maw](41-Frontiers.md), these wells pump primordial grief into the facility's lower extraction chambers.
+- Under the guidance of Lead Zyrak's Extraction Hall, raw Han gas is distilled into distinct, semi-stable metaphysical archetypes.
 
-1. Citizens live and generate sorrow
-2. Sorrow seeps into the **Weeping**
-3. **Weeping** feeds the Alpha Tree
-4. The **Hand** refines the flow into **Lumen**
-5. **Lumen** powers containment
-6. City operation generates further sorrow
+## 3 The Transmutation of Grief into Form
 
-This cycle is the municipal paradox — the city needs its grief to endure, and endurance creates more grief.
+When Han gas interacts with human consciousness, it undergoes rapid crystallization:
+1. **The Catalyst:** A human donor or specialist projects their subconscious thoughts into the extraction alembic.
+2. **The Reflection:** The Weeping mirrors those thoughts, wrapping collective civic folklore around the personal trauma.
+3. **Crystallization:** The metaphysical vapor solidifies into physical flesh, bone, steel, or stone, giving birth to a newborn Sorrow Entity.
 
+## 4 Historical Epochs: SED, UCD, and the Directorate
 
+The mastery over sorrow progressed through three distinct municipal eras:
+1. **Sorrow Extraction Division (SED):** The primitive pioneering era. High casualty rates, crude iron cages, and catastrophic containment ruptures.
+2. **Unified Containment Directorate (UCD):** The era of industrial standardization. Development of early containment chambers and prototype M.A.W. weaving.
+3. **Reverie Directorate (Facility 01):** The modern era. Perfected the four containment protocols, installed the nine Echo-Cores, and initiated the 1,778 Mnemonic Cycles.
 
+## 5 The Dawn of Hope and Supercritical Resonance
 
-## Gallery
+The ultimate purpose of Facility 01 was not indefinite containment, but municipal transcendence:
+- Over 1,778 repeating cycles between Years 4,232 and 4,238, each 365-day shift distilled precisely 0.02 tons of crystalline Han.
+- In Year 4,238, the total accumulated mass became supercritical, igniting the **Absolvohan Engine** and birthing the **Dawn of Hope**  [희망의 여명] .
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+## 6 Gallery
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+![The Weeping Subterranean Current](https://via.placeholder.com/320x180?text=The+Weeping+Current)
+![Mnemonic Well Extraction](https://via.placeholder.com/320x180?text=Mnemonic+Well+Borehole)
+![The Dawn of Hope Resonance](https://via.placeholder.com/320x180?text=Dawn+of+Hope+Resonance)
+
+*Left: artistic depiction of the subterranean Weeping; Center: Mnemonic Well extraction shaft; Right: Dawn of Hope light.*
 ---
 
-## See also
+## 7 See also
 
--[07-Sorrow Entities](07-Sorrow%20Entities.md#1-overview)
--[33-Lumen](33-Lumen.md)
+- [05-Chronicle](05-Chronicle.md) — master historical chronicle and narrative Cantos
+- [33-Lumen](33-Lumen.md) — the physics and refinement of extracted Han-Energy
+- [41-Frontiers](41-Frontiers.md) — the six external frontiers and the Maw
+- [24-Origins](24-Origins.md) — the three psychological origins of entities
