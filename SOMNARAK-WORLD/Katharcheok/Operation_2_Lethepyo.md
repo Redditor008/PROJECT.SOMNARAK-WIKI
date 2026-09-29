@@ -349,8 +349,8 @@ The battle for the memory of the city had begun.
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the neutralization ward. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Advances through overhead drainage catwalks to Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Chief Chemist Sura unleashes `[Pressurized Pale Spray]` (Base 13 + 2 Coins = 25 Power, Corrosive) against Node 02.
-    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 15 + 2 Coins = 29 Power, Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: Chief Chemist Sura unleashes `[Pressurized Pale Spray]` (Base 13 + 2 Lots = 25 Power, Corrosive) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 15 + 2 Lots = 29 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (29 vs 25)!
     * The kinetic force field disperses the toxic chemical stream without a drop breaching the shield (`[P3: Parry/Protection]`).
     * Taeho reflects **150 kinetic tremor damage** back into Sura's heavy hazmat exoskeleton! Inflicts +26 Posture Strain.
@@ -419,8 +419,8 @@ The battle for the memory of the city had begun.
   * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure.
   * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Leaded Ring]` (2 AP) around SE-C-IIIγ-928's vapor perimeter.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Distillation Sprayer fires `[Concentrated Oblivion Jet]` (Base 11 + 2 Coins = 23 Power, Mind Drain).
-    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 15 + 2 Coins = 27 Power, Heavy Blunt).
+  * **Clash 1 (Node 04 to 05)**: Distillation Sprayer fires `[Concentrated Oblivion Jet]` (Base 11 + 2 Lots = 23 Power, Mind Drain).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 15 + 2 Lots = 27 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (27 vs 23)!
     * The hydraulic ram smashes straight into the outer vapor manifold of the sprayer!
     * Deals **480 Blunt damage** directly to the Distillation Sprayer arm and inflicts +48 Posture Strain!
@@ -480,8 +480,8 @@ The battle for the memory of the city had begun.
   * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on Sura's power cell.
   * Infiltrator Echo (Speed 9 -> 5 AP): Drops from catwalk onto Sura's back chassis, driving `[Eclipse Stiletto]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: Sura unleashes `[Aerosol Amnesia Storm]` (Base 14 + 2 Coins = 26 Power, Mind Drain).
-    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 18 + 2 Coins = 30 Power, High-Precision Pierce).
+  * **Clash 1 (Node 07 to 05)**: Sura unleashes `[Aerosol Amnesia Storm]` (Base 14 + 2 Lots = 26 Power, Mind Drain).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 18 + 2 Lots = 30 Power, High-Precision Pierce).
     * **Clash Outcome**: Minho WINS THE CLASH (30 vs 26)!
     * Minho's silver lancet pierces the central rotary valve of the sprayer arm with microscopic accuracy!
     * **TARGETED PART DESTROYED**: `[The Chemical Distillation Sprayer]` explodes into twisted aluminum and sparking cables (**920 Sprayer HP destroyed: 0/1,400**)!
@@ -543,8 +543,8 @@ The battle for the memory of the city had begun.
   * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect civilian minds.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to begin unjamming hostage restraint locks (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-928 unleashes `[Pale Oblivion Surge: Tidal Amnesia]` (Base 21 + 2 Coins = 31 Power, Area Mind Purge).
-    * Handler Soojin deploys `[Leaded Sanctuary: Damping Field]` (Base 24 + 2 Coins = 34 Power, Vacuum Barrier).
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-928 unleashes `[Pale Oblivion Surge: Tidal Amnesia]` (Base 21 + 2 Lots = 31 Power, Area Mind Purge).
+    * Handler Soojin deploys `[Leaded Sanctuary: Damping Field]` (Base 24 + 2 Lots = 34 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (34 vs 31)!
     * The lead-lined resonance sphere captures the psychic blast perfectly (`[P3: Parry/Protection]`).
     * Zero amnesiac particles penetrate the leaded ward. Soojin redirects the captured resonance back into the entity's core, dealing **450 Void damage** and +66 Posture Strain!
@@ -599,7 +599,7 @@ The battle for the memory of the city had begun.
   * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 4,216 stolen memory files at Node 06 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10)**: SE-C-IIIγ-928 lashes out with `[Grasping Shroud of Forgetfulness]` (Atk Power 27, Pierce).
-    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 22 + 2 Coins Heads = 32 Power, Slash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 22 + 2 Lots Marked = 32 Power, Slash).
     * **Clash Outcome**: Echo WINS THE CLASH (32 vs 27)!
     * Echo slices cleanly through the synthetic sorrow conduits feeding the miasma core!
     * **CRITICAL HIT!** Deals **580 Slash damage** directly to the core and strips 70 Posture points!

@@ -47,7 +47,7 @@ The Willow Cloak is a deep-blue billowing cloak of fine Han cloth with long pale
 | Lament | 0.4 | Resistant | The cloak shelters a bearer from overwhelming farewell pressure. |
 | Grudge | 1.0 | Normal | It cannot make anger toward an ending disappear. |
 | Void | 1.6 | Weak | Total absence from others becomes unsafe. |
-| Weight | 0.8 | Endured | A named return makes grief easier to carry. |
+| Weight | 0.8 | Warded | A named return makes grief easier to carry. |
 
 | Field | Record |
 |---|---|

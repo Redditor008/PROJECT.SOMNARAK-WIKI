@@ -24,7 +24,7 @@ The Gallery Shroud is a long wrap of blue silk so fine that portrait light passe
 
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
-| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Endured |
+| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded |
 
 **Maximum / Echo Cost:** 4 / 20. **Cost:** Minor joys numb after extended voice exposure.
 

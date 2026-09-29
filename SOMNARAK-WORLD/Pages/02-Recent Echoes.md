@@ -51,7 +51,7 @@ This dispatch records recent operational updates within Facility 01, containment
 
 ### Revision 1.1 (Cycle 1,777.89) — Specialist Attributes & Panic Matrices
 - Refined the four core attributes: Resilience (HP), Clarity (SP), Composure (Success), and Resolve (Speed).
-- Balanced the four distinct Panic states (Murder, Suicide, Wander, Sabotage) and white/mental recovery strikes.
+- Balanced the four distinct Panic states (Rampage, Self-Undoing, Drifting, Sabotage) and Lament/mental recovery strikes.
 
 ### Revision 1.0 (Cycle 1,775.01) — Initial Mnemonic Archive Standardization
 - Inaugural binding of the 16 Research Volumes and the 18-Section Archival Codex standard.

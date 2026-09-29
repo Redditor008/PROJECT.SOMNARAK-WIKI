@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Settling* [**Debuff**] } | "The floor dips — and you realize the pillar beneath you has been sinking for a long time." | [The Pillar descends; the target feels the slow drop.] | *Target suffers a Void mark; the support is failing.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stands over the Pillar. |
 | { *The Submerged Base* [**Debuff**] } | "The pillar's foundation is gone — swallowed — and now the rest follows." | [The Pillar's base is lost; the target feels the instability above.] | *Target loses clarity; nothing below is solid.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Toppling* [**Attack**] } | "The pillar falls — slowly, massively, inevitably." | [The Pillar collapses onto the target.] | *Inflicts Pale White damage; a massive portion erodes.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
+| { *The Toppling* [**Attack**] } | "The pillar falls — slowly, massively, inevitably." | [The Pillar collapses onto the target.] | *Inflicts Void damage; a massive portion erodes.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
 | { *The Void Below* [**Attack**] } | "The floor opens — and the void that swallowed the foundation reaches for you." | [The Pillar's sunken void surges upward.] | *A heavy Void pull; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
 | { *Everything Sinks* [**Ultimate**] } | "Every pillar, every support — gone. The whole field drops into the void." | [The Pillar's failure spreads; everything loses its foundation.] | *All in range suffer Pale White erosion for three turns as all descends.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -203,7 +203,7 @@ The escalation pattern is specific to Sunken Pillar: it is not a generic breach 
 **Appearance:** a columnar plate of pale Han-glass, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

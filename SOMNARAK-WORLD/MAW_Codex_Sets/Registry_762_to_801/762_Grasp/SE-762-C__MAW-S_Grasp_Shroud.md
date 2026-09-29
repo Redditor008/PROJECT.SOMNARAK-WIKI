@@ -27,7 +27,7 @@ The Grasp Shroud is the suit record of Grasp’s set, granting resistance to Lam
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Endured) | 3 / 35 Sorrow Echoes |
+| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Grasp's source sorrow feel autobiographical.
 

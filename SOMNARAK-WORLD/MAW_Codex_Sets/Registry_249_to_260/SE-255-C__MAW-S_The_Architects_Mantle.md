@@ -26,7 +26,7 @@ The Architect’s Mantle is a matte black garment of Han weave with open seams e
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Endured | 3 / 35 Echoes |
+| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 Echoes |
 
 **Unfinished Span:** Weight follows the open seams around the body instead of landing fully on it. Closing a seam with tools, cargo, or another person removes protection.
 

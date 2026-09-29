@@ -47,7 +47,7 @@ During the The Giver of Blessing Source-Trace, the field team preserved this sou
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Gentle Hand | β Lament 3–6; Speed 1 (Slow); Range 1 (Close); Single; max 5; 25 Sorrow Echoes | `SE-1007-B__MAW-W_The_Gentle_Hand.md` |
-| The Brightened Cloak | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 5; 20 Sorrow Echoes | `SE-1007-C__MAW-S_The_Brightened_Cloak.md` |
+| The Brightened Cloak | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 5; 20 Sorrow Echoes | `SE-1007-C__MAW-S_The_Brightened_Cloak.md` |
 | The Mark | β; Hand; 5%; +1 stat bonus when working the source entity | `SE-1007-D__MAW-G_The_Mark.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -47,7 +47,7 @@ During the The Dawn of Mourning Source-Trace, the field team preserved this sour
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Dawn of Requiem | ω Lament 13-20; Speed 4 (Very Fast); Range 4 (Long); —; max 1; 70 Sorrow Echoes | `SE-044-B__MAW-W_The_Dawn_of_Requiem.md` |
-| The Dawn of Shroud | ω; L/G/V/W 0.4 (Resistant)/1.0 (Normal)/1.6 (Weak)/0.8 (Endured); max 1; 65 Sorrow Echoes | `SE-044-C__MAW-S_The_Dawn_of_Shroud.md` |
+| The Dawn of Shroud | ω; L/G/V/W 0.4 (Resistant)/1.0 (Normal)/1.6 (Weak)/0.8 (Warded); max 1; 65 Sorrow Echoes | `SE-044-C__MAW-S_The_Dawn_of_Shroud.md` |
 | The Dawn of Charm | ω; Tail; 3%; +4 stat bonus when working the source entity | `SE-044-D__MAW-G_The_Dawn_of_Charm.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

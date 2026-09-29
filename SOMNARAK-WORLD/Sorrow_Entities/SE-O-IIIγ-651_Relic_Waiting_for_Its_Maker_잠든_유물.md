@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Dormant Pulse* [**Debuff**] } | "The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and the deep brain." | [The Relic's dormant energy field permeates the target; they feel ancient potential.] | *Target suffers a Void mark; the sleeping artifact is aware of them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |
 | { *The Dream-Glow* [**Debuff**] } | "The relic glows faintly — dreaming of the power it used to hold — and the glow pulls at your own stored energy." | [The Relic's dream-state drains the target subtly.] | *Target loses clarity; their energy is being siphoned by a dream.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Sleep-Reflex* [**Attack**] } | "The relic twitches — an involuntary discharge of dormant power." | [An accidental burst from the sleeping Relic.] | *Inflicts Pale White damage; the reflex-discharge erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Relic is touched. |
+| { *The Sleep-Reflex* [**Attack**] } | "The relic twitches — an involuntary discharge of dormant power." | [An accidental burst from the sleeping Relic.] | *Inflicts Void damage; the reflex-discharge erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Relic is touched. |
 | { *The Full Awakening* [**Attack**] } | "The relic wakes — and for one instant, it is as powerful as it ever was — and the power is staggering." | [The Relic's brief awakening releases its complete stored potential.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Relic is forced awake. |
 | { *The Waking Vault* [**Ultimate**] } | "Every dormant relic in the field awakens — and the combined discharge of ancient power overwhelms everything." | [The Relic extends its waking across the whole area.] | *All in range suffer Pale White erosion for three turns of waking artifacts.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -237,7 +237,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

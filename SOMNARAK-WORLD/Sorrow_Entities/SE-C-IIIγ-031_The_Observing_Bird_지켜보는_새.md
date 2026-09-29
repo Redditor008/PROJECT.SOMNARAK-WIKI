@@ -201,7 +201,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 

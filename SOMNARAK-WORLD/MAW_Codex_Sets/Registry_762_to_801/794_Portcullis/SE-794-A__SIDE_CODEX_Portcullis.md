@@ -47,7 +47,7 @@ During the The Portcullis Source-Trace, the field team preserved this source fac
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Collapsed Requiem | α Lament 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-794-B__MAW-W_The_Collapsed_Requiem.md` |
-| The Collapsed Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 5; 10 Sorrow Echoes | `SE-794-C__MAW-S_The_Collapsed_Shroud.md` |
+| The Collapsed Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 5; 10 Sorrow Echoes | `SE-794-C__MAW-S_The_Collapsed_Shroud.md` |
 | The Collapsed Key | α; Tail; 5%; +1 stat bonus when working the source entity | `SE-794-D__MAW-G_The_Collapsed_Key.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

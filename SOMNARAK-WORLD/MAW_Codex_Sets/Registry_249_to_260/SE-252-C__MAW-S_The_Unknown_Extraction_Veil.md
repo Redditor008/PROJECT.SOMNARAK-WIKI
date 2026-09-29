@@ -27,7 +27,7 @@ The Unknown Extraction Veil is a near-colorless suit of Han gossamer with thirte
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 — Weak | 0.8 — Endured | 0.3 — Resistant | 1.1 — Weak | 2 / 45 Echoes |
+| 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 2 / 45 Echoes |
 
 **Thirteen Seams:** Each seam takes one second of identity pressure. At the final seam, protection ends regardless of content or listener readiness.
 

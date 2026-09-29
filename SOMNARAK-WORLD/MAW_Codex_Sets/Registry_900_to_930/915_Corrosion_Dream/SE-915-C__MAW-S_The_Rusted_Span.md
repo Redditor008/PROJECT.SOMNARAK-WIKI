@@ -27,7 +27,7 @@ The Rusted Span is the suit record of the Corrosion Dream set — γ-grade, Void
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 (Weak) | 0.8 (Endured) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
+| 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels everyone who cannot follow. Continued use makes Corrosion Dream's source sorrow feel autobiographical.
 

@@ -280,8 +280,8 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on `[Resonance Snare: Leaded Line]`. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Advances through high catwalk conduits to Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Boss Gwangseok declares `[Anvil Cleave]` (Base 12 + 2 Coins = 24 Power, Heavy Blunt) against Node 02.
-    * Commander Taeho counters with `[Phalanx Bastion]` (Base 14 + 2 Coins = 28 Power, Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: Boss Gwangseok declares `[Anvil Cleave]` (Base 12 + 2 Lots = 24 Power, Heavy Blunt) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion]` (Base 14 + 2 Lots = 28 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (28 vs 24)!
     * Taeho's heavy obsidian mantlet completely absorbs the kinetic shock (`[P3: Parry/Protection]`).
     * Reflects **140 kinetic tremor damage** back into Gwangseok's pneumatic chassis! Inflicts +24 Posture Strain.
@@ -350,7 +350,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * Investigator Minho (Speed 7 -> 4 AP): Focuses optical lens from Node 07 on Gwangseok's hammer joint. Spends 2 AP on `[Neural Lancet]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 06 to 05)**: Boss Gwangseok attempts `[Counterfeit Cloak Burst]` (Power 22).
-    * Auditor Yuna unleashes `[Veil EMP Disruptor]` (Base 15 + 2 Coins = 27 Power, EMP Overload).
+    * Auditor Yuna unleashes `[Veil EMP Disruptor]` (Base 15 + 2 Lots = 27 Power, EMP Overload).
     * **Clash Outcome**: Yuna WINS THE CLASH (27 vs 22)!
     * The EMP wave detonates across Node 05. The false cloaking gems overload, crackling violently before disintegrating into gray mineral ash!
     * Gwangseok suffers **320 Pale Resonance Shock**! Evasion drops permanently to 0%, and Posture takes +38 Strain!
@@ -404,8 +404,8 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * Commander Taeho (Speed 6 -> 3 AP): Charges from Node 02 to Node 04, locking mantlets beside Joon. Spends 2 AP on `[Acoustic Crackdown]`.
   * Investigator Minho (Speed 7 -> 4 AP): Fires `[Cryo-Needle]` at hydraulic fuel lines from Node 07 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Boss Gwangseok declares `[Sledgehammer Execution]` (Base 16 + 2 Coins = 26 Power, Heavy Blunt).
-    * Engineer Joon executes `[Hydraulic Impact Ram]` (Base 19 + 2 Coins = 31 Power, Structural Sapping).
+  * **Clash 1 (Node 04 to 05)**: Boss Gwangseok declares `[Sledgehammer Execution]` (Base 16 + 2 Lots = 26 Power, Heavy Blunt).
+    * Engineer Joon executes `[Hydraulic Impact Ram]` (Base 19 + 2 Lots = 31 Power, Structural Sapping).
     * **Clash Outcome**: Joon WINS THE CLASH (31 vs 26)!
     * The pneumatic ram strikes directly at the hammer's articulated wrist coupling!
     * **TARGETED PART DESTROYED**: `[The Industrial Forging Hammer]` shatters into twisted scrap and hydraulic spray (**1,130 Exoskeleton HP instantly destroyed**)!
@@ -467,8 +467,8 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * Auditor Yuna (Speed 7 -> 4 AP): Intercepts SECC-019's secondary resonance relay with `[Asset Foreclosure]` (2 AP).
   * Investigator Minho (Speed 7 -> 4 AP): Administers `[Mnemonic Recall Salve]` (2 AP), restoring +15 SP across squad.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10 to 06)**: Berserk SECC-019 unleashes `[Delusion of the False Sky]` (Base 20 + 2 Coins = 28 Power, Area Psychic Pulse).
-    * Handler Soojin deploys `[Leaded Damping Bubble]` (Base 22 + 2 Coins = 30 Power, Vacuum Barrier).
+  * **Clash 1 (Node 10 to 06)**: Berserk SECC-019 unleashes `[Delusion of the False Sky]` (Base 20 + 2 Lots = 28 Power, Area Psychic Pulse).
+    * Handler Soojin deploys `[Leaded Damping Bubble]` (Base 22 + 2 Lots = 30 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (30 vs 28)!
     * The lead-lined vacuum sphere expands, fully absorbing the psychic shockwave (`[P3: Parry/Protection]`).
     * Zero psychic damage breaches the barrier. Soojin redirects vacuum back-pressure, dealing **140 Void damage** to SECC-019 and +58 Posture Strain!
@@ -524,7 +524,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
   * Engineer Joon (Speed 5 -> 3 AP): Pinning Gwangseok's legs with hydraulic jacks at Node 05 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10)**: SECC-019 attempts `[Suffocating False Embrace]` (Atk Power 23, Pierce).
-    * Infiltrator Echo strikes with `[Stiletto Sever from Stealth]` (Base 22 + 2 Coins Heads = 32 Power, Slash).
+    * Infiltrator Echo strikes with `[Stiletto Sever from Stealth]` (Base 22 + 2 Lots Marked = 32 Power, Slash).
     * **Clash Outcome**: Echo WINS THE CLASH (32 vs 23)!
     * Echo's phase-tuned blades slice cleanly through the synthetic sorrow conduits feeding the shroud!
     * **CRITICAL HIT!** Deals **580 Slash damage** directly to the core and wipes out all remaining Posture!

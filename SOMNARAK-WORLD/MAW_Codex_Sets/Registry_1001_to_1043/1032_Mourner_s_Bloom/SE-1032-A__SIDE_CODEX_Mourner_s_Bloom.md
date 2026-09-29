@@ -47,7 +47,7 @@ During the The Mourner s Bloom Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Sorrow Requiem | α Lament 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-1032-B__MAW-W_The_Sorrow_Requiem.md` |
-| The Sorrow Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 5; 10 Sorrow Echoes | `SE-1032-C__MAW-S_The_Sorrow_Shroud.md` |
+| The Sorrow Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 5; 10 Sorrow Echoes | `SE-1032-C__MAW-S_The_Sorrow_Shroud.md` |
 | The Sorrow Petal | α; Tail; 5%; +1 stat bonus when working the source entity | `SE-1032-D__MAW-G_The_Sorrow_Petal.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

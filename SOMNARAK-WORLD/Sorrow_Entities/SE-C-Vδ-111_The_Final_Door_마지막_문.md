@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Last Threshold* [**Debuff**] } | "This is the final door — there are no more after this — and what lies beyond is the end of doors." | [The Door's finality presses on the target; they feel the weight of the last choice.] | *Target suffers a Void mark; the finality is absolute.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target faces the Door. |
 | { *The No-Return* [**Debuff**] } | "Once you open this door, you cannot come back — and the door knows this, and it is patient." | [The Door's permanence bears down; the target feels trapped by the choice.] | *Target loses clarity; every option leads through the Door.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target hesitates. |
-| { *The Iron Frame* [**Attack**] } | "The door's frame hardens — and the threshold itself strikes." | [The Door's frame becomes a weapon.] | *Inflicts Pale White damage; the passage costs identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Door is touched. |
+| { *The Iron Frame* [**Attack**] } | "The door's frame hardens — and the threshold itself strikes." | [The Door's frame becomes a weapon.] | *Inflicts Void damage; the passage costs identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Door is touched. |
 | { *The Full Opening* [**Attack**] } | "The door swings wide — and what is behind it is vast, and final, and hungry." | [The Door opens completely; the void beyond pours through.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Door is forced. |
 | { *Every Door Is the Last* [**Ultimate**] } | "Now every door in the field is the final door — and behind every one, the same endless void waits." | [The Door extends its finality to every opening.] | *All in range suffer Pale White erosion for three turns of final doors.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -247,7 +247,7 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 2

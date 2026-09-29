@@ -37,7 +37,7 @@ The Dream Shroud is a suit of deep-blue dream-cloth that hangs like slow water, 
 
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
-| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Endured |
+| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded |
 
 **Echo Cost:** 35. **Cost:** Minor joys numb after immersion; anchor may terminate use.
 

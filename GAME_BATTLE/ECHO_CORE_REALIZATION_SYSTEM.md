@@ -118,10 +118,10 @@ Every Departmental Realization War adheres to the immutable four-phase psycholog
 
 | Boss Part | Base HP | Posture | Resistances (Grudge / Lament / Void / Weight) |
 |:---|:---:|:---:|:---:|
-| **Iron Maw Chest-Core** | 4,200 | 650 | Ineffective (0.5x) / Normal (1.0x) / Fatal (2.0x) / Normal (1.0x) |
-| **Left Cybernetic Crusher** | 1,800 | 280 | Normal (1.0x) / Ineffective (0.5x) / Normal (1.0x) / Fatal (2.0x) |
-| **Right Maw-Anchor Arm** | 1,800 | 280 | Normal (1.0x) / Ineffective (0.5x) / Normal (1.0x) / Fatal (2.0x) |
-| **Anchor Chain Pylons (x2)** | 1,200 | 180 | Fatal (2.0x) / Normal (1.0x) / Ineffective (0.5x) / Ineffective (0.5x) |
+| **Iron Maw Chest-Core** | 4,200 | 650 | Ineffective (0.5x) / Normal (1.0x) / Exposed (2.0x) / Normal (1.0x) |
+| **Left Cybernetic Crusher** | 1,800 | 280 | Normal (1.0x) / Ineffective (0.5x) / Normal (1.0x) / Exposed (2.0x) |
+| **Right Maw-Anchor Arm** | 1,800 | 280 | Normal (1.0x) / Ineffective (0.5x) / Normal (1.0x) / Exposed (2.0x) |
+| **Anchor Chain Pylons (x2)** | 1,200 | 180 | Exposed (2.0x) / Normal (1.0x) / Ineffective (0.5x) / Ineffective (0.5x) |
 
 ---
 
@@ -255,7 +255,7 @@ In the final phase, Dekan ascends into his true Echo-Core form: **Neokvox**. His
 ### 4. Floor 6: Marjuk, The Archive Lead — *The Well of Forgotten Sins*
 - **Thematic Core**: Marjuk confronts the moral weight of censorship—burying history, erasing inconvenient names, and silencing the truth.
 - **Phase Manifestations**:
-  * Phase 1: *The Censored Stacks* — Black ink waterfalls obscure target cards and coin values.
+  * Phase 1: *The Censored Stacks* — Black ink waterfalls obscure targeting locks and lot values.
   * Phase 2: *The Burning Paper* — Pyres of burning historical records unleash choking ash and sorrow curses.
   * Phase 3: *The Nameless Martyrs* — Shadows with scrubbed faces attack from the archives' subterranean depths.
   * Phase 4: *Gieovox: The Eternal Record* — Marjuk opens the sealed codices, proclaiming that every sorrow must be recorded so that none are repeated.
@@ -309,8 +309,8 @@ Every operative deployed on that floor permanently gains the unlocked passive en
 - **Fl 02: Unshakable Maw Bastion**: When an ally's Posture falls below 30%, they immediately gain +50% physical resistance and immune to knockback for 2 turns.
 - **Fl 03: Pure Glass Extraction**: Increases M.A.W. weapon resonance damage by +15% and increases item drop purity by +20%.
 - **Fl 04: Calculated Compassion**: Allied clash power increases by +1 for every 10 points of Composure lost, turning psychological strain into kinetic precision.
-- **Fl 05: Open Bulwark Aegis**: All operatives within Range Band 1 of a shield-wielding ally gain +2 coin power on all defensive parry rolls.
-- **Fl 06: Uncensored Remembrance**: Prevents enemy skills from obscuring intent dice, hiding coin values, or inflicting memory scrambled status.
+- **Fl 05: Open Bulwark Aegis**: All operatives within Range Band 1 of a shield-wielding ally gain +2 lot power on all defensive parry rolls.
+- **Fl 06: Uncensored Remembrance**: Prevents enemy skills from obscuring intent dice, hiding lot values, or inflicting memory scrambled status.
 
 ### 2. Lead Sovereign Transformation Skills
 Once an Echo-Core Lead achieves Realization, they gain access to a dedicated **Sovereign Awakening Card** in battle. When cast, the Lead temporarily assumes their transcendent vox-avatar for 3 turns, gaining 5 Action Slots, maximum Speed Bands [6-10], and an exclusive ultimate skill capable of changing the battlefield landscape.

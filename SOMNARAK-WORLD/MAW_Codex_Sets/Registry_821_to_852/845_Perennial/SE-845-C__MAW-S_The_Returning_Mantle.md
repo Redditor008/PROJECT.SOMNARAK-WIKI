@@ -27,7 +27,7 @@ The Returning Mantle is the suit record of Perennial’s set, granting resistanc
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Endured) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Perennial's source sorrow feel autobiographical.
 

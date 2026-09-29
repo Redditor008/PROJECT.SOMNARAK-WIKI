@@ -201,7 +201,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 

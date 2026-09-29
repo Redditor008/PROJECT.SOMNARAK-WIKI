@@ -22,7 +22,7 @@
 - **Target Identifier & Alias:** The King of Menders (수선왕 — *Suseonwang* / Sovereign of the Needle Warrens)
 - **Classification:** Underworld Syndicate Boss / Autonomous Cybernetic Flesh-Construct
 - **Primary Domain:** The Needle Warrens & East Flues (-1,200m Deep Strata / The Raw)
-- **Primary Affinities:** Weight (Primary Kinetic) • Grudge (Secondary Heat/Slag) • Void (Fatal Vulnerability)
+- **Primary Affinities:** Weight (Primary Kinetic) • Grudge (Secondary Heat/Slag) • Void (Exposed Vulnerability)
 - **Territorial Jurisdiction:** Autonomous Sovereign of the Five Underworld Syndicates
 - **Lore Profile & Macro-Canon Significance:**
   Deep within the subterranean abyss of The Raw—far beneath municipal jurisdiction and the reaching roots of the Alpha Tree—lies the labyrinthine territory known as the **Needle Warrens**. While the legitimate Menders Guild acts as an honorable civic repair brigade for the city's crumbling infrastructure, rogue grandmasters who survived the historical Cheongula catastrophe broke away to establish an extralegal criminal dynasty.
@@ -69,16 +69,16 @@ The King of Menders functions as an interconnected quadripartite modular combat 
 
 ### 3.1 Part 1: Welded Flesh-Core (Torso / Boiler)
 - **Hit Point Pool:** 1,200 HP • **Rupture Threshold:** 720 HP Sustained (Remaining HP: 480)
-- **Defense Multipliers:** Void 1.6x (Fatal Vulnerability) • Weight 0.8x • Lament 1.0x • Grudge 1.2x
+- **Defense Multipliers:** Void 1.6x (Exposed Vulnerability) • Weight 0.8x • Lament 1.0x • Grudge 1.2x
 - **Part Passive (Flesh Graft Overdrive):** Circulating pressurized Han-blood through internal copper pipes, the boiler restores 15 HP to all modular limbs at turn start.
 - **Rupture Penalty:**
   * Disables *Flesh Graft Overdrive*.
   * Permanently disables internal regeneration.
-  * Shifts core defense from 1.6x to **2.0x Fatal Void**, triggering instant **Phase 3 Stance Shift**.
+  * Shifts core defense from 1.6x to **2.0x Exposed Void**, triggering instant **Phase 3 Stance Shift**.
 
 ### 3.2 Part 2: Piston-Needle Arm (Right Weapon Limb)
 - **Hit Point Pool:** 800 HP • **Rupture Threshold:** 480 HP Sustained (Remaining HP: 320)
-- **Defense Multipliers:** Weight 1.4x (Fatal Vulnerability) • Grudge 1.0x • Lament 1.0x • Void 0.8x
+- **Defense Multipliers:** Weight 1.4x (Exposed Vulnerability) • Grudge 1.0x • Lament 1.0x • Void 0.8x
 - **Part Passive (Suture Harpoon Mastery):** Grants +2 Clash Power to all piercing needle and tether attacks.
 - **Rupture Penalty:**
   * Cancels *Suture Harpoon Mastery*.
@@ -207,7 +207,7 @@ The King of Menders functions as an interconnected quadripartite modular combat 
 3. **Tertiary Target — Solder Crucible Arm:**
    Extinguish the slag cauldron to remove the dangerous area burn hazard and lower the King's Base Speed.
 4. **Final Target — Welded Flesh-Core Execution:**
-   With all modular defenses shattered and the core exposed to 2.0x Fatal Void damage, unleash high-tier Void execution skills to trigger terminal Composure Meltdown.
+   With all modular defenses shattered and the core exposed to 2.0x Exposed Void damage, unleash high-tier Void execution skills to trigger terminal Composure Meltdown.
 
 ### 6.2 Recommended 4-Operative Squad Roster & Archetype Pairings
 

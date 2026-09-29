@@ -21,10 +21,10 @@
 | Grade | δ |
 | Element | Mixed |
 | Appearance | A pink magical-girl uniform with white and golden trim that glows in the active persona's color state. |
-| Lament resistance | 0.6 (Endured) |
-| Grudge resistance | 0.6 (Endured) |
-| Void resistance | 0.8 (Endured) |
-| Weight resistance | 0.8 (Endured) |
+| Lament resistance | 0.6 (Warded) |
+| Grudge resistance | 0.6 (Warded) |
+| Void resistance | 0.8 (Warded) |
+| Weight resistance | 0.8 (Warded) |
 | Max Amount | 2 |
 | Echo cost | 45 Sorrow Echoes |
 | Canonical ability | Grants resistance to Mixed and sorrow pressure; the costume's glow can stabilize one persona's control for a short window. |

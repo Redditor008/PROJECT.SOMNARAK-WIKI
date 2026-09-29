@@ -47,7 +47,7 @@ During the The Stranded Between Two Shores Source-Trace, the field team preserve
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Crossing Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-823-B__MAW-W_The_Crossing_Requiem.md` |
-| The Crossing Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 2; 45 Sorrow Echoes | `SE-823-C__MAW-S_The_Crossing_Shroud.md` |
+| The Crossing Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-823-C__MAW-S_The_Crossing_Shroud.md` |
 | The Crossing Chain | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-823-D__MAW-G_The_Crossing_Chain.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

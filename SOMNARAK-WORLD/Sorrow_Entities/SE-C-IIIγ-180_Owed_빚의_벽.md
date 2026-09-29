@@ -219,7 +219,7 @@ The escalation pattern is specific to Owed: it is not a generic breach event. Pe
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
 - Void: 1.5 (Weak)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 

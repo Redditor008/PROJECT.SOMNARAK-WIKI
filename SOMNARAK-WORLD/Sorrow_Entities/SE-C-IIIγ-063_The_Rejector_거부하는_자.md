@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Pushed Hand* [**Debuff**] } | "It raises a hand — palm out — and the gesture erases you from the world's attention." | [The Rejector denies the target's existence; reality begins to forget them.] | *Target suffers a Void mark; they are being rejected by existence.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches. |
 | { *The Denied Name* [**Debuff**] } | "It refuses to say your name — and the refusal makes the name start to fade from your own memory." | [The Rejector's denial erodes the target's identity.] | *Target loses clarity; they are becoming unnamed.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target introduces themselves. |
-| { *The Rejected Blow* [**Attack**] } | "It bats your attack aside — not with force, but with refusal. The attack was never real." | [The Rejector negates then strikes; the target's own rejected force rebounds.] | *Inflicts Pale White damage; the rejected portion is erased.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target attacks. |
+| { *The Rejected Blow* [**Attack**] } | "It bats your attack aside — not with force, but with refusal. The attack was never real." | [The Rejector negates then strikes; the target's own rejected force rebounds.] | *Inflicts Void damage; the rejected portion is erased.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target attacks. |
 | { *The Total Denial* [**Attack**] } | "It denies everything you are — and the denial is so complete that parts of you simply stop existing." | [The Rejector unleashes full existential rejection.] | *A heavy Void negation; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Rejector is cornered. |
 | { *Everything Rejected* [**Ultimate**] } | "Now it rejects everything — the room, the people, the air — and the rejection leaves only void." | [The Rejector extends its denial across the whole field.] | *All in range suffer Pale White erosion for three turns of total rejection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -194,7 +194,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

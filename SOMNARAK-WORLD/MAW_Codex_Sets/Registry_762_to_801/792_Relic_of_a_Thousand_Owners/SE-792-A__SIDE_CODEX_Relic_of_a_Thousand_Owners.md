@@ -47,7 +47,7 @@ During the The Relic of a Thousand Owners Source-Trace, the field team preserved
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Flowing Hammer | γ Lament 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-792-B__MAW-W_The_Flowing_Hammer.md` |
-| The Flowing Shroud | γ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 3; 35 Sorrow Echoes | `SE-792-C__MAW-S_The_Flowing_Shroud.md` |
+| The Flowing Shroud | γ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 3; 35 Sorrow Echoes | `SE-792-C__MAW-S_The_Flowing_Shroud.md` |
 | The Flowing Charm | γ; Tail; 4%; +2 stat bonus when working the source entity | `SE-792-D__MAW-G_The_Flowing_Charm.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

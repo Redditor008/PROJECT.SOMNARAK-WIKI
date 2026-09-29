@@ -26,7 +26,7 @@
 | - Total Health (HP): 4,800 HP | Posture Pool: 340/340               |
 | - Stagger 1 Proc : 60% Posture Strain (204 Posture) / Battery Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Fortress Capitulation)    |
-| - Resistances : Weight 2.0x (Fatal), Grudge 1.5x, Void 0.5x, Lament |
+| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Void 0.5x, Lament |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
@@ -160,8 +160,8 @@ Fort Interdiction relied upon its dual **Rail Battery** to inflict catastrophic 
   * Hwaran (Speed 7 -> 4 AP, Scout Gear delta +1, Evasion +15%): Advances to Node 02. Spends 2 AP on `[Steam Repeater Volley]`. Spends 2 AP on `[Acoustic Flare]`.
   * Rail Battery (Speed 5 -> 3 AP): Locks onto Node 02. Spends 3 AP on `[Dual 400mm Hyper-Kinetic Shell]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Rail Battery fires `[Dual 400mm Hyper-Kinetic Shell]` (Base 18 + 2 Coins = 28 Power, Heavy Kinetic).
-    * Kael intercepts with `[Trench-Cleaver: Kinetic Intercept]` (Base 21 + 2 Coins = 33 Power, Obsidian Heavy Blade).
+  * **Clash 1 (Node 02 to 05)**: Rail Battery fires `[Dual 400mm Hyper-Kinetic Shell]` (Base 18 + 2 Lots = 28 Power, Heavy Kinetic).
+    * Kael intercepts with `[Trench-Cleaver: Kinetic Intercept]` (Base 21 + 2 Lots = 33 Power, Obsidian Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Kael's obsidian cleaver shears the incoming tungsten slug in half mid-flight; the explosive blast detonates harmlessly against his glass arm (`[P3: Parry/Protection]`).
     * Seismic tremor reflects **260 kinetic damage** back through the fortress firing port, inflicting +54 Posture Strain!
@@ -214,8 +214,8 @@ Fort Interdiction relied upon its dual **Rail Battery** to inflict catastrophic 
   * Hwaran (Speed 9 -> 5 AP): Moves to Node 03. Spends 3 AP on `[Incendiary Slag Grenade]`. Spends 2 AP on `[Flank Cover]`.
   * Drift Throne Battery (Speed 6 -> 3 AP): Fires long-range kinetic salvo into Aegis generator.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: Rail Battery fires `[Full Salvo Overpressure]` (Base 19 + 2 Coins = 27 Power, Heavy Kinetic).
-    * Kael clashes with `[Obsidian Cleaver: Seismic Sundering]` (Base 25 + 3 Coins Heads = 44 Power, Heavy Weight/Shatter).
+  * **Clash 1 (Node 03 to 05)**: Rail Battery fires `[Full Salvo Overpressure]` (Base 19 + 2 Lots = 27 Power, Heavy Kinetic).
+    * Kael clashes with `[Obsidian Cleaver: Seismic Sundering]` (Base 25 + 3 Lots Marked = 44 Power, Heavy Weight/Shatter).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (44 vs 27)!
     * Kael lands atop the bunker roof, driving his massive cleaver directly through the battery's hydraulic elevation gear!
     * The gun mounting explodes in a fireball of hydraulic fluid and shattered tungsten gears!
@@ -270,7 +270,7 @@ Fort Interdiction relied upon its dual **Rail Battery** to inflict catastrophic 
   * Hwaran (Speed 8 -> 4 AP): Advances to Node 04. Spends 2 AP on `[Thermite Breaching Charge]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 04 to 05)**: Aegis Generator projects `[Bulwark Lockdown]` (Defense Power 23).
-    * Kael strikes with `[Glass Fist: Resonance Fracture]` (Base 24 + 2 Coins = 36 Power, Seismic Weight).
+    * Kael strikes with `[Glass Fist: Resonance Fracture]` (Base 24 + 2 Lots = 36 Power, Seismic Weight).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (36 vs 23)!
     * Kael's crystalline fist punches directly through the forcefield projector; acoustic waves shatter the sapphire emitter into blue powder!
     * Hwaran's thermite charge burns through the armor housing, melting the power cables!
@@ -320,7 +320,7 @@ Fort Interdiction relied upon its dual **Rail Battery** to inflict catastrophic 
   * Kael (Speed 11 -> 5 AP, Momentum Crit): Enters Node 05. Spends 3 AP on `[Four-Fold Trench Execution]`. Spends 2 AP on `[Tectonic Breaker]`.
   * Hwaran: Calls in `[Drift Throne Spinal Kinetic Barrage]` (3 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Kael's `[Four-Fold Trench Execution]`: Rips through the bunker interior for **960 Heavy Weight damage** (Fatal 2.0x proc!)!
+  * Kael's `[Four-Fold Trench Execution]`: Rips through the bunker interior for **960 Heavy Weight damage** (Exposed 2.0x proc!)!
   * Kael's `[Tectonic Breaker]`: Crushes the primary power conduit for **420 Shatter damage**!
   * Drift Throne Spinal Barrage: High-explosive shells obliterate the Aegis generator housing for **440 Blast damage**!
   * **TOTAL BURST DAMAGE: 1,820 DAMAGE!**
@@ -363,14 +363,14 @@ Fort Interdiction relied upon its dual **Rail Battery** to inflict catastrophic 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Fortress Last Stand & Horizon Cleaver)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Commander Vane steps from the burning bunker, his hydraulic exoskeleton venting superheated steam as he primes an emergency core self-destruct!
-  * Boss Special Skill: `[Bunker Overdrive: Core Detonation]` (Thermal Kinetic Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Bunker Overdrive: Core Detonation]` (Thermal Kinetic Cataclysm, 3 Lots).
   * Kael activates Relic Overdrive: `[WRATH OF THE HORIZON SOVEREIGN — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Kael (Speed 9 -> 5 AP [Overdrive]): Steps straight onto Vane's command parapet at Node 05, raising the Obsidian Cleaver in both hands.
   * Hwaran: Anchors suppression line at Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 06)**: Vane discharges `[Bunker Overdrive: Core Detonation]` (Base 22 + 3 Coins = 33 Power, Area Heat/Kinetic).
-    * Kael clashes with `[WRATH OF THE HORIZON SOVEREIGN — MAXIMUM]` (Base 29 + 3 Coins Heads = 50 Power, Seismic Execution).
+  * **Clash 1 (Node 05 to 06)**: Vane discharges `[Bunker Overdrive: Core Detonation]` (Base 22 + 3 Lots = 33 Power, Area Heat/Kinetic).
+    * Kael clashes with `[WRATH OF THE HORIZON SOVEREIGN — MAXIMUM]` (Base 29 + 3 Lots Marked = 50 Power, Seismic Execution).
     * **Clash Outcome**: KAEL OVERWHELMING RELIC CLASH WIN (50 vs 33)!
     * Kael's cleaver splits the exoskeleton's overheating capacitor block clean off Vane's shoulders (`[P3: Parry/Protection]`).
     * The thermal detonation vents harmlessly upward into the overcast sky; Kael's glass arm drives Vane into the concrete deck!

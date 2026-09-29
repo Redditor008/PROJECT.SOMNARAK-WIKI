@@ -166,7 +166,7 @@ Specialist Shin performed peaceful *Flerehan* communion at the edge of the Maw. 
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 3x Floating Cyan Fireflies                              |
-| - Attack Affinity: Pale (Gentle Life Shock)                         |
+| - Attack Affinity: Void (Gentle Life Shock)                         |
 | - Weakness Affinity: Balanced (All 4 Types)                         |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
@@ -208,8 +208,8 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
   * Secretary Seiyon (Speed 5 -> 3 AP) operates from Node 5 (Mid-Field Range Band 3). Spends 2 AP to execute `[Flerehan Acoustic Synchronization]`. Remaining 1 AP in Guard.
   * Specialist Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
 - **Step 3: Clash Resolution (Harmonic Communion)**:
-  * Floating Fireflies declare `[Gentle Life Shockwave]` (Base 9 + 2 Coins = 13 Power).
-  * Seiyon's `[Flerehan Acoustic Synchronization]` (Base 11 + 2 Coins = 15 Power).
+  * Floating Fireflies declare `[Gentle Life Shockwave]` (Base 9 + 2 Lots = 13 Power).
+  * Seiyon's `[Flerehan Acoustic Synchronization]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Seiyon WINS THE CLASH (15 vs 13).
     * The acoustic wave wraps the fireflies in gentle, soothing counter-frequencies. Their agitation drops instantly, lowering their Sorrow Gauge by 25% and inflicting +24 Stagger without dealing vessel damage!
   * Park channels pure harmonic weeping from Node 3, aligning the fireflies' energy vectors toward the manifold intake.
@@ -388,8 +388,8 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
   * Secretary Seiyon (Speed 5 -> 3 AP) operates from Node 5 (Mid-Field Range Band 3). Spends 2 AP to execute `[Flerehan Acoustic Synchronization]`. Remaining 1 AP in Guard.
   * Specialist Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
 - **Step 3: Clash Resolution (Harmonic Communion)**:
-  * Floating Fireflies declare `[Gentle Life Shockwave]` (Base 9 + 2 Coins = 13 Power).
-  * Seiyon's `[Flerehan Acoustic Synchronization]` (Base 11 + 2 Coins = 15 Power).
+  * Floating Fireflies declare `[Gentle Life Shockwave]` (Base 9 + 2 Lots = 13 Power).
+  * Seiyon's `[Flerehan Acoustic Synchronization]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Seiyon WINS THE CLASH (15 vs 13).
     * The acoustic wave wraps the fireflies in gentle, soothing counter-frequencies. Their agitation drops instantly, lowering their Sorrow Gauge by 25% and inflicting +24 Stagger without dealing vessel damage!
   * Park channels pure harmonic weeping from Node 3, aligning the fireflies' energy vectors toward the manifold intake.
@@ -653,8 +653,8 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
   * Specialist Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
   * Attendant Dekan (Speed 5 -> 3 AP) stands at Node 5, spending 2 AP to maintain *Maw's Aegis*.
 - **Step 3: Clash Resolution (Melodic Harmony)**:
-  * Sleep-Spirits emit `[Gentle Trance Pulse]` (Base 10 + 2 Coins = 14 Power).
-  * Specialist Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
+  * Sleep-Spirits emit `[Gentle Trance Pulse]` (Base 10 + 2 Lots = 14 Power).
+  * Specialist Shin's `[Melodic Communion]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Shin WINS THE CLASH (16 vs 14).
     * Shin's vocal resonance matches the spirits' ancient cadence perfectly. The discordant trance melts into gentle sorrow, lowering their Sorrow Gauge by 35% and inflicting +28 Stagger!
 
@@ -831,8 +831,8 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
   * Specialist Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
   * Attendant Dekan (Speed 5 -> 3 AP) stands at Node 5, spending 2 AP to maintain *Maw's Aegis*.
 - **Step 3: Clash Resolution (Melodic Harmony)**:
-  * Sleep-Spirits emit `[Gentle Trance Pulse]` (Base 10 + 2 Coins = 14 Power).
-  * Specialist Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
+  * Sleep-Spirits emit `[Gentle Trance Pulse]` (Base 10 + 2 Lots = 14 Power).
+  * Specialist Shin's `[Melodic Communion]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Shin WINS THE CLASH (16 vs 14).
     * Shin's vocal resonance matches the spirits' ancient cadence perfectly. The discordant trance melts into gentle sorrow, lowering their Sorrow Gauge by 35% and inflicting +28 Stagger!
 
@@ -916,7 +916,7 @@ Majin sits on the cold stone steps, tears running down his weathered cheeks: *"S
 
 > **Majin:** _"They are no longer separate entities, Zyrak."_
 
-> **Zyrak:** _"No. They are an orchestra. The rage is gone. The judgment is gone. Majin... if they merge now, they won't form the Last Murmuration. They will form something that carries the dawn."_
+> **Zyrak:** _"No. They are an orchestra. The rage is gone. The judgment is gone. Majin... if they merge now, they won't form the Convergence. They will form something that carries the dawn."_
 
 > **Majin:** _"Hope Transformation HT-V-HC-001: The Trinity of Dawn."_
 
@@ -928,7 +928,7 @@ The acoustic resonance throughout the facility reaches sublime perfection on Day
 
 In response, SE-C-IIIγ-031 (*The Observing Bird*), SE-C-IIIγ-032 (*The Weighting Bird*), and SE-C-IIIγ-033 (*The Guarding Bird*) joined their voices into a sweeping, majestic three-part counterpoint. The Observing Bird provided the high soprano flute tones; the Weighting Bird clicked its bronze scales in steady rhythmic percussion; and the Guarding Bird resonated with deep baritone warmth from its chest.
 
-Zyrak observes that their metaphysical convergence field has fundamentally altered its polarity: instead of collapsing into the four-winged monstrosity of the Last Murmuration, the flock is aligning toward **The Trinity of Dawn** (HT-V-HC-001). The entities are no longer arbiters of planetary execution; they are the heralds of planetary renewal.
+Zyrak observes that their metaphysical convergence field has fundamentally altered its polarity: instead of collapsing into the four-winged monstrosity of the Convergence, the flock is aligning toward **The Trinity of Dawn** (HT-V-HC-001). The entities are no longer arbiters of planetary execution; they are the heralds of planetary renewal.
 
 Daily harvesting yields 0.111 tons of pure Han, pushing total cumulative reserves to 50.69 tons.
 
@@ -1055,7 +1055,7 @@ Specialist Han performed *Viderehan* observation inside Chamber 031 (*The Observ
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 1x Celestial Avian Silhouette                           |
-| - Attack Affinity: Pale (Transmutative Light)                       |
+| - Attack Affinity: Void (Transmutative Light)                       |
 | - Weakness Affinity: Balanced (All 4 Types)                         |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
@@ -1097,10 +1097,10 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
   * Specialist Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
   * Specialist Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
 - **Step 3: Clash Resolution (Avian Harmonic Equilibrium)**:
-  * Celestial Avian Silhouette radiates `[Transmutative Pale Dawn Aura]` (Base 11 + 2 Coins = 15 Power).
-  * Specialist Han & Specialist Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
+  * Celestial Avian Silhouette radiates `[Transmutative Pale Dawn Aura]` (Base 11 + 2 Lots = 15 Power).
+  * Specialist Han & Specialist Song's `[Resonant Choral Accord]` (Base 13 + 2 Lots = 17 Power).
   * **Resolution**: The Specialists WIN THE CLASH (17 vs 15).
-    * Their synchronized vocal octave matches the silhouette's vibration, converting the lethal Pale sunder into golden life energy and inflicting +32 Stagger!
+    * Their synchronized vocal octave matches the silhouette's vibration, converting the lethal Void sunder into golden life energy and inflicting +32 Stagger!
 
 
 ```text
@@ -1239,7 +1239,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 | PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Bird Rotunda accumulators charged with     |
-| Pale energy.                                                        |
+| Void energy.                                                        |
 | 2. Status Equilibrium : All specialists healed; SP overflowing at   |
 | maximum +50.                                                        |
 | 3. Containment Check : Celestial Avian Silhouette peacefully        |
@@ -1277,10 +1277,10 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
   * Specialist Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
   * Specialist Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
 - **Step 3: Clash Resolution (Avian Harmonic Equilibrium)**:
-  * Celestial Avian Silhouette radiates `[Transmutative Pale Dawn Aura]` (Base 11 + 2 Coins = 15 Power).
-  * Specialist Han & Specialist Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
+  * Celestial Avian Silhouette radiates `[Transmutative Pale Dawn Aura]` (Base 11 + 2 Lots = 15 Power).
+  * Specialist Han & Specialist Song's `[Resonant Choral Accord]` (Base 13 + 2 Lots = 17 Power).
   * **Resolution**: The Specialists WIN THE CLASH (17 vs 15).
-    * Their synchronized vocal octave matches the silhouette's vibration, converting the lethal Pale sunder into golden life energy and inflicting +32 Stagger!
+    * Their synchronized vocal octave matches the silhouette's vibration, converting the lethal Void sunder into golden life energy and inflicting +32 Stagger!
 
 ```text
 +=====================================================================+
@@ -1304,7 +1304,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 | PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Bird Rotunda accumulators charged with     |
-| Pale energy.                                                        |
+| Void energy.                                                        |
 | 2. Status Equilibrium : All specialists healed; SP overflowing at   |
 | maximum +50.                                                        |
 | 3. Containment Check : Celestial Avian Silhouette peacefully        |
@@ -1313,7 +1313,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +=====================================================================+
 ```
 
-A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Specialists Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy.
+A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Specialists Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Void energy.
 
 #### 6. End-of-Day Shift Evaluation Index
 
@@ -1508,7 +1508,7 @@ Specialist Yoon entered Chamber 15, kneeling before the towering, glowing form o
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 1x Colossal Crown of Twelve Halo                        |
-| - Attack Affinity: Pale (Max HP Cleansing Pulse)                    |
+| - Attack Affinity: Void (Max HP Cleansing Pulse)                    |
 | - Weakness Affinity: Balanced (All 4 Types)                         |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
@@ -1520,7 +1520,7 @@ Specialist Yoon entered Chamber 15, kneeling before the towering, glowing form o
 +=====================================================================+
 ```
 
-A Tide Watch Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Pale cleansing pulses!
+A Tide Watch Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Void cleansing pulses!
 
 Director Majin establishes GBS tactical parameters in the Insight Forge:
 
@@ -1549,8 +1549,8 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
   * Research Lead Ayshuk (Speed 6 -> 3 AP) steps into the center of Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Insight Forge Communion: Open Arms of Dawn]`. Remaining 1 AP in Guard.
   * Twelve Apostles (Speed 5 -> 3 AP) kneel across Nodes 4 and 5 in open communion, spending 2 AP to channel `[Consecrated Vow Harmonic Alignment]`.
 - **Step 3: Clash Resolution (Cleansing Light Accord)**:
-  * Dawn Corona unleashes `[Cleansing Pale Descent]` (Base 12 + 2 Coins = 16 Power).
-  * Ayshuk's `[Open Arms of Dawn]` (Base 14 + 2 Coins = 18 Power).
+  * Dawn Corona unleashes `[Cleansing Void Descent]` (Base 12 + 2 Lots = 16 Power).
+  * Ayshuk's `[Open Arms of Dawn]` (Base 14 + 2 Lots = 18 Power).
   * **Resolution**: Ayshuk WINS THE CLASH (18 vs 16).
     * Ayshuk embraces the blinding light directly. Her calm analytical composure transmutes the scouring wave into gentle starlight, lowering its Sorrow Gauge to 0% and triggering peaceful Stagger!
 
@@ -1580,7 +1580,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
   * Research Lead Ayshuk activates the *Insight Forge HUD*, calculating exact descent vectors for the twelve golden halos.
   * The apostles raise their hands in synchronized reception:
     * Corona absorbs **46 Analytical Communion Points**!
-    * Pale radiation drops to **56/150**, crossing the **60% Stagger Threshold (90 Points)**!
+    * Void radiation drops to **56/150**, crossing the **60% Stagger Threshold (90 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** The scouring light ceases its burning heat, shifting to soft celestial dawn.
 
 ---
@@ -1607,7 +1607,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 - **Gentle Transference (1.5x Communion Multiplier)**:
   * Ayshuk's `Momentum Surge` activates! (+2 Speed next turn).
   * The twelve halos descend in serene arcs, hovering inches above the apostles' heads without releasing dangerous heat.
-  * Pale radiation drops to **28/150**!
+  * Void radiation drops to **28/150**!
 
 ---
 
@@ -1633,7 +1633,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 - **Purification Pulse**:
   * The corona pulses a soft expanding wave that washes over all research personnel, cleansing lingering fatigue.
   * Ayshuk deploys `[Directional Guard Absorption]`, maintaining perfect thermal balance across the chamber.
-  * Pale radiation falls to **12/150**!
+  * Void radiation falls to **12/150**!
 
 ---
 
@@ -1657,7 +1657,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 ###### Turn 05 Action Resolution Log (Terminal Stagger & Twelvefold Crowning)
 - **Viderehan Communion Finale**:
   * The apostles recite their vows, stripping the final 12 Pale points!
-  * **TERMINAL STAGGER TRIGGERED!** Pale radiation reaches **0/150**. The twelve halos settle gently onto their brows as permanent crowns of Hope.
+  * **TERMINAL STAGGER TRIGGERED!** Void radiation reaches **0/150**. The twelve halos settle gently onto their brows as permanent crowns of Hope.
 
 ---
 
@@ -1696,7 +1696,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 +=====================================================================+
 ```
 
-A Tide Watch Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Pale cleansing pulses!
+A Tide Watch Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Void cleansing pulses!
 
 Director Majin establishes GBS tactical parameters in the Insight Forge:
 
@@ -1724,8 +1724,8 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
   * Research Lead Ayshuk (Speed 6 -> 3 AP) steps into the center of Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Insight Forge Communion: Open Arms of Dawn]`. Remaining 1 AP in Guard.
   * Twelve Apostles (Speed 5 -> 3 AP) kneel across Nodes 4 and 5 in open communion, spending 2 AP to channel `[Consecrated Vow Harmonic Alignment]`.
 - **Step 3: Clash Resolution (Cleansing Light Accord)**:
-  * Dawn Corona unleashes `[Cleansing Pale Descent]` (Base 12 + 2 Coins = 16 Power).
-  * Ayshuk's `[Open Arms of Dawn]` (Base 14 + 2 Coins = 18 Power).
+  * Dawn Corona unleashes `[Cleansing Void Descent]` (Base 12 + 2 Lots = 16 Power).
+  * Ayshuk's `[Open Arms of Dawn]` (Base 14 + 2 Lots = 18 Power).
   * **Resolution**: Ayshuk WINS THE CLASH (18 vs 16).
     * Ayshuk embraces the blinding light directly. Her calm analytical composure transmutes the scouring wave into gentle starlight, lowering its Sorrow Gauge to 0% and triggering peaceful Stagger!
 
@@ -1737,7 +1737,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 | Stagger 1.                                                          |
 | - Turn 03: Posture broken; halos descend gently toward apostle      |
 | ranks.                                                              |
-| - Turn 04: Corona pulses warm Pale cleansing light; Ayshuk          |
+| - Turn 04: Corona pulses warm Void cleansing light; Ayshuk          |
 | stabilizes field.                                                   |
 | - Turn 05: Viderehan communion complete; twelve halos crown the     |
 | apostles.                                                           |
@@ -1953,7 +1953,7 @@ Specialist Shin performed the final scheduled *Flerehan* harvest from the Maw. T
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 1x Luminous Shimmering Cloud                            |
-| - Attack Affinity: Pale (Gentle Awakening Pulse)                    |
+| - Attack Affinity: Void (Gentle Awakening Pulse)                    |
 | - Weakness Affinity: Balanced (All 4 Types)                         |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
@@ -1965,7 +1965,7 @@ Specialist Shin performed the final scheduled *Flerehan* harvest from the Maw. T
 +=====================================================================+
 ```
 
-A Tide Watch Ordeal manifests as a luminous cloud of Pale energy settling over the twelve release valves at the facility wellhead!
+A Tide Watch Ordeal manifests as a luminous cloud of Void energy settling over the twelve release valves at the facility wellhead!
 
 Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node grid:
 
@@ -1982,7 +1982,7 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 | Eight Attendants : Speed 6 -> 3 AP | Team Synergy | Resonance       |
 | Overdrive                                                           |
 | Gathering Dawn Cloud: Speed 5 -> 3 AP | HP: 600/600 | Sovereign     |
-| Pale Pulse                                                          |
+| Void Pulse                                                          |
 +=====================================================================+
 ```
 
@@ -1993,10 +1993,10 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
   * Lower Floor Leads (Nodes 3–4) spend 2 AP to maintain *The Kinetic and Acoustic Crucible*.
   * Upper Floor Leads (Nodes 5–6) spend 2 AP to channel *The Temporal and Archive Condensation Array*.
 - **Step 3: Clash Resolution (The Eightfold Resonance)**:
-  * Gathering Dawn Cloud pulses `[Primordial Awakening Wave]` (Base 13 + 2 Coins = 17 Power).
-  * The Eight Leads' `[Unified Attendant Aura]` (Base 15 + 2 Coins = 19 Power).
+  * Gathering Dawn Cloud pulses `[Primordial Awakening Wave]` (Base 13 + 2 Lots = 17 Power).
+  * The Eight Leads' `[Unified Attendant Aura]` (Base 15 + 2 Lots = 19 Power).
   * **Resolution**: The Attendants WIN THE CLASH (19 vs 17).
-    * The combined force of the eight department auras condenses the gaseous Pale anomaly into a thick, glowing golden fluid, coating the pistons of the twelve release valves!
+    * The combined force of the eight department auras condenses the gaseous Void anomaly into a thick, glowing golden fluid, coating the pistons of the twelve release valves!
 
 
 ```text
@@ -2142,13 +2142,13 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 | 1. Environmental Check : All 12 release valves coated in            |
 | friction-free gold.                                                 |
 | 2. Status Equilibrium : Atmospheric pressure at absolute optimum.   |
-| 3. Containment Check : Sovereign Pale energy converted to valve     |
+| 3. Containment Check : Sovereign Void energy converted to valve     |
 | lubricant.                                                          |
 | 4. OUTCOME : HISTORIC TRANSCENDENCE — READY FOR DAY 160 RELEASE.    |
 +=====================================================================+
 ```
 
-A Tide Watch Ordeal manifests as a luminous cloud of Pale energy settling over the twelve release valves at the facility wellhead!
+A Tide Watch Ordeal manifests as a luminous cloud of Void energy settling over the twelve release valves at the facility wellhead!
 
 Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node grid:
 
@@ -2164,7 +2164,7 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 | Eight Attendants : Speed 6 -> 3 AP | Team Synergy                   |
 | | Resonance Overdrive                                               |
 | Gathering Dawn Cloud: Speed 5 -> 3 AP | HP: 600/600                 |
-| | Sovereign Pale Pulse                                              |
+| | Sovereign Void Pulse                                              |
 +=====================================================================+
 ```
 
@@ -2175,10 +2175,10 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
   * Lower Floor Leads (Nodes 3–4) spend 2 AP to maintain *The Kinetic and Acoustic Crucible*.
   * Upper Floor Leads (Nodes 5–6) spend 2 AP to channel *The Temporal and Archive Condensation Array*.
 - **Step 3: Clash Resolution (The Eightfold Resonance)**:
-  * Gathering Dawn Cloud pulses `[Primordial Awakening Wave]` (Base 13 + 2 Coins = 17 Power).
-  * The Eight Leads' `[Unified Attendant Aura]` (Base 15 + 2 Coins = 19 Power).
+  * Gathering Dawn Cloud pulses `[Primordial Awakening Wave]` (Base 13 + 2 Lots = 17 Power).
+  * The Eight Leads' `[Unified Attendant Aura]` (Base 15 + 2 Lots = 19 Power).
   * **Resolution**: The Attendants WIN THE CLASH (19 vs 17).
-    * The combined force of the eight department auras condenses the gaseous Pale anomaly into a thick, glowing golden fluid, coating the pistons of the twelve release valves!
+    * The combined force of the eight department auras condenses the gaseous Void anomaly into a thick, glowing golden fluid, coating the pistons of the twelve release valves!
 
 ```text
 +=====================================================================+
@@ -2203,13 +2203,13 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 | 1. Environmental Check : All 12 release valves coated in            |
 | friction-free gold.                                                 |
 | 2. Status Equilibrium : Atmospheric pressure at absolute optimum.   |
-| 3. Containment Check : Sovereign Pale energy converted to valve     |
+| 3. Containment Check : Sovereign Void energy converted to valve     |
 | lubricant.                                                          |
 | 4. OUTCOME : HISTORIC TRANSCENDENCE — READY FOR DAY 160 RELEASE.    |
 +=====================================================================+
 ```
 
-A Tide Watch Ordeal manifested as a luminous cloud of Pale energy that settled over the twelve release valves. All eight leads joined their auras, condensing the cloud into liquid golden lubricant that coated the valve pistons, ensuring friction-free release.
+A Tide Watch Ordeal manifested as a luminous cloud of Void energy that settled over the twelve release valves. All eight leads joined their auras, condensing the cloud into liquid golden lubricant that coated the valve pistons, ensuring friction-free release.
 
 #### 6. End-of-Day Shift Evaluation Index
 

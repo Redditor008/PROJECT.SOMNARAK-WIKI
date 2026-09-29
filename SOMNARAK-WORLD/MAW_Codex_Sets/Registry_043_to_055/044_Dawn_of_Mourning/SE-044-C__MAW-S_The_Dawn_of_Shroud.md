@@ -27,7 +27,7 @@ The Dawn of Shroud is a deep-blue shroud of soft Han silk that drapes over the s
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1.0 (Normal) | 1.6 (Weak) | 0.8 (Endured) | 1 / 65 Sorrow Echoes |
+| 0.4 (Resistant) | 1.0 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 1 / 65 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Dawn of Mourning's source sorrow feel autobiographical.
 

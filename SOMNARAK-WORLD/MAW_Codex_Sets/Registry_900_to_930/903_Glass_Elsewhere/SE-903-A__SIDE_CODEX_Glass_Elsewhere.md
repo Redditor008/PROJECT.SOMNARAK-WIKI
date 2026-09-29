@@ -47,7 +47,7 @@ During the The Glass Elsewhere Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Glass Elsewhere's Edge | β Void 11–19; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-903-B__MAW-W_Glass_Elsewhere_s_Edge.md` |
-| Glass Elsewhere's Veil | β; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-903-C__MAW-S_Glass_Elsewhere_s_Veil.md` |
+| Glass Elsewhere's Veil | β; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-903-C__MAW-S_Glass_Elsewhere_s_Veil.md` |
 | Glass Elsewhere's Token | β; Head; 5%; +1 stat bonus when working the source entity. | `SE-903-D__MAW-G_Glass_Elsewhere_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

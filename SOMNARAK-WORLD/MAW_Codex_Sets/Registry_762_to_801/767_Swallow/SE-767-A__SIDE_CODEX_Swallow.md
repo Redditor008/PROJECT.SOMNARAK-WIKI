@@ -47,7 +47,7 @@ During the The Swallow Source-Trace, the field team preserved this source fact: 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Fading Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-767-B__MAW-W_The_Fading_Requiem.md` |
-| The Fading Veil | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 2; 45 Sorrow Echoes | `SE-767-C__MAW-S_The_Fading_Veil.md` |
+| The Fading Veil | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-767-C__MAW-S_The_Fading_Veil.md` |
 | The Fading Charm | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-767-D__MAW-G_The_Fading_Charm.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -47,7 +47,7 @@ During the The Bridge of the Unchosen Source-Trace, the field team preserved thi
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Bridge of the Unchosen Lens | β Void 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-874-B__MAW-W_Bridge_of_the_Unchosen_Lens.md` |
-| Bridge of the Unchosen Shield | β; L/G/V/W 1.2 (Weak)/0.8 (Endured)/0.3 (Resistant)/1.1 (Weak); max 4; 20 Sorrow Echoes | `SE-874-C__MAW-S_Bridge_of_the_Unchosen_Shield.md` |
+| Bridge of the Unchosen Shield | β; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 4; 20 Sorrow Echoes | `SE-874-C__MAW-S_Bridge_of_the_Unchosen_Shield.md` |
 | Bridge of the Unchosen Charm | β; Head; 5%; +1 stat bonus when working the source entity | `SE-874-D__MAW-G_Bridge_of_the_Unchosen_Charm.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

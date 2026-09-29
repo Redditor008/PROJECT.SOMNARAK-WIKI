@@ -47,7 +47,7 @@ During the The The Kind Healer s Shadow Source-Trace, the field team preserved t
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Healer's Requiem | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1029-B__MAW-W_The_Healer_s_Requiem.md` |
-| The Healer's Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-1029-C__MAW-S_The_Healer_s_Shroud.md` |
+| The Healer's Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-1029-C__MAW-S_The_Healer_s_Shroud.md` |
 | The Healer's Echo | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-1029-D__MAW-G_The_Healer_s_Echo.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

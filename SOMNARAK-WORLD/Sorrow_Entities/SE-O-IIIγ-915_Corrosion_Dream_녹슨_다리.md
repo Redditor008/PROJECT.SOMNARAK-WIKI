@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Corroded Span* [**Debuff**] } | "The bridge is rusted through — more oxide than iron — and each step sends flakes of decay raining into the chasm." | [The Bridge's corrosion infects the target; their own supports feel fragile.] | *Target suffers a Void mark; they are rusting from within.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target steps on the Bridge. |
 | { *The Sagging Cable* [**Debuff**] } | "The support cables are rusted to threads — and they sing, in the wind, a thin, corroded note." | [The Bridge's decayed supports radiate instability; the target cannot trust the structure.] | *Target loses clarity; everything is about to give way.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target crosses. |
-| { *The Falling Flake* [**Attack**] } | "A sheet of rust breaks from the bridge — heavy, oxidized, sharp — and falls." | [A massive rust-flake drops onto the target.] | *Inflicts Pale White damage; the corrosion carries void-weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bridge is shaken. |
+| { *The Falling Flake* [**Attack**] } | "A sheet of rust breaks from the bridge — heavy, oxidized, sharp — and falls." | [A massive rust-flake drops onto the target.] | *Inflicts Void damage; the corrosion carries void-weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bridge is shaken. |
 | { *The Full Corrosion* [**Attack**] } | "The entire bridge rusts away — from solid to powder in seconds — and the crossing ceases to exist." | [The Bridge's complete oxidation removes the passage entirely.] | *A heavy Void dissolution; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Bridge is struck. |
 | { *The Rusted Field* [**Ultimate**] } | "Every bridge in the field corrodes — and without crossings, every side is cut off from every other." | [The Bridge extends its corrosion across the whole area.] | *All in range suffer Pale White erosion for three turns of rusted crossings.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -193,7 +193,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 **Appearance:** a spanning plate of pale Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

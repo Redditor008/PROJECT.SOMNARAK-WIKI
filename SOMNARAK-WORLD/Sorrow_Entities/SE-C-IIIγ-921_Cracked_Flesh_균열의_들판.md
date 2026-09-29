@@ -188,7 +188,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 **Appearance:** a flowing veil of crimson Han-cloth, dark and faintly warm, that tightens near its source element.
 
-**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Endured)
+**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 

@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The First Chuckle* [**Debuff**] } | "The mask laughs — and the laugh is wrong, hollow, the sound of joy with nothing behind it." | [The Mask's laughter unsettles the target; the void behind the joy shows.] | *Target suffers a Void mark; the laughter is hollow.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target hears the Mask. |
 | { *The Endless Giggle* [**Debuff**] } | "The laughing does not stop — and the longer it goes, the less funny it becomes, and the more frightening." | [The Mask's laughter compounds; it becomes oppressive.] | *Target loses clarity; the laughter is filling every thought.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains. |
-| { *The Grin-Strike* [**Attack**] } | "The mask's grin widens beyond anatomy — and the grin itself is the weapon." | [A distorted, too-wide smile becomes a cutting edge.] | *Inflicts Pale White damage; the mocking joy erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mask is addressed. |
+| { *The Grin-Strike* [**Attack**] } | "The mask's grin widens beyond anatomy — and the grin itself is the weapon." | [A distorted, too-wide smile becomes a cutting edge.] | *Inflicts Void damage; the mocking joy erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mask is addressed. |
 | { *The Hysterical Peak* [**Attack**] } | "The laughter reaches a fever pitch — and at the peak, it becomes a scream of void." | [The Mask's laughter transforms into a void-shriek.] | *A heavy Void burst; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mask is struck. |
 | { *The Laughing Chorus* [**Ultimate**] } | "Every surface sprouts a laughing mask — and the laughter fills the world, and there is nothing behind any of it." | [The Mask multiplies its hollow laughter across the field.] | *All in range suffer Pale White erosion for three turns of endless, empty laughter.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -229,7 +229,7 @@ The escalation pattern is specific to Laughing Mask: it is not a generic breach 
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

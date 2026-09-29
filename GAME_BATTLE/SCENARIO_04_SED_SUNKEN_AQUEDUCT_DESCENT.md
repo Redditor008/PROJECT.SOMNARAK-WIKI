@@ -231,7 +231,7 @@
 
 #### 3. Terminal Meltdown Trigger
 - **TERMINAL MELTDOWN ACTIVE:** The Drowned Guardian lets out a hollow, gargling acoustic shriek; the brine within its body crystallizes rapidly into dark ice.
-- All defenses collapse to **2.0x Fatal vulnerability**!
+- All defenses collapse to **2.0x Exposed vulnerability**!
 - The beast slumps lifelessly against the culvert basin floor at Nodes `[N07-08]`.
 
 ---

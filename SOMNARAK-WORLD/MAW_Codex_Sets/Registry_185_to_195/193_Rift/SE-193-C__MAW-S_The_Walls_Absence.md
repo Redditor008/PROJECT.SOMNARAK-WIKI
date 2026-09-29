@@ -24,7 +24,7 @@ The Wall’s Absence is a black veil-suit that reads less as fabric than as a ga
 
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
-| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Endured |
+| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded |
 
 **Maximum / Echo Cost:** 2 / 45. **Cost:** Wearer feels everyone kept on the other side.
 

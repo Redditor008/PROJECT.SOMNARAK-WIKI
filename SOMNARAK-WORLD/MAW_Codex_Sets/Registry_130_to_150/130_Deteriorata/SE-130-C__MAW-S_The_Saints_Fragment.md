@@ -47,7 +47,7 @@ The Saint's Fragment is a black fragment-plate of Han iron fitted over the chest
 | Lament | 1.0 | Normal | Grief remains present even when pressure is endured. |
 | Grudge | 1.0 | Normal | Anger cannot be made harmless by carrying more. |
 | Void | 1.5 | Weak | Absence offers no place to distribute a burden. |
-| Weight | 0.5 | Endured | The Fragment allows immense pressure to be borne temporarily. |
+| Weight | 0.5 | Warded | The Fragment allows immense pressure to be borne temporarily. |
 
 | Field | Record |
 |---|---|

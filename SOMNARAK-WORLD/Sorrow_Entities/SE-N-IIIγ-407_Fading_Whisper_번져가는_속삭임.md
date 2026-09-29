@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Last Syllable* [**Debuff**] } | "A whisper reaches you — but only the final syllable — and the fragment is worse than the whole would have been." | [The Whisper's fading leaves only fragments; the incomplete meaning gnaws.] | *Target suffers a Void mark; the unfinished word haunts them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target hears the Whisper. |
 | { *The Silence After* [**Debuff**] } | "The whisper fades entirely — and the silence it leaves is heavier than the words ever were." | [The Whisper's complete dissolution creates a void of unsaid things.] | *Target loses clarity; the silence is deafening.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target waits for more. |
-| { *The Sharp Fragment* [**Attack**] } | "A shard of the fading whisper, hardened by its own disappearance, flies free." | [ A crystallized word-fragment launches.] | *Inflicts Pale White damage; the fading word erases a recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Whisper is disturbed. |
+| { *The Sharp Fragment* [**Attack**] } | "A shard of the fading whisper, hardened by its own disappearance, flies free." | [ A crystallized word-fragment launches.] | *Inflicts Void damage; the fading word erases a recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Whisper is disturbed. |
 | { *The Full Silence* [**Attack**] } | "Every whisper the entity ever held — faded, all at once — a void of everything unsaid." | [The Whisper's total fade releases a wave of absolute quiet.] | *A heavy Void of unspoken words; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Whisper is silenced. |
 | { *The Silent Field* [**Ultimate**] } | "Every whisper in the field fades — and the combined silence is a weapon of its own." | [The Whisper extends its fading across the whole area.] | *All in range suffer Pale White erosion for three turns of total silence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -193,7 +193,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

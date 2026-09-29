@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Empty Blessing* [**Debuff**] } | "It blesses you — and the blessing takes more than it gives." | [The Saint offers a hollow benediction; something is taken.] | *Target suffers a Void mark; the blessing has a cost.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target seeks the Saint's favor. |
 | { *The False Halo* [**Debuff**] } | "The light around its head is beautiful — and it is drinking the light from yours." | [The Saint's halo drains the target's warmth and certainty.] | *Target loses clarity; the holy light is hollow.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target basks in the halo. |
-| { *The Judging Eye* [**Attack**] } | "It looks at you the way only a saint can — and the judgment is absolute." | [A gaze of pure condemnation strikes the target.] | *Inflicts Pale White damage; a portion condemned away.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Saint is questioned. |
+| { *The Judging Eye* [**Attack**] } | "It looks at you the way only a saint can — and the judgment is absolute." | [A gaze of pure condemnation strikes the target.] | *Inflicts Void damage; a portion condemned away.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Saint is questioned. |
 | { *The Reliquary* [**Attack**] } | "It opens the hollow space inside itself — and the void within is vaster than any heaven." | [The Saint reveals the emptiness behind its holiness.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Saint's fraud is exposed. |
 | { *The Empty Heaven* [**Ultimate**] } | "It ascends — and the heaven it rises to is nothing, and it wants company." | [The Saint opens its hollow paradise across the whole field.] | *All in range suffer Pale White erosion for three turns in the void-paradise.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -197,7 +197,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

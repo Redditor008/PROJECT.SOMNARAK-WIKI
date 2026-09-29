@@ -26,7 +26,7 @@ The Lost Veil is a near-colorless suit of Han gossamer with one warm present-loc
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 — Weak | 0.8 — Endured | 0.3 — Resistant | 1.1 — Weak | 4 / 20 Echoes |
+| 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 4 / 20 Echoes |
 
 **Located Self:** The thread preserves current identity when spatial direction collapses. It does not show a route.
 

@@ -27,7 +27,7 @@ The Relic Burden is the suit record of the Pandora's Jar set — δ-grade, Weigh
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Endured) | 2 / 45 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels every loss attached to the object. Continued use makes Pandora's Jar's source sorrow feel autobiographical.
 

@@ -47,7 +47,7 @@ During the The Ninety Seconds Source-Trace, the field team preserved this source
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Ninety Seconds's Edge | δ Void 11–16; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-918-B__MAW-W_Ninety_Seconds_s_Edge.md` |
-| Ninety Seconds's Veil | δ; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-918-C__MAW-S_Ninety_Seconds_s_Veil.md` |
+| Ninety Seconds's Veil | δ; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-918-C__MAW-S_Ninety_Seconds_s_Veil.md` |
 | Ninety Seconds's Token | δ; Head; 5%; +1 stat bonus when working the source entity. | `SE-918-D__MAW-G_Ninety_Seconds_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

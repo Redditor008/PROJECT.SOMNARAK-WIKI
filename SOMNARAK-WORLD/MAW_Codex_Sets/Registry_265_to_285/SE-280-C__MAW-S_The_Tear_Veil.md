@@ -26,7 +26,7 @@ The Pallbearer's Layered Shroud is a flowing suit of blue Han-silk that breathes
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Endured | 4 / 20 Echoes |
+| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 4 / 20 Echoes |
 
 **Open Grief:** The Veil absorbs one emotional attack and expresses it continuously rather than storing it unseen.
 

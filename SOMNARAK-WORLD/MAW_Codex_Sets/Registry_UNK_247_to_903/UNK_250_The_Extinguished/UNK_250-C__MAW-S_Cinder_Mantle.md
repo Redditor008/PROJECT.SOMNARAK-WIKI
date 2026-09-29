@@ -24,7 +24,7 @@
 | Lament resistance | 1 (Normal) |
 | Grudge resistance | 0.3 (Resistant) |
 | Void resistance | 1.4 (Weak) |
-| Weight resistance | 0.8 (Endured) |
+| Weight resistance | 0.8 (Warded) |
 | Max Amount | 4 |
 | Echo cost | 20 Sorrow Echoes |
 | Canonical ability | Grants resistance to Grudge and the cold-burn; lets the wearer endure near a burned-out Hope without flinching. |

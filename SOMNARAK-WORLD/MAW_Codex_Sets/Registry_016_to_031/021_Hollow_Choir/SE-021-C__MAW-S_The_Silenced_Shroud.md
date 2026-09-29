@@ -19,7 +19,7 @@
 | Lament | 0.4 | Resistant |
 | Grudge | 1.0 | Normal |
 | Void | 1.6 | Weak |
-| Weight | 0.8 | Endured |
+| Weight | 0.8 | Warded |
 
 | Field | Record |
 |---|---|

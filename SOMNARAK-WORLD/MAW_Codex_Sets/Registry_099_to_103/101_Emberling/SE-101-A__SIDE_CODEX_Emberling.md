@@ -114,7 +114,7 @@ This set protects against cold and isolation without pretending that equipment c
 | Field | Record |
 |---|---|
 | Lament / Grudge | 0.4 — Resistant / 1.0 — Normal |
-| Void / Weight | 1.6 — Weak / 0.8 — Endured |
+| Void / Weight | 1.6 — Weak / 0.8 — Warded |
 | Maximum Amount / Echo Cost | 4 — Limited / 20 Sorrow Echoes |
 | Primary Cost | Minor joys numb if the wearer uses protection instead of connection. |
 

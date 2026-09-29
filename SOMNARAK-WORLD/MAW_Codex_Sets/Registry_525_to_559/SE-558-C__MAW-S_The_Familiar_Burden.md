@@ -24,7 +24,7 @@ It formed beside Emberroot after Iseulfros endured the creature’s underground 
 | Lament | 1.0 (Normal) |
 | Grudge | 1.0 (Normal) |
 | Void | 1.5 (Weak) |
-| Weight | 0.5 (Endured) |
+| Weight | 0.5 (Warded) |
 | Maximum / Echo cost | 3 / 35 Sorrow Echoes |
 | Operational cost | Gait slows as recurring strain is absorbed |
 | Binding cost | Absence of the mantle begins to feel unsafe and incomplete |

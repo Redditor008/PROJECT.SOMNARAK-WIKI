@@ -114,7 +114,7 @@ This set deals in returned memories. Every benefit is paired with a present cost
 
 | Field | Record |
 |---|---|
-| Lament / Grudge | 1.2 — Weak / 0.8 — Endured |
+| Lament / Grudge | 1.2 — Weak / 0.8 — Warded |
 | Void / Weight | 0.3 — Resistant / 1.1 — Weak |
 | Maximum Amount / Echo Cost | 2 — Limited / 45 Sorrow Echoes |
 | Primary Cost | The wearer feels faintly absent to themself. |

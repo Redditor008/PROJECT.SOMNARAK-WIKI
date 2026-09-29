@@ -47,7 +47,7 @@ The Laughter Shroud is a light deep-blue shroud of fine Han cloth with small bel
 | Lament | 0.4 | Resistant | The shroud diffuses a joy-grief surge through gentle shared tone. |
 | Grudge | 1.0 | Normal | Anger remains a separate emotion requiring response. |
 | Void | 1.6 | Weak | Absence of connection leaves no one to share the sound. |
-| Weight | 0.8 | Endured | A community witness makes loss easier to carry. |
+| Weight | 0.8 | Warded | A community witness makes loss easier to carry. |
 
 | Field | Record |
 |---|---|

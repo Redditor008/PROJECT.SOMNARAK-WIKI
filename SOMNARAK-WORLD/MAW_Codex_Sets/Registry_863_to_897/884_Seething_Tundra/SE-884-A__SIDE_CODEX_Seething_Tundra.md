@@ -47,7 +47,7 @@ During the The Seething Tundra Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Frozen Lens | α Void 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-884-B__MAW-W_The_Frozen_Lens.md` |
-| The Frozen Veil | α; L/G/V/W 1.2 (Weak)/0.8 (Endured)/0.3 (Resistant)/1.1 (Weak); max 5; 10 Sorrow Echoes | `SE-884-C__MAW-S_The_Frozen_Veil.md` |
+| The Frozen Veil | α; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 5; 10 Sorrow Echoes | `SE-884-C__MAW-S_The_Frozen_Veil.md` |
 | The Frozen Fragment | α; Head; 5%; +1 stat bonus when working the source entity | `SE-884-D__MAW-G_The_Frozen_Fragment.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

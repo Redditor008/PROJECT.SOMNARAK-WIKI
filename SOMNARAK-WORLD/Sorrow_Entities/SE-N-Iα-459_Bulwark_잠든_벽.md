@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Snore* [**Debuff**] } | "The wall vibrates — a deep, structural hum — the sound of stone dreaming." | [The Wall's dormant resonance permeates the target; they feel sleepy.] | *Target suffers a Void mark; the wall's sleep is contagious.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target leans on the Wall. |
 | { *The Settling* [**Debuff**] } | "The wall sinks a fraction — in its sleep — and the settling cracks the floor." | [The Wall's dream-settling creates instability.] | *Target loses clarity; the ground is shifting.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Sleep-Twitch* [**Attack**] } | "The wall spasms — a crack racing through the mortar — involuntary, violent." | [An involuntary structural convulsion.] | *Inflicts Pale White damage; the crack warps space.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Wall is touched. |
+| { *The Sleep-Twitch* [**Attack**] } | "The wall spasms — a crack racing through the mortar — involuntary, violent." | [An involuntary structural convulsion.] | *Inflicts Void damage; the crack warps space.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Wall is touched. |
 | { *The Full Awakening* [**Attack**] } | "The wall wakes — and the first thing a barrier does when it wakes is decide what to keep out." | [The Wall's awakening activates its full defensive void.] | *A heavy Void activation; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Wall is struck. |
 | { *Every Wall Wakes* [**Ultimate**] } | "Every wall in the field stirs — and they are all deciding, simultaneously, who belongs inside." | [The Wall extends its waking across the whole area.] | *All in range suffer Pale White erosion for three turns of waking barriers.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -211,7 +211,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 5

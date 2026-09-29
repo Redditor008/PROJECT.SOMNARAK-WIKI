@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Rushing* [**Debuff**] } | "The silence is gone — and what replaces it is worse. It is the sound of absence." | [Protest No One Remembers fills the space with the noise of nothing.] | *Target suffers a Void mark; the anti-sound is maddening.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the space. |
 | { *The Deafening Nothing* [**Debuff**] } | "The sound of silence being absent is louder than any scream." | [The anti-silence builds; the target cannot hear anything else.] | *Target loses clarity; the void-noise drowns all thought.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains. |
-| { *The Sonic Void* [**Attack**] } | "The absence of silence solidifies — and strikes like a wall of negative sound." | [A blast of anti-silence hits the target.] | *Inflicts Pale White damage; the void-sound erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the absence is disturbed. |
+| { *The Sonic Void* [**Attack**] } | "The absence of silence solidifies — and strikes like a wall of negative sound." | [A blast of anti-silence hits the target.] | *Inflicts Void damage; the void-sound erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the absence is disturbed. |
 | { *The Total Noise* [**Attack**] } | "Every silence that was ever stolen — returned as one deafening crash of nothing." | [The accumulated absence of silence erupts.] | *A heavy Void detonation; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the absence is forced. |
 | { *No Silence Left* [**Ultimate**] } | "Silence is impossible now — and without it, no one can rest, think, or be still." | [Protest No One Remembers removes all quiet from the entire field.] | *All in range suffer Pale White erosion for three turns in the endless noise.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

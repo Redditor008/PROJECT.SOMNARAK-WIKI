@@ -27,7 +27,7 @@ The Bridge of the Unchosen Shield is the suit record of its source’s set, and 
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 (Weak) | 0.8 (Endured) | 0.3 (Resistant) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
+| 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels the weight of every road not taken. Continued use makes Bridge of the Unchosen's source sorrow feel autobiographical.
 

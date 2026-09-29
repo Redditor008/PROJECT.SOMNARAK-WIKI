@@ -47,7 +47,7 @@ During the The Tear Too Small to Honor Source-Trace, the field team preserved th
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Tear Too Small to Honor Requiem | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-785-B__MAW-W_Tear_Too_Small_to_Honor_Requiem.md` |
-| Tear Too Small to Honor Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-785-C__MAW-S_Tear_Too_Small_to_Honor_Shroud.md` |
+| Tear Too Small to Honor Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-785-C__MAW-S_Tear_Too_Small_to_Honor_Shroud.md` |
 | Tear Too Small to Honor Ring | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-785-D__MAW-G_Tear_Too_Small_to_Honor_Ring.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

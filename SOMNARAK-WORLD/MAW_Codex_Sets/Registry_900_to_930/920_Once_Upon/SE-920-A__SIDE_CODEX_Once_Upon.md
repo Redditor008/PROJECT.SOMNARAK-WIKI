@@ -47,7 +47,7 @@ During the The Once Upon Source-Trace, the field team preserved this source fact
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Once Upon's Edge | γ Lament 14–22; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-920-B__MAW-W_Once_Upon_s_Edge.md` |
-| Once Upon's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-920-C__MAW-S_Once_Upon_s_Veil.md` |
+| Once Upon's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-920-C__MAW-S_Once_Upon_s_Veil.md` |
 | Once Upon's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-920-D__MAW-G_Once_Upon_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

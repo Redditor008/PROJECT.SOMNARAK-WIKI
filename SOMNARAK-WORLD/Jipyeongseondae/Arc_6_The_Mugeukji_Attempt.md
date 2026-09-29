@@ -164,8 +164,8 @@ The Archon of the Void could not be harmed by conventional kinetic weapons; its 
   * Hwaran (Speed 7 -> 4 AP): Holds Node 02. Spends 2 AP on `[Harmonic Signal Beacon]`. Spends 2 AP on `[Acoustic Flare]`.
   * The Archon (Speed 7 -> 4 AP): Glides from Node 05 to Node 02. Spends 2 AP on `[Sensory Erasure Wave]`. Spends 2 AP on `[Monolith Stasis Pulse]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 01 to 05)**: The Archon pulses `[Sensory Erasure Wave]` (Base 20 + 2 Coins = 30 Power, Area Void/Amnesia).
-    * Kael intercepts with `[Trench-Cleaver: Acoustic Deflection]` (Base 23 + 2 Coins = 35 Power, Seismic Heavy Blade).
+  * **Clash 1 (Node 01 to 05)**: The Archon pulses `[Sensory Erasure Wave]` (Base 20 + 2 Lots = 30 Power, Area Void/Amnesia).
+    * Kael intercepts with `[Trench-Cleaver: Acoustic Deflection]` (Base 23 + 2 Lots = 35 Power, Seismic Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (35 vs 30)!
     * Kael strikes his glass arm against the obsidian cleaver; the deafening acoustic chime shatters the silence, tearing a hole through the erasure wave (`[P3: Parry/Protection]`).
     * Acoustic shockwave reflects **340 sonic damage** back into the Null Siphon, inflicting +68 Posture Strain!
@@ -217,12 +217,12 @@ The Archon of the Void could not be harmed by conventional kinetic weapons; its 
   * Hwaran (Speed 9 -> 5 AP): Spends 3 AP on `[High-Frequency Acoustic Pulse]`. Spends 2 AP on `[Memory Anchor]`.
   * Wright Gwan: Discharges the Drift Throne's forward sonic cannons at point-blank range.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The Archon channels `[Event Horizon Collapse]` (Base 21 + 2 Coins = 29 Power, Area Void/Erasure).
-    * Kael clashes with `[Obsidian Cleaver: Sonic Severance]` (Base 27 + 3 Coins Heads = 47 Power, Acoustic Weight).
+  * **Clash 1 (Node 04 to 05)**: The Archon channels `[Event Horizon Collapse]` (Base 21 + 2 Lots = 29 Power, Area Void/Erasure).
+    * Kael clashes with `[Obsidian Cleaver: Sonic Severance]` (Base 27 + 3 Lots Marked = 47 Power, Acoustic Weight).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (47 vs 29)!
     * Kael's cleaver, vibrating with the full 140-decibel roar of the cruiser's horns, slices through the anti-matter filaments of the Null Siphon!
     * The silence shatters with a deafening crack like thunder; sound returns to the polar plain in a concussive shockwave!
-    * Deals **1,460 Critical Acoustic damage** (Fatal 2.0x proc!)!
+    * Deals **1,460 Critical Acoustic damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Null-Acoustic Siphon Veil is completely destroyed (**Siphon HP: 0/1,800** credit)!
     * **EFFECT**: Silence aura destroyed; boss permanently loses 1 Speed Slot!
   * **Monolith Halo Damage**:
@@ -275,8 +275,8 @@ The Archon of the Void could not be harmed by conventional kinetic weapons; its 
   * Kael (Speed 8 -> 4 AP): Holds Node 04. Spends 2 AP on `[Glass Fist: Bedrock Fracture]`. Spends 2 AP on `[Cleaver Cleave]`.
   * Hwaran (Speed 8 -> 4 AP): Advances to Node 04. Spends 2 AP on `[Acoustic Resonance Dart]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The Archon slams with `[Judgment of the Silent Monolith]` (Base 19 + 2 Coins = 27 Power, Heavy Weight/Void).
-    * Kael clashes with `[Glass Fist: Bedrock Fracture]` (Base 24 + 2 Coins = 36 Power, Seismic Weight).
+  * **Clash 1 (Node 04 to 05)**: The Archon slams with `[Judgment of the Silent Monolith]` (Base 19 + 2 Lots = 27 Power, Heavy Weight/Void).
+    * Kael clashes with `[Glass Fist: Bedrock Fracture]` (Base 24 + 2 Lots = 36 Power, Seismic Weight).
     * **Clash Outcome**: Kael WINS THE CLASH (36 vs 27)!
     * Kael's glass fist punches directly through the lead marble monolith; the acoustic shockwave arcs through the orbital ring, detonating all six remaining slabs!
     * Drone-directed acoustic darts pierce the Archon's marble collar, creating cyclopean fractures down its chest!
@@ -329,7 +329,7 @@ The Archon of the Void could not be harmed by conventional kinetic weapons; its 
   * Kael (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 05 before the chest cavity. Spends 3 AP on `[Four-Fold Cleaver Execution]`. Spends 2 AP on `[Seismic Impact]`.
   * Hwaran: Calls in `[Spinal Battery Acoustic Shockwave]` (3 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Kael's `[Four-Fold Cleaver Execution]`: Rips through the vacuum core for **1,480 Acoustic/Weight damage** (Fatal 2.0x proc!)!
+  * Kael's `[Four-Fold Cleaver Execution]`: Rips through the vacuum core for **1,480 Acoustic/Weight damage** (Exposed 2.0x proc!)!
   * Kael's `[Seismic Impact]`: Shatters the remaining marble ribs for **600 Shatter damage**!
   * Spinal Acoustic Shockwave: Obliterates the halo remnants for **580 Sonic damage**!
   * **TOTAL BURST DAMAGE: 2,660 DAMAGE!**
@@ -371,14 +371,14 @@ The Archon of the Void could not be harmed by conventional kinetic weapons; its 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Absolute Singularity & Horizon Overdrive)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The Archon awakens in desperate existential realization; the Vacuum Core collapses into an absolute black hole that pulls the entire polar plain inward!
-  * Boss Special Skill: `[Absolute Vacuum Singularity Collapse]` (Sensory Erasure Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Absolute Vacuum Singularity Collapse]` (Sensory Erasure Cataclysm, 3 Lots).
   * Kael activates Relic Overdrive: `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Kael (Speed 9 -> 5 AP [Overdrive]): Steps directly into the roaring event horizon at Node 05, raising his glass arm high.
   * Hwaran: Anchors the caravan's seismic winches at Node 07 to withstand the gravitational pull.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 06)**: The Archon unleashes `[Absolute Vacuum Singularity Collapse]` (Base 25 + 3 Coins = 37 Power, Area Void/Dissolution).
-    * Kael clashes with `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Base 32 + 3 Coins Heads = 55 Power, Transcendent Harmony).
+  * **Clash 1 (Node 05 to 06)**: The Archon unleashes `[Absolute Vacuum Singularity Collapse]` (Base 25 + 3 Lots = 37 Power, Area Void/Dissolution).
+    * Kael clashes with `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Base 32 + 3 Lots Marked = 55 Power, Transcendent Harmony).
     * **Clash Outcome**: KAEL OVERWHELMING RELIC CLASH WIN (55 vs 37)!
     * Kael's glass arm plunges directly into the black hole; rather than being swallowed, his arm acts as a tuning fork for the entire living world (`[P3: Parry/Protection]`).
     * The laughter of Somnarak's children, the roar of Cheonbulok's forges, and the songs of the nomadic dunes pour through the crystal in a blinding torrent of sound!

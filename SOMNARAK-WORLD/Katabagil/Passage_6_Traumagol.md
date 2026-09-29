@@ -185,7 +185,7 @@ Towering four meters in height, its armor was assembled from interlocking iron g
 ================================================================================
  BOSS ATTRIBUTES:
  - Health (HP): 2,800 | Speed Dice: 2–6 (2 Action Slots)
- - Weaknesses: Void (Fatal 2.0x — Severing soul-lattice destroys the grave armor)
+ - Weaknesses: Void (Exposed 2.0x — Severing soul-lattice destroys the grave armor)
  - Primary Hazard: [Banner of the Unburied] — Grants +2 Clash Power to self
 ================================================================================
 ```
@@ -238,7 +238,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
  - Resistances:
    * Grudge (Crimson) : 0.5x (Endured — Forged from 400 years of war rage)
    * Lament (Deep Blue): 1.0x (Normal — Water dampens the burning grief)
-   * Void (Pale White) : 2.0x (Fatal Weakness — Truth severing phantom lattice)
+   * Void (Pale White) : 2.0x (Exposed Weakness — Truth severing phantom lattice)
    * Weight (Black)    : 0.5x (Endured — Cyclopean obsidian plate chassis)
 
  TARGETABLE COMPONENT PARTS:
@@ -277,7 +277,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 | - Total Health (HP): 4,800 HP | Posture Pool: 340/340               |
 | - Stagger 1 Proc : 60% Posture Strain (204 Posture) / Glaive Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Pacification)    |
-| - Resistances : Void 2.0x (Fatal), Lament 1.0x, Grudge 0.5x, Weight |
+| - Resistances : Void 2.0x (Exposed), Lament 1.0x, Grudge 0.5x, Weight |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
@@ -350,8 +350,8 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Acoustic Fault Lock]`, 2 AP on `[Acoustic Dart]`.
   * Jisoo (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 08, verifying casualty ledgers.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: SECC-1004 unleashes `[Fury Glaive Cleave]` (Base 18 + 2 Coins = 28 Power, Heavy Grudge/Slash).
-    * Harin intercepts with `[Bastion Kinetic Lock]` (Base 21 + 2 Coins = 33 Power, Tower Shield).
+  * **Clash 1 (Node 02 to 05)**: SECC-1004 unleashes `[Fury Glaive Cleave]` (Base 18 + 2 Lots = 28 Power, Heavy Grudge/Slash).
+    * Harin intercepts with `[Bastion Kinetic Lock]` (Base 21 + 2 Lots = 33 Power, Tower Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Harin plants the tower shield firmly into the obsidian ridge; the crimson fury glaive shudders violently and rebounds off the reinforced steel face (`[P3: Parry/Protection]`).
     * Harin reflects **260 kinetic tremor damage** into the glaive shaft, inflicting +52 Posture Strain!
@@ -402,11 +402,11 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
   * Harin (Speed 4 -> 2 AP): Holds Node 03, deflecting phantom shrapnel with `[Bulwark Stance]`.
   * Sora (Speed 7 -> 4 AP): Holds Node 06, quelling burning embers with `[Silver Requiem]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: SECC-1004 swings with `[Occlusihan Shockwave]` (Base 18 + 2 Coins = 28 Power, Area Grudge).
-    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 24 + 3 Coins Heads = 43 Power, Void Slash).
+  * **Clash 1 (Node 07 to 05)**: SECC-1004 swings with `[Occlusihan Shockwave]` (Base 18 + 2 Lots = 28 Power, Area Grudge).
+    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 24 + 3 Lots Marked = 43 Power, Void Slash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (43 vs 28)!
     * The dark relic cleaver slices cleanly through the Solidified Fury Glaive's central obsidian spine!
-    * Deals **520 Critical Void damage** (Fatal 2.0x proc!)!
+    * Deals **520 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Solidified Fury Glaive fractures into smoking black shards (**Glaive HP: 0/1,150**)!
     * **EFFECT**: Boss sweeping cleave permanently disabled; boss permanently loses 1 Speed Slot!
   * **Cuirass Armor Damage**:
@@ -449,7 +449,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 
 ###### Turn 03 Action Resolution Log (First Stagger Proc & Cuirass Fracture)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * SECC-1004 unleashes a desperate counter: `[Unmourned Retribution]` (Heavy Weight, 2 Coins).
+  * SECC-1004 unleashes a desperate counter: `[Unmourned Retribution]` (Heavy Weight, 2 Lots).
   * Doha gains `Momentum Surge` (+2 Speed -> Net Speed 7, 4 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Doha (Speed 7 -> 4 AP): Steps to Node 04. Spends 2 AP on `[Sapper Counter-Lever]`.
@@ -457,8 +457,8 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
   * Minjae (Speed 7 -> 4 AP): Casts `[Keeper Inscription]` (2 AP), weakening the phantom lattice.
   * Yeonhwa (Speed 7 -> 4 AP): Casts `[Acoustic Theodolite Laser]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: SECC-1004 strikes with `[Unmourned Retribution]` (Base 17 + 2 Coins = 25 Power, Heavy Weight).
-    * Doha clashes with `[Sapper Counter-Lever]` (Base 21 + 2 Coins = 33 Power, Heavy Lever).
+  * **Clash 1 (Node 04 to 05)**: SECC-1004 strikes with `[Unmourned Retribution]` (Base 17 + 2 Lots = 25 Power, Heavy Weight).
+    * Doha clashes with `[Sapper Counter-Lever]` (Base 21 + 2 Lots = 33 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (33 vs 25)!
     * Doha levers his tungsten sapper spike into the Occlusihan Cuirass seam; the pneumatic ram detonations echo like artillery!
     * The ancient war plate fractures from collar to waist, dealing **460 Blunt damage** and +82 Posture Strain!
@@ -509,7 +509,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
   * Yeonhwa (Speed 7 -> 4 AP): Stands at Node 08. Spends 2 AP on `[Acoustic Theodolite Laser]`.
   * Jisoo (Speed 7 -> 4 AP): Fires `[Cryo Harpoon Anchor]` from Node 10 (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * The Silent One's `[Core Strike]`: Slices through the soul lattice for **680 Void damage** (Fatal 2.0x proc!)!
+  * The Silent One's `[Core Strike]`: Slices through the soul lattice for **680 Void damage** (Exposed 2.0x proc!)!
   * Harin's `[Bulwark Kinetic Pummel]`: Smashes leg joints for **290 Weight damage**!
   * Doha's `[Sapper Thermite Detonation]`: Burns away obsidian struts for **360 Explosive Grudge damage**!
   * Yeonhwa's `[Acoustic Theodolite Laser]`: Focuses resonance for **250 Focused Resonance damage**!
@@ -553,7 +553,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 ###### Turn 05 Action Resolution Log (Phase 2 Escalation: Occlusihan Resentment & Absolute Audit)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Walker awakens in titanic agony, releasing four centuries of unmourned war resentment!
-  * Boss Special Skill: `[Cataclysmic Occlusihan Resentment]` (War Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Cataclysmic Occlusihan Resentment]` (War Cataclysm, 3 Lots).
   * Speed Dice expands to 4 slots! Phantoms of eighty thousand fallen soldiers materialize across the chasm.
   * Jisoo activates Relic Overdrive: `[ABSOLUTE ACKNOWLEDGMENT OF UNPAID DEBT — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -562,8 +562,8 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
   * Doha (Speed 5 -> 3 AP): Drops structural anchors into Node 06.
   * The Silent One (Speed 7 -> 4 AP): Prepares `[The Burden Peace]` at Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 06 to 05)**: SECC-1004 unleashes `[Cataclysmic Occlusihan Resentment]` (Base 22 + 3 Coins = 34 Power, Area Pale/Grudge).
-    * Jisoo clashes with `[ABSOLUTE ACKNOWLEDGMENT OF UNPAID DEBT — MAXIMUM]` (Base 28 + 3 Coins Heads = 49 Power, Truth Audit).
+  * **Clash 1 (Node 06 to 05)**: SECC-1004 unleashes `[Cataclysmic Occlusihan Resentment]` (Base 22 + 3 Lots = 34 Power, Area Pale/Grudge).
+    * Jisoo clashes with `[ABSOLUTE ACKNOWLEDGMENT OF UNPAID DEBT — MAXIMUM]` (Base 28 + 3 Lots Marked = 49 Power, Truth Audit).
     * **Clash Outcome**: JISOO OVERWHELMING RELIC CLASH WIN (49 vs 34)!
     * Jisoo reads the names of every fallen soldier from the thirty copper ledgers into the howling abyss!
     * The unpaid structural debt of the First War is formally acknowledged by the living (`[P3: Parry/Protection]`)!

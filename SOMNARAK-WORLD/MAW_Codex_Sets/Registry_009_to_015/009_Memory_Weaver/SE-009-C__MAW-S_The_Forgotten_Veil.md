@@ -19,7 +19,7 @@
 | Element | Multiplier | Label | Field Meaning |
 |---|---:|---|---|
 | **Lament** | 1.2 | Weak | Grief reaches a bearer who becomes difficult to remember. |
-| **Grudge** | 0.8 | Endured | Physical hostility is partially dispersed. |
+| **Grudge** | 0.8 | Warded | Physical hostility is partially dispersed. |
 | **Void** | 0.3 | Resistant | Strong defense against memory removal and identity erosion. |
 | **Weight** | 1.1 | Weak | Accumulated burden anchors the wearer too heavily for the Veil to hide. |
 

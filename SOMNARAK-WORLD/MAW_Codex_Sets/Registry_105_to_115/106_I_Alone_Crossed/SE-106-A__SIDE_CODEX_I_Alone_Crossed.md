@@ -115,7 +115,7 @@ The set maps crossings, responsibility, and survival. It fails when a bearer tri
 | Field | Record |
 |---|---|
 | Lament / Grudge | 0.4 — Resistant / 1.0 — Normal |
-| Void / Weight | 1.6 — Weak / 0.8 — Endured |
+| Void / Weight | 1.6 — Weak / 0.8 — Warded |
 | Maximum Amount / Echo Cost | 2 — Limited / 45 Sorrow Echoes |
 | Primary Cost | The wearer becomes numb to minor joys after carrying too many failed crossings. |
 

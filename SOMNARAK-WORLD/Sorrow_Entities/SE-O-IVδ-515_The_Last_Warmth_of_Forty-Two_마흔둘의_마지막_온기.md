@@ -79,9 +79,9 @@
 |---|---|---|---|---|
 | {{ *The Warm Rim* [**Debuff**] }} | "The silver solder hums with body temperature despite sub-zero ambient cold." | [The contrast between warmth and frost shakes the operator's senses.] | *Target loses 10 Clarity.* | When picked up from cold storage. |
 | {{ *Forty-Two Whispers* [**Debuff**] }} | "Multiple quiet voices murmur simultaneously from inside the quartz." | [Personnel hear beloved voices calling farewell from across great distances.] | *Target suffers -12 Composure.* | When held near the ear. |
-| {{ *Frost Bloom* [**Attack**] }} | "A sudden rime of blue frost races across the outer glass cylinder." | [The floor around the plinth drops thirty degrees in three seconds.] | *Inflicts 18 Deep Blue damage to nearby units.* | When handled without thermal gloves. |
+| {{ *Frost Bloom* [**Attack**] }} | "A sudden rime of blue frost races across the outer glass cylinder." | [The floor around the plinth drops thirty degrees in three seconds.] | *Inflicts 18 Lament damage to nearby units.* | When handled without thermal gloves. |
 | {{ *Trapped Exhalation* [**Attack**] }} | "The vapor inside swirls into the fleeting silhouette of forty-two faces." | [Observers feel an overwhelming wave of shared, loving grief.] | *Sorrow Gauge surges 15%.* | When the vial is jostled. |
-| {{ *Cryogenic Sunder* [**Ultimate**] }} | "The solder seal hair-fractures, releasing an ultra-cold jet of vapor." | [The jet instantly petrifies stone tiles into brittle ice.] | *All units in room take 28 Deep Blue damage.* | When Sorrow Gauge reaches 65%. |
+| {{ *Cryogenic Sunder* [**Ultimate**] }} | "The solder seal hair-fractures, releasing an ultra-cold jet of vapor." | [The jet instantly petrifies stone tiles into brittle ice.] | *All units in room take 28 Lament damage.* | When Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -218,7 +218,7 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 **Appearance:** A heavy, multi-layered insulated survival parka with a fur-trimmed hood, bearing the faded orange chevron of the Seventh Outrider Division.
 
 **Resistances:**
-- Grudge: 0.7 (Endured)
+- Grudge: 0.7 (Warded)
 - Lament: 0.3 (Resistant)
 - Weight: 1.2 (Weak)
 - Void: 1.3 (Weak)

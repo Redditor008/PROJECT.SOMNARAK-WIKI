@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The First Thread* [**Debuff**] } | "It draws a strand from your temple — thin, silver, shimmering — and it is made of a memory you have not thought of in years." | [The Weaver extracts a memory-thread from the target; the recollection is taken.] | *Target suffers a Void mark; a piece of their past is being removed.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Weaver begins to work. |
 | { *The Tapestry of Stolen Pasts* [**Debuff**] } | "Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them." | [The Weaver incorporates the target's thread into its growing tapestry.] | *Target loses clarity; their past is becoming part of someone else's design.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Memory Blade* [**Attack**] } | "It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember." | [A woven memory-thread strikes like a whip.] | *Inflicts Pale White damage; the cut severs a piece of recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Weaver is disturbed. |
+| { *The Memory Blade* [**Attack**] } | "It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember." | [A woven memory-thread strikes like a whip.] | *Inflicts Void damage; the cut severs a piece of recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Weaver is disturbed. |
 | { *The Unraveling* [**Attack**] } | "It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once." | [The Weaver releases its complete accumulated tapestry.] | *A heavy Void flood of stolen memories; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Weaver is confronted. |
 | { *The World Tapestry* [**Ultimate**] } | "Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design." | [The Weaver extends its extraction across the whole field.] | *All in range suffer Pale White erosion for three turns of stolen memory.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -205,7 +205,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

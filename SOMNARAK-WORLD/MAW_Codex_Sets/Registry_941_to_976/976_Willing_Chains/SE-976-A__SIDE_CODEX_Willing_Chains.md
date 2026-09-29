@@ -47,7 +47,7 @@ During the The Willing Chains Source-Trace, the field team preserved this source
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Willing Chains Lens | β Void 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-976-B__MAW-W_Willing_Chains_Lens.md` |
-| Willing Chains Veil | β; L/G/V/W 1.2 (Weak)/0.8 (Endured)/0.3 (Resistant)/1.1 (Weak); max 4; 20 Sorrow Echoes | `SE-976-C__MAW-S_Willing_Chains_Veil.md` |
+| Willing Chains Veil | β; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 4; 20 Sorrow Echoes | `SE-976-C__MAW-S_Willing_Chains_Veil.md` |
 | Willing Chains Lantern | β; Head; 5%; +1 stat bonus when working the source entity | `SE-976-D__MAW-G_Willing_Chains_Lantern.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

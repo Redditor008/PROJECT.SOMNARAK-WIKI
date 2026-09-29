@@ -69,7 +69,7 @@ The highest tier of artifacts in Somnarak consists of singular instruments that 
 | Category Rating      | Class IV / Critical-δ |
 | Current Bearer       | Echo-Core 8 (Ishall)  |
 | Operating Reach      | Range Band 4 & 5      |
-| Elemental Signature  | Void (Pale) & Grudge  |
+| Elemental Signature  | Void (Pale White) & Grudge  |
 | Physical Connection  | None (Free Levitating)|
 +==============================================+
 ```

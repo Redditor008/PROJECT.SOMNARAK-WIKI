@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Open Mouth* [**Debuff**] } | "It opens its mouth to scream — and nothing comes out. But you hear it anyway." | [The Scream's silence marks the target; the unheard cry is a void.] | *Target suffers a Void mark; the suppressed scream presses on them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Scream begins. |
 | { *The Throat Closes* [**Debuff**] } | "You feel your own throat tighten — the scream is contagious, even in silence." | [The Scream infects the target; their voice catches.] | *Target loses clarity; they feel the scream building with no release.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target witnesses the Scream. |
-| { *The Soundless Impact* [**Attack**] } | "The scream hits you — and you feel every decibel of a sound that does not exist." | [A silent sonic impact; the damage is real, the sound is not.] | *Inflicts Pale White damage; the unheard cry tears at identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Scream is directed. |
+| { *The Soundless Impact* [**Attack**] } | "The scream hits you — and you feel every decibel of a sound that does not exist." | [A silent sonic impact; the damage is real, the sound is not.] | *Inflicts Void damage; the unheard cry tears at identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Scream is directed. |
 | { *The Suppressed Eruption* [**Attack**] } | "Every scream it ever held back — released at once, in absolute, crushing silence." | [The Scream unleashes its accumulated suppression.] | *A heavy Void blast of perfect quiet; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Scream is silenced or struck. |
 | { *A Thousand Silent Screams* [**Ultimate**] } | "Everyone is screaming — and no one can hear anyone else, and the silence is endless." | [The Scream spreads its voiceless agony across the whole field.] | *All in range suffer Pale White erosion for three turns of silent screaming.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

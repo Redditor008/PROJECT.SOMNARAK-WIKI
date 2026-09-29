@@ -79,9 +79,9 @@
 |---|---|---|---|---|
 | {{ *The Indigo Seal* [**Debuff**] }} | "The wax softens slightly, weeping blue condensation." | [A faint chill settles over the chamber; observers feel unvoiced remorse.] | *Target suffers -5 Composure.* | When the envelope is approached without reverence. |
 | {{ *Faded Address* [**Debuff**] }} | "The ink shifts beneath the wax, spelling out forgotten names." | [The address line blurs; memories of unwritten messages intrude into thought.] | *Target loses 5 Composure.* | When an operator inspects the front seal. |
-| {{ *Trembling Seam* [**Attack**] }} | "The paper edges hum at a low acoustic frequency." | [The envelope vibrates in resonance with nearby human regret.] | *Inflicts 8 Deep Blue damage across Range Band 1.* | When handled carelessly. |
+| {{ *Trembling Seam* [**Attack**] }} | "The paper edges hum at a low acoustic frequency." | [The envelope vibrates in resonance with nearby human regret.] | *Inflicts 8 Lament damage across Range Band 1.* | When handled carelessly. |
 | {{ *Parchment Sigh* [**Attack**] }} | "A breath of stale, century-old air escapes from the fold." | [The draft smells of old paper and winter train stations.] | *Sorrow Gauge increases by 10%.* | When the envelope is dropped or jarred. |
-| {{ *Unread Finality* [**Ultimate**] }} | "The blue wax cracks prematurely under immense psychic strain." | [The envelope flares with faint indigo fire, threatening premature consumption.] | *All personnel in room take 10 Deep Blue damage.* | When Sorrow Gauge reaches 60%. |
+| {{ *Unread Finality* [**Ultimate**] }} | "The blue wax cracks prematurely under immense psychic strain." | [The envelope flares with faint indigo fire, threatening premature consumption.] | *All personnel in room take 10 Lament damage.* | When Sorrow Gauge reaches 60%. |
 
 ### Battle Phases
 

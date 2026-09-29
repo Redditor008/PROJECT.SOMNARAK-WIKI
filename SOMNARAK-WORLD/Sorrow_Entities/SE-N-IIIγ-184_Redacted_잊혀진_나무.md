@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Unnamed* [**Debuff**] } | "The tree is here — enormous, ancient — but no one remembers planting it, or naming it, or why it grows." | [The Tree's forgotten nature unsettles the target; they sense something vast and unnamed.] | *Target suffers a Void mark; the forgotten thing presses on them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target notices the Tree. |
 | { *The Memory Gap* [**Debuff**] } | "You know this tree — or you should — but the memory of it is simply... not there." | [The Tree's erased history creates a void in the target's recall.] | *Target loses clarity; the gap where the memory should be is wrong.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target tries to remember. |
-| { *The Unnamed Branch* [**Attack**] } | "A branch from the forgotten tree swings — and where it strikes, you forget what hit you." | [A blow that erases the memory of being struck.] | *Inflicts Pale White damage; the impact removes a recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tree is disturbed. |
+| { *The Unnamed Branch* [**Attack**] } | "A branch from the forgotten tree swings — and where it strikes, you forget what hit you." | [A blow that erases the memory of being struck.] | *Inflicts Void damage; the impact removes a recollection.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tree is disturbed. |
 | { *The Full Remembrance* [**Attack**] } | "The tree remembers everything — including why it was forgotten — and the memory is devastating." | [The Tree's complete recollection is released.] | *A heavy Void flood of returned memory; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tree is forced to remember. |
 | { *The Forgotten Forest* [**Ultimate**] } | "Every tree in the field becomes forgotten — and without memory of what grew here, the void claims everything." | [The Tree extends its forgotten-ness across the whole area.] | *All in range suffer Pale White erosion for three turns of universal forgetting.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

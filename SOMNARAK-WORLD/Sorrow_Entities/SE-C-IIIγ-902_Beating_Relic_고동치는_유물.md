@@ -215,7 +215,7 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 
 **Appearance:** a flowing veil of crimson Han-cloth, dark and faintly warm, that settles cold against the skin.
 
-**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Endured)
+**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 

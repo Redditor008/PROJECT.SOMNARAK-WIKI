@@ -47,7 +47,7 @@ During the The The Kind Echo Source-Trace, the field team preserved this source 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Standard Training Baton | α Lament 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-1001-B__MAW-W_Standard_Training_Baton.md` |
-| Standard Training Vest | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 5; 10 Sorrow Echoes | `SE-1001-C__MAW-S_Standard_Training_Vest.md` |
+| Standard Training Vest | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 5; 10 Sorrow Echoes | `SE-1001-C__MAW-S_Standard_Training_Vest.md` |
 | The Warm Stone | α; Tail; 5%; +1 stat bonus when working the source entity | `SE-1001-D__MAW-G_The_Warm_Stone.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

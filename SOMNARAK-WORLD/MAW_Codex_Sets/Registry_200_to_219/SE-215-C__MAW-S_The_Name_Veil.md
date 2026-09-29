@@ -68,7 +68,7 @@ The first Veil formed from pale fibers left across two coats after their owners 
 | Element | Multiplier | Label | Protection profile |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | Tears blur the breath-script and make each surviving name difficult to read. |
-| Grudge | 0.8 | Endured | A witnessed identity resists being replaced by an accusation alone. |
+| Grudge | 0.8 | Warded | A witnessed identity resists being replaced by an accusation alone. |
 | Void | 0.3 | Resistant | Erasure must break separate human attestations before reaching the wearer directly. |
 | Weight | 1.1 | Weak | Burden settles on the external labels until the wearer feels reduced to duties. |
 

@@ -78,10 +78,10 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | {{ *Pale Dust Fall* [**Debuff**] }} | "Fine white powder sloughs from the cylinder, hanging in the air." | [The air turns dry and odorless; memories of legal verdicts grow hazy.] | *Target loses 6 Clarity.* | When touched with bare skin. |
-| {{ *Struck Line* [**Debuff**] }} | "A pale line appears on the plinth without physical contact." | [Looking at the line causes brief disorientation.] | *Target takes 8 Pale White damage.* | When an operator hesitates during logging. |
+| {{ *Struck Line* [**Debuff**] }} | "A pale line appears on the plinth without physical contact." | [Looking at the line causes brief disorientation.] | *Target takes 8 Void damage.* | When an operator hesitates during logging. |
 | {{ *The Magistrate's Silence* [**Attack**] }} | "A deep, suffocating hush descends within a five-meter radius." | [Voices fail to produce sound; words vanish in the throat.] | *Inflicts Silence on all targets for 1 turn.* | When spoken to loudly. |
 | {{ *Erasing Touch* [**Attack**] }} | "The chalk residue numbs the operator's fingertips down to the bone." | [The operator momentarily forgets why they entered the chamber.] | *Target loses 10 Composure.* | When handled without fabric gloves. |
-| {{ *Registry Void* [**Ultimate**] }} | "The chalk vibrates frantically, leaking clouds of lime-white fog." | [The room blurs as if struck from municipal records.] | *All units suffer 15 Pale White damage.* | When Sorrow Gauge reaches 60%. |
+| {{ *Registry Void* [**Ultimate**] }} | "The chalk vibrates frantically, leaking clouds of lime-white fog." | [The room blurs as if struck from municipal records.] | *All units suffer 15 Void damage.* | When Sorrow Gauge reaches 60%. |
 
 ### Battle Phases
 
@@ -219,7 +219,7 @@ The tip does not cut flesh; it strikes through intent. When driven into an enemy
 
 **Resistances:**
 - Grudge: 1.1 (Weak)
-- Lament: 0.8 (Endured)
+- Lament: 0.8 (Warded)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)
 **Max Amount:** 4

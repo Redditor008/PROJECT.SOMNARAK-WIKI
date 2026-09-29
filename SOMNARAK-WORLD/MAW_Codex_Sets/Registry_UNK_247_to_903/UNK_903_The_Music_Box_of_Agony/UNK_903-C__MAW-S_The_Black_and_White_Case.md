@@ -21,7 +21,7 @@
 | Grade | γ |
 | Element | Void |
 | Appearance | A fitted coat split in color — black above the waist, white below, pink at the lining — that mutes all sound around the wearer by a half-tone. |
-| Lament resistance | 0.8 (Endured) |
+| Lament resistance | 0.8 (Warded) |
 | Grudge resistance | 1 (Normal) |
 | Void resistance | 0.3 (Resistant) |
 | Weight resistance | 1.1 (Weak) |

@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Exposed Root* [**Debuff**] } | "The tree is half-uprooted — and the roots that show are black with void." | [The Tree's exposed roots radiate void; the target feels the pull of the hollow beneath.] | *Target suffers a Void mark; the ground is not trustworthy.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Tree. |
 | { *The Leaning* [**Debuff**] } | "The tree tilts — torn half from the earth, suspended between standing and falling." | [The Tree's instability spreads; the target feels caught between states.] | *Target loses clarity; they are between rooted and unrooted.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Falling Branch* [**Attack**] } | "A branch, dead and void-blackened, snaps and falls — heavy, jagged, final." | [A void-corrupted branch crashes down.] | *Inflicts Pale White damage; the dead wood carries absence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tree is shaken. |
+| { *The Falling Branch* [**Attack**] } | "A branch, dead and void-blackened, snaps and falls — heavy, jagged, final." | [A void-corrupted branch crashes down.] | *Inflicts Void damage; the dead wood carries absence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tree is shaken. |
 | { *The Full Uprooting* [**Attack**] } | "The tree tears free entirely — and the void beneath its roots is exposed." | [The Tree is fully uprooted; the hollow below erupts.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tree is felled. |
 | { *The Dead Forest* [**Ultimate**] } | "Every tree tears free — and beneath them all, the same void waits." | [The Tree's failure spreads; the whole field is uprooted.] | *All in range suffer Pale White erosion for three turns in the dead forest.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -193,7 +193,7 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

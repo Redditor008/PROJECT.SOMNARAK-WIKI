@@ -47,7 +47,7 @@ The Melted Shroud is a deep-blue shroud whose folds continually soften and reset
 | Lament | 0.4 | Resistant | The Shroud diffuses anticipatory grief before it overwhelms the body. |
 | Grudge | 1.0 | Normal | Anger at an uncertain future has no special defense. |
 | Void | 1.6 | Weak | A future fixation can empty the present. |
-| Weight | 0.8 | Endured | Shared care makes possibility easier to carry. |
+| Weight | 0.8 | Warded | Shared care makes possibility easier to carry. |
 
 | Field | Record |
 |---|---|

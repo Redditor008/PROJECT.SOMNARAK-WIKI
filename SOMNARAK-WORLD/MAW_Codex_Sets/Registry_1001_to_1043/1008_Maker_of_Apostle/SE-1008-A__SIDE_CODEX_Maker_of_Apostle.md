@@ -47,7 +47,7 @@ During the The Maker of Apostle Source-Trace, the field team preserved this sour
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Voice | γ Mixed 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-1008-B__MAW-W_The_Voice.md` |
-| The Wings | γ; L/G/V/W 0.6 (Endured)/0.6 (Endured)/0.6 (Endured)/0.6 (Endured); max 3; 35 Sorrow Echoes | `SE-1008-C__MAW-S_The_Wings.md` |
+| The Wings | γ; L/G/V/W 0.6 (Warded)/0.6 (Warded)/0.6 (Warded)/0.6 (Warded); max 3; 35 Sorrow Echoes | `SE-1008-C__MAW-S_The_Wings.md` |
 | The Brand | γ; Hand; 4%; +2 stat bonus when working the source entity | `SE-1008-D__MAW-G_The_Brand.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

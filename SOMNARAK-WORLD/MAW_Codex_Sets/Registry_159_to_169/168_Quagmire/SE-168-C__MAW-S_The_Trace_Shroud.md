@@ -47,7 +47,7 @@ The Trace Shroud is a blue shroud with a faint crystal route line running from c
 | Lament | 0.4 | Resistant | The Shroud holds the grief of routes that did not arrive. |
 | Grudge | 1.0 | Normal | Anger at a lost route needs separate acknowledgment. |
 | Void | 1.6 | Weak | Losing orientation can make the present camp disappear from mind. |
-| Weight | 0.8 | Endured | A mapped return makes an unfinished journey lighter to carry. |
+| Weight | 0.8 | Warded | A mapped return makes an unfinished journey lighter to carry. |
 
 | Field | Record |
 |---|---|

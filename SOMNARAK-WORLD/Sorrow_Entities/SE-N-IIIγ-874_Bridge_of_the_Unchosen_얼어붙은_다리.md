@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Iced Span* [**Debuff**] } | "The bridge is sealed in permafrost — every plank, every cable, frozen solid and impossible to cross." | [The Bridge's ice-lock denies passage; the target is trapped on one side.] | *Target suffers a Void mark; the crossing is impossible.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Bridge. |
 | { *The Deepening Cold* [**Debuff**] } | "The ice thickens — and the cold extends outward, freezing the air itself." | [The Bridge's permafrost spreads; the target is being sealed in.] | *Target loses clarity; the cold is everywhere.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Ice-Lance* [**Attack**] } | "A shard of the frozen bridge breaks free — ancient, sharp, and colder than anything natural." | [An ice-splinter from the Bridge strikes.] | *Inflicts Pale White damage; the ancient cold erodes warmth.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bridge is struck. |
+| { *The Ice-Lance* [**Attack**] } | "A shard of the frozen bridge breaks free — ancient, sharp, and colder than anything natural." | [An ice-splinter from the Bridge strikes.] | *Inflicts Void damage; the ancient cold erodes warmth.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bridge is struck. |
 | { *The Full Shatter* [**Attack**] } | "The entire frozen bridge detonates — ice and wood and void, in every direction." | [The Bridge's permafrost fails catastrophically.] | *A heavy Void ice-burst; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Bridge is broken. |
 | { *The Frozen Crossing* [**Ultimate**] } | "The ice spreads to every bridge in the field — and without crossings, every side is cut off." | [The Bridge extends its freeze across the whole area.] | *All in range suffer Pale White erosion for three turns of frozen crossings.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -237,7 +237,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

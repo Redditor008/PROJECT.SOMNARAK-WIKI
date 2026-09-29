@@ -115,7 +115,7 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 | Field | Record |
 |---|---|
 | Lament / Grudge | 0.4 — Resistant / 1.0 — Normal |
-| Void / Weight | 1.6 — Weak / 0.8 — Endured |
+| Void / Weight | 1.6 — Weak / 0.8 — Warded |
 | Maximum Amount / Echo Cost | 3 — Standard / 35 Sorrow Echoes |
 | Primary Cost | Minor joys become difficult to feel while the Shroud is saturated. |
 

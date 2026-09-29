@@ -113,7 +113,7 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 
 | Field | Record |
 |---|---|
-| Lament / Grudge | 1.2 — Weak / 0.8 — Endured |
+| Lament / Grudge | 1.2 — Weak / 0.8 — Warded |
 | Void / Weight | 0.3 — Resistant / 1.1 — Weak |
 | Maximum Amount / Echo Cost | 5 — Standard / 10 Sorrow Echoes |
 | Primary Cost | The wearer feels faintly absent to themself. |

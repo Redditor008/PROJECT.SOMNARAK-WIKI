@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Closed Lips* [**Debuff**] } | "She stands silent — and the silence around her is heavier than any speech." | [The Maiden's suppressed voice creates a void of unspoken words.] | *Target suffers a Void mark; the unspoken things press on them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Maiden. |
 | { *The Swallowed Words* [**Debuff**] } | "You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you." | [The Maiden's suppressed speech transfers to the target; they carry her unspoken burden.] | *Target loses clarity; they are full of someone else's silence.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target waits for her to speak. |
-| { *The Silent Decree* [**Attack**] } | "She mouths a word — no sound — and the word strikes you anyway." | [A silent command hits the target with full force despite making no noise.] | *Inflicts Pale White damage; the voiceless decree erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Maiden is commanded. |
+| { *The Silent Decree* [**Attack**] } | "She mouths a word — no sound — and the word strikes you anyway." | [A silent command hits the target with full force despite making no noise.] | *Inflicts Void damage; the voiceless decree erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Maiden is commanded. |
 | { *The Released Voice* [**Attack**] } | "She speaks — one word, the first in centuries — and the word is devastating." | [The Maiden releases one suppressed word with all its accumulated power.] | *A heavy Void utterance; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Maiden is forced to speak. |
 | { *The Eternal Silence* [**Ultimate**] } | "She falls silent again — and this time, she takes everyone's voice with her." | [The Maiden extends her silence across the entire field.] | *All in range suffer Pale White erosion for three turns of absolute quiet.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -205,7 +205,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

@@ -47,7 +47,7 @@ During the The Solace Source-Trace, the field team preserved this source fact: C
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Kindness Requiem | α Lament 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-1022-B__MAW-W_The_Kindness_Requiem.md` |
-| The Kindness Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 5; 10 Sorrow Echoes | `SE-1022-C__MAW-S_The_Kindness_Shroud.md` |
+| The Kindness Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 5; 10 Sorrow Echoes | `SE-1022-C__MAW-S_The_Kindness_Shroud.md` |
 | The Kindness Stone | α; Tail; 5%; +1 stat bonus when working the source entity | `SE-1022-D__MAW-G_The_Kindness_Stone.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

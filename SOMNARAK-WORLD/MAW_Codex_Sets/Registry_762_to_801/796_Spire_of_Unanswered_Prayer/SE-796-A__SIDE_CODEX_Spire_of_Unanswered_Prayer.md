@@ -47,7 +47,7 @@ During the The Spire of Unanswered Prayer Source-Trace, the field team preserved
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Tower Requiem | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-796-B__MAW-W_The_Tower_Requiem.md` |
-| The Tower Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-796-C__MAW-S_The_Tower_Shroud.md` |
+| The Tower Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-796-C__MAW-S_The_Tower_Shroud.md` |
 | The Tower Tear | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-796-D__MAW-G_The_Tower_Tear.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

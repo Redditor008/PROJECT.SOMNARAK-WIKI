@@ -166,10 +166,10 @@ During their Battle Turn, an operative can spend their AP across five tactical c
 
 1. **Maneuver (1 AP per Node)**: Reposition along the 10-node grid to achieve optimal Range Band.
 2. **Basic Strike (1 AP)**: Perform a standard melee swing or ranged burst within weapon range.
-3. **Resonance Skill (2 AP)**: Unleash an advanced M.A.W. combat art (elemental infusal, armor pierce, multi-coin strike).
+3. **Resonance Skill (2 AP)**: Unleash an advanced M.A.W. combat art (elemental infusal, armor pierce, multi-lot strike).
 4. **Defensive Stance (1 AP)**:
    - *Guard*: Deploys a barrier absorbing incoming damage equal to (Base Defense + Resolve).
-   - *Evade*: Sets an evasion coin; completely nullifies damage on winning dodge rolls.
+   - *Evade*: Sets an evasion lot; completely nullifies damage on winning dodge rolls.
    - *Counter*: Prepares a reactionary strike triggered when struck by an incoming melee clash.
 5. **Institutional Action (1 to 2 AP)**:
    - *R.D. Work Cycle* (2 AP): Perform Flerehan, Pugnahan, Ferrehan, or Viderehan at an entity terminal.
@@ -310,14 +310,15 @@ Every combatant in Somnarak balances two internal psychological gauges:
    - *For Sorrow Entities*: Reaching 100% triggers **Berserk Overdrive**, unlocking lethal multi-target attacks and stripping all stagger vulnerabilities.
 2. **Mental Composure / Sanity Points (SP: -45 to +45)**:
    - Measures operational clarity and emotional grounding.
-   - High SP (+15 to +45): Greatly improves Clash coin flip odds (up to 95% heads rate).
+   - High SP (+15 to +45): Greatly improves Clash lot cast odds (up to 95% marked rate).
    - Low SP (-15 to -44): Causes panic, misses, and erratic target redirection.
    - Terminal SP (-45): Forces the combatant into **Paralyzing Panic** for 1 full turn.
 
 ### 5.2 Clash Resolution Mechanics
 
 When two combatants target each other within viable Range Bands, a **Clash** occurs:
-Total Clash Power = Base Skill Power + sum (Heads Coins * Coin Modifier)
+Total Clash Power = Base Skill Power + sum (Marked Lots * Lot Modifier)
+Clashes are decided by casting fate-lots  [제비]  (jebi): marked lots add their power to the base skill.
 
 - **Winner**: Lands their strike, dealing full damage and inflicting associated status effects.
 - **Loser**: Their attack is completely nullified; they take direct damage and suffer +15 Stagger buildup.
@@ -774,8 +775,8 @@ Below is the definitive, canonical combat visualization template designed for di
   * Specialist Min holds Node 5 (Work Console). Spends 2 AP to initiate `[Flerehan Work Cycle]`.
   * Specialist Ray holds Node 7 (Overwatch). Spends 2 AP to aim `[Aimed Void Shot]` at Bell's clapper module. Remaining AP: 2.
 - **Step 2: Clash Engagement (Node 2)**:
-  * The Weeping Bell declares `[Resonant Clang]` against Warden Jin (Base 8 + 2 Coins = 12 Power).
-  * Warden Jin declares `[Heavy Cleaver Parry]` (Base 9 + 2 Coins = 14 Power).
+  * The Weeping Bell declares `[Resonant Clang]` against Warden Jin (Base 8 + 2 Lots = 12 Power).
+  * Warden Jin declares `[Heavy Cleaver Parry]` (Base 9 + 2 Lots = 14 Power).
   * **Resolution**: Jin WINS THE CLASH (14 vs 12). Bell's attack is cancelled. Jin deals 32 Weight damage, inflicting +18 Stagger. Jin SP rises from +20 to +25.
 - **Step 3: Ranged & Work Resolution**:
   * Specialist Ray fires `[Aimed Void Shot]` from Node 7 to Node 2 (Distance: 5 Nodes / Band 3). Unopposed strike deals 28 Void damage to Bell's clapper.

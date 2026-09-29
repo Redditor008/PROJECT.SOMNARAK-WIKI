@@ -216,8 +216,8 @@ Director Majin establishes GBS tactical engagement in the Archive Rotunda:
   * Specialist Yoo (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Lock Maul Tectonic Downswing]`.
   * Archive Lead Marjuk (Speed 5 -> 3 AP) operates from Node 10, spending 2 AP to maintain the stasis dampeners on pinned archivists at Node 5.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
-  * Memory Fossil attempts `[2.5G Gravitational Stasis Pulse]` (Base 9 + 2 Coins = 13 Power).
-  * Specialist Yoo's `[Lock Maul Tectonic Downswing]` (Base 11 + 2 Coins = 15 Power).
+  * Memory Fossil attempts `[2.5G Gravitational Stasis Pulse]` (Base 9 + 2 Lots = 13 Power).
+  * Specialist Yoo's `[Lock Maul Tectonic Downswing]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Yoo WINS THE CLASH (15 vs 13).
     * Yoo's massive warhammer smashes through the fossilized ribs, exploiting its Grudge vulnerability to deal **52 Grudge damage** and inflicting +26 Stagger!
   * Marjuk's stasis wave frees the pinned archivists, who safely withdraw toward Node 9.
@@ -649,8 +649,8 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Threshold Greatsword Sunder]`.
   * Specialist Noh (Speed 5 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Rifle Resonant Burst]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Trench Worm A launches `[Crushing Mandible Thrust]` (Base 9 + 2 Coins = 13 Power).
-  * Specialist Kang's `[Threshold Greatsword Sunder]` (Base 11 + 2 Coins = 15 Power).
+  * Trench Worm A launches `[Crushing Mandible Thrust]` (Base 9 + 2 Lots = 13 Power).
+  * Specialist Kang's `[Threshold Greatsword Sunder]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Kang WINS THE CLASH (15 vs 13).
     * Kang drives the heavy greatsword directly into the beast's armored gullet, absorbing the kinetic shock and dealing **48 Pierce/Grudge damage** with +24 Stagger!
   * Noh's sonic rifle tears through Worm B's segment joints from Node 5, dealing 36 acoustic damage.
@@ -1090,8 +1090,8 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
   * Specialist Noh (Speed 6 -> 3 AP) positions at Node 5 (Range Band 2). Spends 2 AP to ready `[Clockwork Bayonet Piercing Pin]`. Remaining 1 AP held in Guard.
   * Specialist Shin (Speed 5 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to channel `[Choral Staff Wide-Angle Lament Wave]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Lead Carmine Husk declares `[Sanguinary Razor Sprint]` (Base 8 + 2 Coins = 12 Power).
-  * Specialist Noh's `[Clockwork Bayonet Piercing Pin]` (Base 10 + 2 Coins = 14 Power).
+  * Lead Carmine Husk declares `[Sanguinary Razor Sprint]` (Base 8 + 2 Lots = 12 Power).
+  * Specialist Noh's `[Clockwork Bayonet Piercing Pin]` (Base 10 + 2 Lots = 14 Power).
   * **Resolution**: Noh WINS THE CLASH (14 vs 12).
     * Noh's bayonet pins the rushing husk's hind limbs to the floor, canceling the charge and inflicting 38 Grudge damage with +20 Stagger!
   * Shin channels the *Choral Staff*, bathing Nodes 1 through 3 in acoustic frequencies that shatter the husks' mental coordination.
@@ -1532,8 +1532,8 @@ Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
   * Specialist Jin (Speed 6 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to ready `[Sonic Bow Pinpoint Shot]`. Remaining 1 AP held in Guard.
   * Specialist Yoo (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Lock Maul Axle Shatter]`.
 - **Step 3: Clash Resolution (Node 1 to 6)**:
-  * Clockwork Titan prepares `[Long-Range Boiler Artillery Volley]` (Base 9 + 2 Coins = 13 Power).
-  * Specialist Jin's `[Sonic Bow Pinpoint Shot]` (Base 11 + 2 Coins = 15 Power).
+  * Clockwork Titan prepares `[Long-Range Boiler Artillery Volley]` (Base 9 + 2 Lots = 13 Power).
+  * Specialist Jin's `[Sonic Bow Pinpoint Shot]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Jin WINS THE CLASH (15 vs 13).
     * Jin's sonic arrow drives directly into the boiler exhaust flap, jamming the firing mechanism and dealing 42 acoustic damage with +26 Stagger!
   * Yoo charges under the venting steam, driving the *Lock Maul* into the central differential gear for **56 Grudge crushing damage**!
@@ -1967,8 +1967,8 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint across the spatial ripple from Node 4 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Lock Maul Foundation Shatter]`.
   * Specialist Hwang (Speed 6 -> 3 AP) advances to Node 3 (Close Range Band 2). Spends 2 AP to ready `[Apostle Scalpel Consecrated Thrust]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
-  * Void Monolith charges `[360-Degree Global Corridor Annihilation]` (Base 10 + 2 Coins = 14 Power).
-  * Specialist Kang's `[Lock Maul Foundation Shatter]` (Base 12 + 2 Coins = 16 Power).
+  * Void Monolith charges `[360-Degree Global Corridor Annihilation]` (Base 10 + 2 Lots = 14 Power).
+  * Specialist Kang's `[Lock Maul Foundation Shatter]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Kang WINS THE CLASH (16 vs 14).
     * Kang's massive maul slams into the obelisk's foundation stone, jarring its energy conduits and canceling the countdown! Deals **58 Grudge damage** and inflicts +30 Stagger!
   * Hwang lunges from the flank, driving the *Apostle Scalpel* straight into the central floating eye for 48 Void piercing damage.

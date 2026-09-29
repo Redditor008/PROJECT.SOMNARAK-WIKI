@@ -47,7 +47,7 @@ During the The Unwaking Block Source-Trace, the field team preserved this source
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Unwaking Block's Edge | γ Lament 14–19; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-908-B__MAW-W_Unwaking_Block_s_Edge.md` |
-| Unwaking Block's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-908-C__MAW-S_Unwaking_Block_s_Veil.md` |
+| Unwaking Block's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-908-C__MAW-S_Unwaking_Block_s_Veil.md` |
 | Unwaking Block's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-908-D__MAW-G_Unwaking_Block_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

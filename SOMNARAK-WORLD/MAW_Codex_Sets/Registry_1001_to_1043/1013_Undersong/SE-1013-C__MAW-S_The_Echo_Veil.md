@@ -23,7 +23,7 @@
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 (Weak) | 0.8 (Endured) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
+| 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Undersong's source sorrow feel autobiographical.
 

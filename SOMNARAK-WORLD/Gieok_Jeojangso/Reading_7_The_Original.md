@@ -27,7 +27,7 @@
 | - Total Health (HP): 6,000 HP | Posture Pool: 400/400                  |
 | - Stagger 1 Proc   : 60% Posture Strain (240 Posture) / Lance Break    |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Awakening)          |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Grudge 0.5x, Weight    |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Grudge 0.5x, Weight  |
 |   0.5x                                                                 |
 +------------------------------------------------------------------------+
 | TARGETABLE MEMORY ANCHORS:                                             |
@@ -155,8 +155,8 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Temporal Caliper: Stasis Lock]`. Holds 1 AP in Guard.
   * The Original (Speed 7 -> 4 AP, Sovereign Chrono delta +2): Holds Node 05. Spends 2 AP on `[Zero-Chrono Lance: Temporal Severance]`. Spends 2 AP on `[Crown Stasis Pulse]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: The Original thrusts forward with `[Zero-Chrono Lance: Temporal Severance]` (Base 19 + 2 Coins = 29 Power, Piercing Pale/Chrono).
-    * Seiyon intercepts with `[Prismatic Aegis: Chrono Deflection]` (Base 22 + 2 Coins = 34 Power, Holographic Shield).
+  * **Clash 1 (Node 02 to 05)**: The Original thrusts forward with `[Zero-Chrono Lance: Temporal Severance]` (Base 19 + 2 Lots = 29 Power, Piercing Pale/Chrono).
+    * Seiyon intercepts with `[Prismatic Aegis: Chrono Deflection]` (Base 22 + 2 Lots = 34 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (34 vs 29)!
     * Seiyon's shield refracts the zero-hertz needle cleanly; the frozen temporal wave breaks harmlessly against her golden light (`[P3: Parry/Protection]`).
     * Seiyon reflects **280 chrono-tremor damage** into the lance shaft, inflicting +60 Posture Strain!
@@ -205,12 +205,12 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Temporal Clamp]`. Holds 1 AP in Guard.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: The Original executes `[Erasure of the False Child]` (Base 20 + 2 Coins = 28 Power, Area Pale).
-    * Seiyon clashes with `[Prismatic Stiletto: Chrono Severance]` (Base 26 + 3 Coins Heads = 45 Power, Void Slash).
+  * **Clash 1 (Node 03 to 05)**: The Original executes `[Erasure of the False Child]` (Base 20 + 2 Lots = 28 Power, Area Pale).
+    * Seiyon clashes with `[Prismatic Stiletto: Chrono Severance]` (Base 26 + 3 Lots Marked = 45 Power, Void Slash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (45 vs 28)!
     * Seiyon slices through the frozen temporal crystal; the three-meter lance detonates into thousands of harmless chronological sparks!
     * Drone's `[Temporal Clamp]` shatters the wrist actuator completely!
-    * Deals **1,220 Critical Void damage** (Fatal 2.0x proc!)!
+    * Deals **1,220 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Zero-Chrono Lance is completely destroyed (**Lance HP: 0/1,500** credit)!
     * **EFFECT**: Boss temporal erasure permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Crown of Wills Damage**:
@@ -259,8 +259,8 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Piston Ram]`.
   * Resonant Lens: Focuses sensor pulse on the crown's central stasis node.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: The Original sweeps with `[Gale of Primordial Grief]` (Base 19 + 2 Coins = 27 Power, Area Lament).
-    * Seiyon clashes with `[Prismatic Needle: Crown Severance]` (Base 24 + 2 Coins = 36 Power, Void Pierce).
+  * **Clash 1 (Node 03 to 05)**: The Original sweeps with `[Gale of Primordial Grief]` (Base 19 + 2 Lots = 27 Power, Area Lament).
+    * Seiyon clashes with `[Prismatic Needle: Crown Severance]` (Base 24 + 2 Lots = 36 Power, Void Pierce).
     * **Clash Outcome**: Seiyon WINS THE CLASH (36 vs 27)!
     * Seiyon's needle strikes the retaining ring; four of the remaining six obsidian needles shatter into black dust!
     * Drone drives its ram into the coronet's base, fracturing the stasis field completely!
@@ -311,7 +311,7 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
   * Mnemonic Drone: Delivers `[Pneumatic Sapper Ground Shockwave]` (3 AP).
   * Resonant Lens: Directs `[Consoling Resonance Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the genesis core for **1,240 Void damage** (Fatal 2.0x proc!)!
+  * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the genesis core for **1,240 Void damage** (Exposed 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining crown fragments for **540 Pierce damage**!
   * Drone's `[Ground Shockwave]`: Smashes the silver footing for **280 Blunt damage**!
   * Lens's `[Solace Wave]`: Channels resonance for **220 Void damage**!
@@ -354,15 +354,15 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Primordial Cataclysm & The True Genesis)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The Original awakens in desperate, primordial agony; the entire lake of liquid silver rises into a cyclopean vortex of four thousand years of human tears!
-  * Boss Special Skill: `[Genesis Cataclysm of Year Zero]` (Absolute Memory Dissolution, 3 Coins).
+  * Boss Special Skill: `[Genesis Cataclysm of Year Zero]` (Absolute Memory Dissolution, 3 Lots).
   * Seiyon activates Relic Overdrive: `[PROMISE OF THE LIVING MEMORY — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 9 -> 5 AP [Overdrive]): Steps forward to Node 04, raising both hands to unfold an incandescent sphere of pure, daylight gold.
   * Mnemonic Drone: Deploys prismatic deflection field at Node 06.
   * Weaver Array: Anchors reality integrity across the sanctum.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The Original unleashes `[Genesis Cataclysm of Year Zero]` (Base 24 + 3 Coins = 36 Power, Area Pale/Memory Drain).
-    * Seiyon clashes with `[PROMISE OF THE LIVING MEMORY — MAXIMUM]` (Base 31 + 3 Coins Heads = 53 Power, Transcendent Genesis).
+  * **Clash 1 (Node 04 to 05)**: The Original unleashes `[Genesis Cataclysm of Year Zero]` (Base 24 + 3 Lots = 36 Power, Area Pale/Memory Drain).
+    * Seiyon clashes with `[PROMISE OF THE LIVING MEMORY — MAXIMUM]` (Base 31 + 3 Lots Marked = 53 Power, Transcendent Genesis).
     * **Clash Outcome**: SEIYON OVERWHELMING RELIC CLASH WIN (53 vs 36)!
     * The roaring vortex of liquid silver crashes against Seiyon's golden dawn; rather than erasing her thoughts, the silver metal coats her limbs in brilliant, permanent starlight (`[P3: Parry/Protection]`).
     * Seiyon's voice rings through the geode with absolute clarity: *"You were the grief that could not let go. I am the hope that dares to walk forward. Sleep, Yeon-seo. Your prayer has been answered!"*

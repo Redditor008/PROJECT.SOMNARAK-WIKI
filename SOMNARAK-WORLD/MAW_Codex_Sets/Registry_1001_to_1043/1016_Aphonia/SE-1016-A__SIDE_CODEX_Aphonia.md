@@ -47,7 +47,7 @@ During the The Aphonia Source-Trace, the field team preserved this source fact: 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Voice Lens | β Void 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1016-B__MAW-W_The_Voice_Lens.md` |
-| The Voice Veil | β; L/G/V/W 1.2 (Weak)/0.8 (Endured)/0.3 (Resistant)/1.1 (Weak); max 4; 20 Sorrow Echoes | `SE-1016-C__MAW-S_The_Voice_Veil.md` |
+| The Voice Veil | β; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 4; 20 Sorrow Echoes | `SE-1016-C__MAW-S_The_Voice_Veil.md` |
 | The Voice Amplifier | β; Head; 5%; +1 stat bonus when working the source entity | `SE-1016-D__MAW-G_The_Voice_Amplifier.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

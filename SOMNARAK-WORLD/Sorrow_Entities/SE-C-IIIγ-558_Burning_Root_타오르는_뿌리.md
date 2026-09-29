@@ -193,7 +193,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 1.0 (Normal)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 - Void: 1.5 (Weak)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes

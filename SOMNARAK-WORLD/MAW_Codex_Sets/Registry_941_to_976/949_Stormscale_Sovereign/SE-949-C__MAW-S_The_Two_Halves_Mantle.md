@@ -27,7 +27,7 @@ The Two Halves Mantle is the suit record of the The Stormscale Sovereign set —
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.8 (Endured) | 0.8 (Endured) | 0.8 (Endured) | 0.8 (Endured) | 2 / 44 Sorrow Echoes |
+| 0.8 (Warded) | 0.8 (Warded) | 0.8 (Warded) | 0.8 (Warded) | 2 / 44 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element. Continued use makes Stormscale Sovereign's source sorrow feel autobiographical.
 

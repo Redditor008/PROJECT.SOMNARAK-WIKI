@@ -47,7 +47,7 @@ During the The Weight of All Owed Source-Trace, the field team preserved this so
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Fragment Maul | δ Weight 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-1011-B__MAW-W_The_Fragment_Maul.md` |
-| The Fragment Plate | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 2; 45 Sorrow Echoes | `SE-1011-C__MAW-S_The_Fragment_Plate.md` |
+| The Fragment Plate | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 2; 45 Sorrow Echoes | `SE-1011-C__MAW-S_The_Fragment_Plate.md` |
 | The Fragment Charm | δ; Head; 4%; +3 stat bonus when working the source entity | `SE-1011-D__MAW-G_The_Fragment_Charm.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

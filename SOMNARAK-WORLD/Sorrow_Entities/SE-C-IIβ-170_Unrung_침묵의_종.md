@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Held Breath* [**Debuff**] } | "The bell should be ringing — but it is not, and the silence is worse than any sound." | [The Bell's silence presses on the target; the absence of sound is a void.] | *Target suffers a Void mark; the silence is deafening.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target waits for the Bell. |
 | { *The Swallowed Sound* [**Debuff**] } | "You try to speak — and the bell eats your words before they leave your mouth." | [The Bell absorbs sound; the target's voice is taken.] | *Target loses clarity; they cannot communicate.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target tries to speak near the Bell. |
-| { *The Silent Toll* [**Attack**] } | "The bell swings — and makes no sound — but the impact is still there, felt in the bones." | [A soundless strike; the damage is real even if the noise is gone.] | *Inflicts Pale White damage; the silent impact carries a void weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bell is rung. |
+| { *The Silent Toll* [**Attack**] } | "The bell swings — and makes no sound — but the impact is still there, felt in the bones." | [A soundless strike; the damage is real even if the noise is gone.] | *Inflicts Void damage; the silent impact carries a void weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bell is rung. |
 | { *The Absent Peal* [**Attack**] } | "Every sound the bell should have made, delivered at once — in absolute silence." | [The Bell unleashes its accumulated silence as crushing absence.] | *A heavy Void void; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Bell is struck. |
 | { *The Eternal Silence* [**Ultimate**] } | "The bell stops every sound in the field — and the silence becomes its own kind of death." | [The Bell extends its silence across everything.] | *All in range suffer Pale White erosion for three turns in the perfect silence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -238,7 +238,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

@@ -47,7 +47,7 @@ During the The Amnesia Source-Trace, the field team preserved this source fact: 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Amnesia's Edge | β Void 11–22; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-914-B__MAW-W_Amnesia_s_Edge.md` |
-| Amnesia's Veil | β; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-914-C__MAW-S_Amnesia_s_Veil.md` |
+| Amnesia's Veil | β; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-914-C__MAW-S_Amnesia_s_Veil.md` |
 | Amnesia's Token | β; Head; 5%; +1 stat bonus when working the source entity. | `SE-914-D__MAW-G_Amnesia_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

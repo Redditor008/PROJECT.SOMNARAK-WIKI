@@ -213,7 +213,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
 - Void: 1.5 (Weak)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 

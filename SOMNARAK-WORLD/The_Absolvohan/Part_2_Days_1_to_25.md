@@ -197,8 +197,8 @@ Director Majin establishes GBS tactical engagement parameters:
   * Specialist Kim (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Embrace Fang Vicious Guard]`.
   * Specialist Park (Speed 6 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to channel `[Lament Requiem Harmonic Blast]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2)**:
-  * Spore Carrier A lunges with `[Toxic Scythe Slash]` on Node 2 (Base 7 + 2 Coins = 11 Power).
-  * Specialist Kim's `[Embrace Fang Vicious Guard]` (Base 8 + 2 Coins = 12 Power).
+  * Spore Carrier A lunges with `[Toxic Scythe Slash]` on Node 2 (Base 7 + 2 Lots = 11 Power).
+  * Specialist Kim's `[Embrace Fang Vicious Guard]` (Base 8 + 2 Lots = 12 Power).
   * **Resolution**: Kim WINS THE CLASH (12 vs 11).
     * Kim parries the fungal blade, locking the beast in place and dealing 24 Grudge damage.
   * Specialist Park unloads `[Lament Requiem Harmonic Blast]` from Node 4 unopposed:
@@ -617,9 +617,9 @@ Director Majin establishes tactical battle parameters:
   * Specialist Kim (Speed 5 -> 3 AP) holds Node 5 behind research consoles. Spends 2 AP to aim `[Kinetic Carbine Concentrated Burst]` from Range Band 3. Remaining 1 AP held in Guard.
 - **Step 3: Clash Standoff (Node 2)**:
   * The Heavy Pendulum declares `[3.2G Gravitational Crush]` on Node 2:
-    * Obelisk Roll: Base 9 + (2 Coins Heads: +4) = 13 Power.
+    * Obelisk Roll: Base 9 + (2 Lots Marked: +4) = 13 Power.
   * Specialist Kang's `[Fury Blade Armor Pierce]`:
-    * Kang Roll: Base 10 + (2 Coins Heads: +5) = 15 Power.
+    * Kang Roll: Base 10 + (2 Lots Marked: +5) = 15 Power.
   * **Resolution**: Kang WINS THE CLASH (15 vs 13).
     * Kang's greatsword splits the descending pendulum arc. The blade strikes the central suspension ring, dealing 44 Grudge piercing damage and inflicting +22 Stagger buildup.
   * Specialist Kim fires unopposed burst from Node 5, dealing 31 Grudge damage to the support pylons.
@@ -1005,8 +1005,8 @@ Director Majin establishes GBS tactical command at the Gate 03 perimeter:
   * Border Lead Mellda (Speed 6 -> 3 AP) holds Node 3 (Point-Blank Range Band 1). Spends 2 AP to brandish *Threshold Vow* in an anchoring thrust. Remaining 1 AP in Guard.
   * Specialist Moon (Speed 5 -> 3 AP) stands at Node 4 (Range Band 2). Spends 2 AP to prepare `[Lead Maul Heavy Gravitational Downswing]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Tempest Stalker A launches `[Corrosive Void Tendril]` against Mellda (Base 8 + 2 Coins = 12 Power).
-  * Mellda's `[Threshold Vow Golden Pin]` (Base 10 + 2 Coins = 14 Power).
+  * Tempest Stalker A launches `[Corrosive Void Tendril]` against Mellda (Base 8 + 2 Lots = 12 Power).
+  * Mellda's `[Threshold Vow Golden Pin]` (Base 10 + 2 Lots = 14 Power).
   * **Resolution**: Mellda WINS THE CLASH (14 vs 12).
     * Mellda's golden spear skewers the vapor core, grounding its electrical mist into the stone floor and inflicting 34 Weight damage with +20 Stagger!
   * Specialist Moon swings the *Lead Maul* into Stalker A's pinned nucleus unopposed:
@@ -1400,8 +1400,8 @@ Director Majin establishes GBS tactical battle commands:
   * Specialist Sim (Speed 6 -> 3 AP) advances from Node 4 to Node 3 (Point-Blank Range Band 1 with Cenotaph A). Spends 2 AP to wind up `[Lead Maul Crushing Swing]`.
   * Specialist Seo (Speed 5 -> 3 AP) holds Node 5 behind the work consoles, spending 2 AP to prepare a concentrated sonic pulse from Range Band 3.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Cenotaph A declares `[Statute of Condemnation]` on Node 3 (Base 8 + 2 Coins = 12 Power).
-  * Specialist Sim's `[Lead Maul Crushing Swing]` (Base 10 + 2 Coins = 14 Power).
+  * Cenotaph A declares `[Statute of Condemnation]` on Node 3 (Base 8 + 2 Lots = 12 Power).
+  * Specialist Sim's `[Lead Maul Crushing Swing]` (Base 10 + 2 Lots = 14 Power).
   * **Resolution**: Sim WINS THE CLASH (14 vs 12).
     * Sim's heavy maul shatters the legal tablet's front inscription, exploiting its Grudge vulnerability to deal **42 Grudge blunt damage** and inflicting +24 Stagger!
   * Specialist Seo fires a sonic beam from Node 5, chipping away at Cenotaph B's stone frame.
@@ -1765,7 +1765,7 @@ At 16:30, the facility lights turn pitch black, replaced by an eerie, pulsing cy
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entity: 1x Spectral Ash Leviathan                                 |
-| - Attack Affinity: Pale (% Max HP Decay Pulse)                      |
+| - Attack Affinity: Void (% Max HP Decay Pulse)                      |
 | - Weakness Affinity: Balanced (All 4 Types)                         |
 +---------------------------------------------------------------------+
 | TACTICAL ORDERS: MULTI-FLOOR COORDINATED CLA                        |
@@ -1793,7 +1793,7 @@ Director Majin establishes multi-floor GBS combat coordination:
 | Requiem                                                             |
 | Jo : Speed 5 -> 3 AP | HP: 105/105 | SP: +20 | Guardian Lens        |
 | Echo of Cheonbulok: Speed 4 -> 3 AP | HP: 480/480 | Sorrow: 70%     |
-| Pale Pulse                                                          |
+| Void Pulse                                                          |
 +=====================================================================+
 ```
 
@@ -1806,8 +1806,8 @@ Director Majin establishes multi-floor GBS combat coordination:
   * Extraction Lead Zyrak (Speed 5 -> 3 AP) stands at Node 3 (Close Range Band 2). Spends 2 AP to ready `[Extraction Lance Energy Siphon]`.
   * Specialist Hong (Speed 5 -> 3 AP) and Specialist Jo (Speed 5 -> 3 AP) deploy at Nodes 5 and 6 (Range Band 3), spending 2 AP each to lock optical and sonic targeting on the leviathan's dorsal crest.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
-  * The Echo of Cheonbulok unleashes `[Subterranean Ash Tidal Wave]` (Base 10 + 2 Coins = 14 Power).
-  * Specialist Tak's `[Fury Blade High-Heat Thrust]` (Base 11 + 2 Coins = 15 Power).
+  * The Echo of Cheonbulok unleashes `[Subterranean Ash Tidal Wave]` (Base 10 + 2 Lots = 14 Power).
+  * Specialist Tak's `[Fury Blade High-Heat Thrust]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Tak WINS THE CLASH (15 vs 14).
     * Tak's molten blade drives through the leviathan's ash mantle, canceling the tidal wave and dealing **45 Grudge/Pale damage** with +28 Stagger!
   * Zyrak thrusts the Extraction Lance into the fracture point, siphoning 30 Han-Energy and dealing 32 kinetic damage.
@@ -1959,7 +1959,7 @@ Director Majin establishes multi-floor GBS combat coordination:
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Deep thermal vents of Floor 6 purged and   |
 | stabilized.                                                         |
-| 2. Status Equilibrium : Pale decay aura halted; team HP restored by |
+| 2. Status Equilibrium : Void decay aura halted; team HP restored by |
 | regenerator.                                                        |
 | 3. Containment Check : Spectral Leviathan disintegrated into        |
 | glowing embers.                                                     |
@@ -2132,7 +2132,7 @@ Specialist Hong is dispatched to Chamber 032 for Viderehan observation:
 
 ```text
 > Chamber Telemetry: "The bronze bird tilts its head, peering into Hong's open chest..."
-> Fear Check: Level IV Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
+> Dread Check: Level IV Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
 ```
 
 - **Work Tick 01–04:** 4 Successes. The bronze scale swings smoothly, registering the purity of Hong's dedication to the Directorate's mission.
@@ -2196,10 +2196,10 @@ A massive, floating carnival construct formed of jagged porcelain theatre masks 
   * **Specialist Hong (Speed 6 -> 3 AP)**: Holds Node 05 (Range Band 3). Spends 2 AP to lock optical targeting with `[Hollow Requiem Choral Wave]`. Holds 1 AP in Defensive Guard (+10 Block).
 - **Clash Resolution (Node 02 to Node 03)**:
   * Carved Mask targets Tak with `[Whirling Porcelain Guillotine]`:
-    * Hostile Roll: Base 8 + (2 Coins Heads: +4) = **12 Power**.
+    * Hostile Roll: Base 8 + (2 Lots Marked: +4) = **12 Power**.
   * Specialist Tak unleashes `[Fury Blade Cleave]`:
     * *Tak Passive Trigger:* `Smoldering Poise` (+2 Clash Power when holding Node 02).
-    * Tak Roll: Base 9 + (2 Coins Heads: +4) = **15 Power**.
+    * Tak Roll: Base 9 + (2 Lots Marked: +4) = **15 Power**.
   * **Result**: **Specialist Tak WINS THE CLASH (15 vs 12)!**
     * The razor blades screech against Tak's heavy shield. Tak drives his fury blade through the mask's porcelain cheek!
     * Deals 26 Grudge damage (HP: 154/180). Inflicts +18 Posture Strain (Posture: 72/90).
@@ -2531,13 +2531,13 @@ Specialist Kang enters Chamber 145 for Pugnahan combat calibration:
 
 ```text
 > Chamber Telemetry: "Razor thorns uncoil from the iron trellis, seeking flesh..."
-> Fear Check: Grade III Breacher vs Class III Entity -> RESULT: COMPOSED.
+> Dread Check: Grade III Breacher vs Class III Entity -> RESULT: COMPOSED.
 ```
 
 - **Work Tick 01–03:** 3 Successes. Kang cleaves overgrown briars with his shock maul.
 - **Work Tick 04:** Failure! A razor vine whips across Kang's chest plate; 4 Red (Grudge) damage sustained. Kang's *Thorn Reflect* passive sparks, sending kinetic recoil back into the bush!
 - **Work Tick 05–08:** 4 Successes.
-- **Work Tick 09:** Failure! 4 Red damage sustained (HP: 46/54).
+- **Work Tick 09:** Failure! 4 Crimson damage sustained (HP: 46/54).
 - **Work Tick 10:** Success! Kang severs the central resonant blossom.
 - **Work Result:** **8/10 Positive Han Crystals (NORMAL WORK RESULT).**
 - Yield: **+0.026 tons** of refined Han lubricant extracted.
@@ -2594,10 +2594,10 @@ A massive, segmented insectoid monstrosity encased in petrified amber chitin bur
 - **Operative Movement & Clash Standoff**:
   * **Specialist Tak (Speed 5 -> 3 AP)**: Plants his boots firmly at Node 03, swinging the heavy Judicial Scale Blade in a vertical arc (Costs 2 AP).
   * The Chitin Beast unleashes `[Burrowing Mandible Crush]` against Node 03 (2 AP / Weight Affinity):
-    * Hostile Roll: Base 9 + (2 Coins Heads: +4) = **13 Power**.
+    * Hostile Roll: Base 9 + (2 Lots Marked: +4) = **13 Power**.
   * Specialist Tak's Roll:
     * *Tak Passive Trigger:* `Weight Poise` active (+2 Base Clash Power).
-    * Tak Roll: Base 10 + (2 Coins Heads: +4) = **16 Power**!
+    * Tak Roll: Base 10 + (2 Lots Marked: +4) = **16 Power**!
   * **Clash Result**: **Specialist Tak WINS THE CLASH (16 vs 13)!**
     * The Judicial Blade smashes into the beast's armored forehead, driving it backward.
     * Deals 28 Weight damage (HP: 192/220). Inflicts +22 Posture Strain (Posture: 88/110).

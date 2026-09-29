@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Spinning Needle* [**Debuff**] } | "The compass needle spins wildly — and watching it, your sense of direction comes apart." | [The Compass deranges orientation; the target cannot find north.] | *Target suffers a Void mark; they are lost in their own space.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target holds the Compass. |
 | { *The Wrong Way* [**Debuff**] } | "It points — but at nothing, at the void between directions — and following it leads nowhere." | [The Compass points toward absence; the target drifts.] | *Target loses clarity; every direction is the wrong one.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target follows the needle. |
-| { *The Needle-Strike* [**Attack**] } | "The needle snaps free — spinning, sharp, and aimed at you." | [A detached compass-needle launches at the target.] | *Inflicts Pale White damage; the strike of being directionless.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Compass is struck. |
+| { *The Needle-Strike* [**Attack**] } | "The needle snaps free — spinning, sharp, and aimed at you." | [A detached compass-needle launches at the target.] | *Inflicts Void damage; the strike of being directionless.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Compass is struck. |
 | { *The Full Disorientation* [**Attack**] } | "Every direction becomes the wrong one simultaneously — and the wrongness is a void." | [The Compass releases its complete directional chaos.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Compass is shattered. |
 | { *No One Knows Where They Are* [**Ultimate**] } | "Every compass in the field breaks — and without direction, everyone is simply lost." | [The Compass extends its directional collapse.] | *All in range suffer Pale White erosion for three turns of being lost.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -231,7 +231,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

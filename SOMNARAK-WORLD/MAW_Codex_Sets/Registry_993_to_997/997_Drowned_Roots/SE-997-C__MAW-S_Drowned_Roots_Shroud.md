@@ -27,7 +27,7 @@ The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grad
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Endured) | 3 / 35 Sorrow Echoes |
+| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Drowned Roots's source sorrow feel autobiographical.
 

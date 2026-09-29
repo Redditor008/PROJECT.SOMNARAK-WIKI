@@ -115,7 +115,7 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 | Field | Record |
 |---|---|
 | Lament / Grudge | 0.4 — Resistant / 1.0 — Normal |
-| Void / Weight | 1.6 — Weak / 0.8 — Endured |
+| Void / Weight | 1.6 — Weak / 0.8 — Warded |
 | Maximum Amount / Echo Cost | 3 — Standard / 35 Sorrow Echoes |
 | Primary Cost | The wearer feels every ending nearby. |
 

@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Lost Bearing* [**Debuff**] } | "The needle swings toward your grief, and suddenly you cannot tell which way is forward." | [The Compass orients to the target's sorrow; the disorientation is immediate.] | *Target loses clarity and direction; the Compass has found them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Compass is held or addressed. |
 | { *The Spinning Needle* [**Debuff**] } | "The needle will not settle — and neither can you." | [The Compass's needle spins; the target's sense of direction unravels.] | *Target loses composure as every way becomes the wrong way.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers near the Compass. |
-| { *The Pointing* [**Attack**] } | "It points at you — and all the sorrow it was aimed at comes your way." | [The Compass directs a pulse of accumulated lost-thing sorrow at the target.] | *Inflicts Pale White damage; a piece of what was lost strikes home.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target is named or targeted. |
+| { *The Pointing* [**Attack**] } | "It points at you — and all the sorrow it was aimed at comes your way." | [The Compass directs a pulse of accumulated lost-thing sorrow at the target.] | *Inflicts Void damage; a piece of what was lost strikes home.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target is named or targeted. |
 | { *The Wrong Way* [**Attack**] } | "It leads you where the lost things are — and they are not glad to be found." | [The Compass misdirects the target into the gathered sorrow it tracks.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Compass is shaken or mistrusted. |
 | { *Every Loss at Once* [**Ultimate**] } | "The needle points everywhere — to every grief, every gone thing, all at once." | [The Compass opens to every loss it has tracked, flooding the field.] | *All in range suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -235,7 +235,7 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

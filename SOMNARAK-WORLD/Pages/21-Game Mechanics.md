@@ -24,7 +24,7 @@ As the Warden of Facility 01, the player oversees a complex management simulatio
 - [2 The Four Containment Protocols](#2-the-four-containment-protocols)
 - [3 The Complete Work Success Rate Formula](#3-the-complete-work-success-rate-formula)
 - [4 Combat Clashes and Real-Time Suppression](#4-combat-clashes-and-real-time-suppression)
-- [5 Mental Trauma, Fear Levels, and Panic Resolution](#5-mental-trauma-fear-levels-and-panic-resolution)
+- [5 Mental Trauma, Dread Levels, and Panic Resolution](#5-mental-trauma-dread-levels-and-panic-resolution)
 - [6 Facility Collapse and Game Over Conditions](#6-facility-collapse-and-game-over-conditions)
 - [7 Strategic Advice for New Wardens](#7-strategic-advice-for-new-wardens)
 - [8 Gallery](#8-gallery)
@@ -72,11 +72,11 @@ When an entity breaches containment or an Ordeal appears:
 - **Damage Exchange:** Operatives auto-attack based on weapon range and attack speed.
 - **Pressure Matching:** Equip weapons that match the target's elemental vulnerabilities (e.g., strike 🔴 Grudge-vulnerable entities with Red weapons).
 
-## 5 Mental Trauma, Fear Levels, and Panic Resolution
+## 5 Mental Trauma, Dread Levels, and Panic Resolution
 
 Specialists possess both physical Health Points (HP) and mental Sanity Points (SP):
 - Taking 🔵 **Lament** or ⚫ **Weight** damage lowers SP.
-- Witnessing higher-rank entities triggers an immediate **Fear Check**, draining SP instantly.
+- Witnessing higher-rank entities triggers an immediate **Dread Check**, draining SP instantly.
 - If SP reaches 0, the specialist panics into one of four states: **Murder**, **Suicide**, **Wander**, or **Sabotage**.
 - **Sanity Recovery:** Squadmates can restore a panicked ally's sanity by striking them with 🔵 Lament or ⚪ Void weapons. Once SP refills completely, the specialist returns to normal.
 

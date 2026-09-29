@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Drowsy Surface* [**Debuff**] } | "The mirror's surface ripples — slowly, like a sleeping breath — and in the ripple, you see a dream." | [The Mirror's dream-state leaks; the target sees a sleeping reflection.] | *Target suffers a Void mark; the dream-reflection pulls at them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
 | { *The Lucid Dream* [**Debuff**] } | "The mirror's dream deepens — and now you cannot tell if you are awake, or inside the mirror's sleep." | [The Mirror's dreaming intensifies; the target's reality blurs.] | *Target loses clarity; dream and waking are indistinguishable.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares. |
-| { *The Dream Shard* [**Attack**] } | "A fragment of the sleeping mirror breaks free — carrying a piece of its dream, sharp and surreal." | [ A dream-splinter launches from the Mirror.] | *Inflicts Pale White damage; the surreal shard warps identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
+| { *The Dream Shard* [**Attack**] } | "A fragment of the sleeping mirror breaks free — carrying a piece of its dream, sharp and surreal." | [ A dream-splinter launches from the Mirror.] | *Inflicts Void damage; the surreal shard warps identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
 | { *The Waking* [**Attack**] } | "The mirror begins to wake — and the transition from dream to reality is violent, disorienting, and devastating." | [The Mirror's awakening releases all its dream-energy.] | *A heavy Void rupture of dream-logic; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mirror is forced awake. |
 | { *The Shared Dream* [**Ultimate**] } | "Every mirror in the field falls asleep — and everyone is pulled into the same dream, and no one can wake." | [The Mirror extends its dreaming across the whole area.] | *All in range suffer Pale White erosion for three turns of shared sleep.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -193,7 +193,7 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

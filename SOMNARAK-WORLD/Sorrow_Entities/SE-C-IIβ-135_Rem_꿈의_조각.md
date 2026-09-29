@@ -239,9 +239,9 @@ Appearance : A flowing ankle-length robe of layered translucent violet gossamer 
 The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical distortions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
 
 **Resistances:**
-- Lament: 0.5 (Endured)
+- Lament: 0.5 (Warded)
 - Grudge: 1.2 (Weak)
-- Void: 0.8 (Endured)
+- Void: 0.8 (Warded)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes

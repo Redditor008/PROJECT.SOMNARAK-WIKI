@@ -47,7 +47,7 @@ During the The Grasp Source-Trace, the field team preserved this source fact: A 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Grasp Requiem | γ Lament 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-762-B__MAW-W_Grasp_Requiem.md` |
-| Grasp Shroud | γ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 3; 35 Sorrow Echoes | `SE-762-C__MAW-S_Grasp_Shroud.md` |
+| Grasp Shroud | γ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 3; 35 Sorrow Echoes | `SE-762-C__MAW-S_Grasp_Shroud.md` |
 | Grasp Crown | γ; Tail; 4%; +2 stat bonus when working the source entity | `SE-762-D__MAW-G_Grasp_Crown.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

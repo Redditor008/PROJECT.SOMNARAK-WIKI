@@ -182,7 +182,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 **Appearance:** a flowing veil of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Endured)
+**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.
 

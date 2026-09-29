@@ -114,7 +114,7 @@ The set reveals hidden routes and supports orientation. It cannot complete anoth
 | Field | Record |
 |---|---|
 | Lament / Grudge | 0.4 — Resistant / 1.0 — Normal |
-| Void / Weight | 1.6 — Weak / 0.8 — Endured |
+| Void / Weight | 1.6 — Weak / 0.8 — Warded |
 | Maximum Amount / Echo Cost | 5 — Standard / 10 Sorrow Echoes |
 | Primary Cost | The wearer becomes numb to minor joys after carrying too many unfinished arrivals. |
 

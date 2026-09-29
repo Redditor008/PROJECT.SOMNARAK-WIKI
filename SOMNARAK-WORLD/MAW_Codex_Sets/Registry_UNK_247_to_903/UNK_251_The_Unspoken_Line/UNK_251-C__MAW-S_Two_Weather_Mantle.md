@@ -22,7 +22,7 @@
 | Element | Void |
 | Appearance | A cloak split down the center — one side faintly gold, the other faintly grey. |
 | Lament resistance | 1 (Normal) |
-| Grudge resistance | 0.8 (Endured) |
+| Grudge resistance | 0.8 (Warded) |
 | Void resistance | 0.3 (Resistant) |
 | Weight resistance | 1.1 (Weak) |
 | Max Amount | 4 |

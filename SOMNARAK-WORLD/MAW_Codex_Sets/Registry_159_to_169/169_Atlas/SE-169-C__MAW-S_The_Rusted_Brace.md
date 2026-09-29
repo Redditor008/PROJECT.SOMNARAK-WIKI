@@ -47,7 +47,7 @@ The Rusted Brace is a lightweight black harness with rusted support ribs across 
 | Lament | 1.0 | Normal | The sadness of support remains emotionally present. |
 | Grudge | 1.0 | Normal | Resentment at labor cannot be braced away. |
 | Void | 1.5 | Weak | A person who disappears into the task loses a clear support boundary. |
-| Weight | 0.5 | Endured | The Brace distributes a minor structural or labor Weight. |
+| Weight | 0.5 | Warded | The Brace distributes a minor structural or labor Weight. |
 
 | Field | Record |
 |---|---|

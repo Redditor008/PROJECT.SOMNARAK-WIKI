@@ -243,7 +243,7 @@ Carved stone drainage channels trace across the shoulder plates, continually ven
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 

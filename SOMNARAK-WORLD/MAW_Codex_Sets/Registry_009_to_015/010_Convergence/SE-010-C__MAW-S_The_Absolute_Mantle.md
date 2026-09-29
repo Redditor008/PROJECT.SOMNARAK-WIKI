@@ -21,7 +21,7 @@
 | **Lament** | 1.0 | Normal | The Mantle does not reduce grief. |
 | **Grudge** | 1.0 | Normal | It does not protect against retaliation. |
 | **Void** | 1.5 | Weak | Doubt and self-loss undermine absolute judgment. |
-| **Weight** | 0.5 | Endured | Strong resistance to direct burden and compression. |
+| **Weight** | 0.5 | Warded | Strong resistance to direct burden and compression. |
 
 | Field | Record |
 |---|---|

@@ -173,7 +173,7 @@ Engagements within the Archive feature a sophisticated two-tier stagger system:
 1. **Tier 1 Stagger (60% Posture Strain / Modular Part Dismantling):**  
    Targeting a specific sovereign appendage (e.g., The First Keeper's Obsidian Quill or The Forgotten Sentry's Adamantine Shield) reduces its posture. When it hits 60% strain, the component fractures. The boss's current channeled special attack is instantly aborted, all defensive dice for that part are zeroed, and incoming damage to that part is amplified by +50% for 1 turn.
 2. **Tier 2 Stagger (0% Posture Collapse / Terminal Stratum Realization):**  
-   When the boss's central core posture collapses to 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is immobilized for the subsequent Battle Turn, all resistances convert to Fatal (2.0x), and Seiyon triggers the **Stratum Realization Climax**, transmuting grief into a canonical Memory Leaf.
+   When the boss's central core posture collapses to 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is immobilized for the subsequent Battle Turn, all resistances convert to Exposed (2.0x), and Seiyon triggers the **Stratum Realization Climax**, transmuting grief into a canonical Memory Leaf.
 
 ---
 

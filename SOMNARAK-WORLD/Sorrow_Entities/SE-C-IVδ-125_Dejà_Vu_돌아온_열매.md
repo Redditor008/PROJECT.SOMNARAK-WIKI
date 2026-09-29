@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The First Return* [**Debuff**] } | "You threw the fruit away — and here it is again, in your hand, heavier than before." | [The Fruit returns to the target; the cycle begins anew.] | *Target suffers a Void mark; they cannot get rid of it.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target discards the Fruit. |
 | { *The Compounding Harvest* [**Debuff**] } | "Each time it returns, there are more — two, then four, then eight — and each one is riper." | [The Fruit multiplies with each return; the burden grows.] | *Target loses clarity; the returns are accelerating.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target tries to refuse. |
-| { *The Rotting Return* [**Attack**] } | "The fruit comes back — but this time, it is rotten, and the rot is contagious." | [A decayed returning fruit bursts on impact.] | *Inflicts Pale White damage; the rot spreads through identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Fruit is crushed. |
+| { *The Rotting Return* [**Attack**] } | "The fruit comes back — but this time, it is rotten, and the rot is contagious." | [A decayed returning fruit bursts on impact.] | *Inflicts Void damage; the rot spreads through identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Fruit is crushed. |
 | { *The Infinite Yield* [**Attack**] } | "Every fruit the tree ever produced — returned at once, a mountain of rotting produce." | [The Fruit's complete cycle of returns culminates.] | *A heavy Void avalanche; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the cycle is broken. |
 | { *The Endless Orchard* [**Ultimate**] } | "Fruit appears everywhere — on every surface, in every hand — and none of it can be thrown away." | [The Fruit extends its returns across the whole field.] | *All in range suffer Pale White erosion for three turns of returning fruit.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 2

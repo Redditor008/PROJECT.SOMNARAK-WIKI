@@ -34,7 +34,7 @@ This Dream Shroud is cut from pale loom-cloth that shows two textures at once �
 
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
-| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Endured |
+| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded |
 
 **Echo Cost:** 35. **Cost:** Minor joys numb after immersion; both anchors may terminate use.
 

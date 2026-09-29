@@ -114,7 +114,7 @@ The original Debt Chain is an I-Relic. Its M.A.W. set is made from released link
 | Field | Record |
 |---|---|
 | Lament / Grudge | 1.0 — Normal / 1.0 — Normal |
-| Void / Weight | 1.5 — Weak / 0.5 — Endured |
+| Void / Weight | 1.5 — Weak / 0.5 — Warded |
 | Maximum Amount / Echo Cost | 4 — Limited / 20 Sorrow Echoes |
 | Primary Cost | The wearer carries constant low fatigue from observed obligations. |
 

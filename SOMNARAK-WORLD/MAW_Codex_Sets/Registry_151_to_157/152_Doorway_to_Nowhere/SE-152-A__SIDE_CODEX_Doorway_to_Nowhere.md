@@ -114,7 +114,7 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 | Field | Record |
 |---|---|
 | Lament / Grudge | 0.4 — Resistant / 1.0 — Normal |
-| Void / Weight | 1.6 — Weak / 0.8 — Endured |
+| Void / Weight | 1.6 — Weak / 0.8 — Warded |
 | Maximum Amount / Echo Cost | 4 — Limited / 20 Sorrow Echoes |
 | Primary Cost | The wearer becomes numb to minor joys when routes are used to avoid the present. |
 

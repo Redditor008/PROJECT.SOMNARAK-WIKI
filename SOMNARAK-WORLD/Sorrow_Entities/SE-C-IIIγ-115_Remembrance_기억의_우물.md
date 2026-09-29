@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Surface Ripple* [**Debuff**] } | "Something stirs in the water — a face you had put out of your mind years ago." | [A memory rises to the surface of the Well; the target sees it whether they want to or not.] | *Target suffers a Void mark; a buried memory has surfaced.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the Well. |
 | { *The Long Ago* [**Debuff**] } | "The past reaches up — and it is colder than the water." | [The Well pulls at the target's memories; old griefs resurface unbidden.] | *Target loses clarity; they cannot tell past from present.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers at the edge. |
-| { *The Drowned Face* [**Attack**] } | "A face surfaces — and it is not glad to be remembered." | [A memory given form rises and strikes.] | *Inflicts Pale White damage; a forgotten wound reopens.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Well is disturbed. |
+| { *The Drowned Face* [**Attack**] } | "A face surfaces — and it is not glad to be remembered." | [A memory given form rises and strikes.] | *Inflicts Void damage; a forgotten wound reopens.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Well is disturbed. |
 | { *The Bottom of the Well* [**Attack**] } | "The deepest memory — the one you built the well over — comes up at last." | [The Well yields its oldest, worst memory in a crushing rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Well is emptied or struck. |
 | { *Every Memory at Once* [**Ultimate**] } | "The well overflows — and every memory it ever held spills out together." | [The Well erupts, flooding the area with the accumulated past.] | *All in range suffer Pale White erosion for three turns in the deluge of memory.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -237,7 +237,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

@@ -47,7 +47,7 @@ During the The Hour the Dead Walk Source-Trace, the field team preserved this so
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Hour the Dead Walk's Edge | γ Lament 14–23; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1042-B__MAW-W_Hour_the_Dead_Walk_s_Edge.md` |
-| Hour the Dead Walk's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-1042-C__MAW-S_Hour_the_Dead_Walk_s_Veil.md` |
+| Hour the Dead Walk's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-1042-C__MAW-S_Hour_the_Dead_Walk_s_Veil.md` |
 | Hour the Dead Walk's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-1042-D__MAW-G_Hour_the_Dead_Walk_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -27,7 +27,7 @@ The Promise Shroud is the suit record of the Shard of a Broken Promise’s set, 
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Endured) | 2 / 45 Sorrow Echoes |
+| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Shard of a Broken Promise's source sorrow feel autobiographical.
 

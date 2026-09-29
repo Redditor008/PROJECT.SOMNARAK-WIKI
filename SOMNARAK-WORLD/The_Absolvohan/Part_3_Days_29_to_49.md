@@ -179,9 +179,9 @@ Director Majin establishes real-time GBS tactical coordinates:
   * Specialist Kim (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to prepare concentrated carbine fire targeting the slab's stress fissure.
 - **Step 3: Clash Standoff (Node 2)**:
   * The Grieving Monolith declares `[Tectonic Ground Pound]` on Node 2:
-    * Monolith Roll: Base 8 + (2 Coins Heads: +4) = 12 Power.
+    * Monolith Roll: Base 8 + (2 Lots Marked: +4) = 12 Power.
   * Mellda's `[Threshold Vow Kinetic Parry]`:
-    * Mellda Roll: Base 10 + (2 Coins Heads: +4) = 14 Power.
+    * Mellda Roll: Base 10 + (2 Lots Marked: +4) = 14 Power.
   * **Resolution**: Mellda WINS THE CLASH (14 vs 12).
     * Mellda's golden arm-blade turns the crashing stone slab aside. The impact shocks the monolith's crystalline base, dealing 26 Grudge damage and inflicting +18 Stagger.
   * Specialist Park follows through with `[Lament Requiem Resonant Smash]` from Node 4:
@@ -215,7 +215,7 @@ Director Majin establishes real-time GBS tactical coordinates:
 ###### Turn 02 Action Resolution Log (Range Advantage & Stagger Build)
 - **Coordinated Tripartite Fire**:
   * **Border Lead Mellda (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Threshold Vow Kinetic Parry]`, anchoring her shield mantlet against the stone slab.
-  * The Monolith channels `[Basalt Fissure Crash]` directed at Node 02 (Base 8 + 2 Coins = 12 Power). Mellda wins clash (14 vs 12), turning the blow aside!
+  * The Monolith channels `[Basalt Fissure Crash]` directed at Node 02 (Base 8 + 2 Lots = 12 Power). Mellda wins clash (14 vs 12), turning the blow aside!
   * **Specialist Park (Speed 6 -> 3 AP)**: Firing from Node 04 (Range Band 2):
     * Spends 2 AP to channel `[Lament Requiem Resonant Smash]`. Range Band advantage (+15%) and Lament vulnerability trigger: deals **38 Pure Lament Damage**!
   * **Specialist Kim (Speed 5 -> 3 AP)**: From Node 06 (Range Band 3), delivers a 3-round piercing burst for **24 Void damage**.
@@ -599,8 +599,8 @@ Director Majin establishes split-team GBS sector commands:
   * Hwang spends 2 AP to declare `[Observing Scepter Void Thrust]`.
   * Specialist Song (Speed 5 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to ready `[Kinetic Cleaver Pincer Sweep]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2)**:
-  * Flesh Pod 1 declares `[Acid Bile Burst]` on Node 2 (Base 7 + 2 Coins = 11 Power).
-  * Hwang's `[Observing Scepter Void Thrust]` (Base 9 + 2 Coins = 13 Power).
+  * Flesh Pod 1 declares `[Acid Bile Burst]` on Node 2 (Base 7 + 2 Lots = 11 Power).
+  * Hwang's `[Observing Scepter Void Thrust]` (Base 9 + 2 Lots = 13 Power).
   * **Resolution**: Hwang WINS THE CLASH (13 vs 11).
     * Hwang's scepter pierces the pod's central valve, dealing 34 Void damage and inflicting +18 Stagger.
   * Specialist Song cleaves incoming larvae at Node 4, dealing 28 kinetic damage and preventing encirclement.
@@ -1001,8 +1001,8 @@ Director Majin establishes coordinated GBS tactical commands:
   * Specialist Park (Speed 6 -> 3 AP) advances to Node 3 behind Mellda. Spends 2 AP to prepare `[Lament Requiem Resonant Crush]`. Remaining 1 AP held in Guard.
   * Specialist Hwang (Speed 5 -> 3 AP) takes Node 6 (Range Band 3). Spends 2 AP to prepare concentrated Void disruption targeting the monument's optical crown.
 - **Step 3: Clash Resolution (Node 2)**:
-  * Gilded Monument declares `[Oblivion Prismatic Lance]` on Node 2 (Base 8 + 2 Coins = 12 Power).
-  * Mellda's `[Threshold Vow Reflective Parry]` (Base 10 + 2 Coins = 14 Power).
+  * Gilded Monument declares `[Oblivion Prismatic Lance]` on Node 2 (Base 8 + 2 Lots = 12 Power).
+  * Mellda's `[Threshold Vow Reflective Parry]` (Base 10 + 2 Lots = 14 Power).
   * **Resolution**: Mellda WINS THE CLASH (14 vs 12).
     * Mellda's spearhead refracts the purple laser into the ceiling, creating an opening.
   * Specialist Park follows with `[Lament Requiem Resonant Crush]` unopposed:
@@ -1413,8 +1413,8 @@ Director Majin establishes GBS tactical positioning:
   * Specialist Hwang (Speed 6 -> 3 AP) spends 1 AP to shift from Node 4 to Node 2 behind the beast's rear segment. Spends 2 AP to ready `[Blessed Scalpel Void Dissection]`.
   * Specialist Bae (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to wind up `[Bulwark Maul Ground Breaker]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * The Churning Hive declares `[Tectonic Mandible Crush]` on Node 3 (Base 9 + 2 Coins = 13 Power).
-  * Mellda's `[Threshold Vow Bulwark Stance]` (Base 11 + 2 Coins = 15 Power).
+  * The Churning Hive declares `[Tectonic Mandible Crush]` on Node 3 (Base 9 + 2 Lots = 13 Power).
+  * Mellda's `[Threshold Vow Bulwark Stance]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Mellda WINS THE CLASH (15 vs 13).
     * Mellda's golden arm-blade locks the centipede's primary mandibles. The counter-force reverberates through the beast's chitinous segments, dealing 36 Grudge damage and inflicting +24 Stagger!
   * Specialist Hwang strikes from Node 2 unopposed, driving the *Blessed Scalpel* deep into the exposed ventral joint for **42 Void damage**!
@@ -1748,7 +1748,7 @@ Specialist Hwang enters Chamber 031 for Viderehan observation:
 
 ```text
 > Chamber Telemetry: "The small bird hops onto Hwang's shoulder, whispering old secrets..."
-> Fear Check: Level V Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
+> Dread Check: Level V Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
 ```
 
 - **Work Tick 01–05:** 5 Successes. The small bronze bird pecks gently at Hwang's collar.
@@ -1808,10 +1808,10 @@ A colossal, five-fingered arm composed of iridescent violet crystal protrudes fr
 ##### Turn 01 Action Resolution Log (Spatial Ingress & Bulwark Anchor)
 - **Operative Movement & Clash Standoff**:
   * **Border Lead Mellda (Speed 6 -> 3 AP)**: Spends 1 AP to advance to Node 03, planting *Threshold Vow* in front of the rift. Declares `[Threshold Vow Kinetic Parry]` (Costs 2 AP).
-  * The Piercing Hand declares `[Prismatic Sweep]` on Node 03 (Base 9 + 2 Coins = 13 Power).
+  * The Piercing Hand declares `[Prismatic Sweep]` on Node 03 (Base 9 + 2 Lots = 13 Power).
   * Mellda's Roll:
     * *Passive Trigger:* `Iron Perimeter` (+2 Base Clash Power).
-    * Mellda Roll: Base 11 + 2 Coins = **15 Power**!
+    * Mellda Roll: Base 11 + 2 Lots = **15 Power**!
   * **Clash Result**: **Mellda WINS THE CLASH (15 vs 13)!**
     * The arm-blade deflects the crystalline fingers, dealing 32 Grudge damage (HP: 208/240) and inflicting +22 Posture Strain (Posture: 98/120).
   * **Specialist Hwang (Speed 6 -> 3 AP)**: From Node 05 (Range Band 3), strikes with `[Blessed Scalpel Void Beam]`, exploiting the entity's Void vulnerability: **36 Direct Void Damage**!
@@ -2186,7 +2186,7 @@ At 0.205 tons harvested, the lights across the vertical spine cut to complete da
 | INTRUSION POINT : FLOOR 7 & 8 BOUNDARY SHAFT                        |
 | HOSTILE PARAMETERS:                                                 |
 | - Entity: 1x Colossal Dimensional Projection                        |
-| - Attack Affinity: Pale (% Max HP) & Void                           |
+| - Attack Affinity: Void (% Max HP) & Void                           |
 | - Weakness Affinity: Balanced (All 4 Types)                         |
 | TACTICAL DEPLOYMENT: DEEP VAULT GUARDS                              |
 +=====================================================================+
@@ -2228,8 +2228,8 @@ Director Majin establishes Deep Vault GBS tactical parameters:
   * Specialist Hwang (Speed 6 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to declare `[Blessed Scalpel Precision Void Dissection]`.
   * Specialist Park (Speed 6 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to ready `[Lament Requiem Resonant Wave]`.
 - **Step 3: Clash Resolution (Node 1 to 3)**:
-  * Final Door Echo attempts `[Chime of the Before-Time]` (Base 10 + 2 Coins = 14 Power).
-  * Marjuk's `[Chrono Stasis Seal]` (Base 11 + 2 Coins = 15 Power).
+  * Final Door Echo attempts `[Chime of the Before-Time]` (Base 10 + 2 Lots = 14 Power).
+  * Marjuk's `[Chrono Stasis Seal]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Marjuk WINS THE CLASH (15 vs 14).
     * Marjuk's stasis seal encapsulates the acoustic pulse before it can detonate, reflecting 38 Pale damage back into the projection with +26 Stagger!
   * Hwang and Park deliver coordinated Void and Lament strikes from Nodes 4 and 5, destabilizing the shadow's harmonic cohesion.
@@ -2386,7 +2386,7 @@ Director Majin establishes Deep Vault GBS tactical parameters:
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Deep Vault acoustic and temporal seals     |
 | fully restore.                                                      |
-| 2. Status Equilibrium : Pale radiation drains; all agent SP         |
+| 2. Status Equilibrium : Void radiation drains; all agent SP         |
 | restored to max.                                                    |
 | 3. Containment Check : Sovereign Door Echo dissipated into bedrock. |
 | 4. OUTCOME : HISTORIC TIDE CLEAR — ZERO CASUALTIES, +30 RHR.        |

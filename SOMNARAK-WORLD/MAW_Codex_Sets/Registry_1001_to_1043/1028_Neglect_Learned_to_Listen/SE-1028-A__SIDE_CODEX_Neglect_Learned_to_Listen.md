@@ -47,7 +47,7 @@ During the The Neglect Learned to Listen Source-Trace, the field team preserved 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Neglect Learned to Listen's Maul | β Weight 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1028-B__MAW-W_Neglect_Learned_to_Listen_s_Maul.md` |
-| Neglect Learned to Listen's Mantle | β; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 4; 20 Sorrow Echoes | `SE-1028-C__MAW-S_Neglect_Learned_to_Listen_s_Mantle.md` |
+| Neglect Learned to Listen's Mantle | β; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 4; 20 Sorrow Echoes | `SE-1028-C__MAW-S_Neglect_Learned_to_Listen_s_Mantle.md` |
 | Neglect Learned to Listen's Bell | β; Head; 5%; +1 stat bonus when working the source entity | `SE-1028-D__MAW-G_Neglect_Learned_to_Listen_s_Bell.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

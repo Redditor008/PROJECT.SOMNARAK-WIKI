@@ -24,7 +24,7 @@ The Shroud condensed during the Unlisted Arrival after Haneulash remained beside
 | Lament | 0.4 (Resistant) |
 | Grudge | 1.0 (Normal) |
 | Void | 1.6 (Weak) |
-| Weight | 0.8 (Endured) |
+| Weight | 0.8 (Warded) |
 | Maximum / Echo cost | 4 / 20 Sorrow Echoes |
 | Operational cost | Minor joys become dull while failed recognition is absorbed |
 | Binding cost | Familiar faces may feel distant after removal |

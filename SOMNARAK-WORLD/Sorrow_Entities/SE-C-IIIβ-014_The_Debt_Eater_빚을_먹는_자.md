@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *A Taste of What You Owe* [**Debuff**] } | "It takes a small bite of your debt — and a small bite of you with it." | [The Eater samples the target's debts; the taste lingers as a mark.] | *Target suffers a Void nibble; the Eater now knows what they owe.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Eater first fixes on a target. |
 | { *The Swallowing* [**Debuff**] } | "It swallows what you owe — and you feel the absence where it used to be." | [The Eater consumes a portion of the target's debt, leaving a hollow where the weight was.] | *Target loses identity and clarity as part of them is eaten away.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lets the Eater feed. |
-| { *The Hungry Lunge* [**Attack**] } | "It is always hungrier than it looks." | [A sudden lunge — the Eater bites to take what it is owed by force.] | *Inflicts Pale White damage; a chunk of the target is consumed.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Eater is denied or provoked. |
+| { *The Hungry Lunge* [**Attack**] } | "It is always hungrier than it looks." | [A sudden lunge — the Eater bites to take what it is owed by force.] | *Inflicts Void damage; a chunk of the target is consumed.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Eater is denied or provoked. |
 | { *The Settling* [**Attack**] } | "All debts, settled in full, now." | [The Eater calls the entire debt due and devours it in one motion.] | *A devastating Void strike; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Eater is cornered or starved. |
 | { *The Devoured Ledger* [**Ultimate**] } | "It opens wide and eats every debt in the room at once." | [The Eater consumes the debts of everyone present, leaving them hollowed.] | *All personnel suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -205,7 +205,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

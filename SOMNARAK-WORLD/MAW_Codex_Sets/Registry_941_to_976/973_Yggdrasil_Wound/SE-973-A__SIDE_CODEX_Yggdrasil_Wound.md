@@ -47,7 +47,7 @@ During the The Yggdrasil Wound Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Torn Lens | α Void 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-973-B__MAW-W_The_Torn_Lens.md` |
-| The Torn Veil | α; L/G/V/W 1.2 (Weak)/0.8 (Endured)/0.3 (Resistant)/1.1 (Weak); max 5; 10 Sorrow Echoes | `SE-973-C__MAW-S_The_Torn_Veil.md` |
+| The Torn Veil | α; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 5; 10 Sorrow Echoes | `SE-973-C__MAW-S_The_Torn_Veil.md` |
 | The Torn Root | α; Head; 5%; +1 stat bonus when working the source entity | `SE-973-D__MAW-G_The_Torn_Root.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

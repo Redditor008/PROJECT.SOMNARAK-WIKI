@@ -47,7 +47,7 @@ During the The Survivors Breath Source-Trace, the field team preserved this sour
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Resting Lens | δ Void 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-895-B__MAW-W_The_Resting_Lens.md` |
-| The Resting Veil | δ; L/G/V/W 1.2 (Weak)/0.8 (Endured)/0.3 (Resistant)/1.1 (Weak); max 2; 45 Sorrow Echoes | `SE-895-C__MAW-S_The_Resting_Veil.md` |
+| The Resting Veil | δ; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 2; 45 Sorrow Echoes | `SE-895-C__MAW-S_The_Resting_Veil.md` |
 | The Resting Breath | δ; Head; 4%; +3 stat bonus when working the source entity | `SE-895-D__MAW-G_The_Resting_Breath.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

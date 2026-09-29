@@ -245,7 +245,7 @@ The escalation pattern is specific to The Empty Mask: it is not a generic breach
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
 - Void: 1.5 (Weak)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 

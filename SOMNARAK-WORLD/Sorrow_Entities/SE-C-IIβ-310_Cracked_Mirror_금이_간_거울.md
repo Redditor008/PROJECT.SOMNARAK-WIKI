@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Distorted Face* [**Debuff**] } | "Your reflection in the cracked glass is wrong — the features are shifted, older, angrier." | [The Mirror distorts the target's self-image through its fractures.] | *Target suffers a Void mark; they do not recognize themselves.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
 | { *The Fractured Self* [**Debuff**] } | "Each crack shows a different version of you — and none of them agree on who you are." | [The Mirror's cracks multiply the target's identity.] | *Target loses clarity; they cannot find the real self among the reflections.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares at the cracks. |
-| { *The Sharp Edge* [**Attack**] } | "A crack widens into a blade of glass — and it cuts where you are most divided." | [A fracture-blade extends from the Mirror.] | *Inflicts Pale White damage; the cut severs a fragment of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
+| { *The Sharp Edge* [**Attack**] } | "A crack widens into a blade of glass — and it cuts where you are most divided." | [A fracture-blade extends from the Mirror.] | *Inflicts Void damage; the cut severs a fragment of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
 | { *The Shattering Point* [**Attack**] } | "The crack reaches the center — and the whole mirror threatens to come apart." | [The Mirror's structural failure sends a wave of fractured reflection.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mirror is pressured. |
 | { *Total Fracture* [**Ultimate**] } | "The mirror breaks completely — and every shard carries a different screaming face." | [The Mirror explodes, scattering fractured selves across the field.] | *All in range suffer Pale White erosion for three turns among the shards.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -229,7 +229,7 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic breach
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

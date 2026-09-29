@@ -24,7 +24,7 @@ The Shield formed during controlled contact when an agent accepted a former owne
 | Lament | 0.4 (Resistant) |
 | Grudge | 1.0 (Normal) |
 | Void | 1.6 (Weak) |
-| Weight | 0.8 (Endured) |
+| Weight | 0.8 (Warded) |
 | Maximum / Echo cost | 3 / 35 Sorrow Echoes |
 | Operational cost | Dreams replay every owner whose impact the Shield preserves |
 | Binding cost | Sleep no longer separates the wearer’s life from archived lives |

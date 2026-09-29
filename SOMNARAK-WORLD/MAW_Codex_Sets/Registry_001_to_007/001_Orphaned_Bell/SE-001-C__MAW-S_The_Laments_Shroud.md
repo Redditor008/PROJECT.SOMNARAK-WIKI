@@ -38,7 +38,7 @@ The Lament's Shroud is a deep-blue shroud of Han silk woven so loosely that it w
 | **Lament** | 0.4 | Resistant | Reduces direct toll pressure enough to keep a bearer functional during a vigil. |
 | **Grudge** | 1.0 | Normal | The Shroud does not protect against retaliation or violence. |
 | **Void** | 1.6 | Weak | Memory erosion passes easily through a garment built to remember. |
-| **Weight** | 0.8 | Endured | The fabric distributes the burden of grief over time. |
+| **Weight** | 0.8 | Warded | The fabric distributes the burden of grief over time. |
 
 ### Protective Ability — Listener’s Margin
 

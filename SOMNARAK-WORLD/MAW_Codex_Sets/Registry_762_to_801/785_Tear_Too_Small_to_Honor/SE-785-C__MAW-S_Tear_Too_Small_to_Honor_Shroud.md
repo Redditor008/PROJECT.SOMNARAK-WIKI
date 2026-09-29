@@ -27,7 +27,7 @@ The Tear Too Small to Honor Shroud is the suit record of its source’s set, gra
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Endured) | 4 / 20 Sorrow Echoes |
+| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Tear Too Small to Honor's source sorrow feel autobiographical.
 

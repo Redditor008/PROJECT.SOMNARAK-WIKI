@@ -34,7 +34,7 @@ The Mason's Mortar-Crusted Hauberk is a black harness built around a broad backp
 
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
-| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Endured |
+| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded |
 
 **Echo Cost:** 35. **Cost:** The Shield grows heavier with every absorbed impact.
 

@@ -166,7 +166,7 @@ The blossom's petals were formed from crystalline human skulls, and its pollen w
 ================================================================================
  BOSS ATTRIBUTES:
  - Health (HP): 2,100 | Speed Dice: 2–6 (2 Action Slots)
- - Weaknesses: Grudge (Fatal 2.0x — Thermite fire incinerates pollen)
+ - Weaknesses: Grudge (Exposed 2.0x — Thermite fire incinerates pollen)
  - Primary Hazard: [Oblivion Pollen Wave] — Drains 15 SP per turn if unshielded
 ================================================================================
 ```
@@ -219,7 +219,7 @@ A deafening acoustic wail shook the cavern walls.
  - Stagger Thresholds: 2,520 HP (70%) | 1,440 HP (40%) | 360 HP (10%)
  - Base Defense: 55 | Speed Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
-   * Grudge (Crimson) : 2.0x (Fatal Weakness — Fire incinerates dry petrified sap)
+   * Grudge (Crimson) : 2.0x (Exposed Weakness — Fire incinerates dry petrified sap)
    * Lament (Deep Blue): 0.5x (Endured — Saturated in four thousand years of tears)
    * Void (Pale White) : 1.5x (Weakness — Severing root cords disrupts memory net)
    * Weight (Black)    : 1.0x (Normal — Solid kinetic sapping)
@@ -260,7 +260,7 @@ A deafening acoustic wail shook the cavern walls.
 | - Total Health (HP): 3,600 HP | Posture Pool: 300/300               |
 | - Stagger 1 Proc : 60% Posture Strain (180 Posture) / Tendril Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Slumber)         |
-| - Resistances : Grudge 2.0x (Fatal), Void 1.5x, Weight 1.0x, Lament |
+| - Resistances : Grudge 2.0x (Exposed), Void 1.5x, Weight 1.0x, Lament |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
@@ -331,8 +331,8 @@ A deafening acoustic wail shook the cavern walls.
   * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Tungsten Fracture Wedge]`. Holds 1 AP in Guard.
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Spore Lock]`, 2 AP on `[Optical Theodolite Laser]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: SECC-056 unleashes `[Grave-Spore Cloud]` (Base 16 + 2 Coins = 24 Power, Area Amnesia/Lament).
-    * Sora counters with `[Harmonic Bell Resonator]` (Base 19 + 2 Coins = 31 Power, Acoustic Repose).
+  * **Clash 1 (Node 04 to 05)**: SECC-056 unleashes `[Grave-Spore Cloud]` (Base 16 + 2 Lots = 24 Power, Area Amnesia/Lament).
+    * Sora counters with `[Harmonic Bell Resonator]` (Base 19 + 2 Lots = 31 Power, Acoustic Repose).
     * **Clash Outcome**: Sora WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
     * The radiant silver acoustic pulse strikes the expanding spore cloud, dispersing the toxic amnesia mist back into the root branches!
     * Canopy Tendrils take **210 Lament damage** from the reflected acoustic shockwave, inflicting +46 Posture Strain!
@@ -385,14 +385,14 @@ A deafening acoustic wail shook the cavern walls.
   * Doha (Speed 7 -> 4 AP [Surge]): Steps from Node 03 to Node 04. Spends 3 AP on `[Pneumatic Core Sapper]`.
   * Sora (Speed 7 -> 4 AP): Holds Node 06, dissipating residual hallucinations with `[Mnemonic Repose]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: SECC-056 sweeps with `[Whiplash Root Sweep]` (Base 17 + 2 Coins = 27 Power, Heavy Weight).
-    * Harin clashes with `[Vow of the Low Bulwark: Plant]` (Base 20 + 2 Coins = 32 Power, Tower Shield).
+  * **Clash 1 (Node 03 to 05)**: SECC-056 sweeps with `[Whiplash Root Sweep]` (Base 17 + 2 Lots = 27 Power, Heavy Weight).
+    * Harin clashes with `[Vow of the Low Bulwark: Plant]` (Base 20 + 2 Lots = 32 Power, Tower Shield).
     * **Clash Outcome**: Harin WINS THE CLASH (32 vs 27)!
     * Harin plants her shield firmly; the crushing three-ton root bounces harmlessly off the reinforced face! Harin takes 0 damage.
   * **Void Amputation on Canopy Tendrils**:
-    * The Silent One executes `[Burden Cleaver: Void Amputation]` (Base 22 + 3 Coins Heads = 39 Power, Void Slash):
+    * The Silent One executes `[Burden Cleaver: Void Amputation]` (Base 22 + 3 Lots Marked = 39 Power, Void Slash):
       * Slices cleanly through the primary tendon of the canopy root cluster!
-      * Deals **420 Critical Void damage** (Fatal 2.0x proc!)!
+      * Deals **420 Critical Void damage** (Exposed 2.0x proc!)!
       * **TARGETED PART DESTROYED**: The Canopy Root Tendrils are completely severed, dropping like massive timber onto the floor (**Tendril HP: 0/950**)!
       * **EFFECT**: Boss whiplash root sweep permanently disabled; boss permanently loses 1 Speed Slot!
     * Doha's `[Pneumatic Core Sapper]` drives a tungsten drill into the lower trunk, dealing **220 Blunt damage**!
@@ -497,7 +497,7 @@ A deafening acoustic wail shook the cavern walls.
 - **Step 3: Unopposed Stagger Punishment Rotation**:
   * The Silent One's `[Core Strike]`: Slices through the idol for **540 Void damage** (Weakness 1.5x proc!)!
   * Harin's `[Bulwark Kinetic Pummel]`: Smashes the base for **240 Weight damage**!
-  * Doha's `[Sapper Magnesium Detonation]`: Sockets incendiary flares for **310 Explosive Grudge damage** (Fatal 2.0x proc!)!
+  * Doha's `[Sapper Magnesium Detonation]`: Sockets incendiary flares for **310 Explosive Grudge damage** (Exposed 2.0x proc!)!
   * Yeonhwa's `[Theodolite Laser]`: Rips through resonance conduits for **220 Void damage**!
   * **TOTAL BURST DAMAGE: 1,310 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (1,440 HP) COMPLETELY SKIPPED!**:
@@ -535,7 +535,7 @@ A deafening acoustic wail shook the cavern walls.
 ###### Turn 05 Action Resolution Log (Phase 2 Escalation: The Memory Flood & Requiem of Living Slumber)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Arbor awakens in agonizing grief; a four-thousand-year dreamscape floods the entire chasm!
-  * Boss Special Skill: `[Tide of Unremembered Tears]` (Acoustic Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Tide of Unremembered Tears]` (Acoustic Cataclysm, 3 Lots).
   * Speed Dice expands to 4 slots! Memory phantoms of forgotten orphans surround the squad.
   * Sora activates Relic Overdrive: `[REQUIEM OF THE LIVING SLUMBER]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -544,8 +544,8 @@ A deafening acoustic wail shook the cavern walls.
   * Doha (Speed 5 -> 3 AP): Plants stabilizer brackets around the root base at Node 06.
   * The Silent One (Speed 7 -> 4 AP): Prepares `[Burden Cleaver: Void Overdrive Execution]` at Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 05)**: SECC-056 unleashes `[Tide of Unremembered Tears]` (Base 20 + 3 Coins = 32 Power, Area Pale/Acoustic).
-    * Sora clashes with `[REQUIEM OF THE LIVING SLUMBER]` (Base 26 + 3 Coins Heads = 45 Power, Supreme Mnemonic Ward).
+  * **Clash 1 (Node 05 to 05)**: SECC-056 unleashes `[Tide of Unremembered Tears]` (Base 20 + 3 Lots = 32 Power, Area Pale/Acoustic).
+    * Sora clashes with `[REQUIEM OF THE LIVING SLUMBER]` (Base 26 + 3 Lots Marked = 45 Power, Supreme Mnemonic Ward).
     * **Clash Outcome**: SORA OVERWHELMING RELIC CLASH WIN (45 vs 32)!
     * A radiant silver bell chime envelops the team in a shimmering protective silver dome (`[P3: Parry/Protection]`).
     * The tidal wave of weeping spirits parts cleanly around the harmonic wave! Zero squad damage taken!

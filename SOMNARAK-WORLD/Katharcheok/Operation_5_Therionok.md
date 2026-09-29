@@ -304,8 +304,8 @@ The battle for the Black Cages was joined.
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Scales basalt arena pillars toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Beastmaster Jagyeon lashes out with `[Harmonic Shock Lash]` (Base 16 + 2 Coins = 28 Power, Electric/Slash) against Node 02.
-    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 18 + 2 Coins = 32 Power, Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: Beastmaster Jagyeon lashes out with `[Harmonic Shock Lash]` (Base 16 + 2 Lots = 28 Power, Electric/Slash) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 18 + 2 Lots = 32 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (32 vs 28)!
     * The kinetic shield grounds the 50,000-volt high-voltage arc directly into the sand deck (`[P3: Parry/Protection]`).
     * Taeho reflects **180 kinetic tremor damage** back into Jagyeon's beast-hide harness! Inflicts +28 Posture Strain.
@@ -374,8 +374,8 @@ The battle for the Black Cages was joined.
   * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
   * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Cold Iron]` (2 AP) around the chain beast's limbs.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Jagyeon executes `[Dual Lightning Cleave]` (Base 14 + 2 Coins = 26 Power, Heavy Slash).
-    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 18 + 2 Coins = 30 Power, Heavy Blunt).
+  * **Clash 1 (Node 04 to 05)**: Jagyeon executes `[Dual Lightning Cleave]` (Base 14 + 2 Lots = 26 Power, Heavy Slash).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 18 + 2 Lots = 30 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (30 vs 26)!
     * The hydraulic ram smashes straight into the hip battery generator of the whip!
     * Deals **560 Blunt damage** directly to the Harmonic Shock Whip and inflicts +56 Posture Strain!
@@ -436,8 +436,8 @@ The battle for the Black Cages was joined.
   * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on Jagyeon's battery coupling.
   * Infiltrator Echo (Speed 9 -> 5 AP): Drops from high pillars onto the whip's emitter hub, driving `[Eclipse Stiletto]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: Jagyeon unleashes `[Thunderous Execution Lash]` (Base 16 + 2 Coins = 28 Power, Heavy Slash).
-    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 20 + 2 Coins = 32 Power, High-Precision Pierce).
+  * **Clash 1 (Node 07 to 05)**: Jagyeon unleashes `[Thunderous Execution Lash]` (Base 16 + 2 Lots = 28 Power, Heavy Slash).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 20 + 2 Lots = 32 Power, High-Precision Pierce).
     * **Clash Outcome**: Minho WINS THE CLASH (32 vs 28)!
     * Minho's silver lancet pierces the primary plasma coil of the whip with surgical precision!
     * **TARGETED PART DESTROYED**: `[The Harmonic Shock Whip]` explodes into smoking copper braids and shattered porcelain insulation (**1,240 Whip HP destroyed: 0/1,800**)!
@@ -500,8 +500,8 @@ The battle for the Black Cages was joined.
   * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive sanity.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the heavy cage padlocks (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-102 unleashes `[Razor Iron Storm: Chained Frenzy]` (Base 23 + 2 Coins = 33 Power, Area Slash/Grudge).
-    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Coins = 36 Power, Vacuum Barrier).
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-102 unleashes `[Razor Iron Storm: Chained Frenzy]` (Base 23 + 2 Lots = 33 Power, Area Slash/Grudge).
+    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Lots = 36 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (36 vs 33)!
     * The lead-lined vacuum sphere fully captures the whirling razor-chain shockwave (`[P3: Parry/Protection]`).
     * Zero chain shards penetrate the leaded barrier. Soojin redirects the trapped kinetic energy back into the beast's tether, dealing **540 Void damage** and +74 Posture Strain!
@@ -555,7 +555,7 @@ The battle for the Black Cages was joined.
   * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 8,900 slave contracts and illegal wagering ledgers at Node 06 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10)**: SE-C-IIIγ-102 thrashes with `[Barbed Spine Cleave]` (Atk Power 29, Slash).
-    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 24 + 2 Coins Heads = 34 Power, Slash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 24 + 2 Lots Marked = 34 Power, Slash).
     * **Clash Outcome**: Echo WINS THE CLASH (34 vs 29)!
     * Echo slices cleanly through the thick barbed-iron spine connecting the entity's central shackle!
     * **CRITICAL HIT!** Deals **680 Slash damage** directly to the core and strips 90 Posture points!

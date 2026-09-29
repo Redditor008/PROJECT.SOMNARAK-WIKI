@@ -207,7 +207,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 - Void: 1.6 (Weak)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes

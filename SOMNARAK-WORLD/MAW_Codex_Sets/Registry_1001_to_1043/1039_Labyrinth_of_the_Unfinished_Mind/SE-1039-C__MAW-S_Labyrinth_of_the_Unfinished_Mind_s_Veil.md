@@ -23,7 +23,7 @@
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Endured) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn. Continued use makes Labyrinth of the Unfinished Mind's source sorrow feel autobiographical.
 

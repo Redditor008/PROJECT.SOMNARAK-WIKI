@@ -183,7 +183,7 @@ Guarding the archive was the ancient overseer of the vault: **SECC-E31 "The Calc
 ================================================================================
  BOSS ATTRIBUTES:
  - Health (HP): 2,400 | Speed Dice: 2–6 (2 Action Slots)
- - Weaknesses: Lament (Fatal 2.0x — Water dissolves limestone slate body)
+ - Weaknesses: Lament (Exposed 2.0x — Water dissolves limestone slate body)
  - Primary Threat: [Censure Strike] — Deals 18 Void damage; silences target SP
 ================================================================================
 ```
@@ -233,7 +233,7 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
  - Base Defense: 60 | Speed Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
    * Grudge (Crimson) : 0.5x (Endured — Forged in subterranean volcanic heat)
-   * Lament (Deep Blue): 2.0x (Fatal Weakness — Glacial water quenches magma core)
+   * Lament (Deep Blue): 2.0x (Exposed Weakness — Glacial water quenches magma core)
    * Void (Pale White) : 1.5x (Weakness — Disrupts the martyr soul lattice)
    * Weight (Black)    : 0.5x (Endured — Cyclopean basalt and slag chassis)
 
@@ -274,7 +274,7 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 | - Total Health (HP): 4,000 HP | Posture Pool: 320/320               |
 | - Stagger 1 Proc : 60% Posture Strain (192 Posture) / Cleaver Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Solidification)  |
-| - Resistances : Lament 2.0x (Fatal), Void 1.5x, Grudge 0.5x, Weight |
+| - Resistances : Lament 2.0x (Exposed), Void 1.5x, Grudge 0.5x, Weight |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
@@ -346,14 +346,14 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Thermal Sonar Lock]`, 2 AP on `[Acoustic Dart]`.
   * Minjae (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 08, recording structural fault vectors.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: SECC-068 unleashes `[Molten Slag Cleave]` (Base 17 + 2 Coins = 27 Power, Heavy Grudge/Heat).
-    * Harin intercepts with `[Vow of the Low Bulwark: Kinetic Wall]` (Base 20 + 2 Coins = 32 Power, Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: SECC-068 unleashes `[Molten Slag Cleave]` (Base 17 + 2 Lots = 27 Power, Heavy Grudge/Heat).
+    * Harin intercepts with `[Vow of the Low Bulwark: Kinetic Wall]` (Base 20 + 2 Lots = 32 Power, Kinetic Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (32 vs 27)!
     * Harin plants her shield into the basalt floor; impact sparks cascade across the rift as the molten magma cleaver is deflected cleanly (`[P3: Parry/Protection]`).
     * Harin reflects **230 kinetic tremor damage** back into the cleaver arm, inflicting +48 Posture Strain!
   * **Elemental Weakness Exploitation**:
     * Sora unleashes `[Glacial Cascade]` directly into the glowing magma wrist joint:
-      * Siphon of glacial Lament brine strikes boiling volcanic rock (Fatal 2.0x proc!).
+      * Siphon of glacial Lament brine strikes boiling volcanic rock (Exposed 2.0x proc!).
       * Deals **190 Cryo-Lament damage**! The molten rock hissingly blackens into brittle, vitrified slag.
 - **Step 4: Turn End State**:
   * Calcinated Magma Cleaver HP: 1,050 -> **630/1,050** | Posture: **168/260 [QUENCHING]**.
@@ -402,11 +402,11 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
   * Harin (Speed 4 -> 2 AP): Holds Node 03, deflecting blistering ash convection with `[Bulwark Stance]`.
   * Sora (Speed 7 -> 4 AP): Holds Node 06, pouring pressurized cryo-water across the furnace vents (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: SECC-068 swings with `[Volcanic Backhand Sweep]` (Base 17 + 2 Coins = 27 Power, Heavy Grudge).
-    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 23 + 3 Coins Heads = 41 Power, Void Slash).
+  * **Clash 1 (Node 07 to 05)**: SECC-068 swings with `[Volcanic Backhand Sweep]` (Base 17 + 2 Lots = 27 Power, Heavy Grudge).
+    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 23 + 3 Lots Marked = 41 Power, Void Slash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (41 vs 27)!
     * The dark relic cleaver slices cleanly through the vitrified tungsten wrist joint!
-    * Deals **480 Critical Void damage** (Fatal 2.0x proc!)!
+    * Deals **480 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Calcinated Magma Cleaver shears off and plunges into the magma lake, exploding into boiling steam (**Cleaver HP: 0/1,050**)!
     * **EFFECT**: Boss AoE magma wave attack permanently sealed; boss permanently loses 1 Speed Slot!
   * **Slag Bastion Shield Damage**:
@@ -449,7 +449,7 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 
 ###### Turn 03 Action Resolution Log (First Stagger Proc & Shield Breach)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * SECC-068 attempts a desperate shield slam: `[Tectonic Bash]` (Heavy Weight, 2 Coins).
+  * SECC-068 attempts a desperate shield slam: `[Tectonic Bash]` (Heavy Weight, 2 Lots).
   * Doha gains `Momentum Surge` (+2 Speed -> Net Speed 7, 4 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Doha (Speed 7 -> 4 AP): Steps to Node 04. Spends 2 AP on `[Sapper Counter-Lever]`.
@@ -457,8 +457,8 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
   * Sora (Speed 7 -> 4 AP): Casts `[Chime of Quenched Slag]` (2 AP), weakening furnace grates.
   * Yeonhwa (Speed 7 -> 4 AP): Casts `[Acoustic Theodolite Laser]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: SECC-068 slams forward with `[Tectonic Bash]` (Base 16 + 2 Coins = 24 Power, Heavy Weight).
-    * Doha clashes with `[Sapper Counter-Lever]` (Base 20 + 2 Coins = 32 Power, Heavy Lever).
+  * **Clash 1 (Node 04 to 05)**: SECC-068 slams forward with `[Tectonic Bash]` (Base 16 + 2 Lots = 24 Power, Heavy Weight).
+    * Doha clashes with `[Sapper Counter-Lever]` (Base 20 + 2 Lots = 32 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (32 vs 24)!
     * Doha levers his tungsten sapper spike into the vitrified shield core; the pneumatic piston fires with concussive force!
     * The Slag Bastion shatters into burning gravel, dealing **420 Blunt damage** and +76 Posture Strain!
@@ -551,7 +551,7 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 ###### Turn 05 Action Resolution Log (Phase 2 Escalation: Tectonic Fissure & Chronicle of Truth)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Sovereign awakens in volcanic desperation; subterranean gas pockets ignite across the concourse!
-  * Boss Special Skill: `[Cataclysmic Tectonic Fissure]` (Tectonic Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Cataclysmic Tectonic Fissure]` (Tectonic Cataclysm, 3 Lots).
   * Speed Dice expands to 4 slots! Ash and molten rock engulf the rift floor.
   * Minjae activates Relic Overdrive: `[UNVARNISHED CHRONICLE OF TRUTH — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -560,8 +560,8 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
   * Doha (Speed 5 -> 3 AP): Drops tectonic anchors into Node 06.
   * The Silent One (Speed 7 -> 4 AP): Prepares `[Void Overdrive Cleave]` at Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 06 to 05)**: SECC-068 unleashes `[Cataclysmic Tectonic Fissure]` (Base 21 + 3 Coins = 33 Power, Area Weight/Heat).
-    * Minjae clashes with `[UNVARNISHED CHRONICLE OF TRUTH — MAXIMUM]` (Base 27 + 3 Coins Heads = 47 Power, Truth Resonance).
+  * **Clash 1 (Node 06 to 05)**: SECC-068 unleashes `[Cataclysmic Tectonic Fissure]` (Base 21 + 3 Lots = 33 Power, Area Weight/Heat).
+    * Minjae clashes with `[UNVARNISHED CHRONICLE OF TRUTH — MAXIMUM]` (Base 27 + 3 Lots Marked = 47 Power, Truth Resonance).
     * **Clash Outcome**: MINJAE OVERWHELMING RELIC CLASH WIN (47 vs 33)!
     * The names of the sacrificed thousand burn with blinding golden brilliance into the acoustic air!
     * Historical truth resonance binds the shifting tectonic plates together!

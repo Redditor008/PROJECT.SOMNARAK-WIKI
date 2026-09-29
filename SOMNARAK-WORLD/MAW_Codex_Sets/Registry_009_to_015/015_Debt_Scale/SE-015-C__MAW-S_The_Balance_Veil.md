@@ -19,7 +19,7 @@
 | Element | Multiplier | Label | Field Meaning |
 |---|---:|---|---|
 | **Lament** | 1.2 | Weak | Personal grief interferes with impartial measurement. |
-| **Grudge** | 0.8 | Endured | Direct retaliation is partially diffused. |
+| **Grudge** | 0.8 | Warded | Direct retaliation is partially diffused.  |
 | **Void** | 0.3 | Resistant | Strong defense against debt-reading identity pressure. |
 | **Weight** | 1.1 | Weak | Accumulated obligation remains hard to carry. |
 

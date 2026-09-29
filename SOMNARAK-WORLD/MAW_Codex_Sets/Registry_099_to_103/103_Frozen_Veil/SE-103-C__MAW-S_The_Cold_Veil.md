@@ -41,7 +41,7 @@ The Cold Veil condensed after a source crack closed without trapping the observi
 | Element | Multiplier | Label | Protection / failure reason |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | A grief that needs witness cannot safely be frozen out. |
-| Grudge | 0.8 | Endured | Anger loses force when it cannot find an emotional grip. |
+| Grudge | 0.8 | Warded | Anger loses force when it cannot find an emotional grip. |
 | Void | 0.3 | Resistant | The Veil reproduces the source’s isolation from invasive identity pressure. |
 | Weight | 1.1 | Weak | Unshared duty still presses through the absence. |
 

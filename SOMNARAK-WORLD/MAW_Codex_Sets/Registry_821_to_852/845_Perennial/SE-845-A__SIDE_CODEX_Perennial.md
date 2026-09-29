@@ -47,7 +47,7 @@ During the The Perennial Source-Trace, the field team preserved this source fact
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Returning Maul | β Weight 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-845-B__MAW-W_The_Returning_Maul.md` |
-| The Returning Mantle | β; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 4; 20 Sorrow Echoes | `SE-845-C__MAW-S_The_Returning_Mantle.md` |
+| The Returning Mantle | β; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 4; 20 Sorrow Echoes | `SE-845-C__MAW-S_The_Returning_Mantle.md` |
 | The Returning Petal | β; Head; 5%; +1 stat bonus when working the source entity | `SE-845-D__MAW-G_The_Returning_Petal.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

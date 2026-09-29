@@ -27,7 +27,7 @@ Dawn That Forgot's Veil is the suit record of the Dawn That Forgot set — γ-gr
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Endured) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn. Continued use makes Dawn That Forgot's source sorrow feel autobiographical.
 

@@ -47,7 +47,7 @@ During the The Thinking Engine Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Thinking Engine's Edge | γ Lament 14–19; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-904-B__MAW-W_Thinking_Engine_s_Edge.md` |
-| Thinking Engine's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-904-C__MAW-S_Thinking_Engine_s_Veil.md` |
+| Thinking Engine's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-904-C__MAW-S_Thinking_Engine_s_Veil.md` |
 | Thinking Engine's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-904-D__MAW-G_Thinking_Engine_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -27,7 +27,7 @@ The Fading Veil is the suit record of Swallow’s set, and its canonical ability
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Endured) | 2 / 45 Sorrow Echoes |
+| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels every sorrow the Veil has absorbed. Continued use makes Swallow's source sorrow feel autobiographical.
 

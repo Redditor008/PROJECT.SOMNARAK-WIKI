@@ -47,7 +47,7 @@ During the The Screaming Masonry Source-Trace, the field team preserved this sou
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Screaming Masonry Maul | δ Weight 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-891-B__MAW-W_Screaming_Masonry_Maul.md` |
-| Screaming Masonry Mantle | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 2; 45 Sorrow Echoes | `SE-891-C__MAW-S_Screaming_Masonry_Mantle.md` |
+| Screaming Masonry Mantle | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 2; 45 Sorrow Echoes | `SE-891-C__MAW-S_Screaming_Masonry_Mantle.md` |
 | Screaming Masonry Ring | δ; Head; 4%; +3 stat bonus when working the source entity | `SE-891-D__MAW-G_Screaming_Masonry_Ring.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -47,7 +47,7 @@ During the The Wanderer Without a Destination Source-Trace, the field team prese
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Wanderer Without a Destination Requiem | γ Lament 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-1040-B__MAW-W_Wanderer_Without_a_Destination_Requiem.md` |
-| Wanderer Without a Destination Shroud | γ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 3; 35 Sorrow Echoes | `SE-1040-C__MAW-S_Wanderer_Without_a_Destination_Shroud.md` |
+| Wanderer Without a Destination Shroud | γ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 3; 35 Sorrow Echoes | `SE-1040-C__MAW-S_Wanderer_Without_a_Destination_Shroud.md` |
 | Wanderer Without a Destination Lantern | γ; Tail; 4%; +2 stat bonus when working the source entity | `SE-1040-D__MAW-G_Wanderer_Without_a_Destination_Lantern.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

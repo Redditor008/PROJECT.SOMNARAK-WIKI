@@ -24,7 +24,7 @@ The Sorrow Veil is a suit of pale, half-reflective weave that formed after a com
 
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
-| 1.2 — Weak | 0.8 — Endured | 0.3 — Resistant | 1.1 — Weak |
+| 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak |
 
 **Maximum / Echo Cost:** 3 / 35. **Cost:** wearer feels faintly absent to themself.
 

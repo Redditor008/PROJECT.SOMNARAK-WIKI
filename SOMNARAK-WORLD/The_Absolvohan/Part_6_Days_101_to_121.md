@@ -212,8 +212,8 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Sweeping Cleave]`.
   * Specialist Park (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Bow Piercing Pulse]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Lead Silhouette unleashes `[Cognitive Sleep Haze]` (Base 8 + 2 Coins = 12 Power).
-  * Specialist Kang's `[Heavy Maul Sweeping Cleave]` (Base 11 + 2 Coins = 15 Power).
+  * Lead Silhouette unleashes `[Cognitive Sleep Haze]` (Base 8 + 2 Lots = 12 Power).
+  * Specialist Kang's `[Heavy Maul Sweeping Cleave]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Kang WINS THE CLASH (15 vs 12).
     * Kang's warhammer smashes through the sleep mist, exploiting the entity's Grudge vulnerability to deal **52 Grudge damage** and inflicting +28 Stagger!
   * Park's sonic bow drives an acoustic pulse through the remaining specters from Node 5 for 36 Lament damage.
@@ -649,8 +649,8 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
   * Extraction Lead Zyrak (Speed 6 -> 3 AP) plants his boots at Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Furnace Lance Thermal Axle Thrust]`. Remaining 1 AP in Guard.
   * Specialist Yoo (Speed 6 -> 3 AP) stands at Node 3 (Close Range Band 2). Spends 2 AP to prepare `[Lock Maul Kinetic Overdrive]`.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
-  * Molten Gearwheel rolls forward with `[Gravitational Rolling Shear]` (Base 10 + 2 Coins = 14 Power).
-  * Extraction Lead Zyrak's `[Furnace Lance Thermal Axle Thrust]` (Base 12 + 2 Coins = 16 Power).
+  * Molten Gearwheel rolls forward with `[Gravitational Rolling Shear]` (Base 10 + 2 Lots = 14 Power).
+  * Extraction Lead Zyrak's `[Furnace Lance Thermal Axle Thrust]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Zyrak WINS THE CLASH (16 vs 14).
     * Zyrak's furnace lance pierces the incandescent axle, halting the wheel's rolling momentum and dealing **54 Grudge/Thermal damage** with +28 Stagger!
   * Specialist Yoo follows up with `[Lock Maul Kinetic Overdrive]`, smashing the primary gear teeth for 48 blunt damage.
@@ -1091,8 +1091,8 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
   * Border Lead Mellda (Speed 6 -> 3 AP) holds Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Threshold Vow Skull-Pinning Thrust]`. Remaining 1 AP in Guard.
   * Specialist Cha (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready `[Forge Bracer High-Pressure Cryo-Spray]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Lead Ash Stalker lunges with `[Incandescent Flame Jaw]` (Base 9 + 2 Coins = 13 Power).
-  * Border Lead Mellda's `[Threshold Vow Skull-Pinning Thrust]` (Base 12 + 2 Coins = 16 Power).
+  * Lead Ash Stalker lunges with `[Incandescent Flame Jaw]` (Base 9 + 2 Lots = 13 Power).
+  * Border Lead Mellda's `[Threshold Vow Skull-Pinning Thrust]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Mellda WINS THE CLASH (16 vs 13).
     * Mellda drives the golden spearhead straight through the stalker's incandescent skull, pinning it to the bulkhead for **52 Grudge/Weight damage** with +26 Stagger!
   * Specialist Cha unleashes the cryo spray from Node 4, chilling the remaining stalkers with 38 Lament damage.
@@ -1487,11 +1487,11 @@ At 16:30, a blinding cyan core manifests in the Floor 4 Sub-Central Hall:
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 1x Blinding Solar Core                                  |
-| - Attack Affinity: Pale (Max HP Sunder)                             |
+| - Attack Affinity: Void (Max HP Sunder)                             |
 | - Weakness Affinity: Balanced (All 4 Types)                         |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
-| - Core radiates pulsing 20% Pale shockwaves                         |
+| - Core radiates pulsing 20% Void shockwaves                         |
 | - Range Band: Intercept at Range Band 3-4                           |
 | - Yoon & Hong coordinate dual Lament waves                          |
 | - Pure weeping frequencies cool solar core                          |
@@ -1517,7 +1517,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 | Yoon : Speed 6 -> 3 AP | HP: 125/125 | SP: +35 | Tear Veil          |
 | Hong : Speed 5 -> 3 AP | HP: 120/120 | SP: +30 | Choral Staff       |
 | Dawn Solar Core : Speed 5 -> 3 AP | HP: 500/500 | Sorrow: 75%       |
-| Pale Pulse                                                          |
+| Void Pulse                                                          |
 +=====================================================================+
 ```
 
@@ -1529,8 +1529,8 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
   * Specialist Hong (Speed 5 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to activate `[Choral Staff Sorrow Pulse]`. Remaining 1 AP held in Guard.
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Kinetic Sunder]`.
 - **Step 3: Clash Resolution (Node 1 to 5)**:
-  * Dawn Solar Core releases `[Omnidirectional Pale Sunder]` (Base 10 + 2 Coins = 14 Power).
-  * Specialist Yoon & Specialist Hong's `[Dual Harmonic Weeping]` (Base 12 + 2 Coins = 16 Power).
+  * Dawn Solar Core releases `[Omnidirectional Void Sunder]` (Base 10 + 2 Lots = 14 Power).
+  * Specialist Yoon & Specialist Hong's `[Dual Harmonic Weeping]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: The Specialists WIN THE CLASH (16 vs 14).
     * The pure sorrow wave encapsulates the solar flare, suppressing its heat and dealing **48 Lament/Void damage** with +26 Stagger!
   * Kang strikes the stabilizing baseplate from Node 2, dealing 54 Grudge damage.
@@ -1616,9 +1616,9 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 +=====================================================================+
 ```
 
-###### Turn 04 Action Resolution Log (Pale Pulse Desperation)
+###### Turn 04 Action Resolution Log (Void Pulse Desperation)
 - **Hostile Desperation Counter-Surge**:
-  * The Solar Core recovers, pulsing a 20% Max HP Pale shockwave across all nodes.
+  * The Solar Core recovers, pulsing a 20% Max HP Void shockwave across all nodes.
   * Specialist Kang deploys `[Directional Guard Absorption]`, taking 13 chip damage (HP: 122/135) and grounding the pulse!
   * Research Lead Ayshuk identifies the thermal-psychic node, allowing Yoon to dampen the acoustic resonance.
   * Core Posture drops to **4/140**!
@@ -1680,7 +1680,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Sub-Central Hall thermal radiation fully   |
 | dissipated.                                                         |
-| 2. Status Equilibrium : Pale sunder halted; team HP and SP          |
+| 2. Status Equilibrium : Void sunder halted; team HP and SP          |
 | restored.                                                           |
 | 3. Containment Check : Solar Core collapsed into shimmering         |
 | starlight.                                                          |
@@ -1850,7 +1850,7 @@ Containment Lead Dekan conducts Pugnahan calibration at the Maw's edge:
 
 ```text
 > Chamber Telemetry: "The black tar churns violently, roaring the names of the dead..."
-> Fear Check: Level V Echo-Core Lead vs Sovereign Entity -> RESULT: ABSOLUTE CALM.
+> Dread Check: Level V Echo-Core Lead vs Sovereign Entity -> RESULT: ABSOLUTE CALM.
 ```
 
 - **Work Tick 01–06:** 6 Successes. Dekan drives the basalt siphon into the tar.
@@ -1911,10 +1911,10 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 ##### Turn 01 Action Resolution Log (Spatial Ingress & Bulwark Clash)
 - **Operative Movement & Clash Standoff**:
   * **Containment Lead Dekan (Speed 5 -> 3 AP)**: Steps up to Node 03, planting his basalt siphon into the floorplates. Declares `[Basalt Siphon Parry]` (Costs 2 AP).
-  * The Sediment Behemoth unleashes `[Tectonic Mudslide Charge]` against Node 03 (Base 10 + 2 Coins = 14 Power).
+  * The Sediment Behemoth unleashes `[Tectonic Mudslide Charge]` against Node 03 (Base 10 + 2 Lots = 14 Power).
   * Dekan's Roll:
     * *Passive Trigger:* `Maw Ward` (+2 Base Clash Power).
-    * Dekan Roll: Base 12 + 2 Coins = **16 Power**!
+    * Dekan Roll: Base 12 + 2 Lots = **16 Power**!
   * **Clash Result**: **Dekan WINS THE CLASH (16 vs 14)!**
     * The basalt siphon locks the creature's primary tusk, diverting the mudslide into the drainage flues!
     * Deals 36 Weight damage (HP: 364/400) and inflicts +32 Posture Strain (Posture: 168/200).
@@ -2328,8 +2328,8 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
   * Kang spends 2 AP to prepare `[Threshold Maul Titanic Downward Cleave]`.
   * Director Majin (Speed 5 -> 3 AP) operates from Node 9, spending 2 AP to maintain *Administrative Clarity* team-wide. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
-  * Foundation Shard charges `[3.5G Gravitational Reality Shear]` (Base 11 + 2 Coins = 15 Power).
-  * Specialist Kang's `[Threshold Maul Titanic Cleave]` (Base 13 + 2 Coins = 17 Power).
+  * Foundation Shard charges `[3.5G Gravitational Reality Shear]` (Base 11 + 2 Lots = 15 Power).
+  * Specialist Kang's `[Threshold Maul Titanic Cleave]` (Base 13 + 2 Lots = 17 Power).
   * **Resolution**: Kang WINS THE CLASH (17 vs 15).
     * Kang's warhammer crashes into the obelisk's grav-core, arresting the gravitational pulse and dealing **62 Grudge damage** with +32 Stagger!
   * The shockwave frees the pinned command staff, allowing immediate evacuation toward Node 10.

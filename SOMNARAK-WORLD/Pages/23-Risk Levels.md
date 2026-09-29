@@ -28,7 +28,7 @@ In Somnarak nomenclature, risk is framed as an audible metaphor: from the quiete
 - [5 Rank IV: Wail Entities](#5-rank-iv-wail-entities)
 - [6 Rank V: Sovereign Entities](#6-rank-v-sovereign-entities)
 - [7 Non-Ranked Tool Relics and Time Hazards](#7-non-ranked-tool-relics-and-time-hazards)
-- [8 Fear Checks and Rank Discrepancy Multipliers](#8-fear-checks-and-rank-discrepancy-multipliers)
+- [8 Dread Checks and Rank Discrepancy Multipliers](#8-dread-checks-and-rank-discrepancy-multipliers)
 - [9 Gallery](#9-gallery)
 - [10 See also](#10-see-also)
 
@@ -75,23 +75,23 @@ Five entities within the facility lack fixed risk ranks:
 - These are inanimate artifacts governed by the **Two-Work-Type Rule** (Viderehan and Ferrehan only).
 - Risk is determined by the duration or frequency of human use rather than inherent hostility (e.g., [28-The Echo Compass](28-The%20Echo%20Compass.md), [29-The Crucible](29-The%20Crucible.md), and [30-The Debt Scale](30-The%20Debt%20Scale.md)).
 
-## 8 Fear Checks and Rank Discrepancy Multipliers
+## 8 Dread Checks and Rank Discrepancy Multipliers
 
 When a specialist enters a chamber or confronts a breaching entity, their rank is compared against the entity's risk tier:
 
-| Operative Rank vs Entity Risk | Fear Assessment | Sanity Point (SP) Penalty |
+| Operative Rank vs Entity Risk | Dread Assessment | Sanity Point (SP) Penalty |
 |---|---|---|
-| Specialist Rank > Entity Risk | **Calm** | No SP loss. Operative is fully composed. |
-| Specialist Rank == Entity Risk | **Normal** | Minor SP drain (5% of max SP). |
-| Specialist Rank +1 < Entity Risk | **Fear** | Moderate SP drain (25% of max SP). |
-| Specialist Rank +2 < Entity Risk | **Hopeless** | Severe SP drain (50% of max SP). |
-| Specialist Rank +3+ < Entity Risk | **Overwhelming** | **Instant Panic**. ego collapse on sight. |
+| Specialist Rank > Entity Risk | **Composed** | No SP loss. Operative is fully composed. |
+| Specialist Rank == Entity Risk | **Unnerved** | Minor SP drain (5% of max SP). |
+| Specialist Rank +1 < Entity Risk | **Shaken** | Moderate SP drain (25% of max SP). |
+| Specialist Rank +2 < Entity Risk | **Grief-struck** | Severe SP drain (50% of max SP). |
+| Specialist Rank +3+ < Entity Risk | **Shattered** | **Instant Panic**. ego collapse on sight. |
 
 ## 9 Gallery
 
 [![Risk Levels Chart](images/risk-levels-chart.svg)](images/risk-levels-chart.svg)
 [![Sovereign Class Alarm](images/sovereign-class-alarm.svg)](images/sovereign-class-alarm.svg)
-[![Fear Level Interface](images/fear-level-interface.svg)](images/fear-level-interface.svg)
+[![Dread Level Interface](images/dread-level-interface.svg)](images/dread-level-interface.svg)
 
 *Left: risk tier comparison chart; Center: Sovereign breach warning alarm; Right: fear check HUD gauge.*
 ---

@@ -26,7 +26,7 @@ The Seedless Shroud is a cool blue wrapping of Han-silk patterned with roots tha
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Endured | 5 / 10 Echoes |
+| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 5 / 10 Echoes |
 
 **Potential Canopy:** Imagined futures spread across the outer fabric instead of taking root in the wearer’s Mind. Void is dangerous because it erases the distinction between unrealized and impossible.
 

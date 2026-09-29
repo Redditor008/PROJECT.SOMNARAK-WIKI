@@ -201,7 +201,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
 - Void: 1.5 (Weak)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 

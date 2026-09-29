@@ -331,8 +331,8 @@ The kiln exploded into combat.
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Scales rusted chain hoists toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Warlord Boknam unleashes `[Pneumatic Hook Cleave]` (Base 14 + 2 Coins = 26 Power, Heavy Slash) against Node 02.
-    * Commander Taeho counters with `[Phalanx Bastion: Granite Wall]` (Base 16 + 2 Coins = 30 Power, Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: Warlord Boknam unleashes `[Pneumatic Hook Cleave]` (Base 14 + 2 Lots = 26 Power, Heavy Slash) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion: Granite Wall]` (Base 16 + 2 Lots = 30 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (30 vs 26)!
     * The kinetic shield completely deflects the massive barbed steel hook (`[P3: Parry/Protection]`).
     * Taeho reflects **160 kinetic tremor damage** back into Boknam's steam winch rig! Inflicts +28 Posture Strain.
@@ -399,8 +399,8 @@ The kiln exploded into combat.
   * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
   * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Leaded Ring]` (2 AP) around the cage perimeter.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Boknam fires `[High-Tension Cable Snare]` (Base 12 + 2 Coins = 24 Power, Pierce).
-    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 16 + 2 Coins = 28 Power, Heavy Blunt).
+  * **Clash 1 (Node 04 to 05)**: Boknam fires `[High-Tension Cable Snare]` (Base 12 + 2 Lots = 24 Power, Pierce).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 16 + 2 Lots = 28 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (28 vs 24)!
     * The hydraulic ram smashes straight into the secondary cable pulley drum!
     * Deals **520 Blunt damage** directly to Boknam's Steam Winch Rig and inflicts +52 Posture Strain!
@@ -459,8 +459,8 @@ The kiln exploded into combat.
   * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on Boknam's winch motor.
   * Infiltrator Echo (Speed 9 -> 5 AP): Drops from chains onto the hook's wrist assembly, driving `[Eclipse Stiletto]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: Boknam unleashes `[Pneumatic Hook Execution]` (Base 15 + 2 Coins = 27 Power, Heavy Slash).
-    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 19 + 2 Coins = 31 Power, High-Precision Pierce).
+  * **Clash 1 (Node 07 to 05)**: Boknam unleashes `[Pneumatic Hook Execution]` (Base 15 + 2 Lots = 27 Power, Heavy Slash).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 19 + 2 Lots = 31 Power, High-Precision Pierce).
     * **Clash Outcome**: Minho WINS THE CLASH (31 vs 27)!
     * Minho's silver lancet strikes the main hydraulic valve of the hook joint with pinpoint accuracy!
     * **TARGETED PART DESTROYED**: `[The Pneumatic Harvest Hook Arm]` shears completely off, clattering into the abattoir drain (**1,180 Hook HP destroyed: 0/1,600**)!
@@ -522,8 +522,8 @@ The kiln exploded into combat.
   * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive sanity.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the captive cell latch pins (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-120 unleashes `[Crimson Fury Deluge: Scalding Blood]` (Base 22 + 2 Coins = 32 Power, Area Fire/Grudge).
-    * Handler Soojin deploys `[Leaded Barrier Ward]` (Base 25 + 2 Coins = 35 Power, Vacuum Barrier).
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-120 unleashes `[Crimson Fury Deluge: Scalding Blood]` (Base 22 + 2 Lots = 32 Power, Area Fire/Grudge).
+    * Handler Soojin deploys `[Leaded Barrier Ward]` (Base 25 + 2 Lots = 35 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (35 vs 32)!
     * The lead-lined vacuum sphere fully absorbs the scalding blood-steam (`[P3: Parry/Protection]`).
     * Zero thermal particles penetrate the leaded ward. Soojin redirects the trapped resonance back into the cage, dealing **480 Void damage** and +70 Posture Strain!
@@ -577,7 +577,7 @@ The kiln exploded into combat.
   * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 6,400 illicit debt records at Node 06 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10)**: SE-C-IIIγ-120 lashes out with `[Barbed Chain Frenzy]` (Atk Power 28, Slash).
-    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 23 + 2 Coins Heads = 33 Power, Slash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 23 + 2 Lots Marked = 33 Power, Slash).
     * **Clash Outcome**: Echo WINS THE CLASH (33 vs 28)!
     * Echo slices cleanly through the red iron arterial conduits feeding the cage bars!
     * **CRITICAL HIT!** Deals **620 Slash damage** directly to the core and strips 80 Posture points!

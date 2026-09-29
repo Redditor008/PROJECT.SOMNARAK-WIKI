@@ -185,7 +185,7 @@ Standing five meters tall, its body was formed from a lattice of interlocking tu
 ================================================================================
  BOSS ATTRIBUTES:
  - Health (HP): 3,200 | Speed Dice: 2–6 (2 Action Slots)
- - Weaknesses: Void (Fatal 2.0x — Pure non-vibrational silence fractures tuning forks)
+ - Weaknesses: Void (Exposed 2.0x — Pure non-vibrational silence fractures tuning forks)
  - Primary Threat: [Harmonic Discord] — Deals 20 mental damage to unshielded targets
 ================================================================================
 ```
@@ -234,7 +234,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
  - Resistances:
    * Grudge (Crimson) : 1.0x (Normal — Forged from humanity's first anguish)
    * Lament (Deep Blue): 0.5x (Endured — Saturated in four millennia of tears)
-   * Void (Pale White) : 2.0x (Fatal Weakness — Transcendent truth and silence)
+   * Void (Pale White) : 2.0x (Exposed Weakness — Transcendent truth and silence)
    * Weight (Black)    : 0.5x (Endured — Cyclopean bedrock and oceanic ballast)
 
  TARGETABLE COMPONENT PARTS:
@@ -273,7 +273,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 | - Total Health (HP): 6,000 HP | Posture Pool: 360/360               |
 | - Stagger 1 Proc   : 60% Posture Strain (216 Posture) / Halo Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Solace)          |
-| - Resistances : Void 2.0x (Fatal), Grudge 1.0x, Lament/Weight 0.5x  |
+| - Resistances : Void 2.0x (Exposed), Grudge 1.0x, Lament/Weight 0.5x  |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Aura of Grief   : 1,200 HP                                       |
@@ -348,8 +348,8 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
   * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Silver Cowl: Harmonic Damping]`. Holds 2 AP in Reserve.
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Scan]`, 2 AP on `[Theodolite Beam]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: SECC-UR-VIIω-001 unleashes `[Primordial Weeping Tide]` (Base 18 + 2 Coins = 28 Power, Heavy Oceanic Lament).
-    * Harin intercepts with `[Vow of the Low Bulwark: Kinetic Fortress]` (Base 22 + 2 Coins = 34 Power, Supreme Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: SECC-UR-VIIω-001 unleashes `[Primordial Weeping Tide]` (Base 18 + 2 Lots = 28 Power, Heavy Oceanic Lament).
+    * Harin intercepts with `[Vow of the Low Bulwark: Kinetic Fortress]` (Base 22 + 2 Lots = 34 Power, Supreme Kinetic Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (34 vs 28)!
     * Harin plants the tower shield firmly into the starlight sand; the blinding turquoise sorrow wave breaks into harmless, warm spray (`[P3: Parry/Protection]`).
     * Harin reflects **310 kinetic tremor damage** into the Aura of Primordial Grief, inflicting +58 Posture Strain!
@@ -400,11 +400,11 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
   * Harin (Speed 4 -> 2 AP): Holds Node 03, deflecting oceanic spray with `[Bulwark Wall]`.
   * Minjae (Speed 7 -> 4 AP): Inscribes `[Year Zero Inscription]` (2 AP), weakening tear halo cohesion.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 06 to 05)**: SECC-UR-VIIω-001 fires `[Petrified Tear Barrage]` (Base 18 + 2 Coins = 26 Power, Piercing Lament).
-    * Sora clashes with `[Silver Cowl: Harmonic Damping Wave]` (Base 23 + 3 Coins Heads = 41 Power, Lament Harmony).
+  * **Clash 1 (Node 06 to 05)**: SECC-UR-VIIω-001 fires `[Petrified Tear Barrage]` (Base 18 + 2 Lots = 26 Power, Piercing Lament).
+    * Sora clashes with `[Silver Cowl: Harmonic Damping Wave]` (Base 23 + 3 Lots Marked = 41 Power, Lament Harmony).
     * **Clash Outcome**: Sora WINS THE CLASH OVERWHELMINGLY (41 vs 26)!
     * The Silver Cowl resonates with pure clarity; the harmonic wave completely shatters the surging tidal barrier!
-    * Deals **580 Lament damage** (Fatal 2.0x proc!)!
+    * Deals **580 Lament damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Aura of Primordial Grief collapses completely, exposing the entity's inner sanctum (**Aura HP: 0/1,200**)!
     * **EFFECT**: Boss loses tidal barrier shielding; boss permanently loses 1 Speed Slot!
 - **Step 4: Turn End State**:
@@ -445,7 +445,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 
 ###### Turn 03 Action Resolution Log (First Stagger Proc & Tear Halo Severance)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * SECC-UR-VIIω-001 pulses with `[Echo of Millennial Bereavement]` (Area Pale, 2 Coins).
+  * SECC-UR-VIIω-001 pulses with `[Echo of Millennial Bereavement]` (Area Pale, 2 Lots).
   * The Silent One gains `Momentum Surge` (+2 Speed -> Net Speed 10, 5 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * The Silent One (Speed 10 -> 5 AP): Steps to Node 08. Spends 3 AP on `[Severing Crescent: Void Cleave]`.
@@ -453,11 +453,11 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
   * Yeonhwa (Speed 7 -> 4 AP): Casts `[Theodolite Focus Beam]` (2 AP), marking the central core.
   * Sora and Minjae: Prepare synchronized harmonic resonance.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 08 to 05)**: SECC-UR-VIIω-001 unleashes `[Echo of Millennial Bereavement]` (Base 19 + 2 Coins = 27 Power, Pale).
-    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 25 + 3 Coins Heads = 43 Power, Void Slash).
+  * **Clash 1 (Node 08 to 05)**: SECC-UR-VIIω-001 unleashes `[Echo of Millennial Bereavement]` (Base 19 + 2 Lots = 27 Power, Pale).
+    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 25 + 3 Lots Marked = 43 Power, Void Slash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (43 vs 27)!
     * The dark relic cleaver cleanly shears through the Petrified Tear Halo!
-    * Deals **540 Void damage** (Fatal 2.0x proc!)!
+    * Deals **540 Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Halo of Petrified Tears shatters into shimmering sapphire dust (**Halo HP: 0/1,500**)!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (4,200 HP), falling to **3,920/6,000 HP**; Posture crosses 60% strain line!
@@ -509,7 +509,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
   * Harin & Doha's `[Sapper Bulwark Compression Strike]`: Delivers **440 Weight damage**!
   * Sora & Minjae's `[Harmonic Requiem of Truth]`: Delivers **560 Pure Lament damage**!
   * Yeonhwa & Jisoo's `[Acoustic Ledger Liquidation]`: Delivers **520 Void damage**!
-  * The Silent One's `[The Burden Cleave: Core Strike]`: Delivers **780 Void damage** (Fatal 2.0x proc!)!
+  * The Silent One's `[The Burden Cleave: Core Strike]`: Delivers **780 Void damage** (Exposed 2.0x proc!)!
   * **TOTAL BURST DAMAGE: 2,300 DAMAGE!**
 - **Step 4: SECOND STAGGER THRESHOLD (2,400 HP) COMPLETELY SKIPPED!**:
   * Boss HP plunges from 3,920 down to **1,620/6,000 HP**!
@@ -552,7 +552,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 ###### Turn 05 Action Resolution Log (Phase 2 Escalation: Infinite Mugenhan Deluge & Requiem of Absolution)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The First Mourner awakens in cosmic agony; the entire subterranean ocean begins to boil with turquoise luminescence!
-  * Boss Special Skill: `[Infinite Mugenhan Deluge]` (Primordial Cataclysm, 5 Coins).
+  * Boss Special Skill: `[Infinite Mugenhan Deluge]` (Primordial Cataclysm, 5 Lots).
   * Speed Dice gains 5 slots! Cosmic grief surges to drown reality itself.
   * The Silent One breaks four centuries of absolute silence:
     > *"WE CARRY THIS SORROW TOGETHER!"*
@@ -562,8 +562,8 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
   * Harin & Doha (Speed 4 & 5): Hold Node 04, locking shields to stabilize the shoreline.
   * Yeonhwa, Sora, Minjae, and Jisoo: Stand at Nodes 07–08, channeling their instruments in harmony.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 06 to 05)**: SECC-UR-VIIω-001 unleashes `[Infinite Mugenhan Deluge]` (Base 25 + 5 Coins = 40 Power, Cosmic Han).
-    * The Silent One clashes with `[REQUIEM OF THE FIRST MOURNER — ABSOLUTION]` (Base 32 + 4 Coins Heads = 54 Power, Transcendent Solace).
+  * **Clash 1 (Node 06 to 05)**: SECC-UR-VIIω-001 unleashes `[Infinite Mugenhan Deluge]` (Base 25 + 5 Lots = 40 Power, Cosmic Han).
+    * The Silent One clashes with `[REQUIEM OF THE FIRST MOURNER — ABSOLUTION]` (Base 32 + 4 Lots Marked = 54 Power, Transcendent Solace).
     * **Clash Outcome**: THE SILENT ONE OVERWHELMING RELIC CLASH WIN (54 vs 40)!
     * The Burden of Year Zero opens, bathing the chasm in warm, golden starlight (`[P3: Parry/Protection]`)!
     * The millennial burden of loss is absorbed peacefully into the seven specialists' shared consciousness!

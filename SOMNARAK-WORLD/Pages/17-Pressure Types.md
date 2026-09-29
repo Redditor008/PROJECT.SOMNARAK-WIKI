@@ -74,7 +74,7 @@ The standard damage formula applies:
 | **0.5 to 0.7** | **Endured** | Solid defensive rating. Recommended for frontline suppressors. |
 | **0.8 to 1.2** | **Normal** | Standard baseline. Prolonged exposure causes gradual attrition. |
 | **1.3 to 1.5** | **Vulnerable** | High hazard. Incoming damage is amplified by up to 50%. |
-| **1.6 to 2.0+** | **Fatal** | Lethal vulnerability. Operative can suffer instant death from critical hits. |
+| **1.6 to 2.0+** | **Exposed** | Lethal vulnerability. Operative can suffer instant death from critical hits. |
 
 ## 3 Pale Conceptual Scaling: The One Percent Axiom
 

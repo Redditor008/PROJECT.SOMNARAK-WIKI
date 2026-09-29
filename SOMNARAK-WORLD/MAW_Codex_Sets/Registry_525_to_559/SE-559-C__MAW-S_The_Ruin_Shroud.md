@@ -24,7 +24,7 @@ The Shroud emerged while Haneulash sat beside Souvenir through a complete Flereh
 | Lament | 0.4 (Resistant) |
 | Grudge | 1.0 (Normal) |
 | Void | 1.6 (Weak) |
-| Weight | 0.8 (Endured) |
+| Weight | 0.8 (Warded) |
 | Maximum / Echo cost | 3 / 35 Sorrow Echoes |
 | Operational cost | Minor joys lose color while the cloth is active |
 | Binding cost | The wearer carries residual grief after the figure departs |

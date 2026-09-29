@@ -34,7 +34,7 @@ The Redacted Veil is a full-length suit of pale, half-transparent cloth that blu
 
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
-| 1.2 — Weak | 0.8 — Endured | 0.3 — Resistant | 1.1 — Weak |
+| 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak |
 
 **Echo Cost:** 35. **Cost:** Wearer feels faintly absent; witness may terminate use.
 

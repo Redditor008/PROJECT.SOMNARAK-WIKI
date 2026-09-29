@@ -23,7 +23,7 @@
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Endured) | 5 / 10 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 5 / 10 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes The Sorrow Seed's source sorrow feel autobiographical.
 

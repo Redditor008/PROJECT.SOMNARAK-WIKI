@@ -66,7 +66,7 @@ The first Veil condensed on acoustic baffling after a Ferrehan team endured Levi
 | Element | Multiplier | Label | Protection profile |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | Grief wets the gauze until every hidden feeling becomes heavy. |
-| Grudge | 0.8 | Endured | Directed anger catches on the outer performance instead of reaching the self cleanly. |
+| Grudge | 0.8 | Warded | Directed anger catches on the outer performance instead of reaching the self cleanly. |
 | Void | 0.3 | Resistant | Borrowed voices move across the veil while the named identity remains behind it. |
 | Weight | 1.1 | Weak | Accumulated burden collapses the separation between cloth and wearer. |
 

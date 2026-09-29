@@ -49,7 +49,7 @@ The sheer fabric drifts as if floating submerged in liquid, blurring the wearerâ
 | Lament | 0.4 | Resistant | The Shroud holds the emotional force of a desired dream at a safe edge. |
 | Grudge | 1.0 | Normal | Anger does not become safe merely because it appears in a dream. |
 | Void | 1.6 | Weak | Forgetting the waking self opens a path for absence. |
-| Weight | 0.8 | Endured | A current anchor gives a Dream observer steadier footing. |
+| Weight | 0.8 | Warded | A current anchor gives a Dream observer steadier footing. |
 
 | Field | Record |
 |---|---|

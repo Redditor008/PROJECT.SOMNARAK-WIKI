@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Unnaming* [**Debuff**] } | "You try to say your own name — and the word is gone. The name exists, but you cannot reach it." | [The Name's erasure affects the target; their identity becomes inaccessible.] | *Target suffers a Void mark; they are becoming unnamed.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Name's domain. |
 | { *The Spreading Blank* [**Debuff**] } | "First the name goes — then the face, then the voice — and soon, the proof you existed at all." | [The Name's erasure extends; the target's existence is fading.] | *Target loses clarity; they are being forgotten in real-time.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Erasure Strike* [**Attack**] } | "The forgotten name solidifies into a weapon — a blade made of nothing, cutting what is left of identity." | [A void-blade of erased identity strikes.] | *Inflicts Pale White damage; the strike removes a piece of self.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Name is disturbed. |
+| { *The Erasure Strike* [**Attack**] } | "The forgotten name solidifies into a weapon — a blade made of nothing, cutting what is left of identity." | [A void-blade of erased identity strikes.] | *Inflicts Void damage; the strike removes a piece of self.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Name is disturbed. |
 | { *The Total Unnaming* [**Attack**] } | "Every trace of the name — every record, every memory of it — erased at once." | [The Name's complete erasure removes all evidence of existence.] | *A heavy Void of non-existence; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Name is forced. |
 | { *Everyone Is Forgotten* [**Ultimate**] } | "Now no one can remember their own name — and without names, people become voids." | [The Name extends its erasure across the whole field.] | *All in range suffer Pale White erosion for three turns of being unnamed.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -193,7 +193,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

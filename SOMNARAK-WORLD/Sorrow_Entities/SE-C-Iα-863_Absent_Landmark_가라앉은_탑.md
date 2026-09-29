@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Sinking* [**Debuff**] } | "The floor dips — and you realize the whole tower is going down, and you with it." | [The Tower settles; the target feels the slow, inexorable drop.] | *Target suffers a Void mark; the descent has begun.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
 | { *The Drowned Bell* [**Debuff**] } | "From somewhere far below, a bell tolls — muffled, as if through water." | [A sound rises from the Tower's depths; the target hears what sank long ago.] | *Target loses clarity; the deep calls to them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target descends. |
-| { *The Pull Down* [**Attack**] } | "The tower's foundation reaches up and takes hold of your ankle." | [The Tower drags the target downward into its mass.] | *Inflicts Pale White damage; a part of the target is pulled under.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target resists the descent. |
+| { *The Pull Down* [**Attack**] } | "The tower's foundation reaches up and takes hold of your ankle." | [The Tower drags the target downward into its mass.] | *Inflicts Void damage; a part of the target is pulled under.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target resists the descent. |
 | { *The Foundations* [**Attack**] } | "The base of the tower — all the grief it was built to hold — comes up at once." | [The Tower's buried foundation erupts upward.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tower is struck or undermined. |
 | { *The Deep* [**Ultimate**] } | "The tower finishes sinking — and takes everything with it." | [The Tower completes its descent, dragging the whole field down.] | *All in range suffer Pale White erosion for three turns as all goes under.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 5

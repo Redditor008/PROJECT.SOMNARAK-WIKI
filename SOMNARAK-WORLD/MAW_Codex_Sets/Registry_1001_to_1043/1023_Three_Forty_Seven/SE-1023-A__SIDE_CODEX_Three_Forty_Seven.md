@@ -47,7 +47,7 @@ During the The Three Forty Seven Source-Trace, the field team preserved this sou
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Frozen Maul | γ Weight 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-1023-B__MAW-W_The_Frozen_Maul.md` |
-| The Frozen Mantle | γ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 3; 35 Sorrow Echoes | `SE-1023-C__MAW-S_The_Frozen_Mantle.md` |
+| The Frozen Mantle | γ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 3; 35 Sorrow Echoes | `SE-1023-C__MAW-S_The_Frozen_Mantle.md` |
 | The Frozen Minute | γ; Head; 4%; +2 stat bonus when working the source entity | `SE-1023-D__MAW-G_The_Frozen_Minute.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

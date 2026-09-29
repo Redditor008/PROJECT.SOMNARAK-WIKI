@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Guarded Perimeter* [**Debuff**] } | "You crossed a line it drew long before you arrived." | [The Bird marks the intruder; the boundary they crossed now clings to them.] | *Target suffers a hollow mark; the Void notices them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When a target enters the Bird's territory. |
 | { *The Hollow Roost* [**Debuff**] } | "It nests in an absence — and the absence spreads to you." | [The Bird's roost-drain seeps outward; colour and certainty leach from the target.] | *Target loses identity and clarity near the roost.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stays within the perimeter. |
-| { *The Talon* [**Attack**] } | "One talon, driven in, to remind you what it guards." | [A precise defensive strike — the Bird punishes the trespasser.] | *Inflicts Pale White damage, carving a percentage of the target away.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target threatens what the Bird guards. |
+| { *The Talon* [**Attack**] } | "One talon, driven in, to remind you what it guards." | [A precise defensive strike — the Bird punishes the trespasser.] | *Inflicts Void damage, carving a percentage of the target away.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target threatens what the Bird guards. |
 | { *None Shall Pass* [**Attack**] } | "It spreads its wings across the path, and the path simply ends." | [The Bird blocks and breaks whatever tries to force the line.] | *A heavy Void blow; the target's essence erodes.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the target forces the boundary. |
 | { *The Empty Aerie* [**Ultimate**] } | "It opens its roost, and the hollow swallows the whole space." | [The Bird unleashes the Void of its aerie, draining everything within reach.] | *All in range suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -200,7 +200,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

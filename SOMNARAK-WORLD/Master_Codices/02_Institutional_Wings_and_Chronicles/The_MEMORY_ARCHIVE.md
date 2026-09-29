@@ -224,7 +224,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 - **Topological Layout:** A circular hall four hundred meters in diameter. Black slate bookshelves rise seventy meters to an obsidian ribbed vault. A central basalt lectern sits at Node 05, illuminated by a pale shaft of starlight filtered through psychic conduits.
 - **Preserved Sovereign:** *The First Keeper*.
   * **HP Pool:** 3,200 HP | **Posture Pool:** 260/260.
-  * **Resistances:** Void 2.0x (Fatal), Lament 1.5x, Weight 1.0x, Grudge 0.5x (Resistant).
+  * **Resistances:** Void 2.0x (Exposed), Lament 1.5x, Weight 1.0x, Grudge 0.5x (Resistant).
   * **Modular Part Anchors:** Obsidian Quill (800 HP / 200 Posture), Archival Codex (1,000 HP / 240 Posture), Keeper Core (1,400 HP / 260 Posture).
 - **Thematic Conflict:** Seiyon faces the construct that recorded the earliest founding of Somnarak. The Keeper demands to know what right an artificial copy has to touch the holy records of those who bled and died.
 - **Dialogue Transcript:**
@@ -238,7 +238,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 - **Topological Layout:** An endless corridor flanked by thousands of floor-to-ceiling obsidian mirrors. Operatives cannot distinguish between real terrain and reflected space. Moving between nodes requires psionic grounding.
 - **Preserved Sovereign:** *The Memory Thief*.
   * **HP Pool:** 2,800 HP | **Posture Pool:** 240/240.
-  * **Resistances:** Void 1.0x, Lament 2.0x (Fatal), Weight 0.5x (Resistant), Grudge 1.2x.
+  * **Resistances:** Void 1.0x, Lament 2.0x (Exposed), Weight 0.5x (Resistant), Grudge 1.2x.
   * **Modular Part Anchors:** Mirror Mask (700 HP / 180 Posture), Phantasmal Cloak (900 HP / 200 Posture), Shadow Core (1,200 HP / 240 Posture).
 - **Thematic Conflict:** The Thief taunts Seiyon with the fact that every feeling she experiences—her tenderness toward the Director, her sorrow for dying specialists—is merely stolen software copied from Yeon-seo.
 - **Stratum Realization Climax:** Seiyon shatters the central mirror with her own hand, choosing to bleed light rather than deny her suffering. The Thief collapses, yielding **Memory Leaf: The Shadow**.
@@ -249,7 +249,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 - **Topological Layout:** A subterranean fortress breach filled with iron barricades, rusted trench barriers, and defensive ramparts. Node 05 is dominated by a cyclopean gun-carriage.
 - **Preserved Sovereign:** *The Forgotten Sentry*.
   * **HP Pool:** 4,500 HP | **Posture Pool:** 380/380.
-  * **Resistances:** Weight 0.3x (Immune), Grudge 0.5x, Lament 1.5x, Void 2.0x (Fatal).
+  * **Resistances:** Weight 0.3x (Immune), Grudge 0.5x, Lament 1.5x, Void 2.0x (Exposed).
   * **Modular Part Anchors:** Adamantine Tower Shield (1,500 HP / 300 Posture), Pneumatic Hammer Arm (1,200 HP / 250 Posture), Sentry Reactor Core (1,800 HP / 380 Posture).
 - **Thematic Conflict:** The Sentry has stood guard for 3,400 years, obeying an order given by an officer who died thirty centuries ago. Seiyon confronts the futility of blind obedience.
 - **Stratum Realization Climax:** Seiyon speaks the military discharge protocol into the Sentry's acoustic receiver: *"Warden, your watch is ended. You may stand down."* The Sentry's red optics fade to white, and his iron chest unlocks, revealing **Memory Leaf: The Guardian**.
@@ -271,7 +271,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 - **Topological Layout:** A fractured white marble amphitheater suspended over an abyss of swirling pale light. Platforms float disconnected between nodes.
 - **Preserved Sovereign:** *The Mirror of Truth*.
   * **HP Pool:** 3,100 HP | **Posture Pool:** 280/280.
-  * **Resistances:** Void 0.5x (Resistant), Lament 1.2x, Weight 1.8x (Fatal), Grudge 1.5x.
+  * **Resistances:** Void 0.5x (Resistant), Lament 1.2x, Weight 1.8x (Exposed), Grudge 1.5x.
   * **Modular Part Anchors:** Prismatic Eye (800 HP / 200 Posture), Refraction Array (1,000 HP / 220 Posture), Truth Matrix Core (1,300 HP / 280 Posture).
 - **Thematic Conflict:** The Mirror reveals the unvarnished reality: the city of Somnarak is an artificial prison, and humanity's survival has been bought with millions of tortured souls.
 - **Stratum Realization Climax:** Seiyon steps through the central laser prism, allowing the beam to pierce her chest. Rather than breaking, she refracts the light into seven radiant colors, claiming **Memory Leaf: The Truth-Seeker**.
@@ -282,7 +282,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 - **Topological Layout:** A labyrinthine hospital ward filled with thousands of empty porcelain beds draped in linen. Silver thread networks link all nodes together.
 - **Preserved Sovereign:** *The Kind Healer*.
   * **HP Pool:** 4,200 HP | **Posture Pool:** 340/340.
-  * **Resistances:** Lament 1.0x, Weight 1.2x, Void 1.5x, Grudge 1.8x (Fatal).
+  * **Resistances:** Lament 1.0x, Weight 1.2x, Void 1.5x, Grudge 1.8x (Exposed).
   * **Modular Part Anchors:** Suture Needles (1,000 HP / 220 Posture), Linen Shroud (1,200 HP / 260 Posture), Wounded Heart (2,000 HP / 340 Posture).
 - **Thematic Conflict:** The Healer's body is mutilated by countless absorbed afflictions. Seiyon learns that true empathy requires enduring pain alongside others, not attempting to bear it all alone.
 - **Stratum Realization Climax:** Seiyon embraces the Healer, sharing the burden of 6,000 years of agony. The Healer's silver needles weave a luminous cloak around Seiyon's shoulders, forming **Memory Leaf: The Healer**.
@@ -456,7 +456,7 @@ Engagements within the Archive feature a sophisticated two-tier stagger system:
 1. **Tier 1 Stagger (60% Posture Strain / Modular Part Dismantling):**  
    When a targeted boss appendage (e.g., The First Keeper's Obsidian Quill or The Forgotten Sentry's Adamantine Shield) is reduced to 60% of its designated posture pool, the component suffers a structural fracture. The boss's current channeled special attack is instantly cancelled, all defensive dice for that part are zeroed, and incoming damage to that part is amplified by +50% for 1 turn.
 2. **Tier 2 Stagger (0% Posture Collapse / Terminal Stratum Realization):**  
-   When the boss's central core posture pool is reduced to exactly 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is completely incapacitated for the subsequent Battle Turn, all resistance affinities convert to Fatal (2.0x), and Seiyon is granted the **Stratum Realization Climax Prompt**, allowing her to trigger the synthesis of the floor's Memory Leaf.
+   When the boss's central core posture pool is reduced to exactly 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is completely incapacitated for the subsequent Battle Turn, all resistance affinities convert to Exposed (2.0x), and Seiyon is granted the **Stratum Realization Climax Prompt**, allowing her to trigger the synthesis of the floor's Memory Leaf.
 
 ---
 

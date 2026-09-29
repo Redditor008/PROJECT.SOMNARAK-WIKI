@@ -25,7 +25,7 @@
 | - Total Health (HP): 3,600 HP | Posture Pool: 280/280                  |
 | - Stagger 1 Proc : 60% Posture Strain (168 Posture) / Daggers Break    |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)      |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 1.0x, Grudge    |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Weight 1.0x, Grudge  |
 |   0.5x                                                                 |
 +------------------------------------------------------------------------+
 | TARGETABLE MEMORY ANCHORS:                                             |
@@ -151,8 +151,8 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Stasis Caliper: Clamp Lock]`. Holds 1 AP in Guard.
   * The Memory Thief (Speed 7 -> 4 AP, Feather Ephemera delta +2, Crit +35%): Steps to Node 04. Spends 2 AP on `[Glass Dagger: Identity Siphon]`. Spends 2 AP on `[Mirage Ambush]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 04)**: The Memory Thief lunges from the mirrors with `[Glass Dagger: Identity Siphon]` (Base 17 + 2 Coins = 27 Power, Pierce/Lament).
-    * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 20 + 2 Coins = 32 Power, Holographic Shield).
+  * **Clash 1 (Node 02 to 04)**: The Memory Thief lunges from the mirrors with `[Glass Dagger: Identity Siphon]` (Base 17 + 2 Lots = 27 Power, Pierce/Lament).
+    * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 20 + 2 Lots = 32 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (32 vs 27)!
     * Seiyon parries both glass blades simultaneously; the high-frequency vibration shatters against the holographic barrier (`[P3: Parry/Protection]`).
     * Seiyon reflects **210 kinetic tremor damage** back into the daggers, inflicting +48 Posture Strain!
@@ -201,11 +201,11 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Stasis Clamp]`. Holds 1 AP in Guard.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 04)**: The Memory Thief executes `[Siphon of the Thousand Faces]` (Base 18 + 2 Coins = 26 Power, Piercing Void).
-    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 24 + 3 Coins Heads = 42 Power, Void Slash).
+  * **Clash 1 (Node 03 to 04)**: The Memory Thief executes `[Siphon of the Thousand Faces]` (Base 18 + 2 Lots = 26 Power, Piercing Void).
+    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 24 + 3 Lots Marked = 42 Power, Void Slash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (42 vs 26)!
     * Seiyon slices through the twin glass daggers at the hilt; the crystalline blades detonate into thousands of harmless shards!
-    * Deals **690 Critical Void damage** (Fatal 2.0x proc!)!
+    * Deals **690 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Glass Mnemonic Daggers are completely destroyed (**Daggers HP: 0/900** credit)!
     * **EFFECT**: Boss identity siphon attack permanently disabled; boss permanently loses 1 Speed Slot!
   * **Facemask Shield Damage**:
@@ -253,8 +253,8 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Pneumatic Ram]`. Holds 1 AP in Guard.
   * Resonant Lens: Focuses sensor pulse on the porcelain mask.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 04)**: The Memory Thief emits `[Mirage Distortion Wail]` (Base 17 + 2 Coins = 25 Power, Area Lament).
-    * Seiyon executes `[Prismatic Needle: Core Pierce]` (Base 22 + 2 Coins = 34 Power, High-Precision Pierce).
+  * **Clash 1 (Node 03 to 04)**: The Memory Thief emits `[Mirage Distortion Wail]` (Base 17 + 2 Lots = 25 Power, Area Lament).
+    * Seiyon executes `[Prismatic Needle: Core Pierce]` (Base 22 + 2 Lots = 34 Power, High-Precision Pierce).
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon's needle strikes the porcelain mask directly between the eyes!
     * The Facemask Veil shatters into chalk-white dust, revealing the hollow, swirling shadow core beneath!
@@ -303,7 +303,7 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
   * Mnemonic Drone: Delivers `[Pneumatic Sapper Ground Shockwave]` (3 AP).
   * Resonant Lens: Broadcasts `[Harmonic Clarity Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the shadow core for **740 Void damage** (Fatal 2.0x proc!)!
+  * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the shadow core for **740 Void damage** (Exposed 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining mask fragments for **360 Pierce damage**!
   * Drone's `[Ground Shockwave]`: Smashes the mirror footing for **180 Blunt damage**!
   * Lens's `[Clarity Wave]`: Disperses shadow smoke for **120 Void damage**!
@@ -347,15 +347,15 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Mirage Cataclysm & The True Reflection)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The Thief awakens in existential panic; thousands of mirrors shatter, unleashing a blinding blizzard of reflected faces!
-  * Boss Special Skill: `[Hall of a Thousand Stolen Faces]` (Identity Erosion Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Hall of a Thousand Stolen Faces]` (Identity Erosion Cataclysm, 3 Lots).
   * Seiyon activates Relic Overdrive: `[SEVERANCE OF THE BORROWED SHADOW — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 9 -> 5 AP [Overdrive]): Steps forward to Node 04, raising her prismatic blades into a cross.
   * Mnemonic Drone: Deploys prismatic damping bubble at Node 06.
   * Weaver Array: Anchors reality integrity across the gallery.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The Memory Thief unleashes `[Hall of a Thousand Stolen Faces]` (Base 21 + 3 Coins = 32 Power, Area Pale/Identity Drain).
-    * Seiyon clashes with `[SEVERANCE OF THE BORROWED SHADOW — MAXIMUM]` (Base 27 + 3 Coins Heads = 46 Power, Transcendent Clarity).
+  * **Clash 1 (Node 04 to 05)**: The Memory Thief unleashes `[Hall of a Thousand Stolen Faces]` (Base 21 + 3 Lots = 32 Power, Area Pale/Identity Drain).
+    * Seiyon clashes with `[SEVERANCE OF THE BORROWED SHADOW — MAXIMUM]` (Base 27 + 3 Lots Marked = 46 Power, Transcendent Clarity).
     * **Clash Outcome**: SEIYON OVERWHELMING RELIC CLASH WIN (46 vs 32)!
     * Seiyon's cross-slash sends a blinding sheet of prismatic light through the gallery (`[P3: Parry/Protection]`).
     * Every false reflection in the glass dissolves into clean, transparent crystal!

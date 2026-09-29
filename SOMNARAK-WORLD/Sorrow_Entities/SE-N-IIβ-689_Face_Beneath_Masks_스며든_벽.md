@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The New Brick* [**Debuff**] } | "A brick appears where there was air a moment ago — and it is followed by another." | [The Wall extends; new masonry grows toward the target.] | *Target suffers a Void mark; the wall is closing in.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the space. |
 | { *The Shrinking Room* [**Debuff**] } | "The walls move inward — slow enough to doubt, fast enough to trap." | [The Wall constricts the space; the target feels the bounds tightening.] | *Target loses clarity; there is less room every moment.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Falling Block* [**Attack**] } | "A brick tears free and flies — heavy, precise, aimed." | [A block of spreading wall launches at the target.] | *Inflicts Pale White damage; a chunk of enclosure sheared off.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Wall is attacked. |
+| { *The Falling Block* [**Attack**] } | "A brick tears free and flies — heavy, precise, aimed." | [A block of spreading wall launches at the target.] | *Inflicts Void damage; a chunk of enclosure sheared off.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Wall is attacked. |
 | { *The Total Enclosure* [**Attack**] } | "The walls meet — and now you are inside, and the inside is very small." | [The Wall seals completely around the target.] | *A heavy Void crush; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Wall is forced inward. |
 | { *Walls Within Walls* [**Ultimate**] } | "The walls do not stop at one room — they divide, and divide, until everyone is alone in a cell." | [The Wall subdivides the entire field into tiny sealed spaces.] | *All in range suffer Pale White erosion for three turns in the shrinking cells.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Softening* [**Debuff**] } | "The stone goes soft — like wax, like grief given form and left in the sun." | [The Tower's structure loses cohesion; the target feels their own solidity failing.] | *Target suffers a Void mark; definition is dissolving.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
 | { *The Sagging* [**Debuff**] } | "The tower leans — not from wind, but from its own weight becoming too much to hold a shape." | [The Tower deforms; the target senses the instability spreading.] | *Target loses clarity; they cannot rely on anything solid.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target climbs the Tower. |
-| { *The Drip* [**Attack**] } | "A glob of melted tower-stone falls — heavy, hot, formless." | [A mass of semi-liquid structure drops onto the target.] | *Inflicts Pale White damage; the impact dissolves a portion of defense.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tower is struck. |
+| { *The Drip* [**Attack**] } | "A glob of melted tower-stone falls — heavy, hot, formless." | [A mass of semi-liquid structure drops onto the target.] | *Inflicts Void damage; the impact dissolves a portion of defense.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Tower is struck. |
 | { *The Full Melt* [**Attack**] } | "The entire tower loses its shape at once — a waterfall of liquid stone." | [The Tower liquefies completely, cascading down.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Tower is undermined. |
 | { *The Puddle City* [**Ultimate**] } | "Every building softens, sags, and melts — and the city becomes a puddle." | [The Tower's melt spreads to every structure in the field.] | *All in range suffer Pale White erosion for three turns in the molten city.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -235,7 +235,7 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 5

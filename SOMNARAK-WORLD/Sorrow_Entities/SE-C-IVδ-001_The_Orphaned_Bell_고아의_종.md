@@ -309,7 +309,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 

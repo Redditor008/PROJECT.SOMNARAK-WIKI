@@ -43,7 +43,7 @@ The Shroud appeared at the Garden rim after a witness circle remained with a mou
 | Lament | 0.4 | Resistant | The folds distribute sorrow in layers instead of a single flood. |
 | Grudge | 1.0 | Normal | Anger is not water and does not move through the Shroud cleanly. |
 | Void | 1.6 | Weak | An absence cannot be shared if it has no one left to witness it. |
-| Weight | 0.8 | Endured | The cloth gives the body a steadier footing under burden. |
+| Weight | 0.8 | Warded | The cloth gives the body a steadier footing under burden. |
 
 | Field | Record |
 |---|---|

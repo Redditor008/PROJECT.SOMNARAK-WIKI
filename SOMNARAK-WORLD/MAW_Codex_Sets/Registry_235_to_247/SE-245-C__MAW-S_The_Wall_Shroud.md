@@ -26,7 +26,7 @@ The Wall Shroud is a wrapping shroud of blue Han-silk that carries faint painted
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Endured | 4 / 20 Echoes |
+| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 4 / 20 Echoes |
 
 **Listener’s Breath:** The Shroud distributes resonant Lament across its painted mouths, preserving the wearer’s breathing and Clarity through a long chorus.
 

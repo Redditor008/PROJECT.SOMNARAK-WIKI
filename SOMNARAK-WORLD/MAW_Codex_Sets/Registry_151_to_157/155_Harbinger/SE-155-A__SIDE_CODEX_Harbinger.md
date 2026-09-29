@@ -114,7 +114,7 @@ The set provides force, concealment, and deadline awareness around debt pressure
 | Field | Record |
 |---|---|
 | Lament / Grudge | 1.0 — Normal / 1.0 — Normal |
-| Void / Weight | 1.5 — Weak / 0.5 — Endured |
+| Void / Weight | 1.5 — Weak / 0.5 — Warded |
 | Maximum Amount / Echo Cost | 4 — Limited / 20 Sorrow Echoes |
 | Primary Cost | The wearer becomes difficult for others to notice or remember. |
 

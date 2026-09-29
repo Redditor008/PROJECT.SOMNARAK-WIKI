@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Still Pursuer* [**Debuff**] } | "Your shadow has frozen — locked to the ground — and no matter where you go, it stays, watching." | [The Shadow freezes in place; the target's own shadow becomes an anchor.] | *Target suffers a Void mark; their shadow is pinned and watching.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Shadow freezes. |
 | { *The Cold Trail* [**Debuff**] } | "Where the frozen shadow was, frost remains — and the frost follows you, spreading." | [The Shadow's cold spreads; wherever the target steps, ice forms.] | *Target loses clarity; the cold is tracking them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target moves away. |
-| { *The Ice Spike* [**Attack**] } | "The frozen shadow extends one sharp, dark spike toward your ankle." | [An ice-shadow spike launches.] | *Inflicts Pale White damage; the cold strike severs a shadow-link.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shadow is probed. |
+| { *The Ice Spike* [**Attack**] } | "The frozen shadow extends one sharp, dark spike toward your ankle." | [An ice-shadow spike launches.] | *Inflicts Void damage; the cold strike severs a shadow-link.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shadow is probed. |
 | { *The Full Freeze* [**Attack**] } | "The frozen shadow expands — covering the ground, the walls, and everything between you and escape." | [The Shadow's permafrost erupts in all directions.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shadow is shattered. |
 | { *The Shadowless Field* [**Ultimate**] } | "Every shadow freezes — and without moving shadows, the light itself goes cold and permanent." | [The Shadow extends its freeze across the whole field.] | *All in range suffer Pale White erosion for three turns of frozen shadows.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

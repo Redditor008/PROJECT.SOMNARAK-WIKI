@@ -25,7 +25,7 @@
 | - Total Health (HP): 4,000 HP | Posture Pool: 300/300                  |
 | - Stagger 1 Proc : 60% Posture Strain (180 Posture) / Halberd Break    |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)      |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 0.5x, Grudge    |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Weight 0.5x, Grudge  |
 |   0.5x                                                                 |
 +------------------------------------------------------------------------+
 | TARGETABLE MEMORY ANCHORS:                                             |
@@ -154,8 +154,8 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Hydraulic Sapper: Anchor]`. Holds 1 AP in Guard.
   * The Forgotten Soldier (Speed 5 -> 3 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Piston Halberd Cleave]`. Spends 1 AP on `[Tower Aegis Guard]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: The Forgotten Soldier sweeps with `[Piston Halberd Cleave]` (Base 18 + 2 Coins = 28 Power, Heavy Kinetic/Slash).
-    * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 21 + 2 Coins = 33 Power, Tower Shield).
+  * **Clash 1 (Node 02 to 05)**: The Forgotten Soldier sweeps with `[Piston Halberd Cleave]` (Base 18 + 2 Lots = 28 Power, Heavy Kinetic/Slash).
+    * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 21 + 2 Lots = 33 Power, Tower Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * The massive tungsten halberd slams into Seiyon's holographic shield; the concussive shockwave reflects harmlessly into the stone floor (`[P3: Parry/Protection]`).
     * Seiyon reflects **240 kinetic tremor damage** into the halberd shaft, inflicting +52 Posture Strain!
@@ -206,12 +206,12 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Piston Ram Hinge Strike]`.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: The Forgotten Soldier executes `[Fortress Breaker Cleave]` (Base 18 + 2 Coins = 26 Power, Heavy Kinetic).
-    * Seiyon clashes with `[Prismatic Stiletto: Pneumatic Severance]` (Base 25 + 3 Coins Heads = 43 Power, Void Slash).
+  * **Clash 1 (Node 03 to 05)**: The Forgotten Soldier executes `[Fortress Breaker Cleave]` (Base 18 + 2 Lots = 26 Power, Heavy Kinetic).
+    * Seiyon clashes with `[Prismatic Stiletto: Pneumatic Severance]` (Base 25 + 3 Lots Marked = 43 Power, Void Slash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (43 vs 26)!
     * Seiyon slices through the halberd's high-pressure hydraulic hose; the compression cylinder explodes violently!
     * Drone's `[Piston Ram Hinge Strike]` smashes the wrist hinge, snapping the weapon completely!
-    * Deals **760 Critical Void/Blunt damage** (Fatal 2.0x proc!)!
+    * Deals **760 Critical Void/Blunt damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Heavy Piston Halberd is completely destroyed (**Halberd HP: 0/1,000** credit)!
     * **EFFECT**: Boss kinetic cleave permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Tower Aegis Damage**:
@@ -254,15 +254,15 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 
 ### Turn 03 Action Resolution Log (First Stagger Proc & Tower Aegis Breach)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Disarmed of its weapon, the Soldier charges forward with `[Tower Aegis Shield Slam]` (Heavy Weight, 2 Coins).
+  * Disarmed of its weapon, the Soldier charges forward with `[Tower Aegis Shield Slam]` (Heavy Weight, 2 Lots).
   * Seiyon gains `Mnemonic Surge` (+2 Speed -> Net Speed 8, 4 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Prismatic Counter-Thrust]`. Spends 2 AP on `[Core Sapper]`.
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Sapper Lever]`.
   * Resonant Lens: Focuses sensor pulse on the shield's basalt bracket.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: The Forgotten Soldier slams with `[Tower Aegis Shield Slam]` (Base 17 + 2 Coins = 25 Power, Heavy Weight).
-    * Seiyon clashes with `[Prismatic Counter-Thrust]` (Base 22 + 2 Coins = 34 Power, Tower Shield).
+  * **Clash 1 (Node 03 to 05)**: The Forgotten Soldier slams with `[Tower Aegis Shield Slam]` (Base 17 + 2 Lots = 25 Power, Heavy Weight).
+    * Seiyon clashes with `[Prismatic Counter-Thrust]` (Base 22 + 2 Lots = 34 Power, Tower Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon's shield meets the three-ton basalt slab; the kinetic impact shudders through the iron chamber!
     * Drone levers its sapper spike into the retaining bracket; the massive shield pops off its arm mounts, crashing to the floor!
@@ -313,7 +313,7 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
   * Mnemonic Drone: Delivers `[Hydraulic Ram Smashing Knee Brackets]` (3 AP).
   * Resonant Lens: Focuses `[Harmonic Ley-Resonance]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Seiyon's `[Void Execution Flurry]`: Plunges through the clockwork core for **820 Void damage** (Fatal 2.0x proc!)!
+  * Seiyon's `[Void Execution Flurry]`: Plunges through the clockwork core for **820 Void damage** (Exposed 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining shield fragments for **380 Pierce damage**!
   * Drone's `[Hydraulic Ram]`: Crushes the armor knee struts for **210 Blunt damage**!
   * Lens's `[Harmonic Ley-Resonance]`: Vibrates the exposed cogs for **140 Void damage**!
@@ -354,15 +354,15 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Clockwork Cataclysm & The Unbroken Sentinel)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The Soldier awakens in desperate mechanical anguish; all internal boiler relief valves blow open simultaneously!
-  * Boss Special Skill: `[Overheated Clockwork Blast]` (Tectonic Steam Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Overheated Clockwork Blast]` (Tectonic Steam Cataclysm, 3 Lots).
   * Seiyon activates Relic Overdrive: `[VOW OF THE UNBROKEN SENTINEL — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 9 -> 5 AP [Overdrive]): Steps directly to Node 04 before the automaton, planting her holographic tower shield into the iron plating.
   * Mnemonic Drone: Locks stasis anchors around the perimeter at Node 06.
   * Weaver Array: Dispels residual thermal tremors.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The Forgotten Soldier unleashes `[Overheated Clockwork Blast]` (Base 21 + 3 Coins = 33 Power, Area Weight/Heat).
-    * Seiyon clashes with `[VOW OF THE UNBROKEN SENTINEL — MAXIMUM]` (Base 28 + 3 Coins Heads = 47 Power, Supreme Kinetic Fortress).
+  * **Clash 1 (Node 04 to 05)**: The Forgotten Soldier unleashes `[Overheated Clockwork Blast]` (Base 21 + 3 Lots = 33 Power, Area Weight/Heat).
+    * Seiyon clashes with `[VOW OF THE UNBROKEN SENTINEL — MAXIMUM]` (Base 28 + 3 Lots Marked = 47 Power, Supreme Kinetic Fortress).
     * **Clash Outcome**: SEIYON OVERWHELMING RELIC CLASH WIN (47 vs 33)!
     * The scalding steam and shrapnel wash harmlessly over Seiyon's shimmering golden barrier (`[P3: Parry/Protection]`).
     * Seiyon steps through the steam, placing her hand on the soldier's scorching breastplate: *"Your shift is finished, soldier. You held the line."*

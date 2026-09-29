@@ -116,7 +116,7 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 - **Grade:** Fragment (Rank III)
 - **Resistances:**
   - 🔴 **Grudge** (Physical): 1.0 (Normal)
-  - 🔵 **Lament** (Mental): 0.8 (Endured)
+  - 🔵 **Lament** (Mental): 0.8 (Warded)
   - ⚪ **Void** (Conceptual): 0.6 (Resistant)
   - ⚫ **Weight** (Crushing): 1.2 (Vulnerable)
 - **Requirement:** Composure Level II, Clarity Level II

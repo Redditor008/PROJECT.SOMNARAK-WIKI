@@ -45,7 +45,7 @@ The Melting Veil is a pale gossamer shroud of fine Han thread, cut long enough t
 | Element | Multiplier | Label | Protection / failure reason |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | Grief cannot be recognized only through a name thread. |
-| Grudge | 0.8 | Endured | Anger loses force when it cannot define the wearer for them. |
+| Grudge | 0.8 | Warded | Anger loses force when it cannot define the wearer for them. |
 | Void | 0.3 | Resistant | The Veil preserves a changing but chosen identity boundary. |
 | Weight | 1.1 | Weak | The burden of old selves remains tangible. |
 

@@ -201,7 +201,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
 - Void: 1.5 (Weak)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 

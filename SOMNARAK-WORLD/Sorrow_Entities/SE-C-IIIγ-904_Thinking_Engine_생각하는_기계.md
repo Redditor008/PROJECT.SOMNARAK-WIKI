@@ -232,7 +232,7 @@ The escalation pattern is specific to Thinking Engine: it is not a generic breac
 
 **Appearance:** a flowing veil of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Endured)
+**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Lament damage, protecting against the mind register of sorrow.
 

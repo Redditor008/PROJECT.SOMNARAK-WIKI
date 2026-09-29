@@ -27,7 +27,7 @@ The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Endured) | 2 / 45 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Devouring Bloom's source sorrow feel autobiographical.
 

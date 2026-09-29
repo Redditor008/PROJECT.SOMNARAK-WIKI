@@ -26,7 +26,7 @@
 | - Total Health (HP): 5,200 HP | Posture Pool: 360/360                  |
 | - Stagger 1 Proc : 60% Posture Strain (216 Posture) / Needle Break     |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)      |
-| - Resistances : Void 2.0x (Fatal), Heat 1.5x, Lament 0.5x, Weight      |
+| - Resistances : Void 2.0x (Exposed), Heat 1.5x, Lament 0.5x, Weight    |
 |   0.5x                                                                 |
 +------------------------------------------------------------------------+
 | TARGETABLE MEMORY ANCHORS:                                             |
@@ -154,8 +154,8 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Thermal De-Sedation Flare]`. Holds 1 AP in Guard.
   * The Kind Healer (Speed 7 -> 4 AP, Palliative Speed +1): Steps to Node 04. Spends 2 AP on `[Euthanasia Needle: Painless Thrust]`. Spends 2 AP on `[Sterile Shroud]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 04)**: The Kind Healer lunges with `[Euthanasia Needle: Painless Thrust]` (Base 18 + 2 Coins = 28 Power, Piercing Pale/Sedative).
-    * Seiyon intercepts with `[Prismatic Aegis: Deflection]` (Base 21 + 2 Coins = 33 Power, Holographic Shield).
+  * **Clash 1 (Node 02 to 04)**: The Kind Healer lunges with `[Euthanasia Needle: Painless Thrust]` (Base 18 + 2 Lots = 28 Power, Piercing Pale/Sedative).
+    * Seiyon intercepts with `[Prismatic Aegis: Deflection]` (Base 21 + 2 Lots = 33 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Seiyon's shield deflects the silver syringe array cleanly; the pressurized pale sedative discharges into the floor tiles (`[P3: Parry/Protection]`).
     * Seiyon reflects **260 kinetic tremor damage** into the needle manifold, inflicting +56 Posture Strain!
@@ -204,12 +204,12 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Thermal Torch]`. Holds 1 AP in Guard.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 04)**: The Kind Healer channels `[Lullaby of the Pale Void]` (Base 19 + 2 Coins = 27 Power, Area Pale).
-    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 25 + 3 Coins Heads = 44 Power, Void Slash).
+  * **Clash 1 (Node 03 to 04)**: The Kind Healer channels `[Lullaby of the Pale Void]` (Base 19 + 2 Lots = 27 Power, Area Pale).
+    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 25 + 3 Lots Marked = 44 Power, Void Slash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (44 vs 27)!
     * Seiyon slices through the six silver needles at their manifold collar; all six syringes detonate into glowing pale vapor!
     * Drone superheats the remaining mounting brackets, melting the arm assembly!
-    * Deals **1,040 Critical Void/Heat damage** (Fatal 2.0x proc!)!
+    * Deals **1,040 Critical Void/Heat damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Euthanasia Needle Array is completely destroyed (**Needles HP: 0/1,300** credit)!
     * **EFFECT**: Boss sedative lullaby permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Bandage Mantle Damage**:
@@ -258,8 +258,8 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Piston Ram]`.
   * Resonant Lens: Focuses sensor pulse on the mantle's central clasp.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: The Kind Healer sweeps with `[Mantle of the Final Shroud]` (Base 18 + 2 Coins = 26 Power, Pale Wrap).
-    * Seiyon clashes with `[Prismatic Flame Slash]` (Base 24 + 2 Coins = 36 Power, Heat/Void).
+  * **Clash 1 (Node 03 to 05)**: The Kind Healer sweeps with `[Mantle of the Final Shroud]` (Base 18 + 2 Lots = 26 Power, Pale Wrap).
+    * Seiyon clashes with `[Prismatic Flame Slash]` (Base 24 + 2 Lots = 36 Power, Heat/Void).
     * **Clash Outcome**: Seiyon WINS THE CLASH (36 vs 26)!
     * Seiyon's thermal slash ignites the sterile bandages; thousands of meters of bleached cloth burn to bright ash in seconds!
     * Drone drives its pneumatic ram into the preservative intake valve, cracking the cooling lines!
@@ -310,7 +310,7 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
   * Mnemonic Drone: Delivers `[Pneumatic Sapper Ground Shockwave]` (3 AP).
   * Resonant Lens: Directs `[Consoling Resonance Wave]` (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the Mercy Engine for **1,060 Void damage** (Fatal 2.0x proc!)!
+  * Seiyon's `[Four-Fold Stiletto Void Flurry]`: Rips through the Mercy Engine for **1,060 Void damage** (Exposed 2.0x proc!)!
   * Seiyon's `[Mnemonic Drive]`: Slices through the remaining bandages for **480 Pierce damage**!
   * Drone's `[Ground Shockwave]`: Smashes the operating base for **250 Blunt damage**!
   * Lens's `[Solace Wave]`: Harmonizes the anesthetic field for **180 Void damage**!
@@ -351,15 +351,15 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Pale Euthanasia & Scars Overdrive)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The Healer awakens in desperate, weeping panic; all remaining anesthetic reservoirs vent at once in a blinding white fog!
-  * Boss Special Skill: `[Oblivion of the White Sleep]` (Palliative Coma Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Oblivion of the White Sleep]` (Palliative Coma Cataclysm, 3 Lots).
   * Seiyon activates Relic Overdrive: `[TESTIMONY OF THE LIVING SCAR — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 9 -> 5 AP [Overdrive]): Steps forward to Node 04, raising both hands to project an incandescent crimson and gold aura of raw, vibrant life.
   * Mnemonic Drone: Deploys prismatic deflection field at Node 06.
   * Weaver Array: Anchors life vitality across the hospice.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The Kind Healer unleashes `[Oblivion of the White Sleep]` (Base 23 + 3 Coins = 35 Power, Area Pale/Erosion).
-    * Seiyon clashes with `[TESTIMONY OF THE LIVING SCAR — MAXIMUM]` (Base 30 + 3 Coins Heads = 51 Power, Transcendent Life).
+  * **Clash 1 (Node 04 to 05)**: The Kind Healer unleashes `[Oblivion of the White Sleep]` (Base 23 + 3 Lots = 35 Power, Area Pale/Erosion).
+    * Seiyon clashes with `[TESTIMONY OF THE LIVING SCAR — MAXIMUM]` (Base 30 + 3 Lots Marked = 51 Power, Transcendent Life).
     * **Clash Outcome**: SEIYON OVERWHELMING RELIC CLASH WIN (51 vs 35)!
     * The pale, numbing fog crashes against Seiyon's burning golden aura; rather than putting her to sleep, the ether burns away in sweet, warm incense (`[P3: Parry/Protection]`).
     * Seiyon speaks with solemn authority: *"We will not sleep. We will bleed, we will remember, and we will live!"*
@@ -438,7 +438,7 @@ Behind the operating theater, the cyclopean adamantine gates rolled open with a 
 | CORE PASSIVE TRAITS:                                                   |
 | 1. Sovereign Balm    : All allies recover +10 HP and +5 SP whenever    |
 |                      Seiyon wins a clash.                              |
-| 2. Pale Transmutation: Any incoming Pale or Sedative damage is         |
+| 2. Void Transmutation: Any incoming Pale or Sedative damage is         |
 |                      converted directly into +15 Composure (SP).       |
 | 3. Living Testimony  : Allies below 50% HP gain +2 Protection and      |
 |                      +20% Posture Recovery.                            |

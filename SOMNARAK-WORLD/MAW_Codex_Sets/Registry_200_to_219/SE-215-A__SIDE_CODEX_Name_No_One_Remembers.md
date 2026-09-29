@@ -112,7 +112,7 @@ The pale Han-glass disc focuses on the difference between a witnessed identity a
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 — Weak | 0.8 — Endured | 0.3 — Resistant | 1.1 — Weak | 5 / 10 |
+| 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 5 / 10 |
 
 Cold pale Han-gossamer carries independently written names through its lining. It resists identity erasure while at least one witness-thread remains valid, but the protected wearer feels increasingly like a label other people are maintaining.
 

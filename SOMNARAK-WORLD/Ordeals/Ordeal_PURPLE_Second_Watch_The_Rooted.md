@@ -49,7 +49,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 15–30 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[15–30 Crimson (HP) -> 15 Deep Blue (Sanity) -> 15 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[15–30 Crimson (HP) -> 15 Lament (Sanity) -> 15 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Gut-Blossom (Non-Crystal, Greater-grade)
 
@@ -61,7 +61,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 20–35 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It exhales, and a mist of digestive pollen begins to break down whatever it settles on. **[20–35 Crimson (HP) -> 20 Deep Blue (Sanity) -> 20 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It exhales, and a mist of digestive pollen begins to break down whatever it settles on. **[20–35 Crimson (HP) -> 20 Lament (Sanity) -> 20 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Greater-grade)
 
@@ -73,7 +73,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 25–40 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[25–40 Crimson (HP) -> 25 Deep Blue (Sanity) -> 25 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[25–40 Crimson (HP) -> 25 Lament (Sanity) -> 25 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ### The Host (Humanoid, Greater-grade)
@@ -86,7 +86,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 16–26 per hit · Mixed |
 | **Spawn Count** | 2 |
 
-**Ability:** It exhales pollen, and the parasitic spores begin to root in the breathers. **[16–26 Crimson (HP) -> 16–26 Deep Blue (Sanity) -> 16–26 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It exhales pollen, and the parasitic spores begin to root in the breathers. **[16–26 Crimson (HP) -> 16–26 Lament (Sanity) -> 16–26 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Rot-Bloom (Amorphous, Greater-grade)
 
@@ -98,7 +98,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 14–22 per hit · Mixed |
 | **Spawn Count** | 1 |
 
-**Ability:** Its pollen settles, and organic matter beneath it begins to soften and transform. **[14–22 Crimson (HP) -> 14–22 Deep Blue (Sanity) -> 14–22 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** Its pollen settles, and organic matter beneath it begins to soften and transform. **[14–22 Crimson (HP) -> 14–22 Lament (Sanity) -> 14–22 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Cord-Larvae (Swarm, Greater-grade)
 
@@ -110,7 +110,7 @@ Level 3+ with M.A.W.
 | **Han Pressure [ATK]** | 7–10 per hit · Mixed |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They burrow, and once inside they turn the host own reflexes against them. **[7–10 Crimson (HP) -> 7–10 Deep Blue (Sanity) -> 7–10 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** They burrow, and once inside they turn the host own reflexes against them. **[7–10 Crimson (HP) -> 7–10 Lament (Sanity) -> 7–10 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia

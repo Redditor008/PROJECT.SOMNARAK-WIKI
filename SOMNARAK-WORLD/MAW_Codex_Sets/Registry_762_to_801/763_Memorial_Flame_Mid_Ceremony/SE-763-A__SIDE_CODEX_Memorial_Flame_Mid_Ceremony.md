@@ -47,7 +47,7 @@ During the The Memorial Flame Mid Ceremony Source-Trace, the field team preserve
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Soul-Seeking Candelabrum | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-763-B__MAW-W_The_Absent_Requiem.md` |
-| The Extinguished Mourner's Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 2; 45 Sorrow Echoes | `SE-763-C__MAW-S_The_Absent_Shroud.md` |
+| The Extinguished Mourner's Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-763-C__MAW-S_The_Absent_Shroud.md` |
 | The Purple Wick Stigma | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-763-D__MAW-G_The_Absent_Flame.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

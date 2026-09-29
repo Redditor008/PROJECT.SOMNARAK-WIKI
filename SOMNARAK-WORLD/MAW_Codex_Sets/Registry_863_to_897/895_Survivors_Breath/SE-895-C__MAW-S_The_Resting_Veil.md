@@ -27,7 +27,7 @@ The Resting Veil is the suit record of Survivors’ Breath’s set, granting res
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 (Weak) | 0.8 (Endured) | 0.3 (Resistant) | 1.1 (Weak) | 2 / 45 Sorrow Echoes |
+| 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 2 / 45 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Survivors' Breath's source sorrow feel autobiographical.
 

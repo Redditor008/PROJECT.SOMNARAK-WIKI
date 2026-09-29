@@ -26,7 +26,7 @@ The Storm Shield is a black shield-backed harness of Han steel with a canopy rid
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Endured | 3 / 35 Echoes |
+| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 Echoes |
 
 **Moving Shelter:** The Shield absorbs local Storm pressure while the wearer and protected group continue toward lower load.
 

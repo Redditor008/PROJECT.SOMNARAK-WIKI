@@ -114,7 +114,7 @@ The set provides minor structural and Weight support. It must never be issued to
 | Field | Record |
 |---|---|
 | Lament / Grudge | 1.0 — Normal / 1.0 — Normal |
-| Void / Weight | 1.5 — Weak / 0.5 — Endured |
+| Void / Weight | 1.5 — Weak / 0.5 — Warded |
 | Maximum Amount / Echo Cost | 5 — Standard / 10 Sorrow Echoes |
 | Primary Cost | The wearer feels responsible for every supported thing. |
 

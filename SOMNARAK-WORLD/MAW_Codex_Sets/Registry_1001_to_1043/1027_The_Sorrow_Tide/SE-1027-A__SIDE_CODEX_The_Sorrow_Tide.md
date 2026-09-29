@@ -47,7 +47,7 @@ During the The The Sorrow Tide Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Tide Maul | γ Weight 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-1027-B__MAW-W_The_Tide_Maul.md` |
-| The Tide Mantle | γ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 3; 35 Sorrow Echoes | `SE-1027-C__MAW-S_The_Tide_Mantle.md` |
+| The Tide Mantle | γ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 3; 35 Sorrow Echoes | `SE-1027-C__MAW-S_The_Tide_Mantle.md` |
 | The Tide Stone | γ; Head; 4%; +2 stat bonus when working the source entity | `SE-1027-D__MAW-G_The_Tide_Stone.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

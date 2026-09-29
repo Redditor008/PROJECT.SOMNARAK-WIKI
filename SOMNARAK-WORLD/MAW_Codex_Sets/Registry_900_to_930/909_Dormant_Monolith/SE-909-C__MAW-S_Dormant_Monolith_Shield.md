@@ -27,7 +27,7 @@ The Dormant Monolith Shield is the suit record of the Dormant Monolith set â€” Î
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 (Weak) | 0.8 (Endured) | 0.3 (Resistant) | 1.1 (Weak) | 2 / 45 Sorrow Echoes |
+| 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 2 / 45 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels every duty they have postponed. Continued use makes Dormant Monolith's source sorrow feel autobiographical.
 

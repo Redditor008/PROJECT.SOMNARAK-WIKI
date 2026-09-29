@@ -24,7 +24,7 @@ The Shroud formed around the journal owner at the Mirror Auction when she chose 
 | Lament | 0.4 (Resistant) |
 | Grudge | 1.0 (Normal) |
 | Void | 1.6 (Weak) |
-| Weight | 0.8 (Endured) |
+| Weight | 0.8 (Warded) |
 | Maximum / Echo cost | 2 / 45 Sorrow Echoes |
 | Operational cost | Small joys lose intensity while the Shroud contains disclosure pressure |
 | Binding cost | The wearer becomes unable to tell privacy from isolation without review |

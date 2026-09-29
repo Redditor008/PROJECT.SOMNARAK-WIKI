@@ -23,7 +23,7 @@
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Endured) | 5 / 20 Sorrow Echoes |
+| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels increasingly warm, increasingly comfortable, increasingly reluctant to take the cloak off. The comfort is not free. Continued use makes Giver of Blessing's source sorrow feel autobiographical.
 

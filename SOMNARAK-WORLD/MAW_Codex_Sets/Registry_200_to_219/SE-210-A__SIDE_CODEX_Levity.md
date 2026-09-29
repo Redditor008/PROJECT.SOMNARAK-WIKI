@@ -113,7 +113,7 @@ A near-colorless disc of lens-ground Han-glass focuses Levity’s Void signature
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 — Weak | 0.8 — Endured | 0.3 — Resistant | 1.1 — Weak | 4 / 20 |
+| 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 4 / 20 |
 
 The pale Han-gossamer lets a hostile social voice move across its surface without immediately replacing the wearer’s identity. The exchange is self-absence: the wearer survives the chorus while feeling less certain that the protected person is them.
 

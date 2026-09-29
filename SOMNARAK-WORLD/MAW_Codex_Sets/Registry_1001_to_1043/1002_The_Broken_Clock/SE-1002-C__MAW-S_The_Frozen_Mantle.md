@@ -29,7 +29,7 @@ Eight cylindrical brass pendulum weights stamped with minute indices dangle alon
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Endured) | 3 / 35 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 3 / 35 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes The Broken Clock's source sorrow feel autobiographical.
 

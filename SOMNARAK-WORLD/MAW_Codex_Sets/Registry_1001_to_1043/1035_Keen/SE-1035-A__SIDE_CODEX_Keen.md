@@ -47,7 +47,7 @@ During the The Keen Source-Trace, the field team preserved this source fact: A m
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Crying Requiem | α Lament 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-1035-B__MAW-W_The_Crying_Requiem.md` |
-| The Crying Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 5; 10 Sorrow Echoes | `SE-1035-C__MAW-S_The_Crying_Shroud.md` |
+| The Crying Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 5; 10 Sorrow Echoes | `SE-1035-C__MAW-S_The_Crying_Shroud.md` |
 | The Crying Ember | α; Tail; 5%; +1 stat bonus when working the source entity | `SE-1035-D__MAW-G_The_Crying_Ember.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

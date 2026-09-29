@@ -208,8 +208,8 @@ Director Majin establishes GBS tactical engagement in Floor 2's corridor:
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Lock Maul Thorax Breaker]`.
   * Specialist Shin (Speed 5 -> 3 AP) deploys at Node 5 (Range Band 3). Spends 2 AP to channel `[Choral Staff Cobalt Lament Wave]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Lead Chitin Beetle lunges with `[Crushing Mandible Shear]` (Base 9 + 2 Coins = 13 Power).
-  * Specialist Kang's `[Lock Maul Thorax Breaker]` (Base 12 + 2 Coins = 16 Power).
+  * Lead Chitin Beetle lunges with `[Crushing Mandible Shear]` (Base 9 + 2 Lots = 13 Power).
+  * Specialist Kang's `[Lock Maul Thorax Breaker]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Kang WINS THE CLASH (16 vs 13).
     * Kang drives the heavy maul straight into the beetle's central dorsal plate, shattering the outer shell for **54 Grudge damage** and inflicting +28 Stagger!
   * Shin channels acoustic energy directly into the rupture, dealing 40 Lament damage.
@@ -645,8 +645,8 @@ Director Majin establishes GBS tactical engagement in Floor 7's Atrium:
   * Specialist Hwang (Speed 6 -> 3 AP) advances to Node 3 (Close Range Band 2). Spends 2 AP to charge `[Apostle Scalpel Cryo-Lament Incision]`.
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Frost Shatter]`.
 - **Step 3: Clash Resolution (Node 1 to 3)**:
-  * Crimson Siphon A attempts `[Sanguine Hydraulic Siphon]` (Base 9 + 2 Coins = 13 Power).
-  * Specialist Hwang's `[Apostle Scalpel Cryo-Lament Incision]` (Base 11 + 2 Coins = 15 Power).
+  * Crimson Siphon A attempts `[Sanguine Hydraulic Siphon]` (Base 9 + 2 Lots = 13 Power).
+  * Specialist Hwang's `[Apostle Scalpel Cryo-Lament Incision]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Hwang WINS THE CLASH (15 vs 13).
     * Hwang carves through the main arterial valve with frozen precision, freezing its circulation and dealing **46 Lament damage** with +26 Stagger!
   * Noh's bayonet fires concentrated spikes from Node 5, severing external feeder tendrils.
@@ -905,7 +905,7 @@ Majin places his hand against the glass: *"The world was waiting for us to stop 
 
 > **Majin:** _"In the Black Forest... the birds judged, punished, and blinded because they believed people were inherently treacherous."_
 
-> **Zyrak:** _"And now they see people who should be killing each other sharing bread. The math broke, Majin. Their justification for the Last Murmuration just dissolved."_
+> **Zyrak:** _"And now they see people who should be killing each other sharing bread. The math broke, Majin. Their justification for the Convergence just dissolved."_
 
 > **Majin:** _"...Then do not disturb them. Let them watch."_
 
@@ -1082,8 +1082,8 @@ Director Majin establishes GBS tactical engagement in the Hydraulic Plaza:
   * Specialist Kang (Speed 6 -> 3 AP) plants his boots at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Heavy Maul Kinetic Blade-Lock]`. Remaining 1 AP in Guard.
   * Specialist Jin (Speed 6 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to ready `[Choral Bell Resonant Sonic Pulse]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Clockwork Sweeper A charges with `[High-Speed Rotary Scythe Slash]` (Base 10 + 2 Coins = 14 Power).
-  * Specialist Kang's `[Heavy Maul Kinetic Blade-Lock]` (Base 12 + 2 Coins = 16 Power).
+  * Clockwork Sweeper A charges with `[High-Speed Rotary Scythe Slash]` (Base 10 + 2 Lots = 14 Power).
+  * Specialist Kang's `[Heavy Maul Kinetic Blade-Lock]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Kang WINS THE CLASH (16 vs 14).
     * Kang locks his maul head against the whirling scythe, grinding its drive teeth to a dead halt and dealing **52 Grudge damage** with +28 Stagger!
   * Jin unleashes the *Choral Bell* from Node 5, sending acoustic shockwaves that disrupt Sweeper B's internal escapement.
@@ -1510,8 +1510,8 @@ Director Majin establishes GBS tactical engagement in the Sub-Vault Gallery:
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Grav-Shatter]`.
   * Specialist Bae (Speed 6 -> 3 AP) advances to Node 4 (Point-Blank Range Band 1). Spends 2 AP to ready `[Bulwark Maul Synchronized Slam]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 1 to 3)**:
-  * Floating Well A emits `[Intense Sanity Leeching Vortex]` (Base 10 + 2 Coins = 14 Power).
-  * Specialist Kang & Specialist Bae's `[Synchronized Dual Maul Slam]` (Base 13 + 2 Coins = 17 Power).
+  * Floating Well A emits `[Intense Sanity Leeching Vortex]` (Base 10 + 2 Lots = 14 Power).
+  * Specialist Kang & Specialist Bae's `[Synchronized Dual Maul Slam]` (Base 13 + 2 Lots = 17 Power).
   * **Resolution**: The Specialists WIN THE CLASH (17 vs 14).
     * Both heavy mauls strike the vortex core simultaneously, breaking its gravitic cohesion and dealing **68 Grudge damage** with +34 Stagger!
   * The psychic drain collapses instantly, shielding the floor's personnel.
@@ -1939,8 +1939,8 @@ Director Majin establishes GBS tactical engagement at Floor 5's drainage sub-pla
   * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Downward Mandible Smash]`.
   * Specialist Cha (Speed 5 -> 3 AP) stands at Node 4 (Range Band 2). Spends 2 AP to ready `[Forge Bracer High-Heat Thermal Spike]`. Remaining 1 AP in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Lead Trench Worm launches `[Crushing Segment Charge]` (Base 10 + 2 Coins = 14 Power).
-  * Specialist Kang's `[Heavy Maul Mandible Smash]` (Base 12 + 2 Coins = 16 Power).
+  * Lead Trench Worm launches `[Crushing Segment Charge]` (Base 10 + 2 Lots = 14 Power).
+  * Specialist Kang's `[Heavy Maul Mandible Smash]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Kang WINS THE CLASH (16 vs 14).
     * Kang's warhammer crashes directly onto the beast's mandibles, splintering the diamond edge and dealing **58 Grudge damage** with +28 Stagger!
   * Cha follows up with a thermal thrust into the exposed marrow for 44 thermal damage.
@@ -2330,7 +2330,7 @@ At 17:15, a radiant, shimmering gateway manifests in Floor 3's Archive Rotunda:
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 1x Radiant Gateway of Tomorrow                          |
-| - Attack Affinity: Pale (Max HP Sunder)                             |
+| - Attack Affinity: Void (Max HP Sunder)                             |
 | - Weakness Affinity: Balanced (All 4 Types)                         |
 +---------------------------------------------------------------------+
 | ENGAGEMENT TELEMETRY:                                               |
@@ -2378,8 +2378,8 @@ Director Majin coordinates the Four-Aspect Strike across the 10-node grid:
   * Specialist Seo (Speed 5 -> 3 AP) takes Node 4 (Close Range Band 2). Spends 2 AP to ready `[Apostle Scalpel Void Incision]` on the right pylon.
   * Specialist Hong (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to channel `[Saint Robe Pure Lament Weeping]`.
 - **Step 3: Clash Resolution (The Four-Aspect Equilibrium)**:
-  * Horizon Gateway unleashes `[Radiant Horizon Pale Wave]` (Base 12 + 2 Coins = 16 Power).
-  * Allied Quadruple Standoff (Base 14 + 2 Coins = 18 Power).
+  * Horizon Gateway unleashes `[Radiant Horizon Pale Wave]` (Base 12 + 2 Lots = 16 Power).
+  * Allied Quadruple Standoff (Base 14 + 2 Lots = 18 Power).
   * **Resolution**: The Four Operatives WIN THE CLASH (18 vs 16).
     * Kang strikes Grudge, Kim grounds Weight, Seo carves Void, and Hong channels Lament! The four elemental frequencies achieve perfect resonance, canceling the Pale pulse and dealing **74 True Elemental damage** with +36 Stagger!
 
@@ -2470,7 +2470,7 @@ Director Majin coordinates the Four-Aspect Strike across the 10-node grid:
   * The Pale Gateway recovers, pulsing `[Radiant Horizon Shockwave]` across all nodes.
   * Specialist Kim deploys *Foundation Greaves*, grounding the shockwave into the bedrock!
   * Specialist Kang deploys `[Directional Guard Absorption]`, taking 10 chip damage (HP: 130/140).
-  * Specialist Hong channels pure sorrow harmonic from the Saint Robe, canceling the Pale radiation!
+  * Specialist Hong channels pure sorrow harmonic from the Saint Robe, canceling the Void radiation!
   * Gateway HP falls to **46/420**! Posture drops to **8/200**!
 
 ---
@@ -2528,7 +2528,7 @@ Director Majin coordinates the Four-Aspect Strike across the 10-node grid:
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Archive Rotunda dimensional pressure       |
 | stabilizes.                                                         |
-| 2. Status Equilibrium : Pale sunder clears; team HP and SP at full  |
+| 2. Status Equilibrium : Void sunder clears; team HP and SP at full  |
 | capacity.                                                           |
 | 3. Containment Check : Sovereign Gateway resolved into gentle       |
 | starlight.                                                          |

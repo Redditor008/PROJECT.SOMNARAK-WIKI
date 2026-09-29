@@ -78,10 +78,10 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | {{ *Lead Sinking* [**Debuff**] }} | "The token's weight suddenly doubles, cracking the wooden desk beneath it." | [Observers feel an invisible anvil pressing down on their shoulders.] | *Target loses 8 Resolve.* | When moved without pneumatic tongs. |
-| {{ *Indenture Clank* [**Debuff**] }} | "The faint sound of counting coins and iron chains rattles from the brass." | [Old debts and missed payments echo in the operator's conscience.] | *Target takes 10 Black damage.* | When handled by an indebted operative. |
+| {{ *Indenture Clank* [**Debuff**] }} | "The faint sound of counting coins and iron chains rattles from the brass." | [Old debts and missed payments echo in the operator's conscience.] | *Target takes 10 Weight damage.* | When handled by an indebted operative. |
 | {{ *Tally Stain* [**Attack**] }} | "A dark grease of liquidated interest leaks from the center score line." | [The grease stains uniforms with indelible black marks.] | *Target suffers -10% Movement Speed.* | When examined closely. |
-| {{ *Collector's Gavel* [**Attack**] }} | "A dull, concussive thud resonates through the operator's skull." | [The sound of a gavel declaring total liquidation.] | *Inflicts 14 Black damage across Range Band 1.* | When dropped or struck. |
-| {{ *Foreclosure Implosion* [**Ultimate**] }} | "Gravitational force pulls loose paper and dust toward the octagonal core." | [The token threatens to collapse the plinth through the floor.] | *All personnel in room suffer 18 Black damage.* | When Sorrow Gauge reaches 60%. |
+| {{ *Collector's Gavel* [**Attack**] }} | "A dull, concussive thud resonates through the operator's skull." | [The sound of a gavel declaring total liquidation.] | *Inflicts 14 Weight damage across Range Band 1.* | When dropped or struck. |
+| {{ *Foreclosure Implosion* [**Ultimate**] }} | "Gravitational force pulls loose paper and dust toward the octagonal core." | [The token threatens to collapse the plinth through the floor.] | *All personnel in room suffer 18 Weight damage.* | When Sorrow Gauge reaches 60%. |
 
 ### Battle Phases
 
@@ -145,7 +145,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 
 **Duration:** Instantaneous purge; debuff clearance is permanent for current battle.
 
-**Risk:** The token is irrevocably destroyed; the user suffers 10 Black damage and wrist strain (-1 AP for 1 turn).
+**Risk:** The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn).
 
 ### Tool Use Profile — A-Relic
 
@@ -157,7 +157,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 | **Primary Effect** | Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. |
 | **Duration** | Instantaneous purge; debuff clearance is permanent for current battle. |
 | **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
-| **Risk** | The token is irrevocably destroyed; the user suffers 10 Black damage and wrist strain (-1 AP for 1 turn). |
+| **Risk** | The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
 
 **Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
@@ -168,7 +168,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 | 1 Use | Father's Broken Bond sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Snapping the octagonal brass tablet in two along its scored center line with both hands.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the crushing, suffocating realization that in somnarak, poverty is a crime that outlives the father to consume the children. during the archive vault break-in of year 4,166 in the third sump concourse registry; the relic answers only to complete commitment. | The full discharge completes: Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. All hostile entities in range suffer devastating disruption and elemental debuffs. |
 | 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
-| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The token is irrevocably destroyed; the user suffers 10 Black damage and wrist strain (-1 AP for 1 turn). |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
 
 ### Escalation Notes
 
@@ -184,7 +184,7 @@ The escalation pattern is specific to Father's Broken Bond: it is not a generic 
 | **Manifestation** | Object-Weight |
 | **Primary effect** | Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. |
 | **Duration / rate** | Instantaneous purge; debuff clearance is permanent for current battle. |
-| **Risk** | Moderate (β) Object-Weight producing Weight pressure; The token is irrevocably destroyed; the user suffers 10 Black damage and wrist strain (-1 AP for 1 turn). |
+| **Risk** | Moderate (β) Object-Weight producing Weight pressure; The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

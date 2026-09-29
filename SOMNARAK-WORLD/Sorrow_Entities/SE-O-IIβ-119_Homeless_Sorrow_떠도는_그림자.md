@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Following* [**Debuff**] } | "Your shadow moves when you do not — just a little, just enough to notice." | [The Shadow detaches and follows the target independently.] | *Target suffers a Void mark; their shadow is no longer theirs.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Shadow separates. |
 | { *The Lengthening* [**Debuff**] } | "The shadow stretches — longer than any light could cast it — reaching for things you have not reached yet." | [The Shadow extends; it reaches where the target has not yet gone.] | *Target loses clarity; their shadow knows things they do not.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target tries to outrun it. |
-| { *The Cold Touch* [**Attack**] } | "The shadow touches your shadow — and where they overlap, you go cold." | [The Shadow merges briefly with the target's, draining warmth.] | *Inflicts Pale White damage; a portion of the target's presence stolen.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shadow catches up. |
+| { *The Cold Touch* [**Attack**] } | "The shadow touches your shadow — and where they overlap, you go cold." | [The Shadow merges briefly with the target's, draining warmth.] | *Inflicts Void damage; a portion of the target's presence stolen.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shadow catches up. |
 | { *The Swallowed Shadow* [**Attack**] } | "Your shadow is gone — eaten — and without it, you are less than whole." | [The Shadow devours the target's own shadow entirely.] | *A heavy Void theft; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shadow is confronted. |
 | { *Shadowless* [**Ultimate**] } | "Now no one has a shadow — and without shadows, people are not quite people anymore." | [The Shadow consumes every shadow in the field.] | *All in range suffer Pale White erosion for three turns as they lose their shadows.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -229,7 +229,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

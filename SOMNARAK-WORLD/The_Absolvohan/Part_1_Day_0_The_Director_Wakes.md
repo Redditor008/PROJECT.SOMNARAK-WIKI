@@ -208,7 +208,7 @@ Park steps into the reinforced chamber. The six-ton pneumatic blast door seals s
 - **Work Tick 03:** Failure! Red static crackles across the diagnostic glass. The clapper strikes the rim with a hollow chime, dealing 3 White (Lament) damage. Park's SP bar flickers, dropping from 35 to 32.
 - **Work Tick 04:** Success! Park steadies his breathing, synchronizing his heartbeat to the bell's chime. +1 Han crystal.
 - **Work Tick 05:** Success! +1 Positive Han crystal generated.
-- **Work Tick 06:** Failure! A sudden cold gust rustles Park's tunic; 3 White damage sustained. SP at 29/35.
+- **Work Tick 06:** Failure! A sudden cold gust rustles Park's tunic; 3 Lament damage sustained. SP at 29/35.
 - **Work Tick 07:** Success! +1 Positive Han crystal generated.
 - **Work Tick 08:** Success! Park completes the resonant siphoning sequence.
 - **Work Result:** **6/8 Positive Han Crystals (NORMAL WORK RESULT).**
@@ -235,7 +235,7 @@ Kim enters Chamber 005. The temperature inside drops to near freezing. In the ce
 - **Work Tick 02:** Failure! The woolen shroud tightens violently, constricting Kim's ribs. Kim sustains 4 Red (Grudge) physical damage. HP drops to 34/38.
 - **Work Tick 03:** Success! Kim leans into the crushing weight, grounding the kinetic force through his shock maul. +1 Han crystal.
 - **Work Tick 04:** Success! +1 Positive Han crystal generated.
-- **Work Tick 05:** Failure! Compressive surge ruptures an armor clasp; 4 Red damage sustained. HP drops to 30/38.
+- **Work Tick 05:** Failure! Compressive surge ruptures an armor clasp; 4 Crimson damage sustained. HP drops to 30/38.
 - **Work Tick 06 through 10:** 4 Successes, 1 Failure. Kim absorbs another 4 Grudge damage, holding the line until the containment cycle terminates.
 - **Work Result:** **7/10 Positive Han Crystals (NORMAL WORK RESULT).**
 
@@ -345,7 +345,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
     * *The Voice Coin Roll:* Base Power 7 + (1 Coin Heads: +3) = **10 Clash Power**.
   * Specialist Kim unleashes `[Heavy Shock Maul Cleave]` (2 AP Cost / Grudge Affinity):
     * *Kim Passive Trigger:* `Weight Poise` active at Node 03 (+2 Base Clash Power).
-    * *Kim Coin Roll:* Base Power 8 + (2 Coins Heads: +4) = **14 Clash Power**.
+    * *Kim Coin Roll:* Base Power 8 + (2 Lots Marked: +4) = **14 Clash Power**.
   * **Clash Result**: **Specialist Kim WINS THE CLASH (14 vs 10)!**
     * The Voice's sonic beam is deflected off Kim's heavy iron pauldrons. Kim's shock maul crashes downward into the entity's cyan resonator disc with devastating kinetic force!
     * *Damage Inflicted:* 28 Grudge physical damage. The Voice HP drops from 140 to 112/140.
@@ -380,7 +380,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
   * **Specialist Park (Speed 6 -> 3 AP)**: Holds Node 04, establishing a stable firing corridor from Range Band 2. Declares `[Lament Requiem Resonant Pulse]` (Costs 2 AP). Holds 1 AP for tactical repositioning.
 - **Hostile Action**:
   * The Voice unleashes `[Crying Chorus]` (2 AP Cost / High-Frequency Sonic Beam) directed at Specialist Kim at Node 02.
-    * *The Voice Roll:* Base Power 9 + (2 Coins Heads: +4) = **13 Power**.
+    * *The Voice Roll:* Base Power 9 + (2 Lots Marked: +4) = **13 Power**.
 - **Clash & Parry Resolution (Node 02 to Node 03)**:
   * Kim locks his heavy shield into the floorplates, engaging `[Directional Guard Absorption]`:
     * Shield Absorption value: 14 Points.
@@ -459,7 +459,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ##### Turn 04 Action Resolution Log (Desperation Shockwave & Guard Interception)
 - **Hostile Recovery & Desperation Protocol**:
   * The Voice recovers from Stagger Level 1 with a screech that causes the corridor light fixtures to burst into sparks.
-  * It initiates its ultimate defensive protocol: `[Shattered Soliloquy]` (A 3-Node radial acoustic pulse hitting Nodes 02, 03, and 04 with piercing Pale decay).
+  * It initiates its ultimate defensive protocol: `[Shattered Soliloquy]` (A 3-Node radial acoustic pulse hitting Nodes 02, 03, and 04 with piercing Void decay).
 - **Operative Defensive Maneuvers**:
   * **Specialist Kim (Speed 5 -> 3 AP)**:
     * Reacts instantly to protect Park. Kim spends 2 AP to drop into `[Bulwark Vanguard Stance]`, projecting his massive enforcer shield directly over Node 03.

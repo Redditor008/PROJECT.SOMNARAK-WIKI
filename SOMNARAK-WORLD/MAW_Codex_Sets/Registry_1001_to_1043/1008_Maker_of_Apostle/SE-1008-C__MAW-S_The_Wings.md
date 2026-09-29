@@ -23,7 +23,7 @@
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.6 (Endured) | 0.6 (Endured) | 0.6 (Endured) | 0.6 (Endured) | 3 / 35 Sorrow Echoes |
+| 0.6 (Warded) | 0.6 (Warded) | 0.6 (Warded) | 0.6 (Warded) | 3 / 35 Sorrow Echoes |
 
 **Operational / binding cost:** Wearing the wings for extended periods causes the wearer to feel "called" — a pull toward purpose they cannot identify. Continued use makes Maker of Apostle's source sorrow feel autobiographical.
 

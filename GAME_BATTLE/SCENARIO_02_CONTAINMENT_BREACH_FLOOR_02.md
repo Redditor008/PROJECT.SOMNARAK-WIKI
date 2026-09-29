@@ -227,7 +227,7 @@
 
 #### 3. Terminal Meltdown Trigger
 - **TERMINAL MELTDOWN ACTIVE:** The Smothering Mother lets out a mournful, human sob, her entire 10-meter frame collapsing onto the wet basalt floor at Nodes `[N07-08]`.
-- All defenses collapse to **2.0x Fatal vulnerability** across all modular parts!
+- All defenses collapse to **2.0x Exposed vulnerability** across all modular parts!
 - The entity cannot act, parry, or roll dice for the remainder of the macro-phase.
 
 ---

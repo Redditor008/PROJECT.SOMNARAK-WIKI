@@ -47,7 +47,7 @@ During the The Survivor s Span Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Bridge Maul | β Weight 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-993-B__MAW-W_The_Bridge_Maul.md` |
-| The Bridge Brace | β; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 4; 20 Sorrow Echoes | `SE-993-C__MAW-S_The_Bridge_Brace.md` |
+| The Bridge Brace | β; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 4; 20 Sorrow Echoes | `SE-993-C__MAW-S_The_Bridge_Brace.md` |
 | The Bridge Charm | β; Head; 5%; +1 stat bonus when working the source entity | `SE-993-D__MAW-G_The_Bridge_Charm.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

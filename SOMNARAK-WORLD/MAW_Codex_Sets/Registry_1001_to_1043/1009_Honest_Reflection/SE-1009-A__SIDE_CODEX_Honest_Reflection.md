@@ -47,7 +47,7 @@ During the The Honest Reflection Source-Trace, the field team preserved this sou
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Reflection Lens | α Void 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-1009-B__MAW-W_The_Reflection_Lens.md` |
-| The Reflection Veil | α; L/G/V/W 1.2 (Weak)/0.8 (Endured)/0.3 (Resistant)/1.1 (Weak); max 5; 10 Sorrow Echoes | `SE-1009-C__MAW-S_The_Reflection_Veil.md` |
+| The Reflection Veil | α; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 5; 10 Sorrow Echoes | `SE-1009-C__MAW-S_The_Reflection_Veil.md` |
 | The Reflection Shard | α; Head; 5%; +1 stat bonus when working the source entity | `SE-1009-D__MAW-G_The_Reflection_Shard.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

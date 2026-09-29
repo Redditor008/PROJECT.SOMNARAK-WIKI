@@ -43,7 +43,7 @@ The Shroud formed when Emberling watched a worker move away from the chair only 
 | Lament | 0.4 | Resistant | The lining holds the sharpest edge of abandonment pressure. |
 | Grudge | 1.0 | Normal | Anger must still be met as anger, not warmed away. |
 | Void | 1.6 | Weak | Emotional absence makes a shared hearth impossible to sense. |
-| Weight | 0.8 | Endured | A known return route gives the body steadier ground. |
+| Weight | 0.8 | Warded | A known return route gives the body steadier ground. |
 
 | Field | Record |
 |---|---|

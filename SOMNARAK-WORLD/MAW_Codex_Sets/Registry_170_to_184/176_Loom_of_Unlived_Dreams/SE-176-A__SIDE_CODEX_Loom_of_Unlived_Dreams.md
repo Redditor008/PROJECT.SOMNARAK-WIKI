@@ -115,7 +115,7 @@ The original Loom is an O-Relic. Its M.A.W. set comes from self-released dream t
 | Field | Record |
 |---|---|
 | Lament / Grudge | 0.4 — Resistant / 1.0 — Normal |
-| Void / Weight | 1.6 — Weak / 0.8 — Endured |
+| Void / Weight | 1.6 — Weak / 0.8 — Warded |
 | Maximum Amount / Echo Cost | 3 — Standard / 35 Sorrow Echoes |
 | Primary Cost | The wearer becomes numb to minor joys after prolonged Dream immersion. |
 

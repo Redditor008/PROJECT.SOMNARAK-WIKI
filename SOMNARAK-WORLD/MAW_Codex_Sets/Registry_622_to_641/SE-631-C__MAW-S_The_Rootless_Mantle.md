@@ -24,7 +24,7 @@ The Mantle formed around a resident who stayed in the opened stall by choice whi
 | Lament | 1.0 (Normal) |
 | Grudge | 1.0 (Normal) |
 | Void | 1.5 (Weak) |
-| Weight | 0.5 (Endured) |
+| Weight | 0.5 (Warded) |
 | Maximum / Echo cost | 5 / 10 Sorrow Echoes |
 | Operational cost | Constant fatigue while holding current position |
 | Binding cost | Rest becomes difficult unless the anchor is reaffirmed |

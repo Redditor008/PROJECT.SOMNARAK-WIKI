@@ -47,7 +47,7 @@ During the The Weighted Silence Source-Trace, the field team preserved this sour
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Weighted Silence's Edge | γ Void 14–20; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-924-B__MAW-W_Weighted_Silence_s_Edge.md` |
-| Weighted Silence's Veil | γ; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-924-C__MAW-S_Weighted_Silence_s_Veil.md` |
+| Weighted Silence's Veil | γ; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-924-C__MAW-S_Weighted_Silence_s_Veil.md` |
 | Weighted Silence's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-924-D__MAW-G_Weighted_Silence_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

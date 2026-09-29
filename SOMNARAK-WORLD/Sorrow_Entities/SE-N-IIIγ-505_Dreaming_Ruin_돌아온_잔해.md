@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The First Brick* [**Debuff**] } | "A brick appears where the ruin was — then another — the structure is rebuilding itself." | [The Ruin's reconstruction begins; the target senses the impossible renewal.] | *Target suffers a Void mark; what was destroyed is returning.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |
 | { *The Accelerating Build* [**Debuff**] } | "The ruin rebuilds faster and faster — wall rising, arch forming — but the new walls are wrong, angrier." | [The Ruin's reconstruction accelerates; the new structure carries rage.] | *Target loses clarity; the rebuilt ruin is not the same as before.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Falling Stone* [**Attack**] } | "A stone from the rebuilding structure breaks free — heavier than the original, sharper." | [A piece of reconstructed ruin strikes.] | *Inflicts Pale White damage; the rebuilt material carries void-weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Ruin is disturbed. |
+| { *The Falling Stone* [**Attack**] } | "A stone from the rebuilding structure breaks free — heavier than the original, sharper." | [A piece of reconstructed ruin strikes.] | *Inflicts Void damage; the rebuilt material carries void-weight.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Ruin is disturbed. |
 | { *The Full Cycle* [**Attack**] } | "The ruin completes rebuilding — and immediately begins collapsing again — the cycle releasing all its energy." | [The Ruin's build-and-destroy cycle reaches its peak.] | *A heavy Void detonation of cyclic destruction; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Ruin is interrupted. |
 | { *The Eternal Cycle* [**Ultimate**] } | "Every ruin in the field rebuilds and collapses simultaneously — an endless loop of creation and destruction." | [The Ruin extends its cycle across the whole area.] | *All in range suffer Pale White erosion for three turns of endless ruin.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

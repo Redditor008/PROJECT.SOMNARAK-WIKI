@@ -207,7 +207,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 - Void: 1.6 (Weak)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes

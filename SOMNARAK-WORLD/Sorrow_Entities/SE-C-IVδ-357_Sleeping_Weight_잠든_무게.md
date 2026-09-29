@@ -193,7 +193,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 1.0 (Normal)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 - Void: 1.5 (Weak)
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes

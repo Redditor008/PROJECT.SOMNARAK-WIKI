@@ -41,7 +41,7 @@ The Veil formed during the same voluntary cache-route exchange that produced the
 | Element | Multiplier | Label | Protection / failure reason |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | It cannot keep a sorrow that asks to be witnessed from reaching the wearer. |
-| Grudge | 0.8 | Endured | Anger is blunted when it cannot fix the wearer in attention. |
+| Grudge | 0.8 | Warded | Anger is blunted when it cannot fix the wearer in attention. |
 | Void | 0.3 | Resistant | The Veil knows how to let recognition slide without fully breaking. |
 | Weight | 1.1 | Weak | A declared duty can still pin the wearer in place. |
 

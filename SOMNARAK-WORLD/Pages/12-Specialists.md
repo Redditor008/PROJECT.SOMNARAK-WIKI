@@ -14,7 +14,7 @@ Within Facility 01, human personnel are divided into two distinct classes: **Spe
 | Personnel Classes      | Specialists (Active Duty) - Auxiliaries       |
 | Primary Attributes     | Resilience (HP) - Clarity (SP) - Composure    |
 | Combat Attribute       | Resolve (Attack Speed & Movement Speed)       |
-| Psychological Hazard   | Four Panic States: Murder - Suicide - Wander  |
+| Psychological Hazard   | Rampage - Undoing - Drift - Sabotage          |
 | Operational Ranks      | Rank I (Recruit) to Rank V (Veteran Captain)  |
 +========================================================================+
 ```
@@ -24,11 +24,11 @@ Within Facility 01, human personnel are divided into two distinct classes: **Spe
 - [1 Specialists vs Auxiliaries](#1-specialists-vs-auxiliaries)
 - [2 The Four Primary Attributes](#2-the-four-primary-attributes)
 - [3 The Four Panic States](#3-the-four-panic-states)
-  - [3.1 Murder Panic](#31-murder-panic)
-  - [3.2 Suicide Panic](#32-suicide-panic)
-  - [3.3 Wander Panic](#33-wander-panic)
+  - [3.1 Rampage Panic](#31-rampage-panic)
+  - [3.2 Self-Undoing Panic](#32-self-undoing-panic)
+  - [3.3 Drifting Panic](#33-drifting-panic)
   - [3.4 Sabotage Panic](#34-sabotage-panic)
-- [4 Terror and Fear Levels](#4-terror-and-fear-levels)
+- [4 Terror and Dread Levels](#4-terror-and-dread-levels)
 - [5 Recruitment, Promotion, and Loadout Pairing](#5-recruitment-promotion-and-loadout-pairing)
 - [6 Gallery](#6-gallery)
 - [7 See also](#7-see-also)
@@ -64,13 +64,13 @@ Attributes progress from **Level I** (Novice) up to **Level V** (Master), with v
 
 When an operative's Sanity Points (SP) are reduced to zero by 🔵 **Lament** or ⚫ **Weight** trauma, their ego shatters, triggering an acute **Panic State**. The specific behavioral breakdown is determined by the operative's lowest primary attribute:
 
-### 3.1 Murder Panic
+### 3.1 Rampage Panic
 The specialist's survival instincts warp into predatory frenzy. Convinced their squadmates are monsters in disguise, the operative turns their M.A.W. weapon against colleagues, hunting down nearby auxiliaries and specialists.
 
-### 3.2 Suicide Panic
+### 3.2 Self-Undoing Panic
 The specialist is engulfed by overwhelming existential futility. Muttering incoherent fragments of personal regret, the operative uses their own weapon or leaps from elevated spires to terminate their life immediately.
 
-### 3.3 Wander Panic
+### 3.3 Drifting Panic
 The specialist's motor functions decouple from rational thought. Dropping their offensive guard, the operative wanders aimlessly through corridors, screaming incoherently and inflicting secondary 🔵 **Lament** panic upon every auxiliary they encounter.
 
 ### 3.4 Sabotage Panic
@@ -79,14 +79,14 @@ The specialist experiences an irresistible compulsion to spread the facility's r
 ### Restoring Sane Composure
 A panicked operative is not lost permanently. Squadmates wielding weapons that deal 🔵 **Lament** (mental) or ⚪ **Void** damage can attack the panicked specialist. Instead of causing physical injury, these resonant strikes restore the victim's SP gauge. Once their SP is fully refilled, the specialist recovers their sanity and returns to duty.
 
-## 4 Terror and Fear Levels
+## 4 Terror and Dread Levels
 
-When encountering a high-threat entity or witnessing the gruesome demise of a squadmate, specialists undergo an immediate **Fear Check**. The check compares the specialist's rank against the entity's risk tier:
-- **Calm:** Operative is higher rank than the entity; suffers no penalty.
-- **Normal:** Operative and entity are equal rank; suffers minor SP loss.
-- **Fear:** Entity is one tier higher; operative suffers 25% immediate SP drain.
-- **Hopeless:** Entity is two tiers higher; operative suffers 50% immediate SP drain.
-- **Overwhelming:** Low-rank recruit encounters a Rank V Sovereign; triggers **Instant Panic**.
+When encountering a high-threat entity or witnessing the gruesome demise of a squadmate, specialists undergo an immediate **Dread Check**. The check compares the specialist's rank against the entity's risk tier:
+- **Composed:** Operative is higher rank than the entity; suffers no penalty.
+- **Unnerved:** Operative and entity are equal rank; suffers minor SP loss.
+- **Shaken:** Entity is one tier higher; operative suffers 25% immediate SP drain.
+- **Grief-struck:** Entity is two tiers higher; operative suffers 50% immediate SP drain.
+- **Shattered:** Low-rank recruit encounters a Rank V Sovereign; triggers **Instant Panic**.
 
 ## 5 Recruitment, Promotion, and Loadout Pairing
 

@@ -47,7 +47,7 @@ During the The Stormscale Sovereign Source-Trace, the field team preserved this 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Fourfold Fang | δ Mixed 8–14 (cycles all four); Speed 2 (Normal); Range 4 (Long); AoE; max 2; 48 Sorrow Echoes | `SE-949-B__MAW-W_The_Fourfold_Fang.md` |
-| The Two-Halves Mantle | δ; L/G/V/W 0.8 (Endured)/0.8 (Endured)/0.8 (Endured)/0.8 (Endured); max 2; 44 Sorrow Echoes | `SE-949-C__MAW-S_The_Two_Halves_Mantle.md` |
+| The Two-Halves Mantle | δ; L/G/V/W 0.8 (Warded)/0.8 (Warded)/0.8 (Warded)/0.8 (Warded); max 2; 44 Sorrow Echoes | `SE-949-C__MAW-S_The_Two_Halves_Mantle.md` |
 | The Mismatched Eye | δ; Head; 2%; +3 stat bonus when working the source entity | `SE-949-D__MAW-G_The_Mismatched_Eye.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

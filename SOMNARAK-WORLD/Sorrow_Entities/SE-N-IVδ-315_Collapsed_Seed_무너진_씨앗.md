@@ -248,7 +248,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 - Void: 1.6 (Weak)
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes

@@ -29,7 +29,7 @@ The Final Veil is a flowing suit of pale Han-gossamer that shifts like breath af
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 — Weak | 0.8 — Endured | 0.3 — Resistant | 1.1 — Weak | 2 / 45 Echoes |
+| 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 2 / 45 Echoes |
 
 **Living Margin:** The Veil separates the wearer’s ongoing pulse from incoming final moments, allowing Void to pass over the outer faces without ending personal continuity.
 

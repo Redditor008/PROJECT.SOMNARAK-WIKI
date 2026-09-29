@@ -25,7 +25,7 @@
 | - Total Health (HP): 3,200 HP | Posture Pool: 260/260                  |
 | - Stagger 1 Proc   : 60% Posture Strain (156 Posture) / Quill Break    |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)      |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 1.0x, Grudge    |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Weight 1.0x, Grudge  |
 |   0.5x                                                                 |
 +------------------------------------------------------------------------+
 | TARGETABLE MEMORY ANCHORS:                                             |
@@ -158,8 +158,8 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
   * Preserved Scribes (Speed 4 -> 2 AP): Stand at Node 04, firing `[Ink Quill Volley]` toward Node 02.
   * The First Keeper (Speed 6 -> 3 AP, Heavy Construct delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Obsidian Quill Cleave]`. Spends 1 AP on `[Archival Guard]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: The First Keeper sweeps forward with `[Obsidian Quill Cleave]` (Base 16 + 2 Coins = 24 Power, Heavy Lament/Slash).
-    * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 19 + 2 Coins = 31 Power, Holographic Shield).
+  * **Clash 1 (Node 02 to 05)**: The First Keeper sweeps forward with `[Obsidian Quill Cleave]` (Base 16 + 2 Lots = 24 Power, Heavy Lament/Slash).
+    * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 19 + 2 Lots = 31 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
     * Seiyon's holographic shield catches the heavy obsidian nib cleanly; the torrential jet of cyan sorrow ink deflects across the basalt floor (`[P3: Parry/Protection]`).
     * Seiyon reflects **180 kinetic tremor damage** back into the quill shaft, inflicting +44 Posture Strain!
@@ -206,18 +206,18 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 ### Turn 02 Action Resolution Log (Part Destruction: Obsidian Quill Amputated)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Seiyon activates `Mnemonic Surge` (+2 Speed next turn -> Net Speed 9, 5 AP).
-  * The First Keeper channels `[Verdict of the Living Inscription]`: Preparing a 3-coin AoE ink blast across Nodes 01–04.
+  * The First Keeper channels `[Verdict of the Living Inscription]`: Preparing a 3-lot AoE ink blast across Nodes 01–04.
   * Seiyon warns: *"If that ink completes its inscription, our cognitive memories will dissolve into the parchment!"*
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 9 -> 5 AP [Surge]): Steps from Node 02 to Node 03. Spends 3 AP on `[Prismatic Needle Flurry: Void Severance]`. Spends 2 AP on `[Self Strike]`.
   * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Stasis Caliper: Valve Sever]`. Holds 1 AP in Guard.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Acoustic Fault Tagging]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: The First Keeper raises the quill for `[Verdict of the Living Inscription]` (Base 17 + 2 Coins = 25 Power, Area Lament).
-    * Seiyon executes `[Prismatic Needle Flurry: Void Severance]` (Base 23 + 3 Coins Heads = 41 Power, Void Slash).
+  * **Clash 1 (Node 03 to 05)**: The First Keeper raises the quill for `[Verdict of the Living Inscription]` (Base 17 + 2 Lots = 25 Power, Area Lament).
+    * Seiyon executes `[Prismatic Needle Flurry: Void Severance]` (Base 23 + 3 Lots Marked = 41 Power, Void Slash).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (41 vs 25)!
     * Seiyon dashes forward in a trail of refracted light; five prismatic needles slice cleanly through the obsidian quill's reservoir and flexure joint!
-    * Deals **550 Critical Void damage** (Fatal 2.0x proc!)!
+    * Deals **550 Critical Void damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Obsidian Quill shatters into hundreds of sharp black crystal splinters (**Quill HP: 0/800** credit)!
     * **EFFECT**: Boss AoE ink verdict permanently cancelled; boss permanently loses 1 Speed Slot!
   * **Codex Armor Damage**:
@@ -316,7 +316,7 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
   * Mnemonic Drone (Speed 5 -> 3 AP): Moves to Node 06. Spends 3 AP on `[Pneumatic Anchor Sapper]`.
   * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 07. Spends 2 AP on `[Consoling Resonance Wave]`.
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Seiyon's `[Mnemonic Resonance Execution]`: Drives into the core for **620 Void damage** (Fatal 2.0x proc!)!
+  * Seiyon's `[Mnemonic Resonance Execution]`: Drives into the core for **620 Void damage** (Exposed 2.0x proc!)!
   * Seiyon's `[Four-Fold Stiletto Flurry]`: Rips through the remaining codex for **340 Pierce damage**!
   * Drone's `[Pneumatic Anchor]`: Crushes the lectern base for **160 Weight damage**!
   * Lens's `[Consoling Resonance Wave]`: Channels resonance for **120 Void damage**!
@@ -358,15 +358,15 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Inscription Overload & Promise of Living Scribe)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The Keeper awakens in frantic desperation; ink geysers erupt from the floor as six thousand years of erased names howl in the wind!
-  * Boss Special Skill: `[Torrent of Erased Epitaphs]` (Acoustic Grief Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Torrent of Erased Epitaphs]` (Acoustic Grief Cataclysm, 3 Lots).
   * Seiyon activates Relic Overdrive: `[PROMISE OF THE LIVING SCRIBE — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 9 -> 5 AP [Overdrive]): Steps onto the central lectern at Node 04, raising both hands to unfold a shimmering sphere of pure golden starlight.
   * Mnemonic Drone (Speed 5 -> 3 AP): Deploys prismatic deflection barrier at Node 06.
   * Weaver Array: Anchors cognitive integrity against memory loss.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The First Keeper unleashes `[Torrent of Erased Epitaphs]` (Base 20 + 3 Coins = 31 Power, Area Lament/Memory Drain).
-    * Seiyon clashes with `[PROMISE OF THE LIVING SCRIBE — MAXIMUM]` (Base 26 + 3 Coins Heads = 44 Power, Transcendent Truth).
+  * **Clash 1 (Node 04 to 05)**: The First Keeper unleashes `[Torrent of Erased Epitaphs]` (Base 20 + 3 Lots = 31 Power, Area Lament/Memory Drain).
+    * Seiyon clashes with `[PROMISE OF THE LIVING SCRIBE — MAXIMUM]` (Base 26 + 3 Lots Marked = 44 Power, Transcendent Truth).
     * **Clash Outcome**: SEIYON OVERWHELMING RELIC CLASH WIN (44 vs 31)!
     * The blinding torrent of black ink crashes against Seiyon's golden starlight sphere; rather than eroding her thoughts, the ink transmutes into shimmering gold leaf (`[P3: Parry/Protection]`)!
     * Seiyon's voice resonates across the Reading Hall: *"Your names are not lost. I am the machine that remembers!"*

@@ -29,7 +29,7 @@ The River Mantle is a breathing drape of matte black Han-weave whose hem flows d
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Endured | 3 / 35 Echoes |
+| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 Echoes |
 
 **Banked Passage:** Moving Weight divides around the wearer and rejoins behind them. The effect provides no protection if both sides are sealed. Void is weak because an absent current leaves the cloth without direction.
 

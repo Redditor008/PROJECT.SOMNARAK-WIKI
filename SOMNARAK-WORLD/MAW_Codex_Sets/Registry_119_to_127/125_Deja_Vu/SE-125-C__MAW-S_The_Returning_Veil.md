@@ -41,7 +41,7 @@ The Veil formed after a worker stayed with a returned memory until it faded and 
 | Element | Multiplier | Label | Protection / failure reason |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | Grief must still be allowed to mark the difference between then and now. |
-| Grudge | 0.8 | Endured | Anger at change loses grip when the present is named. |
+| Grudge | 0.8 | Warded | Anger at change loses grip when the present is named. |
 | Void | 0.3 | Resistant | The Veil protects identity from an impossible past overlay. |
 | Weight | 1.1 | Weak | The weight of absence remains a present burden. |
 

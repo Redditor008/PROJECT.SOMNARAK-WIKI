@@ -47,7 +47,7 @@ During the The Eleven Fifty Nine Source-Trace, the field team preserved this sou
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Eleven Fifty-Nine's Edge | γ Lament 14–25; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-912-B__MAW-W_Eleven_Fifty_Nine_s_Edge.md` |
-| Eleven Fifty-Nine's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-912-C__MAW-S_Eleven_Fifty_Nine_s_Veil.md` |
+| Eleven Fifty-Nine's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-912-C__MAW-S_Eleven_Fifty_Nine_s_Veil.md` |
 | Eleven Fifty-Nine's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-912-D__MAW-G_Eleven_Fifty_Nine_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

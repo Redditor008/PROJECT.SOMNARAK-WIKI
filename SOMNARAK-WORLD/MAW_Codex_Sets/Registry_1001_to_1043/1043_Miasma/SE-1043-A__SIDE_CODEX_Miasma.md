@@ -47,7 +47,7 @@ During the The Miasma Source-Trace, the field team preserved this source fact: N
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Miasma's Edge | δ Lament 11–20; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1043-B__MAW-W_Miasma_s_Edge.md` |
-| Miasma's Veil | δ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-1043-C__MAW-S_Miasma_s_Veil.md` |
+| Miasma's Veil | δ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-1043-C__MAW-S_Miasma_s_Veil.md` |
 | Miasma's Token | δ; Head; 5%; +1 stat bonus when working the source entity. | `SE-1043-D__MAW-G_Miasma_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

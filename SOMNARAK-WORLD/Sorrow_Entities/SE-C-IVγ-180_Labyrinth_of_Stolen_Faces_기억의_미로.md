@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Wrong Turn* [**Debuff**] } | "The corridor shifts — and you are in a memory that is not yours, and the memory does not want you to leave." | [The Maze rearranges around the target; they are lost in someone else's past.] | *Target suffers a Void mark; their own memories are being overwritten.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Maze. |
 | { *The Dead End* [**Debuff**] } | "The path ends — at a wall made entirely of your earliest, most protected memory." | [The Maze confronts the target with their most guarded recollection.] | *Target loses clarity; the protected memory is exposed and vulnerable.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target reaches a dead end. |
-| { *The Shifting Wall* [**Attack**] } | "The wall moves — grinding, rearranging — and it pushes you into the memory behind it." | [The Maze's structure shifts, crushing the target into a stored recollection.] | *Inflicts Pale White damage; the pushed memory overwrites a portion of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Maze is disturbed. |
+| { *The Shifting Wall* [**Attack**] } | "The wall moves — grinding, rearranging — and it pushes you into the memory behind it." | [The Maze's structure shifts, crushing the target into a stored recollection.] | *Inflicts Void damage; the pushed memory overwrites a portion of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Maze is disturbed. |
 | { *The Center* [**Attack**] } | "The maze has a center — and at the center, every memory the maze ever collected waits." | [The Maze's core releases its full accumulated memory-mass.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Maze is solved or broken. |
 | { *Everyone Is Lost in Memory* [**Ultimate**] } | "The maze grows — until every person is inside it — and no one can find their own past anymore." | [The Maze expands to encompass the entire field.] | *All in range suffer Pale White erosion for three turns of being lost in memory.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -209,7 +209,7 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

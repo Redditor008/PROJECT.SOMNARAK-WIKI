@@ -24,7 +24,7 @@ The Mantle formed while Iseulfros endured Patrimoine’s pressure without sealin
 | Lament | 1.0 (Normal) |
 | Grudge | 1.0 (Normal) |
 | Void | 1.5 (Weak) |
-| Weight | 0.5 (Endured) |
+| Weight | 0.5 (Warded) |
 | Maximum / Echo cost | 5 / 10 Sorrow Echoes |
 | Operational cost | Constant low fatigue during and after transport |
 | Binding cost | The wearer begins feeling responsible for keeping all burden in motion |

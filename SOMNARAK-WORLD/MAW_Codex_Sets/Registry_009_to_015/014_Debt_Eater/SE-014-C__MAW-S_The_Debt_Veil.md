@@ -19,7 +19,7 @@
 | Element | Multiplier | Label | Field Meaning |
 |---|---:|---|---|
 | **Lament** | 1.2 | Weak | Grief reaches a wearer made emotionally absent. |
-| **Grudge** | 0.8 | Endured | Direct hostility is partially dispersed. |
+| **Grudge** | 0.8 | Warded | Direct hostility is partially dispersed. |
 | **Void** | 0.3 | Resistant | Strong defense against debt-fed identity removal. |
 | **Weight** | 1.1 | Weak | Measured burdens still settle on the body. |
 

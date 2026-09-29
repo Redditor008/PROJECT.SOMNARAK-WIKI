@@ -108,7 +108,7 @@ A matte black Han-steel staff absorbs excess Han-energy from its surroundings. I
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Endured | 3 / 35 |
+| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 |
 
 The breathing black Han-weave yields around Weight pressure instead of bracing solidly against it. Protection is purchased with continuous fatigue, and the empty folds are dangerously receptive to Void.
 

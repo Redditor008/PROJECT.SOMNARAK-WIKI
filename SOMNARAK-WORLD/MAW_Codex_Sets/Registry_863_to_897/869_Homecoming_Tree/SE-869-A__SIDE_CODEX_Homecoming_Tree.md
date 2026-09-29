@@ -47,7 +47,7 @@ During the The Homecoming Tree Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Returning Requiem | α Lament 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-869-B__MAW-W_The_Returning_Requiem.md` |
-| The Returning Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 5; 10 Sorrow Echoes | `SE-869-C__MAW-S_The_Returning_Shroud.md` |
+| The Returning Shroud | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 5; 10 Sorrow Echoes | `SE-869-C__MAW-S_The_Returning_Shroud.md` |
 | The Returning Leaf | α; Tail; 5%; +1 stat bonus when working the source entity | `SE-869-D__MAW-G_The_Returning_Leaf.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

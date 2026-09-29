@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The First Link Spreads* [**Debuff**] } | "One link becomes two, becomes four — and each one knows where you are." | [The Chain self-replicates; new links seek the target.] | *Target suffers a Void mark; the chain is learning their shape.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Chain is activated. |
 | { *The Multiplying* [**Debuff**] } | "The links breed faster than you can count — and every new one is tighter." | [The Chain's network grows; the target is increasingly enmeshed.] | *Target loses clarity; the links close every gap.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target struggles. |
-| { *The Whip-Link* [**Attack**] } | "One link snaps free and lashes — and where it hits, two more grow." | [A chain-link whips out, seeding new links on impact.] | *Inflicts Pale White damage; the wound itself sprouts iron.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Chain is struck. |
+| { *The Whip-Link* [**Attack**] } | "One link snaps free and lashes — and where it hits, two more grow." | [A chain-link whips out, seeding new links on impact.] | *Inflicts Void damage; the wound itself sprouts iron.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Chain is struck. |
 | { *The Infinite Length* [**Attack**] } | "The chain has no end — it never had an end — and now it is all around you." | [The Chain reveals its true, unending extent.] | *A heavy Void constriction; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Chain is pulled taut. |
 | { *The Iron Sea* [**Ultimate**] } | "The chain fills the room — the building — the district — link after link after link." | [The Chain multiplies until it fills the entire field with iron.] | *All in range suffer Pale White erosion for three turns in the infinite links.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -197,7 +197,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

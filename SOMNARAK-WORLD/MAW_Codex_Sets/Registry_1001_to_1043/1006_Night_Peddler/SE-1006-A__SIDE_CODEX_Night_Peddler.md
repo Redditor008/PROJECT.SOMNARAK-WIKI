@@ -47,7 +47,7 @@ During the The Night Peddler Source-Trace, the field team preserved this source 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Merchant's Lens | α Void 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-1006-B__MAW-W_The_Merchant_s_Lens.md` |
-| The Merchant's Veil | α; L/G/V/W 1.2 (Weak)/0.8 (Endured)/0.3 (Resistant)/1.1 (Weak); max 5; 10 Sorrow Echoes | `SE-1006-C__MAW-S_The_Merchant_s_Veil.md` |
+| The Merchant's Veil | α; L/G/V/W 1.2 (Weak)/0.8 (Warded)/0.3 (Resistant)/1.1 (Weak); max 5; 10 Sorrow Echoes | `SE-1006-C__MAW-S_The_Merchant_s_Veil.md` |
 | The Merchant's Purse | α; Head; 5%; +1 stat bonus when working the source entity | `SE-1006-D__MAW-G_The_Merchant_s_Purse.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

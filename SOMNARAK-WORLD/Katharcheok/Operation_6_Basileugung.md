@@ -268,7 +268,7 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 | CONTRABAND ENTITY PROFILE (SE-C-IIIγ-490 'THE HOLLOW KNIGHT'):      |
 | - Entity HP Pool   : 3,600 HP | Posture Pool: 260/260               |
 | - Total Combined   : 8,000 Encounter HP                             |
-| - Attack Affinity  : Pale Sunder Storm & Mournful Greatsword (Pale) |
+| - Attack Affinity  : Void Sunder Storm & Mournful Greatsword (Pale) |
 +=====================================================================+
 ```
 
@@ -336,8 +336,8 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Advances through high throne arches toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Grand Patriarch Cheon unleashes `[Sovereign Cleave Slam]` (Base 17 + 2 Coins = 29 Power, Heavy Blunt/Pale) against Node 02.
-    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 19 + 2 Coins = 33 Power, Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: Grand Patriarch Cheon unleashes `[Sovereign Cleave Slam]` (Base 17 + 2 Lots = 29 Power, Heavy Blunt/Pale) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 19 + 2 Lots = 33 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (33 vs 29)!
     * The kinetic shield absorbs the devastating pale shockwave without buckling (`[P3: Parry/Protection]`).
     * Taeho reflects **190 kinetic tremor damage** back into Cheon's sovereign chassis! Inflicts +30 Posture Strain.
@@ -406,8 +406,8 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
   * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
   * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Cold Iron]` (2 AP) around the Hollow Knight's greatsword arm.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Cheon executes `[Royal Lightning Cleave]` (Base 15 + 2 Coins = 27 Power, Heavy Slash).
-    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 19 + 2 Coins = 31 Power, Heavy Blunt).
+  * **Clash 1 (Node 04 to 05)**: Cheon executes `[Royal Lightning Cleave]` (Base 15 + 2 Lots = 27 Power, Heavy Slash).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 19 + 2 Lots = 31 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (31 vs 27)!
     * The hydraulic ram smashes straight into the scepter's high-pressure power capacitor sleeve!
     * Deals **580 Blunt damage** directly to the Crown Scepter and inflicts +58 Posture Strain!
@@ -468,8 +468,8 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
   * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on the scepter battery.
   * Infiltrator Echo (Speed 9 -> 5 AP): Drops from high arches onto the scepter's wrist joint, driving `[Eclipse Stiletto]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: Cheon unleashes `[Verdict of the Sunken King]` (Base 17 + 2 Coins = 29 Power, Heavy Blunt).
-    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 21 + 2 Coins = 33 Power, High-Precision Pierce).
+  * **Clash 1 (Node 07 to 05)**: Cheon unleashes `[Verdict of the Sunken King]` (Base 17 + 2 Lots = 29 Power, Heavy Blunt).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 21 + 2 Lots = 33 Power, High-Precision Pierce).
     * **Clash Outcome**: Minho WINS THE CLASH (33 vs 29)!
     * Minho's silver lancet pierces the scepter's central gyro-stabilizer with surgical precision!
     * **TARGETED PART DESTROYED**: `[The Crown Scepter Weapon Arm]` shears in half, crashing onto the marble dais (**1,220 Scepter HP destroyed: 0/1,800**)!
@@ -532,8 +532,8 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
   * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect delegate minds.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the delegate cell padlocks (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-490 unleashes `[Pale Sunder Storm: Mournful Cleave]` (Base 24 + 2 Coins = 34 Power, Area Pale).
-    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 27 + 2 Coins = 37 Power, Vacuum Barrier).
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-490 unleashes `[Void Sunder Storm: Mournful Cleave]` (Base 24 + 2 Lots = 34 Power, Area Pale).
+    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 27 + 2 Lots = 37 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (37 vs 34)!
     * The lead-lined vacuum sphere fully captures the pale sunder shockwave (`[P3: Parry/Protection]`).
     * Zero pale particles penetrate the leaded ward. Soojin redirects the trapped kinetic energy back into the knight's armor, dealing **560 Void damage** and +78 Posture Strain!
@@ -587,7 +587,7 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
   * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 14,800 high-level conspiracy documents at Node 06 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10)**: SE-C-IIIγ-490 sweeps with `[Crystalline Greatsword Cleave]` (Atk Power 30, Pale/Slash).
-    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 25 + 2 Coins Heads = 35 Power, Slash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 25 + 2 Lots Marked = 35 Power, Slash).
     * **Clash Outcome**: Echo WINS THE CLASH (35 vs 30)!
     * Echo slices cleanly through the spiritual tendons linking the knight's hollow armor!
     * **CRITICAL HIT!** Deals **720 Slash damage** directly to the core and strips 100 Posture points!

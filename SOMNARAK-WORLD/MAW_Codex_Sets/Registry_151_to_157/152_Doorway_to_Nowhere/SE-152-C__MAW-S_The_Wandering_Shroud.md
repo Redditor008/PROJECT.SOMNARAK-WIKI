@@ -47,7 +47,7 @@ The Wandering Shroud is a deep-blue shroud of fine Han cloth with a thin charred
 | Lament | 0.4 | Resistant | The Shroud holds departure grief at a survivable distance. |
 | Grudge | 1.0 | Normal | Anger at an unreachable home cannot be woven away. |
 | Void | 1.6 | Weak | Forgetting the present room opens the threshold too wide. |
-| Weight | 0.8 | Endured | A known return route gives the body grounding. |
+| Weight | 0.8 | Warded | A known return route gives the body grounding. |
 
 | Field | Record |
 |---|---|

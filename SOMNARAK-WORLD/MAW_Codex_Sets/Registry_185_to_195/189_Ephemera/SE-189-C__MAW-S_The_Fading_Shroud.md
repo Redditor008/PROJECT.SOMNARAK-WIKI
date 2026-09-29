@@ -24,7 +24,7 @@ The Fading Shroud is a survey cloak of pale blue weave that seems half gone even
 
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
-| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Endured |
+| 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded |
 
 **Maximum / Echo Cost:** 5 / 10. **Cost:** Minor joys numb after too many fading-site records.
 

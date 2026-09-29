@@ -22,7 +22,7 @@
 | Element | Void |
 | Appearance | An R.D.-style coat that, in peripheral vision, reads as a stage costume; it is always slightly too clean. |
 | Lament resistance | 1 (Normal) |
-| Grudge resistance | 0.8 (Endured) |
+| Grudge resistance | 0.8 (Warded) |
 | Void resistance | 0.3 (Resistant) |
 | Weight resistance | 1.1 (Weak) |
 | Max Amount | 2 |

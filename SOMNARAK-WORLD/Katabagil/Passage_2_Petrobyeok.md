@@ -222,7 +222,7 @@ Catalogued under field code **SECC-E11 "The Petrification Cradle"**, the entity 
  ELITE ANOMALY COMBAT: SECC-E11 "THE PETRIFICATION CRADLE" (Grade-β Potency)
 ================================================================================
  ENTITY PROFILE: HP: 1,100 | Stagger Threshold: 440 HP | Element: Weight (Black)
- RESISTANCES: Grudge (Normal 1.0x), Lament (Fatal 2.0x), Void (Normal 1.0x), Weight (Endured 0.5x)
+ RESISTANCES: Grudge (Normal 1.0x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Endured 0.5x)
 
  TURN 1:
  - Entity unleashes [Calcifying Lullaby] (AoE Range 5): Base 8 + 3 Harmonic Beats (+2 each)
@@ -251,7 +251,7 @@ Catalogued under field code **SECC-E11 "The Petrification Cradle"**, the entity 
  TURN 4:
  - The Silent One executes [Relic Cleaver: Primordial Void Severance]:
    * 3 Harmonic Beats (Resonant, Resonant, Resonant = +9) -> Total 22!
-   * Deals 348 Fatal Void damage directly into the fractured marble core!
+   * Deals 348 Exposed Void damage directly into the fractured marble core!
    * The interlocking stone cribs dissolve into harmless white talcum powder.
  OUTCOME: Elite Anomaly neutralized in 4 turns. Zero squad injuries. +15 SP to all allies.
  REWARDS: 1x Pure Calcified Marble Core recovered. Pathway to the Wall Core opened.
@@ -307,7 +307,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
  - Base Defense: 45 | Speed Dice: 2–5 (3 Attack Slots)
  - Resistances:
    * Grudge (Crimson) : 1.0x (Normal — Absorbs heat through stone mass)
-   * Lament (Deep Blue): 2.0x (Fatal Weakness — Water dissolves calcified mortar!)
+   * Lament (Deep Blue): 2.0x (Exposed Weakness — Water dissolves calcified mortar!)
    * Void (Pale White) : 1.0x (Normal — Susceptible to soul disruption)
    * Weight (Black)    : 0.5x (Endured — Massive monolithic basalt composition)
 
@@ -347,7 +347,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 | - Total Health (HP): 2,800 HP | Posture Pool: 260/260               |
 | - Stagger 1 Proc : 60% Posture Strain (156 Posture) / Hammer Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Dismantling)     |
-| - Resistances : Lament 2.0x (Fatal), Grudge/Void 1.0x, Weight 0.5x  |
+| - Resistances : Lament 2.0x (Exposed), Grudge/Void 1.0x, Weight 0.5x  |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Left Siege Hammer: 700 HP                                        |
@@ -415,18 +415,18 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Target Lock: Hammer Joint]`.
   * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Holds high arch at Node 10. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: SECC-028 Slot 1 (Left Siege Hammer) executes `[Foundational Impact]` (Base 16 + 2 Coins = 24 Power, Heavy Weight).
-    * Doha clashes with `[Pneumatic Ram: Counter-Strike]` (Base 18 + 2 Coins = 32 Power, Heavy Blunt).
+  * **Clash 1 (Node 03 to 05)**: SECC-028 Slot 1 (Left Siege Hammer) executes `[Foundational Impact]` (Base 16 + 2 Lots = 24 Power, Heavy Weight).
+    * Doha clashes with `[Pneumatic Ram: Counter-Strike]` (Base 18 + 2 Lots = 32 Power, Heavy Blunt).
     * **Clash Outcome**: Doha WINS THE CLASH (32 vs 24)!
     * The hydraulic ram collides violently with the massive three-ton stone hammer!
     * The kinetic shockwave shatters the hammer's wrist joint, dealing **168 Blunt damage** and +48 Posture Strain!
   * **Clash 2 (Node 02 to 05)**: SECC-028 Slot 2 (Retaining Bulwark) slams forward with `[Quarantine Slam]` (Base 16 + 1 Coin = 22 Power, Heavy Weight).
-    * Harin intercepts with `[Pneumatic Bulwark: Kinetic Deflection]` (Base 18 + 2 Coins = 30 Power).
+    * Harin intercepts with `[Pneumatic Bulwark: Kinetic Deflection]` (Base 18 + 2 Lots = 30 Power).
     * **Clash Outcome**: Harin WINS THE CLASH (30 vs 22)!
     * Absorbs the kinetic thrust cleanly (`[P3: Parry/Protection]`); deflects the stone bulwark outward! Harin takes 0 damage.
   * **Lament Vulnerability Exploitation**:
     * Sora unleashes `[Lament Tide: Weeping Deluge]` directly onto the Left Siege Hammer's calcified mortar joints:
-      * Siphon of pure liquid Lament strikes calcified mortar seams (Fatal 2.0x proc!).
+      * Siphon of pure liquid Lament strikes calcified mortar seams (Exposed 2.0x proc!).
       * Deals **196 Cryo-Lament damage**! The mortar froths and dissolves into white brine, severely compromising the hammer's structural integrity.
 - **Step 4: Turn End State**:
   * Left Siege Hammer HP: 700 -> **336/700** | Posture: **102/200 [MORTAR DISSOLVING]**.
@@ -451,7 +451,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |   HP)                                                               |
 | - Node 06: Sora (Lament Siphon Dissolving Mortar Seams)             |
 | - Node 07: Yeonhwa (Sonar Fault Lock on Retaining Bulwark)          |
-| - Node 10: The Silent One (Twin Pale Flurry Slicing Tendons from    |
+| - Node 10: The Silent One (Twin Void Flurry Slicing Tendons from    |
 |   Flank)                                                            |
 +---------------------------------------------------------------------+
 | - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/50   |
@@ -468,20 +468,20 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 ###### Turn 02 Action Resolution Log (Amputating the Left Siege Hammer)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Doha and The Silent One both activate `Momentum Surge` (+2 Speed on Turn 02).
-  * SECC-028 roars, lifting the cracked Siege Hammer to execute `[Tectonic Pulverization]` (3 Coins, Area of Effect Range 5).
+  * SECC-028 roars, lifting the cracked Siege Hammer to execute `[Tectonic Pulverization]` (3 Lots, Area of Effect Range 5).
   * Doha shouts: *"Not on my watch! Break the arm!"*
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Doha (Speed 7 -> 4 AP [Surge]): Steps from Node 03 to Node 04. Spends 3 AP on `[Pneumatic Overdrive: Bedrock Piston]`.
-  * The Silent One (Speed 9 -> 5 AP [Surge]): Drops from Node 10 onto the basalt elbow at Node 05. Spends 3 AP on `[Twin Pale Flurry]`.
+  * The Silent One (Speed 9 -> 5 AP [Surge]): Drops from Node 10 onto the basalt elbow at Node 05. Spends 3 AP on `[Twin Void Flurry]`.
   * Harin (Speed 4 -> 2 AP): Steps to Node 03, executing `[Aegis Intercept]` (2 AP) to shield Sora and Yeonhwa.
   * Sora (Speed 7 -> 4 AP): Casts `[Lament Needle Drive]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: SECC-028 unleashes `[Tectonic Pulverization]` wind-up.
     * Harin's `[Aegis Intercept]` locks down the forward shockwave, containing the seismic tremor (`[P3: Parry/Protection]`). Harin takes only 14 mitigated chip damage (HP: 4,186/4,200).
   * **Piston Demolition Assault on Left Hammer**:
-    * The Silent One strikes the softened stone elbow with `[Twin Pale Flurry]` (Base 20 + 2 Coins Heads = 32 Power, Void Slash):
+    * The Silent One strikes the softened stone elbow with `[Twin Void Flurry]` (Base 20 + 2 Lots Marked = 32 Power, Void Slash):
       * Deals **180 Void damage** directly into the softened basalt tendons!
-    * Doha follows through with `[Pneumatic Overdrive: Bedrock Piston]` (Base 22 + 2 Coins Heads = 36 Power, Heavy Blunt):
+    * Doha follows through with `[Pneumatic Overdrive: Bedrock Piston]` (Base 22 + 2 Lots Marked = 36 Power, Heavy Blunt):
       * Massive kinetic explosion! Deals **340 Bludgeoning damage**!
     * **TARGETED PART DESTROYED**: The Left Basalt Siege Hammer shatters into twenty metric tons of tumbling rubble (**Hammer HP: 0/700**)!
     * **EFFECT**: Boss ultimate `[Tectonic Pulverization]` is permanently cancelled! Boss permanently loses 1 Speed Slot!
@@ -523,7 +523,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 
 ###### Turn 03 Action Resolution Log (Pushing the First Stagger Threshold & Unyielding Line)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Enraged by the amputation of its hammer, the titan sweeps its Right Retaining Bulwark across the floor in `[The Wall's Rejection]` (Heavy Weight, 2 Coins).
+  * Enraged by the amputation of its hammer, the titan sweeps its Right Retaining Bulwark across the floor in `[The Wall's Rejection]` (Heavy Weight, 2 Lots).
   * Harin gains `Momentum Surge` (+2 Speed -> Net Speed 6, 3 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 6 -> 3 AP): Steps forward to Node 03, meeting the bulwark shield-to-shield with `[Bastion of the Low: Unyielding Line]` (2 AP).
@@ -531,13 +531,13 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
   * Yeonhwa (Speed 7 -> 4 AP): Tags the central glowing furnace core with `[Sonar Fault Beacon]` (2 AP).
   * Sora (Speed 7 -> 4 AP): Channels `[Lament Needle Drive]` (2 AP) directly into the exposed chest core.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: SECC-028 unleashes `[The Wall's Rejection]` (Base 18 + 2 Coins = 28 Power, Heavy Weight).
-    * Harin clashes with `[Bastion of the Low: Unyielding Line]` (Base 21 + 2 Coins = 33 Power, Tower Shield).
+  * **Clash 1 (Node 03 to 05)**: SECC-028 unleashes `[The Wall's Rejection]` (Base 18 + 2 Lots = 28 Power, Heavy Weight).
+    * Harin clashes with `[Bastion of the Low: Unyielding Line]` (Base 21 + 2 Lots = 33 Power, Tower Shield).
     * **Clash Outcome**: Harin WINS THE CLASH (33 vs 28)!
     * Harin's two-meter tower shield slams into the basalt bulwark with an ear-splitting boom. Harin plants her hydraulic ground spikes, driving the five-meter titan backward six paces!
   * **Lament Weakness Penetration**:
     * Sora lands `[Lament Needle Drive]` squarely into the glowing chest furnace:
-      * Striking Fatal 2.0x Lament weakness!
+      * Striking Exposed 2.0x Lament weakness!
       * Deals **280 Cryo-Lament damage**! White steam billows violently from the entity's chest cavity!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% to **1,946/2,800 HP**; Posture collapses past 60% strain line!
@@ -637,8 +637,8 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
   * Harin (Speed 4 -> 2 AP): Holds Node 04, locking ground spikes to brace against tectonic tremors.
   * Sora (Speed 7 -> 4 AP): Casts `[Cranial Silver Cowl]` (2 AP), stabilizing Doha's mind back to 50 SP.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 06 to 05)**: SECC-028 initiates `[Catastrophic Collapse]` (Last Stand Attack: Base 20 + 3 Coins = 29 Power, Heavy Weight).
-    * Doha clashes with `[Architect's Final Decree: The Unmaking Strike]` (Base 25 + 3 Coins Heads = 43 Power, Heavy Blunt/Weight).
+  * **Clash 1 (Node 06 to 05)**: SECC-028 initiates `[Catastrophic Collapse]` (Last Stand Attack: Base 20 + 3 Lots = 29 Power, Heavy Weight).
+    * Doha clashes with `[Architect's Final Decree: The Unmaking Strike]` (Base 25 + 3 Lots Marked = 43 Power, Heavy Blunt/Weight).
     * **Clash Outcome**: DOHA OVERWHELMING RELIC CLASH WIN (43 vs 29)!
     * Doha's pneumatic ram drives directly into the center of the House Doha crest on the Right Bulwark!
     * The four-inch tungsten spike detonates inside the furnace core, delivering **680 Bludgeoning-Weight damage**!

@@ -92,12 +92,12 @@ The Grieving Colossus functions as a quadripartite modular combat construct. Eac
 
 ### 3.4 Part 4: Weeping Basalt Core (Chest / Heart)
 - **Hit Point Pool:** 1,000 HP • **Rupture Threshold:** 600 HP Sustained (Remaining HP: 400)
-- **Defense Multipliers:** Lament 0.6x • Grudge 0.8x • Void 1.5x (Fatal) • Weight 0.3x (Immune to conventional crushing)
+- **Defense Multipliers:** Lament 0.6x • Grudge 0.8x • Void 1.5x (Exposed) • Weight 0.3x (Immune to conventional crushing)
 - **Part Passive (Perpetual Sorrow Reservoir):** At the beginning of each combat turn, the un-ruptured core pumps pressurized Han-brine through the limbs, restoring 10 HP to all other undamaged modular parts.
 - **Rupture Penalty:**
   * Disables *Perpetual Sorrow Reservoir*.
   * Immediately forces a **Phase 3 Stance Shift**.
-  * Core defense shifts from 1.5x Void to **2.0x Fatal Void**, enabling massive burst execution.
+  * Core defense shifts from 1.5x Void to **2.0x Exposed Void**, enabling massive burst execution.
 
 ---
 
@@ -207,7 +207,7 @@ The encounter progresses through three distinct, escalating tactical phases tied
 3. **Tertiary Target — Basalt Crown:**
    During the Stagger turn, execute precision strikes against the Basalt Crown. Breaking the crown permanently removes *Acoustic Lament Wave*, protecting backline operatives from Composure drain.
 4. **Final Target — Weeping Basalt Core Burst:**
-   With all modular defenses dismantled and the core exposed to 2.0x Fatal Void damage, unleash high-tier Void execution skills to force terminal Composure Meltdown.
+   With all modular defenses dismantled and the core exposed to 2.0x Exposed Void damage, unleash high-tier Void execution skills to force terminal Composure Meltdown.
 
 ### 6.2 Recommended 4-Operative Squad Roster & Archetype Pairings
 

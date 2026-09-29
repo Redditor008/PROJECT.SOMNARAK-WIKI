@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Hover* [**Debuff**] } | "The pillar floats — and beneath it, the void it replaced the ground with presses up." | [The Pillar's absence of foundation sends void-energy downward.] | *Target suffers a Void mark; the ground beneath them is uncertain.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stands under the Pillar. |
 | { *The Unstable Arch* [**Debuff**] } | "The pillar wobbles — and everything it was supposed to support wobbles with it." | [The Pillar's instability spreads; structures creak and shift.] | *Target loses clarity; nothing is reliable anymore.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Dropped Pillar* [**Attack**] } | "The pillar falls — straight down, enormous, and the void beneath rushes up to meet it." | [The Pillar descends onto the target with full mass.] | *Inflicts Pale White damage; the impact erodes a vast portion.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
+| { *The Dropped Pillar* [**Attack**] } | "The pillar falls — straight down, enormous, and the void beneath rushes up to meet it." | [The Pillar descends onto the target with full mass.] | *Inflicts Void damage; the impact erodes a vast portion.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
 | { *The Foundation Void* [**Attack**] } | "The void beneath the pillar opens wide — and the ground simply is not there anymore." | [The Pillar's void-base expands, swallowing the floor.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
 | { *Everything Floats* [**Ultimate**] } | "Every pillar lifts — every foundation vanishes — and the whole field goes weightless, and void." | [The Pillar spreads its hover to every support.] | *All in range suffer Pale White erosion for three turns in the void-suspended ruin.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -193,7 +193,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

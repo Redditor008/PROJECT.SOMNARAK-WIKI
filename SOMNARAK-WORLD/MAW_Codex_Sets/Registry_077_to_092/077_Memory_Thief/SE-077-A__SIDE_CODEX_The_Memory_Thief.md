@@ -114,7 +114,7 @@ The set does not make an operator invisible in the simple sense. It makes attent
 
 | Field | Record |
 |---|---|
-| Lament / Grudge | 1.2 — Weak / 0.8 — Endured |
+| Lament / Grudge | 1.2 — Weak / 0.8 — Warded |
 | Void / Weight | 0.3 — Resistant / 1.1 — Weak |
 | Maximum Amount | 4 — Limited |
 | Echo Cost | 20 Sorrow Echoes |

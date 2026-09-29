@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Frost Spread* [**Debuff**] } | "Ice creeps from the relic across the floor — and it is reaching for your feet." | [The Relic radiates cold; frost extends toward the target.] | *Target suffers a Void mark; the cold is alive and hungry.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |
 | { *The Frozen Memory* [**Debuff**] } | "You touch the relic — and a memory flashes, perfect, preserved, and absolutely cold." | [The Relic imparts a frozen memory; the target feels it crystalize.] | *Target loses clarity; the preserved grief is too clear.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target touches the Relic. |
-| { *The Ice Shard* [**Attack**] } | "A shard of the relic's ice breaks free — sharp, ancient, and aimed." | [A frozen splinter launches from the Relic.] | *Inflicts Pale White damage; the cold carries away warmth and identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Relic is struck. |
+| { *The Ice Shard* [**Attack**] } | "A shard of the relic's ice breaks free — sharp, ancient, and aimed." | [A frozen splinter launches from the Relic.] | *Inflicts Void damage; the cold carries away warmth and identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Relic is struck. |
 | { *The Deep Freeze* [**Attack**] } | "The relic unleashes its stored cold — everything within reach goes solid." | [The Relic flash-freezes the area around the target.] | *A heavy Void freeze; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Relic is shattered. |
 | { *The Glacier* [**Ultimate**] } | "The relic's cold does not stop — it freezes the whole field, and the frost is permanent." | [The Relic extends its permafrost across the entire area.] | *All in range suffer Pale White erosion for three turns in the deep freeze.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -237,7 +237,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 5

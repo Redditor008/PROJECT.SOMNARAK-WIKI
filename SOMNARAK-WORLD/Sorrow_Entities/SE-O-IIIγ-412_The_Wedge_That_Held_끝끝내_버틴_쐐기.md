@@ -220,7 +220,7 @@ The strike face is flat and scarred by thousands of impacts. When swung with mom
 **Resistances:**
 - Grudge: 0.4 (Resistant)
 - Lament: 1.2 (Weak)
-- Weight: 0.7 (Endured)
+- Weight: 0.7 (Warded)
 - Void: 1.3 (Weak)
 **Max Amount:** 2
 **Cost:** 25 Sorrow Echoes

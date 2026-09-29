@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Ice Curtain* [**Debuff**] } | "The veil forms — a wall of translucent ice between you and everything you were reaching for." | [The Veil's barrier cuts the target off; isolation sets in.] | *Target suffers a Void mark; they are sealed away.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Veil descends. |
 | { *The Frost Spread* [**Debuff**] } | "The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute." | [The Veil's permafrost extends; the target's space shrinks.] | *Target loses clarity; the cold is consuming thought.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains behind the Veil. |
-| { *The Ice Spear* [**Attack**] } | "A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get through." | [An ice-lance launches from the Veil.] | *Inflicts Pale White damage; the cold pierces through identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Veil is probed. |
+| { *The Ice Spear* [**Attack**] } | "A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get through." | [An ice-lance launches from the Veil.] | *Inflicts Void damage; the cold pierces through identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Veil is probed. |
 | { *The Full Shatter* [**Attack**] } | "The entire veil detonates — and the cold behind it floods through." | [The Veil's barrier explodes, releasing the cold it held back.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Veil is broken. |
 | { *The Permafrost* [**Ultimate**] } | "The ice does not stop — every surface freezes, every opening seals — and the world becomes a sealed, frozen void." | [The Veil extends its permafrost across the whole field.] | *All in range suffer Pale White erosion for three turns behind the eternal ice.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -205,7 +205,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 2

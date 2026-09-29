@@ -47,7 +47,7 @@ During the The Sky of Borrowed Faces Source-Trace, the field team preserved this
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Sky of Borrowed Faces's Edge | γ Lament 14–24; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-926-B__MAW-W_Sky_of_Borrowed_Faces_s_Edge.md` |
-| Sky of Borrowed Faces's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-926-C__MAW-S_Sky_of_Borrowed_Faces_s_Veil.md` |
+| Sky of Borrowed Faces's Veil | γ; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-926-C__MAW-S_Sky_of_Borrowed_Faces_s_Veil.md` |
 | Sky of Borrowed Faces's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-926-D__MAW-G_Sky_of_Borrowed_Faces_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -65,7 +65,7 @@ Alert Level 5. ALL personnel. Echo-Core direct command. Director Majin on standb
 | **Han Pressure [ATK]** | 35–60 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[35–60 Crimson (HP) -> 35 Deep Blue (Sanity) -> 35 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[35–60 Crimson (HP) -> 35 Lament (Sanity) -> 35 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Spore Loom (Machine, Tide-Spawn-grade)
 
@@ -77,7 +77,7 @@ Alert Level 5. ALL personnel. Echo-Core direct command. Director Majin on standb
 | **Han Pressure [ATK]** | 40–65 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It weaves a dense aerial web of infectious mycelial filaments that entangles movement and infects armor seals with encroaching decay. **[40–65 Crimson (HP) -> 40 Deep Blue (Sanity) -> 40 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It weaves a dense aerial web of infectious mycelial filaments that entangles movement and infects armor seals with encroaching decay. **[40–65 Crimson (HP) -> 40 Lament (Sanity) -> 40 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Tide-Spawn-grade)
 
@@ -89,7 +89,7 @@ Alert Level 5. ALL personnel. Echo-Core direct command. Director Majin on standb
 | **Han Pressure [ATK]** | 45–70 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[45–70 Crimson (HP) -> 45 Deep Blue (Sanity) -> 45 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[45–70 Crimson (HP) -> 45 Lament (Sanity) -> 45 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia

@@ -43,7 +43,7 @@ The Shroud formed from the second tear the Prince gave after a work session ende
 | Lament | 0.4 | Resistant | It steadies the pain of separation while a clear handover exists. |
 | Grudge | 1.0 | Normal | Anger at an absence has no special passage through the cloth. |
 | Void | 1.6 | Weak | A false promise can hollow out the protection quickly. |
-| Weight | 0.8 | Endured | A defined responsibility is easier to carry than an endless one. |
+| Weight | 0.8 | Warded | A defined responsibility is easier to carry than an endless one. |
 
 | Field | Record |
 |---|---|

@@ -43,7 +43,7 @@ The Mantle formed from the soft dark residue left where the Giant’s seated han
 | Lament | 1.0 | Normal | Grief does not become smaller merely because a person is anchored. |
 | Grudge | 1.0 | Normal | Anger must be faced rather than pressed into the floor. |
 | Void | 1.5 | Weak | Absence makes it difficult to recognize a place where one belongs. |
-| Weight | 0.5 | Endured | The Mantle shares force with the ground instead of letting it crush the bearer. |
+| Weight | 0.5 | Warded | The Mantle shares force with the ground instead of letting it crush the bearer. |
 
 | Field | Record |
 |---|---|

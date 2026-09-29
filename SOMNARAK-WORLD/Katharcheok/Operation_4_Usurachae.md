@@ -324,8 +324,8 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
   * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the damping sphere. Holds 1 AP in Guard.
   * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Slips into vault cable trays toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: High Usurer Man-sik unleashes `[Foreclosure Cudgel Slam]` (Base 15 + 2 Coins = 27 Power, Heavy Blunt) against Node 02.
-    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 17 + 2 Coins = 31 Power, Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: High Usurer Man-sik unleashes `[Foreclosure Cudgel Slam]` (Base 15 + 2 Lots = 27 Power, Heavy Blunt) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 17 + 2 Lots = 31 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (31 vs 27)!
     * The kinetic shield absorbs the electrified golden cudgel blow without buckling (`[P3: Parry/Protection]`).
     * Taeho reflects **170 kinetic tremor damage** back into Man-sik's Midas engine! Inflicts +28 Posture Strain.
@@ -394,8 +394,8 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
   * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
   * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Leaded Ring]` (2 AP) around the bone-scale frame.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Man-sik executes `[High-Voltage Usury Sweep]` (Base 13 + 2 Coins = 25 Power, Electric).
-    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 17 + 2 Coins = 29 Power, Heavy Blunt).
+  * **Clash 1 (Node 04 to 05)**: Man-sik executes `[High-Voltage Usury Sweep]` (Base 13 + 2 Lots = 25 Power, Electric).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 17 + 2 Lots = 29 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (29 vs 25)!
     * The hydraulic ram smashes straight into the cudgel's power conduit sleeve!
     * Deals **540 Blunt damage** directly to the Foreclosure Cudgel and inflicts +54 Posture Strain!
@@ -455,8 +455,8 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
   * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on the cudgel battery capacitor.
   * Infiltrator Echo (Speed 9 -> 5 AP): Drops from high cable trays onto the cudgel's wrist joint, driving `[Eclipse Stiletto]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: Man-sik unleashes `[Absolute Foreclosure Slam]` (Base 16 + 2 Coins = 28 Power, Heavy Blunt).
-    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 20 + 2 Coins = 32 Power, High-Precision Pierce).
+  * **Clash 1 (Node 07 to 05)**: Man-sik unleashes `[Absolute Foreclosure Slam]` (Base 16 + 2 Lots = 28 Power, Heavy Blunt).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 20 + 2 Lots = 32 Power, High-Precision Pierce).
     * **Clash Outcome**: Minho WINS THE CLASH (32 vs 28)!
     * Minho's silver lancet pierces the main capacitor core of the cudgel with microscopic precision!
     * **TARGETED PART DESTROYED**: `[The Foreclosure Cudgel Arm]` explodes in a shower of golden sparks and molten copper (**1,060 Cudgel HP destroyed: 0/1,600**)!
@@ -519,8 +519,8 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
   * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect debtor sanity.
   * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the reinforced debtor cell doors (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIβ-015 unleashes `[Absolute Foreclosure: Gravitic Void Surge]` (Base 23 + 2 Coins = 33 Power, Area Void).
-    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Coins = 36 Power, Vacuum Barrier).
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIβ-015 unleashes `[Absolute Foreclosure: Gravitic Void Surge]` (Base 23 + 2 Lots = 33 Power, Area Void).
+    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Lots = 36 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (36 vs 33)!
     * The lead-lined vacuum sphere fully captures the crushing void gravity wave (`[P3: Parry/Protection]`).
     * Zero void resonance breaches the leaded barrier. Soojin redirects the trapped resonance into the scale dishes, dealing **520 Void damage** and +72 Posture Strain!
@@ -574,7 +574,7 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
   * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 12,400 predatory debt contracts at Node 06 (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 10)**: SE-C-IIIβ-015 lashes out with `[Gilded Obligation Guillotine]` (Atk Power 29, Void/Slash).
-    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 24 + 2 Coins Heads = 34 Power, Slash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 24 + 2 Lots Marked = 34 Power, Slash).
     * **Clash Outcome**: Echo WINS THE CLASH (34 vs 29)!
     * Echo slices cleanly through the gold-sinew cables connecting the two bone balance pans!
     * **CRITICAL HIT!** Deals **660 Slash damage** directly to the core and strips 90 Posture points!

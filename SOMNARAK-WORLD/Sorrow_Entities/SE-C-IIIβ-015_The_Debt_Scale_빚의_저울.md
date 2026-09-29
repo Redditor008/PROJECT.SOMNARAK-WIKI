@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Reading* [**Debuff**] } | "It weighs you — and the needle drops, and you are found heavy with what you owe." | [The Scale measures the target; the reading brands them with their debt.] | *Target suffers a Void mark; their debt is now visible to all.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Scale is consulted or approached. |
 | { *The Tipping Balance* [**Debuff**] } | "The scale tips against you, and the tilt does not stop." | [The balance leans harder; the target feels the debt pressing down.] | *Target loses clarity as the weight of owed things settles on them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains on the Scale. |
-| { *The Weight of Owed* [**Attack**] } | "Your debt, made into a stone, dropped on you." | [The Scale converts what the target owes into a single crushing force.] | *Inflicts Pale White damage proportional to the debt.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target is judged wanting. |
+| { *The Weight of Owed* [**Attack**] } | "Your debt, made into a stone, dropped on you." | [The Scale converts what the target owes into a single crushing force.] | *Inflicts Void damage proportional to the debt.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target is judged wanting. |
 | { *The Overdraft* [**Attack**] } | "You owe more than you have. The Scale takes the difference from you." | [The Scale calls the overdraft due, extracting what the target cannot pay.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Scale is struck or overloaded. |
 | { *The Bankruptcy* [**Ultimate**] } | "The Scale weighs everyone at once — and everyone comes up short." | [The Scale extends its judgment across the field; all debts are measured simultaneously.] | *All in range suffer Pale White erosion for three turns.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -235,7 +235,7 @@ The escalation pattern is specific to The Debt Scale: it is not a generic breach
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

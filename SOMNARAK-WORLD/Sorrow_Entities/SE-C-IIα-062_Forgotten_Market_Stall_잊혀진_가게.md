@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Empty Stall* [**Debuff**] } | "The stall is still open — but everything in it has been forgotten, including who was selling." | [The Stall radiates abandonment; the target feels the weight of things left behind.] | *Target suffers a Void mark; they are becoming forgotten.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Stall. |
 | { *The Worthless Goods* [**Debuff**] } | "The wares are still here — and they are all the things no one ever wanted to buy." | [The Stall displays unwanted sorrows; the target is compelled to browse.] | *Target loses clarity; the unwanted things call to them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target browses. |
-| { *The Dust Burst* [**Attack**] } | "Years of accumulated neglect, blown into your face." | [A cloud of Stall-dust engulfs the target.] | *Inflicts Pale White damage; the dust erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Stall is disturbed. |
+| { *The Dust Burst* [**Attack**] } | "Years of accumulated neglect, blown into your face." | [A cloud of Stall-dust engulfs the target.] | *Inflicts Void damage; the dust erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Stall is disturbed. |
 | { *The Fire Sale* [**Attack**] } | "Everything must go — and it goes, all at once, straight through you." | [The Stall empties its entire forgotten inventory at the target.] | *A heavy Void avalanche; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Stall is demolished. |
 | { *The Abandoned Market* [**Ultimate**] } | "Every stall in the district is empty — every transaction unfinished, every good unwanted." | [The Stall spreads its abandonment across the field.] | *All in range suffer Pale White erosion for three turns in the empty market.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -237,7 +237,7 @@ The escalation pattern is specific to Forgotten Market Stall: it is not a generi
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

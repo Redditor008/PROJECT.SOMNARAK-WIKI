@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The First Wisp* [**Debuff**] } | "A tendril of fog drifts in — not water-vapor, but something thinner, colder, less real — and it passes through your skin." | [The Fog's void-nature permeates the target; they feel less substantial.] | *Target suffers a Void mark; the fog is eroding their solidity.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Fog. |
 | { *The Thickening* [**Debuff**] } | "The fog densifies — and the thicker it gets, the less of you there seems to be." | [The Fog's accumulation reduces the target's presence; they are fading.] | *Target loses clarity; they are becoming translucent.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains in the Fog. |
-| { *The Cold Current* [**Attack**] } | "The fog surges — a wall of void-mist, driven by a wind that does not exist." | [ A fog-bank strikes with cold, eroding force.] | *Inflicts Pale White damage; the mist dissolves identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Fog is disturbed. |
+| { *The Cold Current* [**Attack**] } | "The fog surges — a wall of void-mist, driven by a wind that does not exist." | [ A fog-bank strikes with cold, eroding force.] | *Inflicts Void damage; the mist dissolves identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Fog is disturbed. |
 | { *The Total Obscuration* [**Attack**] } | "The fog becomes absolute — a wall of grey nothing — and everything beyond it ceases to be perceivable." | [The Fog's complete opacity removes all reference points.] | *A heavy Void wall of nothing; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Fog is forced to clear. |
 | { *The Fog World* [**Ultimate**] } | "The fog covers everything — and inside the fog, nothing is real, nothing is solid, nothing persists." | [The Fog extends its drift across the whole area.] | *All in range suffer Pale White erosion for three turns of drifting void.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -221,7 +221,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

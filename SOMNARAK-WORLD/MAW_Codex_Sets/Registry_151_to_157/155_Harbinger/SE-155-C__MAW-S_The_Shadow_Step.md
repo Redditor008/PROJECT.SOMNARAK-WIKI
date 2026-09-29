@@ -47,7 +47,7 @@ The Shadow Step is a black greave-plate pair of Han iron fitted over the lower l
 | Lament | 1.0 | Normal | Grief remains audible in the silence. |
 | Grudge | 1.0 | Normal | Resentment cannot be stepped around safely. |
 | Void | 1.5 | Weak | Social absence makes memory pressure more dangerous. |
-| Weight | 0.5 | Endured | The greaves reduce the immediate bodily pressure of debt dread. |
+| Weight | 0.5 | Warded | The greaves reduce the immediate bodily pressure of debt dread. |
 
 | Field | Record |
 |---|---|

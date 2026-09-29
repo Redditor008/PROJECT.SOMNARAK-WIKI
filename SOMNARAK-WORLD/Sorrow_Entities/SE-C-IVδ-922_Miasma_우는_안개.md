@@ -197,7 +197,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 - Lament: 0.3 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.2 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 

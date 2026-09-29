@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Reflection* [**Debuff**] } | "It shows you yourself — but the you in the glass is grieving in ways you have not admitted." | [The Mirror reflects the target's hidden sorrow back at them.] | *Target suffers a Void mark; the Mirror has seen their true grief.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
 | { *The Cracked Image* [**Debuff**] } | "The reflection fractures — and so does your sense of which one is real." | [The Mirror distorts; the target's self-image splinters.] | *Target loses clarity; they doubt which self is theirs.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares too long. |
-| { *The Glass Shard* [**Attack**] } | "A sliver of the mirror breaks free — and it cuts where it reflects." | [A jagged shard flies from the frame, sharp as a held secret.] | *Inflicts Pale White damage; it cuts away a piece of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
+| { *The Glass Shard* [**Attack**] } | "A sliver of the mirror breaks free — and it cuts where it reflects." | [A jagged shard flies from the frame, sharp as a held secret.] | *Inflicts Void damage; it cuts away a piece of identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
 | { *The Doppelganger* [**Attack**] } | "The you in the mirror steps out — and it is angrier than you remember." | [The reflection separates and attacks, made of the target's own sorrow.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |
 | { *A Thousand You* [**Ultimate**] } | "The mirror shatters into a thousand pieces — and every piece shows a different grieving you." | [The Mirror explodes into fragments, each reflecting sorrow outward.] | *All in range suffer Pale White erosion for three turns among the shards.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -235,7 +235,7 @@ The escalation pattern is specific to Learned Your Face: it is not a generic bre
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 3

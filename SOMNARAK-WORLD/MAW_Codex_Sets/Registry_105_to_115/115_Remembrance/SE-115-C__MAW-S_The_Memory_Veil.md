@@ -41,7 +41,7 @@ The Veil formed from the quiet surface wake left after an Archive viewer finishe
 | Element | Multiplier | Label | Protection / failure reason |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | The Veil cannot replace the witness grief requires. |
-| Grudge | 0.8 | Endured | Anger loses definition when it cannot settle on one borrowed memory. |
+| Grudge | 0.8 | Warded | Anger loses definition when it cannot settle on one borrowed memory. |
 | Void | 0.3 | Resistant | The fabric separates foreign memory from the bearer’s identity. |
 | Weight | 1.1 | Weak | The responsibility of remembrance still presses through. |
 

@@ -254,7 +254,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 

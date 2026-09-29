@@ -47,7 +47,7 @@ The Broken Mantle is a dark Han mantle split by mirrored black seams that never 
 | Lament | 1.0 | Normal | Grief for a former self is not a defect the Mantle removes. |
 | Grudge | 1.0 | Normal | Anger at change remains a separate response. |
 | Void | 1.5 | Weak | An erased name cannot be held by a reflected seam. |
-| Weight | 0.5 | Endured | The Mantle distributes identity Weight across acknowledged fragments. |
+| Weight | 0.5 | Warded | The Mantle distributes identity Weight across acknowledged fragments. |
 
 | Field | Record |
 |---|---|

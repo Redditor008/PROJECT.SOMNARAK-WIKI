@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Light Fingers* [**Debuff**] } | "Something brushes your temple — and a memory you were just thinking about is suddenly gone." | [The Thief lifts a memory from the target; the gap is immediate.] | *Target suffers a Void mark; a piece of their past is missing.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Thief approaches. |
 | { *The Growing Gaps* [**Debuff**] } | "More memories vanish — faces, names, places — and the gaps connect, forming voids in your mind." | [The Thief's thefts accumulate; the target's past is Swiss cheese.] | *Target loses clarity; they cannot trust their own history.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target fails to guard. |
-| { *The Stolen Strike* [**Attack**] } | "The thief throws one of your own memories at you — weaponized, sharpened, returned as a blade." | [A stolen memory is thrown back as a weapon.] | *Inflicts Pale White damage; the recalled-but-not-yours memory erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Thief is caught. |
+| { *The Stolen Strike* [**Attack**] } | "The thief throws one of your own memories at you — weaponized, sharpened, returned as a blade." | [A stolen memory is thrown back as a weapon.] | *Inflicts Void damage; the recalled-but-not-yours memory erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Thief is caught. |
 | { *The Full Heist* [**Attack**] } | "Every memory the thief ever stole — returned at once, in a flood of other people's pasts." | [The Thief releases its entire stolen collection.] | *A heavy Void flood of foreign memories; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Thief is cornered. |
 | { *The Empty Mind* [**Ultimate**] } | "Now everyone's memories are being stolen — and without pasts, no one knows who they are." | [The Thief extends its theft across the whole field.] | *All in range suffer Pale White erosion for three turns of stolen memory.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -207,7 +207,7 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

@@ -43,7 +43,7 @@ The Shroud grew from a cluster of fallen petals after a visitor stayed beneath t
 | Lament | 0.4 | Resistant | The fabric layers deferred sorrow rather than denying it. |
 | Grudge | 1.0 | Normal | Anger is not softened merely because a word remains unsaid. |
 | Void | 1.6 | Weak | Absence has no sentence for the Shroud to hold. |
-| Weight | 0.8 | Endured | A named burden becomes easier to carry in stages. |
+| Weight | 0.8 | Warded | A named burden becomes easier to carry in stages. |
 
 | Field | Record |
 |---|---|

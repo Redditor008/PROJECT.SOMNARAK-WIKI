@@ -211,7 +211,7 @@ The escalation pattern is specific to Midnight Choir: it is not a generic breach
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 

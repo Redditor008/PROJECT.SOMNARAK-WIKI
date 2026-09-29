@@ -201,7 +201,7 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 - Void: 1.6 (Weak)
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes

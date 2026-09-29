@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Cold Archaeology* [**Debuff**] } | "The ruins are perfectly preserved in ice — every detail sharp, every grief intact, and the cold is absolute." | [The Ruin's permafrost radiates; the target feels the preserved sorrow.] | *Target suffers a Void mark; the ancient grief is still alive.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |
 | { *The Frozen Inhabitant* [**Debuff**] } | "Inside the ice, you can see the people who lived here — frozen mid-gesture, mid-scream." | [The Ruin's preserved inhabitants stare through the ice; the target feels watched.] | *Target loses clarity; the frozen dead see everything.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target looks into the ice. |
-| { *The Ice Slab* [**Attack**] } | "A sheet of permafrost breaks free — heavy, sharp, ancient." | [A block of frozen ruin detaches and strikes.] | *Inflicts Pale White damage; the ancient cold erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Ruin is struck. |
+| { *The Ice Slab* [**Attack**] } | "A sheet of permafrost breaks free — heavy, sharp, ancient." | [A block of frozen ruin detaches and strikes.] | *Inflicts Void damage; the ancient cold erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Ruin is struck. |
 | { *The Full Thaw* [**Attack**] } | "The ice gives way — and every preserved inhabitant, every stored grief, is released." | [The Ruin's permafrost fails; the ancient sorrow floods out.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Ruin is melted. |
 | { *The Glacier* [**Ultimate**] } | "The permafrost spreads — freezing every ruin, every ruin's inhabitant, until the whole field is an icy graveyard." | [The Ruin extends its permafrost across the whole area.] | *All in range suffer Pale White erosion for three turns in the frozen city.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -235,7 +235,7 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 2

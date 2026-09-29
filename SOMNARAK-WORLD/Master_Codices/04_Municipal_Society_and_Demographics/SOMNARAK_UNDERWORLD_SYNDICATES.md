@@ -187,7 +187,7 @@ The syndicate maintains an exhaustive private map of every drainage flue, abando
 | SIGNATURE MOVE : 'Acoustic Blindfold' (Disrupts target perception   |
 | on Node 1-10)                                                       |
 | AFFLICTION CAUSE: 'Resonance Mirage' (Target clash rolls suffer -3  |
-| coin power)                                                         |
+| lot power)                                                         |
 | VULNERABILITY : Extremely low health pool; folds instantly to heavy |
 | blunt hits                                                          |
 +=====================================================================+
@@ -397,7 +397,7 @@ The syndicates utilize specialized chemical, acoustic, and psychological status 
 
 2. **Acoustic Blindfold (음향 암전 — Eumhyang Amjeon)**:
    - *Source*: Veil Merchant acoustic baffles and prism darts.
-   - *Mechanic*: Target cannot target units beyond adjacent nodes (Range Band restricted to 1). Clash coin flip results are obscured, and evasive skills gain +4 power.
+   - *Mechanic*: Target cannot target units beyond adjacent nodes (Range Band restricted to 1). Clash lot cast results are obscured, and evasive skills gain +4 power.
 
 3. **Amnesiac Void (기억 공백 — Gieok Gongbaek)**:
    - *Source*: Memory Washer neural siphons.

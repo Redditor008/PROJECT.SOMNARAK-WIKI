@@ -47,7 +47,7 @@ During the The Cracked Flesh Source-Trace, the field team preserved this source 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Awakened Marrow-Spike & Tendril | γ Grudge 14–19; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-921-B__MAW-W_Cracked_Flesh_s_Edge.md` |
-| The Suture-Cracked Hauberk | γ; L/G/V/W 1 (Normal)/0.3 (Resistant)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md` |
+| The Suture-Cracked Hauberk | γ; L/G/V/W 1 (Normal)/0.3 (Resistant)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md` |
 | The Fissured Skin Stigma | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-921-D__MAW-G_Cracked_Flesh_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

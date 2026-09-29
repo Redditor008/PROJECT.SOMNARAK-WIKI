@@ -114,7 +114,7 @@ The set reveals missing history and protects against void erosion. Its cost is c
 
 | Field | Record |
 |---|---|
-| Lament / Grudge | 1.2 — Weak / 0.8 — Endured |
+| Lament / Grudge | 1.2 — Weak / 0.8 — Warded |
 | Void / Weight | 0.3 — Resistant / 1.1 — Weak |
 | Maximum Amount / Echo Cost | 3 — Standard / 35 Sorrow Echoes |
 | Primary Cost | The wearer feels faintly absent to themself. |

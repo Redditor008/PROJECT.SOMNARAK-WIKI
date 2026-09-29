@@ -47,7 +47,7 @@ During the The Well of Unfinished Words Source-Trace, the field team preserved t
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Listening Requiem | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-778-B__MAW-W_The_Listening_Requiem.md` |
-| The Listening Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-778-C__MAW-S_The_Listening_Shroud.md` |
+| The Listening Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-778-C__MAW-S_The_Listening_Shroud.md` |
 | The Listening Vial | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-778-D__MAW-G_The_Listening_Vial.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

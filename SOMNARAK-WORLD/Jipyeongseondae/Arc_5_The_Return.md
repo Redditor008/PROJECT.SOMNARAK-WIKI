@@ -26,7 +26,7 @@
 | - Total Health (HP): 5,900 HP | Posture Pool: 380/380               |
 | - Stagger 1 Proc : 60% Posture Strain (228 Posture) / Cannon Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Marauder Route)           |
-| - Resistances : Weight 2.0x (Fatal), Grudge 1.5x, Lament 0.5x, Void |
+| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Lament 0.5x, Void |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
@@ -154,8 +154,8 @@ Warlord Garek relied upon high-speed kinetic shock, using the **Spiked Ram** to 
   * Hwaran (Speed 7 -> 4 AP): Holds Node 03. Spends 2 AP on `[Flank Suppression Volley]`. Spends 2 AP on `[Smoke Canister]`.
   * Garek (Speed 7 -> 4 AP): Charges from Node 05 to Node 03. Spends 2 AP on `[Twin Rotary Barrage]`. Spends 2 AP on `[Spiked Ram Rush]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Garek fires `[Twin Rotary Barrage]` (Base 18 + 2 Coins = 28 Power, Rapid Kinetic/Pierce).
-    * Kael intercepts with `[Trench-Cleaver: Ballistic Sweep]` (Base 21 + 2 Coins = 33 Power, Obsidian Heavy Blade).
+  * **Clash 1 (Node 02 to 05)**: Garek fires `[Twin Rotary Barrage]` (Base 18 + 2 Lots = 28 Power, Rapid Kinetic/Pierce).
+    * Kael intercepts with `[Trench-Cleaver: Ballistic Sweep]` (Base 21 + 2 Lots = 33 Power, Obsidian Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Kael's cleaver spins in an impenetrable circle of dark obsidian; hundreds of heavy autocannon rounds ricochet violently into the canyon walls (`[P3: Parry/Protection]`).
     * Reflected kinetic tremor inflicts **290 damage** back into the gun turrets, causing +56 Posture Strain!
@@ -206,8 +206,8 @@ Warlord Garek relied upon high-speed kinetic shock, using the **Spiked Ram** to 
   * Kael (Speed 8 -> 4 AP [Surge]): Steps from Node 02 to Node 03. Spends 3 AP on `[Obsidian Cleaver: Turret Severance]`. Holds 1 AP in Guard.
   * Hwaran (Speed 9 -> 5 AP): Spends 3 AP on `[Armor-Piercing Slag Shot]`. Spends 2 AP on `[Flank Suppression]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: Garek charges with `[Ram-Plow Full Throttle]` (Base 20 + 2 Coins = 28 Power, Heavy Weight/Ram).
-    * Kael clashes with `[Obsidian Cleaver: Turret Severance]` (Base 26 + 3 Coins Heads = 45 Power, Heavy Weight/Shatter).
+  * **Clash 1 (Node 03 to 05)**: Garek charges with `[Ram-Plow Full Throttle]` (Base 20 + 2 Lots = 28 Power, Heavy Weight/Ram).
+    * Kael clashes with `[Obsidian Cleaver: Turret Severance]` (Base 26 + 3 Lots Marked = 45 Power, Heavy Weight/Shatter).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (45 vs 28)!
     * Kael vaults over the charging ram, landing squarely on the war-rig's armored hood; his cleaver slices through both rotary gun mounts like butter!
     * The ammo magazines ignite, blasting the turrets fifty feet into the air in a spectacular explosion!
@@ -261,8 +261,8 @@ Warlord Garek relied upon high-speed kinetic shock, using the **Spiked Ram** to 
   * Kael (Speed 8 -> 4 AP): Moves to Node 04 right at the radiator grill. Spends 2 AP on `[Glass Fist: Engine Fracture]`. Spends 2 AP on `[Cleaver Cleave]`.
   * Hwaran (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Thermite Transmission Dart]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Garek sweeps with `[Death-Spin Ram Drill]` (Base 18 + 2 Coins = 26 Power, Heavy Kinetic/Shatter).
-    * Kael clashes with `[Glass Fist: Engine Fracture]` (Base 23 + 2 Coins = 35 Power, Seismic Weight).
+  * **Clash 1 (Node 04 to 05)**: Garek sweeps with `[Death-Spin Ram Drill]` (Base 18 + 2 Lots = 26 Power, Heavy Kinetic/Shatter).
+    * Kael clashes with `[Glass Fist: Engine Fracture]` (Base 23 + 2 Lots = 35 Power, Seismic Weight).
     * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
     * Kael drives his translucent glass fist straight into the spiked ram's central mounting knuckle; the acoustic vibration shears the four-inch bolts instantly!
     * The two-ton steel ram breaks free, jamming beneath the war-rig's front axle and flipping the thirty-meter crawler onto its side in a catastrophic rollover!
@@ -312,7 +312,7 @@ Warlord Garek relied upon high-speed kinetic shock, using the **Spiked Ram** to 
   * Kael (Speed 11 -> 5 AP, Momentum Crit): Stands atop the overturned chassis at Node 05. Spends 3 AP on `[Four-Fold Cleaver Execution]`. Spends 2 AP on `[Seismic Impact]`.
   * Hwaran: Calls in `[Spinal Battery Precision Kinetic Strike]` (3 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Kael's `[Four-Fold Cleaver Execution]`: Rips through the armored cupola for **1,180 Heavy Weight damage** (Fatal 2.0x proc!)!
+  * Kael's `[Four-Fold Cleaver Execution]`: Rips through the armored cupola for **1,180 Heavy Weight damage** (Exposed 2.0x proc!)!
   * Kael's `[Seismic Impact]`: Crushes the remaining ram mounts for **510 Shatter damage**!
   * Drift Throne Spinal Shot: Kinetic round obliterates the rig's engine block for **480 Blast damage**!
   * **TOTAL BURST DAMAGE: 2,170 DAMAGE!**
@@ -354,14 +354,14 @@ Warlord Garek relied upon high-speed kinetic shock, using the **Spiked Ram** to 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Corsair Last Stand & Horizon Cleaver)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Garek kicks open the crumpled hatch of the cupola, bleeding from the scalp, raising twin sawed-off heavy slag shotguns!
-  * Boss Special Skill: `[Point-Blank Double Slag Blast]` (Brutal Kinetic Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Point-Blank Double Slag Blast]` (Brutal Kinetic Cataclysm, 3 Lots).
   * Kael activates Relic Overdrive: `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Kael (Speed 9 -> 5 AP [Overdrive]): Steps straight onto the smoking hatch at Node 06, bringing the obsidian blade down.
   * Hwaran: Secures the flanking ravines at Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 06)**: Garek fires `[Point-Blank Double Slag Blast]` (Base 23 + 3 Coins = 35 Power, Point-Blank Kinetic/Heat).
-    * Kael clashes with `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Base 30 + 3 Coins Heads = 52 Power, Seismic Execution).
+  * **Clash 1 (Node 05 to 06)**: Garek fires `[Point-Blank Double Slag Blast]` (Base 23 + 3 Lots = 35 Power, Point-Blank Kinetic/Heat).
+    * Kael clashes with `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Base 30 + 3 Lots Marked = 52 Power, Seismic Execution).
     * **Clash Outcome**: KAEL OVERWHELMING RELIC CLASH WIN (52 vs 35)!
     * Kael's glass arm deflects the twin blasts of buckshot into the sky (`[P3: Parry/Protection]`).
     * The broad side of his trench-cleaver smashes into Garek's chest, shattering his shotgun receivers and pinning him to the crushed iron roof!

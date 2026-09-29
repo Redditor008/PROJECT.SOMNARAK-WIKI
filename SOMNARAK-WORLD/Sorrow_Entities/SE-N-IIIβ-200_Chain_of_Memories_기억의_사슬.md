@@ -231,7 +231,7 @@ The escalation pattern is specific to Chain of Memories: it is not a generic bre
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 1.0 (Normal)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 - Void: 1.5 (Weak)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes

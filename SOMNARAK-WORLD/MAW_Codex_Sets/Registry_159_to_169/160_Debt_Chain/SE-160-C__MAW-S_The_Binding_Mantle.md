@@ -47,7 +47,7 @@ The Binding Mantle is a black mantle with a loose chain pattern that never close
 | Lament | 1.0 | Normal | Grief about obligation remains emotionally present. |
 | Grudge | 1.0 | Normal | Anger at the system cannot be worn away. |
 | Void | 1.5 | Weak | Identity is vulnerable when a reviewer becomes the debt. |
-| Weight | 0.5 | Endured | The Mantle disperses immediate obligation pressure. |
+| Weight | 0.5 | Warded | The Mantle disperses immediate obligation pressure. |
 
 | Field | Record |
 |---|---|

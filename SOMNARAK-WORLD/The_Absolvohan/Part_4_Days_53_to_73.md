@@ -168,8 +168,8 @@ Director Majin establishes split-squad GBS tactical coordinates:
   * Specialist Kim (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready concentrated carbine suppressive fire. Remaining 1 AP held in Guard.
   * Specialist Hwang (Speed 6 -> 3 AP) operates from Node 6 (Range Band 3), aiming an armor-piercing Void arrow at the spire's energy conduit.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Siphon Spire A attempts `[High-Torque Escapement Sweep]` (Base 8 + 2 Coins = 12 Power).
-  * Specialist Park's `[Judgment Maul Escapement Crusher]` (Base 11 + 2 Coins = 15 Power).
+  * Siphon Spire A attempts `[High-Torque Escapement Sweep]` (Base 8 + 2 Lots = 12 Power).
+  * Specialist Park's `[Judgment Maul Escapement Crusher]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Park WINS THE CLASH (15 vs 12).
     * Park's heavy maul shatters the main clockwork axle, halting energy siphonage and dealing **46 Grudge damage** with +28 Stagger!
   * Hwang and Kim fire coordinated bursts from Nodes 4 and 6, cutting down emerging gear scuttlers.
@@ -596,8 +596,8 @@ Director Majin establishes GBS tactical deployment at Floor 7's outer bulkhead:
   * Specialist Park (Speed 6 -> 3 AP) anchors Node 3 in Point-Blank Range Band 1. Spends 2 AP to brace *Judgment Scale* in a kinetic absorb stance.
   * Specialist Song (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to ready `[Cherub's Bow Resonant Arrow]`.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
-  * Blood-Tide Shroud declares `[Sanguine Lash Volley]` (Base 9 + 2 Coins = 13 Power).
-  * Shadow Lead Ishall's `[Unanswered Talon]` (Base 11 + 2 Coins = 15 Power).
+  * Blood-Tide Shroud declares `[Sanguine Lash Volley]` (Base 9 + 2 Lots = 13 Power).
+  * Shadow Lead Ishall's `[Unanswered Talon]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Ishall WINS THE CLASH (15 vs 13).
     * Ishall's floating relic digits slice cleanly through the shroud's ectoplasmic core, dealing **44 Void damage** and inflicting +26 Stagger!
   * Park absorbs the deflected crimson spray behind *Judgment Scale*, suffering 0 damage.
@@ -1021,8 +1021,8 @@ Director Majin establishes GBS tactical coordinates at Floor 5's stairwell:
   * Specialist Kim (Speed 5 -> 3 AP) takes Node 4 (Range Band 2). Spends 2 AP to prepare incendiary carbine rounds to burn acid webs. Remaining 1 AP held in Guard.
   * Specialist Hwang (Speed 6 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to charge `[Wellspring Lens Void Lance]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
-  * Alpha Tremor Spider strikes with `[Acid Mandible Pincer]` (Base 9 + 2 Coins = 13 Power).
-  * Specialist Park's `[Judgment Maul Thorax Impact]` (Base 11 + 2 Coins = 15 Power).
+  * Alpha Tremor Spider strikes with `[Acid Mandible Pincer]` (Base 9 + 2 Lots = 13 Power).
+  * Specialist Park's `[Judgment Maul Thorax Impact]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Park WINS THE CLASH (15 vs 13).
     * Park's warhammer shatters the spider's front armored leg, driving it back to Node 1 and dealing **48 Weight damage** with +26 Stagger!
   * Hwang's Void lance strikes the spider's exposed carapace from Node 6 for 36 piercing damage.
@@ -1447,8 +1447,8 @@ Director Majin establishes sniper battery coordinates across the central plaza:
   * Specialist Hwang (Speed 6 -> 3 AP) stands at Node 6 (Range Band 3). Spends 2 AP to charge `[Wellspring Lens Void Piercer]`.
   * Specialist Kim (Speed 5 -> 3 AP) deploys at Node 8 (Range Band 4), spending 2 AP to prime suppressive stasis rounds.
 - **Step 3: Clash Resolution (Node 1 to 5)**:
-  * Levitating Spire A declares `[Corridor Annihilation Beam]` on Node 5 (Base 9 + 2 Coins = 13 Power).
-  * Specialist Song's `[Synchronized Resonant Bolt]` (Base 11 + 2 Coins = 15 Power).
+  * Levitating Spire A declares `[Corridor Annihilation Beam]` on Node 5 (Base 9 + 2 Lots = 13 Power).
+  * Specialist Song's `[Synchronized Resonant Bolt]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Song WINS THE CLASH (15 vs 13).
     * Song's acoustic arrow threads directly down the aperture of the charging death-ray, detonating inside the spire's core and dealing **46 Lament damage** with +28 Stagger!
   * Hwang follows with a precision Void beam, fracturing the spire's levitation gyros.
@@ -1786,7 +1786,7 @@ Specialist Park enters Chamber 102 for Ferrehan containment:
 
 ```text
 > Chamber Telemetry: "The iron chains sway to the rhythm of human pulse rates..."
-> Fear Check: Level V Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
+> Dread Check: Level V Senior Specialist vs Class III Entity -> RESULT: ABSOLUTE CALM.
 ```
 
 - **Work Tick 01–06:** 6 Successes. Park matches his breathing to the swinging chains.
@@ -1846,10 +1846,10 @@ A colossal, segmented insectoid leviathan plated in superheated basalt chitin er
 ##### Turn 01 Action Resolution Log (Spatial Ingress & Bedrock Clash)
 - **Operative Movement & Clash Standoff**:
   * **Boundary Vanguard Xyan (Speed 6 -> 3 AP)**: Steps up to Node 04, planting his Desolate flue into the bedrock. Declares `[Bedrock Bulwark Anchor]` (Costs 2 AP).
-  * The Magma Tunneler unleashes `[Subterranean Magma Charge]` against Node 04 (Base 10 + 2 Coins = 14 Power).
+  * The Magma Tunneler unleashes `[Subterranean Magma Charge]` against Node 04 (Base 10 + 2 Lots = 14 Power).
   * Xyan's Roll:
     * *Passive Trigger:* `Bedrock Anchor` (+2 Base Clash Power).
-    * Xyan Roll: Base 11 + 2 Coins = **15 Power**!
+    * Xyan Roll: Base 11 + 2 Lots = **15 Power**!
   * **Clash Result**: **Xyan WINS THE CLASH (15 vs 14)!**
     * Xyan's heavy mail absorbs the crushing charge, redirecting the kinetic force into the floorplates!
     * Deals 32 Weight damage (HP: 328/360) and inflicts +28 Posture Strain (Posture: 152/180).
@@ -2231,8 +2231,8 @@ The three floor leads form an unbreakable wall of lead and molybdenum across the
   * Border Lead Mellda (Speed 6 -> 3 AP) locks Node 3 with *Threshold Vow*, spending 2 AP to brace for impact.
   * Shadow Lead Ishall (Speed 7 -> 4 AP) shifts to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Unanswered Void Strike]`. Remaining 1 AP in Guard.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
-  * Deep Vault Echo unloads `[Harmonic Shockwave of the Before-Time]` (Base 11 + 2 Coins = 15 Power).
-  * Mellda & Dekan's `[Bulwark of Molybdenum]` (Base 12 + 2 Coins = 16 Power).
+  * Deep Vault Echo unloads `[Harmonic Shockwave of the Before-Time]` (Base 11 + 2 Lots = 15 Power).
+  * Mellda & Dekan's `[Bulwark of Molybdenum]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: The Floor Leads WIN THE CLASH (16 vs 15).
     * The golden and dark-steel shields hold fast against the pale tide. The kinetic backlash jars the Echo's dimensional matrix, dealing **48 Weight/Pale damage** with +30 Stagger!
   * Ishall's floating digits pierce the fracture line, unraveling its harmonic core.
@@ -2399,7 +2399,7 @@ The three floor leads form an unbreakable wall of lead and molybdenum across the
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Deep Vault foundation locks withstand the  |
 | harmonic toll.                                                      |
-| 2. Status Equilibrium : Pale shockwave dissolves; team SP at full   |
+| 2. Status Equilibrium : Void shockwave dissolves; team SP at full   |
 | capacity.                                                           |
 | 3. Containment Check : Deep Vault Echo returned to inert            |
 | subterranean salt.                                                  |

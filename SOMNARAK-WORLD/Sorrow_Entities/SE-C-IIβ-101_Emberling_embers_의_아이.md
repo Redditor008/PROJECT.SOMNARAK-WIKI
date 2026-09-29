@@ -209,8 +209,8 @@ Appearance : A heavy hooded cape tailored from fire-retardant spun asbestos and 
 The lower hem is singed into permanent glowing charcoal edges that never burn through the dense fabric. Microscopic heat pockets woven throughout the lining shield the wearer from freezing cold and disperse explosive thermal shockwaves outward.
 
 **Resistances:**
-- Lament: 0.6 (Endured)
-- Grudge: 0.8 (Endured)
+- Lament: 0.6 (Warded)
+- Grudge: 0.8 (Warded)
 - Void: 1.5 (Weak)
 - Weight: 1.0 (Normal)
 **Max Amount:** 4

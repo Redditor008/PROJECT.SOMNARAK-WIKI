@@ -47,7 +47,7 @@ During the The The First Tear Source-Trace, the field team preserved this source
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The First Requiem | δ (Critical) Lament 5–25; Speed 5 (Instant); Range 5 (Room); AoE; max 2; 50 Sorrow Echoes | `SE-1030-B__MAW-W_The_First_Requiem.md` |
-| The First Shroud | δ (Critical); L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 2; 45 Sorrow Echoes | `SE-1030-C__MAW-S_The_First_Shroud.md` |
+| The First Shroud | δ (Critical); L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-1030-C__MAW-S_The_First_Shroud.md` |
 | The First Charm | δ (Critical); Neck; 4%; +3 stat bonus when working the source entity | `SE-1030-D__MAW-G_The_First_Charm.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -143,7 +143,7 @@ It was an immense, arachnid horror thirty feet across, whose exoskeleton was cra
 |                CONTAINMENT BREACH: COGNITIVE PROFILE                |
 +---------------------------------------------------------------------+
 | ENTITY       : SE-C-IVg-009 (The Memory Weaver / Rank IV Entity)    |
-| CLASSIFICATN : City Sorrow (Subject-Dream) / Element: Void (Pale)   |
+| CLASSIFICATN : City Sorrow (Subject-Dream) / Element: Void (Pale White)   |
 | AMNESIA AURA : Radius 60m / Progressive Cognitive Erasure -20/Turn  |
 | VOID THREAD  : High-Tensile Memory Silk / Restricts Movement & AP   |
 | LETHAL THRESH: Complete Cerebral Vitrification of Echo-Core 2       |

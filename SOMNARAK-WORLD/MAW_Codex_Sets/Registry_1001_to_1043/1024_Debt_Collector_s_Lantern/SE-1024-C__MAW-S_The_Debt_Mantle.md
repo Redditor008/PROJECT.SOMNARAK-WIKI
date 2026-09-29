@@ -24,7 +24,7 @@
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1.0 (Normal) | 1.0 (Normal) | 1.5 (Weak) | 0.5 (Endured) | 4 / 20 Sorrow Echoes |
+| 1.0 (Normal) | 1.0 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer carries a constant low fatigue and cannot run lightly. Continued use makes Debt Collector's Lantern's source sorrow feel autobiographical.
 

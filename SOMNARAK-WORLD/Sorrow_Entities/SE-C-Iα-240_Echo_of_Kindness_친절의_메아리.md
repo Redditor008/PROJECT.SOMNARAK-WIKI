@@ -207,7 +207,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 - Void: 1.6 (Weak)
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes

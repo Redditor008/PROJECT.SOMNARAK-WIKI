@@ -47,7 +47,7 @@ During the The Goru s Fist Source-Trace, the field team preserved this source fa
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Goru's Fist's Edge | γ Grudge 14–22; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-902-B__MAW-W_Goru_s_Fist_s_Edge.md` |
-| Goru's Fist's Veil | γ; L/G/V/W 1 (Normal)/0.3 (Resistant)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-902-C__MAW-S_Goru_s_Fist_s_Veil.md` |
+| Goru's Fist's Veil | γ; L/G/V/W 1 (Normal)/0.3 (Resistant)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-902-C__MAW-S_Goru_s_Fist_s_Veil.md` |
 | Goru's Fist's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-902-D__MAW-G_Goru_s_Fist_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

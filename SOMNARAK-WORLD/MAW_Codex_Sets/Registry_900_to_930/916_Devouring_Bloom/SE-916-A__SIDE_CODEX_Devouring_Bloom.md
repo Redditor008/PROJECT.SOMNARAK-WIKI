@@ -47,7 +47,7 @@ During the The Devouring Bloom Source-Trace, the field team preserved this sourc
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Devouring Bloom Maul | δ Weight 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-916-B__MAW-W_Devouring_Bloom_Maul.md` |
-| Devouring Bloom Mantle | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 2; 45 Sorrow Echoes | `SE-916-C__MAW-S_Devouring_Bloom_Mantle.md` |
+| Devouring Bloom Mantle | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 2; 45 Sorrow Echoes | `SE-916-C__MAW-S_Devouring_Bloom_Mantle.md` |
 | Devouring Bloom Key | δ; Head; 4%; +3 stat bonus when working the source entity | `SE-916-D__MAW-G_Devouring_Bloom_Key.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -43,7 +43,7 @@ The Shroud formed alongside the Requiem after a Scar team completed a route acco
 | Lament | 0.4 | Resistant | It shares a cold grief surge across a verified route team. |
 | Grudge | 1.0 | Normal | Blame remains a separate pressure from grief. |
 | Void | 1.6 | Weak | An absent route partner cannot be replaced by cloth. |
-| Weight | 0.8 | Endured | A mapped crossing makes responsibility easier to bear. |
+| Weight | 0.8 | Warded | A mapped crossing makes responsibility easier to bear. |
 
 | Field | Record |
 |---|---|

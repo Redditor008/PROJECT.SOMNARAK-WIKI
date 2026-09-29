@@ -47,7 +47,7 @@ During the The Chain of Memories Source-Trace, the field team preserved this sou
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | The Memory Maul | β Weight 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1020-B__MAW-W_The_Memory_Maul.md` |
-| The Memory Mantle | β; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 4; 20 Sorrow Echoes | `SE-1020-C__MAW-S_The_Memory_Mantle.md` |
+| The Memory Mantle | β; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Warded); max 4; 20 Sorrow Echoes | `SE-1020-C__MAW-S_The_Memory_Mantle.md` |
 | The Memory Link | β; Head; 5%; +1 stat bonus when working the source entity | `SE-1020-D__MAW-G_The_Memory_Link.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

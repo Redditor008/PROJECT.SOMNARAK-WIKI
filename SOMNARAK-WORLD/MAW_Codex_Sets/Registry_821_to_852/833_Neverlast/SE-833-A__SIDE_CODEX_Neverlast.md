@@ -47,7 +47,7 @@ During the The Neverlast Source-Trace, the field team preserved this source fact
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Neverlast's Requiem | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-833-B__MAW-W_Neverlast_s_Requiem.md` |
-| Neverlast's Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-833-C__MAW-S_Neverlast_s_Shroud.md` |
+| Neverlast's Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-833-C__MAW-S_Neverlast_s_Shroud.md` |
 | Neverlast's Crown | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-833-D__MAW-G_Neverlast_s_Crown.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

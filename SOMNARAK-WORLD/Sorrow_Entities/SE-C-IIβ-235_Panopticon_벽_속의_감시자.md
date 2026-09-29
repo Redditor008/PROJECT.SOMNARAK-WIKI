@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Eyes Open* [**Debuff**] } | "You realize the walls have been watching the whole time." | [Eyes open across the walls; the target feels observed from every surface.] | *Target suffers a Void mark; the Watcher has noticed them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Watcher's space. |
 | { *The Whispered Name* [**Debuff**] } | "The walls whisper your name — and you cannot find the mouth that said it." | [The walls murmur the target's secrets; paranoia sets in.] | *Target loses clarity; they distrust every shadow.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers under surveillance. |
-| { *The Reach* [**Attack**] } | "A hand unfolds from the plaster, slow and certain." | [A limb extends from the wall and seizes the target.] | *Inflicts Pale White damage; the wall takes a piece of them.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target turns their back. |
+| { *The Reach* [**Attack**] } | "A hand unfolds from the plaster, slow and certain." | [A limb extends from the wall and seizes the target.] | *Inflicts Void damage; the wall takes a piece of them.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the target turns their back. |
 | { *The Swallowed* [**Attack**] } | "The wall opens — and you understand, too late, that it was never solid." | [The Watcher pulls the target partway into the wall's void.] | *A heavy Void strike; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Watcher is cornered or attacked. |
 | { *The Walls Have Ears* [**Ultimate**] } | "Every wall, every surface, every shadow — watching, all at once." | [The Watcher extends through every surface, filling the field with eyes.] | *All in range suffer Pale White erosion for three turns under the gaze.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

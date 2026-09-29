@@ -30,7 +30,7 @@ A blue shroud carrying the texture of old foundation cloth.
 | Lament resistance | 0.3 (Resistant) |
 | Grudge resistance | 1 (Normal) |
 | Void resistance | 1.3 (Weak) |
-| Weight resistance | 0.7 (Endured) |
+| Weight resistance | 0.7 (Warded) |
 | Max Amount | 3 |
 | Echo cost | 35 Sorrow Echoes |
 | Canonical ability | Grants resistance to Lament and Composure-drain; lets the wearer stand in foundational grief without bending. |

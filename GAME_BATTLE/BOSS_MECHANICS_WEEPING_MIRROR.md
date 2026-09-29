@@ -22,7 +22,7 @@
 - **Entity Archive Code:** `SE-C-IVδ-195` (Cataloged in containment registries as `C-IIIγ-195 [VO]` / *Learned Your Face*)
 - **Vernacular Moniker:** The Weeping Mirror / The Mirror of Sorrows (슬픔의 거울 — *Seulpeum-ui Geoul*)
 - **Known Manifestation Sector:** Facility 01 Chamber 195, Subterranean Research Wing (Floor 4, Depth -2,400m)
-- **Primary Affinities:** Void (Primary, Pale White) • Lament (Secondary, Acoustic Brine) • Weight (Fatal Vulnerability)
+- **Primary Affinities:** Void (Primary, Pale White) • Lament (Secondary, Acoustic Brine) • Weight (Exposed Vulnerability)
 - **Territorial Demarcation:** High-Risk Cognitive Hazard / Containment Realization Sovereign
 - **Lore Profile & Macro-Canon Significance:**
   The Weeping Mirror is a three-meter-tall monumental looking glass encased in blackened iron and gold filigree, recovered from the deepest strata of the Alpha Tree root complex. Historical records from the Early Decades reveal the entity condensed from the collective repressed grief that citizens, wardens, and administrative leads concealed from one another across centuries.
@@ -40,7 +40,7 @@
 - **Spatial Grid Anchor:** Anchored at Node `[N08]` during Phase 1; projects *Mirrored Twin Simulacra* across Midline Nodes `[N04]` to `[N06]`.
 - **Specular Reflector Properties:**
   * **Energy Dissipation:** The mirror takes only 0.5x damage from Void and Lament attacks, absorbing psychic energy to charge its internal optical prism.
-  * **Brittle Structural Resonance:** Highly susceptible to physical blunt and tectonic shock (1.8x Fatal Weight damage multiplier applies against the Silvered Glass Core).
+  * **Brittle Structural Resonance:** Highly susceptible to physical blunt and tectonic shock (1.8x Exposed Weight damage multiplier applies against the Silvered Glass Core).
   * **Gaze Dissociation Aura:** Unprotected operatives occupying Nodes `[N05]` to `[N10]` who lack Clarity gear suffer 15 Composure drain and 5 Posture strain at the conclusion of every combat turn.
 
 ---
@@ -67,7 +67,7 @@ The Weeping Mirror operates as a quadripartite modular combat construct consisti
 
 ### 3.1 Part 1: Silvered Glass Core (Central Looking Glass)
 - **Hit Point Pool:** 900 HP • **Rupture Threshold:** 540 HP Sustained (Remaining HP: 360)
-- **Defense Multipliers:** Lament 0.5x • Grudge 1.2x • Void 0.5x • Weight 1.8x (Fatal Vulnerability)
+- **Defense Multipliers:** Lament 0.5x • Grudge 1.2x • Void 0.5x • Weight 1.8x (Exposed Vulnerability)
 - **Part Passive (Introspective Glare):** While the glass core is un-ruptured, 20% of all incoming energy and acoustic damage is reflected directly back to the attacking operative.
 - **Rupture Penalty:**
   * The mirror face shatters into a web of fissures, permanently disabling *Introspective Glare*.
@@ -200,8 +200,8 @@ The encounter transitions across three distinct tactical phases governed by the 
 ### 6.1 Recommended Part Target Sequence
 1. **Primary Target — Liquid Silver Siphon Spout:**
    Focus initial physical fire on the lower siphon tube. Destroying the spout halts the entity's 20 Composure regeneration per turn and eliminates its long-range mercury jet attacks.
-2. **Secondary Target — Silvered Glass Core (Fatal Weight Vulnerability):**
-   Unload heavy blunt weapons (Basalt Mauls, Hydraulic Breakers) directly into the central looking glass. The 1.8x Fatal Weight vulnerability allows rapid rupture, shattering the face and removing *Specular Retaliation*.
+2. **Secondary Target — Silvered Glass Core (Exposed Weight Vulnerability):**
+   Unload heavy blunt weapons (Basalt Mauls, Hydraulic Breakers) directly into the central looking glass. The 1.8x Exposed Weight vulnerability allows rapid rupture, shattering the face and removing *Specular Retaliation*.
 3. **Tertiary Target — Mirrored Twin Simulacra (Phase 2):**
    When the twins spawn, exploit their inverted defense profiles using complementary weapon types (e.g., strike a Void-shielded twin with kinetic slashing).
 4. **Final Target — Core Shard Burst Execution:**
@@ -228,7 +228,7 @@ Upon achieving terminal Composure Meltdown against `SE-C-IVδ-195`, the Reverie 
 +=====================================================================+
 | RECOVERED ARTIFACT  | TYPE   | GRADE | RESONANCE & SPECIAL EFFECT   |
 +---------------------------------------------------------------------+
-| The Sorrow Lens     | Weapon | Gr 5  | Fatal Void Optical Beam      |
+| The Sorrow Lens     | Weapon | Gr 5  | Exposed Void Optical Beam      |
 | The Sorrow Veil     | Suit   | Gr 5  | High Void / Mnemonic Ward    |
 | The Sorrow Monocle  | Stigma   | Gr 5  | +25 Clarity / Introspection|
 | The Mirror GlassMask| Relic  | Gr 5  | Reflects 20% Damage Taken    |

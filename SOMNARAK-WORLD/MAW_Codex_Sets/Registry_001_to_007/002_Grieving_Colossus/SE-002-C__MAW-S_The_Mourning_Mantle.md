@@ -37,7 +37,7 @@ The Mourning Mantle is a black draped mantle woven from Han threads that hang li
 | **Lament** | 1.0 | Normal | Does not soften grief itself. |
 | **Grudge** | 1.0 | Normal | Does not stop anger or physical retaliation. |
 | **Void** | 1.5 | Weak | A bearer carrying too much history is vulnerable to identity loss. |
-| **Weight** | 0.5 | Endured | Distributes low and medium burden across the wearer’s frame. |
+| **Weight** | 0.5 | Warded | Distributes low and medium burden across the wearer’s frame. |
 
 ### Protective Ability — Procession Pace
 

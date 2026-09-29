@@ -41,7 +41,7 @@ The Veil formed after a shadow chose a dim room and did not follow the worker pa
 | Element | Multiplier | Label | Protection / failure reason |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | Grief needs more than a boundary to be witnessed. |
-| Grudge | 0.8 | Endured | A room held calmly does not immediately return anger. |
+| Grudge | 0.8 | Warded | A room held calmly does not immediately return anger. |
 | Void | 0.3 | Resistant | The Veil gives the wearer a recognizable interior edge. |
 | Weight | 1.1 | Weak | Leaving remains hard even when the room is safe. |
 

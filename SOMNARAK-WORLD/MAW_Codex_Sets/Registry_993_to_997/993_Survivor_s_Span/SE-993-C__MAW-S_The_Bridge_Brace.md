@@ -27,7 +27,7 @@ The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Wei
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Endured) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels every person who could not be supported. Continued use makes Survivor's Span's source sorrow feel autobiographical.
 

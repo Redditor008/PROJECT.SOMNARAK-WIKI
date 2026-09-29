@@ -115,7 +115,7 @@ The set gives a bearer force, anchoring, and strength. Its danger is the inherit
 | Field | Record |
 |---|---|
 | Lament / Grudge | 1.0 — Normal / 1.0 — Normal |
-| Void / Weight | 1.5 — Weak / 0.5 — Endured |
+| Void / Weight | 1.5 — Weak / 0.5 — Warded |
 | Maximum Amount / Echo Cost | 3 — Standard / 35 Sorrow Echoes |
 | Primary Cost | Constant low fatigue and pressure to carry more than the wearer can safely hold. |
 

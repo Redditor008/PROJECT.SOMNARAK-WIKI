@@ -50,8 +50,8 @@
 | Modular Part Name | Part Max HP | Rupture Threshold (60%) | Lament Def | Grudge Def | Void Def | Weight Def |
 |---|---|---|---|---|---|---|
 | **Weeping Siphon Veil** | 1,100 HP | 660 HP | 0.5x | 1.2x | 1.5x | 0.8x |
-| **Basalt Mourning Censer** | 1,400 HP | 840 HP | 0.5x | 1.0x | 1.0x | 1.8x (Fatal)|
-| **Central Sorrow Heart** | 1,900 HP | 1,140 HP | 0.5x | 1.5x | 2.0x (Fatal)| 1.0x |
+| **Basalt Mourning Censer** | 1,400 HP | 840 HP | 0.5x | 1.0x | 1.0x | 1.8x (Exposed)|
+| **Central Sorrow Heart** | 1,900 HP | 1,140 HP | 0.5x | 1.5x | 2.0x (Exposed)| 1.0x |
 
 - **Hostile Intention Deck:**
   * **Pressurized Siphon Torrent:** 2 AP • Range Band 1-3 • Fluid/Lament • Base 22. Unleashes high-pressure brine jets from the veil; deals 42 freezing water damage and reduces target Speed by 2.
@@ -274,7 +274,7 @@
   * Impact: The high-tensile silver memory cables yank the basalt censer mid-swing, locking it immovably against the alabaster cathedra step.
 - **Clash 2 (Resonant Prismatic Cleave vs Immobilized Basalt Censer):**
   * Secretary Seiyon leaps from the dais balustrade, bringing the *Prismatic Lattice Saber* down in a two-handed overhead execution arc.
-  * Fatal Weight/Resonance multiplier applies (1.8x damage against Basalt Censer).
+  * Exposed Weight/Resonance multiplier applies (1.8x damage against Basalt Censer).
   * Seiyon rolls Base 27 + 1d10 (Roll: 9) = 36. Unopposed impact inflicts 185 crushing/energy damage.
   * Basalt Mourning Censer HP: 1,368 -> 0 HP (**PART OBLITERATED**).
 - **Tactical Consequences & Core Exposure:**
@@ -316,7 +316,7 @@
   * Clash Differential: +9 Points.
 - **Terminal Execution & Realization Catharsis:**
   * Seiyon's blade drives straight through the crystalline teardrop at the center of the Sorrow Heart.
-  * The 2.0x Fatal Void vulnerability procs: Seiyon inflicts (47 - 38) + 210 Void/Harmonic damage = 428 True Damage, completely draining the construct's remaining Posture pool (48 -> 0).
+  * The 2.0x Exposed Void vulnerability procs: Seiyon inflicts (47 - 38) + 210 Void/Harmonic damage = 428 True Damage, completely draining the construct's remaining Posture pool (48 -> 0).
   * **TERMINAL MELTDOWN REACHED: 0/320 POSTURE COLLAPSE**.
   * The petrified marble fissures along thousands of hairline fractures. The roaring torrent of tears slows to a gentle trickle. The colossal statue bows its head in absolute stillness, the expression of agonizing sorrow softening into serene, peaceful release.
   * A crystalline manifestation codex condenses upon the alabaster dais: `[Memory Leaf: The Mourner]`.

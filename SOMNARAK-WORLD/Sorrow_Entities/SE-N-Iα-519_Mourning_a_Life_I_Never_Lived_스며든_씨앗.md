@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Scattered Seed* [**Debuff**] } | "Tiny seeds drift on a wind that is not there — and where they land, things begin to disappear." | [The Seeds scatter; void potential germinates.] | *Target suffers a Void mark; absence is taking root.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Seeds are released. |
 | { *The Sprouting Nothing* [**Debuff**] } | "Where the seeds landed, the floor is simply... gone." | [The Seeds sprout into patches of void; the target's footing disappears.] | *Target loses clarity; the ground is becoming absent.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Seeds germinate. |
-| { *The Seed Volley* [**Attack**] } | "A burst of seeds — each one a tiny void, each one seeking soil." | [A volley of void-seeds strikes the target.] | *Inflicts Pale White damage; each seed erases a small portion.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Seeds are thrown. |
+| { *The Seed Volley* [**Attack**] } | "A burst of seeds — each one a tiny void, each one seeking soil." | [A volley of void-seeds strikes the target.] | *Inflicts Void damage; each seed erases a small portion.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Seeds are thrown. |
 | { *The Void Bloom* [**Attack**] } | "One seed blooms fully — and the flower is a hole in the world." | [A single Seed matures into a full void-bloom.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When a Seed is forced to bloom. |
 | { *The Void Garden* [**Ultimate**] } | "The seeds cover everything — and where they bloom, the world is simply not there anymore." | [The Seeds blanket the entire field in void-blooms.] | *All in range suffer Pale White erosion for three turns in the void garden.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -229,7 +229,7 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 5

@@ -195,7 +195,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 **Resistances:**
 - Grudge: 1.0 (Normal)
 - Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 - Void: 1.6 (Weak)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes

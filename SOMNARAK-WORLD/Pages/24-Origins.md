@@ -74,7 +74,7 @@ To maintain psychological equilibrium across Facility 01:
 
 Certain entities originating from the same mythos or trauma pool exhibit dangerous resonance:
 - **The Three Birds:** Housing *the Observing Bird* (SE-031), *the Weighting Bird* (SE-032), and *the Guarding Bird* (SE-033) in adjacent cells increases their breach frequency by 300%.
-- If all three breach simultaneously, they merge into the apocalyptic Sovereign entity *The Last Murmuration* (마지막 군무).
+- If all three breach simultaneously, they merge into the apocalyptic Sovereign entity *the Convergence*.
 
 ## 8 Gallery
 

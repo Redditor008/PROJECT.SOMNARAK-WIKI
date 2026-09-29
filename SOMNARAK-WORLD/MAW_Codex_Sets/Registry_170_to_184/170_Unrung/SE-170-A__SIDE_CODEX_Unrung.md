@@ -113,7 +113,7 @@ The original Bell is an I-Relic. Its M.A.W. set records released silence echoes,
 
 | Field | Record |
 |---|---|
-| Lament / Grudge | 1.2 — Weak / 0.8 — Endured |
+| Lament / Grudge | 1.2 — Weak / 0.8 — Warded |
 | Void / Weight | 0.3 — Resistant / 1.1 — Weak |
 | Maximum Amount / Echo Cost | 4 — Limited / 20 Sorrow Echoes |
 | Primary Cost | The wearer feels faintly absent to themself. |

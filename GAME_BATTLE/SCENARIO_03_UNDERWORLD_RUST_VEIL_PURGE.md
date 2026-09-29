@@ -163,7 +163,7 @@
 - **The Slag-Forged Breaker:** Rolled Speed 3 -> 3 AP (Queues *Demolition Hammer Slam* targeting `[N05]`).
 
 #### 2. Concentrated Arm Demolition
-- Officer Seol-A activates *Acoustic Focus Rune*, granting +3 coin power to all allied attacks targeting Node `[N07]`.
+- Officer Seol-A activates *Acoustic Focus Rune*, granting +3 lot power to all allied attacks targeting Node `[N07]`.
 - Taeho expends 3 AP to execute *Three-Point Kinetic Sunder*:
   * Strike 1: 32 Damage.
   * Strike 2: 35 Damage.
@@ -226,7 +226,7 @@
 
 #### 3. Terminal Meltdown Trigger
 - **TERMINAL MELTDOWN ACTIVE:** The counterfeit sorrow core enters violent resonance cascade, causing the construct's basalt framework to seize up completely.
-- All defenses drop to **2.0x Fatal vulnerability**!
+- All defenses drop to **2.0x Exposed vulnerability**!
 - The construct collapses onto its knees, completely incapacitated at Nodes `[N07-08]`.
 
 ---

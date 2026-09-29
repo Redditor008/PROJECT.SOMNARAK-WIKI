@@ -1663,7 +1663,7 @@ Threshold Vow is direct character canon added to Mellda's current Cyborg equipme
 
 Its normal attack deals **6–16 Weight (Black)** direct damage and **2 Grudge (Crimson) Tick damage per second for 10 seconds**. It has Speed 1 — Slow, Range 5 — Room, and a Pierce pattern covering one line with up to three targets. Its 100% → 70% → 50% falloff applies to direct and Tick damage separately.
 
-Its active singular Weight wave deals **25 Black damage** along one line and requires **15 seconds** of recharge. The standard line coverage and falloff apply to the wave.
+Its active singular Weight wave deals **25 Weight damage** along one line and requires **15 seconds** of recharge. The standard line coverage and falloff apply to the wave.
 
 Its rating is **equivalent in output** to Critical (δ) M.A.W. This does not convert it into M.A.W. or assign an entity source.
 
@@ -1765,7 +1765,7 @@ No Archive progression is recorded.
 - Its normal attack is Speed 1 — Slow, Range 5 — Room, and Pierce.
 - Its line can cover up to three targets with 100% → 70% → 50% falloff.
 - Direct damage and each Tick use the falloff multiplier separately.
-- Its singular Weight wave deals 25 Black damage and recharges for 15 seconds.
+- Its singular Weight wave deals 25 Weight damage and recharges for 15 seconds.
 - Her first major _Absolvohan_ report predicts a Han-storm six hours away.
 - The Drift King's scouts are observed at the eight-kilometer mark.
 - She translates the Cheonbulok envoy's repeated plea as “Help.”

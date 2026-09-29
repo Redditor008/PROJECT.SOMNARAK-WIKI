@@ -50,9 +50,9 @@
 
 | Modular Part Name | Part Max HP | Rupture Threshold (60%) | Lament Def | Grudge Def | Void Def | Weight Def |
 |---|---|---|---|---|---|---|
-| **Vitreous Mandibles** | 1,400 HP | 840 HP | 0.5x | 1.2x | 0.8x | 2.0x (Fatal)|
+| **Vitreous Mandibles** | 1,400 HP | 840 HP | 0.5x | 1.2x | 0.8x | 2.0x (Exposed)|
 | **Vitrified Carapace** | 1,800 HP | 1,080 HP | 0.5x | 1.0x | 0.5x | 1.5x |
-| **Siphon Resonance Heart**| 2,200 HP | 1,320 HP | 1.4x | 1.5x | 2.0x (Fatal)| 1.0x |
+| **Siphon Resonance Heart**| 2,200 HP | 1,320 HP | 1.4x | 1.5x | 2.0x (Exposed)| 1.0x |
 
 - **Hostile Intention Deck:**
   * **Vitreous Shearing Snap:** 2 AP • Range Band 1-2 • Weight • Base 24. Deals 45 crushing damage and destroys tactical cover.
@@ -223,7 +223,7 @@
 #### 3. Terminal Meltdown Trigger
 - **TERMINAL MELTDOWN ACTIVE:** The Titanic Glass Burrower lets out a mournful, bell-like chord that echoes across fifty kilometers of dunes.
 - The creature's inner resonance collapses; its massive body goes completely limp across Nodes `[N07-08]`.
-- All defenses collapse to **2.0x Fatal vulnerability**!
+- All defenses collapse to **2.0x Exposed vulnerability**!
 
 ---
 

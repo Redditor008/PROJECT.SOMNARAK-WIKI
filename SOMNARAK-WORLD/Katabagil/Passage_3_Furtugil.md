@@ -142,7 +142,7 @@ The expedition secured the staging ground atop an elevated maintenance platform.
  - Squad Morale Adjustment:
    * Harin: +18 SP (Resolved Vow / Guilt Converted to Resolve)
    * Sora: Composure Stabilized at +35 SP
-   * The Silent One: Kinetic Core Primed (+10% Fatal Damage bonus)
+   * The Silent One: Kinetic Core Primed (+10% Exposed Damage bonus)
 ================================================================================
 ```
 
@@ -168,7 +168,7 @@ Dropping silently from the dome was the station's parasite queen: **SECC-E18 "Th
 ================================================================================
  BOSS ATTRIBUTES:
  - Health (HP): 1,850 | Speed Dice: 2–6 (2 Action Slots)
- - Weaknesses: Grudge (Fatal 2.0x — Explosive friction shatters glass abdomen)
+ - Weaknesses: Grudge (Exposed 2.0x — Explosive friction shatters glass abdomen)
  - Primary Threat: [Tensile Cable Webbing] — Roots specialists, inflicting -3 Speed
 ================================================================================
 ```
@@ -219,7 +219,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
  - Resistances:
    * Grudge (Crimson) : 0.5x (Endured — Tempered in volcanic brake-friction)
    * Lament (Deep Blue): 1.5x (Weakness — Rusts locomotive gears and joints)
-   * Void (Pale White) : 2.0x (Fatal Weakness — Directly disrupts the guilt core)
+   * Void (Pale White) : 2.0x (Exposed Weakness — Directly disrupts the guilt core)
    * Weight (Black)    : 1.0x (Normal — Solid kinetic impact)
 
  TARGETABLE COMPONENT PARTS:
@@ -259,7 +259,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 | - Stagger 1 Proc : 60% Posture Strain (168 Posture) / Mandible      |
 |   Break                                                             |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Derailment)      |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 1.0x, Grudge |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Weight 1.0x, Grudge |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
@@ -330,8 +330,8 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Cascading Torrent]`. Holds 2 AP in Reserve.
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Track Lock]`, 2 AP on `[Acoustic Dart]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: SECC-041 unleashes `[Locomotive Charge]` (Base 16 + 2 Coins = 24 Power, Heavy Kinetic Ram) barreling down the tracks.
-    * Harin intercepts with `[Vow of the Low Bulwark: Anchor]` (Base 19 + 2 Coins = 31 Power, Kinetic Shield).
+  * **Clash 1 (Node 02 to 05)**: SECC-041 unleashes `[Locomotive Charge]` (Base 16 + 2 Lots = 24 Power, Heavy Kinetic Ram) barreling down the tracks.
+    * Harin intercepts with `[Vow of the Low Bulwark: Anchor]` (Base 19 + 2 Lots = 31 Power, Kinetic Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
     * Harin drives her shield spike deep into the track ties. The kinetic shockwave ripples violently through the concourse; the Sovereign's front trucks derail!
     * Harin reflects **195 kinetic tremor damage** directly into the Armored Rail Mandibles (`[P3: Parry/Protection]`), inflicting +42 Posture Strain!
@@ -385,11 +385,11 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * Harin (Speed 4 -> 2 AP): Holds Node 03, deflecting compressed locomotive steam with `[Bulwark Stance]`.
   * Yeonhwa (Speed 7 -> 4 AP): Casts `[Sonar Fault Lock]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 07 to 05)**: SECC-041 snaps with `[Dual Pincer Guillotine]` (Base 16 + 2 Coins = 24 Power, Pierce/Slash).
-    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 22 + 3 Coins Heads = 37 Power, Void Slash).
+  * **Clash 1 (Node 07 to 05)**: SECC-041 snaps with `[Dual Pincer Guillotine]` (Base 16 + 2 Lots = 24 Power, Pierce/Slash).
+    * The Silent One executes `[Severing Crescent: Void Cleave]` (Base 22 + 3 Lots Marked = 37 Power, Void Slash).
     * **Clash Outcome**: The Silent One WINS THE CLASH OVERWHELMINGLY (37 vs 24)!
     * The dark relic cleaver slices cleanly through the left hydraulic mandible!
-    * Deals **380 Critical Void damage** (Fatal 2.0x proc!) and wipes out the part's remaining health!
+    * Deals **380 Critical Void damage** (Exposed 2.0x proc!) and wipes out the part's remaining health!
     * **TARGETED PART DESTROYED**: The Armored Rail Mandibles shatter into twisted iron teeth (**Mandible HP: 0/850**)!
     * **EFFECT**: Boss crushing pincer attacks permanently disabled; boss loses 1 Speed Slot!
   * **Sapper Flange Puncture**:
@@ -434,7 +434,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 
 ###### Turn 03 Action Resolution Log (First Stagger Proc & Carapace Breach)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Sovereign thrashes its segmented body in wild fury: `[Carapace Thrash]` (Area Sweep, 2 Coins).
+  * Sovereign thrashes its segmented body in wild fury: `[Carapace Thrash]` (Area Sweep, 2 Lots).
   * Harin gains `Momentum Surge` (+2 Speed -> Net Speed 6, 3 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Doha (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Sapper Counter-Lever]`.
@@ -442,8 +442,8 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * Sora (Speed 7 -> 4 AP): Casts `[Chime of Discord]` (2 AP), inflicting +3 Fragility on the entity's guilt core.
   * Yeonhwa (Speed 7 -> 4 AP): Casts `[Acoustic Resonance Dart]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: SECC-041 unleashes `[Carapace Thrash]` (Base 16 + 2 Coins = 24 Power, Heavy Weight).
-    * Doha clashes with `[Sapper Counter-Lever]` (Base 19 + 2 Coins = 31 Power, Heavy Lever).
+  * **Clash 1 (Node 04 to 05)**: SECC-041 unleashes `[Carapace Thrash]` (Base 16 + 2 Lots = 24 Power, Heavy Weight).
+    * Doha clashes with `[Sapper Counter-Lever]` (Base 19 + 2 Lots = 31 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (31 vs 24)!
     * Doha levers his pneumatic drill under the plating seams; the massive retaining bracket pops off with a deafening metallic screech!
     * Carapace takes **310 Blunt damage** and +64 Posture Strain!
@@ -496,7 +496,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * Yeonhwa (Speed 7 -> 4 AP): Stands at Node 08. Spends 2 AP on `[Acoustic Core Penetration]`.
   * Jisoo (Speed 7 -> 4 AP): Fires `[Cryo Harpoon Anchor]` from Node 10 (2 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * The Silent One's `[Relic Cleaver Execution]`: Slices through the lantern housing for **490 Void damage** (Fatal 2.0x proc!)!
+  * The Silent One's `[Relic Cleaver Execution]`: Slices through the lantern housing for **490 Void damage** (Exposed 2.0x proc!)!
   * Harin's `[Bulwark Piston Pummel]`: Smashes the boiler ring for **210 Weight damage**!
   * Doha's `[High-Velocity Sapper Charge]`: Detonates on the track flange for **280 Explosive Grudge damage**!
   * Yeonhwa's `[Acoustic Core Penetration]`: Rips through resonance channels for **180 Void damage**!
@@ -540,7 +540,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Sovereign recovers, steam erupting violently from all 40 boiler valves!
   * Speed Dice unlocks 4th slot! The searchlight core blinds the concourse with agonizing pale glare:
-    `[All-Stations Overdrive Screech]` (AoE Hazard, 3 Coins).
+    `[All-Stations Overdrive Screech]` (AoE Hazard, 3 Lots).
   * Harin activates Relic Overdrive: `[VOW OF THE LOW BULWARK — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 8 -> 4 AP [Overdrive]): Stands alone in the center of the double rails at Node 04, locking her shield with both hands.
@@ -548,8 +548,8 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * The Silent One (Speed 7 -> 4 AP): Prepares `[Burden Cleaver: Void Overdrive Execution]` at Node 07.
   * Sora (Speed 7 -> 4 AP): Harmonizes Silver acoustic repose across the squad, stabilizing all SP at 50/50.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: SECC-041 unleashes `[All-Stations Overdrive Screech]` (Base 20 + 3 Coins = 30 Power, Area Pale/Sonic).
-    * Harin clashes with `[VOW OF THE LOW BULWARK — MAXIMUM]` (Base 26 + 3 Coins Heads = 44 Power, Supreme Kinetic Shield).
+  * **Clash 1 (Node 04 to 05)**: SECC-041 unleashes `[All-Stations Overdrive Screech]` (Base 20 + 3 Lots = 30 Power, Area Pale/Sonic).
+    * Harin clashes with `[VOW OF THE LOW BULWARK — MAXIMUM]` (Base 26 + 3 Lots Marked = 44 Power, Supreme Kinetic Shield).
     * **Clash Outcome**: HARIN OVERWHELMING RELIC CLASH WIN (44 vs 30)!
     * The blinding searchlight and sonic scream smash against the steel plate; brilliant showers of sparks erupt over the concourse (`[P3: Parry/Protection]`).
     * Harin absorbs 100% of the shockwave! Zero squad damage taken!

@@ -209,7 +209,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
 - Void: 1.5 (Weak)
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 

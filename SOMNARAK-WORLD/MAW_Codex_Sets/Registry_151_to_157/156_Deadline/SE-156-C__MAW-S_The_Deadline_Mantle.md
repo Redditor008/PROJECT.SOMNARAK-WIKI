@@ -47,7 +47,7 @@ The Deadline Mantle is a black Han mantle with faint concentric clock marks at t
 | Lament | 1.0 | Normal | Grief about the future still reaches the wearer. |
 | Grudge | 1.0 | Normal | Anger cannot be scheduled out of the body. |
 | Void | 1.5 | Weak | Panic can make every other thought vanish. |
-| Weight | 0.5 | Endured | The Mantle spreads deadline pressure across its incomplete clock marks. |
+| Weight | 0.5 | Warded | The Mantle spreads deadline pressure across its incomplete clock marks. |
 
 | Field | Record |
 |---|---|

@@ -27,7 +27,7 @@ Grimoire's Veil is the suit record of the Grimoire set — β-grade, Grudge-alig
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 0.3 (Resistant) | 1.2 (Weak) | 0.8 (Endured) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 0.3 (Resistant) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought. Continued use makes Grimoire's source sorrow feel autobiographical.
 

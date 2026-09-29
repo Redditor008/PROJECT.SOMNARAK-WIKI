@@ -199,7 +199,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 

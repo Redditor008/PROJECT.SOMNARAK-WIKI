@@ -47,7 +47,7 @@ During the The Uprooted Source-Trace, the field team preserved this source fact:
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Uprooted Requiem | α Lament 3–6; Speed 2 (Normal); Range 2 (Short); Single; max 5; 15 Sorrow Echoes | `SE-959-B__MAW-W_Uprooted_Requiem.md` |
-| Uprooted Shield | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 5; 10 Sorrow Echoes | `SE-959-C__MAW-S_Uprooted_Shield.md` |
+| Uprooted Shield | α; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 5; 10 Sorrow Echoes | `SE-959-C__MAW-S_Uprooted_Shield.md` |
 | Uprooted Charm | α; Tail; 5%; +1 stat bonus when working the source entity | `SE-959-D__MAW-G_Uprooted_Charm.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

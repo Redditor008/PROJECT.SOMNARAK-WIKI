@@ -115,7 +115,7 @@ The set increases endurance and force. Its failure is believing that endurance p
 | Field | Record |
 |---|---|
 | Lament / Grudge | 1.0 — Normal / 1.0 — Normal |
-| Void / Weight | 1.5 — Weak / 0.5 — Endured |
+| Void / Weight | 1.5 — Weak / 0.5 — Warded |
 | Maximum Amount / Echo Cost | 3 — Standard / 35 Sorrow Echoes |
 | Primary Cost | The wearer becomes unable to set down responsibilities without outside help. |
 

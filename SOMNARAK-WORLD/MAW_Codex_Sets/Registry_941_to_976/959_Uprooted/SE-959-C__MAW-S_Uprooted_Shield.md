@@ -27,7 +27,7 @@ The Uprooted Shield is the suit record of the Uprooted set — α-grade, Lament-
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Endured) | 5 / 10 Sorrow Echoes |
+| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
 **Operational / binding cost:** The wearer feels the sorrow of every place they have left. Continued use makes Uprooted's source sorrow feel autobiographical.
 

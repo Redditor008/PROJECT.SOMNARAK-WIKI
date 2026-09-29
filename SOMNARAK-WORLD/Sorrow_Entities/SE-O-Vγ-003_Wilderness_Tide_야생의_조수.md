@@ -65,7 +65,7 @@
 | Damage Type | Multiplier | Tactical Note |
 |---|---|---|
 | **Crimson (Grudge)** | 1.0 (Normal) | Standard kinetic damage penetration. |
-| **Deep Blue (Lament)** | 0.8 (Endured) | Resistant to acoustic weeping. |
+| **Deep Blue (Lament)** | 0.8 (Warded) | Resistant to acoustic weeping. |
 | **Pale White (Void)** | 1.5 (Weak) | Vulnerable to conceptual void dissolution. |
 | **Black (Weight)** | 0.5 (Immune / Endured) | Heavily resistant to gravitational shockwaves. |
 

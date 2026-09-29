@@ -47,7 +47,7 @@ During the The Drowned Roots Source-Trace, the field team preserved this source 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Drowned Roots Requiem | γ Lament 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-997-B__MAW-W_Drowned_Roots_Requiem.md` |
-| Drowned Roots Shroud | γ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 3; 35 Sorrow Echoes | `SE-997-C__MAW-S_Drowned_Roots_Shroud.md` |
+| Drowned Roots Shroud | γ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 3; 35 Sorrow Echoes | `SE-997-C__MAW-S_Drowned_Roots_Shroud.md` |
 | Drowned Roots Lantern | γ; Tail; 4%; +2 stat bonus when working the source entity | `SE-997-D__MAW-G_Drowned_Roots_Lantern.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

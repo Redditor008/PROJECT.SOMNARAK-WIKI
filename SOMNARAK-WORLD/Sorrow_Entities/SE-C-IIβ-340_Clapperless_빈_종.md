@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Empty Toll* [**Debuff**] } | "The bell swings — and the sound it makes is the sound of nothing hitting nothing." | [The Bell's hollow toll creates a void of anti-sound.] | *Target suffers a Void mark; the hollow noise drains meaning.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target hears the Bell. |
 | { *The Echoing Emptiness* [**Debuff**] } | "The toll echoes — and each echo is smaller, thinner, until only the void where sound should be remains." | [The Bell's diminishing echoes create a void that pulls at the target.] | *Target loses clarity; the silence behind the sound is consuming.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains within earshot. |
-| { *The Void Peal* [**Attack**] } | "The bell's hollow fills with anti-sound — and then bursts outward." | [A blast of concentrated nothing strikes.] | *Inflicts Pale White damage; the toll erases a portion of presence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bell is struck. |
+| { *The Void Peal* [**Attack**] } | "The bell's hollow fills with anti-sound — and then bursts outward." | [A blast of concentrated nothing strikes.] | *Inflicts Void damage; the toll erases a portion of presence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Bell is struck. |
 | { *The Full Hollow* [**Attack**] } | "The bell reveals what is inside it — and inside, there is nothing, and the nothing is vast." | [The Bell exposes its interior void.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Bell is cracked. |
 | { *The Silent Tower* [**Ultimate**] } | "Every bell in the field goes hollow — and their combined emptiness is absolute, and deafening." | [The Bell extends its hollowness across the whole field.] | *All in range suffer Pale White erosion for three turns of hollow bells.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -238,7 +238,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4

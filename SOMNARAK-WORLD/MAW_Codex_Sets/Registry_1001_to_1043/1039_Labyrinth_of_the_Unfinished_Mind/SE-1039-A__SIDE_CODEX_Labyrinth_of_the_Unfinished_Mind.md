@@ -47,7 +47,7 @@ During the The Labyrinth of the Unfinished Mind Source-Trace, the field team pre
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Labyrinth of the Unfinished Mind's Edge | δ Void 11–16; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1039-B__MAW-W_Labyrinth_of_the_Unfinished_Mind_s_Edge.md` |
-| Labyrinth of the Unfinished Mind's Veil | δ; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-1039-C__MAW-S_Labyrinth_of_the_Unfinished_Mind_s_Veil.md` |
+| Labyrinth of the Unfinished Mind's Veil | δ; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-1039-C__MAW-S_Labyrinth_of_the_Unfinished_Mind_s_Veil.md` |
 | Labyrinth of the Unfinished Mind's Token | δ; Head; 5%; +1 stat bonus when working the source entity. | `SE-1039-D__MAW-G_Labyrinth_of_the_Unfinished_Mind_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

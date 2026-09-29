@@ -114,7 +114,7 @@ The original Clock is an O-Relic. Its M.A.W. set is formed from released deadlin
 | Field | Record |
 |---|---|
 | Lament / Grudge | 1.0 — Normal / 1.0 — Normal |
-| Void / Weight | 1.5 — Weak / 0.5 — Endured |
+| Void / Weight | 1.5 — Weak / 0.5 — Warded |
 | Maximum Amount / Echo Cost | 4 — Limited / 20 Sorrow Echoes |
 | Primary Cost | The wearer carries a constant low fatigue from counted obligations. |
 

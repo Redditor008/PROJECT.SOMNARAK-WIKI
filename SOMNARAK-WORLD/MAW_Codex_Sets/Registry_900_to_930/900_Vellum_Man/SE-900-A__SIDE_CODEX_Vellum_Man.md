@@ -47,7 +47,7 @@ During the The Vellum Man Source-Trace, the field team preserved this source fac
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
 | Vellum Man's Edge | α Lament 8–19; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-900-B__MAW-W_Vellum_Man_s_Edge.md` |
-| Vellum Man's Veil | α; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-900-C__MAW-S_Vellum_Man_s_Veil.md` |
+| Vellum Man's Veil | α; L/G/V/W 0.3 (Resistant)/1 (Normal)/1.2 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-900-C__MAW-S_Vellum_Man_s_Veil.md` |
 | Vellum Man's Token | α; Head; 5%; +1 stat bonus when working the source entity. | `SE-900-D__MAW-G_Vellum_Man_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

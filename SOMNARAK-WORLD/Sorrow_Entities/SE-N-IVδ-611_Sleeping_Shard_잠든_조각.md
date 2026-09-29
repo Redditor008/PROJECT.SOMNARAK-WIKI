@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Slow Breath* [**Debuff**] } | "The shard breathes — in, out — so slowly you almost miss it. But it is alive, and it is sleeping." | [The Shard's dormant life radiates; the target senses a sleeping danger.] | *Target suffers a Void mark; the slumbering thing is aware of them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
 | { *The Twitch* [**Debuff**] } | "The shard shifts in its sleep — a micro-movement — and the movement sends a ripple of void through everything nearby." | [The Shard's dream-twitch releases void-ripples; the target is caught in the wake.] | *Target loses clarity; the sleeping thing stirs.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Reflex* [**Attack**] } | "The sleeping shard twitches violently — a reflex-strike from a dormant edge." | [An involuntary strike from the sleeping Shard.] | *Inflicts Pale White damage; the reflex cut is deep and unexpected.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is touched. |
+| { *The Reflex* [**Attack**] } | "The sleeping shard twitches violently — a reflex-strike from a dormant edge." | [An involuntary strike from the sleeping Shard.] | *Inflicts Void damage; the reflex cut is deep and unexpected.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is touched. |
 | { *The Waking* [**Attack**] } | "The shard's eyes open — if shards had eyes — and the waking is violent, disorienting, and sharp." | [The Shard's awakening releases its full dormant potential.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shard is forced awake. |
 | { *The Waking Field* [**Ultimate**] } | "Every dormant shard in the field wakes — and they are all sharp, and they are all hungry, and they are all awake." | [The Shard extends its waking across the whole area.] | *All in range suffer Pale White erosion for three turns of waking edges.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -193,7 +193,7 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

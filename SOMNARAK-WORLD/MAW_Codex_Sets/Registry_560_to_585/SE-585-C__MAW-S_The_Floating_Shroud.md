@@ -24,7 +24,7 @@ The suit condensed around Uri Hanbaram while he guided a circling patrol out of 
 | Lament | 0.4 (Resistant) |
 | Grudge | 1.0 (Normal) |
 | Void | 1.6 (Weak) |
-| Weight | 0.8 (Endured) |
+| Weight | 0.8 (Warded) |
 | Maximum / Echo cost | 3 / 35 Sorrow Echoes |
 | Operational cost | Minor joys outside the traveling group become muted |
 | Binding cost | Removal feels like losing the community a second time |

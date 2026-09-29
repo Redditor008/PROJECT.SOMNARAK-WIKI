@@ -14,13 +14,13 @@ The Reverie Directorate (R.D.) is organized into **Nine Echo-Cores** — five op
 | Floor / Sector | Designation & Name | True Look Effigy | Signature Equipment & Armament | Primary Han Element |
 |---|---|---|---|---|
 | **Floor 1 (Spires)** | **The Director (Majin / 마진)** | Living Human (Ω-Fusion) | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) | Weight (Black) / Grudge + Lament |
-| **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Memory Leaves) | Lament (Deep Blue) + Void (Pale) |
+| **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Memory Leaves) | Lament (Deep Blue) + Void (Pale White) |
 | **Floor 2 (Maw's Keep)** | **The Containment Lead (Dekan / 데칸)** | Biomechanical Cyborg (~50%) | Living Biological Graft *The Scaled Maw-Flesh Arm* | Grudge (Crimson) |
-| **Floor 3 (Extraction Hall)** | **The Extraction Lead (Zyrak / 지락)** | Android Cast Effigy (0% Flesh) | Specialized Forge Gear *Mechanical Hands & Rig* | Grudge (Crimson) + Void (Pale) |
+| **Floor 3 (Extraction Hall)** | **The Extraction Lead (Zyrak / 지락)** | Android Cast Effigy (0% Flesh) | Specialized Forge Gear *Mechanical Hands & Rig* | Grudge (Crimson) + Void (Pale White) |
 | **Floor 4 (Insight Forge)** | **The Research Lead (Ayshuk / 아이숙)** | Android Platform (0% Flesh) | Specialized Cognitive *Subject-Mind Research Ledger*| Void (Pale White) |
 | **Floor 5 (Border Watch)** | **The Border Lead (Mellda / 멜다)** | Biomechanical Cyborg (~45%) | Manufactured Weapon *Threshold Vow* (Arm-Blade) | Weight (Black) + Grudge (Crimson) |
 | **Floor 6 (Deep Vault)** | **The Archive Lead (Marjuk / 마주크)** | Cryogen Matrix (~20% Flesh) | Specialized Optical Relic *Memory Lens & Index* | Void (Pale White) + Weight (Black)|
-| **Floor 7 (Shadow Corps)** | **The Outsider (Ishall / 이샬)** | Android Effigy (0% Flesh) | Paired Before-Time Relic *Unanswered* (Gloves) | Grudge (Crimson) + Void (Pale) |
+| **Floor 7 (Shadow Corps)** | **The Outsider (Ishall / 이샬)** | Android Effigy (0% Flesh) | Paired Before-Time Relic *Unanswered* (Gloves) | Grudge (Crimson) + Void (Pale White) |
 | **Floor 8 (Gate Watch)** | **The Exile (Xyan / 시안)** | Frontier Cyborg (~55% Flesh) | Specialized Boundary *Neural Spine & Route Gear* | Lament (Deep Blue) + Weight (Black)|
 
 ---
@@ -787,7 +787,7 @@ Sorrow itself manifests across **four elemental aspects** — each attacking a d
 +--------------+-------+-------+-------+-------+
 |Grudge (Red)  | Part  |Resist | Weak  |Strong |
 +--------------+-------+-------+-------+-------+
-|Void (Pale)   |Strong | Weak  |Resist | Part  |
+|Void (Pale White)   |Strong | Weak  |Resist | Part  |
 +--------------+-------+-------+-------+-------+
 |Weight (Black)| Weak  |Strong | Part  |Resist |
 +==============+=======+=======+=======+=======+
@@ -3400,7 +3400,7 @@ When an agent's Composure hits 0, they do not instantly undergo irreversible phy
 +======================+=======================+
 | Resilience (♦ Blue)  | Grudge Frenzy (Berserk|
 +----------------------+-----------------------+
-| Clarity (♠ Pale)     | Void Catatonia(Suicide|
+| Clarity (♠ Void)     | Void Catatonia(Suicide|
 +----------------------+-----------------------+
 | Composure (♣ Crimson)| Lament Weeping (Echo) |
 +----------------------+-----------------------+
@@ -3415,7 +3415,7 @@ When an agent's Composure hits 0, they do not instantly undergo irreversible phy
 
 #### Sanity Restoration Protocol (제정신 회복 의정서)
 - Panicked operatives can be saved before they permanently Fracture.
-- Colleagues must intercept the panicked agent and strike them using **Lament (Blue) or Void (Pale)** M.A.W. weapons.
+- Colleagues must intercept the panicked agent and strike them using **Lament (Blue) or Void (Pale White)** M.A.W. weapons.
 - Inflicting mental damage equal to the target agent's maximum Composure purges the unvented Han buildup, restoring the agent to full sanity and stabilizing their mental gauge!
 
 ---

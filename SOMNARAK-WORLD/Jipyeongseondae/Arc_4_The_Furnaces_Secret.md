@@ -26,7 +26,7 @@
 | - Total Health (HP): 6,200 HP | Posture Pool: 400/400               |
 | - Stagger 1 Proc   : 60% Posture Strain (240 Posture) / Vent Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Thermal Re-Harmonization) |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Heat 0.5x, Weight   |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Heat 0.5x, Weight   |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
@@ -150,8 +150,8 @@ The Blazing Heart unleashed lethal wide-area thermal damage through its **Ruptur
   * Hwaran (Speed 7 -> 4 AP): Holds Node 03. Spends 2 AP on `[Cryo-Brine Shield]`. Spends 2 AP on `[Siphon Jet]`.
   * The Blazing Heart (Speed 7 -> 4 AP): Vents from Node 05 to Node 04. Spends 2 AP on `[Magma Geyser Eruption]`. Spends 2 AP on `[Slag Wave]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The Blazing Heart fires `[Magma Geyser Eruption]` (Base 19 + 2 Coins = 29 Power, Area Heat/Lament).
-    * Kael intercepts with `[Trench-Cleaver: Thermal Intercept]` (Base 22 + 2 Coins = 34 Power, Obsidian Heavy Blade).
+  * **Clash 1 (Node 04 to 05)**: The Blazing Heart fires `[Magma Geyser Eruption]` (Base 19 + 2 Lots = 29 Power, Area Heat/Lament).
+    * Kael intercepts with `[Trench-Cleaver: Thermal Intercept]` (Base 22 + 2 Lots = 34 Power, Obsidian Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (34 vs 29)!
     * Kael's cleaver splits the torrential jet of boiling magma cleanly, spraying the molten rock harmlessly into the drainage flues (`[P3: Parry/Protection]`).
     * Kael's glass arm shudders with sub-zero acoustic resonance, reflecting **340 cryo-tremor damage** into the vent manifold, inflicting +66 Posture Strain!
@@ -201,11 +201,11 @@ The Blazing Heart unleashed lethal wide-area thermal damage through its **Ruptur
   * Kael (Speed 8 -> 4 AP [Surge]): Leaps to Node 05 directly onto the crucible rim. Spends 3 AP on `[Obsidian Cleaver: Manifold Severance]`. Holds 1 AP in Guard.
   * Hwaran (Speed 9 -> 5 AP): Spends 3 AP on `[Cryo-Brine Core Flood]`. Spends 2 AP on `[Civilian Evacuation Cover]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 06)**: The Blazing Heart fires `[Cataclysmic Slag Eruption]` (Base 20 + 2 Coins = 28 Power, Area Heat/Weight).
-    * Kael clashes with `[Obsidian Cleaver: Manifold Severance]` (Base 26 + 3 Coins Heads = 45 Power, Heavy Void/Shatter).
+  * **Clash 1 (Node 05 to 06)**: The Blazing Heart fires `[Cataclysmic Slag Eruption]` (Base 20 + 2 Lots = 28 Power, Area Heat/Weight).
+    * Kael clashes with `[Obsidian Cleaver: Manifold Severance]` (Base 26 + 3 Lots Marked = 45 Power, Heavy Void/Shatter).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (45 vs 28)!
     * Kael's cleaver shears through the six basalt rupture pipes simultaneously; the pressurized steam and slag backfire into the core!
-    * Deals **1,260 Critical Void/Shatter damage** (Fatal 2.0x proc!)!
+    * Deals **1,260 Critical Void/Shatter damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Thermal Rupture Vents are completely destroyed (**Vents HP: 0/1,600** credit)!
     * **EFFECT**: Boss magma eruptions permanently halted; boss permanently loses 1 Speed Slot!
   * **Slag Crucible Damage**:
@@ -254,8 +254,8 @@ The Blazing Heart unleashed lethal wide-area thermal damage through its **Ruptur
   * Kael (Speed 8 -> 4 AP): Holds Node 05. Spends 2 AP on `[Glass Fist: Sub-Zero Resonance]`. Spends 2 AP on `[Cleaver Cleave]`.
   * Hwaran (Speed 8 -> 4 AP): Stands at Node 03. Spends 2 AP on `[Cryo-Brine Jet]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 06)**: The Blazing Heart pulses with `[Tears of the Ancient Smelter]` (Base 18 + 2 Coins = 26 Power, Heavy Lament/Heat).
-    * Kael clashes with `[Glass Fist: Sub-Zero Resonance]` (Base 23 + 2 Coins = 35 Power, Seismic Void).
+  * **Clash 1 (Node 05 to 06)**: The Blazing Heart pulses with `[Tears of the Ancient Smelter]` (Base 18 + 2 Lots = 26 Power, Heavy Lament/Heat).
+    * Kael clashes with `[Glass Fist: Sub-Zero Resonance]` (Base 23 + 2 Lots = 35 Power, Seismic Void).
     * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
     * Kael's glass arm punches deep into the molten iron mantle; sub-zero acoustic waves freeze the boiling slag into brittle gray cast iron!
     * Hwaran's cryo-brine jet shatters the frozen shell; massive chunks of iron fall away, exposing the pulsing Grief Spark within!
@@ -306,7 +306,7 @@ The Blazing Heart unleashed lethal wide-area thermal damage through its **Ruptur
   * Kael (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 05. Spends 3 AP on `[Four-Fold Cleaver Execution]`. Spends 2 AP on `[Sub-Zero Cleave]`.
   * Hwaran: Calls in `[Cryo-Brine Deluge]` (3 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Kael's `[Four-Fold Cleaver Execution]`: Rips through the grief spark for **1,260 Void damage** (Fatal 2.0x proc!)!
+  * Kael's `[Four-Fold Cleaver Execution]`: Rips through the grief spark for **1,260 Void damage** (Exposed 2.0x proc!)!
   * Kael's `[Sub-Zero Cleave]`: Shatters the remaining iron mantle for **540 Cold damage**!
   * Hwaran's `[Cryo-Brine Deluge]`: Quenches the surrounding lava pools for **520 Cold/Void damage**!
   * **TOTAL BURST DAMAGE: 2,320 DAMAGE!**
@@ -346,14 +346,14 @@ The Blazing Heart unleashed lethal wide-area thermal damage through its **Ruptur
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Supernova & Forge Solace Overdrive)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The Blazing Heart awakens in desperate, wailing agony; all remaining thermal energy condenses into a ten-meter sphere of liquid white flame!
-  * Boss Special Skill: `[Supernova of Four Thousand Years]` (Volcanic Meltdown Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Supernova of Four Thousand Years]` (Volcanic Meltdown Cataclysm, 3 Lots).
   * Kael activates Relic Overdrive: `[SOLACE OF THE QUENCHED FORGE — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Kael (Speed 9 -> 5 AP [Overdrive]): Steps straight onto the central dais at Node 05, extending both hands.
   * Hwaran: Anchors thermal insulation lines across the chasm at Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 06)**: The Blazing Heart unleashes `[Supernova of Four Thousand Years]` (Base 24 + 3 Coins = 36 Power, Area Heat/Lament).
-    * Kael clashes with `[SOLACE OF THE QUENCHED FORGE — MAXIMUM]` (Base 31 + 3 Coins Heads = 53 Power, Transcendent Solace).
+  * **Clash 1 (Node 05 to 06)**: The Blazing Heart unleashes `[Supernova of Four Thousand Years]` (Base 24 + 3 Lots = 36 Power, Area Heat/Lament).
+    * Kael clashes with `[SOLACE OF THE QUENCHED FORGE — MAXIMUM]` (Base 31 + 3 Lots Marked = 53 Power, Transcendent Solace).
     * **Clash Outcome**: KAEL OVERWHELMING RELIC CLASH WIN (53 vs 36)!
     * Kael's glass arm envelops the white-hot sphere; the sub-zero acoustic frequency transmutes the destructive fire into a gentle, warm golden hearth-ember (`[P3: Parry/Protection]`).
     * Kael's voice rings through the chamber: *"You have burned long enough. The city has heard your tears. Rest now."*

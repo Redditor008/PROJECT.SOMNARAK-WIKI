@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Soft Edge* [**Debuff**] } | "Your outline goes blurry at the edges — and you cannot tell where you stop and the air begins." | [The Shard melts the target's boundaries; definition fails.] | *Target suffers a Void mark; they are less solid than they were.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Shard is approached. |
 | { *The Run* [**Debuff**] } | "Something drips — and you realize with horror that it is you." | [The target begins to lose cohesion; identity runs.] | *Target loses clarity; they cannot hold their shape together.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers in the melt. |
-| { *The Pool* [**Attack**] } | "A splash of what used to be someone lands on you." | [A glob of melted self strikes the target.] | *Inflicts Pale White damage; a portion of identity transferred.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is disturbed. |
+| { *The Pool* [**Attack**] } | "A splash of what used to be someone lands on you." | [A glob of melted self strikes the target.] | *Inflicts Void damage; a portion of identity transferred.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is disturbed. |
 | { *The Dissolve* [**Attack**] } | "The melting accelerates — and everything you were comes apart at once." | [The Shard dissolves the target's coherence in a rapid rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shard is struck. |
 | { *The Puddle* [**Ultimate**] } | "Everyone loses their edges — and the floor is awash with what used to be people." | [The Shard spreads its melt across the whole field.] | *All in range suffer Pale White erosion for three turns as shapes fail.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 5

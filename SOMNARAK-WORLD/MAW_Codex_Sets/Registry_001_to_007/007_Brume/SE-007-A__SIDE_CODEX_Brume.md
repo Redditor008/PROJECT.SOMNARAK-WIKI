@@ -110,7 +110,7 @@ The Hope Set is not hope as comfort. It is hope as an operational decision: a re
 | Element | Resistance |
 |---|---|
 | **Lament** | 1.2 — Weak |
-| **Grudge** | 0.8 — Endured |
+| **Grudge** | 0.8 — Warded |
 | **Void** | 0.3 — Resistant |
 | **Weight** | 1.1 — Weak |
 

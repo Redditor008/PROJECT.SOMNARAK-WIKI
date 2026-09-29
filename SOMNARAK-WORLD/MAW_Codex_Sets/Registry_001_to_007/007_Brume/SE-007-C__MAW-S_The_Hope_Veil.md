@@ -35,7 +35,7 @@ The Hope Veil is a near-transparent veil of pale Han gossamer, so fine that it c
 | Element | Multiplier | Label | Field Meaning |
 |---|---:|---|---|
 | **Lament** | 1.2 | Weak | Grief can still destabilize a bearer who has chosen a destination. |
-| **Grudge** | 0.8 | Endured | Physical hostility is partially dispersed by the veil. |
+| **Grudge** | 0.8 | Warded | Physical hostility is partially dispersed by the veil. |
 | **Void** | 0.3 | Resistant | Strong protection against Brume’s identity and direction erosion. |
 | **Weight** | 1.1 | Weak | The veil provides little help against raw wilderness pressure. |
 

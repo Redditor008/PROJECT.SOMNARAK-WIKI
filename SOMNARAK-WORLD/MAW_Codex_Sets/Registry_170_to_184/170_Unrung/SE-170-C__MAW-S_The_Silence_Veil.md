@@ -45,7 +45,7 @@ The Soundless Velvet Cassock is pale gossamer with a bell-shaped blank at the co
 | Element | Multiplier | Label | Protection / failure reason |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | Grief cannot be safely muted by the fabric. |
-| Grudge | 0.8 | Endured | Anger loses force when it cannot turn into noise. |
+| Grudge | 0.8 | Warded | Anger loses force when it cannot turn into noise. |
 | Void | 0.3 | Resistant | The Veil protects identity from silent-alert pressure. |
 | Weight | 1.1 | Weak | Unanswered responsibility still presses through. |
 

@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Sealed Door* [**Debuff**] } | "A door closes in your mind — and you cannot recall what was behind it." | [The Lock seals a memory away; the target feels the absence.] | *Target suffers a Void mark; something has been taken from recall.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Lock is set. |
 | { *The Lost Key* [**Debuff**] } | "You know there is something behind the door — but the key is gone, and the shape of what is missing haunts you." | [The sealed absence gnaws; the target cannot stop reaching for the gap.] | *Target loses clarity; the forgotten thing presses at the edges.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target senses the gap. |
-| { *The Bolt* [**Attack**] } | "The lock slams home — and whatever is behind it slams with it." | [The Lock drives a bolt of sealed-away grief into the target.] | *Inflicts Pale White damage; the impact of a suddenly-closed door.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Lock is forced. |
+| { *The Bolt* [**Attack**] } | "The lock slams home — and whatever is behind it slams with it." | [The Lock drives a bolt of sealed-away grief into the target.] | *Inflicts Void damage; the impact of a suddenly-closed door.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Lock is forced. |
 | { *What Was Hidden* [**Attack**] } | "The lock breaks — and what you sealed away comes flooding out." | [The sealed memory breaks free in its full, terrible clarity.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Lock is shattered or picked. |
 | { *The Vault Empties* [**Ultimate**] } | "Every door opens. Every sealed memory walks free." | [The Lock releases everything it ever held, all at once.] | *All in range suffer Pale White erosion for three turns as the past unseals.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -229,7 +229,7 @@ The escalation pattern is specific to Memory Lock: it is not a generic breach ev
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

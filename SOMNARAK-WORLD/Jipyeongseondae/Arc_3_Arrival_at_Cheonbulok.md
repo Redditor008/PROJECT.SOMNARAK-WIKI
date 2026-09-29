@@ -25,7 +25,7 @@
 | - Total Health (HP): 5,800 HP | Posture Pool: 380/380               |
 | - Stagger 1 Proc : 60% Posture Strain (228 Posture) / Cleaver Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Gladiatorial Submission)  |
-| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Heat 0.5x, Weight   |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Heat 0.5x, Weight   |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
@@ -153,8 +153,8 @@ Slag Champion Barok wielded extreme thermal power, utilizing the **Boiling Iron 
   * Hwaran (Speed 7 -> 4 AP): Holds Node 03. Spends 2 AP on `[Quenching Steam Flare]`. Spends 2 AP on `[Weakpoint Dart]`.
   * Barok (Speed 7 -> 4 AP): Charges from Node 05 to Node 02. Spends 2 AP on `[Boiling Cleave: Slag Eruption]`. Spends 2 AP on `[Chest Vent Blast]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: Barok swings `[Boiling Cleave: Slag Eruption]` (Base 19 + 2 Coins = 29 Power, Heavy Heat/Slash).
-    * Kael intercepts with `[Trench-Cleaver: Kinetic Intercept]` (Base 22 + 2 Coins = 34 Power, Obsidian Heavy Blade).
+  * **Clash 1 (Node 02 to 05)**: Barok swings `[Boiling Cleave: Slag Eruption]` (Base 19 + 2 Lots = 29 Power, Heavy Heat/Slash).
+    * Kael intercepts with `[Trench-Cleaver: Kinetic Intercept]` (Base 22 + 2 Lots = 34 Power, Obsidian Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (34 vs 29)!
     * Kael's obsidian blade catches the white-hot cleaver; the molten iron sprays across the sand like fireworks (`[P3: Parry/Protection]`).
     * Kael's glass arm shudders with seismic frequency, reflecting **310 kinetic tremor damage** into the cleaver's hilt, inflicting +62 Posture Strain!
@@ -207,8 +207,8 @@ Slag Champion Barok wielded extreme thermal power, utilizing the **Boiling Iron 
   * Kael (Speed 8 -> 4 AP [Surge]): Steps to Node 03. Spends 3 AP on `[Obsidian Cleaver: Thermal Severance]`. Holds 1 AP in Guard.
   * Hwaran (Speed 9 -> 5 AP): Spends 3 AP on `[Cryo-Brine Quenching Grenade]`. Spends 2 AP on `[Flank Support]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: Barok slams with `[Caldera Earth-Breaker]` (Base 20 + 2 Coins = 28 Power, Area Heat/Weight).
-    * Kael clashes with `[Obsidian Cleaver: Thermal Severance]` (Base 26 + 3 Coins Heads = 45 Power, Heavy Weight/Shatter).
+  * **Clash 1 (Node 03 to 05)**: Barok slams with `[Caldera Earth-Breaker]` (Base 20 + 2 Lots = 28 Power, Area Heat/Weight).
+    * Kael clashes with `[Obsidian Cleaver: Thermal Severance]` (Base 26 + 3 Lots Marked = 45 Power, Heavy Weight/Shatter).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (45 vs 28)!
     * Hwaran's cryo-brine grenade flash-freezes the glowing cleaver blade; as Kael's cleaver strikes, the superheated iron shatters like brittle glass!
     * Deals **1,190 Critical Shatter damage** (Weight 2.0x proc!)!
@@ -263,8 +263,8 @@ Slag Champion Barok wielded extreme thermal power, utilizing the **Boiling Iron 
   * Kael (Speed 8 -> 4 AP): Moves to Node 03. Spends 2 AP on `[Glass Fist: Bedrock Counter]`. Spends 2 AP on `[Seismic Cleave]`.
   * Hwaran (Speed 8 -> 4 AP): Advances to Node 04. Spends 2 AP on `[Pneumatic Ram]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: Barok charges with `[Volcanic Battering Ram]` (Base 18 + 2 Coins = 26 Power, Heavy Weight/Heat).
-    * Kael clashes with `[Glass Fist: Bedrock Counter]` (Base 23 + 2 Coins = 35 Power, Seismic Weight).
+  * **Clash 1 (Node 03 to 05)**: Barok charges with `[Volcanic Battering Ram]` (Base 18 + 2 Lots = 26 Power, Heavy Weight/Heat).
+    * Kael clashes with `[Glass Fist: Bedrock Counter]` (Base 23 + 2 Lots = 35 Power, Seismic Weight).
     * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
     * Kael's glass arm meets Barok's charging shoulder; the kinetic impact rings through the caldera like a cracked bell!
     * Drone-assisted pneumatic rams shatter the volcanic basalt plates into black gravel, exposing the glowing combustion core in his chest!
@@ -316,7 +316,7 @@ Slag Champion Barok wielded extreme thermal power, utilizing the **Boiling Iron 
   * Kael (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Four-Fold Cleaver Execution]`. Spends 2 AP on `[Seismic Impact]`.
   * Hwaran: Delivers `[Cryo-Brine Core Sapper]` (3 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Kael's `[Four-Fold Cleaver Execution]`: Rips through the combustion heart for **1,140 Heavy Weight damage** (Fatal 2.0x proc!)!
+  * Kael's `[Four-Fold Cleaver Execution]`: Rips through the combustion heart for **1,140 Heavy Weight damage** (Exposed 2.0x proc!)!
   * Kael's `[Seismic Impact]`: Slices through the remaining armor plates for **500 Shatter damage**!
   * Hwaran's `[Cryo-Brine Sapper]`: Freezes the secondary injector lines for **480 Cold/Void damage**!
   * **TOTAL BURST DAMAGE: 2,120 DAMAGE!**
@@ -358,14 +358,14 @@ Slag Champion Barok wielded extreme thermal power, utilizing the **Boiling Iron 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Superheated Slag & Horizon Mercy)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Barok rises in suicidal gladiatorial pride; his chest reactor blows all safety vents in an incandescent eruption of molten slag!
-  * Boss Special Skill: `[Superheated Slag Immolation]` (Volcanic Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Superheated Slag Immolation]` (Volcanic Cataclysm, 3 Lots).
   * Kael activates Relic Overdrive: `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Kael (Speed 9 -> 5 AP [Overdrive]): Steps straight onto the central dais at Node 05, raising his glass arm.
   * Hwaran: Deploys steam barriers at Node 07 to protect the front-row spectators.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 06)**: Barok discharges `[Superheated Slag Immolation]` (Base 23 + 3 Coins = 35 Power, Area Heat/Void).
-    * Kael clashes with `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Base 30 + 3 Coins Heads = 51 Power, Seismic Quenching).
+  * **Clash 1 (Node 05 to 06)**: Barok discharges `[Superheated Slag Immolation]` (Base 23 + 3 Lots = 35 Power, Area Heat/Void).
+    * Kael clashes with `[PROMISE OF THE HORIZON SOVEREIGN — MAXIMUM]` (Base 30 + 3 Lots Marked = 51 Power, Seismic Quenching).
     * **Clash Outcome**: KAEL OVERWHELMING RELIC CLASH WIN (51 vs 35)!
     * Kael's glass arm plunges directly into Barok's open chest furnace, driving a pulse of absolute acoustic zero into the coal core (`[P3: Parry/Protection]`).
     * The roaring flames collapse into cool, black slag; Kael catches the fainting giant before he strikes the sand!

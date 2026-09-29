@@ -124,7 +124,7 @@ The Requiem Set does not create silence. Each piece gives its bearer a limited w
 | **Lament** | 0.4 — Resistant |
 | **Grudge** | 1.0 — Normal |
 | **Void** | 1.6 — Weak |
-| **Weight** | 0.8 — Endured |
+| **Weight** | 0.8 — Warded |
 
 ### Lament’s Edge
 

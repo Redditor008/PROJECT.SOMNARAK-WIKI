@@ -909,7 +909,7 @@ Appearance : A tailored desert-cloth mantle reinforced with curved bronze should
 Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
 
 **Resistances:**
-- Weight: 0.5 (Endured)
+- Weight: 0.5 (Warded)
 - Grudge: 1.1 (Weak)
 - Lament: 1.0 (Normal)
 - Void: 1.2 (Weak)
@@ -1061,10 +1061,10 @@ Appearance : A tailored charcoal-grey watchman’s greatcoat lined with dense ra
 Dense layers of compacted corvid down beneath the woolen shell cushion incoming blunt trauma and absorb Grudge impacts. Miniature bronze balance feathers dangle from the shoulder epaulets, shifting weight to offset concussive kinetic shockwaves.
 
 **Resistances:**
-- Grudge: 0.6 (Endured)
+- Grudge: 0.6 (Warded)
 - Lament: 1.0 (Normal)
 - Void: 1.2 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
@@ -1512,7 +1512,7 @@ Appearance : A thigh-length hauberk woven from interlocking black iron wire inte
 Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
 
 **Resistances:**
-- Grudge: 0.5 (Endured)
+- Grudge: 0.5 (Warded)
 - Lament: 1.0 (Normal)
 - Void: 1.3 (Weak)
 - Weight: 1.0 (Normal)
@@ -2192,8 +2192,8 @@ Appearance : A heavy hooded cape tailored from fire-retardant spun asbestos and 
 The lower hem is singed into permanent glowing charcoal edges that never burn through the dense fabric. Microscopic heat pockets woven throughout the lining shield the wearer from freezing cold and disperse explosive thermal shockwaves outward.
 
 **Resistances:**
-- Lament: 0.6 (Endured)
-- Grudge: 0.8 (Endured)
+- Lament: 0.6 (Warded)
+- Grudge: 0.8 (Warded)
 - Void: 1.5 (Weak)
 - Weight: 1.0 (Normal)
 **Max Amount:** 4
@@ -2277,9 +2277,9 @@ Appearance : A flowing ankle-length robe of layered translucent violet gossamer 
 The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical disruptions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
 
 **Resistances:**
-- Lament: 0.5 (Endured)
+- Lament: 0.5 (Warded)
 - Grudge: 1.2 (Weak)
-- Void: 0.8 (Endured)
+- Void: 0.8 (Warded)
 - Weight: 1.1 (Weak)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes

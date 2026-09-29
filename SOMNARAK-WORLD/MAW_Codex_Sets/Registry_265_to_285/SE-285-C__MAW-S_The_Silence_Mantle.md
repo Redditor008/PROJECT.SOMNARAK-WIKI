@@ -26,7 +26,7 @@ The Silence Mantle is a matte black garment of Han weave that breathes without s
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Endured | 5 / 10 Echoes |
+| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 5 / 10 Echoes |
 
 **Optional Quiet:** The Mantle distributes silence pressure across its folds while keeping speech and exit available.
 

@@ -26,7 +26,7 @@
 | - Stagger 1 Proc : 60% Posture Strain (216 Posture) / Mandible      |
 |   Break                                                             |
 | - Stagger 2 Proc   : 0% Posture Collapse (Leviathan Pacification)   |
-| - Resistances : Weight 2.0x (Fatal), Grudge 1.5x, Void 0.5x, Lament |
+| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Void 0.5x, Lament |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
@@ -155,8 +155,8 @@ The Glass Burrower utilized terrifying speed and mass to breach from beneath the
   * Hwaran (Speed 7 -> 4 AP): Holds Node 02. Spends 2 AP on `[Harpoon Volley]`. Spends 2 AP on `[Acoustic Tracking Flare]`.
   * The Glass Burrower (Speed 7 -> 4 AP): Surges from Node 05 to Node 01. Spends 2 AP on `[Vitreous Mandible Shear]`. Spends 2 AP on `[Glass Silt Geyser]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 01 to 05)**: The Glass Burrower lunges with `[Vitreous Mandible Shear]` (Base 19 + 2 Coins = 29 Power, Piercing Weight).
-    * Kael intercepts with `[Trench-Cleaver: Kinetic Intercept]` (Base 22 + 2 Coins = 34 Power, Obsidian Heavy Blade).
+  * **Clash 1 (Node 01 to 05)**: The Glass Burrower lunges with `[Vitreous Mandible Shear]` (Base 19 + 2 Lots = 29 Power, Piercing Weight).
+    * Kael intercepts with `[Trench-Cleaver: Kinetic Intercept]` (Base 22 + 2 Lots = 34 Power, Obsidian Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (34 vs 29)!
     * Kael drives the broad flat of the cleaver between the beast's outer mandibles, levering the crushing jaws apart with his glass arm (`[P3: Parry/Protection]`).
     * Seismic tremor reflects **280 kinetic tremor damage** into the jaw hinges, inflicting +58 Posture Strain!
@@ -207,12 +207,12 @@ The Glass Burrower utilized terrifying speed and mass to breach from beneath the
   * Hwaran (Speed 9 -> 5 AP): Spends 3 AP on `[Hydraulic Winch Lock]`. Spends 2 AP on `[Explosive Harpoon Strike]`.
   * Wright Gwan: Engages caterpillar reverse thrusters to create maximum cable tension.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 02 to 05)**: The Burrower channels `[Vitreous Sand Drill]` (Base 20 + 2 Coins = 28 Power, Area Weight).
-    * Kael clashes with `[Obsidian Cleaver: Jaw Shatter]` (Base 26 + 3 Coins Heads = 45 Power, Weight/Shatter).
+  * **Clash 1 (Node 02 to 05)**: The Burrower channels `[Vitreous Sand Drill]` (Base 20 + 2 Lots = 28 Power, Area Weight).
+    * Kael clashes with `[Obsidian Cleaver: Jaw Shatter]` (Base 26 + 3 Lots Marked = 45 Power, Weight/Shatter).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (45 vs 28)!
     * Kael leaps onto the creature's snout, driving the obsidian blade directly through the central diamond mandible joint!
     * The high-frequency vibration shatters all three rings of diamond teeth into green glass shards!
-    * Deals **1,120 Critical Shatter damage** (Fatal 2.0x proc!)!
+    * Deals **1,120 Critical Shatter damage** (Exposed 2.0x proc!)!
     * **TARGETED PART DESTROYED**: The Crushing Mandibles are completely destroyed (**Mandibles HP: 0/1,400** credit)!
     * **EFFECT**: Beast cannot submerge back into the sand; permanently loses 1 Speed Slot!
   * **Chitin Carapace Damage**:
@@ -263,8 +263,8 @@ The Glass Burrower utilized terrifying speed and mass to breach from beneath the
   * Kael (Speed 8 -> 4 AP): Moves to Node 03. Spends 2 AP on `[Glass Fist: Bedrock Ram]`. Spends 2 AP on `[Cleaver Cleave]`.
   * Hwaran (Speed 8 -> 4 AP): Advances to Node 04. Spends 2 AP on `[Pneumatic Spike]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 03 to 05)**: The Burrower sweeps with `[Tail Flail of Vitrified Rock]` (Base 18 + 2 Coins = 26 Power, Heavy Kinetic).
-    * Kael clashes with `[Glass Fist: Bedrock Ram]` (Base 23 + 2 Coins = 35 Power, Seismic Weight).
+  * **Clash 1 (Node 03 to 05)**: The Burrower sweeps with `[Tail Flail of Vitrified Rock]` (Base 18 + 2 Lots = 26 Power, Heavy Kinetic).
+    * Kael clashes with `[Glass Fist: Bedrock Ram]` (Base 23 + 2 Lots = 35 Power, Seismic Weight).
     * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
     * Kael's glass arm punches into the silicate carapace plate; the acoustic shockwave radiates through the titan's skeletal frame!
     * Drone-assisted pneumatic spikes shatter the armor plating across its neck, exposing the pulsating azure Siphon Heart!
@@ -315,7 +315,7 @@ The Glass Burrower utilized terrifying speed and mass to breach from beneath the
   * Kael (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Four-Fold Cleaver Execution]`. Spends 2 AP on `[Seismic Impact]`.
   * Hwaran: Calls in `[Spinal Battery Focused Slag Barrage]` (3 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Kael's `[Four-Fold Cleaver Execution]`: Drives into the siphon bladder for **1,060 Heavy Weight damage** (Fatal 2.0x proc!)!
+  * Kael's `[Four-Fold Cleaver Execution]`: Drives into the siphon bladder for **1,060 Heavy Weight damage** (Exposed 2.0x proc!)!
   * Kael's `[Seismic Impact]`: Slices through the remaining armor plates for **460 Shatter damage**!
   * Spinal Slag Barrage: Superheated iron rounds obliterate the carapace collar for **460 Fire/Blunt damage**!
   * **TOTAL BURST DAMAGE: 1,980 DAMAGE!**
@@ -358,14 +358,14 @@ The Glass Burrower utilized terrifying speed and mass to breach from beneath the
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Acoustic Shockwave & Horizon Pacification)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The titan thrashes in blind panic; its Siphon Heart swells to double its volume, preparing a supersonic shockwave to pulverize the crawler!
-  * Boss Special Skill: `[Supersonic Acoustic Shockwave]` (Seismic Siphon Cataclysm, 3 Coins).
+  * Boss Special Skill: `[Supersonic Acoustic Shockwave]` (Seismic Siphon Cataclysm, 3 Lots).
   * Kael activates Relic Overdrive: `[HARMONIC CLEAVER OF THE HORIZON — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Kael (Speed 9 -> 5 AP [Overdrive]): Steps straight onto the creature's exposed collar at Node 05, raising his glass arm high.
   * Hwaran: Deploys mobile acoustic quenching pylons at Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 06)**: The Burrower discharges `[Supersonic Acoustic Shockwave]` (Base 23 + 3 Coins = 34 Power, Area Acoustic/Weight).
-    * Kael clashes with `[HARMONIC CLEAVER OF THE HORIZON — MAXIMUM]` (Base 30 + 3 Coins Heads = 51 Power, Seismic Harmony).
+  * **Clash 1 (Node 05 to 06)**: The Burrower discharges `[Supersonic Acoustic Shockwave]` (Base 23 + 3 Lots = 34 Power, Area Acoustic/Weight).
+    * Kael clashes with `[HARMONIC CLEAVER OF THE HORIZON — MAXIMUM]` (Base 30 + 3 Lots Marked = 51 Power, Seismic Harmony).
     * **Clash Outcome**: KAEL OVERWHELMING RELIC CLASH WIN (51 vs 34)!
     * Kael's glass arm resonates at the exact inverse harmonic frequency of the titan's siphon bladder (`[P3: Parry/Protection]`).
     * The supersonic wave collapses into a low, gentle acoustic hum; Kael drives the hilt of the cleaver into the bladder's nerve center!

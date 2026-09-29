@@ -26,7 +26,7 @@ The Secret Veil is a near-colorless suit of Han gossamer with a single opaque se
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
-| 1.2 — Weak | 0.8 — Endured | 0.3 — Resistant | 1.1 — Weak | 3 / 35 Echoes |
+| 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 3 / 35 Echoes |
 
 **Bounded Listener:** The Veil keeps one whisper from replacing identity or expanding into unapproved memory access.
 

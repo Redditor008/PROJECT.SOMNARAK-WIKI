@@ -68,7 +68,7 @@ A stable Mantle condenses from the burden left on a Ferrehan worker’s shoulder
 | Lament | 1.0 | Normal | Shared grief passes through without special reduction. |
 | Grudge | 1.0 | Normal | The garment provides no answer to directed anger. |
 | Void | 1.5 | Weak | Its preserved inner vacancy gives absence room to spread. |
-| Weight | 0.5 | Endured | Crushing burden disperses through the unoccupied fold instead of settling wholly on the body. |
+| Weight | 0.5 | Warded | Crushing burden disperses through the unoccupied fold instead of settling wholly on the body. |
 
 ### Protective function — *Unoccupied Fold*
 

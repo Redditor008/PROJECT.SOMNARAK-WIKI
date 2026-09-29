@@ -253,7 +253,7 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
 - Void: 0.3 (Resistant)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 

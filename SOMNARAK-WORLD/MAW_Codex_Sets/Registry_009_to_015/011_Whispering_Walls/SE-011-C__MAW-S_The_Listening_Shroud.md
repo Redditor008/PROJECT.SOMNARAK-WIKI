@@ -21,7 +21,7 @@
 | **Lament** | 0.4 | Resistant | Reduces ambient whisper pressure. |
 | **Grudge** | 1.0 | Normal | No defense against direct hostility. |
 | **Void** | 1.6 | Weak | Silence and identity erasure pass through easily. |
-| **Weight** | 0.8 | Endured | Minor comfort against the heaviness of old buildings. |
+| **Weight** | 0.8 | Warded | Minor comfort against the heaviness of old buildings. |
 
 | Field | Record |
 |---|---|

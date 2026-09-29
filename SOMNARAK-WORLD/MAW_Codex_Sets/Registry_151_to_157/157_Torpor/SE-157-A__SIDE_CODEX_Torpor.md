@@ -115,7 +115,7 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 | Field | Record |
 |---|---|
 | Lament / Grudge | 1.0 — Normal / 1.0 — Normal |
-| Void / Weight | 1.5 — Weak / 0.5 — Endured |
+| Void / Weight | 1.5 — Weak / 0.5 — Warded |
 | Maximum Amount / Echo Cost | 2 — Limited / 45 Sorrow Echoes |
 | Primary Cost | The wearer carries a constant low fatigue. |
 

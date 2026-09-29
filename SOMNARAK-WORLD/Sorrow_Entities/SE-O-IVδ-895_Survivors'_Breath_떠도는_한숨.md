@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Distant Sound* [**Debuff**] } | "A sigh, from very far away — and somehow it lands directly on your chest." | [The Sigh drifts in; its weight settles on the target.] | *Target suffers a Void mark; the sigh has found a home in them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the Sigh is heard. |
 | { *The Accumulated Weight* [**Debuff**] } | "The sigh does not leave — it just settles deeper, like sediment." | [The Sigh deposits its grief; layers accrue.] | *Target loses clarity; the weight of one sigh is surprisingly vast.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target does not exhale in return. |
-| { *The Exhaled Cut* [**Attack**] } | "The sigh sharpens into a breath — and the breath is a blade." | [A concentrated exhale strikes the target like a gust of glass.] | *Inflicts Pale White damage; the carried grief cuts.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Sigh is disturbed. |
+| { *The Exhaled Cut* [**Attack**] } | "The sigh sharpens into a breath — and the breath is a blade." | [A concentrated exhale strikes the target like a gust of glass.] | *Inflicts Void damage; the carried grief cuts.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Sigh is disturbed. |
 | { *The Whole Breath* [**Attack**] } | "Every sigh the wanderer ever carried, exhaled at once." | [The Sigh releases its full accumulated payload.] | *A heavy Void blast; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Sigh is silenced. |
 | { *The Endless Exhale* [**Ultimate**] } | "Everyone sighs at once — and the sound does not stop, and the weight does not lift." | [The Sigh spreads until every breath in the field is a sigh.] | *All in range suffer Pale White erosion for three turns of endless exhaling.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -199,7 +199,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 2

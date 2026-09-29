@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Empty Ring* [**Debuff**] } | "A sound echoes — but the sound has no source, and the echo has no original, and both are hollow." | [The Echo's void-resonance fills the target with absence.] | *Target suffers a Void mark; they are full of nothing.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target enters the Echo's range. |
 | { *The Amplifying Silence* [**Debuff**] } | "The echo grows louder — but louder means emptier — and the emptiness is deafening." | [The Echo's amplification increases the void-quotient.] | *Target loses clarity; the nothing is consuming everything.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target remains. |
-| { *The Sonic Void* [**Attack**] } | "The echo collapses inward — becoming a point of pure, concentrated absence." | [A void-point strikes the target.] | *Inflicts Pale White damage; the absence erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Echo is disturbed. |
+| { *The Sonic Void* [**Attack**] } | "The echo collapses inward — becoming a point of pure, concentrated absence." | [A void-point strikes the target.] | *Inflicts Void damage; the absence erodes identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Echo is disturbed. |
 | { *The Full Hollow* [**Attack**] } | "Every echo the entity ever held — all of them hollow — resonate at once." | [The Echo's complete resonance is a wall of nothing.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Echo is silenced. |
 | { *The Hollow World* [**Ultimate**] } | "Every sound in the field becomes a hollow echo — and beneath every echo, the same void." | [The Echo extends its hollowness across the whole area.] | *All in range suffer Pale White erosion for three turns of hollow resonance.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -193,7 +193,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 **Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
 **Resistances:**
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Lament: 1.2 (Weak)
 - Weight: 1.1 (Weak)
 - Void: 0.3 (Resistant)

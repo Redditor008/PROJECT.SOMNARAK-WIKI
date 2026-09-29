@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Open Mouth* [**Debuff**] } | "The child opens its mouth to cry — and nothing comes out. The silence is the worst sound." | [The Child's silenced cry creates a void that pulls at the target.] | *Target suffers a Void mark; they hear the cry that is not there.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Child. |
 | { *The Stolen Voice* [**Debuff**] } | "The child's silence is contagious — you feel your own voice fading." | [The Child's voicelessness spreads; the target's words thin.] | *Target loses clarity; they are becoming silent too.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target lingers near. |
-| { *The Soundless Wail* [**Attack**] } | "The child screams — silently — and the silent scream hits harder than sound ever could." | [A void-wail strikes the target without making any noise.] | *Inflicts Pale White damage; the unheard cry tears at identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Child is frightened. |
+| { *The Soundless Wail* [**Attack**] } | "The child screams — silently — and the silent scream hits harder than sound ever could." | [A void-wail strikes the target without making any noise.] | *Inflicts Void damage; the unheard cry tears at identity.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Child is frightened. |
 | { *The Accumulated Silence* [**Attack**] } | "Every cry the child ever held back — released at once, in crushing, perfect quiet." | [The Child unleashes its lifetime of suppressed crying.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Child is hurt. |
 | { *No One Can Speak* [**Ultimate**] } | "The child's silence spreads to everyone — and no one can make a sound, ever again." | [The Child extends its voicelessness across the whole field.] | *All in range suffer Pale White erosion for three turns of perfect silence.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -207,7 +207,7 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 5

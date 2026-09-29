@@ -195,7 +195,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 - Lament: 0.3 (Resistant)
 - Grudge: 1 (Normal)
 - Void: 1.2 (Weak)
-- Weight: 0.8 (Endured)
+- Weight: 0.8 (Warded)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 

@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Cold Core* [**Debuff**] } | "The shard is perfectly preserved — frozen so completely that time itself has stopped inside it." | [The Shard's timeless cold emanates; the target feels the stoppage.] | *Target suffers a Void mark; time is slowing around them.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
 | { *The Suspended Moment* [**Debuff**] } | "Inside the ice, you can see the instant the shard was frozen — a single, eternal, grief-filled frame." | [The Shard's preserved moment radiates; the target is caught in stillness.] | *Target loses clarity; the frozen moment is pulling them in.* **[1 Pale White DMG [Pale White / Void] [1 = 5% Max HP]]** | When the target stares into the ice. |
-| { *The Ice Spear* [**Attack**] } | "The frozen shard launches — trailing permafrost, carrying the cold of an eternal instant." | [An ice-locked shard strikes the target.] | *Inflicts Pale White damage; the eternal cold preserves and erodes.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is struck. |
+| { *The Ice Spear* [**Attack**] } | "The frozen shard launches — trailing permafrost, carrying the cold of an eternal instant." | [An ice-locked shard strikes the target.] | *Inflicts Void damage; the eternal cold preserves and erodes.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP]]** | When the Shard is struck. |
 | { *The Full Shatter* [**Attack**] } | "The ice around the shard cracks — and the moment it held, released, hits like a stopped clock starting again." | [The Shard's temporal prison breaks; the stored moment detonates.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Pale White DMG [Pale White / Void] [3 = 15% Max HP]]** | When the Shard is broken. |
 | { *The Frozen Instant* [**Ultimate**] } | "Every shard in the field freezes — and time, around every one of them, simply stops." | [The Shard extends its temporal freeze across the whole area.] | *All in range suffer Pale White erosion for three turns of stopped time.* **[2 Pale White DMG [Pale White / Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -237,7 +237,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Resistances:**
 - Lament: 1.2 (Weak)
-- Grudge: 0.8 (Endured)
+- Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Max Amount:** 5

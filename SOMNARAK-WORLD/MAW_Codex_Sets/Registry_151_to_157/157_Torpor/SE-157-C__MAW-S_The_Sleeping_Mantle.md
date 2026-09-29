@@ -47,7 +47,7 @@ The Sleeping Mantle is a heavy black mantle that muffles sharp sound and bears a
 | Lament | 1.0 | Normal | Rest cannot remove grief. |
 | Grudge | 1.0 | Normal | Resentment at fatigue must be addressed outside the mantle. |
 | Void | 1.5 | Weak | An absent wake person makes sleep unsafe. |
-| Weight | 0.5 | Endured | The Mantle carries immediate exhaustion pressure through a guarded rest. |
+| Weight | 0.5 | Warded | The Mantle carries immediate exhaustion pressure through a guarded rest. |
 
 | Field | Record |
 |---|---|

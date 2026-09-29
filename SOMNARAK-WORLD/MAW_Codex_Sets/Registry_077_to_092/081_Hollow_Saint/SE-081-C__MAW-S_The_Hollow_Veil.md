@@ -41,7 +41,7 @@ The Veil coalesced after the Saint released a worker’s stated grief without ta
 | Element | Multiplier | Label | Protection / failure reason |
 |---|---:|---|---|
 | Lament | 1.2 | Weak | Shared grief can enter too easily when a boundary is not named. |
-| Grudge | 0.8 | Endured | The Veil can keep anger from deciding who a person is. |
+| Grudge | 0.8 | Warded | The Veil can keep anger from deciding who a person is. |
 | Void | 0.3 | Resistant | Its central function is preserving identity against absence. |
 | Weight | 1.1 | Weak | A self-erasing duty can press through the cloth. |
 
