@@ -39,7 +39,7 @@ The ledger that the **Ordeals** page keeps is sixty files across five **Colors**
 
 Files on disk Sep 28 include `Ordeal_BLACK_First_Watch_The_Grinding_Slab.md` and `Ordeal_BLUE_Second_Watch_The_Sobbing_Wall.md`. Each **Ordeal** shares a color theme across Watches but is a distinct file and threat.
 
-🌀 **Mugenhan** gathers pre-**Ordeal** unease. When 🌀 **Mugenhan** work is neglected, an **Ordeal** is more likely to surface. See [35-🌀 **Mugenhan** and Ordeals](35-🌀 Mugenhan%20and%20Ordeals.md).
+🌀 **Mugenhan** gathers pre-**Ordeal** unease. When 🌀 **Mugenhan** work is neglected, an **Ordeal** is more likely to surface. See [35-🌀 **Mugenhan** and Ordeals](35-Mugenhan%20and%20Ordeals.md).
 
 ## **Watch** Cycle [Ordeals](10-Ordeals.md) are gated by **Watch** and **Containment** Level. See [18-**Containment** Levels](18-Containment%20Levels.md) and [36-Tactical Engine](36-Tactical%20Engine.md).
 
@@ -58,4 +58,4 @@ Files on disk Sep 28 include `Ordeal_BLACK_First_Watch_The_Grinding_Slab.md` and
 ## See also
 
 -[11-Reverberations](11-Reverberations.md)
--[35-🌀 **Mugenhan** and Ordeals](35-🌀 Mugenhan%20and%20Ordeals.md)
+-[35-🌀 **Mugenhan** and Ordeals](35-Mugenhan%20and%20Ordeals.md)

@@ -1,65 +1,118 @@
 # Departments
 
-> *A **Floor** is a promise and a prison.*
+> *“A Floor is a promise and a prison.”*
 
-**Departments** lists the Floors as playable departments.
+**Departments** documents the structural geography, room types, team bonuses, and operational functions of the nine sovereign floors comprising Facility 01 beneath the Alpha Tree  [알파 트리]  (_Alpa Teuri_). Each department operates under an assigned [Echo-Core](14-Echo-Cores.md), maintaining localized containment wards, specialized research branches, and vital restorative facilities.
 
-Departments lists Somnarak's nine municipal Floors as departments, each a **Floor** with an **Echo-Core**, an armband **Veil**, and a [Research](15-Research.md) tree that must be renewed between Watches. Floors 1 Spires (Majin, Reaper Hungered, ⚫ **Weight** and 🔴 **Grudge** plus 🔵 **Lament**) and 1 Central Admin (Seiyon, The Promise as Key Pages, 🔵 **Lament** and ⚪ **Void**) hold the threshold and the record; 2 **Maw**’s Keep (Dekan, Scaled **Maw**-Flesh Arm, 🔴 **Grudge**) contains the **Maw**’s lip; 3.
-
-Each **Echo-Core**’s armband carries the **Floor**’s **Veil** pattern, a wearable fabric that makes the municipal position visible — the same position SOMNARAK-WORLD marks with a departmental badge. The pattern is not decoration but assignment: Control’s pale **Veil** for discipline of the threshold, Information’s 🔴 **Grudge** for observation and record, Training’s 🔵 **Lament** for temperance of recruits, Safety’s ⚫ **Weight** for restoration and welfare, Central’s weight for architecture and command, Disciplinary’s lament for suppression,.
-
-Territory is why Departments matters beyond roster. Floors are not only teams but rooms — Main Rooms with healing generators that tick at 6 HP and SP (12 with research) and that stop when hostile entities are present, **Containment** Units with Sorrow Gauges and **Han**-Energy lattices, Hallways where suppressions occur, and Elevator Hubs that connect them — as documented for SOMNARAK-WORLD Departments and adapted here for Facility 01. Expansion is gated per **Floor** by **Veil** budget and research: each **Floor** receives sorrows according to **Containment** and unlocks personnel slots according to codex progress, constraints that are taught here and executed at [14-Echo-Cores](14-Echo-Cores.md) and [41-Frontiers](41-Frontiers.md). To understand Departments is to understand where a sorrow lives and therefore how loudly it will be heard when the **Veil** thins.
-
-Shallow versus deep is also how the House prices research that the city never cuts. Shallow Floors 1–4 (Spires/Central Admin, **Maw**’s Keep, Extraction Hall, Insight Forge) are loud and handle frequent breach, with labs where the **Veil** is thinnest and where sixteen volumes gate forty-four Codices, while Deep Floors 5–8 (Border **Watch**, Deep Vault, Shadow Corps, Gate **Watch**) are quiet and handle sustained **Veil**, with vaults and gates that hold the same five [Containment Levels](18-Containment%20Levels.md) (Tranquil→Rupture) and four Watches (inspection/assignment/strain/accounting) that shallow floors do, but at longer **Veil** budgets — a difference taught here with Main Rooms with healing generators that tick at 6 HP/SP (12 with research) and stop when hostile entities are present (Sebastian’s absence), **Containment** Units with Sorrow Gauges and **Han**-Energy lattices, Hallways where suppressions occur, and Elevator Hubs that connect them, the same room types that documents for nine Floors 1 to 8 plus Central, co-monitoring **Floor** 7 Shadow Corps with Zyrak and Seiyon and keeping the refusal to reinstall a tenth **Floor** as law where the House keeps the same filing without cutting.
-
-Expansion is how Departments remain accountable rather than infinite, and the city keeps that accountability because the `.gg` habit of cutting unfinished expansion would hide that each **Floor** receives sorrows according to **Veil** budget and unlocks personnel slots according to research, constraints that are taught here and executed at [14-Echo-Cores](14-Echo-Cores.md) and [41-Frontiers](41-Frontiers.md) where the same nine Floors are filed as territory that can be opened and the same ten Primary Companies (five Main, five Sub, all else Outsider Factory) are kept as the only recognized Wings, with Gieok Jeojangso [기억 저장소] as municipal sanctuary with seven strata floors that curate Key Pages for the Silent City, not a Wing, so that a **Warden** who learns Departments before Personnel will not mistake a continent for a charter or a frontier for a floor. The city therefore never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new department is felt it is filed as a variant of one of the nine, not as a tenth, and when a new frontier is felt it is filed as a variant of one of the six — Facility 01 nine Floors, Absolvohan 366-day Engine, Katabagil seven Descents, Katharcheok six Sweeps, Gieok seven Receptions, Jipyeongseondae six Arcs — not as a seventh, so the departments remain nine and the city remains accountable without inventing a new floor to fill a stub.
+Facility 01 does not treat departments as abstract corporate divisions; they are physical, interlocking containment strata excavated directly into the subterranean bedrock. From the uppermost spires piercing the surface daylight to the subterranean vaults guarding the lip of the **Maw**, each floor is fortified to prevent localized breaches from cascading into facility-wide collapse.
 
 ```text
 +========================================================================+
-| SOMNARAK — DEPARTMENTS                                                 |
+| SOMNARAK - FACILITY 01 DEPARTMENTS                                     |
 +------------------------------------------------------------------------+
-| Floors | 1 to 8 plus Central (9 Echo-Cores)                            |
-| Archive | Facility Structure                                           |
+| Total Floors           | 9 Floors (Floors 1 to 8 + Central Command)    |
+| Department Partition   | Shallow Floors (1 to 4) - Deep Floors (5 to 8)|
+| Standard Rooms         | Main Room - Containment (max 4) - Hall - Hub  |
+| Restorative Grid       | Healing Generator (6 HP/SP Base - 12 Max)     |
 +========================================================================+
 ```
 
-## Two Maps
+## Contents
 
-Somnarak fields nine Floors: **Floor** 1 Spires (Majin, threshold), **Floor** 1 Central Admin (Seiyon, record), **Floor** 2 **Maw** Keep (Dekan, containment), **Floor** 3 Extraction Hall (Zyrak, extraction), **Floor** 4 Insight Forge (Ayshuk, research), **Floor** 5 Border **Watch** (Mellda, border), **Floor** 6 Deep Vault (Marjuk, archive), **Floor** 7 Shadow Corps (Ishall, shadow, co-monitored), **Floor** 8 Gate **Watch** (Xyan, gate).
+- [1 Architectural Structure and Room Types](#1-architectural-structure-and-room-types)
+  - [1.1 The Main Room and Healing Generator](#11-the-main-room-and-healing-generator)
+  - [1.2 Containment Units](#12-containment-units)
+  - [1.3 Corridors and Hallways](#13-corridors-and-hallways)
+  - [1.4 Elevator Hubs](#14-elevator-hubs)
+- [2 Departmental Directory and Team Bonuses](#2-departmental-directory-and-team-bonuses)
+- [3 Shallow Floors vs Deep Floors](#3-shallow-floors-vs-deep-floors)
+- [4 Departmental Missions and Research Trees](#4-departmental-missions-and-research-trees)
+- [5 Department Meltdowns and Reverberations](#5-department-meltdowns-and-reverberations)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
 
-Somnarak runs nine:
+## 1 Architectural Structure and Room Types
 
-| **Floor** | Core | Role |
-| --- | --- | --- |
-| 1 Spires | Majin | Control and threshold |
-| 1 Admin | Seiyon | Record and continuity |
-| 2 **Maw** Keep | Dekan | **Containment** |
-| 3 Extraction | Zyrak | Extraction |
-| 4 Insight Forge | Ayshuk |[Research](15-Research.md) |
-| 5 Border **Watch** | Mellda | Border |
-| 6 Deep Vault | Marjuk | Archive |
-| 7 Shadow Corps | Ishall | Shadow — co-monitored by Zyrak and Seiyon |
-| 8 Gate **Watch** | Xyan | Gate |
+Every department within Facility 01 is engineered according to a standardized architectural modular layout designed to compartmentalize cognitive hazards:
 
-Shallow Floors 1 to 4 are loud; deep Floors 5 to 8 are quiet.
+### 1.1 The Main Room and Healing Generator
 
-## Armbands
+The **Main Room** serves as the central command atrium and resting quarters for all specialists stationed on that floor. It is equipped with tactical briefing consoles, equipment racks, and direct comms lines to the floor's Echo-Core.
 
-Each **Echo-Core**'s armband carries the **Floor**'s **Veil** pattern, visible in `Facility Structure/` visuals.
+Crucially, every Main Room houses a **Departmental Healing Generator** — an acoustic resonance coil that continually emits stabilizing harmonics. 
+- While stationed inside the Main Room, all resting personnel recover **6 HP and 6 SP** per pulse.
+- Through departmental research unlocked at [15-Research](15-Research.md), this output can be upgraded to **12 HP and 12 SP** per pulse.
+- **Fail-Safe Shutdown:** If a hostile sorrow entity, rogue specialist, or Ordeal incursion breaches into the Main Room, the Healing Generator immediately shuts down, depriving personnel of restorative regeneration until the room is purged of threats.
 
+### 1.2 Containment Units
 
+Each department contains up to **four Containment Units** (cells) dedicated to housing individual sorrow entities. Each unit is constructed from reinforced basalt and shielded with a localized **Han-Energy lattice** that dampens metaphysical radiation. 
 
+The front of each unit features an armored viewing port, an airlock entry door, and an external **Sorrow Gauge** console indicating the entity's current agitation level, E-Box yield, and activation threshold.
 
-## Gallery
+### 1.3 Corridors and Hallways
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+Reinforced transit tunnels connecting the Main Room to individual containment cells. Corridors are equipped with automated sprinkler systems, acoustic baffles, and blast doors. Hallways serve as the primary battleground where suppression squads intercept and engage mobile, breaching Subject entities.
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+### 1.4 Elevator Hubs
+
+Vertical transit shafts positioned at the perimeter of each wing. Elevator platforms allow rapid vertical transit between adjacent floors, enabling rapid deployment of emergency response squads during multi-floor containment crises.
+
+## 2 Departmental Directory and Team Bonuses
+
+Somnarak fields nine operational departments across eight descending levels plus Central Administration. Operatives permanently stationed within a department receive a specialized **Team Bonus** reflecting the director's cognitive aptitude:
+
+| Floor Level | Department Name | Sovereign Director | Assigned Mandate | Permanent Team Bonus |
+|---|---|---|---|---|
+| **Floor 1 (Upper)** | Spires | Majin  [마진] | Threshold security and facility command | Movement Speed +5% · Weapon Damage +5% |
+| **Floor 1 (Central)** | Central Administration | Seiyon  [세이연] | Archival ledgers and floor coordination | Work Success Rate +5% · Daily Energy Quota +5% |
+| **Floor 2** | Maw's Keep | Dekan  [데칸] | Heavy physical containment and barricades | Maximum HP +10 · 🔴 **Grudge** Defense +0.1 |
+| **Floor 3** | Extraction Hall | Zyrak  [지락] | Mnemonic well drilling and Lumen refining | Maximum SP +10 · Lumen Energy Yield +10% |
+| **Floor 4** | Insight Forge | Ayshuk  [아이숙] | Cognitive analysis and research synthesis | Work Execution Speed +10% · Clarity +5 |
+| **Floor 5** | Border Watch | Mellda  [멜다] | Frontier quarantine and heavy suppression | Damage Resistance +0.15 against all Pressures |
+| **Floor 6** | Deep Vault | Marjuk  [마주크] | Deep storage of volatile relics and unknowns | Relic Mental Strain reduced by 25% |
+| **Floor 7** | Shadow Corps | Ishall  [이샬] | Covert tactical deployment and intervention | Evade Rate +10% · Critical Strike Chance +5% |
+| **Floor 8 (Lower)** | Gate Watch | Xyan  [시안] | Subterranean sentry duty at the lip of the Maw | Panic Breakdown threshold delayed by 20 SP |
+
+## 3 Shallow Floors vs Deep Floors
+
+A critical operational distinction divides the facility along its vertical axis:
+- **Shallow Floors (Floors 1 through 4):** Characterized by intense, rapid operational tempo. Containment cells here house volatile, highly active Subject entities requiring frequent routine interactions to satisfy daily energy quotas. Breaches occur frequently, and suppression teams must remain on constant standby.
+- **Deep Floors (Floors 5 through 8):** Characterized by profound acoustic silence and thick bedrock insulation. These lower depths house ancient relic entities, temporal anomalies, and unclassified horrors. While daily work is less frequent, failures on deep floors threaten structural catastrophe, potentially rupturing the bedrock barrier separating the facility from the **Maw**.
+
+## 4 Departmental Missions and Research Trees
+
+To expand facility capabilities, each Echo-Core issues a series of four progressive **Departmental Missions** to the Warden:
+1. **Initial Assessment:** Execute a designated quota of standard work sessions within the department.
+2. **Work Diversity:** Successfully conduct work across all four canonical protocols (👁 **Viderehan**, 🤲 **Ferrehan**, 💧 **Flerehan**, ⚔ **Pugnahan**).
+3. **Incursion Defense:** Suppress a breaching entity or an active Ordeal incursion using departmental specialists.
+4. **Resonance Mastery:** Complete a full operational shift without a single containment failure or panic event on the floor.
+
+Completing a mission permanently unlocks a major research perk from [15-Research](15-Research.md), such as upgrading the Healing Generator output, fabricating specialized execution bullets, or reinforcing containment lattice integrity.
+
+## 5 Department Meltdowns and Reverberations
+
+When an Echo-Core's emotional stability collapses under accumulated trauma, the department enters a state of **Reverberation** (detailed at [11-Reverberations.md](11-Reverberations.md)). 
+
+During a Reverberation crisis:
+- The department's Healing Generator immediately shuts down.
+- Containment units on that floor undergo spontaneous agitation, halving their breach thresholds.
+- Environmental distortions afflict all stationed personnel, reversing sensory inputs or draining vital energy.
+- To resolve the crisis, the Warden must direct specialists to undergo a **Floor Realization** trial, confronting the Echo-Core's manifestation and restoring harmonic balance to the department.
+
+## 6 Gallery
+
+![Department Main Room](https://via.placeholder.com/320x180?text=Department+Main+Room)
+![Containment Unit Corridor](https://via.placeholder.com/320x180?text=Containment+Corridor)
+![Elevator Shaft Network](https://via.placeholder.com/320x180?text=Elevator+Transit+Shaft)
+
+*Left: Department Main Room with restorative generator; Center: containment corridor; Right: vertical elevator network.*
 ---
 
-## See also
+## 7 See also
 
--[14-Echo-Cores](14-Echo-Cores.md)
--[41-Frontiers](41-Frontiers.md)
+- [01-Main Page](01-Main%20Page.md) — central wiki portal
+- [06-Personnel](06-Personnel.md) — directors, specialists, and companies
+- [14-Echo-Cores](14-Echo-Cores.md) — individual director dossiers and mechanics
+- [15-Research](15-Research.md) — departmental research tree upgrades
+- [11-Reverberations](11-Reverberations.md) — department meltdown crises and floor realizations

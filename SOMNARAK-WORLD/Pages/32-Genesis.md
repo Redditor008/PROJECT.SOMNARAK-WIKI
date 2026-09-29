@@ -60,5 +60,5 @@ This cycle is the municipal paradox — the city needs its grief to endure, and 
 
 ## See also
 
--[30-Overview](30-Overview.md)
+-[07-Sorrow Entities](07-Sorrow%20Entities.md#1-overview)
 -[33-Lumen](33-Lumen.md)

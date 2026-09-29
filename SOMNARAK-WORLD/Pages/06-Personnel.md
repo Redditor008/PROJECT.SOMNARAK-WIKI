@@ -1,64 +1,104 @@
 # Personnel
 
-> *Every specialist carries someone else's sorrow.*
+> *“You do not hire hands. You borrow burdens.”*
 
-**Personnel** lists the people who work Somnarak — the Council, the nine [Echo-Cores](14-Echo-Cores.md), the specialists.
+**Personnel** documents the operational personnel, directors, specialist cadres, and corporate leadership maintaining the vertical civilization of Somnarak. From the sovereign [Echo-Cores](14-Echo-Cores.md) governing the nine departmental floors of Facility 01 to the frontline specialists who carry crystallized **M.A.W.** armaments into volatile containment cells, human labor in Somnarak is defined by the willing assumption of collective grief.
 
-Somnarak is governed by nine [Echo-Cores](14-Echo-Cores.md) who each embody a **Floor** of Facility 01 and speak for the **Hand** of Change. Their dossiers total about 116,000 words under and are summarized here as a municipal roster, not as biography alone. At the apex, Majin  [마진]  (_Majin_ — **Floor** 1 Spires) directs as Human Ω-Fusion wielding the Reaper Hungered (Ω Scythe) with ⚫ **Weight** and 🔴 **Grudge** plus 🔵 **Lament**; beside him, Seiyon [세이연].
-
-Beyond the nine, Somnarak fields ten Primary Companies — five Main and five Sub — which constitute the only recognized corporate Wings of the continent. Five Main Companies hold municipal charters for the central districts; five Sub Companies hold specialized sub-charters for extraction, logistics, and textile. Everything else is Somnarak Outsider Factory, unchartered and non-canonical. Gieok Jeojangso  [기억 저장소]  (_Gieok Jeojangso_ — Memory Archive) is explicitly not a company but.
-
-Personnel are not hired as hands but as burdens.[Specialists](12-Specialists.md) are drawn from ten cadres plus five syndicate pools, each aptitude mapping to a **Han**  [한]  (_**Han**_ — structural grief) — 👁 **Viderehan**  [비데레한]  (_Biderehan_ — to see) for Observation and Clarity, 🤲 **Ferrehan**  [페레한]  (_Perehan_ — to carry) for Endurance and Resilience, 💧 **Flerehan**  [플레레한]  (_Pellerehan_) for Lamentation and Composure, ⚔ **Pugnahan**  [푸그나한]  (_Pugeunahan_) for Confrontation and Resolve. **Han** Pohwa stasis and mnemonic dilation allow figures like Min-Jae to persist 266-plus cycles inside the Absolvohan, while the Council of Sighs adjudicates debt, Fracture, and **Han** law. Dossiers record not deeds but what must be carried to keep the **Veil** intact, and every paragraph here points to a file that can be opened under or.
-
-The nine [Echo-Cores](14-Echo-Cores.md) are also a budget of **Han**, not just a roster, and their **M.A.W.** pairing teaches the city how to afford what it keeps. Majin’s Reaper Hungered (Ω Scythe, ⚫ **Weight** and 🔴 **Grudge** plus 🔵 **Lament**) pairs with Mellda’s Threshold Vow (Arm-Blade, ⚫ **Weight** and 🔴 **Grudge**) to cover ⚫ **Weight** and 🔴 **Grudge** together; Seiyon’s Promise (Key Pages, 🔵 **Lament** and ⚪ **Void**) pairs with Ayshuk’s [Research](15-Research.md) Ledger (⚪ **Void**) and Marjuk’s Memory Lens (⚪ **Void** and ⚫ **Weight**) to cover 🔵 **Lament** and ⚪ **Void**; Dekan’s Scaled **Maw**-Flesh Arm (🔴 **Grudge**) pairs with Zyrak’s Mechanical Hands and Rig (🔴 **Grudge** and ⚪ **Void**) to hold the **Maw**’s lip while extracting; Ishall’s Unanswered Relic Gloves (🔴 **Grudge** and ⚪ **Void**) and Xyan’s Neural Spine and Gear (🔵 **Lament** and ⚫ **Weight**) cover the shadow and gate where the ten Primary Companies — five Main, five Sub, all else Outsider Factory — are not permitted to Work without municipal sanction, a pairing taught in at 735 pieces and in ’s decoupled state machine where Pale at one percent equals five percent of Max HP and therefore scales differently from 🔴 **Grudge**, so that a roster that covers two Pressures can fail a **Watch** that deals the other two, which is why [Challenge Mode](20-Challenge%20Mode.md) at [20-Challenge Mode](20-Challenge%20Mode.md) skews BLACK ⚫ **Weight** grinding and BLUE 🔵 **Lament** brine while retaining the forty-two sets and sixteen research volumes as stakes that reward retention, not mere survival, across the sixteenth battle scenario.
-
-Syndicates and the Council of Sighs are how Personnel escapes being merely a cast list and becomes municipal law. The five Fingers, ten cadres plus five syndicate-adjacent pools, and the Council that adjudicates debt, Fracture, and **Han** law are detailed in where debt became enclave in the Raw — a cartel field where syndicate wards replaced municipal blocks — and where **Han** Pohwa stasis and mnemonic dilation explain how a figure like Min-Jae persists 266-plus cycles inside the Absolvohan while a post-Dawn Wound Walker holds a Crucible Station without the same dilation, a difference that makes dossier length not a biography but a **Veil** requirement. The city’s most common error — cataloging a person as a sorrow or cataloging terrain as an entity — is prevented by filing persons under (about 116,000 words, ~12,888 per dossier) and terrain under as planetary geography, while Gieok Jeojangso [기억 저장소] remains a municipal sanctuary with seven strata floors that curate Key Pages for the Silent City, not a Wing, so that a **Warden** who learns Personnel before Frontiers will not mistake a continent for a charter or a frontier for a floor, as `38-Classification Code` and `41-Frontiers` keep distinct what Personnel would otherwise conflate.
+Under municipal regulations, operatives are not treated as casual laborers; they are certified handlers bound to the city's metaphysical containment grid. Operating within Facility 01, approximately one hundred sixteen thousand words of detailed personnel records document the physiological, psychological, and tactical histories of the staff across nine director dossiers in `09_Personnel_Archives/`.
 
 ```text
 +========================================================================+
-| SOMNARAK — PERSONNEL                                                   |
+| SOMNARAK - PERSONNEL AND CADRES                                        |
 +------------------------------------------------------------------------+
-| Council | 9 Echo-Cores, Floors 1 to 8                                  |
-| Companies | 10 Primary (5 Main plus 5 Sub)                             |
-| Archive | Municipal Archive                                            |
+| Sovereign Echo-Cores   | 9 Floor Directors (Floors 1 to 8 + Central)   |
+| Specialist Cadres      | 10 Active Cadres + 5 Syndicate Pools          |
+| Primary Companies      | 10 Primary (5 Main Charters - 5 Sub Charters) |
+| Mnemonic Archive       | ~116,000 words across 9 Director Dossiers     |
 +========================================================================+
 ```
 
-## The Nine [Echo-Cores](14-Echo-Cores.md)
+## Contents
 
-| Dossier | Name | **Floor** | Weapon |
-| --- | --- | --- | --- |
-| THE_DIRECTOR | Majin  [마진]  (_Majin_) | **Floor** 1 Spires | Reaper Hungered (Ω Scythe) |
-| THE_SECRETARY | Seiyon  [세이연]  (_Seiyon_) | **Floor** 1 Central Admin | The Promise (Key Pages) |
-| THE_CONTAINMENT_LEAD | Dekan  [데칸]  (_Dekan_) | **Floor** 2 **Maw** Keep | Scaled **Maw**-Flesh Arm |
-| THE_EXTRACTION_LEAD | Zyrak  [지락]  (_Jyrak_) | **Floor** 3 Extraction Hall | Mechanical Hands and Rig |
-| THE_RESEARCH_LEAD | Ayshuk  [아이숙]  (_Ayshuk_) | **Floor** 4 Insight Forge |[Research](15-Research.md) Ledger |
-| THE_BORDER_LEAD | Mellda  [멜다]  (_Melda_) | **Floor** 5 Border **Watch** | Threshold Vow (Arm-Blade) |
-| THE_ARCHIVE_LEAD | Marjuk  [마주크]  (_Marjuk_) | **Floor** 6 Deep Vault | Memory Lens |
-| THE_OUTSIDER | Ishall  [이샬]  (_Ishall_) | **Floor** 7 Shadow Corps | Unanswered (Relic Gloves) |
-| THE_EXILE | Xyan  [시안]  (_Xyan_) | **Floor** 8 Gate **Watch** | Neural Spine |
+- [1 The Nine Echo-Cores (Floor Directors)](#1-the-nine-echo-cores-floor-directors)
+- [2 Specialist Cadres and Loadout Pairing](#2-specialist-cadres-and-loadout-pairing)
+- [3 The Ten Primary Companies](#3-the-ten-primary-companies)
+- [4 Mnemonic Dilation and Specialized Tenure](#4-mnemonic-dilation-and-specialized-tenure)
+- [5 Gallery](#5-gallery)
+- [6 See also](#6-see-also)
 
-**Floor** 7 Shadow Corps is co-monitored by Zyrak and Seiyon. Total archive about 116,000 words across 9 dossiers in `09_Personnel_Archives/`.
+## 1 The Nine Echo-Cores (Floor Directors)
 
-## Companies
+Facility 01 is organized into nine departmental floors, each under the absolute administrative and metaphysical authority of an **Echo-Core**. Each director wears a distinct departmental armband that functions as a localized **Veil**, insulating their mind against the cognitive radiation of the contained sorrows:
 
-Five Main Companies and five Sub Companies constitute the **10** Primary Companies. Gieok Jeojangso  [기억 저장소]  (_Gieok Jeojangso_ — Memory Archive) is a municipal sanctuary, not a company. All non-**10** facilities are Somnarak Outsider Factory. Planetary terrain is mapped in `SOMNARAK_GEOLOGY.md`, not as entities.
+| Director Title | Personal Name | Assigned Department | Signature Armament | Core Operational Mandate |
+|---|---|---|---|---|
+| **The Director** | Majin  [마진]  (_Majin_) | Floor 1: Spires | Reaper Hungered (Ω Scythe) | Overall facility command, threshold discipline, and high-threat intervention. |
+| **The Secretary** | Seiyon  [세이연]  (_Seiyon_) | Floor 1: Central Admin | The Promise (Key Pages) | Administrative ledgers, inter-floor coordination, and historical records. |
+| **The Containment Lead** | Dekan  [데칸]  (_Dekan_) | Floor 2: Maw's Keep | Scaled Maw-Flesh Arm | Heavy physical containment, cell reinforcement, and suppression barricades. |
+| **The Extraction Lead** | Zyrak  [지락]  (_Jyrak_) | Floor 3: Extraction Hall | Mechanical Hands & Rig | Mnemonic Well operations, raw Han pumping, and Lumen distillation. |
+| **The Research Lead** | Ayshuk  [아이숙]  (_Ayshuk_) | Floor 4: Insight Forge | Research Ledger | Behavioral decoding, work-affinity analysis, and technical innovation. |
+| **The Border Lead** | Mellda  [멜다]  (_Melda_) | Floor 5: Border Watch | Threshold Vow (Arm-Blade) | Quarantine protocols, incursion interception, and perimeter suppression. |
+| **The Archive Lead** | Marjuk  [마주크]  (_Marjuk_) | Floor 6: Deep Vault | Memory Lens | Deep storage of volatile relics, suppressed texts, and unknown entities. |
+| **The Outsider** | Ishall  [이샬]  (_Ishall_) | Floor 7: Shadow Corps | Unanswered (Relic Gloves) | Covert tactical deployment and crisis containment (co-monitored by Zyrak and Seiyon). |
+| **The Exile** | Xyan  [시안]  (_Xyan_) | Floor 8: Gate Watch | Neural Spine Wire | Subterranean abyss sentry duty and guarding the threshold of the Maw. |
 
+### Director Dialogues and Voice Transcripts
 
+- **Director Majin (Floor 1):** *“Keep your back straight. When an operative panics, they do not merely endanger their squad; they tear a hole in the ceiling that lets the dark in.”*
+- **Secretary Seiyon (Central Admin):** *“A ledger that loses a single line loses the right to command. If someone died in Sector C, write their name down before you wash the blood off the floor.”*
+- **Containment Lead Dekan (Floor 2):** *“Do not look into the creature's eyes; look only at the hydraulic clamps. The clamps do not have memories, and therefore they do not weep.”*
+- **Extraction Lead Zyrak (Floor 3):** *“Every liter of Lumen powering the streetlamps above was once a human regret screaming in the dark. Handle the valves with respect.”*
+- **Research Lead Ayshuk (Floor 4):** *“To understand a sorrow is not to forgive it. It is to calculate its exact breaking point so we can extract its energy without dying.”*
 
+## 2 Specialist Cadres and Loadout Pairing
 
-## Gallery
+Frontline containment and suppression tasks are executed by **Specialists** recruited from ten authorized municipal cadres, supplemented by five contract pools drawn from the merchant syndicates:
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+1. **Cadre Specialization:** Cadres specialize across the four primary work disciplines:
+   - **Optic Cadres:** Specialize in 👁 **Viderehan**  [비데레한]  (_Clarity_), logging remote sensor data.
+   - **Vigil Cadres:** Specialize in 🤲 **Ferrehan**  [페레한]  (_Resilience_), enduring prolonged presence in high-pressure cells.
+   - **Mourning Cadres:** Specialize in 💧 **Flerehan**  [플레레한]  (_Composure_), establishing emotional resonance.
+   - **Clamping Cadres:** Specialize in ⚔ **Pugnahan**  [푸그나한]  (_Resolve_), executing physical and acoustic subdual.
+2. **Tactical Loadout Pairing:** High-threat encounters require complementary equipment pairing. A specialist wielding high-damage 🔴 **Grudge** weaponry (such as *Threshold Vow*) is paired with a specialist cloaked in ⚪ **Void**-resistant mantles (such as *Debt Shroud* from [27-The Debt Eater](27-The%20Debt%20Eater.md)), ensuring the squad can endure diverse damage pressures during multi-entity breaches.
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+## 3 The Ten Primary Companies
+
+Somnarak corporate governance is strictly codified. Exactly **Ten Primary Companies** hold sovereign operational charters recognized by the municipal Council of Sighs:
+
+### The Five Main Companies (Central Charters)
+- **First Main Wing:** Heavy structural engineering and spire maintenance.
+- **Second Main Wing:** Energy grid distribution and macro-Lumen transmission.
+- **Third Main Wing:** Hydraulic pumping and deep drainage networks.
+- **Fourth Main Wing:** Food synthesis, hydroponic algae towers, and municipal rations.
+- **Fifth Main Wing:** Civic defense garrison, gate security, and public peace enforcement.
+
+### The Five Sub Companies (Subsidiary Charters)
+- **Sub-Company A (Logistics):** High-speed acoustic rail transport and freight elevators.
+- **Sub-Company B (Textiles):** Resonant fiber weaving and standard specialist uniform manufacturing.
+- **Sub-Company C (Acoustic Damping):** Soundproof barrier installations and anti-resonance baffling.
+- **Sub-Company D (Reclamation):** Slag recycling and granular Han extraction from industrial runoff.
+- **Sub-Company E (Contract Security):** Auxiliary suppression squads and perimeter hazard sweeps.
+
+All non-chartered commercial workshops and rogue manufacturing labs operating outside these ten entities are legally designated as **Somnarak Outsider Factories**, subject to immediate audit and suppression. Furthermore, **Gieok Jeojangso**  [기억 저장소]  (_Memory Archive_) is designated as a sovereign municipal sanctuary, not a commercial enterprise.
+
+## 4 Mnemonic Dilation and Specialized Tenure
+
+A critical distinction in personnel records separates linear civilian tenure from mnemonic dilation:
+- **Absolvohan Stasis:** Figures such as Chief Engineer Min-Jae endured 266-plus operational cycles suspended inside the Absolvohan stasis array, maintaining technical coherence across centuries of internal time.
+- **Linear Frontier Vigil:** In contrast, the post-Dawn **Wound Walkers** (Company 4) hold perimeter Crucible Stations under normal temporal flow, relying on rotational relief shifts to mitigate physical and psychological fatigue.
+
+## 5 Gallery
+
+![Echo-Core Assembly](https://via.placeholder.com/320x180?text=Echo-Core+Assembly)
+![Specialist Cadre Deployment](https://via.placeholder.com/320x180?text=Specialist+Cadres)
+![Corporate Seal Registry](https://via.placeholder.com/320x180?text=Ten+Primary+Companies)
+
+*Left: the nine sovereign Echo-Cores; Center: specialist squad in full M.A.W. gear; Right: seals of the ten Primary Companies.*
 ---
 
-## See also
+## 6 See also
 
--[12-Specialists](12-Specialists.md)
--[14-Echo-Cores](14-Echo-Cores.md)
--[26-Personnel Dossiers](26-Personnel%20Dossiers.md)
--[41-Frontiers](41-Frontiers.md)
+- [01-Main Page](01-Main%20Page.md) — central wiki portal
+- [14-Echo-Cores](14-Echo-Cores.md) — individual director dossiers and mechanics
+- [12-Specialists](12-Specialists.md) — specialist recruitment, training, and promotion
+- [22-Departments](22-Departments.md) — facility floor layout and department architecture
