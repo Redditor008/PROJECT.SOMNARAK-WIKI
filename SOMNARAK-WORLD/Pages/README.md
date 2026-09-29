@@ -9,10 +9,10 @@
 | SOMNARAK - WIKI-LOOK PAGES DIRECTORY                                   |
 +------------------------------------------------------------------------+
 | Structure              | 3 Main Ways - 2 Sub Ways - Individual Specimen|
-| Main Hubs              | Main Page - Sorrow Entities (Bestiary) - Chron|
-| Sub Hubs               | Personnel (Characters) - Departments (Faciliti|
-| Individual Specimens   | Non-Tool (27) - Single (28) - Channel (29) - E|
-| Vocabulary Rule        | Zero PM Terms - Pure Somnarak Canon           |
+| Three Main Hubs        | Main Page - Sorrow Entities - Chronicle       |
+| Two Sub Hubs           | Personnel (Characters) - Departments (Floors) |
+| Individual Specimens   | Non-Tool (27) - Single (28) - Channeled - Equi|
+| Vocabulary Rule        | Zero External Terms - Pure Somnarak Canon     |
 +========================================================================+
 ```
 
@@ -64,6 +64,16 @@
 - [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 292 containment records
 - [04-Help](04-Help.md) — reading guide for novices and containment safety standards
 - [42-Navigation](42-Navigation.md) — master directory index
+
+
+
+## Gallery
+
+![Wiki Pages Portal](https://via.placeholder.com/320x180?text=Wiki+Pages+Portal)
+![Master Bestiary Overview](https://via.placeholder.com/320x180?text=Master+Bestiary+Overview)
+![Department Floor Grid](https://via.placeholder.com/320x180?text=Department+Floor+Grid)
+
+*Left: encyclopedic pages directory; Center: master bestiary hub; Right: facility department layout.*
 
 ## See also
 
