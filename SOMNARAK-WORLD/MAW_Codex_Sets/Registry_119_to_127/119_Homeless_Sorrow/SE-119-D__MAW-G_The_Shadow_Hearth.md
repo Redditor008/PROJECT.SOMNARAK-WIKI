@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Shadow Hearth
+# M.A.W. STIGMA — The Shadow Hearth
 
 > *“It gives grief somewhere to sit. When the light goes out, someone still has to carry the conversation forward.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Hearth |
 | Set | Witnessed Shelter |
-| Type / grade / element | Gift, hearth-charm / β — Moderate / Void — Pale White |
+| Type / grade / element | Stigma, hearth-charm / β — Moderate / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; post-use grief transfer protocol required |
 | Known bearer | Specialist Sooah Park |
@@ -33,13 +33,13 @@
 | Acquisition probability | 5% after successful Homeless Sorrow work |
 | Bestowal event | The Hearth appeared in a room the shadow chose to rest in after two workers agreed to rotate witness duty rather than abandon the space. |
 | Acceptance condition | The candidate names a follow-up person who will receive the post-use grief account. |
-| Source intent | Gift bestowal; a portable Hearth does not substitute for actual shelter. |
+| Source intent | Stigma bestowal; a portable Hearth does not substitute for actual shelter. |
 
 **Binding requirement:** The bearer accepts that settled sorrow will move into their own emotional field after the Hearth closes.
 
 **Rejection rule:** A bearer who uses the Hearth to hold someone’s grief without their consent finds the light go out and receives the entire unsettled pressure at once.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -82,7 +82,7 @@ Park used the Hearth for a worker who had been moved through three temporary qua
 
 ## SET RELATIONSHIP
 
-The Hearth is the accepting center of *A Place for Tonight*. Lens makes a temporary boundary and Veil protects recognition; this Gift makes the set meaningful only when someone receives what settles afterward.
+The Hearth is the accepting center of *A Place for Tonight*. Lens makes a temporary boundary and Veil protects recognition; this Stigma makes the set meaningful only when someone receives what settles afterward.
 
 > *“A safe room does not end with the door closing. It ends when somebody still knows what happened there.”* — Containment Lead Dekan
 

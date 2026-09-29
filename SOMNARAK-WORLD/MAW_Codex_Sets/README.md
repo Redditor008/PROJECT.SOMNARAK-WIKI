@@ -11,7 +11,7 @@
 
 The `MAW_Codex_Sets/` archive houses the complete technical and narrative records for **Materialized Armament of Woe (M.A.W. / 비탄의 무장)** equipment extracted from Sorrow Entities.
 
-M.A.W. equipment represents the physical stabilization of an entity's emotional resonance into usable armaments, defensive weave suits, and resonant gifts. Without M.A.W. equipment, human personnel cannot survive direct contact with high-tier Sorrow Entities.
+M.A.W. equipment represents the physical stabilization of an entity's emotional resonance into usable armaments, defensive weave suits, and resonant stigmas. Without M.A.W. equipment, human personnel cannot survive direct contact with high-tier Sorrow Entities.
 
 ---
 
@@ -24,7 +24,7 @@ Registry_<Range>/<Set_ID>_<Entity_Name>/
 ├── SE-<ID>-A__SIDE_CODEX_<Name>.md    # Donor entity lore, extraction parameters, and identity
 ├── SE-<ID>-B__MAW-W_<Weapon>.md       # Weapon: Form, damage element, speed/range band, combat moves
 ├── SE-<ID>-C__MAW-S_<Suit>.md         # Suit: Defense ratings, elemental resistances, passive traits
-└── SE-<ID>-D__MAW-G_<Gift>.md         # Gift: Equip slot, cosmetic/resonance appearance, passive buff
+└── SE-<ID>-D__MAW-G_<Stigma>.md         # Stigma: Equip slot, cosmetic/resonance appearance, passive buff
 ```
 
 ---
@@ -109,4 +109,4 @@ Five specific entities across the archive do not maintain external subfolders in
 - **`SE-O-IIIγ-412` (The Wedge That Held)**
 - **`SE-O-IVδ-515` (The Last Warmth of Forty-Two)**
 
-These five entities are classified under the **A-Relic (Arcanum)** framework. Their full M.A.W. Weapon, Suit, and Gift specifications are intentionally embedded and preserved directly within their primary entity dossiers in `SOMNARAK-WORLD/Sorrow_Entities/` rather than split into standalone quadripartite files. This containment protocol prevents resonance dispersion of fragile historical relics and maintains the 198 complete quadripartite sets benchmark across the core registry.
+These five entities are classified under the **A-Relic (Arcanum)** framework. Their full M.A.W. Weapon, Suit, and Stigma specifications are intentionally embedded and preserved directly within their primary entity dossiers in `SOMNARAK-WORLD/Sorrow_Entities/` rather than split into standalone quadripartite files. This containment protocol prevents resonance dispersion of fragile historical relics and maintains the 198 complete quadripartite sets benchmark across the core registry.

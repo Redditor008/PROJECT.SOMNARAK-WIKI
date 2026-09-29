@@ -800,18 +800,18 @@ Sorrow itself manifests across **four elemental aspects** — each attacking a d
 
 ---
 
-## M.A.W. Gifts & Corrosion (선물과 부식)
+## M.A.W. Stigmas & Corrosion (성흔과 부식)
 
-### M.A.W. Gifts (선물 — Seonmul) — Passive Resonance Items
+### M.A.W. Stigmas (성흔 — Seongheun) — Passive Resonance Items
 
-> *"A Gift is not a tool. It is a companion. It whispers. It watches. It remembers."*
+> *"A Stigma is not a tool. It is a companion. It whispers. It watches. It remembers."*
 
-Gifts are passive byproducts of M.A.W. extraction — small crystallized fragments of the entity's sorrow that bond to the operative during work:
-- Gifts are **always active** — worn constantly without activation cost.
-- Gifts **cannot be easily removed** — the bond resists detachment.
-- Gifts can be **upgraded** by feeding them Echoes.
+Stigmas are passive byproducts of M.A.W. extraction — small crystallized fragments of the entity's sorrow that bond to the operative during work:
+- Stigmas are **always active** — worn constantly without activation cost.
+- Stigmas **cannot be easily removed** — the bond resists detachment.
+- Stigmas can be **upgraded** by feeding them Echoes.
 
-#### Canonical M.A.W. Gifts from the Facility Registry:
+#### Canonical M.A.W. Stigmas from the Facility Registry:
 - **The Mourning Band (Ring / Hand):** Extracted from *The Grieving Colossus*. Grants +20% sorrow tolerance, but causes the wearer to weep silently at night.
 - **The Forgotten Mask (Mask / Face):** Extracted from *The Memory Weaver*. Provides complete immunity to memory theft, but slowly erodes insignificant childhood memories.
 - **The Cold Heart (Amulet / Neck):** Extracted from *The Frozen Veil*. Grants immunity to emotional manipulation, but nullifies the wearer's capacity to feel joy.
@@ -1486,7 +1486,7 @@ Facility Events are **unplanned occurrences** that disrupt daily operations. The
 |-------|-------------|---------|----------|
 | **Entity Agitation** | Entity becomes restless — gauge rises | Neglect, wrong Work Type, external Han spike | Perform correct Work Type |
 | **Entity Communication** | Entity attempts to communicate | High Observation Level, Viderehan | Listen, document, report |
-| **Entity Gift** | Entity offers a gift — Echo, fragment, or warning | High resonance, Flerehan | Accept or refuse (consequences vary) |
+| **Entity Stigma** | Entity offers a gift — Echo, fragment, or warning | High resonance, Flerehan | Accept or refuse (consequences vary) |
 | **Entity Mourning** | Entity enters a state of grief — gauge drops | Anniversary of origin, emotional resonance | Comfort or observe |
 | **Entity Curiosity** | Entity shows interest in personnel | New personnel, unique attributes | Monitor, do not engage |
 | **Entity Rage** | Entity becomes hostile — gauge spikes | Provocation, wrong Work Type, external trigger | Containment teams respond |
@@ -1587,7 +1587,7 @@ The Secretary records every event in the facility log. Every day. Every occurren
 
 > **Day 1,249:** Mystery Event — The Whispering. All personnel on Floor 2 reported hearing whispers at 03:00. Source unknown. Duration: 12 minutes. The Maw's Edge recorded increased activity.
 
-> **Day 1,250:** Entity Gift — `IV-δ-001 [D]` (The Orphaned Bell) offered a crystallized Echo to Specialist Harin. Contents: A child's laughter. Harin wept for one hour. The Echo was stored in the Archive.
+> **Day 1,250:** Entity Stigma — `IV-δ-001 [D]` (The Orphaned Bell) offered a crystallized Echo to Specialist Harin. Contents: A child's laughter. Harin wept for one hour. The Echo was stored in the Archive.
 
 ---
 
@@ -3466,11 +3466,11 @@ Each of the eight floors offers three distinct technological breakthroughs unloc
 
 ---
 
-### System 8: Specialist Trait Titles, Resonant Scars & 8 M.A.W. Gift Body Slots (요원 칭호, 공명 흉터 및 8대 기프트)
+### System 8: Specialist Trait Titles, Resonant Scars & 8 M.A.W. Stigma Body Slots (요원 칭호, 공명 흉터 및 8대 기프트)
 
 ```text
 +==============================================+
-|           THE 8 M.A.W. GIFT BODY SLOTS       |
+|           THE 8 M.A.W. STIGMA BODY SLOTS     |
 +==============================================+
 | Slot #               | Anatomical Position   |
 +======================+=======================+

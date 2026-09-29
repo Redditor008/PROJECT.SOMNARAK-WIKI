@@ -52,7 +52,7 @@ During the The Absent Landmark Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Absent Landmark's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Record its former location; do not attempt to rebuild it around the entity The set cannot heal the originating event. Misuse routes Absent Landmark's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Absent Landmark's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Record its former location; do not attempt to rebuild it around the entity The set cannot heal the originating event. Misuse routes Absent Landmark's wound through the operator and triggers the recorded escalation.
 
 ---
 

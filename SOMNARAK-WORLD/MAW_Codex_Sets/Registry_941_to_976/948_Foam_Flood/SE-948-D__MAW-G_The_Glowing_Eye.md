@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Glowing Eye
+# M.A.W. STIGMA — The Glowing Eye
 
 > *“The Glowing Eye remembers The Foam Flood; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Glowing Eye is the gift record of the Foam Flood set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability is an eye-stone that flares warm near a deep, unspoken longing, warning of wishes too large to grant safely. Binding names the source event — a traveller slept beside the carving and stepped off the riverbank at dawn certain he could fly; the carving now sits in the Vault — and accepts the set's limit: do not touch; name the sky it cannot reach, and let the glowing eyes dim. The cost is nightly: the bearer dreams of flying, wakes on the ground, and grieves a thing they cannot name. The source-trace fixed doctrine: the carving's eyes brightened and its long history of grounded longing became readable in their glow, the Eye marking the hazard only after attribution to The Foam Flood. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Glowing Eye is the stigma record of the Foam Flood set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability is an eye-stone that flares warm near a deep, unspoken longing, warning of wishes too large to grant safely. Binding names the source event — a traveller slept beside the carving and stepped off the riverbank at dawn certain he could fly; the carving now sits in the Vault — and accepts the set's limit: do not touch; name the sky it cannot reach, and let the glowing eyes dim. The cost is nightly: the bearer dreams of flying, wakes on the ground, and grieves a thing they cannot name. The source-trace fixed doctrine: the carving's eyes brightened and its long history of grounded longing became readable in their glow, the Eye marking the hazard only after attribution to The Foam Flood. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Glowing Eye is the gift record of the Foam Flood set — head-slot, bestowed
 
 **Operational / binding cost:** The bearer dreams, nightly, of flying — and wakes, each morning, on the ground, and grieves a thing they cannot name. Continued use makes Foam Flood's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Stigma Record*
 
-The first The Glowing Eye field bearer encountered this source response: The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. The gift marks the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Glowing Eye field bearer encountered this source response: The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. The stigma marks the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Glowing Eye field bearer encountered this source response: The car
 
 ## SET RELATIONSHIP
 
-Within *The Foam Flood — Witnessed Form*, The Glowing Eye performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Foam Flood — Witnessed Form*, The Glowing Eye performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

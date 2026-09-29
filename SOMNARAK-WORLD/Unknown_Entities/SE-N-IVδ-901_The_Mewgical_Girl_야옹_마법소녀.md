@@ -201,7 +201,7 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Star-Staff of Mewgical Affection
 
@@ -219,19 +219,19 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 **Ability:** Grants resistance to Mixed and sorrow pressure; the costume's glow can stabilize one persona's control for a short window.
 **Cost:** The wearer is pulled into performing a happiness they do not feel; prolonged wear blurs the line between the wearer's own voice and the costume's.
 
-### M.A.W. Gift — The Cat-Paw Bell
+### M.A.W. Stigma — The Cat-Paw Bell
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Mixed
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Mixed
 **Appearance:** A small brass bell shaped like a cat paw, warm to the touch and faintly ringing on its own.
 
 **Ability:** Granted at random by the entity upon a successful work; the bearer hears a faint cheerful song in sorrow-dense areas, steadying Clarity and Composure.
 **Cost:** The bearer occasionally speaks in two tones without meaning to, and cannot always tell which voice is theirs.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries both voices and must be treated as a conditional extension of the two-identity entity, not ordinary equipment. The Star-Staff's full output requires Mimi and Shu Shu to agree; if the voices desynchronize, the staff may split healing and destructive output, misfire, or force Cartoon Soot. A Gift cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece carries both voices and must be treated as a conditional extension of the two-identity entity, not ordinary equipment. The Star-Staff's full output requires Mimi and Shu Shu to agree; if the voices desynchronize, the staff may split healing and destructive output, misfire, or force Cartoon Soot. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

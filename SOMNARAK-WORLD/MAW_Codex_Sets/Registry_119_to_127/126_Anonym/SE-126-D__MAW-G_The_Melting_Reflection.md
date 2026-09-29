@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Melting Reflection
+# M.A.W. STIGMA — The Melting Reflection
 
 > *“It warns when the self is eroding. It makes every pitying look impossible to ignore.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Melting Reflection |
 | Set | Held Shape |
-| Type / grade / element | Gift, pale mirror-tile / α — Minor / Void — Pale White |
+| Type / grade / element | Stigma, pale mirror-tile / α — Minor / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; observation support item |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 5% after successful Anonym work |
 | Bestowal event | The Reflection appeared when a worker let Anonym reform without forcing a final image or name. |
 | Acceptance condition | The candidate agrees to have a witness review any erosion reading before confronting the affected person. |
-| Source intent | Gift bestowal; it is an early-warning instrument, not a diagnostic verdict or identity scanner. |
+| Source intent | Stigma bestowal; it is an early-warning instrument, not a diagnostic verdict or identity scanner. |
 
 **Binding requirement:** The bearer must accept that an erosion signal does not authorize them to define another person’s correct self.
 
@@ -41,9 +41,9 @@
 
 ## Appearance
 
-The Melting Reflection is a small pale mirror-tile of Han glass with a soft head-slot clasp, its face beginning clear and then gently melting at the edges whenever a nearby person is losing self-recognition. Thin ripples run across the tile where corrosive denial is pressing rather than ordinary change. The tile stays cool against the skin and the reflection in the centre remains sharp enough to read, while only the outer border becomes unclear. When the bearer asks a witness to confirm that a support response is available rather than an interrogation, the tile sharpens one erosion pattern and the team can tell whether the pressure needs grounding or withdrawal. The gift carries no Echo cost but leaves perception emotionally intrusive after a reading. It is stored face-down in soft cloth, never displayed as a warning object. If used to expose or shame someone, the tile melts the bearer's own reflection and makes every observer's pity immediate. The bearer must never define another person's correct self, and using the reading as authorization to enter someone's interior returns the erosion signal onto themselves.
+The Melting Reflection is a small pale mirror-tile of Han glass with a soft head-slot clasp, its face beginning clear and then gently melting at the edges whenever a nearby person is losing self-recognition. Thin ripples run across the tile where corrosive denial is pressing rather than ordinary change. The tile stays cool against the skin and the reflection in the centre remains sharp enough to read, while only the outer border becomes unclear. When the bearer asks a witness to confirm that a support response is available rather than an interrogation, the tile sharpens one erosion pattern and the team can tell whether the pressure needs grounding or withdrawal. The stigma carries no Echo cost but leaves perception emotionally intrusive after a reading. It is stored face-down in soft cloth, never displayed as a warning object. If used to expose or shame someone, the tile melts the bearer's own reflection and makes every observer's pity immediate. The bearer must never define another person's correct self, and using the reading as authorization to enter someone's interior returns the erosion signal onto themselves.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -82,7 +82,7 @@ Park used *See the Edge* during a Border rest shift when a worker began answerin
 
 ## SET RELATIONSHIP
 
-The Reflection is the warning system of *Named by Choice*. The Lens creates space and the Veil protects the current self; this Gift tells the set when a person needs recognition without making their life a public reading.
+The Reflection is the warning system of *Named by Choice*. The Lens creates space and the Veil protects the current self; this Stigma tells the set when a person needs recognition without making their life a public reading.
 
 > *“Seeing erosion is not the same as having the right to enter someone’s interior.”* — Ishall
 

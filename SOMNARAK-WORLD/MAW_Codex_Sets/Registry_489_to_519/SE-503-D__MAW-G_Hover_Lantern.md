@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Hover Lantern
+# M.A.W. STIGMA — Hover Lantern
 
 > *“It reveals hidden injury and removes the option of pretending not to see.”*
 

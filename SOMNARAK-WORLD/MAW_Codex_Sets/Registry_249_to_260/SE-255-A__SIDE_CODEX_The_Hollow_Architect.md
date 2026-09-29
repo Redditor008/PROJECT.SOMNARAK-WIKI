@@ -66,7 +66,7 @@ A stable echo forms after a structure’s intended occupants and use are documen
 |---|---|---:|---|---|
 | Weapon | The Architect’s Maul | γ | Strikes load-bearing failure along a planned structural line. | `SE-255-B__MAW-W_The_Architects_Maul.md` |
 | Suit | The Architect’s Mantle | γ | Protects a worker inside unfinished Weight architecture. | `SE-255-C__MAW-S_The_Architects_Mantle.md` |
-| Gift | The Architect’s Compass | γ | Reveals intended structure beneath damage without authorizing completion. | `SE-255-D__MAW-G_The_Architects_Compass.md` |
+| Stigma | The Architect’s Compass | γ | Reveals intended structure beneath damage without authorizing completion. | `SE-255-D__MAW-G_The_Architects_Compass.md` |
 
 **Set cost:** The wielder ages and grows heavy, the wearer remains fatigued, and the Compass bearer feels every future the building failed to hold.
 
@@ -76,7 +76,7 @@ A stable echo forms after a structure’s intended occupants and use are documen
 
 - **Architect’s Maul:** Weight 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use adds age and heaviness.
 - **Architect’s Mantle:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 3; 35 Echoes. It resists Weight under constant fatigue.
-- **Architect’s Compass:** Head Gift; 4%; +2 Resolve during source work. It reveals intended structure; the bearer feels failed occupancy futures.
+- **Architect’s Compass:** Head Stigma; 4%; +2 Resolve during source work. It reveals intended structure; the bearer feels failed occupancy futures.
 
 ---
 

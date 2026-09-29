@@ -58,7 +58,7 @@ No blessing is logged only as healing. Every blessing requires recipient consent
 |---|---|---|---|---|---|
 | Weapon | The Gentle Requiem | α | Lament | Minor compassionate Lament pressure and healing-adjacent contact | `SE-071-B__MAW-W_The_Gentle_Requiem.md` |
 | Suit | The Gentle Shroud | α | Lament | Basic Lament protection and pain-sharing buffer | `SE-071-C__MAW-S_The_Gentle_Shroud.md` |
-| Gift | The Gentle Touch | α | Lament | Minor wound relief through consensual touch | `SE-071-D__MAW-G_The_Gentle_Touch.md` |
+| Stigma | The Gentle Touch | α | Lament | Minor wound relief through consensual touch | `SE-071-D__MAW-G_The_Gentle_Touch.md` |
 
 ### Set Resonance — Care Shared
 

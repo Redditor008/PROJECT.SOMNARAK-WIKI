@@ -1,6 +1,6 @@
 # Registry Codex Sets — 077 to 092
 
-This batch continues the individualized current-era codex archive after `SE-073`. Each entity set contains one **Side Codex** and three separate **Individual M.A.W. & History Codices**: Weapon, Suit, and Gift.
+This batch continues the individualized current-era codex archive after `SE-073`. Each entity set contains one **Side Codex** and three separate **Individual M.A.W. & History Codices**: Weapon, Suit, and Stigma.
 
 ## Included Entity Sets
 
@@ -55,7 +55,7 @@ The decision preserves the Major Subject’s direct continuity with the Kind Hea
 ## Current-Era Record Rules Applied
 
 - Every document is dated **Year 4,238** and treats the Cycle as historical rather than current operations.
-- Side Codices use the `-A` suffix; individual Weapon, Suit, and Gift records use `-B`, `-C`, and `-D` with separate `MAW-W`, `MAW-S`, and `MAW-G` registry codes.
+- Side Codices use the `-A` suffix; individual Weapon, Suit, and Stigma records use `-B`, `-C`, and `-D` with separate `MAW-W`, `MAW-S`, and `MAW-G` registry codes.
 - Item records include exact source stat lines, extraction or bestowal conditions, binding and rejection rules, named witnesses or bearers, history, corrosion signs, maintenance, emergency shutdown, and full-set resonance.
 - M.A.W. entries remain distinct from manufactured R.D. standard equipment.
 - The Pyre of Truths Burning Page file is **Echo-Core Eyes Only** because irreversible historical knowledge requires consequence handling, not merely access.

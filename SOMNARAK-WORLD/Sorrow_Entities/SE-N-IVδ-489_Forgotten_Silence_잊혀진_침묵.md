@@ -166,7 +166,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Hush Claymore
 
@@ -204,9 +204,9 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — The Quiet Lens
+### M.A.W. Stigma — The Quiet Lens
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
 **Appearance:** a lens-pendant of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
@@ -218,11 +218,11 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 **Cost:** The wearer hears every silence as an unanswered question.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Gifts. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

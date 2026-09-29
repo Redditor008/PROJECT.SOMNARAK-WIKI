@@ -58,7 +58,7 @@ Ephemera is clearer to survivors than to outsiders and fades in strong daylight.
 |---|---|---:|---|---|
 | Weapon | The Fading Requiem | α | Lament | `SE-189-B__MAW-W_The_Fading_Requiem.md` |
 | Suit | The Fading Shroud | α | Lament | `SE-189-C__MAW-S_The_Fading_Shroud.md` |
-| Gift | The Fading Brick | α | Lament | `SE-189-D__MAW-G_The_Fading_Brick.md` |
+| Stigma | The Fading Brick | α | Lament | `SE-189-D__MAW-G_The_Fading_Brick.md` |
 
 ---
 
@@ -66,7 +66,7 @@ Ephemera is clearer to survivors than to outsiders and fades in strong daylight.
 
 - **Fading Requiem:** Lament 3–6; Speed 2; Range 2; Single; 5 maximum; 15 Echoes. It prevents a fading-memory surge from scattering a field observer.
 - **Fading Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; 5 maximum; 10 Echoes. It protects a recorder from the grief of disappearance.
-- **Fading Brick:** Tail Gift; 5%; +1 source-work. It preserves one memory of a destroyed place; bearer hears the ruin’s final silence.
+- **Fading Brick:** Tail Stigma; 5%; +1 source-work. It preserves one memory of a destroyed place; bearer hears the ruin’s final silence.
 
 ---
 

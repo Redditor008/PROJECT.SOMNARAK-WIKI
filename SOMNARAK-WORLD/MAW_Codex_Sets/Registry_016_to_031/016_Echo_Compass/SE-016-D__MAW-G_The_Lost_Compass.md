@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Lost Compass
+# M.A.W. STIGMA — The Lost Compass
 
 > *“It never gives the right direction. It only refuses to let the bearer mistake the wrong one for it.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) — compass charm |
+| **Type** | Accessory (Stigma) — compass charm |
 | **Grade** | β — Moderate |
 | **Element** | Void — Pale White |
 | **Slot** | Head |
@@ -35,7 +35,7 @@ Once per encounter, the Compass rejects one chosen route, target, or objective a
 
 ### History Record
 
-A Gift bearer prevented a patrol from entering an ambush route in Zone E. The Compass spun violently at the gate and pointed away. The alternate route was longer, colder, and safe. No one learned why the first route had felt so inviting.
+A Stigma bearer prevented a patrol from entering an ambush route in Zone E. The Compass spun violently at the gate and pointed away. The alternate route was longer, colder, and safe. No one learned why the first route had felt so inviting.
 
 **Document ID:** `SE-016-D`  
 **Linked Entity:** `SE-016`  

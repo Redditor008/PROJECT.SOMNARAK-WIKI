@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Black Drop
+# M.A.W. STIGMA — The Black Drop
 
 > *“The Black Drop remembers The Soot Fry; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Black Drop is the gift record of the Soot Fry set — hand-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a drop that grows heavy and warm near a hidden appetite, warning of predators that look smaller than they are. Binding names the source event — the puddle claimed three fishermen in a season, each deceived by the small silhouette above a body the water should not hold — and accepts the set's limit: do not reach in; name the hunger aloud, the thing it cannot remember wanting, and the silhouette stills. The cost is an inexplicable thirst, now and then, that drinking does not quench. The source-trace fixed doctrine: studied calmly, the silhouette held still and the full body could be mapped without a lunge, the eye watching and watching, the Drop staying the hazard only after attribution to The Soot Fry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Black Drop is the stigma record of the Soot Fry set — hand-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a drop that grows heavy and warm near a hidden appetite, warning of predators that look smaller than they are. Binding names the source event — the puddle claimed three fishermen in a season, each deceived by the small silhouette above a body the water should not hold — and accepts the set's limit: do not reach in; name the hunger aloud, the thing it cannot remember wanting, and the silhouette stills. The cost is an inexplicable thirst, now and then, that drinking does not quench. The source-trace fixed doctrine: studied calmly, the silhouette held still and the full body could be mapped without a lunge, the eye watching and watching, the Drop staying the hazard only after attribution to The Soot Fry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Black Drop is the gift record of the Soot Fry set — hand-slot, bestowed at
 
 **Operational / binding cost:** The bearer feels, now and then, an inexplicable thirst that drinking does not quench. Continued use makes Soot Fry's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Stigma Record*
 
-The first The Black Drop field bearer encountered this source response: Studied calmly, the silhouette holds still and the full body can be mapped without a lunge; the eye watches, and watches, and watches. The gift stays the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Black Drop field bearer encountered this source response: Studied calmly, the silhouette holds still and the full body can be mapped without a lunge; the eye watches, and watches, and watches. The stigma stays the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Black Drop field bearer encountered this source response: Studied 
 
 ## SET RELATIONSHIP
 
-Within *The Soot Fry — Witnessed Form*, The Black Drop performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Soot Fry — Witnessed Form*, The Black Drop performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

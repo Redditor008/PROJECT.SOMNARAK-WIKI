@@ -83,7 +83,7 @@ The Eater’s use by Collectors does not make its result neutral. A debt can be 
 |---|---|---|---|---|---|
 | **Weapon** | The Debt Lens | β | Void | Identifies and cuts a single debt-linked identity thread | `SE-014-B__MAW-W_The_Debt_Lens.md` |
 | **Suit** | The Debt Veil | β | Void | Protects against debt-related Void extraction | `SE-014-C__MAW-S_The_Debt_Veil.md` |
-| **Gift** | The Debt Scale | β | Void | Measures obligation and cost before action | `SE-014-D__MAW-G_The_Debt_Scale.md` |
+| **Stigma** | The Debt Scale | β | Void | Measures obligation and cost before action | `SE-014-D__MAW-G_The_Debt_Scale.md` |
 
 ### Set Resonance — Settled Account
 

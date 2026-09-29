@@ -159,9 +159,9 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 **Ability:** Grants 40% resistance to Mixed pressure. The wings can be deployed as a barrier that absorbs one attack per encounter.
 **Cost:** Wearing the wings for extended periods causes the wearer to feel "called" — a pull toward purpose they cannot identify.
 
-### M.A.W. Gift — The Brand
+### M.A.W. Stigma — The Brand
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Mixed
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Mixed
 **Appearance:** A mark on the wrist that glows steadily — deeper and brighter than the Blessing Giver's mark.
 
 **Ability:** Doubles one attribute of the wearer's choice. The doubling is permanent but the chosen attribute cannot be changed.

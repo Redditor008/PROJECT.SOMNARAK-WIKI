@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Quiet Lens
+# M.A.W. STIGMA — The Quiet Lens
 
 > *“It reveals emotional meaning behind silence and cannot tell whether speech is owed.”*
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Empty Seed
+# M.A.W. STIGMA — The Empty Seed
 
 > *“It tells whether a possibility ever existed and spends one imagined future to answer.”*
 

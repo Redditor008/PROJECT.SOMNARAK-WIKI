@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Unsent Letter* [**Debuff**] } | "A thank-you, written but never sent — and the not-sending has grown heavy over the years." | [The weight of undelivered gratitude settles on the target.] | *Target suffers -10 Resolve; they owe thanks they never gave.* **[10 Black DMG [Black / Weight]]** | When the target approaches. |
 | { *The Heavy Heart* [**Debuff**] } | "The gratitude you never expressed has become a stone in your chest." | [The unspoken thanks accrue mass; the target carries every one.] | *Target loses 10 Resolve; the accumulated gratitude is crushing.* **[10 Black DMG [Black / Weight]]** | When the target remains. |
-| { *The Returned Gift* [**Attack**] } | "The kindness you never acknowledged comes back — heavier, and sharper." | [Every unthanked kindness returns as a weighted blow.] | *Inflicts Black pressure and one wound of unacknowledged debt.* **[14-22 Black DMG [Black / Weight]]** | When the Thanks is stirred. |
+| { *The Returned Stigma* [**Attack**] } | "The kindness you never acknowledged comes back — heavier, and sharper." | [Every unthanked kindness returns as a weighted blow.] | *Inflicts Black pressure and one wound of unacknowledged debt.* **[14-22 Black DMG [Black / Weight]]** | When the Thanks is stirred. |
 | { *The Guilt* [**Attack**] } | "The guilt of every thank-you left unsaid — all at once, all its full weight." | [The accumulated guilt of ingratitude crashes down.] | *A heavy Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Black DMG [Black / Weight]]** | When the Thanks is confronted. |
 | { *All Unsaid Things* [**Ultimate**] } | "Everything you meant to say and never did — it all arrives now, at once." | [The Thanks releases every unspoken word across the field.] | *All personnel suffer Black pressure for three turns of unsaid weight.* **[12-20 Black DMG [Black / Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -184,18 +184,18 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Ability:** Theorized: the wearer may bear one other person's undelivered gratitude alongside their own, halving its weight.
 **Cost:** Theorized: the wearer weeps in their sleep and ages slightly faster.
 
-### M.A.W. Gift — The Warm Stone
-**Type:** Accessory (Gift) | **Grade:** β (forbidden) | **Element:** Weight
+### M.A.W. Stigma — The Warm Stone
+**Type:** Accessory (Stigma) | **Grade:** β (forbidden) | **Element:** Weight
 **Appearance:** A single palm-sized gold stone, warm to the touch.
 
 **Ability:** Theorized: grants the bearer the courage to deliver a long-withheld thank-you without flinching.
 **Cost:** Theorized: the stone remains until its real recipient is found and thanked; until then the bearer walks bowed.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-The extracted equipment reflects the same unresolved pressure as The Undelivered Thanks. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Weight. Gifts are granted at random by the entity upon a successful work, not manufactured.
+The extracted equipment reflects the same unresolved pressure as The Undelivered Thanks. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Weight. Stigmas are granted at random by the entity upon a successful work, not manufactured.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 

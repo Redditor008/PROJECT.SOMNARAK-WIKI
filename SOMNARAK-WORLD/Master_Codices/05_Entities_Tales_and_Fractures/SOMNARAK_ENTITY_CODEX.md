@@ -260,7 +260,7 @@ What happens when the gauge exceeds the activation threshold and the entity brea
 |-------|------|
 | **Weapon** | Offensive — channels the entity's element in the strike |
 | **Suit** | Armor — grants resistance to the entity's pressure type |
-| **Gift** | Accessory — granted at random by the entity on successful work |
+| **Stigma** | Accessory — granted at random by the entity on successful work |
 
 Each piece carries a **grade** (matching potency, α–ω), a **Sorrow Echoes** cost to use, and a **cost** to the wielder (memories, absence, weight). Equipment is graded by relic class:
 

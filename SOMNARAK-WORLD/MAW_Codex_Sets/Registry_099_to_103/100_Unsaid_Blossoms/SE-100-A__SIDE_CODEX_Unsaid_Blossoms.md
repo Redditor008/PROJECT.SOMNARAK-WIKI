@@ -87,7 +87,7 @@ The set is about saying what must be said while a living person can still receiv
 |---|---|---:|---|---|---|
 | Weapon | The Unsaid Requiem | β | Lament | Acknowledges a pressure held behind speech | `SE-100-B__MAW-W_The_Unsaid_Requiem.md` |
 | Suit | The Unsaid Shroud | β | Lament | Protects a bearer from a flood of deferred words | `SE-100-C__MAW-S_The_Unsaid_Shroud.md` |
-| Gift | The Unsaid Petal | β | Lament | One irreversible sentence to an intended memory | `SE-100-D__MAW-G_The_Unsaid_Petal.md` |
+| Stigma | The Unsaid Petal | β | Lament | One irreversible sentence to an intended memory | `SE-100-D__MAW-G_The_Unsaid_Petal.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set is about saying what must be said while a living person can still receiv
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Unsaid Petal
+### M.A.W. Stigma — The Unsaid Petal
 
 | Field | Record |
 |---|---|

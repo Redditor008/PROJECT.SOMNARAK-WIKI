@@ -52,7 +52,7 @@ During the The Stormscale Sovereign Source-Trace, the field team preserved this 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Stormscale Sovereign's source condition, the Suit lets a witness bear its Mixed pressure, and the Weapon severs only the immediate manifestation that violates this rule: There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses. The set cannot heal the originating event. Misuse routes Stormscale Sovereign's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Stormscale Sovereign's source condition, the Suit lets a witness bear its Mixed pressure, and the Weapon severs only the immediate manifestation that violates this rule: There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses. The set cannot heal the originating event. Misuse routes Stormscale Sovereign's wound through the operator and triggers the recorded escalation.
 
 ---
 

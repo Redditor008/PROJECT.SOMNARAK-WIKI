@@ -3490,21 +3490,21 @@ Each Echo-Core has a **preferred Work Type** — the approach they use most ofte
 
 ---
 
-## M.A.W. Gifts & Corrosion
+## M.A.W. Stigmas & Corrosion
 
-### M.A.W. Gifts (선물 — Seonmul) — Passive Items
+### M.A.W. Stigmas (성흔 — Seongheun) — Passive Items
 
-**What they are:** Small M.A.W. items — rings, masks, amulets, bracelets, hairpins — that provide **passive effects** without requiring active use. Unlike M.A.W. weapons and armor, Gifts are always active — worn constantly, shaping the wearer's experience.
+**What they are:** Small M.A.W. items — rings, masks, amulets, bracelets, hairpins — that provide **passive effects** without requiring active use. Unlike M.A.W. weapons and armor, Stigmas are always active — worn constantly, shaping the wearer's experience.
 
-> *"A Gift is not a tool. It is a companion. It whispers. It watches. It remembers."*
+> *"A Stigma is not a tool. It is a companion. It whispers. It watches. It remembers."*
 
 **How they form:**
-- Gifts are **byproducts** of M.A.W. extraction — small fragments of the entity's sorrow that crystallize during the process
+- Stigmas are **byproducts** of M.A.W. extraction — small fragments of the entity's sorrow that crystallize during the process
 - They are not extracted intentionally — they simply *appear*
-- Each Gift is unique — shaped by the entity's specific sorrow
-- Gifts are **bonded** to the wearer — they cannot be removed without assistance
+- Each Stigma is unique — shaped by the entity's specific sorrow
+- Stigmas are **bonded** to the wearer — they cannot be removed without assistance
 
-**Types of Gifts:**
+**Types of Stigmas:**
 
 | Type | Slot | Example | Passive Effect |
 |------|------|---------|----------------|
@@ -3515,15 +3515,15 @@ Each Echo-Core has a **preferred Work Type** — the approach they use most ofte
 | **Hairpin** | Head | The Ember Pin | Provides warmth — protects against cold sorrow |
 | **Earring** | Ear | The Whisper Stud | Hears entity communication — you understand their language |
 
-**Gift Mechanics:**
-- Gifts are **always active** — no activation required
-- Gifts have **no direct cost** — but they shape the wearer over time
-- Gifts can be **upgraded** by feeding them Echoes — increasing their effect
-- Gifts can be **removed** — but the process is painful (the Gift resists)
+**Stigma Mechanics:**
+- Stigmas are **always active** — no activation required
+- Stigmas have **no direct cost** — but they shape the wearer over time
+- Stigmas can be **upgraded** by feeding them Echoes — increasing their effect
+- Stigmas can be **removed** — but the process is painful (the Stigma resists)
 
-**Notable Gifts:**
+**Notable Stigmas:**
 
-| Gift | Source Entity | Type | Effect | Cost |
+| Stigma | Source Entity | Type | Effect | Cost |
 |------|---------------|------|--------|------|
 | **The Mourning Band** | The Grieving Colossus | Ring | +20% sorrow tolerance | Wearer weeps at night |
 | **The Forgotten Mask** | The Memory Weaver | Mask | Invisible to memory attacks | Wearer slowly loses small memories |

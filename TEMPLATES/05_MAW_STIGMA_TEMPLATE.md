@@ -1,16 +1,16 @@
-# 05 — M.A.W. GIFT TEMPLATE (D-File)
+# 05 — M.A.W. STIGMA TEMPLATE (D-File)
 
 **Template ID:** `T-05-MAW-D`  
-**Generates:** `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_{{RANGE}}/{{ID}}_{{Folder}}/SE-{{ID}}-D__MAW-G_{{Gift_Name}}.md`  
+**Generates:** `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_{{RANGE}}/{{ID}}_{{Folder}}/SE-{{ID}}-D__MAW-G_{{Stigma_Name}}.md`  
 **Authority:** `SOMNARAK_MAW_CODEX.md` + Laws 6,8
 
 ---
 
 ## DEEP KNOWLEDGE — READ BEFORE WRITING
 
-- **Gift (D) is NOT crafted — it is granted at random** upon successful work by the entity. Never write “manufactured gift.” Write: “The entity leaves behind,” “found on the worker’s chest after successful Viderehan,” “bestowal chance.”
-- **Gifts are accessories with slots:** Head, Face, Chest, Hand, Feet, etc. Each has Acquisition Probability (typically 2–5% per work, higher on success) and a passive effect + cosmetic manifestation.
-- **Gift effect is subtle:** +1 stat, +5% resistance, or narrative ability (measure debt, hear Bell fragment, see grief link). Never game-breaking.
+- **Stigma (D) is NOT crafted — it is granted at random** upon successful work by the entity. Never write “manufactured stigma.” Write: “The entity leaves behind,” “found on the worker’s chest after successful Viderehan,” “bestowal chance.”
+- **Stigmas are accessories with slots:** Head, Face, Chest, Hand, Feet, etc. Each has Acquisition Probability (typically 2–5% per work, higher on success) and a passive effect + cosmetic manifestation.
+- **Stigma effect is subtle:** +1 stat, +5% resistance, or narrative ability (measure debt, hear Bell fragment, see grief link). Never game-breaking.
 - **Cost is brief but intimate:** Momentary crushing weight, hollow, chill — not permanent loss.
 
 ---
@@ -18,7 +18,7 @@
 ## FILE NAMING
 
 ```
-SE-{{ID}}-D__MAW-G_{{Gift_Name}}.md
+SE-{{ID}}-D__MAW-G_{{Stigma_Name}}.md
 ```
 
 Registry Code: `MAW-G-{{NUM}}-01`
@@ -28,9 +28,9 @@ Registry Code: `MAW-G-{{NUM}}-01`
 ## SCAFFOLD
 
 ~~~markdown
-# M.A.W. GIFT — {{GIFT_NAME_EN}} — {{KOREAN_NAME}}
+# M.A.W. STIGMA — {{STIGMA_NAME_EN}} — {{KOREAN_NAME}}
 
-> *“{{Epigraph — what the gift whispers when held.}}”*
+> *“{{Epigraph — what the stigma whispers when held.}}”*
 
 **Document ID:** `SE-{{ID}}-D`  
 **Linked Entity:** `SE-{{ID}}` — {{Entity Name}}  
@@ -44,7 +44,7 @@ Registry Code: `MAW-G-{{NUM}}-01`
 
 | Field | Record |
 |---|---|
-| **Type** | Gift — accessory |
+| **Type** | Stigma — accessory |
 | **Category** | {{Head / Face / Chest / Hand / Feet / Held}} |
 | **Grade** | {{α / β / γ / δ / ω}} |
 | **Element** | {{Grudge / Lament / Void / Weight}} |
@@ -62,7 +62,7 @@ Registry Code: `MAW-G-{{NUM}}-01`
 
 ### Rejection Rule
 
-{{Gift misuse → brief punishment. E.g., “User who weighs another’s debt to mock finds scale showing own debt crushing for one breath.”}}
+{{Stigma misuse → brief punishment. E.g., “User who weighs another’s debt to mock finds scale showing own debt crushing for one breath.”}}
 
 ## COMBAT RECORD — PASSIVE
 
@@ -71,7 +71,7 @@ Registry Code: `MAW-G-{{NUM}}-01`
 | **Passive Effect** | {{E.g., “+1 Composure when working SE-{{ID}}” or “Measure karmic debt weight/type”}} |
 | **Activation** | {{Always on while equipped / On successful work / On Gauge threshold}} |
 | **Cosmetic Manifestation** | {{What witness sees — e.g., “Pale scale mark on forehead, visible in Veil-light.”}} |
-| **Limit** | {{E.g., “No stacking; only one Gift of this line per person.”}} |
+| **Limit** | {{E.g., “No stacking; only one Stigma of this line per person.”}} |
 
 ### Wielder Cost (Brief)
 
@@ -83,7 +83,7 @@ Registry Code: `MAW-G-{{NUM}}-01`
 
 **Date:** Year {{4,2xx}}  
 **Bearer:** {{Name}}  
-**Result:** {{Gift revealed hidden debt / saved through +1 / warned of Tide.}}
+**Result:** {{Stigma revealed hidden debt / saved through +1 / warned of Tide.}}
 
 **Aftermath:** {{Brief cost — what bearer felt, quick recovery.}}
 

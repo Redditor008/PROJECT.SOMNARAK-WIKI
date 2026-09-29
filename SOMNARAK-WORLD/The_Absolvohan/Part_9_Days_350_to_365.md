@@ -196,11 +196,11 @@ Zero Ordeals manifested on Day 350. The defensive weapons across all sectors hav
 +==============================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** SE-C-IIIγ-001 (*The Bell of Peace*)
 - **Extracted Armament:** *Chime of the Open Gate* (Special/Pocket Slot)
-- **Gift Properties:** Grants the bearer the ability to summon a warm, soothing breeze that dispels sorrow and calms emotional unrest within 50 meters. Bestowed upon Specialist Park.
+- **Stigma Properties:** Grants the bearer the ability to summon a warm, soothing breeze that dispels sorrow and calms emotional unrest within 50 meters. Bestowed upon Specialist Park.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -387,11 +387,11 @@ Zero Ordeals manifested on Day 355. At Gate 05, Drift King Kael unclasped his no
 +==============================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** HT-004 (*The Reuniting Spark*)
 - **Extracted Armament:** *Banner of the Three Cities* (Back/Wings Slot)
-- **Gift Properties:** Grants absolute unity and shared strength, increasing the vitality and resilience of all allies within the same district by 25%. Bestowed upon Drift King Kael.
+- **Stigma Properties:** Grants absolute unity and shared strength, increasing the vitality and resilience of all allies within the same district by 25%. Bestowed upon Drift King Kael.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -581,11 +581,11 @@ Zero Ordeals manifested on Day 360. In the night sky, the stars—frozen in iden
 +==============================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** SE-C-IIIβ-044 (*The Living Clock*)
 - **Extracted Armament:** *Chronos Pendulum* (Chest/Mantle Slot)
-- **Gift Properties:** Grants absolute sovereignty over personal time, allowing the bearer to age naturally and gracefully, immune to temporal decay or chronological manipulation. Bestowed upon Seiyon.
+- **Stigma Properties:** Grants absolute sovereignty over personal time, allowing the bearer to age naturally and gracefully, immune to temporal decay or chronological manipulation. Bestowed upon Seiyon.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -791,11 +791,11 @@ The Ordeals are a memory of the dark. Today, the only light falling from the sky
 +==============================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** HT-014 (*The Living Dawn*)
 - **Extracted Armament:** *The Memory of 1,778 Cycles* (Universal Heritage)
-- **Gift Properties:** Bestowed upon every child born into the new world: the sacred remembrance of what was endured, the courage to weep without fear, and the unyielding strength to choose Hope every day.
+- **Stigma Properties:** Bestowed upon every child born into the new world: the sacred remembrance of what was endured, the courage to weep without fear, and the unyielding strength to choose Hope every day.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 

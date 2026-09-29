@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Feu Follet Ember
+# M.A.W. STIGMA — Feu Follet Ember
 
 > *“The warmth is real, brief, and expensive. Those facts belong together.”*
 

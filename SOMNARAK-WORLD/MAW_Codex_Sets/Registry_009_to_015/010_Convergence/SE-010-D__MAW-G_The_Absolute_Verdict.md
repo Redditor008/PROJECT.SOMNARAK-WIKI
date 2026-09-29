@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Absolute Verdict
+# M.A.W. STIGMA — The Absolute Verdict
 
 > *“It does not tell the bearer who is guilty. It tells the bearer that guilt exists everywhere.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) — verdict charm |
+| **Type** | Accessory (Stigma) — verdict charm |
 | **Grade** | δ — Critical |
 | **Element** | Weight — Black |
 | **Slot** | Head |
@@ -31,7 +31,7 @@ The Absolute Verdict is a black charm marked with a closed eye, a scale, and a f
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
 **Stat Effect:** +3 when working the Convergence source record.
 
@@ -39,7 +39,7 @@ The Absolute Verdict is a black charm marked with a closed eye, a scale, and a f
 
 **Active Effect — Sentence:** Once per operation, the bearer may force one target to experience the full Weight of a recorded action for one turn.
 
-**Limit:** The Gift applies the same rule to the bearer if the bearer has not recorded their own role in the event.
+**Limit:** The Stigma applies the same rule to the bearer if the bearer has not recorded their own role in the event.
 
 ### Bearer Cost
 

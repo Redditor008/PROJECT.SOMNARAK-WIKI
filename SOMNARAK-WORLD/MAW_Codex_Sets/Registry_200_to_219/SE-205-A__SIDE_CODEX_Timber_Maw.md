@@ -78,13 +78,13 @@ Stripped bark hangs from a broad, lead-cold trunk. Bare limbs spread above expos
 
 The three pieces do not fill Timber Maw’s absence. They make personnel capable of staying beside it: the Staff draws dangerous Han from the surrounding place, the Mantle bears the pressure left on the body, and the Charm marks the one space that must remain unclaimed.
 
-**Extraction rule:** Complete a successful Flerehan or Ferrehan cycle while the trunk remains empty. When the inner bark warms, a Weight echo may settle outside the root line. Specialist Durivel Cho may shape that residue under Extraction Lead Zyrak’s authority. No bark, root, or material is cut from Timber Maw. The Gift remains an unforced bestowal with a 4% acquisition probability.
+**Extraction rule:** Complete a successful Flerehan or Ferrehan cycle while the trunk remains empty. When the inner bark warms, a Weight echo may settle outside the root line. Specialist Durivel Cho may shape that residue under Extraction Lead Zyrak’s authority. No bark, root, or material is cut from Timber Maw. The Stigma remains an unforced bestowal with a 4% acquisition probability.
 
 | Piece | Name | Grade | Element | Main purpose | Individual Codex |
 |---|---|---:|---|---|---|
 | Weapon | The Ravenous Timber-Jaw | γ | Weight | Draws environmental Han into an empty core and directs it along a line. | `SE-205-B__MAW-W_The_Hollow_Staff.md` |
 | Suit | The Hollow Bark-Carapace | γ | Weight | Lets a wearer endure crushing burden by leaving an unoccupied fold within the armor. | `SE-205-C__MAW-S_The_Hollow_Mantle.md` |
-| Gift | The Splintered Gullet | γ | Weight | Identifies the place where presence was intended but never arrived. | `SE-205-D__MAW-G_The_Hollow_Charm.md` |
+| Stigma | The Splintered Gullet | γ | Weight | Identifies the place where presence was intended but never arrived. | `SE-205-D__MAW-G_The_Hollow_Charm.md` |
 
 **Set cost:** The operator must leave one useful-looking space deliberately empty and acknowledge why. Treating that vacancy as wasted capacity turns the set’s protection back into Weight pressure.
 
@@ -114,9 +114,9 @@ The breathing black Han-weave yields around Weight pressure instead of bracing s
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Hollow Charm
+### M.A.W. Stigma — The Hollow Charm
 
 **Type / Slot:** Black Han-steel accessory / Head
 **Grade / Element:** γ / Weight

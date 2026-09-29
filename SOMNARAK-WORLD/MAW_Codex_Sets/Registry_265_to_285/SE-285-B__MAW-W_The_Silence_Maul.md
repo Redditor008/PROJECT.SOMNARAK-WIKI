@@ -34,7 +34,7 @@ The Silence Maul is a compact black maul of Han steel with an empty mouth-shaped
 
 ## SET, FAILURE & CARE
 
-Gift marks burden, Mantle makes safe quiet, Maul acts only after consent.
+Stigma marks burden, Mantle makes safe quiet, Maul acts only after consent.
 
 - **Confession strike:** follow-up demand turns the blow on the speaker.
 - **Loaded assumption:** wielder decides what the word meant.

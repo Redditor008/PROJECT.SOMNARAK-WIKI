@@ -46,7 +46,7 @@ Each completed entity is **4/4**:
 1. Side Codex — suffix `-A`
 2. Weapon record — suffix `-B`
 3. Suit record — suffix `-C`
-4. Gift record — suffix `-D`
+4. Stigma record — suffix `-D`
 
 Item registry codes remain separate `MAW-W/S/G-###-01` identifiers.
 

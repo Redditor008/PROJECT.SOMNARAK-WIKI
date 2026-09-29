@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Thousand Hands Charm
+# M.A.W. STIGMA — Thousand Hands Charm
 
 > *“The warm crystal marks the one grief in the room that did not begin inside you.”*
 
@@ -29,13 +29,13 @@ A warm Tail charm of blue Han-crystal containing a single open hand. The source 
 
 ## Appearance
 
-The Thousand Hands Charm is a warm tail-charm of blue Han crystal containing a single open hand — and the hand closes whenever the bearer speaks a borrowed memory in first person, a small fist forming around the exact moment testimony becomes impersonation. The source grants it at random after successful work; it cannot be manufactured. Its function is the Not-Mine Mark: a clear bodily sensation when an active memory originated from another owner — it does not suppress the feeling, and it does not declare the account false; the borrowed grief stays real, stays felt, and stays borrowed. The hidden condition guards the other flank: a bearer who uses the sensation to dismiss another person’s grief as irrelevant turns the open hand into a permanent fist, and the Gift then blocks empathy rather than possession and must be removed. In its recorded case a bearer’s report began “I left my daughter in the water” — the hand closed, they stopped, reopened the record, and wrote two sentences: one witnessed, one lived. The Charm warmed but did not choose which grief mattered more. Its hand now closes before the bearer’s voice changes, the earliest verified attribution warning on record.
+The Thousand Hands Charm is a warm tail-charm of blue Han crystal containing a single open hand — and the hand closes whenever the bearer speaks a borrowed memory in first person, a small fist forming around the exact moment testimony becomes impersonation. The source grants it at random after successful work; it cannot be manufactured. Its function is the Not-Mine Mark: a clear bodily sensation when an active memory originated from another owner — it does not suppress the feeling, and it does not declare the account false; the borrowed grief stays real, stays felt, and stays borrowed. The hidden condition guards the other flank: a bearer who uses the sensation to dismiss another person’s grief as irrelevant turns the open hand into a permanent fist, and the Stigma then blocks empathy rather than possession and must be removed. In its recorded case a bearer’s report began “I left my daughter in the water” — the hand closed, they stopped, reopened the record, and wrote two sentences: one witnessed, one lived. The Charm warmed but did not choose which grief mattered more. Its hand now closes before the bearer’s voice changes, the earliest verified attribution warning on record.
 
 ## EFFECT & HIDDEN CONDITION
 
 **Not-Mine Mark:** provides a clear bodily sensation when an active memory originated from another owner. It does not suppress the feeling or declare the account false.
 
-A bearer who uses the sensation to dismiss another person’s grief as irrelevant turns the open hand into a fist. The Gift then blocks empathy rather than possession and must be removed.
+A bearer who uses the sensation to dismiss another person’s grief as irrelevant turns the open hand into a fist. The Stigma then blocks empathy rather than possession and must be removed.
 
 ## ITEM HISTORY — ONE SENTENCE, TWO LIVES
 
@@ -49,7 +49,7 @@ Its hand now closes before the bearer’s voice changes, providing the earliest 
 - **Second sign:** the bearer calls all borrowed feeling contamination.
 - **Terminal sign:** the closed fist prevents recognition of every life except the bearer’s.
 
-**Maintenance:** write one “mine” and one “witnessed” memory after exposure, leaving either line blank if necessary. Warm the Gift in bare hands without activating the source relic.  
+**Maintenance:** write one “mine” and one “witnessed” memory after exposure, leaving either line blank if necessary. Warm the Stigma in bare hands without activating the source relic.  
 **Emergency removal:** a witness reads both lines while the bearer opens their hand. Removing a fist-state Charm without testimony causes twelve hours of emotional indifference.
 
 ## SET RELATIONSHIP

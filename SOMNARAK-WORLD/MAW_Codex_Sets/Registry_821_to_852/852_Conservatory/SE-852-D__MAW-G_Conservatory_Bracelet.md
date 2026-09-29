@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Conservatory Bracelet
+# M.A.W. STIGMA — Conservatory Bracelet
 
 > *“Conservatory Bracelet remembers Conservatory; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Conservatory Bracelet is the gift record of Conservatory’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability redeems the source’s failure in miniature: it protects others from structural collapse, the crystallized disaster lending out the protection it could not provide at home. Binding names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is retrospective: the wearer feels every place they failed to preserve, each protected structure invoiced against the unprotected ones, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift shows the love and failure behind the structure — the devotion and the overload presented together, inseparable — and it marked the immediate hazard only after attribution to Conservatory. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Conservatory Bracelet is the stigma record of Conservatory’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability redeems the source’s failure in miniature: it protects others from structural collapse, the crystallized disaster lending out the protection it could not provide at home. Binding names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is retrospective: the wearer feels every place they failed to preserve, each protected structure invoiced against the unprotected ones, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma shows the love and failure behind the structure — the devotion and the overload presented together, inseparable — and it marked the immediate hazard only after attribution to Conservatory. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Conservatory Bracelet is the gift record of Conservatory’s set — tail-sl
 
 **Operational / binding cost:** The wearer feels every place they failed to preserve. Continued use makes Conservatory's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Stigma Record*
 
-The first Conservatory Bracelet field bearer encountered this source response: Shows the love and failure behind the structure. The gift marks the immediate hazard only after the team attributed it to Conservatory. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Conservatory Bracelet field bearer encountered this source response: Shows the love and failure behind the structure. The stigma marks the immediate hazard only after the team attributed it to Conservatory. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Conservatory Bracelet field bearer encountered this source response: S
 
 ## SET RELATIONSHIP
 
-Within *Conservatory — Witnessed Form*, Conservatory Bracelet performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Conservatory — Witnessed Form*, Conservatory Bracelet performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

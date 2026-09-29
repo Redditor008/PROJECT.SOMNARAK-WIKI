@@ -52,7 +52,7 @@ During the The Dormant Monolith Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Dormant Monolith's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Ground the worker and establish a rotation of duty The set cannot heal the originating event. Misuse routes Dormant Monolith's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dormant Monolith's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Ground the worker and establish a rotation of duty The set cannot heal the originating event. Misuse routes Dormant Monolith's wound through the operator and triggers the recorded escalation.
 
 ---
 

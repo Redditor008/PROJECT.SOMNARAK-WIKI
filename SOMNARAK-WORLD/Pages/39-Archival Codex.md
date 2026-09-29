@@ -40,7 +40,7 @@ Every comprehensive entity dossier is structured into 18 standardized sections:
 5. **Origin Strata:** Veiled Tale, Scarred Memory, or Dream Born.
 6. **Containment Behavior:** Docile vs agitated mood shifts.
 7. **Breach Conditions:** Mugenhan counter triggers and escape mechanics.
-8. **M.A.W. Armaments:** Extractable weapons, suits, and gifts.
+8. **M.A.W. Armaments:** Extractable weapons, suits, and stigmas.
 9. **Observation Levels:** Progressive unlocks across Levels 1 through 4.
 10. **Canonical Story:** Primary narrative log of the entity.
 11. **Final Observation:** Senior researcher's conclusive containment assessment.

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Tide Stone
+# M.A.W. STIGMA — The Tide Stone
 
 > *“The Tide Stone remembers The Sorrow Tide; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** Becomes heavier and emotionally saturated after each use. Continued use makes The Sorrow Tide's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Stigma Record*
 
-The first The Tide Stone field bearer encountered this source response: The Tide reveals grief currents across the city. The gift severs the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Tide Stone field bearer encountered this source response: The Tide reveals grief currents across the city. The stigma severs the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Tide Stone field bearer encountered this source response: The Tide
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Tide — Witnessed Form*, The Tide Stone performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Sorrow Tide — Witnessed Form*, The Tide Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

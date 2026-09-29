@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Well Within Stone
+# M.A.W. STIGMA — Well Within Stone
 
 > *“Well Within Stone remembers Well Within; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer hears anger in every silence. Continued use makes Well Within's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Stigma Record*
 
-The first Well Within Stone field bearer encountered this source response: Reveals echoes of the forgotten event. The gift discharges the immediate hazard only after the team attributed it to Well Within. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Well Within Stone field bearer encountered this source response: Reveals echoes of the forgotten event. The stigma discharges the immediate hazard only after the team attributed it to Well Within. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Well Within Stone field bearer encountered this source response: Revea
 
 ## SET RELATIONSHIP
 
-Within *Well Within — Witnessed Form*, Well Within Stone performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Well Within — Witnessed Form*, Well Within Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

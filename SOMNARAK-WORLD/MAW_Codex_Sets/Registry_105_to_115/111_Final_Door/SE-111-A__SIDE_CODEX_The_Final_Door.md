@@ -74,15 +74,15 @@ The O-Relic classification describes the Door’s behavior under contact. It is 
 
 ## PAGE 03 — NO M.A.W. REGISTRY
 
-The Final Door has **no registered Weapon, Suit, or Gift history files**.
+The Final Door has **no registered Weapon, Suit, or Stigma history files**.
 
-The source profile’s Lens, Veil, and Gift silhouettes are classified no-extraction hazard readings, not materialized equipment. There is no item, no bearer, no safe binding result, and no authorized method to turn the Door’s unknown into M.A.W.
+The source profile’s Lens, Veil, and Stigma silhouettes are classified no-extraction hazard readings, not materialized equipment. There is no item, no bearer, no safe binding result, and no authorized method to turn the Door’s unknown into M.A.W.
 
 | Unauthorized idea | Source-specific result |
 |---|---|
 | Extract a Void Lens from the seal | No extraction authority; touching the seal may begin a thirteen-second whisper event. |
 | Weave a protective Veil from Door residue | Residue is a channel hazard, not fabric or armor. |
-| Seek an unknown Gift | The underlying source record identifies the cost as potentially catastrophic and grants no operating effect. |
+| Seek an unknown Stigma | The underlying source record identifies the cost as potentially catastrophic and grants no operating effect. |
 
 **Related equipment:** Archive seals, O-Relic isolation frames, and ordinary R.D. sensors are manufactured containment tools. They are not Final Door M.A.W.
 

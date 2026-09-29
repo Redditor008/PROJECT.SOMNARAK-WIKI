@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Warning Thread
+# M.A.W. STIGMA — The Warning Thread
 
 > *“One true fragment can cross the storm. Do not burden it with the sentence you wish had arrived.”*
 

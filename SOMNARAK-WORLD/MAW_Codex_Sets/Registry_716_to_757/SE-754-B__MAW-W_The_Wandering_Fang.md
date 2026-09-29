@@ -27,7 +27,7 @@ The Wandering Fang is the weapon of Thralldom’s set, bound by the source rule 
 
 **Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-754 -->
 
-**Set relationship:** Weapon, Suit, and Gift function only as *Care Without Captivity*; no piece may claim to resolve the source alone.
+**Set relationship:** Weapon, Suit, and Stigma function only as *Care Without Captivity*; no piece may claim to resolve the source alone.
 
 ---
 **Document ID:** `SE-754-B`  

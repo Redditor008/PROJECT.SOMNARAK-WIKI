@@ -65,7 +65,7 @@ A M.A.W. echo may be shaped only after a whisper ends and the listener chooses n
 |---|---|---:|---|---|
 | Weapon | The Secret Lens | γ | Cuts one obsessive access path without destroying the sealed memory. | `SE-300-B__MAW-W_The_Secret_Lens.md` |
 | Suit | The Secret Veil | γ | Protects identity during authorized whisper exposure. | `SE-300-C__MAW-S_The_Secret_Veil.md` |
-| Gift | The Secret Key | γ | Unlocks one sealed memory in exchange for one personal memory. | `SE-300-D__MAW-G_The_Secret_Key.md` |
+| Stigma | The Secret Key | γ | Unlocks one sealed memory in exchange for one personal memory. | `SE-300-D__MAW-G_The_Secret_Key.md` |
 
 **Set cost:** The wielder loses nameless memories, the wearer becomes absent, and the Key requires a personal memory as payment.
 
@@ -75,7 +75,7 @@ A M.A.W. echo may be shaped only after a whisper ends and the listener chooses n
 
 - **Secret Lens:** Void 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Each use removes small nameless memories.
 - **Secret Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; maximum 3; 35 Echoes. It resists Void while making the wearer absent.
-- **Secret Key:** Head Gift; 4%; +2 Composure during source work. It unlocks one sealed memory by sacrificing one personal memory.
+- **Secret Key:** Head Stigma; 4%; +2 Composure during source work. It unlocks one sealed memory by sacrificing one personal memory.
 
 ---
 

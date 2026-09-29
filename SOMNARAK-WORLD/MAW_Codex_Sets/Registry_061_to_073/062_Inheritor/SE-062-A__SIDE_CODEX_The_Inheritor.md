@@ -58,7 +58,7 @@ State that resentment is evidence of an imposed burden, not proof of failure. No
 |---|---|---|---|---|---|
 | Weapon | The Resentment Fang | γ | Grudge | Focuses inherited anger into verified action | `SE-062-B__MAW-W_The_Resentment_Fang.md` |
 | Suit | The Resentment Plate | γ | Grudge | Resists incoming aggression while holding anger visible | `SE-062-C__MAW-S_The_Resentment_Plate.md` |
-| Gift | The Resentment Gauntlet | γ | Grudge | Strengthens response to a documented wrong | `SE-062-D__MAW-G_The_Resentment_Gauntlet.md` |
+| Stigma | The Resentment Gauntlet | γ | Grudge | Strengthens response to a documented wrong | `SE-062-D__MAW-G_The_Resentment_Gauntlet.md` |
 
 ### Set Resonance — Paid Without Thanks
 

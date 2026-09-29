@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Crossing Chain
+# M.A.W. STIGMA — The Crossing Chain
 
 > *“The Crossing Chain remembers Stranded Between Two Shores; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Crossing Chain is the gift record of Stranded Between Two Shores’ set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability answers the source wound directly: it creates a temporary bridge across physical or emotional gaps, the collapsed crossing restored in miniature. Binding names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The cost is every restoration’s toll: the wearer feels the grief of everyone who crosses, each passage invoiced in its passenger’s sorrow, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift shows the people who tried to cross — the defeated attempts made visible — and it severed the immediate hazard only after attribution to the source. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Crossing Chain is the stigma record of Stranded Between Two Shores’ set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability answers the source wound directly: it creates a temporary bridge across physical or emotional gaps, the collapsed crossing restored in miniature. Binding names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The cost is every restoration’s toll: the wearer feels the grief of everyone who crosses, each passage invoiced in its passenger’s sorrow, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma shows the people who tried to cross — the defeated attempts made visible — and it severed the immediate hazard only after attribution to the source. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Crossing Chain is the gift record of Stranded Between Two Shores’ set — 
 
 **Operational / binding cost:** The wearer feels the grief of everyone who crosses. Continued use makes Stranded Between Two Shores's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Stigma Record*
 
-The first The Crossing Chain field bearer encountered this source response: Shows the people who tried to cross. The gift severs the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Crossing Chain field bearer encountered this source response: Shows the people who tried to cross. The stigma severs the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Crossing Chain field bearer encountered this source response: Show
 
 ## SET RELATIONSHIP
 
-Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Chain performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Chain performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

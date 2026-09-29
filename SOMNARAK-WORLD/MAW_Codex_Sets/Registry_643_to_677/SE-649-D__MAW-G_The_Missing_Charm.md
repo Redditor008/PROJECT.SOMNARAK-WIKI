@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Missing Charm
+# M.A.W. STIGMA — The Missing Charm
 
 > *“It marks what might have been and takes a word when possibility is called fact.”*
 

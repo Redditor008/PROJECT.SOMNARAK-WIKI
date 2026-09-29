@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Healer's Echo
+# M.A.W. STIGMA — The Healer's Echo
 
 > *“The Healer's Echo remembers The Kind Healer's Shadow; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer absorbs the pain of the healing. Continued use makes The Kind Healer's Shadow's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Healer s Shadow Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The Kind Healer s Shadow Source-Trace: Stigma Record*
 
-The first The Healer's Echo field bearer encountered this source response: Reveals the healer whose compassion formed it. The gift interrupts the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Healer's Echo field bearer encountered this source response: Reveals the healer whose compassion formed it. The stigma interrupts the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Healer's Echo field bearer encountered this source response: Revea
 
 ## SET RELATIONSHIP
 
-Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Echo performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Echo performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

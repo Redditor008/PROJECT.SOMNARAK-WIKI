@@ -58,7 +58,7 @@ The wearer cannot remove the Mask alone. A second person must remove it while na
 |---|---|---|---|---|---|
 | Weapon | The Joy Lens | β | Void | Cuts through false emotional presentation | `SE-051-B__MAW-W_The_Joy_Lens.md` |
 | Suit | The Joy Veil | β | Void | Conceals emotional instability at a cost | `SE-051-C__MAW-S_The_Joy_Veil.md` |
-| Gift | The Joy Facade | β | Void | Projects stable cheerfulness | `SE-051-D__MAW-G_The_Joy_Facade.md` |
+| Stigma | The Joy Facade | β | Void | Projects stable cheerfulness | `SE-051-D__MAW-G_The_Joy_Facade.md` |
 
 ### Set Resonance — Smile for the Room
 

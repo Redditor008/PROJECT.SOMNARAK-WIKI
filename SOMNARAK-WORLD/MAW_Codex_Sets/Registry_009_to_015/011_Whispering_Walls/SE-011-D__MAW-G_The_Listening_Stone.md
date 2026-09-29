@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Listening Stone
+# M.A.W. STIGMA — The Listening Stone
 
 > *“Put it against the wall. Do not ask it for a secret. Wait for the wall to decide what it can bear to say.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) — listening stone |
+| **Type** | Accessory (Stigma) — listening stone |
 | **Grade** | α — Minor |
 | **Element** | Lament — Deep Blue |
 | **Slot** | Tail |
@@ -31,13 +31,13 @@ The Listening Stone is a small deep-blue crystal with one flat face polished smo
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
 **Passive Effect:** Allows the bearer to identify whether a wall contains ordinary ambient Han, a historical whisper, or an active escalation channel.
 
 **Active Effect — Hear the Seam:** Once per shift, the bearer may place the Stone against a surface and hear one complete sentence from the oldest accessible layer.
 
-**Limit:** The sentence may be truthful, incomplete, frightened, or addressed to someone long dead. The Gift provides no interpretation.
+**Limit:** The sentence may be truthful, incomplete, frightened, or addressed to someone long dead. The Stigma provides no interpretation.
 
 ### Bearer Cost
 

@@ -52,7 +52,7 @@ During the The Sky of Borrowed Faces Source-Trace, the field team preserved this
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Sky of Borrowed Faces's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Sky of Borrowed Faces's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Sky of Borrowed Faces's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Sky of Borrowed Faces's wound through the operator and triggers the recorded escalation.
 
 ---
 

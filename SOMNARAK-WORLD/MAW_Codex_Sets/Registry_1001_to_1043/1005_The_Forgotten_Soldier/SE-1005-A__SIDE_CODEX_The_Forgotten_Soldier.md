@@ -52,7 +52,7 @@ During the The The Forgotten Soldier Source-Trace, the field team preserved this
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies The Forgotten Soldier's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns The set cannot heal the originating event. Misuse routes The Forgotten Soldier's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Forgotten Soldier's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns The set cannot heal the originating event. Misuse routes The Forgotten Soldier's wound through the operator and triggers the recorded escalation.
 
 ---
 

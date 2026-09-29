@@ -34,7 +34,7 @@ The Truth Veil is a near-colorless suit of Han gossamer with different self-imag
 
 ## SET, FAILURE & CARE
 
-Gift identifies deception, Veil preserves complexity, Weapon targets harm.
+Stigma identifies deception, Veil preserves complexity, Weapon targets harm.
 
 - **Excuse cloth:** context denies accountability.
 - **Shard identity:** panels stop referring to the same person.

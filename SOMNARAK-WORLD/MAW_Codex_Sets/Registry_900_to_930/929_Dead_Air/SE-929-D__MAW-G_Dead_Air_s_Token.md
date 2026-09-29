@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Dead Air's Token
+# M.A.W. STIGMA — Dead Air's Token
 
 > *“Dead Air's Token remembers Dead Air; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Dead Air's Token is the gift record of the Dead Air set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's spirit sorrow, crystallized into wearable form, a sealed second of the silence that followed the last transmission. Binding names Dead Air's event — Not recorded, the interruption preserved and the voice not — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is gravitational: the bearer moves as though carrying an invisible load that grows heavier near unresolved debt, the silence leaning on whatever was left unsaid. The source-trace fixed doctrine: the hazard permits study, its spirit pressure becoming legible under sustained observation, and the Token discharges the hazard only after attribution to Dead Air. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Dead Air's Token is the stigma record of the Dead Air set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's spirit sorrow, crystallized into wearable form, a sealed second of the silence that followed the last transmission. Binding names Dead Air's event — Not recorded, the interruption preserved and the voice not — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is gravitational: the bearer moves as though carrying an invisible load that grows heavier near unresolved debt, the silence leaning on whatever was left unsaid. The source-trace fixed doctrine: the hazard permits study, its spirit pressure becoming legible under sustained observation, and the Token discharges the hazard only after attribution to Dead Air. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ Dead Air's Token is the gift record of the Dead Air set — head-slot, bestowed 
 
 **Operational / binding cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt. Continued use makes Dead Air's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Dead Air Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Dead Air Source-Trace: Stigma Record*
 
-The first Dead Air's Token field bearer encountered this source response: Permits study; the spirit pressure becomes legible under sustained observation. The gift discharges the immediate hazard only after the team attributed it to Dead Air. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dead Air's Token field bearer encountered this source response: Permits study; the spirit pressure becomes legible under sustained observation. The stigma discharges the immediate hazard only after the team attributed it to Dead Air. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Dead Air's Token field bearer encountered this source response: Permit
 
 ## SET RELATIONSHIP
 
-Within *Dead Air — Witnessed Form*, Dead Air's Token performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dead Air — Witnessed Form*, Dead Air's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

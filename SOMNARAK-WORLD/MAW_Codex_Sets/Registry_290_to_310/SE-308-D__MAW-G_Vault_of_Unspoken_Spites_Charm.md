@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Vault of Unspoken Spite’s Charm
+# M.A.W. STIGMA — Vault of Unspoken Spite’s Charm
 
 > *“It burns when someone says ‘leave the anger here’ without promising to return.”*
 

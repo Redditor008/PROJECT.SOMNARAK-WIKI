@@ -249,7 +249,7 @@ Every day within the chronicle follows an exhaustive operational management blue
 5. **Acoustic Strain Meltdown Tracker:** Meltdown Levels (I–X), 45-second timer status, and Acoustic Overload checks.
 6. **Ordeal Suppression Tactical Dossier:** Ordeal classification (Color × Watch), Clash resolution, Range Bands 1–5, and Sanity Restoration actions.
 7. **Shift Evaluation Index & RHR Allocation:** Formal Letter Grades (S, A, B, C, F), Refined Han Reagents awarded, and attribute training logs.
-8. **M.A.W. Extraction, Forging & Gift Slots:** Extracted Weapon, Suit, and Gift triplets, anatomical slot allocations, and Corrosion monitoring.
+8. **M.A.W. Extraction, Forging & Stigma Slots:** Extracted Weapon, Suit, and Stigma triplets, anatomical slot allocations, and Corrosion monitoring.
 9. **Night Shift Telemetry:** Nocturnal drainage, Sorrow Tide monitoring, and Director Majin's reflections.
 
 ---

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Grasp Crown
+# M.A.W. STIGMA — Grasp Crown
 
 > *“Grasp Crown remembers Grasp; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Grasp Crown is the gift record of Grasp’s set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its ability is the set’s gentlest: healing minor wounds through warm sorrow. Binding is testimonial: the bearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer continued calling across the gap until the calls became a burning figure — and accepts the set’s limit: do not promise rescue; acknowledge the limits of one person. The operational cost is its shadow: the wearer feels the rage of every failed rescue, and continued use makes the source sorrow feel autobiographical. The first field bearer’s source-trace fixed the doctrine: the gift reveals the failed rescue and its victims, and it isolated the immediate hazard only after the team attributed it to Grasp — treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from describing the event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Grasp Crown is the stigma record of Grasp’s set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its ability is the set’s gentlest: healing minor wounds through warm sorrow. Binding is testimonial: the bearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer continued calling across the gap until the calls became a burning figure — and accepts the set’s limit: do not promise rescue; acknowledge the limits of one person. The operational cost is its shadow: the wearer feels the rage of every failed rescue, and continued use makes the source sorrow feel autobiographical. The first field bearer’s source-trace fixed the doctrine: the stigma reveals the failed rescue and its victims, and it isolated the immediate hazard only after the team attributed it to Grasp — treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from describing the event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Grasp Crown is the gift record of Grasp’s set — tail-slot, bestowed at a
 
 **Operational / binding cost:** The wearer feels the rage of every failed rescue. Continued use makes Grasp's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Grasp Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Grasp Source-Trace: Stigma Record*
 
-The first Grasp Crown field bearer encountered this source response: Reveals the failed rescue and its victims. The gift isolates the immediate hazard only after the team attributed it to Grasp. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Grasp Crown field bearer encountered this source response: Reveals the failed rescue and its victims. The stigma isolates the immediate hazard only after the team attributed it to Grasp. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Grasp Crown field bearer encountered this source response: Reveals the
 
 ## SET RELATIONSHIP
 
-Within *Grasp — Witnessed Form*, Grasp Crown performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grasp — Witnessed Form*, Grasp Crown performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

@@ -52,7 +52,7 @@ During the The Mirror of Soaking Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Mirror of Soaking's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mirror of Soaking's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Mirror of Soaking's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mirror of Soaking's wound through the operator and triggers the recorded escalation.
 
 ---
 

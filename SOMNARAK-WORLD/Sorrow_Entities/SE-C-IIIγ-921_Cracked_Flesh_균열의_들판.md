@@ -192,7 +192,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 
-### M.A.W. Gift — The Fissured Skin Stigma
+### M.A.W. Stigma — The Fissured Skin Stigma
 
 **Category:** Stigma (Porcelain Fault-Line Mark)
 **Grade:** γ | **Element:** Grudge
@@ -202,7 +202,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

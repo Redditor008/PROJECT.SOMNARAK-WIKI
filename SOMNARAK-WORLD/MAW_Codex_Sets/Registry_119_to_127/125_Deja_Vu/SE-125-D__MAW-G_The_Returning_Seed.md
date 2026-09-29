@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Returning Seed
+# M.A.W. STIGMA — The Returning Seed
 
 > *“It gives back one lost memory with impossible clarity. It takes a present memory of equal weight before it will open.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Returning Seed |
 | Set | Return Without Reclaiming |
-| Type / grade / element | Gift, pale seed-charm / δ — Critical / Void — Pale White |
+| Type / grade / element | Stigma, pale seed-charm / δ — Critical / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; equal-weight exchange review mandatory |
 | Known bearer | Researcher Euncris Park |
@@ -33,13 +33,13 @@
 | Acquisition probability | 4% after successful Déjà Vu work |
 | Bestowal event | A Seed appeared in the root basin after an observer accepted a returning object as memory rather than proof of restoration. |
 | Acceptance condition | The candidate completes a present-memory inventory with Archive witness and names a person who can recognize the exchange afterward. |
-| Source intent | Gift bestowal; no Seed can be requisitioned to recover preferred evidence or erase a current responsibility. |
+| Source intent | Stigma bestowal; no Seed can be requisitioned to recover preferred evidence or erase a current responsibility. |
 
 **Binding requirement:** The bearer explicitly consents to an unknown present memory of equal emotional weight being temporarily displaced.
 
 **Rejection rule:** If the bearer tries to direct the payment toward an unimportant fact, the Seed instead withholds the requested lost memory and makes the bearer forget why the exchange was attempted.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|

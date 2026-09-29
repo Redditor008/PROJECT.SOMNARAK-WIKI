@@ -204,7 +204,7 @@ The escalation pattern is specific to Door to Nowhere: it is not a generic breac
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Threshold Ward-Staff
 
@@ -242,9 +242,9 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Cost:** The wearer feels every exit denied to someone else.
 
-### M.A.W. Gift — Door to Nowhere Charm
+### M.A.W. Stigma — Door to Nowhere Charm
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
 **Appearance:** a small charm of crimson Han-iron, dark and faintly warm, warm to the touch.
 
@@ -256,11 +256,11 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Cost:** The bearer's temper shortens.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Gift — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

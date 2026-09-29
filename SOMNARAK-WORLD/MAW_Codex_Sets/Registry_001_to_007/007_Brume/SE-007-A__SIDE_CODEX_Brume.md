@@ -77,7 +77,7 @@ Every Brume team must carry a physical route anchor, a Memory Anchor, and a manu
 |---|---|---|---|---|---|
 | **Weapon** | The Hope Lens | γ | Void | Piercing identity pressure that reveals false routes | `SE-007-B__MAW-W_The_Hope_Lens.md` |
 | **Suit** | The Hope Veil | γ | Void | Protects a bearer from fog-induced self-loss | `SE-007-C__MAW-S_The_Hope_Veil.md` |
-| **Gift** | The Hope Lantern | γ | Void | Gives a directional anchor against despair fields | `SE-007-D__MAW-G_The_Hope_Lantern.md` |
+| **Stigma** | The Hope Lantern | γ | Void | Gives a directional anchor against despair fields | `SE-007-D__MAW-G_The_Hope_Lantern.md` |
 
 ### Set Identity
 

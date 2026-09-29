@@ -52,7 +52,7 @@ During the The Calling Bloom Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Calling Bloom's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge The set cannot heal the originating event. Misuse routes Calling Bloom's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Calling Bloom's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge The set cannot heal the originating event. Misuse routes Calling Bloom's wound through the operator and triggers the recorded escalation.
 
 ---
 

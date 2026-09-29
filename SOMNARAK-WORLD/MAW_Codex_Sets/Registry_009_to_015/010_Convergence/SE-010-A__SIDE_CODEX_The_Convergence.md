@@ -75,7 +75,7 @@ Separate the three source Birds. No judgment appeal, confession, mercy plea, or 
 |---|---|---|---|---|---|
 | **Weapon** | The Absolute Maul | δ | Weight | Sealed contingency issue | `SE-010-B__MAW-W_The_Absolute_Maul.md` |
 | **Suit** | The Absolute Mantle | δ | Weight | Sealed contingency issue | `SE-010-C__MAW-S_The_Absolute_Mantle.md` |
-| **Gift** | The Absolute Verdict | δ | Weight | Sealed contingency issue | `SE-010-D__MAW-G_The_Absolute_Verdict.md` |
+| **Stigma** | The Absolute Verdict | δ | Weight | Sealed contingency issue | `SE-010-D__MAW-G_The_Absolute_Verdict.md` |
 
 ### Extraction Status
 

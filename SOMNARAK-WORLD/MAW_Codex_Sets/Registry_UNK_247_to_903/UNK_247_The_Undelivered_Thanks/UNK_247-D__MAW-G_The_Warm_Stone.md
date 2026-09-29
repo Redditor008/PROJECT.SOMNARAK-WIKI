@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Warm Stone
+# M.A.W. STIGMA — The Warm Stone
 
 ---
 
@@ -17,7 +17,7 @@ A smooth, palm-sized river pebble radiating a steady 37°C body warmth, worn str
 | Field | Exact source record |
 |---|---|
 | Official name | The Warm Stone |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | β |
 | Element | Weight |
 | Appearance | A smooth dark river pebble banded with pale white mineral veins, tied to the inner palm with braided hemp. |

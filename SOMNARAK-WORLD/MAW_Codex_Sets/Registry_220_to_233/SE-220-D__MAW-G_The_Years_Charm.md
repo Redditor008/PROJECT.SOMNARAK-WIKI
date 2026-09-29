@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Years Charm
+# M.A.W. STIGMA — The Years Charm
 
 > *“The heaviest date is usually the one the index says never happened.”*
 
@@ -17,7 +17,7 @@
 
 The Years Charm is a small black Han-steel calendar weight worn at the Head slot. It is matte, disproportionately heavy, and engraved with a blank square that warms near an omitted date.
 
-Walking Calendar bestowed it after Marjuk restored a casualty entry with its consequence and authorizing office intact. The Gift’s chance is 4%; it cannot be scheduled or extracted.
+Walking Calendar bestowed it after Marjuk restored a casualty entry with its consequence and authorizing office intact. The Stigma’s chance is 4%; it cannot be scheduled or extracted.
 
 ## Appearance
 
@@ -30,13 +30,13 @@ The Years Charm is a small black Han-steel calendar weight worn at the head slot
 **Effect:** points toward a missing date, excised consequence, or falsely seamless chronology  
 **Cost:** the bearer’s movement slows as unresolved omissions accumulate
 
-During review of a yearly report, the Charm held Marjuk motionless beside a page whose dates were complete. Seiyon found the omission in a footnote that named an evacuation but not the people denied passage. The Gift detects missing consequence as readily as missing calendar data.
+During review of a yearly report, the Charm held Marjuk motionless beside a page whose dates were complete. Seiyon found the omission in a footnote that named an evacuation but not the people denied passage. The Stigma detects missing consequence as readily as missing calendar data.
 
 It does not determine guilt. It identifies where chronology has been made falsely light.
 
 ## SET RELATIONSHIP
 
-In *No Date Removed*, the Charm opens the blank interval. The Years Mantle reads physical layers across it, and the Maul acts only after a complete archive entry. Walking Calendar repeats the blank date softly while the Gift remains hot.
+In *No Date Removed*, the Charm opens the blank interval. The Years Mantle reads physical layers across it, and the Maul acts only after a complete archive entry. Walking Calendar repeats the blank date softly while the Stigma remains hot.
 
 ## CORROSION, FAILURE & RELEASE
 
@@ -50,7 +50,7 @@ In *No Date Removed*, the Charm opens the blank interval. The Years Mantle reads
 
 **Care:** Seiyon compares the marked interval against original, edited, and public versions. Marjuk states what is known, what was concealed, and what remains uncertain. The Charm lightens only when uncertainty is recorded rather than filled.
 
-**Emergency release:** Speak the current date and transfer one defined archival task to another named person. The Gift must not be torn free while the bearer is trying to carry the entire record alone.
+**Emergency release:** Speak the current date and transfer one defined archival task to another named person. The Stigma must not be torn free while the bearer is trying to carry the entire record alone.
 
 ---
 

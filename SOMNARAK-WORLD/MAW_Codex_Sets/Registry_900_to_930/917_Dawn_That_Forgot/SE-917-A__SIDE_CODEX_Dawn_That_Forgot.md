@@ -52,7 +52,7 @@ During the The Dawn That Forgot Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Dawn That Forgot's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dawn That Forgot's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dawn That Forgot's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dawn That Forgot's wound through the operator and triggers the recorded escalation.
 
 ---
 

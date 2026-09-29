@@ -68,7 +68,7 @@ A stable echo forms only after a complete Ferrehan route during which two worker
 |---|---|---:|---|---|
 | Weapon | The Soul Requiem | γ | Cuts an obstruction carrying the sorrow of erased existence. | `SE-233-B__MAW-W_The_Soul_Requiem.md` |
 | Suit | The Soul Shroud | γ | Lets a companion remain beside the walking grief without sealing it away. | `SE-233-C__MAW-S_The_Soul_Shroud.md` |
-| Gift | The Soul Thread | γ | Keeps one fading identity connected to living witnesses without naming it. | `SE-233-D__MAW-G_The_Soul_Thread.md` |
+| Stigma | The Soul Thread | γ | Keeps one fading identity connected to living witnesses without naming it. | `SE-233-D__MAW-G_The_Soul_Thread.md` |
 
 **Set cost:** The operators inherit unwept grief, numb small joys, and hear the erased person during sleep. Using the set to manufacture a biography breaks the connection it exists to protect.
 
@@ -78,7 +78,7 @@ A stable echo forms only after a complete Ferrehan route during which two worker
 
 - **Soul Requiem:** Lament 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use causes involuntary weeping.
 - **Soul Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 3; 35 Echoes. It resists Lament but numbs minor joys.
-- **Soul Thread:** Tail Gift; 4%; +2 Clarity during source work. It keeps a fading identity attached to living presence; the bearer dreams the forgotten person’s grief.
+- **Soul Thread:** Tail Stigma; 4%; +2 Clarity during source work. It keeps a fading identity attached to living presence; the bearer dreams the forgotten person’s grief.
 
 ---
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Lament’s Edge
+# M.A.W. STIGMA — Lament’s Edge
 
 > *“The charm has no blade. It simply remembers where a blade of grief would land.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) |
+| **Type** | Accessory (Stigma) |
 | **Grade** | δ — Critical |
 | **Element** | Lament — Deep Blue |
 | **Slot** | Tail |
@@ -31,7 +31,7 @@ Lament's Edge is a thin blue crystal charm shaped like the broken clapper of a b
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
 **Stat Effect:** +3 when working the Orphaned Bell source record.
 
@@ -47,9 +47,9 @@ The bearer hears the Bell’s midnight toll whenever they leave a child’s ques
 
 ## HISTORY OF USE
 
-### Gift Record — Returned Without a Name
+### Stigma Record — Returned Without a Name
 
-A Lament’s Edge was returned to the Archive in Year 4,236 after its bearer died during a tunnel collapse. The charm remained cold for eleven days. On the twelfth, it rang once and warmed beside an uncatalogued child’s shoe recovered from the collapse site. The name connected to the charm has not been found. The Gift remains in the Deep Archive under a blank marker rather than being reissued.
+A Lament’s Edge was returned to the Archive in Year 4,236 after its bearer died during a tunnel collapse. The charm remained cold for eleven days. On the twelfth, it rang once and warmed beside an uncatalogued child’s shoe recovered from the collapse site. The name connected to the charm has not been found. The Stigma remains in the Deep Archive under a blank marker rather than being reissued.
 
 ---
 

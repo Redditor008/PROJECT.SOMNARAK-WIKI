@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Seedless Pod
+# M.A.W. STIGMA — The Seedless Pod
 
 > *“It keeps one beginning possible. Possible is enough.”*
 
@@ -11,7 +11,7 @@
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
-**Status:** Active — bearer-bound Desolate survey Gift
+**Status:** Active — bearer-bound Desolate survey Stigma
 
 ## IDENTITY & BESTOWAL
 
@@ -21,7 +21,7 @@ Unwitnessed bestowed it after a worker marked the absence and waited through Fer
 
 ## Appearance
 
-The Seedless Pod is a hollow pod of blue Han-crystal worn at the tail slot, and its hollowness is exact — it contains no seed, and never will. When it is assigned to a fragile beginning, one dim point of light appears inside the crystal, a glow that shows that something has started without ever showing its final form. Unwitnessed bestowed it after a worker marked the absence and waited through Ferrehan without planting; manufacturing is impossible. In function it preserves one fragile beginning outside the source boundary — in its recorded trial, the first line of a survivor’s account stayed legible through a Han-storm while imagined complete narratives appeared and vanished around it. The cost is constant and quiet: the bearer feels every future that did not start. The point of light dividing into competing futures is the first corrosion sign, and a Pod that treats completion as death and refuses release is the last. Naming the final form makes the Gift preserve a plan instead of a beginning, and it goes dark if anyone declares its protected outcome mandatory. Care returns it to a neutral site until the protected person or project makes one unpredicted choice.
+The Seedless Pod is a hollow pod of blue Han-crystal worn at the tail slot, and its hollowness is exact — it contains no seed, and never will. When it is assigned to a fragile beginning, one dim point of light appears inside the crystal, a glow that shows that something has started without ever showing its final form. Unwitnessed bestowed it after a worker marked the absence and waited through Ferrehan without planting; manufacturing is impossible. In function it preserves one fragile beginning outside the source boundary — in its recorded trial, the first line of a survivor’s account stayed legible through a Han-storm while imagined complete narratives appeared and vanished around it. The cost is constant and quiet: the bearer feels every future that did not start. The point of light dividing into competing futures is the first corrosion sign, and a Pod that treats completion as death and refuses release is the last. Naming the final form makes the Stigma preserve a plan instead of a beginning, and it goes dark if anyone declares its protected outcome mandatory. Care returns it to a neutral site until the protected person or project makes one unpredicted choice.
 
 ## FUNCTION & COST
 
@@ -34,7 +34,7 @@ Sora bound the Pod to a first line of a survivor’s account, not to the finishe
 
 ## SET RELATIONSHIP
 
-Pod identifies what is actually beginning. Shroud receives unrealized forms and Requiem defends against one current threat. The Gift goes dark if anyone declares its protected outcome mandatory.
+Pod identifies what is actually beginning. Shroud receives unrealized forms and Requiem defends against one current threat. The Stigma goes dark if anyone declares its protected outcome mandatory.
 
 ## CORROSION, FAILURE & RELEASE
 
@@ -42,7 +42,7 @@ Pod identifies what is actually beginning. Shroud receives unrealized forms and 
 - Bearer mourns possibilities before choices occur.
 - The Pod treats completion as death and refuses release.
 
-**Predestination:** naming the final form makes the Gift preserve a plan instead of a beginning.  
+**Predestination:** naming the final form makes the Stigma preserve a plan instead of a beginning.  
 **Capacity grief:** attempting to hold several starts extinguishes all lights.  
 **Source substitution:** placing it in the hollow falsely implies the lost seed was recovered.
 

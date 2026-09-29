@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Mismatched Eye
+# M.A.W. STIGMA — The Mismatched Eye
 
 > *“The Mismatched Eye remembers The Stormscale Sovereign; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Mismatched Eye is the gift record of the The Stormscale Sovereign set — head-slot, bestowed at a rare 2% observed rate with a +3 bonus when working the source — and its canonical ability grants, briefly, the Sovereign's own sight: all four sorrows seen at once, any entity's full elemental nature read at a glance. Binding names the Sovereign's event — the fish that ate the dragon-stone caused a hundred-year rain, wished only for it to end, became the Sovereign, called the rain back, and fell again into a small fish, memory sealed, hunger remaining — and accepts the set's limit: no reliable suppression exists — evacuate and prevent reunion. The cost: the bearer dreams of being two things at once and wakes uncertain which they are. The source- trace fixed doctrine: studied calmly, the cycling field slowed enough to map, its instability measurable, and the Eye opens the hazard only after attribution to the Sovereign. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Mismatched Eye is the stigma record of the The Stormscale Sovereign set — head-slot, bestowed at a rare 2% observed rate with a +3 bonus when working the source — and its canonical ability grants, briefly, the Sovereign's own sight: all four sorrows seen at once, any entity's full elemental nature read at a glance. Binding names the Sovereign's event — the fish that ate the dragon-stone caused a hundred-year rain, wished only for it to end, became the Sovereign, called the rain back, and fell again into a small fish, memory sealed, hunger remaining — and accepts the set's limit: no reliable suppression exists — evacuate and prevent reunion. The cost: the bearer dreams of being two things at once and wakes uncertain which they are. The source- trace fixed doctrine: studied calmly, the cycling field slowed enough to map, its instability measurable, and the Eye opens the hazard only after attribution to the Sovereign. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Mismatched Eye is the gift record of the The Stormscale Sovereign set — he
 
 **Operational / binding cost:** The bearer dreams, nightly, of being two things at once — and wakes uncertain, for a moment, which one they are. Continued use makes Stormscale Sovereign's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Stigma Record*
 
-The first The Mismatched Eye field bearer encountered this source response: Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. The gift opens the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Mismatched Eye field bearer encountered this source response: Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. The stigma opens the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Mismatched Eye field bearer encountered this source response: Stud
 
 ## SET RELATIONSHIP
 
-Within *The Stormscale Sovereign — Witnessed Form*, The Mismatched Eye performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Stormscale Sovereign — Witnessed Form*, The Mismatched Eye performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

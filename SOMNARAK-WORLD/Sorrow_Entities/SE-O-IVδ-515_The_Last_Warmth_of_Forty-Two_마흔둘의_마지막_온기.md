@@ -190,7 +190,7 @@ The escalation pattern is specific to The Last Warmth of Forty-Two: it is not a 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Glacial Outrider Lance
@@ -229,9 +229,9 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 
 **Cost:** The wearer feels an overwhelming desire to hold hands with nearby allies, terrified of being left behind.
 
-### M.A.W. Gift — The Solder Badge
+### M.A.W. Stigma — The Solder Badge
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
 **Appearance:** A lead-and-tin solder medallion worn at the throat, warm to the touch (36.5°C) and faintly pulsing with multi-vocal whispers.
 

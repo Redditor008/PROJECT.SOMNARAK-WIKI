@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Singing Pebble
+# M.A.W. STIGMA — The Singing Pebble
 
 > *“It begins singing when a person is about to give up on being heard.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — blue pebble |
+| Type | Accessory (Stigma) — blue pebble |
 | Grade | β — Moderate |
 | Element | Lament — Deep Blue |
 | Slot | Tail |

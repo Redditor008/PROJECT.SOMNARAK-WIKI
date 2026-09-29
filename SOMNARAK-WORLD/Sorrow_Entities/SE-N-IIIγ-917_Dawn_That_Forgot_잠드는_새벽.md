@@ -184,16 +184,16 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Void damage, protecting against the dream register of sorrow.
 
-### M.A.W. Gift — Dawn That Forgot's Token
+### M.A.W. Stigma — Dawn That Forgot's Token
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
 **Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

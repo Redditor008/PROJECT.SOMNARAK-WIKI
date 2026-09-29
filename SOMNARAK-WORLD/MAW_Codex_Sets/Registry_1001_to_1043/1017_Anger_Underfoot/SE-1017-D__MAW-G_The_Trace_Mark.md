@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Trace Mark
+# M.A.W. STIGMA — The Trace Mark
 
 > *“The Trace Mark remembers Anger Underfoot; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer carries the anger of every person who walked it. Continued use makes Anger Underfoot's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Stigma Record*
 
-The first The Trace Mark field bearer encountered this source response: Shows the sequence of events that left it. The gift interrupts the immediate hazard only after the team attributed it to Anger Underfoot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Trace Mark field bearer encountered this source response: Shows the sequence of events that left it. The stigma interrupts the immediate hazard only after the team attributed it to Anger Underfoot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Trace Mark field bearer encountered this source response: Shows th
 
 ## SET RELATIONSHIP
 
-Within *Anger Underfoot — Witnessed Form*, The Trace Mark performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Anger Underfoot — Witnessed Form*, The Trace Mark performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

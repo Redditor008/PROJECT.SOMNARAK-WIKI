@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Flowing Charm
+# M.A.W. STIGMA — The Flowing Charm
 
 > *“The Flowing Charm remembers Relic of a Thousand Owners; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Flowing Charm is the gift record of the Relic of a Thousand Owners’ set — tail- slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to the Relic’s sorrow, shaped like the wandering it embodies. Binding names the source event — a relic passed from one exile to another until its history became a wandering figure — and accepts the set’s limit: do not claim ownership; document its owners. The cost arrives at night: the bearer weeps in their sleep, the carried exiles grieving on their own schedule, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the chain of exiles who carried it — the full succession of hands made visible, exactly what the limit demands documented — and it marked the immediate hazard only after attribution to the Relic. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Flowing Charm is the stigma record of the Relic of a Thousand Owners’ set — tail- slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to the Relic’s sorrow, shaped like the wandering it embodies. Binding names the source event — a relic passed from one exile to another until its history became a wandering figure — and accepts the set’s limit: do not claim ownership; document its owners. The cost arrives at night: the bearer weeps in their sleep, the carried exiles grieving on their own schedule, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the chain of exiles who carried it — the full succession of hands made visible, exactly what the limit demands documented — and it marked the immediate hazard only after attribution to the Relic. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Flowing Charm is the gift record of the Relic of a Thousand Owners’ set �
 
 **Operational / binding cost:** The bearer weeps in their sleep. Continued use makes Relic of a Thousand Owners's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Stigma Record*
 
-The first The Flowing Charm field bearer encountered this source response: Reveals the chain of exiles who carried it. The gift marks the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Flowing Charm field bearer encountered this source response: Reveals the chain of exiles who carried it. The stigma marks the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Flowing Charm field bearer encountered this source response: Revea
 
 ## SET RELATIONSHIP
 
-Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

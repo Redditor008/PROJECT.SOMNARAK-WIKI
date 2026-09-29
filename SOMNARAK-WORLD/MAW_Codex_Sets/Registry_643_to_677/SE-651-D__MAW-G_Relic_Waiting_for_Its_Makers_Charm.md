@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Relic Waiting for Its Maker’s Charm
+# M.A.W. STIGMA — Relic Waiting for Its Maker’s Charm
 
 > *“It keeps one symbol intact and takes one word from anyone who rushes to translate it.”*
 

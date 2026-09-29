@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Crying Ember
+# M.A.W. STIGMA — The Crying Ember
 
 > *“The Crying Ember remembers Keen; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer hears grief even where no sound exists. Continued use makes Keen's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Stigma Record*
 
-The first The Crying Ember field bearer encountered this source response: Reveals the original moment of mourning. The gift witnesses the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Crying Ember field bearer encountered this source response: Reveals the original moment of mourning. The stigma witnesses the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Crying Ember field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Keen — Witnessed Form*, The Crying Ember performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Keen — Witnessed Form*, The Crying Ember performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

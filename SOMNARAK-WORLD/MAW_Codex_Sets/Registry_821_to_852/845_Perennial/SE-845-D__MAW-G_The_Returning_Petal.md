@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Returning Petal
+# M.A.W. STIGMA — The Returning Petal
 
 > *“The Returning Petal remembers Perennial; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Returning Petal is the gift record of Perennial’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is genealogical: it reveals karmic connections to a place or object, the debts and bonds under a site made visible before anyone rebuilds. Binding names Perennial’s event — a settlement founded, abandoned, rebuilt, and abandoned again, each return layering grief into the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The cost extends the ability’s reach inward: the wearer feels the weight of every return and abandonment they observe, each revealed connection landing on the revealer, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the settlement’s cycles of return and loss — the full stratigraphy of founding and leaving — and it discharged the immediate hazard only after attribution to Perennial. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Petal is the stigma record of Perennial’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is genealogical: it reveals karmic connections to a place or object, the debts and bonds under a site made visible before anyone rebuilds. Binding names Perennial’s event — a settlement founded, abandoned, rebuilt, and abandoned again, each return layering grief into the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The cost extends the ability’s reach inward: the wearer feels the weight of every return and abandonment they observe, each revealed connection landing on the revealer, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the settlement’s cycles of return and loss — the full stratigraphy of founding and leaving — and it discharged the immediate hazard only after attribution to Perennial. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Returning Petal is the gift record of Perennial’s set — head-slot, besto
 
 **Operational / binding cost:** The wearer feels the weight of every return and abandonment they observe. Continued use makes Perennial's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Stigma Record*
 
-The first The Returning Petal field bearer encountered this source response: Reveals the settlement's cycles of return and loss. The gift discharges the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Returning Petal field bearer encountered this source response: Reveals the settlement's cycles of return and loss. The stigma discharges the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Returning Petal field bearer encountered this source response: Rev
 
 ## SET RELATIONSHIP
 
-Within *Perennial — Witnessed Form*, The Returning Petal performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Perennial — Witnessed Form*, The Returning Petal performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

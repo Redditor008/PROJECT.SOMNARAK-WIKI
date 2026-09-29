@@ -52,7 +52,7 @@ During the The Undersong Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Undersong's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Answer: “I hear you.” Never promise help you cannot provide The set cannot heal the originating event. Misuse routes Undersong's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Undersong's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Answer: “I hear you.” Never promise help you cannot provide The set cannot heal the originating event. Misuse routes Undersong's wound through the operator and triggers the recorded escalation.
 
 ---
 

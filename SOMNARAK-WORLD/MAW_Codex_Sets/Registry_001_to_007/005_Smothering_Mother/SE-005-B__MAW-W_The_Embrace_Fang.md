@@ -70,7 +70,7 @@ Every use makes the bearer remember a person who left without returning. At thre
 
 ## SET RESONANCE
 
-With Plate and Gift, the Fang can intercept one escape path aimed at a marked ally. The set then imposes a retreat lock on the bearer until another responder formally assumes the ally’s safety.
+With Plate and Stigma, the Fang can intercept one escape path aimed at a marked ally. The set then imposes a retreat lock on the bearer until another responder formally assumes the ally’s safety.
 
 ---
 

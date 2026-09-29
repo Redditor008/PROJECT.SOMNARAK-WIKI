@@ -61,7 +61,7 @@
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-FRAY The Hydraulic Slag-Breaker` (Grade 4 Heavy Piston Maul)
   * **Suit:** `MAW-S-FRAY Heavy Kinetic Breacher Plating` (Grade 4 Weight-Resistant Armor)
-  * **Gift:** `MAW-G-FRAY Slag-Tempered Eye` (Grade 4 Thermal Visor)
+  * **Stigma:** `MAW-G-FRAY Slag-Tempered Eye` (Grade 4 Thermal Visor)
 - **Signature Combat Skills:**
   * *Pneumatic Door Breach (2 AP • Band 1 • Base 26):* Smashes hydraulic piston directly into environmental cover, instantly obliterating destructible barricades and dealing 45 Blunt damage to adjacent foes.
   * *Kinetic Deflection Stance (1 AP • Self • Base 22):* Raises heavy ballistic plate; fortifies Posture by +35 points and reflects 15% of physical damage.
@@ -75,7 +75,7 @@
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-015 The Cauterizing Torch` (Grade 4 Piercing / Thermal Welder)
   * **Suit:** `MAW-S-015 The Asbestos Veil` (Grade 4 Slag-Proof Shroud)
-  * **Gift:** `MAW-G-015 The Usury Lens` (Grade 4 Ocular Analyzer)
+  * **Stigma:** `MAW-G-015 The Usury Lens` (Grade 4 Ocular Analyzer)
 - **Signature Combat Skills:**
   * *Suture Wire Severance (1 AP • Band 1 • Utility):* Fires a high-temperature thermal jet at the floor, instantly melting all multi-node wire traps on the occupied node.
   * *Debt Cauterization (2 AP • Band 1-2 • Base 22):* Burns away embedded usury needles from an ally; purges up to 3 Debt Marks and restores 25 Composure.
@@ -89,7 +89,7 @@
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-021 Dual Trench Shotguns` (Grade 4 Kinetic / Piercing)
   * **Suit:** `MAW-S-021 Reinforced Trench Coat` (Grade 4 Agile Ballistic Coat)
-  * **Gift:** `MAW-G-021 Smog Visor` (Grade 4 Respirator Mask)
+  * **Stigma:** `MAW-G-021 Smog Visor` (Grade 4 Respirator Mask)
 - **Signature Combat Skills:**
   * *Buckshot Point-Blank Flurry (2 AP • Band 1 • Base 27):* Discharges both shotgun barrels; fires 3 rapid pellets dealing 20/20/25 kinetic damage. Eliminates low-tier syndicate husks in 1 volley.
   * *Alleyway Vault (1 AP • Band 1-2 • Utility):* Leaps over the frontline, advancing 2 nodes forward without expending movement penalties.
@@ -103,7 +103,7 @@
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-016 Pneumatic Harpoon Rig` (Grade 4 Heavy Piercing Ballista)
   * **Suit:** `MAW-S-016 Winch Harness Plate` (Grade 4 Anchor Harness)
-  * **Gift:** `MAW-G-016 The Tension Gauge` (Grade 4 Pressure Regulator)
+  * **Stigma:** `MAW-G-016 The Tension Gauge` (Grade 4 Pressure Regulator)
 - **Signature Combat Skills:**
   * *Barbed Harpoon Anchor (2 AP • Band 3-4 • Base 25):* Fires a barbed steel spike connected to a 200kg tensile cable; deals 35 Piercing damage and locks the target into a *Cable Tether*.
   * *Hydraulic Winch Drag (2 AP • Band 2-4 • Base 26):* Engages steam winches to forcibly drag a tethered enemy 2 nodes forward, pulling backline bosses into point-blank shotgun range.
@@ -196,7 +196,7 @@ The UCD authorizes attuning specialized underworld historical engrams to maximiz
 +=====================================================================+
 |             RECOMMENDED M.A.W. LOADOUT & ENGRAM MANIFEST            |
 +=====================================================================+
-| ROLE          | WEAPON (W)     | SUIT (S)         | GIFT (G)        |
+| ROLE          | WEAPON (W)     | SUIT (S)         | STIGMA (G)      |
 +---------------------------------------------------------------------+
 | Heavy Breacher| Hydraulic Maul | Breacher Plating | Slag-Eye Visor  |
 | Debt Cauterize| Cauterize Torch| Asbestos Veil    | Usury Lens      |

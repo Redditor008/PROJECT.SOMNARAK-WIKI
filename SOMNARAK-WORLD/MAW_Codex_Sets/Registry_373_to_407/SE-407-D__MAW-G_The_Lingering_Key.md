@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Lingering Key
+# M.A.W. STIGMA — The Lingering Key
 
 > *“It opens one fragment and loosens certainty somewhere in the present.”*
 

@@ -178,7 +178,7 @@ The escalation pattern is specific to Heirloom: it is not a generic breach event
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Echoing Zweihander
 
@@ -217,9 +217,9 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Cost:** The wearer's reflexes dull, as if armored by resentment.
 
-### M.A.W. Gift — The Echo Flame
+### M.A.W. Stigma — The Echo Flame
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
 **Appearance:** a flame-charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
@@ -231,11 +231,11 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Cost:** The lantern burns away one of the user's own repeated memories.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Gifts. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

@@ -21,7 +21,7 @@ This working batch replaces the generic repeated-prose edition identified by Cod
 - `SE-210` has no documented formal-number collision in the continuation handoff. The formal number remains assigned to Levity.
 - `SE-215` has no documented formal-number collision in the continuation handoff. The formal number remains assigned to Name No One Remembers.
 - `SE-219` has no documented formal-number collision in the continuation handoff. The formal number remains assigned to Splinter.
-- Side / Weapon / Suit / Gift suffixes are fixed as `-A` / `-B` / `-C` / `-D`.
+- Side / Weapon / Suit / Stigma suffixes are fixed as `-A` / `-B` / `-C` / `-D`.
 - Equipment registry codes remain separate from formal document IDs.
 
 ## Current-Era Rule

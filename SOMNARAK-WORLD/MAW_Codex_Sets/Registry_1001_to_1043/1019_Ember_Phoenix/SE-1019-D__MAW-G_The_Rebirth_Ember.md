@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Rebirth Ember
+# M.A.W. STIGMA — The Rebirth Ember
 
 > *“The Rebirth Ember remembers Ember Phoenix; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer returns carrying the emotional memory of dying. Continued use makes Ember Phoenix's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Stigma Record*
 
-The first The Rebirth Ember field bearer encountered this source response: Shows memories from previous cycles. The gift stays the immediate hazard only after the team attributed it to Ember Phoenix. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Rebirth Ember field bearer encountered this source response: Shows memories from previous cycles. The stigma stays the immediate hazard only after the team attributed it to Ember Phoenix. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Rebirth Ember field bearer encountered this source response: Shows
 
 ## SET RELATIONSHIP
 
-Within *Ember Phoenix — Witnessed Form*, The Rebirth Ember performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Ember Phoenix — Witnessed Form*, The Rebirth Ember performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

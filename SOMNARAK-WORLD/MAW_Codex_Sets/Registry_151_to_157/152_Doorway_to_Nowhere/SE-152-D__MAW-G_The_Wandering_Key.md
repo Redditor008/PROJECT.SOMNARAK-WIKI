@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Wandering Key
+# M.A.W. STIGMA — The Wandering Key
 
 > *“It opens a remembered place for a moment. When it closes, the bearer feels every reason the place cannot be held.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Wandering Key |
 | Set | Carried Threshold |
-| Type / grade / element | Gift, blue key-charm / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue key-charm / β — Moderate / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; paired passage use |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 5% after successful Doorway to Nowhere work |
 | Bestowal event | The Key appeared after a worker closed an empty-home threshold and returned to their partner without asking the Door to reopen. |
 | Acceptance condition | The candidate names the remembered place and the person responsible for their return. |
-| Source intent | Gift bestowal; it is not a travel permit, Gate key, or tool for avoiding current obligations. |
+| Source intent | Stigma bestowal; it is not a travel permit, Gate key, or tool for avoiding current obligations. |
 
 **Binding requirement:** The bearer agrees that every opening closes on the return partner’s cue.
 
@@ -43,7 +43,7 @@
 
 The Wandering Key is a small deep-blue key charm of Han metal with no teeth, its shaft smooth and its bow shaped like a doorframe. It is cool at rest and warms only when a remembered doorway is near. When a return partner holds the physical side of the passage and confirms the current anchor and closure cue, the key outlines a narrow temporary threshold toward one remembered place, bright enough to read but not wide enough to pass through alone. It opens a passage for orientation, farewell, or limited recovery, and the partner remains on the current side. It carries no Echo cost and allows one temporary remembered passage per anchor plan. It is stored beside a current location card, never a relic from the lost home. If turned without a partner, it opens only onto the bearer's sense of loss and leaves them unable to find the present exit until grounded. The partner closes the key clasp and states the present landmark during shutdown.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|

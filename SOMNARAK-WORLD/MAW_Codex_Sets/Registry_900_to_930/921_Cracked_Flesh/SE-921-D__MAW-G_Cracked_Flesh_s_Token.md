@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Fissured Skin Stigma
+# M.A.W. STIGMA — The Fissured Skin Stigma
 
 > *“The Fissured Skin Stigma remembers Cracked Flesh; the bearer must not mistake memory for permission.”*
 
@@ -21,18 +21,18 @@
 
 ## Appearance
 
-The Fissured Skin Stigma is the gift record of the Cracked Flesh set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's body sorrow, crystallized into wearable form, one shard of the broken surface carried whole. Binding names Cracked Flesh's event — Not recorded, the wound outlasting every account of the blow — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a sharpening: old injuries and old resentments whet themselves whenever the gift is used, the bearer's scars remembering their grievances in order. The source-trace fixed doctrine: the hazard permits study, its body pressure becoming legible under sustained observation, and the Token interrupts the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Fissured Skin Stigma is the stigma record of the Cracked Flesh set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's body sorrow, crystallized into wearable form, one shard of the broken surface carried whole. Binding names Cracked Flesh's event — Not recorded, the wound outlasting every account of the blow — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a sharpening: old injuries and old resentments whet themselves whenever the stigma is used, the bearer's scars remembering their grievances in order. The source-trace fixed doctrine: the hazard permits study, its body pressure becoming legible under sustained observation, and the Token interrupts the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer feels old injuries and old resentments sharpen whenever the gift is used. Continued use makes Cracked Flesh's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used. Continued use makes Cracked Flesh's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Stigma Record*
 
-The first The Fissured Skin Stigma field bearer encountered this source response: Permits study; the body pressure becomes legible under sustained observation. The gift interrupts the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Fissured Skin Stigma field bearer encountered this source response: Permits study; the body pressure becomes legible under sustained observation. The stigma interrupts the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Fissured Skin Stigma field bearer encountered this source response
 
 ## SET RELATIONSHIP
 
-Within *Cracked Flesh — Witnessed Form*, The Fissured Skin Stigma performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cracked Flesh — Witnessed Form*, The Fissured Skin Stigma performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

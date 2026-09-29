@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Returning Leaf
+# M.A.W. STIGMA — The Returning Leaf
 
 > *“The Returning Leaf remembers Homecoming Tree; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Returning Leaf is the gift record of the Homecoming Tree’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is honest retrospection: it reveals the memory of a place before it was altered, the old settlement shown as record, not claim. Binding names the source event — a displaced community returned to its border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. Its cost is communal: the wearer feels the grief of every person who returned too late, each reading attended by the delayed homecoming, and prolonged use makes the sorrow autobiographical. The source- trace fixed doctrine: the gift shows the settlement before and after abandonment — both states in one view, the change itself the subject — and it discharged the hazard only after attribution to the Tree. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Leaf is the stigma record of the Homecoming Tree’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is honest retrospection: it reveals the memory of a place before it was altered, the old settlement shown as record, not claim. Binding names the source event — a displaced community returned to its border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. Its cost is communal: the wearer feels the grief of every person who returned too late, each reading attended by the delayed homecoming, and prolonged use makes the sorrow autobiographical. The source- trace fixed doctrine: the stigma shows the settlement before and after abandonment — both states in one view, the change itself the subject — and it discharged the hazard only after attribution to the Tree. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Returning Leaf is the gift record of the Homecoming Tree’s set — tail-sl
 
 **Operational / binding cost:** The wearer feels the grief of every person who returned too late. Continued use makes Homecoming Tree's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Stigma Record*
 
-The first The Returning Leaf field bearer encountered this source response: Shows the settlement before and after abandonment. The gift discharges the immediate hazard only after the team attributed it to Homecoming Tree. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Returning Leaf field bearer encountered this source response: Shows the settlement before and after abandonment. The stigma discharges the immediate hazard only after the team attributed it to Homecoming Tree. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Returning Leaf field bearer encountered this source response: Show
 
 ## SET RELATIONSHIP
 
-Within *Homecoming Tree — Witnessed Form*, The Returning Leaf performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Homecoming Tree — Witnessed Form*, The Returning Leaf performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

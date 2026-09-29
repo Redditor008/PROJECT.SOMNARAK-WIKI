@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Ruin Charm
+# M.A.W. STIGMA — The Ruin Charm
 
 > *“The Ruin Charm remembers Repose; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Ruin Charm is the gift record of Repose’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Repose’s sorrow, shaped like the sleep it embodies. Binding names Repose’s event — an Outside Sorrow settlement collapsed, and its last survivor carried the ruin into a sleep that became permanent — and accepts the set’s limit: do not wake it; reduce noise and acknowledge the dead. The cost arrives at night: the bearer weeps in their sleep, grieving on the sleeper’s schedule rather than their own, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the settlement’s final day — the collapse the survivor carried into sleep, made legible without waking the sleeper for testimony — and it stabilized the immediate hazard only after attribution to Repose. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Ruin Charm is the stigma record of Repose’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Repose’s sorrow, shaped like the sleep it embodies. Binding names Repose’s event — an Outside Sorrow settlement collapsed, and its last survivor carried the ruin into a sleep that became permanent — and accepts the set’s limit: do not wake it; reduce noise and acknowledge the dead. The cost arrives at night: the bearer weeps in their sleep, grieving on the sleeper’s schedule rather than their own, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the settlement’s final day — the collapse the survivor carried into sleep, made legible without waking the sleeper for testimony — and it stabilized the immediate hazard only after attribution to Repose. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Ruin Charm is the gift record of Repose’s set — tail-slot, bestowed at a
 
 **Operational / binding cost:** The bearer weeps in their sleep. Continued use makes Repose's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Stigma Record*
 
-The first The Ruin Charm field bearer encountered this source response: Reveals the settlement's final day. The gift stabilizes the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Ruin Charm field bearer encountered this source response: Reveals the settlement's final day. The stigma stabilizes the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Ruin Charm field bearer encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Repose — Witnessed Form*, The Ruin Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Repose — Witnessed Form*, The Ruin Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

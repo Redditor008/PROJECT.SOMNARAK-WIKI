@@ -179,7 +179,7 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Comforting Coil
 
@@ -215,9 +215,9 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
 
-### M.A.W. Gift — The Tear Pendant
+### M.A.W. Stigma — The Tear Pendant
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
 **Appearance:** a pendant of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
 
@@ -229,11 +229,11 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Cost:** The bearer weeps without cause at odd hours and cannot always say for whom.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — patience, gentleness, presence; forcing a piece toward aggression amplifies the cost and may trigger an echo of the source entity's grief. The Gift is granted at random by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — patience, gentleness, presence; forcing a piece toward aggression amplifies the cost and may trigger an echo of the source entity's grief. The Stigma is granted at random by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

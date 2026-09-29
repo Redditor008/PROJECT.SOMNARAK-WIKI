@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Unsaid Petal
+# M.A.W. STIGMA — The Unsaid Petal
 
 > *“It remembers the listener you meant. It does not pretend the listener is still here to answer.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Unsaid Petal |
 | Set | Last Sentences |
-| Type / grade / element | Gift, crystal petal / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Stigma, crystal petal / β — Moderate / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; one-sentence use requires a welfare witness |
 | Known bearer | Specialist Sooah Park |
@@ -33,13 +33,13 @@
 | Acquisition probability | 5% after successful Unsaid Blossoms work |
 | Bestowal event | A petal settled in Park’s open hand after Park spoke a current truth to a living colleague and left the grave without taking a blossom. |
 | Acceptance condition | The bearer states that the intended listener is a memory, not a captive audience. |
-| Source intent | Gift bestowal; no petal may be picked from the tree or paid for with Echoes. |
+| Source intent | Stigma bestowal; no petal may be picked from the tree or paid for with Echoes. |
 
 **Binding requirement:** The bearer identifies a single withheld sentence that belongs to them and accepts the sentence will not be revised after activation.
 
 **Rejection rule:** If used to prosecute another person’s grief or secure an apology, the Petal whispers the bearer’s own sentence back forever faintly until it is sealed.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -63,12 +63,12 @@ The Petal holds a sensory impression of the intended listener as a memory associ
 
 **Trigger:** The bearer speaks the chosen sentence aloud in the presence of the designated welfare witness.  
 **Effect:** The sentence reaches a memory of the intended listener with complete emotional clarity; the bearer may feel as though the person heard it.  
-**Limit:** No answer is returned. The Gift cannot send messages to the living, alter history, or produce forgiveness.  
+**Limit:** No answer is returned. The Stigma cannot send messages to the living, alter history, or produce forgiveness.  
 **Hidden condition:** Attempts to add a second sentence dissolve the first glow and leave the bearer with only their unaltered memory of what was said.
 
 ## HISTORY OF USE
 
-Park used the Petal during a private archive-witness session to say a farewell that had been postponed beyond a family death. The Petal glowed once, then became clear. Park waited for an answer, received none, and later wrote that the Gift had given the sentence a place to go—not a reason to avoid speaking more honestly to the living.
+Park used the Petal during a private archive-witness session to say a farewell that had been postponed beyond a family death. The Petal glowed once, then became clear. Park waited for an answer, received none, and later wrote that the Stigma had given the sentence a place to go—not a reason to avoid speaking more honestly to the living.
 
 ## CORROSION, MAINTENANCE & SHUTDOWN
 
@@ -78,7 +78,7 @@ Park used the Petal during a private archive-witness session to say a farewell t
 
 **Maintenance:** The Petal rests on an unmarked blue cloth with the sentence written once on paper. After activation, the paper is stored in the bearer’s private consequence file, never used as evidence against them.
 
-**Emergency shutdown:** Before the sentence is spoken, the witness folds the cloth over the Petal and says that silence is permitted. After the sentence is spoken, the Gift has completed its function and only welfare follow-up remains.
+**Emergency shutdown:** Before the sentence is spoken, the witness folds the cloth over the Petal and says that silence is permitted. After the sentence is spoken, the Stigma has completed its function and only welfare follow-up remains.
 
 ## SET RELATIONSHIP
 

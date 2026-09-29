@@ -184,16 +184,16 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
 
-### M.A.W. Gift — Moktak's Token
+### M.A.W. Stigma — Moktak's Token
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
 **Appearance:** a coin-token of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

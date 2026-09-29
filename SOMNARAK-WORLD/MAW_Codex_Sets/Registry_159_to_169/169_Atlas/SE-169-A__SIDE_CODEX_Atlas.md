@@ -87,7 +87,7 @@ The set provides minor structural and Weight support. It must never be issued to
 |---|---|---:|---|---|---|
 | Weapon | The Rusted Maul | α | Weight | Small direct response to overloaded support pressure | `SE-169-B__MAW-W_The_Rusted_Maul.md` |
 | Suit | The Rusted Brace | α | Weight | Structure support with relief requirement | `SE-169-C__MAW-S_The_Rusted_Brace.md` |
-| Gift | The Rusted Charm | α | Weight | Identifies a support task needing rotation | `SE-169-D__MAW-G_The_Rusted_Charm.md` |
+| Stigma | The Rusted Charm | α | Weight | Identifies a support task needing rotation | `SE-169-D__MAW-G_The_Rusted_Charm.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set provides minor structural and Weight support. It must never be issued to
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Rusted Charm
+### M.A.W. Stigma — The Rusted Charm
 
 | Field | Record |
 |---|---|

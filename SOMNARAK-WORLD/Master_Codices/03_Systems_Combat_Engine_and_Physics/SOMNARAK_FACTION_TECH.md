@@ -263,7 +263,7 @@ The Directorate classifies departmental leadership and elite personnel across fi
 The apparatus used to transfer a living human consciousness and soul into an Android platform. Through extreme resonant cooling and Han-magnetic alignment, the subject's neural waveform is anchored into synthetic sorrow-forged lattices, preserving identity, memories, and personal willpower while eliminating biological vulnerability to physical aging and disease.
 
 ##### 2. The Lament Well & M.A.W. Extraction Rigs
-Facility 01's industrial heart. The Lament Well isolates Sorrow Entities within frequency-locked magnetic fields, using sympathetic resonance tuning to safely draw Han energy. Adjacent Extraction Rigs compress high-density entity sorrow into specialized weaponry (Weapons), defensive garments (Suits), and stigmatic resonance charms (Gifts) graded from α (Minor) to δ (Critical).
+Facility 01's industrial heart. The Lament Well isolates Sorrow Entities within frequency-locked magnetic fields, using sympathetic resonance tuning to safely draw Han energy. Adjacent Extraction Rigs compress high-density entity sorrow into specialized weaponry (Weapons), defensive garments (Suits), and stigmatic resonance charms (Stigmas) graded from α (Minor) to δ (Critical).
 
 ##### 3. The Mnemonic Stabilization Generator
 A massive subterranean dampening engine that radiates continuous harmonic waves throughout Facility 01. The generator enforces structural and mental reality cohesion, preventing containment sectors from collapsing into localized hallucinatory space during entity distress or severe Han spikes.

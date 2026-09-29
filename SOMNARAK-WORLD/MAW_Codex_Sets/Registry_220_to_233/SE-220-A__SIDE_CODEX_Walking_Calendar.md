@@ -67,7 +67,7 @@ A M.A.W. echo may be drawn only when Walking Calendar releases a date after the 
 |---|---|---:|---|---|
 | Weapon | The Years Maul | δ | Strikes through a line by giving denied consequence its full date-weight. | `SE-220-B__MAW-W_The_Years_Maul.md` |
 | Suit | The Years Mantle | δ | Protects against historical and temporal Weight while exposing material age. | `SE-220-C__MAW-S_The_Years_Mantle.md` |
-| Gift | The Years Charm | δ | Identifies an omitted date or consequence in the source chronology. | `SE-220-D__MAW-G_The_Years_Charm.md` |
+| Stigma | The Years Charm | δ | Identifies an omitted date or consequence in the source chronology. | `SE-220-D__MAW-G_The_Years_Charm.md` |
 
 **Set cost:** Every use advances the operator’s felt age and weakens present-time awareness. The set becomes heavier whenever its record omits responsibility for convenience.
 
@@ -77,7 +77,7 @@ A M.A.W. echo may be drawn only when Walking Calendar releases a date after the 
 
 - **Years Maul:** Weight 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. The wielder grows heavier and ages slightly with prolonged use.
 - **Years Mantle:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 2; 45 Echoes. It reveals the age of everything touched and can bury the wearer beneath accumulated context.
-- **Years Charm:** Head Gift; 4%; +3 Resolve during source work. It draws attention to missing dates; the bearer’s movement slows with every omission held open.
+- **Years Charm:** Head Stigma; 4%; +3 Resolve during source work. It draws attention to missing dates; the bearer’s movement slows with every omission held open.
 
 ---
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Unmelting Teardrop Brooch
+# M.A.W. STIGMA — The Unmelting Teardrop Brooch
 
 > *“The Unmelting Teardrop Brooch remembers Icedrop; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer becomes more easily moved to tears. Continued use makes Icedrop's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Stigma Record*
 
-The first The Unmelting Teardrop Brooch field bearer encountered this source response: Reveals the instant the tear crystallized. The gift contains the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Unmelting Teardrop Brooch field bearer encountered this source response: Reveals the instant the tear crystallized. The stigma contains the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Unmelting Teardrop Brooch field bearer encountered this source res
 
 ## SET RELATIONSHIP
 
-Within *Icedrop — Witnessed Form*, The Unmelting Teardrop Brooch performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Icedrop — Witnessed Form*, The Unmelting Teardrop Brooch performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

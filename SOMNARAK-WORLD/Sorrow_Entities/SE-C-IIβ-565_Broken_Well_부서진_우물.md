@@ -166,7 +166,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — Broken Well Fang
 
@@ -202,9 +202,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Cost:** The wearer's reflexes dull, as if armored by resentment.
 
-### M.A.W. Gift — Broken Well Lantern
+### M.A.W. Stigma — Broken Well Lantern
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
 **Appearance:** a tiny lantern of crimson Han-iron, dark and faintly warm, warm to the touch.
 
@@ -216,11 +216,11 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Cost:** The wearer sees every failed rescue in the light.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Gifts. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

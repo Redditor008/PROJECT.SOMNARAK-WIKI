@@ -52,7 +52,7 @@ During the The Hour the Dead Walk Source-Trace, the field team preserved this so
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Hour the Dead Walk's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Hour the Dead Walk's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Hour the Dead Walk's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Hour the Dead Walk's wound through the operator and triggers the recorded escalation.
 
 ---
 

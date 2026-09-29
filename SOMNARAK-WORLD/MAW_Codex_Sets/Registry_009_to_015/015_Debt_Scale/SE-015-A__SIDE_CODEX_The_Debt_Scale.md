@@ -77,7 +77,7 @@ The Scale may be impartial in measurement and still be used unjustly. Every offi
 |---|---|---|---|---|---|
 | **Weapon** | The Balance Lens | β | Void | Focuses debt readings into single-target identity pressure | `SE-015-B__MAW-W_The_Balance_Lens.md` |
 | **Suit** | The Balance Veil | β | Void | Protects the wearer from being consumed by a reading | `SE-015-C__MAW-S_The_Balance_Veil.md` |
-| **Gift** | The Balance Pendant | β | Void | Displays another person’s measured burden | `SE-015-D__MAW-G_The_Balance_Pendant.md` |
+| **Stigma** | The Balance Pendant | β | Void | Displays another person’s measured burden | `SE-015-D__MAW-G_The_Balance_Pendant.md` |
 
 ### Set Resonance — Equal Measure
 

@@ -87,7 +87,7 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 |---|---|---:|---|---|---|
 | Weapon | The Phantom Dancer's Tri-Daggers | β | Grudge | Short-range response to physical restraint | `SE-099-B__MAW-W_The_Dancing_Fang.md` |
 | Suit | The Performer's Silk Robe & Ghostly Stole | β | Grudge | Moving defense with a mandatory rest cue | `SE-099-C__MAW-S_The_Dancing_Plate.md` |
-| Gift | The Hollow Porcelain Shard | β | Grudge | Balance and reflex support at the cost of stillness | `SE-099-D__MAW-G_The_Dancing_Mask.md` |
+| Stigma | The Hollow Porcelain Shard | β | Grudge | Balance and reflex support at the cost of stillness | `SE-099-D__MAW-G_The_Dancing_Mask.md` |
 
 ---
 
@@ -122,9 +122,9 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Dancing Mask
+### M.A.W. Stigma — The Dancing Mask
 
 | Field | Record |
 |---|---|

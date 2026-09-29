@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Chiseled Knuckle Stigma
+# M.A.W. STIGMA — The Chiseled Knuckle Stigma
 
 > *“It marks anger that has never been allowed an answer. It shortens the bearer’s temper until the answer is made accountable.”*
 
@@ -22,7 +22,7 @@ Appearance : A cluster of calcified white marble nodules fused directly over the
 
 Thin crimson capillaries glow between the stone plates, pulsing in sync with the bearer’s heartbeat. When the fist is clenched, faint embers flare beneath the calcified knuckles, adding searing Grudge heat to every physical impact.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 **Slot:** Tail · **Chance:** 4% · **Bonus:** +2 source-work. **Effect:** marks one held anger needing a present accountability route. **Cost:** shortened temper.
 

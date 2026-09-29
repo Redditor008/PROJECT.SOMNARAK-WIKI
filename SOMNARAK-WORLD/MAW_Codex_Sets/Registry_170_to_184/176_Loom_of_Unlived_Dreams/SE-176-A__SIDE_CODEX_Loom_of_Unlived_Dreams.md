@@ -87,7 +87,7 @@ The original Loom is an O-Relic. Its M.A.W. set comes from self-released dream t
 |---|---|---:|---|---|---|
 | Weapon | The Dream Requiem | γ | Lament | Piercing interruption of a woven Dream pressure | `SE-176-B__MAW-W_The_Dream_Requiem.md` |
 | Suit | The Dream Shroud | γ | Lament | Dream protection with double-anchor safeguard | `SE-176-C__MAW-S_The_Dream_Shroud.md` |
-| Gift | The Dream Shuttle | γ | Lament | Weaves one controlled illusion at personal-memory cost | `SE-176-D__MAW-G_The_Dream_Shuttle.md` |
+| Stigma | The Dream Shuttle | γ | Lament | Weaves one controlled illusion at personal-memory cost | `SE-176-D__MAW-G_The_Dream_Shuttle.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The original Loom is an O-Relic. Its M.A.W. set comes from self-released dream t
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Dream Shuttle
+### M.A.W. Stigma — The Dream Shuttle
 
 | Field | Record |
 |---|---|

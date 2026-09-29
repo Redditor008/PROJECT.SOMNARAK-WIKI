@@ -87,7 +87,7 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 |---|---|---:|---|---|---|
 | Weapon | The Willow Requiem | γ | Lament | Piercing response to grief that needs acknowledgment | `SE-140-B__MAW-W_The_Willow_Requiem.md` |
 | Suit | The Willow Cloak | γ | Lament | Concealment from emotional scrutiny during private mourning | `SE-140-C__MAW-S_The_Willow_Cloak.md` |
-| Gift | The Willow Charm | γ | Lament | Grants a closing ritual for one completed emotional task | `SE-140-D__MAW-G_The_Willow_Charm.md` |
+| Stigma | The Willow Charm | γ | Lament | Grants a closing ritual for one completed emotional task | `SE-140-D__MAW-G_The_Willow_Charm.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Willow Charm
+### M.A.W. Stigma — The Willow Charm
 
 | Field | Record |
 |---|---|

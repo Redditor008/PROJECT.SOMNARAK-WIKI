@@ -87,7 +87,7 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 |---|---|---:|---|---|---|
 | Weapon | The Trace Fang | α | Grudge | Small direct response to active residue pressure | `SE-108-B__MAW-W_The_Trace_Fang.md` |
 | Suit | The Trace Plate | α | Grudge | Low-grade protection against inherited Grudge | `SE-108-C__MAW-S_The_Trace_Plate.md` |
-| Gift | The Trace Ember | α | Grudge | Reveals emotional residue without a false causal story | `SE-108-D__MAW-G_The_Trace_Ember.md` |
+| Stigma | The Trace Ember | α | Grudge | Reveals emotional residue without a false causal story | `SE-108-D__MAW-G_The_Trace_Ember.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Trace Ember
+### M.A.W. Stigma — The Trace Ember
 
 | Field | Record |
 |---|---|

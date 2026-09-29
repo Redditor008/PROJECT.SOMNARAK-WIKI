@@ -92,7 +92,7 @@ SOMNARAK-WORLD/
 │
 ├── MAW_Codex_Sets/                     # 1,208 Equipment Files across 42 Range Registries
 │   ├── README.md                       # Extraction parameters, stat matrices, and suit traits
-│   ├── Registry_001_to_007/            # 198 complete quadripartite sets (A-Codex, Weapon, Suit, Gift)
+│   ├── Registry_001_to_007/            # 198 complete quadripartite sets (A-Codex, Weapon, Suit, Stigma)
 │   └── ...                             # 291 sets / 873 item pages with source-led Appearance sections
 │
 ├── Ordeals/                            # 60 Cyclical Facility Defense Logs
@@ -158,7 +158,7 @@ SOMNARAK-WORLD/
    - **Codex-A (Side Codex):** Donor entity lore, resonant extraction conditions.
    - **Codex-B (Weapon - MAW-W):** Damage element, range band, special moves.
    - **Codex-C (Suit - MAW-S):** Defense ratings, elemental resistances, passive traits.
-   - **Codex-D (Gift - MAW-G):** Accessory slot, resonance triggers, cosmetic manifestation.
+   - **Codex-D (Stigma - MAW-G):** Accessory slot, resonance triggers, cosmetic manifestation.
 
 ---
 

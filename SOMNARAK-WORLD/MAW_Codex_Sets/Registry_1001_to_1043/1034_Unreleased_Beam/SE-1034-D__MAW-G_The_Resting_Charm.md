@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Resting Charm
+# M.A.W. STIGMA — The Resting Charm
 
 > *“The Resting Charm remembers Unreleased Beam; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The bearer moves a little slower. Continued use makes Unreleased Beam's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Stigma Record*
 
-The first The Resting Charm field bearer encountered this source response: Shows the task it never believed was complete. The gift contains the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Resting Charm field bearer encountered this source response: Shows the task it never believed was complete. The stigma contains the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Resting Charm field bearer encountered this source response: Shows
 
 ## SET RELATIONSHIP
 
-Within *Unreleased Beam — Witnessed Form*, The Resting Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unreleased Beam — Witnessed Form*, The Resting Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

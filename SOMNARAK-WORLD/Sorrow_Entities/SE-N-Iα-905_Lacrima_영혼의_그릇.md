@@ -261,9 +261,9 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 
 **Cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
-### M.A.W. Gift — Lacrima's Token
+### M.A.W. Stigma — Lacrima's Token
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
 **Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
 
@@ -273,9 +273,9 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 
 **Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
 
-**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the gift.
+**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

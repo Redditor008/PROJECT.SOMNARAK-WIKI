@@ -28,7 +28,7 @@ Aphasia formed from a witness interrupted until an accusation melted into incomp
 
 **Full-set resonance — The Unspoken Indictment:** *Words Left Unfinished* crystallizes the agony of testimony violently choked off at the threshold of speech. The Melted Fang pierces through cognitive suppression seals without inventing false closure; the Melted Plate disperses acoustic suppression shocks across the breastplate; and the Melted Word preserves fragmentary syllables without forcing completion. If the bearer presumes to speak a fabricated ending or suppress a difficult fragment, the set's armor contracts against the trachea, drowning the wielder in their own unvoiced syllables.
 
-**Recorded incidents:** the Inserted Name error, when Fang attacked the person an operator guessed; the Sentence Brace event, when Plate released after the wearer admitted a missing verb; the Melted Word gift, which preserved a fragment while refusing a convenient completion.
+**Recorded incidents:** the Inserted Name error, when Fang attacked the person an operator guessed; the Sentence Brace event, when Plate released after the wearer admitted a missing verb; the Melted Word stigma, which preserved a fragment while refusing a convenient completion.
 
 ---
 **Document ID:** `SE-720-A`  

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Suspended Balance Scale
+# M.A.W. STIGMA — The Suspended Balance Scale
 
 > *“It shows who carries more. It does not show who deserves to.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — crimson scale pendant |
+| Type | Accessory (Stigma) — crimson scale pendant |
 | Grade | γ — Major |
 | Element | Grudge — Crimson |
 | Slot | Tail |
@@ -29,7 +29,7 @@ The delicate brass needle tilts continuously between the two pans in response to
 
 ### Ability— Compare the Burden
 
-The Gift compares two people’s current sorrow load and shows which burden is heavier in the present moment.
+The Stigma compares two people’s current sorrow load and shows which burden is heavier in the present moment.
 
 **Limit:** It cannot compare moral worth, historical cause, or future consequence.
 

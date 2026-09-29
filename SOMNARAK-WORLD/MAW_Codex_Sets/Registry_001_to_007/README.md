@@ -6,11 +6,11 @@ This batch follows the lowest available canonical entity numbers starting from 0
 
 | Formal Entity ID | Entity | Files | Notes |
 |---|---|---:|---|
-| `SE-001` | The Orphaned Bell | 4 | Side Codex + Weapon, Suit, Gift histories |
-| `SE-002` | The Grieving Colossus | 4 | Side Codex + Weapon, Suit, Gift histories |
+| `SE-001` | The Orphaned Bell | 4 | Side Codex + Weapon, Suit, Stigma histories |
+| `SE-002` | The Grieving Colossus | 4 | Side Codex + Weapon, Suit, Stigma histories |
 | `SE-003` | The Wilderness Tide | 1 | Side Codex only; no extractable M.A.W. exists |
-| `SE-005` | The Smothering Mother | 4 | Side Codex + Weapon, Suit, Gift histories |
-| `SE-007` | Brume | 4 | Side Codex + Weapon, Suit, Gift histories |
+| `SE-005` | The Smothering Mother | 4 | Side Codex + Weapon, Suit, Stigma histories |
+| `SE-007` | Brume | 4 | Side Codex + Weapon, Suit, Stigma histories |
 
 ## Why IDs 004 and 006 Are Not Present
 

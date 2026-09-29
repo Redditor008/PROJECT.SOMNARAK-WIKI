@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Purple Wick Stigma
+# M.A.W. STIGMA — The Purple Wick Stigma
 
 > *“The Purple Wick Stigma remembers Memorial Flame Mid-Ceremony; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Purple Wick Stigma is the gift record of Memorial Flame Mid-Ceremony’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its ability completes the set’s logic: revealing hidden grief in a darkened space, as the lost memorial once did for its mourners. Binding is testimonial: the bearer names the source event — a memorial flame extinguished during an Alpha Tree evacuation, the ceremony never completed — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The operational cost follows the light: the user carries the grief revealed after the light fades, and continued use makes the source sorrow feel autobiographical. The source-trace fixed the doctrine: the gift reveals the memorial and its tenders, and it severed the immediate hazard only after the team attributed it to the source — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Purple Wick Stigma is the stigma record of Memorial Flame Mid-Ceremony’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its ability completes the set’s logic: revealing hidden grief in a darkened space, as the lost memorial once did for its mourners. Binding is testimonial: the bearer names the source event — a memorial flame extinguished during an Alpha Tree evacuation, the ceremony never completed — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The operational cost follows the light: the user carries the grief revealed after the light fades, and continued use makes the source sorrow feel autobiographical. The source-trace fixed the doctrine: the stigma reveals the memorial and its tenders, and it severed the immediate hazard only after the team attributed it to the source — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Purple Wick Stigma is the gift record of Memorial Flame Mid-Ceremony’s set
 
 **Operational / binding cost:** The user carries the grief revealed after the light fades. Continued use makes Memorial Flame Mid-Ceremony's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Stigma Record*
 
-The first The Purple Wick Stigma field bearer encountered this source response: Reveals the memorial and those who tended it. The gift severs the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Purple Wick Stigma field bearer encountered this source response: Reveals the memorial and those who tended it. The stigma severs the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Purple Wick Stigma field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Purple Wick Stigma performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Purple Wick Stigma performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

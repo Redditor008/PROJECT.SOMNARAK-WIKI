@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Glass Shard
+# M.A.W. STIGMA — The Glass Shard
 
 > *“It shows a distant emotional event and carries every sorrow in the view.”*
 

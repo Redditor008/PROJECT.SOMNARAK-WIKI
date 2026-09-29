@@ -52,7 +52,7 @@ During the The Facsimile Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Facsimile's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon opens only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon opens only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.
 
 ---
 

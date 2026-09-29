@@ -176,7 +176,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift. Extraction is permitted under Director supervision; each piece carries the loop's hollowness.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. Extraction is permitted under Director supervision; each piece carries the loop's hollowness.
 
 ### M.A.W. Weapon — The Final Act
 
@@ -194,19 +194,19 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Ability:** Grants resistance to Void and Clarity-drain by detaching the wearer from their own identity — they become "an actor," momentarily immune to attacks on the self.
 **Cost:** The wearer cannot feel their own emotions while wearing it; each use leaves them emptier, and the coat does not always come off cleanly.
 
-### M.A.W. Gift — The Repeated Line
+### M.A.W. Stigma — The Repeated Line
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 **Appearance:** A small earpiece that murmurs a single line on loop — never the same line twice for the same bearer.
 
 **Ability:** Granted at random by the entity upon a successful work; the bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations.
 **Cost:** The bearer occasionally speaks a line they did not choose, in a voice not entirely their own.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries the loop's central cost: detachment from the self. The Final Act strikes with certainty but erodes the wielder's agency; the Performer's Coat protects by emptying the wearer; the Repeated Line grants foresight at the price of speaking lines not one's own. Forcing a piece outside its pattern increases the hollowness and may seed loop-memories in the operator. Gifts are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece carries the loop's central cost: detachment from the self. The Final Act strikes with certainty but erodes the wielder's agency; the Performer's Coat protects by emptying the wearer; the Repeated Line grants foresight at the price of speaking lines not one's own. Forcing a piece outside its pattern increases the hollowness and may seed loop-memories in the operator. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

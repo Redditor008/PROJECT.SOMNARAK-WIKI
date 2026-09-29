@@ -784,7 +784,7 @@ A route is useful only if it accounts for the people following it. This slows hi
 
 ### No Personal M.A.W.
 
-No named personal M.A.W., Gift, corrosion stage, signature weapon, or extracted armor is assigned.
+No named personal M.A.W., Stigma, corrosion stage, signature weapon, or extracted armor is assigned.
 
 His left arm, legs, optic, crystal integration, field gear, and Echo-Core active state remain separate from M.A.W.
 
@@ -1484,7 +1484,7 @@ The five older “Exile (Ishall)” references are superseded attribution errors
 
 ### M.A.W. Status
 
-No personal M.A.W., Gift, or Corrosion stage is assigned. Cyborg systems, crystal integration, and Subject-Phantasmal effects remain separate.
+No personal M.A.W., Stigma, or Corrosion stage is assigned. Cyborg systems, crystal integration, and Subject-Phantasmal effects remain separate.
 
 ### Appearance
 

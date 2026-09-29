@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Melting Brick
+# M.A.W. STIGMA — The Melting Brick
 
 > *“It remembers what the tower was for without pretending the tower existed.”*
 

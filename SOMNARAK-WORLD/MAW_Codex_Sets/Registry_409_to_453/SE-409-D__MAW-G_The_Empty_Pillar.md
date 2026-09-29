@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Empty Pillar
+# M.A.W. STIGMA — The Empty Pillar
 
 > *“It shows where support is imagined and where instability is real.”*
 

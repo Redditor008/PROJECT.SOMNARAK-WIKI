@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Torn Keystone
+# M.A.W. STIGMA — The Torn Keystone
 
 > *“The Torn Keystone remembers Cleaved; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Torn Keystone is the gift record of Cleaved’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is the set’s constructive turn: it stabilizes damaged structures and reveals hidden architectural weaknesses, the unfinished tower’s expertise lent to salvageable buildings. Binding names Cleaved’s event — a tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan — and accepts the set’s limit: do not complete the structure; document what was intended and lost. The operational cost follows the ability: the user feels every abandoned plan connected to the structure, each wall invoiced in outlived intentions, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the planned building and the people who would have lived there, and it severed the immediate hazard only after attribution to Cleaved — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Torn Keystone is the stigma record of Cleaved’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is the set’s constructive turn: it stabilizes damaged structures and reveals hidden architectural weaknesses, the unfinished tower’s expertise lent to salvageable buildings. Binding names Cleaved’s event — a tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan — and accepts the set’s limit: do not complete the structure; document what was intended and lost. The operational cost follows the ability: the user feels every abandoned plan connected to the structure, each wall invoiced in outlived intentions, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the planned building and the people who would have lived there, and it severed the immediate hazard only after attribution to Cleaved — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Torn Keystone is the gift record of Cleaved’s set — head-slot, bestowed 
 
 **Operational / binding cost:** The user feels every abandoned plan connected to the structure. Continued use makes Cleaved's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Cleaved Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Cleaved Source-Trace: Stigma Record*
 
-The first The Torn Keystone field bearer encountered this source response: Reveals the planned building and the people who would have lived there. The gift severs the immediate hazard only after the team attributed it to Cleaved. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Torn Keystone field bearer encountered this source response: Reveals the planned building and the people who would have lived there. The stigma severs the immediate hazard only after the team attributed it to Cleaved. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Torn Keystone field bearer encountered this source response: Revea
 
 ## SET RELATIONSHIP
 
-Within *Cleaved — Witnessed Form*, The Torn Keystone performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cleaved — Witnessed Form*, The Torn Keystone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

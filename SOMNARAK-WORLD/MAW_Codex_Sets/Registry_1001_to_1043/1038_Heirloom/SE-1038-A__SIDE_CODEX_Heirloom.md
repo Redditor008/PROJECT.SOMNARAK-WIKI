@@ -52,7 +52,7 @@ During the The Heirloom Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Heirloom's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Stop repetition and identify the original voice The set cannot heal the originating event. Misuse routes Heirloom's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Heirloom's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Stop repetition and identify the original voice The set cannot heal the originating event. Misuse routes Heirloom's wound through the operator and triggers the recorded escalation.
 
 ---
 

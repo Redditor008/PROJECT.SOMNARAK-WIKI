@@ -53,7 +53,7 @@ SED (Katabagil, -7,200m to -200m) → UCD (Katharcheok, The Raw) → R.D. Facili
 
 - M.A.W. is **NEVER manufactured** in city workshops. It **crystallizes directly** from the emotional core and historical memory of the Sorrow Entity / Relic Entity.
 - Weapon archetypes spanning Year 0000 to Year 9999+ (Guns, Katanas, Chakrams, Astral Prisms, Culverins, Mauls, Lenses, etc.) are **authentic manifestations of entity memory** — do NOT remove, nerf, or scrub weapon types. Preserve all archetypes.
-- M.A.W. triad: Weapon (Offense), Suit (Armor), Gift (Accessory). Quadripartite set = Side-Codex (A) + Weapon (B) + Suit (C) + Gift (D).
+- M.A.W. triad: Weapon (Offense), Suit (Armor), Stigma (Accessory). Quadripartite set = Side-Codex (A) + Weapon (B) + Suit (C) + Stigma (D).
 
 ### LAW 7 — Zero Banned Strings (PM Vocabulary & Modern Slip Purge)
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Bulwark Charm
+# M.A.W. STIGMA — The Bulwark Charm
 
 > *“It warms for presence that asks nothing from the closed door.”*
 

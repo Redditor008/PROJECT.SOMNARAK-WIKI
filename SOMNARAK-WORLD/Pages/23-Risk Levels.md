@@ -43,7 +43,7 @@ Risk does not merely signify combat difficulty; it reflects the depth of human g
 - **Archive Count:** 46 entities.
 - **Operational Hazard:** Minimal. Whisper entities rarely breach, produce docile moods, and have generous work success rates across all protocols.
 - **Field Utility:** Ideal for training novice Rank I recruits in the fundamentals of 👁 **Viderehan** and 🤲 **Ferrehan**.
-- **Yield:** 10–12 Max LU; basic starter gifts and low-tier defensive gear.
+- **Yield:** 10–12 Max LU; basic starter stigmas and low-tier defensive gear.
 
 ## 3 Rank II: Murmur Entities
 - **Archive Count:** 70 entities.

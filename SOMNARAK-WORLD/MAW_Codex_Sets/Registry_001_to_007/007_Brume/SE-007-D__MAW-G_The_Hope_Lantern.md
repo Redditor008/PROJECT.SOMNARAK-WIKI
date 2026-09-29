@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Hope Lantern
+# M.A.W. STIGMA — The Hope Lantern
 
 > *“The flame is not bright enough to defeat the fog. It is bright enough to make one person take the next step.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) — miniature lantern |
+| **Type** | Accessory (Stigma) — miniature lantern |
 | **Grade** | γ — Major |
 | **Element** | Void — Pale White |
 | **Slot** | Head |
@@ -31,7 +31,7 @@ The Hope Lantern is a thumb-sized pale-glass lantern with no visible fuel and no
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
 **Passive Effect:** Reduces despair-based directional confusion within short range. The bearer remains able to name one destination even when the route itself is obscured.
 

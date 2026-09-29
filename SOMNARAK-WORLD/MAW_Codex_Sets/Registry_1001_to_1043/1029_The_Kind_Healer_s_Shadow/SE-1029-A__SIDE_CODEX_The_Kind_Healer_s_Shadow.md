@@ -52,7 +52,7 @@ During the The The Kind Healer s Shadow Source-Trace, the field team preserved t
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies The Kind Healer's Shadow's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Accept its help and acknowledge the healer it carries The set cannot heal the originating event. Misuse routes The Kind Healer's Shadow's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Kind Healer's Shadow's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Accept its help and acknowledge the healer it carries The set cannot heal the originating event. Misuse routes The Kind Healer's Shadow's wound through the operator and triggers the recorded escalation.
 
 ---
 

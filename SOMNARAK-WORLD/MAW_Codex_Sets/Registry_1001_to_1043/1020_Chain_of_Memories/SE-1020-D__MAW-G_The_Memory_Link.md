@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Memory Link
+# M.A.W. STIGMA — The Memory Link
 
 > *“The Memory Link remembers Chain of Memories; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The shared memory becomes a burden carried by both. Continued use makes Chain of Memories's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Stigma Record*
 
-The first The Memory Link field bearer encountered this source response: Displays the relationships between memories. The gift marks the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Memory Link field bearer encountered this source response: Displays the relationships between memories. The stigma marks the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Memory Link field bearer encountered this source response: Display
 
 ## SET RELATIONSHIP
 
-Within *Chain of Memories — Witnessed Form*, The Memory Link performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Chain of Memories — Witnessed Form*, The Memory Link performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

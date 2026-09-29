@@ -137,7 +137,7 @@ Every markdown document in `GAME_BATTLE/` must adhere to the immutable technical
    - Zero out-of-universe meta-commentary, zero self-reflection, and zero developer introspection.
 4. **Native Somnarak Terminology Only:**
    - Sorrow Entities (never Abnormalities), SECC codes, Coherence Ranks I to V, Potency Grades α to ω.
-   - M.A.W. Weapons, Suits, and Gifts (never E.G.O).
+   - M.A.W. Weapons, Suits, and Stigmas (never E.G.O).
    - Composure and Meltdown (never Sanity and Distortion).
    - Wardens, Enforcers, Custodians, Keepers, and Surveyors (never Fixers).
 

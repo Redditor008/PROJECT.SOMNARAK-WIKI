@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Burden Chain
+# M.A.W. STIGMA — The Burden Chain
 
 > *“A link becomes useful only when someone admits they cannot carry the whole chain alone.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — black chain |
+| Type | Accessory (Stigma) — black chain |
 | Grade | γ — Major |
 | Element | Weight — Black |
 | Slot | Head |

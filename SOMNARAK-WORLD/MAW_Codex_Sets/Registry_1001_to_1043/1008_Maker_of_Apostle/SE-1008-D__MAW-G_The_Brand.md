@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Brand
+# M.A.W. STIGMA — The Brand
 
 > *“The Brand remembers Maker of Apostle; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The brand is a chain-fragment. Wearing it connects the wearer to the Kind Healer transformation chain. If the chain activates nearby, the brand resonates. Continued use makes Maker of Apostle's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Stigma Record*
 
-The first The Brand field bearer encountered this source response: Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. The gift marks the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Brand field bearer encountered this source response: Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. The stigma marks the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Brand field bearer encountered this source response: Observation r
 
 ## SET RELATIONSHIP
 
-Within *Maker of Apostle — Witnessed Form*, The Brand performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Maker of Apostle — Witnessed Form*, The Brand performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

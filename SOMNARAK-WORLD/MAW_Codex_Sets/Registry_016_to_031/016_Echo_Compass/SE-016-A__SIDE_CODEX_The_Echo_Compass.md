@@ -58,7 +58,7 @@ A channel ends only when the operator states: **“I acknowledge the loss and re
 |---|---|---|---|---|---|
 | **Weapon** | The Lost Lens | β | Void | Cuts false routes and target-linked loss | `SE-016-B__MAW-W_The_Lost_Lens.md` |
 | **Suit** | The Lost Veil | β | Void | Resists orientation and identity drift | `SE-016-C__MAW-S_The_Lost_Veil.md` |
-| **Gift** | The Lost Compass | β | Void | Identifies the wrong direction for a current objective | `SE-016-D__MAW-G_The_Lost_Compass.md` |
+| **Stigma** | The Lost Compass | β | Void | Identifies the wrong direction for a current objective | `SE-016-D__MAW-G_The_Lost_Compass.md` |
 
 ### Set Resonance — Acknowledged Route
 

@@ -203,9 +203,9 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 **Cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought.
 
-### M.A.W. Gift — Backward Hour's Token
+### M.A.W. Stigma — Backward Hour's Token
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
 **Appearance:** a coin-token of crimson Han-iron, dark and faintly warm, that grows cool near its source sorrow.
 
@@ -215,9 +215,9 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 **Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
 
-**Cost:** The bearer feels old injuries and old resentments sharpen whenever the gift is used.
+**Cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

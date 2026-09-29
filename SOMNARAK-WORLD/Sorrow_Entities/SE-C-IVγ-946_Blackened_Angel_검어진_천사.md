@@ -216,7 +216,7 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Tarnish Plume
 
@@ -250,9 +250,9 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 
 **Cost:** The wearer becomes unwilling to ask anyone for anything, even small things — and quietly resentful of those who ask of them.
 
-### M.A.W. Gift — The Blue-Black Tear
+### M.A.W. Stigma — The Blue-Black Tear
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
 **Appearance:** A single bead — half bright blue, half wet black — suspended on a fine chain, the size of a real tear; it is cool and never quite dry, and trembles when a lie or a cruel wish is near.
 **Slot:** Hand
@@ -263,11 +263,11 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 
 **Cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — restraint in wishing, endurance of weight, kindness to those who ask; forcing a piece toward cruelty amplifies the cost and may trigger an echo of the source entity's lost trust. The Gift is granted at random by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — restraint in wishing, endurance of weight, kindness to those who ask; forcing a piece toward cruelty amplifies the cost and may trigger an echo of the source entity's lost trust. The Stigma is granted at random by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

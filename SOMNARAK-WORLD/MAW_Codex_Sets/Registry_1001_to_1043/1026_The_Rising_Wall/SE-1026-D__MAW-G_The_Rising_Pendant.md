@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Rising Pendant
+# M.A.W. STIGMA — The Rising Pendant
 
 > *“The Rising Pendant remembers The Rising Wall; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer cannot lie about attachment. Continued use makes The Rising Wall's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Stigma Record*
 
-The first The Rising Pendant field bearer encountered this source response: Reveals the memories the city erased. The gift isolates the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Rising Pendant field bearer encountered this source response: Reveals the memories the city erased. The stigma isolates the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Rising Pendant field bearer encountered this source response: Reve
 
 ## SET RELATIONSHIP
 
-Within *The Rising Wall — Witnessed Form*, The Rising Pendant performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Rising Wall — Witnessed Form*, The Rising Pendant performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

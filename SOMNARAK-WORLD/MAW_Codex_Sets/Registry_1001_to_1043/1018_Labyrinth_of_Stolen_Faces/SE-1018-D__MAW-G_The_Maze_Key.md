@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Maze Key
+# M.A.W. STIGMA — The Maze Key
 
 > *“The Maze Key remembers Labyrinth of Stolen Faces; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** It cannot distinguish a painful memory from a safe exit. Continued use makes Labyrinth of Stolen Faces's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Stigma Record*
 
-The first The Maze Key field bearer encountered this source response: Reveals the memory architecture. The gift uncouples the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Maze Key field bearer encountered this source response: Reveals the memory architecture. The stigma uncouples the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Maze Key field bearer encountered this source response: Reveals th
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Key performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Key performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

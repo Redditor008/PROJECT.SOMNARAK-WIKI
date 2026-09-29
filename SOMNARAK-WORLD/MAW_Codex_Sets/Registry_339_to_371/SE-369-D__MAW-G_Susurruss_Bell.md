@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Susurrus’s Bell
+# M.A.W. STIGMA — Susurrus’s Bell
 
 > *“It carries the plea through stone and leaves the wording behind.”*
 

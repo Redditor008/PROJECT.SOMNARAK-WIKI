@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Soul Thread
+# M.A.W. STIGMA — The Soul Thread
 
 > *“It preserves the connection ‘someone is here.’ It leaves the rest honestly blank.”*
 
@@ -34,7 +34,7 @@ During a route failure, every observer forgot the Soul when looking away. Thread
 
 ## SET RELATIONSHIP
 
-Thread is the minimal fact at the center of *Beside, Not Behind*. Shroud maintains distance and Requiem clears obstruction. The Gift must remain free of descriptive knots; a connection is not a recovered identity.
+Thread is the minimal fact at the center of *Beside, Not Behind*. Shroud maintains distance and Requiem clears obstruction. The Stigma must remain free of descriptive knots; a connection is not a recovered identity.
 
 ## CORROSION, FAILURE & RELEASE
 
@@ -43,7 +43,7 @@ Thread is the minimal fact at the center of *Beside, Not Behind*. Shroud maintai
 - The bearer treats uncertainty as abandonment and starts inventing answers.
 
 **False biography:** repeated guesses harden into a person the Thread protects instead of the source.  
-**Witness dependency:** if only the Gift remembers presence, other personnel stop doing the work of accompaniment.  
+**Witness dependency:** if only the Stigma remembers presence, other personnel stop doing the work of accompaniment.  
 **Sleep breach:** prolonged binding lets the Soul’s walking grief continue through the bearer’s dreams.
 
 **Care:** Euncris and the bearer compare independent notes, remove every unsupported statement, and leave the missing fields visible. The Thread unkinks only when “unknown” is accepted as a valid record.

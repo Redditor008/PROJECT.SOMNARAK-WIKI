@@ -52,7 +52,7 @@ During the The Neverlast Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Neverlast's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Remain with it and acknowledge the abandonment; do not promise a return The set cannot heal the originating event. Misuse routes Neverlast's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Neverlast's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Remain with it and acknowledge the abandonment; do not promise a return The set cannot heal the originating event. Misuse routes Neverlast's wound through the operator and triggers the recorded escalation.
 
 ---
 

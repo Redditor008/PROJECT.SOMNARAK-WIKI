@@ -169,7 +169,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Rusted Lock-Pistol
 
@@ -212,9 +212,9 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — Neverlast's Crown
+### M.A.W. Stigma — Neverlast's Crown
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
 **Appearance:** a circlet of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
@@ -226,11 +226,11 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Cost:** The wearer absorbs the pain of those they heal or comfort.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Gift — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

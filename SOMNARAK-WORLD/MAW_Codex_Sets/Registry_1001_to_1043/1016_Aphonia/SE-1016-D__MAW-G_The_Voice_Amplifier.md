@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Voice Amplifier
+# M.A.W. STIGMA — The Voice Amplifier
 
 > *“The Voice Amplifier remembers Aphonia; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer hears every unheard plea nearby. Continued use makes Aphonia's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Stigma Record*
 
-The first The Voice Amplifier field bearer encountered this source response: Reveals the places from which the pleas came. The gift redirects the immediate hazard only after the team attributed it to Aphonia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Voice Amplifier field bearer encountered this source response: Reveals the places from which the pleas came. The stigma redirects the immediate hazard only after the team attributed it to Aphonia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Voice Amplifier field bearer encountered this source response: Rev
 
 ## SET RELATIONSHIP
 
-Within *Aphonia — Witnessed Form*, The Voice Amplifier performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Aphonia — Witnessed Form*, The Voice Amplifier performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

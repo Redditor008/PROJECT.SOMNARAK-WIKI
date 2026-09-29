@@ -178,7 +178,7 @@ The escalation pattern is specific to Anger Underfoot: it is not a generic breac
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Trace Fang
 
@@ -219,9 +219,9 @@ The escalation pattern is specific to Anger Underfoot: it is not a generic breac
 
 **Cost:** The wearer's reflexes dull, as if armored by resentment.
 
-### M.A.W. Gift — The Trace Mark
+### M.A.W. Stigma — The Trace Mark
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
 **Appearance:** a marked token of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
@@ -233,11 +233,11 @@ The escalation pattern is specific to Anger Underfoot: it is not a generic breac
 
 **Cost:** The wearer carries the anger of every person who walked it.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Gift cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

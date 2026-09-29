@@ -190,7 +190,7 @@ The escalation pattern is specific to The Magistrate's Strike-Through: it is not
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Nullifying Stylus
@@ -229,9 +229,9 @@ The tip does not cut flesh; it strikes through intent. When driven into an enemy
 
 **Cost:** The wearer's physical presence feels faint; allies frequently look past them without noticing they are speaking.
 
-### M.A.W. Gift — The Lime Thumb
+### M.A.W. Stigma — The Lime Thumb
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
 **Appearance:** A calcified chalk-white stain covering the pad of the right thumb and index finger, powdery to the touch.
 

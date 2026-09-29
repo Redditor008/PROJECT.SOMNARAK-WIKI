@@ -65,7 +65,7 @@ Rain or Han crossing the hollow can leave blue residue outside its edge after a 
 |---|---|---:|---|---|
 | Weapon | The Seedless Requiem | α | Defends one fragile beginning without declaring what it must become. | `SE-236-B__MAW-W_The_Seedless_Requiem.md` |
 | Suit | The Seedless Shroud | α | Shields a caretaker from Lament produced by unrealized futures. | `SE-236-C__MAW-S_The_Seedless_Shroud.md` |
-| Gift | The Seedless Pod | α | Preserves one new beginning outside the source boundary. | `SE-236-D__MAW-G_The_Seedless_Pod.md` |
+| Stigma | The Seedless Pod | α | Preserves one new beginning outside the source boundary. | `SE-236-D__MAW-G_The_Seedless_Pod.md` |
 
 **Set cost:** The wielder weeps, the wearer loses minor joy, and the bearer feels every future that never started. None of the pieces can make Unwitnessed germinate.
 
@@ -75,7 +75,7 @@ Rain or Han crossing the hollow can leave blue residue outside its edge after a 
 
 - **Seedless Requiem:** Lament 3–6; Speed 2; Range 2; Single; maximum 5; 15 Echoes. Prolonged use causes involuntary weeping.
 - **Seedless Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 5; 10 Echoes. It resists Lament while numbing small joys.
-- **Seedless Pod:** Tail Gift; 5%; +1 Clarity during source work. It preserves one fragile beginning; the bearer feels futures that failed to begin.
+- **Seedless Pod:** Tail Stigma; 5%; +1 Clarity during source work. It preserves one fragile beginning; the bearer feels futures that failed to begin.
 
 ---
 

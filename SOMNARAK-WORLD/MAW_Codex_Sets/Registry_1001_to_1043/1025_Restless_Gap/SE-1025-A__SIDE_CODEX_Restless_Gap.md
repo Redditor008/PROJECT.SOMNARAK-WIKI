@@ -52,7 +52,7 @@ During the The Restless Gap Source-Trace, the field team preserved this source f
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Restless Gap's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Use memory anchors and reconstruct the person's history without inventing missing pieces The set cannot heal the originating event. Misuse routes Restless Gap's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Restless Gap's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Use memory anchors and reconstruct the person's history without inventing missing pieces The set cannot heal the originating event. Misuse routes Restless Gap's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Tiny Crier
+# M.A.W. STIGMA — The Tiny Crier
 
 ---
 
@@ -17,7 +17,7 @@ A Head figurine granted at **4%**: **γ Void; +2 Clarity.** It grants empathy fo
 | Field | Exact source record |
 |---|---|
 | Official name | The Tiny Crier |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | γ |
 | Element | Void |
 | Appearance | A small figurine — a weeping figure, knees drawn up — that fits in the palm and grows warm when sorrow is near. |

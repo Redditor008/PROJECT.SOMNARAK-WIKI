@@ -52,7 +52,7 @@ During the The Wanderer Without a Destination Source-Trace, the field team prese
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Wanderer Without a Destination's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Provide a memory anchor; do not force a destination The set cannot heal the originating event. Misuse routes Wanderer Without a Destination's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Wanderer Without a Destination's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Provide a memory anchor; do not force a destination The set cannot heal the originating event. Misuse routes Wanderer Without a Destination's wound through the operator and triggers the recorded escalation.
 
 ---
 

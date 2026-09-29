@@ -66,7 +66,7 @@ An echo forms after two dreamers report matching fragments without agreeing on a
 |---|---|---:|---|---|
 | Weapon | The Warning Fang | δ | Cuts interference along the verified direction of danger. | `SE-249-B__MAW-W_The_Warning_Fang.md` |
 | Suit | The Warning Plate | δ | Holds a listener through collapsing dream-space. | `SE-249-C__MAW-S_The_Warning_Plate.md` |
-| Gift | The Warning Thread | δ | Carries one verified warning fragment through interference. | `SE-249-D__MAW-G_The_Warning_Thread.md` |
+| Stigma | The Warning Thread | δ | Carries one verified warning fragment through interference. | `SE-249-D__MAW-G_The_Warning_Thread.md` |
 
 **Set cost:** Old wounds ache, reflexes dull, and every late warning becomes audible. Guessing the missing phrase converts the set into the same red static that destroyed it.
 
@@ -76,7 +76,7 @@ An echo forms after two dreamers report matching fragments without agreeing on a
 
 - **Warning Fang:** Grudge 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Old wounds ache and bruise.
 - **Warning Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 2; 45 Echoes. It resists Grudge while dulling reflexes.
-- **Warning Thread:** Tail Gift; 4%; +3 Resilience during source work. It preserves one warning fragment; the bearer hears every warning that arrives too late.
+- **Warning Thread:** Tail Stigma; 4%; +3 Resilience during source work. It preserves one warning fragment; the bearer hears every warning that arrives too late.
 
 ---
 

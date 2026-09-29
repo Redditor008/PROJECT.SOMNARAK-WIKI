@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Relic Charm
+# M.A.W. STIGMA — The Relic Charm
 
 > *“The Relic Charm remembers Pandora's Jar; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Relic Charm is the gift record of the Pandora's Jar set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Jar's sorrow, the effect mirroring the entity's nature: what was erased insisting, quietly, on being carried. Binding names the source event — a treasured artifact disappeared during a Desolate expedition, and the records of it were later removed — and accepts the set's limit: bear the heat and name what was lost. The cost is a slowing: the bearer moves a little heavier, freight added to every step. The source-trace fixed doctrine: the Charm reveals fragments of the missing relic's history, the deleted record reassembling piece by piece, and it severs the hazard only after attribution to Pandora's Jar. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Relic Charm is the stigma record of the Pandora's Jar set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Jar's sorrow, the effect mirroring the entity's nature: what was erased insisting, quietly, on being carried. Binding names the source event — a treasured artifact disappeared during a Desolate expedition, and the records of it were later removed — and accepts the set's limit: bear the heat and name what was lost. The cost is a slowing: the bearer moves a little heavier, freight added to every step. The source-trace fixed doctrine: the Charm reveals fragments of the missing relic's history, the deleted record reassembling piece by piece, and it severs the hazard only after attribution to Pandora's Jar. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Relic Charm is the gift record of the Pandora's Jar set — head-slot, besto
 
 **Operational / binding cost:** The bearer moves a little slower. Continued use makes Pandora's Jar's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Stigma Record*
 
-The first The Relic Charm field bearer encountered this source response: Reveals fragments of the missing relic's history. The gift severs the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Relic Charm field bearer encountered this source response: Reveals fragments of the missing relic's history. The stigma severs the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Relic Charm field bearer encountered this source response: Reveals
 
 ## SET RELATIONSHIP
 
-Within *Pandora's Jar — Witnessed Form*, The Relic Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Pandora's Jar — Witnessed Form*, The Relic Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

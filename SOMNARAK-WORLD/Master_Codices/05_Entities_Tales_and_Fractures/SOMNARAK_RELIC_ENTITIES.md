@@ -86,7 +86,7 @@ Relic Entities yield M.A.W. as all entities do — but Relic M.A.W. carries **st
 - Places yield **wearable** M.A.W. (mantles stitched from corridor air, veils of well-water).
 - Time yields **consumable** M.A.W. (sand, clock-oil, hour-needles).
 
-See `SOMNARAK_MAW_CODEX.md` and `MAW_Codex_Sets/Registry_*` for per-entity Weapon/Suit/Gift.
+See `SOMNARAK_MAW_CODEX.md` and `MAW_Codex_Sets/Registry_*` for per-entity Weapon/Suit/Stigma.
 
 ---
 

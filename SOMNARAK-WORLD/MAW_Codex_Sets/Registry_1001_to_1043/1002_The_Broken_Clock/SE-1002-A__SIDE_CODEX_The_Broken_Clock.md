@@ -52,7 +52,7 @@ During the The The Broken Clock Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies The Broken Clock's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Broken Clock's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Broken Clock's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Broken Clock's wound through the operator and triggers the recorded escalation.
 
 ---
 

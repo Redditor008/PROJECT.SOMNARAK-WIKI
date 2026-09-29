@@ -79,7 +79,7 @@ Though fragile, Auxiliaries play a vital role in facility stability:
 Wardens can customize recruited specialists:
 - **Visual Appearance:** Hairstyle, facial features, uniform tailoring, and eye coloration.
 - **Codename & Lore:** Assigning codenames and memorializing veteran lineages across consecutive cycles.
-- **M.A.W. Gift Stacking:** Operatives can wear up to six distinct gifts across designated anatomical slots (Head, Eye, Face, Neck, Chest, Hand).
+- **M.A.W. Stigma Stacking:** Operatives can wear up to six distinct stigmas across designated anatomical slots (Head, Eye, Face, Neck, Chest, Hand).
 
 ## 7 Casualty Protocols and Memorial Archiving
 

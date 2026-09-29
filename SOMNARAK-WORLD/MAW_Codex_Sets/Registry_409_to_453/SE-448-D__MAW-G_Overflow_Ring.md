@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Overflow Ring
+# M.A.W. STIGMA — Overflow Ring
 
 > *“It heals the current wound and spends the memory of anger that helped identify it.”*
 

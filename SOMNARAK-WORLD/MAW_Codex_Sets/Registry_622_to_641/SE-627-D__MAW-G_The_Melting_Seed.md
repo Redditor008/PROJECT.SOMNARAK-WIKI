@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Melting Seed
+# M.A.W. STIGMA — The Melting Seed
 
 > *“It reveals the desire inside anger, then makes the bearer feel every reason that desire cannot be fulfilled.”*
 
@@ -29,17 +29,17 @@ A warm crimson seed-charm sits at the Tail slot and softens without losing mass 
 
 ## Appearance
 
-The Melting Seed is a warm crimson seed-charm at the tail slot that softens without losing mass when anger is nearby — yielding in texture, constant in substance, like the desire under rage. The Harvest grants it unpredictably after successful work; it cannot be manufactured. Its function is the Desire Kernel: it reveals the desire behind a person’s anger in their own sensory language — taste, room, harvest, family, or future — without judging feasibility, and it must not be read aloud without consent. The hidden condition is fulfillment: if the bearer promises it, the Seed begins growing a false orchard inside their plans, redirecting every resource toward reproducing the desire until the Gift melts. In its recorded case it showed an exile’s anger as the taste of fruit cut in her mother’s kitchen — a auxiliary entered “return to family kitchen” as the required remedy, Gate routes started bending cityward, and the Gift grew warm enough to scorch its clasp. The exile corrected the record herself: she wanted the future that taste represented, not transport to a room now occupied by strangers. The remedy was removed and her wording preserved; the Seed now displays desires as images without destination coordinates.
+The Melting Seed is a warm crimson seed-charm at the tail slot that softens without losing mass when anger is nearby — yielding in texture, constant in substance, like the desire under rage. The Harvest grants it unpredictably after successful work; it cannot be manufactured. Its function is the Desire Kernel: it reveals the desire behind a person’s anger in their own sensory language — taste, room, harvest, family, or future — without judging feasibility, and it must not be read aloud without consent. The hidden condition is fulfillment: if the bearer promises it, the Seed begins growing a false orchard inside their plans, redirecting every resource toward reproducing the desire until the Stigma melts. In its recorded case it showed an exile’s anger as the taste of fruit cut in her mother’s kitchen — a auxiliary entered “return to family kitchen” as the required remedy, Gate routes started bending cityward, and the Stigma grew warm enough to scorch its clasp. The exile corrected the record herself: she wanted the future that taste represented, not transport to a room now occupied by strangers. The remedy was removed and her wording preserved; the Seed now displays desires as images without destination coordinates.
 
 ## EFFECT & HIDDEN CONDITION
 
 **Desire Kernel:** reveals the desire behind a person’s anger in their own sensory language—taste, room, harvest, family, or future. It does not judge feasibility and must not be read aloud without consent.
 
-If the bearer promises fulfillment, the Seed begins growing a false orchard inside their plans. Every resource is redirected toward reproducing the desire until the Gift melts.
+If the bearer promises fulfillment, the Seed begins growing a false orchard inside their plans. Every resource is redirected toward reproducing the desire until the Stigma melts.
 
 ## ITEM HISTORY — THE KITCHEN TASTE
 
-The first Seed showed Xyan an exile’s anger as the taste of fruit cut in her mother’s kitchen. A auxiliary entered “return to family kitchen” as the required remedy. Gate routes started bending cityward, and the Gift grew warm enough to scorch its clasp. The exile corrected the record: she wanted the future that taste represented, not transport to a room now occupied by strangers. Xyan removed the remedy and preserved her wording.
+The first Seed showed Xyan an exile’s anger as the taste of fruit cut in her mother’s kitchen. A auxiliary entered “return to family kitchen” as the required remedy. Gate routes started bending cityward, and the Stigma grew warm enough to scorch its clasp. The exile corrected the record: she wanted the future that taste represented, not transport to a room now occupied by strangers. Xyan removed the remedy and preserved her wording.
 
 The Seed now displays desires as images without destination coordinates.
 
@@ -50,7 +50,7 @@ The Seed now displays desires as images without destination coordinates.
 - **Terminal state:** the bearer consumes present resources trying to grow a future that cannot root.
 
 **Maintenance:** record desire and possible support in separate fields; leave support blank when none exists. Cool the charm beside naturally dissolved fruit, never a preserved sample.  
-**Emergency removal:** the speaker whose desire is carried must distinguish wanting from expecting. If unavailable, Xyan seals the Gift until consented review; forced removal transfers the desire to the remover.
+**Emergency removal:** the speaker whose desire is carried must distinguish wanting from expecting. If unavailable, Xyan seals the Stigma until consented review; forced removal transfers the desire to the remover.
 
 ## SET RELATIONSHIP
 

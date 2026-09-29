@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Smoldering Charcoal Brooch
+# M.A.W. STIGMA — The Smoldering Charcoal Brooch
 
 > *“It can keep you warm through the night. It takes warmth from the places you thought would always keep it.”*
 
@@ -33,13 +33,13 @@
 | Acquisition probability | 5% after successful Emberling work |
 | Bestowal event | Emberling set the clasp beside a chair after Ashford sat silently through a full Ferrehan cycle and accepted relief without asking the child to follow. |
 | Acceptance condition | The candidate identifies one happy memory they will check with another person after every activation. |
-| Source intent | Gift bestowal; it may not be produced by taking the child’s ember or by requesting warmth as payment. |
+| Source intent | Stigma bestowal; it may not be produced by taking the child’s ember or by requesting warmth as payment. |
 
 **Binding requirement:** The bearer keeps a named memory companion—someone who can recall the chosen happy memory with them.
 
 **Rejection rule:** A bearer who activates the Cloak merely to avoid feeling turns the point black; physical warmth ends and the memory-cost accelerates.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -86,7 +86,7 @@ Ashford used the Cloak during a night watch after a cold Han draft threatened a 
 
 The Cloak is the expensive warmth inside *Open Door*. Together with Requiem and Shroud, it can preserve a passage through cold—but the full set cannot be used if no real destination or companion is available afterward.
 
-> *“The gift does not steal a memory because it is cruel. It spends warmth because it has never learned that warmth can be shared without running out.”* — Handler Soojin
+> *“The stigma does not steal a memory because it is cruel. It spends warmth because it has never learned that warmth can be shared without running out.”* — Handler Soojin
 
 ---
 

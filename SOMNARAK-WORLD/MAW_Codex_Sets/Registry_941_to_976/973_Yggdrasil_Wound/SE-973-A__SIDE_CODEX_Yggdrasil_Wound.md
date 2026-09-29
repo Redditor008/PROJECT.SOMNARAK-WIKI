@@ -52,7 +52,7 @@ During the The Yggdrasil Wound Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Yggdrasil Wound's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Ground the worker and permit both memories to remain The set cannot heal the originating event. Misuse routes Yggdrasil Wound's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Yggdrasil Wound's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Ground the worker and permit both memories to remain The set cannot heal the originating event. Misuse routes Yggdrasil Wound's wound through the operator and triggers the recorded escalation.
 
 ---
 

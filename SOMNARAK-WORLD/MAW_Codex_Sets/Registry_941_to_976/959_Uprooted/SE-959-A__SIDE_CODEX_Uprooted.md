@@ -52,7 +52,7 @@ During the The Uprooted Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Uprooted's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not burn the roots; map and witness their route The set cannot heal the originating event. Misuse routes Uprooted's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Uprooted's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not burn the roots; map and witness their route The set cannot heal the originating event. Misuse routes Uprooted's wound through the operator and triggers the recorded escalation.
 
 ---
 

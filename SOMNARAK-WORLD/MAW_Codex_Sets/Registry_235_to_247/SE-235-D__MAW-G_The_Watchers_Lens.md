@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Watcher’s Lens
+# M.A.W. STIGMA — The Watcher’s Lens
 
 > *“The wall can show what happened. It cannot relieve you of deciding what to do with the sight.”*
 
@@ -11,17 +11,17 @@
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`  
-**Status:** Active — bearer-bound structural witness Gift
+**Status:** Active — bearer-bound structural witness Stigma
 
 ## IDENTITY & BESTOWAL
 
 A pale Han-glass lens-pendant fixed at the Head slot. When touched to a wall, it reveals what that structure witnessed from its own position. The bearer cannot later forget the scene, even if the wall’s record is sealed.
 
-Panopticon granted it after an observer acknowledged the gaze and acted on a recorded hazard. Acquisition chance is 5%; no extraction procedure produces a Gift.
+Panopticon granted it after an observer acknowledged the gaze and acted on a recorded hazard. Acquisition chance is 5%; no extraction procedure produces a Stigma.
 
 ## Appearance
 
-The Watcher’s Lens gift is a pale Han-glass lens-pendant fixed at the head slot, small enough to sit unnoticed at the hairline. Touched to a wall, it reveals what that structure witnessed from its own position — twelve shifts of a corridor, one alcove’s unblinking record of a citizen collapsing while people passed. The price is symmetrical with the power: the bearer cannot later forget the scene, even if the wall’s record is sealed. Panopticon granted it after an observer acknowledged the gaze and acted on a recorded hazard; no extraction procedure produces it. The Gift supplies evidence, never verdicts — a wall’s field of view is not the whole event, and mistaking perspective for truth is its listed failure. Old scenes intruding over present walls is the first corrosion sign; a bearer seeking private scenes unrelated to intervention is the last and worst. Care requires recording exactly where the structure could and could not see, with another witness identifying the blind areas, and the Lens rests against an unwitnessing surface until the current room becomes primary again. Emergency release covers the bearer’s sight — not the Gift — with neutral cloth; shattering the lens projects the permanent scene to everyone nearby.
+The Watcher’s Lens stigma is a pale Han-glass lens-pendant fixed at the head slot, small enough to sit unnoticed at the hairline. Touched to a wall, it reveals what that structure witnessed from its own position — twelve shifts of a corridor, one alcove’s unblinking record of a citizen collapsing while people passed. The price is symmetrical with the power: the bearer cannot later forget the scene, even if the wall’s record is sealed. Panopticon granted it after an observer acknowledged the gaze and acted on a recorded hazard; no extraction procedure produces it. The Stigma supplies evidence, never verdicts — a wall’s field of view is not the whole event, and mistaking perspective for truth is its listed failure. Old scenes intruding over present walls is the first corrosion sign; a bearer seeking private scenes unrelated to intervention is the last and worst. Care requires recording exactly where the structure could and could not see, with another witness identifying the blind areas, and the Lens rests against an unwitnessing surface until the current room becomes primary again. Emergency release covers the bearer’s sight — not the Stigma — with neutral cloth; shattering the lens projects the permanent scene to everyone nearby.
 
 ## FUNCTION & COST
 
@@ -30,11 +30,11 @@ The Watcher’s Lens gift is a pale Han-glass lens-pendant fixed at the head slo
 **Effect:** reveals one structure-bound witness record  
 **Cost:** observed scenes cannot be forgotten
 
-Marjuk used the Gift on a Warden alcove that had watched a citizen collapse across twelve shifts. The scene contained no hidden culprit—only repeated passage and inaction. The permanent memory changed the alcove’s record from “unexplained incident” to documented institutional abandonment.
+Marjuk used the Stigma on a Warden alcove that had watched a citizen collapse across twelve shifts. The scene contained no hidden culprit—only repeated passage and inaction. The permanent memory changed the alcove’s record from “unexplained incident” to documented institutional abandonment.
 
 ## SET RELATIONSHIP
 
-The Gift supplies evidence to *The Duty After Seeing*. Veil carries the responder and Weapon Lens addresses one current danger. The Gift never chooses a verdict.
+The Stigma supplies evidence to *The Duty After Seeing*. Veil carries the responder and Weapon Lens addresses one current danger. The Stigma never chooses a verdict.
 
 ## CORROSION, FAILURE & RELEASE
 
@@ -48,7 +48,7 @@ The Gift supplies evidence to *The Duty After Seeing*. Veil carries the responde
 
 **Care:** Record exactly where the structure could and could not see. Another witness identifies blind areas. The Lens rests against an unwitnessing surface until the current room becomes primary again.
 
-**Emergency release:** Cover the bearer’s sight—not the Gift—with a neutral cloth and move beyond the recorded structure. Shattering the lens projects the permanent scene to everyone nearby.
+**Emergency release:** Cover the bearer’s sight—not the Stigma—with a neutral cloth and move beyond the recorded structure. Shattering the lens projects the permanent scene to everyone nearby.
 
 ---
 

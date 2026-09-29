@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Forgotten Mask
+# M.A.W. STIGMA — The Forgotten Mask
 
 > *“The Mask does not erase a face. It convinces memory that the face was never the important part.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) — mask charm |
+| **Type** | Accessory (Stigma) — mask charm |
 | **Grade** | γ — Major |
 | **Element** | Void — Pale White |
 | **Slot** | Head |
@@ -31,7 +31,7 @@ The Forgotten Mask is a small pale-glass charm shaped like a face with no featur
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
 **Passive Effect:** The bearer gains resistance to one memory-based targeting effect per encounter.
 

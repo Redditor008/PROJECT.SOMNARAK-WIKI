@@ -184,16 +184,16 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Lament damage, protecting against the phantasmal register of sorrow.
 
-### M.A.W. Gift — Allhallow's Token
+### M.A.W. Stigma — Allhallow's Token
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
 **Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

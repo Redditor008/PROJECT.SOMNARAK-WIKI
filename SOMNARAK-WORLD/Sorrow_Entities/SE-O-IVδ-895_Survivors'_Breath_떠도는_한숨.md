@@ -166,7 +166,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Repose Awl
 
@@ -209,9 +209,9 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Cost:** The wearer feels faintly absent to themselves.
 
-### M.A.W. Gift — The Resting Breath
+### M.A.W. Stigma — The Resting Breath
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
 **Appearance:** a breath-token of pale Han-glass, near-translucent and almost colourless, warm to the touch.
 
@@ -223,11 +223,11 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Cost:** The wearer feels the exhaustion of everyone nearby afterward.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Gift cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

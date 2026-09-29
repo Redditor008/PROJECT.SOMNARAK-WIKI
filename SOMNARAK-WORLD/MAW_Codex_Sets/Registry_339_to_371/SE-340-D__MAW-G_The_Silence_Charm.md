@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Hollow Bell Pendant
+# M.A.W. STIGMA — The Hollow Bell Pendant
 
 > *“It saves one warning word and takes another ordinary word from the bearer.”*
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Fragment Charm
+# M.A.W. STIGMA — The Fragment Charm
 
 > *“The Fragment Charm remembers Weight of All Owed; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The bearer moves a little slower. Continued use makes Weight of All Owed's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Stigma Record*
 
-The first The Fragment Charm field bearer encountered this source response: Reveals the monument's debt history. The gift witnesses the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Fragment Charm field bearer encountered this source response: Reveals the monument's debt history. The stigma witnesses the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Fragment Charm field bearer encountered this source response: Reve
 
 ## SET RELATIONSHIP
 
-Within *Weight of All Owed — Witnessed Form*, The Fragment Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Weight of All Owed — Witnessed Form*, The Fragment Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

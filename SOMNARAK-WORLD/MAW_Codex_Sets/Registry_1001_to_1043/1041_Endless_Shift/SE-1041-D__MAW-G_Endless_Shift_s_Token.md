@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Endless Shift's Token
+# M.A.W. STIGMA — Endless Shift's Token
 
 > *“Endless Shift's Token remembers Endless Shift; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt. Continued use makes Endless Shift's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Stigma Record*
 
-The first Endless Shift's Token field bearer encountered this source response: Permits study; the weight pressure becomes legible under sustained observation. The gift interrupts the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Endless Shift's Token field bearer encountered this source response: Permits study; the weight pressure becomes legible under sustained observation. The stigma interrupts the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Endless Shift's Token field bearer encountered this source response: P
 
 ## SET RELATIONSHIP
 
-Within *Endless Shift — Witnessed Form*, Endless Shift's Token performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Endless Shift — Witnessed Form*, Endless Shift's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

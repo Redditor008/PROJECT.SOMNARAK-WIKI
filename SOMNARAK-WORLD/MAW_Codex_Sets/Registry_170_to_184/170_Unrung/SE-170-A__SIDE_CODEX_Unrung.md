@@ -87,7 +87,7 @@ The original Bell is an I-Relic. Its M.A.W. set records released silence echoes,
 |---|---|---:|---|---|---|
 | Weapon | The Muffled Resonance-Bell | β | Void | Creates a controlled silence field around an active warning surge | `SE-170-B__MAW-W_The_Silence_Hammer.md` |
 | Suit | The Soundless Velvet Cassock | β | Void | Void protection with an audible-response partner | `SE-170-C__MAW-S_The_Silence_Veil.md` |
-| Gift | The Muffled Clapper Brooch | β | Void | Marks a suppressed warning or missing alert word | `SE-170-D__MAW-G_The_Silence_Charm.md` |
+| Stigma | The Muffled Clapper Brooch | β | Void | Marks a suppressed warning or missing alert word | `SE-170-D__MAW-G_The_Silence_Charm.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The original Bell is an I-Relic. Its M.A.W. set records released silence echoes,
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Silence Charm
+### M.A.W. Stigma — The Silence Charm
 
 | Field | Record |
 |---|---|

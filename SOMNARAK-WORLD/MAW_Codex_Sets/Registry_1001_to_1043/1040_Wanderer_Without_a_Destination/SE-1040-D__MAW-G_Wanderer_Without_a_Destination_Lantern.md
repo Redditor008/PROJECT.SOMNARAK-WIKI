@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Wanderer Without a Destination Lantern
+# M.A.W. STIGMA — Wanderer Without a Destination Lantern
 
 > *“Wanderer Without a Destination Lantern remembers Wanderer Without a Destination; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The user feels every place they have left behind. Continued use makes Wanderer Without a Destination's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Stigma Record*
 
-The first Wanderer Without a Destination Lantern field bearer encountered this source response: Reveals routes beyond the city. The gift redirects the immediate hazard only after the team attributed it to Wanderer Without a Destination. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Wanderer Without a Destination Lantern field bearer encountered this source response: Reveals routes beyond the city. The stigma redirects the immediate hazard only after the team attributed it to Wanderer Without a Destination. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Wanderer Without a Destination Lantern field bearer encountered this s
 
 ## SET RELATIONSHIP
 
-Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Lantern performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Lantern performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

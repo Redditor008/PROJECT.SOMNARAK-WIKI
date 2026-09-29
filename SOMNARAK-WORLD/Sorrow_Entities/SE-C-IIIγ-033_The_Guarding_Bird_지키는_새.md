@@ -169,7 +169,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Guardian Lens
 
@@ -210,9 +210,9 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Cost:** The wearer feels faintly absent to themselves.
 
-### M.A.W. Gift — The Guardian Wing
+### M.A.W. Stigma — The Guardian Wing
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
 **Appearance:** a wing-charm of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
@@ -224,11 +224,11 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Cost:** The wearer cannot flee while someone else remains in danger.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Gift cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

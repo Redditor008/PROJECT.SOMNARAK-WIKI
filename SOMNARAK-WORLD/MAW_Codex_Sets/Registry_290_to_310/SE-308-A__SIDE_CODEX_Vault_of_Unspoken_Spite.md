@@ -65,9 +65,9 @@ An echo forms only after one stored grievance is acknowledged, released without 
 |---|---|---:|---|---|
 | Weapon | Vault of Unspoken Spite’s Fang | γ | Cuts one grievance free from the container without turning it on a new target. | `SE-308-B__MAW-W_Vault_of_Unspoken_Spites_Fang.md` |
 | Suit | Vault of Unspoken Spite’s Veil | γ | Absorbs one hostile emotional effect for witnessed release. | `SE-308-C__MAW-S_Vault_of_Unspoken_Spites_Veil.md` |
-| Gift | Vault of Unspoken Spite’s Charm | γ | Identifies when anger is being deposited without future responsibility. | `SE-308-D__MAW-G_Vault_of_Unspoken_Spites_Charm.md` |
+| Stigma | Vault of Unspoken Spite’s Charm | γ | Identifies when anger is being deposited without future responsibility. | `SE-308-D__MAW-G_Vault_of_Unspoken_Spites_Charm.md` |
 
-**Set cost:** Old wounds ache, the wearer carries absorbed anger, and the Gift bearer’s temper shortens.
+**Set cost:** Old wounds ache, the wearer carries absorbed anger, and the Stigma bearer’s temper shortens.
 
 ---
 
@@ -75,7 +75,7 @@ An echo forms only after one stored grievance is acknowledged, released without 
 
 - **Spite Fang:** Grudge 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Old wounds ache and bruise.
 - **Spite Veil:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 3; 35 Echoes. It absorbs one hostile emotional effect and leaves the anger with the wearer.
-- **Spite Charm:** Tail Gift; 4%; +2 Resilience during source work. It marks irresponsible emotional deposit; the bearer’s temper shortens.
+- **Spite Charm:** Tail Stigma; 4%; +2 Resilience during source work. It marks irresponsible emotional deposit; the bearer’s temper shortens.
 
 ---
 

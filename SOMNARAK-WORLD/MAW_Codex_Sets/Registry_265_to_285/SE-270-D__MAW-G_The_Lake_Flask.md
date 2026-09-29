@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Lake Flask
+# M.A.W. STIGMA — The Lake Flask
 
 > *“One memory, one witness, one return. The flask is not an archive shelf.”*
 

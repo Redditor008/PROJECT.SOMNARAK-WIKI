@@ -87,7 +87,7 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 |---|---|---:|---|---|---|
 | Weapon | The Cage Fang | γ | Grudge | Piercing response to active coercive confinement | `SE-120-B__MAW-W_The_Cage_Fang.md` |
 | Suit | The Cage Shield | γ | Grudge | Rage defense that requires acknowledgment rather than retaliation | `SE-120-C__MAW-S_The_Cage_Shield.md` |
-| Gift | The Cage Charm | γ | Grudge | Detects an operational barrier that is trapping someone unjustly | `SE-120-D__MAW-G_The_Cage_Charm.md` |
+| Stigma | The Cage Charm | γ | Grudge | Detects an operational barrier that is trapping someone unjustly | `SE-120-D__MAW-G_The_Cage_Charm.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Cage Charm
+### M.A.W. Stigma — The Cage Charm
 
 | Field | Record |
 |---|---|

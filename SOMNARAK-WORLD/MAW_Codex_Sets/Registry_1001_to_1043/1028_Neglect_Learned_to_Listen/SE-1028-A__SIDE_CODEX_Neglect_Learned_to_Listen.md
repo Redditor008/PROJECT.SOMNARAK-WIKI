@@ -52,7 +52,7 @@ During the The Neglect Learned to Listen Source-Trace, the field team preserved 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Neglect Learned to Listen's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Preserve and acknowledge what was discarded; do not simply remove the rust The set cannot heal the originating event. Misuse routes Neglect Learned to Listen's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Neglect Learned to Listen's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Preserve and acknowledge what was discarded; do not simply remove the rust The set cannot heal the originating event. Misuse routes Neglect Learned to Listen's wound through the operator and triggers the recorded escalation.
 
 ---
 

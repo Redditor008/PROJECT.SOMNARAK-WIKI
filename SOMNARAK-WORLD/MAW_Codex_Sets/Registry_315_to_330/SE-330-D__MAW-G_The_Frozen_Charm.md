@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Rime-Pane Monocle
+# M.A.W. STIGMA — The Rime-Pane Monocle
 
 > *“It marks where waiting becomes history rather than a route still in progress.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Gift — ocular rime-crystal charm |
+| **Type** | Stigma — ocular rime-crystal charm |
 | **Slot** | Head / Right Eye |
 | **Grade** | β — Moderate |
 | **Bestowal Condition** | Accompany Sitting Boundary through a full circuit, name the ending, and offer no promise of return |
@@ -34,7 +34,7 @@ Delicate frost fractures run through the lens without obscuring vision, highligh
 
 ---
 
-## GIFT MECHANICS & PASSIVE TRAITS
+## STIGMA MECHANICS & PASSIVE TRAITS
 
 ### Passive Ability — Terminal Clarity
 

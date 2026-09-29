@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Occlusihan Blade
+# M.A.W. STIGMA — The Occlusihan Blade
 
 > *“The Occlusihan Blade remembers The Scar Walker; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wielder experiences the Occlusihan's fury as if it were their own. Continued use makes The Scar Walker's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Stigma Record*
 
-The first The Occlusihan Blade field bearer encountered this source response: Watches the observer, allowing study from a respectful distance. The gift redirects the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Occlusihan Blade field bearer encountered this source response: Watches the observer, allowing study from a respectful distance. The stigma redirects the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Occlusihan Blade field bearer encountered this source response: Wa
 
 ## SET RELATIONSHIP
 
-Within *The Scar Walker — Witnessed Form*, The Occlusihan Blade performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Scar Walker — Witnessed Form*, The Occlusihan Blade performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

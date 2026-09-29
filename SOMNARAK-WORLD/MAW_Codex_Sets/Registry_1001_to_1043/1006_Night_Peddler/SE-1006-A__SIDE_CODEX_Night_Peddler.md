@@ -52,7 +52,7 @@ During the The Night Peddler Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Night Peddler's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Night Peddler's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Night Peddler's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Night Peddler's wound through the operator and triggers the recorded escalation.
 
 ---
 

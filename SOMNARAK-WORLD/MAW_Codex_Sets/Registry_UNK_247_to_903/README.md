@@ -35,7 +35,7 @@ Each entity folder contains its Side Codex and every permitted individual M.A.W.
 
 - Side-Story Canon entities: **7/7 — 100.0%**
 - Side Codices: **7**
-- Standard Weapon/Suit/Gift sets: **6**
+- Standard Weapon/Suit/Stigma sets: **6**
 - Canonical Side-only exception: **1** — The Undelivered Thanks
 - Completed permitted codex files: **25**
 - Exact shared prose lines of at least 90 characters: **0**

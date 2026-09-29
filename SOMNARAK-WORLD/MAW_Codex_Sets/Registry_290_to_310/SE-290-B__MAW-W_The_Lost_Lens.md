@@ -34,7 +34,7 @@ The Lost Lens is a pale disc of Han glass whose surface rejects one direction at
 
 ## SET, FAILURE & CARE
 
-Gift rejects direction, Veil anchors identity, Lens removes the false route.
+Stigma rejects direction, Veil anchors identity, Lens removes the false route.
 
 - **Last-option certainty:** elimination becomes proof.
 - **Map erasure:** repeated use removes safe context with dangerous paths.

@@ -52,7 +52,7 @@ During the The Miasma Source-Trace, the field team preserved this source fact: N
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Miasma's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Miasma's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Miasma's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Miasma's wound through the operator and triggers the recorded escalation.
 
 ---
 

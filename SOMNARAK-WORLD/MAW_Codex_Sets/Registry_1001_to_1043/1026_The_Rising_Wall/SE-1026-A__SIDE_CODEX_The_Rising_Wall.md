@@ -52,7 +52,7 @@ During the The The Rising Wall Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies The Rising Wall's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Patient endurance and honest acknowledgment The set cannot heal the originating event. Misuse routes The Rising Wall's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Rising Wall's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Patient endurance and honest acknowledgment The set cannot heal the originating event. Misuse routes The Rising Wall's wound through the operator and triggers the recorded escalation.
 
 ---
 

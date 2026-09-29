@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Border Charm
+# M.A.W. STIGMA — The Border Charm
 
 > *“It points to the line that is hurting someone. It does not tell you that every line must disappear.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Border Charm |
 | Set | Shared Ground |
-| Type / grade / element | Gift, root-marker charm / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Stigma, root-marker charm / δ — Critical / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; counterpart consultation required |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 4% after successful Border Tree work |
 | Bestowal event | A Charm emerged after two boundary witnesses agreed on a temporary crossing rule and the Tree withdrew one root from the passage. |
 | Acceptance condition | The candidate names a counterpart who can challenge their reading. |
-| Source intent | Gift bestowal; it is not a map to seize territory or proof that a neighboring group is hostile. |
+| Source intent | Stigma bestowal; it is not a map to seize territory or proof that a neighboring group is hostile. |
 
 **Binding requirement:** The bearer listens to a counterpart account before acting on a glow.
 
@@ -43,7 +43,7 @@
 
 The Border Charm is a small crimson root-marker charm of Han iron with two fine roots that point in opposite directions at rest. It hangs from a short cord and is cool in the palm, and one root glows red where a boundary is causing immediate exclusion or harm while the other stays dark until the bearer has asked someone from the other side to describe the line. In active use the marker reveals one possible negotiated opening, review point, or safe passage, and it refuses a reading without a counterpart account. It has no Echo cost, but the bearer's temper shortens near unfair or unexamined lines until the issue has a documented joint response. The marker shows what a line protects and what it divides without deciding political ownership. It is stored at the intersection of both accounts, never on one side's map. A bearer who declares an entire side illegitimate finds the charm turn toward them and shorten their temper until the reading is reviewed.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -82,7 +82,7 @@ Park used the Charm during a family separation at a newly drawn checkpoint. The 
 
 ## SET RELATIONSHIP
 
-The Charm is the conscience of *Mutual Passage*. Root provides force and Plate holds a defense; this Gift makes the set look for the human cost of every line it draws.
+The Charm is the conscience of *Mutual Passage*. Root provides force and Plate holds a defense; this Stigma makes the set look for the human cost of every line it draws.
 
 > *“A border can be real without being beyond question.”* — Border Lead Mellda
 

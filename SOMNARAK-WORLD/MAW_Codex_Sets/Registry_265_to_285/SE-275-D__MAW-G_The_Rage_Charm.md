@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Rage Charm
+# M.A.W. STIGMA — The Rage Charm
 
 > *“It grows hot when the furnace is being fed an anger no one will name.”*
 

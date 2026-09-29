@@ -87,7 +87,7 @@ The set provides force, concealment, and deadline awareness around debt pressure
 |---|---|---:|---|---|---|
 | Weapon | The Shadow Maul | β | Weight | Direct response to debt-pressure fields | `SE-155-B__MAW-W_The_Shadow_Maul.md` |
 | Suit | The Shadow Step | β | Weight | Silent movement and limited concealment with recognition cost | `SE-155-C__MAW-S_The_Shadow_Step.md` |
-| Gift | The Shadow Charm | β | Weight | Shows one balance pressure or pending obligation | `SE-155-D__MAW-G_The_Shadow_Charm.md` |
+| Stigma | The Shadow Charm | β | Weight | Shows one balance pressure or pending obligation | `SE-155-D__MAW-G_The_Shadow_Charm.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set provides force, concealment, and deadline awareness around debt pressure
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Shadow Charm
+### M.A.W. Stigma — The Shadow Charm
 
 | Field | Record |
 |---|---|

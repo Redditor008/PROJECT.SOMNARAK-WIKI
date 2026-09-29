@@ -449,11 +449,11 @@ Three floating Pale fireflies manifested directly above the open dispersal manif
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** SE-C-IIIβ-036 (*The Cracked Hourglass*)
 - **Extracted Armament:** *Chrono Lens* (Eye/Visor Slot)
-- **Gift Properties:** Grants the wearer ability to slow local time by 20% during emergency suppression, doubling dodge agility and work reaction speeds. Allocated to Specialist Kang.
+- **Stigma Properties:** Grants the wearer ability to slow local time by 20% during emergency suppression, doubling dodge agility and work reaction speeds. Allocated to Specialist Kang.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -890,11 +890,11 @@ Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead o
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** SE-C-IIIγ-140 (*The Weeping Willow*)
 - **Extracted Armament:** *Willow Cloak* (Back/Wings Slot)
-- **Gift Properties:** Grants absolute sanity protection against grief-induced trauma, increasing health regeneration by 5 HP per minute during containment shifts. Allocated to Specialist Bae.
+- **Stigma Properties:** Grants absolute sanity protection against grief-induced trauma, increasing health regeneration by 5 HP per minute during containment shifts. Allocated to Specialist Bae.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -1337,11 +1337,11 @@ A Tide Watch Ordeal manifested as a celestial avian silhouette in the central ro
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** SE-C-IIIγ-031 (*The Observing Bird*)
 - **Extracted Armament:** *Witness Feather* (Hair/Crown Slot)
-- **Gift Properties:** Grants absolute immunity to all blindness and optical disorientation effects, providing passive +15% SP recovery to all allies within line of sight. Allocated to Specialist Han.
+- **Stigma Properties:** Grants absolute immunity to all blindness and optical disorientation effects, providing passive +15% SP recovery to all allies within line of sight. Allocated to Specialist Han.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -1783,11 +1783,11 @@ A Tide Watch Ordeal manifested as a crown of twelve glowing halos above the rese
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** HT-V-HH-001 (*The Hand of Hope*)
 - **Extracted Armament:** *Apostle's Halo* (Head/Crown Slot)
-- **Gift Properties:** Grants absolute immunity to death from lethal damage once per shift, restoring the wearer to 100% HP and SP and releasing an omnidirectional healing shockwave. Allocated to Specialist Yoon.
+- **Stigma Properties:** Grants absolute immunity to death from lethal damage once per shift, restoring the wearer to 100% HP and SP and releasing an omnidirectional healing shockwave. Allocated to Specialist Yoon.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -2233,11 +2233,11 @@ A Tide Watch Ordeal manifested as a luminous cloud of Pale energy that settled o
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** SE-C-IIIγ-010 (*The Convergence*)
 - **Extracted Armament:** *Dawn Cloak* (Back/Wings Slot)
-- **Gift Properties:** Grants absolute immunity to all four damage types for 10 seconds upon entering combat, emitting an omnidirectional aura of peace. Allocated to Specialist Kang.
+- **Stigma Properties:** Grants absolute immunity to all four damage types for 10 seconds upon entering combat, emitting an omnidirectional aura of peace. Allocated to Specialist Kang.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -2445,11 +2445,11 @@ For the first time in 1,778 cycles, zero Ordeals manifested. The release of the 
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** HT-001 (*The Guiding Light*)
 - **Extracted Armament:** *Crown of the First Dawn* (Head/Crown Slot)
-- **Gift Properties:** Grants absolute planetary transcendence, illuminating all darkness within 1,000 kilometers and rendering all allies immune to death, panic, and sorrow. Formally bestowed upon Director Majin.
+- **Stigma Properties:** Grants absolute planetary transcendence, illuminating all darkness within 1,000 kilometers and rendering all allies immune to death, panic, and sorrow. Formally bestowed upon Director Majin.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -2644,11 +2644,11 @@ Zero Ordeals manifested on Day 165. The planetary emotional field remains comple
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** SE-C-Iα-008 (*The Living Well*)
 - **Extracted Armament:** *Living Water Chalice* (Hand/Gauntlet Slot)
-- **Gift Properties:** Grants the ability to instantly cleanse any ally of physical poison, emotional corruption, or mental fatigue once per day. Allocated to Specialist Shin.
+- **Stigma Properties:** Grants the ability to instantly cleanse any ally of physical poison, emotional corruption, or mental fatigue once per day. Allocated to Specialist Shin.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -2844,11 +2844,11 @@ Zero Ordeals manifested on Day 170. The Trinity of Dawn's celestial radiance est
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** HT-V-HC-001 (*The Trinity of Dawn*)
 - **Extracted Armament:** *Feather of Judgment Redeemed* (Chest/Mantle Slot)
-- **Gift Properties:** Grants absolute immunity to all four damage types for 30 seconds once per shift, reflecting 50% of incoming damage as pure healing light. Formally allocated to Specialist Han.
+- **Stigma Properties:** Grants absolute immunity to all four damage types for 30 seconds once per shift, reflecting 50% of incoming damage as pure healing light. Formally allocated to Specialist Han.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
@@ -3022,11 +3022,11 @@ The Ordeals are gone forever. At Gate 05, the nine Echo-Cores embrace as the amb
 +=====================================================================+
 ```
 
-#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
+#### 7. M.A.W. Extraction, Forging & Stigma Slot Allocation
 
 - **Source Entity:** HT-014 (*The Planetary Dawn*)
 - **Extracted Armament:** *The Open Hand of Absolvohan* (Universal Bestowal)
-- **Gift Properties:** Bestowed upon all living souls of Somnarak, Cheonbulok, and Mugeukji: the eternal capacity to feel grief without despair, to rage without hatred, and to hope without fear.
+- **Stigma Properties:** Bestowed upon all living souls of Somnarak, Cheonbulok, and Mugeukji: the eternal capacity to feel grief without despair, to rage without hatred, and to hope without fear.
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 

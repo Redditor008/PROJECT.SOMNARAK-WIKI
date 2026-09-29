@@ -36,7 +36,7 @@ A worker became trapped in a mirror of an unshareable loss. The Lens opened a bo
 
 ## SET RELATIONSHIP
 
-With Sorrow Veil and Sorrow Lens Gift, it supports *Mirror With Company*: reflection is met with consented witness rather than solitary certainty.
+With Sorrow Veil and Sorrow Lens Stigma, it supports *Mirror With Company*: reflection is met with consented witness rather than solitary certainty.
 
 ---
 

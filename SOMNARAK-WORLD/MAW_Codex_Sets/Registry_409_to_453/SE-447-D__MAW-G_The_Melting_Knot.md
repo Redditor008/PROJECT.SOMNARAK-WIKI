@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Melting Knot
+# M.A.W. STIGMA — The Melting Knot
 
 > *“It holds reciprocal connection and softens when only one person remains.”*
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Joy Facade
+# M.A.W. STIGMA — The Joy Facade
 
 > *“It gives the bearer a smile everyone believes. The bearer must decide who deserves to see what is behind it.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — mask charm |
+| Type | Accessory (Stigma) — mask charm |
 | Grade | β — Moderate |
 | Element | Void — Pale White |
 | Slot | Head |
@@ -27,7 +27,7 @@ The Joy Facade is a small mask charm of pale Han glass with no face except the s
 
 ### Ability— Convincing Smile
 
-The Gift makes the bearer appear cheerful and emotionally stable to observers for one conversation or encounter.
+The Stigma makes the bearer appear cheerful and emotionally stable to observers for one conversation or encounter.
 
 **Limit:** It cannot prevent close companions from sensing inconsistency, and it cannot make the bearer feel happy.
 

@@ -68,7 +68,7 @@ No piece is extracted from direct River contact. During a monitored current shif
 |---|---|---:|---|---|
 | Weapon | The River Maul | γ | Drives local Weight downstream through a piercing line. | `SE-225-B__MAW-W_The_River_Maul.md` |
 | Suit | The River Mantle | γ | Keeps a wearer upright beside moving sorrow without pretending to stop it. | `SE-225-C__MAW-S_The_River_Mantle.md` |
-| Gift | The River Stone | γ | Absorbs nearby sorrow and grows heavier until returned downstream. | `SE-225-D__MAW-G_The_River_Stone.md` |
+| Stigma | The River Stone | γ | Absorbs nearby sorrow and grows heavier until returned downstream. | `SE-225-D__MAW-G_The_River_Stone.md` |
 
 **Set cost:** The bearer ages, tires, and accumulates literal burden. Any attempt to store, dam, sell, or permanently divert the gathered sorrow reverses the current into the operators.
 
@@ -78,7 +78,7 @@ No piece is extracted from direct River contact. During a monitored current shif
 
 - **River Maul:** Weight 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Continued use makes the wielder heavier and slightly older.
 - **River Mantle:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 3; 35 Echoes. It disperses moving Weight but imposes constant low fatigue.
-- **River Stone:** Head Gift; 4%; +2 Resolve during source work. It absorbs surrounding sorrow and gains weight with every burden held.
+- **River Stone:** Head Stigma; 4%; +2 Resolve during source work. It absorbs surrounding sorrow and gains weight with every burden held.
 
 ---
 

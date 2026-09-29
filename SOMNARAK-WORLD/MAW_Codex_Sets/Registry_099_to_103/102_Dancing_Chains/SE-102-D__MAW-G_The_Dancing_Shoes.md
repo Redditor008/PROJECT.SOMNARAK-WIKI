@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Dancing Shoes
+# M.A.W. STIGMA — The Dancing Shoes
 
 > *“They make the first escape easy. The danger begins when the shoes decide escape should never end.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dancing Shoes |
 | Set | Unbound Step |
-| Type / grade / element | Gift, paired shoes / γ — Major / Grudge — Crimson |
+| Type / grade / element | Stigma, paired shoes / γ — Major / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; two-person removal rule in force |
 | Known bearer | Specialist Nari Kwon |
@@ -33,13 +33,13 @@
 | Acquisition probability | 4% after successful Dancing Chains work |
 | Bestowal event | The Shoes appeared after Kwon completed a controlled endurance bind and allowed an outside partner to remove the source without struggling. |
 | Acceptance condition | The candidate practices handing their foot to the removal partner before the first field issue. |
-| Source intent | Gift bestowal; the original Chains remain an I-Relic and are never treated as footwear. |
+| Source intent | Stigma bestowal; the original Chains remain an I-Relic and are never treated as footwear. |
 
 **Binding requirement:** A designated partner learns the shoe-release sequence and accompanies every deployment.
 
 **Rejection rule:** A bearer who tries to wear the Shoes alone finds them moving in place until another person takes custody; they do not provide escape without a possible release.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|

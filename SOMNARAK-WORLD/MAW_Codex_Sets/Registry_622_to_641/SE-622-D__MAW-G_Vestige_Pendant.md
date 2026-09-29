@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Vestige Pendant
+# M.A.W. STIGMA — Vestige Pendant
 
 > *“It reveals erased routes and makes every impossible restoration ache behind the eyes.”*
 

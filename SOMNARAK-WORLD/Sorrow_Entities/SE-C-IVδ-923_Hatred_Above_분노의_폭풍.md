@@ -184,16 +184,16 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.
 
-### M.A.W. Gift — Hatred Above's Token
+### M.A.W. Stigma — Hatred Above's Token
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
 **Appearance:** a coin-token of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

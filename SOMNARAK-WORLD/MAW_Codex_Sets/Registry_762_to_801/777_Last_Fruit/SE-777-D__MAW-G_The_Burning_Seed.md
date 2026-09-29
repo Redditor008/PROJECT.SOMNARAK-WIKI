@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Burning Seed
+# M.A.W. STIGMA — The Burning Seed
 
 > *“The Burning Seed remembers Last Fruit; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Burning Seed is the gift record of Last Fruit’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is conversion: it turns suppressed desire into brief physical strength, the heat of wanting made briefly usable. Binding names Last Fruit’s event — a child was forbidden the last fruit from a dying tree, and the denied longing ignited into a figure — and accepts the set’s limit: name the desire; do not promise to fulfill it. The cost keeps the ledger honest: the wearer feels desire as heat whenever it is denied, refusals registering as temperature, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the desire beneath the anger — the wanting that rage conceals — and it interrupted the immediate hazard only after attribution to Last Fruit. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Burning Seed is the stigma record of Last Fruit’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is conversion: it turns suppressed desire into brief physical strength, the heat of wanting made briefly usable. Binding names Last Fruit’s event — a child was forbidden the last fruit from a dying tree, and the denied longing ignited into a figure — and accepts the set’s limit: name the desire; do not promise to fulfill it. The cost keeps the ledger honest: the wearer feels desire as heat whenever it is denied, refusals registering as temperature, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the desire beneath the anger — the wanting that rage conceals — and it interrupted the immediate hazard only after attribution to Last Fruit. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Burning Seed is the gift record of Last Fruit’s set — tail-slot, bestowe
 
 **Operational / binding cost:** The wearer feels desire as heat whenever it is denied. Continued use makes Last Fruit's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Last Fruit Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Last Fruit Source-Trace: Stigma Record*
 
-The first The Burning Seed field bearer encountered this source response: Reveals the desire beneath the anger. The gift interrupts the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Burning Seed field bearer encountered this source response: Reveals the desire beneath the anger. The stigma interrupts the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Burning Seed field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Last Fruit — Witnessed Form*, The Burning Seed performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Last Fruit — Witnessed Form*, The Burning Seed performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

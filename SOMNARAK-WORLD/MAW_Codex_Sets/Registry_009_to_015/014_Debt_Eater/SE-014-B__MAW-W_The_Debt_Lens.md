@@ -65,7 +65,7 @@ The Lens was used during a Collector dispute to prove that a child’s debt had 
 
 ## SET RESONANCE
 
-With Veil and Debt Scale Gift, the Lens can distinguish an imposed debt from a voluntarily accepted one. The set cannot cancel either without a verified settlement ritual.
+With Veil and Debt Scale Stigma, the Lens can distinguish an imposed debt from a voluntarily accepted one. The set cannot cancel either without a verified settlement ritual.
 
 ---
 

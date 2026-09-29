@@ -25,7 +25,7 @@ The Melted Plate is the suit of Aphasia’s set, bound by the same rule as its s
 
 **Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-720 -->
 
-**Set relationship:** Weapon, Suit, and Gift function only as *Words Left Unfinished*; no piece may claim to resolve the source alone.
+**Set relationship:** Weapon, Suit, and Stigma function only as *Words Left Unfinished*; no piece may claim to resolve the source alone.
 
 ---
 **Document ID:** `SE-720-C`  

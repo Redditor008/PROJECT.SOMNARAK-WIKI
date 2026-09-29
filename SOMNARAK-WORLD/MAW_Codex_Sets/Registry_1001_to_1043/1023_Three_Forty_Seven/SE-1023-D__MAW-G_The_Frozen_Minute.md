@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Frozen Minute
+# M.A.W. STIGMA — The Frozen Minute
 
 > *“The Frozen Minute remembers Three Forty-Seven; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The user loses an equivalent portion of lifespan. Continued use makes Three Forty-Seven's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Stigma Record*
 
-The first The Frozen Minute field bearer encountered this source response: Shows the event frozen at 3:47. The gift witnesses the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Frozen Minute field bearer encountered this source response: Shows the event frozen at 3:47. The stigma witnesses the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Frozen Minute field bearer encountered this source response: Shows
 
 ## SET RELATIONSHIP
 
-Within *Three Forty-Seven — Witnessed Form*, The Frozen Minute performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Three Forty-Seven — Witnessed Form*, The Frozen Minute performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

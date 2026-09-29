@@ -166,7 +166,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Graveweed Needle-Rifle
 
@@ -209,9 +209,9 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Cost:** The wearer feels the sorrow of every place they have left.
 
-### M.A.W. Gift — Uprooted Charm
+### M.A.W. Stigma — Uprooted Charm
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
 **Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
 
@@ -223,11 +223,11 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Cost:** The bearer weeps in their sleep.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Gifts are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

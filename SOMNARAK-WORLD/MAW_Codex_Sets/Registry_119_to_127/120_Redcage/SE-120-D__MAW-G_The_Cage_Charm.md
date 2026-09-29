@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Cage Charm
+# M.A.W. STIGMA — The Cage Charm
 
 > *“It can show you a bar that should not be there. It cannot make the bearer patient enough to hear what the bar has done.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Cage Charm |
 | Set | Acknowledged Bars |
-| Type / grade / element | Gift, crimson bar-charm / γ — Major / Grudge — Crimson |
+| Type / grade / element | Stigma, crimson bar-charm / γ — Major / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; oversight-linked use only |
 | Known bearer | Specialist Sooah Park |
@@ -33,13 +33,13 @@
 | Acquisition probability | 4% after successful Redcage work |
 | Bestowal event | The Charm formed after a Cage observation team stopped at the outer bar and entered a genuine corrective action into the Zone B record. |
 | Acceptance condition | The candidate accepts an oversight partner who can reject use motivated by retaliation. |
-| Source intent | Gift bestowal; it is not a warrant, sentence, or universal detector of wrongdoing. |
+| Source intent | Stigma bestowal; it is not a warrant, sentence, or universal detector of wrongdoing. |
 
 **Binding requirement:** The bearer names a release route before reading any barrier the Charm reveals.
 
 **Rejection rule:** If used to identify an enemy rather than a barrier, the Charm heats against the bearer’s skin and shortens their temper until an oversight partner removes it.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -82,7 +82,7 @@ Park used the Charm during a disputed medical hold in Zone B. It did not condemn
 
 ## SET RELATIONSHIP
 
-The Charm is the question inside *Open Bar*. Fang makes a release cut and Shield absorbs rage; the Gift requires the set to ask where the real unjust bar is before acting.
+The Charm is the question inside *Open Bar*. Fang makes a release cut and Shield absorbs rage; the Stigma requires the set to ask where the real unjust bar is before acting.
 
 > *“Recognition is the first opening. It is not the whole release.”* — Containment Lead Dekan
 

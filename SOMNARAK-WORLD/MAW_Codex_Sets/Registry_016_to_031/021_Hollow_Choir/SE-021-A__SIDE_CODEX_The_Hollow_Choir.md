@@ -58,7 +58,7 @@ The Choir settles when someone sings with it without correcting the melody. Comp
 |---|---|---|---|---|---|
 | **Weapon** | The Silenced Requiem | γ | Lament | Piercing voice-pressure and truth-carrying strike | `SE-021-B__MAW-W_The_Silenced_Requiem.md` |
 | **Suit** | The Silenced Shroud | γ | Lament | Lets a singer hear grief without losing their own voice | `SE-021-C__MAW-S_The_Silenced_Shroud.md` |
-| **Gift** | The Silenced Lyre | γ | Lament | Creates controlled emotional calm through a single played line | `SE-021-D__MAW-G_The_Silenced_Lyre.md` |
+| **Stigma** | The Silenced Lyre | γ | Lament | Creates controlled emotional calm through a single played line | `SE-021-D__MAW-G_The_Silenced_Lyre.md` |
 
 ### Set Resonance — Unfinished Verse
 

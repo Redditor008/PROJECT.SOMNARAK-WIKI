@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Exiles’ Wall Ring
+# M.A.W. STIGMA — Exiles’ Wall Ring
 
 > *“It senses hostile border pressure and makes the bearer feel every exile caught inside it.”*
 
@@ -29,13 +29,13 @@ A crimson Han-iron ring fastens at the Tail slot and reflects two horizons regar
 
 ## Appearance
 
-The Exiles’ Wall Ring is a crimson ring of Han iron fastened at the tail slot that reflects two horizons regardless of orientation — outward and cityward held in the same band. The Wall grants it unpredictably after successful work; it cannot be manufactured. Its function is the Border Vector: it distinguishes pressure pushing a traveler outward, inward, or into immobility — sensing coercion, not danger, so a dangerous chosen route may remain clear while a safe forced route burns red. The hidden condition is institutional: if Gate Watch uses the Ring as a threat detector, the Gift learns to classify people as pressure sources, marks exiles themselves as hostile, and repeats the Wall’s rejection. In its recorded case the Ring showed intense crimson pressure from the city side, and staff assumed the final traveler meant to leave outward — when she chose cityward, the bearer treated the red reading as a warning against her choice, and the Ring tightened until he recognized it marked coercion coming from the city, not her destination. Once Gate staff withdrew their demand, the cityward line cleared. The inner horizon now brightens around orders and labels before it reacts to weapons.
+The Exiles’ Wall Ring is a crimson ring of Han iron fastened at the tail slot that reflects two horizons regardless of orientation — outward and cityward held in the same band. The Wall grants it unpredictably after successful work; it cannot be manufactured. Its function is the Border Vector: it distinguishes pressure pushing a traveler outward, inward, or into immobility — sensing coercion, not danger, so a dangerous chosen route may remain clear while a safe forced route burns red. The hidden condition is institutional: if Gate Watch uses the Ring as a threat detector, the Stigma learns to classify people as pressure sources, marks exiles themselves as hostile, and repeats the Wall’s rejection. In its recorded case the Ring showed intense crimson pressure from the city side, and staff assumed the final traveler meant to leave outward — when she chose cityward, the bearer treated the red reading as a warning against her choice, and the Ring tightened until he recognized it marked coercion coming from the city, not her destination. Once Gate staff withdrew their demand, the cityward line cleared. The inner horizon now brightens around orders and labels before it reacts to weapons.
 
 ## EFFECT & HIDDEN CONDITION
 
 **Border Vector:** distinguishes pressure pushing a traveler outward, inward, or into immobility. It senses coercion, not danger; a dangerous chosen route may remain clear while a safe forced route burns red.
 
-If Gate Watch uses the Ring as a threat detector, the Gift learns to classify people as pressure sources. It then marks exiles themselves as hostile and repeats the Wall’s rejection.
+If Gate Watch uses the Ring as a threat detector, the Stigma learns to classify people as pressure sources. It then marks exiles themselves as hostile and repeats the Wall’s rejection.
 
 ## ITEM HISTORY — THE CITYWARD Choice
 

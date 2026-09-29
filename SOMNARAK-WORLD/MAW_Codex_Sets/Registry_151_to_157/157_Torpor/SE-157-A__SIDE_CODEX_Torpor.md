@@ -87,7 +87,7 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 |---|---|---:|---|---|---|
 | Weapon | The Sleeping Maul | δ | Weight | Direct response to fatigue-driven pressure and structural load | `SE-157-B__MAW-W_The_Sleeping_Maul.md` |
 | Suit | The Sleeping Mantle | δ | Weight | Weight defense during guarded rest and wake transitions | `SE-157-C__MAW-S_The_Sleeping_Mantle.md` |
-| Gift | The Sleeping Breath | δ | Weight | One restorative calm interval that reveals suppressed camp exhaustion | `SE-157-D__MAW-G_The_Sleeping_Breath.md` |
+| Stigma | The Sleeping Breath | δ | Weight | One restorative calm interval that reveals suppressed camp exhaustion | `SE-157-D__MAW-G_The_Sleeping_Breath.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Sleeping Breath
+### M.A.W. Stigma — The Sleeping Breath
 
 | Field | Record |
 |---|---|

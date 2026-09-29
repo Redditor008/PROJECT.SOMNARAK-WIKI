@@ -87,7 +87,7 @@ The set carries connection, not possession. It becomes dangerous when a bearer m
 |---|---|---:|---|---|---|
 | Weapon | The Crown of Requiem | γ | Lament | Piercing projection of unanswered attachment | `SE-091-B__MAW-W_The_Crown_of_Requiem.md` |
 | Suit | The Crown of Shroud | γ | Lament | Protection while remaining honestly present | `SE-091-C__MAW-S_The_Crown_of_Shroud.md` |
-| Gift | The Crown of Tears | γ | Lament | Perception of bonds and broken links | `SE-091-D__MAW-G_The_Crown_of_Tears.md` |
+| Stigma | The Crown of Tears | γ | Lament | Perception of bonds and broken links | `SE-091-D__MAW-G_The_Crown_of_Tears.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set carries connection, not possession. It becomes dangerous when a bearer m
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Crown of Tears
+### M.A.W. Stigma — The Crown of Tears
 
 | Field | Record |
 |---|---|

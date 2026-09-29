@@ -203,9 +203,9 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
-### M.A.W. Gift — Dreaming Plague's Token
+### M.A.W. Stigma — Dreaming Plague's Token
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
 **Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
@@ -215,9 +215,9 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
 
-**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the gift.
+**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

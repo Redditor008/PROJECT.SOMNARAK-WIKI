@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Embrace
+# M.A.W. STIGMA — The Embrace
 
 > *“It gives the bearer a second pair of arms, though no one else can see where they end.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) — clasp charm |
+| **Type** | Accessory (Stigma) — clasp charm |
 | **Grade** | δ — Critical |
 | **Element** | Grudge — Crimson |
 | **Slot** | Tail |
@@ -31,9 +31,9 @@ The Embrace is a crimson clasp charm shaped like two small arms meeting at the w
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
-**Passive Effect:** When a nearby ally would take a physical hit that would force them down, the Gift slightly redistributes impact toward the bearer.
+**Passive Effect:** When a nearby ally would take a physical hit that would force them down, the Stigma slightly redistributes impact toward the bearer.
 
 **Active Effect — Hold Fast:** Once per day, the bearer may prevent one adjacent ally from being moved, pulled, or knocked down for ten seconds.
 
@@ -47,7 +47,7 @@ The bearer develops a compulsion to keep nearby people within sight. After activ
 
 ## HISTORY OF USE
 
-A Gift bearer used Hold Fast during the Year 4,237 South Dock fire to keep a child from being pulled into a collapsing walkway. The child survived. The bearer then refused to leave the dock until every civilian was counted. The Gift cooled only after the last evacuation list was read aloud. The Archive records this as success and warning in equal measure.
+A Stigma bearer used Hold Fast during the Year 4,237 South Dock fire to keep a child from being pulled into a collapsing walkway. The child survived. The bearer then refused to leave the dock until every civilian was counted. The Stigma cooled only after the last evacuation list was read aloud. The Archive records this as success and warning in equal measure.
 
 ---
 

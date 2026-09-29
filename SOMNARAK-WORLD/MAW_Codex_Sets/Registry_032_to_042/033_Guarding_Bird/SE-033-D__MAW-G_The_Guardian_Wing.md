@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Guardian Wing
+# M.A.W. STIGMA — The Guardian Wing
 
 > *“It will take the hit. It will also decide that the bearer must stay.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — wing charm |
+| Type | Accessory (Stigma) — wing charm |
 | Grade | γ — Major |
 | Element | Void — Pale White |
 | Slot | Head |
@@ -29,7 +29,7 @@ The Guardian Wing is a small pale wing charm carved from Han glass, with two nar
 
 Once per encounter, the Wing absorbs one attack intended for a chosen ally within short range.
 
-**Limit:** The bearer cannot flee while the chosen ally remains in danger. The Gift interprets “danger” broadly and may remain active after tactical retreat becomes necessary.
+**Limit:** The bearer cannot flee while the chosen ally remains in danger. The Stigma interprets “danger” broadly and may remain active after tactical retreat becomes necessary.
 
 **Cost:** The bearer experiences the protected ally’s fear as their own for the rest of the encounter.
 

@@ -52,7 +52,7 @@ During the The Foam Flood Source-Trace, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Foam Flood's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim The set cannot heal the originating event. Misuse routes Foam Flood's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Foam Flood's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim The set cannot heal the originating event. Misuse routes Foam Flood's wound through the operator and triggers the recorded escalation.
 
 ---
 

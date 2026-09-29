@@ -53,7 +53,7 @@
    - *Transferred*: 13 Primary Containment Entities (`SE-001` through `SE-015`) with bespoke 3-tier vector art suites (Seals, 1200×400 Banners, 500×500 Profiles).
    - *Remaining*: The 233 secondary macro entities recorded in the Directorate's macroscopic ledger.
 2. **`SOMNARAK_MAW_CODEX.md` (48.0% Transferred)**:
-   - *Transferred*: 39 Primary Weapons, Suits, and Gifts corresponding to active entities.
+   - *Transferred*: 39 Primary Weapons, Suits, and Stigmas corresponding to active entities.
    - *Remaining*: 67 secondary manufactured tools, accessories, and hybrid equipment.
 3. **`SOMNARAK_ENTITY_TALES.md` (38.0% Transferred)**:
    - *Transferred*: 13 Primary entity backstory tales formatted with tripartite Korean folklore structure.

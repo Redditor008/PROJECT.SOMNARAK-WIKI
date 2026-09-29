@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Empty Knot
+# M.A.W. STIGMA — The Empty Knot
 
 > *“It shows the bond being maintained from only one end.”*
 

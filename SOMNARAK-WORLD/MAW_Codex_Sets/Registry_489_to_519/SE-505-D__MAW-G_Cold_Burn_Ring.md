@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Cold Burn Ring
+# M.A.W. STIGMA — Cold Burn Ring
 
 > *“It hides the watcher from the post and makes every abandoned duty visible inside.”*
 

@@ -52,7 +52,7 @@ During the The Drowned Roots Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Drowned Roots's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Speak the soldier's duty without forcing a false name The set cannot heal the originating event. Misuse routes Drowned Roots's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Drowned Roots's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Speak the soldier's duty without forcing a false name The set cannot heal the originating event. Misuse routes Drowned Roots's wound through the operator and triggers the recorded escalation.
 
 ---
 

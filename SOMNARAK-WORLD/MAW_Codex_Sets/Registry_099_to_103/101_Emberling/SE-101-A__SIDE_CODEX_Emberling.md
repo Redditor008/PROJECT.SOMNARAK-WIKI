@@ -87,7 +87,7 @@ This set protects against cold and isolation without pretending that equipment c
 |---|---|---:|---|---|---|
 | Weapon | The Cinder-Breech Carbine | β | Lament | Direct response to isolation-driven pressure | `SE-101-B__MAW-W_The_Ember_Requiem.md` |
 | Suit | The Hearth-Watcher's Ashen Cloak | β | Lament | Protection against emotional cold and abandonment surge | `SE-101-C__MAW-S_The_Ember_Shroud.md` |
-| Gift | The Smoldering Charcoal Brooch | β | Lament | Short-lived protection from physical and emotional cold | `SE-101-D__MAW-G_The_Ember_Cloak.md` |
+| Stigma | The Smoldering Charcoal Brooch | β | Lament | Short-lived protection from physical and emotional cold | `SE-101-D__MAW-G_The_Ember_Cloak.md` |
 
 ---
 
@@ -122,9 +122,9 @@ This set protects against cold and isolation without pretending that equipment c
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Smoldering Charcoal Brooch
+### M.A.W. Stigma — The Smoldering Charcoal Brooch
 
 | Field | Record |
 |---|---|

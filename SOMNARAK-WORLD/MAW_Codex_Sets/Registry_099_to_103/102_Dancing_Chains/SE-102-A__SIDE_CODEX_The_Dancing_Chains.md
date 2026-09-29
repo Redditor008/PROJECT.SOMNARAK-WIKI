@@ -79,7 +79,7 @@ The Chains look forged until the eye follows one link: it is grown, ridged, and 
 
 ### Set identity — *Unbound Step*
 
-The source object is an I-Relic. Its entity-extracted Weapon, Suit, and Gift records are separate M.A.W. pieces; neither category makes the original Chains safe to equip.
+The source object is an I-Relic. Its entity-extracted Weapon, Suit, and Stigma records are separate M.A.W. pieces; neither category makes the original Chains safe to equip.
 
 **Extraction rule:** a controlled Ferrehan bind must be ended by someone other than the wearer. When the released worker and release partner both name why the movement is over, a crimson echo may shed from the final link. Zyrak may form M.A.W. from that shed echo. Cutting, prying, or making a worker collapse is not extraction.
 
@@ -87,7 +87,7 @@ The source object is an I-Relic. Its entity-extracted Weapon, Suit, and Gift rec
 |---|---|---:|---|---|---|
 | Weapon | The Dancing Fang | γ | Grudge | Piercing response against active physical compulsion | `SE-102-B__MAW-W_The_Dancing_Fang.md` |
 | Suit | The Dancing Plate | γ | Grudge | Mobile defense whose protection depends on a stop cue | `SE-102-C__MAW-S_The_Dancing_Plate.md` |
-| Gift | The Dancing Shoes | γ | Grudge | High movement and evasion with external-removal requirement | `SE-102-D__MAW-G_The_Dancing_Shoes.md` |
+| Stigma | The Dancing Shoes | γ | Grudge | High movement and evasion with external-removal requirement | `SE-102-D__MAW-G_The_Dancing_Shoes.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The source object is an I-Relic. Its entity-extracted Weapon, Suit, and Gift rec
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Dancing Shoes
+### M.A.W. Stigma — The Dancing Shoes
 
 | Field | Record |
 |---|---|

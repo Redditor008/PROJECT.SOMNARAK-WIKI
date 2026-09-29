@@ -87,7 +87,7 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 |---|---|---:|---|---|---|
 | Weapon | The Memory Lens | γ | Void | Piercing defense against invasive memory pressure | `SE-115-B__MAW-W_The_Memory_Lens.md` |
 | Suit | The Memory Veil | γ | Void | Identity protection during supervised memory exposure | `SE-115-C__MAW-S_The_Memory_Veil.md` |
-| Gift | The Memory Flask | γ | Void | One consent-bound memory replay | `SE-115-D__MAW-G_The_Memory_Flask.md` |
+| Stigma | The Memory Flask | γ | Void | One consent-bound memory replay | `SE-115-D__MAW-G_The_Memory_Flask.md` |
 
 ---
 
@@ -123,9 +123,9 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Memory Flask
+### M.A.W. Stigma — The Memory Flask
 
 | Field | Record |
 |---|---|

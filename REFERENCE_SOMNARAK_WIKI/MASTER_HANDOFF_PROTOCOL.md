@@ -45,7 +45,7 @@ The Project Somnarak universe possesses a distinct, proprietary lexicon. Under n
 | FORBIDDEN / THIRD-PARTY TERM | MANDATORY CANONICAL SOMNARAK TERM | IN-UNIVERSE MEANING |
 |---|---|---|
 | *Abnormality / SCP / Monster* | **Sorrow Entity (SE-xxx / 슬픔 개체)** | Crystallized manifestations of human grief, regret, and trauma. |
-| *E.G.O (Weapon / Suit / Gift)* | **M.A.W. (Materialized Agony Wear / 물질화된 고통 의장)** | Weapons (`MAW-W`), Attire/Suits (`MAW-S`), and Artifacts/Gifts (`MAW-G`) extracted from entities. |
+| *E.G.O (Weapon / Suit / Stigma)* | **M.A.W. (Materialized Agony Wear / 물질화된 고통 의장)** | Weapons (`MAW-W`), Attire/Suits (`MAW-S`), and Artifacts/Stigmas (`MAW-G`) extracted from entities. |
 | *Lobotomy Corp / L Corp* | **The Reverie Directorate (R.D. / 몽환관리국)** | The underground administrative authority managing Han and entities beneath the Alpha Tree. |
 | *Sephirah / Patron / AI Guide* | **Echo-Core Leads (공명핵 책임자)** | The 9 designated leaders who carry the weight of civic and entity sorrow. |
 | *Qliphoth Counter* | **Coherence Counter (응집도 계수) / Gauge** | The behavioral stability threshold of a Sorrow Entity chamber. |
@@ -130,7 +130,7 @@ All entity designations, risk classifications, M.A.W. equipment serials, and tal
 
 ``
 ┌────────┬────────────────────────────────┬──────┬────────────┬─────────────────────────────┬─────────────────────────────┬─────────────────────────────┐
-│ CODE   │ ENTITY NAME (KR / EN)          │ RISK │ SIGNATURE  │ M.A.W. WEAPON (MAW-W)       │ M.A.W. SUIT (MAW-S)         │ M.A.W. GIFT (MAW-G)         │
+│ CODE   │ ENTITY NAME (KR / EN)          │ RISK │ SIGNATURE  │ M.A.W. WEAPON (MAW-W)       │ M.A.W. SUIT (MAW-S)         │ M.A.W. STIGMA (MAW-G)         │
 ├────────┼────────────────────────────────┼──────┼────────────┼─────────────────────────────┼─────────────────────────────┼─────────────────────────────┤
 │ SE-001 │ Goa-ui Jong / The Orphaned Bell│ III  │ Lament     │ MAW-W-001-01 Bell Striker   │ MAW-S-001-01 Resonance Vest │ MAW-G-001-01 Clapper Charm  │
 │ SE-002 │ Seulpeohaneun Geosang / Colossus│ IV │ Grudge     │ MAW-W-002-01 Colossus Cleaver│ MAW-S-002-01 Colossal Plate│ MAW-G-002-01 Colossus Shard │
@@ -249,7 +249,7 @@ The wiki features an instant client-side search engine powered by `01_Somnarak_W
 │   ├── factions/                      # 8 Faction & Syndicate Portals (Council, Menders, Frays, Collectors)
 │   ├── locations/                     # 8 Atlas & Municipal Zone Guides (Zones A–G + The Desolate)
 │   ├── lore/                          # 8 Cosmological Guides (Cosmology, Cheongula, Tales, Cycle, Absolvohan)
-│   ├── maw/                           # 4 M.A.W. Registry Articles (Weapons, Suits, Gifts, Catalog)
+│   ├── maw/                           # 4 M.A.W. Registry Articles (Weapons, Suits, Stigmas, Catalog)
 │   ├── mechanics/                     # 7 System Guides (Damage Matrix, Ordeals, Work Types, Containment)
 │   ├── data/search.json               # Real-Time Search Engine Inverted Index (184 entries)
 │   └── downloads/                     # Offline Pre-Packaged Distribution Archives

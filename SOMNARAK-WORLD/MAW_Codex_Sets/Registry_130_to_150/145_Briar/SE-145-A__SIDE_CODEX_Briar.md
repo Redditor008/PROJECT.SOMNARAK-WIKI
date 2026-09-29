@@ -87,7 +87,7 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 |---|---|---:|---|---|---|
 | Weapon | The Briar-Spool Needle Gun | γ | Grudge | Pierce response to repeated harm and active coercion | `SE-145-B__MAW-W_The_Thorn_Fang.md` |
 | Suit | The Thorny Bramble Hauberk | γ | Grudge | Grudge defense with a boundary-respecting cost | `SE-145-C__MAW-S_The_Thorn_Plate.md` |
-| Gift | The Piercing Briar Coronet | γ | Grudge | Converts emotional pain into defensive thorns | `SE-145-D__MAW-G_The_Thorn_Crown.md` |
+| Stigma | The Piercing Briar Coronet | γ | Grudge | Converts emotional pain into defensive thorns | `SE-145-D__MAW-G_The_Thorn_Crown.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Piercing Briar Coronet
+### M.A.W. Stigma — The Piercing Briar Coronet
 
 | Field | Record |
 |---|---|

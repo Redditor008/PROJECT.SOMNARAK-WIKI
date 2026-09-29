@@ -27,7 +27,7 @@ The Severed Requiem is the weapon of the Vanished Rope’s set, bound by the sou
 
 **Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-723 -->
 
-**Set relationship:** Weapon, Suit, and Gift function only as *The End That Cannot Be Pulled*; no piece may claim to resolve the source alone.
+**Set relationship:** Weapon, Suit, and Stigma function only as *The End That Cannot Be Pulled*; no piece may claim to resolve the source alone.
 
 ---
 **Document ID:** `SE-723-B`  

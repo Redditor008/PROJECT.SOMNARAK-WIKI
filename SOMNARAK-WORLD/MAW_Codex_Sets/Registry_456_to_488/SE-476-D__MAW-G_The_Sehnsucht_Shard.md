@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Sehnsucht Shard
+# M.A.W. STIGMA — The Sehnsucht Shard
 
 > *“It holds the witness above the grief and carries the grief away afterward.”*
 

@@ -87,7 +87,7 @@ This set deals in returned memories. Every benefit is paired with a present cost
 |---|---|---:|---|---|---|
 | Weapon | The Returning Lens | δ | Void | Piercing interruption of an intrusive return loop | `SE-125-B__MAW-W_The_Returning_Lens.md` |
 | Suit | The Returning Veil | δ | Void | Protects a bearer’s present identity during return pressure | `SE-125-C__MAW-S_The_Returning_Veil.md` |
-| Gift | The Returning Seed | δ | Void | Recalls one lost memory at equal present-memory cost | `SE-125-D__MAW-G_The_Returning_Seed.md` |
+| Stigma | The Returning Seed | δ | Void | Recalls one lost memory at equal present-memory cost | `SE-125-D__MAW-G_The_Returning_Seed.md` |
 
 ---
 
@@ -123,9 +123,9 @@ This set deals in returned memories. Every benefit is paired with a present cost
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Returning Seed
+### M.A.W. Stigma — The Returning Seed
 
 | Field | Record |
 |---|---|

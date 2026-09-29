@@ -1,6 +1,6 @@
 # Registry Codex Sets — 105 to 115
 
-This batch continues the individualized current-era codex archive after `SE-103`. It includes four complete Side Codex + individual Weapon/Suit/Gift sets and one source-mandated **Side Codex-only** exception for the Final Door.
+This batch continues the individualized current-era codex archive after `SE-103`. It includes four complete Side Codex + individual Weapon/Suit/Stigma sets and one source-mandated **Side Codex-only** exception for the Final Door.
 
 ## Included Entity Sets
 
@@ -45,9 +45,9 @@ This batch continues the individualized current-era codex archive after `SE-103`
 
 ## Final Door Exception — No Individual M.A.W. Codices
 
-The canonical Final Door source explicitly prohibits M.A.W. extraction. Its source profile identifies a no-extraction Lens, no-extraction Veil, and unknown Gift hazard, but none is a materialized item, has a bearer, or has an authorized binding or history record.
+The canonical Final Door source explicitly prohibits M.A.W. extraction. Its source profile identifies a no-extraction Lens, no-extraction Veil, and unknown Stigma hazard, but none is a materialized item, has a bearer, or has an authorized binding or history record.
 
-Accordingly, `SE-111` has a detailed **Side Codex only**. No invented Weapon, Suit, or Gift histories were created. The Side Codex documents the sealed O-Relic boundary, the thirteen-second whisper hazard, the no-extraction status, and the distinction between manufactured Archive containment tools and M.A.W.
+Accordingly, `SE-111` has a detailed **Side Codex only**. No invented Weapon, Suit, or Stigma histories were created. The Side Codex documents the sealed O-Relic boundary, the thirteen-second whisper hazard, the no-extraction status, and the distinction between manufactured Archive containment tools and M.A.W.
 
 ## Formal Numbering Decision — 115
 

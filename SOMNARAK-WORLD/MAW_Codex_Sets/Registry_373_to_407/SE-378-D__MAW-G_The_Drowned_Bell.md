@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Drowned Bell
+# M.A.W. STIGMA — The Drowned Bell
 
 > *“It carries one voice through the sealed deep and leaves every unreachable call ringing afterward.”*
 

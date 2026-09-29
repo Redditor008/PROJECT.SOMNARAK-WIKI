@@ -52,7 +52,7 @@ During the The Unreleased Beam Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Unreleased Beam's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Do not wake it; distribute the burden among a team The set cannot heal the originating event. Misuse routes Unreleased Beam's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Unreleased Beam's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Do not wake it; distribute the burden among a team The set cannot heal the originating event. Misuse routes Unreleased Beam's wound through the operator and triggers the recorded escalation.
 
 ---
 

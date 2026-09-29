@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Soaking Link
+# M.A.W. STIGMA — The Soaking Link
 
 > *“Two people may hold one memory briefly. The grief belongs to both; the memory still has owners.”*
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Muffled Clapper Brooch
+# M.A.W. STIGMA — The Muffled Clapper Brooch
 
 > *“It marks the word that was left unheard. The bearer may lose a word of their own in exchange.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Muffled Clapper Brooch |
 | Set | Heard Warning |
-| Type / grade / element | Gift, pale bell charm / β — Moderate / Void — Pale White |
+| Type / grade / element | Stigma, pale bell charm / β — Moderate / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; warning-custody use only |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 5% after successful Unrung work |
 | Bestowal event | The Charm formed after a silent warning was recorded with timing, recipients, and a current response action. |
 | Acceptance condition | The candidate accepts a warning custodian who controls access to all revealed content. |
-| Source intent | Gift bestowal; it cannot be used to expose private testimony without a response purpose. |
+| Source intent | Stigma bestowal; it cannot be used to expose private testimony without a response purpose. |
 
 **Binding requirement:** The bearer records every revealed missing element before acting on it.
 
@@ -41,9 +41,9 @@
 
 ## Appearance
 
-The Muffled Clapper Brooch is a small pale bell with no clapper and a word-shaped gap across its surface. It identifies the absence in a warning chain, not the person to blame for it. In active use the gap glows at one missing alert word, unacknowledged plea, or suppressed response step. At full activation, the Charm identifies one missing alert step or unheard plea that needs verification. The bearer records every revealed missing element before acting on it. It carries no Echo cost, but one missing warning element at a time. The Charm rests beside a response log, not a secret file. If used to fabricate a warning gap, the Charm removes a word from the bearer’s active vocabulary until the false report is corrected. The custodian covers the gap, states what is known and unknown, and removes the Gift during shutdown. A second Charm reveals overlapping silence gaps that cannot be responsibly sorted.
+The Muffled Clapper Brooch is a small pale bell with no clapper and a word-shaped gap across its surface. It identifies the absence in a warning chain, not the person to blame for it. In active use the gap glows at one missing alert word, unacknowledged plea, or suppressed response step. At full activation, the Charm identifies one missing alert step or unheard plea that needs verification. The bearer records every revealed missing element before acting on it. It carries no Echo cost, but one missing warning element at a time. The Charm rests beside a response log, not a secret file. If used to fabricate a warning gap, the Charm removes a word from the bearer’s active vocabulary until the false report is corrected. The custodian covers the gap, states what is known and unknown, and removes the Stigma during shutdown. A second Charm reveals overlapping silence gaps that cannot be responsibly sorted.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -78,11 +78,11 @@ Park used the Charm during an Archive review and it marked a missing acknowledgm
 
 **Maintenance:** Bearer and custodian review known signal, missing field, and verification plan. The Charm rests beside a response log, not a secret file.
 
-**Emergency shutdown:** The custodian covers the gap, states what is known and unknown, and removes the Gift. Breaking it erases one random response word from everyone within short range.
+**Emergency shutdown:** The custodian covers the gap, states what is known and unknown, and removes the Stigma. Breaking it erases one random response word from everyone within short range.
 
 ## SET RELATIONSHIP
 
-The Charm completes *Answer the Silence*. Hammer manages the signal field and Veil maintains identity; this Gift ensures silence is investigated rather than filled with accusation.
+The Charm completes *Answer the Silence*. Hammer manages the signal field and Veil maintains identity; this Stigma ensures silence is investigated rather than filled with accusation.
 
 > *“An unanswered word is evidence of a gap, not a license to write whatever we wish into it.”* — Archive Lead Marjuk
 

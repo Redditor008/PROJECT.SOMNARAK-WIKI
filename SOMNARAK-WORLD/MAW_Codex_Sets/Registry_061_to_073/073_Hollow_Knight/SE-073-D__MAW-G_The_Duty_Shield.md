@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Duty Shield
+# M.A.W. STIGMA — The Duty Shield
 
 > *“It takes the strike meant for another. It does not know when the other person has already become safe.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — shield pendant |
+| Type | Accessory (Stigma) — shield pendant |
 | Grade | γ — Major |
 | Element | Grudge — Crimson |
 | Slot | Tail |

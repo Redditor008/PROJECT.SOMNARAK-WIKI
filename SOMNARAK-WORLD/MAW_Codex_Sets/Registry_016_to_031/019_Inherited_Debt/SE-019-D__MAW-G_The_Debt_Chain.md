@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Generational Ledger Scar
+# M.A.W. STIGMA — The Generational Ledger Scar
 
 > *“Every link has a name. The problem is that not every name agreed to be linked.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — black chain |
+| Type | Accessory (Stigma) — black chain |
 | Grade | β — Moderate |
 | Element | Weight — Black |
 | Slot | Head |
@@ -37,7 +37,7 @@ The Chain reveals one visible line between a current burden and its previous hol
 
 ### History Record
 
-A Debt Chain revealed that a collector’s enforcement debt had passed through four unrelated tenants after one clerical reassignment. The chain ended at a missing ledger page. The Gift went cold at that page and has not warmed since.
+A Debt Chain revealed that a collector’s enforcement debt had passed through four unrelated tenants after one clerical reassignment. The chain ended at a missing ledger page. The Stigma went cold at that page and has not warmed since.
 
 **Document ID:** `SE-019-D`
 **Linked Entity:** `SE-019`

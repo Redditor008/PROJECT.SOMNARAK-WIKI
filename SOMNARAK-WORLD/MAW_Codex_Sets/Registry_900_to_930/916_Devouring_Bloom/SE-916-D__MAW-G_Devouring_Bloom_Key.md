@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Devouring Bloom Key
+# M.A.W. STIGMA — Devouring Bloom Key
 
 > *“Devouring Bloom Key remembers Devouring Bloom; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Devouring Bloom Key is the gift record of the Devouring Bloom set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is restorative: it heals minor wounds through touch, the memorial's tenderness passed on petal by petal. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is paid in years: the wearer ages faster with each use, healing bought at the memorial's own rate of accumulation. The source-trace fixed doctrine: the Key reveals the sorrow attached to each petal, every crystal traced to its name below the city, and it stabilizes the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Devouring Bloom Key is the stigma record of the Devouring Bloom set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is restorative: it heals minor wounds through touch, the memorial's tenderness passed on petal by petal. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is paid in years: the wearer ages faster with each use, healing bought at the memorial's own rate of accumulation. The source-trace fixed doctrine: the Key reveals the sorrow attached to each petal, every crystal traced to its name below the city, and it stabilizes the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Devouring Bloom Key is the gift record of the Devouring Bloom set — head-s
 
 **Operational / binding cost:** The wearer ages faster with each use. Continued use makes Devouring Bloom's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Stigma Record*
 
-The first Devouring Bloom Key field bearer encountered this source response: Reveals the sorrow attached to each petal. The gift stabilizes the immediate hazard only after the team attributed it to Devouring Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Devouring Bloom Key field bearer encountered this source response: Reveals the sorrow attached to each petal. The stigma stabilizes the immediate hazard only after the team attributed it to Devouring Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Devouring Bloom Key field bearer encountered this source response: Rev
 
 ## SET RELATIONSHIP
 
-Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Key performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Key performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

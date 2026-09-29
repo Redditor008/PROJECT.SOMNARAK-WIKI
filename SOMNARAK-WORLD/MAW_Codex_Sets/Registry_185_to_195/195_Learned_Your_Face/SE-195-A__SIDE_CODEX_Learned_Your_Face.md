@@ -56,7 +56,7 @@ Direct gaze shows a viewer’s sorrow without usual defense. The mirror can give
 |---|---:|---|---|---|
 | Weapon | The Sorrow Lens | γ | Void | `SE-195-B__MAW-W_The_Sorrow_Lens.md` |
 | Suit | The Sorrow Veil | γ | Void | `SE-195-C__MAW-S_The_Sorrow_Veil.md` |
-| Gift | The Sorrow Lens | γ | Void | `SE-195-D__MAW-G_The_Sorrow_Lens.md` |
+| Stigma | The Sorrow Lens | γ | Void | `SE-195-D__MAW-G_The_Sorrow_Lens.md` |
 
 ---
 
@@ -64,7 +64,7 @@ Direct gaze shows a viewer’s sorrow without usual defense. The mirror can give
 
 - **Sorrow Lens Weapon:** Void 7–12; Speed 3; Range 3; Pierce; 3 maximum; 40 Echoes. Separates reflected grief from an identity overload.
 - **Sorrow Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; 3 maximum; 35 Echoes. Protects identity while the wearer reflects grief with a witness.
-- **Sorrow Lens Gift:** Head Gift; 4%; +2 source-work. Reveals hidden sorrow in another person; bearer feels it as personal experience.
+- **Sorrow Lens Stigma:** Head Stigma; 4%; +2 source-work. Reveals hidden sorrow in another person; bearer feels it as personal experience.
 
 ---
 

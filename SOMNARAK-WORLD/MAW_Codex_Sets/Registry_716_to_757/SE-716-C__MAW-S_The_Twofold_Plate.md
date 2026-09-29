@@ -25,7 +25,7 @@ The Twofold Plate is the suit of Double Mouth’s set, bound by the same source 
 
 **Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-716 -->
 
-**Set relationship:** Weapon, Suit, and Gift function only as *Contradiction Held Together*; no piece may claim to resolve the source alone.
+**Set relationship:** Weapon, Suit, and Stigma function only as *Contradiction Held Together*; no piece may claim to resolve the source alone.
 
 ---
 **Document ID:** `SE-716-C`  

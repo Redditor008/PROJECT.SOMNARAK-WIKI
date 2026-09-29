@@ -52,7 +52,7 @@ During the The Keen Source-Trace, the field team preserved this source fact: A m
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Keen's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Listen without attempting to identify or silence the cry The set cannot heal the originating event. Misuse routes Keen's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Keen's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Listen without attempting to identify or silence the cry The set cannot heal the originating event. Misuse routes Keen's wound through the operator and triggers the recorded escalation.
 
 ---
 

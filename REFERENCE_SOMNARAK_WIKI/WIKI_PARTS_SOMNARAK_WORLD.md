@@ -91,7 +91,7 @@ Verified on `arena/01a0b699-project-somnarak-wiki` — 1,710 files (2026-09-29).
 | 2 | **Behavior** | `2 Behavior` / `2.1 Pairs & Families` | `Sorrow_Entities/` Work-Preference & Paired Fact Sheets | 292 |
 | 3 | **Origin** | `3 Origin` / `3.1 River` / `3.2 Bucket` / `3.3 Extraction` | `Master_Codices/01` (Weeping, Hand, Doorspeech) + `CANON_TIMELINE.md` — Weeping as River, Root Grid as native Conduit (no Bucket analogue), Wells as Pillars, Lumen as Cogito | 7 codices |
 | 4 | **Lumen (Enkephalin analogue)** | `4 Enkephalin` | `Master_Codices/03` + `MAW_Codex` — facility power substrate | — |
-| 5 | **M.A.W. (E.G.O analogue)** | `5 E.G.O` / `5.1 Corrosion` / `5.2 Gifts` | `MAW_Codex_Sets/` — Side Codex + Weapon + Suit + Gift; Corrosion→Resonance Overload | 1,208 |
+| 5 | **M.A.W. (E.G.O analogue)** | `5 E.G.O` / `5.1 Corrosion` / `5.2 Stigmas` | `MAW_Codex_Sets/` — Side Codex + Weapon + Suit + Stigma; Corrosion→Resonance Overload | 1,208 |
 | 6 | **Related Entities** | `6 Related Entities` / `6.1 Monsters` / `6.2 Ordeals` | `Mugenhan_Ecology/` (Tier 1 Mundane 15 + Tier 2 Sorrow-Infused 6 + Tier 3 Mortal 6) / `Ordeals/` (5 Colors × 4 Ranks) / `Unknown_Entities/` (12) | 79 |
 | 7 | **Gameplay / Tactical Engine** | `7 Gameplay` | `Tactical_Combat_Engine/` + `GAME_BATTLE/` — Initiative, Stress, Resonance, Grid | 16 |
 | 8 | **Relic-Entities (Tool analogue)** | `8 Tool Abnormalities` | Object/Place/Time entities → Two-Work-Type only (`Viderehan` + `Ferrehan`) — `SE-C/N/O-III/IV-...` | 88 |
@@ -122,7 +122,7 @@ Verified on `arena/01a0b699-project-somnarak-wiki` — 1,710 files (2026-09-29).
 | Well (우물) — comatose pillars | Mnemonic Wells — Well-house pillars | `Master_Codices/01` |
 | Cogito | Lumen | `Master_Codices/03` |
 | Enkephalin | Lumen / Resonance (facility power) | `Master_Codices/05` |
-| E.G.O / Gifts / Corrosion | M.A.W. Quadripartite (Side Codex/Weapon/Suit/Gift) / Resonance Overload | `MAW_Codex_Sets/` + `TEMPLATES/02–05` |
+| E.G.O / Stigmas / Corrosion | M.A.W. Quadripartite (Side Codex/Weapon/Suit/Stigma) / Resonance Overload | `MAW_Codex_Sets/` + `TEMPLATES/02–05` |
 | Monsters / Ordeals | Mugenhan Ecology / Ordeals (5 Colors ×4) / Unknown Entities (12) | `Mugenhan_Ecology/` + `Ordeals/` |
 | Tool Abnormalities (Single/Channeled/Equippable) | Relic-Entities (Object/Place/Time) — Viderehan+Ferrehan only | `MAW_Codex_Sets/Registry_*` + `SECC` audit |
 | Classification Code `F/T/O/D/M-XX-YY` | SECC `SE-[Origin]-[Rank][Potency]-[Number]` | `Sorrow_Entities/README.md` + `TEMPLATES/01+23` |

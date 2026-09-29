@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Trace Ember
+# M.A.W. STIGMA — The Trace Ember
 
 > *“It shows where an old feeling passed through. It does not show whom the feeling belongs to now.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Trace Ember |
 | Set | Lost Cause |
-| Type / grade / element | Gift, ember-charm / α — Minor / Grudge — Crimson |
+| Type / grade / element | Stigma, ember-charm / α — Minor / Grudge — Crimson |
 | Slot | Tail |
 | Status | Bearer-bound; context partner required for readouts |
 | Known bearer | Specialist Sooah Park |
@@ -33,13 +33,13 @@
 | Acquisition probability | 5% after successful Animus work |
 | Bestowal event | A small ember cooled into the frame after a team allowed the trace to fade without claiming a complete cause. |
 | Acceptance condition | The candidate signs an uncertainty rule: no Ember result may be written as a blame finding by itself. |
-| Source intent | Gift bestowal; it cannot reconstruct the grievance that Animus no longer remembers. |
+| Source intent | Stigma bestowal; it cannot reconstruct the grievance that Animus no longer remembers. |
 
 **Binding requirement:** The bearer names a context partner who reads every residue result before action is taken.
 
 **Rejection rule:** A bearer who uses the Ember to accuse someone inherits a flash of anger toward that person without receiving any additional evidence.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|

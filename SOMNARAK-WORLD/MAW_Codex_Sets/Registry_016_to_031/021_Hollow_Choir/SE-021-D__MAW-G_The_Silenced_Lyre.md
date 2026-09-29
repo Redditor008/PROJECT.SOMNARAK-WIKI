@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Silenced Lyre
+# M.A.W. STIGMA — The Silenced Lyre
 
 > *“It can calm a room, but the bearer must decide whose anger is being quieted and why.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — miniature lyre |
+| Type | Accessory (Stigma) — miniature lyre |
 | Grade | γ — Major |
 | Element | Lament — Deep Blue |
 | Slot | Tail |

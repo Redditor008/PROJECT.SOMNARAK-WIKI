@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Absent Burden
+# M.A.W. STIGMA — The Absent Burden
 
 > *“It turns pressure into strength and makes every empty place feel like your responsibility.”*
 
@@ -23,7 +23,7 @@ The Absent Burden is a warm crimson tail-charm of Han iron with an invisible wei
 **Effect:** converts invisible emotional pressure into temporary physical strength  
 **Cost:** every absence feels like a personal obligation
 
-The Gift helped lift a collapsed archive brace while the source burden remained unknown. Haneulash refused the urge to investigate every blank record personally afterward.
+The Stigma helped lift a collapsed archive brace while the source burden remained unknown. Haneulash refused the urge to investigate every blank record personally afterward.
 
 **Set relationship:** makes pressure measurable for Plate and Fang.
 

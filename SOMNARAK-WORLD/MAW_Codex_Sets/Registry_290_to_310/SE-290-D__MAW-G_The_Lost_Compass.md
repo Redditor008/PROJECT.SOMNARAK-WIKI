@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Lost Compass
+# M.A.W. STIGMA — The Lost Compass
 
 > *“It can say no. It cannot say where.”*
 
@@ -27,11 +27,11 @@ The Lost Compass is a pale head-compass of Han glass whose needle points away fr
 **Effect:** identifies one wrong direction  
 **Cost:** never identifies the right direction
 
-The Gift rejected a Han-flooded tunnel during a survey. Yeonhwa still waited for physical mapping before choosing among the remaining routes.
+The Stigma rejected a Han-flooded tunnel during a survey. Yeonhwa still waited for physical mapping before choosing among the remaining routes.
 
 ## SET RELATIONSHIP
 
-Gift provides one rejection, Veil preserves the traveler, Lens removes a false path.
+Stigma provides one rejection, Veil preserves the traveler, Lens removes a false path.
 
 ## CORROSION, FAILURE & RELEASE
 

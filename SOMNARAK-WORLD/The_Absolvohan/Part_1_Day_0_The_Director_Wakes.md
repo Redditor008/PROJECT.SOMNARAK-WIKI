@@ -622,7 +622,7 @@ Observation points accumulated from Chamber 001's resonance sessions are transfe
 |                        | Speed Delta 0 | 1 AP | Range Band 1-2      |
 | Lament Shroud          | Suit: Light Armor (Speed Delta +1)         |
 |                        | Resist: 0.8 Grudge / 0.7 Lament / 1.2 Void |
-| Lament Edge Gift       | Eye Slot: +4 SP, +5 Work Success Resonance |
+| Lament Edge Stigma     | Eye Slot: +4 SP, +5 Work Success Resonance |
 | -----------------------+------------------------------------------- |
 | EQUIPMENT ALLOCATION                                                |
 |   | BESTOWED UPON SPECIALIST PARK (VANGUARD SPECIALIST)             |

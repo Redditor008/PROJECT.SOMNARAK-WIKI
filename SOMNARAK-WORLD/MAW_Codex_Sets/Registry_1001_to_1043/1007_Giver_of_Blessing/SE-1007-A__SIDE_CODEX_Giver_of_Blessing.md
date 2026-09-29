@@ -52,7 +52,7 @@ During the The Giver of Blessing Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Giver of Blessing's source condition, the Suit lets a witness bear its Lament (Deep Blue) with emerging Hope pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Lower the Sorrow Gauge below 25% while following the recorded Work responses. The set cannot heal the originating event. Misuse routes Giver of Blessing's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Giver of Blessing's source condition, the Suit lets a witness bear its Lament (Deep Blue) with emerging Hope pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Lower the Sorrow Gauge below 25% while following the recorded Work responses. The set cannot heal the originating event. Misuse routes Giver of Blessing's wound through the operator and triggers the recorded escalation.
 
 ---
 

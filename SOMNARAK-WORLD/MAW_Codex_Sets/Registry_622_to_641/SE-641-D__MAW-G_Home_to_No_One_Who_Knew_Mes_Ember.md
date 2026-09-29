@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Home to No One Who Knew Me’s Ember
+# M.A.W. STIGMA — Home to No One Who Knew Me’s Ember
 
 > *“It recalls one lost object to the hand and delivers the object’s entire grief with it.”*
 
@@ -33,7 +33,7 @@ Home to No One Who Knew Me’s Ember is a tail charm of crimson Han iron contain
 
 ## EFFECT & HIDDEN CONDITION
 
-**One-Object Return:** recalls one specifically identified lost object for a brief acknowledgment interval. The Gift returns object and history, not legal title, former owner, intact context, or restoration.
+**One-Object Return:** recalls one specifically identified lost object for a brief acknowledgment interval. The Stigma returns object and history, not legal title, former owner, intact context, or restoration.
 
 If the bearer says “mine” before the object’s current status is reviewed, the Ember recalls every prior claimant’s emotional bond and distributes it through the bearer.
 

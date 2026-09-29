@@ -58,7 +58,7 @@ The entity does not require the debt to be forgiven or paid. It requires the tar
 |---|---|---|---|---|---|
 | **Weapon** | The Ancestral Gravitational Signet | β | Weight | Breaks debt-laden pressure through direct impact | `SE-019-B__MAW-W_The_Debt_Maul.md` |
 | **Suit** | The Penitent's Shackled Vestments | β | Weight | Carries inherited burden without confusing it for selfhood | `SE-019-C__MAW-S_The_Debt_Mantle.md` |
-| **Gift** | The Generational Ledger Scar | β | Weight | Shows obligation paths between people | `SE-019-D__MAW-G_The_Debt_Chain.md` |
+| **Stigma** | The Generational Ledger Scar | β | Weight | Shows obligation paths between people | `SE-019-D__MAW-G_The_Debt_Chain.md` |
 
 ### Set Resonance — Name the Chain
 

@@ -74,7 +74,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   ├── 06_PARALLEL_WORLDS_AND_MIRROR_TECHNOLOGY.md # Mirror Worlds, Identities, Glass Windows
 │   ├── 07_COMPREHENSIVE_ENCYCLOPEDIC_LEXICON.md # Master terminology & technical concepts
 │   ├── 08_TACTICAL_MECHANICS_AND_ORDEALS.md # Combat systems, clashes, affinities, Ordeals
-│   ├── 09_EGO_EQUIPMENT_WEAPONS_SUITS_AND_GIFTS.md # E.G.O equipment, extraction, risk tiers
+│   ├── 09_EGO_EQUIPMENT_WEAPONS_SUITS_AND_STIGMAS.md # E.G.O equipment, extraction, risk tiers
 │   ├── 10_FIXER_OFFICES_AND_SPECIALIZED_SYNDICATES.md # Section breakdowns, Colors, Hana, Liu, Shi
 │   ├── 11_LORE_AND_NARRATIVE_DEEP_DIVE.md  # Deep character studies, Carmen, Ayin, Angela, Roland
 │   ├── 12_ABNORMALITY_ENCYCLOPEDIA.md      # Comprehensive abnormality entries (ZAYIN to ALEPH)
@@ -136,7 +136,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 2. **A5 — File Safety:** Never delete or overwrite owner files or canonical reference documents without an explicit, file-named instruction from the owner.
 3. **Canon Terminology is Immutable:** Retain authentic Somnarak-native terminology across all documentation:
    - Sorrow Entities (SE), SECC designations with Origin Scopes (C: City Sorrow / 도한, N: Inner Sorrow / 내한, O: Outside Sorrow / 외한), Coherence Ranks (I: Whisper, II: Murmur, III: Fragment, IV: Entity, V: Sovereign), and Potency Grades (α to ω).
-   - M.A.W. (Materialized Armament of Woe), Weapons (W), Suits (S), Gifts (G).
+   - M.A.W. (Materialized Armament of Woe), Weapons (W), Suits (S), Stigmas (G).
    - Han energy, Liquid Han, Absolvohan, Resonant Clash.
    - Facility 01 ("The Hand of Change"), Reverie Directorate, High Council.
    - Four damage elements: Grudge (원한), Lament (비탄), Void (공허), Weight (비중).
@@ -162,7 +162,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
   - `SE-<ID>-A__SIDE_CODEX_<Name>.md`: The donor entity's lore and extraction parameters.
   - `SE-<ID>-B__MAW-W_<Weapon>.md`: Weapon specs (damage element, range/speed band, special moves).
   - `SE-<ID>-C__MAW-S_<Suit>.md`: Suit defenses, elemental resistances, and passive traits.
-  - `SE-<ID>-D__MAW-G_<Gift>.md`: Gift slot, resonance triggers, and appearance.
+  - `SE-<ID>-D__MAW-G_<Stigma>.md`: Stigma slot, resonance triggers, and appearance.
 
 ### D. Five-Color Ordeals (`SOMNARAK-WORLD/Ordeals/`)
 - Ordeals are organized by color: `BLACK` (Weight), `BLUE` (Lament), `GREY` (Grudge), `PALE` (Void), and `PURPLE` (Mixed).

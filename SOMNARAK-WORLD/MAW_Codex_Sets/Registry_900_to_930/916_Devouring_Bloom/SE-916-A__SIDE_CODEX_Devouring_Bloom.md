@@ -52,7 +52,7 @@ During the The Devouring Bloom Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Devouring Bloom's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Witness the memories and prevent unauthorized petal collection The set cannot heal the originating event. Misuse routes Devouring Bloom's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Devouring Bloom's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Witness the memories and prevent unauthorized petal collection The set cannot heal the originating event. Misuse routes Devouring Bloom's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Silence Weight
+# M.A.W. STIGMA — The Silence Weight
 
 > *“It tells you that words are present. It does not tell you they belong to you.”*
 
@@ -27,11 +27,11 @@ The Silence Weight is a warm black head-token of Han steel that makes external s
 **Effect:** prevents external noise from disturbing the bearer and senses nearby unspoken words  
 **Cost:** the bearer feels every unspoken word as weight
 
-Haneulash used the Gift in a crowded Commons response. It identified which silence carried dangerous pressure without exposing what anyone withheld.
+Haneulash used the Stigma in a crowded Commons response. It identified which silence carried dangerous pressure without exposing what anyone withheld.
 
 ## SET RELATIONSHIP
 
-Gift detects burden, Mantle makes optional quiet, and Maul acts on one offered word.
+Stigma detects burden, Mantle makes optional quiet, and Maul acts on one offered word.
 
 ## CORROSION, FAILURE & RELEASE
 

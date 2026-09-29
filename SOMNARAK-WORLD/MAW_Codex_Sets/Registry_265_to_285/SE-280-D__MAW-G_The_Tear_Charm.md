@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Weeping Veil Clip
+# M.A.W. STIGMA — The Weeping Veil Clip
 
 > *“Among a thousand tears, it keeps one pattern attached to the person who shed it.”*
 

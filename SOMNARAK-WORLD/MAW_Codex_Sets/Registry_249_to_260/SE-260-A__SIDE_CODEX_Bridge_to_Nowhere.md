@@ -65,9 +65,9 @@ A stable echo remains only after a complete Ferrehan crossing whose entry and ex
 |---|---|---:|---|---|
 | Weapon | The Memory Requiem | δ | Severs an unstable ascent along a remembered path. | `SE-260-B__MAW-W_The_Memory_Requiem.md` |
 | Suit | The Memory Shroud | δ | Keeps the wearer anchored while another traveler’s route replaces the present. | `SE-260-C__MAW-S_The_Memory_Shroud.md` |
-| Gift | The Memory Span | δ | Allows one remembered distance to be crossed without restoring its destination. | `SE-260-D__MAW-G_The_Memory_Span.md` |
+| Stigma | The Memory Span | δ | Allows one remembered distance to be crossed without restoring its destination. | `SE-260-D__MAW-G_The_Memory_Span.md` |
 
-**Set cost:** The wielder weeps, the wearer loses minor joy, and the Gift bearer feels every final goodbye attached to the route.
+**Set cost:** The wielder weeps, the wearer loses minor joy, and the Stigma bearer feels every final goodbye attached to the route.
 
 ---
 
@@ -75,7 +75,7 @@ A stable echo remains only after a complete Ferrehan crossing whose entry and ex
 
 - **Memory Requiem:** Lament 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping.
 - **Memory Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 2; 45 Echoes. It resists Lament while numbing minor joys.
-- **Memory Span:** Tail Gift; 4%; +3 Clarity during source work. It crosses one remembered distance; the bearer feels every traveler’s final goodbye.
+- **Memory Span:** Tail Stigma; 4%; +3 Clarity during source work. It crosses one remembered distance; the bearer feels every traveler’s final goodbye.
 
 ---
 

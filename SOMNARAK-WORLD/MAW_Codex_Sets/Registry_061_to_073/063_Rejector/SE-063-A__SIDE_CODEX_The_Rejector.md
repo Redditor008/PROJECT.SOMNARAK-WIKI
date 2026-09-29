@@ -58,7 +58,7 @@ Permit refusal without calling it agreement. The entity calms when someone ackno
 |---|---|---|---|---|---|
 | Weapon | The Denial Lens | γ | Void | Rejects coerced attack and false obligation | `SE-063-B__MAW-W_The_Denial_Lens.md` |
 | Suit | The Denial Veil | γ | Void | Protects identity at the risk of isolation | `SE-063-C__MAW-S_The_Denial_Veil.md` |
-| Gift | The Denial Shield | γ | Void | Refuses one incoming harm at social cost | `SE-063-D__MAW-G_The_Denial_Shield.md` |
+| Stigma | The Denial Shield | γ | Void | Refuses one incoming harm at social cost | `SE-063-D__MAW-G_The_Denial_Shield.md` |
 
 ### Set Resonance — No Is an Answer
 

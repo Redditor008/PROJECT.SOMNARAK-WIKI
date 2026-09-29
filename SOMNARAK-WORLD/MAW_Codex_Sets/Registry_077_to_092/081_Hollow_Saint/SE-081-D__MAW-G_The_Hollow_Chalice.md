@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Hollow Chalice
+# M.A.W. STIGMA — The Hollow Chalice
 
 > *“It can take the ache away. It cannot tell you what you become when the ache is gone.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Hollow Chalice |
 | Set | Hollow Benediction |
-| Type / grade / element | Gift, forehead-cup / γ — Major / Void — Pale White |
+| Type / grade / element | Stigma, forehead-cup / γ — Major / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; wellness review required after every activation |
 | Known bearer | Specialist Haneulash Yoon |
@@ -32,14 +32,14 @@
 |---|---|
 | Acquisition probability | 4% after a successful Hollow Saint work cycle |
 | Bestowal event | The Saint released a worker after the worker refused to surrender a personal desire along with their sorrow. The Chalice appeared on the containment floor after the session ended. |
-| Acceptance condition | The candidate names one feeling they will not ask the Gift to remove. |
-| Source intent | Voluntary Gift; it cannot be manufactured, ordered, or taken from the Saint. |
+| Acceptance condition | The candidate names one feeling they will not ask the Stigma to remove. |
+| Source intent | Voluntary Stigma; it cannot be manufactured, ordered, or taken from the Saint. |
 
 **Binding requirement:** The bearer must have a welfare partner who can distinguish temporary quiet from healthy recovery.
 
 **Rejection rule:** The Chalice refuses anyone seeking a painless version of themself. It produces a sharp empty pressure behind the eyes and drops from the head slot.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -64,7 +64,7 @@ The Chalice identifies whether a stated sorrow has a clear owner and name. It do
 **Trigger:** A willing person names a specific grief, and the bearer repeats whose grief it is.  
 **Effect:** The Chalice draws the immediate emotional intensity from that one sorrow, giving the person enough calm to choose a next action.  
 **Limit:** It cannot take trauma histories, memories, identity, or another person’s pain by proxy. It does not store the removed feeling for later return.  
-**Hidden condition:** If the bearer uses the Gift repeatedly to avoid their own grief, their emotional response to all related joys and losses begins to flatten.
+**Hidden condition:** If the bearer uses the Stigma repeatedly to avoid their own grief, their emotional response to all related joys and losses begins to flatten.
 
 ## HISTORY OF USE
 

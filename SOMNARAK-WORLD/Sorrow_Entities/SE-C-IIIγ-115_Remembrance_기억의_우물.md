@@ -204,7 +204,7 @@ The escalation pattern is specific to Remembrance: it is not a generic breach ev
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Shard-Storm Reel
 
@@ -247,9 +247,9 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Cost:** The wearer feels faintly absent to themselves.
 
-### M.A.W. Gift — The Memory Flask
+### M.A.W. Stigma — The Memory Flask
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
 **Appearance:** a small flask of pale Han-glass, near-translucent and almost colourless, warm to the touch.
 
@@ -261,11 +261,11 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Cost:** The stored memory becomes emotionally heavier each time it is replayed.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Gift cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

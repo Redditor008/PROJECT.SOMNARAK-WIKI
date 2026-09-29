@@ -68,7 +68,7 @@ The set protects a threshold but is expressly barred from recreating the old log
 |---|---|---:|---|---|
 | Weapon | The Gatekeeper’s Blade | δ | Grudge | `SE-200-B__MAW-W_The_Gatekeepers_Blade.md` |
 | Suit | The Gatekeeper’s Plate | δ | Grudge | `SE-200-C__MAW-S_The_Gatekeepers_Plate.md` |
-| Gift | The Gatekeeper’s Charm | δ | Grudge | `SE-200-D__MAW-G_The_Gatekeepers_Charm.md` |
+| Stigma | The Gatekeeper’s Charm | δ | Grudge | `SE-200-D__MAW-G_The_Gatekeepers_Charm.md` |
 
 ---
 
@@ -76,7 +76,7 @@ The set protects a threshold but is expressly barred from recreating the old log
 
 - **Blade:** Grudge 10–15; Speed 3; Range 3; Pierce; 2 maximum; 50 Echoes. Stops a marked hostile flight across a defined boundary; the bearer feels every historical exile whose return was denied.
 - **Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; 2 maximum; 45 Echoes. Holds a defensive gate line, but drops protection if an authorized route is deliberately closed.
-- **Charm:** Tail Gift; 4%; +3 source-work. Identifies a passage duty that lacks a return, arrival, or review record; temper shortens near unaccountable exclusion.
+- **Charm:** Tail Stigma; 4%; +3 source-work. Identifies a passage duty that lacks a return, arrival, or review record; temper shortens near unaccountable exclusion.
 
 ---
 

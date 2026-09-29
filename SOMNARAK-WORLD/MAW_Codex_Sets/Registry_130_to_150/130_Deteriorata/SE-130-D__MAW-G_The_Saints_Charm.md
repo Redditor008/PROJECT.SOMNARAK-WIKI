@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Saint’s Charm
+# M.A.W. STIGMA — The Saint’s Charm
 
 > *“It marks the burden you think has no handoff. It makes your body slow enough to notice you were never meant to carry it alone.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Saint’s Charm |
 | Set | Held Together |
-| Type / grade / element | Gift, cracked stone charm / γ — Major / Weight — Black |
+| Type / grade / element | Stigma, cracked stone charm / γ — Major / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; handoff plan required |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 4% after successful Deteriorata work |
 | Bestowal event | The Charm appeared when a worker accepted relief before the Saint’s transferred Weight became a collapse. |
 | Acceptance condition | The candidate identifies one real person or system that can receive a future handoff. |
-| Source intent | Gift bestowal; it does not command another person to take the bearer’s burden. |
+| Source intent | Stigma bestowal; it does not command another person to take the bearer’s burden. |
 
 **Binding requirement:** The bearer must ask for help before the Charm is permitted to show a burden route.
 
@@ -43,7 +43,7 @@
 
 The Saint's Charm is a small black stone charm whose surface carries a single white crack, and it weighs more than its size suggests in the palm. A short cord lets it rest at the belt or against the chest, and in rest the crack lies pale and still. When the bearer has been treating a burden as untransferable, the crack turns and points toward the first practical handoff step: a person, route, record, or action that can begin distribution. The charm stays cool until the bearer has actually asked another person for help, and the absence of that conversation keeps it silent. It carries no Echo cost, but the bearer's movement grows slow and heavy while it reads the burden. At shift end the bearer records one burden transferred and one still requiring a plan, and the charm rests beside the completed handoff record. If used to shame a person for not carrying enough, the charm makes the bearer's own steps slow until an apology and role review occur. The relief person removes it while naming the task they accept.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -68,7 +68,7 @@ The Charm identifies one responsibility a bearer is holding as though no other p
 
 ## HISTORY OF USE
 
-Park used the Charm during a prolonged containment shift and expected it to indicate a technical failure. It pointed to the relief roster. Park argued there was no time to leave. The Charm made every step slow enough that the supervisor noticed the refusal. The relief team arrived, and Park later wrote that the Gift’s “minor boon” was simply making it impossible to pretend the handoff was invisible.
+Park used the Charm during a prolonged containment shift and expected it to indicate a technical failure. It pointed to the relief roster. Park argued there was no time to leave. The Charm made every step slow enough that the supervisor noticed the refusal. The relief team arrived, and Park later wrote that the Stigma’s “minor boon” was simply making it impossible to pretend the handoff was invisible.
 
 ## CORROSION, MAINTENANCE & SHUTDOWN
 

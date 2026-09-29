@@ -204,7 +204,7 @@ The escalation pattern is specific to Portcullis: it is not a generic breach eve
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Ruined Jamb-Knife
 
@@ -247,9 +247,9 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — The Collapsed Key
+### M.A.W. Stigma — The Collapsed Key
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
 **Appearance:** a key-charm of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
@@ -261,11 +261,11 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Cost:** The user feels the departure of everyone who once waited behind it.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Gifts. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

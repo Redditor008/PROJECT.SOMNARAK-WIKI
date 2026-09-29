@@ -52,7 +52,7 @@ During the The Spire of Unanswered Prayer Source-Trace, the field team preserved
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Spire of Unanswered Prayer's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Listen to the song; do not silence it The set cannot heal the originating event. Misuse routes Spire of Unanswered Prayer's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Spire of Unanswered Prayer's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Listen to the song; do not silence it The set cannot heal the originating event. Misuse routes Spire of Unanswered Prayer's wound through the operator and triggers the recorded escalation.
 
 ---
 

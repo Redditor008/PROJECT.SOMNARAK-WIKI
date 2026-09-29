@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Vanished Word
+# M.A.W. STIGMA — The Vanished Word
 
 > *“One attested word may survive. It does not authorize a speech written by descendants.”*
 
@@ -23,7 +23,7 @@ The Vanished Word is a warm head-tile of pale Han glass holding one word atteste
 **Effect:** preserves one attested spoken word from erasure  
 **Cost:** removed words from nearby conversations remain audible to the bearer
 
-The Gift preserved **gathered**, confirmed by two pre-erasure logistics fragments. It did not infer why people gathered.
+The Stigma preserved **gathered**, confirmed by two pre-erasure logistics fragments. It did not infer why people gathered.
 
 **Failures:** one word becomes a slogan; nearby ordinary omissions overwhelm the bearer; descendants’ language is backdated into the protest.
 

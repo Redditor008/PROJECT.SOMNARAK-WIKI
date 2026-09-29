@@ -52,7 +52,7 @@ During the The Moktak Source-Trace, the field team preserved this source fact: N
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Moktak's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Moktak's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Moktak's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Moktak's wound through the operator and triggers the recorded escalation.
 
 ---
 

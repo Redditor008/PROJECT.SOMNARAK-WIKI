@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Tower Tear
+# M.A.W. STIGMA — The Tower Tear
 
 > *“The Tower Tear remembers Spire of Unanswered Prayer; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Tower Tear is the gift record of the Spire of Unanswered Prayer’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability turns the source’s grief architectural: it creates a small field of shelter from emotional storms, a portable fragment of the tower’s intent. Binding names the source event — a Desolate community vanished beneath a Han surge, and survivors carried its tower-song into the city — and accepts the set’s limit: listen to the song; do not silence it. The cost arrives in sleep: the wearer hears the lost settlement during rest, sheltered hours repaid in nightly attendance, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the settlement beneath the song — the community the melody has been carrying all along — and it stabilized the immediate hazard only after attribution to the Spire. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Tower Tear is the stigma record of the Spire of Unanswered Prayer’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability turns the source’s grief architectural: it creates a small field of shelter from emotional storms, a portable fragment of the tower’s intent. Binding names the source event — a Desolate community vanished beneath a Han surge, and survivors carried its tower-song into the city — and accepts the set’s limit: listen to the song; do not silence it. The cost arrives in sleep: the wearer hears the lost settlement during rest, sheltered hours repaid in nightly attendance, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the settlement beneath the song — the community the melody has been carrying all along — and it stabilized the immediate hazard only after attribution to the Spire. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Tower Tear is the gift record of the Spire of Unanswered Prayer’s set — 
 
 **Operational / binding cost:** The wearer hears the lost settlement during sleep. Continued use makes Spire of Unanswered Prayer's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Stigma Record*
 
-The first The Tower Tear field bearer encountered this source response: Reveals the settlement beneath the song. The gift stabilizes the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Tower Tear field bearer encountered this source response: Reveals the settlement beneath the song. The stigma stabilizes the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Tower Tear field bearer encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Tear performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Tear performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

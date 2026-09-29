@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Somnalith Vial
+# M.A.W. STIGMA — Somnalith Vial
 
 > *“It quiets the command hidden inside emotion, then takes a small personal memory while you sleep.”*
 
@@ -29,17 +29,17 @@ A nearly colorless Han-glass vial rests at the Head slot, hot for one breath nea
 
 ## Appearance
 
-The Somnalith Vial is a nearly colorless vial of Han glass worn at the head slot, hot for exactly one breath near manipulated sorrow — and the fluid visible in dreams has no waking volume, a content that exists only where the source does. Bestowal may follow an accepted work cycle; it cannot be manufactured. Its function is Command Decanting: it separates an emotional command — wake, confess, obey, forget — from the feeling carrying it for several breaths; the emotion remains available, only its coercive direction quiets, urgency heard without being obeyed. The hidden condition is the anesthetic drift: a bearer who uses the Vial to avoid all feeling finds the Gift bottling ordinary attachment, and each bottled attachment becomes a pale gap after sleep that cannot be poured back. In its recorded case the Vial let its first bearer hear a researcher’s urgency without obeying “wake it” — and that night it took the words of the lullaby she used as anchor, leaving melody, source, and grief but not a single syllable. Reconstructing the words from another record was prohibited: the missing memory was the cost, not a clerical error. The dream-fluid now rises whenever a bearer treats suppression as recovery.
+The Somnalith Vial is a nearly colorless vial of Han glass worn at the head slot, hot for exactly one breath near manipulated sorrow — and the fluid visible in dreams has no waking volume, a content that exists only where the source does. Bestowal may follow an accepted work cycle; it cannot be manufactured. Its function is Command Decanting: it separates an emotional command — wake, confess, obey, forget — from the feeling carrying it for several breaths; the emotion remains available, only its coercive direction quiets, urgency heard without being obeyed. The hidden condition is the anesthetic drift: a bearer who uses the Vial to avoid all feeling finds the Stigma bottling ordinary attachment, and each bottled attachment becomes a pale gap after sleep that cannot be poured back. In its recorded case the Vial let its first bearer hear a researcher’s urgency without obeying “wake it” — and that night it took the words of the lullaby she used as anchor, leaving melody, source, and grief but not a single syllable. Reconstructing the words from another record was prohibited: the missing memory was the cost, not a clerical error. The dream-fluid now rises whenever a bearer treats suppression as recovery.
 
 ## EFFECT & HIDDEN CONDITION
 
 **Command Decanting:** separates an emotional command—wake, confess, obey, forget—from the feeling carrying it for several breaths. The emotion remains available; only its coercive direction quiets.
 
-If the bearer uses the Vial to avoid all feeling, the Gift begins bottling ordinary attachment. Each bottled attachment becomes a pale gap after sleep and cannot be poured back.
+If the bearer uses the Vial to avoid all feeling, the Stigma begins bottling ordinary attachment. Each bottled attachment becomes a pale gap after sleep and cannot be poured back.
 
 ## ITEM HISTORY — THE LULLABY WITHOUT WORDS
 
-Somnalith bestowed the first Vial after Sora blocked the researcher’s claim over its dream. The Gift let her hear the urgency without obeying “wake it.” That night it took the words of the lullaby used as anchor. She retained melody, source, and grief but not a single syllable. Reconstructing the words from another record was prohibited because the missing memory was the cost, not a clerical error.
+Somnalith bestowed the first Vial after Sora blocked the researcher’s claim over its dream. The Stigma let her hear the urgency without obeying “wake it.” That night it took the words of the lullaby used as anchor. She retained melody, source, and grief but not a single syllable. Reconstructing the words from another record was prohibited because the missing memory was the cost, not a clerical error.
 
 The dream-fluid now rises whenever a bearer treats suppression as recovery.
 

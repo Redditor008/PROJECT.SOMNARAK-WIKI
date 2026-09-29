@@ -52,7 +52,7 @@ During the The Memorial Flame Mid Ceremony Source-Trace, the field team preserve
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Memorial Flame Mid-Ceremony's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Complete the memorial without attempting to recreate the original flame The set cannot heal the originating event. Misuse routes Memorial Flame Mid-Ceremony's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Memorial Flame Mid-Ceremony's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Complete the memorial without attempting to recreate the original flame The set cannot heal the originating event. Misuse routes Memorial Flame Mid-Ceremony's wound through the operator and triggers the recorded escalation.
 
 ---
 

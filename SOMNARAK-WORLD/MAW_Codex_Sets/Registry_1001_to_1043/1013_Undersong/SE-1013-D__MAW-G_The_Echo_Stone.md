@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Echo Stone
+# M.A.W. STIGMA — The Echo Stone
 
 > *“The Echo Stone remembers Undersong; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer hears unanswered calls whenever the stone is silent. Continued use makes Undersong's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Stigma Record*
 
-The first The Echo Stone field bearer encountered this source response: Reveals fragments of the places from which it called. The gift discharges the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Echo Stone field bearer encountered this source response: Reveals fragments of the places from which it called. The stigma discharges the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Echo Stone field bearer encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Undersong — Witnessed Form*, The Echo Stone performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Undersong — Witnessed Form*, The Echo Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

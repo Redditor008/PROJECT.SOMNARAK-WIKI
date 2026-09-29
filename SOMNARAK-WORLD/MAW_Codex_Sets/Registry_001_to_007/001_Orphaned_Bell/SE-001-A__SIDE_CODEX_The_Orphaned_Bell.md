@@ -88,7 +88,7 @@ The bell cannot be “moved to safety.” The tower is part of the entity. Any p
 |---|---|---|---|---|---|
 | **Weapon** | The Lament’s Requiem | δ | Lament | Piercing sound-blade for marked grief targets | `SE-001-B__MAW-W_The_Laments_Requiem.md` |
 | **Suit** | The Lament’s Shroud | δ | Lament | Protection against prolonged toll pressure | `SE-001-C__MAW-S_The_Laments_Shroud.md` |
-| **Gift** | Lament’s Edge | δ | Lament | Carries a fragment of the bell’s remembrance | `SE-001-D__MAW-G_Laments_Edge.md` |
+| **Stigma** | Lament’s Edge | δ | Lament | Carries a fragment of the bell’s remembrance | `SE-001-D__MAW-G_Laments_Edge.md` |
 
 ### Set Identity
 

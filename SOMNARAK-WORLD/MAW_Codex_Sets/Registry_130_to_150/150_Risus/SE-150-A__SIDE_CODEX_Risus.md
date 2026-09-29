@@ -87,7 +87,7 @@ The set creates momentary emotional relief. Its price is remembrance: relief end
 |---|---|---:|---|---|---|
 | Weapon | The Laughter Requiem | α | Lament | Small direct response to joy-grief pressure | `SE-150-B__MAW-W_The_Laughter_Requiem.md` |
 | Suit | The Laughter Shroud | α | Lament | Low-grade Lament protection that preserves honest joy | `SE-150-C__MAW-S_The_Laughter_Shroud.md` |
-| Gift | The Laughter Bell | α | Lament | Brief genuine relief followed by a loss-memory echo | `SE-150-D__MAW-G_The_Laughter_Bell.md` |
+| Stigma | The Laughter Bell | α | Lament | Brief genuine relief followed by a loss-memory echo | `SE-150-D__MAW-G_The_Laughter_Bell.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set creates momentary emotional relief. Its price is remembrance: relief end
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Laughter Bell
+### M.A.W. Stigma — The Laughter Bell
 
 | Field | Record |
 |---|---|

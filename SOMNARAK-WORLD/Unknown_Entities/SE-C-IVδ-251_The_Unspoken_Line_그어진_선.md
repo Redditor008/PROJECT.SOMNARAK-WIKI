@@ -194,18 +194,18 @@ The escalation pattern is specific to The Unspoken Line: it is not a generic bre
 **Ability:** Balances hope-touched and untouched pressure; grants resistance to Void and Clarity-drain at the seam.
 **Cost:** The wearer feels guilty on whichever side they stand; the mantle cannot be worn for long without rest.
 
-### M.A.W. Gift — The Threshold Stone
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Void
+### M.A.W. Stigma — The Threshold Stone
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 **Appearance:** A smooth token, half gold, half grey, warm in one hand and cool in the other.
 
 **Ability:** Lets two people who have stopped speaking share one honest sentence without flinching.
 **Cost:** Both speakers feel the full weight of everything they left unsaid.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-The extracted equipment reflects the same unresolved pressure as The Unspoken Line. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Void. Gifts are granted at random by the entity upon a successful work, not manufactured.
+The extracted equipment reflects the same unresolved pressure as The Unspoken Line. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Void. Stigmas are granted at random by the entity upon a successful work, not manufactured.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 

@@ -87,7 +87,7 @@ The set reveals missing history and protects against void erosion. Its cost is c
 |---|---|---:|---|---|---|
 | Weapon | Redacted Lens | γ | Void | Piercing interruption of an erasure pressure field | `SE-184-B__MAW-W_Redacted_Lens.md` |
 | Suit | Redacted Veil | γ | Void | Identity protection while holding an unknown gap | `SE-184-C__MAW-S_Redacted_Veil.md` |
-| Gift | Redacted Ring | γ | Void | Reveals a missing element in a person’s history | `SE-184-D__MAW-G_Redacted_Ring.md` |
+| Stigma | Redacted Ring | γ | Void | Reveals a missing element in a person’s history | `SE-184-D__MAW-G_Redacted_Ring.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set reveals missing history and protects against void erosion. Its cost is c
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — Redacted Ring
+### M.A.W. Stigma — Redacted Ring
 
 | Field | Record |
 |---|---|

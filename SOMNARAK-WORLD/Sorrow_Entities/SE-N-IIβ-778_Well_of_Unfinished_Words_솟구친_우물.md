@@ -204,7 +204,7 @@ The escalation pattern is specific to Well of Unfinished Words: it is not a gene
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Vigilance Sceptre
 
@@ -247,9 +247,9 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — The Listening Vial
+### M.A.W. Stigma — The Listening Vial
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
 **Appearance:** a small vial of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
@@ -261,11 +261,11 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Cost:** The wearer hears the testimony whenever the vial is closed.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Gifts are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

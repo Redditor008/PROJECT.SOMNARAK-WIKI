@@ -1,6 +1,6 @@
 # Registry Codex Sets — 130 to 150
 
-This batch continues the individualized current-era codex archive after `SE-127`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Gift.
+This batch continues the individualized current-era codex archive after `SE-127`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Stigma.
 
 ## Included Entity Sets
 
@@ -55,7 +55,7 @@ The decision preserves the Echo Gardens continuity from the Sorrow Fountain, Uns
 ## Current-Era Record Rules Applied
 
 - Every document is dated **Year 4,238** and uses the current post-Cycle R.D. setting.
-- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Gift histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
+- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Stigma histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
 - Individual records include source-consistent stat lines, extraction or bestowal conditions, binding and rejection rules, named witnesses or bearers, incidents, corrosion signs, maintenance, emergency shutdown, and full-set resonance.
 - Dream material in the Rem set uses a waking anchor and current-world return route; it does not treat dreams as current permanent residence.
 - Garden source material remains protected from harvesting: Weeping Willow leaves and Briar vines are never cut to make M.A.W; only naturally released entity echoes are used.

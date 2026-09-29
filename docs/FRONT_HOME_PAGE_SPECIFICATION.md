@@ -128,7 +128,7 @@ No external or temporary sandbox directories are referenced.
      - **Qliphoth Mechanics:** Meltdown levels I through X, Qliphoth Overload penalties, and Cliphoth Counter triggers.
      - **Ordeal Survival Manuals:** Dawn, Noon, Dusk, and Midnight of Green, Amber, Crimson, and Violet.
      - **Sephirah Meltdown Guides:** Step-by-step suppression strategies for Asiyah, Briah, and Atziluth floor meltdowns (Malkuth to Keter).
-     - **E.G.O Equipment Index:** Full stats for Weapons, Suits, and Gifts across ZAYIN, TETH, HE, WAW, and ALEPH tiers.
+     - **E.G.O Equipment Index:** Full stats for Weapons, Suits, and Stigmas across ZAYIN, TETH, HE, WAW, and ALEPH tiers.
      - **Tool Abnormality Codices:** Continuous, Single-Use, and Equippable operational logs and lethal failure conditions.
   2. **Library of Ruina Game Database (Deckbuilding Tactical Dice Battle):**
      - **Memory Leaf Catalog & Attribution Guide:** Passive transfer mechanics, cost optimization, Slash/Pierce/Blunt/Block/Evade dice power boosts.
@@ -151,7 +151,7 @@ No external or temporary sandbox directories are referenced.
        * Sinking (SP depletion vs. Gloom affinity damage against SP-less targets)
        * Poise (Critical strike chance and critical damage scaling)
        * Charge (Count generation, barrier preservation, and tier-spending thresholds)
-     - **Mirror Dungeon & Refraction Railway Compendium:** Event outcome tables, E.G.O Gift fusion recipes, pack prioritization, and turn-count optimization.
+     - **Mirror Dungeon & Refraction Railway Compendium:** Event outcome tables, E.G.O Stigma fusion recipes, pack prioritization, and turn-count optimization.
   4. **Project Somnarak Game Systems & Mechanics Engine:**
      - **10-Node Grid Tactical Formulas:** Spatial distance penalties, flanking bonuses, push/pull knockback meters, and AoE node coverage (derived from `GAME_BATTLE/`).
      - **Speed & Action Slot Progression:** Turn-by-turn action slot formulas, initiative clashes, and 6-turn combat phase resolution.

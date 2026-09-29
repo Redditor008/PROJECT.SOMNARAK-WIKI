@@ -52,7 +52,7 @@ During the The Maker of Apostle Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Maker of Apostle's source condition, the Suit lets a witness bear its Mixed — Lament base with strong Hope emergence pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Lower the Sorrow Gauge below 25% while following the recorded Work responses. The set cannot heal the originating event. Misuse routes Maker of Apostle's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Maker of Apostle's source condition, the Suit lets a witness bear its Mixed — Lament base with strong Hope emergence pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Lower the Sorrow Gauge below 25% while following the recorded Work responses. The set cannot heal the originating event. Misuse routes Maker of Apostle's wound through the operator and triggers the recorded escalation.
 
 ---
 

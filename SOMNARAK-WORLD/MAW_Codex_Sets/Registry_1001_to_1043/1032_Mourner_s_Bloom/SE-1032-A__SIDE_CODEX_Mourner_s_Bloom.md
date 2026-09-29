@@ -52,7 +52,7 @@ During the The Mourner s Bloom Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Mourner's Bloom's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mourner's Bloom's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Mourner's Bloom's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mourner's Bloom's wound through the operator and triggers the recorded escalation.
 
 ---
 

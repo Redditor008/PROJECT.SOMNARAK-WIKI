@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Duty Blade
+# M.A.W. STIGMA — The Duty Blade
 
 > *“The Duty Blade remembers The Forgotten Soldier; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wielder experiences the Soldier's frustration—the anger of being forgotten. Continued use makes The Forgotten Soldier's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The Forgotten Soldier Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The Forgotten Soldier Source-Trace: Stigma Record*
 
-The first The Duty Blade field bearer encountered this source response: Stands at attention and permits study of his armor and era. The gift interrupts the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Duty Blade field bearer encountered this source response: Stands at attention and permits study of his armor and era. The stigma interrupts the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Duty Blade field bearer encountered this source response: Stands a
 
 ## SET RELATIONSHIP
 
-Within *The Forgotten Soldier — Witnessed Form*, The Duty Blade performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Forgotten Soldier — Witnessed Form*, The Duty Blade performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

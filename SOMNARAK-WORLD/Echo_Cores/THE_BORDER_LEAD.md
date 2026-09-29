@@ -1045,7 +1045,7 @@ The character description supports ordinary field necessities such as signal tag
 
 Mellda is Effloresced rather than Corroded. The shared framework says the bond can manifest a personal M.A.W. that cannot be transferred or extracted. Her character source does not define its form.
 
-Threshold Vow does not change that status. It is a manufactured Cyborg arm with output rated equivalent to a Critical (δ) M.A.W., not extracted equipment, not a bonded Gift, and not the unnamed M.A.W. her Efflorescence may eventually manifest.
+Threshold Vow does not change that status. It is a manufactured Cyborg arm with output rated equivalent to a Critical (δ) M.A.W., not extracted equipment, not a bonded Stigma, and not the unnamed M.A.W. her Efflorescence may eventually manifest.
 
 ### Signature and Color
 

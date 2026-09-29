@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Pale Wick Stigma
+# M.A.W. STIGMA — Pale Wick Stigma
 
 > *“Pale Wick Stigma remembers Debt Collector's Lantern; the bearer must not mistake memory for permission.”*
 
@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The wielder cannot ignore what the light shows. Continued use makes Debt Collector's Lantern's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Debt Collector s Lantern Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Debt Collector s Lantern Source-Trace: Stigma Record*
 
-The first Pale Wick Stigma field bearer encountered this source response: Reveals hidden debts and their origins. The gift stabilizes the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Pale Wick Stigma field bearer encountered this source response: Reveals hidden debts and their origins. The stigma stabilizes the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -43,7 +43,7 @@ The first Pale Wick Stigma field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Debt-Collector's-Lantern — Witnessed Form*, Pale Wick Stigma performs the gift/stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Debt-Collector's-Lantern — Witnessed Form*, Pale Wick Stigma performs the stigma/stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 
@@ -64,7 +64,7 @@ Within *Debt-Collector's-Lantern — Witnessed Form*, Pale Wick Stigma performs 
 
 ## SET RELATIONSHIP
 
-Within *Debt-Collector's-Lantern — Witnessed Form*, The Debt Lantern performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Debt-Collector's-Lantern — Witnessed Form*, The Debt Lantern performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

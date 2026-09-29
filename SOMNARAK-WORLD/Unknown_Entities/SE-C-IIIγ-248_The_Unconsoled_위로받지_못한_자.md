@@ -183,18 +183,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Ability:** Grants resistance to Lament and Composure-drain; lets the wearer stand in foundational grief without bending.
 **Cost:** The wearer carries a thread of foundation-grief permanently; they age slightly faster and weep in their sleep.
 
-### M.A.W. Gift — The Founder's Tear
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Lament
+### M.A.W. Stigma — The Founder's Tear
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 **Appearance:** A pendant holding a single tear of pale blue crystal that never evaporates.
 
 **Ability:** Lets the wearer bear one other person's oldest grief alongside them, halving its weight for both.
 **Cost:** The wearer feels the weight of every grief they witness for a day after removal.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-The extracted equipment reflects the same unresolved pressure as The Unconsoled. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Lament. Gifts are granted at random by the entity upon a successful work, not manufactured.
+The extracted equipment reflects the same unresolved pressure as The Unconsoled. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Lament. Stigmas are granted at random by the entity upon a successful work, not manufactured.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Neverlast's Crown
+# M.A.W. STIGMA — Neverlast's Crown
 
 > *“Neverlast's Crown remembers Neverlast; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Neverlast’s Crown is the gift record of Neverlast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is temporal mercy: it slows the wearer’s perception of time during emotional crises, granting inside one moment the patience the source was never given across years. Binding names Neverlast’s event — a friendship ended in disappearance, the remaining grief unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The cost is empathic intake: the wearer absorbs the pain of those they heal or comfort, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine with its rarest response: the entity opens its history to the worker — the crystallized grief willing to be read by someone who stays — and the gift discharged the immediate hazard only after attribution to Neverlast. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Neverlast’s Crown is the stigma record of Neverlast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is temporal mercy: it slows the wearer’s perception of time during emotional crises, granting inside one moment the patience the source was never given across years. Binding names Neverlast’s event — a friendship ended in disappearance, the remaining grief unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The cost is empathic intake: the wearer absorbs the pain of those they heal or comfort, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine with its rarest response: the entity opens its history to the worker — the crystallized grief willing to be read by someone who stays — and the stigma discharged the immediate hazard only after attribution to Neverlast. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ Neverlast’s Crown is the gift record of Neverlast’s set — tail-slot, besto
 
 **Operational / binding cost:** The wearer absorbs the pain of those they heal or comfort. Continued use makes Neverlast's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Neverlast Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Neverlast Source-Trace: Stigma Record*
 
-The first Neverlast's Crown field bearer encountered this source response: Opens its history to the worker. The gift discharges the immediate hazard only after the team attributed it to Neverlast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neverlast's Crown field bearer encountered this source response: Opens its history to the worker. The stigma discharges the immediate hazard only after the team attributed it to Neverlast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Neverlast's Crown field bearer encountered this source response: Opens
 
 ## SET RELATIONSHIP
 
-Within *Neverlast — Witnessed Form*, Neverlast's Crown performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Neverlast — Witnessed Form*, Neverlast's Crown performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

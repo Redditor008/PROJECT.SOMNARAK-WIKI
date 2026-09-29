@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Unpaid Brick Shard
+# M.A.W. STIGMA — The Unpaid Brick Shard
 
 > *“It points to the block that needs review. It slows the bearer until the review becomes more than a glance.”*
 
@@ -18,20 +18,20 @@
 |---|---|
 | Official name | The Unpaid Brick Shard |
 | Set | Measured Burden |
-| Type / grade / element | Gift, black block-charm / γ — Major / Weight — Black |
+| Type / grade / element | Stigma, black block-charm / γ — Major / Weight — Black |
 | Slot | Head |
 | Acquisition probability | 4% |
 | Recognition rule | It glows at a debt block closing a current route, not at a person who should be blamed. |
 
 ## ACQUISITION & BINDING
 
-Gift bestowal occurs after a reviewed Wall block is left intact. Candidate assigns a custodian and a route response. **Rejection:** Using the Charm to shame someone turns its Weight inward and slows the bearer.
+Stigma bestowal occurs after a reviewed Wall block is left intact. Candidate assigns a custodian and a route response. **Rejection:** Using the Charm to shame someone turns its Weight inward and slows the bearer.
 
 ## Appearance
 
 The Unpaid Brick Shard is a small black charm cut in the shape of a single wall block, dense for its size and worn at the head. Its faces are blank until a debt pressure begins closing a current route; then the block glows along one edge, always toward the block itself and never toward a person who might be blamed for it. In use, with a custodian present and the affected person’s support, the Charm reveals the first review or support action that can keep the route open — an unfiled dispute, a missed appeal, a case that needs a reader. It cannot forgive debt, set a judgment, or bypass consent. The bearer moves more slowly under recognized burden, and every ignored reading adds Weight to their own frame. A glow that persists after action means the review was performative, and a Charm that points at every debtor at once has caught the bearer’s anger and must be set down. It is stored beside completed route records, never inside a collection file. The custodian covers the block face during shutdown; shattering it makes every nearby obligation feel physically immediate.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 **Source bonus:** +2 when working Owed. **Cost:** Bearer moves slower under recognized burden. One Charm only.
 

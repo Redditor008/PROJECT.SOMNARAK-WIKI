@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Silence Ring
+# M.A.W. STIGMA — The Silence Ring
 
 > *“It cannot make a room care. It can make a room stop talking long enough for someone to be noticed.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — pale glass ring |
+| Type | Accessory (Stigma) — pale glass ring |
 | Grade | α — Minor |
 | Element | Void — Pale White |
 | Slot | Head |

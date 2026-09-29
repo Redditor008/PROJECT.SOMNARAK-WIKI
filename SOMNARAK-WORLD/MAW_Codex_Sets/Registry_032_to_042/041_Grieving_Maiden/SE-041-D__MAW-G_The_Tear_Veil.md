@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Tear Veil
+# M.A.W. STIGMA — The Tear Veil
 
 > *“The tears remain visible so no one can call the grief imaginary.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — tear clasp |
+| Type | Accessory (Stigma) — tear clasp |
 | Grade | β — Moderate |
 | Element | Lament — Deep Blue |
 | Slot | Tail |
@@ -35,7 +35,7 @@ The Veil absorbs a small amount of ambient Lament from a nearby person and makes
 
 ### History Record
 
-A Tear Veil bearer used the Gift beside a child who could not cry after losing a parent. The bearer wept instead. The child later placed a hand on the bearer’s shoulder and spoke the parent’s name for the first time.
+A Tear Veil bearer used the Stigma beside a child who could not cry after losing a parent. The bearer wept instead. The child later placed a hand on the bearer’s shoulder and spoke the parent’s name for the first time.
 
 **Document ID:** `SE-041-D`  
 **Linked Entity:** `SE-041`  

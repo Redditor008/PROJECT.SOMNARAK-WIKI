@@ -87,7 +87,7 @@ The original Debt Chain is an I-Relic. Its M.A.W. set is made from released link
 |---|---|---:|---|---|---|
 | Weapon | The Binding Maul | β | Weight | Direct response to a coercive obligation pressure | `SE-160-B__MAW-W_The_Binding_Maul.md` |
 | Suit | The Binding Mantle | β | Weight | Weight defense with obligation separation safeguards | `SE-160-C__MAW-S_The_Binding_Mantle.md` |
-| Gift | The Binding Chain | β | Weight | Reveals debt connections across a group with consent limits | `SE-160-D__MAW-G_The_Binding_Chain.md` |
+| Stigma | The Binding Chain | β | Weight | Reveals debt connections across a group with consent limits | `SE-160-D__MAW-G_The_Binding_Chain.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The original Debt Chain is an I-Relic. Its M.A.W. set is made from released link
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Binding Chain
+### M.A.W. Stigma — The Binding Chain
 
 | Field | Record |
 |---|---|

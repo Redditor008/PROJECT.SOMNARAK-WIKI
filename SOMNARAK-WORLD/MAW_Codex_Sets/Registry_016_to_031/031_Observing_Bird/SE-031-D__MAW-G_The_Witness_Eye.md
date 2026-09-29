@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Third Sclera
+# M.A.W. STIGMA — The Third Sclera
 
 > *“It gives the bearer one additional eye. The cost is that the eye does not know how to close.”*
 

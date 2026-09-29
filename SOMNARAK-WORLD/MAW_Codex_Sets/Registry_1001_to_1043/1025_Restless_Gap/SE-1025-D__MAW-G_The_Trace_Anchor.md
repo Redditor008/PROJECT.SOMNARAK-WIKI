@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Trace Anchor
+# M.A.W. STIGMA — The Trace Anchor
 
 > *“The Trace Anchor remembers Restless Gap; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer cannot leave an anchored location without emotional pain. Continued use makes Restless Gap's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Stigma Record*
 
-The first The Trace Anchor field bearer encountered this source response: Shows fragments of the life that was divided. The gift discharges the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Trace Anchor field bearer encountered this source response: Shows fragments of the life that was divided. The stigma discharges the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Trace Anchor field bearer encountered this source response: Shows 
 
 ## SET RELATIONSHIP
 
-Within *Restless Gap — Witnessed Form*, The Trace Anchor performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Restless Gap — Witnessed Form*, The Trace Anchor performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

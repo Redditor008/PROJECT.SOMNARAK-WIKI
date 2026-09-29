@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Patina Charm
+# M.A.W. STIGMA — Patina Charm
 
 > *“It burns when the sentence changes from ‘this happened’ to ‘you people always.’”*
 
@@ -36,7 +36,7 @@ At Marker Nine, the Charm remained cool during a current threat and burned only 
 
 The Charm is the audit point of *Rust Without Heirs*. It does not decide which history is correct. It warns when history is being converted into a present person’s essential nature. Plate receives the current anger; Fang cuts the inherited chain.
 
-Patina’s invisible tether trembles at the same temperature as the Gift.
+Patina’s invisible tether trembles at the same temperature as the Stigma.
 
 ## CORROSION, FAILURE & RELEASE
 
@@ -45,12 +45,12 @@ Patina’s invisible tether trembles at the same temperature as the Gift.
 - Temper replaces evidence as the operating signal.
 
 **False neutrality:** treating all present grievances as inherited cools the Charm and leaves current victims unprotected.  
-**Heir fixation:** using the Gift to identify “which side carries the feud” transfers the rust pattern to the bearer.  
+**Heir fixation:** using the Stigma to identify “which side carries the feud” transfers the rust pattern to the bearer.  
 **Chain flare:** wearing it during retaliatory speech pulls Patina’s expansion along the route.
 
 **Care:** Mellda records one present harm and one inherited accusation from the same incident without collapsing either into the other. The Charm is set on neutral ground until both boundary lines cool separately.
 
-**Emergency release:** Stop all ancestry-based orders, leave the disputed marker visible, and let a person from each side state what they personally did—not what their people are. The Gift loosens only after current agency is restored.
+**Emergency release:** Stop all ancestry-based orders, leave the disputed marker visible, and let a person from each side state what they personally did—not what their people are. The Stigma loosens only after current agency is restored.
 
 ---
 

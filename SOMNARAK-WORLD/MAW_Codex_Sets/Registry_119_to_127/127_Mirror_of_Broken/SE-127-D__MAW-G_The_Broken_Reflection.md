@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Broken Reflection
+# M.A.W. STIGMA — The Broken Reflection
 
 > *“It keeps conflicting selves visible long enough to stop them from becoming enemies.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Broken Reflection |
 | Set | Whole Fragments |
-| Type / grade / element | Gift, mirror-tile / γ — Major / Weight — Black |
+| Type / grade / element | Stigma, mirror-tile / γ — Major / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; identity-debrief issue |
 | Known bearer | Specialist Haneulash Yoon |
@@ -33,17 +33,17 @@
 | Acquisition probability | 4% after successful Mirror of Broken work |
 | Bestowal event | A mirror tile settled at the Gate marker after a worker ended Ferrehan by naming several selves as true and leaving with a partner. |
 | Acceptance condition | The candidate chooses a debrief partner who will not demand an immediate permanent self-definition. |
-| Source intent | Gift bestowal; it anchors fragmentation but cannot decide whether any life change was correct. |
+| Source intent | Stigma bestowal; it anchors fragmentation but cannot decide whether any life change was correct. |
 
 **Binding requirement:** The bearer agrees to look at a current reflection with a partner after any high-pressure use.
 
-**Rejection rule:** A wearer who smashes, hides, or orders one seam shut feels the Weight of every abandoned self at once and loses the Gift’s anchor effect.
+**Rejection rule:** A wearer who smashes, hides, or orders one seam shut feels the Weight of every abandoned self at once and loses the Stigma’s anchor effect.
 
 ## Appearance
 
-The Broken Reflection is a small black mirror-tile of Han glass split by three fine seams, each holding a faint version of the bearer's face when the tile is first uncovered. The seams reflect different self-histories without forcing one to replace the others, and each face stays small and quiet rather than competing for the centre. The tile is cool and square, with a dark cloth sleeve for storage. When the bearer and a partner name the current situation and agree that no identity decision must be made inside the pressure field, the tile holds the conflicting self-images visible and reduces the impulse to choose one by force. The gift carries no Echo cost, but multiple self-images remain emotionally present after the reading. It is kept face-down until the next approved check. If the bearer smashes, hides, or orders a seam shut, the Weight of every abandoned self returns at once and the anchor effect is lost. The partner covers the seams with the black sleeve and names the exit route before removal during shutdown.
+The Broken Reflection is a small black mirror-tile of Han glass split by three fine seams, each holding a faint version of the bearer's face when the tile is first uncovered. The seams reflect different self-histories without forcing one to replace the others, and each face stays small and quiet rather than competing for the centre. The tile is cool and square, with a dark cloth sleeve for storage. When the bearer and a partner name the current situation and agree that no identity decision must be made inside the pressure field, the tile holds the conflicting self-images visible and reduces the impulse to choose one by force. The stigma carries no Echo cost, but multiple self-images remain emotionally present after the reading. It is kept face-down until the next approved check. If the bearer smashes, hides, or orders a seam shut, the Weight of every abandoned self returns at once and the anchor effect is lost. The partner covers the seams with the black sleeve and names the exit route before removal during shutdown.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -78,11 +78,11 @@ Yoon used *Keep the Shards* after a Gate-adjacent dream leak made a junior worke
 
 **Maintenance:** After use, bearer and partner name the current self, one former self, and one future possibility without ranking them. The tile is kept face-down until the next approved check.
 
-**Emergency shutdown:** The partner covers the seams with the black cloth sleeve, names the exit route, and removes the Gift. Shattering it sends every reflected self into the bearer’s dreams without a grounding exit.
+**Emergency shutdown:** The partner covers the seams with the black cloth sleeve, names the exit route, and removes the Stigma. Shattering it sends every reflected self into the bearer’s dreams without a grounding exit.
 
 ## SET RELATIONSHIP
 
-The Reflection completes *Several True Selves*. Broken Maul disrupts coercive identity Weight and Broken Mantle carries it; this Gift makes the fragments visible enough that the set does not mistake integration for erasure.
+The Reflection completes *Several True Selves*. Broken Maul disrupts coercive identity Weight and Broken Mantle carries it; this Stigma makes the fragments visible enough that the set does not mistake integration for erasure.
 
 > *“The fragments do not need a court to decide which one is allowed to live.”* — Gate Watch Commander Xyan
 

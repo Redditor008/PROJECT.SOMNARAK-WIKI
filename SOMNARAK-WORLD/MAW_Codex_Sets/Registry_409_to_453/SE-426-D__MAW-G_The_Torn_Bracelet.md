@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Torn Bracelet
+# M.A.W. STIGMA — The Torn Bracelet
 
 > *“It hardens against manipulation and makes loving touch dangerous.”*
 

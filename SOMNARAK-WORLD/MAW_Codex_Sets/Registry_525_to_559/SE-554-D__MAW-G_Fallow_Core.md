@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Fallow Core
+# M.A.W. STIGMA — Fallow Core
 
 > *“It grows a temporary shelter and remembers everyone who leaves it.”*
 

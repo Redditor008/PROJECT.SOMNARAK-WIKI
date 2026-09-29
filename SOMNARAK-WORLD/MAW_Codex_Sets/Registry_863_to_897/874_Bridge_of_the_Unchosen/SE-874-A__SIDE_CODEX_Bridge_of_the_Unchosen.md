@@ -52,7 +52,7 @@ During the The Bridge of the Unchosen Source-Trace, the field team preserved thi
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Bridge of the Unchosen's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Acknowledge possibility without treating it as history The set cannot heal the originating event. Misuse routes Bridge of the Unchosen's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Bridge of the Unchosen's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Acknowledge possibility without treating it as history The set cannot heal the originating event. Misuse routes Bridge of the Unchosen's wound through the operator and triggers the recorded escalation.
 
 ---
 

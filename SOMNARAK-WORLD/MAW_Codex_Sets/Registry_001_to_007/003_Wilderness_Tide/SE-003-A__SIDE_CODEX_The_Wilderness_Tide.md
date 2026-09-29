@@ -85,12 +85,12 @@ Residue depth is the official after-action measure. Warden reports must record m
 
 ## PAGE 03 — NO M.A.W. REGISTRY
 
-The Wilderness Tide has no Weapon, Suit, or Gift file because it produces no extractable M.A.W.
+The Wilderness Tide has no Weapon, Suit, or Stigma file because it produces no extractable M.A.W.
 
 | Proposed Extraction Attempt | Result |
 |---|---|
 | Forge raw Tide Han into a weapon | Structure collapses into inert pressure and damages the extraction frame. |
-| Bottle Tide residue as a Gift | Residue remains reactive but does not form an individual bond. |
+| Bottle Tide residue as a Stigma | Residue remains reactive but does not form an individual bond. |
 | Wear Tide material as armor | Material continues to flow and erodes the wearer’s resolve rather than taking a stable shape. |
 
 ### Related Equipment

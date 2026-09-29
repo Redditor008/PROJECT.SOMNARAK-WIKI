@@ -59,7 +59,7 @@ The playable system is organized into five decoupled architectural modules:
 |                        CANONICAL DATA REPO                        |
 |  - Operative Database (Base Stats, Speed Dice, M.A.W. Wear)       |
 |  - 292 Sorrow Entities (Modular Parts, AI Intention Decks)        |
-|  - 198 Quadripartite M.A.W. Sets (Weapons, Suits, Gifts)          |
+|  - 198 Quadripartite M.A.W. Sets (Weapons, Suits, Stigmas)        |
 +-------------------------------------------------------------------+
 ```
 
@@ -139,7 +139,7 @@ A skill can only be queued if `Distance` falls within the weapon's calibrated Ra
   "equipped_maw": {
     "weapon": "MAW-W-002-01",
     "suit": "MAW-S-002-01",
-    "gift": "MAW-G-002-01"
+    "stigma": "MAW-G-002-01"
   },
   "passives": ["P1-MANTLE-ENDURANCE", "P1-STEADY-PACE"],
   "action_slots": []

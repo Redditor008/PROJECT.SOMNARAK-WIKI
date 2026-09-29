@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Echo Flame
+# M.A.W. STIGMA — The Echo Flame
 
 > *“The Echo Flame remembers Heirloom; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The lantern burns away one of the user's own repeated memories. Continued use makes Heirloom's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Stigma Record*
 
-The first The Echo Flame field bearer encountered this source response: Reveals how the grievance spread. The gift isolates the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Echo Flame field bearer encountered this source response: Reveals how the grievance spread. The stigma isolates the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Echo Flame field bearer encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Heirloom — Witnessed Form*, The Echo Flame performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Heirloom — Witnessed Form*, The Echo Flame performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

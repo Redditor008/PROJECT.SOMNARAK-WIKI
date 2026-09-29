@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Sleeping Reflection
+# M.A.W. STIGMA — The Sleeping Reflection
 
 > *“The Sleeping Reflection remembers Vanity Asleep; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Sleeping Reflection is the gift record of the Vanity Asleep set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability shows a person's hidden exhaustion and emotional wounds, the mirror's honesty finally put to kind use. Binding names the source event — citizens repeatedly avoided their own reflection after loss, and the denied self became a sleeping presence — and accepts the set's limit: do not wake it by force; look at the reflected self without turning away. The cost is projection: the wearer sees pity in every face they meet, the avoided gaze returned from everywhere. The source-trace fixed doctrine: the Reflection revealed a truth the worker had avoided, the gift administering its own binding lesson, and it isolates the hazard only after attribution to Vanity Asleep. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Sleeping Reflection is the stigma record of the Vanity Asleep set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability shows a person's hidden exhaustion and emotional wounds, the mirror's honesty finally put to kind use. Binding names the source event — citizens repeatedly avoided their own reflection after loss, and the denied self became a sleeping presence — and accepts the set's limit: do not wake it by force; look at the reflected self without turning away. The cost is projection: the wearer sees pity in every face they meet, the avoided gaze returned from everywhere. The source-trace fixed doctrine: the Reflection revealed a truth the worker had avoided, the stigma administering its own binding lesson, and it isolates the hazard only after attribution to Vanity Asleep. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Sleeping Reflection is the gift record of the Vanity Asleep set — head-slo
 
 **Operational / binding cost:** The wearer sees pity in every face they meet. Continued use makes Vanity Asleep's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Stigma Record*
 
-The first The Sleeping Reflection field bearer encountered this source response: Reveals a truth the worker has avoided. The gift isolates the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Sleeping Reflection field bearer encountered this source response: Reveals a truth the worker has avoided. The stigma isolates the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Sleeping Reflection field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Vanity Asleep — Witnessed Form*, The Sleeping Reflection performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Vanity Asleep — Witnessed Form*, The Sleeping Reflection performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

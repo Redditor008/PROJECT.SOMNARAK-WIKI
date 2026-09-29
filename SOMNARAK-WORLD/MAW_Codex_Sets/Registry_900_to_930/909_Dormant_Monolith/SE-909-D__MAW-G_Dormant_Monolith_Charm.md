@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Dormant Monolith Charm
+# M.A.W. STIGMA — Dormant Monolith Charm
 
 > *“Dormant Monolith Charm remembers Dormant Monolith; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Dormant Monolith Charm is the gift record of the Dormant Monolith set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Monolith's sorrow, the effect mirroring the entity's nature: stillness earned, not seized. Binding names the source event — a border worker carried family and community obligations until the mind became a sleeping pillar — and accepts the set's limit: ground the worker and establish a rotation of duty. The cost is small and linguistic: the bearer occasionally forgets a word, speech acquiring its own dormant stretches. The source-trace fixed doctrine: the Charm reveals the duties holding the worker in place, obligation made visible as architecture, and it interrupts the hazard only after attribution to Dormant Monolith. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Dormant Monolith Charm is the stigma record of the Dormant Monolith set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Monolith's sorrow, the effect mirroring the entity's nature: stillness earned, not seized. Binding names the source event — a border worker carried family and community obligations until the mind became a sleeping pillar — and accepts the set's limit: ground the worker and establish a rotation of duty. The cost is small and linguistic: the bearer occasionally forgets a word, speech acquiring its own dormant stretches. The source-trace fixed doctrine: the Charm reveals the duties holding the worker in place, obligation made visible as architecture, and it interrupts the hazard only after attribution to Dormant Monolith. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Dormant Monolith Charm is the gift record of the Dormant Monolith set — he
 
 **Operational / binding cost:** The bearer occasionally forgets a word. Continued use makes Dormant Monolith's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Dormant Monolith Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Dormant Monolith Source-Trace: Stigma Record*
 
-The first Dormant Monolith Charm field bearer encountered this source response: Reveals the duties holding the worker in place. The gift interrupts the immediate hazard only after the team attributed it to Dormant Monolith. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dormant Monolith Charm field bearer encountered this source response: Reveals the duties holding the worker in place. The stigma interrupts the immediate hazard only after the team attributed it to Dormant Monolith. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Dormant Monolith Charm field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

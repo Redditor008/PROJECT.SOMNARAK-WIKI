@@ -77,7 +77,7 @@ No mural may be restored, sealed, or demolished until an Archive listener has co
 |---|---|---|---|---|---|
 | **Weapon** | The Listening Requiem | α | Lament | Minor single-target Lament weapon that reveals hidden speech | `SE-011-B__MAW-W_The_Listening_Requiem.md` |
 | **Suit** | The Listening Shroud | α | Lament | Lightweight protection against ambient whispers | `SE-011-C__MAW-S_The_Listening_Shroud.md` |
-| **Gift** | The Listening Stone | α | Lament | Allows careful hearing of sorrow embedded in architecture | `SE-011-D__MAW-G_The_Listening_Stone.md` |
+| **Stigma** | The Listening Stone | α | Lament | Allows careful hearing of sorrow embedded in architecture | `SE-011-D__MAW-G_The_Listening_Stone.md` |
 
 ### Set Resonance — Hear It Through
 

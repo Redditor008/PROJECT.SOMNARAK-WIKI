@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Frozen Fury Bracelet
+# M.A.W. STIGMA — Frozen Fury Bracelet
 
 > *“It hides the wearer from emotional attack by taking the sorrow released when others calm.”*
 

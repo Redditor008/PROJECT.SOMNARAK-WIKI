@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Resentment Gauntlet
+# M.A.W. STIGMA — The Resentment Gauntlet
 
 > *“It does not tell the bearer to forgive. It lets the bearer feel exactly where forgiveness was demanded too early.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — crimson gauntlet charm |
+| Type | Accessory (Stigma) — crimson gauntlet charm |
 | Grade | γ — Major |
 | Element | Grudge — Crimson |
 | Slot | Tail |

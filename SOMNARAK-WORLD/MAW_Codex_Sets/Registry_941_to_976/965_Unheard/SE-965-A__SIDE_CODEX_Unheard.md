@@ -52,7 +52,7 @@ During the The Unheard Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Unheard's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not force sound into it; listen and record what remains The set cannot heal the originating event. Misuse routes Unheard's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Unheard's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not force sound into it; listen and record what remains The set cannot heal the originating event. Misuse routes Unheard's wound through the operator and triggers the recorded escalation.
 
 ---
 

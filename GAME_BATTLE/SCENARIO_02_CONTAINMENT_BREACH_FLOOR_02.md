@@ -270,7 +270,7 @@
 | ENGAGEMENT RESULT  : Decisive Victory (Zero Perimeter Breach)       |
 | FACILITY DAMAGE    : 1 Cryo-Bulkhead Fractured (Vault B-03 Corridor)|
 | HARVEST RECOVERED  : 380 Liters Liquid Han • 45 kg High-Purity Dust |
-| M.A.W. EXTRACTION  : 1x 'The Embrace' Gift Core • 1x Fang Material  |
+| M.A.W. EXTRACTION  : 1x 'The Embrace' Stigma Core • 1x Fang Material|
 | QUARANTINE ORDER   : Squad cleared for 24-hr Composure Pod recovery |
 | COMMENDATION       : Lead Dekan cited for zero-casualty lockdown    |
 +=====================================================================+

@@ -204,7 +204,7 @@ The escalation pattern is specific to Broken Clocktower: it is not a generic bre
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Mercy Broadsword
 
@@ -242,9 +242,9 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Cost:** The wearer carries a constant low fatigue.
 
-### M.A.W. Gift — The Frozen Minute
+### M.A.W. Stigma — The Frozen Minute
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
 **Appearance:** a minute-token of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
@@ -256,11 +256,11 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Cost:** The user loses an equivalent portion of lifespan.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Gifts are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

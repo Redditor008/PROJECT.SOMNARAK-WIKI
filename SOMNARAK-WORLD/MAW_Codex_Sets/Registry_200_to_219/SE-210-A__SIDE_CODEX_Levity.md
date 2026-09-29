@@ -83,13 +83,13 @@ Levity’s lacquer is bright, bloodless-cold, and faintly scented with ash. Its 
 
 The set separates public expression from the person forced to produce it. The Lens cuts at one borrowed social voice, the Veil preserves a private self behind Void pressure, and the Facade can hold an outward laugh only long enough for another person to recognize and remove it.
 
-**Extraction rule:** Complete Level 2 Viderehan and Ferrehan without wearing the relic. A naturally occurring laugh must interrupt Levity’s chorus; during that brief unscripted silence, pale residue may be recovered from the display boundary under Extraction Lead Zyrak’s authority. Rehearsed laughter invalidates the draw. The Gift remains an unforced 5% bestowal.
+**Extraction rule:** Complete Level 2 Viderehan and Ferrehan without wearing the relic. A naturally occurring laugh must interrupt Levity’s chorus; during that brief unscripted silence, pale residue may be recovered from the display boundary under Extraction Lead Zyrak’s authority. Rehearsed laughter invalidates the draw. The Stigma remains an unforced 5% bestowal.
 
 | Piece | Name | Grade | Element | Main purpose | Individual Codex |
 |---|---|---:|---|---|---|
 | Weapon | The Laughter Lens | β | Void | Strikes one designated identity through the gap between a performed voice and the self beneath it. | `SE-210-B__MAW-W_The_Laughter_Lens.md` |
 | Suit | The Laughter Veil | β | Void | Shields identity while a wearer crosses forced affect or a laughing chorus. | `SE-210-C__MAW-S_The_Laughter_Veil.md` |
-| Gift | The Laughter Facade | β | Void | Conceals distress behind convincing laughter until an assigned partner ends the display. | `SE-210-D__MAW-G_The_Laughter_Facade.md` |
+| Stigma | The Laughter Facade | β | Void | Conceals distress behind convincing laughter until an assigned partner ends the display. | `SE-210-D__MAW-G_The_Laughter_Facade.md` |
 
 **Set cost:** Every piece creates distance between expression and identity. Without a witness who can name the bearer when the performance looks convincing, the set turns protection into disappearance.
 
@@ -119,9 +119,9 @@ The pale Han-gossamer lets a hostile social voice move across its surface withou
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Laughter Facade
+### M.A.W. Stigma — The Laughter Facade
 
 **Type / Slot:** Pale Han-glass mask-charm / Head  
 **Grade / Element:** β / Void  

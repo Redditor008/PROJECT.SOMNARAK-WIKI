@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Frozen Fragment
+# M.A.W. STIGMA — The Frozen Fragment
 
 > *“The Frozen Fragment remembers Seething Tundra; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Frozen Fragment is the gift record of Seething Tundra’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is insulation: it protects against emotional surges, the hardened tear lending its calm to a bearer standing in weather it knows too well. Binding names the source event — a mourner tried to preserve a final tear as a memorial, and the tear hardened around their anger — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the insulation’s spread: the wearer becomes emotionally cold and distant, the protection refusing to stay professional, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the memory embedded in its surface — the mourning that the preservation attempt froze mid-motion — and it redirected the immediate hazard only after attribution to Seething Tundra. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Frozen Fragment is the stigma record of Seething Tundra’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is insulation: it protects against emotional surges, the hardened tear lending its calm to a bearer standing in weather it knows too well. Binding names the source event — a mourner tried to preserve a final tear as a memorial, and the tear hardened around their anger — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the insulation’s spread: the wearer becomes emotionally cold and distant, the protection refusing to stay professional, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the memory embedded in its surface — the mourning that the preservation attempt froze mid-motion — and it redirected the immediate hazard only after attribution to Seething Tundra. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Frozen Fragment is the gift record of Seething Tundra’s set — head-slot,
 
 **Operational / binding cost:** The wearer becomes emotionally cold and distant. Continued use makes Seething Tundra's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Stigma Record*
 
-The first The Frozen Fragment field bearer encountered this source response: Reveals the memory embedded in its surface. The gift redirects the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Frozen Fragment field bearer encountered this source response: Reveals the memory embedded in its surface. The stigma redirects the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Frozen Fragment field bearer encountered this source response: Rev
 
 ## SET RELATIONSHIP
 
-Within *Seething Tundra — Witnessed Form*, The Frozen Fragment performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Seething Tundra — Witnessed Form*, The Frozen Fragment performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

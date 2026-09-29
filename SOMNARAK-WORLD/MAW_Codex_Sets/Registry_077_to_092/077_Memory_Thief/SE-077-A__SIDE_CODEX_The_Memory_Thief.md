@@ -87,7 +87,7 @@ The set does not make an operator invisible in the simple sense. It makes attent
 |---|---|---:|---|---|---|
 | Weapon | The Shadow Lens | β | Void | Precise identity-disrupting strike | `SE-077-B__MAW-W_The_Shadow_Lens.md` |
 | Suit | The Shadow Veil | β | Void | Protection against memory and recognition pressure | `SE-077-C__MAW-S_The_Shadow_Veil.md` |
-| Gift | The Shadow Cloak | β | Void | Conditional concealment from casual notice | `SE-077-D__MAW-G_The_Shadow_Cloak.md` |
+| Stigma | The Shadow Cloak | β | Void | Conditional concealment from casual notice | `SE-077-D__MAW-G_The_Shadow_Cloak.md` |
 
 ---
 
@@ -124,9 +124,9 @@ The set does not make an operator invisible in the simple sense. It makes attent
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Shadow Cloak
+### M.A.W. Stigma — The Shadow Cloak
 
 | Field | Record |
 |---|---|

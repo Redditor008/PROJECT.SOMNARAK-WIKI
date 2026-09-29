@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Ruin Charm
+# M.A.W. STIGMA — The Ruin Charm
 
 > *“It marks the doorway that was there, not the doorway a memorial designer wishes had been.”*
 
@@ -16,7 +16,7 @@
 
 A warm crimson Han-iron Tail charm shaped like a broken door hinge. Near Holdout, it points toward one boundary appearing in at least two independent memories. It remains inert around a single polished reconstruction.
 
-The Gift appeared after former residents named the same stair landing without consulting the Council plan. It occurs in roughly 5% of successful source-work outcomes; fabrication has never succeeded.
+The Stigma appeared after former residents named the same stair landing without consulting the Council plan. It occurs in roughly 5% of successful source-work outcomes; fabrication has never succeeded.
 
 ## Appearance
 
@@ -47,7 +47,7 @@ Charm provides the true-enough boundary for *Memorial, Not Replica*. Plate remai
 
 **Care:** Place the Charm between two independent sketches and mark agreement, conflict, and absence in different inks. It cools only while the conflict remains visible.
 
-**Emergency release:** Leave the disputed room unmarked and return the Gift to an agreed exterior boundary. Forced certainty triggers ghost collapse.
+**Emergency release:** Leave the disputed room unmarked and return the Stigma to an agreed exterior boundary. Forced certainty triggers ghost collapse.
 
 ---
 

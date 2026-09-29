@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Cenotaph Ring
+# M.A.W. STIGMA — Cenotaph Ring
 
 > *“It blocks manipulation during rescue and remembers everyone beyond reach.”*
 

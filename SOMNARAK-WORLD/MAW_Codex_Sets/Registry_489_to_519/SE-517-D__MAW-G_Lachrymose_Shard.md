@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Lachrymose Shard
+# M.A.W. STIGMA — Lachrymose Shard
 
 > *“It preserves one emotional shock and cries it back through sleep.”*
 

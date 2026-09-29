@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Giant’s Ring
+# M.A.W. STIGMA — The Giant’s Ring
 
 > *“It makes the bearer strong enough to move a wall, then makes every hand they touch feel like it carries one.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Giant’s Ring |
 | Set | Room to Stand |
-| Type / grade / element | Gift, black Han-steel ring / γ — Major / Weight — Black |
+| Type / grade / element | Stigma, black Han-steel ring / γ — Major / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; handling and empathy review required |
 | Known bearer | Specialist Nari Kwon |
@@ -33,13 +33,13 @@
 | Acquisition probability | 4% after successful Lonely Giant work |
 | Bestowal event | The Giant left a black circle in soft ground after Kwon sat nearby and did not ask it to enter a space too small for it. |
 | Acceptance condition | The candidate names one thing they will not lift for another person without permission. |
-| Source intent | Gift bestowal; no ring is cut from the Giant’s body or requested as payment. |
+| Source intent | Stigma bestowal; no ring is cut from the Giant’s body or requested as payment. |
 
 **Binding requirement:** The bearer accepts a partner who can challenge whether strength has become control.
 
 **Rejection rule:** If used to seize, carry, or “help” someone against their choice, everything in the bearer’s hands becomes unbearably heavy until the object or person is released.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -74,7 +74,7 @@ Kwon wore the Ring while helping relocate a collapsed support beam. The team map
 
 - The ring tightens when the bearer starts assuming every burden belongs in their hands.
 - A black pressure mark remains on objects carried without consent.
-- If the world feels uniformly heavy, the Gift is turning empathy into indiscriminate burden and must be removed.
+- If the world feels uniformly heavy, the Stigma is turning empathy into indiscriminate burden and must be removed.
 
 **Maintenance:** After each use, the bearer intentionally sets down three things: equipment, a task, and a responsibility that belongs to someone else. The Ring is placed on a low rest stone, not in a trophy case.
 

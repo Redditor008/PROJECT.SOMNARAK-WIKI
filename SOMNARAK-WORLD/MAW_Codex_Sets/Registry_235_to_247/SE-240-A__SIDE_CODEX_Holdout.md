@@ -65,7 +65,7 @@ An echo forms where two independent survivor memories agree on one room boundary
 |---|---|---:|---|---|
 | Weapon | The Ruin Fang | β | Breaks one current structural hazard without striking the remembered room. | `SE-240-B__MAW-W_The_Ruin_Fang.md` |
 | Suit | The Ruin Plate | β | Absorbs structural shock while replaying the collapse stored in it. | `SE-240-C__MAW-S_The_Ruin_Plate.md` |
-| Gift | The Ruin Charm | β | Marks an absent doorway or load line from corroborated memory. | `SE-240-D__MAW-G_The_Ruin_Charm.md` |
+| Stigma | The Ruin Charm | β | Marks an absent doorway or load line from corroborated memory. | `SE-240-D__MAW-G_The_Ruin_Charm.md` |
 
 **Set cost:** Old injuries ache, the collapse enters the wearer, and anger sharpens. A false detail may become load-bearing and then fail violently.
 
@@ -75,7 +75,7 @@ An echo forms where two independent survivor memories agree on one room boundary
 
 - **Ruin Fang:** Grudge 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. Old wounds ache and bruise.
 - **Ruin Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 4; 20 Echoes. It absorbs structural shock; the wearer experiences the stored collapse.
-- **Ruin Charm:** Tail Gift; 5%; +1 Resilience during source work. It reveals one corroborated absent boundary; temper shortens around denied loss.
+- **Ruin Charm:** Tail Stigma; 5%; +1 Resilience during source work. It reveals one corroborated absent boundary; temper shortens around denied loss.
 
 ---
 

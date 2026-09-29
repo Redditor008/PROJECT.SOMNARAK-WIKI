@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Unsprouted Life Core
+# M.A.W. STIGMA — Unsprouted Life Core
 
 > *“The barrier grows by consuming futures. Do not call that growth free.”*
 

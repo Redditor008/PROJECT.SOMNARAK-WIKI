@@ -58,7 +58,7 @@ Sit beside the Maiden, say the lost child’s name only if it has been offered, 
 |---|---|---|---|---|---|
 | Weapon | The Tear Requiem | β | Lament | Focuses a tear into one controlled Lament strike | `SE-041-B__MAW-W_The_Tear_Requiem.md` |
 | Suit | The Tear Shroud | β | Lament | Shields a bearer from overwhelming shared grief | `SE-041-C__MAW-S_The_Tear_Shroud.md` |
-| Gift | The Tear Veil | β | Lament | Absorbs grief while leaving it visible | `SE-041-D__MAW-G_The_Tear_Veil.md` |
+| Stigma | The Tear Veil | β | Lament | Absorbs grief while leaving it visible | `SE-041-D__MAW-G_The_Tear_Veil.md` |
 
 ### Set Resonance — Sit With Her
 

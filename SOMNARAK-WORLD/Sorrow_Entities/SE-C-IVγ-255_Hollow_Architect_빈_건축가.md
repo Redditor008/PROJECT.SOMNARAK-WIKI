@@ -166,7 +166,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Architect's Maul
 
@@ -202,9 +202,9 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Cost:** The wearer carries a constant low fatigue.
 
-### M.A.W. Gift — The Architect's Compass
+### M.A.W. Stigma — The Architect's Compass
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
 **Appearance:** a compass-charm of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
 
@@ -216,11 +216,11 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Cost:** The user feels every future the building failed to hold.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Gifts appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

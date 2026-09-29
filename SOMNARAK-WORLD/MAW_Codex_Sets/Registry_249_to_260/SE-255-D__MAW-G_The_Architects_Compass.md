@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Architect’s Compass
+# M.A.W. STIGMA — The Architect’s Compass
 
 > *“It points to intended purpose, not permission to build.”*
 
@@ -33,7 +33,7 @@ At a collapsed Old Lament passage, the Compass showed a planned clinic entry tha
 
 ## SET RELATIONSHIP
 
-Compass gives *The Unoccupied Plan* its purpose layer. Mantle traverses the safe gap and Maul addresses present load. The Gift does not certify construction.
+Compass gives *The Unoccupied Plan* its purpose layer. Mantle traverses the safe gap and Maul addresses present load. The Stigma does not certify construction.
 
 ## CORROSION, FAILURE & RELEASE
 

@@ -28,7 +28,7 @@ Thralldom formed from a family chain used to restrain a loved one after love had
 
 **Full-set resonance — The Unbound Hearth:** *Care Without Captivity* harmonizes the delicate boundary where fierce devotion ceases to be a prison. The Wandering Fang cuts through parasitic bonds and manipulative vows; the Wandering Plate absorbs crushing domestic Grudge without hardening into an iron cage; and the Wandering Link monitors relational tension while guaranteeing an open exit. Misuse—wielding the set to subjugate, manipulate, or possess another operative under the guise of protection—causes the links to tighten violently around the bearer's ribs, inflicting crushing somatic pressure until the restraint is unconditionally renounced.
 
-**Recorded incidents:** the Loving Lock cut, where Fang severed the restraint clause; the Open-Door Plate test, where armor released only after the wearer could leave; the Wandering Link gift, which identified obligation without fastening it to a body.
+**Recorded incidents:** the Loving Lock cut, where Fang severed the restraint clause; the Open-Door Plate test, where armor released only after the wearer could leave; the Wandering Link stigma, which identified obligation without fastening it to a body.
 
 ---
 **Document ID:** `SE-754-A`  

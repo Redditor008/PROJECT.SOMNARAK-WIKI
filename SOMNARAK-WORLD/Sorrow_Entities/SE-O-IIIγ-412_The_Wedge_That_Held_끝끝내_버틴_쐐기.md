@@ -190,7 +190,7 @@ The escalation pattern is specific to The Wedge That Held: it is not a generic b
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Retaining Maul
@@ -229,9 +229,9 @@ The strike face is flat and scarred by thousands of impacts. When swung with mom
 
 **Cost:** The wearer radiates constant, dry fever-heat (39°C body temperature).
 
-### M.A.W. Gift — The Eighteen Brands
+### M.A.W. Stigma — The Eighteen Brands
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
 **Appearance:** Eighteen tiny branded marks running down the operative's right forearm, glowing dull cherry-red in the dark.
 

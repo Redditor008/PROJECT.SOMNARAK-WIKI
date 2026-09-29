@@ -52,7 +52,7 @@ During the The Chain of Memories Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.
 
 ---
 

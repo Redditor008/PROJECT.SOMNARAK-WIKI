@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Bridge Bracelet
+# M.A.W. STIGMA — The Bridge Bracelet
 
 > *“It strengthens a connection only while both people are crossing.”*
 

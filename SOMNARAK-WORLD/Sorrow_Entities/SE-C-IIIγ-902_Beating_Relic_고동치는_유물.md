@@ -219,16 +219,16 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 
-### M.A.W. Gift — Beating Relic's Token
+### M.A.W. Stigma — Beating Relic's Token
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
 **Appearance:** a coin-token of crimson Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

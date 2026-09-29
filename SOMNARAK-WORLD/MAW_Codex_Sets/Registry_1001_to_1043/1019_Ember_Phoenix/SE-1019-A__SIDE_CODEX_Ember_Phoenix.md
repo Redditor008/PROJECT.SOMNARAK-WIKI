@@ -52,7 +52,7 @@ During the The Ember Phoenix Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Ember Phoenix's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Allow the cycle to finish; forced extinguishing causes violent rebirth The set cannot heal the originating event. Misuse routes Ember Phoenix's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Ember Phoenix's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Allow the cycle to finish; forced extinguishing causes violent rebirth The set cannot heal the originating event. Misuse routes Ember Phoenix's wound through the operator and triggers the recorded escalation.
 
 ---
 

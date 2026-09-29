@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Melted Halo
+# M.A.W. STIGMA — The Melted Halo
 
 > *“It warns of emotional danger approaching. The wearer pays by mourning futures that may never come.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Melted Halo |
 | Set | Present Mercy |
-| Type / grade / element | Gift, blue halo-circlet / δ — Critical / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue halo-circlet / δ — Critical / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; possible-risk disclosure requirement |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 4% after successful Candela work |
 | Bestowal event | The Halo formed after a worker used a vision to offer present support rather than issue a future command. |
 | Acceptance condition | The candidate agrees to disclose that all Halo warnings are possible emotional dangers, not predictions. |
-| Source intent | Gift bestowal; it cannot authorize surveillance, restraint, or preemptive punishment. |
+| Source intent | Stigma bestowal; it cannot authorize surveillance, restraint, or preemptive punishment. |
 
 **Binding requirement:** The bearer has a present-care witness who can distinguish a warning from a claim of knowledge.
 
@@ -41,9 +41,9 @@
 
 ## Appearance
 
-The Melted Halo is a small halo of deep-blue glass sagging slightly as if softened by heat. It displays possibility intensity, not certainty or outcome. In active use the Halo brightens around approaching emotional danger and drips blue light that disappears before landing. At full activation, the Halo clarifies one emotional risk pattern so a team can prepare resources without controlling anyone. The bearer has a present-care witness who can distinguish a warning from a claim of knowledge. It carries no Echo cost, but possible dangers become emotionally vivid. The Halo is stored dim, never used as a continuous forecast. If the bearer cites the Halo as certain proof of a future act, the circlet makes them grieve their own imagined consequence until removed. The witness covers the circlet, names one current reality, and removes the Gift during shutdown. A second Halo makes every future branch appear urgent. The care witness covers the circlet after a present action and uncertainty disclosure are recorded.
+The Melted Halo is a small halo of deep-blue glass sagging slightly as if softened by heat. It displays possibility intensity, not certainty or outcome. In active use the Halo brightens around approaching emotional danger and drips blue light that disappears before landing. At full activation, the Halo clarifies one emotional risk pattern so a team can prepare resources without controlling anyone. The bearer has a present-care witness who can distinguish a warning from a claim of knowledge. It carries no Echo cost, but possible dangers become emotionally vivid. The Halo is stored dim, never used as a continuous forecast. If the bearer cites the Halo as certain proof of a future act, the circlet makes them grieve their own imagined consequence until removed. The witness covers the circlet, names one current reality, and removes the Stigma during shutdown. A second Halo makes every future branch appear urgent. The care witness covers the circlet after a present action and uncertainty disclosure are recorded.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -78,7 +78,7 @@ Park wore the Halo when it brightened around a gathering that could have become 
 
 **Maintenance:** Bearer and witness review which warnings were possible, which present action was taken, and what did not happen. The Halo is stored dim, never used as a continuous forecast.
 
-**Emergency shutdown:** The witness covers the circlet, names one current reality, and removes the Gift. Breaking it turns every possibility the bearer has seen into overlapping Lament images.
+**Emergency shutdown:** The witness covers the circlet, names one current reality, and removes the Stigma. Breaking it turns every possibility the bearer has seen into overlapping Lament images.
 
 ## SET RELATIONSHIP
 

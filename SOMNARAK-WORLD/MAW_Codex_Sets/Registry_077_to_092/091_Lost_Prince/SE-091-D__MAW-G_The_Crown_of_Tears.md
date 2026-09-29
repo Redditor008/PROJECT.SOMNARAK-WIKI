@@ -1,6 +1,6 @@
-# M.A.W. GIFT — The Crown of Tears
+# M.A.W. STIGMA — The Crown of Tears
 
-> *“Every thread it reveals can be loved, mourned, or cut. The Gift does not tell you which.”*
+> *“Every thread it reveals can be loved, mourned, or cut. The Stigma does not tell you which.”*
 
 ---
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Crown of Tears |
 | Set | Unanswered Court |
-| Type / grade / element | Gift, tear-drop charm / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, tear-drop charm / γ — Major / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; relationship observation use only |
 | Known bearer | Specialist Haneulash Yoon |
@@ -32,14 +32,14 @@
 |---|---|
 | Acquisition probability | 4% after successful Lost Prince work |
 | Bestowal event | The Prince placed a tear in Yoon’s palm after accepting an honest answer and watching a visible relief exchange. |
-| Acceptance condition | The candidate agrees not to use the Gift to locate or compel an absent person. |
-| Source intent | Gift bestowal; no extraction rig can produce this charm. |
+| Acceptance condition | The candidate agrees not to use the Stigma to locate or compel an absent person. |
+| Source intent | Stigma bestowal; no extraction rig can produce this charm. |
 
 **Binding requirement:** The bearer must be willing to see a bond without demanding an answer about why it changed.
 
 **Rejection rule:** When used to surveil, accuse, or force reunion, the lines turn inward and make every nearby broken connection feel like the bearer’s own abandonment.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -63,7 +63,7 @@ The charm reveals bonds, attachment directions, broken links, and emotional prox
 
 **Trigger:** The bearer asks a person whether they consent to have a visible bond observed.  
 **Effect:** One line sharpens long enough for a team to identify where a separation panic is originating.  
-**Limit:** The answer is structural, not moral. The Gift does not reveal fault, intent, or a path to reunion.  
+**Limit:** The answer is structural, not moral. The Stigma does not reveal fault, intent, or a path to reunion.  
 **Hidden condition:** A bearer who refuses to look at their own grief sees every line as broken, including healthy bonds.
 
 ## HISTORY OF USE
@@ -74,7 +74,7 @@ Yoon used *Name the Break* during a Gardens search for a child separated from a 
 
 - The tear rattles in its frame when the bearer begins treating relationships as data points.
 - Lines appear around absent people even with the charm covered when the bearer has overused it.
-- A black crack through the tear means the bearer has attempted coercive use; the Gift must be sealed.
+- A black crack through the tear means the bearer has attempted coercive use; the Stigma must be sealed.
 
 **Maintenance:** After every activation, the bearer lists only the bonds relevant to the consented task and marks all others “not mine to pursue.” The charm is then wrapped in blue cloth until the next use.
 
@@ -82,7 +82,7 @@ Yoon used *Name the Break* during a Gardens search for a child separated from a 
 
 ## SET RELATIONSHIP
 
-The Gift gives *Honest Company* its map but not its decision. The weapon may face panic, and the Shroud may support a handover; the Crown of Tears refuses to turn attachment into a command.
+The Stigma gives *Honest Company* its map but not its decision. The weapon may face panic, and the Shroud may support a handover; the Crown of Tears refuses to turn attachment into a command.
 
 > *“A visible thread is not a leash.”* — Researcher Euncris Park
 

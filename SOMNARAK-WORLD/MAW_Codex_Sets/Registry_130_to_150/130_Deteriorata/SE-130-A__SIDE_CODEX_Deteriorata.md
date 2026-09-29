@@ -87,7 +87,7 @@ The set increases endurance and force. Its failure is believing that endurance p
 |---|---|---:|---|---|---|
 | Weapon | The Saint’s Maul | γ | Weight | Directed force against a load that must be shared | `SE-130-B__MAW-W_The_Saints_Maul.md` |
 | Suit | The Saint’s Fragment | γ | Weight | Endurance under physical and emotional pressure | `SE-130-C__MAW-S_The_Saints_Fragment.md` |
-| Gift | The Saint’s Charm | γ | Weight | Reveals a burden that needs a handoff | `SE-130-D__MAW-G_The_Saints_Charm.md` |
+| Stigma | The Saint’s Charm | γ | Weight | Reveals a burden that needs a handoff | `SE-130-D__MAW-G_The_Saints_Charm.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set increases endurance and force. Its failure is believing that endurance p
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Saint’s Charm
+### M.A.W. Stigma — The Saint’s Charm
 
 | Field | Record |
 |---|---|

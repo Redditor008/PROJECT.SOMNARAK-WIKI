@@ -196,7 +196,7 @@ The escalation pattern is specific to Briar: it is not a generic breach event. P
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Briar-Spool Needle Gun
 
@@ -242,7 +242,7 @@ Petrified rose briars spiral across the iron chain links, reinforcing key impact
 
 **Cost:** The wearer experiences continuous minor prickling against their ribs and shoulders.
 
-### M.A.W. Gift — The Piercing Briar Coronet
+### M.A.W. Stigma — The Piercing Briar Coronet
 
 **Category:** Stigma (Head / Brow Inward-Facing Thorn Circlet)
 **Grade:** γ | **Element:** Grudge
@@ -259,11 +259,11 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 
 **Cost:** The coronet leaves small red puncture dots across the hairline when unequipped.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Gifts are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

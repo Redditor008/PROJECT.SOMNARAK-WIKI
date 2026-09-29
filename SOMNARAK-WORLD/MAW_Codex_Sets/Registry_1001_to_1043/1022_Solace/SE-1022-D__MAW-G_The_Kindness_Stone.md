@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Kindness Stone
+# M.A.W. STIGMA — The Kindness Stone
 
 > *“The Kindness Stone remembers Solace; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer feels every kindness that was refused nearby. Continued use makes Solace's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Stigma Record*
 
-The first The Kindness Stone field bearer encountered this source response: Reveals the act that formed the Echo. The gift contains the immediate hazard only after the team attributed it to Solace. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Kindness Stone field bearer encountered this source response: Reveals the act that formed the Echo. The stigma contains the immediate hazard only after the team attributed it to Solace. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Kindness Stone field bearer encountered this source response: Reve
 
 ## SET RELATIONSHIP
 
-Within *Solace — Witnessed Form*, The Kindness Stone performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Solace — Witnessed Form*, The Kindness Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

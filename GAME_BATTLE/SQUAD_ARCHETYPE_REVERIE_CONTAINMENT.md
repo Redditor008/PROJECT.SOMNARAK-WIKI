@@ -61,7 +61,7 @@
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-002 The Mourning Maul` (Grade 5 Heavy Blunt Relic)
   * **Suit:** `MAW-S-005 The Smothering Cloak` (Grade 4 Heavy Bastion Plating)
-  * **Gift:** `MAW-G-002 The Mourning Shell` (Grade 5 Chest Brooch)
+  * **Stigma:** `MAW-G-002 The Mourning Shell` (Grade 5 Chest Brooch)
 - **Signature Combat Skills:**
   * *Directional Interception (2 AP • Band 1 • Base 26):* Forces an attacking enemy to redirect single-target strikes away from adjacent backline allies and onto the Vanguard Shield.
   * *Bastion Stance (1 AP • Self • Base 22):* Temporarily fortifies Posture by +40 points and converts 20% of incoming kinetic damage into a temporary barrier shield.
@@ -75,7 +75,7 @@
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-088 The Hollow Needle` (Grade 4 Acoustic Piercing Focus)
   * **Suit:** `MAW-S-088 The Choir Mantle` (Grade 4 Lament-Resistant Robe)
-  * **Gift:** `MAW-G-088 The Weeping Choker` (Grade 4 Acoustic Dampener)
+  * **Stigma:** `MAW-G-088 The Weeping Choker` (Grade 4 Acoustic Dampener)
 - **Signature Combat Skills:**
   * *Harmonic Phase-Cancellation (2 AP • Band 1-3 Area • Base 25):* Emits an acoustic counter-wave that negates up to 60% of incoming area Lament damage and prevents squad mental panic.
   * *Mnemonic Composure Pulse (1 AP • Band 1-3 Area • Utility):* Restores 25 Composure points to all squad members within two nodes.
@@ -89,7 +89,7 @@
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-014 The Debt Cleaver` (Grade 4 High-Frequency Slashing Blade)
   * **Suit:** `MAW-S-014 The Scale Hauberk` (Grade 4 Agile Kinetic Hauberk)
-  * **Gift:** `MAW-G-014 The Golden Scale` (Grade 4 Precision Monocle)
+  * **Stigma:** `MAW-G-014 The Golden Scale` (Grade 4 Precision Monocle)
 - **Signature Combat Skills:**
   * *Severing Prism Execution (2 AP • Band 1-2 • Base 28):* High-speed slashing flurry dealing 65 Slash damage. Deals +50% bonus damage if the target limb is staggered or below 60% HP.
   * *Flanking Slash (1 AP • Band 1 • Base 24):* Rapid dash bypassing frontal defenses to strike exposed lateral joints directly.
@@ -103,7 +103,7 @@
 - **Equipped M.A.W. Configuration:**
   * **Weapon:** `MAW-W-609 The Frozen Harpoon` (Grade 4 Heavy Cryo-Rifle)
   * **Suit:** `MAW-S-609 The Thousand-Hand Shroud` (Grade 4 Glacial Weave)
-  * **Gift:** `MAW-G-609 The Frozen Drop` (Grade 4 Cryo-Pendant)
+  * **Stigma:** `MAW-G-609 The Frozen Drop` (Grade 4 Cryo-Pendant)
 - **Signature Combat Skills:**
   * *Sub-Zero Cryo-Shot (2 AP • Band 3-4 • Base 24):* Fires a liquid-nitrogen dart that deals 35 Cold/Piercing damage and applies 2 stacks of *Frostbite* (-2 Speed Band).
   * *Permafrost Pin (2 AP • Band 3-4 • Base 26):* Drives a freezing anchor cable into the target's limb, pinning the entity to its current node for 1 full combat turn.
@@ -197,7 +197,7 @@ To optimize the cadre's combat efficiency, the Reverie Directorate authorizes at
 +=====================================================================+
 |             RECOMMENDED M.A.W. LOADOUT & ENGRAM MANIFEST            |
 +=====================================================================+
-| ROLE          | WEAPON (W)       | SUIT (S)         | GIFT (G)      |
+| ROLE          | WEAPON (W)       | SUIT (S)         | STIGMA (G)    |
 +---------------------------------------------------------------------+
 | Shield Anchor | Mourning Maul    | Smother Cloak    | MourningShell |
 | Acoustic Siph | Hollow Needle    | Choir Mantle     | WeepingChoker |

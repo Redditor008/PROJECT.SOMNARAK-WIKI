@@ -1,6 +1,6 @@
 # Registry Codex Sets — 119 to 127
 
-This batch continues the individualized current-era codex archive after `SE-115`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Gift.
+This batch continues the individualized current-era codex archive after `SE-115`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Stigma.
 
 ## Included Entity Sets
 
@@ -63,7 +63,7 @@ The decision continues the Alpha Tree / Archive memory, return, and custody thre
 ## Current-Era Record Rules Applied
 
 - Every document is dated **Year 4,238** and uses the current post-Cycle R.D. setting.
-- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Gift histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
+- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Stigma histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
 - Individual records contain source-consistent stat lines, extraction or bestowal conditions, binding and rejection rules, named witnesses or bearers, incidents, corrosion signs, maintenance, emergency shutdown, and full-set resonance.
 - The original Redcage remains an **I-Relic**. Its three M.A.W. histories document released echoes, not bars cut from or issued from the original cage.
 - Gate Watch material uses Xyan as the current Gate Watch commander; no current record treats him as trapped outside the Gate.

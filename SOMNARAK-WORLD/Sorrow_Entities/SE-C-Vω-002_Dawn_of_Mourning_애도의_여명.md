@@ -191,9 +191,9 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 **Ability:** Grants 80% resistance to all four sorrow types. The vestments absorb incoming sorrow pressure and convert it into a protective aura. Once per encounter, the wearer can deploy the Crown of Sorrows as a defensive barrier.
 **Cost:** The wearer feels the weight of 3,000 names. Actions that involve hope or healing cause physical pain while wearing the vestments.
 
-### M.A.W. Gift — The Mourner's Tear
+### M.A.W. Stigma — The Mourner's Tear
 
-**Type:** Accessory (Gift) | **Grade:** ω | **Element:** Mixed
+**Type:** Accessory (Stigma) | **Grade:** ω | **Element:** Mixed
 **Appearance:** A single crystallized tear, violet-black, suspended on a thin chain. It is warm to the touch.
 
 **Ability:** Once per day, the wearer can confess a sorrow — any sorrow — and have it temporarily transformed into protective pressure. The heavier the confessed sorrow, the stronger the protection.

@@ -52,7 +52,7 @@ During the The Grieving Love Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Grieving Love's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not flee her embrace — sit with her grief until she lets go of her own accord The set cannot heal the originating event. Misuse routes Grieving Love's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Grieving Love's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not flee her embrace — sit with her grief until she lets go of her own accord The set cannot heal the originating event. Misuse routes Grieving Love's wound through the operator and triggers the recorded escalation.
 
 ---
 

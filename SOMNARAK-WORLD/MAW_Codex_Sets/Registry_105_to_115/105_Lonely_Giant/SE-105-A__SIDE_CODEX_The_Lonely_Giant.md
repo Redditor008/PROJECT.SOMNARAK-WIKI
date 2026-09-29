@@ -87,7 +87,7 @@ The set gives a bearer force, anchoring, and strength. Its danger is the inherit
 |---|---|---:|---|---|---|
 | Weapon | The Giant’s Maul | γ | Weight | Directed force against obstacles too heavy to move alone | `SE-105-B__MAW-W_The_Giants_Maul.md` |
 | Suit | The Giant’s Mantle | γ | Weight | Anchoring against Weight pressure without shrinking the bearer | `SE-105-C__MAW-S_The_Giants_Mantle.md` |
-| Gift | The Giant’s Ring | γ | Weight | Extraordinary strength with a tactile burden cost | `SE-105-D__MAW-G_The_Giants_Ring.md` |
+| Stigma | The Giant’s Ring | γ | Weight | Extraordinary strength with a tactile burden cost | `SE-105-D__MAW-G_The_Giants_Ring.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set gives a bearer force, anchoring, and strength. Its danger is the inherit
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Giant’s Ring
+### M.A.W. Stigma — The Giant’s Ring
 
 | Field | Record |
 |---|---|

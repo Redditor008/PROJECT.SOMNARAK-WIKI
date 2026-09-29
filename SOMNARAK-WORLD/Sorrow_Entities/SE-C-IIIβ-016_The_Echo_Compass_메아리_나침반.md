@@ -204,7 +204,7 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Lost Lens
 
@@ -245,9 +245,9 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Cost:** The wearer feels faintly absent to themselves.
 
-### M.A.W. Gift — The Lost Compass
+### M.A.W. Stigma — The Lost Compass
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
 **Appearance:** a compass-charm of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
@@ -259,11 +259,11 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Cost:** It never identifies the correct direction.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Gift cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

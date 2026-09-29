@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Thirteen-Second Echo
+# M.A.W. STIGMA — Thirteen-Second Echo
 
 ---
 
@@ -17,7 +17,7 @@ A narrow ocular lens of black crystal fastened over the left eye socket, humming
 | Field | Exact source record |
 |---|---|
 | Official name | Thirteen-Second Echo |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | δ |
 | Element | Void |
 | Appearance | A circular rim of blackened copper holding a polished slice of door-resin over the left pupil. |

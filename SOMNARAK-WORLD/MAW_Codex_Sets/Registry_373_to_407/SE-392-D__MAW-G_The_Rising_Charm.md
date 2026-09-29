@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Rising Charm
+# M.A.W. STIGMA — The Rising Charm
 
 > *“One known fragment can rise without pretending to be the whole name.”*
 

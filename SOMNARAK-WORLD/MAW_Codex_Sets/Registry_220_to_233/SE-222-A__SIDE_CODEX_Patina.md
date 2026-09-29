@@ -68,7 +68,7 @@ When two current border representatives independently identify the same original
 |---|---|---:|---|---|
 | Weapon | Patina Fang | δ | Cuts a corrosion path without turning the living carrier into the enemy. | `SE-222-B__MAW-W_Patina_Fang.md` |
 | Suit | Patina Plate | δ | Converts incoming hostility into physical resistance while exposing inherited bias. | `SE-222-C__MAW-S_Patina_Plate.md` |
-| Gift | Patina Charm | δ | Heats when ancestral blame is assigned to a present stranger. | `SE-222-D__MAW-G_Patina_Charm.md` |
+| Stigma | Patina Charm | δ | Heats when ancestral blame is assigned to a present stranger. | `SE-222-D__MAW-G_Patina_Charm.md` |
 
 **Set cost:** Old wounds ache, inherited anger seeks a new target, and the operator’s temper shortens. The set fails if “ending the feud” means defeating its descendants.
 
@@ -78,7 +78,7 @@ When two current border representatives independently identify the same original
 
 - **Patina Fang:** Grudge 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Each use wakes old injuries and leaves bruising along inherited scar-lines.
 - **Patina Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 2; 45 Echoes. Hostility hardens it, but the wearer begins feeling ancestral anger toward strangers.
-- **Patina Charm:** Tail Gift; 4%; +3 Resilience during source work. It distinguishes present harm from inherited accusation; the bearer becomes irritable whenever that distinction is ignored.
+- **Patina Charm:** Tail Stigma; 4%; +3 Resilience during source work. It distinguishes present harm from inherited accusation; the bearer becomes irritable whenever that distinction is ignored.
 
 ---
 

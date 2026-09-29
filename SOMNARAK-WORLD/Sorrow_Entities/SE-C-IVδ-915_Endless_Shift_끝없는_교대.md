@@ -186,16 +186,16 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.
 
-### M.A.W. Gift — Endless Shift's Token
+### M.A.W. Stigma — Endless Shift's Token
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
 **Appearance:** a coin-token of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

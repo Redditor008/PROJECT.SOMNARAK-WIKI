@@ -87,7 +87,7 @@ The set can hold, absorb, and reveal Weight from debt fields. It must never make
 |---|---|---:|---|---|---|
 | Weapon | The Sarcophagus Wall-Ram | γ | Weight | Piercing response to wall-like obligation pressure | `SE-180-B__MAW-W_The_Debt_Maul.md` |
 | Suit | The Mason's Mortar-Crusted Hauberk | γ | Weight | Absorbs Weight without becoming permanent burden storage | `SE-180-C__MAW-S_The_Debt_Shield.md` |
-| Gift | The Unpaid Brick Shard | γ | Weight | Identifies one block or obligation needing review | `SE-180-D__MAW-G_The_Debt_Charm.md` |
+| Stigma | The Unpaid Brick Shard | γ | Weight | Identifies one block or obligation needing review | `SE-180-D__MAW-G_The_Debt_Charm.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set can hold, absorb, and reveal Weight from debt fields. It must never make
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Debt Charm
+### M.A.W. Stigma — The Debt Charm
 
 | Field | Record |
 |---|---|

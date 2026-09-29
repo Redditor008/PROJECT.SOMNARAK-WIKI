@@ -778,7 +778,7 @@ Any older reference to an “enemy skull” is interpreted as a chassis cranial 
 | **Origin** | **Unknown Before-Time provenance** |
 | **Power Source** | Closed internal Han lattice of unknown construction, synchronized to Ishall's Grudge and Void signature |
 | **Binding Rule** | Physically separate and removable; operationally keyed to Ishall and inert outside her control range or when synchronization ends |
-| **Not Classified As** | M.A.W., M.A.W. Gift, Artificial Arm, specialized arm, Cyborg limb, Cast Effigy, or body transformation |
+| **Not Classified As** | M.A.W., M.A.W. Stigma, Artificial Arm, specialized arm, Cyborg limb, Cast Effigy, or body transformation |
 
 #### Appearance
 
@@ -894,7 +894,7 @@ The disruption is not absolute negation. It interferes with Han-assisted movemen
 
 Unanswered's Grudge and Void output matches Ishall's bearer signature, but the artifacts are not manifestations of her body. They are physical objects of unknown Before-Time origin that have synchronized with her.
 
-They are not M.A.W. because no Sorrow Entity extraction, Gift formation, or corrosion bond is recorded. They are not specialized arms because Ishall retains ordinary Android arms and hands at all times. Their floating hand shape describes the artifacts themselves, not an alteration of her anatomy.
+They are not M.A.W. because no Sorrow Entity extraction, Stigma formation, or corrosion bond is recorded. They are not specialized arms because Ishall retains ordinary Android arms and hands at all times. Their floating hand shape describes the artifacts themselves, not an alteration of her anatomy.
 
 ### Standard Shadow Corps Equipment
 
@@ -913,7 +913,7 @@ No single standard covert weapon is established as another personal signature it
 
 ### M.A.W. Status
 
-A Directorate table calls Ishall M.A.W.-compatible and notes Stage 1 whispers. No source names the M.A.W., entity, date, Gift, or continuing symptom.
+A Directorate table calls Ishall M.A.W.-compatible and notes Stage 1 whispers. No source names the M.A.W., entity, date, Stigma, or continuing symptom.
 
 The record retains the compatibility and exposure note without assigning a permanent personal M.A.W. or treating Unanswered as one.
 
@@ -1503,7 +1503,7 @@ Her olive coloring and apparent age of approximately thirty-seven are establishe
 - Grudge and Void aligned;
 - removable and physically damageable;
 - not M.A.W;
-- not M.A.W. Gift;
+- not M.A.W. Stigma;
 - not specialized arms;
 - not artificial limbs;
 - not a body transformation.
@@ -1533,7 +1533,7 @@ For **Closed Ground**:
 
 No named personal M.A.W. is assigned. Her compatibility and the Stage 1 whisper are recorded as limited exposure history.
 
-Unanswered never inherits M.A.W. extraction, Gift, corrosion, or entity-origin rules.
+Unanswered never inherits M.A.W. extraction, Stigma, corrosion, or entity-origin rules.
 
 ### The Memory Archive
 
@@ -1592,7 +1592,7 @@ No direct participation, Archival Encounter, Engram Page, Stratum Realization, o
 - Its standard attack is AoE with 100% / 70% / 50% falloff.
 - Closed Ground is a Room-range area-denial field.
 - Unanswered is not M.A.W.
-- Unanswered is not a M.A.W. Gift.
+- Unanswered is not a M.A.W. Stigma.
 - Unanswered is not specialized arms or part of Ishall's body.
 - Ishall retains two ordinary functional Android hands.
 - No direct _Memory Archive_ progression is recorded for her.

@@ -44,7 +44,7 @@ During the The The Maw Source-Trace, the field team preserved this source fact: 
 
 ## M.A.W. STATUS
 
-Extraction is canonically prohibited. No Weapon, Suit, or Gift history is authorized for The Maw; the absence of equipment is part of containment law.
+Extraction is canonically prohibited. No Weapon, Suit, or Stigma history is authorized for The Maw; the absence of equipment is part of containment law.
 
 ---
 

@@ -203,9 +203,9 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Cost:** The wearer carries Vellum Man's grief into every quiet moment; small joys feel distant until the suit is removed.
 
-### M.A.W. Gift — Vellum Man's Token
+### M.A.W. Stigma — Vellum Man's Token
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
 **Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
@@ -217,7 +217,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Cost:** The bearer dreams in tears drawn from Vellum Man's sorrow and wakes with another person's grief still present.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

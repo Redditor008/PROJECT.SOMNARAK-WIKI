@@ -58,7 +58,7 @@ The Bird opens a path only after a person thanks it directly and acknowledges th
 |---|---|---|---|---|---|
 | Weapon | The Guardian Lens | γ | Void | Piercing defense against intruders | `SE-033-B__MAW-W_The_Guardian_Lens.md` |
 | Suit | The Guardian Veil | γ | Void | Protects a bearer while risking retreat lock | `SE-033-C__MAW-S_The_Guardian_Veil.md` |
-| Gift | The Guardian Wing | γ | Void | Intercepts harm meant for another | `SE-033-D__MAW-G_The_Guardian_Wing.md` |
+| Stigma | The Guardian Wing | γ | Void | Intercepts harm meant for another | `SE-033-D__MAW-G_The_Guardian_Wing.md` |
 
 ### Set Resonance — Open the Gate
 

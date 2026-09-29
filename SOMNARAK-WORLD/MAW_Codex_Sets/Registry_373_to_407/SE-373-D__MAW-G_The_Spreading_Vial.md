@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Spreading Vial
+# M.A.W. STIGMA — The Spreading Vial
 
 > *“It carries grief only to someone who agreed to receive it.”*
 

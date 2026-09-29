@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Promise Shard
+# M.A.W. STIGMA — The Promise Shard
 
 > *“The Promise Shard remembers Shard of a Broken Promise; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Promise Shard is the gift record of the Shard of a Broken Promise’s set — tail- slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is preemptive: it protects the wearer from one anticipated betrayal, the broken vow’s survivor guarding against the wound it knows best. Binding names the source event — an artifact promised to a family’s protection was left behind in evacuation; the promise broke, the artifact survived — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is ambient: the wearer feels every broken promise nearby, the neighborhood’s failures all audible at once, and prolonged use makes the sorrow autobiographical. The source-trace fixed doctrine: the gift shows the promise and the moment it failed — vow and breaking held in one view, neither softened — and it stayed the hazard only after attribution to the Shard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Promise Shard is the stigma record of the Shard of a Broken Promise’s set — tail- slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is preemptive: it protects the wearer from one anticipated betrayal, the broken vow’s survivor guarding against the wound it knows best. Binding names the source event — an artifact promised to a family’s protection was left behind in evacuation; the promise broke, the artifact survived — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is ambient: the wearer feels every broken promise nearby, the neighborhood’s failures all audible at once, and prolonged use makes the sorrow autobiographical. The source-trace fixed doctrine: the stigma shows the promise and the moment it failed — vow and breaking held in one view, neither softened — and it stayed the hazard only after attribution to the Shard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Promise Shard is the gift record of the Shard of a Broken Promise’s set �
 
 **Operational / binding cost:** The wearer feels every broken promise in the surrounding area. Continued use makes Shard of a Broken Promise's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Stigma Record*
 
-The first The Promise Shard field bearer encountered this source response: Shows the promise and the moment it failed. The gift stays the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Promise Shard field bearer encountered this source response: Shows the promise and the moment it failed. The stigma stays the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Promise Shard field bearer encountered this source response: Shows
 
 ## SET RELATIONSHIP
 
-Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shard performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

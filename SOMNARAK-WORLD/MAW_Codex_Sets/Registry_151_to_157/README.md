@@ -1,6 +1,6 @@
 # Registry Codex Sets — 151 to 157
 
-This batch continues the individualized current-era codex archive after `SE-150`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Gift.
+This batch continues the individualized current-era codex archive after `SE-150`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Stigma.
 
 ## Included Entity Sets
 
@@ -49,7 +49,7 @@ This batch continues the individualized current-era codex archive after `SE-150`
 ## Current-Era Record Rules Applied
 
 - Every document is dated **Year 4,238** and uses the current post-Cycle R.D. setting.
-- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Gift histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
+- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Stigma histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
 - Individual records include source-consistent stat lines, extraction or bestowal conditions, binding and rejection rules, named witnesses or bearers, incidents, corrosion signs, maintenance, emergency shutdown, and full-set resonance.
 - The Border Tree set requires reciprocal passage and a counterpart review; it is not a unilateral border-control system.
 - Doorway to Nowhere M.A.W. works only with a physical return partner and current-location anchor. Its Key is not a Gate Key or permanent transport device.

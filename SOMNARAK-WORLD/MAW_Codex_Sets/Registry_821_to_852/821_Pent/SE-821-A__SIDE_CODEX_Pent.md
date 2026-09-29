@@ -52,7 +52,7 @@ During the The Pent Source-Trace, the field team preserved this source fact: A w
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Pent's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Permit rest and acknowledge exhaustion as real The set cannot heal the originating event. Misuse routes Pent's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Pent's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Permit rest and acknowledge exhaustion as real The set cannot heal the originating event. Misuse routes Pent's wound through the operator and triggers the recorded escalation.
 
 ---
 

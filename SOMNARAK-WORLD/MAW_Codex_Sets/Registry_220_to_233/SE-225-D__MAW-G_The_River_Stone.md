@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The River Stone
+# M.A.W. STIGMA — The River Stone
 
 > *“It grows heavier because sorrow has not vanished. It has only changed hands.”*
 
@@ -11,13 +11,13 @@
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Echo-Core Eyes Only    
 **Codex Set Completion:** `4/4`
-**Status:** Active — bearer-bound monitoring Gift
+**Status:** Active — bearer-bound monitoring Stigma
 
 ## IDENTITY & BESTOWAL
 
 A smooth black Han-steel stone fixed at the Head slot. It begins lead-cold and gains mass without changing size. Its surface has no reflection; a genuine Stone points its heaviest side toward the sluice return.
 
-The Gift appeared after a Ferrehan observer completed rotation without attempting direct River contact. Probability is 4%. It cannot be manufactured, requested, or emptied into storage.
+The Stigma appeared after a Ferrehan observer completed rotation without attempting direct River contact. Probability is 4%. It cannot be manufactured, requested, or emptied into storage.
 
 ## Appearance
 
@@ -48,7 +48,7 @@ The Stone collects only overflow that escapes the Maul’s line and Mantle’s b
 
 **Care/release:** Seat the bearer above the return trench with the heavy face downstream. Open one monitoring gate at a time until the Stone cools and ordinary head movement returns. No one may measure the released burden as production yield.
 
-**Emergency rule:** Support the bearer’s neck, clear the downstream line, and stop all new absorption. Shattering the Gift produces a room-wide heavy wave.
+**Emergency rule:** Support the bearer’s neck, clear the downstream line, and stop all new absorption. Shattering the Stigma produces a room-wide heavy wave.
 
 ---
 

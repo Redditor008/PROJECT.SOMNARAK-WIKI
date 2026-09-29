@@ -430,13 +430,13 @@ Observation Yield Allocation & Armament Forging: Directorate observation points 
 | | (Void Damage / Long)                                              |
 +---------------------------------------------------------------------+
 | Mother's Locket     | Necklace: +5 Max SP,                          |
-| Gift                | +3 Mental Recovery                            |
+| Stigma                | +3 Mental Recovery                          |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST KIM                    |
 | | (CHEST & MAIN)                                                    |
 +---------------------------------------------------------------------+
 ```
-Specialist Kim equips the *Mother's Shawl* suit and *Mother's Locket* gift, transforming him into our premier mental damage tank.
+Specialist Kim equips the *Mother's Shawl* suit and *Mother's Locket* stigma, transforming him into our premier mental damage tank.
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 At 23:45, the facility transitions to amber night lighting. Drainage pumps cycle 18,000 liters of acoustic dampening brine through Floor 5's perimeter trenches. Director Majin accesses his private console:
@@ -830,7 +830,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | (Grudge Strike / Heavy)                                           |
 +---------------------------------------------------------------------+
 | Guarding Feather    | Visor: +4 Resolve, +5                         |
-| Gift                | Movement Speed                                |
+| Stigma                | Movement Speed                              |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST PARK                   |
 | | (HEAD & SUIT)                                                     |
@@ -1238,7 +1238,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | (Void Piercing / Resonance)                                       |
 | | Fast)                                                             |
 +---------------------------------------------------------------------+
-| Healer's Halo Gift  | Crown: +10 All Stats,                         |
+| Healer's Halo Stigma  | Crown: +10 All Stats,                       |
 | | Passive HP/SP Regen                                               |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST                        |
@@ -1634,7 +1634,7 @@ Promotions and attribute gains awarded:
 Director's Tactical Assessment & Containment Authorization:
 - *Choice Alpha* is *The Debtor's Cistern* (SE-C-IIIγ-061)—siphons agent stats permanently on work failures.
 - *Choice Gamma* is *The Rage Cage* (SE-C-IIIβ-120)—deals devastating Grudge damage and ignites hallway fires.
-- *Choice Beta* is **The Sorrow Fountain** (SE-C-IIIγ-088). This is a premier Class III Lament entity. It yields immense quantities of liquid Han, trains Composure and Clarity to maximum caps, and synthesizes the exquisite *Cherub's Tear* mantle gift which boosts SP regeneration facility-wide!
+- *Choice Beta* is **The Sorrow Fountain** (SE-C-IIIγ-088). This is a premier Class III Lament entity. It yields immense quantities of liquid Han, trains Composure and Clarity to maximum caps, and synthesizes the exquisite *Cherub's Tear* mantle stigma which boosts SP regeneration facility-wide!
 
 Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-088 (*The Sorrow Fountain*)**.
 
@@ -1652,7 +1652,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | (Grudge Blunt / Heavy)                                            |
 +---------------------------------------------------------------------+
 | Meteoric Bracer     | Bracer: +5 Resilience,                        |
-| Gift                | +5% Physical Block                            |
+| Stigma                | +5% Physical Block                          |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST BAE                    |
 | | (ARM & SUIT)                                                      |
@@ -2034,7 +2034,7 @@ AUTHORIZATION LOCKED: **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Saint*)**.
 | | Range Band 2-3 | 1 AP | Pierces +25% Armor                        |
 | Needle Veil Shroud | Suit: Light Armor (Speed Delta +1)             |
 | | Resist: 0.8 Grudge / 0.6 Lament / 0.6 Void                        |
-| Avian Eye Gift | Eye Slot: +6 SP, +8% Critical Clash Power          |
+| Avian Eye Stigma | Eye Slot: +6 SP, +8% Critical Clash Power        |
 +---------------------------------------------------------------------+
 | EQUIPMENT ALLOCATION | BESTOWED UPON HWANG (VOID SPECIALIST)        |
 +=====================================================================+
@@ -2441,7 +2441,7 @@ Milestone achieved: **Hydraulic Ballast Reserves have reached 50.038 tons!** Exa
 Director's Tactical Assessment & Containment Authorization:
 - *Choice Alpha* is *The Dancing Chains* (SE-C-IIIγ-102)—causes rhythmic physical damage across entire hallways.
 - *Choice Gamma* is *The Debt Wall* (SE-C-IIIβ-180)—demands constant physical tribute.
-- *Choice Beta* is **The Memory Well** (SE-C-IIIγ-115). This is the key archival entity needed for Marjuk's Floor 3 research. It holds uncorrupted Before-Time historical echoes, trains Clarity and Composure to maximum theoretical thresholds, and produces the legendary *Reflecting Glass* crown gift!
+- *Choice Beta* is **The Memory Well** (SE-C-IIIγ-115). This is the key archival entity needed for Marjuk's Floor 3 research. It holds uncorrupted Before-Time historical echoes, trains Clarity and Composure to maximum theoretical thresholds, and produces the legendary *Reflecting Glass* crown stigma!
 
 Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-115 (*The Memory Well*)**.
 
@@ -2458,7 +2458,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | (Lament Piercing / Resonance)                                     |
 | | Long)                                                             |
 +---------------------------------------------------------------------+
-| Cherub's Tear Gift  | Necklace: +8 Max SP,                          |
+| Cherub's Tear Stigma  | Necklace: +8 Max SP,                        |
 | | +5 SP Regen / min                                                 |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST SONG                   |

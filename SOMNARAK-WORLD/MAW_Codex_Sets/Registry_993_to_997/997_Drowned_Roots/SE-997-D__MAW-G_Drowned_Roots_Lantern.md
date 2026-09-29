@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Drowned Roots Lantern
+# M.A.W. STIGMA — Drowned Roots Lantern
 
 > *“Drowned Roots Lantern remembers Drowned Roots; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Drowned Roots Lantern is the gift record of the Drowned Roots set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability heals minor wounds through warm, sorrowful light, the erased soldier still keeping watch over the living. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is contagious erasure: the wearer becomes difficult for others to remember, borrowing the soldier's condition with the soldier's gift. The source-trace fixed doctrine: the Lantern revealed the soldier's erased history, service recovered even where the name could not be, and it opens the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Drowned Roots Lantern is the stigma record of the Drowned Roots set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability heals minor wounds through warm, sorrowful light, the erased soldier still keeping watch over the living. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is contagious erasure: the wearer becomes difficult for others to remember, borrowing the soldier's condition with the soldier's stigma. The source-trace fixed doctrine: the Lantern revealed the soldier's erased history, service recovered even where the name could not be, and it opens the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Drowned Roots Lantern is the gift record of the Drowned Roots set — tail-s
 
 **Operational / binding cost:** The wearer becomes difficult for others to remember. Continued use makes Drowned Roots's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Stigma Record*
 
-The first Drowned Roots Lantern field bearer encountered this source response: Reveals the soldier's erased history. The gift opens the immediate hazard only after the team attributed it to Drowned Roots. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Drowned Roots Lantern field bearer encountered this source response: Reveals the soldier's erased history. The stigma opens the immediate hazard only after the team attributed it to Drowned Roots. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Drowned Roots Lantern field bearer encountered this source response: R
 
 ## SET RELATIONSHIP
 
-Within *Drowned Roots — Witnessed Form*, Drowned Roots Lantern performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Drowned Roots — Witnessed Form*, Drowned Roots Lantern performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

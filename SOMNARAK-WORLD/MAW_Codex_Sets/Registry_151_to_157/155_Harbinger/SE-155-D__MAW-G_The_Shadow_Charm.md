@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Shadow Charm
+# M.A.W. STIGMA — The Shadow Charm
 
 > *“It shows the pressure of an obligation. It does not tell you that the pressure is justified.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Charm |
 | Set | Known Balance |
-| Type / grade / element | Gift, black ledger-charm / β — Moderate / Weight — Black |
+| Type / grade / element | Stigma, black ledger-charm / β — Moderate / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; external-review use only |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 5% after successful Harbinger work |
 | Bestowal event | The Charm appeared after a balance review made Harbinger’s shadow recede for one full count. |
 | Acceptance condition | The candidate names a reviewer who may dispute the Charm’s reading. |
-| Source intent | Gift bestowal; no charm result is a debt sentence or a collection order. |
+| Source intent | Stigma bestowal; no charm result is a debt sentence or a collection order. |
 
 **Binding requirement:** The bearer must record any displayed obligation beside its source and uncertainty.
 
@@ -43,7 +43,7 @@
 
 The Shadow Charm is a small black ledger-charm of Han iron, square and thin, with a surface that reflects a line of text which disappears when read directly. A short cord lets it hang from the belt, and in rest the metal is cold and blank. When the bearer has agreed to an independent reviewer, a shadow line points toward one pending obligation or unexamined balance pressure, and the reflected text becomes legible only as the reviewer reads it aloud. The charm separates verified fact, dispute, and emotional dread without determining legal validity or calculating a payment. It carries no Echo cost, but obligation pressure becomes bodily noticeable after a reading. It is stored face-down beside the review record, never beside a collection notice alone. If the bearer uses it to shame a debtor, every pending obligation in their own life becomes physically heavy until a reviewer removes it. The reviewer covers the shadow text and names the next action during shutdown.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -68,7 +68,7 @@ The Charm identifies one upcoming obligation, debt pressure, or delayed action t
 
 ## HISTORY OF USE
 
-Park used the Charm during a debt-support meeting and saw a pressure line that turned out to be an unfiled appeal rather than a payment deadline. The team filed the appeal. Park’s pace slowed for the rest of the shift as the Charm displayed a personal deferred obligation too. The reviewer kept the two records separate; the Gift did not convert disclosure into punishment.
+Park used the Charm during a debt-support meeting and saw a pressure line that turned out to be an unfiled appeal rather than a payment deadline. The team filed the appeal. Park’s pace slowed for the rest of the shift as the Charm displayed a personal deferred obligation too. The reviewer kept the two records separate; the Stigma did not convert disclosure into punishment.
 
 ## CORROSION, MAINTENANCE & SHUTDOWN
 
@@ -82,7 +82,7 @@ Park used the Charm during a debt-support meeting and saw a pressure line that t
 
 ## SET RELATIONSHIP
 
-The Charm is the evidence limit of *Face the Ledger*. Maul responds to present pressure and Step enables safe movement; this Gift keeps the set from treating dread as proof.
+The Charm is the evidence limit of *Face the Ledger*. Maul responds to present pressure and Step enables safe movement; this Stigma keeps the set from treating dread as proof.
 
 > *“An obligation may be real. The fear around it is not a receipt.”* — Auditor Yuna
 

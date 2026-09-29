@@ -34,7 +34,7 @@ The Lost Veil is a near-colorless suit of Han gossamer with one warm present-loc
 
 ## SET, FAILURE & CARE
 
-Gift rejects, Veil anchors, Lens removes. The suit cannot replace an external navigator.
+Stigma rejects, Veil anchors, Lens removes. The suit cannot replace an external navigator.
 
 - **Moving anchor:** present-location thread follows a false route.
 - **Guide substitution:** wearer obeys the set instead of the navigator.

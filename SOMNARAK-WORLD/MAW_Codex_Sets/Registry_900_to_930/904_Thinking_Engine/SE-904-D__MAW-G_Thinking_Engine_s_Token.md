@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Thinking Engine's Token
+# M.A.W. STIGMA — Thinking Engine's Token
 
 > *“Thinking Engine's Token remembers Thinking Engine; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Thinking Engine's Token is the gift record of the Thinking Engine set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's mind sorrow, crystallized into wearable form, one cooled gear from a machine that grieves in computation. Binding names Thinking Engine's event — Not recorded, the premise missing from its own proof — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives in sleep: the bearer dreams in tears drawn from Thinking Engine's sorrow and wakes with another person's grief still present, output from a process they never started. The source-trace fixed doctrine: the object permits study, its mind pressure becoming legible under sustained observation, and the Token stabilizes the hazard only after attribution to Thinking Engine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Thinking Engine's Token is the stigma record of the Thinking Engine set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's mind sorrow, crystallized into wearable form, one cooled gear from a machine that grieves in computation. Binding names Thinking Engine's event — Not recorded, the premise missing from its own proof — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives in sleep: the bearer dreams in tears drawn from Thinking Engine's sorrow and wakes with another person's grief still present, output from a process they never started. The source-trace fixed doctrine: the object permits study, its mind pressure becoming legible under sustained observation, and the Token stabilizes the hazard only after attribution to Thinking Engine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ Thinking Engine's Token is the gift record of the Thinking Engine set — head-s
 
 **Operational / binding cost:** The bearer dreams in tears drawn from Thinking Engine's sorrow and wakes with another person's grief still present. Continued use makes Thinking Engine's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Stigma Record*
 
-The first Thinking Engine's Token field bearer encountered this source response: Permits study; the mind pressure becomes legible under sustained observation. The gift stabilizes the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Thinking Engine's Token field bearer encountered this source response: Permits study; the mind pressure becomes legible under sustained observation. The stigma stabilizes the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Thinking Engine's Token field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Thinking Engine — Witnessed Form*, Thinking Engine's Token performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Thinking Engine — Witnessed Form*, Thinking Engine's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

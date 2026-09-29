@@ -1,6 +1,6 @@
 # Registry Codex Sets — 185 to 195
 
-This batch continues the individualized current-era codex archive after `SE-184`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Gift.
+This batch continues the individualized current-era codex archive after `SE-184`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Stigma.
 
 ## Included Entity Sets
 
@@ -21,7 +21,7 @@ The decision preserves the current Zone B record sequence concerning unacknowled
 ## Current-Era Record Rules Applied
 
 - Every document is dated **Year 4,238** and uses the current post-Cycle R.D. setting.
-- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Gift histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
+- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Stigma histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
 - The Gallery restores verified names without inventing missing life histories.
 - Ephemera records fading places without treating ruins as salvage.
 - Rage Statue M.A.W. requires present accountability and cannot be used as retaliation authority.

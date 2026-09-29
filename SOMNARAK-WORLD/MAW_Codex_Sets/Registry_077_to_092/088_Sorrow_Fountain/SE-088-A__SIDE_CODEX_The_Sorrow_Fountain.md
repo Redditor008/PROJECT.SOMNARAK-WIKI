@@ -87,7 +87,7 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 |---|---|---:|---|---|---|
 | Weapon | The Weeping Basin-Aspergillum | γ | Lament | Piercing pressure that makes hidden grief audible | `SE-088-B__MAW-W_The_Sorrow_Requiem.md` |
 | Suit | The Cistern-Keeper's Chiton & Mantle | γ | Lament | Protection against an overwhelming lament surge | `SE-088-C__MAW-S_The_Sorrow_Shroud.md` |
-| Gift | The Weeping Gargoyle Brooch | γ | Lament | A small, consent-bound wave of shared calm | `SE-088-D__MAW-G_The_Sorrow_Vial.md` |
+| Stigma | The Weeping Gargoyle Brooch | γ | Lament | A small, consent-bound wave of shared calm | `SE-088-D__MAW-G_The_Sorrow_Vial.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Sorrow Vial
+### M.A.W. Stigma — The Sorrow Vial
 
 | Field | Record |
 |---|---|

@@ -24,7 +24,7 @@ Each complete entity set contains:
 SE-###-A  Side Codex
 SE-###-B  Individual Weapon M.A.W. & History Codex
 SE-###-C  Individual Suit M.A.W. & History Codex
-SE-###-D  Individual Gift M.A.W. & History Codex
+SE-###-D  Individual Stigma M.A.W. & History Codex
 ```
 
 All current pages use **Year 4,238**, named R.D. authors, and the current post-Cycle R.D. status. Historical material inside a page is explicitly identified as historical rather than presented as the current operating state.

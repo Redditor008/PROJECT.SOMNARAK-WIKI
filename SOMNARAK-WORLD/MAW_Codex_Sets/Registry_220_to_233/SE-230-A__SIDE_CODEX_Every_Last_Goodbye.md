@@ -67,7 +67,7 @@ A M.A.W. echo may be taken only after a final moment is witnessed, accurately re
 |---|---|---:|---|---|
 | Weapon | The Final Lens | δ | Uses the blank after a final frame as a piercing Void line. | `SE-230-B__MAW-W_The_Final_Lens.md` |
 | Suit | The Final Veil | δ | Preserves the living witness while terminal memories pass through. | `SE-230-C__MAW-S_The_Final_Veil.md` |
-| Gift | The Final Hour | δ | Shows the moment immediately before a target’s death and the bearer’s own ending when it stops. | `SE-230-D__MAW-G_The_Final_Hour.md` |
+| Stigma | The Final Hour | δ | Shows the moment immediately before a target’s death and the bearer’s own ending when it stops. | `SE-230-D__MAW-G_The_Final_Hour.md` |
 
 **Set cost:** The operator loses small memories, becomes absent to the present self, and receives an image of personal death. The set witnesses endings; it does not guarantee prevention or meaning.
 
@@ -77,7 +77,7 @@ A M.A.W. echo may be taken only after a final moment is witnessed, accurately re
 
 - **Final Lens:** Void 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Each discharge removes a small nameless memory.
 - **Final Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; maximum 2; 45 Echoes. It protects Soul continuity while making the wearer faintly absent to themselves.
-- **Final Hour:** Head Gift; 4%; +3 Composure during source work. It shows the instant before death; when the token stops, the bearer sees their own final moment.
+- **Final Hour:** Head Stigma; 4%; +3 Composure during source work. It shows the instant before death; when the token stops, the bearer sees their own final moment.
 
 ---
 

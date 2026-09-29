@@ -52,7 +52,7 @@ During the The Tear Too Small to Honor Source-Trace, the field team preserved th
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.
 
 ---
 

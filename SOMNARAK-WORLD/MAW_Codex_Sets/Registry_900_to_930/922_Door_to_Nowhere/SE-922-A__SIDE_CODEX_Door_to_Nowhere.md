@@ -52,7 +52,7 @@ During the The Door to Nowhere Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.
 
 ---
 

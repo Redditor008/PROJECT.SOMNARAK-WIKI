@@ -65,9 +65,9 @@ An echo forms after a viewer accepts one truthful reflection, names its limits, 
 |---|---|---:|---|---|
 | Weapon | The Truth Lens | β | Strikes one verified deliberate deception without attacking ordinary privacy. | `SE-310-B__MAW-W_The_Truth_Lens.md` |
 | Suit | The Truth Veil | β | Protects identity while confronting a painful reflection. | `SE-310-C__MAW-S_The_Truth_Veil.md` |
-| Gift | The Truth Lens | β | Reveals deception while making convincing lies unavailable to the bearer. | `SE-310-D__MAW-G_The_Truth_Lens.md` |
+| Stigma | The Truth Lens | β | Reveals deception while making convincing lies unavailable to the bearer. | `SE-310-D__MAW-G_The_Truth_Lens.md` |
 
-**Set cost:** The wielder loses memories, the wearer feels absent, and the Gift bearer cannot lie convincingly.
+**Set cost:** The wielder loses memories, the wearer feels absent, and the Stigma bearer cannot lie convincingly.
 
 ---
 
@@ -75,7 +75,7 @@ An echo forms after a viewer accepts one truthful reflection, names its limits, 
 
 - **Weapon Truth Lens:** Void 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. Each use removes small nameless memories.
 - **Truth Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; maximum 4; 20 Echoes. It resists Void while making the wearer absent.
-- **Gift Truth Lens:** Head; 5%; +1 Composure during source work. It sees through deception; the bearer cannot lie convincingly.
+- **Stigma Truth Lens:** Head; 5%; +1 Composure during source work. It sees through deception; the bearer cannot lie convincingly.
 
 ---
 
@@ -83,7 +83,7 @@ An echo forms after a viewer accepts one truthful reflection, names its limits, 
 
 ### *Truth Without Totality*
 
-**Condition:** Gift identifies one deception, Veil wearer names a personal context the Mirror cannot see, and Weapon Lens remains lowered unless the deception causes present harm.
+**Condition:** Stigma identifies one deception, Veil wearer names a personal context the Mirror cannot see, and Weapon Lens remains lowered unless the deception causes present harm.
 
 **Effect:** A truthful fragment can be examined without turning it into a total identity verdict. Deliberate harmful deception becomes targetable while privacy, uncertainty, and change remain valid.
 

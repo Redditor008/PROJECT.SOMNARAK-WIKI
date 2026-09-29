@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Maw's Relic
+# M.A.W. STIGMA — The Maw's Relic
 
 ---
 
@@ -17,7 +17,7 @@ A heavy iron torque worn around the neck, set with a rough-hewn fragment of Cheo
 | Field | Exact source record |
 |---|---|
 | Official name | The Maw's Relic |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | ω |
 | Element | Grudge |
 | Appearance | A thick forged-iron neck collar holding a jagged black mineral tooth that radiates subtle, steady warmth. |

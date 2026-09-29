@@ -62,7 +62,7 @@ The portraits lean toward a listener but never provide a complete face. A whispe
 |---|---|---:|---|---|
 | Weapon | The Gallery Requiem | β | Lament | `SE-185-B__MAW-W_The_Gallery_Requiem.md` |
 | Suit | The Gallery Shroud | β | Lament | `SE-185-C__MAW-S_The_Gallery_Shroud.md` |
-| Gift | The Gallery Stone | β | Lament | `SE-185-D__MAW-G_The_Gallery_Stone.md` |
+| Stigma | The Gallery Stone | β | Lament | `SE-185-D__MAW-G_The_Gallery_Stone.md` |
 
 **Set rule:** Restoration is evidence-led and never demands a complete biography from a partial frame.
 
@@ -72,7 +72,7 @@ The portraits lean toward a listener but never provide a complete face. A whispe
 
 - **Gallery Requiem:** Lament 5–9; Speed 2; Range 2; Single; 4 maximum; 25 Echoes. It makes one forgotten history emotionally legible without compelling a disclosure.
 - **Gallery Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; 4 maximum; 20 Echoes. It shelters a researcher from an overload of voices.
-- **Gallery Stone:** Tail Gift; 5% bestowal; +1 source-work bonus. It reveals one name attached to a forgotten image; the bearer hears names that still cannot be recovered.
+- **Gallery Stone:** Tail Stigma; 5% bestowal; +1 source-work bonus. It reveals one name attached to a forgotten image; the bearer hears names that still cannot be recovered.
 
 ---
 

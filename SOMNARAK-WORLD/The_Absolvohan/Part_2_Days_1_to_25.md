@@ -411,7 +411,7 @@ Director Majin reviews the tripartite extraction canisters rising from the Well:
 Director's Tactical Assessment & Containment Authorization:
 - *Choice Beta* is *The Cracked Hourglass* (SE-C-IIIβ-036)—a dangerous temporal manipulator that accelerates agent aging if worked incorrectly.
 - *Choice Gamma* is *The Angry Maiden* (SE-C-IIIγ-042)—demands high-level Pugnahan combat work; our rookie roster lacks the physical armor to trade blows safely.
-- *Choice Alpha* is **The Silent Child** (SE-C-IIIγ-025). This is an exceptionally safe Class II/Class III Lament entity. It loves Flerehan communion, trains Clarity and Composure reliably, and produces the *Silence Ring* gift which provides passive SP regeneration.
+- *Choice Alpha* is **The Silent Child** (SE-C-IIIγ-025). This is an exceptionally safe Class II/Class III Lament entity. It loves Flerehan communion, trains Clarity and Composure reliably, and produces the *Silence Ring* stigma which provides passive SP regeneration.
 
 Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-025 (*The Silent Child*)**.
 
@@ -432,7 +432,7 @@ Observation points accumulated from The Guarding Bird are committed to the extra
 | Guardian Lens       | Weapon: 3-5 Void                              |
 | | (Black / Long)                                                    |
 +---------------------------------------------------------------------+
-| Silence Ring Gift   | Finger: +4 SP Recovery                        |
+| Silence Ring Stigma   | Finger: +4 SP Recovery                      |
 | | / min                                                             |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST LEE                    |
@@ -2027,7 +2027,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-032 (*The Weighting
 +---------------------------------------------------------------------+
 | ITEM FORGED          | SLOT / PROPERTIES                            |
 +---------------------------------------------------------------------+
-| Hollow Halo Gift     | Head: +8 SP, Aura Pan                        |
+| Hollow Halo Stigma     | Head: +8 SP, Aura Pan                      |
 | Hollow Shroud Suit   | Suit: 0.7 / 0.6 / 0.9                        |
 | Hollow Requiem       | Weapon: 5-8 Lament (White Resonance)         |
 +---------------------------------------------------------------------+
@@ -2425,7 +2425,7 @@ AUTHORIZATION CONFIRMED: **Choice Beta: SE-C-IIIγ-145 (*Garden of Thorns*)**.
 | | Range Band 1 | 2 AP | Inflicts +20% Postur                        |
 | Judicial Feather Robe | Suit: Medium Armor (Speed Delta 0)          |
 | | Resist: 0.7 Grudge / 0.8 Lament / 0.7 Weig                        |
-| Scale Crown Gift | Head Slot: +6 SP, +5% Parry Counter Power        |
+| Scale Crown Stigma | Head Slot: +6 SP, +5% Parry Counter Power      |
 +---------------------------------------------------------------------+
 | EQUIPMENT ALLOCATION | BESTOWED UPON TAK (ANCHOR SPECIALIST)        |
 +=====================================================================+
@@ -2799,7 +2799,7 @@ Total daily harvest reaches **0.108 / 0.100 tons**! Quota surpassed!
 | | Resist: 0.6 Grudge / 1.0 Lament / 0.5 Weig                        |
 | Chitin Great-Maul | Weapon: 7-11 Weight (Heavy / Speed Delta -1)    |
 | | Range Band 1 | 2 AP | Inflicts Tremor Stag                        |
-| Carapace Crest Gift | Head Slot: +8 HP, +10 Max Posture Meter       |
+| Carapace Crest Stigma | Head Slot: +8 HP, +10 Max Posture Meter     |
 +---------------------------------------------------------------------+
 | EQUIPMENT ALLOCATION | BESTOWED UPON KANG (BREACH SPECIALIST)       |
 +=====================================================================+

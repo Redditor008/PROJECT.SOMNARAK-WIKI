@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Rusted Charm
+# M.A.W. STIGMA — The Rusted Charm
 
 > *“The Rusted Charm remembers Corrosion Dream; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Rusted Charm is the gift record of the Corrosion Dream set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability grants a minor boon tied to Corrosion Dream's sorrow, the effect mirroring the entity's nature: a crossing attempted, never guaranteed. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is small and linguistic: the bearer occasionally forgets a word, sentences losing planks mid-span. The source-trace fixed doctrine: the Charm reveals the failed crossing and those left behind, the dream shown with its casualties, and it witnesses the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Rusted Charm is the stigma record of the Corrosion Dream set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability grants a minor boon tied to Corrosion Dream's sorrow, the effect mirroring the entity's nature: a crossing attempted, never guaranteed. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is small and linguistic: the bearer occasionally forgets a word, sentences losing planks mid-span. The source-trace fixed doctrine: the Charm reveals the failed crossing and those left behind, the dream shown with its casualties, and it witnesses the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Rusted Charm is the gift record of the Corrosion Dream set — head-slot, be
 
 **Operational / binding cost:** The bearer occasionally forgets a word. Continued use makes Corrosion Dream's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Corrosion Dream Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Corrosion Dream Source-Trace: Stigma Record*
 
-The first The Rusted Charm field bearer encountered this source response: Reveals the failed crossing and those left behind. The gift witnesses the immediate hazard only after the team attributed it to Corrosion Dream. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Rusted Charm field bearer encountered this source response: Reveals the failed crossing and those left behind. The stigma witnesses the immediate hazard only after the team attributed it to Corrosion Dream. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Rusted Charm field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Corrosion Dream — Witnessed Form*, The Rusted Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Corrosion Dream — Witnessed Form*, The Rusted Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

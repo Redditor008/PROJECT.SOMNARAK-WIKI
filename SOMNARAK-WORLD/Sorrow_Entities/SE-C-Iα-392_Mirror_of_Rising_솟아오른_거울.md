@@ -166,7 +166,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — Mirror of Rising Hammer
 
@@ -207,9 +207,9 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Cost:** The wearer carries a constant low fatigue.
 
-### M.A.W. Gift — Mirror of Rising Charm
+### M.A.W. Stigma — Mirror of Rising Charm
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
 **Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
@@ -221,11 +221,11 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Cost:** The bearer moves a little slower.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and the entity's sorrow within the equipment may activate. and may produce an effect tied to the entity's element. The Gift is the entity's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and the entity's sorrow within the equipment may activate. and may produce an effect tied to the entity's element. The Stigma is the entity's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

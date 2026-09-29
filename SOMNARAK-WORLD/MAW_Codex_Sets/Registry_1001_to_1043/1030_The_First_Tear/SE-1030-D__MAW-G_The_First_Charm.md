@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The First Charm
+# M.A.W. STIGMA — The First Charm
 
 > *“The First Charm remembers The First Tear; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The bearer weeps in their sleep. Continued use makes The First Tear's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Stigma Record*
 
-The first The First Charm field bearer encountered this source response: Shows the shape of sorrow before language. The gift uncouples the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The First Charm field bearer encountered this source response: Shows the shape of sorrow before language. The stigma uncouples the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The First Charm field bearer encountered this source response: Shows t
 
 ## SET RELATIONSHIP
 
-Within *The First Tear — Witnessed Form*, The First Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The First Tear — Witnessed Form*, The First Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

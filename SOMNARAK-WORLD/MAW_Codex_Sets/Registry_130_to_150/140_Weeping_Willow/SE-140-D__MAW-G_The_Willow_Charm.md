@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Willow Charm
+# M.A.W. STIGMA — The Willow Charm
 
 > *“It gives an ending a small ritual. It does not erase the nights the bearer will still weep.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Willow Charm |
 | Set | Gentle Endings |
-| Type / grade / element | Gift, tear-leaf charm / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, tear-leaf charm / γ — Major / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; closing ritual must be voluntary |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 4% after successful Weeping Willow work |
 | Bestowal event | A leaf echo became a Charm after Park named a blameless ending and allowed the Willow’s branch to keep the original leaf. |
 | Acceptance condition | The candidate names the ending and a witness who accepts that grief may continue afterward. |
-| Source intent | Gift bestowal; a ritual is not a command to move on. |
+| Source intent | Stigma bestowal; a ritual is not a command to move on. |
 
 **Binding requirement:** The bearer must not use the Charm to force closure on another person’s loss.
 
@@ -43,7 +43,7 @@
 
 The Willow Charm is a small blue crystal leaf with a fine tear line through its centre, small enough to hang from a cord or rest in the palm. In rest it hangs still and translucent, and when the bearer and the affected person agree that one specific task, phase, or farewell has ended, the leaf swings slowly and creates a quiet marker around the completed thing. The marker stays soft and does not cast a shadow, and it gives a short calm interval for a final statement, a return of tools, a shared silence, or a deliberate goodbye. It remains still if the bearer tries to end something another person has not agreed is over. The charm carries no Echo cost and allows one voluntary closing ritual at a time. It rests beside a written closeout and one concrete continuation step, and it is never tied to an object taken from the Willow. If used to make someone get over a loss, it goes dark and the bearer dreams every goodbye avoided.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -82,7 +82,7 @@ Park used *Mark the Close* when a community garden bed had to be cleared after i
 
 ## SET RELATIONSHIP
 
-The Charm completes *Closing Branch*. Requiem carries Lament through action and Cloak protects private grief; this Gift gives a small ending room without confusing ritual with erasure.
+The Charm completes *Closing Branch*. Requiem carries Lament through action and Cloak protects private grief; this Stigma gives a small ending room without confusing ritual with erasure.
 
 > *“The ending was real. So was what came after it.”* — Specialist Kkotlom Lee
 

@@ -61,7 +61,7 @@ One Plate was worn by Handler Soojin during an early Mother containment failure.
 
 ## SET RESONANCE
 
-With the Fang and Gift, Closed Circle expands to one full team cluster. The wearer must remain with that cluster; movement away from it disables the effect and leaves the wearer temporarily immobilized.
+With the Fang and Stigma, Closed Circle expands to one full team cluster. The wearer must remain with that cluster; movement away from it disables the effect and leaves the wearer temporarily immobilized.
 
 ---
 

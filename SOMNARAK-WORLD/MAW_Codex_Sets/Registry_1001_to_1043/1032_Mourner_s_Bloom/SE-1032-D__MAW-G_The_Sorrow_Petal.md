@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Sorrow Petal
+# M.A.W. STIGMA — The Sorrow Petal
 
 > *“The Sorrow Petal remembers Mourner's Bloom; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer cannot hide sadness. Continued use makes Mourner's Bloom's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Mourner s Bloom Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Mourner s Bloom Source-Trace: Stigma Record*
 
-The first The Sorrow Petal field bearer encountered this source response: Reveals the emotion in each petal. The gift marks the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Sorrow Petal field bearer encountered this source response: Reveals the emotion in each petal. The stigma marks the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Sorrow Petal field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Mourner's Bloom — Witnessed Form*, The Sorrow Petal performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Mourner's Bloom — Witnessed Form*, The Sorrow Petal performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

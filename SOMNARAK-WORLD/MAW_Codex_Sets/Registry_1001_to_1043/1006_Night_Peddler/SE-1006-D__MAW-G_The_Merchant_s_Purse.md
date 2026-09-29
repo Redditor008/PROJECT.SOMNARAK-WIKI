@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Merchant's Purse
+# M.A.W. STIGMA — The Merchant's Purse
 
 > *“The Merchant's Purse remembers Night Peddler; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** Takes a coin, button, or minor memory as payment. Continued use makes Night Peddler's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Stigma Record*
 
-The first The Merchant's Purse field bearer encountered this source response: Goods reveal hidden histories and former owners. The gift uncouples the immediate hazard only after the team attributed it to Night Peddler. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Merchant's Purse field bearer encountered this source response: Goods reveal hidden histories and former owners. The stigma uncouples the immediate hazard only after the team attributed it to Night Peddler. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Merchant's Purse field bearer encountered this source response: Go
 
 ## SET RELATIONSHIP
 
-Within *Night Peddler — Witnessed Form*, The Merchant's Purse performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Night Peddler — Witnessed Form*, The Merchant's Purse performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

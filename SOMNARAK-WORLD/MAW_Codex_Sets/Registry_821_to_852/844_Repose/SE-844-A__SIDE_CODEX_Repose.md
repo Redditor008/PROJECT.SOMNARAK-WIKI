@@ -52,7 +52,7 @@ During the The Repose Source-Trace, the field team preserved this source fact: A
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Repose's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not wake it; reduce noise and acknowledge the dead The set cannot heal the originating event. Misuse routes Repose's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Repose's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not wake it; reduce noise and acknowledge the dead The set cannot heal the originating event. Misuse routes Repose's wound through the operator and triggers the recorded escalation.
 
 ---
 

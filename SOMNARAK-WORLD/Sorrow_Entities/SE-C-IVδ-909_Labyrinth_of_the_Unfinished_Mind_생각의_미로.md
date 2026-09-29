@@ -186,16 +186,16 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
-### M.A.W. Gift — Labyrinth of the Unfinished Mind's Token
+### M.A.W. Stigma — Labyrinth of the Unfinished Mind's Token
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
 **Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

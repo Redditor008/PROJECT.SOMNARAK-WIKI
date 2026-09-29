@@ -52,7 +52,7 @@ During the The Dreaming Ruin Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Dreaming Ruin's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Wake with an anchor and preserve the memory without rebuilding it The set cannot heal the originating event. Misuse routes Dreaming Ruin's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dreaming Ruin's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Wake with an anchor and preserve the memory without rebuilding it The set cannot heal the originating event. Misuse routes Dreaming Ruin's wound through the operator and triggers the recorded escalation.
 
 ---
 

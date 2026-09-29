@@ -52,7 +52,7 @@ During the The Debt Collector s Lantern Source-Trace, the field team preserved t
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Debt-Collector's-Lantern's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Debt-Collector's-Lantern's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Debt-Collector's-Lantern's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Debt-Collector's-Lantern's wound through the operator and triggers the recorded escalation.
 
 ---
 

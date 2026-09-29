@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Balance Pendant
+# M.A.W. STIGMA — The Balance Pendant
 
 > *“It hangs lightly until someone near the bearer is carrying more than words can admit.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) — pendant |
+| **Type** | Accessory (Stigma) — pendant |
 | **Grade** | β — Moderate |
 | **Element** | Void — Pale White |
 | **Slot** | Head |
@@ -31,7 +31,7 @@ The Balance Pendant is a pale charm shaped like a miniature balance beam, its cr
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
 **Passive Effect:** Shows the bearer the felt weight of another person’s obligation without showing the full details.
 

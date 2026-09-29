@@ -65,7 +65,7 @@ An echo forms after the source steadies during Flerehan and the worker identifie
 |---|---|---:|---|---|
 | Weapon | Feu Follet Requiem | β | Separates dangerous remembered comfort from a current anchor. | `SE-301-B__MAW-W_Feu_Follet_Requiem.md` |
 | Suit | Feu Follet Shroud | β | Protects the Mind while warmth changes or disappears. | `SE-301-C__MAW-S_Feu_Follet_Shroud.md` |
-| Gift | Feu Follet Ember | β | Provides brief emotional warmth at the cost of a fading memory. | `SE-301-D__MAW-G_Feu_Follet_Ember.md` |
+| Stigma | Feu Follet Ember | β | Provides brief emotional warmth at the cost of a fading memory. | `SE-301-D__MAW-G_Feu_Follet_Ember.md` |
 
 **Set cost:** The wielder weeps, the wearer loses minor joy, and each Ember use takes a small memory as its warmth fades.
 
@@ -75,7 +75,7 @@ An echo forms after the source steadies during Flerehan and the worker identifie
 
 - **Feu Follet Requiem:** Lament 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. Prolonged use causes involuntary weeping.
 - **Feu Follet Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 4; 20 Echoes. It resists Lament while numbing minor joys.
-- **Feu Follet Ember:** Tail Gift; 5%; +1 Clarity during source work. It gives brief warmth; every use fades the warmth and removes a small memory.
+- **Feu Follet Ember:** Tail Stigma; 5%; +1 Clarity during source work. It gives brief warmth; every use fades the warmth and removes a small memory.
 
 ---
 

@@ -52,7 +52,7 @@ During the The Willing Chains Source-Trace, the field team preserved this source
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Willing Chains's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not cut blindly; identify what each chain represents The set cannot heal the originating event. Misuse routes Willing Chains's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Willing Chains's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not cut blindly; identify what each chain represents The set cannot heal the originating event. Misuse routes Willing Chains's wound through the operator and triggers the recorded escalation.
 
 ---
 

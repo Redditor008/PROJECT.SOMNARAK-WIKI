@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Iron Charm
+# M.A.W. STIGMA — The Iron Charm
 
 > *“The Iron Charm remembers Gavel; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The bearer's temper shortens. Continued use makes Gavel's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Stigma Record*
 
-The first The Iron Charm field bearer encountered this source response: Shows the evidence used in its judgment. The gift isolates the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Iron Charm field bearer encountered this source response: Shows the evidence used in its judgment. The stigma isolates the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Iron Charm field bearer encountered this source response: Shows th
 
 ## SET RELATIONSHIP
 
-Within *Gavel — Witnessed Form*, The Iron Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Gavel — Witnessed Form*, The Iron Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

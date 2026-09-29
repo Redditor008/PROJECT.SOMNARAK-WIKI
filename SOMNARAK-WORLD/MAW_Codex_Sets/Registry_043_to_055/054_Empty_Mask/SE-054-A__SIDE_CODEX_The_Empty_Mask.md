@@ -58,7 +58,7 @@ No one may touch the Mask without two witnesses who each know the wearer’s ful
 |---|---|---|---|---|---|
 | Weapon | The Void Maul | β | Weight | Breaks identity-fed pressure through direct Weight impact | `SE-054-B__MAW-W_The_Void_Maul.md` |
 | Suit | The Void Mantle | β | Weight | Carries emptiness as controlled burden | `SE-054-C__MAW-S_The_Void_Mantle.md` |
-| Gift | The Void Mask | β | Weight | Creates temporary unrecognizability at identity cost | `SE-054-D__MAW-G_The_Void_Mask.md` |
+| Stigma | The Void Mask | β | Weight | Creates temporary unrecognizability at identity cost | `SE-054-D__MAW-G_The_Void_Mask.md` |
 
 ### Set Resonance — Name Returned
 

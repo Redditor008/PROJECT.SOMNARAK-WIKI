@@ -58,7 +58,7 @@ Sit within two meters, remain for seven minutes, and share silence without requi
 |---|---|---|---|---|---|
 | **Weapon** | The Silence Lens | α | Void | Minor Void strike that interrupts coercive speech | `SE-025-B__MAW-W_The_Silence_Lens.md` |
 | **Suit** | The Silence Veil | α | Void | Gives limited protection against identity erosion | `SE-025-C__MAW-S_The_Silence_Veil.md` |
-| **Gift** | The Silence Ring | α | Void | Creates a controlled quiet field for one bearer | `SE-025-D__MAW-G_The_Silence_Ring.md` |
+| **Stigma** | The Silence Ring | α | Void | Creates a controlled quiet field for one bearer | `SE-025-D__MAW-G_The_Silence_Ring.md` |
 
 ### Set Resonance — Remain
 

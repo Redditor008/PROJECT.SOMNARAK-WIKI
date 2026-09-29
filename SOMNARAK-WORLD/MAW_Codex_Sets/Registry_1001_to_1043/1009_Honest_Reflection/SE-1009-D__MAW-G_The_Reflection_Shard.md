@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Reflection Shard
+# M.A.W. STIGMA — The Reflection Shard
 
 > *“The Reflection Shard remembers Honest Reflection; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer sees the hidden pain of everyone they observe. Continued use makes Honest Reflection's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Honest Reflection Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Honest Reflection Source-Trace: Stigma Record*
 
-The first The Reflection Shard field bearer encountered this source response: Reveals patterns in the viewer's history. The gift opens the immediate hazard only after the team attributed it to Honest Reflection. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Reflection Shard field bearer encountered this source response: Reveals patterns in the viewer's history. The stigma opens the immediate hazard only after the team attributed it to Honest Reflection. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Reflection Shard field bearer encountered this source response: Re
 
 ## SET RELATIONSHIP
 
-Within *Honest Reflection — Witnessed Form*, The Reflection Shard performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Honest Reflection — Witnessed Form*, The Reflection Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

@@ -52,7 +52,7 @@ During the The The Sorrow Seed Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.
 
 ---
 

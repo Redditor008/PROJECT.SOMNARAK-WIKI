@@ -52,7 +52,7 @@ During the The Homecoming Tree Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Homecoming Tree's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Mark the place as changed; do not attempt to restore a false past The set cannot heal the originating event. Misuse routes Homecoming Tree's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Homecoming Tree's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Mark the place as changed; do not attempt to restore a false past The set cannot heal the originating event. Misuse routes Homecoming Tree's wound through the operator and triggers the recorded escalation.
 
 ---
 

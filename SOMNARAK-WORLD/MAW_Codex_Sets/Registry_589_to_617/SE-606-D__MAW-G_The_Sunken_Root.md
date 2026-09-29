@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Sunken Root
+# M.A.W. STIGMA — The Sunken Root
 
 > *“It sees the grief beneath a public face and removes the bearer’s ability to pretend they saw nothing.”*
 
@@ -29,7 +29,7 @@ A deep-blue crystal root curls around the Tail slot, carrying more weight than i
 
 ## Appearance
 
-The Sunken Root is a root of deep-blue crystal curled around the tail slot, carrying more weight than its measured mass — and it glows only in reflections, invisible to the direct look, like everything else this set touches. Banyan bestows it after successful work; it cannot be manufactured. Its function is Subface Roots: it reveals the emotional roots beneath a public identity as reflected branch patterns — showing pressure and relationship, never the content of the grief. Interpretation requires consent; resemblance is not diagnosis. The hidden condition is the interpreter’s trap: if the bearer announces what a pattern “must mean,” the Root adopts the claim and forces the subject’s expression to match it — and the resulting false confession feeds Banyan more efficiently than silence ever did. In its recorded case the Gift showed three branches beneath a performer’s smile, and an auditor labeled them bereavement, debt, and betrayal on the stage display; only the first was true, and the imposed labels made the performer enact all three until her mask split. The captions were removed, she was asked what she wished to name, and two roots faded uninterpreted. It has since been barred from unsupervised interviews, auditions, and debt hearings.
+The Sunken Root is a root of deep-blue crystal curled around the tail slot, carrying more weight than its measured mass — and it glows only in reflections, invisible to the direct look, like everything else this set touches. Banyan bestows it after successful work; it cannot be manufactured. Its function is Subface Roots: it reveals the emotional roots beneath a public identity as reflected branch patterns — showing pressure and relationship, never the content of the grief. Interpretation requires consent; resemblance is not diagnosis. The hidden condition is the interpreter’s trap: if the bearer announces what a pattern “must mean,” the Root adopts the claim and forces the subject’s expression to match it — and the resulting false confession feeds Banyan more efficiently than silence ever did. In its recorded case the Stigma showed three branches beneath a performer’s smile, and an auditor labeled them bereavement, debt, and betrayal on the stage display; only the first was true, and the imposed labels made the performer enact all three until her mask split. The captions were removed, she was asked what she wished to name, and two roots faded uninterpreted. It has since been barred from unsupervised interviews, auditions, and debt hearings.
 
 ## EFFECT & HIDDEN CONDITION
 
@@ -39,9 +39,9 @@ If the bearer announces what the pattern “must mean,” the Root adopts the cl
 
 ## ITEM HISTORY — THE SMILE WITH THREE ROOTS
 
-At the Bright-Mask Gala, the Gift showed three branches beneath a performer’s smile. An auditor labeled them bereavement, debt, and betrayal on the stage display. Only the first was true; the imposed labels made the performer enact all three until her mask split. Euncris removed the captions, asked what she wished to name, and left two roots uninterpreted. Their glow faded without disclosure.
+At the Bright-Mask Gala, the Stigma showed three branches beneath a performer’s smile. An auditor labeled them bereavement, debt, and betrayal on the stage display. Only the first was true; the imposed labels made the performer enact all three until her mask split. Euncris removed the captions, asked what she wished to name, and left two roots uninterpreted. Their glow faded without disclosure.
 
-The Gift has since been barred from unsupervised interviews, auditions, and debt hearings.
+The Stigma has since been barred from unsupervised interviews, auditions, and debt hearings.
 
 ## FAILURE, CORROSION & CARE
 
@@ -54,7 +54,7 @@ The Gift has since been barred from unsupervised interviews, auditions, and debt
 
 ## SET RELATIONSHIP
 
-The Gift locates buried pressure, Shroud grants a private place of expression, and Requiem cuts the structure enforcing concealment. The set never grants ownership of another person’s sorrow.
+The Stigma locates buried pressure, Shroud grants a private place of expression, and Requiem cuts the structure enforcing concealment. The set never grants ownership of another person’s sorrow.
 
 > *“A root is evidence that something grows below. It is not permission to name the tree.”* — Researcher Euncris Park
 

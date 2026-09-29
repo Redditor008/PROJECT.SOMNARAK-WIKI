@@ -52,7 +52,7 @@ During the The The Sorrow Tide Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies The Sorrow Tide's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Impossible; use Tide shelters and shared mourning protocols The set cannot heal the originating event. Misuse routes The Sorrow Tide's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Sorrow Tide's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Impossible; use Tide shelters and shared mourning protocols The set cannot heal the originating event. Misuse routes The Sorrow Tide's wound through the operator and triggers the recorded escalation.
 
 ---
 

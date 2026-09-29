@@ -220,9 +220,9 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 
 **Cost:** The wearer feels the weight of 3,000 names. Actions that involve hope or healing cause physical pain while wearing the vestments.
 
-### M.A.W. Gift — The Mourner's Tear
+### M.A.W. Stigma — The Mourner's Tear
 
-**Type:** Accessory (Gift) | **Grade:** ω | **Element:** Mixed
+**Type:** Accessory (Stigma) | **Grade:** ω | **Element:** Mixed
 
 **Appearance:** A single crystallized tear, violet-black, suspended on a thin chain. It is warm to the touch.
 
@@ -234,7 +234,7 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 
 **Cost:** The sorrow returns after 24 hours, slightly heavier than before.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 ## 관찰 기록 (Observation Log)
 
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.

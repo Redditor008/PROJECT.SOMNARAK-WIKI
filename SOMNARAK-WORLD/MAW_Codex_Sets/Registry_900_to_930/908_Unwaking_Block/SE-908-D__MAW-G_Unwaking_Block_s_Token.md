@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Unwaking Block's Token
+# M.A.W. STIGMA — Unwaking Block's Token
 
 > *“Unwaking Block's Token remembers Unwaking Block; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Unwaking Block's Token is the gift record of the Unwaking Block set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's dream sorrow, crystallized into wearable form, one window's worth of the district's sleep carried into waking rooms. Binding names Unwaking Block's event — Not recorded, the dream continuing without its dreamer on file — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives at night: the bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present, a lodger from the sleeping street. The source- trace fixed doctrine: the place permits study, its dream pressure becoming legible under sustained observation, and the Token redirects the hazard only after attribution to Unwaking Block. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Unwaking Block's Token is the stigma record of the Unwaking Block set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's dream sorrow, crystallized into wearable form, one window's worth of the district's sleep carried into waking rooms. Binding names Unwaking Block's event — Not recorded, the dream continuing without its dreamer on file — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives at night: the bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present, a lodger from the sleeping street. The source- trace fixed doctrine: the place permits study, its dream pressure becoming legible under sustained observation, and the Token redirects the hazard only after attribution to Unwaking Block. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ Unwaking Block's Token is the gift record of the Unwaking Block set — head-slo
 
 **Operational / binding cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present. Continued use makes Unwaking Block's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Stigma Record*
 
-The first Unwaking Block's Token field bearer encountered this source response: Permits study; the dream pressure becomes legible under sustained observation. The gift redirects the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unwaking Block's Token field bearer encountered this source response: Permits study; the dream pressure becomes legible under sustained observation. The stigma redirects the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Unwaking Block's Token field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Unwaking Block — Witnessed Form*, Unwaking Block's Token performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unwaking Block — Witnessed Form*, Unwaking Block's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

@@ -33,7 +33,7 @@
 | 02 | `02_MAW_SIDE_CODEX_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-A__SIDE_CODEX_*.md` |
 | 03 | `03_MAW_WEAPON_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-B__MAW-W_*.md` |
 | 04 | `04_MAW_SUIT_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-C__MAW-S_*.md` |
-| 05 | `05_MAW_GIFT_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-D__MAW-G_*.md` |
+| 05 | `05_MAW_STIGMA_TEMPLATE.md` | `SOMNARAK-WORLD/MAW_Codex_Sets/.../SE-*-D__MAW-G_*.md` |
 | 06 | `06_ORDEAL_TEMPLATE.md` | `SOMNARAK-WORLD/Ordeals/Ordeal_*.md` |
 | 07 | `07_HOPE_TRANSFORMATION_TEMPLATE.md` | `SOMNARAK-WORLD/Hope_Transformations/HT-*.md` |
 | 08 | `08_UNKNOWN_ENTITY_TEMPLATE.md` | `SOMNARAK-WORLD/Unknown_Entities/SE-*.md` |

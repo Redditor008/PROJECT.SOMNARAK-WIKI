@@ -52,7 +52,7 @@ During the The Labyrinth of Stolen Faces Source-Trace, the field team preserved 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Labyrinth of Stolen Faces's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Maintain a memory anchor and limit exploration time The set cannot heal the originating event. Misuse routes Labyrinth of Stolen Faces's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Labyrinth of Stolen Faces's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Maintain a memory anchor and limit exploration time The set cannot heal the originating event. Misuse routes Labyrinth of Stolen Faces's wound through the operator and triggers the recorded escalation.
 
 ---
 

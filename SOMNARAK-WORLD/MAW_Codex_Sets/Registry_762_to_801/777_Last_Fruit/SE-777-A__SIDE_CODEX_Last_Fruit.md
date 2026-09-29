@@ -52,7 +52,7 @@ During the The Last Fruit Source-Trace, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Last Fruit's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Name the desire; do not promise to fulfill it The set cannot heal the originating event. Misuse routes Last Fruit's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Last Fruit's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Name the desire; do not promise to fulfill it The set cannot heal the originating event. Misuse routes Last Fruit's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -105,6 +105,6 @@ A shift terminates in immediate Catastrophic Collapse (Game Over) if:
 ## 9 See also
 
 - [12-Specialists](12-Specialists.md) — specialist stats, attributes, and panic mechanics
-- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — weapons, suits, and gifts armory
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — weapons, suits, and stigmas armory
 - [17-Pressure Types](17-Pressure%20Types.md) — elemental damage and defense physics
 - [16-Daily Cycle](16-Daily%20Cycle.md) — shift structure and checkpoint repository

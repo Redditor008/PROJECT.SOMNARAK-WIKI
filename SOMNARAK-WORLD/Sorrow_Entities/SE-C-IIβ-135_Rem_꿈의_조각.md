@@ -204,7 +204,7 @@ The escalation pattern is specific to Rem: it is not a generic breach event. Per
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Levitating Oneiric Prisms
 
@@ -250,7 +250,7 @@ The sheer fabric drifts as if floating submerged in liquid, blurring the wearer�
 
 **Cost:** The wearer experiences occasional microsleep episodes while resting.
 
-### M.A.W. Gift — The Floating Dream Catcher Orb
+### M.A.W. Stigma — The Floating Dream Catcher Orb
 
 **Category:** Stigma (Shoulder / Neck Levitating Amethyst Orb)
 **Grade:** β | **Element:** Lament
@@ -267,11 +267,11 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 **Cost:** The floating orb casts faint violet reflections in mirrors even in total darkness.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Gifts are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

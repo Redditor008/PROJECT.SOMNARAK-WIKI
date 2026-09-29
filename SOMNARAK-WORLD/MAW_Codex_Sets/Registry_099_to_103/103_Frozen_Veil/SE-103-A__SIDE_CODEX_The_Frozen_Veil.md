@@ -87,7 +87,7 @@ The set offers powerful resistance to manipulation and Void pressure. Its price 
 |---|---|---:|---|---|---|
 | Weapon | The Cold Lens | δ | Void | Piercing interruption of invasive emotional control | `SE-103-B__MAW-W_The_Cold_Lens.md` |
 | Suit | The Cold Veil | δ | Void | High Void resistance with identity-anchor safeguards | `SE-103-C__MAW-S_The_Cold_Veil.md` |
-| Gift | The Cold Heart | δ | Void | Temporary immunity to emotional manipulation at the cost of feeling | `SE-103-D__MAW-G_The_Cold_Heart.md` |
+| Stigma | The Cold Heart | δ | Void | Temporary immunity to emotional manipulation at the cost of feeling | `SE-103-D__MAW-G_The_Cold_Heart.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set offers powerful resistance to manipulation and Void pressure. Its price 
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Cold Heart
+### M.A.W. Stigma — The Cold Heart
 
 | Field | Record |
 |---|---|

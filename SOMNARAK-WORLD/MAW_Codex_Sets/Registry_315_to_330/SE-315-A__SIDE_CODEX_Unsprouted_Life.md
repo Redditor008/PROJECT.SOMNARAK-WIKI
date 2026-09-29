@@ -65,7 +65,7 @@ A stable echo forms only from tears that leave the shell and are collected after
 |---|---|---:|---|---|
 | Weapon | Unsprouted Life Requiem | δ | Severs partial growth from a host without striking the source shell. | `SE-315-B__MAW-W_Unsprouted_Life_Requiem.md` |
 | Suit | Unsprouted Life Shroud | δ | Protects identity and Mind during unknown partial manifestation. | `SE-315-C__MAW-S_Unsprouted_Life_Shroud.md` |
-| Gift | Unsprouted Life Core | δ | Generates bounded protective growth using the bearer’s future memories. | `SE-315-D__MAW-G_Unsprouted_Life_Core.md` |
+| Stigma | Unsprouted Life Core | δ | Generates bounded protective growth using the bearer’s future memories. | `SE-315-D__MAW-G_Unsprouted_Life_Core.md` |
 
 **Set cost:** The wielder weeps, the wearer loses minor joy, and protective growth consumes memories of possible futures.
 
@@ -75,7 +75,7 @@ A stable echo forms only from tears that leave the shell and are collected after
 
 - **Life Requiem:** Lament 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping.
 - **Life Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 2; 45 Echoes. It resists Lament while numbing minor joys.
-- **Life Core:** Tail Gift; 4%; +3 Clarity during source work. It creates protective growth by consuming future-possibility memories.
+- **Life Core:** Tail Stigma; 4%; +3 Clarity during source work. It creates protective growth by consuming future-possibility memories.
 
 ---
 

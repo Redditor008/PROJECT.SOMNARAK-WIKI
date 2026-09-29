@@ -52,7 +52,7 @@ During the The Weight of All Owed Source-Trace, the field team preserved this so
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.
 
 ---
 

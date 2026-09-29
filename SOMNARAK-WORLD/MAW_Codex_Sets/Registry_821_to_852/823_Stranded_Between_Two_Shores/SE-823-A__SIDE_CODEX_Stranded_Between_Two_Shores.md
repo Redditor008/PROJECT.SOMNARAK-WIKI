@@ -52,7 +52,7 @@ During the The Stranded Between Two Shores Source-Trace, the field team preserve
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Stranded Between Two Shores's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Listen between the sobs and name both shores The set cannot heal the originating event. Misuse routes Stranded Between Two Shores's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Stranded Between Two Shores's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Listen between the sobs and name both shores The set cannot heal the originating event. Misuse routes Stranded Between Two Shores's wound through the operator and triggers the recorded escalation.
 
 ---
 

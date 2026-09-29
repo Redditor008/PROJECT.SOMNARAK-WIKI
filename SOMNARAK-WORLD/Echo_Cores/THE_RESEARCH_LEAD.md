@@ -1322,7 +1322,7 @@ The shared framework records:
 - no personal M.A.W. status;
 - no Corrosion risk.
 
-No weapon, Gift, armor, or entity bond should be assigned without new canon.
+No weapon, Stigma, armor, or entity bond should be assigned without new canon.
 
 ### Emotion Scope
 

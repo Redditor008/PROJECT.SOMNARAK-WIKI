@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Founder’s Tear
+# M.A.W. STIGMA — The Founder’s Tear
 
 ---
 
@@ -17,7 +17,7 @@ A deep-blue Neck tear granted at **4%** after successful work. **Grade γ; +2 Co
 | Field | Exact source record |
 |---|---|
 | Official name | The Founder's Tear |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | γ |
 | Element | Lament |
 | Appearance | A pendant holding a single tear of pale blue crystal that never evaporates. |
@@ -28,7 +28,7 @@ A deep-blue Neck tear granted at **4%** after successful work. **Grade γ; +2 Co
 | Canonical ability | Lets the wearer bear one other person's oldest grief alongside them, halving its weight for both. |
 | Bearer cost | The wearer feels the weight of every grief they witness for a day after removal. |
 
-**Incident — Changwook’s Shared Morning:** Changwook accepted a worker’s oldest loss for one dawn. Neither grief vanished, but both could eat, speak, and rest. Keeping the Gift past the agreed dawn made every nearby sorrow enter him.
+**Incident — Changwook’s Shared Morning:** Changwook accepted a worker’s oldest loss for one dawn. Neither grief vanished, but both could eat, speak, and rest. Keeping the Stigma past the agreed dawn made every nearby sorrow enter him.
 
 **Corrosion:** borrowed grief loses attribution; the bearer volunteers as universal mourner; terminal state merges every witnessed loss.  
 **Maintenance:** one grief, one owner, one release time per ledger entry.  

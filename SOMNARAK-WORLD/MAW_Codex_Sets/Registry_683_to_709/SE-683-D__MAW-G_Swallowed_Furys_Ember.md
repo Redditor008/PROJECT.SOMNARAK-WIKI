@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Swallowed Fury’s Ember
+# M.A.W. STIGMA — Swallowed Fury’s Ember
 
 ---
 **Document ID:** `SE-683-D`  
@@ -13,7 +13,7 @@ A Tail ember granted randomly after successful work: **α Grudge; 5%; +1 Resilie
 
 ## Appearance
 
-Swallowed Fury’s Ember is a tail ember of crimson Han iron, granted randomly after successful work — a coal that does not consume, holding heat where the suppressed feeling sits. It cannot be manufactured. Its function is conversion: it turns one suppressed emotion into brief strength — the swallowed feeling released as force instead of corrosion. The cost is the end of concealment: the bearer cannot hide grief, the Gift’s power purchased with permanent emotional visibility. In its recorded case a grieving worker used the burst to move a falling crucible, then tried to deny the tears powering it — the Ember reignited until he named both rescue and loss, the Gift refusing strength remembered without its source. Corrosion runs from every secret feeling becoming heat, through the failure of all social concealment, to a terminal state that turns the body into a public furnace — every private emotion broadcast as temperature. It is maintained by one discipline only: record the feeling before using the strength, the ledger kept ahead of the expenditure. Removal is strictly voluntary — the bearer expresses the grief and the Ember releases; forced removal burns the remover, the Gift defending the feeling it was converting.
+Swallowed Fury’s Ember is a tail ember of crimson Han iron, granted randomly after successful work — a coal that does not consume, holding heat where the suppressed feeling sits. It cannot be manufactured. Its function is conversion: it turns one suppressed emotion into brief strength — the swallowed feeling released as force instead of corrosion. The cost is the end of concealment: the bearer cannot hide grief, the Stigma’s power purchased with permanent emotional visibility. In its recorded case a grieving worker used the burst to move a falling crucible, then tried to deny the tears powering it — the Ember reignited until he named both rescue and loss, the Stigma refusing strength remembered without its source. Corrosion runs from every secret feeling becoming heat, through the failure of all social concealment, to a terminal state that turns the body into a public furnace — every private emotion broadcast as temperature. It is maintained by one discipline only: record the feeling before using the strength, the ledger kept ahead of the expenditure. Removal is strictly voluntary — the bearer expresses the grief and the Ember releases; forced removal burns the remover, the Stigma defending the feeling it was converting.
 
 **Incident — Lifted Crucible:** a grieving worker used the burst to move a falling crucible, then tried to deny the tears powering it. The Ember reignited until he named both rescue and loss.
 

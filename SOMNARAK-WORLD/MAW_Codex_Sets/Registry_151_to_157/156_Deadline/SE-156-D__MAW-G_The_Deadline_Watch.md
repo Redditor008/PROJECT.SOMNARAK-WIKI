@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Deadline Watch
+# M.A.W. STIGMA — The Deadline Watch
 
 > *“It shows when an obligation becomes due. It does not let the bearer sleep outside the sound of it.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Deadline Watch |
 | Set | Time to Act |
-| Type / grade / element | Gift, black watch-charm / β — Moderate / Weight — Black |
+| Type / grade / element | Stigma, black watch-charm / β — Moderate / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; support-plan use only |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 5% after successful Deadline work |
 | Bestowal event | A Watch appeared when a worker accepted a verified due date and wrote a support action instead of holding the Clock channel. |
 | Acceptance condition | The candidate names a verifier and commits to a sleep period outside the Watch’s active use. |
-| Source intent | Gift bestowal; it is not a collection clock or a device for pressuring another person. |
+| Source intent | Stigma bestowal; it is not a collection clock or a device for pressuring another person. |
 
 **Binding requirement:** The bearer must show every displayed obligation to the external verifier before taking action.
 
@@ -43,7 +43,7 @@
 
 The Deadline Watch is a small black watch-charm of Han iron with a cracked dial and hands that point at a named obligation rather than at time. It sits at the head slot and stays cool on the skin, and the dial carries one clear due mark beside a verified obligation with a faint line toward the planned support action. It shows no date until an external verifier is identified, and the cracked face is never repaired to make the read clearer. In active use the watch displays a timeframe rather than a moral verdict, and the bearer and verifier record an action before the due mark and a support or recovery step after it, making the next route clearer while reducing panic around the approaching time. It carries no Echo cost and shows one verified due mark at a time. It is stored face-down beside the verified plan rather than worn overnight. If the bearer hides the display, the tick is heard in every sleeping interval until the watch is removed and the obligation reviewed.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -82,7 +82,7 @@ Park used the Watch during a disputed payment notice. It revealed the stated dea
 
 ## SET RELATIONSHIP
 
-The Watch is the warning structure of *Time With Company*. Maul handles current Weight and Mantle protects the pause; this Gift makes a deadline visible without letting it become the whole horizon.
+The Watch is the warning structure of *Time With Company*. Maul handles current Weight and Mantle protects the pause; this Stigma makes a deadline visible without letting it become the whole horizon.
 
 > *“The Clock is useful only after someone remembers to ask what happens to the person when the date arrives.”* — Auditor Yuna
 

@@ -87,7 +87,7 @@ The set reveals approaching emotional danger and protects against Lament. It mus
 |---|---|---:|---|---|---|
 | Weapon | The Melted Requiem | δ | Lament | Piercing interruption of anticipatory grief surge | `SE-165-B__MAW-W_The_Melted_Requiem.md` |
 | Suit | The Melted Shroud | δ | Lament | Lament protection while holding uncertainty | `SE-165-C__MAW-S_The_Melted_Shroud.md` |
-| Gift | The Melted Halo | δ | Lament | Indicates approaching emotional danger without prediction certainty | `SE-165-D__MAW-G_The_Melted_Halo.md` |
+| Stigma | The Melted Halo | δ | Lament | Indicates approaching emotional danger without prediction certainty | `SE-165-D__MAW-G_The_Melted_Halo.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set reveals approaching emotional danger and protects against Lament. It mus
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Melted Halo
+### M.A.W. Stigma — The Melted Halo
 
 | Field | Record |
 |---|---|

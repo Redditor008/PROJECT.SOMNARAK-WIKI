@@ -34,7 +34,7 @@ The Watcher’s Veil is a pale Han-gossamer suit patterned with open eyes on the
 
 ## SET, FAILURE & CARE
 
-Gift reveals, Veil enters, Weapon acts. If the wearer stops to manage appearance instead of the danger, the outer eyes turn inward.
+Stigma reveals, Veil enters, Weapon acts. If the wearer stops to manage appearance instead of the danger, the outer eyes turn inward.
 
 - **Performance freeze:** acting for the watchers prevents real intervention.
 - **Consent drift:** wearer assumes all observed information is authorized for use.

@@ -87,7 +87,7 @@ The set supports controlled Dream contact and creative imagining. Its cost is th
 |---|---|---:|---|---|---|
 | Weapon | The Dream Requiem | γ | Lament | Piercing interruption of a desire-driven Dream loop | `SE-175-B__MAW-W_The_Dream_Requiem.md` |
 | Suit | The Dream Shroud | γ | Lament | Controlled Dream protection with waking anchor | `SE-175-C__MAW-S_The_Dream_Shroud.md` |
-| Gift | The Dream Thread | γ | Lament | Consent-bound entry into another person’s Dream | `SE-175-D__MAW-G_The_Dream_Thread.md` |
+| Stigma | The Dream Thread | γ | Lament | Consent-bound entry into another person’s Dream | `SE-175-D__MAW-G_The_Dream_Thread.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set supports controlled Dream contact and creative imagining. Its cost is th
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Dream Thread
+### M.A.W. Stigma — The Dream Thread
 
 | Field | Record |
 |---|---|

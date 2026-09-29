@@ -190,7 +190,7 @@ The escalation pattern is specific to A Letter Never Sent: it is not a generic b
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Archive Stiletto
@@ -229,9 +229,9 @@ The blade is bloodless-cold, leaving frost rimes along wound channels. When swun
 
 **Cost:** The wearer feels the relentless ticking of a station countdown clock in their chest.
 
-### M.A.W. Gift — The Blue Wax Stamp
+### M.A.W. Stigma — The Blue Wax Stamp
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
 **Appearance:** An indigo wax seal charm worn over the collar, emitting a soft blue luminescence.
 

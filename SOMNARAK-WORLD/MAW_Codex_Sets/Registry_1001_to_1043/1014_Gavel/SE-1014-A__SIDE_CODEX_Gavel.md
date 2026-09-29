@@ -52,7 +52,7 @@ During the The Gavel Source-Trace, the field team preserved this source fact: Co
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Gavel's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Present context and evidence; do not appeal with status or force The set cannot heal the originating event. Misuse routes Gavel's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Gavel's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Present context and evidence; do not appeal with status or force The set cannot heal the originating event. Misuse routes Gavel's wound through the operator and triggers the recorded escalation.
 
 ---
 

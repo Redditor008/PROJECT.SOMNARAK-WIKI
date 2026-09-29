@@ -34,7 +34,7 @@ The Watcher’s Lens is a short-handled disc of almost colorless Han-glass. One 
 
 ## SET, FAILURE & CARE
 
-Gift Lens provides the scene; Veil moves the responder; Weapon Lens acts. Panopticon opens more eyes when the weapon is raised for evidence collection alone.
+Stigma Lens provides the scene; Veil moves the responder; Weapon Lens acts. Panopticon opens more eyes when the weapon is raised for evidence collection alone.
 
 - **Subject substitution:** observed victim becomes the target instead of the danger.
 - **Report loop:** repeated aiming without action erases the wielder’s reason for caring.

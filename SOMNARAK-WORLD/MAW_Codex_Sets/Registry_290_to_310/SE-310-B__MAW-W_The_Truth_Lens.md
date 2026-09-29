@@ -34,7 +34,7 @@ The Truth Lens is a pale disc of Han glass showing one contradiction across a fr
 
 ## SET, FAILURE & CARE
 
-Gift detects, Veil contextualizes, Weapon acts only on harm.
+Stigma detects, Veil contextualizes, Weapon acts only on harm.
 
 - **Privacy strike:** withheld information becomes attack target.
 - **Total-truth claim:** one contradiction defines the whole person.

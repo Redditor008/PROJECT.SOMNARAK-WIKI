@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Memory Charm
+# M.A.W. STIGMA — The Memory Charm
 
 > *“One fact about yourself can be enough rope to leave another life.”*
 

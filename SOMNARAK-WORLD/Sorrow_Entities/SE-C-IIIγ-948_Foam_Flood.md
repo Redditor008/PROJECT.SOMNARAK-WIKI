@@ -209,7 +209,7 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Skyward Spear
 
@@ -243,9 +243,9 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 
 **Cost:** The wearer grows restless on the ground — pacing, climbing, choosing high rooms — unable to settle.
 
-### M.A.W. Gift — The Glowing Eye
+### M.A.W. Stigma — The Glowing Eye
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
 **Appearance:** A small cabochon of white stone that glows a soft, steady white, the size of a dragon's eye; it brightens when the bearer looks upward, and dims when they are fully grounded.
 **Slot:** Head
@@ -256,11 +256,11 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 
 **Cost:** The bearer dreams, nightly, of flying — and wakes, each morning, on the ground, and grieves a thing they cannot name.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — restraint in touching, endurance of longing, respect for the ground; forcing a piece toward reckless flight amplifies the cost and may trigger an echo of the source entity's grounded grief. The Gift is granted at random by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — restraint in touching, endurance of longing, respect for the ground; forcing a piece toward reckless flight amplifies the cost and may trigger an echo of the source entity's grounded grief. The Stigma is granted at random by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

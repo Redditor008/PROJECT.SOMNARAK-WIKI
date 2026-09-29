@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Final Hour
+# M.A.W. STIGMA — The Final Hour
 
 > *“It shows the instant before death. It does not promise the instant is fixed.”*
 
@@ -21,7 +21,7 @@ Every Last Goodbye bestowed it after a Flerehan worker witnessed a peaceful fina
 
 ## Appearance
 
-The Final Hour is a pale Han-glass hour-token worn at the head slot, with no hands and no numerals — an empty watch face for a measurement no ordinary clock makes. Near imminent death a thin white line circles the rim and stops at the instant immediately before the selected target’s ending. Every Last Goodbye bestowed it after a worker witnessed a peaceful final moment without asking the entity to change or deliver it, and the current token is unassigned, because every full stop also shows the bearer their own final moment. The image is not a guaranteed prophecy: intervention can alter the route, but the Gift does not explain which detail is causal — in its one supervised trial, a replaced vault latch un-made two deaths at once. The rim line appearing around healthy strangers without selection is the first corrosion sign; a bearer planning life around avoiding one image is the second, and treating the vision as certain narrows choices until it self-fulfills. Care records the image as sensory data, lists at least three unknowns, and makes one proportionate safety change without declaring the death prevented. Shattering the token projects every possible ending stored during the session.
+The Final Hour is a pale Han-glass hour-token worn at the head slot, with no hands and no numerals — an empty watch face for a measurement no ordinary clock makes. Near imminent death a thin white line circles the rim and stops at the instant immediately before the selected target’s ending. Every Last Goodbye bestowed it after a worker witnessed a peaceful final moment without asking the entity to change or deliver it, and the current token is unassigned, because every full stop also shows the bearer their own final moment. The image is not a guaranteed prophecy: intervention can alter the route, but the Stigma does not explain which detail is causal — in its one supervised trial, a replaced vault latch un-made two deaths at once. The rim line appearing around healthy strangers without selection is the first corrosion sign; a bearer planning life around avoiding one image is the second, and treating the vision as certain narrows choices until it self-fulfills. Care records the image as sensory data, lists at least three unknowns, and makes one proportionate safety change without declaring the death prevented. Shattering the token projects every possible ending stored during the session.
 
 ## FUNCTION & COST
 
@@ -30,7 +30,7 @@ The Final Hour is a pale Han-glass hour-token worn at the head slot, with no han
 **Effect:** shows the moment immediately before a selected target’s death  
 **Cost:** whenever the token stops, the bearer sees their own final moment
 
-The image is not a guaranteed prophecy. Intervention can alter the route, but the Gift does not explain which detail is causal. During a supervised trial, Sora saw a technician’s hand on a failing vault latch and her own face beneath falling glass. The team replaced the latch; neither death occurred during the test. The token now shows a different final image for both.
+The image is not a guaranteed prophecy. Intervention can alter the route, but the Stigma does not explain which detail is causal. During a supervised trial, Sora saw a technician’s hand on a failing vault latch and her own face beneath falling glass. The team replaced the latch; neither death occurred during the test. The token now shows a different final image for both.
 
 ## SET RELATIONSHIP
 

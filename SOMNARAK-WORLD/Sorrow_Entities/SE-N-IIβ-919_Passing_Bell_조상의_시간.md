@@ -203,9 +203,9 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Cost:** The wearer carries a constant low fatigue, as though Passing Bell's burden settles on their shoulders.
 
-### M.A.W. Gift — Passing Bell's Token
+### M.A.W. Stigma — Passing Bell's Token
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
 **Appearance:** a coin-token of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
@@ -217,7 +217,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

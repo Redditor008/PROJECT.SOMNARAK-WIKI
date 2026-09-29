@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Weeping Gargoyle Brooch
+# M.A.W. STIGMA — The Weeping Gargoyle Brooch
 
 > *“It has never held the Fountain. It holds only what the bearer has been willing to weep.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Weeping Gargoyle Brooch |
 | Set | Shared Current |
-| Type / grade / element | Gift, sealed blue vial / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, sealed blue vial / γ — Major / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; empty vials are inactive, not defective |
 | Known bearer | Specialist Haneulash Yoon |
@@ -33,13 +33,13 @@
 | Acquisition probability | 4% after a successful Sorrow Fountain work cycle |
 | Bestowal event | A worker remained at the basin through another mourner’s account without asking for details to be recorded. A vial surfaced on the stone after the group left. |
 | Acceptance condition | The bearer must add one genuine tear to it voluntarily; no other fill method succeeds. |
-| Source intent | Gift bestowal; it cannot be demanded from the Fountain or harvested from overflow. |
+| Source intent | Stigma bestowal; it cannot be demanded from the Fountain or harvested from overflow. |
 
 **Binding requirement:** The bearer names the person or group who may receive the released wave and accepts that they may refuse it.
 
 **Rejection rule:** A bearer who tries to fill the vial with another person’s tears finds the glass cloudy. The next attempted release returns their own unsaid grief to them at once.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -66,7 +66,7 @@ A filled Vial softly identifies nearby Lament pressure by warming against the be
 **Trigger:** The bearer opens the vial and the intended recipients consent to remain in range.  
 **Effect:** A low blue wave lets the group feel that their sorrow is being held with others for a brief recovery interval.  
 **Limit:** It cannot act on an unwilling person, erase mourning, or force reconciliation. One fill produces one release.  
-**Hidden condition:** A tear shed only to make the Gift work will not remain in the glass.
+**Hidden condition:** A tear shed only to make the Stigma work will not remain in the glass.
 
 ## HISTORY OF USE
 

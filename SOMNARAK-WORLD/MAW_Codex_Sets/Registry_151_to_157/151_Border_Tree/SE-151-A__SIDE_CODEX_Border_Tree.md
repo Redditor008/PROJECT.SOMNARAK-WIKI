@@ -87,7 +87,7 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 |---|---|---:|---|---|---|
 | Weapon | The Border Root | δ | Grudge | Creates a restricted barrier against hostile crossing | `SE-151-B__MAW-W_The_Border_Root.md` |
 | Suit | The Border Plate | δ | Grudge | Defends a negotiated boundary without erasing both sides | `SE-151-C__MAW-S_The_Border_Plate.md` |
-| Gift | The Border Charm | δ | Grudge | Reveals one fair passage or boundary harm | `SE-151-D__MAW-G_The_Border_Charm.md` |
+| Stigma | The Border Charm | δ | Grudge | Reveals one fair passage or boundary harm | `SE-151-D__MAW-G_The_Border_Charm.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Border Charm
+### M.A.W. Stigma — The Border Charm
 
 | Field | Record |
 |---|---|

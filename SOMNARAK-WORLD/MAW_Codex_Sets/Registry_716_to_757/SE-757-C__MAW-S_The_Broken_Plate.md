@@ -25,7 +25,7 @@ The Broken Plate is the suit of Door to No One’s set, bound by the same rule a
 
 **Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-757 -->
 
-**Set relationship:** Weapon, Suit, and Gift function only as *Threshold Without Reunion*; no piece may claim to resolve the source alone.
+**Set relationship:** Weapon, Suit, and Stigma function only as *Threshold Without Reunion*; no piece may claim to resolve the source alone.
 
 ---
 **Document ID:** `SE-757-C`  

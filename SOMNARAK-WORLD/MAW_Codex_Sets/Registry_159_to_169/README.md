@@ -1,6 +1,6 @@
 # Registry Codex Sets — 159 to 169
 
-This batch continues the individualized current-era codex archive after `SE-157`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Gift.
+This batch continues the individualized current-era codex archive after `SE-157`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Stigma.
 
 ## Included Entity Sets
 
@@ -55,7 +55,7 @@ The decision preserves the immediate Collector’s Row sequence from Harbinger a
 ## Current-Era Record Rules Applied
 
 - Every document is dated **Year 4,238** and uses the current post-Cycle R.D. setting.
-- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Gift histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
+- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Stigma histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
 - Individual records include source-consistent stat lines, extraction or bestowal conditions, binding and rejection rules, named witnesses or bearers, incidents, corrosion signs, maintenance, emergency shutdown, and full-set resonance.
 - The Debt Chain and Quagmire remain **I-Relics**. Their individual M.A.W. records document released echoes, not physical links, names, route crystal, or original source structures removed from the entity.
 - Candela future material is recorded as possible emotional risk, never a fixed prophecy or authorization to control another person’s future.

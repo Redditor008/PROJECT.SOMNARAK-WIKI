@@ -10,7 +10,7 @@
 
 - **Side Codex (A) is the donor lore + extraction gate.** It does NOT contain weapon stats. It records who the entity was, what sorrow crystallized the M.A.W., and what vigil/extraction condition must be met.
 - **M.A.W. is not manufactured.** Never write “forged in Workshop” or “assembled.” Use: “crystallized from,” “hardened from a thread of {{Element}} light,” “fell from the bell’s inner rim and hardened.”
-- **Quadripartite set is 4/4:** A Side Codex + B Weapon + C Suit + D Gift share the same `SE-{{ID}}` and must all reference the same Linked Entity. `audit_lore_archive.py` checks `198/198 complete`.
+- **Quadripartite set is 4/4:** A Side Codex + B Weapon + C Suit + D Stigma share the same `SE-{{ID}}` and must all reference the same Linked Entity. `audit_lore_archive.py` checks `198/198 complete`.
 - **Appearance must be source-led:** Describe what the M.A.W. looks like as drawn from entity Description — not generic “sword” filler.
 - **Rejection Rule is mandatory:** Every M.A.W. has a condition where it punishes misuse.
 
@@ -78,9 +78,9 @@ Example: `Registry_001_to_007/001_Orphaned_Bell/SE-001-A__SIDE_CODEX_The_Orphane
 
 | Field | Record |
 |---|---|
-| **Set Members** | `SE-{{ID}}-B` (Weapon) · `SE-{{ID}}-C` (Suit) · `SE-{{ID}}-D` (Gift) |
+| **Set Members** | `SE-{{ID}}-B` (Weapon) · `SE-{{ID}}-C` (Suit) · `SE-{{ID}}-D` (Stigma) |
 | **Resonance Theme** | {{One-line theme — e.g., “A debt that can be held, worn, and measured.”}} |
-| **Narrative Thread** | {{How the three items echo the same wound differently — cut (Weapon), endure (Suit), weigh (Gift).}} |
+| **Narrative Thread** | {{How the three items echo the same wound differently — cut (Weapon), endure (Suit), weigh (Stigma).}} |
 
 ### Full-Set Resonance (Unique — Do Not Copy-Paste)
 

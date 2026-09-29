@@ -52,7 +52,7 @@ During the The Grasp Source-Trace, the field team preserved this source fact: A 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Grasp's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not promise rescue; acknowledge the limits of one person The set cannot heal the originating event. Misuse routes Grasp's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Grasp's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not promise rescue; acknowledge the limits of one person The set cannot heal the originating event. Misuse routes Grasp's wound through the operator and triggers the recorded escalation.
 
 ---
 

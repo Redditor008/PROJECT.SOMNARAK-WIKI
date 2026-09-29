@@ -52,7 +52,7 @@ During the The Survivors Breath Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Survivors' Breath's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Permit rest; do not force personnel to continue working through it The set cannot heal the originating event. Misuse routes Survivors' Breath's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Survivors' Breath's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Permit rest; do not force personnel to continue working through it The set cannot heal the originating event. Misuse routes Survivors' Breath's wound through the operator and triggers the recorded escalation.
 
 ---
 

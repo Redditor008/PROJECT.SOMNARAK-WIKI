@@ -52,7 +52,7 @@ During the The Miscast Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Miscast's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Miscast's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Miscast's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Miscast's wound through the operator and triggers the recorded escalation.
 
 ---
 

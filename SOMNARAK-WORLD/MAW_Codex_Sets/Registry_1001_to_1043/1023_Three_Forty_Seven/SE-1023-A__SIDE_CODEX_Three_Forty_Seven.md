@@ -52,7 +52,7 @@ During the The Three Forty Seven Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Three Forty-Seven's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Accept that the moment cannot be changed; limit exposure The set cannot heal the originating event. Misuse routes Three Forty-Seven's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Three Forty-Seven's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Accept that the moment cannot be changed; limit exposure The set cannot heal the originating event. Misuse routes Three Forty-Seven's wound through the operator and triggers the recorded escalation.
 
 ---
 

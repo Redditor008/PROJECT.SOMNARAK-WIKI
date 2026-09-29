@@ -52,7 +52,7 @@ During the The Aphonia Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Aphonia's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Say, “I hear you,” and remain present The set cannot heal the originating event. Misuse routes Aphonia's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Aphonia's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Say, “I hear you,” and remain present The set cannot heal the originating event. Misuse routes Aphonia's wound through the operator and triggers the recorded escalation.
 
 ---
 

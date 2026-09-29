@@ -66,9 +66,9 @@ A stable echo forms when Flerehan releases a departure memory and two witnesses 
 |---|---|---:|---|---|
 | Weapon | The Rust Wall Maul | γ | Breaks forced closure without erasing the remembered boundary. | `SE-283-B__MAW-W_The_Rust_Wall_Maul.md` |
 | Suit | The Rust Wall Plate | γ | Resists forced movement while making social welcome difficult. | `SE-283-C__MAW-S_The_Rust_Wall_Plate.md` |
-| Gift | The Rust Wall Charm | γ | Identifies which side of a separation is being left unnamed. | `SE-283-D__MAW-G_The_Rust_Wall_Charm.md` |
+| Stigma | The Rust Wall Charm | γ | Identifies which side of a separation is being left unnamed. | `SE-283-D__MAW-G_The_Rust_Wall_Charm.md` |
 
-**Set cost:** The wielder grows heavy and ages, the wearer becomes difficult to welcome, and the Gift bearer moves more slowly.
+**Set cost:** The wielder grows heavy and ages, the wearer becomes difficult to welcome, and the Stigma bearer moves more slowly.
 
 ---
 
@@ -76,7 +76,7 @@ A stable echo forms when Flerehan releases a departure memory and two witnesses 
 
 - **Rust Wall Maul:** Weight 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use adds heaviness and age.
 - **Rust Wall Plate:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 3; 35 Echoes. It resists forced movement but makes inclusion harder.
-- **Rust Wall Charm:** Head Gift; 4%; +2 Resolve during source work. It marks the unnamed side; the bearer moves more slowly.
+- **Rust Wall Charm:** Head Stigma; 4%; +2 Resolve during source work. It marks the unnamed side; the bearer moves more slowly.
 
 ---
 

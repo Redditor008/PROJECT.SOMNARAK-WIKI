@@ -52,7 +52,7 @@ M.A.W. (Materialized Agony Wear) extracted from Sorrow Entities manifests across
 |                | sarcophagus plate, living chitin, and bandage wraps.        |
 +----------------+-------------------------------------------------------------+
 | MAW-G          | Stigmas, Relic Marks & Traces                               |
-| (Gift/Ornament)| Physical and metaphysical marks grafted onto the bearer:    |
+| (Stigma/Ornament)| Physical and metaphysical marks grafted onto the bearer:    |
 |                | weeping eyes, thorny crowns, floating halos, bone brooches. |
 +----------------+-------------------------------------------------------------+
 
@@ -206,7 +206,7 @@ Every M.A.W. equipment description must feature:
 
 ### 7.1 Dual-Paragraph Appearance Standard (Canonical Rule)
 
-Every M.A.W. equipment piece (Weapon, Suit, Gift) must present its visual appearance in **two distinct paragraphs separated by a blank line**, never merged into a single monolithic block:
+Every M.A.W. equipment piece (Weapon, Suit, Stigma) must present its visual appearance in **two distinct paragraphs separated by a blank line**, never merged into a single monolithic block:
 
 ```text
 Appearance : <Normal / Simple Appearance Paragraph>

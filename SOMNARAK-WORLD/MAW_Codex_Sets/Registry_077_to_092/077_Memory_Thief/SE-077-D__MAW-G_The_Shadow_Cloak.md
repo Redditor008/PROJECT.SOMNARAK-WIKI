@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Shadow Cloak
+# M.A.W. STIGMA — The Shadow Cloak
 
 > *“The clasp is cold only when someone has already forgotten to look for you.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Shadow Cloak |
 | Set | Borrowed Absence |
-| Type / grade / element | Gift, hood-clasp / β — Moderate / Void — Pale White |
+| Type / grade / element | Stigma, hood-clasp / β — Moderate / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; cannot be issued as ordinary inventory |
 | Known bearer | Specialist Nari Kwon |
@@ -33,13 +33,13 @@
 | Acquisition probability | 5% after a successful Memory Thief work cycle |
 | Acquisition event | The Thief returned a traded memory to Hanul Grey, then left the clasp beside the team’s unsigned route map. |
 | Acceptance condition | The candidate must add their own name to the map before touching the clasp. |
-| Source intent | Gift bestowal, not M.A.W. extraction; no Echo payment can force it. |
+| Source intent | Stigma bestowal, not M.A.W. extraction; no Echo payment can force it. |
 
 **Binding requirement:** The bearer keeps one written return note with a named person throughout use.
 
 **Rejection rule:** If worn to evade a report, debt, or relief order, the clasp activates against its wearer: nearby people remember every omitted action as an unresolved absence and refuse to let the bearer leave unnoticed.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -76,7 +76,7 @@ Kwon first wore the Cloak while guiding a disoriented worker out of a cache-adja
 - A second blank margin appears on the return note when the wearer has stayed hidden too long.
 - If the clasp fastens itself without touch, the bearer’s name is removed from spoken conversation until the note is read.
 
-**Maintenance:** Place the Gift beside the bearer’s completed return note for one hour after use. The note is archived; it is not destroyed to preserve secrecy.
+**Maintenance:** Place the Stigma beside the bearer’s completed return note for one hour after use. The note is archived; it is not destroyed to preserve secrecy.
 
 **Emergency shutdown:** The named return person speaks the bearer’s full name, reads the final action, and opens the clasp with bare fingers. Anyone else who forces it risks becoming the person the room forgets.
 
@@ -84,7 +84,7 @@ Kwon first wore the Cloak while guiding a disoriented worker out of a cache-adja
 
 With the Lens and Veil, the Cloak creates *Accounted Return*. Its ethical limit is the set’s central mechanism: concealment is permitted only when someone can say where the bearer went and whether they came back.
 
-> *“A gift that makes absence easy will eventually ask what you believe you owe the people waiting for you.”* — Research Lead Ayshuk
+> *“A stigma that makes absence easy will eventually ask what you believe you owe the people waiting for you.”* — Research Lead Ayshuk
 
 ---
 

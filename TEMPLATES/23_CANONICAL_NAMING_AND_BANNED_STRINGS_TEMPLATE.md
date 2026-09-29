@@ -37,7 +37,7 @@
 | **M.A.W. Side Codex** | `SE-{{ID}}-A__SIDE_CODEX_{{Name}}.md` / `SE-{{ID}}-A` | `SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md` |
 | **M.A.W. Weapon** | `SE-{{ID}}-B__MAW-W_{{Name}}.md` / `MAW-W-{{NUM}}-01` | `SE-001-B__MAW-W_The_Laments_Requiem.md` |
 | **M.A.W. Suit** | `SE-{{ID}}-C__MAW-S_{{Name}}.md` / `MAW-S-{{NUM}}-01` | `SE-001-C__MAW-S_The_Laments_Shroud.md` |
-| **M.A.W. Gift** | `SE-{{ID}}-D__MAW-G_{{Name}}.md` / `MAW-G-{{NUM}}-01` | `SE-001-D__MAW-G_Laments_Edge.md` |
+| **M.A.W. Stigma** | `SE-{{ID}}-D__MAW-G_{{Name}}.md` / `MAW-G-{{NUM}}-01` | `SE-001-D__MAW-G_Laments_Edge.md` |
 | **Ordeal** | `Ordeal_{{COLOR}}_{{WATCH}}_{{Name}}.md` | `Ordeal_BLUE_First_Watch_The_Voice.md` |
 | **Hope Transform** | `HT-{{NUM}}_{{Name}}_{{Korean}}.md` | `HT-001_The_Guiding_Light_인도의_빛.md` |
 | **Unknown Entity** | `SE-{{CODE}}_{{Name}}.md` | `SE-O-IIIγ-1052_The_Glass_Silt_Drifter.md` |

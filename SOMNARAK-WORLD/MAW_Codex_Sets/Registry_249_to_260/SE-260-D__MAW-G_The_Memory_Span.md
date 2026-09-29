@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Memory Span
+# M.A.W. STIGMA — The Memory Span
 
 > *“It crosses the distance memory kept, not the geography the city erased.”*
 
@@ -18,7 +18,7 @@ A warm blue Han-crystal Tail charm shaped like two route stones with empty space
 
 ## Appearance
 
-The Memory Span is a warm blue tail-charm of Han crystal shaped like two route stones with empty space between them — the crossing itself, carried as an absence between two points. The Bridge granted it after a cartographer mapped a crossing as memory and allowed it to settle; it cannot be manufactured. Its function sounds like transport and is not: one remembered distance may be crossed once — in its recorded use, carrying its bearer across a missing stair memory to reach a trapped observer, entry and exit both occurring in the same present room. Only the remembered effort and the farewells were real. The cost is those farewells: the bearer feels the final goodbye of everyone attached to the route. The empty gap filling with a desired shore is the first corrosion sign, and a bearer confusing remembered transit with teleportation is the destination claim — the Gift constructing a false shore. A second crossing strands the bearer inside route memory. Care maps old path and current geometry on separate layers; the Span clears when they share only the crossing action, never a destination. Emergency release drops the destination claim, names current ground, and crosses back through the same memory once.
+The Memory Span is a warm blue tail-charm of Han crystal shaped like two route stones with empty space between them — the crossing itself, carried as an absence between two points. The Bridge granted it after a cartographer mapped a crossing as memory and allowed it to settle; it cannot be manufactured. Its function sounds like transport and is not: one remembered distance may be crossed once — in its recorded use, carrying its bearer across a missing stair memory to reach a trapped observer, entry and exit both occurring in the same present room. Only the remembered effort and the farewells were real. The cost is those farewells: the bearer feels the final goodbye of everyone attached to the route. The empty gap filling with a desired shore is the first corrosion sign, and a bearer confusing remembered transit with teleportation is the destination claim — the Stigma constructing a false shore. A second crossing strands the bearer inside route memory. Care maps old path and current geometry on separate layers; the Span clears when they share only the crossing action, never a destination. Emergency release drops the destination claim, names current ground, and crosses back through the same memory once.
 
 ## FUNCTION & COST
 
@@ -39,7 +39,7 @@ Span defines the historical crossing, Shroud preserves the present, and Requiem 
 - Bearer confuses remembered transit with teleportation.
 - Farewells continue after the crossing ends.
 
-**Destination claim:** Gift constructs a false shore.  
+**Destination claim:** Stigma constructs a false shore.  
 **Repeated crossing:** second use strands the bearer inside route memory.  
 **Goodbye saturation:** accumulated departures erase expectation of return.
 

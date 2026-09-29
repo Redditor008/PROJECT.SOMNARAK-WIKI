@@ -166,7 +166,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Glazed Mullion-Pike
 
@@ -208,7 +208,7 @@ Intricate frost fern patterns shift across the central glass pane in response to
 
 **Cost:** The wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement.
 
-### M.A.W. Gift — The Rime-Pane Monocle
+### M.A.W. Stigma — The Rime-Pane Monocle
 
 **Category:** Stigma (Eye / Ocular Lens)
 **Grade:** β | **Element:** Weight
@@ -225,11 +225,11 @@ Delicate frost fractures run through the lens without obscuring vision, highligh
 
 **Cost:** The right eye perceives the world in chilled blue tones.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Gifts. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

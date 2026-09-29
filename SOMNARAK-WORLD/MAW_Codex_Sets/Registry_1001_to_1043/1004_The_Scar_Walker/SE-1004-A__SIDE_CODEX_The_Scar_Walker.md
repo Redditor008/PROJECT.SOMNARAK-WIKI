@@ -52,7 +52,7 @@ During the The The Scar Walker Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies The Scar Walker's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Show respect, salute its duty, and acknowledge its sacrifice The set cannot heal the originating event. Misuse routes The Scar Walker's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Scar Walker's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon contains only the immediate manifestation that violates this rule: Show respect, salute its duty, and acknowledge its sacrifice The set cannot heal the originating event. Misuse routes The Scar Walker's wound through the operator and triggers the recorded escalation.
 
 ---
 

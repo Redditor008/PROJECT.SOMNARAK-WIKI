@@ -129,7 +129,7 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift. Extraction is permitted under Archive Lead supervision; each piece carries the lullaby's vanishing.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. Extraction is permitted under Archive Lead supervision; each piece carries the lullaby's vanishing.
 
 ### M.A.W. Weapon — The Agony Chord
 
@@ -147,19 +147,19 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 **Ability:** Grants resistance to Void and Clarity-drain; muffles the lullaby so the wearer can remain in range without fading.
 **Cost:** The wearer feels an persistent, causeless sorrow, as if being sung to by someone who is already gone.
 
-### M.A.W. Gift — The Tiny Crier
+### M.A.W. Stigma — The Tiny Crier
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 **Appearance:** A small figurine — a weeping figure, knees drawn up — that fits in the palm and grows warm when sorrow is near.
 
 **Ability:** Granted at random by the entity upon a successful work; the bearer feels a pang of empathy for anyone in agony, steadying their own Clarity against despair.
 **Cost:** The bearer occasionally wakes having wept in their sleep, with no memory of the dream — only the tune.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self. The Agony Chord completes the song in a target at the price of the wielder's memory; the Black-and-White Case mutes the music at the price of a causeless grief; the Tiny Crier grants empathy at the price of weeping sleep. Forcing a piece outside its pattern deepens the vanishing. No protocol produces Gifts. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self. The Agony Chord completes the song in a target at the price of the wielder's memory; the Black-and-White Case mutes the music at the price of a causeless grief; the Tiny Crier grants empathy at the price of weeping sleep. Forcing a piece outside its pattern deepens the vanishing. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

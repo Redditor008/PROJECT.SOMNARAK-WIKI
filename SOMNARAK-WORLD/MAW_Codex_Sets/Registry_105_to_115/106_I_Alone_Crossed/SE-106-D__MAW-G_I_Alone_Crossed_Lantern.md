@@ -1,4 +1,4 @@
-# M.A.W. GIFT — I Alone Crossed Lantern
+# M.A.W. STIGMA — I Alone Crossed Lantern
 
 > *“It shows the paths between people. It also shows every place a hand did not reach in time.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | I Alone Crossed Lantern |
 | Set | Far Shore |
-| Type / grade / element | Gift, blue route lantern / δ — Critical / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue route lantern / δ — Critical / Lament — Deep Blue |
 | Slot | Tail |
 | Status | Bearer-bound; incident review required after all use |
 | Known bearer | Cartographer Yeonhwa |
@@ -33,13 +33,13 @@
 | Acquisition probability | 4% after successful I Alone Crossed work |
 | Bestowal event | A blue Lantern appeared at the Scar after a team wrote a shared account and returned along the same route together. |
 | Acceptance condition | The candidate names one failed crossing they can witness without claiming it was theirs alone. |
-| Source intent | Gift bestowal; it cannot be used to select a single person to blame for a route loss. |
+| Source intent | Stigma bestowal; it cannot be used to select a single person to blame for a route loss. |
 
 **Binding requirement:** The bearer agrees to complete an incident review with every person whose route the Lantern reveals.
 
 **Rejection rule:** If used to find a culprit, every thread turns toward the bearer and the Lantern projects their own failed handoffs until it is covered.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|

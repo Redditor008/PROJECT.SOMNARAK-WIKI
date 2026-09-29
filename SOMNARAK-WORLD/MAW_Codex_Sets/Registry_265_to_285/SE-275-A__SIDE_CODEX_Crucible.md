@@ -65,9 +65,9 @@ An echo forms only when Crucible creates a useful non-weapon tool after the cont
 |---|---|---:|---|---|
 | Weapon | The Rage Hammer | β | Shapes Han quickly against a present hostile force. | `SE-275-B__MAW-W_The_Rage_Hammer.md` |
 | Suit | The Rage Plate | β | Resists Crimson pressure during controlled Forge work. | `SE-275-C__MAW-S_The_Rage_Plate.md` |
-| Gift | The Rage Charm | β | Distinguishes named anger from hidden fuel entering the Forge. | `SE-275-D__MAW-G_The_Rage_Charm.md` |
+| Stigma | The Rage Charm | β | Distinguishes named anger from hidden fuel entering the Forge. | `SE-275-D__MAW-G_The_Rage_Charm.md` |
 
-**Set cost:** The wielder resents every object altered, the wearer’s reflexes dull, and the Gift bearer’s temper shortens. Unnamed anger becomes weapon output.
+**Set cost:** The wielder resents every object altered, the wearer’s reflexes dull, and the Stigma bearer’s temper shortens. Unnamed anger becomes weapon output.
 
 ---
 
@@ -75,7 +75,7 @@ An echo forms only when Crucible creates a useful non-weapon tool after the cont
 
 - **Rage Hammer:** Grudge 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. It accelerates shaping against hostile force; the wielder grows angry at every altered object.
 - **Rage Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 4; 20 Echoes. It resists Grudge while dulling reflexes.
-- **Rage Charm:** Tail Gift; 5%; +1 Resilience during source work. It detects hidden emotional fuel; the bearer’s temper shortens.
+- **Rage Charm:** Tail Stigma; 5%; +1 Resilience during source work. It detects hidden emotional fuel; the bearer’s temper shortens.
 
 ---
 

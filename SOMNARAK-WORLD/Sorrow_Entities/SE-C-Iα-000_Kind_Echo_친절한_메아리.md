@@ -175,7 +175,7 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift. The Standard Training M.A.W. set is issued to all new R.D. personnel.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. The Standard Training M.A.W. set is issued to all new R.D. personnel.  
 > *(Archival Note: The complete quadripartite codex suite for Kind Echo is cataloged under formal registry ID `SE-1001` in `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/` to resolve the zero-index registry collision).*
 
 ### M.A.W. Weapon — Pneumatic Training Carbine
@@ -210,9 +210,9 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Ability:** Grants minor resistance to Lament pressure. Like the baton, it is a training tool — it teaches the body what M.A.W. armor feels like.
 **Cost:** None meaningful at this grade.
 
-### M.A.W. Gift — The Warm Stone
+### M.A.W. Stigma — The Warm Stone
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -222,18 +222,18 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
 **Cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. arsenal. It is issued to every new agent during onboarding and is designed to teach the fundamentals of M.A.W. use — how a weapon feels, how a suit protects, how a Gift is granted — without risk. The Warm Stone Gift is the most commonly carried item in the R.D; many veteran specialists still have theirs, long after upgrading to higher-grade equipment.
+The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. arsenal. It is issued to every new agent during onboarding and is designed to teach the fundamentals of M.A.W. use — how a weapon feels, how a suit protects, how a Stigma is granted — without risk. The Warm Stone Stigma is the most commonly carried item in the R.D; many veteran specialists still have theirs, long after upgrading to higher-grade equipment.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Trainee name, first day, training objective. |
-| **During use** | Weapon swing feel, suit fit, Gift warmth. |
+| **During use** | Weapon swing feel, suit fit, Stigma warmth. |
 | **At limit** | N/A — the set has no meaningful limit. |
 | **After use** | Trainee comfort level, any emotional response, retention of Warm Stone. |
 
@@ -248,7 +248,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 - Its hum is pleasant; some personnel hum along during work cycles.
 - It brightens when approached and dims when left alone.
 - It has never caused a Fracture, injury, or meaningful distress in over 6,000 years of containment.
-- The Warm Stone Gift is granted at near-100% probability — the entity is generous.
+- The Warm Stone Stigma is granted at near-100% probability — the entity is generous.
 
 **Personnel Note:**
 > *"I trained on the Kind Echo in my first week. I was terrified — my first Sorrow Entity. It glowed at me and hummed. It was warm. I cried, not because it hurt me, but because I expected it to, and it didn't. I still carry my Warm Stone. I'm a Containment Lead now. I go back and visit it sometimes. It still brightens when I enter."* — Commander Taeho (태호), R.D.
@@ -260,7 +260,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 | **Initial exposure** | The trainee identifies the entity as a small, warm, blue glow. The first reliable markers are the warmth and the hum. |
 | **Sustained observation** | Continued observation confirms total docility. The entity responds identically to all Work Types. Personnel distinguish the entity's emotional effect (pleasant melancholy) from any physical threat (none). |
 | **Activation or escalation** | The entity does not activate. The trainee records the (extremely unlikely) breach scenario: it sits outside its door. |
-| **Post-contact review** | The trainee records their emotional response and whether they retained the Warm Stone Gift. Most do. |
+| **Post-contact review** | The trainee records their emotional response and whether they retained the Warm Stone Stigma. Most do. |
 
 **Observation method:** Record the first touch (warm), the first hum (pleasant), and the first Work Type performed (any). The report is complete.
 
@@ -278,7 +278,7 @@ Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject
 "They told me my first entity would be scary. It wasn't. It was warm, and it hummed, and I put my hand on it and it brightened. I practiced all four Work Types on it in one afternoon. It responded the same way to all of them — gently. I left the unit feeling like I could do this job. I think that is exactly what it wanted me to feel." — Trainee Specialist Hanul Grey (하늘 그레이), Zone B, first day
 
 **Entry 4 — <Containment Notice, Research Division>**
-Kind Echo requires no special containment. Its Sorrow Gauge is so stable that breach is practically impossible. The entity is available for training during all shifts. New specialists should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Gift should be retained — it provides a minor but lasting comfort benefit.
+Kind Echo requires no special containment. Its Sorrow Gauge is so stable that breach is practically impossible. The entity is available for training during all shifts. New specialists should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Stigma should be retained — it provides a minor but lasting comfort benefit.
 
 **Entry 5 — <Archive Note>**
 We do not know why the first settlers' kindness crystallized into an entity. Most sorrow in the Weeping is grief, rage, emptiness, or weight. This is none of those. This is the Lament of people who were kind in the dark. Perhaps that is also a kind of sorrow — the sorrow of caring, and knowing the caring cannot fix what is broken. Kind Echo cannot heal anyone. But it can make a frightened new agent feel, for one afternoon, that the sorrow is survivable. After 6,000 years, it is still doing exactly that. — Archive Lead Marjuk (마주크)
@@ -368,11 +368,11 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 **Common Name:** Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Observation Level:** 4 — Mastered
-**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Gift is granted at near-100% probability.
+**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
 **Containment & Handling Procedures:**
 - All four Work Types are equally effective — use for training.
 - No special containment required; the entity is self-stabilizing.
-- The Warm Stone Gift should be retained by trainees; it provides lasting comfort.
+- The Warm Stone Stigma should be retained by trainees; it provides lasting comfort.
 - The entity is available during all shifts. No cooldown between training sessions.
 - Extraction of the Standard Training M.A.W. is routine and risk-free.
 **Observation Notes:**
@@ -395,7 +395,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 - Kind Echo is the only Sorrow Entity that is warm to the touch.
 - Designation 000 — the first entity ever contained by the R.D., before the numbering system existed.
-- The Warm Stone Gift is the most commonly carried item in the R.D; many veteran specialists still have theirs.
+- The Warm Stone Stigma is the most commonly carried item in the R.D; many veteran specialists still have theirs.
 - The entity's hum has been recorded and is used as a sleep aid in the R.D. infirmary.
 - It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 6,000 years.
 - The entity is the baseline for all entity comparisons: "more aggressive than 000" is the standard R.D. phrase for any hostile entity.

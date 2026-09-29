@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Storm Charm
+# M.A.W. STIGMA — The Storm Charm
 
 > *“It points to lower pressure, not safety.”*
 

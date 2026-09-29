@@ -65,9 +65,9 @@ A source use leaves an emptied A-Relic husk. Only residue from a deliberately te
 |---|---|---:|---|---|
 | Weapon | The Lost Lens | β | Strikes one identified wrong direction or false route. | `SE-290-B__MAW-W_The_Lost_Lens.md` |
 | Suit | The Lost Veil | β | Preserves identity while directions collapse. | `SE-290-C__MAW-S_The_Lost_Veil.md` |
-| Gift | The Lost Compass | β | Shows which direction is wrong without identifying the right one. | `SE-290-D__MAW-G_The_Lost_Compass.md` |
+| Stigma | The Lost Compass | β | Shows which direction is wrong without identifying the right one. | `SE-290-D__MAW-G_The_Lost_Compass.md` |
 
-**Set cost:** The wielder loses memories, the wearer feels absent, and the Gift refuses positive direction.
+**Set cost:** The wielder loses memories, the wearer feels absent, and the Stigma refuses positive direction.
 
 ---
 
@@ -75,7 +75,7 @@ A source use leaves an emptied A-Relic husk. Only residue from a deliberately te
 
 - **Lost Lens:** Void 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. Each use removes small nameless memories.
 - **Lost Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; maximum 4; 20 Echoes. It resists Void while making the wearer absent.
-- **Lost Compass:** Head Gift; 5%; +1 Composure during source work. It identifies wrong directions and never reveals the correct one.
+- **Lost Compass:** Head Stigma; 5%; +1 Composure during source work. It identifies wrong directions and never reveals the correct one.
 
 ---
 
@@ -83,11 +83,11 @@ A source use leaves an emptied A-Relic husk. Only residue from a deliberately te
 
 ### *Where Not to Go*
 
-**Condition:** Gift rejects one route, Veil wearer carries a present-location anchor, and Lens targets only a verified false direction.
+**Condition:** Stigma rejects one route, Veil wearer carries a present-location anchor, and Lens targets only a verified false direction.
 
 **Effect:** The team can eliminate unsafe paths one at a time while preserving uncertainty and external navigation authority.
 
-**Cost / failure:** The set never produces a correct route. Treating the last unrejected option as truth causes the Lens to erase the map, Veil to detach the wearer from place, and Gift to spin toward sorrow.
+**Cost / failure:** The set never produces a correct route. Treating the last unrejected option as truth causes the Lens to erase the map, Veil to detach the wearer from place, and Stigma to spin toward sorrow.
 
 **Source reaction:** The needle slows only while the team states where it is, not where it hopes to go.
 

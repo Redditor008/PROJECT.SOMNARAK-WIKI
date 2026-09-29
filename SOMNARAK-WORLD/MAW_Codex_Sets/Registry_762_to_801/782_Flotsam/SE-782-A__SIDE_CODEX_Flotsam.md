@@ -52,7 +52,7 @@ During the The Flotsam Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Flotsam's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Name the owners and purpose; do not force preservation The set cannot heal the originating event. Misuse routes Flotsam's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Flotsam's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Name the owners and purpose; do not force preservation The set cannot heal the originating event. Misuse routes Flotsam's wound through the operator and triggers the recorded escalation.
 
 ---
 

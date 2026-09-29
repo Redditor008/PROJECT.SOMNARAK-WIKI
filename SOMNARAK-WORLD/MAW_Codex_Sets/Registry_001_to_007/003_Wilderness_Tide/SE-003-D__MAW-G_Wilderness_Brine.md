@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Wilderness Brine
+# M.A.W. STIGMA — Wilderness Brine
 
 ---
 
@@ -17,7 +17,7 @@ A circular chest brooch encasing a single drop of unevaporated green sea-salt wa
 | Field | Exact source record |
 |---|---|
 | Official name | Wilderness Brine |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | γ |
 | Element | Weight |
 | Appearance | A bronze casing holding a luminescent green salt crystal that emits a faint briny odor and periodic oceanic hums. |

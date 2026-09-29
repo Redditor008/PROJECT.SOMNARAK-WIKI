@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Rage Ember
+# M.A.W. STIGMA — The Rage Ember
 
 > *“The Rage Ember remembers The Wrath Flame; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** Anger becomes visible and difficult to suppress. Continued use makes The Wrath Flame's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The Wrath Flame Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The Wrath Flame Source-Trace: Stigma Record*
 
-The first The Rage Ember field bearer encountered this source response: Shows flashes of the six factions and the battle. The gift stabilizes the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Rage Ember field bearer encountered this source response: Shows flashes of the six factions and the battle. The stigma stabilizes the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Rage Ember field bearer encountered this source response: Shows fl
 
 ## SET RELATIONSHIP
 
-Within *The Wrath Flame — Witnessed Form*, The Rage Ember performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Wrath Flame — Witnessed Form*, The Rage Ember performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

@@ -52,7 +52,7 @@ During the The Dawn of Mourning Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Dawn of Mourning's source condition, the Suit lets a witness bear its All four — Lament, Grudge, Void, Weight pressure, and the Weapon marks only the immediate manifestation that violates this rule: Genuine confession before the twelfth blessing; no reliable post-formation method exists The set cannot heal the originating event. Misuse routes Dawn of Mourning's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dawn of Mourning's source condition, the Suit lets a witness bear its All four — Lament, Grudge, Void, Weight pressure, and the Weapon marks only the immediate manifestation that violates this rule: Genuine confession before the twelfth blessing; no reliable post-formation method exists The set cannot heal the originating event. Misuse routes Dawn of Mourning's wound through the operator and triggers the recorded escalation.
 
 ---
 

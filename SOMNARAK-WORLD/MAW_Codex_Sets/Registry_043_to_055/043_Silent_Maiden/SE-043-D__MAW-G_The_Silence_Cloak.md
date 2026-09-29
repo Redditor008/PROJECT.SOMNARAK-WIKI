@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Silence Cloak
+# M.A.W. STIGMA — The Silence Cloak
 
 > *“It covers the bearer in quiet, but the quiet is a request to be noticed, not permission to be ignored.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — cloak clasp |
+| Type | Accessory (Stigma) — cloak clasp |
 | Grade | β — Moderate |
 | Element | Void — Pale White |
 | Slot | Head |
@@ -23,7 +23,7 @@
 
 ### Appearance
 
-The Silence Cloak is a small clasp charm of pale Han glass shaped like a folded corner of cloth, with a black pin set into its back. It fastens to a collar or lapel and measures no larger than a thumb. When the bearer creates a quiet area, the glass corner opens like a tiny tent, and a faint grey shade falls over the chosen person. The shade blocks sound-based coercion and forced public attention without preventing the sheltered person from leaving or writing. The clasp stays cool while the shelter holds and warms only when the sheltered person chooses to step out. The Gift cannot be used to conceal harm, evade necessary accountability, or silence another person's voluntary speech, and after use the bearer cannot speak above a whisper until the sheltered person has gone. The clasp is fixed to the inner lapel, and the grey shade spreads only as far as the sheltered person can still choose to leave.
+The Silence Cloak is a small clasp charm of pale Han glass shaped like a folded corner of cloth, with a black pin set into its back. It fastens to a collar or lapel and measures no larger than a thumb. When the bearer creates a quiet area, the glass corner opens like a tiny tent, and a faint grey shade falls over the chosen person. The shade blocks sound-based coercion and forced public attention without preventing the sheltered person from leaving or writing. The clasp stays cool while the shelter holds and warms only when the sheltered person chooses to step out. The Stigma cannot be used to conceal harm, evade necessary accountability, or silence another person's voluntary speech, and after use the bearer cannot speak above a whisper until the sheltered person has gone. The clasp is fixed to the inner lapel, and the grey shade spreads only as far as the sheltered person can still choose to leave.
 
 ### Ability— Unheard Shelter
 

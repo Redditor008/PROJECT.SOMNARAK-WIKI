@@ -53,7 +53,7 @@ Future contributors and automated systems authoring documents within `GAME_BATTL
 
 ### Class 3: Strike Team Archetypes & Builds (`SQUAD_ARCHETYPE_*.md`)
 - **Focus:** Optimized 4-person operative tactical team compositions.
-- **Components:** Assigned wings, role distribution (Vanguard, Striker, Acoustic Controller, Anchor), M.A.W. Wear Grade pairings (Weapons, Suits, Gifts), passive synergies, and range band coverage.
+- **Components:** Assigned wings, role distribution (Vanguard, Striker, Acoustic Controller, Anchor), M.A.W. Wear Grade pairings (Weapons, Suits, Stigmas), passive synergies, and range band coverage.
 
 ### Class 4: Faction Combat Directives (`FACTION_BATTLE_*.md`)
 - **Focus:** Institutional combat styles and field doctrines.
@@ -104,7 +104,7 @@ Both allied operatives and hostile entities must be cataloged with their exact n
 - **Operatives (4 Units):**
   * Name, Callsign, Role.
   * Base Speed, Maximum Health, Composure Pool (0–100), Posture Pool (0–100).
-  * Equipped M.A.W. Triad: Weapon (Wear Grade, Damage Element, Range Band), Suit (Resistances), Gift (Passive).
+  * Equipped M.A.W. Triad: Weapon (Wear Grade, Damage Element, Range Band), Suit (Resistances), Stigma (Passive).
 - **Hostile Entity:**
   * SECC Code, Canonical Name, Coherence Rank (I to V), Potency Grade (α to ω).
   * Total Composure Pool (0 to 100+), Meltdown Threshold.
@@ -140,7 +140,7 @@ After Turn 06 (and Turn 12/18 in extended encounters):
 
 ### Section 7: After-Action Report & Extraction Manifest
 - **Engagement Outcome:** Decisive Victory, Tactical Withdrawal, or Mutual Stagger.
-- **Harvest Manifest:** Amount of crystallized Han dust recovered (in kg), M.A.W. extraction yields (Weapons, Suits, Gifts).
+- **Harvest Manifest:** Amount of crystallized Han dust recovered (in kg), M.A.W. extraction yields (Weapons, Suits, Stigmas).
 - **Squad Casualties:** Physical wounds sustained, Composure restoration time, and medical triage status.
 
 ---

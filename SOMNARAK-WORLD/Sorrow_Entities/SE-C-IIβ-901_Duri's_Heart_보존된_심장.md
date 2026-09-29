@@ -255,9 +255,9 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 
 **Cost:** The wearer carries a constant low fatigue, as though Duri's Heart's burden settles on their shoulders.
 
-### M.A.W. Gift — Duri's Heart's Token
+### M.A.W. Stigma — Duri's Heart's Token
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
 **Appearance:** a coin-token of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
 
@@ -269,7 +269,7 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 
 **Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

@@ -38,7 +38,7 @@ The collar fades when the bearer refuses companionship; a threadless Veil is sea
 
 ## SET RELATIONSHIP
 
-The Veil is the identity layer of *Mirror With Company*, allowing Lens and Gift insight only while a real person remains present.
+The Veil is the identity layer of *Mirror With Company*, allowing Lens and Stigma insight only while a real person remains present.
 
 ---
 

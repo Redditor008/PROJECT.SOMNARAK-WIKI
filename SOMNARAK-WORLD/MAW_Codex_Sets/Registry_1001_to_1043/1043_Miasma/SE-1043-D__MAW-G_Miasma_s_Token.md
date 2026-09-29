@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Miasma's Token
+# M.A.W. STIGMA — Miasma's Token
 
 > *“Miasma's Token remembers Miasma; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The bearer dreams in tears drawn from Miasma's sorrow and wakes with another person's grief still present. Continued use makes Miasma's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Stigma Record*
 
-The first Miasma's Token field bearer encountered this source response: Permits study; the lament pressure becomes legible under sustained observation. The gift stays the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Miasma's Token field bearer encountered this source response: Permits study; the lament pressure becomes legible under sustained observation. The stigma stays the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Miasma's Token field bearer encountered this source response: Permits 
 
 ## SET RELATIONSHIP
 
-Within *Miasma — Witnessed Form*, Miasma's Token performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Miasma — Witnessed Form*, Miasma's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

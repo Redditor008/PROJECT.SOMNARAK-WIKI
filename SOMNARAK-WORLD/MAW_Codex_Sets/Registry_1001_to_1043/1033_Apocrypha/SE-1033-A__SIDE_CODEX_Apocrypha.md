@@ -52,7 +52,7 @@ During the The Apocrypha Source-Trace, the field team preserved this source fact
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Apocrypha's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Mark the site and speak the farewell that was missed The set cannot heal the originating event. Misuse routes Apocrypha's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Apocrypha's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Mark the site and speak the farewell that was missed The set cannot heal the originating event. Misuse routes Apocrypha's wound through the operator and triggers the recorded escalation.
 
 ---
 

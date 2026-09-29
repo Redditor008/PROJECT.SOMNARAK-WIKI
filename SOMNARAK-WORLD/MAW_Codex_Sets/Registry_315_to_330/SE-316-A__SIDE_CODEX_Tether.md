@@ -65,9 +65,9 @@ An echo forms after Flerehan loosens the rope and the affected person consciousl
 |---|---|---:|---|---|
 | Weapon | The Empty Fang | α | Cuts self-binding expectation without attacking the absent person. | `SE-316-B__MAW-W_The_Empty_Fang.md` |
 | Suit | The Empty Plate | α | Protects against Grudge while a one-sided bond is released. | `SE-316-C__MAW-S_The_Empty_Plate.md` |
-| Gift | The Empty Knot | α | Reveals bonds maintained without reciprocal contact. | `SE-316-D__MAW-G_The_Empty_Knot.md` |
+| Stigma | The Empty Knot | α | Reveals bonds maintained without reciprocal contact. | `SE-316-D__MAW-G_The_Empty_Knot.md` |
 
-**Set cost:** Old wounds ache, reflexes dull, and the Gift bearer feels every abandoned expectation nearby.
+**Set cost:** Old wounds ache, reflexes dull, and the Stigma bearer feels every abandoned expectation nearby.
 
 ---
 
@@ -75,7 +75,7 @@ An echo forms after Flerehan loosens the rope and the affected person consciousl
 
 - **Empty Fang:** Grudge 3–6; Speed 2; Range 2; Single; maximum 5; 15 Echoes. Old wounds ache and bruise.
 - **Empty Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 5; 10 Echoes. It resists Grudge while dulling reflexes.
-- **Empty Knot:** Tail Gift; 5%; +1 Resilience during source work. It identifies nonreciprocal bonds; the bearer feels abandoned expectations.
+- **Empty Knot:** Tail Stigma; 5%; +1 Resilience during source work. It identifies nonreciprocal bonds; the bearer feels abandoned expectations.
 
 ---
 

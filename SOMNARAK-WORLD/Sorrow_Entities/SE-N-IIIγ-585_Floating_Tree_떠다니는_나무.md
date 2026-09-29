@@ -196,7 +196,7 @@ The escalation pattern is specific to Floating Tree: it is not a generic breach 
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Suspended Root-Pike
 
@@ -234,9 +234,9 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — The Floating Charm
+### M.A.W. Stigma — The Floating Charm
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
 **Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
 
@@ -248,11 +248,11 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Cost:** The bearer weeps in their sleep.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Gifts appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

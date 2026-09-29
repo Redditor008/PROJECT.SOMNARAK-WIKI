@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Fallen Charm
+# M.A.W. STIGMA — The Fallen Charm
 
 > *“It marks the place where protection stopped matching its promise.”*
 

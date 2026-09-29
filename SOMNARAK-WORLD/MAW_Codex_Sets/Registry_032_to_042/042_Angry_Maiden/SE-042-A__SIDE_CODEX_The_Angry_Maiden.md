@@ -58,7 +58,7 @@ State the violence plainly, name that it was wrong, and do not demand forgivenes
 |---|---|---|---|---|---|
 | Weapon | The Fury Fang | β | Grudge | Directs anger toward a defined harmful act | `SE-042-B__MAW-W_The_Fury_Fang.md` |
 | Suit | The Fury Plate | β | Grudge | Resists direct hostility while risking resentment lock | `SE-042-C__MAW-S_The_Fury_Plate.md` |
-| Gift | The Fury Blade | β | Grudge | Makes injustice visible as a reactive mark | `SE-042-D__MAW-G_The_Fury_Blade.md` |
+| Stigma | The Fury Blade | β | Grudge | Makes injustice visible as a reactive mark | `SE-042-D__MAW-G_The_Fury_Blade.md` |
 
 ### Set Resonance — Say It Was Wrong
 

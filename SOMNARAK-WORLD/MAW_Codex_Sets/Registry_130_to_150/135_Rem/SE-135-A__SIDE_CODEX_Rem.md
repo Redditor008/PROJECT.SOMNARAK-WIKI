@@ -87,7 +87,7 @@ The set allows controlled Dream contact. Its cost is the slow fading of waking d
 |---|---|---:|---|---|---|
 | Weapon | The Levitating Oneiric Prisms | β | Lament | Interruption of a Dream’s grief surge | `SE-135-B__MAW-W_The_Warm_Requiem.md` |
 | Suit | The Somnolent Gossamer Shroud | β | Lament | Protection during controlled Dream observation | `SE-135-C__MAW-S_The_Warm_Shroud.md` |
-| Gift | The Floating Dream Catcher Orb | β | Lament | Controlled dream-state entry with waking-memory cost | `SE-135-D__MAW-G_The_Warm_Shard.md` |
+| Stigma | The Floating Dream Catcher Orb | β | Lament | Controlled dream-state entry with waking-memory cost | `SE-135-D__MAW-G_The_Warm_Shard.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set allows controlled Dream contact. Its cost is the slow fading of waking d
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Floating Dream Catcher Orb
+### M.A.W. Stigma — The Floating Dream Catcher Orb
 
 | Field | Record |
 |---|---|

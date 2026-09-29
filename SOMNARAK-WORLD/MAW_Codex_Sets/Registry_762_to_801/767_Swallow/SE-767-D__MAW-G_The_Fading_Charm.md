@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Fading Charm
+# M.A.W. STIGMA — The Fading Charm
 
 > *“The Fading Charm remembers Swallow; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Fading Charm is the gift record of Swallow’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — its ability mirroring the entity: a minor boon tied to Swallow’s sorrow, the absence returning a measure of what it took. Binding is testimonial: the bearer names Swallow’s event — a memorial beneath the Alpha Tree absorbed generations of visitors’ grief and became a spreading absence — and accepts the set’s limit: name the source of the grief and return emotional ownership. The operational cost arrives at night: the bearer weeps in their sleep, grief draining on its own schedule, and continued use makes the source sorrow feel autobiographical. The source-trace fixed the doctrine: the gift reveals the people whose sorrow feeds it, and it stayed the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Fading Charm is the stigma record of Swallow’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — its ability mirroring the entity: a minor boon tied to Swallow’s sorrow, the absence returning a measure of what it took. Binding is testimonial: the bearer names Swallow’s event — a memorial beneath the Alpha Tree absorbed generations of visitors’ grief and became a spreading absence — and accepts the set’s limit: name the source of the grief and return emotional ownership. The operational cost arrives at night: the bearer weeps in their sleep, grief draining on its own schedule, and continued use makes the source sorrow feel autobiographical. The source-trace fixed the doctrine: the stigma reveals the people whose sorrow feeds it, and it stayed the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Fading Charm is the gift record of Swallow’s set — tail-slot, bestowed a
 
 **Operational / binding cost:** The bearer weeps in their sleep. Continued use makes Swallow's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Stigma Record*
 
-The first The Fading Charm field bearer encountered this source response: Reveals the people whose sorrow feeds it. The gift stays the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Fading Charm field bearer encountered this source response: Reveals the people whose sorrow feeds it. The stigma stays the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Fading Charm field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Swallow — Witnessed Form*, The Fading Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Swallow — Witnessed Form*, The Fading Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

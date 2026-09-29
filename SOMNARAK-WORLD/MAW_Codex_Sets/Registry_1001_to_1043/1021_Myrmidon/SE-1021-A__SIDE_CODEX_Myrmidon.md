@@ -52,7 +52,7 @@ During the The Myrmidon Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Myrmidon's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Separate the person from the institution they represent; do not defend the institution The set cannot heal the originating event. Misuse routes Myrmidon's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Myrmidon's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon severs only the immediate manifestation that violates this rule: Separate the person from the institution they represent; do not defend the institution The set cannot heal the originating event. Misuse routes Myrmidon's wound through the operator and triggers the recorded escalation.
 
 ---
 

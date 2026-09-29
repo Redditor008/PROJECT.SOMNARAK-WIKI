@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Dream Shuttle
+# M.A.W. STIGMA — The Dream Shuttle
 
 > *“It weaves one illusion from a memory the bearer offers. The memory must be given, not taken.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Dream Shuttle |
 | Set | Woven Possibility |
-| Type / grade / element | Gift, blue shuttle-charm / γ — Major / Lament — Deep Blue |
+| Type / grade / element | Stigma, blue shuttle-charm / γ — Major / Lament — Deep Blue |
 | Slot | Tail |
 | Acquisition probability | 4% |
 | Recognition rule | It remains still until the bearer voluntarily identifies a personal memory they are willing to contribute. |
@@ -33,7 +33,7 @@ The Shuttle appeared after a Loom thread was released at channel closure. The be
 
 The Dream Shuttle is a small charm shaped like a weaver’s shuttle, carved from blue crystal and wound with a single empty thread channel. It hangs at the tail line and remains completely still — no glow, no warmth — until the bearer voluntarily names a personal memory they are willing to contribute; only then does the channel fill with a thin line of light drawn from that memory. In use the Shuttle passes once through the air like a loom stroke and weaves one controlled illusion for care, training, or safe route visualization, built from the offered memory and nothing else. The construct cannot replace reality, cannot sustain itself after its emotional source closes, and cannot take a private memory as material without permission. The contributed memory grows less vivid with every weaving, a cost the bearer accepts in advance. The Shuttle moves on its own when the bearer wants an easier reality, and a snapped shuttle stays out of use until Dream Gate review. Both anchors unthread the illusion during shutdown; breaking the Shuttle leaves the memory lodged in the bearer’s next dream.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 **Source bonus:** +2 while working the Loom. **Cost:** The user contributes a personal memory to the dream. One controlled illusion at a time.
 

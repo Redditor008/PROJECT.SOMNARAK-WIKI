@@ -87,7 +87,7 @@ The set makes a temporary place where displaced sorrow can settle. The danger is
 |---|---|---:|---|---|---|
 | Weapon | The Shadow Lens | β | Void | Separates a person from unplaced identity pressure | `SE-119-B__MAW-W_The_Shadow_Lens.md` |
 | Suit | The Shadow Veil | β | Void | Protects a bearer while holding a witnessed dark space | `SE-119-C__MAW-S_The_Shadow_Veil.md` |
-| Gift | The Shadow Hearth | β | Void | Makes a small consent-bound place for sorrow to settle | `SE-119-D__MAW-G_The_Shadow_Hearth.md` |
+| Stigma | The Shadow Hearth | β | Void | Makes a small consent-bound place for sorrow to settle | `SE-119-D__MAW-G_The_Shadow_Hearth.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set makes a temporary place where displaced sorrow can settle. The danger is
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Shadow Hearth
+### M.A.W. Stigma — The Shadow Hearth
 
 | Field | Record |
 |---|---|

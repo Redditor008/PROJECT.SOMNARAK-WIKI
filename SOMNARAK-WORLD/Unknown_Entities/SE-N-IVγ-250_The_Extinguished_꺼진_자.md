@@ -184,18 +184,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Ability:** Grants resistance to Grudge and the cold-burn; lets the wearer endure near a burned-out Hope without flinching.
 **Cost:** The wearer cannot accept comfort while wearing it; insincere Flerehan rebounds as cold-burn.
 
-### M.A.W. Gift — The Ash Pin
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Grudge
+### M.A.W. Stigma — The Ash Pin
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 **Appearance:** A hairpin of frosted crystal that spells, in Old Somnarak, a single word: again?
 
 **Ability:** Marks the bearer's fear of burnout visibly, so it can be addressed rather than hidden.
 **Cost:** The bearer hears 'again?' whispered whenever they reach for hope, until the fear is spoken aloud.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-The extracted equipment reflects the same unresolved pressure as The Extinguished. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Grudge. Gifts are granted at random by the entity upon a successful work, not manufactured.
+The extracted equipment reflects the same unresolved pressure as The Extinguished. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Grudge. Stigmas are granted at random by the entity upon a successful work, not manufactured.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 

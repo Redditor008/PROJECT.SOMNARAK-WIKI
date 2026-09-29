@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Cold Heart
+# M.A.W. STIGMA — The Cold Heart
 
 > *“It cannot be manipulated because, while it holds, there is no feeling left to reach.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Cold Heart |
 | Set | Warmth at Risk |
-| Type / grade / element | Gift, heart-charm / δ — Critical / Void — Pale White |
+| Type / grade / element | Stigma, heart-charm / δ — Critical / Void — Pale White |
 | Slot | Head |
 | Status | Sealed; no standing field bearer |
 | Maximum amount | One active Heart per bearer; source bestowal chance 4% |
@@ -34,13 +34,13 @@
 | Acquisition probability | 4% after successful Frozen Veil work |
 | Bestowal event | A Heart appeared after a monitored source retreat in which two anchors verified that the worker still chose connection despite the Void field. |
 | Acceptance condition | The candidate names a termination authority and signs an advance removal consent while fully emotionally responsive. |
-| Source intent | Gift bestowal; it is not an emergency sedative, a therapy device, or manufactured anti-manipulation gear. |
+| Source intent | Stigma bestowal; it is not an emergency sedative, a therapy device, or manufactured anti-manipulation gear. |
 
 **Binding requirement:** The bearer pre-authorizes removal by an independent welfare officer and a named relationship anchor.
 
 **Rejection rule:** The Heart rejects a candidate who seeks total emotional invulnerability. It turns clear, makes no protective field, and records the candidate’s stated reason as a cold echo for review.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|

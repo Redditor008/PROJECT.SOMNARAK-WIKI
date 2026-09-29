@@ -205,9 +205,9 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
-### M.A.W. Gift — Lethe's Token
+### M.A.W. Stigma — Lethe's Token
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
 **Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
@@ -217,9 +217,9 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 
-**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the gift.
+**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

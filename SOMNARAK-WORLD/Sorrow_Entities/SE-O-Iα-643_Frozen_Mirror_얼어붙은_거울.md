@@ -204,7 +204,7 @@ The escalation pattern is specific to Frozen Mirror: it is not a generic breach 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Ice-Shard Stiletto
 
@@ -242,9 +242,9 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Cost:** The wearer's reflexes dull, as if armored by resentment.
 
-### M.A.W. Gift — The Frozen Reflection
+### M.A.W. Stigma — The Frozen Reflection
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
 **Appearance:** a mirror-tile of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
 
@@ -256,11 +256,11 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Cost:** The wearer cannot easily separate their anger from another person's.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Gifts are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

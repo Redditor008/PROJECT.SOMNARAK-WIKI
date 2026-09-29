@@ -58,7 +58,7 @@ A song ends when the listener stops listening genuinely, not when the listener w
 |---|---|---|---|---|---|
 | Weapon | The Singing Requiem | β | Lament | Carries a preserved note into a single strike | `SE-048-B__MAW-W_The_Singing_Requiem.md` |
 | Suit | The Singing Shroud | β | Lament | Filters song pressure without muting meaning | `SE-048-C__MAW-S_The_Singing_Shroud.md` |
-| Gift | The Singing Pebble | β | Lament | Calms nearby personnel through a remembered melody | `SE-048-D__MAW-G_The_Singing_Pebble.md` |
+| Stigma | The Singing Pebble | β | Lament | Calms nearby personnel through a remembered melody | `SE-048-D__MAW-G_The_Singing_Pebble.md` |
 
 ### Set Resonance — Last Verse
 

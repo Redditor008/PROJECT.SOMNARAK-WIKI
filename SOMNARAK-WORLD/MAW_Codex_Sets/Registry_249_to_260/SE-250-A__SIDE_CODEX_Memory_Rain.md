@@ -67,9 +67,9 @@ A drop may be shaped only after it lands, crystallizes, and is catalogued withou
 |---|---|---:|---|---|
 | Weapon | The Memory Requiem | β | Separates one invasive memory from its current host. | `SE-250-B__MAW-W_The_Memory_Requiem.md` |
 | Suit | The Memory Umbrella | β | Catches memory rain for later processing without denying contact. | `SE-250-C__MAW-S_The_Memory_Umbrella.md` |
-| Gift | The Memory Charm | β | Returns one personal identity fact when stranger memories overwhelm the bearer. | `SE-250-D__MAW-G_The_Memory_Charm.md` |
+| Stigma | The Memory Charm | β | Returns one personal identity fact when stranger memories overwhelm the bearer. | `SE-250-D__MAW-G_The_Memory_Charm.md` |
 
-**Set cost:** The wielder weeps, the Umbrella fills with lives requiring review, and the Gift bearer cries in sleep. Unprocessed drops never become safe inventory.
+**Set cost:** The wielder weeps, the Umbrella fills with lives requiring review, and the Stigma bearer cries in sleep. Unprocessed drops never become safe inventory.
 
 ---
 
@@ -77,7 +77,7 @@ A drop may be shaped only after it lands, crystallizes, and is catalogued withou
 
 - **Memory Requiem:** Lament 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. Prolonged use causes involuntary weeping.
 - **Memory Umbrella:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 4; 20 Echoes. It protects from memory attack but stores every caught fragment for later processing.
-- **Memory Charm:** Tail Gift; 5%; +1 Clarity during source work. It restores one self-anchor; the bearer weeps during sleep.
+- **Memory Charm:** Tail Stigma; 5%; +1 Clarity during source work. It restores one self-anchor; the bearer weeps during sleep.
 
 ---
 

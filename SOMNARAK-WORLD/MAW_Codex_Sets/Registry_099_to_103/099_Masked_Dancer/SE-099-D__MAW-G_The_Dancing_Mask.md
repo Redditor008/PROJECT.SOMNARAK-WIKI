@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Hollow Porcelain Shard
+# M.A.W. STIGMA — The Hollow Porcelain Shard
 
 > *“The mask fragment makes every uneven floor feel like music. It does not know when the music is over.”*
 
@@ -33,13 +33,13 @@
 | Acquisition probability | 5% after successful Masked Dancer work |
 | Bestowal event | The Dancer placed a small mask-shaped glow at the edge of the floor after Kwon accepted a partner’s stop cue without protest. |
 | Acceptance condition | The candidate practices the stop cue before fastening the thread. |
-| Source intent | Gift bestowal; it cannot be requisitioned as agility equipment. |
+| Source intent | Stigma bestowal; it cannot be requisitioned as agility equipment. |
 
 **Binding requirement:** The bearer identifies one person who can say the cue and remove the charm if the urge to move overrides judgment.
 
 **Rejection rule:** A bearer who uses the Mask to leave a partner behind feels the charm pull their steps into circles until they return or are externally stopped.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -68,7 +68,7 @@ The Mask improves balance, agility, and evasive reflexes. Its benefit is physica
 
 ## HISTORY OF USE
 
-Kwon used *Borrowed Rhythm* to cross a collapsed stair where ordinary footing kept slipping. The Gift carried them over cleanly, then refused to let their legs rest at the landing. Kkotlom Lee, who had given the cue, remained at the stair and called it until Kwon could stand still long enough to unloop the charm. Kwon’s report identifies the recovery as the successful part of the deployment.
+Kwon used *Borrowed Rhythm* to cross a collapsed stair where ordinary footing kept slipping. The Stigma carried them over cleanly, then refused to let their legs rest at the landing. Kkotlom Lee, who had given the cue, remained at the stair and called it until Kwon could stand still long enough to unloop the charm. Kwon’s report identifies the recovery as the successful part of the deployment.
 
 ## CORROSION, MAINTENANCE & SHUTDOWN
 

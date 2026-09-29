@@ -65,7 +65,7 @@ An echo forms only when an observer accepts the recorded image and performs one 
 |---|---|---:|---|---|
 | Weapon | The Watcher’s Lens | β | Marks one observed danger and attacks the Void separating evidence from action. | `SE-235-B__MAW-W_The_Watchers_Lens.md` |
 | Suit | The Watcher’s Veil | β | Protects an intervener moving through total surveillance. | `SE-235-C__MAW-S_The_Watchers_Veil.md` |
-| Gift | The Watcher’s Lens | β | Reveals what one structure witnessed and makes the bearer unable to forget it. | `SE-235-D__MAW-G_The_Watchers_Lens.md` |
+| Stigma | The Watcher’s Lens | β | Reveals what one structure witnessed and makes the bearer unable to forget it. | `SE-235-D__MAW-G_The_Watchers_Lens.md` |
 
 **Set cost:** The operator loses small memories, feels absent under the gaze, and retains every revealed scene. Evidence without assigned action turns the set back into Panopticon.
 
@@ -75,7 +75,7 @@ An echo forms only when an observer accepts the recorded image and performs one 
 
 - **Weapon Lens:** Void 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. Each use removes a small nameless memory.
 - **Watcher’s Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; maximum 4; 20 Echoes. It protects Soul continuity while the wearer feels absent.
-- **Gift Lens:** Head; 5%; +1 Composure during source work. It reveals structural witness and prevents the bearer from forgetting what was seen.
+- **Stigma Lens:** Head; 5%; +1 Composure during source work. It reveals structural witness and prevents the bearer from forgetting what was seen.
 
 ---
 
@@ -83,7 +83,7 @@ An echo forms only when an observer accepts the recorded image and performs one 
 
 ### *Observation Becomes Duty*
 
-**Condition:** The Gift reveals one actionable scene, the Veil wearer accepts identification as responder, and the Weapon Lens designates the present danger rather than the person being watched.
+**Condition:** The Stigma reveals one actionable scene, the Veil wearer accepts identification as responder, and the Weapon Lens designates the present danger rather than the person being watched.
 
 **Effect:** The recorded event gains a temporary route into current action: doors open toward the danger, witness images stay stable, and one intervention can occur without the corridor closing.
 

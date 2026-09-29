@@ -52,7 +52,7 @@ During the The Shard of a Broken Promise Source-Trace, the field team preserved 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Shard of a Broken Promise's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Shard of a Broken Promise's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Shard of a Broken Promise's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Shard of a Broken Promise's wound through the operator and triggers the recorded escalation.
 
 ---
 

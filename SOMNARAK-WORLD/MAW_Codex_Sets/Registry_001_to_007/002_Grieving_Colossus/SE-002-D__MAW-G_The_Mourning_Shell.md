@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Mourning Shell
+# M.A.W. STIGMA — The Mourning Shell
 
 > *“A shell is not invulnerability. It is proof that something inside survived the weight.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) |
+| **Type** | Accessory (Stigma) |
 | **Grade** | δ — Critical |
 | **Element** | Weight — Black |
 | **Slot** | Head |
@@ -31,13 +31,13 @@ The Mourning Shell is a small shell-shaped charm of black Han steel, small enoug
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
 **Passive Effect:** Converts a portion of ordinary physical impact into emotional heaviness. The bearer remains standing more easily but experiences the accumulated strain later.
 
 **Active Effect — Bear the Unnamed:** Once per day, the bearer may take one ally’s current Weight-pressure condition onto themself for ten minutes.
 
-**Limit:** The Gift cannot absorb a Sovereign-scale collapse or a fatal direct strike.
+**Limit:** The Stigma cannot absorb a Sovereign-scale collapse or a fatal direct strike.
 
 ### Bearer Cost
 

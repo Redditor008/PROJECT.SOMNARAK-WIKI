@@ -62,7 +62,7 @@ When drafting a scene, dialogue, combat sequence, or narrative arc, consult thes
 - **Equipment Quadrilogy:** Every entity yields four bespoke armaments:
   1. **Weapon (`MAW-W`):** Physical manifestation of the entity's tale (e.g. Requiem blade, Maul, Fang, Lens).
   2. **Suit (`MAW-S`):** Protective attire mitigating specific Sorrow elements (Shroud, Mantle, Plate, Veil).
-  3. **Gift (`MAW-G`):** Wearable relic granting passive resonance perks (Mask, Charm, Lantern, Stone).
+  3. **Stigma (`MAW-G`):** Wearable relic granting passive resonance perks (Mask, Charm, Lantern, Stone).
   4. **Pendant / Token (`MAW-P`):** Speed, range, and resonance calibration trinket.
 - **Master Overview:** `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md`.
 

@@ -65,9 +65,9 @@ Blue residue gathers at a fresco’s final audible note after listeners remain t
 |---|---|---:|---|---|
 | Weapon | The Wall Requiem | β | Isolates one harmful resonance without cutting the unfinished song. | `SE-245-B__MAW-W_The_Wall_Requiem.md` |
 | Suit | The Wall Shroud | β | Protects a listener during prolonged chorus exposure. | `SE-245-C__MAW-S_The_Wall_Shroud.md` |
-| Gift | The Wall Stone | β | Calms nearby people through a remembered fragment while retaining the missing ending. | `SE-245-D__MAW-G_The_Wall_Stone.md` |
+| Stigma | The Wall Stone | β | Calms nearby people through a remembered fragment while retaining the missing ending. | `SE-245-D__MAW-G_The_Wall_Stone.md` |
 
-**Set cost:** The wielder weeps, the wearer loses minor joy, and the Gift bearer hears unfinished music near every wall. Completing a song by guess turns resonance into censorship.
+**Set cost:** The wielder weeps, the wearer loses minor joy, and the Stigma bearer hears unfinished music near every wall. Completing a song by guess turns resonance into censorship.
 
 ---
 
@@ -75,7 +75,7 @@ Blue residue gathers at a fresco’s final audible note after listeners remain t
 
 - **Wall Requiem:** Lament 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. Prolonged use causes involuntary weeping.
 - **Wall Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 4; 20 Echoes. It resists Lament while numbing minor joys.
-- **Wall Stone:** Tail Gift; 5%; +1 Clarity during source work. Remembered song calms nearby people; unfinished music follows the bearer near walls.
+- **Wall Stone:** Tail Stigma; 5%; +1 Clarity during source work. Remembered song calms nearby people; unfinished music follows the bearer near walls.
 
 ---
 

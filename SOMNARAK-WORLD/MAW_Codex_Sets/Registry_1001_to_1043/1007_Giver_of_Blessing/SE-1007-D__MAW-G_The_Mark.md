@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Mark
+# M.A.W. STIGMA — The Mark
 
 > *“The Mark remembers Giver of Blessing; the bearer must not mistake memory for permission.”*
 
@@ -24,11 +24,11 @@
 **Slot / Chance:** Hand / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** Each healing brings the bearer one step closer to the chain. After 12 healings, the Gift transforms. Continued use makes Giver of Blessing's source sorrow feel autobiographical.
+**Operational / binding cost:** Each healing brings the bearer one step closer to the chain. After 12 healings, the Stigma transforms. Continued use makes Giver of Blessing's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Stigma Record*
 
-The first The Mark field bearer encountered this source response: Observation reveals the current blessing count and the identities of marked personnel. Critical for monitoring the chain. The gift stays the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Mark field bearer encountered this source response: Observation reveals the current blessing count and the identities of marked personnel. Critical for monitoring the chain. The stigma stays the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Mark field bearer encountered this source response: Observation re
 
 ## SET RELATIONSHIP
 
-Within *Giver of Blessing — Witnessed Form*, The Mark performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Giver of Blessing — Witnessed Form*, The Mark performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

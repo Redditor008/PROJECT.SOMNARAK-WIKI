@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Repeated Line
+# M.A.W. STIGMA — The Repeated Line
 
 ---
 
@@ -17,7 +17,7 @@ A Head mark granted at **4%**: **δ Void; +3 Clarity.** It anticipates the next 
 | Field | Exact source record |
 |---|---|
 | Official name | The Repeated Line |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | δ |
 | Element | Void |
 | Appearance | A small earpiece that murmurs a single line on loop — never the same line twice for the same bearer. |
@@ -28,7 +28,7 @@ A Head mark granted at **4%**: **δ Void; +3 Clarity.** It anticipates the next 
 | Canonical ability | Granted at random by the entity upon a successful work; the bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations. |
 | Bearer cost | The bearer occasionally speaks a line they did not choose, in a voice not entirely their own. |
 
-**Incident — The Line Before the Door:** the Gift warned Marjuk that the survivor would say “You came back.” Marjuk answered with silence rather than the expected reply. The predicted scene ended because anticipation was used to refuse participation.
+**Incident — The Line Before the Door:** the Stigma warned Marjuk that the survivor would say “You came back.” Marjuk answered with silence rather than the expected reply. The predicted scene ended because anticipation was used to refuse participation.
 
 **Corrosion:** spontaneous speech feels wrong; predicted lines replace thought; terminal state makes the bearer a mouth for prior loops.  
 **Maintenance:** record every anticipated line and whether it was refused.  

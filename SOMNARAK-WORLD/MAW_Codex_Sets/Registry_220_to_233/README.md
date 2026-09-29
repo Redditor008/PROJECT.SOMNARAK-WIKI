@@ -14,7 +14,7 @@ This folder replaces the repeated-prose edition identified by Codex Repetition A
 
 ## Formal-ID Decisions
 
-No collision for `220`, `222`, `225`, `230`, or `233` is documented in the continuation handoff. Their formal numbers remain assigned to the entities listed above. Side / Weapon / Suit / Gift suffixes remain `-A` / `-B` / `-C` / `-D`.
+No collision for `220`, `222`, `225`, `230`, or `233` is documented in the continuation handoff. Their formal numbers remain assigned to the entities listed above. Side / Weapon / Suit / Stigma suffixes remain `-A` / `-B` / `-C` / `-D`.
 
 ## Current-Era Rule
 

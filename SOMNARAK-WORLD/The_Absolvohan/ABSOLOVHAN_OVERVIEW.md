@@ -167,7 +167,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
   - *Archive Sediment Fog:* Passive mental SP bleed in Floor 5 corridors requiring periodic Veil Mist ventilation.
   - *Crucible Heat Dissipation:* Extreme thermal radiation in Floor 6 corridors during high-intensity Ferrehan containment.
 - **Ordeal Incursions:** Emergence of **Third Watch** incursions (*Amber Third Watch*, *Crimson Third Watch*, *Violet Third Watch*, *Green Third Watch*). Coordinated multi-department suppression teams required.
-- **Specialist Cadre:** Emergence of Grade 4 Senior Containment Specialists. Equipping specialized Class III M.A.W. Gift sets.
+- **Specialist Cadre:** Emergence of Grade 4 Senior Containment Specialists. Equipping specialized Class III M.A.W. Stigma sets.
 
 ```text
 +==============================================+
@@ -231,7 +231,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 - **Daily Quota Range:** 20.000 metric tons scaling to 45.000 metric tons.
 - **Facility Integrity:** Total accumulated crystalline Han approaches supercritical density. Facility bulkheads vibrate with constant acoustic resonance.
 - **Ordeal Dynamics:** Multi-Watch Ordeals occur consecutively during single shifts (e.g. Second Watch followed immediately by Third Watch and Tide Watch).
-- **Elite Containment Specialists:** Full cadres of Grade 5 Specialists equipped with Sovereign-tier M.A.W. armaments and complete 8-slot anatomical gifts.
+- **Elite Containment Specialists:** Full cadres of Grade 5 Specialists equipped with Sovereign-tier M.A.W. armaments and complete 8-slot anatomical stigmas.
 
 ```text
 +==============================================+
@@ -288,7 +288,7 @@ Each operational day within the Absolvohan facility follows a strict three-phase
 | - Calculate Shift Grade (EX / S / A / B / C) |
 | - Distribute Reagent Yield & Stat Training   |
 | - Authorize Well Extraction Draft Choices    |
-| - Synthesize M.A.W. Weapons, Suits & Gifts   |
+| - Synthesize M.A.W. Weapons, Suits & Stigmas |
 | - Execute Nocturnal Sub-Vault Maintenance    |
 +==============================================+
 ```
@@ -842,12 +842,12 @@ M.A.W. Suits provide decimal damage multipliers against each aspect:
 - **1.2 to 1.5:** Vulnerability (Specialist takes 120%–150% incoming damage).
 - **2.0:** Critical Weakness (Specialist takes double damage; lethal risk).
 
-### 6.4 M.A.W. Equipment Architecture & The 8 Anatomical Gift Slots
-Each agent may equip one **M.A.W. Weapon (M.A.W.-W)**, one **M.A.W. Suit (M.A.W.-S)**, and up to **eight anatomical M.A.W. Gifts (M.A.W.-G)** earned through sustained successful work protocols:
+### 6.4 M.A.W. Equipment Architecture & The 8 Anatomical Stigma Slots
+Each agent may equip one **M.A.W. Weapon (M.A.W.-W)**, one **M.A.W. Suit (M.A.W.-S)**, and up to **eight anatomical M.A.W. Stigmas (M.A.W.-G)** earned through sustained successful work protocols:
 
 ```text
 +==============================================+
-| THE 8 ANATOMICAL M.A.W. GIFT SLOTS           |
+| THE 8 ANATOMICAL M.A.W. STIGMA SLOTS         |
 +==============================================+
 | SLOT ID   | ANATOMICAL LOC | TYPICAL BONUS   |
 +===========+================+=================+

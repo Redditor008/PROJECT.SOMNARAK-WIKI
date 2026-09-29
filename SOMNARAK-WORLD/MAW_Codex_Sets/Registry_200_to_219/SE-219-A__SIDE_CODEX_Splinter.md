@@ -67,7 +67,7 @@ Extraction occurs only after a released memory is witnessed to completion withou
 |---|---|---:|---|---|
 | Weapon | Splinter Requiem | δ | Carries released Lament through a piercing line. | `SE-219-B__MAW-W_Splinter_Requiem.md` |
 | Suit | Splinter Shroud | δ | Lets grief pass across the wearer without resealing it inside. | `SE-219-C__MAW-S_Splinter_Shroud.md` |
-| Gift | Splinter Pendant | δ | Stores one emotional attack as a memory for later witnessed release. | `SE-219-D__MAW-G_Splinter_Pendant.md` |
+| Stigma | Splinter Pendant | δ | Stores one emotional attack as a memory for later witnessed release. | `SE-219-D__MAW-G_Splinter_Pendant.md` |
 
 **Set cost:** The operator must permit grief to move. Hoarding a memory for power, suppressing the tears, or closing the channel early turns each piece into another sealed container.
 
@@ -77,7 +77,7 @@ Extraction occurs only after a released memory is witnessed to completion withou
 
 - **Splinter Requiem:** Lament 10–15; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 2; 50 Echoes. Prolonged use causes involuntary weeping with emotions not belonging to the wielder.
 - **Splinter Shroud:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 2; 45 Echoes. It resists Lament by keeping sorrow in motion, but minor joys become difficult to feel.
-- **Splinter Pendant:** Tail Gift; 4%; +3 Clarity during source work. It receives one emotional attack and stores it as a memory; unreleased grief enters the bearer’s dreams.
+- **Splinter Pendant:** Tail Stigma; 4%; +3 Clarity during source work. It receives one emotional attack and stores it as a memory; unreleased grief enters the bearer’s dreams.
 
 ---
 

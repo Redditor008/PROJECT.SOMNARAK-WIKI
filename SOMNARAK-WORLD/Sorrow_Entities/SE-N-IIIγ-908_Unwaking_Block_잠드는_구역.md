@@ -203,9 +203,9 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Cost:** The wearer carries Unwaking Block's grief into every quiet moment; small joys feel distant until the suit is removed.
 
-### M.A.W. Gift — Unwaking Block's Token
+### M.A.W. Stigma — Unwaking Block's Token
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
 **Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
@@ -217,7 +217,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

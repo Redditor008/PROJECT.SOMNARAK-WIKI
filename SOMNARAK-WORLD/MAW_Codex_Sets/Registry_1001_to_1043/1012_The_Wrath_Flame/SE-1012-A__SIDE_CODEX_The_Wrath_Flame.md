@@ -52,7 +52,7 @@ During the The The Wrath Flame Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies The Wrath Flame's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Bow or salute; acknowledge the war and the dead The set cannot heal the originating event. Misuse routes The Wrath Flame's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Wrath Flame's source condition, the Suit lets a witness bear its Grudge (Crimson) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Bow or salute; acknowledge the war and the dead The set cannot heal the originating event. Misuse routes The Wrath Flame's wound through the operator and triggers the recorded escalation.
 
 ---
 

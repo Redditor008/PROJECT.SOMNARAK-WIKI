@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Dawn of Charm
+# M.A.W. STIGMA — The Dawn of Charm
 
 > *“The Dawn of Charm remembers Dawn of Mourning; the bearer must not mistake memory for permission.”*
 
@@ -30,9 +30,9 @@ The Dawn of Charm is a small pale-glass pendant shaped like a folded flower, its
 
 **Operational / binding cost:** The bearer weeps in their sleep. Continued use makes Dawn of Mourning's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Stigma Record*
 
-The first The Dawn of Charm field bearer encountered this source response: Sees every hidden guilt in the observer. The gift isolates the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Dawn of Charm field bearer encountered this source response: Sees every hidden guilt in the observer. The stigma isolates the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first The Dawn of Charm field bearer encountered this source response: Sees 
 
 ## SET RELATIONSHIP
 
-Within *Dawn of Mourning — Witnessed Form*, The Dawn of Charm performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dawn of Mourning — Witnessed Form*, The Dawn of Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

@@ -203,7 +203,7 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 | Equipment Domain | Lobotomy Corporation (E.G.O) | Project Somnarak (M.A.W. Wear) | Updated Synthesis |
 |---|---|---|---|
 | **Full Name** | **Extermination of Geas / Manifestation of Ego** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
-| **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Gift**. | Standard extraction yields a 3-piece set for operatives. |
+| **Equipment Triad** | **Weapon**, **Suit**, and **Stigma**. | **Weapon**, **Suit**, and **Stigma**. | Standard extraction yields a 3-piece set for operatives. |
 | **Material Taxonomy** | Categorized primarily by Risk Grade (ZAYIN–ALEPH). | Categorized by **Five Material Weight Classes**: Primal Marrow, Tempered Brass, Resonant Alloy, Woven Thread, Void Glass. | Somnarak adds physical material weight and mobility modifiers. |
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Meltdown** — Gear fuses into the nervous system under Composure Load, turning operative into an Echo. | Overuse or sanity collapse results in irreversible entity fusion. |
 

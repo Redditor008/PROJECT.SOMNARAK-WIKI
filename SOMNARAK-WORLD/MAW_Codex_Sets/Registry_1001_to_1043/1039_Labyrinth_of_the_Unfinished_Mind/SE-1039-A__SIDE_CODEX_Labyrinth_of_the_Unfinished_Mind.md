@@ -52,7 +52,7 @@ During the The Labyrinth of the Unfinished Mind Source-Trace, the field team pre
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Labyrinth of the Unfinished Mind's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Labyrinth of the Unfinished Mind's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Labyrinth of the Unfinished Mind's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Labyrinth of the Unfinished Mind's wound through the operator and triggers the recorded escalation.
 
 ---
 

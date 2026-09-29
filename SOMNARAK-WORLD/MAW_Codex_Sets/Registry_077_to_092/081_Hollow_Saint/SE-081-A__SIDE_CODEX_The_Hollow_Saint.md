@@ -87,7 +87,7 @@ These pieces are not instruments for removing difficult people from difficult fe
 |---|---|---:|---|---|---|
 | Weapon | The Hollow Lens | γ | Void | Piercing interruption of identity pressure | `SE-081-B__MAW-W_The_Hollow_Lens.md` |
 | Suit | The Hollow Veil | γ | Void | Protection that depends on retaining self-definition | `SE-081-C__MAW-S_The_Hollow_Veil.md` |
-| Gift | The Hollow Chalice | γ | Void | Conditional removal of a named sorrow | `SE-081-D__MAW-G_The_Hollow_Chalice.md` |
+| Stigma | The Hollow Chalice | γ | Void | Conditional removal of a named sorrow | `SE-081-D__MAW-G_The_Hollow_Chalice.md` |
 
 ---
 
@@ -123,9 +123,9 @@ These pieces are not instruments for removing difficult people from difficult fe
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Hollow Chalice
+### M.A.W. Stigma — The Hollow Chalice
 
 | Field | Record |
 |---|---|

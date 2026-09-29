@@ -56,7 +56,7 @@ Crossing the old line feels heavy even when the road is clear. The source grows 
 |---|---:|---|---|---|
 | Weapon | The Wall’s Maul | δ | Weight | `SE-193-B__MAW-W_The_Walls_Maul.md` |
 | Suit | The Wall’s Absence | δ | Weight | `SE-193-C__MAW-S_The_Walls_Absence.md` |
-| Gift | The Wall’s Charm | δ | Weight | `SE-193-D__MAW-G_The_Walls_Charm.md` |
+| Stigma | The Wall’s Charm | δ | Weight | `SE-193-D__MAW-G_The_Walls_Charm.md` |
 
 ---
 
@@ -64,7 +64,7 @@ Crossing the old line feels heavy even when the road is clear. The source grows 
 
 - **Wall’s Maul:** Weight 10–15; Speed 3; Range 3; Pierce; 2 maximum; 50 Echoes. Breaks a current division-pressure field without declaring reunion.
 - **Wall’s Absence:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; 2 maximum; 45 Echoes. Creates a temporary boundary against hostile force; bearer feels everyone held outside it.
-- **Wall’s Charm:** Head Gift; 4%; +3 source-work. Identifies an invisible inherited barrier; cost is slowed movement under its history.
+- **Wall’s Charm:** Head Stigma; 4%; +3 source-work. Identifies an invisible inherited barrier; cost is slowed movement under its history.
 
 ---
 

@@ -169,7 +169,7 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift. (Extracted only from the residual resonance of the historical transformation; the Sovereign has never been worked directly.)
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. (Extracted only from the residual resonance of the historical transformation; the Sovereign has never been worked directly.)
 
 ### M.A.W. Weapon — The Fourfold Fang
 
@@ -203,9 +203,9 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 **Cost:** The wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element.
 
-### M.A.W. Gift — The Mismatched Eye
+### M.A.W. Stigma — The Mismatched Eye
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Mixed
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Mixed
 
 **Appearance:** A paired cabochon — one half black, one half soft-glowing white — set so that one eye seems dark and the other lit, regardless of the light.
 **Slot:** Head
@@ -216,11 +216,11 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 **Cost:** The bearer dreams, nightly, of being two things at once — and wakes uncertain, for a moment, which one they are.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment — and each is drawn from resonance, never from direct work, for the Sovereign is not worked, only remembered. The listed benefit is strongest when the operator holds the four sorrows in balance rather than favouring one; forcing a piece toward a single element unbalances it and amplifies the cost. The Gift is granted at random (and rarely), not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment — and each is drawn from resonance, never from direct work, for the Sovereign is not worked, only remembered. The listed benefit is strongest when the operator holds the four sorrows in balance rather than favouring one; forcing a piece toward a single element unbalances it and amplifies the cost. The Stigma is granted at random (and rarely), not manufactured.
 
 ### Field Use Record
 

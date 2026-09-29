@@ -58,7 +58,7 @@ The current post-Cycle Birds can harmonize. This does not remove the historical 
 |---|---|---|---|---|---|
 | **Weapon** | The Watcher's Unblinking Eye | γ | Lament | Piercing Lament strike that records wrongdoing | `SE-031-B__MAW-W_The_Witness_Requiem.md` |
 | **Suit** | The Feathered Shroud of Scrutiny | γ | Lament | Protects against observed grief while making the bearer visible to truth | `SE-031-C__MAW-S_The_Witness_Shroud.md` |
-| **Gift** | The Third Sclera | γ | Lament | Reveals sorrow embedded in an observed object or act | `SE-031-D__MAW-G_The_Witness_Eye.md` |
+| **Stigma** | The Third Sclera | γ | Lament | Reveals sorrow embedded in an observed object or act | `SE-031-D__MAW-G_The_Witness_Eye.md` |
 
 ### Set Resonance — No Blind Spot
 

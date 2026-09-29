@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Piercing Briar Coronet
+# M.A.W. STIGMA — The Piercing Briar Coronet
 
 > *“It turns pain into a fence. The bearer must tell trusted people where the gate is.”*
 
@@ -33,7 +33,7 @@
 | Acquisition probability | 4% after successful Briar work |
 | Bestowal event | The Crown appeared after a worker acknowledged a memorial injury and left every flower uncut. |
 | Acceptance condition | The candidate names the difference between a defensive boundary and a punishment. |
-| Source intent | Gift bestowal; it does not make emotional pain a weapon by default. |
+| Source intent | Stigma bestowal; it does not make emotional pain a weapon by default. |
 
 **Binding requirement:** The bearer informs team members of the Crown’s proximity risk and sets a safe approach word.
 
@@ -45,7 +45,7 @@ Appearance : A circular brow circlet fashioned from three entwined strands of bl
 
 The sharp metallic thorns prick the forehead upon activation, channeling a steady pulse of painful alertness that sharpens tactical focus. The constant minor ache grants the bearer complete immunity to confusion, trance, and sleep inducements.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -84,7 +84,7 @@ Park used the Crown after an aggressive confrontation in the Gardens left them t
 
 ## SET RELATIONSHIP
 
-The Crown is the proximity warning of *Named Thorn*. Fang gives the boundary force and Plate keeps a gap; this Gift forces the bearer to declare whether they want defense, isolation, or both.
+The Crown is the proximity warning of *Named Thorn*. Fang gives the boundary force and Plate keeps a gap; this Stigma forces the bearer to declare whether they want defense, isolation, or both.
 
 > *“The thorns are honest. They hurt because the boundary was real.”* — Researcher Euncris Park
 

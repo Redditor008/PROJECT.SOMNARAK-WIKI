@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Floating Dream Catcher Orb
+# M.A.W. STIGMA — The Floating Dream Catcher Orb
 
 > *“It opens a controlled dream door. Every time it does, waking life loses one sharp edge.”*
 
@@ -33,7 +33,7 @@
 | Acquisition probability | 5% after successful Rem work |
 | Bestowal event | A Warm Shard formed when Sora woke from an incomplete Dream on the first cue and did not demand to see its ending. |
 | Acceptance condition | The candidate selects a waking anchor, a duration, and a current-world reason to return. |
-| Source intent | Gift bestowal; no shard is used to preserve a dream forever or to avoid a present obligation. |
+| Source intent | Stigma bestowal; no shard is used to preserve a dream forever or to avoid a present obligation. |
 
 **Binding requirement:** The bearer accepts an anchor’s authority to end the Dream entry even when the Dream feels unfinished.
 
@@ -45,7 +45,7 @@ Appearance : A thumb-sized sphere of milky amethyst glass that floats untethered
 
 Tiny luminescent silver dream flecks drift inside the floating orb like falling stars, spinning faster when mental attacks enter the chamber. The orb absorbs up to five points of incoming psychological erosion each engagement round.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -70,7 +70,7 @@ The Shard senses nearby Dream-layer instability by warming at the tail slot. It 
 
 ## HISTORY OF USE
 
-Sora used the Shard to enter a Dream fragment containing a lost market song. The cue returned Sora on time, but the next morning Sora could not remember the smell of the actual Dream Gate corridor. A colleague walked the corridor with Sora and described it aloud; some detail returned. The loss was treated as the Gift’s cost, not as proof the Dream had been more valuable than waking memory.
+Sora used the Shard to enter a Dream fragment containing a lost market song. The cue returned Sora on time, but the next morning Sora could not remember the smell of the actual Dream Gate corridor. A colleague walked the corridor with Sora and described it aloud; some detail returned. The loss was treated as the Stigma’s cost, not as proof the Dream had been more valuable than waking memory.
 
 ## CORROSION, MAINTENANCE & SHUTDOWN
 
@@ -84,7 +84,7 @@ Sora used the Shard to enter a Dream fragment containing a lost market song. The
 
 ## SET RELATIONSHIP
 
-The Shard is the entry permission of *Wake Together*. Warm Requiem follows the cue and Warm Shroud protects the body; this Gift makes every Dream approach answerable to a waking return.
+The Shard is the entry permission of *Wake Together*. Warm Requiem follows the cue and Warm Shroud protects the body; this Stigma makes every Dream approach answerable to a waking return.
 
 > *“A beautiful dream is not betrayed when you wake. You are simply choosing to bring its meaning back with you.”* — Dreamer Sora
 

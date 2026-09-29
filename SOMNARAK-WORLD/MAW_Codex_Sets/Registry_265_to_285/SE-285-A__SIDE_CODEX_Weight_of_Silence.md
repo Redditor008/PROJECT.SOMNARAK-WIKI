@@ -66,9 +66,9 @@ An echo forms after one affected person speaks voluntarily—or chooses not to�
 |---|---|---:|---|---|
 | Weapon | The Silence Maul | α | Gives one voluntarily released word enough Weight to break an obstruction. | `SE-285-B__MAW-W_The_Silence_Maul.md` |
 | Suit | The Silence Mantle | α | Creates a low-pressure quiet space where speech is optional. | `SE-285-C__MAW-S_The_Silence_Mantle.md` |
-| Gift | The Silence Weight | α | Blocks external noise while revealing the presence—not content—of unspoken words. | `SE-285-D__MAW-G_The_Silence_Weight.md` |
+| Stigma | The Silence Weight | α | Blocks external noise while revealing the presence—not content—of unspoken words. | `SE-285-D__MAW-G_The_Silence_Weight.md` |
 
-**Set cost:** The wielder grows heavy and ages slightly, the wearer remains fatigued, and the Gift bearer feels every nearby unspoken word.
+**Set cost:** The wielder grows heavy and ages slightly, the wearer remains fatigued, and the Stigma bearer feels every nearby unspoken word.
 
 ---
 
@@ -76,7 +76,7 @@ An echo forms after one affected person speaks voluntarily—or chooses not to�
 
 - **Silence Maul:** Weight 3–6; Speed 2; Range 2; Single; maximum 5; 15 Echoes. Prolonged use adds heaviness and age.
 - **Silence Mantle:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 5; 10 Echoes. It resists Weight under constant fatigue.
-- **Silence Weight:** Head Gift; 5%; +1 Resolve during source work. It blocks external sound; the bearer feels every unspoken word nearby.
+- **Silence Weight:** Head Stigma; 5%; +1 Resolve during source work. It blocks external sound; the bearer feels every unspoken word nearby.
 
 ---
 
@@ -84,7 +84,7 @@ An echo forms after one affected person speaks voluntarily—or chooses not to�
 
 ### *Speech Offered, Not Extracted*
 
-**Condition:** Gift marks that unspoken burden is present without revealing content, Mantle creates optional quiet, and Maul remains grounded until a person voluntarily releases one word.
+**Condition:** Stigma marks that unspoken burden is present without revealing content, Mantle creates optional quiet, and Maul remains grounded until a person voluntarily releases one word.
 
 **Effect:** The word can break one immediate obstruction—door, panic lock, or crushing silence—without compelling the rest of the account.
 

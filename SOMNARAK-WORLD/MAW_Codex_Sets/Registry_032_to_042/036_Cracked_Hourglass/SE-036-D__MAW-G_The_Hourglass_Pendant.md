@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Micro-Hourglass Choker
+# M.A.W. STIGMA — The Micro-Hourglass Choker
 
 > *“It grants one brief pause, then asks the bearer which future second they were willing to lose for it.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — cracked pendant |
+| Type | Accessory (Stigma) — cracked pendant |
 | Grade | β — Moderate |
 | Element | Weight — Black |
 | Slot | Head |

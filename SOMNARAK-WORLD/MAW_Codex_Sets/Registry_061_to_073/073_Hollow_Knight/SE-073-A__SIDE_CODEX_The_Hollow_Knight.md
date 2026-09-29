@@ -58,7 +58,7 @@ Salute the duty, identify the sacrifice, and assign a completed task with a clea
 |---|---|---|---|---|---|
 | Weapon | The Duty Fang | γ | Grudge | Piercing duty-bound response | `SE-073-B__MAW-W_The_Duty_Fang.md` |
 | Suit | The Duty Plate | γ | Grudge | Defensive discipline with retreat resistance | `SE-073-C__MAW-S_The_Duty_Plate.md` |
-| Gift | The Duty Shield | γ | Grudge | Intercepts harm to protected others | `SE-073-D__MAW-G_The_Duty_Shield.md` |
+| Stigma | The Duty Shield | γ | Grudge | Intercepts harm to protected others | `SE-073-D__MAW-G_The_Duty_Shield.md` |
 
 ### Set Resonance — Relieved Watch
 

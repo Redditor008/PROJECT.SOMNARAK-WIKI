@@ -52,7 +52,7 @@ During the The Screaming Masonry Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Screaming Masonry's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Acknowledge duties without accepting impossible blame The set cannot heal the originating event. Misuse routes Screaming Masonry's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Screaming Masonry's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Acknowledge duties without accepting impossible blame The set cannot heal the originating event. Misuse routes Screaming Masonry's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Neglect Learned to Listen's Bell
+# M.A.W. STIGMA — Neglect Learned to Listen's Bell
 
 > *“Neglect Learned to Listen's Bell remembers Neglect Learned to Listen; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The user hears every message that fails to arrive. Continued use makes Neglect Learned to Listen's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Stigma Record*
 
-The first Neglect Learned to Listen's Bell field bearer encountered this source response: Reveals what the city discarded. The gift redirects the immediate hazard only after the team attributed it to Neglect Learned to Listen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neglect Learned to Listen's Bell field bearer encountered this source response: Reveals what the city discarded. The stigma redirects the immediate hazard only after the team attributed it to Neglect Learned to Listen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Neglect Learned to Listen's Bell field bearer encountered this source 
 
 ## SET RELATIONSHIP
 
-Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Bell performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Bell performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

@@ -230,7 +230,7 @@ Upon achieving terminal Composure Meltdown against `SE-C-IVδ-195`, the Reverie 
 +---------------------------------------------------------------------+
 | The Sorrow Lens     | Weapon | Gr 5  | Fatal Void Optical Beam      |
 | The Sorrow Veil     | Suit   | Gr 5  | High Void / Mnemonic Ward    |
-| The Sorrow Monocle  | Gift   | Gr 5  | +25 Clarity / Introspection  |
+| The Sorrow Monocle  | Stigma   | Gr 5  | +25 Clarity / Introspection|
 | The Mirror GlassMask| Relic  | Gr 5  | Reflects 20% Damage Taken    |
 +=====================================================================+
 ```
@@ -245,7 +245,7 @@ Upon achieving terminal Composure Meltdown against `SE-C-IVδ-195`, the Reverie 
   * **Classification:** Grade 5 Legendary Mnemonic Shroud
   * **Defensive Resistances:** Void 0.4x (Immune) • Lament 0.6x • Grudge 1.0x • Weight 1.2x
   * **Resonance Passive (Mirror Shroud):** Grants the wearer +20 Clarity. When targeted by an enemy gaze or acoustic skill, reflects 25% of the Composure drain back to the attacker.
-- **Gift: The Sorrow Monocle (`MAW-G-195`)**
+- **Stigma: The Sorrow Monocle (`MAW-G-195`)**
   * **Classification:** Grade 5 Legendary Accessory (Ocular Glass)
   * **Equip Effect:** +25 Max Clarity • +20 Max Composure.
   * **Resonance Passive:** The wearer is completely immune to confusion, identity dissociation, and fear debuffs.

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Eleven Fifty-Nine's Token
+# M.A.W. STIGMA — Eleven Fifty-Nine's Token
 
 > *“Eleven Fifty-Nine's Token remembers Eleven Fifty-Nine; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Eleven Fifty-Nine's Token is the gift record of the Eleven Fifty-Nine set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's lament sorrow, crystallized into wearable form, one unmoved minute carried against the temple. Binding names Eleven Fifty-Nine's event — Not recorded, the countdown archived without its zero — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives in sleep: the bearer dreams in tears drawn from Eleven Fifty-Nine's sorrow and wakes with another person's grief still present, mourning delivered a minute before it was due. The source-trace fixed doctrine: the manifestation permits study, its lament pressure becoming legible under sustained observation, and the Token marks the hazard only after attribution to Eleven Fifty-Nine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Eleven Fifty-Nine's Token is the stigma record of the Eleven Fifty-Nine set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's lament sorrow, crystallized into wearable form, one unmoved minute carried against the temple. Binding names Eleven Fifty-Nine's event — Not recorded, the countdown archived without its zero — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives in sleep: the bearer dreams in tears drawn from Eleven Fifty-Nine's sorrow and wakes with another person's grief still present, mourning delivered a minute before it was due. The source-trace fixed doctrine: the manifestation permits study, its lament pressure becoming legible under sustained observation, and the Token marks the hazard only after attribution to Eleven Fifty-Nine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ Eleven Fifty-Nine's Token is the gift record of the Eleven Fifty-Nine set — he
 
 **Operational / binding cost:** The bearer dreams in tears drawn from Eleven Fifty-Nine's sorrow and wakes with another person's grief still present. Continued use makes Eleven Fifty-Nine's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Eleven Fifty Nine Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Eleven Fifty Nine Source-Trace: Stigma Record*
 
-The first Eleven Fifty-Nine's Token field bearer encountered this source response: Permits study; the lament pressure becomes legible under sustained observation. The gift marks the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Eleven Fifty-Nine's Token field bearer encountered this source response: Permits study; the lament pressure becomes legible under sustained observation. The stigma marks the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Eleven Fifty-Nine's Token field bearer encountered this source respons
 
 ## SET RELATIONSHIP
 
-Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Token performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

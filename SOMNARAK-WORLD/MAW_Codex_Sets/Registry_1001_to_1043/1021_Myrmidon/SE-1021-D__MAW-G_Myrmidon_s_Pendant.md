@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Myrmidon's Pendant
+# M.A.W. STIGMA — Myrmidon's Pendant
 
 > *“Myrmidon's Pendant remembers Myrmidon; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer feels every divided loyalty as personal pain. Continued use makes Myrmidon's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Stigma Record*
 
-The first Myrmidon's Pendant field bearer encountered this source response: Reveals the betrayal that split its identity. The gift opens the immediate hazard only after the team attributed it to Myrmidon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Myrmidon's Pendant field bearer encountered this source response: Reveals the betrayal that split its identity. The stigma opens the immediate hazard only after the team attributed it to Myrmidon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Myrmidon's Pendant field bearer encountered this source response: Reve
 
 ## SET RELATIONSHIP
 
-Within *Myrmidon — Witnessed Form*, Myrmidon's Pendant performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Myrmidon — Witnessed Form*, Myrmidon's Pendant performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

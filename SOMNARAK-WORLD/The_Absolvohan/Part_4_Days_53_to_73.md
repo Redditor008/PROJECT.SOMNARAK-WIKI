@@ -2044,7 +2044,7 @@ Total daily harvest reaches **0.210 / 0.200 tons**! Quota surpassed!
 | | Range Band 1 | 2 AP | Inflicts Seismic Pin                        |
 | Vent Mantlet Shroud | Suit: Heavy Armor (Speed Delta -1)            |
 | | Resist: 0.5 Grudge / 0.8 Lament / 0.5 Weig                        |
-| Molten Crest Gift | Head Slot: +10 HP, +10% Tremor Resistance       |
+| Molten Crest Stigma | Head Slot: +10 HP, +10% Tremor Resistance     |
 +---------------------------------------------------------------------+
 | EQUIPMENT ALLOCATION                                                |
 |   | BESTOWED UPON VANGUARD XYAN (GATE WATCH LEAD)                   |
@@ -2477,7 +2477,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | Forge-Master's      | Suit: 0.5/0.7/0.7/1.1                         |
 | Plate               | | High Grudge Ward                            |
 +---------------------------------------------------------------------+
-| Molten Heart Gift   | Chest: +8 Resilience,                         |
+| Molten Heart Stigma   | Chest: +8 Resilience,                       |
 | | +5% Physical Damage                                               |
 +---------------------------------------------------------------------+
 | Allocation          | ASSIGNED TO SPECIALIST BAE                    |
@@ -2485,7 +2485,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 +---------------------------------------------------------------------+
 ```
 
-Specialist Bae equips the *Crucible War-Hammer* and *Molten Heart* gift, turning her into an unstoppable frontline juggernaut.
+Specialist Bae equips the *Crucible War-Hammer* and *Molten Heart* stigma, turning her into an unstoppable frontline juggernaut.
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 

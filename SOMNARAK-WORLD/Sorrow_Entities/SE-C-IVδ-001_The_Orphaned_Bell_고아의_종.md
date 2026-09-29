@@ -274,7 +274,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The First Dawn Stiletto
 
@@ -317,9 +317,9 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — Lament's Edge
+### M.A.W. Stigma — Lament's Edge
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
 **Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 
@@ -331,11 +331,11 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Cost:** The wielder hears the bell constantly. Prolonged use produces memory gaps.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and the entity's sorrow within the equipment may activate. and may produce an effect tied to the entity's element. The Gift is the entity's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and the entity's sorrow within the equipment may activate. and may produce an effect tied to the entity's element. The Stigma is the entity's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

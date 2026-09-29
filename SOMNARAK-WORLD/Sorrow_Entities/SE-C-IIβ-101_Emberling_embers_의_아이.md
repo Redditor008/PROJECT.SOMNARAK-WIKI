@@ -174,7 +174,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Cinder-Breech Carbine
 
@@ -220,7 +220,7 @@ The lower hem is singed into permanent glowing charcoal edges that never burn th
 
 **Cost:** The cloak constantly leaves soot marks on hands and gear.
 
-### M.A.W. Gift — The Smoldering Charcoal Brooch
+### M.A.W. Stigma — The Smoldering Charcoal Brooch
 
 **Category:** Stigma (Neck / Collar Smoldering Coal Setting)
 **Grade:** β | **Element:** Lament
@@ -237,11 +237,11 @@ A dormant orange ember pulses deep within the fractured black mineral, glowing b
 
 **Cost:** The skin beneath the brooch becomes warm and faintly discolored by fine ash.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Gift — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

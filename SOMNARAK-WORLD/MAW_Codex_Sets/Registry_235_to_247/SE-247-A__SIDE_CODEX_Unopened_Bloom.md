@@ -66,7 +66,7 @@ An echo forms only after the source closes its petals during Flerehan or Ferreha
 |---|---|---:|---|---|
 | Weapon | Unopened Bloom Sword | α | Heals one minor wound through flat contact while making loving touch dangerous. | `SE-247-B__MAW-W_Unopened_Bloom_Sword.md` |
 | Suit | Unopened Bloom Plate | α | Resists Crimson pressure around damaged memorials. | `SE-247-C__MAW-S_Unopened_Bloom_Plate.md` |
-| Gift | Unopened Bloom Charm | α | Distinguishes the original tear from later damage or attempted repair. | `SE-247-D__MAW-G_Unopened_Bloom_Charm.md` |
+| Stigma | Unopened Bloom Charm | α | Distinguishes the original tear from later damage or attempted repair. | `SE-247-D__MAW-G_Unopened_Bloom_Charm.md` |
 
 **Set cost:** Reflexes dull, temper shortens, and the Sword makes the wielder’s touch harmful to loved ones. Repairing the source tear activates the full cost at once.
 
@@ -76,7 +76,7 @@ An echo forms only after the source closes its petals during Flerehan or Ferreha
 
 - **Bloom Sword:** Grudge 3–6; Speed 2; Range 2; Single; maximum 5; 15 Echoes. Flat contact heals minor wounds; the wielder’s touch harms loved ones.
 - **Bloom Plate:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; maximum 5; 10 Echoes. It resists Grudge while dulling reflexes.
-- **Bloom Charm:** Tail Gift; 5%; +1 Resilience during source work. It marks the first tear; the bearer’s temper shortens around cosmetic repair.
+- **Bloom Charm:** Tail Stigma; 5%; +1 Resilience during source work. It marks the first tear; the bearer’s temper shortens around cosmetic repair.
 
 ---
 

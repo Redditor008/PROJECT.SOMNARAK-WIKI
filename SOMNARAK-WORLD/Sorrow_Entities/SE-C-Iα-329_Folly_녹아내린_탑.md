@@ -204,7 +204,7 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Melting Lens
 
@@ -245,9 +245,9 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Cost:** The wearer feels faintly absent to themselves.
 
-### M.A.W. Gift — The Melting Brick
+### M.A.W. Stigma — The Melting Brick
 
-**Type:** Accessory (Gift) | **Grade:** α | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
 **Appearance:** a brick-tile of pale Han-glass, near-translucent and almost colourless, warm to the touch.
 
@@ -259,11 +259,11 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Cost:** The user feels every future that structure could have held.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Gifts appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

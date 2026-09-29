@@ -181,7 +181,7 @@ The gauge response is only meaningful in context. The Soot Fry is recorded as a 
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Still Current
 
@@ -215,9 +215,9 @@ The gauge response is only meaningful in context. The Soot Fry is recorded as a 
 
 **Cost:** The wearer grows still and quiet, unwilling to make waves — in conversation, in motion, in mood.
 
-### M.A.W. Gift — The Black Drop
+### M.A.W. Stigma — The Black Drop
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
 **Appearance:** A single bead of solid black water the size of a tear, suspended on a fine chain; it trembles when still water is near, and goes cold when something hungers beneath it.
 **Slot:** Hand
@@ -228,11 +228,11 @@ The gauge response is only meaningful in context. The Soot Fry is recorded as a 
 
 **Cost:** The bearer feels, now and then, an inexplicable thirst that drinking does not quench.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — patience, stillness, the refusal to reach blindly into what looks small; forcing a piece toward reckless aggression amplifies the cost and may trigger an echo of the source entity's bottomless hunger. The Gift is granted at random by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — patience, stillness, the refusal to reach blindly into what looks small; forcing a piece toward reckless aggression amplifies the cost and may trigger an echo of the source entity's bottomless hunger. The Stigma is granted at random by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

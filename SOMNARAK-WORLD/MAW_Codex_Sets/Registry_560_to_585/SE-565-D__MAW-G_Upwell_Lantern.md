@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Upwell Lantern
+# M.A.W. STIGMA — Upwell Lantern
 
 > *“It shows every hollow beneath your feet, and every rescue you still wish had been hidden there.”*
 
@@ -29,7 +29,7 @@ A tiny crimson Han-iron lantern hangs at the Tail slot. It has no flame; confirm
 
 ## Appearance
 
-The Upwell Lantern is a tiny crimson lantern of Han iron hung at the tail slot — it has no flame at all: confirmed hidden spaces glow in its glass as clean interior contours, while remembered failed rescues appear as wavering figures. Upwell grants it after successful work; it cannot be manufactured. Its Understructure Light reveals cavities, collapsed passages, and concealed structural spaces beneath or behind a surface — a living signal produces a steady contour only when independently verified, and the Lantern cannot locate a soul, memory, or phantasmal voice. The hidden condition is merciless: if the bearer names a dead person as the current target, the item supplies a convincing route assembled from every place that person was not found. In its recorded case a bearer raised it over a corridor where his sister’s name was calling — the floor stayed blank, but three earlier search sites overlapped in the glass, and he mistook their overlap for a route until a colleague rotated the Gift toward open air and the false route stayed in the glass rather than the ground, proving it belonged to his grief. A blank reading is now treated as active safety information, never equipment failure.
+The Upwell Lantern is a tiny crimson lantern of Han iron hung at the tail slot — it has no flame at all: confirmed hidden spaces glow in its glass as clean interior contours, while remembered failed rescues appear as wavering figures. Upwell grants it after successful work; it cannot be manufactured. Its Understructure Light reveals cavities, collapsed passages, and concealed structural spaces beneath or behind a surface — a living signal produces a steady contour only when independently verified, and the Lantern cannot locate a soul, memory, or phantasmal voice. The hidden condition is merciless: if the bearer names a dead person as the current target, the item supplies a convincing route assembled from every place that person was not found. In its recorded case a bearer raised it over a corridor where his sister’s name was calling — the floor stayed blank, but three earlier search sites overlapped in the glass, and he mistook their overlap for a route until a colleague rotated the Stigma toward open air and the false route stayed in the glass rather than the ground, proving it belonged to his grief. A blank reading is now treated as active safety information, never equipment failure.
 
 ## EFFECT & HIDDEN CONDITION
 
@@ -39,7 +39,7 @@ If the bearer names a dead person as the current target, the item supplies a con
 
 ## ITEM HISTORY — NO CAVITY
 
-Upwell bestowed the first Lantern on Hanul after he left the source rim. During the Three-Rim Transformation he raised it over the corridor where his sister’s name was calling. The floor stayed blank. In the lantern glass, however, he saw three earlier search sites and mistook their overlap for a route. Dreamer Sora rotated the Gift toward open air; the false route remained in the glass rather than the ground, proving it belonged to the bearer’s grief.
+Upwell bestowed the first Lantern on Hanul after he left the source rim. During the Three-Rim Transformation he raised it over the corridor where his sister’s name was calling. The floor stayed blank. In the lantern glass, however, he saw three earlier search sites and mistook their overlap for a route. Dreamer Sora rotated the Stigma toward open air; the false route remained in the glass rather than the ground, proving it belonged to the bearer’s grief.
 
 A blank reading is now treated as active safety information, never equipment failure.
 

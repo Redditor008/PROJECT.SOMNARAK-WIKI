@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Binding Chain
+# M.A.W. STIGMA — The Binding Chain
 
 > *“It shows the links between people. It makes the wearer feel every link, which is why no one should map a group without consent.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Binding Chain |
 | Set | Named Obligation |
-| Type / grade / element | Gift, black link charm / β — Moderate / Weight — Black |
+| Type / grade / element | Stigma, black link charm / β — Moderate / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; group-consent use only |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 5% after successful Debt Chain work |
 | Bestowal event | The Binding Chain appeared after a custodied review separated one family’s obligation from an incorrectly merged link. |
 | Acceptance condition | The candidate states a group-consent procedure and a custody plan for every observed connection. |
-| Source intent | Gift bestowal; it is not a surveillance device or a shortcut to judging group responsibility. |
+| Source intent | Stigma bestowal; it is not a surveillance device or a shortcut to judging group responsibility. |
 
 **Binding requirement:** Every person whose debt connection will be observed gives informed consent or has explicit Archive/oversight authority protecting their absent interests.
 
@@ -41,9 +41,9 @@
 
 ## Appearance
 
-The Binding Chain is a single open black chain link that closes only in reflection. It shows no connection for anyone who has not consented to the mapping. In active use fine dark lines extend between consenting people whose obligations affect one another. At full activation, the charm reveals debt connections across the group and highlights one shared pressure that needs review. Every person whose debt connection will be observed gives informed consent or has explicit Archive/oversight authority protecting their absent interests. It carries no Echo cost, but emotional link Weight accumulates per observation. The charm is stored open in a privacy case, never attached to a public ledger. A bearer who maps people secretly feels each hidden link as a physical Weight around the neck until the charm is removed and the breach is reported. The custodian covers the link, names the closure condition, and removes the Gift during shutdown.
+The Binding Chain is a single open black chain link that closes only in reflection. It shows no connection for anyone who has not consented to the mapping. In active use fine dark lines extend between consenting people whose obligations affect one another. At full activation, the charm reveals debt connections across the group and highlights one shared pressure that needs review. Every person whose debt connection will be observed gives informed consent or has explicit Archive/oversight authority protecting their absent interests. It carries no Echo cost, but emotional link Weight accumulates per observation. The charm is stored open in a privacy case, never attached to a public ledger. A bearer who maps people secretly feels each hidden link as a physical Weight around the neck until the charm is removed and the breach is reported. The custodian covers the link, names the closure condition, and removes the Stigma during shutdown.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -57,7 +57,7 @@ The Binding Chain is a single open black chain link that closes only in reflecti
 
 ### Passive effect — *Open Link*
 
-The Gift detects when a nearby obligation affects more than one consenting person, without deciding who deserves burden or relief.
+The Stigma detects when a nearby obligation affects more than one consenting person, without deciding who deserves burden or relief.
 
 ### Active effect — *Map the Chain*
 
@@ -74,15 +74,15 @@ Park used the Chain during a family debt review with consent from all present ad
 
 - The open link starts closing when consent becomes assumed rather than renewed.
 - New lines appear around unrelated people when the bearer is carrying maps too long.
-- A fully closed link means the Gift has become an unauthorized control field.
+- A fully closed link means the Stigma has become an unauthorized control field.
 
 **Maintenance:** Bearer and custodian verify consent, purpose, access limit, and closure condition before and after use. The charm is stored open in a privacy case, never attached to a public ledger.
 
-**Emergency shutdown:** The custodian covers the link, names the closure condition, and removes the Gift. Breaking it causes every mapped obligation to return as a single crushing Weight sensation.
+**Emergency shutdown:** The custodian covers the link, names the closure condition, and removes the Stigma. Breaking it causes every mapped obligation to return as a single crushing Weight sensation.
 
 ## SET RELATIONSHIP
 
-The Binding Chain completes *See the Links*. Maul separates coercive pressure and Mantle protects the reviewer; this Gift makes group patterns visible without making anyone into a hidden ledger entry.
+The Binding Chain completes *See the Links*. Maul separates coercive pressure and Mantle protects the reviewer; this Stigma makes group patterns visible without making anyone into a hidden ledger entry.
 
 > *“A connection map is care only if the people mapped retain a say in what happens next.”* — Auditor Yuna
 

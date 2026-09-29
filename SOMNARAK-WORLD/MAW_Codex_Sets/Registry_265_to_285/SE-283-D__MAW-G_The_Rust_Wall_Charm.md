@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Rust Wall Charm
+# M.A.W. STIGMA — The Rust Wall Charm
 
 > *“It points to the side the ‘neutral’ report forgot to name.”*
 

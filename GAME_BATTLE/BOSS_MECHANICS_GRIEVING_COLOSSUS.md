@@ -232,7 +232,7 @@ Upon achieving terminal Composure Meltdown against `SE-C-Vδ-002`, the Reverie D
 +---------------------------------------------------------------------+
 | The Mourning Maul   | Weapon | Gr 5  | Fatal Weight Crushing Blow   |
 | The Mourning Mantle | Suit   | Gr 5  | High Weight / Han Hardening  |
-| The Mourning Shell  | Gift   | Gr 5  | +20% Desolation Resistance   |
+| The Mourning Shell  | Stigma   | Gr 5  | +20% Desolation Resistance |
 | The Mourning Band   | Relic  | Gr 5  | Sovereign Tear Condensation  |
 +=====================================================================+
 ```
@@ -247,7 +247,7 @@ Upon achieving terminal Composure Meltdown against `SE-C-Vδ-002`, the Reverie D
   * **Classification:** Grade 5 Legendary Heavy Bastion Armor
   * **Defensive Resistances:** Weight 0.3x (Immune) • Lament 0.6x • Grudge 0.8x • Void 1.2x
   * **Resonance Passive (Granite Composure):** Reduces incoming Composure drain by 40%. The wearer cannot be knocked back or displaced while standing on solid stone nodes.
-- **Gift: The Mourning Shell (`MAW-G-002`)**
+- **Stigma: The Mourning Shell (`MAW-G-002`)**
   * **Classification:** Grade 5 Legendary Accessory (Chest Brooch)
   * **Equip Effect:** +25 Max Posture • +15 Max Composure.
   * **Resonance Passive:** When the wearer takes Weight damage, converts 20% of the strain into temporary shield hit points.

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Window of a Thousand Goodbyes Shard
+# M.A.W. STIGMA — Window of a Thousand Goodbyes Shard
 
 ---
 **Document ID:** `SE-686-D`  

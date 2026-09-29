@@ -52,7 +52,7 @@ During the The Solace Source-Trace, the field team preserved this source fact: C
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Solace's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: No containment required; preserve the conditions that form it The set cannot heal the originating event. Misuse routes Solace's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Solace's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon redirects only the immediate manifestation that violates this rule: No containment required; preserve the conditions that form it The set cannot heal the originating event. Misuse routes Solace's wound through the operator and triggers the recorded escalation.
 
 ---
 

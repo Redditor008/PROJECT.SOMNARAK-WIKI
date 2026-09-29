@@ -52,7 +52,7 @@ During the The Soot Fry Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Soot Fry's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills The set cannot heal the originating event. Misuse routes Soot Fry's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Soot Fry's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills The set cannot heal the originating event. Misuse routes Soot Fry's wound through the operator and triggers the recorded escalation.
 
 ---
 

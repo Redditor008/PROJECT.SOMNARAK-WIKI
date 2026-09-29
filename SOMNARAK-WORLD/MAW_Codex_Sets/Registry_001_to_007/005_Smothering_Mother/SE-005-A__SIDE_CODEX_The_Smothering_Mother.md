@@ -79,7 +79,7 @@ No child-sized mannequins, abandoned toys, or unannounced injured personnel may 
 |---|---|---|---|---|---|
 | **Weapon** | The Embrace Fang | δ | Grudge | Turns protective force into a line-breaking strike | `SE-005-B__MAW-W_The_Embrace_Fang.md` |
 | **Suit** | The Embrace Plate | δ | Grudge | Carries physical protection at the cost of rigidity | `SE-005-C__MAW-S_The_Embrace_Plate.md` |
-| **Gift** | The Embrace | δ | Grudge | Gives protective interception at dangerous emotional cost | `SE-005-D__MAW-G_The_Embrace.md` |
+| **Stigma** | The Embrace | δ | Grudge | Gives protective interception at dangerous emotional cost | `SE-005-D__MAW-G_The_Embrace.md` |
 
 ### Set Resonance — Let No One Go
 

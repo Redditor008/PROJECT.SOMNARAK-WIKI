@@ -58,7 +58,7 @@ A worker must willingly carry a measured portion of burden for one full route in
 |---|---|---|---|---|---|
 | Weapon | The Burden Maul | γ | Weight | Converts carried duty into line-breaking impact | `SE-061-B__MAW-W_The_Burden_Maul.md` |
 | Suit | The Burden Mantle | γ | Weight | Helps a bearer carry weight without collapse | `SE-061-C__MAW-S_The_Burden_Mantle.md` |
-| Gift | The Burden Chain | γ | Weight | Lets a bearer take temporary responsibility for another | `SE-061-D__MAW-G_The_Burden_Chain.md` |
+| Stigma | The Burden Chain | γ | Weight | Lets a bearer take temporary responsibility for another | `SE-061-D__MAW-G_The_Burden_Chain.md` |
 
 ### Set Resonance — Carry It Together
 

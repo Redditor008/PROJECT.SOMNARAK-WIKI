@@ -5966,11 +5966,11 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 **Common Name:** The Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Observation Level:** 4 — Mastered
-**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Gift is granted at near-100% probability.
+**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
 **Containment & Handling Procedures:**
 - All four Work Types are equally effective — use for training.
 - No special containment required; the entity is self-stabilizing.
-- The Warm Stone Gift should be retained by trainees; it provides lasting comfort.
+- The Warm Stone Stigma should be retained by trainees; it provides lasting comfort.
 - The entity is available during all shifts. No cooldown between training sessions.
 - Extraction of the Standard Training M.A.W. is routine and risk-free.
 **Observation Notes:**

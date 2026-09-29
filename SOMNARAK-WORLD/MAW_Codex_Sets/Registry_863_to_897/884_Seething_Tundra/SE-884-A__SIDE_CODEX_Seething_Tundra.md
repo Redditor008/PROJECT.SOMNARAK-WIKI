@@ -52,7 +52,7 @@ During the The Seething Tundra Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Seething Tundra's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Seething Tundra's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Seething Tundra's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Seething Tundra's wound through the operator and triggers the recorded escalation.
 
 ---
 

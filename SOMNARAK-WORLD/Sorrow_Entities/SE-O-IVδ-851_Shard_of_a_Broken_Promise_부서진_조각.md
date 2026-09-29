@@ -204,7 +204,7 @@ The escalation pattern is specific to Shard of a Broken Promise: it is not a gen
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Covenant Arbalest
 
@@ -247,9 +247,9 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — The Promise Shard
+### M.A.W. Stigma — The Promise Shard
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
 **Appearance:** a shard-tile of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
@@ -261,11 +261,11 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Cost:** The wearer feels every broken promise in the surrounding area.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Gifts are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

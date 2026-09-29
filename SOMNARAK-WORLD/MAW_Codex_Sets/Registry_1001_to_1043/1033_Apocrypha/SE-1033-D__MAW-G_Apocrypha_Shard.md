@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Apocrypha Shard
+# M.A.W. STIGMA — Apocrypha Shard
 
 > *“Apocrypha Shard remembers Apocrypha; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer hears every farewell left unsaid nearby. Continued use makes Apocrypha's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Stigma Record*
 
-The first Apocrypha Shard field bearer encountered this source response: Shows fragments of the relic's unknown purpose. The gift opens the immediate hazard only after the team attributed it to Apocrypha. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Apocrypha Shard field bearer encountered this source response: Shows fragments of the relic's unknown purpose. The stigma opens the immediate hazard only after the team attributed it to Apocrypha. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Apocrypha Shard field bearer encountered this source response: Shows f
 
 ## SET RELATIONSHIP
 
-Within *Apocrypha — Witnessed Form*, Apocrypha Shard performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Apocrypha — Witnessed Form*, Apocrypha Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

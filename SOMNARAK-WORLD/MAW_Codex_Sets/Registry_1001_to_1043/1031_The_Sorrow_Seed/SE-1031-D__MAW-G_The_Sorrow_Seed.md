@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Sorrow Seed
+# M.A.W. STIGMA — The Sorrow Seed
 
 > *“The Sorrow Seed remembers The Sorrow Seed; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** Uncontrolled growth if not tended. Continued use makes The Sorrow Seed's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Seed Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The Sorrow Seed Source-Trace: Stigma Record*
 
-The first The Sorrow Seed field bearer encountered this source response: Reveals possible forms it could grow into. The gift stays the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Sorrow Seed field bearer encountered this source response: Reveals possible forms it could grow into. The stigma stays the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Sorrow Seed field bearer encountered this source response: Reveals
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Seed — Witnessed Form*, The Sorrow Seed performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Sorrow Seed — Witnessed Form*, The Sorrow Seed performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

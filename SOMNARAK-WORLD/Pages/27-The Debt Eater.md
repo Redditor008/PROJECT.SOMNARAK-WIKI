@@ -29,7 +29,7 @@ The Debt Eater is mobile and capable of breaching containment if its operational
 - [5 M.A.W. Equipment](#maw-equipment)
   - [5.1 Weapon: Reaper Hungered](#weapon-reaper-hungered)
   - [5.2 Suit: Debt Shroud](#suit-debt-shroud)
-  - [5.3 Gift: Creditor's Mark](#gift-creditors-mark)
+  - [5.3 Stigma: Creditor's Mark](#stigma-creditors-mark)
 - [6 Observation Story](#observation-story)
 - [7 Flavor Text and Trivia](#flavor-text-and-trivia)
 - [8 Gallery](#8-gallery)
@@ -121,9 +121,9 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
   - ⚫ **Weight** (Crushing): 1.2 (Vulnerable)
 - **Requirement:** Composure Level II, Clarity Level II
 
-### Gift: Creditor's Mark
+### Stigma: Creditor's Mark
 
-![Creditor's Mark M.A.W. Gift Icon](images/maw-gift-manifestation.svg)
+![Creditor's Mark M.A.W. Stigma Icon](images/maw-stigma-manifestation.svg)
 
 - **Slot:** Face (Marking over left temple)
 - **Bonus:** +3 Composure, +2 Clarity, +5 SP Maximum

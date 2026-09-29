@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Wall Stone
+# M.A.W. STIGMA — The Wall Stone
 
 > *“It remembers enough of the song to calm the room, and enough of the silence not to lie.”*
 
@@ -11,7 +11,7 @@
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`  
-**Status:** Active — bearer-bound song archive Gift
+**Status:** Active — bearer-bound song archive Stigma
 
 ## IDENTITY & BESTOWAL
 

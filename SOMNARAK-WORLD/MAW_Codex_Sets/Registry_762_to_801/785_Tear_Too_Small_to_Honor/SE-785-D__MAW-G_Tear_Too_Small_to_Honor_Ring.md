@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Tear Too Small to Honor Ring
+# M.A.W. STIGMA — Tear Too Small to Honor Ring
 
 > *“Tear Too Small to Honor Ring remembers Tear Too Small to Honor; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Tear Too Small to Honor Ring is the gift record of its source’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is proportionate mercy: it allows the wearer to heal minor wounds through touch, small hurts tended with the seriousness the source never received. Binding names the source event — a visitor hid a single tear beneath a Garden stone, and the grief flattened into a collapsed object — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost inverts the ability’s scale: the wearer feels the weight of every sorrow encountered, nothing filtered by size, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the small loss that formed it, and it discharged the immediate hazard only after attribution to the source — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Tear Too Small to Honor Ring is the stigma record of its source’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is proportionate mercy: it allows the wearer to heal minor wounds through touch, small hurts tended with the seriousness the source never received. Binding names the source event — a visitor hid a single tear beneath a Garden stone, and the grief flattened into a collapsed object — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost inverts the ability’s scale: the wearer feels the weight of every sorrow encountered, nothing filtered by size, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the small loss that formed it, and it discharged the immediate hazard only after attribution to the source — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -30,9 +30,9 @@ The Tear Too Small to Honor Ring is the gift record of its source’s set — ta
 
 **Operational / binding cost:** The wearer feels the weight of every sorrow encountered. Continued use makes Tear Too Small to Honor's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Tear Too Small to Honor Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Tear Too Small to Honor Source-Trace: Stigma Record*
 
-The first Tear Too Small to Honor Ring field bearer encountered this source response: Reveals the small loss that formed it. The gift discharges the immediate hazard only after the team attributed it to Tear Too Small to Honor. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Tear Too Small to Honor Ring field bearer encountered this source response: Reveals the small loss that formed it. The stigma discharges the immediate hazard only after the team attributed it to Tear Too Small to Honor. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -46,7 +46,7 @@ The first Tear Too Small to Honor Ring field bearer encountered this source resp
 
 ## SET RELATIONSHIP
 
-Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Ring performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Ring performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

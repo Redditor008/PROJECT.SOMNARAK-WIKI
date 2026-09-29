@@ -232,7 +232,7 @@ Upon achieving terminal Composure Meltdown against The King of Menders, the UCD 
 +---------------------------------------------------------------------+
 | Sovereign SutureMaul| Weapon | Gr 5  | Heavy Blunt / Debt Hook      |
 | Flesh-Welder Apron  | Suit   | Gr 5  | Grudge 0.4x, Heat Proof      |
-| The Debt Needle     | Gift   | Gr 5  | Applies Stacking Debt        |
+| The Debt Needle     | Stigma   | Gr 5  | Applies Stacking Debt      |
 | Grandmaster Ledger  | Relic  | Gr 5  | Reflects 15% Debt Strain     |
 +=====================================================================+
 ```
@@ -247,7 +247,7 @@ Upon achieving terminal Composure Meltdown against The King of Menders, the UCD 
   * **Classification:** Grade 5 Legendary Heavy Bastion Apron
   * **Defensive Resistances:** Grudge 0.4x (Immune) • Weight 0.6x • Lament 1.0x • Void 1.2x
   * **Resonance Passive (Slag-Proof Plating):** Complete immunity to burn, bleed, and heat terrain hazards. When struck by a piercing attack, converts 15% of damage into armor plating.
-- **Gift: The Debt Needle (`MAW-G-MNDR`)**
+- **Stigma: The Debt Needle (`MAW-G-MNDR`)**
   * **Classification:** Grade 5 Legendary Accessory (Chest Brooch)
   * **Equip Effect:** +25 Max Posture • +15 Max HP.
   * **Resonance Passive:** Winning a clash against an opponent with higher Speed applies 2 stacks of *Debt Mark* and restores 10 Posture to the wearer.

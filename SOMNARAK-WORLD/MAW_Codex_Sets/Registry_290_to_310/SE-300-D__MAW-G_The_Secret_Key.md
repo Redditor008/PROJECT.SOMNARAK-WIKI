@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Secret Key
+# M.A.W. STIGMA — The Secret Key
 
 > *“The memory it opens is paid for with one of yours. Consent does not make the exchange reversible.”*
 

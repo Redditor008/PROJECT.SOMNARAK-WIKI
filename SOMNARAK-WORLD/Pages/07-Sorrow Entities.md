@@ -32,7 +32,7 @@ Before the **Hand** learned to refine liquid **Han** into **Lumen**, sorrows wer
 - [4 Lumen Energy](#4-lumen-energy)
 - [5 M.A.W. Equipment](#5-maw-equipment)
   - [5.1 Resonance Overload](#51-resonance-overload)
-  - [5.2 M.A.W. Gifts](#52-maw-gifts)
+  - [5.2 M.A.W. Stigmas](#52-maw-stigmas)
 - [6 Related Entities](#6-related-entities)
   - [6.1 Mugenhan Ecology](#61-mugenhan-ecology)
   - [6.2 Ordeals](#62-ordeals)
@@ -105,7 +105,7 @@ This energy is stabilized and condensed into standardized canisters known as **L
 Through prolonged observation and extraction, the Reverie Directorate crystallizes an entity's conceptual identity into physical combat gear known as **M.A.W. (Memoria Armamentarium Weaponry)**. Each completed set consists of three components:
 1. **M.A.W. Weapon:** Offensively aligned crystal that projects the sorrow's intrinsic damage element (🔴 **Grudge**, 🔵 **Lament**, ⚪ **Void**, or ⚫ **Weight**).
 2. **M.A.W. Suit:** Protective armor woven with resonant fibers that insulate the wearer against specific damage pressures.
-3. **M.A.W. Gift:** A cosmetic and functional relic that attaches to an operative's body upon completing exceptional containment work.
+3. **M.A.W. Stigma:** A cosmetic and functional relic that attaches to an operative's body upon completing exceptional containment work.
 
 Forty-two standardized M.A.W. sets encompassing 1,165 distinct equipment profiles are documented within the [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) armory.
 
@@ -113,9 +113,9 @@ Forty-two standardized M.A.W. sets encompassing 1,165 distinct equipment profile
 
 When an operative wielding powerful M.A.W. equipment suffers severe psychological exhaustion or panic, the weapon's lingering memory can overwhelm the handler's ego. In this state of **Resonance Overload**, the operative loses voluntary control, transforming into a frenzied vector of the sorrow's original grievance that must be subdued by squadmates.
 
-### 5.2 M.A.W. Gifts
+### 5.2 M.A.W. Stigmas
 
-Operatives who achieve high work success rates have a chance to receive an entity's **M.A.W. Gift** (e.g. badges, masks, talismans, or eye markings). Gifts occupy specific equipment slots and provide passive stat enhancements (+HP, +SP, +Speed, or +Success Rate). However, gifts cannot be manually unequipped; they can only be replaced if a new gift is earned in the same body slot.
+Operatives who achieve high work success rates have a chance to receive an entity's **M.A.W. Stigma** (e.g. badges, masks, talismans, or eye markings). Stigmas occupy specific equipment slots and provide passive stat enhancements (+HP, +SP, +Speed, or +Success Rate). However, stigmas cannot be manually unequipped; they can only be replaced if a new stigma is earned in the same body slot.
 
 ## 6 Related Entities
 

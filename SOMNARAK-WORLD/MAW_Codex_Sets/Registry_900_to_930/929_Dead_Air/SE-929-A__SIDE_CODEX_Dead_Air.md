@@ -52,7 +52,7 @@ During the The Dead Air Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Dead Air's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dead Air's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dead Air's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dead Air's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -87,7 +87,7 @@ The original Clock is an O-Relic. Its M.A.W. set is formed from released deadlin
 |---|---|---:|---|---|---|
 | Weapon | The Deadline Maul | β | Weight | Direct response to an imminent debt-pressure field | `SE-156-B__MAW-W_The_Deadline_Maul.md` |
 | Suit | The Deadline Mantle | β | Weight | Weight protection during timed obligation stress | `SE-156-C__MAW-S_The_Deadline_Mantle.md` |
-| Gift | The Deadline Watch | β | Weight | Shows when a named obligation becomes due | `SE-156-D__MAW-G_The_Deadline_Watch.md` |
+| Stigma | The Deadline Watch | β | Weight | Shows when a named obligation becomes due | `SE-156-D__MAW-G_The_Deadline_Watch.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The original Clock is an O-Relic. Its M.A.W. set is formed from released deadlin
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Deadline Watch
+### M.A.W. Stigma — The Deadline Watch
 
 | Field | Record |
 |---|---|

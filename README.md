@@ -37,7 +37,7 @@ The repository is structured into distinct, authoritative functional environment
 - **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution
 - **Game Battle Operations & Tactical Simulation Suite** (`GAME_BATTLE/`), housing turn-by-turn combat encounters, boss battle mechanics, and standard authoring templates
 - **292 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
-- **42 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,165 files)
+- **42 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Stigma across 1,165 files)
 - **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches
 - **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
 - **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/Echo_Cores/`), covering Facility 01 departmental leadership
@@ -223,7 +223,7 @@ Tactical combat specifications, mechanical mathematics, and metaphysical physics
 | [`SOMNARAK_BATTLE_SYSTEM_STYLES.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md) | Hexa-Style Combat Mechanics (767 lines) | Generic Core, Reverie Directorate, UCD Urban CQB, SED Depth Pressure, Archive Mnemonic, Caravan Bastion |
 | [`SOMNARAK_FACTION_TECH.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_FACTION_TECH.md) | Institutional Technology Specs (654 lines) | Acoustic dampening, basalt extraction, silk weaving, barrier rigs, and Warden Threshold Vows |
 | [`SOMNARAK_HAN_RELICS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_HAN_RELICS.md) | Sovereign Primordial Artifacts (275 lines) | Threefold relic taxonomy, Unanswered floating hands, containment vaults, and Pre-Structuring relics |
-| [`SOMNARAK_MAW_CODEX.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md) | Master Armory & Extraction Engine (9,033 lines) | M.A.W. weapon archetypes, suit weave defenses, gift slots, and extraction across 198 complete quadripartite sets (245 planned sets) |
+| [`SOMNARAK_MAW_CODEX.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md) | Master Armory & Extraction Engine (9,033 lines) | M.A.W. weapon archetypes, suit weave defenses, stigma slots, and extraction across 198 complete quadripartite sets (245 planned sets) |
 | [`SOMNARAK_ORDEALS_FRAMEWORK.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md) | Five-Color Ordeal Defense (301 lines) | Mechanics for Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches and crisis taxonomy |
 | [`SOMNARAK_TABOO_RESONANCE.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_TABOO_RESONANCE.md) | Seven Taboos & Resonances (366 lines) | Absolute civic laws, acoustic censorship dynamics, resonant punishments, and Giltong enforcement |
 | [`SOMNARAK_WORKSHOPS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md) | Six Great Workshops Codex (215 lines) | Non-M.A.W. artisan equipment, Workplace Law, and 0.5% / 1.0% / 5.0% acquisition curve across Grades 1 to 5 (Legendary Stat) |
@@ -413,7 +413,7 @@ All source lore across this archive adheres to four absolute pillars:
 5. **M.A.W. Equipment Triad (비탄의 무장):**
    - **MAW-W (Weapon):** Offense crystallized from the entity's core sorrow.
    - **MAW-S (Suit):** Armor woven from the entity's resonance, conferring elemental defenses.
-   - **MAW-G (Gift):** Resonant accessory granting passive traits and cosmetic marks.
+   - **MAW-G (Stigma):** Resonant accessory granting passive traits and cosmetic marks.
 
 ---
 

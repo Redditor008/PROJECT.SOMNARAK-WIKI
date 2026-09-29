@@ -65,9 +65,9 @@ An echo forms after an authorized wearer completes Ferrehan, remains identifiabl
 |---|---|---:|---|---|
 | Weapon | The Weeping Veil-Pavise & Tear Javelin | β | Separates one overwhelming grief current from the shared field. | `SE-280-B__MAW-W_The_Tear_Requiem.md` |
 | Suit | The Pallbearer's Layered Shroud | β | Absorbs emotional attack while displaying the wearer’s grief openly. | `SE-280-C__MAW-S_The_Tear_Veil.md` |
-| Gift | The Weeping Veil Clip | β | Preserves one personal tear-pattern within collective mourning. | `SE-280-D__MAW-G_The_Tear_Charm.md` |
+| Stigma | The Weeping Veil Clip | β | Preserves one personal tear-pattern within collective mourning. | `SE-280-D__MAW-G_The_Tear_Charm.md` |
 
-**Set cost:** The wielder weeps, the Veil displays all grief continuously, and the Gift bearer cries during sleep.
+**Set cost:** The wielder weeps, the Veil displays all grief continuously, and the Stigma bearer cries during sleep.
 
 ---
 
@@ -75,7 +75,7 @@ An echo forms after an authorized wearer completes Ferrehan, remains identifiabl
 
 - **Tear Requiem:** Lament 5–9; Speed 2; Range 2; Single; maximum 4; 25 Echoes. Prolonged use causes involuntary weeping.
 - **Tear Veil:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 4; 20 Echoes. It absorbs emotional attacks and expresses them as tears.
-- **Tear Charm:** Tail Gift; 5%; +1 Clarity during source work. It preserves a personal grief marker; the bearer weeps in sleep.
+- **Tear Charm:** Tail Stigma; 5%; +1 Clarity during source work. It preserves a personal grief marker; the bearer weeps in sleep.
 
 ---
 

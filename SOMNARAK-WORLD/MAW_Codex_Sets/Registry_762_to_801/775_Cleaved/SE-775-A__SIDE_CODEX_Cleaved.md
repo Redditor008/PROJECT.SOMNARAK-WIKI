@@ -52,7 +52,7 @@ During the The Cleaved Source-Trace, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Cleaved's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Do not complete the structure; document what was intended and lost The set cannot heal the originating event. Misuse routes Cleaved's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Cleaved's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon opens only the immediate manifestation that violates this rule: Do not complete the structure; document what was intended and lost The set cannot heal the originating event. Misuse routes Cleaved's wound through the operator and triggers the recorded escalation.
 
 ---
 

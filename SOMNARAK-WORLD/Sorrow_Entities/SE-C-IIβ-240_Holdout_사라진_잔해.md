@@ -178,7 +178,7 @@ The escalation pattern is specific to Holdout: it is not a generic breach event.
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Mercy Broadsword
 
@@ -221,9 +221,9 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Cost:** The wearer experiences the collapse stored in the plate.
 
-### M.A.W. Gift — The Ruin Charm
+### M.A.W. Stigma — The Ruin Charm
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
 **Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that grows cool near its source sorrow.
 
@@ -235,11 +235,11 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Cost:** The bearer's temper shortens.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Gift cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 

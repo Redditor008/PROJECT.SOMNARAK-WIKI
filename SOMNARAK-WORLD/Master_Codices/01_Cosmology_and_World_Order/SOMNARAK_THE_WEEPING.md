@@ -265,7 +265,7 @@ The deepest isolation vats of Floor 2 are physically seated in reinforced basalt
 #### Floor 3 — The Lament Well & M.A.W. Extraction Vats (Zyrak)
 The industrial intake of the **Lament Well** draws high-pressure liquid Han directly from the river's deepest trench:
 - **Resonant Siphoning:** High-volume magnetic pumps pull thousands of liters of liquid sorrow upward into Zyrak's forge vats.
-- **M.A.W. Crystallization:** Zyrak uses frequency-locked acoustic spinners and cryogenic needles to shock the liquid Han, forcing its non-Newtonian lattice to permanently solidify into high-density M.A.W. Weapon blades, Suit fibers, and Gift charms.
+- **M.A.W. Crystallization:** Zyrak uses frequency-locked acoustic spinners and cryogenic needles to shock the liquid Han, forcing its non-Newtonian lattice to permanently solidify into high-density M.A.W. Weapon blades, Suit fibers, and Stigma charms.
 - **Energy Refining:** Residual unformed liquid Han is scrubbed of hostile intent and routed into the Alpha Tree's root grid, supplying electrical and heating power to the upper municipal sectors.
 
 ---

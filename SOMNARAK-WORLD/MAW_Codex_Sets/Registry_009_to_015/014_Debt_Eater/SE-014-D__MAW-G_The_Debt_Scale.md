@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Debt Scale
+# M.A.W. STIGMA — The Debt Scale
 
 > *“It does not make a debt lighter. It makes the weight impossible to deny.”*
 
@@ -18,7 +18,7 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Accessory (Gift) — scale pendant |
+| **Type** | Accessory (Stigma) — scale pendant |
 | **Grade** | β — Moderate |
 | **Element** | Void — Pale White |
 | **Slot** | Head |
@@ -31,7 +31,7 @@ The Debt Scale is a tiny balance scale made of pale Han glass, small enough to r
 
 ---
 
-## GIFT EFFECT
+## STIGMA EFFECT
 
 **Passive Effect:** Displays the emotional and physical weight of one nearby debt category: inherited, imposed, promised, or self-created.
 
@@ -47,7 +47,7 @@ The bearer experiences the measured debt as a crushing physical and emotional we
 
 ## HISTORY OF USE
 
-A Debt Scale Gift exposed that a Collector relief program had been transferring debt from public ledgers to unrecorded family members. The finding was archived, then suppressed, then recovered after the Cycle ended. The pendant’s balance still tips toward the old Collector vault whenever it is brought near SECTOR-C-01.
+A Debt Scale Stigma exposed that a Collector relief program had been transferring debt from public ledgers to unrecorded family members. The finding was archived, then suppressed, then recovered after the Cycle ended. The pendant’s balance still tips toward the old Collector vault whenever it is brought near SECTOR-C-01.
 
 ---
 

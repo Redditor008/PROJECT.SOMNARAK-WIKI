@@ -42,7 +42,7 @@ Extraction follows a Ferrehan cycle where the missing field remains explicitly u
 
 ## RESONANCE — *Unknown Loss, Honest Burden*
 
-Gift makes pressure measurable, Plate carries it temporarily, and Fang cuts only an unsupported explanation. The group can acknowledge loss without naming what evidence cannot recover. If anyone supplies a comforting answer, the phantom mass returns at double force and binds the false story to the bearer.
+Stigma makes pressure measurable, Plate carries it temporarily, and Fang cuts only an unsupported explanation. The group can acknowledge loss without naming what evidence cannot recover. If anyone supplies a comforting answer, the phantom mass returns at double force and binds the false story to the bearer.
 
 **Formal-ID note:** `SE-357` is assigned to Carrying Nothing. Unreleased Beam (`C-IVδ-357`) remains deferred.
 

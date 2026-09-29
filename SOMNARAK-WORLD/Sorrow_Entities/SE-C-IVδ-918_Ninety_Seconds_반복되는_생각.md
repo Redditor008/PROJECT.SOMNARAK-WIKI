@@ -184,16 +184,16 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
-### M.A.W. Gift — Ninety Seconds's Token
+### M.A.W. Stigma — Ninety Seconds's Token
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Void
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
 **Appearance:** a coin-token of pale Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

@@ -190,7 +190,7 @@ The escalation pattern is specific to Father's Broken Bond: it is not a generic 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Sump Diver's Flail
@@ -229,9 +229,9 @@ Swung with centrifugal force, the heavy brass ball crushes armor with dead gravi
 
 **Cost:** The wearer's movements feel slightly sluggish, as though wading through chest-deep stagnant water.
 
-### M.A.W. Gift — The Snapped Half
+### M.A.W. Stigma — The Snapped Half
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
 **Appearance:** A jagged half of the snapped brass tally suspended from a tarnished copper neck-chain.
 

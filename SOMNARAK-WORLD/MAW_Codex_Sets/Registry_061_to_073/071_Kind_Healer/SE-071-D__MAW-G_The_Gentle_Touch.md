@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Gentle Touch
+# M.A.W. STIGMA — The Gentle Touch
 
 > *“The token heals a small wound. The real test is whether the bearer remains after the healing is finished.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — touch token |
+| Type | Accessory (Stigma) — touch token |
 | Grade | α — Minor |
 | Element | Lament — Deep Blue |
 | Slot | Tail |
@@ -29,7 +29,7 @@ The Gentle Touch is a small token of deep-blue glass shaped like an open palm, n
 
 Once per day, the bearer may relieve a minor physical wound or immediate panic symptom through consensual touch.
 
-**Limit:** The Gift cannot treat a major injury, cure Fracture, or replace medical work.
+**Limit:** The Stigma cannot treat a major injury, cure Fracture, or replace medical work.
 
 **Cost:** The bearer carries a trace of the pain until the recipient has been checked again by another person.
 

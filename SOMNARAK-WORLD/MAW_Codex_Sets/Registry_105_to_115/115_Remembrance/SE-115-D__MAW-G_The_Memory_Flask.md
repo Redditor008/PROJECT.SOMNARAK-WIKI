@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Memory Flask
+# M.A.W. STIGMA — The Memory Flask
 
 > *“It keeps one memory safe enough to replay. Each replay asks whether preservation has become a refusal to let the moment move.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Memory Flask |
 | Set | Unremembered Lives |
-| Type / grade / element | Gift, pale glass flask / γ — Major / Void — Pale White |
+| Type / grade / element | Stigma, pale glass flask / γ — Major / Void — Pale White |
 | Slot | Head |
 | Status | Bearer-bound; consent and replay ledger required |
 | Known bearer | Chronicler Minseo |
@@ -33,13 +33,13 @@
 | Acquisition probability | 4% after successful Remembrance work |
 | Bestowal event | The Flask appeared in the Archive basin after a viewer acknowledged an unremembered reflection and left without copying it. |
 | Acceptance condition | The candidate names a memory owner, a custody authority, and a maximum replay count before storage. |
-| Source intent | Gift bestowal; it does not make any memory public or transferable at the bearer’s preference. |
+| Source intent | Stigma bestowal; it does not make any memory public or transferable at the bearer’s preference. |
 
 **Binding requirement:** A living owner gives informed consent, or an unremembered-life echo is held under Archive custody with a specified non-ownership limit.
 
 **Rejection rule:** A bearer who tries to store a memory for leverage finds the Flask fill with their own first recollection of misuse until the attempt is reported.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|

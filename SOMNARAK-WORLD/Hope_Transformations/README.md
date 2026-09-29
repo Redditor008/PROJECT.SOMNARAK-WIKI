@@ -39,4 +39,4 @@ In Somnarak metaphysics, when an entity or agent fully resolves the underlying g
 
 1. **The Dawn Initiative Connection:** The 14 Hope Transformations represent the empirical proof that the Dawn Initiative (Year 4,238) can achieve **Absolvohan (해한)**—the total purification of Somnarak's unresolved sorrow.
 2. **Resonant Immunity:** Unlike standard Sorrow Entities, Hope phenomena emit zero corrosion radiation and stabilize all surrounding containment sectors.
-3. **Equipment Synergy:** Gifts and armaments linked to Hope Transformations form the apex tier of defensive armaments utilized by Facility 01's executive council.
+3. **Equipment Synergy:** Stigmas and armaments linked to Hope Transformations form the apex tier of defensive armaments utilized by Facility 01's executive council.

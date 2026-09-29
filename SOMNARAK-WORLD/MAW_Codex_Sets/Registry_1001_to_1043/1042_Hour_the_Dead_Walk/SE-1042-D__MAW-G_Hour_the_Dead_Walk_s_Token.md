@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Hour the Dead Walk's Token
+# M.A.W. STIGMA — Hour the Dead Walk's Token
 
 > *“Hour the Dead Walk's Token remembers Hour the Dead Walk; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The bearer dreams in tears drawn from Hour the Dead Walk's sorrow and wakes with another person's grief still present. Continued use makes Hour the Dead Walk's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Stigma Record*
 
-The first Hour the Dead Walk's Token field bearer encountered this source response: Permits study; the phantasmal pressure becomes legible under sustained observation. The gift uncouples the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hour the Dead Walk's Token field bearer encountered this source response: Permits study; the phantasmal pressure becomes legible under sustained observation. The stigma uncouples the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Hour the Dead Walk's Token field bearer encountered this source respon
 
 ## SET RELATIONSHIP
 
-Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Token performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

@@ -205,9 +205,9 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Cost:** The wearer carries Miasma's grief into every quiet moment; small joys feel distant until the suit is removed.
 
-### M.A.W. Gift — Miasma's Token
+### M.A.W. Stigma — Miasma's Token
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
 **Appearance:** a coin-token of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
@@ -219,7 +219,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Cost:** The bearer dreams in tears drawn from Miasma's sorrow and wakes with another person's grief still present.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Cat-Paw Bell
+# M.A.W. STIGMA — The Cat-Paw Bell
 
 ---
 
@@ -17,7 +17,7 @@ A Tail bell granted at **4%**: **δ Mixed; +3 Clarity and Composure.** It sings 
 | Field | Exact source record |
 |---|---|
 | Official name | The Cat-Paw Bell |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | δ |
 | Element | Mixed |
 | Appearance | A small brass bell shaped like a cat paw, warm to the touch and faintly ringing on its own. |

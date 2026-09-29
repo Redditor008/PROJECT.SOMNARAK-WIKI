@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Promise Shard
+# M.A.W. STIGMA — The Promise Shard
 
 > *“The Promise Shard remembers Facsimile; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer suffers physical pain if the promise is broken. Continued use makes Facsimile's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Stigma Record*
 
-The first The Promise Shard field bearer encountered this source response: Reveals the original promise and its betrayal. The gift severs the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Promise Shard field bearer encountered this source response: Reveals the original promise and its betrayal. The stigma severs the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Promise Shard field bearer encountered this source response: Revea
 
 ## SET RELATIONSHIP
 
-Within *Facsimile — Witnessed Form*, The Promise Shard performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Facsimile — Witnessed Form*, The Promise Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

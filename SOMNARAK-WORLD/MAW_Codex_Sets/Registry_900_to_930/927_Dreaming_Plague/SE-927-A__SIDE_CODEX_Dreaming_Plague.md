@@ -52,7 +52,7 @@ During the The Dreaming Plague Source-Trace, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Dreaming Plague's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dreaming Plague's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Dreaming Plague's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dreaming Plague's wound through the operator and triggers the recorded escalation.
 
 ---
 

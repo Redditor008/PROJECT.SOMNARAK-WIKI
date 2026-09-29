@@ -82,13 +82,13 @@ Writing stabilizes the trace for moments. One speaker cannot hold it. When separ
 
 The set does not discover the forgotten citizen’s name. It keeps other names from being lost in the same way. The Lens turns attestation into a single-target Void strike, the Veil carries several human confirmations against an erasing field, and the Thread refuses to let one chosen name become inaccessible.
 
-**Extraction rule:** Paired workers first lower the Gauge through Flerehan or Ferrehan, then restore one affected person’s name through independent testimony. Pale residue may be gathered from the margin where both written records agree. Extraction Lead Zyrak’s office rejects any draw based on a guessed source name. The Gift remains an unmanufactured 5% bestowal.
+**Extraction rule:** Paired workers first lower the Gauge through Flerehan or Ferrehan, then restore one affected person’s name through independent testimony. Pale residue may be gathered from the margin where both written records agree. Extraction Lead Zyrak’s office rejects any draw based on a guessed source name. The Stigma remains an unmanufactured 5% bestowal.
 
 | Piece | Name | Grade | Element | Main purpose | Individual Codex |
 |---|---|---:|---|---|---|
 | Weapon | The Name Lens | α | Void | Uses a witnessed designation to strike an erasing target without spreading the loss. | `SE-215-B__MAW-W_The_Name_Lens.md` |
 | Suit | The Name Veil | α | Void | Holds the wearer’s identity through multiple independent human attestations. | `SE-215-C__MAW-S_The_Name_Veil.md` |
-| Gift | The Name Thread | α | Void | Preserves one chosen name against memory loss while exposing the bearer to nearby forgotten names. | `SE-215-D__MAW-G_The_Name_Thread.md` |
+| Stigma | The Name Thread | α | Void | Preserves one chosen name against memory loss while exposing the bearer to nearby forgotten names. | `SE-215-D__MAW-G_The_Name_Thread.md` |
 
 **Set cost:** Protection depends on another person’s living memory. A name copied from a registry without relationship may remain legible while the individual behind it continues to disappear.
 
@@ -118,9 +118,9 @@ Cold pale Han-gossamer carries independently written names through its lining. I
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Name Thread
+### M.A.W. Stigma — The Name Thread
 
 **Type / Slot:** Warm thread-band of pale Han-glass / Head  
 **Grade / Element:** α / Void  

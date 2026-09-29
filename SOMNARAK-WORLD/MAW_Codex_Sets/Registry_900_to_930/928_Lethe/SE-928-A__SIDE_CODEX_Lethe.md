@@ -52,7 +52,7 @@ During the The Lethe Source-Trace, the field team preserved this source fact: No
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Lethe's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Lethe's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Lethe's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Lethe's wound through the operator and triggers the recorded escalation.
 
 ---
 

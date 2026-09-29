@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Sleeping Bracelet
+# M.A.W. STIGMA — The Sleeping Bracelet
 
 > *“It hides the watcher from the dream and slowly hides the watcher from everyone else.”*
 

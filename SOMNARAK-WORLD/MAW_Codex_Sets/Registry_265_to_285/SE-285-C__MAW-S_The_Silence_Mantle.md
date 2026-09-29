@@ -34,7 +34,7 @@ The Silence Mantle is a matte black garment of Han weave that breathes without s
 
 ## SET, FAILURE & CARE
 
-Gift senses presence of burden, Mantle shelters choice, Maul uses one offered word.
+Stigma senses presence of burden, Mantle shelters choice, Maul uses one offered word.
 
 - **Quiet prison:** exit closes until wearer speaks.
 - **Listener pressure:** silence is praised so strongly that speech becomes disloyal.

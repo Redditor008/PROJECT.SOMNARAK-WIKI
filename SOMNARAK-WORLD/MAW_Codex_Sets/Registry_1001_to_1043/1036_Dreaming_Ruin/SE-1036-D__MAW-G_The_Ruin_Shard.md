@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Ruin Shard
+# M.A.W. STIGMA — The Ruin Shard
 
 > *“The Ruin Shard remembers Dreaming Ruin; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The user loses a present detail from their own home. Continued use makes Dreaming Ruin's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Dreaming Ruin Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Dreaming Ruin Source-Trace: Stigma Record*
 
-The first The Ruin Shard field bearer encountered this source response: Reveals which parts are memory and which are invention. The gift stabilizes the immediate hazard only after the team attributed it to Dreaming Ruin. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Ruin Shard field bearer encountered this source response: Reveals which parts are memory and which are invention. The stigma stabilizes the immediate hazard only after the team attributed it to Dreaming Ruin. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Ruin Shard field bearer encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Dreaming Ruin — Witnessed Form*, The Ruin Shard performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dreaming Ruin — Witnessed Form*, The Ruin Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

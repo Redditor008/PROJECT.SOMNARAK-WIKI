@@ -52,7 +52,7 @@ During the The Eleven Fifty Nine Source-Trace, the field team preserved this sou
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Eleven Fifty-Nine's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Eleven Fifty-Nine's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Eleven Fifty-Nine's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Eleven Fifty-Nine's wound through the operator and triggers the recorded escalation.
 
 ---
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Name Thread
+# M.A.W. STIGMA — The Name Thread
 
 > *“Choose one name. The others will not become quieter simply because you could not carry them.”*
 
@@ -20,7 +20,7 @@
 
 The Name Thread is a warm band of almost colorless Han-glass filament worn at the head. It begins behind one ear, crosses the hairline, and ends without clasp or knot. A single name moves through the filament as light, always in the hand of the witness who fixed it there.
 
-The Gift is verified by omission. Ask the bearer to list nearby people: the preserved name remains clear, while unidentified whispers gather at the edge of every pause. An inert copy displays lettering but produces no voices.
+The Stigma is verified by omission. Ask the bearer to list nearby people: the preserved name remains clear, while unidentified whispers gather at the edge of every pause. An inert copy displays lettering but produces no voices.
 
 Name Threads are not manufactured. The source entity may grant one after successful work; observed acquisition probability is 5%.
 
@@ -30,11 +30,11 @@ The bearer chooses one name in the presence of a second witness. If the person i
 
 ---
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
-| Type | Accessory — bearer-bound Gift |
+| Type | Accessory — bearer-bound Stigma |
 | Grade / element | α — Minor / Void — Pale White |
 | Slot | Head |
 | Acquisition probability | 5% after successful work |
@@ -65,7 +65,7 @@ During the east stair transform review, Euncris entered the outer field while th
 
 Euncris conducted roll call once. Hanul’s name remained audible and received an answer from inside the stair. The other whispers tried to occupy the pauses between his syllables. She did not assign them to the six missing cards, even when several rhythms seemed plausible.
 
-That restraint allowed Hanul’s final Veil thread to remain distinct. When he emerged, the Gift still held his name but Euncris could hear the unclaimed whispers from three corridors away. She spent the following shift documenting cadence and location without converting any sound into a person.
+That restraint allowed Hanul’s final Veil thread to remain distinct. When he emerged, the Stigma still held his name but Euncris could hear the unclaimed whispers from three corridors away. She spent the following shift documenting cadence and location without converting any sound into a person.
 
 The incident established the capacity rule. The Thread preserves one name because a single attested connection can be maintained responsibly; it does not make the bearer an archive for everyone the district forgot.
 
@@ -105,7 +105,7 @@ Name No One Remembers stands closest to the Thread when its chosen name belongs 
 
 ## RESTRICTED NOTE
 
-No operator may bind the Thread to “Name No One Remembers,” “the Old Lament victim,” or any proposed reconstruction of the source’s identity. Those are designations for a file, not attested names belonging to the dead citizen. The Gift preserves witness; it does not create one retroactively.
+No operator may bind the Thread to “Name No One Remembers,” “the Old Lament victim,” or any proposed reconstruction of the source’s identity. Those are designations for a file, not attested names belonging to the dead citizen. The Stigma preserves witness; it does not create one retroactively.
 
 > *“Hearing a sound is evidence that I heard it. It is not evidence that I know who was calling.”* — Researcher Euncris Park
 

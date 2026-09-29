@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Ash Pin
+# M.A.W. STIGMA — The Ash Pin
 
 ---
 
@@ -17,7 +17,7 @@ A Head pin granted at **5%**: **β Grudge; +1 Composure.** It makes burnout fear
 | Field | Exact source record |
 |---|---|
 | Official name | The Ash Pin |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | β |
 | Element | Grudge |
 | Appearance | A hairpin of frosted crystal that spells, in Old Somnarak, a single word: again? |

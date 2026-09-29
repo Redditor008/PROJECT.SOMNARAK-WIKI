@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Burning Page
+# M.A.W. STIGMA — The Burning Page
 
 > *“Once read, the page is gone. The responsibility to the truth remains.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Burning Page |
 | Set | Cindered Testament |
-| Type / grade / element | Gift, page-tile / δ — Critical / Grudge — Crimson |
+| Type / grade / element | Stigma, page-tile / δ — Critical / Grudge — Crimson |
 | Slot | Tail |
 | Status | Sealed-page custody; no standing bearer after a completed reading |
 | Maximum amount | One unread page per authorized event; source chance remains 4% |
@@ -34,13 +34,13 @@
 | Acquisition probability | 4% after successful Pyre of Truths work |
 | Acquisition event | The Library turns a blank page to a named preservation question. It kindles itself; it is never torn free. |
 | Acceptance condition | An Archive authority and a consequence recipient are named before the page is lifted. |
-| Source intent | Voluntary Gift; no amount of Echoes buys a preferred revelation. |
+| Source intent | Voluntary Stigma; no amount of Echoes buys a preferred revelation. |
 
 **Binding requirement:** The reader agrees, in writing, to remain accountable for the truth even after the physical page burns.
 
 **Rejection rule:** A reader seeking a weaponized answer sees only an unlit margin. If they try to force heat into it, the Page returns the question as a record of their own concealed motive.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|

@@ -77,7 +77,7 @@ Do not call the Colossus “contained.” Zone D lives around it. The R.D. manag
 |---|---|---|---|---|---|
 | **Weapon** | The Mourning Maul | δ | Weight | Converts concentrated Han burden into a line-breaking impact | `SE-002-B__MAW-W_The_Mourning_Maul.md` |
 | **Suit** | The Mourning Mantle | δ | Weight | Lets a bearer endure memorial weight without being pinned by it | `SE-002-C__MAW-S_The_Mourning_Mantle.md` |
-| **Gift** | The Mourning Shell | δ | Weight | Holds a trace of the unmourned dead’s protection | `SE-002-D__MAW-G_The_Mourning_Shell.md` |
+| **Stigma** | The Mourning Shell | δ | Weight | Holds a trace of the unmourned dead’s protection | `SE-002-D__MAW-G_The_Mourning_Shell.md` |
 
 ### Set Resonance — Procession Without a Name
 

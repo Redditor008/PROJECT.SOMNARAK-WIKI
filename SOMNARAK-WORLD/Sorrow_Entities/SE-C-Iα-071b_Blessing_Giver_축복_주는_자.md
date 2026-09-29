@@ -138,7 +138,7 @@ Blessing Giver cannot be safely managed by treating blessings as beneficial. Whi
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** The entity's archetype drawn into equipment form and split into three pieces — Weapon, Suit, and Gift.
+> **Materialized Agony Wear (M.A.W.):** The entity's archetype drawn into equipment form and split into three pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Gentle Hand
 
@@ -156,13 +156,13 @@ Blessing Giver cannot be safely managed by treating blessings as beneficial. Whi
 **Ability:** Grants resistance to Lament pressure. The cloak's glow can stabilize a worker's composure during difficult work cycles.
 **Cost:** The wearer feels increasingly warm, increasingly comfortable, increasingly reluctant to take the cloak off. The comfort is not free.
 
-### M.A.W. Gift — The Mark
+### M.A.W. Stigma — The Mark
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 **Appearance:** A small, warm mark on the wrist — visible only under Han-light. It glows faintly gold.
 
 **Ability:** Once per day, the bearer can heal a colleague for 15 HP. The healing is genuine and carries no mark.
-**Cost:** Each healing brings the bearer one step closer to the chain. After 12 healings, the Gift transforms.
+**Cost:** Each healing brings the bearer one step closer to the chain. After 12 healings, the Stigma transforms.
 
 ## 관찰 기록 (Observation Log)
 

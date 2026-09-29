@@ -87,7 +87,7 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 |---|---|---:|---|---|---|
 | Weapon | The Wandering Requiem | β | Lament | Interrupts grief pressure at a false return threshold | `SE-152-B__MAW-W_The_Wandering_Requiem.md` |
 | Suit | The Wandering Shroud | β | Lament | Protects a bearer while passing between remembered and current space | `SE-152-C__MAW-S_The_Wandering_Shroud.md` |
-| Gift | The Wandering Key | β | Lament | Opens a temporary passage to a remembered place | `SE-152-D__MAW-G_The_Wandering_Key.md` |
+| Stigma | The Wandering Key | β | Lament | Opens a temporary passage to a remembered place | `SE-152-D__MAW-G_The_Wandering_Key.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Wandering Key
+### M.A.W. Stigma — The Wandering Key
 
 | Field | Record |
 |---|---|

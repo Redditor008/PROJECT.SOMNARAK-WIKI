@@ -87,7 +87,7 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 |---|---|---:|---|---|---|
 | Weapon | The Burning Fang | δ | Grudge | Piercing response to active suppression and structural threat | `SE-092-B__MAW-W_The_Burning_Fang.md` |
 | Suit | The Burning Plate | δ | Grudge | Body protection against Crimson pressure and heat | `SE-092-C__MAW-S_The_Burning_Plate.md` |
-| Gift | The Burning Page | δ | Grudge | One irreversible reading of a hidden civic truth | `SE-092-D__MAW-G_The_Burning_Page.md` |
+| Stigma | The Burning Page | δ | Grudge | One irreversible reading of a hidden civic truth | `SE-092-D__MAW-G_The_Burning_Page.md` |
 
 ---
 
@@ -123,9 +123,9 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Burning Page
+### M.A.W. Stigma — The Burning Page
 
 | Field | Record |
 |---|---|

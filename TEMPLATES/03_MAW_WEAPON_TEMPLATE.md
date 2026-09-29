@@ -101,7 +101,7 @@ Registry Code: `MAW-W-{{NUM}}-01`
 
 ## SET RESONANCE
 
-{{1–2 sentences: what equipping full set (Weapon+Suit+Gift) grants. Must be unique per set, not generic.}}
+{{1–2 sentences: what equipping full set (Weapon+Suit+Stigma) grants. Must be unique per set, not generic.}}
 ~~~
 
 ---

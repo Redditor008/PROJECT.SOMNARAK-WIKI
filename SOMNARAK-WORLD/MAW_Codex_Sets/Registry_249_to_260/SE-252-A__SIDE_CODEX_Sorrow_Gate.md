@@ -59,13 +59,13 @@ Sorrow Gate is bloodless-cold outside and warm within. It smells of ash and whis
 
 ### *The Closed Threshold*
 
-The two registered manufactured forms derive from residue left by a historical unauthorized whisper event. Their creation procedure is sealed and may not be repeated. The sole Gift manifestation is likewise historical. Current extraction authority is **none**.
+The two registered manufactured forms derive from residue left by a historical unauthorized whisper event. Their creation procedure is sealed and may not be repeated. The sole Stigma manifestation is likewise historical. Current extraction authority is **none**.
 
 | Piece | Name | Grade | Purpose | Individual Codex |
 |---|---|---:|---|---|
 | Weapon | The Unknown — Extraction Lens | δ | Disperses one quarantined Void fragment across an area without approaching the Gate. | `SE-252-B__MAW-W_The_Unknown_Extraction_Lens.md` |
 | Suit | The Unknown — Extraction Veil | δ | Protects a listener during a thirteen-second truth exposure. | `SE-252-C__MAW-S_The_Unknown_Extraction_Veil.md` |
-| Gift | The Unknown — Extraction Charm | δ | Preserves the end of the whisper window while taking ordinary words from the bearer. | `SE-252-D__MAW-G_The_Unknown_Extraction_Charm.md` |
+| Stigma | The Unknown — Extraction Charm | δ | Preserves the end of the whisper window while taking ordinary words from the bearer. | `SE-252-D__MAW-G_The_Unknown_Extraction_Charm.md` |
 
 **Set cost:** Nameless memories disappear, the wearer becomes absent, and the bearer intermittently loses words. The equipment must never be interpreted as a key.
 
@@ -75,7 +75,7 @@ The two registered manufactured forms derive from residue left by a historical u
 
 - **Extraction Lens:** Void 7–25; Speed 4; Range 4; AoE 100% → 70% → 50%; maximum 2; 50 Echoes. Each use removes small nameless memories.
 - **Extraction Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; maximum 2; 45 Echoes. It protects Soul continuity while making the wearer absent.
-- **Extraction Charm:** Neck Gift; 4%; +3 Composure during source work. It marks the thirteen-second end; the bearer occasionally forgets a word.
+- **Extraction Charm:** Neck Stigma; 4%; +3 Composure during source work. It marks the thirteen-second end; the bearer occasionally forgets a word.
 
 ---
 

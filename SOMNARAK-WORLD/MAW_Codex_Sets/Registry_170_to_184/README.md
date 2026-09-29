@@ -1,6 +1,6 @@
 # Registry Codex Sets — 170 to 184
 
-This batch continues the individualized current-era codex archive after `SE-169`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Gift.
+This batch continues the individualized current-era codex archive after `SE-169`. Every included entity has one **Side Codex** and three separate **Individual M.A.W. & History Codices** for its Weapon, Suit, and Stigma.
 
 ## Included Entity Sets
 
@@ -69,7 +69,7 @@ The decision continues the Collector’s Row obligation thread from Harbinger, D
 ## Current-Era Record Rules Applied
 
 - Every document is dated **Year 4,238** and uses the current post-Cycle R.D. setting.
-- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Gift histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
+- Side Codices use the `-A` suffix. Individual Weapon, Suit, and Stigma histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
 - Individual records include source-consistent stat lines, extraction or bestowal conditions, binding and rejection rules, named witnesses or bearers, incidents, corrosion signs, maintenance, emergency shutdown, and full-set resonance.
 - Unrung and Loom of Unlived Dreams remain **O-Relics**. Individual M.A.W. records describe released echoes or threads, not material removed from the original source objects.
 - Somnium and Loom Dream work requires consent, waking anchors, and clear closure. No dream image is treated as a prediction, command, or substitute for a current person’s consent.

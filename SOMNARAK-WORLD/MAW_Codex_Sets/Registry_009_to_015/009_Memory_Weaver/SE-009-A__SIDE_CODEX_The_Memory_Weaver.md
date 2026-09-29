@@ -77,7 +77,7 @@ A memory too personal and raw for the Weaver to turn into collectible material o
 |---|---|---|---|---|---|
 | **Weapon** | The Forgotten Lens | γ | Void | Cuts false memory links and exposes erased records | `SE-009-B__MAW-W_The_Forgotten_Lens.md` |
 | **Suit** | The Forgotten Veil | γ | Void | Protects identity while making the bearer difficult to remember | `SE-009-C__MAW-S_The_Forgotten_Veil.md` |
-| **Gift** | The Forgotten Mask | γ | Void | Shields against memory-targeting effects at a personal cost | `SE-009-D__MAW-G_The_Forgotten_Mask.md` |
+| **Stigma** | The Forgotten Mask | γ | Void | Shields against memory-targeting effects at a personal cost | `SE-009-D__MAW-G_The_Forgotten_Mask.md` |
 
 ### Set Resonance — Archive of One
 

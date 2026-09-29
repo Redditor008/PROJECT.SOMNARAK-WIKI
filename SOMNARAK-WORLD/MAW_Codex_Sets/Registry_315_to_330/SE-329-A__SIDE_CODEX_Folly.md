@@ -65,9 +65,9 @@ An echo forms from upward melt that separates after Ferrehan and evaporates befo
 |---|---|---:|---|---|
 | Weapon | The Melting Lens | α | Dissolves one false reconstruction without striking the historical outline. | `SE-329-B__MAW-W_The_Melting_Lens.md` |
 | Suit | The Melting Veil | α | Preserves identity inside architecture losing definition. | `SE-329-C__MAW-S_The_Melting_Veil.md` |
-| Gift | The Melting Brick | α | Reveals intended purpose while preserving unrealized status. | `SE-329-D__MAW-G_The_Melting_Brick.md` |
+| Stigma | The Melting Brick | α | Reveals intended purpose while preserving unrealized status. | `SE-329-D__MAW-G_The_Melting_Brick.md` |
 
-**Set cost:** The wielder loses small memories, the wearer feels absent, and the Gift bearer feels every future the structure could have held.
+**Set cost:** The wielder loses small memories, the wearer feels absent, and the Stigma bearer feels every future the structure could have held.
 
 ---
 
@@ -75,7 +75,7 @@ An echo forms from upward melt that separates after Ferrehan and evaporates befo
 
 - **Melting Lens:** Void 3–6; Speed 2; Range 2; Single; maximum 5; 15 Echoes. Each use removes small nameless memories.
 - **Melting Veil:** Lament 1.2 / Grudge 0.8 / Void 0.3 / Weight 1.1; maximum 5; 10 Echoes. It resists Void while making the wearer absent.
-- **Melting Brick:** Head Gift; 5%; +1 Composure during source work. It reveals intended purpose; the bearer feels unrealized futures.
+- **Melting Brick:** Head Stigma; 5%; +1 Composure during source work. It reveals intended purpose; the bearer feels unrealized futures.
 
 ---
 

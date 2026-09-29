@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Obsidian Tear Drop Earring
+# M.A.W. STIGMA — The Obsidian Tear Drop Earring
 
 > *“The crystal does not make tears brave. It makes the act of weeping impossible to hide.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — tear earring |
+| Type | Accessory (Stigma) — tear earring |
 | Grade | β — Moderate |
 | Element | Lament — Deep Blue |
 | Slot | Tail |

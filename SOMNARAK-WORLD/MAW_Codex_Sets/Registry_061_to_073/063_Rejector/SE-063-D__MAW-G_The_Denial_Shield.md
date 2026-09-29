@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Denial Shield
+# M.A.W. STIGMA — The Denial Shield
 
 > *“It can refuse a blow. It can also refuse the hand reaching through the aftermath.”*
 
@@ -14,7 +14,7 @@
 
 | Field | Record |
 |---|---|
-| Type | Accessory (Gift) — shield pendant |
+| Type | Accessory (Stigma) — shield pendant |
 | Grade | γ — Major |
 | Element | Void — Pale White |
 | Slot | Head |
@@ -27,7 +27,7 @@ The Denial Shield is a small shield pendant of pale grey Han glass, shaped like 
 
 ### Ability— No Further
 
-Once per encounter, the Gift rejects one incoming direct attack, mark, or forced movement effect.
+Once per encounter, the Stigma rejects one incoming direct attack, mark, or forced movement effect.
 
 **Limit:** The Shield also rejects healing, rescue pull, and emotional support for the same short interval.
 

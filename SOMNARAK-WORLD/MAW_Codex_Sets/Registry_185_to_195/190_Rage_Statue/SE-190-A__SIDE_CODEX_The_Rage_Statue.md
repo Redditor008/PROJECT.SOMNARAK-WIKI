@@ -56,7 +56,7 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 |---|---:|---|---|---|
 | Weapon | The Vein-Heated Marble Brand | γ | Grudge | `SE-190-B__MAW-W_The_Rage_Fang.md` |
 | Suit | The Sculptor's Flame-Hardened Apron & Cuirass | γ | Grudge | `SE-190-C__MAW-S_The_Rage_Gauntlet.md` |
-| Gift | The Chiseled Knuckle Stigma | γ | Grudge | `SE-190-D__MAW-G_The_Rage_Charm.md` |
+| Stigma | The Chiseled Knuckle Stigma | γ | Grudge | `SE-190-D__MAW-G_The_Rage_Charm.md` |
 
 ---
 
@@ -64,7 +64,7 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 
 - **Rage Fang:** Grudge 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; 3 maximum; 40 Echoes. The strike carries acknowledged anger without making retaliation inevitable.
 - **Rage Gauntlet:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; 3 maximum; 35 Echoes. Strikes carry resentment; wearer struggles to distinguish justice from retaliation.
-- **Rage Charm:** Tail Gift; 4%; +2 source-work. Marks one held anger requiring an accountable outlet; cost is shortened temper.
+- **Rage Charm:** Tail Stigma; 4%; +2 source-work. Marks one held anger requiring an accountable outlet; cost is shortened temper.
 
 ---
 

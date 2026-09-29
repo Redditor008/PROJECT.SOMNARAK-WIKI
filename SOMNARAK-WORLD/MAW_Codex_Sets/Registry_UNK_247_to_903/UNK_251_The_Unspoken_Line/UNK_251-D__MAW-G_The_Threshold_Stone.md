@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Threshold Stone
+# M.A.W. STIGMA — The Threshold Stone
 
 ---
 
@@ -17,7 +17,7 @@ A Hand stone granted at **5%**: **β Void; +1 Clarity.** It lets two estranged p
 | Field | Exact source record |
 |---|---|
 | Official name | The Threshold Stone |
-| Type | Accessory (Gift) |
+| Type | Accessory (Stigma) |
 | Grade | β |
 | Element | Void |
 | Appearance | A smooth token, half gold, half grey, warm in one hand and cool in the other. |

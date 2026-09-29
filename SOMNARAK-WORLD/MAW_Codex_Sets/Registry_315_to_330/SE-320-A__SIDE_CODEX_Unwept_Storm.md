@@ -67,7 +67,7 @@ Extraction occurs only from crystallized hail after the Storm has passed and cas
 |---|---|---:|---|---|
 | Weapon | The Storm Maul | γ | Drives fallen Weight and structural load away from an evacuation line. | `SE-320-B__MAW-W_The_Storm_Maul.md` |
 | Suit | The Storm Shield | γ | Creates a moving shelter against Storm pressure while accumulating sorrow mass. | `SE-320-C__MAW-S_The_Storm_Shield.md` |
-| Gift | The Storm Charm | γ | Identifies shelter overload and the direction of lowest current pressure. | `SE-320-D__MAW-G_The_Storm_Charm.md` |
+| Stigma | The Storm Charm | γ | Identifies shelter overload and the direction of lowest current pressure. | `SE-320-D__MAW-G_The_Storm_Charm.md` |
 
 **Set cost:** The wielder grows heavy and ages, the Shield becomes heavier with absorbed sorrow, and the Charm slows its bearer.
 
@@ -77,7 +77,7 @@ Extraction occurs only from crystallized hail after the Storm has passed and cas
 
 - **Storm Maul:** Weight 7–12; Speed 3; Range 3; Pierce 100% → 70% → 50%; maximum 3; 40 Echoes. Prolonged use adds heaviness and age.
 - **Storm Shield:** Lament 1.0 / Grudge 1.0 / Void 1.5 / Weight 0.5; maximum 3; 35 Echoes. It absorbs Storm sorrow and becomes progressively heavier.
-- **Storm Charm:** Head Gift; 4%; +2 Resolve during source work. It identifies safer pressure direction and shelter overload; the bearer moves more slowly.
+- **Storm Charm:** Head Stigma; 4%; +2 Resolve during source work. It identifies safer pressure direction and shelter overload; the bearer moves more slowly.
 
 ---
 

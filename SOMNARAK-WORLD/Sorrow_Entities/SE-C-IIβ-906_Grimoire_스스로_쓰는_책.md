@@ -259,9 +259,9 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 
 **Cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought.
 
-### M.A.W. Gift — Grimoire's Token
+### M.A.W. Stigma — Grimoire's Token
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Grudge
+**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
 **Appearance:** a coin-token of crimson Han-iron, dark and faintly warm, warm to the touch.
 
@@ -271,9 +271,9 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 
-**Cost:** The bearer feels old injuries and old resentments sharpen whenever the gift is used.
+**Cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
-*Gifts are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Sleeping Breath
+# M.A.W. STIGMA — The Sleeping Breath
 
 > *“It grants a moment of true calm, then makes the wearer feel every exhausted person who had no place to rest.”*
 
@@ -18,7 +18,7 @@
 |---|---|
 | Official name | The Sleeping Breath |
 | Set | Guarded Rest |
-| Type / grade / element | Gift, black breath-token / δ — Critical / Weight — Black |
+| Type / grade / element | Stigma, black breath-token / δ — Critical / Weight — Black |
 | Slot | Head |
 | Status | Bearer-bound; camp fatigue review required |
 | Known bearer | Specialist Sooah Park |
@@ -33,7 +33,7 @@
 | Acquisition probability | 4% after successful Torpor work |
 | Bestowal event | The Breath formed after a full guarded rest cycle ended with the sleeper safely awake and the watch transferred. |
 | Acceptance condition | The candidate maps the camp’s actual rest deficit with a Border Watch reviewer. |
-| Source intent | Gift bestowal; it is not a command to sleep, a sedative, or a way to hide staffing exhaustion. |
+| Source intent | Stigma bestowal; it is not a command to sleep, a sedative, or a way to hide staffing exhaustion. |
 
 **Binding requirement:** The bearer commits to documenting every fatigue signal the Breath reveals after its calm interval.
 
@@ -43,7 +43,7 @@
 
 The Sleeping Breath is a dark breath-token of Han metal, small and round, that cools and warms with a slow quiet rhythm like breathing. It hangs from a short cord and can be held in the palm or worn at the chest. When a guard plan, wake plan, and relief rotation have been verified, the token releases one deep exhale through the bearer's immediate field, briefly softening every sound and letting a team reset breath, attention, and panic without losing the assigned watch. The token stays dormant if the bearer has no plan for who will guard the people receiving calm. It carries no Echo cost and grants one short restorative calm interval per reviewed use. After the interval, the wearer feels the exhaustion of every person who had hidden fatigue to avoid reassignment. It is never worn through a full unreviewed shift, and the reviewer covers the token and names the next rest assignment during shutdown.
 
-## GIFT STATISTICS
+## STIGMA STATISTICS
 
 | Field | Record |
 |---|---|
@@ -82,7 +82,7 @@ Park used the Breath at a border staging camp after a night of false alarms. The
 
 ## SET RELATIONSHIP
 
-The Breath completes *Wake the Watch*. Maul clears a fatigue field and Mantle protects rest; this Gift reveals the group cost so recovery does not become a private luxury for one bearer.
+The Breath completes *Wake the Watch*. Maul clears a fatigue field and Mantle protects rest; this Stigma reveals the group cost so recovery does not become a private luxury for one bearer.
 
 > *“Calm without a plan is only the quiet before the same exhaustion returns.”* — Border Lead Mellda
 

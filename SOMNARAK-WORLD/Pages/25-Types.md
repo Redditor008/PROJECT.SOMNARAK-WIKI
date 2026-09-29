@@ -43,7 +43,7 @@ Every contained entity is cataloged under one of four broad structural categorie
 ## 2 Subject Entities (Sentient Horrors)
 - **Work Rule:** Accepts all four canonical protocols: 👁 **Viderehan**, 🤲 **Ferrehan**, 💧 **Flerehan**, and ⚔ **Pugnahan**.
 - **Breach Capability:** Possesses a physical body that roams corridors when its **Mugenhan Escape Counter** reaches zero.
-- **M.A.W. Extraction:** Yields both weapons, defensive suits, and wearable cosmetic gifts.
+- **M.A.W. Extraction:** Yields both weapons, defensive suits, and wearable cosmetic stigmas.
 - **Representative Specimen:** [27-The Debt Eater](27-The%20Debt%20Eater.md).
 
 ## 3 Object Entities (Tool Relics)
@@ -73,7 +73,7 @@ Tool Relics are further divided into three functional operational modes:
 
 | Ontological Type | Motility | Permitted Work | Breach Behavior | Extraction Yield |
 |---|---|---|---|---|
-| **Subject** | Active autonomous roaming | All 4 Protocols | Corridors stalking; combat clashes | Weapons, Suits, Gifts |
+| **Subject** | Active autonomous roaming | All 4 Protocols | Corridors stalking; combat clashes | Weapons, Suits, Stigmas |
 | **Object (Tool)** | Inanimate stationary | Viderehan & Ferrehan | Overuse backlash pulse; zero roaming | Facility buffs; auras |
 | **Place** | Structural chamber expansion | Viderehan & Flerehan | Room swallows adjacent hallways | Dimensional relics |
 | **Time/Hazard** | Abstract temporal drift | Viderehan & Ferrehan | Distorts simulation clock / speed | Chronos dampeners |

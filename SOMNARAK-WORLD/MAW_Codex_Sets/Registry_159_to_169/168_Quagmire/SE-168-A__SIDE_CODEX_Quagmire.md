@@ -87,7 +87,7 @@ The set reveals hidden routes and supports orientation. It cannot complete anoth
 |---|---|---:|---|---|---|
 | Weapon | The Trace Requiem | α | Lament | Small direct response to lost-direction grief | `SE-168-B__MAW-W_The_Trace_Requiem.md` |
 | Suit | The Trace Shroud | α | Lament | Lament protection with a mandatory return line | `SE-168-C__MAW-S_The_Trace_Shroud.md` |
-| Gift | The Trace Lantern | α | Lament | Reveals hidden routes beneath sorrow and dust | `SE-168-D__MAW-G_The_Trace_Lantern.md` |
+| Stigma | The Trace Lantern | α | Lament | Reveals hidden routes beneath sorrow and dust | `SE-168-D__MAW-G_The_Trace_Lantern.md` |
 
 ---
 
@@ -122,9 +122,9 @@ The set reveals hidden routes and supports orientation. It cannot complete anoth
 
 ---
 
-## PAGE 06 — GIFT STAT CARD
+## PAGE 06 — STIGMA STAT CARD
 
-### M.A.W. Gift — The Trace Lantern
+### M.A.W. Stigma — The Trace Lantern
 
 | Field | Record |
 |---|---|

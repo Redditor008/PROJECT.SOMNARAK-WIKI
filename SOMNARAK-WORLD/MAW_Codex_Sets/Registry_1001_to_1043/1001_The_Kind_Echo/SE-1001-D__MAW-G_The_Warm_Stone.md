@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Warm Stone
+# M.A.W. STIGMA — The Warm Stone
 
 > *“The Warm Stone remembers The Kind Echo; the bearer must not mistake memory for permission.”*
 
@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career. Continued use makes The Kind Echo's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Stigma Record*
 
-The first The Warm Stone field bearer encountered this source response: The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. The gift discharges the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Warm Stone field bearer encountered this source response: The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. The stigma discharges the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first The Warm Stone field bearer encountered this source response: The enti
 
 ## SET RELATIONSHIP
 
-Within *The Kind Echo — Witnessed Form*, The Warm Stone performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Kind Echo — Witnessed Form*, The Warm Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

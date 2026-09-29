@@ -58,7 +58,7 @@ Sit within two meters, confirm her presence in the record, and remain for one se
 |---|---|---|---|---|---|
 | Weapon | The Silence Lens | β | Void | Creates a controlled quiet interval | `SE-043-B__MAW-W_The_Silence_Lens.md` |
 | Suit | The Silence Veil | β | Void | Protects presence against erasure | `SE-043-C__MAW-S_The_Silence_Veil.md` |
-| Gift | The Silence Cloak | β | Void | Lets a bearer withdraw from coercive recognition | `SE-043-D__MAW-G_The_Silence_Cloak.md` |
+| Stigma | The Silence Cloak | β | Void | Lets a bearer withdraw from coercive recognition | `SE-043-D__MAW-G_The_Silence_Cloak.md` |
 
 ### Set Resonance — Seen at Last
 

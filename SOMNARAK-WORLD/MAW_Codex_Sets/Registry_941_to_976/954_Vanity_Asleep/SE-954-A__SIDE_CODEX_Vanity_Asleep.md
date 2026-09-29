@@ -52,7 +52,7 @@ During the The Vanity Asleep Source-Trace, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies Vanity Asleep's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not wake it by force; look at the reflected self without turning away The set cannot heal the originating event. Misuse routes Vanity Asleep's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Vanity Asleep's source condition, the Suit lets a witness bear its Void (Pale White) pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not wake it by force; look at the reflected self without turning away The set cannot heal the originating event. Misuse routes Vanity Asleep's wound through the operator and triggers the recorded escalation.
 
 ---
 

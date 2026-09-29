@@ -1,4 +1,4 @@
-# M.A.W. GIFT — Labyrinth of the Unfinished Mind's Token
+# M.A.W. STIGMA — Labyrinth of the Unfinished Mind's Token
 
 > *“Labyrinth of the Unfinished Mind's Token remembers Labyrinth of the Unfinished Mind; the bearer must not mistake memory for permission.”*
 
@@ -24,11 +24,11 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the gift. Continued use makes Labyrinth of the Unfinished Mind's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma. Continued use makes Labyrinth of the Unfinished Mind's source sorrow feel autobiographical.
 
-## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Gift Record*
+## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Stigma Record*
 
-The first Labyrinth of the Unfinished Mind's Token field bearer encountered this source response: Permits study; the mind pressure becomes legible under sustained observation. The gift severs the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Labyrinth of the Unfinished Mind's Token field bearer encountered this source response: Permits study; the mind pressure becomes legible under sustained observation. The stigma severs the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first Labyrinth of the Unfinished Mind's Token field bearer encountered this
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Token performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 
