@@ -58,8 +58,8 @@ The 1,196 files are organized chronologically across 42 registry groupings:
 | `Registry_290_to_310` | SE-290 (Weighted Silence) to SE-310 (Dreaming Plague) | 6 sets |
 | `Registry_315_to_330` | SE-315 (Lethe) to SE-330 (Dead Air) | 6 sets |
 | `Registry_339_to_371` | SE-339 (Once Told) to SE-371 (Blackened Angel) | 6 sets |
-| `Registry_373_to_407` | SE-373 (YIN Fish) to SE-407 (YANG River Flood) | 6 sets |
-| `Registry_409_to_453` | SE-409 (YIN and YANG Sovereign) to SE-453 (Vanity Asleep) | 6 sets |
+| `Registry_373_to_407` | SE-373 (Till Someone Understands) to SE-407 (Lingering Place) | 6 sets |
+| `Registry_409_to_453` | SE-409 (Pillar Holding Nothing) to SE-453 (Spoor) | 6 sets |
 | `Registry_456_to_488` | SE-456 (Uprooted) to SE-488 (Unheard) | 6 sets |
 | `Registry_489_to_519` | SE-489 (Pandora's Jar) to SE-519 (Yggdrasil Wound) | 6 sets |
 | `Registry_525_to_559` | SE-525 (Willing Chains) to SE-559 (Survivor's Span) | 6 sets |

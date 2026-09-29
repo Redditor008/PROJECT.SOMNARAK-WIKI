@@ -29,7 +29,7 @@ script_data = {
         ("Sins, lies, evading the law — fluttered about the space", "SE-C-IVδ-251 (The Unspoken Line) slices across the room, severing ledgers and veils like confetti."),
         ("Leave love behind — and let’s dance more on delusion’s stage", "An Absolver in Resonant Alloy M.A.W. clashes in a frantic kinetic duel against breaching beasts."),
         ("Slowly mingle our sighs — I want to lose myself in the absurd sounds and rhythm", "SE-C-IIIγ-021 and SE-N-IIγ-903 harmonize into an overpowering acoustic frequency of despair."),
-        ("Sink into captivation’s daydream underground", "SE-948 (YANG River Flood) bursts containment, washing operatives into glowing subterranean rapids."),
+        ("Sink into captivation’s daydream underground", "SE-948 (The Foam Flood) bursts containment, washing operatives into glowing subterranean rapids."),
         (".", "SE-C-IIIγ-032 (The Weighting Bird) tilts its black balance scale downward in absolute silence."),
         ("Let me forget about it", "Operative falls backward with a vacant grin as a massive Grudge shockwave blows out the lights.")
     ],
@@ -42,7 +42,7 @@ script_data = {
         ("Campanella — The metropolis' night is looking down on us and laughing", "SE-O-IIIγ-1052 (The Glass Silt Drifter) gazes up through silos toward Somnarak City's cold lights."),
         ("Long ago, everyone wore unsightly masks", "SE-C-IIIγ-195 (Mirror of Sorrows) reflects distorted faces wearing grotesque animal masks."),
         ("If you nurture love with karma’s tears", "SE-941 (Grieving Love) coils tightly around an operative, weeping translucent blue saline."),
-        ("All that’s left to do is drown", "SE-949 (YIN and YANG Sovereign) collides in the corridor, inundating the sector in black-white waves.")
+        ("All that’s left to do is drown", "SE-949 (The Stormscale Sovereign) collides in the corridor, inundating the sector in black-white waves.")
     ],
     "SCENE 6": [
         ("Unhappy", "SE-N-Vω-1055 (The Ancestral Guilt) rises in the deep stratum, radiating crushing Void pressure."),

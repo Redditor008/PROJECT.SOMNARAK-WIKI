@@ -41,7 +41,7 @@ scenes = [
             ("[1:01] Sins, lies, evading the law — fluttered about the space", "SE-C-IVδ-140 (Gavel) slams its crushing iron hammer, while SE-N-IIβ-319 (The Magistrate’s Strike-Through) releases 'Pale Dust Fall', struck-through execution warrants fluttering like black-and-white confetti."),
             ("[1:04] Leave love behind — and let’s dance more on delusion’s stage", "An elite Absolver in Resonant Alloy M.A.W. clashes in a high-speed kinetic duel across Grid Nodes 3, 5, and 8, trading furious blows against breaching beasts."),
             ("[1:10] Slowly mingle our sighs — I want to lose myself in the absurd sounds and rhythm", "SE-N-IVδ-157 (Torpor) exhales 'The Slow Exhale'! Born from the unaddressed exhaustion of border guards, its titanic subterranean sigh blankets the chamber in suffocating rhythmic fatigue."),
-            ("[1:17] Sink into captivation’s daydream underground", "SE-C-IIIγ-948 (YANG River Flood) breaches! Born from the stone dragon longing to fly, its contagious yearning floods the corridors with rapids of iridescent white Han-energy."),
+            ("[1:17] Sink into captivation’s daydream underground", "SE-C-IIIγ-948 (The Foam Flood) breaches! Born from the stone dragon longing to fly, its contagious yearning floods the corridors with rapids of iridescent white Han-energy."),
             ("[1:19] .", "SE-C-IIIγ-032 (Weighting Bird) triggers 'The Tilted Scale'! Born from officials who weighed debt and guilt, it tilts its black balance scale downward in absolute, terrifying silence."),
             ("[1:22] Let me forget about it", "SE-C-IIIγ-928 (Lethe) releases its 'Void Mist Spill'! Born from the void sorrow the city tries to forget, violet vapors roll over fallen operatives, leaving them smiling vacantly as lights extinguish.")
         ]
@@ -57,7 +57,7 @@ scenes = [
             ("[1:41] Campanella — The metropolis' night is looking down on us and laughing", "SE-C-IIβ-210 (Laughing Mask) triggers 'The First Chuckle'! Born from the Mask Market performer whose laughter outlived him; it hangs in the air laughing hollowly down at the submerged city."),
             ("[1:48] Long ago, everyone wore unsightly masks", "SE-C-IIIγ-195 (Learned Your Face) casts 'The Reflection'! Reflecting unadmitted grief concealed behind the Veil, mirrors shatter along corridors revealing distorted mask-faces."),
             ("[1:53] If you nurture love with karma’s tears", "SE-N-IIIβ-941 (Grieving Love) displays 'Smothering Tenderness'! Born from apothecary Sooah who gave everything to her patients, her translucent blue slime body wraps around an operative in weeping affection."),
-            ("[1:59] All that’s left to do is drown", "SE-C-Vδ-949 (YIN and YANG Sovereign) collides in corridor! The small fish and stone dragon meet in an apocalyptic convergence storm, inundating the sector in black-and-white tidal waves.")
+            ("[1:59] All that’s left to do is drown", "SE-C-Vδ-949 (The Stormscale Sovereign) collides in corridor! The small fish and stone dragon meet in an apocalyptic convergence storm, inundating the sector in black-and-white tidal waves.")
         ]
     },
     {

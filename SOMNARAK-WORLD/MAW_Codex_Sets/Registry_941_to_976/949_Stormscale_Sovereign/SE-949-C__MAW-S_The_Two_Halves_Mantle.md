@@ -1,0 +1,61 @@
+# M.A.W. SUIT — The Two-Halves Mantle
+
+> *“The Two-Halves Mantle remembers The Stormscale Sovereign; the bearer must not mistake memory for permission.”*
+
+---
+
+**Document ID:** `SE-949-C`  
+**Linked Entity:** `SE-949` — The Stormscale Sovereign  
+**Source SECC Designation:** `C-Vδ-949 [MS]`  
+**Item Registry Code:** `MAW-S-949-01`  
+**Author:** Agent Iseulfros Kim  
+**Date:** Year 4,238 — Dawn Initiative  
+**Classification:** Classified  
+**Codex Set Completion:** `4/4`
+
+## IDENTITY & BINDING
+
+**Grade / Element:** δ / Mixed  
+**Canonical ability:** A mantle of two halves that spreads the wearer's resistance evenly across all four sorrows — uniquely, it has no weakness and no special strength, holding all elements at a steady, enduring rate.  
+**Binding rule:** the bearer names Stormscale Sovereign's event—The little fish, having eaten the dragon-stone, caused a rain that would not stop for a hundred years. Drowning in the guilt of it, the fish wished — not to fly, not to soar, but for the rain to end, for the sake of everyone drowning. A beam of light answered. The fish became the Sovereign — soot and foam, sky and river, vast and majestic — rose into the raining sky, and called the hundred-year rain back into the clouds. And then, because it was imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained.—and accepts this limit: There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses.
+
+## Appearance
+
+The Two Halves Mantle is the suit record of the The Stormscale Sovereign set — δ-grade, Mixed-element, holding all four sorrows at an even 0.8 Endured, worn at 44 Sorrow Echoes a deployment — and its canonical ability spreads resistance evenly across every register, the only suit balanced by design. Binding names the Sovereign's event — the fish that ate the dragon-stone caused a hundred-year rain, wished only for it to end, became the Sovereign, called the rain back, and fell again into a small fish, memory sealed, hunger remaining — and accepts the set's limit: no reliable suppression exists — evacuate and prevent reunion. The cost is division: the wearer feels of two minds about everything, the way the Sovereign is never wholly one element. The source-trace fixed doctrine: the worker endured the Fourfold Tide, holding all four sorrows at once as the Sovereign briefly does, and the Mantle uncouples the hazard only after attribution to the Sovereign. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
+## CORE STATISTICS
+
+| Lament | Grudge | Void | Weight | Maximum / Echo Cost |
+|---:|---:|---:|---:|---:|
+| 0.8 (Endured) | 0.8 (Endured) | 0.8 (Endured) | 0.8 (Endured) | 2 / 44 Sorrow Echoes |
+
+**Operational / binding cost:** The wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element. Continued use makes Stormscale Sovereign's source sorrow feel autobiographical.
+
+## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Suit Record*
+
+The first The Two-Halves Mantle field bearer encountered this source response: The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. The suit uncouples the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+
+## FAILURE, CORROSION & CARE
+
+- First sign: the bearer describes Stormscale Sovereign's event in first person.
+- Escalation: the item repeats the source response outside contact.
+- Terminal state: Stormscale Sovereign's manifestation uses the bearer as its new site.
+
+**Failure mode:** violating “There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses.” reverses the item’s benefit and raises the source Gauge.  
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Two-Halves Mantle only after attribution review.  
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Two-Halves Mantle; shutdown preserves the record but does not refund its cost.
+
+## SET RELATIONSHIP
+
+Within *The Stormscale Sovereign — Witnessed Form*, The Two-Halves Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+
+---
+
+**Document ID:** `SE-949-C`  
+**Linked Entity:** `SE-949`  
+**Item Registry Code:** `MAW-S-949-01`  
+**Author:** Agent Iseulfros Kim  
+**Date:** Year 4,238 — Dawn Initiative  
+**Classification:** Classified
+
+---

@@ -89,7 +89,7 @@ Verified on `arena/01a0b699-project-somnarak-wiki` — 1,710 files (2026-09-29).
 |---|---|---|---|---|
 | 1 | **Overview** | `1 Overview` | `README.md` + `PROJECT_SOMNARAK.md` + `CANON_TIMELINE.md` | 3 |
 | 2 | **Behavior** | `2 Behavior` / `2.1 Pairs & Families` | `Sorrow_Entities/` Work-Preference & Paired Fact Sheets | 292 |
-| 3 | **Origin** | `3 Origin` / `3.1 River` / `3.2 Bucket` / `3.3 Extraction` | `Master_Codices/01` (Weeping, Hand, Doorspeech) + `CANON_TIMELINE.md` — Weeping as River, Pale Mother as Carmen/Bucket, Wells as Pillars, Lumen as Cogito | 7 codices |
+| 3 | **Origin** | `3 Origin` / `3.1 River` / `3.2 Bucket` / `3.3 Extraction` | `Master_Codices/01` (Weeping, Hand, Doorspeech) + `CANON_TIMELINE.md` — Weeping as River, Root Grid as native Conduit (no Bucket analogue), Wells as Pillars, Lumen as Cogito | 7 codices |
 | 4 | **Lumen (Enkephalin analogue)** | `4 Enkephalin` | `Master_Codices/03` + `MAW_Codex` — facility power substrate | — |
 | 5 | **M.A.W. (E.G.O analogue)** | `5 E.G.O` / `5.1 Corrosion` / `5.2 Gifts` | `MAW_Codex_Sets/` — Side Codex + Weapon + Suit + Gift; Corrosion→Resonance Overload | 1,208 |
 | 6 | **Related Entities** | `6 Related Entities` / `6.1 Monsters` / `6.2 Ordeals` | `Mugenhan_Ecology/` (Tier 1 Mundane 15 + Tier 2 Sorrow-Infused 6 + Tier 3 Mortal 6) / `Ordeals/` (5 Colors × 4 Ranks) / `Unknown_Entities/` (12) | 79 |
@@ -105,7 +105,7 @@ Verified on `arena/01a0b699-project-somnarak-wiki` — 1,710 files (2026-09-29).
 
 ### Explanation — How It Holds Together
 
-- **Ontology:** The Weeping (River analogue) — collective Han flows beneath the city → leaks through structural gaps / comatose Wells → crystallizes as Sorrow Entities. The Pale Mother / Hand of Change leadership (Carmen/Bucket analogue) discovered that controlled extraction via **Lumen** (Cogito analogue) could discipline entities into containable forms, weaponized as **M.A.W.** (E.G.O analogue). This is why Somnarak’s civil Singularity is *containment*, not erasure — Han cannot be destroyed, only managed.
+- **Ontology:** The Weeping (River analogue) — collective Han flows beneath the city → leaks through structural gaps / comatose Wells → crystallizes as Sorrow Entities. The Hand of Change engineers, reading the Root Grid’s natural filtration, discovered that controlled extraction via **Lumen** (Cogito analogue) could discipline entities into containable forms, weaponized as **M.A.W.** (E.G.O analogue). This is why Somnarak’s civil Singularity is *containment*, not erasure — Han cannot be destroyed, only managed.
 - **Containment logic:** Sorrow Entities are immortalized sorrow-crystals — suppression-and-recontainment only (mirroring Abnormalities’ immutability). Orange-and-blue morality → handlers must learn the embodied sorrow’s *desire*, not reason with it. Repeated harm is intrinsic to the concept (e.g., a Debt Eater will always eat debt).
 - **Taxonomy tension:** City/Outside/Inner origins (`C`/`O`/`N`) explain why Dohan entities cluster in old structures, Oehan in the Desolate, Naehan in fracture logs; **Two-Work-Type Rule** (Object/Place/Time → Viderehan+Ferrehan only) prevents absurd direct empathy/repression on stationary sorrow; SECC vs Risk Level separation explains why `SE-C-IIIβ-014` and `ZAYIN–ALEPH` are orthogonal (as with Lobotomy’s `Letter-XX-YY` vs `ZAYIN→ALEPH`); Pairs & Families explain why facilities anti-colocate sets (Apocalypse Bird analogue: 3+ clustered Sorrow Entities risking Sovereign fusion).
 - **Epoch law:** Macro-epoch partition (`SED → UCD → R.D.` pre-Dawn, everything else post-Dawn) and Cycle Localization (1,778 cycles exist ONLY in R.D./Absolvohan; all other wings use `Year 4,238`) prevent temporal bleed — the city’s single most common lore error.
@@ -118,7 +118,7 @@ Verified on `arena/01a0b699-project-somnarak-wiki` — 1,710 files (2026-09-29).
 |---|---|---|
 | Abnormalities (Hwansangche) | Sorrow Entities (슬픔체, *Seulpeumche*) | `SOMNARAK-WORLD/Sorrow_Entities/` — 292 dossiers |
 | River (강) source | The Weeping (비탄의 강) — liquid Han river | `PROJECT_SOMNARAK.md` + `SOMNARAK_THE_WEEPING.md` |
-| Bucket (두레박) — Carmen’s nervous system | The Pale Mother — Hand of Change founding matriarch | `SOMNARAK_WHO_IS_WHO.md` + `CANON_TIMELINE.md` |
+| Bucket (두레박) — Carmen’s nervous system | The Root Grid — Alpha Tree filtration lattice (native conduit; no Bucket analogue) | `SOMNARAK_WHO_IS_WHO.md` + `CANON_TIMELINE.md` |
 | Well (우물) — comatose pillars | Mnemonic Wells — Well-house pillars | `Master_Codices/01` |
 | Cogito | Lumen | `Master_Codices/03` |
 | Enkephalin | Lumen / Resonance (facility power) | `Master_Codices/05` |

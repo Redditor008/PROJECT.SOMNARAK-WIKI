@@ -95,7 +95,7 @@ Set during the aftermath of the Underworld sweeps. Operative Taeho investigates 
 > *“A signature does not fade because the ink dried; it fades only when the heart that promised it stops beating.”* — Specialist Taeho
 
 ### 3.2 Canto II: Ash in the Well
-Focuses on the comatose Mnemonic Wells beneath Extraction Hall. Extraction Lead Zyrak struggles with the moral cost of extracting cognitive horrors from comatose subjects, confronting the ghost of the Pale Mother.
+Focuses on the comatose Mnemonic Wells beneath Extraction Hall. Extraction Lead Zyrak struggles with the moral cost of extracting cognitive horrors from comatose subjects, confronting the drowned choir of unclaimed voices pooled in the well sediment.
 
 > *“We do not drill for oil or water. We drill for the things mankind screamed into their pillows at three in the morning.”* — Zyrak
 

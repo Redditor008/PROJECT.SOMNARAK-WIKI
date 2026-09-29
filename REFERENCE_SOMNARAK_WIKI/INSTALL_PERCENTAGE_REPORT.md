@@ -216,7 +216,7 @@ Plain reading: **roughly 8 out of every 100 written units of the reference wiki 
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md | 2515 | 4.3% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIIγ-928_Forgetting_혼란의_독기.md | 2516 | 4.2% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIIγ-928_Lethe_혼란의_독기.md | 2574 | 3.8% |
-| LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIIγ-948_YANG_River_Flood_양룡.md | 6863 | 2.2% |
+| LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIIγ-948_Foam_Flood.md | 6863 | 2.2% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIα-062_Forgotten_Market_Stall_잊혀진_가게.md | 5023 | 4.1% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIα-062_Night_Peddler_잊혀진_가게.md | 5037 | 4.3% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIα-081_Broken_Mirror_거울의_조각.md | 5030 | 4.5% |
@@ -277,7 +277,7 @@ Plain reading: **roughly 8 out of every 100 written units of the reference wiki 
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIβ-901_Preserved_Heart_보존된_심장.md | 2613 | 3.8% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md | 2541 | 3.5% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIβ-906_The_Self-Writing_Book_스스로_쓰는_책.md | 2519 | 4.1% |
-| LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIβ-947_YIN_Fish_음어.md | 6303 | 2.4% |
+| LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIβ-947_Soot_Fry.md | 6303 | 2.4% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md | 4300 | 5.0% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IVβ-041_Grieving_Maiden_슬픔의_처녀.md | 4420 | 6.3% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md | 4470 | 6.4% |
@@ -429,7 +429,7 @@ Plain reading: **roughly 8 out of every 100 written units of the reference wiki 
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vδ-265_Sornos_잊혀진_신.md | 4772 | 5.3% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md | 4883 | 5.1% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vδ-290_The_First_Tear_첫_번째_눈물.md | 4997 | 5.4% |
-| LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vδ-949_YIN_and_YANG_Sovereign_음양룡.md | 6406 | 2.0% |
+| LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vδ-949_Stormscale_Sovereign.md | 6406 | 2.0% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md | 4745 | 5.4% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vω-002_Dawn_of_Mourning_애도의_여명.md | 4430 | 3.8% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vω-044_Dawn_of_Mourning_애도의_새벽.md | 4581 | 3.7% |
@@ -1896,18 +1896,18 @@ Plain reading: **roughly 8 out of every 100 written units of the reference wiki 
 | LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/946_Blackened_Angel/SE-946-B__MAW-W_The_Tarnish_Plume.md | 494 | 1.5% |
 | LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/946_Blackened_Angel/SE-946-C__MAW-S_The_Gilded_Shroud.md | 504 | 1.9% |
 | LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/946_Blackened_Angel/SE-946-D__MAW-G_The_Blue_Black_Tear.md | 504 | 1.3% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/947_YIN_Fish/SE-947-A__SIDE_CODEX_YIN_Fish.md | 701 | 1.2% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/947_YIN_Fish/SE-947-B__MAW-W_The_Still_Current.md | 472 | 1.4% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/947_YIN_Fish/SE-947-C__MAW-S_The_White_Scale.md | 464 | 1.9% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/947_YIN_Fish/SE-947-D__MAW-G_The_Black_Drop.md | 445 | 1.4% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/948_YANG_River_Flood/SE-948-A__SIDE_CODEX_YANG_River_Flood.md | 623 | 2.7% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/948_YANG_River_Flood/SE-948-B__MAW-W_The_Skyward_Spear.md | 460 | 1.4% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/948_YANG_River_Flood/SE-948-C__MAW-S_The_Glider_s_Mantle.md | 470 | 1.9% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/948_YANG_River_Flood/SE-948-D__MAW-G_The_Glowing_Eye.md | 445 | 1.5% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/949_YIN_and_YANG_Sovereign/SE-949-A__SIDE_CODEX_YIN_and_YANG_Sovereign.md | 855 | 1.5% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/949_YIN_and_YANG_Sovereign/SE-949-B__MAW-W_The_Fourfold_Fang.md | 585 | 1.5% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/949_YIN_and_YANG_Sovereign/SE-949-C__MAW-S_The_Two_Halves_Mantle.md | 575 | 1.6% |
-| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/949_YIN_and_YANG_Sovereign/SE-949-D__MAW-G_The_Mismatched_Eye.md | 554 | 1.4% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/947_Soot_Fry/SE-947-A__SIDE_CODEX_Soot_Fry.md | 701 | 1.2% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/947_Soot_Fry/SE-947-B__MAW-W_The_Still_Current.md | 472 | 1.4% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/947_Soot_Fry/SE-947-C__MAW-S_The_White_Scale.md | 464 | 1.9% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/947_Soot_Fry/SE-947-D__MAW-G_The_Black_Drop.md | 445 | 1.4% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/948_Foam_Flood/SE-948-A__SIDE_CODEX_Foam_Flood.md | 623 | 2.7% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/948_Foam_Flood/SE-948-B__MAW-W_The_Skyward_Spear.md | 460 | 1.4% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/948_Foam_Flood/SE-948-C__MAW-S_The_Glider_s_Mantle.md | 470 | 1.9% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/948_Foam_Flood/SE-948-D__MAW-G_The_Glowing_Eye.md | 445 | 1.5% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/949_Stormscale_Sovereign/SE-949-A__SIDE_CODEX_Stormscale_Sovereign.md | 855 | 1.5% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/949_Stormscale_Sovereign/SE-949-B__MAW-W_The_Fourfold_Fang.md | 585 | 1.5% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/949_Stormscale_Sovereign/SE-949-C__MAW-S_The_Two_Halves_Mantle.md | 575 | 1.6% |
+| LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/949_Stormscale_Sovereign/SE-949-D__MAW-G_The_Mismatched_Eye.md | 554 | 1.4% |
 | LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/954_Vanity_Asleep/SE-954-A__SIDE_CODEX_Vanity_Asleep.md | 433 | 2.8% |
 | LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/954_Vanity_Asleep/SE-954-B__MAW-W_The_Sleeping_Lens.md | 399 | 2.4% |
 | LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_941_to_976/954_Vanity_Asleep/SE-954-C__MAW-S_The_Sleeping_Veil.md | 393 | 2.7% |

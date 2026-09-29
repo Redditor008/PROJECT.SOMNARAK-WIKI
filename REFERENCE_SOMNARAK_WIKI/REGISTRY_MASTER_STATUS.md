@@ -239,9 +239,9 @@ All codices are packaged in one continuously updated archive: `Registry_Codex_Se
 | SE-941 Grieving Love | **4/4** |
 | SE-944 Calling Bloom | **4/4** |
 | SE-946 Blackened Angel | **4/4** |
-| SE-947 YIN Fish | **4/4** |
-| SE-948 YANG River Flood | **4/4** |
-| SE-949 YIN and YANG Sovereign | **4/4** |
+| SE-947 The Soot Fry | **4/4** |
+| SE-948 The Foam Flood | **4/4** |
+| SE-949 The Stormscale Sovereign | **4/4** |
 | SE-954 Vanity Asleep | **4/4** |
 | SE-959 Uprooted | **4/4** |
 | SE-965 Unheard | **4/4** |

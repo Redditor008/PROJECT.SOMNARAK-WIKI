@@ -42,7 +42,7 @@ scenes = [
             ("[1:01] Sins, lies, evading the law — fluttered about the space", "SE-C-IVδ-251 (The Unspoken Line) slices across room, severing ledgers, veils, and contracts like black confetti."),
             ("[1:04] Leave love behind — and let’s dance more on delusion’s stage", "Absolver in Resonant Alloy M.A.W. clashes in a frantic kinetic duel against charging breaching entities."),
             ("[1:10] Slowly mingle our sighs — I want to lose myself in the absurd sounds and rhythm", "SE-C-IIIγ-021 and SE-N-IIγ-903 harmonize into an overpowering acoustic frequency of despair and disorientation."),
-            ("[1:17] Sink into captivation’s daydream underground", "SE-948 (YANG River Flood) bursts containment, washing operatives into glowing rapids of iridescent Han-energy."),
+            ("[1:17] Sink into captivation’s daydream underground", "SE-948 (The Foam Flood) bursts containment, washing operatives into glowing rapids of iridescent Han-energy."),
             ("[1:19] .", "SE-C-IIIγ-032 (The Weighting Bird) tilts its black balance scale downward in absolute silence."),
             ("[1:22] Let me forget about it", "Operative falls backward with a vacant grin as a massive Grudge shockwave blows out the corridor lights.")
         ]
@@ -58,7 +58,7 @@ scenes = [
             ("[1:41] Campanella — The metropolis' night is looking down on us and laughing", "SE-O-IIIγ-1052 (The Glass Silt Drifter) gazes up through silos toward Somnarak City's cold, mocking skyscrapers."),
             ("[1:48] Long ago, everyone wore unsightly masks", "SE-C-IIIγ-195 (Mirror of Sorrows) reflects distorted faces wearing grotesque animal masks and hollow grins."),
             ("[1:53] If you nurture love with karma’s tears", "SE-941 (Grieving Love) coils tightly around an operative, weeping translucent blue saline down their armor."),
-            ("[1:59] All that’s left to do is drown", "SE-949 (YIN and YANG Sovereign) collides in corridor, inundating the sector in apocalyptic black-white waves.")
+            ("[1:59] All that’s left to do is drown", "SE-949 (The Stormscale Sovereign) collides in corridor, inundating the sector in apocalyptic black-white waves.")
         ]
     },
     {

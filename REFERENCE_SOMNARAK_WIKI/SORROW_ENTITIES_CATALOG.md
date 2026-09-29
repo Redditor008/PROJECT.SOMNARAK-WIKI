@@ -286,9 +286,9 @@ This catalog indexes all 285 unique Sorrow Entities currently documented in Faci
 | `SE-N-IIIβ-941` | **Grieving Love** | 슬픈 사랑 | HE (III) | Lament (Deep Blue) | [`SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md) |
 | `SE-O-IIIβ-944` | **Calling Bloom** | 부르는 꽃 | HE (III) | Lament (Deep Blue) | [`SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md) |
 | `SE-C-IVγ-946` | **Blackened Angel** | 검어진 천사 | WAW (IV) | Weight (Black) | [`SE-C-IVγ-946_Blackened_Angel_검어진_천사.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-946_Blackened_Angel_검어진_천사.md) |
-| `SE-C-IIβ-947` | **YIN Fish** | 음어 | TETH (II) | Weight (Black) | [`SE-C-IIβ-947_YIN_Fish_음어.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-947_YIN_Fish_음어.md) |
-| `SE-C-IIIγ-948` | **YANG River Flood** | 양룡 | HE (III) | Lament (Deep Blue) | [`SE-C-IIIγ-948_YANG_River_Flood_양룡.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-948_YANG_River_Flood_양룡.md) |
-| `SE-C-Vδ-949` | **YIN and YANG Sovereign** | 음양룡 | ALEPH (V) | Mixed | [`SE-C-Vδ-949_YIN_and_YANG_Sovereign_음양룡.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-949_YIN_and_YANG_Sovereign_음양룡.md) |
+| `SE-C-IIβ-947` | **The Soot Fry** | 음어 | TETH (II) | Weight (Black) | [`SE-C-IIβ-947_Soot_Fry.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-947_Soot_Fry.md) |
+| `SE-C-IIIγ-948` | **The Foam Flood** | 양룡 | HE (III) | Lament (Deep Blue) | [`SE-C-IIIγ-948_Foam_Flood.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-948_Foam_Flood.md) |
+| `SE-C-Vδ-949` | **The Stormscale Sovereign** | 음양룡 | ALEPH (V) | Mixed | [`SE-C-Vδ-949_Stormscale_Sovereign.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-949_Stormscale_Sovereign.md) |
 | `SE-N-IIIγ-954` | **Vanity Asleep** | 잠든 거울 | HE (III) | Void (Pale White) | [`SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md) |
 | `SE-O-IIIγ-959` | **Graveweed** | 솟아오른 뿌리 | HE (III) | Lament (Deep Blue) | [`SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md) |
 | `SE-C-Iα-965` | **Unheard** | 흐르는 침묵 | ZAYIN (I) | Grudge (Crimson) | [`SE-C-Iα-965_Unheard_흐르는_침묵.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-965_Unheard_흐르는_침묵.md) |

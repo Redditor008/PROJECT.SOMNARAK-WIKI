@@ -157,7 +157,7 @@ Certain extraordinary Sorrow Entities possess unstable or dual physical classifi
 
 3. **Convergence Metamorphosis (Binary Fusion):**
    - Entities existing as dual paired entities that fuse upon mutual breach.
-   - Example: *The Black Tear* (`SE-C-IVγ-948 [WS]`) and *The White Spark* (`SE-N-IVγ-947 [VS]`) merging into the dual-polarity Sovereign *Yin and Yang Sovereign* (`SE-C-Vδ-949 [Mixed Sovereign]`).
+   - Example: *The Black Tear* (`SE-C-IVγ-948 [WS]`) and *The White Spark* (`SE-N-IVγ-947 [VS]`) merging into the dual-polarity Sovereign *Stormscale Sovereign* (`SE-C-Vδ-949 [Mixed Sovereign]`).
 
 ### The Two-Work-Type Canonical Rule (Object, Place, Time, and Hazard Entities)
 

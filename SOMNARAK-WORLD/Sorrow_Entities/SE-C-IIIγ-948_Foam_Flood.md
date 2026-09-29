@@ -1,4 +1,4 @@
-# YANG River Flood — 양룡
+# The Foam Flood — 양룡
 
 > *"Touch it, and you will feel what it feels — the pull of the bright blue sky, and the grief of a shape made for flight that has never left the ground."*
 
@@ -75,7 +75,7 @@
 
 ### Combat Actions
 
-> **Reading its combat:** YANG River Flood does not strike; it *yearns.* Every effect is the carving's longing made contagious — the wish to fly, poured into whoever touches it or stands too long in its field. The danger is the sweetest danger of any wishing thing: it offers you the sky, and the sky is not yours to have.
+> **Reading its combat:** The Foam Flood does not strike; it *yearns.* Every effect is the carving's longing made contagious — the wish to fly, poured into whoever touches it or stands too long in its field. The danger is the sweetest danger of any wishing thing: it offers you the sky, and the sky is not yours to have.
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@
 - **The People:** The traveller (unidentified), and the long, unnamed line of hands that have touched the stone over the centuries and come away grieving the sky.
 - **Expanded origin context:** The carving's stone matches no known quarry; the dark dragon-form is integral to the block, not applied. The eyes glow without source. It is, by every measurement, a thing made to fly that cannot — and it knows it, and it has wanted, for as long as it has stood, the one thing it can never have.
 
-> ⚠ **WARNING — CLASSIFIED (see SE-C-Vδ-949):** YANG River Flood is cross-flagged with one other contained entity (the YIN Fish, C-IIβ-947) and with a **forbidden transformation outcome** logged under SE-C-Vδ-949. The two entities must **never** be reunited. The consequences of reunion are documented solely in the SE-C-Vδ-949 file (Echo-Core Eyes Only) and are **deliberately not repeated here**. Maintain maximum sectoral separation at all times; any drift in proximity is a Critical-priority emergency.
+> ⚠ **WARNING — CLASSIFIED (see SE-C-Vδ-949):** The Foam Flood is cross-flagged with one other contained entity (the Soot Fry, C-IIβ-947) and with a **forbidden transformation outcome** logged under SE-C-Vδ-949. The two entities must **never** be reunited. The consequences of reunion are documented solely in the SE-C-Vδ-949 file (Echo-Core Eyes Only) and are **deliberately not repeated here**. Maintain maximum sectoral separation at all times; any drift in proximity is a Critical-priority emergency.
 
 ## Behavior
 
@@ -148,7 +148,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. YANG River Flood is recorded as an Object with Object-Spirit manifestation and Lament (Deep Blue) elemental expression. The current record places it in the Dry Riverbed Vault, SECTOR-C-07, Zone C; personnel should not transfer assumptions from any other statue or relic. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the pull of the sky and the slow, aching urge to rise.
+The gauge response is only meaningful in context. The Foam Flood is recorded as an Object with Object-Spirit manifestation and Lament (Deep Blue) elemental expression. The current record places it in the Dry Riverbed Vault, SECTOR-C-07, Zone C; personnel should not transfer assumptions from any other statue or relic. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the pull of the sky and the slow, aching urge to rise.
 
 **Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has endured the longing without trying to fly — and that, for this entity, is the closest thing to kindness it understands. An increase means the carving was touched, or the eyes brightened; both move it toward the field's full spread.
 
@@ -184,14 +184,14 @@ The gauge response is only meaningful in context. YANG River Flood is recorded a
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | YANG River Flood begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates YANG River Flood: The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 10 Seconds | The Foam Flood begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Foam Flood: The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of a shape carved for flight that has never flown. the dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise. forged during flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. the r.d. sealed the riverbed, moved the carving to the vault, and began the record. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of YANG River Flood's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Foam Flood's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
 | 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to YANG River Flood: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Dry Riverbed Vault, SECTOR-C-07, Zone C, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Foam Flood: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Dry Riverbed Vault, SECTOR-C-07, Zone C, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -289,7 +289,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies the YANG River Flood as an Object with Object-Spirit manifestation. The first reliable markers are its Lament signature, the metre-tall pale-stone/black-dragon form, the glowing eyes, and its presence in the Dry Riverbed Vault, SECTOR-C-07, Zone C. |
+| **Initial exposure** | The observer identifies the Foam Flood as an Object with Object-Spirit manifestation. The first reliable markers are its Lament signature, the metre-tall pale-stone/black-dragon form, the glowing eyes, and its presence in the Dry Riverbed Vault, SECTOR-C-07, Zone C. |
 | **Sustained observation** | Continued observation confirms the Viderehan/Ferrehan response and the longing-field. Personnel must distinguish the carving's grief from its hazard — it is dangerous because it shares a wish too large to hold, not because it is cruel. |
 | **Activation or escalation** | The team records the first touch (gloved or bare), the eye-brightness, and the field-spread before applying the response procedure. |
 | **Post-contact review** | The observer must record what changed, what remained stable, and which detail was most difficult to describe. In the carving's case, the report is incomplete if it records only the hazard and omits that it is, recognisably, a thing made for the sky, fixed to the earth, wanting, for as long as it has stood, to rise. |
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-YANG River Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament (Deep Blue). The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
+The Foam Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament (Deep Blue). The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan only; one sanctioned 90-second gloved channel by Cartographer Yeonhwa for terrain mapping. The petitioner reported a complete, euphoric vision of flight, followed by acute sky-grief on return to the ground; composure readings dipped but stabilised within the hour. The carving's eyes brightened during the channel and have not fully dimmed since. Note: the relic cannot refuse the sharing of its longing — the core hazard — and the Vault remains sealed against unsanctioned contact.
@@ -313,7 +313,7 @@ Worked via Viderehan and Ferrehan only; one sanctioned 90-second gloved channel 
 Management: Do not touch — name the sky it cannot reach aloud, and let the eyes dim. Work response — Viderehan: the record opens in the eyes (Stable); Ferrehan: endure the pull of the sky (Decrease). Flerehan and Pugnahan invalid for Object entities. Three personnel have requested a second channel 'just to see the sky again.' They have been denied, and rotated off the Vault.
 
 **Entry 5 — <Sealed Record — Echo-Core Eyes Only>**
-⚠ **WARNING.** YANG River Flood is cross-flagged with one other contained entity (the YIN Fish, C-IIβ-947) and with a forbidden transformation outcome logged under SE-C-Vδ-949. The two entities must NEVER be reunited; the consequences are documented solely in the SE-C-Vδ-949 file and are deliberately not repeated here. The carving's eyes have been observed to dim briefly at any reference to C-IIβ-947 — the significance of this is classified and not to be investigated without Echo-Core authorisation. Current separation status: maximum (SECTOR-C-07 vs SECTOR-B-09); stable. Do not bring the two within line of sight.
+⚠ **WARNING.** The Foam Flood is cross-flagged with one other contained entity (the Soot Fry, C-IIβ-947) and with a forbidden transformation outcome logged under SE-C-Vδ-949. The two entities must NEVER be reunited; the consequences are documented solely in the SE-C-Vδ-949 file and are deliberately not repeated here. The carving's eyes have been observed to dim briefly at any reference to C-IIβ-947 — the significance of this is classified and not to be investigated without Echo-Core authorisation. Current separation status: maximum (SECTOR-C-07 vs SECTOR-B-09); stable. Do not bring the two within line of sight.
 
 ## 최종 관찰 (Final Observation)
 
@@ -321,7 +321,7 @@ Management: Do not touch — name the sky it cannot reach aloud, and let the eye
 
 | Name the sky it cannot reach aloud — and let the glowing eyes dim. | Lay a bare hand on the stone, and let it share the whole of its longing. |
 |---|---|
-| You speak the one truth the carving has held for as long as it has stood: *you were made for the sky, and you will never reach it.* The eyes flare once, bright as an open sky — and then, gently, dim. The longing-field stills. The dust settles. You understand what you are permitted to — that this is a thing made for flight that will never fly, and that the wanting is the whole of it. YANG River Flood is fully recorded. | You lay your hand on the stone. The sky rushes in. You fly — you fly — and then you are on the floor, and you are weeping, and you will look up for the rest of your life. The carving's eyes brighten a shade further. The encounter ends with the field a little wider, and you a little less grounded. |
+| You speak the one truth the carving has held for as long as it has stood: *you were made for the sky, and you will never reach it.* The eyes flare once, bright as an open sky — and then, gently, dim. The longing-field stills. The dust settles. You understand what you are permitted to — that this is a thing made for flight that will never fly, and that the wanting is the whole of it. The Foam Flood is fully recorded. | You lay your hand on the stone. The sky rushes in. You fly — you fly — and then you are on the floor, and you are weeping, and you will look up for the rest of your life. The carving's eyes brighten a shade further. The encounter ends with the field a little wider, and you a little less grounded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -332,13 +332,13 @@ Management: Do not touch — name the sky it cannot reach aloud, and let the eye
 
 **When the entity activates:** The eyes brighten to a hard, sky-white light, and the field lifts you — a handspan, no more — off the floor. For one held breath you are flying, truly flying, and the joy of it is the most complete joy you have ever felt. Then the field sets you down, and the joy ends, and what is left is the worst grief you have ever felt, for a sky you cannot have.
 
-**After departure:** The pull fades, but the ache stays — for days, sometimes weeks. Personnel report looking up too often, choosing the high rooms, dreaming of flight, waking on the ground. Departure from the YANG River Flood is not relief. It is the ache of having touched the sky, and then been set down, and then told you may not go back.
+**After departure:** The pull fades, but the ache stays — for days, sometimes weeks. Personnel report looking up too often, choosing the high rooms, dreaming of flight, waking on the ground. Departure from the Foam Flood is not relief. It is the ache of having touched the sky, and then been set down, and then told you may not go back.
 
 ## 상호작용 (Entity Interactions)
 
 ### Interaction Pattern
 
-YANG River Flood does not exist in total isolation. Its record carries a cross-flag to one other entity and a classified transformation outcome (see WARNING, SE-C-Vδ-949). When the related entity (or references to it) is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability. The carving's eyes brighten near open water.
+The Foam Flood does not exist in total isolation. Its record carries a cross-flag to one other entity and a classified transformation outcome (see WARNING, SE-C-Vδ-949). When the related entity (or references to it) is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability. The carving's eyes brighten near open water.
 
 **Interaction method:** Observe the carving alone first, establishing its baseline glow and field. Then — under Echo-Core authorisation only — record the first shared response at controlled distance, and whether the interaction calms, amplifies, or redirects the longing. Do not assume any interaction is safe to repeat; the carving's grief is closest to the surface near the cross-flagged entity.
 
@@ -348,7 +348,7 @@ YANG River Flood does not exist in total isolation. Its record carries a cross-f
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The YIN Fish (C-IIβ-947)** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The carving's eyes flare at any reference to the fish; the field spikes (and vice versa). | Spikes; both gauges rise; the eyes will not dim. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
+| **The Soot Fry (C-IIβ-947)** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The carving's eyes flare at any reference to the fish; the field spikes (and vice versa). | Spikes; both gauges rise; the eyes will not dim. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
 | **SE-C-Vδ-949 (the classified outcome)** | The transformation that the WARNING forbids. | Not to be invoked. See SE-C-Vδ-949 (Echo-Core Eyes Only). | Do not investigate without authorisation. |
 | **The Crystal Peaks** | The highest natural points in Mugenhan — the closest thing to sky the land offers. | The carving's field strengthens measurably when the Peaks are visible; the longing is calmer but deeper. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
@@ -389,7 +389,7 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IIIγ-948 [LO]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Object-Spirit manifestation
-**Common Name:** YANG River Flood (양룡)
+**Common Name:** The Foam Flood (양룡)
 **Containment Status:** Contained on-site — the Dry Riverbed Vault, SECTOR-C-07, Zone C (sealed against unsanctioned channeling)
 **Observation Level:** 3 — Monitored
 **Threat Assessment:** Major. A metre-tall sentient dragon-carving that shares its long longing to fly with anyone who touches it. Not aggressive, but contact is hazardous — the wish it shares is too large to hold, and the channelled will seek the sky from any height. Managed by sealed containment, insulated-glove protocol, and a strict 90-second channel limit.
@@ -408,7 +408,7 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above, and alongside the standing WARNING. YANG River Flood's behavior, Work Type response, activation condition, M.A.W. risk, and (classified) relationship to C-IIβ-947 must be read together. The nature of its connection to the cross-flagged entity is classified under SE-C-Vδ-949 and is not detailed here. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is valid only with the full classification above, and alongside the standing WARNING. Foam Flood's behavior, Work Type response, activation condition, M.A.W. risk, and (classified) relationship to C-IIβ-947 must be read together. The nature of its connection to the cross-flagged entity is classified under SE-C-Vδ-949 and is not detailed here. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, eye-glow baseline, channel logs, and — critically — the separation distance from C-IIβ-947, after every activation, expansion, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 
@@ -420,7 +420,7 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 
 ### Registry Trivia
 
-- **Classification detail:** YANG River Flood is an Object with Fragment (III) coherence and Major (γ) potency.
+- **Classification detail:** The Foam Flood is an Object with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament (Deep Blue), and its registered location is the Dry Riverbed Vault, SECTOR-C-07, Zone C.
 - **Recognition detail:** Personnel should identify it by the pale-stone/black-dragon form, the glowing eyes, and the upward tilt — and by the absolute rule of gloved, sub-90-second contact only.
 - **Record detail:** Among Object-Spirit entities, it is distinguished by a sealed longing and a grief that deepens with every sharing — and by the standing WARNING that it must never be reunited with SE-C-IIβ-947 (see SE-C-Vδ-949).

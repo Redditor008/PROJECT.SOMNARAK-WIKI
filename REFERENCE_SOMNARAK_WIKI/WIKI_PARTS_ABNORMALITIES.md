@@ -96,7 +96,7 @@ Verified `wiki.gg` Contents (2026-09-29):
 |---|---|---|
 | **Abnormalities** (Hwansangche) whole page | **Sorrow Entities** (슬픔체, *Seulpeumche* + individual names) | `SOMNARAK-WORLD/Sorrow_Entities/` (292 dossiers) + `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/` |
 | §2 Behavior / Pairs & Families | **Behavior & Work-Preference** / **Paired Entities** | `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` (Work Notes, Paired Fact Sheet) |
-| §3 Origin (River / Bucket / Well / Cogito) | **Primordial River / The Pale Mother / Mnemonic Wells / Lumen** | `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` + `CANON_TIMELINE.md` |
+| §3 Origin (River / Bucket / Well / Cogito) | **Primordial River / The Root Grid / Mnemonic Wells / Lumen** | `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` + `CANON_TIMELINE.md` |
 | §4 Enkephalin | **Lumen / Resonance** (facility power analogue) | `SOMNARAK-WORLD/Master_Codices/05_Tactical_Systems_and_Operations/` |
 | §5 E.G.O / Gifts / Corrosion | **M.A.W. (Memoria Armamentarium Weaponry)** Quadripartite: Side Codex + Weapon + Suit + Gift; Corrosion → **Resonance Overload** | `REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv` + `TEMPLATES/02–05` |
 | §6 Related: Monsters / Ordeals | **Mugenhan Ecology** / **Ordeals (5 Colors × 4 Ranks)** | `SOMNARAK-WORLD/Mugenhan_Ecology/` + `SOMNARAK-WORLD/Ordeals/` |

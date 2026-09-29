@@ -31,7 +31,7 @@
 
   - `30-Overview` → `07 §1 Overview`
   - `31-Behavior` → `07 §2 Behavior` + `07 §2.1 Pairs & Families` (image `RedFightingTheWolf.gif` → Yin/Yang, debt triad)
-  - `32-Genesis` → `07 §3 Origin` (River=Weeping, Bucket=Pale Mother, Extraction=Wells)
+  - `32-Genesis` → `07 §3 Origin` (River=Weeping, Conduit=Root Grid, Extraction=Wells)
   - `33-Lumen` → `07 §4 Lumen`
   - `34-M.A.W. Equipment` (hub) + `09-M.A.W. Equipment` → `07 §5 M.A.W.` (with `5.1 Resonance Overload`/`5.2 Gifts`)
   - `35-Mugenhan and Ordeals` + `10-Ordeals` + `11-Reverberations` → `07 §6 Related Entities` + `07 §7 Gameplay` (Ordeals share Watch)

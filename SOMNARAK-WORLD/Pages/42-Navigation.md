@@ -33,7 +33,7 @@ Rather than presenting an unstructured list of files, this index mirrors authent
 The three primary pillars that define the encyclopedia:
 
 - **[01-Main Page](01-Main%20Page.md)** — Grand Central Portal: maintenance counts (**292** SE, **42** M.A.W. sets, **60** Ordeals), primary portal cards, Facility 01 department armbands table, and navigation directory.
-- **[07-Sorrow Entities](07-Sorrow%20Entities.md)** — Master Bestiary Hub: the comprehensive thirteen-section bestiary covering cognitive manifestation, orange-and-blue morality, entity pairs and families, Weeping and Pale Mother genesis, Lumen energy, M.A.W. gear and overload, related incursions, four canonical work protocols, tool relic mechanics, SECC decoding, and archival codex dissolution.
+- **[07-Sorrow Entities](07-Sorrow%20Entities.md)** — Master Bestiary Hub: the comprehensive thirteen-section bestiary covering cognitive manifestation, orange-and-blue morality, entity pairs and families, Weeping and Root Grid genesis, Lumen energy, M.A.W. gear and overload, related incursions, four canonical work protocols, tool relic mechanics, SECC decoding, and archival codex dissolution.
 - **[05-Chronicle](05-Chronicle.md)** — Master Chronicle and Story Hub: the definitive history of Somnarak across Ante-Dawn expeditions, the 1,778 cycles of the Reverie Directorate, the Dawn of Hope at Year **4,238**, and the six Story Cantos.
 
 ## 2 The 2 Sub Ways (Facility Portals)

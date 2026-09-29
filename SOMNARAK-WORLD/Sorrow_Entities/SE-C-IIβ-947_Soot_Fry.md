@@ -1,4 +1,4 @@
-# YIN Fish — 음어
+# The Soot Fry — 음어
 
 > *"Still water, small shadow. Reach for it — and the lake comes out."*
 
@@ -74,7 +74,7 @@
 
 ### Combat Actions
 
-> **Reading its combat:** YIN Fish does not chase; it *waits.* It shows the 20 cm shadow to invite the hand, then becomes the 2.2 m body to take it. Its danger is the oldest danger of deep water — what looks small beneath the surface is almost never small beneath the surface.
+> **Reading its combat:** The Soot Fry does not chase; it *waits.* It shows the 20 cm shadow to invite the hand, then becomes the 2.2 m body to take it. Its danger is the oldest danger of deep water — what looks small beneath the surface is almost never small beneath the surface.
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@
 - A worker who reaches in is seized and dragged under; the puddle, despite its size, has no measurable bottom during an activation.
 - Prolonged proximity to the still water leaves personnel heavy and short of breath for hours, as if they had nearly drowned.
 - Each feeding deepens the hunger rather than sating it — the fish is always emptier after it eats.
-- If the resolution condition is not met, the YIN Fish breaches: the puddle overflows its metre and spreads, hunting across the wet ground for anything that moves.
+- If the resolution condition is not met, the Soot Fry breaches: the puddle overflows its metre and spreads, hunting across the wet ground for anything that moves.
 
 ## Appearance
 
@@ -143,7 +143,7 @@
 - **The People:** The fishermen of Zone B's eastern alleys — Byungho (병호), Somin (소민), and a third never identified — the first to reach for the small shadow and not come back up.
 - **Expanded origin context:** The fish carries a sealed-memory profile rare in the registry: it does not know its own origin, yet it *strains* toward one, responding to certain stimuli (notably the spoken word "fly") with a long, skyward stillness, as if something sealed were trying to surface. The source of that sealed memory is classified by the R.D.
 
-> ⚠ **WARNING — CLASSIFIED (see SE-C-Vδ-949):** YIN Fish is cross-flagged with one other contained entity (the YANG River Flood, C-IIIγ-948) and with a **forbidden transformation outcome** logged under SE-C-Vδ-949. The two entities must **never** be reunited. The consequences of reunion are documented solely in the SE-C-Vδ-949 file (Echo-Core Eyes Only) and are **deliberately not repeated here**. Maintain maximum sectoral separation at all times; any drift in proximity is a Critical-priority emergency.
+> ⚠ **WARNING — CLASSIFIED (see SE-C-Vδ-949):** The Soot Fry is cross-flagged with one other contained entity (the Foam Flood, C-IIIγ-948) and with a **forbidden transformation outcome** logged under SE-C-Vδ-949. The two entities must **never** be reunited. The consequences of reunion are documented solely in the SE-C-Vδ-949 file (Echo-Core Eyes Only) and are **deliberately not repeated here**. Maintain maximum sectoral separation at all times; any drift in proximity is a Critical-priority emergency.
 
 ## Behavior
 
@@ -156,7 +156,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. YIN Fish is recorded as a Subject with Subject-Body manifestation and Weight (Black) elemental expression. The current record places it at the Pale Puddle, SECTOR-B-09, Zone B; personnel should not transfer assumptions from any other water entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the heavy, drowning air and the slow, pulling urge to reach a hand into the small, still water.
+The gauge response is only meaningful in context. The Soot Fry is recorded as a Subject with Subject-Body manifestation and Weight (Black) elemental expression. The current record places it at the Pale Puddle, SECTOR-B-09, Zone B; personnel should not transfer assumptions from any other water entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the heavy, drowning air and the slow, pulling urge to reach a hand into the small, still water.
 
 **Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has endured the weight of the bank without giving the fish a hand — and that, for this entity, is the rarest mercy. An increase means the work read as food, or as the name the fish can no longer reach. Any limb that enters the puddle must be logged at once; an entry is the single most dangerous moment in the fish's containment.
 
@@ -261,10 +261,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies the YIN Fish as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the 20 cm black silhouette, the pale still puddle, and its presence at the Pale Puddle, SECTOR-B-09, Zone B. |
+| **Initial exposure** | The observer identifies the Soot Fry as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the 20 cm black silhouette, the pale still puddle, and its presence at the Pale Puddle, SECTOR-B-09, Zone B. |
 | **Sustained observation** | Continued observation confirms the Viderehan/Ferrehan response and the size-mismatch hazard. Personnel must distinguish the fish's hunger from malice — it is dangerous because it is endlessly empty, not because it is cruel. |
 | **Activation or escalation** | The team records the first lunge (the 20 cm shape blowing out to 2.2 m) and the puddle's sudden depth before applying the response procedure. |
-| **Post-contact review** | The observer must record what changed, what remained stable, and which detail was most difficult to describe. In the YIN Fish's case, the report is incomplete if it records only the hazard and omits that it is, recognisably, a small hungry thing that once wanted something other than food, and cannot remember what. |
+| **Post-contact review** | The observer must record what changed, what remained stable, and which detail was most difficult to describe. In the Soot Fry's case, the report is incomplete if it records only the hazard and omits that it is, recognisably, a small hungry thing that once wanted something other than food, and cannot remember what. |
 
 **Observation method:** Record the first visible sign (the silhouette tracking the bank), the first emotional sensation (the urge to reach in), the first measurable environmental change (the air growing heavy, the water going still), and the condition that ends the encounter (the hunger named, no hand in the water).
 
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-YIN Fish (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
+The Soot Fry (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was logged at 20 cm; a probe-line triggered a full lunge — the body measured 2.2 m, the puddle's measured depth during the lunge returned null on sonar (no floor). When Sentinel Harin spoke the word "fly" near the bank, the fish went motionless for three seconds and the eye oriented upward. Note: the word appears to resonate with a sealed memory. Do not repeat it casually.
@@ -285,7 +285,7 @@ Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was lo
 Management: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills. Work response — Viderehan: silhouette holds, full body mappable (Stable); Ferrehan: endure the drowning air (Decrease); Flerehan: quiet presence softens the eye (Decrease); Pugnahan: water blackens, fish retreats deep (Increase). Two personnel have reported an urge to 'just touch the water, just once.' They have been reassigned.
 
 **Entry 5 — <Sealed Record — Echo-Core Eyes Only>**
-⚠ **WARNING.** YIN Fish is cross-flagged with one other contained entity (the YANG River Flood, C-IIIγ-948) and with a forbidden transformation outcome logged under SE-C-Vδ-949. The two entities must NEVER be reunited; the consequences are documented solely in the SE-C-Vδ-949 file and are deliberately not repeated here. Current separation status: maximum (SECTOR-B-09 vs SECTOR-C-07); stable. Do not investigate the nature of the connection without Echo-Core authorisation. Do not bring the two within line of sight. Do not speak the trigger-words of one in the presence of the other.
+⚠ **WARNING.** The Soot Fry is cross-flagged with one other contained entity (the Foam Flood, C-IIIγ-948) and with a forbidden transformation outcome logged under SE-C-Vδ-949. The two entities must NEVER be reunited; the consequences are documented solely in the SE-C-Vδ-949 file and are deliberately not repeated here. Current separation status: maximum (SECTOR-B-09 vs SECTOR-C-07); stable. Do not investigate the nature of the connection without Echo-Core authorisation. Do not bring the two within line of sight. Do not speak the trigger-words of one in the presence of the other.
 
 ## 최종 관찰 (Final Observation)
 
@@ -293,7 +293,7 @@ Management: Do not reach in — name the hunger aloud (the thing it cannot remem
 
 | Name the hunger aloud — "you wanted something you cannot name" — and keep all hands from the water. | Cast a line, or reach in, to take the small silhouette. |
 |---|---|
-| You speak the want the fish sealed away and cannot reach. The great black eye breaks its watch on the water and lifts, for a moment, toward the sky. The silhouette stills, then softens, and the puddle goes gently calm. You understand what you are permitted to — that this fish is hungry for a thing it has forgotten, and that the forgetting is a mercy. YIN Fish is fully recorded. | You reach for the small, easy shape. The puddle erupts — the 2.2 m body, the unhinging jaw, the black water with no floor. You are taken before your hand closes. The fish feeds, and is emptier than before, and drifts on. The encounter ends without a record, because you became the record. |
+| You speak the want the fish sealed away and cannot reach. The great black eye breaks its watch on the water and lifts, for a moment, toward the sky. The silhouette stills, then softens, and the puddle goes gently calm. You understand what you are permitted to — that this fish is hungry for a thing it has forgotten, and that the forgetting is a mercy. The Soot Fry is fully recorded. | You reach for the small, easy shape. The puddle erupts — the 2.2 m body, the unhinging jaw, the black water with no floor. You are taken before your hand closes. The fish feeds, and is emptier than before, and drifts on. The encounter ends without a record, because you became the record. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -304,13 +304,13 @@ Management: Do not reach in — name the hunger aloud (the thing it cannot remem
 
 **When the entity activates:** The silhouette blows out — twenty centimetres becomes two metres in a single convulsion — and the puddle is suddenly full of a vast white body and one black eye and a jaw that opens far wider than the body should allow. The water, which was knee-deep, is now a shaft with no floor, and it is pulling you into it.
 
-**After departure:** The heaviness lifts, but the urge lingers — for hours, sometimes days. Personnel report catching themselves reaching toward glasses of water, taps, puddles in the street, as if something small and dark might drift in them. Departure from the YIN Fish is not relief. It is the ache of having nearly put a hand into water that had no bottom, and then not.
+**After departure:** The heaviness lifts, but the urge lingers — for hours, sometimes days. Personnel report catching themselves reaching toward glasses of water, taps, puddles in the street, as if something small and dark might drift in them. Departure from the Soot Fry is not relief. It is the ache of having nearly put a hand into water that had no bottom, and then not.
 
 ## 상호작용 (Entity Interactions)
 
 ### Interaction Pattern
 
-YIN Fish does not exist in total isolation. Its record carries a cross-flag to one other entity and a classified transformation outcome (see WARNING, SE-C-Vδ-949). When the related entity (or references to it) is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability. The fish is calmer near open water and agitated near stone or sky.
+The Soot Fry does not exist in total isolation. Its record carries a cross-flag to one other entity and a classified transformation outcome (see WARNING, SE-C-Vδ-949). When the related entity (or references to it) is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability. The fish is calmer near open water and agitated near stone or sky.
 
 **Interaction method:** Observe the fish alone first, establishing its baseline drift and hunger-cycle. Then — under Echo-Core authorisation only — record the first shared response at controlled distance, and whether the interaction calms, amplifies, or redirects the appetite. Do not assume any interaction is safe to repeat; the sealed memory is closest to the surface near the cross-flagged entity.
 
@@ -320,7 +320,7 @@ YIN Fish does not exist in total isolation. Its record carries a cross-flag to o
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The YANG River Flood (C-IIIγ-948)** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The fish's Gauge spikes sharply in the carving's presence (and vice versa). | Spikes; both gauges rise; sealed memory straining toward the surface. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
+| **The Foam Flood (C-IIIγ-948)** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The fish's Gauge spikes sharply in the carving's presence (and vice versa). | Spikes; both gauges rise; sealed memory straining toward the surface. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
 | **SE-C-Vδ-949 (the classified outcome)** | The transformation that the WARNING forbids. | Not to be invoked. See SE-C-Vδ-949 (Echo-Core Eyes Only). | Do not investigate without authorisation. |
 | **The Sorrow Lake** | A body of water older and vaster than the puddle the fish has settled for. | The fish drifts toward any open water it is moved near, as if drawn to a depth it recognises; calming but restless. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
@@ -365,7 +365,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IIβ-947 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight (Black) · Subject-Body manifestation
-**Common Name:** YIN Fish (음어)
+**Common Name:** The Soot Fry (음어)
 **Containment Status:** Contained on-site — the Pale Puddle, SECTOR-B-09, Zone B
 **Observation Level:** 2 — Basic
 **Threat Assessment:** Moderate. A 2.2 m Han-crystal fish, resting as a 20 cm silhouette in a metre-wide puddle, that lunges to full size and drags prey into water that has no measurable floor. Not aggressive, but endlessly hungry — feeding deepens the appetite. Contact is hazardous; the curious and the pitying reach in, and do not come back up.
@@ -383,7 +383,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above, and alongside the standing WARNING. YIN Fish's behavior, Work Type response, activation and breach condition, M.A.W. risk, and (classified) relationship to C-IIIγ-948 must be read together. The nature of its sealed memory and its connection to the cross-flagged entity are classified under SE-C-Vδ-949 and are not detailed here. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is valid only with the full classification above, and alongside the standing WARNING. Soot Fry's behavior, Work Type response, activation and breach condition, M.A.W. risk, and (classified) relationship to C-IIIγ-948 must be read together. The nature of its sealed memory and its connection to the cross-flagged entity are classified under SE-C-Vδ-949 and are not detailed here. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, the hunger-cycle baseline, and — critically — the separation distance from C-IIIγ-948, after every breach, expansion, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 
@@ -395,7 +395,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 ### Registry Trivia
 
-- **Classification detail:** YIN Fish is a Subject with Echo (II) coherence and Moderate (β) potency.
+- **Classification detail:** The Soot Fry is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Weight (Black), and its registered location is the Pale Puddle, SECTOR-B-09, Zone B.
 - **Recognition detail:** Personnel should identify it by the lone black silhouette drifting in a pale, unnaturally still puddle — and by the absolute rule that nothing living enters the water.
 - **Record detail:** Among Subject-Body entities, it is distinguished by a sealed-memory profile and an endless hunger with no discoverable source — and by the standing WARNING that it must never be reunited with SE-C-IIIγ-948 (see SE-C-Vδ-949).

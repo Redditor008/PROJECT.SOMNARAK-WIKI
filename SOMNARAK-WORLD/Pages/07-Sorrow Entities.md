@@ -27,7 +27,7 @@ Before the **Hand** learned to refine liquid **Han** into **Lumen**, sorrows wer
   - [2.1 Pairs and Families](#21-pairs-and-families)
 - [3 Origin](#3-origin)
   - [3.1 The Weeping (Primordial River)](#31-the-weeping-primordial-river)
-  - [3.2 The Pale Mother (Conduit)](#32-the-pale-mother-conduit)
+  - [3.2 The Root Grid (Conduit)](#32-the-root-grid-conduit)
   - [3.3 Extraction Process and Mnemonic Wells](#33-extraction-process-and-mnemonic-wells)
 - [4 Lumen Energy](#4-lumen-energy)
 - [5 M.A.W. Equipment](#5-maw-equipment)
@@ -84,9 +84,11 @@ The genesis of all Sorrow Entities traces through three primordial components of
 
 Flowing deep beneath the city's foundation strata is the **Weeping**  [비탄의 강]  (_Bitan-ui Gang_ — River of 🔵 **Lament**). It is a subterranean torrent of raw, unrefined liquid **Han** containing the collective suffering of human history. Just as groundwater seeps into basements, the Weeping seeps upward through geological fractures, condensing into anomalous cognitive entities wherever historical trauma was left unburied.
 
-### 3.2 The Pale Mother (Conduit)
+### 3.2 The Root Grid (Conduit)
 
-The extraction of stable, containable entities became possible only through the sacrifice of the **Pale Mother**, the founding matriarch of the **Hand of Change**. Her nervous system was suspended within the central extraction vat, acting as an existential filter that catches the raging torrent of the Weeping and separates it into individual, identifiable sorrow engrams.
+Raw Weeping cannot crystallize directly into stable entities; its torrent churns centuries of unrelated grief into undifferentiated flood. Filtration is performed by the **Root Grid**  [뿌리 격자]  (_Ppuri Gyeokja_ — Root Lattice) — the living lattice of Alpha Tree roots plunging through the cavern ceiling into the river’s main channel.
+
+Each root fiber combs the passing flow: heavy grief-sediment settles along the bark into discrete sorrow nodes, refined Han sap rises through the xylem to power the upper municipal sectors, and hostile intent is scrubbed from the current before it reaches the intake galleries. Facility 01’s lower floors were engineered directly over the primary channel so that the Mnemonic Wells below draw only pre-strained flow — which is why entities harvested beneath the Directorate hold stable shapes instead of dissolving back into flood.
 
 ### 3.3 Extraction Process and Mnemonic Wells
 

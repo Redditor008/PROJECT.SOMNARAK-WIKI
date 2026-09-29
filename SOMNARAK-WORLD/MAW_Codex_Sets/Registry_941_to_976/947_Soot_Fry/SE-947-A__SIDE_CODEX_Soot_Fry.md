@@ -1,6 +1,6 @@
-# SIDE CODEX — YIN Fish
+# SIDE CODEX — The Soot Fry
 
-> *“Preserve what YIN Fish reveals; never repeat the act that made its sorrow necessary.”*
+> *“Preserve what the Soot Fry reveals; never repeat the act that made its sorrow necessary.”*
 
 ---
 
@@ -38,11 +38,11 @@ A featureless white Han-crystal fish of unknown origin, recorded in the same Zon
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills
 
-## WITNESS RECORD — *The YIN Fish Source-Trace*
+## WITNESS RECORD — *The Soot Fry Source-Trace*
 
-During the The YIN Fish Source-Trace, the field team preserved this source fact: The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: An appetite without a source. The fish eats endlessly and is never full, and gives every sign of wanting something it cannot name. The hunger is the sorrow; the sorrow is the hunger; neither has an explanation the fish can offer, because the fish, by all measurement, does not remember *why* it is hungry.
+During the The Soot Fry Source-Trace, the field team preserved this source fact: The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: An appetite without a source. The fish eats endlessly and is never full, and gives every sign of wanting something it cannot name. The hunger is the sorrow; the sorrow is the hunger; neither has an explanation the fish can offer, because the fish, by all measurement, does not remember *why* it is hungry.
 
-## M.A.W. SET — *YIN Fish — Witnessed Form*
+## M.A.W. SET — *The Soot Fry — Witnessed Form*
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
@@ -52,7 +52,7 @@ During the The YIN Fish Source-Trace, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies YIN Fish's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills The set cannot heal the originating event. Misuse routes YIN Fish's wound through the operator and triggers the recorded escalation.
+The Gift identifies Soot Fry's source condition, the Suit lets a witness bear its Weight (Black) pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills The set cannot heal the originating event. Misuse routes Soot Fry's wound through the operator and triggers the recorded escalation.
 
 ---
 

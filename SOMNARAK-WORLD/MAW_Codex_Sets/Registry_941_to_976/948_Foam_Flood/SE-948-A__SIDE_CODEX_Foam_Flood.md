@@ -1,6 +1,6 @@
-# SIDE CODEX — YANG River Flood
+# SIDE CODEX — The Foam Flood
 
-> *“Preserve what YANG River Flood reveals; never repeat the act that made its sorrow necessary.”*
+> *“Preserve what the Foam Flood reveals; never repeat the act that made its sorrow necessary.”*
 
 ---
 
@@ -38,11 +38,11 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 **Trigger:** A hand laid upon the carving, or bare skin within the longing-field.  
 **Resolution:** Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim
 
-## WITNESS RECORD — *The YANG River Flood Source-Trace*
+## WITNESS RECORD — *The Foam Flood Source-Trace*
 
-During the The YANG River Flood Source-Trace, the field team preserved this source fact: Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a shape carved for flight that has never flown. The dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise.
+During the The Foam Flood Source-Trace, the field team preserved this source fact: Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a shape carved for flight that has never flown. The dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise.
 
-## M.A.W. SET — *YANG River Flood — Witnessed Form*
+## M.A.W. SET — *The Foam Flood — Witnessed Form*
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
@@ -52,7 +52,7 @@ During the The YANG River Flood Source-Trace, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Gift identifies YANG River Flood's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim The set cannot heal the originating event. Misuse routes YANG River Flood's wound through the operator and triggers the recorded escalation.
+The Gift identifies Foam Flood's source condition, the Suit lets a witness bear its Lament (Deep Blue) pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim The set cannot heal the originating event. Misuse routes Foam Flood's wound through the operator and triggers the recorded escalation.
 
 ---
 

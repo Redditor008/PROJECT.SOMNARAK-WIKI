@@ -41,7 +41,7 @@ scenes = [
             ("[1:01] Sins, lies, evading the law — fluttered about the space", "SE-C-IVδ-140 (Gavel), a towering iron judge with a crimson chest-scale, slams its hammer while SE-N-IIβ-319 (The Magistrate's Strike-Through) releases chalk-white dust, struck warrants fluttering like confetti."),
             ("[1:04] Leave love behind — and let’s dance more on delusion’s stage", "An elite Absolver in Resonant Alloy M.A.W. clashes in a high-speed kinetic duel across Grid Nodes 3, 5, and 8, trading furious steel blows against charging breaching beasts."),
             ("[1:10] Slowly mingle our sighs — I want to lose myself in the absurd sounds and rhythm", "SE-N-IVδ-157 (Torpor) exhales 'The Slow Exhale'! A vast dormant mass of heavy gray mist blankets the room, its leaden atmospheric pressure suffocating operatives in deep rhythmic fatigue."),
-            ("[1:17] Sink into captivation’s daydream underground", "SE-C-IIIγ-948 (YANG River Flood) breaches! A stone-carved dragon with jet-black scales and glowing white eyes radiates contagious yearning, flooding corridors with rapids of iridescent Han-energy."),
+            ("[1:17] Sink into captivation’s daydream underground", "SE-C-IIIγ-948 (The Foam Flood) breaches! A stone-carved dragon with jet-black scales and glowing white eyes radiates contagious yearning, flooding corridors with rapids of iridescent Han-energy."),
             ("[1:19] .", "SE-C-IIIγ-032 (Weighting Bird) triggers 'The Tilted Scale'! An eagle-sized raptor whose eyes are miniature brass balance scales tilts its head, tipping the scale downward in heavy, ominous silence."),
             ("[1:22] Let me forget about it", "SE-C-IIIγ-928 (Lethe) releases its 'Void Mist Spill'! Dense creeping violet vapors roll over fallen operatives, dissolving memory and identity until they smile vacantly as lights extinguish.")
         ]
@@ -57,7 +57,7 @@ scenes = [
             ("[1:41] Campanella — The metropolis' night is looking down on us and laughing", "SE-C-IIβ-210 (Laughing Mask) triggers 'The First Chuckle'! A brightly painted mask grinning unnervingly wide while weeping tears hovers in mid-air, laughing hollowly down at the submerged city."),
             ("[1:48] Long ago, everyone wore unsightly masks", "SE-C-IIIγ-195 (Learned Your Face) casts 'The Reflection'! A tall obsidian mirror of pale-black crystal shatters along corridors, revealing distorted weeping animal masks behind operatives' visors."),
             ("[1:53] If you nurture love with karma’s tears", "SE-N-IIIβ-941 (Grieving Love) displays 'Smothering Tenderness'! A 1.3-meter translucent blue slime woman with narrow shoulders and downcast eyes coils around an operative in weeping, suffocating affection."),
-            ("[1:59] All that’s left to do is drown", "SE-C-Vδ-949 (YIN and YANG Sovereign) collides in corridor! A colossal flood dragon cleanly split into seamless flowing black and white halves triggers 'The Convergence Storm', drowning the sector in tidal waves.")
+            ("[1:59] All that’s left to do is drown", "SE-C-Vδ-949 (The Stormscale Sovereign) collides in corridor! A colossal flood dragon cleanly split into seamless flowing black and white halves triggers 'The Convergence Storm', drowning the sector in tidal waves.")
         ]
     },
     {

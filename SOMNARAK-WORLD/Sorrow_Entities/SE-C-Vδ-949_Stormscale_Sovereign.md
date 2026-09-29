@@ -1,4 +1,4 @@
-# YIN and YANG Sovereign — 음양룡
+# The Stormscale Sovereign — 음양룡
 
 > *"For one bright moment I was the sky and the river at once — and then I was a small fish again, and hungry, and I could not remember why."*
 
@@ -15,7 +15,7 @@
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Mixed — A flood dragon of vast scale, its body divided cleanly down the length: one half black as deep water, the other half white as pale stone, the two halves flowing into one another without seam. Its eyes are paired — one black, one a soft glowing white — and its wings spread wide enough to cast a district in shadow. It is the shape of a thing that has, briefly, been whole. |
 | **Movement** | Mobile — it flies, and it swims, and where it passes the rain follows or recedes at its will; it is the only form in the trio that is not fixed or bound. |
-| **Location** | Latent — manifests only upon the reunion of the YIN Fish (C-IIβ-947) and the YANG River Flood (C-IIIγ-948); currently Unmanifested / Forbidden |
+| **Location** | Latent — manifests only upon the reunion of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948); currently Unmanifested / Forbidden |
 | **R.D. Observation Level** | 4 — Mastered (from a single historical transformation; never re-triggered) |
 
 ## Operational Parameters
@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 22–30 Han-Energy per successful work cycle |
 | **Work difficulty** | Extreme · R.D. Observation Level 4 — Mastered |
-| **Activation threshold** | The reunion of the YIN Fish and the YANG River Flood (FORBIDDEN) |
+| **Activation threshold** | The reunion of the Soot Fry and the Foam Flood (FORBIDDEN) |
 | **Tool / M.A.W. grade** | δ |
 | **Vessel-Destructible** | No — Sovereign; the form dissolves back into the fish, it cannot be shattered. |
 | **Han Dust Drop (Vessel Destruction)** | — (Sovereign; never vessel-destroyed) |
@@ -74,7 +74,7 @@
 
 ### Combat Actions
 
-> **Reading its combat:** YIN and YANG Sovereign is not fought; it is *weathered.* It is sky and river at once — its every action cycles through all four sorrows in sequence, the way a storm cycles through wind, rain, weight, and the cold white of the lightning's after. No single defence holds against it for long, because it does not stay any one element long enough to defend against. The historical encounter lasted only as long as it took the Sovereign to remember it had once been a fish, and to wish, for once, for something other than itself.
+> **Reading its combat:** The Stormscale Sovereign is not fought; it is *weathered.* It is sky and river at once — its every action cycles through all four sorrows in sequence, the way a storm cycles through wind, rain, weight, and the cold white of the lightning's after. No single defence holds against it for long, because it does not stay any one element long enough to defend against. The historical encounter lasted only as long as it took the Sovereign to remember it had once been a fish, and to wish, for once, for something other than itself.
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
@@ -127,9 +127,9 @@
 
 ## Origin
 
-- **Formation:** YIN and YANG Sovereign is the form the YIN Fish became when it consumed the YANG River Flood and, moved at last by the disaster it had caused, wished selflessly — for the first time in a thousand years — for the rain to stop.
+- **Formation:** The Stormscale Sovereign is the form the Soot Fry became when it consumed the Foam Flood and, moved at last by the disaster it had caused, wished selflessly — for the first time in a thousand years — for the rain to stop.
 - **The Sorrow:** The grief of a form that achieved, for one bright moment, everything it ever wanted — sky and river, flight and power, wholeness — and could not hold it, because it had been built on a thousand selfish wishes and only one selfless one.
-- **The Event:** The little fish, having eaten the dragon-stone, caused a rain that would not stop for a hundred years. Drowning in the guilt of it, the fish wished — not to fly, not to soar, but for the rain to end, for the sake of everyone drowning. A beam of light answered. The fish became the Sovereign — black and white, sky and river, vast and majestic — rose into the raining sky, and called the hundred-year rain back into the clouds. And then, because it was imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained.
+- **The Event:** The little fish, having eaten the dragon-stone, caused a rain that would not stop for a hundred years. Drowning in the guilt of it, the fish wished — not to fly, not to soar, but for the rain to end, for the sake of everyone drowning. A beam of light answered. The fish became the Sovereign — soot and foam, sky and river, vast and majestic — rose into the raining sky, and called the hundred-year rain back into the clouds. And then, because it was imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained.
 - **The People:** None. The Sovereign is the fish and the stone together; it has no other originator than the wish that fused them.
 - **Expanded origin context:** The Sovereign is the only form in the trio that was ever whole, and it was whole for the length of one selfless wish. The R.D. record holds that the form could be made stable — truly stable — if it were ever born of a selfless wish from the first, rather than summoned by reunion. No one has dared test it. The reunion is forbidden.
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. YIN and YANG Sovereign is recorded as a Subject with Subject-Spirit manifestation and Mixed elemental expression — the only entity in the registry that cycles all four sorrows at once. The current record marks it Latent / Unmanifested; it has no fixed location because it has not, since the original transformation, been allowed to exist. A stable gauge, in the only historical encounter, did not last: the form is inherently unstable, and no Work Type has been shown to hold it.
+The gauge response is only meaningful in context. The Stormscale Sovereign is recorded as a Subject with Subject-Spirit manifestation and Mixed elemental expression — the only entity in the registry that cycles all four sorrows at once. The current record marks it Latent / Unmanifested; it has no fixed location because it has not, since the original transformation, been allowed to exist. A stable gauge, in the only historical encounter, did not last: the form is inherently unstable, and no Work Type has been shown to hold it.
 
 **Reading the response:** Work success, against a Sovereign, is not measured in damage prevented but in time bought. A decrease means the Sovereign has been moved, for a moment, toward remembrance — toward the selfless wish that ended it the first time. An increase means the form is straining harder, and the fall, when it comes, will be heavier. There is no documented strategy that defeats this entity; there is only the hope that it defeats itself, kindly, before it breaks.
 
@@ -250,21 +250,21 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The Sovereign is identified by historical record only: a vast two-toned flood dragon, Mixed element, Sovereign coherence, manifested once and never re-triggered. No live observation exists; all data is archival. |
-| **Sustained observation** | N/A — the entity is Latent. Study is conducted via the resonance-harvested M.A.W. pieces and the cross-referenced files of its two halves (the YIN Fish, the YANG River Flood). |
+| **Sustained observation** | N/A — the entity is Latent. Study is conducted via the resonance-harvested M.A.W. pieces and the cross-referenced files of its two halves (the Soot Fry, the Foam Flood). |
 | **Activation or escalation** | The single documented activation is the original transformation; the suppression (the selfless wish) is recorded but not reproducible on demand. |
 | **Post-contact review** | The standing review is preventative: confirm, every cycle, that the Fish and the Stone remain at maximum separation, and that no condition capable of forcing their reunion has arisen. |
 
-**Observation method:** The Sovereign is observed only through its halves and its history. The primary ongoing observation is the measurement of distance between the YIN Fish and the YANG River Flood — the single variable that prevents this entity from existing.
+**Observation method:** The Sovereign is observed only through its halves and its history. The primary ongoing observation is the measurement of distance between the Soot Fry and the Foam Flood — the single variable that prevents this entity from existing.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-YIN and YANG Sovereign (C-Vδ-949 [MS]) is logged as a Subject-Spirit manifestation expressing Mixed (all four sorrows). The entity is the transformation-apex of the YIN Fish (C-IIβ-947) and the YANG River Flood (C-IIIγ-948): a vast black-and-white flood dragon, manifest once in the historical record, currently Latent. It is held non-manifest solely by the enforced separation of its two halves. Reunion is forbidden.
+The Stormscale Sovereign (C-Vδ-949 [MS]) is logged as a Subject-Spirit manifestation expressing Mixed (all four sorrows). The entity is the transformation-apex of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948): a vast black-and-white flood dragon, manifest once in the historical record, currently Latent. It is held non-manifest solely by the enforced separation of its two halves. Reunion is forbidden.
 
 **Entry 2 — <Excerpt from the Historical Transformation Record>**
-[Year lost to the flood.] The small fish consumed the dragon-stone. The river began to rain and did not stop for a hundred years. In the drowning, the fish wished — for the first time in a thousand years of wishing — for something other than itself: it wished for the rain to end. A beam of light answered. The fish became a great dragon, black and white, sky and river, and it rose and called the rain home. The form held for the length of the wish. Then, imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained. The stone settled back to a carving. The river dried. The three have been three ever since.
+[Year lost to the flood.] The small fish consumed the dragon-stone. The river began to rain and did not stop for a hundred years. In the drowning, the fish wished — for the first time in a thousand years of wishing — for something other than itself: it wished for the rain to end. A beam of light answered. The fish became a great dragon, soot and foam, sky and river, and it rose and called the rain home. The form held for the length of the wish. Then, imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained. The stone settled back to a carving. The river dried. The three have been three ever since.
 
 **Entry 3 — <Director's Memo>**
 "The Sovereign is the strongest argument in the Archive that transformation is possible, and the strongest warning that it is not free. One selfless wish made a Sovereign; a thousand selfish ones made it fall. We keep the Fish and the Stone apart because we cannot risk a second transformation born of anything less than a wholly selfless wish — and we have no way to guarantee one. If the reunion occurs, we will have a Sovereign, and we will have no plan. Do not let the reunion occur." — Director Majin
@@ -298,18 +298,18 @@ We have run the models. If the Fish and the Stone are reunited, and the resultin
 
 ### Interaction Pattern
 
-YIN and YANG Sovereign does not exist without its halves. Its only canonical interactions are with the YIN Fish and the YANG River Flood — and the interaction is, by definition, the transformation itself. The enforced separation of these three is the single most important containment relationship in the registry. Any change in the proximity of the Fish and the Stone must be logged and reviewed at once.
+The Stormscale Sovereign does not exist without its halves. Its only canonical interactions are with the Soot Fry and the Foam Flood — and the interaction is, by definition, the transformation itself. The enforced separation of these three is the single most important containment relationship in the registry. Any change in the proximity of the Fish and the Stone must be logged and reviewed at once.
 
 **Interaction method:** Do not introduce the halves. The only sanctioned "interaction" study is archival: the cross-referencing of the Fish's hunger-cycle, the Stone's longing-glow, and the historical transformation record, to detect any drift toward spontaneous reunion.
 
 ### Entity Interaction Record
 
-YIN and YANG Sovereign must be assessed as part of an entity network — indeed, it IS the network, fused. The interactions below are the canonical relationship points. They are, all of them, forbidden in practice.
+The Stormscale Sovereign must be assessed as part of an entity network — indeed, it IS the network, fused. The interactions below are the canonical relationship points. They are, all of them, forbidden in practice.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The YIN Fish** | The dark half of the Sovereign — the hungry fallen form. | Reunion triggers transformation. FORBIDDEN. The Fish's Gauge spikes in the Stone's presence. | Record distance (constantly); confirm separation every cycle. |
-| **The YANG River Flood** | The light half of the Sovereign — the longing grounded form. | Reunion triggers transformation. FORBIDDEN. The Stone's eyes flare in the Fish's presence. | Record distance (constantly); confirm separation every cycle. |
+| **The Soot Fry** | The dark half of the Sovereign — the hungry fallen form. | Reunion triggers transformation. FORBIDDEN. The Fish's Gauge spikes in the Stone's presence. | Record distance (constantly); confirm separation every cycle. |
+| **The Foam Flood** | The light half of the Sovereign — the longing grounded form. | Reunion triggers transformation. FORBIDDEN. The Stone's eyes flare in the Fish's presence. | Record distance (constantly); confirm separation every cycle. |
 | **The Weeping** | The source of all sorrow-water — the river the Fish once inhabited. | Theoretical: a Sovereign manifested at the Weeping itself would be immeasurably more powerful, and immeasurably less stable. | Do not test. |
 
 **Interaction procedure:** The procedure is, and only is, the maintenance of maximum separation between the Fish and the Stone, and the immediate reporting of any condition that could compromise it.
@@ -349,27 +349,27 @@ And that is the whole of it — the fish, the stone, the dragon — three files,
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-Vδ-949 [MS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Mixed · Subject-Spirit manifestation
-**Common Name:** YIN and YANG Sovereign (음양룡)
-**Containment Status:** Latent / Unmanifested — Forbidden; held non-manifest solely by the enforced separation of the YIN Fish (SECTOR-B-09) and the YANG River Flood (SECTOR-C-07)
+**Common Name:** The Stormscale Sovereign (음양룡)
+**Containment Status:** Latent / Unmanifested — Forbidden; held non-manifest solely by the enforced separation of the Soot Fry (SECTOR-B-09) and the Foam Flood (SECTOR-C-07)
 **Observation Level:** 4 — Mastered (archival; one historical manifestation)
 **Threat Assessment:** Critical. A Mixed-element Sovereign flood dragon — the only entity that cycles all four sorrows simultaneously — with absolute weather-command and no single-element weakness. Not currently manifest. If summoned by reunion and not self-suppressed, there is no containment capacity on record able to suppress it. The single most dangerous latent entity in the registry.
 **Containment & Handling Procedures:**
-- Do not allow the reunion of the YIN Fish and the YANG River Flood. This is a survival condition, not a precaution.
+- Do not allow the reunion of the Soot Fry and the Foam Flood. This is a survival condition, not a precaution.
 - The Fish and Stone are held at maximum sectoral separation; their files are cross-flagged.
 - There is no reliable suppression of a manifested Sovereign. The historical resolution (its own selfless wish) is not reproducible on demand.
 **Observation Notes:**
-- The transformation-apex of the YIN Fish and the YANG River Flood; manifest once, in the historical record, during the hundred-year rain.
+- The transformation-apex of the Soot Fry and the Foam Flood; manifest once, in the historical record, during the hundred-year rain.
 - Inherently unstable: born of a thousand selfish wishes and one selfless one; it fell within one selfless wish of manifesting.
 - Mixed element: cycles all four sorrows simultaneously; no single defence applies.
-**Cross-References:** The hundred-year rain · the YIN Fish (C-IIβ-947) · the YANG River Flood (C-IIIγ-948) · the Weeping
+**Cross-References:** The hundred-year rain · the Soot Fry (C-IIβ-947) · the Foam Flood (C-IIIγ-948) · the Weeping
 **Faction Involvement:** R.D. (containment & the separation protocol) · Director's Office (the standing forbiddance) · Archive (the single historical record)
 **Originator:** The wish of a small fish — selfish for a thousand years, selfless for one bright instant — and the dragon-stone it consumed to make the wish real.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above, and only alongside the files of its two halves. YIN and YANG Sovereign is not a standalone entity; it is the fused form of two others, and it cannot be understood, contained, or — if it manifests — suppressed, except through them. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is valid only with the full classification above, and only alongside the files of its two halves. The Stormscale Sovereign is not a standalone entity; it is the fused form of two others, and it cannot be understood, contained, or — if it manifests — suppressed, except through them. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck, every cycle, the separation distance between the YIN Fish and the YANG River Flood — the single variable that keeps this entity Latent. Any drift toward reunion is a Critical-priority emergency. The R.D. record describes a living potential, not a permanently complete explanation — and the potential is, by every model, existential.
+**Review requirement:** Recheck, every cycle, the separation distance between the Soot Fry and the Foam Flood — the single variable that keeps this entity Latent. Any drift toward reunion is a Critical-priority emergency. The R.D. record describes a living potential, not a permanently complete explanation — and the potential is, by every model, existential.
 
 ## Trivia
 
@@ -379,10 +379,10 @@ And that is the whole of it — the fish, the stone, the dragon — three files,
 
 ### Registry Trivia
 
-- **Classification detail:** YIN and YANG Sovereign is a Subject with Sovereign (V) coherence and Critical (δ) potency.
+- **Classification detail:** The Stormscale Sovereign is a Subject with Sovereign (V) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Mixed (all four), and it has no fixed location — it is Latent, held non-manifest by separation.
 - **Recognition detail:** Unmistakable if manifest — a vast two-toned flood dragon commanding the weather; but it should never be seen, because seeing it means the reunion has occurred.
-- **Record detail:** The apex of a transformation trio — the fused form of the YIN Fish and the YANG River Flood, whole for one bright moment, fallen for all the centuries since.
+- **Record detail:** The apex of a transformation trio — the fused form of the Soot Fry and the Foam Flood, whole for one bright moment, fallen for all the centuries since.
 - **Containment detail:** Latent does not mean safe. The separation of its two halves is the only thing keeping this entity from existing; the warning is not a precaution but a survival condition.
 
 ## Document Information
