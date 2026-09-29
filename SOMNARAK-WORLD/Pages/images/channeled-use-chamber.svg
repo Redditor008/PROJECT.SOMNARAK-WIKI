@@ -1,46 +1,73 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="0%" stop-color="#07090e"/>
+      <stop offset="50%" stop-color="#0f141d"/>
       <stop offset="100%" stop-color="#141a24"/>
     </linearGradient>
+
+    <!-- Industrial Blueprint Grid Pattern -->
+    <pattern id="tech-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.4"/>
+      <circle cx="24" cy="24" r="0.7" fill="#fbbf24" fill-opacity="0.25"/>
+    </pattern>
+
+    <!-- Hazard Stripes Pattern -->
+    <pattern id="hazard" width="12" height="12" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#fbbf24" stroke-width="2.5" stroke-opacity="0.15"/>
+    </pattern>
+
+    <!-- Header Panel Gradient -->
+    <linearGradient id="panel-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#161f2e"/>
+      <stop offset="100%" stop-color="#101520"/>
+    </linearGradient>
   </defs>
-  
-  <!-- Background -->
+
+  <!-- 1. Background Fill -->
   <rect width="640" height="360" fill="url(#bg)"/>
+
+  <!-- 2. Blueprint Grid Overlay -->
+  <rect width="640" height="360" fill="url(#tech-grid)"/>
+
+  <!-- 3. Outer Frame & Technical Borders -->
+  <rect x="12" y="12" width="616" height="336" rx="6" fill="none" stroke="#252e3d" stroke-width="1.5"/>
+  <rect x="16" y="16" width="608" height="328" rx="4" fill="none" stroke="#fbbf24" stroke-opacity="0.25" stroke-width="1"/>
+
+  <!-- Hazard Accent Bands on Sides -->
+  <rect x="18" y="20" width="6" height="320" fill="url(#hazard)"/>
+  <rect x="616" y="20" width="6" height="320" fill="url(#hazard)"/>
+
+  <!-- 4. Top Header Banner -->
+  <rect x="30" y="24" width="580" height="34" rx="4" fill="url(#panel-grad)" stroke="#252e3d" stroke-width="1"/>
+  <circle cx="48" cy="41" r="5" fill="#fbbf24"/>
+  <text x="62" y="45" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="11" font-weight="bold" fill="#fbbf24" letter-spacing="1.2">PROJECT SOMNARAK // LUMEN &amp; ENERGY INFRASTRUCTURE</text>
+  <text x="594" y="45" text-anchor="end" font-family="monospace" font-size="10" fill="#64748b">FACILITY 01 // CORE DEPOSITORY</text>
+
+  <!-- 5. Central Schematic Display Frame -->
+  <rect x="44" y="70" width="552" height="216" rx="6" fill="#0b0e14" fill-opacity="0.8" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Technical Reticle Corners -->
+  <path d="M 52 86 L 52 78 L 60 78" fill="none" stroke="#fbbf24" stroke-width="2"/>
+  <path d="M 588 86 L 588 78 L 580 78" fill="none" stroke="#fbbf24" stroke-width="2"/>
+  <path d="M 52 270 L 52 278 L 60 278" fill="none" stroke="#fbbf24" stroke-width="2"/>
+  <path d="M 588 270 L 588 278 L 580 278" fill="none" stroke="#fbbf24" stroke-width="2"/>
+
+  <!-- Specialized Center Glyph -->
   
-  <!-- Outer Border -->
-  <rect x="12" y="12" width="616" height="336" rx="8" fill="none" stroke="#252e3d" stroke-width="2"/>
-  <rect x="16" y="16" width="608" height="328" rx="6" fill="none" stroke="#d4af37" stroke-opacity="0.3" stroke-width="1"/>
-  
-  <!-- Header Bar -->
-  <rect x="24" y="24" width="592" height="36" rx="4" fill="#18202c"/>
-  <circle cx="44" cy="42" r="5" fill="#d4af37"/>
-  <text x="58" y="46" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12" font-weight="bold" fill="#d4af37" letter-spacing="1.5">SOMNARAK ARCHIVE // LUMEN &amp; ENERGY INFRASTRUCTURE</text>
-  <text x="596" y="46" text-anchor="end" font-family="monospace" font-size="11" fill="#718096">FACILITY 01</text>
-  
-  <!-- Central Emblem Box -->
-  <rect x="48" y="80" width="544" height="200" rx="6" fill="#10151f" stroke="#252e3d" stroke-width="1"/>
-  
-  <!-- Corner Tech Accents -->
-  <path d="M 52 96 L 52 84 L 64 84" fill="none" stroke="#d4af37" stroke-width="2"/>
-  <path d="M 588 96 L 588 84 L 576 84" fill="none" stroke="#d4af37" stroke-width="2"/>
-  <path d="M 52 264 L 52 276 L 64 276" fill="none" stroke="#d4af37" stroke-width="2"/>
-  <path d="M 588 264 L 588 276 L 576 276" fill="none" stroke="#d4af37" stroke-width="2"/>
-  
-  <!-- Geometric Center Icon -->
-  <polygon points="320,115 350,165 290,165" fill="none" stroke="#d4af37" stroke-width="2" stroke-opacity="0.6"/>
-  <circle cx="320" cy="148" r="8" fill="#d4af37" fill-opacity="0.8"/>
-  
-  <!-- Central Title -->
-  <text x="320" y="210" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="20" font-weight="bold" fill="#edf2f7" letter-spacing="0.5">Channeled Use Chamber</text>
-  
-  <!-- Subtitle / Watermark -->
-  <text x="320" y="240" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12" fill="#a0aec0" letter-spacing="1">AUTHENTIC VISUAL RECORD // MNEMONIC REPOSITORY</text>
-  
-  <!-- Footer Status Bar -->
-  <rect x="24" y="300" width="592" height="24" rx="3" fill="#141a24"/>
-  <text x="36" y="316" font-family="monospace" font-size="10" fill="#718096">SEC-LEVEL: ALPHA</text>
-  <text x="320" y="316" text-anchor="middle" font-family="monospace" font-size="10" fill="#d4af37">YEAR 4,238 / CYCLE 1,778</text>
-  <text x="604" y="316" text-anchor="end" font-family="monospace" font-size="10" fill="#718096">STATUS: VERIFIED</text>
+      <polygon points="320,122 355,168 285,168" fill="none" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+      <circle cx="320" cy="153" r="8" fill="#fbbf24" fill-opacity="0.8"/>
+      <circle cx="320" cy="165" r="45" fill="none" stroke="#fbbf24" stroke-width="1" stroke-dasharray="3,3" stroke-opacity="0.3"/>
+        
+
+  <!-- Central Title Display -->
+  <text x="320" y="242" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18" font-weight="bold" fill="#f1f5f9" letter-spacing="0.6">Channeled Use Chamber</text>
+  <text x="320" y="265" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8" letter-spacing="1.2">AUTONOMOUS ARCHIVAL TELEMETRY // CYCLE 1,778</text>
+
+  <!-- 6. Bottom Technical Status Bar -->
+  <rect x="30" y="298" width="580" height="26" rx="3" fill="#0f141d" stroke="#1e293b" stroke-width="1"/>
+  <text x="44" y="315" font-family="monospace" font-size="9" fill="#64748b">SEC: OMEGA-CLASS</text>
+  <text x="320" y="315" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#fbbf24">YEAR 4,238 // DAWN OF HOPE</text>
+  <text x="596" y="315" text-anchor="end" font-family="monospace" font-size="9" fill="#22c55e">TELEMETRY: SYNCHRONIZED</text>
 </svg>

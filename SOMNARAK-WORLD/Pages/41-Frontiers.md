@@ -88,8 +88,9 @@ The Directorate relies on frontier convoys for vital materials:
 [![The Maw Chasm Descent](images/the-maw-chasm-descent.svg)](images/the-maw-chasm-descent.svg)
 [![Horizon Caravan Armored Train](images/horizon-caravan-armored-train.svg)](images/horizon-caravan-armored-train.svg)
 [![Gieok Archival Sanctuary](images/gieok-archival-sanctuary.svg)](images/gieok-archival-sanctuary.svg)
+[![Somnarak City Masterplan Layout](images/somnarak-city-layout.svg)](images/somnarak-city-layout.svg)
 
-*Left: cross-section of the Maw and Katabagil descents; Center: armored caravan train; Right: Gieok mountain sanctuary.*
+*Left to right: cross-section of the Maw and Katabagil descents, armored caravan train, Gieok mountain sanctuary, and Somnarak City municipal masterplan.*
 ---
 
 ## 9 See also

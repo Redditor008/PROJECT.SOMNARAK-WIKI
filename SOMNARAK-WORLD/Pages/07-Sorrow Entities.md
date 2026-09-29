@@ -240,8 +240,9 @@ Facility 01 operates within a vast institutional network established by the Dawn
 [![Sorrow Entity Containment Chamber](images/sorrow-entity-containment-chamber.svg)](images/sorrow-entity-containment-chamber.svg)
 [![Work Protocol Execution](images/work-protocol-execution.svg)](images/work-protocol-execution.svg)
 [![M.A.W. Armament Showcase](images/maw-armament-showcase.svg)](images/maw-armament-showcase.svg)
+[![Master Bestiary Overview](images/master-bestiary-overview.svg)](images/master-bestiary-overview.svg)
 
-*Left: standard containment unit; Center: four canonical work protocols; Right: crystallized M.A.W. armament.*
+*Left to right: standard containment unit, four canonical work protocols, crystallized M.A.W. armament, and master bestiary registry.*
 ---
 
 ## 15 See also

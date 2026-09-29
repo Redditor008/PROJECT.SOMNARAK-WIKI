@@ -69,14 +69,15 @@ No external or temporary sandbox directories are referenced.
 ```
 
 ### Pillar I: The WIKI Hub (  위키 허브  , *Wiki Heobeu*)
-- **Source:** `SOMNARAK-WORLD/Master_Codices/`
+- **Source:** `SOMNARAK-WORLD/Pages/` and `SOMNARAK-WORLD/Master_Codices/`
 - **Core Focus:** Comprehensive setting encyclopedia, mechanical reference codices, administrative architecture, and comparative world studies.
 - **Key Modules & Routes:**
-  1. **Cosmology & Geography:** Detailed documentation of Somnarak City (  솜나락 도성  ), The Raw (  생경  ), The Desolate (  황무지  ), and the subterranean strata.
-  2. **The Reverie Directorate & The Absolvohan:** Departmental structures, administrative protocols, Floor Secretaries 01 through 10, Salt-Scrubbers, and the Dekan's High Command (`SOMNARAK-WORLD/The_Absolvohan/`).
-  3. **SECC Classification Codex:** Canonical decoding rules for Designation codes, Coherence tiers (I to V), Potency ranks (α to ω), Sorrow Categories, and Elemental affinities.
-  4. **Organizations & Factions:** The High Council, The Giltong arbiters, the 5 Syndicates of The Raw (The Menders, Rust Frays, Veil Merchants, Memory Washers, Debt Concourse), and the 10 Specialist Cadres.
-  5. **Comparative Codex:** The 19-section master comparative treatise analyzing 1-to-1 mechanical, narrative, and philosophical equivalents between Project Somnarak and Lobotomy Corporation / Project Moon.
+  1. **Canonical Wiki Pages (`SOMNARAK-WORLD/Pages/`):** 45 fully overhauled encyclopedic pages following the 3 Main Ways, 2 Sub Ways, and individual specimen dossiers with rich vector blueprints.
+  2. **Cosmology & Geography:** Detailed documentation of Somnarak City (  솜나락 도성  ), The Raw (  생경  ), The Desolate (  황무지  ), and the subterranean strata.
+  3. **The Reverie Directorate & The Absolvohan:** Departmental structures, administrative protocols, Floor Secretaries 01 through 10, Salt-Scrubbers, and the Dekan's High Command (`SOMNARAK-WORLD/The_Absolvohan/`).
+  4. **SECC Classification Codex:** Canonical decoding rules for Designation codes, Coherence tiers (I to V), Potency ranks (α to ω), Sorrow Categories, and Elemental affinities.
+  5. **Organizations & Factions:** The High Council, The Giltong arbiters, the 5 Syndicates of The Raw (The Menders, Rust Frays, Veil Merchants, Memory Washers, Debt Concourse), and the 10 Specialist Cadres.
+  6. **Comparative Codex:** The 19-section master comparative treatise analyzing 1-to-1 mechanical, narrative, and philosophical equivalents between Project Somnarak and Lobotomy Corporation / Project Moon.
 
 ### Pillar II: The STORY Hub (  서사 허브  , *Seosa Heobeu*)
 - **Source:** `SOMNARAK-WORLD/Story_Cantos/`

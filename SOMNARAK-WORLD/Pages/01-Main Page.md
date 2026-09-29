@@ -102,8 +102,10 @@ Somnarak fields nine operational departments across eight descending levels plus
 [![Alpha Tree Spire](images/alpha-tree-spire.svg)](images/alpha-tree-spire.svg)
 [![Facility 01 Floor Overview](images/facility-01-floor-overview.svg)](images/facility-01-floor-overview.svg)
 [![Nine Echo-Core Armbands](images/nine-echo-core-armbands.svg)](images/nine-echo-core-armbands.svg)
+[![Facility 01 Architectural Blueprint](images/the-hand-facility-layout.svg)](images/the-hand-facility-layout.svg)
+[![Somnarak City Layout](images/somnarak-city-layout.svg)](images/somnarak-city-layout.svg)
 
-*Left: the Alpha Tree over Facility 01; Center: cross-section of the nine operational floors; Right: departmental armbands.*
+*Top: the Alpha Tree over Facility 01, floor cross-section, and departmental armbands; Bottom: full Facility 01 architectural blueprint and Somnarak City municipal masterplan.*
 ---
 
 ## 7 See also

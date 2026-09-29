@@ -105,8 +105,9 @@ During a Reverberation crisis:
 [![Department Main Room](images/department-main-room.svg)](images/department-main-room.svg)
 [![Containment Unit Corridor](images/containment-unit-corridor.svg)](images/containment-unit-corridor.svg)
 [![Elevator Shaft Network](images/elevator-shaft-network.svg)](images/elevator-shaft-network.svg)
+[![Facility 01 Architectural Blueprint](images/the-hand-facility-layout.svg)](images/the-hand-facility-layout.svg)
 
-*Left: Department Main Room with restorative generator; Center: containment corridor; Right: vertical elevator network.*
+*Left to right: Department Main Room with restorative generator, containment corridor, vertical elevator network, and full Facility 01 architectural blueprint.*
 ---
 
 ## 7 See also
