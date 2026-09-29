@@ -1,54 +1,86 @@
 # Lumen Surge
 
-> *Light remembers being grief.*
+> *“Energy in Somnarak is not electricity; it is the distilled residue of human sorrow.”*
 
-**Lumen Surge** is the facility-wide rupture.[Lumen Surge](19-Lumen%20Surge.md) — is not an enemy but a pressure to route, like water finding the lowest **Veil**. The substance is **Lumen**, boxed **Han** refined from the **Weeping** via the Abyssal Well and the Deep Vault lattice, stored in the primary vault at 40,000 **Lumen** Units and in per-floor buffers at 5,000 LU with tertiary cells at 1,200 LU, gated by green (30 to **70** percent, all Works permitted), amber.
+**Lumen Surge**  [루멘 쇄도]  (_Rumen Swaedo_) refers to the rapid accumulation and extraction of **Lumen Units (LU)** during peak containment operations within Facility 01.
 
-The Reverie Directorate made Surge arithmetic municipal. Each of its **1,778** internal Cycles between Years 4,232 and **4,238** produced 0.02 tons **Han**-crystal, a yield that across six external years became supercritical and fueled the Absolvohan at Cycle **1,778** — the fuel for the Dawn Initiative’s twelve Hope Bearers aboard The Lantern to lift transmutation from 15 percent toward 45 percent. One Surge is containable by stabilizing **Lumen** and re-sealing the.
-
-Physics therefore precedes heroics. Pale **Pressure** at 1 percent equals 5 percent Max HP as conceptual damage, which is why **Lumen** is priced as conceptual as well as physical; deprivation collapses fields, contamination by unfiltered **Weeping** induces Fracture within watches, and over-extraction deepens the **Maw** that was first opened when the Cheongula consumed a thousand in Year 200. Portable cells after the Dawn allow the same physics to travel: Horizon Caravan’s six Arcs and Gieok’s seven strata carry 40,000-LU doctrine in smaller vessels, so that Surge logic outside Facility 01 remains Facility 01 logic. Full doctrine, including per-reservoir capacities, **Veil** thresholds, and post-Dawn portable use, is at ; see also [33-Lumen](33-Lumen.md) for Nature, Storage, and Hazards, and for why the **Maw** is terrain, not entity.[Lumen Surge](19-Lumen%20Surge.md) is also how the House teaches that **Lumen** is not manufactured but routed, and the city keeps that teaching visible so that it never cuts like.gg cuts when a paragraph is unfinished. The **Weeping** is liquid **Han** — structural grief — flowing beneath Facility 01 at −2,000→−7,200 via Katabagil seven Descents, colder and more silent than groundwater and murmuring toward both sorrow and the Alpha Tree  [알파 트리]  (_Alpa Teuri_ — Alpha Tree) whose roots were grown to drink it, as mapped in and where the Undercity, Raw, Desolate Outskirts, Wound, and **Maw** are kept as planetary terrain, not as entities, and where the Abyssal Well and Deep Vault lattice that filter the flow into **Lumen** — fluid to semi-crystalline, held in sealed vats and vein-like conduits, pale when stable and darkening when **Han** density surges, silent with a faint murmur when flowing — are kept as the refinement that makes the city not a metaphor for grief but a machine that runs on it, a transaction that became municipal when the **Hand** was built to refine the flow and that the Directorate made arithmetic at 0.02 tons per cycle × **1,778** = supercritical at Cycle **1,778**, fuel for the Absolvohan at Cycle **1,778** and for twelve Hope Bearers to lift transmutation 15%→45% aboard The Lantern, as priced in and where the House keeps the same filing without cutting.
-
-Physics therefore precedes heroics because deprivation collapses fields that keep Veils credible, contamination by unfiltered **Weeping** induces Fracture within watches where Pale at one percent equals five percent of Max HP as conceptual damage that bypasses armor logic while ⚫ **Weight** is pre-allocated as mixed burden, and over-extraction deepens the **Maw** that was first opened where the **Weeping** consumed a thousand during Cheongula in Year 200 as filed as terrain that cannot be Worked, only quarantined, in, a lesson the city learned that sorrow could become geography. The loop — citizens live and generate sorrow; sorrow seeps into the **Weeping**; the **Weeping** feeds the Alpha Tree; the **Hand** refines the flow into **Lumen** at 40,000 LU primary plus 5,000 LU per floor plus 1,200 LU tertiary, green 30–**70** percent all Works permitted, amber below 30 high-cost restricted, red above 85 breach risk rises, plus portable cells after the Dawn that power Horizon Caravan’s six Arcs and Gieok’s seven strata at the same **Lumen** physics — makes containment a routing problem, not a combat problem, where one Surge is containable by stabilizing **Lumen** and re-sealing the **Veil** and a chain of Surges is a lost day because each rupture raises **Containment** Level which gates [Ordeals](10-Ordeals.md) (**60**) and [Reverberations](11-Reverberations.md) (9) which further rupture the **Veil**, a paradox graphed in [32-Genesis](32-Genesis.md) and priced per **Watch** in [16-Daily Cycle](16-Daily%20Cycle.md) and [33-Lumen](33-Lumen.md) where the full doctrine lives and where the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new hazard is felt it is filed as a variant of one of the three hazards (deprivation, contamination, over-extraction), not as a new hazard, so the three remain three and the **Watch** remains routable.
-
-The **Lumen Surge** ledger also ensures that **Lumen** is what the city catches of the **Weeping**, and the catch is priced as **Han** density, atmosphere, and **Fracture** warnings through **Pressure** bands, where **Pale** at one percent equals five percent of **Max HP** as conceptual damage that bypasses armor logic while 🔴 **Grudge** scales with current **HP** and 🔵 **Lament** erodes will and ⚫ **Weight** mixes burden. The **Lumen Surge** is the audible form of **Veil** accounting, and the **House** learns to keep the **Veil** credible by renewing it between **Watches**, and the ledger remains accountable, and the city never cuts when a new **Surge** is felt.
-
-The ledger that the **Lumen Surge** page keeps is **Lumen** as what the city catches of the **Weeping**, where the catch is priced as **Han** density, atmosphere, and **Fracture** warnings through **Pressure** bands, where **Pale** at one percent equals five percent of **Max HP** as conceptual damage that bypasses armor logic while 🔴 **Grudge** scales with current **HP** and 🔵 **Lament** erodes will and ⚫ **Weight** mixes burden. The **Lumen Surge** is the audible form of **Veil** accounting, and the **House** learns to keep the **Veil** credible by renewing it between **Watches**, and the ledger remains accountable, and the city never cuts when a new **Surge** is felt, and the **House** keeps the same filing without cutting, and the ledger remains accountable, and the city never cuts when a new **Pressure** is felt.
+Energy in the Somnarak world is harvested directly from the psychological resonance of contained [Sorrow Entities](07-Sorrow%20Entities.md). As specialists interact with entities, raw Han gas is refined into usable power. Managing energy collection, surviving production surges, and overcharging the daily quota represent the primary economic drivers of the Directorate.
 
 ```text
 +========================================================================+
-| SOMNARAK — LUMEN SURGE                                                 |
+| SOMNARAK - LUMEN SURGE & ENERGY HARVESTING                             |
 +------------------------------------------------------------------------+
-| Substance | Lumen (boxed Han) 0.02t per cycle                          |
-| Event | Veil rupture to Reverberation                                  |
-| Archive | SOMNARAK_GEOLOGY.md to SOMNARAK_LUMEN.md                     |
+| Core Energy Form       | Han-Energy distilled into Lumen Units (LU)    |
+| Extraction Yield       | Positive Boxes (Lumen) vs Negative Boxes (Frac|
+| Daily Quota Target     | 100% Minimum Baseline for Shift Completion    |
+| Overcharge Bonus       | Surplus harvesting yields bonus LOB points    |
+| Crystalline Storage    | Mnemonic Generator (0.02 tons per cycle)      |
 +========================================================================+
 ```
 
-## Chain
+## Contents
 
-**Weeping** → **Han** → **Lumen** → **Watch** → **Veil**. Break any link and the Surge climbs. One Surge is containable; a chain is a lost day.
+- [1 Nature of Han-Energy and Lumen Units](#1-nature-of-han-energy-and-lumen-units)
+- [2 Extraction Physics: Positive vs Negative Boxes](#2-extraction-physics-positive-vs-negative-boxes)
+- [3 Daily Quota and the Overcharge Protocol](#3-daily-quota-and-the-overcharge-protocol)
+- [4 The Mnemonic Generator and Crystalline Storage](#4-the-mnemonic-generator-and-crystalline-storage)
+- [5 Energy Loss: Meltdowns, Breaches, and Sabotage](#5-energy-loss-meltdowns-breaches-and-sabotage)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
 
-During the Reverie Directorate, **1,778** cycles at 0.02 tons each became supercritical — the fuel for the Absolvohan at Year **4,238** Cycle **1,778**. **Lumen** is not an enemy but a pressure to route, like water.
+## 1 Nature of Han-Energy and Lumen Units
 
-## Physics
+The Reverie Directorate was founded on a singular metaphysical breakthrough: human grief and trauma, when subjected to the four canonical work protocols, produce an intensely concentrated, clean energetic current:
+- **Han-Energy (Raw State):** Volatile, vaporous, highly toxic to unshielded personnel.
+- **Lumen Units (Refined State):** Stabilized, luminous energy measured in discrete units (LU).
+- **Municipal Purpose:** Powering the facility's life-support shields, the [Healing Generator](22-Departments.md), and the subterranean Absolvohan engine.
 
-Full physics are at [33-Lumen](33-Lumen.md).
+## 2 Extraction Physics: Positive vs Negative Boxes
 
-Planetary geography is at `SOMNARAK_GEOLOGY.md` — not a **Sorrow Entity**.
+During each second of containment work, the interacting entity produces one energy box:
+- **Positive Box (Lumen Box):** A successful resonance roll. Glowing with golden light, it adds +1 LU to the facility's daily quota gauge and awards observation points.
+- **Negative Box (Fracture Box):** A failed resonance roll. Dark and fractured, it deals immediate elemental damage to the specialist corresponding to the entity's [Pressure Type](17-Pressure%20Types.md).
 
+The total capacity of energy an entity can yield during a single work session is fixed by its risk tier:
+- **Rank I (Whisper):** 10–12 Max LU
+- **Rank II (Murmur):** 14–16 Max LU
+- **Rank III (Fragment):** 16–20 Max LU (e.g., [27-The Debt Eater](27-The%20Debt%20Eater.md) yields 16 LU)
+- **Rank IV (Wail):** 24–30 Max LU
+- **Rank V (Sovereign):** 32–36 Max LU
 
+## 3 Daily Quota and the Overcharge Protocol
 
+Every operational day assigns a mandatory energy target:
+- **Baseline Clearance (100%):** Once the gauge reaches full capacity, the *Shift Complete* emergency override unlocks, allowing the Warden to terminate the shift instantly.
+- **The Overcharge Protocol:** Wardens may elect to continue working beyond 100% quota. Every additional 10% of overcharged Lumen converts into bonus LOB credits at shift evaluation, funding advanced specialist training and equipment fabrication.
+- **The Greed Dilemma:** Overcharging requires performing more work sessions, advancing the [Containment Levels](18-Containment%20Levels.md) gauge and risking devastating late-shift Ordeals.
 
-## Gallery
+## 4 The Mnemonic Generator and Crystalline Storage
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+Surplus energy harvested across operational shifts is routed into the subterranean core:
+- Located beneath the Alpha Tree, the **Mnemonic Generator** crystallizes fluid Lumen into solid Han crystals.
+- Across Facility 01's 1,778 historical cycles, this generator condensed precisely 0.02 tons of crystal per cycle.
+- This cumulative battery eventually achieved the critical threshold necessary to ignite the Dawn of Hope at Year 4,238.
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+## 5 Energy Loss: Meltdowns, Breaches, and Sabotage
+
+Energy harvested is not permanently safe until the shift concludes:
+- **Ignored Overloads:** Allowing a cell meltdown timer to expire instantly vaporizes 15% to 25% of the day's accumulated Lumen.
+- **Escaping Entities:** Certain parasitic entities consume stored energy as they roam corridors, physically draining the quota bar.
+- **Sabotage Panic:** A specialist undergoing a Sabotage panic state may tamper with departmental capacitors, discharging harvested energy into the floor.
+
+## 6 Gallery
+
+![Lumen Harvesting HUD](https://via.placeholder.com/320x180?text=Lumen+Harvesting+HUD)
+![Energy Box Extraction](https://via.placeholder.com/320x180?text=Energy+Boxes+Extraction)
+![Mnemonic Generator Core](https://via.placeholder.com/320x180?text=Mnemonic+Generator+Core)
+
+*Left: daily quota gauge HUD; Center: positive and negative energy box extraction; Right: subterranean generator core.*
 ---
 
-## See also
+## 7 See also
 
--[11-Reverberations](11-Reverberations.md)
--[33-Lumen](33-Lumen.md)
+- [33-Lumen](33-Lumen.md) — deep theoretical dive into Lumen physics
+- [16-Daily Cycle](16-Daily%20Cycle.md) — shift structure and energy quota milestones
+- [18-Containment Levels](18-Containment%20Levels.md) — meltdown levels and energy penalty risks
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — equipment fabrication using harvested Lumen

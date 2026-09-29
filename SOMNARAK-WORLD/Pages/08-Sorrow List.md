@@ -1,66 +1,129 @@
 # Sorrow List
 
-> *Every name is a day someone did not return.*
+> *“To number the sorrows is not to conquer them, but to know how many cages remain unbroken before the dawn.”*
 
-**Sorrow List** indexes the **292**[Sorrow Entities](07-Sorrow%20Entities.md).
+The **Sorrow List**  [슬픔 개체 목록]  (_Seulpeum Gaeche Mokrok_) serves as the comprehensive tactical register of all [Sorrow Entities](07-Sorrow%20Entities.md) documented and contained by the Reverie Directorate within Facility 01.
 
-The List is the municipal table where the **Hand** first decides what it will agree to keep. It presents every dossier as a row: portrait, SECC, name in Somnarak script with romanization, Origin and **Risk**, **Pressure** and Type, and the **M.A.W.** it will eventually yield. The table is sortable by Rank — **Whisper** I Residue (**46** dossiers) through **Murmur** II Echo (**70**), 🔵 **Lament** III **Fragment** (**82**), Wail IV Entity (**79**),.
-
-The first ten rows teach the grammar of the whole. `SE-C-IIIβ-014 The Debt Eater`  [빚을 먹는 자]  (_Biteul Meokneun Ja_) — City, **Fragment**, Moderate, 014, ⚪ **Void**, **Place**, 👁 **Viderehan** and 🤲 **Ferrehan** only — is the canonical example because its **Place** manifestation forces the Two-Work-Type rule visible without breach risk. It is followed by `015 The Debt Scale` and `016 The Echo Compass`, which complete the debt triad, then `021 The Hollow.
-
-Beyond the decet, the List continues through Scarred Memory and Dream Born origins — Veiled Tales that were already told, Scars that arrive with a wound, and Dreams that invent new logic — and through eight Types — Veilborne humanoid, Beastborne animal, Hallowed religious, Relic inanimate, Gearborne machinic, Unshaped abstraction, Tool useful, and Patron sponsored.[Relic Entities](37-Relic%20Entities.md) (**88**) are excluded here and indexed separately at [37-Relic Entities](37-Relic%20Entities.md) because their stationary-echo **M.A.W.** (mirrors, mantles, sands) follows a different fracture; **Unknown Entities** (12) are filed under and appear only after the Reverie Directorate. The authoritative registry remains, which reconciles the **292** count with the **285** unique codes and 529 files.
-
-**Risk** and **Pressure** are the List’s sortable budget, and the House prices each **Watch** through them before any narrative is opened. **Risk** `I **Whisper** **46** → II **Murmur** **70** → III **Fragment** **82** → IV Entity **79** → V **Sovereign** 10` plus five unfixed **Hazard**/**Time** dossiers (total **292**) tells how loudly a sorrow remembers and therefore how much **Veil** it can hollow; Potency `α Minor → ω Catastrophic` refines within Rank; **Pressure** `Grudge  [원한]  (_Wonhan_)` `Lament` `Void  [공허]  (_Gongheo_)` `Weight` tells how sorrow cuts (Crimson HP, Deep Blue sanity, Pale/White mind where one percent Pale equals five percent Max HP, ⚫ **Weight**/⚫ **Weight** mixed) and therefore which **M.A.W.** resistances a Suit must meet among forty-two sets at 735 pieces in. A higher **Risk** pays more **Lumen** per successful Work — roughly 8 LU for a **Whisper** **Place** such as `SE-C-IIIβ-014 where` where Short **10** / Medium 16 / Long 20-plus turn bands price the same **Risk** as the List does, so that a **Warden** who learns the List learns battle.
-
-The List’s decet from `014 Debt Eater` through `072 Fathers Broken Bond` is also a pedagogy of groups and fusion law, because the city learned that families of three or more that share a theme will attempt to merge or summon a **Sovereign**-class fusion if housed together — historically three avian sorrows of the Forgotten Forest threatened a **Sovereign** fusion — and the House limits such groups by placing their Veils far apart or splitting them across branches, a law indexed in (Three Birds of the Forgotten Forest, Three Sisters of the Echo Gardens) and in `39-Archival Codex`’s eighteen-section binding order (SECC, Parameters, Combat, Appearance, Origin, Behavior, Breach, **M.A.W.**, Observation, Story, Final Observation, Flavor, Interactions, Tale, Testimony, Record, Trivia) where Interactions is the section that prevents a quiet List from becoming a loud breach. The List therefore ends where the city’s most common error begins — mistaking a name for a thing — and the House prevents that error by making the List a table of codes (`SE-C-IIIβ-014` declares City/**Fragment**/β/014/⚪ **Void**/**Place**/👁 **Viderehan**-🤲 **Ferrehan** only without opening the dossier) that can be sorted before any story is read, a practice that keeps the city from cutting like.gg cuts when a paragraph is unfinished because SOMNARAK-WORLD’s completion is kept as citation, not as replacement, and the backing files remain the single source of truth.
-
-The List is also a budget that the House must balance before any **Watch**. **Risk** tells how loudly a sorrow remembers and Potency tells how narrowly it cuts, and the two together tell what the next **Watch** can afford. A higher **Risk** pays more **Lumen** for a successful Work but costs more **Veil** when the Work is neglected or the wrong Work is assigned. The House therefore sorts the List by **Risk** and **Pressure** before it chooses which sorrow a **Floor** can afford that **Watch**, and the **Warden** who learns the List learns the **Veil**.
-
-The [Sorrow List](08-Sorrow%20List.md) is also the budget that the House must balance before any **Watch**, where **Risk** tells how loudly a sorrow remembers and Potency tells how narrowly it cuts, and the two together tell what the next **Watch** can afford. A higher **Risk** pays more **Lumen** for a successful Work but costs more **Veil** when the Work is neglected or the wrong Work is assigned, so the House sorts the List by **Risk** and **Pressure** before it chooses which sorrow a **Floor** can afford that **Watch**, and the **Warden** who learns the List learns the **Veil**, and the city can hold grief without being hollowed by any single piece, and the city never cuts when a new sorrow is filed as a variant, not a 293rd.
+Every entity cataloged in this archive is cataloged under the Somnarak Entity Classification Code (SECC), detailing its structural origin, behavioral risk tier, primary elemental pressure, containment capacity, and breach status.
 
 ```text
 +========================================================================+
-| SOMNARAK — SORROW LIST                                                 |
+| SOMNARAK - MASTER SORROW ENTITIES CATALOG                              |
 +------------------------------------------------------------------------+
-| Indexed | 292 entities (285 unique SECC)                               |
-| Files | 529 dossiers (paired variants)                                 |
-| Code | SECC — Somnarak Sorrow Entity Code                              |
+| Registered Archive     | 292 Entities (285 SECC Master Codices)        |
+| Risk Tier Scale        | Whisper (I) to Sovereign (V) + Relics         |
+| Containment Protocols  | Viderehan - Ferrehan - Flerehan - Pugnahan    |
+| Pressure Types         | Grudge (Red) - Lament (Blue) - Void - Weight  |
+| Municipal Archive      | Reverie Directorate - Facility 01 Depository  |
 +========================================================================+
 ```
 
-## First Ten
+## Contents
 
-| # | SECC | Name | Origin and **Risk** |
-| --- | --- | --- | --- |
-| 014 | SE-C-IIIβ-014 | The Debt Eater  [빚을 먹는 자]  (_Biteul Meokneun Ja_) | City, **Fragment** |
-| 015 | SE-C-IIIβ-015 | The Debt Scale  [빚의 저울]  (_Bit-ui Jeoul_) | City, **Fragment** |
-| 016 | SE-C-IIIβ-016 | The Echo Compass  [메아리 나침반]  (_Meari Nachimban_) | City, **Fragment** |
-| 021 | SE-C-IIIγ-021 | The Hollow Choir  [빈 합창단]  (_Bin Hapchangdan_) | City, **Fragment** |
-| 031 | SE-C-IIIγ-031 | The Observing Bird  [지켜보는 새]  (_Jikyeoboneun Sae_) | City, **Fragment** |
-| 032 | SE-C-IIIγ-032 | Weighting Bird  [재는 새]  (_Jaeneun Sae_) | City, **Fragment** |
-| 033 | SE-C-IIIγ-033 | The Guarding Bird  [지키는 새]  (_Jikineun Sae_) | City, **Fragment** |
-| 036 | SE-C-IIIβ-036 | The Cracked Hourglass  [금이 간 모래시계]  (_Geumi Gan Moraesigye_) | City, **Fragment** |
-| 044 | SE-C-IIIγ-044 | Broken Clock  [부서진 시계]  (_Buseojin Sigye_) | City, **Fragment** |
-| 072 | SE-C-IIIβ-072 | Fathers Broken Bond  [아버지의 부러진 차용패]  (_Abeoji-ui Bureojin_) | City, **Fragment** |
+- [1 Master Classification Index](#1-master-classification-index)
+- [2 Master Entity Catalog](#2-master-entity-catalog)
+  - [2.1 Rank I: Whisper Entities (ZAYIN Equivalent)](#21-rank-i-whisper-entities-zayin-equivalent)
+  - [2.2 Rank II: Murmur Entities (TETH Equivalent)](#22-rank-ii-murmur-entities-teth-equivalent)
+  - [2.3 Rank III: Fragment Entities (HE Equivalent)](#23-rank-iii-fragment-entities-he-equivalent)
+  - [2.4 Rank IV: Wail Entities (WAW Equivalent)](#24-rank-iv-wail-entities-waw-equivalent)
+  - [2.5 Rank V: Sovereign Entities (ALEPH Equivalent)](#25-rank-v-sovereign-entities-aleph-equivalent)
+  - [2.6 Tool Relic Entities](#26-tool-relic-entities)
+- [3 Filtering and Tactical Sorting Criteria](#3-filtering-and-tactical-sorting-criteria)
+- [4 Departmental Distribution Matrix](#4-departmental-distribution-matrix)
+- [5 Gallery](#5-gallery)
+- [6 See also](#6-see-also)
 
-Next pages continue through City **159**, Inner **72**, Outside **61**, including the sole Outside **Sovereign** `SE-O-Vγ-003 Wilderness Tide`  [야생의 파도]  (_Yasaeng-ui Pado_). Full registry is summarized at [08-Sorrow List](08-Sorrow%20List.md).
+## 1 Master Classification Index
 
-##[Relic Entities](37-Relic%20Entities.md) [Relic Entities](37-Relic%20Entities.md) (**88**) are not in this List. They are cataloged separately at [37-Relic Entities](37-Relic%20Entities.md). **Unknown Entities** are 12 dossiers under `Unknown_Entities/`.
+Entities in the Somnarak universe are categorized across five core risk levels, based on the danger they present to facility stability and the strength of the [M.A.W. Equipment](09-M.A.W.%20Equipment.md) they yield:
+- **Rank I — Whisper (46 entities):** Low threat; docile behavior; excellent training subjects for novice specialists.
+- **Rank II — Murmur (70 entities):** Moderate threat; may breach or inflict mental trauma upon failure.
+- **Rank III — Fragment (82 entities):** Substantial threat; complex containment rules; requires specialized protective suits.
+- **Rank IV — Wail (79 entities):** Severe facility threat; capable of wide-area corridor devastation and clerk massacres.
+- **Rank V — Sovereign (10 entities):** Catastrophic municipal crisis; capable of triggering facility-wide collapse.
+- **Tool Relics (5 entities):** Inanimate artifacts utilizing the Two-Work-Type Rule (Viderehan and Ferrehan only).
 
+## 2 Master Entity Catalog
 
+### 2.1 Rank I: Whisper Entities (ZAYIN Equivalent)
 
+| SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
+|---|---|---|---|---|---|---|
+| `SE-C-Iα-001` | The Quiet Pebble | 조용한 조약돌 | 🔴 Grudge | 10 LU | 🤲 Ferrehan | No |
+| `SE-C-Iβ-004` | Faded Postcard | 빛바랜 엽서 | 🔵 Lament | 10 LU | 👁 Viderehan | No |
+| `SE-C-Iα-009` | Worn Thimble | 닳아빠진 골무 | 🔴 Grudge | 12 LU | 🤲 Ferrehan | No |
+| `SE-C-Iγ-012` | Slumbering Moth | 잠든 나방 | 🔵 Lament | 12 LU | 💧 Flerehan | No |
 
-## Gallery
+### 2.2 Rank II: Murmur Entities (TETH Equivalent)
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+| SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
+|---|---|---|---|---|---|---|
+| `SE-C-IIα-021` | Whispering Lily | 속삭이는 백합 | 🔵 Lament | 14 LU | 👁 Viderehan | Yes |
+| `SE-C-IIβ-028` | Rusted Cleaver | 녹슨 식칼 | 🔴 Grudge | 14 LU | ⚔ Pugnahan | Yes |
+| `SE-C-IIγ-035` | Iron Quill | 무쇠 깃펜 | ⚫ Weight | 16 LU | 🤲 Ferrehan | No |
+| `SE-C-IIα-042` | Old Gramophone | 낡은 축음기 | 🔵 Lament | 16 LU | 💧 Flerehan | Yes |
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+### 2.3 Rank III: Fragment Entities (HE Equivalent)
+
+| SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
+|---|---|---|---|---|---|---|
+| `SE-C-IIIβ-014` | [The Debt Eater](27-The%20Debt%20Eater.md) | 빚을 삼키는 자 | ⚪ Void | 16 LU | ⚔ Pugnahan | No |
+| `SE-C-IIIα-045` | Lamenting Chorus | 비탄의 합창단 | 🔵 Lament | 18 LU | 💧 Flerehan | Yes |
+| `SE-C-IIIβ-062` | Ironbound Casket | 쇠사슬 관 | ⚫ Weight | 18 LU | 🤲 Ferrehan | Yes |
+| `SE-C-IIIγ-077` | The Blood Weaver | 혈직공 | 🔴 Grudge | 20 LU | 👁 Viderehan | Yes |
+
+### 2.4 Rank IV: Wail Entities (WAW Equivalent)
+
+| SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
+|---|---|---|---|---|---|---|
+| `SE-C-IVα-088` | Queen of Red Needles | 붉은 바늘의 여왕 | 🔴 Grudge | 24 LU | ⚔ Pugnahan | Yes |
+| `SE-C-IVβ-102` | Drowned Choir | 익사한 성가대 | 🔵 Lament | 26 LU | 💧 Flerehan | Yes |
+| `SE-C-IVγ-119` | Clockwork Executioner | 태엽 망나니 | ⚫ Weight | 28 LU | 🤲 Ferrehan | Yes |
+| `SE-C-IVα-134` | The Hollow Knight | 텅 빈 기사 | ⚪ Void | 30 LU | 👁 Viderehan | Yes |
+
+### 2.5 Rank V: Sovereign Entities (ALEPH Equivalent)
+
+| SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
+|---|---|---|---|---|---|---|
+| `SE-C-Vα-001` | The Pale Sovereign | 창백한 군주 | ⚪ Void | 32 LU | 👁 Viderehan | Yes |
+| `SE-C-Vβ-002` | Maw's Devourer | 아가리의 포식자 | ⚫ Weight | 32 LU | ⚔ Pugnahan | Yes |
+| `SE-C-Vγ-003` | Silent Conductor | 침묵의 지휘자 | 🔵 Lament | 34 LU | 💧 Flerehan | Yes |
+| `SE-O-Vγ-003` | Wilderness Tide | 야생의 파도 | 🔴 Grudge | 36 LU | 🤲 Ferrehan | Yes |
+
+### 2.6 Tool Relic Entities
+
+| SECC ID | Relic Name | Functional Subtype | Primary Function | Safe Threshold |
+|---|---|---|---|---|
+| `SE-T-Iα-001` | [The Echo Compass](28-The%20Echo%20Compass.md) | Single-Use | Facility acoustic radar sweep | Immediate discharge |
+| `SE-T-IIβ-002` | [The Crucible](29-The%20Crucible.md) | Channeled Use | Sustained Han distillation | Under 30 seconds |
+| `SE-T-IIIγ-003` | [The Debt Scale](30-The%20Debt%20Scale.md) | Equippable | Inverts Void pressure & heals SP | Must balance debt |
+
+## 3 Filtering and Tactical Sorting Criteria
+
+Wardens can filter entities by operational parameters:
+- **By Elemental Pressure:** Prioritize equipping armors resistant to the entity's attack type before initiating containment work.
+- **By Work Preference:** Match specialist attribute specialties (Resilience, Clarity, Composure, Resolve) to maximize positive Han-Energy yield.
+- **By Breach Hazard:** Keep high-mobility combat squads stationed in departments housing active breaching horrors.
+
+## 4 Departmental Distribution Matrix
+
+To minimize catastrophic cascade breaches, entities of equal risk levels are distributed evenly across the facility's vertical tiers:
+- **Upper Spires & Central Admin:** Primarily Whisper and Murmur entities for recruit training.
+- **Middle Floors (Border Watch & Deep Vault):** Fragment and Wail entities for specialized weapon harvesting.
+- **Lower Gate Watch & Shadow Corps:** Sovereign entities quarantined behind reinforced hydraulic blast doors.
+
+## 5 Gallery
+
+![Master Sorrow Catalog Display](https://via.placeholder.com/320x180?text=Sorrow+Catalog+Display)
+![Entity Risk Tiers](https://via.placeholder.com/320x180?text=Risk+Tiers+Scale)
+![Containment Cell Array](https://via.placeholder.com/320x180?text=Cell+Array+Overview)
+
+*Left: terminal interface of the master catalog; Center: risk tier symbols; Right: containment row overview.*
 ---
 
-## See also
+## 6 See also
 
--[07-Sorrow Entities](07-Sorrow%20Entities.md)
--[37-Relic Entities](37-Relic%20Entities.md)
--[38-Classification Code](38-Classification%20Code.md)
+- [07-Sorrow Entities](07-Sorrow%20Entities.md) — comprehensive master bestiary framework
+- [23-Risk Levels](23-Risk%20Levels.md) — detailed guide to threat classifications
+- [27-The Debt Eater](27-The%20Debt%20Eater.md) — full specimen dossier: Non-Tool Subject
+- [38-Classification Code](38-Classification%20Code.md) — SECC nomenclature decryption

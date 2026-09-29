@@ -1,50 +1,129 @@
 # Research
 
-> *To research sorrow is to give it a name.*
+> *“Research is not idle curiosity; it is the boundary between containment and annihilation.”*
 
-**Research** is the study of [Sorrow Entities](07-Sorrow%20Entities.md) and the **Weeping**.[Research](15-Research.md) is how the House learns to keep sorrow without becoming it. Each **Watch** files Behavior, 🌀 **Mugenhan** threshold, and **M.A.W.** appraisal, and each dossier under lists what must be observed before its Codex entry unlocks. The sixteen research volumes under are not a library for browsing but a curriculum for containing, and the forty-four Master Codices across six wings — Cosmology, Chronicles, Systems, Society, Tales, Integrity — are gated by.
+**Research**  [연구 개발]  (_Yeongu Gaebal_) represents the permanent technological and administrative advancements unlocked by the Warden within Facility 01. 
 
-What research unlocks is not merely information but permission. Researching `SE-C-IIIβ-014` to sufficient observation increments the **Lumen** tally and unlocks the entry for The Debt Prism, **Veil**, and Scale; researching the three-bird family unlocks the warning that they must be stored apart lest they attempt **Sovereign** fusion; researching a Relic’s stationary echo unlocks the quarantine protocol that replaces suppression. Each unlock is therefore an [Operations](13-Operations.md) matter — see [13-Operations](13-Operations.md) for.
-
-The distinction between Entities and Tales governs how research is bound.[Sorrow Entities](07-Sorrow%20Entities.md) (**292** dossiers, **285** SECC) are the city’s recurring griefs; Tales are the municipal narratives that explain why those griefs were first told — Veiled Tale, Scarred Memory, Dream Born — as sorted at [24-Origins](24-Origins.md). Forty-four Codices bind both, and [39-Archival Codex](39-Archival%20Codex.md) gives the binding order: SECC, Parameters, Combat, Appearance, Origin, Behavior, Breach, **M.A.W.**, Observation, Story, Final Observation, Flavor, Interactions, Tale, Testimony, Record, Trivia — about eighteen sections that make every dossier comparable. To research is therefore to give sorrow the same shape as every other sorrow, so that the city can hold grief in its hands without being hollowed by any single piece.[Research](15-Research.md) is also how the House handles 🌀 **Mugenhan** without mistaking it for a sorrow, and the city keeps that distinction because the `.gg` habit of cutting unfinished paragraphs would conflate them. 🌀 **Mugenhan** is a planetary lattice — fifteen Mundane, six Infused, six Mortal across (Mundane Tier 1, Infused Tier 2, Mortal Tier 3) plus macro-terrain in (Undercity, Raw, Desolate, Wound, **Maw** at −2,000→−7,200) — not a dossier, so it cannot be Worked; it is neglected or tended, and neglect raises Gaze Beyond threshold that makes an **Ordeal** (sixty, five Colors × four Watches) more likely that **Watch**, while tending gates [Research](15-Research.md) toward sixteen volumes and forty-four Codices. Example research that teaches the split: researching `SE-C-IIIγ-031 Observing Bird` [지켜보는 새] unlocks a Gaze and a feathered shroud among forty-two sets, while researching 🌀 **Mugenhan** Tier 2 Infused unlocks not a **M.A.W.** set but a threshold reduction that gates the same **Ordeal** differently, a difference priced in and where the House keeps the same filing without cutting, and where the city keeps the two as distinct filings so that a **Warden** who learns [Research](15-Research.md) learns both without mistaking a lattice for a sorrow.
-
-The sixteen volumes are taught as a curriculum that must be renewed between Watches, not as a library for browsing, because research is itself a form of Work and must be accounted in **Lumen** and Fracture like any other. Each dossier lists what must be observed before its Codex unlocks — `SE-C-IIIβ-014` until Debt Prism/**Veil**/Scale are carryable with resistances and **Pressure** recorded per piece, the three-bird family until the warning that they must be stored apart lest they attempt **Sovereign** fusion is unlocked, a Relic’s stationary echo until quarantine (seal sectors, stabilize **Lumen**, resume 👁 **Viderehan** and 🤲 **Ferrehan** from threshold) is unlocked — and each unlock is therefore an [Operations](13-Operations.md) matter ([13-Operations](13-Operations.md) promises **Lumen** for research) and a Tactical matter ([36-Tactical Engine](36-Tactical%20Engine.md) executes Work across Short **10**/Medium 16/Long 20+ turn bands) that the House records as cost before gift. The reading order encodes — Overview before Genesis before Behavior/Relic/Code before **Lumen**/**M.A.W.**/Tactical before 🌀 **Mugenhan**/Cantos/Frontiers — is therefore not a suggestion but a budget that prevents learning to fight before learning what can be Worked, an error the **Ordeal** tables at [**10**-Ordeals](10-Ordeals.md) and **Reverberation** signatures at [11-Reverberations](11-Reverberations.md) exist to price, and the city never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new volume is felt it is filed as a variant of one of the sixteen, not as a seventeenth, as audited by `seam_lint.py` at 74 columns exact.[Research](15-Research.md) gates every Codex, and the House keeps that gating because research is itself a form of Work that must be accounted in **Lumen** and Fracture. Each dossier lists what must be observed before its Codex unlocks, and each unlock is therefore an [Operations](13-Operations.md) matter and a Tactical matter that the House records as cost before gift. The reading order is therefore not a suggestion but a budget that prevents learning to fight before learning what can be Worked, an error the **Ordeal** tables and **Reverberation** signatures exist to price.
-
-The [Research](15-Research.md) page also teaches that each dossier lists what must be observed before its Codex unlocks, and each unlock is therefore an [Operations](13-Operations.md) matter and a Tactical matter that the House records as cost before gift. The reading order is therefore not a suggestion but a budget that prevents learning to fight before learning what can be Worked, an error the **Ordeal** tables and **Reverberation** signatures exist to price.[Research](15-Research.md) gates every Codex, and the House keeps that gating because research is itself a form of Work that must be accounted in **Lumen** and Fracture, and the city never cuts when a new research is felt, and the House keeps the same filing without cutting.
-
-The [Research](15-Research.md) page also files each dossier as a list of what must be observed before its Codex unlocks, and each unlock is therefore an [Operations](13-Operations.md) matter and a Tactical matter that the House records as cost before gift. The reading order is therefore not a suggestion but a budget that prevents learning to fight before learning what can be Worked, an error the **Ordeal** tables and **Reverberation** signatures exist to price.[Research](15-Research.md) gates every Codex, and the House keeps that gating because research is itself a form of Work that must be accounted in **Lumen** and Fracture, and the city never cuts when a new research is felt, and the House keeps the same filing without cutting, and the ledger remains accountable.
+By completing departmental missions issued by the [Echo-Cores](14-Echo-Cores.md), the Directorate unlocks specialized upgrades from the nine research laboratories. These upgrades permanently enhance specialist survivability, increase [Lumen](33-Lumen.md) harvesting efficiency, and unlock advanced containment visualization.
 
 ```text
 +========================================================================+
-| SOMNARAK — RESEARCH                                                    |
+| SOMNARAK - DEPARTMENTAL RESEARCH & TECH TREES                          |
 +------------------------------------------------------------------------+
-| Focus | Entities · Lumen · M.A.W.                                      |
-| Labs | Echo-Cores · Extraction · Record                                |
-| Archive | Entities Tales (16 vols)                                     |
+| Research Authority     | Nine Departmental Laboratories                |
+| Tech Tree Upgrades     | 36 Permanent Upgrades (4 Tiers per Department)|
+| Upgrade Currency       | LOB Municipal Investment Credits              |
+| Prerequisite Path      | Completed Operations Directives (13-Operations|
+| Preservation Rule      | Retained permanently across Shift Resets      |
 +========================================================================+
 ```
 
-## How the House Learns [Research](15-Research.md) is how the House learns to keep sorrow. Each **Watch** files Behavior, 🌀 **Mugenhan** threshold, and **M.A.W.** appraisal. The **Weeping** is mapped as planetary terrain in `SOMNARAK_GEOLOGY.md`, then boxed as **Lumen** for the **Watch**.
+## Contents
 
-Labs sit where the **Veil** is thinnest — Extraction, Record, and the **Echo-Core** floors.
+- [1 Research Framework and LOB Investment](#1-research-framework-and-lob-investment)
+- [2 The Nine Departmental Tech Trees](#2-the-nine-departmental-tech-trees)
+  - [2.1 Spires Laboratory (Deployment & Logistics)](#21-spires-laboratory-deployment--logistics)
+  - [2.2 Central Administration Laboratory (Energy & Quota)](#22-central-administration-laboratory-energy--quota)
+  - [2.3 Maw's Keep Laboratory (Physical Armor & Barricades)](#23-maws-keep-laboratory-physical-armor--barricades)
+  - [2.4 Extraction Hall Laboratory (Refinery & M.A.W. Crafting)](#24-extraction-hall-laboratory-refinery--maw-crafting)
+  - [2.5 Insight Forge Laboratory (Cognitive Analysis & UI)](#25-insight-forge-laboratory-cognitive-analysis--ui)
+  - [2.6 Border Watch Laboratory (Combat Readiness & Defense)](#26-border-watch-laboratory-combat-readiness--defense)
+  - [2.7 Deep Vault Laboratory (Relic Stabilization & Stasis)](#27-deep-vault-laboratory-relic-stabilization--stasis)
+  - [2.8 Shadow Corps Laboratory (Covert Security & Evasion)](#28-shadow-corps-laboratory-covert-security--evasion)
+  - [2.9 Gate Watch Laboratory (Abyss Containment & Void Shielding)](#29-gate-watch-laboratory-abyss-containment--void-shielding)
+- [3 Recommended Research Progression Path](#3-recommended-research-progression-path)
+- [4 Permanent Retention across Mnemonic Cycles](#4-permanent-retention-across-mnemonic-cycles)
+- [5 Gallery](#5-gallery)
+- [6 See also](#6-see-also)
 
-## Unlocks [Research](15-Research.md) gates 44 Master Codices across 6 wings. Example unlock: researching `SE-C-IIIβ-014` unlocks `SOMNARAK_MAW_CODEX.md` entry for The Debt Prism and increments **Lumen** tally.
+## 1 Research Framework and LOB Investment
 
-See `SOMNARAK_WARDEN_GUIDE.md` for progression.
+Research upgrades are unlocked through a structured two-step process:
+1. **Mission Clearance:** The Warden completes the corresponding mission issued by that floor's Echo-Core in [13-Operations.md](13-Operations.md).
+2. **LOB Investment:** The unlocked technology is activated at the deployment screen using municipal LOB credits earned from daily performance evaluations.
 
+Once unlocked, research upgrades remain active permanently and persist through shift restarts, day resets, and repository rollbacks.
 
+## 2 The Nine Departmental Tech Trees
 
+### 2.1 Spires Laboratory (Deployment & Logistics)
+- **Tier 1 — Rapid Footwork:** Increases specialist movement speed across all corridors by +10%.
+- **Tier 2 — Reinforced Uniforms:** Increases starter specialist base HP and SP by +5.
+- **Tier 3 — Sidearm Calibration:** Grants all specialists a tactical sidearm dealing 3-5 🔴 Grudge damage at range.
+- **Tier 4 — Rapid Deployment Hub:** Decreases specialist travel time between distant floor spires by 25%.
 
-## Gallery
+### 2.2 Central Administration Laboratory (Energy & Quota)
+- **Tier 1 — Quota Efficiency:** Increases daily Han-Energy yield per successful work session by +5%.
+- **Tier 2 — Cross-Floor Communication:** Reduces work order dispatch delay to zero latency.
+- **Tier 3 — Archival Visualization:** Displays entity work success probabilities directly on the dispatch menu.
+- **Tier 4 — Administrative Reserve:** Automatically retains 10% of harvested Lumen into the next shift's stockpile.
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+### 2.3 Maw's Keep Laboratory (Physical Armor & Barricades)
+- **Tier 1 — Heavy Bulkheads:** Increases containment cell blast door resistance, delaying entity escape by 5 seconds.
+- **Tier 2 — Iron Weaving:** Increases physical 🔴 Grudge resistance across all M.A.W. Suits by +0.1.
+- **Tier 3 — Hydraulic Clamps:** Lowers the breach probability of heavy brute entities by 20%.
+- **Tier 4 — Fortified Enclave:** Restores 10 HP to all specialists whenever an Ordeal is successfully suppressed.
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+### 2.4 Extraction Hall Laboratory (Refinery & M.A.W. Crafting)
+- **Tier 1 — Crystal Distillation:** Increases Mnemonic Well extraction speed by 15%.
+- **Tier 2 — Enhanced Weaving:** Reduces M.A.W. Weapon and Suit fabrication cost by 20% Lumen.
+- **Tier 3 — Duplication Catalyst:** Increases the maximum stockpile limit of all M.A.W. equipment by +1.
+- **Tier 4 — Overcharge Core:** Harvesting beyond 100% quota grants double bonus LOB points at shift evaluation.
+
+### 2.5 Insight Forge Laboratory (Cognitive Analysis & UI)
+- **Tier 1 — Visual Calibration:** Displays entity mood and current Mugenhan counter on the floor HUD.
+- **Tier 2 — Behavioral Decoding:** Speeds up observation log unlocking by 50% fewer required work sessions.
+- **Tier 3 — Cognitive Shielding:** Reduces specialist SP loss from fear checks by 30%.
+- **Tier 4 — Total Omniscience:** Highlights entity weak points during combat, increasing damage dealt by +15%.
+
+### 2.6 Border Watch Laboratory (Combat Readiness & Defense)
+- **Tier 1 — Rapid Assembly:** Specialists muster to rally beacons 20% faster when combat is declared.
+- **Tier 2 — Arm-Blade Hardening:** Increases all melee weapon damage dealt by +10%.
+- **Tier 3 — Tactical Perimeter:** Specialists stationed in Border Watch hallways take 15% reduced damage from Ordeals.
+- **Tier 4 — Vow of Retaliation:** When a specialist falls, nearby squadmates gain a temporary 50% attack speed buff.
+
+### 2.7 Deep Vault Laboratory (Relic Stabilization & Stasis)
+- **Tier 1 — Relic Dampening:** Reduces physiological strain from using Tool Relics by 25%.
+- **Tier 2 — Stasis Preservation:** Extends safe channeling duration inside [29-The Crucible](29-The%20Crucible.md) by 10 seconds.
+- **Tier 3 — Memory Lens:** Equippable relics like [30-The Debt Scale](30-The%20Debt%20Scale.md) emit an ambient SP healing aura to adjacent rooms.
+- **Tier 4 — Temporal Ward:** Neutralizes temporal dilation hazards during Deep Vault meltdowns.
+
+### 2.8 Shadow Corps Laboratory (Covert Security & Evasion)
+- **Tier 1 — Silent Step:** Specialists move past agitated containment cells without triggering fear checks.
+- **Tier 2 — Reflex Conditioning:** Increases specialist evasion rate against physical attacks by +10%.
+- **Tier 3 — Ambush Protocol:** Attacks against escaping entities from behind inflict +25% critical strike damage.
+- **Tier 4 — Null Shroud:** Prevents breaching entities from targeting clerks during their initial 15 seconds of escape.
+
+### 2.9 Gate Watch Laboratory (Abyss Containment & Void Shielding)
+- **Tier 1 — Abyssal Wards:** Increases resistance against ⚪ Void damage across all suits by +0.15.
+- **Tier 2 — Mind Anchor:** Increases specialist maximum SP threshold before entering panic by +15.
+- **Tier 3 — Sovereign Restraint:** Extends the suppression stagger window on Rank V Sovereign entities by 3 seconds.
+- **Tier 4 — Final Bastion:** The facility can endure one catastrophic breach without triggering immediate Game Over.
+
+## 3 Recommended Research Progression Path
+
+1. **Early Days (Days 1–10):** Prioritize Spires *Rapid Footwork* and Insight Forge *Visual Calibration* to maximize operational speed and UI clarity.
+2. **Mid Days (Days 11–25):** Focus on Extraction Hall *Duplication Catalyst* and Central Admin *Archival Visualization* to mass-produce elite gear.
+3. **Late Days (Days 26–50):** Maximize Gate Watch *Abyssal Wards* and Maw's Keep *Fortified Enclave* to survive Tide Watch Ordeals and Sovereign meltdowns.
+
+## 4 Permanent Retention across Mnemonic Cycles
+
+All researched technologies are permanently stamped into the facility's master memory core:
+- Restarting a shift or rolling back to a Memory Repository checkpoint never wipes research upgrades.
+- This cumulative progression ensures that even failed runs contribute permanently to ultimate facility stabilization.
+
+## 5 Gallery
+
+![Research Terminal Console](https://via.placeholder.com/320x180?text=Research+Terminal)
+![Departmental Tech Trees](https://via.placeholder.com/320x180?text=Tech+Trees+Overview)
+![Upgraded Specialist Squad](https://via.placeholder.com/320x180?text=Upgraded+Specialists)
+
+*Left: research laboratory upgrade console; Center: departmental tech tree; Right: fully researched squad.*
 ---
 
-## See also
+## 6 See also
 
--[33-Lumen](33-Lumen.md)
--[39-Archival Codex](39-Archival%20Codex.md)
+- [13-Operations](13-Operations.md) — departmental missions required to unlock research
+- [14-Echo-Cores](14-Echo-Cores.md) — director profiles and lab heads
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — equipment armory enhanced by research
+- [22-Departments](22-Departments.md) — department layouts and facility floors

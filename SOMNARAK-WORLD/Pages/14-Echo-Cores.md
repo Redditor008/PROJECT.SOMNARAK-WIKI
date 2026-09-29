@@ -1,69 +1,138 @@
 # Echo-Cores
 
-> *Nine voices. One House.*
+> *“Nine anchors forged in sorrow, nine voices that keep the walls from collapsing into the Maw.”*
 
-**Echo-Cores** are the nine directors who govern Facility 01.
+**Echo-Cores**  [메아리 핵]  (_Meari Haek_) are the artificial and cybernetic directors governing the departments of Facility 01. Originally living municipal pioneers, their human psyches were permanently crystallized into containment anchors to stabilize the facility against the crushing psychological pressure of the [Maw](41-Frontiers.md).
 
-Nine directors govern Facility 01, and they do so as [Echo-Cores](14-Echo-Cores.md) — municipal positions that translate grief into Work rather than persons who merely manage it. Their armbands are wearable Veils, each pattern corresponding to a **Floor** and to the pressure the **Floor** is asked to hold, a design that maps one-to-one onto the ten departments remembered on SOMNARAK-WORLD (nine Floors 1 to 8 plus Central) cut to nine to.
-
-The roster is both technical and temperamental. Majin (**Floor** 1 Spires, Human Ω-Fusion, Reaper Hungered Ω Scythe, ⚫ **Weight** and 🔴 **Grudge** plus 🔵 **Lament**) holds the threshold where the city meets its own grief; Seiyon (**Floor** 1 Central Admin, Android, The Promise as Key Pages, 🔵 **Lament** and ⚪ **Void**) keeps continuity when the **Hand** forgets; Dekan (**Floor** 2 **Maw**’s Keep, Cyborg **Maw**-Merged, Scaled **Maw**-Flesh Arm, 🔴 **Grudge**) contains the **Maw**’s lip; Zyrak (**Floor** 3.
-
-Challenge and research flow through the nine.[Challenge Mode](20-Challenge%20Mode.md) post-Dawn files at [20-Challenge Mode](20-Challenge%20Mode.md) expect the nine to retain the forty-two **M.A.W. sets** and sixteen research volumes across a sixteenth battle scenario with tighter **Reverberation** windows and **Ordeal** skew toward BLACK and BLUE.[Research](15-Research.md) toward the forty-four Master Codices advances only when a **Floor** completes its assigned Work, which is why **Echo-Core** signatures — Majin’s ⚫ **Weight** and 🔴 **Grudge** scythe, Seiyon’s 🔵 **Lament** and ⚪ **Void** pages, Dekan’s 🔴 **Grudge** **Maw**-arm, Mellda’s ⚫ **Weight** shockwave — are taught alongside **M.A.W.** appraisal at [34-**M.A.W.** Equipment](34-M.A.W.%20Equipment.md) rather than as character alone.
-
-The nine are also nine budgets of **Pressure** that the House must staff before any **Watch**, and the city teaches **Pressure** before **M.A.W.** before [Research](15-Research.md) because a roster that covers two Pressures can fail the other two. 🔴 **Grudge**  [원한]  (_Wonhan, Crimson HP_), 🔵 **Lament** (Deep Blue sanity), ⚪ **Void**  [공허]  (_Gongheo, Pale White percentage where 1% ⚪ **Void** = 5% Max HP_), ⚫ **Weight** (Black both HP and sanity) are the four directions sorrow cuts, and each **Echo-Core** carries two so that the nine together cover all four redundantly — Majin ⚫ **Weight**+🔴 **Grudge**+🔵 **Lament**, Seiyon 🔵 **Lament**+⚪ **Void**, Dekan 🔴 **Grudge**, Zyrak 🔴 **Grudge**+⚪ **Void**, Ayshuk ⚪ **Void**, Mellda ⚫ **Weight**+🔴 **Grudge**, Marjuk ⚪ **Void**+⚫ **Weight**, Ishall 🔴 **Grudge**+⚪ **Void**, Xyan 🔵 **Lament**+⚫ **Weight** — with **Floor** 7 Shadow Corps co-monitored by Zyrak and Seiyon to keep its contested history between extraction and record visible, and with armbands as wearable Veils whose patterns map to SOMNARAK-WORLD’s completion of SOMNARAK-WORLD’s stubs is kept as citation, not as cut, so that a **Warden** who learns [Echo-Cores](14-Echo-Cores.md) learns Departments and Frontiers together.
-
-Challenge and research flow through the nine without being the nine, and the city keeps that distinction because the `.gg` habit of cutting unfinished paragraphs would hide it.[Challenge Mode](20-Challenge%20Mode.md) post-Dawn skews BLACK ⚫ **Weight** grinding and BLUE 🔵 **Lament** brine while retaining the forty-two **M.A.W. sets** and sixteen research volumes as stakes that reward retention, not mere survival, across the sixteenth battle scenario in ; research toward forty-four Master Codices advances only when a **Floor** completes its assigned Work, which is why **Echo-Core** signatures — Majin’s ⚫ **Weight**+🔴 **Grudge** scythe, Seiyon’s 🔵 **Lament**+⚪ **Void** pages, Dekan’s 🔴 **Grudge** **Maw**-arm, Mellda’s ⚫ **Weight** shockwave, Marjuk’s ⚪ **Void**+⚫ **Weight** lens — are taught alongside **M.A.W.** appraisal at [34-**M.A.W.** Equipment](34-M.A.W.%20Equipment.md) rather than as character alone, and why the House’s pedagogy places [Echo-Cores](14-Echo-Cores.md) after Mechanics and before Frontiers, so that persons are encountered after systems but before territory, preventing the common error of cataloging a person as a sorrow or terrain as an entity. When a new grief is felt it is taught as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new frontier is felt it is filed under as a variant of one of the six frontiers — Facility 01’s nine Floors, Absolvohan’s 366-day Engine, Katabagil seven Descents, Katharcheok six Sweeps, Gieok seven Receptions, Jipyeongseondae six Arcs — not as a seventh, so the city never invents to fill a stub but files to keep what it has without cutting.
-
-The nine are also nine budgets of **Pressure** that the House must staff before any **Watch**. Each **Echo-Core** carries two Pressures so that the nine together cover all four redundantly. Armbands as wearable Veils make the position visible, and **Floor** 7 Shadow Corps co-monitored by Zyrak and Seiyon keeps its contested history between extraction and record visible. The same filing is kept where territory is mapped not as lore but as containment that must be renewed between Watches, and the city keeps the nine as law without reinstalling a tenth **Floor**.
-
-The [Echo-Cores](14-Echo-Cores.md) page also teaches that armbands as wearable Veils make the position visible, and **Floor** 7 Shadow Corps co-monitored by Zyrak and Seiyon keeps its contested history between extraction and record visible. The same filing is kept where territory is mapped not as lore but as containment that must be renewed between Watches, and the city keeps the nine as law without reinstalling a tenth **Floor**. The nine are also nine budgets of **Pressure** that the House must staff before any **Watch**, where each **Echo-Core** carries two Pressures so that the nine together cover all four redundantly, and the city never cuts when a new **Echo-Core** is felt, and the ledger remains accountable.
-
-The [Echo-Cores](14-Echo-Cores.md) page also files armbands as wearable Veils that make the position visible, and **Floor** 7 Shadow Corps co-monitored by Zyrak and Seiyon keeps its contested history between extraction and record visible. The same filing is kept where territory is mapped not as lore but as containment that must be renewed between Watches, and the city keeps the nine as law without reinstalling a tenth **Floor**. The nine are also nine budgets of **Pressure** that the House must staff before any **Watch**, where each **Echo-Core** carries two Pressures so that the nine together cover all four redundantly, and the city never cuts when a new **Echo-Core** is felt, and the ledger remains accountable, and the House keeps the same filing.
+Each Echo-Core governs a designated floor, issuing [Operations](13-Operations.md) missions, granting departmental research perks, and testing the Warden's resolve during climatic [Floor Realizations](11-Reverberations.md).
 
 ```text
 +========================================================================+
-| SOMNARAK — ECHO-CORES                                                  |
+| SOMNARAK - THE NINE ECHO-CORES                                         |
 +------------------------------------------------------------------------+
-| Floors | 1 to 8 (plus Central)                                         |
-| Count | 9 Cores (about 116,000 words)                                  |
-| Archive | SOMNARAK-WORLD / Echo_Cores (9 dossiers)                     |
+| Architectural Function | Consciousness Anchors of Facility 01          |
+| Total Directors        | Nine Sovereign Echo-Cores across 3 Strata     |
+| Upper Shallow Strata   | Majin - Seiyon - Dekan - Zyrak - Ayshuk       |
+| Middle Strata          | Mellda (Border Watch) - Marjuk (Deep Vault)   |
+| Deep Strata            | Ishall (Shadow Corps) - Xyan (Gate Watch)     |
 +========================================================================+
 ```
 
-## Roster
+## Contents
 
-| File | Name | **Floor** | Weapon |
-| --- | --- | --- | --- |
-| THE_DIRECTOR | Majin | **Floor** 1 Spires | Reaper Hungered (Ω Scythe) |
-| THE_SECRETARY | Seiyon | **Floor** 1 Central Admin | The Promise (Key Pages) |
-| THE_CONTAINMENT_LEAD | Dekan | **Floor** 2 **Maw** Keep | Scaled **Maw**-Flesh Arm |
-| THE_EXTRACTION_LEAD | Zyrak | **Floor** 3 Extraction Hall | Mechanical Hands and Rig |
-| THE_RESEARCH_LEAD | Ayshuk | **Floor** 4 Insight Forge |[Research](15-Research.md) Ledger |
-| THE_BORDER_LEAD | Mellda | **Floor** 5 Border **Watch** | Threshold Vow (Arm-Blade) |
-| THE_ARCHIVE_LEAD | Marjuk | **Floor** 6 Deep Vault | Memory Lens |
-| THE_OUTSIDER | Ishall | **Floor** 7 Shadow Corps | Unanswered (Relic Gloves) |
-| THE_EXILE | Xyan | **Floor** 8 Gate **Watch** | Neural Spine |
+- [1 The Nature of an Echo-Core](#1-the-nature-of-an-echo-core)
+- [2 The Nine Departmental Directors](#2-the-nine-departmental-directors)
+  - [2.1 Director Majin (Floor 1: Spires)](#21-director-majin-floor-1-spires)
+  - [2.2 Secretary Seiyon (Floor 2: Central Administration)](#22-secretary-seiyon-floor-2-central-administration)
+  - [2.3 Lead Dekan (Floor 3: Maw's Keep)](#23-lead-dekan-floor-3-maws-keep)
+  - [2.4 Lead Zyrak (Floor 4: Extraction Hall)](#24-lead-zyrak-floor-4-extraction-hall)
+  - [2.5 Lead Ayshuk (Floor 5: Insight Forge)](#25-lead-ayshuk-floor-5-insight-forge)
+  - [2.6 Lead Mellda (Floor 6: Border Watch)](#26-lead-mellda-floor-6-border-watch)
+  - [2.7 Lead Marjuk (Floor 7: Deep Vault)](#27-lead-marjuk-floor-7-deep-vault)
+  - [2.8 Lead Ishall (Floor 8: Shadow Corps)](#28-lead-ishall-floor-8-shadow-corps)
+  - [2.9 Lead Xyan (Central: Gate Watch)](#29-lead-xyan-central-gate-watch)
+- [3 The Cognition Filter and Disguise Construct](#3-the-cognition-filter-and-disguise-construct)
+- [4 Core Meltdowns and Floor Realizations](#4-core-meltdowns-and-floor-realizations)
+- [5 Gallery](#5-gallery)
+- [6 See also](#6-see-also)
 
-**Floor** 7 Shadow Corps is co-monitored by Zyrak and Seiyon. The armband is a wearable **Veil** — each pattern maps to a municipal position.
+## 1 The Nature of an Echo-Core
 
-## Territory
+An Echo-Core is not merely an administrator; it is a metaphysical ballast:
+- **Resonance Anchoring:** Without an active Echo-Core, the physical geometry of a department rapidly dissolves into raw Han gas, causing immediate containment breaches.
+- **Cognitive Burden:** The directors bear the brunt of the facility's ambient sorrow. Over prolonged cycles, this grief accumulates until the core reaches a critical boiling point, triggering a **Reverberation Meltdown**.
+- **Mission Issuance:** Each director issues four tactical directives that test the Warden's ability to manage diverse containment challenges.
 
-Floors are summarized at [41-Frontiers](41-Frontiers.md).[Challenge Mode](20-Challenge%20Mode.md) is filed at [20-Challenge Mode](20-Challenge%20Mode.md).
+## 2 The Nine Departmental Directors
 
+### 2.1 Director Majin (Floor 1: Spires)
+- **Role:** Head of Facility Deployment and Corridor Logistics.
+- **Personality:** Stern, perfectionist, deeply anxious about administrative failure.
+- **Armband:** Amber Wing upon Charcoal Wool.
+- **Signature Weapon:** *Pinnacle Gavel* (Grudge/Physical).
+- **Core Handicap:** *Command Scramble* — Inverts and scrambles work assignments during suppression trials.
 
+### 2.2 Secretary Seiyon (Floor 2: Central Administration)
+- **Role:** Chief Archon of Records and Resource Allocation.
+- **Personality:** Methodical, cold, obsessed with statistical balance.
+- **Armband:** White Ledger upon Slate Blue.
+- **Signature Weapon:** *Quill of Redress* (Lament/Mental).
+- **Core Handicap:** *Sensor Glitch* — Obscures health, sanity, and interface status displays.
 
+### 2.3 Lead Dekan (Floor 3: Maw's Keep)
+- **Role:** Master of Structural Containment and Heavy Fortifications.
+- **Personality:** Stoic, grizzled, resigned to physical attrition.
+- **Armband:** Iron Gate upon Rust Crimson.
+- **Signature Weapon:** *Bulwark Maul* (Weight/Crushing).
+- **Core Handicap:** *Brittle Armor* — Doubles incoming Grudge damage across all containment cells.
 
-## Gallery
+### 2.4 Lead Zyrak (Floor 4: Extraction Hall)
+- **Role:** Overseer of Han-Energy Distillation and M.A.W. Fabrication.
+- **Personality:** Flamboyant, reckless, addicted to high-yield energy extraction.
+- **Armband:** Golden Alembic upon Deep Violet.
+- **Signature Weapon:** *Refinery Needle* (Void/Pale).
+- **Core Handicap:** *Well Backflow* — Completed work triggers localized containment cell ruptures.
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+### 2.5 Lead Ayshuk (Floor 5: Insight Forge)
+- **Role:** Director of Cognitive Analysis and Entity Research.
+- **Personality:** Brilliant, cynical, emotionally detached from human casualties.
+- **Armband:** Silver Monocle upon Emerald Silk.
+- **Signature Weapon:** *Dissection Scalpel* (Lament/Mental).
+- **Core Handicap:** *Analytical Stasis* — Temporarily reduces all specialist attribute ranks by one tier.
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+### 2.6 Lead Mellda (Floor 6: Border Watch)
+- **Role:** Commander of Rapid Response Suppression Squads.
+- **Personality:** Fierce, aggressive, protective of frontline operatives.
+- **Armband:** Crossed Halberds upon Crimson Velvet.
+- **Signature Weapon:** *Threshold Vow* (Weight/Dual-gauge).
+- **Core Handicap:** *The Red Hunt* — Manifests as an active roaming boss in facility hallways.
+
+### 2.7 Lead Marjuk (Floor 7: Deep Vault)
+- **Role:** Curator of Hazardous Relics and Temporal Artifacts.
+- **Personality:** Weary, patient, burdened by ancient municipal memories.
+- **Armband:** Hourglass upon Bronze Filigree.
+- **Signature Weapon:** *Chronos Scepter* (Void/Pale).
+- **Core Handicap:** *Temporal Inversion* — Restricts simulation speed to real-time, causing panic on speed shifts.
+
+### 2.8 Lead Ishall (Floor 8: Shadow Corps)
+- **Role:** Overseer of Covert Security and Entity Elimination.
+- **Personality:** Silent, watchful, speaks in whispered allegories.
+- **Armband:** Hooded Dagger upon Obsidian Cloth.
+- **Signature Weapon:** *Null Dagger* (Grudge/Slashing).
+- **Core Handicap:** *Shroud of Silence* — Disables breach alert alarms and departmental mini-maps.
+
+### 2.9 Lead Xyan (Central: Gate Watch)
+- **Role:** Guardian of the Abyss Boundary and Subterranean Gate.
+- **Personality:** Enigmatic, prophetic, gazing perpetually into the Maw.
+- **Armband:** Ouroboros Ring upon Platinum Thread.
+- **Signature Weapon:** *Abyss Cleaver* (Void/Pale).
+- **Core Handicap:** *Abyss Rupture* — Summons continuous waves of subterranean horrors across all floors.
+
+## 3 The Cognition Filter and Disguise Construct
+
+To preserve the sanity of human Wardens, the facility employs a heavy **Cognition Filter**:
+- The filter renders the Echo-Cores as stylized, geometric, or robotic avatars.
+- This prevents the Warden from recognizing the agonizing biological machinery and human suffering underlying the core chambers.
+- Successfully stabilizing an Echo-Core permanently disables its filter, revealing their genuine human visage.
+
+## 4 Core Meltdowns and Floor Realizations
+
+When an Echo-Core reaches emotional collapse, the department enters a **Reverberation**:
+- Floor Realizations test the Warden's master command capabilities under severe cognitive handicaps.
+- Successfully subduing a core grants permanent immunity to departmental meltdowns and facility-wide stat upgrades.
+
+## 5 Gallery
+
+![Echo-Core Council Chamber](https://via.placeholder.com/320x180?text=Echo-Core+Council)
+![Cognition Filter Interface](https://via.placeholder.com/320x180?text=Cognition+Filter)
+![Core Suppression Realization](https://via.placeholder.com/320x180?text=Floor+Realization+Battle)
+
+*Left: council of the nine directors; Center: holographic filter display; Right: Floor Realization combat.*
 ---
 
-## See also
+## 6 See also
 
--[06-Personnel](06-Personnel.md)
--[22-Departments](22-Departments.md)
--[41-Frontiers](41-Frontiers.md)
+- [06-Personnel](06-Personnel.md) — director biographies and specialist cadres
+- [11-Reverberations](11-Reverberations.md) — complete guide to Core Suppressions
+- [13-Operations](13-Operations.md) — departmental mission directory
+- [22-Departments](22-Departments.md) — facility floor architecture

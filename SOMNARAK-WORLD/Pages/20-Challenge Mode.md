@@ -1,61 +1,82 @@
 # Challenge Mode
 
-> *The House does not forgive practice.*
+> *“When routine containment becomes trivial, the Directorate introduces the true crucible.”*
 
-**Challenge Mode** is the recurrent trial of Facility 01.[Challenge Mode](20-Challenge%20Mode.md) is Facility 01 remembered as a trial. Post-Dawn, after the Dawn Initiative has lifted transmutation and the city has begun to breathe, the House retains a recurrent test that replays the Directorate’s hardest watches with stricter **Veil**, tighter **Reverberation** windows, and an **Ordeal** skew toward BLACK ⚫ **Weight** (grinding, crushing) and BLUE 🔵 **Lament** (leaking, brine) while remaining less forgiving with **Lumen** accounting. The stakes are retention — forty-two M.A.W —
+**Challenge Mode**  [도전 모드]  (_Dojeon Mode_) represents the high-difficulty endgame simulation suite unlocked after completing the primary operational campaign of Facility 01.
 
-Preparation is roster, not valor. A viable Challenge roster must cover all four Work-Types — 👁 **Viderehan**  [비데레한]  (_Biderehan_) for Observation, 🤲 **Ferrehan**  [페레한]  (_Perehan_) for Endurance, 💧 **Flerehan** and ⚔ **Pugnahan** for Subjects — and at least two Pressures — 🔴 **Grudge**  [원한]  (_Wonhan_), 🔵 **Lament**, ⚪ **Void**  [공허]  (_Gongheo_), ⚫ **Weight** — so that no single **Watch** can be hard-countered by a sorrow’s **Pressure**. Loadout pairing is therefore more important than individual valor: `Reaper Hungered` (Majin,.
-
-What distinguishes [Challenge Mode](20-Challenge%20Mode.md) from ordinary **Containment** is memory. Ordinary watches reward survival; Challenge watches reward retention — the ability to carry forward a **M.A.W.** set that will not be forgiven a second time. The mode therefore expects the **Warden** to have already completed the reading order taught at [21-Game Mechanics](21-Game%20Mechanics.md) —[Daily Cycle](16-Daily%20Cycle.md) before **Pressure**, **Pressure** before **M.A.W.**, **M.A.W.** before [Research](15-Research.md), [Research](15-Research.md) before [Ordeals](10-Ordeals.md) and [Reverberations](11-Reverberations.md) — and to keep that order under pressure. Frontier mapping at [41-Frontiers](41-Frontiers.md) shows where Challenge logic applies outside Facility 01, but the logic itself remains Facility 01 logic, which is why [Challenge Mode](20-Challenge%20Mode.md) is filed as a **Watch** Cycle variant rather than as a separate city.
-
-What distinguishes [Challenge Mode](20-Challenge%20Mode.md) from ordinary **Containment** is memory, and the city keeps that distinction because the `.gg` habit of cutting unfinished paragraphs would hide that Challenge watches reward retention — the ability to carry forward a **M.A.W.** set that will not be forgiven a second time — while ordinary watches reward survival, and the mode therefore expects the **Warden** to have already completed the reading order taught at [21-Game Mechanics](21-Game%20Mechanics.md) —[Daily Cycle](16-Daily%20Cycle.md) before **Pressure**, **Pressure** before **M.A.W.**, **M.A.W.** before [Research](15-Research.md), [Research](15-Research.md) before [Ordeals](10-Ordeals.md) and [Reverberations](11-Reverberations.md), and all six before Tactical Engine — and to keep that order under pressure where **Ordeal** skew toward BLACK ⚫ **Weight** grinding and BLUE 🔵 **Lament** brine makes the House less forgiving with **Lumen** accounting while the sixteenth battle scenario in gates tighter **Reverberation** windows and **Veil** thresholds, so that the **Warden** who has retained forty-two **M.A.W. sets** at **1,165** profiles and sixteen research volumes across forty-four Codices can keep them only by executing the same sixteen systems that and document as JSON battle schema where the decoupled state machine treats Pale differently from 🔴 **Grudge** and where Short **10** / Medium 16 / Long 20+ turn bands price the same retention as the municipal log does. The stakes are therefore not a harder fight but a harder memory, where failure resets the **Watch** but dossiers remember, because research persists even when the day does not, and where the House never cuts — when a new grief is felt it is filed as a variant of one of the **292** plus **88** plus 12, not as a 293rd, and when a new challenge is felt it is filed as a variant of one of the sixteen scenarios, not as a seventeenth, so the sixteen remain sixteen and the day remains accountable.
-
-Frontier is how [Challenge Mode](20-Challenge%20Mode.md) remains applicable outside Facility 01 without inventing a new logic, and the city keeps that applicability because the `.gg` habit of cutting unfinished frontiers would hide that the same four Watches and five [Containment Levels](18-Containment%20Levels.md) gate the same sixty [Ordeals](10-Ordeals.md) and nine [Reverberations](11-Reverberations.md) whether the **Watch** is on The Lantern, on a Horizon Caravan Arc to Cheonbulok or Mugeukji, inside a Gieok stratum among seven, or at a Crucible Station among seven under `Tactical_Combat_Engine/` and `Jipyeongseondae/` and `Gieok_Jeojangso/` — the same 40,000 LU primary plus 5,000 LU per floor plus portable cells after the Dawn, the same 0.02 tons per R.D. cycle × **1,778** = supercritical at Cycle **1,778** that once fueled the Absolvohan and now fuels the budget that [Challenge Mode](20-Challenge%20Mode.md) retains, and the same **1.29 billion** souls that generate the **Han** that becomes the **Lumen** that becomes the **Veil** that becomes the city — so that a **Warden** who learns [Challenge Mode](20-Challenge%20Mode.md) on Facility 01 can keep a **M.A.W.** set on an overland Arc without learning a new game, as fielded at [41-Frontiers](41-Frontiers.md) where Facility 01’s nine Floors, Absolvohan’s 366-day Engine, Katabagil seven Descents, Katharcheok six Sweeps, Gieok seven Receptions, and Jipyeongseondae six Arcs are kept as six frontiers, not as a new city, and where the House keeps the same filing without cutting, keeping the House from inventing a seventeenth frontier to fill a stub when the six already hold.[Challenge Mode](20-Challenge%20Mode.md) is Facility 01 remembered as a trial. The stakes are retention — forty-two sets and sixteen research volumes that a cleared Challenge allows the **Warden** to keep — and the archive is the sixteen systems, with the sixteenth battle scenario serving as the mode’s stress test. Failure resets the **Watch** but dossiers remember, because research persists even when the day does not. The House therefore expects the **Warden** to have already completed the reading order and to keep that order under pressure, where **Ordeal** skew and tighter **Reverberation** windows make the House less forgiving with **Lumen** accounting.
-
-The [Challenge Mode](20-Challenge%20Mode.md) page also teaches that failure resets the **Watch** but dossiers remember, because research persists even when the day does not. The House therefore expects the **Warden** to have already completed the reading order and to keep that order under pressure, where **Ordeal** skew and tighter **Reverberation** windows make the House less forgiving with **Lumen** accounting.[Challenge Mode](20-Challenge%20Mode.md) is Facility 01 remembered as a trial, where the stakes are retention — forty-two sets and sixteen research volumes that a cleared Challenge allows the **Warden** to keep — and the archive is the sixteen systems, with the sixteenth battle scenario serving as the mode’s stress test, and the city never cuts.
-
-The [Challenge Mode](20-Challenge%20Mode.md) page also files failure as a reset of the **Watch** where dossiers remember, because research persists even when the day does not. The House therefore expects the **Warden** to have already completed the reading order and to keep that order under pressure, where **Ordeal** skew and tighter **Reverberation** windows make the House less forgiving with **Lumen** accounting.[Challenge Mode](20-Challenge%20Mode.md) is Facility 01 remembered as a trial, where the stakes are retention — forty-two sets and sixteen research volumes that a cleared Challenge allows the **Warden** to keep — and the archive is the sixteen systems, with the sixteenth battle scenario serving as the mode’s stress test, and the city never cuts when a new Challenge is felt.
-
-The **Challenge Mode** ledger also ensures that **Challenge Mode** is **Facility 01** remembered as a trial, where the stakes are retention — **42** **M.A.W.** sets and sixteen research volumes that a cleared **Challenge** allows the **Warden** to keep — and the archive is the sixteen systems, with the sixteenth battle scenario serving as the mode’s stress test. Failure resets the **Watch** but dossiers remember, because research persists even when the day does not. The **House** therefore expects the **Warden** to have already completed the reading order and to keep that order under pressure, where **Ordeal** skew and tighter **Reverberation** windows make the **House** less forgiving with **Lumen** accounting, and the ledger remains accountable, and the city never cuts when a new **Challenge** is felt.
+Designed for veteran Wardens seeking ultimate tactical mastery, Challenge Mode strips away safety nets, introduces punishing environmental modifiers, and offers endless containment trials where the facility must survive escalating waves of high-risk [Sorrow Entities](07-Sorrow%20Entities.md) and [Ordeals](10-Ordeals.md).
 
 ```text
 +========================================================================+
-| SOMNARAK — CHALLENGE MODE                                              |
+| SOMNARAK - OPERATIONAL CHALLENGE MODE                                  |
 +------------------------------------------------------------------------+
-| Cycle | Post-Dawn · Facility 01                                        |
-| Stakes | Lumen and M.A.W. retention (42 sets)                          |
-| Archive | Watch Cycle (16 systems)                                     |
+| Mode Designation       | Post-Campaign Tactical Gauntlet & Trials      |
+| Core Modifiers         | Blind Warden - Brittle Flesh - Sovereign Swarm|
+| Trial Variants         | Endless Containment - Director Rematches      |
+| Scoring System         | Shift Rating - Survival Clock - LOB Multiplier|
+| Prestige Rewards       | Cosmetic M.A.W. Reskins & Veteran Badges      |
 +========================================================================+
 ```
 
-## Trial
+## Contents
 
-Stricter **Veil**, tighter **Reverberation** windows, **Ordeal** skew toward BLACK and BLUE, less forgiving **Lumen**. Retains **42** **M.A.W. sets** (**1,165** profiles) and 16 research volumes. Failure resets the **Watch** but dossiers remember. Sixteenth battle scenario in sixteen battle scenarios.
+- [1 Unlocking and Operational Scope](#1-unlocking-and-operational-scope)
+- [2 Tactical Challenge Modifiers](#2-tactical-challenge-modifiers)
+- [3 Endless Containment Mode](#3-endless-containment-mode)
+- [4 Director Rematch Trials](#4-director-rematch-trials)
+- [5 Scoring, Leaderboards, and Prestige Rewards](#5-scoring-leaderboards-and-prestige-rewards)
+- [6 Gallery](#6-gallery)
+- [7 See also](#7-see-also)
 
-## Preparation
+## 1 Unlocking and Operational Scope
 
-Build a roster covering all four Work-Types and at least two Pressures.
+Challenge Mode is unlocked upon stabilizing all nine departments and completing the final Day 50 campaign threshold:
+- **Independent Save State:** Challenge shifts do not affect the main campaign progression or risk permanent loss of primary campaign gear.
+- **Full Armory Access:** Wardens may assemble squads using any [M.A.W. Equipment](09-M.A.W.%20Equipment.md) researched throughout the campaign.
+- **Customizable Difficulty:** Players can activate multiple stacked modifiers to dramatically increase score multipliers.
 
-Example loadout:
+## 2 Tactical Challenge Modifiers
 
-- `Reaper Hungered` (Majin — ⚫ **Weight** and 🔴 **Grudge**)
-- `Threshold Vow` (Mellda — ⚫ **Weight** and 🔴 **Grudge**)
+Wardens can customize trials by enabling hazardous modifiers:
+- **Blind Warden:** Obscures containment cell cameras, health bars, and meltdown timers. Wardens must rely purely on auditory sirens and operative voice calls.
+- **Brittle Flesh:** All incoming elemental damage dealt to specialists is increased by 50%.
+- **Cascading Meltdowns:** Cell overload timers tick down in 30 seconds rather than 60 seconds.
+- **Hyper-Acceleration:** Restricts simulation speed to 1.5x minimum, testing lightning-fast tactical decision making.
+- **Hollow Armory:** Equipping duplicate M.A.W. Weapons is prohibited; every deployed specialist must carry a distinct weapon.
+- **The Sovereign Swarm:** Guarantees that at least three Rank V Sovereign entities will breach simultaneously during Third and Tide Watches.
 
-Covers ⚫ **Weight** and 🔴 **Grudge** together. See [36-Tactical Engine](36-Tactical%20Engine.md) and [41-Frontiers](41-Frontiers.md).
+## 3 Endless Containment Mode
 
+In **Endless Containment**, the quota gauge has no upper ceiling:
+- The shift continues indefinitely until all deployed specialists are eliminated.
+- The [Mugenhan Meltdown Gauge](18-Containment%20Levels.md) escalates beyond Level X, introducing unprecedented Level XI to Level XX crises.
+- High-tier Ordeals spawn in relentless back-to-back waves, testing long-term endurance, shield rotation, and ammo conservation.
 
+## 4 Director Rematch Trials
 
+Challenge Mode allows Wardens to re-engage the nine [Echo-Cores](14-Echo-Cores.md) in intensified boss trials:
+- **Dual Meltdowns:** Fight two Echo-Cores simultaneously with combined handicaps (e.g., Majin's *Command Scramble* paired with Mellda's roaming combat form *The Red Hunt*).
+- **Strict Time Limits:** Complete Floor Realizations within strict real-time countdown limits.
 
-## Gallery
+## 5 Scoring, Leaderboards, and Prestige Rewards
 
-![Containment Unit — `SE-C-IIIβ-014` schematic](https://via.placeholder.com/320x180?text=SE-C-IIIβ-014+Containment)
-![Work Types — Viderehan and Ferrehan](https://via.placeholder.com/320x180?text=Work+Types)
-![Pressure — Grudge · Lament · Void · Weight](https://via.placeholder.com/320x180?text=Pressure+Types)
+Completing Challenge Mode trials awards prestige recognition:
+- **Mastery Badges:** Stamped directly onto the Warden's service record.
+- **Cosmetic M.A.W. Reskins:** Unlocks ornate gold, obsidian, and glowing variants of classic suits and weapons.
+- **Tactical Titles:** Unlocks prestigious titles for deployed specialist veterans.
 
-*Left: containment schematic for `SE-C-IIIβ-014` — **Place**-type; Center: **Viderehan** and **Ferrehan** only (***Two-Work-Type***); Right: four **Pressure** icons.*
+## 6 Gallery
+
+![Challenge Mode Menu](https://via.placeholder.com/320x180?text=Challenge+Mode+Menu)
+![Endless Shift Crisis](https://via.placeholder.com/320x180?text=Endless+Shift+Crisis)
+![Prestige M.A.W. Reskins](https://via.placeholder.com/320x180?text=Prestige+Reskins)
+
+*Left: challenge modifier selection menu; Center: endless crisis floor; Right: prestige M.A.W. cosmetics.*
 ---
 
-## See also
+## 7 See also
 
--[36-Tactical Engine](36-Tactical%20Engine.md)
--[41-Frontiers](41-Frontiers.md)
+- [11-Reverberations](11-Reverberations.md) — campaign floor realizations and core suppressions
+- [16-Daily Cycle](16-Daily%20Cycle.md) — standard shift mechanics and phases
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — weapons and armors used in challenge trials
+- [21-Game Mechanics](21-Game%20Mechanics.md) — core mechanical formulas and systems
