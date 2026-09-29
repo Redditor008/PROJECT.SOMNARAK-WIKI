@@ -12,7 +12,7 @@ The city’s time is anchored at Year 4,238 — the Dawn of Hope, when the Hand 
 
 This wiki is how the city explains itself to those who must keep it. Navigation 02 to 04 teaches how to read SECC (Origin C City 159, N Inner 72, O Outside 61; Rank I Whisper 46 to V Sovereign 10; Potency α to ω; Manifestation Subject, Object, Place, Time, Hazard) and how to work with Viderehan, Ferrehan, Flerehan, and Pugnahan under the Two-Work-Type rule (283 entities use only Viderehan and Ferrehan). Chronicle 05 to 07 gives history, people, and sorrows; Containment 08 to 20 gives the playable systems — Sorrow List, M.A.W., Ordeals, Reverberations, Specialists, Operations, Echo-Cores, Research, Daily Cycle, Pressure Types, Containment Levels, Lumen Surge, Challenge Mode; Wiki Contents 21 to 26 and Content 30 to 42 give world, behavior, genesis, Lumen, tactical engine, relics, codex, and cantos. Every numbered link such as [14-Echo-Cores](14-Echo-Cores.md) is backed by a real dossier or codex under `SOMNARAK-WORLD/` — the existence guarantee that distinguishes this wiki from a catalog of names.
 
-The Hand of Change is not a company and Gieok Jeojangso  [기억 저장소]  (Gieok Jeojangso — Memory Archive) is not a company — this taxonomy matters because Somnarak has exactly ten Primary Companies, five Main (central district charters) and five Sub (extraction, logistics, textile sub-charters), and everything else is Somnarak Outsider Factory, unchartered and non-canonical. Facility 01’s nine Echo-Cores across Floors 1 to 8 plus Central are the only directors the Hand recognizes, their armbands wearable Veils whose patterns map to wiki.gg’s ten departments (Control, Information, Training, Safety, Central Command, Disciplinary, Welfare, Extraction, Record, Architecture) cut to nine to reflect the city’s refusal to reinstall a tenth Floor. The Hand refines the Weeping  [비탄의 강]  (Bitan-ui Gang) via the Abyssal Well and Deep Vault lattice into Lumen — 40,000 LU primary, 5,000 LU per floor, 1,200 LU tertiary, green 30–70 percent, amber below 30, red above 85 — and prices each Watch through five Containment Levels (Tranquil to Rupture) that gate sixty Ordeals (BLACK Weight grinding, BLUE Lament brine, GREY Grudge Brawler, PALE Void erasure, PURPLE Raw Han warp) and nine Reverberations bound to Floors 1–8 plus Central, a budget that makes the Main Page’s infobox not a summary but a ledger of what the city can afford to keep, as codified in `Master_Codices/04_Municipal_Society_and_Demographics/` and `SOMNARAK_GEOLOGY.md` which maps the Undercity, Raw, Desolate Outskirts, Wound, and Maw at −2,000 to −7,200 meters via Katabagil’s seven Descents, none of which are Sorrow Entities.
+The Hand of Change is not a company and Gieok Jeojangso  [기억 저장소]  (Gieok Jeojangso — Memory Archive) is not a company — this taxonomy matters because Somnarak has exactly ten Primary Companies, five Main (central district charters) and five Sub (extraction, logistics, textile sub-charters), and everything else is Somnarak Outsider Factory, unchartered and non-canonical. Facility 01’s nine Echo-Cores across Floors 1 to 8 plus Central are the only directors the Hand recognizes, their armbands wearable Veils whose patterns map to SOMNARAK-WORLD’s ten departments (nine Floors 1 to 8 plus Central) cut to nine to reflect the city’s refusal to reinstall a tenth Floor. The Hand refines the Weeping  [비탄의 강]  (Bitan-ui Gang) via the Abyssal Well and Deep Vault lattice into Lumen — 40,000 LU primary, 5,000 LU per floor, 1,200 LU tertiary, green 30–70 percent, amber below 30, red above 85 — and prices each Watch through five Containment Levels (Tranquil to Rupture) that gate sixty Ordeals (BLACK Weight grinding, BLUE Lament brine, GREY Grudge Brawler, PALE Void erasure, PURPLE Raw Han warp) and nine Reverberations bound to Floors 1–8 plus Central, a budget that makes the Main Page’s infobox not a summary but a ledger of what the city can afford to keep, as codified in `Master_Codices/04_Municipal_Society_and_Demographics/` and `SOMNARAK_GEOLOGY.md` which maps the Undercity, Raw, Desolate Outskirts, Wound, and Maw at −2,000 to −7,200 meters via Katabagil’s seven Descents, none of which are Sorrow Entities.
 
 ```text
 +========================================================================+
@@ -48,7 +48,7 @@ The Hand of Change is not a company and Gieok Jeojangso  [기억 저장소]  (Gi
 - [14-Echo-Cores](14-Echo-Cores.md) — nine Cores, Floors 1 to 8 plus Central
 - [15-Research](15-Research.md) — 16 volumes and 44 Codices
 - [16-Daily Cycle](16-Daily%20Cycle.md) — inspection, assignment, strain, accounting
-- [17-Pressure Types](17-Pressure%20Types.md) — Rue, Sable, Pale, Gloom
+- [17-Pressure Types](17-Pressure%20Types.md) — Grudge, Lament, Pale, Weight
 - [18-Containment Levels](18-Containment%20Levels.md) — five Levels, Tranquil to Rupture
 - [19-Lumen Surge](19-Lumen%20Surge.md) — 0.02t per cycle, Veil rupture
 - [20-Challenge Mode](20-Challenge%20Mode.md) — post-Dawn sixteenth scenario
@@ -75,14 +75,14 @@ The Hand of Change is not a company and Gieok Jeojangso  [기억 저장소]  (Gi
 
 ## Echo-Cores and Departments
 
-Nine Echo-Cores wear armbands carrying the Veil pattern of their Floor — the municipal position of the ten wiki.gg departments, cut to nine.
+Nine Echo-Cores wear armbands carrying the Veil pattern of their Floor — the municipal position of the ten SOMNARAK-WORLD departments, cut to nine.
 
 | Floor | Core | Armband | Focus |
 | --- | --- | --- | --- |
 | 1 | Majin | Veil — Pale | Control, discipline of the threshold |
-| 2 | Seiyon | Veil — Rue | Information, observation and record |
-| 3 | Ayshuk | Veil — Sable | Training, Temperance of recruits |
-| 4 | Rook | Veil — Gloom | Safety, restoration and welfare |
+| 2 | Seiyon | Veil — Grudge | Information, observation and record |
+| 3 | Ayshuk | Veil — Lament | Training, Temperance of recruits |
+| 4 | Rook | Veil — Weight | Safety, restoration and welfare |
 | Central | Xyan | Veil — Weight | Architecture and command |
 | 5 | Dekan | Veil — Lament | Discipline and suppression |
 | 6 | Kael | Veil — Grudge | Welfare and sustain |
