@@ -25,6 +25,7 @@ Within this municipal order, the **Hand of Change** (Facility 01) descends eight
 - [1 Primary Portals](#1-primary-portals)
   - [1.1 The 3 Main Ways](#11-the-3-main-ways)
   - [1.2 The 2 Sub Ways](#12-the-2-sub-ways)
+  - [1.3 Archive Statistics at a Glance](#13-archive-statistics-at-a-glance)
 - [2 Individual Entity Showcases](#2-individual-entity-showcases)
 - [3 Facility 01 Departments and Echo-Cores](#3-facility-01-departments-and-echo-cores)
 - [4 Gameplay and Tactical Systems](#4-gameplay-and-tactical-systems)
@@ -46,6 +47,21 @@ The Somnarak archive is organized across **Three Main Hubs** and **Two Sub Porta
 
 - **[06-Personnel](06-Personnel.md)**: The Character hub. Profiles the nine sovereign [Echo-Cores](14-Echo-Cores.md), their departmental armbands and signature weapons, ten Specialist Cadres, and the ten Primary Companies.
 - **[22-Departments](22-Departments.md)**: The Department hub. Details Facility 01's spatial architecture, departmental team bonuses, Main Room healing generators (6 HP/SP), containment chambers, and progressive research unlocks.
+
+### 1.3 Archive Statistics at a Glance
+
+| Archive Metric | Canonical Count | Reference Hub |
+|---|---|---|
+| Sorrow Entities | 292 entities (285 unique SECC) | [07-Sorrow Entities](07-Sorrow%20Entities.md) |
+| M.A.W. Equipment Sets | 42 sets (1,165 profiles) | [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) |
+| Ordeal Incursions | 60 across 5 Colors and 4 Watches | [10-Ordeals](10-Ordeals.md) |
+| Story Cantos | 6 sequential Cantos | [05-Chronicle](05-Chronicle.md) |
+| Facility Floors | 9 (Floors 1-8 plus Central) | [22-Departments](22-Departments.md) |
+| Echo-Core Directors | 9 sovereign directors | [06-Personnel](06-Personnel.md) |
+| Primary Companies | 10 (5 Main, 5 Sub) | [06-Personnel](06-Personnel.md) |
+| Specimen Dossiers | 4 showcase articles | [27-The Debt Eater](27-The%20Debt%20Eater.md) |
+
+New Wardens should read the hubs in this order: Main Page (orientation) -> [07-Sorrow Entities](07-Sorrow%20Entities.md) (what you contain) -> [05-Chronicle](05-Chronicle.md) (why it matters) -> [06-Personnel](06-Personnel.md) and [22-Departments](22-Departments.md) (who and where) -> the four specimen dossiers (how it plays).
 
 ## 2 Individual Entity Showcases
 
@@ -101,13 +117,15 @@ Somnarak fields nine operational departments across eight descending levels plus
 
 ## 6 Gallery
 
-[![Alpha Tree Spire](images/alpha-tree-spire.svg)](images/alpha-tree-spire.svg)
-[![Facility 01 Floor Overview](images/facility-01-floor-overview.svg)](images/facility-01-floor-overview.svg)
-[![Nine Echo-Core Armbands](images/nine-echo-core-armbands.svg)](images/nine-echo-core-armbands.svg)
-[![Facility 01 Architectural Blueprint](images/the-hand-facility-layout.svg)](images/the-hand-facility-layout.svg)
-[![Somnarak City Layout](images/somnarak-city-layout.svg)](images/somnarak-city-layout.svg)
+| Grand Vista | Floor Cross-Section | Command Insignia |
+|---|---|---|
+| [![Alpha Tree Spire](images/alpha-tree-spire.svg)](images/alpha-tree-spire.svg) | [![Facility 01 Floor Overview](images/facility-01-floor-overview.svg)](images/facility-01-floor-overview.svg) | [![Nine Echo-Core Armbands](images/nine-echo-core-armbands.svg)](images/nine-echo-core-armbands.svg) |
+| *The Alpha Tree over Facility 01* | *Departmental floor cross-section* | *Armbands of the nine Echo-Cores* |
 
-*Top: the Alpha Tree over Facility 01, floor cross-section, and departmental armbands; Bottom: full Facility 01 architectural blueprint and Somnarak City municipal masterplan.*
+| Facility Blueprint | City Masterplan |
+|---|---|
+| [![Facility 01 Architectural Blueprint](images/the-hand-facility-layout.svg)](images/the-hand-facility-layout.svg) | [![Somnarak City Layout](images/somnarak-city-layout.svg)](images/somnarak-city-layout.svg) |
+| *Full Facility 01 architectural schematic* | *Somnarak City municipal masterplan* |
 ---
 
 ## 7 See also

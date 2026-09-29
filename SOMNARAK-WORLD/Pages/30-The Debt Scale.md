@@ -77,7 +77,16 @@ The Debt Scale shares a direct metaphysical resonance with [27-The Debt Eater](2
 1. **Managerial Tip 1:** An operative carrying The Debt Scale emits an aura that heals 5 SP to nearby allies every 3 seconds, making them invaluable for escorting panicked squadmates to safety.
 2. **Managerial Tip 2:** The bearer takes 80% increased damage from 🔴 **Grudge** attacks. Never position the scale-bearer in front of brute beasts or GREY Ordeal incursions.
 3. **Managerial Tip 3:** The scale must be returned to its chamber before the Warden concludes the daily shift. If the shift ends while an operative is still carrying the scale, the scale claims its debt, draining 50% of the operative's maximum HP permanently.
-4. **Managerial Tip 4:** If the bearer perishes while holding the scale, the relic remains on the corridor floor. Any adjacent specialist can pick it up by interacting with it via 🤲 **Ferrehan**.
+4. **Managerial Tip 4:** If the bearer perishes while holding the scale, the relic remains on the corridor floor. Any adjacent specialist can pick it up. Bearer doctrine for corridor deployment:
+
+| Doctrine | Bearer Loadout Rule | Reason |
+|---|---|---|
+| Pair with | Void-warded vanguard and ranged Grudge cover | Bearer heals while cover kills |
+| Equip | One-handed M.A.W. plus movement-speed charm | Bearer must never stand still |
+| Avoid | Frontline anchor duty against brute beasts | 1.8 Grudge weakness is fatal |
+| Avoid | Carrying past shift evaluation | The scale collects 50% max HP |
+
+Any adjacent specialist can pick it up by interacting with it via 🤲 **Ferrehan**.
 
 ## 7 Log and Method Archival Unlock Progression
 
@@ -98,13 +107,14 @@ It is recorded that Yoon kept this balance upon his cedar desk for forty years, 
 
 The scale survived the fire intact. When placed upon a table, its pans never rest level; one side always hangs lower, waiting for someone to offer a sacrifice heavy enough to satisfy forty years of uncollected interest.
 
+> *Recovered ledger fragment, Magistrate Yoon's hand: “They wept and called me cruel. But every weight I hung was owed. When the city burns, let it be recorded that the scales were never wrong — only the men who read them.”*
+
 ## 9 Gallery
 
-[![The Debt Scale Relic](images/the-debt-scale-relic.svg)](images/the-debt-scale-relic.svg)
-[![Inversion Aura Visualizer](images/inversion-aura-visualizer.svg)](images/inversion-aura-visualizer.svg)
-[![Scale Bearer in Corridor](images/scale-bearer-in-corridor.svg)](images/scale-bearer-in-corridor.svg)
-
-*Left: The Debt Scale artifact; Center: restorative aura field; Right: specialist carrying scale in corridor.*
+| The Artifact | Inversion Aura | Corridor Bearer |
+|---|---|---|
+| [![The Debt Scale Relic](images/the-debt-scale-relic.svg)](images/the-debt-scale-relic.svg) | [![Inversion Aura Visualizer](images/inversion-aura-visualizer.svg)](images/inversion-aura-visualizer.svg) | [![Scale Bearer in Corridor](images/scale-bearer-in-corridor.svg)](images/scale-bearer-in-corridor.svg) |
+| *Iron and bone balance* | *Restorative aura field* | *Bearer escorting a squad* |
 ---
 
 ## 10 See also
@@ -112,4 +122,6 @@ The scale survived the fire intact. When placed upon a table, its pans never res
 - [37-Relic Entities](37-Relic%20Entities.md) — comprehensive Tool Relics hub
 - [28-The Echo Compass](28-The%20Echo%20Compass.md) — specimen dossier: Single-Use Relic
 - [29-The Crucible](29-The%20Crucible.md) — specimen dossier: Channeled Use Relic
+- [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen Subject: paired debt resonance
+The Crucible](29-The%20Crucible.md) — specimen dossier: Channeled Use Relic
 - [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen Subject: paired debt resonance

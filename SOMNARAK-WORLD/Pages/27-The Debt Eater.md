@@ -53,6 +53,14 @@ Upon breaching, the entity walks upright at a measured speed of 1.80 m/s. It is 
 
 The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](30-The%20Debt%20Scale.md) (`SE-C-IIIβ-015`). If an operative wearing the scale enters The Debt Eater's unit during high agitation, the entity immediately breaches regardless of its current gauge.
 
+| Breach Phase | Trigger | Entity Behavior | Warden Countermeasure |
+|---|---|---|---|
+| Agitation | Gauge above 40% | Pacing; throat aperture dilates | Assign 💧 Flerehan veterans only |
+| Rupture | Gauge at 60% | Cell door warps; entity walks out upright | Clear clerks from adjacent corridors |
+| Hunt | Personnel nearby | Seeks debt tokens at 1.80 m/s | Intercept with 🔴 Grudge squads |
+| Feast | Contact with victim | Rapid ⚪ Void strikes (8–19 damage) | Rotate wounded out; never swarm |
+| Re-boxing | HP depleted | Collapses into parchment pile | Resume work within 30 seconds |
+
 ## Details
 
 ### Basic Information
@@ -86,6 +94,8 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 3. If an operative with Composure below Level II conducts work, the result is consistently **Bad**, triggering an immediate 15% increase to the Sorrow Gauge.
 4. When the Sorrow Gauge crosses 60%, the entity initiates a containment breach. Corridors must be cleared of civilian clerks immediately to prevent mass debt-harvesting.
 5. Under no circumstances should an operative carrying [The Debt Scale](30-The%20Debt%20Scale.md) enter Sector C-01 while The Debt Eater's gauge is above 40%. The resulting feedback immediately triggers a simultaneous breach and overload.
+6. During suppression, spread operatives across both corridor wings. The entity fixates on a single target at a time, so a lone bait with high Composure can kite it while flanking squads strike safely.
+7. After re-boxing, the first work session within 30 seconds gains +15% success rate. Exploit this calm window with a Level III 💧 **Flerehan** specialist to push the gauge back below 20%.
 
 ## M.A.W. Equipment
 
@@ -124,19 +134,23 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 > **Observation Log 014-A (Cycle 1,412):**  
 > "Fifty men of the Eastern Ward signed their names upon the vellum sheet, swearing by the Alpha Roots that the debt was paid in blood and steel. But paper remembers what blood forgets. When the ledger was burned in the winter furnace, the ash did not rise — it fell downward through the floorboards into Zone C. By spring, the workers heard scratching behind the stone cistern. When the menders breached the brickwork, they did not find gold or contracts. They found this thing, sitting upon a mound of charred parchment, gently smoothing out the burned scraps with its damp, gray palms."
 
+> **Observation Log 014-C (Cycle 1,655):**
+> "Junior Clerk Han brought his personal wage chit into the observation gallery against standing orders. The entity pressed its throat aperture flat against the viewing port and did not move for six hours. When the chit was confiscated and burned, the gauge fell eleven points in a single minute. Conclusion: the Eater can read. Recommendation: no paper of any kind within twenty meters of Sector C-01."
+
 ## Flavor Text and Trivia
 
 - *“It does not eat bread or flesh. It dines solely on the agreements we break when dusk falls.”*
 - The Debt Eater is one of only seven entities in Facility 01 whose vocal tract is entirely replaced by a physical vacuum.
 - In early Directorate records, this entity was provisionally designated *The Pale Clerk* before its appetite for broken promises was systematically recorded.
+- The flakes shed from its wrists, if collected before dissolving, burn with a pale violet flame and are used by the Insight Forge as calibration samples for Void-resistance testing.
+- No operative who has survived three consecutive Good sessions with The Debt Eater has ever been recorded defaulting on a personal debt afterward; the Directorate Personnel Office declines to comment on why.
 
 ## 8 Gallery
 
-[![The Debt Eater Containment Cell](images/the-debt-eater-containment-cell.svg)](images/the-debt-eater-containment-cell.svg)
-[![The Debt Eater Breaching Corridor](images/the-debt-eater-breaching-corridor.svg)](images/the-debt-eater-breaching-corridor.svg)
-[![Reaper Hungered M.A.W. Scythe](images/reaper-hungered-maw-scythe.svg)](images/reaper-hungered-maw-scythe.svg)
-
-*Left: containment cell in Sector C-01; Center: upright breach movement; Right: Reaper Hungered weapon profile.*
+| Contained | Breaching | Reaper Hungered |
+|---|---|---|
+| [![The Debt Eater Containment Cell](images/the-debt-eater-containment-cell.svg)](images/the-debt-eater-containment-cell.svg) | [![The Debt Eater Breaching Corridor](images/the-debt-eater-breaching-corridor.svg)](images/the-debt-eater-breaching-corridor.svg) | [![Reaper Hungered M.A.W. Scythe](images/reaper-hungered-maw-scythe.svg)](images/reaper-hungered-maw-scythe.svg) |
+| *Cell interior, Sector C-01* | *Upright breach movement* | *M.A.W. scythe profile* |
 ---
 
 ## See also

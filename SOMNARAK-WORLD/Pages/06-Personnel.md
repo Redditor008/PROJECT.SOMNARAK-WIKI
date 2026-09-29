@@ -49,6 +49,10 @@ Facility 01 is organized into nine departmental floors, each under the absolute 
 - **Containment Lead Dekan (Floor 2):** *“Do not look into the creature's eyes; look only at the hydraulic clamps. The clamps do not have memories, and therefore they do not weep.”*
 - **Extraction Lead Zyrak (Floor 3):** *“Every liter of Lumen powering the streetlamps above was once a human regret screaming in the dark. Handle the valves with respect.”*
 - **Research Lead Ayshuk (Floor 4):** *“To understand a sorrow is not to forgive it. It is to calculate its exact breaking point so we can extract its energy without dying.”*
+- **Border Lead Mellda (Floor 5):** *“The quarantine line is drawn in chalk and blood. Chalk washes away in the rain, so we budget generously for the other.”*
+- **Archive Lead Marjuk (Floor 6):** *“Every relic in my vault asked, once, to be remembered. I said yes to all of them, and now none of them will let me sleep.”*
+- **The Outsider Ishall (Floor 7):** *“You will not see my operatives. If you ever do, file the incident report first and scream afterward.”*
+- **The Exile Xyan (Floor 8):** *“I stand where the floor ends and the dark begins. The dark has introduced itself many times. I have never once replied.”*
 
 ## 2 Specialist Cadres and Loadout Pairing
 
@@ -60,6 +64,13 @@ Frontline containment and suppression tasks are executed by **Specialists** recr
    - **Mourning Cadres:** Specialize in 💧 **Flerehan**  [플레레한]  (_Composure_), establishing emotional resonance.
    - **Clamping Cadres:** Specialize in ⚔ **Pugnahan**  [푸그나한]  (_Resolve_), executing physical and acoustic subdual.
 2. **Tactical Loadout Pairing:** High-threat encounters require complementary equipment pairing. A specialist wielding high-damage 🔴 **Grudge** weaponry (such as *Threshold Vow*) is paired with a specialist cloaked in ⚪ **Void**-resistant mantles (such as *Debt Shroud* from [27-The Debt Eater](27-The%20Debt%20Eater.md)), ensuring the squad can endure diverse damage pressures during multi-entity breaches.
+
+| Cadre Discipline | Primary Protocol | Battlefield Role | Key Attribute |
+|---|---|---|---|
+| Optic Cadres | 👁 Viderehan | Reconnaissance and sensor logging | Clarity |
+| Vigil Cadres | 🤲 Ferrehan | Cell endurance and pressure soaking | Resilience |
+| Mourning Cadres | 💧 Flerehan | Emotional resonance and yield lifting | Composure |
+| Clamping Cadres | ⚔ Pugnahan | Physical subdual and breach suppression | Resolve |
 
 ## 3 The Ten Primary Companies
 
@@ -89,11 +100,10 @@ A critical distinction in personnel records separates linear civilian tenure fro
 
 ## 5 Gallery
 
-[![Echo-Core Assembly](images/echo-core-assembly.svg)](images/echo-core-assembly.svg)
-[![Specialist Cadre Deployment](images/specialist-cadre-deployment.svg)](images/specialist-cadre-deployment.svg)
-[![Corporate Seal Registry](images/corporate-seal-registry.svg)](images/corporate-seal-registry.svg)
-
-*Left: the nine sovereign Echo-Cores; Center: specialist squad in full M.A.W. gear; Right: seals of the ten Primary Companies.*
+| The Nine Directors | Cadre Deployment | Company Seals |
+|---|---|---|
+| [![Echo-Core Assembly](images/echo-core-assembly.svg)](images/echo-core-assembly.svg) | [![Specialist Cadre Deployment](images/specialist-cadre-deployment.svg)](images/specialist-cadre-deployment.svg) | [![Corporate Seal Registry](images/corporate-seal-registry.svg)](images/corporate-seal-registry.svg) |
+| *The nine sovereign Echo-Cores* | *Specialist squad in full M.A.W. gear* | *Seals of the ten Primary Companies* |
 ---
 
 ## 6 See also

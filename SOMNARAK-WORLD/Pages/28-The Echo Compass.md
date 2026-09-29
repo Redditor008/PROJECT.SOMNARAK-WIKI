@@ -66,6 +66,13 @@ In accordance with Directorate safety doctrine for inanimate artifacts, 💧 **F
 3. **Managerial Tip 3:** During [Ordeal](10-Ordeals.md) incursions, activating The Echo Compass reveals the exact movement vectors and ambush coordinates of approaching Ordeal horrors across the floor HUD.
 4. **Managerial Tip 4:** Novice operatives with Clarity below Level II should not activate the compass repeatedly, as prolonged exposure to its high-frequency hum induces persistent auditory hallucinations.
 
+| Deployment Situation | Sonar Benefit | Activation Priority |
+|---|---|---|
+| Pre-shift dark zones | Reveals hidden meltdown timers | High: pulse before first work wave |
+| Active Ordeal incursion | Exposes ambush vectors on floor HUD | Critical: pulse on incursion alarm |
+| High-yield work push | +10% success to adjacent chambers | Medium: sync with Flerehan sessions |
+| Post-breach sweep | Locates concealed roaming entities | High: pulse before squad deployment |
+
 ## 5 Log and Method Archival Unlock Progression
 
 Unlike Subject entities whose codices unlock via raw energy box count, Tool Relic archives unlock based on cumulative **Number of Uses**:
@@ -85,6 +92,9 @@ Unlike Subject entities whose codices unlock via raw energy box count, Tool Reli
 ### Log 001-B (Junior Specialist Min)
 > *“I touched the casing before the bronze had stopped shivering. The sound didn't hit my ears—it hit the inside of my teeth. For three hours afterward, every word spoken by my squadmates sounded like it was being underwatered in cold grease. Always let the needle rest.”*
 
+### Log 001-C (Warden Field Note, Cycle 1,771)
+> *“Pulsed the compass twice during the Violet incursion on Floor 3. Second pulse caught the burrower mid-tunnel behind Cell 02 — squad collapsed the shaft before it surfaced. One relic, zero casualties, eleven seconds of foresight. I have requisitioned a commendation for a brass dish.”*
+
 ## 7 Metaphysical Origin and Story
 
 The Echo Compass was recovered from Borehole 12 during the early excavations of the Sorrow Extraction Division (SED). It belonged to Chief Surveyor Jonathan Vance, who spent nineteen weeks descending through the upper strata of the [Maw](41-Frontiers.md) attempting to chart subterranean air currents.
@@ -95,11 +105,10 @@ Whenever the needle is spun, those forgotten voices chime in unison, guiding the
 
 ## 8 Gallery
 
-[![The Echo Compass Artifact](images/the-echo-compass-artifact.svg)](images/the-echo-compass-artifact.svg)
-[![Acoustic Sonar Pulse Display](images/acoustic-sonar-pulse-display.svg)](images/acoustic-sonar-pulse-display.svg)
-[![Gimbaled Needle Mechanism](images/gimbaled-needle-mechanism.svg)](images/gimbaled-needle-mechanism.svg)
-
-*Left: The Echo Compass apparatus; Center: acoustic pulse radiating on HUD; Right: close-up of vibrating needle.*
+| The Apparatus | Sonar Pulse | Needle Detail |
+|---|---|---|
+| [![The Echo Compass Artifact](images/the-echo-compass-artifact.svg)](images/the-echo-compass-artifact.svg) | [![Acoustic Sonar Pulse Display](images/acoustic-sonar-pulse-display.svg)](images/acoustic-sonar-pulse-display.svg) | [![Gimbaled Needle Mechanism](images/gimbaled-needle-mechanism.svg)](images/gimbaled-needle-mechanism.svg) |
+| *Brass compass apparatus* | *Acoustic pulse on floor HUD* | *Vibrating needle close-up* |
 ---
 
 ## 9 See also

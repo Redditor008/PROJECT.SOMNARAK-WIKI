@@ -79,6 +79,12 @@ Channeling inside The Crucible is governed by an unyielding mathematical curve:
 3. **Managerial Tip 3:** If an operative is extracted between 20 and 29 seconds, they emerge with the *Tempered Core* buff, granting +15 Max HP and +0.1 physical defense for the remainder of the shift.
 4. **Managerial Tip 4:** After an operative exits, The Crucible requires a 40-second cool-down cycle. Sending another specialist into the pod while steam is still venting doubles the heat accumulation rate.
 
+| Extraction Doctrine | Exit Window | Yield vs Risk |
+|---|---|---|
+| Conservative | 8–12 seconds | +4 LU, zero damage; safe for rookies |
+| Standard | 18–22 seconds | +12 LU, moderate burns; Tempered Core likely |
+| Greedy | 26–29 seconds | +16 LU plus full buffs; one lag spike from ash |
+
 ## 6 Log and Method Archival Unlock Progression
 
 Observation logs for Channeled Relics unlock based on cumulative **Time of Use**:
@@ -98,13 +104,14 @@ Karr tested the prototype himself. In his personal ledger, he wrote: *“The hea
 
 On the final test run, Karr refused to pull the emergency release latch. When recovery teams pried the hatch open, they found no body—only a perfect, violet-tinted crystal ingot weighing exactly 0.02 tons and an iron pod that has remained warm to the touch ever since.
 
+> *Foundry memorandum, pinned inside the hatch (Cycle 814): “If you are reading this, the pod worked. Do not mourn the stoker. Some fires only light when a man agrees to be the first coal. — D.K.”*
+
 ## 8 Gallery
 
-[![The Crucible Containment Unit](images/the-crucible-containment-unit.svg)](images/the-crucible-containment-unit.svg)
-[![Thermal Warning Gauge](images/thermal-warning-gauge.svg)](images/thermal-warning-gauge.svg)
-[![Specialist Emerging Tempered](images/specialist-emerging-tempered.svg)](images/specialist-emerging-tempered.svg)
-
-*Left: The Crucible iron cylindrical unit; Center: thermal escalation gauge; Right: operative emerging with Tempered Core.*
+| The Iron Unit | Thermal Gauge | Tempered Emergence |
+|---|---|---|
+| [![The Crucible Containment Unit](images/the-crucible-containment-unit.svg)](images/the-crucible-containment-unit.svg) | [![Thermal Warning Gauge](images/thermal-warning-gauge.svg)](images/thermal-warning-gauge.svg) | [![Specialist Emerging Tempered](images/specialist-emerging-tempered.svg)](images/specialist-emerging-tempered.svg) |
+| *Cylindrical iron furnace unit* | *Thermal escalation gauge* | *Operative with Tempered Core buff* |
 ---
 
 ## 9 See also

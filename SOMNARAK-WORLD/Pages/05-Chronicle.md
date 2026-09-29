@@ -45,6 +45,21 @@ When the subterranean pressure threatened to rupture the bedrock, the founders o
 
 ## 2 Master Epoch Partition
 
+All Somnarak history pivots on a single year. Use this master table to orient every date cited anywhere in the wiki:
+
+| Year / Cycle | Epoch | Threshold Event |
+|---|---|---|
+| Year 0000 | Ante-Dawn | Settlement Arrival at the Mugenhan valley |
+| Year 0195 | Ante-Dawn | The First Weeping: liquid Han river discovered |
+| Years 2,460–3,970 | Ante-Dawn | Katabagil: seven deep descents into the Maw |
+| Years 3,973–4,039 | Ante-Dawn | Katharcheok: six Underworld sweeps |
+| Years 4,202–4,238 | Ante-Dawn | Reverie Directorate; 1,778 Mnemonic Cycles |
+| **Year 4,238 / Cycle 1,778** | **The Dawn of Hope** | **Stasis loop shattered; sorrow transmuted** |
+| Year 4,239 onward | Post-Dawn | Jipyeongseondae: six Horizon expeditions |
+| Year 4,240 onward | Post-Dawn | Gieok Jeojangso sanctuary founded |
+| Year 4,250 onward | Post-Dawn | Wound Walkers frontier garrisons |
+| Year 4,255 onward | Post-Dawn | Continental Reconstruction begins |
+
 ### 2.1 Ante-Dawn Era (Years 0000 to 4,238)
 
 The Ante-Dawn spans over four millennia of hardship, subterranean exploration, and industrial consolidation:
@@ -112,11 +127,10 @@ The Horizon Caravan crosses the Great Salt Waste toward Mugeukji, confronting co
 
 ## 5 Gallery
 
-[![The Dawn of Hope Transmutation](images/the-dawn-of-hope-transmutation.svg)](images/the-dawn-of-hope-transmutation.svg)
-[![The Mnemonic Cycle 1778](images/the-mnemonic-cycle-1778.svg)](images/the-mnemonic-cycle-1778.svg)
-[![The Horizon Caravan Departure](images/the-horizon-caravan-departure.svg)](images/the-horizon-caravan-departure.svg)
-
-*Left: Year 4,238 Dawn of Hope array; Center: Cycle 1,778 stasis clock; Right: Caravan departure into the Desolate.*
+| The Dawn Array | The Stasis Clock | The Departure |
+|---|---|---|
+| [![The Dawn of Hope Transmutation](images/the-dawn-of-hope-transmutation.svg)](images/the-dawn-of-hope-transmutation.svg) | [![The Mnemonic Cycle 1778](images/the-mnemonic-cycle-1778.svg)](images/the-mnemonic-cycle-1778.svg) | [![The Horizon Caravan Departure](images/the-horizon-caravan-departure.svg)](images/the-horizon-caravan-departure.svg) |
+| *Year 4,238 transmutation array* | *Cycle 1,778 stasis clock* | *Caravan departure into the Desolate* |
 ---
 
 ## 6 See also

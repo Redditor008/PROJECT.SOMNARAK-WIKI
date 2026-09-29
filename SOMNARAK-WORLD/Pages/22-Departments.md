@@ -37,6 +37,13 @@ Facility 01 does not treat departments as abstract corporate divisions; they are
 
 Every department within Facility 01 is engineered according to a standardized architectural modular layout designed to compartmentalize cognitive hazards:
 
+| Room Type | Count per Floor | Core Function | Hazard Note |
+|---|---|---|---|
+| Main Room | 1 | Command, rest, Healing Generator (6 HP/SP) | Generator dies if hostiles enter |
+| Containment Units | Up to 4 | Entity housing behind Han lattice | Each breach threatens the floor |
+| Corridors | 2 wings | Transit and suppression battleground | Primary clash terrain |
+| Elevator Hubs | 2 shafts | Vertical transit between floors | Sealed during Reverberations |
+
 ### 1.1 The Main Room and Healing Generator
 
 The **Main Room** serves as the central command atrium and resting quarters for all specialists stationed on that floor. It is equipped with tactical briefing consoles, equipment racks, and direct comms lines to the floor's Echo-Core.
@@ -104,12 +111,15 @@ During a Reverberation crisis:
 
 ## 6 Gallery
 
-[![Department Main Room](images/department-main-room.svg)](images/department-main-room.svg)
-[![Containment Unit Corridor](images/containment-unit-corridor.svg)](images/containment-unit-corridor.svg)
-[![Elevator Shaft Network](images/elevator-shaft-network.svg)](images/elevator-shaft-network.svg)
-[![Facility 01 Architectural Blueprint](images/the-hand-facility-layout.svg)](images/the-hand-facility-layout.svg)
+| Command Atrium | Containment Corridor |
+|---|---|
+| [![Department Main Room](images/department-main-room.svg)](images/department-main-room.svg) | [![Containment Unit Corridor](images/containment-unit-corridor.svg)](images/containment-unit-corridor.svg) |
+| *Main Room with restorative generator* | *Cell corridor and airlock gates* |
 
-*Left to right: Department Main Room with restorative generator, containment corridor, vertical elevator network, and full Facility 01 architectural blueprint.*
+| Vertical Transit | Facility Blueprint |
+|---|---|
+| [![Elevator Shaft Network](images/elevator-shaft-network.svg)](images/elevator-shaft-network.svg) | [![Facility 01 Architectural Blueprint](images/the-hand-facility-layout.svg)](images/the-hand-facility-layout.svg) |
+| *Elevator shaft network* | *Full Facility 01 architectural schematic* |
 ---
 
 ## 7 See also
