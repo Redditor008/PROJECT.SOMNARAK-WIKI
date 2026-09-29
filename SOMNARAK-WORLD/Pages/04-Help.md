@@ -44,6 +44,7 @@ All articles must use pure, proprietary Somnarak vocabulary. The use of external
 | Sephirah / Sephirot | **Echo-Core / Echo-Cores** |
 | E.G.O (Equipment / Suit / Weapon) | **M.A.W. Equipment / M.A.W. Suit / Weapon** |
 | Enkephalin / PE-Boxes | **Lumen / Lumen Units (LU) / Positive Boxes** |
+| LOB Points / LOB Credits | **Municipal Investment Credits** |
 | NE-Boxes | **Fracture Boxes / Negative Boxes** |
 | ZAYIN / TETH / HE / WAW / ALEPH | **Whisper / Murmur / Fragment / Wail / Sovereign** |
 | Qliphoth Meltdown | **Mugenhan Meltdown / Containment Overload** |

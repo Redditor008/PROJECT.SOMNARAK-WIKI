@@ -132,9 +132,9 @@ At 0.110 tons collected, the ceiling groans. A colossal slab of weeping green st
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
+| TACTICAL DOSSIER: SECOND WATCH ORDEAL                               |
 | DESIGNATION : THE GRIEVING MONOLITH                                 |
-| CLASSIFICATION : GREEN (WEIGHT/LAMENT) NOON                         |
+| CLASSIFICATION : GREEN (WEIGHT/LAMENT) SECOND WATCH                 |
 | INTRUSION POINT : FLOOR 2 PRIMARY JUNCTION                          |
 | HOSTILE PARAMETERS:                                                 |
 | - Entity: 1x Colossal Weeping Stone Slab                            |
@@ -150,7 +150,7 @@ Director Majin establishes real-time GBS tactical coordinates:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (GREEN NOON ORDEAL)           |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (GREEN SECOND WATCH)          |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -376,7 +376,7 @@ Director Majin establishes real-time GBS tactical coordinates:
 | Meltdowns Cleared   | 3 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Green Noon                                  |
+| Ordeals Suppressed  | 1 Green Second Watch                          |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE S (Outstanding)                         |
@@ -557,9 +557,9 @@ At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt 
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: CRIMSON NOON ORDEAL                               |
+| TACTICAL DOSSIER: CRIMSON SECOND WATCH                              |
 | DESIGNATION : SANGUINE LARVAE                                       |
-| CLASSIFICATION : RED (GRUDGE/WEIGHT) NOON                           |
+| CLASSIFICATION : RED (GRUDGE/WEIGHT) SECOND WATCH                   |
 | INTRUSION POINT : FLOOR 2 & 3 CORRIDORS                             |
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 4x Rapid Flesh Pods & Broods                            |
@@ -575,7 +575,7 @@ Director Majin establishes split-team GBS sector commands:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CRIMSON NOON)                |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CRIMSON SECOND WATCH)        |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -780,7 +780,7 @@ Director Majin establishes split-team GBS sector commands:
 | Meltdowns Cleared   | 4 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Crimson Noon                                |
+| Ordeals Suppressed  | 1 Crimson Second Watch                        |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -954,9 +954,9 @@ At 0.145 tons harvested, the facility's emergency sirens shift from amber to vio
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 | DESIGNATION : THE GILDED DROWNERS                                   |
-| CLASSIFICATION : VIOLET (VOID/DECAY) DUSK                           |
+| CLASSIFICATION : VIOLET (VOID/DECAY) THIRD WATCH                    |
 | INTRUSION POINT : FLOORS 1, 3, AND 5                                |
 | HOSTILE PARAMETERS:                                                 |
 | - Entities: 3x Colossal Gilded Monoliths                            |
@@ -975,7 +975,7 @@ Director Majin establishes coordinated GBS tactical commands:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET DUSK)                 |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET THIRD WATCH)          |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -1186,7 +1186,7 @@ All three monoliths collapse simultaneously into inert slag! +22 RHR reagents co
 | Meltdowns Cleared   | 5 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Violet Dusk                                 |
+| Ordeals Suppressed  | 1 Violet Third Watch                          |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE S (Exceptional)                         |
@@ -1370,9 +1370,9 @@ At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented c
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: AMBER DUSK ORDEAL                                 |
+| TACTICAL DOSSIER: AMBER THIRD WATCH                                 |
 | DESIGNATION : THE CHURNING HIVE                                     |
-| CLASSIFICATION : AMBER (WEIGHT/GRUDGE) DUSK                         |
+| CLASSIFICATION : AMBER (WEIGHT/GRUDGE) THIRD WATCH                  |
 | INTRUSION POINT : FLOOR 5 GATEWAY SLUICE                            |
 | HOSTILE PARAMETERS:                                                 |
 | - Entity: 1x Colossal Segmented Burrower                            |
@@ -1388,7 +1388,7 @@ Director Majin establishes GBS tactical positioning:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER DUSK)                  |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER THIRD WATCH)           |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -1602,7 +1602,7 @@ In 25 seconds of blistering combat, the queen burrower dissolves into crystalliz
 | Meltdowns Cleared   | 6 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Amber Dusk                                  |
+| Ordeals Suppressed  | 1 Amber Third Watch                           |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -1761,15 +1761,15 @@ Energy meter climbs to `0.092 / 0.160 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Second Watch (Violet Noon) Suppression
+#### 3. Ordeal Manifestation: Second Watch (Violet) Suppression
 
 At 14:40, the space outside Gate 05 shatters like crystalline glass:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: VIOLET NOON ORDEAL SUPPRESSION                    |
+| TACTICAL DOSSIER: VIOLET SECOND WATCH SUPPRESSION                   |
 +---------------------------------------------------------------------+
-| DESIGNATION : THE PIERCING HAND (VIOLET NOON)                       |
+| DESIGNATION : THE PIERCING HAND (VIOLET SECOND WATCH)               |
 | CLASSIFICATION : VIOLET (ALL-AFFINITY) SECOND WATCH ENTITY          |
 | INTRUSION POINT : FLOOR 5 BORDER OBSERVATION GATE (NODE 02)         |
 | HOSTILE PARAMETERS : HP 240/240 | Posture 120/120 | Speed 5 (3 AP)  |
@@ -1979,7 +1979,7 @@ Total daily harvest reaches **0.168 / 0.160 tons**! Quota surpassed!
 | Han Energy Harvested | 0.160 Tons | 0.168 Tons [MET]                |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [CLEARED]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Violet Noon Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
+| Violet Second Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]    |
 | Triad Resonance Sync | 100% Stable | HARMONIC BALANCED              |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (TRIAD HARMONIC MASTER)            |
@@ -2052,7 +2052,7 @@ Deep within Floor 6, the hydraulic ballast meters register **49.100 tons** of st
 
 Seiyon's holographic form materializes beside him: *"Forty-nine point one tons, Majin. We are less than one ton away from Day 160."*
 
-Majin gazes into the dark dunes beyond Gate 05: *"Four days until the Pale Dusk. Alert Marjuk on Floor 6. When the shadow falls, we hold the line."*
+Majin gazes into the dark dunes beyond Gate 05: *"Four days until the Pale Third Watch. Alert Marjuk on Floor 6. When the shadow falls, we hold the line."*
 
 ### Day 49
 ### Story — Dialogue
@@ -2175,14 +2175,14 @@ Six containment cells in simultaneous overload! If multiple cells breach, the 50
 
 In a breathless 30-second coordinated sweep, all six cells are cleared without a single containment breach! The facility breathes a collective sigh of relief.
 
-##### Ordeal Manifestation: The Midnight Herald — First Glimpse of the Sovereign Watch
+##### Ordeal Manifestation: The Tide Herald — First Glimpse of the Sovereign Watch
 At 0.205 tons harvested, the lights across the vertical spine cut to complete darkness. A deep, subterranean bell tolls from beneath Floor 8:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: SOVEREIGN MIDNIGHT ANOMALY                        |
+| TACTICAL DOSSIER: SOVEREIGN TIDE ANOMALY                            |
 | DESIGNATION : THE FINAL DOOR ECHO                                   |
-| CLASSIFICATION : PALE / VOID MIDNIGHT HERALD                        |
+| CLASSIFICATION : PALE / VOID TIDE HERALD                            |
 | INTRUSION POINT : FLOOR 7 & 8 BOUNDARY SHAFT                        |
 | HOSTILE PARAMETERS:                                                 |
 | - Entity: 1x Colossal Dimensional Projection                        |
@@ -2198,7 +2198,7 @@ Director Majin establishes Deep Vault GBS tactical parameters:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (SOVEREIGN MIDNIGHT)          |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (SOVEREIGN TIDE)              |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -2389,7 +2389,7 @@ Director Majin establishes Deep Vault GBS tactical parameters:
 | 2. Status Equilibrium : Pale radiation drains; all agent SP         |
 | restored to max.                                                    |
 | 3. Containment Check : Sovereign Door Echo dissipated into bedrock. |
-| 4. OUTCOME : HISTORIC MIDNIGHT CLEAR — ZERO CASUALTIES, +30 RHR.    |
+| 4. OUTCOME : HISTORIC TIDE CLEAR — ZERO CASUALTIES, +30 RHR.        |
 +=====================================================================+
 ```
 
@@ -2412,7 +2412,7 @@ Marjuk anchors the Archive stasis field while Specialist Hwang and Specialist Pa
 | Meltdowns Cleared   | 7 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Midnight Echo                               |
+| Ordeals Suppressed  | 1 Tide Echo                                   |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Milestone)                          |

@@ -25,7 +25,7 @@
 ## The 2 Sub Ways (Supporting Portals)
 
 - [06-Personnel](06-Personnel.md) — Character Hub: the nine sovereign [Echo-Cores](14-Echo-Cores.md), specialist cadres, director voice quotes, and the ten Primary Companies
-- [22-Departments](22-Departments.md) — Department Hub: Facility 01 floor geography, Main Room healing generators (6 HP/SP), containment chambers, and departmental research unlocks
+- [22-Departments](22-Departments.md) — Department Hub: Facility 01 floor geography, Command Room healing generators (6 HP/SP), containment chambers, and departmental research unlocks
 
 ## Individual Specimen Showcases
 
@@ -39,7 +39,7 @@
 - [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of all 285 unique SECC codes
 - [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — weapon, suit, and gift armory (42 sets, 1,165 profiles)
 - [10-Ordeals](10-Ordeals.md) — sixty hostile incursions across 5 Colors and 4 Watches
-- [11-Reverberations](11-Reverberations.md) — department meltdown crises and floor realizations
+- [11-Reverberations](11-Reverberations.md) — department meltdown crises and stratum realizations
 - [12-Specialists](12-Specialists.md) — operative recruitment, stat progression, and loadout pairing
 - [13-Operations](13-Operations.md) — daily municipal missions and tactical deployment guidelines
 - [14-Echo-Cores](14-Echo-Cores.md) — nine director dossiers, armbands, and meltdown trials

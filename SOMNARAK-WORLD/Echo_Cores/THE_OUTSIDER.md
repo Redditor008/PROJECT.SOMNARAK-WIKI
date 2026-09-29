@@ -27,7 +27,7 @@ Ishall is controlled, perceptive, and difficult to intimidate. Her humanoid Andr
 9. [Abilities](#abilities)
 10. [Limitations and Costs](#limitations-and-costs)
 11. [Equipment and Classification](#equipment-and-classification)
-12. [Core Suppression Protocol — The Dual Suppression of Floor 7](#core-suppression-protocol--the-dual-suppression-of-floor-7)
+12. [Core Realization Protocol — The Dual Realization of Floor 7](#core-realization-protocol--the-dual-realization-of-floor-7)
 13. [Relationships — The Nine](#relationships--the-nine)
 14. [Relationships — Other Figures and the City](#relationships--other-figures-and-the-city)
 15. [The Secret](#the-secret)
@@ -925,21 +925,21 @@ Black belongs mainly to chassis structure, clothing, and Artifact surfaces. It i
 
 ---
 
-## Core Suppression Protocol — The Dual Suppression of Floor 7
+## Core Realization Protocol — The Dual Realization of Floor 7
 
 > _“Other sectors fracture along a single wound. Floor 7 fractures twice: first the assassin wakes up, then the Before-Time takes the room.”_
 
-Unlike standard Echo-Core crises that resolve through a single harmonic suppression, Echo-Core 8 presents a unique **Dual Suppression (이중 진압)** protocol. Because Ishall represents a volatile synthesis of two external lethal forces—a repurposed enemy military chassis and an uncataloged Before-Time relic—her Core Crisis unfolds in two distinct, sequential operational phases.
+Unlike standard Echo-Core crises that resolve through a single harmonic realization, Echo-Core 8 presents a unique **Dual Realization (이중 진압)** protocol. Because Ishall represents a volatile synthesis of two external lethal forces—a repurposed enemy military chassis and an uncataloged Before-Time relic—her Core Crisis unfolds in two distinct, sequential operational phases.
 
 ### Suppression Overview
 
 | Field | Registry Entry |
 |---|---|
-| **Designation** | **Dual Suppression — Floor 7 (Shadow Corps)** |
+| **Designation** | **Dual Realization — Floor 7 (Shadow Corps)** |
 | **Target** | Echo-Core 8 — Ishall |
 | **Location** | Sector 07 Subterranean Operations Grid / Floor 7 Black Vault |
 | **Trigger Condition** | Cycle trauma saturation; failure of Directorate neural firewalls; Han harmonic desynchronization exceeding 92% |
-| **Phase Count** | **2 Sequential Suppressions** (Mandatory uninterrupted sequence) |
+| **Phase Count** | **2 Sequential Realizations** (Mandatory uninterrupted sequence) |
 | **Phase I Focus** | Tactical Infiltrator Subroutine (Enemy Chassis Reclamation) |
 | **Phase II Focus** | Primordial Void Singularity (Unanswered Awakened Relic) |
 | **Surviving Reward** | **+10 to All Attributes** (Resilience, Clarity, Composure, Resolve); permanent synchronization lock on *Unanswered*; facility-wide covert coordination bonus |

@@ -23,7 +23,7 @@ Designed for veteran Wardens seeking ultimate tactical mastery, Challenge Mode s
 - [1 Unlocking and Operational Scope](#1-unlocking-and-operational-scope)
 - [2 The Twelve Tactical Modifiers](#2-the-twelve-tactical-modifiers)
 - [3 Endless Containment: The Wave Progression Matrix](#3-endless-containment-the-wave-progression-matrix)
-- [4 Director Rematch Trials: Dual Suppressions](#4-director-rematch-trials-dual-suppressions)
+- [4 Director Rematch Trials: Dual Realizations](#4-director-rematch-trials-dual-realizations)
 - [5 Scoring, Leaderboards, and Prestige Rewards](#5-scoring-leaderboards-and-prestige-rewards)
 - [6 Gallery](#6-gallery)
 - [7 See also](#7-see-also)
@@ -64,14 +64,14 @@ In **Endless Containment**, the quota gauge has no upper ceiling:
 |---|---|---|---|
 | **Waves 1 – 5** | Levels I – V | First & Second Watch Ordeals | Routine warm-up; standard cell overloads. |
 | **Waves 6 – 10** | Levels VI – X | Third & Tide Watch Ordeals | High-tier Fragments breach; multi-wing combat. |
-| **Waves 11 – 15** | Levels XI – XV | Back-to-Back Midnight Incursions | Wail entities break containment; auxiliary wipeout. |
+| **Waves 11 – 15** | Levels XI – XV | Back-to-Back Tide Incursions | Wail entities break containment; auxiliary wipeout. |
 | **Waves 16 – 20+** | Levels XVI – XX | Simultaneous Dual Sovereigns | Absolute chaos; requires flawless shield cycling. |
 
-## 4 Director Rematch Trials: Dual Suppressions
+## 4 Director Rematch Trials: Dual Realizations
 
 Challenge Mode allows Wardens to re-engage the nine [Echo-Cores](14-Echo-Cores.md) in intensified boss trials:
 - **Dual Meltdowns:** Fight two Echo-Cores simultaneously with combined handicaps (e.g., Majin's *Command Scramble* paired with Mellda's roaming combat form *The Red Hunt*).
-- **Strict Time Limits:** Complete Floor Realizations within strict real-time countdown limits under threat of instant facility detonation.
+- **Strict Time Limits:** Complete Stratum Realizations within strict real-time countdown limits under threat of instant facility detonation.
 
 ## 5 Scoring, Leaderboards, and Prestige Rewards
 
@@ -91,7 +91,7 @@ Completing Challenge Mode trials awards prestige recognition:
 
 ## 7 See also
 
-- [11-Reverberations](11-Reverberations.md) — campaign floor realizations and core suppressions
+- [11-Reverberations](11-Reverberations.md) — campaign stratum realizations and core realizations
 - [16-Daily Cycle](16-Daily%20Cycle.md) — standard shift mechanics and phases
 - [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — weapons and armors used in challenge trials
 - [21-Game Mechanics](21-Game%20Mechanics.md) — core mechanical formulas and systems

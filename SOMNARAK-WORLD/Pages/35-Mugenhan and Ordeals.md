@@ -14,7 +14,7 @@ Within the world of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOM
 | Lattice Strata         | 15 Mundane - 6 Infused - 6 Mortal Layers      |
 | Crisis Events          | 60 Ordeals (5 Colors x 4 Watches Matrix)      |
 | Color Axes             | Grey (Grudge) - Red - Violet - Black - Pale   |
-| Watch Tiers            | First (Dawn) - Second - Third - Tide (Midnight|
+| Watch Tiers            | First - Second - Third - Tide                 |
 +========================================================================+
 ```
 
@@ -79,14 +79,14 @@ Ordeals manifest according to the facility's shift clock:
 
 1. **Preemptive Muster:** Position combat squads in central hallway intersections before triggering the work session that advances the meltdown gauge to an Ordeal threshold.
 2. **Elemental Matching:** Match weapon pressures against Ordeal vulnerabilities (e.g., engage GREY Ordeals with Black/Weight weapons; strike VIOLET monoliths with Red/Grudge arms).
-3. **Auxiliary Evacuation:** Order non-combat auxiliaries into fortified Main Rooms to prevent mass slaughter and cascading panic breakdowns.
+3. **Auxiliary Evacuation:** Order non-combat auxiliaries into fortified Command Rooms to prevent mass slaughter and cascading panic breakdowns.
 4. **Relic Synchronization:** Deploy [28-The Echo Compass](28-The%20Echo%20Compass.md) to track stealth incursions, or equip [30-The Debt Scale](30-The%20Debt%20Scale.md) to neutralize PALE executioners.
 
 ## 7 Gallery
 
 [![Mugenhan Lattice Map](images/mugenhan-lattice-map.svg)](images/mugenhan-lattice-map.svg)
 [![Violet Ordeal Monolith](images/purple-ordeal-monolith.svg)](images/purple-ordeal-monolith.svg)
-[![Midnight Incursion Battle](images/tide-watch-incursion-battle.svg)](images/tide-watch-incursion-battle.svg)
+[![Tide Incursion Battle](images/tide-watch-incursion-battle.svg)](images/tide-watch-incursion-battle.svg)
 
 *Left: geological map of the Mugenhan lattice; Center: Violet Ordeal obelisk; Right: Tide Watch suppression.*
 ---

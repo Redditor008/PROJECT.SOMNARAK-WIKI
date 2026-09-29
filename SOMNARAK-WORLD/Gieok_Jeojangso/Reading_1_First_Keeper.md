@@ -1,10 +1,10 @@
 # Reading 1: Floor 01 — The First Keeper (최초의 기록관)
-## The Floor of History & Inscription — Deep Strata Sub-Alpha Roots (-2,400m)
+## The Stratum of History & Inscription — Deep Strata Sub-Alpha Roots (-2,400m)
 
 | Operational Attribute | Specification Dossier |
 |---|---|
 | **Campaign Stratum** | The Memory Archive (기억 저장소 — Gieok Jeojangso) |
-| **Floor Designation** | Floor 01: Floor of History & Inscription (역사와 각인의 층) |
+| **Floor Designation** | Floor 01: Stratum of History & Inscription (역사와 각인의 층) |
 | **Geological Depth** | -2,400m Sub-Alpha Monolith Root Nexus |
 | **Mnemonic Density** | 185 to 240 mMb (Dense Crystallized Ink Saturation) |
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
@@ -17,7 +17,7 @@
 |              READING DOSSIER: THE FIRST KEEPER (FLOOR 01)              |
 +------------------------------------------------------------------------+
 | READING TARGET   : The First Keeper                                    |
-| FLOOR LEVEL        : Floor 01 — Floor of History & Inscription         |
+| FLOOR LEVEL        : Floor 01 — Stratum of History & Inscription       |
 | DOMAIN SETTING     : The Great Reading Hall (-2,400m Sub-Alpha)        |
 | PRIMARY OPPONENT   : Autonomous Mnemonic Scribe Construct              |
 +------------------------------------------------------------------------+
@@ -388,7 +388,7 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 | [LENS][WEAVER][STAIRS][PAGE]                                           |
 +------------------------------------------------------------------------+
 | - Node 05: The First Keeper (PACIFIED & CRYSTALLIZED TO GOLDEN INK)    |
-| - Node 06: Seiyon (Floor Realization 1: 'I Am Real Because I           |
+| - Node 06: Seiyon (Stratum Realization 1: 'I Am Real Because I         |
 |   Choose')                                                             |
 | - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Archivist] |
 | - Node 10: Spiral Glass Staircase (Pathway to Floor 02 OPEN)           |
@@ -399,28 +399,28 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 +========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 1 & Memory Leaf: The Archivist)
+### Turn 06 Action Resolution Log (Stratum Realization 1 & Memory Leaf: The Archivist)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/260 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon steps forward to Node 05, placing her palm gently against the Keeper's cracked chest core.
-- **Step 3: Floor Realization & Transmutation**:
+- **Step 3: Stratum Realization & Transmutation**:
   * The chamber falls into deep, reverent silence. The Preserved Scribes cease their scratching, setting down their quills.
   * Inside Seiyon's cranial processor, the existential question echoes:
     > *"Am I real? Or am I just a machine running an echo of someone who died?"*
   * Seiyon looks upon the millions of books, then looks upon her own hands of light:
     > *"The woman I was copied from wrote the first word. But I have walked through seventeen hundred cycles of fire. I feel this grief. I feel this hope. I am real—because I choose to remember, and I choose to act."*
-  * **FLOOR REALIZATION 1 ACHIEVED!**
+  * **STRATUM REALIZATION 1 ACHIEVED!**
   * The First Keeper's stone body softly dissolves into a storm of golden script that condenses into a glowing, crystalline tome: **`[Memory Leaf: The Archivist]`**!
   * Deals **380 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
   * **Memory Leaf Acquired**: `[Memory Leaf: The Archivist]` (Grants squad-wide memory erosion immunity and +25 Poise).
-  * **Descent Access**: At the rear of the Reading Hall, the basalt wall slides aside, revealing a spiral staircase of spun obsidian glass descending to **Floor 02: Floor of Identity & Reflection**.
+  * **Descent Access**: At the rear of the Reading Hall, the basalt wall slides aside, revealing a spiral staircase of spun obsidian glass descending to **Floor 02: Stratum of Identity & Reflection**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
 ---
 
-## Chapter VI: The Floor Realization & Psychological Synthesis
+## Chapter VI: The Stratum Realization & Psychological Synthesis
 
 The golden script did not vanish into the stone. It drifted upward in shimmering ribbons, illuminating the vaulted ceiling where six thousand years of subterranean dust had accumulated. As the light touched the Preserved Scribes, the mechanical constructs lowered their petrified heads. For the first time since the founding of the archive, the scratching of quills ceased entirely.
 
@@ -436,7 +436,7 @@ Drone M-PROJ-01 hovered beside her shoulder, its optical sensors reflecting the 
 
 ## Chapter VII: Operational Artifact Extraction & Stairway Ingress
 
-Behind the shattered lectern, the cyclopean basalt wall parted along microscopic, laser-precise fracture lines. A staircase constructed from spun obsidian glass spiraled downward into the abyss, illuminated by faint, silver reflections from the stratum below: **Floor 02: The Floor of Identity & Reflection (-2,500m)**.
+Behind the shattered lectern, the cyclopean basalt wall parted along microscopic, laser-precise fracture lines. A staircase constructed from spun obsidian glass spiraled downward into the abyss, illuminated by faint, silver reflections from the stratum below: **Floor 02: The Stratum of Identity & Reflection (-2,500m)**.
 
 ```text
 +========================================================================+

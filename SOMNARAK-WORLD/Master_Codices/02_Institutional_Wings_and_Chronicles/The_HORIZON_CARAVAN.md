@@ -1,14 +1,14 @@
 # Master Codex: The Horizon Caravan (지평선대 — Jipyeongseon Dae)
 ## Planetary Overland Expeditions, Inter-City Transit & Trans-Desolate Navigation
-### Trans-Planetary Wing Codex 05 — Year 4,238 Epoch (Post-Exile Restoration Edition)
+### Trans-Planetary Institution Codex 05 — Year 4,238 Epoch (Post-Exile Restoration Edition)
 
 ```text
 +=====================================================================+
 |          THE HORIZON CARAVAN — INSTITUTIONAL MASTER DOSSIER         |
 +---------------------------------------------------------------------+
 | OFFICIAL DESIGNATION: The Horizon Caravan (Jipyeongseon Dae)        |
-| KOREAN AUTHORITY   : Jipyeongseon Dae (Planetary Expedition Wing)   |
-| CLASSIFICATION : Sovereign Wing / Planetary Overland Transit Arm    |
+| KOREAN AUTHORITY   : Jipyeongseon Dae (Planetary Expedition Arm)    |
+| CLASSIFICATION : Sovereign Charter / Planetary Overland Transit Arm |
 | FLAGSHIP CRUISER   : The Drift Throne (142.5m Mobile Land Fortress) |
 | ESTABLISHED : Year 4,192 Post-Consolihan (Year 4,238 Formalized)    |
 | OPERATIONAL THEATER: The Desolate (Hwang-ya / 4,800km Dune Sea)     |
@@ -49,7 +49,7 @@ Exposed to the open wasteland, Kael discovered that the Desolate was not a unifo
 ### 1.4 The Dawn Return (Year 4,238)
 With the activation of the Absolvohan facility in Year 4,232 and the dawn of the 15% sorrow transmutation, the planetary barrier began to soften. In Year 4,238, parallel to the founding of the Dawn Initiative, Kael returned to Somnarak's gates—not at the head of a vengeful army, but commanding the 142.5-meter mobile fortress of the Drift Throne.
 
-Facing down the Council of Sighs with sovereign authority, Kael ratified **The Treaty of the Horizon**. The Horizon Caravan was formally recognized as Somnarak's premier planetary expeditionary wing, chartered to chart the overland wastes, breach inter-city trade barriers, rescue stranded refugees, and reconnect the isolated sister cities of the world: **Somnarak**, **Cheonbulok (천불옥)**, and the enigmatic **Mugeukji (무극지)**.
+Facing down the Council of Sighs with sovereign authority, Kael ratified **The Treaty of the Horizon**. The Horizon Caravan was formally recognized as Somnarak's premier planetary expeditionary arm, chartered to chart the overland wastes, breach inter-city trade barriers, rescue stranded refugees, and reconnect the isolated sister cities of the world: **Somnarak**, **Cheonbulok (천불옥)**, and the enigmatic **Mugeukji (무극지)**.
 
 ---
 
@@ -187,7 +187,7 @@ The Nomads of the Horizon live by three immutable laws forged during forty years
 | CITY 01: SOMNARAK (THE CITY OF THE WEEPING SPIRES)                  |
 | - Archetype: Monolithic Basalt Basin                                |
 |   | Sovereign Element: Lament & Void                                |
-| - Civic Order: Ruled by Council of Sighs & Five Sovereign Wings     |
+| - Civic Order: Ruled by Council & Five Sovereign Institutions       |
 | - Population: 1.4 Million Citizens                                  |
 |   | Core: The Alpha Tree Facility 01                                |
 | ------------------------------------------------------------------- |

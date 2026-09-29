@@ -31,7 +31,7 @@ When a [Sorrow Entity](07-Sorrow%20Entities.md) breaks containment or an [Ordeal
 
 ## 1 The Real-Time Tactical Engine Architecture
 
-Combat in Somnarak occurs directly within the facility's physical corridors, elevators, and Main Rooms:
+Combat in Somnarak occurs directly within the facility's physical corridors, elevators, and Command Rooms:
 - **Spatial Positioning:** Characters occupy discrete 2D coordinates. Both specialists and entities move along hallways at velocities determined by their **Resolve** or movement stats.
 - **Continuous Clock:** Combat actions occur in real time, unconstrained by artificial turns.
 - **Multi-Target Hitboxes:** Heavy cleaving weapons and sweeping entity claws damage all valid targets within their active swing arc.
@@ -68,13 +68,13 @@ When an operative and an entity trade blows simultaneously:
 
 - **Kiting:** Using long-range specialists to provoke an entity into chasing them down an elevator shaft while ranged snipers fire from safety.
 - **Tank Stacking:** Placing a specialist wearing high-resistance armor (e.g. 0.4 multiplier) in front of the squad to absorb frontal cleaves.
-- **Sanity Shield Rotation:** Withdrawing an operative whose SP is low to an adjacent Main Room so the Healing Generator can restore their sanity before panic triggers.
+- **Sanity Shield Rotation:** Withdrawing an operative whose SP is low to an adjacent Command Room so the Healing Generator can restore their sanity before panic triggers.
 
 ## 6 Environmental Hazards: Elevator Traps and Narrow Corridors
 
 Corridor geometry dictates suppression outcomes:
 - **Elevator Bottlenecks:** Forcing a wide brute entity into a vertical elevator shaft restricts its horizontal cleave, allowing squadmates above and below to fire safely.
-- **Narrow Corridors:** In confined spaces, splash damage hits all squadmates simultaneously; high-threat entities must be baited into wide Main Rooms before engaging.
+- **Narrow Corridors:** In confined spaces, splash damage hits all squadmates simultaneously; high-threat entities must be baited into wide Command Rooms before engaging.
 
 ## 7 Gallery
 

@@ -166,10 +166,10 @@ At 14:15, low-frequency sorrow vapors coalesce along Floor 2's central transitwa
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL                         |
+| TACTICAL DOSSIER: FIRST WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE TIRED CROWD                                       |
-| CLASSIFICATION : LAMENT (WHITE) DAWN                                |
+| CLASSIFICATION : LAMENT (WHITE) FIRST WATCH                         |
 | INTRUSION POINT : FLOOR 2 CENTRAL CORRIDOR                          |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -592,16 +592,16 @@ Tactical response execution:
 4. Specialist Yoo clears Chamber 300 (*The Memory Lock*).
 5. All six overloads neutralized without breach.
 
-##### Tactical Engagement / Ordeal Suppression: The Melting Cog (Violet Noon)
+##### Tactical Engagement / Ordeal Suppression: The Melting Cog (Violet Second Watch)
 
 At 14:40, a grinding mechanical roar echoes through Floor 6's hydraulic transit hall:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
+| TACTICAL DOSSIER: SECOND WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE MELTING COG                                       |
-| CLASSIFICATION : WEIGHT (VIOLET) NOON                               |
+| CLASSIFICATION : WEIGHT (VIOLET) SECOND WATCH                       |
 | INTRUSION POINT : FLOOR 6 HYDRAULIC FOUNDRY                         |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1042,10 +1042,10 @@ At 15:10, four feral ash stalkers track the refugee crawlers into the outer peri
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL                         |
+| TACTICAL DOSSIER: FIRST WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE PURSUING FIRE                                     |
-| CLASSIFICATION : GRUDGE (RED) DAWN                                  |
+| CLASSIFICATION : GRUDGE (RED) FIRST WATCH                           |
 | INTRUSION POINT : PERIMETER BULWARK AIRLOCK                         |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1473,7 +1473,7 @@ Tactical response execution:
 4. Specialist Kwak clears Chamber 088 (*The Sorrow Fountain*).
 5. All six overloads stabilized without incident.
 
-##### Tactical Engagement / Ordeal Suppression: The Dawn Spark (Pale Midnight)
+##### Tactical Engagement / Ordeal Suppression: The Dawn Spark (Pale Tide Watch)
 
 At 16:30, a blinding cyan core manifests in the Floor 4 Sub-Central Hall:
 
@@ -1482,7 +1482,7 @@ At 16:30, a blinding cyan core manifests in the Floor 4 Sub-Central Hall:
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE DAWN SPARK                                        |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT                               |
+| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 4 SUB-CENTRAL HALL                          |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1684,7 +1684,7 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 | restored.                                                           |
 | 3. Containment Check : Solar Core collapsed into shimmering         |
 | starlight.                                                          |
-| 4. OUTCOME : HISTORIC MIDNIGHT CLEAR — +0.075 TONS BONUS EXTRACTED. |
+| 4. OUTCOME : HISTORIC TIDE CLEAR — +0.075 TONS BONUS EXTRACTED.     |
 +=====================================================================+
 ```
 
@@ -1776,7 +1776,7 @@ Majin places his hand against the lead: *"Day 160. When the weapon fires, the tw
 
 > **Majin:** _"Which names?"_
 
-> **Dekan:** _"The miners of the Fourth Sub-Vault. The children who starved in Sector 9 before the Before-Time ended. And beneath them... an Amber Dusk behemoth has risen through the basalt siphon pipes on Floor 2."_
+> **Dekan:** _"The miners of the Fourth Sub-Vault. The children who starved in Sector 9 before the Before-Time ended. And beneath them... an Amber Third Watch behemoth has risen through the basalt siphon pipes on Floor 2."_
 
 > **Zyrak:** _"It brought three hundred tons of river silt with it. If that mud clogs our extraction turbines, the entire floor will overheat."_
 
@@ -1863,15 +1863,15 @@ Energy meter climbs to `0.178 / 0.280 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Third Watch (Amber Dusk) Suppression
+#### 3. Ordeal Manifestation: Third Watch (Amber) Suppression
 
 At 16:10, boiling river silt floods the Floor 2 siphon vault:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: AMBER DUSK ORDEAL SUPPRESSION                     |
+| TACTICAL DOSSIER: AMBER THIRD WATCH SUPPRESSION                     |
 +---------------------------------------------------------------------+
-| DESIGNATION : THE SEDIMENT BEHEMOTH (AMBER DUSK)                    |
+| DESIGNATION : THE SEDIMENT BEHEMOTH (AMBER THIRD WATCH)             |
 | CLASSIFICATION : AMBER (WEIGHT/GRUDGE) THIRD WATCH HOSTILE          |
 | INTRUSION POINT : FLOOR 2 BASALT SIPHON VAULT (NODE 02)             |
 | HOSTILE PARAMETERS : HP 400/400 | Posture 200/200 | Speed 4 (2 AP)  |
@@ -2084,7 +2084,7 @@ Total daily harvest reaches **0.292 / 0.280 tons**! Quota surpassed!
 | Han Energy Harvested | 0.280 Tons | 0.292 Tons [SURPASSED]          |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [CLEARED]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Amber Dusk Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]       |
+| Amber Third Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
 | Maw Siphon Synchronized| 100% Stable | TAR BACK-PRESSURE ZERO       |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (MAW DEFENDER MASTER)              |
@@ -2270,7 +2270,7 @@ Tactical response execution:
 4. Specialist Park clears Chamber 001 (*The Bell*).
 5. Specialist Kim secures Chamber 005 (*The Mother*). All six cells safely locked.
 
-##### Tactical Engagement / Ordeal Suppression: The Foundation Shard (Violet Midnight)
+##### Tactical Engagement / Ordeal Suppression: The Foundation Shard (Violet Tide Watch)
 
 At 17:00, space shatters in Floor 1's Central Command Atrium:
 
@@ -2279,7 +2279,7 @@ At 17:00, space shatters in Floor 1's Central Command Atrium:
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE FOUNDATION SHARD                                  |
-| CLASSIFICATION : WEIGHT (VIOLET) MIDNIGHT                           |
+| CLASSIFICATION : WEIGHT (VIOLET) TIDE                               |
 | INTRUSION POINT : FLOOR 1 COMMAND ATRIUM                            |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |

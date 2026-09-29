@@ -102,7 +102,7 @@ Cheonbulok has been pumping raw Han into Mugenhan's atmosphere for 4,200 years. 
 
 **Cheonbulok is the source of Outside Sorrow.**
 
-The Exile (**Xyan**) discovered this while tracking subterranean tectonic currents across the Desolate. When he submitted his telemetry to the Council of Sighs, they suppressed the findings and sealed the Exile's Gate behind him. Meanwhile, the Outsider (**Ishall**), operating within the Council's covert intelligence wing, discovered the classified suppression orders and preserved them in the Shadow Corps archives.
+The Exile (**Xyan**) discovered this while tracking subterranean tectonic currents across the Desolate. When he submitted his telemetry to the Council of Sighs, they suppressed the findings and sealed the Exile's Gate behind him. Meanwhile, the Outsider (**Ishall**), operating within the Council's covert intelligence arm, discovered the classified suppression orders and preserved them in the Shadow Corps archives.
 
 ---
 

@@ -15,7 +15,7 @@
 | CANONICAL ERA   : Dawn of Hope Restoration (Post-Exile Year 4,238)  |
 +---------------------------------------------------------------------+
 | THE FIVE EXTRALEGAL SYNDICATES OF THE RAW:                          |
-| 1. THE MENDERS GUILD : Independent Fixers, Repairmen, & Husk        |
+| 1. THE MENDERS GUILD : Independent Menders, Repairmen, & Husk       |
 | Wardens                                                             |
 | 2. THE RUST FRAYS : Heavy Scavenger Miners & Hydraulic Enforcers    |
 | 3. THE VEIL MERCHANTS : Contraband Resonance Bafflers & Mask        |
@@ -39,7 +39,7 @@ The Raw encompasses the vast, unpaved labyrinth of decommissioned dredging flues
 
 Into this governance vacuum have stepped **The Five Syndicates of The Raw** (심층의 다섯 범죄 조직 — *Simcheung-ui Daseot Beomjoe Jojik*).
 
-Rather than being mindless criminal gangs, these syndicates represent an extralegal parallel civilization. They collect their own tariffs, maintain their own armed security militias, broker disputes, extract raw subterranean wealth, and enforce ruthless behavioral codes. To the sovereign wings above, they are an illegal blight; yet to the millions who dwell beneath the Veil, the Five Syndicates provide the only functional infrastructure, economic opportunity, and violent protection available.
+Rather than being mindless criminal gangs, these syndicates represent an extralegal parallel civilization. They collect their own tariffs, maintain their own armed security militias, broker disputes, extract raw subterranean wealth, and enforce ruthless behavioral codes. To the sovereign institutions above, they are an illegal blight; yet to the millions who dwell beneath the Veil, the Five Syndicates provide the only functional infrastructure, economic opportunity, and violent protection available.
 
 ```text
 +=====================================================================+
@@ -65,7 +65,7 @@ Rather than being mindless criminal gangs, these syndicates represent an extrale
 > — Senior Mender Jo Min-Hyuk, Needle Warrens Sector 4
 
 ### 1. Sociological Profile & Ideological Doctrine
-The **Menders Guild** constitutes the oldest and most organized extralegal network in Somnarak. Unlike their purely criminal counterparts, the Menders view themselves as an honorable civic guild of frontline fixers, civil engineers, and minor containment specialists who operate where municipal services refuse to tread.
+The **Menders Guild** constitutes the oldest and most organized extralegal network in Somnarak. Unlike their purely criminal counterparts, the Menders view themselves as an honorable civic guild of frontline repairmen, civil engineers, and minor containment specialists who operate where municipal services refuse to tread.
 
 When sorrow seepages cause tenement masonry to crack, when low-grade Sorrow Entities (Rank I Whispers or Rank II Murmurs) slip through drainage conduits, or when blood-feuds between tenement families threaten to burn down entire wards, the Raw does not call the Directorate. They hire a Mender.
 

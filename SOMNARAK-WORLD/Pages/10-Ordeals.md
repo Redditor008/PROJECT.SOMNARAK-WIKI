@@ -12,7 +12,7 @@ Ordeals force the Warden to prepare suppression teams for active combat rather t
 | SOMNARAK - ORDEALS FRAMEWORK                                           |
 +------------------------------------------------------------------------+
 | Operational Incursions | 60 Tracked Ordeals across Facility 01         |
-| Temporal Axis (Watches) | First (Dawn) - Second (Noon) - Third - Tide  |
+| Temporal Axis (Watches) | First - Second - Third - Tide                |
 | Elemental Axis (Colors) | BLACK - BLUE - GREY - PALE - PURPLE          |
 | Containment Status     | Uncontainable - Hallway Roamers - Faction Comb|
 | Primary Hazard         | Veil Erosion & Facility-Wide Catastrophe      |
@@ -94,7 +94,7 @@ Facility 01's monitoring grid provides advance tactical warnings:
 
 ## 6 Tactical Suppression Guidelines
 
-1. **Pre-Positioning Squads:** Once the pre-Ordeal warning flashes, withdraw vulnerable low-level specialists into fortified Main Rooms equipped with active Healing Generators.
+1. **Pre-Positioning Squads:** Once the pre-Ordeal warning flashes, withdraw vulnerable low-level specialists into fortified Command Rooms equipped with active Healing Generators.
 2. **Elemental Matching:** Intercept BLACK incursions using high ⚫ **Weight**-resistant armor (*Reaper Shroud*). Counter GREY automatons with long-range weapons to kite physical strikes.
 3. **Targeting Monoliths:** During PURPLE incursions, ignore minor auxiliary summons and focus all heavy combat personnel on destroying the central obelisk to collapse the field.
 

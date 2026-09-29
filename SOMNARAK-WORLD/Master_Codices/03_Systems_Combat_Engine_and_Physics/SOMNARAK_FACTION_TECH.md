@@ -268,7 +268,7 @@ Facility 01's industrial heart. The Lament Well isolates Sorrow Entities within 
 ##### 3. The Mnemonic Stabilization Generator
 A massive subterranean dampening engine that radiates continuous harmonic waves throughout Facility 01. The generator enforces structural and mental reality cohesion, preventing containment sectors from collapsing into localized hallucinatory space during entity distress or severe Han spikes.
 
-##### 4. Core Suppression Rings & Emergency Reality Dampeners
+##### 4. Core Realization Rings & Emergency Reality Dampeners
 Mounted in the structural ceiling and floor of each departmental sector (Floors 2 through 8). When an Echo-Core undergoes cognitive saturation and fractures into a **Core Crisis (핵 위기)**, these rings activate, isolating the department behind spatial dampening barriers. This confines the trauma resonance within the floor, enabling the Director and suppression teams to engage and pacify the department lead to achieve **Departmental Realization**.
 
 ##### 5. Sorrow Gauges & Multi-Spectral Resonance Scanners

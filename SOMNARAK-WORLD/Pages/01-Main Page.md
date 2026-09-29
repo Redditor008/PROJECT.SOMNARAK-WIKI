@@ -46,7 +46,7 @@ The Somnarak archive is organized across **Three Main Hubs** and **Two Sub Porta
 ### 1.2 The 2 Sub Ways
 
 - **[06-Personnel](06-Personnel.md)**: The Character hub. Profiles the nine sovereign [Echo-Cores](14-Echo-Cores.md), their departmental armbands and signature weapons, ten Specialist Cadres, and the ten Primary Companies.
-- **[22-Departments](22-Departments.md)**: The Department hub. Details Facility 01's spatial architecture, departmental team bonuses, Main Room healing generators (6 HP/SP), containment chambers, and progressive research unlocks.
+- **[22-Departments](22-Departments.md)**: The Department hub. Details Facility 01's spatial architecture, departmental team bonuses, Command Room healing generators (6 HP/SP), containment chambers, and progressive research unlocks.
 
 ### 1.3 Archive Statistics at a Glance
 

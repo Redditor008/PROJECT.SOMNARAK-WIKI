@@ -486,7 +486,7 @@ Under the Dawn Accord, the truth of Year 202 was officially exhumed:
 +=====================================================================+
 ```
 
-1. **The Restoration of the Census of Year 202:** The Memory Archive opened the sealed vaults of the 6th Stratum (Floor of Lamentation). For the first time in history, the names of the one thousand laborers were broadcast across the public radios of Zones A, B, C, D, and E.
+1. **The Restoration of the Census of Year 202:** The Memory Archive opened the sealed vaults of the 6th Stratum (Stratum of Lamentation). For the first time in history, the names of the one thousand laborers were broadcast across the public radios of Zones A, B, C, D, and E.
 2. **The De-Sanctification of the Council Vaults:** The classified decree *Alpha-01*—ordering Wardens to hold the perimeter and prevent rescue—was published on the outer walls of the High Council building.
 3. **The Absolvohan Release:** As Director Majin unsealed the central resonance valves of Facility 01, the 45% planetary transmutation began. The howling from Fissure Point 7 shifted from a chord of unbearable agony into a quiet, warm resonance of rest.
 

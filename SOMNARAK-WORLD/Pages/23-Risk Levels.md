@@ -22,11 +22,11 @@ In Somnarak nomenclature, risk is framed as an audible metaphor: from the quiete
 ## Contents
 
 - [1 The Philosophy of Risk in Somnarak](#1-the-philosophy-of-risk-in-somnarak)
-- [2 Rank I: Whisper Entities (ZAYIN Equivalent)](#2-rank-i-whisper-entities-zayin-equivalent)
-- [3 Rank II: Murmur Entities (TETH Equivalent)](#3-rank-ii-murmur-entities-teth-equivalent)
-- [4 Rank III: Fragment Entities (HE Equivalent)](#4-rank-iii-fragment-entities-he-equivalent)
-- [5 Rank IV: Wail Entities (WAW Equivalent)](#5-rank-iv-wail-entities-waw-equivalent)
-- [6 Rank V: Sovereign Entities (ALEPH Equivalent)](#6-rank-v-sovereign-entities-aleph-equivalent)
+- [2 Rank I: Whisper Entities](#2-rank-i-whisper-entities)
+- [3 Rank II: Murmur Entities](#3-rank-ii-murmur-entities)
+- [4 Rank III: Fragment Entities](#4-rank-iii-fragment-entities)
+- [5 Rank IV: Wail Entities](#5-rank-iv-wail-entities)
+- [6 Rank V: Sovereign Entities](#6-rank-v-sovereign-entities)
 - [7 Non-Ranked Tool Relics and Time Hazards](#7-non-ranked-tool-relics-and-time-hazards)
 - [8 Fear Checks and Rank Discrepancy Multipliers](#8-fear-checks-and-rank-discrepancy-multipliers)
 - [9 Gallery](#9-gallery)
@@ -39,31 +39,31 @@ Risk does not merely signify combat difficulty; it reflects the depth of human g
 - A high-risk entity embodies collective historical trauma, mass industrial deaths, or existential dread.
 - Higher risk entities yield greater quantities of [Lumen](33-Lumen.md) per work session, but inflict severe psychological penalties upon unprepared specialists.
 
-## 2 Rank I: Whisper Entities (ZAYIN Equivalent)
+## 2 Rank I: Whisper Entities
 - **Archive Count:** 46 entities.
 - **Operational Hazard:** Minimal. Whisper entities rarely breach, produce docile moods, and have generous work success rates across all protocols.
 - **Field Utility:** Ideal for training novice Rank I recruits in the fundamentals of 👁 **Viderehan** and 🤲 **Ferrehan**.
 - **Yield:** 10–12 Max LU; basic starter gifts and low-tier defensive gear.
 
-## 3 Rank II: Murmur Entities (TETH Equivalent)
+## 3 Rank II: Murmur Entities
 - **Archive Count:** 70 entities.
 - **Operational Hazard:** Moderate. If assigned incorrect work protocols or neglected during meltdowns, Murmurs may inflict moderate 🔵 **Lament** trauma or stage brief corridor breaches.
 - **Field Utility:** Provides excellent attribute training for Rank II operatives stepping into frontline duties.
 - **Yield:** 14–16 Max LU; reliable early-game weapons and specialized elemental resistances.
 
-## 4 Rank III: Fragment Entities (HE Equivalent)
+## 4 Rank III: Fragment Entities
 - **Archive Count:** 82 entities.
 - **Operational Hazard:** Substantial. Fragments possess distinct behavioral conditions and lethal breach potential. Novice operatives sent to work with Fragments without adequate armor face immediate panic or physical death.
 - **Specimen Example:** [27-The Debt Eater](27-The%20Debt%20Eater.md) (`SE-C-IIIβ-014`), which demands strict ⚔ **Pugnahan** work and punishes mistakes with ⚪ **Void** damage.
 - **Yield:** 16–20 Max LU; versatile mid-game M.A.W. sets.
 
-## 5 Rank IV: Wail Entities (WAW Equivalent)
+## 5 Rank IV: Wail Entities
 - **Archive Count:** 79 entities.
 - **Operational Hazard:** Severe. Wail entities possess complex escape conditions, multi-room area attacks, and aggressive breach triggers (such as auxiliary deaths or facility meltdown spikes).
 - **Field Utility:** Required for harvesting elite-grade armaments needed to survive late-game [Ordeals](10-Ordeals.md).
 - **Yield:** 24–30 Max LU; high-stat weapons and fortified suits capable of enduring intense elemental pressures.
 
-## 6 Rank V: Sovereign Entities (ALEPH Equivalent)
+## 6 Rank V: Sovereign Entities
 - **Archive Count:** 10 entities (plus 1 Outside Sovereign: `SE-O-Vγ-003 Wilderness Tide`).
 - **Operational Hazard:** Catastrophic. Sovereigns represent existential facility crises. A breach by a Sovereign typically results in mass auxiliary slaughter, department destruction, and instant panic among nearby low-rank staff.
 - **Suppression Requirements:** Demands fully assembled, elite Rank V squads armed with complementary M.A.W. weaponry and precise shield rotations.

@@ -6,7 +6,7 @@
 |                    THE HORIZON CARAVAN EXPEDITION                   |
 +---------------------------------------------------------------------+
 | Authority            | The Horizon Caravan                          |
-|                      | Institutional Wing                           |
+|                      | Sovereign Institution                        |
 +---------------------------------------------------------------------+
 | Classification       | PLANETARY EXPEDITION                         |
 +---------------------------------------------------------------------+

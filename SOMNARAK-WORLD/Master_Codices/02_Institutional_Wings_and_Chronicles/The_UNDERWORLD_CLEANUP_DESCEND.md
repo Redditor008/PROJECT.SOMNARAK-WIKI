@@ -1,6 +1,6 @@
 # Master Codex: The Underworld Cleanup Descend (지하 정화 기동대 — Jiha Jeonghwa Gidong)
 ## Urban Counter-Insurgency, Anti-Fray Pacification & Sub-Municipal Law Enforcement
-### Sub-Municipal Wing Codex 03 — Council Executive Order 108 (Post-Consolihan Edition)
+### Sub-Municipal Institution Codex 03 — Council Executive Order 108 (Post-Consolihan Edition)
 
 ```text
 +=====================================================================+

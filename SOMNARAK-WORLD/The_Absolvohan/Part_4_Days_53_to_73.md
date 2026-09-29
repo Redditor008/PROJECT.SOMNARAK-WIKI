@@ -132,7 +132,7 @@ All cells stabilized with 15 seconds remaining! Meltdown cleared with zero leaks
 At 0.180 tons harvested, the floor vents shudder. Two colossal clockwork spires burst through Floor 2 and Floor 4:
 
 ```text
-> ORDEAL WARNING: GREEN DUSK — THE SIPHON SPIRES
+> ORDEAL WARNING: GREEN THIRD WATCH — THE SIPHON SPIRES
 > BEHAVIOR: Spires siphon facility energy and spawn armored scuttlers!
 > TACTICAL INTERVENTION: Deploy suppression teams in dual pincer formations!
 ```
@@ -143,7 +143,7 @@ Director Majin establishes split-squad GBS tactical coordinates:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (GREEN DUSK)                  |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (GREEN THIRD WATCH)           |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -363,7 +363,7 @@ Squad Beta executes synchronized suppression on Floor 4, preventing a single scu
 | Meltdowns Cleared   | 7 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Green Dusk                                  |
+| Ordeals Suppressed  | 1 Green Third Watch                           |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -562,7 +562,7 @@ All five sectors stabilized with 11 seconds remaining! Zero breaches.
 At 0.210 tons collected, crimson fluid seeps through Floor 7's outer walls. Three colossal shroud apparitions materialize:
 
 ```text
-> ORDEAL WARNING: CRIMSON DUSK — THE BLOOD-TIDE SHROUDS
+> ORDEAL WARNING: CRIMSON THIRD WATCH — THE BLOOD-TIDE SHROUDS
 > THREAT: Inflicts heavy Grudge/Lament pulses and drains agent movement speed!
 > TACTICAL RESPONSE: Ishall leads vanguard with Range Band 1 suppression!
 ```
@@ -571,7 +571,7 @@ Director Majin establishes GBS tactical deployment at Floor 7's outer bulkhead:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CRIMSON DUSK)                |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CRIMSON THIRD WATCH)         |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -789,7 +789,7 @@ All three spectral weaves shatter in 24 seconds! Zero casualties, +28 RHR reagen
 | Meltdowns Cleared   | 8 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Crimson Dusk                                |
+| Ordeals Suppressed  | 1 Crimson Third Watch                         |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -986,7 +986,7 @@ Both sectors cleared with 14 seconds to spare! Crisis averted.
 At 0.225 tons collected, subterranean arachnids burst through Floor 5's ventilation shafts:
 
 ```text
-> ORDEAL WARNING: AMBER DUSK — THE TREMOR SPIDERS
+> ORDEAL WARNING: AMBER THIRD WATCH — THE TREMOR SPIDERS
 > THREAT: Heavy compound damage and acid web traps in main stairwells!
 > TACTICAL DIRECTIVE: Concentrated fire with Void and Weight weapons!
 ```
@@ -1217,7 +1217,7 @@ The alpha collapses in 22 seconds, dissolving into +30 RHR reagents!
 | Meltdowns Cleared   | 8 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Amber Dusk                                  |
+| Ordeals Suppressed  | 1 Amber Third Watch                           |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -1413,7 +1413,7 @@ Director Majin engages **ACOUSTIC SIPHON** from Central Command: Channels 40% of
 At 0.240 tons collected, three levitating monoliths materialize across Floors 1, 4, and 7, firing cross-floor Void death-rays!
 
 ```text
-> ORDEAL WARNING: VIOLET DUSK — THE FLOATING SPIRES
+> ORDEAL WARNING: VIOLET THIRD WATCH — THE FLOATING SPIRES
 > TACTICAL INTERVENTION: Coordinated long-range suppression with sniper bows!
 ```
 
@@ -1634,7 +1634,7 @@ All three spires shatter before a single auxiliary is harmed! +32 RHR reagents c
 | Meltdowns Cleared   | 9 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Violet Dusk                                 |
+| Ordeals Suppressed  | 1 Violet Third Watch                          |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Flawless)                           |
@@ -1711,7 +1711,7 @@ At 02:15, Ayshuk transmits acoustic hydrophone recordings of The Weeping. The ri
 
 > **Ishall:** _"Tremors on Floor 7, Director. The ventilation shafts beneath the Shadow Corps are bubbling with superheated liquid tar."_
 
-> **Xyan:** _"It is not ordinary tar, Majin. The Maw is pushing upward against Floor 8's foundation gates. An Amber Dusk entity—a Magma Tunneler—has breached the cooling ducts at Node 02."_
+> **Xyan:** _"It is not ordinary tar, Majin. The Maw is pushing upward against Floor 8's foundation gates. An Amber Third Watch entity—a Magma Tunneler—has breached the cooling ducts at Node 02."_
 
 > **Majin:** _"Casualties?"_
 
@@ -1799,15 +1799,15 @@ Energy meter climbs to `0.124 / 0.200 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Third Watch (Amber Dusk) Suppression
+#### 3. Ordeal Manifestation: Third Watch (Amber) Suppression
 
 At 15:50, the vent floorplates of Floor 7 rupture in a geyser of magma:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: AMBER DUSK ORDEAL SUPPRESSION                     |
+| TACTICAL DOSSIER: AMBER THIRD WATCH SUPPRESSION                     |
 +---------------------------------------------------------------------+
-| DESIGNATION : THE MAGMA TUNNELER (AMBER DUSK)                       |
+| DESIGNATION : THE MAGMA TUNNELER (AMBER THIRD WATCH)                |
 | CLASSIFICATION : AMBER (WEIGHT/GRUDGE) THIRD WATCH LEVIATHAN        |
 | INTRUSION POINT : FLOOR 7 SUBTERRANEAN VENT CORE (NODE 02)          |
 | HOSTILE PARAMETERS : HP 360/360 | Posture 180/180 | Speed 4 (2 AP)  |
@@ -2018,7 +2018,7 @@ Total daily harvest reaches **0.210 / 0.200 tons**! Quota surpassed!
 | Han Energy Harvested | 0.200 Tons | 0.210 Tons [SURPASSED]          |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [CLEARED]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Amber Dusk Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]       |
+| Amber Third Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
 | Tectonic Stabilized | 100% Locked | SECURED TO BEDROCK              |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (BEDROCK DEFENDER)                 |
@@ -2061,9 +2061,9 @@ At 02:30, Majin joins Ishall and Xyan in Floor 7's observation nexus. The coolin
 
 Beneath Floor 6, the hydraulic ballast meters verify **51.250 tons** of stored sorrow.
 
-Xyan places a heavy hand on the conduit pipe: *"The bedrock held, brother. Four more days until the White Dusk."*
+Xyan places a heavy hand on the conduit pipe: *"The bedrock held, brother. Four more days until the White Third Watch."*
 
-Majin nods quietly: *"And when the White Dusk comes, we will show them that human sorrow does not surrender."*
+Majin nods quietly: *"And when the White Third Watch comes, we will show them that human sorrow does not surrender."*
 
 ### Day 73
 
@@ -2190,12 +2190,12 @@ A catastrophic seven-chamber meltdown! Director Majin executes master command:
 
 All seven sectors cleared with 16 seconds on the clock! A masterpiece of facility management.
 
-##### Ordeal Manifestation: The Midnight Herald — Sovereign Echo of the Deep Vaults
+##### Ordeal Manifestation: The Tide Herald — Sovereign Echo of the Deep Vaults
 
 At 0.300 tons collected, the lights dim across the vertical spine. A harmonic resonance shudders through Floor 7 and Floor 8:
 
 ```text
-> ORDEAL WARNING: MIDNIGHT HERALD — DEEP VAULT ECHO
+> ORDEAL WARNING: TIDE HERALD — DEEP VAULT ECHO
 > A shadow of Before-Time sorrow passes through the perimeter corridors...
 > TACTICAL RESPONSE: Ishall, Mellda, and Dekan lock their shields in unison!
 ```
@@ -2427,7 +2427,7 @@ The harmonic shockwave dissolves back into the deep salt flats! +35 RHR reagents
 | Meltdowns Cleared   | 9 Overloads | 100%                            |
 | | Cleared                                                           |
 +---------------------------------------------------------------------+
-| Ordeals Suppressed  | 1 Midnight Herald                             |
+| Ordeals Suppressed  | 1 Tide Herald                                 |
 | | Suppressed                                                        |
 +---------------------------------------------------------------------+
 | Shift Performance   | GRADE EX (Milestone)                          |

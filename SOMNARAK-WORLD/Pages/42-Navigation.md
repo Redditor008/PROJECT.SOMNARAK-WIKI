@@ -41,7 +41,7 @@ The three primary pillars that define the encyclopedia:
 The operational foundations supporting facility management:
 
 - **[06-Personnel](06-Personnel.md)** — Character Hub: the nine sovereign [Echo-Cores](14-Echo-Cores.md), their departmental armbands and signature weapons, ten specialist cadres, loadout pairing doctrine, and the ten Primary Companies.
-- **[22-Departments](22-Departments.md)** — Department Hub: Facility 01 floor geography (Floors 1 to 8 + Central), Main Room healing generators (**6 HP/SP** base, **12 HP/SP** upgraded), containment chambers, transit hallways, elevator networks, and departmental mission unlocks.
+- **[22-Departments](22-Departments.md)** — Department Hub: Facility 01 floor geography (Floors 1 to 8 + Central), Command Room healing generators (**6 HP/SP** base, **12 HP/SP** upgraded), containment chambers, transit hallways, elevator networks, and departmental mission unlocks.
 
 ## 3 Individual Specimen Articles
 
@@ -59,7 +59,7 @@ Authentic dossier articles demonstrating the primary operational archetypes cata
 - **[08-Sorrow List](08-Sorrow%20List.md)** — complete index of all 285 unique SECC classification codes
 - **[09-M.A.W. Equipment](09-M.A.W.%20Equipment.md)** — crystallized weapon, suit, and gift armory (42 sets, 1,165 profiles)
 - **[10-Ordeals](10-Ordeals.md)** — sixty hostile incursions across 5 Colors and 4 Watches
-- **[11-Reverberations](11-Reverberations.md)** — department meltdown crises and floor realizations
+- **[11-Reverberations](11-Reverberations.md)** — department meltdown crises and stratum realizations
 - **[12-Specialists](12-Specialists.md)** — operative recruitment, stat progression, and loadout pairing
 - **[13-Operations](13-Operations.md)** — daily municipal missions and tactical deployment guidelines
 - **[14-Echo-Cores](14-Echo-Cores.md)** — individual director dossiers, armbands, and meltdown trials

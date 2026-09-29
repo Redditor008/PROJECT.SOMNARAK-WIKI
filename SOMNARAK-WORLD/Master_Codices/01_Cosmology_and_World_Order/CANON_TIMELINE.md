@@ -28,7 +28,7 @@ The canonical baseline of the current era across all contemporary field records,
 The Mnemonic Cycle system (Cycles 0001 through 1,778) is strictly the internal temporal loop of **The Reverie Directorate (R.D.) / The Absolvohan (Facility 01)**. Under no circumstances is "The Cycle" used, referenced, or applied outside R.D. + The Absolvohan as an external calendar standard.
 - **Reference vs. Measurement Exception Ruling:**
   - *Prohibited (Active Measurement & Calendaring):* No external entity, municipal body, syndicate, or post-Dawn expedition measures time by Cycles or operates within the loop. The Cycle is not a calendar system for the wider world.
-  - *Permitted (Retrospective Reference & Aftermath):* Retrospective narrative, historical, and testimonial *references* to the R.D. Cycles are fully canonical and valid when documenting loop aftermath, facility origin records, or post-loop survivor memories (e.g., *The Repeated Survivor* bearing trauma from 1,778 resets, the *Regressor Log Book*, or Seiyon's synthesis in Cycle 0002). This mirrors how Lobotomy Corporation's 10,000-year loop is retrospectively referenced throughout Library of Ruina and Limbus Company without The City tracking civic calendar time by it.
+  - *Permitted (Retrospective Reference & Aftermath):* Retrospective narrative, historical, and testimonial *references* to the R.D. Cycles are fully canonical and valid when documenting loop aftermath, facility origin records, or post-loop survivor memories (e.g., *The Repeated Survivor* bearing trauma from 1,778 resets, the *Regressor Log Book*, or Seiyon's synthesis in Cycle 0002). Retrospective testimony never converts the loop into a civic calendar.
 
 ```text
 [ Year 0 ] ------ [ Year 200 ] ------ [ Year 4,202 ] ------ [ Year 4,238 ]
@@ -71,7 +71,7 @@ Settler Landing   The Cheongula       R.D. Public Founding  Dawn of Hope
 By immutable Project Owner decree:
 **"The Cycle Is Only Things That Is View Able Through R.D. + Absolovhan [sic, Absolvohan] So no Mention Of The Cycle Outside R.D. + Absolovhan [sic, Absolvohan] and that mean The Only Things That Used The Cycle Is R.D. + Absolovhan [sic, Absolvohan]."**
 
-- **Canonical Analogy:** Parallel to Project Moon's architecture—where the 10,000-year / 50-day TT2 loop protocol exists exclusively inside Lobotomy Corporation's headquarters, while The City, Library of Ruina, and Limbus Company Sinners never measure municipal history by L Corp cycles—Project Somnarak confines the 1,778 Mnemonic Cycles strictly inside Facility 01.
+- **Localization Precedent:** The loop protocol exists exclusively inside Facility 01, and no external body measures municipal history by R.D. cycles — Project Somnarak confines the 1,778 Mnemonic Cycles strictly inside Facility 01.
 - **Divisional Boundaries:**
   - **Subterranean Expedition Division (SED / Katabagil):** Does NOT use or reference Cycles. Operates in calendar years and subterranean depth meters.
   - **Underworld Cleanup Descend (UCD / Katharcheok):** Does NOT use or reference Cycles. Operates in calendar years and tactical turns.
@@ -139,7 +139,7 @@ To maintain absolute chronological integrity across all 1,778+ files in the repo
 
 ---
 
-## 6. THE MACRO-CHRONOLOGICAL EPOCH PARTITION (THE THREE WINGS & POST-DAWN LAW)
+## 6. THE MACRO-CHRONOLOGICAL EPOCH PARTITION (THE THREE DIVISIONS & POST-DAWN LAW)
 
 ### Binding Canon Laws
 By direct executive decree of the Project Owner:
@@ -164,12 +164,12 @@ By direct executive decree of the Project Owner:
 
 ```text
 [ EPOCH I: ANTE-DAWN ]     [ WATERSHED EVENT ]     [ EPOCH II: POST-DAWN ]
-SED -> UCD -> R.D. Wings ->    DAWN OF HOPE    ->  UNK SE & Post-Dawn Lore
+SED -> UCD -> R.D. Divisions ->    DAWN OF HOPE    ->  UNK SE & Post-Dawn Lore
 (Pre-Dawn Tripartite)       (Cycle 1,778)          (After R.D. & All Else)
 ```
 
 ### 6.1 Epoch I: The Ante-Dawn Era (Before Dawn of Hope — Pre-Cycle to Year 4,238)
-The ante-Dawn era encompasses all events up to and including the climactic conclusion of Cycle 1,778 / Year 4,238, at which point the Dawn of Hope occurs. All primary operations, exploration logs, and tactical chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope in sequential progression:
+The ante-Dawn era encompasses all events up to and including the climactic conclusion of Cycle 1,778 / Year 4,238, at which point the Dawn of Hope occurs. All primary operations, exploration logs, and tactical chronicles of the founding tripartite divisions occur strictly **BEFORE** the Dawn of Hope in sequential progression:
 1. **Subterranean Expedition Division (SED / Katabagil):**
    - The seven expeditionary descent passages (`SOMNARAK-WORLD/Katabagil/`, Passages 1–7) exploring the ancient bedrock (-2,000m to -3,500m), mapping the subterranean aquifers, and uncovering the deep origins of the Maw and the Cheongula. Operates on calendar years; does not track cycles.
 2. **Underworld Cleanup Descend (UCD / Katharcheok):**
@@ -177,7 +177,7 @@ The ante-Dawn era encompasses all events up to and including the climactic concl
 3. **The Reverie Directorate (R.D. / The Absolvohan):**
    - Facility 01 containment operations, Han-Energy harvesting, and the continuous 1,778-Cycle loop under Director Majin and the Echo-Core Leads.
    - The containment, research, and pacification of the 292 canonical Sorrow Entities across Floors 1 through 8.
-   - The Floor Realizations of the departmental Leads (Dekan, Zyrak, Marjuk, Sooah, Mellda, Ayshuk, Xyan, Ishall, Seiyon). The SOLE division that uses and experiences the Cycle system.
+   - The Stratum Realizations of the departmental Leads (Dekan, Zyrak, Marjuk, Sooah, Mellda, Ayshuk, Xyan, Ishall, Seiyon). The SOLE division that uses and experiences the Cycle system.
 
 ### 6.2 The Watershed Turning Point: The Dawn of Hope (Cycle 1,778 / Year 4,238)
 The central turning point in planetary history:

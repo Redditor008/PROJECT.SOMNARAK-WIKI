@@ -156,7 +156,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
   - *The Observing Bird* (SE-C-IIIγ-031) on Floor 2.
   - *The Weighting Bird* (SE-C-IIIγ-032) on Floor 3.
   - *The Guarding Bird* (SE-C-IIIγ-033) on Floor 3.
-- **Ordeal Incursions:** Emergence of **Second Watch** incursions (*Violet Noon*, *Amber Noon*, *Crimson Noon*, *Green Noon*).
+- **Ordeal Incursions:** Emergence of **Second Watch** incursions (*Violet Second Watch*, *Amber Second Watch*, *Crimson Second Watch*, *Green Second Watch*).
 - **Specialist Cadre:** Promotion of core cadre to Grade 3. High Composure specialists assigned to acoustic dampening.
 
 ### Phase 3: Days 51 to 100 — Heavy Containment, Memory Archives & Ballast Forge
@@ -166,7 +166,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 - **Deep Facility Environmental Hazards:**
   - *Archive Sediment Fog:* Passive mental SP bleed in Floor 5 corridors requiring periodic Veil Mist ventilation.
   - *Crucible Heat Dissipation:* Extreme thermal radiation in Floor 6 corridors during high-intensity Ferrehan containment.
-- **Ordeal Incursions:** Emergence of **Third Watch** incursions (*Amber Dusk*, *Crimson Dusk*, *Violet Dusk*, *Green Dusk*). Coordinated multi-department suppression teams required.
+- **Ordeal Incursions:** Emergence of **Third Watch** incursions (*Amber Third Watch*, *Crimson Third Watch*, *Violet Third Watch*, *Green Third Watch*). Coordinated multi-department suppression teams required.
 - **Specialist Cadre:** Emergence of Grade 4 Senior Containment Specialists. Equipping specialized Class III M.A.W. Gift sets.
 
 ```text
@@ -193,7 +193,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 - **Echo-Core Realization Protocol:** As acoustic strain exceeds threshold tolerances, each of the eight Echo-Core Attendants undergoes a **Core Meltdown Crisis**. Cumulative cycles of trauma erode their mnemonic suppression:
   - The Director must oversee floor-by-floor containment and suppress the attendant's manifested personal grief.
   - Successfully resolving a Core Meltdown achieves **Attendant Awakening**, permanently unlocking the Floor Attendant's Sovereign Aura and granting permanent facility-wide immunities.
-- **Ordeal Incursions:** First emergence of catastrophic **Tide Watch** Ordeals (*Violet Midnight*, *Amber Midnight*, *Green Midnight*).
+- **Ordeal Incursions:** First emergence of catastrophic **Tide Watch** Ordeals (*Violet Tide Watch*, *Amber Tide Watch*, *Green Tide Watch*).
 - **Specialist Cadre:** Progression of first Grade 5 Masters.
 
 ```text
@@ -230,7 +230,7 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 ### Phase 6: Days 251 to 349 — Supercritical Compression & Facility Hardening
 - **Daily Quota Range:** 20.000 metric tons scaling to 45.000 metric tons.
 - **Facility Integrity:** Total accumulated crystalline Han approaches supercritical density. Facility bulkheads vibrate with constant acoustic resonance.
-- **Ordeal Dynamics:** Multi-Watch Ordeals occur consecutively during single shifts (e.g. Noon followed immediately by Dusk and Midnight).
+- **Ordeal Dynamics:** Multi-Watch Ordeals occur consecutively during single shifts (e.g. Second Watch followed immediately by Third Watch and Tide Watch).
 - **Elite Containment Specialists:** Full cadres of Grade 5 Specialists equipped with Sovereign-tier M.A.W. armaments and complete 8-slot anatomical gifts.
 
 ```text
@@ -339,7 +339,7 @@ When accumulated strain crosses departmental thresholds, an **Acoustic Meltdown 
 - **Meltdown Timers:** Affected containment cells display a **45-second countdown timer** (reduced to 30s in deep phases).
 - **Resolution Requirement:** An agent must be dispatched to perform any work protocol on the afflicted cell before the timer expires.
 - **Penalty for Expiration:**
-  - Containment Qliphoth-counter collapses to 0.
+  - Containment Sorrow-Gauge maxes out at 100%.
   - Entity breaches immediately into facility corridors.
   - Siphoned Han stored in local buffers drains by 20% to 50%.
   - Afflicted floor suffers instant 25 SP psychic shockwave.
@@ -391,13 +391,13 @@ Ordeals are autonomous manifestations of collective civic trauma, rogue reality 
 +==============================================+
 | WATCH       | CANONICAL TIER | SHIFT TIMING  |
 +=============+================+===============+
-| First Watch | Dawn Tier      | Early Shift   |
+| First Watch | First Tier      | Early Shift  |
 +-------------+----------------+---------------+
-| Second Watch| Noon Tier      | Mid Shift     |
+| Second Watch| Second Tier      | Mid Shift   |
 +-------------+----------------+---------------+
-| Third Watch | Dusk Tier      | Late Shift    |
+| Third Watch | Third Tier      | Late Shift   |
 +-------------+----------------+---------------+
-| Tide Watch  | Midnight Tier  | Overtime      |
+| Tide Watch  | Tide Tier  | Overtime          |
 +==============================+===============+
 ```
 
@@ -701,14 +701,14 @@ The Absolvohan facility is organized vertically into eight distinct departments,
 - **Attendant:** Director Majin (*The Director*) & Secretary Seiyon (*The Secretary Effigy*).
 - **Core Function:** High-level tactical dispatch, daily quota management, facility-wide emergency directives.
 - **Department Passive Aura:** *Director's Oversight* — Increases movement speed of all specialists traversing central corridors by +15%.
-- **Awakened Realization Aura:** *Unbroken Resolve* — All specialists across all floors gain +10 Resolve and are immune to instant panic from Dawn Ordeals.
+- **Awakened Realization Aura:** *Unbroken Resolve* — All specialists across all floors gain +10 Resolve and are immune to instant panic from First-Watch Ordeals.
 - **Containment Capacity:** 4 Standard Chambers.
 
 ### Floor 2: The Maw's Keep (제1 격리 구역 — 연옥의 아가리)
 - **Attendant:** Containment Lead Dekan (*The Containment Lead* / *The Scaled Maw-Flesh Arm*).
 - **Core Function:** Induction containment, early entity stabilization, corridor security enforcement, and Raw Sorrow suppression.
 - **Department Passive Aura:** *Maw-Aegis Bastion* — Reduces physical Grudge damage taken by department specialists by 10%.
-- **Awakened Realization Aura:** *Iron Boundary* — Containment cells on Floor 2 never suffer natural Qliphoth deterioration from Ordeal shockwaves.
+- **Awakened Realization Aura:** *Iron Boundary* — Containment cells on Floor 2 never suffer natural Sorrow-Gauge surges from Ordeal shockwaves.
 - **Containment Capacity:** 5 Standard Chambers. Home to the Avian Triad anchor.
 
 ### Floor 3: The Extraction Hall (추출 및 정련부)

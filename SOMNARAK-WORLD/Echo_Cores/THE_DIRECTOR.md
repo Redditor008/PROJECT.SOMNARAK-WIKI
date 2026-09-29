@@ -55,7 +55,7 @@ Majin is the only Echo-Core who remains fully biological, and the only person kn
 | **M.A.W.** | Reaper Hungered — Ω-grade, singular |
 | **Age** | 126 during the final Cycle; continues to age |
 | **Operational Age** | Active across 1,778 Cycle iterations plus the unlooped years |
-| **Archive Progression** | Floor Realization 3 — the weight is not a burden; it is a gift |
+| **Archive Progression** | Stratum Realization 3 — the weight is not a burden; it is a gift |
 | **Current Status** | Alive; active Director |
 | **Current Era** | Year 4,238 — Dawn Initiative |
 | **First Appearance** | *Absolvohan*, Day 0 — "The Director Wakes" |
@@ -276,7 +276,7 @@ The R.D. is not dismantled. The Echo-Cores are not erased. Majin is not executed
 
 ### The Memory Archive
 
-During Seiyon's descent in Year 4,233, Majin appears in **Floor Realization 3**, where the weight of command is confronted. His realization statement is *"I carry the weight."*
+During Seiyon's descent in Year 4,233, Majin appears in **Stratum Realization 3**, where the weight of command is confronted. His realization statement is *"I carry the weight."*
 
 He initially understands weight as proof of failure — every death and Fracture added because he did not save the city quickly enough, with immortality turning the accounting into an endless sentence. The Archive does not deny the failures. It establishes that he still experiences them as weight because he has not stopped caring; indifference would be lighter.
 
@@ -589,7 +589,7 @@ Majin appears across five primary Somnarak stories and operational records.
 | Work | Role |
 |---|---|
 | ***Absolvohan*** | Central protagonist and architect of the hidden Cycle; creator and eventual reinterpreter of the Absolvohan |
-| ***The Memory Archive*** | Appears directly in Floor Realization 3; referenced throughout Seiyon's descent |
+| ***The Memory Archive*** | Appears directly in Stratum Realization 3; referenced throughout Seiyon's descent |
 | ***Three Corporations*** | Key authority within the R.D. / SED / UCD framework |
 | ***R.D.*** | Supreme authority of the Reverie Directorate and commander of the Hand of Change |
 | ***Cheongula*** | Survivor and keeper of the truth behind Somnarak's First Sorrow |
@@ -603,7 +603,7 @@ Majin appears across five primary Somnarak stories and operational records.
 | **Early R.D.** | Echo-Core 1; founder and supreme authority of the Reverie Directorate |
 | **Cycle Era** | Director; architect of the stabilization field; hidden Absolvohan accumulator across 1,778 iterations |
 | **Final Cycle** | Central figure of the Hand of Hope transformation |
-| **Year 4,233 — Memory Archive** | Active Director; Floor Realization 3 participant |
+| **Year 4,233 — Memory Archive** | Active Director; Stratum Realization 3 participant |
 | **Year 4,238 — Dawn Initiative** | Active Director |
 
 ---
@@ -683,6 +683,6 @@ Reference details that do not belong to a single section of the page.
 
 - **The Reverie Directorate** — facility structure, Echo-Core register, Cycle classification
 - **Absolvohan** — full day-by-day operational narrative, Day 0 through Day 365
-- **The Memory Archive** — Floor Realization 3
+- **The Memory Archive** — Stratum Realization 3
 - **Somnarak: The Breach — Ordeals** — Color × Time framework
 - **Cheongula** — the First Sorrow and the thousand

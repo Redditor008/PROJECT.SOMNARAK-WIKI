@@ -4,7 +4,7 @@
 
 **Echo-Cores**  [메아리 핵]  (_Meari Haek_) are the artificial and cybernetic directors governing the departments of Facility 01. Originally living municipal pioneers, their human psyches were permanently crystallized into containment anchors to stabilize the facility against the crushing psychological pressure of the [Maw](41-Frontiers.md).
 
-Each Echo-Core governs a designated floor, issuing [Operations](13-Operations.md) missions, granting departmental research perks, and testing the Warden's resolve during climatic [Floor Realizations](11-Reverberations.md).
+Each Echo-Core governs a designated floor, issuing [Operations](13-Operations.md) missions, granting departmental research perks, and testing the Warden's resolve during climatic [Stratum Realizations](11-Reverberations.md).
 
 ```text
 +========================================================================+
@@ -32,7 +32,7 @@ Each Echo-Core governs a designated floor, issuing [Operations](13-Operations.md
   - [2.8 Lead Ishall (Floor 8: Shadow Corps)](#28-lead-ishall-floor-8-shadow-corps)
   - [2.9 Lead Xyan (Central: Gate Watch)](#29-lead-xyan-central-gate-watch)
 - [3 The Cognition Filter and Disguise Construct](#3-the-cognition-filter-and-disguise-construct)
-- [4 Core Meltdowns and Floor Realizations](#4-core-meltdowns-and-floor-realizations)
+- [4 Core Meltdowns and Stratum Realizations](#4-core-meltdowns-and-stratum-realizations)
 - [5 Gallery](#5-gallery)
 - [6 See also](#6-see-also)
 
@@ -115,24 +115,24 @@ To preserve the sanity of human Wardens, the facility employs a heavy **Cognitio
 - This prevents the Warden from recognizing the agonizing biological machinery and human suffering underlying the core chambers.
 - Successfully stabilizing an Echo-Core permanently disables its filter, revealing their genuine human visage.
 
-## 4 Core Meltdowns and Floor Realizations
+## 4 Core Meltdowns and Stratum Realizations
 
 When an Echo-Core reaches emotional collapse, the department enters a **Reverberation**:
-- Floor Realizations test the Warden's master command capabilities under severe cognitive handicaps.
+- Stratum Realizations test the Warden's master command capabilities under severe cognitive handicaps.
 - Successfully subduing a core grants permanent immunity to departmental meltdowns and facility-wide stat upgrades.
 
 ## 5 Gallery
 
 [![Echo-Core Council Chamber](images/echo-core-council-chamber.svg)](images/echo-core-council-chamber.svg)
 [![Cognition Filter Interface](images/cognition-filter-interface.svg)](images/cognition-filter-interface.svg)
-[![Core Suppression Realization](images/core-suppression-realization.svg)](images/core-suppression-realization.svg)
+[![Core Realization](images/core-realization-realization.svg)](images/core-realization-realization.svg)
 
-*Left: council of the nine directors; Center: holographic filter display; Right: Floor Realization combat.*
+*Left: council of the nine directors; Center: holographic filter display; Right: Stratum Realization combat.*
 ---
 
 ## 6 See also
 
 - [06-Personnel](06-Personnel.md) — director biographies and specialist cadres
-- [11-Reverberations](11-Reverberations.md) — complete guide to Core Suppressions
+- [11-Reverberations](11-Reverberations.md) — complete guide to Core Realizations
 - [13-Operations](13-Operations.md) — departmental mission directory
 - [22-Departments](22-Departments.md) — facility floor architecture

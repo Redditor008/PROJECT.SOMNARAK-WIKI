@@ -30,16 +30,16 @@ Ordeals are divided into **Five Color Spectrums** (matching metaphysical sorrow 
 
 Each color spectrum manifests across four chronological phases during an operational cycle:
 
-1. **First Watch (제1감시 / Dawn-Tier):**
+1. **First Watch (제1감시):**
    - Initial scout incursions; small clusters of mobile entities.
    - 3 entities per color spectrum.
-2. **Second Watch (제2감시 / Noon-Tier):**
+2. **Second Watch (제2감시):**
    - Coordinated medium squads; structural damage to floor corridors.
    - 3 entities per color spectrum.
-3. **Third Watch (제3감시 / Dusk-Tier):**
+3. **Third Watch (제3감시):**
    - Heavy construct invasions; wide-area psychological disruption.
    - 3 entities per color spectrum.
-4. **Tide Watch (만조감시 / Midnight-Tier):**
+4. **Tide Watch (만조감시):**
    - Cataclysmic apex incursions; facility-wide containment breach hazards.
    - 3 apex entities per color spectrum.
 

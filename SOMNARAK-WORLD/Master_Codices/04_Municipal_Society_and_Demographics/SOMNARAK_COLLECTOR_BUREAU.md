@@ -24,7 +24,7 @@ In the sovereign metropolis of Somnarak, debt is not a mere accounting fiction, 
 
 When a citizen borrows resources, takes food from municipal granaries, inherits ancestral land, or causes emotional trauma to a neighbor, they do not merely create a fiscal deficit—they draw upon the collective stability of the city. Because Somnarak is constructed directly over the weeping bedrock of Mugenhan, every unpaid obligation generates localized structural stress.
 
-The Collector Bureau (수심 징수국 — Susim Jingsuguk), headquartered along the grim, stone-paved avenue of **Collector's Row in Zone C**, is the sovereign wing chartered by the High Council of Sighs to locate, quantify, and extract debt in all its manifestations before unpaid weight can collapse the city into The Maw.
+The Collector Bureau (수심 징수국 — Susim Jingsuguk), headquartered along the grim, stone-paved avenue of **Collector's Row in Zone C**, is the sovereign arm chartered by the High Council of Sighs to locate, quantify, and extract debt in all its manifestations before unpaid weight can collapse the city into The Maw.
 
 > *"The ledger does not forgive because the stone does not forgive. If your family borrowed three sacks of grain during the long winter, the earth remembers the hunger, and the earth will have its payment in silver, in labor, or in blood."*  
 > — Sector Head Miran, Address to Apprentice Scribes
@@ -63,7 +63,7 @@ The fundamental law enforced by the Collector Bureau recognizes four distinct, c
 
 ### 2.3 Currency 03: Soul Debt (영혼 부채 — Yeonghon Buchae)
 - **Nature:** The hypothecation of personal psychic coherence and autonomous will.
-- **Genesis:** Citizens undergoing catastrophic financial or medical crises frequently pledge portions of their consciousness to corporate wings or the Council of Sighs in exchange for emergency life-support or containment shielding.
+- **Genesis:** Citizens undergoing catastrophic financial or medical crises frequently pledge portions of their consciousness to corporate charters or the Council of Sighs in exchange for emergency life-support or containment shielding.
 - **Mechanics:** The Collector Bureau places an invisible "Lien on the Will." The debtor retains daily autonomy, but their nervous system is bound to municipal priority override. During civil emergencies or Ordeal surges, the Council can issue a psychic mobilization command, instantly commandeering the debtor's body as an expendable frontline combatant.
 - **Terminal Default:** If a Soul Debt enters irrecoverable default, the Bureau executes a **Full Core Foreclosure**. The debtor's physical vessel is dismantled, and their remaining conscious spark is refined into an Echo-Core to power municipal machinery.
 

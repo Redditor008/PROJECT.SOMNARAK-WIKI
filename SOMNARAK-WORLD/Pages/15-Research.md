@@ -12,7 +12,7 @@ By completing departmental missions issued by the [Echo-Cores](14-Echo-Cores.md)
 +------------------------------------------------------------------------+
 | Research Authority     | Nine Departmental Laboratories                |
 | Tech Tree Upgrades     | 36 Permanent Upgrades (4 Tiers per Department)|
-| Upgrade Currency       | LOB Municipal Investment Credits              |
+| Upgrade Currency       | Municipal Investment Credits                  |
 | Prerequisite Path      | Completed Operations Directives (13-Operations|
 | Preservation Rule      | Retained permanently across Shift Resets      |
 +========================================================================+
@@ -20,7 +20,7 @@ By completing departmental missions issued by the [Echo-Cores](14-Echo-Cores.md)
 
 ## Contents
 
-- [1 Research Framework and LOB Investment](#1-research-framework-and-lob-investment)
+- [1 Research Framework and Municipal Investment](#1-research-framework-and-municipal-investment)
 - [2 The Nine Departmental Tech Trees](#2-the-nine-departmental-tech-trees)
   - [2.1 Spires Laboratory (Deployment and Logistics)](#21-spires-laboratory-deployment-and-logistics)
   - [2.2 Central Administration Laboratory (Energy and Quota)](#22-central-administration-laboratory-energy-and-quota)
@@ -36,11 +36,11 @@ By completing departmental missions issued by the [Echo-Cores](14-Echo-Cores.md)
 - [5 Gallery](#5-gallery)
 - [6 See also](#6-see-also)
 
-## 1 Research Framework and LOB Investment
+## 1 Research Framework and Municipal Investment
 
 Research upgrades are unlocked through a structured two-step process:
 1. **Mission Clearance:** The Warden completes the corresponding mission issued by that floor's Echo-Core in [13-Operations.md](13-Operations.md).
-2. **LOB Investment:** The unlocked technology is activated at the deployment screen using municipal LOB credits earned from daily performance evaluations.
+2. **Municipal Investment:** The unlocked technology is activated at the deployment screen using municipal investment credits earned from daily performance evaluations.
 
 Once unlocked, research upgrades remain active permanently and persist through shift restarts, day resets, and repository rollbacks.
 
@@ -68,7 +68,7 @@ Once unlocked, research upgrades remain active permanently and persist through s
 - **Tier 1 — Crystal Distillation:** Increases Mnemonic Well extraction speed by 15%.
 - **Tier 2 — Enhanced Weaving:** Reduces M.A.W. Weapon and Suit fabrication cost by 20% Lumen.
 - **Tier 3 — Duplication Catalyst:** Increases the maximum stockpile limit of all M.A.W. equipment by +1.
-- **Tier 4 — Overcharge Core:** Harvesting beyond 100% quota grants double bonus LOB points at shift evaluation.
+- **Tier 4 — Overcharge Core:** Harvesting beyond 100% quota grants double bonus investment credits at shift evaluation.
 
 ### 2.5 Insight Forge Laboratory (Cognitive Analysis and UI)
 - **Tier 1 — Visual Calibration:** Displays entity mood and current Mugenhan counter on the floor HUD.

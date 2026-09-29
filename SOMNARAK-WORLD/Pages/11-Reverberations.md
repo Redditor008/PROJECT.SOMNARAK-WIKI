@@ -2,15 +2,15 @@
 
 > *“When an Echo-Core forgets its boundaries, the department stops being a room and becomes the director's screaming skull.”*
 
-**Reverberations**  [공명폭주]  (_Gongmyeong Pokju_ — Resonance Meltdowns), also designated as **Core Suppressions** and **Floor Realizations**, are climatic crisis events unlocked after completing all four departmental missions of a given [Echo-Core](14-Echo-Cores.md). 
+**Reverberations**  [공명폭주]  (_Gongmyeong Pokju_ — Resonance Meltdowns), also designated as **Core Realizations** and **Stratum Realizations**, are climatic crisis events unlocked after completing all four departmental missions of a given [Echo-Core](14-Echo-Cores.md). 
 
 During a Reverberation, the director's psychological insulation fractures, causing their accumulated grief to flood the physical floor. The department enters an existential emergency: the [Healing Generator](22-Departments.md) shuts down, containment cells undergo spontaneous agitation, and severe cognitive handicaps distort the Warden's command interface until the core is stabilized through direct suppression.
 
 ```text
 +========================================================================+
-| WARNING: REVERBERATION & CORE SUPPRESSION                              |
+| WARNING: REVERBERATION & CORE REALIZATION                              |
 +------------------------------------------------------------------------+
-| Event Classification   | Echo-Core Meltdown & Floor Realization        |
+| Event Classification   | Echo-Core Meltdown & Stratum Realization      |
 | Prerequisite Criteria  | Completion of 4 Departmental Missions         |
 | Layer Unlocks          | Shallow (Day 21+) - Middle (36+) - Deep (41+) |
 | Environmental Hazards  | Generator Shutdown & Cognitive Handicaps      |
@@ -20,7 +20,7 @@ During a Reverberation, the director's psychological insulation fractures, causi
 
 ## Contents
 
-- [1 Core Suppression Mechanics and Initiation](#1-core-suppression-mechanics-and-initiation)
+- [1 Core Realization Mechanics and Initiation](#1-core-realization-mechanics-and-initiation)
 - [2 Department Layer Progression](#2-department-layer-progression)
 - [3 The Nine Departmental Meltdowns](#3-the-nine-departmental-meltdowns)
   - [3.1 Spires Meltdown (Director Majin)](#31-spires-meltdown-director-majin)
@@ -36,17 +36,17 @@ During a Reverberation, the director's psychological insulation fractures, causi
 - [5 Gallery](#5-gallery)
 - [6 See also](#6-see-also)
 
-## 1 Core Suppression Mechanics and Initiation
+## 1 Core Realization Mechanics and Initiation
 
-A Core Suppression differs fundamentally from standard routine management:
+A Core Realization differs fundamentally from standard routine management:
 1. **Initiation Criteria:** Unlocked once the Warden completes all four progressive missions issued by that floor's Echo-Core. The event is triggered from the deployment terminal at the start of a shift.
-2. **Floor Evacuation:** Specialists stationed in the affected department are evacuated to adjacent wings. The department's Main Room ceases to provide restorative healing as its **Healing Generator** is overwhelmed by resonance noise.
+2. **Floor Evacuation:** Specialists stationed in the affected department are evacuated to adjacent wings. The department's Command Room ceases to provide restorative healing as its **Healing Generator** is overwhelmed by resonance noise.
 3. **Cognitive Handicaps:** The manifesting Echo-Core projects severe operational distortions across the entire facility. These handicaps test the Warden's adaptability by inverting controls, scrambling assignments, or muting sensory feeds.
 4. **Resolution Conditions:** To clear the suppression, the facility must accumulate its complete daily **Lumen** energy quota while advancing through multiple escalating phases of the meltdown gauge.
 
 ## 2 Department Layer Progression
 
-Core Suppressions are divided across the facility's vertical strata and become available at specific calendar intervals:
+Core Realizations are divided across the facility's vertical strata and become available at specific calendar intervals:
 - **Shallow Floors (Upper Layer):** Unlocked after Day 21 (Majin, Seiyon, Dekan, Zyrak, Ayshuk).
 - **Middle Floors (Middle Layer):** Unlocked after Day 36 (Mellda, Marjuk).
 - **Deep Floors (Lower Layer):** Unlocked after Day 41 (Ishall, Xyan).
@@ -90,11 +90,11 @@ Successfully subduing an Echo-Core permanently stabilizes the department:
 
 ## 5 Gallery
 
-[![Core Suppression Alert](images/core-suppression-alert.svg)](images/core-suppression-alert.svg)
+[![Core Realization Alert](images/core-realization-alert.svg)](images/core-realization-alert.svg)
 [![Mellda Manifestation](images/mellda-manifestation.svg)](images/mellda-manifestation.svg)
 [![Cognition Filter Lowered](images/cognition-filter-lowered.svg)](images/cognition-filter-lowered.svg)
 
-*Left: Core Suppression alarm interface; Center: Lead Mellda in combat form; Right: Echo-Core true human revelation.*
+*Left: Core Realization alarm interface; Center: Lead Mellda in combat form; Right: Echo-Core true human revelation.*
 ---
 
 ## 6 See also

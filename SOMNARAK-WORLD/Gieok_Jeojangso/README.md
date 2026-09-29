@@ -6,7 +6,7 @@
 |                    THE MEMORY ARCHIVE EXPEDITION                    |
 +---------------------------------------------------------------------+
 | Authority            | The Memory Archive                           |
-|                      | Institutional Wing                           |
+|                      | Institutional Sanctuary                      |
 +---------------------------------------------------------------------+
 | Classification       | MNEMONIC TACTICAL/RD                         |
 +---------------------------------------------------------------------+
@@ -26,7 +26,7 @@
 **Designation:** The Memory Archive (기억 저장소 / Gieok Jeojangso).  
 **Operational Framework:** The Seven Readings of Sub-Alpha Strata (심층 수신 소탕록).
 
-Excavated deep within the subterranean bedrock beneath the Absolvohan facility (ranging from -2,350 meters to -3,250 meters Sub-Alpha), the **Memory Archive** serves as the municipal repository of human consciousness, traumatic resonance, and crystallized souls. Operating in strict accordance with the **Library Reading Protocol**, intrusive or frenzied memories are contained within discrete strata floors, where Secretary Seiyon and her mnemonic projection retinue engage in structured, turn-based combat readings to achieve **Floor Realization** and transmute unstable suffering into canonical **Memory Leaves**.
+Excavated deep within the subterranean bedrock beneath the Absolvohan facility (ranging from -2,350 meters to -3,250 meters Sub-Alpha), the **Memory Archive** serves as the municipal repository of human consciousness, traumatic resonance, and crystallized souls. Operating in strict accordance with the **Library Reading Protocol**, intrusive or frenzied memories are contained within discrete strata floors, where Secretary Seiyon and her mnemonic projection retinue engage in structured, turn-based combat readings to achieve **Stratum Realization** and transmute unstable suffering into canonical **Memory Leaves**.
 
 The **Gieok Jeojangso Chronicles** record the comprehensive seven-floor tactical descent:
 

@@ -11,7 +11,7 @@
 |---|---|---|
 | **Short** | 10 turns | Quick encounter — minor entity, small skirmish |
 | **Medium** | 16 turns | Standard encounter — moderate entity, Fray confrontation |
-| **Long** | 20+ turns | Major encounter — powerful entity, boss fight, critical mission, Core Suppression |
+| **Long** | 20+ turns | Major encounter — powerful entity, boss fight, critical mission, Core Realization |
 
 **Each turn includes:**
 - Character actions and tactical positioning
@@ -425,7 +425,7 @@ Not all weapons in Facility 01 are extracted M.A.W. The combat engine distinguis
 
 ---
 
-## VI. Boss Encounters & Core Suppressions
+## VI. Boss Encounters & Core Realizations
 
 ### Part A: Sovereign & Catastrophic Entity Encounters
 
@@ -451,7 +451,7 @@ Powerful entities possess encounter-defining mechanics, requiring coordinated mu
 
 ---
 
-### Part B: Echo-Core Suppressions — Departmental Realization Battles (핵 진압 결전)
+### Part B: Echo-Core Realizations — Departmental Realization Battles (핵 진압 결전)
 
 When an Echo-Core fractures under accumulated cycle trauma, their sector undergoes a **Core Crisis (핵 위기)**. The Director and deployed specialists must suppress the sector lead to ground their consciousness and achieve **Departmental Realization**.
 
@@ -485,8 +485,8 @@ When an Echo-Core fractures under accumulated cycle trauma, their sector undergo
 - **Boss Role:** Cryogen archive keeper drowned in forgotten history.
 - **Combat Dynamic:** Stasis containment seals shatter, releasing acoustic whispers and erased memories of the Cheongula sacrifice. The room fills with temporal vertigo and phantom echoes. Specialists must navigate shifting floor geometry to reach and realign Marjuk's Memory Lens.
 
-##### Floor 7 — Ishall: The Dual Suppression Anomaly (Two-Phase Boss Gauntlet)
-*Echo-Core 8 represents Facility 01's only two-phase sequential suppression battle:*
+##### Floor 7 — Ishall: The Dual Realization Anomaly (Two-Phase Boss Gauntlet)
+*Echo-Core 8 represents Facility 01's only two-phase sequential realization battle:*
 - **Phase 1 — Infiltrator Chassis Reclamation:**
   - *Threat:* Hostile foreign military firmware overrides her repurposed enemy Android chassis. Ishall engages full optical refraction camouflage, laying razor-wire traps and firing high-velocity Grudge sniper rounds from concealed vantage points.
   - *Objective:* Deploy electronic jamming, bypass lethal crossfire corridors, and physically breach her cranial chassis to shatter the military command loop and awaken **Ishall's true human soul**.
@@ -571,7 +571,7 @@ Combat doctrine across Somnarak is codified into six distinct operational branch
 2. **Reverie Directorate (R.D.) Style**: Facility containment operations governed by the **Nine Echo-Cores** (Floors 1 to 8), mid-combat Work Cycle execution (Ferrehan, Flerehan, Pugnahan, Viderehan), emergency sector lockdown gates, and multi-color Ordeal suppression across the 10-node containment vault.
 3. **Underworld Cleanup Descend (UCD) Style**: Urban CQB across The Raw, featuring **Targeted Part Dismantling** (shattering enemy exoskeletons and weapon manifolds), in-combat forensic auditing by Yuna, and non-lethal hostage/foundation preservation behind Taeho's Obsidian Bastion.
 4. **Somnarak Exploration Decree (SED) Style**: Subterranean abyssal descents governed by **Strata Depth Atmospheric Pressure** (-50m to -3,500m), acoustic sonar decibel stealth to prevent awakening dormant behemoths, oxygen/fuel burn timers, and seismic piton anchoring.
-5. **The Memory Archive (Gieok Jeojangso) Style**: Deep strata sub-Alpha roots (-2,350m to -3,250m) governed by the **Library Reading Protocol**, modular memory anchor dismantling, Mnemonic Projection Arrays, and terminal Floor Realizations transmuting suffering into equipable Memory Leaves.
+5. **The Memory Archive (Gieok Jeojangso) Style**: Deep strata sub-Alpha roots (-2,350m to -3,250m) governed by the **Library Reading Protocol**, modular memory anchor dismantling, Mnemonic Projection Arrays, and terminal Stratum Realizations transmuting suffering into equipable Memory Leaves.
 6. **The Horizon Caravan (Jipyeongseondae) Style**: Overland planetary expedition warfare across The Desolate, Sea of Glass, Cheonbulok, and Mugeukji, governed by **The Drift Throne** mobile crawler support, planetary ley-drive geothermic harvesting, high-speed sand-skimmer maneuvers, and heavy spinal siege railgun strikes.
 
 *(For full mathematical formulas, node wireframes, AP spending menus, and complete turn flowcharts, refer to the authoritative master codex: `SOMNARAK_BATTLE_SYSTEM_STYLES.md`).*

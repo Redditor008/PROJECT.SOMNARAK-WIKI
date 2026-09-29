@@ -44,7 +44,7 @@
 
 ## Section I: Ontological Foundation & The Pentagonal Doctrine
 
-The survival of human civilization upon the post-cataclysmic world of **Mugenhan (무극한 / 無極限)** rests upon a delicate, multipolar equilibrium. Somnarak is not a unified civic commonwealth in the ancient sense; it is a fortress metropolis governed through the **Pentagonal Institutional Doctrine (오극 제도론 / 五極 制度論)**—five sovereign operational wings functioning alongside the civilian municipal bureaucracy of the **Council of Sighs (탄식의 평의회)**.
+The survival of human civilization upon the post-cataclysmic world of **Mugenhan (무극한 / 無極限)** rests upon a delicate, multipolar equilibrium. Somnarak is not a unified civic commonwealth in the ancient sense; it is a fortress metropolis governed through the **Pentagonal Institutional Doctrine (오극 제도론 / 五極 制度論)**—five sovereign operational institutions functioning alongside the civilian municipal bureaucracy of the **Council of Sighs (탄식의 평의회)**.
 
 Each of the Five Sovereign Institutions possesses total jurisdictional extraterritoriality within its assigned operational theater:
 
@@ -145,7 +145,7 @@ The SED operates the colossal tracked mining rigs known as the **Bore Fleet (천
 
 ### 2.3 Underworld Cleanup Descend (지하 청소령 — UCD Task Force)
 
-The **UCD Task Force** functions as Somnarak's tactical urban pacification and anti-contraband enforcement wing. While the municipal City Guard mans static checkpoints in Zone A and C, the UCD patrols the sunless alleys, flooded drainage basins, and criminal shantytowns of **The Raw (날것의 구역 — Zone B)**.
+The **UCD Task Force** functions as Somnarak's tactical urban pacification and anti-contraband enforcement arm. While the municipal City Guard mans static checkpoints in Zone A and C, the UCD patrols the sunless alleys, flooded drainage basins, and criminal shantytowns of **The Raw (날것의 구역 — Zone B)**.
 
 - **Sovereign Headquarters:** The Sunken Bastion, Municipal Drainage District 4, Zone B.
 - **Primary Operational Mandate:** Neutralization of weaponized sorrow syndicates, interception of unregistered Sorrow Entity trafficking, suppression of rogue Frays, and enforcement of the Seven Taboos.
@@ -327,7 +327,7 @@ Outside the ten chartered Primary Companies (the 5 Main and 5 Sub), all remainin
 
 ## Section IV: Inter-Institutional Jurisdictions & Resource Pipeline
 
-The Five Sovereign Institutions depend upon an intricate, closed-loop resource circulation network. No single wing can survive in isolation:
+The Five Sovereign Institutions depend upon an intricate, closed-loop resource circulation network. No single institution can survive in isolation:
 
 ```text
 +---------------------------------------------------------------------+
@@ -386,7 +386,7 @@ In the year 4,238, following the completion of the 1,778th Absolvohan cycle and 
 
 For the first time in four millennia, the institutions shifted their grand doctrine from mere static containment to **active planetary healing**:
 
-1. **The 45% Planetary Healing Target:** Integrating the Absolvohan's energy release with the Horizon Caravan's 4,800-kilometer acoustic beacon chain, the Five Wings aim to transmute 45% of Mugenhan's crystallized sorrow into stable, living soil.
+1. **The 45% Planetary Healing Target:** Integrating the Absolvohan's energy release with the Horizon Caravan's 4,800-kilometer acoustic beacon chain, the Five Institutions aim to transmute 45% of Mugenhan's crystallized sorrow into stable, living soil.
 2. **The Tri-City Continental Alliance:** Establishing permanent trade, military defense, and resource exchange between Somnarak, the volcanic calderas of Cheonbulok, and the silent frontier of Mugeukji.
 3. **The Dissolution of the Raw:** Reclaiming the criminal underworld of Zone B through clean municipal water, free Veil distribution, and the dismantlement of predatory usury syndicates.
 

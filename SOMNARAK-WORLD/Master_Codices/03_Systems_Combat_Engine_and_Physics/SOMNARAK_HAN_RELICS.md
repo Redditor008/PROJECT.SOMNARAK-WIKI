@@ -87,7 +87,7 @@ Excavated from deep pre-Consolihan abyssal strata beneath Sector 07. Untethered 
 - **Area-of-Effect & Piercing Falloff:** Standard kinetic strikes and crushing waves follow the canonical **100% → 70% → 50%** falloff formula.
 - **Closed Ground (폐쇄 영역):** When both hands take opposite positions in an enclosed chamber and turn their Pale White palms inward, they generate an omnidirectional Room-range area-denial field. Within this field, all external Han-wave communications are severed and Han-assisted rapid movement is nullified.
 - **Converging Refusal (수렴 거부):** The hands bracket an area from opposite angles and snap shut, generating a localized spatial implosion of Pale White Void and Crimson Grudge that crushes armor, constructs, and flesh.
-- **Autonomous Primordial Awakening:** If Ishall's neural bond is severed (as observed during Core Suppression Phase II), *Unanswered* detaches into an untethered primordial state, establishing an arena-wide Void singularity until physically reached and manually recalibrated to her restored human will.
+- **Autonomous Primordial Awakening:** If Ishall's neural bond is severed (as observed during Core Realization Phase II), *Unanswered* detaches into an untethered primordial state, establishing an arena-wide Void singularity until physically reached and manually recalibrated to her restored human will.
 
 **Narrative Function:**
 *Unanswered* is the physical embodiment of unreciprocated calls and unacknowledged responsibility. As Xyan transmits warnings from the Desolate that the Directorate logs but refuses to answer, Ishall carries artifacts named for the institutional silence that erased her past—transforming absence into an instrument that protects rather than erases.

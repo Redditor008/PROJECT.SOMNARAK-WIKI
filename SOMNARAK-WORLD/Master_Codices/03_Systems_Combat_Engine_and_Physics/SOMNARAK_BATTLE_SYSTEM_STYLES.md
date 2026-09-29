@@ -9,7 +9,7 @@
 
 ## I. Executive Architectural Overview
 
-The combat physics of Project Somnarak are unified by a single foundational engine—**The Generic P.S. Combat Core**—while branching into seven specialized operational styles corresponding to the sovereign institutions, corporate wings, and expeditionary fleets of the city:
+The combat physics of Project Somnarak are unified by a single foundational engine—**The Generic P.S. Combat Core**—while branching into seven specialized operational styles corresponding to the sovereign institutions, corporate charters, and expeditionary fleets of the city:
 
 ```text
 +=====================================================================+
@@ -679,14 +679,14 @@ In Memory Archive readings, combat takes place within cyclopean subterranean vau
 - **Node 06 (Resonant Mnemonic Lens)**: Band 3. Telemetric scanner highlighting weakpoint seams and broadcasting harmonic solace.
 - **Node 07 (Weaver Projection Array)**: Band 4. Deploys silver threads of light that absorb ambient psychological trauma and stabilize squad composure.
 - **Nodes 08–09 (Suppressed Trauma Sump & Chasm)**: Deep subterranean rifts that vent unexpressed tears or void feedback.
-- **Node 10 (Memory Leaf Dais)**: The master reliquary where crystallized memories condense into equipable Memory Leaves upon Floor Realization.
+- **Node 10 (Memory Leaf Dais)**: The master reliquary where crystallized memories condense into equipable Memory Leaves upon Stratum Realization.
 
 ### 10.2 Modular Memory Anchor Dismantling
 Adversaries in the Memory Archive possess discrete targetable memory anchors:
 - Each anchor represents a physical manifestation of repressed trauma (e.g., Weeping Siphon Veil, Gilded Frame of Lies, Zero-Chrono Lance).
 - Reducing an anchor to 0 HP permanently disables signature boss attacks, deducts 1 enemy Action Point, and triggers **Stagger 1**.
 
-### 10.3 Floor Realization & Memory Leaf Transmutation
+### 10.3 Stratum Realization & Memory Leaf Transmutation
 When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
 - Hostile intent drops to zero as Seiyon shares the emotional weight of the construct's forgotten trauma.
 - The construct dissolves into crystalline light, condensing into a permanent **Memory Leaf** that unlocks passive combat arts and elemental affinities for subsequent floors.

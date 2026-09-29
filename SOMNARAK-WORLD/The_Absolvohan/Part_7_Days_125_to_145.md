@@ -155,16 +155,16 @@ Tactical response execution:
 4. Specialist Lee secures Chamber 014 (*Debt Veil*) with 19.4 seconds remaining.
 5. Specialist Kang clears Chamber 061 (*The Debtor*). All six cells safely locked down.
 
-##### Tactical Engagement / Ordeal Suppression: The Gluttonous Chitin (Amber Noon)
+##### Tactical Engagement / Ordeal Suppression: The Gluttonous Chitin (Amber Second Watch)
 
 At 14:15, tectonic sensors register armored burrowers breaching Floor 2's central corridor:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
+| TACTICAL DOSSIER: SECOND WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE GLUTTONOUS CHITIN                                 |
-| CLASSIFICATION : WEIGHT (AMBER) NOON                                |
+| CLASSIFICATION : WEIGHT (AMBER) SECOND WATCH                        |
 | INTRUSION POINT : FLOOR 2 CENTRAL CORRIDOR                          |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -588,16 +588,16 @@ Tactical response execution:
 4. Specialist Bae secures Chamber 897 (*The Haven Wall*).
 5. Specialist Kang locks Chamber 762 (*The Burning Bridge*). All six cells stabilized.
 
-##### Tactical Engagement / Ordeal Suppression: The Crimson Siphon (Crimson Dusk)
+##### Tactical Engagement / Ordeal Suppression: The Crimson Siphon (Crimson Third Watch)
 
 At 15:40, two colossal bleeding conduits manifest in Floor 7's Main Atrium:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE CRIMSON SIPHON                                    |
-| CLASSIFICATION : GRUDGE (CRIMSON) DUSK                              |
+| CLASSIFICATION : GRUDGE (CRIMSON) THIRD WATCH                       |
 | INTRUSION POINT : FLOOR 7 MAIN ATRIUM                               |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1029,16 +1029,16 @@ Tactical response execution:
 4. Specialist Shin soothes Chamber 033 (*The Guarding Bird*).
 5. Specialist Jin secures Chamber 081 (*The Hollow Saint*). Meltdown averted without avian agitation.
 
-##### Tactical Engagement / Ordeal Suppression: The Clockwork Sweeper (Green Noon)
+##### Tactical Engagement / Ordeal Suppression: The Clockwork Sweeper (Green Second Watch)
 
 At 14:50, two high-speed mechanical sweepers breach Floor 6's hydraulic plaza:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
+| TACTICAL DOSSIER: SECOND WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE CLOCKWORK SWEEPER                                 |
-| CLASSIFICATION : WEIGHT / LAMENT (GREEN) NOON                       |
+| CLASSIFICATION : WEIGHT / LAMENT (GREEN) SECOND WATCH               |
 | INTRUSION POINT : FLOOR 6 HYDRAULIC PLAZA                           |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1458,16 +1458,16 @@ Tactical response execution:
 4. Specialist Bae secures Chamber 041 (*The Tear Droplet*).
 5. All six overloads neutralized without a single accidental blessing.
 
-##### Tactical Engagement / Ordeal Suppression: The Void Siphon (Violet Dusk)
+##### Tactical Engagement / Ordeal Suppression: The Void Siphon (Violet Third Watch)
 
 At 16:20, two floating Void wells manifest in Floor 4's Sub-Vault Gallery:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE VOID SIPHON                                       |
-| CLASSIFICATION : VOID (VIOLET) DUSK                                 |
+| CLASSIFICATION : VOID (VIOLET) THIRD WATCH                          |
 | INTRUSION POINT : FLOOR 4 SUB-VAULT GALLERY                         |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1883,16 +1883,16 @@ Tactical response execution:
 4. Specialist Tak secures Chamber 190 (*The Rage Statue*).
 5. All six overloads quenched smoothly.
 
-##### Tactical Engagement / Ordeal Suppression: The Subterranean Burrower (Amber Dusk)
+##### Tactical Engagement / Ordeal Suppression: The Subterranean Burrower (Amber Third Watch)
 
 At 16:45, two colossal chitin trench worms breach Floor 5's drainage sub-plaza:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE SUBTERRANEAN BURROWER                             |
-| CLASSIFICATION : WEIGHT / GRUDGE (AMBER) DUSK                       |
+| CLASSIFICATION : WEIGHT / GRUDGE (AMBER) THIRD WATCH                |
 | INTRUSION POINT : FLOOR 5 DRAINAGE SUB-PLAZA                        |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -2316,7 +2316,7 @@ Tactical response execution:
 4. Specialist Hong calms Chamber 081 (*The Hollow Saint*).
 5. All six overloads neutralized with zero containment breach.
 
-##### Tactical Engagement / Ordeal Suppression: The Horizon of Hope (Pale Midnight)
+##### Tactical Engagement / Ordeal Suppression: The Horizon of Hope (Pale Tide Watch)
 
 At 17:15, a radiant, shimmering gateway manifests in Floor 3's Archive Rotunda:
 
@@ -2325,7 +2325,7 @@ At 17:15, a radiant, shimmering gateway manifests in Floor 3's Archive Rotunda:
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE HORIZON OF HOPE                                   |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT                               |
+| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 3 ARCHIVE ROTUNDA                           |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |

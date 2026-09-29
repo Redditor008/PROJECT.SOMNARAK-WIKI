@@ -22,11 +22,11 @@ Every entity cataloged in this archive is cataloged under the Somnarak Entity Cl
 
 - [1 Master Classification Index](#1-master-classification-index)
 - [2 Master Entity Catalog](#2-master-entity-catalog)
-  - [2.1 Rank I: Whisper Entities (ZAYIN Equivalent)](#21-rank-i-whisper-entities-zayin-equivalent)
-  - [2.2 Rank II: Murmur Entities (TETH Equivalent)](#22-rank-ii-murmur-entities-teth-equivalent)
-  - [2.3 Rank III: Fragment Entities (HE Equivalent)](#23-rank-iii-fragment-entities-he-equivalent)
-  - [2.4 Rank IV: Wail Entities (WAW Equivalent)](#24-rank-iv-wail-entities-waw-equivalent)
-  - [2.5 Rank V: Sovereign Entities (ALEPH Equivalent)](#25-rank-v-sovereign-entities-aleph-equivalent)
+  - [2.1 Rank I: Whisper Entities](#21-rank-i-whisper-entities)
+  - [2.2 Rank II: Murmur Entities](#22-rank-ii-murmur-entities)
+  - [2.3 Rank III: Fragment Entities](#23-rank-iii-fragment-entities)
+  - [2.4 Rank IV: Wail Entities](#24-rank-iv-wail-entities)
+  - [2.5 Rank V: Sovereign Entities](#25-rank-v-sovereign-entities)
   - [2.6 Tool Relic Entities](#26-tool-relic-entities)
 - [3 Filtering and Tactical Sorting Criteria](#3-filtering-and-tactical-sorting-criteria)
 - [4 Departmental Distribution Matrix](#4-departmental-distribution-matrix)
@@ -45,7 +45,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 
 ## 2 Master Entity Catalog
 
-### 2.1 Rank I: Whisper Entities (ZAYIN Equivalent)
+### 2.1 Rank I: Whisper Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 | `SE-C-Iα-009` | Worn Thimble | 닳아빠진 골무 | 🔴 Grudge | 12 LU | 🤲 Ferrehan | No |
 | `SE-C-Iγ-012` | Slumbering Moth | 잠든 나방 | 🔵 Lament | 12 LU | 💧 Flerehan | No |
 
-### 2.2 Rank II: Murmur Entities (TETH Equivalent)
+### 2.2 Rank II: Murmur Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
@@ -63,7 +63,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 | `SE-C-IIγ-035` | Iron Quill | 무쇠 깃펜 | ⚫ Weight | 16 LU | 🤲 Ferrehan | No |
 | `SE-C-IIα-042` | Old Gramophone | 낡은 축음기 | 🔵 Lament | 16 LU | 💧 Flerehan | Yes |
 
-### 2.3 Rank III: Fragment Entities (HE Equivalent)
+### 2.3 Rank III: Fragment Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
@@ -72,7 +72,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 | `SE-C-IIIβ-062` | Ironbound Casket | 쇠사슬 관 | ⚫ Weight | 18 LU | 🤲 Ferrehan | Yes |
 | `SE-C-IIIγ-077` | The Blood Weaver | 혈직공 | 🔴 Grudge | 20 LU | 👁 Viderehan | Yes |
 
-### 2.4 Rank IV: Wail Entities (WAW Equivalent)
+### 2.4 Rank IV: Wail Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
@@ -81,7 +81,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 | `SE-C-IVγ-119` | Clockwork Executioner | 태엽 망나니 | ⚫ Weight | 28 LU | 🤲 Ferrehan | Yes |
 | `SE-C-IVα-134` | The Hollow Knight | 텅 빈 기사 | ⚪ Void | 30 LU | 👁 Viderehan | Yes |
 
-### 2.5 Rank V: Sovereign Entities (ALEPH Equivalent)
+### 2.5 Rank V: Sovereign Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|

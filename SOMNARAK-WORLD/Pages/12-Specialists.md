@@ -90,7 +90,7 @@ When encountering a high-threat entity or witnessing the gruesome demise of a sq
 
 ## 5 Recruitment, Promotion, and Loadout Pairing
 
-- **Hiring:** Wardens recruit new operatives at the start of a shift using municipal LOB credits, customizing appearance and base attributes.
+- **Hiring:** Wardens recruit new operatives at the start of a shift using municipal investment credits, customizing appearance and base attributes.
 - **Promotion:** Performing successful containment work earns experience, promoting specialists at shift end.
 - **Loadout Pairing:** Effective wardens pair operatives in mutual squads — pairing a heavy ⚫ **Weight** tank (*Threshold Vow*) with a long-range ⚪ **Void** sniper (*Reaper Hungered* from [27-The Debt Eater](27-The%20Debt%20Eater.md)) to cover diverse combat profiles.
 
@@ -100,7 +100,7 @@ When encountering a high-threat entity or witnessing the gruesome demise of a sq
 [![Panic State Encounter](images/panic-state-encounter.svg)](images/panic-state-encounter.svg)
 [![Promotion and Ranks](images/promotion-and-ranks.svg)](images/promotion-and-ranks.svg)
 
-*Left: specialists mustering in Main Room; Center: operative suffering panic state; Right: rank promotion ceremonies.*
+*Left: specialists mustering in Command Room; Center: operative suffering panic state; Right: rank promotion ceremonies.*
 ---
 
 ## 7 See also

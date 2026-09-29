@@ -303,7 +303,7 @@ The Dream and the city are connected in a cycle:
 
 ## VI.B. Directorate Interface: Floor 4 Cognitive Dampening & Ayshuk's Void Models
 
-The Reverie Directorate does not view the Dream Realm as esoteric mysticism. Under the supervision of **Chief Analyst Ayshuk** on **Floor 4 (Floor of Archival Analysis & Logic)**, Somnus is treated as a high-entropy sea of unstructured emotional data requiring systematic containment:
+The Reverie Directorate does not view the Dream Realm as esoteric mysticism. Under the supervision of **Chief Analyst Ayshuk** on **Floor 4 (Stratum of Archival Analysis & Logic)**, Somnus is treated as a high-entropy sea of unstructured emotional data requiring systematic containment:
 
 ### Ayshuk's Void Algorithmic Modeling (공허 해석 모델)
 - **Veil Ripple Detection:** Floor 4's analytical Void engines continuously monitor fluctuations in the Dream Veil across all twelve municipal sectors.

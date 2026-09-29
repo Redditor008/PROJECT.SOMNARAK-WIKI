@@ -34,9 +34,9 @@
 
 ## I. Executive Preamble & The Municipal Charter of Chartered Cadres
 
-In the sovereign socio-political architecture of Somnarak, the Five Sovereign Wings (Reverie Directorate, Somnarak Exploration Decree, Underworld Cleanup Descend, The Memory Archive, and The Horizon Caravan) represent strategic macro-institutions tasked with planetary objectives: deep-strata abyss descents, Facility 01 entity extraction, trans-desolate transit, and historical mnemonic synthesis.
+In the sovereign socio-political architecture of Somnarak, the Five Sovereign Institutions (Reverie Directorate, Somnarak Exploration Decree, Underworld Cleanup Descend, The Memory Archive, and The Horizon Caravan) represent strategic macro-institutions tasked with planetary objectives: deep-strata abyss descents, Facility 01 entity extraction, trans-desolate transit, and historical mnemonic synthesis.
 
-These sovereign wings do not possess the domestic bandwidth to police daily civilian feuds, enforce municipal acoustic curfews, patrol outer blast-gate bastions, arbitrate commercial contract breaches, or extinguish minor industrial furnace fires.
+These sovereign institutions do not possess the domestic bandwidth to police daily civilian feuds, enforce municipal acoustic curfews, patrol outer blast-gate bastions, arbitrate commercial contract breaches, or extinguish minor industrial furnace fires.
 
 To manage the dense daily reality of a metropolis built on sorrow, the Council of Sighs ratified **The Sovereign Charter of Contracted Force** (공인 용병단 헌장 — *Gong-in Yongmyeongdan Heonjang*) in Post-Exile Year 3,850. Under this sovereign edict, ten specialized, autonomous contractor bureaus—formally designated as **The Ten Specialist Cadres** (십대 전문대 — *Sipdae Jeonmundae*)—were granted chartered licenses to recruit, train, arm, and deploy professional operatives across Somnarak.
 

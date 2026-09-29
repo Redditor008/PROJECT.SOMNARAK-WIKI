@@ -45,7 +45,7 @@ Discovered in the abandoned subterranean observation posts of the early Sorrow E
 
 As a **Single-Use Tool Relic**, The Echo Compass operates on an instantaneous interaction cycle:
 - **Instantaneous Dispatch:** When a specialist is ordered to work with The Echo Compass, they enter the chamber, manipulate the gimbaled dials, and trigger the device immediately.
-- **Immediate Departure:** The specialist does not linger inside the cell. Upon triggering the acoustic pulse, the specialist automatically exits and returns to their assigned Main Room.
+- **Immediate Departure:** The specialist does not linger inside the cell. Upon triggering the acoustic pulse, the specialist automatically exits and returns to their assigned Command Room.
 - **Active Sonar Field:** The resulting acoustic chime sweeps through all corridors on the floor, temporarily illuminating concealed entity locations, revealing ticking meltdown timers in dark zones, and granting +10% Work Success to all adjacent containment chambers for 45 seconds.
 
 ## 3 Operational Protocols: The Two-Work-Type Rule

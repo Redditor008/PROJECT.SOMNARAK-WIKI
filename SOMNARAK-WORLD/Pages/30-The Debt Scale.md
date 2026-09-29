@@ -46,7 +46,7 @@ Recovered from the municipal vaults of the Old Commercial Syndicate, The Debt Sc
 
 As an **Equippable Tool Relic**, The Debt Scale leaves its containment cell:
 - **Field Carrying:** An assigned specialist enters the cell, retrieves the scale, and carries it in their secondary weapon hand.
-- **Mobile Support Aura:** As the specialist walks through corridors, elevators, and Main Rooms, the scale radiates a restorative pulse every 3 seconds, restoring 4–6 Sanity Points (SP) to all squadmates within a 5-meter radius.
+- **Mobile Support Aura:** As the specialist walks through corridors, elevators, and Command Rooms, the scale radiates a restorative pulse every 3 seconds, restoring 4–6 Sanity Points (SP) to all squadmates within a 5-meter radius.
 - **Combat Participation:** The bearer can still wield a one-handed primary M.A.W. weapon, functioning as an agile combat medic during suppression clashes.
 
 ## 3 Operational Protocols: The Two-Work-Type Rule

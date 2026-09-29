@@ -162,16 +162,16 @@ Tactical response execution:
 4. Specialist Bae stabilizes Chamber 709 (*Forgotten Tear*) with 13.5 seconds remaining.
 5. All six meltdowns cleared; containment integrity restored.
 
-##### Tactical Engagement / Ordeal Suppression: The Fossil of Memory (Violet Noon)
+##### Tactical Engagement / Ordeal Suppression: The Fossil of Memory (Violet Second Watch)
 
 At 14:30, seismic sensors detect an anomalous mass manifesting in the Floor 6 Archive Rotunda:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
+| TACTICAL DOSSIER: SECOND WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE FOSSIL OF MEMORY                                  |
-| CLASSIFICATION : WEIGHT (VIOLET) NOON                               |
+| CLASSIFICATION : WEIGHT (VIOLET) SECOND WATCH                       |
 | INTRUSION POINT : FLOOR 6 ARCHIVE ROTUNDA                           |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -595,16 +595,16 @@ Tactical response execution:
 3. Specialist Kang stabilizes Chamber 044 with 11.2 seconds remaining.
 4. Specialist Hwang clears Chamber 115 before overflow. All cells stabilized.
 
-##### Tactical Engagement / Ordeal Suppression: The Trench Worm (Amber Dusk)
+##### Tactical Engagement / Ordeal Suppression: The Trench Worm (Amber Third Watch)
 
 At 16:15, tectonic sensors register subterranean burrowing beneath Floor 5:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE GLUTTONOUS TRENCH WORM                            |
-| CLASSIFICATION : WEIGHT / GRUDGE (AMBER) DUSK                       |
+| CLASSIFICATION : WEIGHT / GRUDGE (AMBER) THIRD WATCH                |
 | INTRUSION POINT : FLOOR 5 DRAINAGE SUB-LEVEL                        |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1032,13 +1032,13 @@ Tactical response execution:
 4. Specialist Kang secures Chamber 032 with 14.8 seconds remaining.
 5. Specialist Shin clears Chamber 081 (*The Hollow Saint*). Triad rupture averted.
 
-##### Tactical Engagement / Ordeal Suppression: The Carmine Claw (Crimson Noon)
+##### Tactical Engagement / Ordeal Suppression: The Carmine Claw (Crimson Second Watch)
 
 At 15:40, an Ordeal vanguard breaches the central ventilation junction of Floor 2:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
+| TACTICAL DOSSIER: SECOND WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE CARMINE CLAW                                      |
 | CLASSIFICATION : GRUDGE / WEIGHT (CRIMSON)                          |
@@ -1479,16 +1479,16 @@ Tactical response execution:
 4. Specialist Jin stabilizes Chamber 044 (*The Forgotten Soldier*).
 5. Specialist Shin, monitored via remote effigy link, executes stabilizing communion on Chamber 081 without receiving an eleventh mark. All cells secure.
 
-##### Tactical Engagement / Ordeal Suppression: The Clockwork Titan (Green Dusk)
+##### Tactical Engagement / Ordeal Suppression: The Clockwork Titan (Green Third Watch)
 
 At 16:45, industrial sirens announce the breach of a massive mechanical Third Watch Ordeal:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE CLOCKWORK TITAN                                   |
-| CLASSIFICATION : WEIGHT / LAMENT (GREEN) DUSK                       |
+| CLASSIFICATION : WEIGHT / LAMENT (GREEN) THIRD WATCH                |
 | INTRUSION POINT : FLOOR 6 MAIN CATWALK                              |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1912,16 +1912,16 @@ Tactical response execution:
 4. Specialist Jin stabilizes Chamber 044 (*The Forgotten Soldier*).
 5. Specialist Kang clears Chamber 190 (*The Ember Phoenix*). All cells secure.
 
-##### Tactical Engagement / Ordeal Suppression: The Monolith of the Void (Violet Dusk)
+##### Tactical Engagement / Ordeal Suppression: The Monolith of the Void (Violet Third Watch)
 
 At 17:10, space fractures in the Floor 4 Main Training Plaza:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE MONOLITH OF THE VOID                              |
-| CLASSIFICATION : VOID (VIOLET) DUSK                                 |
+| CLASSIFICATION : VOID (VIOLET) THIRD WATCH                          |
 | INTRUSION POINT : FLOOR 4 MAIN PLAZA                                |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |

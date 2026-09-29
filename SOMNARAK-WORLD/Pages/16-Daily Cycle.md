@@ -41,9 +41,9 @@ Each operational shift challenges the Warden to balance energy harvesting agains
 ## 2 Phase 1: Morning Deployment and Specialist Muster
 
 Before the facility gates unlock, the Warden plans the day at the deployment console:
-1. **Recruitment & Training:** Spend LOB credits to recruit new [Specialists](12-Specialists.md) or enhance primary attributes (Resilience, Clarity, Composure, Resolve).
+1. **Recruitment & Training:** Spend investment credits to recruit new [Specialists](12-Specialists.md) or enhance primary attributes (Resilience, Clarity, Composure, Resolve).
 2. **Armament Distribution:** Equip weapons and suits from the [M.A.W. Equipment](09-M.A.W.%20Equipment.md) armory, balancing squad elemental defenses.
-3. **Departmental Stationing:** Assign specialists to specific departmental Main Rooms to defend against localized breaches.
+3. **Departmental Stationing:** Assign specialists to specific departmental Command Rooms to defend against localized breaches.
 
 ## 3 Phase 2: Routine Containment and Energy Extraction
 
@@ -57,14 +57,14 @@ Once the shift starts, the Warden dispatches operatives into containment chamber
 
 As work accumulates, the facility destabilizes:
 - **Meltdown Overloads:** The [Containment Levels](18-Containment%20Levels.md) gauge reaches thresholds (Levels 1 to 10), placing 60-second countdown glyphs on random cells. Unworked cells suffer Lumen loss and counter drops.
-- **Ordeal Incursions:** At designated meltdown levels, hostile non-containment entities invade corridors across four Watches (First/Dawn, Second/Noon, Third/Dusk, Tide/Midnight).
+- **Ordeal Incursions:** At designated meltdown levels, hostile non-containment entities invade corridors across four Watches (First, Second, Third, Tide).
 - Wardens must scramble combat squads to suppress incursions while simultaneously maintaining containment protocols.
 
 ## 5 Phase 4: Shift Evaluation and Checkpoint Repository
 
 Once quota is satisfied and threats are subdued, the shift concludes:
 - **Evaluation Grade:** The Directorate grades the shift (S, A, B, C, F) based on auxiliary casualties, specialist deaths, and containment breaches.
-- **LOB Award:** High grades grant municipal LOB credits to fund future recruitment and research.
+- **Municipal Award:** High grades grant municipal investment credits to fund future recruitment and research.
 - **Specialist Promotion:** Operatives who performed successful work earn promotions, unlocking higher ranks (Rank I to Rank V).
 
 ## 6 Hourly Operational Shift Chronology (08:00 to 18:00)
@@ -77,7 +77,7 @@ Once quota is satisfied and threats are subdued, the shift concludes:
 | **12:30 – 15:00** | Afternoon High-Risk Works | Fragment and Wail containment; Second Watch. |
 | **15:00 – 16:30** | Late Shift Critical Strain | Meltdown Level VI; Third Watch Ordeals in corridors. |
 | **16:30 – 17:30** | Overcharge & Quota Clearance | Emergency override unlocked; Tide Watch hazard. |
-| **17:30 – 18:00** | Shift Conclusion & Debrief | Lockdown verification; LOB calculation and promotions. |
+| **17:30 – 18:00** | Shift Conclusion & Debrief | Lockdown verification; credit calculation and promotions. |
 
 ## 7 Memory Repository Checkpoint and Rollback Rules
 

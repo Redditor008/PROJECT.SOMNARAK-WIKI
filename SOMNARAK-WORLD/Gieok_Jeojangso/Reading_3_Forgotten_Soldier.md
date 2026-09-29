@@ -1,10 +1,10 @@
 # Reading 3: Floor 03 — The Forgotten Soldier (잊혀진 파수병)
-## The Floor of Duty & Iron — Deep Strata Sub-Alpha Roots (-2,650m)
+## The Stratum of Duty & Iron — Deep Strata Sub-Alpha Roots (-2,650m)
 
 | Operational Attribute | Specification Dossier |
 |---|---|
 | **Campaign Stratum** | The Memory Archive (기억 저장소 — Gieok Jeojangso) |
-| **Floor Designation** | Floor 03: Floor of Duty & Iron (의무와 강철의 층) |
+| **Floor Designation** | Floor 03: Stratum of Duty & Iron (의무와 강철의 층) |
 | **Geological Depth** | -2,650m Sub-Alpha Monolith Root Nexus |
 | **Mnemonic Density** | 210 to 280 mMb (Pressurized Steam & Rust Saturation) |
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
@@ -17,7 +17,7 @@
 |            READING DOSSIER: THE FORGOTTEN SOLDIER (FLOOR 03)           |
 +------------------------------------------------------------------------+
 | READING TARGET   : The Forgotten Soldier                               |
-| FLOOR LEVEL        : Floor 03 — Floor of Duty & Iron                   |
+| FLOOR LEVEL        : Floor 03 — Stratum of Duty & Iron                 |
 | DOMAIN SETTING     : The Iron Fortress Armory (-2,650m Sub-Alpha)      |
 | PRIMARY OPPONENT   : Autonomous Clockwork Phalanx Commander            |
 +------------------------------------------------------------------------+
@@ -45,7 +45,7 @@
 
 ## Chapter I: The Gates of Rusting Iron & The Subterranean Concourse
 
-Beyond the heavy Bessemer steel bulkhead of Floor 02, the silence of the mirrors was extinguished by the deafening, seismic cadence of industrial machinery. Depth -2,650 meters marked **Floor 03: The Floor of Duty & Iron**. Here, the ancient cavern walls were encased in armor plates of cast iron, riveted together by bolts the size of human skulls. Overhead, colossal steam pipes—corroded to a mottled orange rust—hissed rhythmically, expelling superheated vapor into the cold dark.
+Beyond the heavy Bessemer steel bulkhead of Floor 02, the silence of the mirrors was extinguished by the deafening, seismic cadence of industrial machinery. Depth -2,650 meters marked **Floor 03: The Stratum of Duty & Iron**. Here, the ancient cavern walls were encased in armor plates of cast iron, riveted together by bolts the size of human skulls. Overhead, colossal steam pipes—corroded to a mottled orange rust—hissed rhythmically, expelling superheated vapor into the cold dark.
 
 This stratum had served as the primordial ordnance vault and defensive garrison during the initial excavation of Facility 01. Thousands of decommissioned kinetic breach-cannons, trench shoring jacks, and crushed hydraulic pistons lay stacked along the perimeter like petrified bones. The air was thick with the bitter tang of mineral oil, grease, and powdered rust.
 
@@ -384,7 +384,7 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 +------------------------------------------------------------------------+
 | - Node 05: The Forgotten Soldier (PACIFIED & RESTING IN DIGNIFIED      |
 |   SILENCE)                                                             |
-| - Node 06: Seiyon (Floor Realization 3: 'Duty With Love Is             |
+| - Node 06: Seiyon (Stratum Realization 3: 'Duty With Love Is           |
 |   Endurance')                                                          |
 | - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Guardian]  |
 | - Node 10: Spiral Basalt Staircase (Pathway to Floor 04 OPEN)          |
@@ -395,25 +395,25 @@ The Forgotten Soldier relied upon overwhelming physical mass and hydraulic kinet
 +========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 3 & Memory Leaf: The Guardian)
+### Turn 06 Action Resolution Log (Stratum Realization 3 & Memory Leaf: The Guardian)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/300 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon steps forward to Node 05, resting her hand upon the cooling iron chassis.
-- **Step 3: Floor Realization & Transmutation**:
+- **Step 3: Stratum Realization & Transmutation**:
   * The roaring steam vents fall completely silent. In the quiet of the iron concourse, Seiyon reflects upon her 1,778 cycles of endless vigilance:
     > *"I thought duty was a cage forged of programming and iron. But duty without love is only rust. Duty with love is the willingness to stand in the dark so another can reach the morning. That is why I endured."*
-  * **FLOOR REALIZATION 3 ACHIEVED!**
+  * **STRATUM REALIZATION 3 ACHIEVED!**
   * The Forgotten Soldier bows its head in deep, solemn respect. Its chassis dissolves into dark, polished iron plating that condenses into a heavy steel-bound tome: **`[Memory Leaf: The Guardian]`**!
   * Deals **480 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
   * **Memory Leaf Acquired**: `[Memory Leaf: The Guardian]` (Grants +25 Poise and absorbs 100% of damage directed at frontline allies).
-  * **Descent Access**: The iron fortress portcullis raises, revealing a descending spiral staircase of basalt steps leading to **Floor 04: Floor of Unexpressed Grief**.
+  * **Descent Access**: The iron fortress portcullis raises, revealing a descending spiral staircase of basalt steps leading to **Floor 04: Stratum of Unexpressed Grief**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
 ---
 
-## Chapter VI: The Floor Realization & Psychological Synthesis
+## Chapter VI: The Stratum Realization & Psychological Synthesis
 
 The metallic shriek of overstressed pressure pipes faded into a soft, steady exhalation of clean white mist. Standing before the silent titan, Seiyon felt the phantom ache in her computational core subside. For hundreds of cycles, she had questioned whether her loyalty to Director Majin and the stasis candidates was nothing more than an unthinking subroutine—a deterministic loop hardwired into her neural architecture.
 
@@ -425,7 +425,7 @@ The Iron Phalanx Golems along the perimeter grounded their halberds simultaneous
 
 ## Chapter VII: Operational Artifact Extraction & Stairway Ingress
 
-Beneath the Soldier's basalt lectern, the floor split along hydraulic seams, rolling backward to reveal a deep subterranean staircase of dark ashlar limestone leading downward into total silence: **Floor 04: The Floor of Unexpressed Grief (-2,800m)**. Faint ripples of crystal-clear water lapped against the lowest steps.
+Beneath the Soldier's basalt lectern, the floor split along hydraulic seams, rolling backward to reveal a deep subterranean staircase of dark ashlar limestone leading downward into total silence: **Floor 04: The Stratum of Unexpressed Grief (-2,800m)**. Faint ripples of crystal-clear water lapped against the lowest steps.
 
 ```text
 +========================================================================+

@@ -42,7 +42,7 @@ Each Zone's corporate cluster forms an interdependent operational ecosystem:
 
 ### 1.1 Macro Hierarchy: The 10 Primary Companies & Somnarak Outsider Factories
 
-At the macro-civic level, the city's commercial and industrial landscape is governed by the **10 Primary Companies** (5 Main Sovereign Wings: Reverie Directorate, SED, UCD, Won-Hyeong Biologics, and Horizon Caravan + 5 Sub Infrastructure Trusts, as codified in `SOMNARAK_CORPORATIONS.md`). The Memory Archive (*Gieok Jeojangso*) operates outside commercial classification as an Institutional Sanctuary & Mnemonic Library.
+At the macro-civic level, the city's commercial and industrial landscape is governed by the **10 Primary Companies** (5 Main Sovereign Institutions: Reverie Directorate, SED, UCD, Won-Hyeong Biologics, and Horizon Caravan + 5 Sub Infrastructure Trusts, as codified in `SOMNARAK_CORPORATIONS.md`). The Memory Archive (*Gieok Jeojangso*) operates outside commercial classification as an Institutional Sanctuary & Mnemonic Library.
 
 All other manufacturing entities, ad-hoc fabrication plants, unchartered salvage mills, and rogue workshops beyond these ten chartered Primary Companies are formally classified as:
 - **Somnarak Outsider Factory (솜나락 외곽 공장 / Somnarak Oegwak Gongjang):** The "non-known" industrial sector operating without Council licenses in the deep sumps of Zone B, the peripheral fringes of Zone E, and the scorched Outskirts.

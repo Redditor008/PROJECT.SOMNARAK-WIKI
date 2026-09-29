@@ -150,10 +150,10 @@ Before we can complete the shift, the facility klaxon drops to a guttural amber 
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL                         |
+| TACTICAL DOSSIER: FIRST WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE WHISPERING SPORES                                 |
-| CLASSIFICATION : GRUDGE (RED) DAWN ORDEAL                           |
+| CLASSIFICATION : GRUDGE (RED) FIRST WATCH                           |
 | INTRUSION POINT : FLOOR 1 VENTILATION SHAFT                         |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -171,7 +171,7 @@ Director Majin establishes GBS tactical engagement parameters:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (SPORES DAWN)                 |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (SPORES FIRST WATCH)          |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -572,9 +572,9 @@ At 14:00, the screen shudders. The Second Watch arrives:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
+| TACTICAL DOSSIER: SECOND WATCH ORDEAL                               |
 | DESIGNATION : THE HEAVY PENDULUM                                    |
-| CLASSIFICATION : WEIGHT (VIOLET) NOON ORDEAL                        |
+| CLASSIFICATION : WEIGHT (VIOLET) SECOND WATCH                       |
 | INTRUSION POINT : FLOOR 4 RESEARCH CORRIDOR                         |
 | HOSTILE PARAMETERS:                                                 |
 | - Entity: 1x Colossal Suspended Obelisk                             |
@@ -592,7 +592,7 @@ Director Majin establishes tactical battle parameters:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET NOON)                 |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET SECOND WATCH)         |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -983,7 +983,7 @@ Director Majin establishes GBS tactical command at the Gate 03 perimeter:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (TEMPEST NOON)                |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (TEMPEST SECOND WATCH)        |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -1352,10 +1352,10 @@ At 15:30, the lights fade to cold ash gray. The Third Watch arrives:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE RUSTING ARCHIVE                                   |
-| CLASSIFICATION : LAMENT (WHITE) DUSK ORDEAL                         |
+| CLASSIFICATION : LAMENT (WHITE) THIRD WATCH                         |
 | INTRUSION POINT : FLOOR 3 DATA CORRIDOR                             |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1373,7 +1373,7 @@ Director Majin establishes GBS tactical battle commands:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (RUSTING DUSK)                |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (RUSTING THIRD WATCH)         |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -1674,7 +1674,7 @@ He opens the private register of the Absolvohan project. The target is 100 tons.
 | TERMINAL                                                            |
 | FACILITY MANAGEMENT INTERFACE: DAY 17 SHIFT                         |
 | ACTIVE FLOOR: FLOOR 7 (OUTSIDER RELATIONS)                          |
-| ORDEAL ALERT: FOURTH WATCH (MIDNIGHT)                               |
+| ORDEAL ALERT: FOURTH WATCH (TIDE)                                   |
 | INCOMING                                                            |
 +=====================================================================+
 ```
@@ -1752,7 +1752,7 @@ Sirens blare across all seven active sectors as Meltdown Level V strikes:
 
 Five senior specialists enter their chambers simultaneously. With veteran precision, all five overloads are suppressed within 14.4 seconds! Energy hits `0.075 / 0.050 tons`—quota surpassed!
 
-##### Ordeal Manifestation: Fourth Watch (Midnight) Ordeal
+##### Ordeal Manifestation: Fourth Watch (Tide) Ordeal
 At 16:30, the facility lights turn pitch black, replaced by an eerie, pulsing cyan glow. The terminal warning flashes:
 
 ```text
@@ -1760,7 +1760,7 @@ At 16:30, the facility lights turn pitch black, replaced by an eerie, pulsing cy
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE ECHO OF CHEONBULOK                                |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT ORDEAL                        |
+| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : SUBTERRANEAN VENT CORE                            |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1778,7 +1778,7 @@ Director Majin establishes multi-floor GBS combat coordination:
 
 ```text
 +=====================================================================+
-| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (PALE MIDNIGHT)               |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (PALE TIDE WATCH)             |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -1882,11 +1882,11 @@ Director Majin establishes multi-floor GBS combat coordination:
 +=====================================================================+
 | TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04                |
 +---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — MIDNIGHT TIDAL WAVE & STASIS LOCK]          |
+| [STAGE NODES 01 TO 10 — ASH TIDAL WAVE & STASIS LOCK]               |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [LEVIATHAN] [TAK] [ZYRAK] [HONG] [JO] [MARJUK]                      |
 +---------------------------------------------------------------------+
-| - Node 01: Leviathan (Recovered / Channeling Midnight Tidal Wave)   |
+| - Node 01: Leviathan (Recovered / Channeling Ash Tidal Wave)        |
 | - Node 03: Specialist Tak (Directional Guard Absorption Active)     |
 | - Node 04: Extraction Lead Zyrak (Grounding Lance into Ash Surge)   |
 | - Node 06: Specialist Jo (Prismatic Beam Burning off Thermal Crest) |
@@ -1897,9 +1897,9 @@ Director Majin establishes multi-floor GBS combat coordination:
 +=====================================================================+
 ```
 
-###### Turn 04 Action Resolution Log (Midnight Tidal Wave & Stasis Lock)
+###### Turn 04 Action Resolution Log (Ash Tidal Wave & Stasis Lock)
 - **Hostile Desperation Tidal Wave**:
-  * The leviathan attempts to unleash `[Midnight Tidal Wave]`, flooding Floor 6 with boiling ash.
+  * The leviathan attempts to unleash `[Ash Tidal Wave]`, flooding Floor 6 with boiling ash.
   * Archive Lead Marjuk engages the *Temporal Stasis Array*, slowing the ash wave to 0.1x velocity!
   * Specialist Jo focuses the prismatic beam, incinerating the entity's thermal crest!
   * Specialist Tak deploys `[Directional Guard Absorption]`, taking 10 chip damage (HP: 130/140).
@@ -1963,7 +1963,7 @@ Director Majin establishes multi-floor GBS combat coordination:
 | regenerator.                                                        |
 | 3. Containment Check : Spectral Leviathan disintegrated into        |
 | glowing embers.                                                     |
-| 4. OUTCOME : ZERO FATALITIES — 74.3s CRITICAL MIDNIGHT CLEAR.       |
+| 4. OUTCOME : ZERO FATALITIES — 74.3s CRITICAL TIDE CLEAR.           |
 +=====================================================================+
 ```
 
@@ -1980,7 +1980,7 @@ We slam the **[Shift Complete]** toggle!
 | Han Energy Harvested | 0.050t | 0.075 tons                          |
 | Containment Breaches | 0 Max  | 0 Breaches                          |
 | Personnel Casualties | 0 Dead | 0 Fatalities                        |
-| Midnight Suppressed  | 1/1    | 100% SUCCESS                        |
+| Tide Suppressed  | 1/1    | 100% SUCCESS                            |
 | Meltdowns Cleared    | 5/5    | 100% Rate                           |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S                                    |
@@ -2145,15 +2145,15 @@ Energy climbs to `0.046 / 0.080 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Second Watch (Crimson Noon) Suppression
+#### 3. Ordeal Manifestation: Second Watch (Crimson) Suppression
 
 At 14:15, the facility alarms sound a rhythmic, brassy toll. Crimson mist vents from the Floor 4 air ducts:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: CRIMSON NOON ORDEAL SUPPRESSION                   |
+| TACTICAL DOSSIER: CRIMSON SECOND WATCH SUPPRESSION                  |
 +---------------------------------------------------------------------+
-| DESIGNATION : THE PROCESSION OF CARVED MASKS (NOON)                 |
+| DESIGNATION : THE PROCESSION OF CARVED MASKS (SECOND WATCH)         |
 | CLASSIFICATION : CRIMSON (GRUDGE) SECOND WATCH AGGRESSOR            |
 | INTRUSION POINT : FLOOR 4 RESEARCH FORGE CORRIDOR (NODE 03)         |
 | HOSTILE PARAMETERS : HP 180/180 | Posture 90/90 | Speed 5 (3 AP)    |
@@ -2546,15 +2546,15 @@ Energy meter rises to `0.068 / 0.100 tons`.
 
 ---
 
-#### 3. Ordeal Manifestation: Second Watch (Amber Noon) Suppression
+#### 3. Ordeal Manifestation: Second Watch (Amber) Suppression
 
 At 15:30, seismic sensors on Floor 2 detect violent drilling beneath the containment trenches:
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: AMBER NOON ORDEAL SUPPRESSION                     |
+| TACTICAL DOSSIER: AMBER SECOND WATCH SUPPRESSION                    |
 +---------------------------------------------------------------------+
-| DESIGNATION : THE BURROWING CHITIN (AMBER NOON)                     |
+| DESIGNATION : THE BURROWING CHITIN (AMBER SECOND WATCH)             |
 | CLASSIFICATION : AMBER (WEIGHT) SECOND WATCH CARAPACE HOSTIL        |
 | INTRUSION POINT : FLOOR 2 CONTAINMENT TRENCH (NODE 02 INGRESS)      |
 | HOSTILE PARAMETERS : HP 220/220 | Posture 110/110 | Speed 4 (2 AP)  |
@@ -2773,7 +2773,7 @@ Total daily harvest reaches **0.108 / 0.100 tons**! Quota surpassed!
 | Han Energy Harvested | 0.100 Tons | 0.108 Tons [SURPASSED]          |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [PERFECT]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Amber Noon Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]       |
+| Amber Second Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]     |
 | Meltdowns Cleared | 5/5 Cleared | 100% Rate [STABILIZED]            |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (QUARTER-CYCLE MASTERY)            |

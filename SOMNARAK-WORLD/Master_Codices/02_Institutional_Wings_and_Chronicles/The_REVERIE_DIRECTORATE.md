@@ -114,7 +114,7 @@ These rooms exist on **every floor** (1-8):
 
 | Room Type | Description | Capacity |
 |-----------|-------------|----------|
-| **Main Room** | The central hub of each floor — where personnel gather, briefings happen, and operations are coordinated | 20-50 personnel |
+| **Command Room** | The central hub of each floor — where personnel gather, briefings happen, and operations are coordinated | 20-50 personnel |
 | **Han-Corridors** | Passages connecting rooms — lined with Han-crystal, warm to the touch | N/A (transit) |
 | **Elevator Hubs** | Vertical transport between floors — Han-powered lifts | 10 per hub |
 | **Side Rooms** | Storage, rest areas, medical stations | Varies |
@@ -229,7 +229,7 @@ These rooms exist on **every floor** (1-8):
 **Moving between rooms:**
 - Personnel move through **Han-corridors** — passages that pulse with the facility's rhythm
 - **Elevator Hubs** connect floors — Han-powered lifts
-- **Main Rooms** serve as home base — personnel return after tasks
+- **Command Rooms** serve as home base — personnel return after tasks
 
 **Room effects:**
 - **Containment Cells** suppress Han — entities are calmer inside
@@ -536,7 +536,7 @@ Each attribute ranges from **1** (lowest) to **100** (highest). Most civilians a
 | **Failed Work Type** | -1 to relevant attribute |
 | **M.A.W. bonding** | +2 to primary attribute, -1 to secondary |
 | **Fracture (early stage)** | -5 to all attributes |
-| **Core Suppression** | +10 to all attributes (if survived) |
+| **Core Realization** | +10 to all attributes (if survived) |
 | **Major breach survival** | +3 to Resilience and Resolve |
 | **Memory loss** | -10 to Clarity |
 | **Emotional trauma** | -10 to Composure |
@@ -847,7 +847,7 @@ When M.A.W. is overused beyond shift limits, misused against its nature, or star
 
 1. **Stage 1 (Whispers):** The wearer hears the entity's feelings and desires as faint, persistent auditory sensations. Resolves with rest and shift rotation.
 2. **Stage 2 (Bleed):** The wearer's personality shifts toward the entity's element (Lament becomes melancholic, Grudge aggressive, Void detached, Weight resigned). Requires painful M.A.W. removal.
-3. **Stage 3 (Merge):** Boundaries blur; the wearer speaks in the entity's dual tone and acts on its impulses without realizing it. Demands Core Suppression intervention.
+3. **Stage 3 (Merge):** Boundaries blur; the wearer speaks in the entity's dual tone and acts on its impulses without realizing it. Demands Core Realization intervention.
 4. **Stage 4 (Takeover):** The entity's personality completely dominates. The human mind remains aware but permanently trapped inside their own body. **Irreversible.**
 
 #### The Echo-Cores and Corrosion Status:
@@ -1637,7 +1637,7 @@ The Reverie Directorate's containment security relies on real-time tracking of t
 2. **Type 2: Transform (변형 — Byeonghyeong):**
    - *Nature:* The entity does not wander corridors; instead, it evolves within its chamber, escalating its danger tier (α → β → γ → δ → ω) or gaining complex cognitive abilities.
    - *Affected Entities:* Object (`O`) and Place (`P`) manifestations, entities with transformation chains (e.g. *The Kind Healer* → *The Dawn of Mourning* / *The Hand of Hope*).
-   - *Containment Response:* Adaptive work adjustment, emergency M.A.W. extraction, or Core Suppression stabilization.
+   - *Containment Response:* Adaptive work adjustment, emergency M.A.W. extraction, or Core Realization stabilization.
 
 3. **Type 3: Corrupt (부패 — Bupae):**
    - *Nature:* The containment cell itself mutates into an active **Fracture Zone**. Unrefined Han leaks into adjacent corridors, causing walls to weep brine and inflicting emotional bleed on nearby staff.
@@ -2107,30 +2107,30 @@ If an Ordeal is not handled properly, it **escalates**:
 
 | Ordeal | Escalation |
 |--------|------------|
-| **The Whisper** | Becomes Noon — entity agitation begins |
-| **The Surge** | Becomes Dusk — outside entities breach |
-| **The Breach** | Becomes Midnight — the Abyss bleeds through |
+| **The Whisper** | Becomes Second Watch — entity agitation begins |
+| **The Surge** | Becomes Third Watch — outside entities breach |
+| **The Breach** | Becomes Tide Watch — the Abyss bleeds through |
 | **The Abyss** | **The Collapse** — facility-wide catastrophe, potential total loss |
 
-**The Collapse:** If Midnight escalates, the facility faces total failure. The Abyssal Well ruptures. The Final Door opens. Entities escape. Personnel Fracture. The Hand of Change falls.
+**The Collapse:** If the Tide-Watch stage escalates, the facility faces total failure. The Abyssal Well ruptures. The Final Door opens. Entities escape. Personnel Fracture. The Hand of Change falls.
 
 **This has never happened.** The Director ensures it never will. But the threat is always there.
 
 ---
 
-## Core Suppression Protocols — Departmental Realization Trials
+## Core Realization Protocols — Departmental Realization Trials
 
 > *"A door that will not open must be forced. An Echo-Core that will not speak must be suppressed."*
 > — Director Majin, *Facility Operations Log 4232+100*
 
-### Overview of Core Suppression (핵 진압 — Haek Jin-ap)
+### Overview of Core Realization (핵 진압 — Haek Jin-ap)
 
 Across the 1,778 Cycles, the Echo-Cores carry the unyielding emotional, psychological, and cosmological burden of Facility 01. When an Echo-Core's internal Han harmonic fractures under accumulated cycle sorrow, their sector enters a state of catastrophic resonance known as a **Core Crisis (핵 위기)**.
 
 During a Core Crisis:
 1. **Sector Breakdown:** The destabilized Echo-Core's emotional signature floods their respective floor, warping facility geometry, disabling safety protocols, and threatening total containment failure.
 2. **Directorate Response:** The Director and assigned specialists must enter the destabilized sector, navigating distorted operational constraints to physically and psychologically suppress the crisis.
-3. **Harmonic Realization:** Surviving a Core Suppression grounds the Echo-Core's consciousness, permanently resolving their central existential trauma.
+3. **Harmonic Realization:** Surviving a Core Realization grounds the Echo-Core's consciousness, permanently resolving their central existential trauma.
 
 ### Permanent Suppression Rewards
 
@@ -2148,10 +2148,10 @@ As documented in Directorate Personnel Records:
 | **Floor 4: Insight Forge** | Ayshuk (Research) | **Void Logic Collapse** | Complete emotional detachment collapses into an infinite analytical Void; diagnostic feeds invert into psychic feedback. |
 | **Floor 5: Border Watch** | Mellda (Border Lead) | **Warden Martial Trial** | The ultimate physical combat gauntlet; Mellda's Warden chassis overclocks, unleashing room-clearing Weight shockwaves via Threshold Vow. |
 | **Floor 6: Deep Vault** | Marjuk (Archive) | **Memory Vault Leak** | Han-stasis memory seals shatter; ancient acoustic threads flood the dark vault with phantom memories and temporal vertigo. |
-| **Floor 7: Shadow Corps** | Ishall (Outsider) | **The Dual Suppression** | **Facility 01's only two-phase sequential suppression:** Stage 1 (Infiltrator Chassis Reclamation) followed by Stage 2 (Unanswered Primordial Void Singularity). |
+| **Floor 7: Shadow Corps** | Ishall (Outsider) | **The Dual Realization** | **Facility 01's only two-phase sequential realization:** Stage 1 (Infiltrator Chassis Reclamation) followed by Stage 2 (Unanswered Primordial Void Singularity). |
 | **Floor 8: Gate Watch** | Xyan (Exile) | **Desolate Gale Breach** | Boundary threshold fractures; Desolate storm-winds and phantasmal route echoes sweep into the corridors, calcifying terrain into pale crystal. |
 
-### The Unique Anomaly of Floor 7: Ishall's Dual Suppression
+### The Unique Anomaly of Floor 7: Ishall's Dual Realization
 
 Floor 7 represents an unprecedented operational hazard. Because Ishall is an artificial synthesis of a **repurposed enemy assassin chassis** and an **ancient Before-Time relic**, her crisis cannot be quelled in a single engagement:
 
@@ -2801,7 +2801,7 @@ The Archive Lead sometimes wonders: if the city knew the truth, would it change 
 | **Han Signature** | Grudge (Crimson) + Void (Pale White) |
 | **Manifestation** | Subject-Body — physical, dangerous, marked |
 | **Armament** | Specialize Relic: Unanswered (Paired Floating Artifact Hands / Relic Gloves) |
-| **Core Suppression** | Dual Suppression: Stage 1 (Infiltrator Chassis) + Stage 2 (Unanswered Void Relic) |
+| **Core Realization** | Dual Realization: Stage 1 (Infiltrator Chassis) + Stage 2 (Unanswered Void Relic) |
 | **Veil/Raw** | Exists in the Raw — the Veil rejects them |
 | **Secret** | Was sent by the Council to destroy the R.D. — was abandoned after failure |
 | **Arc** | The Outsider must decide whether to serve the R.D. — or complete their original mission |
@@ -2934,7 +2934,7 @@ In Year 4,232 MMSS, catastrophic seismic fracturing along the Maw fault lines th
 - The Cycle begins — Echo-Cores notice, ordinary citizens remain unaware
 - Director Majin uses the repeating iterations to amass 0.02 tons of diverted Han-crystal per reset
 - Secretary Seiyon endures all 1,778 iterations as the sole continuous memory anchor
-- Core Suppressions and Realizations occur across the departmental floors
+- Core Realizations and Realizations occur across the departmental floors
 - Cycles 1,512 (Great Rust Severance) and 1,580 (Great Collapse)
 
 **The tone:** Heavy, cyclical, resolute. The facility endures an eternity of repetition to forge the path to the Dawn.
@@ -3061,7 +3061,7 @@ When discovered, the Silent Child was sitting in the Echo Gardens — on a bench
 
 ---
 
-### Incident Report 002: The Noon Cascade
+### Incident Report 002: The Second-Watch Cascade
 
 **Date:** Year 4232+1503 | **Floor:** 2 | **Entity:** The Three Birds → The Convergence | **Severity:** Major
 
@@ -3095,7 +3095,7 @@ The Kind Healer blessed its 12th personnel member. The Dawn of Mourning judged 2
 
 ---
 
-### Incident Report 005: The Midnight Abyss
+### Incident Report 005: The Tide-Watch Abyss
 
 **Date:** Year 4235 | **Floor:** 6 | **Entity:** The Final Door | **Severity:** Extreme
 
@@ -3420,7 +3420,7 @@ When an agent's Composure hits 0, they do not instantly undergo irreversible phy
 
 ---
 
-### System 7: Floor Research Trees & Echo-Core Suppression Milestones (8대 층별 연구 기술 트리)
+### System 7: Floor Research Trees & Echo-Core Realization Milestones (8대 층별 연구 기술 트리)
 
 Each of the eight floors offers three distinct technological breakthroughs unlocked as the Echo-Core completes operational milestones:
 

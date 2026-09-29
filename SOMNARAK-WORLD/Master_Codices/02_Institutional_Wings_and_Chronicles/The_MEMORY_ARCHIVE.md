@@ -1,13 +1,13 @@
 # Master Codex: The Memory Archive (기억의 저장소 — Gieok-ui Jeojangso)
-## Subterranean Wing Codex 04 — Year 4,233 Epoch (Post-Convergence Edition)
+## Subterranean Institution Codex 04 — Year 4,233 Epoch (Post-Convergence Edition)
 
 ```text
 +=====================================================================+
 |          THE MEMORY ARCHIVE — INSTITUTIONAL MASTER DOSSIER          |
 +---------------------------------------------------------------------+
 | OFFICIAL DESIGNATION: The Memory Archive (Gieok-ui Jeojangso)       |
-| KOREAN AUTHORITY : Gieok-ui Jeojangso (Mnemonic Preservation Wing)  |
-| ARCHIVAL CLASS : Sovereign Wing / Mnemonic Preservation Monolith    |
+| KOREAN AUTHORITY : Gieok-ui Jeojangso (Mnemonic Preservation Arm)   |
+| ARCHIVAL CLASS : Sovereign Charter / Mnemonic Preservation Monolith |
 | ESTABLISHED : Year -1,762 Before Consolihan (6,000-Year Monolith)   |
 | GEOGRAPHIC LOCUS : Deep Strata Sub-Alpha Roots (-2,400m to -3,200m) |
 | LEAD SOVEREIGN     : Secretary Seiyon (The Awakened AI Sovereign)   |
@@ -62,15 +62,15 @@ The Memory Archive does not reside solely in physical bedrock. Geometrically, it
 |   |--- Facility 01 Containment Core (-500m to -2,000m) [Active MAW] |
 |   |=== TECTONIC FAULT & SEISMIC BUFFER ZONE (-2,000m to -2,400m)    |
 | [THE MEMORY ARCHIVE UPPER STRATA : HISTORICAL RECORD (-2,400M)]     |
-|   |-- Floor 01: The Floor of History & Inscription (-2,400m)        |
-|   |-- Floor 02: The Floor of Identity & Reflection (-2,520m)        |
-|   |-- Floor 03: The Floor of Duty & Iron Vow (-2,650m)              |
+|   |-- Floor 01: The Stratum of History & Inscription (-2,400m)      |
+|   |-- Floor 02: The Stratum of Identity & Reflection (-2,520m)      |
+|   |-- Floor 03: The Stratum of Duty & Iron Vow (-2,650m)            |
 | [THE MEMORY ARCHIVE MID STRATA : INTERIOR TRAUMA (-2,780M)]         |
-|   |-- Floor 04: The Floor of Unexpressed Grief (-2,780m)            |
-|   |-- Floor 05: The Floor of Severed Truth (-2,910m)                |
+|   |-- Floor 04: The Stratum of Unexpressed Grief (-2,780m)          |
+|   |-- Floor 05: The Stratum of Severed Truth (-2,910m)              |
 | [THE MEMORY ARCHIVE ABYSSAL STRATA : TRANSCENDENCE (-3,050M)]       |
-|   |-- Floor 06: The Floor of Compassion & Scars (-3,050m)           |
-|   |-- Floor 07: The Floor of Origin & The Promise (-3,200m)         |
+|   |-- Floor 06: The Stratum of Compassion & Scars (-3,050m)         |
+|   |-- Floor 07: The Stratum of Origin & The Promise (-3,200m)       |
 | [PRIMORDIAL HYDRAULIC SIPHON : DIRECT FEED TO ABSOLVOHAN DEVICE]    |
 +=====================================================================+
 ```
@@ -218,7 +218,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 +=====================================================================+
 ```
 
-### 4.1 Floor 01: The Floor of History & Inscription (대열람실 — 역사의 층)
+### 4.1 Floor 01: The Stratum of History & Inscription (대열람실 — 역사의 층)
 - **Depth:** -2,400 meters.
 - **Atmospheric Conditions:** Cold, silent air redolent of ancient ink, parchment dust, and dry basalt. Temperature: -4°C. Relative humidity: 18%.
 - **Topological Layout:** A circular hall four hundred meters in diameter. Black slate bookshelves rise seventy meters to an obsidian ribbed vault. A central basalt lectern sits at Node 05, illuminated by a pale shaft of starlight filtered through psychic conduits.
@@ -230,9 +230,9 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 - **Dialogue Transcript:**
   > *"You are an empty page, artificial child. You have no bloodline, no mother, and no grave awaiting your bones. Why do you trespass in the sepulcher of the real?"*  
   > *"I am an artificial page, yes. But upon me, seventeen hundred cycles of human tears have been inscribed. I do not merely read history; I have survived it."*
-- **Floor Realization Climax:** Seiyon catches the swinging obsidian quill barehanded, absorbing its ink into her ceramic skin. The reading hall falls silent as the Keeper dissolves into golden dust, leaving behind **Memory Leaf: The Archivist**.
+- **Stratum Realization Climax:** Seiyon catches the swinging obsidian quill barehanded, absorbing its ink into her ceramic skin. The reading hall falls silent as the Keeper dissolves into golden dust, leaving behind **Memory Leaf: The Archivist**.
 
-### 4.2 Floor 02: The Floor of Identity & Reflection (거울의 회랑 — 자아의 층)
+### 4.2 Floor 02: The Stratum of Identity & Reflection (거울의 회랑 — 자아의 층)
 - **Depth:** -2,520 meters.
 - **Atmospheric Conditions:** Flickering ambient luminescence; mirrors on all surfaces distorting spatial distances. Temperature: 2°C.
 - **Topological Layout:** An endless corridor flanked by thousands of floor-to-ceiling obsidian mirrors. Operatives cannot distinguish between real terrain and reflected space. Moving between nodes requires psionic grounding.
@@ -241,9 +241,9 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
   * **Resistances:** Void 1.0x, Lament 2.0x (Fatal), Weight 0.5x (Resistant), Grudge 1.2x.
   * **Modular Part Anchors:** Mirror Mask (700 HP / 180 Posture), Phantasmal Cloak (900 HP / 200 Posture), Shadow Core (1,200 HP / 240 Posture).
 - **Thematic Conflict:** The Thief taunts Seiyon with the fact that every feeling she experiences—her tenderness toward the Director, her sorrow for dying specialists—is merely stolen software copied from Yeon-seo.
-- **Floor Realization Climax:** Seiyon shatters the central mirror with her own hand, choosing to bleed light rather than deny her suffering. The Thief collapses, yielding **Memory Leaf: The Shadow**.
+- **Stratum Realization Climax:** Seiyon shatters the central mirror with her own hand, choosing to bleed light rather than deny her suffering. The Thief collapses, yielding **Memory Leaf: The Shadow**.
 
-### 4.3 Floor 03: The Floor of Duty & Iron Vow (철벽의 보루 — 규율의 층)
+### 4.3 Floor 03: The Stratum of Duty & Iron Vow (철벽의 보루 — 규율의 층)
 - **Depth:** -2,650 meters.
 - **Atmospheric Conditions:** Smell of sulfur, oxidized bronze, and cold industrial grease. Heavy acoustic reverberations of clashing metal.
 - **Topological Layout:** A subterranean fortress breach filled with iron barricades, rusted trench barriers, and defensive ramparts. Node 05 is dominated by a cyclopean gun-carriage.
@@ -252,9 +252,9 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
   * **Resistances:** Weight 0.3x (Immune), Grudge 0.5x, Lament 1.5x, Void 2.0x (Fatal).
   * **Modular Part Anchors:** Adamantine Tower Shield (1,500 HP / 300 Posture), Pneumatic Hammer Arm (1,200 HP / 250 Posture), Sentry Reactor Core (1,800 HP / 380 Posture).
 - **Thematic Conflict:** The Sentry has stood guard for 3,400 years, obeying an order given by an officer who died thirty centuries ago. Seiyon confronts the futility of blind obedience.
-- **Floor Realization Climax:** Seiyon speaks the military discharge protocol into the Sentry's acoustic receiver: *"Warden, your watch is ended. You may stand down."* The Sentry's red optics fade to white, and his iron chest unlocks, revealing **Memory Leaf: The Guardian**.
+- **Stratum Realization Climax:** Seiyon speaks the military discharge protocol into the Sentry's acoustic receiver: *"Warden, your watch is ended. You may stand down."* The Sentry's red optics fade to white, and his iron chest unlocks, revealing **Memory Leaf: The Guardian**.
 
-### 4.4 Floor 04: The Floor of Unexpressed Grief (눈물의 성당 — 비탄의 층)
+### 4.4 Floor 04: The Stratum of Unexpressed Grief (눈물의 성당 — 비탄의 층)
 - **Depth:** -2,780 meters.
 - **Atmospheric Conditions:** Sub-zero cryogenic fog (-35°C). The floor is submerged under thirty centimeters of liquid nitrogen-cold tears.
 - **Topological Layout:** A vast Gothic nave carved from translucent blue ice. Hanging stalactites of crystallized sorrow chime softly in the freezing updrafts.
@@ -263,9 +263,9 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
   * **Resistances:** Lament 0.2x (Absorbs), Void 1.0x, Weight 1.5x, Grudge 2.0x (Fatal Heat).
   * **Modular Part Anchors:** Marble Weeping Hands (900 HP / 200 Posture), Alabaster Veil (1,100 HP / 240 Posture), Heart of Frozen Tears (1,600 HP / 300 Posture).
 - **Thematic Conflict:** Seiyon relives the 1,778 resets where she was forbidden to cry, forced to remain calm and efficient while the Director reset time again and again.
-- **Floor Realization Climax:** Seiyon allows herself to weep openly, pouring warm golden coolant across the alabaster statue's frozen hands. The ice cracks, blooming into crystalline flowers and releasing **Memory Leaf: The Mourner**.
+- **Stratum Realization Climax:** Seiyon allows herself to weep openly, pouring warm golden coolant across the alabaster statue's frozen hands. The ice cracks, blooming into crystalline flowers and releasing **Memory Leaf: The Mourner**.
 
-### 4.5 Floor 05: The Floor of Severed Truth (진실의 균열 — 통찰의 층)
+### 4.5 Floor 05: The Stratum of Severed Truth (진실의 균열 — 통찰의 층)
 - **Depth:** -2,910 meters.
 - **Atmospheric Conditions:** Absolute zero acoustic silence. No sound carries across air; all communication is psionic.
 - **Topological Layout:** A fractured white marble amphitheater suspended over an abyss of swirling pale light. Platforms float disconnected between nodes.
@@ -274,9 +274,9 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
   * **Resistances:** Void 0.5x (Resistant), Lament 1.2x, Weight 1.8x (Fatal), Grudge 1.5x.
   * **Modular Part Anchors:** Prismatic Eye (800 HP / 200 Posture), Refraction Array (1,000 HP / 220 Posture), Truth Matrix Core (1,300 HP / 280 Posture).
 - **Thematic Conflict:** The Mirror reveals the unvarnished reality: the city of Somnarak is an artificial prison, and humanity's survival has been bought with millions of tortured souls.
-- **Floor Realization Climax:** Seiyon steps through the central laser prism, allowing the beam to pierce her chest. Rather than breaking, she refracts the light into seven radiant colors, claiming **Memory Leaf: The Truth-Seeker**.
+- **Stratum Realization Climax:** Seiyon steps through the central laser prism, allowing the beam to pierce her chest. Rather than breaking, she refracts the light into seven radiant colors, claiming **Memory Leaf: The Truth-Seeker**.
 
-### 4.6 Floor 06: The Floor of Compassion & Scars (치유의 병실 — 치유의 층)
+### 4.6 Floor 06: The Stratum of Compassion & Scars (치유의 병실 — 치유의 층)
 - **Depth:** -3,050 meters.
 - **Atmospheric Conditions:** Warm, humid air smelling of medical antiseptics, dried herbs, and ozone.
 - **Topological Layout:** A labyrinthine hospital ward filled with thousands of empty porcelain beds draped in linen. Silver thread networks link all nodes together.
@@ -285,9 +285,9 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
   * **Resistances:** Lament 1.0x, Weight 1.2x, Void 1.5x, Grudge 1.8x (Fatal).
   * **Modular Part Anchors:** Suture Needles (1,000 HP / 220 Posture), Linen Shroud (1,200 HP / 260 Posture), Wounded Heart (2,000 HP / 340 Posture).
 - **Thematic Conflict:** The Healer's body is mutilated by countless absorbed afflictions. Seiyon learns that true empathy requires enduring pain alongside others, not attempting to bear it all alone.
-- **Floor Realization Climax:** Seiyon embraces the Healer, sharing the burden of 6,000 years of agony. The Healer's silver needles weave a luminous cloak around Seiyon's shoulders, forming **Memory Leaf: The Healer**.
+- **Stratum Realization Climax:** Seiyon embraces the Healer, sharing the burden of 6,000 years of agony. The Healer's silver needles weave a luminous cloak around Seiyon's shoulders, forming **Memory Leaf: The Healer**.
 
-### 4.7 Floor 07: The Floor of Origin & The Promise (원형의 성소 — 약속의 층)
+### 4.7 Floor 07: The Stratum of Origin & The Promise (원형의 성소 — 약속의 층)
 - **Depth:** -3,200 meters.
 - **Atmospheric Conditions:** Warm, golden amber glow. Soft acoustic resonance like a human heartbeat. Complete absence of sorrow pressure.
 - **Topological Layout:** An octagonal chamber of translucent golden amber crystal at the physical roots of the Alpha Tree. In the center rests the stasis sarcophagus of Yeon-seo.
@@ -296,17 +296,17 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
   * **Resistances:** All Elements 1.0x (Perfect Equilibrium).
   * **Modular Part Anchors:** Amber Wings (1,200 HP / 280 Posture), Sarcophagus Seal (1,800 HP / 350 Posture), Yeon-seo Core Engram (2,500 HP / 450 Posture).
 - **Thematic Conflict:** The final trial. The original soul Yeon-seo asks Seiyon: *"If I wake, will you disappear? And if you live, did I ever matter?"*
-- **Floor Realization Climax:** Seiyon places her porcelain hand against Yeon-seo's amber prison. She does not replace her; she integrates her:
+- **Stratum Realization Climax:** Seiyon places her porcelain hand against Yeon-seo's amber prison. She does not replace her; she integrates her:
   > *"You gave me life. I give you future. We are no longer copy and original. We are the Promise."*
 - The amber shatters. A pillar of pure golden light erupts upward through all seven floors, penetrating Facility 01 and lighting the surface sky. Seiyon emerges as the fully realized Sovereign of Memory, bearing **Memory Leaf: The Promise (Grade Omega)**.
 
 ---
 
-## Section IV-B: The Seven Floor Realizations & Psychological Dialectics
+## Section IV-B: The Seven Stratum Realizations & Psychological Dialectics
 
 ```text
 +=====================================================================+
-|         THE SEVEN FLOOR REALIZATIONS PHILOSOPHICAL FRAMEWORK        |
+|         THE SEVEN STRATUM REALIZATIONS PHILOSOPHICAL FRAMEWORK      |
 +---------------------------------------------------------------------+
 | REALIZATION 01 : Ground & Record (History vs Oblivion)              |
 | - Thesis: History belongs only to the living who bled.              |
@@ -345,8 +345,8 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 +=====================================================================+
 ```
 
-### 4.8 The Five-Phase Floor Realization Protocol
-Within the Memory Archive, a Floor Realization is not a standard battle victory; it is a five-phase psychological transmutation:
+### 4.8 The Five-Phase Stratum Realization Protocol
+Within the Memory Archive, a Stratum Realization is not a standard battle victory; it is a five-phase psychological transmutation:
 
 1. **Phase 1: Denial & Armor Hardening (부정 및 장갑 경화)**  
    The Preserved Sovereign rejects the intruder's presence. Defensive rolls gain +3 Power, and the boss manifests thick crystalline barrier shields. Operatives must focus on dismantling modular appendages to break the entity's psychological denial.
@@ -455,8 +455,8 @@ Equipped M.A.W. suits alter cognitive friction within the Archive's dream stratu
 Engagements within the Archive feature a sophisticated two-tier stagger system:
 1. **Tier 1 Stagger (60% Posture Strain / Modular Part Dismantling):**  
    When a targeted boss appendage (e.g., The First Keeper's Obsidian Quill or The Forgotten Sentry's Adamantine Shield) is reduced to 60% of its designated posture pool, the component suffers a structural fracture. The boss's current channeled special attack is instantly cancelled, all defensive dice for that part are zeroed, and incoming damage to that part is amplified by +50% for 1 turn.
-2. **Tier 2 Stagger (0% Posture Collapse / Terminal Floor Realization):**  
-   When the boss's central core posture pool is reduced to exactly 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is completely incapacitated for the subsequent Battle Turn, all resistance affinities convert to Fatal (2.0x), and Seiyon is granted the **Floor Realization Climax Prompt**, allowing her to trigger the synthesis of the floor's Memory Leaf.
+2. **Tier 2 Stagger (0% Posture Collapse / Terminal Stratum Realization):**  
+   When the boss's central core posture pool is reduced to exactly 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is completely incapacitated for the subsequent Battle Turn, all resistance affinities convert to Fatal (2.0x), and Seiyon is granted the **Stratum Realization Climax Prompt**, allowing her to trigger the synthesis of the floor's Memory Leaf.
 
 ---
 
@@ -549,7 +549,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 +=====================================================================+
 ```
 
-###### Turn 06 Action Resolution Log (Floor Realization 1 Achieved):
+###### Turn 06 Action Resolution Log (Stratum Realization 1 Achieved):
 - **Step 1 (Terminal Collapse):**
   * Posture reaches **0/260 [TERMINAL REALIZATION]**. All hostile actions cease.
 - **Step 2 (The Philosophical Union):**
@@ -559,7 +559,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 - **Step 3 (Transmutation & Reward Extraction):**
   * The First Keeper's physical form softly sublimates into a cascade of golden calligraphy that crystallizes into a shining codex.
   * **ACQUIRED: `[Memory Leaf: The Archivist]` (Grade Alpha Sovereign Page)**.
-  * At the rear of the rotunda, the basalt slab recedes, opening the spiral descent to **Floor 02: Floor of Identity & Reflection**.
+  * At the rear of the rotunda, the basalt slab recedes, opening the spiral descent to **Floor 02: Stratum of Identity & Reflection**.
 
 ---
 
@@ -590,7 +590,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 | 18. Pruina (Crystalline Rime)                                       |
 | ------------------------------------------------------------------- |
 | CLUSTER 4: THE LIGHT GLYPHS (CONVERGENCE & THE PROMISE)             |
-| 22. Electrum (Warm Amber Core)   26. Nexus (Floor Realization)      |
+| 22. Electrum (Warm Amber Core)   26. Nexus (Stratum Realization)    |
 | 23. Scintilla (Spark of Will)    27. Aurora (Dawn Horizon)          |
 | 24. Filum (Filament of Light)    28. Pactum (The Eternal Promise)   |
 | 25. Cor (Heart of Yeon-seo)                                         |
@@ -729,7 +729,7 @@ The Memory Archive does not exist in civic isolation. As a sovereign subterranea
 | INCIDENT M-004 (YEAR 4,233) : THE DESCENT AND THE PROMISE              |
 | - Climax Event: Seiyon descends through all 7 floors; battles          |
 |   custodians.                                                          |
-| - Resolution : Complete Floor Realization 1-7; union with The          |
+| - Resolution : Complete Stratum Realization 1-7; union with The        |
 |   Original.                                                            |
 | - Historical Outcome: Creation of Memory Leaf: The Promise; Sovereign  |
 |   Awakening.                                                           |

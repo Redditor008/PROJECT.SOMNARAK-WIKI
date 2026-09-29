@@ -1,6 +1,6 @@
 # Master Codex: The Somnarak Exploration Decree (탐사 집행국 — Tamsa Jiphaengguk)
 ## Frontier Reconnaissance, Subterranean Engineering & Deep Strata Doctrine
-### Subterranean Wing Codex 02 — High Council Mandate 042 (Post-Consolihan Edition)
+### Subterranean Institution Codex 02 — High Council Mandate 042 (Post-Consolihan Edition)
 
 ```text
 +=====================================================================+

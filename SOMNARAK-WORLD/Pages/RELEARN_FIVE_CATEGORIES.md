@@ -42,7 +42,7 @@
 
 ### 3 — **Story** — `05-Chronicle` / `40-Cantos` as Story hub
 
-- **Writes like:** wiki.gg `Story` — spoiler box `| ![icon] | SPOILERS AHEAD |`, Dawn Initiative / Cantos as sequential narrative, not system tables. Uses `> “There is an old River...” — Angela, Day 42` style quotes, `### The River` / `### The Bucket` / `### Extraction` subheads, no `**Pressure**` icon dump.
+- **Writes like:** wiki.gg `Story` — spoiler box `| ![icon] | SPOILERS AHEAD |`, Dawn Initiative / Cantos as sequential narrative, not system tables. Uses `> “It tolls at midnight...” — Keeper, Archive` style quotes, `### The River` / `### The Bucket` / `### Extraction` subheads, no `**Pressure**` icon dump.
 
 ## 2 Sub Ways (Supporting hubs, shorter, linked from Main)
 
@@ -52,7 +52,7 @@
 
 ### 5 — **Department** — `22-Departments` as Department hub
 
-- **Writes like:** wiki.gg `Control Team` / `Information Team` / fandom `Departments` — 9 Departments/9 Echo-Cores, Room Types (Main Room / Containment Units max 4 / Hallways / Elevator Hubs), `Healing Generators 6 HP/SP`, `Expansion Method` (Central split) — facility layout, not lore.
+- **Writes like:** wiki.gg `Control Team` / `Information Team` / fandom `Departments` — 9 Departments/9 Echo-Cores, Room Types (Command Room / Containment Units max 4 / Hallways / Elevator Hubs), `Healing Generators 6 HP/SP`, `Expansion Method` (Central split) — facility layout, not lore.
 
 ---
 

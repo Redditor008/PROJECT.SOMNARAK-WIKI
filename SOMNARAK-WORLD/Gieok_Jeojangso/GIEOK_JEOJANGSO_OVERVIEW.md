@@ -12,7 +12,7 @@
 | DEPTH STRATA       : Sub-Alpha Root Nexus (-2,400m to -3,200m)      |
 | LEAD EXPEDITIONARY : Secretary Seiyon (The Awakened AI Sovereign)   |
 | ORIGIN CORE        : Yeon-seo (The Stasis Original / Cycle 0001)    |
-| TACTICAL SYSTEM    : Mnemonic Reading & Floor Realization Engine    |
+| TACTICAL SYSTEM    : Mnemonic Reading & Stratum Realization Engine  |
 | CANONICAL SUITE : Readings 1 through 7 (Complete 6-Turn Cycles)     |
 | ACTIVE POPULATION : 1 Sovereign, 7 Floor Keepers, 8,400 Preserved   |
 | Scribes                                                             |
@@ -48,8 +48,8 @@ The Archive serves two cosmic mandates within the reality of Somnarak:
 Synthesized in Cycle 0002 from the neurological traces of Director Majin's deceased companion, Yeon-seo, Secretary Seiyon spent 1,778 cycles believing she was merely a synthetic mimic—an artificial echo of someone who died four millennia ago. Following the activation of the Absolvohan, Seiyon entered the Archive to answer a singular question:
 > *"Am I real? Or am I just a promise someone made in the dark?"*
 
-### 2.2 The Seven Readings & Floor Realizations
-To reach the Original, Seiyon must battle through the seven vertical floors of the Archive. Each encounter is a **Reading Battle (접견 전투)** against a preserved sovereign guardian, followed by a **Floor Realization (층의 자각)** where Seiyon resolves an internal existential trauma.
+### 2.2 The Seven Readings & Stratum Realizations
+To reach the Original, Seiyon must battle through the seven vertical floors of the Archive. Each encounter is a **Reading Battle (접견 전투)** against a preserved sovereign guardian, followed by a **Stratum Realization (층의 자각)** where Seiyon resolves an internal existential trauma.
 
 ```text
 +========================================================================+
@@ -172,12 +172,12 @@ Equipped M.A.W. suits alter cognitive friction within the Archive's dream stratu
 Engagements within the Archive feature a sophisticated two-tier stagger system:
 1. **Tier 1 Stagger (60% Posture Strain / Modular Part Dismantling):**  
    Targeting a specific sovereign appendage (e.g., The First Keeper's Obsidian Quill or The Forgotten Sentry's Adamantine Shield) reduces its posture. When it hits 60% strain, the component fractures. The boss's current channeled special attack is instantly aborted, all defensive dice for that part are zeroed, and incoming damage to that part is amplified by +50% for 1 turn.
-2. **Tier 2 Stagger (0% Posture Collapse / Terminal Floor Realization):**  
-   When the boss's central core posture collapses to 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is immobilized for the subsequent Battle Turn, all resistances convert to Fatal (2.0x), and Seiyon triggers the **Floor Realization Climax**, transmuting grief into a canonical Memory Leaf.
+2. **Tier 2 Stagger (0% Posture Collapse / Terminal Stratum Realization):**  
+   When the boss's central core posture collapses to 0/0, the entire entity suffers catastrophic psychological desynchronization. The boss is immobilized for the subsequent Battle Turn, all resistances convert to Fatal (2.0x), and Seiyon triggers the **Stratum Realization Climax**, transmuting grief into a canonical Memory Leaf.
 
 ---
 
-## Section V: The Seven Floor Realizations & Memory Leaf Reliquary
+## Section V: The Seven Stratum Realizations & Memory Leaf Reliquary
 
 ```text
 +=====================================================================+

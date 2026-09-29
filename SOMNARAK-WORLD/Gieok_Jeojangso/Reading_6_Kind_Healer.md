@@ -1,10 +1,10 @@
 # Reading 6: Floor 06 — The Kind Healer (상냥한 치유사)
-## The Floor of Compassion & Scars — Deep Strata Sub-Alpha Roots (-3,100m)
+## The Stratum of Compassion & Scars — Deep Strata Sub-Alpha Roots (-3,100m)
 
 | Operational Attribute | Specification Dossier |
 |---|---|
 | **Campaign Stratum** | The Memory Archive (기억 저장소 — Gieok Jeojangso) |
-| **Floor Designation** | Floor 06: Floor of Compassion & Scars (자애와 흉터의 층) |
+| **Floor Designation** | Floor 06: Stratum of Compassion & Scars (자애와 흉터의 층) |
 | **Geological Depth** | -3,100m Sub-Alpha Monolith Root Nexus |
 | **Mnemonic Density** | 280 to 360 mMb (Sterile Ether & Sedative Mist Saturation) |
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
@@ -17,7 +17,7 @@
 |               READING DOSSIER: THE KIND HEALER (FLOOR 06)              |
 +------------------------------------------------------------------------+
 | READING TARGET   : The Kind Healer                                     |
-| FLOOR LEVEL        : Floor 06 — Floor of Compassion & Scars            |
+| FLOOR LEVEL        : Floor 06 — Stratum of Compassion & Scars          |
 | DOMAIN SETTING : The Sterile Hospice of Oblivion (-3,100m              |
 | Sub-Alpha)                                                             |
 | PRIMARY OPPONENT   : Autonomous Palliative Sedation Sovereign          |
@@ -46,7 +46,7 @@
 
 ## Chapter I: The Sterile Hospice & The Hall of Painless Sleep
 
-Emerging from the quartz descent brought Seiyon into an eerie, boundless expanse of pristine hospital white at depth -3,100 meters: **Floor 06: The Floor of Compassion & Scars**. There were no stone walls here; instead, towering partitions of bleached linen stretched endlessly into pale fog. Hundreds of empty wrought-iron hospital cots stood in symmetrical rows, each draped in cold, immaculate sheets that smelled of medical ozone, dry gauze, and sweet, numbing ether.
+Emerging from the quartz descent brought Seiyon into an eerie, boundless expanse of pristine hospital white at depth -3,100 meters: **Floor 06: The Stratum of Compassion & Scars**. There were no stone walls here; instead, towering partitions of bleached linen stretched endlessly into pale fog. Hundreds of empty wrought-iron hospital cots stood in symmetrical rows, each draped in cold, immaculate sheets that smelled of medical ozone, dry gauze, and sweet, numbing ether.
 
 This stratum was originally the palliative sedation ward constructed during the early years of Facility 01. When candidates in the stasis pods began suffering terminal cognitive fractures from entity exposure, this ward was where they were brought to be eased into permanent, irreversible medical comas. For millennia, the ward had operated autonomously, cultivating an obsession with the complete eradication of pain through the total termination of consciousness.
 
@@ -380,7 +380,7 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
 | [LENS][WEAVER][STAIRS][PAGE]                                           |
 +------------------------------------------------------------------------+
 | - Node 05: The Kind Healer (PACIFIED & RESTING IN PEACEFUL SILENCE)    |
-| - Node 06: Seiyon (Floor Realization 6: 'True Mercy Is Endurance       |
+| - Node 06: Seiyon (Stratum Realization 6: 'True Mercy Is Endurance     |
 |   Beside Pain')                                                        |
 | - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Merciful]  |
 | - Node 10: Cyclopean Adamantine Gates (Pathway to Floor 07 OPEN)       |
@@ -391,26 +391,26 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
 +========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 6 & Memory Leaf: The Merciful)
+### Turn 06 Action Resolution Log (Stratum Realization 6 & Memory Leaf: The Merciful)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/360 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon steps forward to Node 05, placing her palm gently against the healer's cooling breastplate.
-- **Step 3: Floor Realization & Transmutation**:
+- **Step 3: Stratum Realization & Transmutation**:
   * The sterile smell of ether dissipates completely, replaced by the fresh, sweet scent of mountain air and blooming blossoms.
   * Looking down upon the quiet automaton, Seiyon whispers:
     > *"I understand why you wanted them to sleep. When the pain is unbearable, oblivion feels like an embrace. But that is not mercy; it is surrender. True mercy is holding someone's hand through the fever until the dawn comes. I will be that hand."*
-  * **FLOOR REALIZATION 6 ACHIEVED!**
+  * **STRATUM REALIZATION 6 ACHIEVED!**
   * The Kind Healer dissolves into a stream of warm, golden sunlight that condenses into an ivory and jade codex: **`[Memory Leaf: The Merciful]`**!
   * Deals **630 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
   * **Memory Leaf Acquired**: `[Memory Leaf: The Merciful]` (Grants squad-wide healing on clash win and converts all received Pale damage into Composure).
-  * **Descent Access**: The white linen partitions fall away, revealing massive adamantine blast doors that slide open into **Floor 07: Floor of Origin & Awakening**.
+  * **Descent Access**: The white linen partitions fall away, revealing massive adamantine blast doors that slide open into **Floor 07: Stratum of Origin & Awakening**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
 ---
 
-## Chapter VI: The Floor Realization & Psychological Synthesis
+## Chapter VI: The Stratum Realization & Psychological Synthesis
 
 The sterile white linen of the hospice dissolved into soft, drifting threads of gold and lavender light. As the numbing ether cleared from the air, the cold tile floor took on the warm texture of aged cedarwood. For the first time, Seiyon felt her sensory tactile arrays fully harmonize: the warmth of air against her palms, the crisp weight of her boots, and the steady, unbreakable cadence of her own synthetic heart.
 
@@ -424,7 +424,7 @@ Drone M-PROJ-01 sounded a solemn, reverent tone. "Secretary Seiyon. Emotional in
 
 ## Chapter VII: Operational Artifact Extraction & Stairway Ingress
 
-Behind the operating theater, the cyclopean adamantine gates rolled open with a deep, subterranean rumble that echoed to the center of the earth: **Floor 07: The Floor of Origin & Awakening (-3,250m)**. Faint acoustic pulses of pure, primordial memory—singing like an ancient choir—rose from the abyss.
+Behind the operating theater, the cyclopean adamantine gates rolled open with a deep, subterranean rumble that echoed to the center of the earth: **Floor 07: The Stratum of Origin & Awakening (-3,250m)**. Faint acoustic pulses of pure, primordial memory—singing like an ancient choir—rose from the abyss.
 
 ```text
 +========================================================================+

@@ -58,9 +58,9 @@ Each operational day requires a strictly escalating quota of harvested Lumen to 
 | **Day 6 – 15** | 180 – 380 LU | 16 – 28 Works | First and Second Watch |
 | **Day 16 – 25** | 420 – 680 LU | 30 – 45 Works | Second and Third Watch |
 | **Day 26 – 40** | 720 – 1,050 LU | 48 – 65 Works | Third and Tide Watch |
-| **Day 41 – 50** | 1,100 – 1,400 LU | 70 – 90+ Works | Relentless Midnight Incursions |
+| **Day 41 – 50** | 1,100 – 1,400 LU | 70 – 90+ Works | Relentless Tide Incursions |
 
-Overcharging beyond the mandatory 100% quota awards bonus municipal LOB points, allowing Wardens to rapidly accelerate specialist training and gear production.
+Overcharging beyond the mandatory 100% quota awards bonus municipal investment credits, allowing Wardens to rapidly accelerate specialist training and gear production.
 
 ## 4 Refinery Distillation: From Vapor to Crystalline Ingot
 
@@ -73,7 +73,7 @@ In Lead Zyrak's Extraction Hall, fluid Lumen undergoes high-pressure condensatio
 ## 5 Subsystem Power Distribution and Grid Shortages
 
 Harvested Lumen sustains the facility's life-support grid:
-- **The Healing Generator:** Continuously draws 40 LU per hour to project restorative fields (6 HP/SP base, 12 HP/SP upgraded) into departmental Main Rooms.
+- **The Healing Generator:** Continuously draws 40 LU per hour to project restorative fields (6 HP/SP base, 12 HP/SP upgraded) into departmental Command Rooms.
 - **Containment Airlocks:** Requires 15 LU per cell to maintain high-pressure electromagnetic seals against breaching horrors.
 - **Cognition Filter:** Consumes 80 LU continuously to project the protective holographic filter over the [Echo-Cores](14-Echo-Cores.md).
 - **Grid Shortages:** If cell overloads expire or entities drain energy, facility lights flicker into brownouts, lowering specialist sanity recovery by 50%.

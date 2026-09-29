@@ -12,7 +12,7 @@ This dispatch records recent operational updates within Facility 01, containment
 +------------------------------------------------------------------------+
 | Archive Activity       | Mnemonic Shift Logs & Real-Time Bulletins     |
 | Current Epoch Anchor   | Year 4,238 (Dawn of Hope) - Cycle 1,778       |
-| Facility 01 Status     | Operational Equilibrium - 9 Wings Active      |
+| Facility 01 Status     | Operational Equilibrium - 9 Floors Active     |
 | System Versions        | Archive Patches 1.0 through 1.4 Formalized    |
 | Supervisory Board      | Reverie Directorate Archival Oversight Bureau |
 +========================================================================+
@@ -46,8 +46,8 @@ This dispatch records recent operational updates within Facility 01, containment
 - Calibrated the 5 Colors × 4 Watches master matrix, detailing incursion timing across First Watch to Tide Watch.
 - Integrated auditory siren thresholds (First to Fourth Warning Trumpets) for hallway incursion alerts.
 
-### Revision 1.2 (Cycle 1,778.10) — Departmental Floor Realizations
-- Formalized Core Suppression parameters for all nine Echo-Cores, outlining cognitive handicaps and permanent floor perks.
+### Revision 1.2 (Cycle 1,778.10) — Departmental Stratum Realizations
+- Formalized Core Realization parameters for all nine Echo-Cores, outlining cognitive handicaps and permanent floor perks.
 
 ### Revision 1.1 (Cycle 1,777.89) — Specialist Attributes & Panic Matrices
 - Refined the four core attributes: Resilience (HP), Clarity (SP), Composure (Success), and Resolve (Speed).
@@ -67,7 +67,7 @@ This dispatch records recent operational updates within Facility 01, containment
 
 - **Senior Specialist Kang:** Awarded Departmental Captain Sash for Floor 6 Border Watch after 12 consecutive shifts without taking health or sanity damage.
 - **Recruit Talia:** Promoted to Rank III Senior Specialist following exemplary Pugnahan containment work with high-threat Fragment entities.
-- **Veteran Arin:** Received the *Null Shield of Redress* for holding the line against a Third Watch Dusk Ordeal.
+- **Veteran Arin:** Received the *Null Shield of Redress* for holding the line against a Third Watch Ordeal.
 - **Memorial Roster:** Five auxiliary auxiliaries honored in the facility memorial ledger following emergency containment operations during Cycle 1,777.
 
 ## 5 Departmental Directives and Warnings

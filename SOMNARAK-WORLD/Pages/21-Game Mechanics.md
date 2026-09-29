@@ -90,7 +90,7 @@ A shift terminates in immediate Catastrophic Collapse (Game Over) if:
 ## 7 Strategic Advice for New Wardens
 
 - Never dispatch a recruit into a cell with an unknown damage pressure without protective armor.
-- Always station at least two combat-ready specialists in every departmental Main Room.
+- Always station at least two combat-ready specialists in every departmental Command Room.
 - Prioritize clearing ticking cell meltdowns over chasing low-threat First Watch pests.
 
 ## 8 Gallery

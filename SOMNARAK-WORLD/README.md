@@ -164,4 +164,4 @@ SOMNARAK-WORLD/
 
 ## Archival Classification Notice
 
-This archive (`SOMNARAK-WORLD/`) is strictly reserved for canonical documents authorized by the Sovereign Council of Sighs and the Five Sovereign Wings. All materials contained herein are authenticated records of municipal, expeditionary, and containment reality. Classified under Sovereign Archival Protocol 01.
+This archive (`SOMNARAK-WORLD/`) is strictly reserved for canonical documents authorized by the Sovereign Council of Sighs and the Five Sovereign Institutions. All materials contained herein are authenticated records of municipal, expeditionary, and containment reality. Classified under Sovereign Archival Protocol 01.

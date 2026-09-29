@@ -613,9 +613,9 @@ Its cost is not the deletion of one participant. The cost is that neither Seiyon
 
 ---
 
-### Floor Realizations
+### Stratum Realizations
 
-Floor Realizations are confrontations in which a character's sorrow becomes the structure of the battle. Victory does not mean destroying the sorrow. It means understanding the false conclusion built around it.
+Stratum Realizations are confrontations in which a character's sorrow becomes the structure of the battle. Victory does not mean destroying the sorrow. It means understanding the false conclusion built around it.
 
 | Floor | Focus | Sorrow Statement | Realization |
 |---:|---|---|---|
@@ -667,7 +667,7 @@ Seiyon enters the Memory Archive alone. The walls whisper, the floors pulse with
 
 She faces the First Keeper, who insists that memory is safe only when locked away. Seiyon defeats the Keeper by demonstrating that inaccessible memory cannot guide a living future.
 
-Her first Floor Realization asks whether she is real. She answers before seeing the Original:
+Her first Stratum Realization asks whether she is real. She answers before seeing the Original:
 
 > She is real because she chooses to be—and because choice has already changed her.
 
@@ -683,7 +683,7 @@ Readings 2 through 6 reveal the Original's life in stages rather than delivering
 
 Each Memory Leaf offers power and temptation. The Shadow could let Seiyon take the memories she wants. The Archivist could freeze them intact. The Healer could absorb all pain. None alone produces a self.
 
-The middle Floor Realizations expand the story beyond one woman's identity. Majin, the Archive, Somnarak, and the planet all demonstrate different failures of solitary memory: command guilt, possessive preservation, inherited civic sorrow, and grief without an endpoint.
+The middle Stratum Realizations expand the story beyond one woman's identity. Majin, the Archive, Somnarak, and the planet all demonstrate different failures of solitary memory: command guilt, possessive preservation, inherited civic sorrow, and grief without an endpoint.
 
 #### Act III — The Confrontation
 
@@ -1180,7 +1180,7 @@ Grief gives Seiyon emotional substance; fear of non-self threatens to empty that
 Seiyon appears across **four** primary Somnarak stories and operations:
 
 - **_Absolvohan_** — administrative center of the hidden Cycle, Majin's closest operational companion, and engineer of the dispersed Hand of Hope.
-- **_The Memory Archive_** — protagonist of the seven Readings, seven Floor Realizations, confrontation with the Original, Merge, and Promise.
+- **_The Memory Archive_** — protagonist of the seven Readings, seven Stratum Realizations, confrontation with the Original, Merge, and Promise.
 - **_Three Corporations_** — principal R.D. intelligence within the R.D. / SED / UCD framework.
 - **_R.D._** — Echo-Core 2, central Secretary, facility memory, and post-Cycle ethical voice.
 

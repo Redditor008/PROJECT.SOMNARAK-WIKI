@@ -62,7 +62,7 @@ The escape counter drops under specific conditions detailed in the entity's mana
 
 Once an entity breaches, its artificial intelligence dictates movement:
 - **Hallway Roamers:** Move along standard corridors, attacking any auxiliaries or specialists in their path.
-- **Teleporters:** Disappear from view and instantly reappear in populated departmental Main Rooms.
+- **Teleporters:** Disappear from view and instantly reappear in populated departmental Command Rooms.
 - **Ambush Predators:** Cling to elevator ceilings, dropping onto passing combat squads.
 - **Aura Emitters:** Remain stationary in hallway intersections while radiating massive pulses of 🔵 **Lament** or ⚫ **Weight** damage across entire wings.
 
@@ -71,7 +71,7 @@ Once an entity breaches, its artificial intelligence dictates movement:
 To subdue a breaching entity, Wardens orchestrate real-time combat:
 1. **Quarantine:** Evacuate vulnerable recruits and unarmored auxiliaries from the target corridor.
 2. **Squad Muster:** Assemble specialists armed with M.A.W. weapons matching the entity's elemental weakness.
-3. **Clash Engagement:** Intercept the entity in a wide hallway or Main Room, utilizing frontline tanks equipped with resistant suits to absorb blows.
+3. **Clash Engagement:** Intercept the entity in a wide hallway or Command Room, utilizing frontline tanks equipped with resistant suits to absorb blows.
 4. **Stagger & Subdue:** Reducing the entity's health bar to zero forces it into a collapsed state, triggering robotic recovery drones that transport it back into containment.
 
 ## 6 Post-Suppression Behavioral Resets

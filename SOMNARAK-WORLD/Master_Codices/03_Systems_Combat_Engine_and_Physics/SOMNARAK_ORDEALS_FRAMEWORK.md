@@ -33,7 +33,7 @@
 
 To maintain absolute clarity across Directorate operations, Facility 01 categorizes all combat emergencies into three mutually exclusive structural crises:
 
-| Diagnostic Metric | Ordeals (시련 — Siryeon) | Sorrow Entity Breaches (격리 탈출) | Echo-Core Suppressions (핵 진압 결전) |
+| Diagnostic Metric | Ordeals (시련 — Siryeon) | Sorrow Entity Breaches (격리 탈출) | Echo-Core Realizations (핵 진압 결전) |
 |---|---|---|---|
 | **Metaphysical Origin** | Spontaneous atmospheric Han accumulation | Sentient crystallization from the Weeping | Saturation of an Echo-Core's human soul |
 | **Identity & Form** | Faceless, non-unique elemental constructs | Catalogued unique beings with personal tales | Department Lead in terminal trauma breakdown |

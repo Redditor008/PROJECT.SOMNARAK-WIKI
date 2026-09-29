@@ -281,9 +281,9 @@ Before the floor sirens can quiet down, the primary illumination shifts to an ee
 
 ```text
 +=====================================================================+
-|             TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL             |
+|             TACTICAL DOSSIER: FIRST WATCH ORDEAL                    |
 +---------------------------------------------------------------------+
-| DESIGNATION           : THE VOICE (FIRST WATCH OF DAWN)             |
+| DESIGNATION           : THE VOICE (FIRST WATCH)                     |
 | CLASSIFICATION        : PALE (CYAN) FIRST WATCH SPECTRAL ENTITY     |
 | INTRUSION COORDINATES : FLOOR 1 CORRIDOR WEST (NODE 03 ENTRY)       |
 | HOSTILE PARAMETERS    : HP 140/140 | Posture 80/80 | Speed 4 (2 AP) |

@@ -3591,7 +3591,7 @@ Each Echo-Core has a **preferred Work Type** — the approach they use most ofte
 **How to treat Corrosion:**
 - **Stage 1:** Rest and reflection — the whispers fade with distance
 - **Stage 2:** M.A.W. removal — painful, but necessary
-- **Stage 3:** Core Suppression-level intervention — forces the entity back
+- **Stage 3:** Core Realization-level intervention — forces the entity back
 - **Stage 4:** **No known treatment** — the wearer is lost
 
 ---
@@ -3736,7 +3736,7 @@ The Director's answer: *"It doesn't matter. The R.D.'s work will resolve everyth
   - Correct Work Type is used — effective work drains sorrow
   - Containment is reinforced — Architect-shored barriers reduce accumulation
   - Echoes are fed to the entity — providing a "release valve" for stored sorrow
-  - Core Suppression is performed — resets the gauge to zero
+  - Core Realization is performed — resets the gauge to zero
 
 **Gauge Levels:**
 
@@ -3792,7 +3792,7 @@ Not all breaches are the same. The type of breach depends on the entity's **Sorr
 
 **How to resolve:**
 - **Adapt** — adjust Work Types and containment to match the new form
-- **Suppress** — use Core Suppression-level intervention to force the entity back
+- **Suppress** — use Core Realization-level intervention to force the entity back
 - **Extract** — perform emergency M.A.W. extraction before the transformation completes
 
 ---
@@ -5296,7 +5296,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 > *All Three SED, UCD, and R.D. happen BEFORE the Dawn of Hope. ANYTHING ELSE happens AFTER the Dawn of Hope. UNK SE happens strictly AFTER R.D. The 1,778 Mnemonic Cycles are viewable ONLY through R.D. + The Absolvohan; no division outside R.D. references Cycles.*
 > - **Ante-Dawn Era (Before Dawn of Hope — Sequential Triad):** SED (Katabagil Descents 1–7; calendar years) -> UCD (Katharcheok Purges 1–6; calendar years) -> R.D. (The Absolvohan Facility 01 Containment Cycles 0001–1,778).
 > - **The Watershed Turning Point:** The Dawn of Hope (Year 4,238 / R.D. Cycle 1,778) — Hand of Hope opens (15% hope transmutation).
-> - **Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):** UNK SE (Unknown Sorrow Entities, strictly AFTER R.D.), The Dawn Initiative & The Lantern, The Horizon Caravan overland crossing, The Memory Archive floor realizations, The Wound Walkers pilgrimage, and continental reconstruction. All operate in linear calendar years.
+> - **Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):** UNK SE (Unknown Sorrow Entities, strictly AFTER R.D.), The Dawn Initiative & The Lantern, The Horizon Caravan overland crossing, The Memory Archive stratum realizations, The Wound Walkers pilgrimage, and continental reconstruction. All operate in linear calendar years.
 
 ### SED — Somnarak Exploration Decreed
 
@@ -5352,7 +5352,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 **Key Systems:**
 - Entity containment and M.A.W. extraction
 - Han-Energy production
-- Core Suppression
+- Core Realization
 - Research and Observation
 - Entity containment and management
 

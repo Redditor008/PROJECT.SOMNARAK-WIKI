@@ -207,7 +207,7 @@ Workshop armaments integrate seamlessly into the **Somnarak Grid Battle System (
 ## 7. Referenced Codices & Institutional Archives
 
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md`: Core combat engine and damage types.
-- `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md`: Master Wright Gwan and industrial wing doctrines.
+- `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md`: Master Wright Gwan and industrial arm doctrines.
 - `SOMNARAK-WORLD/Mugenhan_Ecology/MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`: Tier 2 Beast taxonomy and biological harvesting laws.
 - `GAME_BATTLE/INTRODUCTION_AND_GUIDE.md`: Standard Operating Procedure for tactical combat encounters.
 - `SESSION_BREAK_PRECAUTION.md`: Section 7 Handover Caution & Owner Specifications.

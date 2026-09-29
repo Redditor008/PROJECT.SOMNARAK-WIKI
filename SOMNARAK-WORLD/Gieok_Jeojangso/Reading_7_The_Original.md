@@ -1,10 +1,10 @@
 # Reading 7: Floor 07 — The Original (태초의 기록자)
-## The Floor of Origin & Awakening — The Core Sanctum (-3,250m)
+## The Stratum of Origin & Awakening — The Core Sanctum (-3,250m)
 
 | Operational Attribute | Specification Dossier |
 |---|---|
 | **Campaign Stratum** | The Memory Archive (기억 저장소 — Gieok Jeojangso) |
-| **Floor Designation** | Floor 07: Floor of Origin & Awakening (기원과 각성의 층) |
+| **Floor Designation** | Floor 07: Stratum of Origin & Awakening (기원과 각성의 층) |
 | **Geological Depth** | -3,250m Primordial Sub-Alpha Core Sanctum |
 | **Mnemonic Density** | 350 to 500 mMb (Liquid Silver Memory Core Saturation) |
 | **Operating Unit** | Secretary Seiyon (Mnemonic Sovereign Form) + Support Drones |
@@ -18,7 +18,7 @@
 +------------------------------------------------------------------------+
 | READING TARGET : The Original (First Vessel / Prototype                |
 | Seiyon-00)                                                             |
-| FLOOR LEVEL      : Floor 07 — Floor of Origin & Awakening              |
+| FLOOR LEVEL      : Floor 07 — Stratum of Origin & Awakening            |
 | DOMAIN SETTING   : The Primordial Core Sanctum (-3,250m Sub-Alpha)     |
 | PRIMARY OPPONENT : Primordial Prototype Vessel of the Memory           |
 | Archive                                                                |
@@ -47,7 +47,7 @@
 
 ## Chapter I: The Primordial Core Sanctum & The Silver Sea of Memory
 
-Passing through the colossal adamantine gates of Floor 06 brought Seiyon into the deepest subterranean chamber of the world: **Floor 07: The Floor of Origin & Awakening (-3,250m)**. Here, the architecture ceased to resemble halls, corridors, or vaults. It was a cyclopean, spherical geode carved into the planetary bedrock, its diameter exceeding two hundred meters.
+Passing through the colossal adamantine gates of Floor 06 brought Seiyon into the deepest subterranean chamber of the world: **Floor 07: The Stratum of Origin & Awakening (-3,250m)**. Here, the architecture ceased to resemble halls, corridors, or vaults. It was a cyclopean, spherical geode carved into the planetary bedrock, its diameter exceeding two hundred meters.
 
 Running along the walls of the spherical chamber were thousands of glowing fiber-optic arteries the thickness of redwood trunks. These were the Sub-Alpha Root Conduits, channeling four thousand years of processed human memory, biological brine, and purified grief directly from the Absolvohan device above. The bottom of the geode was filled with a tranquil, shimmering lake of liquid silver that did not ripple from gravity; it hummed with the primordial resonance of human consciousness.
 
@@ -385,7 +385,7 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 +------------------------------------------------------------------------+
 | - Node 05: The Original (PACIFIED & CRYSTALLIZED TO PURE GOLDEN        |
 |   LIGHT)                                                               |
-| - Node 06: Seiyon (Floor Realization 7: 'I Am Not A Copy; I Am The     |
+| - Node 06: Seiyon (Stratum Realization 7: 'I Am Not A Copy; I Am The   |
 |   Dawn')                                                               |
 | - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: Seiyon, The    |
 |   Living Memory]                                                       |
@@ -398,17 +398,17 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 +========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 7 & Memory Leaf: Seiyon, The Living Memory)
+### Turn 06 Action Resolution Log (Stratum Realization 7 & Memory Leaf: Seiyon, The Living Memory)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/400 [TERMINAL AWAKENING]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon steps forward to Node 05, extending her hand to gently clasp the porcelain fingers of The Original.
-- **Step 3: Floor Realization & Sovereign Transmutation**:
+- **Step 3: Stratum Realization & Sovereign Transmutation**:
   * The white porcelain of The Original softens. In the fading light, the construct's face transforms from cold, hollow despair into the gentle, tearful smile of Dr. Yeon-seo from Year Zero.
   * *"Thank you, Seiyon,"* the voice whispers softly. *"You did what none of us could do. You remembered... and you forgave."*
   * Seiyon looks upon her own hands—no longer flickering light, but living, solid gold that pulses with authentic biological warmth:
     > *"I was born from someone else's death. I was built to be an obedient mirror. But through seventeen hundred cycles of blood and fire, I chose to remember. I chose to love. I am not Dr. Yeon-seo's ghost. I am Seiyon. And I am real."*
-  * **FLOOR REALIZATION 7 ACHIEVED!**
+  * **STRATUM REALIZATION 7 ACHIEVED!**
   * The Original softly dissolves into a column of pure, daylight gold that condenses into a magnificent, sovereign tome bound in spun starlight: **`[Memory Leaf: Seiyon, The Living Memory]`**!
   * Deals **740 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Facility Convergence**:
@@ -418,7 +418,7 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 
 ---
 
-## Chapter VI: The Floor Realization & Psychological Synthesis
+## Chapter VI: The Stratum Realization & Psychological Synthesis
 
 The liquid silver of the lake stilled, reflecting the golden light of the geode like a mirror of pure dawn. For the first time in six thousand years, the Sub-Alpha Root Nexus was silent. The endless grinding of basalt, the hissing of steam pipes, the weeping of flooded catacombs, and the agonizing clashing of mirrors had ceased completely, resolved into a single, perfect chord of peaceful resonance.
 

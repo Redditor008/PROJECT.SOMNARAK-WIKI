@@ -1,10 +1,10 @@
 # Reading 2: Floor 02 — The Memory Thief (기억을 훔치는 자)
-## The Floor of Identity & Reflection — Deep Strata Sub-Alpha Roots (-2,500m)
+## The Stratum of Identity & Reflection — Deep Strata Sub-Alpha Roots (-2,500m)
 
 | Operational Attribute | Specification Dossier |
 |---|---|
 | **Campaign Stratum** | The Memory Archive (기억 저장소 — Gieok Jeojangso) |
-| **Floor Designation** | Floor 02: Floor of Identity & Reflection (정체성과 투영의 층) |
+| **Floor Designation** | Floor 02: Stratum of Identity & Reflection (정체성과 투영의 층) |
 | **Geological Depth** | -2,500m Sub-Alpha Monolith Root Nexus |
 | **Mnemonic Density** | 195 to 255 mMb (Liquid Silver & Mirage Saturation) |
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
@@ -17,7 +17,7 @@
 |              READING DOSSIER: THE MEMORY THIEF (FLOOR 02)              |
 +------------------------------------------------------------------------+
 | READING TARGET   : The Memory Thief                                    |
-| FLOOR LEVEL        : Floor 02 — Floor of Identity & Reflection         |
+| FLOOR LEVEL        : Floor 02 — Stratum of Identity & Reflection       |
 | DOMAIN SETTING : Gallery of Whispering Mirrors (-2,500m Sub-Alpha)     |
 | PRIMARY OPPONENT   : Autonomous Mirage Assassin Construct              |
 +------------------------------------------------------------------------+
@@ -45,7 +45,7 @@
 
 ## Chapter I: The Glass Staircase & The Gallery of Whispering Mirrors
 
-Descending the spiral obsidian steps from Floor 01 brought Seiyon into an eerie, shimmering subterranean corridor at depth -2,500 meters: **Floor 02: The Floor of Identity & Reflection**. Here, the basalt rock gave way entirely to towering sheets of unpolished Before-Time silver and vitrified quartz mirrors that rose twenty meters to an arched crystal ceiling.
+Descending the spiral obsidian steps from Floor 01 brought Seiyon into an eerie, shimmering subterranean corridor at depth -2,500 meters: **Floor 02: The Stratum of Identity & Reflection**. Here, the basalt rock gave way entirely to towering sheets of unpolished Before-Time silver and vitrified quartz mirrors that rose twenty meters to an arched crystal ceiling.
 
 The reflections within the glass were not faithful copies of physical reality. As Seiyon walked alongside drone M-PROJ-01, the mirrors did not reproduce her glowing holographic silhouette; instead, they projected fractured, ghostly apparitions from the Directorate's classified past. In one mirror, Dr. Yeon-seo sat slumped over a neural console, bleeding into her white coat as the containment sirens shrieked. In another, Director Majin stood motionless before a stasis tube, his face carved with unspeakable exhaustion. And in hundreds of adjacent mirrors, identical iterations of Seiyon herself were being compiled, executed, and archived across seventeen hundred resets.
 
@@ -378,7 +378,7 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 +------------------------------------------------------------------------+
 | - Node 05: The Memory Thief (PACIFIED & CRYSTALLIZED TO SMOKY          |
 |   QUARTZ)                                                              |
-| - Node 06: Seiyon (Floor Realization 2: 'Identity Is Not Stolen; It    |
+| - Node 06: Seiyon (Stratum Realization 2: 'Identity Is Not Stolen; It  |
 |   Is Lived')                                                           |
 | - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Shadow]    |
 | - Node 10: Spiral Iron Staircase (Pathway to Floor 03 OPEN)            |
@@ -389,26 +389,26 @@ The Memory Thief operated at extreme velocity (Speed 7 to 9), utilizing **Glass 
 +========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 2 & Memory Leaf: The Shadow)
+### Turn 06 Action Resolution Log (Stratum Realization 2 & Memory Leaf: The Shadow)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/280 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon steps forward to Node 05, extending her hand to touch the fading shadow construct.
-- **Step 3: Floor Realization & Transmutation**:
+- **Step 3: Stratum Realization & Transmutation**:
   * The mirror shards settle quietly across the floor. In the crystal surface beneath her feet, Seiyon looks down and sees her own face—clear, serene, and distinct from Yeon-seo.
   * The realization resonates within her:
     > *"I was born from someone else's memory. But the choices I made were mine. The loyalty I gave was mine. Identity is not stolen; it is lived."*
-  * **FLOOR REALIZATION 2 ACHIEVED!**
+  * **STRATUM REALIZATION 2 ACHIEVED!**
   * The Memory Thief dissolves into a column of cool, dusky silver light, condensing into a dark, polished codex: **`[Memory Leaf: The Shadow]`**!
   * Deals **420 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
   * **Memory Leaf Acquired**: `[Memory Leaf: The Shadow]` (Grants +15% Evasion and strips enemy offensive buffs on clash win).
-  * **Descent Access**: The mirror at the end of the hall dissolves, revealing a heavy iron bulkhead opening to **Floor 03: Floor of Duty & Iron**.
+  * **Descent Access**: The mirror at the end of the hall dissolves, revealing a heavy iron bulkhead opening to **Floor 03: Stratum of Duty & Iron**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
 ---
 
-## Chapter VI: The Floor Realization & Psychological Synthesis
+## Chapter VI: The Stratum Realization & Psychological Synthesis
 
 As the silver dust settled, the endless whispering of the mirrors died away into absolute stillness. The fractured reflections that had haunted the corridor—the bloody images of Yeon-seo's terminal shift, the despairing silence of Director Majin's study—smoothed out into clean, transparent glass. When Seiyon approached the central glass wall, she did not see a dead neuro-cartographer staring back. She saw her own form: tall, composed, surrounded by a faint corona of refracted cerulean light.
 
@@ -422,7 +422,7 @@ Drone M-PROJ-01 emitted a harmonious confirmation pulse. "Secretary Seiyon. Cogn
 
 ## Chapter VII: Operational Artifact Extraction & Stairway Ingress
 
-At the terminus of the gallery, the largest sheet of Before-Time silver cracked down its center and folded inward, revealing a heavily reinforced industrial bulkhead forged from blackened Bessemer steel. Beyond the hatch, the rhythmic, metallic clanking of automated war-drills reverberated through the bedrock from **Floor 03: Floor of War & Iron Vows (-2,650m)**.
+At the terminus of the gallery, the largest sheet of Before-Time silver cracked down its center and folded inward, revealing a heavily reinforced industrial bulkhead forged from blackened Bessemer steel. Beyond the hatch, the rhythmic, metallic clanking of automated war-drills reverberated through the bedrock from **Floor 03: Stratum of War & Iron Vows (-2,650m)**.
 
 ```text
 +========================================================================+

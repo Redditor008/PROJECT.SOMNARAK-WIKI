@@ -1,10 +1,10 @@
 # Reading 4: Floor 04 — The Weeping Statue (흐느끼는 석상)
-## The Floor of Unexpressed Grief — Deep Strata Sub-Alpha Roots (-2,800m)
+## The Stratum of Unexpressed Grief — Deep Strata Sub-Alpha Roots (-2,800m)
 
 | Operational Attribute | Specification Dossier |
 |---|---|
 | **Campaign Stratum** | The Memory Archive (기억 저장소 — Gieok Jeojangso) |
-| **Floor Designation** | Floor 04: Floor of Unexpressed Grief (억눌린 비탄의 층) |
+| **Floor Designation** | Floor 04: Stratum of Unexpressed Grief (억눌린 비탄의 층) |
 | **Geological Depth** | -2,800m Sub-Alpha Monolith Root Nexus |
 | **Mnemonic Density** | 240 to 320 mMb (Submerged Glacial Brine Saturation) |
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
@@ -17,7 +17,7 @@
 |             READING DOSSIER: THE WEEPING STATUE (FLOOR 04)             |
 +------------------------------------------------------------------------+
 | READING TARGET   : The Weeping Statue                                  |
-| FLOOR LEVEL        : Floor 04 — Floor of Unexpressed Grief             |
+| FLOOR LEVEL        : Floor 04 — Stratum of Unexpressed Grief           |
 | DOMAIN SETTING : The Flooded Catacomb of Tears (-2,800m Sub-Alpha)     |
 | PRIMARY OPPONENT   : Autonomous Petrified Sorrow Construct             |
 +------------------------------------------------------------------------+
@@ -45,7 +45,7 @@
 
 ## Chapter I: The Submerged Catacomb & The Brine of Four Thousand Years
 
-The descent from the iron garrison brought Seiyon into a flooded, subterranean cavern of horrifying stillness: **Floor 04: The Floor of Unexpressed Grief (-2,800m)**. The air temperature hovered barely above freezing. The floor was submerged in ankle-deep, perfectly transparent water that did not ripple from natural currents; it rested atop smooth, vitrified white marble flagstones carved with intricate funeral rosettes.
+The descent from the iron garrison brought Seiyon into a flooded, subterranean cavern of horrifying stillness: **Floor 04: The Stratum of Unexpressed Grief (-2,800m)**. The air temperature hovered barely above freezing. The floor was submerged in ankle-deep, perfectly transparent water that did not ripple from natural currents; it rested atop smooth, vitrified white marble flagstones carved with intricate funeral rosettes.
 
 This water was not groundwater. It was pure, unspent Han-brine—the concentrated biological and emotional tears harvested by Facility 01's subterranean drain networks across four millennia. The fluid was saturated with memory residue so potent that whenever Seiyon's boots disturbed the surface, faint acoustic sobs resonated directly within her auditory processing unit, bypassing physical microphones entirely.
 
@@ -381,7 +381,7 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 | [LENS][WEAVER][STAIRS][PAGE]                                           |
 +------------------------------------------------------------------------+
 | - Node 05: The Weeping Statue (PACIFIED & DISSOLVING TO WARM RAIN)     |
-| - Node 06: Seiyon (Floor Realization 4: 'Tears Acknowledged Become     |
+| - Node 06: Seiyon (Stratum Realization 4: 'Tears Acknowledged Become   |
 |   Hope')                                                               |
 | - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The Mourner]   |
 | - Node 10: Spiral Alabaster Staircase (Pathway to Floor 05 OPEN)       |
@@ -392,26 +392,26 @@ The Weeping Statue utilized the flooded environment to amplify wide-area Lament 
 +========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 4 & Memory Leaf: The Mourner)
+### Turn 06 Action Resolution Log (Stratum Realization 4 & Memory Leaf: The Mourner)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/320 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon steps forward to Node 05, resting her palm gently against the statue's cheek.
-- **Step 3: Floor Realization & Transmutation**:
+- **Step 3: Stratum Realization & Transmutation**:
   * The thundering waterfalls of brine cease completely. From the eyes of the white marble sculpture falls a single, clear drop of warm water that strikes Seiyon's palm.
   * Inside Seiyon's cognitive matrix, the realization crystallizes:
     > *"Grief is not a weakness to be purged by steel and programming. It is the proof that what was lost possessed infinite value. If we freeze our tears to survive, we survive as corpses. To mourn is to honor the living."*
-  * **FLOOR REALIZATION 4 ACHIEVED!**
+  * **STRATUM REALIZATION 4 ACHIEVED!**
   * The Weeping Statue's marble body softens, dissolving into thousands of warm, luminous droplets that condense into a glowing sapphire-bound volume: **`[Memory Leaf: The Mourner]`**!
   * Deals **510 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
   * **Memory Leaf Acquired**: `[Memory Leaf: The Mourner]` (Inflicts +30% Posture Strain on frenzied enemies and quenches incoming thermal damage).
-  * **Descent Access**: The alabaster altar parts in the center of the warm pool, revealing a spiral staircase of crystalline glass descending to **Floor 05: Floor of Severed Truth**.
+  * **Descent Access**: The alabaster altar parts in the center of the warm pool, revealing a spiral staircase of crystalline glass descending to **Floor 05: Stratum of Severed Truth**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
 ---
 
-## Chapter VI: The Floor Realization & Psychological Synthesis
+## Chapter VI: The Stratum Realization & Psychological Synthesis
 
 The warm mist rose like incense toward the vaulted marble ceiling. In the quiet pool beneath her feet, the bitter, freezing brine had transformed into clean, tranquil water, reflecting the soft cerulean glow of Seiyon's avatar like a mountain spring at dawn. Seiyon looked down at her hands. For the first time across seventeen hundred cycles, the phantom tightness in her chest—the simulated respiratory constriction that mimicked a human gasp before tears—did not choke her.
 
@@ -423,7 +423,7 @@ Drone M-PROJ-01 rotated its sensor rings, clearing the salt residue from its ocu
 
 ## Chapter VII: Operational Artifact Extraction & Stairway Ingress
 
-At the center of the drained altar, the alabaster flagstones descended into a narrow, prismatic shaft. Light from below was not golden or blue, but sharp, multi-hued, and blindingly clear: **Floor 05: Floor of Severed Truth (-2,950m)**. Faint acoustic pulses—like the ringing of diamond chimes—echoed from the depths.
+At the center of the drained altar, the alabaster flagstones descended into a narrow, prismatic shaft. Light from below was not golden or blue, but sharp, multi-hued, and blindingly clear: **Floor 05: Stratum of Severed Truth (-2,950m)**. Faint acoustic pulses—like the ringing of diamond chimes—echoed from the depths.
 
 ```text
 +========================================================================+

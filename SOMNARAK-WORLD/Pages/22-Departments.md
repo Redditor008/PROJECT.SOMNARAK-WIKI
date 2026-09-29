@@ -12,7 +12,7 @@ Facility 01 does not treat departments as abstract corporate divisions; they are
 +------------------------------------------------------------------------+
 | Total Floors           | 9 Floors (Floors 1 to 8 + Central Command)    |
 | Department Partition   | Shallow Floors (1 to 4) - Deep Floors (5 to 8)|
-| Standard Rooms         | Main Room - Containment (max 4) - Hall - Hub  |
+| Standard Rooms         | Command Room - Containment (max 4) - Hall/Hub |
 | Restorative Grid       | Healing Generator (6 HP/SP Base - 12 Max)     |
 +========================================================================+
 ```
@@ -20,7 +20,7 @@ Facility 01 does not treat departments as abstract corporate divisions; they are
 ## Contents
 
 - [1 Architectural Structure and Room Types](#1-architectural-structure-and-room-types)
-  - [1.1 The Main Room and Healing Generator](#11-the-main-room-and-healing-generator)
+  - [1.1 The Command Room and Healing Generator](#11-the-command-room-and-healing-generator)
   - [1.2 Containment Units](#12-containment-units)
   - [1.3 Corridors and Hallways](#13-corridors-and-hallways)
   - [1.4 Elevator Hubs](#14-elevator-hubs)
@@ -39,19 +39,19 @@ Every department within Facility 01 is engineered according to a standardized ar
 
 | Room Type | Count per Floor | Core Function | Hazard Note |
 |---|---|---|---|
-| Main Room | 1 | Command, rest, Healing Generator (6 HP/SP) | Generator dies if hostiles enter |
+| Command Room | 1 | Command, rest, Healing Generator (6 HP/SP) | Generator dies if hostiles enter |
 | Containment Units | Up to 4 | Entity housing behind Han lattice | Each breach threatens the floor |
 | Corridors | 2 wings | Transit and suppression battleground | Primary clash terrain |
 | Elevator Hubs | 2 shafts | Vertical transit between floors | Sealed during Reverberations |
 
-### 1.1 The Main Room and Healing Generator
+### 1.1 The Command Room and Healing Generator
 
-The **Main Room** serves as the central command atrium and resting quarters for all specialists stationed on that floor. It is equipped with tactical briefing consoles, equipment racks, and direct comms lines to the floor's Echo-Core.
+The **Command Room** serves as the central command atrium and resting quarters for all specialists stationed on that floor. It is equipped with tactical briefing consoles, equipment racks, and direct comms lines to the floor's Echo-Core.
 
-Crucially, every Main Room houses a **Departmental Healing Generator** — an acoustic resonance coil that continually emits stabilizing harmonics. 
-- While stationed inside the Main Room, all resting personnel recover **6 HP and 6 SP** per pulse.
+Crucially, every Command Room houses a **Departmental Healing Generator** — an acoustic resonance coil that continually emits stabilizing harmonics. 
+- While stationed inside the Command Room, all resting personnel recover **6 HP and 6 SP** per pulse.
 - Through departmental research unlocked at [15-Research](15-Research.md), this output can be upgraded to **12 HP and 12 SP** per pulse.
-- **Fail-Safe Shutdown:** If a hostile sorrow entity, rogue specialist, or Ordeal incursion breaches into the Main Room, the Healing Generator immediately shuts down, depriving personnel of restorative regeneration until the room is purged of threats.
+- **Fail-Safe Shutdown:** If a hostile sorrow entity, rogue specialist, or Ordeal incursion breaches into the Command Room, the Healing Generator immediately shuts down, depriving personnel of restorative regeneration until the room is purged of threats.
 
 ### 1.2 Containment Units
 
@@ -61,7 +61,7 @@ The front of each unit features an armored viewing port, an airlock entry door, 
 
 ### 1.3 Corridors and Hallways
 
-Reinforced transit tunnels connecting the Main Room to individual containment cells. Corridors are equipped with automated sprinkler systems, acoustic baffles, and blast doors. Hallways serve as the primary battleground where suppression squads intercept and engage mobile, breaching Subject entities.
+Reinforced transit tunnels connecting the Command Room to individual containment cells. Corridors are equipped with automated sprinkler systems, acoustic baffles, and blast doors. Hallways serve as the primary battleground where suppression squads intercept and engage mobile, breaching Subject entities.
 
 ### 1.4 Elevator Hubs
 
@@ -107,14 +107,14 @@ During a Reverberation crisis:
 - The department's Healing Generator immediately shuts down.
 - Containment units on that floor undergo spontaneous agitation, halving their breach thresholds.
 - Environmental distortions afflict all stationed personnel, reversing sensory inputs or draining vital energy.
-- To resolve the crisis, the Warden must direct specialists to undergo a **Floor Realization** trial, confronting the Echo-Core's manifestation and restoring harmonic balance to the department.
+- To resolve the crisis, the Warden must direct specialists to undergo a **Stratum Realization** trial, confronting the Echo-Core's manifestation and restoring harmonic balance to the department.
 
 ## 6 Gallery
 
 | Command Atrium | Containment Corridor |
 |---|---|
-| [![Department Main Room](images/department-main-room.svg)](images/department-main-room.svg) | [![Containment Unit Corridor](images/containment-unit-corridor.svg)](images/containment-unit-corridor.svg) |
-| *Main Room with restorative generator* | *Cell corridor and airlock gates* |
+| [![Department Command Room](images/department-command-room.svg)](images/department-command-room.svg) | [![Containment Unit Corridor](images/containment-unit-corridor.svg)](images/containment-unit-corridor.svg) |
+| *Command Room with restorative generator* | *Cell corridor and airlock gates* |
 
 | Vertical Transit | Facility Blueprint |
 |---|---|
@@ -128,4 +128,4 @@ During a Reverberation crisis:
 - [06-Personnel](06-Personnel.md) — directors, specialists, and companies
 - [14-Echo-Cores](14-Echo-Cores.md) — individual director dossiers and mechanics
 - [15-Research](15-Research.md) — departmental research tree upgrades
-- [11-Reverberations](11-Reverberations.md) — department meltdown crises and floor realizations
+- [11-Reverberations](11-Reverberations.md) — department meltdown crises and stratum realizations

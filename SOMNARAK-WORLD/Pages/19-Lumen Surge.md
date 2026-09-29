@@ -13,7 +13,7 @@ Energy in the Somnarak world is harvested directly from the psychological resona
 | Core Energy Form       | Han-Energy distilled into Lumen Units (LU)    |
 | Extraction Yield       | Positive Boxes (Lumen) vs Negative Boxes (Frac|
 | Daily Quota Target     | 100% Minimum Baseline for Shift Completion    |
-| Overcharge Bonus       | Surplus harvesting yields bonus LOB points    |
+| Overcharge Bonus       | Overcharge yields bonus investment credits    |
 | Crystalline Storage    | Mnemonic Generator (0.02 tons per cycle)      |
 +========================================================================+
 ```
@@ -54,18 +54,18 @@ The total capacity of energy an entity can yield during a single work session is
 
 Every operational day assigns a mandatory energy target:
 - **Baseline Clearance (100%):** Once the gauge reaches full capacity, the *Shift Complete* emergency override unlocks, allowing the Warden to terminate the shift instantly.
-- **The Overcharge Protocol:** Wardens may elect to continue working beyond 100% quota. Every additional 10% of overcharged Lumen converts into bonus LOB credits at shift evaluation, funding advanced specialist training and equipment fabrication.
+- **The Overcharge Protocol:** Wardens may elect to continue working beyond 100% quota. Every additional 10% of overcharged Lumen converts into bonus investment credits at shift evaluation, funding advanced specialist training and equipment fabrication.
 - **The Greed Dilemma:** Overcharging requires performing more work sessions, advancing the [Containment Levels](18-Containment%20Levels.md) gauge and risking devastating late-shift Ordeals.
 
 ## 4 Overcharge Economic Efficiency Table
 
-| Quota Percentage | Energy Yield | Bonus LOB Points | Operational Risk Factor |
+| Quota Percentage | Energy Yield | Bonus Investment Credits | Operational Risk Factor |
 |---|---|---|---|
 | **100% (Baseline)** | Standard Quota | 0 Bonus | Standard shift clearance; minimal risk. |
-| **110% Overcharge** | +10% Lumen | +2 LOB Credits | Minor meltdown gauge advance (+2 works). |
-| **125% Overcharge** | +25% Lumen | +5 LOB Credits | Moderate risk; possible Dusk Ordeal. |
-| **150% Overcharge** | +50% Lumen | +12 LOB Credits | High risk; Tide Watch likely. |
-| **200% Overcharge** | Double Quota | +25 LOB Credits | Extreme crisis; multiple simultaneous meltdowns. |
+| **110% Overcharge** | +10% Lumen | +2 Investment Credits | Minor meltdown gauge advance (+2 works). |
+| **125% Overcharge** | +25% Lumen | +5 Investment Credits | Moderate risk; possible Third-Watch Ordeal. |
+| **150% Overcharge** | +50% Lumen | +12 Investment Credits | High risk; Tide Watch likely. |
+| **200% Overcharge** | Double Quota | +25 Investment Credits | Extreme crisis; multiple simultaneous meltdowns. |
 
 ## 5 The Mnemonic Generator and Crystalline Storage
 

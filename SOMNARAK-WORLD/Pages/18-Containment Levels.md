@@ -14,7 +14,7 @@ Every time a specialist completes a work session with a [Sorrow Entity](07-Sorro
 | Advance Mechanism      | Fills by 1 segment per completed work session |
 | Hazard State           | Random Cell Overloads with 60-Second Timers   |
 | Failure Penalty        | Lumen Drain & Entity Escape Counter Reduction |
-| Ordeal Correlation     | Dawn (Level II-III) - Noon - Dusk - Midnight  |
+| Ordeal Correlation     | First (Level II-III) - Second - Third - Tide  |
 +========================================================================+
 ```
 

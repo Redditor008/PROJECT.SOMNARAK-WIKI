@@ -58,7 +58,7 @@ This division between the known and the cloaked is not merely an aristocratic va
 
 ## 3. In-Depth Profiles: The Known Leadership
 
-Only a handful of figures within the Council have their identities confirmed across open civic ledgers. These individuals serve as the living bridges between the hidden council chambers, the Five Institutional Wings, and the civilian populace.
+Only a handful of figures within the Council have their identities confirmed across open civic ledgers. These individuals serve as the living bridges between the hidden council chambers, the Five Sovereign Institutions, and the civilian populace.
 
 ### 3.1 Chief of Staff Yeong (영) — The Auxiliary Who Knew Everything
 - **Civil Designation:** Chief of Staff to the Council Secretariat

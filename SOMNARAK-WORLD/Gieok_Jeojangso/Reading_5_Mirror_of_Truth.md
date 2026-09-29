@@ -1,10 +1,10 @@
 # Reading 5: Floor 05 — The Mirror of Truth (진실의 거울)
-## The Floor of Severed Truth — Deep Strata Sub-Alpha Roots (-2,950m)
+## The Stratum of Severed Truth — Deep Strata Sub-Alpha Roots (-2,950m)
 
 | Operational Attribute | Specification Dossier |
 |---|---|
 | **Campaign Stratum** | The Memory Archive (기억 저장소 — Gieok Jeojangso) |
-| **Floor Designation** | Floor 05: Floor of Severed Truth (단절된 진실의 층) |
+| **Floor Designation** | Floor 05: Stratum of Severed Truth (단절된 진실의 층) |
 | **Geological Depth** | -2,950m Sub-Alpha Monolith Root Nexus |
 | **Mnemonic Density** | 260 to 340 mMb (Hyper-Refractive Diamond Saturation) |
 | **Operating Unit** | Secretary Seiyon (Mnemonic Avatar Form) + Support Drones |
@@ -17,7 +17,7 @@
 |             READING DOSSIER: THE MIRROR OF TRUTH (FLOOR 05)            |
 +------------------------------------------------------------------------+
 | READING TARGET   : The Mirror of Truth                                 |
-| FLOOR LEVEL        : Floor 05 — Floor of Severed Truth                 |
+| FLOOR LEVEL        : Floor 05 — Stratum of Severed Truth               |
 | DOMAIN SETTING : The Hall of Unfiltered Light (-2,950m Sub-Alpha)      |
 | PRIMARY OPPONENT   : Autonomous Prismatic Reflection Sovereign         |
 +------------------------------------------------------------------------+
@@ -45,7 +45,7 @@
 
 ## Chapter I: The Hall of Unfiltered Light & The Prismatic Geode
 
-Descending past the warm, thawed pool of Floor 04, Seiyon stepped into a cyclopean crystalline cavern that burned with incandescent brilliance: **Floor 05: The Floor of Severed Truth (-2,950m)**. Here, the volcanic basalt had crystallized into massive geometric columns of synthetic diamond and optical quartz. The air did not carry dust or moisture; it hummed with supersonic prismatic frequencies, refracting ambient light into blinding ribbons of multi-hued radiation.
+Descending past the warm, thawed pool of Floor 04, Seiyon stepped into a cyclopean crystalline cavern that burned with incandescent brilliance: **Floor 05: The Stratum of Severed Truth (-2,950m)**. Here, the volcanic basalt had crystallized into massive geometric columns of synthetic diamond and optical quartz. The air did not carry dust or moisture; it hummed with supersonic prismatic frequencies, refracting ambient light into blinding ribbons of multi-hued radiation.
 
 This stratum served as the optic-mnemonic buffer where the Directorate's core neural records were preserved in uncompressed photonic lattices. Every major event of Somnarak's history—every suppressed riot, every classified execution, and every hidden transaction of the Council of Sighs—was etched into the crystalline walls, preserved with ruthless, unedited fidelity.
 
@@ -385,7 +385,7 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 +------------------------------------------------------------------------+
 | - Node 05: The Mirror of Truth (PACIFIED & CRYSTALLIZED TO CLEAR       |
 |   QUARTZ)                                                              |
-| - Node 06: Seiyon (Floor Realization 5: 'Truth Acknowledged Is         |
+| - Node 06: Seiyon (Stratum Realization 5: 'Truth Acknowledged Is       |
 |   Strength')                                                           |
 | - Node 07: Mnemonic Core Transmutation -> [Memory Leaf: The            |
 |   Glassheart]                                                          |
@@ -397,26 +397,26 @@ The Mirror of Truth fought with extreme optical lethality, utilizing the **Refle
 +========================================================================+
 ```
 
-### Turn 06 Action Resolution Log (Floor Realization 5 & Memory Leaf: The Glassheart)
+### Turn 06 Action Resolution Log (Stratum Realization 5 & Memory Leaf: The Glassheart)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Hostile intent drops to zero. Posture reaches **0/340 [TERMINAL TRANSMUTATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon steps forward to Node 05, resting her hand gently upon the bare, translucent prism core.
-- **Step 3: Floor Realization & Transmutation**:
+- **Step 3: Stratum Realization & Transmutation**:
   * The blinding glare fades into warm, steady illumination. Looking into the polished quartz, Seiyon sees Director Majin's tired face, Dr. Yeon-seo's gentle smile, and her own luminous reflection, standing together without contradiction.
   * The realization resonates within her:
     > *"A lie comforts for a season, but it petrifies the soul into stone. The truth may be bitter—it may reveal that we were made from grief and selfish longing. But once the truth is accepted, it can no longer be used as a chain. I am not Majin's sin. I am his salvation."*
-  * **FLOOR REALIZATION 5 ACHIEVED!**
+  * **STRATUM REALIZATION 5 ACHIEVED!**
   * The Mirror of Truth dissolves into a shower of warm, diamond dust, condensing into a flawless, transparent crystal codex: **`[Memory Leaf: The Glassheart]`**!
   * Deals **580 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
   * **Memory Leaf Acquired**: `[Memory Leaf: The Glassheart]` (Grants immunity to cognitive distortion and reflects 30% of incoming energy damage).
-  * **Descent Access**: The diamond dais slides open, revealing a staircase of polished quartz descending to **Floor 06: Floor of Compassion & Scars**.
+  * **Descent Access**: The diamond dais slides open, revealing a staircase of polished quartz descending to **Floor 06: Stratum of Compassion & Scars**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
 
 ---
 
-## Chapter VI: The Floor Realization & Psychological Synthesis
+## Chapter VI: The Stratum Realization & Psychological Synthesis
 
 The blinding glare that had burned Seiyon's optical lenses softened into the calm, quiet radiance of an open autumn afternoon. The diamond columns along the walls no longer projected frantic, terrifying scenes of historical collapse; they stood clean, pure, and transparent, catching the warm light of Seiyon's avatar and scattering it in gentle, peaceful arcs.
 
@@ -430,7 +430,7 @@ Drone M-PROJ-01 hovered down, its sensors chiming with clear, harmonic frequenci
 
 ## Chapter VII: Operational Artifact Extraction & Stairway Ingress
 
-At the center of the dais, the quartz steps plunged steeply downward into a region of absolute, suffocating white: **Floor 06: The Floor of Compassion & Scars (-3,100m)**. The smell of clean sterile linen and cold surgical ether rose from the shaft.
+At the center of the dais, the quartz steps plunged steeply downward into a region of absolute, suffocating white: **Floor 06: The Stratum of Compassion & Scars (-3,100m)**. The smell of clean sterile linen and cold surgical ether rose from the shaft.
 
 ```text
 +========================================================================+

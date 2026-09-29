@@ -158,10 +158,10 @@ Specialist Shin performed peaceful *Flerehan* communion at the edge of the Maw. 
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL                         |
+| TACTICAL DOSSIER: FIRST WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE SPARK OF TRANSFORMATION                           |
-| CLASSIFICATION : PALE (CYAN) DAWN                                   |
+| CLASSIFICATION : PALE (CYAN) FIRST WATCH                            |
 | INTRUSION POINT : FLOOR 1 RETROFIT VAULT                            |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -606,10 +606,10 @@ Specialist Bae sat beneath the branches of SE-C-IIIγ-140 (*The Weeping Willow*)
 
 ```text
 +=====================================================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
+| TACTICAL DOSSIER: THIRD WATCH ORDEAL                                |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE SLEEPING CHOIR                                    |
-| CLASSIFICATION : LAMENT (WHITE) DUSK                                |
+| CLASSIFICATION : LAMENT (WHITE) THIRD WATCH                         |
 | INTRUSION POINT : FLOOR 2 GALLERY                                   |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1050,7 +1050,7 @@ Specialist Han performed *Viderehan* observation inside Chamber 031 (*The Observ
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE CHORAL HARMONY                                    |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT                               |
+| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 2 BIRD ROTUNDA                              |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1244,7 +1244,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 | maximum +50.                                                        |
 | 3. Containment Check : Celestial Avian Silhouette peacefully        |
 | absorbed.                                                           |
-| 4. OUTCOME : HISTORIC MIDNIGHT HARMONY — ZERO CASUALTIES.           |
+| 4. OUTCOME : HISTORIC TIDE HARMONY — ZERO CASUALTIES.               |
 +=====================================================================+
 ```
 
@@ -1309,7 +1309,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 | maximum +50.                                                        |
 | 3. Containment Check : Celestial Avian Silhouette peacefully        |
 | absorbed.                                                           |
-| 4. OUTCOME : HISTORIC MIDNIGHT HARMONY — ZERO CASUALTIES.           |
+| 4. OUTCOME : HISTORIC TIDE HARMONY — ZERO CASUALTIES.               |
 +=====================================================================+
 ```
 
@@ -1503,7 +1503,7 @@ Specialist Yoon entered Chamber 15, kneeling before the towering, glowing form o
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE DAWN CORONA                                       |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT                               |
+| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 4 RESEARCH HUB                              |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1948,7 +1948,7 @@ Specialist Shin performed the final scheduled *Flerehan* harvest from the Maw. T
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE GATHERING DAWN                                    |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT                               |
+| CLASSIFICATION : PALE (CYAN) TIDE WATCH                             |
 | INTRUSION POINT : FLOOR 1 RETROFIT VAULT                            |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
