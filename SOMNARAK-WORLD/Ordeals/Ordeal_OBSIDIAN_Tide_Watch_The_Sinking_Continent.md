@@ -1,4 +1,4 @@
-# BLACK Tide Watch — The Sinking Continent
+# OBSIDIAN Tide Watch — The Sinking Continent
 
 > *A secondary OBSIDIAN Tide Watch Ordeal — a distinct manifestation of weight sorrow at catastrophic severity.*
 

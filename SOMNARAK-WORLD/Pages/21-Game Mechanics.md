@@ -60,24 +60,24 @@ When an operative performs work, the success of each individual energy tick is d
 - **Meltdown Penalty:** -5% success penalty if working in an overloaded cell.
 
 ### Final Work Outcome Tiers
-At the conclusion of the session, total positive boxes are tallied:
-- **Good (Green):** 70% to 100% positive boxes. Quota earned; entity mood improves.
-- **Normal (Yellow):** 40% to 69% positive boxes. Standard harvest; counter stable.
-- **Bad (Red):** 0% to 39% positive boxes. Operative suffers trauma; entity counter drops.
+At the conclusion of the session, total positive ticks are tallied:
+- **Good (Green):** 70% to 100% positive ticks. Quota earned; entity mood improves.
+- **Normal (Yellow):** 40% to 69% positive ticks. Standard harvest; counter stable.
+- **Bad (Red):** 0% to 39% positive ticks. Operative suffers trauma; entity counter drops.
 
 ## 4 Combat Clashes and Real-Time Suppression
 
 When an entity breaches containment or an Ordeal appears:
 - **Real-Time Positioning:** The Warden orders combat squads to move through corridors and elevators to intercept the target.
 - **Damage Exchange:** Operatives auto-attack based on weapon range and attack speed.
-- **Pressure Matching:** Equip weapons that match the target's elemental vulnerabilities (e.g., strike 🔴 Grudge-vulnerable entities with Red weapons).
+- **Pressure Matching:** Equip weapons that match the target's elemental vulnerabilities (e.g., strike 🔴 Grudge-vulnerable entities with Grudge weapons).
 
 ## 5 Mental Trauma, Dread Levels, and Panic Resolution
 
 Specialists possess both physical Health Points (HP) and mental Sanity Points (SP):
 - Taking 🔵 **Lament** or ⚫ **Weight** damage lowers SP.
 - Witnessing higher-rank entities triggers an immediate **Dread Check**, draining SP instantly.
-- If SP reaches 0, the specialist panics into one of four states: **Murder**, **Suicide**, **Wander**, or **Sabotage**.
+- If SP reaches 0, the specialist panics into one of four states: **Rampage**, **Self-Undoing**, **Drifting**, or **Sabotage**.
 - **Sanity Recovery:** Squadmates can restore a panicked ally's sanity by striking them with 🔵 Lament or ⚪ Void weapons. Once SP refills completely, the specialist returns to normal.
 
 ## 6 Facility Collapse and Game Over Conditions

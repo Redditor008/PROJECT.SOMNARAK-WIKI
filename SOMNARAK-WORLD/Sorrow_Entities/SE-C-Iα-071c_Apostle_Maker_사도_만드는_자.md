@@ -101,7 +101,7 @@
 
 - **Formation:** Apostle Maker is the third stage of the Kind Healer transformation chain. When the Blessing Giver has blessed twelve personnel, the accumulated proto-Hope energy triggers a deeper transformation. The passive kindness of Stage 2 becomes active authority in Stage 3.
 - **The Sorrow:** The original healer's sorrow is still present — buried deep, nearly consumed by the emerging Hope. But it has not been transformed yet. The chain is balanced on a knife's edge: if the proto-Hope overcomes the remaining sorrow, the result is Hope (4a). If the sorrow overwhelms the proto-Hope at the moment of completion, the result is Mourning (4b).
-- **The People:** The twelve blessed are not just healed anymore — they are converted. The conversion process is the entity's version of the Plague Doctor's baptism: a fundamental alteration that cannot be reversed. The converted retain their memories, their skills, their personalities — but they are bound. They serve the chain.
+- **The People:** The twelve blessed are not just healed anymore — they are converted. The conversion process is the entity's version of the lazaret baptism: a fundamental alteration that cannot be reversed. The converted retain their memories, their skills, their personalities — but they are bound. They serve the chain.
 
 ## Behavior
 

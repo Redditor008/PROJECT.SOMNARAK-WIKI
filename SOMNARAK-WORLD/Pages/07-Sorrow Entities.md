@@ -163,7 +163,7 @@ Across the archive, 283 of 292 entities strictly conform to this physical partit
 
 Eighty-eight entities across the archive are designated as **Tool-Type Relic Entities**. Unlike standard specimen entities that demand continuous routine work to extract daily energy quotas, Tools are functional artifacts deployed strategically to benefit the facility.
 
-Tool entities have no standard work preferences and produce no normal Positive Boxes. Instead, they are divided into **Three Distinct Sub-Types**, each featuring unique operational mechanics and information unlocking criteria:
+Tool entities have no standard work preferences and produce no normal Positive Ticks. Instead, they are divided into **Three Distinct Sub-Types**, each featuring unique operational mechanics and information unlocking criteria:
 
 ### 8.1 Single Use Tools
 

@@ -1,4 +1,4 @@
-# BLACK Tide Watch — The Mountain
+# OBSIDIAN Tide Watch — The Mountain
 
 > *""We thought it was a wall. Then the wall stood up.""*
 

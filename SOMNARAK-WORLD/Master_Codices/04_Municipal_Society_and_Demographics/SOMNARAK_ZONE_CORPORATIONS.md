@@ -288,7 +288,7 @@ Within the municipal hierarchy of Somnarak, **The Giltong Cadre (길통 — Gilt
 ### 8.1 The Arbiter Jurisdiction of Giltong
 - **Unconditional Passage:** Giltong Arbiters carry the **Golden Transit Seal (금패 / 金牌)**, granting unrestricted passage across all five zones, sealed military installations, deep-stratum archives, and the Desolate frontier.
 - **Extraterritorial Judicial Authority:** Giltong possesses unilateral authority to conduct audits, seize corporate assets, execute immediate field decrees against taboo violators, and halt any corporate project deemed an existential threat to the city's Composure equilibrium.
-- **Absence of Subordinate Executioner Castes:** Unlike external empires that deploy secondary castes of enforcers (such as Claws or Beholders), **Giltong operates as a unified sovereign tier**. Subordinate executioner castes have not been manifested in the Somnarak canon; Giltong arbiters execute their own field adjudications directly through specialized M.A.W. resonance implements.
+- **Absence of Subordinate Executioner Castes:** Unlike external empires that deploy secondary castes of enforcers (such as talon-castes or watcher-hosts), **Giltong operates as a unified sovereign tier**. Subordinate executioner castes have not been manifested in the Somnarak canon; Giltong arbiters execute their own field adjudications directly through specialized M.A.W. resonance implements.
 
 ---
 

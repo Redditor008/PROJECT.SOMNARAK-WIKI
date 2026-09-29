@@ -1,4 +1,4 @@
-# BLACK Tide Watch — The Final Ton
+# OBSIDIAN Tide Watch — The Final Ton
 
 > *A secondary OBSIDIAN Tide Watch Ordeal — a distinct manifestation of weight sorrow at catastrophic severity.*
 

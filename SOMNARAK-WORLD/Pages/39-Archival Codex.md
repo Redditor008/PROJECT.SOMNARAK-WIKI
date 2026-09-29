@@ -66,7 +66,7 @@ These sections govern combat, crisis handling, and resource extraction:
 - Specific conditions that cause the **Mugenhan Escape Counter** to drop.
 - Complete stat tables for extractable M.A.W. Weapons and Suits.
 - Work affinity tables detailing success rates for Viderehan, Ferrehan, Flerehan, and Pugnahan across specialist ranks I to V.
-- Progressive unlock thresholds based on accumulated positive energy boxes.
+- Progressive unlock thresholds based on accumulated positive energy ticks.
 
 ## 4 Sections 13 through 18: Narrative Lore and Archival Records
 
