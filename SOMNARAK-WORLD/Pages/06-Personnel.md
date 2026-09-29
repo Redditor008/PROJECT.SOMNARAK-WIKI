@@ -2,43 +2,43 @@
 
 > *Every specialist carries someone else's sorrow.*
 
-**Personnel** lists the people who work Somnarak — the Council, the nine Echo-Cores, the specialists. It is the Somnarak equivalent of Characters on wiki.gg.
+**Personnel** lists the people who work Somnarak — the Council, the nine Echo-Cores, the specialists.
 
 ```text
 +========================================================================+
 |                    SOMNARAK — PERSONNEL                                |
 +------------------------------------------------------------------------+
-| Council                  | 9 Echo-Cores (Floors 1–8)                   |
-| Companies                | 10 Primary (5 Main + 5 Sub)                 |
+| Council                  | 9 Echo-Cores, Floors 1 to 8                 |
+| Companies                | 10 Primary (5 Main plus 5 Sub)              |
 | Archive                  | Master_Codices/04_Municipal_                |
 +========================================================================+
 ```
 
-## Overview
-
-06-Personnel is a roster article that presents a 3-row infobox (Council 9 Echo-Cores Floors 1–8, Companies 10 Primary 5 Main+5 Sub, Archive 04_Municipal_) and a 9-row The Nine Echo-Cores table (Majin Floor1 Spires Reaper Hungered Weight/Grudge, Seiyon Floor1 Admin Promise Lament+Void, Dekan Floor2 Maw-Flesh Grudge, Zyrak Floor3 Rig Grudge+Void, Ayshuk Floor4 Ledger Void, Mellda Floor5 Threshold Vow Weight+Grudge, Marjuk Floor6 Lens Void+Weight, Ishall Floor7 Unanswered Grudge+Void, Xyan Floor8 Neural Spine Lament+Weight, ~116,000 words) plus a Companies section (5 Main+5 Sub, Outsider Factory, Gieok Jeojangso sanctuary).
 ## The Nine Echo-Cores
 
-| Dossier | Name | Floor | Effigy | Element | Weapon |
-|---|---|---|---|---|---|
-| THE_DIRECTOR | Majin  [마진]  (Majin) | Floor 1 Spires | Human Ω-Fusion | Weight/Grudge+Lament | Reaper Hungered (Ω Scythe) |
-| THE_SECRETARY | Seiyon  [세이연]  (Seiyon) | Floor 1 Central Admin | Android | Lament+Void | The Promise (Engram Pages) |
-| THE_CONTAINMENT_LEAD | Dekan  [데칸]  (Dekan) | Floor 2 Maw's Keep | Cyborg Maw-Merged | Grudge | Scaled Maw-Flesh Arm |
-| THE_EXTRACTION_LEAD | Zyrak  [지락]  (Jyrak) | Floor 3 Extraction Hall | Android | Grudge+Void | Mechanical Hands & Rig |
-| THE_RESEARCH_LEAD | Ayshuk  [아이숙]  (Ayshuk) | Floor 4 Insight Forge | Android | Void | Research Ledger |
-| THE_BORDER_LEAD | Mellda  [멜다]  (Melda) | Floor 5 Border Watch | Cyborg Warden | Weight+Grudge | Threshold Vow (Arm-Blade) |
-| THE_ARCHIVE_LEAD | Marjuk  [마주크]  (Marjuk) | Floor 6 Deep Vault | Cryogen | Void+Weight | Memory Lens & Index |
-| THE_OUTSIDER | Ishall  [이샬]  (Ishall) | Floor 7 Shadow Corps | Android Enemy | Grudge+Void | Unanswered (Relic Gloves) |
-| THE_EXILE | Xyan  [시안]  (Xyan) | Floor 8 Gate Watch | Cyborg Desolate | Lament+Weight | Neural Spine & Gear |
+| Dossier | Name | Floor | Weapon |
+| --- | --- | --- | --- |
+| THE_DIRECTOR | Majin  [마진]  (Majin) | Floor 1 Spires | Reaper Hungered (Ω Scythe) |
+| THE_SECRETARY | Seiyon  [세이연]  (Seiyon) | Floor 1 Central | The Promise (Engram Pages) |
+| THE_CONTAINMENT_LEAD | Dekan  [데칸]  (Dekan) | Floor 2 Maw Keep | Scaled Maw-Flesh Arm |
+| THE_EXTRACTION_LEAD | Zyrak  [지락]  (Jyrak) | Floor 3 Extraction | Mechanical Hands and Rig |
+| THE_RESEARCH_LEAD | Ayshuk  [아이숙]  (Ayshuk) | Floor 4 Insight Forge | Research Ledger |
+| THE_BORDER_LEAD | Mellda  [멜다]  (Melda) | Floor 5 Border Watch | Threshold Vow (Arm-Blade) |
+| THE_ARCHIVE_LEAD | Marjuk  [마주크]  (Marjuk) | Floor 6 Deep Vault | Memory Lens and Index |
+| THE_OUTSIDER | Ishall  [이샬]  (Ishall) | Floor 7 Shadow Corps | Unanswered (Relic Gloves) |
+| THE_EXILE | Xyan  [시안]  (Xyan) | Floor 8 Gate Watch | Neural Spine and Gear |
 
-Floor 7 Shadow Corps is co-monitored by Zyrak and Seiyon. Total archive ~116,000 words across 9 dossiers.
+Floor 7 Shadow Corps is co-monitored by Zyrak and Seiyon. Total archive about 116,000 words across 9 dossiers in `09_Personnel_Archives/`.
 
 ## Companies
 
-5 Main Companies and 5 Sub Companies constitute the 10 Primary Companies. Gieok Jeojangso is a municipal sanctuary, not a company; all non-10 facilities are Somnarak Outsider Factory. See `SOMNARAK_GEOLOGY.md` for planetary terrain (not entities).
+Five Main Companies and five Sub Companies constitute the 10 Primary Companies. Gieok Jeojangso  [기억 저장소]  (Gieok Jeojangso — Memory Archive) is a municipal sanctuary, not a company. All non-10 facilities are Somnarak Outsider Factory.
+
+Planetary terrain is mapped in `SOMNARAK_GEOLOGY.md`, not as entities.
 
 ## See also
 
-- [41-Frontiers](41-Frontiers.md)
 - [12-Specialists](12-Specialists.md)
+- [14-Echo-Cores](14-Echo-Cores.md)
 - [26-Personnel Dossiers](26-Personnel%20Dossiers.md)
+- [41-Frontiers](41-Frontiers.md)

@@ -2,26 +2,36 @@
 
 > *Every operation is a promise written in Lumen.*
 
-**Operations** are the daily missions assigned by Echo-Cores. This page is the Somnarak equivalent of Missions on wiki.gg.
+**Operations** are the daily missions assigned by Echo-Cores.
 
 ```text
 +========================================================================+
 |                   SOMNARAK — OPERATIONS                                |
 +------------------------------------------------------------------------+
-| Cycle                    | Daily Watches 1–4                           |
+| Cycle                    | Daily Watches 1 to 4                        |
 | Issuer                   | 9 Echo-Cores                                |
 | Archive                  | Master_Codices/03_Watch_Cycle               |
 +========================================================================+
 ```
 
-## Overview
+## Daily Operations
 
-13-Operations is a mission article that presents a 3-row infobox (Cycle Daily Watches1–4, Issuer 9 Echo-Cores, Archive 03_Watch_Cycle) and an Overview paragraph (Floor requests: X Work, Containment threshold, M.A.W. appraisal, Reverberation; yields Lumen/research vs Fracture; post-Dawn Dawn Initiative Lantern 15%→45%, Horizon 6 expeditions, Gieok 7 strata, Walkers 7 Crucibles) plus a Reporting section with 3 examples (Floor2 Dekan Level2 Watch2, Floor4 Ayshuk 3 dossiers, Floor5 Mellda Border Watch) and See also to 36 and 39-Archival Codex.
+Each Watch, a Floor issues a request: complete X Work, hold Containment at a threshold, appraise a M.A.W. set, or resolve a Reverberation. Yield is Lumen and Research; cost is Fracture if failed.
+
+Post-Dawn examples include Dawn Initiative (Lantern 15 to 45 percent), Horizon Caravan 6 expeditions, Gieok 7 strata, and Company 4's 7 Crucible Stations.
+
 ## Reporting
 
-Reports are filed per Watch. Example Operations: Floor 2 Dekan — “Maintain Maw's Keep at Level 2 through Watch 2”; Floor 4 Ayshuk — “Research 3 dossiers to unlock Codex”; Floor 5 Mellda — “Survive Border Watch without Tide Ordeal”. The Watch Cycle and Ordeal risk are checked between Watches. See [36-Tactical Engine](36-Tactical%20Engine.md) and [39-Archival Codex](39-Archival%20Codex.md).
+Reports are filed per Watch. Examples:
+
+- Floor 2 Dekan — Maintain Maw Keep at Level 2 through Watch 2
+- Floor 4 Ayshuk — Research 3 dossiers to unlock Codex
+- Floor 5 Mellda — Survive Border Watch without Tide Ordeal
+
+Risk is checked between Watches. See [18-Containment Levels](18-Containment%20Levels.md).
 
 ## See also
 
-- [36-Tactical Engine](36-Tactical%20Engine.md)
 - [15-Research](15-Research.md)
+- [36-Tactical Engine](36-Tactical%20Engine.md)
+- [39-Archival Codex](39-Archival%20Codex.md)

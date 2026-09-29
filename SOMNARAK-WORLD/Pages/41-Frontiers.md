@@ -8,38 +8,35 @@
 +========================================================================+
 | FRONTIERS — THE REALMS BEYOND                                          |
 +------------------------------------------------------------------------+
-| Echo-Cores | 9 Directors (Floors 1–8)                                  |
-| Absolvohan | 366-day Mnemonic Engine                                   |
-| Katabagil (SED) | 7 Descents — -200 m to -7,200 m                      |
-| Katharcheok (UCD) | 6 Sweeps — Underworld                              |
-| Gieok Jeojangso | 7 Receptions — Memory Archive                        |
-| Jipyeongseondae | 6 Arcs — Horizon Caravan                             |
+| Echo-Cores               | 9 Directors (Floors 1 to 8)                 |
+| Absolvohan               | 366-day Mnemonic Engine                     |
+| Katabagil (SED)          | 7 Descents — -200 m to -7,200 m             |
+| Katharcheok (UCD)        | 6 Sweeps — Underworld                       |
+| Gieok Jeojangso          | 7 Receptions — Memory Archive               |
+| Jipyeongseondae          | 6 Arcs — Horizon Caravan                    |
 +========================================================================+
 ```
 
-## Overview
+## Facility and Beyond
 
-41-Frontiers is a territory article that presents a 4-row infobox (Floors 1–8 +Central 9 Echo-Cores, Desolate Outskirts, Maw -2,000m to -3,500m, Archive 02_Facility_Structure) and 3 sections (Facility, Desolate, Maw) plus See also to 14-Echo-Cores and 22-Departments. The article's data is sourced from `Master_Codices/02_Facility_Structure/` (Floors1–8 Spires→Gate Watch, Central Admin, Maw's Keep, Extraction Hall, Insight Forge, Border Watch, Deep Vault, Shadow Corps, Gate Watch) and `SOMNARAK_GEOLOGY.md` (planetary terrain Undercity/Raw/Desolate Outskirts/Wound, -2,000m to -3,500m SED Descents 1–7) and `SOMNARAK-WORLD/Katabagil/` and `Katharcheok/` (SED/UCD).
+Nine Echo-Cores govern Facility 01. See `Echo_Cores/` — Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, Ishall, Xyan.
 
-## Directors
+Beyond the facility:
 
-Nine Echo-Cores govern Facility 01. See `Echo_Cores/`:
+| Wing | Archive | Scope |
+| --- | --- | --- |
+| The Absolvohan | `The_Absolvohan/` | 366-day loop, Cycle 1,778 |
+| Katabagil (SED) | `Katabagil/` | 7 Descents |
+| Katharcheok (UCD) | `Katharcheok/` | 6 Sweeps |
+| Gieok Jeojangso | `Gieok_Jeojangso/` | 7 Receptions, post-Dawn |
+| Jipyeongseondae | `Jipyeongseondae/` | 6 Arcs, post-Dawn |
 
-Majin (Central), Seiyon (Administrative), Dekan (Containment), Zyrak (Extraction), Ayshuk (Research), Mellda (Border), Marjuk (Archive), Ishall (Shadow), Xyan (Exile).
-
-## Wings
-
-- **The Absolvohan** — 366-day loop, Cycle 1,778 (`The_Absolvohan/`).
-- **Katabagil (SED)** — 7 Descents (`Katabagil/`).
-- **Katharcheok (UCD)** — 6 Sweeps (`Katharcheok/`).
-- **Gieok Jeojangso** — 7 Receptions, post-Dawn (`Gieok_Jeojangso/`).
-- **Jipyeongseondae** — 6 Arcs, post-Dawn (`Jipyeongseondae/`).
-
-Epoch law: ante-Dawn (SED → UCD → R.D.), watershed Dawn of Hope (Year 4,238 / Cycle 1,778), post-Dawn (Unknown, Gieok, Jipyeongseondae, Wound Walkers).
+Epoch law: ante-Dawn (SED → UCD → R.D.), watershed Dawn of Hope (Year 4,238 and Cycle 1,778), post-Dawn (UNK, Gieok, Jipyeongseondae, Wound Walkers).
 
 See `CANON_TIMELINE.md`.
 
 ## See also
 
-- `30-Overview.md`
-- `32-Genesis.md`
+- [14-Echo-Cores](14-Echo-Cores.md)
+- [30-Overview](30-Overview.md)
+- [32-Genesis](32-Genesis.md)

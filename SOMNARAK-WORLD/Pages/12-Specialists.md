@@ -2,7 +2,7 @@
 
 > *You do not hire hands. You borrow burdens.*
 
-**Specialists** are the operatives who tend sorrow. This page is the Somnarak equivalent of Employees on wiki.gg.
+**Specialists** are the operatives who tend sorrow.
 
 ```text
 +========================================================================+
@@ -14,14 +14,18 @@
 +========================================================================+
 ```
 
-## Overview
+## Roster
 
-12-Specialists is an operative article that presents a 3-row infobox (Roster 10 cadres, Archive 09_Personnel_Archives, Gear M.A.W. 42 sets) and an Overview paragraph (hiring = Lumen accounting, 10 cadres +5 syndicates, Han Pohwa stasis and mnemonic dilation for Min-Jae 266+ cycles, 4 affinities Viderehan/Ferrehan/Flerehan/Pugnahan) plus a Daily Use section linking to 36-Tactical Engine and 16-Daily Cycle and 09_Personnel_Archives dossiers.
+Ten cadres plus five syndicates, all cataloged under `09_Personnel_Archives/`. Each cadre aligns to an Echo-Core and a Pressure aptitude. From the Han Pohwa stasis through Min-Jae's 266-plus cycles under mnemonic dilation, the roster spans The Absolvohan to the post-Dawn Wound Walkers.
+
+Aptitudes are four — Viderehan, Ferrehan, Flerehan, Pugnahan — mapped to Observation, Endurance, Lamentation, and Confrontation.
+
 ## Daily Use
 
-Hiring, assignment, and daily watch rotation are in [36-Tactical Engine](36-Tactical%20Engine.md) and [16-Daily Cycle](16-Daily%20Cycle.md). Gifts accumulate slowly and change how a specialist hears the House. See `Master_Codices/09_Personnel_Archives/` for dossiers.
+Hiring, assignment, and Watch rotation are handled in [16-Daily Cycle](16-Daily%20Cycle.md) and [36-Tactical Engine](36-Tactical%20Engine.md). Gifts accumulate slowly and change how a specialist hears the House.
 
 ## See also
 
-- [36-Tactical Engine](36-Tactical%20Engine.md)
+- [06-Personnel](06-Personnel.md)
 - [16-Daily Cycle](16-Daily%20Cycle.md)
+- [36-Tactical Engine](36-Tactical%20Engine.md)

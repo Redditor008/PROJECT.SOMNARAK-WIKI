@@ -2,7 +2,7 @@
 
 > *The Maw does not knock.*
 
-**Ordeals** are the 60 incursions from the Maw across Watches. This page is the Somnarak equivalent of Ordeals on wiki.gg.
+**Ordeals** are the 60 incursions from the Maw across Watches.
 
 ```text
 +========================================================================+
@@ -14,25 +14,24 @@
 +========================================================================+
 ```
 
-## Overview
-
-10-Ordeals is an incursion article that presents a 3-row infobox (Count 60 files, Watches First/Second/Third/Tide, Archive Ordeals) and a Colors and Watches table (BLACK Weight Grinding Slab 5,560B/Crushing Column/Buried Pillar/Final Ton, BLUE Lament Leaking Eyes/Brine Rain/Brine Walkers/Drowned World, GREY Brawler/Blade Wall, plus Sinking Continent/Mountain/Mother Flood) plus a Watch Cycle section linking to 35-Mugenhan and Ordeals and 36-Tactical Engine and 18-Containment Levels.
 ## Colors and Watches
 
 | Color | First Watch | Second Watch | Third Watch | Tide Watch |
-|---|---|---|---|---|
-| BLACK (Weight) | The Grinding Slab (5,560B) | The Crushing Column (5,611B) | The Buried Pillar (5,447B) | The Final Ton (5,593B) |
+| --- | --- | --- | --- | --- |
+| BLACK (Weight) | The Grinding Slab (5,560 B) | The Crushing Column (5,611 B) | The Buried Pillar (5,447 B) | The Final Ton (5,593 B) |
 | BLUE (Lament) | The Leaking Eyes | The Brine Rain | The Brine Walkers | The Drowned World |
 | GREY | The Brawler | The Blade Wall | — | — |
-| Other | The Sinking Continent, The Mountain, The Mother Flood, etc. |
+| Other | The Sinking Continent, The Mountain, The Mother Flood |
 
-Real examples on disk Sep 28: `Ordeal_BLACK_First_Watch_The_Grinding_Slab.md`, `Ordeal_BLUE_Second_Watch_The_Sobbing_Wall.md`, `Ordeal_GREY_First_Watch_The_Resentful_Three.md`. Mugenhan gathers pre-Ordeal unease; when Mugenhan work is neglected, an Ordeal is more likely to surface.
+Files on disk Sep 28 include `Ordeal_BLACK_First_Watch_The_Grinding_Slab.md` and `Ordeal_BLUE_Second_Watch_The_Sobbing_Wall.md`. Each Ordeal shares a color theme across Watches but is a distinct file and threat.
+
+Mugenhan gathers pre-Ordeal unease. When Mugenhan work is neglected, an Ordeal is more likely to surface. See [35-Mugenhan and Ordeals](35-Mugenhan%20and%20Ordeals.md).
 
 ## Watch Cycle
 
-The Watch Cycle that summons Ordeals is detailed at [35-Mugenhan and Ordeals](35-Mugenhan%20and%20Ordeals.md) and [36-Tactical Engine](36-Tactical%20Engine.md). Containment Level rises with each Ordeal wave; see [18-Containment Levels](18-Containment%20Levels.md).
+Ordeals are gated by Watch and Containment Level. See [18-Containment Levels](18-Containment%20Levels.md) and [36-Tactical Engine](36-Tactical%20Engine.md).
 
 ## See also
 
-- [35-Mugenhan and Ordeals](35-Mugenhan%20and%20Ordeals.md)
 - [11-Reverberations](11-Reverberations.md)
+- [35-Mugenhan and Ordeals](35-Mugenhan%20and%20Ordeals.md)
