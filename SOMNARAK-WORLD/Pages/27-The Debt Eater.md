@@ -37,6 +37,8 @@ The Debt Eater is mobile and capable of breaching containment if its operational
 
 ## Appearance
 
+![The Debt Eater Archival Art Plate](images/the-debt-eater-containment-cell.svg)
+
 The Debt Eater manifests as an organic, hunched humanoid scarcely a meter tall, draped in paper-thin, dry parchment skin that is nearly translucent — the color of aged, moisture-stained municipal tax ledgers. Beneath its skin, the dull white luster of its ribcage and skull remains perpetually visible.
 
 The creature possesses no jaw or lips; its facial surface terminates abruptly into an open, hollow throat that radiates the distinct scent of dry dust, aged wax, and iron gall ink. Its arms are disproportionately elongated, terminating in soft, cold, faintly adhesive palms that resemble clay-handling tools. When agitated, small flakes of powdered skin drift from its wrists and dissolve into faint ⚪ **Void** mist before touching the containment floor.
@@ -89,6 +91,8 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 
 ### Weapon: Reaper Hungered
 
+![Reaper Hungered M.A.W. Scythe Icon](images/reaper-hungered-maw-scythe.svg)
+
 - **Grade:** Fragment (Rank III)
 - **Damage Profile:** ⚪ **Void** (11–17 Damage)
 - **Attack Speed:** Normal (1.5s interval)
@@ -96,6 +100,8 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 - **Special Effect:** *Debt Reclamation* — On critical strike, restores 3 SP to the wielding operative by consuming the target's lingering Han.
 
 ### Suit: Debt Shroud
+
+![Debt Shroud M.A.W. Suit Icon](images/maw-suit-armor-display.svg)
 
 - **Grade:** Fragment (Rank III)
 - **Resistances:**
@@ -106,6 +112,8 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 - **Requirement:** Composure Level II, Clarity Level II
 
 ### Gift: Creditor's Mark
+
+![Creditor's Mark M.A.W. Gift Icon](images/maw-gift-manifestation.svg)
 
 - **Slot:** Face (Marking over left temple)
 - **Bonus:** +3 Composure, +2 Clarity, +5 SP Maximum

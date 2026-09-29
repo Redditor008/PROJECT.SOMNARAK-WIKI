@@ -1,5 +1,7 @@
 # Somnarak Wiki
 
+![Project Somnarak Master Archives Hero Banner](images/alpha-tree-spire.svg)
+
 > *We are currently maintaining **292** [Sorrow Entities](07-Sorrow%20Entities.md) (529 files, **285** unique SECC), **42** **M.A.W. sets** (**1,165** profiles), **60** [Ordeals](10-Ordeals.md), and 44 Codices. Please feel free to contribute by expanding existing records.*
 
 **Somnarak Wiki** is the comprehensive encyclopedia for [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] — the vertical municipal civilization of **1.29 billion** souls built where the **Weeping**  [비탄의 강]  (_Bitan-ui Gang_ — River of 🔵 **Lament**) surfaces beneath the Alpha Tree  [알파 트리]  (_Alpa Teuri_).

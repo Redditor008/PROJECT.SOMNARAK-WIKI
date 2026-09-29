@@ -33,6 +33,8 @@ Recovered from the municipal vaults of the Old Commercial Syndicate, The Debt Sc
 
 ## 1 General Information
 
+![The Debt Scale Relic Icon](images/the-debt-scale-relic.svg)
+
 - **Entity Designation:** The Debt Scale  [부채의 저울] 
 - **SECC Code:** `SE-T-IIIγ-003`
 - **Risk Classification:** Rank III — Fragment

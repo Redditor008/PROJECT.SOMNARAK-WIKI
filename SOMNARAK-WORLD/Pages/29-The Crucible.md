@@ -32,6 +32,8 @@ Manufactured during the height of the Unified Containment Directorate (UCD) as a
 
 ## 1 General Information
 
+![The Crucible Tempered Furnace Exhibition Plate](images/the-crucible-containment-unit.svg)
+
 - **Entity Designation:** The Crucible  [시련의 도가니] 
 - **SECC Code:** `SE-T-IIβ-002`
 - **Risk Classification:** Rank II — Murmur

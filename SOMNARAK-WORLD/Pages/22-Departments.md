@@ -33,6 +33,8 @@ Facility 01 does not treat departments as abstract corporate divisions; they are
 
 ## 1 Architectural Structure and Room Types
 
+![Facility 01 Master Floor Layout Map](images/the-hand-facility-layout.svg)
+
 Every department within Facility 01 is engineered according to a standardized architectural modular layout designed to compartmentalize cognitive hazards:
 
 ### 1.1 The Main Room and Healing Generator

@@ -1,5 +1,7 @@
 # Sorrow Entities
 
+![Master Bestiary Overview Banner](images/master-bestiary-overview.svg)
+
 > *“They are not monsters. They are what we left behind.”*
 
 **Sorrow Entities** (슬픔체, _Seulpeumche_) are cognitive beings made manifest — “monsters”  [괴물]  (_goemul_) born from human fears, complexes, and generational trauma given physical form and persistence beneath the **Hand of Change** (Facility 01). They are harvested by the Reverie Directorate and municipal facilities for energy generation, containment study, and **M.A.W.** extraction.

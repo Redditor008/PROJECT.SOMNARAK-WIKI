@@ -1,5 +1,7 @@
 # Chronicle
 
+![Story Chronicle Master Banner](images/the-six-cantos-illumination.svg)
+
 > *“The Hand opened. The Weeping answered. The city learned to dream.”*
 
 **Chronicle** is the master historical narrative of Somnarak, chronicling the rise of the vertical municipal civilization from the primordial discovery of the **Weeping**  [비탄의 강]  (_Bitan-ui Gang_ — River of 🔵 **Lament**) to the post-Dawn era of continental reconstruction.
