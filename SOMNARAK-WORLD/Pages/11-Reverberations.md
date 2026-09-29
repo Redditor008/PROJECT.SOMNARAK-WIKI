@@ -90,9 +90,9 @@ Successfully subduing an Echo-Core permanently stabilizes the department:
 
 ## 5 Gallery
 
-![Core Suppression Alert](https://via.placeholder.com/320x180?text=Core+Suppression+Alert)
-![Mellda Manifestation](https://via.placeholder.com/320x180?text=Mellda+Manifestation)
-![Cognition Filter Lowered](https://via.placeholder.com/320x180?text=Filter+Lowered+True+Form)
+[![Core Suppression Alert](images/core-suppression-alert.svg)](images/core-suppression-alert.svg)
+[![Mellda Manifestation](images/mellda-manifestation.svg)](images/mellda-manifestation.svg)
+[![Cognition Filter Lowered](images/cognition-filter-lowered.svg)](images/cognition-filter-lowered.svg)
 
 *Left: Core Suppression alarm interface; Center: Lead Mellda in combat form; Right: Echo-Core true human revelation.*
 ---

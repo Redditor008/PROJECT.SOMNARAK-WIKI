@@ -99,9 +99,9 @@ The Cantos form the ideological backbone of the modern Directorate:
 
 ## 9 Gallery
 
-![The Six Cantos Illumination](https://via.placeholder.com/320x180?text=Six+Cantos+Illumination)
-![Pioneering Mine Pits](https://via.placeholder.com/320x180?text=Pioneering+Mine+Pits)
-![Dawn of Hope Awakening](https://via.placeholder.com/320x180?text=Dawn+of+Hope+Awakening)
+[![The Six Cantos Illumination](images/the-six-cantos-illumination.svg)](images/the-six-cantos-illumination.svg)
+[![Pioneering Mine Pits](images/pioneering-mine-pits.svg)](images/pioneering-mine-pits.svg)
+[![Dawn of Hope Awakening](images/dawn-of-hope-awakening.svg)](images/dawn-of-hope-awakening.svg)
 
 *Left: illuminated manuscript of the Six Cantos; Center: early mining excavations; Right: the Dawn of Hope.*
 ---

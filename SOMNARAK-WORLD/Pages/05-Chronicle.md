@@ -22,7 +22,7 @@ Somnarak's timeline is defined by a singular watershed: the **Dawn of Hope** at 
 - [1 Overview and Narrative Synopsis](#1-overview-and-narrative-synopsis)
 - [2 Master Epoch Partition](#2-master-epoch-partition)
   - [2.1 Ante-Dawn Era (Years 0000 to 4,238)](#21-ante-dawn-era-years-0000-to-4238)
-  - [2.2 The Dawn of Hope (Year 4,238 / Cycle 1,778)](#22-the-dawn-of-hope-year-4238--cycle-1778)
+  - [2.2 The Dawn of Hope (Year 4,238 and Cycle 1,778)](#22-the-dawn-of-hope-year-4238-and-cycle-1778)
   - [2.3 Post-Dawn Era (Years 4,238 to 4,255+)](#23-post-dawn-era-years-4238-to-4255)
 - [3 The Six Story Cantos](#3-the-six-story-cantos)
   - [3.1 Canto I: Rust and Covenant](#31-canto-i-rust-and-covenant)
@@ -53,7 +53,7 @@ The Ante-Dawn spans over four millennia of hardship, subterranean exploration, a
 4. **Underworld Cleanup Descend (Katharcheok) (Years 3,973 to 4,039):** Rapid industrial expansion leads to the rise of five powerful criminal syndicates controlling the subterranean trade enclaves. Katharcheok  [카타르척]  executes six ruthless military sweeps, purging the rogue wards, culminating in the Great Rust Severance (retrospectively dated to Cycle 1,512).
 5. **The Reverie Directorate and the 1,778 Cycles (Years 4,202 to 4,238):** In Year 4,202, the Directorate assumes sovereign administrative control. In Year 4,232, Director Majin and Chief Engineer Min-Jae lock the sovereign **Absolvohan** stasis engine into a closed 365-day mnemonic loop. For six external calendar years, Facility 01 relives the same annual cycle **1,778** times. Each reset condenses exactly 0.02 tons of sovereign Han-crystal, accumulating supercritical metaphysical mass necessary to trigger the Dawn.
 
-### 2.2 The Dawn of Hope (Year 4,238 / Cycle 1,778)
+### 2.2 The Dawn of Hope (Year 4,238 and Cycle 1,778)
 
 On the final day of Cycle **1,778**, the sovereign stasis loop is deliberately shattered. The **Hand of Hope** opens aboard the mobile fortress vessel *The Lantern*.
 
@@ -110,9 +110,9 @@ The Horizon Caravan crosses the Great Salt Waste toward Mugeukji, confronting co
 
 ## 5 Gallery
 
-![The Dawn of Hope Transmutation](https://via.placeholder.com/320x180?text=Dawn+of+Hope+4238)
-![The Mnemonic Cycle 1778](https://via.placeholder.com/320x180?text=Cycle+1778+Absolvohan)
-![The Horizon Caravan Departure](https://via.placeholder.com/320x180?text=Horizon+Caravan)
+[![The Dawn of Hope Transmutation](images/the-dawn-of-hope-transmutation.svg)](images/the-dawn-of-hope-transmutation.svg)
+[![The Mnemonic Cycle 1778](images/the-mnemonic-cycle-1778.svg)](images/the-mnemonic-cycle-1778.svg)
+[![The Horizon Caravan Departure](images/the-horizon-caravan-departure.svg)](images/the-horizon-caravan-departure.svg)
 
 *Left: Year 4,238 Dawn of Hope array; Center: Cycle 1,778 stasis clock; Right: Caravan departure into the Desolate.*
 ---

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="100%" stop-color="#141a24"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="640" height="360" fill="url(#bg)"/>
+  
+  <!-- Outer Border -->
+  <rect x="12" y="12" width="616" height="336" rx="8" fill="none" stroke="#252e3d" stroke-width="2"/>
+  <rect x="16" y="16" width="608" height="328" rx="6" fill="none" stroke="#d4af37" stroke-opacity="0.3" stroke-width="1"/>
+  
+  <!-- Header Bar -->
+  <rect x="24" y="24" width="592" height="36" rx="4" fill="#18202c"/>
+  <circle cx="44" cy="42" r="5" fill="#d4af37"/>
+  <text x="58" y="46" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12" font-weight="bold" fill="#d4af37" letter-spacing="1.5">SOMNARAK ARCHIVE // LUMEN &amp; ENERGY INFRASTRUCTURE</text>
+  <text x="596" y="46" text-anchor="end" font-family="monospace" font-size="11" fill="#718096">FACILITY 01</text>
+  
+  <!-- Central Emblem Box -->
+  <rect x="48" y="80" width="544" height="200" rx="6" fill="#10151f" stroke="#252e3d" stroke-width="1"/>
+  
+  <!-- Corner Tech Accents -->
+  <path d="M 52 96 L 52 84 L 64 84" fill="none" stroke="#d4af37" stroke-width="2"/>
+  <path d="M 588 96 L 588 84 L 576 84" fill="none" stroke="#d4af37" stroke-width="2"/>
+  <path d="M 52 264 L 52 276 L 64 276" fill="none" stroke="#d4af37" stroke-width="2"/>
+  <path d="M 588 264 L 588 276 L 576 276" fill="none" stroke="#d4af37" stroke-width="2"/>
+  
+  <!-- Geometric Center Icon -->
+  <polygon points="320,115 350,165 290,165" fill="none" stroke="#d4af37" stroke-width="2" stroke-opacity="0.6"/>
+  <circle cx="320" cy="148" r="8" fill="#d4af37" fill-opacity="0.8"/>
+  
+  <!-- Central Title -->
+  <text x="320" y="210" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="20" font-weight="bold" fill="#edf2f7" letter-spacing="0.5">Sorrow Entity Containment Chamber</text>
+  
+  <!-- Subtitle / Watermark -->
+  <text x="320" y="240" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12" fill="#a0aec0" letter-spacing="1">AUTHENTIC VISUAL RECORD // MNEMONIC REPOSITORY</text>
+  
+  <!-- Footer Status Bar -->
+  <rect x="24" y="300" width="592" height="24" rx="3" fill="#141a24"/>
+  <text x="36" y="316" font-family="monospace" font-size="10" fill="#718096">SEC-LEVEL: ALPHA</text>
+  <text x="320" y="316" text-anchor="middle" font-family="monospace" font-size="10" fill="#d4af37">YEAR 4,238 / CYCLE 1,778</text>
+  <text x="604" y="316" text-anchor="end" font-family="monospace" font-size="10" fill="#718096">STATUS: VERIFIED</text>
+</svg>

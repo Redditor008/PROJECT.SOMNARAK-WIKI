@@ -90,9 +90,9 @@ If accumulated Lumen falls below 50% during mid-shift operations:
 
 ## 8 Gallery
 
-![Lumen Harvesting HUD](https://via.placeholder.com/320x180?text=Lumen+Harvesting+HUD)
-![Energy Box Extraction](https://via.placeholder.com/320x180?text=Energy+Boxes+Extraction)
-![Mnemonic Generator Core](https://via.placeholder.com/320x180?text=Mnemonic+Generator+Core)
+[![Lumen Harvesting HUD](images/lumen-harvesting-hud.svg)](images/lumen-harvesting-hud.svg)
+[![Energy Box Extraction](images/energy-box-extraction.svg)](images/energy-box-extraction.svg)
+[![Mnemonic Generator Core](images/mnemonic-generator-core.svg)](images/mnemonic-generator-core.svg)
 
 *Left: daily quota gauge HUD; Center: positive and negative energy box extraction; Right: subterranean generator core.*
 ---

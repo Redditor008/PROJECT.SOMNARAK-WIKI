@@ -109,9 +109,9 @@ Completing all four tiers for a department permanently unlocks that director's *
 
 ## 4 Gallery
 
-![Mission Briefing Console](https://via.placeholder.com/320x180?text=Mission+Briefing+Console)
-![Departmental Tier Progression](https://via.placeholder.com/320x180?text=Departmental+Progression)
-![Floor Realization Gate](https://via.placeholder.com/320x180?text=Floor+Realization+Gate)
+[![Mission Briefing Console](images/mission-briefing-console.svg)](images/mission-briefing-console.svg)
+[![Departmental Tier Progression](images/departmental-tier-progression.svg)](images/departmental-tier-progression.svg)
+[![Floor Realization Gate](images/floor-realization-gate.svg)](images/floor-realization-gate.svg)
 
 *Left: tactical mission dispatch console; Center: departmental tier progress; Right: Floor Realization trial gateway.*
 ---

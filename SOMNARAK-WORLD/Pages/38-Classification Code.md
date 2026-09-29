@@ -95,9 +95,9 @@ When an unknown sorrow entity is extracted from the Mnemonic Wells:
 
 ## 8 Gallery
 
-![SECC Code Syntax Breakdown](https://via.placeholder.com/320x180?text=SECC+Syntax+Diagram)
-![Containment Door Plaque](https://via.placeholder.com/320x180?text=Door+Plaque+Code)
-![Municipal Archive Ledger](https://via.placeholder.com/320x180?text=Archive+Ledger)
+[![SECC Code Syntax Breakdown](images/secc-code-syntax-breakdown.svg)](images/secc-code-syntax-breakdown.svg)
+[![Containment Door Plaque](images/containment-door-plaque.svg)](images/containment-door-plaque.svg)
+[![Municipal Archive Ledger](images/municipal-archive-ledger.svg)](images/municipal-archive-ledger.svg)
 
 *Left: anatomical breakdown of SECC syntax; Center: door plaque on containment cell; Right: master code registry.*
 ---

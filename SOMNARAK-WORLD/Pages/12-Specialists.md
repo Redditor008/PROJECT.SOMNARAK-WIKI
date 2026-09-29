@@ -64,16 +64,16 @@ Attributes progress from **Level I** (Novice) up to **Level V** (Master), with v
 
 When an operative's Sanity Points (SP) are reduced to zero by 🔵 **Lament** or ⚫ **Weight** trauma, their ego shatters, triggering an acute **Panic State**. The specific behavioral breakdown is determined by the operative's lowest primary attribute:
 
-### 3.1 Murder Panic (Lowest Resilience)
+### 3.1 Murder Panic
 The specialist's survival instincts warp into predatory frenzy. Convinced their squadmates are monsters in disguise, the operative turns their M.A.W. weapon against colleagues, hunting down nearby clerks and specialists.
 
-### 3.2 Suicide Panic (Lowest Clarity)
+### 3.2 Suicide Panic
 The specialist is engulfed by overwhelming existential futility. Muttering incoherent fragments of personal regret, the operative uses their own weapon or leaps from elevated spires to terminate their life immediately.
 
-### 3.3 Wander Panic (Lowest Composure)
+### 3.3 Wander Panic
 The specialist's motor functions decouple from rational thought. Dropping their offensive guard, the operative wanders aimlessly through corridors, screaming incoherently and inflicting secondary 🔵 **Lament** panic upon every clerk they encounter.
 
-### 3.4 Sabotage Panic (Lowest Resolve)
+### 3.4 Sabotage Panic
 The specialist experiences an irresistible compulsion to spread the facility's ruin. The operative rushes toward nearby containment units and manually disengages hydraulic airlocks, releasing dangerous sorrow entities into the hallways.
 
 ### Restoring Sane Composure
@@ -96,9 +96,9 @@ When encountering a high-threat entity or witnessing the gruesome demise of a sq
 
 ## 6 Gallery
 
-![Specialist Roster Muster](https://via.placeholder.com/320x180?text=Specialist+Muster)
-![Panic State Encounter](https://via.placeholder.com/320x180?text=Panic+State+Breakdown)
-![Promotion and Ranks](https://via.placeholder.com/320x180?text=Specialist+Promotion)
+[![Specialist Roster Muster](images/specialist-roster-muster.svg)](images/specialist-roster-muster.svg)
+[![Panic State Encounter](images/panic-state-encounter.svg)](images/panic-state-encounter.svg)
+[![Promotion and Ranks](images/promotion-and-ranks.svg)](images/promotion-and-ranks.svg)
 
 *Left: specialists mustering in Main Room; Center: operative suffering panic state; Right: rank promotion ceremonies.*
 ---

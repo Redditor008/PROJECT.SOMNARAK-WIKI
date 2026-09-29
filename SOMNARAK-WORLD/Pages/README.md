@@ -69,9 +69,9 @@
 
 ## Gallery
 
-![Wiki Pages Portal](https://via.placeholder.com/320x180?text=Wiki+Pages+Portal)
-![Master Bestiary Overview](https://via.placeholder.com/320x180?text=Master+Bestiary+Overview)
-![Department Floor Grid](https://via.placeholder.com/320x180?text=Department+Floor+Grid)
+[![Wiki Pages Portal](images/wiki-pages-portal.svg)](images/wiki-pages-portal.svg)
+[![Master Bestiary Overview](images/master-bestiary-overview.svg)](images/master-bestiary-overview.svg)
+[![Department Floor Grid](images/department-floor-grid.svg)](images/department-floor-grid.svg)
 
 *Left: encyclopedic pages directory; Center: master bestiary hub; Right: facility department layout.*
 

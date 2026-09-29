@@ -32,7 +32,7 @@ The Debt Eater is mobile and capable of breaching containment if its operational
   - [5.3 Gift: Creditor's Mark](#gift-creditors-mark)
 - [6 Observation Story](#observation-story)
 - [7 Flavor Text and Trivia](#flavor-text-and-trivia)
-- [8 Gallery](#gallery)
+- [8 Gallery](#8-gallery)
 - [9 See also](#see-also)
 
 ## Appearance
@@ -122,11 +122,11 @@ The Debt Eater shares a symbiotic and hazardous resonance with [The Debt Scale](
 - The Debt Eater is one of only seven entities in Facility 01 whose vocal tract is entirely replaced by a physical vacuum.
 - In early Directorate records, this entity was provisionally designated *The Pale Clerk* before its appetite for broken promises was systematically recorded.
 
-## Gallery
+## 8 Gallery
 
-![The Debt Eater Containment Cell](https://via.placeholder.com/320x180?text=The+Debt+Eater+Containment)
-![The Debt Eater Breaching Corridor](https://via.placeholder.com/320x180?text=Breach+Encounter)
-![Reaper Hungered M.A.W. Scythe](https://via.placeholder.com/320x180?text=Reaper+Hungered+Gear)
+[![The Debt Eater Containment Cell](images/the-debt-eater-containment-cell.svg)](images/the-debt-eater-containment-cell.svg)
+[![The Debt Eater Breaching Corridor](images/the-debt-eater-breaching-corridor.svg)](images/the-debt-eater-breaching-corridor.svg)
+[![Reaper Hungered M.A.W. Scythe](images/reaper-hungered-maw-scythe.svg)](images/reaper-hungered-maw-scythe.svg)
 
 *Left: containment cell in Sector C-01; Center: upright breach movement; Right: Reaper Hungered weapon profile.*
 ---

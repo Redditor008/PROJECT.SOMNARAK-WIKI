@@ -82,9 +82,9 @@ Completing Challenge Mode trials awards prestige recognition:
 
 ## 6 Gallery
 
-![Challenge Mode Menu](https://via.placeholder.com/320x180?text=Challenge+Mode+Menu)
-![Endless Shift Crisis](https://via.placeholder.com/320x180?text=Endless+Shift+Crisis)
-![Prestige M.A.W. Reskins](https://via.placeholder.com/320x180?text=Prestige+Reskins)
+[![Challenge Mode Menu](images/challenge-mode-menu.svg)](images/challenge-mode-menu.svg)
+[![Endless Shift Crisis](images/endless-shift-crisis.svg)](images/endless-shift-crisis.svg)
+[![Prestige M.A.W. Reskins](images/prestige-maw-reskins.svg)](images/prestige-maw-reskins.svg)
 
 *Left: challenge modifier selection menu; Center: endless crisis floor; Right: prestige M.A.W. cosmetics.*
 ---

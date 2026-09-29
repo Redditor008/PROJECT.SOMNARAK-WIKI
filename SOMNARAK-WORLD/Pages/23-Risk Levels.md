@@ -89,9 +89,9 @@ When a specialist enters a chamber or confronts a breaching entity, their rank i
 
 ## 9 Gallery
 
-![Risk Levels Chart](https://via.placeholder.com/320x180?text=Risk+Levels+Chart)
-![Sovereign Class Alarm](https://via.placeholder.com/320x180?text=Sovereign+Alarm)
-![Fear Level Interface](https://via.placeholder.com/320x180?text=Fear+Level+Check)
+[![Risk Levels Chart](images/risk-levels-chart.svg)](images/risk-levels-chart.svg)
+[![Sovereign Class Alarm](images/sovereign-class-alarm.svg)](images/sovereign-class-alarm.svg)
+[![Fear Level Interface](images/fear-level-interface.svg)](images/fear-level-interface.svg)
 
 *Left: risk tier comparison chart; Center: Sovereign breach warning alarm; Right: fear check HUD gauge.*
 ---

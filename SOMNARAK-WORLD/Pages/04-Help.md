@@ -92,9 +92,9 @@ Before committing any changes to git, contributors must execute the repository's
 
 ## 8 Gallery
 
-![Style Guide Interface](https://via.placeholder.com/320x180?text=Style+Guide+Interface)
-![Linter Terminal Output](https://via.placeholder.com/320x180?text=Linter+Output)
-![Archival Standard Template](https://via.placeholder.com/320x180?text=Archival+Template)
+[![Style Guide Interface](images/style-guide-interface.svg)](images/style-guide-interface.svg)
+[![Linter Terminal Output](images/linter-terminal-output.svg)](images/linter-terminal-output.svg)
+[![Archival Standard Template](images/archival-standard-template.svg)](images/archival-standard-template.svg)
 
 *Left: editorial style guide; Center: automated linter terminal run; Right: standard article layout template.*
 ---

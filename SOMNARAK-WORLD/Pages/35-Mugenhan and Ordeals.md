@@ -84,9 +84,9 @@ Ordeals manifest according to the facility's shift clock:
 
 ## 7 Gallery
 
-![Mugenhan Lattice Map](https://via.placeholder.com/320x180?text=Mugenhan+Lattice+Map)
-![Violet Ordeal Monolith](https://via.placeholder.com/320x180?text=Violet+Ordeal+Monolith)
-![Midnight Incursion Battle](https://via.placeholder.com/320x180?text=Midnight+Battle)
+[![Mugenhan Lattice Map](images/mugenhan-lattice-map.svg)](images/mugenhan-lattice-map.svg)
+[![Violet Ordeal Monolith](images/violet-ordeal-monolith.svg)](images/violet-ordeal-monolith.svg)
+[![Midnight Incursion Battle](images/midnight-incursion-battle.svg)](images/midnight-incursion-battle.svg)
 
 *Left: geological map of the Mugenhan lattice; Center: Violet Ordeal obelisk; Right: Tide Watch suppression.*
 ---

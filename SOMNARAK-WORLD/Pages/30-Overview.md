@@ -84,9 +84,9 @@ Upon assuming command of Facility 01, every Warden recites the solemn oath:
 
 ## 8 Gallery
 
-![Containment Corridor Overview](https://via.placeholder.com/320x180?text=Containment+Corridor)
-![Observation Research Console](https://via.placeholder.com/320x180?text=Observation+Console)
-![Facility Floor Wireframe](https://via.placeholder.com/320x180?text=Facility+Wireframe)
+[![Containment Corridor Overview](images/containment-corridor-overview.svg)](images/containment-corridor-overview.svg)
+[![Observation Research Console](images/observation-research-console.svg)](images/observation-research-console.svg)
+[![Facility Floor Wireframe](images/facility-floor-wireframe.svg)](images/facility-floor-wireframe.svg)
 
 *Left: main containment hallway; Center: observation terminal; Right: facility structural wireframe.*
 ---

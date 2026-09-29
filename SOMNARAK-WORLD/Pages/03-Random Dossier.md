@@ -103,9 +103,9 @@ Drill outcomes are graded on response latency, casualty rates, and containment e
 
 ## 6 Gallery
 
-![Tactical Roulette Wheel](https://via.placeholder.com/320x180?text=Tactical+Roulette)
-![Emergency Dispatch Terminal](https://via.placeholder.com/320x180?text=Emergency+Terminal)
-![Specimen Hologram Preview](https://via.placeholder.com/320x180?text=Specimen+Hologram)
+[![Tactical Roulette Wheel](images/tactical-roulette-wheel.svg)](images/tactical-roulette-wheel.svg)
+[![Emergency Dispatch Terminal](images/emergency-dispatch-terminal.svg)](images/emergency-dispatch-terminal.svg)
+[![Specimen Hologram Preview](images/specimen-hologram-preview.svg)](images/specimen-hologram-preview.svg)
 
 *Left: tactical selection roulette; Center: emergency dispatch terminal; Right: holographic specimen preview.*
 ---

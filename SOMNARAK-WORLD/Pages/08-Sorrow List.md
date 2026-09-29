@@ -114,9 +114,9 @@ To minimize catastrophic cascade breaches, entities of equal risk levels are dis
 
 ## 5 Gallery
 
-![Master Sorrow Catalog Display](https://via.placeholder.com/320x180?text=Sorrow+Catalog+Display)
-![Entity Risk Tiers](https://via.placeholder.com/320x180?text=Risk+Tiers+Scale)
-![Containment Cell Array](https://via.placeholder.com/320x180?text=Cell+Array+Overview)
+[![Master Sorrow Catalog Display](images/master-sorrow-catalog-display.svg)](images/master-sorrow-catalog-display.svg)
+[![Entity Risk Tiers](images/entity-risk-tiers.svg)](images/entity-risk-tiers.svg)
+[![Containment Cell Array](images/containment-cell-array.svg)](images/containment-cell-array.svg)
 
 *Left: terminal interface of the master catalog; Center: risk tier symbols; Right: containment row overview.*
 ---

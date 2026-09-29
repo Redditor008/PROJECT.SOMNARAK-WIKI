@@ -21,12 +21,12 @@ Rather than relying on generic physical injury, damage in Somnarak is classified
 ## Contents
 
 - [1 The Four Elemental Pressures](#1-the-four-elemental-pressures)
-  - [1.1 Grudge (🔴 Red Pressure)](#11-grudge--red-pressure)
-  - [1.2 Lament (🔵 Blue Pressure)](#12-lament--blue-pressure)
-  - [1.3 Void (⚪ Pale White Pressure)](#13-void--pale-white-pressure)
-  - [1.4 Weight (⚫ Black Pressure)](#14-weight--black-pressure)
+  - [1.1 Grudge (Red Pressure)](#11-grudge-red-pressure)
+  - [1.2 Lament (Blue Pressure)](#12-lament-blue-pressure)
+  - [1.3 Void (Pale White Pressure)](#13-void-pale-white-pressure)
+  - [1.4 Weight (Black Pressure)](#14-weight-black-pressure)
 - [2 Resistance Multipliers and Defense Formula](#2-resistance-multipliers-and-defense-formula)
-- [3 Pale Conceptual Scaling: The 1% = 5% Axiom](#3-pale-conceptual-scaling-the-1--5-axiom)
+- [3 Pale Conceptual Scaling: The One Percent Axiom](#3-pale-conceptual-scaling-the-one-percent-axiom)
 - [4 Mixed Damage and Dual-Gauge Depletion](#4-mixed-damage-and-dual-gauge-depletion)
 - [5 Gallery](#5-gallery)
 - [6 See also](#6-see-also)
@@ -35,25 +35,25 @@ Rather than relying on generic physical injury, damage in Somnarak is classified
 
 Every attack dealt by a [Sorrow Entity](07-Sorrow%20Entities.md), [Ordeal](10-Ordeals.md), or [M.A.W. Weapon](09-M.A.W.%20Equipment.md) belongs to one of four elemental pressures:
 
-### 1.1 Grudge (🔴 Red Pressure)
+### 1.1 Grudge (Red Pressure)
 - **Korean Term:** 원한 (  원한  , *Wonhan*)
 - **Target Gauge:** Directly depletes the operative's **Health Points (HP)**.
 - **Physical Manifestation:** Kinetic trauma, thermal burns, lacerations, and crushing impact. If an operative's HP drops to zero, they suffer physical death.
 - **Primary Sources:** Melee beasts, slashing blades, thermal furnaces (such as [29-The Crucible](29-The%20Crucible.md)), and GREY Ordeals.
 
-### 1.2 Lament (🔵 Blue Pressure)
+### 1.2 Lament (Blue Pressure)
 - **Korean Term:** 비탄 (  비탄  , *Bitan*)
 - **Target Gauge:** Directly depletes the operative's **Sanity Points (SP)**.
 - **Psychological Manifestation:** Auditory hallucinations, depressive weeping, existential despair, and sensory distortion. If SP reaches zero, the operative suffers a [Panic State](12-Specialists.md).
 - **Primary Sources:** Acoustic instruments, wailing phantoms, and BLUE Ordeals.
 
-### 1.3 Void (⚪ Pale White Pressure)
+### 1.3 Void (Pale White Pressure)
 - **Korean Term:** 공허 (  공허  , *Gongheo*)
 - **Target Gauge:** Scales conceptually against **Maximum Vital Health (Max HP)**.
 - **Metaphysical Manifestation:** Erasure of historical memory, spiritual detachment, and structural unraveling.
 - **Primary Sources:** Sovereign horrors, pale executioners, PALE Ordeals, and [27-The Debt Eater](27-The%20Debt%20Eater.md).
 
-### 1.4 Weight (⚫ Black Pressure)
+### 1.4 Weight (Black Pressure)
 - **Korean Term:** 비중 (  비중  , *Bijung*)
 - **Target Gauge:** Simultaneously damages **both HP and SP** in equal measure.
 - **Gravitational Manifestation:** Crushing mass, suffocating gravity, and structural collapse. A single strike dealing 10 Weight damage subtracts 10 HP and 10 SP at once.
@@ -76,7 +76,7 @@ The standard damage formula applies:
 | **1.3 to 1.5** | **Vulnerable** | High hazard. Incoming damage is amplified by up to 50%. |
 | **1.6 to 2.0+** | **Fatal** | Lethal vulnerability. Operative can suffer instant death from critical hits. |
 
-## 3 Pale Conceptual Scaling: The 1% = 5% Axiom
+## 3 Pale Conceptual Scaling: The One Percent Axiom
 
 The most dangerous mechanic in Somnarak combat physics is **Pale Conceptual Scaling**:
 - Unlike 🔴 **Grudge** or 🔵 **Lament**, which subtract flat numerical values, ⚪ **Void** damage calculates percentage-based erosion.
@@ -93,9 +93,9 @@ The most dangerous mechanic in Somnarak combat physics is **Pale Conceptual Scal
 
 ## 5 Gallery
 
-![Pressure Elements Graphic](https://via.placeholder.com/320x180?text=Four+Pressure+Elements)
-![Damage Calculation Visual](https://via.placeholder.com/320x180?text=Damage+Calculations)
-![Pale Void Resistance Ward](https://via.placeholder.com/320x180?text=Void+Resistance+Ward)
+[![Pressure Elements Graphic](images/pressure-elements-graphic.svg)](images/pressure-elements-graphic.svg)
+[![Damage Calculation Visual](images/damage-calculation-visual.svg)](images/damage-calculation-visual.svg)
+[![Pale Void Resistance Ward](images/pale-void-resistance-ward.svg)](images/pale-void-resistance-ward.svg)
 
 *Left: icons of the four fundamental pressures; Center: resistance multiplier formula; Right: Void protective warding.*
 ---

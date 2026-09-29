@@ -78,9 +78,9 @@ This dispatch records recent operational updates within Facility 01, containment
 
 ## 6 Gallery
 
-![Archive Bulletin Terminal](https://via.placeholder.com/320x180?text=Archive+Bulletin+Terminal)
-![Incident Log Visualizer](https://via.placeholder.com/320x180?text=Incident+Log+Visualizer)
-![Captain Commendation Ribbon](https://via.placeholder.com/320x180?text=Commendation+Ribbon)
+[![Archive Bulletin Terminal](images/archive-bulletin-terminal.svg)](images/archive-bulletin-terminal.svg)
+[![Incident Log Visualizer](images/incident-log-visualizer.svg)](images/incident-log-visualizer.svg)
+[![Captain Commendation Ribbon](images/captain-commendation-ribbon.svg)](images/captain-commendation-ribbon.svg)
 
 *Left: municipal bulletin console; Center: containment incident log interface; Right: captain commendation insignia.*
 ---

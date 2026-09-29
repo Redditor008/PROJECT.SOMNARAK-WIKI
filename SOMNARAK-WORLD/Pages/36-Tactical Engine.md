@@ -78,9 +78,9 @@ Corridor geometry dictates suppression outcomes:
 
 ## 7 Gallery
 
-![Tactical Hitbox Diagram](https://via.placeholder.com/320x180?text=Tactical+Hitbox+Diagram)
-![Elevator Kiting Maneuver](https://via.placeholder.com/320x180?text=Elevator+Kiting)
-![Squad Multi-Angle Clash](https://via.placeholder.com/320x180?text=Squad+Clash+Combat)
+[![Tactical Hitbox Diagram](images/tactical-hitbox-diagram.svg)](images/tactical-hitbox-diagram.svg)
+[![Elevator Kiting Maneuver](images/elevator-kiting-maneuver.svg)](images/elevator-kiting-maneuver.svg)
+[![Squad Multi-Angle Clash](images/squad-multi-angle-clash.svg)](images/squad-multi-angle-clash.svg)
 
 *Left: weapon hitbox and range radius diagram; Center: tactical elevator kiting; Right: squad clash engagement.*
 ---

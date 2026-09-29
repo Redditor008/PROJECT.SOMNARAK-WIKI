@@ -87,9 +87,9 @@ The historical purpose of Facility 01 was linked to energy accumulation:
 
 ## 7 Gallery
 
-![Lumen Storage Battery](https://via.placeholder.com/320x180?text=Lumen+Storage+Battery)
-![Lumen Conduit Piping](https://via.placeholder.com/320x180?text=Conduit+Piping)
-![Han Crystal Ingot](https://via.placeholder.com/320x180?text=Han+Crystal+Ingot)
+[![Lumen Storage Battery](images/lumen-storage-battery.svg)](images/lumen-storage-battery.svg)
+[![Lumen Conduit Piping](images/lumen-conduit-piping.svg)](images/lumen-conduit-piping.svg)
+[![Han Crystal Ingot](images/han-crystal-ingot.svg)](images/han-crystal-ingot.svg)
 
 *Left: fluid Lumen storage battery; Center: glowing conduit piping; Right: refined crystalline Han ingot.*
 ---

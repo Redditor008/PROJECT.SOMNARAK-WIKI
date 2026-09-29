@@ -98,9 +98,9 @@ On the final test run, Karr refused to pull the emergency release latch. When re
 
 ## 8 Gallery
 
-![The Crucible Containment Unit](https://via.placeholder.com/320x180?text=The+Crucible+Unit)
-![Thermal Warning Gauge](https://via.placeholder.com/320x180?text=Thermal+Gauge+HUD)
-![Specialist Emerging Tempered](https://via.placeholder.com/320x180?text=Specialist+Tempered)
+[![The Crucible Containment Unit](images/the-crucible-containment-unit.svg)](images/the-crucible-containment-unit.svg)
+[![Thermal Warning Gauge](images/thermal-warning-gauge.svg)](images/thermal-warning-gauge.svg)
+[![Specialist Emerging Tempered](images/specialist-emerging-tempered.svg)](images/specialist-emerging-tempered.svg)
 
 *Left: The Crucible iron cylindrical unit; Center: thermal escalation gauge; Right: operative emerging with Tempered Core.*
 ---

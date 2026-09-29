@@ -28,7 +28,7 @@ Unlike sentient [Subject Entities](07-Sorrow%20Entities.md) that possess living 
   - [4.2 Channeled Use Relics (Continuous Stationing)](#42-channeled-use-relics-continuous-stationing)
   - [4.3 Equippable Relics (Carried Artifacts)](#43-equippable-relics-carried-artifacts)
 - [5 Relic Overuse Hazards and Backlash Pulses](#5-relic-overuse-hazards-and-backlash-pulses)
-- [6 Log and Method Archival Unlock Progression](#6-log-and-method-archival-unlock-progression)
+- [6 Log and Method Archival Progression](#6-log-and-method-archival-progression)
 - [7 Gallery](#7-gallery)
 - [8 See also](#8-see-also)
 
@@ -89,9 +89,9 @@ Observation logs for Tool Relics unlock differently from Subjects:
 
 ## 7 Gallery
 
-![Tool Relic Chamber Layout](https://via.placeholder.com/320x180?text=Tool+Relic+Chamber)
-![Channeled Use Chamber](https://via.placeholder.com/320x180?text=Channeled+Chamber)
-![Equippable Relic in Corridor](https://via.placeholder.com/320x180?text=Equippable+Relic)
+[![Tool Relic Chamber Layout](images/tool-relic-chamber-layout.svg)](images/tool-relic-chamber-layout.svg)
+[![Channeled Use Chamber](images/channeled-use-chamber.svg)](images/channeled-use-chamber.svg)
+[![Equippable Relic in Corridor](images/equippable-relic-in-corridor.svg)](images/equippable-relic-in-corridor.svg)
 
 *Left: standard tool relic containment chamber; Center: specialist channeling inside unit; Right: operative carrying equippable relic.*
 ---

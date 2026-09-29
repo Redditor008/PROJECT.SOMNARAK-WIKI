@@ -89,9 +89,9 @@ A critical distinction in personnel records separates linear civilian tenure fro
 
 ## 5 Gallery
 
-![Echo-Core Assembly](https://via.placeholder.com/320x180?text=Echo-Core+Assembly)
-![Specialist Cadre Deployment](https://via.placeholder.com/320x180?text=Specialist+Cadres)
-![Corporate Seal Registry](https://via.placeholder.com/320x180?text=Ten+Primary+Companies)
+[![Echo-Core Assembly](images/echo-core-assembly.svg)](images/echo-core-assembly.svg)
+[![Specialist Cadre Deployment](images/specialist-cadre-deployment.svg)](images/specialist-cadre-deployment.svg)
+[![Corporate Seal Registry](images/corporate-seal-registry.svg)](images/corporate-seal-registry.svg)
 
 *Left: the nine sovereign Echo-Cores; Center: specialist squad in full M.A.W. gear; Right: seals of the ten Primary Companies.*
 ---

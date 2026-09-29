@@ -93,9 +93,9 @@ Whenever the needle is spun, those forgotten voices chime in unison, guiding the
 
 ## 8 Gallery
 
-![The Echo Compass Artifact](https://via.placeholder.com/320x180?text=Echo+Compass+Artifact)
-![Acoustic Sonar Pulse Display](https://via.placeholder.com/320x180?text=Acoustic+Pulse+HUD)
-![Gimbaled Needle Mechanism](https://via.placeholder.com/320x180?text=Brass+Gimbal+Mechanism)
+[![The Echo Compass Artifact](images/the-echo-compass-artifact.svg)](images/the-echo-compass-artifact.svg)
+[![Acoustic Sonar Pulse Display](images/acoustic-sonar-pulse-display.svg)](images/acoustic-sonar-pulse-display.svg)
+[![Gimbaled Needle Mechanism](images/gimbaled-needle-mechanism.svg)](images/gimbaled-needle-mechanism.svg)
 
 *Left: The Echo Compass apparatus; Center: acoustic pulse radiating on HUD; Right: close-up of vibrating needle.*
 ---

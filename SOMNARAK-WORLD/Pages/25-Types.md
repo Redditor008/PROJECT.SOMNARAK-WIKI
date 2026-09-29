@@ -87,9 +87,9 @@ Tool Relics are further divided into three functional operational modes:
 
 ## 8 Gallery
 
-![Entity Types Breakdown](https://via.placeholder.com/320x180?text=Entity+Types+Breakdown)
-![Tool Relic Interaction](https://via.placeholder.com/320x180?text=Tool+Relic+Interaction)
-![Place Entity Chamber](https://via.placeholder.com/320x180?text=Place+Entity+Chamber)
+[![Entity Types Breakdown](images/entity-types-breakdown.svg)](images/entity-types-breakdown.svg)
+[![Tool Relic Interaction](images/tool-relic-interaction.svg)](images/tool-relic-interaction.svg)
+[![Place Entity Chamber](images/place-entity-chamber.svg)](images/place-entity-chamber.svg)
 
 *Left: comparison of the four structural taxa; Center: specialist channeling tool relic; Right: spatial place chamber.*
 ---

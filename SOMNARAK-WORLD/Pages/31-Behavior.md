@@ -83,9 +83,9 @@ After being reclamped into its cell:
 
 ## 7 Gallery
 
-![Escape Counter Interface](https://via.placeholder.com/320x180?text=Escape+Counter+Interface)
-![Corridor Breach Alert](https://via.placeholder.com/320x180?text=Corridor+Breach+Alert)
-![Specialist Squad Suppression](https://via.placeholder.com/320x180?text=Squad+Suppression)
+[![Escape Counter Interface](images/escape-counter-interface.svg)](images/escape-counter-interface.svg)
+[![Corridor Breach Alert](images/corridor-breach-alert.svg)](images/corridor-breach-alert.svg)
+[![Specialist Squad Suppression](images/specialist-squad-suppression.svg)](images/specialist-squad-suppression.svg)
 
 *Left: cell escape counter HUD; Center: emergency breach warning siren; Right: specialist squad engaging hostile entity.*
 ---

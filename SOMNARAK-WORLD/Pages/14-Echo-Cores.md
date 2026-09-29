@@ -123,9 +123,9 @@ When an Echo-Core reaches emotional collapse, the department enters a **Reverber
 
 ## 5 Gallery
 
-![Echo-Core Council Chamber](https://via.placeholder.com/320x180?text=Echo-Core+Council)
-![Cognition Filter Interface](https://via.placeholder.com/320x180?text=Cognition+Filter)
-![Core Suppression Realization](https://via.placeholder.com/320x180?text=Floor+Realization+Battle)
+[![Echo-Core Council Chamber](images/echo-core-council-chamber.svg)](images/echo-core-council-chamber.svg)
+[![Cognition Filter Interface](images/cognition-filter-interface.svg)](images/cognition-filter-interface.svg)
+[![Core Suppression Realization](images/core-suppression-realization.svg)](images/core-suppression-realization.svg)
 
 *Left: council of the nine directors; Center: holographic filter display; Right: Floor Realization combat.*
 ---

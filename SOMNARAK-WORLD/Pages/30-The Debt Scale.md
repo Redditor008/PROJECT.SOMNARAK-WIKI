@@ -98,9 +98,9 @@ The scale survived the fire intact. When placed upon a table, its pans never res
 
 ## 9 Gallery
 
-![The Debt Scale Relic](https://via.placeholder.com/320x180?text=The+Debt+Scale+Relic)
-![Inversion Aura Visualizer](https://via.placeholder.com/320x180?text=Inversion+Aura+Field)
-![Scale Bearer in Corridor](https://via.placeholder.com/320x180?text=Scale+Bearer+Corridor)
+[![The Debt Scale Relic](images/the-debt-scale-relic.svg)](images/the-debt-scale-relic.svg)
+[![Inversion Aura Visualizer](images/inversion-aura-visualizer.svg)](images/inversion-aura-visualizer.svg)
+[![Scale Bearer in Corridor](images/scale-bearer-in-corridor.svg)](images/scale-bearer-in-corridor.svg)
 
 *Left: The Debt Scale artifact; Center: restorative aura field; Right: specialist carrying scale in corridor.*
 ---

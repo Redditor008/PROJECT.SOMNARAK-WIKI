@@ -90,9 +90,9 @@ Specialist deaths represent heavy financial and tactical losses:
 
 ## 8 Gallery
 
-![Specialist Roster HUD](https://via.placeholder.com/320x180?text=Specialist+Roster+HUD)
-![Department Captain Sash](https://via.placeholder.com/320x180?text=Captain+Sash+Insignia)
-![Memorial Archival Ledger](https://via.placeholder.com/320x180?text=Memorial+Archival+Ledger)
+[![Specialist Roster HUD](images/specialist-roster-hud.svg)](images/specialist-roster-hud.svg)
+[![Department Captain Sash](images/department-captain-sash.svg)](images/department-captain-sash.svg)
+[![Memorial Archival Ledger](images/memorial-archival-ledger.svg)](images/memorial-archival-ledger.svg)
 
 *Left: specialist squad management roster; Center: department captain sash; Right: facility memorial ledger.*
 ---

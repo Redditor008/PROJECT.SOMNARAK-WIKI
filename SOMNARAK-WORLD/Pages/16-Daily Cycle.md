@@ -95,9 +95,9 @@ Beneath the operational shift lies the canonical time loop:
 
 ## 9 Gallery
 
-![Deployment Morning Console](https://via.placeholder.com/320x180?text=Morning+Deployment+Console)
-![Active Shift Containment](https://via.placeholder.com/320x180?text=Active+Containment+Shift)
-![Shift Evaluation Report](https://via.placeholder.com/320x180?text=Shift+Evaluation+Report)
+[![Deployment Morning Console](images/deployment-morning-console.svg)](images/deployment-morning-console.svg)
+[![Active Shift Containment](images/active-shift-containment.svg)](images/active-shift-containment.svg)
+[![Shift Evaluation Report](images/shift-evaluation-report.svg)](images/shift-evaluation-report.svg)
 
 *Left: deployment screen; Center: real-time shift floor; Right: end-of-day evaluation screen.*
 ---

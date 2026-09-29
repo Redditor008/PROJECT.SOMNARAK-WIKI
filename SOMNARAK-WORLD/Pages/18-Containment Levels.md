@@ -93,9 +93,9 @@ Meltdown levels serve as the heralds for Ordeal incursions:
 
 ## 8 Gallery
 
-![Meltdown Gauge Display](https://via.placeholder.com/320x180?text=Meltdown+Gauge+HUD)
-![Overloaded Cell Alarm](https://via.placeholder.com/320x180?text=Overloaded+Cell+Glyph)
-![Emergency Dispatch Action](https://via.placeholder.com/320x180?text=Emergency+Dispatch)
+[![Meltdown Gauge Display](images/meltdown-gauge-display.svg)](images/meltdown-gauge-display.svg)
+[![Overloaded Cell Alarm](images/overloaded-cell-alarm.svg)](images/overloaded-cell-alarm.svg)
+[![Emergency Dispatch Action](images/emergency-dispatch-action.svg)](images/emergency-dispatch-action.svg)
 
 *Left: meltdown HUD gauge; Center: 60-second overload warning glyph; Right: emergency response dispatch.*
 ---

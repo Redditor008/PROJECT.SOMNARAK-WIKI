@@ -86,9 +86,9 @@ Authentic dossier articles demonstrating the primary operational archetypes cata
 
 ## 6 Gallery
 
-![Master Navigation Schematic](https://via.placeholder.com/320x180?text=Master+Navigation)
-![Three Main Portals Diagram](https://via.placeholder.com/320x180?text=Three+Main+Portals)
-![Individual Specimen Registry](https://via.placeholder.com/320x180?text=Specimen+Registry)
+[![Master Navigation Schematic](images/master-navigation-schematic.svg)](images/master-navigation-schematic.svg)
+[![Three Main Portals Diagram](images/three-main-portals-diagram.svg)](images/three-main-portals-diagram.svg)
+[![Individual Specimen Registry](images/individual-specimen-registry.svg)](images/individual-specimen-registry.svg)
 
 *Left: complete facility navigation schematic; Center: three main portal relationships; Right: individual specimen registry.*
 ---

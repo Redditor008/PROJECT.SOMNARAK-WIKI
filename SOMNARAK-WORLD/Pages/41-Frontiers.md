@@ -85,9 +85,9 @@ The Directorate relies on frontier convoys for vital materials:
 
 ## 8 Gallery
 
-![The Maw Chasm Descent](https://via.placeholder.com/320x180?text=The+Maw+Descent)
-![Horizon Caravan Armored Train](https://via.placeholder.com/320x180?text=Horizon+Caravan)
-![Gieok Archival Sanctuary](https://via.placeholder.com/320x180?text=Gieok+Sanctuary)
+[![The Maw Chasm Descent](images/the-maw-chasm-descent.svg)](images/the-maw-chasm-descent.svg)
+[![Horizon Caravan Armored Train](images/horizon-caravan-armored-train.svg)](images/horizon-caravan-armored-train.svg)
+[![Gieok Archival Sanctuary](images/gieok-archival-sanctuary.svg)](images/gieok-archival-sanctuary.svg)
 
 *Left: cross-section of the Maw and Katabagil descents; Center: armored caravan train; Right: Gieok mountain sanctuary.*
 ---

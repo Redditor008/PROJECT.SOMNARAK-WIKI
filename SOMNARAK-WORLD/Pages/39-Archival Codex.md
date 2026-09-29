@@ -98,9 +98,9 @@ All dossiers must satisfy three strict repository checks:
 
 ## 8 Gallery
 
-![Archival Codex Template](https://via.placeholder.com/320x180?text=Codex+Template)
-![Dossier Review Terminal](https://via.placeholder.com/320x180?text=Dossier+Review)
-![Sealed Archival Vault](https://via.placeholder.com/320x180?text=Sealed+Vault)
+[![Archival Codex Template](images/archival-codex-template.svg)](images/archival-codex-template.svg)
+[![Dossier Review Terminal](images/dossier-review-terminal.svg)](images/dossier-review-terminal.svg)
+[![Sealed Archival Vault](images/sealed-archival-vault.svg)](images/sealed-archival-vault.svg)
 
 *Left: 18-section dossier layout blueprint; Center: archival review workstation; Right: sealed archival ledger vault.*
 ---

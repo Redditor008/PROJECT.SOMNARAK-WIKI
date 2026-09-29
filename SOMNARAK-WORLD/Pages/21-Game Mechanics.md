@@ -95,9 +95,9 @@ A shift terminates in immediate Catastrophic Collapse (Game Over) if:
 
 ## 8 Gallery
 
-![Core HUD Layout](https://via.placeholder.com/320x180?text=Core+Game+HUD)
-![Containment Dispatch Interface](https://via.placeholder.com/320x180?text=Work+Dispatch+Menu)
-![Corridor Suppression Combat](https://via.placeholder.com/320x180?text=Combat+Suppression)
+[![Core HUD Layout](images/core-hud-layout.svg)](images/core-hud-layout.svg)
+[![Containment Dispatch Interface](images/containment-dispatch-interface.svg)](images/containment-dispatch-interface.svg)
+[![Corridor Suppression Combat](images/corridor-suppression-combat.svg)](images/corridor-suppression-combat.svg)
 
 *Left: main facility HUD interface; Center: work selection dispatch menu; Right: corridor combat clash.*
 ---

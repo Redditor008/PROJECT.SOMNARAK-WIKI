@@ -81,9 +81,9 @@ Directorate scientists formalized the fundamental law of emotional thermodynamic
 
 ## 8 Gallery
 
-![The Weeping Subterranean Current](https://via.placeholder.com/320x180?text=The+Weeping+Current)
-![Mnemonic Well Extraction](https://via.placeholder.com/320x180?text=Mnemonic+Well+Borehole)
-![The Dawn of Hope Resonance](https://via.placeholder.com/320x180?text=Dawn+of+Hope+Resonance)
+[![The Weeping Subterranean Current](images/the-weeping-subterranean-current.svg)](images/the-weeping-subterranean-current.svg)
+[![Mnemonic Well Extraction](images/mnemonic-well-extraction.svg)](images/mnemonic-well-extraction.svg)
+[![The Dawn of Hope Resonance](images/the-dawn-of-hope-resonance.svg)](images/the-dawn-of-hope-resonance.svg)
 
 *Left: artistic depiction of the subterranean Weeping; Center: Mnemonic Well extraction shaft; Right: Dawn of Hope light.*
 ---

@@ -24,7 +24,7 @@ Ordeals force the Warden to prepare suppression teams for active combat rather t
 - [1 Incursion Mechanics and General Rules](#1-incursion-mechanics-and-general-rules)
 - [2 The Temporal Axis: The Four Watches](#2-the-temporal-axis-the-four-watches)
 - [3 The Elemental Axis: The Five Colors](#3-the-elemental-axis-the-five-colors)
-- [4 Master Ordeals Grid (Colors × Watches)](#4-master-ordeals-grid-colors--watches)
+- [4 Master Ordeals Grid (Colors and Watches)](#4-master-ordeals-grid-colors-and-watches)
 - [5 Pre-Ordeal Warning and Gauge Mechanics](#5-pre-ordeal-warning-and-gauge-mechanics)
 - [6 Tactical Suppression Guidelines](#6-tactical-suppression-guidelines)
 - [7 Gallery](#7-gallery)
@@ -73,7 +73,7 @@ Theme: The Fading Horizon, pale reapers, and conceptual erasure.
 Theme: Reality-warping monoliths, tectonic ruptures, and mother floods.
 - Spawns colossal stationary obelisks that warp environmental gravity and summon auxiliary anomalies until physically shattered by high-damage strike teams.
 
-## 4 Master Ordeals Grid (Colors × Watches)
+## 4 Master Ordeals Grid (Colors and Watches)
 
 The sixty tracked Ordeal files map into a rigorous grid across the five Colors and four Watches:
 
@@ -100,9 +100,9 @@ Facility 01's monitoring grid provides advance tactical warnings:
 
 ## 7 Gallery
 
-![Ordeal Corridor Incursion](https://via.placeholder.com/320x180?text=Ordeal+Corridor+Breach)
-![Tide Watch Midnight Sovereign](https://via.placeholder.com/320x180?text=Tide+Watch+Midnight)
-![Elemental Warning Gauge](https://via.placeholder.com/320x180?text=Elemental+Warning+Gauge)
+[![Ordeal Corridor Incursion](images/ordeal-corridor-incursion.svg)](images/ordeal-corridor-incursion.svg)
+[![Tide Watch Midnight Sovereign](images/tide-watch-midnight-sovereign.svg)](images/tide-watch-midnight-sovereign.svg)
+[![Elemental Warning Gauge](images/elemental-warning-gauge.svg)](images/elemental-warning-gauge.svg)
 
 *Left: corridor swarm incursion; Center: Tide Watch Midnight monolith; Right: pre-incursion warning display.*
 ---

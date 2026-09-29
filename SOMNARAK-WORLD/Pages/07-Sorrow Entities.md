@@ -237,9 +237,9 @@ Facility 01 operates within a vast institutional network established by the Dawn
 
 ## 14 Gallery
 
-![Sorrow Entity Containment Chamber](https://via.placeholder.com/320x180?text=Facility+01+Containment)
-![Work Protocol Execution](https://via.placeholder.com/320x180?text=Four+Work+Protocols)
-![M.A.W. Armament Showcase](https://via.placeholder.com/320x180?text=M.A.W.+Equipment)
+[![Sorrow Entity Containment Chamber](images/sorrow-entity-containment-chamber.svg)](images/sorrow-entity-containment-chamber.svg)
+[![Work Protocol Execution](images/work-protocol-execution.svg)](images/work-protocol-execution.svg)
+[![M.A.W. Armament Showcase](images/maw-armament-showcase.svg)](images/maw-armament-showcase.svg)
 
 *Left: standard containment unit; Center: four canonical work protocols; Right: crystallized M.A.W. armament.*
 ---

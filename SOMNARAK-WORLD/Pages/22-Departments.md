@@ -102,9 +102,9 @@ During a Reverberation crisis:
 
 ## 6 Gallery
 
-![Department Main Room](https://via.placeholder.com/320x180?text=Department+Main+Room)
-![Containment Unit Corridor](https://via.placeholder.com/320x180?text=Containment+Corridor)
-![Elevator Shaft Network](https://via.placeholder.com/320x180?text=Elevator+Transit+Shaft)
+[![Department Main Room](images/department-main-room.svg)](images/department-main-room.svg)
+[![Containment Unit Corridor](images/containment-unit-corridor.svg)](images/containment-unit-corridor.svg)
+[![Elevator Shaft Network](images/elevator-shaft-network.svg)](images/elevator-shaft-network.svg)
 
 *Left: Department Main Room with restorative generator; Center: containment corridor; Right: vertical elevator network.*
 ---

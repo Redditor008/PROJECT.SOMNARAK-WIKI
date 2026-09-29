@@ -21,9 +21,9 @@ Within the Reverie Directorate's archival doctrine, sorrow is not homogeneous. A
 ## Contents
 
 - [1 The Tripartite Genesis of Sorrow](#1-the-tripartite-genesis-of-sorrow)
-- [2 Veiled Tale (City Sorrow / 도한)](#2-veiled-tale-city-sorrow--도한)
-- [3 Scarred Memory (Inner Sorrow / 내한)](#3-scarred-memory-inner-sorrow--내한)
-- [4 Dream Born (Outside Sorrow / 외한)](#4-dream-born-outside-sorrow--외한)
+- [2 Veiled Tale (City Sorrow)](#2-veiled-tale-city-sorrow)
+- [3 Scarred Memory (Inner Sorrow)](#3-scarred-memory-inner-sorrow)
+- [4 Dream Born (Outside Sorrow)](#4-dream-born-outside-sorrow)
 - [5 Work Protocol Affinities by Origin](#5-work-protocol-affinities-by-origin)
 - [6 Facility Floor Resonance and Department Placement](#6-facility-floor-resonance-and-department-placement)
 - [7 Cross-Origin Resonances and Fusion Hazards](#7-cross-origin-resonances-and-fusion-hazards)
@@ -37,19 +37,19 @@ All 292 cataloged sorrow entities originate from one of three distinct psycholog
 - **Scarred Memory (72 entities):** Crystallized from acute personal agony, betrayal, bereavement, or solitary death.
 - **Dream Born (61 entities):** Formed from raw subconscious reveries, surreal nightmares, and primeval fears drifting up from the subterranean [Maw](41-Frontiers.md).
 
-## 2 Veiled Tale (City Sorrow / 도한)
+## 2 Veiled Tale (City Sorrow)
 - **Metaphysical Anchor:** Collective social memory.
 - **Characteristics:** Highly structured, often taking the shape of fairy tales, historical archetypes, or urban superstitions (e.g., cursed gramophones, singing choir children, or mechanical executioners).
 - **Behavioral Logic:** Veiled Tales obey narrative rules. They expect specialists to act out specific roles during containment sessions, rewarding adherence to protocol and severely punishing improvisations.
 - **Common Pressures:** Balanced across 🔴 **Grudge** and 🔵 **Lament**.
 
-## 3 Scarred Memory (Inner Sorrow / 내한)
+## 3 Scarred Memory (Inner Sorrow)
 - **Metaphysical Anchor:** Individual human anguish.
 - **Characteristics:** Intensely emotional, visceral, and personal (e.g., shattered family relics, wedding gowns steeped in ash, or hospital instruments).
 - **Behavioral Logic:** Highly sensitive to specialist psychological states. Working with Scarred Memories often drains high amounts of sanity, requiring operatives with high **Composure** who can endure empathetic communion via 💧 **Flerehan**.
 - **Common Pressures:** Heavily concentrated in 🔵 **Lament** and ⚫ **Weight**.
 
-## 4 Dream Born (Outside Sorrow / 외한)
+## 4 Dream Born (Outside Sorrow)
 - **Metaphysical Anchor:** Primeval unconscious and the subterranean void.
 - **Characteristics:** Abstract, shifting, grotesque geometries that defy conventional biological anatomy (e.g., hovering acoustic compasses, floating monolithic scales, or formless pale voids).
 - **Behavioral Logic:** Unpredictable and volatile. Dream Born entities often alter their work affinities based on external facility conditions, such as current meltdown levels or the time of day.
@@ -78,9 +78,9 @@ Certain entities originating from the same mythos or trauma pool exhibit dangero
 
 ## 8 Gallery
 
-![Three Origins Diagram](https://via.placeholder.com/320x180?text=Three+Origins+Diagram)
-![Veiled Tale Entity](https://via.placeholder.com/320x180?text=Veiled+Tale+Specimen)
-![Dream Born Abstraction](https://via.placeholder.com/320x180?text=Dream+Born+Abstraction)
+[![Three Origins Diagram](images/three-origins-diagram.svg)](images/three-origins-diagram.svg)
+[![Veiled Tale Entity](images/veiled-tale-entity.svg)](images/veiled-tale-entity.svg)
+[![Dream Born Abstraction](images/dream-born-abstraction.svg)](images/dream-born-abstraction.svg)
 
 *Left: diagram of the three origin strata; Center: Veiled Tale folkloric entity; Right: Dream Born abstract horror.*
 ---
