@@ -1,84 +1,113 @@
 # The Crucible
 
-> *“Step inside and bear the heat; the city's machinery does not run on cold sorrow.”*
+> *“Step inside and let the fire cook the weakness from your marrow; stay one breath too long, and only ash will walk out.”*
 
-**The Crucible (SE-C-IIIβ-275)**  [분노의 용광로]  (_Bunno-ui Yonggwangno_) is a Rank III (Fragment) **Channeled Use** Tool-Type [Sorrow Entity](07-Sorrow%20Entities.md) housed within Sector C-04 of Facility 01. Unlike single-activation instruments or wearable accessories, The Crucible requires an operative to remain continuously stationed inside its basalt refining chamber to sustain continuous **Han-Energy** generation.
+**The Crucible**  [시련의 도가니]  (_Siryeon-ui Dogani_), cataloged under the Somnarak Entity Classification Code as **`SE-T-IIβ-002`**, is a **Rank II (Murmur)** Tool Relic of the **Channeled Use** functional sub-type.
 
-The Crucible represents the **Channeled Use Tool** archetype within Somnarak containment doctrine. Work performed upon this entity is ongoing and persistent: once ordered inside, the operative channels endurance work — 🤲 **Ferrehan**  [페레한]  (_Perehan_) — until the **Warden** issues an explicit command to terminate the session and withdraw.
+Manufactured during the height of the Unified Containment Directorate (UCD) as an experimental thermodynamic distillation pod, The Crucible is an upright cylindrical iron furnace lined with ceramic coils and pressurized glass observation ports. Governed by the **Two-Work-Type Rule**, specialists enter its interior chamber to channel physical stamina into concentrated [Lumen](33-Lumen.md) energy, balancing rapid production against the furnace's lethal 30-second thermal ceiling.
 
 ```text
 +========================================================================+
-| SOMNARAK - SE-C-III-275 THE CRUCIBLE                                   |
+| SECC: SE-T-IIb-002 | THE CRUCIBLE                                      |
 +------------------------------------------------------------------------+
-| Designation          | SE-C-III-275 [TR] (Relic - Tool Entity)         |
-| Tool Category        | Channeled Use Tool (Continuous Work)            |
-| Risk Tier            | Rank III: Fragment - Potency Beta (Moderate)    |
-| Operational Protocol | Channeled Interaction - Unlocked by Time        |
-| Primary Risk         | Thermal Inversion and Fatal Rupture (>30s)      |
+| Nomenclature Code      | SE-T-IIb-002 (Murmur Tool Relic)              |
+| Functional Subtype     | Channeled Use Relic (Continuous Chamber)      |
+| Containment Protocols  | Two-Work-Type Rule: Viderehan & Ferrehan      |
+| Primary Function       | High-Yield Han Distillation & Bonus Lumen     |
+| Lethal Threshold       | Strict 30-Second Limit; Instant Incineration  |
 +========================================================================+
 ```
 
 ## Contents
 
-- [1 Appearance](#appearance)
-- [2 Ability and Mechanics](#ability-and-mechanics)
-- [3 Log and Method](#log-and-method)
-- [4 Operational Guidelines](#operational-guidelines)
-- [5 Flavor Text and Trivia](#flavor-text-and-trivia)
-- [6 Gallery](#gallery)
-- [7 See also](#see-also)
+- [1 General Information](#1-general-information)
+- [2 Tool Relic Classification: Channeled Use Mechanics](#2-tool-relic-classification-channeled-use-mechanics)
+- [3 Operational Protocols: The Two-Work-Type Rule](#3-operational-protocols-the-two-work-type-rule)
+- [4 The 30-Second Thermal Ceiling and Damage Scaling](#4-the-30-second-thermal-ceiling-and-damage-scaling)
+- [5 Managerial Guidelines and Emergency Extraction](#5-managerial-guidelines-and-emergency-extraction)
+- [6 Log and Method Archival Unlock Progression](#6-log-and-method-archival-unlock-progression)
+- [7 Metaphysical Origin and Story](#7-metaphysical-origin-and-story)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
-## Appearance
+## 1 General Information
 
-The Crucible is an immense, cylindrical furnace constructed from interlocking slabs of volcanic basalt bound by black wrought-iron bands. Standing over four meters in height, its exterior is reinforced with hydraulic pressure clamps and heavy copper cooling coils that hiss with escaping steam.
+- **Entity Designation:** The Crucible  [시련의 도가니] 
+- **SECC Code:** `SE-T-IIβ-002`
+- **Risk Classification:** Rank II — Murmur
+- **Ontological Type:** Object / Tool Relic (Channeled Use)
+- **Primary Pressure Output:** 🔴 **Grudge** (Thermal / Physical Burn)
+- **Maximum Safe Channeling Window:** Exactly 29 seconds. Fatal at 30.0 seconds.
 
-Narrow viewing slits positioned along the lower third of the structure allow observers to gaze into the interior chamber. Within, a dense vortex of liquefied **Han**-slag glows with an intense, blinding orange-red radiance. The air within twenty paces of the structure is dry and scorching, smelling sharply of sulfur, pulverized granite, and scorched armor wool.
+## 2 Tool Relic Classification: Channeled Use Mechanics
 
-## Ability and Mechanics
+Unlike Single-Use artifacts that trigger instantaneously, **Channeled Use Tool Relics** require prolonged physical stationing:
+- **Chamber Ingress:** The specialist steps through the heavy iron hatchway, which seals automatically behind them.
+- **Continuous Channeling:** Once sealed inside, the specialist cannot move or perform other duties. The furnace initiates continuous distillation, generating +2 [Lumen Units (LU)](33-Lumen.md) directly into the daily quota gauge every 5 seconds.
+- **Dynamic Heating:** For every second the operative remains inside, internal temperature rises. At designated thresholds, the furnace releases thermal pulses that grant facility-wide defense buffs to all deployed squads.
+- **Manual Egress:** The Warden must issue an explicit order to cancel work and recall the specialist before the thermal threshold triggers.
 
-The Crucible serves as a high-output emergency energy refinery, operating under rigorous time constraints:
+## 3 Operational Protocols: The Two-Work-Type Rule
 
-1. **Continuous Channeling:** When ordered to work, an operative enters through the reinforced airlock hatch and takes position upon the suspended iron platform. The work status switches to **Channeled**, and the specialist begins enduring the thermal load.
-2. **Energy Output:** For every three seconds an operative remains channeling inside The Crucible, the device refines and transmits 1 unit of **Han-Energy** directly to the facility's daily quota.
-3. **Escalating Thermal Drain:** While inside, the operative is subjected to escalating waves of combined 🔴 **Grudge** (heat) and 🔵 **Lament** (fume) damage every five seconds:
-   - Seconds 0–10: 5 Damage per pulse
-   - Seconds 11–20: 10 Damage per pulse
-   - Seconds 21–29: 20 Damage per pulse
-4. **Thermal Critical Mass (Instadeath):** If an operative remains inside The Crucible for thirty consecutive seconds or longer, the containment fails catastrophically. The interior temperature spikes beyond containment thresholds: the assigned operative is instantly vaporized, and a blast of superheated 🔴 **Grudge** vapor bursts into the hallway, inflicting severe trauma upon all nearby staff.
+In accordance with Directorate safety doctrine, The Crucible permits only observation and physical endurance:
 
-Information regarding The Crucible is unlocked progressively according to the total **Time of Use** logged during operational shifts.
+| Protocol | Permitted? | Execution Dynamics | Specialist Result |
+|---|---|---|---|
+| 👁 **Viderehan** (Observation) | **YES** | Specialist monitors external thermal dials and calibrates pressure gauges. | Generates minor Lumen safely; trains Clarity (+SP). |
+| 🤲 **Ferrehan** (Endurance) | **YES** | Specialist enters the iron pod and physically channels the thermal furnace coils. | Core channeled mode; massive Lumen harvest; trains Resilience (+HP). |
+| 💧 **Flerehan** (Lamentation) | **PROHIBITED** | Ceramic coils and iron plates possess no emotional capacity for shared weeping. | Interface command disabled; mental feedback causes static. |
+| ⚔ **Pugnahan** (Confrontation) | **PROHIBITED** | Striking pressurized thermal pipes triggers explosive steam backflow. | Interface command disabled; violent impact ruptures boiler. |
 
-## Log and Method
+## 4 The 30-Second Thermal Ceiling and Damage Scaling
 
-| Interaction Duration | Log Entry | Operational Method |
+Channeling inside The Crucible is governed by an unyielding mathematical curve:
+
+| Elapsed Time | Pod Temperature | Specialist Effect | Facility Benefit |
+|---|---|---|---|
+| **0 – 10 seconds** | 100°C – 250°C | None. Comfortable thermal aura. | +4 Lumen Units harvested. |
+| **11 – 20 seconds** | 251°C – 500°C | Suffers 2 🔴 Grudge damage per second. | +8 LU; Squads gain +5% attack speed. |
+| **21 – 25 seconds** | 501°C – 800°C | Suffers 6 🔴 Grudge damage per second. | +12 LU; Squads gain +10% attack speed. |
+| **26 – 29 seconds** | 801°C – 1,199°C | Suffers 12 🔴 Grudge damage per second. | +16 LU; Pod flashes crimson alert. |
+| **30.0+ seconds** | **1,200°C (Critical)** | **Instant Combustion**. Operative reduced to ash. | **Catastrophic Failure**: 25 LU drained. |
+
+## 5 Managerial Guidelines and Emergency Extraction
+
+1. **Managerial Tip 1:** Specialists performing 🤲 **Ferrehan** channeling inside The Crucible produce 2 Lumen Units every 5 seconds. Operatives with high **Resilience** (Fortitude) and fire-resistant M.A.W. Suits can endure the thermal escalation longer.
+2. **Managerial Tip 2:** The Warden must manually click the containment chamber to recall the specialist. There is no automated safety ejector; if the operative remains inside for 30 consecutive seconds, the furnace incinerates them instantly, destroying all equipped gear.
+3. **Managerial Tip 3:** If an operative is extracted between 20 and 29 seconds, they emerge with the *Tempered Core* buff, granting +15 Max HP and +0.1 physical defense for the remainder of the shift.
+4. **Managerial Tip 4:** After an operative exits, The Crucible requires a 40-second cool-down cycle. Sending another specialist into the pod while steam is still venting doubles the heat accumulation rate.
+
+## 6 Log and Method Archival Unlock Progression
+
+Observation logs for Channeled Relics unlock based on cumulative **Time of Use**:
+
+| Unlock Tier | Required Time | Archival Information Unlocked |
 |---|---|---|
-| **10 Seconds** | An industrial refinement furnace engineered during the early days of the Reverie Directorate. It burns concentrated regret to fuel the facility's localized energy grid. | Operatives ordered to channel work enter the chamber and begin continuous endurance containment. Cancel order to withdraw the agent. |
-| **20 Seconds** | The interior heat is not combustion, but condensed Han friction. Handlers describe their bones vibrating with the sorrow of those who built the foundation walls. | While active, yields 1 Han-Energy every 3 seconds. The operative suffers escalating physical and mental erosion every 5 seconds. |
-| **30 Seconds** | No human flesh can withstand the core past thirty seconds. The furnace does not discriminate between coal, memory, and the operative who feeds it. | Extreme Danger: Withdraw the operative before 30 seconds elapse. Exceeding 30 seconds results in instant operative death and departmental thermal breach. |
+| **Level 1** | 10 Seconds Cumulative | Basic identification, SECC code, and channeled use mechanics. |
+| **Level 2** | 30 Seconds Cumulative | Managerial Tips 1 and 2, temperature curve, and 30-second fatality limit. |
+| **Level 3** | 60 Seconds Cumulative | Managerial Tips 3 and 4, Tempered Core buff, and cooldown timings. |
+| **Level 4** | 120 Seconds Cumulative | Complete historical engineering logs, UCD factory origin, and trivia. |
 
-## Operational Guidelines
+## 7 Metaphysical Origin and Story
 
-- Assign only specialists equipped with fire-retardant M.A.W. suits exhibiting high 🔴 **Grudge** and 🔵 **Lament** resistance.
-- Keep a continuous timer active when channeling work begins. Standard operating procedure dictates ordering the operative's evacuation at exactly twenty-two seconds.
-- In the event of an imminent facility meltdown or energy shortfall, multiple short shifts of fifteen seconds each should be alternated across different specialists.
+The Crucible was engineered during Cycle 814 of the UCD era by master foundryman David Karr. Faced with crippling energy shortages in the facility's lower sectors, Karr designed a thermodynamic chamber capable of converting the biological heat and willpower of human operatives into clean, distilled Han vapor.
 
-## Flavor Text and Trivia
+Karr tested the prototype himself. In his personal ledger, he wrote: *“The heat is not painful; it is pure. For the first twenty seconds, you feel the grief burning out of your blood like slag from iron. After twenty-five seconds, you realize that without your grief, there is almost nothing left of you to burn.”*
 
-- *“The coal ran out a century ago. The furnace did not notice; it found a hotter fuel in what we refuse to forgive.”*
-- The Crucible's foundation stones were harvested from the basalt vents surrounding Zone C during the second Underworld Cleanup Descend.
+On the final test run, Karr refused to pull the emergency release latch. When recovery teams pried the hatch open, they found no body—only a perfect, violet-tinted crystal ingot weighing exactly 0.02 tons and an iron pod that has remained warm to the touch ever since.
 
-## Gallery
+## 8 Gallery
 
-![The Crucible Basalt Chamber](https://via.placeholder.com/320x180?text=Crucible+Furnace)
-![Thermal Slag Interior](https://via.placeholder.com/320x180?text=Thermal+Slag)
-![Channeled Work Protocol](https://via.placeholder.com/320x180?text=Channeled+Operation)
+![The Crucible Containment Unit](https://via.placeholder.com/320x180?text=The+Crucible+Unit)
+![Thermal Warning Gauge](https://via.placeholder.com/320x180?text=Thermal+Gauge+HUD)
+![Specialist Emerging Tempered](https://via.placeholder.com/320x180?text=Specialist+Tempered)
 
-*Left: volcanic basalt furnace structure; Center: core thermal chamber; Right: Channeled Use operational timing protocol.*
+*Left: The Crucible iron cylindrical unit; Center: thermal escalation gauge; Right: operative emerging with Tempered Core.*
 ---
 
-## See also
+## 9 See also
 
-- [07-Sorrow Entities](07-Sorrow%20Entities.md) — master entity bestiary
-- [28-The Echo Compass](28-The%20Echo%20Compass.md) — single use tool entity
-- [30-The Debt Scale](30-The%20Debt%20Scale.md) — equippable tool entity
-- [37-Relic Entities](37-Relic%20Entities.md) — complete relic taxonomy
+- [37-Relic Entities](37-Relic%20Entities.md) — comprehensive Tool Relics hub
+- [28-The Echo Compass](28-The%20Echo%20Compass.md) — specimen dossier: Single-Use Relic
+- [30-The Debt Scale](30-The%20Debt%20Scale.md) — specimen dossier: Equippable Relic
+- [19-Lumen Surge](19-Lumen%20Surge.md) — energy quotas and overcharge harvesting

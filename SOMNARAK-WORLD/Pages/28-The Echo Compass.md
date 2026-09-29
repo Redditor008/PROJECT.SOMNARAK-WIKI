@@ -1,81 +1,108 @@
 # The Echo Compass
 
-> *“It does not point North. It points to where the weeping is deepest.”*
+> *“Turn the bronze needle toward the silence; it will tell you which room holds the scream.”*
 
-**The Echo Compass (SE-C-IIIβ-016)**  [메아리 나침반]  (_Maeari Nachimban_) is a Rank III (Fragment) **Single Use** Tool-Type [Sorrow Entity](07-Sorrow%20Entities.md) housed within Sector C-02 of Facility 01. As a relic entity, it possesses no standard four-fold work preferences; instead, an assigned operative performs a single interaction to activate its instant acoustic reconnaissance capability.
+**The Echo Compass**  [메아리 나침반]  (_Meari Nachimban_), cataloged under the Somnarak Entity Classification Code as **`SE-T-Iα-001`**, is a **Rank I (Whisper)** Tool Relic of the **Single-Use** functional sub-type.
 
-The Echo Compass is classified under the **Single Use Tool** category of relic entities. Operatives dispatched to Sector C-02 do not engage in continuous suppression or long-term containment maintenance. Instead, a single operative enters the chamber, interacts with the instrument, receives its immediate operational benefit, and exits immediately.
+Discovered in the abandoned subterranean observation posts of the early Sorrow Extraction Division, this ornate brass apparatus consists of a gimbaled magnetic dish housing a vibrating acoustic needle. Unlike sentient [Subject Entities](07-Sorrow%20Entities.md), The Echo Compass possesses no living flesh, appetite, or breach motility. Governed strictly by the **Two-Work-Type Rule**, specialists interact with it solely through 👁 **Viderehan** and 🤲 **Ferrehan** to project resonant sonar sweeps across Facility 01.
 
 ```text
 +========================================================================+
-| SOMNARAK - SE-C-III-016 THE ECHO COMPASS                               |
+| SECC: SE-T-Ia-001 | THE ECHO COMPASS                                   |
 +------------------------------------------------------------------------+
-| Designation          | SE-C-III-016 [TR] (Relic - Tool Entity)         |
-| Tool Category        | Single Use Tool (Instant Acoustic Recon)        |
-| Risk Tier            | Rank III: Fragment - Potency Beta (Moderate)    |
-| Operational Protocol | Single Work Interaction - Unlocked by Uses      |
-| Resonance Cost       | Mental Composure Strain (10 SP Cost per Use)    |
+| Nomenclature Code      | SE-T-Ia-001 (Whisper Tool Relic)              |
+| Functional Subtype     | Single-Use Relic (Instantaneous Discharge)    |
+| Containment Protocols  | Two-Work-Type Rule: Viderehan & Ferrehan      |
+| Primary Function       | Facility-Wide Acoustic Sonar Pulse            |
+| Cooldown & Hazard      | 30s Cooldown; Overuse Inflicts Lament Trauma  |
 +========================================================================+
 ```
 
 ## Contents
 
-- [1 Appearance](#appearance)
-- [2 Ability and Mechanics](#ability-and-mechanics)
-- [3 Log and Method](#log-and-method)
-- [4 Operational Guidelines](#operational-guidelines)
-- [5 Flavor Text and Trivia](#flavor-text-and-trivia)
-- [6 Gallery](#gallery)
-- [7 See also](#see-also)
+- [1 General Information](#1-general-information)
+- [2 Tool Relic Classification: Single-Use Mechanics](#2-tool-relic-classification-single-use-mechanics)
+- [3 Operational Protocols: The Two-Work-Type Rule](#3-operational-protocols-the-two-work-type-rule)
+- [4 Managerial Guidelines and Tactical Utility](#4-managerial-guidelines-and-tactical-utility)
+- [5 Log and Method Archival Unlock Progression](#5-log-and-method-archival-unlock-progression)
+- [6 Observation Logs and Field Transcripts](#6-observation-logs-and-field-transcripts)
+- [7 Metaphysical Origin and Story](#7-metaphysical-origin-and-story)
+- [8 Gallery](#8-gallery)
+- [9 See also](#9-see-also)
 
-## Appearance
+## 1 General Information
 
-The Echo Compass takes the physical form of an oversized nautical astrolabe crafted from tarnished naval brass and blackened hornbeam wood, approximately forty centimeters in diameter. Its central glass lens is hermetically sealed and filled with a luminous, pale blue mineral fluid derived from refined **Han** deposits.
+- **Entity Designation:** The Echo Compass  [메아리 나침반] 
+- **SECC Code:** `SE-T-Iα-001`
+- **Risk Classification:** Rank I — Whisper
+- **Ontological Type:** Object / Tool Relic (Single-Use)
+- **Primary Pressure Output:** 🔵 **Lament** (Mental / Resonance Pulse)
+- **Safe Activation Limit:** 1 activation per 30 seconds per department.
 
-Suspended within the fluid is a multi-jointed steel needle etched with acoustic tuning grooves. The needle does not align with the planetary magnetic poles; instead, it swings erratically until an operative places their hand upon the outer brass gimbal, at which point the needle aligns precisely toward the sector experiencing the highest vibrational distress in the facility.
+## 2 Tool Relic Classification: Single-Use Mechanics
 
-## Ability and Mechanics
+As a **Single-Use Tool Relic**, The Echo Compass operates on an instantaneous interaction cycle:
+- **Instantaneous Dispatch:** When a specialist is ordered to work with The Echo Compass, they enter the chamber, manipulate the gimbaled dials, and trigger the device immediately.
+- **Immediate Departure:** The specialist does not linger inside the cell. Upon triggering the acoustic pulse, the specialist automatically exits and returns to their assigned Main Room.
+- **Active Sonar Field:** The resulting acoustic chime sweeps through all corridors on the floor, temporarily illuminating concealed entity locations, revealing ticking meltdown timers in dark zones, and granting +10% Work Success to all adjacent containment chambers for 45 seconds.
 
-The Echo Compass provides instantaneous reconnaissance across the departmental wing:
+## 3 Operational Protocols: The Two-Work-Type Rule
 
-1. **Instant Activation:** When an operative receives the order to interact with The Echo Compass, they enter the unit and release the gimbal lock. The compass emits a resonant chord that vibrates through the departmental floorboards.
-2. **Reconnaissance Benefit:** The activation instantly exposes the exact **Sorrow Gauge** percentage and current containment risk of all sorrow entities housed in the department, and temporarily reduces departmental resonance agitation by 10%.
-3. **Operational Cost:** Consulting the compass extracts a direct mental toll. The activating operative suffers an immediate loss of 10 SP. If an operative with SP below 20 activates the device, they immediately suffer mental panic.
-4. **Successive Strain:** Activating the compass multiple times during the same operational **Watch** causes rapid acoustic feedback. The second use inflicts 20 SP damage, the third inflicts 40 SP damage, and a fourth use causes instantaneous cranial collapse.
+In accordance with Directorate safety doctrine for inanimate artifacts, 💧 **Flerehan** (Lamentation) and ⚔ **Pugnahan** (Confrontation) are strictly prohibited:
 
-Information regarding The Echo Compass is unlocked progressively based on the cumulative **Number of Uses** logged across facility operations.
+| Protocol | Permitted? | Execution Dynamics | Specialist Result |
+|---|---|---|---|
+| 👁 **Viderehan** (Observation) | **YES** | Specialist aligns the brass astrolabe markings and calibrates the needle. | Safe activation; projects acoustic floor map; trains Clarity (+SP). |
+| 🤲 **Ferrehan** (Endurance) | **YES** | Specialist manually turns the heavy pneumatic base crank to wind the spring. | Safe activation; projects extended sonar wave; trains Resilience (+HP). |
+| 💧 **Flerehan** (Lamentation) | **PROHIBITED** | Inanimate artifact possesses no emotional psyche to receive empathetic communion. | Interface command disabled; attempted communion causes cognitive void. |
+| ⚔ **Pugnahan** (Confrontation) | **PROHIBITED** | Physical assault on calibrated brass dials causes permanent structural misfire. | Interface command disabled; violent contact fractures acoustic core. |
 
-## Log and Method
+## 4 Managerial Guidelines and Tactical Utility
 
-| Interaction Uses | Log Entry | Operational Method |
+1. **Managerial Tip 1:** When a specialist completes work on The Echo Compass, an acoustic chime resonates across the department. For the next 45 seconds, all specialists in that department gain a +10% bonus to work success rates and corridor movement speed.
+2. **Managerial Tip 2:** The Echo Compass requires at least 30 seconds of cooldown between activations. If an operative is sent to activate the compass while the brass needle is still vibrating from a previous pulse, the apparatus emits a dissonant screech, inflicting 15–20 🔵 **Lament** damage to the operative.
+3. **Managerial Tip 3:** During [Ordeal](10-Ordeals.md) incursions, activating The Echo Compass reveals the exact movement vectors and ambush coordinates of approaching Ordeal horrors across the floor HUD.
+4. **Managerial Tip 4:** Novice operatives with Clarity below Level II should not activate the compass repeatedly, as prolonged exposure to its high-frequency hum induces persistent auditory hallucinations.
+
+## 5 Log and Method Archival Unlock Progression
+
+Unlike Subject entities whose codices unlock via raw energy box count, Tool Relic archives unlock based on cumulative **Number of Uses**:
+
+| Unlock Tier | Required Uses | Archival Information Unlocked |
 |---|---|---|
-| **1 Use** | An acoustic navigation device recovered during the third Subterranean Expedition. The needle does not respond to magnetic fields, aligning exclusively with subterranean Han density. | An operative enters and orders single reconnaissance. The compass reveals the department's most agitated sorrow cell. |
-| **3 Uses** | Operatives who hold the casing report hearing distant bells echoing through the brass gears. The sound soothes the room but leaves a persistent ringing behind the handler's ears. | Consumes 10 SP upon activation. Ensure the assigned operative possesses at least Level II Composure before issuing the command. |
-| **5 Uses** | The expedition ledgers note that three surveyors lost their speech after consulting the compass six times in a single afternoon. The compass remembers where sorrow hides, but demands quiet in return. | Caution: Do not activate more than four times during a single Watch. Successive uses within 60 seconds cause escalating SP drain (10 / 20 / 40 SP). |
+| **Level 1** | 1 Successful Use | Basic identification, SECC code, and single-use operational definition. |
+| **Level 2** | 3 Successful Uses | Managerial Tips 1 and 2, cooldown rules, and Lament backlash warnings. |
+| **Level 3** | 6 Successful Uses | Managerial Tips 3 and 4, Ordeal detection mechanics, and department buff timers. |
+| **Level 4** | 10 Successful Uses | Complete metaphysical origin story, field debrief transcript, and flavor text. |
 
-## Operational Guidelines
+## 6 Observation Logs and Field Transcripts
 
-- Assign only operatives with high Composure (Level III or higher) to consult The Echo Compass during crisis situations.
-- Deploy The Echo Compass immediately following a departmental **Reverberation** warning to identify which containment cells require urgent stabilization.
-- Enforce a strict cooling period of at least two minutes between activations to prevent acoustic feedback buildup.
+### Log 001-A (Lead Ayshuk, Insight Forge)
+> *“The needle does not point north. In fact, true magnetic north does not exist within Facility 01. The needle aligns itself with the nearest concentration of unharvested Han gas. When an entity in an adjacent wing prepares to breach, the brass dial hums at 440 Hertz. It is the cheapest early-warning radar we possess.”*
 
-## Flavor Text and Trivia
+### Log 001-B (Junior Specialist Min)
+> *“I touched the casing before the bronze had stopped shivering. The sound didn't hit my ears—it hit the inside of my teeth. For three hours afterward, every word spoken by my squadmates sounded like it was being underwatered in cold grease. Always let the needle rest.”*
 
-- *“The brass is cold, but the needle trembles as if it were shivering in the dark.”*
-- The Echo Compass was originally designed by the early surveyors of the Subterranean Expedition Division to map the subterranean riverbanks of the **Weeping** before optical cameras were engineered.
+## 7 Metaphysical Origin and Story
 
-## Gallery
+The Echo Compass was recovered from Borehole 12 during the early excavations of the Sorrow Extraction Division (SED). It belonged to Chief Surveyor Jonathan Vance, who spent nineteen weeks descending through the upper strata of the [Maw](41-Frontiers.md) attempting to chart subterranean air currents.
 
-![The Echo Compass Astrolabe](https://via.placeholder.com/320x180?text=Echo+Compass+Relic)
-![Acoustic Resonance Needle](https://via.placeholder.com/320x180?text=Acoustic+Needle)
-![Field Deployment Record](https://via.placeholder.com/320x180?text=Single+Use+Method)
+Vance's survey team never returned to the surface. When recovery crews finally breached Cavern 7B three years later, they found only this gimbaled compass resting atop a mound of pulverized shale. The survey team's corpses were never found, but their voices—whispering topographical coordinates and prayers for daylight—remain trapped inside the compass's hollow bronze sphere.
 
-*Left: brass astrolabe housing; Center: resonant Han-fluid chamber; Right: Single Use deployment protocol.*
+Whenever the needle is spun, those forgotten voices chime in unison, guiding the living away from the dark places where the survey team fell.
+
+## 8 Gallery
+
+![The Echo Compass Artifact](https://via.placeholder.com/320x180?text=Echo+Compass+Artifact)
+![Acoustic Sonar Pulse Display](https://via.placeholder.com/320x180?text=Acoustic+Pulse+HUD)
+![Gimbaled Needle Mechanism](https://via.placeholder.com/320x180?text=Brass+Gimbal+Mechanism)
+
+*Left: The Echo Compass apparatus; Center: acoustic pulse radiating on HUD; Right: close-up of vibrating needle.*
 ---
 
-## See also
+## 9 See also
 
-- [07-Sorrow Entities](07-Sorrow%20Entities.md) — master entity bestiary
-- [29-The Crucible](29-The%20Crucible.md) — channeled use tool entity
-- [30-The Debt Scale](30-The%20Debt%20Scale.md) — equippable tool entity
-- [37-Relic Entities](37-Relic%20Entities.md) — complete relic taxonomy
+- [37-Relic Entities](37-Relic%20Entities.md) — comprehensive Tool Relics hub
+- [29-The Crucible](29-The%20Crucible.md) — specimen dossier: Channeled Use Relic
+- [30-The Debt Scale](30-The%20Debt%20Scale.md) — specimen dossier: Equippable Relic
+- [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — armaments and specialist loadouts

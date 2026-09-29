@@ -1,90 +1,113 @@
 # The Debt Scale
 
-> *“A scale worn against the chest balances what is owed against what is endured.”*
+> *“Carry the ledger upon your palm; it will balance what you owe against what the world took from you.”*
 
-**The Debt Scale (SE-C-IIIβ-015)**  [빚의 저울]  (_Bit-ui Jeoul_) is a Rank III (Fragment) **Equippable** Tool-Type [Sorrow Entity](07-Sorrow%20Entities.md) housed within Sector C-01 of Facility 01. As an equippable relic entity, it is removed from its resting dais and equipped by an operative, bestowing continuous passive defensive enhancements. It is the direct paired counterpart to [The Debt Eater](27-The%20Debt%20Eater.md) (`SE-C-IIIβ-014`).
+**The Debt Scale**  [부채의 저울]  (_Buchae-ui Jeoul_), cataloged under the Somnarak Entity Classification Code as **`SE-T-IIIγ-003`**, is a **Rank III (Fragment)** Tool Relic of the **Equippable** functional sub-type.
 
-The Debt Scale embodies the **Equippable Tool** archetype within facility operations. Unlike stationary work units, equippable relics accompany the carrying specialist as they patrol the hallways and perform suppressions, altering the handler's defensive matrix until returned to containment.
+Recovered from the municipal vaults of the Old Commercial Syndicate, The Debt Scale is a handheld balance fashioned from blackened iron and pale bone, bearing miniature pans that sway perpetually without physical air currents. Governed strictly by the **Two-Work-Type Rule**, an operative interacts with the scale to carry it directly into facility corridors, gaining potent mobile support auras and metaphysical damage inversions while accepting severe vulnerability to physical trauma.
 
 ```text
 +========================================================================+
-| SOMNARAK - SE-C-III-015 THE DEBT SCALE                                 |
+| SECC: SE-T-IIIg-003 | THE DEBT SCALE                                   |
 +------------------------------------------------------------------------+
-| Designation          | SE-C-III-015 [TR] (Relic - Tool Entity)         |
-| Tool Category        | Equippable Tool (Wearable Passive Ward)         |
-| Risk Tier            | Rank III: Fragment - Potency Beta (Moderate)    |
-| Operational Protocol | Equip to Specialist - Unlocked by Worn Time     |
-| Paired Subject       | SE-C-III-014 The Debt Eater (Symbiotic/Hazard)  |
+| Nomenclature Code      | SE-T-IIIg-003 (Fragment Tool Relic)           |
+| Functional Subtype     | Equippable Relic (Carried Field Artifact)     |
+| Containment Protocols  | Two-Work-Type Rule: Viderehan & Ferrehan      |
+| Primary Function       | Passive SP Healing & Void Damage Inversion    |
+| Defense Tradeoff       | Grants 0.3 Void Defense; Weakens Grudge to 1.8|
 +========================================================================+
 ```
 
 ## Contents
 
-- [1 Appearance](#appearance)
-- [2 Ability and Mechanics](#ability-and-mechanics)
-- [3 Log and Method](#log-and-method)
-- [4 Paired Interaction with The Debt Eater](#paired-interaction-with-the-debt-eater)
-- [5 Operational Guidelines](#operational-guidelines)
-- [6 Flavor Text and Trivia](#flavor-text-and-trivia)
-- [7 Gallery](#gallery)
-- [8 See also](#see-also)
+- [1 General Information](#1-general-information)
+- [2 Tool Relic Classification: Equippable Mechanics](#2-tool-relic-classification-equippable-mechanics)
+- [3 Operational Protocols: The Two-Work-Type Rule](#3-operational-protocols-the-two-work-type-rule)
+- [4 The Inversion Aura and Defensive Trade-Offs](#4-the-inversion-aura-and-defensive-trade-offs)
+- [5 Resonance Pairing with The Debt Eater](#5-resonance-pairing-with-the-debt-eater)
+- [6 Managerial Guidelines and Retrieval Rules](#6-managerial-guidelines-and-retrieval-rules)
+- [7 Log and Method Archival Unlock Progression](#7-log-and-method-archival-unlock-progression)
+- [8 Metaphysical Origin and Story](#8-metaphysical-origin-and-story)
+- [9 Gallery](#9-gallery)
+- [10 See also](#10-see-also)
 
-## Appearance
+## 1 General Information
 
-The Debt Scale manifests as an ornate handheld balance scale measuring roughly twenty-five centimeters in length, forged from unblemished sterling silver and polished segments of bleached whalebone. It hangs from a woven ribbon of dark midnight-blue velvet designed to be fastened around an operative's chest cuirass.
+- **Entity Designation:** The Debt Scale  [부채의 저울] 
+- **SECC Code:** `SE-T-IIIγ-003`
+- **Risk Classification:** Rank III — Fragment
+- **Ontological Type:** Object / Tool Relic (Equippable)
+- **Primary Pressure Manipulation:** ⚪ **Void** (Pale) vs 🔴 **Grudge** (Physical)
+- **Safe Carrying Limit:** Must be returned to chamber before shift evaluation.
 
-The two balancing pans are micro-etched with municipal debtor registry seals. Suspended in perfect equilibrium even when jostled, the scale emits a soft, crystalline ringing when its carrier moves. A faint, pearlescent glow surrounds the pans, warming the operative's breastplate with an aura of tranquil detachment.
+## 2 Tool Relic Classification: Equippable Mechanics
 
-## Ability and Mechanics
+As an **Equippable Tool Relic**, The Debt Scale leaves its containment cell:
+- **Field Carrying:** An assigned specialist enters the cell, retrieves the scale, and carries it in their secondary weapon hand.
+- **Mobile Support Aura:** As the specialist walks through corridors, elevators, and Main Rooms, the scale radiates a restorative pulse every 3 seconds, restoring 4–6 Sanity Points (SP) to all squadmates within a 5-meter radius.
+- **Combat Participation:** The bearer can still wield a one-handed primary M.A.W. weapon, functioning as an agile combat medic during suppression clashes.
 
-The Debt Scale functions as an equippable protective ward with distinct operational parameters:
+## 3 Operational Protocols: The Two-Work-Type Rule
 
-1. **Equipping Procedure:** An operative directed to Sector C-01 enters the chamber and equips the scale. The item occupies the operative's single **Tool Relic Slot**; an operative may only carry one equippable tool at any given moment.
-2. **Passive Composure Restoration:** While equipped, the scale continually stabilizes the wearer's mental equilibrium, restoring approximately 10 SP per second. This makes the carrier exceptionally resilient against 🔵 **Lament** panic.
-3. **Void Defense Inversion:** The Debt Scale fundamentally alters how the wearer absorbs ⚪ **Void** (Pale White) damage. The carrier's ⚪ **Void** resistance is inverted and enhanced, converting devastating percentage-based health trauma into negligible scratch damage. However, the wearer's physical resistance against 🔴 **Grudge** is moderately reduced (multiplying damage taken by 1.25).
-4. **Return Conditions:** The operative returns the scale to Sector C-01 by simply interacting with its containment unit. If the equipped operative is killed in the field, the scale dematerializes and returns to its resting pedestal automatically. The scale also returns automatically at the conclusion of the daily **Watch**.
+In accordance with Directorate safety doctrine, The Debt Scale permits only observation and physical handling:
 
-Information regarding The Debt Scale is unlocked progressively based on the cumulative **Equipped Duration** recorded during facility operations.
+| Protocol | Permitted? | Execution Dynamics | Specialist Result |
+|---|---|---|---|
+| 👁 **Viderehan** (Observation) | **YES** | Specialist calibrates the counterweights and reads the bone pans. | Safely prepares relic; checks balance; trains Clarity (+SP). |
+| 🤲 **Ferrehan** (Endurance) | **YES** | Specialist picks up the scale and carries it out into the facility. | Equips relic for field deployment; trains Resilience (+HP). |
+| 💧 **Flerehan** (Lamentation) | **PROHIBITED** | Inanimate iron pans cannot respond to emotional grief or tears. | Interface command disabled; attempted communion causes silence. |
+| ⚔ **Pugnahan** (Confrontation) | **PROHIBITED** | Forcible impact unbalances the calibrated bone counterweights. | Interface command disabled; violent contact causes psychic backlash. |
 
-## Log and Method
+## 4 The Inversion Aura and Defensive Trade-Offs
 
-| Equipped Duration | Log Entry | Operational Method |
+Carrying The Debt Scale fundamentally alters the bearer's metaphysical defense matrix:
+- **Pale Void Inversion:** The bearer's resistance against ⚪ **Void** damage becomes **0.3 (Highly Resistant)**. When struck by percentage-based Void attacks, the bearer absorbs only a fraction of damage, and 50% of the absorbed damage is converted into an immediate party-wide health heal.
+- **Physical Grudge Penalty:** In exchange, the bearer's resistance against physical 🔴 **Grudge** damage collapses to **1.8 (Fatal Vulnerability)**. Kinetic slashes, beast claws, and blunt weapons inflict devastating damage.
+
+## 5 Resonance Pairing with The Debt Eater
+
+The Debt Scale shares a direct metaphysical resonance with [27-The Debt Eater](27-The%20Debt%20Eater.md) (`SE-C-IIIβ-014`):
+- **Synergy:** When an operative carrying The Debt Scale enters The Debt Eater's containment chamber to execute ⚔ **Pugnahan** work, all Void damage dealt by The Debt Eater is reduced to 0.
+- **Bonus Yield:** Completing work under this pairing yields an additional +4 Lumen Units and grants the bearer the temporary *Absolved Debtor* combat buff.
+
+## 6 Managerial Guidelines and Retrieval Rules
+
+1. **Managerial Tip 1:** An operative carrying The Debt Scale emits an aura that heals 5 SP to nearby allies every 3 seconds, making them invaluable for escorting panicked squadmates to safety.
+2. **Managerial Tip 2:** The bearer takes 80% increased damage from 🔴 **Grudge** attacks. Never position the scale-bearer in front of brute beasts or GREY Ordeal incursions.
+3. **Managerial Tip 3:** The scale must be returned to its chamber before the Warden concludes the daily shift. If the shift ends while an operative is still carrying the scale, the scale claims its debt, draining 50% of the operative's maximum HP permanently.
+4. **Managerial Tip 4:** If the bearer perishes while holding the scale, the relic remains on the corridor floor. Any adjacent specialist can pick it up by interacting with it via 🤲 **Ferrehan**.
+
+## 7 Log and Method Archival Unlock Progression
+
+Observation logs for Equippable Relics unlock based on cumulative **Equipped Duration**:
+
+| Unlock Tier | Required Duration | Archival Information Unlocked |
 |---|---|---|
-| **30 Seconds** | The sister artifact to The Debt Eater, crafted to weigh an individual's accumulated obligations against their vital endurance. | An operative enters the cell and equips the scale. The operative carries the relic as a passive chest accessory. |
-| **1 Minute** | The wearer feels an extraordinary lightness in their chest, as if every contract they ever signed has been deferred by an unseen guarantor. | While equipped, restores ~10 SP per second and inverts Void defense. Ensure the wearer does not engage in heavy Grudge suppression. |
-| **2 Minutes** | When the creditor and the scale meet, the illusion of deferred payment shatters. What was borrowed must be repaid all at once. | Caution: Never allow the equipped operative to enter Sector C-01 (The Debt Eater). Direct contact triggers mutual catastrophic breach and kills the wearer. |
+| **Level 1** | 30 Seconds Equipped | Basic identification, SECC code, and equippable mechanic rules. |
+| **Level 2** | 60 Seconds Equipped | Managerial Tips 1 and 2, Void inversion defense, and Grudge vulnerability. |
+| **Level 3** | 120 Seconds Equipped | Managerial Tips 3 and 4, return rules, and Debt Eater resonance synergy. |
+| **Level 4** | 300 Seconds Equipped | Complete commercial syndicate lore, archival debrief, and flavor text. |
 
-## Paired Interaction with The Debt Eater
+## 8 Metaphysical Origin and Story
 
-The Debt Scale shares an intimate, dangerous resonance with [The Debt Eater](27-The%20Debt%20Eater.md) (`SE-C-IIIβ-014`):
+The Debt Scale was originally the property of Magistrate Yoon of the Third Municipal District during the pre-Dawn era. Yoon presided over the liquidation of bankrupt families, determining which citizens would be sold into subterranean mining contracts to settle outstanding municipal debts.
 
-- If The Debt Eater breaches while an operative is carrying The Debt Scale, The Debt Eater does not wander corridors at random; it immediately locks onto the scale's carrier and accelerates its movement speed to 3.20 m/s.
-- If an operative carrying The Debt Scale enters the containment chamber of The Debt Eater, the two artifacts undergo immediate harmonic rupture. The carrying operative's chest cavity is crushed by spontaneous debt-mass, killing them instantly, while The Debt Eater immediately breaches at maximum agitation.
+It is recorded that Yoon kept this balance upon his cedar desk for forty years, weighing promissory notes against drops of the debtor's blood. When the Third District collapsed into civil unrest during the Hungry Winter of Year 4,219, Yoon was found dead in his chambers, having swallowed his own iron weights.
 
-## Operational Guidelines
+The scale survived the fire intact. When placed upon a table, its pans never rest level; one side always hangs lower, waiting for someone to offer a sacrifice heavy enough to satisfy forty years of uncollected interest.
 
-- Equip The Debt Scale to frontline suppressors assigned to subdue high-threat ⚪ **Void** entities, such as *The Hollow Choir* or breaching sovereign fragments.
-- Keep the carrier strictly separated from Sector C-01 to prevent accidental catastrophic feedback.
-- Return the scale to its pedestal immediately once suppression tasks are resolved to minimize exposure to physical vulnerability.
+## 9 Gallery
 
-## Flavor Text and Trivia
+![The Debt Scale Relic](https://via.placeholder.com/320x180?text=The+Debt+Scale+Relic)
+![Inversion Aura Visualizer](https://via.placeholder.com/320x180?text=Inversion+Aura+Field)
+![Scale Bearer in Corridor](https://via.placeholder.com/320x180?text=Scale+Bearer+Corridor)
 
-- *“On one pan rests your name; on the other rests everything you promised to be. The needle never moves, because both are equally hollow.”*
-- The Debt Scale was discovered alongside the original ledger in Zone C, resting atop the ashes of the Eastern Ward settlement pact.
-
-## Gallery
-
-![The Debt Scale Relic](https://via.placeholder.com/320x180?text=Debt+Scale+Pendant)
-![Equippable Ward Interface](https://via.placeholder.com/320x180?text=Equippable+Chest+Slot)
-![Paired Resonance Warning](https://via.placeholder.com/320x180?text=Paired+Resonance+Hazard)
-
-*Left: silver and bone scale relic; Center: equippable chest slot interface; Right: paired resonance hazard diagram.*
+*Left: The Debt Scale artifact; Center: restorative aura field; Right: specialist carrying scale in corridor.*
 ---
 
-## See also
+## 10 See also
 
-- [27-The Debt Eater](27-The%20Debt%20Eater.md) — paired non-tool subject entity
-- [07-Sorrow Entities](07-Sorrow%20Entities.md) — master entity bestiary
-- [28-The Echo Compass](28-The%20Echo%20Compass.md) — single use tool entity
-- [29-The Crucible](29-The%20Crucible.md) — channeled use tool entity
-- [37-Relic Entities](37-Relic%20Entities.md) — complete relic taxonomy
+- [37-Relic Entities](37-Relic%20Entities.md) — comprehensive Tool Relics hub
+- [28-The Echo Compass](28-The%20Echo%20Compass.md) — specimen dossier: Single-Use Relic
+- [29-The Crucible](29-The%20Crucible.md) — specimen dossier: Channeled Use Relic
+- [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen Subject: paired debt resonance
