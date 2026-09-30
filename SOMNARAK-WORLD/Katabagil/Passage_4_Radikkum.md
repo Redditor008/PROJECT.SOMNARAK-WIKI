@@ -220,7 +220,7 @@ A deafening acoustic wail shook the cavern walls.
  - Base Defense: 55 | Tempo Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
    * Grudge : 2.0x (Exposed Weakness — Fire incinerates dry petrified sap)
-   * Lament: 0.5x (Withstood — Saturated in four thousand years of tears)
+   * Lament: 0.5x (Dulled — Saturated in four thousand years of tears)
    * Void : 1.5x (Weakness — Severing root cords disrupts memory net)
    * Weight    : 1.0x (Normal — Solid kinetic sapping)
 

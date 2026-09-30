@@ -226,7 +226,7 @@ The entity, catalogued under field code **SECC-E04 "The Sump Matron"**, was a te
  ELITE ANOMALY COMBAT: SECC-E04 "THE SUMP MATRON" (Grade-β Potency)
 ================================================================================
  BOSS ATTRIBUTES: HP: 950 | Stagger: 380 | Element: Grudge
- RESISTANCES: Grudge (Withstood 0.5x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Normal 1.0x)
+ RESISTANCES: Grudge (Dulled 0.5x), Lament (Exposed 2.0x), Void (Normal 1.0x), Weight (Normal 1.0x)
 
  TURN 1:
  - Boss initiates [Scalding Brine Deluge] (AoE Range 5): Base 8 + 2 Harmonic Beats (+3 each)
@@ -307,7 +307,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
  - Base Defense: 35 | Tempo Dice: 2–6 (3 Attack Slots)
  - Resistances:
    * Grudge : 2.0x (Exposed Weakness — Heat & Kinetic Friction)
-   * Lament: 0.5x (Withstood — Saturated in Weeping Brine)
+   * Lament: 0.5x (Dulled — Saturated in Weeping Brine)
    * Void : 1.0x (Normal — Susceptible to Direct Soul Severing)
    * Weight    : 0.75x (Ineffective — Heavy Basalt Construction)
 

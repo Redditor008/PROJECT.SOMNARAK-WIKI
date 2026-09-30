@@ -233,9 +233,9 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
  - Base Defense: 70 | Tempo Dice: 2–6 (3 Attack Slots, 5 in Phase 2)
  - Resistances:
    * Grudge : 1.0x (Normal — Forged from humanity's first anguish)
-   * Lament: 0.5x (Withstood — Saturated in four millennia of tears)
+   * Lament: 0.5x (Dulled — Saturated in four millennia of tears)
    * Void : 2.0x (Exposed Weakness — Transcendent truth and silence)
-   * Weight    : 0.5x (Withstood — Cyclopean bedrock and oceanic ballast)
+   * Weight    : 0.5x (Dulled — Cyclopean bedrock and oceanic ballast)
 
  TARGETABLE COMPONENT PARTS:
  1. Aura of Primordial Grief  (HP: 1,200 | Stagger: 500) — Surging tidal barrier

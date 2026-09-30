@@ -67,7 +67,7 @@
 | **(Grudge)** | 1.0 (Normal) | Standard kinetic damage penetration. |
 | **(Lament)** | 0.8 (Warded) | Resistant to acoustic weeping. |
 | **(Void)** | 1.5 (Weak) | Vulnerable to conceptual void dissolution. |
-| **(Weight)** | 0.5 (Immune / Withstood) | Heavily resistant to gravitational shockwaves. |
+| **(Weight)** | 0.5 (Immune / Dulled) | Heavily resistant to gravitational shockwaves. |
 
 ### Combat Actions
 

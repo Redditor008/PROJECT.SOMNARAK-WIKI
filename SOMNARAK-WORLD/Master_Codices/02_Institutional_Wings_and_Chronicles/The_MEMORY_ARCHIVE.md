@@ -652,17 +652,17 @@ The 28 Mnemonic Inscription Glyphs are not decorative symbols; they are acoustic
 ### 6.1 Extended Mnemonic Combat Page Codex
 Below is the definitive tactical combat page catalog extracted from the seven floors, utilized by Seiyon and custodial wardens in high-tier containment clashes:
 
-- **Ink Cleave (Grade Alpha / 1 AP / Band 1 Melee):** Gash 6-10, Deflect 4-8 [Void]. Inflicts +2 Posture Strain on hit.
-- **Archival Ward (Grade Alpha / 1 AP / Band 1 Melee):** Deflect 8-12, Riposte 5-9 [Weight]. Reflects 35% kinetic damage back to attacker.
+- **Ink Cleave (Grade Alpha / 1 AP / Band 1 Melee):** Gash 6-10, Block 4-8 [Void]. Inflicts +2 Posture Strain on hit.
+- **Archival Ward (Grade Alpha / 1 AP / Band 1 Melee):** Block 8-12, Counter 5-9 [Weight]. Reflects 35% kinetic damage back to attacker.
 - **Shadow Feint (Grade Beta / 2 AP / Band 2 Close):** Evade 10-15, Skewer 8-12 [Lament]. Strips 1 enemy clash power upon successful evade.
 - **Mirror Duplication (Grade Beta / 2 AP / Band 2 Close):** Gash 7-11, Gash 7-11 [Void]. Copies target's offensive passive for 1 turn.
-- **Iron Bulwark (Grade Gamma / 3 AP / Band 1 Melee):** Deflect 14-18, Bludgeon 10-14 [Weight]. Intercepts single-target attack for adjacent ally.
+- **Iron Bulwark (Grade Gamma / 3 AP / Band 1 Melee):** Block 14-18, Bludgeon 10-14 [Weight]. Intercepts single-target attack for adjacent ally.
 - **Sentry's Decree (Grade Gamma / 3 AP / Band 2 Close):** Bludgeon 12-16, Stun 8-10 [Grudge]. Inflicts 2 turns of -2 Speed on target.
 - **Frozen Lament (Grade Gamma / 3 AP / Band 3 Mid):** Skewer 11-15, Skewer 11-15 [Lament]. Quenches 25 Heat; -15% enemy action speed.
 - **Cryo Deluge (Grade Gamma / 4 AP / Band 3-4 Mid-Long):** AOE Gash 14-18, Block 10 [Lament]. Floods 3 nodes with liquid cryogenic tears.
 - **Prismatic Needle (Grade Delta / 3 AP / Band 4 Long):** Skewer 16-20, Crit 12-16 [Void]. Pierces 50% protection; targets internal core.
-- **Severance Beam (Grade Delta / 4 AP / Band 4-5 Long-Siege):** Beam 20-25, Deflect 12-16 [Void]. Pierces all enemies along a linear node vector.
-- **Sympathetic Suture (Grade Delta / 3 AP / Band 2 Close):** Heal 15-20, Deflect 12-16 [Hope]. Restores 300 HP and +15 SP to wounded ally.
+- **Severance Beam (Grade Delta / 4 AP / Band 4-5 Long-Siege):** Beam 20-25, Block 12-16 [Void]. Pierces all enemies along a linear node vector.
+- **Sympathetic Suture (Grade Delta / 3 AP / Band 2 Close):** Heal 15-20, Block 12-16 [Hope]. Restores 300 HP and +15 SP to wounded ally.
 - **Martyr's Shield (Grade Delta / 4 AP / Band 1-3 Multi):** Intercept 22-26, Counter [Hope]. Intercepts 100% of lethal damage for squad.
 - **Dawn Calligraphy (Grade Omega / 5 AP / Omni-Band):** Gash 25-30, Skewer 25-30 [Hope]. Transmutes target posture strain into Hope.
 - **The Eternal Promise (Grade Omega / 6 AP / Omni-Band):** Reality Climax 35-45 [Hope]. Restores all allies to 100% HP; resets panic.

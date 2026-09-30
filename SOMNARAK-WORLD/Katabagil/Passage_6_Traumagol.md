@@ -236,10 +236,10 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
  - Stagger Thresholds: 3,360 HP (70%) | 1,920 HP (40%) | 480 HP (10%)
  - Base Defense: 65 | Tempo Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
  - Resistances:
-   * Grudge : 0.5x (Withstood — Forged from 400 years of war rage)
+   * Grudge : 0.5x (Dulled — Forged from 400 years of war rage)
    * Lament: 1.0x (Normal — Water dampens the burning grief)
    * Void : 2.0x (Exposed Weakness — Truth severing phantom lattice)
-   * Weight    : 0.5x (Withstood — Cyclopean obsidian plate chassis)
+   * Weight    : 0.5x (Dulled — Cyclopean obsidian plate chassis)
 
  TARGETABLE COMPONENT PARTS:
  1. Solidified Fury Glaive (HP: 1,150 | Stagger: 450) — Sweeping crimson polearm

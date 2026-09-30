@@ -469,7 +469,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node overl
 |          THE CANONICAL COMBAT PAGES OF THE HORIZON CARAVAN             |
 +------------------------------------------------------------------------+
 | PAGE 01: TRENCH-CLEAVER STANCE (Grade Alpha / 1 AP / Band 1 Melee)     |
-| - Dice: Gash 7-11, Deflect 5-9 [Weight]                             |
+| - Dice: Gash 7-11, Block 5-9 [Weight]                                  |
 |   | Passive: +2 Posture Strain.                                        |
 | -------------------------------------------------------------------    |
 | PAGE 02: DUNE-SKIMMER FLANK (Grade Beta / 2 AP / Band 2 Close)         |
@@ -484,7 +484,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node overl
 |   | Inflicts 1-turn immobilize.                                        |
 | -------------------------------------------------------------------    |
 | PAGE 05: ACOUSTIC QUENCH (Grade Gamma / 3 AP / Band 3-4 Mid-Long)      |
-| - Dice: Null-Pulse 15-20, Deflect 12-16 [Void] | Quenches sandstorms.  |
+| - Dice: Null-Pulse 15-20, Block 12-16 [Void] | Quenches sandstorms.  |
 | -------------------------------------------------------------------    |
 | PAGE 06: CRAWLER SIEGE CALL-IN (Grade Delta / 4 AP / Band 5            |
 | Extreme)                                                               |

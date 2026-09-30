@@ -80,7 +80,7 @@ Where:
 - **Base Weapon Damage:** Rolled from weapon range (e.g., Grade γ poleaxe rolls 8–15).
 - **Elemental Affinity Multiplier:**
   * Resistant (0.3 to 0.5)
-  * Withstood (0.7 to 0.8)
+  * Dulled (0.7 to 0.8)
   * Normal (1.0)
   * Weak / Vulnerable (1.2 to 1.5)
   * Dire / Cleaved (2.0)
