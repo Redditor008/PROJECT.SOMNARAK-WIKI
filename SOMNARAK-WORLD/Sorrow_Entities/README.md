@@ -27,8 +27,8 @@ Where:
   - `N`: Non-physical / Ethereal / Acoustic Entity
   - `A`: Abstract / Phenomenological Entity
 - **`[T]` Threat Tier (Roman Numerals)**:
-  - `I` (**Rank I: Whisper / 속삭임**): Negligible or passive threat; minimal cell breach risk.
-  - `II` (**Rank II: Murmur / 웅얼거림**): Low-to-moderate threat; standard suppression squads sufficient.
+  - `I` (**Rank I: Residue / 잔여물**): Negligible or passive threat; minimal cell breach risk.
+  - `II` (**Rank II: Echo / 메아리**): Low-to-moderate threat; standard suppression squads sufficient.
   - `III` (**Rank III: Fragment / 파편**): Significant threat; lethal capabilities requiring disciplined work.
   - `IV` (**Rank IV: Entity / 존재**): Critical threat; massive psychological degradation or structural breach hazard.
   - `V` (**Rank V: Sovereign / 군주**): Catastrophic existential threat; potential facility-wide or district-wide collapse.

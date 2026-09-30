@@ -42,10 +42,10 @@ During containment interactions, the interacting specialist extracts energy in d
 - **Positive Energy Tick:** Fulfills the entity's psychological resonance, creating a **Lumen Box** (+1 LU).
 - **Negative Energy Tick:** Fractures the emotional communion, generating a **Fracture Box** that deals damage to the operative based on the entity's [Pressure Type](17-Pressure%20Types.md).
 - The total Lumen capacity per work session scales with entity risk rank:
-  - **Rank I (Whisper):** 10–12 Max LU
-  - **Rank II (Murmur):** 14–16 Max LU
+  - **Rank I (Residue):** 10–12 Max LU
+  - **Rank II (Echo):** 14–16 Max LU
   - **Rank III (Fragment):** 16–20 Max LU (e.g. [27-The Debt Eater](27-The%20Debt%20Eater.md) yields 16 LU)
-  - **Rank IV (Wail):** 24–30 Max LU
+  - **Rank IV (Entity):** 24–30 Max LU
   - **Rank V (Sovereign):** 32–36 Max LU
 
 ## 3 The Mathematical Quota Curve: Days 1 to 50

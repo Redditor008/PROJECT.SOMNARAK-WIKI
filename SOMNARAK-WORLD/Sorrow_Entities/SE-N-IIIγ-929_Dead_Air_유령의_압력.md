@@ -86,8 +86,8 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dead Air's recorded combat actions.
+3. **Resolution (Dead Air):** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 

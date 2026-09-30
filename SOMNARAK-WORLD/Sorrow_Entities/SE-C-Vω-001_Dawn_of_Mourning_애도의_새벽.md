@@ -53,7 +53,7 @@
 | **Speed** | 2.95 m/s |
 | **Resistance** | 55% against All four — Lament, Grudge, Void, Weight pressure; 45% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 95% |
-| **Sorrow Gauge [HP]** | 999/999 |
+| **Sorrow Gauge [HP]** | 1200/1200 |
 | **Han Pressure [ATK]** | 44–111 per hit · Lament · **Instant Fracture on critical** |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the All four — Lament, Grudge, Void, Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dawn of Mourning's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Genuine confession before the twelfth blessing; no reliable post-formation method exists**.
 
 ### Consequences
@@ -94,7 +94,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
 - The entity’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in its dossier.
+- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Dawn of Mourning's dossier.
 
 ## Appearance
 **Primary Form:** A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.

@@ -9,6 +9,20 @@ This file records notable changes to the public Somnarak Wiki.
 ## Unreleased
 
 ### Added
+- **V1 dossier-depth round (split record, loop semantics, epochs, HP, prose)** —
+  - Split-recorded the First Tear (SE-C-Vδ-290) from the Forgotten God (SE-C-Vδ-265) in Descent 4; added loop-semantics mapping notes to both timeline copies.
+  - Anchored the SED epoch (Year Zero ≡ MMSS 2460; Passage Year 38 = 2498) and disambiguated SED descents from Nareumhan Descents 1–5 in Scenario 04.
+  - Added census-density readings (7 strata × ~86 km² ≈ 600 km²; Kowloon-grade by doctrine) to both Katabagil overview paras and the builder.
+  - Replaced all fourteen 999 placeholder HP pools with role-calibrated values (Rank IV 600–950; Colossus 2,600; Final Door 750; First Tear 600; Dawn 1,200) and mirrored six MAW-A Gauge rows.
+  - Retired lint rule B3, added comma-year coverage and the 4239–4255 post-Dawn window (fixture now Year 4299); normalized the legacy horizon builder year.
+  - De-duplicated 743 shared dossier prose lines across 282 files with name-slotted rewrites; added LICENSE (CC BY-NC-SA 4.0) and a README fan notice.
+
+- **V4 tactics-honesty round (rank names, Speed bands, Veil fate)** —
+  - Canonicalized rank names repo-wide: Residue (I), Echo (II), Fragment (III), Entity (IV), Sovereign (V); Whisper/Murmur/Wail rank usages retired to a deprecation note in the Entity Codex.
+  - Rewrote the tactical Speed table to attested bands 2–7 (Final Door 2 stationary, Marjuk 4, wardens 5, Frozen Veil 6, Xyan 7); mobile Sovereign Speeds marked unencountered.
+  - Separated dossier m/s pursuit ratings from tactical Speed; documented HP 1:1 conversion, part-split rupture, the HP-N/A objective rule, and a provisional Resolve difficulty table.
+  - Recorded the Frozen Veil’s destruction in its dossier and marked entity cross-references historical (pre-Dawn logs such as Canto IV unaffected).
+
 - **V3 canon-hygiene round (entity merge, scope fields, counts, prose)** —
   - Merged duplicate Sovereign dossier `SE-C-Vω-044` into `SE-C-Vω-002` (combat record, stigma, expanded sections) and retired the 044 file; retargeted MAW-044 set links, conversion-guide row, and catalog rows to the surviving 002. Archive now 291 dossiers / 291 unique codes; catalog indexes 284.
   - Corrected 58 scope-letter-vs-`Sorrow Category` mismatches (field side fixed; filenames load-bearing) and added a scope check to `audit_sorrow_entities` plus missing `ω`-grade rank counting.

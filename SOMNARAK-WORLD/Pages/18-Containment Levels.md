@@ -82,7 +82,7 @@ Experienced Wardens employ several tactical doctrines to mitigate overload risks
 ## 6 Sacrificial Clearance Under Extreme Duress
 
 When multiple high-risk cells overload simultaneously and qualified veteran specialists are unavailable:
-- **Sacrificial Clearance:** Dispatching an expendable recruit into a Sovereign or Wail chamber resets the 60-second timer instantly upon door ingress.
+- **Sacrificial Clearance:** Dispatching an expendable recruit into a Sovereign or Entity-rank chamber resets the 60-second timer instantly upon door ingress.
 - Even if the recruit perishes inside from negative energy ticks, resetting the timer preserves 25% of facility Lumen and prevents a devastating hallway breach.
 
 ## 7 Interaction with Ordeal Incursions

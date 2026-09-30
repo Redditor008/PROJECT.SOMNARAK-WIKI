@@ -64,7 +64,7 @@ In **Endless Containment**, the quota gauge has no upper ceiling:
 |---|---|---|---|
 | **Waves 1 – 5** | Levels I – V | First & Second Watch Ordeals | Routine warm-up; standard cell overloads. |
 | **Waves 6 – 10** | Levels VI – X | Third & Tide Watch Ordeals | High-tier Fragments breach; multi-wing combat. |
-| **Waves 11 – 15** | Levels XI – XV | Back-to-Back Tide Incursions | Wail entities break containment; auxiliary wipeout. |
+| **Waves 11 – 15** | Levels XI – XV | Back-to-Back Tide Incursions | Entity-rank entities break containment; auxiliary wipeout. |
 | **Waves 16 – 20+** | Levels XVI – XX | Simultaneous Dual Sovereigns | Absolute chaos; requires flawless shield cycling. |
 
 ## 4 Director Rematch Trials: Dual Realizations

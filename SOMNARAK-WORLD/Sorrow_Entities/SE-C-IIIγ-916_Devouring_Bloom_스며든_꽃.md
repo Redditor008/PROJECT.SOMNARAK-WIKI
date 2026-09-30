@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Devouring Bloom's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Witness the memories and prevent unauthorized petal collection**.
 
 ### Consequences
@@ -196,7 +196,7 @@ The escalation pattern is specific to Devouring Bloom: it is not a generic breac
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 | **Management** | Witness the memories and prevent unauthorized petal collection. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Devouring Bloom):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## Breach Behavior
 
 > *"Spreading Flower has broken free. Releases spores that infest personnel."*

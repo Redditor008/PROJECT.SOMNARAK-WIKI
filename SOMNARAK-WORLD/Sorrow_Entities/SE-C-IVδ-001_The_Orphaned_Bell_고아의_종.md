@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Orphaned Bell's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method**.
 
 ### Consequences
@@ -216,7 +216,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 | **Risk** | Constant tolling causes memory gaps after 72 hours; names of lost children intrude into thought. |
 | **Management** | The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (The Orphaned Bell):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -258,7 +258,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 
 The escalation pattern is specific to The Orphaned Bell: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-B-01 — special tower in Zone B; contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence (The Orphaned Bell):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -271,7 +271,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 | **Risk** | Critical (δ) — Facility-threatening if breached Object-Lament producing Lament pressure; Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (The Orphaned Bell):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.

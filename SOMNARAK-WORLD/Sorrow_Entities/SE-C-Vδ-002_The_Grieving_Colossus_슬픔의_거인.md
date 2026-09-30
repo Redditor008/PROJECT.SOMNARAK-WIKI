@@ -53,7 +53,7 @@
 | **Speed** | 2.80 m/s |
 | **Resistance** | 50% against Weight pressure; 40% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 999/999 |
+| **Sorrow Gauge [HP]** | 2600/2600 |
 | **Han Pressure [ATK]** | 22–48 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Grieving Colossus's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes**.
 
 ### Consequences

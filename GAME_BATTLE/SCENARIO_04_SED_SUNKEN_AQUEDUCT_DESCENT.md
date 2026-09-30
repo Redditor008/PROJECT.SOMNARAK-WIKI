@@ -21,6 +21,12 @@
 
 ---
 
+> **SED epoch note:** SED Year Zero ≡ MMSS 2460. This descent is logged in Passage Year 38 (MMSS 2498).
+>
+> **Naming disambiguation:** SED descents (Somnarak Exploration Decree expeditions, e.g., this Sunken Aqueduct Descent) are distinct records from the Nareumhan Descents (Descents 1–5, facility descent logs). Never conflate the two series.
+
+---
+
 ## 1. Tactical Overview & Operational Parameters
 
 - **Topological Coordinate:** Strata 1 Sub-Municipal Karst, Culvert Gate 04 Threshold (-150m Depth).

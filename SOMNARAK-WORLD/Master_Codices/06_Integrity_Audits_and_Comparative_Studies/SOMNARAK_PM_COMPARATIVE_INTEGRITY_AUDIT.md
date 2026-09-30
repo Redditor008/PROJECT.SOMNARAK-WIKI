@@ -454,8 +454,8 @@ Both worlds enforce strict taboos, but their motivations are fundamentally antit
 ### 7.2 The Five Coherence Ranks & Five Potency Grades
 
 1. **Coherence Ranks (Cohesion of Physical Shape):**
-   - **Rank I: Whisper (속삭임 / Soksagim):** Amorphous mists, auditory murmurs, and fleeting visual anomalies lacking dense physical mass.
-   - **Rank II: Murmur (웅얼거림 / Ungeolgeorim):** Gelatinous brine constructs, dripping sludge shadows, and unstable semi-solid forms.
+   - **Rank I: Residue (잔여물 / Janyeo):** Amorphous mists, auditory murmurs, and fleeting visual anomalies lacking dense physical mass.
+   - **Rank II: Echo (메아리 / Meari):** Gelatinous brine constructs, dripping sludge shadows, and unstable semi-solid forms.
    - **Rank III: Fragment (파편 / Papyeon):** Crystalline, barbed, humanoid silhouettes with defined skeletal structures capable of physical violence.
    - **Rank IV: Entity (존재 / Jonjae):** Fully solidified apex predators possessing complex psychological intelligence, acoustic control, and heavy armor.
    - **Rank V: Sovereign (군주 / Gunju):** Titanic, ancient entities anchoring geological tectonic plates, capable of regional acoustic corruption.

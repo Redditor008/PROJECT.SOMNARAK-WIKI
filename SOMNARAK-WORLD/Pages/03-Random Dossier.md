@@ -45,10 +45,10 @@ The randomizer uses a calibrated probability curve:
 
 | Risk Tier | Distribution Weight | Operational Role in Drills |
 |---|---|---|
-| **Whisper (Rank I)** | 25% | Baseline stability; tests quick execution speed. |
-| **Murmur (Rank II)** | 30% | Early hazard; tests correct work-type selection. |
+| **Residue (Rank I)** | 25% | Baseline stability; tests quick execution speed. |
+| **Echo (Rank II)** | 30% | Early hazard; tests correct work-type selection. |
 | **Fragment (Rank III)** | 25% | Tactical core; tests gear resistance balancing. |
-| **Wail (Rank IV)** | 15% | High crisis; tests multi-room containment discipline. |
+| **Entity (Rank IV)** | 15% | High crisis; tests multi-room containment discipline. |
 | **Sovereign (Rank V)** | 5% | Catastrophic apex; tests full facility mobilization. |
 
 ## 3 Featured Specimen Rotations
@@ -62,13 +62,13 @@ The randomizer uses a calibrated probability curve:
 
 ### 3.2 Featured Single-Use Relic: The Echo Compass
 - **SECC Code:** `SE-T-Iα-001`
-- **Classification:** Rank I Whisper Tool Relic (Single-Use)
+- **Classification:** Rank I Residue Tool Relic (Single-Use)
 - **Core Guideline:** Specialist enters, executes instant acoustic pulse revealing all floor threats, and departs immediately.
 - **Full Article:** [28-The Echo Compass](28-The%20Echo%20Compass.md).
 
 ### 3.3 Featured Channeled Relic: The Crucible
 - **SECC Code:** `SE-T-IIβ-002`
-- **Classification:** Rank II Murmur Tool Relic (Channeled Use)
+- **Classification:** Rank II Echo Tool Relic (Channeled Use)
 - **Damage Pressure:** 🔴 Grudge (Physical)
 - **Core Guideline:** Specialist channels inside, refining bonus Lumen; must be recalled before 30 seconds or operative suffers instant combustion.
 - **Full Article:** [29-The Crucible](29-The%20Crucible.md).
@@ -81,13 +81,13 @@ The randomizer uses a calibrated probability curve:
 
 ## 4 Ten Randomized Tactical Training Drills
 
-1. **Drill A1 (Triple Whisper):** Contain 3 docile entities within 90 seconds.
-2. **Drill A2 (Dual Murmur Breach):** Intercept 2 breaching Murmurs using only starter weapons.
+1. **Drill A1 (Triple Residue):** Contain 3 docile entities within 90 seconds.
+2. **Drill A2 (Dual Echo Breach):** Intercept 2 breaching Echoes using only starter weapons.
 3. **Drill B1 (Fragment Scramble):** Clear 4 ticking meltdown overloads across three different departments.
 4. **Drill B2 (Void Inversion):** Suppress a Void-dealing entity while wearing physical armor.
 5. **Drill C1 (Blind Containment):** Complete 5 work sessions with cell cameras disabled.
 6. **Drill C2 (The Crucible Sprint):** Channel exactly 28 seconds inside The Crucible without perishing.
-7. **Drill D1 (Wail Lockdown):** Hold a breaching Rank IV entity inside a single corridor.
+7. **Drill D1 (Entity Lockdown):** Hold a breaching Rank IV entity inside a single corridor.
 8. **Drill D2 (Panic Rescue):** Recover 3 panicked specialists using White/Lament weapons.
 9. **Drill E1 (Sovereign Trial):** Subdue a Rank V Sovereign within 4 minutes of emergence.
 10. **Drill E2 (Absolute Zero Casualties):** Harvest 500 LU with zero auxiliary or specialist deaths.

@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Homeless Sorrow's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Give the sorrow a witnessed location; do not flood the area with light**.
 
 ### Consequences
@@ -174,7 +174,7 @@ The escalation pattern is specific to Homeless Sorrow: it is not a generic breac
 | **Risk** | Moderate (β) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Give the sorrow a witnessed location; do not flood the area with light. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Homeless Sorrow):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## Breach Behavior
 
 > *"Homeless Sorrow has broken free. Stalks personnel from their own shadows."*
@@ -382,7 +382,7 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 **Common Name:** Homeless Sorrow
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment (Homeless Sorrow):** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
 - Standard R.D. containment protocols apply.

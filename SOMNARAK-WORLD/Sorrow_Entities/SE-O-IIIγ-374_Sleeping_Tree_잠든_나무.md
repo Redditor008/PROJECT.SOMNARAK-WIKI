@@ -86,8 +86,8 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sleeping Tree's recorded combat actions. Sorrow Gauge changes determine escalation.
+3. **Resolution (Sleeping Tree):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
@@ -197,7 +197,7 @@ The escalation pattern is specific to Sleeping Tree: it is not a generic breach 
 | **Risk** | The worker may attempt to complete someone else's promise. |
 | **Management** | Use the valid Work Types and the management procedure listed above. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Sleeping Tree):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## Breach Behavior
 
 > *"Sleeping Tree has broken free. Extends roots through the floor, entangling personnel."*
@@ -401,7 +401,7 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 **Common Name:** Sleeping Tree
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment (Sleeping Tree):** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
 - Standard R.D. containment protocols apply.

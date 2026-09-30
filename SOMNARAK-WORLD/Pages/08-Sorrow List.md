@@ -11,7 +11,7 @@ Every entity cataloged in this archive is cataloged under the Somnarak Entity Cl
 | SOMNARAK - MASTER SORROW ENTITIES CATALOG                              |
 +------------------------------------------------------------------------+
 | Registered Archive     | 291 Entities (284 SECC Master Codices)        |
-| Risk Tier Scale        | Whisper (I) to Sovereign (V) + Relics         |
+| Risk Tier Scale        | Residue (I) to Sovereign (V) + Relics         |
 | Containment Protocols  | Viderehan - Ferrehan - Flerehan - Pugnahan    |
 | Pressure Types         | Grudge - Lament - Void - Weight               |
 | Municipal Archive      | Reverie Directorate - Facility 01 Depository  |
@@ -22,10 +22,10 @@ Every entity cataloged in this archive is cataloged under the Somnarak Entity Cl
 
 - [1 Master Classification Index](#1-master-classification-index)
 - [2 Master Entity Catalog](#2-master-entity-catalog)
-  - [2.1 Rank I: Whisper Entities](#21-rank-i-whisper-entities)
-  - [2.2 Rank II: Murmur Entities](#22-rank-ii-murmur-entities)
+  - [2.1 Rank I: Residue Entities](#21-rank-i-residue-entities)
+  - [2.2 Rank II: Echo Entities](#22-rank-ii-echo-entities)
   - [2.3 Rank III: Fragment Entities](#23-rank-iii-fragment-entities)
-  - [2.4 Rank IV: Wail Entities](#24-rank-iv-wail-entities)
+  - [2.4 Rank IV: Entity-Rank Dossiers](#24-rank-iv-entity-rank-dossiers)
   - [2.5 Rank V: Sovereign Entities](#25-rank-v-sovereign-entities)
   - [2.6 Tool Relic Entities](#26-tool-relic-entities)
 - [3 Filtering and Tactical Sorting Criteria](#3-filtering-and-tactical-sorting-criteria)
@@ -36,16 +36,16 @@ Every entity cataloged in this archive is cataloged under the Somnarak Entity Cl
 ## 1 Master Classification Index
 
 Entities in the Somnarak universe are categorized across five core risk levels, based on the danger they present to facility stability and the strength of the [M.A.W. Equipment](09-M.A.W.%20Equipment.md) they yield:
-- **Rank I — Whisper (46 entities):** Low threat; docile behavior; excellent training subjects for novice specialists.
-- **Rank II — Murmur (70 entities):** Moderate threat; may breach or inflict mental trauma upon failure.
+- **Rank I — Residue (46 entities):** Low threat; docile behavior; excellent training subjects for novice specialists.
+- **Rank II — Echo (70 entities):** Moderate threat; may breach or inflict mental trauma upon failure.
 - **Rank III — Fragment (82 entities):** Substantial threat; complex containment rules; requires specialized protective suits.
-- **Rank IV — Wail (80 entities):** Severe facility threat; capable of wide-area corridor devastation and auxiliary massacres.
+- **Rank IV — Entity (80 entities):** Severe facility threat; capable of wide-area corridor devastation and auxiliary massacres.
 - **Rank V — Sovereign (14 entities):** Catastrophic municipal crisis; capable of triggering facility-wide collapse.
 - **Tool Relics (5 entities):** Inanimate artifacts utilizing the Two-Work-Type Rule (Viderehan and Ferrehan only).
 
 ## 2 Master Entity Catalog
 
-### 2.1 Rank I: Whisper Entities
+### 2.1 Rank I: Residue Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 | `SE-C-Iα-071` | The Kind Healer | 친절한 치유자 | 🔵 Lament | 12 LU | 🤲 Ferrehan | Yes |
 | `SE-C-Iα-071c` | Apostle Maker | 사도 만드는 자 | 🔵 Lament + Hope | 12 LU | 💧 Flerehan | Yes |
 
-### 2.2 Rank II: Murmur Entities
+### 2.2 Rank II: Echo Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
@@ -72,7 +72,7 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 | `SE-C-IIIβ-016` | The Echo Compass | 메아리 나침반 | ⚪ Void | 18 LU | 🤲 Ferrehan | No |
 | `SE-C-IIIγ-031` | The Observing Bird | 지켜보는 새 | 🔵 Lament | 20 LU | 👁 Viderehan | Yes |
 
-### 2.4 Rank IV: Wail Entities
+### 2.4 Rank IV: Entity-Rank Dossiers
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
@@ -108,8 +108,8 @@ Wardens can filter entities by operational parameters:
 ## 4 Departmental Distribution Matrix
 
 To minimize catastrophic cascade breaches, entities of equal risk levels are distributed evenly across the facility's vertical tiers:
-- **Upper Spires & Central Admin:** Primarily Whisper and Murmur entities for recruit training.
-- **Middle Floors (Border Watch & Deep Vault):** Fragment and Wail entities for specialized weapon harvesting.
+- **Upper Spires & Central Admin:** Primarily Residue and Echo entities for recruit training.
+- **Middle Floors (Border Watch & Deep Vault):** Fragment and Entity-rank entities for specialized weapon harvesting.
 - **Lower Gate Watch & Shadow Corps:** Sovereign entities quarantined behind reinforced hydraulic blast doors.
 
 ## 5 Gallery

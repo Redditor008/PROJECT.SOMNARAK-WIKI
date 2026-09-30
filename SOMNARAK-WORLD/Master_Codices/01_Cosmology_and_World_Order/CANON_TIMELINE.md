@@ -29,6 +29,8 @@ The Mnemonic Cycle system (Cycles 0001 through 1,778) is strictly the internal t
 - **Reference vs. Measurement Exception Ruling:**
   - *Prohibited (Active Measurement & Calendaring):* No external entity, municipal body, syndicate, or post-Dawn expedition measures time by Cycles or operates within the loop. The Cycle is not a calendar system for the wider world.
   - *Permitted (Retrospective Reference & Aftermath):* Retrospective narrative, historical, and testimonial *references* to the R.D. Cycles are fully canonical and valid when documenting loop aftermath, facility origin records, or post-loop survivor memories (e.g., *The Repeated Survivor* bearing trauma from 1,778 resets, the *Regressor Log Book*, or Seiyon's synthesis in Cycle 0002). Retrospective testimony never converts the loop into a civic calendar.
+> **Loop-semantics mapping:** Mnemonic Cycles count loop iterations inside the R.D. facility, not planetary years. Only the terminal mapping is fixed — Cycle 1,778 ≡ Year 4,238 (the Dawn of Hope). No linear Cycle→Year conversion exists for earlier Cycles; cross-era arithmetic must anchor through the Dawn.
+
 
 ```text
 [ Year 0 ] ------ [ Year 200 ] ------ [ Year 4,202 ] ------ [ Year 4,238 ]

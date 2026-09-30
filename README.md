@@ -2,6 +2,8 @@
 
 Welcome to the **Canonical Lore & Reference Source Archive** for **Project Somnarak** (소마나락), maintained on the `NON-WIKI` branch.
 
+> **Fan-work notice:** Unofficial fan project; not affiliated with or endorsed by Project Moon. Original content is CC BY-NC-SA 4.0 (see [LICENSE](LICENSE)). Comparative research is nominative reference only.
+
 > **Canonical Governance Gateway:** See [`GOVERNANCE.md`](GOVERNANCE.md) for the single entry point governing repository rules, developer handbooks, and operational protocols.
 
 This repository serves as the authoritative, durable database and narrative foundation for the Somnarak universe (~3.42 million words). It houses the pure markdown source corpus for all cosmological frameworks, entity dossiers, equipment registries, specialized operational suites, planetary ecological archives, and departmental records.
@@ -25,7 +27,7 @@ The repository is structured into distinct, authoritative functional environment
 
 ## Archive Metrics at a Glance
 
-- **Over 1,897 curated canonical markdown files in SOMNARAK-WORLD (2,215+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
+- **Over 1,897 curated canonical markdown files in SOMNARAK-WORLD (2,216+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
 - **Over 3.42 million words (3,420,000+ words)** of structured, authentic canonical lore
 - **44 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
@@ -34,7 +36,7 @@ The repository is structured into distinct, authoritative functional environment
 - **6 Underworld Pacification Chronicles** (`SOMNARAK-WORLD/Katharcheok/`), documenting the UCD Katharcheok syndicate purge operations
 - **7 Mnemonic Reading Chronicles** (`SOMNARAK-WORLD/Gieok_Jeojangso/`), detailing the Memory Archive's floor readings
 - **6 Trans-Desolate Overland Arcs** (`SOMNARAK-WORLD/Jipyeongseondae/`), documenting the Horizon Caravan's planetary crossings
-- **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution
+- **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution; dice, AP, and clash law in [Action Dice & Clash Rules](SOMNARAK-WORLD/Tactical_Combat_Engine/ACTION_DICE_AND_CLASH_RULES.md).
 - **Game Battle Operations & Tactical Simulation Suite** (`GAME_BATTLE/`), housing turn-by-turn combat encounters, boss battle mechanics, and standard authoring templates
 - **291 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
 - **42 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,165 files)
@@ -404,8 +406,8 @@ All source lore across this archive adheres to four absolute pillars:
    - **Scope O: Outside Sorrow (외한 / Oehan):** Born from the untamed wilderness, abyssal subterranean strata, and the Desolate wastes beyond the walls (e.g., `SE-O-IVδ-515`).
 
 4. **Threat Classifications & Coherence Ranks (위협 등급 및 응집도):**
-   - **Rank I: Whisper (속삭임 / Soksagim · Grade α):** Negligible threat; passive resonance; minimal containment risk.
-   - **Rank II: Murmur (웅얼거림 / Ungeolgeorim · Grade β):** Low-to-moderate threat; standard suppression squads sufficient.
+   - **Rank I: Residue (잔여물 / Janyeo · Grade α):** Negligible threat; passive resonance; minimal containment risk.
+   - **Rank II: Echo (메아리 / Meari · Grade β):** Low-to-moderate threat; standard suppression squads sufficient.
    - **Rank III: Fragment (파편 / Papyeon · Grade γ):** Significant threat; lethal capabilities; disciplined work required.
    - **Rank IV: Entity (존재 / Jonjae · Grade δ):** Critical threat; severe psychological degradation; catastrophic breach hazard.
    - **Rank V: Sovereign (군주 / Gunju · Grade ω):** Existential threat; facility-wide or district-wide collapse potential.

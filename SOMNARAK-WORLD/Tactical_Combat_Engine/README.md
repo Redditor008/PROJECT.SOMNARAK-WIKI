@@ -30,6 +30,8 @@ The primary design tenets are:
 3. **Dual-Threshold Stagger:** Enemies cannot be defeated by simple hit-point attrition. Dismantling modular body parts triggers tactical Staggers (60% threshold), while draining psychic Composure triggers terminal Meltdown (0% threshold).
 4. **Macro-Phase Rhythms:** Engagements are structured into 6-Turn Combat Phases. At Phase-End, environmental tides, atmospheric Han saturation, and boss transformations resolve.
 
+The resolution layer these tenets assume — dice, AP, clashes, gauges — is codified in [`ACTION_DICE_AND_CLASH_RULES.md`](ACTION_DICE_AND_CLASH_RULES.md).
+
 ---
 
 ## 2. Spatial Grid Mechanics: The 10-Node Engagement Line

@@ -56,6 +56,8 @@ How **self-aware and complete** the entity's personality is. Higher coherence me
 | **IV** | Entity | Self-aware, purposeful, can communicate |
 | **V** | Sovereign | Ancient, city-scale, near-mythic |
 
+> **Rank-name canon:** Residue, Echo, Fragment, Entity, and Sovereign are the sole canonical rank names. Archival variants encountered in older codices and logs — Whisper (I), Murmur (II), Wail (IV) — are deprecated and must not appear in new records.
+
 > **Archival Distribution Note on Sovereigns (Rank V):** Rank V Sovereigns represent transcendent, city-scale forces. Scope C comprises 12 Sovereigns born from the crushing weight of municipal institutions and centuries of civic despair. Beyond the city walls, macro-scale planetary geography (`SOMNARAK_GEOLOGY.md`) absorbs environmental pressure, yielding exactly one documented Outside Sovereign (`SE-O-Vγ-003 Wilderness Tide`). Because Inner Sorrow (Scope N) originates from individual human psyche and intimate grief, personal trauma cannot reach Sovereign Rank V without metastasizing into collective City Sorrow (Scope C), resulting canonically in zero N-V entities.
 
 ### Potency (α–ω)

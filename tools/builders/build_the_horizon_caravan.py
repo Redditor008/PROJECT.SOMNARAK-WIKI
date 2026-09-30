@@ -241,7 +241,7 @@ The canonical expeditions of the Horizon Caravan are chronicled in the dedicated
 | Month 05 : Arc 4 — Stabilization of the Cheonbulok Furnace Core     |
 | Month 06 : Arc 5 — Return Transit & Refugee Convoy Delivery         |
 | Month 08 : Arc 6 — The Mugeukji Attempt & Border Withdrawal         |
-| Year 4247: The Dawn Initiative reaches 45% Transmutation            |
+| Year 4,247: The Dawn Initiative reaches 45% Transmutation           |
 +=====================================================================+
 ```
 

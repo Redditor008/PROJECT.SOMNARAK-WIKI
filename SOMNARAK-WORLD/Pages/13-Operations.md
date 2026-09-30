@@ -49,7 +49,7 @@ Completing all four tiers for a department permanently unlocks that director's *
 
 ### 2.1 Spires Missions (Director Majin)
 1. *Threshold Sentry:* Execute 3 standard work sessions in the Spires department. (Reward: Movement Speed +5%).
-2. *Tactical Verification:* Achieve 5 Good work outcomes with Rank II Murmur entities. (Reward: Enhanced Starting Uniforms).
+2. *Tactical Verification:* Achieve 5 Good work outcomes with Rank II Echo entities. (Reward: Enhanced Starting Uniforms).
 3. *Iron Suppression:* Suppress a First Watch Ordeal incursion. (Reward: Tactical Pistol Buff).
 4. *Sovereign Threshold:* Complete a shift at Meltdown Level VI with zero casualties. (Reward: Unlocks Majin Core Realization).
 

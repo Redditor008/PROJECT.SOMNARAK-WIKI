@@ -53,7 +53,7 @@ The voice was quiet, melodic, carrying the slight metallic rasp of someone whose
 
 "Checking the hydraulic latch," Min-Jae said without looking up. His voice was gravelly, worn smooth by years of shouting through containment blast masks. "The seal was sluggish on the secondary return yesterday. If the piston jams during a clash, the recoil will snap my elbow."
 
-"The piston didn't jam," Seol-A said, stepping into the alcove and offering him one of the mugs. "You took a direct seismic ground-slam from a Rank IV Murmur on Floor 2 and your arm stayed attached. Drink your soup. It tastes like chalk and old rain, but it's warm."
+"The piston didn't jam," Seol-A said, stepping into the alcove and offering him one of the mugs. "You took a direct seismic ground-slam from a Rank IV Entity on Floor 2 and your arm stayed attached. Drink your soup. It tastes like chalk and old rain, but it's warm."
 
 Min-Jae took the mug. The warmth seeped through his oil-stained fingers. He took a sip. It was standard Sector 4 ration broth—diluted Veil-water boiled with crushed Han-crystals and dried kelp grown in the underground water cisterns. It tasted bitter, faintly metallic, like sucking on a copper coin. But it settled the hollow churning in his stomach.
 

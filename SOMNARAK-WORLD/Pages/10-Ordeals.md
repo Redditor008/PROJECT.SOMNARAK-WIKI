@@ -40,7 +40,7 @@ Ordeals operate under distinct combat and spatial rules:
 ## 2 The Temporal Axis: The Four Watches
 
 Ordeals manifest sequentially throughout the shift, escalating in difficulty across the **Four Watches**:
-- **First Watch:** Low-density scouting incursions (Rank II Murmur equivalent). Easily suppressed by entry-level specialists.
+- **First Watch:** Low-density scouting incursions (Rank II Echo equivalent). Easily suppressed by entry-level specialists.
 - **Second Watch:** Moderate assault waves (Rank III Fragment equivalent). Features armored units and localized area-of-effect damage.
 - **Third Watch:** Severe multi-floor emergencies (Rank IV Entity equivalent). Employs coordinated swarms, debuffs, and high mobility.
 - **Tide Watch:** Catastrophic endgame incursions (Rank V Sovereign equivalent). Giant monoliths, facility-wide laser sweeps, or conceptual erasure fields that threaten total facility liquidation.

@@ -86,8 +86,8 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Mourner's Bloom's recorded combat actions. Sorrow Gauge changes determine escalation.
+3. **Resolution (Mourner's Bloom):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
@@ -197,7 +197,7 @@ The escalation pattern is specific to Mourner's Bloom: it is not a generic breac
 | **Risk** | The flower may preserve sorrow that should be allowed to change. |
 | **Management** | Use the valid Work Types and the management procedure listed above. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Mourner's Bloom):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## Breach Behavior
 
 > *"Mourner's Bloom has broken free. Releases spores that infest personnel."*

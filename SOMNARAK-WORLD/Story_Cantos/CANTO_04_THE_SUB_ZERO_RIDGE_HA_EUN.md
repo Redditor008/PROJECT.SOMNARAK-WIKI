@@ -52,7 +52,7 @@ The chassis was fashioned from dull gunmetal wrapped in strips of thermal-resist
 
 And with every shot she took through that glass, a tiny, nameless fragment of her memory was quietly erased.
 
-Two cycles ago, she had spent an engagement suppressing a swarm of Rank II Murmurs climbing the outer cliff. When the watch ended, she realized she could no longer remember the color of her childhood bedroom curtains in the Upper Terraces. A cycle before that, she had forgotten the melody of a song her elder sister used to hum while washing laundry.
+Two cycles ago, she had spent an engagement suppressing a swarm of Rank II Echoes climbing the outer cliff. When the watch ended, she realized she could no longer remember the color of her childhood bedroom curtains in the Upper Terraces. A cycle before that, she had forgotten the melody of a song her elder sister used to hum while washing laundry.
 
 She had traded them willingly. Memories were warm, and in the freezing trenches of Zone E, warmth was a liability. Warmth made you long for home. Warmth made your trigger finger hesitate when a silhouette appeared on the white horizon.
 

@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Frozen Veil's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Tears and sincere emotional expression crack the Veil. Physical force is ineffective**.
 
 ### Consequences
@@ -94,7 +94,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
 - The entity’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in its dossier.
+- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in The Frozen Veil's dossier.
 
 ## Appearance
 **Primary Form:** A humanoid figure made of frozen emotion rather than frozen water. It is beautiful, translucent, and radiates emotional cold.
@@ -364,6 +364,7 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 **Classification:** Sorrow Entity — `C-IVδ-103 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Void manifestation
 **Common Name:** The Frozen Veil
 **Containment Status:** Semi-contained — Zone D (drifts)
+**Fate:** Destroyed. Post-destruction records reference this entity in the past tense only; pre-Dawn logs (e.g., Canto IV, Cycle 1,778) predate its destruction and remain valid.
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate. The Veil drains warmth from nearby personnel. Effect: emotional capacity diminishes near it.
 **Containment & Handling Procedures:**

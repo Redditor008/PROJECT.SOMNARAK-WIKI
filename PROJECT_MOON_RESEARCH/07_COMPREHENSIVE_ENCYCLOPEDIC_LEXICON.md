@@ -143,7 +143,7 @@ To ensure complete clarity and maintain absolute authorial boundaries between un
   - Distortions are living individuals whose bodies warp into grotesque caricatures of their personal psychoses.
   - Peccatula are feral beasts born when someone fails to distort, erasing their individuality into raw sin.
 - **Somnarak (Sorrow Entities // 비탄체):**
-  - Sorrow Entities are categorized strictly by **Risk Ranks (I: Whisper, II: Murmur, III: Fragment, IV: Entity, V: Sovereign)**. They are manifestations of concentrated, unpurged Han accumulating in deep faults, the Maw, and border zones. They do not represent fables or personal neuroses; they represent structural sorrow and atmospheric pressure.
+  - Sorrow Entities are categorized strictly by **Risk Ranks (I: Residue, II: Echo, III: Fragment, IV: Entity, V: Sovereign)**. They are manifestations of concentrated, unpurged Han accumulating in deep faults, the Maw, and border zones. They do not represent fables or personal neuroses; they represent structural sorrow and atmospheric pressure.
 
 ### C. Combat Armament & Gear
 - **Project Moon (E.G.O):**

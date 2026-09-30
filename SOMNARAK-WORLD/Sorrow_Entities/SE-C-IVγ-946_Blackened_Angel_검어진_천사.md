@@ -200,7 +200,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 The escalation pattern is specific to Blackened Angel: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Tale form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site), emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence (Blackened Angel (검어진 천사)):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -213,7 +213,7 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 | **Risk** | Major (γ) Object-Tale producing Weight pressure; Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Blackened Angel (검어진 천사)):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.

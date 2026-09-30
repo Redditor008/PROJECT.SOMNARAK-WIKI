@@ -2,7 +2,7 @@
 
 > *“Turn the bronze needle toward the silence; it will tell you which room holds the scream.”*
 
-**The Echo Compass**  [메아리 나침반]  (_Meari Nachimban_), cataloged under the Somnarak Entity Classification Code as **`SE-T-Iα-001`**, is a **Rank I (Whisper)** Tool Relic of the **Single-Use** functional sub-type.
+**The Echo Compass**  [메아리 나침반]  (_Meari Nachimban_), cataloged under the Somnarak Entity Classification Code as **`SE-T-Iα-001`**, is a **Rank I (Residue)** Tool Relic of the **Single-Use** functional sub-type.
 
 Discovered in the abandoned subterranean observation posts of the early Sorrow Extraction Division, this ornate brass apparatus consists of a gimbaled magnetic dish housing a vibrating acoustic needle. Unlike sentient [Subject Entities](07-Sorrow%20Entities.md), The Echo Compass possesses no living flesh, appetite, or breach motility. Governed strictly by the **Two-Work-Type Rule**, specialists interact with it solely through 👁 **Viderehan** and 🤲 **Ferrehan** to project resonant sonar sweeps across Facility 01.
 
@@ -10,7 +10,7 @@ Discovered in the abandoned subterranean observation posts of the early Sorrow E
 +========================================================================+
 | SECC: SE-T-Ia-001 | THE ECHO COMPASS                                   |
 +------------------------------------------------------------------------+
-| Nomenclature Code      | SE-T-Ia-001 (Whisper Tool Relic)              |
+| Nomenclature Code      | SE-T-Ia-001 (Residue Tool Relic)              |
 | Functional Subtype     | Single-Use Relic (Instantaneous Discharge)    |
 | Containment Protocols  | Two-Work-Type Rule: Viderehan & Ferrehan      |
 | Primary Function       | Facility-Wide Acoustic Sonar Pulse            |
@@ -36,7 +36,7 @@ Discovered in the abandoned subterranean observation posts of the early Sorrow E
 
 - **Entity Designation:** The Echo Compass  [메아리 나침반] 
 - **SECC Code:** `SE-T-Iα-001`
-- **Risk Classification:** Rank I — Whisper
+- **Risk Classification:** Rank I — Residue
 - **Ontological Type:** Object / Tool Relic (Single-Use)
 - **Primary Pressure Output:** 🔵 **Lament** (Mental / Resonance Pulse)
 - **Safe Activation Limit:** 1 activation per 30 seconds per department.

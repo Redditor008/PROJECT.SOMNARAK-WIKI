@@ -809,8 +809,8 @@ On Day 366 of the final cycle, following the activation of the Absolvohan device
 |   Adamantine                                                           |
 | -------------------------------------------------------------------    |
 | COHERENCE RANK INDEXING & CODEX BINDING METHODOLOGY:                   |
-| - Rank I (Whisper / Soksagim) : Paperback Pamphlet (10-50 Pages)       |
-| - Rank II (Murmur / Ungeolgeorim) : Hardcover Folio (100-300 Pages)    |
+| - Rank I (Residue / Soksagim) : Paperback Pamphlet (10-50 Pages)       |
+| - Rank II (Echo / Meari         ) : Hardcover Folio (100-300 Pages)    |
 | - Rank III (Fragment / Papyeon)     : Chained Codex with Iron Clasp    |
 | - Rank IV (Entity / Jonjae) : Living Tome requiring Stasis Rack        |
 | - Rank V (Sovereign / Gunju) : Sovereign Reliquary / Memory Leaf Nexus |

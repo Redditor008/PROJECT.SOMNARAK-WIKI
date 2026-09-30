@@ -55,7 +55,7 @@ The relay officer starts reading the gauge numbers aloud, steady as a metronome.
 
 ## Chapter IV: Combat Parameters & Engagement Doctrine
 
-- **Entity:** The Frozen Veil, SE-C-IVδ-103 — Subject, Void element, mobile Wail-rank combatant.
+- **Entity:** The Frozen Veil, SE-C-IVδ-103 — Subject, Void element, mobile Entity-rank combatant.
 - **Breach Vector:** Pursuit — if the party breaks, the Veil follows the relay cable up. Deny by holding formation; no one retreats past the cradle-side nodes.
 - **Known Actions (archive record):** The Ice Curtain (isolation debuff), The Frost Spread (space-shrinking debuff), The Ice Spear (Void attack), The Full Shatter (heavy Void freeze), The Permafrost (ultimate — seals the whole field in frozen void).
 - **Tear Field:** Whoever holds the two nodes nearest the pedestal gains +3 Composure per turn — but the Veil prioritizes those nodes. The field is bait and salary both.
@@ -136,6 +136,7 @@ The relay officer's Lower station log, transmitted to the surface at dawn:
 - **Objective complete: the First Tear (SE-C-Vδ-290) is secured and traveling with the party.**
 - Casualties: none. Wounded: one (Marjuk — Transform scar; key-hand crippled, frostbitten). Marjuk on the Transform line at 15 SP; case transferred to Xyan.
 - **The Forgotten God stirs:** deliberate tremor from below V-4 following the securing. Dreaming Gallery ahead.
+- *Record split: the secured First Tear (SE-C-Vδ-290) and the stirring Forgotten God (SE-C-Vδ-265) are distinct Sovereigns; Descent 4 resolves only the former.*
 - Depth drain deepens next chapter (V-4): all members open Descent 5 at -15 cumulative Composure.
 - Next threat: VTM-4, the Final Door (SE-111) — the last barrier before the God-Vault.
 - Signal strength: strong. Relay cable: 20% paid out. Party morale: triumphant, terrified, unbroken.

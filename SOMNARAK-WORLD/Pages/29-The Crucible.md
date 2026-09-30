@@ -2,7 +2,7 @@
 
 > *“Step inside and let the fire cook the weakness from your marrow; stay one breath too long, and only ash will walk out.”*
 
-**The Crucible**  [시련의 도가니]  (_Siryeon-ui Dogani_), cataloged under the Somnarak Entity Classification Code as **`SE-T-IIβ-002`**, is a **Rank II (Murmur)** Tool Relic of the **Channeled Use** functional sub-type.
+**The Crucible**  [시련의 도가니]  (_Siryeon-ui Dogani_), cataloged under the Somnarak Entity Classification Code as **`SE-T-IIβ-002`**, is a **Rank II (Echo)** Tool Relic of the **Channeled Use** functional sub-type.
 
 Manufactured during the height of the Unified Containment Directorate (UCD) as an experimental thermodynamic distillation pod, The Crucible is an upright cylindrical iron furnace lined with ceramic coils and pressurized glass observation ports. Governed by the **Two-Work-Type Rule**, specialists enter its interior chamber to channel physical stamina into concentrated [Lumen](33-Lumen.md) energy, balancing rapid production against the furnace's lethal 30-second thermal ceiling.
 
@@ -10,7 +10,7 @@ Manufactured during the height of the Unified Containment Directorate (UCD) as a
 +========================================================================+
 | SECC: SE-T-IIb-002 | THE CRUCIBLE                                      |
 +------------------------------------------------------------------------+
-| Nomenclature Code      | SE-T-IIb-002 (Murmur Tool Relic)              |
+| Nomenclature Code      | SE-T-IIb-002 (Echo Tool Relic)                |
 | Functional Subtype     | Channeled Use Relic (Continuous Chamber)      |
 | Containment Protocols  | Two-Work-Type Rule: Viderehan & Ferrehan      |
 | Primary Function       | High-Yield Han Distillation & Bonus Lumen     |
@@ -36,7 +36,7 @@ Manufactured during the height of the Unified Containment Directorate (UCD) as a
 
 - **Entity Designation:** The Crucible  [시련의 도가니] 
 - **SECC Code:** `SE-T-IIβ-002`
-- **Risk Classification:** Rank II — Murmur
+- **Risk Classification:** Rank II — Echo
 - **Ontological Type:** Object / Tool Relic (Channeled Use)
 - **Primary Pressure Output:** 🔴 **Grudge** (Thermal / Physical Burn)
 - **Maximum Safe Channeling Window:** Exactly 29 seconds. Dire at 30.0 seconds.

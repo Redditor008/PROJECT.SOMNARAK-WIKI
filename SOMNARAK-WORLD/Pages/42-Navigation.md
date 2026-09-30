@@ -70,7 +70,7 @@ Authentic dossier articles demonstrating the primary operational archetypes cata
 - **[19-Lumen Surge](19-Lumen%20Surge.md)** — energy overload thresholds and emergency containment protocols
 - **[20-Challenge Mode](20-Challenge%20Mode.md)** — high-difficulty operational trials and endgame encounters
 - **[21-Game Mechanics](21-Game%20Mechanics.md)** — combat calculations, clash mechanics, and tactical formulas
-- **[23-Risk Levels](23-Risk%20Levels.md)** — threat classifications from Whisper (Rank I) to Sovereign (Rank V)
+- **[23-Risk Levels](23-Risk%20Levels.md)** — threat classifications from Residue (Rank I) to Sovereign (Rank V)
 - **[24-Origins](24-Origins.md)** — origin classification: City (도한), Inner (내한), and Outside (외한)
 - **[25-Types](25-Types.md)** — entity manifestations: Subject, Object, Place, Time, Hazard
 - **[26-Personnel Dossiers](26-Personnel%20Dossiers.md)** — key named historical figures and specialists

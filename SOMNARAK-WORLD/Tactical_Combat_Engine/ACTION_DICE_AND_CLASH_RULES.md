@@ -18,13 +18,18 @@ Action Points. One AP purchases one die (attack, defense, or maneuver); unspent 
 
 | Speed | AP per Turn | Attested Operatives |
 |---|---|---|
-| 2–3 | 2 AP | Stationary barriers, siege engines |
-| 4–5 | 3 AP | Vault wardens (Speed 5), Archive leads (Speed 4) |
-| 6–7 | 4 AP | Echo-Core field operatives (Speed 7), Wail-rank entities (Speed 6) |
-| 8+ | 5 AP | Sovereign-rank entities, realized Echo-Cores |
+| 2–3 | 2 AP | Stationary barriers, siege engines, the Final Door (Speed 2, stationary) |
+| 4–5 | 3 AP | Vault wardens (Speed 5), Archive Lead Marjuk (Speed 4) |
+| 6–7 | 4 AP | Echo-Core field operative Xyan (Speed 7), the Frozen Veil (Speed 6) |
 
 Speed Band effects (for example, −1 Speed Band from time-slip) shift the operative one row
 down this table for the stated duration; AP already spent is not refunded.
+
+> **Sovereign Speeds — honest accounting:** no mobile Sovereign has ever been encountered in a tactical log. The only Sovereign with an attested tactical Speed is the stationary Final Door (Speed 2). The Stormscale’s dossier-14 rating is a meters-per-second pursuit scale, not a tactical Speed, and must never be read into this table.
+
+### Dossier pursuit speeds vs tactical Speed
+
+Dossier pursuit ratings in meters per second describe overland chase pace, not grid bandwidth: they never convert into tactical Speed and never award AP. The Stormscale’s dossier-14 rating is the standing example — a 14 m/s pursuit scale, unrelated to the Speed 2–7 tactical bands above.
 
 ---
 
@@ -98,6 +103,8 @@ Physical integrity as a percentage. Burns, cuts, splinters, and fractures reduce
 field binding stabilizes but does not restore. HP wounds persist between chapters until
 treated at a waystation or the surface (see the Nareumhan wound continuity).
 
+Dossier HP converts 1:1 into tactical HP: no scaling, no rank multiplier. Attested anchors: Rank IV dossiers run 600–950 by role; Rank V spans from the low hundreds (lowest attested peer 521) through four-digit multi-part totals (the Colossus’s 2,600), with Dawn-002’s 12,000 standing as a documented outlier. Multi-part bosses split their total into per-part pools (the Colossus: 600 / 500 / 500 / 1,000); each part ruptures at 60% depletion per the dual-threshold stagger engine, and parts — never the pooled total — are the damageable unit. Objectives logged with HP N/A cannot be damaged at all: resolve them only through their stated suppression or Resolve condition.
+
 ### 5.2 Mind (Composure / SP)
 
 Psychic integrity on the compressed 0-50 field gauge standard to SED, UCD, HORIZON, and
@@ -131,6 +138,15 @@ against the stated difficulty with Composure as the anchor: high Composure stead
 Resolve, and Resolve failures cost Composure. Sovereign dread (God Dread) demands a
 Resolve check every turn.
 
+| Difficulty | Target | Typical cause |
+|---|---|---|
+| Routine | 10 | Standard dread aura, minor entrapment |
+| Hard | 14 | Entity-grade dread, active transformation pressure |
+| Extreme | 18 | Sovereign dread (God Dread), deep entrapment |
+| Mythic | 22 | Direct witness of a Rank V manifestation |
+
+> **Provisional:** no Resolve target numbers appear in any engagement log; this table is authored doctrine until logs attest values.
+
 ---
 
 ## 6. Grid, Turns, and Phases
@@ -150,3 +166,5 @@ turns. Retreat past the entry node invites one turn of pursuit before seals re-e
 - 0-50 field gauge: HORIZON, MEMORY ARCHIVE, SED, UCD, Jipyeongseondae, Gieok codices.
 - 105–120 baselines, Crisis Thresholds: Story Cantos 01–06 dossiers.
 - Work-type permissions for entity handling: PROJECT_SOMNARAK (Viderehan, Ferrehan).
+- Speed attestations (Final Door 2, Marjuk 4, wardens 5, Frozen Veil 6, Xyan 7): Nareumhan descent logs and Canto dossiers.
+- Colossus part pools (600 / 500 / 500 / 1,000) and 60% rupture: BOSS_MECHANICS pools record.

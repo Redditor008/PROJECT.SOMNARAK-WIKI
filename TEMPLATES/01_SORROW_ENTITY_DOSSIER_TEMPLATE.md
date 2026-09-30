@@ -9,7 +9,7 @@
 
 ## DEEP KNOWLEDGE — READ BEFORE WRITING (Entity-Specific Laws)
 
-- **SECC is immutable:** `SE-[Origin]-[Rank][Potency]-[Number]` e.g., `SE-C-IIIβ-014`, `SE-O-IVδ-515`, `SE-N-IIα-077`. Origin: C City (도한 / Dohan), N Inner (내한 / Naehan), O Outside (외한 / Oehan). Rank I–V Whisper→Sovereign. Potency α/β/γ/δ/ω.
+- **SECC is immutable:** `SE-[Origin]-[Rank][Potency]-[Number]` e.g., `SE-C-IIIβ-014`, `SE-O-IVδ-515`, `SE-N-IIα-077`. Origin: C City (도한 / Dohan), N Inner (내한 / Naehan), O Outside (외한 / Oehan). Rank I–V Residue→Sovereign. Potency α/β/γ/δ/ω.
 - **Manifestation Class determines work types:** Subject may use all 4 works. **Object, Place, Time → ONLY Viderehan + Ferrehan** (Flerehan/Pugnahan = N/A). Enforced by `audit_two_work_rule.py`.
 - **Geography is not an entity.** Never file a mountain, ocean, or district as an SE. That belongs in `SOMNARAK_GEOLOGY.md`.
 - **Breach fiction must respect chronology:** If your entity is City Sorrow with a pre-Dawn origin tale, its crystallization date must precede Dawn; post-Dawn encounters use Year 4,238 field logs.

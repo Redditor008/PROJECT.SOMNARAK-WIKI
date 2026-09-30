@@ -400,8 +400,8 @@ def build_codex():
 
     doc.append("### 7.2 The Five Coherence Ranks & Five Potency Grades\n\n")
     doc.append("1. **Coherence Ranks (Cohesion of Physical Shape):**\n")
-    doc.append("   - **Rank I: Whisper (속삭임 / Soksagim):** Amorphous mists, auditory murmurs, and fleeting visual anomalies lacking dense physical mass.\n")
-    doc.append("   - **Rank II: Murmur (웅얼거림 / Ungeolgeorim):** Gelatinous brine constructs, dripping sludge shadows, and unstable semi-solid forms.\n")
+    doc.append("   - **Rank I: Residue (속삭임 / Soksagim):** Amorphous mists, auditory murmurs, and fleeting visual anomalies lacking dense physical mass.\n")
+    doc.append("   - **Rank II: Echo (웅얼거림 / Ungeolgeorim):** Gelatinous brine constructs, dripping sludge shadows, and unstable semi-solid forms.\n")
     doc.append("   - **Rank III: Fragment (파편 / Papyeon):** Crystalline, barbed, humanoid silhouettes with defined skeletal structures capable of physical violence.\n")
     doc.append("   - **Rank IV: Entity (존재 / Jonjae):** Fully solidified apex predators possessing complex psychological intelligence, acoustic control, and heavy armor.\n")
     doc.append("   - **Rank V: Sovereign (군주 / Gunju):** Titanic, ancient entities anchoring geological tectonic plates, capable of regional acoustic corruption.\n")

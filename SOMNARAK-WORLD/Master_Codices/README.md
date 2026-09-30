@@ -46,7 +46,7 @@ The archive root houses the two official primary cartographic and architectural 
   * **Floor 7 (Shadow Corps / Mobile Black Operations):** The Outsider Ishall • Infiltration Drop Shafts, Sovereign Strike Armory (Grade-ω Loadouts), Directorate Intel Interrogation Vaults, Elite Suppression Squads.
   * **Floor 8 (Gate Watch / Zone E Egress):** The Exile Xyan • Gate Command & Lockdown Post, Desolate Transit Airlock, Outer Perimeter Sentry Array, Deep Sector Transit Bus.
 - **Standardized Threat & Combat Metrics:**
-  * **Entity Risk Ranks:** Rank I: Whisper • Rank II: Murmur • Rank III: Fragment • Rank IV: Entity • Rank V: Sovereign.
+  * **Entity Risk Ranks:** Rank I: Residue • Rank II: Echo • Rank III: Fragment • Rank IV: Entity • Rank V: Sovereign.
   * **Damage Signatures:** Grudge (원한) • Lament (비탄) • Weight (중압) • Void (공허 / White).
   * **M.A.W. Wear Grades:** Grade α • Grade β • Grade γ • Grade δ • Grade ω (Omega-Forged).
 

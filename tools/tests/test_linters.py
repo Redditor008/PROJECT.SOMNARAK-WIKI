@@ -15,7 +15,9 @@ FIXTURE_DIR = os.path.join(os.path.dirname(__file__), "fixtures")
 class TestTimelineLinter(unittest.TestCase):
     def setUp(self):
         self.current_year = 4238
+        self.window_end = 4255
         self.p_year = re.compile(r'\bYear\s+(\d{4})\b')
+        self.p_year_comma = re.compile(r'\bYears?\s+(\d),(\d{3})\b')
         self.p_cycles_ago = re.compile(r'(\d+)\s+cycles\s+ago', re.IGNORECASE)
 
     def check_timeline_file(self, filepath):
@@ -28,11 +30,10 @@ class TestTimelineLinter(unittest.TestCase):
                 errors.append(f"B1 violation at line {line_num}")
             if "founded 6,000 years ago" in line:
                 errors.append(f"B2 violation at line {line_num}")
-            if "Year 4247" in line:
-                errors.append(f"B3 violation at line {line_num}")
-            for m in self.p_year.finditer(line):
-                y = int(m.group(1))
-                if y > self.current_year:
+            years = [int(m.group(1)) for m in self.p_year.finditer(line)]
+            years += [int(m.group(1) + m.group(2)) for m in self.p_year_comma.finditer(line)]
+            for y in years:
+                if y > self.window_end:
                     errors.append(f"F1 violation: Year {y} at line {line_num}")
         return errors
 
@@ -42,7 +43,7 @@ class TestTimelineLinter(unittest.TestCase):
 
     def test_future_year_caught(self):
         errors = self.check_timeline_file(os.path.join(FIXTURE_DIR, "bad_timeline_year_future.md"))
-        self.assertTrue(any("F1 violation" in e or "B3 violation" in e for e in errors))
+        self.assertTrue(any("F1 violation" in e for e in errors))
 
     def test_6000_years_caught(self):
         errors = self.check_timeline_file(os.path.join(FIXTURE_DIR, "bad_timeline_6000_years.md"))

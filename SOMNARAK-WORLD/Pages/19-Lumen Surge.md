@@ -44,10 +44,10 @@ During each second of containment work, the interacting entity produces one ener
 - **Negative Box (Fracture Box):** A failed resonance roll. Dark and fractured, it deals immediate elemental damage to the specialist corresponding to the entity's [Pressure Type](17-Pressure%20Types.md).
 
 The total capacity of energy an entity can yield during a single work session is fixed by its risk tier:
-- **Rank I (Whisper):** 10–12 Max LU
-- **Rank II (Murmur):** 14–16 Max LU
+- **Rank I (Residue):** 10–12 Max LU
+- **Rank II (Echo):** 14–16 Max LU
 - **Rank III (Fragment):** 16–20 Max LU (e.g., [27-The Debt Eater](27-The%20Debt%20Eater.md) yields 16 LU)
-- **Rank IV (Wail):** 24–30 Max LU
+- **Rank IV (Entity):** 24–30 Max LU
 - **Rank V (Sovereign):** 32–36 Max LU
 
 ## 3 Daily Quota and the Overcharge Protocol
@@ -86,7 +86,7 @@ Energy harvested is not permanently safe until the shift concludes:
 If accumulated Lumen falls below 50% during mid-shift operations:
 - Departmental lights enter low-power amber emergency illumination.
 - The Healing Generator's regenerative output drops from 6 HP/SP to 2 HP/SP.
-- Wardens must scramble safe Whisper work sessions to stabilize the energy grid.
+- Wardens must scramble safe Residue work sessions to stabilize the energy grid.
 
 ## 8 Gallery
 

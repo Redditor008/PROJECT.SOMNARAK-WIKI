@@ -66,7 +66,7 @@ The cuirass maintains a persistent, icy chill across the sternum. While wearing 
 
 **Date:** Year 4,237  
 **Bearer:** Vanguard Specialist Iseulfros Kim  
-**Result:** When a roaming Murmur-class Sorrow Beast breached the north intake corridor, Kim anchored herself at the narrow juncture. The entity rammed the barricade repeatedly, delivering over a dozen concussive impacts. The Shuttered Window-Plate absorbed every blow, freezing the beast’s forward claws to the floor plating and enabling containment operatives to execute a clean pacification maneuver.
+**Result:** When a roaming Echo-class Sorrow Beast breached the north intake corridor, Kim anchored herself at the narrow juncture. The entity rammed the barricade repeatedly, delivering over a dozen concussive impacts. The Shuttered Window-Plate absorbed every blow, freezing the beast’s forward claws to the floor plating and enabling containment operatives to execute a clean pacification maneuver.
 
 **Aftermath:** Kim required two hours in a thermal recovery chamber to thaw somatic hypothermia. During recovery, she reported hearing the faint creak of wooden window shutters opening and closing in rhythm with her heartbeat.
 

@@ -86,8 +86,8 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the time manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Ninety Seconds's recorded combat actions.
+3. **Resolution (Ninety Seconds):** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 

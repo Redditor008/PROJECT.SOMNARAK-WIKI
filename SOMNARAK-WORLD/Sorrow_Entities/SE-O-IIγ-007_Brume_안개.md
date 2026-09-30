@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Brume's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically**.
 
 ### Consequences
@@ -185,7 +185,7 @@ The escalation pattern is specific to Brume: it is not a generic breach event. P
 | **Risk** | This Major (γ) Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Brume):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -380,7 +380,7 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 **Common Name:** Brume
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment (Brume):** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
 - Standard R.D. containment protocols apply.

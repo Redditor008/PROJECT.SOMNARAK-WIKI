@@ -51,9 +51,9 @@ To prevent catastrophic multi-wing breaches, entities are allocated across verti
 
 | Facility Layer | Departments Included | Assigned Risk Tiers | Strategic Containment Objective |
 |---|---|---|---|
-| **Upper (Shallow)** | Spires & Central Admin | Whisper (I) & Murmur (II) | Rookie training; reliable energy baseline. |
-| **Middle Layer** | Maw's Keep & Extraction | Fragment (III) & Early Wail (IV) | Heavy gear fabrication; defense testing. |
-| **Lower (Deep)** | Vault, Shadow, Gate Watch | High Wail (IV) & Sovereign (V) | High security quarantine; abyssal defense. |
+| **Upper (Shallow)** | Spires & Central Admin | Residue (I) & Echo (II) | Rookie training; reliable energy baseline. |
+| **Middle Layer** | Maw's Keep & Extraction | Fragment (III) & Lesser Entity (IV) | Heavy gear fabrication; defense testing. |
+| **Lower (Deep)** | Vault, Shadow, Gate Watch | Greater Entity (IV) & Sovereign (V) | High security quarantine; abyssal defense. |
 
 ## 4 The Four Comprehension Levels and Codex Progression
 

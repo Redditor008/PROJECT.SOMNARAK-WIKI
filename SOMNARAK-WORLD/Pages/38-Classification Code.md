@@ -13,7 +13,7 @@ Within Facility 01, sorrow is never filed by poetic name alone. Every entity is 
 | Nomenclature System    | SECC (Somnarak Entity Classification Code)    |
 | Code Structure         | SE - [Domain] - [Risk] [Potency] - [Index]    |
 | Domain Roots           | C (City) - I (Inner) - O (Outside) - T (Tool) |
-| Risk Numerals          | I (Whisper) to V (Sovereign)                  |
+| Risk Numerals          | I (Residue) to V (Sovereign)                  |
 | Potency Suffixes       | alpha (Minor) to omega (Catastrophic)         |
 +========================================================================+
 ```
@@ -54,8 +54,8 @@ The second segment identifies where the entity's underlying sorrow first coalesc
 ## 3 Risk Numerals: Threat Ranks (I to V)
 
 The third segment indicates the baseline threat classification:
-- **`I` — Whisper:** Minimal hazard; rookie training entities (10–12 LU).
-- **`II` — Murmur:** Moderate hazard; minor breach potential (14–16 LU).
+- **`I` — Residue:** Minimal hazard; rookie training entities (10–12 LU).
+- **`II` — Echo:** Moderate hazard; minor breach potential (14–16 LU).
 - **`III` — Fragment:** Substantial hazard; lethal to unprotected operatives (16–20 LU).
 - **`IV` — Wail:** Severe hazard; multi-room corridor attacks (24–30 LU).
 - **`V` — Sovereign:** Catastrophic hazard; existential municipal threat (32–36 LU).
@@ -74,10 +74,10 @@ The final three-digit segment denotes the chronological order of registration in
 
 ## 6 Ten Concrete Practical Decryption Examples
 
-1. **`SE-C-Iα-071c` (The Apostle Maker):** City origin; Whisper rank; Alpha grade; #071c registered.
+1. **`SE-C-Iα-071c` (The Apostle Maker):** City origin; Residue rank; Alpha grade; #071c registered.
 2. **`SE-C-IIIβ-014` ([The Debt Eater](27-The%20Debt%20Eater.md)):** City origin; Fragment rank; Moderate volatility; #014 registered.
-3. **`SE-C-IIβ-101` (Emberling):** City origin; Murmur rank; Beta grade; #101 registered.
-4. **`SE-N-IVδ-005` (The Smothering Mother):** Inner sorrow origin; Wail rank; Delta grade; #005 registered.
+3. **`SE-C-IIβ-101` (Emberling):** City origin; Echo rank; Beta grade; #101 registered.
+4. **`SE-N-IVδ-005` (The Smothering Mother):** Inner sorrow origin; Entity rank; Delta grade; #005 registered.
 5. **`SE-C-IIIβ-016` (The Echo Compass):** City origin; Fragment rank; Beta grade; #016 registered.
 6. **`SE-O-IIIβ-120` (The Wrath Flame):** Outside outskirts origin; Fragment rank; Beta grade; #120 registered.
 7. **`SE-C-Vδ-002` (The Grieving Colossus):** City origin; Sovereign rank; Delta potency; #002 Sovereign.

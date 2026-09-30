@@ -21,7 +21,7 @@ A black crystal slice of a demolished building sits frozen in Collector’s Row,
 | Coherence / Potency | IV / δ |
 | Element | Void |
 | Location | Zone C, Collector’s Row |
-| Gauge / Pressure | 999/999; 60–80% / 29–62 |
+| Gauge / Pressure | 880/880; 60–80% / 29–62 |
 | Threshold / Resistance | 90% / 45% Void, 35% other |
 | Set | Truth Held Below Freezing |
 

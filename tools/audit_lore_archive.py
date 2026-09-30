@@ -146,8 +146,8 @@ def audit_sorrow_entities():
     files = [f for f in os.listdir(folder) if f.endswith(".md") and f != "README.md"]
     by_code = {}
     rank_counts = {
-        "Rank I (Whisper)": 0,
-        "Rank II (Murmur)": 0,
+        "Rank I (Residue)": 0,
+        "Rank II (Echo)": 0,
         "Rank III (Fragment)": 0,
         "Rank IV (Entity)": 0,
         "Rank V (Sovereign)": 0,
@@ -160,9 +160,9 @@ def audit_sorrow_entities():
         by_code.setdefault(code, []).append(f)
 
         if "-Iα" in f or "-Iβ" in f or "-Iγ" in f or "-Iδ" in f or "-Iω" in f or "-I-" in f:
-            rank_counts["Rank I (Whisper)"] += 1
+            rank_counts["Rank I (Residue)"] += 1
         elif "-IIα" in f or "-IIβ" in f or "-IIγ" in f or "-IIδ" in f or "-IIω" in f or "-II-" in f:
-            rank_counts["Rank II (Murmur)"] += 1
+            rank_counts["Rank II (Echo)"] += 1
         elif "-IIIα" in f or "-IIIβ" in f or "-IIIγ" in f or "-IIIδ" in f or "-IIIω" in f or "-III-" in f:
             rank_counts["Rank III (Fragment)"] += 1
         elif "-IVα" in f or "-IVβ" in f or "-IVγ" in f or "-IVδ" in f or "-IVω" in f or "-IV-" in f:

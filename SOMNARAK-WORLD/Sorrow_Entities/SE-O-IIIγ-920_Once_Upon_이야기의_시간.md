@@ -86,8 +86,8 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the time manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Once Upon's recorded combat actions.
+3. **Resolution (Once Upon):** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 

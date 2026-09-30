@@ -143,7 +143,7 @@ SOMNARAK-WORLD/
 1. **Sorrow Entity Classification Code (SECC):**
    Format: `SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]`
    - Origins: `C` (City / 도한), `N` (Inner / 내한), `O` (Outside / 외한)
-   - Coherence Ranks: `I` (Whisper / 속삭임), `II` (Murmur / 웅얼거림), `III` (Fragment / 파편), `IV` (Entity / 존재), `V` (Sovereign / 군주)
+   - Coherence Ranks: `I` (Residue / 잔여물), `II` (Echo / 메아리), `III` (Fragment / 파편), `IV` (Entity / 존재), `V` (Sovereign / 군주)
 2. **Four Work Protocols:**
    - **Ferrehan (인내작업):** Physical endurance and barrier maintenance.
    - **Flerehan (공감작업):** Insight, weeping resonance, and active listening.

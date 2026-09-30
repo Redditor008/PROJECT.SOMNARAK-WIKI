@@ -13,7 +13,7 @@ Before the **Hand** learned to refine liquid **Han** into **Lumen**, sorrows wer
 | SOMNARAK - SORROW ENTITIES MASTER BESTIARY                             |
 +------------------------------------------------------------------------+
 | Total Tracked SE       | 291 entities (291 files, 284 unique SECC)     |
-| Risk Classifications   | Whisper - Murmur - Fragment - Entity - Starles|
+| Risk Classifications   | Residue - Echo - Fragment - Entity - Sovereign|
 | Standard Work-Types    | Viderehan - Ferrehan - Flerehan - Pugnahan    |
 | Damage Pressures       | Grudge - Lament - Void - Weight               |
 | Tool Relic Types       | Single Use - Channeled Use - Equippable (88)  |
@@ -57,11 +57,11 @@ Sorrow Entities are not natural biological lifeforms; they are living concepts c
 A fundamental axiom of Somnarak containment physics is **Immortality**: a Sorrow Entity cannot be permanently slain or extinguished. When an entity is suppressed in combat or its physical vessel is shattered, its bodily coherence collapses into granular Han dust. Over the subsequent hours, this residue dissipates through the floorboards and recrystallizes within its assigned containment chamber, returning to its baseline state. Containment, not destruction, is the sole viable doctrine.
 
 Sorrow Entities are categorized into five **Risk Tiers** representing the severity of facility damage they inflict if breached:
-- **Rank I: Whisper (속삭임)**: Negligible passive hazard; minimal breach risk (46 entities).
-- **Rank II: Murmur (웅얼거림)**: Low-to-moderate threat; standard security guards sufficient (70 entities).
+- **Rank I: Residue (잔여물 / Janyeo): Negligible passive hazard; minimal breach risk (46 entities).
+- **Rank II: Echo (메아리 / Meari): Low-to-moderate threat; standard security guards sufficient (70 entities).
 - **Rank III: Fragment (파편)**: Lethal capabilities; requires disciplined specialist assignments (82 entities).
-- **Rank IV: Entity (존재)**: Critical threat; capable of massive departmental slaughter (79 entities).
-- **Rank V: Sovereign (군주)**: Catastrophic existential disaster; potential facility-wide collapse (10 entities).
+- **Rank IV: Entity (존재)**: Critical threat; capable of massive departmental slaughter (80 entities).
+- **Rank V: Sovereign (군주)**: Catastrophic existential disaster; potential facility-wide collapse (13 entities).
 
 ## 2 Behavior
 
@@ -199,7 +199,7 @@ Every registered entity is assigned a permanent **Somnarak Sorrow Entity Classif
    - `C` (City / Concrete / Physical Form — 159 entities)
    - `N` (Inner / Non-physical / Acoustic / Mental Form — 72 entities)
    - `O` (Outside / Abstract / Extramural / Hazard Form — 61 entities)
-3. **Threat Tier `[T]`:** Roman numerals `I` (Whisper), `II` (Murmur), `III` (Fragment), `IV` (Entity), `V` (Sovereign).
+3. **Threat Tier `[T]`:** Roman numerals `I` (Residue), `II` (Echo), `III` (Fragment), `IV` (Entity), `V` (Sovereign).
 4. **Resonance Subtype `[S]`:** Greek letters `α` (Stable), `β` (Fluctuating), `γ` (Aggressive), `δ` (Volatile reality-warping).
 5. **Identifier `[N]`:** Unique registry call number (e.g. `001`, `014`, `015`, `016`, `275`).
 

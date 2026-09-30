@@ -40,7 +40,7 @@ During routine operations, an entity exists in one of four states:
 ## 2 The Mugenhan Escape Counter Mechanics
 
 Every breaching entity is regulated by an **Escape Counter** displayed above its cell door:
-- **Baseline Values:** Typically ranges from 1 to 3 depending on entity risk tier (Whispers possess none; Sovereigns possess 1–2).
+- **Baseline Values:** Typically ranges from 1 to 3 depending on entity risk tier (Residues possess none; Sovereigns possess 1–2).
 - **Counter Depletion:** Reaching 0 causes an immediate catastrophic breach.
 - **Counter Recovery:** Successfully completing a Good work outcome often restores the counter by +1 up to its maximum ceiling.
 
@@ -50,7 +50,7 @@ The escape counter drops under specific conditions detailed in the entity's ward
 1. **Bad Work Outcome:** Generating mostly Fracture boxes during a work session.
 2. **Protocol Dislike:** Assigning a work protocol the entity abhors (e.g., ⚔ **Pugnahan** on a gentle grieving entity).
 3. **Meltdown Timeout:** Allowing a 60-second cell overload timer to expire without dispatching staff.
-4. **Auxiliary Casualties:** High-threat Wail and Sovereign entities drop counters whenever 5 or more auxiliaries die on the floor.
+4. **Auxiliary Casualties:** High-threat Entity-rank and Sovereign entities drop counters whenever 5 or more auxiliaries die on the floor.
 5. **Specialist Panic:** If an operative panics inside the containment chamber, the counter drops instantly to 0.
 6. **Incompatible Attribute Rank:** Sending an operative whose Resilience or Clarity is below the entity's required threshold.
 7. **Shift Duration Fatigue:** Working with the same entity more than 5 times in a single shift.

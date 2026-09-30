@@ -42,10 +42,10 @@ An operative's rank dictates their authority, equipment eligibility, and resista
 
 | Specialist Rank | Title Designation | Required Attribute Sum | Maximum Stat Cap | Fear Immunity Tier |
 |---|---|---|---|---|
-| **Rank I** | Recruit Operative | 100–129 Points | Tier 1 (30 Max) | Whisper only |
-| **Rank II** | Junior Specialist | 130–169 Points | Tier 2 (45 Max) | Murmur |
+| **Rank I** | Recruit Operative | 100–129 Points | Tier 1 (30 Max) | Residue only |
+| **Rank II** | Junior Specialist | 130–169 Points | Tier 2 (45 Max) | Echo |
 | **Rank III** | Senior Specialist | 170–219 Points | Tier 3 (65 Max) | Fragment |
-| **Rank IV** | Lead Operative | 220–279 Points | Tier 4 (85 Max) | Wail |
+| **Rank IV** | Lead Operative | 220–279 Points | Tier 4 (85 Max) | Entity |
 | **Rank V** | Master Specialist | 280–330 Points | Tier 5 (100 Max) | Sovereign |
 | **EX-Rank** | Facility Vanguard | 331+ Points (Over-trained) | EX-Tier (120+ Max) | Total Fear Immunity |
 
@@ -72,7 +72,7 @@ When an operative remains stationed within a single department for multiple cons
 Though fragile, Auxiliaries play a vital role in facility stability:
 - **Morale Aura:** As long as 100% of a department's auxiliaries are alive, all specialists in that department receive passive stat buffs (+5% Work Success, +5% Movement Speed).
 - **The Panicked Auxiliary Threat:** If auxiliary casualties exceed 50%, remaining auxiliaries begin suffering mass panic, wandering hallways and agitating nearby containment units.
-- **Breach Bait:** High-threat Wail and Sovereign entities often prioritize slaughtering auxiliaries, giving combat squads precious seconds to position heavy weapons.
+- **Breach Bait:** High-threat Entity-rank and Sovereign entities often prioritize slaughtering auxiliaries, giving combat squads precious seconds to position heavy weapons.
 
 ## 6 Operative Customization and Lineages
 

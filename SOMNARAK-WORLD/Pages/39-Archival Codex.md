@@ -55,7 +55,7 @@ Every comprehensive entity dossier is structured into 18 standardized sections:
 ## 2 Sections 1 through 6: Operational Baseline
 
 These opening sections provide the immediate data required for routine containment:
-- Clear identification of risk tiers (Whisper to Sovereign).
+- Clear identification of risk tiers (Residue to Sovereign).
 - Exact energy yield (e.g. 16 LU for Fragment entities).
 - Primary damage pressure (🔴 Grudge, 🔵 Lament, ⚪ Void, or ⚫ Weight).
 - Accurate description of physical geometry to assist specialist visual confirmation upon entry.

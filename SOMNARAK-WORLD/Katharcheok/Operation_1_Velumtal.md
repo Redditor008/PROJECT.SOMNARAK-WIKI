@@ -633,7 +633,7 @@ Twenty minutes later, the squad climbed the stone stairs to the street level. As
 | **Counterfeit Veil Stones** | 450 finished units (Mudstone/Resin) | Confiscated; slated for high-heat incinerator destruction |
 | **Lapidary Forging Presses** | 12 pneumatic hydraulic stamping rigs | Demolished on-site by Division 05 sapping charges |
 | **Unrefined Sorrow Brine** | 1,400 liters of diluted Crimson Han | Secured into leaded tankers; transferred to R.D. Facility 01 |
-| **Contraband Sorrow Entity** | SECC-019 "The False Shroud" (Rank II Murmur)| Sealed in Class-IV Cask; routed to R.D. Floor 2 (Maw's Keep)|
+| **Contraband Sorrow Entity** | SECC-019 "The False Shroud" (Rank II Echo)| Sealed in Class-IV Cask; routed to R.D. Floor 2 (Maw's Keep)|
 | **Syndicate Master Ledger** | 3 bound volumes + encrypted hard drive | Transferred to Auditor Yuna & Keepers Archive custody |
 | **Illicit Currency Seizure** | 840,000 Municipal Scrips (Cash/Notes) | Deposited into Zone D Citizen Emergency Relief Fund |
 

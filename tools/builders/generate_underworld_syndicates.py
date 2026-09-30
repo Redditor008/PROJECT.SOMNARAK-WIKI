@@ -76,7 +76,7 @@ Rather than being mindless criminal gangs, these syndicates represent an extrale
 ### 1. Sociological Profile & Ideological Doctrine
 The **Menders Guild** constitutes the oldest and most organized extralegal network in Somnarak. Unlike their purely criminal counterparts, the Menders view themselves as an honorable civic guild of frontline fixers, civil engineers, and minor containment specialists who operate where municipal services refuse to tread.
 
-When sorrow seepages cause tenement masonry to crack, when low-grade Sorrow Entities (Rank I Whispers or Rank II Murmurs) slip through drainage conduits, or when blood-feuds between tenement families threaten to burn down entire wards, the Raw does not call the Directorate. They hire a Mender.
+When sorrow seepages cause tenement masonry to crack, when low-grade Sorrow Entities (Rank I Residues or Rank II Echoes) slip through drainage conduits, or when blood-feuds between tenement families threaten to burn down entire wards, the Raw does not call the Directorate. They hire a Mender.
 
 ### 2. Organizational Hierarchy & Ranks
 The Guild operates a rigid seven-tier ranking ladder, strictly audited by the Guild Council of Needles:

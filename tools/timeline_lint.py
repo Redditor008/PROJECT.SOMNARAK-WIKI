@@ -7,6 +7,7 @@ print("=== PROJECT SOMNARAK // PAN-REPO CANON TIMELINE LINTER ===")
 
 CURRENT_YEAR = 4238
 CURRENT_CYCLE = 1778
+WINDOW_END = 4255  # post-Dawn projection window: 4239-4255 legitimate per codex rows
 
 # Whitelist patterns for authorized forward projections according to CANON_TIMELINE.md Section 5
 WHITELIST_PATTERNS = [
@@ -43,6 +44,7 @@ for f in sorted(list(set(all_files))):
     clean_files.append(f)
 
 p_year = re.compile(r'\bYear\s+(\d{4})\b')
+p_year_comma = re.compile(r'\bYears?\s+(\d),(\d{3})\b')
 p_cycles_ago = re.compile(r'(\d+)\s+cycles\s+ago', re.IGNORECASE)
 
 for f in clean_files:
@@ -62,17 +64,16 @@ for f in clean_files:
         if "founded 6,000 years ago" in line or "suffering for 6,000 years" in line:
             errors.append(f"{f}:{line_num} -> B2 Violation: '6,000 years ago' contradicts Year 0 founding with Year 4,238 current era.")
             
-        # Check B3: "Year 4247" unwhitelisted contemporary drift
-        if "Year 4247" in line and not any(wp.search(line) for wp in WHITELIST_PATTERNS):
-            errors.append(f"{f}:{line_num} -> B3 Violation: 'Year 4247' is 9 years beyond Year 4,238 canonical era anchor.")
+        # B3 retired: Year 4247 sits inside the legitimate 4239-4255 post-Dawn window.
             
-        # Check F1: Any year > 4238 without explicit whitelist
-        for m in p_year.finditer(line):
-            y = int(m.group(1))
-            if y > CURRENT_YEAR:
+        # Check F1: Any year beyond the 4255 window without explicit whitelist
+        years = [int(m.group(1)) for m in p_year.finditer(line)]
+        years += [int(m.group(1) + m.group(2)) for m in p_year_comma.finditer(line)]
+        for y in years:
+            if y > WINDOW_END:
                 # check if line matches whitelist
                 if not any(wp.search(line) for wp in WHITELIST_PATTERNS):
-                    errors.append(f"{f}:{line_num} -> F1 Violation: Year {y} exceeds Year {CURRENT_YEAR} anchor: '{line.strip()}'")
+                    errors.append(f"{f}:{line_num} -> F1 Violation: Year {y} exceeds Year {WINDOW_END} window: '{line.strip()}'")
 
         # Check relative cycle math in text: "X cycles ago"
         m_cyc = p_cycles_ago.search(line)

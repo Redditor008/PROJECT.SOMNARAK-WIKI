@@ -22,7 +22,7 @@ The Tear is believed to be the first sorrow ever felt on Mugenhan. The original 
 | Type / Manifestation | Object/Place — Can breach via Transform; sealed / Object-Lament |
 | Coherence / Potency | Sovereign (V) — Autonomous, ancient, singular / Critical (δ) |
 | Element / Location | Lament / SECTOR-A-01, Alpha Tree deep vault — sealed |
-| Gauge / Pressure | 999/999; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 600/600; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 5 — Sovereign |
 | Formation event | Unknown. It occurred before Han became structural and before Somnarak existed. |
 
