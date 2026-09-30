@@ -1,6 +1,6 @@
 # BLUE Second Watch — The Sobbing Wall
 
-> *A secondary BLUE Second Watch Ordeal — a distinct manifestation of lament sorrow at moderate severity.*
+> *A BLUE Second Watch Ordeal — lament sorrow at moderate severity, weeping through generations of absorbed confessions it has learned to mourn aloud.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ It sobs, and the sound grinds down the composure of all who must work near it. T
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not demolish: three breached walls burst their corridors with stored grief and doubled the sobbing across two zones. Instead, hear it out — Lament-element M.A.W. at Second Watch grade to hold the perimeter while confessors take formal receipt of the wall’s confessions, one grief at a time. The Weeping Leviathan (220 HP) surfaces where the tears pool deepest; keep the floor pumped and it stays theoretical. Seal the room’s acoustics so the sobbing cannot recruit.
+Take the wall with moderate-graded teams under Lament-element M.A.W. Favor patience over picks: contain the room acoustically and suppress the manifestation before it recruits. Do not demolish: three breached walls burst their corridors with stored grief and doubled the sobbing across two zones. Instead, hear it out — Lament-element M.A.W. at Second Watch grade to hold the perimeter while confessors take formal receipt of the wall’s confessions, one grief at a time. The Weeping Leviathan (220 HP) surfaces where the tears pool deepest; keep the floor pumped and it stays theoretical. Seal the room’s acoustics so the sobbing cannot recruit.
 
 ## Facility Impact
 

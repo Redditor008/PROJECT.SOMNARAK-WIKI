@@ -1,6 +1,6 @@
 # ASHEN Second Watch — The Erased Ranks
 
-> *A secondary ASHEN Second Watch Ordeal — a distinct manifestation of void sorrow at moderate severity.*
+> *An ASHEN Second Watch Ordeal — void sorrow at moderate severity, marching as a redacted company with stricken names and razored faces.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ Their blank gaze falls, and the touched feel their own features beginning to smo
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not meet the advance head-on: the Geometric Void (280 HP) marches at the column’s heart and unmakes whatever the Ranks merely smooth. Instead, read them back into the record — Void-element M.A.W. at Second Watch grade to hold the flanks while archivists recite the stricken names from the sealed roll. Every name restored takes a soldier out of the line; the muster-roll is the weapon here. Suppress before it spreads — a doubled column has twice overrun the recitation team.
+Meet the column with moderate-graded teams backed by Void-element M.A.W. Favor flanks and records over frontal assault, and suppress the manifestation before it spreads. Do not meet the advance head-on: the Geometric Void (280 HP) marches at the column’s heart and unmakes whatever the Ranks merely smooth. Instead, read them back into the record — Void-element M.A.W. at Second Watch grade to hold the flanks while archivists recite the stricken names from the sealed roll. Every name restored takes a soldier out of the line; the muster-roll is the weapon here. Suppress before it spreads — a doubled column has twice overrun the recitation team.
 
 ## Facility Impact
 

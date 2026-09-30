@@ -1,6 +1,6 @@
 # GREY Tide Watch — The Gallows Field
 
-> *A secondary GREY Tide Watch Ordeal — a distinct manifestation of grudge sorrow at catastrophic severity.*
+> *A GREY Tide Watch Ordeal — grudge sorrow at catastrophic severity, walking as a drifting field of gallows-poles with swaying nooses.*
 
 ## Ordeal Classification
 
@@ -35,7 +35,7 @@ A drifting field of gallows-poles — dozens, then hundreds — each with its no
 | **The Crew** | Those sorted to the ropes are handed work: attack your allies or the role rebounds. | Resolve check each turn to refuse; refused roles rebound the hanging onto the refuser. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Walk the field with catastrophic-graded teams under Grudge-element M.A.W. Divert or contain rather than confronting directly — the condemned and their makers outnumber every roster — and suppress the manifestation before it spreads.
 
 ## Facility Impact
 

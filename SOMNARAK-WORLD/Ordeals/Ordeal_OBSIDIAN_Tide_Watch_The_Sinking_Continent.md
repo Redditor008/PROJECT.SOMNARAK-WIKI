@@ -1,6 +1,6 @@
 # OBSIDIAN Tide Watch — The Sinking Continent
 
-> *A secondary OBSIDIAN Tide Watch Ordeal — a distinct manifestation of weight sorrow at catastrophic severity.*
+> *An OBSIDIAN Tide Watch Ordeal — weight sorrow at catastrophic severity, advancing as a heaving city block grinding forward on buried supports.*
 
 ## Ordeal Classification
 
@@ -35,7 +35,7 @@ A tract of ground the size of a city block, visibly heaving, advancing on buried
 | **The Settlement** | Ground the Continent passes stays liquefied for hours; the district it carries grows. | Structures on passed ground drop to half integrity. Everything it keeps, it keeps. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Give ground before the district with catastrophic-graded teams and Weight-element M.A.W. Nothing stops it — only channel, evacuate, and suppress the manifestation before it settles.
 
 ## Facility Impact
 

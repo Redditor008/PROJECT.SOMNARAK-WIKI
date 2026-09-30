@@ -1,6 +1,6 @@
 # ASHEN Third Watch — The Pale Hush
 
-> *A secondary ASHEN Third Watch Ordeal — a distinct manifestation of void sorrow at major severity.*
+> *An ASHEN Third Watch Ordeal — void sorrow at major severity, drifting as a fifty-meter fog of total silence that erases what it stills.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ It envelops, and everything inside loses its edges, its names, its form. It does
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at Third Watch grade, with every responder on a tether and a buddy-count every five minutes — the Hush takes the uncounted first. Noise is the weapon: sirens, bells, and cadence-drums played at the fog’s edge have stalled its drift three times, because sound is the one thing it must stop to erase. Draw off the Eyeless Hounds (350 HP) before committing crews; burn the Skin-Blizzard (380 HP) out of the flanks. Never enter the fog to retrieve equipment.
+Answer the fog with major-graded teams and Void-element M.A.W. Work the edges only and count every responder; suppress the manifestation before it drifts. Void-element M.A.W. at Third Watch grade, with every responder on a tether and a buddy-count every five minutes — the Hush takes the uncounted first. Noise is the weapon: sirens, bells, and cadence-drums played at the fog’s edge have stalled its drift three times, because sound is the one thing it must stop to erase. Draw off the Eyeless Hounds (350 HP) before committing crews; burn the Skin-Blizzard (380 HP) out of the flanks. Never enter the fog to retrieve equipment.
 
 ## Facility Impact
 

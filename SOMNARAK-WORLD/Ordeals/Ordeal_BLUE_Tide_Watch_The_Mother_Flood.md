@@ -1,6 +1,6 @@
 # BLUE Tide Watch — The Mother Flood
 
-> *A secondary BLUE Tide Watch Ordeal — a distinct manifestation of lament sorrow at catastrophic severity.*
+> *A BLUE Tide Watch Ordeal — lament sorrow at catastrophic severity, advancing as the first and oldest grief-flood the city ever buried.*
 
 ## Ordeal Classification
 
@@ -35,7 +35,7 @@ A vast slow tide of dark water, floor to ceiling, advancing slower than walking 
 | **The Cradle** | The submerged are not panicked but comforted: minus 15 Clarity per turn on top of Composure. | After three turns they dissolve into new hands. Extraction requires Ferrehan pairs — the victim will resist rescue. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not deploy personnel with recent bereavement to the line; the Flood identifies them first. Ferrehan pairs only for extraction — victims arrive calm and resist rescue, and solo workers have lain down in the water beside them.
+Face the water with catastrophic-graded teams and Lament-element M.A.W. — the Flood reads grief the way hounds read scent. Keep the line clear of the recently bereaved and suppress the manifestation before it rises. Do not deploy personnel with recent bereavement to the line; the Flood identifies them first. Ferrehan pairs only for extraction — victims arrive calm and resist rescue, and solo workers have lain down in the water beside them.
 
 ## Facility Impact
 

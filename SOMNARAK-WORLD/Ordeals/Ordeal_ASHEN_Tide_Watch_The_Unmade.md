@@ -1,6 +1,6 @@
 # ASHEN Tide Watch — The Unmade
 
-> *A secondary ASHEN Tide Watch Ordeal — a distinct manifestation of void sorrow at catastrophic severity.*
+> *An ASHEN Tide Watch Ordeal — void sorrow at catastrophic severity, rising as half-transparent forms flickering between faint visibility and never-having-been.*
 
 ## Ordeal Classification
 
@@ -35,7 +35,7 @@ A drifting tide of half-transparent forms, human and otherwise, flickering sever
 | **The Thinning** | After three turns of contact, the zone's physical constants thin under the flicker-load. | Structures drop to half integrity and M.A.W. dice roll −2 until the Tide turns. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Hold the line with catastrophic-graded teams; Void-element M.A.W. is mandatory here. Nothing here can be confronted directly — only diverted, contained, and suppressed before it spreads.
 
 ## Facility Impact
 

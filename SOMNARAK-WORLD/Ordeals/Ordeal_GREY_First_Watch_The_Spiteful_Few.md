@@ -1,6 +1,6 @@
 # GREY First Watch — The Spiteful Few
 
-> *A secondary GREY First Watch Ordeal — a distinct manifestation of grudge sorrow at minor severity.*
+> *A GREY First Watch Ordeal — grudge sorrow at minor severity, rushing as a small hot knot of the newly wronged with no second idea.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ They rush the nearest target, attacking with uncoordinated but genuine fury. No 
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Meet the first rush with shields and let it break; the Few have no second idea. Grudge-element M.A.W. at First Watch grade, Level 2+ personnel, and one spare shield — the Blood-Pool (160 HP) that condenses under a prolonged scrum lashes tendrils at ankles. Suppress before it spreads: every minute of fighting recruits Razor-Vermin (eight to twelve), and vermin turn a brawl into an infestation.
+Answer the knot with minor-graded teams, Grudge-element M.A.W., and spare shields. Keep the scrum short and the ankles guarded; suppress the manifestation before it recruits. Meet the first rush with shields and let it break; the Few have no second idea. Grudge-element M.A.W. at First Watch grade, Level 2+ personnel, and one spare shield — the Blood-Pool (160 HP) that condenses under a prolonged scrum lashes tendrils at ankles. Suppress before it spreads: every minute of fighting recruits Razor-Vermin (eight to twelve), and vermin turn a brawl into an infestation.
 
 ## Facility Impact
 

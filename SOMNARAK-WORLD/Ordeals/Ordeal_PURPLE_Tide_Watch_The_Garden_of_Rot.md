@@ -1,6 +1,6 @@
 # PURPLE Tide Watch — The Garden of Rot
 
-> *A secondary PURPLE Tide Watch Ordeal — a distinct manifestation of mixed sorrow at catastrophic severity.*
+> *A PURPLE Tide Watch Ordeal — mixed sorrow at catastrophic severity, gardening as a mobile landscape of door-sized parasitic blooms.*
 
 ## Ordeal Classification
 
@@ -35,7 +35,7 @@ A mobile landscape: corrupted vegetation in dense stands, parasitic blooms the s
 | **The Blooming** | After three turns rooted, personnel bloom: permanent transformation, hostile, flowering. | Burn early, grieve later. What blooms in the garden belongs to the garden. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Starve the garden with catastrophic-graded teams and Mixed-element M.A.W. It moves slowly — use that: isolate, burn, and suppress the manifestation before it roots.
 
 ## Facility Impact
 

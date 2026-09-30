@@ -1,6 +1,6 @@
 # OBSIDIAN Third Watch — The Pressing Vault
 
-> *A secondary OBSIDIAN Third Watch Ordeal — a distinct manifestation of weight sorrow at major severity.*
+> *An OBSIDIAN Third Watch Ordeal — weight sorrow at major severity, descending as a shelter-ceiling that learned to crush instead of protect.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ It lowers until whatever is beneath is pressed flat, then releases and resets el
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at Third Watch grade, with shoring crews running behind the line — jacks, timbers, and Han-rated pistons, because the only answer to a press is a counter-press. Shore the descent while evacuating beneath it; the press cannot crush what it cannot reach, and it reaches only downward. The Living Avalanche at Elite grade (410 HP) circles the press-zone eating the rubble — engage it at range or it buries the shoring teams in their own work. Never wedge the press; two wedged presses simply pressed the wedges into the floor and continued.
+Answer the descent with major-graded teams, Weight-element M.A.W., and shoring crews. Jacks and timbers behind the line, evacuation beneath it — suppress the manifestation before it seats. Weight-element M.A.W. at Third Watch grade, with shoring crews running behind the line — jacks, timbers, and Han-rated pistons, because the only answer to a press is a counter-press. Shore the descent while evacuating beneath it; the press cannot crush what it cannot reach, and it reaches only downward. The Living Avalanche at Elite grade (410 HP) circles the press-zone eating the rubble — engage it at range or it buries the shoring teams in their own work. Never wedge the press; two wedged presses simply pressed the wedges into the floor and continued.
 
 ## Facility Impact
 

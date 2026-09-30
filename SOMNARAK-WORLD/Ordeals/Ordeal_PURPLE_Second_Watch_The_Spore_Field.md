@@ -1,6 +1,6 @@
 # PURPLE Second Watch — The Spore Field
 
-> *A secondary PURPLE Second Watch Ordeal — a distinct manifestation of mixed sorrow at moderate severity.*
+> *A PURPLE Second Watch Ordeal — mixed sorrow at moderate severity, rippling as one wide exhaling field of slimy jointed blooms.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ It exhales as one, and a fog of transformative spore washes the area. The inhala
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at Second Watch grade, sealed kit mandatory, with burn crews working the field’s edge inward — the perimeter first, so nothing rooted escapes the fire. Time the burns between exhalations; a crew caught mid-field at full exhale does not come back unseeded. Suppress before it spreads: the field extends its runners nightly, and every meter of new field is a meter of new exhalation. Defoliate the runners with UV survey and fire; the field hides its youngest growth in the walls.
+Work the field's edge with moderate-graded teams under Mixed-element M.A.W. Sealed kit, inward burns, and eyes on the walls for young growth — suppress the manifestation before the runners advance. Mixed-element M.A.W. at Second Watch grade, sealed kit mandatory, with burn crews working the field’s edge inward — the perimeter first, so nothing rooted escapes the fire. Time the burns between exhalations; a crew caught mid-field at full exhale does not come back unseeded. Suppress before it spreads: the field extends its runners nightly, and every meter of new field is a meter of new exhalation. Defoliate the runners with UV survey and fire; the field hides its youngest growth in the walls.
 
 ## Facility Impact
 

@@ -1,6 +1,6 @@
 # OBSIDIAN First Watch — The Lead Footsteps
 
-> *A secondary OBSIDIAN First Watch Ordeal — a distinct manifestation of weight sorrow at minor severity.*
+> *An OBSIDIAN First Watch Ordeal — weight sorrow at minor severity, treading as crater-pressing footprints born of every weary walk home.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ The footsteps advance; whatever they step upon is driven down into the ground by
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at First Watch grade, Level 2+ personnel — and soft ground, because the Footsteps spend their tonnage fastest on yielding surfaces. Divert the trail onto sand beds, rubble flats, or sacrificial flooring; hard floors transmit the craters deeper. The Grinding Maw (120 HP) follows the sound of the steps — silence the approach route or post a guard. Suppress before it spreads: a trail that reaches a junction forks, and forked Footsteps walk twice as far.
+Spend its tonnage with minor-graded teams and Weight-element M.A.W. Favor yielding ground over hard floors and silence over noise; suppress the manifestation before it forks. Weight-element M.A.W. at First Watch grade, Level 2+ personnel — and soft ground, because the Footsteps spend their tonnage fastest on yielding surfaces. Divert the trail onto sand beds, rubble flats, or sacrificial flooring; hard floors transmit the craters deeper. The Grinding Maw (120 HP) follows the sound of the steps — silence the approach route or post a guard. Suppress before it spreads: a trail that reaches a junction forks, and forked Footsteps walk twice as far.
 
 ## Facility Impact
 

@@ -1,6 +1,6 @@
 # ASHEN First Watch — The Pale Tracks
 
-> *A secondary ASHEN First Watch Ordeal — a distinct manifestation of void sorrow at minor severity.*
+> *An ASHEN First Watch Ordeal — void sorrow at minor severity, walking the corridors as footprints that erase the ground they cross.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ Whatever the tracks cross loses its detail, fading toward nothing. The Tracks do
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at First Watch grade, Level 2+ personnel, with chalk and cameras — re-mark everything the trail touches before the fade sets, because documented detail resists erasure. Suppress before it spreads: the trail branches at junctions, and each branch walks independently. The Geometric Void at Fragment grade (180 HP) sometimes condenses at a trail junction; collapse it before it anchors, or the junction becomes a permanent forgetting-place.
+Walk this trail with minor-graded teams; Void-element M.A.W. is the recommended answer. Divert or contain it rather than confronting directly, and suppress the manifestation before it branches. Void-element M.A.W. at First Watch grade, Level 2+ personnel, with chalk and cameras — re-mark everything the trail touches before the fade sets, because documented detail resists erasure. Suppress before it spreads: the trail branches at junctions, and each branch walks independently. The Geometric Void at Fragment grade (180 HP) sometimes condenses at a trail junction; collapse it before it anchors, or the junction becomes a permanent forgetting-place.
 
 ## Facility Impact
 

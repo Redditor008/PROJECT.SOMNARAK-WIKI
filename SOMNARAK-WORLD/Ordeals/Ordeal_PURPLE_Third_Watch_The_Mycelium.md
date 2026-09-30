@@ -1,6 +1,6 @@
 # PURPLE Third Watch — The Mycelium
 
-> *A secondary PURPLE Third Watch Ordeal — a distinct manifestation of mixed sorrow at major severity.*
+> *A PURPLE Third Watch Ordeal — mixed sorrow at major severity, thinking as one vast thread-web through conduit, ductwork, and wall.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ It fruits, and the spore-storm seeds everyone in the hall at once. Fruiting is s
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at Third Watch grade, sealed kit mandatory, with defoliant crews running behind the firing line — every fruiting body must be burned and every thread-line severed, or the network re-grows from the survivors. Target the Root Network nexus first; without coordination the fruiting desynchronizes into manageable patches. Suppress before it spreads: the web extends through conduit and ductwork faster than teams can walk. Map the thread with UV before burning — the network hides runners in the walls.
+Cut coordination with major-graded teams and Mixed-element M.A.W. Map with UV, burn the fruiting, sever the thread-lines — suppress the manifestation before it re-grows. Mixed-element M.A.W. at Third Watch grade, sealed kit mandatory, with defoliant crews running behind the firing line — every fruiting body must be burned and every thread-line severed, or the network re-grows from the survivors. Target the Root Network nexus first; without coordination the fruiting desynchronizes into manageable patches. Suppress before it spreads: the web extends through conduit and ductwork faster than teams can walk. Map the thread with UV before burning — the network hides runners in the walls.
 
 ## Facility Impact
 

@@ -1,6 +1,6 @@
 # BLUE Third Watch — The Hollow Bells
 
-> *A secondary BLUE Third Watch Ordeal — a distinct manifestation of lament sorrow at major severity.*
+> *A BLUE Third Watch Ordeal — lament sorrow at major severity, tolling wet muffled notes for every funeral the district never held.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ They toll, and every note is a grief that was never given its rite. The tolling 
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not silence the bells by force — three muffled peals burst their towers and tripled the tolling. Instead, hold the rite: Lament-element M.A.W. at Third Watch grade to hold the perimeter while cantors speak one funeral per bell. The Sorrow Fog (410 HP) thickens around interrupted rites, so each rite must be finished once begun. Two cantors minimum, four bells per hour, no shortcuts.
+Answer the tolling with major-graded teams; Lament-element M.A.W. holds the perimeter. Work bell by bell with no shortcuts, and suppress the manifestation before it multiplies. Do not silence the bells by force — three muffled peals burst their towers and tripled the tolling. Instead, hold the rite: Lament-element M.A.W. at Third Watch grade to hold the perimeter while cantors speak one funeral per bell. The Sorrow Fog (410 HP) thickens around interrupted rites, so each rite must be finished once begun. Two cantors minimum, four bells per hour, no shortcuts.
 
 ## Facility Impact
 

@@ -1,6 +1,6 @@
 # GREY Third Watch — The War Machine
 
-> *A secondary GREY Third Watch Ordeal — a distinct manifestation of grudge sorrow at major severity.*
+> *A GREY Third Watch Ordeal — grudge sorrow at major severity, rolling as a hundred fused soldiers still holding their last order at a funeral-march pace.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ It rolls over a formation, and the combined fury of a hundred soldiers lands at 
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not stand in its path at any grade: there is no clash roll against weather. Divert with demolition — collapsed ceilings have stalled it twice — and engage the trailing Bone-Legions with Grudge-element M.A.W. while the Machine grinds past the kill-pocket. The Elite Blade Storm (410 HP) circling the mass punishes anyone who closes; work at pike range or not at all.
+Bring major-graded teams with Grudge-element M.A.W. recommended. Divert or contain rather than confronting directly wherever possible, and suppress the manifestation before it spreads. Do not stand in its path at any grade: there is no clash roll against weather. Divert with demolition — collapsed ceilings have stalled it twice — and engage the trailing Bone-Legions with Grudge-element M.A.W. while the Machine grinds past the kill-pocket. The Elite Blade Storm (410 HP) circling the mass punishes anyone who closes; work at pike range or not at all.
 
 ## Facility Impact
 

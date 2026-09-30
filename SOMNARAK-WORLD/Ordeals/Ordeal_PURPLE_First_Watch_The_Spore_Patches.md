@@ -1,6 +1,6 @@
 # PURPLE First Watch — The Spore Patches
 
-> *A secondary PURPLE First Watch Ordeal — a distinct manifestation of mixed sorrow at minor severity.*
+> *A PURPLE First Watch Ordeal — mixed sorrow at minor severity, seeding itself from ambient grief the way mildew seeds from damp.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ They puff, and clouds of invasive spores seed whatever breathes them. Each patch
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at First Watch grade, Level 2+ personnel, with respirators sealed and checked — the spores seed through cloth, paper, and optimism. Burn the patches in sequence from the corridor’s end inward, so the fleeing Gnats fly into the fire rather than past it. The Parasite Bloom (120 HP) fruits where burning is delayed; do not delay. Suppress before it spreads: every unburned patch doubles by next watch, and a doubled patch-network starts thinking in roots.
+Suit up with minor-graded teams and Mixed-element M.A.W. Respirators sealed and checked, burns without delay — suppress the manifestation before it spreads. Mixed-element M.A.W. at First Watch grade, Level 2+ personnel, with respirators sealed and checked — the spores seed through cloth, paper, and optimism. Burn the patches in sequence from the corridor’s end inward, so the fleeing Gnats fly into the fire rather than past it. The Parasite Bloom (120 HP) fruits where burning is delayed; do not delay. Suppress before it spreads: every unburned patch doubles by next watch, and a doubled patch-network starts thinking in roots.
 
 ## Facility Impact
 

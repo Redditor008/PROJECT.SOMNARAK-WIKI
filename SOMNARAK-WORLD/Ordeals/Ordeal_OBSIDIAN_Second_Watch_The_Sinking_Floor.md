@@ -1,6 +1,6 @@
 # OBSIDIAN Second Watch — The Sinking Floor
 
-> *A secondary OBSIDIAN Second Watch Ordeal — a distinct manifestation of weight sorrow at moderate severity.*
+> *An OBSIDIAN Second Watch Ordeal — weight sorrow at moderate severity, sagging as a hammock of stone soaked heavy with unpaid hours.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ It sinks under whatever crosses it, pulling them down by the accumulated weight 
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at Second Watch grade, with bridging crews running planks and Han-rated spans — the only safe crossing is one that never touches the sag. Suppress before it spreads: the sag extends toward vibration, so stampedes feed it and silence starves it. The Living Avalanche (280 HP) circles the sag eating the sloughed edges; engage it at range or it undermines the bridging teams’ anchors. The Grinding Maw (220 HP) hunts the rim — post a guard or lose a bridger.
+Cross on bridging with moderate-graded teams under Weight-element M.A.W. Planks and Han-rated spans that never touch the sag; keep the crossing quiet and suppress the manifestation before it spreads. Weight-element M.A.W. at Second Watch grade, with bridging crews running planks and Han-rated spans — the only safe crossing is one that never touches the sag. Suppress before it spreads: the sag extends toward vibration, so stampedes feed it and silence starves it. The Living Avalanche (280 HP) circles the sag eating the sloughed edges; engage it at range or it undermines the bridging teams’ anchors. The Grinding Maw (220 HP) hunts the rim — post a guard or lose a bridger.
 
 ## Facility Impact
 

@@ -1,6 +1,6 @@
 # GREY Second Watch — The Rust Battalion
 
-> *A secondary GREY Second Watch Ordeal — a distinct manifestation of grudge sorrow at moderate severity.*
+> *A GREY Second Watch Ordeal — grudge sorrow at moderate severity, drilling as a corroded punishment detail with sealed orders that never came.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ They form a line and advance, weapons ready, cutting down whatever breaks. The l
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Break the rhythm before engaging the bodies: cadence-drums answered out of time have scattered the line twice in recorded practice. Grudge-element M.A.W. at Second Watch grade; keep teams off the parade axis, because the Blade Storm (280 HP) orbits the battalion’s center and shreds anything that meets the line head-on. Channel the advance into a cul-de-sac, then collapse the flanks inward.
+Meet the parade with moderate-graded teams backed by Grudge-element M.A.W. Never take the line head-on — divert, channel, and suppress the manifestation before it spreads. Break the rhythm before engaging the bodies: cadence-drums answered out of time have scattered the line twice in recorded practice. Grudge-element M.A.W. at Second Watch grade; keep teams off the parade axis, because the Blade Storm (280 HP) orbits the battalion’s center and shreds anything that meets the line head-on. Channel the advance into a cul-de-sac, then collapse the flanks inward.
 
 ## Facility Impact
 

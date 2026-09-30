@@ -1,6 +1,6 @@
 # BLUE First Watch — The Salt Puddles
 
-> *A secondary BLUE First Watch Ordeal — a distinct manifestation of lament sorrow at minor severity.*
+> *A BLUE First Watch Ordeal — lament sorrow at minor severity, pooling as still tears that reflect the room without reflecting you.*
 
 ## Ordeal Classification
 
@@ -25,7 +25,7 @@ They rise to cling, and the cold borrowed grief seeps up through whoever steps i
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mop and pump before blades: Lament-element M.A.W. at First Watch grade, Level 2+ personnel, with a drainage crew running suction lines to blessed cisterns. Suppress before it spreads — linked puddles merge into a sheet, and a sheet can drown a corridor’s morale in minutes. Burn out the Sorrow Fog (180 HP) where it condenses over standing pools; fog plus puddle is how a minor encounter becomes a moderate one.
+Wade in with nothing but minor-graded teams, Lament-element M.A.W., and suction lines. Divert the flow, contain the pools, and suppress the manifestation before it sheets. Mop and pump before blades: Lament-element M.A.W. at First Watch grade, Level 2+ personnel, with a drainage crew running suction lines to blessed cisterns. Suppress before it spreads — linked puddles merge into a sheet, and a sheet can drown a corridor’s morale in minutes. Burn out the Sorrow Fog (180 HP) where it condenses over standing pools; fog plus puddle is how a minor encounter becomes a moderate one.
 
 ## Facility Impact
 
