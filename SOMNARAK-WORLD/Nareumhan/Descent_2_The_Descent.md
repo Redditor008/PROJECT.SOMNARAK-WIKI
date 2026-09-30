@@ -11,7 +11,7 @@
 | Marjuk          | Vault-Keeper    | 100%      | 50/50 SP            |
 | Senior Warden   | Shield-Wall     | 100%      | 50/50 SP            |
 | Junior Warden   | Shield-Wall     | 100%      | 50/50 SP            |
-| Ishall (relay)  | Signal Post     | --        | -- (on cradle)      |
+| Relay Officer  | Signal Post     | --        | -- (on cradle)       |
 +---------------------------------------------------------------------+
 | DEPTH DRAIN     : None yet (begins below V-1)                       |
 | THREAT          : Remembrance, SE-C-IIIγ-115 (Void, Object/Place)   |
@@ -22,7 +22,7 @@
 
 ## Chapter I: The Lowering
 
-The cradle sinks on Marjuk's first key-turn, steady as a held breath. Ishall pays out relay cable meter by meter, calling signal strength up the shaft: strong, strong, strong. The Grand Archive floor shrinks to a lit square above them, then to a line, then to a memory of light.
+The cradle sinks on Marjuk's first key-turn, steady as a held breath. The relay officer pays out relay cable meter by meter, calling signal strength up the shaft: strong, strong, strong. The Grand Archive floor shrinks to a lit square above them, then to a line, then to a memory of light.
 
 Xyan stands at the cradle's edge the whole way down, facing the dark, reading flows. Twice he raises a hand — *brace* — and twice the cradle sways in a pressure surge the gauges only register seconds later. The wardens learn, before first blood, why the Exile leads: he sees the weather before the instruments do.
 
@@ -32,7 +32,7 @@ The descent takes forty minutes. The shaft walls change from dressed archive sto
 
 V-1 opens like a held-out hand. The Shallow Stacks: a low vaulted hall of record shelves stretching past lamplight in every direction, every shelf crammed with ledgers no living clerk remembers filing. Dust lies a finger thick. Nothing here has been touched in forty years — and something has been walking between the shelves anyway. The dust is crossed with damp footprints that begin nowhere and end at the walls.
 
-*Water,* Marjuk says, though no pipe runs this deep. *Memory-water. It flows down through the foundations and collects where the Archive is thinnest. Ishall — log the footprints. Xyan — where?*
+*Water,* Marjuk says, though no pipe runs this deep. *Memory-water. It flows down through the foundations and collects where the Archive is thinnest. Officer — log the footprints. Xyan — where?*
 
 Xyan points past the third shelf-row without looking. *There. It has been waiting since before we were born. It is glad we came. That is the worst part.*
 
@@ -42,7 +42,7 @@ Remembrance (SE-C-IIIγ-115, 기억의 우물) occupies the center of the stacks
 
 The party rings it at distance. The water ripples though nothing touches it, and in the ripple every member sees a face put out of mind years ago. The senior warden swears. The junior warden goes silent. Xyan does not look away.
 
-*It will offer us our past,* Marjuk says. *Decline everything. Wardens — shield-wall on the cradle side. Xyan — call the surges. Ishall — keep the line open no matter what you hear on it.*
+*It will offer us our past,* Marjuk says. *Decline everything. Wardens — shield-wall on the cradle side. Xyan — call the surges. Officer — keep the line open no matter what you hear on it.*
 
 The well overflows its first inch of black water onto the shelves' floor. The footprints multiply. Descent 2, first blood: the gauntlet begins.
 
@@ -51,7 +51,7 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 - **Entity:** Remembrance, SE-C-IIIγ-115 — Object/Place, Void element, stationary well-form.
 - **Breach Vector:** Transform — if the party's Composure breaks, the well transforms the stacks into drowned memory-space. Deny by holding Composure above 15 SP on every member.
 - **Known Actions (archive record):** The Surface Ripple (debuff), The Long Ago (debuff), The Drowned Face (Void attack), The Bottom of the Well (heavy Void attack), Every Memory at Once (ultimate — must be interrupted by sealing before it completes).
-- **Doctrine:** Wardens shield-wall between the well and the cradle; Xyan calls surges and strikes Drowned Faces with Gash dice; Marjuk performs the three-stage seal (one stage per two turns); Ishall relays and holds the party's nerve.
+- **Doctrine:** Wardens shield-wall between the well and the cradle; Xyan calls surges and strikes Drowned Faces with Gash dice; Marjuk performs the three-stage seal (one stage per two turns); keeps the relay live and holds the party's nerve.
 - **Victory:** Complete the seal. The well cannot be destroyed — it can only be capped, calmed, and left behind.
 
 ## Chapter V: The Stacks Gauntlet (Turns 01 to 06)
@@ -63,7 +63,7 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 - **Senior Warden (Speed 5, 3 AP):** Block 8-12. Shield-wall set on the cradle-side nodes. Braced.
 - **Junior Warden (Speed 5, 3 AP):** Block 8-12. Second shield interlocked. The wall holds.
 - **Marjuk (Speed 4, 3 AP):** Begins the seal — Stage 1 (Rim Naming). Chalk and vault-key; the well's rim steams where the key touches. Seal 1/3.
-- **Turn end:** Ishall logs: *Contact, no casualties. The water is rising.*
+- **Turn end:** the relay officer logs: *Contact, no casualties. The water is rising.*
 
 ### Turn 02 Action Resolution Log (The Long Ago)
 
@@ -72,7 +72,7 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 - **Senior Warden:** Block 8-12, Counter 3-6. Deflects a surge of black water off the shield-wall. No breach of the line.
 - **Junior Warden:** Block 8-12. Holds. The weeping stops.
 - **Marjuk:** Seal Stage 1 complete. Begins Stage 2 (Water Binding). Seal 2/3 underway.
-- **Turn end:** Ishall logs: *Composure drain steady. Seal holding. The well dislikes the chalk.*
+- **Turn end:** the relay officer logs: *Composure drain steady. Seal holding. The well dislikes the chalk.*
 
 ### Turn 03 Action Resolution Log (First Drowned Face)
 
@@ -81,7 +81,7 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 - **Senior Warden:** Block 14-18 (bulwark stance). The wall is iron. *Come on, then. I've forgotten worse than you.*
 - **Junior Warden:** Gash 4-7. First blood drawn by the detachment: 6 damage on the reforming face.
 - **Marjuk:** Seal Stage 2 complete (the water slows). Begins Stage 3 (Crown Capping). Seal 3/3 underway.
-- **Turn end:** Ishall logs: *Drowned Face manifesting. Seal two-thirds done. Composure: Xyan 46, Marjuk 44, Senior 45, Junior 43.*
+- **Turn end:** the relay officer logs: *Drowned Face manifesting. Seal two-thirds done. Composure: Xyan 46, Marjuk 44, Senior 45, Junior 43.*
 
 ### Turn 04 Action Resolution Log (The Bottom of the Well)
 
@@ -89,8 +89,8 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 - **Xyan:** *Brace!* Called half a second before the rush — the wardens were already low. Gash 6-10: 9 damage, Drowned Face dispersed a second time.
 - **Senior Warden:** Shield-bash (Bludgeon 5-9): 7 damage, shatters the rush's leading edge.
 - **Junior Warden:** Falls back one node, Block 8-12, recovers. Composure 31/50 SP. Still above the Transform line.
-- **Marjuk:** Seal Stage 3 half-complete. The well screams — every voice it ever drowned, at once. Ishall's relay carries it to the surface, where the night clerks will have nightmares for a month.
-- **Turn end:** Ishall logs: *Junior wounded, holding. Seal nearly done. The well knows it is losing.*
+- **Marjuk:** Seal Stage 3 half-complete. The well screams — every voice it ever drowned, at once. The relay carries it to the surface, where the night clerks will have nightmares for a month.
+- **Turn end:** the relay officer logs: *Junior wounded, holding. Seal nearly done. The well knows it is losing.*
 
 ### Turn 05 Action Resolution Log (Every Memory at Once — Interrupted)
 
@@ -99,7 +99,7 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 - **Senior Warden:** Block 14-18, body across the junior's node. *Finish it, Keeper.*
 - **Junior Warden:** Block 8-12 from the back rank. Composure 31/50 SP. Holding the line from one knee.
 - **Marjuk:** Seal Stage 3 COMPLETE. The vault-key turns in the chalk crown. The Crown Capping slams down on the well mid-channel — *Every Memory at Once* collapses back into black water with a sound like a whole city exhaling.
-- **Turn end:** Ishall logs: *Ultimate interrupted. Seal complete. The water is falling.*
+- **Turn end:** the relay officer logs: *Ultimate interrupted. Seal complete. The water is falling.*
 
 ### Turn 06 Action Resolution Log (Capping the Well)
 
@@ -107,11 +107,11 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 - **Xyan:** Stands down. Composure 46/50 SP. *It will dream now. Let it.*
 - **Wardens:** Lower shields. Junior treated for Void burns (12 damage, stable). Senior's shield bears a face-shaped dent that will never hammer out.
 - **Marjuk:** Chalks the seal-date on the well's crown, logs the gauge (falling), and turns the second vault-key. V-1 secured.
-- **Turn end:** Ishall logs: *V-1 clear. Zero fatalities. Junior wounded, stable. Party Composure: 46/44/45/31. Proceeding to Upper seal-waystation.*
+- **Turn end:** the relay officer logs: *V-1 clear. Zero fatalities. Junior wounded, stable. Party Composure: 46/44/45/31. Proceeding to Upper seal-waystation.*
 
 ## Chapter VI: The Sealing
 
-They rest at the Upper seal-waystation while Ishall's log goes up the cable to the surface. Marjuk re-checks the well-seal twice — capped, calm, dreaming — and records the Transform denial in the Deep Vault registry: first successful well-capping in forty years.
+They rest at the Upper seal-waystation while the relay officer's log goes up the cable to the surface. Marjuk re-checks the well-seal twice — capped, calm, dreaming — and records the Transform denial in the Deep Vault registry: first successful well-capping in forty years.
 
 The junior warden's burns are bound. The senior warden tries to hammer the face out of the shield, fails, and decides to keep it. *Proof,* the senior says, *that I was here and it wasn't enough.*
 
@@ -119,7 +119,7 @@ Xyan stands at the station's edge, facing down toward V-2, reading. After a long
 
 ## Chapter VII: The Upper Log & The Descent Continues
 
-Ishall's Upper station log, transmitted to the surface at dawn:
+the relay officer's Upper station log, transmitted to the surface at dawn:
 
 - V-1 Shallow Stacks secured. Remembrance (SE-C-IIIγ-115) capped via three-stage vault-seal; ultimate interrupted Turn 05.
 - Casualties: none. Wounded: one (Junior Warden, Void burns, stable).

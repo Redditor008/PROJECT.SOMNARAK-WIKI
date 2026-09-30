@@ -7,7 +7,7 @@
 |              NAREUMHAN DESCENT — EXPEDITION AT A GLANCE             |
 +=====================================================================+
 | FOCUS LEAD        : Xyan, Echo-Core 9 (Warner & Route-Guide)        |
-| VAULT-KEEPER      : Marjuk, Echo-Core 6 (Deep Vault Authority)      |
+| VAULT-KEEPER      : Marjuk, Echo-Core 7 (Deep Vault Authority)      |
 | OBJECTIVE         : Secure the First Tear (I-Relic Tool)            |
 | CLIMAX ENTITY     : The Forgotten God (Sovereign Boss)              |
 | THEATER           : Zone A Grand Archive to Alpha Tree Deep Vault   |
@@ -21,7 +21,7 @@
 
 ### 1.1 The Warning from Outside
 
-In the Dawn Initiative era (Year 4,238), the Exile's Gate stands open and Xyan — Echo-Core 9, the warning beyond the Gate who walked home — reads the Han-flows beyond Somnarak's walls. His warning reaches Central Command through the signal-officer Ishall, as it did on Day 17 of the Absolvohan cycle: something beneath the Alpha Tree is waking.
+In the Dawn Initiative era (Year 4,238), the Exile's Gate stands open and Xyan — Echo-Core 9, the warning beyond the Gate who walked home — reads the Han-flows beyond Somnarak's walls. His warning reaches Central Command through Shadow Corps channels, as it did on Day 17 of the Absolvohan cycle: something beneath the Alpha Tree is waking.
 
 The Archive corroborates. Marjuk, Guardian of the truth buried beneath the Alpha Tree, confirms rising Sorrow Gauge readings in the sealed vaults of SECTOR-A-01. The Reverie Directorate authorizes a descent expedition: six chapters from gate to god.
 
@@ -35,7 +35,7 @@ The expedition holds two truths at once. The First Tear (SE-C-Vδ-290) — belie
 
 The expedition does not walk down. It is lowered. The Lowering Cradle is a counterweighted descent platform slung in the Grand Archive's main shaft, rated for a full warden detachment plus two Echo-Core leads.
 
-- **Cradle Capacity:** 6 personnel + M.A.W. locker + signal relay (Ishall's post).
+- **Cradle Capacity:** 6 personnel + M.A.W. locker + signal relay (the relay officer's post).
 - **Descent Control:** Marjuk's vault-keys govern each seal; no level opens without Deep Vault authority.
 - **Route Reading:** Xyan calls the Han-flow from the cradle's edge, warning of pressure surges before instruments register them.
 - **Emergency Ascent:** Counterweight release returns the cradle to the Grand Archive floor in under ninety seconds; used once, in Descent 5.
@@ -50,11 +50,11 @@ Echo-Core 9. External observer, Han-flow reader, long-range warning source, retu
 
 ### 3.2 Marjuk — The Archive Lead (기록 책임자)
 
-Echo-Core 6, Guardian of the truth buried beneath the Alpha Tree. Commands the Deep Vault and holds the vault-keys. Every seal the expedition passes is opened by his authority and logged in his hand. He descends because revelation does not end history — someone must witness what the vaults kept.
+Echo-Core 7, Guardian of the truth buried beneath the Alpha Tree. Commands the Deep Vault and holds the vault-keys. Every seal the expedition passes is opened by his authority and logged in his hand. He descends because revelation does not end history — someone must witness what the vaults kept.
 
-### 3.3 Ishall — Signal Relay
+### 3.3 The Relay Officer — Signal Relay
 
-Signal-officer through whom the Exile's warnings reach command. Rides the cradle, maintains the relay to the surface, and keeps the only continuous log of the descent. When the deep vaults go silent, Ishall's line stays open.
+Unnamed signal officer on detached duty from the Central Command Signal Post. The Exile's warnings reach command through Shadow Corps channels under Ishall, Echo-Core 8, the Outsider; the relay officer rides the cradle, maintains the relay to the surface, and keeps the only continuous log of the descent. When the deep vaults go silent, the officer's line stays open.
 
 ### 3.4 The Vault Warden Detachment
 
@@ -119,7 +119,7 @@ Four recorded entities hold positions in or near the descent path. All locations
 
 ## Section IX: The Six Descent Chapters Summary & Reading Order
 
-1. **Descent 1: The Warning** — Xyan's warning arrives through Ishall; Marjuk confirms the vault readings; the Directorate authorizes the descent.
+1. **Descent 1: The Warning** — Xyan's warning arrives through Shadow Corps channels; Marjuk confirms the vault readings; the Directorate authorizes the descent.
 2. **Descent 2: The Descent** — The cradle lowers through V-1; Remembrance tests the party in the Shallow Stacks.
 3. **Descent 3: The Vaults** — The Restricted Vaults; the Cracked Hourglass turns time against the party.
 4. **Descent 4: The Tear** — The Frozen Veil guards the Tear Chamber; the First Tear is secured — and the God stirs.

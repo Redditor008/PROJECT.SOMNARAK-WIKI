@@ -6,7 +6,7 @@
 |              SIGNAL LOG: EXILE'S GATE RELAY, MONTH 4 DAY 3          |
 +=====================================================================+
 | ORIGINOFCALL      : Xyan, Echo-Core 9 (Outside the Gate)            |
-| RELAY OFFICER     : Ishall, Central Command Signal Post             |
+| RELAY OFFICER     : Name unrecorded, Central Command Signal Post    |
 | MESSAGE           : Beneath the tree, the sleeper turns. The vault  |
 |                     gauges are climbing. Do not wait for silence    |
 |                     to break. Come down before it wakes.            |
@@ -17,23 +17,23 @@
 
 ---
 
-## Chapter I: The Signal Through Ishall
+## Chapter I: The Signal Through Shadow Channels
 
-The warning arrives the way all of the Exile's warnings arrive: through Ishall, in the small hours, when the Gate relay runs quiet enough to hear the flows beyond the walls.
+The warning arrives the way all of the Exile's warnings arrive: through Shadow Corps channels, in the small hours, when the Gate relay runs quiet enough to hear the flows beyond the walls.
 
-Ishall has held the signal post since the Absolvohan cycle. On Day 17 of that cycle, it was Ishall who carried Xyan's repeated warning — *"The Furnace is burning"* — into Central Command, and command remembers who was right. When the relay crackles alive on Month 4 Day 3 with the Exile's cadence, Ishall does not ask for repetition. Ishall writes it down verbatim, timestamps it, and walks it to the Directorate floor in person.
+The night officer has held the signal post since the Absolvohan cycle. On Day 17 of that cycle, it was the Shadow Corps under Ishall, Echo-Core 8, the Outsider, who carried Xyan's repeated warning — *"The Furnace is burning"* — into Central Command, and command remembers who was right. When the relay crackles alive on Month 4 Day 3 with the Exile's cadence, the relay officer does not ask for repetition. The relay officer writes it down verbatim, timestamps it, and walks it to the Directorate floor in person.
 
 The message is short. Beneath the tree, the sleeper turns. The vault gauges are climbing. Do not wait for silence to break. Come down before it wakes.
 
-By dawn, three copies exist: one in the signal log, one on the Director's desk, and one — carried by Ishall's own hand through the Grand Archive's morning doors — on Marjuk's desk in the Deep Vault.
+By dawn, three copies exist: one in the signal log, one on the Director's desk, and one — carried by the duty officer's own hand through the Grand Archive's morning doors — on Marjuk's desk in the Deep Vault.
 
 ## Chapter II: Marjuk Confirms
 
-Marjuk reads warnings the way other men read weather. He takes Ishall's copy down to the gauge hall on Floor 6, where the Deep Vault's instruments taste the pressure of every sealed vault in SECTOR-A-01, and he watches the V-2 needle.
+Marjuk reads warnings the way other men read weather. He takes the officer's copy down to the gauge hall on Floor 6, where the Deep Vault's instruments taste the pressure of every sealed vault in SECTOR-A-01, and he watches the V-2 needle.
 
 It is climbing. Slowly — a decade of slumber disturbed by increments — but climbing, exactly as the Exile described. The Restricted Vaults have not moved in forty years. They are moving now.
 
-The Archive Lead writes his confirmation in the log beneath Ishall's entry: *Verified. V-2 gauge rise consistent with deep-vault pressure migration. Recommend immediate descent authorization. The truth buried beneath the Alpha Tree is done being buried.* He signs with his vault-key seal, which no Directorate debate can overrule on matters below V-1.
+The Archive Lead writes his confirmation in the log beneath the officer's entry: *Verified. V-2 gauge rise consistent with deep-vault pressure migration. Recommend immediate descent authorization. The truth buried beneath the Alpha Tree is done being buried.* He signs with his vault-key seal, which no Directorate debate can overrule on matters below V-1.
 
 Then he does what he has not done since taking the Floor: he inventories the vault-keys, all of them, and finds them oiled and ready. Someone must witness what the vaults kept. It will be him.
 
@@ -45,7 +45,7 @@ Three facts end the debate.
 
 First: the gauge is still climbing on Day 9, faster than on Day 3. Second: the First Tear sits in the Tear Chamber at V-3, an I-Relic Tool of incalculable value, directly in the path of whatever is migrating upward. Third: Xyan himself volunteers to guide the descent — the first time the Exile has offered to lead anyone down instead of warning them back.
 
-On Month 4 Day 9, the Directorate issues the order: a six-chapter descent, cradle-borne, under joint authority of Echo-Core 9 (route) and Echo-Core 6 (seals), with Ishall riding the relay and a warden detachment as shield-wall. Objective: secure the First Tear. Standing preparation: face whatever wakes.
+On Month 4 Day 9, the Directorate issues the order: a six-chapter descent, cradle-borne, under joint authority of Echo-Core 9 (route) and Echo-Core 7 (seals), with the relay officer riding the cradle-relay and a warden detachment as shield-wall. Objective: secure the First Tear. Standing preparation: face whatever wakes.
 
 ## Chapter IV: The Party Assembles
 
@@ -55,7 +55,7 @@ Xyan arrives first, through the Exile's Gate, carrying nothing but field equipme
 
 Marjuk arrives with the vault-keys and the detachment roster. He has commanded the Deep Vault through the entire Cycle era; the wardens assigned to the cradle are his own picks, veterans of seal-guard duty who have held lines in the dark before.
 
-Ishall arrives with cable. Spools of it — relay line to pay out behind the cradle all the way down, so the surface never loses the party. Ishall tests the line twice, logs the signal strength, and takes the relay post without being asked. Someone has to keep the record. It will be Ishall.
+The relay officer arrives with cable. Spools of it — relay line to pay out behind the cradle all the way down, so the surface never loses the party. The relay officer tests the line twice, logs the signal strength, and takes the relay post without being asked. Someone has to keep the record. It will be the relay officer.
 
 On the evening of the third day, the four elements stand on the Grand Archive floor and look down the shaft. The cradle waits, counterweighted and stocked. Below it: six levels, four recorded guardians, one Tear, and one God.
 
@@ -77,7 +77,7 @@ Xyan adds one rule of his own, which is not written down but is obeyed: *when I 
 
 ## Chapter VI: The Cradle Lowers
 
-On Month 4 Day 12, the seals are checked, the relay is live, and the party boards the Lowering Cradle. Ishall pays out the first meter of cable. Marjuk turns the first vault-key. Xyan stands at the cradle's edge, facing down, reading.
+On Month 4 Day 12, the seals are checked, the relay is live, and the party boards the Lowering Cradle. The relay officer pays out the first meter of cable. Marjuk turns the first vault-key. Xyan stands at the cradle's edge, facing down, reading.
 
 The counterweights release. The cradle sinks past the Grand Archive floor into the shaft, past the first seal-waystation where the Upper log waits blank for its first entry, down toward V-1 and the Shallow Stacks — where Remembrance has waited beneath the archive for longer than the city has kept records, and where the descent will draw its first blood.
 

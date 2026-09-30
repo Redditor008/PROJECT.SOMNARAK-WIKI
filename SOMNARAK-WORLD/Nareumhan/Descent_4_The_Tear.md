@@ -11,7 +11,7 @@
 | Marjuk          | Vault-Keeper    | 100%      | 20/50 SP (-10 drain)|
 | Senior Warden   | Shield-Wall     | 100%      | 30/50 SP (-10 drain)|
 | Junior Warden   | Shield-Wall     | 88%       | 18/50 SP (-10 drain)|
-| Ishall (relay)  | Signal Post     | --        | -- (on cradle)      |
+| Relay Officer  | Signal Post     | --        | -- (on cradle)       |
 +---------------------------------------------------------------------+
 | DEPTH DRAIN     : -10 Composure, all members (cumulative)           |
 | TEAR FIELD      : ACTIVE (+3 SP/turn near Tear; draws guardians)    |
@@ -23,7 +23,7 @@
 
 ## Chapter I: The Third Lowering
 
-The cradle sinks past the Middle station on Marjuk's third key-turn, and the depth takes its second tithe. Ten cumulative now — and the numbers on Ishall's slate are getting thin. Marjuk at 20. The junior at 18, three points above the Transform line, bandaged burns aching in the deepening cold.
+The cradle sinks past the Middle station on Marjuk's third key-turn, and the depth takes its second tithe. Ten cumulative now — and the numbers on the officer's slate are getting thin. Marjuk at 20. The junior at 18, three points above the Transform line, bandaged burns aching in the deepening cold.
 
 *New rule,* the senior says, not unkindly. *Below twenty, the junior does not leave the cradle-side nodes. Below twenty, I carry the spare shield for both of us. Arithmetic doesn't care about your pride, kid. Neither does the dark.*
 
@@ -39,7 +39,7 @@ The First Tear (SE-C-Vδ-290, 첫 번째 눈물). A single crystallized tear, sm
 
 Its Lament field washes over the party like warm water after the shaft's cold: +3 Composure per turn to whoever holds nearest it. The junior's hands stop shaking for the first time since V-1.
 
-*There it is,* Marjuk breathes. *Forty years I have kept the keys to this room without entering it. Ishall — log the field. Wardens — the pedestal seal is mine to break, on my mark only. Xyan—*
+*There it is,* Marjuk breathes. *Forty years I have kept the keys to this room without entering it. Officer — log the field. Wardens — the pedestal seal is mine to break, on my mark only. Xyan—*
 
 *I see it,* Xyan says. He is not looking at the Tear. He is looking at the chamber wall behind it, where the frost is thickening into a shape with intention. *It is already here. It was never going to let us walk in.*
 
@@ -49,9 +49,9 @@ The Frozen Veil (SE-C-IVδ-103, 얼어붙은 베일) peels off the chamber wall 
 
 It moves. That is the difference from everything above — the well waited, the glass counted, but the Veil *advances*, frost spreading off it across floor and wall and ceiling, shrinking the chamber one glittering inch at a time.
 
-*It will try to separate us,* Marjuk says, vault-key already in hand. *Isolation is its nature and its weapon. Nobody fights alone. Nobody stands alone. Wardens — wall. Xyan — the spears are yours. Ishall — talk to us. Whatever happens, keep talking, so none of us is ever alone in here.*
+*It will try to separate us,* Marjuk says, vault-key already in hand. *Isolation is its nature and its weapon. Nobody fights alone. Nobody stands alone. Wardens — wall. Xyan — the spears are yours. Officer — talk to us. Whatever happens, keep talking, so none of us is ever alone in here.*
 
-Ishall starts reading the gauge numbers aloud, steady as a metronome. The Veil flinches at the sound of a voice that expects an answer. The gauntlet begins.
+The relay officer starts reading the gauge numbers aloud, steady as a metronome. The Veil flinches at the sound of a voice that expects an answer. The gauntlet begins.
 
 ## Chapter IV: Combat Parameters & Engagement Doctrine
 
@@ -59,7 +59,7 @@ Ishall starts reading the gauge numbers aloud, steady as a metronome. The Veil f
 - **Breach Vector:** Pursuit — if the party breaks, the Veil follows the relay cable up. Deny by holding formation; no one retreats past the cradle-side nodes.
 - **Known Actions (archive record):** The Ice Curtain (isolation debuff), The Frost Spread (space-shrinking debuff), The Ice Spear (Void attack), The Full Shatter (heavy Void freeze), The Permafrost (ultimate — seals the whole field in frozen void).
 - **Tear Field:** Whoever holds the two nodes nearest the pedestal gains +3 Composure per turn — but the Veil prioritizes those nodes. The field is bait and salary both.
-- **Doctrine:** Wardens anchor the Tear-side nodes and farm the field; Xyan intercepts spears; Marjuk breaks the pedestal seal in three stages (same rhythm as the well and the glass: Name, Bind, Take); Ishall never stops talking.
+- **Doctrine:** Wardens anchor the Tear-side nodes and farm the field; Xyan intercepts spears; Marjuk breaks the pedestal seal in three stages (same rhythm as the well and the glass: Name, Bind, Take); The relay officer never stops talking.
 - **Victory:** Secure the First Tear. The Veil cannot be sealed while it chooses to move — it must be driven back into the walls first.
 
 ## Chapter V: The Tear Chamber Gauntlet (Turns 01 to 06)
@@ -71,7 +71,7 @@ Ishall starts reading the gauge numbers aloud, steady as a metronome. The Veil f
 - **Senior Warden (Speed 5, 3 AP):** Bludgeon 5-9: 8 damage, breaks the junior's curtain from the outside, then Block 14-18 across both their nodes. *Nobody stands alone. Keeper said.*
 - **Junior Warden (Speed 5, 3 AP):** Stumbles to the Tear-side node behind the senior. Tear field: +3 (18 to 21 SP). Breathes for what feels like the first time in a day.
 - **Marjuk (Speed 4, 3 AP):** Securing Stage 1 (Name). Names the pedestal seal aloud from the vault registry; the old words steam in the cold. Seal 1/3.
-- **Turn end:** Ishall logs: *Curtains broken, party reformed on the Tear. Field confirmed +3. Composure: 27/20/30/21.*
+- **Turn end:** the relay officer logs: *Curtains broken, party reformed on the Tear. Field confirmed +3. Composure: 27/20/30/21.*
 
 ### Turn 02 Action Resolution Log (Frost Spread)
 
@@ -80,7 +80,7 @@ Ishall starts reading the gauge numbers aloud, steady as a metronome. The Veil f
 - **Senior Warden:** Block 14-18, wall across the Tear-side approach. Frost claws at the shields and finds no purchase.
 - **Junior Warden:** Block 8-12. Tear field: +3 (21 to 24 SP). Color coming back into the junior's face.
 - **Marjuk:** Securing Stage 1 complete. Begins Stage 2 (Bind). Vault-cords around the pedestal; the Tear's glow pulses once, curious. Seal 2/3 underway.
-- **Turn end:** Ishall logs: *Grid shrinking, party holding the warm nodes. Field outpacing the cold. Marjuk halfway into the pedestal.*
+- **Turn end:** the relay officer logs: *Grid shrinking, party holding the warm nodes. Field outpacing the cold. Marjuk halfway into the pedestal.*
 
 ### Turn 03 Action Resolution Log (Ice Spears)
 
@@ -89,7 +89,7 @@ Ishall starts reading the gauge numbers aloud, steady as a metronome. The Veil f
 - **Senior Warden:** Bludgeon 5-9: 7 damage, smashes the deflected spear's ice out of the line. *My shields have collected a face and a glass-cut. Now frostbite. I am starting a museum.*
 - **Junior Warden:** Gash 4-7: first real hit of the descent — 6 damage on the nearest frost-mass. Tear field: +3 (24 to 27 SP). *Did you see that? It flinched.*
 - **Marjuk:** Securing Stage 2 complete (the pedestal seal loosens; the Tear dims, uncertain). Begins Stage 3 (Take). Seal 3/3 underway.
-- **Turn end:** Ishall logs: *Spears intercepted. Junior scoring hits. Pedestal nearly open. Composure: 33/20/30/27 — the field is winning.*
+- **Turn end:** the relay officer logs: *Spears intercepted. Junior scoring hits. Pedestal nearly open. Composure: 33/20/30/27 — the field is winning.*
 
 ### Turn 04 Action Resolution Log (The Securing)
 
@@ -98,7 +98,7 @@ Ishall starts reading the gauge numbers aloud, steady as a metronome. The Veil f
 - **Senior Warden:** Second shield raised over Marjuk like a roof. *The museum acquires a roof.*
 - **Junior Warden:** Block 8-12, guarding the cord-line. Tear field: +3 (27 to 30 SP).
 - **Marjuk:** Securing Stage 3 COMPLETE. The Take: Marjuk lifts the First Tear off its pedestal with vault-tongs, and four billion years of oldest grief fits in a specimen case lined with Lament-wool. The chamber's heart goes dark — and the field inverts: the Tear now travels WITH the party, +3 per turn to whoever carries the case.
-- **Turn end:** Ishall logs, hand shaking for the first entry of the descent: *THE TEAR IS SECURED. Repeat: the First Tear is in the case. Marjuk holds it. Party Composure: 33/20/30/30.*
+- **Turn end:** the relay officer logs, hand shaking for the first entry of the descent: *THE TEAR IS SECURED. Repeat: the First Tear is in the case. Marjuk holds it. Party Composure: 33/20/30/30.*
 
 ### Turn 05 Action Resolution Log (Full Shatter)
 
@@ -107,7 +107,7 @@ Ishall starts reading the gauge numbers aloud, steady as a metronome. The Veil f
 - **Senior Warden:** Block 14-18 across Marjuk's node. *Nobody stands alone. Especially not the Keeper.*
 - **Junior Warden:** Gash 4-7: 5 damage, covering Marjuk's blind side. The student guarding the master.
 - **Marjuk:** At 15 SP, steadies on the vault-key like a cane. *The seal held. The Tear held. I am holding. Finish it.*
-- **Turn end:** Ishall logs: *Shatter weathered. Marjuk on the line at 15. Case with the Exile. One push left in the Veil — deny it.*
+- **Turn end:** the relay officer logs: *Shatter weathered. Marjuk on the line at 15. Case with the Exile. One push left in the Veil — deny it.*
 
 ### Turn 06 Action Resolution Log (Permafrost — Denied)
 
@@ -116,7 +116,7 @@ Ishall starts reading the gauge numbers aloud, steady as a metronome. The Veil f
 - **Senior Warden:** Bludgeon 5-9, shield-charge: 8 damage straight into the stutter. *Museum's closed!*
 - **Junior Warden:** Gash 4-7: 7 damage — the hit that breaks it. The channeling collapses; the frost recoils off every surface at once, screaming back into the walls. The Veil, unhoused, flees DOWNWARD — through the floor, toward V-4 — rather than face the party without its home.
 - **Marjuk:** Turns the fourth vault-key with hands that barely shake. V-3 secured.
-- **Turn end:** Ishall logs: *Permafrost denied Turn 06. Veil routed downward. TEAR SECURED. Party Composure: 36/15/30/27. Proceeding to Lower seal-waystation.*
+- **Turn end:** the relay officer logs: *Permafrost denied Turn 06. Veil routed downward. TEAR SECURED. Party Composure: 36/15/30/27. Proceeding to Lower seal-waystation.*
 
 ## Chapter VI: The Securing
 
@@ -130,7 +130,7 @@ Xyan is on his feet before the tremor ends, facing down. *It felt the pedestal e
 
 ## Chapter VII: The Lower Log & The Descent Continues
 
-Ishall's Lower station log, transmitted to the surface at dawn:
+The relay officer's Lower station log, transmitted to the surface at dawn:
 
 - V-3 Tear Chamber secured. Frozen Veil (SE-C-IVδ-103) routed downward; ultimate denied Turn 06.
 - **Objective complete: the First Tear (SE-C-Vδ-290) is secured and traveling with the party.**
