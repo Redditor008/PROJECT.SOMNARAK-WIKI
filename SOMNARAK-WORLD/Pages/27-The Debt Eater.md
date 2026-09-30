@@ -8,13 +8,13 @@ The Debt Eater is mobile and capable of breaching containment if its operational
 
 ```text
 +========================================================================+
-| SOMNARAK - SE-C-III-014 THE DEBT EATER                                 |
+| SOMNARAK - SE-C-IIIβ-014 THE DEBT EATER                                |
 +------------------------------------------------------------------------+
-| Designation          | SE-C-III-014 [VS] (Subject - Can Breach)        |
+| Designation          | SE-C-IIIβ-014 [VS] (Subject - Can Breach)       |
 | Risk Tier            | Rank III: Fragment - Potency Beta (Moderate)    |
 | Primary Pressure     | Void (Pale White - 1% = 5% Max HP)              |
 | Valid Work-Types     | Viderehan - Ferrehan - Flerehan - Pugnahan      |
-| Paired Relic         | SE-C-III-015 The Debt Scale (Equippable Tool)   |
+| Paired Relic         | SE-C-IIIβ-015 The Debt Scale (Equippable Tool)  |
 +========================================================================+
 ```
 

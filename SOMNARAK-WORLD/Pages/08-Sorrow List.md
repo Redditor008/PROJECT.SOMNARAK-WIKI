@@ -39,8 +39,8 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 - **Rank I — Whisper (46 entities):** Low threat; docile behavior; excellent training subjects for novice specialists.
 - **Rank II — Murmur (70 entities):** Moderate threat; may breach or inflict mental trauma upon failure.
 - **Rank III — Fragment (82 entities):** Substantial threat; complex containment rules; requires specialized protective suits.
-- **Rank IV — Wail (79 entities):** Severe facility threat; capable of wide-area corridor devastation and auxiliary massacres.
-- **Rank V — Sovereign (10 entities):** Catastrophic municipal crisis; capable of triggering facility-wide collapse.
+- **Rank IV — Wail (80 entities):** Severe facility threat; capable of wide-area corridor devastation and auxiliary massacres.
+- **Rank V — Sovereign (14 entities):** Catastrophic municipal crisis; capable of triggering facility-wide collapse.
 - **Tool Relics (5 entities):** Inanimate artifacts utilizing the Two-Work-Type Rule (Viderehan and Ferrehan only).
 
 ## 2 Master Entity Catalog
@@ -49,54 +49,54 @@ Entities in the Somnarak universe are categorized across five core risk levels, 
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
-| `SE-C-Iα-001` | The Quiet Pebble | 조용한 조약돌 | 🔴 Grudge | 10 LU | 🤲 Ferrehan | No |
-| `SE-C-Iβ-004` | Faded Postcard | 빛바랜 엽서 | 🔵 Lament | 10 LU | 👁 Viderehan | No |
-| `SE-C-Iα-009` | Worn Thimble | 닳아빠진 골무 | 🔴 Grudge | 12 LU | 🤲 Ferrehan | No |
-| `SE-C-Iγ-012` | Slumbering Moth | 잠든 나방 | 🔵 Lament | 12 LU | 💧 Flerehan | No |
+| `SE-C-Iα-000` | Kind Echo | 친절한 메아리 | 🔵 Lament | 10 LU | 🤲 Ferrehan | Yes |
+| `SE-C-Iα-011` | Whispering Walls | 속삭이는 벽 | 🔵 Lament | 10 LU | 👁 Viderehan | No |
+| `SE-C-Iα-071` | The Kind Healer | 친절한 치유자 | 🔵 Lament | 12 LU | 🤲 Ferrehan | Yes |
+| `SE-C-Iα-071c` | Apostle Maker | 사도 만드는 자 | 🔵 Lament + Hope | 12 LU | 💧 Flerehan | Yes |
 
 ### 2.2 Rank II: Murmur Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
-| `SE-C-IIα-021` | Whispering Lily | 속삭이는 백합 | 🔵 Lament | 14 LU | 👁 Viderehan | Yes |
-| `SE-C-IIβ-028` | Rusted Cleaver | 녹슨 식칼 | 🔴 Grudge | 14 LU | ⚔ Pugnahan | Yes |
-| `SE-C-IIγ-035` | Iron Quill | 무쇠 깃펜 | ⚫ Weight | 16 LU | 🤲 Ferrehan | No |
-| `SE-C-IIα-042` | Old Gramophone | 낡은 축음기 | 🔵 Lament | 16 LU | 💧 Flerehan | Yes |
+| `SE-C-IIα-062` | Forgotten Market Stall | 잊혀진 가게 | ⚪ Void | 14 LU | 👁 Viderehan | No |
+| `SE-C-IIα-081` | Broken Mirror | 거울의 조각 | ⚪ Void | 14 LU | ⚔ Pugnahan | No |
+| `SE-C-IIβ-048` | Hums | 노래하는 돌 | 🔵 Lament | 16 LU | 🤲 Ferrehan | No |
+| `SE-C-IIβ-101` | Emberling | 의 아이 | 🔵 Lament | 16 LU | 💧 Flerehan | Yes |
 
 ### 2.3 Rank III: Fragment Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
-| `SE-C-IIIβ-014` | [The Debt Eater](27-The%20Debt%20Eater.md) | 빚을 삼키는 자 | ⚪ Void | 16 LU | ⚔ Pugnahan | No |
-| `SE-C-IIIα-045` | Lamenting Chorus | 비탄의 합창단 | 🔵 Lament | 18 LU | 💧 Flerehan | Yes |
-| `SE-C-IIIβ-062` | Ironbound Casket | 쇠사슬 관 | ⚫ Weight | 18 LU | 🤲 Ferrehan | Yes |
-| `SE-C-IIIγ-077` | The Blood Weaver | 혈직공 | 🔴 Grudge | 20 LU | 👁 Viderehan | Yes |
+| `SE-C-IIIβ-014` | [The Debt Eater](27-The%20Debt%20Eater.md) | 빚을 먹는 자 | ⚪ Void | 16 LU | ⚔ Pugnahan | Yes |
+| `SE-C-IIIβ-015` | The Debt Scale | 빚의 저울 | ⚪ Void | 18 LU | 💧 Flerehan | No |
+| `SE-C-IIIβ-016` | The Echo Compass | 메아리 나침반 | ⚪ Void | 18 LU | 🤲 Ferrehan | No |
+| `SE-C-IIIγ-031` | The Observing Bird | 지켜보는 새 | 🔵 Lament | 20 LU | 👁 Viderehan | Yes |
 
 ### 2.4 Rank IV: Wail Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
-| `SE-C-IVα-088` | Queen of Red Needles | 붉은 바늘의 여왕 | 🔴 Grudge | 24 LU | ⚔ Pugnahan | Yes |
-| `SE-C-IVβ-102` | Drowned Choir | 익사한 성가대 | 🔵 Lament | 26 LU | 💧 Flerehan | Yes |
-| `SE-C-IVγ-119` | Clockwork Executioner | 태엽 망나니 | ⚫ Weight | 28 LU | 🤲 Ferrehan | Yes |
-| `SE-C-IVα-134` | The Hollow Knight | 텅 빈 기사 | ⚪ Void | 30 LU | 👁 Viderehan | Yes |
+| `SE-C-IVβ-041` | The Grieving Maiden | 슬픔의 처녀 | 🔵 Lament | 24 LU | ⚔ Pugnahan | Yes |
+| `SE-C-IVβ-042` | The Angry Maiden | 분노의 처녀 | 🔴 Grudge | 26 LU | 💧 Flerehan | Yes |
+| `SE-N-IVβ-019` | The Inherited Debt | 물려받은 빚 | ⚫ Weight | 28 LU | 🤲 Ferrehan | Yes |
+| `SE-N-IVδ-005` | The Smothering Mother | 질식하는 어머니 | 🔴 Grudge | 30 LU | 👁 Viderehan | Yes |
 
 ### 2.5 Rank V: Sovereign Entities
 
 | SECC ID | Entity Name | Korean Name | Pressure | Max Lumen | Best Work | Breach? |
 |---|---|---|---|---|---|---|
-| `SE-C-Vα-001` | The Pale Sovereign | 창백한 군주 | ⚪ Void | 32 LU | 👁 Viderehan | Yes |
-| `SE-C-Vβ-002` | Maw's Devourer | 아가리의 포식자 | ⚫ Weight | 32 LU | ⚔ Pugnahan | Yes |
-| `SE-C-Vγ-003` | Silent Conductor | 침묵의 지휘자 | 🔵 Lament | 34 LU | 💧 Flerehan | Yes |
-| `SE-O-Vγ-003` | Wilderness Tide | 야생의 파도 | 🔴 Grudge | 36 LU | 🤲 Ferrehan | Yes |
+| `SE-C-Vδ-002` | The Grieving Colossus | 슬픔의 거인 | ⚫ Weight | 32 LU | 👁 Viderehan | Yes |
+| `SE-C-Vδ-010` | The Convergence | 수렴 | ⚫ Weight | 32 LU | ⚔ Pugnahan | Yes |
+| `SE-C-Vδ-265` | Forgotten God | 잊혀진 신 | 🔴🔵⚪⚫ All four | 34 LU | 💧 Flerehan | Yes |
+| `SE-O-Vγ-003` | Wilderness Tide | 야생의 조수 | ⚫ Weight | 36 LU | 🤲 Ferrehan | No |
 
 ### 2.6 Tool Relic Entities
 
 | SECC ID | Relic Name | Functional Subtype | Primary Function | Safe Threshold |
 |---|---|---|---|---|
-| `SE-T-Iα-001` | [The Echo Compass](28-The%20Echo%20Compass.md) | Single-Use | Facility acoustic radar sweep | Immediate discharge |
-| `SE-T-IIβ-002` | [The Crucible](29-The%20Crucible.md) | Channeled Use | Sustained Han distillation | Under 30 seconds |
-| `SE-T-IIIγ-003` | [The Debt Scale](30-The%20Debt%20Scale.md) | Equippable | Inverts Void pressure & heals SP | Must balance debt |
+| `SE-C-IIIβ-016` | [The Echo Compass](28-The%20Echo%20Compass.md) | Single-Use | Facility acoustic radar sweep | Immediate discharge |
+| `SE-C-IIIβ-275` | [The Crucible](29-The%20Crucible.md) | Channeled Use | Sustained Han distillation | Under 30 seconds |
+| `SE-C-IIIβ-015` | [The Debt Scale](30-The%20Debt%20Scale.md) | Equippable | Inverts Void pressure & heals SP | Must balance debt |
 
 ## 3 Filtering and Tactical Sorting Criteria
 

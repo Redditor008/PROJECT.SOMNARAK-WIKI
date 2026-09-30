@@ -74,16 +74,16 @@ The final three-digit segment denotes the chronological order of registration in
 
 ## 6 Ten Concrete Practical Decryption Examples
 
-1. **`SE-C-Iα-001` (The Quiet Pebble):** City origin; Whisper rank; Minor volatility; #001 registered.
+1. **`SE-C-Iα-071c` (The Apostle Maker):** City origin; Whisper rank; Alpha grade; #071c registered.
 2. **`SE-C-IIIβ-014` ([The Debt Eater](27-The%20Debt%20Eater.md)):** City origin; Fragment rank; Moderate volatility; #014 registered.
-3. **`SE-C-IIα-021` (Whispering Lily):** City origin; Murmur rank; Minor volatility; #021 registered.
-4. **`SE-I-IIβ-033` (The Rusted Key):** Inner trauma origin; Murmur rank; Moderate volatility; #033 registered.
-5. **`SE-C-IIIα-045` (Lamenting Chorus):** City origin; Fragment rank; Minor volatility; #045 registered.
-6. **`SE-I-IVβ-088` (Queen of Red Needles):** Inner trauma origin; Wail rank; Moderate volatility; #088 registered.
-7. **`SE-C-Vα-001` (The Pale Sovereign):** City origin; Sovereign rank; Alpha potency; #001 Sovereign.
+3. **`SE-C-IIβ-101` (Emberling):** City origin; Murmur rank; Beta grade; #101 registered.
+4. **`SE-N-IVδ-005` (The Smothering Mother):** Inner sorrow origin; Wail rank; Delta grade; #005 registered.
+5. **`SE-C-IIIβ-016` (The Echo Compass):** City origin; Fragment rank; Beta grade; #016 registered.
+6. **`SE-O-IIIβ-120` (The Wrath Flame):** Outside outskirts origin; Fragment rank; Beta grade; #120 registered.
+7. **`SE-C-Vδ-002` (The Grieving Colossus):** City origin; Sovereign rank; Delta potency; #002 Sovereign.
 8. **`SE-O-Vγ-003` (Wilderness Tide):** Outside outskirts origin; Sovereign rank; Gamma volatility; #003 Outside.
-9. **`SE-T-Iα-001` ([The Echo Compass](28-The%20Echo%20Compass.md)):** Tool relic; Whisper rank; Minor strain; #001 Relic.
-10. **`SE-T-IIIγ-003` ([The Debt Scale](30-The%20Debt%20Scale.md)):** Tool relic; Fragment rank; Gamma strain; #003 Relic.
+9. **`SE-C-IIIβ-015` ([The Debt Scale](30-The%20Debt%20Scale.md)):** Tool relic; Fragment rank; Beta grade; #015 Relic.
+10. **`SE-C-Vδ-290` (First Tear):** Tool relic; Sovereign rank; Delta grade; #290 Relic.
 
 ## 7 Archival Registration Protocol for Newly Extracted Sorrows
 
