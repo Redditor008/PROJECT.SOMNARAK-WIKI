@@ -8,21 +8,31 @@
 |---|---|
 | **Color** | PURPLE |
 | **Time** | Tide Watch |
-| **Risk** | Catastrophic |
-| **Form** | PURPLE Tide Watch (secondary) |
+| **Threat Level** | Catastrophic |
+| **Han Source** | Mixed (Raw Han) |
+| **Physical Form** | A chest-high rolling wave of corrupted flesh and fungal mass that flows rather than walks. It washes over zones and seeps transformation into everything it covers. |
+| **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
+| **Spawn Count** | 1 primary + spawn roster (see below) |
+| **Mortality** | Mortal — permanently suppressible |
+| **Han Pressure [ATK]** | 32–88 per hit · Mixed |
+| **HP** | 648/648 |
+| **Instant Fracture** | Yes — on critical hits / special abilities |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
 
-When the corruption crested and rolled outward as a single living surge.
-
+When the corruption crested and rolled outward as a single living surge. The Bloom-Wave is the Tide's infection vector: not the rot itself but its delivery, the moment contamination stops spreading and starts arriving. It forms where suppression has already failed once — the R.D. maps prior Bloom incidents as predictors, and the map is never wrong twice in the same place, because there is never a second facility there. It flows downhill, down-corridor, and downwind, in that order of preference.
 ## Appearance
 
-A chest-high rolling wave of corrupted flesh and fungal mass that flows rather than walks.
-
+A chest-high rolling wave of corrupted flesh and fungal mass, glistening, steaming faintly, moving at a steady jog. It does not walk or surge; it flows, pouring around obstacles and rejoining past them, the way water remembers its level. Within the mass, half-formed blooms open and close — eyes, mouths, flowers, all three at once. It smells sweet, like rot under honey. Personnel call it the soup. Personnel who call it that twice do not come back for debrief.
 ## Behavior
 
-It washes over, and the corrupt matter seeps into and transforms whatever it covers.
-
+| Phase | Action | Effect |
+|---|---|---|
+| **The Washing** | The wave flows through the zone at a steady jog, pouring around obstacles. | All in the path take 32–88 Mixed per turn plus contamination counters. Cover is a delay, not a defense. |
+| **The Seeping** | Contamination works inward one stage per turn: skin, blood, allegiance. | Resolve check each turn to arrest; at three stages the operative is a bloom-host, and hostile. |
+| **The Blooming** | Ripe bloom-hosts burst into new wave-mass, and the wave grows on schedule. | Each ripened host adds +10% wave pressure. Burn hosts before they ripen. Burn early. |
 ## Suppression Protocol
 
 Engage with catastrophic-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
@@ -33,8 +43,7 @@ A catastrophic-severity PURPLE encounter: widespread structural and personnel th
 
 ## R.D. Response Protocol
 
-Echo-Core teams only.
-
+Alert Level 5. Echo-Core direct command; containment lines uphill and upwind only — the wave does not climb. Incineration teams walk the flanks; anything blooming burns where it stands, no recovery attempted. Decontaminate every returning operative twice. The second wash is for the things the first wash missed.
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
 > In addition to the primary PURPLE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
@@ -116,6 +125,8 @@ Echo-Core teams only.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary PURPLE Tide Watch Ordeal; same color and severity, different manifestation.
+
+- Tide Watch severity is encounter-pool math, not duel math: the primary (648/648) plus the full spawn roster across concurrent manifestations totals several thousand HP per event — compare single-entity Sovereign engagements such as the Forgotten God (Sorrow Gauge 894). Tide-spawn grades (400–560) are siege biomass, not duelists.
 
 ## Document Information
 

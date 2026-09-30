@@ -8,21 +8,31 @@
 |---|---|
 | **Color** | OBSIDIAN |
 | **Time** | Tide Watch |
-| **Risk** | Catastrophic |
-| **Form** | OBSIDIAN Tide Watch (secondary) |
+| **Threat Level** | Catastrophic |
+| **Han Source** | Weight |
+| **Physical Form** | A tract of ground the size of a city block, heaving forward on buried supports — a drowned district's worth of Weight, walking. It drags everything down into its mass as it advances. |
+| **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
+| **Spawn Count** | 1 primary + spawn roster (see below) |
+| **Mortality** | Mortal — permanently suppressible |
+| **Han Pressure [ATK]** | 32–92 per hit · Weight |
+| **HP** | 614/614 |
+| **Instant Fracture** | Yes — on critical hits / special abilities |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
 
-When an entire burdened district finally gave way, the landmass itself became a slow, crushing walker.
-
+When an entire burdened district finally gave way, the landmass itself became a slow, crushing walker. The Sinking Continent is the Tide wearing a neighborhood: streets, foundations, the compacted obligations of everyone who ever lived above them, mobilized. It advances across the facility at half walking pace, which sounds manageable until the arithmetic is done — nothing in its path has ever been moved in time. The R.D. does not plan to stop it. The R.D. plans around it.
 ## Appearance
 
-A tract of ground the size of a block, heaving forward on buried supports, dragging everything down into its mass.
-
+A tract of ground the size of a city block, visibly heaving, advancing on buried supports that grind and shriek. It carries its district with it: buckled street slabs, foundation teeth, the occasional intact doorway opening on compressed dark. Everything it overlaps sinks — personnel to the waist in seconds, vehicles whole, bulkheads folded like paper. It smells of wet concrete and cellar rot. Seismographs track it easily; evacuation outpaces it rarely.
 ## Behavior
 
-It advances across the facility, and the weight of a drowned district settles over all it covers.
-
+| Phase | Action | Effect |
+|---|---|---|
+| **The Advance** | Half walking pace, unstoppable, unhurried; the corridor is the sacrifice zone. | Overlapped personnel sink and take 32–92 Weight per turn plus entrapment. Nothing in the path is moved in time. |
+| **The Drag** | Sunk personnel are pulled down one meter per turn into the heaving mass. | Ferrehan extraction only, lifelines mandatory, from stable ground. No one steps onto the mass. |
+| **The Settlement** | Ground the Continent passes stays liquefied for hours; the district it carries grows. | Structures on passed ground drop to half integrity. Everything it keeps, it keeps. |
 ## Suppression Protocol
 
 Engage with catastrophic-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
@@ -33,8 +43,7 @@ A catastrophic-severity OBSIDIAN encounter: widespread structural and personnel 
 
 ## R.D. Response Protocol
 
-Echo-Core teams only.
-
+Alert Level 5. Echo-Core direct command; evacuate the advance corridor two blocks wide — the Continent does not turn, but it does lean. Extraction teams work from stable ground with full lifeline rig; no one steps onto the heaving mass. What it keeps, it keeps; the R.D. maintains a memorial ledger rather than a recovery plan.
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
 > In addition to the primary OBSIDIAN Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
@@ -116,6 +125,8 @@ Echo-Core teams only.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary OBSIDIAN Tide Watch Ordeal; same color and severity, different manifestation.
+
+- Tide Watch severity is encounter-pool math, not duel math: the primary (614/614) plus the full spawn roster across concurrent manifestations totals several thousand HP per event — compare single-entity Sovereign engagements such as the Forgotten God (Sorrow Gauge 894). Tide-spawn grades (400–560) are siege biomass, not duelists.
 
 ## Document Information
 

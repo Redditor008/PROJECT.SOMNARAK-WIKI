@@ -8,21 +8,31 @@
 |---|---|
 | **Color** | PURPLE |
 | **Time** | Tide Watch |
-| **Risk** | Catastrophic |
-| **Form** | PURPLE Tide Watch (secondary) |
+| **Threat Level** | Catastrophic |
+| **Han Source** | Mixed (Raw Han) |
+| **Physical Form** | A mobile landscape of corrupted vegetation, parasitic blooms, and fused organic mass — a whole district given over to the growth, walking as one vast bloom. It spreads over zones and blooms everything beneath against its will. |
+| **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
+| **Spawn Count** | 1 primary + spawn roster (see below) |
+| **Mortality** | Mortal — permanently suppressible |
+| **Han Pressure [ATK]** | 31–86 per hit · Mixed |
+| **HP** | 640/640 |
+| **Instant Fracture** | Yes — on critical hits / special abilities |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
 
-A whole district given over to the growth, walking now as one vast bloom.
-
+A whole district given over to the growth, walking now as one vast bloom. The Garden of Rot is what the Bloom becomes when it stops traveling and starts gardening: settled, rooted, patient, and vastly harder to dislodge than the wave that planted it. It forms in the Tide's aftermath as often as its height — victory over the Bloom-Wave sometimes just means the Garden arrives next. The R.D. treats every suppressed Bloom site as a future Garden address and pre-positions accordingly.
 ## Appearance
 
-A mobile landscape of corrupted vegetation, parasitic blooms, and fused organic mass.
-
+A mobile landscape: corrupted vegetation in dense stands, parasitic blooms the size of doors opening on wet mouths, fused organic mass paving the ground between. It moves the way gardens move — slowly, with absolute commitment — tendrils testing ahead, root-mats knitting behind. The air above it shimmers with spores; the ground beneath it softens, warms, and begins, faintly, to pulse. It is, several debriefed operatives insist, beautiful. Those operatives are reassigned to interior duties.
 ## Behavior
 
-It spreads over a zone, and everything beneath begins to bloom and change against its will.
-
+| Phase | Action | Effect |
+|---|---|---|
+| **The Spreading** | The garden creeps over the zone, tendrils first, root-mats behind. | All inside take 31–86 Mixed per turn plus spore counters. The ground softens, warms, and begins to pulse. |
+| **The Rooting** | Spored personnel root one stage per turn: feet, will, appetite for sunlight. | Resolve check each turn to arrest; rooted personnel cannot move and feed the garden +5% pressure each. |
+| **The Blooming** | After three turns rooted, personnel bloom: permanent transformation, hostile, flowering. | Burn early, grieve later. What blooms in the garden belongs to the garden. |
 ## Suppression Protocol
 
 Engage with catastrophic-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
@@ -33,8 +43,7 @@ A catastrophic-severity PURPLE encounter: widespread structural and personnel th
 
 ## R.D. Response Protocol
 
-Echo-Core teams only.
-
+Alert Level 5. Echo-Core direct command; establish the burn-line before engaging — the Garden punishes slow sieges by growing through them. Defoliant M.A.W. and incineration only; kinetic suppression feeds it mulch. Spore-check every operative on exit, then check the checkers. The Garden's favorite vector is the debriefer.
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
 > In addition to the primary PURPLE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
@@ -116,6 +125,8 @@ Echo-Core teams only.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary PURPLE Tide Watch Ordeal; same color and severity, different manifestation.
+
+- Tide Watch severity is encounter-pool math, not duel math: the primary (640/640) plus the full spawn roster across concurrent manifestations totals several thousand HP per event — compare single-entity Sovereign engagements such as the Forgotten God (Sorrow Gauge 894). Tide-spawn grades (400–560) are siege biomass, not duelists.
 
 ## Document Information
 

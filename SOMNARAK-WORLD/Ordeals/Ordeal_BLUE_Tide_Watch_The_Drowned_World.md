@@ -8,21 +8,31 @@
 |---|---|
 | **Color** | BLUE |
 | **Time** | Tide Watch |
-| **Risk** | Catastrophic |
-| **Form** | BLUE Tide Watch (secondary) |
+| **Threat Level** | Catastrophic |
+| **Han Source** | Lament |
+| **Physical Form** | A rising flood of living sorrow-water that submerges entire floors, faces floating just beneath the surface. It rises through gratings and cable runs; no deck stays dry. Cold, saline, faintly luminous, and patient. |
+| **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
+| **Spawn Count** | 1 primary + spawn roster (see below) |
+| **Mortality** | Mortal — permanently suppressible |
+| **Han Pressure [ATK]** | 35–98 per hit · Lament |
+| **HP** | 648/648 |
+| **Instant Fracture** | Yes — on critical hits / special abilities |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
 
-When the Weeping itself surged and the grief could no longer drain, the world went under.
-
+When the Weeping itself surged and the facility's grief could no longer drain, the world went under. The Drowned World is not a breaking wave but a rising one: the Tide coming up through the floor instead of down the corridor. It forms wherever drainage fails first — usually the lower Hand floors — and spreads upward deck by deck. Diversion is impossible once it covers two decks; there is nowhere drier to send it.
 ## Appearance
 
-A rising flood of living sorrow-water that submerges entire floors, faces floating just below.
-
+A living flood rising through gratings, vents, and cable runs, covering floors within minutes of first seep. The water is dark, saline, faintly luminous, cold enough to ache — and crowded: thousands of faces float just beneath the surface, open-eyed, mouthing silently, turning to watch personnel wade past. It makes no wave-sound; it rises the way grief rises, without asking. Depth markers are useless. If your boots are wet, you are already inside it.
 ## Behavior
 
-It rises, and the ocean of unwept grief drowns the will of all it covers.
-
+| Phase | Action | Effect |
+|---|---|---|
+| **The Seep** | Water rises one deck per two turns, accelerating where gratings and cable runs cluster. | Wet personnel lose 10 Clarity per turn in addition to Composure damage; dry ground becomes a rumor. |
+| **The Faces** | The submerged faces turn toward the living and mouth their names, or something shaped like their names. | Personnel must resist (Resolve check) or stand transfixed one to two turns, ankle-deep and sinking. |
+| **The Submersion** | Fully submerged personnel stop struggling and start joining: after three turns they dissolve into new faces. | Ferrehan extraction only, in pairs, with lifelines. Solo rescuers are recovered as faces, if at all. |
 ## Suppression Protocol
 
 Engage with catastrophic-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
@@ -33,8 +43,7 @@ A catastrophic-severity BLUE encounter: widespread structural and personnel thre
 
 ## R.D. Response Protocol
 
-Echo-Core teams only.
-
+Alert Level 5. Echo-Core direct command; all lower-deck staff to high ground before the second deck floods. Wading teams work in Ferrehan pairs with lifelines — no solo crossings, no exceptions. Pump crews are a memorial detail, not a suppression plan; do not assign the living to hold back the sea.
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
 > In addition to the primary BLUE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
@@ -116,6 +125,8 @@ Echo-Core teams only.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary BLUE Tide Watch Ordeal; same color and severity, different manifestation.
+
+- Tide Watch severity is encounter-pool math, not duel math: the primary (648/648) plus the full spawn roster across concurrent manifestations totals several thousand HP per event — compare single-entity Sovereign engagements such as the Forgotten God (Sorrow Gauge 894). Tide-spawn grades (400–560) are siege biomass, not duelists.
 
 ## Document Information
 

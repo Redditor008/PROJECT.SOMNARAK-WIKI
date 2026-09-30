@@ -8,21 +8,31 @@
 |---|---|
 | **Color** | OBSIDIAN |
 | **Time** | Tide Watch |
-| **Risk** | Catastrophic |
-| **Form** | OBSIDIAN Tide Watch (secondary) |
+| **Threat Level** | Catastrophic |
+| **Han Source** | Weight |
+| **Physical Form** | An invisible but palpable pressure descending over a whole zone — the last unbearable measure of Weight. Structures bend, bodies bow, and everything beneath gives way under the tonnage of every debt ever owed. |
+| **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
+| **Spawn Count** | 1 primary + spawn roster (see below) |
+| **Mortality** | Mortal — permanently suppressible |
+| **Han Pressure [ATK]** | 33–94 per hit · Weight |
+| **HP** | 622/622 |
+| **Instant Fracture** | Yes — on critical hits / special abilities |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
 
-The last unbearable measure of weight, when the city heap of obligation reached the point of collapse.
-
+The last unbearable measure of Weight, arriving when the city's heap of obligation reaches the point of collapse. The Final Ton is not an object but a verdict with mass: every promise, every duty, every borrowed thing, summed and set down in one place. It has no body to wound, which makes it the most structurally honest of the Tide Watches — suppression teams fight a number, and the number is final. It descends once per Tide at most. Once is sufficient.
 ## Appearance
 
-An invisible but palpable pressure that descends over a whole zone, bending structure and body alike.
-
+Nothing to see — that is the doctrine, and the doctrine is a warning. The Final Ton is an invisible pressure that announces itself in bent girders, spiderwebbed faceplates, and the sound of load-bearing columns deciding. Personnel describe a hand the size of the sky pressing down, gentle and absolute. Dust falls upward first, then everything falls down. Instruments register Weight Han at densities that break the scale's needle; the scale, the R.D. notes, was built for lesser sums.
 ## Behavior
 
-It settles, and everything beneath simply gives way under the accumulated tonnage of every debt ever owed.
-
+| Phase | Action | Effect |
+|---|---|---|
+| **The Descent** | The pressure settles over the zone the way weather settles: total, indifferent, complete. | All inside take 33–94 Weight per turn; structures lose one quarter integrity per turn. |
+| **The Bowing** | The tonnage finds every spine in the zone and makes its argument personally. | Resolve check or kneel: kneeling personnel cannot move until the pressure lifts or they are carried out. |
+| **The Settling** | After three turns, the zone's floor gives way under the summed obligation. | Everything descends one deck — or into the dark where no deck remains. The R.D. authorizes no recovery descents. |
 ## Suppression Protocol
 
 Engage with catastrophic-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
@@ -33,8 +43,7 @@ A catastrophic-severity OBSIDIAN encounter: widespread structural and personnel 
 
 ## R.D. Response Protocol
 
-Echo-Core teams only.
-
+Alert Level 5. Echo-Core direct command; evacuate the threatened zone before the Descent completes — nothing suppresses the Ton from underneath. Counter-pressure teams work the zone's edge with Weight-sink M.A.W. only. Anyone kneeling when the floor goes is gone; the R.D. does not authorize recovery descents into Ton-collapse voids.
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
 > In addition to the primary OBSIDIAN Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
@@ -116,6 +125,8 @@ Echo-Core teams only.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary OBSIDIAN Tide Watch Ordeal; same color and severity, different manifestation.
+
+- Tide Watch severity is encounter-pool math, not duel math: the primary (622/622) plus the full spawn roster across concurrent manifestations totals several thousand HP per event — compare single-entity Sovereign engagements such as the Forgotten God (Sorrow Gauge 894). Tide-spawn grades (400–560) are siege biomass, not duelists.
 
 ## Document Information
 

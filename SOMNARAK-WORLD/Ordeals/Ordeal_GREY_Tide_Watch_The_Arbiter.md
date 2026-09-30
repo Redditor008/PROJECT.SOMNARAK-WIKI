@@ -8,21 +8,31 @@
 |---|---|
 | **Color** | GREY |
 | **Time** | Tide Watch |
-| **Risk** | Catastrophic |
-| **Form** | GREY Tide Watch (secondary) |
+| **Threat Level** | Catastrophic |
+| **Han Source** | Grudge |
+| **Physical Form** | A towering hooded figure of scarred hide bearing a great blade forged from a single rib. It walks the longest corridors, sentencing as it goes; its verdicts land as annihilating strokes. |
+| **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
+| **Spawn Count** | 1 primary + spawn roster (see below) |
+| **Mortality** | Mortal — permanently suppressible |
+| **Han Pressure [ATK]** | 37–102 per hit · Grudge |
+| **HP** | 642/642 |
+| **Instant Fracture** | Yes — on critical hits / special abilities |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
 
-A judge grown vast on accumulated verdicts, come to sentence the facility entire.
-
+A judge grown vast on accumulated verdicts, come to sentence the facility entire. Where the Judge weighs the city's sins, the Arbiter settles its live disputes — every feud, every unpaid blood-debt, every grudge nursed past reason — by the simplest available method. It forms late in the Tide, when suppression teams are already committed elsewhere, which the R.D. believes is deliberate. The Arbiter has never been observed to hurry. It has also never been observed to miss.
 ## Appearance
 
-A towering hooded figure of scarred hide bearing a great blade of a single rib.
-
+A towering hooded figure, near five meters, robed in scarred hide the color of old scabs. It carries a great blade forged from a single rib — curved, yellowed, humming faintly — in hands too jointed to be human. It does not speak; it points, and the pointed-at feel the full weight of every accusation ever leveled at them, true or otherwise. Its hood is empty in a way that suggests occupancy. No operative has seen under it and remained on duty.
 ## Behavior
 
-It brings the blade down, and the sentence falls as an annihilating stroke.
-
+| Phase | Action | Effect |
+|---|---|---|
+| **The Pointing** | The Arbiter singles out one target and points; accusation-weight settles over them like a held breath. | Resolve check or Staggered one turn. The sentenced cannot hide: the pointing finds through cover and smoke. |
+| **The Verdict** | The rib-blade falls on the sentenced, once, without flourish. | 37–102 Grudge to the sentenced, margin splash to adjacent personnel. There is no appeal. |
+| **The Docket** | Each Arbiter-adjacent spawn suppressed in view of the primary is entered into its docket. | Every docketed kill adds +10% primary pressure. Clear the adds first — or do not clear them at all. |
 ## Suppression Protocol
 
 Engage with catastrophic-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
@@ -33,8 +43,7 @@ A catastrophic-severity GREY encounter: widespread structural and personnel thre
 
 ## R.D. Response Protocol
 
-Echo-Core teams only.
-
+Alert Level 5. Echo-Core direct command; engage with three-team doctrine (sentence-bait, adds-clear, sustained damage). Weight-element M.A.W. recommended — the Arbiter resists its own Grudge the way the guilty resist confession. Evacuate the sentencing axis; the blade does not distinguish between the accused and the audience.
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
 > In addition to the primary GREY Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
@@ -116,6 +125,8 @@ Echo-Core teams only.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary GREY Tide Watch Ordeal; same color and severity, different manifestation.
+
+- Tide Watch severity is encounter-pool math, not duel math: the primary (642/642) plus the full spawn roster across concurrent manifestations totals several thousand HP per event — compare single-entity Sovereign engagements such as the Forgotten God (Sorrow Gauge 894). Tide-spawn grades (400–560) are siege biomass, not duelists.
 
 ## Document Information
 

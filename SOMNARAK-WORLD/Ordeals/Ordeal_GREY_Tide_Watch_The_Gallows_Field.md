@@ -8,21 +8,31 @@
 |---|---|
 | **Color** | GREY |
 | **Time** | Tide Watch |
-| **Risk** | Catastrophic |
-| **Form** | GREY Tide Watch (secondary) |
+| **Threat Level** | Catastrophic |
+| **Han Source** | Grudge |
+| **Physical Form** | A drifting field of gallows-poles and empty nooses with armed executioners moving among them. It settles over a zone and holds court: the condemned and the condemners slaughter together. |
+| **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
+| **Spawn Count** | 1 primary + spawn roster (see below) |
+| **Mortality** | Mortal — permanently suppressible |
+| **Han Pressure [ATK]** | 36–100 per hit · Grudge |
+| **HP** | 634/634 |
+| **Instant Fracture** | Yes — on critical hits / special abilities |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
 
-A place of execution remembered so hard it walked, bringing the condemned and the condemned-makers.
-
+A place of execution remembered so hard it walked, bringing the condemned and the condemned-makers with it. The Gallows Field is the Tide's answer to every unexamined punishment: not the guilt of the hanged but the appetite of the crowd, given poles and rope and room to work. It drifts rather than advances, which makes its landfall unpredictable — the R.D. tracks twelve probable sites and has been correct twice. Where it settles, it stays until suppressed or until no one is left to hang.
 ## Appearance
 
-A drifting field of gallows-poles and nooses, armed executioners moving among them.
-
+A drifting field of gallows-poles — dozens, then hundreds — each with its noose, each noose swaying though no wind blows. Armed executioners move among the poles: hooded, aproned, patient, carrying rope, blades, and ledgers. The field smells of old sweat and lamp-oil. It settles over a zone the way evening settles: gradually, then all at once. Personnel inside it report being sorted — some toward the poles, some toward the ropes — and the sorting, they say, feels fair, which is the worst part.
 ## Behavior
 
-It settles over a zone, and the condemned and the condemners slaughter together.
-
+| Phase | Action | Effect |
+|---|---|---|
+| **The Settling** | The field drifts over a zone and settles; everyone inside is sorted, poles or ropes. | Resolve check on settling or accept the assigned role. The sorting feels fair. It is not. |
+| **The Sentenced** | Those sorted to the poles are hanged in effigy each turn the field holds them. | 36–100 Grudge per turn, ignoring cover. The rope leaves no mark; the verdict does. |
+| **The Crew** | Those sorted to the ropes are handed work: attack your allies or the role rebounds. | Resolve check each turn to refuse; refused roles rebound the hanging onto the refuser. |
 ## Suppression Protocol
 
 Engage with catastrophic-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
@@ -33,8 +43,7 @@ A catastrophic-severity GREY encounter: widespread structural and personnel thre
 
 ## R.D. Response Protocol
 
-Echo-Core teams only.
-
+Alert Level 5. Echo-Core direct command; no team enters the settled field — suppression is conducted from outside its edge only. Anyone sorted is extracted by Ferrehan line within one turn or written off; the field keeps what it hangs. Burn the poles after suppression. Count the ash. Bury it under no name.
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
 > In addition to the primary GREY Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
@@ -116,6 +125,8 @@ Echo-Core teams only.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary GREY Tide Watch Ordeal; same color and severity, different manifestation.
+
+- Tide Watch severity is encounter-pool math, not duel math: the primary (634/634) plus the full spawn roster across concurrent manifestations totals several thousand HP per event — compare single-entity Sovereign engagements such as the Forgotten God (Sorrow Gauge 894). Tide-spawn grades (400–560) are siege biomass, not duelists.
 
 ## Document Information
 

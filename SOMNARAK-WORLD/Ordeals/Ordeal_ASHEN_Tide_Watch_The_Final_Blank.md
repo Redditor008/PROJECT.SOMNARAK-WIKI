@@ -8,21 +8,31 @@
 |---|---|
 | **Color** | ASHEN |
 | **Time** | Tide Watch |
-| **Risk** | Catastrophic |
-| **Form** | ASHEN Tide Watch (secondary) |
+| **Threat Level** | Catastrophic |
+| **Han Source** | Void |
+| **Physical Form** | A wall of total nothing — a blank front advancing through corridors, deleting matter, light, and record where it overlaps. No face, no sound, no Han-light; instruments register only absence deepening. |
+| **Dissolution** | Dissolves on suppression → residual Han (no vessel; not a sorrow-cored entity) |
+| **Spawn Count** | 1 primary + spawn roster (see below) |
+| **Mortality** | Mortal — permanently suppressible |
+| **Han Pressure [ATK]** | 34–94 per hit · Void |
+| **HP** | 620/620 |
+| **Instant Fracture** | Yes — on critical hits / special abilities |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
 
-The erasure that comes when there is nothing left left to erase.
-
+The Final Blank is the erasure that comes when there is nothing left to erase. It forms in the last hour of the Sorrow Tide, when Ashen Han has already unmade everything loose and the pressure turns on structure itself. Archivists consider it the Tide's closing argument: not an attack on the facility but a demonstration that the facility was always optional. It has no grievance and no appetite. It only finishes.
 ## Appearance
 
-A wall of total nothing that advances, deleting matter it overlaps.
-
+A wall of total nothing, floor to ceiling, edge to edge, advancing at walking pace. It has no surface — looking at it is looking at the exact shape of everything that is no longer there — and no sound precedes it, because sound is something and it has already passed. Matter it overlaps does not break or burn; it ceases, cleanly, including bulkheads, M.A.W. plating, and personnel records. What it leaves behind is not ruin but neatness: corridors shorter than their blueprints, rosters with no gaps and fewer names.
 ## Behavior
 
-It drifts, and whatever it touches simply ceases to be.
-
+| Phase | Action | Effect |
+|---|---|---|
+| **The Advance** | The wall advances at walking pace down the threatened axis, unhurried and unstoppable. | Overlap means erasure: no resistance roll, no partial effect. Distance is the only defense. |
+| **The Quiet** | Silence deepens ahead of the wall as relay, voice, and instrument chatter fail within twenty meters. | Suppression teams inside the Quiet cannot coordinate; pre-briefed fallback lines only. |
+| **The Neatness** | Erased zones seal smooth behind the wall; records of the erased degrade within hours. | All observations must be relayed live. Written logs kept in the affected zone fade by dawn. |
 ## Suppression Protocol
 
 Engage with catastrophic-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
@@ -33,8 +43,7 @@ A catastrophic-severity ASHEN encounter: widespread structural and personnel thr
 
 ## R.D. Response Protocol
 
-Echo-Core teams only.
-
+Alert Level 5. Echo-Core direct command; suppression teams engage only at range and never between the Blank and a dead end. Evacuate the threatened axis entirely — the Blank cannot be slowed, only outlasted until the Tide turns. All observations must be relayed live; written records kept within the affected zone degrade.
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
 > In addition to the primary ASHEN Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
@@ -116,6 +125,8 @@ Echo-Core teams only.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary ASHEN Tide Watch Ordeal; same color and severity, different manifestation.
+
+- Tide Watch severity is encounter-pool math, not duel math: the primary (620/620) plus the full spawn roster across concurrent manifestations totals several thousand HP per event — compare single-entity Sovereign engagements such as the Forgotten God (Sorrow Gauge 894). Tide-spawn grades (400–560) are siege biomass, not duelists.
 
 ## Document Information
 
