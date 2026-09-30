@@ -425,6 +425,10 @@ The Memorial keeps a row of seats that are never reserved and never empty for lo
 
 The empty seat is the row's oldest custom. However many mourners gather, one seat is left vacant — for the unmourned, the grounds crews say, for whoever has no one to sit for them. Children ask which dead person the seat belongs to, and the crews answer honestly: all of them, tonight, this one is for all of them. The Colossus, during its vigils, faces the row directly, and more than one credible witness has reported that its attention rests longest on the empty seat — as if the giant, which remembers every forgotten name, were reading the roll of the still-unmourned in the vacancy, and keeping faith with the census that continues. The crews log these reports without comment. Then they return to the ledgers, the cross-references, the slow rescue of names — shortening, one reading at a time, the list the empty seat represents.
 
+### The Smallest Name
+
+The shortest name on the restored roll belongs to a child buried without ceremony in the first expansion winter — two syllables, half-erased in the tally, recovered by a volunteer who spent a season proving one small person existed. The Colossus received the name at the cycle's reading, bowed its head, and, witnesses swear, repeated it — one small name in a voice like settling earth, spoken with a gentleness the instruments could not measure and the crews will never forget. The volunteer's commendation reads, in full: she proved a child existed, and the giant said the name. The Directorate keeps the citation framed in the census hall. The crews keep the lesson everywhere else.
+
 ## Trivia
 
 - The Colossus's footsteps are heard as heartbeats rather than impacts.

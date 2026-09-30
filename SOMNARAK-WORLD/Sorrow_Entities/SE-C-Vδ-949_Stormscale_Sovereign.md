@@ -371,6 +371,14 @@ And that is the whole of it — the fish, the stone, the dragon — three files,
 
 **Review requirement:** Recheck, every cycle, the separation distance between the Soot Fry and the Foam Flood — the single variable that keeps this entity Latent. Any drift toward reunion is a Critical-priority emergency. The R.D. record describes a living potential, not a permanently complete explanation — and the potential is, by every model, existential.
 
+## Sovereign Chronicle
+
+### The Selfless Wish
+
+Every Sovereign in the catalog was born from grief compounded. The Stormscale Sovereign alone was born from grief refused — from the single recorded moment when a sorrow entity, holding absolute power over the disaster it had caused, wished selflessly for the first time in its existence. The Soot Fry had consumed the Foam Flood and grown past every measure; the city lay drowning in consequence; and the entity that had caused it all looked at what it had done, understood it completely — and wished not for more, not for escape, not for absolution, but for the waters to recede and the living to stand. The wish was granted the way Sovereign wishes are granted: totally, irreversibly, and at the wisher's own expense. The Fry burned away. The Sovereign rose from the lees of the flood. And the Directorate gained the only entity in the archive whose founding act was repentance with power still in its hands.
+
+Stormscale doctrine begins where every other Sovereign doctrine ends: with trust, verified. The Sovereign keeps the flood-lines the way other Sovereigns keep their wounds — visibly, deliberately, as warning and promise both. Its scales carry the high-water marks of every flood it has ever permitted, and its crews read them the way sailors read charts. Work near the Sovereign favors the honest: personnel who report their own griefs plainly are steadied, and personnel who conceal them are found out — gently, but completely. The Sovereign's Stigma, the Receded Mark, grants exactly this: the steadiness of someone with nothing hidden. Its cost is transparency — bearers cannot dissemble, even kindly, even when mercy asks it. They accept the cost. The flood taught the city what hidden waters do.
+
 ## Trivia
 
 - The Sovereign is the only entity in the registry with a Mixed element that cycles all four sorrows simultaneously; it has no single-element weakness and no single-element strength.

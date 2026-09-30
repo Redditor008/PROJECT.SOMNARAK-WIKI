@@ -436,6 +436,10 @@ The grief-line is the most important elevation in Somnarak, and it appears on no
 
 The sealed vaults are the line's open secret. Beneath the oldest districts lie chambers the city built before it understood what it was building over — cellars, cisterns, burial crypts — now drowned in black water up to their ceilings. The Directorate maps every one, monitors every one, and opens none. Dive teams were proposed once, in the early years, by a commander who did not yet understand the River. The proposal was denied with a single-line ruling that has become doctrine: what the River has received is received. The vaults are sounded from above, their tones logged alongside the tributaries, and their silence — so far unbroken — is counted among the city's blessings. If a vault ever sounds back, the readers have standing orders: seal the shaft, ring the bell, and wake the senior Warden. Whatever the River wants to return, the city will receive standing up.
 
+### The Sounding Prayer
+
+The readers say it before every descent of the line, and the Directorate — which authorizes no prayers — authorizes this one as procedure: River beneath, keep what you keep. We measure only the surface. We mourn only the named. What is sealed stays sealed, what flows flows past, and what we owe, we pay in grief honestly mourned. The line goes down. The bell stays silent. The city stands. So far, the River has accepted the terms. The readers log every sounding, the gauges hold their levels, and the black water keeps its own counsel beneath the foundations — which is, all parties agree, exactly where it belongs.
+
 ## Trivia
 
 - The River's current changes during the Sorrow Tide.

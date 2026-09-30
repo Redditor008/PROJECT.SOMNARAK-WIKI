@@ -430,6 +430,10 @@ Dawn in Somnarak is a ceremony the day shift performs without knowing it. The sh
 
 The day shift's ignorance is counted, in the night crews' litany, as a mercy rather than an insult. The flood is survived by attention and endured by compartment — and the compartment only holds if the daylight does not ask what the dark contained. Night personnel therefore maintain a deliberate reticence that newcomers mistake for coldness: they do not describe the flood to day crews, do not correct day-shift theories about the night, and do not accept day commendations for night work. The commendations they accept come from their own command, in their own ceremonies, held at dusk before the flood — promotions, citations, and the Ebb Mark, pinned on in lamplight by commanders who stood the same water. The day shift, to its credit, has never resented the closed circle. It simply keeps the relief meal hot, the bunks ready, and the shutters opening on time — its own part in the litany, performed faithfully, every dawn, without knowing all of what it means.
 
+### The Flood Mark on the Wall
+
+Every night facility keeps one wall unpainted — bare concrete, marked by hand — where the flood crews record the highest water of every notable watch. The marks are simple: a date line, a level line, a name. The name is the commander's, taking responsibility for the reading. Over the cycles the walls have filled with strata of floods survived, and new crew are walked along the wall on their first night the way recruits are walked along memorials. Read the marks, the commander says. Every line is a night someone stood. Your line goes up there too, when your night comes. The crews describe the effect as grounding: whatever the flood shows them, the wall proves that others stood deeper water and held. The highest mark on any wall in the city is the Long Night's — three flood-watches deep, ringed in black, with the watch commander's name beneath it and no further comment. No crew has ever needed the comment explained. The mark says: it rose this high, and we are still here.
+
 ## Trivia
 
 - The Tide's peak varies with city-wide events.
