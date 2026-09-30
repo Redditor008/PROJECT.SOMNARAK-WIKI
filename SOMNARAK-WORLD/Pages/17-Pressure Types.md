@@ -26,7 +26,7 @@ Rather than relying on generic physical injury, damage in Somnarak is classified
   - [1.3 Void (Pale White Pressure)](#13-void-pale-white-pressure)
   - [1.4 Weight (Black Pressure)](#14-weight-black-pressure)
 - [2 Resistance Multipliers and Defense Formula](#2-resistance-multipliers-and-defense-formula)
-- [3 Void Conceptual Scaling: The One Percent Axiom](#3-pale-conceptual-scaling-the-one-percent-axiom)
+- [3 Void Conceptual Scaling: The One Percent Axiom](#3-void-conceptual-scaling-the-one-percent-axiom)
 - [4 Mixed Damage and Dual-Gauge Depletion](#4-mixed-damage-and-dual-gauge-depletion)
 - [5 Gallery](#5-gallery)
 - [6 See also](#6-see-also)

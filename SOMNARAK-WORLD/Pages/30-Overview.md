@@ -23,7 +23,7 @@ Within the somber halls of Facility 01, humanity does not wage war against monst
 - [1 The Municipal Mission of Facility 01](#1-the-municipal-mission-of-facility-01)
 - [2 Containment Chamber Engineering Specifications](#2-containment-chamber-engineering-specifications)
 - [3 Departmental Containment Allocation Matrix](#3-departmental-containment-allocation-matrix)
-- [4 The Four Comprehension Levels and Codex Progression](#4-the-four-observation-levels-and-codex-progression)
+- [4 The Four Comprehension Levels and Codex Progression](#4-the-four-comprehension-levels-and-codex-progression)
 - [5 The Four Protocols in Administrative Practice](#5-the-four-protocols-in-administrative-practice)
 - [6 The Ethical Philosophy of Han Harvesting](#6-the-ethical-philosophy-of-han-harvesting)
 - [7 The Warden's Oath and Command Guidelines](#7-the-wardens-oath-and-command-guidelines)

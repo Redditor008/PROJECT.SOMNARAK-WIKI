@@ -42,6 +42,10 @@ jobs:
         run: |
           python3 tools/seam_lint.py
 
+      - name: Verify Internal Link Integrity
+        run: |
+          python3 tools/check_links.py
+
       - name: Run Linter Unit Test Suite
         run: |
           python3 -m unittest tools/tests/test_linters.py

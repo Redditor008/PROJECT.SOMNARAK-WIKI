@@ -21,7 +21,7 @@ Energy in the Somnarak world is harvested directly from the psychological resona
 ## Contents
 
 - [1 Nature of Han-Energy and Lumen Units](#1-nature-of-han-energy-and-lumen-units)
-- [2 Extraction Physics: Positive vs Negative Boxes](#2-extraction-physics-positive-vs-negative-ticks)
+- [2 Extraction Physics: Positive vs Negative Boxes](#2-extraction-physics-positive-vs-negative-boxes)
 - [3 Daily Quota and the Overcharge Protocol](#3-daily-quota-and-the-overcharge-protocol)
 - [4 Overcharge Economic Efficiency Table](#4-overcharge-economic-efficiency-table)
 - [5 The Mnemonic Generator and Crystalline Storage](#5-the-mnemonic-generator-and-crystalline-storage)

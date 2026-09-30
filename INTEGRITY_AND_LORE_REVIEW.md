@@ -64,3 +64,32 @@ V4-W1 (PARTIAL). The canonical rank names are in almost every file, but two "Wai
 Pages/38-Classification Code.md, line 60, says "IV — Wail". It should say Entity.
 Descent_4_The_Tear.md, line 48, says "Wail rank". It should say Entity.
 V4-W6 (PARTIAL). The Transform line is in the rules doc. The rules say "at 15, onset begins", but the Junior Warden sits at exactly 15 SP in Descent 5 with no onset effects. Decide whether the line means "15 or below" or "below 15", and make the rules doc or Descent 5 match.
+
+---
+
+## Addendum — Link-Integrity Re-verification (2026-09-30, commit-tracked)
+
+Fresh automated sweep with new repo-native checker `tools/check_links.py`
+(inline links/images; resolves files + anchors; skips fenced blocks and
+inline code spans holding intentional verbatim `URL`/`...`/`wiki.gg`
+examples in REFERENCE and TEMPLATES).
+
+- **Scope:** 2715 links across 1877 markdown files.
+- **Baseline:** 16 broken — 3 canonical missing-anchor slugs (stale TOC
+  text), 13 verbatim-in-code examples (tool now skips).
+- **Fixes applied:**
+  - `SOMNARAK-WORLD/Pages/17-Pressure Types.md`: `#3-pale-...` →
+    `#3-void-conceptual-scaling-the-one-percent-axiom`.
+  - `SOMNARAK-WORLD/Pages/19-Lumen Surge.md`: `#2-extraction-physics-...-ticks`
+    → `#2-extraction-physics-positive-vs-negative-boxes`.
+  - `SOMNARAK-WORLD/Pages/30-Overview.md`: `#4-the-four-observation-levels-...`
+    → `#4-the-four-comprehension-levels-and-codex-progression`.
+- **Post-fix result:** **BROKEN TOTAL: 0** (exit 0; negative control with a
+  planted broken link exits 1 with detail output).
+- **Cross-claim spot checks:** entity total 291 = 158 canonical + 61 other +
+  72 non-SE; `Absolovhan` 8/8 occurrences intentional (5x `[sic]` decree
+  quotes, CHANGELOG Finding-5 meta, review row, `ABSOLOVHAN_OVERVIEW.md:3`
+  documented dual-spelling nomenclature note); `Absolvohan` 610 uses.
+- **Durability:** `tools/check_links.py` added as a CI gate step in
+  `.github/workflows/ci.yml` ("Verify Internal Link Integrity"), failing
+  the build on any future broken link.
