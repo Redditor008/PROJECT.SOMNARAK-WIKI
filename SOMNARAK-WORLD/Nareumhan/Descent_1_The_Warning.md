@@ -5,12 +5,12 @@
 +=====================================================================+
 |              SIGNAL LOG: EXILE'S GATE RELAY, MONTH 4 DAY 3          |
 +=====================================================================+
-| ORIGINOFCALL      : Xyan, Echo-Core 9 (Outside the Gate)           |
-| RELAY OFFICER     : Ishall, Central Command Signal Post            |
-| MESSAGE           : Beneath the tree, the sleeper turns. The vault |
-|                     gauges are climbing. Do not wait for silence   |
+| ORIGINOFCALL      : Xyan, Echo-Core 9 (Outside the Gate)            |
+| RELAY OFFICER     : Ishall, Central Command Signal Post             |
+| MESSAGE           : Beneath the tree, the sleeper turns. The vault  |
+|                     gauges are climbing. Do not wait for silence    |
 |                     to break. Come down before it wakes.            |
-| ARCHIVE CONFIRM   : Marjuk verifies V-2 gauge rise, same day       |
+| ARCHIVE CONFIRM   : Marjuk verifies V-2 gauge rise, same day        |
 | DIRECTORATE ORDER : Descent authorized, Month 4 Day 9               |
 +=====================================================================+
 ```
