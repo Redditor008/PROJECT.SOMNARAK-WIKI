@@ -535,7 +535,7 @@ The story continues...
 | Year | Event |
 |------|-------|
 | 4232 | The Cycle begins — R.D. established |
-| 4232+1778 | The Absolvohan activates — Hand of Hope opens |
+| 4238 | The 1,778-cycle loop breaks — Hand of Hope opens |
 | 4238 | The Dawn Initiative founded — The Lantern built |
 | 4239 | Dawn Operations begin — 8 missions |
 | 4246 | The Descent — all 12 Hope Bearers enter the Weeping |

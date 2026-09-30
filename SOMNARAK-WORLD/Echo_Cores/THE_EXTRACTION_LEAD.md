@@ -586,7 +586,7 @@ Zyrak has **no direct recorded appearance** in _The Memory Archive_ operation. S
 
 ### Chronological Status
 
-The Memory Archive begins in Year 4,233 after the Cycle ends. At that point, Zyrak remains active as the Extraction Lead and the R.D. has adopted its revised doctrine.
+The Memory Archive begins in Year 4,238 after the Cycle ends. At that point, Zyrak remains active as the Extraction Lead and the R.D. has adopted its revised doctrine.
 
 No source assigns her an off-page mission simply because memory extraction is part of her secret. Her ability makes the Archive thematically relevant, but thematic relevance is not evidence of participation.
 
@@ -1358,7 +1358,7 @@ Zyrak's future depends on whether Floor 3 can make those requirements real.
 | **Day 160** | Observes Han-crystal dissolve, disperse, and spread through the Weeping |
 | **Day 170** | Identifies the Birds' voluntary merger as the first Hope Entity in Somnarak's history |
 | **Day 350–360** | Continues extraction operations and Floor 3 command as the facility and Cycle change |
-| **Year 4,233 anniversary** | Asks what the new doctrine means for the Absolvohan |
+| **Year 4,238 anniversary** | Asks what the new doctrine means for the Absolvohan |
 
 ### Era Status
 
@@ -1366,7 +1366,7 @@ Zyrak's future depends on whether Floor 3 can make those requirements real.
 - **R.D. reconstruction:** Receives a fully mechanical Android body and later becomes Echo-Core 4.
 - **Cycle Era:** Leads Floor 3 while noticing repeated patterns and secretly extracting Before-Time memories.
 - **Final Cycle:** Moves from repeated forced separation of the Birds to recognition of their peaceful union.
-- **Post-Cycle / Year 4,233:** Remains at station under the Hand of Hope doctrine.
+- **Post-Cycle / Year 4,238:** Remains at station under the Hand of Hope doctrine.
 - **Current era / Year 4,238:** Active during the Dawn Initiative era; no retirement, deactivation, or replacement is recorded.
 
 ---
@@ -1540,7 +1540,7 @@ The secret therefore remains unresolved rather than silently becoming public.
 
 ### Calendar and Current Era
 
-The final Cycle occurs in repeated Year 4,232. The calendar resumes naturally at Year 4,233. The first anniversary dialogue belongs to the post-Cycle era.
+The final Cycle occurs in repeated Year 4,232. The calendar resumes naturally at Year 4,238. The first anniversary dialogue belongs to the post-Cycle era.
 The record continues to **Year 4,238**, the Dawn Initiative era. Zyrak remains active unless a later source states otherwise.
 
 ---

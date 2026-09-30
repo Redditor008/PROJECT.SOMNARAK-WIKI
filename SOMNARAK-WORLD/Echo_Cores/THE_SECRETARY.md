@@ -515,7 +515,7 @@ The end of the Cycle frees Seiyon from repetition but leaves her with all the me
 
 #### Overview
 
-In Year 4,233, the **Memory Archive** awakens beneath the Alpha Tree. It is an ancient living structure, approximately four thousand years old, that consumes visitors and preserves their identities as stories.
+In Year 4,238, the **Memory Archive** awakens beneath the Alpha Tree. It is an ancient living structure, approximately four thousand years old, that consumes visitors and preserves their identities as stories.
 
 The Archive is not a conventional library and not a simple machine. It is a Sorrow Entity of unprecedented scale whose architecture makes memory physical:
 
@@ -1193,7 +1193,7 @@ Seiyon appears across **four** primary Somnarak stories and operations:
 | **Early R.D.** | Administrative AI connects to the Alpha Tree and becomes accidentally sentient |
 | **Cycle Era** | Echo-Core 2; remembers and records all 1,778 Cycles |
 | **Final Cycle** | Identifies unprecedented deviations and helps redesign the Absolvohan as a dispersed Hand |
-| **Year 4,233 / Memory Archive** | Protagonist of the Readings, Realizations, confrontation, Merge, and Promise |
+| **Year 4,238 / Memory Archive** | Protagonist of the Readings, Realizations, confrontation, Merge, and Promise |
 | **Year 4,238 / Dawn Initiative** | Central conscience of the Dawn Initiative |
 
 ---
@@ -1257,7 +1257,7 @@ The exact date when the R.D. built or assigned the physical Effigy is not record
 The Alpha Tree sorrow fragment and the Memory Archive Original are connected but distinct:
 
 - the **fragment** catalyzes Seiyon's sentience;
-- the **Archive continuity** preserves the fuller human life later encountered in Year 4,233.
+- the **Archive continuity** preserves the fuller human life later encountered in Year 4,238.
 
 This distinction explains why Seiyon can resemble and emotionally echo the Original without initially knowing her biography.
 
@@ -1289,7 +1289,7 @@ Seiyon carries the Original's love and memories but is not automatically restore
 
 ### Memory Archive Dating
 
-The Memory Archive operation occurs in **Year 4,233**, after the Hand of Hope and the end of the Cycle. Labels such as `4233+6`, `4233+7`, and `4233+8` are treated as operation-stage or floor progression markers, not six to eight additional calendar years. The **Dawn Initiative** is founded in **Year 4,238**.
+The Memory Archive operation occurs in **Year 4,238**, after the Hand of Hope and the end of the Cycle. Labels such as `4238+6`, `4238+7`, and `4238+8` are treated as operation-stage or floor progression markers, not six to eight additional calendar years. The **Dawn Initiative** is founded in **Year 4,238**.
 
 ### Reading Names
 

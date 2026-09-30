@@ -10,7 +10,7 @@
 +----------------------+-----------------------+
 | Classification       | LEVEL 5 / EYES ONLY   |
 +----------------------+-----------------------+
-| Epoch                | Year 4,232+1,778      |
+| Epoch                | Year 4,232 + 1,778 cycles → 4,238 |
 +----------------------+-----------------------+
 | Final Status         | Transmutation Complete|
 +======================+=======================+
@@ -49,7 +49,7 @@ The **Absolvohan** represents the radical antithesis of municipal fatalism:
 +----------------------+-----------------------+
 | Cause of Lock        | Mnemonic Generator    |
 +----------------------+-----------------------+
-| Post-Loop Calender   | Year 4,233 (Advancing)|
+| Post-Loop Calender   | Year 4,238 (Advancing)|
 +======================+=======================+
 ```
 
@@ -228,7 +228,7 @@ When the Absolvohan fires on Day 365, the Hand of Hope opens:
 6. **Part 6 (`Part_6_Days_101_to_121.md`):** Days 101–121 — The Maw speaks directly to the Echo-Cores; facility-wide panic and Ayshuk's analytical null-space observations.
 7. **Part 7 (`Part_7_Days_125_to_145.md`):** Days 125–145 — Ominous Maw silence, mid-year threshold preparation, and M.A.W. resonance anomalies.
 8. **Part 8 (`Part_8_Days_149_to_177.md`):** Days 149–177 — Majin modifies the Absolvohan, authorizes the Day 160 secret release of 49.8 tons into Zone B, and repels Council intervention.
-9. **Part 9 (`Part_9_Days_350_to_365.md`):** Days 350–365 & Epilogue — All entities fall quiet; the 12th blessing of the Kind Healer manifests the Hand of Hope; the 1,778-cycle loop breaks into Year 4,233.
+9. **Part 9 (`Part_9_Days_350_to_365.md`):** Days 350–365 & Epilogue — All entities fall quiet; the 12th blessing of the Kind Healer manifests the Hand of Hope; the 1,778-cycle loop breaks into Year 4,238.
 
 ### Narrative Bridge: Days 178–349 ("The Quiet Season" / 침묵의 계절 — Chimmuk-ui Gyejeol)
 The chronological narrative intentionally transitions from Day 177 directly to Day 350 across a 171-day operational window designated **The Quiet Season**:

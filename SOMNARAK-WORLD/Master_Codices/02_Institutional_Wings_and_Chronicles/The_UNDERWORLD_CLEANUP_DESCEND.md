@@ -475,22 +475,22 @@ The complete sweep of the six anti-Fray operations is chronicled in the dedicate
 
 ---
 
-## Section XI: Chronological Timeline & The Dawn Horizon (Year 4,180 to 4,247)
+## Section XI: Chronological Timeline & The Dawn Horizon (Year 3,970 to 4,247)
 
 ```text
 +=====================================================================+
 |              THE UNDERWORLD CLEANUP DESCEND CHRONOLOGY              |
 +---------------------------------------------------------------------+
-| YEAR 4,180 : The Mantle Riots in Zone D; municipal Wardens routed.  |
-| YEAR 4,182 : High Council passes Executive Order 108; UCD founded.  |
-| YEAR 4,185 : Commander Taeho appointed Supreme Commander of UCD.    |
-| YEAR 4,198 : Construction of Central Warden Citadel completed in    |
+| YEAR 3,970 : The Mantle Riots in Zone D; municipal Wardens routed.  |
+| YEAR 3,972 : High Council passes Executive Order 108; UCD founded.  |
+| YEAR 3,975 : Commander Taeho appointed Supreme Commander of UCD.    |
+| YEAR 3,988 : Construction of Central Warden Citadel completed in    |
 | Zone D.                                                             |
-| YEAR 4,232 : Absolvohan fires; 15% sorrow converted to Hope.        |
-| YEAR 4,233 : The Katharcheok Campaign executed; Operations 1 to 6   |
+| YEAR 4,039 : The Katharcheok Campaign executed; Operations 1 to 6   |
 | won.                                                                |
-| YEAR 4,234 : The Raw reorganized into Municipal Protection          |
+| YEAR 4,040 : The Raw reorganized into Municipal Protection          |
 | Districts.                                                          |
+| YEAR 4,238 : Absolvohan fires; 15% sorrow converted to Hope.        |
 | YEAR 4,247 : Dawn Initiative reaches 45% Transmutation; syndicates  |
 | extinct.                                                            |
 +=====================================================================+

@@ -308,7 +308,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Clapperless (C-IIβ-340 [D]) is logged as a Object-Void manifestation expressing Void. The Bell formed from warnings that never sounded. Held at SECTOR-A-01, near the Orphaned Bell. It never rings through ordinary force.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its vibration is felt through the hand.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -428,5 +428,5 @@ Some sorrows are about cruelty. Clapperless is about the gap between form and fu
 
 **Document ID:** SE-C-IIβ-340
 **Author:** Archive Lead Marjuk
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

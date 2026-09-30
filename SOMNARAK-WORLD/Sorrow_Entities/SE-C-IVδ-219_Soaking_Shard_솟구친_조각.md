@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Soaking Shard (C-IVδ-219 [LO]) is logged as a Object-Void manifestation expressing Lament. The Shard formed when crystallized sorrow broke open and began flowing again. Held at Zone A, Alpha Tree vault. The Shard's tears are warm despite its crystal body.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows more active during the Sorrow Tide.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -419,5 +419,5 @@ Some sorrows are about open wounds. Soaking Shard is about a wound that was clos
 
 **Document ID:** SE-C-IVδ-219
 **Author:** Researcher Euncris Park
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Classified

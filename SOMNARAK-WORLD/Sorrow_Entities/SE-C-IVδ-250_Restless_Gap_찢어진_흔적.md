@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight. The Trace formed from a life broken into disconnected pieces. Held at Zone D, Mantle Commons. The entity creates discontinuity rather than ordinary destruction.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Mantle Commons, leaving gaps in memory. Personnel lose continuity between thoughts, places, and identities. Personnel report longing for memories they cannot identify.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -386,5 +386,5 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 
 **Document ID:** SE-C-IVδ-250
 **Author:** Archive Lead Marjuk
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Classified

@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Carrying Nothing (C-IIβ-357 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The entity formed from a burden that was removed without being resolved. Held at Zone A, Alpha Tree vault. It stands near sealed archives and forgotten vaults.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through the Alpha Tree vaults, waiting beside sealed records. Personnel feel a burden they cannot identify. The fire brightens when personnel claim nothing was lost.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -388,5 +388,5 @@ Some sorrows are heavy. Carrying Nothing is the opposite — the sorrow of a lig
 
 **Document ID:** SE-C-IIβ-357
 **Author:** Auditor Yuna
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

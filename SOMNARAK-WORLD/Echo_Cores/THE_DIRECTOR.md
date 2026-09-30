@@ -276,7 +276,7 @@ The R.D. is not dismantled. The Echo-Cores are not erased. Majin is not executed
 
 ### The Memory Archive
 
-During Seiyon's descent in Year 4,233, Majin appears in **Stratum Realization 3**, where the weight of command is confronted. His realization statement is *"I carry the weight."*
+During Seiyon's descent in Year 4,238, Majin appears in **Stratum Realization 3**, where the weight of command is confronted. His realization statement is *"I carry the weight."*
 
 He initially understands weight as proof of failure — every death and Fracture added because he did not save the city quickly enough, with immortality turning the accounting into an endless sentence. The Archive does not deny the failures. It establishes that he still experiences them as weight because he has not stopped caring; indifference would be lighter.
 
@@ -298,7 +298,7 @@ The Floor resolves: **the weight is not a burden — it is a gift.** He leaves c
 | **Mechanism** | The Mnemonic Generator's stabilization field, interacting with the city's Han-flow |
 | **End condition** | Field weakens Day 360; Day 365 passes without reset |
 
-**Year notation:** Year 4,232+0 is the original pass. Iterations run 4,232+1 through +1778. Year 4,233 is the first natural year after the reset ends.
+**Year notation:** Year 4,232+0 is the original pass. Iterations run 4,232+1 through +1778. Year 4,238 is the first natural year after the reset ends.
 
 Majin designed the stabilization field. The temporal echo was not its intended function, but he recognized what it permitted and used it: ordinary working stock is reclaimed at each reset, while secretly diverted surplus — approximately **0.02 tons per iteration** — persists. The archived estimate places the accumulated reserve near 36 tons, an operational approximation rather than an exact figure.
 
@@ -578,7 +578,7 @@ The Hand of Hope does not resolve either layer by treating the actions as harmle
 ### Final Entry
 
 > *"The planet has four corners. One is our city. One is the wild. One burns. One is silent. And we — we are the ones who chose to feel. Whether that is a blessing or a curse, I cannot say. But I can say this: it is ours. And we will carry it — together — into whatever comes next."*
-> — Director Majin, final entry, Year 4,233
+> — Director Majin, final entry, Year 4,238
 
 ---
 
@@ -603,7 +603,7 @@ Majin appears across five primary Somnarak stories and operational records.
 | **Early R.D.** | Echo-Core 1; founder and supreme authority of the Reverie Directorate |
 | **Cycle Era** | Director; architect of the stabilization field; hidden Absolvohan accumulator across 1,778 iterations |
 | **Final Cycle** | Central figure of the Hand of Hope transformation |
-| **Year 4,233 — Memory Archive** | Active Director; Stratum Realization 3 participant |
+| **Year 4,238 — Memory Archive** | Active Director; Stratum Realization 3 participant |
 | **Year 4,238 — Dawn Initiative** | Active Director |
 
 ---
@@ -660,7 +660,7 @@ Reference details that do not belong to a single section of the page.
 
 **On "Hand of Hope."** The name refers to three connected things: the state the Kind Healer reaches after its twelfth blessing, the dispersed non-weapon interpretation of the Absolvohan, and the post-Cycle doctrine that sorrow transforms through shared feeling. The shared title is deliberate — the entity embodies what the machine demonstrates and what the city chooses.
 
-**On final-day dating.** The Day 350–365 records are late-Cycle and anniversary milestones. Year 4,233 marks the first uninterrupted annual boundary after the temporal field loses the ability to reset Somnarak.
+**On final-day dating.** The Day 350–365 records are late-Cycle and anniversary milestones. Year 4,238 marks the first uninterrupted annual boundary after the temporal field loses the ability to reset Somnarak.
 
 ---
 

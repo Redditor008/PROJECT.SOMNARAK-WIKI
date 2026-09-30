@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Pandora's Jar (N-IVδ-967 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the grief of a relic erased from history. Held at The Desolate — mobile. The entity is mobile and has no fixed containment route.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the Desolate following traces of the vanished object. Personnel feel the weight of lost history and burning resentment. It reacts violently to claims that the relic never existed.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -386,5 +386,5 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 
 **Document ID:** SE-N-IVδ-967
 **Author:** Sentinel Harin
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

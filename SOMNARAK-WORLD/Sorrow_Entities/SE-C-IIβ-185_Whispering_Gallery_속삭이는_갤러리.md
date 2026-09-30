@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Whispering Gallery (C-IIβ-185 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Gallery formed from lives displayed without being remembered. Held at SECTOR-B-01, Zone B. Portraits change when a forgotten name is restored.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The floor hums near older memories.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -394,5 +394,5 @@ Some sorrows mourn the forgotten. Whispering Gallery mourns the half-remembered 
 
 **Document ID:** SE-C-IIβ-185
 **Author:** Specialist Haneulash Yoon
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

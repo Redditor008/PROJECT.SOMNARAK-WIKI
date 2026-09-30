@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Fading Whisper (N-IIIγ-407 [N]) is logged as a Subject-Grudge manifestation expressing Void. The Whisper formed from a place erased from one person's memory. Held at Zone A, Alpha Tree. The figure fades after every completed sentence.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Alpha Tree corridors and memory spaces. Personnel feel longing for places they cannot identify. It becomes stronger when someone denies the missing place.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -381,5 +381,5 @@ Some sorrows are about losing memory. Fading Whisper is about the place the memo
 
 **Document ID:** SE-N-IIIγ-407
 **Author:** Archive Lead Marjuk
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

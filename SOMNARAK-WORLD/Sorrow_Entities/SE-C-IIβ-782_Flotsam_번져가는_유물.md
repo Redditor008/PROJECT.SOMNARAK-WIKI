@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Flotsam (C-IIβ-782 [GS]) is logged as a Subject-Weight manifestation expressing Grudge. The Relic formed from a treasured object becoming meaningless over time. Held at Zone B, Old Lament. It spreads from object to object through emotional association.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through old objects and household memories. Personnel feel objects becoming emotionally meaningless. It burns without damaging material.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -388,5 +388,5 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 
 **Document ID:** SE-C-IIβ-782
 **Author:** Archive Lead Marjuk
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

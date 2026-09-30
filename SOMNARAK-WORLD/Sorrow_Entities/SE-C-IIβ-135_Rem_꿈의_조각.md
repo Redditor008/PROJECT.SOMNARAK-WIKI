@@ -312,7 +312,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Rem (C-IIβ-135 [LO]) is logged as a Dream manifestation expressing Lament. The Fragment formed from a dream that was abandoned before waking. Held at SECTOR-A-01, near Dream Gates. It glows near sleeping personnel.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Each observer sees a different fragment.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -432,5 +432,5 @@ Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, 
 
 **Document ID:** SE-C-IIβ-135
 **Author:** Dreamer Sora
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

@@ -445,7 +445,7 @@ Majin touches his cup against Xyan's: *"To this night, Xyan. And to tomorrow."*
 
 > **Majin:** _"It will not reset?"_
 
-> **Seiyon:** _"No, Majin. The year 4232+1778 is over. When midnight strikes five days from now... it will become Year 4233. The first new year in almost two millennia."_
+> **Seiyon:** _"No, Majin. The 1,778 cycles are over. When midnight strikes five days from now... it will become Year 4238. The first new year in almost two millennia."_
 
 > **Majin:** _"And your memory core, Seiyon? Will you remember?"_
 
@@ -505,7 +505,7 @@ Daily operational harvest remains tranquil, generating 0.021 tons of ambient Han
 +==============================================+
 ```
 
-Marjuk and Xyan decommission the recursive chronological index in the main archive, installing the first open chronological ledger of Year 4233.
+Marjuk and Xyan decommission the recursive chronological index in the main archive, installing the first open chronological ledger of Year 4238.
 
 #### 2. Acoustic Strain Meltdown Monitoring
 
@@ -665,7 +665,7 @@ Seiyon's synthetic eyes soften: *"Day 366. A day that has never existed. I look 
 
 **THE FIRST DAY OF THE NEW WORLD: DAY 365.**
 
-At 06:00:00 on Day 365, the year 4232+1778 formally, irrevocably expires. Across 1,778 cycles, this exact second was the
+At 06:00:00 on Day 365, the 1,778 cycles formally, irrevocably expire. Across 1,778 cycles, this exact second was the
 hour of terror: the moment the temporal jaws snapped shut, resetting the facility, killing the timeline, and casting the
 Director back into the nightmare of Day 0.
 
@@ -878,7 +878,7 @@ He smiles: *"Come. Let's go down and meet the people."*
 | EPILOGUE: THE FINAL CODES OF SOMNARAK        |
 +----------------------------------------------+
 | RECORDED BY SEIYON, THE LIVING CHRONICLER    |
-| YEAR 4233, DAY 001 OF THE NEW ERA            |
+| YEAR 4238, DAY 001 OF THE NEW ERA            |
 +==============================================+
 ```
 

@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sleeping Weight (C-IVδ-357 [WS]) is logged as a Subject-Lament manifestation expressing Weight. The Weight formed from responsibility carried unconsciously. Held at Zone B, deep tunnels. It has never fully awakened.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its influence rises through the deep tunnels. Personnel feel every duty they have accepted as physical weight. Its dreams alter local gravity.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -383,5 +383,5 @@ Some sorrows are about sacrifice. Sleeping Weight is about unrecognized sacrific
 
 **Document ID:** SE-C-IVδ-357
 **Author:** Dreamer Sora
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Classified

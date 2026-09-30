@@ -603,14 +603,14 @@ Dekan is the consistent listener across all six stages.
 | **170** | The Three Birds become a Hope Entity born partly from the Maw's song. | Confirms that the thousand's final expression contributes to change beyond their own release. |
 | **177** | The R.D. reveals the truth about the Cheongula, Maw, thousand, Cycle, and Absolvohan. | The secret Dekan carried becomes public history rather than private testimony. |
 
-#### Phase V — Protective Hospitality (Days 350–365 / Year 4,233)
+#### Phase V — Protective Hospitality (Days 350–365 / Year 4,238)
 
 | Time | Development | Character Effect |
 |---:|---|---|
 | **Day 350 record** | Dekan reports that the entities are calm, walking through the facility, speaking with personnel, and sharing stories. | He replaces the language of prisoners with visitors and guests. |
 | **Day 360 record** | The Cycle ends; the Echo-Cores persist and the city embraces the R.D. | Dekan's office gains a future not defined by repeating the same containment year. |
-| **Year 4,233 anniversary** | Dekan asks what comes next now that the Maw is quiet and the facility stable. | His question shifts from identity under the Maw to chosen purpose after the Maw's release. |
-| **Year 4,233 anniversary** | Majin answers that entities are family and containment should protect rather than imprison. | Supplies the doctrine under which Dekan continues as Containment Lead. |
+| **Year 4,238 anniversary** | Dekan asks what comes next now that the Maw is quiet and the facility stable. | His question shifts from identity under the Maw to chosen purpose after the Maw's release. |
+| **Year 4,238 anniversary** | Majin answers that entities are family and containment should protect rather than imprison. | Supplies the doctrine under which Dekan continues as Containment Lead. |
 
 ---
 
@@ -638,7 +638,7 @@ Dekan has **no direct recorded appearance** in _The Memory Archive_ operation. H
 
 ### Chronological Status
 
-The Memory Archive awakens in Year 4,233, after the Cycle ends and after Dekan's Day 365 anniversary dialogue. At that point, Dekan is still active as Containment Lead, the Maw is peaceful, and Floor 2 has shifted toward protective hospitality.
+The Memory Archive awakens in Year 4,238, after the Cycle ends and after Dekan's Day 365 anniversary dialogue. At that point, Dekan is still active as Containment Lead, the Maw is peaceful, and Floor 2 has shifted toward protective hospitality.
 
 No source records an off-page Archive assignment for him.
 
@@ -1214,7 +1214,7 @@ Dekan has no direct recorded appearance in _The Memory Archive_. The Forgotten S
 | **Early R.D.** | Born c. Year 4,194; loses his Warden mother at seven; grows up alongside `SECTOR-B-01` after the R.D. is founded; later survives partial Maw-merger and is promoted |
 | **Cycle Era** | Echo-Core 3; Containment Lead of Floor 2; partially aware of repetition through the Maw |
 | **Final Cycle** | Translates the thousand's request, Lament, song, disappearance, and the Maw's peace |
-| **Year 4,233 / Memory Archive** | Active at station; no direct Archive progression or appearance recorded |
+| **Year 4,238 / Memory Archive** | Active at station; no direct Archive progression or appearance recorded |
 | **Year 4,238 / Dawn Initiative** | Active Containment Lead in the Dawn Initiative era |
 
 ---
@@ -1275,7 +1275,7 @@ The Profile's Korean field retains the canonical office value **감금 책임자
 
 The approximate Years **4,194** and **4,201** are derived by reading the Year 4,232 present, Dekan's fixed apparent age of thirty-eight, and his age of seven at his mother's loss together. They provide a coherent working chronology but remain approximate.
 
-_Project Somnarak_ also includes breach-statistics examples dated **Year 4,301** for an Orphaned Bell escape and **Year 4,892** for a catastrophic Maw Corrupt event. Because both dates are later than the controlling Year 4,232 final Cycle and the established Year 4,233 / Year 4,238 follow-ups, the record does not insert them into Dekan's pre-Cycle biography. They remain forward-dated operations, system examples, or continuity-uncertain records unless a later story places them explicitly.
+_Project Somnarak_ also includes breach-statistics examples dated **Year 4,301** for an Orphaned Bell escape and **Year 4,892** for a catastrophic Maw Corrupt event. Because both dates are later than the controlling Year 4,232 final Cycle and the established Year 4,238 post-Cycle follow-ups, the record does not insert them into Dekan's pre-Cycle biography. They remain forward-dated operations, system examples, or continuity-uncertain records unless a later story places them explicitly.
 
 The framework describes the Maw and Cheongula as approximately four millennia old while also using a Year 4,232 civic calendar. The record preserves the six-millennia narrative duration without forcing an unsupported conversion between the two dating systems.
 
@@ -1377,7 +1377,7 @@ The Archive's Forgotten Soldier does not create an off-page Dekan role. Archive 
 
 ### Final-Day Dating
 
-Days 350–365 function as late-cycle and anniversary records, with the final entry explicitly dated Year 4,233. The Year 4,233 anniversary is treated as the first real year after the reset field fades.
+Days 350–365 function as late-cycle and anniversary records, with the final entry explicitly dated Year 4,238. The Year 4,238 anniversary is treated as the first real year after the reset field fades.
 
 ---
 

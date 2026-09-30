@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Corrosion Dream (O-IIIγ-915 [VS]) is logged as a Subject-Dream manifestation expressing Void. The Bridge formed from the dream of a connection that could not be repaired. Held at Zone D, Forge District. Its song is strongest near damaged bridges and gates.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears through dreams and Forge District corridors. Personnel feel abandoned after every attempted connection. Dream-layer observation shows a complete bridge; waking observation shows only fragments.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -384,5 +384,5 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 
 **Document ID:** SE-O-IIIγ-915
 **Author:** Dreamer Sora
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

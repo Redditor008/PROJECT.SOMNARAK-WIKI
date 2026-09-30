@@ -1333,7 +1333,7 @@ The grief of millions is pumped out to power the neon spires and perimeter Veil 
 **[Middle — The Council's Demand]**
 *A pneumatic chime sounds. A gold-embossed canister drops from the municipal comm-chute, bearing the heavy wax seal of the Council of Sighs. Seiyon breaks the seal, scanning the document.*
 
-> **Secretary Seiyon:** *"The High Council has transmitted their annual commendation. Facility 01 has been awarded the 'Order of the Unbroken Spire.' They have opened the primary municipal conduits to siphon forty thousand tons into the Zone A grid. In exchange, they have allocated our operational budget for Year 4,233 and drafted sixty new recruits from the lower wards."*
+> **Secretary Seiyon:** *"The High Council has transmitted their annual commendation. Facility 01 has been awarded the 'Order of the Unbroken Spire.' They have opened the primary municipal conduits to siphon forty thousand tons into the Zone A grid. In exchange, they have allocated our operational budget for Year 4,238 and drafted sixty new recruits from the lower wards."*
 >
 > **Director Majin:** *(Looks up toward the ceiling viewports, where the neon lights of Somnarak reflect off the subterranean glass)* *"And the Transmutation Chamber? What is the reading on the core?"*
 >
@@ -1630,14 +1630,14 @@ The supercritical Han reaches absolute thermodynamic compression. Under the harm
 >
 > **Director Majin:** *(Wraps his arm around her, feeling the steady, rhythmic beat of her human heart against his chest)* *"I promised you that sorrow would not have the final word in this city. It took seventeen hundred years... but the morning has finally kept its word."*
 
-**[End / Stop — The Dawn of Year 4,233]**
+**[End / Stop — The Dawn of Year 4,238]**
 *Mellda picks up her broken greatsword, smiling as wild morning glory vines begin to weave around the steel hilt, anchoring it peacefully into the earth.*
 
 > **Mellda:** *"What do we do now, Director? There are no work dispatches. There are no quotas to fulfill."*
 >
 > **Secretary Seiyon:** *(Smiles, looking at Majin with eyes full of light)* *"The clock has stopped ticking, Majin. What day is today?"*
 >
-> **Director Majin:** *(Takes a deep breath of the clean, morning air, smiling for the first time in an eternity)* *"It isn't Day 366. It isn't Day Zero. It is the first day of Year 4,233. Come... let us go meet our city."*
+> **Director Majin:** *(Takes a deep breath of the clean, morning air, smiling for the first time in an eternity)* *"It isn't Day 366. It isn't Day Zero. It is the first day of Year 4,238. Come... let us go meet our city."*
 
 ---
 
@@ -1705,7 +1705,7 @@ The supercritical Han reaches absolute thermodynamic compression. Under the harm
 
 > **Dekan:** *(His voice booming with warm, paternal authority)* *"To all specialists of Floor 2, Floor 4, Floor 6, and beyond! Your shifts are officially over. The facility has fulfilled its vow. You don't have to train for the dark anymore. Today, your only assignment... is to go home to your families. Containment Cadre... DISMISSED!"*
 >
-> *(The specialists erupt into a deafening cheer that echoes across the blooming plains, their laughter carrying forward into the heart of the newly awakened city as the bells of Year 4,233 ring out.)*
+> *(The specialists erupt into a deafening cheer that echoes across the blooming plains, their laughter carrying forward into the heart of the newly awakened city as the bells of Year 4,238 ring out.)*
 
 ---
 

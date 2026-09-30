@@ -39,13 +39,19 @@ for pat in search_patterns:
 # Deduplicate and filter out git, tools, and reference documentation
 clean_files = []
 for f in sorted(list(set(all_files))):
-    if ".git" in f or "tools/" in f or "REFERENCE_SOMNARAK_WIKI" in f or "CHANGELOG" in f:
+    if ".git" in f or "tools/" in f or "REFERENCE_SOMNARAK_WIKI" in f or "CHANGELOG" in f or "INTEGRITY_AND_LORE_REVIEW" in f:
         continue
     clean_files.append(f)
 
 p_year = re.compile(r'\bYear\s+(\d{4})\b')
 p_year_comma = re.compile(r'\bYears?\s+(\d),(\d{3})\b')
 p_cycles_ago = re.compile(r'(\d+)\s+cycles\s+ago', re.IGNORECASE)
+# V5-11: loop-end / Hand-of-Hope must be Year 4,238; SED/UCD campaigns must predate 4,201
+p_loop_end_year = re.compile(r'\bYears?\s+4,?23[23]\b(?!\s*\+)|(?<![\d+])4,?23[23](?!\s*\+)(?!\d)')
+p_loop_end_trig = re.compile(r'Hand of Hope|Absolvohan fires|loop (ends|end|breaks|break|terminates|terminated)|\bDawn\b')
+p_sed_ucd = re.compile(r'SED|UCD|Katabagil|Katharcheok')
+p_campaign = re.compile(r'campaign|descent|operation|purge|expedition|offensive', re.IGNORECASE)
+p_any_year = re.compile(r'\b4,?(\d{3})\b')
 
 for f in clean_files:
     if "CANON_TIMELINE.md" in f or "banned_strings" in f:
@@ -74,6 +80,19 @@ for f in clean_files:
                 # check if line matches whitelist
                 if not any(wp.search(line) for wp in WHITELIST_PATTERNS):
                     errors.append(f"{f}:{line_num} -> F1 Violation: Year {y} exceeds Year {WINDOW_END} window: '{line.strip()}'")
+
+        # V5-11 checks run per sentence segment (never split box-row ' : ' cells)
+        segments = re.split(r'\||;\s*|\.\s+|\!\s+|\?\s+', line)
+        # Check C1: loop-end / Hand-of-Hope language pinned to Year 4,232/4,233
+        if any(p_loop_end_year.search(sg) and p_loop_end_trig.search(sg) for sg in segments):
+            errors.append(f"{f}:{line_num} -> C1 Violation: loop-end/Hand/Dawn language must use Year 4,238, not 4,232/4,233: '{line.strip()[:120]}'")
+        # Check C2: SED/UCD campaigns dated after Year 4,200
+        if any(p_sed_ucd.search(sg) and p_campaign.search(sg) for sg in segments):
+            for ym in p_any_year.finditer(line):
+                yy = 4000 + int(ym.group(1))
+                if 4200 < yy <= 4299:
+                    errors.append(f"{f}:{line_num} -> C2 Violation: SED/UCD campaign year {yy} is after Year 4,200: '{line.strip()[:120]}'")
+                    break
 
         # Check relative cycle math in text: "X cycles ago"
         m_cyc = p_cycles_ago.search(line)

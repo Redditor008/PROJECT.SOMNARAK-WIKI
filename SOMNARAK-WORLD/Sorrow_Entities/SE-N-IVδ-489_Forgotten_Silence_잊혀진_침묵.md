@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Silence (N-IVδ-489 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The entity formed from silence that was forgotten even by those who created it. Held at Zone C, Mask Market. The entity glows during the Sorrow Tide.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in dreams, reflective surfaces, and the Mask Market. Personnel lose access to words they were about to speak. It cannot be recorded reliably by audio equipment.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -384,5 +384,5 @@ Some sorrows are about truth suppressed. Forgotten Silence is about suppression 
 
 **Document ID:** SE-N-IVδ-489
 **Author:** Dreamer Sora
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

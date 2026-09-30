@@ -2986,7 +2986,7 @@ At the completion of the 1,778th iteration in Year 4,238 MMSS, the Absolvohan ac
 - Year 4232+1 = the first confirmed loop — the year the Directorate confirmed the repetition; iterations are counted from here
 - Year 4232+1778 = the current cycle
 - Total iterations: 1,778 (4232+1 through 4232+1778)
-- After the final iteration, the calendar resumes naturally — the next year is **Year 4233**, the first time the calendar advances since Year 4232 began repeating. Post-Cycle dates are written as ordinary years: 4233, 4234, 4235, and so on.
+- After the final iteration, the calendar resumes naturally — the next year is **Year 4238**, the first time the calendar advances since Year 4232 began repeating. Post-Cycle dates are written as ordinary years: 4238, 4234, 4235, and so on.
 
 **The 100% Condition:**
 - The cycle will break when the Absolvohan reaches **100% concentration** or **100 tons of Han-crystal**
@@ -3043,7 +3043,7 @@ The Secretary does not tell the Director how tired they are. The Secretary does 
 
 Incident Reports document the times when The Hand of Change failed — when entities breached, when Ordeals struck, when personnel Fractured, when the facility itself was tested.
 
-> **Dating note:** Cycle-era incidents are dated by Cycle iteration — Year 4232+X (X = 0–1778). Post-Cycle incidents are dated by the natural calendar, resuming at **Year 4233**. Per the return-to-Weeping law, dissolved Sorrow patterns may re-crystallize; Transformation-chain events can therefore recur in the post-Cycle era.
+> **Dating note:** Cycle-era incidents are dated by Cycle iteration — Year 4232+X (X = 0–1778). Post-Cycle incidents are dated by the natural calendar, resuming at **Year 4238**. Per the return-to-Weeping law, dissolved Sorrow patterns may re-crystallize; Transformation-chain events can therefore recur in the post-Cycle era.
 
 ---
 

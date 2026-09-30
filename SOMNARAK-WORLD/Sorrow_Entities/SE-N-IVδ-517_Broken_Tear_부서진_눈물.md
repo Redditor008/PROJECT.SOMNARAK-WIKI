@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Tear (N-IVδ-517 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Tear formed from grief interrupted before it could complete its release. Held at Zone A, Alpha Tree vault. The crying has no measurable acoustic source.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in dreams and Alpha Tree reflections. Personnel hear crying and experience another person's loss. The figure fractures when exposed to false comfort.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -384,5 +384,5 @@ Some sorrows mourn a loss. Broken Tear mourns the mourning itself — the grief 
 
 **Document ID:** SE-N-IVδ-517
 **Author:** Dreamer Sora
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Classified

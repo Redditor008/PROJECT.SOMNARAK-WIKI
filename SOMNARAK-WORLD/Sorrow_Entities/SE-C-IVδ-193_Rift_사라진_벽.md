@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Rift (C-IVδ-193 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Wall formed from a boundary removed without healing the separation it caused. Held at Zone B, Old Lament — ambient. The Wall has no physical material.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its pressure increases when people deny the district's history.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -397,5 +397,5 @@ Some sorrows are about barriers built. Rift is about a barrier removed — the w
 
 **Document ID:** SE-C-IVδ-193
 **Author:** Archive Lead Marjuk
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Classified

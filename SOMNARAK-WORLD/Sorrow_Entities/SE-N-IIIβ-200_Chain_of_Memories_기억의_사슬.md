@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Chain of Memories (N-IIIβ-200 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Chain formed from memories passed through families and communities. Held at SECTOR-C-01, Collector's Row. The Chain grows when a memory is deliberately preserved.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes heavier when someone denies a link's owner.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -417,5 +417,5 @@ Some sorrows are about forgetting. Chain of Memories is about remembering too mu
 
 **Document ID:** SE-N-IIIβ-200
 **Author:** Auditor Yuna
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

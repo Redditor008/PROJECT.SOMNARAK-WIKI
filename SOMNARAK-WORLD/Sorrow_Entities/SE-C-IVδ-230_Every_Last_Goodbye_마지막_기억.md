@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void. The entity formed from final moments that had no witness. Held at SECTOR-A-01, Alpha Tree deep vault. It holds every recorded death and many unrecorded ones.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its memories spread through the Alpha Tree vault. Personnel experience the final moments of the dead and glimpse their own. It communicates through feeling rather than speech.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -387,5 +387,5 @@ Some sorrows mourn the dead. Every Last Goodbye mourns the moment of dying — t
 
 **Document ID:** SE-C-IVδ-230
 **Author:** Archive Lead Marjuk
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Echo-Core Eyes Only

@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Nemo (N-IIIγ-589 [D]) is logged as a Subject-Lament manifestation expressing Lament. The Soul formed from someone who returned after everyone had forgotten them. Held at Zone A, Alpha Tree. It returns after every apparent disappearance.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears at thresholds and returns to old rooms. Personnel feel forgotten by people they love. Its tears carry individual names.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -383,5 +383,5 @@ Some sorrows mourn exile. Nemo mourns the return — the homecoming to a world t
 
 **Document ID:** SE-N-IIIγ-589
 **Author:** Archive Lead Marjuk
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

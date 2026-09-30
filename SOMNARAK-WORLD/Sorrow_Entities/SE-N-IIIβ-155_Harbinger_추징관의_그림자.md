@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Harbinger (N-IIIβ-155 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Shadow formed from fear of collection. Held at Zone C, Collector's Row — ambient. It follows debtors throughout Collector's Row.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads by attaching to personnel with heavy debt. Subjects feel watched and carry constant anxiety. It is not physically hostile.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -383,5 +383,5 @@ Some sorrows are about the debt. Harbinger is about the dread of the debt — th
 
 **Document ID:** SE-N-IIIβ-155
 **Author:** Dreamer Sora
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

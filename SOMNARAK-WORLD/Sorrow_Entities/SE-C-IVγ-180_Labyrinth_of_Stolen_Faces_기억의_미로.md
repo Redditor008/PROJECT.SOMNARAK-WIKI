@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Labyrinth of Stolen Faces (C-IVγ-180 [VP]) is logged as a Place-Void manifestation expressing Void. The Maze formed from confusion between memory, dream, and reality. Held at SECTOR-B-02, beneath Old Lament. Walls are made from memories rather than stone.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 No two routes remain identical.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -398,5 +398,5 @@ Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite —
 
 **Document ID:** SE-C-IVγ-180
 **Author:** Dreamer Sora
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Classified

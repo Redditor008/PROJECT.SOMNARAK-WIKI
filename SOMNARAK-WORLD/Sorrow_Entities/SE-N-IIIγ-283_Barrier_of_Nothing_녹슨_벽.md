@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Barrier of Nothing (N-IIIγ-283 [WS]) is logged as a Subject-Dream manifestation expressing Weight. The Wall formed from the sorrow of people who were separated by exclusion. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in dreams of personnel near the Gate. Personnel feel trapped between belonging and exile. It does not physically obstruct passage.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -385,5 +385,5 @@ Some sorrows are about exclusion. Barrier of Nothing is about the exclusion that
 
 **Document ID:** SE-N-IIIγ-283
 **Author:** Dreamer Sora
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

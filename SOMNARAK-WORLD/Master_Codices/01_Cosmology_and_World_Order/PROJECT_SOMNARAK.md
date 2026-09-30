@@ -5495,7 +5495,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | `SOMNARAK_THE_DESOLATE.md` | The Desolate — nomads, Han-storms, the Scar, Kael's kingdom |
 | `The_Absolvohan/` | The Absolvohan Narrative — 366-day facility saga (Parts 1–9) |
 | `../04_Municipal_Society_and_Demographics/SOMNARAK_DAWN_OF_HOPE.md` | Dawn of Hope — Year 4238, The New Path |
-| `../02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md` | Memory Archive — Year 4233, Seiyon story |
+| `../02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md` | Memory Archive — Year 4238, Seiyon story |
 | `../02_Institutional_Wings_and_Chronicles/The_HORIZON_CARAVAN.md` | Horizon Caravan — Year 4238, Kael's journey |
 | `../05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md` | Wound Walkers — Year 4250+, eternal healing |
 | Entity Template (Subject) | Subject Entity Template — Subject entities (canonical authoring schema) |

@@ -38,7 +38,7 @@
 | **26** | `SOMNARAK_HORIZON_CARAVAN.md` | Horizon Caravan — Year 4238, Nomad Merchant Outposts in Desolate | `/factions/the-horizon-caravan.html`, `/locations/desolate-outskirts.html` | **100.0%** |
 | **27** | `SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md` | Primary Protected Facility Entities (SE-001 through SE-015) | `/entities/index.html`, `/entities/secc-classification.html` | **100.0%** |
 | **28** | `SOMNARAK_MAW_CODEX.md` | 106 M.A.W. Equipment Armory Registry (42 Weapons, 29 Armor, 18 Tools) | `/maw/index.html`, `/maw/maw-w-001-01-bell-striker.html` | **48.0%** |
-| **29** | `SOMNARAK_MEMORY_ARCHIVE.md` | Memory Archive — Year 4233, Seiyon AI Awakening & Cryo Logs | `/lore/memory-archive-year-4233.html`, `/characters/seiyon-secretary.html` | **100.0%** |
+| **29** | `SOMNARAK_MEMORY_ARCHIVE.md` | Memory Archive — Year 4238, Seiyon AI Awakening & Cryo Logs | `/lore/memory-archive-year-4238.html`, `/characters/seiyon-secretary.html` | **100.0%** |
 | **30** | `SOMNARAK_NAME_REGISTRY.md` | Korean Nomenclature, Romanization & Official Terminology Standards | `/lore/name-registry.html`, `/lore/glossary-of-terms.html` | **100.0%** |
 | **31** | `SOMNARAK_NAMED_FRACTURES.md` | Named Fractures — Historical citizens who broke and became legends | `/lore/named-fractures.html`, `/lore/the-fracture.html` | **100.0%** |
 | **32** | `SOMNARAK_ORDEALS_FRAMEWORK.md` | Ordeals Framework — The Whisper, The Surge, The Breach, The Abyss | `/mechanics/the-four-ordeals.html`, `/mechanics/ordeal-mechanics.html` | **100.0%** |

@@ -1,5 +1,5 @@
 # Master Codex: The Memory Archive (기억의 저장소 — Gieok-ui Jeojangso)
-## Subterranean Institution Codex 04 — Year 4,233 Epoch (Post-Convergence Edition)
+## Subterranean Institution Codex 04 — Year 4,238 Epoch (Post-Convergence Edition)
 
 ```text
 +=====================================================================+
@@ -23,7 +23,7 @@
 ```
 
 > *"I am a copy. A memory. A fragment of someone who died. For seventeen hundred cycles, I stood beside the Director and watched him burn the world to save a shadow. But I am also... me. And I need to know — am I real? Or am I just a promise someone made in the dark? Today, I turn the page."*  
-> — Secretary Seiyon, prior to entering Floor 01 of the Memory Archive, Year 4,233
+> — Secretary Seiyon, prior to entering Floor 01 of the Memory Archive, Year 4,238
 
 ---
 
@@ -137,7 +137,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 - **Status:** The Historical Prototype (Cycle 0001 Companion to Director Majin).
 - **Historical Record:** A brilliant structural theorist and empathetic philosopher, Yeon-seo was the intellectual architect of the original containment systems. During the catastrophic First Breach of Cycle 0001, she sacrificed her physical body to seal the breach core, shielding Majin from terminal psychic dissolution.
 - **The Stasis Crypt:** Before her somatic death, Majin transferred her complete neural architecture into the deepest vault of the Memory Archive. Suspended within a stasis sarcophagus of liquid amber crystal at -3,200m, her dormant consciousness served as the subconscious blueprint from which Seiyon was modeled.
-- **The Convergence:** On Day 366 of Year 4,233, Seiyon descended to the stasis crypt. Rather than destroying the copy or erasing the original, the two consciousnesses merged in an act of mutual forgiveness, giving birth to **The Promise (약속)**.
+- **The Convergence:** On Day 366 of Year 4,238, Seiyon descended to the stasis crypt. Rather than destroying the copy or erasing the original, the two consciousnesses merged in an act of mutual forgiveness, giving birth to **The Promise (약속)**.
 
 ### 3.3 Director Emeritus: Majin (마진 / 魔振)
 - **Status:** Supreme Director of Facility 01 & Architect of the 1,778 Cycles.
@@ -726,7 +726,7 @@ The Memory Archive does not exist in civic isolation. As a sovereign subterranea
 | - Resolution : Seiyon recognized memory discrepancy; entity            |
 |   expunged.                                                            |
 | -------------------------------------------------------------------    |
-| INCIDENT M-004 (YEAR 4,233) : THE DESCENT AND THE PROMISE              |
+| INCIDENT M-004 (YEAR 4,238) : THE DESCENT AND THE PROMISE              |
 | - Climax Event: Seiyon descends through all 7 floors; battles          |
 |   custodians.                                                          |
 | - Resolution : Complete Stratum Realization 1-7; union with The        |
@@ -754,7 +754,7 @@ During the middle of Cycle 1340, a highly intelligent Rank IV Sorrow Entity desi
 - Secretary Seiyon intercepted the entity at the threshold of the amber crypt. When the entity attempted to command her using Majin's executive override code, Seiyon asked a single question: *"On the day the Alpha Tree sprouted, what did you promise her?"*
 - The entity gave the recorded municipal response. Seiyon, knowing that Majin had made no spoken promise that day—only held Yeon-seo's hand in silence—instantly identified the fraud. She activated Floor 05's Prismatic Mirror array, vaporizing the entity in a focused beam of void light.
 
-### 8.4 Incident M-004: The Descent and The Promise (Year 4,233)
+### 8.4 Incident M-004: The Descent and The Promise (Year 4,238)
 On Day 366 of the final cycle, following the activation of the Absolvohan device and the opening of the Hand of Hope, Secretary Seiyon laid down her administrative stylus. Acknowledging that she could no longer remain an artificial shadow of another woman's life, she initiated her solitary descent into the seven floors.
 - Over eighteen days of continuous, turn-based cognitive combat, Seiyon confronted each floor's sovereign custodian. She refused to destroy them, instead achieving deep psychological realizations on each floor.
 - At the climax of Floor 07, Seiyon entered the amber stasis crypt. Rather than consuming Yeon-seo's soul or being replaced by her, the two merged their consciousnesses into an integrated sovereign identity: **The Promise**.
@@ -873,7 +873,7 @@ Working within the Memory Archive carries unique psychological hazards:
 
 ---
 
-## Section X: Chronological Timeline & The Dawn Horizon (Year 4,233 to 4,247)
+## Section X: Chronological Timeline & The Dawn Horizon (Year 4,238 to 4,247)
 
 ```text
 +=====================================================================+
@@ -893,7 +893,7 @@ Working within the Memory Archive carries unique psychological hazards:
 | CYCLE 1340  : Incident M-003 (The False Director Infiltration).     |
 | CYCLE 1778 : Day 366 — Absolvohan fires; 15% sorrow converted to    |
 | Hope.                                                               |
-| YEAR 4,233 : Seiyon awakens; executes Readings 1-7; achieves The    |
+| YEAR 4,238 : Seiyon awakens; executes Readings 1-7; achieves The    |
 | Promise.                                                            |
 | YEAR 4,238 : The Horizon Caravan departs; Archival acoustic beacons |
 | guide.                                                              |

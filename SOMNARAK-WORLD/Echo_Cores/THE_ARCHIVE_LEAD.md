@@ -361,7 +361,7 @@ Marjuk remains Archive Lead because truth shared once still has to survive after
 | **Final Cycle** | He recovers Furnace evidence and reads the Founder's journal through its hidden entry | Direct _Absolvohan_ role |
 | **Day 160** | He recognizes the Founder's prediction in the transforming sorrow | Direct dialogue |
 | **Day 177** | The R.D. reveals the truths its archive helped preserve | Direct story outcome; Marjuk does not make the decision alone |
-| **Year 4,233 onward** | The first non-repeating archive record begins | Cycle chronology |
+| **Year 4,238 onward** | The first non-repeating archive record begins | Cycle chronology |
 | **Year 4,238** | He remains Archive Lead in the Dawn Initiative era | Shared current-era framework |
 
 ### Formation as a Keeper

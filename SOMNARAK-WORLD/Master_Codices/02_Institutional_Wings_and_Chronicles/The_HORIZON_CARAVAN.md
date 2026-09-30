@@ -659,7 +659,7 @@ The sorrow that saturates the Desolate is fundamentally distinct from the emotio
 | created.                                                            |
 | YEAR 4,228 : Construction of The Drift Throne begins in derelict    |
 | silo.                                                               |
-| YEAR 4,232 : Absolvohan fires; planetary atmospheric barrier        |
+| YEAR 4,238 : Absolvohan fires; planetary atmospheric barrier        |
 | softens.                                                            |
 | YEAR 4,238 : Kael returns to Somnarak; Horizon Caravan ratified.    |
 | YEAR 4,238 : Arcs 1 through 6 executed; Cheonbulok trade            |

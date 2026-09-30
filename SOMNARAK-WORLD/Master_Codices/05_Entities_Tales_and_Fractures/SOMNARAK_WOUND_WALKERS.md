@@ -245,7 +245,7 @@ The Wound Walkers operate through unique non-violent progression mechanics refle
 | Year | Event |
 |------|-------|
 | 4232+1778 | Absolvohan activates (15%) |
-| 4233 | Memory Archive — Seiyon's story |
+| 4238 | Memory Archive — Seiyon's story |
 | 4238 | Horizon Caravan — Kael's journey |
 | 4238 | Dawn Initiative — Yeonhwa's mission |
 | 4247 | Dawn achieves 45% |

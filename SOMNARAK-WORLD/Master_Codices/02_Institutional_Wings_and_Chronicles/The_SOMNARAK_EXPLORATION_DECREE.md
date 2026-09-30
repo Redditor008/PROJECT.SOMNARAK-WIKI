@@ -555,14 +555,14 @@ Expedition 89 represents the deepest reconnaissance sortie ever attempted by a c
 | invented.                                                           |
 | YEAR 3,105 : Disaster 02 (The Calcified Brigade); Hall of Watchers  |
 | sealed.                                                             |
+| YEAR 3,970 : The Katabagil Descent executed; Seven Passages         |
+| completed.                                                          |
 | YEAR 3,988 : Disaster 03 (The Abyssal Silence); Rift clearance      |
 | enacted.                                                            |
 | YEAR 4,180 : Baek Seung-Hyun appointed High Commissioner of         |
 | Exploration.                                                        |
 | YEAR 4,232 : Absolvohan activates; tectonic sorrow pressure drops   |
 | 15%.                                                                |
-| YEAR 4,233 : The Katabagil Descent executed; Seven Passages         |
-| completed.                                                          |
 | YEAR 4,247 : Dawn Initiative reaches 45% Transmutation; Nadir       |
 | charted.                                                            |
 +=====================================================================+

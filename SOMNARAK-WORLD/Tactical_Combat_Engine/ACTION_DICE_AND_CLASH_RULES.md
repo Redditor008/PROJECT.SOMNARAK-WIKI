@@ -103,7 +103,7 @@ Physical integrity as a percentage. Burns, cuts, splinters, and fractures reduce
 field binding stabilizes but does not restore. HP wounds persist between chapters until
 treated at a waystation or the surface (see the Nareumhan wound continuity).
 
-Dossier HP converts 1:1 into tactical HP: no scaling, no rank multiplier. Attested anchors: Rank IV dossiers run 600–950 by role; Rank V spans from the low hundreds (lowest attested peer 521) through four-digit multi-part totals (the Colossus’s 2,600), with Dawn-002’s 12,000 standing as a documented outlier. Multi-part bosses split their total into per-part pools (the Colossus: 600 / 500 / 500 / 1,000); each part ruptures at 60% depletion per the dual-threshold stagger engine, and parts — never the pooled total — are the damageable unit. Objectives logged with HP N/A cannot be damaged at all: resolve them only through their stated suppression or Resolve condition.
+Dossier HP converts 1:1 into tactical HP: no scaling, no rank multiplier. Attested anchors: Rank IV dossiers run 390–1,000 by role (median ~824); Rank V spans from the low hundreds (lowest attested peer 521) through four-digit multi-part totals (the Colossus’s 2,600), with Dawn-002’s 12,000 standing as a documented outlier. Multi-part bosses split their total into per-part pools (the Colossus: 600 / 500 / 500 / 1,000); each part ruptures at 60% depletion per the dual-threshold stagger engine, and parts — never the pooled total — are the damageable unit. Objectives logged with HP N/A cannot be damaged at all: resolve them only through their stated suppression or Resolve condition.
 
 ### 5.2 Mind (Composure / SP)
 

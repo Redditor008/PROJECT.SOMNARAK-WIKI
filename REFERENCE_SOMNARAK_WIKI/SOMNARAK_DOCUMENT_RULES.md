@@ -64,7 +64,7 @@ Documents are written by R.D. personnel. Use these names:
 | **Year 4232** | The Loop begins (Cycle starts) |
 | **Year 4232+0** | First loop iteration |
 | **Year 4232+1778** | Current cycle (Absolvohan activates) |
-| **Year 4233** | Memory Archive — Seiyon's story |
+| **Year 4238** | Memory Archive — Seiyon's story |
 | **Year 4238** | Dawn Initiative + Horizon Caravan |
 | **Year 4247** | Dawn achieves 45% |
 | **Year 4250+** | Wound Walkers — eternal healing |
@@ -72,12 +72,12 @@ Documents are written by R.D. personnel. Use these names:
 **Date Format:**
 - **Before the Loop:** Use specific years — Year 4202, Year 4210, Year 4225, etc.
 - **During the Loop:** Use Year 4232+X notation
-- **After the Loop:** Use specific years — Year 4233, Year 4238, etc.
+- **After the Loop:** Use specific years — Year 4238, Year 4239, etc.
 
 **Rules:**
 - Entities discovered **before the Loop** (Year 4202–4232) use specific years
 - Entities discovered **during the Loop** (Year 4232+0 to 4232+1778) use the +X notation
-- Entities discovered **after the Loop** (Year 4233+) use specific years
+- Entities discovered **after the Loop** (Year 4238+) use specific years
 - Never use real-world dates (2024, 2025, etc.)
 
 **Example Dates:**

@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Soul (O-IIIγ-233 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Soul formed from a person forgotten before their death was fully mourned. Held at Zone B, Old Lament. The face changes when a false name is offered.
 
-**Entry 2 — <Excerpt from Field Log, Year 4233>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks endlessly through Old Lament corridors. Personnel feel grief for a person they cannot identify. It becomes calmer when uncertainty is honestly acknowledged.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -384,5 +384,5 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 
 **Document ID:** SE-O-IIIγ-233
 **Author:** Archive Lead Marjuk
-**Date:** Year 4233
+**Date:** Year 4238
 **Classification:** Restricted

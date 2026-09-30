@@ -9,6 +9,12 @@ This file records notable changes to the public Somnarak Wiki.
 ## Unreleased
 
 ### Added
+- **V5 missed-fix rounds (counts, chronology, lint)** —
+  - Corrected lingering `292` counts to 291 across live docs + navigation; root README 44→49 codices, 12→16 volumes; audit baseline 35→52.
+  - Rewrote Sorrow README origin scope (City/Outside/Inner) and replaced 288 Project-Moon risk names in the entity catalog with canonical ranks.
+  - V5-1: Dawn of Mourning HP fixed at 12,000 (dossier canonical; side codex corrected from 1,200; corrects the V1 `Dawn 1,200` note above).
+  - V5-2: loop end + Hand of Hope fixed at Year 4,238; UCD/SED dates reconciled to the timeline (re-charter reading; UCD box re-based, Katabagil moved to 3,970).
+  - New lint rules: retired rank names (seam), docs/ + DEVELOPMENT.md path coverage (seam), loop-end/campaign chronology guards (timeline).
 - **V1 dossier-depth round (split record, loop semantics, epochs, HP, prose)** —
   - Split-recorded the First Tear (SE-C-Vδ-290) from the Forgotten God (SE-C-Vδ-265) in Descent 4; added loop-semantics mapping notes to both timeline copies.
   - Anchored the SED epoch (Year Zero ≡ MMSS 2460; Passage Year 38 = 2498) and disambiguated SED descents from Nareumhan Descents 1–5 in Scenario 04.
