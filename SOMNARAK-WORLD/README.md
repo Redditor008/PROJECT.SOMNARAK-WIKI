@@ -50,12 +50,12 @@ SOMNARAK-WORLD/
 │   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Tales, Named Fractures, Enemies (5 codices)
 │   └── 06_Integrity_Audits_and_Comparative_Studies/ # Comparative Integrity & System Audits (4 codices)
 │
-├── Sorrow_Entities/                    # 292 Unique Canonical Containment Dossiers & Origin Tales
+├── Sorrow_Entities/                    # 291 Unique Canonical Containment Dossiers & Origin Tales
 │   ├── README.md                       # SECC classification guide & work affinities
 │   ├── SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md
 │   ├── SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md
 │   ├── SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md
-│   └── ...                             # (292 bespoke dossiers: 159 City, 61 Outside, 72 Inner)
+│   └── ...                             # (291 bespoke dossiers: 158 City, 61 Outside, 72 Inner)
 │
 ├── Echo_Cores/                         # The Nine Departmental Directors of Facility 01
 │   ├── README.md                       # Facility 01 hierarchy and departmental roles

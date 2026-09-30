@@ -70,7 +70,7 @@ Example: `SE-O-IIIγ-1052_The_Glass_Silt_Drifter.md`
 
 ## LORE & ANOMALY NOTES
 
-{{1–2 paragraphs: why this is Unknown — not in 292 catalog, abyssal, post-cycle crystallization, abyssal biology, etc.}}
+{{1–2 paragraphs: why this is Unknown — not in 291 catalog, abyssal, post-cycle crystallization, abyssal biology, etc.}}
 ~~~
 
 ---

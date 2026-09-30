@@ -45,7 +45,7 @@ Its Lament field washes over the party like warm water after the shaft's cold: +
 
 ## Chapter III: The Veil Between
 
-The Frozen Veil (SE-C-IVδ-103, 얼어붙은 베일) peels off the chamber wall like winter deciding to stand up. The archive record names it a Subject entity, Void element, Wail rank — can breach, can pursue, can choose. Its sorrow is the isolation of people who cannot connect: generations of suppressed feeling until distance became a presence that drains feeling from others. The archive note is specific about where it grew: SECTOR-A-01, Alpha Tree deep. It grew here. This chamber is its home, and the party are intruders in the one place it ever belonged.
+The Frozen Veil (SE-C-IVδ-103, 얼어붙은 베일) peels off the chamber wall like winter deciding to stand up. The archive record names it a Subject entity, Void element, Entity rank — can breach, can pursue, can choose. Its sorrow is the isolation of people who cannot connect: generations of suppressed feeling until distance became a presence that drains feeling from others. The archive note is specific about where it grew: SECTOR-A-01, Alpha Tree deep. It grew here. This chamber is its home, and the party are intruders in the one place it ever belonged.
 
 It moves. That is the difference from everything above — the well waited, the glass counted, but the Veil *advances*, frost spreading off it across floor and wall and ceiling, shrinking the chamber one glittering inch at a time.
 

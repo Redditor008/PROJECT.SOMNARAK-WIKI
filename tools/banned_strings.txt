@@ -20,7 +20,6 @@ different tiers. the entity's classification
 hungry..
 
 # 4. Outdated / Anachronistic Dates
-Year 4247
 
 # 5. Verbatim PM / LoR Vocabulary in Canonical Wings (enforced via seam_lint.py)
 # Note: Allowed only in whitelisted comparative documents per PM_VOCAB_POLICY.md

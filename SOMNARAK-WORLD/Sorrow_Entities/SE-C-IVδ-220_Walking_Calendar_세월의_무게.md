@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — An ancient figure draped in layer upon layer — stone slabs, old calendars, worn city records — all fused to its body, each step adding another year to its frame. Lead-heavy and slow, it smells of wet stone and dust; to stand near it is to feel your own years press down. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Slow Walking — lead-heavy and slow; each step adds another year to its frame. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage |
 | **R.D. Comprehension Level** | 3 — Advanced |
 

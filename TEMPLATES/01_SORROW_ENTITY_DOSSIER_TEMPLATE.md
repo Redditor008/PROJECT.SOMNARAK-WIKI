@@ -3,7 +3,7 @@
 **Template ID:** `T-01-SE-DOSSIER`  
 **Generates:** `SOMNARAK-WORLD/Sorrow_Entities/SE-{{SECC}}_ {{English_Name}}_{{Korean_Name}}.md`  
 **Authority:** `SOMNARAK-WORLD/Sorrow_Entities/README.md` + `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/*.md` + Global Primer Laws 1,4,5,7,8,9  
-**Canonical Count:** 292 unique SECC dossiers (never invent a new code — select from catalog)
+**Canonical Count:** 291 unique SECC dossiers (never invent a new code — select from catalog)
 
 ---
 

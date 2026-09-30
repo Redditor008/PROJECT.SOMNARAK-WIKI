@@ -57,7 +57,7 @@ The third segment indicates the baseline threat classification:
 - **`I` — Residue:** Minimal hazard; rookie training entities (10–12 LU).
 - **`II` — Echo:** Moderate hazard; minor breach potential (14–16 LU).
 - **`III` — Fragment:** Substantial hazard; lethal to unprotected operatives (16–20 LU).
-- **`IV` — Wail:** Severe hazard; multi-room corridor attacks (24–30 LU).
+- **`IV` — Entity:** Severe hazard; multi-room corridor attacks (24–30 LU).
 - **`V` — Sovereign:** Catastrophic hazard; existential municipal threat (32–36 LU).
 
 ## 4 Potency Suffixes: Volatility Sub-Tiers (Alpha to Omega)

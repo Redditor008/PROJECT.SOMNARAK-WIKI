@@ -18,7 +18,7 @@ The repository is structured into distinct, authoritative functional environment
 |---|---|---|
 | **`SOMNARAK-WORLD/`** | **100% In-Universe Narrative & Operational Source** | Official containment dossiers, master codices, equipment sets, specialized operational chronicles, and Echo-Core records written entirely from within the Somnarak universe. |
 | **`GAME_BATTLE/`** | **Tactical Combat Operations & Scenario Vault** | Turn-based combat encounters, boss battle mechanics, tactical battle templates, and authoring guides based on the 10-node spatial engine. |
-| **`PROJECT_MOON_RESEARCH/`** | **Encyclopedic Comparative Research Archive** | Comprehensive 12-volume research library and comparative study corpus detailing cosmology, factions, metaphysics, and mechanics. |
+| **`PROJECT_MOON_RESEARCH/`** | **Encyclopedic Comparative Research Archive** | Comprehensive 16-volume research library and comparative study corpus detailing cosmology, factions, metaphysics, and mechanics. |
 | **`REFERENCE_SOMNARAK_WIKI/`** | **Out-of-Universe Editorial Standards & Technical Audits** | Structural taxonomy, entity catalogs, paired-dossier audits, transfer manifests, weapon personalization ledgers, and multi-agent handoff protocols. |
 | **Root Blueprints (`.svg`)** | **Canonical Master Architectural & Cartographic Blueprints** | Official vector blueprints of the Somnarak Metropolitan Grid (`SOMNARAK_CITY_LAYOUT.svg`) and Facility 01 Cross-Section (`THE_HAND_DR_LAYOUT.svg`). |
 | **Root Governance & Tools** | **Operational Handbooks & Verification Infrastructure** | Authoritative developer handbooks (`DEVELOPMENT.md`, `RULE-TO-FOLLOW.md`, `SESSION_BREAK_PRECAUTION.md`, `CHANGELOG.md`, `TEST_TEXT_BOX_WIDTHS.md`) and automated audit tools (`tools/`). |
@@ -103,7 +103,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── 12_ABNORMALITY_ENCYCLOPEDIA.md      # Comprehensive abnormality entries (ZAYIN to ALEPH)
 │   └── README.md                           # Research master index & comparative overview
 │
-├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,706 files)
+├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,897 files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
 │   ├── Master_Codices/                     # 44 Macro-Canon Master Codices across 6 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
@@ -351,7 +351,7 @@ The repository root houses the dedicated `GAME_BATTLE/` operational suite, servi
 
 ## Project Moon Encyclopedic Research Compendium (Root: `PROJECT_MOON_RESEARCH/`)
 
-The repository root houses a dedicated 12-volume encyclopedic research compendium examining the structural worldbuilding, faction hierarchies, metaphysical paradigms, and game mechanics of Project Moon's works (Lobotomy Corporation, Library of Ruina, Limbus Company, Distortion Detective, and Leviathan), serving as a benchmark for comparative narrative audits:
+The repository root houses a dedicated 16-volume encyclopedic research compendium examining the structural worldbuilding, faction hierarchies, metaphysical paradigms, and game mechanics of Project Moon's works (Lobotomy Corporation, Library of Ruina, Limbus Company, Distortion Detective, and Leviathan), serving as a benchmark for comparative narrative audits:
 
 | Research Volume | Volume Title & Focus | Key Subject Matter Explored |
 |---|---|---|

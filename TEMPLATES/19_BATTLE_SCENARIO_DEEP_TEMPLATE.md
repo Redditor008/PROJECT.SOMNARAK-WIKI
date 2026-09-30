@@ -11,7 +11,7 @@
 
 - **Scenarios are SOP-GB-SPEC-001 compliant** — 6-turn minimum, 10-Node Grid, Speed-to-AP, 4P Framework, Dual-Threshold Stagger, Sorrow Tide tick (+10% Han saturation per 6-turn Phase).
 - **Battle Styles:** Generic P.S. Core + 5 Wing Styles — Reverie Directorate (Facility Oversight & Echo-Cores), UCD (Urban CQB & Part Dismantling), SED (Abyssal Depth Pressure & Sonar), Memory Archive (Mnemonic Suture), Horizon Caravan (Trans-Desolate Bastion Warfare). Pick ONE primary style per scenario.
-- **Entity must exist** in 292 catalog (no invention). If scenario is UCD, adversary may be syndicate construct; if SED, abyssal entity (Oehan) is appropriate.
+- **Entity must exist** in 291 catalog (no invention). If scenario is UCD, adversary may be syndicate construct; if SED, abyssal entity (Oehan) is appropriate.
 - **Range Bands 1–5 + Falloff 100%→70%→50%** must be used for any piercing weapon.
 
 ---

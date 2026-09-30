@@ -7,17 +7,22 @@
 
 ## Document ID Format
 
-**Format:** `SE-[Number]`
+**Format:** `SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]`
+
+> Example: `SE-C-IIIβ-014 [VS]` → City-origin Sorrow Entity number 014, Fragment coherence, Moderate potency, Void element, Subject-Body manifestation. (Authority: `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md`.)
 
 | Prefix | Meaning | Example |
 |--------|---------|---------|
-| **SE-** | Sorrow Entity | SE-001, SE-044, SE-246 |
-| **Number** | Matches entity number in Codex | SE-001 = Entity 001 (The Orphaned Bell) |
+| **SE-C-** | City-origin Sorrow Entity (158 dossiers) | SE-C-IIIβ-014 (The Debt Eater) |
+| **SE-O-** | Outside-origin Sorrow Entity (61 dossiers) | SE-O-IIIβ-120 (The Wrath Flame) |
+| **SE-N-** | Inner-origin Sorrow Entity (72 dossiers) | SE-N-IVδ-901 (The Mewgical Girl) |
+| **[Coherence][Potency]** | Residue I / Echo II / Fragment III / Entity IV / Sovereign V + potency α–ω | IIIβ, Vδ, Iα |
+| **Number** | Registry slot (may recur across scopes by design; retired serials never reassigned) | 014, 071c (variant suffix) |
 
 **Rules:**
-- Each entity gets one Document ID
-- The number matches the entity's position in the Codex
-- If multiple documents exist for one entity, add a suffix: SE-001-A, SE-001-B
+- Each entity gets one Document ID in the full canonical format above
+- The trailing serial is a registry slot, not a uniqueness key (19 serials recur within a prefix letter by design)
+- If multiple documents exist for one entity, add a letter suffix to the serial: SE-C-Iα-071, SE-C-Iα-071b, SE-C-Iα-071c
 
 ---
 
@@ -152,7 +157,7 @@ Documents are written by R.D. personnel. Use these names:
 
 | Rule | Description |
 |------|-------------|
-| **Document ID** | SE-[Number] — matches entity number in Codex |
+| **Document ID** | SE-[Origin]-[Coherence][Potency]-[Number] — full canonical format |
 | **Author** | Use R.D. personnel names — never use real names |
 | **Date** | Use Year 4232+X format — never use real-world dates |
 | **Classification** | Match content sensitivity — Open/Restricted/Classified/Echo-Core Eyes Only |

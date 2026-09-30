@@ -91,7 +91,7 @@ It is also, the party understands with sinking consensus, not something to be se
 - **Door:** *The Full Opening.* The Door swings wide a handspan — and the void beyond pours through: heavy Void flood on the whole front line. Senior (bulwark) takes 6 Weight strain (Composure holds at 25); Xyan takes 5 (40 to 35, case +3 back to 38); Junior takes 7 (22 to 15 SP — ON the line now) — and a frame-splinter the size of a spearhead punches through the junior's side below the shield-rim: critical HP wound, held shut by will and the count (*sixty-five, sixty-four—*); Marjuk — both wardens throw themselves across the node (dual intercept, Block 14-18 + 8-12): Marjuk takes 0. Zero. The bodyguard protocol holds perfectly.
 - **Xyan:** Loans the case to Marjuk (adjacent handoff): +3 (10 to 13 SP). *Spend it on the key, Keeper. That is an order from the route.*
 - **Senior Warden:** Block 14-18, bleeding from a brow-cut, grinning. *Zero, Keeper. You are welcome.*
-- **Junior Warden:** At 15 SP, counting through chattering teeth: *sixty-five, sixty-four—* Holds the second rank.
+- **Junior Warden:** At 15 SP, counting through chattering teeth: *sixty-five, sixty-four—* Transform onset begins at the line: the junior counts as separated for isolation effects and cannot hold the node alone — the relay officer steps into Block 8-12 beside them while every breach vector in play stirs toward the new gap.
 - **Marjuk:** At 13 SP, Opening Stage 2 COMPLETE. The seal breaks like ice on a river. Stage 3 (Enter) begins — the key goes into the Door's own lock, the one no hand has turned in recorded history.
 - **Turn end:** the relay officer logs: *Flood weathered, Keeper untouched. Case with Marjuk at 13. Seal broken. Count: sixty. Almost through.*
 
@@ -100,7 +100,7 @@ It is also, the party understands with sinking consensus, not something to be se
 - **Door:** The Door, unsealing, lashes the line with frame-splinters (minor Void, all blocked). It knows what is coming. Doors always know.
 - **Xyan (without case, 38 SP):** Full guard — Block 4-8, Counter 3-6, roaming. The line is iron.
 - **Senior Warden:** Block 14-18. *Kid, status.*
-- **Junior Warden:** *Fifteen, steady, counting: fifty-five, fifty-four—* The counting never stopped. It will never stop again, the junior will say later. Not for years.
+- **Junior Warden:** *Fifteen, steady, counting: fifty-five, fifty-four—* The onset holds at the line — separated, scarred, still counting. The counting never stopped. It will never stop again, the junior will say later. Not for years.
 - **Marjuk (13 SP, case in off-hand):** Turns the key. Opening Stage 3 COMPLETE. The Final Door — Sovereign barrier, oldest seal in the descent, the end of doors — swings open.
 - **Beyond it:** the God-Vault. And the God, sitting up.
 - **Turn end:** the relay officer's log entry for Turn 05 is one line, in handwriting the surface clerks will argue about for a decade: *THE DOOR IS OPEN. IT IS AWAKE.*
@@ -137,7 +137,7 @@ The relay officer ties off the last meter of cable, shoulders a spare shield, an
 The relay officer's final transmitted log, the last entry to reach the surface:
 
 - V-4 Dreaming Gallery secured. Final Door (SE-C-Vδ-111) opened via three-stage vault-opening; ultimate endured Turn 06.
-- Casualties: one evacuated (Junior Warden — frame-splinter wound, critical; Emergency Ascent fired, ninety seconds to V-0, expected to survive). Wounded: two (Senior, brow-cut; Marjuk, Transform scar). Marjuk below line entire chapter (10→14 SP); bodyguard protocol held — Keeper took 2 splash in six turns. Frozen Veil (SE-C-IVδ-103) DESTROYED — devoured by the waking God.
+- Casualties: one evacuated (Junior Warden — frame-splinter wound + Transform scar (onset at 15 SP), critical; Emergency Ascent fired, ninety seconds to V-0, expected to survive). Wounded: two (Senior, brow-cut; Marjuk, Transform scar). Marjuk below line entire chapter (10→14 SP); bodyguard protocol held — Keeper took 2 splash in six turns. Frozen Veil (SE-C-IVδ-103) DESTROYED — devoured by the waking God.
 - **The Forgotten God (SE-C-Vδ-265) is awake and standing. Parley attempted; God demands the Tear's return or battle.**
 - Depth drain at maximum next chapter (V-5): all members open Descent 6 at -20 cumulative Composure.
 - Cable: 5% remaining — Descent 6 will be fought mostly unlogged. What follows is reconstructed from the case-recorder and the survivors.

@@ -41,7 +41,7 @@ The whole-universe wiki part is preserved verbatim in the exact form requested �
 +------------------------------------------------------------------------+
 | Whole Universe | github: SOMNARAK-WORLD / arena / 01a0b699             |
 |                | path: SOMNARAK-WORLD/ (1710 files)                    |
-| Master Codices | 44 codices across 6 wings (01–06)                     |
+| Master Codices | 49 codices across 6 wings (01–06)                     |
 | Sorrow Entities| 292 dossiers — SECC SE-[Origin]-[Rank][Pot]-[Num]     |
 | M.A.W. Sets    | 198 quadripartite sets / 1208 files / 42 reg.         |
 | Auxiliary Wings| Absolvohan, Katabagil, Katharcheok, Gieok, Jipyeong   |
@@ -96,7 +96,7 @@ Verified on `arena/01a0b699-project-somnarak-wiki` — 1,710 files (2026-09-29).
 | 7 | **Gameplay / Tactical Engine** | `7 Gameplay` | `Tactical_Combat_Engine/` + `GAME_BATTLE/` — Initiative, Stress, Resonance, Grid | 16 |
 | 8 | **Relic-Entities (Tool analogue)** | `8 Tool Abnormalities` | Object/Place/Time entities → Two-Work-Type only (`Viderehan` + `Ferrehan`) — `SE-C/N/O-III/IV-...` | 88 |
 | 9 | **SECC — Classification Code** | `9 Classification Code` | `Sorrow_Entities/README.md` — `SE-[Origin]-[Rank][Potency]-[Number]` (e.g., `SE-C-IIIβ-014`), `Rank I→V`, `Pot α→ω`, Origin `C/N/O` + `UNK` | 292 |
-| 10 | **Master Codices (Codex)** | `10 Codex` / `Dissolution` | `Master_Codices/` 44 codices across 6 wings (01 Cosmology, 02 Wings/Chronicles, 03 Systems, 04 Society, 05 Tales, 06 Audits) | 44 |
+| 10 | **Master Codices (Codex)** | `10 Codex` / `Dissolution` | `Master_Codices/` 49 codices across 6 wings (01 Cosmology, 02 Wings/Chronicles, 03 Systems, 04 Society, 05 Tales, 06 Audits) | 44 |
 | 11 | **Story Cantos (Trivia/Etymology analogue)** | `11 Trivia` / `11.1 Etymology` | `Story_Cantos/` — 6 dialogue-driven Cantos (Min-Jae, Seol-A, Taeho, Ha-Eun, Seiyon, Kang) | 6 |
 | 12 | **Institutional Wings & Frontiers** | `12 External Links` | `Echo_Cores/` (9) + `The_Absolvohan/` (366-day) + `Katabagil/` (7 Descents) + `Katharcheok/` (6 Sweeps) + `Gieok_Jeojangso/` (7 Receptions) + `Jipyeongseondae/` (6 Arcs) | 47 |
 | 13 | **Navigation & Registries** | `13 Navigation` | `REFERENCE_SOMNARAK_WIKI/` catalogs + `TEMPLATES/` 24 kits + `CANONICAL_METRICS.json` | 24 |

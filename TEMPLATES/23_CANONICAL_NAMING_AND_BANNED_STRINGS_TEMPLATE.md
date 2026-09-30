@@ -9,7 +9,7 @@
 ## DEEP KNOWLEDGE — READ BEFORE WRITING
 
 - **Naming is law, not flavor.** A wrong name is a lore break that fails audit.
-- **Sorrow Entity names** are drawn from the 292 catalog or its paired variants. When inventing narrative persons (citizens, wardens, syndicate leaders), use Korean civilian names (Min-Jae, Seol-A, Taeho, Ha-Eun, Seiyon) + rank/call-sign, never PM crossover names (Roland, Angela, Ayin, Carmen, etc. — banned).
+- **Sorrow Entity names** are drawn from the 291 catalog or its paired variants. When inventing narrative persons (citizens, wardens, syndicate leaders), use Korean civilian names (Min-Jae, Seol-A, Taeho, Ha-Eun, Seiyon) + rank/call-sign, never PM crossover names (Roland, Angela, Ayin, Carmen, etc. — banned).
 - **SECC is immutable.** Do not “improve” a code. Copy it verbatim: `SE-{{ORIGIN}}-{{RANK}}{{POTENCY}}-{{NUM}}`. Origins C/N/O, Ranks I–V, Potencies α/β/γ/δ/ω. Element ABBRs: `[VS]` Void-Sovereign etc. are optional but must match if used.
 - **Company taxonomy:** 5 Main Companies + 5 Sub Companies = 10 Primary Companies. All else = “Somnarak Outsider Factory.” Memory Archive is a municipal sanctuary, not a company — never list it among the 10.
 - **Geography naming** belongs in `SOMNARAK_GEOLOGY.md` register — The Maw (terrain), The Weeping (river), Weeping corridors, Dust Flats, Crystal Peaks, Sea of Glass, Consoling Ocean [ConHeAn], Numbing Tundra [NuRoZen], Sorrow Lake. Never file terrain as SE.
