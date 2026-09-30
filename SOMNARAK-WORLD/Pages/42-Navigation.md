@@ -12,7 +12,7 @@ Rather than presenting an unstructured list of files, this index mirrors authent
 +------------------------------------------------------------------------+
 | Archive Hub            | SOMNARAK-WORLD / Pages (Complete Navigation)  |
 | Architecture           | 3 Main - 2 Sub - 4 Individual Specimens       |
-| Core Bestiary          | 292 Sorrow Entities (285 SECC) - 88 Relics    |
+| Core Bestiary          | 291 Sorrow Entities (284 SECC) - 88 Relics    |
 | Facility Command       | 9 Echo-Cores across Floors 1 to 8 + Central   |
 | Calendar Standard      | Year 4,238 / Reverie Cycle 1,778              |
 +========================================================================+
@@ -81,7 +81,7 @@ Authentic dossier articles demonstrating the primary operational archetypes cata
 ## 5 Utility and Field Tools
 
 - [02-Recent Echoes](02-Recent%20Echoes.md) — recent changes, patchnotes, and field logs
-- [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 292 containment records
+- [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 291 containment records
 - [04-Help](04-Help.md) — reading guide for novices and containment safety standards
 
 ## 6 Gallery

@@ -94,7 +94,7 @@ Verified `wiki.gg` Contents (2026-09-29):
 
 | Lobotomy `Abnormalities` Page | Somnarak (P.S.) Equivalent | Where to Read P.S. |
 |---|---|---|
-| **Abnormalities** (Hwansangche) whole page | **Sorrow Entities** (슬픔체, *Seulpeumche* + individual names) | `SOMNARAK-WORLD/Sorrow_Entities/` (292 dossiers) + `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/` |
+| **Abnormalities** (Hwansangche) whole page | **Sorrow Entities** (슬픔체, *Seulpeumche* + individual names) | `SOMNARAK-WORLD/Sorrow_Entities/` (291 dossiers) + `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/` |
 | §2 Behavior / Pairs & Families | **Behavior & Work-Preference** / **Paired Entities** | `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` (Work Notes, Paired Fact Sheet) |
 | §3 Origin (River / Bucket / Well / Cogito) | **Primordial River / The Root Grid / Mnemonic Wells / Lumen** | `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` + `CANON_TIMELINE.md` |
 | §4 Enkephalin | **Lumen / Resonance** (facility power analogue) | `SOMNARAK-WORLD/Master_Codices/05_Tactical_Systems_and_Operations/` |

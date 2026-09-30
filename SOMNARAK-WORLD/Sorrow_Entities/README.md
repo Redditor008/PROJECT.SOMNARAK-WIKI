@@ -18,26 +18,29 @@ Sorrow Entities are metaphysical anomalies crystallized from concentrated human 
 
 Entity files follow the standardized SECC classification format:
 
-SE-[M]-[T][S]-[N]
+SE-[Origin]-[Coherence][Potency]-[Number]
+
+> Example: `SE-C-IIIβ-014` → City-origin Sorrow Entity 014, Fragment coherence, Beta potency. (Authority: `Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md`.)
 
 Where:
 - **`SE`**: Sorrow Entity prefix.
-- **`[M]` Manifestation Class**:
-  - `C`: Concrete / Physical Entity
-  - `N`: Non-physical / Ethereal / Acoustic Entity
-  - `A`: Abstract / Phenomenological Entity
-- **`[T]` Threat Tier (Roman Numerals)**:
+- **`[Origin]` Origin Scope**:
+  - `C`: City-origin Sorrow (158 dossiers)
+  - `O`: Outside-origin Sorrow (61 dossiers)
+  - `N`: Inner-origin Sorrow (72 dossiers)
+- **`[Coherence]` Coherence Rank (Roman Numerals)**:
   - `I` (**Rank I: Residue / 잔여물**): Negligible or passive threat; minimal cell breach risk.
   - `II` (**Rank II: Echo / 메아리**): Low-to-moderate threat; standard suppression squads sufficient.
   - `III` (**Rank III: Fragment / 파편**): Significant threat; lethal capabilities requiring disciplined work.
   - `IV` (**Rank IV: Entity / 존재**): Critical threat; massive psychological degradation or structural breach hazard.
   - `V` (**Rank V: Sovereign / 군주**): Catastrophic existential threat; potential facility-wide or district-wide collapse.
-- **`[S]` Subtype Suffix (Greek Letters)**:
+- **`[Potency]` Potency Suffix (Greek Letters)**:
   - `α` (Alpha): Stable / predictable resonance
   - `β` (Beta): Fluctuating / condition-sensitive resonance
   - `γ` (Gamma): Aggressive / breach-prone resonance
   - `δ` (Delta): Volatile / reality-warping resonance
-- **`[N]` Identifier**: Canonical numeric registry number (e.g. `001`, `014`, `275`, `949`).
+  - `ω` (Omega): Apex / sovereign-tier resonance
+- **`[Number]` Registry Slot**: Canonical numeric registry slot (e.g. `001`, `014`, `275`, `949`). The serial may recur across scopes by design; retired serials are never reassigned. Multi-document entities take letter suffixes (`071`, `071b`, `071c`).
 
 ---
 

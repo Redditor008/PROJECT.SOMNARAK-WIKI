@@ -30,7 +30,7 @@
 
 ## 2. Why You Must Read `PROJECT_SOMNARAK.md` First
 
-`SOMNARAK-WORLD` contains over 1,700 technical files, 292 unique Sorrow Entity dossiers, 198 complete quadripartite M.A.W. armory codices, battle simulations, and historical chronicles. Without understanding the primary philosophical and cosmological foundation established in **`PROJECT_SOMNARAK.md`**, these records will appear as disconnected tactical entries.
+`SOMNARAK-WORLD` contains 1,897 technical files, 291 unique Sorrow Entity dossiers, 198 complete quadripartite M.A.W. armory codices, battle simulations, and historical chronicles. Without understanding the primary philosophical and cosmological foundation established in **`PROJECT_SOMNARAK.md`**, these records will appear as disconnected tactical entries.
 
 `PROJECT_SOMNARAK.md` provides the **essential lens** through which every single file in this world must be read:
 

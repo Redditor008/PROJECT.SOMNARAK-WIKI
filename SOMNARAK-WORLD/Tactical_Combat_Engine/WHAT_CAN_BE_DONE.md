@@ -58,7 +58,7 @@ The playable system is organized into five decoupled architectural modules:
 +-------------------------------------------------------------------+
 |                        CANONICAL DATA REPO                        |
 |  - Operative Database (Base Stats, Tempo Dice, M.A.W. Wear)       |
-|  - 292 Sorrow Entities (Modular Parts, AI Intention Decks)        |
+|  - 291 Sorrow Entities (Modular Parts, AI Intention Decks)        |
 |  - 198 Quadripartite M.A.W. Sets (Weapons, Suits, Stigmas)        |
 +-------------------------------------------------------------------+
 ```

@@ -31,6 +31,9 @@ p_word_dot_comma = re.compile(r'\b[a-z]{2,}\.,')
 # Echo-Core command-floor canon: EC-N commands Floor (N-1) for N>=2; EC1 holds Floor 1
 p_ec_command = re.compile(r'Echo-Core (\d)[^.\n]{0,80}?(?:command(?:s|er)?|holds?|keeps?|leads?|heads?|administers?|runs?|watches over)[^.\n]{0,40}?Floor 0?(\d)'.replace(chr(92)+'n', chr(92)+'n'))
 
+# Retired rank names must not return: Wail/Whisper/Murmur near Rank or a Roman numeral
+p_old_rank = re.compile(r'\b(Wail|Whisper|Murmur)\b.{0,24}\b([Rr]ank|II(?![.\d])|III(?![.\d])|IV(?![.\d])|V(?![.\d]))\b|\b([Rr]ank|II(?![.\d])|III(?![.\d])|IV(?![.\d])|V(?![.\d]))\b.{0,24}\b(Wail|Whisper|Murmur)\b')
+
 files = [f for f in glob.glob("SOMNARAK-WORLD/**/*.md", recursive=True) if should_audit(f)]
 
 for f in files:
@@ -60,10 +63,15 @@ for f in files:
             if fl != want:
                 errors.append(f"{f}:{line_num} -> [EC_FLOOR] Echo-Core {n} paired with Floor {fl} (canon: EC-N commands Floor N-1; EC1 holds Floor 1)")
 
+        # Check retired rank names (V5-9); the codex deprecation note is whitelisted
+        if not ("SOMNARAK_ENTITY_CODEX.md" in f and "Archival variants" in line):
+            for m in p_old_rank.finditer(line):
+                errors.append(f"{f}:{line_num} -> [OLD_RANK] Retired rank usage: '{m.group(0).strip()[:50]}'")
+
 # Scoped prose path check: backticked / barked *.md filenames outside known-good
 # scopes (research mirror, templates-as-examples, history logs) must exist on disk.
-_path_skip_dirs = ("REFERENCE_", "PROJECT_MOON_RESEARCH", "TEMPLATES", "tools", "docs")
-_path_skip_files = {"CHANGELOG.md", "DEVELOPMENT.md", "INTEGRITY_AND_LORE_REVIEW.md",
+_path_skip_dirs = ("REFERENCE_", "PROJECT_MOON_RESEARCH", "TEMPLATES", "tools")
+_path_skip_files = {"CHANGELOG.md", "INTEGRITY_AND_LORE_REVIEW.md",
                     "CANONICAL_METRICS.md", "EXPANSION_RESEARCH_STORY_AND_BATTLE.md",
                     "UNIVERSAL_FOLLOW_RULE.md"}
 _path_skip_line = ("File plan", "Example", "illustrative", "Purged", "hypothetical",
@@ -87,6 +95,7 @@ def _skip_token(tok):
 _path_files = [f for f in glob.glob("SOMNARAK-WORLD/**/*.md", recursive=True)
                if should_audit(f)]
 _path_files += [f for f in glob.glob("GAME_BATTLE/*.md")]
+_path_files += [f for f in glob.glob("docs/*.md")]
 _path_files += [f for f in glob.glob("*.md")]
 for f in _path_files:
     if any(d in f for d in _path_skip_dirs):

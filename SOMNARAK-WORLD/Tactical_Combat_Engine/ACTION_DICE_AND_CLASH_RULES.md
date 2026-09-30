@@ -116,7 +116,7 @@ descent operations. Canto dossiers record the same stat as full attribute baseli
 | 50 (full) | Fresh; no effects |
 | 30 | Doctrine caution: no lone nodes, no point positions |
 | 20 | Second caution: buddy pairs mandatory, shields shared |
-| **15 — the Transform line** | Onset begins: the member counts as separated for isolation effects, cannot hold a lone node, and any breach vector in play may trigger through them |
+| **At or below 15 — the Transform line** | Onset begins: the member counts as separated for isolation effects, cannot hold a lone node, and any breach vector in play may trigger through them |
 | 0 | Terminal Meltdown (P2: Panic); the member is lost to the field |
 
 Recovery above 15 arrests onset but leaves a Transform scar: a permanent mark (frost-veins,

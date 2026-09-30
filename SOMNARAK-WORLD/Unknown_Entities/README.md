@@ -10,7 +10,7 @@
 
 ## Overview
 
-> **Macro-Chronological Canon Law:** By binding Project Owner decree, **UNK SE Is After R.D.** While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loop era, the Unknown Sorrow Entities defy standard cyclical taxonomy and manifest strictly **AFTER R.D.**, bridging into the Post-Dawn era alongside the Dawn Initiative and continental expeditions. Macro-geographical and regional planetary features are permanent terrain and not Sorrow Entities.
+> **Macro-Chronological Canon Law:** By binding Project Owner decree, **UNK SE Is After R.D.** While the 291 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loop era, the Unknown Sorrow Entities defy standard cyclical taxonomy and manifest strictly **AFTER R.D.**, bridging into the Post-Dawn era alongside the Dawn Initiative and continental expeditions. Macro-geographical and regional planetary features are permanent terrain and not Sorrow Entities.
 
 The `Unknown_Entities/` archive holds dossiers on anomalous entities and narrative artifacts that defy standard SECC taxonomy, originate beyond the explored sectors of The Maw, or demonstrate non-cyclical behavior patterns.
 
